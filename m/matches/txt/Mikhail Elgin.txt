@@ -1,0 +1,461 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+9-Mar-2020,Nur-Sultan CH,3,Hard,R64,,,0,Alt,Alt,Szymon Walkow,Mikhail Elgin,6-3 6-1,0.52,2.1%,2.1%,53.2%,68.0%,27.3%,3/7,38.0%,26.7%,2.2%,28.6%,23.5%,0/0,92,1,1,47,25,22,1,0:58
+9-Sep-2019,Istanbul CH,3,Hard,R32,1609,354,0,Alt,,Evan Hoyt,Mikhail Elgin,6-4 7-5,0.78,3.5%,5.8%,48.8%,76.2%,43.2%,13/15,46.3%,31.6%,3.9%,30.4%,33.3%,0/5,162,3,5,86,42,44,3,1:37
+11-Feb-2019,M25 Aktobe,3,Hard,R16,,512,0,Q,,Ben Fatael,Mikhail Elgin,3-6 7-6(2) 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M25 Aktobe,3,Hard,R32,,404,1,Q,,Mikhail Elgin,Chien Hsun Lo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Shenzhen CH,3,Hard,Q1,,361,0,ALT,6,Arjun Kadhe,Mikhail Elgin,7-6(1) 1-1 RET,0.75,6.0%,10.0%,50.0%,60.0%,44.0%,2/4,44.3%,36.2%,8.5%,31.3%,46.7%,2/4,97,3,5,50,25,25,4,1:02
+10-Sep-2018,Istanbul CH,3,Hard,Q2,1144,366,0,,1,Youssef Hossam,Mikhail Elgin,6-4 3-6 6-4,1.01,7.9%,2.2%,47.2%,73.8%,53.2%,5/8,49.5%,37.4%,5.1%,25.4%,55.0%,3/11,188,7,2,89,42,47,5,2:01
+10-Sep-2018,Istanbul CH,3,Hard,Q1,1144,,1,,,Mikhail Elgin,Ramazan Nureev,6-1 6-3,3.11,23.7%,2.6%,63.2%,87.5%,78.6%,0/0,63.2%,49.1%,1.8%,39.4%,62.5%,4/13,95,9,1,38,24,14,1,0:55
+3-Sep-2018,Cassis CH,3,Hard,Q1,1141,298,0,,5,Joao Lucas Magalhaes Hueb De Menezes,Mikhail Elgin,7-5 6-2,0.70,3.4%,5.2%,50.0%,72.4%,44.8%,3/7,44.2%,29.1%,12.7%,26.1%,44.4%,1/2,113,2,3,58,29,29,7,1:05
+13-Aug-2018,Gwangju CH,3,Hard,Q1,861,896,0,,,Matej Sabanov,Mikhail Elgin,W/O,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Astana CH,3,Hard,Q2,863,575,0,,8,Khumoun Sultanov,Mikhail Elgin,6-2 6-4,0.70,6.1%,12.2%,57.1%,53.6%,33.3%,4/10,41.8%,38.8%,10.2%,28.6%,46.4%,3/5,98,3,6,49,28,21,5,1:17
+18-Jun-2018,Fergana CH,3,Hard,Q1,866,337,0,,3,Roman Safiullin,Mikhail Elgin,4-6 6-1 6-2,0.68,10.1%,5.8%,66.7%,67.4%,30.4%,3/8,42.6%,30.6%,9.7%,20.0%,48.1%,2/5,141,7,4,69,46,23,7,1:32
+4-Jun-2018,Shymkent CH,3,Clay,Q3,856,358,0,WC,,Kevin Krawietz,Mikhail Elgin,6-1 1-0 RET,0.48,0.0%,0.0%,66.7%,50.0%,37.5%,3/6,36.2%,26.1%,8.7%,6.7%,62.5%,0/1,47,0,0,24,16,8,2,0:27
+4-Jun-2018,Shymkent CH,3,Clay,Q2,856,344,1,WC,,Mikhail Elgin,Jose Rubin Statham,6-2 7-5,1.80,5.6%,1.9%,61.1%,84.8%,57.1%,4/5,59.6%,46.7%,8.3%,40.0%,66.7%,4/5,114,3,1,54,33,21,5,1:22
+4-Jun-2018,Shymkent CH,3,Clay,Q1,856,275,1,WC,2,Mikhail Elgin,Maximilian Neuchrist,3-6 6-3 6-4,0.94,1.0%,0.0%,76.8%,67.1%,52.2%,6/8,50.6%,34.2%,6.3%,28.8%,50.0%,3/6,178,1,0,99,76,23,5,2:04
+14-May-2018,Samarkand CH,3,Clay,Q2,843,599,0,,,N Sriram Balaji,Mikhail Elgin,6-3 7-6(4),0.93,8.3%,0.0%,66.7%,75.0%,70.0%,2/3,46.0%,24.7%,18.2%,15.0%,35.1%,0/9,137,5,0,60,40,20,14,1:34
+14-May-2018,Samarkand CH,3,Clay,Q1,843,1527,1,,WC,Mikhail Elgin,Nigmat Shofayziev,6-2 6-4,1.46,7.7%,3.8%,76.9%,80.0%,25.0%,2/3,56.2%,47.8%,5.8%,38.1%,63.0%,4/11,121,4,2,52,40,12,4,1:10
+7-May-2018,Karshi CH,3,Hard,Q1,837,422,0,,2,Sasi Kumar Mukund,Mikhail Elgin,6-3 5-2 RET,0.57,10.2%,6.8%,45.8%,70.4%,34.4%,4/8,41.2%,27.9%,7.0%,18.2%,38.1%,1/1,102,6,4,59,27,32,3,1:06
+19-Mar-2018,Qujing CH,3,Hard,Q2,839,532,0,,4,Yunseong Chung,Mikhail Elgin,6-3 6-7(4) 6-3,0.92,3.3%,4.4%,76.7%,59.4%,52.4%,2/7,47.4%,38.7%,2.8%,36.6%,42.9%,3/6,196,3,4,90,69,21,3,1:55
+19-Mar-2018,Qujing CH,3,Hard,Q1,839,562,1,,8,Mikhail Elgin,Ronald Slobodchikov,6-0 7-6(6),1.65,6.6%,3.3%,95.1%,79.3%,0.0%,1/1,56.9%,40.6%,7.2%,33.3%,54.2%,3/6,130,4,2,61,58,3,5,1:21
+12-Mar-2018,Shenzhen CH,3,Hard,Q1,835,583,0,,,Xin Gao,Mikhail Elgin,6-3 6-4,0.62,7.3%,5.5%,45.5%,68.0%,60.0%,2/4,43.5%,22.6%,9.4%,17.2%,29.2%,0/0,108,4,3,55,25,30,5,1:05
+5-Mar-2018,Zhuhai CH,3,Hard,Q3,835,805,0,,,Zihao Xia,Mikhail Elgin,7-6(4) 0-0 RET,0.91,10.6%,0.0%,63.8%,80.0%,41.2%,6/6,48.9%,31.1%,0.0%,21.4%,47.1%,0/2,92,5,0,47,30,17,0,1:09
+5-Mar-2018,Zhuhai CH,3,Hard,Q2,835,252,1,,3,Mikhail Elgin,Edan Leshem,6-4 6-3,1.18,7.2%,2.9%,56.5%,79.5%,50.0%,6/6,53.8%,39.3%,3.3%,24.3%,62.5%,2/7,130,5,2,69,39,30,2,1:34
+5-Mar-2018,Zhuhai CH,3,Hard,Q1,835,490,1,,,Mikhail Elgin,Yan Bai,6-3 4-6 6-2,1.20,0.0%,1.1%,72.2%,63.1%,56.0%,6/9,54.0%,46.5%,5.8%,37.2%,55.8%,5/12,176,0,1,90,65,25,5,2:04
+12-Feb-2018,Cherbourg CH,3,Hard,Q2,844,350,0,,4,Alexandre Muller,Mikhail Elgin,7-6(5) 2-6 6-2,1.01,5.9%,2.0%,67.6%,62.3%,42.4%,10/15,50.2%,44.4%,7.1%,43.3%,46.9%,5/11,201,6,2,102,69,33,7,1:54
+12-Feb-2018,Cherbourg CH,3,Hard,Q1,844,,1,,WC,Mikhail Elgin,Quentin Gueydan,7-6(4) 6-1,1.74,14.0%,1.8%,73.7%,83.3%,53.3%,0/1,58.3%,42.9%,4.8%,28.1%,58.1%,3/6,120,8,1,57,42,15,3,1:04
+1-Jan-2018,Bangkok CH,3,Hard,Q2,843,305,0,,4,Bernabe Zapata Miralles,Mikhail Elgin,6-4 6-6 RET,0.83,5.1%,3.8%,62.8%,55.1%,51.7%,12/17,46.8%,38.1%,4.8%,29.3%,54.5%,4/6,141,4,3,78,49,29,3,1:28
+1-Jan-2018,Bangkok CH,3,Hard,Q1,843,1296,1,,WC,Mikhail Elgin,Congsup Congcar,6-2 7-6(6),1.40,13.8%,4.6%,66.2%,76.7%,54.5%,4/6,56.2%,43.1%,0.0%,38.6%,52.4%,4/8,130,9,3,65,43,22,0,1:31
+6-Nov-2017,Bratislava CH,3,Hard,Q1,847,363,0,,5,Dzmitry Zhyrmont,Mikhail Elgin,1-6 6-4 7-6(5),1.16,21.5%,1.3%,72.2%,75.4%,45.5%,1/3,51.4%,38.3%,4.3%,31.1%,51.5%,4/11,173,17,1,79,57,22,4,1:44
+18-Sep-2017,St. Petersburg,3,Hard,Q2,801,185,0,WC,2,John Patrick Smith,Mikhail Elgin,7-6(4) 6-2,0.81,1.2%,1.2%,68.2%,60.3%,33.3%,8/12,45.9%,39.2%,1.4%,33.3%,58.8%,2/6,159,1,1,85,58,27,1,1:43
+18-Sep-2017,St. Petersburg,3,Hard,Q1,801,294,1,WC,7,Mikhail Elgin,Petr Michnev,7-6(2) 6-4,1.27,1.3%,1.3%,57.9%,75.0%,53.1%,3/5,54.5%,43.6%,5.1%,37.5%,50.0%,3/7,154,1,1,76,44,32,4,1:35
+14-Aug-2017,Russia F7,3,Clay,F,818,428,0,,1,Evgeny Karlovskiy,Mikhail Elgin,6-2 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Russia F7,3,Clay,SF,818,900,1,,,Mikhail Elgin,Anton Zaitsev,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Russia F7,3,Clay,QF,818,920,1,,WC,Mikhail Elgin,Artem Dubrivnyy,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Russia F7,3,Clay,R16,818,632,1,,5,Mikhail Elgin,Ilya Vasilyev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Russia F7,3,Clay,R32,818,1247,1,,Q,Mikhail Elgin,Vladimir Korolev,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Russia F6,3,Clay,QF,813,903,0,,Q,Anton Zaitsev,Mikhail Elgin,6-7(6) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Russia F6,3,Clay,R16,813,513,1,,2,Mikhail Elgin,Alexandr Igoshin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Russia F6,3,Clay,R32,813,1329,1,,Q,Mikhail Elgin,Vladimir Korolev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poprad-Tatry CH,3,Clay,Q2,751,672,0,,7,Patrik Nema,Mikhail Elgin,6-4 5-7 6-2,0.92,10.0%,9.0%,45.0%,68.9%,41.8%,7/14,48.6%,42.4%,5.9%,20.5%,60.9%,5/7,185,10,9,100,45,55,5,1:59
+19-Jun-2017,Poprad-Tatry CH,3,Clay,Q1,751,1083,1,,,Mikhail Elgin,Vlad Victor Cornea,6-4 3-6 6-2,1.20,7.1%,2.4%,59.5%,82.0%,41.2%,2/4,52.8%,41.3%,3.3%,32.1%,53.8%,4/8,176,6,2,84,50,34,3,1:49
+15-May-2017,Samarkand CH,3,Clay,Q1,759,367,0,,6,Yaraslau Shyla,Mikhail Elgin,0-6 7-6(2) 2-0 RET,1.25,11.1%,4.8%,61.9%,71.8%,62.5%,1/2,52.1%,39.8%,12.0%,35.1%,50.0%,3/9,146,7,3,63,39,24,10,1:40
+8-May-2017,Karshi CH,3,Hard,Q3,700,626,0,,8,Vitaly Kozyukov,Mikhail Elgin,4-6 7-6(3) 6-3,1.00,7.2%,3.6%,51.8%,79.1%,55.0%,3/6,49.7%,32.6%,4.7%,19.3%,58.6%,3/3,169,6,3,83,43,40,4,2:07
+8-May-2017,Karshi CH,3,Hard,Q2,700,467,1,,3,Mikhail Elgin,Evgeny Karlovskiy,4-6 6-3 6-4,1.07,9.1%,3.4%,59.1%,75.0%,47.2%,3/6,51.8%,39.0%,7.3%,32.0%,50.0%,4/10,170,8,3,88,52,36,6,1:53
+2-Jan-2017,Bangkok  CH,3,Hard,Q1,722,299,0,,7,Kevin Krawietz,Mikhail Elgin,3-6 6-4 3-0 RET,0.79,7.1%,8.3%,53.6%,71.1%,38.5%,6/9,46.9%,34.9%,3.2%,23.7%,52.0%,2/3,147,6,7,84,45,39,2,1:37
+7-Nov-2016,Bratislava CH,3,Hard,Q2,712,346,0,,1,Cem Ilkel,Mikhail Elgin,6-3 3-6 6-3,0.99,24.6%,1.5%,72.3%,78.7%,50.0%,0/2,47.0%,29.1%,14.0%,30.2%,26.1%,1/5,151,16,1,65,47,18,12,1:23
+7-Nov-2016,Bratislava CH,3,Hard,Q1,712,743,1,,,Mikhail Elgin,Andrei Vasilevski,4-6 7-6(5) 7-6(6),1.26,24.5%,4.1%,73.5%,87.5%,42.3%,1/3,51.7%,31.0%,9.7%,20.9%,45.7%,1/4,211,24,4,98,72,26,11,2:01
+24-Oct-2016,Suzhou CH,3,Hard,R32,752,369,0,Q,,Cheong Eui Kim,Mikhail Elgin,6-2 2-6 6-3,0.70,4.5%,3.4%,69.7%,67.7%,29.6%,10/14,45.2%,30.9%,2.9%,21.1%,43.3%,3/7,157,4,3,89,62,27,2,1:41
+24-Oct-2016,Suzhou CH,3,Hard,Q3,752,1586,1,3,,Mikhail Elgin,Hao Wu,6-1 6-3,2.10,9.5%,0.0%,45.2%,84.2%,65.2%,1/2,63.4%,54.9%,5.9%,64.3%,43.5%,5/12,93,4,0,42,19,23,3,1:00
+24-Oct-2016,Suzhou CH,3,Hard,Q2,752,1547,1,3,,Mikhail Elgin,Yuanfeng Li,7-5 6-1,2.27,15.2%,0.0%,71.7%,81.8%,69.2%,0/0,61.1%,49.3%,3.0%,49.0%,50.0%,4/8,113,7,0,46,33,13,2,1:03
+10-Oct-2016,Tashkent CH,3,Hard,R32,758,102,0,Q,5,Konstantin Kravchuk,Mikhail Elgin,6-4 6-4,0.70,6.8%,5.1%,62.7%,67.6%,50.0%,1/4,44.7%,27.3%,9.1%,17.6%,42.9%,1/2,114,4,3,59,37,22,5,1:17
+10-Oct-2016,Tashkent CH,3,Hard,Q3,758,1446,1,,,Mikhail Elgin,Dmitry Surchenko,6-0 6-4,1.82,8.0%,6.0%,60.0%,93.3%,40.0%,2/2,60.7%,50.9%,5.3%,20.8%,72.7%,4/12,107,4,3,50,30,20,3,1:09
+10-Oct-2016,Tashkent CH,3,Hard,Q2,758,595,1,,7,Mikhail Elgin,Vitaly Kozyukov,4-6 6-4 6-4,1.04,5.8%,2.9%,65.4%,70.6%,41.7%,4/7,51.3%,41.1%,4.2%,32.4%,63.0%,4/10,199,6,3,104,68,36,4,2:08
+10-Oct-2016,Tashkent CH,3,Hard,Q1,758,,1,,WC,Mikhail Elgin,Batyr Sapaev,6-4 6-0,1.53,17.8%,6.7%,46.7%,90.5%,41.7%,2/3,59.3%,54.3%,2.2%,50.0%,62.5%,5/8,91,8,3,45,21,24,1,0:53
+19-Sep-2016,St.Petersburg,3,Hard,Q1,761,111,0,WC,2,Teymuraz Gabashvili,Mikhail Elgin,6-2 4-6 6-3,0.84,4.9%,2.5%,58.0%,55.3%,58.8%,5/11,47.1%,36.5%,4.1%,29.8%,48.1%,3/7,155,4,2,81,47,34,3,1:39
+29-Aug-2016,Russia F7,3,Hard,SF,498,303,0,8,3,Alexey Vatutin,Mikhail Elgin,6-1 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Russia F7,3,Hard,QF,498,249,1,8,2,Mikhail Elgin,Yannick Mertens,6-4 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Russia F7,3,Hard,R16,498,975,1,8,WC,Mikhail Elgin,Maxim Ratniuk,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Russia F7,3,Hard,R32,498,1117,1,8,Q,Mikhail Elgin,Vladimir Korolev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Meerbusch CH,3,Clay,R32,509,95,0,Q,2,Roberto Carballes Baena,Mikhail Elgin,6-0 6-3,0.53,0.0%,8.9%,68.9%,67.7%,14.3%,5/9,38.5%,26.1%,8.7%,16.0%,38.1%,0/1,91,0,4,45,31,14,4,0:59
+15-Aug-2016,Meerbusch CH,3,Clay,Q2,509,1463,1,1,7,Mikhail Elgin,Lukas Ruepke,6-4 7-5,1.04,6.2%,1.2%,53.1%,65.1%,52.6%,4/6,51.7%,42.4%,4.5%,38.9%,46.7%,4/7,147,5,1,81,43,38,3,1:47
+8-Aug-2016,Trnava CH,3,Clay,Q1,510,675,0,8,,Juan Lizariturry,Mikhail Elgin,6-4 7-6(5),0.88,4.7%,4.7%,59.4%,65.8%,53.8%,1/4,46.4%,34.2%,2.6%,26.5%,48.1%,2/7,140,3,3,64,38,26,2,1:41
+25-Jul-2016,Astana CH,3,Hard,R32,530,78,0,Q,1,Evgeny Donskoy,Mikhail Elgin,4-6 6-1 4-1 RET,0.72,7.8%,6.5%,58.4%,68.9%,37.5%,6/10,44.3%,31.9%,6.9%,24.4%,41.9%,1/5,149,6,5,77,45,32,5,1:38
+25-Jul-2016,Astana CH,3,Hard,Q3,530,462,1,6,3,Mikhail Elgin,Vishnu Vardhan,6-2 3-6 6-3,1.20,8.7%,7.7%,51.9%,75.9%,44.0%,12/15,55.1%,47.2%,5.6%,25.0%,65.0%,5/8,176,9,8,104,54,50,4,2:05
+25-Jul-2016,Astana CH,3,Hard,Q2,530,755,1,6,,Mikhail Elgin,Timur Khabibulin,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Fergana CH,3,Hard,Q2,520,,0,4,,Vitaly Kozyukov,Mikhail Elgin,5-3 RET,0.81,8.8%,2.9%,64.7%,72.7%,33.3%,2/3,46.3%,33.3%,9.1%,19.0%,58.3%,0/2,67,3,1,34,22,12,3,0:40
+13-Jun-2016,Fergana CH,3,Hard,Q1,520,,1,4,,Mikhail Elgin,Stefan Merunka,6-1 6-0,2.77,22.6%,3.2%,58.1%,88.9%,61.5%,0/0,69.0%,62.5%,2.5%,53.8%,66.7%,6/10,71,7,1,31,18,13,1,0:29
+6-Jun-2016,Moscow CH,3,Clay,Q3,476,874,0,5,,Ronald Slobodchikov,Mikhail Elgin,7-5 6-3,0.79,6.0%,9.0%,40.3%,66.7%,47.5%,7/11,45.5%,35.4%,6.2%,27.5%,48.0%,2/3,132,4,6,67,27,40,4,1:12
+6-Jun-2016,Moscow CH,3,Clay,Q2,476,520,1,5,,Mikhail Elgin,Alexandr Igoshin,6-2 6-7(5) 6-4,1.02,11.3%,4.1%,52.6%,74.5%,50.0%,4/7,51.4%,37.8%,7.3%,28.2%,46.5%,6/8,179,11,4,97,51,46,6,1:46
+6-Jun-2016,Moscow CH,3,Clay,Q1,476,1857,1,5,,Mikhail Elgin,Suren Vartanyan,6-1 6-2,2.66,24.3%,0.0%,64.9%,87.5%,61.5%,1/1,65.9%,57.4%,0.0%,58.5%,53.8%,5/7,91,9,0,37,24,13,0,0:51
+9-May-2016,Samarkand CH,3,Clay,R32,474,243,0,Q,,Frederico Ferreira Silva,Mikhail Elgin,7-5 6-4,0.85,6.8%,4.5%,63.6%,57.1%,34.4%,8/14,46.3%,43.2%,5.4%,29.7%,56.8%,4/10,162,6,4,88,56,32,4,1:53
+9-May-2016,Samarkand CH,3,Clay,Q3,474,535,1,5,4,Mikhail Elgin,Riccardo Ghedin,6-7(2) 6-4 7-5,1.07,6.8%,6.8%,53.8%,76.2%,40.7%,5/9,51.8%,43.0%,5.6%,34.7%,60.0%,6/10,224,8,8,117,63,54,6,2:23
+9-May-2016,Samarkand CH,3,Clay,Q2,474,996,1,5,,Mikhail Elgin,Denis Matsukevitch,2-6 7-6(2) 6-3,0.96,12.4%,6.7%,52.4%,69.1%,48.0%,8/13,50.0%,39.3%,4.5%,29.3%,58.1%,4/6,194,13,7,105,55,50,4,2:08
+9-May-2016,Samarkand CH,3,Clay,Q1,474,714,1,5,,Mikhail Elgin,Mikhail Ledovskikh,W/O,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Kazan CH,3,Hard,Q1,477,1006,0,8,WC,Denis Matsukevitch,Mikhail Elgin,5-2 RET,0.73,3.7%,3.7%,81.5%,59.1%,40.0%,4/5,43.1%,32.3%,3.2%,21.1%,50.0%,0/2,58,1,1,27,22,5,1,0:34
+4-Jan-2016,Chennai,3,Hard,Q1,343,157,0,,3,Thomas Fabbiano,Mikhail Elgin,6-4 3-1 RET,0.68,7.1%,3.6%,53.6%,53.3%,42.3%,10/14,43.3%,35.3%,2.9%,36.4%,33.3%,2/2,90,4,2,56,30,26,1,1:41
+19-Oct-2015,Moscow Q,3,Hard,Q3,336,207,0,,4,Aslan Karatsev,Mikhail Elgin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Moscow Q,3,Hard,Q2,336,255,1,,7,Mikhail Elgin,Aldin Setkic,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Moscow Q,3,Hard,Q1,336,641,1,,,Mikhail Elgin,Sergey Betov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Tashkent CH,3,Hard,R32,335,330,0,,,Nikola Mektic,Mikhail Elgin,6-2 6-3,0.49,10.5%,12.3%,50.9%,69.0%,28.6%,7/12,39.2%,25.0%,22.5%,20.7%,36.4%,1/1,97,6,7,57,29,28,9,
+28-Sep-2015,Shenzhen Q,3,Hard,Q2,328,133,0,8,2,Matthew Ebden,Mikhail Elgin,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,St. Petersburg Q,3,Hard,Q1,325,1155,0,,,Alexander Bublik,Mikhail Elgin,6-4 5-7 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,F,462,301,1,6,2,Mikhail Elgin,Egor Gerasimov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,SF,462,383,1,6,5,Mikhail Elgin,Anton Zaitsev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,QF,462,1658,1,6,Q,Mikhail Elgin,Timur Razmaitov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,R16,462,929,1,6,,Mikhail Elgin,Anton Desyatnik,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,R32,462,1240,1,6,Q,Mikhail Elgin,Vladimir Polyakov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,F,462,465,1,7,,Mikhail Elgin,Alexey Vatutin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,SF,462,299,1,7,3,Mikhail Elgin,Dmitry Popko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,QF,462,1074,1,7,WC,Mikhail Elgin,Maxim Ratniuk,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,R16,462,1658,1,7,Q,Mikhail Elgin,Timur Razmaitov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,R32,462,816,1,7,,Mikhail Elgin,Denis Yevseyev,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belarus F2,3,Hard,R32,451,,0,8,Q,Aliaksandr Bulitski,Mikhail Elgin,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Fergana CH,3,Hard,R32,457,143,0,,2,Alexander Kudryavtsev,Mikhail Elgin,7-6(2) 6-4,0.62,27.7%,4.6%,64.6%,78.6%,47.8%,0/1,44.8%,20.0%,15.0%,13.9%,29.2%,0/0,125,18,3,65,42,23,9,
+8-Jun-2015,Moscow CH,3,Clay,R16,497,140,0,Q,8,Horacio Zeballos,Mikhail Elgin,6-3 6-4,0.69,8.1%,3.2%,64.5%,50.0%,50.0%,4/8,42.5%,34.5%,6.9%,35.5%,33.3%,2/8,120,5,2,62,40,22,4,
+8-Jun-2015,Moscow CH,3,Clay,R32,497,380,1,Q,Q,Mikhail Elgin,Anton Zaitsev,6-2 6-3,1.88,4.7%,2.3%,55.8%,83.3%,57.9%,1/2,60.6%,52.5%,0.0%,41.4%,62.5%,5/10,104,2,1,43,24,19,0,
+11-May-2015,Samarkand CH,3,Clay,R32,511,120,0,Q,3,Adrian Menendez Maceiras,Mikhail Elgin,6-0 4-6 6-4,0.71,9.8%,6.1%,47.6%,69.2%,46.5%,4/8,44.1%,30.4%,8.9%,19.6%,45.5%,1/6,161,8,5,82,39,43,7,1:57
+16-Mar-2015,Kazan CH,3,Hard,R32,529,158,0,Q,6,Jurgen Zopp,Mikhail Elgin,6-4 6-3,0.57,1.7%,5.2%,60.3%,65.7%,26.1%,2/6,39.6%,28.3%,11.3%,24.1%,33.3%,2/5,111,1,3,58,35,23,6,1:04
+26-Jan-2015,Kazakhstan F2,3,Hard,F,1059,300,1,Q,1,Mikhail Elgin,Dzmitry Zhyrmont,3-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Kazakhstan F2,3,Hard,SF,1059,404,1,Q,4,Mikhail Elgin,Denis Matsukevitch,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Kazakhstan F2,3,Hard,QF,1059,422,1,Q,6,Mikhail Elgin,Yaraslau Shyla,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Kazakhstan F2,3,Hard,R16,1059,325,1,Q,2,Mikhail Elgin,Anton Zaitsev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Kazakhstan F2,3,Hard,R32,1059,589,1,Q,,Mikhail Elgin,Andrei Vasilevski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Kazakhstan F1,3,Hard,F,1059,775,1,Q,,Mikhail Elgin,Sanjar Fayziev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Kazakhstan F1,3,Hard,SF,1059,413,1,Q,6,Mikhail Elgin,Maxim Dubarenco,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Kazakhstan F1,3,Hard,QF,1059,371,1,Q,4,Mikhail Elgin,Karen Khachanov,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Kazakhstan F1,3,Hard,R16,1059,697,1,Q,,Mikhail Elgin,Denis Yevseyev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Kazakhstan F1,3,Hard,R32,1059,516,1,Q,8,Mikhail Elgin,Evgeny Tyurnev,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Toyota CH,3,Carpet,R16,,265,0,Q,,Yasutaka Uchiyama,Mikhail Elgin,7-5 6-2,0.32,13.0%,5.6%,51.9%,82.1%,34.6%,3/6,38.0%,13.0%,32.6%,9.4%,21.4%,0/0,100,7,3,54,28,26,15,0:57
+17-Nov-2014,Toyota CH,3,Carpet,R32,,146,1,Q,6,Mikhail Elgin,Hiroki Moriya,7-6(3) 4-6 6-2,1.11,24.7%,2.4%,69.4%,74.6%,53.8%,1/4,51.4%,35.2%,6.8%,24.6%,54.8%,4/10,173,21,2,85,59,26,6,1:58
+8-Sep-2014,Russia F10,3,Clay,R32,,727,0,WC,Q,Alexander Zhurbin,Mikhail Elgin,5-7 6-4 RET,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Estoril Q,3,Clay,Q1,1088,614,0,,,Andre Gaspar Murta,Mikhail Elgin,6-2 6-7(5) 7-6(4),0.84,3.4%,5.0%,54.6%,58.5%,42.6%,6/12,46.1%,40.7%,1.8%,40.0%,41.7%,4/9,232,4,6,119,65,54,2,2:53
+7-Apr-2014,Casablanca Q,3,Clay,Q1,1084,226,0,WC,,Victor Crivoi,Mikhail Elgin,6-2 6-0,0.32,6.8%,4.5%,40.9%,50.0%,42.3%,8/13,33.3%,17.6%,11.8%,10.5%,26.7%,0/0,78,3,2,44,18,26,4,0:42
+30-Dec-2013,Chennai Q,3,Hard,Q2,959,526,0,,,Ramkumar Ramanathan,Mikhail Elgin,6-3 7-5,0.72,2.8%,11.1%,54.2%,76.9%,39.4%,5/8,45.5%,29.0%,9.7%,14.3%,41.2%,0/4,134,2,8,72,39,33,6,1:43
+30-Dec-2013,Chennai Q,3,Hard,Q1,959,128,1,,5,Mikhail Elgin,Andrej Martin,0-6 7-6(5) 6-0,1.10,1.1%,3.3%,47.8%,69.8%,46.8%,8/12,52.2%,46.6%,6.8%,25.5%,75.7%,4/10,178,1,3,90,43,47,6,1:51
+16-Sep-2013,St. Petersburg,3,Hard,R32,949,36,0,WC,6,Ernests Gulbis,Mikhail Elgin,6-0 6-1,0.34,3.2%,0.0%,64.5%,35.0%,18.2%,1/6,26.4%,24.4%,7.3%,9.1%,42.1%,0/3,72,1,0,31,20,11,3,0:41
+12-Aug-2013,Kazan CH,3,Hard,R32,1018,265,0,Q,7,Jurgen Zopp,Mikhail Elgin,6-7(5) 7-6(5) 2-0 RET,0.93,7.8%,2.9%,57.8%,69.5%,51.2%,10/13,49.2%,35.5%,5.4%,34.0%,37.2%,2/7,195,8,3,102,59,43,5,2:28
+29-Jul-2013,Segovia CH,3,Hard,R32,1246,513,0,Q,WC,Roberto Ortega Olmedo,Mikhail Elgin,6-4 6-1,0.67,9.5%,4.8%,54.8%,52.2%,52.6%,1/5,41.3%,32.0%,2.0%,32.3%,31.6%,1/2,92,4,2,42,23,19,1,1:00
+8-Jul-2013,Bastad Q,3,Clay,Q1,1250,106,0,,1,Julian Reister,Mikhail Elgin,6-1 3-0 RET,0.49,5.3%,15.8%,57.9%,36.4%,31.3%,5/10,33.3%,32.3%,0.0%,26.3%,41.7%,1/2,69,2,6,38,22,16,0,0:42
+29-Apr-2013,Estoril Q,3,Clay,Q2,1213,87,0,,2,Thiemo De Bakker,Mikhail Elgin,6-4 6-1,0.60,11.5%,1.6%,54.1%,69.7%,35.7%,6/10,42.6%,27.7%,4.3%,30.8%,23.8%,0/2,108,7,1,61,33,28,2,1:06
+29-Apr-2013,Estoril Q,3,Clay,Q1,1213,853,1,,,Mikhail Elgin,Leonardo Tavares,6-4 1-6 6-3,0.94,3.5%,1.2%,65.9%,64.3%,51.7%,5/8,49.4%,37.7%,1.3%,39.3%,31.3%,3/7,162,3,1,85,56,29,1,1:57
+25-Mar-2013,Russia F4,3,Hard,R16,,243,0,WC,1,Konstantin Kravchuk,Mikhail Elgin,6-3 6-7(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Russia F4,3,Hard,R32,,634,1,WC,,Mikhail Elgin,Richard Muzaev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Russia F3,3,Hard,QF,,275,0,Q,3,Dzmitry Zhyrmont,Mikhail Elgin,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Russia F3,3,Hard,R16,,704,1,Q,,Mikhail Elgin,Aslan Karatsev,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Russia F3,3,Hard,R32,,1119,1,Q,Q,Mikhail Elgin,Ronald Slobodchikov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,St. Petersburg,3,Hard,R32,639,45,0,WC,3,Martin Klizan,Mikhail Elgin,6-4 6-3,0.80,4.1%,4.1%,40.5%,60.0%,36.4%,7/13,44.7%,43.1%,3.4%,30.3%,60.0%,3/5,132,3,3,74,30,44,2,1:37
+22-Jul-2012,Kitzbuhel Q,3,Clay,Q2,493,261,0,,8,Attila Balazs,Mikhail Elgin,6-3 7-5,0.81,10.4%,7.5%,49.3%,72.7%,50.0%,3/5,45.5%,31.6%,6.6%,15.4%,48.6%,0/4,143,7,5,67,33,34,5,1:25
+22-Jul-2012,Kitzbuhel Q,3,Clay,Q1,493,,1,,,Mikhail Elgin,Jan Subota,6-0 6-2,2.42,12.2%,0.0%,48.8%,95.0%,57.1%,3/3,67.1%,59.1%,4.5%,72.7%,45.5%,5/13,85,5,0,41,20,21,2,0:41
+16-Jul-2012,Gstaad Q,3,Clay,Q2,492,212,0,,7,Jan Hernych,Mikhail Elgin,6-3 6-2,0.67,7.7%,1.9%,67.3%,60.0%,41.2%,3/6,42.1%,30.9%,1.8%,17.1%,55.0%,0/1,107,4,1,52,35,17,1,0:59
+16-Jul-2012,Gstaad Q,3,Clay,Q1,492,412,1,,,Mikhail Elgin,Nils Langer,3-6 6-2 6-1,1.12,3.3%,7.6%,57.6%,64.2%,53.8%,6/8,53.4%,44.9%,7.2%,35.9%,56.7%,5/12,161,3,7,92,53,39,5,1:31
+9-Jul-2012,Bastad Q,3,Clay,Q1,490,354,0,,8,Michal Przysiezny,Mikhail Elgin,6-3 6-4,0.59,10.3%,5.2%,44.8%,84.6%,40.6%,4/6,42.1%,23.2%,16.1%,20.6%,27.3%,0/2,114,6,3,58,26,32,9,1:04
+18-Jun-2012,Eastbourne Q,3,Grass,Q2,492,75,0,,1,Matthew Ebden,Mikhail Elgin,6-3 6-2,0.67,3.8%,3.8%,59.6%,61.3%,47.6%,5/8,42.2%,29.8%,3.5%,27.8%,33.3%,0/3,109,2,2,52,31,21,2,1:00
+18-Jun-2012,Eastbourne Q,3,Grass,Q1,492,261,1,,,Mikhail Elgin,Marco Trungelliti,6-4 6-7(6) 6-3,1.04,6.1%,4.1%,59.2%,81.0%,47.5%,5/7,51.9%,34.1%,4.7%,20.8%,51.4%,4/6,183,6,4,98,58,40,4,1:57
+30-Apr-2012,Estoril Q,3,Clay,Q2,476,188,0,,3,Inigo Cervantes Huegun,Mikhail Elgin,4-6 6-3 6-3,0.70,3.5%,3.5%,54.7%,70.2%,43.6%,3/7,44.7%,29.3%,6.7%,22.2%,40.0%,2/5,161,3,3,86,47,39,5,2:07
+30-Apr-2012,Estoril Q,3,Clay,Q1,476,1803,1,,,Mikhail Elgin,Vasco Pascoal,6-3 6-0,2.04,8.3%,2.1%,50.0%,87.5%,62.5%,4/4,63.2%,51.1%,2.1%,32.0%,72.7%,4/11,95,4,1,48,24,24,1,1:06
+9-Apr-2012,Casablanca Q,3,Clay,Q2,472,184,0,,,Inigo Cervantes Huegun,Mikhail Elgin,6-2 7-5,0.69,10.4%,9.0%,47.8%,75.0%,28.6%,7/12,43.3%,34.0%,5.7%,31.0%,37.5%,2/4,120,7,6,67,32,35,3,1:21
+9-Apr-2012,Casablanca Q,3,Clay,Q1,472,,1,,,Mikhail Elgin,Andre Sa,6-3 6-1,1.63,6.1%,4.1%,38.8%,68.4%,70.0%,0/0,59.8%,50.0%,0.0%,42.4%,66.7%,4/5,97,3,2,49,19,30,0,1:02
+21-Mar-2012,Miami Masters Q,3,Hard,Q1,474,144,0,,,Rajeev Ram,Mikhail Elgin,6-2 6-4,0.66,8.0%,8.0%,54.0%,77.8%,34.8%,3/6,42.3%,27.8%,9.3%,12.9%,47.8%,0/2,104,4,4,50,27,23,5,1:07
+27-Feb-2012,Delray Beach Q,3,Hard,Q2,478,186,0,WC,7,Michael Yani,Mikhail Elgin,7-6(6) 3-6 7-6(5),1.22,10.5%,1.9%,59.0%,82.3%,62.8%,1/1,52.1%,31.3%,8.0%,26.5%,38.6%,1/3,217,11,2,105,62,43,9,2:22
+27-Feb-2012,Delray Beach Q,3,Hard,Q1,478,569,1,WC,,Mikhail Elgin,Vladimir Obradovic,6-4 6-1,1.46,5.3%,3.5%,50.9%,75.9%,50.0%,5/6,58.6%,53.7%,1.9%,34.6%,71.4%,5/8,111,3,2,57,29,28,1,1:10
+30-Jan-2012,Montpellier Q,3,Hard,Q1,475,163,0,,7,Maxime Teixeira,Mikhail Elgin,7-6(6) 6-1,0.46,4.0%,1.3%,56.0%,76.2%,30.3%,3/7,41.9%,20.4%,12.2%,22.6%,16.7%,1/2,124,3,1,75,42,33,6,1:20
+21-Nov-2011,Helsinki CH,3,Hard,QF,558,179,0,Q,,Dustin Brown,Mikhail Elgin,6-0 7-5,0.53,3.8%,5.8%,48.1%,64.0%,44.4%,3/7,39.6%,24.5%,20.4%,12.1%,50.0%,0/0,101,2,3,52,25,27,10,0:55
+21-Nov-2011,Helsinki CH,3,Hard,R16,558,115,1,Q,,Mikhail Elgin,Adrian Ungur,2-6 6-3 6-3,1.26,14.7%,4.4%,55.9%,76.3%,53.3%,3/6,53.3%,42.7%,7.3%,41.7%,44.1%,4/10,150,10,3,68,38,30,6,1:39
+21-Nov-2011,Helsinki CH,3,Hard,R32,558,,1,Q,WC,Mikhail Elgin,Herkko Pollanen,7-6(3) 6-4,1.10,11.9%,0.0%,61.2%,87.8%,42.3%,0/1,51.9%,32.8%,7.8%,17.1%,51.7%,2/3,131,8,0,67,41,26,5,1:31
+7-Nov-2011,Ortisei CH,3,Carpet,R32,581,116,0,Q,3,Adrian Ungur,Mikhail Elgin,6-1 6-0,-,-,-,-,-,-,0/0,12.5%,12.5%,25.0%,12.5%,12.5%,0/0,32,0,0,0,0,0,8,0:42
+24-Oct-2011,St. Petersburg Q,3,Hard,Q1,547,,0,WC,,Alexander Waske,Mikhail Elgin,6-3 6-4,0.89,12.3%,10.5%,56.1%,78.1%,28.0%,4/8,46.5%,38.9%,2.8%,26.7%,59.3%,2/5,129,7,6,57,32,25,2,1:20
+17-Oct-2011,Moscow Q,3,Hard,Q1,549,98,0,,2,Michael Berrer,Mikhail Elgin,6-2 2-6 6-4,0.86,3.2%,4.2%,62.1%,67.8%,44.4%,10/13,47.5%,35.2%,6.8%,28.6%,52.0%,2/7,183,3,4,95,59,36,6,2:03
+26-Sep-2011,Kuala Lumpur Q,3,Hard,Q2,453,207,0,,7,Rajeev Ram,Mikhail Elgin,6-1 4-6 6-3,0.72,14.6%,6.1%,64.6%,64.2%,37.9%,3/7,43.6%,32.5%,4.8%,24.5%,46.7%,1/2,165,12,5,82,53,29,4,1:58
+26-Sep-2011,Kuala Lumpur Q,3,Hard,Q1,453,,1,,,Mikhail Elgin,Jean Julien Rojer,6-4 6-7(4) 7-6(5),1.29,10.2%,1.9%,60.2%,73.8%,60.5%,4/7,53.1%,40.5%,4.6%,27.1%,55.7%,4/12,239,11,2,108,65,43,6,2:50
+29-Aug-2011,Russia F8,3,Clay,F,354,455,0,2,3,Andrey Kumantsov,Mikhail Elgin,6-4 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Russia F8,3,Clay,SF,354,990,1,2,,Mikhail Elgin,Alexander Pavlioutchenkov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Russia F8,3,Clay,QF,354,615,1,2,7,Mikhail Elgin,Vladimir Ivanov,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Russia F8,3,Clay,R16,354,,1,2,Q,Mikhail Elgin,Pavel Chekhov,W/O,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Russia F8,3,Clay,R32,354,,1,2,LL,Mikhail Elgin,Fedor Chervyakov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Astana2 CH,3,Hard,R16,376,298,0,Q,,Jamie Baker,Mikhail Elgin,6-1 6-1,0.21,2.4%,0.0%,43.9%,50.0%,34.8%,6/11,28.8%,12.5%,9.4%,3.7%,60.0%,0/0,73,1,0,41,18,23,3,0:36
+22-Aug-2011,Astana2 CH,3,Hard,R32,376,321,1,Q,,Mikhail Elgin,Miloslav Mecir,5-7 6-2 6-2,1.26,2.4%,2.4%,61.0%,66.0%,68.8%,0/2,53.8%,41.4%,3.4%,37.9%,48.3%,5/10,169,2,2,82,50,32,3,1:53
+15-Aug-2011,Karshi CH,3,Hard,R16,,68,0,Q,2,Denis Istomin,Mikhail Elgin,6-3 6-1,0.50,4.5%,4.5%,59.1%,53.8%,44.4%,6/10,37.5%,25.0%,9.1%,30.0%,20.8%,0/1,88,2,2,44,26,18,4,0:54
+15-Aug-2011,Karshi CH,3,Hard,R32,,291,1,Q,,Mikhail Elgin,Ludovic Walter,4-6 6-1 6-2,1.57,17.1%,1.3%,52.6%,75.0%,69.4%,2/3,57.2%,43.4%,6.0%,30.2%,66.7%,4/10,159,13,1,76,40,36,5,2:12
+8-Aug-2011,Samarkand CH,3,Clay,R32,,81,0,,1,Denis Istomin,Mikhail Elgin,6-3 6-4,0.55,7.4%,3.7%,35.2%,68.4%,65.7%,1/3,43.7%,18.4%,8.2%,12.9%,27.8%,0/0,103,4,2,54,19,35,4,1:08
+17-Jul-2011,Penza CH,3,Hard,R32,,305,0,,,Mikhail Vasiliev,Mikhail Elgin,3-6 6-3 6-3,0.93,9.9%,9.9%,43.7%,83.9%,50.0%,1/4,48.3%,32.9%,11.8%,23.3%,45.5%,2/3,147,7,7,71,31,40,9,1:40
+16-May-2011,Fergana CH,3,Hard,R16,,233,0,,3,Danai Udomchoke,Mikhail Elgin,6-4 6-2,0.52,15.1%,3.8%,47.2%,72.0%,46.4%,5/8,41.4%,21.7%,4.3%,20.0%,25.0%,0/0,99,8,2,53,25,28,2,1:06
+16-May-2011,Fergana CH,3,Hard,R32,,,1,,WC,Mikhail Elgin,Temur Ismailov,7-6(3) 6-2,1.78,12.9%,4.8%,62.9%,89.7%,60.9%,5/5,58.7%,37.3%,5.1%,24.3%,59.1%,2/3,121,8,3,62,39,23,3,1:08
+25-Apr-2011,Belgrade Q,3,Clay,Q2,,175,0,,7,Adrian Ungur,Mikhail Elgin,6-3 6-3,0.66,1.7%,1.7%,58.3%,57.1%,44.0%,5/9,42.5%,32.1%,3.8%,27.6%,37.5%,1/4,113,1,1,60,35,25,2,1:24
+25-Apr-2011,Belgrade Q,3,Clay,Q1,,281,1,,,Mikhail Elgin,Daniele Giorgini,6-2 3-6 6-3,1.26,9.2%,7.9%,59.2%,68.9%,58.1%,3/6,53.5%,44.7%,3.2%,41.1%,50.0%,5/15,170,7,6,76,45,31,3,1:58
+31-Jan-2011,Kazan CH,3,Hard,R32,,295,0,,,Andrea Arnaboldi,Mikhail Elgin,7-5 6-4,0.88,11.3%,5.6%,49.3%,71.4%,47.2%,6/10,48.1%,35.9%,9.4%,21.4%,63.6%,2/8,135,8,4,71,35,36,6,1:30
+25-Oct-2010,St. Petersburg Q,3,Hard,Q2,,830,0,5,,Frantisek Cermak,Mikhail Elgin,6-7(4) 6-3 7-6(2),0.99,13.1%,0.0%,58.6%,81.0%,51.2%,3/5,48.4%,31.0%,5.2%,27.5%,38.9%,1/7,215,13,0,99,58,41,6,2:23
+25-Oct-2010,St. Petersburg Q,3,Hard,Q1,,737,1,5,,Mikhail Elgin,Aleksandr Agafonov,6-3 6-2,3.14,22.7%,0.0%,68.2%,93.3%,71.4%,1/1,62.0%,42.9%,0.0%,30.6%,65.0%,3/8,100,10,0,44,30,14,0,1:06
+18-Oct-2010,Moscow Q,3,Hard,Q1,,176,0,,6,Victor Crivoi,Mikhail Elgin,6-7(5) 6-3 7-5,0.87,12.1%,1.7%,58.6%,67.6%,54.2%,8/12,47.3%,33.1%,4.1%,34.7%,30.4%,2/12,237,14,2,116,68,48,5,2:46
+4-Oct-2010,Kazakhstan F4,3,Hard,F,,714,1,1,5,Mikhail Elgin,Julien Dubail,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Kazakhstan F4,3,Hard,SF,,789,1,1,8,Mikhail Elgin,Daniel Danilovic,6-4 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Kazakhstan F4,3,Hard,QF,,987,1,1,,Mikhail Elgin,Richard Muzaev,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Kazakhstan F4,3,Hard,R16,,1601,1,1,Q,Mikhail Elgin,Marvin Netuschil,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Kazakhstan F4,3,Hard,R32,,1228,1,1,,Mikhail Elgin,Soma Kesthely,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Kazakhstan F3,3,Hard,F,,984,0,2,Q,Richard Muzaev,Mikhail Elgin,7-6(7) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Kazakhstan F3,3,Hard,SF,,644,1,2,6,Mikhail Elgin,Julien Dubail,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Kazakhstan F3,3,Hard,QF,,621,1,2,5,Mikhail Elgin,Sergei Krotiouk,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Kazakhstan F3,3,Hard,R16,,,1,2,WC,Mikhail Elgin,Aidynbek Rakhishev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Kazakhstan F3,3,Hard,R32,,1655,1,2,,Mikhail Elgin,Marvin Netuschil,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Russia F8,3,Clay,F,,,1,2,1,Mikhail Elgin,Alexander Lobkov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Russia F8,3,Clay,SF,,,1,2,7,Mikhail Elgin,Patrik Brydolf,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Russia F8,3,Clay,QF,,1155,1,2,,Mikhail Elgin,Ervand Gasparyan,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Russia F8,3,Clay,R16,,1103,1,2,,Mikhail Elgin,Victor Kozin,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Russia F8,3,Clay,R32,,,1,2,,Mikhail Elgin,Andrei Levine,6-7(5) 6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Russia F7,3,Clay,F,,428,1,7,6,Mikhail Elgin,Alexander Lobkov,3-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Russia F7,3,Clay,SF,,928,1,7,,Mikhail Elgin,Stanislav Poplavskyy,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Russia F7,3,Clay,QF,,1067,1,7,Q,Mikhail Elgin,Alexander Rumyantsev,6-1 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Russia F7,3,Clay,R16,,753,1,7,,Mikhail Elgin,Aleksandr Agafonov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Russia F7,3,Clay,R32,,1531,1,7,LL,Mikhail Elgin,Beka Komakhidze,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Russia F3,3,Clay,R32,,479,0,5,,Murad Inoyatov,Mikhail Elgin,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,SF,,267,0,7,1,Alexander Kudryavtsev,Mikhail Elgin,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,QF,,353,1,7,4,Mikhail Elgin,Alexey Kedryuk,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,R16,,1206,1,7,Q,Mikhail Elgin,Stanislav Poplavskyy,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,R32,,784,1,7,,Mikhail Elgin,Vaja Uzakov,7-6(5) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,F,,522,1,5,,Mikhail Elgin,Adrien Bossel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,SF,,359,1,5,4,Mikhail Elgin,Vishnu Vardhan,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,QF,,1375,1,5,Q,Mikhail Elgin,Michal Konecny,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,R16,,909,1,5,,Mikhail Elgin,Andrei Vasilevski,7-6(9) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,R32,,767,1,5,WC,Mikhail Elgin,Vaja Uzakov,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Moscow Q,3,Hard,Q1,,501,0,8,,Denis Matsukevitch,Mikhail Elgin,6-3 6-7(2) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q1,,213,0,12,,Alexander Kudryavtsev,Mikhail Elgin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q2,,606,0,23,WC,Benoit Paire,Mikhail Elgin,6-4 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q1,,241,1,23,,Mikhail Elgin,Robert Smeets,6-7(5) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open Q,3,Hard,Q2,,173,0,25,,Benedikt Dorsch,Mikhail Elgin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open Q,3,Hard,Q1,,268,1,25,,Mikhail Elgin,Woong Sun Jun,2-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Sydney Q,3,Hard,Q1,,105,0,,,Denis Istomin,Mikhail Elgin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2009,Brisbane Q,3,Hard,Q1,,68,0,,2,Bobby Reynolds,Mikhail Elgin,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Metz Q,3,Hard,Q3,,147,0,5,4,Thierry Ascione,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Metz Q,3,Hard,Q2,,290,1,5,,Mikhail Elgin,Richard Bloomfield,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Metz Q,3,Hard,Q1,,1565,1,5,,Mikhail Elgin,Herve Karcher,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon Q,3,Grass,Q1,,112,0,,2,Christophe Rochus,Mikhail Elgin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Queen's Club Q,3,Grass,Q2,,139,0,,3,Rik De Voest,Mikhail Elgin,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Queen's Club Q,3,Grass,Q1,,216,1,,,Mikhail Elgin,Colin Ebelthite,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q1,,225,0,,,Josselin Ouanna,Mikhail Elgin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Marseille Q,3,Hard,Q3,,470,1,8,,Mikhail Elgin,George Bastl,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Marseille Q,3,Hard,Q2,,272,1,8,,Mikhail Elgin,Pere Riba,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Marseille Q,3,Hard,Q1,,990,1,8,,Mikhail Elgin,Laurent Vigne,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Moscow Q,3,Hard,Q1,,107,0,,2,Mischa Zverev,Mikhail Elgin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,F,,430,1,2,4,Mikhail Elgin,Pavel Chekhov,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,SF,,761,1,2,WC,Mikhail Elgin,Victor Kozin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,QF,,404,1,2,5,Mikhail Elgin,Denis Matsukevitch,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,R16,,763,1,2,,Mikhail Elgin,Denys Molchanov,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,R32,,1282,1,2,Q,Mikhail Elgin,Vladyslav Klymenko,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,F,,,0,1,3,Pavel Chekhov,Mikhail Elgin,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,SF,,,1,1,4,Mikhail Elgin,Dmitry Vlasov,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,QF,,,1,1,7,Mikhail Elgin,Valery Rudnev,6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,R16,,,1,1,WC,Mikhail Elgin,Anton Manegin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,R32,,1506,1,1,Q,Mikhail Elgin,Aleksandr Agafonov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Russia F5,3,Clay,QF,,758,0,2,5,Valery Rudnev,Mikhail Elgin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Russia F5,3,Clay,R16,,1001,1,2,,Mikhail Elgin,Mikhail Lifshits,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Russia F5,3,Clay,R32,,1506,1,2,,Mikhail Elgin,Maxim Geraskin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Russia F4,3,Clay,R16,,927,0,2,,Artem Sitak,Mikhail Elgin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Russia F4,3,Clay,R32,,1283,1,2,LL,Mikhail Elgin,Alexei Filenkov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,F,,249,1,4,1,Mikhail Elgin,Mikhail Kukushkin,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,SF,,633,1,4,,Mikhail Elgin,Andrei Gorban,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,QF,,502,1,4,7,Mikhail Elgin,Xavier Pujo,6-7(6) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,R16,,878,1,4,Q,Mikhail Elgin,Ivan Anikanov,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,R32,,822,1,4,,Mikhail Elgin,Andemir Karanashev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Georgia F2,3,Hard,R16,,646,0,2,,Peter Clarke,Mikhail Elgin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Georgia F2,3,Hard,R32,,,1,2,Q,Mikhail Elgin,Noam Yitzhaki,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Georgia F1,3,Hard,QF,,724,0,1,6,Daniel Lustig,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Georgia F1,3,Hard,R16,,1035,1,1,,Mikhail Elgin,Ross Connolly,6-2 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Georgia F1,3,Hard,R32,,1035,1,1,,Mikhail Elgin,Karlis Lejnieks,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Armenia F1,3,Hard,F,,960,0,1,Q,Peter Clarke,Mikhail Elgin,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Armenia F1,3,Hard,SF,,948,1,1,7,Mikhail Elgin,Edward Seator,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Armenia F1,3,Hard,QF,,1167,1,1,,Mikhail Elgin,Andrei Ciumac,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Armenia F1,3,Hard,R16,,,1,1,LL,Mikhail Elgin,Radu Albot,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Armenia F1,3,Hard,R32,,1507,1,1,Q,Mikhail Elgin,Maxim Geraskin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Belarus F4,3,Clay,R16,,748,0,1,,Aleksandr Nedovyesov,Mikhail Elgin,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Belarus F4,3,Clay,R32,,1286,1,1,Q,Mikhail Elgin,Sergey Betov,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Belarus F3,3,Clay,SF,,466,0,5,6,Eric Prodon,Mikhail Elgin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Belarus F3,3,Clay,QF,,908,1,5,,Mikhail Elgin,Leonardo Tavares,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Belarus F3,3,Clay,R16,,953,1,5,,Mikhail Elgin,Mikhail Lifshits,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Belarus F3,3,Clay,R32,,,1,5,LL,Mikhail Elgin,Mikhail Trukshanin,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,F,,405,1,5,1,Mikhail Elgin,Illya Marchenko,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,SF,,959,1,5,,Mikhail Elgin,Artem Smirnov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,QF,,495,1,5,3,Mikhail Elgin,Alexander Kudryavtsev,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,R16,,866,1,5,,Mikhail Elgin,Egor Puntus,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,R32,,821,1,5,,Mikhail Elgin,Pavel Katliarov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Belarus F1,3,Hard,QF,,495,0,6,4,Alexander Kudryavtsev,Mikhail Elgin,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Belarus F1,3,Hard,R16,,,1,6,Q,Mikhail Elgin,Vladimir Uzhylovsky,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Belarus F1,3,Hard,R32,,825,1,6,,Mikhail Elgin,Ross Hutchins,4-6 6-6 RET,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Turkey F3,3,Clay,R16,,393,0,,3,Fred Hemmes,Mikhail Elgin,0-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Turkey F3,3,Clay,R32,,1070,1,,Q,Mikhail Elgin,Marc Meigel,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Turkey F2,3,Clay,QF,,472,0,Q,,Marcel Zimmermann,Mikhail Elgin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Turkey F2,3,Clay,R16,,664,1,Q,SE,Mikhail Elgin,Mariano Albert Ferrando,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Turkey F2,3,Clay,R32,,336,1,Q,3,Mikhail Elgin,Tobias Kamke,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Croatia F4,3,Clay,R16,,540,0,,,Kornel Bardoczky,Mikhail Elgin,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Croatia F4,3,Clay,R32,,421,1,,5,Mikhail Elgin,Stefano Ianni,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Croatia F3,3,Clay,SF,,,0,,1,Vjekoslav Skenderovic,Mikhail Elgin,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Croatia F3,3,Clay,QF,,,1,,,Mikhail Elgin,Darko Madjarovski,6-7(5) 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Croatia F3,3,Clay,R16,,,1,,,Mikhail Elgin,David Savic,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Croatia F3,3,Clay,R32,,,1,,,Mikhail Elgin,Teodor Bolanu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Israel F6,3,Hard,F,,476,0,,6,Fred Hemmes,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Israel F6,3,Hard,SF,,410,1,,2,Mikhail Elgin,Ivan Dodig,6-7(3) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Israel F6,3,Hard,QF,,,1,,Q,Mikhail Elgin,Ruben Bemelmans,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Israel F6,3,Hard,R16,,507,1,,,Mikhail Elgin,Amir Hadad,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Israel F6,3,Hard,R32,,,1,,Q,Mikhail Elgin,Sergey Betov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Israel F5,3,Hard,SF,,499,0,,,Vjekoslav Skenderovic,Mikhail Elgin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Israel F5,3,Hard,QF,,866,1,,LL,Mikhail Elgin,Marin Bradaric,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Israel F5,3,Hard,R16,,521,1,,,Mikhail Elgin,Amir Hadad,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Israel F5,3,Hard,R32,,460,1,,5,Mikhail Elgin,Oscar Burrieza,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Israel F4,3,Hard,R32,,505,0,,8,Andreas Haider Maurer,Mikhail Elgin,7-6(3) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,SF,,447,0,,2,Cesar Ferrer Victoria,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,QF,,621,1,,4,Mikhail Elgin,Konstantin Kravchuk,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,R16,,684,1,,5,Mikhail Elgin,Alexander Kudryavtsev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,R32,,1207,1,,,Mikhail Elgin,Ernest Zurabian,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Belarus F1,3,Clay,SF,,553,0,,8,Alexandr Dolgopolov,Mikhail Elgin,6-2 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Belarus F1,3,Clay,QF,,430,1,,3,Mikhail Elgin,Pavel Ivanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Belarus F1,3,Clay,R16,,1031,1,,,Mikhail Elgin,Illya Marchenko,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Belarus F1,3,Clay,R32,,711,1,,,Mikhail Elgin,Alexander Yarmola,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Ukraine F4,3,Clay,QF,1021,,0,,2,Bastian Knittel,Mikhail Elgin,4-6 7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Ukraine F4,3,Clay,R16,1021,1425,1,,Q,Mikhail Elgin,Dmytro Petrov,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Ukraine F4,3,Clay,R32,1021,,1,,8,Mikhail Elgin,Vladislav Bondarenko,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Ukraine F3,3,Clay,QF,1021,730,0,,,Evgeny Kirillov,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Ukraine F3,3,Clay,R16,1021,629,1,,8,Mikhail Elgin,Andrei Stoliarov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Ukraine F3,3,Clay,R32,1021,,1,,WC,Mikhail Elgin,Aleksandr Mantrov,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Ukraine F2,3,Clay,R32,1011,478,0,Q,4,Vladimir Voltchkov,Mikhail Elgin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Ukraine F1,3,Clay,R32,1017,991,0,,7,Denys Molchanov,Mikhail Elgin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2006,Uzbekistan F4,3,Hard,R32,1148,385,0,Q,6,Nicholas Monroe,Mikhail Elgin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Uzbekistan F3,3,Hard,QF,1148,640,0,Q,,Andrei Stoliarov,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Uzbekistan F3,3,Hard,R16,1148,1309,1,Q,Q,Mikhail Elgin,Almog Mashiach,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Uzbekistan F3,3,Hard,R32,1148,516,1,Q,,Mikhail Elgin,Dekel Valtzer,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Uzbekistan F2,3,Hard,R32,1214,1147,0,Q,Q,Simeon Ivanov,Mikhail Elgin,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Uzbekistan F1,3,Hard,R16,1218,194,0,Q,1,Denis Istomin,Mikhail Elgin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Uzbekistan F1,3,Hard,R32,1218,,1,Q,Q,Mikhail Elgin,Alexey Tikhonov,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Egypt F2,3,Clay,R32,1196,,0,Q,7,Michal Navratil,Mikhail Elgin,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Tunisia F6,3,Hard,R32,1281,618,0,Q,,Julien Maes,Mikhail Elgin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2005,Tunisia F5,3,Hard,R16,1367,699,0,Q,LL,Vjekoslav Skenderovic,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2005,Tunisia F5,3,Hard,R32,1367,494,1,Q,,Mikhail Elgin,Rok Jarc,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Tunisia F4,3,Hard,R16,1370,341,0,Q,2,Malek Jaziri,Mikhail Elgin,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Tunisia F4,3,Hard,R32,1370,1370,1,Q,WC,Mikhail Elgin,Anas Fattar,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2005,Belarus F2,3,Hard,R32,1025,686,0,LL,Q,Aleksandr Nedovyesov,Mikhail Elgin,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Belarus F1,3,Clay,R32,1019,,0,,8,Konstantin Kravchuk,Mikhail Elgin,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Russia F3,3,Clay,R32,1087,576,0,,3,Artem Sitak,Mikhail Elgin,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Russia F2,3,Carpet,QF,1084,492,0,5,1,Alexander Markin,Mikhail Elgin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Russia F2,3,Carpet,R16,1084,986,1,5,,Mikhail Elgin,Alexander Pavlioutchenkov,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Russia F2,3,Carpet,R32,1084,826,1,5,,Mikhail Elgin,Andrei Somov,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Turkey 1 3,3,Clay,R32,,349,0,,1,Johannes Ager,Mikhail Elgin,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Turkey 1 4,3,Clay,R32,,452,0,,8,Jose Checa Calvo,Mikhail Elgin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2004,Uzbekistan F3,3,Hard,R32,,,0,,WC,Konstantin Kremeshkov,Mikhail Elgin,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2004,Turkey 1 4,3,Clay,R16,,278,0,LL,1,Timo Nieminen,Mikhail Elgin,6-4 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2004,Turkey 1 4,3,Clay,R32,,,1,LL,WC,Mikhail Elgin,Haluk Akkoyun,7-6(3) 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2003,Iran F4,3,Clay,R32,,474,0,,,Michal Przysiezny,Mikhail Elgin,6-2 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Dec-2003,Iran F3,3,Clay,R32,,573,0,,,Norikazu Sugiyama,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,Russia F3,3,Clay,R32,,603,0,2,,Alexander Markin,Mikhail Elgin,4-6 6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
+7-Jul-2003,Georgia F2,3,Clay,R16,,1351,0,1,Q,Sergei Demekhine,Mikhail Elgin,3-6 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2003,Georgia F2,3,Clay,R32,,,1,1,Q,Mikhail Elgin,Nikolay Mishin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Georgia F1,3,Clay,SF,,,0,1,5,Jan Minar,Mikhail Elgin,6-3 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Georgia F1,3,Clay,QF,,,1,1,8,Mikhail Elgin,Sergei Pozdnev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Georgia F1,3,Clay,R16,,,1,1,,Mikhail Elgin,Riccardo Desto,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Georgia F1,3,Clay,R32,,,1,1,WC,Mikhail Elgin,Andrei Savchuk,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,Finland F2,3,Clay,R32,,1353,0,1,Q,Mait Kunnap,Mikhail Elgin,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Finland F1,3,Clay,F,,334,0,1,2,Timo Nieminen,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Finland F1,3,Clay,SF,,1355,1,1,Q,Mikhail Elgin,Alexander Hartman,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Finland F1,3,Clay,QF,,,1,1,WC,Mikhail Elgin,Ville Liukko,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Finland F1,3,Clay,R16,,865,1,1,,Mikhail Elgin,Dusan Karol,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Finland F1,3,Clay,R32,,1291,1,1,Q,Mikhail Elgin,Valentine Kassatkine,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-May-2003,Uzbekistan F4,3,Hard,R16,,396,0,8,,Aisam Ul Haq Qureshi,Mikhail Elgin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+5-May-2003,Uzbekistan F4,3,Hard,R32,,417,1,8,,Mikhail Elgin,Jun Kato,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2003,Uzbekistan F3,3,Hard,R32,,1004,0,1,Q,Sergiy Stakhovsky,Mikhail Elgin,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,SF,,217,0,4,2,Danai Udomchoke,Mikhail Elgin,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,QF,,548,1,4,,Mikhail Elgin,Vitali Chvets,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,R16,,448,1,4,,Mikhail Elgin,Petr Dezort,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,R32,,1108,1,4,WC,Mikhail Elgin,Murad Inoyatov,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,R32,309,546,0,3,,Vitali Chvets,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2003,Croatia F2,3,Hard,R32,,651,0,5,Q,Boris Borgula,Mikhail Elgin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2003,Croatia F1,3,Hard,R32,,410,0,4,,Petr Kralert,Mikhail Elgin,6-7(4) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,India F3,3,Clay,R16,,,0,1,,Ajay Ramaswami,Mikhail Elgin,7-5 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,India F3,3,Clay,R32,,,1,1,Q,Mikhail Elgin,Andrey Stepanov,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,India F2,3,Carpet,R32,,598,0,1,,Tomislav Peric,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2003,India F1,3,Grass,R32,,871,0,1,,Rishi Sridhar,Mikhail Elgin,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,F,,477,1,6,,Mikhail Elgin,Todor Enev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,SF,,1028,1,6,Q,Mikhail Elgin,Martin Slanar,6-7(6) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,QF,,343,1,6,3,Mikhail Elgin,Fred Hemmes,3-6 6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,R16,,971,1,6,Q,Mikhail Elgin,Tiago Godinho,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,R32,,466,1,6,,Mikhail Elgin,Michihisa Onoda,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2002,Thailand F1,3,Hard,R16,,728,0,LL,,Alexandros Jakupovic,Mikhail Elgin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2002,Thailand F1,3,Hard,R32,,1098,1,LL,Q,Mikhail Elgin,Martin Slanar,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,Russia F1,3,Clay,F,,362,0,2,3,Igor Andreev,Mikhail Elgin,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,Russia F1,3,Clay,SF,,655,1,2,,Mikhail Elgin,Sergei Yaroshenko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,Russia F1,3,Clay,QF,,551,1,2,,Mikhail Elgin,Alexey Kedryuk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,Russia F1,3,Clay,R16,,1058,1,2,Q,Mikhail Elgin,Nickolai Dyachok,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,Russia F1,3,Clay,R32,,1006,1,2,Q,Mikhail Elgin,Rouslan Nourmatov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2002,Finland F2,3,Clay,R16,,537,0,2,LL,Igor Andreev,Mikhail Elgin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2002,Finland F2,3,Clay,R32,,1381,1,2,Q,Mikhail Elgin,Adam Chadaj,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2002,Finland F1,3,Clay,R16,,494,0,4,,Lauri Kiiski,Mikhail Elgin,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2002,Finland F1,3,Clay,R32,,1188,1,4,LL,Mikhail Elgin,Ismo Ronkko,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+6-May-2002,Uzbekistan F4,3,Hard,R32,,333,0,,,Or Dekel,Mikhail Elgin,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2002,Algeria F2,3,Clay,R16,,,0,5,WC,Lamine Ouahab,Mikhail Elgin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2002,Algeria F2,3,Clay,R32,,1378,1,5,WC,Mikhail Elgin,Abdelhak Hameurlaine,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2002,Algeria F1,3,Clay,R16,,1370,0,4,WC,Abdelhak Hameurlaine,Mikhail Elgin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2002,Algeria F1,3,Clay,R32,,1370,1,4,LL,Mikhail Elgin,Noujeim Hakimi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2002,Uzbekistan F2,3,Hard,R32,,600,0,5,,Sergei Yaroshenko,Mikhail Elgin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2002,Uzbekistan F1,3,Hard,QF,,777,0,3,LL,Sergei Krotiouk,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2002,Uzbekistan F1,3,Hard,R16,,809,1,3,Q,Mikhail Elgin,Pavel Ivanov,6-2 6-7(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2002,Uzbekistan F1,3,Hard,R32,,529,1,3,,Mikhail Elgin,Hiroki Kondo,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Feb-2002,Israel F1,3,Hard,R32,,1315,0,2,WC,Dudi Sela,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 3,3,Clay,QF,,496,0,2,,Juan Giner,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 3,3,Clay,R16,,1078,1,2,LL,Mikhail Elgin,Israel Vior Diaz,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 1,3,Clay,R32,,1141,0,,,Igor Fejzula,Mikhail Elgin,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 2,3,Clay,R32,,407,0,,,Jan Hajek,Mikhail Elgin,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 3,3,Clay,R32,,775,1,2,WC,Mikhail Elgin,Gabriel Frias,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2002,Spain 1 4,3,Clay,R32,,595,0,2,,Antonio Baldellou Esteva,Mikhail Elgin,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Ukraine F2,3,Clay,F,,531,0,1,4,Ivan Cinkus,Mikhail Elgin,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Ukraine F2,3,Clay,SF,,467,1,1,3,Mikhail Elgin,Melvyn Op Der Heijde,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Ukraine F2,3,Clay,QF,,1273,1,1,WC,Mikhail Elgin,Nickolai Dyachok,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Ukraine F2,3,Clay,R16,,899,1,1,,Mikhail Elgin,Alexander Yarmola,3-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Ukraine F2,3,Clay,R32,,917,1,1,,Mikhail Elgin,Andrei Merinov,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Ukraine F1,3,Clay,SF,,473,0,2,4,Melvyn Op Der Heijde,Mikhail Elgin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Ukraine F1,3,Clay,QF,,,1,2,LL,Mikhail Elgin,Pavel Ivanov,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Ukraine F1,3,Clay,R16,,1055,1,2,Q,Mikhail Elgin,Irakli Ushangishvili,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Ukraine F1,3,Clay,R32,,650,1,2,,Mikhail Elgin,Sergei Krotiouk,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2001,Russia F2,3,Clay,SF,,413,0,4,2,Orest Tereshchuk,Mikhail Elgin,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Aug-2001,Russia F2,3,Clay,QF,,836,1,4,,Mikhail Elgin,Alexander Sikanov,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2001,Russia F2,3,Clay,R16,,1125,1,4,,Mikhail Elgin,Alexander Zlatnik,6-3 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2001,Russia F2,3,Clay,R32,,,1,4,WC,Mikhail Elgin,Vladimir Melnikov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2001,Russia F1,3,Clay,QF,,372,0,5,2,Orest Tereshchuk,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2001,Russia F1,3,Clay,R16,,831,1,5,Q,Mikhail Elgin,Alexander Sikanov,7-6(6) 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2001,Russia F1,3,Clay,R32,,,1,5,WC,Mikhail Elgin,Vladimir Melnikov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2001,Georgia F2,3,Clay,QF,618,1003,0,5,,Alexander Sikanov,Mikhail Elgin,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2001,Georgia F2,3,Clay,R16,618,670,1,5,,Mikhail Elgin,Raimonds Sproga,W/O,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2001,Georgia F2,3,Clay,R32,618,799,1,5,,Mikhail Elgin,Evgueni Smirnov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,Georgia F1,3,Clay,F,614,360,1,5,2,Mikhail Elgin,Dmitri Tomashevich,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,Georgia F1,3,Clay,SF,614,464,1,5,3,Mikhail Elgin,Carlos Rexach Itoiz,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,Georgia F1,3,Clay,QF,614,1341,1,5,WC,Mikhail Elgin,Irakli Ushangishvili,6-7(5) 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,Georgia F1,3,Clay,R16,614,1005,1,5,,Mikhail Elgin,Alexander Sikanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,Georgia F1,3,Clay,R32,614,,1,5,Q,Mikhail Elgin,Dias Doskarayev,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,Macedonia F3,3,Hard,SF,,580,0,8,3,Milen Velev,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,Macedonia F3,3,Hard,QF,,880,1,8,,Mikhail Elgin,Radoslav Lukaev,6-7(6) 6-2 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,Macedonia F3,3,Hard,R16,,876,1,8,,Mikhail Elgin,Marian Leysek,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,Macedonia F3,3,Hard,R32,,1349,1,8,Q,Mikhail Elgin,Vladimir Obradovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2001,Macedonia F2,3,Clay,F,779,605,0,,,Todor Enev,Mikhail Elgin,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2001,Macedonia F2,3,Clay,SF,779,1181,1,,Q,Mikhail Elgin,Victor Ivanchev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2001,Macedonia F2,3,Clay,QF,779,1014,1,,,Mikhail Elgin,Ivo Bratanov,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2001,Macedonia F2,3,Clay,R16,779,829,1,,,Mikhail Elgin,Pedro Rico,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2001,Macedonia F2,3,Clay,R32,779,492,1,,5,Mikhail Elgin,Sergei Pozdnev,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2001,Macedonia F1,3,Clay,R32,780,457,0,,4,Alberto Banus Sado,Mikhail Elgin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 3,3,Clay,F,,1322,0,,Q,Stian Boretti,Mikhail Elgin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 3,3,Clay,SF,,705,1,,SE,Mikhail Elgin,Marcelo Barboza,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 3,3,Clay,QF,,795,1,,Q,Mikhail Elgin,Alexey Gavrilov,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 1,3,Clay,R16,,981,0,8,,Francesc Lleal,Mikhail Elgin,2-6 7-6(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 3,3,Clay,R16,,583,1,,4,Mikhail Elgin,Markus Polessnig,6-1 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 2,3,Clay,R32,,1322,0,5,,Nikolay Mishin,Mikhail Elgin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 3,3,Clay,R32,,1322,1,,Q,Mikhail Elgin,Nikolay Mishin,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-May-2001,Turkey 1 4,3,Clay,R32,,855,0,,,Markus Kanellos,Mikhail Elgin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2001,Uzbekistan F2,3,Hard,R32,,336,0,Q,,Takahiro Terachi,Mikhail Elgin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2001,Uzbekistan F1,3,Hard,R32,,287,0,Q,8,Danai Udomchoke,Mikhail Elgin,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 4,3,Hard,SF,1027,302,0,Q,3,Oliver Marach,Mikhail Elgin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 1,3,Hard,QF,1027,302,0,8,1,Oliver Marach,Mikhail Elgin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 4,3,Hard,QF,1027,401,1,Q,6,Mikhail Elgin,Konstantinos Economidis,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 1,3,Hard,R16,1027,1047,1,8,,Mikhail Elgin,Manoj Mahadevan,6-7(1) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 4,3,Hard,R16,1027,,1,Q,Q,Mikhail Elgin,David Sherwood,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 2,3,Hard,R32,1027,632,0,5,,Nikos Rovas,Mikhail Elgin,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 3,3,Hard,R32,1027,300,0,Q,2,Ivan Vajda,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2001,India 1 4,3,Hard,R32,1027,300,1,Q,2,Mikhail Elgin,Ivan Vajda,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,Ukraine F2,3,Clay,R32,1318,,0,,5,Orest Tereshchuk,Mikhail Elgin,6-4 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Ukraine F1,3,Clay,QF,1318,1230,0,Q,WC,Andrey Dernovskiy,Mikhail Elgin,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Ukraine F1,3,Clay,R16,1318,248,1,Q,2,Mikhail Elgin,Lior Dahan,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Ukraine F1,3,Clay,R32,1318,,1,Q,WC,Mikhail Elgin,Alexander Karpenko,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2000,Russia F2,3,Clay,R16,,258,0,WC,1,Artem Derepasko,Mikhail Elgin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2000,Russia F2,3,Clay,R32,,,1,WC,WC,Mikhail Elgin,Slava Ronjin,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2000,Slovenia F2,3,Clay,R32,,1313,0,Q,WC,Tomaz Berendijas,Mikhail Elgin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2000,Uzbekistan F1,3,Hard,R32,1167,1213,0,LL,Q,Timur Ganiev,Mikhail Elgin,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Aug-1999,Estonia F1,3,Clay,R32,1018,421,0,,3,Nicklas Timfjord,Mikhail Elgin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-1999,Finland F3,3,Clay,R32,1013,394,0,Q,4,Johan Settergren,Mikhail Elgin,6-0 6-7 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Jun-1999,Finland F1,3,Clay,R32,1008,524,0,Q,5,Marcus Sarstrand,Mikhail Elgin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 2,3,Clay,R16,1176,417,0,LL,3,Roman Smotlak,Mikhail Elgin,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 4,3,Clay,R16,1176,439,0,,1,Stefano Galvani,Mikhail Elgin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 1,3,Clay,R32,1176,1029,0,Q,,Josef Nesticky,Mikhail Elgin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 2,3,Clay,R32,1176,1225,1,LL,Q,Mikhail Elgin,Pablo Garcia Gaitan,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 3,3,Clay,R32,1176,,0,,,Adam Skrzypczak,Mikhail Elgin,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Apr-1999,Bulgaria Masters 4,3,Clay,R32,1176,1029,1,,,Mikhail Elgin,Josef Nesticky,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+1-Mar-1999,Egypt 1 Masters 3,3,Clay,R16,1189,601,0,Q,8,Guillaume Marx,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-1999,Egypt 1 Masters 3,3,Clay,R32,1189,960,1,Q,Q,Mikhail Elgin,Mihail Kanev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1998,Israel Masters 2,3,Hard,QF,1322,242,0,Q,1,Noam Behr,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1998,Israel Masters 2,3,Hard,R16,1322,487,1,Q,8,Mikhail Elgin,Valentin Sanon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1998,Israel Masters 1,3,Hard,R32,1322,,0,,,Igor Brukner,Mikhail Elgin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1998,Israel Masters 2,3,Hard,R32,1322,,1,Q,,Mikhail Elgin,Ari Strasberg,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Spain F9,3,Clay,R16,,,0,Q,,Maxime Boye,Mikhail Elgin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Spain F9,3,Clay,R32,,,1,Q,WC,Mikhail Elgin,Alejandro Sorrentini Gutierrez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,

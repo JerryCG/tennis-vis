@@ -1,0 +1,487 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+3-Oct-2022,M25 Nevers,3,Hard,R32,1794,,0,Q,Q,Simon Reveniau,Yann Marti,2-6 6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M25 Klosters,3,Clay,R32,1561,447,0,Q,8,Jakub Paul,Yann Marti,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Trimbach,3,Carpet,R32,1352,261,0,Q,3,Hiroki Moriya,Yann Marti,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Forbach,3,Carpet,R16,1262,918,0,Q,Q,Millen Hurrion,Yann Marti,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Forbach,3,Carpet,R32,1262,461,1,Q,1,Yann Marti,Antoine Bellier,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,R16,1250,484,0,Q,7,Fabian Marozsan,Yann Marti,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,R32,1250,1215,1,Q,Q,Yann Marti,Taiyo Yamanaka,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Trimbach,3,Carpet,R16,1294,480,0,Q,5,Elmar Ejupovic,Yann Marti,6-2 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Bratislava,3,Hard,R32,1267,404,0,Q,3,Tobias Simon,Yann Marti,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Sharm El Sheikh,3,Hard,QF,1503,360,0,Q,1,Alessandro Bega,Yann Marti,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Sharm El Sheikh,3,Hard,R16,1503,433,1,Q,6,Yann Marti,Nick Chappell,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Sharm El Sheikh,3,Hard,R32,1503,583,1,Q,,Yann Marti,Christian Langmo,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Sharm El Sheikh,3,Hard,R32,1485,536,0,Q,,Vitaliy Sachko,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Monastir,3,Hard,R32,1457,1342,0,Q,,Aristotelis Thanos,Yann Marti,7-6(3) 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M25 Mulhouse,3,Hard,R32,1449,498,0,Q,,Alen Avidzba,Yann Marti,7-5 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Uriage,3,Clay,QF,,,0,,5,Gabriel Petit,Yann Marti,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Uriage,3,Clay,R16,,,1,,Q,Yann Marti,Nicolas Uryson,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Uriage,3,Clay,R32,,,1,,,Yann Marti,Nicolas Tepmahc,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,France F22,3,Hard,R32,814,806,0,,,Yanais Laurent,Yann Marti,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,R32,807,596,0,,,Jacopo Berrettini,Yann Marti,6-1 4-6 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Gstaad,3,Clay,Q2,806,177,0,ALT,5,Facundo Bagnis,Yann Marti,Def.,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Gstaad,3,Clay,Q1,806,526,1,ALT,ALT,Yann Marti,Adrian Bodmer,6-4 6-3,1.24,1.5%,6.0%,52.2%,82.9%,50.0%,8/9,54.8%,40.7%,5.1%,30.3%,53.8%,3/10,126,1,4,67,35,32,3,1:19
+2-Jul-2018,France F12,3,Clay,SF,908,775,0,Q,,Antoine Cornut Chauvinc,Yann Marti,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,QF,908,356,1,Q,,Yann Marti,Fabien Reboul,7-6(4) 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R16,908,410,1,Q,6,Yann Marti,Samuel Bensoussan,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R32,908,1854,1,Q,,Yann Marti,Alexis Boureau,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,France F11,3,Clay,R32,1052,559,0,,,Alexis Musialek,Yann Marti,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,SF,1053,695,0,Q,,Jaume Pla Malfeito,Yann Marti,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,QF,1053,504,1,Q,2,Yann Marti,Jonas Merckx,5-7 7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,R16,1053,648,1,Q,,Yann Marti,Alexandr Igoshin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,R32,1053,,1,Q,,Yann Marti,Daniel De Jonge,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-May-2018,Aix En Provence CH,3,Clay,Q2,1033,390,0,,6,Fabien Reboul,Yann Marti,6-3 3-0 RET,0.74,0.0%,5.3%,63.2%,45.8%,21.4%,1/6,42.2%,46.7%,2.2%,33.3%,66.7%,2/7,83,0,2,38,24,14,1,0:59
+7-May-2018,Aix En Provence CH,3,Clay,Q1,1033,747,1,,,Yann Marti,Fran Zvonimir Zgombic,6-4 6-2,1.40,1.9%,1.9%,54.7%,75.9%,66.7%,1/1,57.3%,39.5%,2.3%,30.0%,47.8%,3/3,96,1,1,53,29,24,1,1:07
+16-Apr-2018,France F7,3,Hard,R16,1062,346,0,Q,2,Yannick Jankovits,Yann Marti,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,France F7,3,Hard,R32,1062,964,1,Q,,Yann Marti,Jules Marie,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,France F6,3,Hard,R16,1104,1073,0,,,Damien Bayard,Yann Marti,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,France F6,3,Hard,R32,1104,1888,1,,,Yann Marti,Arthur Reymond,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,R32,941,419,0,Q,,Marc Sieber,Yann Marti,6-2 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Portugal F3,3,Hard,R16,941,431,0,,5,Frederico Gil,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Portugal F3,3,Hard,R32,941,,1,,WC,Yann Marti,Thomas George Brun,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,France F3,3,Carpet,R32,662,520,0,Q,,Igor Sijsling,Yann Marti,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F2,3,Hard,R32,662,691,0,,,Karue Sell,Yann Marti,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Brescia CH,3,Hard,Q2,584,1726,0,1,,Alexander Bury,Yann Marti,7-6(2) 1-6 7-5,0.98,2.5%,7.6%,67.8%,68.8%,50.0%,13/15,50.7%,36.6%,14.9%,26.6%,54.1%,3/8,219,3,9,118,80,38,15,1:55
+30-Oct-2017,Eckental CH,3,Hard,R16,512,160,0,LL,SE,Corentin Moutet,Yann Marti,6-2 3-0 RET,0.61,2.4%,11.9%,40.5%,70.6%,28.0%,3/6,39.5%,33.3%,2.6%,40.0%,26.3%,0/2,81,1,5,42,17,25,1,0:59
+30-Oct-2017,Eckental CH,3,Hard,R32,512,255,1,LL,,Yann Marti,Konstantin Kravchuk,6-4 6-3,1.33,1.8%,10.9%,65.5%,80.6%,47.4%,1/2,55.7%,41.2%,9.8%,37.8%,50.0%,3/5,106,1,6,55,36,19,5,1:02
+30-Oct-2017,Eckental CH,3,Hard,Q3,512,153,0,,3,Mathias Bourgue,Yann Marti,6-2 6-4,0.64,6.3%,10.9%,56.3%,61.1%,39.3%,1/5,42.0%,30.9%,18.2%,21.6%,50.0%,1/3,119,4,7,64,36,28,10,1:07
+30-Oct-2017,Eckental CH,3,Hard,Q2,512,361,1,,6,Yann Marti,Kevin Krawietz,6-3 6-7(3) 6-3,1.26,5.2%,6.3%,55.2%,77.4%,58.1%,5/7,53.8%,39.4%,7.1%,31.5%,48.9%,4/7,195,5,6,96,53,43,7,1:56
+30-Oct-2017,Eckental CH,3,Hard,Q1,512,1917,1,,,Yann Marti,Marcus Mansson,7-6(5) 6-4,1.24,3.9%,10.5%,50.0%,73.7%,63.2%,2/2,53.2%,39.0%,24.4%,21.3%,62.9%,1/4,158,3,8,76,38,38,20,1:29
+23-Oct-2017,Brest CH,3,Hard,Q2,518,486,0,,5,Yannik Reuter,Yann Marti,6-3 6-4,0.90,1.9%,9.4%,54.7%,65.5%,33.3%,4/9,46.8%,44.3%,4.5%,26.1%,64.3%,3/13,141,1,5,53,29,24,4,1:32
+23-Oct-2017,Brest CH,3,Hard,Q1,518,465,1,,,Yann Marti,Jonathan Eysseric,1-6 6-3 6-4,0.97,0.0%,5.8%,52.3%,64.4%,51.2%,9/13,49.4%,40.7%,7.0%,37.5%,44.7%,4/8,172,0,5,86,45,41,6,1:43
+9-Oct-2017,Ortisei CH,3,Hard,Q2,498,325,0,,4,Albano Olivetti,Yann Marti,6-3 6-4,0.80,0.0%,7.5%,62.3%,57.6%,70.0%,3/5,44.8%,30.2%,15.9%,19.2%,37.8%,0/4,116,0,4,53,33,20,10,1:11
+24-Jul-2017,Gstaad,3,Clay,Q1,448,192,0,Alt,7,Lorenzo Giustino,Yann Marti,6-4 6-7(3) 6-2,0.80,2.9%,10.8%,54.9%,66.1%,47.8%,4/9,45.8%,33.7%,5.9%,13.7%,54.0%,2/8,203,3,11,102,56,46,6,2:14
+3-Jul-2017,France F14,3,Clay,R32,420,859,0,8,,Johan Sebastien Tatlot,Yann Marti,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Germany F4,3,Clay,R16,399,167,0,8,,Oscar Otte,Yann Marti,7-6(6) 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Germany F4,3,Clay,R32,399,1835,1,8,Q,Yann Marti,Alexander Mannapov,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Greece F1,3,Hard,SF,356,362,0,5,3,Michal Konecny,Yann Marti,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Greece F1,3,Hard,QF,356,273,1,5,1,Yann Marti,Sebastian Ofner,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Greece F1,3,Hard,R16,356,1005,1,5,Q,Yann Marti,Adrian Bodmer,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Greece F1,3,Hard,R32,356,761,1,5,,Yann Marti,Jakob Sude,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Wroclaw CH,3,Hard,R16,373,148,0,Q,4,Quentin Halys,Yann Marti,6-3 6-4,0.78,1.5%,16.2%,50.0%,67.6%,38.2%,5/9,45.0%,36.5%,19.0%,20.6%,55.2%,2/4,131,1,11,68,34,34,12,1:27
+27-Feb-2017,Wroclaw CH,3,Hard,R32,373,467,1,Q,Q,Yann Marti,Andriej Kapas,6-4 6-3,1.14,5.6%,9.9%,56.3%,77.5%,51.6%,8/9,54.5%,38.5%,11.5%,23.3%,59.1%,3/6,123,4,7,71,40,31,6,1:16
+27-Feb-2017,Wroclaw CH,3,Hard,Q3,373,870,1,4,,Yann Marti,Andrei Vasilevski,6-3 6-3,1.91,8.9%,6.7%,62.2%,92.9%,58.8%,0/0,57.0%,38.2%,18.2%,16.1%,66.7%,3/4,100,4,3,45,28,17,10,0:56
+27-Feb-2017,Wroclaw CH,3,Hard,Q2,373,486,1,4,,Yann Marti,Tomas Papik,6-4 6-2,1.52,8.9%,3.6%,48.2%,77.8%,62.1%,2/3,58.3%,46.2%,9.6%,33.3%,84.6%,4/7,108,5,2,56,27,29,5,0:57
+20-Feb-2017,Bergamo CH,3,Hard,Q2,356,398,0,,,Michal Przysiezny,Yann Marti,6-3 7-6(2),0.80,9.9%,4.9%,58.0%,61.7%,50.0%,6/8,45.9%,34.6%,15.4%,27.5%,48.1%,1/4,159,8,4,81,47,34,12,1:44
+20-Feb-2017,Bergamo CH,3,Hard,Q1,356,306,1,,7,Yann Marti,Kevin Krawietz,6-4 6-2,2.28,6.8%,4.5%,43.2%,100.0%,68.0%,0/0,58.8%,41.4%,10.3%,37.8%,47.6%,3/6,102,3,2,44,19,25,6,0:51
+13-Feb-2017,Switzerland F2,3,Carpet,R32,347,435,0,6,,Matteo Berrettini,Yann Marti,2-6 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R32,343,669,0,3,Q,Elmar Ejupovic,Yann Marti,6-3 6-7(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,R16,332,523,0,8,,Oscar Otte,Yann Marti,7-6(6) 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,R32,332,,1,8,Q,Yann Marti,Alexander Mannapov,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,Koblenz CH,3,Hard,R16,332,154,0,Q,,Kenny De Schepper,Yann Marti,6-7(9) 6-2 6-4,0.85,4.2%,3.3%,66.7%,62.5%,42.5%,8/13,47.0%,37.5%,6.3%,35.1%,42.9%,2/7,232,5,4,120,80,40,7,2:49
+16-Jan-2017,Koblenz CH,3,Hard,R32,332,171,1,Q,,Yann Marti,Maximilian Marterer,6-2 7-6(1),1.31,5.6%,1.4%,66.2%,70.2%,54.2%,6/8,54.4%,46.1%,0.0%,44.1%,50.0%,4/16,160,4,1,71,47,24,0,1:34
+16-Jan-2017,Koblenz CH,3,Hard,Q3,332,488,1,,,Yann Marti,Adrien Bossel,6-2 6-7(5) 6-2,1.47,8.1%,8.1%,59.3%,80.4%,54.3%,3/5,56.3%,44.3%,0.0%,36.4%,54.8%,6/10,183,7,7,86,51,35,0,1:58
+16-Jan-2017,Koblenz CH,3,Hard,Q2,332,932,1,,WC,Yann Marti,Lukas Ruepke,6-4 6-3,1.68,3.8%,1.9%,58.5%,74.2%,72.7%,0/1,57.9%,44.3%,1.6%,41.5%,50.0%,3/9,114,2,1,53,31,22,1,1:14
+21-Nov-2016,Andria CH,3,Hard,R16,357,182,0,Q,4,Luca Vanni,Yann Marti,6-4 7-6(4),0.87,3.0%,4.5%,62.1%,82.9%,36.0%,3/5,46.5%,30.3%,22.4%,20.4%,54.5%,1/8,142,2,3,66,41,25,17,1:33
+21-Nov-2016,Andria CH,3,Hard,R32,357,252,1,Q,,Yann Marti,Pere Riba,6-3 6-4,1.48,16.7%,1.9%,66.7%,83.3%,55.6%,0/1,57.4%,38.3%,21.3%,25.9%,55.0%,3/7,101,9,1,54,36,18,10,0:58
+21-Nov-2016,Andria CH,3,Hard,Q3,357,728,1,2,,Yann Marti,Ilija Vucic,6-3 6-1,1.61,6.7%,4.4%,48.9%,86.4%,39.1%,1/3,61.5%,60.8%,7.8%,60.6%,61.1%,6/8,96,3,2,45,22,23,4,0:55
+21-Nov-2016,Andria CH,3,Hard,Q2,357,496,1,2,,Yann Marti,Andriej Kapas,7-6(4) 3-6 7-6(3),1.14,10.7%,7.1%,59.8%,77.6%,46.7%,1/4,51.7%,39.7%,9.5%,29.3%,54.9%,2/9,238,12,8,112,67,45,12,2:30
+14-Nov-2016,Brescia CH,3,Hard,Q3,358,298,0,6,2,Petr Michnev,Yann Marti,6-1 6-3,0.52,4.3%,10.9%,60.9%,64.3%,38.9%,1/5,39.8%,23.8%,21.4%,19.4%,36.4%,0/0,88,2,5,46,28,18,9,0:43
+14-Nov-2016,Brescia CH,3,Hard,Q2,358,675,1,6,,Yann Marti,Luca Pancaldi,6-3 6-4,3.36,4.4%,6.7%,64.4%,93.1%,81.3%,0/0,58.0%,37.3%,3.0%,27.1%,63.2%,2/4,112,2,3,45,29,16,2,1:01
+14-Nov-2016,Brescia CH,3,Hard,Q1,358,1430,1,6,,Yann Marti,Mikalai Haliak,6-4 6-2,2.04,13.0%,8.7%,54.3%,88.0%,66.7%,0/0,56.7%,44.4%,7.4%,37.2%,52.6%,3/14,127,6,4,46,25,21,6,1:04
+31-Oct-2016,Germany F17,3,Hard,F,399,195,1,2,1,Yann Marti,Yannik Reuter,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,SF,399,392,1,2,4,Yann Marti,Hubert Hurkacz,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,QF,399,1129,1,2,,Yann Marti,Ugo Humbert,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,R16,399,1040,1,2,,Yann Marti,Raphael Baltensperger,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,R32,399,1600,1,2,Q,Yann Marti,Jurgen Briand,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Great Britain F4,3,Hard,SF,388,376,0,3,2,Maxime Authom,Yann Marti,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Great Britain F4,3,Hard,QF,388,741,1,3,8,Yann Marti,Scott Clayton,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Great Britain F4,3,Hard,R16,388,1179,1,3,,Yann Marti,Simon Carr,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Great Britain F4,3,Hard,R32,388,1030,1,3,,Yann Marti,Hunter Callahan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Brest CH,3,Hard,R32,385,244,0,Q,,Yannik Reuter,Yann Marti,7-5 3-6 6-3,0.85,5.6%,3.3%,61.1%,58.2%,57.1%,5/10,47.1%,35.7%,6.0%,27.1%,47.2%,4/5,174,5,3,90,55,35,5,2:05
+17-Oct-2016,Brest CH,3,Hard,Q3,385,222,1,6,1,Yann Marti,Norbert Gombos,7-5 3-6 6-3,0.91,2.4%,7.3%,58.5%,70.8%,37.3%,15/18,49.1%,39.4%,8.1%,21.1%,64.3%,4/10,222,3,9,123,72,51,8,2:33
+17-Oct-2016,Brest CH,3,Hard,Q2,385,492,1,6,,Yann Marti,Andriej Kapas,1-6 6-1 6-1,1.23,5.1%,8.5%,64.4%,76.3%,42.9%,2/4,53.7%,43.8%,4.7%,29.0%,57.6%,5/6,123,3,5,59,38,21,3,1:15
+17-Oct-2016,Brest CH,3,Hard,Q1,385,1752,1,6,,Yann Marti,Max Colorado ,6-1 6-0,3.80,10.0%,3.3%,56.7%,94.1%,69.2%,0/0,71.8%,63.4%,2.4%,55.6%,78.6%,6/9,71,3,1,30,17,13,1,0:36
+3-Oct-2016,Mons CH,3,Hard,R16,426,71,0,Q,3,Paul Henri Mathieu,Yann Marti,6-2 6-3,0.80,10.2%,6.1%,57.1%,53.6%,61.9%,3/6,43.7%,34.3%,0.0%,25.7%,42.9%,0/5,119,5,3,49,28,21,0,1:16
+3-Oct-2016,Mons CH,3,Hard,R32,426,390,1,Q,Q,Yann Marti,Sadio Doumbia,6-1 6-2,1.77,2.6%,0.0%,59.0%,65.2%,68.8%,1/2,62.7%,59.1%,2.3%,51.6%,76.9%,6/6,83,1,0,39,23,16,1,0:55
+3-Oct-2016,Mons CH,3,Hard,Q3,426,215,1,,1,Yann Marti,Gregoire Barrere,6-4 3-6 7-5,0.91,2.0%,4.0%,64.0%,59.4%,52.8%,7/11,48.2%,39.2%,7.2%,35.3%,48.3%,5/7,197,2,4,100,64,36,7,2:09
+3-Oct-2016,Mons CH,3,Hard,Q2,426,341,1,,6,Yann Marti,Christopher Heyman,6-0 6-4,2.50,20.0%,5.0%,55.0%,90.9%,66.7%,0/0,63.6%,50.0%,2.1%,45.5%,60.0%,4/8,88,8,2,40,22,18,1,0:51
+3-Oct-2016,Mons CH,3,Hard,Q1,426,640,1,,,Yann Marti,Fabien Reboul,6-0 6-4,1.45,1.9%,5.7%,64.2%,64.7%,63.2%,5/6,57.9%,51.9%,1.9%,40.0%,66.7%,5/11,107,1,3,53,34,19,1,1:03
+26-Sep-2016,Orleans CH,3,Hard,Q3,408,396,0,,,Hugo Nys,Yann Marti,6-7(3) 6-4 5-0 RET,0.92,2.3%,3.5%,60.5%,57.7%,55.9%,2/8,47.8%,39.8%,12.2%,22.4%,57.1%,2/10,184,2,3,86,52,34,12,2:01
+26-Sep-2016,Orleans CH,3,Hard,Q2,408,377,1,,,Yann Marti,David Guez,6-2 6-2,1.51,14.5%,3.6%,61.8%,70.6%,66.7%,3/3,59.0%,46.7%,0.0%,34.5%,68.8%,4/8,100,8,2,55,34,21,0,0:54
+26-Sep-2016,Orleans CH,3,Hard,Q1,408,324,1,,,Yann Marti,Roberto Ortega Olmedo,6-7(5) 7-6(8) 6-1,1.10,11.2%,5.2%,61.2%,66.2%,46.7%,2/7,52.9%,45.7%,1.1%,33.3%,56.0%,7/10,208,13,6,116,71,45,1,2:08
+19-Sep-2016,Izmir CH,3,Hard,R32,392,215,0,,,Aldin Setkic,Yann Marti,6-1 6-2,0.17,0.0%,6.1%,61.2%,56.7%,36.8%,2/6,32.1%,8.6%,20.0%,4.2%,18.2%,0/0,84,0,3,49,30,19,7,0:49
+5-Sep-2016,Genova CH,3,Clay,Q2,381,315,0,,1,Michael Linzer,Yann Marti,6-4 6-4,0.83,1.7%,16.7%,45.0%,59.3%,33.3%,4/10,45.5%,45.9%,3.3%,40.0%,53.8%,4/8,121,1,10,60,27,33,2,1:29
+5-Sep-2016,Genova CH,3,Clay,Q1,381,508,1,,,Yann Marti,Isak Arvidsson,6-2 6-2,1.49,2.0%,8.2%,59.2%,79.3%,45.0%,3/4,57.9%,51.7%,1.7%,47.4%,60.0%,5/8,107,1,4,49,29,20,1,1:08
+25-Jul-2016,Biella CH,3,Clay,Q3,375,602,0,8,,Viktor Galovic,Yann Marti,6-2 7-6(5),0.77,0.0%,5.1%,50.0%,61.5%,43.6%,6/10,44.7%,36.5%,8.1%,26.5%,45.0%,2/5,152,0,4,78,39,39,6,1:49
+25-Jul-2016,Biella CH,3,Clay,Q2,375,476,1,8,,Yann Marti,Adrien Bossel,6-1 7-5,1.31,4.3%,5.8%,65.2%,68.9%,45.8%,7/9,55.9%,51.3%,2.6%,35.9%,67.6%,6/14,145,3,4,69,45,24,2,1:36
+25-Jul-2016,Biella CH,3,Clay,Q1,375,871,1,8,,Yann Marti,Fabricio Neis,6-3 0-0 RET,1.27,5.3%,5.3%,57.9%,59.1%,56.3%,2/3,56.1%,53.6%,3.6%,46.7%,61.5%,2/5,66,2,2,38,22,16,1,0:45
+18-Jul-2016,Gstaad,3,Clay,R32,391,306,0,Q,Q,Jan Mertl,Yann Marti,6-4 6-7(5) 6-2,0.84,0.0%,5.6%,63.0%,58.8%,45.0%,11/18,46.8%,38.7%,9.7%,25.8%,64.5%,4/6,201,0,6,108,68,40,9,2:13
+18-Jul-2016,Gstaad,3,Clay,Q2,391,281,1,,7,Yann Marti,Tomas Lipovsek Puches,6-0 3-6 6-4,1.24,0.0%,4.3%,56.5%,71.8%,56.7%,1/3,53.4%,43.0%,5.1%,36.5%,55.6%,5/7,148,0,3,69,39,30,4,1:35
+18-Jul-2016,Gstaad,3,Clay,Q1,391,130,1,,2,Yann Marti,Marco Trungelliti,7-6(2) 6-3,1.17,0.0%,3.1%,56.9%,70.3%,35.7%,2/5,53.6%,52.1%,2.7%,44.0%,69.6%,5/10,138,0,2,65,37,28,2,1:30
+11-Jul-2016,Hamburg,3,Clay,Q1,362,200,0,,3,Steven Diez,Yann Marti,6-3 7-5,0.79,1.6%,3.3%,50.8%,51.6%,36.7%,3/9,44.2%,44.1%,1.7%,28.9%,71.4%,4/6,120,1,2,61,31,30,1,1:30
+20-Jun-2016,Netherlands F2,3,Clay,R16,346,309,0,,,Kamil Majchrzak,Yann Marti,DEF,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Netherlands F2,3,Clay,R32,346,320,1,,8,Yann Marti,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,SF,346,291,0,3,1,Pedro Sousa,Yann Marti,6-4 6-7(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,QF,346,427,1,3,8,Yann Marti,Connor Smith,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,R16,346,,1,3,PR,Yann Marti,Jeroen Vanneste,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,R32,346,,1,3,Q,Yann Marti,Lukas Vejvara,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Lyon CH,3,Clay,R16,342,138,0,Q,5,Thiago Monteiro,Yann Marti,4-6 6-4 6-3,0.85,4.4%,2.2%,55.6%,72.0%,45.0%,4/8,47.2%,34.1%,6.8%,27.6%,46.7%,3/7,178,4,2,90,50,40,6,2:01
+6-Jun-2016,Lyon CH,3,Clay,R32,342,737,1,Q,WC,Yann Marti,Corentin Denolly,6-4 6-0,1.68,2.3%,0.0%,45.5%,80.0%,50.0%,3/5,62.4%,61.2%,4.1%,53.6%,71.4%,6/8,93,1,0,44,20,24,2,0:59
+6-Jun-2016,Lyon CH,3,Clay,Q3,342,350,1,3,6,Yann Marti,Clement Geens,6-3 6-3,1.34,1.8%,3.5%,66.7%,71.1%,52.6%,3/4,56.6%,46.9%,0.0%,34.4%,70.6%,4/5,106,1,2,57,38,19,0,1:05
+6-Jun-2016,Lyon CH,3,Clay,Q2,342,867,1,3,,Yann Marti,Milos Sekulic,6-3 7-6(5),1.14,0.0%,5.6%,50.0%,58.3%,52.8%,5/10,53.3%,50.8%,1.6%,34.3%,71.4%,6/8,135,0,4,72,36,36,1,1:12
+30-May-2016,Furth CH,3,Hard,Q1,342,306,0,,,Nicolas Barrientos,Yann Marti,3-6 6-1 7-6(4),0.97,4.1%,4.1%,53.1%,53.8%,43.5%,9/17,49.3%,49.6%,0.0%,45.9%,53.8%,7/16,211,4,4,98,52,46,0,2:30
+16-May-2016,Geneva,3,Clay,Q2,343,338,0,,,Andreas Beck,Yann Marti,6-1 6-2,0.68,2.3%,4.5%,56.8%,52.0%,47.4%,1/5,40.8%,33.9%,0.0%,25.0%,47.8%,0/5,103,1,2,44,25,19,0,1:08
+16-May-2016,Geneva,3,Clay,Q1,343,128,1,,2,Yann Marti,Marco Chiudinelli,6-3 6-2,1.55,2.0%,0.0%,64.7%,63.6%,61.1%,4/7,60.2%,57.9%,3.5%,46.7%,70.4%,6/10,108,1,0,51,33,18,2,
+9-May-2016,Heilbronn CH,3,Clay,Q1,345,212,0,,5,Laslo Djere,Yann Marti,6-3 7-5,0.99,1.8%,3.6%,69.6%,76.9%,29.4%,1/3,46.4%,37.1%,3.1%,29.2%,53.1%,0/10,153,1,2,56,39,17,3,1:31
+2-May-2016,Aix en Provence CH,3,Clay,R32,326,72,0,Q,1,Lukas Rosol,Yann Marti,6-3 6-4,0.70,4.3%,2.9%,56.5%,64.1%,36.7%,4/8,43.7%,33.3%,8.8%,35.1%,30.0%,1/3,126,3,2,69,39,30,5,1:10
+2-May-2016,Aix en Provence CH,3,Clay,Q3,326,534,1,7,,Yann Marti,Gregoire Jacq,6-3 6-2,1.39,0.0%,4.3%,63.8%,56.7%,58.8%,1/4,58.4%,59.1%,1.5%,47.1%,71.9%,7/11,113,0,2,47,30,17,1,1:22
+2-May-2016,Aix en Provence CH,3,Clay,Q2,326,537,1,7,,Yann Marti,Alexis Musialek,6-4 5-7 6-1,1.32,1.2%,2.5%,65.4%,71.7%,60.7%,2/4,53.9%,42.4%,2.0%,33.8%,61.3%,5/6,180,1,2,81,53,28,2,1:44
+25-Apr-2016,Tunisia F16,3,Clay,R16,322,522,0,1,,Lennert Van Der Linden,Yann Marti,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tunisia F16,3,Clay,R32,322,,1,1,Q,Yann Marti,Keyvan Nematzadeh,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Turino CH,3,Clay,Q1,326,289,0,,5,Joris De Loore,Yann Marti,6-0 7-6(6),0.67,0.0%,3.6%,57.1%,62.5%,37.5%,1/5,41.7%,32.2%,13.6%,25.0%,38.7%,1/2,115,0,2,56,32,24,8,1:17
+4-Apr-2016,Napoli CH,3,Clay,Q3,315,289,0,,6,Alexey Vatutin,Yann Marti,6-2 6-3,0.68,0.0%,2.1%,60.4%,58.6%,36.8%,2/6,40.9%,33.9%,1.6%,31.9%,40.0%,1/8,110,0,1,48,29,19,1,1:08
+4-Apr-2016,Napoli CH,3,Clay,Q2,315,253,1,,3,Yann Marti,Frederico Ferreira Silva,6-7(1) 6-4 6-4,1.07,5.0%,3.0%,60.0%,70.0%,45.0%,2/6,50.9%,43.0%,2.6%,31.4%,61.4%,6/14,214,5,3,100,60,40,3,2:22
+4-Apr-2016,Napoli CH,3,Clay,Q1,315,,1,,WC,Yann Marti,Pietro Manola,6-1 6-1,3.47,2.9%,0.0%,60.0%,85.7%,78.6%,2/2,70.1%,59.5%,2.4%,47.4%,69.6%,5/6,77,1,0,35,21,14,1,0:42
+21-Mar-2016,Turkey F12,3,Hard,F,324,357,0,4,5,Filip Horansky,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Turkey F12,3,Hard,SF,324,363,1,4,7,Yann Marti,Jesse Huta Galung,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Turkey F12,3,Hard,QF,324,547,1,4,,Yann Marti,Yannick Maden,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Turkey F12,3,Hard,R16,324,1295,1,4,Q,Yann Marti,Bogdan Bobrov,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Turkey F12,3,Hard,R32,324,686,1,4,,Yann Marti,Jerome Inzerillo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,France F4,3,Hard,R16,322,388,0,7,,Antal Van Der Duim,Yann Marti,7-5 6-7(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,France F4,3,Hard,R32,322,1003,1,7,PR,Yann Marti,Denis Matsukevitch,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Switzerland F2,3,Carpet,SF,342,311,0,,6,Daniil Medvedev,Yann Marti,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Switzerland F2,3,Carpet,QF,342,371,1,,,Yann Marti,Ilya Ivashka,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Switzerland F2,3,Carpet,R16,342,684,1,,WC,Yann Marti,Antoine Bellier,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Switzerland F2,3,Carpet,R32,342,732,1,,Q,Yann Marti,Johannes Haerteis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,SF,339,242,0,,2,Uladzimir Ignatik,Yann Marti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,QF,339,763,1,,Q,Yann Marti,Niels Lootsma,6-7(3) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R16,339,,1,,Q,Yann Marti,Dimitar Grabuloski,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R32,339,612,1,,,Yann Marti,Sandro Ehrat,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Great Britain F1,3,Hard,QF,352,313,0,7,1,Liam Broady,Yann Marti,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Great Britain F1,3,Hard,R16,352,465,1,7,,Yann Marti,Lloyd Glasspool,3-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Great Britain F1,3,Hard,R32,352,415,1,7,,Yann Marti,Stefano Napolitano,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,SF,362,386,0,5,7,Antal Van Der Duim,Yann Marti,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,QF,362,268,1,5,1,Yann Marti,Gregoire Barrere,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,R16,362,502,1,5,,Yann Marti,Alexandre Folie,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,R32,362,537,1,5,,Yann Marti,Joran Vliegen,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,France F2,3,Hard,SF,362,292,0,4,2,Constant Lestienne,Yann Marti,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,France F2,3,Hard,QF,362,386,1,4,6,Yann Marti,Antal Van Der Duim,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,France F2,3,Hard,R16,362,885,1,4,SE,Yann Marti,Corentin Denolly,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,France F2,3,Hard,R32,362,688,1,4,,Yann Marti,Antoine Bellier,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Greece F8,3,Hard,SF,366,393,0,2,4,Vaclav Safranek,Yann Marti,6-3 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Greece F8,3,Hard,QF,366,535,1,2,,Yann Marti,Matteo Berrettini,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Greece F8,3,Hard,R16,366,731,1,2,,Yann Marti,Joshua Ward Hibbert,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Greece F8,3,Hard,R32,366,1295,1,2,Q,Yann Marti,Jessy Kalambay,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Greece F7,3,Hard,SF,363,810,0,2,,Lloyd Glasspool,Yann Marti,6-2 5-3 RET,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Greece F7,3,Hard,QF,363,539,1,2,6,Yann Marti,Theo Fournerie,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Greece F7,3,Hard,R16,363,1174,1,2,,Yann Marti,Andre Biro,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Greece F7,3,Hard,R32,363,787,1,2,,Yann Marti,Daniel Altmaier,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Orleans CH,3,Hard,R32,354,96,0,Q,4,Paul Henri Mathieu,Yann Marti,6-2 7-6(2),0.79,6.8%,10.2%,57.6%,64.7%,20.0%,1/6,43.9%,42.7%,3.4%,31.8%,53.3%,3/12,148,4,6,59,34,25,3,
+21-Sep-2015,France F19,3,Hard,QF,357,656,0,3,,Jeremy Jahn,Yann Marti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,R16,357,1155,1,3,LL,Yann Marti,Joffrey De Schepper,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,R32,357,974,1,3,,Yann Marti,Medy Chettar,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,France F18,3,Hard,QF,337,317,0,5,3,Gregoire Barrere,Yann Marti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,France F18,3,Hard,R16,337,562,1,5,,Yann Marti,Gregoire Jacq,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,France F18,3,Hard,R32,337,819,1,5,,Yann Marti,Teri Groll,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2015,Genova CH,3,Clay,R16,365,160,0,,,Andrey Golubev,Yann Marti,6-3 6-4,0.63,3.5%,7.0%,56.1%,59.4%,48.0%,2/6,42.2%,28.8%,1.9%,25.0%,33.3%,2/3,109,2,4,57,32,25,1,
+8-Sep-2015,Genova CH,3,Clay,R32,365,109,1,,6,Yann Marti,Dusan Lajovic,3-6 6-4 7-5,1.13,1.2%,1.2%,57.8%,72.9%,40.0%,2/8,51.9%,46.2%,3.8%,35.2%,68.6%,7/16,189,1,1,83,48,35,4,
+27-Jul-2015,Gstaad,3,Clay,Q1,349,252,0,,,Antonio Veic,Yann Marti,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,France F14,3,Clay,QF,353,,0,3,WC,Rayane Roumane,Yann Marti,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,France F14,3,Clay,R16,353,1128,1,3,Q,Yann Marti,Thomas Le Boulch,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,France F14,3,Clay,R32,353,677,1,3,,Yann Marti,Hugo Grenier,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Netherlands F4,3,Clay,F,295,234,0,3,1,Yannick Mertens,Yann Marti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Netherlands F4,3,Clay,SF,295,705,1,3,,Yann Marti,Alexey Vatutin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Netherlands F4,3,Clay,QF,295,1344,1,3,WC,Yann Marti,Thomas Schoorel,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Netherlands F4,3,Clay,R16,295,968,1,3,Q,Yann Marti,Jelle Sels,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Netherlands F4,3,Clay,R32,295,1359,1,3,Q,Yann Marti,Oliver Anderson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,F,295,259,0,6,4,Jesse Huta Galung,Yann Marti,7-5 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,SF,295,598,1,6,,Yann Marti,Fabricio Neis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,QF,295,257,1,6,3,Yann Marti,Dennis Novak,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,R16,295,470,1,6,,Yann Marti,Thales Turini,2-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,R32,295,968,1,6,,Yann Marti,Jelle Sels,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,R16,294,725,0,3,,Alexey Vatutin,Yann Marti,6-4 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,R32,294,443,1,3,,Yann Marti,Maverick Banes,3-6 7-6(9) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Italy F12,3,Clay,F,315,457,0,3,,Alessandro Giannessi,Yann Marti,6-7(6) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Italy F12,3,Clay,SF,315,300,1,3,2,Yann Marti,Gregoire Barrere,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Italy F12,3,Clay,QF,315,416,1,3,8,Yann Marti,Takanyi Garanganga,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Italy F12,3,Clay,R16,315,628,1,3,,Yann Marti,Adelchi Virgili,4-6 6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Italy F12,3,Clay,R32,315,808,1,3,,Yann Marti,Caio Silva,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-May-2015,Geneva,3,Clay,Q3,313,40,0,,2,Lukas Rosol,Yann Marti,6-3 6-2,0.52,0.0%,8.2%,59.2%,69.0%,40.0%,2/5,39.8%,22.4%,20.4%,6.1%,56.3%,0/1,98,0,4,49,29,20,10,0:55
+17-May-2015,Geneva,3,Clay,Q2,313,226,1,,7,Yann Marti,Pedro Cachin,6-4 6-1,1.30,4.0%,0.0%,72.0%,75.0%,14.3%,5/7,56.0%,54.5%,3.0%,51.2%,60.9%,6/11,116,2,0,50,36,14,2,1:07
+17-May-2015,Geneva,3,Clay,Q1,313,,1,,WC,Yann Marti,Andre Begemann,7-6(2) 6-4,1.47,3.0%,3.0%,63.6%,73.8%,50.0%,1/4,57.7%,51.3%,0.0%,43.9%,73.7%,4/8,142,2,2,66,42,24,0,1:21
+4-May-2015,Aix en Provence CH,3,Clay,R16,291,272,0,Q,Q,Jonathan Eysseric,Yann Marti,6-3 1-6 6-4,1.05,2.8%,2.8%,62.0%,61.4%,48.1%,2/7,51.0%,46.1%,3.9%,32.5%,61.1%,5/11,147,2,2,71,44,27,3,1:47
+4-May-2015,Aix en Provence CH,3,Clay,R32,291,101,1,Q,5,Yann Marti,Filip Krajinovic,6-3 6-3,1.54,8.9%,3.6%,67.9%,78.9%,50.0%,6/7,57.8%,46.7%,6.7%,25.7%,76.0%,4/10,116,5,2,56,38,18,4,1:12
+27-Apr-2015,France F9,3,Clay,SF,296,486,0,1,7,Maxime Chazal,Yann Marti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,France F9,3,Clay,QF,296,466,1,1,5,Yann Marti,Calvin Hemery,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,France F9,3,Clay,R16,296,588,1,1,,Yann Marti,Julien Dubail,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,France F9,3,Clay,R32,296,1277,1,1,LL,Yann Marti,Joffrey De Schepper,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Vercelli CH,3,Clay,R32,297,238,0,Q,,Filippo Volandri,Yann Marti,7-5 6-3,0.76,1.5%,7.7%,47.7%,67.7%,29.4%,3/8,43.6%,39.7%,1.5%,38.3%,42.9%,3/5,133,1,5,65,31,34,1,1:29
+6-Apr-2015,St Brieuc CH,3,Hard,R16,303,124,0,,3,Nicolas Mahut,Yann Marti,6-3 6-0,0.49,5.3%,1.8%,63.2%,58.3%,38.1%,4/8,38.8%,23.9%,8.7%,21.4%,27.8%,0/3,103,3,1,57,36,21,4,1:12
+6-Apr-2015,St Brieuc CH,3,Hard,R32,303,269,1,,,Yann Marti,Pedja Krstin,6-1 6-2,1.70,8.3%,8.3%,33.3%,93.8%,53.1%,2/3,60.9%,56.7%,1.5%,50.0%,62.2%,5/15,115,4,4,48,16,32,1,1:21
+9-Mar-2015,Switzerland F1,3,Carpet,QF,295,743,0,1,,Johannes Haerteis,Yann Marti,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Switzerland F1,3,Carpet,R16,295,1191,1,1,WC,Yann Marti,Johan Nikles,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Switzerland F1,3,Carpet,R32,295,945,1,1,,Yann Marti,Constantin Belot,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Italy F2,3,Carpet,R32,294,556,0,3,Q,Viktor Galovic,Yann Marti,6-7(6) 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Marseille,3,Hard,Q1,294,298,0,,,Remi Boutillier,Yann Marti,6-2 5-7 6-3,0.80,4.6%,6.5%,50.0%,70.4%,44.4%,3/8,46.9%,34.1%,10.2%,28.1%,45.2%,2/5,196,5,7,108,54,54,9,2:09
+2-Feb-2015,Glasgow CH,3,Hard,R32,268,209,0,,,Axel Michon,Yann Marti,6-3 4-0 RET,0.55,4.7%,9.3%,53.5%,52.2%,25.0%,2/7,36.7%,33.3%,5.6%,30.4%,38.5%,1/4,79,2,4,43,23,20,2,1:02
+26-Jan-2015,France F3,3,Hard,R32,267,459,0,5,,Constant Lestienne,Yann Marti,3-6 6-4 5-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,Turkey F2,3,Hard,R16,267,492,0,1,,Wilson Leite,Yann Marti,0-6 6-4 [12-10],,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,Turkey F2,3,Hard,R32,267,1261,1,1,WC,Yann Marti,Ferdun Shevkedov,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2015,Turkey F1,3,Hard,R32,267,579,0,1,,Alexey Vatutin,Yann Marti,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Brescia CH,3,Hard,R16,225,433,0,,Q,Denis Matsukevitch,Yann Marti,3-6 6-3 6-2,0.85,6.0%,3.6%,66.3%,65.5%,50.0%,4/8,47.0%,33.7%,10.8%,13.6%,56.4%,2/7,166,5,3,83,55,28,9,1:48
+10-Nov-2014,Brescia CH,3,Hard,R32,225,631,1,,WC,Yann Marti,Pietro Licciardi,7-5 7-6(4),1.23,12.5%,8.8%,67.5%,79.6%,50.0%,5/6,53.4%,37.0%,6.2%,28.3%,61.9%,2/7,161,10,7,80,54,26,5,1:38
+3-Nov-2014,Mouilleron Le Captif CH,3,Hard,R32,221,89,0,,7,Marcos Baghdatis,Yann Marti,6-2 6-1,0.34,0.0%,4.0%,66.0%,48.5%,47.1%,5/10,35.7%,17.6%,2.9%,0.0%,40.0%,0/0,84,0,2,50,33,17,1,0:53
+27-Oct-2014,Geneva CH,3,Hard,R32,210,171,0,WC,,Michal Przysiezny,Yann Marti,7-6(6) 6-4,0.96,7.5%,7.5%,47.5%,76.3%,47.6%,4/7,49.1%,37.0%,7.4%,24.4%,52.8%,2/9,161,6,6,80,38,42,6,1:49
+20-Oct-2014,Basel,3,Hard,Q1,209,90,0,WC,6,Andreas Haider Maurer,Yann Marti,6-3 6-2,0.53,10.3%,6.9%,41.4%,66.7%,50.0%,4/7,41.5%,22.9%,18.8%,9.7%,47.1%,0/1,106,6,4,58,24,34,9,1:04
+13-Oct-2014,Stockholm,3,Hard,Q1,211,288,0,8,,Jurgen Zopp,Yann Marti,7-6(5) 5-7 7-6(5),0.90,4.9%,8.2%,54.9%,79.1%,49.1%,4/6,48.4%,31.1%,10.7%,24.7%,42.2%,3/7,244,6,10,122,67,55,13,2:43
+29-Sep-2014,Mons CH,3,Hard,R16,214,355,0,Q,,Steve Darcis,Yann Marti,6-2 6-4,0.77,5.1%,5.1%,59.3%,54.3%,41.7%,7/12,44.5%,39.2%,3.9%,31.3%,52.6%,2/5,110,3,3,59,35,24,2,1:23
+29-Sep-2014,Mons CH,3,Hard,R32,214,192,1,Q,WC,Yann Marti,Kimmer Coppejans,6-4 0-6 6-1,1.12,3.9%,2.6%,49.4%,65.8%,46.2%,9/13,52.7%,49.3%,4.2%,39.5%,64.3%,5/8,148,3,2,77,38,39,3,1:42
+22-Sep-2014,Orleans CH,3,Hard,R32,209,153,0,,,Vincent Millot,Yann Marti,6-4 6-3,0.80,0.0%,5.7%,62.3%,63.6%,40.0%,2/6,45.0%,36.2%,5.2%,29.2%,41.2%,1/5,111,0,3,53,33,20,3,1:16
+15-Sep-2014,Izmir CH,3,Hard,R16,212,141,0,,6,Marsel Ilhan,Yann Marti,4-6 7-6(6) 7-5,0.86,1.7%,5.0%,59.2%,66.2%,42.9%,8/13,47.4%,37.3%,1.8%,32.3%,44.4%,5/10,230,2,6,120,71,49,2,2:39
+15-Sep-2014,Izmir CH,3,Hard,R32,212,395,1,,LL,Yann Marti,Dzmitry Zhyrmont,3-6 6-3 6-2,1.14,2.5%,8.8%,50.0%,65.0%,52.5%,7/11,52.8%,46.9%,1.2%,35.6%,61.1%,6/10,161,2,7,80,40,40,1,1:47
+2-Sep-2014,St. Remy CH,3,Hard,R16,209,136,0,,7,Pierre Hugues Herbert,Yann Marti,6-1 3-0 RET,0.27,0.0%,7.7%,61.5%,37.5%,40.0%,3/7,28.0%,16.7%,20.8%,10.0%,21.4%,0/0,50,0,2,26,16,10,5,0:31
+2-Sep-2014,St. Remy CH,3,Hard,R32,209,742,1,,Q,Yann Marti,Bar Tzuf Botzer,6-3 6-2,1.53,0.0%,1.9%,42.6%,87.0%,58.1%,1/1,57.9%,45.3%,1.9%,48.6%,38.9%,3/9,107,0,1,54,23,31,1,1:04
+25-Aug-2014,US Open,5,Hard,Q1,209,133,0,,17,Aljaz Bedene,Yann Marti,6-2 6-3,0.49,4.0%,4.0%,48.0%,70.8%,42.3%,4/7,39.6%,21.7%,13.0%,0.0%,43.5%,0/0,96,2,2,50,24,26,6,1:02
+21-Jul-2014,Gstaad,3,Clay,R16,212,28,0,WC,2,Marcel Granollers,Yann Marti,6-1 6-4,0.64,0.0%,5.7%,39.6%,52.4%,40.6%,3/8,40.2%,35.2%,13.0%,25.8%,47.8%,2/2,107,0,3,53,21,32,7,1:14
+21-Jul-2014,Gstaad,3,Clay,R32,212,89,1,WC,,Yann Marti,Daniel Gimeno Traver,5-7 7-6(7) 7-6(5),0.92,1.3%,3.2%,65.0%,55.9%,60.0%,23/29,49.6%,39.3%,6.8%,23.2%,54.1%,5/9,274,2,5,157,102,55,8,2:59
+7-Jul-2014,Stuttgart,3,Clay,R16,232,32,0,Q,6,Guillermo Garcia Lopez,Yann Marti,7-6(13) 7-5,0.94,3.3%,6.7%,54.4%,67.3%,46.3%,8/12,48.6%,39.6%,9.9%,31.0%,54.5%,3/10,181,3,6,90,49,41,9,2:05
+7-Jul-2014,Stuttgart,3,Clay,R32,232,259,1,Q,LL,Yann Marti,Henri Laaksonen,7-5 6-4,1.16,4.1%,4.1%,56.2%,68.3%,43.8%,5/8,53.7%,49.2%,0.0%,45.9%,53.8%,5/6,136,3,3,73,41,32,0,1:32
+7-Jul-2014,Stuttgart,3,Clay,Q3,232,382,1,7,,Yann Marti,Robin Kern,6-2 6-3,1.85,4.8%,7.1%,54.8%,78.3%,73.7%,0/0,58.7%,44.0%,12.0%,41.4%,47.6%,4/6,92,2,3,42,23,19,6,0:50
+7-Jul-2014,Stuttgart,3,Clay,Q2,232,2057,1,7,WC,Yann Marti,Jan Choinski,6-2 6-7(4) 6-2,1.26,6.5%,5.4%,59.1%,74.5%,44.7%,3/5,54.9%,47.3%,1.1%,38.3%,64.5%,6/6,184,6,5,93,55,38,1,1:59
+7-Jul-2014,Stuttgart,3,Clay,Q1,232,473,1,7,,Yann Marti,Sandro Ehrat,6-3 6-2,1.47,1.8%,8.9%,48.2%,77.8%,55.2%,3/4,57.9%,50.0%,1.7%,41.4%,58.6%,4/6,114,1,5,56,27,29,1,1:09
+30-Jun-2014,Todi CH,3,Clay,R32,245,201,0,,,Guilherme Clezar,Yann Marti,4-6 6-1 7-6(2),0.93,8.0%,3.4%,58.0%,72.5%,32.4%,4/10,48.3%,41.3%,4.3%,33.3%,54.3%,4/6,180,7,3,88,51,37,4,2:15
+23-Jun-2014,Wimbledon,5,Grass,Q3,245,236,0,,,Luke Saville,Yann Marti,2-6 6-3 5-7 7-6(7) 8-6,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon,5,Grass,Q2,245,286,1,,,Yann Marti,Theodoros Angelinos,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon,5,Grass,Q1,245,167,1,,32,Yann Marti,Guido Andreozzi,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Halle,3,Grass,Q2,251,135,0,,2,Pierre Hugues Herbert,Yann Marti,6-3 6-3,0.80,8.6%,6.9%,70.7%,61.0%,47.1%,7/10,44.4%,34.7%,12.0%,14.3%,60.6%,0/11,133,5,4,58,41,17,9,1:18
+9-Jun-2014,Halle,3,Grass,Q1,251,218,1,,,Yann Marti,Tim Puetz,6-0 3-6 6-4,1.11,2.4%,5.9%,62.4%,69.8%,46.9%,6/8,52.4%,43.0%,7.6%,29.3%,57.9%,4/10,164,2,5,85,53,32,6,1:40
+3-Jun-2014,Furth CH,3,Clay,R32,248,104,0,,2,Andreas Haider Maurer,Yann Marti,6-4 6-7(5) 6-2,0.89,2.9%,4.8%,69.2%,69.4%,31.3%,4/8,47.1%,37.6%,7.7%,26.4%,55.6%,1/12,221,3,5,104,72,32,9,2:43
+18-May-2014,Nice,3,Clay,Q3,253,77,0,,2,Leonardo Mayer,Yann Marti,6-2 6-3,0.62,0.0%,4.3%,56.5%,48.7%,43.3%,14/19,40.7%,33.3%,1.9%,20.0%,71.4%,2/5,123,0,3,69,39,30,1,1:21
+18-May-2014,Nice,3,Clay,Q2,253,133,1,,7,Yann Marti,Pierre Hugues Herbert,6-3 7-6(10),1.22,3.8%,0.0%,73.8%,69.5%,42.9%,6/9,54.6%,45.8%,8.3%,37.0%,61.5%,4/7,152,3,0,80,59,21,6,1:35
+18-May-2014,Nice,3,Clay,Q1,253,322,1,,,Yann Marti,Dennis Novak,6-0 1-6 6-4,1.31,8.2%,3.3%,72.1%,77.3%,41.2%,2/4,53.6%,42.9%,0.0%,47.6%,37.1%,4/6,138,5,2,61,44,17,0,1:33
+12-May-2014,Bordeaux CH,3,Clay,R32,251,134,0,,,Adrian Ungur,Yann Marti,6-3 3-6 6-4,0.96,3.4%,1.1%,60.2%,56.6%,51.4%,4/10,48.5%,43.8%,6.3%,35.6%,59.0%,5/19,200,3,1,88,53,35,7,2:33
+5-May-2014,Aix en Provence CH,3,Clay,SF,301,126,0,Q,3,Diego Schwartzman,Yann Marti,6-3 6-1,0.63,4.5%,2.3%,61.4%,48.1%,35.3%,0/5,39.2%,35.8%,0.0%,39.0%,25.0%,1/4,97,2,1,44,27,17,0,1:04
+5-May-2014,Aix en Provence CH,3,Clay,QF,301,173,1,Q,,Yann Marti,Albano Olivetti,6-2 7-6(2),1.69,8.5%,1.7%,66.1%,76.9%,75.0%,2/3,58.0%,40.0%,15.0%,15.2%,70.4%,3/5,119,5,1,59,39,20,9,1:20
+5-May-2014,Aix en Provence CH,3,Clay,R16,301,228,1,Q,,Yann Marti,Matthias Bachinger,6-4 6-4,0.96,1.4%,2.8%,60.6%,72.1%,46.4%,6/7,51.2%,36.5%,3.8%,45.5%,21.1%,3/5,123,1,2,71,43,28,2,1:19
+5-May-2014,Aix en Provence CH,3,Clay,R32,301,149,1,Q,8,Yann Marti,Marc Gicquel,6-4 7-5,1.21,2.9%,4.3%,53.6%,70.3%,56.3%,4/6,53.5%,43.8%,2.7%,26.7%,71.4%,4/10,142,2,3,69,37,32,2,1:25
+28-Apr-2014,Munich,3,Clay,Q2,283,117,0,,2,Albert Ramos,Yann Marti,3-6 6-1 6-2,0.87,4.7%,3.1%,65.6%,71.4%,31.8%,5/10,45.9%,36.6%,2.4%,37.0%,35.7%,2/7,146,3,2,64,42,22,2,1:46
+28-Apr-2014,Munich,3,Clay,Q1,283,265,1,,,Yann Marti,Egor Gerasimov,6-2 6-0,1.68,4.7%,2.3%,67.4%,72.4%,50.0%,0/1,61.1%,58.5%,0.0%,46.5%,81.8%,6/11,108,2,1,43,29,14,0,1:00
+21-Apr-2014,Vercelli CH,3,Clay,R32,283,317,0,,WC,Stefano Travaglia,Yann Marti,7-5 6-2,0.75,4.9%,3.3%,47.5%,69.0%,43.8%,4/8,44.4%,33.3%,12.7%,18.8%,48.4%,1/6,124,3,2,61,29,32,8,1:30
+31-Mar-2014,St. Brieuc CH,3,Hard,R32,271,210,0,,,Konstantin Kravchuk,Yann Marti,7-6(7) 3-6 6-4,0.98,4.1%,5.8%,61.2%,64.9%,48.9%,5/8,49.4%,40.3%,6.5%,31.3%,58.5%,3/15,245,5,7,121,74,47,8,2:47
+24-Mar-2014,Greece F3,3,Hard,R32,289,443,0,4,,Alexander Ward,Yann Marti,6-4 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,F,289,237,0,2,1,Jan Hernych,Yann Marti,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,SF,289,261,1,2,3,Yann Marti,Aldin Setkic,6-0 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,QF,289,452,1,2,,Yann Marti,Kevin Krawietz,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R16,289,972,1,2,WC,Yann Marti,Charalampos Kapogiannis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R32,289,1003,1,2,WC,Yann Marti,Konstantinos Mikos,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2014,France F5,3,Hard,R16,285,751,0,2,,Enzo Py,Yann Marti,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2014,France F5,3,Hard,R32,285,717,1,2,,Yann Marti,Florian Reynet,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,France F4,3,Hard,R32,285,620,0,5,,Calvin Hemery,Yann Marti,7-6(3) 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Marseille,3,Hard,Q2,283,171,0,,7,David Guez,Yann Marti,6-1 3-6 6-3,0.78,7.2%,2.9%,46.4%,65.6%,48.6%,1/6,44.5%,33.8%,2.6%,21.3%,53.3%,3/7,146,5,2,69,32,37,2,1:41
+17-Feb-2014,Marseille,3,Hard,Q1,283,276,1,,,Yann Marti,Benjamin Balleret,6-4 7-6(3),1.72,10.5%,1.8%,56.1%,78.1%,72.0%,1/3,55.1%,42.2%,3.3%,38.2%,48.6%,3/7,147,6,1,57,32,25,3,1:25
+27-Jan-2014,Turkey F1,3,Hard,F,310,718,1,1,,Yann Marti,Carlos Boluda Purkiss,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Turkey F1,3,Hard,SF,310,652,1,1,8,Yann Marti,Ivan Bjelica,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Turkey F1,3,Hard,QF,310,644,1,1,7,Yann Marti,Marat Deviatiarov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Turkey F1,3,Hard,R16,310,1092,1,1,Q,Yann Marti,Oscar Fabian Matthews,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Turkey F1,3,Hard,R32,310,,1,1,WC,Yann Marti,Durukan Durmus,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,Germany F1,3,Carpet,SF,325,270,0,3,1,Bastian Knittel,Yann Marti,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,Germany F1,3,Carpet,QF,325,508,1,3,,Yann Marti,Hugo Nys,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,Germany F1,3,Carpet,R16,325,705,1,3,,Yann Marti,Yannick Maden,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,Germany F1,3,Carpet,R32,325,2090,1,3,Q,Yann Marti,Christoph Negritu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Andria CH,3,Hard,SF,362,122,0,,3,Dustin Brown,Yann Marti,6-2 6-1,0.40,4.4%,15.6%,42.2%,68.4%,26.9%,2/7,34.6%,22.2%,19.4%,8.3%,50.0%,0/0,81,2,7,45,19,26,7,0:42
+18-Nov-2013,Andria CH,3,Hard,QF,362,203,1,,8,Yann Marti,Jan Mertl,4-6 6-4 7-5,1.02,4.8%,6.7%,58.1%,75.4%,36.4%,8/13,50.5%,41.6%,15.8%,33.8%,57.6%,6/12,206,5,7,105,61,44,16,2:15
+18-Nov-2013,Andria CH,3,Hard,R16,362,378,1,,,Yann Marti,Stefano Travaglia,4-6 6-0 6-3,1.70,13.2%,4.4%,54.4%,89.2%,58.1%,1/2,56.8%,42.5%,10.3%,37.3%,50.0%,4/8,155,9,3,68,37,31,9,1:34
+18-Nov-2013,Andria CH,3,Hard,R32,362,468,1,,,Yann Marti,Ivo Klec,7-6(6) 6-7(5) 6-2,0.94,10.6%,2.4%,58.5%,73.6%,56.9%,5/5,50.7%,31.4%,7.8%,18.5%,45.8%,2/5,225,13,3,123,72,51,8,2:15
+4-Nov-2013,Greece F18,3,Hard,F,384,768,0,4,,Johan Sebastien Tatlot,Yann Marti,5-7 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Greece F18,3,Hard,SF,384,577,1,4,,Yann Marti,Oliver Golding,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Greece F18,3,Hard,QF,384,443,1,4,6,Yann Marti,Adrien Bossel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Greece F18,3,Hard,R16,384,537,1,4,,Yann Marti,Julien Obry,6-7(1) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Greece F18,3,Hard,R32,384,,1,4,Q,Yann Marti,Anastasios Pavlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Geneva CH,3,Hard,R16,423,199,0,Q,,Marco Chiudinelli,Yann Marti,6-1 4-0 RET,0.35,2.9%,5.7%,48.6%,58.8%,27.8%,3/7,32.3%,20.0%,10.0%,27.8%,8.3%,0/0,65,1,2,35,17,18,3,0:46
+28-Oct-2013,Geneva CH,3,Hard,R32,423,110,1,Q,5,Yann Marti,Adrian Ungur,6-3 6-2,1.53,6.4%,4.3%,27.7%,84.6%,55.9%,0/2,59.6%,55.3%,2.1%,44.4%,62.1%,5/9,94,3,2,47,13,34,1,1:01
+30-Sep-2013,Greece F13,3,Hard,F,468,292,1,6,1,Yann Marti,Theodoros Angelinos,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Greece F13,3,Hard,SF,468,729,1,6,,Yann Marti,Kevin Griekspoor,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Greece F13,3,Hard,QF,468,,1,6,JE,Yann Marti,Nikola Milojevic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Greece F13,3,Hard,R16,468,756,1,6,,Yann Marti,Daniel Glancy,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Greece F13,3,Hard,R32,468,1100,1,6,,Yann Marti,Boris Nicola Bakalov,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Orleans CH,3,Hard,R32,492,266,0,Q,,Josselin Ouanna,Yann Marti,6-3 6-3,0.73,5.4%,7.1%,57.1%,62.5%,45.8%,7/11,44.1%,32.7%,16.4%,12.1%,63.6%,1/1,111,3,4,56,32,24,9,1:14
+16-Sep-2013,Metz,3,Hard,Q2,491,239,0,,5,Marton Fucsovics,Yann Marti,6-7(3) 7-5 6-4,0.86,0.8%,5.8%,60.0%,68.1%,45.8%,7/11,48.2%,35.3%,4.9%,26.2%,48.8%,2/6,222,1,7,120,72,48,5,2:35
+16-Sep-2013,Metz,3,Hard,Q1,491,,1,,,Yann Marti,Christopher Kas,6-3 6-2,1.38,0.0%,4.3%,59.6%,78.6%,42.1%,1/2,55.9%,50.0%,3.1%,33.3%,71.4%,5/11,111,0,2,47,28,19,2,1:07
+26-Aug-2013,Switzerland F6,3,Clay,F,520,307,0,7,2,Alberto Brizzi,Yann Marti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,SF,520,472,1,7,5,Yann Marti,Laurent Recouderc,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,QF,520,240,1,7,1,Yann Marti,Gregoire Burquier,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,R16,520,1329,1,7,,Yann Marti,Matthieu Vierin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,R32,520,1969,1,7,Q,Yann Marti,Jacob Kahoun,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Switzerland F5,3,Clay,QF,561,626,0,8,,Richard Becker,Yann Marti,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Switzerland F5,3,Clay,R16,561,746,1,8,,Yann Marti,Francois Arthur Vibert,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Switzerland F5,3,Clay,R32,561,1748,1,8,LL,Yann Marti,Jeremy Corbiere,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,F,560,835,0,3,,Jakub Lustyk,Yann Marti,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,SF,560,510,1,3,2,Yann Marti,Adam Pavlasek,6-7(2) 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,QF,560,717,1,3,6,Yann Marti,Francois Arthur Vibert,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,R16,560,863,1,3,,Yann Marti,Pruchya Isarow,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,R32,560,,1,3,Q,Yann Marti,Robert Quentin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,France F13,3,Clay,SF,610,1207,0,Q,,Johan Sebastien Tatlot,Yann Marti,6-3 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,France F13,3,Clay,QF,610,541,1,Q,6,Yann Marti,Simon Cauvard,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,France F13,3,Clay,R16,610,378,1,Q,2,Yann Marti,Florian Reynet,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,France F13,3,Clay,R32,610,1287,1,Q,Q,Yann Marti,Maxime Hamou,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Italy F15,3,Clay,SF,671,256,0,,1,Riccardo Bellotti,Yann Marti,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Italy F15,3,Clay,QF,671,397,1,,5,Yann Marti,Walter Trusendi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Italy F15,3,Clay,R16,671,597,1,,,Yann Marti,Enrico Burzi,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Italy F15,3,Clay,R32,671,,1,,Q,Yann Marti,Gianluca Beghi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Egypt F9,3,Clay,R32,684,883,0,7,,Matias Sborowitz,Yann Marti,6-4 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Turkey F20,3,Hard,QF,681,1003,0,6,,Alex Blumenberg,Yann Marti,4-6 6-3 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Turkey F20,3,Hard,R16,681,,1,6,Q,Yann Marti,Mikhail Korovin,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Turkey F20,3,Hard,R32,681,1983,1,6,,Yann Marti,Muhammet Haylaz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,F,784,656,0,Q,,Piotr Gadomski,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,SF,784,803,1,Q,,Yann Marti,Tom Farquharson,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,QF,784,623,1,Q,,Yann Marti,Sean Berman,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,R16,784,668,1,Q,,Yann Marti,Hiroyasu Ehara,6-4 3-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,R32,784,474,1,Q,7,Yann Marti,Juan Ignacio Londero,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Turkey F13,3,Hard,SF,884,287,0,Q,1,Maximiliano Estevez,Yann Marti,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Turkey F13,3,Hard,QF,884,487,1,Q,5,Yann Marti,Juan Ignacio Londero,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Turkey F13,3,Hard,R16,884,714,1,Q,,Yann Marti,Denis Bejtulahi,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Turkey F13,3,Hard,R32,884,442,1,Q,4,Yann Marti,Thiago Monteiro,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Israel F4,3,Hard,QF,903,707,0,Q,,Dennis Novak,Yann Marti,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Israel F4,3,Hard,R16,903,738,1,Q,,Yann Marti,Torsten Wietoska,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Israel F4,3,Hard,R32,903,414,1,Q,4,Yann Marti,Jerome Inzerillo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,Germany F2,3,Hard,R16,907,348,0,Q,6,Andis Juska,Yann Marti,6-0 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,Germany F2,3,Hard,R32,907,1903,1,Q,WC,Yann Marti,Christian Hirschmueller,3-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,SF,1189,317,0,Q,5,Arthur De Greef,Yann Marti,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,QF,1189,261,1,Q,3,Yann Marti,Michael Linzer,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,R16,1189,777,1,Q,,Yann Marti,Richard Becker,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,R32,1189,677,1,Q,,Yann Marti,Roberto Ortega Olmedo,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R16,1190,424,0,Q,7,Germain Gigounon,Yann Marti,6-3 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R32,1190,1103,1,Q,SE,Yann Marti,Marc Meigel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Greece F4,3,Carpet,R32,1167,1161,0,,Q,Pedja Krstin,Yann Marti,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,R32,1061,215,0,,1,Brydan Klein,Yann Marti,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Como CH,3,Clay,R32,884,492,0,Q,,Julian Reister,Yann Marti,6-0 7-6(3),0.55,3.4%,3.4%,65.5%,44.7%,45.0%,3/8,37.6%,30.5%,3.4%,25.0%,39.1%,2/5,117,2,2,58,38,20,2,1:15
+23-Jul-2012,Italy F19,3,Clay,R32,719,391,0,,5,Jose Checa Calvo,Yann Marti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Gstaad,3,Clay,Q1,715,138,0,,5,Dustin Brown,Yann Marti,6-4 7-6(0),0.72,0.0%,2.4%,64.6%,64.2%,62.1%,9/10,46.7%,26.5%,10.3%,14.7%,38.2%,0/1,150,0,2,82,53,29,7,1:26
+9-Jul-2012,Umag,3,Clay,Q1,717,427,0,,,Ivo Klec,Yann Marti,6-4 6-0,0.61,0.0%,4.1%,44.9%,50.0%,37.0%,2/8,38.9%,34.8%,6.5%,16.7%,54.5%,2/5,95,0,2,49,22,27,3,1:12
+17-Jun-2012,s Hertogenbosch,3,Grass,Q1,712,744,0,,,Alban Meuffels,Yann Marti,6-2 4-6 6-4,1.04,6.0%,3.6%,65.5%,69.1%,37.9%,4/9,49.5%,43.2%,1.7%,34.4%,52.6%,3/11,202,5,3,84,55,29,2,2:07
+23-Apr-2012,France F9,3,Clay,R32,619,868,0,,WC,Hugo Nys,Yann Marti,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Switzerland F3,3,Carpet,R32,593,759,0,,,Nicolas Rosenzweig,Yann Marti,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Great Britain F5,3,Hard,R32,589,333,0,,5,Timo Nieminen,Yann Marti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Turkey F8,3,Hard,R32,590,441,0,,5,Yannik Reuter,Yann Marti,6-2 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Croatia F2,3,Hard,R16,588,375,0,,,Jan Minar,Yann Marti,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Croatia F2,3,Hard,R32,588,1367,1,,PR,Yann Marti,Marin Bradaric,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Germany F3,3,Carpet,R16,597,233,0,,2,Jesse Huta Galung,Yann Marti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Germany F3,3,Carpet,R32,597,1621,1,,Q,Yann Marti,Tobias Simon,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Orleans CH,3,Hard,R32,591,138,0,LL,,Jan Hajek,Yann Marti,6-3 6-1,0.44,9.3%,5.6%,64.8%,60.0%,31.6%,5/9,37.4%,22.2%,11.1%,21.6%,25.0%,0/0,99,5,3,54,35,19,5,0:56
+26-Sep-2011,France F16,3,Carpet,QF,600,410,0,Q,1,Rudy Coco,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,France F16,3,Carpet,R16,600,1128,1,Q,,Yann Marti,Hugo Nys,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,France F16,3,Carpet,R32,600,942,1,Q,,Yann Marti,Darius Florin Bragusi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Metz,3,Hard,Q3,627,227,0,,4,Jonathan Dasnieres De Veigy,Yann Marti,6-3 6-7(2) 6-4,0.94,4.0%,5.0%,45.5%,67.4%,49.1%,1/7,48.3%,39.8%,0.9%,27.4%,56.5%,4/13,209,4,5,101,46,55,1,2:49
+19-Sep-2011,Metz,3,Hard,Q2,627,,1,,,Yann Marti,Tristan Gabriel,6-2 6-4,1.70,0.0%,10.2%,55.1%,85.2%,54.5%,0/1,58.3%,48.5%,3.0%,33.3%,66.7%,4/7,115,0,5,49,27,22,2,1:09
+12-Sep-2011,Todi CH,3,Clay,R32,648,613,0,Q,Q,Antonio Comporto,Yann Marti,7-5 6-1,0.74,0.0%,5.2%,56.9%,57.6%,16.0%,4/11,42.5%,44.9%,2.9%,44.4%,45.8%,3/6,127,0,3,58,33,25,2,1:47
+25-Jul-2011,Gstaad,3,Clay,R32,638,70,0,Q,,Andreas Haider Maurer,Yann Marti,6-1 6-4,0.57,5.5%,7.3%,56.4%,74.2%,37.5%,4/7,41.9%,24.0%,12.0%,17.1%,40.0%,0/4,105,3,4,55,31,24,6,1:03
+25-Jul-2011,Gstaad,3,Clay,Q3,638,286,1,,5,Yann Marti,Guillermo Alcaide,7-6(4) 6-4,1.15,6.6%,3.9%,46.1%,71.4%,53.7%,1/3,53.0%,44.0%,9.3%,28.2%,61.1%,3/8,151,5,3,76,35,41,7,1:31
+25-Jul-2011,Gstaad,3,Clay,Q2,638,183,1,,2,Yann Marti,Michal Przysiezny,6-2 6-3,1.69,7.1%,9.5%,40.5%,88.2%,60.0%,2/3,58.3%,48.1%,9.3%,41.2%,60.0%,5/7,96,3,4,42,17,25,5,0:57
+25-Jul-2011,Gstaad,3,Clay,Q1,638,1469,1,,,Yann Marti,Joss Espasandin,2-6 6-4 7-5,1.04,3.4%,5.7%,53.4%,78.7%,41.5%,7/11,50.9%,40.2%,9.2%,34.0%,50.0%,4/5,175,3,5,88,47,41,8,1:56
+6-Jun-2011,Italy F13,3,Clay,R16,577,397,0,,,Luca Vanni,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Italy F13,3,Clay,R32,577,1658,1,,WC,Yann Marti,Amerigo Contini,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,QF,562,397,0,,8,Laurynas Grigelis,Yann Marti,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,R16,562,450,1,,,Yann Marti,Juan Martin Aranguren,1-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,R32,562,314,1,,2,Yann Marti,Daniele Giorgini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Italy F10,3,Clay,QF,563,303,0,,1,Marcel Zimmermann,Yann Marti,7-6(5) DEF,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Italy F10,3,Clay,R16,563,1140,1,,WC,Yann Marti,Antonio Comporto,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Italy F10,3,Clay,R32,563,633,1,,,Yann Marti,Michal Pazicky,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Italy F8,3,Clay,SF,586,834,0,,Q,Cristian Rodriguez,Yann Marti,6-3 6-7(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Italy F8,3,Clay,QF,586,,1,,WC,Yann Marti,Matteo Civarolo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Italy F8,3,Clay,R16,586,1043,1,,Q,Yann Marti,Danilo Petrovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Italy F8,3,Clay,R32,586,376,1,,5,Yann Marti,Claudio Grassi,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R32,596,553,0,,,Sean Thornley,Yann Marti,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,QF,598,439,0,,,Radu Albot,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R16,598,1104,1,,WC,Yann Marti,Tuna Altuna,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R32,598,584,1,,,Yann Marti,Nikola Cacic,6-4 6-7(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,QF,604,444,0,8,2,Radu Albot,Yann Marti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,R16,604,623,1,8,,Yann Marti,Patrik Brydolf,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,R32,604,980,1,8,Q,Yann Marti,Karim Mohamed Maamoun,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Great Britain F4,3,Hard,R32,593,481,0,Q,,Peter Torebko,Yann Marti,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Portugal F2,3,Hard,Q4,593,992,0,2,13,Matthew Short,Yann Marti,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Germany F2,3,Hard,R32,589,155,0,Q,1,Andreas Beck,Yann Marti,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2011,Great Britain F1,3,Hard,R32,589,297,0,,2,Alexandre Sidorenko,Yann Marti,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,Salzburg CH,3,Hard,R32,604,230,0,Q,,Dieter Kindlmann,Yann Marti,6-2 6-3,0.56,8.5%,2.8%,52.1%,59.5%,38.2%,11/16,41.0%,28.3%,15.2%,12.5%,45.5%,1/2,117,6,2,71,37,34,7,1:12
+25-Oct-2010,France F20 Rodez,3,Hard,R16,600,272,0,,1,Gregoire Burquier,Yann Marti,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,France F20 Rodez,3,Hard,R32,600,796,1,,,Yann Marti,Igor Bujdo,7-6(1) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2010,Gstaad,3,Clay,R32,706,437,0,Q,WC,Alexander Sadecky,Yann Marti,7-5 1-6 6-0,0.77,1.2%,8.1%,40.7%,65.7%,45.1%,4/8,45.3%,36.0%,4.0%,23.1%,50.0%,3/4,161,1,7,86,35,51,3,1:57
+25-Jul-2010,Gstaad,3,Clay,Q3,706,149,1,,2,Yann Marti,Marc Gicquel,4-6 6-1 6-3,1.32,4.8%,6.0%,48.2%,67.5%,60.5%,4/7,56.5%,47.9%,8.5%,22.6%,67.5%,6/10,154,4,5,83,40,43,6,1:50
+25-Jul-2010,Gstaad,3,Clay,Q2,706,556,1,,7,Yann Marti,Baptiste Dupuy,2-6 6-3 6-3,1.06,2.0%,3.0%,52.5%,71.7%,35.4%,9/14,51.6%,48.4%,2.2%,50.0%,46.5%,6/14,192,2,3,101,53,48,2,2:17
+5-Jul-2010,France F11,3,Clay,R32,709,323,0,Q,2,Laurent Rochette,Yann Marti,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Italy F15,3,Clay,R16,709,1102,0,,Q,Jacopo Marchegiani,Yann Marti,6-4 2-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Italy F15,3,Clay,R32,709,1434,1,,WC,Yann Marti,Giacomo Miccini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Milan CH,3,Clay,R32,744,107,0,Q,4,Ruben Ramirez Hidalgo,Yann Marti,7-6(3) 6-2,0.60,6.3%,0.0%,57.8%,70.3%,37.0%,2/5,42.1%,26.3%,7.0%,13.5%,50.0%,1/5,121,4,0,64,37,27,4,1:44
+31-May-2010,Italy F11,3,Clay,F,1040,253,0,Q,1,Pedro Clar Rossello,Yann Marti,7-6(6) 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,SF,1040,296,1,Q,3,Yann Marti,Frederik Nielsen,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,QF,1040,437,1,Q,,Yann Marti,Stefano Ianni,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,R16,1040,283,1,Q,2,Yann Marti,Marcel Felder,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,R32,1040,,1,Q,Q,Yann Marti,Luca Schena,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Italy F9,3,Clay,QF,1053,261,0,Q,1,Alberto Brizzi,Yann Marti,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Italy F9,3,Clay,R16,1053,403,1,Q,8,Yann Marti,Alejandro Fabbri,7-6(4) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Italy F9,3,Clay,R32,1053,,1,Q,Q,Yann Marti,Matthieu Vierin,6-2 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,France F7,3,Clay,R16,1106,690,0,Q,Q,Kenny De Schepper,Yann Marti,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,France F7,3,Clay,R32,1106,216,1,Q,1,Yann Marti,Sebastien De Chaunac,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,QF,1217,323,0,Q,1,Adam Kellner,Yann Marti,3-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,R16,1217,622,1,Q,,Yann Marti,Jan Lennard Struff,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,R32,1217,424,1,Q,5,Yann Marti,Ignacio Coll Riudavets,0-6 7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,Q4,1217,1206,1,,,Yann Marti,Daniel Berta,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2010,Turkey F4,3,Clay,Q4,1217,690,0,,2,Erling Tveit,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Turkey F3,3,Clay,R32,1327,685,0,Q,Q,Ivaylo Traykov,Yann Marti,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Turkey F3,3,Clay,Q4,1327,838,1,,6,Yann Marti,Karel Triska,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Turkey F2,3,Clay,R32,1327,455,0,Q,,Theodoros Angelinos,Yann Marti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2010,Turkey F1,3,Clay,QF,1328,398,0,Q,5,Enrico Burzi,Yann Marti,7-6(1) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2010,Turkey F1,3,Clay,R16,1328,378,1,Q,4,Yann Marti,Matteo Marrai,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2010,Turkey F1,3,Clay,R32,1328,613,1,Q,,Yann Marti,Mikhail Vasiliev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,France F15,3,Hard,R32,838,759,0,,Q,Romain Hardy,Yann Marti,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,R16,750,411,0,,7,Peter Gojowczyk,Yann Marti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,R32,750,426,1,,,Yann Marti,Phillip Simmonds,2-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2009,Gstaad,3,Clay,Q1,703,461,0,,,Tomas Zib,Yann Marti,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,Switzerland F1,3,Carpet,R16,716,579,0,WC,8,Michal Tabara,Yann Marti,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,Switzerland F1,3,Carpet,R32,716,664,1,WC,,Yann Marti,Ante Nakic Alfirevic,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Italy F2,3,Hard,SF,759,,0,Q,1,Josh Goodall,Yann Marti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Italy F2,3,Hard,QF,759,429,1,Q,,Yann Marti,Roman Jebavy,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Italy F2,3,Hard,R16,759,285,1,Q,3,Yann Marti,James Ward,6-7(5) 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Italy F2,3,Hard,R32,759,919,1,Q,SE,Yann Marti,Daniele Bracciali,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Germany F3,3,Carpet,R32,766,485,0,,7,Karlis Lejnieks,Yann Marti,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Great Britain F18,3,Hard,QF,823,985,0,,Q,Burnham Arlidge,Yann Marti,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Great Britain F18,3,Hard,R16,823,426,1,,2,Yann Marti,Ivan Cerovic,7-6(3) 6-7(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Great Britain F18,3,Hard,R32,823,1471,1,,Q,Yann Marti,Neil Pauffley,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Great Britain F17,3,Hard,QF,822,313,0,Q,1,Richard Bloomfield,Yann Marti,7-5 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Great Britain F17,3,Hard,R16,822,494,1,Q,5,Yann Marti,David Novak,1-6 3-4 RET,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Great Britain F17,3,Hard,R32,822,625,1,Q,,Yann Marti,Bastian Knittel,6-1 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Portugal F8,3,Clay,R16,789,514,0,,5,David Novak,Yann Marti,3-5 DEF,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Portugal F8,3,Clay,R32,789,1428,1,,WC,Yann Marti,Miguel Almeida,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Portugal F7,3,Clay,R16,792,531,0,Q,,Dusan Lojda,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Portugal F7,3,Clay,R32,792,543,1,Q,,Yann Marti,Andrej Martin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,QF,858,528,0,Q,Q,Pierrick Ysern,Yann Marti,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,R16,858,895,1,Q,,Yann Marti,Rudy Coco,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,R32,858,604,1,Q,,Yann Marti,Clement Reix,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Netherlands F5,3,Clay,SF,988,613,0,,,Gero Kretschmer,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Netherlands F5,3,Clay,QF,988,582,1,,,Yann Marti,Max Raditschnigg,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Netherlands F5,3,Clay,R16,988,,1,,Q,Yann Marti,Martijn Van Haasteren,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Netherlands F5,3,Clay,R32,988,576,1,,8,Yann Marti,Marius Zay,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Italy F23,3,Clay,R32,970,669,0,SE,,Andrej Martin,Yann Marti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Italy F22,3,Clay,SF,960,459,0,,2,Guillermo Hormazabal,Yann Marti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Italy F22,3,Clay,QF,960,743,1,,,Yann Marti,Antonio Comporto,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Italy F22,3,Clay,R16,960,519,1,,3,Yann Marti,Alberto Giraudo,6-1 6-7(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Italy F22,3,Clay,R32,960,1602,1,,Q,Yann Marti,Luka Kukulic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Gstaad Q,3,Clay,Q1,873,162,0,WC,2,Dominik Meffert,Yann Marti,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Chiasso CH,3,Clay,R32,830,187,0,WC,,Antony Dupuis,Yann Marti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Switzerland F3,3,Carpet,R32,821,566,0,WC,WC,Alexander Sadecky,Yann Marti,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Switzerland F2,3,Carpet,R32,849,391,0,Q,5,Ruben Bemelmans,Yann Marti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Switzerland F1,3,Hard,QF,845,523,0,WC,7,Blazej Koniusz,Yann Marti,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Switzerland F1,3,Hard,R16,845,546,1,WC,,Yann Marti,Christian Magg,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Switzerland F1,3,Hard,R32,845,445,1,WC,4,Yann Marti,Deniss Pavlovs,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Austria F3,3,Carpet,R32,850,439,0,Q,2,Peter Gojowczyk,Yann Marti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Basel Q,3,Hard,Q1,837,240,0,,8,Michael Lammer,Yann Marti,6-2 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Portugal F5,3,Clay,R32,921,563,0,Q,Q,Vladislav Bondarenko,Yann Marti,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Portugal F4,3,Clay,QF,921,327,0,,2,David Marrero,Yann Marti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Portugal F4,3,Clay,R16,921,419,1,,7,Yann Marti,Pablo Santos,1-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Portugal F4,3,Clay,R32,921,1272,1,,Q,Yann Marti,Georgi Rumenov Payakov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Switzerland F5,3,Clay,R32,,,0,,1,Martin Vacek,Yann Marti,6-2 6-7(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Switzerland F4,3,Clay,R32,925,1506,0,,WC,Robin Roshardt,Yann Marti,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Geneva CH,3,Clay,R16,1120,294,0,WC,,Stephane Bohli,Yann Marti,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Geneva CH,3,Clay,R32,1120,194,1,WC,5,Yann Marti,Gorka Fraile,7-6(4) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Gstaad Q,3,Clay,Q2,1383,145,0,,4,Fabio Fognini,Yann Marti,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Gstaad Q,3,Clay,Q1,1383,1511,1,,,Yann Marti,Kiantki Thomas,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Italy F21,3,Clay,QF,1387,,0,Q,3,Leonardo Azzaro,Yann Marti,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Italy F21,3,Clay,R16,1387,,1,Q,6,Yann Marti,Marco Pedrini,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Italy F21,3,Clay,R32,1387,1505,1,Q,WC,Yann Marti,Nicola Ghedin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Italy F12,3,Clay,R16,1498,372,0,Q,3,Alberto Brizzi,Yann Marti,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Italy F12,3,Clay,R32,1498,,1,Q,Q,Yann Marti,Ivan Vukovic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Italy F8,3,Clay,R16,,543,0,Q,7,Manuel Jorquera,Yann Marti,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Italy F8,3,Clay,R32,,599,1,Q,,Yann Marti,Marco Di Vuolo,6-7(4) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Switzerland 2 1,3,Clay,R16,,,0,WC,Q,David Stojan,Yann Marti,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Switzerland 2 1,3,Clay,R32,,,1,WC,Q,Yann Marti,Maxime Bonami,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Switzerland 2 2,3,Clay,R32,,452,0,WC,2,Simone Vagnozzi,Yann Marti,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

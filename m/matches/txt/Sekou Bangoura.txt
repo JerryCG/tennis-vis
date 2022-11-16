@@ -1,0 +1,608 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Knoxville CH,3,Hard,Q2,539,562,0,6,11,Inaki Montes De La Torre,Sekou Bangoura,6-4 6-4,0.71,5.1%,3.8%,64.1%,62.0%,46.4%,7/10,45.6%,31.0%,5.2%,26.2%,43.8%,1/6,136,4,3,78,50,28,3,1:46
+6-Nov-2022,Knoxville CH,3,Hard,Q1,539,,1,6,Alt,Sekou Bangoura,Mikelis Libietis,6-1 6-2,1.56,5.7%,1.9%,66.0%,71.4%,61.1%,4/4,60.0%,50.0%,7.1%,26.3%,69.6%,4/5,95,3,1,53,35,18,3,1:01
+31-Oct-2022,M15 Ithaca NY,3,Hard,QF,538,799,0,1,5,Osgar Ohoisin,Sekou Bangoura,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2022,M15 Ithaca NY,3,Hard,R16,538,921,1,1,,Sekou Bangoura,Yuta Kikuchi,2-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2022,M15 Ithaca NY,3,Hard,R32,538,1807,1,1,WC,Sekou Bangoura,Petar Teodorovic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2022,M15 Ithaca NY,3,Hard,R32,518,1860,0,1,Q,Jannik Opitz,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M15 Champaign IL,3,Hard,F,543,928,0,1,Q,Justin Boulais,Sekou Bangoura,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M15 Champaign IL,3,Hard,SF,543,,1,1,,Sekou Bangoura,Rei Sakamoto,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M15 Champaign IL,3,Hard,QF,543,1589,1,1,,Sekou Bangoura,Peter Benjamin Privara ,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M15 Champaign IL,3,Hard,R16,543,1060,1,1,,Sekou Bangoura,Hunter Heck,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M15 Champaign IL,3,Hard,R32,543,1180,1,1,,Sekou Bangoura,Jordan Hasson,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,Granby CH,3,Hard,R32,539,350,0,Alt,,Maxime Janvier,Sekou Bangoura,7-6(5) 7-6(6),0.65,1.0%,2.0%,70.7%,64.3%,62.1%,7/7,45.8%,23.8%,15.0%,16.1%,41.7%,0/0,179,1,2,99,70,29,12,1:58
+15-Aug-2022,M15 Memphis TN,3,Hard,R32,544,746,0,3,,Pedro Rodenas,Sekou Bangoura,6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M25 Columbus OH,3,Hard,QF,537,1413,0,4,,Patrick Maloney,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M25 Columbus OH,3,Hard,R16,537,825,1,4,,Sekou Bangoura,James Tracy,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M25 Columbus OH,3,Hard,R32,537,1498,1,4,Q,Sekou Bangoura,Nico Mostardi,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,Washington,3,Hard,Q1,535,171,0,,4,Mitchell Krueger,Sekou Bangoura,7-5 6-4,0.79,1.4%,2.9%,55.1%,55.3%,61.3%,5/9,46.2%,33.3%,11.1%,28.6%,42.9%,2/4,132,1,2,69,38,31,7,
+11-Jul-2022,M15 Lakewood CA,3,Hard,R32,566,1087,0,2,,Learner Tien,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Fountain Valley CA,3,Hard,F,592,399,0,4,1,Zachary Svajda,Sekou Bangoura,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Fountain Valley CA,3,Hard,SF,592,673,1,4,7,Sekou Bangoura,Nathan Ponwith,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Fountain Valley CA,3,Hard,QF,592,,1,4,,Sekou Bangoura,Daniel Vallejo,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Fountain Valley CA,3,Hard,R16,592,1255,1,4,Q,Sekou Bangoura,Bjorn Swenson,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Fountain Valley CA,3,Hard,R32,592,1535,1,4,Q,Sekou Bangoura,Jeffrey Hsu,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,F,583,1496,0,5,Q,Johannus Monday,Sekou Bangoura,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,SF,583,936,1,5,,Sekou Bangoura,James Tracy,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,QF,583,564,1,5,3,Sekou Bangoura,Strong Kirchheimer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,R16,583,1532,1,5,Q,Sekou Bangoura,Joe Tyler,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,R32,583,816,1,5,,Sekou Bangoura,Colin Markes,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Wichita KS,3,Hard,R32,577,1588,0,,,Christian Lakoseljac,Sekou Bangoura,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 East Lansing MI,3,Hard,R16,574,,0,4,Q,Andres Martin,Sekou Bangoura,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 East Lansing MI,3,Hard,R32,574,,1,4,WC,Sekou Bangoura,Graydon Lair,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Vero Beach FL,3,Clay,F,569,1085,1,3,WC,Sekou Bangoura,Ethan Quinn,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Vero Beach FL,3,Clay,SF,569,574,1,3,1,Sekou Bangoura,Liam Draxl,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Vero Beach FL,3,Clay,QF,569,724,1,3,6,Sekou Bangoura,Khololwam Montsi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Vero Beach FL,3,Clay,R16,569,,1,3,,Sekou Bangoura,Cooper Williams,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Vero Beach FL,3,Clay,R32,569,1391,1,3,WC,Sekou Bangoura,Alex Michelsen,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M15 Orange Park FL,3,Clay,R32,662,,0,,,Daniel Vallejo,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,F,657,501,1,,2,Sekou Bangoura,Evan Zhu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,SF,657,1561,1,,WC,Sekou Bangoura,Kyle Kang,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,QF,657,981,1,,,Sekou Bangoura,Bruno Kuzuhara,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,R16,657,603,1,,5,Sekou Bangoura,Joao Lucas Reis Da Silva,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,R32,657,646,1,,,Sekou Bangoura,Alexander Cozbinov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M15 Naples FL,3,Clay,R16,633,537,0,,5,Ryan Harrison,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M15 Naples FL,3,Clay,R32,633,1782,1,,Q,Sekou Bangoura,Luca Fantini,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M15 Naples FL,3,Clay,R16,639,504,0,,5,Jonathan Mridha,Sekou Bangoura,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M15 Naples FL,3,Clay,R32,639,1780,1,,Q,Sekou Bangoura,Abraham Asaba,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M15 Cancun,3,Hard,R32,573,924,0,2,PR,Brandon Holt,Sekou Bangoura,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M15 Cancun,3,Hard,R32,573,1285,0,2,,Matt Kuhar,Sekou Bangoura,6-3 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Lubbock TX,3,Hard,R32,456,1171,0,2,,Charles Broom,Sekou Bangoura,7-6(5) 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M15 Fayetteville AR,3,Hard,R16,423,1154,0,1,SE,Gabi Adrian Boitan,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M15 Fayetteville AR,3,Hard,R32,423,864,1,1,,Sekou Bangoura,Tomas Jirousek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,Winston-Salem,3,Hard,Q1,396,92,0,Alt,2,Denis Kudla,Sekou Bangoura,6-2 6-3,0.61,7.4%,1.9%,66.7%,58.3%,38.9%,6/10,41.0%,29.4%,5.9%,19.4%,45.0%,1/4,105,4,1,54,36,18,3,1:10
+2-Aug-2021,M25 Decatur IL,3,Hard,R16,398,429,0,7,,Alex Rybakov,Sekou Bangoura,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Decatur IL,3,Hard,R32,398,492,1,7,,Sekou Bangoura,Rio Noguchi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2021,M25 Champaign IL,3,Hard,R32,395,491,0,2,,Yusuke Takahashi,Sekou Bangoura,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Tulsa OK,3,Hard,R16,380,456,0,,,Genaro Alberto Olivieri,Sekou Bangoura,W/O,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Tulsa OK,3,Hard,R32,380,663,1,,WC,Sekou Bangoura,John Mcnally,7-6(1) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,Orlando 2 CH,3,Hard,Q2,382,381,0,,,Dayne Kelly,Sekou Bangoura,7-6(2) 6-3,0.81,1.2%,4.8%,57.8%,58.3%,48.6%,6/11,46.4%,37.1%,5.7%,28.3%,54.2%,3/11,153,1,4,83,48,35,4,2:08
+7-Jun-2021,Orlando 2 CH,3,Hard,Q1,382,336,1,,1,Sekou Bangoura,Agustin Velotti,6-1 6-1,2.41,8.3%,0.0%,61.1%,90.9%,57.1%,0/0,63.0%,53.6%,3.6%,52.9%,54.5%,5/9,92,3,0,36,22,14,2,1:04
+31-May-2021,Little Rock CH,3,Hard,Q1,382,521,0,4,Alt,Gage Brymer,Sekou Bangoura,4-6 6-1 7-5,0.94,6.0%,6.0%,65.5%,61.8%,31.0%,3/10,48.4%,46.1%,5.9%,43.1%,53.3%,5/15,186,5,5,84,55,29,6,2:16
+17-May-2021,M25 Pensacola FL,3,Clay,R16,379,502,0,,JE,Shintaro Mochizuki,Sekou Bangoura,3-6 6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Pensacola FL,3,Clay,R32,379,309,1,,3,Sekou Bangoura,Jc Aragone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,Tallahassee CH,3,Clay,Q2,373,344,0,6,3,Agustin Velotti,Sekou Bangoura,2-6 6-3 6-0,0.65,4.8%,3.2%,58.1%,55.6%,53.8%,2/6,41.7%,29.2%,6.2%,22.2%,37.9%,2/4,127,3,2,62,36,26,4,1:26
+19-Apr-2021,Tallahassee CH,3,Clay,Q1,373,523,1,6,Alt,Sekou Bangoura,Rafael Matos,6-3 6-4,1.67,3.5%,1.8%,71.9%,82.9%,43.8%,2/3,58.8%,46.8%,1.6%,42.9%,55.0%,3/8,119,2,1,57,41,16,1,1:17
+22-Feb-2021,M25 Naples FL,3,Clay,R32,353,337,0,,6,Corentin Denolly,Sekou Bangoura,6-7(10) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,QF,348,655,0,8,Q,Clement Tabur,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,R16,348,490,1,8,,Sekou Bangoura,Pol Toledo Bague,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,R32,348,835,1,8,Q,Sekou Bangoura,Peter Bertran,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,Columbus CH,3,Hard,R32,325,116,0,,1,Christopher Oconnell,Sekou Bangoura,6-4 6-2,0.62,7.3%,0.0%,65.9%,70.4%,42.9%,0/3,40.7%,24.0%,10.0%,22.2%,28.6%,0/1,91,3,0,41,27,14,5,0:53
+24-Feb-2020,Columbus CH,3,Hard,R64,325,689,1,,Alt,Sekou Bangoura,Austin Rapp,6-3 6-3,2.57,4.7%,0.0%,72.1%,87.1%,75.0%,0/0,60.2%,41.8%,3.6%,34.2%,58.8%,3/5,98,2,0,43,31,12,2,0:54
+10-Feb-2020,Cleveland CH,3,Hard,R32,323,170,0,,5,Alejandro Tabilo,Sekou Bangoura,6-4 6-1,0.62,4.0%,6.0%,56.0%,64.3%,31.8%,1/5,40.2%,30.8%,9.6%,20.7%,43.5%,1/4,102,2,3,50,28,22,5,0:58
+10-Feb-2020,Cleveland CH,3,Hard,R64,323,464,1,,Q,Sekou Bangoura,Nick Chappell,6-4 6-3,2.24,14.9%,4.3%,70.2%,93.9%,50.0%,4/4,60.2%,42.9%,1.8%,38.5%,52.9%,3/6,103,7,2,47,33,14,1,1:06
+3-Feb-2020,Dallas CH,3,Hard,R32,323,92,0,,3,Dominik Koepfer,Sekou Bangoura,6-4 7-6(5),0.84,3.7%,3.7%,58.0%,68.1%,38.2%,5/8,47.0%,37.1%,7.1%,27.5%,50.0%,2/3,151,3,3,81,47,34,5,1:34
+3-Feb-2020,Dallas CH,3,Hard,R64,323,140,1,,SE,Sekou Bangoura,Daniel Elahi Galan,5-7 6-3 6-2,1.07,7.5%,3.8%,62.3%,57.6%,67.5%,5/7,52.0%,41.5%,8.5%,30.3%,67.9%,5/11,200,8,4,106,66,40,8,1:59
+27-Jan-2020,Newport Beach CH,3,Hard,R32,307,170,0,,15,Denis Istomin,Sekou Bangoura,7-6(6) 6-4,0.80,5.4%,0.0%,60.2%,67.9%,48.6%,7/9,47.6%,32.0%,2.7%,28.1%,44.4%,1/2,168,5,0,93,56,37,2,1:48
+27-Jan-2020,Newport Beach CH,3,Hard,R64,307,184,1,,,Sekou Bangoura,Dmitry Popko,7-6(3) 4-6 6-4,1.10,8.7%,5.4%,52.2%,85.4%,50.0%,2/4,50.3%,34.6%,4.7%,28.6%,41.2%,2/7,199,8,5,92,48,44,5,2:32
+13-Jan-2020,M25 Rancho Santa Fe CA,3,Hard,R32,302,450,0,3,Q,Tobias Simon,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,Ann Arbor CH,3,Hard,R16,310,259,0,15,4,Roberto Cid,Sekou Bangoura,6-4 6-4,0.75,4.3%,2.9%,71.0%,69.4%,30.0%,3/6,45.7%,31.7%,5.0%,25.6%,47.1%,1/7,129,3,2,69,49,20,3,1:29
+6-Jan-2020,Ann Arbor CH,3,Hard,R32,310,390,1,15,,Sekou Bangoura,Martin Redlicki,7-6(8) 6-3,1.71,12.9%,1.4%,61.4%,83.7%,66.7%,2/3,55.6%,39.1%,13.0%,25.9%,61.8%,2/11,162,9,1,70,43,27,12,1:51
+11-Nov-2019,Houston CH,3,Hard,R16,308,106,0,16,3,Ivo Karlovic,Sekou Bangoura,7-6(5) 2-6 6-4,0.96,3.2%,3.2%,70.5%,68.7%,67.9%,2/4,51.1%,30.4%,19.0%,13.7%,60.7%,3/4,174,3,3,95,67,28,15,1:57
+11-Nov-2019,Houston CH,3,Hard,R32,308,381,1,16,,Sekou Bangoura,Peter Heller,0-6 6-4 6-2,1.00,5.2%,3.9%,66.2%,62.7%,46.2%,3/7,49.7%,42.7%,6.1%,39.2%,48.4%,4/10,159,4,3,77,51,26,5,1:55
+4-Nov-2019,Knoxville CH,3,Hard,R16,317,688,0,,WC,Aleksandar Kovacevic,Sekou Bangoura,6-4 4-6 6-4,0.66,7.5%,1.1%,72.0%,71.6%,57.7%,7/9,47.0%,21.3%,6.7%,10.5%,32.4%,1/1,168,7,1,93,67,26,5,1:49
+4-Nov-2019,Knoxville CH,3,Hard,R32,317,196,1,,16,Sekou Bangoura,Mitchell Krueger,3-6 7-6(4) 6-4,0.82,3.8%,2.9%,60.6%,71.4%,46.3%,6/9,47.4%,31.5%,7.6%,24.6%,45.2%,3/6,196,4,3,104,63,41,7,2:18
+4-Nov-2019,Knoxville CH,3,Hard,R64,317,530,1,,Q,Sekou Bangoura,Strong Kirchheimer,6-2 6-7(9) 6-3,1.15,8.1%,3.6%,63.1%,71.4%,58.5%,3/4,53.7%,38.3%,7.4%,33.3%,44.2%,4/4,205,9,4,111,70,41,7,2:25
+28-Oct-2019,Charlottesville CH,3,Hard,R16,336,99,0,,1,Brayden Schnur,Sekou Bangoura,7-6(5) 6-2,0.65,3.5%,5.8%,50.0%,67.4%,51.2%,11/13,45.3%,26.6%,14.1%,25.6%,28.6%,0/1,150,3,5,86,43,43,9,1:54
+28-Oct-2019,Charlottesville CH,3,Hard,R32,336,197,1,,14,Sekou Bangoura,Alexey Vatutin,5-7 6-2 6-4,1.43,5.2%,3.9%,40.3%,80.6%,63.0%,1/4,54.9%,42.7%,0.0%,36.2%,59.3%,5/10,173,4,3,77,31,46,0,1:53
+28-Oct-2019,Charlottesville CH,3,Hard,R64,336,253,1,,,Sekou Bangoura,Jack Sock,6-3 0-0 RET,1.33,3.7%,0.0%,59.3%,56.3%,54.5%,1/3,57.4%,59.3%,7.4%,50.0%,66.7%,3/3,54,1,0,27,16,11,2,0:35
+14-Oct-2019,Las Vegas CH,3,Hard,R32,340,109,0,,2,Taro Daniel,Sekou Bangoura,6-4 7-6(4),0.74,2.9%,4.3%,57.1%,82.5%,33.3%,3/5,45.0%,28.6%,5.7%,29.3%,27.6%,1/2,140,2,3,70,40,30,4,1:41
+14-Oct-2019,Las Vegas CH,3,Hard,R64,340,351,1,,,Sekou Bangoura,Evan King,6-7(5) 7-6(4) 6-4,1.02,9.2%,1.7%,62.5%,81.3%,57.8%,7/7,51.1%,27.9%,9.0%,18.2%,42.2%,1/5,231,11,2,120,75,45,10,2:37
+7-Oct-2019,Fairfield CH,3,Hard,R64,345,410,0,,,Alexander Ritschard,Sekou Bangoura,6-4 6-4,0.72,1.4%,7.1%,50.0%,68.6%,48.6%,9/12,45.7%,29.8%,10.5%,22.6%,38.5%,1/3,127,1,5,70,35,35,6,1:21
+30-Sep-2019,M25 Norman OK,3,Hard,QF,344,323,0,,5,Hugo Gaston,Sekou Bangoura,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R16,344,1247,1,,Q,Sekou Bangoura,Eero Vasa,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R32,344,1786,1,,WC,Sekou Bangoura,Mason Beiler,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,Tiburon CH,3,Hard,QF,375,158,0,,4,Emilio Gomez,Sekou Bangoura,6-3 1-6 6-2,0.74,3.9%,2.6%,63.2%,70.8%,39.3%,8/11,45.8%,30.3%,3.0%,25.0%,38.5%,2/4,142,3,2,76,48,28,2,1:33
+23-Sep-2019,Tiburon CH,3,Hard,R16,375,169,1,,7,Sekou Bangoura,Darian King,1-6 6-4 6-0,1.02,7.2%,4.3%,63.8%,72.7%,40.0%,1/3,50.0%,40.0%,4.0%,36.2%,46.4%,4/8,144,5,3,69,44,25,3,1:32
+23-Sep-2019,Tiburon CH,3,Hard,R32,375,167,1,,12,Sekou Bangoura,Peter Polansky,6-1 6-4,1.49,9.8%,7.8%,58.8%,83.3%,38.1%,3/4,58.3%,52.6%,3.5%,39.4%,70.8%,5/9,108,5,4,51,30,21,2,1:05
+23-Sep-2019,Tiburon CH,3,Hard,R64,375,476,1,,Q,Sekou Bangoura,Michael Geerts,6-4 7-5,1.15,9.1%,4.5%,60.6%,77.5%,50.0%,4/5,53.2%,38.3%,5.0%,33.3%,45.8%,3/5,126,6,3,66,40,26,3,1:28
+16-Sep-2019,Columbus CH,3,Hard,R32,388,200,0,,4,Peter Polansky,Sekou Bangoura,7-6(5) 6-3,0.97,12.1%,3.0%,59.1%,74.4%,37.0%,0/3,48.0%,39.5%,12.8%,34.6%,47.1%,2/6,152,8,2,66,39,27,11,1:45
+16-Sep-2019,Columbus CH,3,Hard,R64,388,617,1,,,Sekou Bangoura,Dennis Novikov,7-6(4) 7-6(3),1.23,13.6%,4.9%,55.6%,82.2%,66.7%,3/3,53.1%,30.4%,16.5%,15.6%,50.0%,0/1,160,11,4,81,45,36,13,1:54
+9-Sep-2019,Cary CH,3,Hard,R64,382,439,0,,,Nicolas Mejia,Sekou Bangoura,4-6 7-6(1) 6-4,0.66,8.6%,1.7%,62.9%,65.8%,58.1%,8/10,46.5%,24.4%,11.6%,18.3%,38.5%,2/3,202,10,2,116,73,43,10,2:27
+2-Sep-2019,New Haven CH,3,Hard,R16,368,114,0,,6,Tommy Paul,Sekou Bangoura,6-1 7-5,0.61,4.9%,4.9%,57.4%,51.4%,50.0%,9/14,41.2%,30.2%,9.4%,12.9%,54.5%,1/1,114,3,3,61,35,26,5,1:17
+2-Sep-2019,New Haven CH,3,Hard,R32,368,173,1,,12,Sekou Bangoura,Mikael Torpegaard,7-6(10) 4-6 6-1,1.23,4.0%,3.0%,52.5%,67.9%,60.4%,3/6,53.9%,43.7%,3.9%,36.8%,52.2%,4/6,204,4,3,101,53,48,4,2:28
+2-Sep-2019,New Haven CH,3,Hard,R64,368,423,1,,,Sekou Bangoura,Alexander Sarkissian,6-3 6-7(2) 6-3,1.15,12.4%,3.4%,66.3%,74.6%,50.0%,4/5,51.0%,38.7%,9.0%,35.0%,48.4%,5/12,200,11,3,89,59,30,10,2:15
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R16,327,1164,0,,Q,Alexander Lebedev,Sekou Bangoura,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R32,327,714,1,,IR  ,Sekou Bangoura,Hady Habib,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,Lexington CH,3,Hard,R32,370,278,0,,14,Liam Broady,Sekou Bangoura,1-6 7-6(4) 6-2,0.99,3.4%,1.1%,56.8%,58.0%,63.2%,8/12,50.0%,39.3%,7.1%,23.3%,56.1%,5/8,172,3,1,88,50,38,6,2:13
+29-Jul-2019,Lexington CH,3,Hard,R64,370,643,1,,ITF,Sekou Bangoura,Strong Kirchheimer,4-6 6-1 6-4,1.19,6.2%,2.1%,69.1%,65.7%,66.7%,6/7,53.0%,40.6%,8.9%,34.8%,51.4%,3/11,198,6,2,97,67,30,9,2:12
+22-Jul-2019,Binghamton CH,3,Hard,R16,377,295,0,,,Maxime Cressy,Sekou Bangoura,4-6 6-2 7-6(3),0.90,9.4%,4.2%,61.5%,71.2%,45.9%,5/9,47.7%,34.7%,12.9%,26.9%,50.0%,3/6,197,9,4,96,59,37,13,2:10
+22-Jul-2019,Binghamton CH,3,Hard,R32,377,208,1,,8,Sekou Bangoura,Thai Son Kwiatkowski,7-6(4) 6-4,1.86,17.2%,1.7%,60.3%,88.6%,65.2%,0/1,57.0%,38.6%,8.6%,33.3%,45.2%,2/3,128,10,1,58,35,23,6,1:18
+22-Jul-2019,Binghamton CH,3,Hard,R64,377,,1,,WC,Sekou Bangoura,Andrew Fenty,6-3 7-5,1.55,9.8%,6.6%,59.0%,77.8%,60.0%,2/4,57.3%,45.7%,4.3%,41.9%,51.9%,4/14,131,6,4,61,36,25,3,1:26
+15-Jul-2019,M25 Iowa City IA,3,Hard,R16,380,,0,,,Hady Habib,Sekou Bangoura,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M25 Iowa City IA,3,Hard,R32,380,,1,,IR  ,Sekou Bangoura,Austin Rapp,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,Winnetka CH,3,Hard,R32,381,197,0,ITF,15,Donald Young,Sekou Bangoura,6-3 6-4,0.76,6.4%,8.5%,46.8%,68.2%,52.0%,2/5,42.9%,30.8%,4.6%,25.0%,36.4%,1/4,112,3,4,47,22,25,3,1:15
+8-Jul-2019,Winnetka CH,3,Hard,R64,381,343,1,ITF,,Sekou Bangoura,Ryan Shane,7-5 6-3,1.50,8.3%,0.0%,75.0%,75.6%,66.7%,2/3,56.7%,40.0%,5.0%,20.0%,60.0%,3/9,120,5,0,60,45,15,3,1:09
+17-Jun-2019,Bratislava CH,3,Clay,R32,392,145,0,,4,Jozef Kovalik,Sekou Bangoura,6-3 6-4,0.83,3.6%,0.0%,74.5%,58.5%,50.0%,4/8,45.7%,36.1%,1.6%,31.3%,41.4%,2/5,116,2,0,55,41,14,1,1:23
+17-Jun-2019,Bratislava CH,3,Clay,R64,392,473,1,,Q,Sekou Bangoura,Michael Vrbensky,6-4 7-5,1.24,8.2%,2.7%,71.2%,69.2%,71.4%,3/3,53.4%,37.3%,8.0%,23.5%,48.8%,2/7,148,6,2,73,52,21,6,1:39
+3-Jun-2019,Poznan CH,3,Clay,R32,397,160,0,ITF,11,Joao Domingues,Sekou Bangoura,6-4 6-1,0.81,0.0%,1.9%,78.8%,48.8%,45.5%,5/10,44.6%,42.3%,0.0%,34.5%,60.9%,2/13,130,0,1,52,41,11,0,1:27
+3-Jun-2019,Poznan CH,3,Clay,R64,397,,1,ITF,WC,Sekou Bangoura,Wojciech Marek,6-4 6-1,1.48,0.0%,3.4%,66.1%,69.2%,60.0%,6/7,58.6%,50.0%,0.0%,51.6%,47.6%,4/10,111,0,2,59,39,20,0,1:14
+27-May-2019,M25 Most,3,Clay,R32,397,491,0,5,,Evan Furness,Sekou Bangoura,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,QF,397,524,0,,Q,Marco Bortolotti,Sekou Bangoura,6-3 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,R16,397,577,1,,,Sekou Bangoura,Daniel Dutra Da Silva,3-6 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,R32,397,435,1,,,Sekou Bangoura,Yannick Mertens,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Prague,3,Clay,R16,397,,0,,WC,Dalibor Svrcina,Sekou Bangoura,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Prague,3,Clay,R32,397,,1,,Q,Sekou Bangoura,Jakob Aichhorn,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M25 Vero Beach FL,3,Clay,F,400,608,0,2,8,Dmitry Popko,Sekou Bangoura,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M25 Vero Beach FL,3,Clay,SF,400,,1,2,IR  ,Sekou Bangoura,Diego Hidalgo,5-7 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M25 Vero Beach FL,3,Clay,QF,400,580,1,2,,Sekou Bangoura,Juan Ignacio Galarza,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M25 Vero Beach FL,3,Clay,R16,400,,1,2,Q,Sekou Bangoura,Zachary Svajda,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M25 Vero Beach FL,3,Clay,R32,400,,1,2,,Sekou Bangoura,Rowland Phillips,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,Tallahassee CH,3,Clay,R64,400,304,0,WC,,Andrea Collarini,Sekou Bangoura,6-3 3-6 6-2,1.09,5.2%,3.9%,63.6%,69.4%,50.0%,6/10,50.0%,41.1%,3.7%,33.8%,52.4%,2/17,184,4,3,77,49,28,4,2:21
+15-Apr-2019,Sarasota CH,3,Clay,R64,397,378,0,ITF,ITF,Aslan Karatsev,Sekou Bangoura,7-5 6-7(4) 6-1,0.87,4.5%,7.3%,65.5%,56.9%,34.2%,4/12,46.7%,44.4%,3.4%,40.0%,54.1%,5/15,227,5,8,110,72,38,4,2:44
+8-Apr-2019,M15 Sunrise FL,3,Clay,QF,399,515,0,4,,Sebastian Korda,Sekou Bangoura,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Sunrise FL,3,Clay,R16,399,,1,4,,Sekou Bangoura,Adrian Andreev,5-7 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Sunrise FL,3,Clay,R32,399,,1,4,,Sekou Bangoura,Nicolas Mejia,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M25 Calabasas CA,3,Hard,R32,402,,0,,Q,Keegan Smith,Sekou Bangoura,7-6(4) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,SF,401,,0,7,WC,Jenson Brooksby,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,QF,401,363,1,7,,Sekou Bangoura,Tung Lin Wu,W/O,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,R16,401,672,1,7,Q,Sekou Bangoura,Andrew Watson,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,R32,401,637,1,7,,Sekou Bangoura,Evan Zhu,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M25 Weston FL,3,Clay,R32,403,679,0,3,,Strong Kirchheimer,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M25 Palm Coast FL,3,Clay,SF,403,578,1,3,,Sekou Bangoura,Or Ram Harel,6-7(2) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M25 Palm Coast FL,3,Clay,QF,403,446,1,3,,Sekou Bangoura,Harrison Adams,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M25 Palm Coast FL,3,Clay,R16,403,,1,3,,Sekou Bangoura,Jose Olivares,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M25 Palm Coast FL,3,Clay,R32,403,,1,3,,Sekou Bangoura,Facundo Mena,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,F,403,380,1,,3,Sekou Bangoura,Pedro Sakamoto,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,SF,403,496,1,,7,Sekou Bangoura,Pietro Rondoni,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,QF,403,472,1,,6,Sekou Bangoura,Alejandro Gomez Gb42,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,R16,403,642,1,,,Sekou Bangoura,Matej Vocel,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,R32,403,670,1,,,Sekou Bangoura,Strong Kirchheimer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Champaign CH,3,Hard,QF,380,229,0,,,Blaz Rola,Sekou Bangoura,7-6(2) 6-3,0.78,2.4%,0.0%,61.0%,68.0%,46.9%,6/9,47.0%,31.3%,9.0%,25.6%,41.7%,1/2,149,2,0,82,50,32,6,1:36
+12-Nov-2018,Champaign CH,3,Hard,R16,380,682,1,,LL,Sekou Bangoura,Olukayode Alafia Damina Ayeni,6-7(3) 6-2 6-3,1.42,6.4%,3.2%,63.8%,76.7%,50.0%,4/7,55.6%,46.7%,4.1%,42.3%,52.9%,6/20,216,6,3,94,60,34,5,2:15
+12-Nov-2018,Champaign CH,3,Hard,R32,380,172,1,,5,Sekou Bangoura,Henri Laaksonen,6-4 3-0 RET,1.52,13.5%,2.7%,54.1%,85.0%,41.2%,0/2,58.5%,53.3%,6.7%,43.5%,63.6%,4/10,82,5,1,37,20,17,3,0:51
+29-Oct-2018,Charlottesville CH,3,Hard,Q1,379,391,0,,,Evan Song,Sekou Bangoura,3-6 7-6(1) 6-4,0.94,1.0%,1.0%,66.7%,63.6%,42.4%,4/9,49.0%,40.9%,3.2%,38.5%,43.9%,5/12,192,1,1,99,66,33,3,2:15
+15-Oct-2018,Calgary  CH,3,Hard,Q2,378,601,0,1,,Tom Fawcett,Sekou Bangoura,7-5 6-4,0.97,7.7%,7.7%,56.9%,73.0%,53.6%,3/5,47.4%,34.5%,10.3%,24.1%,51.5%,0/7,152,5,5,65,37,28,9,1:35
+8-Oct-2018,Fairfield CH,3,Hard,Q1,361,295,0,,2,Kevin King,Sekou Bangoura,6-4 4-6 6-3,0.88,2.6%,2.6%,62.3%,66.7%,65.5%,4/7,47.2%,29.8%,4.8%,26.0%,35.3%,2/9,161,2,2,77,48,29,4,1:55
+1-Oct-2018,Monterrey CH,3,Hard,R32,353,441,0,LL,Q,Gonzalo Escobar,Sekou Bangoura,6-4 6-3,0.51,9.1%,6.8%,59.1%,57.7%,66.7%,0/3,40.0%,19.6%,4.3%,13.3%,31.3%,1/2,90,4,3,44,26,18,2,0:59
+1-Oct-2018,Monterrey CH,3,Hard,Q3,353,441,0,3,5,Gonzalo Escobar,Sekou Bangoura,6-3 7-6(7),0.97,4.6%,0.0%,67.7%,77.3%,42.9%,4/6,47.9%,32.9%,3.8%,33.3%,32.0%,1/2,144,3,0,65,44,21,3,1:45
+1-Oct-2018,Monterrey CH,3,Hard,Q2,353,651,1,3,,Sekou Bangoura,Nick Chappell,6-1 6-2,1.91,6.5%,2.2%,56.5%,80.8%,60.0%,3/3,62.2%,53.8%,3.8%,44.8%,65.2%,5/8,98,3,1,46,26,20,2,1:09
+17-Sep-2018,Columbus CH,3,Hard,R32,358,124,0,,3,Michael Mmoh,Sekou Bangoura,3-6 6-1 6-2,0.80,5.0%,5.0%,63.7%,58.8%,44.8%,6/11,45.8%,37.0%,8.2%,30.0%,52.2%,2/4,153,4,4,80,51,29,6,2:02
+10-Sep-2018,Cary CH,3,Hard,Q1,358,500,0,3,,Ryan Shane,Sekou Bangoura,7-6(3) 3-6 6-3,1.13,6.3%,3.1%,79.2%,72.4%,50.0%,8/10,51.2%,36.4%,12.1%,26.1%,55.3%,2/11,203,6,3,96,76,20,13,2:08
+3-Sep-2018,Chicago CH,3,Hard,R16,364,175,0,Q,,Bjorn Fratangelo,Sekou Bangoura,6-4 1-6 7-5,1.07,8.9%,3.3%,56.7%,76.5%,51.3%,5/7,50.0%,36.8%,1.9%,28.6%,48.8%,2/12,196,8,3,90,51,39,2,2:27
+3-Sep-2018,Chicago CH,3,Hard,R32,364,221,1,Q,ALT,Sekou Bangoura,Ernesto Escobedo,7-6(3) 4-6 6-1,1.39,8.1%,5.8%,70.9%,77.0%,44.0%,3/7,55.7%,45.4%,10.3%,26.7%,61.5%,5/13,183,7,5,86,61,25,10,2:15
+3-Sep-2018,Chicago CH,3,Hard,Q3,364,299,1,8,2,Sekou Bangoura,Kaichi Uchida,7-6(5) 6-4,1.07,11.4%,0.0%,68.4%,66.7%,56.0%,8/10,51.6%,39.2%,2.7%,29.5%,53.3%,3/3,153,9,0,79,54,25,2,1:42
+3-Sep-2018,Chicago CH,3,Hard,Q2,364,423,1,8,,Sekou Bangoura,Tom Jomby,6-4 6-4,1.57,7.5%,1.9%,66.0%,71.4%,77.8%,2/3,56.8%,41.4%,8.6%,34.5%,48.3%,3/6,111,4,1,53,35,18,5,1:13
+3-Sep-2018,Chicago CH,3,Hard,Q1,364,1282,1,8,,Sekou Bangoura,Zeke Clark,6-2 7-5,1.42,9.4%,1.9%,67.9%,75.0%,47.1%,1/3,57.0%,48.1%,0.0%,41.0%,66.7%,5/5,107,5,1,53,36,17,0,1:20
+13-Aug-2018,USA F23,3,Hard,F,421,221,1,3,,Sekou Bangoura,Antoine Hoang,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,SF,421,345,1,3,2,Sekou Bangoura,Andrew Harris,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,QF,421,583,1,3,,Sekou Bangoura,Strong Kirchheimer,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,R16,421,1529,1,3,LL,Sekou Bangoura,Felix Corwin,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,R32,421,1779,1,3,,Sekou Bangoura,Samuel Beren,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Netherlands F3,3,Clay,QF,395,1466,0,,,Sidane Pontjodikromo,Sekou Bangoura,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Netherlands F3,3,Clay,R16,395,909,1,,,Sekou Bangoura,Ryan Nijboer,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Netherlands F3,3,Clay,R32,395,717,1,,,Sekou Bangoura,Denys Klok,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Germany F5,3,Clay,F,405,329,0,5,2,Dimitar Kuzmanov,Sekou Bangoura,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Germany F5,3,Clay,SF,405,1464,1,5,,Sekou Bangoura,Tim Ruehl,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Germany F5,3,Clay,QF,405,369,1,5,,Sekou Bangoura,Markus Eriksson,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Germany F5,3,Clay,R16,405,,1,5,Q,Sekou Bangoura,Aziz Kijametovic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Germany F5,3,Clay,R32,405,831,1,5,,Sekou Bangoura,Juan Lizariturry,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Germany F4,3,Clay,QF,392,591,0,,5,Marvin Moeller,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Germany F4,3,Clay,R16,392,742,1,,,Sekou Bangoura,Tom Kocevar Desman,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Germany F4,3,Clay,R32,392,,1,,WC,Sekou Bangoura,Tillmann Erdbories,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Hungary F4,3,Clay,R16,391,556,0,,,Vit Kopriva,Sekou Bangoura,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Hungary F4,3,Clay,R32,391,1426,1,,Q,Sekou Bangoura,Gorazd Srbljak,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Czech Republic F3,3,Clay,QF,437,515,0,4,,Jan Mertl,Sekou Bangoura,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Czech Republic F3,3,Clay,R16,437,686,1,4,,Sekou Bangoura,Paul Woerner,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Czech Republic F3,3,Clay,R32,437,1172,1,4,,Sekou Bangoura,Alexander Lebedyn,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Czech Republic F2,3,Clay,F,500,650,1,2,8,Sekou Bangoura,Peter Heller,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Czech Republic F2,3,Clay,SF,500,505,1,2,3,Sekou Bangoura,Jan Mertl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Czech Republic F2,3,Clay,QF,500,639,1,2,,Sekou Bangoura,Patrik Rikl,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Czech Republic F2,3,Clay,R16,500,1115,1,2,,Sekou Bangoura,Bart Van Den Berg,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Czech Republic F2,3,Clay,R32,500,1173,1,2,,Sekou Bangoura,Szymon Walkow,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Poland F3,3,Clay,F,499,442,1,,2,Sekou Bangoura,Pawel Cias,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Poland F3,3,Clay,SF,499,769,1,,,Sekou Bangoura,Marvin Netuschil,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Poland F3,3,Clay,QF,499,1768,1,,Q,Sekou Bangoura,Grzegorz Panfil,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Poland F3,3,Clay,R16,499,644,1,,,Sekou Bangoura,Vit Kopriva,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Poland F3,3,Clay,R32,499,1087,1,,Q,Sekou Bangoura,Karol Drzewiecki,3-6 7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,USA F10,3,Hard,R32,500,446,0,,8,Samuel Monette,Sekou Bangoura,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,R32,479,957,0,,Q,Ryan Peniston,Sekou Bangoura,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R16,471,448,0,,7,Laurent Lokoli,Sekou Bangoura,6-7(3) 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R32,471,611,1,,,Sekou Bangoura,Deiton Baughman,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Launceston CH,3,Hard,Q2,474,1290,0,7,,Nathaniel Lammons,Sekou Bangoura,6-3 6-4,0.65,8.6%,1.7%,74.1%,60.5%,53.3%,8/11,43.6%,26.9%,11.5%,13.2%,64.3%,1/2,110,5,1,58,43,15,6,1:06
+5-Feb-2018,Launceston CH,3,Hard,Q1,474,1382,1,7,,Sekou Bangoura,Edward Bourchier,7-5 6-1,1.26,1.3%,1.3%,76.0%,70.2%,38.9%,4/5,56.3%,47.2%,1.9%,51.3%,35.7%,5/8,128,1,1,75,57,18,1,1:22
+29-Jan-2018,Burnie CH,3,Hard,Q1,443,527,0,7,,N Vijay Sundar Prashanth,Sekou Bangoura,3-6 6-4 6-3,0.92,9.4%,4.7%,54.1%,71.7%,48.7%,8/12,48.8%,35.8%,6.2%,31.7%,40.0%,3/5,166,8,4,85,46,39,5,1:52
+8-Jan-2018,Canberra CH,3,Hard,R32,444,70,0,,3,Guillermo Garcia Lopez,Sekou Bangoura,6-3 6-4,0.59,3.6%,3.6%,70.9%,61.5%,56.3%,3/5,41.2%,23.7%,6.8%,15.8%,38.1%,0/2,114,2,2,55,39,16,4,1:09
+1-Jan-2018,Playford CH,3,Hard,Q1,447,363,0,,7,Frank Dancevic,Sekou Bangoura,6-4 7-5,0.71,1.3%,2.6%,68.4%,55.8%,50.0%,5/9,44.5%,32.8%,13.1%,29.7%,37.5%,2/2,137,1,2,76,52,24,8,1:24
+13-Nov-2017,USA F37,3,Clay,R16,446,,0,,WC,William Grant,Sekou Bangoura,7-5 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,USA F37,3,Clay,R32,446,1373,1,,Q,Sekou Bangoura,Vasil Kirkov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,USA F36,3,Clay,F,447,899,0,,,Patrick Kypson,Sekou Bangoura,7-5 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,USA F36,3,Clay,SF,447,500,1,,,Sekou Bangoura,Fabrizio Ornago,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,USA F36,3,Clay,QF,447,,1,,WC,Sekou Bangoura,Oliver Crawford,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,USA F36,3,Clay,R16,447,1091,1,,,Sekou Bangoura,Haru Inoue,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,USA F36,3,Clay,R32,447,1959,1,,WC,Sekou Bangoura,Ivan Yatsuk,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,USA F35,3,Clay,R32,449,1044,0,,,Luis Patino,Sekou Bangoura,6-1 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Fairfield CH,3,Hard,R16,392,108,0,LL,4,Maximilian Marterer,Sekou Bangoura,6-3 6-2,0.63,0.0%,11.4%,45.5%,65.0%,37.5%,1/5,39.8%,31.5%,16.7%,20.6%,50.0%,1/1,98,0,5,44,20,24,9,1:00
+9-Oct-2017,Fairfield CH,3,Hard,R32,392,1152,1,LL,Q,Sekou Bangoura,Ruan Roelofse,6-4 6-4,1.19,6.7%,5.0%,70.0%,71.4%,50.0%,4/6,54.0%,41.5%,11.3%,39.3%,44.0%,4/5,113,4,3,60,42,18,6,1:11
+9-Oct-2017,Fairfield CH,3,Hard,Q3,392,390,0,,,Jan Satral,Sekou Bangoura,6-4 6-7(4) 6-4,0.97,1.9%,2.9%,60.6%,71.4%,39.0%,5/10,48.9%,40.2%,10.3%,27.9%,57.1%,3/7,221,2,3,104,63,41,12,2:33
+9-Oct-2017,Fairfield CH,3,Hard,Q2,392,556,1,,,Sekou Bangoura,Frederik Nielsen,7-6(3) 6-3,1.15,3.9%,6.6%,60.5%,73.9%,56.7%,3/4,54.0%,37.7%,1.6%,20.0%,54.8%,2/3,137,3,5,76,46,30,1,1:30
+9-Oct-2017,Fairfield CH,3,Hard,Q1,392,322,1,,6,Sekou Bangoura,Jan Choinski,7-6(4) 6-2,1.22,10.7%,4.0%,68.0%,76.5%,50.0%,2/2,53.3%,39.0%,6.5%,38.6%,39.4%,2/9,152,8,3,75,51,24,5,1:42
+2-Oct-2017,Stockton CH,3,Hard,R32,406,328,0,Q,PR,Frank Dancevic,Sekou Bangoura,6-4 6-0,0.75,3.2%,1.6%,52.4%,54.5%,46.7%,5/9,43.6%,37.1%,15.7%,22.2%,52.9%,0/7,133,2,1,63,33,30,11,1:20
+2-Oct-2017,Stockton CH,3,Hard,Q3,406,1152,1,4,,Sekou Bangoura,Ruan Roelofse,7-5 7-6(9),1.01,1.1%,0.0%,80.7%,67.6%,64.7%,8/9,51.2%,33.3%,10.3%,32.0%,35.7%,2/8,166,1,0,88,71,17,8,1:45
+2-Oct-2017,Stockton CH,3,Hard,Q1,406,911,1,4,,Sekou Bangoura,Nick Chappell,7-6(4) 6-4,1.17,0.0%,5.4%,62.2%,80.4%,46.4%,1/3,52.3%,38.0%,7.6%,25.0%,54.3%,3/6,153,0,4,74,46,28,6,2:03
+25-Sep-2017,Tiburon CH,3,Hard,R32,418,104,0,Q,2,Tennys Sandgren,Sekou Bangoura,6-4 6-4,0.51,7.6%,1.5%,63.6%,69.0%,41.7%,7/10,43.0%,20.8%,10.4%,18.2%,23.1%,1/1,114,5,1,66,42,24,5,1:22
+25-Sep-2017,Tiburon CH,3,Hard,Q3,418,185,1,,1,Sekou Bangoura,Tim Smyczek,6-2 2-6 6-2,1.24,2.9%,5.7%,51.4%,63.9%,52.9%,2/6,54.6%,51.2%,3.7%,42.9%,63.6%,6/11,152,2,4,70,36,34,3,1:41
+25-Sep-2017,Tiburon CH,3,Hard,Q2,418,773,1,,,Sekou Bangoura,Andre Goransson,6-2 6-4,1.35,1.8%,5.5%,63.6%,80.0%,40.0%,3/4,55.7%,46.7%,1.7%,33.3%,63.0%,4/14,115,1,3,55,35,20,1,1:13
+25-Sep-2017,Tiburon CH,3,Hard,Q1,418,288,1,,8,Sekou Bangoura,Edan Leshem,2-6 6-4 6-4,1.02,4.5%,5.6%,56.2%,72.0%,43.6%,5/9,50.6%,41.4%,4.6%,32.6%,51.2%,4/4,176,4,5,89,50,39,4,1:57
+18-Sep-2017,Columbus CH,3,Hard,R32,379,153,0,,2,Ramkumar Ramanathan,Sekou Bangoura,7-6(7) 6-4,0.87,2.8%,3.8%,64.2%,57.4%,47.4%,16/20,47.7%,40.2%,12.6%,23.8%,55.6%,3/7,193,3,4,106,68,38,11,2:06
+11-Sep-2017,Cary CH,3,Hard,R32,386,186,0,,,Cameron Norrie,Sekou Bangoura,6-2 6-3,0.46,2.0%,7.8%,49.0%,64.0%,50.0%,5/8,39.6%,20.0%,11.1%,18.8%,23.1%,0/0,96,1,4,51,25,26,5,1:00
+28-Aug-2017,US Open,5,Hard,Q2,367,225,0,,,Cameron Norrie,Sekou Bangoura,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,US Open,5,Hard,Q1,367,211,1,,,Sekou Bangoura,Teymuraz Gabashvili,7-6(12) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Floridablanca CH,3,Clay,R32,357,263,0,,7,Jose Hernandez,Sekou Bangoura,6-3 6-3,0.61,6.5%,6.5%,52.2%,62.5%,40.9%,1/5,39.6%,29.1%,3.6%,25.0%,40.0%,1/2,101,3,3,46,24,22,2,1:05
+31-Jul-2017,Washington,3,Hard,R64,313,90,0,Q,,Marius Copil,Sekou Bangoura,6-4 7-6(1),0.54,8.3%,10.0%,66.7%,85.0%,50.0%,0/1,44.8%,14.3%,7.1%,3.2%,28.0%,0/0,116,5,6,60,40,20,4,1:08
+31-Jul-2017,Washington,3,Hard,Q2,313,277,1,7,4,Sekou Bangoura,Austin Krajicek,6-7(1) 7-5 6-4,0.96,12.6%,1.8%,69.4%,66.2%,61.8%,15/17,50.0%,33.7%,11.9%,19.2%,49.0%,4/7,212,14,2,111,77,34,12,2:22
+31-Jul-2017,Washington,3,Hard,Q1,313,,1,7,WC,Sekou Bangoura,Ryan Goetz,6-2 6-7(2) 6-0,1.73,7.0%,0.0%,73.2%,71.2%,78.9%,0/1,57.9%,46.2%,2.2%,33.3%,64.1%,6/12,164,5,0,71,52,19,2,1:35
+24-Jul-2017,Granby CH,3,Hard,R32,309,100,0,,1,Blaz Kavcic,Sekou Bangoura,6-4 5-7 6-3,0.89,6.0%,5.1%,65.8%,61.0%,47.5%,9/15,48.8%,38.6%,6.8%,21.4%,54.3%,4/8,205,7,6,117,77,40,6,2:40
+17-Jul-2017,Gatineau CH,3,Hard,R16,312,86,0,Q,2,Thomas Fabbiano,Sekou Bangoura,7-5 7-6(3),0.90,2.8%,5.6%,70.4%,66.0%,38.1%,3/7,47.6%,37.8%,2.7%,34.0%,44.4%,3/6,145,2,4,71,50,21,2,1:38
+17-Jul-2017,Gatineau CH,3,Hard,R32,312,922,1,Q,WC,Sekou Bangoura,Benjamin Sigouin,6-1 6-3,2.00,4.9%,2.4%,75.6%,77.4%,60.0%,1/2,60.9%,53.6%,2.9%,46.2%,58.1%,5/10,110,2,1,41,31,10,2,1:07
+17-Jul-2017,Gatineau CH,3,Hard,Q3,312,421,1,2,8,Sekou Bangoura,Bradley Mousley,6-4 6-4,1.46,9.3%,5.6%,68.5%,73.0%,70.6%,1/2,54.5%,40.6%,8.7%,24.3%,59.4%,3/9,123,5,3,54,37,17,6,1:21
+17-Jul-2017,Gatineau CH,3,Hard,Q2,312,604,1,2,,Sekou Bangoura,Dekel Bar,6-0 6-1,2.25,4.9%,4.9%,65.9%,74.1%,71.4%,1/1,66.7%,60.5%,0.0%,54.2%,68.4%,5/6,84,2,2,41,27,14,0,0:55
+10-Jul-2017,Winnipeg CH,3,Hard,R32,310,186,0,,4,Yasutaka Uchiyama,Sekou Bangoura,3-6 6-4 6-3,0.85,3.2%,1.1%,68.8%,65.6%,58.6%,7/9,47.8%,31.0%,4.6%,25.9%,39.4%,1/5,180,3,1,93,64,29,4,2:10
+3-Jul-2017,France F14,3,Clay,QF,309,386,0,3,6,Tomas Lipovsek Puches,Sekou Bangoura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,R16,309,813,1,3,,Sekou Bangoura,Ronan Joncour,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,R32,309,,1,3,Q,Sekou Bangoura,Thomas Laurent,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Fergana CH,3,Hard,R16,282,111,0,,1,Blaz Kavcic,Sekou Bangoura,6-2 5-7 6-2,0.60,8.7%,1.9%,70.9%,58.9%,53.3%,10/14,43.6%,25.6%,10.3%,19.1%,35.5%,1/5,181,9,2,103,73,30,8,2:14
+19-Jun-2017,Fergana CH,3,Hard,R32,282,,1,,Q,Sekou Bangoura,Dmitry Surchenko,6-1 6-2,2.17,8.0%,8.0%,72.0%,80.6%,57.1%,3/3,65.6%,56.5%,4.3%,23.5%,75.9%,4/9,96,4,4,50,36,14,2,1:05
+12-Jun-2017,Lisbon CH,3,Clay,Q3,281,329,0,4,8,Hubert Hurkacz,Sekou Bangoura,6-2 7-6(6),0.77,3.0%,4.5%,77.3%,64.7%,40.0%,1/4,45.1%,31.3%,1.5%,25.0%,47.4%,1/4,133,2,3,66,51,15,1,1:34
+12-Jun-2017,Lisbon CH,3,Clay,Q2,281,1303,1,4,WC,Sekou Bangoura,Goncalo Falcao,6-4 6-2,1.36,0.0%,0.0%,72.1%,69.4%,36.8%,8/10,57.1%,53.8%,0.0%,40.5%,78.3%,5/13,133,0,0,68,49,19,0,1:53
+12-Jun-2017,Lisbon CH,3,Clay,Q1,281,314,1,4,,Sekou Bangoura,Kevin Krawietz,7-5 7-6(5),1.04,0.0%,6.0%,63.9%,67.9%,40.0%,1/5,51.3%,44.0%,2.7%,46.2%,41.7%,5/7,158,0,5,83,53,30,2,2:00
+29-May-2017,Vicenza CH,3,Clay,Q3,293,244,0,,6,Federico Coria,Sekou Bangoura,6-2 6-2,0.48,0.0%,9.1%,74.5%,53.7%,14.3%,4/9,36.4%,27.3%,2.3%,16.0%,42.1%,1/2,99,0,5,55,41,14,1,1:13
+29-May-2017,Vicenza CH,3,Clay,Q2,293,681,1,,WC,Sekou Bangoura,Nicola Ghedin,6-2 6-3,1.47,4.5%,6.1%,65.2%,62.8%,47.8%,7/10,59.6%,62.5%,0.0%,53.8%,72.7%,6/9,114,3,4,66,43,23,0,1:23
+29-May-2017,Vicenza CH,3,Clay,Q1,293,236,1,,4,Sekou Bangoura,Roberto Quiroz,6-4 6-1,1.52,1.8%,0.0%,73.2%,70.7%,53.3%,4/6,58.6%,51.7%,0.0%,48.4%,55.2%,5/10,116,1,0,56,41,15,0,1:13
+22-May-2017,Mestre CH,3,Clay,R32,289,297,0,,,Tallon Griekspoor,Sekou Bangoura,6-4 6-1,0.60,1.8%,1.8%,69.1%,47.4%,29.4%,3/9,38.9%,35.0%,5.0%,20.0%,44.0%,2/2,95,1,1,55,38,17,2,1:11
+15-May-2017,Busan CH,3,Hard,R32,275,118,0,ALT,3,Blaz Kavcic,Sekou Bangoura,6-0 6-7(2) 7-5,0.84,3.2%,4.3%,61.7%,46.6%,50.0%,4/13,45.7%,43.7%,4.9%,31.7%,62.5%,5/14,197,3,4,94,58,36,5,2:36
+15-May-2017,Busan CH,3,Hard,Q2,275,793,0,1,,Jea Moon Lee,Sekou Bangoura,W/O,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Seoul CH,3,Hard,R32,270,341,0,,Q,Felix Auger Aliassime,Sekou Bangoura,6-2 6-1,0.47,0.0%,7.4%,70.6%,47.9%,40.0%,7/12,38.3%,25.6%,5.1%,15.4%,46.2%,0/0,107,0,5,68,48,20,2,1:11
+1-May-2017,Savannah CH,3,Clay,R32,271,169,0,,8,Mitchell Krueger,Sekou Bangoura,7-5 6-3,0.85,0.0%,11.8%,61.8%,57.1%,19.2%,4/11,45.9%,48.7%,2.6%,35.6%,66.7%,4/9,146,0,8,68,42,26,2,1:53
+24-Apr-2017,Tallahassee CH,3,Clay,R32,261,387,0,LL,WC,Christian Harrison,Sekou Bangoura,3-6 6-1 6-2,0.73,2.8%,1.4%,72.2%,55.8%,65.0%,2/6,44.7%,30.4%,8.7%,30.4%,30.4%,1/5,141,2,1,72,52,20,6,1:37
+24-Apr-2017,Tallahassee CH,3,Clay,Q3,261,395,0,2,6,Dominik Koepfer,Sekou Bangoura,6-4 7-6(5),0.92,3.8%,1.3%,70.0%,60.7%,45.8%,8/11,48.1%,40.2%,2.4%,27.5%,61.3%,2/6,162,3,1,80,56,24,2,1:57
+24-Apr-2017,Tallahassee CH,3,Clay,Q2,261,1075,1,2,,Sekou Bangoura,Jarryd Chaplin,6-3 6-1,1.86,2.4%,7.1%,71.4%,80.0%,50.0%,0/1,61.8%,53.2%,0.0%,57.7%,47.6%,5/8,89,1,3,42,30,12,0,1:03
+24-Apr-2017,Tallahassee CH,3,Clay,Q1,261,1094,1,2,,Sekou Bangoura,Hans Hach Verdugo,6-3 6-4,1.54,3.8%,3.8%,55.8%,72.4%,65.2%,2/4,57.8%,47.4%,3.5%,50.0%,41.2%,4/7,109,2,2,52,29,23,2,1:19
+17-Apr-2017,Bradenton CH,3,Clay,R32,260,211,0,WC,,James Mcgee,Sekou Bangoura,6-2 6-1,0.60,0.0%,2.0%,66.0%,39.4%,58.8%,5/10,39.6%,32.6%,2.2%,27.3%,46.2%,1/1,96,0,1,50,33,17,1,
+3-Apr-2017,Panama City CH,3,Clay,R16,268,424,0,,,Pedja Krstin,Sekou Bangoura,6-4 7-6(2),0.86,2.1%,4.2%,67.7%,58.5%,38.7%,9/13,46.8%,41.1%,4.4%,34.5%,51.4%,3/15,186,2,4,96,65,31,4,2:13
+3-Apr-2017,Panama City CH,3,Clay,R32,268,140,1,,8,Sekou Bangoura,Joao Souza,6-4 5-7 6-2,1.22,4.5%,4.5%,71.9%,68.8%,56.0%,6/9,53.2%,42.4%,2.0%,42.9%,40.9%,5/12,188,4,4,89,64,25,2,2:12
+13-Mar-2017,Drummondville CH,3,Hard,R32,269,396,0,,WC,Brayden Schnur,Sekou Bangoura,6-3 6-3,0.56,5.2%,6.9%,62.1%,61.1%,50.0%,7/10,41.7%,24.0%,8.0%,13.8%,38.1%,0/1,108,3,4,58,36,22,4,1:12
+27-Feb-2017,USA F9,3,Clay,R16,268,496,0,2,,Corentin Denolly,Sekou Bangoura,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,USA F9,3,Clay,R32,268,814,1,2,WC,Sekou Bangoura,Collin Altamirano,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Tempe CH,3,Hard,R32,270,209,0,,,Nikola Milojevic,Sekou Bangoura,6-1 6-4,0.63,1.9%,5.7%,62.3%,54.5%,35.0%,1/5,40.0%,33.3%,1.8%,19.4%,50.0%,1/4,110,1,3,53,33,20,1,1:33
+6-Feb-2017,San Francisco CH,3,Hard,R32,269,182,0,,,Reilly Opelka,Sekou Bangoura,6-3 6-4,0.64,5.9%,0.0%,77.9%,62.3%,33.3%,6/9,43.0%,28.3%,20.0%,22.9%,36.0%,1/3,128,4,0,68,53,15,12,1:17
+30-Jan-2017,Dallas CH,3,Hard,R16,280,156,0,,,Elias Ymer,Sekou Bangoura,6-3 7-5,1.01,3.4%,8.5%,66.1%,64.1%,65.0%,0/2,46.8%,35.8%,11.6%,23.7%,55.6%,0/8,154,2,5,59,39,20,11,1:43
+30-Jan-2017,Dallas CH,3,Hard,R32,280,697,1,,Q,Sekou Bangoura,Denys Molchanov,5-7 6-3 7-5,0.98,0.9%,4.3%,69.0%,66.3%,36.1%,9/13,50.2%,42.4%,3.0%,31.6%,57.1%,5/9,215,1,5,116,80,36,3,2:27
+16-Jan-2017,Australian Open,5,Hard,Q1,269,102,0,,1,Radek Stepanek,Sekou Bangoura,6-3 6-7(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,Bangkok  CH,3,Hard,R32,262,136,0,,4,Henri Laaksonen,Sekou Bangoura,6-4 6-2,0.74,2.9%,0.0%,80.0%,53.6%,42.9%,2/6,44.0%,35.9%,3.1%,25.7%,48.3%,1/7,134,2,0,70,56,14,2,1:33
+5-Dec-2016,USA F40,3,Hard,QF,237,543,0,1,8,Brayden Schnur,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,USA F40,3,Hard,R16,237,962,1,1,,Sekou Bangoura,Andrew Carter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,USA F40,3,Hard,R32,237,,1,1,Q,Sekou Bangoura,Jarryd Woog,4-6 7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Champaign CH,3,Hard,R16,229,937,0,,WC,Christopher Eubanks,Sekou Bangoura,6-1 3-6 6-1,0.67,9.5%,4.1%,74.3%,61.8%,42.1%,10/14,43.6%,28.8%,6.1%,22.5%,38.5%,1/4,140,7,3,74,55,19,4,1:17
+14-Nov-2016,Champaign CH,3,Hard,R32,229,356,1,,,Sekou Bangoura,Tim Van Rijthoven,3-6 6-4 7-6(5),1.02,8.8%,2.0%,65.7%,68.7%,65.7%,5/7,50.5%,33.0%,5.0%,27.8%,39.1%,2/8,202,9,2,102,67,35,5,2:11
+7-Nov-2016,Knoxville CH,3,Hard,R32,220,585,0,,WC,Rhyne Williams,Sekou Bangoura,6-3 2-6 6-4,0.93,3.9%,6.5%,55.8%,72.1%,47.1%,4/7,47.9%,36.0%,4.7%,21.7%,52.5%,3/6,163,3,5,77,43,34,4,1:58
+31-Oct-2016,Charlottesville CH,3,Hard,R32,213,276,0,,,Reilly Opelka,Sekou Bangoura,5-7 7-5 6-4,1.19,5.6%,2.2%,53.3%,81.3%,64.3%,1/3,51.0%,31.7%,21.2%,16.4%,49.0%,1/3,194,5,2,90,48,42,22,2:06
+17-Oct-2016,Las Vegas CH,3,Hard,SF,248,237,0,,,Samuel Groth,Sekou Bangoura,7-6(5) 6-4,0.91,4.3%,2.9%,55.1%,73.7%,67.7%,1/2,48.9%,26.5%,30.9%,11.1%,56.5%,0/0,137,3,2,69,38,31,21,1:19
+17-Oct-2016,Las Vegas CH,3,Hard,QF,248,278,1,,SE,Sekou Bangoura,Brydan Klein,6-4 3-6 6-4,1.07,9.5%,5.3%,56.8%,72.2%,51.2%,7/9,51.3%,39.4%,7.4%,34.5%,47.2%,3/9,189,9,5,95,54,41,7,2:21
+17-Oct-2016,Las Vegas CH,3,Hard,R16,248,147,1,,7,Sekou Bangoura,Dennis Novikov,7-6(6) 6-4,0.98,9.3%,1.0%,57.7%,67.9%,56.1%,5/6,50.8%,36.3%,11.3%,24.4%,51.4%,2/5,177,9,1,97,56,41,9,1:49
+17-Oct-2016,Las Vegas CH,3,Hard,R32,248,203,1,,,Sekou Bangoura,Alexander Sarkissian,7-6(2) 0-0 RET,0.59,8.0%,0.0%,66.0%,72.7%,58.8%,5/5,48.8%,18.8%,12.5%,15.8%,23.1%,0/0,82,4,0,50,33,17,4,0:51
+10-Oct-2016,Fairfield CH,3,Hard,R32,247,493,0,,Q,Dennis Nevolo,Sekou Bangoura,6-4 7-6(5),0.88,5.8%,2.9%,63.8%,68.2%,36.0%,3/6,46.7%,38.3%,2.5%,34.0%,44.1%,2/5,150,4,2,69,44,25,2,1:44
+3-Oct-2016,Stockton CH,3,Hard,R32,243,135,0,,,Darian King,Sekou Bangoura,6-0 6-3,0.60,0.0%,4.3%,63.0%,48.3%,23.5%,4/9,37.6%,36.4%,0.0%,33.3%,42.1%,1/7,101,0,2,46,29,17,0,1:08
+19-Sep-2016,Columbus CH,3,Hard,QF,231,311,0,,,John Patrick Smith,Sekou Bangoura,6-3 3-6 6-3,0.88,6.0%,2.4%,72.3%,66.7%,60.9%,2/4,47.4%,30.7%,5.7%,23.7%,44.8%,1/5,171,5,2,83,60,23,5,2:10
+19-Sep-2016,Columbus CH,3,Hard,R16,231,243,1,,,Sekou Bangoura,Tommy Paul,6-3 6-3,1.34,3.8%,5.7%,56.6%,73.3%,56.5%,4/5,55.5%,45.6%,3.5%,35.7%,55.2%,4/6,110,2,3,53,30,23,2,1:21
+19-Sep-2016,Columbus CH,3,Hard,R32,231,155,1,,3,Sekou Bangoura,Austin Krajicek,6-2 6-3,2.05,11.6%,2.3%,65.1%,85.7%,53.3%,0/1,61.8%,52.5%,0.0%,46.2%,65.0%,5/15,102,5,1,43,28,15,0,1:10
+12-Sep-2016,Cary CH,3,Hard,R32,228,310,0,,,Brydan Klein,Sekou Bangoura,1-6 7-5 6-2,1.08,2.4%,2.4%,62.7%,65.4%,41.9%,2/7,51.4%,47.0%,4.0%,37.5%,55.8%,5/14,183,2,2,83,52,31,4,2:10
+29-Aug-2016,US Open,5,Hard,Q3,242,127,0,,16,Mischa Zverev,Sekou Bangoura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,US Open,5,Hard,Q2,242,150,1,,32,Sekou Bangoura,Thiemo De Bakker,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,US Open,5,Hard,Q1,242,172,1,,,Sekou Bangoura,Gonzalo Lama,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Aptos CH,3,Hard,R16,250,423,0,,Q,Cameron Norrie,Sekou Bangoura,7-6(3) 7-6(4),0.90,2.4%,0.0%,65.9%,75.9%,53.6%,4/5,49.1%,28.6%,2.6%,19.1%,43.3%,1/3,159,2,0,82,54,28,2,1:44
+8-Aug-2016,Aptos CH,3,Hard,R32,250,320,1,,,Sekou Bangoura,Nicolaas Scholtz,6-3 6-3,1.09,5.8%,2.9%,62.3%,69.8%,61.5%,3/3,54.9%,36.4%,11.4%,24.1%,60.0%,3/4,113,4,2,69,43,26,5,1:13
+1-Aug-2016,Granby CH,3,Hard,SF,276,216,0,,,Marcelo Arevalo,Sekou Bangoura,6-1 2-6 6-1,0.77,0.0%,2.9%,62.9%,43.2%,53.8%,4/10,43.6%,40.5%,8.9%,34.0%,51.7%,3/11,149,0,2,70,44,26,7,1:42
+1-Aug-2016,Granby CH,3,Hard,QF,276,291,1,,WC,Sekou Bangoura,Denis Shapovalov,6-4 6-3,1.26,0.0%,7.9%,60.3%,78.9%,40.0%,2/3,54.1%,45.8%,5.6%,36.8%,55.9%,4/7,135,0,5,63,38,25,4,1:14
+1-Aug-2016,Granby CH,3,Hard,R16,276,195,1,,,Sekou Bangoura,Andrey Golubev,5-1 RET,1.82,5.0%,10.0%,55.0%,63.6%,77.8%,1/1,61.9%,54.5%,4.5%,50.0%,62.5%,2/4,42,1,2,20,11,9,1,0:26
+1-Aug-2016,Granby CH,3,Hard,R32,276,779,1,,WC,Sekou Bangoura,Felix Auger Aliassime,4-6 6-4 6-3,1.44,1.3%,2.7%,49.3%,78.4%,60.5%,5/8,54.7%,44.2%,9.6%,38.0%,57.6%,5/7,179,1,2,75,37,38,10,1:52
+25-Jul-2016,Lexington CH,3,Hard,R32,274,62,0,,2,Malek Jaziri,Sekou Bangoura,6-3 7-6(6),0.78,5.2%,6.2%,58.8%,73.7%,37.5%,11/13,46.9%,32.1%,7.7%,24.4%,40.5%,1/6,175,5,6,97,57,40,6,2:19
+18-Jul-2016,Binghamton CH,3,Hard,R16,255,229,0,,,Hiroki Moriya,Sekou Bangoura,6-4 6-4,0.95,1.8%,3.6%,52.7%,69.0%,46.2%,3/7,48.0%,39.7%,5.9%,30.3%,48.6%,2/3,123,1,2,55,29,26,4,1:21
+18-Jul-2016,Binghamton CH,3,Hard,R32,255,207,1,,8,Sekou Bangoura,Tommy Paul,4-6 6-1 6-1,1.38,5.6%,5.6%,65.3%,68.1%,44.0%,4/8,57.3%,55.4%,3.3%,42.3%,72.5%,8/16,164,4,4,72,47,25,3,1:41
+11-Jul-2016,Winnipeg CH,3,Hard,R32,251,154,0,,6,Peter Gojowczyk,Sekou Bangoura,7-5 7-6(3),0.86,3.8%,6.3%,62.0%,59.2%,56.7%,9/13,47.7%,36.1%,0.0%,27.3%,43.6%,3/6,151,3,5,79,49,30,0,1:36
+4-Jul-2016,Winnetka CH,3,Hard,R32,252,176,0,,,Stefan Kozlov,Sekou Bangoura,6-4 3-6 6-2,0.96,2.4%,3.6%,43.4%,69.4%,59.6%,4/7,48.8%,34.8%,6.7%,23.7%,43.1%,1/6,172,2,3,83,36,47,6,2:08
+27-Jun-2016,USA F23,3,Hard,SF,252,640,0,5,,Cameron Norrie,Sekou Bangoura,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F23,3,Hard,QF,252,202,1,5,1,Sekou Bangoura,Tommy Paul,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F23,3,Hard,R16,252,852,1,5,,Sekou Bangoura,Reilly Opelka,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F23,3,Hard,R32,252,1521,1,5,Q,Sekou Bangoura,Arjun Kadhe,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,USA F21,3,Hard,R16,271,,0,2,Q,Paul C Oosterbaan,Sekou Bangoura,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,USA F21,3,Hard,R32,271,1948,1,2,Q,Sekou Bangoura,Nathan Ponwith,0-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,F,271,274,1,1,2,Sekou Bangoura,Darian King,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,SF,271,399,1,1,7,Sekou Bangoura,Alex Kuznetsov,4-6 6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,QF,271,,1,1,Q,Sekou Bangoura,Emil Reinberg,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,R16,271,605,1,1,,Sekou Bangoura,Jared Hiltzik,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,R32,271,890,1,1,,Sekou Bangoura,Ryan Haviland,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,USA F17,3,Hard,R32,272,926,0,2,Q,Damon Gooch,Sekou Bangoura,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Romania F4,3,Clay,R32,281,396,0,6,,Petru Alexandru Luncanu,Sekou Bangoura,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Bangkok CH,3,Hard,R16,284,100,0,,2,Yen Hsun Lu,Sekou Bangoura,6-2 6-3,0.53,0.0%,3.3%,57.4%,54.3%,38.5%,2/7,39.4%,27.9%,18.6%,20.7%,42.9%,1/1,104,0,2,61,35,26,8,1:02
+16-May-2016,Bangkok CH,3,Hard,R32,284,1039,1,,WC,Sekou Bangoura,Wishaya Trongcharoenchaikul,6-3 6-3,1.56,5.9%,5.9%,74.5%,76.3%,46.2%,4/6,58.5%,49.1%,10.9%,33.3%,61.3%,5/8,106,3,3,51,38,13,6,1:14
+2-May-2016,USA F16,3,Clay,QF,278,397,0,2,7,Peter Polansky,Sekou Bangoura,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,USA F16,3,Clay,R16,278,1158,1,2,Q,Sekou Bangoura,Jarmere Jenkins,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,USA F16,3,Clay,R32,278,2062,1,2,Q,Sekou Bangoura,Isaiah Strode,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tallahassee CH,3,Clay,R16,287,202,0,Q,,Quentin Halys,Sekou Bangoura,6-3 6-2,0.64,2.0%,6.0%,54.0%,70.4%,47.8%,5/8,42.6%,25.5%,5.9%,24.1%,27.3%,0/1,101,1,3,50,27,23,3,1:00
+25-Apr-2016,Tallahassee CH,3,Clay,R32,287,261,1,Q,WC,Sekou Bangoura,Tennys Sandgren,6-2 6-4,1.34,3.1%,10.9%,48.4%,74.2%,57.6%,6/7,55.9%,46.0%,1.6%,39.3%,51.4%,4/9,127,2,7,64,31,33,1,1:28
+25-Apr-2016,Tallahassee CH,3,Clay,Q3,287,250,1,6,2,Sekou Bangoura,Tomas Lipovsek Puches,6-3 4-6 6-2,1.20,0.0%,9.3%,54.7%,73.2%,50.0%,4/7,53.6%,44.7%,6.6%,41.8%,52.4%,6/8,151,0,7,75,41,34,5,1:41
+25-Apr-2016,Tallahassee CH,3,Clay,Q2,287,399,1,6,,Sekou Bangoura,Peter Polansky,6-2 4-2 RET,1.59,5.0%,2.5%,50.0%,80.0%,60.0%,0/0,58.5%,47.6%,19.0%,39.1%,57.9%,3/3,82,2,1,40,20,20,8,0:51
+18-Apr-2016,Savannah CH,3,Clay,Q3,288,412,0,4,7,Peter Polansky,Sekou Bangoura,7-6(7) 7-6(5),0.86,10.2%,2.3%,61.4%,75.9%,52.9%,3/4,47.7%,28.4%,8.0%,21.3%,36.6%,1/3,176,9,2,88,54,34,7,1:59
+18-Apr-2016,Savannah CH,3,Clay,Q2,288,688,1,4,,Sekou Bangoura,Jorge Montero,6-1 7-5,1.36,5.1%,6.8%,62.7%,67.6%,63.6%,2/3,56.9%,46.0%,0.0%,32.1%,63.6%,4/6,109,3,4,59,37,22,0,1:09
+11-Apr-2016,Sarasota CH,3,Clay,R32,283,162,0,WC,,Mischa Zverev,Sekou Bangoura,6-3 6-1,0.53,0.0%,4.2%,62.5%,50.0%,27.8%,3/8,36.6%,31.1%,8.9%,12.0%,55.0%,1/2,93,0,2,48,30,18,4,1:02
+21-Mar-2016,USA F11,3,Hard,R16,281,562,0,4,Q,Marcelo Zormann Da Silva,Sekou Bangoura,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,USA F11,3,Hard,R32,281,484,1,4,,Sekou Bangoura,Luke Bambridge,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R16,284,776,0,2,JE,Casper Ruud,Sekou Bangoura,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R32,284,530,1,2,,Sekou Bangoura,Alejandro Gomez Gb42,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,USA F9,3,Clay,QF,285,441,0,3,8,Patricio Heras,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,USA F9,3,Clay,R16,285,1248,1,3,Q,Sekou Bangoura,Augusto Laranja,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,USA F9,3,Clay,R32,285,1168,1,3,LL,Sekou Bangoura,Collin Johns,6-4 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,USA F8,3,Clay,R32,286,453,0,6,,Alex Kuznetsov,Sekou Bangoura,6-4 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Morelos CH,3,Hard,R32,279,236,0,ALT,,Jason Jung,Sekou Bangoura,6-3 6-2,0.50,0.0%,2.1%,63.8%,50.0%,64.7%,2/5,38.5%,22.4%,6.1%,7.7%,39.1%,0/1,96,0,1,47,30,17,3,0:56
+1-Feb-2016,Dallas CH,3,Hard,R32,286,102,0,WC,2,Kyle Edmund,Sekou Bangoura,7-6(4) 6-2,0.59,7.9%,3.2%,58.7%,70.3%,53.8%,2/4,43.1%,21.7%,8.3%,10.3%,42.9%,0/0,123,5,2,63,37,26,5,1:10
+18-Jan-2016,USA F4,3,Clay,R32,291,,1,2,WC,Sekou Bangoura,Pietro Rimondini,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Buenos Aires CH,3,Clay,R16,294,144,0,,,Gerald Melzer,Sekou Bangoura,6-4 6-2,0.78,4.4%,5.9%,63.2%,53.5%,28.0%,8/14,43.9%,43.8%,0.0%,37.5%,54.2%,3/7,132,3,4,68,43,25,0,1:40
+11-Jan-2016,Buenos Aires CH,3,Clay,R32,294,146,1,,7,Sekou Bangoura,Andrej Martin,6-1 6-2,2.42,0.0%,0.0%,78.0%,78.1%,77.8%,0/0,64.8%,53.2%,0.0%,44.0%,63.6%,4/6,88,0,0,41,32,9,0,1:06
+4-Jan-2016,Mendoza CH,3,Clay,R32,295,284,0,,,Axel Michon,Sekou Bangoura,3-6 6-3 7-6(5),0.97,5.9%,4.0%,72.3%,65.8%,50.0%,6/10,49.5%,37.4%,3.0%,28.6%,48.8%,4/8,200,6,4,101,73,28,3,2:44
+14-Dec-2015,Dominican Republic F3,3,Hard,F,348,383,1,1,2,Sekou Bangoura,Facundo Mena,6-7(6) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,SF,348,500,1,1,4,Sekou Bangoura,Peter Torebko,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,QF,348,642,1,1,8,Sekou Bangoura,Alexios Halebian,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,R16,348,,1,1,Q,Sekou Bangoura,Nicolas Moreno De Alboran,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,R32,348,1877,1,1,WC,Sekou Bangoura,Manuel Castellanos,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,USA F35,3,Hard,QF,348,286,0,6,3,Marek Michalicka,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,USA F35,3,Hard,R16,348,1162,1,6,Q,Sekou Bangoura,Denis Shapovalov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,USA F35,3,Hard,R32,348,1364,1,6,Q,Sekou Bangoura,Quinton Vega,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,F,348,199,0,5,2,Henri Laaksonen,Sekou Bangoura,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,SF,348,676,1,5,,Sekou Bangoura,Dennis Nevolo,3-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,QF,348,1992,1,5,Q,Sekou Bangoura,Jakob Sude,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,R16,348,472,1,5,,Sekou Bangoura,Clay Thompson,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,R32,348,,1,5,WC,Sekou Bangoura,Vincent Thierry Schneider,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2015,Knoxville CH,3,Hard,R16,370,116,0,Q,5,James Duckworth,Sekou Bangoura,4-6 6-3 6-4,0.81,5.0%,3.0%,64.0%,65.6%,55.6%,7/9,47.8%,31.0%,13.1%,26.3%,40.7%,1/2,184,5,3,100,64,36,11,
+10-Nov-2015,Knoxville CH,3,Hard,R32,370,456,1,Q,WC,Sekou Bangoura,Mackenzie Mcdonald,6-4 6-3,1.50,5.3%,3.5%,68.4%,64.1%,77.8%,3/4,56.2%,47.5%,0.0%,48.9%,45.5%,4/7,137,3,2,57,39,18,0,
+2-Nov-2015,Charlottesville CH,3,Hard,R16,373,102,0,,3,Tim Smyczek,Sekou Bangoura,6-3 7-6(6),0.98,1.3%,0.0%,61.3%,69.6%,58.6%,0/1,47.9%,34.0%,3.2%,33.9%,34.2%,0/6,169,1,0,75,46,29,3,
+2-Nov-2015,Charlottesville CH,3,Hard,R32,373,889,1,,WC,Sekou Bangoura,Ryan Shane,6-3 6-2,1.60,6.3%,8.3%,62.5%,76.7%,55.6%,1/2,58.7%,50.0%,8.9%,22.6%,84.0%,5/10,104,3,4,48,30,18,5,
+12-Oct-2015,Fairfield CH,3,Hard,R32,372,249,0,Q,,Jason Jung,Sekou Bangoura,6-4 7-6(3),0.78,1.4%,1.4%,70.3%,69.2%,40.9%,2/4,46.2%,30.4%,7.2%,13.3%,43.6%,1/2,143,1,1,74,52,22,5,
+5-Oct-2015,Sacramento CH,3,Hard,R16,387,177,0,WC,,Daniel Brands,Sekou Bangoura,7-6(4) 6-2,0.84,3.2%,3.2%,62.9%,76.9%,43.5%,3/5,45.6%,29.7%,9.5%,27.7%,33.3%,0/8,136,2,2,62,39,23,7,
+5-Oct-2015,Sacramento CH,3,Hard,R32,387,146,1,WC,6,Sekou Bangoura,Dennis Novikov,6-2 7-6(3),1.31,6.0%,9.0%,58.2%,71.8%,57.1%,2/3,55.1%,45.1%,7.0%,35.6%,61.5%,3/8,138,4,6,67,39,28,5,
+28-Sep-2015,Tiburon CH,3,Hard,R16,419,721,0,Q,WC,Mackenzie Mcdonald,Sekou Bangoura,6-3 3-6 7-6(3),1.00,6.8%,6.8%,67.0%,67.8%,37.9%,3/8,49.2%,41.9%,3.8%,38.2%,48.6%,5/16,193,6,6,88,59,29,4,
+28-Sep-2015,Tiburon CH,3,Hard,R32,419,105,1,Q,4,Sekou Bangoura,Dustin Brown,6-2 7-5,1.39,5.9%,2.9%,66.2%,71.1%,60.9%,5/6,57.1%,44.8%,1.7%,35.1%,61.9%,4/8,126,4,2,68,45,23,1,
+21-Sep-2015,Columbus CH,3,Hard,QF,461,106,0,,1,Tim Smyczek,Sekou Bangoura,6-3 6-3,0.75,1.9%,3.7%,61.1%,63.6%,52.4%,5/9,45.6%,30.6%,0.0%,32.3%,27.8%,1/2,103,1,2,54,33,21,0,
+21-Sep-2015,Columbus CH,3,Hard,R16,461,375,1,,,Sekou Bangoura,Jose Rubin Statham,7-6(3) 6-4,1.16,7.1%,3.6%,56.0%,63.8%,59.5%,6/9,53.4%,44.3%,3.8%,39.6%,53.8%,4/5,163,6,3,84,47,37,3,
+21-Sep-2015,Columbus CH,3,Hard,R32,461,2175,1,,Q,Sekou Bangoura,Dean Obrien,6-3 6-1,1.58,11.5%,7.7%,67.3%,74.3%,47.1%,2/3,60.0%,54.7%,1.9%,38.7%,77.3%,5/10,105,6,4,52,35,17,1,
+14-Sep-2015,Canada F10,3,Hard,R32,456,756,0,7,,Raymond Sarmiento,Sekou Bangoura,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Canada F9,3,Clay,QF,442,325,0,7,4,Chase Buchanan,Sekou Bangoura,7-6(5) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Canada F9,3,Clay,R16,442,1016,1,7,,Sekou Bangoura,Sami Reinwein,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Canada F9,3,Clay,R32,442,1371,1,7,Q,Sekou Bangoura,Patrick Daciek,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2015,Winston-Salem,3,Hard,Q1,439,672,1,,,Sekou Bangoura,Marcelo Demoliner,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Washington,3,Hard,Q1,430,328,0,AL,AL,Takuto Niki,Sekou Bangoura,6-3 6-7(4) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Lexington CH,3,Hard,R32,429,120,0,S,4,Bjorn Fratangelo,Sekou Bangoura,6-3 7-6(8),0.94,5.9%,4.4%,63.2%,72.1%,44.0%,3/6,47.4%,36.0%,2.3%,37.8%,34.1%,2/8,154,4,3,68,43,25,2,
+20-Jul-2015,Binghamton CH,3,Hard,SF,535,113,0,Q,1,Kyle Edmund,Sekou Bangoura,6-3 7-6(4),0.80,4.2%,0.0%,63.4%,66.7%,53.8%,5/7,46.4%,30.4%,5.8%,23.8%,40.7%,1/2,140,3,0,71,45,26,4,
+20-Jul-2015,Binghamton CH,3,Hard,QF,535,217,1,Q,,Sekou Bangoura,Dennis Novikov,3-6 6-3 7-6(9),1.12,9.7%,2.2%,71.0%,75.8%,55.6%,6/9,51.3%,33.7%,4.1%,28.6%,40.5%,3/5,191,9,2,93,66,27,4,
+20-Jul-2015,Binghamton CH,3,Hard,R16,535,160,1,Q,5,Sekou Bangoura,Jared Donaldson,6-4 6-2,1.36,4.9%,0.0%,75.4%,69.6%,60.0%,5/5,55.6%,44.6%,4.6%,23.3%,62.9%,3/7,126,3,0,61,46,15,3,
+20-Jul-2015,Binghamton CH,3,Hard,R32,535,1109,1,Q,WC,Sekou Bangoura,Reilly Opelka,4-6 6-3 6-4,1.12,7.2%,1.2%,61.4%,74.5%,43.8%,3/6,52.1%,41.7%,6.0%,30.4%,55.3%,5/8,167,6,1,83,51,32,5,
+22-Jun-2015,USA F18,3,Clay,F,550,349,0,2,1,Emilio Gomez,Sekou Bangoura,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F18,3,Clay,SF,550,1690,1,2,Q,Sekou Bangoura,Dominic Cotrone,6-2 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F18,3,Clay,QF,550,1719,1,2,SE,Sekou Bangoura,Winston Lin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F18,3,Clay,R16,550,1330,1,2,,Sekou Bangoura,Jordi Arconada,6-0 7-6(1),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F18,3,Clay,R32,550,1362,1,2,,Sekou Bangoura,Patrick Daciek,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,USA F17,3,Clay,QF,563,620,0,3,8,Maximiliano Estevez,Sekou Bangoura,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,USA F17,3,Clay,R16,563,1567,1,3,WC,Sekou Bangoura,Marcus Fugate,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,USA F17,3,Clay,R32,563,,1,3,Q,Sekou Bangoura,Kyle Mautner,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,USA F16B,3,Hard,QF,573,985,0,6,,Collin Altamirano,Sekou Bangoura,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,USA F16B,3,Hard,R16,573,786,1,6,,Sekou Bangoura,Raymond Sarmiento,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,USA F16B,3,Hard,R32,573,,1,6,Q,Sekou Bangoura,Yancy Dennis,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,USA F16A,3,Hard,QF,566,812,0,7,,Mico Santiago,Sekou Bangoura,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,USA F16A,3,Hard,R16,566,1017,1,7,,Sekou Bangoura,Thai Son Kwiatkowski,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,USA F16A,3,Hard,R32,566,,1,7,Q,Sekou Bangoura,Ethan Dunbar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,USA F16,3,Clay,R16,595,799,0,8,,Mico Santiago,Sekou Bangoura,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,USA F16,3,Clay,R32,595,1077,1,8,,Sekou Bangoura,Andrew Carter,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,USA F15,3,Clay,SF,593,437,0,,4,Stefan Kozlov,Sekou Bangoura,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,USA F15,3,Clay,QF,593,377,1,,6,Sekou Bangoura,Tennys Sandgren,0-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-May-2015,USA F15,3,Clay,R16,593,262,1,,1,Sekou Bangoura,Alex Kuznetsov,7-6(7) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,USA F15,3,Clay,R32,593,1454,1,,WC,Sekou Bangoura,Walker Duncan,5-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Tallahassee CH,3,Clay,R32,607,177,0,Q,,Liam Broady,Sekou Bangoura,4-6 6-3 7-6(1),0.83,3.7%,1.8%,69.7%,65.8%,42.4%,7/10,46.9%,34.3%,7.8%,26.7%,45.2%,3/8,211,4,2,109,76,33,8,2:34
+6-Apr-2015,Houston,3,Clay,Q1,609,186,0,WC,,Guilherme Clezar,Sekou Bangoura,7-6(3) 7-6(4),0.96,1.3%,0.0%,60.8%,77.1%,48.4%,2/4,48.8%,32.9%,4.7%,24.1%,51.9%,2/5,164,1,0,79,48,31,4,1:55
+23-Mar-2015,USA F11,3,Hard,R16,603,291,0,Q,,Giovanni Lapentti,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,USA F11,3,Hard,R32,603,265,1,Q,5,Sekou Bangoura,Daniel Nguyen,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,USA F10,3,Hard,R16,607,210,0,,1,Fabiano De Paula,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,USA F10,3,Hard,R32,607,,1,,WC,Sekou Bangoura,Jake Devine,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,USA F9,3,Clay,R32,599,1643,0,WC,WC,Dennis Uspensky,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Delray Beach,3,Hard,Q3,642,154,0,,4,Yoshihito Nishioka,Sekou Bangoura,7-6(5) 6-4,0.96,5.7%,4.3%,62.9%,56.8%,42.3%,0/5,48.8%,46.7%,5.4%,41.0%,58.1%,4/11,162,4,3,70,44,26,5,1:48
+16-Feb-2015,Delray Beach,3,Hard,Q2,642,636,1,,,Sekou Bangoura,Noah Rubin,6-4 2-6 6-4,0.85,3.4%,3.4%,60.9%,64.2%,50.0%,0/4,47.8%,35.1%,12.2%,22.9%,57.7%,4/9,161,3,3,87,53,34,9,1:44
+16-Feb-2015,Delray Beach,3,Hard,Q1,642,345,1,,,Sekou Bangoura,Artem Smirnov,3-6 6-4 7-6(7),0.89,6.5%,3.3%,59.3%,65.8%,44.0%,7/13,48.8%,38.3%,5.3%,30.2%,48.8%,5/9,217,8,4,123,73,50,5,2:21
+27-Jan-2015,Maui CH,3,Hard,R32,556,455,0,Q,WC,Stefan Kozlov,Sekou Bangoura,6-4 6-2,0.73,0.0%,12.9%,59.7%,59.5%,28.0%,5/10,42.9%,38.6%,5.3%,20.8%,51.5%,2/3,119,0,8,62,37,25,3,1:30
+12-Jan-2015,USA F4,3,Hard,R16,554,361,0,,7,Mitchell Krueger,Sekou Bangoura,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,USA F4,3,Hard,R32,554,537,1,,,Sekou Bangoura,Ernesto Escobedo,6-4 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2015,USA F2,3,Hard,R32,552,535,0,,,Ernesto Escobedo,Sekou Bangoura,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Dominican Republic F4,3,Hard,R16,576,334,0,,4,Connor Smith,Sekou Bangoura,6-4 6-7(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Dominican Republic F4,3,Hard,R32,576,918,1,,Q,Sekou Bangoura,Felipe Escobar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Dominican Republic F3,3,Clay,QF,575,289,0,,4,Hugo Dellien,Sekou Bangoura,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Dominican Republic F3,3,Clay,R16,575,426,1,,,Sekou Bangoura,Duilio Beretta,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Dominican Republic F3,3,Clay,R32,575,379,1,,7,Sekou Bangoura,Alexander Lazov,7-5 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Dominican Republic F2,3,Clay,R32,572,283,0,,1,Roberto Ortega Olmedo,Sekou Bangoura,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2014,Knoxville CH,3,Hard,R32,501,199,0,Q,,Liam Broady,Sekou Bangoura,6-2 6-4,0.60,4.4%,1.5%,70.6%,66.7%,30.0%,7/10,42.4%,26.3%,5.3%,20.0%,36.4%,0/1,125,3,1,68,48,20,3,1:23
+13-Oct-2014,USA F28,3,Hard,R32,498,340,0,,4,Dimitar Kutrovsky,Sekou Bangoura,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Canada F10,3,Hard,QF,541,353,0,6,1,Bjorn Fratangelo,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Canada F10,3,Hard,R16,541,,1,6,Q,Sekou Bangoura,Samuel Shropshire,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Canada F10,3,Hard,R32,541,887,1,6,,Sekou Bangoura,Michael Bois,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Canada F9,3,Clay,SF,538,348,0,6,1,Bjorn Fratangelo,Sekou Bangoura,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Canada F9,3,Clay,QF,538,760,1,6,,Sekou Bangoura,Laurent Recouderc,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Canada F9,3,Clay,R16,538,1604,1,6,WC,Sekou Bangoura,Henry Choi,6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Canada F9,3,Clay,R32,538,1703,1,6,Q,Sekou Bangoura,Stefanos Tsitsipas,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2014,Winston-Salem,3,Hard,Q2,537,120,0,,4,Damir Dzumhur,Sekou Bangoura,6-3 5-7 6-3,0.95,1.0%,3.1%,73.2%,62.0%,38.5%,6/12,48.7%,42.0%,3.0%,29.8%,58.1%,4/7,197,1,3,97,71,26,3,2:05
+17-Aug-2014,Winston-Salem,3,Hard,Q1,537,,1,,,Sekou Bangoura,Colin Fleming,7-6(1) 6-2,1.41,5.0%,3.3%,78.3%,66.0%,84.6%,1/2,55.0%,42.3%,5.6%,33.3%,50.0%,3/8,131,3,2,60,47,13,4,1:25
+28-Jul-2014,Washington,3,Hard,Q2,555,326,0,,,Jared Donaldson,Sekou Bangoura,6-3 6-1,0.57,1.8%,7.0%,77.2%,50.0%,38.5%,5/10,39.3%,30.0%,12.0%,9.1%,46.4%,1/3,107,1,4,57,44,13,6,1:12
+28-Jul-2014,Washington,3,Hard,Q1,555,151,1,,3,Sekou Bangoura,Yuki Bhambri,2-6 7-6(1) RET,0.82,2.7%,2.7%,72.0%,57.4%,47.6%,8/12,46.7%,37.1%,0.0%,27.8%,50.0%,2/4,137,2,2,75,54,21,0,1:42
+14-Jul-2014,Binghamton CH,3,Hard,R16,598,77,0,Q,1,Bradley Klahn,Sekou Bangoura,6-3 7-6(10),0.71,4.0%,2.7%,73.3%,69.1%,60.0%,4/6,46.2%,23.5%,10.3%,16.3%,36.0%,1/2,143,3,2,75,55,20,7,1:30
+14-Jul-2014,Binghamton CH,3,Hard,R32,598,443,1,Q,,Sekou Bangoura,Facundo Mena,6-0 5-7 6-2,1.26,1.1%,2.1%,70.2%,68.2%,50.0%,10/12,55.6%,46.8%,3.9%,34.1%,61.1%,6/11,171,1,2,94,66,28,3,2:02
+23-Jun-2014,Italy F20,3,Clay,R32,584,818,0,,Q,Alessandro Petrone,Sekou Bangoura,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Italy F18,3,Clay,R16,590,1192,0,,,Luca Pancaldi,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Italy F18,3,Clay,R32,590,1826,1,,Q,Sekou Bangoura,Antonio Zucca,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,USA F14,3,Clay,R32,592,621,0,,,Dennis Novikov,Sekou Bangoura,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Sarasota CH,3,Clay,R32,600,204,0,WC,,Filip Krajinovic,Sekou Bangoura,6-4 6-2,0.72,0.0%,0.0%,70.4%,55.3%,43.8%,1/5,43.1%,34.5%,7.3%,24.3%,55.6%,1/2,109,0,0,54,38,16,4,1:22
+17-Mar-2014,USA F9,3,Hard,R16,604,347,0,Q,3,Jason Jung,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,USA F9,3,Hard,R32,604,571,1,Q,,Sekou Bangoura,Tyler Hochwalt,6-4 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,USA F8,3,Hard,QF,602,462,0,,7,Marek Michalicka,Sekou Bangoura,6-0 6-7(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,USA F8,3,Hard,R16,602,280,1,,1,Sekou Bangoura,Kyle Edmund,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,USA F8,3,Hard,R32,602,799,1,,,Sekou Bangoura,Devin Mccarthy,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,USA F7,3,Clay,R16,603,457,0,,3,Darian King,Sekou Bangoura,4-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,USA F7,3,Clay,R32,603,,1,,WC,Sekou Bangoura,Michael Mmoh,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Delray Beach,3,Hard,Q2,597,118,0,WC,1,Wayne Odesnik,Sekou Bangoura,6-1 6-7(5) 6-4,0.86,2.1%,7.2%,56.7%,69.1%,42.9%,9/14,46.0%,36.2%,2.6%,29.9%,44.9%,2/11,213,2,7,97,55,42,3,2:36
+17-Feb-2014,Delray Beach,3,Hard,Q1,597,1074,1,WC,WC,Sekou Bangoura,Stefan Kozlov,6-2 4-6 6-3,1.14,2.0%,3.0%,58.6%,70.7%,51.2%,4/6,52.5%,42.7%,4.9%,37.0%,47.4%,4/16,202,2,3,99,58,41,5,2:20
+10-Feb-2014,Memphis,3,Hard,Q2,598,141,0,,3,Alex Kuznetsov,Sekou Bangoura,6-4 6-4,0.76,4.9%,4.9%,62.3%,63.2%,47.8%,3/6,45.0%,32.2%,8.5%,28.3%,46.2%,1/3,120,3,3,61,38,23,5,1:28
+10-Feb-2014,Memphis,3,Hard,Q1,598,,1,,,Sekou Bangoura,Tomasz Bednarek,6-0 7-6(5),1.74,7.1%,3.6%,75.0%,78.6%,64.3%,1/1,56.0%,43.5%,7.1%,27.3%,61.0%,3/17,141,4,2,56,42,14,6,1:19
+20-Jan-2014,USA F3,3,Clay,R16,736,391,0,Q,7,Adam Pavlasek,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2014,USA F3,3,Clay,R32,736,,1,Q,WC,Sekou Bangoura,Frances Tiafoe,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,USA F2,3,Clay,R32,736,766,0,SE,Q,Noah Rubin,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,USA F1,3,Clay,F,737,442,1,Q,7,Sekou Bangoura,Yoshihito Nishioka,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,USA F1,3,Clay,SF,737,707,1,Q,Q,Sekou Bangoura,Gonzalo Escobar,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,USA F1,3,Clay,QF,737,392,1,Q,5,Sekou Bangoura,Adam Pavlasek,7-5 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,USA F1,3,Clay,R16,737,308,1,Q,3,Sekou Bangoura,Dzmitry Zhyrmont,6-4 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,USA F1,3,Clay,R32,737,680,1,Q,Q,Sekou Bangoura,Jean Yves Aubone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,USA F30,3,Clay,F,728,1683,1,8,PR,Sekou Bangoura,Eric Prodon,7-6(9) RET,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,USA F30,3,Clay,SF,728,563,1,8,7,Sekou Bangoura,Romain Arneodo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,USA F30,3,Clay,QF,728,1474,1,8,Q,Sekou Bangoura,Peter Nagy,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,USA F30,3,Clay,R16,728,1283,1,8,Q,Sekou Bangoura,Damon Gooch,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,USA F30,3,Clay,R32,728,835,1,8,,Sekou Bangoura,Devin Mccarthy,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,USA F29,3,Clay,QF,724,735,0,8,,Jean Yves Aubone,Sekou Bangoura,4-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,USA F29,3,Clay,R16,724,1168,1,8,Q,Sekou Bangoura,Janis Podzus,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,USA F29,3,Clay,R32,724,,1,8,Q,Sekou Bangoura,Korey Lovett,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,USA F28,3,Clay,R16,725,279,0,,2,Hans Podlipnik Castillo,Sekou Bangoura,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,USA F28,3,Clay,R32,725,,1,,Q,Sekou Bangoura,William Kallberg,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,USA F27,3,Hard,R16,719,,0,,WC,Arnau Dachs,Sekou Bangoura,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,USA F27,3,Hard,R32,719,473,1,,4,Sekou Bangoura,Daniel Smethurst,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,USA F26,3,Hard,R32,720,573,0,,8,Tyler Hochwalt,Sekou Bangoura,6-0 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Canada F9,3,Hard,R32,700,1124,0,,,Hugo Di Feo,Sekou Bangoura,7-6(1) 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Canada F8,3,Hard,R16,710,450,0,,4,Vijayant Malik,Sekou Bangoura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Canada F8,3,Hard,R32,710,855,1,,,Sekou Bangoura,George Jecminek,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Canada F7,3,Clay,R32,677,442,0,,2,Jason Jung,Sekou Bangoura,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2013,Winston-Salem,3,Hard,Q1,675,339,0,,8,Sanam Singh,Sekou Bangoura,7-5 6-2,0.69,7.5%,6.0%,67.2%,57.8%,27.3%,6/11,42.2%,36.1%,4.9%,20.6%,55.6%,2/6,128,5,4,67,45,22,3,1:17
+5-Aug-2013,USA F22,3,Hard,R16,681,478,0,WC,3,Jason Jung,Sekou Bangoura,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,USA F22,3,Hard,R32,681,996,1,WC,,Sekou Bangoura,Andrew Carter,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Washington,3,Hard,Q1,677,155,0,,8,Yuichi Sugita,Sekou Bangoura,6-3 7-5,0.85,1.4%,7.1%,58.6%,58.5%,41.4%,9/14,46.2%,41.3%,6.7%,30.0%,54.3%,3/9,145,1,5,70,41,29,5,1:33
+1-Jul-2013,Winnetka CH,3,Hard,R32,612,136,0,Q,5,Somdev Devvarman,Sekou Bangoura,6-7(7) 6-3 6-1,0.85,1.2%,4.9%,70.7%,58.6%,37.5%,2/9,45.7%,40.6%,2.8%,34.9%,48.8%,3/9,188,1,4,82,58,24,3,2:15
+17-Jun-2013,USA F16,3,Clay,R32,616,553,0,,5,Eric Quigley,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,USA F15,3,Clay,R32,613,1923,0,,Q,Janis Podzus,Sekou Bangoura,3-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,USA F14,3,Clay,R32,610,486,0,,3,Roman Borvanov,Sekou Bangoura,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-May-2013,USA F12,3,Clay,R32,583,,0,,Q,Naoki Nakagawa,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Savannah CH,3,Clay,R32,583,272,0,WC,Q,Taro Daniel,Sekou Bangoura,6-2 6-1,0.57,0.0%,1.9%,72.2%,51.3%,33.3%,3/8,38.7%,30.8%,0.0%,28.6%,33.3%,0/3,106,0,1,54,39,15,0,1:33
+15-Apr-2013,USA F10,3,Hard,R32,580,353,0,,4,Austin Krajicek,Sekou Bangoura,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,USA F9,3,Hard,R32,577,951,0,,,Mico Santiago,Sekou Bangoura,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Delray Beach,3,Hard,Q1,568,87,0,WC,1,Ricardas Berankis,Sekou Bangoura,6-4 6-2,0.50,0.0%,3.8%,66.0%,60.0%,50.0%,4/7,40.4%,21.7%,4.3%,17.4%,26.1%,0/0,99,0,2,53,35,18,2,1:07
+18-Feb-2013,Memphis,3,Hard,Q1,568,142,0,WC,5,Alex Bogomolov Jr,Sekou Bangoura,7-5 6-1,0.61,2.0%,4.0%,80.0%,50.0%,20.0%,0/5,38.7%,33.9%,0.0%,21.6%,57.9%,2/2,106,1,2,50,40,10,0,1:09
+21-Jan-2013,USA F3,3,Clay,R32,577,387,0,Q,,Greg Ouellette,Sekou Bangoura,1-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,USA F3,3,Clay,Q4,577,1255,1,2,,Sekou Bangoura,Martins Podzus,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,USA F2,3,Clay,R32,577,444,0,WC,LL,Thales Turini,Sekou Bangoura,6-7(4) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Dec-2012,Hong Kong F3,3,Hard,R32,576,549,0,,7,Jason Jung,Sekou Bangoura,6-4 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Dec-2012,Hong Kong F2,3,Hard,QF,601,746,0,,,Marcus Daniell,Sekou Bangoura,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Dec-2012,Hong Kong F2,3,Hard,R16,601,574,1,,8,Sekou Bangoura,Jason Jung,3-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Dec-2012,Hong Kong F2,3,Hard,R32,601,697,1,,,Sekou Bangoura,Piotr Gadomski,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Hong Kong F1,3,Hard,SF,604,481,0,7,1,Alex Bolt,Sekou Bangoura,7-6(3) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Hong Kong F1,3,Hard,QF,604,,1,7,Q,Sekou Bangoura,Kevin Kung,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Hong Kong F1,3,Hard,R16,604,,1,7,WC,Sekou Bangoura,Phillip King,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Hong Kong F1,3,Hard,R32,604,,1,7,Q,Sekou Bangoura,Marshall Tutu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,USA F32,3,Clay,QF,625,1165,0,8,,Alexander Zverev,Sekou Bangoura,7-6(6) 0-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,USA F32,3,Clay,R16,625,,1,8,Q,Sekou Bangoura,Jean Yves Aubone,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,USA F32,3,Clay,R32,625,1257,1,8,,Sekou Bangoura,Patrick Daciek,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,USA F31,3,Clay,R16,689,639,0,,8,Bjorn Fratangelo,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,USA F31,3,Clay,R32,689,,1,,WC,Sekou Bangoura,Adon Kronk,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,USA F30,3,Clay,F,684,357,0,,1,Florian Reynet,Sekou Bangoura,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,USA F30,3,Clay,SF,684,1665,1,,WC,Sekou Bangoura,Noah Rubin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,USA F30,3,Clay,QF,684,910,1,,,Sekou Bangoura,Artem Ilyushin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,USA F30,3,Clay,R16,684,470,1,,4,Sekou Bangoura,Chase Buchanan,6-0 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,USA F30,3,Clay,R32,684,891,1,,,Sekou Bangoura,Andrew Carter,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,USA F29,3,Clay,R16,679,972,0,7,,Luke Bambridge,Sekou Bangoura,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,USA F29,3,Clay,R32,679,1665,1,7,WC,Sekou Bangoura,Noah Rubin,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Canada F9,3,Hard,R32,698,513,0,,8,Chase Buchanan,Sekou Bangoura,6-7(4) 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Canada F8,3,Hard,QF,700,563,0,,7,Chase Buchanan,Sekou Bangoura,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Canada F8,3,Hard,R16,700,302,1,,1,Sekou Bangoura,Tennys Sandgren,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Canada F8,3,Hard,R32,700,,1,,Q,Sekou Bangoura,Martin Beran,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,Canada F7,3,Clay,R32,733,225,0,,2,John Patrick Smith,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Canada F6,3,Hard,QF,732,412,0,8,2,Ante Pavic,Sekou Bangoura,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Canada F6,3,Hard,R16,732,932,1,8,,Sekou Bangoura,Yuichi Ito,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Canada F6,3,Hard,R32,732,1195,1,8,,Sekou Bangoura,Sam Garforth Bles,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Canada F5,3,Hard,R32,734,255,0,,3,Harri Heliovaara,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Lexington CH,3,Hard,R32,746,641,0,Q,WC,Christian Harrison,Sekou Bangoura,6-2 3-6 6-3,0.84,1.4%,10.0%,64.3%,71.1%,40.0%,3/7,45.3%,33.7%,4.5%,30.0%,41.4%,2/6,159,1,7,70,45,25,4,2:14
+9-Jul-2012,USA F19,3,Clay,SF,749,374,0,5,1,Alex Bogdanovic,Sekou Bangoura,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,USA F19,3,Clay,QF,749,523,1,5,3,Sekou Bangoura,Michael Venus,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,USA F19,3,Clay,R16,749,980,1,5,,Sekou Bangoura,Vahid Mirzadeh,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,USA F19,3,Clay,R32,749,1132,1,5,,Sekou Bangoura,Nathaniel Gorham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,China F10,3,Hard,QF,770,859,0,,,Young Jun Kim,Sekou Bangoura,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,China F10,3,Hard,R16,770,457,1,,6,Sekou Bangoura,Toshihide Matsui,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,China F10,3,Hard,R32,770,,1,,WC,Sekou Bangoura,Qiu Shi Dong,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,China F9,3,Hard,R16,765,479,0,,6,Liang Chi Huang,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,China F9,3,Hard,R32,765,,1,,WC,Sekou Bangoura,Qiu Shi Dong,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Korea F3,3,Hard,R32,789,379,0,Q,6,Di Wu,Sekou Bangoura,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Korea F2,3,Hard,R16,794,739,0,Q,,Suk Young Jeong,Sekou Bangoura,6-1 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Korea F2,3,Hard,R32,794,676,1,Q,,Sekou Bangoura,Hong Chung,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Korea F1,3,Hard,R16,797,488,0,LL,8,Liang Chi Huang,Sekou Bangoura,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Korea F1,3,Hard,R32,797,571,1,LL,,Sekou Bangoura,Woong Sun Jun,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,USA F11,3,Clay,R32,802,777,0,LL,Q,Pedro Zerbini,Sekou Bangoura,5-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,USA F11,3,Clay,Q4,802,1365,0,3,13,Pedro Graber Anguita,Sekou Bangoura,0-6 7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,USA F9,3,Hard,R16,800,1440,0,,WC,Harrison Adams,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,USA F9,3,Hard,R32,800,1618,1,,PR,Sekou Bangoura,Tyler Hochwalt,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,USA F8,3,Hard,R32,813,938,0,WC,WC,Alessandro Damiano Ventre,Sekou Bangoura,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,USA F7,3,Hard,R16,812,400,0,WC,5,Daniel Kosakowski,Sekou Bangoura,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,USA F7,3,Hard,R32,812,613,1,WC,,Sekou Bangoura,Phillip Simmonds,7-6(3) 2-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Delray Beach,3,Hard,Q1,830,427,0,WC,,Artem Sitak,Sekou Bangoura,6-2 7-6(8),0.79,0.0%,4.9%,71.6%,56.9%,52.2%,8/11,45.6%,35.1%,9.1%,23.9%,51.6%,1/1,158,0,4,81,58,23,7,2:02
+20-Feb-2012,USA F5,3,Hard,R16,830,382,0,WC,3,Greg Ouellette,Sekou Bangoura,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,USA F5,3,Hard,R32,830,656,1,WC,WC,Sekou Bangoura,Michael Shabaz,3-6 6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,USA F4,3,Clay,R16,847,711,0,WC,Q,Edward Corrie,Sekou Bangoura,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,USA F4,3,Clay,R32,847,1609,1,WC,WC,Sekou Bangoura,Nikita Kryvonos,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,USA F3,3,Clay,R32,876,1271,0,WC,WC,Austin Smith,Sekou Bangoura,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,USA F2,3,Clay,R16,876,464,0,Q,,Olivier Patience,Sekou Bangoura,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,USA F2,3,Clay,R32,876,761,1,Q,Q,Sekou Bangoura,Antoine Benneteau,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,USA F2,3,Clay,Q4,876,573,1,,5,Sekou Bangoura,Juan Pablo Ortiz,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,USA F1,3,Clay,Q4,875,725,0,16,6,Blaz Rola,Sekou Bangoura,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,USA F31,3,Clay,R16,886,784,0,LL,SE,Alexandre Lacroix,Sekou Bangoura,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,USA F31,3,Clay,R32,886,516,1,LL,3,Sekou Bangoura,Catalin Ionut Gard,7-5 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,USA F29,3,Clay,R16,891,632,0,WC,,Vladimir Obradovic,Sekou Bangoura,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,USA F29,3,Clay,R32,891,638,1,WC,,Sekou Bangoura,Brendan Moore,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,USA F28,3,Clay,R16,904,1150,0,,Q,Guillermo Gomez Diaz,Sekou Bangoura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,USA F28,3,Clay,R32,904,1267,1,,WC,Sekou Bangoura,Christian Harrison,0-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,USA F27,3,Hard,R32,919,675,0,Q,Q,Andrei Daescu,Sekou Bangoura,3-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,USA F26,3,Hard,R16,917,304,0,WC,2,Nicholas Monroe,Sekou Bangoura,7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,USA F26,3,Hard,R32,917,1463,1,WC,Q,Sekou Bangoura,Shane Vinsant,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Canada F7,3,Hard,R32,882,440,0,,6,Michael Mcclune,Sekou Bangoura,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Canada F6,3,Hard,R16,885,,0,,Q,Milan Pokrajac,Sekou Bangoura,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Canada F6,3,Hard,R32,885,404,1,,2,Sekou Bangoura,Phillip Simmonds,7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Canada F5,3,Clay,R32,899,,0,,Q,Nelson Vick,Sekou Bangoura,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2011,Winston-Salem,3,Hard,Q1,901,555,0,,,Michael Mcclune,Sekou Bangoura,7-5 7-5,0.69,4.1%,6.8%,68.5%,64.0%,47.8%,4/7,44.3%,28.4%,17.9%,22.0%,38.5%,1/4,140,3,5,73,50,23,12,1:39
+8-Aug-2011,USA F22,3,Hard,R32,890,770,0,WC,,Jeff Dadamo,Sekou Bangoura,6-7(3) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,USA F21,3,Hard,Q4,894,1747,0,1,14,Nicolas Meister,Sekou Bangoura,6-7(5) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,USA F20,3,Hard,R16,889,572,0,WC,4,Dimitar Kutrovsky,Sekou Bangoura,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,USA F20,3,Hard,R32,889,,1,WC,Q,Sekou Bangoura,Finn Tearney,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Granby CH,3,Hard,R32,1044,369,0,Q,,Adam El Mihdawy,Sekou Bangoura,4-6 6-3 6-2,0.76,1.3%,3.8%,70.0%,66.1%,41.7%,7/11,45.8%,31.5%,4.1%,22.0%,43.8%,2/2,153,1,3,80,56,24,3,1:54
+4-Jul-2011,Newport,3,Grass,Q1,1050,403,0,,8,Alex Bogdanovic,Sekou Bangoura,6-3 6-4,0.62,0.0%,9.3%,57.4%,67.7%,39.1%,2/6,42.6%,27.7%,4.3%,16.7%,47.1%,2/3,101,0,5,54,31,23,2,1:03
+13-Jun-2011,USA F14,3,Hard,R16,1044,1187,0,,,Joshua Zavala,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,USA F14,3,Hard,R32,1044,,1,,Q,Sekou Bangoura,Guillermo Gomez Diaz,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,USA F13,3,Hard,R32,1043,371,0,,3,Michael Yani,Sekou Bangoura,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,USA F28,3,Clay,QF,811,,0,,8,Alexander Satschko,Sekou Bangoura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,USA F28,3,Clay,R16,811,371,1,,4,Sekou Bangoura,Dennis Bloemke,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,USA F28,3,Clay,R32,811,,1,,WC,Sekou Bangoura,Brian Page Jr,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,QF,859,1235,0,,Q,Daniel Kosakowski,Sekou Bangoura,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,R16,859,449,1,,3,Sekou Bangoura,Daniel Garza,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,R32,859,980,1,,,Sekou Bangoura,Daniel Nguyen,4-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,USA F24,3,Hard,R32,853,419,0,,1,Fabrice Martin,Sekou Bangoura,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,USA F20,3,Hard,R16,872,402,0,LL,1,Matt Reid,Sekou Bangoura,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,USA F20,3,Hard,R32,872,777,1,LL,,Sekou Bangoura,Jared Easton,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,USA F20,3,Hard,Q4,872,1667,0,4,,Evan King,Sekou Bangoura,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2010,Lexington CH,3,Hard,R32,872,304,0,WC,Q,Brydan Klein,Sekou Bangoura,6-2 6-1,0.48,6.1%,8.2%,59.2%,44.8%,50.0%,4/8,36.5%,25.5%,4.3%,18.4%,55.6%,0/2,96,3,4,49,29,20,2,1:04
+12-Jul-2010,USA F18,3,Clay,R32,874,565,0,,6,Denis Zivkovic,Sekou Bangoura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,USA F17,3,Clay,R32,868,660,0,,7,Jack Sock,Sekou Bangoura,6-1 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,USA F16,3,Clay,R32,872,1031,0,,,Steve Johnson,Sekou Bangoura,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,USA F13,3,Hard,R16,885,,0,WC,WC,Kiryl Harbatsiuk,Sekou Bangoura,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,USA F13,3,Hard,R32,885,1242,1,WC,Q,Sekou Bangoura,Roman Kislyanskiy,6-4 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Ojai CH,3,Hard,R32,894,375,0,WC,WC,Bobby Reynolds,Sekou Bangoura,6-2 6-1,0.64,2.3%,4.7%,58.1%,52.0%,33.3%,5/10,39.6%,35.8%,7.5%,26.7%,47.8%,0/7,96,1,2,43,25,18,4,1:02
+10-May-2010,Sarasota CH,3,Clay,R16,1226,417,0,WC,WC,Bobby Reynolds,Sekou Bangoura,6-2 6-4,0.67,2.0%,8.0%,64.0%,56.3%,38.9%,2/6,40.9%,33.3%,13.3%,30.4%,42.9%,1/8,110,1,4,50,32,18,8,1:23
+10-May-2010,Sarasota CH,3,Clay,R32,1226,158,1,WC,9,Sekou Bangoura,Robert Kendrick,6-1 7-5,1.71,5.4%,1.8%,62.5%,82.9%,61.9%,0/0,60.0%,42.9%,12.2%,46.9%,35.3%,3/4,105,3,1,56,35,21,6,1:04
+16-Nov-2009,USA F29,3,Clay,R32,1711,,0,SE,Q,Vahid Mirzadeh,Sekou Bangoura,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,USA F28,3,Clay,QF,,663,0,WC,,James Lemke,Sekou Bangoura,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,USA F28,3,Clay,R16,,573,1,WC,7,Sekou Bangoura,Adam El Mihdawy,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,USA F28,3,Clay,R32,,,1,WC,Q,Sekou Bangoura,Olivier Sajous,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,USA F27,3,Clay,R16,,477,0,WC,5,Greg Ouellette,Sekou Bangoura,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,USA F27,3,Clay,R32,,1537,1,WC,Q,Sekou Bangoura,Sadio Doumbia,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,USA F26,3,Hard,R32,,1293,0,WC,WC,Denes Lukacs,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,USA F15,3,Clay,R32,1675,679,0,LL,,Milan Pokrajac,Sekou Bangoura,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,R32,1410,476,0,WC,,Andrey Kumantsov,Sekou Bangoura,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,USA F17,3,Clay,R16,1597,825,0,WC,,Adam Thompson,Sekou Bangoura,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,USA F17,3,Clay,R32,1597,784,1,WC,7,Sekou Bangoura,Adam Fass,2-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,USA F15,3,Clay,R32,1513,324,0,,1,Artem Sitak,Sekou Bangoura,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,USA F11,3,Clay,R16,,849,0,WC,,Adam El Mihdawy,Sekou Bangoura,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+12-May-2008,USA F11,3,Clay,R32,,711,1,WC,6,Sekou Bangoura,Christopher Lam,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,

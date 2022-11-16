@@ -1,0 +1,193 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+26-Sep-2022,Lisbon CH,3,Clay,R32,201,145,0,SE,6,Franco Agamenone,Nicolas Moreno De Alboran,6-4 7-5,0.77,1.4%,1.4%,75.0%,55.6%,66.7%,7/10,45.4%,31.9%,0.0%,27.1%,42.9%,1/2,141,1,1,72,54,18,0,1:53
+19-Sep-2022,Braga CH,3,Clay,F,308,216,1,Q,,Nicolas Moreno De Alboran,Matheus Pucinelli De Almeida,6-2 6-4,1.43,0.0%,3.8%,67.3%,65.7%,64.7%,3/5,55.9%,49.3%,1.3%,44.9%,57.7%,5/18,127,0,2,52,35,17,1,1:46
+19-Sep-2022,Braga CH,3,Clay,SF,308,242,1,Q,,Nicolas Moreno De Alboran,Timofey Skatov,3-6 7-5 6-2,0.99,4.1%,5.2%,57.7%,57.1%,58.5%,4/8,50.6%,42.0%,0.0%,38.1%,55.6%,5/9,178,4,5,97,56,41,0,2:46
+19-Sep-2022,Braga CH,3,Clay,QF,308,341,1,Q,Q,Nicolas Moreno De Alboran,Javier Barranco Cosano,7-6(6) 7-5,1.12,4.5%,5.6%,67.4%,65.0%,48.3%,3/6,52.2%,45.2%,3.2%,42.4%,50.0%,4/10,182,4,5,89,60,29,3,2:27
+19-Sep-2022,Braga CH,3,Clay,R16,308,149,1,Q,4,Nicolas Moreno De Alboran,Alexandre Muller,4-6 6-3 6-4,0.96,3.9%,4.9%,64.7%,69.7%,41.7%,8/11,50.5%,38.7%,0.0%,28.8%,57.1%,4/8,182,4,5,102,66,36,0,2:36
+19-Sep-2022,Braga CH,3,Clay,R32,308,227,1,Q,,Nicolas Moreno De Alboran,Marco Trungelliti,7-6(1) 6-2,1.33,2.7%,2.7%,68.5%,68.0%,69.6%,5/6,56.3%,41.9%,3.2%,42.4%,41.4%,3/4,135,2,2,73,50,23,2,1:45
+19-Sep-2022,Braga CH,3,Clay,Q2,308,579,1,2,11,Nicolas Moreno De Alboran,Tristan Lamasine,6-2 6-3,1.41,2.1%,4.3%,59.6%,57.1%,73.7%,1/2,56.7%,50.9%,0.0%,38.7%,65.4%,5/10,104,1,2,47,28,19,0,1:24
+19-Sep-2022,Braga CH,3,Clay,Q1,308,999,1,2,WC,Nicolas Moreno De Alboran,Fabio Coelho,6-1 6-2,1.55,0.0%,1.8%,54.5%,66.7%,56.0%,4/6,60.5%,59.3%,0.0%,52.6%,71.4%,6/10,114,0,1,55,30,25,0,1:24
+12-Sep-2022,M25 Madrid,3,Hard,F,306,333,0,1,2,Lukas Neumayer,Nicolas Moreno De Alboran,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Madrid,3,Hard,SF,306,807,1,1,,Nicolas Moreno De Alboran,David Jorda Sanchis,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Madrid,3,Hard,QF,306,758,1,1,,Nicolas Moreno De Alboran,Kalin Ivanovski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Madrid,3,Hard,R16,306,,1,1,WC,Nicolas Moreno De Alboran,Alberto Romero De Avila Senise,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Madrid,3,Hard,R32,306,,1,1,Q,Nicolas Moreno De Alboran,Sergio Redondo Pereira,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,Seville CH,3,Clay,R32,311,134,0,Q,6,Federico Delbonis,Nicolas Moreno De Alboran,7-5 6-7(6) 0-0 Def.,1.03,13.0%,0.0%,68.8%,71.7%,50.0%,3/6,49.7%,36.0%,3.5%,27.8%,50.0%,2/6,163,10,0,77,53,24,3,2:23
+5-Sep-2022,Seville CH,3,Clay,Q2,311,666,1,3,WC,Nicolas Moreno De Alboran,Benjamin Winter Lopez,6-1 6-4,1.51,1.9%,1.9%,71.2%,73.0%,53.3%,0/1,57.4%,49.2%,3.2%,43.6%,58.3%,4/8,115,1,1,52,37,15,2,1:22
+5-Sep-2022,Seville CH,3,Clay,Q1,311,566,1,3,Alt,Nicolas Moreno De Alboran,Imanol Lopez Morillo,6-3 6-2,1.81,12.8%,2.1%,68.1%,78.1%,60.0%,1/2,62.1%,50.0%,5.0%,33.3%,75.0%,4/5,87,6,1,47,32,15,2,
+29-Aug-2022,Como CH,3,Clay,R32,311,146,0,Q,3,Francesco Passaro,Nicolas Moreno De Alboran,7-6(5) 4-6 6-3,1.08,6.0%,2.4%,70.2%,78.0%,44.0%,2/5,49.7%,34.7%,5.0%,30.4%,43.8%,3/5,185,5,2,84,59,25,5,2:21
+29-Aug-2022,Como CH,3,Clay,Q2,311,403,1,1,12,Nicolas Moreno De Alboran,Giovanni Fonio,7-6(2) 4-6 6-3,1.16,3.1%,2.1%,59.8%,74.1%,61.5%,6/8,52.6%,35.8%,6.3%,28.3%,45.2%,2/7,192,3,2,97,58,39,6,2:30
+29-Aug-2022,Como CH,3,Clay,Q1,311,571,1,1,,Nicolas Moreno De Alboran,Federico Iannaccone,7-6(2) 7-5,1.12,4.4%,0.0%,70.3%,62.5%,48.1%,3/7,52.9%,46.8%,1.3%,34.0%,69.0%,5/9,170,4,0,91,64,27,1,2:39
+22-Aug-2022,Prague CH,3,Clay,QF,317,271,0,8,2,Oleksii Krutykh,Nicolas Moreno De Alboran,6-4 3-6 7-6(8),0.94,6.9%,3.4%,62.1%,65.3%,56.8%,8/11,50.2%,35.8%,0.0%,32.1%,40.5%,3/6,211,8,4,116,72,44,0,2:49
+22-Aug-2022,Prague CH,3,Clay,R16,317,355,1,8,,Nicolas Moreno De Alboran,Raphael Collignon,7-5 5-7 7-5,1.14,6.5%,6.5%,57.0%,75.4%,50.0%,3/7,52.3%,40.4%,1.8%,32.8%,50.0%,5/9,216,7,7,107,61,46,2,2:45
+22-Aug-2022,Prague CH,3,Clay,R32,317,336,1,8,,Nicolas Moreno De Alboran,Alejandro Moro Canas,6-3 3-6 7-5,1.04,1.8%,2.6%,57.9%,65.2%,43.8%,3/8,51.2%,45.5%,0.0%,40.3%,53.8%,6/10,215,2,3,114,66,48,0,3:01
+1-Aug-2022,Cordenons CH,3,Clay,SF,374,210,0,Q,Alt,Andrea Vavassori,Nicolas Moreno De Alboran,6-7(5) 6-1 6-4,0.96,3.6%,6.0%,66.7%,66.1%,60.7%,3/7,47.4%,34.3%,4.6%,28.2%,45.9%,1/11,192,3,5,84,56,28,5,2:41
+1-Aug-2022,Cordenons CH,3,Clay,QF,374,215,1,Q,,Nicolas Moreno De Alboran,Matteo Arnaldi,7-6(2) 7-5,1.17,2.4%,2.4%,54.9%,66.7%,56.8%,5/8,53.0%,44.0%,1.2%,38.8%,51.4%,4/12,166,2,2,82,45,37,1,2:24
+1-Aug-2022,Cordenons CH,3,Clay,R16,374,492,1,Q,WC,Nicolas Moreno De Alboran,Gianmarco Ferrari,6-1 6-4,1.64,6.0%,2.0%,64.0%,75.0%,72.2%,1/1,57.7%,42.6%,1.9%,17.9%,69.2%,3/8,104,3,1,50,32,18,1,1:14
+1-Aug-2022,Cordenons CH,3,Clay,R32,374,1141,1,Q,Q,Nicolas Moreno De Alboran,Giacomo Dambrosi,6-3 6-4,1.52,5.5%,10.9%,70.9%,87.2%,50.0%,2/2,56.5%,35.8%,7.5%,29.4%,47.4%,2/2,108,3,6,55,39,16,4,1:20
+1-Aug-2022,Cordenons CH,3,Clay,Q2,374,373,1,3,8,Nicolas Moreno De Alboran,Andrey Chepelev,6-0 6-2,1.93,14.3%,2.4%,66.7%,71.4%,71.4%,3/3,62.6%,55.1%,2.0%,51.5%,62.5%,5/12,91,6,1,42,28,14,1,1:09
+1-Aug-2022,Cordenons CH,3,Clay,Q1,374,820,1,3,WC,Nicolas Moreno De Alboran,Fausto Tabacco,6-2 6-4,1.52,0.0%,3.2%,66.7%,73.8%,61.9%,4/4,57.1%,45.7%,1.4%,26.2%,75.0%,3/15,133,0,2,63,42,21,1,1:45
+27-Jun-2022,Wimbledon,5,Grass,Q3,258,172,0,,,Maximilian Marterer,Nicolas Moreno De Alboran,7-6(2) 7-6(11) 6-3,0.72,5.5%,3.9%,49.6%,68.3%,60.9%,7/8,45.6%,25.6%,9.9%,21.4%,35.1%,0/4,248,7,5,127,63,64,12,2:50
+27-Jun-2022,Wimbledon,5,Grass,Q2,258,691,1,,,Nicolas Moreno De Alboran,Arthur Fery,7-6(2) 7-6(3),1.11,11.8%,5.3%,65.8%,80.0%,57.7%,1/3,52.0%,30.6%,8.3%,25.0%,37.5%,2/5,148,9,4,76,50,26,6,1:37
+27-Jun-2022,Wimbledon,5,Grass,Q1,258,152,1,,20,Nicolas Moreno De Alboran,Manuel Guinard,6-3 6-4,1.17,6.0%,6.0%,64.2%,81.4%,41.7%,3/3,53.5%,38.3%,5.0%,30.8%,52.4%,2/7,127,4,4,67,43,24,3,1:17
+13-Jun-2022,Parma CH,3,Clay,R32,266,88,0,Q,5,Carlos Taberner,Nicolas Moreno De Alboran,7-6(2) 2-6 6-3,1.03,9.5%,2.4%,59.5%,70.0%,58.8%,1/3,49.7%,35.5%,2.2%,30.3%,48.1%,3/10,177,8,2,84,50,34,2,2:28
+13-Jun-2022,Parma CH,3,Clay,Q2,266,344,1,4,11,Nicolas Moreno De Alboran,Pedro Boscardin Dias,6-2 6-4,2.30,8.5%,0.0%,61.7%,82.8%,77.8%,1/1,59.1%,44.1%,8.8%,30.6%,59.4%,3/7,115,4,0,47,29,18,6,1:21
+6-Jun-2022,Bratislava CH,3,Clay,R32,262,154,0,,6,Dennis Novak,Nicolas Moreno De Alboran,6-1 6-3,0.75,12.2%,4.9%,63.4%,57.7%,40.0%,2/6,42.3%,36.5%,0.0%,31.7%,45.5%,0/7,104,5,2,41,26,15,0,1:12
+23-May-2022,Vicenza CH,3,Clay,R32,251,239,0,,SE,Matteo Arnaldi,Nicolas Moreno De Alboran,5-7 6-3 6-1,0.83,3.1%,3.1%,56.3%,53.7%,50.0%,3/9,45.8%,39.6%,2.1%,25.9%,57.1%,3/12,192,3,3,96,54,42,2,2:39
+18-Apr-2022,Tallahassee CH,3,Clay,R32,240,146,0,,7,Mitchell Krueger,Nicolas Moreno De Alboran,7-5 6-4,0.86,1.6%,3.3%,52.5%,68.8%,58.6%,1/4,46.5%,30.9%,2.9%,22.9%,50.0%,1/8,129,1,2,61,32,29,2,1:39
+11-Apr-2022,Sarasota CH,3,Clay,R32,243,153,0,Alt,,Mitchell Krueger,Nicolas Moreno De Alboran,6-3 6-2,0.69,7.1%,5.4%,66.1%,56.8%,52.6%,1/4,42.1%,30.8%,3.1%,23.1%,42.3%,0/3,121,4,3,56,37,19,2,1:33
+4-Apr-2022,Salinas CH,3,Hard,F,288,148,0,,1,Emilio Gomez,Nicolas Moreno De Alboran,6-7(2) 7-6(4) 7-5,1.04,5.6%,2.4%,72.8%,61.5%,41.2%,8/16,50.8%,45.7%,3.1%,32.0%,65.4%,7/13,252,7,3,125,91,34,4,3:16
+4-Apr-2022,Salinas CH,3,Hard,SF,288,365,1,,,Nicolas Moreno De Alboran,Roberto Quiroz,6-7(3) 6-4 6-2,1.09,1.0%,2.0%,61.8%,73.0%,56.4%,4/5,51.7%,36.4%,1.0%,34.3%,40.6%,4/13,201,1,2,102,63,39,1,2:48
+4-Apr-2022,Salinas CH,3,Hard,QF,288,238,1,,7,Nicolas Moreno De Alboran,Andrea Collarini,6-3 7-6(4),1.32,2.7%,0.0%,62.7%,80.9%,53.6%,4/4,53.0%,38.7%,2.2%,32.9%,56.5%,1/13,168,2,0,75,47,28,2,2:12
+4-Apr-2022,Salinas CH,3,Hard,R16,288,154,1,,2,Nicolas Moreno De Alboran,Christopher Eubanks,3-6 6-3 6-4,1.45,8.5%,3.7%,67.1%,78.2%,66.7%,4/5,53.5%,37.1%,6.7%,33.8%,43.2%,2/16,187,7,3,82,55,27,7,2:07
+4-Apr-2022,Salinas CH,3,Hard,R32,288,516,1,,Q,Nicolas Moreno De Alboran,Naoki Nakagawa,6-7(4) 6-4 6-4,1.18,1.9%,2.8%,64.2%,72.1%,55.3%,7/10,53.7%,40.0%,2.1%,31.0%,54.1%,5/7,201,2,3,106,68,38,2,2:54
+28-Mar-2022,Pereira CH,3,Clay,R16,290,181,0,,5,Facundo Mena,Nicolas Moreno De Alboran,6-3 2-6 6-4,0.95,3.7%,6.1%,58.5%,75.0%,32.4%,7/11,49.1%,40.7%,11.1%,21.1%,58.1%,4/7,163,3,5,82,48,34,9,2:03
+28-Mar-2022,Pereira CH,3,Clay,R32,290,346,1,,Q,Nicolas Moreno De Alboran,Facundo Juarez,6-7(5) 6-2 7-5,1.05,6.7%,3.4%,53.8%,70.3%,54.5%,10/12,52.1%,39.0%,1.0%,33.3%,76.9%,5/10,219,8,4,119,64,55,1,2:37
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R32,290,231,0,,,Alexander Ritschard,Nicolas Moreno De Alboran,6-3 6-1,0.55,2.2%,0.0%,68.9%,48.4%,28.6%,1/6,37.0%,31.9%,8.5%,8.0%,59.1%,1/5,92,1,0,45,31,14,4,1:04
+28-Feb-2022,Las Palmas CH,3,Clay,QF,314,276,0,,,Riccardo Bonadio,Nicolas Moreno De Alboran,3-6 6-3 6-2,0.79,4.6%,4.6%,48.3%,64.3%,42.2%,3/8,45.3%,37.3%,1.2%,35.6%,41.7%,3/9,170,4,4,87,42,45,1,2:09
+28-Feb-2022,Las Palmas CH,3,Clay,R16,314,297,1,,,Nicolas Moreno De Alboran,Lukas Rosol,3-6 6-1 6-4,1.44,12.2%,5.4%,58.1%,81.4%,58.1%,2/4,56.6%,40.8%,1.4%,34.9%,50.0%,4/8,145,9,4,74,43,31,1,1:37
+28-Feb-2022,Las Palmas CH,3,Clay,R32,314,517,1,,WC,Nicolas Moreno De Alboran,Pablo Llamas Ruiz,6-0 6-2,2.02,0.0%,0.0%,61.0%,72.0%,62.5%,6/7,66.3%,64.1%,0.0%,59.1%,70.6%,6/9,80,0,0,41,25,16,0,1:00
+24-Jan-2022,Santa Cruz CH,3,Clay,QF,345,127,0,,3,Francisco Cerundolo,Nicolas Moreno De Alboran,6-3 6-4,0.67,5.1%,3.4%,59.3%,71.4%,41.7%,5/7,43.2%,27.1%,1.7%,18.4%,42.9%,0/0,118,3,2,59,35,24,1,1:29
+24-Jan-2022,Santa Cruz CH,3,Clay,R16,345,209,1,,7,Nicolas Moreno De Alboran,Facundo Mena,6-7(4) 6-4 6-1,1.12,8.5%,4.3%,74.5%,78.6%,45.8%,4/4,53.5%,33.3%,5.1%,22.9%,50.0%,4/4,172,8,4,94,70,24,4,2:27
+24-Jan-2022,Santa Cruz CH,3,Clay,R32,345,619,1,,WC,Nicolas Moreno De Alboran,Federico Zeballos,7-5 6-2,2.38,14.9%,2.1%,61.7%,89.7%,77.8%,0/0,60.0%,35.4%,4.2%,29.2%,41.7%,3/3,95,7,1,47,29,18,2,
+17-Jan-2022,Concepcion CH,3,Clay,R16,345,121,0,,3,Daniel Elahi Galan,Nicolas Moreno De Alboran,4-6 6-1 6-2,0.70,3.0%,1.5%,63.6%,61.9%,54.2%,4/8,42.7%,28.6%,1.3%,26.7%,31.3%,1/3,143,2,1,66,42,24,1,1:58
+17-Jan-2022,Concepcion CH,3,Clay,R32,345,,1,,Q,Nicolas Moreno De Alboran,Miguel Angel Reyes Varela,6-4 6-2,1.51,3.6%,0.0%,57.1%,71.9%,66.7%,2/2,55.4%,45.8%,2.4%,42.4%,54.2%,3/11,139,2,0,56,32,24,2,1:23
+10-Jan-2022,Blumenau CH,3,Clay,QF,348,326,0,,5,Igor Ribeiro Marcondes,Nicolas Moreno De Alboran,4-6 7-6(6) 7-6(4),1.14,5.3%,1.8%,69.3%,77.2%,60.0%,6/6,51.3%,32.0%,1.6%,29.3%,37.5%,1/4,236,6,2,114,79,35,2,3:19
+10-Jan-2022,Blumenau CH,3,Clay,R16,348,170,1,,1,Nicolas Moreno De Alboran,Fernando Verdasco,7-5 6-3,1.34,1.5%,2.9%,72.1%,75.5%,42.1%,7/9,56.0%,45.5%,1.5%,44.9%,47.1%,4/7,134,1,2,68,49,19,1,1:50
+10-Jan-2022,Blumenau CH,3,Clay,R32,348,542,1,,Alt,Nicolas Moreno De Alboran,Strong Kirchheimer,6-1 6-3,1.72,2.4%,2.4%,71.4%,73.3%,58.3%,0/1,60.7%,53.2%,0.0%,46.4%,63.2%,5/9,89,1,1,42,30,12,0,1:13
+2-Jan-2022,Tigre CH,3,Clay,R32,348,313,0,,3,Genaro Alberto Olivieri,Nicolas Moreno De Alboran,6-4 5-7 6-2,0.90,2.2%,4.4%,61.1%,63.6%,34.3%,5/12,47.3%,42.9%,1.0%,35.6%,64.0%,5/11,188,2,4,90,55,35,1,2:26
+11-Oct-2021,Villena CH,3,Hard,Q1,339,1323,0,1,Alt,N Sriram Balaji,Nicolas Moreno De Alboran,7-6(5) 7-6(4),0.71,11.1%,4.9%,63.0%,70.6%,70.0%,1/1,46.5%,21.1%,19.7%,14.6%,32.1%,0/0,157,9,4,81,51,30,15,1:39
+20-Sep-2021,Braga CH,3,Clay,Q1,342,458,0,2,,Daniel Michalski,Nicolas Moreno De Alboran,6-4 6-4,0.66,2.5%,3.8%,62.5%,56.0%,46.7%,9/13,44.3%,31.4%,0.0%,20.0%,47.6%,2/2,131,2,3,80,50,30,0,1:44
+6-Sep-2021,Banja Luka CH,3,Clay,R32,349,288,0,,,Pedja Krstin,Nicolas Moreno De Alboran,6-2 3-6 6-2,0.72,5.3%,4.0%,69.3%,59.6%,47.8%,5/9,43.9%,31.5%,2.7%,26.1%,40.7%,2/7,148,4,3,75,52,23,2,1:58
+30-Aug-2021,Manacor CH,3,Hard,R32,349,132,0,LL,2,Fernando Verdasco,Nicolas Moreno De Alboran,6-3 6-2,0.75,3.9%,2.0%,66.7%,61.8%,41.2%,0/3,42.9%,33.8%,0.0%,25.0%,62.5%,0/6,119,2,1,51,34,17,0,1:22
+30-Aug-2021,Manacor CH,3,Hard,Q2,349,367,0,4,6,Johannes Haerteis,Nicolas Moreno De Alboran,6-3 4-6 6-4,0.94,4.6%,2.3%,74.7%,66.2%,45.5%,1/5,48.3%,36.6%,2.2%,29.2%,53.6%,3/8,180,4,2,87,65,22,2,2:30
+30-Aug-2021,US Open,5,Hard,Q1,349,150,0,WC,28,Antoine Hoang,Nicolas Moreno De Alboran,6-3 7-5,0.66,9.7%,3.2%,54.8%,67.6%,42.9%,3/6,42.4%,28.6%,4.8%,18.2%,52.6%,1/2,125,6,2,62,34,28,3,1:39
+30-Aug-2021,Manacor CH,3,Hard,Q1,349,970,1,4,Alt,Nicolas Moreno De Alboran,Reese Stalder,6-4 7-6(2),1.12,13.6%,4.5%,71.2%,72.3%,52.6%,0/2,51.9%,37.3%,4.5%,29.5%,52.2%,3/6,133,9,3,66,47,19,3,1:18
+26-Jul-2021,Segovia CH,3,Hard,SF,409,111,0,Q,2,Benjamin Bonzi,Nicolas Moreno De Alboran,6-3 4-6 6-2,0.92,2.6%,1.3%,64.5%,79.6%,40.7%,2/5,47.5%,31.4%,0.0%,25.5%,40.0%,1/5,162,2,1,76,49,27,0,1:50
+26-Jul-2021,Segovia CH,3,Hard,QF,409,172,1,Q,8,Nicolas Moreno De Alboran,Altug Celikbilek,6-4 6-2,1.54,2.0%,3.9%,66.7%,76.5%,64.7%,1/1,57.3%,42.3%,11.5%,17.6%,54.3%,3/4,103,1,2,51,34,17,6,1:06
+26-Jul-2021,Segovia CH,3,Hard,R16,409,188,1,Q,9,Nicolas Moreno De Alboran,Cem Ilkel,6-4 6-0,2.38,16.7%,2.4%,76.2%,84.4%,60.0%,1/1,63.4%,51.0%,2.0%,45.0%,72.7%,4/6,93,7,1,42,32,10,1,0:58
+26-Jul-2021,Segovia CH,3,Hard,R32,409,428,1,Q,Q,Nicolas Moreno De Alboran,Luca Vanni,6-4 6-3,1.29,15.8%,5.3%,66.7%,76.3%,68.4%,1/1,55.8%,34.0%,12.8%,20.8%,47.8%,2/2,104,9,3,57,38,19,6,1:14
+26-Jul-2021,Segovia CH,3,Hard,Q2,409,382,1,WC,7,Nicolas Moreno De Alboran,Alessandro Bega,6-3 4-6 6-3,1.22,6.3%,1.3%,62.5%,68.0%,63.3%,3/6,53.8%,41.3%,2.5%,38.2%,48.0%,5/7,160,5,1,80,50,30,2,1:48
+26-Jul-2021,Segovia CH,3,Hard,Q1,409,353,1,WC,3,Nicolas Moreno De Alboran,Lucas Catarina,6-4 7-6(3),1.30,10.1%,10.1%,58.0%,82.5%,51.7%,2/3,54.3%,39.4%,2.8%,32.4%,47.1%,2/5,140,7,7,69,40,29,2,1:40
+19-Jul-2021,M25 Idanha-a-Nova,3,Hard,QF,468,1163,0,3,Q,Alejandro Moro Canas,Nicolas Moreno De Alboran,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M25 Idanha-a-Nova,3,Hard,R16,468,703,1,3,,Nicolas Moreno De Alboran,Alexander Cozbinov,3-6 7-6(0) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M25 Idanha-a-Nova,3,Hard,R32,468,702,1,3,,Nicolas Moreno De Alboran,Takuto Niki,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M25 Idanha-a-Nova,3,Hard,F,460,497,1,7,5,Nicolas Moreno De Alboran,Zane Khan,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M25 Idanha-a-Nova,3,Hard,SF,460,402,1,7,2,Nicolas Moreno De Alboran,Anton Matusevich,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M25 Idanha-a-Nova,3,Hard,QF,460,548,1,7,,Nicolas Moreno De Alboran,Joao Lucas Reis Da Silva,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M25 Idanha-a-Nova,3,Hard,R16,460,956,1,7,,Nicolas Moreno De Alboran,Diego Fernandez Flores,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M25 Idanha-a-Nova,3,Hard,R32,460,1110,1,7,Q,Nicolas Moreno De Alboran,John Echeverria,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Wroclaw,3,Clay,R32,513,374,0,,3,Vladyslav Orlov,Nicolas Moreno De Alboran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Klosters,3,Clay,F,516,380,1,,7,Nicolas Moreno De Alboran,Francesco Forti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Klosters,3,Clay,SF,516,293,1,,1,Nicolas Moreno De Alboran,Dominic Stricker,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Klosters,3,Clay,QF,516,422,1,,8,Nicolas Moreno De Alboran,Matheus Pucinelli De Almeida,6-7(5) 7-6(11) 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Klosters,3,Clay,R16,516,334,1,,3,Nicolas Moreno De Alboran,Alexander Erler,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Klosters,3,Clay,R32,516,1062,1,,WC,Nicolas Moreno De Alboran,Jeffrey Von Der Schulenburg,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Antalya,3,Clay,R16,546,540,0,,8,Gonzalo Lama,Nicolas Moreno De Alboran,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Antalya,3,Clay,R32,546,1383,1,,,Nicolas Moreno De Alboran,Alex Barrena,6-0 7-6(9),,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Antalya,3,Clay,F,546,488,1,6,4,Nicolas Moreno De Alboran,Giovanni Fonio,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Antalya,3,Clay,SF,546,412,1,6,2,Nicolas Moreno De Alboran,Sandro Ehrat,4-6 6-2 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Antalya,3,Clay,QF,546,,1,6,,Nicolas Moreno De Alboran,Toby Alex Kodat,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Antalya,3,Clay,R16,546,959,1,6,Q,Nicolas Moreno De Alboran,Ignacio Carou,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Antalya,3,Clay,R32,546,815,1,6,WC,Nicolas Moreno De Alboran,Sarp Agabigun,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M15 Antalya,3,Clay,QF,563,333,0,7,1,Orlando Luz,Nicolas Moreno De Alboran,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M15 Antalya,3,Clay,R16,563,1706,1,7,Q,Nicolas Moreno De Alboran,Edouard Villoslada,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M15 Antalya,3,Clay,R32,563,595,1,7,,Nicolas Moreno De Alboran,Daniele Capecchi,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,F,565,531,0,7,6,Nick Hardt,Nicolas Moreno De Alboran,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,SF,565,414,1,7,4,Nicolas Moreno De Alboran,Francesco Forti,6-2 7-6(8),,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,QF,565,722,1,7,Q,Nicolas Moreno De Alboran,Luca Nardi,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,R16,565,763,1,7,WC,Nicolas Moreno De Alboran,Ignacio Monzon,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,R32,565,,1,7,,Nicolas Moreno De Alboran,Leo Borg,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,M15 Las Palmas de Gran Canaria,3,Clay,R16,565,501,0,,6,Johan Nikles,Nicolas Moreno De Alboran,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,M15 Las Palmas de Gran Canaria,3,Clay,R32,565,1236,1,,Q,Nicolas Moreno De Alboran,Daniel Rincon,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Sharm El Sheikh,3,Hard,SF,574,494,0,8,6,Paul Jubb,Nicolas Moreno De Alboran,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Sharm El Sheikh,3,Hard,QF,574,357,1,8,2,Nicolas Moreno De Alboran,Yuta Shimizu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Sharm El Sheikh,3,Hard,R16,574,1049,1,8,,Nicolas Moreno De Alboran,Issei Okamura,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Sharm El Sheikh,3,Hard,R32,574,680,1,8,,Nicolas Moreno De Alboran,Kelsey Stevenson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Sharm El Sheikh,3,Hard,R16,571,500,0,,8,Paul Jubb,Nicolas Moreno De Alboran,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Sharm El Sheikh,3,Hard,R32,571,1913,1,,Q,Nicolas Moreno De Alboran,Toby D Boyer,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Monastir,3,Hard,R32,566,957,0,8,PR,Christoph Negritu,Nicolas Moreno De Alboran,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Sharm El Sheikh,3,Hard,SF,577,362,0,WC,3,Jan Satral,Nicolas Moreno De Alboran,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Sharm El Sheikh,3,Hard,QF,577,443,1,WC,,Nicolas Moreno De Alboran,Zsombor Piros,6-0 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Sharm El Sheikh,3,Hard,R16,577,1135,1,WC,Q,Nicolas Moreno De Alboran,Keisuke Saitoh,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Sharm El Sheikh,3,Hard,R32,577,417,1,WC,7,Nicolas Moreno De Alboran,Rio Noguchi,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Sharm El Sheikh,3,Hard,QF,597,472,0,SE,,Marek Gengel,Nicolas Moreno De Alboran,6-7(3) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Sharm El Sheikh,3,Hard,R16,597,417,1,SE,7,Nicolas Moreno De Alboran,Rio Noguchi,7-6(11) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Sharm El Sheikh,3,Hard,R32,597,559,1,SE,Q,Nicolas Moreno De Alboran,Erik Crepaldi,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,F,596,733,0,,Q,Gonzalo Lama,Nicolas Moreno De Alboran,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,SF,596,1185,1,,,Nicolas Moreno De Alboran,Roman Andres Burruchaga,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,QF,596,989,1,,Q,Nicolas Moreno De Alboran,Rimpei Kawakami,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,R16,596,405,1,,4,Nicolas Moreno De Alboran,Facundo Diaz Acosta,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,R32,596,594,1,,,Nicolas Moreno De Alboran,Jose Fco Vidal Azorin,7-6(10) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Madrid,3,Clay,R32,593,482,0,,7,Eduard Esteve Lobato,Nicolas Moreno De Alboran,3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Benicarlo,3,Clay,R16,590,474,0,,6,Antoine Cornut Chauvinc,Nicolas Moreno De Alboran,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Benicarlo,3,Clay,R32,590,570,1,,,Nicolas Moreno De Alboran,Ben Fatael,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Villena,3,Clay,R32,589,359,0,Q,3,Nikolas Sanchez Izquierdo,Nicolas Moreno De Alboran,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Valldoreix,3,Clay,R16,589,358,0,,3,Nikolas Sanchez Izquierdo,Nicolas Moreno De Alboran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Valldoreix,3,Clay,R32,589,559,1,,,Nicolas Moreno De Alboran,Jaume Pla Malfeito,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,QF,582,525,0,,,Riccardo Balzerani,Nicolas Moreno De Alboran,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R16,582,390,1,,1,Nicolas Moreno De Alboran,Stefan Kozlov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R32,582,593,1,,,Nicolas Moreno De Alboran,Arnaud Bovy,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,R32,582,477,0,,6,Lucas Catarina,Nicolas Moreno De Alboran,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Loule,3,Hard,R16,587,1016,1,8,,Nicolas Moreno De Alboran,Arthur Cazaux,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Loule,3,Hard,R32,587,1302,1,8,WC,Nicolas Moreno De Alboran,Fabio Coelho,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,R32,595,583,0,,8,Tiago Cacao,Nicolas Moreno De Alboran,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,QF,591,483,0,7,2,Ricardo Ojeda Lara,Nicolas Moreno De Alboran,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,R16,591,1817,1,7,Q,Nicolas Moreno De Alboran,Alexandre Aubriot,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,R32,591,774,1,7,,Nicolas Moreno De Alboran,Luis Faria,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Monastir,3,Hard,QF,629,942,0,6,Q,Aziz Kijametovic,Nicolas Moreno De Alboran,6-7(4) 6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Monastir,3,Hard,R16,629,913,1,6,WC,Nicolas Moreno De Alboran,Majed Kilani,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Monastir,3,Hard,R32,629,,1,6,,Nicolas Moreno De Alboran,Nino Ehrenschneider,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Monastir,3,Hard,SF,628,623,0,,8,Tiago Cacao,Nicolas Moreno De Alboran,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Monastir,3,Hard,QF,628,1174,1,,Q,Nicolas Moreno De Alboran,Omar Giacalone,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Monastir,3,Hard,R16,628,802,1,,,Nicolas Moreno De Alboran,Sebastian Prechtel,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Monastir,3,Hard,R32,628,641,1,,,Nicolas Moreno De Alboran,Karl Friberg,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Dec-2019,M15 Monastir,3,Hard,QF,662,342,0,,4,Arthur Rinderknech,Nicolas Moreno De Alboran,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Dec-2019,M15 Monastir,3,Hard,R16,662,702,1,,,Nicolas Moreno De Alboran,Paul Woerner,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Dec-2019,M15 Monastir,3,Hard,R32,662,776,1,,,Nicolas Moreno De Alboran,Andrea Guerrieri,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Monastir,3,Hard,R16,666,521,0,,5,Ergi Kirkin,Nicolas Moreno De Alboran,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Monastir,3,Hard,R32,666,,1,,WC,Nicolas Moreno De Alboran,Seif Adas,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Monastir,3,Hard,QF,718,431,0,,,Jan Satral,Nicolas Moreno De Alboran,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Monastir,3,Hard,R16,718,443,1,,2,Nicolas Moreno De Alboran,Benjamin Lock,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Monastir,3,Hard,R32,718,1019,1,,WC,Nicolas Moreno De Alboran,Majed Kilani,6-7(4) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Monastir,3,Hard,QF,718,806,0,,,Nicolas Alvarez Varona,Nicolas Moreno De Alboran,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Monastir,3,Hard,R16,718,447,1,,2,Nicolas Moreno De Alboran,Aziz Dougaz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Monastir,3,Hard,R32,718,1021,1,,,Nicolas Moreno De Alboran,Joshua Paris,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M15 Getafe Madrid,3,Hard,R16,798,804,0,,,Anton Matusevich,Nicolas Moreno De Alboran,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M15 Getafe Madrid,3,Hard,R32,798,657,1,,,Nicolas Moreno De Alboran,Lucas Poullain,4-6 6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Tabarka,3,Clay,F,832,783,0,,,Ignacio Monzon,Nicolas Moreno De Alboran,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Tabarka,3,Clay,SF,832,688,1,,,Nicolas Moreno De Alboran,Simone Roncalli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Tabarka,3,Clay,QF,832,542,1,,2,Nicolas Moreno De Alboran,Juan Ignacio Galarza,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Tabarka,3,Clay,R16,832,,1,,Q,Nicolas Moreno De Alboran,Julian Cundom,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Tabarka,3,Clay,R32,832,,1,,Q,Nicolas Moreno De Alboran,Ignacio Vinas,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Tabarka,3,Clay,QF,831,708,0,8,,Fermin Tenti,Nicolas Moreno De Alboran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Tabarka,3,Clay,R16,831,1320,1,8,,Nicolas Moreno De Alboran,Boris Butulija,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Tabarka,3,Clay,R32,831,838,1,8,,Nicolas Moreno De Alboran,Constantin Bittoun Kouzmine,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Sao Bras Alportel,3,Hard,R16,807,757,0,,8,Luke Johnson,Nicolas Moreno De Alboran,6-3 6-7(9) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Sao Bras Alportel,3,Hard,R32,807,1148,1,,,Nicolas Moreno De Alboran,Filipe Brandao,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Memphis TN,3,Hard,R16,850,446,0,,4,Evan Song,Nicolas Moreno De Alboran,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Memphis TN,3,Hard,R32,850,860,1,,IR  ,Nicolas Moreno De Alboran,Alexander Cozbinov,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R16,849,969,0,WC,,Petros Chrysochos,Nicolas Moreno De Alboran,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R32,849,697,1,WC,,Nicolas Moreno De Alboran,Connor Farren,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,Lexington CH,3,Hard,R32,,203,0,WC,5,Duck Hee Lee,Nicolas Moreno De Alboran,6-2 6-3,0.52,5.0%,2.5%,75.0%,53.3%,20.0%,0/4,36.0%,28.6%,14.3%,16.0%,41.7%,1/2,89,2,1,40,30,10,7,1:04
+29-Jul-2019,Lexington CH,3,Hard,R64,,448,1,WC,,Nicolas Moreno De Alboran,Tim Van Rijthoven,6-2 7-6(9),1.38,4.1%,5.4%,73.0%,79.6%,55.0%,4/5,56.0%,37.3%,14.9%,18.4%,62.1%,3/5,141,3,4,74,54,20,10,1:35
+8-Jul-2019,M15 Cancun,3,Hard,SF,,,0,,4,Gage Brymer,Nicolas Moreno De Alboran,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Cancun,3,Hard,QF,,574,1,,2,Nicolas Moreno De Alboran,Luis Patino,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Cancun,3,Hard,R16,,,1,,,Nicolas Moreno De Alboran,Herbert Jody Maginley,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Cancun,3,Hard,R32,,,1,,,Nicolas Moreno De Alboran,Justin Roberts,5-7 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M15 Cancun,3,Hard,F,,,0,,4,Nicolas Mejia,Nicolas Moreno De Alboran,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M15 Cancun,3,Hard,SF,,643,1,,,Nicolas Moreno De Alboran,Nick Chappell,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M15 Cancun,3,Hard,QF,,557,1,,,Nicolas Moreno De Alboran,Gerardo Lopez Villasenor,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M15 Cancun,3,Hard,R16,,,1,,,Nicolas Moreno De Alboran,Juan Alejandro Hernandez Serrano,1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M15 Cancun,3,Hard,R32,,,1,,8,Nicolas Moreno De Alboran,Alejandro Mendoza,5-7 6-3 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,USA F24,3,Hard,QF,,1012,0,Q,,Samuel Shropshire,Nicolas Moreno De Alboran,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,USA F24,3,Hard,R16,,,1,Q,WC,Nicolas Moreno De Alboran,Zachary Svajda,6-0 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,USA F24,3,Hard,R32,,1264,1,Q,,Nicolas Moreno De Alboran,Skyler Butts,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Spain F27,3,Clay,R32,1871,697,0,Q,,Joao Menezes,Nicolas Moreno De Alboran,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Portugal F16,3,Hard,R32,1678,1061,0,Q,Q,Maxime Tchoutakian,Nicolas Moreno De Alboran,6-2 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Belarus F1,3,Hard,R32,1678,621,0,Q,8,Markos Kalovelonis,Nicolas Moreno De Alboran,3-6 7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R16,1647,620,0,Q,7,Alexios Halebian,Nicolas Moreno De Alboran,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R32,1647,1866,1,Q,WC,Nicolas Moreno De Alboran,Evan Zhu,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,R16,,348,0,Q,1,Sekou Bangoura,Nicolas Moreno De Alboran,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,R32,,,1,Q,Q,Nicolas Moreno De Alboran,Alexander Donski,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Dominican Republic F1,3,Clay,R32,,860,0,WC,,Alan Kohen,Nicolas Moreno De Alboran,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

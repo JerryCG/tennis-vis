@@ -1,0 +1,533 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+24-Jun-1996,Wimbledon,5,Grass,R128,267,97,0,WC,,Nicolas Pereira,Jeremy Bates,6-2 6-3 6-4,0.64,3.4%,3.4%,66.3%,64.4%,43.3%,5/9,41.0%,27.4%,10.4%,21.0%,48.0%,0/5,195,3,3,89,59,30,11,1:43
+10-Jun-1996,Queen's Club,3,Grass,R64,238,151,0,WC,,Jared Palmer,Jeremy Bates,6-1 6-2,0.67,2.6%,5.3%,47.4%,50.0%,50.0%,1/5,40.0%,33.3%,5.3%,21.6%,55.0%,0/6,95,1,2,38,18,20,3,0:53
+8-Apr-1996,Malaysia 1 Masters 3,3,Hard,SF,238,378,0,1,3,Andrew Foster,Jeremy Bates,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 4,3,Hard,SF,238,624,0,1,,Filippo Veglio,Jeremy Bates,6-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 3,3,Hard,QF,238,569,1,1,8,Jeremy Bates,Bjorn Jacob,6-7 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 4,3,Hard,QF,238,786,1,1,,Jeremy Bates,Thomas Perchtold,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 3,3,Hard,R16,238,870,1,1,,Jeremy Bates,Pascal Lasserre,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 4,3,Hard,R16,238,861,1,1,,Jeremy Bates,Hidehiko Tanizawa,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 3,3,Hard,R32,238,758,1,1,,Jeremy Bates,Andrej Bizjak,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1996,Malaysia 1 Masters 4,3,Hard,R32,238,,1,1,Q,Jeremy Bates,Markus Menzler,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-1996,Bromma CH,3,Hard,R16,160,242,0,,,Lars Rehmann,Jeremy Bates,W/O,,,,,,,,,,,,,,,,,,,,,
+4-Mar-1996,Bromma CH,3,Hard,R32,160,117,1,,6,Jeremy Bates,Richard Fromberg,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-1996,Cherbourg CH,3,Hard,R32,156,153,0,,,Hicham Arazi,Jeremy Bates,6-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-1996,Hamburen CH,3,Carpet,R16,158,155,0,,,Nicolas Kiefer,Jeremy Bates,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-1996,Hamburen CH,3,Carpet,R32,158,220,1,,Q,Jeremy Bates,Tuomas Ketola,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-1996,Wolfsburg CH,3,Carpet,R16,164,103,0,,1,Thomas Johansson,Jeremy Bates,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Feb-1996,Wolfsburg CH,3,Carpet,R32,164,267,1,,Q,Jeremy Bates,Jim Pugh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-1996,Shanghai,3,Carpet,R32,161,73,0,,1,Jeff Tarango,Jeremy Bates,6-4 7-6(3),0.88,7.9%,10.5%,48.7%,67.6%,48.7%,6/9,47.4%,36.8%,6.6%,27.3%,61.9%,2/7,152,6,8,76,37,39,5,1:25
+16-Oct-1995,Beijing,3,Carpet,R16,120,5,0,,1,Michael Chang,Jeremy Bates,6-3 6-2,0.48,5.6%,0.0%,52.8%,84.2%,29.4%,0/3,37.0%,20.0%,15.6%,8.7%,31.8%,0/0,81,2,0,36,19,17,7,0:51
+16-Oct-1995,Beijing,3,Carpet,R32,120,148,1,,,Jeremy Bates,Albert Chang,6-2 6-4,1.32,4.3%,1.4%,71.0%,65.3%,50.0%,4/6,56.8%,51.8%,5.4%,53.3%,45.5%,5/10,125,3,1,69,49,20,3,1:08
+9-Oct-1995,Tokyo Indoor,3,Carpet,R32,110,21,0,,6,Todd Martin,Jeremy Bates,3-6 6-4 6-4,0.87,9.2%,5.5%,59.6%,73.8%,36.4%,9/12,48.7%,35.7%,19.0%,25.5%,48.6%,3/4,193,10,6,109,65,44,16,1:49
+9-Oct-1995,Tokyo Indoor,3,Carpet,R64,110,123,1,,,Jeremy Bates,Bryan Shelton,6-7(7) 7-6(2) 7-5,0.95,6.1%,6.9%,62.6%,84.1%,42.9%,6/7,50.2%,29.7%,9.3%,20.3%,42.9%,2/3,249,8,9,131,82,49,11,2:28
+2-Oct-1995,Kuala Lumpur,3,Carpet,R32,106,43,0,,7,Byron Black,Jeremy Bates,7-6(7) 7-6(2),0.99,7.5%,3.8%,51.2%,75.6%,53.8%,3/5,49.4%,34.5%,7.1%,20.0%,47.7%,2/5,164,6,3,80,41,39,6,1:45
+11-Sep-1995,Bordeaux,3,Hard,R32,108,113,0,,,Johan Van Herck,Jeremy Bates,6-3 7-6(1),0.73,2.9%,4.3%,58.6%,68.3%,41.4%,2/5,44.8%,31.3%,6.3%,25.0%,45.0%,1/7,134,2,3,70,41,29,4,1:25
+28-Aug-1995,US Open,5,Hard,R128,106,85,0,,,Emilio Sanchez,Jeremy Bates,6-2 6-2 6-3,0.40,6.0%,3.0%,54.0%,68.5%,39.1%,9/14,40.4%,18.2%,3.0%,14.6%,27.8%,0/0,166,6,3,100,54,46,2,
+14-Aug-1995,Indianapolis,3,Hard,R64,96,131,0,,,Jerome Golmard,Jeremy Bates,6-3 7-5,0.81,6.4%,14.9%,44.7%,66.7%,34.6%,7/12,45.7%,41.4%,8.6%,26.9%,50.0%,3/6,164,6,14,94,42,52,6,1:44
+24-Jul-1995,Canada Masters,3,Hard,R64,93,14,0,,Q,Richard Krajicek,Jeremy Bates,7-5 6-2,0.72,3.3%,6.7%,46.7%,64.3%,46.9%,4/8,43.4%,32.3%,12.9%,18.9%,52.0%,1/3,122,2,4,60,28,32,8,1:11
+17-Jul-1995,Manchester CH,3,Grass,R16,91,316,0,1,,Christian Saceanu,Jeremy Bates,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-1995,Manchester CH,3,Grass,R32,91,263,1,1,,Jeremy Bates,Mikael Stadling,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-1995,Bristol CH,3,Grass,F,104,355,1,1,,Jeremy Bates,Andrew Foster,6-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-1995,Bristol CH,3,Grass,SF,104,254,1,1,,Jeremy Bates,Peter Tramacchi,6-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-1995,Bristol CH,3,Grass,QF,104,292,1,1,,Jeremy Bates,Massimo Calvelli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-1995,Bristol CH,3,Grass,R16,104,275,1,1,,Jeremy Bates,Todd Larkham,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-1995,Bristol CH,3,Grass,R32,104,327,1,1,WC,Jeremy Bates,Barry Cowan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-1995,Wimbledon,5,Grass,R128,88,303,0,,,Derrick Rostagno,Jeremy Bates,7-6(3) 6-4 7-5,0.90,6.2%,5.4%,65.1%,67.9%,33.3%,8/14,48.2%,39.8%,7.6%,32.1%,55.0%,4/7,247,8,7,129,84,45,9,2:07
+19-Jun-1995,Nottingham,3,Grass,R32,85,34,0,,4,Alexander Volkov,Jeremy Bates,7-5 7-5,0.78,6.6%,6.6%,51.3%,64.1%,43.2%,5/10,45.2%,35.7%,12.9%,21.1%,53.1%,3/9,146,5,5,76,39,37,9,1:19
+12-Jun-1995,Queen's Club,3,Grass,R16,90,2,0,,1,Pete Sampras,Jeremy Bates,6-3 7-5,0.80,4.3%,10.1%,50.7%,68.6%,35.3%,7/11,44.7%,38.3%,16.0%,34.0%,45.2%,2/8,150,3,7,69,35,34,13,1:17
+12-Jun-1995,Queen's Club,3,Grass,R32,90,231,1,,WC,Jeremy Bates,Tim Henman,6-4 7-6(4),1.14,3.9%,1.3%,57.9%,65.9%,68.8%,2/3,51.6%,37.6%,8.2%,29.6%,51.6%,2/6,161,3,1,76,44,32,7,1:32
+12-Jun-1995,Queen's Club,3,Grass,R64,90,105,1,,,Jeremy Bates,Markus Zoecke,6-4 6-3,1.25,6.9%,3.4%,60.3%,74.3%,47.8%,3/4,53.4%,45.2%,8.2%,31.7%,62.5%,4/9,131,4,2,58,35,23,6,1:15
+29-May-1995,Roland Garros,5,Clay,R128,81,88,0,,,Guillaume Raoux,Jeremy Bates,6-3 6-0 0-6 7-5,0.88,2.9%,2.9%,53.3%,50.0%,51.0%,9/17,46.6%,43.5%,5.3%,26.6%,59.7%,5/11,236,3,3,105,56,49,7,
+22-May-1995,Bologna,3,Clay,R32,81,109,0,,,Mats Wilander,Jeremy Bates,6-0 3-6 7-5,0.83,3.4%,3.4%,55.7%,59.2%,48.7%,7/13,46.2%,37.6%,1.2%,32.4%,58.8%,3/10,173,3,3,88,49,39,1,2:01
+24-Apr-1995,Seoul,3,Hard,R32,78,239,0,3,Q,Bing Pan,Jeremy Bates,6-1 2-0 RET,0.41,0.0%,4.8%,52.4%,27.3%,40.0%,0/3,30.0%,27.6%,0.0%,21.7%,50.0%,0/0,50,0,1,21,11,10,0,0:33
+17-Apr-1995,Hong Kong,3,Hard,R32,54,11,0,,2,Wayne Ferreira,Jeremy Bates,7-5 6-4,0.87,3.0%,3.0%,48.5%,68.8%,47.1%,3/7,47.0%,36.8%,10.3%,25.0%,53.6%,2/7,134,2,2,66,32,34,7,1:16
+3-Apr-1995,Johannesburg,3,Hard,SF,62,67,0,2,3,Martin Sinner,Jeremy Bates,6-1 7-6(3),0.64,7.0%,8.8%,54.4%,71.0%,46.2%,2/4,42.0%,25.8%,11.3%,10.3%,39.4%,0/2,119,4,5,57,31,26,7,1:10
+3-Apr-1995,Johannesburg,3,Hard,QF,62,304,1,2,Q,Jeremy Bates,Neville Godwin,6-3 6-2,1.38,9.7%,8.1%,59.7%,70.3%,56.0%,4/5,57.1%,49.1%,7.0%,43.3%,55.6%,4/10,119,6,5,62,37,25,4,1:07
+3-Apr-1995,Johannesburg,3,Hard,R16,62,269,1,2,WC,Jeremy Bates,Kevin Ullyett,7-6(4) 2-6 6-4,0.98,7.0%,9.0%,43.0%,79.1%,38.6%,3/9,49.7%,43.3%,6.2%,42.9%,43.6%,5/11,197,7,9,100,43,57,6,2:01
+3-Apr-1995,Johannesburg,3,Hard,R32,62,147,1,2,,Jeremy Bates,Rodolphe Gilbert,7-6(5) 0-6 6-4,0.75,3.3%,6.5%,51.1%,72.3%,40.0%,3/7,45.6%,32.5%,3.9%,23.1%,42.1%,2/5,169,3,6,92,47,45,3,1:45
+13-Mar-1995,St. Petersburg,3,Carpet,R32,67,240,0,8,WC,Pat Cash,Jeremy Bates,6-3 7-5,0.77,5.4%,10.8%,36.5%,66.7%,53.2%,8/11,46.3%,32.3%,9.7%,9.7%,54.8%,1/1,136,4,8,74,27,47,6,1:36
+6-Mar-1995,Copenhagen,3,Carpet,QF,67,85,0,7,,Andrei Olhovskiy,Jeremy Bates,6-1 6-0,0.50,10.0%,8.0%,52.0%,53.8%,25.0%,9/14,35.5%,30.2%,14.0%,16.0%,50.0%,0/0,93,5,4,50,26,24,6,0:50
+6-Mar-1995,Copenhagen,3,Carpet,R16,67,99,1,7,,Jeremy Bates,Sebastien Lareau,7-6(10) 7-5,1.10,12.1%,3.3%,47.3%,76.7%,45.8%,5/7,51.5%,43.7%,9.7%,23.5%,63.5%,3/11,194,11,3,91,43,48,10,1:58
+6-Mar-1995,Copenhagen,3,Carpet,R32,67,92,1,7,,Jeremy Bates,Joern Renzenbrink,6-2 7-6(5),1.64,3.4%,5.1%,59.3%,80.0%,58.3%,0/1,56.8%,47.2%,10.1%,31.5%,71.4%,3/14,148,2,3,59,35,24,9,1:23
+27-Feb-1995,Rotterdam,3,Carpet,R32,67,85,0,,Q,Andrei Olhovskiy,Jeremy Bates,6-3 6-4,0.46,9.3%,5.6%,46.3%,68.0%,48.3%,2/5,40.0%,19.6%,19.6%,9.7%,40.0%,1/2,100,5,3,54,25,29,9,0:58
+20-Feb-1995,Cherbourg CH,3,Hard,QF,69,133,0,1,8,Rodolphe Gilbert,Jeremy Bates,6-3 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
+20-Feb-1995,Cherbourg CH,3,Hard,R16,69,165,1,1,,Jeremy Bates,Thierry Guardiola,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-1995,Cherbourg CH,3,Hard,R32,69,129,1,1,,Jeremy Bates,Younes El Aynaoui,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-1995,Dubai,3,Hard,R32,66,222,0,,LL,Carsten Arriens,Jeremy Bates,6-3 6-4,0.61,1.9%,3.8%,52.8%,64.3%,44.0%,0/3,40.5%,27.6%,10.3%,16.7%,39.3%,1/3,111,1,2,53,28,25,6,1:11
+16-Jan-1995,Australian Open,5,Hard,R64,73,65,0,,,Patrick Mcenroe,Jeremy Bates,6-3 7-5 6-3,0.88,4.7%,1.9%,66.4%,63.4%,33.3%,11/18,46.7%,41.4%,2.3%,37.0%,51.2%,3/20,240,5,2,107,71,36,3,2:20
+16-Jan-1995,Australian Open,5,Hard,R128,73,64,1,,,Jeremy Bates,Henrik Holm,6-4 6-7(5) 3-6 7-6(5) 6-3,0.99,0.6%,3.9%,57.5%,70.2%,36.4%,13/22,49.6%,43.8%,8.2%,19.4%,74.4%,9/24,375,1,7,181,104,77,16,3:06
+9-Jan-1995,Auckland,3,Hard,R16,73,28,0,,2,Alexander Volkov,Jeremy Bates,6-2 6-4,0.52,5.6%,1.9%,38.9%,81.0%,36.4%,0/4,40.0%,23.9%,8.7%,14.3%,32.0%,1/2,100,3,1,54,21,33,4,1:05
+9-Jan-1995,Auckland,3,Hard,R32,73,211,1,,Q,Jeremy Bates,Brian Dunn,7-5 0-1 RET,1.44,6.5%,3.2%,64.5%,85.0%,63.6%,0/0,52.1%,32.5%,12.5%,20.0%,45.0%,1/2,71,2,1,31,20,11,5,0:41
+2-Jan-1995,Adelaide,3,Hard,R16,77,43,0,,8,Mark Woodforde,Jeremy Bates,7-6(6) 6-4,0.79,5.2%,13.0%,50.6%,84.6%,31.6%,2/4,46.0%,32.9%,5.5%,26.3%,40.0%,1/3,150,4,10,77,39,38,4,1:31
+2-Jan-1995,Adelaide,3,Hard,R32,77,92,1,,,Jeremy Bates,Joern Renzenbrink,6-4 4-6 6-4,1.04,1.2%,4.8%,51.2%,69.8%,56.1%,0/3,50.6%,38.4%,10.5%,29.2%,50.0%,4/7,170,1,4,84,43,41,9,1:41
+7-Nov-1994,Antwerp,3,Carpet,R32,74,9,0,,3,Stefan Edberg,Jeremy Bates,4-6 6-4 6-3,0.92,7.4%,0.0%,58.0%,76.6%,58.8%,5/7,47.9%,28.4%,4.5%,17.0%,45.7%,1/4,169,6,0,81,47,34,4,1:41
+24-Oct-1994,Brest CH,3,Hard,F,98,246,1,,Q,Jeremy Bates,Lionel Barthez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-1994,Brest CH,3,Hard,SF,98,100,1,,,Jeremy Bates,Gianluca Pozzi,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-1994,Brest CH,3,Hard,QF,98,78,1,,7,Jeremy Bates,Joern Renzenbrink,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-1994,Brest CH,3,Hard,R16,98,309,1,,Q,Jeremy Bates,Pier Gauthier,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+24-Oct-1994,Brest CH,3,Hard,R32,98,171,1,,WC,Jeremy Bates,Thierry Guardiola,6-3 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1994,Lyon,3,Carpet,R32,83,22,0,,8,Malivai Washington,Jeremy Bates,6-7(5) 6-2 6-4,0.80,4.2%,5.1%,52.5%,67.7%,33.9%,12/19,45.5%,38.5%,2.9%,32.8%,46.5%,4/13,222,5,6,118,62,56,3,2:11
+10-Oct-1994,Ostrava,3,Carpet,QF,92,76,0,,,Martin Damm Sr,Jeremy Bates,6-2 6-3,0.28,3.3%,1.6%,32.8%,70.0%,43.9%,3/7,37.8%,13.5%,18.9%,0.0%,38.5%,0/0,98,2,1,61,20,41,7,1:09
+10-Oct-1994,Ostrava,3,Carpet,R16,92,44,1,,,Jeremy Bates,Alexander Volkov,7-5 7-6(3),1.21,9.9%,2.8%,43.7%,77.4%,57.5%,1/3,52.2%,40.9%,11.4%,35.0%,45.8%,3/8,159,7,2,71,31,40,10,1:37
+10-Oct-1994,Ostrava,3,Carpet,R32,92,,1,,WC,Jeremy Bates,Nicolas Kiefer,6-1 6-3,-,6.5%,4.3%,54.3%,84.0%,57.1%,2/2,71.7%,-,-,-,-,0/0,46,3,2,46,25,21,0,0:58
+3-Oct-1994,Toulouse,3,Hard,R16,84,23,0,,4,Cedric Pioline,Jeremy Bates,6-1 6-1,0.17,6.4%,6.4%,51.1%,58.3%,26.1%,2/7,29.5%,9.7%,12.9%,0.0%,37.5%,0/0,78,3,3,47,24,23,4,0:49
+3-Oct-1994,Toulouse,3,Hard,R32,84,90,1,,Q,Jeremy Bates,Guillaume Raoux,7-5 6-1,1.52,8.9%,5.4%,51.8%,79.3%,70.4%,1/1,57.5%,38.0%,4.0%,29.2%,46.2%,3/5,106,5,3,56,29,27,2,1:10
+26-Sep-1994,Kuala Lumpur,3,Carpet,R32,73,191,0,3,Q,Kenny Thorne,Jeremy Bates,6-3 1-6 7-6(4),0.99,2.2%,6.7%,51.7%,67.4%,67.4%,6/7,49.7%,32.2%,3.3%,22.6%,53.6%,2/5,179,2,6,89,46,43,3,1:51
+19-Sep-1994,Singapore CH,3,Hard,R16,73,225,0,1,,Chris Wilkinson,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Sep-1994,Singapore CH,3,Hard,R32,73,155,1,1,,Jeremy Bates,Michael Joyce,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-1994,US Open,5,Hard,R128,73,121,0,,,Maurice Ruah,Jeremy Bates,6-7(3) 7-6(5) 6-4 2-6 6-4,0.80,4.2%,6.0%,47.7%,76.7%,37.2%,18/24,47.0%,35.0%,3.7%,28.8%,45.8%,6/15,379,9,13,216,103,113,6,
+22-Aug-1994,Schenectady,3,Hard,R32,72,123,0,,,Steve Bryan,Jeremy Bates,6-3 6-1,0.59,5.6%,7.4%,40.7%,68.2%,37.5%,2/6,40.0%,29.4%,5.9%,21.6%,50.0%,0/4,105,3,4,54,22,32,3,1:02
+15-Aug-1994,Indianapolis,3,Hard,R32,75,87,0,,,Olivier Delaitre,Jeremy Bates,6-3 6-2,0.50,5.4%,3.6%,55.4%,61.3%,52.0%,6/9,40.8%,21.3%,8.5%,20.8%,21.7%,0/0,103,3,2,56,31,25,4,1:03
+15-Aug-1994,Indianapolis,3,Hard,R64,75,24,1,,11,Jeremy Bates,Jaime Yzaga,6-4 6-3,1.49,11.3%,1.9%,54.7%,89.7%,50.0%,2/2,56.4%,42.1%,5.3%,39.4%,45.8%,3/4,110,6,1,53,29,24,3,1:01
+25-Jul-1994,Canada Masters,3,Hard,R32,77,6,0,,3,Michael Chang,Jeremy Bates,6-1 6-3,0.58,0.0%,11.8%,54.9%,53.6%,34.8%,2/7,39.1%,31.7%,4.9%,32.0%,31.3%,1/1,92,0,6,51,28,23,2,0:56
+25-Jul-1994,Canada Masters,3,Hard,R64,77,50,1,,,Jeremy Bates,David Rikl,6-3 3-6 6-1,1.20,3.7%,14.8%,42.0%,88.2%,53.2%,1/2,54.3%,38.6%,7.1%,34.3%,42.9%,3/3,151,3,12,81,34,47,5,1:29
+18-Jul-1994,Washington,3,Hard,R64,76,84,0,,,Alex Antonitsch,Jeremy Bates,6-7(5) 6-4 7-6(5),0.86,4.0%,7.1%,51.6%,66.2%,50.8%,3/8,48.1%,35.5%,6.5%,30.0%,42.6%,4/11,233,5,9,126,65,61,7,2:31
+15-Jul-1994,Davis Cup G1 PO: GBR vs ROU,3,Grass,RR,76,783,0,,,Razvan Sabau,Jeremy Bates,0-6 3-6 7-6(3) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1994,Davis Cup G1 PO: GBR vs ROU,3,Grass,RR,76,314,1,,,Jeremy Bates,Andrei Pavel,6-3 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-1994,Bristol CH,3,Grass,R16,76,258,0,1,,Marco Meneschincheri,Jeremy Bates,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-1994,Bristol CH,3,Grass,R32,76,196,1,1,,Jeremy Bates,Lionel Barthez,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1994,Wimbledon,5,Grass,R16,85,,0,,,Guy Forget,Jeremy Bates,2-6 6-1 6-3 6-1,0.64,1.8%,2.7%,57.3%,65.1%,38.3%,7/13,42.1%,29.8%,12.5%,19.4%,48.6%,2/2,214,2,3,110,63,47,13,
+20-Jun-1994,Wimbledon,5,Grass,R32,85,104,1,,,Jeremy Bates,Markus Zoecke,6-4 6-4 3-6 6-3,0.87,2.2%,4.4%,52.6%,79.2%,52.3%,11/13,48.7%,29.4%,15.1%,21.3%,48.6%,4/9,263,3,6,137,72,65,19,
+20-Jun-1994,Wimbledon,5,Grass,R64,85,88,1,,,Jeremy Bates,Joern Renzenbrink,6-2 7-6(3) 6-4,1.35,3.0%,5.1%,56.6%,83.9%,48.8%,1/2,54.1%,42.3%,11.4%,18.8%,67.8%,4/7,222,3,5,99,56,43,14,
+20-Jun-1994,Wimbledon,5,Grass,R128,85,128,1,,,Jeremy Bates,Gianluca Pozzi,7-5 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-1994,Manchester,3,Grass,R32,80,421,0,,,Omar Camporese,Jeremy Bates,4-6 6-1 6-4,0.81,5.8%,9.3%,58.1%,76.0%,38.9%,4/7,45.8%,31.9%,9.9%,24.5%,42.1%,1/6,177,5,8,86,50,36,9,1:58
+6-Jun-1994,Queen's Club,3,Grass,QF,94,127,0,,,Jan Apell,Jeremy Bates,6-3 7-5,0.63,6.3%,6.3%,61.3%,67.3%,35.5%,7/11,44.4%,28.3%,15.1%,29.0%,27.3%,1/2,133,5,5,80,49,31,8,1:22
+6-Jun-1994,Queen's Club,3,Grass,R16,94,142,1,,,Jeremy Bates,Daniel Nestor,6-4 3-6 6-4,1.19,3.7%,4.9%,59.8%,75.5%,51.5%,6/9,51.9%,40.8%,3.9%,30.6%,56.1%,4/13,185,3,4,82,49,33,4,1:56
+6-Jun-1994,Queen's Club,3,Grass,R32,94,10,1,,6,Jeremy Bates,Boris Becker,7-5 7-6(8),1.00,6.5%,9.8%,56.5%,78.8%,52.5%,3/3,50.9%,32.5%,9.6%,22.7%,43.6%,1/3,175,6,9,92,52,40,8,2:00
+6-Jun-1994,Queen's Club,3,Grass,R64,94,89,1,,,Jeremy Bates,Guillaume Raoux,7-5 6-3,1.32,4.1%,2.7%,45.9%,76.5%,60.0%,7/7,54.4%,42.9%,6.0%,37.3%,51.5%,3/9,158,3,2,74,34,40,5,1:37
+25-Apr-1994,Taipei CH,3,Hard,R32,96,175,0,7,,Daniel Nestor,Jeremy Bates,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-1994,Seoul,3,Hard,F,131,113,1,,,Jeremy Bates,Joern Renzenbrink,6-4 6-7(6) 6-3,1.12,1.0%,0.0%,59.6%,74.2%,52.4%,4/6,52.2%,38.8%,10.7%,26.2%,57.1%,4/11,207,1,0,104,62,42,11,2:09
+18-Apr-1994,Seoul,3,Hard,SF,131,91,1,,6,Jeremy Bates,Jan Siemerink,6-3 2-6 7-6(4),1.03,7.0%,2.3%,58.1%,74.0%,55.6%,1/3,48.3%,34.8%,9.6%,26.0%,52.6%,2/13,201,6,2,86,50,36,11,2:06
+18-Apr-1994,Seoul,3,Hard,QF,131,67,1,,2,Jeremy Bates,Chuck Adams,6-4 7-5,1.25,3.4%,3.4%,52.5%,77.4%,64.3%,0/1,52.8%,35.9%,4.7%,26.8%,52.2%,3/8,123,2,2,59,31,28,3,1:21
+18-Apr-1994,Seoul,3,Hard,R16,131,95,1,,8,Jeremy Bates,Maurice Ruah,6-1 6-2,2.31,4.4%,4.4%,53.3%,95.8%,57.1%,1/1,65.5%,51.3%,2.6%,53.3%,44.4%,4/6,84,2,2,45,24,21,1,0:49
+18-Apr-1994,Seoul,3,Hard,R32,131,438,1,,WC,Jeremy Bates,Yong Il Yoon,6-4 6-7(2) 6-3,1.09,3.1%,5.2%,63.5%,70.5%,42.9%,3/7,51.8%,43.2%,2.1%,37.7%,52.9%,6/9,191,3,5,96,61,35,2,2:01
+4-Apr-1994,Tokyo Outdoor,3,Hard,R64,127,105,0,,,Jeff Tarango,Jeremy Bates,6-1 5-7 6-3,0.86,6.1%,7.1%,59.2%,55.2%,40.0%,10/18,46.4%,43.8%,5.2%,32.1%,60.0%,5/12,194,6,7,98,58,40,5,1:57
+25-Mar-1994,Davis Cup G1 SF: POR vs GBR,3,Clay,RR,119,348,0,,,Emanuel Couto,Jeremy Bates,6-3 5-7 4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Mar-1994,Davis Cup G1 SF: POR vs GBR,3,Clay,RR,119,198,0,,,Nuno Marques,Jeremy Bates,4-6 6-1 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Feb-1994,Copenhagen,3,Carpet,R32,117,47,0,,3,Magnus Larsson,Jeremy Bates,6-3 6-0,0.50,4.2%,10.4%,35.4%,70.6%,38.7%,5/9,38.0%,25.0%,15.9%,14.3%,34.8%,0/1,92,2,5,48,17,31,7,0:57
+14-Feb-1994,Cherbourg CH,3,Carpet,R32,119,263,0,6,WC,Lionel Roux,Jeremy Bates,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-1994,Rennes CH,3,Hard,QF,120,216,0,8,Q,Johan Van Herck,Jeremy Bates,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-1994,Rennes CH,3,Hard,R16,120,223,1,8,,Jeremy Bates,Thierry Champion,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-1994,Rennes CH,3,Hard,R32,120,161,1,8,,Jeremy Bates,Kevin Ullyett,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jan-1994,Marseille,3,Carpet,R32,92,13,0,,3,Boris Becker,Jeremy Bates,6-2 6-4,0.65,2.0%,4.1%,40.8%,65.0%,41.4%,2/6,41.4%,32.0%,18.0%,16.0%,48.0%,1/3,99,1,2,49,20,29,9,1:11
+6-Dec-1993,Hong Kong CH,3,Hard,R16,97,176,0,1,,Daniele Musa,Jeremy Bates,6-1 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+6-Dec-1993,Hong Kong CH,3,Hard,R32,97,354,1,1,LL,Jeremy Bates,Hideki Kaneko,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Nov-1993,Kuala Lumpur2 CH,3,Hard,R16,97,508,0,1,Q,Lars Rehmann,Jeremy Bates,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Nov-1993,Kuala Lumpur2 CH,3,Hard,R32,97,310,1,1,,Jeremy Bates,Leonardo Lavalle,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Nov-1993,Jakarta CH,3,Hard,QF,97,167,0,1,,Sebastien Lareau,Jeremy Bates,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Nov-1993,Jakarta CH,3,Hard,R16,97,306,1,1,Q,Jeremy Bates,Axel Finnberg,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Nov-1993,Jakarta CH,3,Hard,R32,97,182,1,1,,Jeremy Bates,Arne Thoms,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-1993,Brest CH,3,Carpet,R32,97,101,0,,,Kenneth Carlsen,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1993,Gothenburg CH,3,Carpet,F,105,243,1,1,Q,Jeremy Bates,Alex Radulescu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1993,Gothenburg CH,3,Carpet,SF,105,288,1,1,,Jeremy Bates,Peter Lundgren,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1993,Gothenburg CH,3,Carpet,QF,105,695,1,1,Q,Jeremy Bates,Jan Gunnarsson,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1993,Gothenburg CH,3,Carpet,R16,105,751,1,1,Q,Jeremy Bates,Johan Donar,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1993,Gothenburg CH,3,Carpet,R32,105,272,1,1,,Jeremy Bates,Marian Vajda,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-1993,Bolzano,3,Carpet,R16,107,12,0,,2,Cedric Pioline,Jeremy Bates,7-6(4) 7-5,0.67,10.5%,5.3%,51.6%,69.4%,43.5%,8/10,44.3%,29.1%,21.5%,26.8%,34.8%,1/9,174,10,5,95,49,46,17,1:46
+11-Oct-1993,Bolzano,3,Carpet,R32,107,173,1,,Q,Jeremy Bates,Dimitri Poliakov,7-6(6) 6-4,1.24,6.7%,0.0%,49.3%,83.8%,55.3%,3/5,53.6%,38.2%,3.9%,37.2%,39.4%,3/7,151,5,0,75,37,38,3,1:35
+4-Oct-1993,Dublin CH,3,Hard,F,119,186,0,3,,Paolo Cane,Jeremy Bates,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1993,Dublin CH,3,Hard,SF,119,279,1,3,LL,Jeremy Bates,Alex Radulescu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1993,Dublin CH,3,Hard,QF,119,394,1,3,Q,Jeremy Bates,Mikael Tillstrom,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1993,Dublin CH,3,Hard,R16,119,200,1,3,,Jeremy Bates,Patrick Baur,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1993,Dublin CH,3,Hard,R32,119,202,1,3,,Jeremy Bates,Sandor Noszaly,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-1993,Kuala Lumpur-2,3,Hard,QF,136,123,0,,,Neil Borwick,Jeremy Bates,6-3 6-2,0.76,0.0%,2.0%,48.0%,54.2%,50.0%,3/7,43.1%,36.4%,10.6%,28.6%,50.0%,1/8,116,0,1,50,24,26,7,1:17
+27-Sep-1993,Kuala Lumpur-2,3,Hard,R16,136,16,1,,3,Jeremy Bates,Wally Masur,6-3 6-3,2.00,4.3%,0.0%,48.9%,78.3%,79.2%,2/2,59.4%,42.6%,3.7%,32.4%,64.7%,3/5,101,2,0,47,23,24,2,1:13
+27-Sep-1993,Kuala Lumpur-2,3,Hard,R32,136,223,1,,Q,Jeremy Bates,Lars Anders Wahlgren,6-1 6-4,1.58,4.3%,2.2%,54.3%,80.0%,42.9%,0/2,60.6%,58.3%,0.0%,57.7%,59.1%,6/7,94,2,1,46,25,21,0,1:04
+20-Sep-1993,Singapore CH,3,Hard,R32,135,257,0,7,,Thomas Hogstedt,Jeremy Bates,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-1993,New Haven,3,Hard,R64,136,,0,,,Martin Damm Sr,Jeremy Bates,7-5 3-6 6-3,0.92,7.5%,5.4%,49.5%,73.9%,51.1%,5/8,48.6%,34.8%,6.5%,25.5%,48.6%,2/6,185,7,5,93,46,47,6,2:13
+26-Jul-1993,Canada Masters,3,Hard,R32,144,11,0,,6,Petr Korda,Jeremy Bates,6-3 6-2,0.66,4.3%,11.6%,49.3%,55.9%,40.0%,5/10,41.9%,34.5%,9.1%,30.3%,40.9%,1/5,124,3,8,69,34,35,5,1:17
+26-Jul-1993,Canada Masters,3,Hard,R64,144,53,1,,,Jeremy Bates,Jamie Morgan,2-6 6-2 6-2,1.21,0.0%,6.3%,55.0%,70.5%,44.4%,3/7,54.6%,50.0%,4.2%,45.7%,54.1%,6/9,152,0,5,80,44,36,3,1:47
+19-Jul-1993,Washington,3,Hard,R64,140,51,0,,14,Jaime Yzaga,Jeremy Bates,7-6(3) 6-3,0.93,5.6%,11.3%,43.7%,61.3%,47.5%,4/9,48.6%,43.3%,0.0%,36.7%,61.1%,3/5,138,4,8,71,31,40,0,1:36
+5-Jul-1993,Bristol CH,3,Grass,SF,129,240,0,1,WC,Chris Bailey,Jeremy Bates,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-1993,Bristol CH,3,Grass,QF,129,219,1,1,7,Jeremy Bates,Mark Petchey,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jul-1993,Bristol CH,3,Grass,R16,129,210,1,1,WC,Jeremy Bates,Andrew Foster,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-1993,Bristol CH,3,Grass,R32,129,314,1,1,,Jeremy Bates,Alex Radulescu,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-1993,Wimbledon,5,Grass,R128,100,89,0,,,Javier Frana,Jeremy Bates,6-4 7-5 7-6(4),0.81,2.8%,2.8%,69.4%,65.3%,51.5%,5/9,45.6%,31.4%,10.2%,26.5%,42.9%,2/4,226,3,3,108,75,33,12,
+14-Jun-1993,Manchester,3,Grass,QF,98,21,0,,4,Wally Masur,Jeremy Bates,6-4 6-3,0.81,0.0%,7.1%,62.5%,51.4%,47.6%,7/12,45.0%,40.6%,4.7%,36.2%,52.9%,3/10,120,0,4,56,35,21,3,1:12
+14-Jun-1993,Manchester,3,Grass,R16,98,363,1,,Q,Jeremy Bates,Philippe Pech,6-4 6-2,1.43,0.0%,1.8%,54.4%,64.5%,61.5%,3/5,58.0%,52.7%,0.0%,48.3%,57.7%,5/7,112,0,1,57,31,26,0,1:11
+14-Jun-1993,Manchester,3,Grass,R32,98,106,1,,Q,Jeremy Bates,Byron Black,3-6 6-3 7-5,1.07,5.6%,5.6%,71.1%,73.4%,38.5%,3/6,51.4%,39.1%,3.4%,34.5%,48.3%,4/6,177,5,5,90,64,26,3,1:42
+7-Jun-1993,Queen's Club,3,Grass,R32,102,9,0,,6,Michael Stich,Jeremy Bates,6-3 6-2,0.62,2.0%,6.1%,38.8%,63.2%,56.7%,1/4,42.0%,25.5%,17.6%,4.3%,42.9%,0/3,100,1,3,49,19,30,9,1:04
+7-Jun-1993,Queen's Club,3,Grass,R64,102,87,1,,,Jeremy Bates,Patrik Kuhnen,4-6 6-4 6-0,1.26,1.2%,7.2%,62.7%,69.2%,58.1%,4/6,54.0%,44.1%,14.0%,22.6%,72.5%,5/9,176,1,6,83,52,31,13,1:52
+24-May-1993,Roland Garros,5,Clay,R128,101,114,0,,,Slava Dosedel,Jeremy Bates,6-3 6-2 6-1,0.50,0.0%,4.9%,45.7%,54.1%,34.1%,4/11,36.4%,28.6%,1.4%,22.4%,58.3%,1/3,151,0,4,81,37,44,1,1:32
+19-Apr-1993,Nagoya CH,3,Hard,QF,81,328,0,1,,Grant Doyle,Jeremy Bates,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-1993,Nagoya CH,3,Hard,R16,81,494,1,1,WC,Jeremy Bates,Ryuso Tsujino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-1993,Nagoya CH,3,Hard,R32,81,320,1,1,,Jeremy Bates,Andrew Foster,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Apr-1993,Hong Kong,3,Hard,R16,83,2,0,,1,Jim Courier,Jeremy Bates,6-1 6-4,0.58,8.0%,4.0%,58.0%,65.5%,33.3%,0/3,39.4%,27.8%,9.3%,17.2%,40.0%,0/2,104,4,2,50,29,21,5,1:15
+12-Apr-1993,Hong Kong,3,Hard,R32,83,88,1,,,Jeremy Bates,Chuck Adams,6-4 7-5,1.14,11.9%,6.0%,56.7%,68.4%,48.3%,2/5,52.5%,45.9%,5.4%,29.7%,62.2%,5/11,141,8,4,67,38,29,4,1:30
+5-Apr-1993,Tokyo Outdoor,3,Hard,R64,87,54,0,,15,Guillaume Raoux,Jeremy Bates,7-6(3) 6-3,0.66,3.3%,0.0%,60.0%,69.4%,58.3%,0/2,43.8%,23.0%,13.1%,17.2%,28.1%,0/0,121,2,0,60,36,24,8,1:17
+29-Mar-1993,Osaka,3,Hard,R16,86,158,0,,Q,Greg Rusedski,Jeremy Bates,6-4 7-6(3),0.73,0.0%,1.0%,68.7%,60.3%,48.4%,12/15,46.4%,31.9%,17.4%,18.6%,53.8%,2/3,168,0,1,99,68,31,12,1:36
+29-Mar-1993,Osaka,3,Hard,R32,86,,1,,,Jeremy Bates,Martin Damm Sr,6-1 7-5,1.30,0.0%,2.9%,52.9%,75.0%,50.0%,7/8,55.7%,47.6%,6.3%,42.9%,53.6%,5/9,131,0,2,68,36,32,4,1:19
+1-Mar-1993,Garmisch CH,3,Carpet,R32,76,185,0,1,,Nicklas Utgren,Jeremy Bates,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-1993,Rotterdam,3,Carpet,R32,78,71,0,Q,,Omar Camporese,Jeremy Bates,6-2 6-0,0.49,2.5%,5.0%,42.5%,35.3%,43.5%,3/8,34.5%,29.5%,11.4%,14.3%,43.5%,0/0,84,1,2,40,17,23,5,0:59
+15-Feb-1993,Emden CH,3,Carpet,QF,79,195,0,1,8,Tomas Nydahl,Jeremy Bates,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1993,Emden CH,3,Carpet,R16,79,219,1,1,,Jeremy Bates,Martin Laurendeau,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1993,Emden CH,3,Carpet,R32,79,272,1,1,,Jeremy Bates,Olivier Soules,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-1993,Dubai,3,Hard,SF,114,39,0,,8,Fabrice Santoro,Jeremy Bates,6-2 6-3,0.63,0.0%,0.0%,54.0%,44.4%,52.2%,7/12,40.6%,32.6%,0.0%,18.5%,52.6%,2/3,96,0,0,50,27,23,0,1:12
+1-Feb-1993,Dubai,3,Hard,QF,114,26,1,,4,Jeremy Bates,Carl Uwe Steeb,7-5 6-1,1.16,0.0%,2.4%,55.3%,68.1%,44.7%,9/10,54.1%,49.2%,3.3%,48.7%,50.0%,5/8,146,0,2,85,47,38,2,1:42
+1-Feb-1993,Dubai,3,Hard,R16,114,124,1,,,Jeremy Bates,Joao Cunha Silva,3-6 6-3 6-3,1.25,0.0%,2.4%,73.8%,69.4%,50.0%,4/6,53.1%,44.5%,0.0%,43.0%,48.4%,4/15,194,0,2,84,62,22,0,2:22
+1-Feb-1993,Dubai,3,Hard,R32,114,48,1,,,Jeremy Bates,Christian Bergstrom,7-6(4) 6-1,1.17,3.2%,6.5%,45.2%,85.7%,44.1%,4/5,52.7%,43.5%,1.4%,40.7%,53.3%,4/7,131,2,4,62,28,34,1,1:26
+18-Jan-1993,Australian Open,5,Hard,R128,112,338,0,,WC,Heath Denman,Jeremy Bates,0-6 6-3 6-2 6-4,0.98,1.9%,3.9%,49.5%,74.5%,44.2%,5/9,47.1%,39.8%,10.5%,27.6%,56.2%,3/17,274,2,4,103,51,52,18,
+11-Jan-1993,Auckland,3,Hard,R32,108,281,0,,WC,Kelly Evernden,Jeremy Bates,6-2 6-1,0.58,0.0%,4.4%,51.1%,60.9%,36.4%,3/7,38.5%,29.4%,3.9%,14.8%,45.8%,0/5,96,0,2,45,23,22,2,1:03
+4-Jan-1993,Doha,3,Hard,R32,105,275,0,,Q,Yevgeny Kafelnikov,Jeremy Bates,6-3 6-3,0.67,3.6%,1.8%,43.6%,54.2%,45.2%,2/6,41.4%,33.9%,3.6%,25.0%,42.9%,1/3,111,2,1,55,24,31,2,1:13
+9-Nov-1992,Moscow,3,Carpet,R32,106,46,0,,8,Marc Rosset,Jeremy Bates,6-4 6-4,0.61,1.6%,6.3%,52.4%,72.7%,43.3%,0/3,43.5%,25.0%,25.0%,6.9%,47.8%,1/1,115,1,4,63,33,30,13,1:07
+26-Oct-1992,Brest CH,3,Hard,R16,103,133,0,,,David Prinosil,Jeremy Bates,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-1992,Brest CH,3,Hard,R32,103,113,1,,,Jeremy Bates,Karsten Braasch,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-1992,Sydney Indoor,3,Hard,R64,90,214,0,,WC,Neil Borwick,Jeremy Bates,6-1 6-4,0.44,0.0%,3.2%,56.5%,77.1%,25.9%,4/7,40.2%,20.0%,26.7%,3.4%,50.0%,0/0,107,0,2,62,35,27,12,1:02
+25-Sep-1992,Davis Cup WG PO: IND vs GBR,3,Grass,RR,90,255,0,,,Leander Paes,Jeremy Bates,6-2 6-7(3) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1992,New Haven,3,Hard,R64,90,110,0,,,Byron Black,Jeremy Bates,6-1 6-0,0.50,0.0%,4.5%,50.0%,45.5%,13.6%,5/12,32.0%,35.5%,6.5%,36.8%,33.3%,1/1,75,0,2,44,22,22,2,0:49
+3-Aug-1992,Los Angeles,3,Hard,R32,79,91,0,,,Mark Woodforde,Jeremy Bates,6-3 6-2,0.61,3.0%,13.6%,51.5%,73.5%,31.3%,7/10,42.4%,28.8%,11.5%,11.5%,46.2%,0/1,118,2,9,66,34,32,6,
+20-Jul-1992,Canada Masters,3,Hard,R64,80,127,0,,,Todd Martin,Jeremy Bates,6-1 6-4,0.41,2.0%,12.0%,54.0%,59.3%,39.1%,2/6,36.2%,20.5%,9.1%,12.5%,30.0%,1/1,94,1,6,50,27,23,4,1:05
+13-Jul-1992,Washington,3,Hard,R16,91,114,0,,,Henrik Holm,Jeremy Bates,7-5 3-0 RET,0.79,0.0%,7.9%,57.9%,54.5%,37.5%,2/6,43.7%,41.5%,9.2%,23.5%,61.3%,2/9,103,0,3,38,22,16,6,1:18
+13-Jul-1992,Washington,3,Hard,R32,91,17,1,,5,Jeremy Bates,John Mcenroe,6-2 1-6 6-4,0.96,11.6%,4.7%,58.1%,74.0%,33.3%,6/9,49.4%,41.3%,6.3%,20.5%,61.0%,4/8,166,10,4,86,50,36,5,2:12
+13-Jul-1992,Washington,3,Hard,R64,91,105,1,,,Jeremy Bates,Francisco Montana,7-6(14) 6-3,1.13,0.0%,0.0%,82.5%,68.2%,42.9%,4/5,52.1%,41.0%,0.0%,43.2%,22.2%,3/7,163,0,0,80,66,14,0,2:00
+6-Jul-1992,Newport,3,Grass,R32,90,61,0,,6,Bryan Shelton,Jeremy Bates,4-6 7-6(4) 6-4,0.88,8.4%,8.4%,52.6%,90.0%,53.3%,2/3,48.4%,24.2%,7.4%,8.9%,46.2%,1/7,190,8,8,95,50,45,7,2:05
+22-Jun-1992,Wimbledon,5,Grass,R16,113,9,0,,9,Guy Forget,Jeremy Bates,6-7(10) 6-4 3-6 7-6(2) 6-3,0.75,4.9%,2.0%,69.1%,73.8%,50.8%,10/14,46.6%,25.1%,16.2%,12.2%,48.5%,2/5,395,10,4,204,141,63,31,3:48
+22-Jun-1992,Wimbledon,5,Grass,R32,113,50,1,,,Jeremy Bates,Thierry Champion,7-5 6-4 6-7(3) 4-6 6-4,1.02,5.8%,1.9%,64.3%,68.4%,47.3%,17/23,50.9%,39.9%,2.1%,36.5%,58.6%,8/14,395,12,4,207,133,74,4,3:56
+22-Jun-1992,Wimbledon,5,Grass,R64,113,32,1,,,Jeremy Bates,Javier Sanchez,7-6(4) 6-3 6-4,1.18,4.3%,4.3%,53.8%,82.5%,53.7%,8/8,53.3%,36.4%,4.5%,19.1%,64.3%,2/6,227,5,5,117,63,54,5,2:06
+22-Jun-1992,Wimbledon,5,Grass,R128,113,7,1,,7,Jeremy Bates,Michael Chang,6-4 6-3 6-3,1.16,2.6%,6.0%,61.5%,69.4%,35.6%,6/9,53.7%,50.5%,2.1%,41.1%,63.4%,7/14,214,3,7,117,72,45,2,2:20
+15-Jun-1992,Manchester,3,Grass,R16,109,29,0,WC,5,Malivai Washington,Jeremy Bates,4-6 6-4 6-3,0.95,4.9%,7.3%,58.5%,75.0%,41.2%,4/8,48.8%,36.9%,14.3%,31.3%,44.4%,3/9,166,4,6,82,48,34,12,1:55
+15-Jun-1992,Manchester,3,Grass,R32,109,75,1,WC,,Jeremy Bates,Rodolphe Gilbert,7-5 7-5,1.68,16.4%,6.0%,56.7%,86.8%,65.5%,2/2,54.8%,37.5%,5.7%,25.0%,47.9%,2/12,155,11,4,67,38,29,5,1:30
+8-Jun-1992,Queen's Club,3,Grass,R64,106,122,0,WC,,Guillaume Raoux,Jeremy Bates,6-3 6-4,0.82,4.3%,4.3%,54.3%,64.0%,52.4%,2/6,44.1%,33.8%,7.7%,18.2%,66.7%,2/8,111,2,2,46,25,21,5,1:10
+4-May-1992,Kuala Lumpur1 CH,3,Hard,F,125,104,0,6,3,Sandon Stolle,Jeremy Bates,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-1992,Kuala Lumpur1 CH,3,Hard,SF,125,213,1,6,,Jeremy Bates,Fernon Wibier,6-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-1992,Kuala Lumpur1 CH,3,Hard,QF,125,220,1,6,,Jeremy Bates,Chris Bailey,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-1992,Kuala Lumpur1 CH,3,Hard,R16,125,225,1,6,,Jeremy Bates,Richard Matuszewski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-1992,Kuala Lumpur1 CH,3,Hard,R32,125,154,1,6,,Jeremy Bates,Chris Wilkinson,6-0 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1992,Taipei CH,3,Hard,F,144,128,0,,,Sandon Stolle,Jeremy Bates,6-3 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1992,Taipei CH,3,Hard,SF,144,122,1,,,Jeremy Bates,Alexander Mronz,6-2 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1992,Taipei CH,3,Hard,QF,144,113,1,,8,Jeremy Bates,Gary Muller,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1992,Taipei CH,3,Hard,R16,144,299,1,,Q,Jeremy Bates,Patrick Rafter,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1992,Taipei CH,3,Hard,R32,144,164,1,,,Jeremy Bates,Thomas Hogstedt,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Apr-1992,Nagoya CH,3,Hard,R32,144,243,0,1,,Glenn Michibata,Jeremy Bates,7-5 1-6 7-6,,,,,,,,,,,,,,,,,,,,,
+30-Mar-1992,Johannesburg,3,Hard,R16,144,173,0,,,Xavier Daufresne,Jeremy Bates,6-2 7-5,0.71,1.7%,5.0%,70.0%,59.5%,27.8%,4/9,42.6%,35.5%,6.5%,25.0%,54.5%,2/7,122,1,3,60,42,18,4,1:09
+30-Mar-1992,Johannesburg,3,Hard,R32,144,136,1,,,Jeremy Bates,Danilo Marcelino,6-2 6-3,1.82,6.4%,6.4%,63.8%,86.7%,58.8%,1/1,59.6%,42.6%,4.3%,30.8%,57.1%,4/7,94,3,3,47,30,17,2,0:49
+10-Feb-1992,Great Britain 1 Masters 1,3,Carpet,F,162,201,1,1,2,Jeremy Bates,Chris Wilkinson,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 2,3,Carpet,F,162,312,1,1,,Jeremy Bates,Chris Bailey,6-4 1-6 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 3,3,Carpet,F,162,201,0,1,2,Chris Wilkinson,Jeremy Bates,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 1,3,Carpet,SF,162,333,1,1,,Jeremy Bates,Danny Sapsford,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 2,3,Carpet,SF,162,543,1,1,Q,Jeremy Bates,Paul Koscielski,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 3,3,Carpet,SF,162,248,1,1,4,Jeremy Bates,Brian Joelson,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 4,3,Carpet,SF,162,500,0,1,,Johan Donar,Jeremy Bates,1-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 1,3,Carpet,QF,162,419,1,1,LL,Jeremy Bates,Douglas Geiwald,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 2,3,Carpet,QF,162,335,1,1,,Jeremy Bates,Alessandro Dalboni,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 3,3,Carpet,QF,162,820,1,1,7,Jeremy Bates,Andrew Richardson,6-2 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 4,3,Carpet,QF,162,261,1,1,7,Jeremy Bates,Massimo Ardinghi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 1,3,Carpet,R16,162,331,1,1,,Jeremy Bates,Marius Barnard,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 2,3,Carpet,R16,162,409,1,1,,Jeremy Bates,Brian Garrow,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 3,3,Carpet,R16,162,254,1,1,,Jeremy Bates,Mark Petchey,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 4,3,Carpet,R16,162,409,1,1,,Jeremy Bates,Brian Garrow,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 1,3,Carpet,R32,162,335,1,1,,Jeremy Bates,Alessandro Dalboni,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 2,3,Carpet,R32,162,685,1,1,Q,Jeremy Bates,Pavel Vizner,6-1 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1992,Great Britain 1 Masters 3,3,Carpet,R32,162,584,1,1,,Jeremy Bates,Sean Cole,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jan-1992,Davis Cup WG R1: FRA vs GBR,3,Carpet,RR,163,159,0,,,Henri Leconte,Jeremy Bates,4-6 6-4 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jan-1992,Davis Cup WG R1: FRA vs GBR,3,Carpet,RR,163,7,0,,,Guy Forget,Jeremy Bates,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-1992,Australian Open,5,Hard,R128,169,1,0,Q,1,Stefan Edberg,Jeremy Bates,6-4 6-2 6-4,0.60,2.5%,2.5%,58.8%,55.3%,54.5%,3/9,42.0%,27.1%,1.4%,23.1%,38.9%,2/2,150,2,2,80,47,33,1,1:37
+4-Nov-1991,Birmingham,3,Carpet,R16,153,54,0,WC,6,Thierry Champion,Jeremy Bates,6-7(6) 7-5 6-1,0.84,5.6%,2.8%,54.2%,56.9%,44.9%,2/10,46.2%,40.8%,3.9%,42.3%,37.5%,5/10,210,6,3,107,58,49,4,2:08
+4-Nov-1991,Birmingham,3,Carpet,R32,153,70,1,WC,,Jeremy Bates,Christian Saceanu,4-6 7-6(6) 6-4,1.18,5.8%,5.8%,54.8%,77.2%,55.3%,8/11,52.6%,38.5%,5.5%,23.0%,58.3%,3/6,213,6,6,104,57,47,6,2:20
+7-Oct-1991,Cherbourg CH,3,Hard,F,179,133,1,2,1,Jeremy Bates,Byron Black,7-5 1-6 7-6,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1991,Cherbourg CH,3,Hard,SF,179,265,1,2,,Jeremy Bates,Laurent Prades,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1991,Cherbourg CH,3,Hard,QF,179,283,1,2,,Jeremy Bates,Lionel Barthez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1991,Cherbourg CH,3,Hard,R16,179,306,1,2,,Jeremy Bates,Mark Kaplan,7-5 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1991,Cherbourg CH,3,Hard,R32,179,278,1,2,,Jeremy Bates,Kent Kinnear,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-1991,Davis Cup WG PO: GBR vs AUT,3,Grass,RR,186,198,1,,,Jeremy Bates,Thomas Buchmayer,6-2 4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Sep-1991,Davis Cup WG PO: GBR vs AUT,3,Grass,RR,186,422,0,,,Gerald Mandl,Jeremy Bates,7-5 4-6 10-8,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 1,3,Hard,F,202,800,1,1,LL,Jeremy Bates,Hitoshi Shirato,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 2,3,Hard,F,202,834,1,1,Q,Jeremy Bates,Zeeshan Ali,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 3,3,Hard,F,202,426,0,1,,Chris Wilkinson,Jeremy Bates,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 1,3,Hard,SF,202,579,1,1,,Jeremy Bates,Srdan Muskatirovic,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 2,3,Hard,SF,202,409,1,1,3,Jeremy Bates,Bing Chao Lin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 3,3,Hard,SF,202,579,1,1,6,Jeremy Bates,Srdan Muskatirovic,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 1,3,Hard,QF,202,408,1,1,7,Jeremy Bates,Ryuso Tsujino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 2,3,Hard,QF,202,499,1,1,8,Jeremy Bates,Laurence Tieleman,6-4 0-6 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 3,3,Hard,QF,202,1091,1,1,7,Jeremy Bates,Jin Soo Lee,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 1,3,Hard,R16,202,588,1,1,,Jeremy Bates,Andrew Mclean,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 2,3,Hard,R16,202,579,1,1,,Jeremy Bates,Srdan Muskatirovic,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 3,3,Hard,R16,202,664,1,1,,Jeremy Bates,Tom Toomey,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 4,3,Hard,R16,202,804,0,1,,Andrew Florent,Jeremy Bates,3-6 0-2 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 1,3,Hard,R32,202,483,1,1,,Jeremy Bates,Suharyadi Suharyadi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 2,3,Hard,R32,202,,1,1,WC,Jeremy Bates,Selvam Veerasingam,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-1991,Malaysia 2 Masters 3,3,Hard,R32,202,578,1,1,,Jeremy Bates,Mark Ferreira,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-1991,Wimbledon,5,Grass,R64,195,92,0,WC,,Tim Mayotte,Jeremy Bates,6-3 3-6 6-4 7-6(2),1.01,1.6%,3.3%,68.3%,66.7%,61.5%,6/9,48.7%,35.1%,12.8%,27.6%,45.9%,2/12,271,2,4,123,84,39,19,2:40
+24-Jun-1991,Wimbledon,5,Grass,R128,195,117,1,WC,,Jeremy Bates,Jose Francisco Altur,6-4 6-4 6-2,1.55,4.9%,3.7%,67.9%,87.3%,46.2%,1/1,56.5%,40.2%,2.3%,32.2%,57.1%,4/6,168,4,3,81,55,26,2,1:31
+17-Jun-1991,Manchester,3,Grass,R16,209,11,0,WC,2,Goran Ivanisevic,Jeremy Bates,6-3 6-4,0.68,3.8%,3.8%,67.3%,60.0%,70.6%,1/3,43.5%,25.0%,17.9%,14.7%,40.9%,0/1,108,2,2,52,35,17,10,0:52
+17-Jun-1991,Manchester,3,Grass,R32,209,46,1,WC,,Jeremy Bates,Paul Haarhuis,6-4 7-6(4),1.25,1.3%,4.0%,62.7%,76.6%,64.3%,5/5,53.7%,35.1%,6.8%,23.4%,55.6%,1/9,149,1,3,75,47,28,5,1:28
+10-Jun-1991,Queen's Club,3,Grass,R32,219,80,0,WC,,Malivai Washington,Jeremy Bates,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1991,Queen's Club,3,Grass,R64,219,84,1,WC,,Jeremy Bates,David Pate,6-4 6-2,1.30,1.9%,9.3%,66.7%,77.8%,44.4%,0/1,55.1%,43.4%,7.5%,38.7%,50.0%,4/9,107,1,5,54,36,18,4,1:02
+3-May-1991,Davis Cup G1 SF: POL vs GBR,3,Clay,RR,211,827,1,,,Jeremy Bates,Tomasz Iwanski,6-4 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+3-May-1991,Davis Cup G1 SF: POL vs GBR,3,Clay,RR,211,261,0,,,Wojtek Kowalski,Jeremy Bates,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-1991,Taipei CH,3,Hard,QF,178,194,0,,,Neil Borwick,Jeremy Bates,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-1991,Taipei CH,3,Hard,R16,178,170,1,,,Jeremy Bates,Martin Laurendeau,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+15-Apr-1991,Taipei CH,3,Hard,R32,178,90,1,,5,Jeremy Bates,Tim Mayotte,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-1991,Jakarta CH,3,Clay,R16,141,211,0,3,,Vaclav Roubicek,Jeremy Bates,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-1991,Jakarta CH,3,Clay,R32,141,355,1,3,WC,Jeremy Bates,Daniel Heryanto,6-1 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-1991,Australian Open,5,Hard,R128,142,2,0,,2,Boris Becker,Jeremy Bates,6-4 6-2 6-3,0.63,1.0%,2.0%,55.4%,64.3%,28.9%,6/13,41.7%,32.4%,12.2%,24.0%,50.0%,2/5,175,1,2,101,56,45,9,2:30
+17-Dec-1990,Hong Kong CH,3,Hard,R16,128,434,0,3,Q,Felix Barrientos,Jeremy Bates,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+17-Dec-1990,Hong Kong CH,3,Hard,R32,128,207,1,3,,Jeremy Bates,Menno Oosting,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Nov-1990,Munich CH,3,Carpet,R32,128,169,0,,,Christian Saceanu,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-1990,The Hague CH,3,Carpet,QF,113,86,0,,,Patrik Kuhnen,Jeremy Bates,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-1990,The Hague CH,3,Carpet,R16,113,115,1,,,Jeremy Bates,David Engel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-1990,The Hague CH,3,Carpet,R32,113,84,1,,,Jeremy Bates,Alexander Mronz,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-1990,Wembley,3,Carpet,R16,118,16,0,WC,3,Michael Chang,Jeremy Bates,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-1990,Wembley,3,Carpet,R32,118,79,1,WC,,Jeremy Bates,Ramesh Krishnan,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+22-Oct-1990,Brest CH,3,Hard,R32,119,137,0,,,Michael Tauson,Jeremy Bates,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Oct-1990,Vienna,3,Carpet,R32,100,59,0,,7,Jimmy Arias,Jeremy Bates,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-1990,Davis Cup WG PO: GBR vs FRA,3,Grass,RR,101,15,0,,,Guy Forget,Jeremy Bates,2-6 7-6(5) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-1990,Davis Cup WG PO: GBR vs FRA,3,Grass,RR,101,23,0,,,Henri Leconte,Jeremy Bates,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Aug-1990,US Open,5,Hard,R128,101,71,0,,,Veli Paloheimo,Jeremy Bates,6-3 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-1990,Schenectady,3,Hard,R16,104,71,0,,7,Kelly Evernden,Jeremy Bates,5-7 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+20-Aug-1990,Schenectady,3,Hard,R32,104,,1,,WC,Jeremy Bates,Daniel Montes De Oca,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Aug-1990,Indianapolis,3,Hard,R64,97,286,0,,WC,Robert Seguso,Jeremy Bates,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+6-Aug-1990,Cincinnati Masters,3,Hard,R64,94,99,0,,WC,Joey Rive,Jeremy Bates,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-1990,Bristol CH,3,Grass,R16,91,203,0,1,,Peter Nyborg,Jeremy Bates,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jul-1990,Bristol CH,3,Grass,R32,91,347,1,1,,Jeremy Bates,Byron Talbot,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-1990,Stuttgart Outdoor,3,Clay,R64,91,32,0,,,Karel Novacek,Jeremy Bates,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-1990,Wimbledon,5,Grass,R64,92,129,0,,,Derrick Rostagno,Jeremy Bates,6-1 3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-1990,Wimbledon,5,Grass,R128,92,108,1,,,Jeremy Bates,Peter Lundgren,6-7 6-7 6-4 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-1990,Manchester,3,Grass,R32,87,45,0,,5,Christo Van Rensburg,Jeremy Bates,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1990,Queen's Club,3,Grass,R64,86,49,0,,14,Alex Antonitsch,Jeremy Bates,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-1990,Roland Garros,5,Clay,R128,77,249,0,,Q,Stephane Grenier,Jeremy Bates,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-1990,Davis Cup G1 SF: ROU vs GBR,3,Clay,RR,73,293,0,,,Florin Segarceanu,Jeremy Bates,7-5 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-1990,Davis Cup G1 SF: ROU vs GBR,3,Clay,RR,73,697,1,,,Jeremy Bates,George Cosac,3-6 6-1 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-1990,Durban CH,3,Hard,F,76,484,1,2,WC,Jeremy Bates,Grant Stafford,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-1990,Durban CH,3,Hard,SF,76,148,1,2,3,Jeremy Bates,Robbie Weiss,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-1990,Durban CH,3,Hard,QF,76,181,1,2,7,Jeremy Bates,Martin Sinner,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-1990,Durban CH,3,Hard,R16,76,175,1,2,,Jeremy Bates,Christian Geyer,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-1990,Durban CH,3,Hard,R32,76,253,1,2,,Jeremy Bates,Marty Davis,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Apr-1990,Capetown1 CH,3,Hard,F,101,69,0,4,3,Gary Muller,Jeremy Bates,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-1990,Capetown1 CH,3,Hard,SF,101,176,1,4,,Jeremy Bates,Neil Borwick,4-6 6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+9-Apr-1990,Capetown1 CH,3,Hard,QF,101,135,1,4,6,Jeremy Bates,Pieter Aldrich,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+9-Apr-1990,Capetown1 CH,3,Hard,R16,101,272,1,4,,Jeremy Bates,Paul Koscielski,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Apr-1990,Capetown1 CH,3,Hard,R32,101,172,1,4,,Jeremy Bates,Mark Kaplan,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-1990,Miami Masters,3,Hard,R128,82,98,0,,,Peter Lundgren,Jeremy Bates,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-1990,Rotterdam,3,Carpet,R32,72,119,0,,WC,Slobodan Zivojinovic,Jeremy Bates,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-1990,Toronto Indoor,3,Carpet,R64,72,62,0,,,Jim Pugh,Jeremy Bates,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-1990,Milan,3,Carpet,R16,86,25,0,,,Jakob Hlasek,Jeremy Bates,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-1990,Milan,3,Carpet,R32,86,9,1,,4,Jeremy Bates,Yannick Noah,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-1990,Australian Open,5,Hard,R128,78,135,0,,,Leonardo Lavalle,Jeremy Bates,6-7 6-1 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-1990,Auckland,3,Hard,R16,88,33,0,,3,Magnus Gustafsson,Jeremy Bates,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jan-1990,Auckland,3,Hard,R32,88,72,1,,,Jeremy Bates,Jens Woehrmann,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-1990,Wellington,3,Hard,R16,89,120,0,,,Lars Anders Wahlgren,Jeremy Bates,6-4 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-1990,Wellington,3,Hard,R32,89,129,1,,,Jeremy Bates,Grant Connell,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-1989,Copenhagen CH,3,Carpet,R32,95,29,0,,1,Jan Gunnarsson,Jeremy Bates,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-1989,Johannesburg,3,Hard,SF,132,28,0,,3,Christo Van Rensburg,Jeremy Bates,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-1989,Johannesburg,3,Hard,QF,132,394,1,,Q,Jeremy Bates,Dean Botha,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-1989,Johannesburg,3,Hard,R16,132,179,1,,,Jeremy Bates,Neil Broad,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-1989,Johannesburg,3,Hard,R32,132,136,1,,,Jeremy Bates,Brad Drewett,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1989,Tel Aviv,3,Hard,R16,154,218,0,,,Gianluca Pozzi,Jeremy Bates,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1989,Tel Aviv,3,Hard,R32,154,6,1,,1,Jeremy Bates,Brad Gilbert,6-7 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+14-Aug-1989,Montreal / Toronto,3,Hard,R64,142,91,0,,,Leif Shiras,Jeremy Bates,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Aug-1989,Indianapolis,3,Hard,R32,144,84,0,,15,Michiel Schapers,Jeremy Bates,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-1989,Indianapolis,3,Hard,R64,144,110,1,,,Jeremy Bates,Thierry Tulasne,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-1989,Stratton Mountain,3,Hard,R64,136,25,0,,7,Yannick Noah,Jeremy Bates,4-6 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,134,40,1,,,Jeremy Bates,Martin Jaite,6-2 6-7(2) 6-3 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,134,10,1,,,Jeremy Bates,Alberto Mancini,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Jun-1989,Wimbledon,5,Grass,R64,135,140,0,WC,,Leif Shiras,Jeremy Bates,4-6 7-5 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-1989,Wimbledon,5,Grass,R128,135,88,1,WC,,Jeremy Bates,Cassio Motta,6-7 6-1 4-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-1989,Queen's Club,3,Grass,R32,141,50,0,,14,Derrick Rostagno,Jeremy Bates,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-1989,Queen's Club,3,Grass,R64,141,171,1,,,Jeremy Bates,Andrei Olhovskiy,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-1989,Roland Garros,5,Clay,R32,147,2,0,Q,2,Boris Becker,Jeremy Bates,7-5 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-1989,Roland Garros,5,Clay,R64,147,117,1,Q,,Jeremy Bates,Olli Rahnasto,6-3 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-1989,Roland Garros,5,Clay,R128,147,95,1,Q,,Jeremy Bates,Marty Davis,6-0 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-1989,Nagoya CH,3,Hard,SF,161,63,0,3,1,Ramesh Krishnan,Jeremy Bates,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Apr-1989,Nagoya CH,3,Hard,QF,161,338,1,3,,Jeremy Bates,Jin Sun Yoo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Apr-1989,Nagoya CH,3,Hard,R16,161,290,1,3,,Jeremy Bates,Tim Pawsat,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Apr-1989,Nagoya CH,3,Hard,R32,161,337,1,3,,Jeremy Bates,John Letts,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1989,Seoul,3,Hard,R32,161,132,0,Q,,Jonathan Canter,Jeremy Bates,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-1989,Vilamoura CH,3,Hard,R16,160,167,0,,6,Petr Korda,Jeremy Bates,7-6 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-1989,Vilamoura CH,3,Hard,R32,160,614,1,,WC,Jeremy Bates,Pedro Cordeiro,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Madeira CH,3,Hard,F,187,294,0,,,Nuno Marques,Jeremy Bates,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Madeira CH,3,Hard,SF,187,165,1,,4,Jeremy Bates,Nicklas Kroon,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Madeira CH,3,Hard,QF,187,212,1,,7,Jeremy Bates,Chris Bailey,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Madeira CH,3,Hard,R16,187,102,1,,1,Jeremy Bates,Diego Nargiso,0-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Madeira CH,3,Hard,R32,187,286,1,,,Jeremy Bates,Vaclav Roubicek,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Nancy,3,Hard,QF,214,113,0,,,Paul Chamberlin,Jeremy Bates,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Nancy,3,Hard,R16,214,59,1,,5,Jeremy Bates,Eric Jelen,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Nancy,3,Hard,R32,214,92,1,,,Jeremy Bates,Olli Rahnasto,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+13-Feb-1989,Croydon CH,3,Carpet,R32,208,474,0,2,Q,Denys Maasdorp,Jeremy Bates,0-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Feb-1989,Telford CH,3,Carpet,R16,172,506,0,2,Q,Michael Tauson,Jeremy Bates,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-1989,Telford CH,3,Carpet,R32,172,593,1,2,Q,Jeremy Bates,Pasi Virtanen,3-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-1989,Australian Open,5,Hard,R32,179,19,0,,13,Pat Cash,Jeremy Bates,7-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-1989,Australian Open,5,Hard,R64,179,178,1,,,Jeremy Bates,Gianluca Pozzi,6-4 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-1989,Australian Open,5,Hard,R128,179,493,1,,WC,Jeremy Bates,Jamie Morgan,6-2 3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jan-1989,Adelaide,3,Hard,R32,152,97,0,,,Pete Sampras,Jeremy Bates,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-1988,Johannesburg,3,Hard,R32,145,52,0,,,Christo Van Rensburg,Jeremy Bates,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Nov-1988,Wembley,3,Carpet,R16,165,24,0,WC,6,Amos Mansdorf,Jeremy Bates,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Nov-1988,Wembley,3,Carpet,R32,165,45,1,WC,,Jeremy Bates,Guy Forget,5-7 6-3 11-9,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1988,Stockholm,3,Hard,R64,142,53,0,,,John Frawley,Jeremy Bates,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1988,Frankfurt,3,Carpet,R16,106,21,0,,4,Brad Gilbert,Jeremy Bates,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1988,Frankfurt,3,Carpet,R32,106,174,1,,,Jeremy Bates,Tom Nijssen,4-6 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-1988,Toulouse,3,Hard,R16,112,10,0,,1,Henri Leconte,Jeremy Bates,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-1988,Toulouse,3,Hard,R32,112,103,1,,Q,Jeremy Bates,Carl Limberger,7-6 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1988,Basel,3,Hard,R32,96,19,0,,3,Aaron Krickstein,Jeremy Bates,5-7 6-0 7-6,,,,,,,,,,,,,,,,,,,,,
+20-Sep-1988,Seoul Olympics,3,Hard,R32,100,12,0,,3,Miloslav Mecir,Jeremy Bates,6-3 4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-1988,Seoul Olympics,3,Hard,R64,100,149,1,,,Jeremy Bates,Gilad Bloom,4-6 6-4 2-6 6-2 9-7,,,,,,,,,,,,,,,,,,,,,
+29-Aug-1988,US Open,5,Hard,R128,91,192,0,,WC,Scott Davis,Jeremy Bates,6-4 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Aug-1988,Rye Brook,3,Hard,QF,92,137,0,,,Diego Nargiso,Jeremy Bates,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-1988,Rye Brook,3,Hard,R16,92,206,1,,Q,Jeremy Bates,Pete Sampras,6-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-1988,Rye Brook,3,Hard,R32,92,175,1,,Q,Jeremy Bates,Steve Guy,1-6 6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+22-Jul-1988,Davis Cup G1 F: AUT vs GBR,3,Clay,RR,91,63,0,,,Horst Skoff,Jeremy Bates,6-4 6-4 0-6 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Wimbledon,5,Grass,R64,70,74,0,,,Robert Seguso,Jeremy Bates,6-7 6-3 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Wimbledon,5,Grass,R128,70,36,1,,,Jeremy Bates,Christo Van Rensburg,2-6 1-6 6-3 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-1988,Bristol,3,Grass,R32,68,202,0,7,,Steve Shaw,Jeremy Bates,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-1988,Roland Garros,5,Clay,R32,72,47,0,,,Magnus Gustafsson,Jeremy Bates,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-1988,Roland Garros,5,Clay,R64,72,116,1,,,Jeremy Bates,Francesco Cancellotti,6-3 4-6 7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-May-1988,Roland Garros,5,Clay,R128,72,263,1,,Q,Jeremy Bates,Todd Woodbridge,6-4 2-6 6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+9-May-1988,Rome,3,Clay,R64,70,26,0,,14,Guillermo Perez Roldan,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-1988,Tokyo Outdoor,3,Hard,R64,69,163,0,16,,Jonathan Canter,Jeremy Bates,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Key Biscayne,3,Hard,R128,64,16,0,,9,Andre Agassi,Jeremy Bates,6-2 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Feb-1988,Lyon,3,Carpet,QF,82,453,0,8,Q,Yahiya Doumbia,Jeremy Bates,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Feb-1988,Lyon,3,Carpet,R16,82,139,1,8,,Jeremy Bates,Marc Flur,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Feb-1988,Lyon,3,Carpet,R32,82,133,1,8,,Jeremy Bates,Eric Winogradsky,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-1988,Australian Open,5,Hard,R64,85,92,0,,,Joey Rive,Jeremy Bates,5-7 6-1 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jan-1988,Australian Open,5,Hard,R128,85,33,1,,15,Jeremy Bates,Kelly Evernden,7-5 5-7 6-1 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jan-1988,Auckland,3,Hard,R16,85,26,0,,2,Amos Mansdorf,Jeremy Bates,4-6 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jan-1988,Auckland,3,Hard,R32,85,116,1,,,Jeremy Bates,Bill Scanlon,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Dec-1987,Wellington,3,Hard,QF,89,36,0,7,2,Kelly Evernden,Jeremy Bates,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Dec-1987,Wellington,3,Hard,R16,89,101,1,7,,Jeremy Bates,John Ross,6-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Dec-1987,Wellington,3,Hard,R32,89,124,1,7,,Jeremy Bates,Marc Flur,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-1987,Valkenswaard CH,3,Carpet,R32,88,145,0,1,,Jerome Potier,Jeremy Bates,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-1987,Wembley,3,Carpet,R32,84,37,0,WC,,Paul Annacone,Jeremy Bates,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-1987,Stockholm,3,Hard,R16,89,17,0,,5,Anders Jarryd,Jeremy Bates,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Nov-1987,Stockholm,3,Hard,R32,89,57,1,,,Jeremy Bates,Dan Goldie,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-1987,Stockholm,3,Hard,R64,89,87,1,,,Jeremy Bates,Horacio De La Pena,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Oct-1987,Hong Kong,3,Hard,SF,130,101,0,,,John Fitzgerald,Jeremy Bates,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-1987,Hong Kong,3,Hard,QF,130,122,1,,,Jeremy Bates,Tom Nijssen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-1987,Hong Kong,3,Hard,R16,130,113,1,,,Jeremy Bates,Joey Rive,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-1987,Hong Kong,3,Hard,R32,130,155,1,,,Jeremy Bates,Mark Kratzmann,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-1987,Tel Aviv,3,Hard,R16,145,173,0,,,Huub Van Boeckel,Jeremy Bates,4-6 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-1987,Tel Aviv,3,Hard,R32,145,120,1,,7,Jeremy Bates,Barry Moir,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-1987,Davis Cup WG PO: YUG vs GBR,3,Clay,RR,157,84,0,,,Bruno Oresar,Jeremy Bates,6-1 6-0 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1987,Bordeaux,3,Clay,R16,194,248,0,,,Bruce Derlin,Jeremy Bates,0-6 6-4 9-7,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1987,Bordeaux,3,Clay,R32,194,9,1,,1,Jeremy Bates,Yannick Noah,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Wimbledon,5,Grass,R32,239,21,0,WC,,Slobodan Zivojinovic,Jeremy Bates,7-6 7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Wimbledon,5,Grass,R64,239,88,1,WC,,Jeremy Bates,Sammy Giammalva Jr,6-3 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Wimbledon,5,Grass,R128,239,83,1,WC,,Jeremy Bates,Peter Fleming,7-6 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1987,Bristol,3,Grass,R16,213,91,0,,11,Eddie Edwards,Jeremy Bates,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1987,Bristol,3,Grass,R32,213,82,1,,6,Jeremy Bates,Danie Visser,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1987,Bristol,3,Grass,R64,213,123,1,,,Jeremy Bates,Michael Kures,6-7 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jun-1987,Queen's Club,3,Grass,R32,207,18,0,WC,8,David Pate,Jeremy Bates,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jun-1987,Queen's Club,3,Grass,R64,207,154,1,WC,WC,Jeremy Bates,Andrew Castle,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Apr-1987,Guadeloupe CH,3,Hard,SF,237,60,0,,1,Jonathan Canter,Jeremy Bates,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+13-Apr-1987,Guadeloupe CH,3,Hard,QF,237,191,1,,5,Jeremy Bates,Marc Flur,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-1987,Guadeloupe CH,3,Hard,R16,237,252,1,,,Jeremy Bates,Yahiya Doumbia,2-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-1987,Guadeloupe CH,3,Hard,R32,237,424,1,,Q,Jeremy Bates,Roger Smith,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Apr-1987,Martinique CH,3,Hard,R32,230,176,0,LL,,Tom Nijssen,Jeremy Bates,7-6 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1987,Davis Cup WG R1: MEX vs GBR,3,Clay,RR,214,57,0,,,Francisco Maciel,Jeremy Bates,6-3 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1987,Davis Cup WG R1: MEX vs GBR,3,Clay,RR,214,178,0,,,Jorge Lozano,Jeremy Bates,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jan-1987,Australian Open,5,Grass,R64,196,9,0,,6,Miloslav Mecir,Jeremy Bates,4-6 6-2 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Dec-1986,Adelaide,3,Grass,R32,187,66,0,Q,6,Broderick Dyke,Jeremy Bates,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-1986,Johannesburg,3,Hard,R32,196,10,0,,1,Andres Gomez,Jeremy Bates,4-6 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Nov-1986,Stockholm,3,Hard,R32,177,25,0,,8,Jakob Hlasek,Jeremy Bates,6-7 6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+3-Nov-1986,Stockholm,3,Hard,R64,177,196,1,,WC,Jeremy Bates,Peter Carlsson,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-1986,Tokyo Outdoor,3,Hard,R64,110,57,0,,6,Jaime Yzaga,Jeremy Bates,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Sep-1986,Barcelona,3,Clay,R64,113,66,0,,,Diego Perez,Jeremy Bates,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Sep-1986,Stuttgart Outdoor,3,Clay,R32,116,43,0,,10,Ulf Stenlund,Jeremy Bates,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-1986,Stuttgart Outdoor,3,Clay,R64,116,138,1,,,Jeremy Bates,Ricki Osterthun,2-6 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-1986,US Open,5,Hard,R64,128,47,0,,,Jonas Svensson,Jeremy Bates,6-4 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Aug-1986,US Open,5,Hard,R128,128,105,1,,WC,Jeremy Bates,Andre Agassi,7-6 6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-1986,Kitzbuhel,3,Clay,R64,121,8,0,,1,Joakim Nystrom,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-1986,Hilversum,3,Clay,R32,114,38,0,,5,Paolo Cane,Jeremy Bates,6-0 7-6,,,,,,,,,,,,,,,,,,,,,
+18-Jul-1986,Davis Cup WG QF: GBR vs AUS,3,Grass,RR,116,102,0,,,Pat Cash,Jeremy Bates,6-4 9-7 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-1986,Davis Cup WG QF: GBR vs AUS,3,Grass,RR,116,48,1,,,Jeremy Bates,Paul Mcnamee,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1986,Wimbledon,5,Grass,R128,116,86,0,,,Todd Witsken,Jeremy Bates,3-6 6-1 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-1986,Bristol,3,Grass,QF,115,50,0,,5,Bud Schultz,Jeremy Bates,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-1986,Bristol,3,Grass,R16,115,113,1,,,Jeremy Bates,Simon Youl,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-1986,Bristol,3,Grass,R32,115,32,1,,3,Jeremy Bates,Milan Srejber,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-1986,Bristol,3,Grass,R64,115,132,1,,,Jeremy Bates,John Fitzgerald,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-1986,Queen's Club,3,Grass,R32,121,25,0,,14,Paul Mcnamee,Jeremy Bates,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-1986,Queen's Club,3,Grass,R64,121,49,1,,,Jeremy Bates,Glenn Michibata,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-1986,Roland Garros,5,Clay,R128,124,137,0,,Q,Marko Ostoja,Jeremy Bates,6-2 6-2 6-7 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-1986,Munich,3,Clay,R32,101,68,0,,,Marcelo Ingaramo,Jeremy Bates,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Mar-1986,Marrakech CH,3,Clay,R32,96,174,0,4,,David De Miguel,Jeremy Bates,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1986,Brussels,3,Carpet,R16,106,8,0,Q,3,Joakim Nystrom,Jeremy Bates,6-1 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1986,Brussels,3,Carpet,R32,106,39,1,Q,,Jeremy Bates,Sergio Casal,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1986,Davis Cup WG R1: GBR vs ESP,3,Carpet,RR,106,42,1,,,Jeremy Bates,Sergio Casal,6-1 6-3 3-6 8-6,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1986,Davis Cup WG R1: GBR vs ESP,3,Carpet,RR,106,70,1,,,Jeremy Bates,Emilio Sanchez,11-9 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-1986,Boca West,3,Hard,R128,104,26,0,,25,Peter Lundgren,Jeremy Bates,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1986,Toronto Indoor,3,Carpet,R16,102,105,0,,,Jonas Svensson,Jeremy Bates,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1986,Toronto Indoor,3,Carpet,R32,102,172,1,,,Jeremy Bates,Stephane Bonneau,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Dec-1985,Adelaide,3,Grass,R32,93,125,0,5,,Roberto Saad,Jeremy Bates,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+9-Dec-1985,Sydney Outdoor,3,Grass,R64,83,138,0,14,,Wolfgang Popp,Jeremy Bates,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Nov-1985,Australian Open,5,Grass,R128,74,101,0,,,Marc Flur,Jeremy Bates,6-7 6-7 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-1985,Wembley,3,Carpet,R16,83,5,0,WC,2,Boris Becker,Jeremy Bates,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Nov-1985,Wembley,3,Carpet,R32,83,40,1,WC,,Jeremy Bates,Ben Testerman,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-1985,Cologne,3,Hard,QF,113,156,0,,Q,Peter Lundgren,Jeremy Bates,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-1985,Cologne,3,Hard,R16,113,72,1,,,Jeremy Bates,Pavel Slozil,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-1985,Cologne,3,Hard,R32,113,11,1,,2,Jeremy Bates,Miloslav Mecir,7-6 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-1985,Tel Aviv,3,Hard,SF,133,117,0,,,Amos Mansdorf,Jeremy Bates,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-1985,Tel Aviv,3,Hard,QF,133,183,1,,Q,Jeremy Bates,Peter Carlsson,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-1985,Tel Aviv,3,Hard,R16,133,471,1,,WC,Jeremy Bates,Gilad Bloom,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-1985,Tel Aviv,3,Hard,R32,133,83,1,,6,Jeremy Bates,Marc Flur,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1985,Johannesburg,3,Hard,R32,137,145,0,,,Danie Visser,Jeremy Bates,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1985,Davis Cup EUR F: GBR vs ISR,3,Grass,RR,137,176,0,,,Shlomo Glickstein,Jeremy Bates,9-7 3-6 7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Oct-1985,Davis Cup EUR F: GBR vs ISR,3,Grass,RR,137,111,1,,,Jeremy Bates,Amos Mansdorf,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-1985,Palermo,3,Clay,R32,136,369,0,,WC,Claudio Pistolesi,Jeremy Bates,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-1985,Messina CH,3,Clay,R32,139,299,0,,Q,Jesus Colas,Jeremy Bates,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-1985,US Open,5,Hard,R128,139,6,0,,7,Yannick Noah,Jeremy Bates,6-3 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Aug-1985,Davis Cup EUR SF: GBR vs SUI,3,Grass,RR,136,39,1,,,Jeremy Bates,Heinz Gunthardt,6-0 6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-1985,Istanbul CH,3,Clay,QF,150,218,0,2,,Eduardo Masso,Jeremy Bates,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-1985,Istanbul CH,3,Clay,R16,150,342,1,2,LL,Jeremy Bates,Jim Pugh,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-1985,Istanbul CH,3,Clay,R32,150,231,1,2,,Jeremy Bates,Josef Cihak,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-1985,Wimbledon,5,Grass,R128,136,86,0,WC,,Marc Flur,Jeremy Bates,6-4 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-1985,Bristol,3,Grass,QF,175,56,0,WC,8,Marty Davis,Jeremy Bates,4-6 7-5 9-7,,,,,,,,,,,,,,,,,,,,,
+17-Jun-1985,Bristol,3,Grass,R16,175,36,1,WC,2,Jeremy Bates,Terry Moor,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-1985,Bristol,3,Grass,R32,175,61,1,WC,9,Jeremy Bates,Ken Flach,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-1985,Bristol,3,Grass,R64,175,133,1,WC,,Jeremy Bates,Scott Mccain,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-1985,Davis Cup EUR QF: GBR vs POR,3,Grass,RR,185,,1,,,Jeremy Bates,Pedro Cordeiro,6-4 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jun-1985,Davis Cup EUR QF: GBR vs POR,3,Grass,RR,185,,1,,,Jeremy Bates,Joao Cunha Silva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-1985,Curitiba CH,3,Clay,R32,202,122,0,,2,Marcelo Ingaramo,Jeremy Bates,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1984,Thessaloniki CH,3,Clay,R32,198,330,0,6,,Roger Knapp,Jeremy Bates,7-5 6-7 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Aug-1984,Winnetka CH,3,Hard,R32,189,111,0,,,David Dowlen,Jeremy Bates,6-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-1984,Cleveland,3,Hard,R32,180,138,0,Q,,David Mustard,Jeremy Bates,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+23-Jul-1984,Hilversum,3,Clay,R32,174,459,0,,Q,Craig Campbell,Jeremy Bates,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-1984,Neunkirchen CH,3,Clay,R16,182,227,0,,,Miloslav Lacek,Jeremy Bates,6-2 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-1984,Neunkirchen CH,3,Clay,R32,182,179,1,,13,Jeremy Bates,Jaromir Becka,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-1984,Neunkirchen CH,3,Clay,R64,182,171,1,,,Jeremy Bates,Howard Sands,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-1984,Wimbledon,5,Grass,R128,184,62,0,WC,,Cassio Motta,Jeremy Bates,6-3 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-1984,Bristol,3,Grass,R64,,93,0,,,Terry Moor,Jeremy Bates,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Queen's Club,3,Grass,R64,,52,0,,,Nduka Odizor,Jeremy Bates,6-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-1984,Lee-On-Solent CH,3,Clay,F,,,0,7,3,Simon Youl,Jeremy Bates,7-6 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1984,Lee-On-Solent CH,3,Clay,SF,,,1,7,,Jeremy Bates,Magnus Tideman,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1984,Lee-On-Solent CH,3,Clay,QF,,,1,7,,Jeremy Bates,Bruce Foxworth,6-4 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1984,Lee-On-Solent CH,3,Clay,R16,,,1,7,Q,Jeremy Bates,Peter Svensson,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1984,Lee-On-Solent CH,3,Clay,R32,,,1,7,,Jeremy Bates,Greg Whitecross,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-1984,Sutton CH,3,Clay,R32,,,0,,3,Georges Goven,Jeremy Bates,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-1984,Parioli CH,3,Clay,R32,,,0,,Q,Francisco Yunis,Jeremy Bates,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-1984,Marrakech CH,3,Clay,QF,,,0,,,Simone Colombo,Jeremy Bates,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-1984,Marrakech CH,3,Clay,R16,,,1,,,Jeremy Bates,Houcine Saber,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-1984,Marrakech CH,3,Clay,R32,,73,1,,1,Jeremy Bates,Terry Moor,1-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1984,Ashkelon CH,3,Hard,R32,,39,0,,1,Shlomo Glickstein,Jeremy Bates,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jan-1984,Auckland,3,Hard,R32,,,0,,,Peter Johnston,Jeremy Bates,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-1984,Perth CH,3,Grass,R32,256,181,0,,8,Leif Shiras,Jeremy Bates,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1983,Taipei,3,Carpet,R32,,54,0,Q,5,Brad Gilbert,Jeremy Bates,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-1983,Neu Ulm CH,3,Clay,R64,,,0,,,Fernando Soler,Jeremy Bates,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-1983,Essen CH,3,Clay,R64,,,0,,Q,Stefan Hermann,Jeremy Bates,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1983,Wimbledon,5,Grass,R128,,,0,WC,Q,Peter Fleming,Jeremy Bates,7-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-1983,Bristol,3,Grass,R32,329,78,0,Q,,John Fitzgerald,Jeremy Bates,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-1983,Lee-On-Solent CH,3,Clay,F,,,0,,3,Robbie Venter,Jeremy Bates,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-1983,Lee-On-Solent CH,3,Clay,SF,,,1,,,Jeremy Bates,Scott Lipton,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-1983,Lee-On-Solent CH,3,Clay,QF,,,1,,,Jeremy Bates,Syd Ball,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-1983,Lee-On-Solent CH,3,Clay,R16,,,1,,7,Jeremy Bates,Andrew Jarrett,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-1983,Lee-On-Solent CH,3,Clay,R32,,,1,,,Jeremy Bates,John Feaver,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-1983,Solihull CH,3,Clay,R32,,,0,,,Gabriel Urpi,Jeremy Bates,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Apr-1983,Bournemouth,3,Clay,R16,,41,0,,6,Buster C Mottram,Jeremy Bates,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-1983,Bournemouth,3,Clay,R32,,,1,,,Jeremy Bates,Gilles Moretton,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+12-Jul-1982,Lisbon CH,3,Clay,R32,,,0,,3,Francisco Ferrer,Jeremy Bates,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-1982,Wimbledon,5,Grass,R128,,,0,WC,,Tom Gullikson,Jeremy Bates,6-4 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-1982,Lee-On-Solent CH,3,Clay,R32,,,0,,7,Craig A Miller,Jeremy Bates,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-1982,Solihull CH,3,Clay,QF,,,0,,,Schalk Van Der Merwe,Jeremy Bates,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-1982,Solihull CH,3,Clay,R16,,,1,,4,Jeremy Bates,Derek Tarr,1-6 6-3 9-7,,,,,,,,,,,,,,,,,,,,,
+3-May-1982,Solihull CH,3,Clay,R32,,,1,,,Jeremy Bates,Stefan Svensson,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-1982,Bournemouth,3,Clay,R32,,,0,,,Jonathan Smith,Jeremy Bates,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Sep-1981,Athens CH,3,Clay,R16,,66,0,,1,Vincent Van Patten,Jeremy Bates,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Sep-1981,Athens CH,3,Clay,R32,,,1,,,Jeremy Bates,Nels Van Patten,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-1981,Layetano CH,3,Clay,R32,,,0,,Q,Jan Van Langendonck,Jeremy Bates,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1981,Brasilia CH,3,Clay,R64,,,0,,9,Carlos Lando,Jeremy Bates,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-1981,Porto Alegre CH,3,Clay,R64,,,0,,8,Carlos Gattiker,Jeremy Bates,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-1981,Rio De Janeiro CH,3,Clay,R32,,,0,,,Ricardo Rivera,Jeremy Bates,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-1981,Chitchester CH,3,Grass,R32,,,0,,,Warren Maher,Jeremy Bates,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1981,West Worthing CH,3,Clay,R32,,56,0,,,Chris Lewis Nzl,Jeremy Bates,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Apr-1981,Bournemouth,3,Clay,R16,,66,0,,8,Thierry Tulasne,Jeremy Bates,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Apr-1981,Bournemouth,3,Clay,R32,,92,1,,,Jeremy Bates,Jan Norback,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-1980,Bournemouth,3,Clay,R32,,,0,Q,,Ernie Ewert,Jeremy Bates,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

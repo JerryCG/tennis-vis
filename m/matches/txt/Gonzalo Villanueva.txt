@@ -1,0 +1,494 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Nov-2022,Montevideo CH,3,Clay,R32,283,409,0,LL,Q,Juan Pablo Paz,Gonzalo Villanueva,6-4 7-6(9),0.98,0.0%,2.4%,72.3%,68.3%,43.5%,4/6,48.9%,37.6%,6.5%,36.2%,40.0%,1/7,176,0,2,83,60,23,6,2:12
+7-Nov-2022,Montevideo CH,3,Clay,Q2,283,805,0,1,Alt,Federico Zeballos,Gonzalo Villanueva,6-3 6-4,0.68,1.7%,11.7%,56.7%,67.6%,42.3%,4/7,43.2%,29.3%,12.1%,22.2%,40.9%,1/2,118,1,7,60,34,26,7,1:26
+7-Nov-2022,Montevideo CH,3,Clay,Q1,283,,1,1,WC,Gonzalo Villanueva,Dario Acosta,7-6(0) 6-3,1.21,0.0%,4.7%,56.5%,58.3%,54.1%,11/15,54.8%,52.5%,3.3%,35.5%,70.0%,5/6,146,0,4,85,48,37,2,1:55
+24-Oct-2022,Lima CH,3,Clay,Q1,273,832,0,5,WC,Alvaro Guillen Meza,Gonzalo Villanueva,W/O,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2022,Coquimbo CH,3,Clay,R32,269,156,0,,7,Juan Manuel Cerundolo,Gonzalo Villanueva,6-4 6-3,0.80,1.7%,0.0%,67.2%,41.0%,52.6%,4/10,44.4%,43.9%,1.5%,45.7%,40.0%,4/7,124,1,0,58,39,19,1,1:32
+10-Oct-2022,Rio De Janeiro CH,3,Clay,R32,268,117,0,Alt,3,Marco Cecchinato,Gonzalo Villanueva,6-4 6-2,0.68,0.0%,5.5%,60.0%,39.4%,54.5%,3/8,41.1%,36.8%,7.0%,26.3%,57.9%,2/5,112,0,3,55,33,22,4,1:20
+3-Oct-2022,Campinas CH,3,Clay,R16,272,157,0,Q,8,Facundo Mena,Gonzalo Villanueva,6-4 5-7 6-2,0.81,0.0%,6.0%,54.2%,60.0%,47.4%,2/7,45.6%,37.2%,9.3%,17.1%,51.0%,3/5,169,0,5,83,45,38,8,2:16
+3-Oct-2022,Campinas CH,3,Clay,R32,272,418,1,Q,Q,Gonzalo Villanueva,Jose Pereira,0-6 6-4 6-3,1.01,0.0%,4.7%,53.1%,67.6%,40.0%,3/8,49.1%,45.5%,6.9%,42.1%,56.0%,5/12,165,0,3,64,34,30,7,2:11
+3-Oct-2022,Campinas CH,3,Clay,Q2,272,456,1,1,Alt,Gonzalo Villanueva,Wilson Leite,6-3 6-4,1.38,5.4%,0.0%,53.6%,66.7%,53.8%,3/6,57.4%,54.2%,3.4%,36.7%,72.4%,6/11,115,3,0,56,30,26,2,1:36
+3-Oct-2022,Campinas CH,3,Clay,Q1,272,642,1,1,PR,Gonzalo Villanueva,Pedro Sakamoto,1-6 3-2 RET,0.84,5.9%,5.9%,55.9%,68.4%,33.3%,2/5,45.5%,39.5%,9.3%,25.0%,52.2%,1/2,77,2,2,34,19,15,4,1:06
+26-Sep-2022,Buenos Aires CH,3,Clay,R32,277,161,0,Alt,8,Yannick Hanfmann,Gonzalo Villanueva,6-2 6-4,0.50,3.3%,0.0%,62.3%,55.3%,52.2%,4/7,39.8%,23.1%,0.0%,25.7%,17.6%,0/2,113,2,0,61,38,23,0,1:19
+19-Sep-2022,Villa Maria CH,3,Clay,R32,276,333,0,,,Mariano Navone,Gonzalo Villanueva,7-6(5) 6-3,0.86,2.7%,2.7%,64.0%,60.4%,51.9%,7/10,47.0%,36.8%,1.3%,26.5%,55.6%,2/7,151,2,2,75,48,27,1,1:47
+5-Sep-2022,Tulln CH,3,Clay,Q1,277,551,0,6,WC,Sandro Kopp,Gonzalo Villanueva,7-6(4) 6-2,0.81,0.0%,1.2%,57.0%,63.3%,35.1%,11/15,45.7%,39.5%,0.0%,42.0%,34.6%,2/7,162,0,1,86,49,37,0,
+29-Aug-2022,Como CH,3,Clay,R32,277,188,0,,6,Riccardo Bonadio,Gonzalo Villanueva,6-4 6-7(4) 7-6(5),0.94,2.5%,0.8%,56.8%,61.2%,56.9%,7/11,48.9%,38.3%,5.2%,26.9%,54.2%,3/7,233,3,1,118,67,51,6,3:04
+22-Aug-2022,Banja Luka CH,3,Clay,R16,279,284,0,,,Alexey Vatutin,Gonzalo Villanueva,6-4 6-0,0.60,3.7%,3.7%,64.8%,54.3%,36.8%,3/8,40.4%,31.1%,6.7%,17.2%,56.3%,1/1,99,2,2,54,35,19,3,1:07
+22-Aug-2022,Banja Luka CH,3,Clay,R32,279,277,1,,8,Gonzalo Villanueva,Mirza Basic,7-6(7) 6-2,1.27,1.4%,2.8%,69.0%,71.4%,68.2%,5/6,54.3%,37.7%,2.9%,35.2%,46.7%,3/7,140,1,2,71,49,22,2,1:37
+15-Aug-2022,Santo Domingo CH,3,Clay,R32,276,81,0,Alt,1,Roberto Carballes Baena,Gonzalo Villanueva,6-0 7-5,0.50,1.7%,8.5%,74.6%,54.5%,26.7%,3/8,38.0%,26.5%,0.0%,25.0%,29.4%,1/1,108,1,5,59,44,15,0,1:41
+8-Aug-2022,Lima CH,3,Clay,R32,272,334,0,,,Roman Andres Burruchaga,Gonzalo Villanueva,6-2 6-3,0.73,2.2%,2.2%,69.6%,53.1%,35.7%,0/5,42.6%,38.2%,1.8%,31.0%,46.2%,1/2,101,1,1,46,32,14,1,1:20
+1-Aug-2022,Los Cabos,3,Hard,R32,279,92,0,LL,,Steve Johnson,Gonzalo Villanueva,7-6(1) 6-4,0.76,4.3%,4.3%,62.9%,63.6%,53.8%,1/3,44.5%,30.3%,10.5%,12.8%,48.6%,1/8,146,3,3,70,44,26,8,1:37
+1-Aug-2022,Los Cabos,3,Hard,Q2,279,224,0,5,2,Rinky Hijikata,Gonzalo Villanueva,6-4 6-3,0.80,0.0%,5.1%,59.3%,65.7%,41.7%,4/7,45.2%,35.4%,9.2%,27.0%,46.4%,1/3,124,0,3,59,35,24,6,1:28
+1-Aug-2022,Los Cabos,3,Hard,Q1,279,1435,1,5,WC,Gonzalo Villanueva,Luis Carlos Alvarez,6-1 6-2,1.55,0.0%,4.0%,60.0%,60.0%,50.0%,4/6,62.0%,68.0%,0.0%,64.7%,75.0%,7/10,100,0,2,50,30,20,0,1:14
+4-Jul-2022,Bogota CH,3,Clay,R16,286,305,0,8,,Roberto Quiroz,Gonzalo Villanueva,7-5 6-4,0.53,1.5%,2.9%,55.9%,65.8%,53.3%,5/8,43.3%,21.2%,5.8%,25.9%,16.0%,1/1,120,1,2,68,38,30,3,1:26
+4-Jul-2022,Bogota CH,3,Clay,R32,286,1656,1,8,WC,Gonzalo Villanueva,Andres Urrea,6-4 6-1,1.31,0.0%,8.9%,64.4%,58.6%,56.3%,0/3,56.3%,55.4%,2.7%,46.2%,65.7%,6/14,119,0,4,45,29,16,2,1:15
+27-Jun-2022,Cali CH,3,Clay,R32,286,354,0,,Q,Roman Andres Burruchaga,Gonzalo Villanueva,6-1 6-1,0.54,0.0%,9.0%,47.8%,46.9%,42.9%,7/12,38.6%,29.8%,0.0%,25.0%,36.8%,0/1,114,0,6,67,32,35,0,1:21
+20-Jun-2022,Buenos Aires CH,3,Clay,QF,291,324,0,4,7,Malek Jaziri,Gonzalo Villanueva,6-2 1-6 6-3,0.90,0.0%,0.0%,76.4%,63.6%,29.4%,3/8,47.9%,40.0%,1.4%,35.7%,46.4%,4/4,142,0,0,72,55,17,1,1:37
+20-Jun-2022,Buenos Aires CH,3,Clay,R16,291,518,1,4,Q,Gonzalo Villanueva,Guido Andreozzi,7-6(3) 6-2,1.26,1.5%,1.5%,63.1%,61.0%,66.7%,1/3,54.4%,46.5%,2.8%,38.1%,58.6%,4/9,136,1,1,65,41,24,2,1:37
+20-Jun-2022,Buenos Aires CH,3,Clay,R32,291,665,1,4,Q,Gonzalo Villanueva,Leonardo Aboian,6-4 1-6 6-1,1.18,0.0%,4.4%,58.2%,60.4%,52.6%,10/14,54.3%,50.7%,7.0%,45.5%,59.3%,5/12,162,0,4,91,53,38,5,2:03
+13-Jun-2022,Corrientes CH,3,Clay,R32,294,519,0,4,,Mariano Navone,Gonzalo Villanueva,7-5 6-4,0.79,0.0%,1.3%,64.1%,54.0%,60.7%,6/10,46.2%,34.3%,4.5%,18.2%,50.0%,2/4,145,0,1,78,50,28,3,1:55
+6-Jun-2022,Orlando CH,3,Hard,R32,302,263,0,,,Christian Harrison,Gonzalo Villanueva,6-4 6-2,0.80,0.0%,7.1%,51.4%,63.9%,47.1%,5/8,45.7%,35.3%,7.4%,33.3%,39.1%,0/4,138,0,5,70,36,34,5,1:45
+30-May-2022,Little Rock CH,3,Hard,R32,296,160,0,,4,Jason Kubler,Gonzalo Villanueva,6-1 7-6(4),0.79,0.0%,7.4%,41.2%,42.9%,50.0%,7/13,44.6%,41.9%,3.2%,33.3%,50.0%,3/5,130,0,5,68,28,40,2,1:44
+9-May-2022,Coquimbo CH,3,Clay,R32,290,241,0,,5,Gonzalo Lama,Gonzalo Villanueva,6-4 4-6 6-2,0.96,0.0%,1.2%,68.7%,56.1%,53.8%,1/7,48.6%,43.0%,0.0%,39.1%,51.6%,4/9,183,0,1,83,57,26,0,2:14
+2-May-2022,Salvador De Bahia CH,3,Clay,SF,330,145,0,Alt,1,Tomas Barrios Vera,Gonzalo Villanueva,6-7(0) 6-3 6-4,0.95,2.7%,3.5%,67.3%,63.2%,37.8%,11/17,49.1%,42.7%,3.9%,35.3%,57.1%,4/12,216,3,4,113,76,37,4,2:54
+2-May-2022,Salvador De Bahia CH,3,Clay,QF,330,284,1,Alt,,Gonzalo Villanueva,Daniel Dutra Da Silva,6-2 6-4,1.22,1.7%,5.0%,58.3%,71.4%,52.0%,5/6,53.6%,44.6%,3.1%,28.6%,56.8%,4/12,125,1,3,60,35,25,2,1:45
+2-May-2022,Salvador De Bahia CH,3,Clay,R16,330,313,1,Alt,,Gonzalo Villanueva,Hernan Casanova,6-3 6-0,1.81,1.9%,0.0%,57.7%,63.3%,54.5%,6/8,65.2%,73.0%,0.0%,67.9%,88.9%,6/8,89,1,0,52,30,22,0,1:21
+2-May-2022,Salvador De Bahia CH,3,Clay,R32,330,187,1,Alt,4,Gonzalo Villanueva,Felipe Meligeni Alves,7-5 6-4,1.44,0.0%,4.8%,54.0%,79.4%,58.6%,2/4,56.1%,43.5%,2.9%,37.8%,54.2%,4/11,132,0,3,63,34,29,2,1:44
+25-Apr-2022,Buenos Aires CH,3,Clay,QF,337,175,0,,3,Camilo Ugo Carabelli,Gonzalo Villanueva,6-4 6-2,0.82,1.6%,4.7%,68.8%,40.9%,45.0%,6/13,44.5%,47.3%,0.0%,46.7%,48.0%,4/7,119,1,3,64,44,20,0,1:32
+25-Apr-2022,Buenos Aires CH,3,Clay,R16,337,477,1,,WC,Gonzalo Villanueva,Roman Andres Burruchaga,7-5 6-1,1.34,0.0%,6.2%,67.7%,65.9%,52.4%,3/5,56.2%,51.4%,0.0%,50.0%,53.1%,5/12,137,0,4,65,44,21,0,1:41
+25-Apr-2022,Buenos Aires CH,3,Clay,R32,337,257,1,,8,Gonzalo Villanueva,Joao Menezes,3-6 6-4 6-3,1.12,0.0%,2.5%,72.5%,60.3%,54.5%,5/10,52.0%,46.4%,5.2%,37.3%,60.5%,6/15,177,0,2,80,58,22,5,2:10
+4-Apr-2022,M25 Rosario Santa Fe,3,Clay,F,416,749,1,5,,Gonzalo Villanueva,Franco Emanuel Egea,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,M25 Rosario Santa Fe,3,Clay,SF,416,510,1,5,6,Gonzalo Villanueva,Roman Andres Burruchaga,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,M25 Rosario Santa Fe,3,Clay,QF,416,217,1,5,1,Gonzalo Villanueva,Santiago Fa Rodriguez Taverna,3-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,M25 Rosario Santa Fe,3,Clay,R16,416,769,1,5,,Gonzalo Villanueva,Juan Ignacio Galarza,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,M25 Rosario Santa Fe,3,Clay,R32,416,1072,1,5,Q,Gonzalo Villanueva,Nicolas Zanellato,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,M25 Rosario Santa Fe,3,Clay,F,413,221,0,3,1,Santiago Fa Rodriguez Taverna,Gonzalo Villanueva,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,M25 Rosario Santa Fe,3,Clay,SF,413,391,1,3,2,Gonzalo Villanueva,Oliver Crawford,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,M25 Rosario Santa Fe,3,Clay,QF,413,562,1,3,7,Gonzalo Villanueva,Alejo Lorenzo Lingua Lavallen,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,M25 Rosario Santa Fe,3,Clay,R16,413,828,1,3,,Gonzalo Villanueva,Juan Bautista Otegui,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,M25 Rosario Santa Fe,3,Clay,R32,413,1190,1,3,Q,Gonzalo Villanueva,Francisco Llanes,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R32,413,221,0,LL,,Santiago Fa Rodriguez Taverna,Gonzalo Villanueva,7-5 7-6(4),0.83,0.0%,1.2%,79.8%,64.2%,58.8%,5/6,46.7%,30.6%,10.6%,26.5%,36.1%,0/7,169,0,1,84,67,17,9,2:00
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,Q2,413,461,0,6,11,Nicolas Barrientos,Gonzalo Villanueva,6-3 3-6 6-2,0.82,5.3%,0.0%,74.7%,62.5%,52.6%,0/4,46.9%,32.9%,0.0%,26.1%,45.8%,2/3,145,4,0,75,56,19,0,1:43
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,Q1,413,691,1,6,Alt,Gonzalo Villanueva,Ignacio Carou,6-2 6-4,1.47,0.0%,0.0%,80.4%,68.3%,70.0%,3/4,56.1%,46.0%,0.0%,39.0%,59.1%,4/7,114,0,0,51,41,10,0,1:24
+14-Mar-2022,Concepcion CH,3,Clay,R32,395,142,0,Q,4,Nicolas Jarry,Gonzalo Villanueva,6-2 6-1,0.45,0.0%,0.0%,72.1%,47.7%,58.8%,9/13,39.2%,22.0%,14.6%,15.4%,33.3%,0/0,102,0,0,61,44,17,6,1:09
+14-Mar-2022,Concepcion CH,3,Clay,Q1,395,513,1,9,,Gonzalo Villanueva,Murkel Alejandro Dellien Velasco,6-4 6-1,1.71,0.0%,0.0%,81.4%,68.6%,75.0%,1/2,59.2%,51.7%,1.7%,46.2%,61.9%,5/7,103,0,0,43,35,8,1,
+24-Jan-2022,Santa Cruz CH,3,Clay,R32,409,143,0,Q,5,Zdenek Kolar,Gonzalo Villanueva,7-5 4-6 6-2,0.91,6.4%,3.2%,75.5%,67.6%,30.4%,5/10,48.4%,37.8%,4.4%,25.9%,55.6%,3/5,184,6,3,94,71,23,4,2:22
+24-Jan-2022,Santa Cruz CH,3,Clay,Q2,409,700,1,2,7,Gonzalo Villanueva,Michel Vernier,6-4 6-4,1.36,5.6%,0.0%,68.5%,75.7%,76.5%,0/0,53.6%,32.8%,0.0%,30.0%,38.9%,2/6,112,3,0,54,37,17,0,
+17-Jan-2022,Concepcion CH,3,Clay,R16,409,301,0,,,Gonzalo Lama,Gonzalo Villanueva,2-6 6-4 6-4,0.92,0.0%,1.1%,75.0%,65.2%,52.2%,7/10,49.1%,34.9%,2.4%,32.7%,39.3%,3/9,175,0,1,92,69,23,2,2:11
+17-Jan-2022,Concepcion CH,3,Clay,R32,409,116,1,,2,Gonzalo Villanueva,Andrej Martin,6-2 6-3,1.30,1.7%,1.7%,75.0%,64.4%,40.0%,4/6,56.4%,54.0%,2.0%,58.3%,42.9%,6/11,110,1,1,60,45,15,1,1:11
+10-Jan-2022,Blumenau CH,3,Clay,QF,419,437,0,,,Juan Pablo Paz,Gonzalo Villanueva,6-3 6-4,0.65,0.0%,1.8%,57.9%,57.6%,50.0%,4/7,42.1%,29.8%,3.5%,30.6%,28.6%,1/1,114,0,1,57,33,24,2,1:25
+10-Jan-2022,Blumenau CH,3,Clay,R16,419,768,1,,Q,Gonzalo Villanueva,Ignacio Carou,1-6 6-1 6-2,1.07,2.5%,1.3%,76.3%,54.1%,52.6%,8/12,51.6%,49.4%,0.0%,47.1%,53.6%,6/12,159,2,1,80,61,19,0,1:56
+10-Jan-2022,Blumenau CH,3,Clay,R32,419,324,1,,7,Gonzalo Villanueva,Carlos Gimeno Valero,0-6 6-3 6-1,1.10,2.0%,2.0%,66.3%,52.3%,42.4%,10/16,52.0%,56.2%,1.4%,43.2%,69.4%,7/12,171,2,2,98,65,33,1,2:04
+2-Jan-2022,Tigre CH,3,Clay,QF,436,338,0,,7,Facundo Diaz Acosta,Gonzalo Villanueva,6-3 6-2,0.71,3.6%,3.6%,56.4%,38.7%,54.2%,6/11,42.0%,38.6%,3.5%,25.8%,53.8%,2/8,112,2,2,55,31,24,2,1:26
+2-Jan-2022,Tigre CH,3,Clay,R16,436,313,1,,3,Gonzalo Villanueva,Genaro Alberto Olivieri,6-4 6-1,1.23,1.3%,2.6%,67.1%,62.7%,48.0%,10/11,55.1%,51.6%,4.8%,50.0%,53.3%,5/8,138,1,2,76,51,25,3,1:43
+2-Jan-2022,Tigre CH,3,Clay,R32,436,975,1,,Q,Gonzalo Villanueva,Alec Deckers,7-6(2) 6-4,1.14,1.3%,2.7%,76.0%,68.4%,50.0%,3/5,51.9%,41.0%,12.0%,20.5%,59.1%,3/6,158,1,2,75,57,18,10,1:50
+13-Dec-2021,Rio De Janeiro CH,3,Hard,R32,437,319,0,,8,Kaichi Uchida,Gonzalo Villanueva,6-3 6-4,0.32,4.1%,2.0%,67.3%,72.7%,50.0%,1/3,39.4%,11.1%,22.2%,9.7%,14.3%,0/0,94,2,1,49,33,16,10,1:01
+6-Dec-2021,Florianopolis CH,3,Clay,R16,450,550,0,Alt,Q,Nicolas Barrientos,Gonzalo Villanueva,7-6(3) 6-1,0.75,3.0%,4.5%,63.6%,64.3%,33.3%,4/8,43.8%,35.2%,2.8%,32.7%,40.9%,2/6,137,2,3,66,42,24,2,1:38
+6-Dec-2021,Florianopolis CH,3,Clay,R32,450,714,1,Alt,WC,Gonzalo Villanueva,Pedro Boscardin Dias,4-6 7-5 6-2,1.12,1.0%,1.0%,65.6%,57.1%,54.5%,9/14,52.7%,48.9%,7.6%,36.5%,65.0%,7/15,188,1,1,96,63,33,7,2:18
+29-Nov-2021,Sao Paulo CH,3,Clay,R32,460,349,0,Q,,Facundo Diaz Acosta,Gonzalo Villanueva,7-5 6-1,0.68,3.3%,1.6%,55.7%,64.7%,40.7%,6/10,42.9%,31.0%,10.3%,16.7%,46.4%,1/2,119,2,1,61,34,27,6,1:25
+29-Nov-2021,Sao Paulo CH,3,Clay,Q2,460,483,1,3,5,Gonzalo Villanueva,Alejandro Gomez Gb42,6-4 7-6(4),1.35,2.7%,2.7%,55.4%,70.7%,66.7%,8/10,55.4%,41.9%,6.8%,21.1%,63.9%,3/7,148,2,2,74,41,33,5,1:31
+29-Nov-2021,Sao Paulo CH,3,Clay,Q1,460,678,1,3,Alt,Gonzalo Villanueva,Tomas Lipovsek Puches,3-6 6-3 6-1,1.19,3.9%,1.3%,51.3%,69.2%,51.4%,1/4,53.5%,46.9%,6.2%,36.8%,55.8%,5/9,157,3,1,76,39,37,5,1:55
+22-Nov-2021,Brasilia CH,3,Clay,Q1,453,721,0,3,Alt,Luca Castelnuovo,Gonzalo Villanueva,7-6(1) 3-6 6-3,0.91,0.0%,2.0%,67.3%,72.7%,46.9%,4/6,48.7%,32.6%,14.7%,14.3%,52.2%,2/4,193,0,2,98,66,32,14,2:30
+15-Nov-2021,Campinas CH,3,Clay,Q1,453,334,0,Alt,3,Hernan Casanova,Gonzalo Villanueva,7-6(4) 4-6 7-5,0.95,3.2%,4.8%,58.4%,60.3%,51.9%,8/14,49.6%,41.1%,0.0%,37.8%,52.0%,6/10,232,4,6,125,73,52,0,3:00
+8-Nov-2021,Montevideo CH,3,Clay,R32,450,78,0,Q,3,Facundo Bagnis,Gonzalo Villanueva,6-1 7-6(4),0.72,1.3%,6.5%,62.3%,64.6%,34.5%,7/10,43.5%,33.8%,2.6%,34.0%,33.3%,1/6,154,1,5,77,48,29,2,1:59
+8-Nov-2021,Montevideo CH,3,Clay,Q2,450,706,1,5,Alt,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-2,1.40,3.5%,5.3%,63.2%,75.0%,42.9%,8/9,57.1%,51.6%,0.0%,41.9%,73.7%,5/10,119,2,3,57,36,21,0,1:25
+8-Nov-2021,Montevideo CH,3,Clay,Q1,450,,1,5,WC,Gonzalo Villanueva,Rodrigo Arus,6-1 6-0,2.57,2.7%,5.4%,64.9%,87.5%,53.8%,0/0,68.8%,62.5%,5.0%,41.2%,78.3%,5/10,77,1,2,37,24,13,2,0:47
+25-Oct-2021,Lima 2 CH,3,Clay,R16,483,145,0,Q,10,Tomas Barrios Vera,Gonzalo Villanueva,7-5 6-1,0.70,1.7%,5.2%,51.7%,50.0%,39.3%,4/10,41.7%,38.6%,7.0%,35.3%,43.5%,3/6,115,1,3,58,30,28,4,1:24
+25-Oct-2021,Lima 2 CH,3,Clay,R32,483,188,1,Q,,Gonzalo Villanueva,Dimitar Kuzmanov,7-5 6-1,1.36,2.0%,0.0%,60.0%,66.7%,55.0%,0/2,55.3%,51.6%,0.0%,45.5%,61.1%,6/14,141,1,0,50,30,20,0,2:02
+25-Oct-2021,Lima 2 CH,3,Clay,Q2,483,425,1,6,4,Gonzalo Villanueva,Cristian Rodriguez,6-7(5) 6-3 6-2,1.08,2.9%,2.9%,63.8%,62.7%,60.5%,2/4,52.3%,41.3%,10.9%,32.7%,52.5%,5/16,197,3,3,105,67,38,10,2:10
+25-Oct-2021,Lima 2 CH,3,Clay,Q1,483,1659,1,6,WC,Gonzalo Villanueva,Gonzalo Bueno,6-1 6-7(6) 6-4,1.15,2.9%,2.9%,63.8%,67.2%,39.5%,10/14,53.5%,49.5%,0.0%,35.6%,73.5%,7/11,198,3,3,105,67,38,0,2:20
+11-Oct-2021,M25  Lima,3,Clay,QF,477,517,0,4,8,Jonathan Mridha,Gonzalo Villanueva,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25  Lima,3,Clay,R16,477,1746,1,4,Q,Gonzalo Villanueva,Franco Roncadelli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25  Lima,3,Clay,R32,477,734,1,4,,Gonzalo Villanueva,Luca Castelnuovo,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25  Lima,3,Clay,R32,477,718,0,5,,Wilson Leite,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,Lima 1 CH,3,Clay,Q1,474,717,0,6,Alt,Jean Thirouin,Gonzalo Villanueva,6-3 1-6 6-1,1.01,3.8%,1.3%,70.0%,69.6%,37.5%,10/13,50.0%,40.2%,4.9%,30.4%,61.5%,2/5,162,3,1,80,56,24,4,2:12
+20-Sep-2021,Ambato CH,3,Clay,Q1,449,720,0,3,Alt,Luca Castelnuovo,Gonzalo Villanueva,7-6(4) 7-6(4),0.97,0.0%,4.7%,68.2%,72.4%,63.0%,9/10,50.0%,29.6%,13.6%,22.2%,38.9%,1/4,166,0,4,85,58,27,11,1:55
+13-Sep-2021,Quito CH,3,Clay,R32,448,207,0,,4,Renzo Olivo,Gonzalo Villanueva,6-4 6-4,0.94,1.5%,4.6%,58.5%,65.8%,55.6%,4/7,48.2%,36.1%,6.9%,24.3%,48.6%,1/6,137,1,3,65,38,27,5,1:35
+6-Sep-2021,Tulln CH,3,Clay,Q2,437,1304,0,5,WC,Neil Oberleitner,Gonzalo Villanueva,7-5 6-2,0.71,1.2%,0.0%,59.8%,49.0%,54.5%,8/13,44.5%,34.5%,10.9%,25.0%,72.7%,2/4,137,1,0,82,49,33,6,1:26
+6-Sep-2021,Tulln CH,3,Clay,Q1,437,578,1,5,Alt,Gonzalo Villanueva,Pavel Nejedly,6-2 6-4,1.99,11.6%,2.3%,55.8%,91.7%,57.9%,1/2,59.8%,46.3%,0.0%,42.9%,50.0%,4/5,97,5,1,43,24,19,0,
+30-Aug-2021,M15 Zilina,3,Clay,R32,437,999,0,1,,Peter Goldsteiner,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Decatur IL,3,Hard,R32,424,357,0,,6,Petros Chrysochos,Gonzalo Villanueva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2021,Lexington CH,3,Hard,Q1,415,443,0,5,Alt,Aidan Mchugh,Gonzalo Villanueva,7-5 2-6 6-3,0.99,9.3%,2.1%,69.1%,65.7%,46.7%,12/15,49.7%,40.0%,7.0%,34.9%,48.6%,3/10,197,9,2,97,67,30,7,2:56
+19-Jul-2021,Cary 1 CH,3,Hard,R32,396,253,0,,,Roberto Cid,Gonzalo Villanueva,3-6 7-5 6-1,0.82,3.1%,0.0%,68.4%,47.8%,64.5%,9/16,46.6%,38.5%,9.0%,29.2%,53.3%,5/9,176,3,0,98,67,31,7,2:28
+28-Jun-2021,M15 Weston FL,3,Clay,SF,399,807,0,6,Q,Liam Draxl,Gonzalo Villanueva,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M15 Weston FL,3,Clay,QF,399,969,1,6,WC,Gonzalo Villanueva,Cannon Kingsley,6-4 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M15 Weston FL,3,Clay,R16,399,1819,1,6,WC,Gonzalo Villanueva,Axel Nefve,2-6 6-1 10-8,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M15 Champaign IL,3,Hard,R32,399,,0,4,WC,Kweisi Kenyatte,Gonzalo Villanueva,3-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Tulsa OK,3,Hard,R16,398,518,0,,LL,Gage Brymer,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Tulsa OK,3,Hard,R32,398,341,1,,5,Gonzalo Villanueva,Adrian Andreev,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,Orlando 2 CH,3,Hard,Q1,396,342,0,,4,Adrian Andreev,Gonzalo Villanueva,3-6 6-3 7-6(6),0.96,0.0%,6.3%,54.5%,57.4%,41.2%,9/16,49.1%,48.1%,6.6%,37.1%,63.6%,7/13,218,0,7,112,61,51,7,3:07
+31-May-2021,Little Rock CH,3,Hard,Q1,396,781,0,6,WC,Zachary Svajda,Gonzalo Villanueva,6-0 5-7 6-2,0.70,3.4%,6.7%,48.3%,65.1%,41.3%,7/13,43.5%,32.9%,11.4%,24.4%,42.1%,2/8,168,3,6,89,43,46,9,2:03
+26-Apr-2021,Salinas 2 CH,3,Hard,R16,403,320,0,Q,,Jc Aragone,Gonzalo Villanueva,6-2 6-2,0.55,0.0%,0.0%,83.3%,40.0%,62.5%,1/6,37.6%,31.1%,8.9%,25.0%,41.2%,1/1,93,0,0,48,40,8,4,1:01
+26-Apr-2021,Salinas 2 CH,3,Hard,R32,403,393,1,Q,Q,Gonzalo Villanueva,Hernan Casanova,7-5 6-0,1.86,11.3%,0.0%,79.2%,69.0%,72.7%,2/4,62.7%,56.1%,0.0%,59.5%,46.7%,6/10,110,6,0,53,42,11,0,1:22
+26-Apr-2021,Salinas 2 CH,3,Hard,Q2,403,463,1,4,8,Gonzalo Villanueva,David Poljak,5-7 7-6(3) 7-6(4),1.00,1.7%,1.7%,65.0%,64.5%,56.1%,4/9,50.0%,38.5%,2.6%,28.2%,65.6%,4/10,234,2,2,117,76,41,3,3:01
+26-Apr-2021,Salinas 2 CH,3,Hard,Q1,403,539,1,4,,Gonzalo Villanueva,Gonzalo Lama,4-6 6-3 3-1 RET,1.13,2.6%,1.3%,68.8%,64.2%,50.0%,3/6,53.1%,45.5%,4.5%,35.9%,59.3%,4/5,143,2,1,77,53,24,3,1:54
+19-Apr-2021,Salinas 1 CH,3,Hard,Q2,402,465,0,2,,Nicolas Mejia,Gonzalo Villanueva,6-3 6-0,0.60,0.0%,14.0%,50.0%,56.0%,28.0%,1/6,38.4%,34.7%,0.0%,34.3%,35.7%,1/5,99,0,7,50,25,25,0,1:11
+19-Apr-2021,Salinas 1 CH,3,Hard,Q1,402,514,1,2,,Gonzalo Villanueva,Felix Corwin,6-7(1) 6-4 7-5,1.00,0.0%,2.6%,58.8%,67.2%,42.6%,5/10,50.0%,42.9%,10.7%,34.3%,55.6%,7/14,226,0,3,114,67,47,12,2:42
+29-Mar-2021,M15 Villa Maria,3,Clay,R16,401,620,0,3,,Matheus Pucinelli De Almeida,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Villa Maria,3,Clay,R32,401,1311,1,3,Q,Gonzalo Villanueva,Luciano Carraro,7-5 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,Santiago CH,3,Clay,R16,420,253,0,Q,,Sebastian Baez,Gonzalo Villanueva,7-5 6-2,0.71,3.5%,1.8%,70.2%,50.0%,29.4%,5/11,42.0%,40.0%,0.0%,35.7%,53.8%,3/3,112,2,1,57,40,17,0,1:20
+15-Mar-2021,Santiago CH,3,Clay,R32,420,214,1,Q,,Gonzalo Villanueva,Andrea Collarini,6-4 6-4,1.21,6.7%,0.0%,68.0%,66.7%,70.8%,5/5,54.7%,38.7%,1.6%,40.0%,37.5%,2/3,137,5,0,75,51,24,1,1:53
+15-Mar-2021,Santiago CH,3,Clay,Q2,420,358,1,5,3,Gonzalo Villanueva,Carlos Gomez Herrera,6-4 6-3,1.38,5.8%,1.9%,71.2%,78.4%,40.0%,0/1,56.3%,45.1%,0.0%,39.5%,61.5%,4/6,103,3,1,52,37,15,0,1:21
+15-Mar-2021,Santiago CH,3,Clay,Q1,420,1187,1,5,WC,Gonzalo Villanueva,Daniel Antonio Nunez,3-6 6-3 7-6(3),1.04,6.3%,2.1%,62.1%,61.0%,52.8%,5/10,51.1%,44.0%,2.2%,33.3%,57.5%,5/9,186,6,2,95,59,36,2,2:26
+22-Feb-2021,M25 Naples FL,3,Clay,SF,419,337,0,,6,Corentin Denolly,Gonzalo Villanueva,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Naples FL,3,Clay,QF,419,872,1,,JE,Gonzalo Villanueva,Martin Damm,5-7 7-6(0) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Naples FL,3,Clay,R16,419,381,1,,,Gonzalo Villanueva,Michael Redlicki,7-5 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Naples FL,3,Clay,R32,419,296,1,,3,Gonzalo Villanueva,Darian King,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,R32,414,376,0,,,Stefan Kozlov,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M25 Hurlingham,3,Clay,R16,385,576,0,7,,Nicolas Alberto Arreche,Gonzalo Villanueva,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M25 Hurlingham,3,Clay,R32,385,1148,1,7,Q,Gonzalo Villanueva,Jose Pereira,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Rio Cuarto (Cordoba),3,Clay,R32,386,469,0,5,,Facundo Diaz Acosta,Gonzalo Villanueva,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,QF,386,595,0,6,,Santiago Fa Rodriguez Taverna,Gonzalo Villanueva,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R16,386,514,1,6,,Gonzalo Villanueva,Mariano Kestelboim,6-1 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R32,386,1411,1,6,WC,Gonzalo Villanueva,Agustin Riquelme,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Lima,3,Clay,QF,386,292,0,7,1,Pedro Sakamoto,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Lima,3,Clay,R16,386,494,1,7,,Gonzalo Villanueva,Martin Cuevas,7-5 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Lima,3,Clay,R32,386,,1,7,WC,Gonzalo Villanueva,Gonzalo Bueno,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,R32,387,347,0,,5,Tomas Barrios Vera,Gonzalo Villanueva,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,Punta Del Este CH,3,Clay,R32,394,77,0,,1,Marco Cecchinato,Gonzalo Villanueva,6-0 6-3,0.29,2.1%,12.8%,53.2%,56.0%,31.8%,2/6,31.8%,15.8%,10.5%,9.4%,50.0%,0/0,85,1,6,47,25,22,4,0:53
+27-Jan-2020,Punta Del Este CH,3,Clay,R64,394,,1,,,Gonzalo Villanueva,Juan Martin Fumeaux,6-2 6-0,1.91,5.0%,2.5%,52.5%,76.2%,57.9%,1/2,64.7%,62.2%,0.0%,48.3%,87.5%,6/10,85,2,1,40,21,19,0,1:07
+18-Nov-2019,M25 Naples FL,3,Clay,R32,400,260,0,,2,Roberto Cid,Gonzalo Villanueva,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,Houston CH,3,Hard,R32,411,274,0,,13,Jenson Brooksby,Gonzalo Villanueva,6-2 6-2,0.51,1.7%,1.7%,56.9%,39.4%,48.0%,8/13,36.9%,28.9%,0.0%,23.5%,45.5%,1/1,103,1,1,58,33,25,0,1:06
+11-Nov-2019,Houston CH,3,Hard,R64,411,466,1,,,Gonzalo Villanueva,Rafael Matos,7-6(3) 6-4,1.07,1.1%,0.0%,65.3%,64.5%,51.5%,3/5,52.4%,42.7%,1.3%,35.2%,61.9%,3/7,170,1,0,95,62,33,1,1:54
+4-Nov-2019,Montevideo CH,3,Clay,R64,408,469,0,,Alt,Rafael Matos,Gonzalo Villanueva,4-6 6-0 6-2,0.61,1.2%,2.4%,60.2%,50.0%,51.5%,5/11,41.0%,30.1%,5.5%,25.5%,40.9%,2/8,156,1,2,83,50,33,4,1:40
+28-Oct-2019,Guayaquil CH,3,Clay,R32,406,127,0,,6,Pedro Sousa,Gonzalo Villanueva,6-2 6-2,0.62,1.9%,1.9%,67.9%,55.6%,47.1%,5/9,41.6%,29.2%,14.6%,25.0%,35.0%,0/1,101,1,1,53,36,17,7,1:02
+28-Oct-2019,Guayaquil CH,3,Clay,R64,406,752,1,,WC,Gonzalo Villanueva,Cayetano March,6-4 6-3,1.41,11.5%,1.9%,57.7%,73.3%,63.6%,4/5,54.6%,43.3%,4.5%,36.4%,56.5%,4/10,119,6,1,52,30,22,3,1:22
+21-Oct-2019,Lima CH,3,Clay,R64,409,231,0,,,Pedja Krstin,Gonzalo Villanueva,6-3 6-0,0.58,0.0%,7.7%,55.8%,55.2%,26.1%,3/8,38.0%,33.3%,2.1%,23.1%,45.5%,1/3,100,0,4,52,29,23,1,1:08
+7-Oct-2019,Santo Domingo CH,3,Clay,R32,401,83,0,,2,Hugo Dellien,Gonzalo Villanueva,6-2 6-3,0.63,2.5%,2.5%,67.5%,59.3%,53.8%,2/5,40.2%,26.9%,1.9%,25.0%,33.3%,0/2,92,1,1,40,27,13,1,0:59
+7-Oct-2019,Santo Domingo CH,3,Clay,R64,401,,1,,Q,Gonzalo Villanueva,Andres Molteni,4-6 6-4 6-2,1.26,7.2%,2.4%,66.3%,70.9%,53.6%,2/5,54.0%,44.0%,6.6%,38.5%,51.3%,5/13,174,6,2,83,55,28,6,2:04
+30-Sep-2019,Campinas CH,3,Clay,R32,387,231,0,,11,Alejandro Tabilo,Gonzalo Villanueva,6-0 6-3,0.63,2.3%,9.3%,46.5%,60.0%,26.1%,4/9,38.9%,36.5%,0.0%,25.0%,50.0%,1/7,95,1,4,43,20,23,0,1:05
+30-Sep-2019,Campinas CH,3,Clay,R64,387,,1,,Q,Gonzalo Villanueva,Fernando Romboli,6-2 6-2,1.70,4.2%,4.2%,41.7%,60.0%,64.3%,3/5,63.2%,63.8%,0.0%,59.3%,70.0%,6/8,95,2,2,48,20,28,0,1:13
+23-Sep-2019,Buenos Aires CH,3,Clay,R64,388,615,0,,Q,Federico Zeballos,Gonzalo Villanueva,6-4 6-1,0.58,1.3%,6.5%,62.3%,60.4%,27.6%,6/11,41.7%,30.2%,2.3%,22.7%,38.1%,1/2,120,1,5,77,48,29,1,1:18
+16-Sep-2019,M15 Buenos Aires,3,Clay,F,383,480,1,2,5,Gonzalo Villanueva,Maximiliano Estevez,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Buenos Aires,3,Clay,SF,383,476,1,2,,Gonzalo Villanueva,Genaro Alberto Olivieri,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Buenos Aires,3,Clay,QF,383,545,1,2,,Gonzalo Villanueva,Facundo Diaz Acosta,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Buenos Aires,3,Clay,R16,383,737,1,2,,Gonzalo Villanueva,Michel Vernier,7-6(4) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Buenos Aires,3,Clay,R32,383,1214,1,2,,Gonzalo Villanueva,Federico Moreno,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambare,3,Clay,F,392,645,1,,,Gonzalo Villanueva,Joao Lucas Reis Da Silva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambare,3,Clay,SF,392,810,1,,,Gonzalo Villanueva,Gabriel Alejandro Hidalgo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambare,3,Clay,QF,392,753,1,,7,Gonzalo Villanueva,Jorge Brian Panta Herreros,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambare,3,Clay,R16,392,884,1,,,Gonzalo Villanueva,Alex Blumenberg,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambare,3,Clay,R32,392,1342,1,,Q,Gonzalo Villanueva,Christian Oliveira,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,F,398,485,1,2,6,Gonzalo Villanueva,Michael Geerts,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,SF,398,510,1,2,,Gonzalo Villanueva,Genaro Alberto Olivieri,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,QF,398,1145,1,2,Q,Gonzalo Villanueva,Daniel De Jonge,4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,R16,398,1862,1,2,JR   ,Gonzalo Villanueva,Gauthier Onclin,5-7 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,R32,398,799,1,2,,Gonzalo Villanueva,Colin Van Beem,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Brussels,3,Clay,QF,525,601,0,2,,Jesper De Jong,Gonzalo Villanueva,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Brussels,3,Clay,R16,525,,1,2,,Gonzalo Villanueva,Gauthier Onclin,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Brussels,3,Clay,R32,525,,1,2,,Gonzalo Villanueva,Daniel De Jonge,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Pontedera,3,Clay,SF,529,448,0,,5,Enrico Dalla Valle,Gonzalo Villanueva,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Pontedera,3,Clay,QF,529,516,1,,,Gonzalo Villanueva,Giovanni Fonio,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Pontedera,3,Clay,R16,529,657,1,,,Gonzalo Villanueva,Tomas Martin Etcheverry,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Pontedera,3,Clay,R32,529,559,1,,,Gonzalo Villanueva,Holger Rune,7-6(7) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Gubbio,3,Clay,F,532,,1,,,Gonzalo Villanueva,Francesco Passaro,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Gubbio,3,Clay,SF,532,,1,,,Gonzalo Villanueva,Adelchi Virgili,7-6(7) 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Gubbio,3,Clay,QF,532,,1,,,Gonzalo Villanueva,Omar Giacalone,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Gubbio,3,Clay,R16,532,,1,,,Gonzalo Villanueva,Giovanni Rizzuti,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M15 Gubbio,3,Clay,R32,532,,1,,,Gonzalo Villanueva,David Barclay,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Casinalbo,3,Clay,R16,532,418,0,IR  ,8,Francesco Forti,Gonzalo Villanueva,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Casinalbo,3,Clay,R32,532,,1,IR  ,,Gonzalo Villanueva,Andres Gabriel Ciurletti,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bourg en Bresse,3,Clay,R32,532,,0,,Q,Alexandre Aubriot,Gonzalo Villanueva,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M25 Montauban,3,Clay,QF,530,435,0,,,Hugo Gaston,Gonzalo Villanueva,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M25 Montauban,3,Clay,R16,530,373,1,,2,Gonzalo Villanueva,Sadio Doumbia,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M25 Montauban,3,Clay,R32,530,500,1,,,Gonzalo Villanueva,Alejandro Gomez Gb42,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,R16,531,430,0,,3,Hugo Gaston,Gonzalo Villanueva,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,R32,531,,1,,,Gonzalo Villanueva,Giovanni Mpetshi Perricard,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M25 Karlsruhe,3,Clay,QF,516,377,0,IR  ,,Julian Lenz,Gonzalo Villanueva,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M25 Karlsruhe,3,Clay,R16,516,,1,IR  ,,Gonzalo Villanueva,Bastien Presuhn,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M25 Karlsruhe,3,Clay,R32,516,455,1,IR  ,,Gonzalo Villanueva,Antoine Cornut Chauvinc,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Kiseljak,3,Clay,SF,516,559,0,3,,Christopher Oconnell,Gonzalo Villanueva,3-6 6-4 [10-7],,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Kiseljak,3,Clay,QF,516,,1,3,Q,Gonzalo Villanueva,Alen Rogic Hadzalic,W/O,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Kiseljak,3,Clay,R16,516,,1,3,,Gonzalo Villanueva,Marko Tepavac,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Kiseljak,3,Clay,R32,516,,1,3,,Gonzalo Villanueva,Juan Manuel Cerundolo,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M15 Brcko,3,Clay,QF,518,671,0,2,,David Pichler,Gonzalo Villanueva,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M15 Brcko,3,Clay,R16,518,,1,2,,Gonzalo Villanueva,Kenneth Raisma,7-5 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M15 Brcko,3,Clay,R32,518,,1,2,,Gonzalo Villanueva,Marek Semjan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Buenos Aires,3,Clay,QF,519,646,0,,5,Genaro Alberto Olivieri,Gonzalo Villanueva,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Buenos Aires,3,Clay,R16,519,,1,,,Gonzalo Villanueva,Santiago Fa Rodriguez Taverna,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Buenos Aires,3,Clay,R32,519,,1,,LL,Gonzalo Villanueva,Oscar Gabriel Ortiz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Buenos Aires,3,Clay,R16,519,,0,,,Thiago Agustin Tirante,Gonzalo Villanueva,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Buenos Aires,3,Clay,R32,519,,1,,,Gonzalo Villanueva,Ignacio Monzon,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,R32,518,,0,,Q,Franco Agamenone,Gonzalo Villanueva,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,SF,522,580,0,,7,Juan Ignacio Galarza,Gonzalo Villanueva,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,QF,522,,1,,Q,Gonzalo Villanueva,Juan Manuel Cerundolo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R16,522,,1,,WC,Gonzalo Villanueva,Francisco Comesana,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R32,522,,1,,JR   ,Gonzalo Villanueva,Thiago Agustin Tirante,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,QF,522,,0,,,Francisco Cerundolo,Gonzalo Villanueva,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R16,522,,1,,WC,Gonzalo Villanueva,Mariano Navone,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R32,522,,1,,Q,Gonzalo Villanueva,Gaston Tonello,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,Santiago CH,3,Clay,R32,565,223,0,Q,14,Federico Gaio,Gonzalo Villanueva,3-6 6-3 6-3,0.83,1.1%,2.2%,59.3%,57.4%,54.1%,10/16,47.5%,36.6%,5.6%,25.7%,47.2%,4/7,162,1,2,91,54,37,4,1:55
+4-Mar-2019,Santiago CH,3,Clay,R64,565,336,1,Q,,Gonzalo Villanueva,Alexandre Muller,4-6 7-6(4) 6-1,1.11,1.9%,3.8%,52.8%,73.2%,48.0%,4/7,52.8%,43.0%,4.3%,21.6%,69.0%,4/12,199,2,4,106,56,50,4,2:20
+4-Mar-2019,Santiago CH,3,Clay,Q1,565,,1,1,WC,Gonzalo Villanueva,Amador Salazar,6-3 6-1,1.56,4.5%,0.0%,65.9%,62.1%,46.7%,1/4,62.4%,67.3%,0.0%,66.7%,68.8%,7/10,93,2,0,44,29,15,0,1:12
+18-Feb-2019,Cuernavaca CH,3,Hard,R64,567,478,0,Q,WC,Manuel Sanchez,Gonzalo Villanueva,6-3 6-3,0.61,2.1%,12.5%,47.9%,60.9%,44.0%,0/4,40.4%,29.4%,9.8%,16.7%,47.6%,1/3,99,1,6,48,23,25,5,1:05
+18-Feb-2019,Cuernavaca CH,3,Hard,Q1,567,417,1,ITF,1,Gonzalo Villanueva,Evan Furness,2-6 7-6(1) 6-1,1.06,1.1%,6.3%,58.9%,62.5%,35.9%,6/13,51.5%,51.5%,4.0%,45.2%,62.2%,7/14,194,1,6,95,56,39,4,2:00
+21-Jan-2019,Punta Del Este CH,3,Clay,R32,612,259,0,ITF,12,Nino Serdarusic,Gonzalo Villanueva,7-6(3) 4-6 6-4,1.06,3.0%,3.0%,65.0%,69.2%,48.6%,4/9,50.2%,40.2%,10.3%,32.3%,50.0%,5/12,217,3,3,100,65,35,12,2:43
+21-Jan-2019,Punta Del Este CH,3,Clay,R64,612,449,1,ITF,,Gonzalo Villanueva,Thiago Seyboth Wild,1-6 6-4 6-3,0.94,1.0%,10.3%,55.7%,64.8%,37.2%,13/19,48.9%,44.6%,6.0%,37.5%,54.3%,6/11,180,1,10,97,54,43,5,2:25
+12-Nov-2018,Buenos Aires CH,3,Clay,R32,379,119,0,Q,5,Hugo Dellien,Gonzalo Villanueva,6-4 6-3,0.58,2.9%,2.9%,52.9%,63.9%,46.9%,4/7,42.9%,25.5%,3.9%,30.0%,19.0%,0/1,119,2,2,68,36,32,2,1:20
+12-Nov-2018,Buenos Aires CH,3,Clay,Q3,379,523,1,7,,Gonzalo Villanueva,Manuel Pena Lopez,6-3 3-6 6-1,1.31,5.3%,4.0%,58.7%,68.2%,61.3%,4/6,54.0%,45.5%,3.0%,38.2%,54.5%,4/11,174,4,3,75,44,31,3,2:06
+12-Nov-2018,Buenos Aires CH,3,Clay,Q2,379,454,1,7,,Gonzalo Villanueva,Pedro Sakamoto,7-5 4-6 6-2,1.18,4.3%,2.1%,66.0%,74.2%,53.1%,7/9,52.6%,39.0%,1.0%,32.8%,50.0%,4/15,194,4,2,94,62,32,1,2:06
+5-Nov-2018,Montevideo CH,3,Clay,Q3,377,322,0,,8,Federico Coria,Gonzalo Villanueva,7-5 6-1,0.70,1.6%,3.2%,62.9%,46.2%,43.5%,3/9,42.0%,38.6%,1.8%,34.0%,60.0%,2/9,119,1,2,62,39,23,1,1:25
+5-Nov-2018,Montevideo CH,3,Clay,Q2,377,285,1,,2,Gonzalo Villanueva,Dragos Dima,6-2 6-2,2.07,2.4%,4.8%,59.5%,84.0%,64.7%,0/0,60.0%,49.2%,3.2%,36.8%,68.0%,4/14,105,1,2,42,25,17,2,1:04
+5-Nov-2018,Montevideo CH,3,Clay,Q1,377,534,1,,,Gonzalo Villanueva,Nicolas Alvarez,6-2 6-0,2.08,2.6%,5.1%,61.5%,87.5%,53.3%,3/3,61.4%,53.2%,4.8%,51.2%,57.1%,5/12,101,1,2,39,24,15,3,1:04
+22-Oct-2018,Lima CH,3,Clay,Q2,375,546,0,8,,Bastian Malla,Gonzalo Villanueva,7-5 6-2,0.72,0.0%,2.9%,59.4%,56.1%,46.4%,5/10,43.8%,34.4%,4.9%,36.4%,32.1%,2/5,130,0,2,69,41,28,3,1:25
+22-Oct-2018,Lima CH,3,Clay,Q1,375,408,1,8,,Gonzalo Villanueva,Thiago Seyboth Wild,6-4 4-6 6-0,1.22,3.9%,2.6%,61.8%,63.8%,48.3%,0/4,54.4%,51.2%,6.1%,44.4%,59.5%,7/15,158,3,2,76,47,29,5,2:09
+8-Oct-2018,Peru F3,3,Clay,QF,403,543,0,,5,Mariano Kestelboim,Gonzalo Villanueva,7-5 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Peru F3,3,Clay,R16,403,989,1,,,Gonzalo Villanueva,Guido Ivan Justo,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Peru F3,3,Clay,R32,403,765,1,,,Gonzalo Villanueva,Junior Ore,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Peru F1,3,Clay,F,539,886,1,3,7,Gonzalo Villanueva,Arklon Huertas Del Pino,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Peru F1,3,Clay,SF,539,,1,3,,Gonzalo Villanueva,Conner Huertas Del Pino,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Peru F1,3,Clay,QF,539,886,1,3,,Gonzalo Villanueva,Nicolas Santos,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Peru F1,3,Clay,R16,539,1912,1,3,,Gonzalo Villanueva,Nicolas Zaidman,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Peru F1,3,Clay,R32,539,1503,1,3,,Gonzalo Villanueva,Nick Hardt,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,F,557,1220,1,,Q,Gonzalo Villanueva,Francisco Cerundolo,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,SF,557,1221,1,,WC,Gonzalo Villanueva,Maximiliano Estevez,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,QF,557,422,1,,4,Gonzalo Villanueva,Camilo Ugo Carabelli,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,R16,557,1061,1,,,Gonzalo Villanueva,Guido Ivan Justo,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,R32,557,,1,,WC,Gonzalo Villanueva,Juan Manuel Cerundolo,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Argentina F5,3,Clay,SF,561,420,0,,2,Camilo Ugo Carabelli,Gonzalo Villanueva,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Argentina F5,3,Clay,QF,561,568,1,,3,Gonzalo Villanueva,Rafael Matos,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Argentina F5,3,Clay,R16,561,,1,,,Gonzalo Villanueva,Juan Manuel Cerundolo,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Argentina F5,3,Clay,R32,561,901,1,,,Gonzalo Villanueva,Arklon Huertas Del Pino,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Argentina F4,3,Clay,QF,563,363,0,6,,Juan Ignacio Galarza,Gonzalo Villanueva,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Argentina F4,3,Clay,R16,563,1293,1,6,Q,Gonzalo Villanueva,Maximiliano Estevez,0-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Argentina F4,3,Clay,R32,563,935,1,6,,Gonzalo Villanueva,Daniil Zarichanskyy,6-1 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Cordenons CH,3,Clay,Q2,577,406,0,,3,Daniel Dutra Da Silva,Gonzalo Villanueva,7-5 6-4,0.78,2.9%,4.3%,52.2%,75.0%,30.3%,5/9,44.7%,36.1%,4.2%,27.8%,44.4%,2/9,141,2,3,69,36,33,3,1:40
+13-Aug-2018,Cordenons CH,3,Clay,Q1,577,866,1,,,Gonzalo Villanueva,Franco Agamenone,7-6(8) 6-2,1.19,0.0%,4.7%,54.7%,70.2%,53.8%,4/5,53.9%,44.3%,2.5%,27.1%,71.0%,3/5,165,0,4,86,47,39,2,1:58
+6-Aug-2018,Italy F22,3,Clay,QF,625,383,0,,8,Fabien Reboul,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Italy F22,3,Clay,R16,625,285,1,,,Gonzalo Villanueva,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Italy F22,3,Clay,R32,625,495,1,,,Gonzalo Villanueva,Jose Pereira,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Italy F21,3,Clay,SF,628,846,0,,,Tomas Martin Etcheverry,Gonzalo Villanueva,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Italy F21,3,Clay,QF,628,838,1,,,Gonzalo Villanueva,Lorenzo Frigerio,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Italy F21,3,Clay,R16,628,551,1,,7,Gonzalo Villanueva,Riccardo Bonadio,6-1 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Italy F21,3,Clay,R32,628,711,1,,,Gonzalo Villanueva,Wilson Leite,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Italy F20,3,Clay,R32,631,379,0,,,Daniel Dutra Da Silva,Gonzalo Villanueva,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q2,630,608,0,,,Giovanni Fonio,Gonzalo Villanueva,6-4 6-4,0.66,0.0%,2.8%,67.6%,62.5%,56.5%,5/7,45.0%,25.9%,12.1%,13.9%,45.5%,0/4,129,0,2,71,48,23,7,1:30
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q1,630,379,1,,4,Gonzalo Villanueva,Gonzalo Escobar,3-6 6-3 6-0,1.30,3.9%,0.0%,59.7%,67.4%,51.6%,4/7,55.3%,50.5%,0.0%,48.4%,54.8%,6/17,170,3,0,77,46,31,0,2:06
+2-Jul-2018,France F12,3,Clay,R32,640,406,0,,,Corentin Denolly,Gonzalo Villanueva,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,France F11,3,Clay,R16,641,294,0,,,Ugo Humbert,Gonzalo Villanueva,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,France F11,3,Clay,R32,641,,1,,,Gonzalo Villanueva,Theo Arribage,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Argentina F3,3,Clay,F,694,267,0,,,Facundo Arguello,Gonzalo Villanueva,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Argentina F3,3,Clay,SF,694,745,1,,,Gonzalo Villanueva,Franco Emanuel Egea,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Argentina F3,3,Clay,QF,694,541,1,,3,Gonzalo Villanueva,Juan Carlos Saez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Argentina F3,3,Clay,R16,694,895,1,,,Gonzalo Villanueva,Michel Vernier,6-1 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Argentina F3,3,Clay,R32,694,829,1,,,Gonzalo Villanueva,Felipe Martinez Sarrasague,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Argentina F2,3,Clay,SF,697,649,0,7,6,Camilo Ugo Carabelli,Gonzalo Villanueva,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Argentina F2,3,Clay,QF,697,280,1,7,,Gonzalo Villanueva,Facundo Arguello,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Argentina F2,3,Clay,R16,697,1062,1,7,,Gonzalo Villanueva,Gabriel Alejandro Hidalgo,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Argentina F2,3,Clay,R32,697,900,1,7,,Gonzalo Villanueva,Tomas Martin Etcheverry,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Brazil F4,3,Clay,R16,693,526,0,,8,Thiago Seyboth Wild,Gonzalo Villanueva,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Brazil F4,3,Clay,R32,693,791,1,,,Gonzalo Villanueva,Alejandro Tabilo,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2018,Brazil F3,3,Clay,R32,792,506,0,,4,Rafael Matos,Gonzalo Villanueva,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Brazil F2,3,Clay,F,792,513,0,,2,Rafael Matos,Gonzalo Villanueva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Brazil F2,3,Clay,SF,792,519,1,,,Gonzalo Villanueva,Oscar Jose Gutierrez,6-7(3) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Brazil F2,3,Clay,QF,792,814,1,,,Gonzalo Villanueva,Marcelo Zormann Da Silva,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Brazil F2,3,Clay,R16,792,743,1,,8,Gonzalo Villanueva,Camilo Ugo Carabelli,4-6 7-6(6) 5-5 RET,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Brazil F2,3,Clay,R32,792,1022,1,,Q,Gonzalo Villanueva,Tomas Martin Etcheverry,5-7 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Brazil F1,3,Clay,R16,792,370,0,,,Daniel Dutra Da Silva,Gonzalo Villanueva,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Brazil F1,3,Clay,R32,792,1913,1,,,Gonzalo Villanueva,Christian Oliveira,5-7 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Santiago CH,3,Clay,Q1,792,314,0,WC,,Jose Hernandez,Gonzalo Villanueva,7-6(1) 7-6(4),0.84,0.0%,5.6%,66.3%,61.0%,26.7%,2/7,45.9%,42.7%,1.0%,39.3%,48.6%,5/11,185,0,5,89,59,30,1,2:07
+26-Feb-2018,Punta Del Este CH,3,Clay,Q3,797,356,0,,3,Juan Ignacio Galarza,Gonzalo Villanueva,6-3 6-2,0.70,2.1%,2.1%,77.1%,54.1%,54.5%,4/8,42.6%,32.1%,3.8%,27.5%,46.2%,0/2,101,1,1,48,37,11,2,1:13
+26-Feb-2018,Punta Del Este CH,3,Clay,Q2,797,616,1,,,Gonzalo Villanueva,Franco Agamenone,6-1 6-3,1.45,1.7%,1.7%,67.8%,70.0%,47.4%,5/6,58.9%,54.2%,2.1%,53.1%,56.3%,5/7,107,1,1,59,40,19,1,1:16
+26-Feb-2018,Punta Del Este CH,3,Clay,Q1,797,403,1,,6,Gonzalo Villanueva,Gonzalo Lama,7-5 3-6 6-2,1.06,3.1%,2.1%,59.8%,67.2%,43.6%,9/13,51.3%,44.9%,1.0%,33.3%,63.2%,5/15,195,3,2,97,58,39,1,2:16
+4-Dec-2017,Argentina F12,3,Clay,R16,800,354,0,,3,Daniel Dutra Da Silva,Gonzalo Villanueva,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Argentina F12,3,Clay,R32,800,931,1,,,Gonzalo Villanueva,Facundo Juarez,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,QF,800,259,0,,,Andrea Collarini,Gonzalo Villanueva,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R16,800,490,1,,8,Gonzalo Villanueva,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R32,800,1222,1,,,Gonzalo Villanueva,Alan Kohen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,SF,800,398,0,7,,Juan Ignacio Galarza,Gonzalo Villanueva,7-6(5) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,QF,800,931,1,7,,Gonzalo Villanueva,Facundo Juarez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,R16,800,1324,1,7,,Gonzalo Villanueva,Juan Pablo Grassi Mazzuchi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,R32,800,1585,1,7,,Gonzalo Villanueva,Juan Bautista Otegui,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Argentina F9,3,Clay,R16,804,456,0,,,Mariano Kestelboim,Gonzalo Villanueva,6-3 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Argentina F9,3,Clay,R32,804,1818,1,,WC,Gonzalo Villanueva,Gaston Ezequiel Cantero,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Argentina F8,3,Clay,QF,804,390,0,,,Daniel Dutra Da Silva,Gonzalo Villanueva,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Argentina F8,3,Clay,R16,804,641,1,,7,Gonzalo Villanueva,Franco Emanuel Egea,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Argentina F8,3,Clay,R32,804,1106,1,,,Gonzalo Villanueva,Esteban Bruna,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Buenos Aires CH,3,Clay,Q2,800,500,0,,,Genaro Alberto Olivieri,Gonzalo Villanueva,6-4 6-2,0.74,0.0%,0.0%,64.2%,52.9%,42.1%,3/8,43.4%,37.7%,7.5%,33.3%,43.5%,2/5,106,0,0,53,34,19,4,1:08
+9-Oct-2017,Buenos Aires CH,3,Clay,Q1,800,888,1,,PR,Gonzalo Villanueva,David Souto,6-4 7-5,1.17,1.7%,3.4%,70.7%,53.7%,58.8%,3/7,53.8%,52.5%,3.3%,54.3%,50.0%,6/9,119,1,2,58,41,17,2,1:31
+11-Sep-2017,Argentina F7,3,Clay,R32,719,308,0,,1,Facundo Arguello,Gonzalo Villanueva,6-7(0) 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R16,630,316,0,,2,Facundo Arguello,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R32,630,1553,1,,Q,Gonzalo Villanueva,Nicolas Alberto Arreche,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,R32,627,1558,0,6,PR,Nicolas Alberto Arreche,Gonzalo Villanueva,6-7(4) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Floridablanca CH,3,Clay,Q2,629,952,0,4,,Andre Miele,Gonzalo Villanueva,4-6 6-3 6-2,0.98,3.9%,0.0%,75.0%,63.2%,47.4%,3/7,48.0%,39.8%,6.8%,33.8%,53.1%,2/8,179,3,0,76,57,19,7,2:22
+7-Aug-2017,Floridablanca CH,3,Clay,Q1,629,1309,1,4,,Gonzalo Villanueva,Alexandre Tsuchiya,6-4 6-3,1.32,0.0%,0.0%,69.8%,75.7%,62.5%,1/1,53.6%,37.3%,8.5%,20.0%,62.5%,3/7,112,0,0,53,37,16,5,1:16
+31-Jul-2017,Colombia F3,3,Clay,R16,618,322,0,,1,Daniel Elahi Galan,Gonzalo Villanueva,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Colombia F3,3,Clay,R32,618,997,1,,Q,Gonzalo Villanueva,Michel Vernier,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Colombia F2,3,Clay,R32,617,1066,0,8,,Camilo Ugo Carabelli,Gonzalo Villanueva,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Colombia F1,3,Hard,R32,619,666,0,6,,Franco Emanuel Egea,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Medellin CH,3,Clay,R32,551,498,0,,,Juan Ignacio Galarza,Gonzalo Villanueva,6-1 4-6 7-6(3),0.86,3.4%,8.4%,54.6%,67.7%,44.4%,10/13,47.6%,36.8%,5.7%,30.8%,53.6%,2/8,225,4,10,119,65,54,6,2:33
+19-Jun-2017,Argentina F3,3,Clay,R32,564,1200,0,,Q,Alexandre Tsuchiya,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,SF,573,602,0,6,8,Juan Ignacio Galarza,Gonzalo Villanueva,3-6 6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,QF,573,1350,1,6,WC,Gonzalo Villanueva,Francisco Cerundolo,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R16,573,1294,1,6,Q,Gonzalo Villanueva,Facundo Juarez,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R32,573,1397,1,6,Q,Gonzalo Villanueva,Alan Kohen,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R16,523,1415,0,6,Q,Alan Kohen,Gonzalo Villanueva,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R32,523,620,1,6,,Gonzalo Villanueva,Felipe Mantilla,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Spain F10,3,Clay,R32,527,318,0,Q,4,Maxime Hamou,Gonzalo Villanueva,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Spain F9,3,Clay,R32,531,432,0,Q,,Daniel Dutra Da Silva,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Spain F8,3,Clay,R32,531,305,0,,4,Oriol Roca Batalla,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Spain F7,3,Clay,R32,530,487,0,,7,Pedro Cachin,Gonzalo Villanueva,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Spain F6,3,Hard,R32,528,725,0,,,Marcos Giraldi Requena,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Spain F5,3,Clay,R32,526,495,0,,,Pedro Cachin,Gonzalo Villanueva,2-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Spain F4,3,Clay,R32,532,518,0,,,Daniel Munoz De La Nava,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Spain F3,3,Clay,R16,539,399,0,,7,Alexander Ward,Gonzalo Villanueva,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Spain F3,3,Clay,R32,539,689,1,,,Gonzalo Villanueva,Alberto Romero De Avila Senise,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Spain F2,3,Clay,R16,544,277,0,,2,Ricardo Ojeda Lara,Gonzalo Villanueva,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Spain F2,3,Clay,R32,544,,1,,WC,Gonzalo Villanueva,Imanol Lopez Morillo,5-7 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Uruguay F3,3,Clay,R32,548,566,0,,,Orlando Luz,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Uruguay F2,3,Clay,QF,572,382,0,8,3,Joao Pedro Sorgi,Gonzalo Villanueva,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Uruguay F2,3,Clay,R16,572,623,1,8,,Gonzalo Villanueva,Nicolas Santos,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Uruguay F2,3,Clay,R32,572,1560,1,8,WC,Gonzalo Villanueva,Marcel Felder,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,SF,574,670,0,8,,Orlando Luz,Gonzalo Villanueva,6-1 6-7(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,QF,574,,1,8,WC,Gonzalo Villanueva,Rodrigo Arus,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,R16,574,1542,1,8,,Gonzalo Villanueva,Alejo Vilaro,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,R32,574,1432,1,8,,Gonzalo Villanueva,Lourenzo Gasperini,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,QF,580,319,0,7,1,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,R16,580,,1,7,Q,Gonzalo Villanueva,Gaston Ezequiel Cantero,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,R32,580,1764,1,7,WC,Gonzalo Villanueva,Franco Ribero,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Argentina F12,3,Clay,R32,592,853,0,,,Santiago Fa Rodriguez Taverna,Gonzalo Villanueva,6-3 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,QF,589,309,0,8,1,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,R16,589,915,1,8,PR,Gonzalo Villanueva,Gaston Arturo Grimolizzi,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,R32,589,,1,8,Q,Gonzalo Villanueva,Santiago Besada,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Buenos Aires CH,3,Clay,Q3,593,522,0,8,4,Bruno Santanna,Gonzalo Villanueva,6-1 6-1,0.45,3.1%,9.4%,50.0%,43.8%,31.3%,0/5,32.0%,27.9%,14.0%,18.5%,43.8%,0/1,75,1,3,32,16,16,6,0:48
+10-Oct-2016,Buenos Aires CH,3,Clay,Q2,593,1368,1,8,,Gonzalo Villanueva,Nicolas Alejandro De Gregorio,6-2 6-1,2.72,2.8%,2.8%,61.1%,72.7%,85.7%,0/0,67.9%,60.4%,0.0%,58.1%,64.7%,5/9,84,1,1,36,22,14,0,0:57
+10-Oct-2016,Buenos Aires CH,3,Clay,Q1,593,,1,8,WC,Gonzalo Villanueva,Juan Bautista Otegui,6-3 7-5,1.50,3.4%,1.7%,60.3%,60.0%,78.3%,1/4,58.4%,49.1%,1.8%,33.3%,68.0%,5/7,113,2,1,58,35,23,1,1:30
+19-Sep-2016,Spain F31,3,Clay,R32,584,419,0,,5,Marc Giner,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Spain F30,3,Clay,F,586,439,0,,5,Bernabe Zapata Miralles,Gonzalo Villanueva,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Spain F30,3,Clay,SF,586,491,1,,6,Gonzalo Villanueva,Javier Marti,4-6 5-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Spain F30,3,Clay,QF,586,1298,1,,Q,Gonzalo Villanueva,Mirko Martinez,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Spain F30,3,Clay,R16,586,777,1,,Q,Gonzalo Villanueva,David Vega Hernandez,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Spain F30,3,Clay,R32,586,1658,1,,Q,Gonzalo Villanueva,Luis Heredia Gomez,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Spain F29,3,Clay,R32,652,416,0,,2,Marc Giner,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Spain F28,3,Clay,F,652,408,0,,5,Jaume Munar,Gonzalo Villanueva,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Spain F28,3,Clay,SF,652,377,1,,2,Gonzalo Villanueva,Ricardo Ojeda Lara,2-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Spain F28,3,Clay,QF,652,816,1,,,Gonzalo Villanueva,Juan Lizariturry,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Spain F28,3,Clay,R16,652,934,1,,,Gonzalo Villanueva,Alexis Klegou,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Spain F28,3,Clay,R32,652,470,1,,8,Gonzalo Villanueva,Laurent Rochette,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Spain F27,3,Clay,QF,618,903,0,,,Alberto Romero De Avila Senise,Gonzalo Villanueva,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Spain F27,3,Clay,R16,618,1057,1,,Q,Gonzalo Villanueva,Giovanni Rizzuti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Spain F27,3,Clay,R32,618,506,1,,6,Gonzalo Villanueva,Pol Toledo Bague,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Cali CH,3,Clay,Q1,727,509,0,,1,Juan Sebastian Gomez,Gonzalo Villanueva,6-4 6-2,0.73,2.1%,0.0%,57.4%,55.6%,35.0%,2/7,42.3%,39.1%,6.3%,26.8%,60.9%,2/6,111,1,0,47,27,20,4,
+27-Jun-2016,Colombia F3,3,Clay,F,727,551,0,,5,Roberto Quiroz,Gonzalo Villanueva,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Colombia F3,3,Clay,SF,727,626,1,,,Gonzalo Villanueva,Juan Pablo Varillas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Colombia F3,3,Clay,QF,727,1251,1,,PR,Gonzalo Villanueva,Gaston Arturo Grimolizzi,6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Colombia F3,3,Clay,R16,727,558,1,,8,Gonzalo Villanueva,Felipe Mantilla,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Colombia F3,3,Clay,R32,727,988,1,,Q,Gonzalo Villanueva,Jorge Brian Panta Herreros,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Colombia F2,3,Clay,SF,731,1406,0,,Q,Roberto Cid,Gonzalo Villanueva,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Colombia F2,3,Clay,QF,731,585,1,,,Gonzalo Villanueva,Matias Zukas,2-6 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Colombia F2,3,Clay,R16,731,768,1,,,Gonzalo Villanueva,Alejandro Mendoza,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Colombia F2,3,Clay,R32,731,270,1,,1,Gonzalo Villanueva,Maximiliano Estevez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Colombia F1,3,Hard,R16,735,880,0,8,,Alejandro Tabilo,Gonzalo Villanueva,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Colombia F1,3,Hard,R32,735,,1,8,,Gonzalo Villanueva,Mateo Andres Ruiz Naranjo,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,QF,753,392,0,,5,Federico Coria,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,R16,753,343,1,,3,Gonzalo Villanueva,Facundo Mena,6-1 5-1 RET,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,R32,753,803,1,,,Gonzalo Villanueva,Michel Vernier,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,F,753,463,0,,,Daniel Dutra Da Silva,Gonzalo Villanueva,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,SF,753,392,1,,6,Gonzalo Villanueva,Federico Coria,6-2 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,QF,753,410,1,,8,Gonzalo Villanueva,Juan Carlos Saez,6-2 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,R16,753,,1,,WC,Gonzalo Villanueva,Fermin Peralta Martinez,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,R32,753,343,1,,3,Gonzalo Villanueva,Facundo Mena,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,R32,737,481,0,,6,Daniel Dutra Da Silva,Gonzalo Villanueva,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Argentina F6,3,Clay,R32,736,340,0,,1,Hernan Casanova,Gonzalo Villanueva,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Argentina F5,3,Clay,R32,741,601,0,,8,Mariano Kestelboim,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R16,713,393,0,,7,Andrea Collarini,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R32,713,743,1,,,Gonzalo Villanueva,Sebastian Exequiel Pini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,R32,713,363,0,,2,Francisco Bahamonde,Gonzalo Villanueva,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Buenos Aires CH,3,Clay,Q2,693,360,0,,3,Hernan Casanova,Gonzalo Villanueva,6-1 6-3,0.60,6.5%,4.3%,58.7%,55.6%,42.1%,2/6,39.6%,30.0%,0.0%,21.4%,75.0%,0/1,96,3,2,46,27,19,0,1:07
+11-Jan-2016,Buenos Aires CH,3,Clay,Q1,693,441,1,,,Gonzalo Villanueva,Juan Pablo Paz,6-3 2-6 6-2,1.13,4.9%,2.4%,58.5%,70.8%,52.9%,4/6,52.9%,41.3%,6.7%,27.5%,57.1%,3/7,157,4,2,82,48,34,5,1:57
+4-Jan-2016,Mendoza CH,3,Clay,Q2,694,386,0,,1,Juan Ignacio Galarza,Gonzalo Villanueva,7-6(4) 4-6 6-3,0.92,6.2%,1.0%,40.2%,74.4%,67.2%,4/5,49.0%,27.4%,7.4%,20.0%,37.5%,1/3,192,6,1,97,39,58,7,2:19
+4-Jan-2016,Mendoza CH,3,Clay,Q1,694,1122,1,,,Gonzalo Villanueva,Dante Gennaro,6-3 3-6 6-3,1.33,8.6%,4.9%,48.1%,79.5%,59.5%,2/4,54.4%,41.1%,1.1%,35.8%,48.6%,3/9,171,7,4,81,39,42,1,2:07
+7-Dec-2015,Chile F9,3,Clay,R32,682,747,0,,,Matias Zukas,Gonzalo Villanueva,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R32,682,689,0,8,,Jorge Montero,Gonzalo Villanueva,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Santiago CH,3,Clay,Q2,654,487,0,,8,Juan Pablo Paz,Gonzalo Villanueva,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Santiago CH,3,Clay,Q1,654,,1,,WC,Gonzalo Villanueva,Gonzalo Urruticoechea,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,QF,678,552,0,8,3,Juan Pablo Paz,Gonzalo Villanueva,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,R16,678,1064,1,8,,Gonzalo Villanueva,Dante Gennaro,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,R32,678,2054,1,8,Q,Gonzalo Villanueva,Tomas Gerini,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,SF,695,631,0,6,5,Maximiliano Estevez,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,QF,695,419,1,6,1,Gonzalo Villanueva,Hernan Casanova,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R16,695,,1,6,WC,Gonzalo Villanueva,Nicolas De Marco,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R32,695,1638,1,6,,Gonzalo Villanueva,Luciano Betella,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,QF,682,693,0,8,,Joao Pedro Sorgi,Gonzalo Villanueva,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,R16,682,1022,1,8,,Gonzalo Villanueva,Dante Gennaro,1-6 7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,R32,682,,1,8,WC,Gonzalo Villanueva,Tomas Reche,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,R32,700,766,0,,,Matias Zukas,Gonzalo Villanueva,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,R32,739,684,0,,,Mariano Kestelboim,Gonzalo Villanueva,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,SF,735,530,0,,5,Juan Ignacio Galarza,Gonzalo Villanueva,4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,QF,735,641,1,,,Gonzalo Villanueva,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R16,735,657,1,,7,Gonzalo Villanueva,Juan Ignacio Ameal,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R32,735,1995,1,,Q,Gonzalo Villanueva,Santiago Villarruel,6-7(3) 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,R32,725,537,0,,,Daniel Dutra Da Silva,Gonzalo Villanueva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R16,750,1020,0,Q,Q,Franco Emanuel Egea,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R32,750,512,1,Q,6,Gonzalo Villanueva,Andre Miele,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R16,751,593,0,,,Hernan Casanova,Gonzalo Villanueva,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R32,751,951,1,,WC,Gonzalo Villanueva,Alexandre Tsuchiya,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,R32,752,538,0,,5,Daniel Dutra Da Silva,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,SF,869,380,0,,3,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,QF,869,814,1,,,Gonzalo Villanueva,Ricardo Urzua Rivera,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R16,869,1364,1,,WC,Gonzalo Villanueva,Franco Emanuel Egea,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R32,869,326,1,,2,Gonzalo Villanueva,Jorge Aguilar,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Argentina F6,3,Clay,R32,887,1068,0,WC,Q,Juan Manuel Matute,Gonzalo Villanueva,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,QF,883,994,0,,Q,Francisco Bahamonde,Gonzalo Villanueva,3-6 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R16,883,784,1,,,Gonzalo Villanueva,Sebastian Exequiel Pini,0-6 7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R32,883,389,1,,3,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R32,879,550,0,,3,Juan Ignacio Galarza,Gonzalo Villanueva,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,QF,929,498,0,Q,5,Bastian Malla,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R16,929,2163,1,Q,Q,Gonzalo Villanueva,Serge Becerra Jeria,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R32,929,940,1,Q,Q,Gonzalo Villanueva,Nicolas Alejandro De Gregorio,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Chile F3,3,Clay,R16,957,257,0,Q,2,Gonzalo Lama,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Chile F3,3,Clay,R32,957,2136,1,Q,WC,Gonzalo Villanueva,Serge Becerra Jeria,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,QF,952,347,0,Q,3,Federico Coria,Gonzalo Villanueva,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R16,952,430,1,Q,7,Gonzalo Villanueva,Thales Turini,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R32,952,937,1,Q,Q,Gonzalo Villanueva,Mariano Kestelboim,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R16,979,609,0,Q,8,Juan Ignacio Galarza,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R32,979,960,1,Q,Q,Gonzalo Villanueva,Leandro Portmann,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,QF,1066,372,0,Q,7,Jorge Aguilar,Gonzalo Villanueva,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,R16,1066,574,1,Q,,Gonzalo Villanueva,Bastian Malla,6-1 6-7(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,R32,1066,178,1,Q,1,Gonzalo Villanueva,Hans Podlipnik Castillo,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Argentina F20,3,Clay,R32,1032,270,0,Q,2,Andres Molteni,Gonzalo Villanueva,6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Argentina F19,3,Clay,R32,1060,295,0,,3,Cristian Garin,Gonzalo Villanueva,7-6(2) 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Chile F8,3,Clay,R16,1082,802,0,Q,,Nicolas Alberto Arreche,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Chile F8,3,Clay,R32,1082,438,1,Q,3,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,QF,1073,1204,0,,,Nicolas Alejandro De Gregorio,Gonzalo Villanueva,6-0 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,R16,1073,1453,1,,Q,Gonzalo Villanueva,Tomas Buchhass,6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,R32,1073,379,1,,1,Gonzalo Villanueva,Jorge Aguilar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Peru F9,3,Clay,R16,1121,463,0,Q,7,Juan Carlos Saez,Gonzalo Villanueva,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Peru F9,3,Clay,R32,1121,1300,1,Q,WC,Gonzalo Villanueva,Duilio Vallebuona,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Peru F8,3,Clay,R32,1237,477,0,Q,8,Benjamin Balleret,Gonzalo Villanueva,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Peru F7,3,Clay,QF,1092,787,0,Q,,Eduardo Dischinger,Gonzalo Villanueva,6-7(2) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Peru F7,3,Clay,R16,1092,1351,1,Q,Q,Gonzalo Villanueva,Santiago Maresca,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Peru F7,3,Clay,R32,1092,292,1,Q,1,Gonzalo Villanueva,Emilio Gomez,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,Argentina F18,3,Clay,R32,1064,976,0,,,Dante Gennaro,Gonzalo Villanueva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Argentina F17,3,Clay,R16,1062,681,0,,7,Gaston Arturo Grimolizzi,Gonzalo Villanueva,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Argentina F17,3,Clay,R32,1062,1239,1,,,Gonzalo Villanueva,Oscar Jose Gutierrez,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Argentina F16,3,Clay,R32,1057,372,0,,1,Nicolas Kicker,Gonzalo Villanueva,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,R32,1057,1018,0,,,Leandro Portmann,Gonzalo Villanueva,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R32,1017,623,0,,5,Juan Ignacio Galarza,Gonzalo Villanueva,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Argentina F13,3,Clay,R16,1056,539,0,Q,6,Juan Pablo Paz,Gonzalo Villanueva,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Argentina F13,3,Clay,R32,1056,915,1,Q,,Gonzalo Villanueva,Gustavo Vellbach,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R32,1047,413,0,,3,Martin Cuevas,Gonzalo Villanueva,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Argentina F11,3,Clay,R32,1050,689,0,,7,Valentin Florez,Gonzalo Villanueva,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Argentina F10,3,Clay,R32,990,1503,0,,Q,Matias Rodolfo Buchhass,Gonzalo Villanueva,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,R32,983,1459,0,,Q,Gustavo Vellbach,Gonzalo Villanueva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Brazil F3,3,Clay,R32,864,1610,0,,Q,Oscar Jose Gutierrez,Gonzalo Villanueva,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,R32,862,485,0,,3,Leonardo Kirche,Gonzalo Villanueva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Argentina F6,3,Clay,R16,883,417,0,,5,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Argentina F6,3,Clay,R32,883,,1,,WC,Gonzalo Villanueva,Mateo Julio,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Argentina F5,3,Clay,R16,883,487,0,,8,Pedro Cachin,Gonzalo Villanueva,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Argentina F5,3,Clay,R32,883,2062,1,,WC,Gonzalo Villanueva,Geronimo Espin Busleiman,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Argentina F4,3,Clay,R32,881,782,0,,,Juan Pablo Paz,Gonzalo Villanueva,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Argentina F3,3,Clay,R32,875,1055,0,Q,Q,Juan Manuel Benitez Chavarriaga,Gonzalo Villanueva,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Argentina F2,3,Clay,R32,898,991,0,WC,Q,Valentin Florez,Gonzalo Villanueva,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Argentina F1,3,Clay,R16,898,258,0,,2,Andres Molteni,Gonzalo Villanueva,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Argentina F1,3,Clay,R32,898,1640,1,,LL,Gonzalo Villanueva,Kevin Prando,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,R16,875,719,0,,,Eduardo Dischinger,Gonzalo Villanueva,4-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,R32,875,947,1,,,Gonzalo Villanueva,Jorge Montero,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,R32,873,809,0,,8,Bastian Malla,Gonzalo Villanueva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,San Juan CH,3,Clay,R32,940,200,0,Q,,Kristijan Mesaros,Gonzalo Villanueva,6-2 6-1,0.53,0.0%,0.0%,51.6%,48.5%,35.5%,4/10,37.9%,30.8%,7.7%,22.6%,62.5%,1/1,103,0,0,64,33,31,3,1:04
+23-Sep-2013,Argentina F20,3,Clay,R32,968,,0,,Q,Yasin Sama,Gonzalo Villanueva,7-6(4) 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R16,983,358,0,,1,Gabriel Alejandro Hidalgo,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R32,983,1460,1,,Q,Gonzalo Villanueva,Facundo Manzanares,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,R16,983,1656,0,,WC,Mariano Kestelboim,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,R32,983,789,1,,5,Gonzalo Villanueva,Mauricio Perez Mota,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Argentina F17,3,Clay,R32,972,751,0,,,Nicolas Kicker,Gonzalo Villanueva,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Argentina F16,3,Clay,R32,972,505,0,,4,Daniel Dutra Da Silva,Gonzalo Villanueva,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Argentina F15,3,Clay,R32,1000,424,0,,2,Gabriel Alejandro Hidalgo,Gonzalo Villanueva,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,R16,993,606,0,,6,Joaquin Jesus Monteferrario,Gonzalo Villanueva,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,R32,993,,1,,Q,Gonzalo Villanueva,Matias Omar Tello,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Argentina F13,3,Clay,R32,968,698,0,,,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,R32,1030,447,0,WC,3,Gabriel Alejandro Hidalgo,Gonzalo Villanueva,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,QF,1026,851,0,WC,,Juan Pablo Paz,Gonzalo Villanueva,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,R16,1026,1533,1,WC,Q,Gonzalo Villanueva,Benjamin Ugarte,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,R32,1026,1985,1,WC,Q,Gonzalo Villanueva,Leandro Portmann,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,SF,1429,537,0,WC,5,Juan Ignacio Londero,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,QF,1429,970,1,WC,Q,Gonzalo Villanueva,Fabricio Burdisso,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,R16,1429,560,1,WC,6,Gonzalo Villanueva,Facundo Mena,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,R32,1429,774,1,WC,,Gonzalo Villanueva,Juan Sebastian Vivanco,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Argentina F3,3,Clay,R32,1408,609,0,Q,4,Sergio Galdos,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R16,1565,964,0,Q,Q,Fabricio Burdisso,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R32,1565,410,1,Q,5,Gonzalo Villanueva,Patricio Heras,7-6(6) 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Argentina F26,3,Clay,R16,,288,0,WC,1,Leandro Migani,Gonzalo Villanueva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Argentina F26,3,Clay,R32,,720,1,WC,,Gonzalo Villanueva,Hernan Casanova,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Argentina F21,3,Clay,R16,,573,0,WC,8,Renzo Olivo,Gonzalo Villanueva,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Argentina F21,3,Clay,R32,,885,1,WC,,Gonzalo Villanueva,Rodrigo Scattareggia,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,

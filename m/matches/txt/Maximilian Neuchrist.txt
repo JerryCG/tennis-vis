@@ -1,0 +1,598 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Calgary CH,3,Hard,R32,329,222,0,Q,8,Alexis Galarneau,Maximilian Neuchrist,7-6(6) 6-1,0.66,10.8%,4.6%,58.5%,63.2%,44.4%,3/7,43.1%,29.3%,10.3%,17.2%,41.4%,1/2,123,7,3,65,38,27,6,1:31
+6-Nov-2022,Calgary CH,3,Hard,Q2,329,544,1,1,9,Maximilian Neuchrist,Aidan Mayo,7-6(3) 6-2,1.54,11.7%,1.7%,61.7%,83.8%,47.8%,3/5,57.6%,46.2%,1.5%,44.4%,48.3%,4/8,125,7,1,60,37,23,1,1:32
+6-Nov-2022,Calgary CH,3,Hard,Q1,329,879,1,1,,Maximilian Neuchrist,Kelsey Stevenson,7-5 6-2,1.61,12.3%,5.3%,63.2%,80.6%,52.4%,2/3,57.4%,48.1%,6.3%,41.7%,58.1%,4/7,136,7,3,57,36,21,5,1:21
+17-Oct-2022,Busan CH,3,Hard,R32,319,84,0,Q,1,Soon Woo Kwon,Maximilian Neuchrist,6-4 6-2,0.65,5.6%,3.7%,50.0%,59.3%,55.6%,4/7,42.6%,27.8%,13.0%,6.7%,54.2%,0/4,108,3,2,54,27,27,7,1:16
+17-Oct-2022,Busan CH,3,Hard,Q2,319,530,1,3,12,Maximilian Neuchrist,Makoto Ochi,4-6 7-6(5) 6-4,1.18,11.1%,1.0%,59.6%,76.3%,60.0%,1/3,52.2%,35.8%,1.9%,26.8%,54.3%,2/3,205,11,1,99,59,40,2,2:47
+17-Oct-2022,Busan CH,3,Hard,Q1,319,1499,1,3,Alt,Maximilian Neuchrist,Toshihide Matsui,6-3 6-2,2.02,8.5%,2.1%,53.2%,76.0%,72.7%,1/2,61.3%,51.6%,9.4%,47.4%,57.7%,4/8,111,4,1,47,25,22,6,1:07
+10-Oct-2022,Seoul CH,3,Hard,R16,327,407,0,Q,Q,Shintaro Mochizuki,Maximilian Neuchrist,6-4 2-6 6-4,1.08,8.3%,3.6%,69.0%,69.0%,30.8%,2/7,51.1%,46.1%,0.0%,44.4%,50.0%,5/13,186,7,3,84,58,26,0,2:19
+10-Oct-2022,Seoul CH,3,Hard,R32,327,562,1,Q,PR,Maximilian Neuchrist,Marc Polmans,3-6 6-3 6-4,1.22,13.2%,0.0%,71.1%,83.3%,45.5%,1/2,52.6%,33.8%,8.8%,33.3%,34.6%,2/5,156,10,0,76,54,22,7,1:53
+10-Oct-2022,Seoul CH,3,Hard,Q2,327,261,1,9,3,Maximilian Neuchrist,Hamad Medjedovic,7-6(4) 7-6(2),0.80,7.3%,0.0%,65.9%,87.0%,53.6%,3/3,50.3%,19.4%,23.9%,8.9%,40.9%,0/0,149,6,0,82,54,28,16,1:53
+10-Oct-2022,Seoul CH,3,Hard,Q1,327,519,1,9,,Maximilian Neuchrist,Makoto Ochi,7-5 6-4,1.56,18.5%,1.5%,63.1%,82.9%,62.5%,3/3,55.8%,38.4%,6.8%,35.6%,42.9%,2/7,138,12,1,65,41,24,5,1:35
+3-Oct-2022,Gwangju CH,3,Hard,QF,341,787,0,,PR,Marc Polmans,Maximilian Neuchrist,4-6 6-1 6-3,0.77,5.7%,3.4%,67.0%,52.5%,51.7%,8/13,45.1%,36.8%,3.9%,30.8%,50.0%,2/2,164,5,3,88,59,29,3,2:11
+3-Oct-2022,Gwangju CH,3,Hard,R16,341,141,1,,6,Maximilian Neuchrist,Ryan Peniston,6-3 6-4,1.23,1.6%,3.3%,70.5%,72.1%,38.9%,5/7,54.7%,46.4%,0.0%,43.8%,50.0%,4/5,117,1,2,61,43,18,0,1:35
+3-Oct-2022,Gwangju CH,3,Hard,R32,341,602,1,,Q,Maximilian Neuchrist,Duck Hee Lee,4-6 6-0 6-3,1.23,9.6%,1.4%,58.9%,58.1%,46.7%,8/13,55.4%,57.1%,2.4%,53.6%,64.3%,9/15,157,7,1,73,43,30,2,2:03
+26-Sep-2022,Orleans CH,3,Hard,Q1,341,354,0,10,,Ulises Blanch,Maximilian Neuchrist,6-7(11) 7-6(4) 7-6(7),0.76,15.6%,0.8%,71.1%,75.8%,70.3%,4/4,48.2%,19.7%,13.7%,14.7%,28.6%,0/2,245,20,1,128,91,37,16,2:41
+29-Aug-2022,M25 Sierre,3,Clay,F,362,478,0,1,4,Remy Bertola,Maximilian Neuchrist,6-7(2) 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Sierre,3,Clay,SF,362,440,1,1,3,Maximilian Neuchrist,Steven Diez,4-6 7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Sierre,3,Clay,QF,362,594,1,1,6,Maximilian Neuchrist,Mirko Martinez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Sierre,3,Clay,R16,362,1666,1,1,WC,Maximilian Neuchrist,Jonas Schaer,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Sierre,3,Clay,R32,362,779,1,1,,Maximilian Neuchrist,Maxime Mora,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,Banja Luka CH,3,Clay,Q2,361,366,0,5,8,Thiago Seyboth Wild,Maximilian Neuchrist,6-4 7-6(0),0.82,2.2%,1.1%,62.9%,67.9%,39.4%,10/13,47.0%,35.1%,10.4%,32.0%,40.7%,2/6,166,2,1,89,56,33,8,2:14
+22-Aug-2022,Banja Luka CH,3,Clay,Q1,361,971,1,5,WC,Maximilian Neuchrist,Thomaz Bellucci,4-6 7-6(4) 6-4,0.84,5.2%,2.6%,60.0%,68.1%,58.7%,3/5,48.6%,29.9%,7.2%,23.4%,42.4%,2/6,212,6,3,115,69,46,7,2:49
+15-Aug-2022,M25 Muttenz,3,Clay,R32,362,436,0,3,,Damien Wenger,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2022,Zug CH,3,Clay,R32,377,260,0,Q,Q,Lorenzo Giustino,Maximilian Neuchrist,6-2 4-6 7-5,0.84,8.3%,1.2%,63.1%,69.8%,51.6%,2/6,47.3%,30.9%,8.6%,24.5%,42.9%,2/4,165,7,1,84,53,31,7,2:17
+25-Jul-2022,Zug CH,3,Clay,Q2,377,295,1,11,2,Maximilian Neuchrist,Otto Virtanen,6-1 6-4,1.76,20.0%,0.0%,63.6%,82.9%,65.0%,1/1,60.2%,41.7%,4.2%,42.9%,40.0%,3/4,103,11,0,55,35,20,2,1:07
+25-Jul-2022,Zug CH,3,Clay,Q1,377,443,1,11,,Maximilian Neuchrist,Gergely Madarasz,7-5 6-3,2.43,12.7%,1.8%,49.1%,88.9%,78.6%,2/2,57.9%,39.7%,6.4%,33.3%,51.9%,2/4,133,7,1,55,27,28,5,1:25
+11-Jul-2022,M25 Telfs,3,Clay,SF,377,363,0,4,2,Oliver Crawford,Maximilian Neuchrist,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25 Telfs,3,Clay,QF,377,539,1,4,6,Maximilian Neuchrist,Peter Heller,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25 Telfs,3,Clay,R16,377,2063,1,4,WC,Maximilian Neuchrist,Benedikt Emesz,7-6(11) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25 Telfs,3,Clay,R32,377,746,1,4,,Maximilian Neuchrist,Alexander Cozbinov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,Salzburg CH,3,Clay,QF,457,102,0,Q,7,Facundo Bagnis,Maximilian Neuchrist,6-2 6-7(4) 6-2,0.62,5.6%,4.5%,61.8%,61.8%,50.0%,6/11,42.4%,26.5%,9.6%,24.1%,31.0%,1/4,172,5,4,89,55,34,8,2:23
+4-Jul-2022,Salzburg CH,3,Clay,R16,457,87,1,Q,4,Maximilian Neuchrist,Roberto Carballes Baena,6-7(5) 6-3 7-6(12),1.06,0.8%,1.7%,59.3%,67.1%,58.3%,4/7,50.8%,38.7%,0.8%,40.4%,34.3%,5/9,242,1,2,118,70,48,1,3:18
+4-Jul-2022,Salzburg CH,3,Clay,R32,457,119,1,Q,,Maximilian Neuchrist,Zdenek Kolar,7-6(5) 6-3,1.18,8.2%,2.7%,57.5%,78.6%,54.8%,1/2,53.1%,37.1%,7.1%,26.3%,50.0%,2/6,143,6,2,73,42,31,5,1:46
+4-Jul-2022,Salzburg CH,3,Clay,Q2,457,308,1,12,6,Maximilian Neuchrist,Ergi Kirkin,6-4 6-4,1.36,7.4%,0.0%,51.9%,78.6%,73.1%,0/0,53.6%,32.8%,12.1%,13.8%,51.7%,2/4,112,4,0,54,28,26,7,1:28
+4-Jul-2022,Salzburg CH,3,Clay,Q1,457,732,1,12,WC,Maximilian Neuchrist,Sandro Kopp,1-6 6-3 6-1,1.36,13.6%,3.0%,62.1%,82.9%,44.0%,1/3,54.4%,43.4%,0.0%,41.5%,46.7%,4/13,149,9,2,66,41,25,0,1:52
+20-Jun-2022,M25 Klosters,3,Clay,R32,455,1322,0,7,WC,Jeffrey Von Der Schulenburg,Maximilian Neuchrist,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M25 Most,3,Clay,F,487,521,0,7,8,Andrew Paulson,Maximilian Neuchrist,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M25 Most,3,Clay,SF,487,450,1,7,5,Maximilian Neuchrist,Rudolf Molleker,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M25 Most,3,Clay,QF,487,573,1,7,,Maximilian Neuchrist,Pavel Nejedly,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M25 Most,3,Clay,R16,487,1528,1,7,Q,Maximilian Neuchrist,Michel Hopp,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M25 Most,3,Clay,R32,487,1018,1,7,,Maximilian Neuchrist,Mikalai Haliak,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2022,Zagreb CH,3,Clay,R32,498,186,0,Q,8,Federico Gaio,Maximilian Neuchrist,7-6(2) 6-7(3) 6-4,0.98,3.3%,0.8%,61.7%,63.5%,52.2%,9/14,49.8%,40.2%,3.4%,28.1%,54.7%,4/7,237,4,1,120,74,46,4,3:10
+9-May-2022,Zagreb CH,3,Clay,Q2,498,288,1,Alt,2,Maximilian Neuchrist,Go Soeda,6-4 6-0,1.55,0.0%,0.0%,60.3%,65.7%,56.5%,5/6,60.6%,58.7%,2.2%,52.2%,65.2%,5/11,104,0,0,58,35,23,1,1:33
+9-May-2022,Zagreb CH,3,Clay,Q1,498,432,1,Alt,10,Maximilian Neuchrist,Moez Echargui,7-6(1) 4-6 6-3,1.04,4.4%,0.9%,62.3%,64.8%,44.2%,8/13,51.1%,44.9%,4.7%,31.3%,67.5%,6/16,221,5,1,114,71,43,5,2:50
+2-May-2022,Mauthausen CH,3,Clay,Q1,501,297,0,Alt,4,Nikolas Sanchez Izquierdo,Maximilian Neuchrist,7-6(5) 6-1,0.76,1.5%,3.0%,57.6%,63.2%,39.3%,3/6,43.9%,35.6%,1.4%,25.6%,50.0%,1/6,139,1,2,66,38,28,1,1:47
+18-Apr-2022,M25 Nottingham,3,Hard,QF,515,667,0,7,,Henry Patten,Maximilian Neuchrist,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Nottingham,3,Hard,R16,515,709,1,7,,Maximilian Neuchrist,Mark Whitehouse,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Nottingham,3,Hard,R32,515,2145,1,7,Q,Maximilian Neuchrist,Gabriele Moghini,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Monastir,3,Hard,F,514,512,0,4,1,Mattia Bellucci,Maximilian Neuchrist,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Monastir,3,Hard,SF,514,1070,1,4,Q,Maximilian Neuchrist,Bu Yunchaokete,6-3 6-7(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Monastir,3,Hard,QF,514,540,1,4,5,Maximilian Neuchrist,Gage Brymer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Monastir,3,Hard,R16,514,830,1,4,,Maximilian Neuchrist,Maxence Beauge,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Monastir,3,Hard,R32,514,2120,1,4,WC,Maximilian Neuchrist,Raphael Calzi,4-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,Biel CH,3,Hard,Q1,505,274,0,Alt,2,Jelle Sels,Maximilian Neuchrist,1-0 RET,-,-,-,-,-,-,0/0,0.0%,0.0%,50.0%,0.0%,-,0/0,4,0,0,0,0,0,2,0:07
+7-Mar-2022,M25 Portimao,3,Hard,R16,493,260,0,,1,Marius Copil,Maximilian Neuchrist,6-4 6-7(6) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,M25 Portimao,3,Hard,R32,493,535,1,,,Maximilian Neuchrist,Stuart Parker,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R16,494,1003,0,,Q,Fabio Coelho,Maximilian Neuchrist,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R32,494,743,1,,WC,Maximilian Neuchrist,Luis Faria,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,R32,492,397,0,,5,Laurent Lokoli,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M25 Shrewsbury,3,Hard,R32,497,438,0,,7,Billy Harris,Maximilian Neuchrist,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,R16,493,459,0,,8,Anton Matusevich,Maximilian Neuchrist,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,R32,493,612,1,,WC,Maximilian Neuchrist,Luke Johnson,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2021,Manama CH,3,Hard,R32,514,314,0,Q,,Antoine Escoffier,Maximilian Neuchrist,6-3 6-4,0.55,1.6%,1.6%,66.1%,58.5%,61.9%,4/6,42.2%,22.2%,9.3%,20.0%,26.3%,0/1,116,1,1,62,41,21,5,1:28
+22-Nov-2021,Manama CH,3,Hard,Q2,514,455,1,,4,Maximilian Neuchrist,Tobias Simon,6-3 4-6 6-3,1.32,17.0%,3.4%,70.5%,74.2%,61.5%,4/5,54.4%,39.1%,21.7%,32.3%,53.3%,3/12,180,15,3,88,62,26,20,1:54
+22-Nov-2021,Manama CH,3,Hard,Q1,514,448,1,,8,Maximilian Neuchrist,Ivan Gakhov,7-6(6) 6-4,1.22,10.0%,2.9%,71.4%,76.0%,60.0%,1/2,53.7%,34.8%,15.2%,29.3%,44.0%,2/4,136,7,2,70,50,20,10,1:33
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,F,540,331,0,,1,Antoine Escoffier,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,SF,540,1384,1,,Q,Maximilian Neuchrist,Maxence Broville,6-7(7) 6-1 7-6(10),,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,QF,540,1012,1,,,Maximilian Neuchrist,Blake Ellis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R16,540,407,1,,2,Maximilian Neuchrist,Harold Mayot,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R32,540,651,1,,,Maximilian Neuchrist,Alexander Donski,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,SF,584,441,0,,8,Sebastian Fanselow,Maximilian Neuchrist,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,QF,584,418,1,,7,Maximilian Neuchrist,Vladyslav Orlov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R16,584,722,1,,WC,Maximilian Neuchrist,Pedro Araujo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R32,584,525,1,,,Maximilian Neuchrist,Yusuke Takahashi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,QF,610,368,0,,4,Paul Jubb,Maximilian Neuchrist,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R16,610,438,1,,7,Maximilian Neuchrist,Sebastian Fanselow,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R32,610,780,1,,WC,Maximilian Neuchrist,Pedro Araujo,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,SF,676,484,0,,,Lucas Gerch,Maximilian Neuchrist,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,QF,676,1007,1,,Q,Maximilian Neuchrist,Adria Soriano Barrera,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,R16,676,376,1,,4,Maximilian Neuchrist,Petros Chrysochos,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,R32,676,2107,1,,Q,Maximilian Neuchrist,Gian Luca Tanner,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,SF,676,468,0,,6,Rinky Hijikata,Maximilian Neuchrist,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,QF,676,414,1,,4,Maximilian Neuchrist,Corentin Denolly,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R16,676,681,1,,,Maximilian Neuchrist,Tomas Lipovsek Puches,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R32,676,489,1,,7,Maximilian Neuchrist,Tiago Cacao,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M25 Falun,3,Hard,QF,676,596,0,,,Valentin Royer,Maximilian Neuchrist,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M25 Falun,3,Hard,R16,676,419,1,,5,Maximilian Neuchrist,Otto Virtanen,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M25 Falun,3,Hard,R32,676,815,1,,Q,Maximilian Neuchrist,Simon Freund,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,Salzburg CH,3,Clay,R32,609,100,0,WC,5,Roberto Carballes Baena,Maximilian Neuchrist,6-4 4-6 6-4,0.91,4.1%,3.3%,64.8%,68.4%,44.2%,12/15,49.3%,36.4%,4.0%,31.1%,44.7%,2/7,221,5,4,122,79,43,4,
+21-Jun-2021,M25 Klosters,3,Clay,R32,610,416,0,,6,Sandro Ehrat,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Brcko,3,Clay,R16,610,571,0,,8,Joao Lucas Reis Da Silva,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Brcko,3,Clay,R32,610,,1,,Q,Maximilian Neuchrist,Lazar Vojinovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Prijedor,3,Clay,R32,613,523,0,,,Danylo Kalenichenko,Maximilian Neuchrist,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M15 Monastir,3,Hard,R32,625,1161,0,,Q,Arthur Bouquier,Maximilian Neuchrist,6-7(3) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,SF,623,1314,0,,,Eliakim Coulibaly,Maximilian Neuchrist,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R16,623,392,1,,2,Maximilian Neuchrist,Antoine Escoffier,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R32,623,1024,1,,Q,Maximilian Neuchrist,Yuta Kawahashi,6-7(5) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M25 Biel,3,Hard,R32,622,495,0,Q,Q,Danylo Kalenichenko,Maximilian Neuchrist,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,QF,652,645,0,,,Kenny De Schepper,Maximilian Neuchrist,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,R16,652,391,1,,4,Maximilian Neuchrist,Edan Leshem,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,R32,652,485,1,,,Maximilian Neuchrist,Johan Nikles,3-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,QF,655,278,0,Q,1,Mischa Zverev,Maximilian Neuchrist,4-6 6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R16,655,,1,Q,Q,Maximilian Neuchrist,Edouard Villoslada,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R32,655,881,1,Q,Q,Maximilian Neuchrist,Ugo Blanchet,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R16,653,379,0,Q,7,Gastao Elias,Maximilian Neuchrist,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R32,653,1322,1,Q,Q,Maximilian Neuchrist,Kuzey Cekirge,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R16,651,911,0,,Q,Ugo Blanchet,Maximilian Neuchrist,7-6(3) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R32,651,394,1,,2,Maximilian Neuchrist,Dan Added,7-6(7) 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,R32,622,,0,LL,WC,Leonardo Civita Telles,Maximilian Neuchrist,7-6(7) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Sintra,3,Hard,R32,620,,0,Q,Q,Mateus Alves,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M15 Oberhaching,3,Hard,R32,610,692,0,6,,Stefan Seifert,Maximilian Neuchrist,7-6(6) 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Nonthaburi,3,Hard,QF,634,386,0,Q,,Adam Pavlasek,Maximilian Neuchrist,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Nonthaburi,3,Hard,R16,634,413,1,Q,,Maximilian Neuchrist,Calvin Hemery,6-7(4) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Nonthaburi,3,Hard,R32,634,1262,1,Q,Q,Maximilian Neuchrist,Maxence Broville,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,Maia CH,3,Clay,R32,670,192,0,PR,14,Joao Domingues,Maximilian Neuchrist,7-5 6-1,0.82,3.6%,1.8%,52.7%,75.9%,42.3%,4/7,44.5%,32.9%,1.4%,28.6%,41.7%,0/8,128,2,1,55,29,26,1,1:29
+18-Nov-2019,Maia CH,3,Clay,R64,670,1174,1,PR,WC,Maximilian Neuchrist,Francisco Cabral,6-4 6-2,2.05,2.2%,2.2%,64.4%,79.3%,81.3%,0/0,58.4%,41.1%,5.4%,37.8%,47.4%,3/7,101,1,1,45,29,16,3,1:08
+11-Nov-2019,Ortisei CH,3,Hard,R32,701,121,0,PR,5,Peter Gojowczyk,Maximilian Neuchrist,6-4 6-3,0.80,22.0%,0.0%,66.0%,75.8%,52.9%,0/3,46.5%,25.5%,17.6%,18.8%,36.8%,0/0,101,11,0,50,33,17,9,0:53
+11-Nov-2019,Ortisei CH,3,Hard,R64,701,272,1,PR,,Maximilian Neuchrist,Aslan Karatsev,6-3 3-6 6-3,1.10,11.1%,4.9%,66.7%,75.9%,40.7%,4/7,52.2%,39.5%,11.8%,20.0%,56.1%,4/5,157,9,4,81,54,27,9,1:41
+21-Oct-2019,Hamburg CH,3,Hard,R64,700,357,0,PR,,Andrea Pellegrino,Maximilian Neuchrist,6-4 7-6(4),0.71,14.5%,0.0%,66.3%,65.5%,57.1%,5/6,46.4%,26.5%,7.4%,15.2%,50.0%,0/4,151,12,0,83,55,28,5,1:42
+14-Oct-2019,Ismaning CH,3,Hard,R64,703,392,0,PR,,Johannes Haerteis,Maximilian Neuchrist,6-4 6-4,0.51,18.8%,2.9%,69.6%,75.0%,38.1%,5/7,44.9%,18.4%,20.4%,6.5%,38.9%,0/0,118,13,2,69,48,21,10,1:14
+30-Sep-2019,Nur-Sultan CH,3,Hard,R64,702,378,0,PR,,Illya Marchenko,Maximilian Neuchrist,6-4 7-5,0.73,6.7%,0.0%,65.0%,59.0%,52.4%,1/5,44.2%,31.7%,3.3%,15.6%,50.0%,2/7,120,4,0,60,39,21,2,1:22
+16-Sep-2019,Glasgow CH,3,Hard,R32,720,278,0,PR,16,Alexandre Muller,Maximilian Neuchrist,4-6 6-4 6-1,0.86,6.0%,1.2%,72.3%,66.7%,34.8%,8/13,47.0%,36.5%,12.9%,31.3%,52.4%,3/7,168,5,1,83,60,23,11,1:45
+16-Sep-2019,Glasgow CH,3,Hard,R64,720,319,1,PR,,Maximilian Neuchrist,Evan Hoyt,6-4 7-6(1),1.49,15.3%,1.7%,78.0%,84.8%,53.8%,1/2,54.0%,32.8%,14.9%,15.0%,59.3%,2/5,126,9,1,59,46,13,10,1:19
+9-Sep-2019,Istanbul CH,3,Hard,R64,723,293,0,,,Mischa Zverev,Maximilian Neuchrist,5-2 RET,0.29,0.0%,6.1%,60.6%,70.0%,23.1%,4/6,40.4%,14.3%,7.1%,11.1%,20.0%,0/0,47,0,2,33,20,13,1,0:27
+2-Sep-2019,Cassis CH,3,Hard,R64,726,338,0,PR,,Hugo Grenier,Maximilian Neuchrist,6-4 6-3,0.74,5.0%,3.3%,66.7%,62.5%,35.0%,3/8,44.6%,34.6%,9.6%,20.7%,52.2%,2/3,112,3,2,60,40,20,5,1:14
+22-Jul-2019,Granby CH,3,Hard,R16,421,309,0,,,Borna Gojo,Maximilian Neuchrist,6-3 3-0 RET,0.48,0.0%,0.0%,53.1%,70.6%,40.0%,2/5,38.5%,21.2%,9.1%,15.8%,28.6%,0/2,65,0,0,32,17,15,3,0:45
+22-Jul-2019,Granby CH,3,Hard,R32,421,222,1,,12,Maximilian Neuchrist,Akira Santillan,6-0 6-7(5) 6-4,1.39,5.3%,2.1%,67.0%,68.3%,74.2%,2/2,54.2%,41.5%,7.6%,32.4%,56.8%,4/12,212,5,2,94,63,31,9,2:17
+22-Jul-2019,Granby CH,3,Hard,R64,421,396,1,,,Maximilian Neuchrist,Dennis Novikov,6-4 7-6(4),1.22,11.9%,1.5%,58.2%,82.1%,60.7%,3/4,53.0%,32.8%,11.9%,25.6%,45.8%,2/5,134,8,1,67,39,28,8,1:23
+15-Jul-2019,Gatineau CH,3,Hard,R16,398,133,0,Alt,6,Norbert Gombos,Maximilian Neuchrist,7-6(5) 6-3,0.68,9.8%,1.6%,65.6%,80.0%,52.4%,2/3,45.5%,20.0%,5.0%,20.0%,20.0%,0/0,121,6,1,61,40,21,3,1:28
+15-Jul-2019,Gatineau CH,3,Hard,R32,398,346,1,Alt,LL,Maximilian Neuchrist,Brydan Klein,6-4 7-5,1.40,3.4%,0.0%,63.8%,73.0%,66.7%,1/3,56.1%,41.1%,5.4%,27.6%,55.6%,4/7,114,2,0,58,37,21,3,1:21
+15-Jul-2019,Gatineau CH,3,Hard,R64,398,223,1,Alt,,Maximilian Neuchrist,Zhe Li,6-1 6-1,2.29,16.3%,0.0%,62.8%,77.8%,62.5%,0/0,68.4%,63.9%,2.8%,68.8%,60.0%,5/7,79,7,0,43,27,16,1,0:56
+8-Jul-2019,Winnetka CH,3,Hard,R32,409,117,0,PR,5,Jason Jung,Maximilian Neuchrist,6-2 6-2,0.59,9.8%,5.9%,54.9%,71.4%,34.8%,5/9,41.0%,26.5%,2.0%,27.6%,25.0%,0/2,100,5,3,51,28,23,1,1:10
+8-Jul-2019,Winnetka CH,3,Hard,R64,409,493,1,PR,ITF,Maximilian Neuchrist,Jordi Arconada,6-3 6-4,1.44,5.4%,1.8%,57.1%,65.6%,58.3%,3/6,58.5%,54.0%,2.0%,42.9%,68.2%,5/5,106,3,1,56,32,24,1,1:13
+24-Jun-2019,M25 Palma del Rio,3,Hard,R32,407,,0,5,,Eduardo Struvay,Maximilian Neuchrist,6-7(4) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,Fergana CH,3,Hard,R32,395,259,0,,2,Gleb Sakharov,Maximilian Neuchrist,7-6(7) 7-5,0.83,6.5%,3.2%,66.7%,67.7%,45.2%,4/6,47.2%,32.9%,14.1%,21.3%,47.4%,1/2,178,6,3,93,62,31,12,2:11
+17-Jun-2019,Fergana CH,3,Hard,R64,395,,1,,Q,Maximilian Neuchrist,Alexey Zakharov,7-6(5) 6-3,1.82,11.3%,1.9%,77.4%,80.5%,83.3%,0/0,54.5%,34.3%,14.3%,21.6%,48.5%,2/5,123,6,1,53,41,12,10,1:12
+20-May-2019,Jerusalem CH,3,Hard,R64,339,389,0,,,Carlos Boluda Purkiss,Maximilian Neuchrist,6-2 6-2,0.60,4.2%,4.2%,64.6%,48.4%,52.9%,6/10,39.8%,30.0%,8.0%,30.3%,29.4%,0/1,98,2,2,48,31,17,4,1:04
+13-May-2019,Gwangju CH,3,Hard,R64,340,315,0,,,Luke Saville,Maximilian Neuchrist,6-7(1) 6-2 7-6(2),0.92,12.0%,1.9%,63.0%,82.4%,32.5%,2/6,49.0%,33.3%,5.9%,29.6%,41.9%,2/10,210,13,2,108,68,40,6,2:23
+6-May-2019,Busan CH,3,Hard,R64,339,292,0,,,Tung Lin Wu,Maximilian Neuchrist,7-6(2) 7-5,0.70,3.8%,3.8%,64.6%,70.6%,32.1%,3/6,43.4%,30.0%,5.0%,22.8%,47.8%,2/6,159,3,3,79,51,28,4,1:41
+15-Apr-2019,M25 Abuja,3,Hard,QF,336,595,0,,,Danylo Kalenichenko,Maximilian Neuchrist,6-7(4) 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Abuja,3,Hard,R16,336,667,1,,IR  ,Maximilian Neuchrist,Jaimee Floyd Angele,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Abuja,3,Hard,R32,336,,1,,,Maximilian Neuchrist,Tuki Jacobs,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Abuja,3,Hard,R32,334,647,0,,,Peter Kobelt,Maximilian Neuchrist,7-6(4) 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Kaohsiung CH,3,Hard,R32,255,135,0,,6,Ramkumar Ramanathan,Maximilian Neuchrist,6-4 6-2,0.50,4.7%,4.7%,56.3%,75.0%,35.7%,5/8,42.3%,21.3%,12.8%,6.3%,53.3%,0/2,111,3,3,64,36,28,6,1:02
+10-Sep-2018,Shanghai CH,3,Hard,R32,257,245,0,,,Max Purcell,Maximilian Neuchrist,6-4 6-4,0.80,10.5%,1.8%,75.4%,67.4%,50.0%,1/3,44.8%,29.4%,16.2%,20.9%,44.0%,0/4,125,6,1,57,43,14,11,1:17
+27-Aug-2018,US Open,5,Hard,Q1,254,144,0,,29,Simone Bolelli,Maximilian Neuchrist,7-5 5-7 7-5,0.92,11.1%,1.7%,70.1%,75.6%,45.7%,8/11,49.3%,30.6%,3.7%,27.8%,37.9%,2/7,225,13,2,117,82,35,4,2:34
+20-Aug-2018,Winston-Salem,3,Hard,Q1,254,392,0,8,,Tommy Paul,Maximilian Neuchrist,6-2 6-4,0.43,1.7%,3.4%,56.9%,54.5%,48.0%,4/8,38.6%,20.9%,16.3%,14.3%,33.3%,1/2,101,1,2,58,33,25,7,1:03
+30-Jul-2018,Segovia CH,3,Hard,R16,244,370,0,,WC,Andres Artunedo Martinavarr,Maximilian Neuchrist,6-1 5-2 RET,0.24,2.6%,5.1%,64.1%,60.0%,28.6%,2/6,32.4%,12.5%,18.8%,4.2%,37.5%,0/0,71,1,2,39,25,14,6,0:44
+30-Jul-2018,Segovia CH,3,Hard,R32,244,235,1,,,Maximilian Neuchrist,Ante Pavic,6-3 7-6(4),1.30,8.8%,4.4%,64.7%,81.8%,66.7%,1/1,55.1%,30.5%,16.9%,13.9%,56.5%,1/2,127,6,3,68,44,24,10,1:20
+23-Jul-2018,Granby CH,3,Hard,R16,252,182,0,,6,Norbert Gombos,Maximilian Neuchrist,6-4 7-6(3),0.73,11.9%,3.6%,72.6%,70.5%,34.8%,8/9,46.1%,28.6%,10.0%,24.4%,36.0%,0/0,154,10,3,84,61,23,7,1:46
+23-Jul-2018,Granby CH,3,Hard,R32,252,338,1,,Q,Maximilian Neuchrist,Dayne Kelly,4-6 6-3 7-6(5),0.95,13.3%,3.5%,69.0%,74.4%,42.9%,14/16,50.7%,33.7%,6.5%,23.6%,48.6%,2/9,205,15,4,113,78,35,6,2:33
+16-Jul-2018,Gatineau CH,3,Hard,QF,261,159,0,,7,Go Soeda,Maximilian Neuchrist,7-6(3) 6-3,0.50,10.1%,2.2%,58.4%,61.5%,56.8%,8/10,43.9%,20.3%,3.4%,14.7%,28.0%,1/3,148,9,2,89,52,37,2,1:42
+16-Jul-2018,Gatineau CH,3,Hard,R16,261,330,1,,,Maximilian Neuchrist,Renta Tokuda,1-1 RET,0.00,16.7%,0.0%,83.3%,80.0%,0.0%,0/0,40.0%,0.0%,0.0%,0.0%,0.0%,0/0,10,1,0,6,5,1,0,0:14
+16-Jul-2018,Gatineau CH,3,Hard,R32,261,171,1,,4,Maximilian Neuchrist,Tatsuma Ito,6-7(2) 6-3 7-5,0.96,3.8%,3.8%,68.6%,66.7%,69.7%,6/8,50.0%,30.9%,5.2%,26.8%,36.6%,4/7,202,4,4,105,72,33,5,2:22
+25-Jun-2018,Milan CH,3,Clay,R32,264,266,0,,,Lorenzo Giustino,Maximilian Neuchrist,6-3 6-2,0.67,8.7%,4.3%,58.7%,59.3%,31.6%,0/5,41.0%,35.2%,13.0%,24.1%,48.0%,2/3,100,4,2,46,27,19,7,1:11
+18-Jun-2018,Poprad Tatry CH,3,Clay,R16,273,177,0,,7,Dennis Novak,Maximilian Neuchrist,6-2 6-4,0.37,11.6%,0.0%,60.9%,69.0%,29.6%,11/15,40.0%,17.1%,4.9%,0.0%,41.2%,1/2,110,8,0,69,42,27,2,1:14
+18-Jun-2018,Poprad Tatry CH,3,Clay,R32,273,268,1,,,Maximilian Neuchrist,Ante Pavic,6-4 6-2,1.34,5.3%,3.5%,63.2%,75.0%,61.9%,3/3,55.4%,40.0%,9.1%,33.3%,56.3%,3/5,112,3,2,57,36,21,5,1:14
+4-Jun-2018,Shymkent CH,3,Clay,Q1,275,856,0,2,WC,Mikhail Elgin,Maximilian Neuchrist,3-6 6-3 6-4,1.06,6.3%,5.1%,74.7%,71.2%,50.0%,3/6,49.4%,36.4%,1.0%,32.9%,47.8%,2/8,178,5,4,79,59,20,1,2:04
+21-May-2018,Loughborough CH,3,Hard,SF,295,614,0,,WC,James Ward,Maximilian Neuchrist,6-1 6-4,0.64,3.9%,0.0%,66.7%,64.7%,47.1%,3/6,43.0%,26.5%,12.2%,3.6%,57.1%,0/0,100,2,0,51,34,17,6,1:03
+21-May-2018,Loughborough CH,3,Hard,QF,295,535,1,,Q,Maximilian Neuchrist,Jurij Rodionov,3-6 7-6(6) 6-3,0.90,4.5%,1.8%,71.8%,69.6%,51.6%,4/7,50.3%,31.8%,17.6%,24.5%,41.7%,2/4,195,5,2,110,79,31,15,2:05
+21-May-2018,Loughborough CH,3,Hard,R16,295,277,1,,6,Maximilian Neuchrist,Cem Ilkel,6-7(3) 6-4 6-3,1.04,13.1%,1.0%,75.8%,73.3%,45.8%,5/7,51.0%,34.7%,7.4%,27.6%,45.9%,5/11,194,13,1,99,75,24,7,2:04
+21-May-2018,Loughborough CH,3,Hard,R32,295,328,1,,,Maximilian Neuchrist,Alexander Ward,7-6(3) 7-6(4),1.19,9.6%,4.1%,61.6%,84.4%,42.9%,1/3,51.6%,37.5%,3.4%,27.4%,61.5%,2/9,161,7,3,73,45,28,3,1:49
+30-Apr-2018,Nigeria F3,3,Hard,QF,352,394,0,3,,Joao Menezes,Maximilian Neuchrist,7-6(11) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Nigeria F3,3,Hard,R16,352,1872,1,3,,Maximilian Neuchrist,Thomas Otu Omang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Nigeria F3,3,Hard,R32,352,547,1,3,,Maximilian Neuchrist,Takanyi Garanganga,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Nigeria F2,3,Hard,F,349,499,1,4,,Maximilian Neuchrist,Joao Menezes,6-3 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Nigeria F2,3,Hard,SF,349,1198,1,4,Q,Maximilian Neuchrist,Stephan Gerritsen,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Nigeria F2,3,Hard,QF,349,742,1,4,,Maximilian Neuchrist,Aryan Goveas,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Nigeria F2,3,Hard,R16,349,554,1,4,,Maximilian Neuchrist,Danylo Kalenichenko,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Nigeria F2,3,Hard,R32,349,494,1,4,,Maximilian Neuchrist,Jelle Sels,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Nigeria F1,3,Hard,QF,351,500,0,2,,Joao Menezes,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Nigeria F1,3,Hard,R16,351,1215,1,2,,Maximilian Neuchrist,Dalwinder Singh,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Nigeria F1,3,Hard,R32,351,1218,1,2,,Maximilian Neuchrist,Kazuma Kawachi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Portugal F6,3,Hard,R32,349,253,0,,,Joao Monteiro,Maximilian Neuchrist,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Portugal F5,3,Hard,R16,349,331,0,,,Roberto Ortega Olmedo,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Portugal F5,3,Hard,R32,349,569,1,,,Maximilian Neuchrist,Adrien Bossel,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,SF,368,334,0,5,,Roberto Ortega Olmedo,Maximilian Neuchrist,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,QF,368,251,1,5,,Maximilian Neuchrist,Tsung Hua Yang,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,R16,368,897,1,5,SE,Maximilian Neuchrist,Johan Nikles,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,R32,368,1510,1,5,,Maximilian Neuchrist,Francisco Dias,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,F,369,281,0,,3,Laurynas Grigelis,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,SF,369,280,1,,5,Maximilian Neuchrist,Luca Vanni,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,QF,369,365,1,,7,Maximilian Neuchrist,Jeremy Jahn,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,R16,369,594,1,,Q,Maximilian Neuchrist,Javier Barranco Cosano,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,R32,369,218,1,,,Maximilian Neuchrist,Andrea Arnaboldi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,F,411,449,0,,,Fabien Reboul,Maximilian Neuchrist,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,SF,411,534,1,,,Maximilian Neuchrist,Ronnie Schneider,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,QF,411,616,1,,,Maximilian Neuchrist,Evan Furness,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,R16,411,883,1,,,Maximilian Neuchrist,Bogdan Ionut Apostol,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,R32,411,899,1,,WC,Maximilian Neuchrist,Luke Johnson,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,SF,408,575,0,4,,Maxime Authom,Maximilian Neuchrist,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,QF,408,558,1,4,,Maximilian Neuchrist,Frederik Nielsen,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,R16,408,875,1,4,Q,Maximilian Neuchrist,Adrian Obert,0-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,R32,408,883,1,4,,Maximilian Neuchrist,Bogdan Ionut Apostol,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Great Britain F1,3,Hard,QF,406,702,0,5,,Zizou Bergs,Maximilian Neuchrist,3-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Great Britain F1,3,Hard,R16,406,565,1,5,,Maximilian Neuchrist,Nicholas S Hu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Great Britain F1,3,Hard,R32,406,,1,5,,Maximilian Neuchrist,Jack Findel Hawkins,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Qatar F4,3,Hard,QF,405,309,0,,2,Roberto Ortega Olmedo,Maximilian Neuchrist,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Qatar F4,3,Hard,R16,405,1039,1,,,Maximilian Neuchrist,Guy Den Heijer,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Qatar F4,3,Hard,R32,405,1983,1,,WC,Maximilian Neuchrist,Mousa Shanan Zayed,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,F,432,449,1,2,,Maximilian Neuchrist,Baptiste Crepatte,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,SF,432,748,1,2,,Maximilian Neuchrist,Filippo Leonardi,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,QF,432,612,1,2,,Maximilian Neuchrist,Leny Mitjana,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,R16,432,1429,1,2,,Maximilian Neuchrist,Anirudh Chandrasekar,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,R32,432,1581,1,2,,Maximilian Neuchrist,Vignesh Peranamallur,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,F,434,862,1,4,,Maximilian Neuchrist,Kristian Lozan,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,SF,434,628,1,4,,Maximilian Neuchrist,Leny Mitjana,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,QF,434,432,1,4,,Maximilian Neuchrist,Scott Griekspoor,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,R16,434,1513,1,4,,Maximilian Neuchrist,Alen Rogic Hadzalic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,R32,434,900,1,4,,Maximilian Neuchrist,Tak Khunn Wang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,F,434,328,1,3,,Maximilian Neuchrist,Alessandro Bega,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,SF,434,401,1,3,2,Maximilian Neuchrist,David Pichler,6-4 6-7(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,QF,434,901,1,3,,Maximilian Neuchrist,Tak Khunn Wang,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,R16,434,1305,1,3,,Maximilian Neuchrist,Giovani Samaha,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,R32,434,1029,1,3,,Maximilian Neuchrist,Saidalo Saidkarimov,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,France F24,3,Hard,R16,415,279,0,,,David Guez,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,France F24,3,Hard,R32,415,1133,1,,Q,Maximilian Neuchrist,Joffrey De Schepper,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,France F23,3,Hard,QF,423,483,0,7,,Corentin Denolly,Maximilian Neuchrist,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,France F23,3,Hard,R16,423,1775,1,7,WC,Maximilian Neuchrist,Constantin Bittoun Kouzmine,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,France F23,3,Hard,R32,423,1318,1,7,,Maximilian Neuchrist,Maxence Broville,6-1 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,France F22,3,Hard,R16,423,697,0,,,Christoph Negritu,Maximilian Neuchrist,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,France F22,3,Hard,R32,423,421,1,,,Maximilian Neuchrist,Constant Lestienne,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Como CH,3,Clay,Q1,402,371,0,,,Lenny Hampel,Maximilian Neuchrist,6-4 3-6 7-5,0.95,6.1%,5.2%,59.1%,66.2%,44.7%,8/13,49.8%,40.4%,0.0%,31.3%,50.0%,4/11,209,7,6,115,68,47,0,2:37
+21-Aug-2017,Manerbio CH,3,Clay,R32,406,137,0,Q,2,Adam Pavlasek,Maximilian Neuchrist,1-6 6-1 6-4,0.95,8.2%,8.2%,54.8%,67.5%,48.5%,6/10,48.4%,39.0%,6.1%,27.3%,63.0%,3/8,155,6,6,73,40,33,5,1:46
+21-Aug-2017,Manerbio CH,3,Clay,Q3,406,335,1,,4,Maximilian Neuchrist,Constant Lestienne,6-4 6-4,1.33,14.1%,0.0%,57.8%,86.5%,48.1%,5/5,55.2%,39.3%,4.9%,35.1%,45.8%,2/4,125,9,0,64,37,27,3,1:26
+21-Aug-2017,Manerbio CH,3,Clay,Q2,406,1945,1,,,Maximilian Neuchrist,Josh Hagar Hagar,6-0 6-4,1.66,7.8%,3.9%,68.6%,74.3%,50.0%,3/4,60.6%,55.2%,1.7%,38.5%,68.8%,5/13,109,4,2,51,35,16,1,1:17
+21-Aug-2017,Manerbio CH,3,Clay,Q1,406,337,1,,7,Maximilian Neuchrist,Christian Lindell,6-1 6-4,1.43,5.3%,3.5%,64.9%,67.6%,60.0%,2/3,58.1%,50.0%,2.1%,50.0%,50.0%,4/5,105,3,2,57,37,20,1,1:11
+14-Aug-2017,Cordenons CH,3,Clay,Q3,406,749,0,5,,Gianluca Di Nicola,Maximilian Neuchrist,6-2 6-2,0.59,5.0%,2.5%,67.5%,55.6%,30.8%,0/4,37.9%,30.9%,1.8%,9.7%,58.3%,0/3,95,2,1,40,27,13,1,1:05
+14-Aug-2017,Cordenons CH,3,Clay,Q2,406,1449,1,5,WC,Maximilian Neuchrist,Luca Giacomini,6-1 6-0,4.37,10.7%,0.0%,75.0%,90.5%,71.4%,0/0,71.1%,62.5%,2.1%,51.9%,76.2%,6/11,76,3,0,28,21,7,1,0:48
+31-Jul-2017,Macedonia F2,3,Clay,QF,456,872,0,2,7,Viktor Filipenko,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Macedonia F2,3,Clay,R16,456,1195,1,2,Q,Maximilian Neuchrist,Gabriel Donev,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Macedonia F2,3,Clay,R32,456,952,1,2,,Maximilian Neuchrist,Dante Gennaro,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Macedonia F1,3,Clay,F,458,505,1,2,3,Maximilian Neuchrist,Nino Serdarusic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Macedonia F1,3,Clay,SF,458,616,1,2,7,Maximilian Neuchrist,Tomislav Jotovski,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Macedonia F1,3,Clay,QF,458,749,1,2,6,Maximilian Neuchrist,Richard Gabb,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Macedonia F1,3,Clay,R16,458,954,1,2,,Maximilian Neuchrist,Darko Jandric,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Macedonia F1,3,Clay,R32,458,,1,2,WC,Maximilian Neuchrist,Stefan Micov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R16,437,232,0,,1,Jeremy Jahn,Maximilian Neuchrist,6-2 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R32,437,892,1,,Q,Maximilian Neuchrist,Rrezart Cungu,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Austria F2,3,Clay,R32,439,1435,0,5,WC,Alexander Erler,Maximilian Neuchrist,7-6(8) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Austria F1,3,Clay,R16,439,828,0,2,,Pascal Brunner,Maximilian Neuchrist,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Austria F1,3,Clay,R32,439,1111,1,2,,Maximilian Neuchrist,Andrew Ruppli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Belgium F2,3,Clay,R16,433,628,0,6,,Julien Dubail,Maximilian Neuchrist,5-7 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Belgium F2,3,Clay,R32,433,1166,1,6,Q,Maximilian Neuchrist,Jakob Johansson Holm,6-7(5) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Hungary F5,3,Clay,R32,421,464,0,7,,Jaroslav Pospisil,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Tunisia F23,3,Clay,R32,420,775,0,3,,Kevin Griekspoor,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Drummondville CH,3,Hard,Q2,426,597,0,,,Tim Puetz,Maximilian Neuchrist,6-2 6-3,0.46,12.7%,5.6%,54.9%,66.7%,34.4%,4/8,41.1%,22.0%,9.8%,11.1%,42.9%,0/0,112,9,4,71,39,32,4,1:10
+13-Mar-2017,Drummondville CH,3,Hard,Q1,426,,1,,WC,Maximilian Neuchrist,Nicaise Muamba,6-4 6-1,2.40,17.1%,0.0%,80.5%,84.8%,62.5%,2/2,60.0%,46.9%,6.3%,34.3%,62.1%,4/12,105,7,0,41,33,8,4,1:06
+6-Mar-2017,Canada F2,3,Hard,R16,426,292,0,,5,Laurent Lokoli,Maximilian Neuchrist,7-6(5) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Canada F2,3,Hard,R32,426,1090,1,,Q,Maximilian Neuchrist,Alexander Ritschard,7-6(5) 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Canada F1,3,Hard,QF,425,385,0,,,Eric Quigley,Maximilian Neuchrist,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Canada F1,3,Hard,R16,425,529,1,,,Maximilian Neuchrist,Ryan Shane,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Canada F1,3,Hard,R32,425,2000,1,,Q,Maximilian Neuchrist,Washi Gervais,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Switzerland F2,3,Carpet,R32,425,403,0,,,Edan Leshem,Maximilian Neuchrist,6-7(2) 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R16,430,402,0,,,Edan Leshem,Maximilian Neuchrist,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R32,430,308,1,,2,Maximilian Neuchrist,Marek Jaloviec,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Kazakhstan F2,3,Hard,QF,429,476,0,8,,Andriej Kapas,Maximilian Neuchrist,6-7(3) 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Kazakhstan F2,3,Hard,R16,429,915,1,8,Q,Maximilian Neuchrist,Maxim Ratniuk,7-6(5) 2-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Kazakhstan F2,3,Hard,R32,429,1419,1,8,Q,Maximilian Neuchrist,Saidalo Saidkarimov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Kazakhstan F1,3,Hard,R32,433,480,0,,,Andriej Kapas,Maximilian Neuchrist,7-6(11) 7-6(9),,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Israel F17,3,Hard,R32,430,1402,0,4,LL,Eric Johnson,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Cyprus F3,3,Hard,F,427,452,1,3,4,Maximilian Neuchrist,Lucas Miedler,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Cyprus F3,3,Hard,SF,427,393,1,3,2,Maximilian Neuchrist,Alexandre Muller,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Cyprus F3,3,Hard,QF,427,638,1,3,7,Maximilian Neuchrist,Carlos Gomez Herrera,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Cyprus F3,3,Hard,R16,427,1203,1,3,,Maximilian Neuchrist,Ewan Moore,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Cyprus F3,3,Hard,R32,427,,1,3,WC,Maximilian Neuchrist,Nicholas Campbell,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Andria CH,3,Hard,R32,440,223,0,Q,6,Akira Santillan,Maximilian Neuchrist,6-4 6-4,0.67,13.2%,1.5%,69.1%,74.5%,38.1%,2/4,45.6%,24.6%,17.5%,16.1%,34.6%,0/2,125,9,1,68,47,21,10,1:14
+21-Nov-2016,Andria CH,3,Hard,Q3,440,389,1,5,3,Maximilian Neuchrist,Filip Horansky,6-4 6-1,1.24,10.0%,0.0%,74.3%,73.1%,44.4%,3/3,56.4%,42.6%,17.0%,24.1%,72.2%,3/5,117,7,0,70,52,18,8,1:04
+21-Nov-2016,Andria CH,3,Hard,Q2,440,929,1,5,,Maximilian Neuchrist,Roman Jebavy,7-6(6) 7-6(1),1.35,14.5%,1.3%,82.9%,76.2%,61.5%,1/2,52.3%,35.4%,5.2%,26.2%,54.8%,1/10,172,11,1,76,63,13,5,1:41
+21-Nov-2016,Andria CH,3,Hard,Q1,440,687,1,5,,Maximilian Neuchrist,Gianluca Di Nicola,6-3 7-5,1.79,16.9%,0.0%,69.5%,87.8%,55.6%,0/0,55.7%,39.5%,4.9%,30.0%,54.8%,2/6,140,10,0,59,41,18,4,1:21
+7-Nov-2016,Kuwait F2,3,Hard,SF,488,472,0,4,2,Evgeny Karlovskiy,Maximilian Neuchrist,7-6(9) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Kuwait F2,3,Hard,QF,488,495,1,4,5,Maximilian Neuchrist,Daniel Altmaier,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Kuwait F2,3,Hard,R16,488,1220,1,4,,Maximilian Neuchrist,Roy Sarut De Valk,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Kuwait F2,3,Hard,R32,488,1328,1,4,,Maximilian Neuchrist,Jordi Munoz Abreu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Kuwait F1,3,Hard,F,484,446,1,2,1,Maximilian Neuchrist,Sanjar Fayziev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Kuwait F1,3,Hard,SF,484,878,1,2,7,Maximilian Neuchrist,Nicola Kuhn,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Kuwait F1,3,Hard,QF,484,776,1,2,5,Maximilian Neuchrist,Fred Simonsson,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Kuwait F1,3,Hard,R16,484,,1,2,WC,Maximilian Neuchrist,Abdulrahman Alawadhi,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Kuwait F1,3,Hard,R32,484,1645,1,2,Q,Maximilian Neuchrist,Abdullah Maqdas,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Brest CH,3,Hard,R16,537,209,0,Q,,Aldin Setkic,Maximilian Neuchrist,6-3 4-6 7-5,0.76,14.3%,1.1%,61.5%,66.1%,57.1%,5/8,46.0%,28.2%,10.6%,22.6%,37.5%,2/6,176,13,1,91,56,35,9,2:12
+17-Oct-2016,Brest CH,3,Hard,R32,537,138,1,Q,4,Maximilian Neuchrist,Alessandro Giannessi,6-1 7-6(1),2.11,8.6%,0.0%,70.7%,85.4%,64.7%,0/0,58.8%,43.6%,2.6%,38.8%,51.7%,2/9,136,5,0,58,41,17,2,1:26
+17-Oct-2016,Brest CH,3,Hard,Q3,537,597,1,,,Maximilian Neuchrist,Sander Gille,7-6(10) 6-2,1.57,6.5%,0.0%,66.1%,82.9%,71.4%,0/0,53.6%,32.9%,5.3%,16.7%,47.5%,2/9,138,4,0,62,41,21,4,1:38
+17-Oct-2016,Brest CH,3,Hard,Q2,537,311,1,,2,Maximilian Neuchrist,Ante Pavic,6-4 7-6(4),0.97,12.3%,0.0%,72.6%,77.4%,60.0%,1/1,51.1%,26.6%,15.6%,25.0%,30.0%,1/1,137,9,0,73,53,20,10,1:27
+17-Oct-2016,Brest CH,3,Hard,Q1,537,1103,1,,,Maximilian Neuchrist,Kirill Kivattsev,6-4 6-4,1.26,6.8%,6.8%,66.1%,87.2%,50.0%,2/2,55.0%,32.0%,4.0%,20.6%,56.3%,2/4,109,4,4,59,39,20,2,1:11
+26-Sep-2016,Hungary F7,3,Clay,R32,518,328,0,,4,Peter Torebko,Maximilian Neuchrist,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Banja Luka CH,3,Clay,R32,544,534,0,Q,Q,Lenny Hampel,Maximilian Neuchrist,3-6 6-4 7-5,1.00,0.0%,4.0%,57.6%,73.7%,50.0%,2/5,49.5%,36.2%,2.9%,27.1%,47.8%,2/11,204,0,4,99,57,42,3,2:32
+12-Sep-2016,Banja Luka CH,3,Clay,Q2,544,376,1,5,1,Maximilian Neuchrist,Petru Alexandru Luncanu,6-3 6-2,1.50,0.0%,2.0%,72.0%,66.7%,50.0%,1/3,59.6%,56.8%,4.5%,40.9%,72.7%,5/5,94,0,1,50,36,14,2,1:14
+12-Sep-2016,Banja Luka CH,3,Clay,Q1,544,,1,5,WC,Maximilian Neuchrist,Ivan Randjelovic,6-0 6-0,4.22,3.3%,3.3%,60.0%,94.4%,66.7%,0/0,76.1%,70.3%,0.0%,73.3%,68.2%,6/9,67,1,1,30,18,12,0,0:41
+22-Aug-2016,Poland F6,3,Clay,QF,562,280,0,,2,Daniel Masur,Maximilian Neuchrist,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Poland F6,3,Clay,R16,562,653,1,,Q,Maximilian Neuchrist,Grzegorz Panfil,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Poland F6,3,Clay,R32,562,1046,1,,Q,Maximilian Neuchrist,Ondrej Krstev,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Poland F5,3,Clay,QF,558,392,0,,4,Maxime Janvier,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Poland F5,3,Clay,R16,558,407,1,,6,Maximilian Neuchrist,Sumit Nagal,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Poland F5,3,Clay,R32,558,599,1,,,Maximilian Neuchrist,Maciej Rajski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Trnava CH,3,Clay,Q1,562,703,0,,,David Pichler,Maximilian Neuchrist,6-3 6-3,0.66,1.9%,5.6%,59.3%,56.3%,45.5%,2/6,42.3%,32.0%,0.0%,7.7%,58.3%,1/1,104,1,3,54,32,22,0,1:12
+1-Aug-2016,Liberec CH,3,Clay,Q1,561,343,0,,3,Filip Horansky,Maximilian Neuchrist,2-6 6-4 7-6(0),0.94,2.0%,1.0%,71.7%,66.2%,50.0%,0/2,48.7%,36.0%,8.0%,23.0%,56.4%,3/5,199,2,1,99,71,28,8,2:05
+18-Jul-2016,Germany F8,3,Clay,R16,484,322,0,,4,Giovanni Lapentti,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Germany F8,3,Clay,R32,484,622,1,,Q,Maximilian Neuchrist,Marvin Netuschil,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Austria F2,3,Clay,SF,487,357,0,3,2,Stefanos Tsitsipas,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Austria F2,3,Clay,QF,487,520,1,3,7,Maximilian Neuchrist,Goncalo Oliveira,7-6(6) RET,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Austria F2,3,Clay,R16,487,956,1,3,,Maximilian Neuchrist,Bernd Kossler,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Austria F2,3,Clay,R32,487,1460,1,3,Q,Maximilian Neuchrist,Marcel Waloch,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Netherlands F4,3,Clay,R16,419,283,0,,6,Aleksandre Metreveli,Maximilian Neuchrist,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Netherlands F4,3,Clay,R32,419,418,1,,,Maximilian Neuchrist,Jan Choinski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Netherlands F3,3,Clay,R16,419,934,0,5,,Jelle Sels,Maximilian Neuchrist,5-7 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Netherlands F3,3,Clay,R32,419,1355,1,5,Q,Maximilian Neuchrist,Bobbie De Goeijen,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Netherlands F2,3,Clay,R32,426,398,0,Q,,Maverick Banes,Maximilian Neuchrist,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,QF,418,291,0,6,1,Pedro Sousa,Maximilian Neuchrist,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,R16,418,,1,6,WC,Maximilian Neuchrist,Stephan Gerritsen,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Netherlands F1,3,Clay,R32,418,1264,1,6,WC,Maximilian Neuchrist,Marc Dijkhuizen,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Barletta CH,3,Clay,Q1,359,234,0,,2,Maxime Chazal,Maximilian Neuchrist,6-2 6-3,0.73,3.4%,3.4%,63.8%,62.2%,28.6%,6/10,43.0%,36.5%,0.0%,37.2%,35.0%,1/1,121,2,2,58,37,21,0,1:26
+21-Mar-2016,Shenzhen CH,3,Hard,Q3,351,344,0,8,4,Enrique Lopez Perez,Maximilian Neuchrist,7-5 6-4,0.73,4.2%,2.8%,70.8%,68.6%,47.6%,3/5,45.7%,27.3%,10.6%,22.0%,43.8%,0/2,138,3,2,72,51,21,7,1:29
+21-Mar-2016,Shenzhen CH,3,Hard,Q2,351,1389,1,8,,Maximilian Neuchrist,Yuanfeng Li,6-2 6-4,1.72,10.9%,0.0%,67.4%,80.6%,60.0%,1/2,57.7%,44.8%,3.4%,40.0%,52.2%,4/9,104,5,0,46,31,15,2,1:03
+21-Mar-2016,Shenzhen CH,3,Hard,Q1,351,,1,8,WC,Maximilian Neuchrist,Zihao Xia,6-4 6-1,2.33,9.3%,2.3%,69.8%,76.7%,84.6%,0/1,64.0%,48.8%,9.3%,40.7%,62.5%,4/7,86,4,1,43,30,13,4,0:55
+14-Mar-2016,Guangzhou CH,3,Hard,R32,361,106,0,Q,5,Lukas Lacko,Maximilian Neuchrist,6-2 6-2,0.57,3.3%,5.0%,73.3%,63.6%,18.8%,4/8,40.4%,27.8%,13.0%,18.9%,47.1%,0/4,114,2,3,60,44,16,7,1:09
+14-Mar-2016,Guangzhou CH,3,Hard,Q3,361,343,1,,,Maximilian Neuchrist,Enrique Lopez Perez,6-4 3-6 7-6(4),1.10,11.5%,0.0%,77.0%,70.1%,75.0%,5/7,50.8%,31.5%,8.7%,23.3%,63.2%,2/2,179,10,0,87,67,20,8,1:51
+14-Mar-2016,Guangzhou CH,3,Hard,Q2,361,1054,1,,,Maximilian Neuchrist,Roman Jebavy,6-1 6-3,1.34,4.7%,3.1%,73.4%,66.0%,47.1%,4/5,56.7%,52.4%,3.2%,42.5%,69.6%,5/15,127,3,2,64,47,17,2,1:17
+14-Mar-2016,Guangzhou CH,3,Hard,Q1,361,2090,1,,WC,Maximilian Neuchrist,Haitong Xia,6-3 6-1,2.11,13.6%,4.5%,59.1%,92.3%,55.6%,1/1,61.7%,48.0%,0.0%,50.0%,42.9%,4/7,94,6,2,44,26,18,0,0:57
+7-Mar-2016,Zhuhai CH,3,Hard,R32,361,190,0,Q,,Hiroki Moriya,Maximilian Neuchrist,6-3 4-6 6-2,0.86,10.8%,2.4%,67.5%,60.7%,29.6%,6/12,46.4%,42.4%,2.4%,37.5%,46.7%,4/10,168,9,2,83,56,27,2,2:00
+7-Mar-2016,Zhuhai CH,3,Hard,Q3,361,344,1,5,3,Maximilian Neuchrist,Edoardo Eremin,7-5 2-6 7-6(5),0.93,3.4%,2.5%,63.6%,70.7%,41.9%,6/10,48.9%,37.2%,8.8%,31.4%,46.5%,3/12,231,4,3,118,75,43,10,2:36
+7-Mar-2016,Zhuhai CH,3,Hard,Q2,361,1504,1,5,,Maximilian Neuchrist,Yuanfeng Li,6-1 6-1,2.05,5.1%,5.1%,59.0%,78.3%,56.3%,1/2,65.9%,63.0%,2.2%,51.9%,78.9%,6/10,85,2,2,39,23,16,1,0:57
+15-Feb-2016,Wroclaw CH,3,Hard,Q2,359,296,0,,7,Dzmitry Zhyrmont,Maximilian Neuchrist,3-1 RET,0.57,23.8%,0.0%,57.1%,66.7%,33.3%,6/7,43.8%,27.3%,9.1%,40.0%,16.7%,0/0,32,5,0,21,12,9,1,0:27
+15-Feb-2016,Wroclaw CH,3,Hard,Q1,359,439,1,,,Maximilian Neuchrist,Andriej Kapas,6-7(4) 7-6(4) 7-6(1),0.93,7.2%,1.6%,61.6%,79.2%,58.3%,4/5,50.6%,26.9%,18.5%,13.0%,40.7%,1/1,233,9,2,125,77,48,20,2:35
+8-Feb-2016,Bergamo CH,3,Hard,Q3,359,270,0,,,Gregoire Barrere,Maximilian Neuchrist,7-5 6-3,0.84,5.5%,2.7%,72.6%,58.5%,55.0%,4/7,46.3%,35.5%,9.2%,28.9%,45.2%,1/6,149,4,2,73,53,20,7,1:24
+8-Feb-2016,Bergamo CH,3,Hard,Q2,359,259,1,,7,Maximilian Neuchrist,Salvatore Caruso,4-6 6-4 6-0,1.26,12.5%,5.0%,65.0%,76.9%,42.9%,5/7,54.2%,44.2%,1.2%,26.1%,65.0%,5/11,166,10,4,80,52,28,1,1:57
+8-Feb-2016,Bergamo CH,3,Hard,Q1,359,540,1,,,Maximilian Neuchrist,Francesco Vilardo,6-3 7-6(5),1.25,16.7%,5.6%,54.2%,71.8%,51.5%,4/6,53.6%,46.9%,6.3%,37.7%,62.9%,4/10,168,12,4,72,39,33,6,1:54
+18-Jan-2016,Manila CH,3,Hard,Q1,355,307,0,,4,Gerard Granollers,Maximilian Neuchrist,6-4 7-6(5),0.72,17.4%,1.4%,65.2%,75.6%,58.3%,2/3,46.0%,22.1%,4.4%,15.4%,31.0%,0/2,137,12,1,69,45,24,3,1:34
+11-Jan-2016,Bangkok CH,3,Hard,R16,381,356,0,Q,Q,Joshua Milton,Maximilian Neuchrist,6-4 6-3,0.81,1.6%,4.8%,68.3%,53.5%,50.0%,6/11,45.8%,38.6%,3.5%,37.0%,40.0%,2/2,120,1,3,63,43,20,2,1:22
+11-Jan-2016,Bangkok CH,3,Hard,R32,381,307,1,Q,,Maximilian Neuchrist,Alexey Vatutin,1-6 6-2 6-1,1.08,9.6%,1.4%,60.3%,75.0%,41.4%,3/5,51.7%,41.4%,2.9%,27.9%,63.0%,4/8,143,7,1,73,44,29,2,1:35
+11-Jan-2016,Bangkok CH,3,Hard,Q3,381,349,1,8,1,Maximilian Neuchrist,Alex Kuznetsov,7-5 3-6 7-6(6),0.89,7.8%,2.3%,60.5%,76.9%,39.2%,13/16,49.4%,34.0%,6.6%,27.8%,47.1%,3/6,235,10,3,129,78,51,7,2:59
+11-Jan-2016,Bangkok CH,3,Hard,Q2,381,589,1,8,,Maximilian Neuchrist,Alexander Vasilenko,6-4 6-3,1.31,12.3%,7.0%,56.1%,71.9%,48.0%,4/7,55.4%,50.7%,2.7%,46.2%,55.9%,5/10,130,7,4,57,32,25,2,1:35
+11-Jan-2016,Bangkok CH,3,Hard,Q1,381,,1,8,WC,Maximilian Neuchrist,Jatuporn Nalamphun,6-1 6-0,3.48,13.8%,0.0%,41.4%,91.7%,76.5%,0/0,67.4%,60.0%,0.0%,42.9%,75.0%,6/13,89,4,0,29,12,17,0,1:05
+4-Jan-2016,Bangkok CH,3,Hard,R32,390,256,0,Q,Q,Jason Jung,Maximilian Neuchrist,6-4 5-7 6-2,0.68,14.6%,4.5%,52.8%,78.7%,38.1%,1/5,44.8%,27.6%,9.2%,19.6%,40.0%,2/2,165,13,4,89,47,42,7,1:47
+4-Jan-2016,Bangkok CH,3,Hard,Q3,390,379,1,,,Maximilian Neuchrist,Cheong Eui Kim,6-7(3) 6-3 6-4,1.12,14.4%,3.8%,67.3%,80.0%,47.1%,7/8,52.2%,34.3%,5.1%,34.8%,33.3%,3/9,203,15,4,104,70,34,5,2:14
+4-Jan-2016,Bangkok CH,3,Hard,Q2,390,412,1,,,Maximilian Neuchrist,Kento Takeuchi,6-7(5) 7-6(3) 6-3,1.10,12.5%,4.5%,62.5%,85.7%,47.6%,3/4,52.1%,31.4%,5.7%,30.1%,34.4%,2/4,217,14,5,112,70,42,6,2:27
+4-Jan-2016,Bangkok CH,3,Hard,Q1,390,298,1,,6,Maximilian Neuchrist,Frederico Ferreira Silva,4-6 6-1 7-6(3),1.23,7.9%,10.1%,50.6%,73.3%,43.2%,3/9,54.6%,51.1%,3.2%,46.8%,55.3%,7/15,183,7,9,89,45,44,3,1:02
+9-Nov-2015,Ortisei CH,3,Hard,R16,407,94,0,Q,2,Evgeny Donskoy,Maximilian Neuchrist,6-4 7-6(5),0.72,20.3%,4.1%,54.1%,80.0%,41.2%,3/5,46.3%,27.4%,11.3%,20.5%,39.1%,1/2,136,15,3,74,40,34,7,
+9-Nov-2015,Ortisei CH,3,Hard,R32,407,,1,Q,WC,Maximilian Neuchrist,Dmitry Tursunov,7-5 5-7 6-2,1.11,17.3%,6.7%,58.7%,75.4%,44.2%,8/11,52.5%,41.5%,12.8%,25.5%,64.1%,5/9,198,18,7,104,61,43,12,
+26-Oct-2015,Pune CH,3,Hard,R32,405,140,0,,3,Adrian Menendez Maceiras,Maximilian Neuchrist,6-4 6-3,0.59,8.8%,7.0%,52.6%,66.7%,51.9%,2/5,43.0%,24.0%,14.0%,16.1%,36.8%,0/1,107,5,4,57,30,27,7,
+19-Oct-2015,Bangalore CH,3,Hard,R32,401,181,0,,4,Somdev Devvarman,Maximilian Neuchrist,6-4 6-3,0.69,2.5%,3.7%,60.5%,61.2%,46.9%,12/15,45.0%,30.5%,10.2%,21.1%,47.6%,1/5,140,2,3,81,49,32,6,
+5-Oct-2015,France F21,3,Hard,QF,402,253,0,,4,Gregoire Barrere,Maximilian Neuchrist,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,France F21,3,Hard,R16,402,285,1,,5,Maximilian Neuchrist,Sebastien Boltz,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,France F21,3,Hard,R32,402,1064,1,,Q,Maximilian Neuchrist,Lucas Catarina,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Agri CH,3,Hard,R32,401,153,0,,6,Farrukh Dustov,Maximilian Neuchrist,6-4 6-4,0.42,11.3%,1.4%,69.0%,61.2%,59.1%,7/9,42.9%,16.7%,22.9%,7.1%,30.0%,0/0,119,8,1,71,49,22,11,
+21-Sep-2015,Izmir CH,3,Hard,R32,401,367,0,LL,Q,Daniel Masur,Maximilian Neuchrist,7-6(5) 6-0,0.69,3.3%,0.0%,72.1%,54.5%,47.1%,2/6,42.9%,32.8%,5.2%,32.6%,33.3%,1/1,119,2,0,61,44,17,3,
+31-Aug-2015,Austria F10,3,Clay,R32,410,874,0,3,,Tristan Samuel Weissborn,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Italy F23,3,Clay,R16,400,390,0,8,,Ricardo Rodriguez,Maximilian Neuchrist,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Italy F23,3,Clay,R32,400,,1,8,Q,Maximilian Neuchrist,Giovanni Fonio,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Italy F22,3,Clay,R16,390,623,0,,WC,Francisco Bahamonde,Maximilian Neuchrist,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Italy F22,3,Clay,R32,390,310,1,,6,Maximilian Neuchrist,Arthur De Greef,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Kitzbuhel,3,Clay,Q1,389,,0,,,Andre Sa,Maximilian Neuchrist,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,F,441,551,1,6,7,Maximilian Neuchrist,Jan Choinski,6-7(5) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,SF,441,580,1,6,8,Maximilian Neuchrist,Jean Marc Werner,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,QF,441,1387,1,6,WC,Maximilian Neuchrist,Hannes Wagner,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,R16,441,,1,6,Q,Maximilian Neuchrist,Alexander Caspari,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,R32,441,1229,1,6,,Maximilian Neuchrist,Ilya Polonskiy,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,SF,445,284,0,,5,Daniel Brands,Maximilian Neuchrist,7-6(5) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,QF,445,309,1,,2,Maximilian Neuchrist,Nikola Milojevic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,R16,445,500,1,,,Maximilian Neuchrist,Nicolas Reissig,5-7 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,R32,445,888,1,,Q,Maximilian Neuchrist,Goncalo Oliveira,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Czech Republic F5,3,Clay,F,489,320,0,7,4,Marek Michalicka,Maximilian Neuchrist,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Czech Republic F5,3,Clay,SF,489,284,1,7,2,Maximilian Neuchrist,Gonzalo Escobar,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Czech Republic F5,3,Clay,QF,489,660,1,7,,Maximilian Neuchrist,Dominik Suc,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Czech Republic F5,3,Clay,R16,489,684,1,7,,Maximilian Neuchrist,Patrik Fabian,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Czech Republic F5,3,Clay,R32,489,944,1,7,,Maximilian Neuchrist,Juraj Masar,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Czech Republic F4,3,Clay,SF,481,315,0,,4,Marek Michalicka,Maximilian Neuchrist,6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Czech Republic F4,3,Clay,QF,481,437,1,,6,Maximilian Neuchrist,Peter Heller,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Czech Republic F4,3,Clay,R16,481,340,1,,Q,Maximilian Neuchrist,Dusan Lojda,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Czech Republic F4,3,Clay,R32,481,1463,1,,WC,Maximilian Neuchrist,Milan Habrman,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,SF,506,540,0,2,5,Edoardo Eremin,Maximilian Neuchrist,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,QF,506,624,1,2,7,Maximilian Neuchrist,Jordan Ubiergo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,R16,506,721,1,2,,Maximilian Neuchrist,Simone Vagnozzi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,R32,506,697,1,2,,Maximilian Neuchrist,Lucas Miedler,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Slovenia F1,3,Clay,R32,489,1125,0,5,Q,Daniel Uhlig,Maximilian Neuchrist,6-7(0) 7-5 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Turkey F18,3,Hard,QF,510,1142,0,3,WC,Altug Celikbilek,Maximilian Neuchrist,6-4 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Turkey F18,3,Hard,R16,510,1218,1,3,Q,Maximilian Neuchrist,Antoine Bellier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Turkey F18,3,Hard,R32,510,843,1,3,,Maximilian Neuchrist,Gleb Alekseenko,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Turkey F17,3,Hard,SF,467,943,0,4,,Lucas Miedler,Maximilian Neuchrist,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Turkey F17,3,Hard,QF,467,690,1,4,7,Maximilian Neuchrist,Sandro Ehrat,6-7(5) 7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Turkey F17,3,Hard,R16,467,2121,1,4,Q,Maximilian Neuchrist,Philip Orno,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Turkey F17,3,Hard,R32,467,,1,4,WC,Maximilian Neuchrist,Ege Erdurak,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Turkey F15,3,Hard,QF,493,320,0,8,4,Riccardo Bellotti,Maximilian Neuchrist,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Turkey F15,3,Hard,R16,493,1184,1,8,WC,Maximilian Neuchrist,Altug Celikbilek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Turkey F15,3,Hard,R32,493,1846,1,8,Q,Maximilian Neuchrist,Jules Okala,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Turkey F14,3,Hard,F,493,573,1,5,6,Maximilian Neuchrist,Claudio Fortuna,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Turkey F14,3,Hard,SF,493,627,1,5,8,Maximilian Neuchrist,Marat Deviatiarov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Turkey F14,3,Hard,QF,493,719,1,5,,Maximilian Neuchrist,Maxime Janvier,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Turkey F14,3,Hard,R16,493,1454,1,5,Q,Maximilian Neuchrist,Raleigh Smith,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Turkey F14,3,Hard,R32,493,1253,1,5,Q,Maximilian Neuchrist,Efe Yurtacan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,QF,521,424,0,,8,Salvatore Caruso,Maximilian Neuchrist,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,R16,521,806,1,,,Maximilian Neuchrist,Joe Salisbury,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,R32,521,226,1,,1,Maximilian Neuchrist,Jan Mertl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Great Britain F4,3,Hard,R16,515,425,0,,8,Salvatore Caruso,Maximilian Neuchrist,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Great Britain F4,3,Hard,R32,515,1105,1,,Q,Maximilian Neuchrist,Marshall Tutu,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Egypt F7,3,Hard,QF,497,462,0,6,4,Marko Tepavac,Maximilian Neuchrist,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Egypt F7,3,Hard,R16,497,1367,1,6,Q,Maximilian Neuchrist,Robbie Ridout,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Egypt F7,3,Hard,R32,497,1024,1,6,Q,Maximilian Neuchrist,Simeon Rossier,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Egypt F6,3,Hard,QF,498,245,0,8,1,Jaroslav Pospisil,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Egypt F6,3,Hard,R16,498,1164,1,8,WC,Maximilian Neuchrist,Dominik Kellovsky,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Egypt F6,3,Hard,R32,498,552,1,8,,Maximilian Neuchrist,Tom Kocevar Desman,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Turkey F5,3,Hard,R16,509,564,0,,,Kevin Krawietz,Maximilian Neuchrist,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Turkey F5,3,Hard,R32,509,454,1,,WC,Maximilian Neuchrist,Alexander Vasilenko,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Turkey F4,3,Hard,QF,505,458,0,,,Riccardo Bellotti,Maximilian Neuchrist,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Turkey F4,3,Hard,R16,505,410,1,,6,Maximilian Neuchrist,Cheong Eui Kim,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Turkey F4,3,Hard,R32,505,1019,1,,Q,Maximilian Neuchrist,Sami Reinwein,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Turkey F3,3,Hard,R32,505,424,0,Q,5,Jose Pereira,Maximilian Neuchrist,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Qatar F6,3,Hard,SF,539,191,0,7,1,Nikoloz Basilashvili,Maximilian Neuchrist,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Qatar F6,3,Hard,QF,539,,1,7,Q,Maximilian Neuchrist,Sumit Nagal,6-7(9) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Qatar F6,3,Hard,R16,539,890,1,7,,Maximilian Neuchrist,Xin Gao,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Qatar F6,3,Hard,R32,539,1642,1,7,WC,Maximilian Neuchrist,Mubarak Shannan Zayid,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Qatar F5,3,Hard,QF,443,577,0,,,Richard Gabb,Maximilian Neuchrist,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Qatar F5,3,Hard,R16,443,1953,1,,LL,Maximilian Neuchrist,Pavel Filin,6-7(4) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Qatar F5,3,Hard,R32,443,563,1,,PR,Maximilian Neuchrist,Andres Artunedo Martinavarr,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Qatar F4,3,Hard,R16,416,721,0,8,,Evgeny Karlovskiy,Maximilian Neuchrist,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Qatar F4,3,Hard,R32,416,1484,1,8,Q,Maximilian Neuchrist,Tudor Sulea,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Kuwait F3,3,Hard,QF,415,270,0,6,1,Roberto Ortega Olmedo,Maximilian Neuchrist,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Kuwait F3,3,Hard,R16,415,,1,6,Q,Maximilian Neuchrist,Nino Portales,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Kuwait F3,3,Hard,R32,415,,1,6,Q,Maximilian Neuchrist,Guillaume Cappeau,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Kuwait F2,3,Hard,R32,413,964,0,5,,Michael Geerts,Maximilian Neuchrist,7-6(10) 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Italy F26,3,Clay,SF,444,401,0,7,5,Guillaume Rufin,Maximilian Neuchrist,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Italy F26,3,Clay,QF,444,989,1,7,,Maximilian Neuchrist,Lorenzo Frigerio,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Italy F26,3,Clay,R16,444,1088,1,7,,Maximilian Neuchrist,Daniele Capecchi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Italy F26,3,Clay,R32,444,984,1,7,,Maximilian Neuchrist,Nicola Ghedin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2014,Kitzbuhel,3,Clay,Q2,444,97,0,,1,Albert Ramos,Maximilian Neuchrist,6-0 6-4,0.73,3.9%,7.9%,63.2%,60.4%,21.4%,13/18,43.3%,39.2%,7.8%,30.4%,46.4%,1/5,127,3,6,76,48,28,4,1:18
+27-Jul-2014,Kitzbuhel,3,Clay,Q1,444,,1,,WC,Maximilian Neuchrist,Matthias Haim,6-3 6-7(2) 6-1,1.80,11.7%,2.6%,63.6%,81.6%,75.0%,0/0,57.0%,37.5%,9.1%,25.0%,47.9%,3/9,165,9,2,77,49,28,8,1:40
+7-Jul-2014,Germany F7,3,Clay,R32,349,372,0,7,,Nicolas Jarry,Maximilian Neuchrist,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Todi CH,3,Clay,R16,375,228,0,Q,,Enrique Lopez Perez,Maximilian Neuchrist,6-7(5) 7-6(6) 6-3,0.96,5.0%,5.0%,70.3%,67.6%,50.0%,1/4,47.6%,36.2%,5.4%,24.2%,64.1%,2/13,231,5,5,101,71,30,7,2:39
+30-Jun-2014,Todi CH,3,Clay,R32,375,170,1,Q,7,Maximilian Neuchrist,Thomas Fabbiano,6-2 6-2,2.03,4.2%,0.0%,79.2%,68.4%,80.0%,4/5,65.2%,59.1%,4.5%,58.1%,61.5%,5/6,92,2,0,48,38,10,2,1:01
+23-Jun-2014,Italy F20,3,Clay,QF,375,261,0,,4,Luca Vanni,Maximilian Neuchrist,2-6 7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Italy F20,3,Clay,R16,375,1440,1,,Q,Maximilian Neuchrist,Davide Pontoglio,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Italy F20,3,Clay,R32,375,630,1,,,Maximilian Neuchrist,Hicham Khaddari,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2014,Furth CH,3,Clay,R32,358,294,0,Q,Q,Jason Kubler,Maximilian Neuchrist,6-4 7-5,0.82,1.4%,2.9%,62.3%,58.1%,57.7%,3/6,46.0%,34.3%,4.3%,27.3%,46.2%,1/5,139,1,2,69,43,26,3,1:32
+12-May-2014,Busan CH,3,Hard,R32,321,384,0,LL,WC,Hyeon Chung,Maximilian Neuchrist,7-6(4) 5-7 6-1,0.79,3.1%,3.1%,58.3%,75.0%,42.5%,7/11,46.3%,30.4%,1.1%,22.6%,46.7%,3/6,188,3,3,96,56,40,1,2:13
+5-May-2014,Gimcheon CH,3,Hard,R32,320,304,0,LL,Q,Jason Jung,Maximilian Neuchrist,6-4 7-6(4),0.86,4.8%,1.2%,76.2%,57.8%,50.0%,4/8,48.0%,37.9%,4.5%,28.0%,68.8%,3/4,150,4,1,84,64,20,3,1:37
+28-Apr-2014,Korea F2,3,Hard,R32,350,,0,3,WC,Hyung Taik Lee,Maximilian Neuchrist,7-6(10) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Korea F1,3,Hard,F,350,302,0,3,1,Yong Kyu Lim,Maximilian Neuchrist,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Korea F1,3,Hard,SF,350,327,1,3,2,Maximilian Neuchrist,Dzmitry Zhyrmont,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Korea F1,3,Hard,QF,350,573,1,3,,Maximilian Neuchrist,Cheong Eui Kim,4-6 7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Korea F1,3,Hard,R16,350,,1,3,WC,Maximilian Neuchrist,Yunseong Chung,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Korea F1,3,Hard,R32,350,1146,1,3,Q,Maximilian Neuchrist,Oscar Fabian Matthews,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Turkey F11,3,Hard,F,356,419,0,2,5,Bastian Trinker,Maximilian Neuchrist,6-7(1) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Turkey F11,3,Hard,SF,356,442,1,2,6,Maximilian Neuchrist,Julien Obry,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Turkey F11,3,Hard,QF,356,563,1,2,,Maximilian Neuchrist,Miki Jankovic,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Turkey F11,3,Hard,R16,356,849,1,2,,Maximilian Neuchrist,Andreas Mies,7-6(6) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Turkey F11,3,Hard,R32,356,734,1,2,,Maximilian Neuchrist,Julien Demois,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Turkey F10,3,Hard,R32,356,663,0,1,,Jan Satral,Maximilian Neuchrist,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Turkey F9,3,Hard,R32,335,884,0,3,Q,Franjo Raspudic,Maximilian Neuchrist,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Guangzhou CH,3,Hard,R16,352,187,0,,,Martin Fischer,Maximilian Neuchrist,7-6(4) 6-2,0.68,7.4%,1.5%,69.1%,57.4%,52.4%,6/9,43.0%,29.9%,6.0%,25.6%,37.5%,1/3,135,5,1,68,47,21,4,1:33
+24-Feb-2014,Guangzhou CH,3,Hard,R32,352,1177,1,,WC,Maximilian Neuchrist,Siyu Liu,6-3 7-5,1.65,25.0%,3.3%,60.0%,86.1%,62.5%,0/0,56.2%,38.6%,8.6%,29.8%,56.5%,2/5,130,15,2,60,36,24,6,1:18
+17-Feb-2014,Astana CH,3,Hard,R32,346,206,0,,2,Matteo Viola,Maximilian Neuchrist,6-4 7-5,0.96,6.0%,0.0%,74.6%,64.0%,58.8%,5/8,47.7%,35.7%,7.1%,15.4%,53.3%,1/10,151,4,0,67,50,17,6,1:29
+3-Feb-2014,Montpellier,3,Hard,Q1,347,210,0,,8,Gregoire Burquier,Maximilian Neuchrist,W/O,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,France F3,3,Hard,R32,347,615,0,8,,Calvin Hemery,Maximilian Neuchrist,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Senegal F2,3,Hard,F,443,366,1,6,4,Maximilian Neuchrist,Aldin Setkic,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Senegal F2,3,Hard,SF,443,242,1,6,2,Maximilian Neuchrist,Axel Michon,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Senegal F2,3,Hard,QF,443,1228,1,6,,Maximilian Neuchrist,Damon Gooch,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Senegal F2,3,Hard,R16,443,1183,1,6,,Maximilian Neuchrist,Theo Fournerie,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Senegal F2,3,Hard,R32,443,,1,6,Q,Maximilian Neuchrist,Denis Indondo Ilongende,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Senegal F1,3,Hard,F,389,274,0,4,1,Ante Pavic,Maximilian Neuchrist,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Senegal F1,3,Hard,SF,389,325,1,4,2,Maximilian Neuchrist,Aldin Setkic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Senegal F1,3,Hard,QF,389,1265,1,4,Q,Maximilian Neuchrist,Francesco Garzelli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Senegal F1,3,Hard,R16,389,,1,4,WC,Maximilian Neuchrist,William Bushamuka,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Senegal F1,3,Hard,R32,389,910,1,4,,Maximilian Neuchrist,Mark Fynn,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Champaign CH,3,Hard,R32,387,245,0,,,Austin Krajicek,Maximilian Neuchrist,6-4 7-6(5),0.74,3.5%,3.5%,65.9%,62.5%,55.2%,4/6,47.0%,29.7%,20.3%,20.0%,64.3%,1/3,149,3,3,85,56,29,13,1:36
+4-Nov-2013,Knoxville CH,3,Hard,R32,344,139,0,,8,Alex Kuznetsov,Maximilian Neuchrist,6-4 6-3,0.63,1.4%,1.4%,58.6%,68.3%,41.4%,6/10,44.9%,27.1%,18.8%,15.2%,53.3%,1/3,118,1,1,70,41,29,9,1:18
+28-Oct-2013,Charlottesville CH,3,Hard,R32,327,120,0,,5,Rajeev Ram,Maximilian Neuchrist,7-6(7) 6-3,0.76,8.7%,4.3%,60.9%,69.0%,51.9%,1/3,45.9%,28.8%,10.6%,19.5%,44.0%,1/2,135,6,3,69,42,27,7,1:26
+14-Oct-2013,Vienna,3,Hard,Q2,329,233,0,,6,Marton Fucsovics,Maximilian Neuchrist,2-6 6-3 6-2,0.93,2.4%,7.2%,55.4%,69.6%,43.2%,8/12,48.0%,39.4%,5.3%,23.5%,58.1%,3/7,177,2,6,83,46,37,5,2:08
+14-Oct-2013,Vienna,3,Hard,Q1,329,1165,1,,,Maximilian Neuchrist,Daniel Geib,6-2 6-3,1.61,7.5%,1.9%,52.8%,82.1%,60.0%,3/3,58.3%,45.5%,1.8%,34.5%,57.7%,3/4,108,4,1,53,28,25,1,1:04
+23-Sep-2013,Fergana CH,3,Hard,R32,322,249,0,,7,Mohamed Safwat,Maximilian Neuchrist,6-4 5-7 6-4,0.96,17.4%,4.3%,70.7%,75.4%,48.1%,2/5,49.2%,31.2%,3.2%,19.2%,46.3%,2/4,185,16,4,92,65,27,3,1:54
+16-Sep-2013,Izmir CH,3,Hard,R32,316,180,0,,5,Malek Jaziri,Maximilian Neuchrist,6-4 6-4,0.82,7.6%,1.5%,56.1%,62.2%,48.3%,4/8,46.5%,36.1%,6.6%,27.6%,43.8%,2/6,127,5,1,66,37,29,4,1:27
+9-Sep-2013,Petange CH,3,Hard,R32,315,299,0,,,Jurgen Zopp,Maximilian Neuchrist,6-3 6-1,0.57,4.4%,4.4%,55.6%,64.0%,40.0%,2/6,39.4%,26.5%,16.3%,15.6%,47.1%,0/5,94,2,2,45,25,20,8,0:57
+26-Aug-2013,Spain F28,3,Hard,R32,312,1025,0,2,,Juan Sebastian Gomez,Maximilian Neuchrist,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Kazan CH,3,Hard,R32,313,377,0,,,Alexander Kudryavtsev,Maximilian Neuchrist,6-2 6-3,0.60,10.6%,1.5%,65.2%,58.1%,26.1%,6/12,40.9%,31.8%,6.8%,22.2%,38.5%,2/4,110,7,1,66,43,23,3,1:14
+22-Jul-2013,Guimaraes CH,3,Hard,QF,339,145,0,,7,Flavio Cipolla,Maximilian Neuchrist,6-3 6-2,0.45,4.9%,2.4%,61.0%,50.0%,46.9%,9/14,40.5%,23.1%,7.7%,9.1%,41.2%,1/1,121,4,2,82,50,32,3,1:23
+22-Jul-2013,Guimaraes CH,3,Hard,R16,339,267,1,,,Maximilian Neuchrist,Jules Marie,6-4 6-3,1.19,3.0%,6.1%,59.1%,82.1%,37.0%,3/4,54.0%,43.3%,1.7%,37.0%,64.3%,3/8,126,2,4,66,39,27,1,1:17
+22-Jul-2013,Guimaraes CH,3,Hard,R32,339,951,1,,Q,Maximilian Neuchrist,Matteo Donati,6-4 6-7(4) 6-4,1.26,10.9%,3.3%,55.4%,74.5%,70.7%,2/2,51.7%,34.2%,2.7%,24.6%,47.8%,2/14,203,10,3,92,51,41,3,2:11
+15-Jul-2013,Eskisehir CH,3,Hard,QF,363,175,0,,6,Marsel Ilhan,Maximilian Neuchrist,6-3 6-3,0.81,7.4%,3.7%,63.0%,70.6%,45.0%,2/5,44.4%,31.4%,10.0%,21.1%,43.8%,0/4,124,4,2,54,34,20,7,1:19
+15-Jul-2013,Eskisehir CH,3,Hard,R16,363,302,1,,,Maximilian Neuchrist,Blaz Rola,6-4 5-7 7-6(3),0.97,12.2%,3.5%,70.4%,76.5%,41.2%,5/7,50.2%,33.0%,9.4%,23.5%,50.0%,2/4,221,14,4,115,81,34,10,2:25
+15-Jul-2013,Eskisehir CH,3,Hard,R32,363,1105,1,,WC,Maximilian Neuchrist,Anil Yuksel,6-4 6-1,1.62,15.7%,7.8%,54.9%,82.1%,56.5%,0/1,57.8%,47.7%,7.7%,38.5%,61.5%,4/13,116,8,4,51,28,23,5,1:08
+8-Jul-2013,Istanbul CH,3,Hard,R16,387,107,0,,1,David Goffin,Maximilian Neuchrist,6-3 6-2,0.66,0.0%,1.5%,73.8%,60.4%,35.3%,7/11,42.7%,30.5%,1.7%,36.4%,23.1%,0/6,124,0,1,65,48,17,1,1:28
+8-Jul-2013,Istanbul CH,3,Hard,R32,387,449,1,,LL,Maximilian Neuchrist,Mikhail Biryukov,6-4 7-5,1.18,5.4%,5.4%,58.1%,69.8%,41.9%,6/9,53.8%,49.3%,4.2%,36.4%,70.4%,5/8,145,4,4,74,43,31,3,1:35
+17-Jun-2013,Tanger CH,3,Clay,R32,362,241,0,,3,Gerald Melzer,Maximilian Neuchrist,6-4 6-3,0.78,1.8%,7.1%,42.9%,70.8%,37.5%,6/11,45.0%,37.7%,5.7%,32.1%,44.0%,3/6,109,1,4,56,24,32,3,1:19
+10-Jun-2013,Kosice CH,3,Clay,R16,381,225,0,Q,,Andre Ghem,Maximilian Neuchrist,7-5 6-1,0.66,1.4%,6.8%,58.1%,55.8%,38.7%,7/12,42.1%,33.9%,6.8%,17.6%,56.0%,1/9,133,1,5,74,43,31,4,1:23
+10-Jun-2013,Kosice CH,3,Clay,R32,381,1587,1,Q,WC,Maximilian Neuchrist,Djordje Djokovic,6-2 6-1,1.95,2.3%,2.3%,72.7%,68.8%,75.0%,3/3,63.5%,57.7%,1.9%,56.3%,60.0%,5/6,96,1,1,44,32,12,1,0:57
+13-May-2013,Turkey F19,3,Hard,F,435,749,1,3,,Maximilian Neuchrist,Jack Carpenter,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Turkey F19,3,Hard,SF,435,308,1,3,1,Maximilian Neuchrist,Jules Marie,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Turkey F19,3,Hard,QF,435,586,1,3,5,Maximilian Neuchrist,Davy Sum,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Turkey F19,3,Hard,R16,435,1147,1,3,,Maximilian Neuchrist,Baris Erguden,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Turkey F19,3,Hard,R32,435,998,1,3,,Maximilian Neuchrist,Alex Blumenberg,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Turkey F18,3,Hard,QF,438,611,0,4,5,Sean Berman,Maximilian Neuchrist,7-6(1) 2-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Turkey F18,3,Hard,R16,438,1144,1,4,,Maximilian Neuchrist,Baris Erguden,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Turkey F18,3,Hard,R32,438,1191,1,4,,Maximilian Neuchrist,Antoine Richard,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Guadalajara CH,3,Hard,R32,448,304,0,Q,,Gregoire Burquier,Maximilian Neuchrist,6-4 6-2,0.63,9.4%,9.4%,45.3%,65.5%,48.6%,4/7,43.5%,27.5%,11.8%,9.1%,61.1%,0/0,115,6,6,64,29,35,6,1:14
+11-Mar-2013,Israel F6,3,Hard,F,458,220,0,6,2,Ti Chen,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Israel F6,3,Hard,SF,458,179,1,6,1,Maximilian Neuchrist,Amir Weintraub,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Israel F6,3,Hard,QF,458,319,1,6,3,Maximilian Neuchrist,Stefan Seifert,7-6(5) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Israel F6,3,Hard,R16,458,819,1,6,Q,Maximilian Neuchrist,Colin Van Beem,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Israel F6,3,Hard,R32,458,1316,1,6,WC,Maximilian Neuchrist,Alon Elia,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Israel F5,3,Hard,R32,458,813,0,7,Q,Viktor Filipenko,Maximilian Neuchrist,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Turkey F6,3,Hard,QF,465,525,0,,,Reid Carleton,Maximilian Neuchrist,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Turkey F6,3,Hard,R16,465,531,1,,,Maximilian Neuchrist,Nikolaus Moser,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Turkey F6,3,Hard,R32,465,,1,,WC,Maximilian Neuchrist,Berk Iliescu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Cambodia F2,3,Hard,QF,534,382,0,6,3,Axel Michon,Maximilian Neuchrist,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Cambodia F2,3,Hard,R16,534,754,1,6,,Maximilian Neuchrist,Marcus Daniell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Cambodia F2,3,Hard,R32,534,837,1,6,,Maximilian Neuchrist,Filip Veger,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Cambodia F1,3,Hard,F,533,384,1,6,3,Maximilian Neuchrist,Axel Michon,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Cambodia F1,3,Hard,SF,533,1859,1,6,Q,Maximilian Neuchrist,Mico Santiago,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Cambodia F1,3,Hard,QF,533,372,1,6,2,Maximilian Neuchrist,Marin Bradaric,6-7(5) 7-5 RET,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Cambodia F1,3,Hard,R16,533,1143,1,6,Q,Maximilian Neuchrist,Dekel Bar,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Cambodia F1,3,Hard,R32,533,,1,6,WC,Maximilian Neuchrist,Pannhara Mam,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Israel F12,3,Hard,F,694,399,1,3,1,Maximilian Neuchrist,Axel Michon,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Israel F12,3,Hard,SF,694,803,1,3,6,Maximilian Neuchrist,Davy Sum,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Israel F12,3,Hard,QF,694,698,1,3,5,Maximilian Neuchrist,Wesley Koolhof,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Israel F12,3,Hard,R16,694,1830,1,3,WC,Maximilian Neuchrist,Igor Smilansky,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Israel F12,3,Hard,R32,694,1360,1,3,WC,Maximilian Neuchrist,Daniel Skripnik,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Israel F11,3,Hard,F,688,701,0,5,6,Wesley Koolhof,Maximilian Neuchrist,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Israel F11,3,Hard,SF,688,306,1,5,1,Maximilian Neuchrist,Pierre Hugues Herbert,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Israel F11,3,Hard,QF,688,454,1,5,4,Maximilian Neuchrist,Adrian Sikora,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Israel F11,3,Hard,R16,688,,1,5,WC,Maximilian Neuchrist,Igor Smilansky,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Israel F11,3,Hard,R32,688,,1,5,Q,Maximilian Neuchrist,Mor Bulis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Vienna,3,Hard,Q2,673,111,0,,4,Daniel Brands,Maximilian Neuchrist,6-4 6-4,0.68,15.5%,5.2%,58.6%,73.5%,58.3%,4/6,45.5%,22.2%,16.7%,17.6%,30.0%,0/0,112,9,3,58,34,24,9,1:15
+15-Oct-2012,Vienna,3,Hard,Q1,673,1340,1,,,Maximilian Neuchrist,Michael Eibl,6-1 6-4,3.44,12.2%,0.0%,73.2%,86.7%,90.9%,0/0,62.6%,42.0%,4.0%,28.0%,56.0%,3/6,91,5,0,41,30,11,2,0:56
+1-Oct-2012,Turkey F38,3,Hard,QF,667,218,0,,1,Brydan Klein,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R16,667,674,1,,,Maximilian Neuchrist,Andrei Ciumac,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R32,667,465,1,,5,Maximilian Neuchrist,Mate Pavic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,R32,673,674,0,,,Tristan Samuel Weissborn,Maximilian Neuchrist,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Austria F7,3,Clay,R32,650,325,0,,1,Gerald Melzer,Maximilian Neuchrist,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Austria F6,3,Clay,R32,648,1137,0,,Q,Robin Bulant,Maximilian Neuchrist,6-7(4) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,R16,647,469,0,,5,Mate Pavic,Maximilian Neuchrist,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,R32,647,1061,1,,Q,Maximilian Neuchrist,Gibril Diarra,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2012,Kitzbuhel,3,Clay,Q1,651,242,0,,7,Philipp Oswald,Maximilian Neuchrist,6-3 7-6(2),0.73,3.0%,7.5%,61.2%,78.0%,42.3%,5/6,44.9%,26.1%,13.0%,11.4%,41.2%,0/2,136,2,5,67,41,26,9,1:32
+16-Jul-2012,Austria F2,3,Clay,QF,640,892,0,6,WC,Dennis Novak,Maximilian Neuchrist,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Austria F2,3,Clay,R16,640,,1,6,WC,Maximilian Neuchrist,Markus Ahne,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Austria F2,3,Clay,R32,640,829,1,6,,Maximilian Neuchrist,Francesco Garzelli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Stuttgart,3,Clay,Q2,643,246,0,,7,Martin Fischer,Maximilian Neuchrist,6-2 6-4,0.57,8.1%,3.2%,62.9%,56.4%,65.2%,5/8,43.6%,22.9%,4.2%,17.6%,35.7%,0/1,110,5,2,62,39,23,2,1:16
+9-Jul-2012,Stuttgart,3,Clay,Q1,643,287,1,,WC,Maximilian Neuchrist,Bastian Knittel,7-6(5) 6-4,1.12,7.7%,5.1%,56.4%,70.5%,55.9%,6/7,52.7%,40.3%,5.6%,34.8%,50.0%,2/3,150,6,4,78,44,34,4,1:45
+25-Jun-2012,Serbia F3,3,Clay,F,731,565,0,,6,Danilo Petrovic,Maximilian Neuchrist,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Serbia F3,3,Clay,SF,731,453,1,,3,Maximilian Neuchrist,Aldin Setkic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Serbia F3,3,Clay,QF,731,696,1,,,Maximilian Neuchrist,Nicolas Reissig,6-1 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Serbia F3,3,Clay,R16,731,586,1,,8,Maximilian Neuchrist,Carlos Gomez Herrera,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Serbia F3,3,Clay,R32,731,699,1,,,Maximilian Neuchrist,Karim Mohamed Maamoun,6-7(2) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Turkey F19,3,Clay,R32,727,426,0,,5,Steven Moneke,Maximilian Neuchrist,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Ostrava CH,3,Clay,R32,743,165,0,Q,2,Teymuraz Gabashvili,Maximilian Neuchrist,6-4 7-6(5),0.73,2.7%,6.8%,57.5%,66.7%,51.6%,3/6,45.9%,29.0%,4.8%,29.4%,28.6%,2/3,135,2,5,73,42,31,3,1:35
+16-Apr-2012,Greece F3,3,Carpet,R32,743,719,0,,,Alexandros Jakupovic,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,R16,737,516,0,,6,Alexander Sadecky,Maximilian Neuchrist,6-1 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,R32,737,982,1,,Q,Maximilian Neuchrist,Tomislav Jotovski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Switzerland F3,3,Carpet,R32,815,543,0,Q,7,Marton Fucsovics,Maximilian Neuchrist,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Switzerland F2,3,Carpet,SF,815,558,0,Q,7,Moritz Baumann,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Switzerland F2,3,Carpet,QF,815,936,1,Q,Q,Maximilian Neuchrist,Robin Kern,1-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Switzerland F2,3,Carpet,R16,815,770,1,Q,,Maximilian Neuchrist,Florian Fallert,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Switzerland F2,3,Carpet,R32,815,1276,1,Q,Q,Maximilian Neuchrist,Yann Minster,6-1 6-7(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Switzerland F1,3,Carpet,R16,813,384,0,,2,Luca Vanni,Maximilian Neuchrist,3-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Switzerland F1,3,Carpet,R32,813,1132,1,,WC,Maximilian Neuchrist,Luca Margaroli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Croatia F2,3,Hard,R16,833,377,0,Q,,Marek Michalicka,Maximilian Neuchrist,7-6(6) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Croatia F2,3,Hard,R32,833,1778,1,Q,WC,Maximilian Neuchrist,Antun Pehar,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Zagreb,3,Hard,Q1,831,689,0,WC,,Janez Semrajc,Maximilian Neuchrist,7-6(5) 6-0,0.77,2.8%,1.4%,76.1%,57.4%,35.3%,4/8,44.2%,36.8%,7.9%,27.7%,51.7%,1/5,147,2,1,71,54,17,6,1:24
+21-Nov-2011,Turkey F32,3,Hard,R16,828,461,0,Q,8,Mohamed Safwat,Maximilian Neuchrist,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Turkey F32,3,Hard,R32,828,1182,1,Q,Q,Maximilian Neuchrist,Omar Hedayet,7-6(10) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Salzburg CH,3,Hard,R32,822,79,0,WC,2,Nicolas Mahut,Maximilian Neuchrist,6-1 6-3,0.39,5.7%,17.0%,58.5%,71.0%,18.2%,3/7,36.6%,20.0%,10.0%,14.8%,30.8%,0/0,93,3,9,53,31,22,4,0:54
+10-Oct-2011,Turkey F27,3,Hard,QF,928,260,0,,1,Erik Chvojka,Maximilian Neuchrist,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Turkey F27,3,Hard,R16,928,513,1,,6,Maximilian Neuchrist,David Rice,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Turkey F27,3,Hard,R32,928,,1,,Q,Maximilian Neuchrist,Maximilian Dinslaken,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Turkey F26,3,Hard,QF,930,533,0,Q,8,Mohamed Safwat,Maximilian Neuchrist,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Turkey F26,3,Hard,R16,930,1113,1,Q,LL,Maximilian Neuchrist,Joshua Jones,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Turkey F26,3,Hard,R32,930,816,1,Q,LL,Maximilian Neuchrist,Gleb Alekseenko,7-5 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Hungary F2,3,Clay,R32,973,502,0,,4,Marek Michalicka,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Serbia F11,3,Clay,QF,964,590,0,,5,Gleb Sakharov,Maximilian Neuchrist,1-6 7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Serbia F11,3,Clay,R16,964,1299,1,,SE,Maximilian Neuchrist,Duje Kekez,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Serbia F11,3,Clay,R32,964,1206,1,,,Maximilian Neuchrist,Stepan Khotulev,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Austria F8,3,Clay,R32,1058,646,0,,6,Tihomir Grozdanov,Maximilian Neuchrist,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Austria F7,3,Clay,QF,1060,567,0,WC,5,Filippo Leonardi,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Austria F7,3,Clay,R16,1060,1401,1,WC,LL,Maximilian Neuchrist,Michael Eibl,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Austria F7,3,Clay,R32,1060,1504,1,WC,Q,Maximilian Neuchrist,Lukas Weinhandl,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2011,Kitzbuhel,3,Clay,Q1,1119,110,0,,2,Joao Souza,Maximilian Neuchrist,3-6 6-3 6-4,0.77,2.5%,2.5%,60.0%,72.9%,50.0%,3/6,46.5%,28.0%,5.3%,23.1%,39.1%,2/5,155,2,2,80,48,32,4,1:46
+25-Jul-2011,Austria F4,3,Clay,R16,1183,467,0,WC,2,Norbert Gombos,Maximilian Neuchrist,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Austria F4,3,Clay,R32,1183,,1,WC,WC,Maximilian Neuchrist,Dennis Novak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Austria F3,3,Clay,R16,1305,471,0,WC,3,Roman Vogeli,Maximilian Neuchrist,6-7(4) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Austria F3,3,Clay,R32,1305,1319,1,WC,Q,Maximilian Neuchrist,Daniel Geib,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Austria F2,3,Clay,R16,1297,402,0,Q,6,Philipp Oswald,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Austria F2,3,Clay,R32,1297,,1,Q,WC,Maximilian Neuchrist,Michael Eibl,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Romania F1,3,Clay,R32,1273,458,0,Q,5,Razvan Sabau,Maximilian Neuchrist,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bulgaria F3,3,Clay,R32,1260,920,0,Q,,Edoardo Eremin,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,Turkey F15,3,Hard,R16,1414,559,0,Q,8,Michal Konecny,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,Turkey F15,3,Hard,R32,1414,854,1,Q,,Maximilian Neuchrist,Ergun Zorlu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R32,1402,688,0,Q,SE,Yannik Reuter,Maximilian Neuchrist,2-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,India F2,3,Clay,R16,1697,527,0,Q,8,Nicolas Reissig,Maximilian Neuchrist,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,India F2,3,Clay,R32,1697,1037,1,Q,WC,Maximilian Neuchrist,Divij Sharan,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,India F1,3,Hard,R32,1685,859,0,Q,,James Feaver,Maximilian Neuchrist,6-1 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,R32,1654,442,0,Q,8,Daniel Smethurst,Maximilian Neuchrist,6-3 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Mexico F10,3,Hard,R16,1633,391,0,Q,2,Ivan Endara,Maximilian Neuchrist,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Mexico F10,3,Hard,R32,1633,1118,1,Q,,Maximilian Neuchrist,Mauricio Astorga,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2010,Morocco F6,3,Clay,R32,1592,547,0,,,James Mcgee,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2010,Austria F2,3,Clay,R32,1677,974,0,WC,Q,Michal Konecny,Maximilian Neuchrist,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Austria F1,3,Clay,R32,1684,1135,0,WC,WC,Tristan Samuel Weissborn,Maximilian Neuchrist,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Dominican Republic F1,3,Hard,R16,,641,0,Q,,Amir Weintraub,Maximilian Neuchrist,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Dominican Republic F1,3,Hard,R32,,548,1,Q,7,Maximilian Neuchrist,Vladimir Obradovic,6-7(1) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Austria F8,3,Clay,R32,,1438,0,WC,LL,Herbert Wiltschnig,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Austria F7,3,Clay,R32,,599,0,WC,6,David Novak,Maximilian Neuchrist,7-6(5) 4-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Slovak Rep F1,3,Clay,R32,,564,0,WC,6,Jiri Skoloudik,Maximilian Neuchrist,6-1 6-3,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,68 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Knoxville CH,3,Hard,Q1,627,479,0,,1,Strong Kirchheimer,Enzo Wallart,6-2 1-0 RET,0.65,2.7%,2.7%,59.5%,40.9%,40.0%,2/6,39.7%,38.5%,3.8%,38.5%,38.5%,1/3,63,1,1,37,22,15,1,0:51
+10-Oct-2022,M25+H Rodez,3,Hard,R32,612,437,0,,5,Sascha Gueymard Wayenburg,Enzo Wallart,6-2 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2022,Mouilleron Le Captif CH,3,Hard,Q2,618,432,0,Alt,10,David Poljak,Enzo Wallart,4-6 6-3 6-0,0.81,0.0%,2.8%,56.3%,60.0%,51.6%,4/9,45.6%,35.5%,10.5%,28.0%,50.0%,2/2,147,0,2,71,40,31,8,1:48
+3-Oct-2022,Mouilleron Le Captif CH,3,Hard,Q1,618,348,1,Alt,2,Enzo Wallart,Viktor Durasovic,7-6(5) 6-7(1) 7-6(5),1.08,10.7%,4.1%,62.8%,76.3%,60.0%,5/7,51.2%,32.2%,15.7%,23.3%,45.8%,2/8,242,13,5,121,76,45,19,2:50
+5-Sep-2022,Cassis CH,3,Hard,Q2,617,509,0,Alt,,Robin Bertrand,Enzo Wallart,3-6 6-3 7-6(6),0.97,1.9%,3.8%,57.1%,66.7%,46.7%,8/12,49.3%,40.6%,5.7%,22.6%,58.5%,4/11,211,2,4,105,60,45,6,3:01
+5-Sep-2022,Cassis CH,3,Hard,Q1,617,366,1,Alt,6,Enzo Wallart,Mats Rosenkranz,6-2 6-2,1.95,10.2%,2.0%,63.3%,80.6%,66.7%,2/2,62.4%,47.7%,11.4%,31.3%,57.1%,4/4,93,5,1,49,31,18,5,
+29-Aug-2022,Manacor CH,3,Hard,Q1,617,536,0,Alt,12,Daniel Merida Aguilar ,Enzo Wallart,7-5 7-5,0.89,6.3%,3.1%,59.4%,63.2%,53.8%,0/4,47.1%,36.1%,2.8%,29.7%,42.9%,2/5,136,4,2,64,38,26,2,1:30
+1-Aug-2022,M15 Kfar Saba,3,Hard,R32,596,1286,0,2,,Lorenzo Lorusso,Enzo Wallart,6-5 RET,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Cancun,3,Hard,F,717,768,1,6,5,Enzo Wallart,Matias Soto,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Cancun,3,Hard,SF,717,894,1,6,,Enzo Wallart,Masamichi Imamura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Cancun,3,Hard,QF,717,632,1,6,3,Enzo Wallart,Tomas Farjat,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Cancun,3,Hard,R16,717,876,1,6,,Enzo Wallart,Mwendwa Mbithi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Cancun,3,Hard,R32,717,1926,1,6,Q,Enzo Wallart,Trey Hilderbrand,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M15 Cancun,3,Hard,R16,743,872,0,6,,Fernando Yamacita,Enzo Wallart,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M15 Cancun,3,Hard,R32,743,1160,1,6,,Enzo Wallart,Luis Britto,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Monastir,3,Hard,QF,808,341,0,5,1,Aziz Dougaz,Enzo Wallart,6-4 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Monastir,3,Hard,R16,808,,1,5,Q,Enzo Wallart,Majun Li,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Monastir,3,Hard,R32,808,1048,1,5,,Enzo Wallart,Maximus Jones,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Monastir,3,Hard,SF,808,522,0,7,3,Terence Atmane,Enzo Wallart,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Monastir,3,Hard,QF,808,478,1,7,2,Enzo Wallart,Pawel Cias,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Monastir,3,Hard,R16,808,,1,7,WC,Enzo Wallart,Bader Alabdullah,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Monastir,3,Hard,R32,808,1985,1,7,WC,Enzo Wallart,Essa Qabazard,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Monastir,3,Hard,R16,808,,0,7,Q,Dan Martin,Enzo Wallart,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Monastir,3,Hard,R32,808,2037,1,7,Q,Enzo Wallart,Carles Hernandez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,Blois CH,3,Clay,Q1,810,250,0,WC,3,Evgeny Karlovskiy,Enzo Wallart,6-3 6-1,0.58,5.1%,5.1%,53.8%,47.6%,33.3%,0/5,37.1%,34.0%,2.0%,21.9%,55.6%,1/7,89,2,2,39,21,18,1,1:07
+21-Mar-2022,M15 New Delhi,3,Hard,QF,869,581,0,,1,Sidharth Rawat,Enzo Wallart,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M15 New Delhi,3,Hard,R16,869,905,1,,7,Enzo Wallart,Dostanbek Tashbulatov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M15 New Delhi,3,Hard,R32,869,1663,1,,WC,Enzo Wallart,Karan Singh,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M15 Bengaluru,3,Hard,R32,925,888,0,,,Nitin Kumar Sinha,Enzo Wallart,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M15 Torello,3,Hard,QF,927,621,0,,3,Daniel Cox,Enzo Wallart,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M15 Torello,3,Hard,R16,927,961,1,,,Enzo Wallart,Bruno Pujol Navarro,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M15 Torello,3,Hard,R32,927,697,1,,7,Enzo Wallart,Benjamin Winter Lopez,4-6 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Manacor,3,Hard,QF,1012,390,0,,3,Benjamin Hassan,Enzo Wallart,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Manacor,3,Hard,R16,1012,551,1,,8,Enzo Wallart,Valentin Royer,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Manacor,3,Hard,R32,1012,674,1,,,Enzo Wallart,Imanol Lopez Morillo,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2022,M15 Manacor,3,Hard,R16,1010,902,0,,,Christian Sigsgaard,Enzo Wallart,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2022,M15 Manacor,3,Hard,R32,1010,,1,,WC,Enzo Wallart,Milo Gazivoda,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2021,M15 Santo Domingo,3,Hard,SF,1447,741,0,SE,8,Peter Bertran,Enzo Wallart,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2021,M15 Santo Domingo,3,Hard,QF,1447,,1,SE,,Enzo Wallart,Jack Anthrop,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2021,M15 Santo Domingo,3,Hard,R16,1447,670,1,SE,5,Enzo Wallart,Michel Vernier,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2021,M15 Santo Domingo,3,Hard,R32,1447,2104,1,SE,WC,Enzo Wallart,Brandon Perez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Santo Domingo,3,Hard,SF,1439,706,0,Q,6,Jorge Brian Panta Herreros,Enzo Wallart,7-6(4) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Santo Domingo,3,Hard,QF,1439,747,1,Q,7,Enzo Wallart,Peter Bertran,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Santo Domingo,3,Hard,R16,1439,643,1,Q,3,Enzo Wallart,Roy Smith,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Santo Domingo,3,Hard,R32,1439,1420,1,Q,,Enzo Wallart,Herbert Jody Maginley,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M15 Girona,3,Clay,R16,1522,511,0,Q,2,Yan Bondarevskiy,Enzo Wallart,6-2 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M15 Girona,3,Clay,R32,1522,812,1,Q,Q,Enzo Wallart,Guy Den Heijer,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Fayetteville AR,3,Hard,R32,1323,1600,0,,,Murkel Alejandro Dellien Velasco,Enzo Wallart,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,Lexington CH,3,Hard,R32,,534,0,WC,Alt,Sem Verbeek,Enzo Wallart,6-2 6-3,0.76,1.7%,1.7%,56.9%,66.7%,36.0%,7/11,44.4%,35.6%,6.8%,27.3%,46.2%,1/4,117,1,1,58,33,25,4,1:35
+29-Jul-2019,Lexington CH,3,Hard,R64,,529,1,WC,,Enzo Wallart,Oliver Crawford,6-4 6-3,1.85,25.9%,3.7%,63.0%,91.2%,55.0%,1/1,57.4%,41.2%,2.9%,27.8%,56.3%,3/9,122,14,2,54,34,20,2,1:30
+17-Jun-2019,Blois CH,3,Clay,R64,,441,0,WC,WC,Matteo Martineau,Enzo Wallart,4-6 6-2 7-6(5),0.96,5.0%,1.7%,69.7%,63.9%,41.7%,11/16,49.2%,41.0%,5.1%,27.6%,54.2%,4/11,236,6,2,119,83,36,6,3:02
+3-Dec-2018,USA F35,3,Hard,R32,1657,1970,0,,Q,Justin Roberts,Enzo Wallart,2-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Lexington CH,3,Hard,Q1,1591,1042,0,WC,,Jorge Montero,Enzo Wallart,6-4 6-7(4) 6-3,1.01,5.3%,3.2%,54.7%,65.4%,62.8%,5/8,48.4%,36.1%,5.7%,22.5%,54.9%,1/10,217,5,3,95,52,43,7,2:40
+25-Jun-2018,Israel F11,3,Hard,R16,,1254,0,Q,,Jordan Hasson,Enzo Wallart,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Israel F11,3,Hard,R32,,827,1,Q,,Enzo Wallart,Alon Elia,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Lexington CH,3,Hard,Q2,,546,0,WC,2,Jc Aragone,Enzo Wallart,6-2 6-4,0.71,1.7%,3.4%,65.5%,65.8%,40.0%,2/5,43.1%,30.8%,4.6%,21.1%,44.4%,0/4,123,1,2,58,38,20,3,1:24
+31-Jul-2017,Lexington CH,3,Hard,Q1,,1867,1,WC,7,Enzo Wallart,Jordan Parker,6-4 7-5,1.35,10.0%,5.0%,68.3%,70.7%,63.2%,2/4,55.3%,42.9%,3.2%,34.2%,56.0%,4/6,123,6,3,60,41,19,2,1:27
+25-Jul-2016,Lexington CH,3,Hard,Q3,,305,0,WC,3,Alex Kuznetsov,Enzo Wallart,6-3 6-4,0.73,3.1%,4.7%,62.5%,57.5%,58.3%,2/4,44.2%,30.8%,12.3%,11.9%,65.2%,0/2,129,2,3,64,40,24,8,1:42
+25-Jul-2016,Lexington CH,3,Hard,Q2,,1220,1,WC,,Enzo Wallart,Ruan Roelofse,6-4 2-6 6-4,0.99,4.5%,9.1%,60.2%,77.4%,48.6%,6/8,50.3%,33.7%,19.3%,19.6%,51.4%,2/3,171,4,8,88,53,35,16,2:13
+25-Jul-2016,Lexington CH,3,Hard,Q1,,1085,1,WC,,Enzo Wallart,Dean Obrien,7-6(6) 3-2 RET,1.06,16.4%,7.5%,59.7%,70.0%,37.0%,2/5,51.0%,46.1%,6.6%,33.3%,64.5%,3/11,143,11,5,67,40,27,5,1:37
+30-Mar-2015,Tunisia F12,3,Hard,R32,2089,629,0,Q,6,Viktor Durasovic,Enzo Wallart,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Tunisia F2,3,Hard,R32,2040,620,0,LL,8,Elie Rousset,Enzo Wallart,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Zimbabwe F2,3,Hard,R32,1829,,0,,Q,Wesley Whitehouse,Enzo Wallart,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Zimbabwe F1,3,Hard,R32,1844,,0,,,Arkadiusz Kocyla,Enzo Wallart,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,France F12,3,Clay,R16,,446,0,Q,8,Enzo Couacaud,Enzo Wallart,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,France F12,3,Clay,R32,,1842,1,Q,Q,Enzo Wallart,Thibault Cancel,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,France F11,3,Clay,R32,,548,0,Q,8,Johan Sebastien Tatlot,Enzo Wallart,6-3 6-0,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,576 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Montevideo CH,3,Clay,Q1,667,345,0,Alt,6,Pedro Boscardin Dias,Tomas Lipovsek Puches,6-3 6-4,0.85,0.0%,11.6%,66.7%,56.5%,34.8%,11/16,46.3%,43.1%,3.1%,40.5%,46.4%,3/7,134,0,8,69,46,23,2,1:34
+31-Oct-2022,Guayaquil CH,3,Clay,Q2,676,109,0,10,1,Marco Cecchinato,Tomas Lipovsek Puches,6-0 6-1,0.41,0.0%,0.0%,63.9%,30.4%,23.1%,4/10,28.8%,29.7%,0.0%,28.6%,33.3%,1/1,73,0,0,36,23,13,0,0:48
+31-Oct-2022,Guayaquil CH,3,Clay,Q1,676,1140,1,10,Alt,Tomas Lipovsek Puches,N Sriram Balaji,7-5 5-7 6-4,1.08,1.8%,7.2%,75.7%,69.0%,22.2%,6/11,51.5%,45.9%,6.6%,29.7%,63.8%,6/15,233,2,8,111,84,27,8,2:26
+24-Oct-2022,Lima CH,3,Clay,Q1,674,376,0,Alt,10,Max Houkes,Tomas Lipovsek Puches,6-1 6-1,0.51,2.5%,12.5%,67.5%,37.0%,23.1%,2/8,33.3%,34.1%,2.3%,21.4%,56.3%,1/3,84,1,5,40,27,13,1,0:58
+17-Oct-2022,Coquimbo CH,3,Clay,Q2,697,363,0,9,1,Remy Bertola,Tomas Lipovsek Puches,6-0 6-0,0.44,2.0%,8.2%,67.3%,39.4%,25.0%,6/12,32.2%,28.9%,7.9%,23.8%,35.3%,0/2,87,1,4,49,33,16,3,0:52
+10-Oct-2022,M25 Rio Cuarto,3,Clay,R16,700,1338,0,,Q,Guido Ivan Justo,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,M25 Rio Cuarto,3,Clay,R32,700,594,1,,6,Tomas Lipovsek Puches,Fermin Tenti,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2022,M15 Villa Carlos Paz,3,Clay,R16,690,,0,6,,Lautaro Midon,Tomas Lipovsek Puches,6-4 0-6 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2022,M15 Villa Carlos Paz,3,Clay,R32,690,942,1,6,,Tomas Lipovsek Puches,Thiago Cigarran,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,M25 Lesa,3,Clay,R32,633,517,0,,6,Ignacio Monzon,Tomas Lipovsek Puches,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,Tampere CH,3,Clay,Q2,600,338,0,9,4,Arthur Fils,Tomas Lipovsek Puches,6-2 6-1,0.56,0.0%,8.2%,63.3%,45.2%,33.3%,3/8,37.0%,33.3%,5.9%,28.0%,38.5%,1/3,100,0,4,49,31,18,3,1:07
+18-Jul-2022,Tampere CH,3,Clay,Q1,600,,1,9,Alt,Tomas Lipovsek Puches,Adam Taylor,6-0 6-3,2.19,2.5%,2.5%,65.0%,80.8%,64.3%,1/1,63.4%,54.7%,0.0%,52.8%,58.8%,5/9,93,1,1,40,26,14,0,1:03
+4-Jul-2022,M15 Sofia,3,Clay,QF,621,981,0,4,,Vlad Andrei Dancu,Tomas Lipovsek Puches,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Sofia,3,Clay,R16,621,1698,1,4,Q,Tomas Lipovsek Puches,Tuncay Duran,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M15 Sofia,3,Clay,R32,621,832,1,4,,Tomas Lipovsek Puches,Gabriel Donev,6-7(1) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Bergamo,3,Clay,R16,621,468,0,,3,Giovanni Oradini,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,M15 Bergamo,3,Clay,R32,621,,1,,WC,Tomas Lipovsek Puches,Filiberto Fumagalli,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chieti,3,Clay,QF,662,1309,1,,WC,Tomas Lipovsek Puches,Pietro Pampanin,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chieti,3,Clay,R16,662,2112,1,,Q,Tomas Lipovsek Puches,Luca Castagnola,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chieti,3,Clay,R32,662,539,1,,3,Tomas Lipovsek Puches,Stefano Napolitano,2-3 RET,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,R16,658,685,0,6,,Aleksandre Metreveli,Tomas Lipovsek Puches,6-4 1-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,R32,658,933,1,6,,Tomas Lipovsek Puches,Fabio Coelho,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2022,Coquimbo CH,3,Clay,Q1,646,1212,0,6,,Victor Nunez,Tomas Lipovsek Puches,2-6 6-4 6-1,0.94,3.9%,3.9%,59.2%,60.0%,45.2%,5/10,48.2%,43.2%,2.3%,38.9%,50.0%,4/10,164,3,3,76,45,31,2,2:13
+2-May-2022,Salvador De Bahia CH,3,Clay,Q2,660,455,0,9,5,Roman Andres Burruchaga,Tomas Lipovsek Puches,6-4 6-1,0.74,0.0%,3.8%,75.0%,53.8%,38.5%,4/8,42.7%,36.9%,1.5%,32.5%,44.0%,1/7,117,0,2,52,39,13,1,1:32
+25-Apr-2022,Buenos Aires CH,3,Clay,Q2,682,494,0,8,1,Murkel Alejandro Dellien Velasco,Tomas Lipovsek Puches,4-6 6-3 6-4,0.90,0.0%,4.1%,74.5%,54.8%,52.0%,10/16,47.9%,41.1%,0.0%,47.1%,33.3%,5/11,188,0,4,98,73,25,0,2:40
+25-Apr-2022,Buenos Aires CH,3,Clay,Q1,682,1390,1,8,,Tomas Lipovsek Puches,Preston Brown,7-6(4) 6-4,1.10,0.0%,2.6%,78.9%,56.7%,50.0%,6/11,52.2%,49.4%,1.2%,43.9%,55.0%,6/14,157,0,2,76,60,16,1,2:03
+4-Apr-2022,Mexico City CH,3,Clay,Q1,668,413,0,,10,Nicolas Barrientos,Tomas Lipovsek Puches,6-4 6-3,0.74,8.7%,15.2%,63.0%,62.1%,11.8%,0/6,42.7%,42.1%,0.0%,38.7%,46.2%,4/6,103,4,7,46,29,17,0,1:05
+21-Mar-2022,M25 Medellin,3,Clay,R32,666,391,0,,4,Oliver Crawford,Tomas Lipovsek Puches,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R16,653,985,0,,Q,Juan Manuel Benitez Chavarriaga,Tomas Lipovsek Puches,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R32,653,514,1,,8,Tomas Lipovsek Puches,Pedro Boscardin Dias,2-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,Santiago CH,3,Clay,Q1,653,456,0,,9,Corentin Denolly,Tomas Lipovsek Puches,6-4 6-3,0.69,0.0%,1.7%,54.2%,50.0%,55.6%,4/8,43.2%,32.7%,5.8%,32.4%,33.3%,2/3,111,0,1,59,32,27,3,1:18
+10-Jan-2022,Blumenau CH,3,Clay,R32,656,445,0,Q,,Jose Fco Vidal Azorin,Tomas Lipovsek Puches,6-3 6-3,0.65,4.0%,6.0%,64.0%,53.1%,33.3%,4/9,40.4%,35.2%,0.0%,20.5%,73.3%,2/3,104,2,3,50,32,18,0,1:16
+10-Jan-2022,Blumenau CH,3,Clay,Q2,656,606,1,8,4,Tomas Lipovsek Puches,Wilson Leite,6-4 6-3,1.15,4.2%,7.0%,64.8%,63.0%,52.0%,2/4,54.0%,47.2%,0.0%,51.5%,40.0%,4/5,124,3,5,71,46,25,0,1:37
+10-Jan-2022,Blumenau CH,3,Clay,Q1,656,1530,1,8,,Tomas Lipovsek Puches,Boris Arias,6-1 6-3,1.41,1.6%,3.2%,80.6%,66.0%,50.0%,6/7,58.5%,52.3%,0.0%,26.3%,72.0%,5/7,106,1,2,62,50,12,0,4:20
+2-Jan-2022,Tigre CH,3,Clay,R16,708,905,0,Q,Q,Murkel Alejandro Dellien Velasco,Tomas Lipovsek Puches,6-1 6-1,0.47,0.0%,15.4%,64.1%,48.0%,21.4%,3/9,33.8%,28.9%,0.0%,16.7%,50.0%,1/2,77,0,6,39,25,14,0,0:53
+2-Jan-2022,Tigre CH,3,Clay,R32,708,817,1,Q,WC,Tomas Lipovsek Puches,Valerio Aboian,6-2 7-6(3),1.29,3.9%,3.9%,56.6%,58.1%,51.5%,6/11,56.4%,57.8%,3.1%,54.8%,60.6%,7/14,140,3,3,76,43,33,2,1:42
+6-Dec-2021,Florianopolis CH,3,Clay,Q1,700,620,0,Alt,8,Wilson Leite,Tomas Lipovsek Puches,6-2 4-6 7-6(5),0.92,2.6%,5.1%,70.1%,58.5%,25.7%,10/18,47.9%,47.0%,0.0%,45.0%,50.0%,7/14,217,3,6,117,82,35,0,2:56
+29-Nov-2021,Sao Paulo CH,3,Clay,Q1,678,460,0,Alt,3,Gonzalo Villanueva,Tomas Lipovsek Puches,3-6 6-3 6-1,0.84,6.2%,9.9%,46.9%,63.2%,44.2%,4/9,46.5%,39.5%,3.9%,30.8%,48.6%,3/4,157,5,8,81,38,43,3,1:55
+22-Nov-2021,Brasilia CH,3,Clay,R32,694,319,0,Q,,Santiago Fa Rodriguez Taverna,Tomas Lipovsek Puches,6-1 6-0,0.45,0.0%,11.4%,77.1%,25.9%,25.0%,1/7,29.7%,33.3%,7.7%,19.0%,50.0%,1/2,74,0,4,35,27,8,3,0:46
+22-Nov-2021,Brasilia CH,3,Clay,Q2,694,721,1,7,Alt,Tomas Lipovsek Puches,Luca Castelnuovo,5-7 7-6(5) 7-5,1.09,0.0%,5.0%,68.1%,65.4%,55.3%,3/7,50.8%,41.4%,5.5%,30.1%,56.5%,4/15,264,0,6,119,81,38,8,2:42
+22-Nov-2021,Brasilia CH,3,Clay,Q1,694,,1,7,Alt,Tomas Lipovsek Puches,Luis David Martinez,2-6 6-1 6-4,1.15,2.8%,4.2%,77.8%,64.3%,50.0%,0/4,52.7%,44.7%,1.3%,43.2%,46.9%,5/12,148,2,3,72,56,16,1,1:53
+8-Nov-2021,Montevideo CH,3,Clay,Q2,706,450,0,Alt,5,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-2,0.71,0.0%,8.1%,69.4%,58.1%,26.3%,5/10,42.9%,36.8%,3.5%,25.0%,57.1%,1/9,119,0,5,62,43,19,2,1:25
+8-Nov-2021,Montevideo CH,3,Clay,Q1,706,371,1,Alt,2,Tomas Lipovsek Puches,Nicolas Alvarez,6-2 6-2,1.65,2.2%,6.7%,53.3%,70.8%,61.9%,3/4,60.4%,54.9%,0.0%,43.8%,73.7%,5/5,96,1,3,45,24,21,0,1:07
+11-Oct-2021,M25 Loule,3,Hard,R32,681,324,0,,1,Roberto Ortega Olmedo,Tomas Lipovsek Puches,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R16,681,676,0,,,Maximilian Neuchrist,Tomas Lipovsek Puches,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R32,681,792,1,,WC,Tomas Lipovsek Puches,Frederico Gil,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2021,M25 Madrid,3,Clay,R32,667,460,0,,,Filip Misolic,Tomas Lipovsek Puches,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M15 Bad Waltersdorf,3,Clay,QF,629,487,0,7,2,David Pichler,Tomas Lipovsek Puches,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M15 Bad Waltersdorf,3,Clay,R16,629,833,1,7,SE,Tomas Lipovsek Puches,Lukas Krainer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M15 Bad Waltersdorf,3,Clay,R32,629,,1,7,WC,Tomas Lipovsek Puches,Niklas Rohrer,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M15 Bad Waltersdorf,3,Clay,R16,635,861,0,6,,Lukas Krainer,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M15 Bad Waltersdorf,3,Clay,R32,635,773,1,6,,Tomas Lipovsek Puches,Sebastian Prechtel,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M15 Pescara,3,Clay,QF,651,562,0,5,2,Riccardo Balzerani,Tomas Lipovsek Puches,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M15 Pescara,3,Clay,R16,651,732,1,5,,Tomas Lipovsek Puches,Giorgio Ricca,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M15 Pescara,3,Clay,R32,651,721,1,5,,Tomas Lipovsek Puches,Francesco Vilardo,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Perugia,3,Clay,QF,618,1313,0,5,SE,Marcello Serafini,Tomas Lipovsek Puches,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Perugia,3,Clay,R16,618,710,1,5,WC,Tomas Lipovsek Puches,Francesco Passaro,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Perugia,3,Clay,R32,618,715,1,5,,Tomas Lipovsek Puches,Mariano Navone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2021,M15 L'Aquila,3,Clay,R32,619,1301,0,2,LL,Marcello Serafini,Tomas Lipovsek Puches,6-3 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M15 Bucharest,3,Clay,R16,618,352,0,,1,Uladzimir Ignatik,Tomas Lipovsek Puches,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Troisdorf,3,Clay,R32,618,631,0,,,Kai Wehnelt,Tomas Lipovsek Puches,6-1 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,Rome 2 CH,3,Clay,Q1,618,247,0,WC,3,Tristan Lamasine,Tomas Lipovsek Puches,6-2 6-3,0.65,2.1%,8.3%,58.3%,50.0%,35.0%,0/5,40.0%,36.8%,0.0%,38.9%,33.3%,2/3,105,1,4,48,28,20,0,1:14
+29-Mar-2021,M15 Villa Maria,3,Clay,R16,599,378,0,,2,Hernan Casanova,Tomas Lipovsek Puches,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Villa Maria,3,Clay,R32,599,960,1,,WC,Tomas Lipovsek Puches,Roman Andres Burruchaga,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Monastir,3,Hard,R32,595,461,0,,4,Renta Tokuda,Tomas Lipovsek Puches,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,R32,604,668,0,,,Naoki Nakagawa,Tomas Lipovsek Puches,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,QF,618,468,0,,,Alen Avidzba,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R16,618,429,1,,,Tomas Lipovsek Puches,Sebastian Fanselow,6-3 3-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R32,618,381,1,,5,Tomas Lipovsek Puches,Gastao Elias,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,QF,616,379,0,,7,Gastao Elias,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R16,616,362,1,,1,Tomas Lipovsek Puches,Maxime Hamou,6-0 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R32,616,,1,,WC,Tomas Lipovsek Puches,Tiago Torres,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Monastir,3,Hard,R32,618,894,0,,Q,Titouan Droguet,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Monastir,3,Hard,SF,618,914,0,8,Q,Kenneth Raisma,Tomas Lipovsek Puches,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Monastir,3,Hard,QF,618,802,1,8,,Tomas Lipovsek Puches,Luca Potenza,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Monastir,3,Hard,R16,618,1985,1,8,Q,Tomas Lipovsek Puches,Adrian Oetzbach,7-6(3) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Monastir,3,Hard,R32,618,1632,1,8,Q,Tomas Lipovsek Puches,Cesar Bourgois,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Monastir,3,Hard,R16,649,735,0,,,Guido Ivan Justo,Tomas Lipovsek Puches,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Monastir,3,Hard,R32,649,563,1,,4,Tomas Lipovsek Puches,Fermin Tenti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Monastir,3,Hard,SF,648,664,0,WC,,Thiago Agustin Tirante,Tomas Lipovsek Puches,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Monastir,3,Hard,QF,648,371,1,WC,1,Tomas Lipovsek Puches,Aziz Dougaz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Monastir,3,Hard,R16,648,731,1,WC,,Tomas Lipovsek Puches,Vladimir Ivanov,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Monastir,3,Hard,R32,648,870,1,WC,,Tomas Lipovsek Puches,Ignacio Carou,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,R16,648,769,0,,,Carlos Lopez Montagud,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,R32,648,562,1,,8,Tomas Lipovsek Puches,Oleksii Krutykh,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Cancun,3,Hard,R32,614,820,0,,,Alexander Cozbinov,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Cancun,3,Hard,R16,614,758,0,,,Michel Vernier,Tomas Lipovsek Puches,7-6(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Cancun,3,Hard,R32,614,564,1,,6,Tomas Lipovsek Puches,Gilbert Soares Klier Junior,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,R32,577,993,0,8,Q,Ajeet Rai,Tomas Lipovsek Puches,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,QF,577,1047,0,,,Alejo Lorenzo Lingua Lavallen,Tomas Lipovsek Puches,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,R16,577,993,1,,WC,Tomas Lipovsek Puches,Ajeet Rai,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,R32,577,677,1,,,Tomas Lipovsek Puches,David Perez Sanz,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Cancun,3,Hard,R16,590,,0,5,,Siddhant Banthia,Tomas Lipovsek Puches,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Cancun,3,Hard,R32,590,1554,1,5,,Tomas Lipovsek Puches,Ricardo David Mayagoitia,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Cancun,3,Hard,R32,592,1036,0,,JR   ,Matheus Pucinelli De Almeida,Tomas Lipovsek Puches,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Cancun,3,Hard,R32,586,869,0,,WC,Tigre Hank,Tomas Lipovsek Puches,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Tabarka,3,Clay,R32,617,916,0,3,,Gabriele Maria Noce,Tomas Lipovsek Puches,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Tabarka,3,Clay,SF,621,460,0,,2,Filip Cristian Jianu,Tomas Lipovsek Puches,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Tabarka,3,Clay,QF,621,611,1,,4,Tomas Lipovsek Puches,Erik Crepaldi,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Tabarka,3,Clay,R16,621,913,1,,,Tomas Lipovsek Puches,Gabriele Maria Noce,6-3 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Tabarka,3,Clay,R32,621,1246,1,,LL,Tomas Lipovsek Puches,Octavio Volpi,7-5 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M15 Cairo,3,Clay,R32,622,1265,0,3,,Dhruv Sunish,Tomas Lipovsek Puches,7-6(4) 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,QF,680,490,0,,3,Benjamin Lock,Tomas Lipovsek Puches,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,R16,680,915,1,,,Tomas Lipovsek Puches,Pierre Delage,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,R32,680,,1,,Q,Tomas Lipovsek Puches,Marco Furlanetto,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Tabarka,3,Clay,SF,680,457,0,,2,Tomas Martin Etcheverry,Tomas Lipovsek Puches,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Tabarka,3,Clay,QF,680,585,1,,4,Tomas Lipovsek Puches,Andrey Chepelev,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Tabarka,3,Clay,R16,680,,1,,,Tomas Lipovsek Puches,Majed Kilani,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Tabarka,3,Clay,R32,680,1217,1,,,Tomas Lipovsek Puches,Alessandro Coppini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Tabarka,3,Clay,SF,681,457,0,,,Tomas Martin Etcheverry,Tomas Lipovsek Puches,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Tabarka,3,Clay,QF,681,1017,1,,,Tomas Lipovsek Puches,Federico Iannaccone,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Tabarka,3,Clay,R16,681,1593,1,,,Tomas Lipovsek Puches,Esteban Bruna,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Tabarka,3,Clay,R32,681,,1,,Q,Tomas Lipovsek Puches,Lorenzo Vatteroni,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,Portoroz CH,3,Hard,R16,738,487,0,Q,Alt,Artem Dubrivnyy,Tomas Lipovsek Puches,7-6(2) 6-3,0.88,4.8%,8.4%,56.6%,68.1%,33.3%,7/12,47.7%,41.2%,1.5%,38.9%,43.8%,3/5,151,4,7,83,47,36,1,1:38
+12-Aug-2019,Portoroz CH,3,Hard,R32,738,751,1,Q,Alt,Tomas Lipovsek Puches,Andrey Golubev,6-4 6-4,1.26,2.8%,9.9%,60.6%,62.8%,46.4%,3/7,55.8%,55.2%,0.0%,50.0%,66.7%,6/8,129,2,7,71,43,28,0,1:21
+12-Aug-2019,Portoroz CH,3,Hard,R64,738,,1,Q,WC,Tomas Lipovsek Puches,Zvonimir Oreskovic,6-1 6-0,2.53,20.9%,2.3%,60.5%,84.6%,58.8%,5/5,70.1%,64.7%,2.9%,52.6%,80.0%,5/10,77,9,1,43,26,17,1,0:47
+8-Jul-2019,M15 Vilnius,3,Clay,R16,546,,0,2,WC,Robertas Vrzesinski,Tomas Lipovsek Puches,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Vilnius,3,Clay,R32,546,,1,2,,Tomas Lipovsek Puches,Kristian Lozan,6-4 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Balatonalmadi,3,Clay,R32,547,,0,4,,Darko Jandric,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M15 Bucharest,3,Clay,R16,538,,0,,,Matheus Pucinelli De Almeida,Tomas Lipovsek Puches,6-1 0-6 6-0,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M15 Bucharest,3,Clay,R32,538,,1,,Q,Tomas Lipovsek Puches,Victor Crivoi,5-7 5-5 RET,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Troisdorf,3,Clay,R32,538,,0,4,,Constantin Schmitz,Tomas Lipovsek Puches,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,QF,539,386,0,6,,Ivan Gakhov,Tomas Lipovsek Puches,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,R16,539,,1,6,,Tomas Lipovsek Puches,Jose Fco Vidal Azorin,7-6(3) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,R32,539,,1,6,,Tomas Lipovsek Puches,Nicolas Alvarez Varona,3-6 7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,QF,541,481,0,6,,Pedro Sakamoto,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,R16,541,645,1,6,,Tomas Lipovsek Puches,Genaro Alberto Olivieri,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,R32,541,,1,6,,Tomas Lipovsek Puches,Leonardo Aboian,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R16,543,,0,5,Q,Juan Manuel Cerundolo,Tomas Lipovsek Puches,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R32,543,,1,5,,Tomas Lipovsek Puches,Alejo Lorenzo Lingua Lavallen,6-3 6-7(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R16,543,,0,4,,Francisco Cerundolo,Tomas Lipovsek Puches,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R32,543,,1,4,,Tomas Lipovsek Puches,Ignacio Monzon,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Antalya,3,Clay,R32,544,501,0,,,Pietro Rondoni,Tomas Lipovsek Puches,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Antalya,3,Clay,R32,546,637,0,,,Bruno Santanna,Tomas Lipovsek Puches,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,SF,547,,0,,,Edris Fetisleam,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,QF,547,640,1,,,Tomas Lipovsek Puches,Bruno Santanna,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,R16,547,,1,,,Tomas Lipovsek Puches,Wilson Leite,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,R32,547,482,1,,4,Tomas Lipovsek Puches,Felipe Mantilla,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,Punta Del Este CH,3,Clay,R16,,114,0,WC,2,Juan Ignacio Londero,Tomas Lipovsek Puches,6-3 6-1,0.67,3.9%,5.9%,60.8%,45.2%,45.0%,5/10,41.0%,37.0%,0.0%,27.8%,55.6%,1/5,105,2,3,51,31,20,0,1:12
+21-Jan-2019,Punta Del Este CH,3,Clay,R32,,307,1,WC,16,Tomas Lipovsek Puches,Martin Cuevas,3-6 7-6(4) 6-4,0.99,3.3%,1.1%,56.5%,73.1%,55.0%,5/9,49.5%,34.4%,12.5%,18.9%,53.5%,4/6,188,3,1,92,52,40,12,2:01
+21-Jan-2019,Punta Del Este CH,3,Clay,R64,,676,1,WC,Alt,Tomas Lipovsek Puches,Jordi Arconada,6-2 4-6 7-5,1.06,3.2%,4.3%,54.3%,64.7%,46.5%,3/8,51.4%,46.2%,0.0%,43.6%,50.0%,7/13,185,3,4,94,51,43,0,2:39
+12-Nov-2018,Buenos Aires CH,3,Clay,Q2,699,387,0,,8,Orlando Luz,Tomas Lipovsek Puches,6-2 6-1,0.57,2.5%,5.0%,47.5%,52.6%,19.0%,2/8,36.3%,37.3%,9.8%,33.3%,40.7%,1/6,91,1,2,40,19,21,5,0:54
+12-Nov-2018,Buenos Aires CH,3,Clay,Q1,699,616,1,,,Tomas Lipovsek Puches,Nicolas Alberto Arreche,6-2 7-6(5),1.22,3.0%,1.5%,43.3%,62.1%,57.9%,5/8,54.5%,49.3%,0.0%,34.9%,75.0%,5/8,134,2,1,67,29,38,0,1:34
+5-Nov-2018,Montevideo CH,3,Clay,Q2,697,319,0,,6,Ulises Blanch,Tomas Lipovsek Puches,6-3 6-2,0.76,1.4%,4.2%,54.9%,53.8%,43.8%,8/13,44.3%,38.3%,6.7%,23.5%,57.7%,1/9,131,1,3,71,39,32,4,1:19
+5-Nov-2018,Montevideo CH,3,Clay,Q1,697,597,1,,,Tomas Lipovsek Puches,Gonzalo Lama,6-3 7-6(2),1.45,8.5%,5.1%,52.5%,77.4%,67.9%,1/2,55.2%,39.4%,1.5%,39.5%,39.3%,3/4,125,5,3,59,31,28,1,1:22
+29-Oct-2018,Guayaquil CH,3,Clay,Q1,698,338,0,,8,Federico Coria,Tomas Lipovsek Puches,6-4 6-3,0.68,0.0%,1.7%,60.3%,82.9%,17.4%,4/8,44.3%,29.2%,2.1%,31.7%,14.3%,1/4,106,0,1,58,35,23,1,79:16
+8-Oct-2018,Santo Domingo CH,3,Clay,Q1,689,404,0,,,Juan Pablo Ficovich,Tomas Lipovsek Puches,7-6(6) 6-2,0.83,1.7%,3.3%,71.7%,48.8%,29.4%,2/8,45.3%,47.1%,2.9%,51.1%,39.1%,4/8,128,1,2,60,43,17,2,
+1-Oct-2018,Campinas CH,3,Clay,Q2,653,387,0,,4,Oscar Jose Gutierrez,Tomas Lipovsek Puches,6-7(1) 6-3 6-2,0.81,5.7%,4.7%,53.8%,64.9%,36.7%,9/16,45.8%,38.9%,2.1%,31.5%,48.8%,3/10,201,6,5,106,57,49,2,2:17
+1-Oct-2018,Campinas CH,3,Clay,Q1,653,1294,1,,,Tomas Lipovsek Puches,Gabriel Ciro Da Silva,6-4 6-4,1.20,10.0%,3.3%,61.7%,67.6%,52.2%,2/4,52.9%,46.1%,1.3%,48.1%,41.7%,4/11,136,6,2,60,37,23,1,1:29
+10-Sep-2018,Banja Luka CH,3,Clay,Q2,607,347,0,,1,Juan Pablo Varillas,Tomas Lipovsek Puches,6-0 7-6(1),0.70,5.9%,2.9%,48.5%,51.5%,37.1%,7/13,41.7%,39.1%,1.6%,37.5%,40.6%,3/4,132,4,2,68,33,35,1,1:32
+10-Sep-2018,Banja Luka CH,3,Clay,Q1,607,620,1,,,Tomas Lipovsek Puches,Artem Dubrivnyy,3-6 7-5 6-0,1.33,5.6%,0.0%,73.6%,66.0%,68.4%,4/7,54.4%,44.3%,1.1%,40.4%,50.0%,6/11,160,4,0,72,53,19,1,1:49
+3-Sep-2018,Genova CH,3,Clay,Q1,584,353,0,,8,Federico Coria,Tomas Lipovsek Puches,4-6 6-2 6-1,0.78,1.4%,6.8%,47.3%,54.3%,33.3%,3/11,43.7%,44.1%,0.0%,35.4%,65.0%,4/6,142,1,5,74,35,39,0,1:36
+27-Aug-2018,Switzerland F4,3,Clay,QF,584,429,0,7,,Elmar Ejupovic,Tomas Lipovsek Puches,6-1 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Switzerland F4,3,Clay,R16,584,1611,1,7,WC,Tomas Lipovsek Puches,Sandro Ehrat,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Switzerland F4,3,Clay,R32,584,,1,7,,Tomas Lipovsek Puches,Mischa Lanz,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,R16,581,1609,0,,WC,Sandro Ehrat,Tomas Lipovsek Puches,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,R32,581,769,1,,,Tomas Lipovsek Puches,Gibril Diarra,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Portoroz CH,3,Hard,Q2,579,704,0,,,Enzo Couacaud,Tomas Lipovsek Puches,6-1 6-4,0.55,2.6%,7.7%,59.0%,60.9%,18.8%,1/6,36.8%,31.3%,4.2%,11.5%,54.5%,2/2,87,1,3,39,23,16,2,0:53
+6-Aug-2018,Portoroz CH,3,Hard,Q1,579,,1,,,Tomas Lipovsek Puches,David Lucas Ambrozic,6-0 6-0,2.62,0.0%,2.9%,67.6%,78.3%,63.6%,0/0,71.4%,69.4%,0.0%,65.0%,75.0%,6/9,70,0,1,34,23,11,0,0:51
+30-Jul-2018,Morocco F3,3,Clay,R32,588,1124,0,,,Franco Capalbo,Tomas Lipovsek Puches,6-1 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Morocco F2,3,Clay,R16,620,997,0,,,Neven Krivokuca,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Morocco F2,3,Clay,R32,620,943,1,,,Tomas Lipovsek Puches,Felipe Martinez Sarrasague,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Morocco F1,3,Clay,SF,622,599,0,,,Juan Pablo Paz,Tomas Lipovsek Puches,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Morocco F1,3,Clay,QF,622,870,1,,,Tomas Lipovsek Puches,Nikolas Sanchez Izquierdo,7-5 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Morocco F1,3,Clay,R16,622,1219,1,,,Tomas Lipovsek Puches,Amine Ahouda,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Morocco F1,3,Clay,R32,622,1425,1,,Q,Tomas Lipovsek Puches,Fermin Tenti,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,QF,592,775,0,,,Antoine Cornut Chauvinc,Tomas Lipovsek Puches,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R16,592,1390,1,,,Tomas Lipovsek Puches,Lucas Bouquet,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R32,592,559,1,,,Tomas Lipovsek Puches,Alexis Musialek,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Turkey F21,3,Clay,R16,506,1063,0,,,Dimitriy Voronin,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Turkey F21,3,Clay,R32,506,1126,1,,,Tomas Lipovsek Puches,Grigoriy Lomakin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Turkey F20,3,Clay,R16,506,952,0,3,,Mats Rosenkranz,Tomas Lipovsek Puches,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Turkey F20,3,Clay,R32,506,,1,3,,Tomas Lipovsek Puches,Can Kaya,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Turkey F19,3,Clay,QF,507,1398,0,,,Alexander Boborykin,Tomas Lipovsek Puches,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Turkey F19,3,Clay,R16,507,1138,1,,,Tomas Lipovsek Puches,Koray Kirci,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Turkey F19,3,Clay,R32,507,1376,1,,Q,Tomas Lipovsek Puches,Joel Cannell,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Turkey F15,3,Clay,R16,511,721,0,8,,Pavel Nejedly,Tomas Lipovsek Puches,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Turkey F15,3,Clay,R32,511,,1,8,,Tomas Lipovsek Puches,Sam Taylor,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Turkey F14,3,Clay,R32,514,667,0,,Q,Orlando Luz,Tomas Lipovsek Puches,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,QF,508,296,0,7,,Hernan Casanova,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,R16,508,554,1,7,,Tomas Lipovsek Puches,Dante Gennaro,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,R32,508,821,1,7,,Tomas Lipovsek Puches,Luca Giacomini,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Croatia F3,3,Clay,R32,508,634,0,5,,Ljubomir Celebic,Tomas Lipovsek Puches,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Santiago CH,3,Clay,Q1,445,238,0,,,Javier Marti,Tomas Lipovsek Puches,6-2 6-2,0.65,3.6%,1.8%,74.5%,43.9%,28.6%,4/10,39.4%,38.8%,0.0%,33.3%,50.0%,2/2,104,2,1,55,41,14,0,1:06
+26-Feb-2018,Punta Del Este CH,3,Clay,Q1,452,661,0,,,Gian Marco Moroni,Tomas Lipovsek Puches,6-3 6-7(4) 6-1,0.88,1.3%,3.9%,56.6%,53.5%,51.5%,5/12,46.2%,41.7%,1.9%,32.8%,54.5%,4/6,184,1,3,76,43,33,2,2:14
+4-Dec-2017,Argentina F12,3,Clay,R16,490,957,0,,,Federico Moreno,Tomas Lipovsek Puches,7-6(2) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Argentina F12,3,Clay,R32,490,,1,,Q,Tomas Lipovsek Puches,Tomas Reche,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R16,490,800,0,8,,Gonzalo Villanueva,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R32,490,,1,8,,Tomas Lipovsek Puches,Francisco Bahamonde,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,F,490,398,0,3,,Juan Ignacio Galarza,Tomas Lipovsek Puches,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,SF,490,814,1,3,,Tomas Lipovsek Puches,Manuel Pena Lopez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,QF,490,1608,1,3,,Tomas Lipovsek Puches,Valentin Florez,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,R16,490,1498,1,3,,Tomas Lipovsek Puches,Santiago Besada,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Argentina F10,3,Clay,R32,490,,1,3,,Tomas Lipovsek Puches,Tomas Reche,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Argentina F9,3,Clay,R16,420,960,0,,,Federico Moreno,Tomas Lipovsek Puches,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Argentina F9,3,Clay,R32,420,1623,1,,Q,Tomas Lipovsek Puches,Leonardo Aboian,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Argentina F8,3,Clay,R16,420,1217,0,3,,Mateo Nicolas Martinez,Tomas Lipovsek Puches,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Argentina F8,3,Clay,R32,420,904,1,3,,Tomas Lipovsek Puches,Juan Ignacio Ameal,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Guayaquil CH,3,Clay,Q2,413,408,0,,8,Martin Cuevas,Tomas Lipovsek Puches,6-4 6-1,0.78,0.0%,2.0%,62.7%,62.5%,47.4%,6/9,44.0%,33.8%,7.7%,25.0%,48.0%,0/0,116,0,1,51,32,19,5,1:03
+30-Oct-2017,Guayaquil CH,3,Clay,Q1,413,1639,1,,,Tomas Lipovsek Puches,Juan Manuel Lopez,6-0 6-0,4.64,0.0%,0.0%,86.2%,80.0%,100.0%,0/0,81.4%,80.0%,0.0%,78.9%,81.8%,6/8,59,0,0,29,25,4,0,0:37
+23-Oct-2017,Lima CH,3,Clay,Q1,416,267,0,,5,Michael Linzer,Tomas Lipovsek Puches,6-2 6-2,0.36,2.2%,2.2%,77.8%,45.7%,20.0%,0/5,31.7%,21.6%,18.9%,8.7%,42.9%,1/1,82,1,1,45,35,10,7,0:54
+2-Oct-2017,Campinas CH,3,Clay,R32,391,1237,0,Q,Q,Jose Pereira,Tomas Lipovsek Puches,7-5 6-0,0.68,0.0%,8.9%,57.8%,61.5%,36.8%,1/6,41.4%,33.3%,1.9%,20.7%,48.0%,1/4,99,0,4,45,26,19,1,1:08
+2-Oct-2017,Campinas CH,3,Clay,Q3,391,788,1,2,,Tomas Lipovsek Puches,Carlos Eduardo Severino,6-1 4-6 6-4,1.17,1.0%,7.3%,60.4%,69.0%,42.1%,7/11,53.8%,48.9%,0.0%,39.7%,65.6%,6/10,186,1,7,96,58,38,0,2:08
+2-Oct-2017,Campinas CH,3,Clay,Q2,391,1171,1,2,,Tomas Lipovsek Puches,Alexandre Tsuchiya,6-2 6-2,1.88,0.0%,4.3%,65.2%,80.0%,62.5%,2/2,61.1%,49.0%,0.0%,40.9%,55.6%,4/5,95,0,2,46,30,16,0,1:06
+11-Sep-2017,Argentina F7,3,Clay,R32,399,485,0,5,,Martin Cuevas,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,SF,416,316,0,4,2,Facundo Arguello,Tomas Lipovsek Puches,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,QF,416,847,1,4,Q,Tomas Lipovsek Puches,Carlos Eduardo Severino,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R16,416,2063,1,4,WC,Tomas Lipovsek Puches,Tomas Martin Etcheverry,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R32,416,546,1,4,,Tomas Lipovsek Puches,Gonzalo Lama,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,QF,416,407,0,5,3,Mariano Kestelboim,Tomas Lipovsek Puches,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,R16,416,929,1,5,,Tomas Lipovsek Puches,Andre Miele,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,R32,416,1009,1,5,,Tomas Lipovsek Puches,Federico Moreno,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,SF,422,502,0,2,3,Nicolas Santos,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,QF,422,2061,1,2,Q,Tomas Lipovsek Puches,Tomas Martin Etcheverry,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,R16,422,785,1,2,,Tomas Lipovsek Puches,Santiago Fa Rodriguez Taverna,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,R32,422,,1,2,WC,Tomas Lipovsek Puches,Tomas Descarrega,6-7(6) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R16,425,1098,0,3,PR,Peter Heller,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R32,425,1346,1,3,,Tomas Lipovsek Puches,Milos Nikolic,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Italy F23,3,Clay,R32,386,628,0,5,,Jacopo Stefanini,Tomas Lipovsek Puches,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R32,376,483,0,7,,Jan Choinski,Tomas Lipovsek Puches,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R16,386,665,0,7,,Jonathan Kanar,Tomas Lipovsek Puches,5-7 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R32,386,,1,7,Q,Tomas Lipovsek Puches,Emmanuel Coste,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,SF,386,227,0,6,1,Constant Lestienne,Tomas Lipovsek Puches,6-4 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,QF,386,309,1,6,3,Tomas Lipovsek Puches,Sekou Bangoura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,R16,386,657,1,6,,Tomas Lipovsek Puches,Sebastien Boltz,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,France F14,3,Clay,R32,386,824,1,6,,Tomas Lipovsek Puches,Louis Tessa,6-3 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Argentina F3,3,Clay,R16,380,566,0,1,,Juan Ignacio Galarza,Tomas Lipovsek Puches,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Argentina F3,3,Clay,R32,380,715,1,1,,Tomas Lipovsek Puches,Rafael Matos,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R16,415,787,0,1,,Carlos Eduardo Severino,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R32,415,887,1,1,,Tomas Lipovsek Puches,Camilo Ugo Carabelli,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,F,427,624,1,1,,Tomas Lipovsek Puches,Oscar Jose Gutierrez,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,SF,427,480,1,1,3,Tomas Lipovsek Puches,Hernan Casanova,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,QF,427,1415,1,1,Q,Tomas Lipovsek Puches,Alan Kohen,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R16,427,,1,1,PR,Tomas Lipovsek Puches,David Souto,6-7(6) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R32,427,1415,1,1,Q,Tomas Lipovsek Puches,Marvin Bernardo Becker Spiering,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Savannah CH,3,Clay,Q3,427,424,0,5,4,Mikelis Libietis,Tomas Lipovsek Puches,6-3 6-2,0.73,1.7%,5.1%,55.9%,63.6%,46.2%,2/5,43.8%,32.3%,3.2%,22.9%,44.4%,0/0,121,1,3,59,33,26,2,1:12
+1-May-2017,Savannah CH,3,Clay,Q2,427,764,1,5,,Tomas Lipovsek Puches,Ryan Haviland,3-6 6-4 7-6(3),1.08,6.5%,3.7%,71.3%,63.6%,58.1%,8/11,51.4%,41.1%,0.9%,33.8%,52.3%,3/9,220,7,4,108,77,31,1,2:30
+24-Apr-2017,Tallahassee CH,3,Clay,Q1,426,271,0,,3,Blaz Rola,Tomas Lipovsek Puches,6-2 6-3,0.18,3.6%,10.9%,60.0%,60.6%,50.0%,4/7,36.2%,7.7%,2.6%,7.7%,7.7%,0/0,94,2,6,55,33,22,1,0:54
+17-Apr-2017,Bradenton CH,3,Clay,Q2,406,606,0,8,,Facundo Arguello,Tomas Lipovsek Puches,6-3 6-1,0.62,4.4%,6.7%,66.7%,53.3%,40.0%,4/8,39.2%,31.6%,0.0%,21.1%,52.6%,0/3,102,2,3,45,30,15,0,1:10
+10-Apr-2017,San Luis Potosi CH,3,Clay,R32,361,210,0,,,Agustin Velotti,Tomas Lipovsek Puches,6-3 6-0,0.58,1.6%,11.5%,50.8%,54.8%,36.7%,3/8,39.6%,31.1%,6.7%,26.1%,36.4%,1/2,106,1,7,61,31,30,3,1:05
+3-Apr-2017,Panama City CH,3,Clay,R32,365,210,0,Q,,Adrian Menendez Maceiras,Tomas Lipovsek Puches,6-3 6-4,0.63,7.8%,3.9%,54.9%,60.7%,47.8%,1/4,41.1%,28.6%,5.4%,23.7%,38.9%,1/2,107,4,2,51,28,23,3,1:15
+3-Apr-2017,Panama City CH,3,Clay,Q3,365,347,1,4,7,Tomas Lipovsek Puches,Joao Pedro Sorgi,6-4 5-7 4-4 RET,0.98,10.5%,2.3%,62.8%,77.8%,53.1%,3/5,50.3%,30.9%,3.7%,27.0%,34.1%,2/2,167,9,2,86,54,32,3,2:22
+13-Mar-2017,Tigre CH,3,Hard,QF,326,205,0,,,Tristan Lamasine,Tomas Lipovsek Puches,3-6 6-1 7-6(4),0.90,1.1%,4.3%,41.9%,64.1%,59.3%,3/7,48.4%,34.8%,5.6%,23.2%,54.5%,3/5,182,1,4,93,39,54,5,2:00
+13-Mar-2017,Tigre CH,3,Hard,R16,326,575,1,,WC,Tomas Lipovsek Puches,Facundo Arguello,6-1 6-4,1.48,10.4%,6.3%,52.1%,76.0%,47.8%,0/3,58.6%,55.6%,0.0%,55.0%,56.5%,6/14,111,5,3,48,25,23,0,1:18
+13-Mar-2017,Tigre CH,3,Hard,R32,326,126,1,,6,Tomas Lipovsek Puches,Inigo Cervantes Huegun,7-6(3) 4-6 6-3,0.99,2.5%,9.8%,56.6%,72.5%,39.6%,7/12,50.9%,41.3%,6.5%,23.9%,58.7%,5/10,214,3,12,122,69,53,6,2:09
+6-Mar-2017,Santiago CH,3,Clay,Q1,326,1073,0,3,,Michel Vernier,Tomas Lipovsek Puches,6-2 6-1,0.67,4.3%,4.3%,45.7%,66.7%,28.0%,1/6,40.4%,36.2%,1.7%,40.0%,30.4%,1/7,104,2,2,46,21,25,1,1:08
+30-Jan-2017,USA F6,3,Clay,R32,322,723,0,2,,Renta Tokuda,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,USA F5,3,Clay,QF,323,614,0,1,Q,Felix Auger Aliassime,Tomas Lipovsek Puches,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,USA F5,3,Clay,R16,323,512,1,1,,Tomas Lipovsek Puches,Filip Peliwo,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,USA F5,3,Clay,R32,323,538,1,1,,Tomas Lipovsek Puches,Nikola Cacic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,USA F4,3,Clay,R16,323,428,0,2,,Peter Nagy,Tomas Lipovsek Puches,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,USA F4,3,Clay,R32,323,538,1,2,,Tomas Lipovsek Puches,Nikola Cacic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Chile F7,3,Clay,R32,294,954,0,1,,Ricardo Urzua Rivera,Tomas Lipovsek Puches,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Chile F6,3,Clay,R32,293,757,0,1,,Alejandro Tabilo,Tomas Lipovsek Puches,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Montevideo CH,3,Clay,R16,317,58,0,,2,Diego Schwartzman,Tomas Lipovsek Puches,6-1 6-3,0.42,2.4%,9.8%,48.8%,60.0%,28.6%,2/6,33.7%,23.8%,2.4%,13.3%,50.0%,0/0,83,1,4,41,20,21,1,0:48
+14-Nov-2016,Montevideo CH,3,Clay,R32,317,779,1,,Q,Tomas Lipovsek Puches,Joao Menezes,6-2 6-3,1.51,3.6%,1.8%,81.8%,68.9%,50.0%,6/7,58.2%,52.2%,0.0%,45.8%,68.4%,5/9,122,2,1,55,45,10,0,1:17
+7-Nov-2016,Argentina F13,3,Clay,F,319,298,0,1,2,Federico Coria,Tomas Lipovsek Puches,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,SF,319,440,1,1,3,Tomas Lipovsek Puches,Kaichi Uchida,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,QF,319,580,1,1,7,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,R16,319,1614,1,1,Q,Tomas Lipovsek Puches,Agustin Suarez Gonzalez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Argentina F13,3,Clay,R32,319,1116,1,1,,Tomas Lipovsek Puches,Victor Nunez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Argentina F12,3,Clay,R16,314,834,0,2,,Franco Emanuel Egea,Tomas Lipovsek Puches,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Argentina F12,3,Clay,R32,314,,1,2,WC,Tomas Lipovsek Puches,Tobias Sonne,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,SF,309,434,0,1,4,Christian Lindell,Tomas Lipovsek Puches,3-6 6-4 7-6(11),,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,QF,309,589,1,1,8,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,R16,309,,1,1,WC,Tomas Lipovsek Puches,Juan Martin Jalif,6-4 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Argentina F11,3,Clay,R32,309,1063,1,1,,Tomas Lipovsek Puches,Fernando Yamacita,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Santiago CH,3,Clay,R32,309,188,0,,,Pedro Sousa,Tomas Lipovsek Puches,7-5 3-6 6-3,0.92,4.4%,3.5%,62.3%,59.2%,39.5%,14/21,48.2%,44.4%,0.0%,39.0%,61.5%,6/15,222,5,4,114,71,43,0,2:07
+10-Oct-2016,Buenos Aires CH,3,Clay,R32,308,107,0,,6,Rogerio Dutra Silva,Tomas Lipovsek Puches,6-1 6-3,0.57,0.0%,6.3%,58.7%,43.2%,34.6%,6/12,37.4%,34.6%,3.8%,23.1%,46.2%,2/5,115,0,4,63,37,26,2,1:19
+3-Oct-2016,Campinas CH,3,Clay,QF,309,75,0,,1,Carlos Berlocq,Tomas Lipovsek Puches,6-1 6-0,0.55,0.0%,2.4%,63.4%,30.8%,40.0%,3/9,35.2%,36.2%,4.3%,34.5%,38.9%,1/5,88,0,1,41,26,15,2,1:06
+3-Oct-2016,Campinas CH,3,Clay,R16,309,118,1,,6,Tomas Lipovsek Puches,Joao Souza,6-1 4-6 6-3,1.54,0.0%,3.0%,74.2%,77.6%,52.9%,0/2,56.6%,44.3%,8.9%,31.8%,60.0%,5/11,145,0,2,66,49,17,7,1:42
+3-Oct-2016,Campinas CH,3,Clay,R32,309,571,1,,WC,Tomas Lipovsek Puches,Orlando Luz,3-6 6-1 7-5,1.09,2.2%,6.5%,60.2%,55.4%,56.8%,9/14,52.4%,48.0%,2.7%,41.2%,53.7%,7/7,168,2,6,93,56,37,2,1:55
+19-Sep-2016,Kenitra CH,3,Clay,R16,301,258,0,,,Jeremy Jahn,Tomas Lipovsek Puches,6-0 6-3,0.59,1.9%,1.9%,71.2%,45.9%,33.3%,3/9,38.5%,34.1%,0.0%,30.8%,38.9%,1/2,96,1,1,52,37,15,0,0:58
+19-Sep-2016,Kenitra CH,3,Clay,R32,301,1247,1,,WC,Tomas Lipovsek Puches,Mehdi Jdi,6-4 6-2,1.55,0.0%,0.0%,78.7%,67.6%,50.0%,1/4,59.3%,56.1%,0.0%,55.6%,56.7%,6/12,113,0,0,47,37,10,0,1:12
+12-Sep-2016,Meknes CH,3,Clay,R32,300,240,0,,6,Yannik Reuter,Tomas Lipovsek Puches,6-1 6-3,0.55,0.0%,7.9%,73.0%,52.2%,23.5%,10/15,38.5%,30.4%,2.2%,32.3%,26.7%,1/4,109,0,5,63,46,17,1,1:07
+5-Sep-2016,Seville CH,3,Clay,R32,280,177,0,,8,Enrique Lopez Perez,Tomas Lipovsek Puches,3-6 7-6(2) 6-0,0.88,2.2%,1.1%,73.6%,55.2%,45.8%,4/10,47.2%,41.6%,2.2%,36.5%,53.8%,4/12,180,2,1,91,67,24,2,2:01
+29-Aug-2016,Switzerland F5,3,Clay,QF,280,890,0,1,,Johan Nikles,Tomas Lipovsek Puches,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,R16,280,1167,1,1,,Tomas Lipovsek Puches,Loic Perret,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,R32,280,1662,1,1,Q,Tomas Lipovsek Puches,Jessy Kalambay,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,R32,281,955,0,1,,Vullnet Tashi,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,France F16,3,Hard,SF,283,418,0,2,3,Maxime Hamou,Tomas Lipovsek Puches,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,France F16,3,Hard,QF,283,458,1,2,5,Tomas Lipovsek Puches,Sebastien Boltz,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,France F16,3,Hard,R16,283,782,1,2,,Tomas Lipovsek Puches,Romain Arneodo,3-6 7-6(9) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,France F16,3,Hard,R32,283,718,1,2,,Tomas Lipovsek Puches,Gianni Mina,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Gstaad,3,Clay,Q2,281,391,0,7,,Yann Marti,Tomas Lipovsek Puches,6-0 3-6 6-4,0.81,5.1%,2.5%,65.8%,63.5%,44.4%,2/7,46.6%,34.8%,0.0%,28.2%,43.3%,2/3,148,4,2,79,52,27,0,1:35
+18-Jul-2016,Gstaad,3,Clay,Q1,281,1811,1,7,WC,Tomas Lipovsek Puches,Alexander Ritschard,7-6(1) 2-6 6-1,1.14,1.2%,2.4%,58.3%,55.1%,65.7%,1/6,52.6%,46.1%,1.1%,36.6%,54.2%,5/8,173,1,2,84,49,35,1,1:51
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,R32,288,167,0,,1,Alessandro Giannessi,Tomas Lipovsek Puches,7-6(11) 2-6 6-3,1.09,9.4%,3.1%,71.9%,62.3%,48.1%,6/11,51.5%,45.5%,0.0%,39.7%,59.4%,6/10,206,9,3,96,69,27,0,2:20
+4-Jul-2016,Italy F19,3,Clay,SF,278,317,0,1,3,Juan Pablo Paz,Tomas Lipovsek Puches,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,QF,278,340,1,1,6,Tomas Lipovsek Puches,Gerard Granollers,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R16,278,643,1,1,,Tomas Lipovsek Puches,Orlando Luz,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R32,278,1076,1,1,Q,Tomas Lipovsek Puches,Giovanni Rizzuti,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R16,278,384,0,6,,Pedro Martinez,Tomas Lipovsek Puches,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R32,278,1239,1,6,Q,Tomas Lipovsek Puches,Maxime Mora,1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Wimbledon,5,Grass,Q1,278,227,0,,,Mohamed Safwat,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Poprad CH,3,Clay,R32,278,279,0,,,Norbert Gombos,Tomas Lipovsek Puches,6-2 6-4,0.81,9.3%,14.8%,44.4%,62.5%,40.0%,5/10,45.1%,40.7%,3.4%,27.3%,57.7%,2/5,113,5,8,54,24,30,2,1:07
+6-Jun-2016,Moscow CH,3,Clay,R32,281,61,0,,1,Mikhail Kukushkin,Tomas Lipovsek Puches,6-3 6-4,0.82,3.3%,6.7%,55.0%,48.5%,44.4%,3/8,45.0%,43.8%,1.3%,41.3%,47.1%,3/15,140,2,4,60,33,27,1,1:30
+30-May-2016,Furth CH,3,Hard,Q2,262,431,0,8,WC,Yannick Maden,Tomas Lipovsek Puches,7-6(3) 3-6 6-4,0.97,1.7%,1.7%,64.4%,63.2%,50.0%,10/15,50.2%,40.2%,2.1%,35.5%,48.6%,5/9,215,2,2,118,76,42,2,2:31
+30-May-2016,Furth CH,3,Hard,Q1,262,,1,8,WC,Tomas Lipovsek Puches,Alexander Wolfschmidt,6-1 6-0,2.73,6.5%,6.5%,61.3%,89.5%,58.3%,0/0,67.0%,61.7%,0.0%,55.9%,69.2%,6/13,91,2,2,31,19,12,0,0:50
+23-May-2016,Romania F4,3,Clay,R16,262,357,0,2,,Emilio Gomez,Tomas Lipovsek Puches,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Romania F4,3,Clay,R32,262,960,1,2,Q,Tomas Lipovsek Puches,Vlad Victor Cornea,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Mestre CH,3,Clay,R32,261,285,0,,,Joris De Loore,Tomas Lipovsek Puches,7-5 2-6 6-0,0.80,0.0%,2.7%,68.5%,48.0%,56.5%,3/9,44.5%,39.6%,3.3%,29.5%,48.9%,4/8,164,0,2,73,50,23,3,1:56
+25-Apr-2016,Tallahassee CH,3,Clay,Q3,250,287,0,2,6,Sekou Bangoura,Tomas Lipovsek Puches,6-3 4-6 6-2,0.83,6.6%,2.6%,72.4%,58.2%,47.6%,2/8,46.4%,37.3%,0.0%,26.8%,50.0%,3/7,151,5,2,76,55,21,0,1:41
+25-Apr-2016,Tallahassee CH,3,Clay,Q2,250,1090,1,2,,Tomas Lipovsek Puches,Andrew Carter,6-1 6-4,1.84,2.4%,4.9%,73.2%,73.3%,63.6%,0/1,60.2%,53.7%,1.5%,42.9%,65.6%,5/13,108,1,2,41,30,11,1,1:15
+18-Apr-2016,Savannah CH,3,Clay,R16,261,182,0,Q,,Frances Tiafoe,Tomas Lipovsek Puches,6-4 6-4,0.59,10.0%,4.3%,57.1%,65.0%,43.3%,7/10,42.7%,25.9%,13.0%,15.6%,40.9%,1/3,124,7,3,70,40,30,7,1:11
+18-Apr-2016,Savannah CH,3,Clay,R32,261,269,1,Q,,Tomas Lipovsek Puches,James Mcgee,7-5 6-3,1.26,0.0%,4.5%,65.7%,61.4%,52.2%,4/7,55.5%,52.9%,2.9%,48.8%,59.3%,6/11,137,0,3,67,44,23,2,1:38
+18-Apr-2016,Savannah CH,3,Clay,Q3,261,407,1,3,6,Tomas Lipovsek Puches,Deiton Baughman,6-2 5-7 6-4,1.05,1.6%,4.1%,63.9%,62.8%,45.5%,13/17,51.6%,45.6%,1.0%,32.8%,64.3%,6/16,225,2,5,122,78,44,1,2:25
+18-Apr-2016,Savannah CH,3,Clay,Q2,261,479,1,3,,Tomas Lipovsek Puches,Jose Rubin Statham,6-4 1-6 6-2,1.06,1.4%,4.3%,64.3%,66.7%,36.0%,0/5,51.0%,46.9%,3.7%,37.5%,68.0%,5/11,151,1,3,70,45,25,3,1:50
+11-Apr-2016,Sarasota CH,3,Clay,QF,279,128,0,Q,6,Bjorn Fratangelo,Tomas Lipovsek Puches,6-4 6-1,0.54,0.0%,2.5%,67.5%,51.9%,53.8%,0/4,37.9%,25.5%,0.0%,14.8%,40.0%,1/2,87,0,1,40,27,13,0,1:00
+11-Apr-2016,Sarasota CH,3,Clay,R16,279,178,1,Q,,Tomas Lipovsek Puches,Guido Andreozzi,7-6(2) 1-6 6-2,1.05,0.0%,1.1%,76.9%,65.7%,57.1%,4/7,51.4%,38.1%,3.6%,37.5%,38.9%,3/4,175,0,1,91,70,21,3,1:54
+11-Apr-2016,Sarasota CH,3,Clay,R32,279,614,1,Q,Q,Tomas Lipovsek Puches,Peter Nagy,3-6 6-2 6-3,1.04,1.1%,3.3%,72.8%,58.2%,56.0%,10/13,51.1%,44.2%,2.3%,43.9%,44.8%,5/12,178,1,3,92,67,25,2,2:06
+11-Apr-2016,Sarasota CH,3,Clay,Q3,279,222,1,5,2,Tomas Lipovsek Puches,Marcelo Arevalo,7-5 7-5,1.20,0.0%,2.4%,72.6%,60.7%,47.8%,7/11,54.2%,51.2%,2.4%,46.0%,59.4%,6/15,166,0,2,84,61,23,2,2:03
+11-Apr-2016,Sarasota CH,3,Clay,Q2,279,406,1,5,,Tomas Lipovsek Puches,Deiton Baughman,6-2 6-2,2.29,2.6%,2.6%,78.9%,80.0%,62.5%,1/2,62.9%,54.2%,1.7%,47.2%,65.2%,5/10,97,1,1,38,30,8,1,1:03
+11-Apr-2016,Sarasota CH,3,Clay,Q1,279,1258,1,5,,Tomas Lipovsek Puches,Collin Johns,6-3 6-0,1.61,6.0%,4.0%,70.0%,60.0%,73.3%,2/3,60.7%,57.9%,0.0%,60.0%,55.6%,5/12,107,3,2,50,35,15,0,1:08
+21-Mar-2016,Argentina F4,3,Clay,F,314,302,0,3,4,Maximiliano Estevez,Tomas Lipovsek Puches,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,SF,314,385,1,3,7,Tomas Lipovsek Puches,Juan Ignacio Galarza,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,QF,314,332,1,3,6,Tomas Lipovsek Puches,Hernan Casanova,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,R16,314,438,1,3,,Tomas Lipovsek Puches,Juan Pablo Paz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,R32,314,1197,1,3,Q,Tomas Lipovsek Puches,Luciano Doria,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,F,318,442,1,3,,Tomas Lipovsek Puches,Pedro Sakamoto,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,SF,318,272,1,3,2,Tomas Lipovsek Puches,Michael Linzer,1-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,QF,318,358,1,3,5,Tomas Lipovsek Puches,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R16,318,,1,3,PR,Tomas Lipovsek Puches,Gaston Arturo Grimolizzi,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R32,318,1364,1,3,Q,Tomas Lipovsek Puches,Tomas Gerini,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Santiago CH,3,Clay,R16,318,95,0,,1,Facundo Bagnis,Tomas Lipovsek Puches,6-1 6-2,0.48,0.0%,7.9%,50.0%,57.9%,42.1%,2/6,36.3%,23.8%,4.8%,10.7%,50.0%,0/0,80,0,3,38,19,19,2,0:49
+7-Mar-2016,Santiago CH,3,Clay,R32,318,214,1,,,Tomas Lipovsek Puches,Gianluca Naso,2-6 6-3 6-3,0.99,0.9%,3.7%,67.9%,59.5%,37.1%,14/19,50.0%,47.4%,5.3%,33.9%,66.7%,6/10,204,1,4,109,74,35,5,2:32
+8-Feb-2016,Buenos Aires,3,Clay,Q1,315,142,0,WC,6,Gastao Elias,Tomas Lipovsek Puches,6-2 7-6(4),0.68,0.0%,3.3%,58.3%,48.6%,36.0%,4/10,41.0%,38.7%,3.2%,27.8%,53.8%,4/7,122,0,2,60,35,25,2,1:38
+11-Jan-2016,Buenos Aires CH,3,Clay,R16,330,126,0,,2,Rogerio Dutra Silva,Tomas Lipovsek Puches,4-6 6-1 6-2,0.65,0.0%,4.1%,63.0%,58.7%,44.4%,4/9,41.8%,30.1%,4.1%,30.8%,28.6%,2/4,146,0,3,73,46,27,3,1:46
+11-Jan-2016,Buenos Aires CH,3,Clay,R32,330,902,1,,WC,Tomas Lipovsek Puches,Santiago Fa Rodriguez Taverna,6-2 6-3,1.28,1.5%,4.5%,74.6%,58.0%,47.1%,3/6,56.2%,57.4%,0.0%,48.0%,65.5%,6/9,121,1,3,67,50,17,0,1:21
+4-Jan-2016,Mendoza CH,3,Clay,R32,330,369,0,,,Hernan Casanova,Tomas Lipovsek Puches,3-6 6-4 6-3,0.94,0.0%,2.2%,70.0%,54.0%,44.4%,5/12,48.6%,46.1%,0.0%,43.1%,54.2%,6/10,179,0,2,90,63,27,0,2:05
+14-Dec-2015,Chile F10,3,Hard,QF,327,801,0,1,,Tomas Barrios Vera,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Chile F10,3,Hard,R16,327,763,1,1,,Tomas Lipovsek Puches,Matias Franco Descotte,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Chile F10,3,Hard,R32,327,1455,1,1,Q,Tomas Lipovsek Puches,Vicente Lagos,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,F,327,284,0,2,1,Gonzalo Lama,Tomas Lipovsek Puches,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,SF,327,409,1,2,3,Tomas Lipovsek Puches,Patricio Heras,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,QF,327,851,1,2,,Tomas Lipovsek Puches,Eduardo Agustin Torre,4-6 6-2 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R16,327,2219,1,2,Q,Tomas Lipovsek Puches,David Fleming,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R32,327,782,1,2,,Tomas Lipovsek Puches,Michel Vernier,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,QF,327,680,0,2,7,Franco Agamenone,Tomas Lipovsek Puches,1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R16,327,,1,2,WC,Tomas Lipovsek Puches,Francisco Olivares,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R32,327,2219,1,2,Q,Tomas Lipovsek Puches,David Fleming,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Montevideo CH,3,Clay,R32,317,254,0,,,Michael Linzer,Tomas Lipovsek Puches,6-0 6-4,0.53,4.3%,4.3%,58.7%,59.3%,31.6%,0/4,37.0%,27.8%,0.0%,22.9%,36.8%,0/4,100,2,2,46,27,19,0,
+9-Nov-2015,Buenos Aires CH,3,Clay,R32,311,163,0,WC,,Renzo Olivo,Tomas Lipovsek Puches,7-5 6-2,0.65,1.4%,5.6%,66.7%,56.3%,50.0%,12/16,43.7%,29.6%,0.0%,22.2%,37.0%,1/2,126,1,4,72,48,24,0,
+2-Nov-2015,Bogota CH,3,Clay,R16,325,68,0,,2,Paolo Lorenzi,Tomas Lipovsek Puches,6-3 6-1,0.40,4.0%,10.0%,60.0%,56.7%,40.0%,3/7,36.7%,20.0%,12.5%,0.0%,34.8%,0/0,90,2,5,50,30,20,5,
+2-Nov-2015,Bogota CH,3,Clay,R32,325,,1,,Q,Tomas Lipovsek Puches,Gero Kretschmer,0-6 6-3 6-4,0.99,4.0%,11.9%,55.4%,75.0%,31.1%,15/20,50.6%,44.3%,2.5%,30.0%,59.0%,4/11,180,4,12,101,56,45,2,
+26-Oct-2015,Monterrey CH,3,Hard,R32,326,205,0,,8,Giovanni Lapentti,Tomas Lipovsek Puches,6-1 6-4,0.65,4.3%,6.4%,66.0%,51.6%,43.8%,3/8,40.8%,33.3%,3.9%,20.7%,50.0%,1/4,98,2,3,47,31,16,2,
+12-Oct-2015,Corrientes CH,3,Clay,R32,323,201,0,,,Marco Trungelliti,Tomas Lipovsek Puches,6-3 6-4,0.76,1.8%,7.3%,61.8%,58.8%,23.8%,5/10,43.3%,41.5%,3.1%,51.4%,30.0%,3/8,120,1,4,55,34,21,2,
+5-Oct-2015,Sao Paulo CH,3,Clay,QF,343,147,0,,6,Facundo Bagnis,Tomas Lipovsek Puches,6-3 6-4,0.89,1.3%,8.0%,54.7%,58.5%,38.2%,6/11,47.3%,45.2%,5.5%,38.9%,51.4%,3/6,148,1,6,75,41,34,4,
+5-Oct-2015,Sao Paulo CH,3,Clay,R16,343,305,1,,,Tomas Lipovsek Puches,Cristian Garin,6-4 6-2,1.22,2.1%,8.5%,57.4%,55.6%,50.0%,4/8,55.5%,56.9%,1.4%,54.3%,59.5%,7/13,119,1,4,47,27,20,1,
+5-Oct-2015,Sao Paulo CH,3,Clay,R32,343,497,1,,LL,Tomas Lipovsek Puches,Ricardo Hocevar,6-3 6-4,1.31,3.2%,9.5%,60.3%,73.7%,48.0%,4/6,55.5%,47.7%,0.0%,50.0%,44.0%,4/10,128,2,6,63,38,25,0,
+21-Sep-2015,Croatia F17,3,Clay,F,376,386,1,1,2,Tomas Lipovsek Puches,Miki Jankovic,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Croatia F17,3,Clay,SF,376,722,1,1,,Tomas Lipovsek Puches,Tomislav Ternar,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Croatia F17,3,Clay,QF,376,690,1,1,8,Tomas Lipovsek Puches,Nik Razborsek,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Croatia F17,3,Clay,R16,376,1704,1,1,Q,Tomas Lipovsek Puches,Flemming Peters,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Croatia F17,3,Clay,R32,376,,1,1,WC,Tomas Lipovsek Puches,Marin Mise,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Meknes CH,3,Clay,QF,394,170,0,Q,4,Gerald Melzer,Tomas Lipovsek Puches,6-4 7-5,0.75,8.2%,6.8%,54.8%,67.5%,48.5%,5/8,45.9%,30.6%,1.6%,32.4%,28.6%,1/3,135,6,5,73,40,33,1,
+7-Sep-2015,Meknes CH,3,Clay,R16,394,210,1,Q,8,Tomas Lipovsek Puches,Mathias Bourgue,6-2 3-6 6-3,1.20,2.5%,1.3%,76.3%,77.0%,36.8%,5/6,53.1%,39.0%,2.4%,30.8%,53.3%,3/5,162,2,1,80,61,19,2,
+7-Sep-2015,Meknes CH,3,Clay,R32,394,368,1,Q,,Tomas Lipovsek Puches,Enrique Lopez Perez,6-2 6-4,1.61,2.2%,0.0%,71.7%,69.7%,61.5%,0/2,59.2%,52.6%,0.0%,47.4%,63.2%,5/8,103,1,0,46,33,13,0,
+31-Aug-2015,Switzerland F5,3,Clay,R16,394,952,0,2,,Antoine Bellier,Tomas Lipovsek Puches,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Switzerland F5,3,Clay,R32,394,936,1,2,,Tomas Lipovsek Puches,Loic Perret,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Gstaad,3,Clay,Q2,376,146,0,,2,Horacio Zeballos,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Gstaad,3,Clay,Q1,376,319,1,,,Tomas Lipovsek Puches,Fernando Romboli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Italy F18,3,Clay,SF,394,640,0,1,7,Andrea Collarini,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Italy F18,3,Clay,QF,394,970,1,1,,Tomas Lipovsek Puches,Cristian Carli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Italy F18,3,Clay,R16,394,1493,1,1,Q,Tomas Lipovsek Puches,Tommaso Lago,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Italy F18,3,Clay,R32,394,2101,1,1,Q,Tomas Lipovsek Puches,Edoardo Lamberti,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Italy F17,3,Clay,R16,366,1572,0,6,Q,Antonio Massara,Tomas Lipovsek Puches,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Italy F17,3,Clay,R32,366,1499,1,6,WC,Tomas Lipovsek Puches,Andrea Vavassori,3-6 7-5 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Italy F16,3,Clay,QF,366,420,0,3,5,Mateo Nicolas Martinez,Tomas Lipovsek Puches,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Italy F16,3,Clay,R16,366,793,1,3,,Tomas Lipovsek Puches,Ljubomir Celebic,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Italy F16,3,Clay,R32,366,1651,1,3,WC,Tomas Lipovsek Puches,Julian Ocleppo,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Italy F15,3,Clay,SF,362,440,0,2,8,Tom Kocevar Desman,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Italy F15,3,Clay,QF,362,609,1,2,,Tomas Lipovsek Puches,Viktor Galovic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Italy F15,3,Clay,R16,362,607,1,2,PR,Tomas Lipovsek Puches,Francesco Picco,6-4 0-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Italy F15,3,Clay,R32,362,470,1,2,,Tomas Lipovsek Puches,Viktor Durasovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Slovakia CH,3,Clay,R32,343,259,0,Q,,Peter Torebko,Tomas Lipovsek Puches,0-6 6-3 6-1,0.78,3.3%,5.6%,57.8%,59.6%,39.5%,12/17,46.0%,38.3%,1.7%,30.6%,50.0%,4/7,150,3,5,90,52,38,1,
+25-May-2015,Argentina F7,3,Clay,F,380,232,0,3,1,Nicolas Kicker,Tomas Lipovsek Puches,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,SF,380,869,1,3,,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,QF,380,598,1,3,,Tomas Lipovsek Puches,Hernan Casanova,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R16,380,1169,1,3,Q,Tomas Lipovsek Puches,Oscar Jose Gutierrez,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R32,380,915,1,3,Q,Tomas Lipovsek Puches,Rodrigo Banzer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Argentina F6,3,Clay,R32,382,1059,0,3,Q,Luciano Doria,Tomas Lipovsek Puches,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R32,389,883,0,3,,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,QF,388,667,0,2,6,Hernan Casanova,Tomas Lipovsek Puches,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R16,388,,1,2,,Tomas Lipovsek Puches,Eduardo Schwank,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R32,388,827,1,2,,Tomas Lipovsek Puches,Alan Kohen,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Sao Paulo CH,3,Clay,R16,410,222,0,Q,,Christian Lindell,Tomas Lipovsek Puches,6-4 6-3,0.71,0.0%,0.0%,65.5%,50.0%,35.0%,2/7,41.9%,39.4%,3.0%,35.1%,44.8%,3/8,124,0,0,58,38,20,2,1:28
+27-Apr-2015,Sao Paulo CH,3,Clay,R32,410,298,1,Q,,Tomas Lipovsek Puches,Julien Cagnina,2-6 7-5 5-2 RET,1.01,0.0%,5.3%,51.3%,51.3%,40.5%,5/13,50.6%,54.5%,0.0%,51.9%,58.3%,8/11,164,0,4,76,39,37,0,2:15
+23-Mar-2015,Argentina F3,3,Clay,SF,420,269,0,6,1,Jose Hernandez,Tomas Lipovsek Puches,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,QF,420,419,1,6,4,Tomas Lipovsek Puches,Mateo Nicolas Martinez,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R16,420,645,1,6,,Tomas Lipovsek Puches,Juan Ignacio Ameal,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R32,420,493,1,6,,Tomas Lipovsek Puches,Patricio Heras,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,R32,430,774,0,,Q,Hernan Casanova,Tomas Lipovsek Puches,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,SF,430,322,0,4,1,Nicolas Kicker,Tomas Lipovsek Puches,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,QF,430,774,1,4,,Tomas Lipovsek Puches,Hernan Casanova,2-6 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R16,430,957,1,4,WC,Tomas Lipovsek Puches,Mariano Kestelboim,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R32,430,,1,4,Q,Tomas Lipovsek Puches,Facundo Juarez,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Chile F2,3,Clay,R16,429,573,0,,,Bastian Malla,Tomas Lipovsek Puches,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Chile F2,3,Clay,R32,429,951,1,,Q,Tomas Lipovsek Puches,Mariano Kestelboim,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,R16,425,465,0,,,Tiago Lopes,Tomas Lipovsek Puches,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,R32,425,,1,,WC,Tomas Lipovsek Puches,Gerardo Irarrazabal,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Chile F11,3,Clay,F,449,725,0,7,,Bastian Malla,Tomas Lipovsek Puches,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Chile F11,3,Clay,SF,449,985,1,7,Q,Tomas Lipovsek Puches,Jorge Montero,2-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Chile F11,3,Clay,QF,449,342,1,7,1,Tomas Lipovsek Puches,Juan Carlos Saez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Chile F11,3,Clay,R16,449,536,1,7,,Tomas Lipovsek Puches,Ricardo Hocevar,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Chile F11,3,Clay,R32,449,1238,1,7,Q,Tomas Lipovsek Puches,David Fleming,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,SF,450,211,0,6,1,Hans Podlipnik Castillo,Tomas Lipovsek Puches,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,QF,450,716,1,6,,Tomas Lipovsek Puches,Bastian Malla,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,R16,450,514,1,6,,Tomas Lipovsek Puches,Ryusei Makiguchi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,R32,450,1021,1,6,Q,Tomas Lipovsek Puches,Rodrigo Senattore,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Chile F8,3,Clay,R32,438,1082,0,3,Q,Gonzalo Villanueva,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Montevideo CH,3,Clay,R16,403,470,0,,,Gianluigi Quinzi,Tomas Lipovsek Puches,7-6(2) 6-2,0.74,2.9%,4.3%,56.5%,51.3%,50.0%,9/13,43.6%,36.6%,1.4%,30.4%,48.0%,2/9,140,2,3,69,39,30,1,1:33
+17-Nov-2014,Montevideo CH,3,Clay,R32,403,1037,1,,,Tomas Lipovsek Puches,Marcos Vinicius Dias,6-2 6-1,2.19,2.5%,7.5%,60.0%,87.5%,56.3%,0/0,63.4%,54.7%,0.0%,52.8%,58.8%,5/12,93,1,3,40,24,16,0,1:02
+20-Oct-2014,Cordoba CH,3,Clay,R32,402,265,0,WC,,Andrea Collarini,Tomas Lipovsek Puches,6-1 7-5,0.68,4.3%,6.4%,46.8%,59.1%,52.0%,1/5,40.7%,30.3%,1.5%,29.4%,33.3%,1/6,113,2,3,47,22,25,1,1:17
+15-Sep-2014,Quito CH,3,Clay,R32,373,536,0,,Q,Andre Miele,Tomas Lipovsek Puches,3-6 6-2 6-4,0.74,1.1%,6.6%,52.7%,70.8%,39.5%,6/10,45.2%,32.5%,2.6%,28.1%,45.0%,3/6,168,1,6,91,48,43,2,1:58
+8-Sep-2014,Ecuador F6,3,Clay,R32,369,532,0,8,,Andre Miele,Tomas Lipovsek Puches,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2014,Medellin CH,3,Clay,R16,392,190,0,,6,Guilherme Clezar,Tomas Lipovsek Puches,6-2 7-5,0.69,4.3%,14.5%,46.4%,65.6%,29.7%,4/10,42.5%,37.3%,3.9%,32.3%,45.0%,3/4,120,3,10,69,32,37,2,1:17
+2-Sep-2014,Medellin CH,3,Clay,R32,392,371,1,,,Tomas Lipovsek Puches,Martin Cuevas,6-4 6-4,1.27,1.5%,7.7%,52.3%,70.6%,54.8%,3/5,54.1%,46.9%,4.9%,38.8%,59.4%,4/13,146,1,5,65,34,31,4,1:23
+25-Aug-2014,Argentina F15,3,Clay,R16,392,997,0,1,,Hernan Casanova,Tomas Lipovsek Puches,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,R32,392,921,1,1,,Tomas Lipovsek Puches,Dante Gennaro,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,SF,354,1113,0,1,,Juan Pablo Ficovich,Tomas Lipovsek Puches,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,QF,354,991,1,1,,Tomas Lipovsek Puches,Hernan Casanova,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R16,354,1178,1,1,,Tomas Lipovsek Puches,Mariano Kestelboim,7-5 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R32,354,1714,1,1,Q,Tomas Lipovsek Puches,Michel Vernier,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Argentina F13,3,Clay,R32,364,2208,0,1,Q,Brian Orradre,Tomas Lipovsek Puches,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,SF,365,413,0,1,3,Martin Cuevas,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,QF,365,682,1,1,8,Tomas Lipovsek Puches,Felipe Mantilla,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R16,365,951,1,1,,Tomas Lipovsek Puches,Marcos Vinicius Dias,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R32,365,872,1,1,,Tomas Lipovsek Puches,Sebastian Exequiel Pini,6-3 6-7(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Argentina F11,3,Clay,QF,359,659,0,1,5,Eduardo Agustin Torre,Tomas Lipovsek Puches,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Argentina F11,3,Clay,R16,359,1370,1,1,Q,Tomas Lipovsek Puches,Oscar Jose Gutierrez,6-4 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Argentina F11,3,Clay,R32,359,840,1,1,,Tomas Lipovsek Puches,Juan Manuel Benitez Chavarriaga,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Manta CH,3,Hard,R32,413,672,0,,Q,Roberto Quiroz,Tomas Lipovsek Puches,7-5 6-2,0.70,1.6%,4.8%,66.1%,58.5%,42.9%,1/5,42.6%,32.8%,0.0%,27.1%,47.4%,1/6,129,1,3,62,41,21,0,1:23
+23-Jun-2014,Argentina F8,3,Clay,F,413,390,1,3,1,Tomas Lipovsek Puches,Patricio Heras,6-4 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,SF,413,487,1,3,5,Tomas Lipovsek Puches,Caio Zampieri,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,QF,413,529,1,3,7,Tomas Lipovsek Puches,Nicolas Kicker,0-6 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R16,413,,1,3,WC,Tomas Lipovsek Puches,Federico Herrera Duran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R32,413,1629,1,3,Q,Tomas Lipovsek Puches,Brian Orradre,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,F,437,529,0,3,7,Nicolas Kicker,Tomas Lipovsek Puches,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,SF,437,403,1,3,2,Tomas Lipovsek Puches,Gabriel Alejandro Hidalgo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,QF,437,601,1,3,8,Tomas Lipovsek Puches,Mateo Nicolas Martinez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R16,437,1322,1,3,Q,Tomas Lipovsek Puches,Nicolas Alberto Arreche,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R32,437,1274,1,3,WC,Tomas Lipovsek Puches,Juan Pablo Ficovich,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Croatia F13,3,Clay,F,433,407,0,2,1,Mathias Bourgue,Tomas Lipovsek Puches,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Croatia F13,3,Clay,SF,433,422,1,2,6,Tomas Lipovsek Puches,Maverick Banes,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Croatia F13,3,Clay,QF,433,1440,1,2,WC,Tomas Lipovsek Puches,Franko Miocic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Croatia F13,3,Clay,R16,433,1077,1,2,,Tomas Lipovsek Puches,Daniele Capecchi,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Croatia F13,3,Clay,R32,433,1826,1,2,WC,Tomas Lipovsek Puches,David Johansson,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Croatia F12,3,Clay,SF,432,701,0,1,6,Christopher Oconnell,Tomas Lipovsek Puches,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Croatia F12,3,Clay,QF,432,603,1,1,5,Tomas Lipovsek Puches,Gavin Van Peperzeel,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Croatia F12,3,Clay,R16,432,,1,1,Q,Tomas Lipovsek Puches,Igor Tubic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Croatia F12,3,Clay,R32,432,,1,1,Q,Tomas Lipovsek Puches,Harrison Lombe,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Croatia F11,3,Clay,R32,432,1182,0,2,LL,Jake Eames,Tomas Lipovsek Puches,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Colombia F2,3,Clay,R32,415,438,0,7,,Fabiano De Paula,Tomas Lipovsek Puches,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Argentina F6,3,Clay,QF,417,328,0,5,2,Hugo Dellien,Tomas Lipovsek Puches,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Argentina F6,3,Clay,R16,417,883,1,5,,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Argentina F6,3,Clay,R32,417,1438,1,5,LL,Tomas Lipovsek Puches,Gustavo Vellbach,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Argentina F5,3,Clay,R32,417,588,0,6,,Johan Sebastien Tatlot,Tomas Lipovsek Puches,6-2 6-7(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Argentina F4,3,Clay,R16,417,494,0,8,,Facundo Mena,Tomas Lipovsek Puches,3-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Argentina F4,3,Clay,R32,417,831,1,8,,Tomas Lipovsek Puches,Benjamin Ugarte,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Morelos CH,3,Hard,R32,406,299,0,,,Chase Buchanan,Tomas Lipovsek Puches,6-3 6-0,0.63,1.9%,3.7%,55.6%,60.0%,16.7%,6/12,39.2%,37.5%,4.2%,32.3%,47.1%,1/4,102,1,2,54,30,24,2,1:03
+10-Feb-2014,Argentina F3,3,Clay,R16,412,736,0,3,,Joaquin Jesus Monteferrario,Tomas Lipovsek Puches,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Argentina F3,3,Clay,R32,412,786,1,3,Q,Tomas Lipovsek Puches,Juan Pablo Paz,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Argentina F2,3,Clay,R16,416,537,0,4,,Pedro Cachin,Tomas Lipovsek Puches,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Argentina F2,3,Clay,R32,416,1001,1,4,Q,Tomas Lipovsek Puches,Juan Ignacio Ameal,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Argentina F1,3,Clay,R16,413,538,0,7,,Pedro Cachin,Tomas Lipovsek Puches,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Argentina F1,3,Clay,R32,413,785,1,7,,Tomas Lipovsek Puches,Juan Pablo Paz,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Dec-2013,Sao Paulo CH,3,Hard,R32,415,118,0,,3,Guido Pella,Tomas Lipovsek Puches,7-6(2) 2-6 6-3,1.01,1.1%,2.2%,60.9%,66.1%,50.0%,3/6,50.0%,40.8%,1.0%,29.8%,56.1%,4/8,190,1,2,92,56,36,1,2:00
+16-Dec-2013,Chile F12,3,Clay,QF,426,467,0,4,6,Juan Carlos Saez,Tomas Lipovsek Puches,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Dec-2013,Chile F12,3,Clay,R16,426,,1,4,WC,Tomas Lipovsek Puches,Esteban Bruna,6-7(4) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Dec-2013,Chile F12,3,Clay,R32,426,990,1,4,,Tomas Lipovsek Puches,Samuel Bensoussan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Chile F11,3,Clay,QF,423,289,0,6,3,Hans Podlipnik Castillo,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Chile F11,3,Clay,R16,423,1323,1,6,Q,Tomas Lipovsek Puches,Simon Navarro,6-2 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Chile F11,3,Clay,R32,423,1546,1,6,Q,Tomas Lipovsek Puches,Juan Pablo Varillas,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Chile F9,3,Clay,R32,438,373,0,,6,Cristobal Saavedra Corvalan,Tomas Lipovsek Puches,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,SF,503,336,0,8,2,Gonzalo Lama,Tomas Lipovsek Puches,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,QF,503,719,1,8,,Tomas Lipovsek Puches,Eduardo Dischinger,6-2 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,R16,503,894,1,8,,Tomas Lipovsek Puches,Benjamin Ugarte,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Chile F8,3,Clay,R32,503,714,1,8,,Tomas Lipovsek Puches,Ryusei Makiguchi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,F,504,858,1,4,,Tomas Lipovsek Puches,Eduardo Agustin Torre,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,SF,504,398,1,4,1,Tomas Lipovsek Puches,Juan Carlos Saez,0-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,QF,504,1330,1,4,Q,Tomas Lipovsek Puches,Valentin Florez,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,R16,504,1318,1,4,Q,Tomas Lipovsek Puches,Simon Navarro,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Chile F7,3,Clay,R32,504,1037,1,4,,Tomas Lipovsek Puches,Juan Matias Gonzalez Carrasco,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,San Juan CH,3,Clay,R32,486,142,0,WC,4,Ruben Ramirez Hidalgo,Tomas Lipovsek Puches,6-2 6-1,0.45,0.0%,5.4%,63.5%,53.2%,37.0%,9/14,39.3%,23.7%,7.9%,20.0%,27.8%,0/1,112,0,4,74,47,27,3,1:08
+23-Sep-2013,Argentina F20,3,Clay,QF,499,674,0,3,6,Nicolas Kicker,Tomas Lipovsek Puches,2-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Argentina F20,3,Clay,R16,499,1168,1,3,,Tomas Lipovsek Puches,Juan Ignacio Ameal,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Argentina F20,3,Clay,R32,499,,1,3,WC,Tomas Lipovsek Puches,Agustin Visokolskis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R16,574,724,0,4,,Pedro Cachin,Tomas Lipovsek Puches,6-4 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R32,574,,1,4,Q,Tomas Lipovsek Puches,Mateo Galdon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,F,561,901,1,3,,Tomas Lipovsek Puches,Martin Cuevas,7-5 6-7(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,SF,561,1999,1,3,WC,Tomas Lipovsek Puches,Francisco Bahamonde,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,QF,561,871,1,3,,Tomas Lipovsek Puches,Juan Ignacio Galarza,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,R16,561,1647,1,3,Q,Tomas Lipovsek Puches,Juan Manuel Matute,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,R32,561,2114,1,3,,Tomas Lipovsek Puches,Eduardo Piragine,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Argentina F16,3,Clay,R16,552,909,0,8,,Pedro Cachin,Tomas Lipovsek Puches,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Argentina F16,3,Clay,R32,552,,1,8,WC,Tomas Lipovsek Puches,Matias Del Rio,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Argentina F15,3,Clay,R32,652,,0,8,Q,Francisco Bahamonde,Tomas Lipovsek Puches,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,F,645,533,1,8,5,Tomas Lipovsek Puches,Facundo Mena,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,SF,645,1050,1,8,,Tomas Lipovsek Puches,Pedro Cachin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,QF,645,415,1,8,3,Tomas Lipovsek Puches,Gabriel Alejandro Hidalgo,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,R16,645,899,1,8,Q,Tomas Lipovsek Puches,Martin Cuevas,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,R32,645,970,1,8,,Tomas Lipovsek Puches,Tomas Buchhass,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Argentina F13,3,Clay,R16,698,308,0,,1,Andrea Collarini,Tomas Lipovsek Puches,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Argentina F13,3,Clay,R32,698,968,1,,,Tomas Lipovsek Puches,Gonzalo Villanueva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,SF,775,1431,0,,Q,Martin Cuevas,Tomas Lipovsek Puches,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,QF,775,488,1,,5,Tomas Lipovsek Puches,Federico Coria,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,R16,775,988,1,,,Tomas Lipovsek Puches,Tomas Buchhass,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,R32,775,445,1,,4,Tomas Lipovsek Puches,Ivan Endara,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,SF,771,592,0,,7,Facundo Mena,Tomas Lipovsek Puches,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,QF,771,649,1,,,Tomas Lipovsek Puches,Mateo Nicolas Martinez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,R16,771,493,1,,6,Tomas Lipovsek Puches,Mauricio Echazu,3-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,R32,771,1010,1,,,Tomas Lipovsek Puches,Fabricio Burdisso,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Argentina F9,3,Clay,SF,795,360,0,,1,Andrea Collarini,Tomas Lipovsek Puches,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Argentina F9,3,Clay,QF,795,782,1,,Q,Tomas Lipovsek Puches,Ricardo Urzua Rivera,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Argentina F9,3,Clay,R16,795,446,1,,5,Tomas Lipovsek Puches,Daniel Dutra Da Silva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Argentina F9,3,Clay,R32,795,731,1,,,Tomas Lipovsek Puches,Nicolas Kicker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Argentina F8,3,Clay,R32,795,451,0,Q,8,Gabriel Alejandro Hidalgo,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Argentina F7,3,Clay,R32,792,501,0,WC,8,Juan Ignacio Londero,Tomas Lipovsek Puches,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Argentina F6,3,Clay,R32,806,546,0,Q,7,Juan Ignacio Londero,Tomas Lipovsek Puches,6-4 0-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,R16,884,537,0,Q,5,Juan Ignacio Londero,Tomas Lipovsek Puches,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,R32,884,,1,Q,Q,Tomas Lipovsek Puches,Matias Zukas,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Argentina F4,3,Clay,SF,881,612,0,Q,,Gabriel Alejandro Hidalgo,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Argentina F4,3,Clay,QF,881,426,1,Q,4,Tomas Lipovsek Puches,Duilio Beretta,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Argentina F4,3,Clay,R16,881,1466,1,Q,WC,Tomas Lipovsek Puches,Juan Ignacio Galarza,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Argentina F4,3,Clay,R32,881,611,1,Q,8,Tomas Lipovsek Puches,Joaquin Jesus Monteferrario,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Argentina F3,3,Clay,R32,888,818,0,,,Juan Pablo Ortiz,Tomas Lipovsek Puches,6-1 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Colombia F2,3,Clay,R16,835,550,0,Q,,Jose Hernandez,Tomas Lipovsek Puches,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Colombia F2,3,Clay,R32,835,412,1,Q,8,Tomas Lipovsek Puches,Cristobal Saavedra Corvalan,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Colombia F1,3,Clay,R32,834,448,0,,8,Theodoros Angelinos,Tomas Lipovsek Puches,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R32,838,718,0,LL,,Hernan Casanova,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Argentina F27,3,Clay,R16,860,540,0,WC,8,Guillermo Duran,Tomas Lipovsek Puches,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Argentina F27,3,Clay,R32,860,954,1,WC,Q,Tomas Lipovsek Puches,Juan Pablo Paz,6-7(5) 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Argentina F26,3,Clay,R16,864,330,0,Q,4,Andres Molteni,Tomas Lipovsek Puches,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Argentina F26,3,Clay,R32,864,744,1,Q,,Tomas Lipovsek Puches,Valentin Florez,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Buenos Aires CH,3,Clay,R32,834,545,0,WC,Q,Juan Martin Aranguren,Tomas Lipovsek Puches,6-2 6-4,0.70,7.4%,11.1%,38.9%,76.2%,36.4%,5/10,42.7%,33.9%,1.8%,38.5%,23.5%,2/8,110,4,6,54,21,33,1,1:14
+10-Sep-2012,Argentina F24,3,Clay,QF,931,,0,,Q,Stefano Travaglia,Tomas Lipovsek Puches,7-6(3) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Argentina F24,3,Clay,R16,931,565,1,,5,Tomas Lipovsek Puches,Patricio Heras,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Argentina F24,3,Clay,R32,931,,1,,Q,Tomas Lipovsek Puches,Juan Manuel Benitez Chavarriaga,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,Argentina F23,3,Clay,QF,961,268,0,,1,Pablo Galdon,Tomas Lipovsek Puches,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,Argentina F23,3,Clay,R16,961,529,1,,5,Tomas Lipovsek Puches,Gaston Arturo Grimolizzi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,Argentina F23,3,Clay,R32,961,1336,1,,Q,Tomas Lipovsek Puches,Gaston Paz,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Argentina F21,3,Clay,R16,992,272,0,Q,1,Pablo Galdon,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Argentina F21,3,Clay,R32,992,,1,Q,WC,Tomas Lipovsek Puches,Sebastian Exequiel Pini,1-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Argentina F20,3,Clay,R16,958,467,0,WC,7,Juan Ignacio Londero,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Argentina F20,3,Clay,R32,958,,1,WC,Q,Tomas Lipovsek Puches,Nicolas Andres Rodriguez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Argentina F19,3,Clay,R32,952,877,0,,,Nicolas Kicker,Tomas Lipovsek Puches,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Argentina F18,3,Clay,R32,930,384,0,,2,Leandro Migani,Tomas Lipovsek Puches,6-3 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Argentina F17,3,Clay,R32,922,1090,0,,,Mariano Urli,Tomas Lipovsek Puches,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,R16,999,712,0,,7,Juan Vazquez Valenzuela,Tomas Lipovsek Puches,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,R32,999,,1,,Q,Tomas Lipovsek Puches,Sebastian Exequiel Pini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Argentina F14,3,Clay,R16,990,329,0,,3,Guido Andreozzi,Tomas Lipovsek Puches,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Argentina F14,3,Clay,R32,990,,1,,Q,Tomas Lipovsek Puches,Juan Manuel Benitez Chavarriaga,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Argentina F12,3,Clay,R32,1022,393,0,,2,Andres Molteni,Tomas Lipovsek Puches,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Argentina F11,3,Clay,R16,1044,355,0,,2,Andres Molteni,Tomas Lipovsek Puches,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Argentina F11,3,Clay,R32,1044,,1,,Q,Tomas Lipovsek Puches,Juan Pablo Paz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Argentina F9,3,Clay,R16,1077,274,0,WC,1,Nicolas Pastor,Tomas Lipovsek Puches,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Argentina F9,3,Clay,R32,1077,689,1,WC,,Tomas Lipovsek Puches,Federico Coria,5-7 6-3 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Argentina F5,3,Clay,R16,1130,924,0,WC,Q,Matias Salinas,Tomas Lipovsek Puches,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Argentina F5,3,Clay,R32,1130,680,1,WC,Q,Tomas Lipovsek Puches,Sergio Galdos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Argentina F2,3,Clay,QF,1486,598,0,Q,,Joaquin Jesus Monteferrario,Tomas Lipovsek Puches,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Argentina F2,3,Clay,R16,1486,465,1,Q,4,Tomas Lipovsek Puches,Juan Pablo Amado,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Argentina F2,3,Clay,R32,1486,717,1,Q,,Tomas Lipovsek Puches,Luis David Martinez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Argentina F1,3,Clay,R16,1480,463,0,Q,4,Juan Pablo Amado,Tomas Lipovsek Puches,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Argentina F1,3,Clay,R32,1480,,1,Q,Q,Tomas Lipovsek Puches,Matias Bekerman,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Argentina F20,3,Clay,R16,1934,1137,0,Q,,Martin Rios Benitez,Tomas Lipovsek Puches,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Argentina F20,3,Clay,R32,1934,,1,Q,Q,Tomas Lipovsek Puches,Juan Ignacio Galarza,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Argentina F15,3,Clay,R32,1873,580,0,Q,5,Juan Martin Aranguren,Tomas Lipovsek Puches,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Argentina F14,3,Clay,R32,1825,306,0,Q,2,Juan Pablo Amado,Tomas Lipovsek Puches,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Argentina F13,3,Clay,R32,1825,842,0,WC,,Gustavo Sterin,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Argentina F10,3,Clay,R16,,765,0,WC,,Andrea Collarini,Tomas Lipovsek Puches,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Argentina F10,3,Clay,R32,,,1,WC,Q,Tomas Lipovsek Puches,Juan Ignacio Galarza,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Argentina F9,3,Clay,R32,,495,0,WC,6,Guido Pella,Tomas Lipovsek Puches,6-7(5) 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Argentina F8,3,Clay,R32,,465,0,Q,7,Patricio Heras,Tomas Lipovsek Puches,1-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Argentina F5,3,Clay,R32,,,0,Q,Q,Marcos Remondegui,Tomas Lipovsek Puches,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Argentina F2,3,Clay,R32,,393,0,WC,3,Diego Schwartzman,Tomas Lipovsek Puches,6-3 6-0,,,,,,,,,,,,,,,,,,,,,

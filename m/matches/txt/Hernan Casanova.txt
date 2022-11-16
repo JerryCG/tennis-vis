@@ -1,0 +1,605 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Montevideo CH,3,Clay,R32,223,188,0,,,Facundo Diaz Acosta,Hernan Casanova,6-3 4-1 RET,0.71,0.0%,6.6%,50.8%,64.5%,33.3%,1/5,43.2%,36.0%,0.0%,30.3%,47.1%,1/6,111,0,4,61,31,30,0,1:17
+31-Oct-2022,Guayaquil CH,3,Clay,R32,223,249,0,,,Jesper De Jong,Hernan Casanova,6-1 6-7(5) 7-5,0.67,0.8%,3.4%,71.4%,57.6%,52.9%,15/20,43.9%,29.4%,4.9%,24.7%,41.4%,2/6,221,1,4,119,85,34,5,2:16
+24-Oct-2022,Lima CH,3,Clay,R32,221,162,0,,,Santiago Fa Rodriguez Taverna,Hernan Casanova,6-3 6-4,0.87,0.0%,0.0%,94.5%,57.7%,0.0%,3/7,46.3%,39.7%,4.4%,43.1%,29.4%,2/5,123,0,0,55,52,3,3,1:15
+17-Oct-2022,Coquimbo CH,3,Clay,R32,240,228,0,,,Facundo Diaz Acosta,Hernan Casanova,6-7(6) 7-6(2) 6-1,0.85,0.0%,1.8%,76.6%,60.0%,38.5%,9/15,46.5%,38.5%,2.6%,21.1%,65.2%,4/11,228,0,2,111,85,26,3,2:42
+10-Oct-2022,M25 Rio Cuarto,3,Clay,F,240,1338,1,1,Q,Hernan Casanova,Guido Ivan Justo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,M25 Rio Cuarto,3,Clay,SF,240,465,1,1,3,Hernan Casanova,Matias Franco Descotte,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,M25 Rio Cuarto,3,Clay,QF,240,607,1,1,7,Hernan Casanova,Franco Emanuel Egea,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,M25 Rio Cuarto,3,Clay,R16,240,1556,1,1,Q,Hernan Casanova,Andres Gabriel Ciurletti,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,M25 Rio Cuarto,3,Clay,R32,240,1304,1,1,WC,Hernan Casanova,Ezequiel Simonit,6-3 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,Buenos Aires CH,3,Clay,R16,236,178,0,Q,,Juan Manuel Cerundolo,Hernan Casanova,6-2 6-2,0.61,2.3%,4.5%,79.5%,48.6%,44.4%,1/6,39.6%,31.9%,2.1%,28.6%,36.8%,1/4,91,1,2,44,35,9,1,1:06
+26-Sep-2022,Buenos Aires CH,3,Clay,R32,236,207,1,Q,,Hernan Casanova,Andrea Collarini,6-4 5-7 6-3,1.22,2.5%,0.0%,85.0%,64.7%,75.0%,3/7,51.5%,41.2%,3.5%,36.7%,51.4%,6/15,194,2,0,80,68,12,4,2:47
+26-Sep-2022,Buenos Aires CH,3,Clay,Q2,236,543,1,1,Alt,Hernan Casanova,Jakub Paul,7-6(5) 6-1,1.35,1.9%,0.0%,82.7%,65.1%,55.6%,2/5,55.2%,49.3%,1.4%,45.5%,55.2%,6/12,125,1,0,52,43,9,1,1:20
+26-Sep-2022,Buenos Aires CH,3,Clay,Q1,236,618,1,1,WC,Hernan Casanova,Tomas Farjat,3-6 7-5 6-3,1.03,0.0%,1.0%,89.1%,58.9%,54.5%,9/13,50.2%,42.7%,8.2%,26.6%,65.2%,5/15,211,0,1,101,90,11,9,2:15
+19-Sep-2022,Villa Maria CH,3,Clay,QF,250,120,0,,3,Facundo Bagnis,Hernan Casanova,6-3 6-3,0.68,0.0%,3.3%,76.7%,63.0%,28.6%,5/8,42.9%,30.5%,10.2%,35.9%,20.0%,0/5,119,0,2,60,46,14,6,1:35
+19-Sep-2022,Villa Maria CH,3,Clay,R16,250,204,1,,,Hernan Casanova,Andrea Collarini,6-4 7-5,1.31,0.0%,2.9%,81.2%,64.3%,61.5%,4/7,55.2%,47.3%,1.4%,40.4%,63.6%,5/9,143,0,2,69,56,13,1,1:47
+19-Sep-2022,Villa Maria CH,3,Clay,R32,250,390,1,,Q,Hernan Casanova,Juan Pablo Paz,6-3 6-1,2.05,0.0%,0.0%,78.7%,75.7%,60.0%,1/2,64.8%,56.8%,2.3%,56.0%,57.9%,5/8,91,0,0,47,37,10,1,1:08
+5-Sep-2022,M25 Maribor,3,Clay,F,309,441,1,1,6,Hernan Casanova,Damien Wenger,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,M25 Maribor,3,Clay,SF,309,379,1,1,5,Hernan Casanova,Murkel Alejandro Dellien Velasco,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,M25 Maribor,3,Clay,QF,309,523,1,1,JE,Hernan Casanova,Mili Poljicak,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,M25 Maribor,3,Clay,R16,309,809,1,1,WC,Hernan Casanova,Bor Artnak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,M25 Maribor,3,Clay,R32,309,603,1,1,,Hernan Casanova,Viacheslav Bielinskyi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Maribor,3,Clay,F,309,379,1,1,4,Hernan Casanova,Murkel Alejandro Dellien Velasco,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Maribor,3,Clay,SF,309,631,1,1,,Hernan Casanova,August Holmgren,2-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Maribor,3,Clay,QF,309,434,1,1,7,Hernan Casanova,Martin Krumich,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Maribor,3,Clay,R16,309,700,1,1,,Hernan Casanova,Pavel Nejedly,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2022,M25 Maribor,3,Clay,R32,309,1880,1,1,Q,Hernan Casanova,Matic Dimic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,Banja Luka CH,3,Clay,R32,327,224,0,,1,Nicolas Alvarez Varona,Hernan Casanova,6-1 6-7(3) 6-3,0.86,0.0%,0.0%,72.1%,62.9%,58.3%,4/8,46.2%,33.0%,9.0%,29.6%,41.4%,1/5,186,0,0,86,62,24,9,2:11
+15-Aug-2022,M25 Koksijde,3,Clay,F,330,356,0,1,5,Raphael Collignon,Hernan Casanova,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2022,M25 Koksijde,3,Clay,SF,330,500,1,1,,Hernan Casanova,Wilson Leite,7-6(13) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2022,M25 Koksijde,3,Clay,QF,330,381,1,1,6,Hernan Casanova,Murkel Alejandro Dellien Velasco,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2022,M25 Koksijde,3,Clay,R16,330,979,1,1,,Hernan Casanova,Niccolo Catini,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2022,M25 Koksijde,3,Clay,R32,330,1634,1,1,WC,Hernan Casanova,Alexander Blockx,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2022,Kitzbuhel,3,Clay,R32,321,145,0,Q,WC,Jurij Rodionov,Hernan Casanova,6-4 6-2,0.60,1.4%,2.9%,60.9%,64.3%,44.4%,7/10,43.7%,26.0%,14.0%,6.5%,57.9%,0/1,119,1,2,69,42,27,7,1:21
+25-Jul-2022,Kitzbuhel,3,Clay,Q2,321,215,1,Alt,8,Hernan Casanova,Daniel Dutra Da Silva,1-6 7-6(3) 6-1,1.14,2.7%,4.0%,60.0%,71.1%,46.7%,2/6,51.8%,44.0%,8.8%,33.3%,53.1%,5/7,166,2,3,75,45,30,8,2:06
+25-Jul-2022,Kitzbuhel,3,Clay,Q1,321,148,1,Alt,4,Hernan Casanova,Manuel Guinard,6-3 7-5,1.31,3.1%,0.0%,73.4%,61.7%,64.7%,1/4,56.4%,49.1%,1.9%,45.5%,55.0%,5/6,117,2,0,64,47,17,1,1:26
+11-Jul-2022,M25+H Kassel,3,Clay,R32,319,659,0,4,,Aleksandre Metreveli,Hernan Casanova,2-6 7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Marburg,3,Clay,SF,300,540,0,1,,Raphael Collignon,Hernan Casanova,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Marburg,3,Clay,QF,300,461,1,1,8,Hernan Casanova,Tristan Schoolkate,6-3 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Marburg,3,Clay,R16,300,565,1,1,,Hernan Casanova,Tim Handel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Marburg,3,Clay,R32,300,655,1,1,,Hernan Casanova,Mateo Nicolas Martinez,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,Troyes CH,3,Clay,R32,300,375,0,,WC,Arthur Fils,Hernan Casanova,6-4 4-6 6-4,0.92,0.0%,2.5%,73.3%,55.7%,56.3%,10/15,48.9%,40.6%,5.0%,38.2%,43.5%,4/12,221,0,3,120,88,32,5,2:43
+16-May-2022,Francavilla Al Mare CH,3,Clay,SF,307,280,0,6,4,Matteo Arnaldi,Hernan Casanova,6-3 0-0 RET,0.73,0.0%,0.0%,69.6%,43.8%,57.1%,0/2,42.3%,37.9%,6.9%,40.0%,33.3%,1/1,52,0,0,23,16,7,2,0:41
+16-May-2022,Francavilla Al Mare CH,3,Clay,QF,307,268,1,6,2,Hernan Casanova,Mate Valkusz,7-6(4) 5-3 RET,1.11,0.0%,4.2%,74.6%,58.5%,38.9%,3/8,52.5%,51.7%,0.0%,54.5%,43.5%,6/15,160,0,3,71,53,18,0,1:48
+16-May-2022,Francavilla Al Mare CH,3,Clay,R16,307,335,1,6,,Hernan Casanova,Joao Domingues,6-4 6-4,1.23,0.0%,0.0%,86.6%,56.9%,88.9%,6/8,54.7%,47.5%,1.6%,33.3%,68.0%,4/9,128,0,0,67,58,9,1,1:39
+16-May-2022,Francavilla Al Mare CH,3,Clay,R32,307,457,1,6,Alt,Hernan Casanova,Giovanni Fonio,7-6(1) 6-1,1.46,0.0%,0.0%,87.3%,62.9%,66.7%,1/4,58.5%,53.5%,4.2%,46.2%,62.5%,5/11,142,0,0,71,62,9,3,1:36
+9-May-2022,Coquimbo CH,3,Clay,R16,305,316,0,,,Facundo Diaz Acosta,Hernan Casanova,7-6(1) 6-0,0.64,0.0%,1.4%,71.0%,61.2%,10.0%,3/8,41.1%,34.5%,3.6%,23.1%,44.8%,2/4,124,0,1,69,49,20,2,1:39
+9-May-2022,Coquimbo CH,3,Clay,R32,305,289,1,,,Hernan Casanova,Nicolas Mejia,6-7(1) 6-1 6-4,1.18,0.0%,0.0%,81.2%,65.9%,52.6%,6/8,53.2%,43.1%,2.9%,39.7%,47.7%,5/10,203,0,0,101,82,19,3,2:45
+2-May-2022,Salvador De Bahia CH,3,Clay,R16,313,330,0,,Alt,Gonzalo Villanueva,Hernan Casanova,6-3 6-0,0.55,0.0%,2.7%,75.7%,32.1%,11.1%,2/8,34.8%,40.4%,1.9%,36.7%,45.5%,2/8,89,0,1,37,28,9,1,1:21
+2-May-2022,Salvador De Bahia CH,3,Clay,R32,313,341,1,,,Hernan Casanova,Juan Bautista Torres,3-6 7-5 7-5,0.87,0.0%,0.9%,79.6%,59.3%,45.5%,8/13,47.8%,37.9%,5.3%,37.5%,39.1%,5/12,203,0,1,108,86,22,5,2:54
+25-Apr-2022,Buenos Aires CH,3,Clay,R32,314,424,0,,,Pol Martin Tiffon,Hernan Casanova,6-2 6-1,0.34,0.0%,4.5%,59.1%,46.2%,38.9%,3/7,31.8%,19.5%,7.3%,11.5%,33.3%,0/1,85,0,2,44,26,18,3,0:56
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,QF,315,296,0,,,Paul Jubb,Hernan Casanova,6-3 7-6(4),0.92,0.0%,0.0%,86.4%,63.2%,33.3%,3/6,47.0%,37.6%,1.2%,32.7%,45.5%,2/6,151,0,0,66,57,9,1,1:49
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R16,315,189,1,,8,Hernan Casanova,Jesper De Jong,4-0 RET,3.44,0.0%,0.0%,50.0%,60.0%,100.0%,0/0,73.1%,68.8%,0.0%,57.1%,77.8%,2/2,26,0,0,10,5,5,0,0:19
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R32,315,429,1,,Q,Hernan Casanova,Corentin Denolly,6-4 7-5,1.11,1.3%,0.0%,88.2%,61.2%,66.7%,1/3,52.8%,42.4%,7.6%,38.1%,50.0%,4/10,142,1,0,76,67,9,5,1:36
+14-Mar-2022,Concepcion CH,3,Clay,R32,314,183,0,Q,8,Facundo Mena,Hernan Casanova,6-1 0-1 RET,0.59,0.0%,3.0%,72.7%,45.8%,22.2%,4/7,37.9%,36.0%,4.0%,27.8%,57.1%,1/2,58,0,1,33,24,9,1,0:43
+14-Mar-2022,Concepcion CH,3,Clay,Q2,314,424,1,2,10,Hernan Casanova,Cristian Rodriguez,7-6(4) 6-2,1.50,0.0%,3.6%,91.1%,76.5%,0.0%,0/1,55.6%,45.6%,0.0%,41.8%,54.2%,3/7,135,0,2,56,51,5,0,1:29
+14-Mar-2022,Concepcion CH,3,Clay,Q1,314,1136,1,2,Alt,Hernan Casanova,Bart Stevens,7-5 6-2,1.39,0.0%,4.8%,74.2%,80.4%,25.0%,0/1,55.2%,47.0%,0.0%,46.7%,47.8%,4/9,145,0,3,62,46,16,0,
+7-Mar-2022,Santiago CH,3,Clay,R32,314,318,0,Q,Q,Paul Jubb,Hernan Casanova,6-1 2-6 6-2,0.63,0.0%,0.0%,72.2%,56.9%,28.0%,9/14,41.8%,32.4%,13.2%,20.0%,56.5%,3/8,158,0,0,90,65,25,9,1:58
+7-Mar-2022,Santiago CH,3,Clay,Q2,314,468,1,3,11,Hernan Casanova,Damien Wenger,6-3 6-7(3) 6-4,1.22,1.0%,0.0%,86.5%,65.1%,61.5%,7/10,53.1%,43.4%,8.8%,28.6%,67.4%,6/19,209,1,0,96,83,13,10,2:35
+7-Mar-2022,Santiago CH,3,Clay,Q1,314,1338,1,3,WC,Hernan Casanova,Cristobal Castro,6-1 6-0,2.06,2.3%,2.3%,70.5%,77.4%,53.8%,2/2,65.9%,61.0%,2.4%,53.6%,76.9%,5/10,85,1,1,44,31,13,1,0:58
+21-Feb-2022,Santiago,3,Clay,Q2,321,179,0,Alt,5,Renzo Olivo,Hernan Casanova,6-2 6-2,0.75,0.0%,0.0%,77.8%,41.1%,50.0%,9/15,42.9%,42.6%,1.9%,40.5%,47.1%,2/3,126,0,0,72,56,16,1,1:32
+21-Feb-2022,Santiago,3,Clay,Q1,321,145,1,Alt,3,Hernan Casanova,Zdenek Kolar,6-3 6-2,1.33,0.0%,1.8%,70.9%,64.1%,50.0%,1/3,56.5%,53.3%,0.0%,51.4%,56.0%,5/11,115,0,1,55,39,16,0,1:29
+10-Jan-2022,Blumenau CH,3,Clay,R32,322,696,0,6,WC,Pedro Boscardin Dias,Hernan Casanova,6-2 6-1,0.54,1.7%,8.6%,69.0%,50.0%,22.2%,1/7,37.6%,31.4%,14.3%,14.3%,57.1%,1/1,93,1,5,58,40,18,5,0:59
+2-Jan-2022,Tigre CH,3,Clay,QF,325,302,0,5,2,Santiago Fa Rodriguez Taverna,Hernan Casanova,7-5 6-4,0.83,1.3%,3.9%,75.3%,56.9%,52.6%,7/11,46.4%,36.8%,5.3%,31.7%,42.9%,2/7,153,1,3,77,58,19,4,1:43
+2-Jan-2022,Tigre CH,3,Clay,R16,325,391,1,5,,Hernan Casanova,Noah Rubin,6-3 2-6 6-2,1.41,1.4%,2.9%,75.4%,75.0%,47.1%,3/6,55.7%,45.0%,5.0%,33.3%,65.5%,4/13,149,1,2,69,52,17,4,1:51
+2-Jan-2022,Tigre CH,3,Clay,R32,325,377,1,5,,Hernan Casanova,Facundo Juarez,6-4 6-1,1.36,0.0%,0.0%,83.9%,66.0%,77.8%,7/7,56.7%,43.8%,0.0%,39.5%,60.0%,4/5,104,0,0,56,47,9,0,1:15
+6-Dec-2021,Florianopolis CH,3,Clay,R16,327,119,0,,2,Hugo Dellien,Hernan Casanova,6-0 6-3,0.65,0.0%,0.0%,64.4%,44.8%,37.5%,3/8,39.4%,37.5%,0.0%,34.0%,50.0%,1/4,109,0,0,45,29,16,0,1:19
+6-Dec-2021,Florianopolis CH,3,Clay,R32,327,311,1,,,Hernan Casanova,Pedja Krstin,5-7 6-1 6-2,1.51,5.1%,2.6%,69.2%,70.4%,62.5%,4/7,57.4%,48.4%,3.3%,35.7%,59.2%,6/8,169,4,2,78,54,24,3,1:49
+29-Nov-2021,Sao Paulo CH,3,Clay,R16,329,264,0,,,Andrea Collarini,Hernan Casanova,4-1 RET,0.22,0.0%,0.0%,71.4%,40.0%,25.0%,0/1,25.0%,14.3%,14.3%,9.1%,33.3%,0/0,28,0,0,14,10,4,2,0:23
+29-Nov-2021,Sao Paulo CH,3,Clay,R32,329,470,1,,WC,Hernan Casanova,Oscar Jose Gutierrez,5-7 7-6(5) 6-0,1.20,1.9%,2.9%,79.6%,61.0%,66.7%,4/7,53.6%,45.4%,1.9%,36.8%,54.9%,5/13,211,2,3,103,82,21,2,2:49
+22-Nov-2021,Brasilia CH,3,Clay,QF,342,115,0,,4,Francisco Cerundolo,Hernan Casanova,7-6(3) 6-4,0.92,0.0%,3.2%,61.3%,52.6%,54.2%,0/4,47.3%,42.9%,1.2%,36.5%,53.1%,3/9,146,0,2,62,38,24,1,1:47
+22-Nov-2021,Brasilia CH,3,Clay,R16,342,119,1,,5,Hernan Casanova,Hugo Dellien,6-4 6-4,1.15,0.0%,0.0%,75.8%,68.1%,46.7%,2/4,52.8%,42.6%,0.0%,37.3%,70.0%,4/9,123,0,0,62,47,15,0,1:24
+22-Nov-2021,Brasilia CH,3,Clay,R32,342,532,1,,WC,Hernan Casanova,Gustavo Heide,5-7 6-1 7-5,1.26,0.0%,2.2%,62.9%,73.2%,48.5%,3/6,54.3%,45.4%,5.2%,29.2%,61.2%,5/14,186,0,2,89,56,33,5,2:10
+15-Nov-2021,Campinas CH,3,Clay,Q2,334,336,0,3,6,Santiago Fa Rodriguez Taverna,Hernan Casanova,7-5 6-2,0.68,0.0%,3.2%,60.3%,57.9%,52.0%,3/6,42.9%,30.2%,12.7%,17.6%,44.8%,0/1,126,0,2,63,38,25,8,1:29
+15-Nov-2021,Campinas CH,3,Clay,Q1,334,453,1,3,Alt,Hernan Casanova,Gonzalo Villanueva,7-6(4) 4-6 7-5,1.05,0.0%,0.9%,76.6%,62.2%,48.0%,4/10,50.4%,43.2%,3.2%,39.7%,48.1%,6/14,232,0,1,107,82,25,4,3:00
+8-Nov-2021,Montevideo CH,3,Clay,R16,338,159,0,Alt,,Juan Ignacio Londero,Hernan Casanova,6-4 6-2,0.70,0.0%,0.0%,72.0%,47.2%,28.6%,3/9,41.3%,40.7%,0.0%,37.1%,47.4%,3/9,104,0,0,50,36,14,0,1:13
+8-Nov-2021,Montevideo CH,3,Clay,R32,338,182,1,Alt,,Hernan Casanova,Felipe Meligeni Alves,6-3 7-6(3),1.22,0.0%,1.5%,63.6%,61.9%,66.7%,4/6,53.1%,44.4%,0.0%,47.5%,36.4%,4/10,147,0,1,66,42,24,0,1:42
+1-Nov-2021,Guayaquil CH,3,Clay,R32,339,79,0,,2,Facundo Bagnis,Hernan Casanova,6-2 6-2,0.64,1.7%,1.7%,80.0%,47.9%,41.7%,6/11,40.7%,34.0%,9.4%,19.4%,64.7%,1/7,113,1,1,60,48,12,5,1:26
+25-Oct-2021,Lima 2 CH,3,Clay,R32,333,145,0,Q,10,Tomas Barrios Vera,Hernan Casanova,6-4 6-2,0.60,0.0%,0.0%,71.4%,62.2%,22.2%,3/7,41.2%,29.4%,3.9%,14.7%,58.8%,1/4,114,0,0,63,45,18,2,1:21
+25-Oct-2021,Lima 2 CH,3,Clay,Q2,333,715,1,1,8,Hernan Casanova,Jean Thirouin,6-3 6-2,1.58,0.0%,1.9%,84.6%,70.5%,75.0%,1/1,57.9%,45.5%,1.8%,40.5%,55.6%,3/7,107,0,1,52,44,8,1,1:26
+25-Oct-2021,Lima 2 CH,3,Clay,Q1,333,949,1,1,Alt,Hernan Casanova,Bart Stevens,6-3 6-2,1.49,0.0%,2.3%,77.3%,64.7%,70.0%,1/3,57.3%,50.8%,3.4%,41.2%,64.0%,5/10,103,0,1,44,34,10,2,0:58
+18-Oct-2021,Buenos Aires CH,3,Clay,R32,331,92,0,,1,Thiago Monteiro,Hernan Casanova,7-6(7) 3-6 6-2,0.82,1.0%,0.0%,74.0%,58.1%,53.8%,6/11,46.8%,35.2%,5.7%,33.3%,38.2%,5/11,188,1,0,100,74,26,5,2:37
+11-Oct-2021,Santiago 2 CH,3,Clay,R16,340,109,0,Alt,2,Francisco Cerundolo,Hernan Casanova,6-2 7-5,0.80,0.0%,2.9%,64.7%,63.6%,33.3%,6/11,45.7%,37.7%,4.9%,32.6%,50.0%,2/4,129,0,2,68,44,24,3,
+11-Oct-2021,Santiago 2 CH,3,Clay,R32,340,334,1,Alt,Alt,Hernan Casanova,Nick Chappell,6-3 6-4,1.21,1.4%,2.9%,68.1%,76.6%,22.7%,4/7,54.7%,49.2%,5.1%,34.4%,66.7%,5/10,128,1,2,69,47,22,3,
+4-Oct-2021,Santiago 1 CH,3,Clay,R32,340,127,0,Alt,3,Juan Pablo Varillas,Hernan Casanova,7-6(8) 7-6(7),0.83,0.0%,0.0%,68.1%,70.3%,43.3%,2/4,47.3%,31.8%,9.1%,13.2%,60.0%,2/5,182,0,0,94,64,30,8,
+6-Sep-2021,M25 Eupen,3,Clay,R32,345,771,0,1,Q,Arthur Fery,Hernan Casanova,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Ricany,3,Clay,R16,345,390,0,2,,Yshai Oliel,Hernan Casanova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Ricany,3,Clay,R32,345,,1,2,Q,Hernan Casanova,Marcelo Zormann Da Silva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,Prague 3 CH,3,Clay,R32,343,291,0,,1,Evgeny Karlovskiy,Hernan Casanova,6-2 6-3,0.52,0.0%,3.4%,62.7%,54.1%,45.5%,6/10,40.2%,25.6%,4.7%,23.3%,30.8%,1/1,102,0,2,59,37,22,2,1:04
+16-Aug-2021,Verona CH,3,Clay,Q1,341,392,0,8,,Petros Chrysochos,Hernan Casanova,4-6 6-4 6-1,0.68,0.0%,5.2%,74.2%,58.3%,44.0%,8/12,44.0%,30.8%,3.8%,25.4%,47.4%,2/6,175,0,5,97,72,25,3,
+2-Aug-2021,M25 Pitesti,3,Clay,F,342,277,0,2,1,Chun Hsin Tseng,Hernan Casanova,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Pitesti,3,Clay,SF,342,474,1,2,6,Hernan Casanova,Nicholas David Ionel,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Pitesti,3,Clay,QF,342,467,1,2,5,Hernan Casanova,Marko Tepavac,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Pitesti,3,Clay,R16,342,586,1,2,,Hernan Casanova,Valentin Royer,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Pitesti,3,Clay,R32,342,870,1,2,,Hernan Casanova,Calin Manda,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2021,Trieste CH,3,Clay,Q2,342,325,0,6,3,Pedro Sakamoto,Hernan Casanova,6-4 7-6(3),0.86,1.3%,5.3%,70.7%,50.9%,27.3%,8/15,46.3%,48.3%,2.3%,39.6%,61.8%,6/13,162,1,4,75,53,22,2,2:14
+12-Jul-2021,Iasi CH,3,Clay,R16,339,385,0,Alt,Q,Miljan Zekic,Hernan Casanova,6-3 7-6(3),0.90,0.0%,1.5%,62.7%,64.3%,52.0%,5/8,46.7%,36.1%,2.4%,21.2%,61.3%,2/8,150,0,1,67,42,25,2,2:20
+12-Jul-2021,Iasi CH,3,Clay,R32,339,279,1,Alt,,Hernan Casanova,Nino Serdarusic,6-4 6-4,1.40,1.8%,0.0%,82.5%,70.2%,70.0%,4/5,55.6%,41.7%,5.0%,34.4%,50.0%,3/9,117,1,0,57,47,10,3,1:38
+5-Jul-2021,M25 Velenje,3,Clay,QF,371,694,0,1,,Patrik Rikl,Hernan Casanova,6-7(3) 6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Velenje,3,Clay,R16,371,,1,1,,Hernan Casanova,Toby Alex Kodat,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Velenje,3,Clay,R32,371,,1,1,Q,Hernan Casanova,Michele Vianello,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Wroclaw,3,Clay,F,371,318,1,4,1,Hernan Casanova,Orlando Luz,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Wroclaw,3,Clay,QF,371,591,1,4,Q,Hernan Casanova,Daniel Dutra Da Silva,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Wroclaw,3,Clay,R16,371,896,1,4,Q,Hernan Casanova,Illia Biloborodko,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Wroclaw,3,Clay,R32,371,854,1,4,LL,Hernan Casanova,Timo Stodder,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Alkmaar,3,Clay,R32,373,544,0,7,Q,Mats Rosenkranz,Hernan Casanova,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Sarajevo,3,Clay,F,389,508,1,2,6,Hernan Casanova,Matheus Pucinelli De Almeida,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Sarajevo,3,Clay,SF,389,562,1,2,8,Hernan Casanova,Joao Lucas Reis Da Silva,6-7(2) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Sarajevo,3,Clay,QF,389,542,1,2,7,Hernan Casanova,Gauthier Onclin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Sarajevo,3,Clay,R16,389,1120,1,2,Q,Hernan Casanova,Domagoj Biljesko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Sarajevo,3,Clay,R32,389,1296,1,2,Q,Hernan Casanova,Tim Heger,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Kiseljak,3,Clay,QF,391,450,0,2,7,Zsombor Piros,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Kiseljak,3,Clay,R16,391,482,1,2,,Hernan Casanova,David Pichler,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Kiseljak,3,Clay,R32,391,526,1,2,,Hernan Casanova,Bastian Malla,4-6 6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,F,393,1033,0,1,,Timo Legout,Hernan Casanova,6-4 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,SF,393,451,1,1,4,Hernan Casanova,Zsombor Piros,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,QF,393,885,1,1,,Hernan Casanova,Peter Fajta,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,R16,393,683,1,1,,Hernan Casanova,Simone Roncalli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Sibenik,3,Clay,R32,393,606,1,1,,Hernan Casanova,Arthur Reymond,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,Salinas 2 CH,3,Hard,R32,393,403,0,Q,Q,Gonzalo Villanueva,Hernan Casanova,7-5 6-0,0.54,0.0%,1.8%,73.7%,40.5%,53.3%,4/10,37.3%,30.2%,11.3%,31.0%,27.3%,2/4,110,0,1,57,42,15,6,1:22
+26-Apr-2021,Salinas 2 CH,3,Hard,Q2,393,429,1,2,5,Hernan Casanova,Marek Gengel,3-6 6-4 7-5,1.01,0.0%,2.1%,71.1%,65.2%,46.4%,5/9,50.3%,40.4%,3.2%,33.8%,57.7%,4/12,191,0,2,97,69,28,3,2:08
+26-Apr-2021,Salinas 2 CH,3,Hard,Q1,393,567,1,2,WC,Hernan Casanova,Wilson Leite,7-5 6-2,1.56,0.0%,3.8%,67.9%,75.0%,52.9%,2/4,57.5%,50.0%,2.7%,46.9%,56.0%,5/14,127,0,2,53,36,17,2,1:36
+19-Apr-2021,Salinas 1 CH,3,Hard,R16,395,465,0,,,Nicolas Mejia,Hernan Casanova,6-1 6-2,0.37,0.0%,0.0%,54.8%,43.5%,42.1%,1/6,32.5%,21.1%,2.6%,21.4%,20.0%,1/1,80,0,0,42,23,19,1,0:56
+19-Apr-2021,Salinas 1 CH,3,Hard,R32,395,184,1,,3,Hernan Casanova,Emilio Gomez,6-4 3-6 6-2,1.33,0.0%,1.4%,87.7%,70.3%,66.7%,1/2,53.3%,40.2%,3.3%,26.8%,61.1%,3/10,165,0,1,73,64,9,3,1:57
+29-Mar-2021,M15 Villa Maria,3,Clay,SF,378,699,0,2,Q,Nicolas Kicker,Hernan Casanova,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Villa Maria,3,Clay,QF,378,533,1,2,6,Hernan Casanova,Mariano Kestelboim,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Villa Maria,3,Clay,R16,378,599,1,2,,Hernan Casanova,Tomas Lipovsek Puches,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Villa Maria,3,Clay,R32,378,1677,1,2,WC,Hernan Casanova,Valerio Aboian,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,Acapulco,3,Hard,Q1,376,154,0,,,Tallon Griekspoor,Hernan Casanova,7-5 4-6 6-2,0.91,0.9%,3.7%,61.7%,65.2%,36.6%,7/13,48.1%,41.7%,4.9%,38.7%,46.3%,4/15,210,1,4,107,66,41,5,
+8-Mar-2021,Santiago,3,Clay,Q2,378,223,0,,,Renzo Olivo,Hernan Casanova,6-7(4) 6-2 6-3,0.75,0.0%,1.1%,60.7%,57.4%,45.7%,2/8,44.1%,35.2%,9.1%,29.0%,50.0%,3/4,177,0,1,89,54,35,8,2:15
+8-Mar-2021,Santiago,3,Clay,Q1,378,213,1,,7,Hernan Casanova,Andrea Collarini,4-6 6-3 6-2,1.28,1.3%,0.0%,66.2%,74.5%,57.7%,2/4,54.2%,39.7%,5.1%,21.7%,65.6%,4/7,155,1,0,77,51,26,4,
+1-Mar-2021,Buenos Aires,3,Clay,Q1,372,279,0,WC,,Guilherme Clezar,Hernan Casanova,1-6 6-3 6-3,0.94,2.6%,1.3%,83.1%,48.4%,69.2%,7/13,48.5%,45.3%,2.3%,46.2%,44.1%,5/9,163,2,1,77,64,13,2,
+22-Feb-2021,Cordoba,3,Clay,Q1,369,211,0,,,Andrea Collarini,Hernan Casanova,6-2 7-6(3),0.61,0.0%,1.2%,81.5%,51.5%,66.7%,5/9,43.5%,28.1%,3.5%,22.6%,34.6%,2/4,138,0,1,81,66,15,2,
+14-Feb-2021,Concepcion CH,3,Clay,R16,379,112,0,Q,4,Hugo Dellien,Hernan Casanova,6-1 6-3,0.57,0.0%,0.0%,73.9%,47.1%,33.3%,6/11,37.5%,32.0%,0.0%,27.8%,42.9%,1/5,96,0,0,46,34,12,0,1:02
+14-Feb-2021,Concepcion CH,3,Clay,R32,379,323,1,Q,,Hernan Casanova,Christian Lindell,3-6 7-5 6-1,1.15,0.0%,0.0%,79.1%,57.4%,61.1%,7/12,53.3%,48.1%,2.5%,37.0%,63.6%,7/10,165,0,0,86,68,18,2,
+14-Feb-2021,Concepcion CH,3,Clay,Q2,379,400,1,3,6,Hernan Casanova,Facundo Diaz Acosta,7-5 6-0,1.40,0.0%,3.4%,81.0%,55.3%,72.7%,3/6,58.3%,57.9%,0.0%,42.9%,72.4%,7/12,115,0,2,58,47,11,0,
+14-Feb-2021,Concepcion CH,3,Clay,Q1,379,1177,1,3,WC,Hernan Casanova,Daniel Antonio Nunez,7-6(3) 6-1,1.42,1.5%,3.0%,68.7%,69.6%,61.9%,4/6,57.5%,46.7%,3.3%,36.4%,59.3%,4/6,127,1,2,67,46,21,2,
+7-Feb-2021,Biella 1 CH,3,Hard,Q1,379,519,0,8,WC,Giovanni Fonio,Hernan Casanova,6-3 6-3,0.81,1.9%,1.9%,62.3%,60.6%,45.0%,4/8,44.8%,36.5%,7.9%,30.8%,45.8%,1/7,116,1,1,53,33,20,5,1:07
+25-Jan-2021,M15 Cairo,3,Clay,R32,376,723,0,2,Q,Alejo Lorenzo Lingua Lavallen,Hernan Casanova,4-6 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R16,376,657,0,2,SE,Carlos Sanchez Jover,Hernan Casanova,5-7 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R32,376,683,1,2,Q,Hernan Casanova,Quentin Folliot,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,Guayaquil CH,3,Clay,R32,378,103,0,Q,2,Roberto Carballes Baena,Hernan Casanova,5-0 RET,0.63,0.0%,0.0%,61.1%,45.5%,28.6%,1/3,38.5%,38.2%,8.8%,21.7%,72.7%,0/2,52,0,0,18,11,7,3,0:36
+16-Nov-2020,Guayaquil CH,3,Clay,Q2,378,786,1,6,PR,Hernan Casanova,Gonzalo Lama,4-6 7-5 7-6(4),0.93,0.8%,1.6%,79.5%,63.9%,48.0%,11/15,49.6%,36.5%,13.5%,29.8%,44.7%,4/6,226,1,2,122,97,25,14,2:51
+16-Nov-2020,Guayaquil CH,3,Clay,Q1,378,502,1,6,Alt,Hernan Casanova,Rafael Matos,6-3 6-3,1.19,0.0%,0.0%,75.4%,65.2%,46.7%,7/9,54.6%,46.8%,0.0%,42.4%,57.1%,5/7,108,0,0,61,46,15,0,1:08
+2-Mar-2020,M25 Hurlingham,3,Clay,SF,364,371,0,4,5,Juan Manuel Cerundolo,Hernan Casanova,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M25 Hurlingham,3,Clay,QF,364,576,1,4,,Hernan Casanova,Nicolas Alberto Arreche,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M25 Hurlingham,3,Clay,R16,364,794,1,4,Q,Hernan Casanova,Mariano Navone,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M25 Hurlingham,3,Clay,R32,364,784,1,4,,Hernan Casanova,Juan Bautista Otegui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R16,358,595,0,4,,Santiago Fa Rodriguez Taverna,Hernan Casanova,4-6 6-4 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R32,358,626,1,4,,Hernan Casanova,Joao Pedro Sorgi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,Buenos Aires,3,Clay,Q2,366,129,0,WC,6,Jozef Kovalik,Hernan Casanova,6-2 6-1,0.50,0.0%,2.0%,70.0%,34.3%,66.7%,4/9,36.6%,27.9%,11.6%,23.3%,38.5%,1/2,93,0,1,50,35,15,5,1:04
+10-Feb-2020,Buenos Aires,3,Clay,Q1,366,89,1,WC,1,Hernan Casanova,Alejandro Davidovich Fokina,6-4 6-2,1.44,0.0%,2.0%,66.7%,70.6%,52.9%,3/5,56.8%,50.7%,4.5%,42.9%,64.0%,5/11,118,0,1,51,34,17,3,1:09
+27-Jan-2020,Punta Del Este CH,3,Clay,R16,376,105,0,,3,Andrej Martin,Hernan Casanova,6-4 6-0,0.47,0.0%,0.0%,81.1%,46.5%,40.0%,1/6,37.0%,25.6%,5.1%,26.9%,23.1%,1/2,92,0,0,53,43,10,2,1:06
+27-Jan-2020,Punta Del Este CH,3,Clay,R32,376,205,1,,15,Hernan Casanova,Thiago Seyboth Wild,6-4 1-6 6-1,1.08,2.9%,2.9%,74.3%,59.6%,50.0%,4/8,51.3%,46.4%,3.6%,37.2%,56.1%,5/11,154,2,2,70,52,18,3,2:06
+27-Jan-2020,Punta Del Este CH,3,Clay,R64,376,541,1,,Q,Hernan Casanova,Gilbert Soares Klier Junior,3-6 6-4 5-0 RET,1.28,0.0%,0.0%,75.8%,64.0%,68.8%,3/6,55.0%,44.4%,4.8%,35.1%,57.7%,5/10,129,0,0,66,50,16,3,1:52
+25-Nov-2019,M15 Maldonado,3,Clay,R32,381,,0,,Q,Thiago Cigarran,Hernan Casanova,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Antalya,3,Clay,QF,386,578,0,,8,Alvaro Lopez San Martin,Hernan Casanova,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Antalya,3,Clay,R16,386,1099,1,,,Hernan Casanova,Tomas Farjat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Antalya,3,Clay,R32,386,1070,1,,Q,Hernan Casanova,Karlo Kranic,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,F,382,417,0,,2,Dimitar Kuzmanov,Hernan Casanova,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,SF,382,1150,1,,WC,Hernan Casanova,Luka Pavlovic,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,QF,382,786,1,,,Hernan Casanova,Maxim Ratniuk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,R16,382,1102,1,,,Hernan Casanova,Tomas Farjat,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,R32,382,1007,1,,,Hernan Casanova,Yanki Erel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Junin,3,Clay,F,393,514,1,,3,Hernan Casanova,Juan Manuel Cerundolo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Junin,3,Clay,SF,393,531,1,,,Hernan Casanova,Juan Ignacio Galarza,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Junin,3,Clay,QF,393,772,1,,6,Hernan Casanova,Guido Ivan Justo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Junin,3,Clay,R16,393,1364,1,,,Hernan Casanova,Santiago Besada,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Junin,3,Clay,R32,393,1113,1,,,Hernan Casanova,Daniil Zarichanskyy,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,Buenos Aires CH,3,Clay,R32,390,265,0,,12,Jose Hernandez,Hernan Casanova,7-5 6-2,0.76,0.0%,0.0%,77.4%,60.4%,28.6%,2/6,43.3%,35.4%,1.3%,29.3%,52.4%,1/10,141,0,0,62,48,14,1,1:33
+23-Sep-2019,Buenos Aires CH,3,Clay,R64,390,373,1,,,Hernan Casanova,Guilherme Clezar,6-1 6-3,1.44,0.0%,1.9%,77.8%,66.7%,66.7%,2/2,57.5%,48.1%,0.0%,41.0%,69.2%,4/9,106,0,1,54,42,12,0,1:10
+16-Sep-2019,Biella CH,3,Clay,R32,394,196,0,,12,Marco Trungelliti,Hernan Casanova,5-7 6-3 6-4,0.87,0.9%,4.3%,74.4%,57.5%,40.0%,13/19,47.6%,41.1%,7.4%,19.2%,67.4%,5/14,212,1,5,117,87,30,7,2:23
+16-Sep-2019,Biella CH,3,Clay,R64,394,351,1,,,Hernan Casanova,Christian Lindell,6-1 7-6(8),1.26,0.0%,0.0%,88.2%,64.2%,66.7%,3/5,54.5%,44.9%,9.0%,27.9%,65.7%,4/7,154,0,0,76,67,9,7,
+9-Sep-2019,Seville CH,3,Clay,R64,389,424,0,,,Maxime Chazal,Hernan Casanova,7-5 6-0,0.70,0.0%,0.0%,91.5%,46.5%,25.0%,4/10,41.5%,39.0%,0.0%,34.2%,47.6%,2/5,106,0,0,47,43,4,0,
+2-Sep-2019,M15 Szekesfehervar,3,Clay,R32,405,590,0,2,,Kirill Kivattsev,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Gyor,3,Clay,QF,405,1120,0,,,Lenny Hampel,Hernan Casanova,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Gyor,3,Clay,R16,405,791,1,,,Hernan Casanova,Fabian Marozsan,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Gyor,3,Clay,R32,405,515,1,,,Hernan Casanova,Aldin Setkic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Curtea de Arges,3,Clay,F,402,684,0,,,Mircea Alexandru Jecan,Hernan Casanova,3-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Curtea de Arges,3,Clay,SF,402,519,1,,,Hernan Casanova,Alexandar Lazarov,4-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Curtea de Arges,3,Clay,QF,402,801,1,,,Hernan Casanova,Gabriel Donev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Curtea de Arges,3,Clay,R16,402,744,1,,,Hernan Casanova,Oleg Prihodko,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Curtea de Arges,3,Clay,R32,402,1332,1,,WC,Hernan Casanova,Cezar Cretu,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Pitesti,3,Clay,R16,411,683,0,,,Filip Cristian Jianu,Hernan Casanova,7-6(8) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Pitesti,3,Clay,R32,411,1302,1,,Q,Hernan Casanova,Stefan Palosi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Targu Mures,3,Clay,F,445,711,0,2,7,Marko Tepavac,Hernan Casanova,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Targu Mures,3,Clay,SF,445,1057,1,2,,Hernan Casanova,Vasile Antonescu,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Targu Mures,3,Clay,QF,445,1310,1,2,,Hernan Casanova,Stefan Palosi,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Targu Mures,3,Clay,R16,445,861,1,2,,Hernan Casanova,Dan Alexandru Tomescu,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Targu Mures,3,Clay,R32,445,1243,1,2,,Hernan Casanova,Valentin Vanta,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Chitila,3,Clay,F,536,,1,,,Hernan Casanova,Bogdan Ionut Apostol,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Chitila,3,Clay,SF,536,,1,,7,Hernan Casanova,Facundo Juarez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Chitila,3,Clay,QF,536,,1,,6,Hernan Casanova,Marko Tepavac,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Chitila,3,Clay,R16,536,,1,,,Hernan Casanova,Hugo Schott,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M15 Chitila,3,Clay,R32,536,,1,,,Hernan Casanova,Marat Deviatiarov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Buenos Aires,3,Clay,SF,541,649,0,,7,Genaro Alberto Olivieri,Hernan Casanova,4-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Buenos Aires,3,Clay,QF,541,,1,,,Hernan Casanova,Juan Bautista Otegui,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Buenos Aires,3,Clay,R16,541,,1,,,Hernan Casanova,Luciano Carraro,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M15 Buenos Aires,3,Clay,R32,541,,1,,,Hernan Casanova,Tomas Farjat,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Buenos Aires,3,Clay,QF,541,473,0,,2,Francisco Cerundolo,Hernan Casanova,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Buenos Aires,3,Clay,R16,541,,1,,LL,Hernan Casanova,Enrique Bogo,6-1 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Buenos Aires,3,Clay,R32,541,649,1,,,Hernan Casanova,Genaro Alberto Olivieri,1-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Curitiba,3,Clay,QF,541,643,0,,5,Joao Pedro Sorgi,Hernan Casanova,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Curitiba,3,Clay,R16,541,,1,,,Hernan Casanova,Alex Blumenberg,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Curitiba,3,Clay,R32,541,,1,,Q,Hernan Casanova,Gabriel Ciro Da Silva,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Sao Jose do Rio Preto,3,Clay,QF,544,,0,2,,Rafael Matos,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Sao Jose do Rio Preto,3,Clay,R16,544,,1,2,,Hernan Casanova,Facundo Juarez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Sao Jose do Rio Preto,3,Clay,R32,544,,1,2,,Hernan Casanova,Igor Ribeiro Marcondes,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Vic,3,Clay,QF,521,571,0,,JE,Facundo Diaz Acosta,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Vic,3,Clay,R16,521,,1,,,Hernan Casanova,Nicolas Uryson,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Vic,3,Clay,R32,521,391,1,,5,Hernan Casanova,Javier Barranco Cosano,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,Heilbronn CH,3,Clay,R32,593,118,0,ITF,9,Elias Ymer,Hernan Casanova,6-3 6-0,0.66,2.0%,0.0%,74.5%,42.1%,46.2%,4/9,40.0%,37.3%,3.4%,31.8%,53.3%,1/5,110,1,0,51,38,13,2,1:04
+13-May-2019,Heilbronn CH,3,Clay,R64,593,425,1,ITF,ITF,Hernan Casanova,Arthur Rinderknech,3-6 6-3 6-2,1.21,0.0%,1.3%,81.0%,67.2%,53.3%,2/4,53.3%,43.0%,7.0%,33.3%,57.1%,4/15,165,0,1,79,64,15,6,1:55
+6-May-2019,Rome CH,3,Clay,R32,675,192,0,ITF,11,Roberto Marcora,Hernan Casanova,6-2 1-6 6-2,0.89,1.3%,0.0%,79.7%,49.2%,43.8%,2/8,47.2%,46.3%,2.5%,42.0%,53.3%,5/10,159,1,0,79,63,16,2,1:52
+6-May-2019,Rome CH,3,Clay,R64,675,338,1,ITF,,Hernan Casanova,Danilo Petrovic,6-4 4-6 6-2,1.15,0.0%,1.2%,81.7%,55.2%,66.7%,6/11,52.7%,49.1%,4.7%,37.7%,64.4%,7/11,188,0,1,82,67,15,5,2:03
+29-Apr-2019,M15 Buenos Aires,3,Clay,SF,597,560,0,2,3,Agustin Velotti,Hernan Casanova,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Buenos Aires,3,Clay,QF,597,,1,2,,Hernan Casanova,Mariano Kestelboim,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Buenos Aires,3,Clay,R16,597,,1,2,,Hernan Casanova,Conner Huertas Del Pino,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Buenos Aires,3,Clay,R32,597,,1,2,,Hernan Casanova,Juan Bautista Torres,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,F,556,580,1,,7,Hernan Casanova,Juan Ignacio Galarza,6-7(2) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,SF,556,644,1,,,Hernan Casanova,Tomas Martin Etcheverry,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,QF,556,472,1,,3,Hernan Casanova,Manuel Pena Lopez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R16,556,,1,,,Hernan Casanova,Roman Andres Burruchaga,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R32,556,644,1,,,Hernan Casanova,Genaro Alberto Olivieri,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,F,556,644,1,,,Hernan Casanova,Tomas Martin Etcheverry,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,SF,556,,1,,,Hernan Casanova,Mateo Nicolas Martinez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,QF,556,,1,,,Hernan Casanova,Santiago Fa Rodriguez Taverna,3-6 6-3 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R16,556,,1,,,Hernan Casanova,Facundo Juarez,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R32,556,,1,,,Hernan Casanova,Juan Bautista Otegui,7-6(4) 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Antalya,3,Clay,QF,479,501,0,4,,Pietro Rondoni,Hernan Casanova,4-6 7-5 RET,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Antalya,3,Clay,R16,479,523,1,4,,Hernan Casanova,Sebastian Korda,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Antalya,3,Clay,R32,479,,1,4,,Hernan Casanova,Bekir Berk Sahin,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Antalya,3,Clay,SF,446,374,0,,,Dmitry Popko,Hernan Casanova,6-2 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Antalya,3,Clay,QF,446,536,1,,8,Hernan Casanova,Pavel Nejedly,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Antalya,3,Clay,R16,446,,1,,,Hernan Casanova,Edris Fetisleam,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Antalya,3,Clay,R32,446,,1,,Q,Hernan Casanova,Mircea Alexandru Jecan,6-2 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,R16,448,,0,,,Davide Galoppini,Hernan Casanova,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Antalya,3,Clay,R32,448,,1,,WC,Hernan Casanova,Klim Ivanov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,F,448,386,0,,2,Oriol Roca Batalla,Hernan Casanova,7-6(7) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,SF,448,671,1,,,Hernan Casanova,Johan Nikles,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,QF,448,,1,,WC,Hernan Casanova,Sergi Perez Contri,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,R16,448,,1,,,Hernan Casanova,Carlos Lopez Montagud,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,R32,448,639,1,,,Hernan Casanova,Eduard Esteve Lobato,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,Punta Del Este CH,3,Clay,R64,447,312,0,ITF,,Renzo Olivo,Hernan Casanova,6-4 7-6(5),0.90,0.0%,1.4%,69.6%,54.2%,52.4%,0/4,47.6%,41.9%,4.1%,19.4%,63.2%,3/10,143,0,1,69,48,21,3,1:44
+12-Nov-2018,Buenos Aires CH,3,Clay,Q2,343,655,0,6,,Joao Pedro Sorgi,Hernan Casanova,6-1 6-4,0.82,0.0%,1.7%,64.4%,42.1%,42.9%,4/11,44.5%,47.1%,2.0%,28.0%,65.4%,3/4,110,0,1,59,38,21,1,1:14
+5-Nov-2018,Argentina F8,3,Clay,R16,374,810,0,,,Maximiliano Estevez,Hernan Casanova,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Argentina F8,3,Clay,R32,374,897,1,,,Hernan Casanova,Michel Vernier,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Argentina F7,3,Clay,F,374,574,1,,4,Hernan Casanova,Manuel Pena Lopez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Argentina F7,3,Clay,SF,374,1089,1,,,Hernan Casanova,Conner Huertas Del Pino,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Argentina F7,3,Clay,QF,374,776,1,,8,Hernan Casanova,Agustin Velotti,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Argentina F7,3,Clay,R16,374,,1,,Q,Hernan Casanova,Jeremias Rocco,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Argentina F7,3,Clay,R32,374,,1,,WC,Hernan Casanova,Mateo Labuckas,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Santo Domingo CH,3,Clay,Q1,375,494,0,,,Nicolas Alvarez,Hernan Casanova,6-0 3-0 RET,0.45,0.0%,0.0%,73.3%,31.8%,37.5%,1/5,31.7%,30.3%,9.1%,31.6%,28.6%,0/6,63,0,0,30,22,8,3,0:47
+1-Oct-2018,Campinas CH,3,Clay,R32,364,310,0,,,Martin Cuevas,Hernan Casanova,6-2 7-5,0.48,0.0%,0.0%,62.5%,60.0%,47.6%,3/7,39.8%,21.3%,17.0%,15.8%,25.0%,1/2,103,0,0,56,35,21,8,1:13
+17-Sep-2018,Argentina F6,3,Clay,R32,371,727,0,2,,Geronimo Espin Busleiman,Hernan Casanova,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Cordenons CH,3,Clay,R32,313,247,0,,,Joao Domingues,Hernan Casanova,6-0 6-2,0.45,0.0%,1.7%,61.0%,50.0%,39.1%,7/12,37.0%,24.4%,12.2%,16.7%,35.3%,0/3,100,0,1,59,36,23,5,1:05
+6-Aug-2018,Italy F22,3,Clay,R16,285,625,0,,,Gonzalo Villanueva,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Italy F22,3,Clay,R32,285,475,1,,,Hernan Casanova,Riccardo Balzerani,6-3 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Italy F21,3,Clay,R32,272,520,0,,,Davide Galoppini,Hernan Casanova,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,QF,279,609,0,2,,Tak Khunn Wang,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R16,279,505,1,2,,Hernan Casanova,Pascal Meis,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,France F12,3,Clay,R32,279,781,1,2,,Hernan Casanova,Raphael Baltensperger,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Milan CH,3,Clay,R32,281,206,0,,7,Gianluigi Quinzi,Hernan Casanova,6-4 6-4,0.79,0.0%,1.4%,71.4%,54.0%,45.0%,9/14,44.9%,38.2%,2.9%,34.3%,42.4%,3/8,138,0,1,70,50,20,2,1:38
+18-Jun-2018,L'Aquila CH,3,Clay,R32,260,138,0,,5,Thiago Monteiro,Hernan Casanova,6-3 6-2,0.49,0.0%,1.4%,72.2%,50.0%,60.0%,9/12,40.8%,22.9%,4.2%,6.7%,50.0%,0/1,120,0,1,72,52,20,2,1:22
+11-Jun-2018,Almaty CH,3,Clay,R32,258,187,0,,6,Nikola Milojevic,Hernan Casanova,6-2 6-3,0.69,0.0%,5.7%,47.2%,60.0%,35.7%,6/11,41.4%,36.2%,6.9%,26.3%,55.0%,2/6,111,0,3,53,25,28,4,1:11
+4-Jun-2018,Shymkent CH,3,Clay,R32,265,272,0,,,Aleksandr Nedovyesov,Hernan Casanova,6-0 6-1,0.44,0.0%,5.7%,65.7%,34.8%,25.0%,3/8,30.9%,30.4%,4.3%,23.3%,43.8%,0/2,81,0,2,35,23,12,2,0:54
+28-May-2018,Romania F2,3,Clay,SF,265,785,0,,Q,Bogdan Ionut Apostol,Hernan Casanova,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Romania F2,3,Clay,QF,265,457,1,,8,Hernan Casanova,Dragos Dima,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Romania F2,3,Clay,R16,265,623,1,,,Hernan Casanova,Olexiy Kolisnyk,7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Romania F2,3,Clay,R32,265,887,1,,Q,Hernan Casanova,Petru Alexandru Luncanu,6-7(2) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Mestre CH,3,Clay,R32,255,318,0,,WC,Filippo Baldi,Hernan Casanova,6-3 6-2,0.64,0.0%,1.8%,59.6%,55.9%,43.5%,7/11,41.0%,31.7%,1.7%,24.4%,53.3%,1/5,117,0,1,57,34,23,1,1:14
+14-May-2018,Heilbronn CH,3,Clay,Q2,257,659,0,1,,Miliaan Niesten,Hernan Casanova,6-1 7-5,0.85,0.0%,1.8%,78.9%,46.7%,25.0%,4/11,46.1%,49.3%,1.4%,39.1%,68.0%,4/14,128,0,1,57,45,12,1,1:22
+23-Apr-2018,Italy F9,3,Clay,F,285,503,1,,,Hernan Casanova,Adrian Bodmer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,SF,285,496,1,,Q,Hernan Casanova,Elmar Ejupovic,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,QF,285,425,1,,7,Hernan Casanova,Juan Pablo Paz,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,R16,285,451,1,,,Hernan Casanova,Alessandro Petrone,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,R32,285,1015,1,,LL,Hernan Casanova,Marco Miceli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,F,282,237,1,4,,Hernan Casanova,Andrea Collarini,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,SF,282,345,1,4,,Hernan Casanova,Filip Horansky,7-6(3) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,QF,282,453,1,4,,Hernan Casanova,Bruno Santanna,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,R16,282,760,1,4,Q,Hernan Casanova,Antoine Bellier,7-6(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,R32,282,733,1,4,,Hernan Casanova,Giovanni Fonio,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Italy F7,3,Clay,R16,278,408,0,6,,Gianluca Mager,Hernan Casanova,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Italy F7,3,Clay,R32,278,909,1,6,,Hernan Casanova,Facundo Juarez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Italy F6,3,Clay,R16,289,644,0,3,Q,Billy Harris,Hernan Casanova,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Italy F6,3,Clay,R32,289,994,1,3,,Hernan Casanova,Alexander Weis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,F,296,384,0,,2,Patricio Heras,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,SF,296,391,1,,,Hernan Casanova,Mariano Kestelboim,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,QF,296,508,1,,7,Hernan Casanova,Tomas Lipovsek Puches,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,R16,296,917,1,,,Hernan Casanova,Francois Arthur Vibert,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Tunisia F12,3,Clay,R32,296,,1,,Q,Hernan Casanova,Edoardo Lavagno,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Tunisia F11,3,Clay,R32,296,1006,0,2,,Alen Avidzba,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Tunisia F10,3,Clay,SF,304,401,0,,8,Oriol Roca Batalla,Hernan Casanova,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Tunisia F10,3,Clay,QF,304,394,1,,7,Hernan Casanova,Mariano Kestelboim,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Tunisia F10,3,Clay,R16,304,514,1,,,Hernan Casanova,Alexander Vasilenko,7-6(3) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Tunisia F10,3,Clay,R32,304,547,1,,,Hernan Casanova,Tomislav Jotovski,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Santiago CH,3,Clay,R16,304,104,0,LL,3,Rogerio Dutra Silva,Hernan Casanova,6-3 6-4,0.69,0.0%,1.4%,63.8%,56.8%,40.0%,12/16,43.0%,33.9%,3.4%,20.5%,60.0%,2/3,128,0,1,69,44,25,2,1:26
+5-Mar-2018,Santiago CH,3,Clay,R32,304,795,1,LL,WC,Hernan Casanova,Alejandro Tabilo,7-5 3-6 6-4,0.94,0.0%,4.6%,71.3%,59.7%,35.5%,12/18,48.8%,44.6%,4.0%,35.5%,59.0%,6/11,209,0,5,108,77,31,4,2:08
+5-Mar-2018,Santiago CH,3,Clay,Q3,304,289,0,,,Facundo Arguello,Hernan Casanova,6-2 6-2,0.63,0.0%,8.3%,63.3%,47.4%,45.5%,5/10,40.4%,33.3%,1.9%,25.7%,47.4%,1/6,114,0,5,60,38,22,1,1:20
+5-Mar-2018,Santiago CH,3,Clay,Q2,304,238,1,,,Hernan Casanova,Javier Marti,5-7 4-0 RET,1.06,0.0%,0.0%,76.1%,51.4%,63.6%,2/5,51.0%,48.3%,0.0%,40.0%,66.7%,4/8,104,0,0,46,35,11,0,1:10
+5-Mar-2018,Santiago CH,3,Clay,Q1,304,1115,1,,WC,Hernan Casanova,Michel Vernier,3-6 6-4 7-6(2),0.97,0.0%,3.8%,67.0%,64.8%,51.4%,10/14,50.0%,38.5%,4.2%,36.5%,42.4%,4/5,202,0,4,106,71,35,4,2:16
+26-Feb-2018,Punta Del Este CH,3,Clay,Q2,306,727,0,1,,Santiago Fa Rodriguez Taverna,Hernan Casanova,7-6(1) 5-7 7-6(5),1.03,0.9%,4.3%,69.2%,49.4%,55.6%,11/19,50.8%,50.4%,2.4%,36.8%,71.4%,9/19,242,1,5,117,81,36,3,2:40
+12-Feb-2018,Buenos Aires,3,Clay,Q2,315,137,0,WC,4,Thomaz Bellucci,Hernan Casanova,6-2 6-4,0.60,0.0%,1.3%,71.1%,53.7%,40.9%,8/12,41.4%,29.8%,1.8%,20.5%,50.0%,1/9,133,0,1,76,54,22,1,1:30
+12-Feb-2018,Buenos Aires,3,Clay,Q1,315,151,1,WC,8,Hernan Casanova,Alessandro Giannessi,7-6(5) 6-4,0.97,0.0%,2.6%,80.8%,71.4%,20.0%,3/5,50.0%,37.1%,1.4%,24.4%,55.2%,3/6,148,0,2,78,63,15,1,1:42
+27-Nov-2017,Argentina F11,3,Clay,F,319,391,0,3,,Martin Cuevas,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,SF,319,814,1,3,,Hernan Casanova,Manuel Pena Lopez,6-2 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,QF,319,414,1,3,,Hernan Casanova,Juan Pablo Paz,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R16,319,1118,1,3,,Hernan Casanova,Alejo Vilaro,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R32,319,1270,1,3,,Hernan Casanova,Mateo Nicolas Martinez,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Rio De Janeiro CH,3,Clay,R32,319,369,0,,,Juan Ignacio Londero,Hernan Casanova,6-2 6-2,0.73,0.0%,0.0%,77.4%,39.6%,42.9%,2/9,41.7%,43.4%,5.7%,27.3%,54.8%,3/4,115,0,0,62,48,14,3,1:17
+13-Nov-2017,Argentina F9,3,Clay,R16,319,1195,0,,,Geronimo Espin Busleiman,Hernan Casanova,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Argentina F9,3,Clay,R32,319,1597,1,,Q,Hernan Casanova,Juan Bautista Otegui,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Buenos Aires CH,3,Clay,R32,335,224,0,WC,,Jaume Munar,Hernan Casanova,7-6(4) 7-6(1),0.89,0.0%,0.0%,86.4%,60.0%,63.6%,1/3,47.3%,35.2%,3.4%,36.8%,30.0%,2/6,169,0,0,81,70,11,3,1:48
+2-Oct-2017,Campinas CH,3,Clay,R16,342,479,0,,WC,Andre Ghem,Hernan Casanova,7-6(2) 6-2,0.72,1.4%,0.0%,81.9%,44.1%,69.2%,5/10,43.1%,36.9%,10.8%,34.1%,41.7%,3/5,137,1,0,72,59,13,7,1:23
+2-Oct-2017,Campinas CH,3,Clay,R32,342,230,1,,,Hernan Casanova,Maximo Gonzalez,6-2 0-6 7-5,0.87,1.0%,1.0%,86.7%,58.8%,46.2%,8/11,48.3%,37.2%,2.6%,31.9%,45.2%,3/8,176,1,1,98,85,13,2,2:09
+11-Sep-2017,Argentina F7,3,Clay,R16,344,920,0,6,WC,Juan Ignacio Ameal,Hernan Casanova,4-6 7-6(2) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Argentina F7,3,Clay,R32,344,502,1,6,,Hernan Casanova,Matias Zukas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R16,417,700,0,5,,Franco Emanuel Egea,Hernan Casanova,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Argentina F6,3,Clay,R32,417,509,1,5,,Hernan Casanova,Genaro Alberto Olivieri,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,F,417,316,1,4,2,Hernan Casanova,Facundo Arguello,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,SF,417,2063,1,4,Q,Hernan Casanova,Tomas Martin Etcheverry,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,QF,417,782,1,4,,Hernan Casanova,Santiago Fa Rodriguez Taverna,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,R16,417,668,1,4,,Hernan Casanova,Gabriel Alejandro Hidalgo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Argentina F5,3,Clay,R32,417,1182,1,4,WC,Hernan Casanova,Facundo Juarez,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,F,419,502,1,1,3,Hernan Casanova,Nicolas Santos,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,SF,419,871,1,1,,Hernan Casanova,Camilo Ugo Carabelli,3-6 6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,QF,419,571,1,1,5,Hernan Casanova,Bastian Malla,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,R16,419,1354,1,1,WC,Hernan Casanova,Ignacio Monzon,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Argentina F4,3,Clay,R32,419,1192,1,1,,Hernan Casanova,Facundo Juarez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Romania F8,3,Clay,F,506,421,1,5,3,Hernan Casanova,Adrian Ungur,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Romania F8,3,Clay,SF,506,626,1,5,8,Hernan Casanova,Alexandar Lazarov,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Romania F8,3,Clay,QF,506,466,1,5,4,Hernan Casanova,Nicolae Frunza,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Romania F8,3,Clay,R16,506,924,1,5,,Hernan Casanova,Andrei Stefan Apostol,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Romania F8,3,Clay,R32,506,1146,1,5,,Hernan Casanova,Esteban Bruna,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Romania F7,3,Clay,F,507,548,1,1,2,Hernan Casanova,Alessandro Petrone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Romania F7,3,Clay,SF,507,625,1,1,3,Hernan Casanova,Alexandar Lazarov,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Romania F7,3,Clay,QF,507,726,1,1,7,Hernan Casanova,Bogdan Borza,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Romania F7,3,Clay,R16,507,1015,1,1,,Hernan Casanova,Davide Pontoglio,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Romania F7,3,Clay,R32,507,,1,1,Q,Hernan Casanova,Vasile Alexandru Ghilea,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,R16,474,1298,0,5,WC,Benjamin Hassan,Hernan Casanova,7-6(5) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,R32,474,927,1,5,,Hernan Casanova,Simeon Rossier,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Argentina F3,3,Clay,QF,541,566,0,8,,Juan Ignacio Galarza,Hernan Casanova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Argentina F3,3,Clay,R16,541,601,1,8,,Hernan Casanova,Felipe Mantilla,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Argentina F3,3,Clay,R32,541,1160,1,8,WC,Hernan Casanova,Eduardo Agustin Torre,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,F,571,602,1,3,8,Hernan Casanova,Juan Ignacio Galarza,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,SF,571,924,1,3,Q,Hernan Casanova,Andre Miele,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,QF,571,699,1,3,,Hernan Casanova,Franco Emanuel Egea,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R16,571,891,1,3,,Hernan Casanova,Santiago Fa Rodriguez Taverna,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Argentina F2,3,Clay,R32,571,983,1,3,Q,Hernan Casanova,Federico Moreno,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,SF,480,427,0,3,1,Tomas Lipovsek Puches,Hernan Casanova,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,QF,480,872,1,3,,Hernan Casanova,Camilo Ugo Carabelli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R16,480,1315,1,3,PR,Hernan Casanova,Alexandre Tsuchiya,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Argentina F1,3,Clay,R32,480,1317,1,3,Q,Hernan Casanova,Ignacio Monzon,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Italy F13,3,Clay,SF,528,325,0,,1,Andrea Collarini,Hernan Casanova,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Italy F13,3,Clay,QF,528,348,1,,3,Hernan Casanova,Tomislav Brkic,6-4 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Italy F13,3,Clay,R16,528,895,1,,Q,Hernan Casanova,Gian Marco Moroni,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Italy F13,3,Clay,R32,528,552,1,,6,Hernan Casanova,Antal Van Der Duim,2-2 RET,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,SF,526,589,0,5,,Boy Westerhof,Hernan Casanova,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,QF,526,1622,1,5,Q,Hernan Casanova,Davide Della Tommasina,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,R16,526,862,1,5,,Hernan Casanova,Pietro Licciardi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,R32,526,,1,5,Q,Hernan Casanova,Giovanni Cozzolino,6-0 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Spain F12,3,Clay,R32,523,552,0,,Q,Gerard Granollers,Hernan Casanova,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Spain F11,3,Clay,R32,572,717,0,,,Yibing Wu,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,F,573,385,0,,5,Matteo Viola,Hernan Casanova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,SF,573,449,1,,8,Hernan Casanova,Antoine Hoang,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,QF,573,319,1,,3,Hernan Casanova,Pedro Martinez,4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R16,573,394,1,,7,Hernan Casanova,Corentin Moutet,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R32,573,647,1,,,Hernan Casanova,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2017,Tunisia F14,3,Clay,QF,568,491,0,,8,Jules Okala,Hernan Casanova,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2017,Tunisia F14,3,Clay,R16,568,408,1,,3,Hernan Casanova,Yannick Jankovits,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2017,Tunisia F14,3,Clay,R32,568,982,1,,Q,Hernan Casanova,Loic Perret,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Spain F10,3,Clay,R32,564,1178,0,PR,Q,Paco Climent Gregori,Hernan Casanova,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Spain F9,3,Clay,R32,551,356,0,,,Roberto Ortega Olmedo,Hernan Casanova,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Croatia F3,3,Clay,R32,551,668,0,,,Fabrizio Ornago,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Croatia F2,3,Clay,R32,490,238,0,,3,Zdenek Kolar,Hernan Casanova,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Croatia F1,3,Clay,R16,490,624,0,7,,Mate Delic,Hernan Casanova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Croatia F1,3,Clay,R32,490,794,1,7,,Hernan Casanova,Tomislav Ternar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,R32,491,596,0,,,Andrea Vavassori,Hernan Casanova,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Romania F13,3,Clay,R32,315,,0,1,WC,Darius Neica,Hernan Casanova,4-6 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Romania F12,3,Clay,F,311,336,0,2,4,Dragos Dima,Hernan Casanova,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Romania F12,3,Clay,SF,311,331,1,2,3,Hernan Casanova,Maxime Chazal,6-7(5) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Romania F12,3,Clay,QF,311,404,1,2,7,Hernan Casanova,Karim Mohamed Maamoun,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Romania F12,3,Clay,R16,311,789,1,2,,Hernan Casanova,Francois Arthur Vibert,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Romania F12,3,Clay,R32,311,656,1,2,WC,Hernan Casanova,Nicolae Frunza,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Biella CH,3,Clay,Q3,312,440,0,2,7,Andrea Collarini,Hernan Casanova,2-6 6-3 6-4,1.02,0.0%,2.5%,74.1%,66.7%,57.1%,3/5,49.7%,36.4%,5.7%,25.5%,48.8%,2/7,169,0,2,81,60,21,5,2:13
+25-Jul-2016,Biella CH,3,Clay,Q2,312,988,1,2,,Hernan Casanova,Matej Sabanov,6-3 7-6(5),1.13,0.0%,0.0%,75.7%,66.0%,41.2%,3/6,53.0%,45.3%,0.0%,41.5%,52.2%,4/10,134,0,0,70,53,17,0,1:25
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,R32,309,374,0,LL,WC,Gianluigi Quinzi,Hernan Casanova,4-6 6-2 6-3,0.75,0.0%,4.5%,70.1%,46.8%,40.0%,2/9,42.9%,41.6%,3.4%,43.3%,37.9%,5/13,156,0,3,67,47,20,3,1:52
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,Q3,309,436,0,3,8,Kevin Krawietz,Hernan Casanova,4-6 6-4 7-5,0.95,0.0%,1.0%,80.0%,60.0%,50.0%,4/9,49.0%,39.8%,1.0%,37.5%,44.1%,4/10,198,0,1,100,80,20,1,2:19
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,Q2,309,1602,1,3,PR,Hernan Casanova,Alberto Brizzi,6-3 4-3 RET,1.35,0.0%,0.0%,85.7%,69.0%,85.7%,2/2,54.5%,38.5%,1.9%,28.1%,55.0%,2/3,101,0,0,49,42,7,1,1:18
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,Q1,309,619,1,3,,Hernan Casanova,Viktor Galovic,7-6(2) 6-3,1.31,0.0%,0.0%,83.6%,58.8%,80.0%,0/3,55.3%,49.3%,4.2%,36.2%,75.0%,4/10,132,0,0,61,51,10,3,1:24
+4-Jul-2016,Italy F19,3,Clay,QF,324,512,0,4,8,Joao Pedro Sorgi,Hernan Casanova,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R16,324,770,1,4,,Hernan Casanova,Filippo Baldi,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R32,324,,1,4,Q,Hernan Casanova,Giovanni Narcisi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R32,324,206,0,,1,Jordi Samper Montana,Hernan Casanova,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,SF,326,273,0,4,2,Lorenzo Giustino,Hernan Casanova,4-6 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,QF,326,1217,1,4,WC,Hernan Casanova,Jacopo Stefanini,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,R16,326,636,1,4,,Hernan Casanova,Riccardo Sinicropi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,R32,326,860,1,4,Q,Hernan Casanova,Milos Sekulic,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,QF,349,513,0,4,8,Guillermo Rivera Aranguiz,Hernan Casanova,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,R16,349,1084,1,4,Q,Hernan Casanova,Juan Manuel Matute,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Argentina F9,3,Clay,R32,349,857,1,4,,Hernan Casanova,Matias Franco Descotte,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,QF,349,463,0,4,,Daniel Dutra Da Silva,Hernan Casanova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,R16,349,2207,1,4,Q,Hernan Casanova,Rafael Matos,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Argentina F8,3,Clay,R32,349,688,1,4,,Hernan Casanova,Andre Miele,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,F,345,402,1,1,4,Hernan Casanova,Andrea Collarini,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,SF,345,334,1,1,3,Hernan Casanova,Juan Ignacio Galarza,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,QF,345,733,1,1,,Hernan Casanova,Gabriel Alejandro Hidalgo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,R16,345,1731,1,1,Q,Hernan Casanova,Rafael Matos,6-4 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Argentina F7,3,Clay,R32,345,,1,1,Q,Hernan Casanova,Lourenzo Gasperini,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Argentina F6,3,Clay,QF,340,655,0,1,,Joao Pedro Sorgi,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Argentina F6,3,Clay,R16,340,,1,1,Q,Hernan Casanova,Francisco Stuardo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Argentina F6,3,Clay,R32,340,736,1,1,,Hernan Casanova,Gonzalo Villanueva,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Argentina F5,3,Clay,R16,341,661,0,1,,Joao Pedro Sorgi,Hernan Casanova,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Argentina F5,3,Clay,R32,341,814,1,1,,Hernan Casanova,Michel Vernier,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tunisia F16,3,Clay,R16,338,573,0,2,,Omar Salman,Hernan Casanova,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tunisia F16,3,Clay,R32,338,1056,1,2,,Hernan Casanova,Youssef Hossam,6-7(6) 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Tunisia F14,3,Clay,QF,341,315,0,5,4,Filip Horansky,Hernan Casanova,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Tunisia F14,3,Clay,R16,341,494,1,5,,Hernan Casanova,Alexis Musialek,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Tunisia F14,3,Clay,R32,341,699,1,5,,Hernan Casanova,Antoine Hoang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,Tunisia F13,3,Clay,R32,342,639,0,5,WC,Omar Salman,Hernan Casanova,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,QF,332,314,0,6,3,Tomas Lipovsek Puches,Hernan Casanova,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,R16,332,432,1,6,,Hernan Casanova,Pedro Sakamoto,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,R32,332,937,1,6,Q,Hernan Casanova,Leandro Portmann,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,QF,358,318,0,5,3,Tomas Lipovsek Puches,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R16,358,853,1,5,Q,Hernan Casanova,Gustavo Vellbach,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R32,358,582,1,5,,Hernan Casanova,Ricardo Hocevar,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,F,358,376,1,1,3,Hernan Casanova,Juan Ignacio Galarza,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,SF,358,431,1,1,4,Hernan Casanova,Juan Pablo Paz,0-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,QF,358,561,1,1,6,Hernan Casanova,Hugo Dellien,4-6 6-4 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,R16,358,2007,1,1,WC,Hernan Casanova,Martin Alund,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,R32,358,2007,1,1,LL,Hernan Casanova,Gustavo De Oliveira Cruz Cruz,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Buenos Aires,3,Clay,Q1,363,148,0,ALT,8,Blaz Rola,Hernan Casanova,6-0 6-2,0.64,3.0%,12.1%,66.7%,45.5%,31.8%,9/15,39.5%,37.9%,8.6%,27.0%,57.1%,1/6,124,2,8,66,44,22,5,1:08
+11-Jan-2016,Buenos Aires CH,3,Clay,R32,360,180,0,LL,,Nicolas Kicker,Hernan Casanova,3-6 6-3 6-2,0.85,0.0%,0.0%,77.2%,57.7%,33.3%,6/12,46.8%,40.5%,2.5%,31.4%,57.1%,4/10,171,0,0,92,71,21,2,2:02
+11-Jan-2016,Buenos Aires CH,3,Clay,Q3,360,582,0,3,,Martin Cuevas,Hernan Casanova,3-6 6-4 3-0 RET,0.78,0.0%,1.4%,68.5%,56.0%,39.1%,7/12,45.4%,38.6%,10.5%,27.3%,54.2%,4/5,130,0,1,73,50,23,6,1:43
+11-Jan-2016,Buenos Aires CH,3,Clay,Q2,360,693,1,3,,Hernan Casanova,Gonzalo Villanueva,6-1 6-3,1.67,0.0%,0.0%,84.0%,78.6%,25.0%,1/1,60.4%,50.0%,6.5%,44.4%,57.9%,4/6,96,0,0,50,42,8,3,1:07
+11-Jan-2016,Buenos Aires CH,3,Clay,Q1,360,452,1,3,,Hernan Casanova,Andrea Collarini,2-6 6-4 7-5,0.95,1.0%,4.0%,72.3%,58.9%,42.9%,9/15,49.2%,43.3%,5.6%,40.4%,48.5%,6/11,191,1,4,101,73,28,5,2:20
+4-Jan-2016,Mendoza CH,3,Clay,R16,369,166,0,,8,Gerald Melzer,Hernan Casanova,6-3 6-2,0.79,1.9%,0.0%,78.8%,43.9%,45.5%,4/10,44.0%,43.9%,3.5%,41.4%,46.4%,2/7,109,1,0,52,41,11,2,1:11
+4-Jan-2016,Mendoza CH,3,Clay,R32,369,330,1,,,Hernan Casanova,Tomas Lipovsek Puches,3-6 6-4 6-3,1.06,0.0%,2.2%,73.0%,56.9%,45.8%,4/10,51.4%,48.9%,0.0%,46.0%,55.6%,7/12,179,0,2,89,65,24,0,2:05
+14-Dec-2015,Chile F10,3,Hard,SF,433,747,0,2,,Matias Zukas,Hernan Casanova,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Chile F10,3,Hard,QF,433,822,1,2,,Hernan Casanova,Eduardo Dischinger,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Chile F10,3,Hard,R16,433,,1,2,WC,Hernan Casanova,Felipe Lacalle,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Chile F10,3,Hard,R32,433,,1,2,WC,Hernan Casanova,Clemente Armanet,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,QF,433,725,0,4,,Joao Pedro Sorgi,Hernan Casanova,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R16,433,801,1,4,,Hernan Casanova,Tomas Barrios Vera,7-6(3) 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R32,433,763,1,4,,Hernan Casanova,Matias Franco Descotte,7-6(5) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,F,433,409,1,4,3,Hernan Casanova,Patricio Heras,6-1 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,SF,433,284,1,4,1,Hernan Casanova,Gonzalo Lama,1-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,QF,433,801,1,4,,Hernan Casanova,Tomas Barrios Vera,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R16,433,782,1,4,,Hernan Casanova,Michel Vernier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R32,433,1313,1,4,Q,Hernan Casanova,Gustavo Guerses,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Bogota CH,3,Clay,R32,421,642,0,,Q,Felipe Mantilla,Hernan Casanova,6-3 7-6(5),0.68,0.0%,2.1%,76.0%,57.5%,60.9%,9/12,46.3%,28.1%,12.5%,24.3%,33.3%,1/3,160,0,2,96,73,23,8,
+12-Oct-2015,Corrientes CH,3,Clay,R32,423,656,0,WC,Q,Martin Cuevas,Hernan Casanova,6-1 6-2,0.43,0.0%,8.0%,70.0%,51.4%,40.0%,3/7,35.8%,22.2%,0.0%,7.1%,47.1%,0/1,95,0,4,50,35,15,0,
+28-Sep-2015,Argentina F14,3,Clay,R16,421,735,0,2,,Sebastian Exequiel Pini,Hernan Casanova,6-1 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,R32,421,605,1,2,,Hernan Casanova,Matias Zukas,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,QF,419,695,0,1,6,Gonzalo Villanueva,Hernan Casanova,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R16,419,1735,1,1,,Hernan Casanova,Franco Capalbo,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R32,419,,1,1,WC,Hernan Casanova,Geronimo Espin Busleiman,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,QF,473,981,0,2,,Gabriel Alejandro Hidalgo,Hernan Casanova,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,R16,473,1322,1,2,,Hernan Casanova,Federico Moreno,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,Argentina F12,3,Clay,R32,473,,1,2,WC,Hernan Casanova,Pablo Galdon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,F,475,607,1,3,8,Hernan Casanova,Maximiliano Estevez,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,SF,475,357,1,3,1,Hernan Casanova,Federico Coria,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,QF,475,766,1,3,,Hernan Casanova,Matias Zukas,1-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,R16,475,2151,1,3,Q,Hernan Casanova,Brian Orradre,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,R32,475,1040,1,3,,Hernan Casanova,Luciano Doria,7-5 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,SF,500,1126,0,8,Q,Michel Vernier,Hernan Casanova,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,QF,500,1088,1,8,Q,Hernan Casanova,Oscar Jose Gutierrez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,R16,500,684,1,8,,Hernan Casanova,Mariano Kestelboim,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,R32,500,771,1,8,,Hernan Casanova,Alan Kohen,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,SF,621,477,0,8,2,Patricio Heras,Hernan Casanova,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,QF,621,1101,1,8,,Hernan Casanova,Gabriel Alejandro Hidalgo,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R16,621,,1,8,Q,Hernan Casanova,Leonardo Aboian,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R32,621,1024,1,8,,Hernan Casanova,Luciano Doria,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,F,619,563,1,,,Hernan Casanova,Juan Ignacio Galarza,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,SF,619,413,1,,3,Hernan Casanova,Facundo Mena,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,QF,619,253,1,,1,Hernan Casanova,Jose Pereira,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,R16,619,969,1,,Q,Hernan Casanova,Franco Emanuel Egea,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,R32,619,712,1,,,Hernan Casanova,Juan Pablo Ficovich,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R16,582,324,0,,1,Fernando Romboli,Hernan Casanova,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R32,582,1031,1,,Q,Hernan Casanova,Marcos Vinicius Dias,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,QF,593,371,0,,2,Caio Zampieri,Hernan Casanova,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R16,593,751,1,,,Hernan Casanova,Gonzalo Villanueva,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R32,593,566,1,,8,Hernan Casanova,Orlando Luz,7-6(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,QF,587,538,0,,5,Daniel Dutra Da Silva,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,R16,587,457,1,,3,Hernan Casanova,Thales Turini,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,R32,587,844,1,,,Hernan Casanova,Nicolas Santos,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,QF,598,380,0,,3,Tomas Lipovsek Puches,Hernan Casanova,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R16,598,557,1,,8,Hernan Casanova,Juan Ignacio Galarza,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R32,598,632,1,,,Hernan Casanova,Nicolas Alberto Arreche,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Argentina F6,3,Clay,R32,605,767,0,,,Ricardo Urzua Rivera,Hernan Casanova,7-5 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,QF,671,258,0,8,1,Nicolas Kicker,Hernan Casanova,6-7(6) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R16,671,733,1,8,,Hernan Casanova,Eduardo Agustin Torre,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R32,671,2159,1,8,Q,Hernan Casanova,Santiago Maresca,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,F,667,802,0,6,,Franco Agamenone,Hernan Casanova,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,SF,667,578,1,6,4,Hernan Casanova,Juan Pablo Paz,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,QF,667,388,1,6,2,Hernan Casanova,Tomas Lipovsek Puches,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R16,667,941,1,6,,Hernan Casanova,Nicolas Alejandro De Gregorio,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R32,667,759,1,6,,Hernan Casanova,Matias Zukas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R16,676,409,0,,2,Duilio Beretta,Hernan Casanova,2-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R32,676,909,1,,Q,Hernan Casanova,Rodrigo Banzer,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Chile F3,3,Clay,R16,686,358,0,Q,8,Federico Coria,Hernan Casanova,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Chile F3,3,Clay,R32,686,806,1,Q,,Hernan Casanova,Ricardo Urzua Rivera,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,SF,774,178,0,Q,1,Hans Podlipnik Castillo,Hernan Casanova,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,QF,774,528,1,Q,,Hernan Casanova,Bastian Malla,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,R16,774,338,1,Q,6,Hernan Casanova,Jorge Aguilar,6-7(5) 7-6(5) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,R32,774,430,1,Q,,Hernan Casanova,Tomas Lipovsek Puches,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,QF,774,430,0,,4,Tomas Lipovsek Puches,Hernan Casanova,2-6 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R16,774,,1,,WC,Hernan Casanova,Augusto Stodart,7-6(9) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R32,774,644,1,,,Hernan Casanova,Juan Ignacio Ameal,6-7(4) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Buenos Aires,3,Clay,Q1,769,154,0,,3,Roberto Carballes Baena,Hernan Casanova,6-2 6-1,0.53,0.0%,0.0%,83.7%,41.5%,75.0%,4/8,37.4%,28.0%,6.0%,22.2%,42.9%,0/3,99,0,0,49,41,8,3,1:05
+8-Dec-2014,Argentina F20,3,Clay,R16,798,364,0,,5,Federico Coria,Hernan Casanova,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Argentina F20,3,Clay,R32,798,,1,,Q,Hernan Casanova,Agustin Savarino,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Argentina F19,3,Clay,QF,813,650,0,,,Guillermo Duran,Hernan Casanova,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Argentina F19,3,Clay,R16,813,1472,1,,Q,Hernan Casanova,Inaki Gimenez Pilutik,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Argentina F19,3,Clay,R32,813,1620,1,,LL,Hernan Casanova,Yasin Sama,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Brazil F15,3,Clay,R16,811,326,0,,2,Nicolas Kicker,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Brazil F15,3,Clay,R32,811,1714,1,,Q,Hernan Casanova,Gabriel Pascotto Tumasonis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,Argentina F18,3,Clay,QF,854,392,0,,1,Federico Coria,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,Argentina F18,3,Clay,R16,854,721,1,,7,Hernan Casanova,Bastian Malla,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,Argentina F18,3,Clay,R32,854,1375,1,,Q,Hernan Casanova,Nicolas Alejandro De Gregorio,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,Argentina F16,3,Clay,R32,997,1334,0,,Q,Luciano Doria,Hernan Casanova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,SF,997,523,0,,3,Juan Pablo Paz,Hernan Casanova,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,QF,997,793,1,,8,Hernan Casanova,Juan Ignacio Ameal,6-2 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,R16,997,392,1,,1,Hernan Casanova,Tomas Lipovsek Puches,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Argentina F15,3,Clay,R32,997,,1,,Q,Hernan Casanova,Federico Moreno,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,QF,991,354,0,,1,Tomas Lipovsek Puches,Hernan Casanova,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R16,991,623,1,,5,Hernan Casanova,Juan Ignacio Galarza,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R32,991,1240,1,,Q,Hernan Casanova,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Argentina F13,3,Clay,R16,1026,440,0,Q,5,Nicolas Kicker,Hernan Casanova,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Argentina F13,3,Clay,R32,1026,673,1,Q,,Hernan Casanova,Ryusei Makiguchi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R32,993,587,0,Q,5,Joao Pedro Sorgi,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,SF,1949,773,0,Q,8,Juan Ignacio Galarza,Hernan Casanova,7-5 2-6 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,QF,1949,1324,1,Q,,Hernan Casanova,Nicolas Alberto Arreche,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,R16,1949,541,1,Q,3,Hernan Casanova,Juan Pablo Paz,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,R32,1949,,1,Q,Q,Hernan Casanova,Ignacio Calderon,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,QF,1949,390,0,Q,1,Patricio Heras,Hernan Casanova,1-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R16,1949,773,1,Q,,Hernan Casanova,Juan Ignacio Galarza,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R32,1949,1428,1,Q,Q,Hernan Casanova,Franco Feitt,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,QF,1950,529,0,Q,7,Nicolas Kicker,Hernan Casanova,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R16,1950,389,1,Q,1,Hernan Casanova,Patricio Heras,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R32,1950,759,1,Q,,Hernan Casanova,Rodrigo Sanchez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Argentina F13,3,Clay,R16,1054,544,0,,5,Facundo Mena,Hernan Casanova,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Argentina F13,3,Clay,R32,1054,,1,,Q,Hernan Casanova,Bruno Luciano Mazziotti,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,R32,1063,488,0,,5,Federico Coria,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Argentina F11,3,Clay,R32,825,929,0,,,Juan Ignacio Galarza,Hernan Casanova,6-0 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Argentina F9,3,Clay,R32,745,431,0,,4,Thales Turini,Hernan Casanova,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Argentina F8,3,Clay,R16,745,1395,0,,WC,Juan Ignacio Galarza,Hernan Casanova,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Argentina F8,3,Clay,R32,745,1223,1,,Q,Hernan Casanova,Rodrigo Sanchez,6-1 7-6(9),,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Argentina F7,3,Clay,R16,742,358,0,,1,Andrea Collarini,Hernan Casanova,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Argentina F7,3,Clay,R32,742,739,1,,,Hernan Casanova,Nicolas Kicker,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Argentina F6,3,Clay,R32,743,519,0,,8,Gabriel Alejandro Hidalgo,Hernan Casanova,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Argentina F5,3,Clay,R32,732,408,0,,3,Pablo Galdon,Hernan Casanova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Argentina F4,3,Clay,R32,707,385,0,,1,Juan Pablo Amado,Hernan Casanova,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Argentina F3,3,Clay,R32,701,533,0,,2,Federico Coria,Hernan Casanova,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,QF,718,657,0,,,Gabriel Alejandro Hidalgo,Hernan Casanova,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R16,718,362,1,,3,Hernan Casanova,Juan Pablo Amado,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R32,718,838,1,,LL,Hernan Casanova,Tomas Lipovsek Puches,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Argentina F27,3,Clay,R16,718,633,0,Q,,Stefano Travaglia,Hernan Casanova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Argentina F27,3,Clay,R32,718,354,1,Q,3,Hernan Casanova,Andres Molteni,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Argentina F26,3,Clay,R32,720,,0,,WC,Gonzalo Villanueva,Hernan Casanova,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Bolivia F4,3,Clay,R16,721,808,0,7,,Federico Zeballos,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Bolivia F4,3,Clay,R32,721,1763,1,7,Q,Hernan Casanova,Juan Cruz Estevarena,0-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Bolivia F3,3,Clay,R32,727,1385,0,8,WC,Marco Antonio Rojas,Hernan Casanova,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Bolivia F2,3,Clay,R32,729,1890,0,4,Q,Sebastian Exequiel Pini,Hernan Casanova,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Bolivia F1,3,Clay,R32,725,,0,3,Q,Sixto Segovia,Hernan Casanova,6-7(4) 6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Argentina F21,3,Clay,R32,711,459,0,,7,Guillermo Duran,Hernan Casanova,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Argentina F20,3,Clay,R32,712,467,0,,7,Juan Ignacio Londero,Hernan Casanova,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Argentina F19,3,Clay,R32,715,427,0,,4,Juan Pablo Amado,Hernan Casanova,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Argentina F18,3,Clay,QF,718,384,0,,2,Leandro Migani,Hernan Casanova,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Argentina F18,3,Clay,R16,718,655,1,,7,Hernan Casanova,Martin Cuevas,1-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Argentina F18,3,Clay,R32,718,1380,1,,WC,Hernan Casanova,Francisco Bahamonde,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Argentina F17,3,Clay,R32,822,1420,0,,Q,Federico Clara Figueroa,Hernan Casanova,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,F,965,425,0,,1,Leandro Migani,Hernan Casanova,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,SF,965,515,1,,2,Hernan Casanova,Juan Ignacio Londero,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,QF,965,576,1,,4,Hernan Casanova,Federico Coria,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,R16,965,976,1,,,Hernan Casanova,Andres Ceppo,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,R32,965,1186,1,,,Hernan Casanova,Mateo Facundo Cressa,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,SF,965,333,0,,1,Guido Andreozzi,Hernan Casanova,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,QF,965,575,1,,4,Hernan Casanova,Juan Pablo Ortiz,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,R16,965,576,1,,5,Hernan Casanova,Federico Coria,6-4 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Argentina F15,3,Clay,R32,965,1083,1,,,Hernan Casanova,Mariano Urli,6-0 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Argentina F14,3,Clay,R32,953,,0,,WC,Jose Maria Paniagua,Hernan Casanova,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Argentina F12,3,Clay,R32,946,366,0,,3,Andrea Collarini,Hernan Casanova,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Chile F7,3,Clay,R32,1041,295,0,,1,Sebastian Decoud,Hernan Casanova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Chile F6,3,Clay,QF,1041,320,0,,3,Guillermo Rivera Aranguiz,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Chile F6,3,Clay,R16,1041,687,1,,8,Hernan Casanova,Matias Sborowitz,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Chile F6,3,Clay,R32,1041,804,1,,,Hernan Casanova,Gonzalo Lama,2-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Argentina F8,3,Clay,QF,1202,674,0,Q,,Sergio Galdos,Hernan Casanova,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Argentina F8,3,Clay,R16,1202,1042,1,Q,Q,Hernan Casanova,Nicolas Jara Lozano,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Argentina F8,3,Clay,R32,1202,547,1,Q,7,Hernan Casanova,Juan Manuel Valverde,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Argentina F7,3,Clay,R16,1202,1041,0,Q,Q,Nicolas Jara Lozano,Hernan Casanova,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Argentina F7,3,Clay,R32,1202,672,1,Q,,Hernan Casanova,Juan Carlos Saez,7-6(7) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Argentina F5,3,Clay,R16,1287,391,0,WC,6,Guillermo Duran,Hernan Casanova,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Argentina F5,3,Clay,R32,1287,705,1,WC,Q,Hernan Casanova,Juan Vazquez Valenzuela,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Argentina F4,3,Clay,R32,1287,457,0,Q,,Renzo Olivo,Hernan Casanova,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Chile F4,3,Clay,R32,1271,372,0,Q,2,Federico Gaio,Hernan Casanova,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Argentina F21,3,Clay,R32,1248,831,0,Q,,Federico Coria,Hernan Casanova,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Argentina F20,3,Clay,R32,1256,580,0,,4,Renzo Olivo,Hernan Casanova,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Argentina F14,3,Clay,R16,,398,0,WC,3,Juan Pablo Villar,Hernan Casanova,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Argentina F14,3,Clay,R32,,1252,1,WC,,Hernan Casanova,Gabriel Blanco,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Argentina F13,3,Clay,QF,,720,0,Q,7,Gabriel Alejandro Hidalgo,Hernan Casanova,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Argentina F13,3,Clay,R16,,633,1,Q,3,Hernan Casanova,Joaquin Jesus Monteferrario,6-1 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Argentina F13,3,Clay,R32,,881,1,Q,,Hernan Casanova,Alejandro Kon,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Argentina F11,3,Clay,R32,,981,0,WC,,Tomas Buchhass,Hernan Casanova,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,Argentina F3,3,Clay,R32,,364,0,WC,3,Juan Pablo Amado,Hernan Casanova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

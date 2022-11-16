@@ -1,0 +1,861 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Jul-2013,Manta CH,3,Hard,R32,543,164,0,WC,3,Alejandro Gonzalez,Nicolas Massu,6-3 6-2,0.54,4.0%,16.0%,34.0%,70.6%,36.4%,1/6,38.7%,27.9%,16.3%,28.6%,27.3%,1/1,93,2,8,50,17,33,7,1:02
+29-Apr-2013,Ostrava CH,3,Clay,R32,521,271,0,WC,,Damir Dzumhur,Nicolas Massu,6-1 6-1,0.36,4.0%,0.0%,62.0%,45.2%,42.1%,2/7,34.1%,20.0%,11.4%,11.5%,44.4%,0/0,85,2,0,50,31,19,4,0:55
+22-Apr-2013,Savannah CH,3,Clay,R16,571,117,0,Q,7,Wayne Odesnik,Nicolas Massu,6-2 1-0 RET,0.45,3.3%,6.7%,36.7%,72.7%,31.6%,0/2,35.6%,24.1%,3.4%,26.3%,20.0%,0/0,59,1,2,30,11,19,1,0:47
+22-Apr-2013,Savannah CH,3,Clay,R32,571,207,1,Q,,Nicolas Massu,Denys Molchanov,6-4 6-7(5) 7-6(4),1.11,0.0%,4.0%,73.0%,58.7%,50.0%,6/12,51.9%,48.5%,0.6%,51.0%,44.1%,7/24,289,0,5,126,92,34,1,3:56
+15-Apr-2013,Panama City CH,3,Clay,R32,575,200,0,WC,,Julio Cesar Campozano,Nicolas Massu,6-3 6-7(7) 7-5,0.82,3.4%,3.4%,58.1%,66.2%,57.1%,6/8,46.4%,30.8%,0.0%,23.3%,53.3%,0/9,237,4,4,117,68,49,0,2:53
+8-Apr-2013,Guadalajara CH,3,Hard,R32,571,174,0,WC,,Peter Gojowczyk,Nicolas Massu,6-4 6-3,0.78,9.8%,1.6%,70.5%,67.4%,50.0%,7/9,45.2%,29.2%,10.8%,21.1%,40.7%,0/3,126,6,1,61,43,18,7,1:22
+1-Apr-2013,Leon CH,3,Hard,R32,569,132,0,WC,8,Alex Bogomolov Jr,Nicolas Massu,6-2 6-1,0.54,2.4%,4.8%,47.6%,30.0%,40.9%,2/8,35.2%,34.8%,4.3%,30.6%,50.0%,1/8,88,1,2,42,20,22,2,1:00
+26-Mar-2013,San Luis Potosi CH,3,Clay,R32,571,212,0,WC,,Adrian Menendez Maceiras,Nicolas Massu,7-6(6) 5-7 6-4,0.99,1.8%,6.2%,61.9%,67.1%,41.9%,5/11,49.6%,41.9%,3.4%,28.1%,58.5%,6/15,230,2,7,113,70,43,4,3:16
+11-Mar-2013,USA F7,3,Hard,R32,574,527,0,WC,,Matheson Klein,Nicolas Massu,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Santiago CH,3,Clay,R32,574,197,0,WC,,Marco Trungelliti,Nicolas Massu,6-7(6) 6-4 6-3,0.83,1.0%,4.1%,61.2%,61.7%,55.3%,1/6,46.7%,34.0%,6.2%,28.3%,43.2%,2/8,195,1,4,98,60,38,6,2:44
+25-Feb-2013,Salinas CH,3,Clay,R32,572,272,0,WC,,Renzo Olivo,Nicolas Massu,2-6 6-3 6-4,0.88,1.3%,11.7%,54.5%,59.5%,51.4%,3/8,47.4%,38.7%,1.3%,36.7%,42.3%,5/5,152,1,9,77,42,35,1,2:01
+4-Feb-2013,Santiago,3,Clay,R32,578,101,0,WC,,Albert Montanes,Nicolas Massu,6-7(6) 6-3 6-4,0.84,1.6%,8.1%,62.6%,62.3%,50.0%,10/14,47.8%,35.6%,7.9%,31.3%,43.2%,2/6,224,2,10,123,77,46,8,2:59
+22-Jan-2013,Bucaramanga CH,3,Clay,R16,617,142,0,WC,6,Federico Delbonis,Nicolas Massu,6-1 4-6 7-6(4),0.87,2.4%,3.5%,68.2%,63.8%,44.4%,2/7,46.3%,36.9%,10.7%,26.9%,55.6%,4/11,188,2,3,85,58,27,11,2:21
+22-Jan-2013,Bucaramanga CH,3,Clay,R32,617,182,1,WC,,Nicolas Massu,Agustin Velotti,6-3 6-2,1.47,3.3%,3.3%,71.7%,74.4%,47.1%,6/7,58.4%,49.1%,1.9%,37.5%,58.6%,4/10,113,2,2,60,43,17,1,1:22
+15-Oct-2012,Villa Allende CH,3,Clay,R32,528,125,0,WC,2,Horacio Zeballos,Nicolas Massu,6-3 6-1,0.46,0.0%,8.3%,54.2%,61.5%,31.8%,2/6,36.2%,23.9%,2.2%,11.5%,40.0%,0/4,94,0,4,48,26,22,1,1:09
+8-Oct-2012,San Juan CH,3,Clay,R32,526,347,0,,Q,Andrea Collarini,Nicolas Massu,6-1 6-0,0.55,2.2%,10.9%,60.9%,46.4%,22.2%,2/8,35.9%,34.8%,0.0%,29.7%,55.6%,0/4,92,1,5,46,28,18,0,1:13
+1-Oct-2012,Quito CH,3,Clay,SF,703,152,0,WC,4,Joao Souza,Nicolas Massu,6-3 6-2,0.44,2.0%,8.0%,56.0%,53.6%,50.0%,3/7,37.6%,20.9%,25.6%,26.9%,11.8%,1/2,93,1,4,50,28,22,11,1:14
+1-Oct-2012,Quito CH,3,Clay,QF,703,185,1,WC,5,Nicolas Massu,Eduardo Schwank,6-4 6-2,1.41,10.5%,5.3%,77.2%,75.0%,53.8%,3/3,57.0%,42.0%,8.0%,26.1%,55.6%,3/4,107,6,3,57,44,13,4,1:17
+1-Oct-2012,Quito CH,3,Clay,R16,703,298,1,WC,,Nicolas Massu,Denis Zivkovic,7-6(3) 6-3,1.19,4.2%,4.2%,62.0%,77.3%,51.9%,3/4,52.7%,38.7%,14.7%,26.5%,61.5%,2/6,146,3,3,71,44,27,11,1:47
+1-Oct-2012,Quito CH,3,Clay,R32,703,681,1,WC,Q,Nicolas Massu,Miguel Angel Reyes Varela,6-4 6-4,1.33,7.9%,1.6%,76.2%,68.8%,60.0%,3/4,54.2%,44.3%,6.3%,34.8%,57.6%,3/9,142,5,1,63,48,15,5,1:51
+27-Aug-2012,Como CH,3,Clay,R32,683,277,0,WC,,Michael Lammer,Nicolas Massu,6-1 6-4,0.68,7.1%,2.4%,61.9%,57.7%,56.3%,3/6,41.0%,29.3%,0.0%,21.9%,38.5%,0/2,100,3,1,42,26,16,0,1:27
+13-Aug-2012,Cordenons CH,3,Clay,R32,685,108,0,WC,,Victor Hanescu,Nicolas Massu,7-6(3) 6-4,0.44,6.4%,4.3%,64.9%,68.9%,48.5%,10/11,44.4%,16.9%,3.4%,15.0%,21.1%,0/0,153,6,4,94,61,33,2,2:09
+6-Aug-2012,San Marino CH,3,Clay,R16,707,103,0,WC,6,Simone Bolelli,Nicolas Massu,6-0 6-2,0.22,0.0%,5.3%,47.4%,44.4%,20.0%,1/6,23.9%,15.2%,12.1%,12.0%,25.0%,0/0,71,0,2,38,18,20,4,0:58
+6-Aug-2012,San Marino CH,3,Clay,R32,707,967,1,WC,,Nicolas Massu,Franco Skugor,3-6 7-6(3) RET,1.07,1.5%,6.1%,48.5%,71.9%,55.9%,3/6,50.3%,39.0%,14.3%,32.6%,48.4%,2/8,143,1,4,66,32,34,11,1:50
+3-Jul-2012,Panama City CH,3,Clay,R32,625,331,0,WC,8,Julio Cesar Campozano,Nicolas Massu,6-2 6-3,0.78,3.2%,9.7%,53.2%,63.6%,37.9%,6/10,45.0%,37.9%,5.2%,21.2%,60.0%,1/4,120,2,6,62,33,29,3,1:14
+9-Apr-2012,Pereira CH,3,Clay,R32,605,334,0,WC,,Fabiano De Paula,Nicolas Massu,6-4 6-4,0.67,1.4%,2.7%,57.5%,61.9%,51.6%,7/10,45.2%,28.3%,3.8%,25.0%,35.3%,1/1,126,1,2,73,42,31,2,1:15
+26-Mar-2012,Barranquilla CH,3,Clay,R32,565,162,0,WC,,James Ward,Nicolas Massu,6-2 6-2,0.62,9.8%,11.8%,56.9%,58.6%,36.4%,7/11,40.2%,31.4%,9.8%,28.6%,34.8%,0/2,102,5,6,51,29,22,5,1:15
+30-Jan-2012,Santiago,3,Clay,R32,503,172,0,WC,Q,Federico Delbonis,Nicolas Massu,6-0 6-3,0.39,5.4%,7.1%,64.3%,55.6%,25.0%,7/12,35.5%,21.6%,2.7%,17.9%,33.3%,0/0,93,3,4,56,36,20,1,1:17
+14-Nov-2011,Montevideo CH,3,Clay,R32,455,242,0,WC,,Andrey Kuznetsov,Nicolas Massu,6-3 6-4,0.71,0.0%,5.1%,62.7%,62.2%,50.0%,5/9,45.0%,30.0%,0.0%,22.2%,39.1%,1/5,109,0,3,59,37,22,0,1:26
+31-Oct-2011,Medellin CH,3,Clay,QF,509,111,0,WC,5,Paul Capdeville,Nicolas Massu,6-4 6-4,0.84,1.3%,7.9%,61.8%,68.1%,48.3%,4/6,47.6%,33.3%,2.9%,25.0%,40.5%,0/1,145,1,6,76,47,29,2,1:53
+31-Oct-2011,Medellin CH,3,Clay,R16,509,108,1,WC,4,Nicolas Massu,Horacio Zeballos,4-6 6-4 6-4,0.90,1.7%,2.6%,60.9%,67.1%,53.3%,5/7,50.0%,34.5%,9.2%,19.6%,51.2%,3/7,202,2,3,115,70,45,8,2:47
+31-Oct-2011,Medellin CH,3,Clay,R32,509,1198,1,WC,WC,Nicolas Massu,Felipe Escobar,6-1 6-1,2.01,8.5%,8.5%,63.8%,76.7%,58.8%,5/5,65.5%,60.0%,0.0%,58.1%,66.7%,5/7,87,4,4,47,30,17,0,1:07
+26-Sep-2011,Recife2 CH,3,Hard,R32,442,118,0,Q,2,Rogerio Dutra Silva,Nicolas Massu,6-3 6-4,0.47,7.8%,3.9%,58.8%,70.0%,52.4%,4/6,40.2%,17.6%,9.8%,17.6%,17.6%,0/3,102,4,2,51,30,21,5,1:14
+16-Sep-2011,Davis Cup WG PO: CHI vs ITA,3,Hard,RR,446,,0,,,Daniele Bracciali,Nicolas Massu,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Binghamton CH,3,Hard,R16,452,222,0,WC,,Greg Jones,Nicolas Massu,5-7 6-2 6-3,0.92,4.7%,7.1%,56.5%,68.8%,45.9%,8/12,46.8%,37.9%,11.2%,25.3%,61.0%,2/14,201,4,6,85,48,37,13,2:36
+8-Aug-2011,Binghamton CH,3,Hard,R32,452,234,1,WC,,Nicolas Massu,Juan Sebastian Cabal,6-4 6-4,1.72,1.9%,3.7%,68.5%,83.8%,70.6%,2/2,56.8%,35.1%,7.0%,29.0%,42.3%,2/3,111,1,2,54,37,17,4,1:32
+31-Jul-2011,Washington Q,3,Hard,Q2,469,387,0,WC,11,Artem Sitak,Nicolas Massu,7-6(4) 6-2,0.75,1.6%,13.1%,57.4%,57.1%,38.5%,3/8,43.4%,38.2%,14.7%,26.5%,50.0%,3/9,129,1,8,61,35,26,10,1:53
+31-Jul-2011,Washington Q,3,Hard,Q1,469,208,1,WC,4,Nicolas Massu,Victor Estrella,2-6 6-3 6-1,1.13,9.1%,12.1%,62.1%,78.0%,32.0%,1/4,52.2%,44.4%,4.2%,37.0%,57.7%,5/9,138,6,8,66,41,25,3,1:44
+25-Jul-2011,Los Angeles Q,3,Hard,Q3,484,222,0,,7,Greg Jones,Nicolas Massu,6-4 6-0,0.60,1.9%,7.5%,58.5%,51.6%,40.9%,5/10,40.2%,31.8%,4.5%,19.0%,43.5%,1/2,97,1,4,53,31,22,2,1:11
+25-Jul-2011,Los Angeles Q,3,Hard,Q2,484,170,1,,4,Nicolas Massu,Yuichi Sugita,4-6 7-5 7-6(5),1.06,1.7%,7.8%,60.9%,62.9%,37.8%,3/11,51.2%,49.6%,0.0%,39.2%,65.4%,8/26,246,2,9,115,70,45,0,3:23
+25-Jul-2011,Los Angeles Q,3,Hard,Q1,484,1597,1,,,Nicolas Massu,Harel Srugo,7-5 6-2,1.30,1.4%,4.1%,58.1%,76.7%,35.5%,2/4,56.0%,52.6%,2.6%,38.3%,75.9%,5/14,150,1,3,74,43,31,2,1:53
+18-Jul-2011,Atlanta Q,3,Hard,Q2,481,272,0,,6,Rajeev Ram,Nicolas Massu,6-3 7-6(5),0.80,1.4%,6.8%,65.8%,68.8%,60.0%,0/3,48.1%,27.4%,25.8%,22.9%,33.3%,1/1,135,1,5,73,48,25,16,1:34
+18-Jul-2011,Atlanta Q,3,Hard,Q1,481,,1,,WC,Nicolas Massu,Kevin King,3-6 7-6(5) 6-4,1.05,3.0%,10.1%,58.6%,70.7%,39.0%,5/10,50.7%,44.5%,9.1%,33.9%,56.9%,5/10,209,3,10,99,58,41,10,2:30
+11-Jul-2011,Bogota2 CH,3,Clay,R32,476,175,0,WC,,Carlos Salamanca,Nicolas Massu,6-3 3-6 6-1,0.69,2.4%,10.8%,34.9%,72.4%,48.1%,6/10,44.4%,30.0%,11.4%,19.0%,46.4%,2/3,153,2,9,83,29,54,8,1:53
+2-May-2011,Rome2 CH,3,Clay,R32,400,167,0,WC,WC,Simone Vagnozzi,Nicolas Massu,3-6 6-3 6-2,0.86,2.5%,6.3%,67.5%,63.0%,42.3%,3/7,46.9%,37.8%,2.4%,35.0%,45.5%,2/12,162,2,5,80,54,26,2,2:22
+18-Apr-2011,Santos CH,3,Clay,R32,382,302,0,,,Malek Jaziri,Nicolas Massu,7-5 7-5,0.78,2.1%,10.6%,55.3%,48.1%,42.9%,15/22,44.2%,42.3%,3.8%,39.3%,50.0%,5/10,172,2,10,94,52,42,3,2:44
+11-Apr-2011,Blumenau CH,3,Clay,R32,358,272,0,,,Pablo Galdon,Nicolas Massu,6-0 6-4,0.60,0.0%,1.6%,67.2%,53.7%,45.0%,6/10,41.1%,29.4%,9.8%,20.7%,40.9%,0/0,112,0,1,61,41,20,5,1:26
+4-Apr-2011,Houston Q,3,Clay,Q2,279,107,0,,1,Alex Bogomolov Jr,Nicolas Massu,6-4 6-1,0.65,1.5%,6.0%,53.7%,50.0%,45.2%,13/18,41.9%,34.0%,0.0%,21.9%,55.6%,1/5,117,1,4,67,36,31,0,1:33
+4-Apr-2011,Houston Q,3,Clay,Q1,279,332,1,,,Nicolas Massu,Michael Yani,3-6 6-1 6-4,1.14,5.7%,5.7%,59.1%,65.4%,58.3%,7/9,52.5%,42.7%,11.2%,20.0%,61.2%,4/8,177,5,5,88,52,36,10,2:24
+28-Mar-2011,Barranquilla CH,3,Clay,R32,259,175,0,,,Giovanni Lapentti,Nicolas Massu,6-2 7-5,0.57,4.5%,6.0%,58.2%,61.5%,42.9%,8/12,41.7%,26.4%,11.3%,12.9%,45.5%,1/1,120,3,4,67,39,28,6,1:44
+23-Mar-2011,Miami Masters Q,3,Hard,Q2,259,70,0,WC,1,Grigor Dimitrov,Nicolas Massu,6-2 6-3,0.54,4.3%,8.5%,57.4%,74.1%,10.0%,5/9,37.5%,28.6%,10.2%,10.7%,52.4%,1/1,96,2,4,47,27,20,5,1:09
+23-Mar-2011,Miami Masters Q,3,Hard,Q1,259,117,1,WC,14,Nicolas Massu,Michal Przysiezny,6-4 6-4,1.37,15.7%,3.9%,60.8%,80.6%,60.0%,0/1,54.2%,37.5%,5.4%,35.1%,42.1%,3/5,107,8,2,51,31,20,3,1:17
+14-Mar-2011,San Jose CH,3,Hard,R16,263,164,0,,8,Franco Skugor,Nicolas Massu,6-3 6-3,0.61,3.0%,6.0%,55.2%,56.8%,43.3%,8/12,41.7%,30.2%,11.3%,21.9%,42.9%,1/1,120,2,4,67,37,30,6,1:28
+14-Mar-2011,San Jose CH,3,Hard,R32,263,673,1,,,Nicolas Massu,Luis Diaz Barriga,6-3 6-0,2.05,9.8%,2.4%,75.6%,80.6%,50.0%,0/1,62.4%,55.0%,1.7%,47.1%,65.4%,5/11,101,4,1,41,31,10,1,1:21
+7-Mar-2011,Santiago CH,3,Clay,R32,263,157,0,,7,Rogerio Dutra Silva,Nicolas Massu,6-3 2-0 RET,0.52,0.0%,8.5%,59.6%,53.6%,31.6%,6/10,38.5%,29.0%,9.7%,22.2%,38.5%,1/3,78,0,4,47,28,19,3,1:00
+4-Mar-2011,Davis Cup WG R1: CHI vs USA,3,Clay,RR,241,8,0,,,Andy Roddick,Nicolas Massu,6-2 4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2011,Santiago,3,Clay,R32,210,316,0,WC,Q,Caio Zampieri,Nicolas Massu,7-6(7) 7-5,0.86,1.1%,1.1%,63.8%,60.0%,50.0%,6/9,47.5%,37.3%,6.0%,28.0%,51.5%,2/7,177,1,1,94,60,34,5,2:38
+17-Jan-2011,Australian Open Q,3,Hard,Q3,210,237,0,,,Marco Crugnola,Nicolas Massu,6-1 6-3,0.70,1.9%,5.8%,51.9%,66.7%,32.0%,3/7,41.7%,34.9%,3.2%,27.0%,46.2%,0/10,115,1,3,52,27,25,2,1:22
+17-Jan-2011,Australian Open Q,3,Hard,Q2,210,143,1,,22,Nicolas Massu,Konstantin Kravchuk,6-3 6-2,1.78,5.9%,2.0%,70.6%,83.3%,66.7%,3/3,61.1%,38.5%,7.7%,33.3%,55.6%,3/6,90,3,1,51,36,15,3,1:12
+17-Jan-2011,Australian Open Q,3,Hard,Q1,210,278,1,,,Nicolas Massu,Philip Bester,6-4 6-4,1.69,0.0%,2.0%,73.5%,77.8%,76.9%,0/1,56.1%,37.9%,12.1%,25.0%,66.7%,3/4,107,0,1,49,36,13,7,1:33
+1-Nov-2010,Medellin CH,3,Clay,R32,147,268,0,7,,Facundo Bagnis,Nicolas Massu,6-4 6-4,0.80,11.4%,5.7%,52.9%,73.0%,51.5%,5/7,45.8%,29.7%,10.8%,30.4%,28.6%,0/7,144,8,4,70,37,33,8,1:49
+25-Oct-2010,Sao Paulo2 CH,3,Clay,R16,143,152,0,6,,Marcos Daniel,Nicolas Massu,6-1 6-4,0.40,5.1%,6.8%,64.4%,68.4%,28.6%,9/12,38.8%,18.2%,15.9%,18.8%,16.7%,0/0,103,3,4,59,38,21,7,1:07
+25-Oct-2010,Sao Paulo2 CH,3,Clay,R32,143,596,1,6,Q,Nicolas Massu,Thomas Cazes Carrere,6-3 1-6 6-1,1.14,2.9%,8.7%,58.0%,70.0%,44.8%,2/6,52.3%,46.3%,1.2%,44.2%,50.0%,5/11,151,2,6,69,40,29,1,1:45
+18-Oct-2010,Santiago2 CH,3,Clay,R32,125,183,0,8,,Guillaume Rufin,Nicolas Massu,4-6 6-3 1-0 RET,0.87,5.2%,7.8%,64.9%,82.0%,14.8%,5/8,47.7%,36.1%,1.4%,25.0%,47.2%,2/10,149,4,6,77,50,27,1,2:07
+11-Oct-2010,Asuncion CH,3,Clay,R16,128,138,0,8,,Ramon Delgado,Nicolas Massu,7-5 2-6 6-3,0.90,3.0%,7.9%,59.4%,66.7%,39.0%,10/15,48.6%,40.0%,8.8%,34.6%,50.0%,5/7,181,3,8,101,60,41,7,2:37
+11-Oct-2010,Asuncion CH,3,Clay,R32,128,258,1,8,,Nicolas Massu,Leonardo Tavares,6-2 4-6 6-1,1.22,2.8%,11.1%,50.0%,80.6%,30.6%,2/6,54.9%,54.2%,2.8%,45.8%,70.8%,8/13,144,2,8,72,36,36,2,1:45
+4-Oct-2010,Buenos Aires CH,3,Clay,R16,128,189,0,6,,Diego Junqueira,Nicolas Massu,W/O,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Buenos Aires CH,3,Clay,R32,128,341,1,6,,Nicolas Massu,Goran Tosic,6-4 6-2,1.52,7.1%,10.7%,55.4%,80.6%,60.0%,4/4,57.8%,43.4%,5.7%,26.7%,65.2%,3/8,109,4,6,56,31,25,3,1:19
+27-Sep-2010,Montevideo CH,3,Clay,R32,128,222,0,5,,Juan Pablo Brzezicki,Nicolas Massu,6-3 6-4,0.86,1.6%,6.6%,68.9%,61.9%,42.1%,5/9,46.5%,37.9%,0.0%,35.8%,46.2%,2/3,127,1,4,61,42,19,0,1:37
+13-Sep-2010,Szczecin CH,3,Clay,R32,123,264,0,7,,Pavol Cervenak,Nicolas Massu,6-3 6-3,0.76,1.8%,7.0%,68.4%,51.3%,33.3%,4/9,43.6%,41.5%,9.4%,33.3%,52.2%,2/3,110,1,4,57,39,18,5,1:18
+6-Sep-2010,Genova CH,3,Clay,R32,116,231,0,7,,Rik De Voest,Nicolas Massu,7-5 6-3,0.83,0.0%,8.5%,57.6%,61.8%,44.0%,1/5,44.5%,37.9%,0.0%,33.3%,48.1%,2/12,146,0,5,59,34,25,0,1:56
+12-Jul-2010,Bogota2 CH,3,Clay,R32,103,504,0,4,WC,Eduardo Struvay,Nicolas Massu,3-6 6-1 6-1,0.75,1.2%,7.4%,65.4%,66.0%,35.7%,3/8,45.1%,33.3%,19.4%,17.9%,51.5%,1/7,153,1,6,81,53,28,14,1:31
+9-Jul-2010,Davis Cup WG QF: CHI vs CZE,3,Clay,RR,101,247,0,,,Ivo Minar,Nicolas Massu,6-0 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Wimbledon,5,Grass,R128,99,152,0,,Q,Ilija Bozoljac,Nicolas Massu,7-6(3) 3-6 6-3 7-6(7),0.71,4.5%,3.4%,64.0%,67.5%,51.6%,11/13,47.7%,27.0%,22.1%,16.0%,48.8%,2/4,300,8,6,178,114,64,27,3:00
+24-May-2010,Roland Garros,5,Clay,R128,91,92,0,,,Fabio Fognini,Nicolas Massu,6-1 3-6 2-6 6-3 6-3,0.87,5.6%,3.5%,63.6%,62.6%,40.4%,13/20,47.4%,39.5%,3.9%,28.0%,59.6%,5/9,272,8,5,143,91,52,5,3:34
+10-May-2010,Zagreb CH,3,Clay,QF,89,136,0,2,7,Santiago Ventura,Nicolas Massu,3-6 6-4 6-3,0.87,1.1%,2.2%,70.8%,55.6%,65.4%,3/8,48.2%,36.4%,3.9%,26.5%,53.6%,4/6,166,1,2,89,63,26,3,2:07
+10-May-2010,Zagreb CH,3,Clay,R16,89,239,1,2,,Nicolas Massu,Andreas Haider Maurer,7-5 6-4,1.51,3.4%,1.7%,72.9%,79.1%,75.0%,2/2,53.4%,33.3%,4.2%,17.9%,51.5%,2/5,131,2,1,59,43,16,3,1:56
+10-May-2010,Zagreb CH,3,Clay,R32,89,208,1,2,WC,Nicolas Massu,Antonio Veic,6-4 6-2,1.14,0.0%,0.0%,78.8%,68.7%,22.2%,14/15,54.4%,47.1%,2.0%,37.5%,63.2%,4/5,136,0,0,85,67,18,1,1:55
+3-May-2010,Estoril,3,Clay,R32,92,114,0,,WC,Rui Machado,Nicolas Massu,6-2 6-4,0.69,1.6%,9.5%,54.0%,52.9%,44.8%,7/11,42.1%,34.9%,3.2%,32.6%,41.2%,1/6,126,1,6,63,34,29,2,1:31
+19-Apr-2010,Curitiba CH,3,Clay,R16,90,233,0,1,,Dominik Meffert,Nicolas Massu,6-2 6-4,0.39,6.3%,4.2%,62.5%,60.0%,55.6%,0/3,38.5%,16.3%,20.9%,12.5%,21.1%,0/0,91,3,2,48,30,18,9,1:09
+19-Apr-2010,Curitiba CH,3,Clay,R16,90,233,0,1,,Dominik Meffert,Nicolas Massu,6-2 6-4,0.39,6.3%,4.2%,62.5%,60.0%,55.6%,0/3,38.5%,16.3%,20.9%,12.5%,21.1%,0/0,91,3,2,48,30,18,9,1:09
+19-Apr-2010,Curitiba CH,3,Clay,R32,90,928,1,1,WC,Nicolas Massu,Guilherme Clezar,6-4 5-7 6-2,1.27,12.5%,5.2%,63.5%,70.5%,60.0%,3/6,54.8%,42.2%,4.4%,26.1%,59.1%,5/9,186,12,5,96,61,35,4,2:35
+19-Apr-2010,Curitiba CH,3,Clay,R32,90,928,1,1,WC,Nicolas Massu,Guilherme Clezar,6-4 5-7 6-2,1.27,12.5%,5.2%,63.5%,70.5%,60.0%,3/6,54.8%,42.2%,4.4%,26.1%,59.1%,5/9,186,12,5,96,61,35,4,2:35
+12-Apr-2010,Blumenau CH,3,Clay,QF,88,179,0,1,8,Diego Junqueira,Nicolas Massu,7-6(5) 6-2,0.73,1.5%,3.0%,65.7%,63.6%,30.4%,2/6,43.6%,34.8%,1.5%,36.5%,28.6%,2/5,133,1,2,67,44,23,1,1:50
+12-Apr-2010,Blumenau CH,3,Clay,R16,88,562,1,1,WC,Nicolas Massu,Rodrigo Guidolin,7-5 6-4,1.09,1.4%,7.0%,59.2%,64.3%,48.3%,6/9,52.3%,45.9%,3.3%,34.4%,58.6%,5/8,132,1,5,71,42,29,2,2:07
+12-Apr-2010,Blumenau CH,3,Clay,R32,88,302,1,1,,Nicolas Massu,Carles Poch Gradin,6-4 7-5,1.40,0.0%,5.3%,69.7%,66.0%,56.5%,7/10,57.9%,51.6%,0.0%,52.5%,50.0%,5/6,140,0,4,76,53,23,0,2:06
+5-Apr-2010,Houston,3,Clay,QF,94,25,0,,3,Sam Querrey,Nicolas Massu,6-3 3-6 6-4,0.81,0.0%,2.4%,63.9%,75.5%,36.7%,4/7,47.1%,31.1%,13.5%,12.5%,52.9%,2/2,157,0,2,83,53,30,10,1:50
+5-Apr-2010,Houston,3,Clay,R16,94,150,1,,Q,Nicolas Massu,Ryan Sweeting,6-7(5) 7-6(3) 6-4,1.12,1.6%,3.3%,73.2%,65.6%,39.4%,8/14,52.4%,46.5%,0.8%,44.6%,51.4%,7/14,250,2,4,123,90,33,1,3:25
+5-Apr-2010,Houston,3,Clay,R32,94,86,1,,,Nicolas Massu,Mischa Zverev,6-4 6-2,1.55,5.5%,7.3%,69.1%,68.4%,58.8%,5/7,59.5%,53.6%,0.0%,52.3%,58.3%,5/9,111,3,4,55,38,17,0,1:30
+24-Mar-2010,Miami Masters,3,Hard,R128,89,61,0,Q,,Florent Serra,Nicolas Massu,6-4 6-4,0.73,7.7%,6.2%,56.9%,78.4%,46.4%,4/6,46.3%,25.9%,3.4%,17.5%,44.4%,0/0,123,5,4,65,37,28,2,1:12
+24-Mar-2010,Miami Masters Q,3,Hard,Q2,89,127,1,6,,Nicolas Massu,Harel Levy,6-4 7-6(5),1.09,6.5%,3.2%,67.7%,66.7%,43.3%,10/13,52.2%,44.7%,3.5%,34.6%,60.6%,4/9,178,6,3,93,63,30,3,2:00
+24-Mar-2010,Miami Masters Q,3,Hard,Q1,89,205,1,6,,Nicolas Massu,Lukas Rosol,6-7(4) 6-4 6-1,1.11,4.7%,5.7%,67.9%,73.6%,47.1%,5/6,52.5%,38.8%,5.1%,35.9%,44.1%,4/8,204,5,6,106,72,34,5,2:24
+15-Mar-2010,Sunrise CH,3,Hard,R32,88,97,0,,,Andrey Golubev,Nicolas Massu,6-2 6-4,0.49,2.0%,7.8%,56.9%,65.5%,36.4%,3/7,39.4%,23.3%,14.0%,9.5%,36.4%,1/1,94,1,4,51,29,22,6,1:08
+6-Mar-2010,Davis Cup WG R1: CHI vs ISR,3,Clay,RR,92,66,1,,,Nicolas Massu,Dudi Sela,4-6 6-2 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Acapulco Q,3,Clay,Q2,96,192,0,2,8,Diego Junqueira,Nicolas Massu,6-4 5-7 6-4,0.83,3.6%,3.6%,62.3%,53.5%,53.8%,18/24,47.9%,38.3%,1.2%,30.8%,51.7%,5/6,219,5,5,138,86,52,1,3:24
+22-Feb-2010,Acapulco Q,3,Clay,Q1,96,743,1,2,WC,Nicolas Massu,Juan Manuel Elizondo,6-1 6-2,2.80,4.9%,7.3%,53.7%,86.4%,73.7%,0/0,67.1%,54.5%,4.5%,42.9%,75.0%,4/7,85,2,3,41,22,19,2,0:57
+15-Feb-2010,Buenos Aires Q,3,Clay,Q1,94,205,0,1,,Filippo Volandri,Nicolas Massu,6-2 6-3,0.79,2.9%,5.9%,52.9%,58.3%,31.3%,6/12,44.3%,42.9%,0.0%,37.0%,58.8%,2/5,131,2,4,68,36,32,0,1:45
+8-Feb-2010,Costa Do Sauipe,3,Clay,R16,99,22,0,,1,Juan Carlos Ferrero,Nicolas Massu,6-2 5-7 6-2,0.78,1.9%,3.8%,57.7%,63.3%,40.9%,8/14,45.9%,35.8%,4.9%,32.8%,47.1%,3/6,185,2,4,104,60,44,4,2:24
+8-Feb-2010,Costa Do Sauipe,3,Clay,R32,99,308,1,,Q,Nicolas Massu,Rogerio Dutra Silva,6-4 3-6 6-4,1.09,2.2%,3.4%,79.8%,66.2%,66.7%,4/6,50.8%,36.7%,2.0%,35.8%,41.2%,3/5,187,2,3,89,71,18,2,2:58
+1-Feb-2010,Santiago,3,Clay,R32,98,29,0,,2,Juan Monaco,Nicolas Massu,6-3 6-4,0.74,6.5%,3.2%,51.6%,68.8%,40.0%,6/9,43.8%,33.3%,9.1%,18.9%,51.7%,1/7,128,4,2,62,32,30,6,1:45
+25-Jan-2010,Bucaramanga CH,3,Clay,QF,97,141,0,2,7,Thiago Alves,Nicolas Massu,6-3 7-6(0),0.66,10.1%,1.1%,68.5%,60.7%,50.0%,14/16,44.9%,28.4%,9.0%,25.5%,41.7%,1/7,156,9,1,89,61,28,6,2:07
+25-Jan-2010,Bucaramanga CH,3,Clay,R16,97,160,1,2,,Nicolas Massu,Julio Silva,6-2 3-6 6-3,1.15,3.8%,6.3%,60.0%,66.7%,65.6%,2/3,52.9%,39.0%,9.1%,36.7%,42.9%,3/4,157,3,5,80,48,32,7,2:15
+25-Jan-2010,Bucaramanga CH,3,Clay,R32,97,365,1,2,Q,Nicolas Massu,Facundo Bagnis,6-2 6-4,1.37,1.5%,9.2%,52.3%,82.4%,38.7%,6/8,57.5%,52.7%,10.9%,32.0%,70.0%,5/7,120,1,6,65,34,31,6,1:44
+11-Jan-2010,Salinas CH,3,Hard,F,111,162,0,1,5,Brian Dabul,Nicolas Massu,6-3 6-2,0.69,2.2%,11.1%,51.1%,69.6%,45.5%,1/4,41.7%,29.3%,8.6%,22.2%,40.9%,0/4,103,1,5,45,23,22,5,1:34
+11-Jan-2010,Salinas CH,3,Hard,SF,111,243,1,1,,Nicolas Massu,Caio Zampieri,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,Salinas CH,3,Hard,QF,111,203,1,1,8,Nicolas Massu,Joao Souza,1-6 7-6(7) 6-4,0.85,2.0%,3.1%,60.2%,64.4%,53.8%,7/11,47.2%,34.0%,9.3%,26.7%,45.9%,3/8,195,2,3,98,59,39,9,2:33
+11-Jan-2010,Salinas CH,3,Hard,R16,111,299,1,1,,Nicolas Massu,Marcelo Demoliner,7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,Salinas CH,3,Hard,R32,111,372,1,1,Q,Nicolas Massu,Facundo Bagnis,6-4 7-5,1.22,1.3%,7.8%,49.4%,68.4%,59.0%,8/10,53.8%,44.3%,1.3%,28.9%,64.7%,4/9,156,1,6,77,38,39,1,2:22
+4-Jan-2010,Sao Paulo CH,3,Hard,R32,112,242,0,2,,Adrian Menendez Maceiras,Nicolas Massu,7-6(3) 6-3,0.72,7.9%,6.6%,60.5%,71.7%,46.7%,6/7,45.0%,27.4%,11.0%,23.7%,31.4%,0/2,149,6,5,76,46,30,8,2:01
+23-Nov-2009,Puebla CH,3,Hard,QF,116,127,0,5,4,Pere Riba,Nicolas Massu,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Puebla CH,3,Hard,R16,116,328,1,5,,Nicolas Massu,Fernando Vicente,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Puebla CH,3,Hard,R32,116,416,1,5,Q,Nicolas Massu,Bruno Rodriguez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Cancun CH,3,Clay,F,128,145,1,4,5,Nicolas Massu,Grega Zemlja,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Cancun CH,3,Clay,SF,128,178,1,4,7,Nicolas Massu,Andreas Haider Maurer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Cancun CH,3,Clay,QF,128,224,1,4,8,Nicolas Massu,Benjamin Balleret,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Cancun CH,3,Clay,R16,128,226,1,4,,Nicolas Massu,Carles Poch Gradin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Cancun CH,3,Clay,R32,128,454,1,4,Q,Nicolas Massu,Greg Ouellette,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Guayaquil CH,3,Clay,R32,134,326,0,4,Q,Guido Pella,Nicolas Massu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Medellin CH,3,Clay,R32,133,170,0,5,,Santiago Gonzalez,Nicolas Massu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Sao Paulo2 CH,3,Clay,QF,127,43,0,7,1,Thomaz Bellucci,Nicolas Massu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Sao Paulo2 CH,3,Clay,R16,127,316,1,7,Q,Nicolas Massu,Rogerio Dutra Silva,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Sao Paulo2 CH,3,Clay,R32,127,181,1,7,,Nicolas Massu,Gaston Gaudio,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Santiago2 CH,3,Clay,F,143,207,0,4,,Eduardo Schwank,Nicolas Massu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Santiago2 CH,3,Clay,SF,143,94,1,4,1,Nicolas Massu,Juan Ignacio Chela,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Santiago2 CH,3,Clay,QF,143,128,1,4,5,Nicolas Massu,Ruben Ramirez Hidalgo,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Santiago2 CH,3,Clay,R16,143,341,1,4,WC,Nicolas Massu,Fernando Romboli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Santiago2 CH,3,Clay,R32,143,255,1,4,,Nicolas Massu,Leandro Migani,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Asuncion CH,3,Clay,R32,118,201,0,2,,Gaston Gaudio,Nicolas Massu,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Montevideo CH,3,Clay,R16,92,228,0,4,,Gaston Gaudio,Nicolas Massu,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Montevideo CH,3,Clay,R32,92,186,1,4,,Nicolas Massu,Joao Souza,4-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Sep-2009,Buenos Aires CH,3,Clay,R32,91,234,0,3,,Daniel Munoz De La Nava,Nicolas Massu,6-3 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2009,Davis Cup WG PO: CHI vs AUT,3,Clay,RR,96,40,1,,,Nicolas Massu,Jurgen Melzer,4-6 6-4 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2009,Davis Cup WG PO: CHI vs AUT,3,Clay,RR,96,127,1,,,Nicolas Massu,Stefan Koubek,6-4 4-6 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,R128,89,11,0,,11,Fernando Gonzalez,Nicolas Massu,6-3 6-3 6-3,0.63,5.8%,5.8%,58.3%,53.3%,41.9%,11/17,41.5%,32.5%,15.0%,26.2%,39.5%,2/4,183,6,6,103,60,43,12,2:05
+10-Aug-2009,Brasilia2 CH,3,Hard,SF,90,150,0,1,4,Juan Ignacio Chela,Nicolas Massu,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Brasilia2 CH,3,Hard,QF,90,352,1,1,Q,Nicolas Massu,Daniel King Turner,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Brasilia2 CH,3,Hard,R16,90,391,1,1,WC,Nicolas Massu,Eladio Ribeiro Neto,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Brasilia2 CH,3,Hard,R32,90,494,1,1,Q,Nicolas Massu,Ivan Miranda,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Umag,3,Clay,QF,85,43,0,,7,Andreas Seppi,Nicolas Massu,6-4 6-4,0.70,4.4%,2.9%,52.9%,61.1%,50.0%,6/10,44.4%,31.0%,10.3%,22.9%,43.5%,2/2,126,3,2,68,36,32,6,1:35
+27-Jul-2009,Umag,3,Clay,R16,85,20,1,,2,Nicolas Massu,David Ferrer,4-6 6-2 6-4,1.08,6.4%,6.4%,66.7%,67.3%,38.5%,1/5,51.6%,45.8%,4.8%,38.9%,58.6%,6/11,161,5,5,78,52,26,4,2:17
+27-Jul-2009,Umag,3,Clay,R32,85,135,1,,WC,Nicolas Massu,Blaz Kavcic,5-7 6-3 6-2,1.22,4.7%,4.7%,67.4%,65.5%,53.6%,3/7,53.9%,46.7%,3.3%,41.4%,63.6%,6/12,178,4,4,86,58,28,3,2:44
+20-Jul-2009,Poznan CH,3,Clay,R16,84,339,0,2,Q,Alexandr Dolgopolov,Nicolas Massu,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Poznan CH,3,Clay,R32,84,213,1,2,,Nicolas Massu,David Marrero,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Bogota2 CH,3,Clay,QF,93,131,0,1,5,Horacio Zeballos,Nicolas Massu,6-7(6) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Bogota2 CH,3,Clay,R16,93,164,1,1,,Nicolas Massu,Giovanni Lapentti,3-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Bogota2 CH,3,Clay,R32,93,291,1,1,Q,Nicolas Massu,Kristian Pless,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,San Benedetto CH,3,Clay,R32,94,280,0,5,,Roberto Bautista Agut,Nicolas Massu,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Braunschweig CH,3,Clay,QF,100,75,0,,3,Oscar Hernandez,Nicolas Massu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Braunschweig CH,3,Clay,R16,100,122,1,,,Nicolas Massu,Daniel Brands,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Braunschweig CH,3,Clay,R32,100,79,1,,5,Nicolas Massu,Bjorn Phau,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Reggio Emilia CH,3,Clay,R16,100,250,0,1,,Peter Polansky,Nicolas Massu,7-6(4) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Reggio Emilia CH,3,Clay,R32,100,285,1,1,,Nicolas Massu,Pavol Cervenak,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Milan CH,3,Clay,QF,103,345,0,1,,Vincent Millot,Nicolas Massu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Milan CH,3,Clay,R16,103,325,1,1,,Nicolas Massu,Alberto Brizzi,4-6 6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Milan CH,3,Clay,R32,103,309,1,1,,Nicolas Massu,Leandro Migani,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Lugano CH,3,Clay,R32,106,108,0,,5,Simon Greul,Nicolas Massu,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Prostejov CH,3,Clay,R16,120,98,0,,,Alberto Martin,Nicolas Massu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Prostejov CH,3,Clay,R32,120,109,1,,,Nicolas Massu,Flavio Cipolla,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros,5,Clay,R64,120,18,0,,17,Stanislas Wawrinka,Nicolas Massu,6-1 6-1 6-2,0.28,0.0%,1.6%,60.7%,51.4%,37.5%,4/11,31.6%,15.1%,20.8%,6.1%,30.0%,0/0,114,0,1,61,37,24,11,1:14
+25-May-2009,Roland Garros,5,Clay,R128,120,77,1,,,Nicolas Massu,Daniel Koellerer,6-3 6-4 1-6 2-6 6-3,0.86,3.2%,3.2%,59.4%,68.5%,50.8%,11/16,49.3%,33.3%,5.1%,29.5%,41.0%,4/10,272,5,5,155,92,63,6,3:43
+17-May-2009,Kitzbuhel,3,Clay,R16,122,45,0,,LL,Julien Benneteau,Nicolas Massu,6-1 6-7(4) 7-6(7),0.86,1.8%,2.7%,69.1%,60.5%,38.2%,9/15,46.5%,39.8%,11.0%,31.3%,57.9%,4/9,228,2,3,110,76,34,13,3:07
+17-May-2009,Kitzbuhel,3,Clay,R32,122,378,1,,Q,Nicolas Massu,Robin Vik,6-4 6-2,1.13,2.4%,3.6%,57.1%,66.7%,50.0%,8/9,54.6%,45.7%,0.0%,39.4%,61.5%,4/5,130,2,3,84,48,36,0,1:48
+10-May-2009,Madrid Masters Q,3,Clay,Q1,113,197,0,12,,Juan Ignacio Chela,Nicolas Massu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Belgrade,3,Clay,R32,98,108,0,,,Brian Dabul,Nicolas Massu,6-2 6-1,0.63,4.0%,0.0%,56.0%,53.6%,45.5%,8/12,40.4%,31.5%,7.4%,25.6%,46.7%,0/3,104,2,0,50,28,22,4,1:15
+27-Apr-2009,Rome Masters Q,3,Clay,Q2,86,59,0,14,4,Jan Hernych,Nicolas Massu,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Rome Masters Q,3,Clay,Q1,86,411,1,14,WC,Nicolas Massu,Thomas Fabbiano,6-7(5) 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Barcelona Q,3,Clay,Q1,86,146,0,4,,Pere Riba,Nicolas Massu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2009,Monte Carlo Masters Q,3,Clay,Q1,87,108,0,11,,Fabio Fognini,Nicolas Massu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2009,Miami Masters,3,Hard,R32,91,4,0,,4,Andy Murray,Nicolas Massu,6-4 6-4,0.77,7.4%,8.8%,50.0%,64.7%,32.4%,2/7,44.3%,39.7%,6.3%,32.4%,50.0%,3/8,131,5,6,68,34,34,4,1:47
+25-Mar-2009,Miami Masters,3,Hard,R64,91,28,1,,27,Nicolas Massu,Mardy Fish,5-7 7-6(4) 6-2,1.01,9.9%,4.0%,60.4%,78.7%,57.5%,2/3,51.0%,30.1%,15.1%,24.6%,38.9%,2/6,194,10,4,101,61,40,14,2:22
+25-Mar-2009,Miami Masters,3,Hard,R128,91,164,1,,WC,Nicolas Massu,Ryan Sweeting,6-4 7-6(2),1.27,3.8%,8.9%,67.1%,64.2%,50.0%,6/10,56.0%,51.6%,6.5%,36.4%,69.0%,5/6,141,3,7,79,53,26,4,1:41
+12-Mar-2009,Indian Wells Masters,3,Hard,R64,95,25,0,,24,Marat Safin,Nicolas Massu,6-3 7-6(2),0.73,9.5%,5.4%,63.5%,70.2%,40.7%,9/12,45.7%,29.7%,7.8%,14.7%,46.7%,2/2,138,7,4,74,47,27,5,1:42
+12-Mar-2009,Indian Wells Masters,3,Hard,R128,95,56,1,,,Nicolas Massu,Eduardo Schwank,7-6(1) 6-7(5) 6-4,1.07,1.6%,1.6%,67.2%,70.9%,57.1%,11/12,50.8%,35.8%,3.0%,31.3%,42.6%,2/13,262,2,2,128,86,42,4,3:21
+6-Mar-2009,Davis Cup WG R1: CRO vs CHI,3,Hard,RR,98,30,0,,,Mario Ancic,Nicolas Massu,6-3 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Buenos Aires,3,Clay,R32,82,75,0,,,Diego Junqueira,Nicolas Massu,3-6 6-4 6-4,0.86,4.8%,5.7%,60.0%,61.9%,45.2%,9/13,47.7%,38.6%,3.4%,39.3%,37.5%,4/6,193,5,6,105,63,42,3,2:45
+9-Feb-2009,Costa Do Sauipe,3,Clay,R32,83,69,0,,,Martin Vassallo Arguello,Nicolas Massu,7-6(4) 2-6 6-4,1.01,1.8%,5.5%,50.5%,67.3%,50.0%,11/15,50.0%,41.7%,1.7%,35.9%,54.1%,5/11,224,2,6,109,55,54,2,3:06
+2-Feb-2009,Vi帽a del Mar,3,Clay,R32,81,71,0,,7,Agustin Calleri,Nicolas Massu,7-6(4) 6-1,0.78,1.6%,3.2%,61.9%,53.8%,50.0%,3/7,44.5%,36.9%,4.6%,22.7%,66.7%,2/3,128,1,2,63,39,24,3,1:40
+19-Jan-2009,Australian Open,5,Hard,R128,84,18,0,,17,Nicolas Almagro,Nicolas Massu,6-4 6-4 3-6 5-7 6-3,0.89,6.5%,5.0%,61.9%,74.4%,58.5%,5/9,48.4%,28.3%,22.5%,19.5%,43.1%,3/7,277,9,7,139,86,53,31,3:30
+12-Jan-2009,Auckland Q,3,Hard,Q1,84,95,0,5,,Gilles Muller,Nicolas Massu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Medellin CH,3,Clay,R16,78,200,0,2,,Sebastian Decoud,Nicolas Massu,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Medellin CH,3,Clay,R32,78,359,1,2,Q,Nicolas Massu,Michael Quintero,6-2 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Cali2 CH,3,Clay,QF,84,117,0,2,,Paul Capdeville,Nicolas Massu,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Cali2 CH,3,Clay,R16,84,113,1,2,,Nicolas Massu,Thiago Alves,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Cali2 CH,3,Clay,R32,84,356,1,2,WC,Nicolas Massu,Carlos Salamanca,1-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Montevideo CH,3,Clay,F,90,207,0,4,,Peter Luczak,Nicolas Massu,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Montevideo CH,3,Clay,SF,90,109,1,4,6,Nicolas Massu,Santiago Ventura,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Montevideo CH,3,Clay,QF,90,113,1,4,,Nicolas Massu,Leonardo Mayer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Montevideo CH,3,Clay,R16,90,126,1,4,,Nicolas Massu,Sergio Roitman,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Montevideo CH,3,Clay,R32,90,155,1,4,,Nicolas Massu,Olivier Patience,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,F,104,174,1,2,6,Nicolas Massu,Olivier Patience,6-7(4) 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,SF,104,212,1,2,8,Nicolas Massu,Peter Luczak,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,QF,104,118,1,2,5,Nicolas Massu,Paul Capdeville,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,R16,104,335,1,2,,Nicolas Massu,Eric Gomes,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,R32,104,267,1,2,,Nicolas Massu,Daniel Dutra Da Silva,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Aracaju CH,3,Clay,QF,106,321,0,3,,Carles Poch Gradin,Nicolas Massu,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Aracaju CH,3,Clay,R16,106,275,1,3,,Nicolas Massu,Adam Vejmelka,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Aracaju CH,3,Clay,R32,106,189,1,3,,Nicolas Massu,Ricardo Mello,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup WG PO: CHI vs AUS,3,Clay,RR,108,80,1,,,Nicolas Massu,Chris Guccione,7-6(4) 7-6(5) 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Seville CH,3,Clay,R32,107,329,0,,,Carles Poch Gradin,Nicolas Massu,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Genova CH,3,Clay,SF,121,257,0,4,,Gianluca Naso,Nicolas Massu,7-6(5) 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Genova CH,3,Clay,QF,121,226,1,4,,Nicolas Massu,Konstantinos Economidis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Genova CH,3,Clay,R16,121,1109,1,4,WC,Nicolas Massu,Daniele Bracciali,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Genova CH,3,Clay,R32,121,299,1,4,,Nicolas Massu,Grega Zemlja,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Como CH,3,Clay,SF,121,105,0,4,2,Diego Junqueira,Nicolas Massu,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Como CH,3,Clay,QF,121,222,1,4,,Nicolas Massu,Jean Rene Lisnard,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Como CH,3,Clay,R16,121,226,1,4,,Nicolas Massu,Konstantinos Economidis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Como CH,3,Clay,R32,121,392,1,4,WC,Nicolas Massu,Thomas Fabbiano,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q2,121,200,0,9,,Rui Machado,Nicolas Massu,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q1,121,242,1,9,,Nicolas Massu,Andre Miele,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Beijing Olympics,3,Hard,R32,125,8,0,WC,7,David Nalbandian,Nicolas Massu,7-6(0) 6-1,0.68,9.1%,7.3%,58.2%,62.5%,47.8%,1/4,42.0%,29.7%,12.5%,15.8%,50.0%,1/2,119,5,4,55,32,23,8,1:26
+11-Aug-2008,Beijing Olympics,3,Hard,R64,125,63,1,WC,,Nicolas Massu,Steve Darcis,6-4 7-5,1.34,5.8%,2.9%,69.6%,70.8%,61.9%,5/7,56.1%,42.9%,4.8%,30.6%,59.3%,4/8,132,4,2,69,48,21,3,1:38
+28-Jul-2008,Belo Horizonte CH,3,Hard,F,138,287,0,1,,Santiago Gonzalez,Nicolas Massu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,SF,138,156,1,1,3,Nicolas Massu,Leonardo Mayer,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,QF,138,436,1,1,,Nicolas Massu,Carlos Salamanca,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,R16,138,257,1,1,Q,Nicolas Massu,Giovanni Lapentti,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,R32,138,293,1,1,,Nicolas Massu,Marcel Felder,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Umag,3,Clay,R32,136,55,0,,6,Guillermo Canas,Nicolas Massu,7-5 6-2,0.76,0.0%,10.9%,60.9%,53.8%,20.0%,1/8,42.7%,45.0%,6.7%,28.1%,64.3%,4/8,124,0,7,64,39,25,4,1:45
+7-Jul-2008,Bastad,3,Clay,R32,134,133,0,Q,,Boris Pashanski,Nicolas Massu,6-2 6-3,0.64,2.2%,4.3%,41.3%,68.4%,40.7%,3/6,40.0%,30.5%,1.7%,23.7%,42.9%,0/4,105,1,2,46,19,27,1,1:22
+7-Jul-2008,Bastad Q,3,Clay,Q2,134,750,1,1,7,Nicolas Massu,Henrik Norfeldt,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Bastad Q,3,Clay,Q1,134,,1,1,WC,Nicolas Massu,Daniel Berta,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Lugano CH,3,Clay,R32,131,100,0,,6,Nicolas Devilder,Nicolas Massu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Reggio Emilia CH,3,Clay,R16,131,153,0,5,,Leonardo Mayer,Nicolas Massu,1-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Reggio Emilia CH,3,Clay,R32,131,311,1,5,WC,Nicolas Massu,Alessio Di Mauro,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Braunschweig CH,3,Clay,R32,133,94,0,,1,Jiri Vanek,Nicolas Massu,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q2,123,210,0,10,,Daniel Brands,Nicolas Massu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q1,123,222,1,10,,Nicolas Massu,Gary Lugassy,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,SF,121,53,0,4,1,Gael Monfils,Nicolas Massu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,QF,121,109,1,4,6,Nicolas Massu,Martin Vassallo Arguello,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,R16,121,192,1,4,,Nicolas Massu,Michail Elgin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,R32,121,482,1,4,Q,Nicolas Massu,Julien Jeanpierre,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rijeka CH,3,Clay,F,112,145,1,4,5,Nicolas Massu,Christophe Rochus,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rijeka CH,3,Clay,SF,112,228,1,4,,Nicolas Massu,Dick Norman,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rijeka CH,3,Clay,QF,112,314,1,4,,Nicolas Massu,Jaroslav Pospisil,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rijeka CH,3,Clay,R16,112,221,1,4,,Nicolas Massu,Alexander Peya,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rijeka CH,3,Clay,R32,112,298,1,4,,Nicolas Massu,Benjamin Balleret,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Tunis CH,3,Clay,SF,117,126,0,5,8,Thomaz Bellucci,Nicolas Massu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Tunis CH,3,Clay,QF,117,63,1,5,1,Nicolas Massu,Julien Benneteau,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Tunis CH,3,Clay,R16,117,235,1,5,,Nicolas Massu,Catalin Gard,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Tunis CH,3,Clay,R32,117,1159,1,5,WC,Nicolas Massu,Malek Jaziri,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Bermuda CH,3,Clay,R16,115,88,0,,8,Ernests Gulbis,Nicolas Massu,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Bermuda CH,3,Clay,R32,115,164,1,,,Nicolas Massu,Daniel Koellerer,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Houston,3,Clay,R16,108,91,0,,,Marcos Daniel,Nicolas Massu,7-6(3) 6-2,0.83,3.1%,4.6%,55.4%,69.4%,55.2%,4/6,45.5%,30.8%,3.8%,22.6%,48.0%,0/4,143,2,3,65,36,29,3,1:51
+14-Apr-2008,Houston,3,Clay,R32,108,50,1,,4,Nicolas Massu,Sam Querrey,5-7 6-4 6-4,1.19,4.1%,3.1%,69.4%,69.1%,50.0%,3/7,52.5%,43.8%,6.6%,31.5%,53.7%,5/20,219,4,3,98,68,30,8,2:48
+11-Apr-2008,Davis Cup G1 R2: CHI vs CAN,3,Clay,RR,111,197,1,,,Nicolas Massu,Frederic Niemeyer,3-6 6-4 6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2008,Napoli CH,3,Clay,R32,109,147,0,,,Pablo Andujar,Nicolas Massu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2008,Miami Masters Q,3,Hard,Q1,109,134,0,11,,Diego Hartfield,Nicolas Massu,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Sunrise CH,3,Hard,R32,102,126,0,,WC,Kei Nishikori,Nicolas Massu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters,3,Hard,R64,102,15,0,,15,Tommy Robredo,Nicolas Massu,6-4 5-7 7-6(5),1.09,0.9%,1.7%,63.5%,68.5%,57.1%,8/11,51.0%,38.9%,0.0%,37.6%,42.4%,3/6,241,1,2,115,73,42,0,3:05
+13-Mar-2008,Indian Wells Masters,3,Hard,R128,102,41,1,,,Nicolas Massu,Janko Tipsarevic,6-4 3-6 7-6(4),1.06,8.8%,3.5%,55.8%,68.3%,58.0%,9/12,50.2%,38.3%,15.6%,25.4%,50.8%,3/13,241,10,4,113,63,50,20,3:12
+3-Mar-2008,Las Vegas,3,Hard,R32,98,90,0,,,Ernests Gulbis,Nicolas Massu,7-5 4-6 6-4,1.23,8.3%,4.8%,65.5%,78.2%,62.1%,3/5,51.1%,33.7%,18.3%,24.1%,45.7%,1/6,188,7,4,84,55,29,19,1:54
+25-Feb-2008,Acapulco,3,Clay,QF,96,28,0,,6,Nicolas Almagro,Nicolas Massu,4-6 6-3 6-3,0.63,3.5%,0.0%,72.9%,66.1%,47.8%,2/5,44.0%,24.3%,14.9%,17.5%,47.1%,1/4,159,3,0,85,62,23,11,1:59
+25-Feb-2008,Acapulco,3,Clay,R16,96,13,1,,2,Nicolas Massu,Carlos Moya,6-4 6-2,1.55,3.3%,3.3%,61.7%,81.1%,56.5%,1/1,57.1%,43.9%,6.1%,37.8%,57.1%,3/9,126,2,2,60,37,23,4,1:39
+25-Feb-2008,Acapulco,3,Clay,R32,96,107,1,,,Nicolas Massu,Martin Vassallo Arguello,6-3 6-4,1.39,6.9%,3.4%,58.6%,76.5%,50.0%,1/3,55.6%,48.0%,1.3%,45.3%,54.5%,4/9,133,4,2,58,34,24,1,1:57
+18-Feb-2008,Buenos Aires,3,Clay,R32,97,41,0,,8,Filippo Volandri,Nicolas Massu,6-4 6-2,0.71,6.4%,2.1%,51.1%,58.3%,43.5%,2/6,42.2%,34.5%,0.0%,42.5%,13.3%,1/5,102,3,1,47,24,23,0,1:20
+11-Feb-2008,Costa Do Sauipe,3,Clay,R32,94,31,0,,2,Nicolas Almagro,Nicolas Massu,6-3 6-2,0.52,4.3%,8.7%,43.5%,70.0%,34.6%,1/5,38.0%,26.1%,21.7%,20.6%,41.7%,1/2,92,2,4,46,20,26,10,1:04
+28-Jan-2008,Vina del Mar,3,Clay,R32,70,72,0,8,,Sergio Roitman,Nicolas Massu,6-7(3) 7-6(4) 6-3,1.00,3.4%,6.8%,59.3%,67.1%,52.1%,6/11,49.8%,38.8%,2.5%,33.3%,46.2%,4/13,239,4,8,118,70,48,3,3:19
+14-Jan-2008,Australian Open,5,Hard,R128,69,15,0,,12,James Blake,Nicolas Massu,6-3 6-2 6-2,0.62,7.9%,3.9%,71.1%,59.3%,31.8%,7/13,40.4%,30.0%,13.8%,18.2%,44.4%,1/4,156,6,3,76,54,22,11,1:36
+7-Jan-2008,Auckland,3,Hard,QF,80,24,0,Q,4,Juan Carlos Ferrero,Nicolas Massu,4-6 6-3 6-4,0.84,5.6%,4.6%,60.2%,61.5%,48.8%,7/12,47.9%,36.6%,1.2%,29.8%,52.0%,3/5,190,6,5,108,65,43,1,2:33
+7-Jan-2008,Auckland,3,Hard,R16,80,165,1,Q,,Nicolas Massu,Xavier Malisse,6-4 6-4,1.03,4.3%,4.3%,61.4%,67.4%,55.6%,6/7,52.0%,38.2%,9.1%,24.3%,66.7%,3/5,125,3,3,70,43,27,5,1:39
+7-Jan-2008,Auckland,3,Hard,R32,80,1214,1,Q,Q,Nicolas Massu,G Jones,6-4 6-2,2.08,11.4%,0.0%,70.5%,83.9%,61.5%,0/1,60.6%,47.3%,3.6%,39.5%,64.7%,4/6,99,5,0,44,31,13,2,1:23
+7-Jan-2008,Auckland Q,3,Hard,Q3,80,170,1,3,5,Nicolas Massu,Jesse Levine,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2008,Auckland Q,3,Hard,Q2,80,251,1,3,,Nicolas Massu,Francesco Aldi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2007,Paris Masters Q,3,Hard,Q2,79,51,0,12,2,Juan Martin Del Potro,Nicolas Massu,6-7(5) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2007,Paris Masters Q,3,Hard,Q1,79,95,1,12,,Nicolas Massu,Edouard Roger Vasselin,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,St. Petersburg,3,Carpet,R16,78,47,0,,,Ernests Gulbis,Nicolas Massu,6-1 6-2,0.32,2.2%,4.4%,51.1%,56.5%,36.4%,4/8,32.6%,17.1%,34.1%,3.4%,50.0%,0/1,86,1,2,45,23,22,14,0:51
+22-Oct-2007,St. Petersburg,3,Carpet,R32,78,103,1,,,Nicolas Massu,Teymuraz Gabashvili,3-6 6-3 6-4,1.00,3.3%,0.0%,71.1%,67.2%,73.1%,6/7,51.8%,31.1%,4.1%,31.3%,30.8%,2/6,164,3,0,90,64,26,3,1:58
+15-Oct-2007,Madrid Masters Q,3,Hard,Q2,74,68,0,8,4,Stefan Koubek,Nicolas Massu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Madrid Masters Q,3,Hard,Q1,74,,1,8,WC,Nicolas Massu,Guillermo Alcorta Olarra,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2007,Stockholm,3,Hard,R32,74,25,0,,7,Ivo Karlovic,Nicolas Massu,7-6(6) 6-7(4) 6-4,0.71,1.7%,0.9%,75.7%,74.7%,57.1%,10/11,47.4%,21.0%,34.0%,22.5%,17.2%,0/3,215,2,1,115,87,28,34,2:46
+1-Oct-2007,Metz,3,Hard,R32,74,119,0,,,Nicolas Lapentti,Nicolas Massu,3-6 6-4 7-6(3),1.02,2.8%,4.7%,63.6%,72.1%,43.6%,10/13,49.8%,39.2%,9.2%,30.6%,52.1%,4/10,227,3,5,107,68,39,11,3:08
+20-Sep-2007,Davis Cup WG PO: ISR vs CHI,3,Hard,RR,72,105,0,,,Dudi Sela,Nicolas Massu,6-3 6-4 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,US Open,5,Hard,R128,66,68,0,,,Thomas Johansson,Nicolas Massu,2-6 7-6(3) 6-3 6-3,0.81,8.7%,1.7%,55.7%,68.8%,51.0%,5/10,47.0%,31.7%,11.5%,30.2%,33.3%,4/7,219,10,2,115,64,51,12,2:43
+19-Aug-2007,New Haven,3,Hard,R64,60,66,0,,,Robby Ginepri,Nicolas Massu,7-6(1) 6-4,0.77,8.6%,3.2%,64.5%,68.3%,24.2%,9/13,45.9%,36.4%,15.2%,29.5%,50.0%,3/7,159,8,3,93,60,33,10,1:43
+30-Jul-2007,Sopot,3,Clay,R32,64,150,0,,Q,Steve Darcis,Nicolas Massu,6-7(8) 7-6(0) 6-4,0.84,3.2%,1.6%,46.8%,62.1%,59.1%,5/9,48.0%,33.3%,4.8%,24.6%,47.5%,3/8,229,4,2,124,58,66,5,3:13
+23-Jul-2007,Kitzbuhel,3,Clay,R32,65,78,0,13,,Sergio Roitman,Nicolas Massu,7-5 6-2,0.84,0.0%,4.6%,44.6%,69.0%,36.1%,7/12,45.9%,41.2%,2.9%,40.5%,41.9%,2/4,133,0,3,65,29,36,2,1:46
+16-Jul-2007,Amersfoort,3,Clay,R32,53,396,0,,WC,Thiemo De Bakker,Nicolas Massu,7-6(7) 7-6(5),1.01,1.2%,3.6%,61.9%,67.3%,65.6%,2/3,49.2%,33.7%,5.3%,34.4%,32.3%,1/5,179,1,3,84,52,32,5,2:25
+9-Jul-2007,Bastad,3,Clay,R16,52,15,0,,2,David Ferrer,Nicolas Massu,6-3 3-6 6-3,0.72,5.2%,0.0%,62.5%,66.7%,38.9%,6/10,45.6%,31.5%,0.0%,25.5%,45.5%,3/3,169,5,0,96,60,36,0,2:17
+9-Jul-2007,Bastad,3,Clay,R32,52,78,1,,,Nicolas Massu,Evgeny Korolev,4-6 6-3 6-4,1.36,7.5%,5.4%,65.6%,80.3%,53.1%,3/4,53.3%,39.5%,8.4%,31.6%,53.5%,2/13,212,7,5,93,61,32,10,2:46
+25-Jun-2007,Wimbledon,5,Grass,R128,52,11,0,,7,Tomas Berdych,Nicolas Massu,7-6(5) 6-4 6-2,0.64,8.2%,3.1%,67.0%,69.2%,62.5%,6/9,44.9%,21.1%,15.6%,9.3%,38.9%,0/6,187,8,3,97,65,32,14,1:56
+28-May-2007,Roland Garros,5,Clay,R64,49,125,0,,,Igor Andreev,Nicolas Massu,6-3 3-6 6-3 7-5,0.75,1.4%,3.5%,61.5%,53.4%,60.0%,11/17,46.2%,33.0%,3.8%,24.0%,54.8%,4/7,249,2,5,143,88,55,4,2:58
+28-May-2007,Roland Garros,5,Clay,R128,49,82,1,,,Nicolas Massu,Luis Horna,6-4 7-5 3-6 6-7(1) 6-2,1.11,5.2%,1.3%,76.1%,65.3%,56.8%,16/22,51.5%,40.8%,6.5%,32.2%,59.3%,9/14,324,8,2,155,118,37,11,4:14
+20-May-2007,Dusseldorf,3,Clay,RR,49,38,1,,,Nicolas Massu,Jonas Bjorkman,7-5 6-7(6) 6-0,1.22,3.7%,4.6%,70.4%,71.1%,46.9%,6/8,54.4%,43.9%,5.1%,28.3%,68.4%,6/14,206,4,5,108,76,32,5,2:32
+20-May-2007,Dusseldorf,3,Clay,RR,49,45,0,,,Jose Acasuso,Nicolas Massu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2007,Dusseldorf,3,Clay,RR,49,31,1,,,Nicolas Massu,Mardy Fish,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Hamburg Masters,3,Clay,R64,51,26,0,Q,,Marat Safin,Nicolas Massu,7-6(7) 6-4,0.83,1.3%,3.9%,62.3%,64.6%,48.3%,4/8,46.7%,34.7%,6.7%,29.8%,42.9%,3/9,152,1,3,77,48,29,5,2:01
+14-May-2007,Hamburg Masters Q,3,Clay,Q2,51,72,1,5,10,Nicolas Massu,Michael Russell,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Hamburg Masters Q,3,Clay,Q1,51,88,1,5,,Nicolas Massu,Andrei Pavel,6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Rome Masters,3,Clay,R16,59,6,0,Q,6,Fernando Gonzalez,Nicolas Massu,6-7(4) 6-3 6-4,0.74,0.0%,2.6%,71.9%,59.8%,43.8%,6/12,45.5%,33.0%,2.3%,29.0%,42.3%,3/6,202,0,3,114,82,32,2,3:00
+7-May-2007,Rome Masters,3,Clay,R32,59,9,1,Q,9,Nicolas Massu,James Blake,7-6(3) 7-5,1.06,2.6%,9.0%,59.0%,63.0%,50.0%,3/7,51.3%,44.9%,6.4%,34.1%,58.8%,5/14,156,2,7,78,46,32,5,1:58
+7-May-2007,Rome Masters,3,Clay,R64,59,76,1,Q,WC,Nicolas Massu,Simone Bolelli,6-3 7-6(5),1.29,3.3%,1.6%,59.0%,72.2%,72.0%,0/1,53.6%,35.9%,1.6%,28.6%,50.0%,3/4,125,2,1,61,36,25,1,1:47
+7-May-2007,Rome Masters Q,3,Clay,Q2,59,89,1,6,14,Nicolas Massu,Ivo Karlovic,6-7(2) 7-6(5) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Rome Masters Q,3,Clay,Q1,59,115,1,6,,Nicolas Massu,Alejandro Falla,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Munich,3,Clay,R16,61,12,0,,2,Tomas Berdych,Nicolas Massu,7-5 6-1,0.57,2.1%,6.3%,52.1%,68.0%,34.8%,1/5,38.8%,27.3%,16.4%,22.2%,36.8%,1/1,103,1,3,48,25,23,9,1:11
+30-Apr-2007,Munich,3,Clay,R32,61,67,1,,,Nicolas Massu,Thomas Johansson,6-2 6-1,1.77,15.2%,0.0%,67.4%,80.6%,53.3%,1/1,59.1%,50.0%,4.7%,44.8%,54.3%,4/16,110,7,0,46,31,15,3,1:10
+23-Apr-2007,Casablanca,3,Clay,R16,52,77,0,7,,Albert Montanes,Nicolas Massu,6-1 2-1 RET,0.59,7.3%,0.0%,70.7%,58.6%,8.3%,9/13,39.4%,33.3%,6.7%,17.6%,53.8%,1/3,71,3,0,41,29,12,2,0:56
+23-Apr-2007,Casablanca,3,Clay,R32,52,79,1,7,,Nicolas Massu,Sergio Roitman,6-2 6-3,1.46,4.3%,6.5%,56.5%,73.1%,55.0%,1/2,57.6%,50.9%,0.0%,43.2%,88.9%,5/8,99,2,3,46,26,20,0,1:14
+15-Apr-2007,Monte Carlo Masters,3,Clay,R32,55,21,0,,16,Juan Carlos Ferrero,Nicolas Massu,6-2 6-0,0.36,0.0%,7.3%,53.7%,45.5%,42.1%,4/9,32.9%,20.0%,2.9%,12.5%,36.4%,0/0,76,0,3,41,22,19,1,0:54
+15-Apr-2007,Monte Carlo Masters,3,Clay,R64,55,53,1,,,Nicolas Massu,Filippo Volandri,4-6 7-5 6-3,1.04,4.2%,5.0%,48.3%,58.6%,53.2%,9/15,51.7%,46.1%,0.0%,40.6%,60.0%,7/13,209,5,6,120,58,62,0,2:46
+19-Mar-2007,Miami Masters,3,Hard,R128,50,84,0,,Q,Feliciano Lopez,Nicolas Massu,6-3 6-3,0.73,5.3%,7.0%,50.9%,62.1%,42.9%,5/9,43.0%,34.4%,18.8%,18.9%,55.6%,1/10,121,3,4,57,29,28,12,1:19
+12-Mar-2007,Sunrise CH,3,Hard,SF,50,102,0,6,,Andreas Seppi,Nicolas Massu,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,QF,50,93,1,6,,Nicolas Massu,Potito Starace,6-4 7-6(10),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,R16,50,78,1,6,,Nicolas Massu,Igor Kunitsyn,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,R32,50,368,1,6,Q,Nicolas Massu,Ivan Miranda,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Indian Wells Masters,3,Hard,R128,50,68,0,,,Guillermo Garcia Lopez,Nicolas Massu,6-3 7-6(3),0.84,4.5%,1.5%,60.6%,75.0%,46.2%,1/3,45.5%,30.4%,11.4%,19.6%,50.0%,1/7,145,3,1,66,40,26,9,2:41
+26-Feb-2007,Acapulco,3,Clay,QF,53,35,0,6,4,Juan Ignacio Chela,Nicolas Massu,6-3 6-7(6) 7-5,0.81,6.5%,4.8%,66.9%,61.4%,51.2%,12/18,46.8%,33.9%,1.8%,23.9%,52.6%,4/9,233,8,6,124,83,41,2,3:39
+26-Feb-2007,Acapulco,3,Clay,R16,53,109,1,6,,Nicolas Massu,Stefano Galvani,7-6(2) 6-3,1.23,4.0%,5.3%,58.7%,65.9%,61.3%,5/7,53.9%,44.2%,0.0%,28.6%,71.4%,3/8,152,3,4,75,44,31,0,2:01
+26-Feb-2007,Acapulco,3,Clay,R32,53,58,1,6,,Nicolas Massu,Juan Monaco,7-6(4) 7-5,1.45,10.8%,5.4%,63.5%,74.5%,70.4%,0/1,54.7%,39.1%,3.4%,31.0%,55.2%,2/7,161,8,4,74,47,27,3,2:03
+9-Feb-2007,Davis Cup WG R1: CHI vs RUS,3,Clay,RR,42,24,0,,,Marat Safin,Nicolas Massu,6-3 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup WG R1: CHI vs RUS,3,Clay,RR,42,147,0,,,Igor Andreev,Nicolas Massu,6-2 6-1 6-7(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2007,Vina del Mar,3,Clay,F,70,76,0,3,5,Luis Horna,Nicolas Massu,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2007,Vina del Mar,3,Clay,SF,70,46,1,3,7,Nicolas Massu,Albert Montanes,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2007,Vina del Mar,3,Clay,QF,70,72,1,3,6,Nicolas Massu,Sergio Roitman,0-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2007,Vina del Mar,3,Clay,RR,70,385,1,3,,Nicolas Massu,Gorka Fraile,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2007,Vina del Mar,3,Clay,RR,70,100,1,3,WC,Nicolas Massu,Paul Capdeville,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open,5,Hard,R128,43,15,0,,14,Novak Djokovic,Nicolas Massu,6-1 6-1 6-0,0.44,1.4%,5.8%,53.6%,45.9%,37.5%,7/15,34.4%,25.4%,8.5%,17.5%,42.1%,0/3,128,1,4,69,37,32,5,1:21
+8-Jan-2007,Auckland,3,Hard,R16,42,33,0,,,Juan Ignacio Chela,Nicolas Massu,7-5 4-6 6-3,1.00,6.7%,3.8%,60.0%,69.8%,42.9%,12/16,49.1%,40.8%,0.8%,37.0%,46.2%,3/9,230,7,4,105,63,42,1,3:00
+8-Jan-2007,Auckland,3,Hard,R32,42,24,1,,6,Nicolas Massu,Juan Carlos Ferrero,6-4 6-2,1.20,9.8%,3.3%,55.7%,82.4%,48.1%,5/5,54.5%,39.2%,7.8%,35.7%,43.5%,3/6,112,6,2,61,34,27,4,1:21
+30-Oct-2006,Paris Masters,3,Carpet,R64,43,41,0,,,Arnaud Clement,Nicolas Massu,6-1 6-4,0.42,10.0%,2.0%,62.0%,71.0%,36.8%,4/7,38.9%,17.8%,15.6%,10.5%,23.1%,0/0,95,5,1,50,31,19,7,1:06
+23-Oct-2006,Lyon,3,Carpet,R16,45,26,0,,5,Robin Soderling,Nicolas Massu,7-5 6-3,0.66,8.6%,3.7%,51.9%,69.0%,46.2%,7/9,44.5%,27.7%,15.4%,14.3%,52.2%,0/3,146,7,3,81,42,39,10,1:52
+23-Oct-2006,Lyon,3,Carpet,R32,45,87,1,,,Nicolas Massu,Kevin Kim,7-6(6) 7-5,1.32,9.7%,1.4%,58.3%,81.0%,63.3%,0/0,52.2%,34.8%,3.4%,33.3%,36.4%,1/5,161,7,1,72,42,30,3,1:48
+16-Oct-2006,Madrid Masters,3,Hard,R32,45,1,0,,1,Roger Federer,Nicolas Massu,6-3 6-2,0.66,3.6%,3.6%,61.8%,64.7%,38.1%,3/6,42.0%,29.8%,12.3%,22.6%,38.5%,0/3,112,2,2,55,34,21,7,1:25
+16-Oct-2006,Madrid Masters,3,Hard,R64,45,20,1,,,Nicolas Massu,Gaston Gaudio,4-6 6-3 RET,1.06,7.0%,7.0%,49.1%,71.4%,51.7%,1/4,51.3%,41.1%,0.0%,28.6%,61.9%,3/4,113,4,4,57,28,29,0,1:28
+9-Oct-2006,Stockholm,3,Hard,R32,45,35,0,,7,Kristof Vliegen,Nicolas Massu,6-2 6-4,0.56,0.0%,3.6%,50.9%,57.1%,44.4%,5/9,39.6%,27.5%,5.9%,22.2%,33.3%,1/2,106,0,2,55,28,27,3,1:20
+28-Aug-2006,US Open,5,Hard,R64,41,54,0,,,Mikhail Youzhny,Nicolas Massu,5-7 6-7(6) 6-4 6-3 6-0,0.82,4.5%,5.1%,59.9%,64.9%,46.0%,7/16,46.6%,35.1%,6.1%,21.6%,48.6%,5/9,305,7,8,157,94,63,9,3:53
+28-Aug-2006,US Open,5,Hard,R128,41,57,1,,,Nicolas Massu,Davide Sanguinetti,6-7(4) 6-4 6-4 6-4,1.21,8.6%,3.9%,50.0%,85.9%,54.7%,3/4,52.2%,35.9%,11.3%,24.1%,50.8%,4/14,270,11,5,128,64,64,16,3:04
+21-Aug-2006,New Haven,3,Hard,QF,40,32,0,14,10,Agustin Calleri,Nicolas Massu,6-3 3-6 6-4,0.80,6.6%,5.5%,50.5%,69.6%,57.8%,5/8,47.6%,29.1%,13.9%,15.2%,48.5%,2/4,170,6,5,91,46,45,11,1:53
+21-Aug-2006,New Haven,3,Hard,R16,40,15,1,14,4,Nicolas Massu,Jarkko Nieminen,6-3 6-4,1.43,9.2%,7.7%,44.6%,86.2%,58.3%,2/2,56.7%,41.9%,1.6%,31.0%,51.5%,2/4,127,6,5,65,29,36,1,1:28
+21-Aug-2006,New Haven,3,Hard,R32,40,89,1,14,,Nicolas Massu,Boris Pashanski,6-3 7-6(4),1.99,29.8%,3.5%,73.7%,85.7%,73.3%,1/2,56.9%,34.8%,4.5%,29.5%,45.5%,2/5,123,17,2,57,42,15,3,1:18
+14-Aug-2006,Cincinnati Masters,3,Hard,R64,40,13,0,,13,Fernando Gonzalez,Nicolas Massu,6-4 6-4,0.94,5.5%,5.5%,60.0%,72.7%,50.0%,1/4,47.5%,34.3%,7.5%,23.9%,57.1%,1/4,122,3,3,55,33,22,5,1:22
+7-Aug-2006,Canada Masters,3,Hard,R64,38,2,0,,2,Rafael Nadal,Nicolas Massu,6-3 6-2,0.70,6.3%,7.8%,50.0%,71.9%,25.0%,1/6,42.4%,36.1%,0.0%,30.3%,42.9%,1/8,125,4,5,64,32,32,0,1:49
+24-Jul-2006,Kitzbuhel,3,Clay,R16,34,59,0,6,9,Agustin Calleri,Nicolas Massu,6-2 7-6(4),0.70,2.7%,5.4%,40.5%,73.3%,45.5%,7/10,44.1%,30.4%,17.4%,24.3%,37.5%,1/5,143,2,4,74,30,44,12,1:52
+24-Jul-2006,Kitzbuhel,3,Clay,R32,34,188,1,6,Q,Nicolas Massu,Alex Calatrava,3-6 7-5 7-6(3),1.05,12.1%,3.7%,54.2%,81.0%,55.1%,9/10,50.2%,32.5%,7.9%,35.9%,28.0%,1/10,221,13,4,107,58,49,9,3:06
+17-Jul-2006,Amersfoort,3,Clay,F,37,36,0,4,3,Novak Djokovic,Nicolas Massu,7-6(5) 6-4,0.88,12.4%,4.5%,44.9%,67.5%,51.0%,7/10,49.0%,36.8%,13.2%,25.0%,50.0%,2/4,157,11,4,89,40,49,9,2:42
+17-Jul-2006,Amersfoort,3,Clay,SF,37,62,1,4,,Nicolas Massu,Ruben Ramirez Hidalgo,6-1 6-3,2.06,14.3%,0.0%,54.8%,91.3%,57.9%,0/0,61.5%,49.0%,8.2%,44.4%,54.5%,4/8,91,6,0,42,23,19,4,1:19
+17-Jul-2006,Amersfoort,3,Clay,QF,37,41,1,4,5,Nicolas Massu,Carlos Moya,7-5 6-4,1.34,4.8%,1.6%,65.1%,61.0%,77.3%,2/4,55.4%,44.8%,4.5%,38.9%,51.6%,4/8,130,3,1,63,41,22,3,1:46
+17-Jul-2006,Amersfoort,3,Clay,R16,37,122,1,4,,Nicolas Massu,Juan Antonio Marin,6-4 7-6(2),1.09,0.0%,8.2%,53.4%,71.8%,35.3%,7/11,52.0%,49.4%,3.9%,44.0%,59.3%,5/7,150,0,6,73,39,34,3,2:26
+17-Jul-2006,Amersfoort,3,Clay,R32,37,262,1,4,Q,Nicolas Massu,Andreas Vinciguerra,7-6(3) 6-3,1.31,8.8%,10.3%,47.1%,75.0%,50.0%,1/4,56.3%,50.0%,1.7%,43.2%,61.9%,4/4,126,6,7,68,32,36,1,1:46
+10-Jul-2006,Bastad,3,Clay,QF,37,5,0,,1,Nikolay Davydenko,Nicolas Massu,6-4 6-3,0.65,3.4%,6.9%,50.0%,65.5%,44.8%,4/8,43.4%,29.2%,2.1%,28.1%,31.3%,1/1,106,2,4,58,29,29,1,1:24
+10-Jul-2006,Bastad,3,Clay,R16,37,32,1,,,Nicolas Massu,Jose Acasuso,6-4 6-2,1.81,7.5%,0.0%,66.0%,80.0%,66.7%,1/1,58.6%,44.4%,4.8%,44.7%,44.0%,3/7,116,4,0,53,35,18,3,1:27
+10-Jul-2006,Bastad,3,Clay,R32,37,183,1,,,Nicolas Massu,Mariano Zabaleta,6-4 3-1 RET,1.37,4.1%,4.1%,71.4%,71.4%,64.3%,3/3,56.5%,41.9%,0.0%,34.6%,52.9%,2/4,92,2,2,49,35,14,0,1:20
+26-Jun-2006,Wimbledon,5,Grass,R128,33,44,0,31,,Andy Murray,Nicolas Massu,6-1 6-4 6-4,0.68,6.1%,4.0%,62.6%,59.7%,43.2%,8/13,43.5%,31.8%,5.9%,27.3%,36.6%,1/4,184,6,4,99,62,37,5,1:53
+29-May-2006,Roland Garros,5,Clay,R32,35,1,0,32,1,Roger Federer,Nicolas Massu,6-1 6-2 6-7(4) 7-5,0.69,3.4%,4.2%,64.7%,66.2%,42.9%,5/12,43.8%,28.9%,5.3%,25.7%,34.1%,2/7,233,4,5,119,77,42,6,2:35
+29-May-2006,Roland Garros,5,Clay,R64,35,49,1,32,,Nicolas Massu,Max Mirnyi,6-4 7-5 6-4,1.81,5.1%,1.3%,74.4%,87.9%,55.0%,1/2,56.0%,37.1%,9.3%,29.1%,47.6%,4/11,175,4,1,78,58,20,9,2:30
+29-May-2006,Roland Garros,5,Clay,R128,35,37,1,32,,Nicolas Massu,Xavier Malisse,6-1 7-5 1-6 4-6 9-7,0.99,3.3%,2.8%,55.0%,61.6%,54.3%,16/23,50.4%,41.3%,7.7%,27.8%,60.0%,8/18,335,6,5,180,99,81,12,4:25
+22-May-2006,Dusseldorf,3,Clay,RR,35,12,0,,,Mario Ancic,Nicolas Massu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Dusseldorf,3,Clay,RR,35,5,1,,,Nicolas Massu,Andy Roddick,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Dusseldorf,3,Clay,RR,35,31,1,,,Nicolas Massu,Fernando Verdasco,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Hamburg Masters,3,Clay,R64,32,6,0,,4,Nikolay Davydenko,Nicolas Massu,6-3 6-4,0.59,1.6%,3.2%,55.6%,68.6%,39.3%,6/9,42.5%,26.0%,4.0%,25.6%,27.3%,1/1,113,1,2,63,35,28,2,1:27
+8-May-2006,Rome Masters,3,Clay,R64,31,54,0,,Q,Nicolas Almagro,Nicolas Massu,7-5 6-4,0.78,1.5%,0.0%,73.5%,70.0%,33.3%,5/8,45.6%,30.9%,4.4%,28.0%,38.9%,1/5,136,1,0,68,50,18,3,1:59
+1-May-2006,Estoril,3,Clay,R16,32,97,0,7,,Justin Gimelstob,Nicolas Massu,2-6 7-6(3) 6-4,1.06,8.7%,1.0%,64.1%,62.1%,67.6%,7/9,51.2%,38.2%,8.8%,27.3%,51.1%,3/8,205,9,1,103,66,37,9,2:37
+1-May-2006,Estoril,3,Clay,R32,32,108,1,7,,Nicolas Massu,Raemon Sluiter,6-0 7-5,1.99,10.9%,2.2%,76.1%,77.1%,54.5%,1/3,62.7%,56.3%,9.4%,43.9%,78.3%,6/10,110,5,1,46,35,11,6,1:24
+24-Apr-2006,Casablanca,3,Clay,F,37,68,0,1,7,Daniele Bracciali,Nicolas Massu,6-1 6-4,0.65,6.6%,3.3%,50.8%,67.7%,40.0%,8/11,42.4%,29.8%,15.8%,18.2%,45.8%,0/4,118,4,2,61,31,30,9,1:33
+24-Apr-2006,Casablanca,3,Clay,SF,37,73,1,1,,Nicolas Massu,Bjorn Phau,6-2 6-4,1.47,7.0%,0.0%,66.7%,76.3%,63.2%,3/3,58.3%,41.3%,2.2%,28.6%,61.1%,3/5,103,4,0,57,38,19,1,1:31
+24-Apr-2006,Casablanca,3,Clay,QF,37,82,1,1,,Nicolas Massu,Nicolas Mahut,6-3 7-6(3),1.39,5.9%,0.0%,77.9%,75.5%,60.0%,1/2,55.0%,38.9%,6.9%,30.2%,51.7%,2/6,140,4,0,68,53,15,5,1:57
+24-Apr-2006,Casablanca,3,Clay,R16,37,84,1,1,,Nicolas Massu,Alessio Di Mauro,6-7(2) 6-3 6-1,1.32,3.5%,4.7%,37.6%,71.9%,60.4%,4/7,55.4%,46.7%,4.4%,37.5%,61.8%,7/16,175,3,4,85,32,53,4,2:24
+24-Apr-2006,Casablanca,3,Clay,R32,37,123,1,1,,Nicolas Massu,Michael Berrer,7-6(4) 6-0,1.32,6.3%,3.1%,51.6%,75.8%,67.7%,3/3,55.9%,37.0%,7.4%,28.1%,50.0%,3/4,118,4,2,64,33,31,4,1:30
+17-Apr-2006,Monte Carlo Masters,3,Clay,R64,36,15,0,,8,David Ferrer,Nicolas Massu,6-0 4-6 6-2,0.71,2.2%,3.4%,58.4%,67.3%,27.0%,10/16,43.8%,35.2%,0.0%,25.6%,50.0%,2/4,160,2,3,89,52,37,0,2:00
+7-Apr-2006,Davis Cup WG QF: USA vs CHI,3,Grass,RR,37,4,0,,,Andy Roddick,Nicolas Massu,6-3 7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Miami Masters,3,Hard,R32,43,16,0,,15,Radek Stepanek,Nicolas Massu,6-7(6) 7-6(5) 7-5,0.98,5.1%,0.0%,62.4%,65.8%,70.5%,5/8,48.8%,31.8%,13.2%,25.0%,44.4%,2/7,246,6,0,117,73,44,17,3:11
+20-Mar-2006,Miami Masters,3,Hard,R64,43,22,1,,21,Nicolas Massu,Tommy Robredo,6-4 6-4,1.35,1.7%,3.4%,72.4%,76.2%,50.0%,1/2,54.4%,41.8%,1.5%,32.6%,58.3%,3/9,125,1,2,58,42,16,1,1:26
+20-Mar-2006,Miami Masters,3,Hard,R128,43,98,1,,,Nicolas Massu,Raemon Sluiter,6-4 6-3,1.36,11.1%,5.6%,53.7%,79.3%,52.0%,1/2,56.0%,45.5%,7.3%,45.2%,45.8%,4/6,109,6,3,54,29,25,4,1:19
+6-Mar-2006,Indian Wells Masters,3,Hard,R64,47,1,0,,1,Roger Federer,Nicolas Massu,6-3 7-6(4),0.63,3.0%,1.5%,68.7%,65.2%,61.9%,3/4,43.6%,22.7%,4.5%,25.0%,19.2%,0/1,133,2,1,67,46,21,3,1:34
+6-Mar-2006,Indian Wells Masters,3,Hard,R128,47,62,1,,,Nicolas Massu,Agustin Calleri,6-1 5-7 7-6(10),1.14,5.2%,1.7%,63.8%,63.5%,64.3%,7/10,52.9%,41.1%,5.6%,37.3%,45.8%,4/6,223,6,2,116,74,42,6,2:42
+27-Feb-2006,Acapulco,3,Clay,R16,44,88,0,8,,Marcos Daniel,Nicolas Massu,6-4 6-4,0.77,3.1%,4.7%,50.0%,59.4%,43.8%,0/4,45.0%,37.5%,8.9%,27.3%,75.0%,2/2,120,2,3,64,32,32,5,1:38
+27-Feb-2006,Acapulco,3,Clay,R32,44,78,1,8,,Nicolas Massu,Carlos Berlocq,6-2 7-5,1.33,4.7%,3.1%,59.4%,68.4%,53.8%,2/4,55.7%,50.0%,6.6%,43.2%,59.4%,5/14,140,3,2,64,38,26,5,2:03
+20-Feb-2006,Costa Do Sauipe,3,Clay,F,55,68,1,6,7,Nicolas Massu,Alberto Martin,6-3 6-4,1.43,1.9%,5.8%,55.8%,65.5%,60.9%,3/6,58.2%,52.2%,0.0%,45.8%,59.1%,5/7,98,1,3,52,29,23,0,1:25
+20-Feb-2006,Costa Do Sauipe,3,Clay,SF,55,77,1,6,,Nicolas Massu,Juan Monaco,2-6 6-2 7-5,0.90,4.6%,2.8%,58.3%,61.9%,55.6%,8/10,49.5%,36.6%,0.0%,34.7%,39.4%,3/6,190,5,3,108,63,45,0,2:44
+20-Feb-2006,Costa Do Sauipe,3,Clay,QF,55,114,1,6,Q,Nicolas Massu,Nicolas Almagro,7-6(4) 6-3,1.23,11.1%,4.2%,69.4%,70.0%,54.5%,3/5,54.3%,42.6%,7.4%,37.5%,50.0%,3/4,140,8,3,72,50,22,5,1:45
+20-Feb-2006,Costa Do Sauipe,3,Clay,R16,55,100,1,6,,Nicolas Massu,Fernando Vicente,3-6 7-6(6) 6-3,0.99,1.9%,1.9%,60.0%,68.3%,40.5%,6/10,50.0%,42.3%,2.1%,38.5%,50.0%,5/7,202,2,2,105,63,42,2,2:48
+20-Feb-2006,Costa Do Sauipe,3,Clay,R32,55,92,1,6,,Nicolas Massu,Marcos Daniel,7-6(3) 6-1,1.28,2.7%,2.7%,49.3%,70.3%,60.5%,7/8,56.7%,44.2%,1.9%,33.3%,76.9%,3/5,127,2,2,75,37,38,1,1:42
+13-Feb-2006,Buenos Aires,3,Clay,R16,54,34,0,,5,Carlos Moya,Nicolas Massu,4-6 6-3 7-6(4),0.78,0.0%,1.9%,62.5%,70.8%,56.4%,5/7,47.0%,27.1%,6.3%,18.2%,46.7%,2/4,200,0,2,104,65,39,6,2:42
+13-Feb-2006,Buenos Aires,3,Clay,R32,54,91,1,,,Nicolas Massu,Marcos Daniel,6-3 5-7 6-1,1.28,5.2%,1.3%,51.9%,67.5%,62.2%,3/6,54.9%,44.7%,3.9%,40.0%,53.8%,6/6,153,4,1,77,40,37,3,2:14
+10-Feb-2006,Davis Cup WG R1: CHI vs SVK,3,Clay,RR,55,19,1,,,Nicolas Massu,Dominik Hrbaty,6-7(5) 6-3 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Vina del Mar,3,Clay,F,69,46,0,5,3,Jose Acasuso,Nicolas Massu,6-4 6-3,0.72,5.5%,0.0%,69.1%,60.5%,52.9%,1/4,44.4%,30.2%,7.5%,25.9%,34.6%,0/0,108,3,0,55,38,17,4,1:36
+30-Jan-2006,Vina del Mar,3,Clay,SF,69,14,1,5,2,Nicolas Massu,Fernando Gonzalez,3-6 7-6(3) 6-4,1.02,2.7%,0.9%,71.2%,70.9%,40.6%,6/8,50.2%,38.6%,1.8%,34.3%,44.7%,2/8,225,3,1,111,79,32,2,3:12
+30-Jan-2006,Vina del Mar,3,Clay,QF,69,308,1,5,Q,Nicolas Massu,Carlos Cuadrado,4-6 7-6(4) 6-3,1.48,9.9%,3.3%,69.2%,81.0%,67.9%,4/5,53.5%,34.2%,0.9%,30.1%,46.4%,1/13,202,9,3,91,63,28,1,2:51
+30-Jan-2006,Vina del Mar,3,Clay,R16,69,111,1,5,,Nicolas Massu,Juan Antonio Marin,6-3 6-4,1.63,8.8%,0.0%,54.4%,74.2%,76.9%,0/0,58.0%,40.0%,5.5%,40.0%,40.0%,2/4,112,5,0,57,31,26,3,1:31
+30-Jan-2006,Vina del Mar,3,Clay,R32,69,94,1,5,,Nicolas Massu,Marcos Daniel,6-3 6-3,1.19,8.2%,1.6%,65.6%,70.0%,47.6%,0/1,54.5%,44.9%,8.2%,37.5%,58.8%,4/7,110,5,1,61,40,21,4,1:12
+16-Jan-2006,Australian Open,5,Hard,R128,61,123,0,,Q,Gilles Simon,Nicolas Massu,7-6(6) 6-2 3-6 4-6 6-3,0.93,3.8%,2.2%,59.0%,63.0%,46.7%,13/21,48.9%,40.8%,4.7%,32.6%,50.0%,7/17,352,7,4,183,108,75,8,4:13
+9-Jan-2006,Auckland,3,Hard,QF,65,29,0,,7,Jarkko Nieminen,Nicolas Massu,6-3 7-6(4),1.01,10.7%,5.4%,60.7%,70.6%,68.2%,0/2,47.3%,30.7%,1.3%,25.5%,45.0%,0/1,131,6,3,56,34,22,1,1:32
+9-Jan-2006,Auckland,3,Hard,R16,65,44,1,,,Nicolas Massu,Christophe Rochus,6-4 6-2,1.38,15.5%,6.9%,56.9%,75.8%,52.0%,1/2,56.1%,47.7%,3.1%,42.2%,60.0%,4/12,123,9,4,58,33,25,2,1:25
+9-Jan-2006,Auckland,3,Hard,R32,65,15,1,,4,Nicolas Massu,Dominik Hrbaty,6-2 6-4,1.62,10.9%,0.0%,54.5%,73.3%,64.0%,1/2,58.4%,50.0%,4.3%,40.7%,55.8%,4/9,125,6,0,55,30,25,3,1:31
+31-Oct-2005,Paris Masters,3,Carpet,R64,59,28,0,,,Max Mirnyi,Nicolas Massu,6-2 6-3,0.67,2.1%,6.3%,45.8%,81.8%,42.3%,2/5,43.3%,26.5%,14.3%,7.1%,52.4%,0/0,97,1,3,48,22,26,7,1:01
+24-Oct-2005,Basel,3,Carpet,R32,51,49,0,,,Jose Acasuso,Nicolas Massu,4-6 7-6(3) 6-4,0.92,8.3%,4.2%,61.5%,76.3%,51.4%,2/4,48.2%,30.7%,9.9%,17.5%,47.7%,2/5,197,8,4,96,59,37,10,2:14
+17-Oct-2005,Madrid Masters,3,Hard,R64,49,47,0,WC,Q,Juan Ignacio Chela,Nicolas Massu,6-2 6-3,0.35,0.0%,8.5%,55.3%,69.2%,47.6%,5/8,38.2%,14.3%,7.1%,8.7%,21.1%,0/0,89,0,4,47,26,21,3,2:08
+10-Oct-2005,Stockholm,3,Hard,R32,45,30,0,,7,Jarkko Nieminen,Nicolas Massu,7-6(1) 6-2,0.53,10.0%,4.3%,57.1%,72.5%,43.3%,1/3,42.5%,21.1%,3.5%,14.3%,31.8%,0/2,127,7,3,70,40,30,2,1:32
+3-Oct-2005,Metz,3,Hard,R32,47,60,0,8,,Agustin Calleri,Nicolas Massu,7-5 7-5,0.80,7.2%,5.8%,58.0%,72.5%,51.7%,2/5,46.4%,29.0%,17.4%,22.0%,39.3%,1/5,138,5,4,69,40,29,12,1:35
+26-Sep-2005,Palermo,3,Clay,R32,47,44,0,,6,Filippo Volandri,Nicolas Massu,6-3 6-0,0.60,3.8%,5.8%,57.7%,66.7%,27.3%,6/10,40.2%,30.0%,4.0%,24.2%,41.2%,0/0,102,2,3,52,30,22,2,1:15
+23-Sep-2005,Davis Cup WG PO: CHI vs PAK,3,Clay,RR,47,355,1,,,Nicolas Massu,Aisam Ul Haq Qureshi,6-2 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,R16,58,8,0,,8,Guillermo Coria,Nicolas Massu,6-4 2-6 6-7(5) 6-2 6-2,0.83,2.9%,5.1%,54.3%,62.1%,45.0%,18/27,46.7%,37.8%,5.4%,31.1%,48.3%,6/9,323,5,9,175,95,80,8,4:32
+29-Aug-2005,US Open,5,Hard,R32,58,62,1,,,Nicolas Massu,Stanislas Wawrinka,6-4 6-3 6-0,1.32,1.0%,2.0%,62.2%,65.6%,51.4%,12/14,56.7%,52.5%,5.0%,50.0%,55.9%,8/13,178,1,2,98,61,37,4,2:24
+29-Aug-2005,US Open,5,Hard,R64,58,25,1,,23,Nicolas Massu,Jiri Novak,W/O,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,R128,58,151,1,,WC,Nicolas Massu,Jan Michael Gambill,7-6(4) 6-2 6-3,1.53,6.7%,5.6%,51.1%,82.6%,70.5%,3/3,56.9%,35.7%,14.3%,24.4%,46.5%,3/7,174,6,5,90,46,44,12,2:14
+22-Aug-2005,New Haven,3,Hard,R16,58,47,0,7,,Victor Hanescu,Nicolas Massu,6-4 6-4,0.66,8.0%,6.7%,57.3%,74.4%,50.0%,5/7,46.9%,23.6%,3.6%,22.9%,25.0%,0/1,130,6,5,75,43,32,2,1:30
+22-Aug-2005,New Haven,3,Hard,R32,58,454,1,7,Q,Nicolas Massu,Andy Ram,6-4 5-7 7-5,0.97,1.9%,4.6%,60.2%,73.8%,48.8%,8/11,50.0%,35.0%,11.0%,23.6%,48.9%,4/10,208,2,5,108,65,43,11,2:12
+15-Aug-2005,Cincinnati Masters,3,Hard,R64,31,12,0,,12,Tim Henman,Nicolas Massu,6-2 6-1,0.47,6.5%,4.8%,54.8%,61.8%,35.7%,8/12,39.0%,23.3%,4.7%,17.4%,30.0%,0/1,105,4,3,62,34,28,2,1:09
+8-Aug-2005,Canada Masters,3,Hard,R64,31,39,0,,,Nicolas Kiefer,Nicolas Massu,6-3 6-2,0.62,9.4%,1.9%,64.2%,67.6%,31.6%,4/7,40.9%,28.1%,12.3%,12.0%,40.6%,0/4,110,5,1,53,34,19,7,1:31
+1-Aug-2005,Washington,3,Hard,R32,32,59,0,9,,Gilles Muller,Nicolas Massu,7-6(2) 6-4,0.58,13.4%,4.9%,62.2%,74.5%,41.9%,5/6,44.5%,21.9%,18.8%,14.6%,34.8%,0/0,146,11,4,82,51,31,12,1:42
+25-Jul-2005,Kitzbuhel,3,Clay,SF,36,68,0,7,,Fernando Verdasco,Nicolas Massu,3-6 6-3 7-5,0.88,4.5%,3.4%,64.0%,59.6%,56.3%,3/7,47.1%,36.7%,6.1%,32.4%,50.0%,3/7,187,4,3,89,57,32,6,2:21
+25-Jul-2005,Kitzbuhel,3,Clay,QF,36,99,1,7,WC,Nicolas Massu,Nicolas Lapentti,6-4 6-7(0) 6-2,1.11,2.8%,5.6%,42.1%,75.6%,48.4%,7/11,52.4%,44.6%,4.0%,38.5%,51.0%,7/14,208,3,6,107,45,62,4,3:21
+25-Jul-2005,Kitzbuhel,3,Clay,R16,36,89,1,7,,Nicolas Massu,Stefan Koubek,7-5 6-2,1.72,6.6%,0.0%,52.5%,84.4%,62.1%,2/2,59.3%,45.2%,4.8%,38.5%,56.5%,3/5,123,4,0,61,32,29,3,3:18
+25-Jul-2005,Kitzbuhel,3,Clay,R32,36,215,1,7,WC,Nicolas Massu,Daniel Koellerer,7-6(5) 7-5,0.97,4.8%,2.4%,54.2%,68.9%,47.4%,2/5,49.7%,39.7%,3.8%,37.5%,50.0%,4/11,161,4,2,83,45,38,3,2:13
+18-Jul-2005,Amersfoort,3,Clay,QF,31,128,0,3,,David Sanchez,Nicolas Massu,6-3 4-6 6-3,0.85,1.0%,3.9%,56.3%,60.3%,48.9%,14/19,47.2%,37.8%,4.4%,32.8%,46.9%,3/9,193,1,4,103,58,45,4,2:32
+18-Jul-2005,Amersfoort,3,Clay,R16,31,81,1,3,,Nicolas Massu,Jiri Vanek,6-4 7-5,1.32,6.3%,4.8%,65.1%,68.3%,63.6%,3/5,55.0%,43.9%,9.1%,40.0%,56.3%,4/5,129,4,3,63,41,22,6,1:31
+18-Jul-2005,Amersfoort,3,Clay,R32,31,311,1,3,Q,Nicolas Massu,Nicolas Thomann,6-4 6-2,1.20,5.8%,4.3%,60.9%,69.0%,51.9%,9/10,54.1%,45.3%,7.8%,43.9%,47.8%,4/7,133,4,3,69,42,27,5,1:37
+4-Jul-2005,Gstaad,3,Clay,SF,30,13,0,7,2,Gaston Gaudio,Nicolas Massu,6-3 6-2,0.62,3.1%,3.1%,46.2%,66.7%,34.3%,9/13,41.2%,31.5%,5.6%,20.6%,50.0%,1/5,119,2,2,65,30,35,3,1:27
+4-Jul-2005,Gstaad,3,Clay,QF,30,53,1,7,,Nicolas Massu,Luis Horna,6-4 6-4,1.40,3.6%,0.0%,67.9%,86.8%,50.0%,0/0,54.9%,35.1%,5.3%,21.6%,60.0%,2/6,113,2,0,56,38,18,3,1:20
+4-Jul-2005,Gstaad,3,Clay,R16,30,60,1,7,,Nicolas Massu,Jan Hernych,7-5 2-6 6-4,1.01,3.9%,1.9%,49.5%,68.6%,44.2%,11/16,50.2%,44.3%,2.8%,37.7%,56.8%,5/17,209,4,2,103,51,52,3,2:17
+4-Jul-2005,Gstaad,3,Clay,R32,30,82,1,7,,Nicolas Massu,Tomas Behrend,7-6(4) 7-6(3),1.21,13.1%,8.3%,51.2%,79.1%,53.7%,5/7,52.8%,40.2%,6.5%,32.7%,50.0%,2/6,176,11,7,84,43,41,6,1:50
+20-Jun-2005,Wimbledon,5,Grass,R64,29,123,0,29,LL,Justin Gimelstob,Nicolas Massu,6-3 4-6 7-6(5) 7-6(0),1.01,7.9%,3.9%,57.5%,78.1%,48.1%,2/5,49.1%,35.1%,12.2%,17.1%,57.6%,3/12,275,10,5,127,73,54,18,3:28
+20-Jun-2005,Wimbledon,5,Grass,R128,29,92,1,29,,Nicolas Massu,Sargis Sargsian,7-6(7) 6-3 6-4,1.07,10.2%,6.8%,55.9%,77.3%,57.7%,6/6,52.5%,33.7%,8.9%,31.8%,37.1%,2/6,219,12,8,118,66,52,9,2:32
+23-May-2005,Roland Garros,5,Clay,R128,23,87,0,22,Q,Stanislas Wawrinka,Nicolas Massu,6-7(4) 6-2 6-2 6-4,0.75,4.3%,3.5%,57.4%,71.6%,40.0%,13/19,45.8%,31.4%,14.0%,23.0%,40.0%,1/8,262,6,5,141,81,60,17,3:07
+16-May-2005,Dusseldorf,3,Clay,RR,23,108,1,,,Nicolas Massu,Arnaud Clement,6-4 6-4,1.37,8.5%,0.0%,67.8%,80.0%,63.2%,4/4,54.1%,34.9%,4.8%,20.7%,47.1%,2/5,122,5,0,59,40,19,3,1:39
+16-May-2005,Dusseldorf,3,Clay,RR,23,46,1,,,Nicolas Massu,Tomas Berdych,7-6(5) 6-3,1.13,2.5%,1.3%,57.0%,77.8%,55.9%,5/6,53.4%,35.8%,7.5%,24.3%,50.0%,2/7,146,2,1,79,45,34,5,1:52
+16-May-2005,Dusseldorf,3,Clay,RR,23,10,0,,,Guillermo Canas,Nicolas Massu,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Hamburg Masters,3,Clay,R32,25,56,0,,Q,Richard Gasquet,Nicolas Massu,2-6 6-2 6-2,0.84,1.3%,3.8%,53.8%,66.7%,33.3%,6/12,46.5%,40.9%,4.5%,36.2%,52.6%,4/6,144,1,3,78,42,36,3,1:51
+9-May-2005,Hamburg Masters,3,Clay,R64,25,3,1,,2,Nicolas Massu,Andy Roddick,7-6(4) 4-6 7-5,1.01,7.1%,0.9%,64.6%,63.0%,60.0%,5/9,50.0%,38.3%,16.5%,29.3%,55.0%,4/11,228,8,1,113,73,40,19,2:58
+2-May-2005,Rome Masters,3,Clay,R32,21,6,0,,4,Tim Henman,Nicolas Massu,6-3 6-2,0.64,5.4%,8.9%,60.7%,50.0%,50.0%,3/7,41.3%,32.1%,5.7%,21.9%,47.6%,1/1,109,3,5,56,34,22,3,1:25
+2-May-2005,Rome Masters,3,Clay,R64,21,67,1,,Q,Nicolas Massu,Paul Henri Mathieu,6-0 6-4,2.01,14.6%,7.3%,48.8%,85.0%,61.9%,1/2,62.6%,54.0%,0.0%,46.4%,63.6%,5/9,91,6,3,41,20,21,0,1:15
+25-Apr-2005,Estoril,3,Clay,R32,21,51,0,5,,Albert Costa,Nicolas Massu,3-6 6-3 6-3,0.94,3.1%,3.1%,59.4%,66.7%,48.7%,3/6,48.3%,38.1%,1.9%,26.5%,59.5%,1/16,201,3,3,96,57,39,2,2:49
+18-Apr-2005,Houston,3,Clay,R32,18,115,0,4,,Antony Dupuis,Nicolas Massu,6-4 6-0,0.44,8.6%,5.2%,48.3%,67.9%,36.7%,4/8,39.0%,21.4%,14.3%,9.5%,33.3%,0/1,100,5,3,58,28,30,6,1:14
+17-Jan-2005,Australian Open,5,Hard,R64,19,102,0,18,,Philipp Kohlschreiber,Nicolas Massu,6-0 2-0 RET,0.34,0.0%,9.5%,42.9%,33.3%,8.3%,1/5,24.0%,27.6%,17.2%,21.1%,40.0%,0/2,50,0,2,21,9,12,5,0:41
+17-Jan-2005,Australian Open,5,Hard,R128,19,76,1,18,,Nicolas Massu,Antony Dupuis,6-7(7) 7-6(2) 6-3 6-2,1.38,6.4%,4.3%,57.4%,81.5%,60.0%,9/10,54.6%,38.2%,7.2%,28.6%,50.0%,4/16,293,9,6,141,81,60,11,3:50
+1-Nov-2004,Paris Masters,3,Carpet,R16,16,3,0,14,2,Lleyton Hewitt,Nicolas Massu,4-3 RET,0.65,5.0%,5.0%,70.0%,78.6%,33.3%,2/2,42.9%,22.7%,4.5%,28.6%,20.0%,0/1,42,1,1,20,14,6,1,0:31
+1-Nov-2004,Paris Masters,3,Carpet,R32,16,124,1,14,Q,Nicolas Massu,Christophe Rochus,6-2 7-6(4),1.23,15.4%,1.3%,62.8%,69.4%,55.2%,3/4,54.2%,44.2%,1.3%,38.5%,50.0%,3/4,155,12,1,78,49,29,1,1:58
+25-Oct-2004,Basel,3,Carpet,SF,18,10,0,7,4,David Nalbandian,Nicolas Massu,6-3 6-4,0.86,8.0%,8.0%,42.0%,71.4%,41.4%,2/6,45.8%,39.7%,5.9%,30.4%,59.1%,2/4,118,4,4,50,21,29,4,1:18
+25-Oct-2004,Basel,3,Carpet,QF,18,100,1,7,LL,Nicolas Massu,Bohdan Ulihrach,6-2 7-6(4),1.91,10.7%,3.6%,62.5%,80.0%,71.4%,2/3,58.6%,44.4%,4.2%,26.5%,60.5%,3/8,128,6,2,56,35,21,3,1:27
+25-Oct-2004,Basel,3,Carpet,R16,18,52,1,7,,Nicolas Massu,Mariano Zabaleta,6-2 6-4,1.73,8.7%,0.0%,58.7%,88.9%,63.2%,0/0,57.4%,37.5%,8.3%,33.3%,55.6%,3/6,94,4,0,46,27,19,4,1:07
+25-Oct-2004,Basel,3,Carpet,R32,18,171,1,7,Q,Nicolas Massu,Michel Kratochvil,6-3 6-2,1.78,13.3%,4.4%,40.0%,100.0%,51.9%,1/2,58.7%,51.3%,5.3%,43.2%,59.0%,5/11,121,6,2,45,18,27,4,1:25
+18-Oct-2004,Madrid Masters,3,Hard,R32,18,40,0,5,,Taylor Dent,Nicolas Massu,6-3 3-6 6-3,0.77,5.2%,1.0%,64.6%,59.7%,58.8%,9/12,46.2%,31.4%,5.8%,23.2%,46.7%,2/5,182,5,1,96,62,34,5,2:08
+11-Oct-2004,Vienna,3,Hard,QF,11,97,0,2,,Davide Sanguinetti,Nicolas Massu,6-4 6-3,0.66,4.2%,1.4%,56.3%,52.5%,48.4%,8/13,43.1%,32.7%,3.8%,15.6%,60.0%,2/4,123,3,1,71,40,31,2,1:22
+11-Oct-2004,Vienna,3,Hard,R16,11,213,1,2,Q,Nicolas Massu,Rik De Voest,6-4 6-2,4.39,10.0%,0.0%,75.0%,93.3%,80.0%,0/0,61.3%,43.9%,4.5%,44.4%,43.3%,3/11,106,4,0,40,30,10,3,1:24
+11-Oct-2004,Vienna,3,Hard,R32,11,114,1,2,Q,Nicolas Massu,Karol Kucera,6-4 6-7(5) 6-4,1.33,2.1%,0.0%,64.2%,70.5%,73.5%,5/6,53.1%,37.7%,10.5%,26.1%,55.6%,3/14,209,2,0,95,61,34,12,2:53
+4-Oct-2004,Lyon,3,Carpet,R32,11,56,0,1,,Agustin Calleri,Nicolas Massu,6-3 6-4,0.65,10.7%,8.0%,42.7%,71.9%,41.9%,11/15,44.4%,29.4%,15.7%,20.6%,47.1%,1/3,126,8,6,75,32,43,8,1:10
+27-Sep-2004,Palermo,3,Clay,QF,12,45,0,1,5,Filippo Volandri,Nicolas Massu,6-3 3-6 6-4,0.93,2.4%,3.6%,48.2%,65.0%,44.2%,4/10,47.8%,42.7%,0.0%,35.9%,64.0%,5/11,186,2,3,83,40,43,0,2:23
+27-Sep-2004,Palermo,3,Clay,R16,12,80,1,1,,Nicolas Massu,Potito Starace,4-1 RET,5.40,11.1%,0.0%,55.6%,100.0%,75.0%,0/0,69.0%,60.0%,0.0%,53.8%,71.4%,2/3,29,1,0,9,5,4,0,0:18
+27-Sep-2004,Palermo,3,Clay,R32,12,72,1,1,,Nicolas Massu,David Sanchez,6-3 6-2,1.39,2.1%,2.1%,56.3%,88.9%,23.8%,0/2,57.3%,54.8%,0.0%,53.8%,56.5%,6/10,110,1,1,48,27,21,0,1:26
+24-Sep-2004,Davis Cup WG PO: CHI vs JPN,3,Clay,RR,10,288,1,,,Nicolas Massu,Gouichi Motomura,6-1 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,US Open,5,Hard,R64,11,54,0,10,,Sargis Sargsian,Nicolas Massu,6-7(6) 6-4 3-6 7-6(6) 6-4,1.02,7.4%,1.1%,62.2%,64.1%,60.6%,9/15,50.5%,37.9%,11.0%,29.7%,46.2%,6/15,370,14,2,188,117,71,20,5:09
+30-Aug-2004,US Open,5,Hard,R128,11,79,1,10,,Nicolas Massu,Jose Acasuso,6-4 6-0 6-2,1.58,9.6%,5.5%,56.2%,87.8%,40.6%,1/2,59.1%,51.9%,9.9%,37.5%,65.9%,7/14,154,7,4,73,41,32,8,1:55
+16-Aug-2004,Athens Olympics,3,Hard,F,14,35,1,10,,Nicolas Massu,Mardy Fish,6-3 3-6 2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Athens Olympics,3,Hard,SF,14,28,1,10,,Nicolas Massu,Taylor Dent,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Athens Olympics,3,Hard,QF,14,4,1,10,3,Nicolas Massu,Carlos Moya,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Athens Olympics,3,Hard,R16,14,52,1,10,,Nicolas Massu,Igor Andreev,6-3 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Athens Olympics,3,Hard,R32,14,23,1,10,,Nicolas Massu,Vincent Spadea,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Athens Olympics,3,Hard,R64,14,20,1,10,,Nicolas Massu,Gustavo Kuerten,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2004,Cincinnati Masters,3,Hard,R64,13,46,0,13,,Mikhail Youzhny,Nicolas Massu,6-3 3-6 6-3,0.85,7.3%,2.7%,54.5%,73.3%,40.0%,9/12,48.0%,35.6%,10.0%,15.4%,51.0%,2/6,200,8,3,110,60,50,9,2:21
+26-Jul-2004,Canada Masters,3,Hard,R64,13,99,0,13,LL,Thomas Johansson,Nicolas Massu,6-4 6-4,0.86,3.2%,1.6%,56.5%,68.6%,51.9%,3/6,47.5%,33.3%,20.0%,22.5%,55.0%,1/2,122,2,1,62,35,27,12,1:27
+19-Jul-2004,Kitzbuhel,3,Clay,F,13,11,1,3,2,Nicolas Massu,Gaston Gaudio,7-6(3) 6-4,1.29,3.5%,3.5%,54.1%,73.9%,53.8%,9/11,55.4%,45.7%,2.5%,44.7%,47.1%,3/8,166,3,3,85,46,39,2,2:12
+19-Jul-2004,Kitzbuhel,3,Clay,SF,13,8,1,3,1,Nicolas Massu,Rainer Schuettler,6-3 6-3,1.35,5.1%,5.1%,64.4%,73.7%,52.4%,4/5,55.8%,45.9%,1.6%,43.9%,50.0%,4/11,120,3,3,59,38,21,1,1:27
+19-Jul-2004,Kitzbuhel,3,Clay,QF,13,31,1,3,5,Nicolas Massu,Mariano Zabaleta,7-6(4) 7-6(6),1.07,1.0%,1.0%,58.0%,69.0%,61.9%,9/11,51.8%,36.3%,5.5%,33.3%,41.2%,2/10,191,1,1,100,58,42,5,2:52
+19-Jul-2004,Kitzbuhel,3,Clay,R16,13,74,1,3,15,Nicolas Massu,Tomas Berdych,7-6(3) 3-6 6-4,1.04,3.7%,7.3%,47.7%,75.0%,59.6%,7/10,51.7%,34.4%,16.7%,23.3%,52.8%,2/6,205,4,8,109,52,57,16,2:30
+19-Jul-2004,Kitzbuhel,3,Clay,R32,13,214,1,3,Q,Nicolas Massu,Yuri Schukin,6-2 6-3,1.63,17.0%,8.5%,46.8%,86.4%,60.0%,0/0,57.0%,45.0%,1.7%,41.4%,48.4%,4/7,107,8,4,47,22,25,1,1:18
+12-Jul-2004,Amersfoort,3,Clay,SF,13,53,0,1,4,Martin Verkerk,Nicolas Massu,6-3 6-7(4) 6-3,0.85,9.2%,1.1%,58.6%,78.4%,52.8%,3/5,46.2%,27.3%,18.2%,17.9%,46.9%,0/2,186,8,1,87,51,36,18,2:20
+12-Jul-2004,Amersfoort,3,Clay,QF,13,131,1,1,,Nicolas Massu,Tomas Behrend,6-2 6-3,1.48,4.2%,4.2%,58.3%,71.4%,55.0%,2/4,57.0%,52.5%,0.0%,50.9%,55.6%,5/13,128,2,2,48,28,20,0,1:27
+12-Jul-2004,Amersfoort,3,Clay,R16,13,74,1,1,,Nicolas Massu,Raemon Sluiter,6-4 7-6(4),0.88,2.6%,0.0%,62.8%,67.3%,51.7%,5/7,50.4%,34.0%,5.7%,32.4%,36.8%,3/3,131,2,0,78,49,29,3,1:40
+12-Jul-2004,Amersfoort,3,Clay,R32,13,106,1,1,,Nicolas Massu,Kristof Vliegen,6-3 6-4,1.37,3.4%,0.0%,50.0%,82.8%,51.7%,2/4,56.0%,44.8%,6.9%,29.4%,66.7%,4/11,116,2,0,58,29,29,4,1:16
+5-Jul-2004,Bastad,3,Clay,R32,13,110,0,3,WC,Juan Monaco,Nicolas Massu,4-6 6-3 6-2,0.83,2.2%,4.3%,59.1%,65.5%,42.1%,7/12,47.1%,36.7%,0.0%,28.8%,51.9%,3/7,172,2,4,93,55,38,0,2:03
+21-Jun-2004,Wimbledon,5,Grass,R128,12,90,0,15,,Alexander Popp,Nicolas Massu,6-2 6-4 6-4,0.66,8.5%,4.7%,53.8%,68.4%,42.9%,13/17,44.0%,28.7%,2.3%,22.4%,50.0%,0/3,193,9,5,106,57,49,2,1:55
+24-May-2004,Roland Garros,5,Clay,R32,11,17,0,11,17,Tommy Robredo,Nicolas Massu,6-2 6-0 6-2,0.44,2.9%,2.9%,54.4%,51.4%,35.5%,6/13,34.9%,24.6%,8.2%,16.7%,32.3%,0/2,129,2,2,68,37,31,5,1:37
+24-May-2004,Roland Garros,5,Clay,R64,11,171,1,11,Q,Nicolas Massu,Vladimir Voltchkov,6-3 6-1 6-0,3.10,11.3%,0.0%,58.5%,90.3%,72.7%,0/0,64.9%,52.6%,3.8%,44.7%,64.5%,7/14,131,6,0,53,31,22,3,1:35
+24-May-2004,Roland Garros,5,Clay,R128,11,147,1,11,Q,Nicolas Massu,Janko Tipsarevic,3-6 6-1 6-4 7-6(3),1.26,9.1%,5.0%,64.5%,74.4%,51.2%,11/14,54.6%,42.9%,5.0%,30.3%,58.5%,5/11,240,11,6,121,78,43,6,3:19
+17-May-2004,Dusseldorf,3,Clay,F,11,18,1,,,Nicolas Massu,Mark Philippoussis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2004,Dusseldorf,3,Clay,RR,11,27,1,,,Nicolas Massu,Albert Costa,4-1 RET,1.95,7.7%,0.0%,84.6%,72.7%,50.0%,2/2,63.6%,60.0%,0.0%,61.5%,57.1%,2/4,33,1,0,13,11,2,0,0:30
+17-May-2004,Dusseldorf,3,Clay,RR,11,14,0,,,Jiri Novak,Nicolas Massu,7-6(6) 6-0,0.78,3.0%,6.0%,46.3%,67.7%,36.1%,7/12,44.7%,38.5%,6.2%,29.7%,50.0%,2/7,132,2,4,67,31,36,4,1:39
+17-May-2004,Dusseldorf,3,Clay,RR,11,7,1,,,Nicolas Massu,Rainer Schuettler,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-May-2004,Hamburg Masters,3,Clay,R64,11,68,0,9,,Jurgen Melzer,Nicolas Massu,6-3 6-0,0.58,3.8%,7.7%,63.5%,39.4%,47.4%,6/11,37.9%,33.3%,7.8%,26.9%,40.0%,1/4,103,2,4,52,33,19,4,1:08
+3-May-2004,Rome Masters,3,Clay,QF,11,40,0,8,,Mariano Zabaleta,Nicolas Massu,6-1 7-5,0.66,3.6%,5.4%,57.1%,78.1%,29.2%,5/8,41.7%,28.1%,6.3%,24.4%,36.8%,0/4,120,2,3,56,32,24,4,1:30
+3-May-2004,Rome Masters,3,Clay,R16,11,25,1,8,,Nicolas Massu,Marat Safin,7-5 6-4,1.37,2.9%,0.0%,60.0%,76.2%,50.0%,6/8,55.5%,47.1%,3.5%,40.0%,52.0%,4/11,155,2,0,70,42,28,3,2:19
+3-May-2004,Rome Masters,3,Clay,R32,11,51,1,8,,Nicolas Massu,Irakli Labadze,6-2 7-5,1.34,5.2%,0.0%,65.5%,65.8%,40.0%,3/7,57.4%,57.9%,1.8%,47.5%,82.4%,7/12,115,3,0,58,38,20,1,1:24
+3-May-2004,Rome Masters,3,Clay,R64,11,182,1,8,Q,Nicolas Massu,Massimo Dellacqua,6-7(9) 7-5 6-3,1.32,6.9%,2.0%,75.5%,74.0%,48.0%,3/5,53.4%,42.6%,9.6%,25.4%,61.5%,5/14,238,7,2,102,77,25,13,3:23
+26-Apr-2004,Barcelona,3,Clay,R32,11,56,0,4,,Alberto Martin,Nicolas Massu,6-3 5-7 6-2,0.84,1.9%,1.9%,61.5%,65.6%,40.0%,2/7,46.6%,37.0%,2.0%,29.2%,51.4%,2/10,204,2,2,104,64,40,2,2:36
+19-Apr-2004,Monte Carlo Masters,3,Clay,R16,11,7,0,9,6,Tim Henman,Nicolas Massu,3-6 6-4 6-3,0.84,1.2%,3.7%,54.9%,57.8%,43.2%,5/11,45.9%,40.9%,5.7%,32.0%,52.6%,5/9,170,1,3,82,45,37,5,2:06
+19-Apr-2004,Monte Carlo Masters,3,Clay,R32,11,24,1,9,,Nicolas Massu,Feliciano Lopez,6-2 6-4,1.33,5.0%,10.0%,56.7%,70.6%,61.5%,2/3,54.5%,44.4%,8.3%,33.3%,60.0%,4/10,132,3,6,60,34,26,6,1:41
+19-Apr-2004,Monte Carlo Masters,3,Clay,R64,11,52,1,9,,Nicolas Massu,Flavio Saretta,6-3 6-0,1.96,6.7%,4.4%,64.4%,79.3%,43.8%,1/2,65.9%,65.2%,4.3%,56.5%,73.9%,6/9,91,3,2,45,29,16,2,1:08
+12-Apr-2004,Estoril,3,Clay,R32,11,94,0,2,,Richard Gasquet,Nicolas Massu,0-6 7-6(2) 7-6(5),1.07,0.9%,6.0%,54.7%,65.6%,52.8%,6/9,51.8%,42.9%,3.8%,28.8%,56.6%,6/12,222,1,7,117,64,53,4,3:01
+9-Apr-2004,Davis Cup G1 R2: CHI vs ECU,3,Clay,RR,11,141,1,,,Nicolas Massu,Giovanni Lapentti,6-3 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2004,Miami Masters,3,Hard,R64,11,50,0,10,,Andrei Pavel,Nicolas Massu,7-6(3) 6-1,0.66,8.1%,4.7%,67.4%,50.0%,46.4%,4/9,42.6%,33.9%,12.9%,27.9%,47.4%,2/6,148,7,4,86,58,28,8,1:45
+8-Mar-2004,Indian Wells Masters,3,Hard,R64,12,36,0,11,,Rafael Nadal,Nicolas Massu,6-3 1-0 RET,0.66,11.9%,4.8%,66.7%,64.3%,35.7%,6/8,44.4%,30.0%,10.0%,28.6%,33.3%,0/0,72,5,2,42,28,14,3,0:47
+1-Mar-2004,Acapulco,3,Clay,QF,13,103,0,2,,Fernando Verdasco,Nicolas Massu,6-3 6-4,0.69,4.5%,6.1%,60.6%,62.5%,30.8%,7/12,43.5%,34.7%,4.1%,31.4%,42.9%,2/6,115,3,4,66,40,26,2,1:25
+1-Mar-2004,Acapulco,3,Clay,R16,13,124,1,2,Q,Nicolas Massu,Jeff Salzenstein,6-1 6-3,3.74,15.8%,2.6%,65.8%,88.0%,84.6%,1/1,63.4%,49.2%,7.9%,43.9%,59.1%,4/11,101,6,1,38,25,13,5,1:06
+1-Mar-2004,Acapulco,3,Clay,R32,13,281,1,2,WC,Nicolas Massu,Alejandro Hernandez,6-2 6-0,1.99,10.0%,2.5%,50.0%,80.0%,65.0%,0/0,62.4%,54.7%,1.9%,45.2%,68.2%,5/13,93,4,1,40,20,20,1,1:04
+23-Feb-2004,Costa Do Sauipe,3,Clay,R32,13,184,0,2,Q,Juan Monaco,Nicolas Massu,6-4 6-2,0.79,5.0%,3.3%,58.3%,57.1%,48.0%,5/9,45.0%,36.7%,1.7%,34.1%,42.1%,1/3,120,3,2,60,35,25,1,1:43
+16-Feb-2004,Buenos Aires,3,Clay,QF,14,105,0,3,,Richard Gasquet,Nicolas Massu,6-3 4-6 7-5,0.97,4.3%,1.1%,67.4%,58.1%,56.7%,6/11,48.7%,41.1%,4.7%,34.2%,55.9%,4/9,199,4,1,92,62,30,5,2:40
+16-Feb-2004,Buenos Aires,3,Clay,R16,14,45,1,3,,Nicolas Massu,Filippo Volandri,6-2 6-4,1.37,1.8%,3.5%,59.6%,79.4%,56.5%,1/1,56.6%,40.8%,0.0%,36.4%,50.0%,3/4,106,1,2,57,34,23,0,1:21
+16-Feb-2004,Buenos Aires,3,Clay,R32,14,119,1,3,,Nicolas Massu,Albert Montanes,6-1 6-3,1.77,6.5%,2.2%,60.9%,67.9%,66.7%,2/3,62.2%,57.7%,0.0%,53.6%,62.5%,5/10,98,3,1,46,28,18,0,1:10
+9-Feb-2004,Vina del Mar,3,Clay,QF,14,36,0,1,5,Fernando Gonzalez,Nicolas Massu,7-6(4) 6-3,0.85,1.3%,1.3%,67.1%,64.2%,46.2%,9/12,47.4%,35.6%,8.2%,26.7%,50.0%,2/4,152,1,1,79,53,26,6,2:03
+9-Feb-2004,Vina del Mar,3,Clay,R16,14,106,1,1,,Nicolas Massu,Harel Levy,6-2 6-4,1.74,10.2%,2.0%,53.1%,76.9%,73.9%,1/1,59.4%,42.6%,6.4%,31.3%,66.7%,3/3,96,5,1,49,26,23,3,1:15
+9-Feb-2004,Vina del Mar,3,Clay,R32,14,105,1,1,,Nicolas Massu,Fernando Verdasco,6-1 6-2,2.16,4.4%,8.9%,55.6%,84.0%,65.0%,2/2,65.4%,52.8%,2.8%,37.5%,83.3%,4/6,81,2,4,45,25,20,1,0:57
+6-Feb-2004,Davis Cup G1 R1: PER vs CHI,3,Clay,RR,14,126,1,,,Nicolas Massu,Ivan Miranda,6-2 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2004,Australian Open,5,Hard,R128,13,37,0,12,,Jarkko Nieminen,Nicolas Massu,6-1 6-7(5) 6-2 6-3,0.73,4.3%,8.6%,59.5%,62.3%,38.3%,6/14,43.2%,34.6%,3.1%,29.1%,43.8%,3/18,243,5,10,116,69,47,4,2:52
+12-Jan-2004,Sydney,3,Hard,R32,12,172,0,6,WC,Todd Reid,Nicolas Massu,7-6(5) 2-6 6-4,1.04,5.7%,3.8%,61.9%,64.6%,50.0%,7/11,51.2%,42.7%,3.1%,39.4%,50.0%,5/8,201,6,4,105,65,40,3,2:22
+5-Jan-2004,Doha,3,Hard,R32,12,42,0,5,,Ivan Ljubicic,Nicolas Massu,6-3 6-3,0.46,3.9%,3.9%,56.9%,62.1%,50.0%,4/8,39.6%,20.0%,22.2%,10.3%,37.5%,1/3,96,2,2,51,29,22,10,1:10
+27-Oct-2003,Paris Masters,3,Carpet,R16,14,6,0,10,5,Rainer Schuettler,Nicolas Massu,6-4 7-5,0.79,6.4%,6.4%,64.1%,56.0%,42.9%,3/8,45.0%,38.4%,1.4%,31.6%,45.7%,3/11,151,5,5,78,50,28,1,1:44
+27-Oct-2003,Paris Masters,3,Carpet,R32,14,23,1,10,,Nicolas Massu,Albert Costa,3-6 6-1 7-5,1.14,10.0%,3.8%,50.0%,75.0%,57.5%,1/3,52.1%,38.6%,12.0%,26.7%,52.6%,4/12,163,8,3,80,40,40,10,2:09
+20-Oct-2003,Stockholm,3,Hard,R32,13,59,0,3,,Raemon Sluiter,Nicolas Massu,6-3 3-6 7-5,1.02,6.1%,0.0%,72.0%,74.6%,47.8%,5/8,49.7%,33.7%,13.5%,25.0%,48.5%,2/5,171,5,0,82,59,23,12,2:02
+13-Oct-2003,Madrid Masters,3,Hard,F,21,1,0,,1,Juan Carlos Ferrero,Nicolas Massu,6-3 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Madrid Masters,3,Hard,SF,21,18,1,,15,Nicolas Massu,Younes El Aynaoui,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Madrid Masters,3,Hard,QF,21,44,1,,,Nicolas Massu,Juan Ignacio Chela,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Madrid Masters,3,Hard,R16,21,2,1,,2,Nicolas Massu,Andy Roddick,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Madrid Masters,3,Hard,R32,21,20,1,,13,Nicolas Massu,Gustavo Kuerten,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Madrid Masters,3,Hard,R64,21,102,1,,WC,Nicolas Massu,Fernando Verdasco,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2003,Vienna,3,Hard,R32,21,45,0,7,,Juan Ignacio Chela,Nicolas Massu,7-5 7-6(4),0.86,2.6%,3.9%,50.6%,53.8%,57.9%,5/9,47.1%,38.2%,2.6%,26.7%,54.8%,3/6,153,2,3,77,39,38,2,1:41
+29-Sep-2003,Moscow,3,Carpet,R32,21,33,0,6,,Karol Kucera,Nicolas Massu,6-7(4) 6-2 6-2,0.71,3.2%,5.3%,51.1%,52.1%,56.5%,3/9,44.1%,32.5%,7.2%,21.6%,50.0%,2/5,177,3,5,94,48,46,6,2:22
+22-Sep-2003,Palermo,3,Clay,F,28,51,1,1,5,Nicolas Massu,Paul Henri Mathieu,1-6 6-2 7-6(0),0.99,2.4%,1.2%,59.0%,53.1%,47.1%,3/9,49.7%,48.8%,1.2%,51.3%,46.7%,6/9,167,2,1,83,49,34,1,2:49
+22-Sep-2003,Palermo,3,Clay,SF,28,72,1,1,8,Nicolas Massu,Luis Horna,6-2 6-2,1.96,5.0%,0.0%,55.0%,86.4%,55.6%,1/2,62.2%,54.0%,2.0%,43.3%,70.0%,5/8,90,2,0,40,22,18,1,1:17
+22-Sep-2003,Palermo,3,Clay,QF,28,93,1,1,,Nicolas Massu,Albert Montanes,6-4 1-6 6-4,1.09,0.0%,5.2%,61.0%,70.2%,46.7%,5/9,51.2%,42.5%,0.0%,38.2%,50.0%,4/8,164,0,4,77,47,30,0,2:13
+22-Sep-2003,Palermo,3,Clay,R16,28,74,1,1,,Nicolas Massu,Jose Acasuso,6-2 3-1,3.29,13.3%,3.3%,53.3%,93.8%,71.4%,1/1,68.9%,54.8%,9.7%,50.0%,63.6%,3/3,61,4,1,30,16,14,3,0:48
+22-Sep-2003,Palermo,3,Clay,R32,28,90,1,1,,Nicolas Massu,Christophe Rochus,6-4 6-2,1.34,10.0%,1.7%,60.0%,69.4%,54.2%,5/6,56.1%,49.2%,0.0%,39.4%,60.0%,4/7,123,6,1,60,36,24,0,1:36
+15-Sep-2003,Szczecin CH,3,Clay,F,37,88,1,1,,Nicolas Massu,Albert Portas,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Szczecin CH,3,Clay,SF,37,80,1,1,7,Nicolas Massu,Jose Acasuso,7-6(7) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Szczecin CH,3,Clay,QF,37,73,1,1,8,Nicolas Massu,Luis Horna,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Szczecin CH,3,Clay,R16,37,148,1,1,,Nicolas Massu,Vincenzo Santopadre,6-0 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Szczecin CH,3,Clay,R32,37,104,1,1,,Nicolas Massu,Franco Squillari,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2003,Bucharest,3,Clay,F,42,50,0,2,4,David Sanchez,Nicolas Massu,6-2 6-2,0.59,4.2%,0.0%,64.6%,51.6%,23.5%,2/7,38.1%,34.7%,2.0%,34.5%,35.0%,1/5,97,2,0,48,31,17,1,1:20
+8-Sep-2003,Bucharest,3,Clay,SF,42,214,1,2,WC,Nicolas Massu,Razvan Sabau,6-1 6-4,1.60,3.9%,5.9%,66.7%,82.4%,35.3%,4/5,59.6%,53.4%,5.2%,48.6%,61.9%,5/9,109,2,3,51,34,17,3,1:22
+8-Sep-2003,Bucharest,3,Clay,QF,42,84,1,2,,Nicolas Massu,Victor Hanescu,6-4 6-1,1.41,5.7%,0.0%,64.2%,70.6%,47.4%,4/6,57.4%,53.2%,0.0%,55.8%,47.4%,6/13,115,3,0,53,34,19,0,1:34
+8-Sep-2003,Bucharest,3,Clay,R16,42,291,1,2,Q,Nicolas Massu,Frantisek Cermak,6-3 6-3,1.54,3.3%,3.3%,65.0%,61.5%,71.4%,8/10,59.3%,54.0%,6.3%,43.3%,63.6%,5/12,123,2,2,60,39,21,4,1:39
+8-Sep-2003,Bucharest,3,Clay,R32,42,75,1,2,,Nicolas Massu,Luis Horna,7-6(4) 6-3,1.56,6.6%,1.6%,67.2%,70.7%,70.0%,0/2,56.8%,46.2%,5.1%,36.4%,58.8%,3/5,139,4,1,61,41,20,4,1:49
+25-Aug-2003,US Open,5,Hard,R32,42,7,0,,7,Carlos Moya,Nicolas Massu,7-5 6-4 3-6 6-3,0.75,4.5%,7.6%,53.8%,70.4%,39.3%,8/14,45.8%,33.0%,10.4%,25.9%,40.4%,4/4,238,6,10,132,71,61,11,2:54
+25-Aug-2003,US Open,5,Hard,R64,42,143,1,,Q,Nicolas Massu,Thomas Enqvist,6-3 6-2 7-5,1.42,4.9%,2.4%,62.2%,70.6%,51.6%,1/4,56.7%,51.8%,3.6%,26.9%,73.3%,8/13,194,4,2,82,51,31,4,2:18
+25-Aug-2003,US Open,5,Hard,R128,42,30,1,,30,Nicolas Massu,Gaston Gaudio,6-3 6-3 6-2,1.29,5.9%,5.0%,65.3%,63.6%,62.9%,5/6,55.9%,47.1%,6.9%,39.6%,56.4%,6/9,188,6,5,101,66,35,6,2:11
+4-Aug-2003,Canada Masters,3,Hard,R64,40,32,0,LL,,Max Mirnyi,Nicolas Massu,6-4 7-6(4),0.77,4.3%,2.9%,74.3%,65.4%,44.4%,0/2,45.9%,30.8%,16.9%,24.4%,45.0%,1/2,135,3,2,70,52,18,11,1:44
+21-Jul-2003,Kitzbuhel,3,Clay,F,48,7,0,,2,Guillermo Coria,Nicolas Massu,6-1 6-4 6-2,0.45,4.3%,9.8%,57.6%,69.8%,30.8%,5/10,39.6%,20.9%,10.4%,23.4%,15.0%,0/0,159,4,9,92,53,39,7,2:07
+21-Jul-2003,Kitzbuhel,3,Clay,SF,48,30,1,,9,Nicolas Massu,Mariano Zabaleta,6-2 6-1,1.73,5.8%,3.8%,69.2%,77.8%,56.3%,1/1,61.2%,50.0%,10.9%,40.9%,58.3%,4/8,98,3,2,52,36,16,5,1:12
+21-Jul-2003,Kitzbuhel,3,Clay,QF,48,64,1,,,Nicolas Massu,Nicolas Lapentti,7-5 6-4,1.15,6.2%,6.2%,55.6%,75.6%,44.4%,10/12,53.7%,43.9%,3.0%,35.1%,55.2%,4/7,147,5,5,81,45,36,2,2:14
+21-Jul-2003,Kitzbuhel,3,Clay,R16,48,54,1,,14,Nicolas Massu,Sargis Sargsian,6-2 6-2,1.79,0.0%,0.0%,53.5%,65.2%,70.0%,0/1,62.6%,58.3%,4.2%,46.4%,75.0%,5/7,91,0,0,43,23,20,2,1:16
+21-Jul-2003,Kitzbuhel,3,Clay,R32,48,22,1,,4,Nicolas Massu,Albert Costa,6-7(9) 7-5 7-6(0),1.04,9.7%,4.0%,50.0%,79.0%,59.7%,4/6,50.6%,32.0%,9.6%,28.0%,39.5%,3/7,249,12,5,124,62,62,12,3:33
+21-Jul-2003,Kitzbuhel,3,Clay,R64,48,66,1,,,Nicolas Massu,Stefan Koubek,6-4 3-6 6-4,1.04,2.2%,2.2%,62.0%,66.7%,57.1%,3/5,49.7%,38.3%,1.9%,43.5%,31.1%,3/10,199,2,2,92,57,35,2,2:30
+14-Jul-2003,Amersfoort,3,Clay,F,73,72,1,7,6,Nicolas Massu,Raemon Sluiter,6-4 7-6(3) 6-2,1.28,7.6%,3.3%,65.2%,71.7%,62.5%,2/3,53.6%,40.4%,9.6%,29.8%,53.2%,4/8,196,7,3,92,60,32,10,2:25
+14-Jul-2003,Amersfoort,3,Clay,SF,73,105,1,7,,Nicolas Massu,Luis Horna,6-3 4-0 RET,1.58,9.1%,6.8%,65.9%,72.4%,46.7%,5/6,60.7%,57.5%,5.0%,50.0%,68.8%,5/8,84,4,3,44,29,15,2,1:07
+14-Jul-2003,Amersfoort,3,Clay,QF,73,152,1,7,WC,Nicolas Massu,Dennis Van Scheppingen,6-2 7-5,1.57,14.3%,0.0%,76.8%,69.8%,76.9%,1/2,56.8%,44.9%,2.9%,40.9%,52.0%,4/9,125,8,0,56,43,13,2,1:26
+14-Jul-2003,Amersfoort,3,Clay,R16,73,134,1,7,,Nicolas Massu,Andre Sa,6-2 6-2,1.96,6.1%,2.0%,65.3%,75.0%,70.6%,3/3,62.4%,51.9%,0.0%,50.0%,54.5%,4/9,101,3,1,49,32,17,0,1:14
+14-Jul-2003,Amersfoort,3,Clay,R32,73,83,1,7,,Nicolas Massu,Hicham Arazi,4-6 6-4 7-6(6),1.01,4.7%,4.7%,52.8%,69.6%,44.0%,4/9,50.2%,42.9%,8.6%,27.7%,67.5%,5/8,211,5,5,106,56,50,9,2:59
+7-Jul-2003,Bastad,3,Clay,R32,72,41,0,,5,Mariano Zabaleta,Nicolas Massu,2-6 6-3 6-3,0.87,1.2%,3.7%,57.3%,66.0%,48.6%,3/7,47.8%,36.0%,4.0%,23.8%,51.5%,3/6,157,1,3,82,47,35,3,2:11
+30-Jun-2003,Mantova CH,3,Clay,SF,80,318,0,1,,Vincenzo Santopadre,Nicolas Massu,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Mantova CH,3,Clay,QF,80,230,1,1,,Nicolas Massu,Juan Albert Viloca Puig,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Mantova CH,3,Clay,R16,80,368,1,1,Q,Nicolas Massu,Daniel Koellerer,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Mantova CH,3,Clay,R32,80,256,1,1,,Nicolas Massu,Cristian Villagran,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,R64,80,22,0,,27,Younes El Aynaoui,Nicolas Massu,7-6(5) 3-6 7-6(4) 6-4,1.02,9.2%,3.9%,59.2%,74.4%,51.6%,6/9,50.7%,35.4%,11.1%,26.0%,60.0%,3/12,296,14,6,152,90,62,16,3:31
+23-Jun-2003,Wimbledon,5,Grass,R128,80,120,1,,,Nicolas Massu,Zeljko Krajan,6-1 6-1 6-1,2.62,14.8%,7.4%,51.9%,89.3%,65.4%,4/4,66.9%,58.2%,6.0%,41.5%,84.6%,8/14,121,8,4,54,28,26,4,1:12
+16-Jun-2003,Braunschweig CH,3,Clay,R32,80,285,0,5,Q,Philipp Kohlschreiber,Nicolas Massu,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,R64,84,3,0,,3,Juan Carlos Ferrero,Nicolas Massu,6-2 3-0 RET,0.41,14.7%,8.8%,47.1%,75.0%,16.7%,2/6,35.0%,23.1%,3.8%,10.0%,31.3%,0/0,60,5,3,34,16,18,1,0:42
+26-May-2003,Roland Garros,5,Clay,R128,84,82,1,,,Nicolas Massu,Magnus Norman,6-4 6-1 6-3,1.61,5.5%,6.8%,60.3%,75.0%,58.6%,4/6,57.4%,50.8%,5.6%,38.3%,62.5%,7/21,197,4,5,73,44,29,7,2:41
+19-May-2003,Dusseldorf,3,Clay,RR,84,99,1,,,Nicolas Massu,Thomas Enqvist,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-2003,Rome Masters,3,Clay,R64,82,100,0,LL,WC,Filippo Volandri,Nicolas Massu,1-6 6-2 6-1,0.88,4.7%,0.0%,64.1%,58.5%,34.8%,0/6,46.9%,43.9%,1.5%,40.0%,52.4%,4/7,130,3,0,64,41,23,1,1:43
+28-Apr-2003,Valencia,3,Clay,QF,89,57,0,,,Fernando Vicente,Nicolas Massu,6-3 6-4,0.55,8.9%,4.4%,68.9%,67.7%,64.3%,0/2,41.5%,18.4%,6.1%,17.2%,20.0%,0/0,94,4,2,45,31,14,3,1:09
+28-Apr-2003,Valencia,3,Clay,R16,89,48,1,,8,Nicolas Massu,David Sanchez,6-4 6-3,1.27,3.9%,3.9%,60.5%,63.0%,43.3%,9/12,56.0%,56.9%,4.6%,40.5%,78.6%,6/10,141,3,3,76,46,30,3,1:51
+28-Apr-2003,Valencia,3,Clay,R32,89,65,1,,,Nicolas Massu,Alberto Martin,6-2 7-6(4),1.22,3.0%,3.0%,70.1%,72.3%,50.0%,2/3,53.7%,41.8%,3.0%,28.2%,60.7%,3/7,134,2,2,67,47,20,2,1:50
+14-Apr-2003,Bermuda CH,3,Clay,F,91,78,0,8,5,Flavio Saretta,Nicolas Massu,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Bermuda CH,3,Clay,SF,91,153,1,8,,Nicolas Massu,Juan Antonio Marin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Bermuda CH,3,Clay,QF,91,121,1,8,,Nicolas Massu,Fernando Meligeni,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Bermuda CH,3,Clay,R16,91,140,1,8,,Nicolas Massu,Tomas Zib,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Bermuda CH,3,Clay,R32,91,439,1,8,Q,Nicolas Massu,Dusan Vemic,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Casablanca,3,Clay,QF,96,17,0,,1,Younes El Aynaoui,Nicolas Massu,4-6 6-3 7-5,0.97,1.2%,8.1%,64.0%,72.7%,41.9%,1/4,47.7%,37.2%,7.1%,24.6%,50.0%,2/9,199,1,7,86,55,31,8,2:38
+7-Apr-2003,Casablanca,3,Clay,R16,96,103,1,,,Nicolas Massu,Zeljko Krajan,2-6 6-1 6-4,1.08,3.7%,6.2%,64.2%,59.6%,48.3%,5/10,51.9%,48.1%,1.3%,35.6%,65.6%,6/9,158,3,5,81,52,29,1,2:13
+7-Apr-2003,Casablanca,3,Clay,R32,96,63,1,,6,Nicolas Massu,Fernando Vicente,0-6 6-3 7-6(5),0.93,0.0%,6.0%,52.4%,68.2%,37.5%,5/11,47.8%,43.1%,2.9%,40.6%,48.5%,5/14,186,0,5,84,44,40,3,2:19
+17-Mar-2003,Miami Masters,3,Hard,R32,102,9,0,,9,Albert Costa,Nicolas Massu,7-6(6) 6-2,0.72,10.3%,0.0%,54.4%,70.3%,51.6%,4/7,45.1%,27.7%,7.7%,21.2%,34.4%,1/6,133,7,0,68,37,31,5,1:59
+17-Mar-2003,Miami Masters,3,Hard,R64,102,19,1,,17,Nicolas Massu,Gaston Gaudio,6-4 5-7 6-3,1.04,5.3%,5.3%,55.8%,76.2%,40.0%,10/13,51.7%,41.5%,4.3%,35.7%,50.0%,5/11,207,6,6,113,63,50,4,2:57
+17-Mar-2003,Miami Masters,3,Hard,R128,102,66,1,,,Nicolas Massu,Kenneth Carlsen,6-4 6-3,2.00,4.5%,6.8%,70.5%,90.3%,46.2%,1/2,58.2%,45.5%,7.6%,33.3%,57.6%,4/9,110,2,3,44,31,13,5,1:36
+3-Mar-2003,Scottsdale,3,Hard,R32,102,47,0,,,David Sanchez,Nicolas Massu,3-6 6-3 6-4,0.96,6.1%,4.9%,52.4%,65.1%,43.6%,5/11,49.1%,43.2%,3.7%,41.0%,45.2%,5/12,163,5,4,82,43,39,3,2:01
+24-Feb-2003,Acapulco,3,Clay,R32,99,9,0,,2,David Nalbandian,Nicolas Massu,2-6 6-1 6-4,0.86,5.3%,5.3%,44.0%,66.7%,54.8%,1/4,46.5%,34.5%,6.0%,31.3%,38.9%,2/4,159,4,4,75,33,42,5,2:07
+17-Feb-2003,Buenos Aires,3,Clay,R32,67,44,0,,,Agustin Calleri,Nicolas Massu,6-4 2-6 6-4,0.69,4.6%,1.9%,63.9%,66.7%,48.7%,6/8,46.7%,27.6%,13.2%,9.1%,53.1%,2/7,184,5,2,108,69,39,10,2:30
+10-Feb-2003,Vina del Mar,3,Clay,R32,58,22,0,,1,Gaston Gaudio,Nicolas Massu,6-0 2-6 6-1,0.57,6.6%,5.3%,55.3%,59.5%,38.2%,7/12,40.9%,28.6%,7.1%,23.5%,36.4%,2/4,132,5,4,76,42,34,4,1:48
+21-Oct-2002,Stockholm,3,Hard,QF,62,84,0,,,Hicham Arazi,Nicolas Massu,7-5 6-1,0.75,12.3%,6.2%,61.5%,60.0%,32.0%,8/13,43.5%,37.9%,4.5%,23.7%,57.1%,2/9,131,8,4,65,40,25,3,1:38
+21-Oct-2002,Stockholm,3,Hard,R16,62,30,1,,8,Nicolas Massu,Rainer Schuettler,4-6 7-6(4) 6-3,1.02,3.0%,2.0%,67.0%,65.7%,51.5%,4/9,50.8%,39.8%,6.5%,35.0%,48.5%,5/10,193,3,2,100,67,33,6,2:28
+21-Oct-2002,Stockholm,3,Hard,R32,62,47,1,,,Nicolas Massu,Jonas Bjorkman,6-3 3-6 6-3,1.02,6.9%,1.0%,70.3%,66.2%,56.7%,7/8,51.0%,37.4%,3.3%,30.0%,51.6%,2/9,192,7,1,101,71,30,3,2:19
+7-Oct-2002,Vienna,3,Hard,R32,62,6,0,,2,Juan Carlos Ferrero,Nicolas Massu,5-7 6-4 6-3,0.96,4.5%,2.7%,69.4%,66.2%,50.0%,9/12,48.9%,37.1%,3.4%,27.3%,45.9%,2/9,227,5,3,111,77,34,4,2:44
+30-Sep-2002,Tokyo,3,Hard,R16,60,1,0,14,1,Lleyton Hewitt,Nicolas Massu,6-7(4) 6-2 6-4,0.91,5.3%,4.4%,58.4%,69.7%,38.3%,13/20,48.0%,39.5%,12.3%,27.5%,49.2%,4/15,227,6,5,113,66,47,14,2:58
+30-Sep-2002,Tokyo,3,Hard,R32,60,96,1,14,,Nicolas Massu,Jeff Morrison,7-6 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2002,Tokyo,3,Hard,R64,60,73,1,14,,Nicolas Massu,Radek Stepanek,5-7 6-3 6-2,1.18,9.7%,2.2%,62.4%,74.1%,45.7%,8/11,53.2%,43.0%,6.5%,37.7%,50.0%,5/12,186,9,2,93,58,35,6,2:15
+23-Sep-2002,Hong Kong,3,Hard,R16,60,23,0,,5,Juan Ignacio Chela,Nicolas Massu,1-6 6-2 6-2,0.82,2.7%,4.1%,74.3%,54.5%,47.4%,7/11,45.9%,38.9%,5.6%,38.3%,40.0%,3/4,146,2,3,74,55,19,4,1:44
+23-Sep-2002,Hong Kong,3,Hard,R32,60,73,1,,,Nicolas Massu,Radek Stepanek,7-5 6-2,1.19,4.7%,4.7%,67.2%,79.1%,47.6%,5/5,54.2%,37.0%,9.3%,20.6%,65.0%,3/5,118,3,3,64,43,21,5,1:25
+9-Sep-2002,Costa Do Sauipe,3,Hard,R32,58,181,0,,Q,Gaston Etlis,Nicolas Massu,2-6 6-4 6-4,0.93,5.0%,5.0%,65.0%,61.5%,32.1%,5/11,47.9%,45.5%,4.5%,40.3%,52.1%,6/13,190,4,4,80,52,28,5,2:21
+26-Aug-2002,US Open,5,Hard,R32,65,46,0,,,Gustavo Kuerten,Nicolas Massu,6-1 5-4 RET,0.28,1.6%,4.9%,47.5%,62.1%,43.8%,5/8,37.8%,13.5%,24.3%,5.6%,21.1%,0/0,98,1,3,61,29,32,9,1:48
+26-Aug-2002,US Open,5,Hard,R64,65,107,1,,,Nicolas Massu,Jurgen Melzer,6-4 7-6(3) 4-6 6-0,1.26,7.1%,5.6%,67.5%,72.9%,51.2%,9/12,53.8%,42.9%,7.1%,36.7%,57.1%,6/17,266,9,7,126,85,41,10,3:09
+26-Aug-2002,US Open,5,Hard,R128,65,27,1,,27,Nicolas Massu,Nicolas Lapentti,6-4 6-3 6-7(8) 7-5,1.09,2.6%,5.2%,59.5%,70.3%,51.6%,13/17,52.7%,40.5%,9.5%,33.3%,52.1%,8/11,279,4,8,153,91,62,12,3:59
+19-Aug-2002,Long Island,3,Hard,R16,65,112,0,,WC,Mardy Fish,Nicolas Massu,6-3 6-4,0.83,5.2%,8.6%,56.9%,72.7%,40.0%,4/8,46.9%,34.5%,12.7%,10.3%,61.5%,1/5,113,3,5,58,33,25,7,1:18
+19-Aug-2002,Long Island,3,Hard,R32,65,13,1,,2,Nicolas Massu,Roger Federer,6-7(5) 6-1 6-3,1.39,3.3%,4.4%,67.8%,73.8%,58.6%,4/5,54.7%,43.4%,5.3%,34.4%,53.8%,5/15,203,3,4,90,61,29,6,2:00
+19-Aug-2002,Long Island,3,Hard,R64,65,82,1,,LL,Nicolas Massu,Raemon Sluiter,6-4 7-6(4),1.42,11.8%,4.4%,64.7%,77.3%,58.3%,0/2,54.1%,41.8%,6.6%,28.3%,55.6%,3/13,159,8,3,68,44,24,6,1:46
+12-Aug-2002,Indianapolis,3,Hard,R32,66,5,0,,5,Tim Henman,Nicolas Massu,6-3 1-6 7-5,1.08,9.2%,10.3%,52.9%,69.6%,56.1%,6/9,51.1%,39.6%,6.6%,33.3%,47.5%,3/7,178,8,9,87,46,41,6,2:18
+12-Aug-2002,Indianapolis,3,Hard,R64,66,1109,1,,WC,Nicolas Massu,Rajeev Ram,6-3 6-3,1.56,1.8%,10.5%,54.4%,77.4%,57.7%,1/2,58.2%,49.2%,4.6%,44.4%,52.6%,4/10,122,1,6,57,31,26,3,1:21
+22-Jul-2002,Kitzbuhel,3,Clay,QF,72,24,0,,6,Gaston Gaudio,Nicolas Massu,6-4 6-3,0.77,0.0%,2.1%,54.2%,42.3%,36.4%,0/6,43.6%,46.4%,1.4%,46.3%,46.4%,4/10,117,0,1,48,26,22,1,1:35
+22-Jul-2002,Kitzbuhel,3,Clay,R16,72,57,1,,,Nicolas Massu,Andre Sa,6-4 6-3,1.38,1.6%,3.2%,58.1%,69.4%,57.7%,6/8,57.3%,49.1%,0.0%,41.2%,61.9%,4/9,117,1,2,62,36,26,0,1:32
+22-Jul-2002,Kitzbuhel,3,Clay,R32,72,20,1,,3,Nicolas Massu,Guillermo Canas,6-4 5-7 6-3,1.09,6.2%,13.4%,57.7%,67.9%,46.3%,4/8,52.1%,45.1%,9.9%,38.0%,53.7%,6/11,188,6,13,97,56,41,9,2:04
+22-Jul-2002,Kitzbuhel,3,Clay,R64,72,73,1,,,Nicolas Massu,Karol Kucera,6-3 6-3,1.37,6.5%,6.5%,53.2%,72.7%,55.2%,8/9,56.0%,48.6%,8.3%,37.2%,65.5%,4/11,134,4,4,62,33,29,6,1:37
+15-Jul-2002,Umag,3,Clay,R16,74,82,0,,WC,Guillermo Coria,Nicolas Massu,7-6(4) 6-2,0.87,4.1%,5.4%,56.8%,61.9%,37.5%,9/14,46.8%,42.5%,2.5%,34.7%,54.8%,3/7,154,3,4,74,42,32,2,2:06
+15-Jul-2002,Umag,3,Clay,R32,74,67,1,,8,Nicolas Massu,Jan Vacek,6-0 6-2,2.56,12.8%,5.1%,59.0%,82.6%,68.8%,2/2,67.5%,59.1%,0.0%,44.4%,69.2%,5/9,83,5,2,39,23,16,0,1:01
+12-Jul-2002,Davis Cup G1 PO: MEX vs CHI,3,Carpet,RR,74,293,1,,,Nicolas Massu,Alejandro Hernandez,6-3 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2002,Davis Cup G1 PO: MEX vs CHI,3,Carpet,RR,74,516,1,,,Nicolas Massu,Marcelo Amador,6-3 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2002,Wimbledon,5,Grass,R128,65,58,0,,,Jan Michael Gambill,Nicolas Massu,6-3 7-6(9) 6-3,0.69,8.8%,8.8%,60.8%,79.0%,37.5%,4/7,44.9%,25.5%,23.4%,11.7%,50.0%,1/2,196,9,9,102,62,40,22,2:15
+17-Jun-2002,Nottingham,3,Grass,R16,66,146,0,,7,Magnus Larsson,Nicolas Massu,7-6(5) 6-4,0.69,5.7%,4.3%,67.1%,76.6%,47.8%,2/3,46.2%,22.6%,17.7%,18.8%,35.7%,0/0,132,4,3,70,47,23,11,1:26
+17-Jun-2002,Nottingham,3,Grass,R32,66,100,1,,,Nicolas Massu,Cecil Mamiit,7-5 6-2,1.26,1.5%,6.1%,50.0%,75.8%,54.5%,6/7,54.5%,43.9%,4.5%,36.7%,50.0%,4/10,132,1,4,66,33,33,3,1:37
+22-Apr-2002,Barcelona,3,Clay,R64,63,93,0,,,Galo Blanco,Nicolas Massu,6-3 RET,0.74,7.7%,3.8%,69.2%,66.7%,50.0%,1/2,42.6%,28.6%,11.4%,25.0%,33.3%,0/4,61,2,1,26,18,8,4,0:45
+15-Apr-2002,Monte Carlo Masters,3,Clay,R32,65,5,0,,4,Tim Henman,Nicolas Massu,6-1 7-6(3),0.64,7.0%,2.8%,50.7%,66.7%,45.7%,2/5,43.0%,28.1%,3.1%,12.8%,52.0%,0/3,135,5,2,71,36,35,2,1:48
+15-Apr-2002,Monte Carlo Masters,3,Clay,R64,65,49,1,,WC,Nicolas Massu,Davide Sanguinetti,5-7 6-0 6-3,1.34,4.1%,4.1%,56.2%,68.3%,56.3%,2/5,55.5%,49.5%,1.1%,38.8%,61.9%,6/14,164,3,3,73,41,32,1,2:09
+4-Mar-2002,Delray Beach,3,Hard,R16,56,72,0,4,,Paradorn Srichaphan,Nicolas Massu,2-1 RET,0.00,0.0%,0.0%,100.0%,66.7%,-,0/0,28.6%,0.0%,25.0%,0.0%,0.0%,0/0,14,0,0,6,6,0,2,0:12
+4-Mar-2002,Delray Beach,3,Hard,R32,56,141,1,4,WC,Nicolas Massu,Jeff Morrison,6-4 6-4,1.28,3.4%,5.2%,43.1%,68.0%,54.5%,3/6,55.2%,50.7%,6.0%,36.6%,73.1%,5/12,125,2,3,58,25,33,4,1:33
+25-Feb-2002,Acapulco,3,Clay,R16,57,46,0,,,Juan Ignacio Chela,Nicolas Massu,2-6 7-6(10) 6-4,0.97,7.9%,1.0%,49.5%,80.0%,51.0%,6/9,50.0%,33.7%,7.4%,20.7%,54.1%,4/5,196,8,1,101,50,51,7,2:56
+25-Feb-2002,Acapulco,3,Clay,R32,57,53,1,,,Nicolas Massu,Andrea Gaudenzi,6-3 7-6(3),1.09,10.4%,2.6%,45.5%,80.0%,57.1%,4/5,53.2%,35.5%,4.8%,18.5%,48.6%,2/5,139,8,2,77,35,42,3,1:49
+18-Feb-2002,Buenos Aires,3,Clay,F,90,74,1,,,Nicolas Massu,Agustin Calleri,2-6 7-6(5) 6-2,0.94,6.2%,4.1%,46.4%,60.0%,53.8%,11/16,49.2%,40.9%,11.4%,36.8%,48.4%,5/11,185,6,4,97,45,52,10,2:38
+18-Feb-2002,Buenos Aires,3,Clay,SF,90,203,1,,Q,Nicolas Massu,Feliciano Lopez,7-6(2) 6-2,1.39,9.4%,1.6%,54.7%,82.9%,55.2%,1/2,56.6%,41.4%,8.6%,34.4%,50.0%,3/6,122,6,1,64,35,29,5,1:36
+18-Feb-2002,Buenos Aires,3,Clay,QF,90,48,1,,,Nicolas Massu,David Nalbandian,7-6(2) 4-6 7-6(2),1.01,10.3%,1.9%,47.7%,86.3%,48.2%,0/3,50.0%,33.9%,1.8%,27.1%,42.0%,2/4,216,11,2,107,51,56,2,2:50
+18-Feb-2002,Buenos Aires,3,Clay,R16,90,79,1,,,Nicolas Massu,David Sanchez,6-4 6-3,1.93,8.5%,0.0%,68.1%,81.3%,66.7%,1/3,60.0%,45.3%,0.0%,34.4%,61.9%,4/5,100,4,0,47,32,15,0,1:20
+18-Feb-2002,Buenos Aires,3,Clay,R32,90,173,1,,WC,Nicolas Massu,Gaston Etlis,6-1 6-4,1.43,3.6%,1.8%,56.4%,74.2%,58.3%,1/2,57.8%,46.8%,4.3%,38.5%,57.1%,4/7,102,2,1,55,31,24,2,1:23
+11-Feb-2002,Vina del Mar,3,Clay,SF,101,19,0,,1,Nicolas Lapentti,Nicolas Massu,6-3 6-4,0.83,8.8%,1.8%,54.4%,51.6%,57.7%,4/8,45.8%,37.7%,9.8%,25.0%,51.7%,2/3,118,5,1,57,31,26,6,1:55
+11-Feb-2002,Vina del Mar,3,Clay,QF,101,62,1,,,Nicolas Massu,Albert Montanes,6-3 6-4,1.26,9.6%,4.1%,54.8%,82.5%,51.5%,5/5,54.6%,39.7%,2.9%,34.1%,48.1%,2/7,141,7,3,73,40,33,2,2:15
+11-Feb-2002,Vina del Mar,3,Clay,R16,101,286,1,,Q,Nicolas Massu,Julio Silva,6-0 6-3,1.96,15.0%,0.0%,65.0%,80.8%,57.1%,1/1,62.2%,54.0%,0.0%,54.3%,53.3%,5/11,90,6,0,40,26,14,0,1:11
+11-Feb-2002,Vina del Mar,3,Clay,R32,101,80,1,,WC,Nicolas Massu,Magnus Norman,6-1 7-6(1),1.65,10.5%,3.5%,45.6%,76.9%,64.5%,1/3,58.6%,49.3%,2.8%,46.2%,53.1%,5/9,128,6,2,57,26,31,2,1:49
+14-Jan-2002,Australian Open,5,Hard,R128,100,64,0,,,Jonas Bjorkman,Nicolas Massu,6-4 RET,0.87,8.0%,2.0%,50.0%,72.0%,36.0%,6/8,48.8%,40.0%,3.3%,42.9%,37.5%,1/1,80,4,1,50,25,25,1,0:58
+31-Dec-2001,Adelaide,3,Hard,R16,80,37,0,,8,Ivan Ljubicic,Nicolas Massu,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2001,Adelaide,3,Hard,R32,80,93,1,,,Nicolas Massu,Attila Savolt,6-2 6-1,1.81,2.2%,0.0%,73.3%,63.6%,66.7%,1/2,64.4%,64.3%,0.0%,63.2%,65.2%,5/6,87,1,0,45,33,12,0,1:11
+22-Oct-2001,St. Petersburg,3,Hard,R32,81,15,0,,5,Goran Ivanisevic,Nicolas Massu,6-2 6-3,0.57,9.3%,4.7%,51.2%,63.6%,47.6%,4/7,38.9%,25.0%,26.9%,12.1%,47.4%,0/1,95,4,2,43,22,21,14,0:55
+15-Oct-2001,Stuttgart Masters,3,Hard,R64,76,41,0,Q,,Jiri Novak,Nicolas Massu,6-3 6-2,0.43,11.8%,2.0%,45.1%,52.2%,50.0%,2/5,36.4%,20.8%,4.2%,14.3%,38.5%,0/0,99,6,1,51,23,28,2,1:03
+8-Oct-2001,Vienna,3,Hard,R32,78,12,0,LL,4,Roger Federer,Nicolas Massu,4-6 7-6(8) 6-4,0.96,3.2%,1.6%,58.1%,72.2%,46.2%,14/17,50.0%,37.0%,14.8%,29.0%,51.3%,3/7,232,4,2,124,72,52,16,2:42
+1-Oct-2001,Tokyo,3,Hard,R16,79,60,0,11,8,Francisco Clavet,Nicolas Massu,6-3 6-4,0.60,4.9%,1.6%,59.0%,50.0%,68.0%,2/5,42.9%,25.5%,5.9%,26.3%,23.1%,0/2,112,3,1,61,36,25,3,1:27
+1-Oct-2001,Tokyo,3,Hard,R32,79,203,1,11,,Nicolas Massu,Tomas Zib,6-3 7-6(4),1.68,12.5%,1.8%,62.5%,85.7%,76.2%,0/0,55.2%,30.0%,3.3%,22.5%,45.0%,2/2,116,7,1,56,35,21,2,1:30
+1-Oct-2001,Tokyo,3,Hard,R64,79,137,1,11,,Nicolas Massu,Edwin Kempes,6-4 6-4,1.28,4.5%,1.5%,69.7%,82.6%,45.0%,4/4,53.7%,36.8%,7.4%,25.6%,51.7%,2/7,134,3,1,66,46,20,5,1:31
+24-Sep-2001,Hong Kong,3,Hard,R16,78,9,0,,3,Sebastien Grosjean,Nicolas Massu,7-6(2) 3-6 6-4,0.90,7.8%,2.9%,55.3%,71.9%,54.3%,3/5,48.5%,32.3%,10.1%,24.5%,41.3%,3/6,202,8,3,103,57,46,10,2:30
+24-Sep-2001,Hong Kong,3,Hard,R32,78,85,1,,,Nicolas Massu,Alex Calatrava,2-6 7-6(5) 6-3,1.09,10.3%,4.6%,55.2%,77.1%,53.8%,4/7,50.3%,36.3%,10.8%,25.5%,48.9%,3/10,189,9,4,87,48,39,11,2:25
+21-Sep-2001,Davis Cup WG PO: SVK vs CHI,3,Carpet,RR,78,28,0,,,Dominik Hrbaty,Nicolas Massu,6-1 6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2001,Davis Cup WG PO: SVK vs CHI,3,Carpet,RR,78,249,1,,,Nicolas Massu,Jan Kroslak,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Costa Do Sauipe,3,Hard,R16,79,175,0,4,Q,Ricardo Mello,Nicolas Massu,1-6 7-6(4) 6-3,0.91,7.8%,2.9%,40.8%,78.6%,45.9%,9/13,50.0%,37.0%,2.7%,31.1%,46.4%,4/9,176,8,3,103,42,61,2,2:37
+10-Sep-2001,Costa Do Sauipe,3,Hard,R32,79,234,1,4,LL,Nicolas Massu,Ignacio Hirigoyen,6-2 2-6 6-2,1.15,7.9%,2.6%,63.2%,70.8%,50.0%,5/7,53.5%,42.4%,4.5%,40.0%,47.6%,4/6,142,6,2,76,48,28,3,1:51
+27-Aug-2001,US Open,5,Hard,R64,86,2,0,,2,Andre Agassi,Nicolas Massu,6-7(4) 6-4 6-2 7-6(1),0.66,11.9%,3.3%,55.6%,70.2%,47.8%,16/21,44.8%,26.2%,7.1%,19.8%,40.0%,2/4,277,18,5,151,84,67,9,3:20
+27-Aug-2001,US Open,5,Hard,R128,86,69,1,,,Nicolas Massu,Francisco Clavet,7-6(13) 6-3 7-6(0),1.25,4.3%,1.7%,57.8%,74.6%,53.1%,6/10,53.9%,43.2%,3.2%,39.1%,47.5%,5/12,241,5,2,116,67,49,4,3:23
+13-Aug-2001,Washington,3,Hard,R32,83,10,0,,2,Alex Corretja,Nicolas Massu,4-6 6-0 6-3,0.73,2.6%,2.6%,46.8%,55.6%,43.9%,4/10,43.3%,37.0%,5.5%,26.8%,50.0%,3/4,150,2,2,77,36,41,4,2:01
+13-Aug-2001,Washington,3,Hard,R64,83,113,1,,,Nicolas Massu,Martin Lee,6-4 7-6(2),1.34,6.5%,1.6%,59.7%,75.7%,60.0%,1/3,53.6%,41.0%,2.6%,23.1%,59.0%,3/5,140,4,1,62,37,25,2,1:41
+23-Jul-2001,Kitzbuhel,3,Clay,R32,81,130,0,,LL,Hugo Armando,Nicolas Massu,6-1 7-6(5),0.83,6.9%,4.2%,52.8%,57.9%,44.1%,6/10,45.3%,40.2%,2.3%,31.4%,52.8%,2/16,159,5,3,72,38,34,2,1:57
+23-Jul-2001,Kitzbuhel,3,Clay,R64,81,107,1,,,Nicolas Massu,German Puentes,6-2 6-4,1.39,3.0%,1.5%,55.2%,64.9%,70.0%,8/8,55.3%,45.8%,0.0%,38.6%,53.8%,3/17,150,2,1,67,37,30,0,1:32
+16-Jul-2001,Stuttgart,3,Clay,R32,80,11,0,,3,Arnaud Clement,Nicolas Massu,6-4 3-6 6-3,1.05,5.3%,3.9%,60.5%,65.2%,46.7%,7/12,49.7%,44.1%,4.5%,33.3%,56.9%,4/16,187,4,3,76,46,30,5,2:21
+16-Jul-2001,Stuttgart,3,Clay,R64,80,185,1,,WC,Nicolas Massu,Michael Kohlmann,6-7(2) 6-3 7-5,1.11,8.4%,1.1%,52.6%,68.0%,53.3%,6/11,51.8%,43.1%,13.7%,32.8%,60.5%,7/13,197,8,1,95,50,45,14,2:28
+9-Jul-2001,Bastad,3,Clay,R32,76,54,0,,,Tommy Robredo,Nicolas Massu,6-3 6-4,0.71,1.9%,3.8%,43.4%,69.6%,40.0%,1/5,43.0%,33.3%,3.7%,21.6%,58.8%,2/2,107,1,2,53,23,30,2,1:17
+2-Jul-2001,Venice CH,3,Clay,R16,89,138,0,4,,Filippo Volandri,Nicolas Massu,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2001,Venice CH,3,Clay,R32,89,118,1,4,,Nicolas Massu,George Bastl,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,Wimbledon,5,Grass,R32,89,2,0,,2,Andre Agassi,Nicolas Massu,6-3 6-1 6-1,0.56,7.1%,3.6%,53.6%,53.3%,46.2%,3/9,37.8%,28.2%,14.1%,21.7%,40.0%,0/2,127,4,2,56,30,26,10,1:21
+25-Jun-2001,Wimbledon,5,Grass,R64,89,95,1,,,Nicolas Massu,Fernando Meligeni,6-4 2-6 7-6(2) 6-7(3) 6-3,0.93,5.5%,0.5%,62.1%,69.0%,50.7%,8/12,49.4%,35.2%,10.5%,26.3%,49.2%,5/13,344,10,1,182,113,69,17,4:11
+25-Jun-2001,Wimbledon,5,Grass,R128,89,317,1,,WC,Nicolas Massu,Lee Childs,6-4 3-6 6-1 6-4,1.25,15.6%,4.6%,56.9%,83.9%,53.2%,5/6,53.7%,36.7%,5.5%,31.4%,41.4%,4/11,218,17,5,109,62,47,6,2:36
+11-Jun-2001,Biella CH,3,Clay,R32,83,237,0,1,,Solon Peppas,Nicolas Massu,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2001,Prostejov CH,3,Clay,R32,78,520,0,6,Q,Mariano Hood,Nicolas Massu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2001,Roland Garros,5,Clay,R128,78,63,0,,,Xavier Malisse,Nicolas Massu,6-3 6-1 6-1,0.25,3.6%,3.6%,56.6%,55.3%,36.1%,13/20,34.1%,13.5%,11.5%,18.2%,5.3%,0/3,135,3,3,83,47,36,6,1:29
+21-May-2001,St. Poelten,3,Clay,R16,79,120,0,,WC,Andrea Gaudenzi,Nicolas Massu,7-6(5) 6-2,0.82,6.2%,1.5%,53.8%,68.6%,43.3%,2/6,46.2%,35.4%,9.2%,32.5%,40.0%,2/3,130,4,1,65,35,30,6,1:41
+21-May-2001,St. Poelten,3,Clay,R32,79,69,1,,,Nicolas Massu,Olivier Rochus,0-6 6-4 6-4,0.97,6.0%,3.4%,57.8%,56.7%,40.8%,14/21,49.3%,48.3%,0.0%,45.3%,56.5%,6/13,203,7,4,116,67,49,0,2:27
+30-Apr-2001,Mallorca,3,Clay,R32,67,55,0,,,Alberto Martin,Nicolas Massu,4-6 6-3 7-6(3),0.90,3.8%,1.5%,64.9%,65.9%,37.0%,19/23,48.4%,40.0%,0.9%,35.5%,48.7%,4/16,246,5,2,131,85,46,1,3:09
+23-Apr-2001,Barcelona,3,Clay,R16,68,11,0,,4,Alex Corretja,Nicolas Massu,6-4 6-3,0.65,5.4%,1.8%,71.4%,67.5%,31.3%,2/5,43.4%,28.0%,6.0%,5.6%,40.6%,1/1,106,3,1,56,40,16,3,1:30
+23-Apr-2001,Barcelona,3,Clay,R32,68,75,1,,,Nicolas Massu,Mikhail Youzhny,6-1 6-7(5) 6-4,1.07,3.7%,1.8%,56.9%,69.4%,57.4%,7/9,52.5%,38.2%,2.2%,36.4%,41.2%,5/8,198,4,2,109,62,47,2,2:30
+23-Apr-2001,Barcelona,3,Clay,R64,68,193,1,,Q,Nicolas Massu,Marcelo Charpentier,5-7 6-4 7-6(9),0.96,3.3%,0.0%,70.2%,63.5%,50.0%,8/12,49.4%,38.8%,0.9%,36.8%,44.8%,4/10,237,4,0,121,85,36,1,3:17
+9-Apr-2001,Casablanca,3,Clay,R16,64,76,0,,,Mariano Zabaleta,Nicolas Massu,6-4 3-6 6-1,0.75,4.8%,2.4%,71.1%,64.4%,37.5%,5/9,45.7%,32.4%,4.4%,38.2%,26.5%,2/3,151,4,2,83,59,24,3,1:58
+9-Apr-2001,Casablanca,3,Clay,R32,64,78,1,,LL,Nicolas Massu,Galo Blanco,7-6(1) 1-6 7-5,1.04,7.5%,1.1%,64.5%,68.3%,54.5%,3/7,50.3%,38.0%,9.0%,30.9%,46.7%,3/9,193,7,1,93,60,33,9,2:33
+6-Apr-2001,Davis Cup G1 SF: BAH vs CHI,3,Hard,RR,64,383,1,,,Nicolas Massu,Mark Knowles,6-4 6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2001,Miami Masters,3,Hard,R128,62,43,0,,,Greg Rusedski,Nicolas Massu,6-4 6-1,0.54,4.5%,9.1%,63.6%,57.1%,43.8%,0/3,37.3%,25.9%,8.6%,8.8%,50.0%,0/0,102,2,4,44,28,16,5,1:02
+12-Mar-2001,Indian Wells Masters,3,Hard,R32,66,54,0,Q,,Bohdan Ulihrach,Nicolas Massu,6-2 6-0 RET,0.61,3.3%,0.0%,50.0%,53.3%,33.3%,2/5,38.5%,34.3%,5.7%,25.0%,46.7%,0/3,65,1,0,30,15,15,2,0:49
+12-Mar-2001,Indian Wells Masters,3,Hard,R64,66,13,1,Q,12,Nicolas Massu,Juan Carlos Ferrero,7-6(3) 6-7(4) 7-6(6),0.94,4.4%,2.9%,58.1%,69.6%,45.6%,8/12,49.4%,38.2%,13.0%,29.4%,49.1%,4/7,259,6,4,136,79,57,16,3:30
+5-Mar-2001,Scottsdale,3,Hard,QF,68,40,0,,,Francisco Clavet,Nicolas Massu,6-4 2-6 6-3,0.92,7.5%,3.8%,48.8%,71.8%,53.7%,5/7,47.6%,34.4%,2.2%,25.5%,48.6%,2/7,170,6,3,80,39,41,2,2:09
+5-Mar-2001,Scottsdale,3,Hard,R16,68,98,1,,Q,Nicolas Massu,Andrea Gaudenzi,6-1 7-6(1),1.29,8.7%,7.2%,55.1%,68.4%,45.2%,4/7,56.3%,54.4%,1.8%,40.0%,70.4%,5/5,126,6,5,69,38,31,1,1:35
+5-Mar-2001,Scottsdale,3,Hard,R32,68,179,1,,WC,Nicolas Massu,James Blake,6-4 6-4,1.39,3.4%,1.7%,62.7%,83.8%,50.0%,3/4,56.9%,40.0%,10.0%,29.6%,52.2%,3/5,109,2,1,59,37,22,5,1:14
+26-Feb-2001,Acapulco,3,Clay,R32,69,75,0,,,Alberto Martin,Nicolas Massu,6-3 6-3,0.38,11.3%,1.9%,56.6%,63.3%,52.2%,2/5,39.2%,15.9%,4.5%,10.3%,26.7%,0/1,97,6,1,53,30,23,2,1:05
+19-Feb-2001,Buenos Aires,3,Clay,R32,68,132,0,,WC,Hernan Gumy,Nicolas Massu,6-3 6-1,0.48,3.9%,7.8%,43.1%,68.2%,27.6%,2/7,36.6%,26.2%,4.8%,20.0%,41.7%,1/1,93,2,4,51,22,29,2,1:16
+12-Feb-2001,Vina del Mar,3,Clay,R32,67,41,0,,5,Francisco Clavet,Nicolas Massu,6-3 2-1 RET,0.50,6.5%,0.0%,38.7%,83.3%,47.4%,0/2,40.3%,19.4%,9.7%,17.6%,21.4%,0/1,62,2,0,31,12,19,3,0:49
+28-Jan-2001,Bogota,3,Clay,R32,68,254,0,4,Q,Ramon Delgado,Nicolas Massu,6-1 3-6 7-5,0.76,7.0%,8.1%,44.2%,68.4%,54.2%,2/6,45.8%,30.0%,16.3%,15.2%,50.0%,2/7,166,6,7,86,38,48,13,1:48
+15-Jan-2001,Australian Open,5,Hard,R128,66,20,0,,,Tommy Haas,Nicolas Massu,6-3 6-1 6-1,0.41,8.0%,8.0%,45.3%,64.7%,39.0%,8/14,36.7%,20.3%,10.9%,13.5%,29.6%,0/2,139,6,6,75,34,41,7,1:28
+8-Jan-2001,Auckland,3,Hard,R32,67,33,0,,3,Jan Michael Gambill,Nicolas Massu,7-6(4) 6-4,0.81,9.9%,7.4%,49.4%,67.5%,36.6%,5/9,45.9%,38.8%,22.4%,18.2%,58.8%,3/4,148,8,6,81,40,41,15,1:43
+1-Jan-2001,Adelaide,3,Hard,F,87,23,0,,5,Tommy Haas,Nicolas Massu,6-3 6-1,0.56,1.6%,9.7%,37.1%,56.5%,48.7%,8/12,40.9%,27.1%,20.8%,16.0%,39.1%,0/0,110,1,6,62,23,39,10,1:23
+1-Jan-2001,Adelaide,3,Hard,SF,87,10,1,,2,Nicolas Massu,Tim Henman,3-6 7-5 6-2,1.22,12.5%,8.8%,43.8%,85.7%,51.1%,4/6,52.6%,41.1%,6.3%,27.6%,62.2%,4/7,175,10,7,80,35,45,6,2:16
+1-Jan-2001,Adelaide,3,Hard,QF,87,91,1,,,Nicolas Massu,Ivan Ljubicic,6-7(5) 7-6(5) 6-2,1.20,5.1%,1.0%,53.5%,83.0%,50.0%,1/3,52.4%,38.7%,19.8%,19.7%,62.0%,4/7,210,5,1,99,53,46,22,2:38
+1-Jan-2001,Adelaide,3,Hard,R16,87,18,1,,3,Nicolas Massu,Arnaud Clement,6-2 6-2,2.22,9.5%,0.0%,52.4%,81.8%,75.0%,1/1,63.1%,47.6%,2.4%,44.0%,52.9%,4/5,84,4,0,42,22,20,1,1:07
+1-Jan-2001,Adelaide,3,Hard,R32,87,95,1,,,Nicolas Massu,Raemon Sluiter,6-2 6-4,1.22,10.0%,1.7%,60.0%,66.7%,45.8%,5/7,54.2%,50.7%,7.0%,40.9%,66.7%,5/17,131,6,1,60,36,24,5,1:23
+6-Nov-2000,St. Petersburg,3,Hard,R32,75,22,0,,3,Dominik Hrbaty,Nicolas Massu,6-3 6-4,0.50,15.9%,5.8%,59.4%,75.6%,39.3%,8/10,43.3%,19.6%,19.6%,16.0%,23.1%,0/1,120,11,4,69,41,28,10,1:12
+16-Oct-2000,Shanghai,3,Hard,QF,73,23,0,,3,Michael Chang,Nicolas Massu,7-5 6-3,0.78,3.8%,3.8%,48.1%,65.8%,43.9%,3/7,45.6%,35.7%,2.9%,22.9%,48.6%,1/5,149,3,3,79,38,41,2,2:17
+16-Oct-2000,Shanghai,3,Hard,R16,73,131,1,,Q,Nicolas Massu,Mikhail Youzhny,7-6(14) 6-1,1.21,5.8%,1.4%,53.6%,75.7%,56.3%,1/2,53.7%,40.3%,1.5%,34.1%,52.2%,4/4,136,4,1,69,37,32,1,1:42
+16-Oct-2000,Shanghai,3,Hard,R32,73,48,1,,5,Nicolas Massu,Mariano Zabaleta,6-4 7-6(5),0.99,2.6%,1.3%,62.3%,64.6%,69.0%,2/3,50.7%,33.3%,5.8%,27.6%,37.5%,2/6,146,2,1,77,48,29,4,1:58
+9-Oct-2000,Tokyo,3,Hard,R32,74,3,0,,1,Gustavo Kuerten,Nicolas Massu,7-6(5) 6-0,0.60,3.6%,5.5%,50.9%,71.4%,48.1%,3/6,42.2%,24.1%,13.0%,25.7%,21.1%,0/1,109,2,3,55,28,27,7,1:08
+9-Oct-2000,Tokyo,3,Hard,R64,74,322,1,,WC,Nicolas Massu,Satoshi Iwabuchi,6-2 6-3,1.43,11.9%,1.7%,62.7%,81.1%,45.5%,5/5,56.5%,46.2%,4.6%,41.2%,51.6%,4/12,124,7,1,59,37,22,3,1:18
+2-Oct-2000,Hong Kong,3,Hard,R32,73,54,0,,,Sjeng Schalken,Nicolas Massu,6-4 7-6(3),0.91,13.2%,8.8%,48.5%,72.7%,40.0%,2/6,48.1%,40.3%,10.4%,36.6%,46.2%,3/4,135,9,6,68,33,35,7,1:42
+18-Sep-2000,Sydney Olympics,3,Hard,R32,74,12,0,,8,Juan Carlos Ferrero,Nicolas Massu,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Sydney Olympics,3,Hard,R64,74,65,1,,,Nicolas Massu,Slava Dosedel,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,US Open,5,Hard,R128,64,19,0,,,Marcelo Rios,Nicolas Massu,6-3 7-5 1-6 7-6(6),0.80,3.8%,3.0%,50.0%,74.2%,50.0%,1/4,47.0%,30.3%,5.0%,25.4%,36.5%,3/10,251,5,4,132,66,66,6,3:08
+21-Aug-2000,Long Island,3,Hard,R16,64,7,0,,3,Thomas Enqvist,Nicolas Massu,6-3 6-2,0.63,12.2%,4.1%,53.1%,69.2%,43.5%,3/6,41.6%,26.9%,26.9%,20.0%,41.2%,0/1,101,6,2,49,26,23,14,1:02
+21-Aug-2000,Long Island,3,Hard,R32,64,30,1,,13,Nicolas Massu,Marc Rosset,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2000,Long Island,3,Hard,R64,64,615,1,,Q,Nicolas Massu,Scott Humphries,6-1 6-2,1.79,6.3%,10.4%,50.0%,66.7%,66.7%,1/2,63.2%,59.6%,2.1%,54.5%,64.0%,5/9,95,3,5,48,24,24,1,1:11
+14-Aug-2000,Indianapolis,3,Hard,R32,63,21,0,,9,Younes El Aynaoui,Nicolas Massu,6-4 6-2,0.58,13.3%,15.0%,50.0%,80.0%,33.3%,0/3,42.0%,25.0%,17.3%,6.9%,47.8%,0/2,112,8,9,60,30,30,9,1:11
+14-Aug-2000,Indianapolis,3,Hard,R64,63,33,1,,,Nicolas Massu,Arnaud Clement,1-6 6-0 6-3,1.17,9.8%,4.9%,53.7%,81.8%,39.5%,8/10,53.9%,44.3%,5.7%,41.9%,48.1%,4/7,152,8,4,82,44,38,4,1:50
+24-Jul-2000,Kitzbuhel,3,Clay,R16,68,69,0,,,Alberto Martin,Nicolas Massu,5-7 6-1 6-1,0.72,7.1%,8.2%,60.2%,61.0%,43.6%,9/15,45.0%,32.9%,5.5%,30.0%,39.1%,2/4,171,7,8,98,59,39,4,1:57
+24-Jul-2000,Kitzbuhel,3,Clay,R32,68,50,1,,11,Nicolas Massu,Albert Portas,6-4 6-4,1.12,9.4%,3.5%,54.1%,65.2%,51.3%,5/7,52.7%,46.3%,12.5%,22.2%,65.9%,4/7,165,8,3,85,46,39,10,1:50
+24-Jul-2000,Kitzbuhel,3,Clay,R64,68,128,1,,,Nicolas Massu,Wayne Arthurs,7-6(3) 7-6(5),1.22,3.8%,2.6%,66.7%,76.9%,69.2%,4/5,52.5%,31.3%,16.3%,8.3%,50.0%,1/2,158,3,2,78,52,26,13,1:53
+17-Jul-2000,Amsterdam,3,Clay,QF,72,63,0,6,4,Magnus Gustafsson,Nicolas Massu,6-3 3-6 6-1,0.75,4.0%,1.3%,61.3%,65.2%,55.2%,3/6,44.8%,29.1%,3.8%,25.9%,38.1%,1/6,154,3,1,75,46,29,3,1:46
+17-Jul-2000,Amsterdam,3,Clay,R16,72,288,1,6,Q,Nicolas Massu,Adrian Garcia,6-1 4-1 RET,2.29,11.4%,0.0%,60.0%,81.0%,71.4%,1/1,63.3%,52.3%,0.0%,42.9%,68.8%,4/7,79,4,0,35,21,14,0,1:00
+17-Jul-2000,Amsterdam,3,Clay,R32,72,411,1,6,,Nicolas Massu,Marcelo Filippini,6-4 7-5,1.40,1.6%,4.7%,50.0%,75.0%,65.6%,2/3,53.6%,41.6%,3.4%,35.0%,55.2%,3/12,153,1,3,64,32,32,3,1:59
+10-Jul-2000,Bastad,3,Clay,QF,76,2,0,,1,Magnus Norman,Nicolas Massu,6-2 6-4,0.53,5.6%,5.6%,55.6%,63.3%,54.2%,4/7,42.0%,21.7%,4.3%,26.3%,18.5%,0/0,100,3,3,54,30,24,2,1:15
+10-Jul-2000,Bastad,3,Clay,R16,76,85,1,,,Nicolas Massu,Bohdan Ulihrach,6-2 6-4,1.21,3.3%,5.0%,63.3%,65.8%,50.0%,2/4,54.3%,48.2%,5.4%,42.9%,64.3%,5/8,116,2,3,60,38,22,3,1:19
+10-Jul-2000,Bastad,3,Clay,R32,76,91,1,,,Nicolas Massu,Hernan Gumy,6-3 6-4,1.21,3.2%,8.1%,61.3%,68.4%,54.2%,3/5,55.0%,44.9%,0.0%,43.8%,47.1%,4/5,111,2,5,62,38,24,0,1:33
+26-Jun-2000,Wimbledon,5,Grass,R128,69,160,0,,Q,Christian Vinck,Nicolas Massu,7-5 4-6 7-6(6) 3-6 6-3,0.90,8.2%,3.8%,55.3%,78.4%,52.1%,5/9,49.0%,29.9%,6.8%,25.3%,38.5%,4/10,306,13,6,159,88,71,10,3:23
+19-Jun-2000,Nottingham,3,Grass,R16,68,71,0,,,Richard Fromberg,Nicolas Massu,6-7(4) 6-3 6-3,0.81,11.3%,5.2%,59.8%,77.6%,51.3%,3/6,46.9%,26.8%,20.6%,13.0%,44.2%,0/2,194,11,5,97,58,39,20,1:58
+19-Jun-2000,Nottingham,3,Grass,R32,68,611,1,,Q,Nicolas Massu,Johan Landsberg,7-6(5) 6-1,1.69,11.9%,0.0%,66.1%,82.1%,65.0%,3/4,58.8%,40.0%,1.8%,36.1%,47.4%,3/6,114,7,0,59,39,20,1,1:18
+12-Jun-2000,Szczecin CH,3,Clay,QF,70,100,0,4,5,Bohdan Ulihrach,Nicolas Massu,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2000,Szczecin CH,3,Clay,R16,70,179,1,4,,Nicolas Massu,Michael Russell,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2000,Szczecin CH,3,Clay,R32,70,251,1,4,,Nicolas Massu,Rodrigo Cerdera,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Prostejov CH,3,Clay,R32,75,100,0,4,,Tomas Zib,Nicolas Massu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2000,Roland Garros,5,Clay,R64,75,81,0,,,Jason Stoltenberg,Nicolas Massu,6-3 6-1 7-5,0.74,5.4%,6.5%,50.5%,53.2%,43.5%,9/17,43.3%,38.3%,9.6%,23.7%,62.9%,3/8,187,5,6,93,47,46,9,2:11
+29-May-2000,Roland Garros,5,Clay,R128,75,130,1,,Q,Nicolas Massu,Jacobo Diaz,6-4 6-3 6-3,1.19,5.6%,1.1%,50.6%,66.7%,52.3%,6/9,53.9%,48.3%,2.2%,40.0%,65.5%,7/12,178,5,1,89,45,44,2,2:10
+21-May-2000,Dusseldorf,3,Clay,RR,73,24,0,,,Patrick Rafter,Nicolas Massu,4-6 7-6(4) 6-1,0.79,6.1%,1.0%,56.1%,60.0%,48.8%,7/13,45.9%,35.6%,4.6%,29.8%,46.7%,4/9,185,6,1,98,55,43,4,2:02
+21-May-2000,Dusseldorf,3,Clay,RR,73,72,0,,,Alberto Martin,Nicolas Massu,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-May-2000,Dusseldorf,3,Clay,RR,73,12,0,,,Marat Safin,Nicolas Massu,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2000,Orlando,3,Clay,F,89,352,0,6,Q,Fernando Gonzalez,Nicolas Massu,6-2 6-3,0.69,8.8%,5.3%,63.2%,58.3%,38.1%,6/10,42.5%,33.9%,12.5%,13.8%,55.6%,0/0,113,5,3,57,36,21,7,1:18
+1-May-2000,Orlando,3,Clay,SF,89,216,1,6,Q,Nicolas Massu,Ramon Delgado,6-4 6-4,1.22,7.5%,1.9%,52.8%,78.6%,40.0%,0/3,53.9%,48.4%,6.5%,52.9%,42.9%,5/8,115,4,1,53,28,25,4,1:31
+1-May-2000,Orlando,3,Clay,QF,89,72,1,6,3,Nicolas Massu,Gianluca Pozzi,2-6 6-2 6-2,1.31,1.4%,1.4%,58.9%,72.1%,56.7%,4/6,55.0%,44.7%,2.6%,28.9%,60.5%,4/6,149,1,1,73,43,30,2,2:00
+1-May-2000,Orlando,3,Clay,R16,89,125,1,6,,Nicolas Massu,Jan Kroslak,6-4 6-2,1.87,14.6%,0.0%,70.8%,82.4%,64.3%,0/0,57.7%,42.9%,4.8%,36.8%,52.0%,3/8,111,7,0,48,34,14,3,1:12
+1-May-2000,Orlando,3,Clay,R32,89,97,1,6,,Nicolas Massu,Laurence Tieleman,6-2 6-3,1.92,4.1%,4.1%,61.2%,86.7%,52.6%,3/4,62.5%,51.1%,4.3%,48.0%,54.5%,4/7,96,2,2,49,30,19,2,1:03
+24-Apr-2000,Bermuda CH,3,Clay,R16,88,122,0,5,,Thierry Guardiola,Nicolas Massu,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2000,Bermuda CH,3,Clay,R32,88,183,1,5,Q,Nicolas Massu,Sebastian Prieto,6-4 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Apr-2000,San Luis Potosi CH,3,Clay,QF,90,180,0,3,,Mariano Hood,Nicolas Massu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2000,San Luis Potosi CH,3,Clay,R16,90,387,1,3,Q,Nicolas Massu,Fernando Gonzalez,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Apr-2000,San Luis Potosi CH,3,Clay,R32,90,1138,1,3,WC,Nicolas Massu,Enrique Abaroa,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2000,Atlanta,3,Clay,QF,89,92,0,,,Jason Stoltenberg,Nicolas Massu,6-1 6-2,0.48,4.9%,2.4%,53.7%,59.1%,47.4%,2/6,37.2%,22.2%,17.8%,13.8%,37.5%,0/2,86,2,1,41,22,19,8,0:56
+10-Apr-2000,Atlanta,3,Clay,R16,89,57,1,,6,Nicolas Massu,Sargis Sargsian,6-2 6-3,1.63,8.5%,0.0%,53.2%,80.0%,63.6%,0/0,58.2%,45.1%,5.9%,33.3%,66.7%,4/5,98,4,0,47,25,22,3,1:08
+10-Apr-2000,Atlanta,3,Clay,R32,89,127,1,,,Nicolas Massu,James Sekulov,6-4 6-1,2.35,7.5%,2.5%,47.5%,89.5%,66.7%,2/3,63.4%,52.8%,3.8%,55.2%,50.0%,5/9,93,3,1,40,19,21,2,1:07
+7-Apr-2000,Davis Cup G1 SF: CHI vs ARG,3,Hard,RR,90,21,1,,,Nicolas Massu,Mariano Zabaleta,5-7 6-2 6-7(1) 1-3 Default,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2000,Davis Cup G1 SF: CHI vs ARG,3,Hard,RR,90,71,1,,,Nicolas Massu,Hernan Gumy,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2000,Miami Masters,3,Hard,R64,97,5,0,Q,5,Magnus Norman,Nicolas Massu,6-4 6-0,0.53,0.0%,2.0%,42.0%,61.9%,34.5%,5/10,37.9%,28.9%,2.2%,16.1%,57.1%,1/2,95,0,1,50,21,29,1,1:09
+20-Mar-2000,Miami Masters,3,Hard,R128,97,52,1,Q,,Nicolas Massu,Arnaud Di Pasquale,6-4 4-6 6-0,1.27,1.1%,1.1%,62.0%,66.7%,48.6%,6/9,55.6%,51.1%,1.1%,41.7%,71.4%,6/13,180,1,1,92,57,35,1,2:13
+6-Mar-2000,Bogota,3,Clay,R32,97,68,0,,7,Hernan Gumy,Nicolas Massu,6-4 6-1,0.70,3.9%,15.7%,33.3%,88.2%,35.3%,4/8,42.2%,32.8%,1.7%,22.6%,44.4%,0/3,109,2,8,51,17,34,1,1:11
+28-Feb-2000,Santiago,3,Clay,R16,101,220,0,,Q,Mariano Hood,Nicolas Massu,6-1 6-2,0.49,6.8%,2.7%,44.6%,57.6%,31.7%,8/13,37.2%,27.7%,0.0%,21.2%,42.9%,1/4,121,5,2,74,33,41,0,1:25
+28-Feb-2000,Santiago,3,Clay,R32,101,28,1,,3,Nicolas Massu,Fernando Meligeni,7-6(4) 1-0 RET,0.86,4.3%,6.5%,47.8%,81.8%,70.8%,3/3,52.5%,20.6%,20.6%,5.3%,40.0%,0/0,80,2,3,46,22,24,7,1:08
+21-Feb-2000,Mexico City,3,Clay,R32,99,74,0,,,Guillermo Canas,Nicolas Massu,4-1 RET,0.19,9.5%,28.6%,38.1%,62.5%,30.8%,3/5,33.3%,11.1%,0.0%,0.0%,20.0%,0/0,30,2,6,21,8,13,0,0:20
+14-Feb-2000,Memphis,3,Hard,R32,99,64,0,,12,Hernan Gumy,Nicolas Massu,7-5 7-6(5),1.02,5.1%,2.6%,64.1%,74.0%,50.0%,1/3,48.9%,35.4%,5.2%,24.1%,52.6%,1/6,174,4,2,78,50,28,5,2:08
+14-Feb-2000,Memphis,3,Hard,R64,99,126,1,,,Nicolas Massu,Gaston Etlis,7-5 6-1,1.48,5.5%,7.3%,34.5%,73.7%,61.1%,1/3,58.7%,51.0%,2.0%,46.7%,57.9%,5/9,104,3,4,55,19,36,1,1:11
+7-Feb-2000,San Jose,3,Hard,R32,100,120,0,,,Tomas Zib,Nicolas Massu,6-4 6-2,0.73,1.7%,11.7%,60.0%,52.8%,33.3%,5/11,42.4%,40.0%,9.2%,27.8%,55.2%,3/8,125,1,7,60,36,24,6,1:33
+4-Feb-2000,Davis Cup G1 QF: CHI vs CAN,3,Clay,RR,101,487,1,,,Nicolas Massu,Simon Larose,6-0 6-7(2) 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+24-Sep-1999,Davis Cup WG PO: ZIM vs CHI,3,Hard,RR,144,79,0,,,Byron Black,Nicolas Massu,4-6 5-7 6-4 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-1999,Davis Cup WG PO: ZIM vs CHI,3,Hard,RR,144,184,0,,,Kevin Ullyett,Nicolas Massu,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-May-1999,Great Britain F6,3,Clay,R32,171,458,0,1,Q,Carlos Castellanos,Nicolas Massu,4-6 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+28-Apr-1999,Great Britain F5,3,Clay,QF,171,309,0,1,Q,Ben Ellwood,Nicolas Massu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-1999,Great Britain F5,3,Clay,R16,171,532,1,1,Q,Nicolas Massu,Jerome Haehnel,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Apr-1999,Great Britain F5,3,Clay,R32,171,457,1,1,Q,Nicolas Massu,Carlos Castellanos,6-1 6-7 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1999,Davis Cup G1 SF: COL vs CHI,3,Clay,RR,203,276,1,,,Nicolas Massu,Mauricio Hadad,4-6 7-5 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1999,Davis Cup G1 SF: COL vs CHI,3,Clay,RR,203,812,1,,,Nicolas Massu,Philippe Moggio,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-1999,Davis Cup G1 QF: BAH vs CHI,3,Hard,RR,206,479,1,,,Nicolas Massu,Mark Merklein,6-2 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-1999,Davis Cup G1 QF: BAH vs CHI,3,Hard,RR,206,,1,,,Nicolas Massu,Roger Smith,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Dec-1998,Santiago CH,3,Clay,R32,190,173,0,,5,Gaston Gaudio,Nicolas Massu,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Nov-1998,Toluca CH,3,Clay,QF,193,254,0,,,Andrei Stoliarov,Nicolas Massu,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-1998,Toluca CH,3,Clay,R16,193,187,1,,,Nicolas Massu,Lior Mor,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-1998,Toluca CH,3,Clay,R32,193,179,1,,7,Nicolas Massu,Thomas Larsen,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+16-Nov-1998,Puebla CH,3,Hard,R16,196,194,0,8,,Lior Mor,Nicolas Massu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-1998,Puebla CH,3,Hard,R32,196,766,1,8,WC,Nicolas Massu,Victor Romero,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-1998,Santiago,3,Clay,R32,196,47,0,WC,8,Franco Squillari,Nicolas Massu,6-3 7-5,0.85,5.6%,5.6%,63.9%,65.2%,46.2%,5/9,46.9%,35.2%,5.6%,24.3%,47.1%,1/8,143,4,4,72,46,26,4,1:37
+2-Nov-1998,Bogota,3,Clay,R32,209,55,0,Q,,Fernando Meligeni,Nicolas Massu,6-2 6-3,0.58,5.5%,3.6%,61.8%,70.6%,28.6%,4/8,41.3%,26.5%,2.0%,25.8%,27.8%,0/5,104,3,2,55,34,21,1,1:02
+19-Oct-1998,Montevideo CH,3,Clay,R32,205,307,0,WC,,Juan Ignacio Chela,Nicolas Massu,6-4 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-1998,Santiago CH,3,Clay,R16,209,509,0,WC,,Mauricio Hadad,Nicolas Massu,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-1998,Santiago CH,3,Clay,R32,209,149,1,WC,,Nicolas Massu,Adriano Ferreira,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-1998,Florianopolis CH,3,Clay,R32,206,114,0,,5,Hernan Gumy,Nicolas Massu,0-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Quito CH,3,Clay,F,326,287,1,,,Nicolas Massu,Mariano Sanchez,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Quito CH,3,Clay,SF,326,194,1,,5,Nicolas Massu,Eduardo Medica,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Quito CH,3,Clay,QF,326,378,1,,WC,Nicolas Massu,Jimy Szymanski,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Quito CH,3,Clay,R16,326,276,1,,,Nicolas Massu,Hector Moretti,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-1998,Quito CH,3,Clay,R32,326,311,1,,,Nicolas Massu,Borut Urh,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-1998,Santa Cruz CH,3,Clay,SF,326,229,0,,5,Gaston Gaudio,Nicolas Massu,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-1998,Santa Cruz CH,3,Clay,QF,326,167,1,,1,Nicolas Massu,Alejandro Hernandez,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+31-Aug-1998,Santa Cruz CH,3,Clay,R16,326,299,1,,7,Nicolas Massu,Ricardo Schlachter,7-6 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-1998,Santa Cruz CH,3,Clay,R32,326,323,1,,,Nicolas Massu,Richard Brostowicz,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-1998,Spain F7,3,Clay,F,356,584,1,1,6,Nicolas Massu,Maxime Boye,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-1998,Spain F7,3,Clay,SF,356,867,1,1,SE,Nicolas Massu,Tommy Robredo,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Aug-1998,Spain F7,3,Clay,QF,356,873,1,1,WC,Nicolas Massu,Angel Jose Martin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Aug-1998,Spain F7,3,Clay,R16,356,,1,1,,Nicolas Massu,Marcos Roy Girardi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Aug-1998,Spain F7,3,Clay,R32,356,825,1,1,,Nicolas Massu,Jose Ezequiel Lido,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1998,Spain F6,3,Clay,F,351,872,1,2,WC,Nicolas Massu,Tommy Robredo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1998,Spain F6,3,Clay,SF,351,517,1,2,5,Nicolas Massu,Carlos Castellanos,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1998,Spain F6,3,Clay,QF,351,817,1,2,,Nicolas Massu,Rafael Serpa Guinazu,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1998,Spain F6,3,Clay,R16,351,697,1,2,,Nicolas Massu,Ruben Ramirez Hidalgo,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-1998,Spain F6,3,Clay,R32,351,,1,2,Q,Nicolas Massu,Oscar Hernandez,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-1998,Spain F5,3,Clay,QF,353,,0,1,WC,Pedro Rico,Nicolas Massu,6-3 6-7 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-1998,Spain F5,3,Clay,R16,353,,1,1,Q,Nicolas Massu,Fernando Sanchez Martinez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-1998,Spain F5,3,Clay,R32,353,,1,1,,Nicolas Massu,Allan Cooper,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-1998,Spain F4,3,Clay,SF,352,627,0,2,,Javier Perez Vazquez,Nicolas Massu,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+27-Jul-1998,Spain F4,3,Clay,QF,352,565,1,2,7,Nicolas Massu,Manuel Sala,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-1998,Spain F4,3,Clay,R16,352,,1,2,Q,Nicolas Massu,Fernando Sanchez Martinez,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+27-Jul-1998,Spain F4,3,Clay,R32,352,,1,2,Q,Nicolas Massu,Sergio Viaji Munoz,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-1998,Davis Cup G1 PO: CHI vs COL,3,Carpet,RR,341,476,1,,,Nicolas Massu,Miguel Tobon,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-1998,Davis Cup G1 PO: CHI vs COL,3,Carpet,RR,341,807,1,,,Nicolas Massu,Jaime Cortes,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,USA F7,3,Hard,QF,395,665,0,2,9,Nicolas Todero,Nicolas Massu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,USA F7,3,Hard,R16,395,1294,1,2,LL,Nicolas Massu,Jeff Williams,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,USA F7,3,Hard,R32,395,1369,1,2,Q,Nicolas Massu,Cary Franklin,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,USA F7,3,Hard,R64,395,792,1,2,,Nicolas Massu,Ross Loel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,USA F6,3,Hard,R16,395,665,0,4,13,Nicolas Todero,Nicolas Massu,4-6 7-6 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,USA F6,3,Hard,R32,395,763,1,4,,Nicolas Massu,Lee Pearson,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,USA F6,3,Hard,R64,395,1055,1,4,,Nicolas Massu,Sunu Thomas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,F,394,248,0,2,1,Cecil Mamiit,Nicolas Massu,0-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,SF,394,456,1,2,3,Nicolas Massu,Adam Peterson,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,QF,394,745,1,2,8,Nicolas Massu,Brad Pearce,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,R16,394,870,1,2,16,Nicolas Massu,Mitch Sprengelmeyer,4-6 6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,R32,394,,1,2,Q,Nicolas Massu,Dann Battistone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-1998,USA F5,3,Hard,R64,394,1045,1,2,,Nicolas Massu,David Critchley,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,F,461,371,0,7,4,Ronald Agenor,Nicolas Massu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,SF,461,1374,1,7,Q,Nicolas Massu,Cyril Martin,4-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,QF,461,,1,7,Q,Nicolas Massu,Jan Gruninger,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,R16,461,923,1,7,,Nicolas Massu,Mitch Sprengelmeyer,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,R32,461,,1,7,,Nicolas Massu,David Rincon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,USA F3,3,Clay,R64,461,664,1,7,,Nicolas Massu,Eric Taino,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,F,461,413,0,,12,Ronald Agenor,Nicolas Massu,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,SF,461,361,1,,8,Nicolas Massu,Jared Palmer,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,QF,461,,1,,SE,Nicolas Massu,Scott Humphries,6-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,R16,461,715,1,,,Nicolas Massu,Nicolas Todero,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,R32,461,679,1,,,Nicolas Massu,Keith Brill,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+18-May-1998,USA F2,3,Clay,R64,461,,1,,Q,Nicolas Massu,Cyril Martin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1998,Argentina F2,3,Clay,R16,464,422,0,,7,Ricardo Schlachter,Nicolas Massu,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Apr-1998,Argentina F2,3,Clay,R32,464,621,1,,,Nicolas Massu,Paulo Taicher,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Apr-1998,Argentina F1,3,Clay,R32,460,880,0,,Q,Santiago Messora,Nicolas Massu,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,F,583,892,0,8,,Jared Palmer,Nicolas Massu,6-7 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,SF,583,892,0,3,2,Jared Palmer,Nicolas Massu,4-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,SF,583,395,1,8,3,Nicolas Massu,Hugo Armando,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,QF,583,412,1,3,6,Nicolas Massu,Damian Furmanski,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,QF,583,577,0,3,5,Valentin Sanon,Nicolas Massu,6-4 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,QF,583,670,1,8,,Nicolas Massu,Miguel Miranda,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 4,3,Clay,QF,583,269,0,8,1,Edwin Kempes,Nicolas Massu,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,R16,583,971,1,3,,Nicolas Massu,Jacobo Chavez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,R16,583,274,1,3,,Nicolas Massu,Herbert Wiltschnig,6-4 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,R16,583,,1,8,Q,Nicolas Massu,Luis Valencia,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 4,3,Clay,R16,583,971,1,8,,Nicolas Massu,Jacobo Chavez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,R32,583,1083,1,3,,Nicolas Massu,Manuel Tejada,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,R32,583,,1,8,Q,Nicolas Massu,Bertrand Lacombe,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 4,3,Clay,R32,583,,1,8,Q,Nicolas Massu,Oliver Marach,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-1997,Buenos Aires CH,3,Clay,R32,612,106,0,Q,3,Franco Squillari,Nicolas Massu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-1997,Santiago,3,Clay,R32,614,77,0,WC,,Juan Albert Viloca Puig,Nicolas Massu,6-7(4) 7-5 6-3,0.90,2.4%,3.1%,57.5%,63.0%,55.6%,12/16,48.0%,36.0%,3.2%,31.2%,43.8%,1/13,252,3,4,127,73,54,4,1:43
+29-Sep-1997,Santiago CH,3,Clay,R32,617,189,0,WC,,Francisco Cabello,Nicolas Massu,6-2 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+25-Aug-1997,Santa Cruz CH,3,Clay,R16,716,255,0,Q,5,Eduardo Medica,Nicolas Massu,6-2 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Aug-1997,Santa Cruz CH,3,Clay,R32,716,592,1,Q,,Nicolas Massu,Miguel Miranda,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-1997,Belo Horizonte CH,3,Hard,R16,726,152,0,Q,1,Guillermo Canas,Nicolas Massu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-1997,Belo Horizonte CH,3,Hard,R32,726,534,1,Q,,Nicolas Massu,Hermes Gamonal,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jul-1997,Quito CH,3,Clay,R16,878,168,0,WC,3,Ramon Delgado,Nicolas Massu,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+14-Jul-1997,Quito CH,3,Clay,R32,878,286,1,WC,,Nicolas Massu,Marco Osorio,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Oct-1996,Chile 2 Masters 3,3,Clay,R32,749,936,0,,,Walter Larrea,Nicolas Massu,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Oct-1996,Chile 2 Masters 4,3,Clay,R32,749,,0,,WC,Adrian Garcia,Nicolas Massu,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 1,3,Hard,QF,844,454,0,,5,David Draper,Nicolas Massu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 3,3,Hard,QF,844,297,0,9,1,Mark Merklein,Nicolas Massu,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 1,3,Hard,R16,844,327,1,,3,Nicolas Massu,Ofer Sela,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 2,3,Hard,R16,844,1266,0,,,Bruce Haddad,Nicolas Massu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 3,3,Hard,R16,844,1182,1,9,,Nicolas Massu,Loren Peters,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 1,3,Hard,R32,844,,1,,Q,Nicolas Massu,Alistair Macdonald,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 2,3,Hard,R32,844,554,1,,8,Nicolas Massu,James Greenhalgh,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 3,3,Hard,R32,844,987,1,9,,Nicolas Massu,Peter Ayers,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 4,3,Hard,R32,844,625,0,8,,Tetsuya Chaen,Nicolas Massu,6-1 1-6 7-6,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 1,3,Hard,R64,844,1266,1,,,Nicolas Massu,John Falbo,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 2,3,Hard,R64,844,1266,1,,Q,Nicolas Massu,Natsuki Harada,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Jul-1996,USA 4 Masters 4,3,Hard,R64,844,1182,1,8,Q,Nicolas Massu,Anthony Ross,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Apr-1996,Davis Cup G1 PO: CAN vs CHI,3,Carpet,RR,844,128,0,,,Sebastien Lareau,Nicolas Massu,6-3 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-1995,Santiago CH,3,Clay,R32,865,375,0,WC,Q,Guillermo Canas,Nicolas Massu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 4,3,Clay,QF,1011,259,0,,1,Sergio Cortes,Nicolas Massu,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 3,3,Clay,R16,1011,259,0,,1,Sergio Cortes,Nicolas Massu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 4,3,Clay,R16,1011,699,1,,8,Nicolas Massu,Charles Edouard Maria,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 1,3,Clay,R32,1011,1245,0,,,Ruben Gajardo,Nicolas Massu,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 2,3,Clay,R32,1011,866,0,,,Oscar Rodriguez Arg,Nicolas Massu,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 3,3,Clay,R32,1011,982,1,,,Nicolas Massu,Mauro Barman,6-3 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
+30-Sep-1995,Chile Masters 4,3,Clay,R32,1011,1069,1,,,Nicolas Massu,Pablo Saffie,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 3,3,Clay,QF,,335,0,Q,4,Nelson Aerts,Nicolas Massu,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 1,3,Clay,R16,,393,0,,3,Pablo Campana,Nicolas Massu,4-6 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 3,3,Clay,R16,,,1,Q,Q,Nicolas Massu,Luis Horna,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 1,3,Clay,R32,,,1,,,Nicolas Massu,Marco Gudino,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 2,3,Clay,R32,,930,0,7,,Philippe Moggio,Nicolas Massu,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 3,3,Clay,R32,,696,1,Q,6,Nicolas Massu,Carlos Drada,7-6 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1995,Ecuador Masters 4,3,Clay,R32,,483,0,Q,4,Nicolas Lapentti,Nicolas Massu,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-1994,Chile 1 Masters 2,3,Clay,R32,,762,0,WC,,Simon Touzil,Nicolas Massu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

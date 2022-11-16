@@ -1,0 +1,472 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Nov-2022,Montevideo CH,3,Clay,R32,265,253,0,Q,Alt,Genaro Alberto Olivieri,Jan Choinski,7-5 7-5,0.72,2.4%,2.4%,66.3%,60.0%,50.0%,9/12,45.1%,31.4%,1.4%,26.8%,37.9%,1/6,153,2,2,83,55,28,1,1:58
+7-Nov-2022,Montevideo CH,3,Clay,Q2,265,387,1,2,10,Jan Choinski,Damien Wenger,7-6(7) 6-3,1.29,1.6%,0.0%,64.5%,70.0%,45.5%,1/4,54.4%,50.0%,2.1%,43.6%,58.5%,5/16,158,1,0,62,40,22,2,2:08
+7-Nov-2022,Montevideo CH,3,Clay,Q1,265,,1,2,,Jan Choinski,Juan Martin Fumeaux,6-3 6-2,1.76,7.0%,0.0%,63.2%,69.4%,81.0%,3/3,60.4%,46.3%,1.9%,37.9%,56.0%,3/8,111,4,0,57,36,21,1,1:22
+31-Oct-2022,Guayaquil CH,3,Clay,QF,284,109,0,Q,Q,Marco Cecchinato,Jan Choinski,6-1 6-3,0.41,0.0%,1.5%,64.2%,53.5%,45.8%,5/9,39.3%,20.0%,17.5%,7.7%,42.9%,0/0,107,0,1,67,43,24,7,1:14
+31-Oct-2022,Guayaquil CH,3,Clay,R16,284,151,1,Q,5,Jan Choinski,Juan Manuel Cerundolo,6-7(3) 6-2 6-4,1.36,2.4%,0.0%,68.2%,70.7%,63.0%,2/4,54.5%,43.3%,2.9%,35.4%,68.0%,5/11,189,2,0,85,58,27,3,2:27
+31-Oct-2022,Guayaquil CH,3,Clay,R32,284,228,1,Q,,Jan Choinski,Thiago Agustin Tirante,6-3 7-6(5),0.97,5.3%,1.3%,75.0%,73.7%,47.4%,3/4,51.1%,31.7%,6.3%,27.5%,39.1%,2/2,139,4,1,76,57,19,4,1:46
+31-Oct-2022,Guayaquil CH,3,Clay,Q2,284,482,1,2,7,Jan Choinski,Daniel Merida Aguilar ,7-5 6-4,1.34,4.5%,0.0%,74.2%,77.6%,47.1%,4/5,54.3%,40.5%,5.4%,25.6%,57.1%,3/12,140,3,0,66,49,17,4,1:46
+31-Oct-2022,Guayaquil CH,3,Clay,Q1,284,1384,1,2,Alt,Jan Choinski,Boris Arias,6-1 6-1,1.71,10.4%,0.0%,64.6%,71.0%,58.8%,2/2,61.5%,57.1%,0.0%,60.0%,52.4%,5/9,104,5,0,48,31,17,0,1:06
+24-Oct-2022,Lima CH,3,Clay,R32,288,89,0,Q,2,Tomas Martin Etcheverry,Jan Choinski,6-4 6-2,0.55,1.6%,0.0%,62.9%,66.7%,43.5%,7/10,42.1%,23.1%,11.5%,15.8%,42.9%,0/3,114,1,0,62,39,23,6,1:46
+24-Oct-2022,Lima CH,3,Clay,Q2,288,329,1,6,8,Jan Choinski,Roman Andres Burruchaga,6-1 6-3,2.13,4.9%,0.0%,80.5%,78.8%,75.0%,0/0,61.4%,46.8%,2.1%,45.7%,50.0%,4/6,88,2,0,41,33,8,1,1:08
+24-Oct-2022,Lima CH,3,Clay,Q1,288,491,1,6,,Jan Choinski,Jose Fco Vidal Azorin,6-3 6-2,1.60,6.4%,0.0%,76.6%,63.9%,72.7%,0/2,60.2%,54.3%,4.3%,50.0%,75.0%,5/7,93,3,0,47,36,11,2,1:19
+17-Oct-2022,Ambato CH,3,Clay,R32,287,408,0,PR,,Giovanni Mpetshi Perricard,Jan Choinski,6-3 7-6(6),1.05,3.4%,1.7%,81.0%,72.3%,81.8%,0/1,48.4%,27.1%,18.6%,20.8%,40.9%,0/3,128,2,1,58,47,11,13,1:14
+10-Oct-2022,Rio De Janeiro CH,3,Clay,R16,348,166,0,SE,8,Yannick Hanfmann,Jan Choinski,6-2 6-4,0.56,1.5%,6.2%,50.8%,60.6%,43.8%,7/11,41.0%,26.9%,13.5%,18.9%,46.7%,1/4,117,1,4,65,33,32,7,1:25
+10-Oct-2022,Rio De Janeiro CH,3,Clay,R32,348,301,1,SE,,Jan Choinski,Dmitry Popko,6-3 3-6 6-3,1.18,7.1%,5.9%,52.9%,71.1%,50.0%,4/8,54.2%,45.7%,10.0%,30.8%,64.5%,5/7,155,6,5,85,45,40,7,2:04
+3-Oct-2022,Campinas CH,3,Clay,SF,457,450,1,Q,LL,Jan Choinski,Remy Bertola,6-4 6-4,1.33,0.0%,3.7%,50.0%,81.5%,51.9%,4/6,55.7%,44.2%,0.0%,27.3%,56.7%,4/6,106,0,2,54,27,27,0,1:24
+3-Oct-2022,Campinas CH,3,Clay,QF,457,145,1,Q,7,Jan Choinski,Alexandre Muller,6-0 1-6 6-4,1.07,9.2%,1.3%,51.3%,74.4%,45.9%,3/6,52.1%,42.4%,3.0%,37.0%,55.0%,4/6,142,7,1,76,39,37,2,1:48
+3-Oct-2022,Campinas CH,3,Clay,R16,457,235,1,Q,Alt,Jan Choinski,Juan Bautista Torres,6-2 6-1,2.09,8.7%,0.0%,50.0%,82.6%,69.6%,1/1,59.8%,50.0%,1.3%,44.2%,57.6%,4/8,122,4,0,46,23,23,1,1:30
+3-Oct-2022,Campinas CH,3,Clay,R32,457,307,1,Q,,Jan Choinski,Gonzalo Lama,6-3 6-1,1.72,8.2%,6.1%,42.9%,81.0%,57.1%,1/2,61.3%,56.1%,0.0%,50.0%,59.5%,5/8,106,4,3,49,21,28,0,1:20
+3-Oct-2022,Campinas CH,3,Clay,Q2,457,692,1,12,Alt,Jan Choinski,Nicolas Zanellato,6-4 6-3,1.32,9.8%,4.9%,57.4%,85.7%,34.6%,2/4,55.7%,47.5%,0.0%,47.2%,48.0%,4/8,122,6,3,61,35,26,0,1:28
+3-Oct-2022,Campinas CH,3,Clay,Q1,457,511,1,12,Alt,Jan Choinski,Sean Cuenin,7-6(5) 6-1,1.41,4.9%,1.6%,55.7%,76.5%,51.9%,4/5,56.7%,48.5%,0.0%,39.4%,57.6%,4/5,127,3,1,61,34,27,0,1:42
+19-Sep-2022,Sibiu CH,3,Clay,R32,458,145,0,PR,2,Filip Misolic,Jan Choinski,6-3 3-6 6-2,0.71,3.7%,2.4%,69.5%,61.4%,52.0%,3/7,45.1%,29.6%,4.2%,23.8%,37.9%,2/4,153,3,2,82,57,25,3,1:43
+12-Sep-2022,Szczecin CH,3,Clay,QF,554,136,0,Q,7,Dennis Novak,Jan Choinski,6-1 6-3,0.52,1.9%,3.8%,63.5%,54.5%,21.1%,7/12,36.8%,30.2%,11.6%,23.3%,46.2%,1/1,95,1,2,52,33,19,5,0:57
+12-Sep-2022,Szczecin CH,3,Clay,R16,554,88,1,Q,3,Jan Choinski,Chun Hsin Tseng,6-4 4-6 7-6(8),1.01,4.6%,2.3%,62.6%,63.4%,49.0%,14/19,50.2%,42.3%,3.8%,38.0%,49.0%,5/17,261,6,3,131,82,49,5,3:14
+12-Sep-2022,Szczecin CH,3,Clay,R32,554,596,1,Q,WC,Jan Choinski,Jerzy Janowicz,6-3 6-4,1.51,6.6%,3.3%,77.0%,72.3%,71.4%,3/3,56.8%,42.2%,7.8%,35.0%,54.2%,2/4,125,4,2,61,47,14,5,1:28
+12-Sep-2022,Szczecin CH,3,Clay,Q2,554,641,1,,,Jan Choinski,Tim Handel,7-5 3-6 7-5,1.10,2.2%,1.1%,63.7%,67.2%,66.7%,3/5,50.3%,36.1%,8.3%,33.8%,40.0%,3/6,199,2,1,91,58,33,9,2:21
+12-Sep-2022,Szczecin CH,3,Clay,Q1,554,419,1,,8,Jan Choinski,Timo Stodder,4-6 7-5 6-4,1.03,5.6%,0.0%,66.7%,66.7%,50.0%,10/13,51.0%,40.0%,1.0%,27.8%,54.3%,4/8,208,6,0,108,72,36,1,2:36
+22-Aug-2022,Banja Luka CH,3,Clay,R16,576,300,0,PR,,Nicolas Alvarez,Jan Choinski,1-6 6-1 5-2 RET,0.78,4.1%,1.4%,71.2%,67.3%,42.9%,3/7,47.3%,31.0%,5.2%,22.9%,43.5%,2/2,131,3,1,73,52,21,3,1:40
+22-Aug-2022,Banja Luka CH,3,Clay,R32,576,253,1,PR,7,Jan Choinski,Lorenzo Giustino,6-2 7-6(5),1.38,4.8%,0.0%,57.1%,80.6%,66.7%,2/2,54.8%,34.9%,7.9%,24.3%,50.0%,2/2,126,3,0,63,36,27,5,1:44
+8-Aug-2022,M15 Frankfurt am Main,3,Clay,F,589,585,1,6,4,Jan Choinski,Imanol Lopez Morillo,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M15 Frankfurt am Main,3,Clay,SF,589,600,1,6,7,Jan Choinski,Kai Wehnelt,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M15 Frankfurt am Main,3,Clay,QF,589,1886,1,6,Q,Jan Choinski,Daniel Paty,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M15 Frankfurt am Main,3,Clay,R16,589,763,1,6,,Jan Choinski,Niklas Schell,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M15 Frankfurt am Main,3,Clay,R32,589,,1,6,Q,Jan Choinski,Adam Blecha,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Wetzlar,3,Clay,QF,593,290,0,,1,Nick Hardt,Jan Choinski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Wetzlar,3,Clay,R16,593,413,1,,,Jan Choinski,Gauthier Onclin,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Wetzlar,3,Clay,R32,593,979,1,,Q,Jan Choinski,Maik Steiner,6-0 7-6(1),,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,R16,545,321,0,,5,Sebastian Fanselow,Jan Choinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,R32,545,1002,1,,WC,Jan Choinski,Philip Florig,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,M25 Nottingham,3,Hard,R16,551,1615,0,,WC,Brandon Murphy,Jan Choinski,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,M25 Nottingham,3,Hard,R32,551,1159,1,,Q,Jan Choinski,Alexis Canter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Nottingham,3,Hard,R16,557,526,0,,8,Luca Potenza,Jan Choinski,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Nottingham,3,Hard,R32,557,,1,,Q,Jan Choinski,David Quayle,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Nottingham,3,Hard,R16,558,497,0,,8,Charles Broom,Jan Choinski,7-6(5) 5-7 7-6(2),,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Nottingham,3,Hard,R32,558,550,1,,,Jan Choinski,Roy Smith,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,Oeiras 2 CH,3,Clay,Q2,562,411,0,11,5,Alexandar Lazarov,Jan Choinski,6-4 6-3,0.73,4.1%,0.0%,56.2%,56.1%,37.5%,8/13,43.5%,37.9%,1.7%,35.9%,42.1%,2/6,131,3,0,73,41,32,1,1:39
+4-Apr-2022,Oeiras 2 CH,3,Clay,Q1,562,648,1,11,,Jan Choinski,Alexis Musialek,7-6(4) 6-1,1.67,3.7%,1.9%,68.5%,83.8%,52.9%,1/1,57.0%,43.3%,3.0%,40.5%,46.7%,3/8,121,2,1,54,37,17,2,1:30
+28-Mar-2022,Oeiras 1 CH,3,Clay,Q2,529,313,0,,2,Luciano Darderi,Jan Choinski,1-6 6-2 6-2,0.86,10.4%,5.2%,57.1%,65.9%,48.5%,4/8,47.6%,35.7%,7.1%,22.5%,53.3%,2/6,147,8,4,77,44,33,5,1:49
+28-Mar-2022,Oeiras 1 CH,3,Clay,Q1,529,409,1,,10,Jan Choinski,Martin Cuevas,6-1 5-7 6-1,1.28,3.9%,2.6%,59.7%,73.9%,48.4%,2/4,55.4%,46.5%,1.4%,45.0%,48.4%,6/8,148,3,2,77,46,31,1,1:53
+21-Mar-2022,M25 Quinta Do Lago,3,Hard,R16,529,443,0,,3,Anton Matusevich,Jan Choinski,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Quinta Do Lago,3,Hard,R32,529,1868,1,,WC,Jan Choinski,Aleksi Lofman,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Loule,3,Hard,R16,544,459,0,,,Anton Matusevich,Jan Choinski,3-6 6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Loule,3,Hard,R32,544,486,1,,,Jan Choinski,Guy Den Ouden,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,SF,597,309,0,,2,Antoine Escoffier,Jan Choinski,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,QF,597,324,1,,3,Jan Choinski,Paul Jubb,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,R16,597,887,1,,Q,Jan Choinski,Daniel Little,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Loughborough,3,Hard,R32,597,334,1,,5,Jan Choinski,Jelle Sels,7-6(4) 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Bath,3,Hard,SF,599,693,0,,,Charles Broom,Jan Choinski,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Bath,3,Hard,QF,599,522,1,,6,Jan Choinski,Alastair Gray,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Bath,3,Hard,R16,599,,1,,Q,Jan Choinski,Phoenix Weir,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M25 Bath,3,Hard,R32,599,596,1,,,Jan Choinski,Patrik Niklas Salminen,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 St. Petersburg,3,Hard,SF,352,423,0,1,3,Evgeny Tyurnev,Jan Choinski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 St. Petersburg,3,Hard,QF,352,757,1,1,Q,Jan Choinski,Alexander Cozbinov,6-2 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 St. Petersburg,3,Hard,R16,352,654,1,1,,Jan Choinski,Marat Deviatiarov,6-4 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 St. Petersburg,3,Hard,R32,352,,1,1,WC,Jan Choinski,Alexander Wolfschmidt,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 St. Petersburg,3,Hard,SF,352,424,0,1,4,Alexey Zakharov,Jan Choinski,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 St. Petersburg,3,Hard,QF,352,498,1,1,8,Jan Choinski,Ivan Gakhov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 St. Petersburg,3,Hard,R16,352,763,1,1,Q,Jan Choinski,Andrew Paulson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 St. Petersburg,3,Hard,R32,352,851,1,1,Q,Jan Choinski,Daniil Glinka,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Heraklion,3,Hard,R32,343,967,0,3,Q,Timo Stodder,Jan Choinski,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R16,343,,0,3,LL,Mateus Alves,Jan Choinski,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R32,343,394,1,3,,Jan Choinski,Filip Cristian Jianu,6-2 2-6 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R16,342,526,0,3,SE,Evan Furness,Jan Choinski,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R32,342,459,1,3,,Jan Choinski,Calvin Hemery,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,R32,342,525,0,6,Q,Nicholas David Ionel,Jan Choinski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Santo Domingo,3,Hard,F,275,424,1,1,2,Jan Choinski,Camilo Ugo Carabelli,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Santo Domingo,3,Hard,SF,275,534,1,1,5,Jan Choinski,Paul Jubb,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Santo Domingo,3,Hard,QF,275,618,1,1,,Jan Choinski,Jose Olivares,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Santo Domingo,3,Hard,R16,275,,1,1,,Jan Choinski,Toby Alex Kodat,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Santo Domingo,3,Hard,R32,275,898,1,1,,Jan Choinski,Peter Bertran,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Santo Domingo,3,Hard,F,277,321,0,,2,Daniel Altmaier,Jan Choinski,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Santo Domingo,3,Hard,SF,277,533,1,,,Jan Choinski,Paul Jubb,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Santo Domingo,3,Hard,QF,277,564,1,,8,Jan Choinski,Arklon Huertas Del Pino,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Santo Domingo,3,Hard,R16,277,570,1,,,Jan Choinski,Federico Zeballos,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Santo Domingo,3,Hard,R32,277,1053,1,,Q,Jan Choinski,Aj Catanzariti,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Sarreguemines,3,Carpet,QF,278,1018,0,,WC,Hugo Schott,Jan Choinski,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Sarreguemines,3,Carpet,R16,278,1301,1,,Q,Jan Choinski,Boris Fassbender,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Sarreguemines,3,Carpet,R32,278,636,1,,,Jan Choinski,Mats Rosenkranz,4-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,Ortisei CH,3,Hard,R16,289,124,0,,6,Antoine Hoang,Jan Choinski,7-5 6-4,0.86,5.2%,0.0%,69.0%,72.5%,50.0%,0/3,46.7%,29.7%,7.8%,29.2%,31.3%,1/5,122,3,0,58,40,18,5,1:12
+11-Nov-2019,Ortisei CH,3,Hard,R32,289,162,1,,9,Jan Choinski,Oscar Otte,7-6(9) 6-3,0.94,3.9%,1.3%,76.6%,71.2%,55.6%,2/3,51.5%,30.5%,13.6%,26.3%,38.1%,2/4,136,3,1,77,59,18,8,1:09
+11-Nov-2019,Ortisei CH,3,Hard,R64,289,287,1,,,Jan Choinski,Jose Hernandez,4-6 7-6(2) 6-4,1.09,9.8%,2.0%,76.5%,74.4%,62.5%,5/6,51.8%,30.9%,6.2%,22.0%,44.7%,1/5,199,10,2,102,78,24,6,1:53
+28-Oct-2019,Eckental CH,3,Hard,Q1,288,341,0,1,,Viktor Durasovic,Jan Choinski,6-3 6-2,0.72,1.9%,5.8%,67.3%,54.3%,29.4%,2/7,42.2%,38.6%,8.8%,31.3%,48.0%,2/6,109,1,3,52,35,17,5,0:58
+21-Oct-2019,Hamburg CH,3,Hard,R32,295,122,0,,3,Gianluca Mager,Jan Choinski,6-4 6-4,0.96,5.3%,1.8%,73.7%,64.3%,40.0%,0/4,48.4%,40.3%,17.9%,27.5%,59.3%,2/6,124,3,1,57,42,15,12,1:13
+21-Oct-2019,Hamburg CH,3,Hard,R64,295,1796,1,,WC,Jan Choinski,Alexandre Aubriot,6-3 6-0,1.55,6.4%,0.0%,72.3%,58.8%,69.2%,1/2,60.4%,59.2%,4.1%,55.2%,65.0%,6/10,96,3,0,47,34,13,2,1:00
+14-Oct-2019,Ismaning CH,3,Hard,R64,297,410,0,,WC,Daniel Altmaier,Jan Choinski,4-6 6-4 7-6(8),1.40,5.5%,2.2%,68.1%,87.1%,58.6%,2/3,52.8%,30.8%,10.6%,22.1%,47.2%,1/6,195,5,2,91,62,29,11,1:53
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,F,299,854,1,2,,Jan Choinski,Stefan Seifert,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,SF,299,675,1,2,,Jan Choinski,Michal Konecny,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,QF,299,552,1,2,,Jan Choinski,Robert Strombachs,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,R16,299,723,1,2,,Jan Choinski,Ondrej Krstev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,R32,299,,1,2,,Jan Choinski,Osman Torski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,Barcelona CH,3,Clay,R64,295,1125,0,,Alt,Daniel Munoz De La Nava,Jan Choinski,6-3 7-6(5),0.84,2.9%,4.4%,57.4%,69.2%,41.4%,2/5,46.1%,35.6%,2.7%,28.9%,42.9%,2/5,141,2,3,68,39,29,2,1:35
+9-Sep-2019,Szczecin CH,3,Clay,R64,294,373,0,,,Alessandro Bega,Jan Choinski,6-4 6-1,0.73,4.0%,4.0%,76.0%,60.5%,0.0%,2/7,42.3%,39.3%,1.6%,40.4%,35.7%,2/7,111,2,2,50,38,12,1,1:08
+2-Sep-2019,Genova CH,3,Clay,R64,290,238,0,,,Alejandro Tabilo,Jan Choinski,6-0 6-2,0.62,2.1%,0.0%,66.7%,50.0%,37.5%,6/11,39.4%,33.3%,5.9%,16.7%,57.1%,0/6,99,1,0,48,32,16,3,1:01
+26-Aug-2019,Como CH,3,Clay,R16,290,236,0,,,Dmitry Popko,Jan Choinski,2-6 6-2 6-1,0.77,0.0%,4.8%,66.7%,64.3%,28.6%,3/8,43.8%,36.5%,6.8%,33.3%,40.6%,2/3,137,0,3,63,42,21,5,1:37
+26-Aug-2019,Como CH,3,Clay,R32,290,102,1,,2,Jan Choinski,Salvatore Caruso,7-6(2) 6-2,1.21,5.0%,3.8%,57.5%,69.6%,50.0%,7/9,54.9%,46.8%,0.0%,34.3%,63.0%,4/9,142,4,3,80,46,34,0,1:55
+26-Aug-2019,Como CH,3,Clay,R64,290,280,1,,,Jan Choinski,Tomas Barrios Vera,6-2 6-3,1.62,5.6%,5.6%,61.1%,63.6%,76.2%,1/2,60.0%,51.0%,0.0%,40.6%,68.4%,4/12,105,3,3,54,33,21,0,1:13
+12-Aug-2019,Meerbusch CH,3,Clay,SF,258,239,0,7,3,Pedja Krstin,Jan Choinski,6-4 6-1,0.73,4.3%,4.3%,48.9%,47.8%,62.5%,2/6,42.9%,32.8%,5.2%,22.9%,47.8%,0/7,105,2,2,47,23,24,3,1:14
+12-Aug-2019,Meerbusch CH,3,Clay,QF,258,395,1,7,WC,Jan Choinski,Louis Wessels,6-3 6-3,1.58,2.0%,0.0%,76.5%,71.8%,66.7%,3/4,57.8%,46.6%,1.7%,36.7%,57.1%,4/8,109,1,0,51,39,12,1,1:14
+12-Aug-2019,Meerbusch CH,3,Clay,R16,258,270,1,7,10,Jan Choinski,Aslan Karatsev,6-4 6-7(4) 7-6(6),1.06,1.5%,0.8%,63.4%,69.9%,47.9%,12/16,51.4%,40.5%,2.4%,30.4%,52.6%,5/12,257,2,1,131,83,48,3,3:13
+12-Aug-2019,Meerbusch CH,3,Clay,R32,258,1124,1,7,PR,Jan Choinski,Daniel Munoz De La Nava,6-2 6-4,1.39,1.6%,3.3%,70.5%,76.7%,38.9%,1/2,56.3%,47.8%,1.5%,37.5%,63.0%,4/11,128,1,2,61,43,18,1,1:35
+5-Aug-2019,Augsburg CH,3,Clay,R64,262,278,0,,,Renzo Olivo,Jan Choinski,6-4 6-4,0.84,3.2%,3.2%,61.9%,66.7%,41.7%,3/6,46.2%,35.8%,1.5%,28.6%,48.0%,1/6,130,2,2,63,39,24,1,1:36
+29-Jul-2019,Sopot CH,3,Clay,QF,276,187,0,16,10,Filip Horansky,Jan Choinski,6-1 6-0,0.47,0.0%,3.8%,69.8%,43.2%,31.3%,6/12,34.8%,28.2%,10.3%,25.0%,33.3%,0/4,92,0,2,53,37,16,4,0:53
+29-Jul-2019,Sopot CH,3,Clay,R16,276,420,1,16,,Jan Choinski,Jeremy Jahn,6-3 6-7(7) 6-4,1.10,1.7%,1.7%,74.4%,65.6%,48.4%,5/8,52.4%,42.7%,2.7%,30.4%,55.6%,5/13,231,2,2,121,90,31,3,2:39
+29-Jul-2019,Sopot CH,3,Clay,R32,276,337,1,16,,Jan Choinski,Tomislav Brkic,3-6 6-4 6-3,1.16,3.7%,0.0%,65.4%,69.8%,57.1%,3/6,52.4%,40.2%,2.3%,30.4%,51.2%,4/10,168,3,0,81,53,28,2,1:57
+22-Jul-2019,Prague CH,3,Clay,R32,279,188,0,,5,Nikola Milojevic,Jan Choinski,6-3 6-0,0.49,2.6%,2.6%,50.0%,52.6%,47.4%,1/5,36.1%,24.4%,4.4%,11.1%,44.4%,0/1,83,1,1,38,19,19,2,0:58
+22-Jul-2019,Prague CH,3,Clay,R64,279,348,1,,,Jan Choinski,Aldin Setkic,6-3 6-7(3) 6-2,1.13,6.1%,5.1%,56.1%,74.5%,53.5%,7/9,52.6%,39.1%,13.0%,25.0%,71.4%,5/8,190,6,5,98,55,43,12,2:07
+15-Jul-2019,Amersfoort CH,3,Clay,R16,288,144,0,,2,Kimmer Coppejans,Jan Choinski,7-6(5) 6-4,0.84,1.2%,4.7%,54.7%,55.3%,48.7%,9/13,46.8%,40.3%,8.3%,20.5%,71.4%,3/4,158,1,4,86,47,39,6,1:52
+15-Jul-2019,Amersfoort CH,3,Clay,R32,288,239,1,,14,Jan Choinski,Thiemo De Bakker,6-2 5-7 6-2,1.30,2.5%,0.0%,50.0%,72.5%,67.5%,2/3,55.3%,38.9%,16.7%,21.4%,63.3%,4/5,152,2,0,80,40,40,12,1:38
+15-Jul-2019,Amersfoort CH,3,Clay,R64,288,429,1,,,Jan Choinski,Ricardo Ojeda Lara,6-2 6-3,1.98,2.1%,4.3%,57.4%,77.8%,65.0%,0/1,64.0%,54.8%,2.4%,45.2%,81.8%,4/4,89,1,2,47,27,20,1,1:00
+1-Jul-2019,Ludwigshafen CH,3,Clay,R64,286,488,0,,WC,Daniel Altmaier,Jan Choinski,6-4 7-6(4),0.79,6.7%,1.3%,69.3%,67.3%,47.8%,6/8,46.5%,30.4%,5.8%,17.5%,48.3%,1/1,144,5,1,75,52,23,4,1:35
+1-Jul-2019,Wimbledon,5,Grass,Q1,286,145,0,,,James Duckworth,Jan Choinski,6-1 7-5,0.76,9.4%,1.9%,60.4%,59.4%,42.9%,4/7,44.0%,35.7%,23.2%,20.0%,61.9%,1/7,109,5,1,53,32,21,13,1:19
+17-Jun-2019,Ilkley CH,3,Grass,R64,285,355,0,WC,Q,Brydan Klein,Jan Choinski,2-6 7-5 6-2,0.85,3.3%,4.3%,63.0%,62.1%,50.0%,5/9,47.4%,36.1%,13.3%,22.8%,65.4%,3/8,175,3,4,92,58,34,11,1:46
+29-Apr-2019,Bordeaux CH,3,Clay,R64,285,387,0,,,Andrea Pellegrino,Jan Choinski,2-1 RET,0.75,0.0%,0.0%,50.0%,50.0%,50.0%,1/2,45.0%,37.5%,0.0%,28.6%,100.0%,0/2,20,0,0,12,6,6,0,0:11
+8-Apr-2019,Murcia CH,3,Clay,R32,280,200,0,,14,Mikael Ymer,Jan Choinski,6-2 6-4,0.65,1.4%,2.9%,69.6%,56.3%,42.9%,7/11,42.7%,30.9%,3.6%,21.9%,43.5%,1/5,124,1,2,69,48,21,2,1:26
+8-Apr-2019,Murcia CH,3,Clay,R64,280,603,1,,Q,Jan Choinski,David Vega Hernandez,6-3 6-3,1.45,5.2%,1.7%,63.8%,70.3%,57.1%,2/4,58.0%,50.0%,3.7%,32.3%,73.9%,5/8,112,3,1,58,37,21,2,1:20
+18-Mar-2019,Lille CH,3,Hard,QF,265,108,0,,2,Yannick Maden,Jan Choinski,6-3 6-3,0.58,5.3%,0.0%,64.0%,56.3%,44.4%,7/11,42.6%,27.7%,10.6%,26.7%,29.4%,1/1,122,4,0,75,48,27,5,1:27
+18-Mar-2019,Lille CH,3,Hard,R16,265,,1,,WC,Jan Choinski,Rayane Roumane,4-6 6-4 7-6(4),1.15,5.7%,1.1%,77.0%,74.6%,70.0%,2/4,51.4%,30.4%,20.7%,22.2%,42.1%,2/5,179,5,1,87,67,20,19,1:42
+18-Mar-2019,Lille CH,3,Hard,R32,265,160,1,,11,Jan Choinski,Yannick Hanfmann,6-0 6-4,1.29,6.2%,0.0%,69.2%,66.7%,40.0%,2/3,56.3%,53.7%,0.0%,48.4%,60.9%,5/8,119,4,0,65,45,20,0,1:16
+18-Mar-2019,Lille CH,3,Hard,R64,265,195,1,,,Jan Choinski,Filip Horansky,6-4 6-4,1.42,0.0%,0.0%,65.5%,61.1%,84.2%,0/1,54.6%,44.0%,4.0%,41.5%,47.1%,3/6,130,0,0,55,36,19,3,1:28
+25-Feb-2019,Pau CH,3,Hard,R16,272,153,0,,4,Alexander Bublik,Jan Choinski,6-4 6-2,0.42,1.9%,0.0%,69.8%,59.5%,56.3%,5/8,39.4%,17.4%,34.8%,6.5%,40.0%,0/0,99,1,0,53,37,16,16,0:59
+25-Feb-2019,Pau CH,3,Hard,R32,272,223,1,,15,Jan Choinski,Adam Pavlasek,6-4 7-5,1.60,3.6%,0.0%,78.2%,76.7%,83.3%,0/1,55.7%,35.0%,15.0%,31.0%,44.4%,3/5,115,2,0,55,43,12,9,1:09
+25-Feb-2019,Pau CH,3,Hard,R64,272,216,1,,,Jan Choinski,Sergio Gutierrez Ferrol,7-5 2-6 6-3,1.00,1.0%,2.1%,63.9%,66.1%,45.7%,9/13,50.3%,41.3%,13.0%,37.3%,48.5%,4/9,189,1,2,97,62,35,12,1:56
+18-Feb-2019,Bergamo CH,3,Hard,QF,284,250,0,,,Roberto Marcora,Jan Choinski,7-6(3) 6-3,0.70,8.6%,1.4%,62.9%,65.9%,53.8%,3/6,45.7%,27.1%,3.4%,18.9%,40.9%,1/1,129,6,1,70,44,26,2,1:21
+18-Feb-2019,Bergamo CH,3,Hard,R16,284,197,1,,13,Jan Choinski,Jay Clarke,7-5 1-6 6-1,1.03,10.3%,5.7%,54.0%,70.2%,52.5%,7/9,50.3%,38.9%,10.0%,34.0%,44.2%,3/8,177,9,5,87,47,40,9,1:55
+18-Feb-2019,Bergamo CH,3,Hard,R32,284,,1,,LL,Jan Choinski,Federico Arnaboldi,6-3 6-1,2.39,11.6%,0.0%,55.8%,83.3%,73.7%,0/0,63.4%,50.0%,6.0%,48.1%,52.2%,4/7,93,5,0,43,24,19,3,0:57
+18-Feb-2019,Bergamo CH,3,Hard,R64,284,258,1,,,Jan Choinski,Benjamin Bonzi,6-0 4-2 RET,2.97,19.4%,0.0%,54.8%,82.4%,78.6%,0/0,67.6%,57.5%,2.5%,65.2%,47.1%,4/8,71,6,0,31,17,14,1,0:40
+4-Feb-2019,Dallas CH,3,Hard,R32,286,98,0,,3,Reilly Opelka,Jan Choinski,4-6 6-3 6-4,1.00,12.3%,1.4%,64.4%,85.1%,50.0%,3/5,47.8%,27.3%,29.5%,13.5%,47.2%,1/3,161,9,1,73,47,26,26,1:29
+4-Feb-2019,Dallas CH,3,Hard,R64,286,637,1,,WC,Jan Choinski,Evan Zhu,6-4 6-4,1.43,8.3%,1.7%,63.3%,71.1%,68.2%,2/3,54.7%,43.0%,2.5%,28.2%,57.5%,3/10,139,5,1,60,38,22,2,1:18
+28-Jan-2019,Cleveland CH,3,Hard,R32,289,233,0,,10,Dustin Brown,Jan Choinski,7-6(5) 1-6 7-6(1),1.08,1.9%,5.6%,63.9%,62.3%,56.4%,2/5,51.6%,42.9%,6.7%,28.8%,60.9%,5/10,213,2,6,108,69,39,7,2:07
+28-Jan-2019,Cleveland CH,3,Hard,R64,289,391,1,,ITF,Jan Choinski,Tom Jomby,6-2 2-1 RET,1.80,9.1%,6.1%,39.4%,76.9%,70.0%,2/2,58.5%,49.0%,4.1%,37.5%,60.0%,3/6,82,3,2,33,13,20,2,0:54
+21-Jan-2019,Newport Beach CH,3,Hard,R64,280,242,0,,,Christian Harrison,Jan Choinski,6-2 6-7(5) 6-4,0.78,3.5%,0.9%,66.1%,56.6%,53.8%,4/9,46.2%,34.4%,11.8%,21.6%,50.0%,2/5,208,4,1,115,76,39,11,2:05
+7-Jan-2019,Columbus CH,3,Hard,QF,291,366,0,,WC,J J Wolf,Jan Choinski,6-2 6-1,0.63,0.0%,1.6%,62.9%,51.3%,39.1%,8/12,40.3%,33.3%,17.5%,16.7%,61.9%,0/2,119,0,1,62,39,23,10,1:19
+7-Jan-2019,Columbus CH,3,Hard,R16,291,283,1,,,Jan Choinski,Laurynas Grigelis,7-6(4) 4-6 6-2,1.02,4.0%,2.0%,73.3%,74.3%,55.6%,5/6,50.8%,31.3%,13.5%,27.1%,37.8%,2/6,197,4,2,101,74,27,13,2:11
+7-Jan-2019,Columbus CH,3,Hard,R32,291,264,1,,7,Jan Choinski,Benjamin Bonzi,6-3 6-3,1.31,1.6%,3.1%,64.1%,68.3%,43.5%,5/7,56.2%,53.0%,3.0%,36.8%,75.0%,5/10,130,1,2,64,41,23,2,1:24
+7-Jan-2019,Columbus CH,3,Hard,R64,291,319,1,,,Jan Choinski,Alejandro Gonzalez,6-2 6-3,1.67,1.9%,0.0%,69.8%,73.0%,68.8%,0/0,59.1%,47.4%,1.8%,40.0%,64.7%,3/6,110,1,0,53,37,16,1,1:21
+31-Dec-2018,Orlando CH,3,Hard,R64,292,664,0,,WC,Sam Riffice,Jan Choinski,6-1 2-6 6-3,0.87,8.1%,5.4%,64.9%,54.2%,57.7%,3/8,47.0%,39.0%,2.6%,21.4%,60.0%,3/6,151,6,4,74,48,26,2,1:40
+5-Nov-2018,Knoxville CH,3,Hard,Q1,273,577,0,1,,Ryan Shane,Jan Choinski,3-6 6-1 7-6(5),0.99,7.9%,2.2%,68.5%,68.9%,46.4%,4/9,50.3%,37.8%,14.6%,18.8%,64.7%,4/6,171,7,2,89,61,28,12,1:40
+29-Oct-2018,Charlottesville CH,3,Hard,Q2,269,503,0,1,,Nuno Borges,Jan Choinski,6-3 1-6 6-3,0.91,3.8%,3.8%,63.7%,70.6%,41.4%,5/8,48.1%,36.6%,4.9%,27.3%,47.4%,3/10,162,3,3,80,51,29,4,1:38
+29-Oct-2018,Charlottesville CH,3,Hard,Q1,269,578,1,1,,Jan Choinski,Ryan Shane,4-6 6-2 7-6(4),1.12,5.2%,4.1%,70.1%,69.1%,48.3%,5/8,52.3%,41.7%,13.5%,30.8%,54.5%,4/9,193,5,4,97,68,29,13,1:55
+22-Oct-2018,Las Vegas CH,3,Hard,R32,271,315,0,ALT,Q,Roberto Ortega Olmedo,Jan Choinski,6-3 6-4,0.59,5.7%,7.5%,56.6%,60.0%,47.8%,2/5,40.4%,26.8%,7.1%,22.2%,35.0%,1/4,109,3,4,53,30,23,4,1:07
+15-Oct-2018,Calgary  CH,3,Hard,R16,267,127,0,,5,Casper Ruud,Jan Choinski,6-3 6-2,0.59,12.7%,3.6%,63.6%,62.9%,40.0%,2/5,41.1%,26.9%,9.6%,15.6%,45.0%,0/1,107,7,2,55,35,20,5,1:02
+15-Oct-2018,Calgary  CH,3,Hard,R32,267,262,1,,ALT,Jan Choinski,Stefan Kozlov,6-3 6-3,1.67,10.9%,4.3%,60.9%,71.4%,66.7%,0/2,58.6%,50.8%,1.5%,48.5%,53.1%,5/8,111,5,2,46,28,18,1,1:13
+8-Oct-2018,Fairfield CH,3,Hard,Q2,268,378,0,3,,Marc Andrea Huesler,Jan Choinski,6-3 6-1,0.66,2.3%,2.3%,75.0%,57.6%,36.4%,3/7,40.6%,31.6%,3.5%,18.8%,48.0%,0/2,101,1,1,44,33,11,2,0:58
+8-Oct-2018,Fairfield CH,3,Hard,Q1,268,923,1,3,WC,Jan Choinski,William Griffith,6-4 7-6(6),1.05,10.1%,2.2%,61.8%,65.5%,47.1%,7/10,51.1%,43.5%,7.1%,40.8%,47.2%,4/9,174,9,2,89,55,34,6,1:46
+1-Oct-2018,Stockton CH,3,Hard,R32,258,135,0,,5,Casper Ruud,Jan Choinski,6-3 6-0,0.30,3.8%,1.9%,65.4%,55.9%,33.3%,5/9,34.4%,15.8%,13.2%,11.5%,25.0%,0/0,90,2,1,52,34,18,5,0:56
+24-Sep-2018,Tiburon CH,3,Hard,Q3,259,327,0,4,7,Roberto Ortega Olmedo,Jan Choinski,7-6(1) 6-3,0.70,2.9%,2.9%,54.4%,54.1%,41.9%,5/9,42.4%,35.9%,6.3%,27.6%,42.9%,3/6,132,2,2,68,37,31,4,1:29
+24-Sep-2018,Tiburon CH,3,Hard,Q2,259,490,1,4,,Jan Choinski,Alejandro Gomez Gb42,6-4 1-6 6-0,1.34,4.6%,0.0%,63.1%,70.7%,62.5%,7/9,54.1%,43.2%,7.4%,28.9%,61.1%,4/11,146,3,0,65,41,24,6,1:27
+17-Sep-2018,Columbus CH,3,Hard,R32,266,505,0,,WC,J J Wolf,Jan Choinski,7-5 6-4,0.62,13.0%,5.8%,68.1%,78.7%,40.9%,5/7,45.7%,20.7%,15.5%,5.9%,41.7%,0/0,127,9,4,69,47,22,9,1:19
+10-Sep-2018,Cary CH,3,Hard,R32,265,239,0,,,Donald Young,Jan Choinski,6-7(4) 6-2 6-1,0.73,4.5%,5.7%,54.5%,52.1%,45.0%,2/9,42.7%,37.1%,8.2%,25.5%,52.4%,3/11,185,4,5,88,48,40,8,2:05
+20-Aug-2018,Belgium F9,3,Clay,F,262,1014,1,,,Jan Choinski,Colin Sinclair,3-6 7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Belgium F9,3,Clay,SF,262,866,1,,,Jan Choinski,Samuel Brosset,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Belgium F9,3,Clay,QF,262,708,1,,6,Jan Choinski,Dan Added,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Belgium F9,3,Clay,R16,262,842,1,,,Jan Choinski,Nikolas Sanchez Izquierdo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Belgium F9,3,Clay,R32,262,1600,1,,,Jan Choinski,Felipe Martinez Sarrasague,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Meerbusch CH,3,Clay,F,301,251,0,,6,Filip Horansky,Jan Choinski,6-7(7) 6-3 6-3,0.85,1.9%,1.9%,53.3%,60.7%,36.7%,8/16,46.1%,43.0%,5.3%,36.4%,56.8%,5/15,219,2,2,105,56,49,6,2:35
+13-Aug-2018,Meerbusch CH,3,Clay,SF,301,257,1,,,Jan Choinski,Dustin Brown,6-4 6-3,1.60,7.7%,1.9%,61.5%,93.8%,45.0%,1/1,54.9%,40.0%,4.3%,37.2%,44.4%,3/11,122,4,1,52,32,20,3,1:07
+13-Aug-2018,Meerbusch CH,3,Clay,QF,301,280,1,,,Jan Choinski,Bernabe Zapata Miralles,5-7 6-2 6-1,1.45,4.2%,2.8%,62.5%,66.7%,55.6%,1/5,58.1%,54.2%,2.4%,49.1%,65.4%,8/14,155,3,2,72,45,27,2,1:38
+13-Aug-2018,Meerbusch CH,3,Clay,R16,301,423,1,,Q,Jan Choinski,Zizou Bergs,6-3 6-4,1.01,1.3%,1.3%,57.5%,69.6%,58.8%,4/4,53.4%,35.3%,2.0%,20.7%,54.5%,2/3,131,1,1,80,46,34,1,1:34
+13-Aug-2018,Meerbusch CH,3,Clay,R32,301,394,1,,WC,Jan Choinski,Andreas Haider Maurer,6-1 6-4,1.55,7.7%,1.9%,57.7%,70.0%,63.6%,2/3,58.4%,50.8%,6.6%,40.0%,65.4%,5/8,113,4,1,52,30,22,4,1:24
+6-Aug-2018,Germany F11,3,Clay,F,286,381,1,,2,Jan Choinski,Benjamin Hassan,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,SF,286,642,1,,7,Jan Choinski,Christoph Negritu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,QF,286,1695,1,,,Jan Choinski,Constantin Schmitz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,R16,286,1234,1,,,Jan Choinski,Leonard Von Hindte,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,R32,286,,1,,Q,Jan Choinski,Chris Rodesch,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Sopot CH,3,Clay,R16,295,110,0,,2,Paolo Lorenzi,Jan Choinski,7-5 6-0,0.65,3.3%,3.3%,55.7%,55.9%,29.6%,3/9,40.3%,36.2%,12.1%,30.3%,44.0%,2/3,119,2,2,61,34,27,7,1:30
+30-Jul-2018,Sopot CH,3,Clay,R32,295,264,1,,,Jan Choinski,Gleb Sakharov,0-6 6-4 6-1,0.95,4.2%,5.6%,52.8%,65.8%,41.2%,3/7,49.3%,43.5%,4.8%,46.7%,40.6%,5/7,134,3,4,72,38,34,3,1:57
+23-Jul-2018,Padova CH,3,Clay,R32,275,200,0,,9,Andrea Arnaboldi,Jan Choinski,6-2 6-0,0.43,0.0%,2.3%,53.5%,56.5%,25.0%,3/8,33.7%,25.0%,10.0%,25.0%,25.0%,0/1,83,0,1,43,23,20,4,1:04
+16-Jul-2018,Scheveningen CH,3,Clay,R32,271,511,0,,WC,Botic Van De Zandschulp,Jan Choinski,7-5 6-2,0.68,1.9%,3.8%,71.7%,57.9%,33.3%,1/5,41.4%,33.3%,4.8%,22.9%,46.4%,1/3,116,1,2,53,38,15,3,1:09
+25-Jun-2018,Eastbourne,3,Grass,Q1,274,304,0,7,,Carlos Gomez Herrera,Jan Choinski,6-3 6-4,0.57,0.0%,4.8%,61.9%,61.5%,54.2%,6/9,43.0%,23.5%,7.8%,21.6%,28.6%,1/1,114,0,3,63,39,24,4,1:01
+18-Jun-2018,L'Aquila CH,3,Clay,R32,264,194,0,,8,Luca Vanni,Jan Choinski,6-3 4-6 6-2,0.76,1.0%,9.3%,58.8%,66.7%,47.5%,10/14,46.1%,31.3%,13.3%,22.9%,42.9%,1/5,180,1,9,97,57,40,11,1:54
+11-Jun-2018,Stuttgart,3,Grass,Q1,266,112,0,,4,Denis Kudla,Jan Choinski,7-6(4) 6-3,0.92,4.6%,0.0%,52.3%,67.6%,64.5%,5/6,47.2%,31.2%,14.3%,19.5%,44.4%,0/8,142,3,0,65,34,31,11,1:29
+4-Jun-2018,Prostejov CH,3,Clay,R32,268,247,0,,,Zdenek Kolar,Jan Choinski,5-7 6-2 6-4,0.90,2.5%,8.9%,55.7%,65.9%,48.6%,2/7,46.9%,37.5%,4.2%,24.6%,56.4%,3/3,175,2,7,79,44,35,4,1:59
+28-May-2018,Roland Garros,5,Clay,Q2,268,218,0,,,Goncalo Oliveira,Jan Choinski,6-4 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Roland Garros,5,Clay,Q1,268,139,1,,27,Jan Choinski,Alexander Bublik,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Geneva,3,Clay,Q1,261,321,0,5,,Frank Dancevic,Jan Choinski,7-6(4) 7-5,0.80,3.3%,1.1%,58.7%,70.4%,52.6%,4/5,47.4%,29.6%,7.4%,12.2%,47.5%,0/5,173,3,1,92,54,38,6,1:40
+30-Apr-2018,Savannah CH,3,Clay,R32,239,158,0,,7,Hugo Dellien,Jan Choinski,2-6 6-1 6-2,0.75,1.2%,2.4%,56.1%,58.7%,44.4%,5/10,45.1%,35.5%,1.6%,24.4%,57.1%,2/2,144,1,2,82,46,36,1,1:42
+23-Apr-2018,Tallahassee CH,3,Clay,R32,236,202,0,,SE,Juan Ignacio Londero,Jan Choinski,1-6 6-4 6-1,0.83,1.3%,3.8%,63.3%,60.0%,48.3%,5/10,47.5%,36.7%,5.0%,25.0%,50.0%,4/5,139,1,3,79,50,29,3,1:40
+16-Apr-2018,Sarasota CH,3,Clay,R32,234,223,0,LL,,Facundo Bagnis,Jan Choinski,6-2 6-4,0.75,1.6%,3.3%,63.9%,48.7%,50.0%,4/9,44.0%,38.2%,7.3%,33.3%,45.5%,2/5,116,1,2,61,39,22,4,1:27
+16-Apr-2018,Sarasota CH,3,Clay,Q3,234,296,0,2,5,Kaichi Uchida,Jan Choinski,1-6 6-3 6-3,0.96,0.0%,4.2%,70.5%,50.7%,57.1%,12/17,49.2%,45.2%,3.6%,30.6%,65.7%,5/9,179,0,4,95,67,28,3,2:04
+16-Apr-2018,Sarasota CH,3,Clay,Q2,234,1235,1,2,,Jan Choinski,Samuel Shropshire,7-5 3-6 6-3,1.10,10.3%,4.6%,64.4%,62.5%,58.1%,5/9,50.7%,43.1%,5.2%,36.2%,53.2%,5/23,203,9,4,87,56,31,6,2:19
+9-Apr-2018,Mexico City CH,3,Clay,QF,239,289,0,,,Facundo Arguello,Jan Choinski,7-5 6-2,0.76,1.6%,4.7%,56.3%,55.6%,32.1%,6/12,43.4%,41.4%,6.9%,40.7%,41.9%,3/7,122,1,3,64,36,28,4,1:28
+9-Apr-2018,Mexico City CH,3,Clay,R16,239,115,1,,3,Jan Choinski,Carlos Berlocq,6-3 6-4,1.84,0.0%,1.9%,80.8%,76.2%,70.0%,0/1,57.9%,45.9%,1.4%,43.8%,50.0%,3/7,126,0,1,52,42,10,1,1:28
+9-Apr-2018,Mexico City CH,3,Clay,R32,239,261,1,,,Jan Choinski,Ivan Nedelko,3-6 6-3 6-2,1.25,6.7%,2.7%,60.0%,75.6%,43.3%,2/5,54.7%,46.7%,10.7%,40.6%,51.2%,5/6,150,5,2,75,45,30,8,1:42
+2-Apr-2018,Panama City CH,3,Clay,QF,249,357,0,,Q,Juan Ignacio Londero,Jan Choinski,6-3 6-1,0.60,2.1%,6.3%,54.2%,57.7%,36.4%,1/6,39.2%,31.5%,5.6%,21.4%,42.3%,1/3,102,1,3,48,26,22,3,1:11
+2-Apr-2018,Panama City CH,3,Clay,R16,249,238,1,,,Jan Choinski,Jay Clarke,6-4 6-2,1.30,5.0%,1.7%,66.7%,62.5%,60.0%,6/8,55.8%,50.0%,1.7%,45.0%,60.0%,5/9,120,3,1,60,40,20,1,1:25
+2-Apr-2018,Panama City CH,3,Clay,R32,249,545,1,,LL,Jan Choinski,Felipe Mantilla,6-7(4) 6-4 6-2,1.13,3.1%,4.2%,66.7%,73.4%,43.8%,6/9,52.0%,41.3%,2.9%,38.6%,47.1%,6/11,200,3,4,96,64,32,3,2:23
+26-Mar-2018,San Luis Potosi CH,3,Clay,QF,277,222,0,,,Marcelo Arevalo,Jan Choinski,6-2 3-6 6-3,0.87,5.3%,1.3%,64.0%,62.5%,59.3%,1/5,47.7%,33.8%,10.8%,23.4%,51.9%,2/3,149,4,1,75,48,27,8,1:31
+26-Mar-2018,San Luis Potosi CH,3,Clay,R16,277,642,1,,WC,Jan Choinski,Manuel Sanchez,6-4 7-5,1.10,6.0%,1.5%,49.3%,69.7%,47.1%,4/7,51.8%,45.8%,5.6%,30.3%,59.0%,5/11,139,4,1,67,33,34,4,1:39
+26-Mar-2018,San Luis Potosi CH,3,Clay,R32,277,113,1,,2,Jan Choinski,Gerald Melzer,6-1 3-1 RET,1.83,12.8%,2.6%,74.4%,79.3%,50.0%,1/1,62.5%,51.5%,9.1%,38.9%,66.7%,3/4,72,5,1,39,29,10,3,0:50
+12-Mar-2018,USA F7,3,Hard,F,286,241,0,3,,Mathias Bourgue,Jan Choinski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,SF,286,654,1,3,,Jan Choinski,Borna Gojo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,QF,286,502,1,3,,Jan Choinski,Ulises Blanch,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R16,286,811,1,3,,Jan Choinski,Daniel Appelgren,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R32,286,686,1,3,,Jan Choinski,Alexios Halebian,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Indian Wells CH,3,Hard,Q1,283,501,0,4,,Evan Song,Jan Choinski,6-0 6-3,0.61,3.9%,5.9%,56.9%,48.3%,27.3%,1/7,38.1%,37.0%,2.2%,32.1%,44.4%,1/2,97,2,3,51,29,22,1,1:06
+19-Feb-2018,Cuernavaca CH,3,Hard,R32,282,294,0,,,Ante Pavic,Jan Choinski,6-4 6-3,0.85,3.3%,3.3%,58.3%,68.6%,44.0%,5/8,46.4%,35.4%,18.5%,26.3%,48.1%,1/5,125,2,2,60,35,25,12,1:17
+5-Feb-2018,Switzerland F1,3,Carpet,R32,283,613,0,2,,Sami Reinwein,Jan Choinski,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Germany F2,3,Carpet,SF,296,282,0,5,,Christopher Heyman,Jan Choinski,6-4 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Germany F2,3,Carpet,QF,296,454,1,5,,Jan Choinski,Botic Van De Zandschulp,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Germany F2,3,Carpet,R16,296,429,1,5,,Jan Choinski,Boy Westerhof,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Germany F2,3,Carpet,R32,296,1489,1,5,,Jan Choinski,Robin Lang,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Koblenz CH,3,Hard,R16,296,223,0,WC,,Mohamed Safwat,Jan Choinski,6-3 3-6 6-4,0.69,3.3%,1.1%,68.9%,74.2%,46.4%,4/6,46.9%,23.6%,12.5%,18.5%,38.9%,1/1,162,3,1,90,62,28,9,1:46
+15-Jan-2018,Koblenz CH,3,Hard,R32,296,163,1,WC,8,Jan Choinski,Tommy Robredo,6-1 5-7 7-6(6),1.08,4.7%,0.9%,61.3%,69.2%,58.5%,6/8,51.2%,37.6%,14.7%,35.3%,41.5%,4/12,215,5,1,106,65,41,16,2:24
+8-Jan-2018,Germany F1,3,Carpet,R16,297,584,0,,,Kevin Krawietz,Jan Choinski,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,Germany F1,3,Carpet,R32,297,702,1,,WC,Jan Choinski,Dominik Boehler,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Turkey F46,3,Clay,R32,288,854,0,,SE,Albert Alcaraz Ivorra,Jan Choinski,6-7(5) 7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Turkey F45,3,Clay,R32,288,1204,0,,Q,Nico Mertens,Jan Choinski,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Las Vegas CH,3,Hard,QF,320,94,0,Q,1,Tennys Sandgren,Jan Choinski,6-1 6-0,0.47,0.0%,5.3%,71.1%,37.0%,27.3%,5/10,32.5%,31.1%,11.1%,19.2%,47.4%,0/2,83,0,2,38,27,11,5,0:47
+16-Oct-2017,Las Vegas CH,3,Hard,R16,320,177,1,Q,7,Jan Choinski,Samuel Groth,2-1 RET,1.50,0.0%,0.0%,66.7%,75.0%,50.0%,0/0,55.0%,50.0%,14.3%,50.0%,50.0%,1/1,20,0,0,6,4,2,2,0:11
+16-Oct-2017,Las Vegas CH,3,Hard,R32,320,1663,1,Q,WC,Jan Choinski,Alexander Cozbinov,4-6 6-4 6-4,1.03,1.9%,0.9%,62.3%,66.7%,55.0%,10/13,51.5%,38.9%,4.4%,25.0%,61.8%,4/7,196,2,1,106,66,40,4,2:10
+16-Oct-2017,Las Vegas CH,3,Hard,Q3,320,555,1,1,7,Jan Choinski,Frederik Nielsen,6-4 6-2,1.43,3.6%,7.1%,66.1%,89.2%,36.8%,1/1,56.4%,40.7%,1.9%,37.5%,43.3%,3/8,110,2,4,56,37,19,1,1:03
+16-Oct-2017,Las Vegas CH,3,Hard,Q2,320,1085,1,1,,Jan Choinski,Luis David Martinez,7-5 6-1,2.01,17.6%,2.0%,64.7%,81.8%,66.7%,1/1,59.3%,47.2%,2.8%,43.8%,50.0%,4/11,123,9,1,51,33,18,2,1:27
+9-Oct-2017,Fairfield CH,3,Hard,Q1,322,392,0,6,,Sekou Bangoura,Jan Choinski,7-6(4) 6-2,0.82,6.5%,2.6%,57.1%,61.4%,60.6%,7/9,46.7%,32.0%,10.7%,23.5%,50.0%,0/2,152,5,2,77,44,33,8,1:42
+2-Oct-2017,Stockton CH,3,Hard,R32,325,166,0,Q,WC,Denis Kudla,Jan Choinski,6-0 6-3,0.58,7.7%,1.9%,67.3%,48.6%,23.5%,7/13,37.8%,34.8%,4.3%,27.8%,39.3%,1/5,98,4,1,52,35,17,2,1:04
+2-Oct-2017,Stockton CH,3,Hard,Q3,325,634,1,3,,Jan Choinski,Matias Franco Descotte,7-6(6) 6-4,1.07,2.6%,2.6%,63.6%,69.4%,50.0%,6/8,51.7%,40.3%,2.8%,31.6%,50.0%,3/10,149,2,2,77,49,28,2,2:09
+2-Oct-2017,Stockton CH,3,Hard,Q2,325,596,1,3,,Jan Choinski,Alexios Halebian,6-3 7-5,1.26,1.7%,0.0%,61.7%,70.3%,69.6%,0/1,54.2%,37.9%,1.7%,18.8%,61.5%,3/7,118,1,0,60,37,23,1,1:22
+25-Sep-2017,Tiburon CH,3,Hard,R16,325,266,0,LL,WC,Christian Harrison,Jan Choinski,6-4 7-6(5),0.74,1.3%,2.5%,68.4%,61.1%,48.0%,0/4,45.8%,31.7%,9.5%,31.6%,32.0%,3/7,142,1,2,79,54,25,6,1:37
+25-Sep-2017,Tiburon CH,3,Hard,R32,325,150,1,LL,5,Jan Choinski,Ramkumar Ramanathan,6-1 6-2,2.20,2.3%,2.3%,69.8%,83.3%,61.5%,2/2,64.0%,51.2%,4.7%,42.9%,59.1%,4/6,86,1,1,43,30,13,2,1:01
+25-Sep-2017,Tiburon CH,3,Hard,Q3,325,385,0,,,Kaichi Uchida,Jan Choinski,7-5 3-6 6-1,0.72,3.1%,2.0%,64.3%,63.5%,45.7%,4/8,45.1%,31.0%,9.5%,16.3%,46.3%,2/3,182,3,2,98,63,35,8,1:56
+25-Sep-2017,Tiburon CH,3,Hard,Q2,325,870,1,,,Jan Choinski,Lucas Gomez,6-7(5) 6-4 6-4,1.25,8.7%,1.9%,61.2%,76.2%,52.5%,10/12,53.8%,41.1%,3.7%,40.0%,45.5%,4/10,210,9,2,103,63,40,4,2:33
+25-Sep-2017,Tiburon CH,3,Hard,Q1,325,357,1,,,Jan Choinski,Sebastian Fanselow,6-3 6-4,1.14,1.6%,1.6%,67.2%,70.7%,45.0%,1/3,53.6%,43.1%,5.9%,50.0%,36.0%,4/4,112,1,1,61,41,20,3,1:14
+14-Aug-2017,Germany F11,3,Clay,F,368,967,1,2,,Jan Choinski,Mate Valkusz,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,SF,368,1234,1,2,,Jan Choinski,Benjamin Hassan,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,QF,368,764,1,2,6,Jan Choinski,Alexei Popyrin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R16,368,1201,1,2,,Jan Choinski,Nicolas Xiviller,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R32,368,1133,1,2,,Jan Choinski,Marvin Moeller,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,F,413,674,1,7,,Jan Choinski,Elmar Ejupovic,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,SF,413,686,1,7,,Jan Choinski,Maciej Rajski,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,QF,413,611,1,7,,Jan Choinski,Julian Lenz,3-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,R16,413,580,1,7,,Jan Choinski,Jonas Luetjen,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,R32,413,1281,1,7,WC,Jan Choinski,Jannis Kahlke,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,F,411,524,1,6,8,Jan Choinski,Daniel Dutra Da Silva,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,SF,411,685,1,6,,Jan Choinski,Rudolf Molleker,4-6 6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,QF,411,722,1,6,,Jan Choinski,Ugo Humbert,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,R16,411,788,1,6,,Jan Choinski,Julian Onken,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,R32,411,832,1,6,,Jan Choinski,Bastian Wagner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,F,483,480,0,,,Jurgen Zopp,Jan Choinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,SF,483,232,1,,1,Jan Choinski,Jeremy Jahn,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,QF,483,627,1,,,Jan Choinski,Gibril Diarra,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R16,483,527,1,,,Jan Choinski,Julian Lenz,5-7 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R32,483,376,1,,7,Jan Choinski,Tomas Lipovsek Puches,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,SF,494,250,0,7,1,Enrique Lopez Perez,Jan Choinski,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,QF,494,426,1,7,3,Jan Choinski,Filip Horansky,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,R16,494,1784,1,7,Q,Jan Choinski,Alex Knaff,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Germany F7,3,Clay,R32,494,1224,1,7,,Jan Choinski,Mats Rosenkranz,6-3 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,SF,488,370,0,4,2,Markus Eriksson,Jan Choinski,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,QF,488,570,1,4,5,Jan Choinski,Andrea Vavassori,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,R16,488,,1,4,WC,Jan Choinski,Wojciech Marek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,R32,488,965,1,4,,Jan Choinski,Adrian Andrzejczuk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Germany F4,3,Clay,QF,507,258,0,,5,Alexey Vatutin,Jan Choinski,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Germany F4,3,Clay,R16,507,251,1,,2,Jan Choinski,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Germany F4,3,Clay,R32,507,675,1,,Q,Jan Choinski,Elmar Ejupovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poland F2,3,Clay,R32,507,769,0,4,,Evan Furness,Jan Choinski,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Poland F1,3,Clay,SF,510,270,0,6,1,Kamil Majchrzak,Jan Choinski,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Poland F1,3,Clay,QF,510,408,1,6,3,Jan Choinski,Mariano Kestelboim,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Poland F1,3,Clay,R16,510,782,1,6,,Jan Choinski,Pawel Cias,4-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Poland F1,3,Clay,R32,510,703,1,6,,Jan Choinski,Wilson Leite,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Czech Republic F3,3,Clay,SF,542,462,0,,8,Bruno Santanna,Jan Choinski,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Czech Republic F3,3,Clay,QF,542,619,1,,,Jan Choinski,Pascal Meis,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Czech Republic F3,3,Clay,R16,542,449,1,,7,Jan Choinski,Niels Lootsma,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Czech Republic F3,3,Clay,R32,542,,1,,WC,Jan Choinski,Dominik Langmajer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Sweden F2,3,Clay,R32,679,469,0,,,Jurgen Zopp,Jan Choinski,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Sweden F1,3,Clay,F,673,596,1,,,Jan Choinski,Hugo Dellien,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Sweden F1,3,Clay,SF,673,495,1,,,Jan Choinski,Markus Eriksson,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Sweden F1,3,Clay,QF,673,1370,1,,WC,Jan Choinski,Karl Friberg,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Sweden F1,3,Clay,R16,673,189,1,,1,Jan Choinski,Marc Polmans,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Sweden F1,3,Clay,R32,673,793,1,,,Jan Choinski,George Von Massow,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,USA F12,3,Hard,QF,678,383,0,Q,8,Philip Bester,Jan Choinski,W/O,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,USA F12,3,Hard,R16,678,514,1,Q,,Jan Choinski,Ryan Shane,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,USA F12,3,Hard,R32,678,252,1,Q,2,Jan Choinski,Yannick Mertens,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,R16,674,763,0,,WC,Bradley Klahn,Jan Choinski,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,R32,674,394,1,,5,Jan Choinski,Finn Tearney,7-5 6-7(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,R16,678,200,0,,1,Kimmer Coppejans,Jan Choinski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,R32,678,,1,,WC,Jan Choinski,Jarryd Woog,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,USA F9,3,Clay,R16,676,327,0,,3,Tommy Paul,Jan Choinski,1-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,USA F9,3,Clay,R32,676,652,1,,,Jan Choinski,Daniel Nolan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,USA F8,3,Clay,R32,678,497,0,,8,Corentin Denolly,Jan Choinski,6-2 6-7(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,QF,609,296,0,,5,Alexey Vatutin,Jan Choinski,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,R16,609,265,1,,2,Jan Choinski,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,R32,609,812,1,,Q,Jan Choinski,Elmar Ejupovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,Koblenz CH,3,Hard,R32,609,179,0,WC,,Daniel Brands,Jan Choinski,6-3 7-5,0.65,4.8%,1.6%,68.3%,58.1%,55.0%,3/6,42.7%,27.9%,11.5%,22.5%,38.1%,0/5,124,3,1,63,43,20,7,1:11
+9-Jan-2017,Germany F1,3,Carpet,QF,608,503,0,,3,Evgeny Karlovskiy,Jan Choinski,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,Germany F1,3,Carpet,R16,608,543,1,,6,Jan Choinski,Patrik Rosenholm,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,Germany F1,3,Carpet,R32,608,931,1,,WC,Jan Choinski,Pirmin Haenle,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R16,565,,0,,WC,Andre Goransson,Jan Choinski,6-2 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R32,565,,1,,WC,Jan Choinski,Gunther Matta,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F33,3,Hard,R16,566,599,0,7,PR,Rhyne Williams,Jan Choinski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F33,3,Hard,R32,566,,1,7,Q,Jan Choinski,Timothy Sah,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Fairfield CH,3,Hard,Q1,517,329,0,,7,Brydan Klein,Jan Choinski,7-6(8) 6-0,0.69,1.3%,2.7%,68.0%,54.9%,41.7%,6/11,42.9%,33.8%,9.2%,28.6%,50.0%,2/8,140,1,2,75,51,24,6,1:33
+3-Oct-2016,Stockton CH,3,Hard,Q3,460,349,0,,,Brydan Klein,Jan Choinski,6-7(6) 6-4 6-1,0.77,2.9%,1.9%,67.0%,53.6%,44.1%,6/13,44.3%,38.0%,10.0%,20.8%,57.4%,3/13,203,3,2,103,69,34,10,2:41
+3-Oct-2016,Stockton CH,3,Hard,Q2,460,354,1,,,Jan Choinski,Mikelis Libietis,6-1 6-3,2.27,2.6%,0.0%,86.8%,84.8%,20.0%,0/1,63.3%,53.8%,3.8%,46.7%,63.6%,5/6,90,1,0,38,33,5,2,1:01
+3-Oct-2016,Stockton CH,3,Hard,Q1,460,248,1,,5,Jan Choinski,Denis Shapovalov,6-2 6-4,1.28,1.7%,1.7%,66.7%,70.0%,55.0%,4/5,55.1%,44.8%,8.6%,40.6%,50.0%,4/6,118,1,1,60,40,20,5,1:09
+26-Sep-2016,USA F30,3,Hard,R16,457,734,0,2,,Alejandro Gomez Gb42,Jan Choinski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,R32,457,849,1,2,,Jan Choinski,Florent Diep,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,F,454,385,0,2,1,Mackenzie Mcdonald,Jan Choinski,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,SF,454,521,1,2,6,Jan Choinski,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,QF,454,632,1,2,8,Jan Choinski,Marcos Giron,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R16,454,1558,1,2,WC,Jan Choinski,Martin Redlicki,7-5 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R32,454,1022,1,2,,Jan Choinski,Shahin Khaledan,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,R32,457,1570,0,1,WC,Martin Redlicki,Jan Choinski,2-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Poland F5,3,Clay,R32,471,407,0,,6,Sumit Nagal,Jan Choinski,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,SF,450,606,0,5,,Marvin Netuschil,Jan Choinski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,QF,450,428,1,5,4,Jan Choinski,Maverick Banes,7-6(3) RET,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,R16,450,654,1,5,,Jan Choinski,Robin Kern,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,R32,450,,1,5,Q,Jan Choinski,Florian Broska,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Germany F9,3,Clay,R32,450,595,0,,,Marvin Netuschil,Jan Choinski,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Germany F8,3,Clay,R16,417,303,0,,3,Jose Hernandez,Jan Choinski,7-6(1) 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Germany F8,3,Clay,R32,417,1143,1,,Q,Jan Choinski,David Pel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Germany F7,3,Clay,R16,412,897,0,7,Q,Colin Van Beem,Jan Choinski,7-6(7) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Germany F7,3,Clay,R32,412,803,1,7,,Jan Choinski,Florian Fallert,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Netherlands F4,3,Clay,R32,418,419,0,,,Maximilian Neuchrist,Jan Choinski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Netherlands F3,3,Clay,QF,418,508,0,4,8,Tallon Griekspoor,Jan Choinski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Netherlands F3,3,Clay,R16,418,2086,1,4,Q,Jan Choinski,Gijs Brouwer,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Netherlands F3,3,Clay,R32,418,1469,1,4,WC,Jan Choinski,Moos Sporken,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Stuttgart,3,Grass,R32,429,100,0,WC,Q,Sergiy Stakhovsky,Jan Choinski,6-3 0-0 RET,0.77,6.7%,3.3%,66.7%,55.0%,60.0%,1/3,45.0%,33.3%,20.0%,25.0%,50.0%,0/2,60,2,1,30,20,10,6,0:36
+30-May-2016,Furth CH,3,Hard,Q1,413,388,0,WC,,Sumit Nagal,Jan Choinski,6-4 6-1,0.58,2.9%,8.6%,48.6%,35.3%,38.9%,1/6,36.8%,36.5%,3.8%,42.9%,29.2%,2/5,87,1,3,35,17,18,2,1:01
+23-May-2016,Czech Republic F3,3,Clay,R16,413,,0,6,WC,Michal Franek,Jan Choinski,6-2 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Czech Republic F3,3,Clay,R32,413,1742,1,6,Q,Jan Choinski,Pavel Staubert,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Heilbronn CH,3,Clay,Q3,409,376,0,,,Peter Torebko,Jan Choinski,7-5 4-1 RET,0.75,0.0%,4.8%,60.3%,55.3%,56.0%,4/7,44.7%,33.3%,6.7%,23.7%,50.0%,0/3,123,0,3,63,38,25,4,1:28
+9-May-2016,Heilbronn CH,3,Clay,Q2,409,226,1,,8,Jan Choinski,Artem Smirnov,6-4 0-6 6-2,1.02,1.3%,5.1%,59.5%,42.6%,50.0%,6/13,50.6%,55.6%,4.9%,39.0%,72.5%,7/14,160,1,4,79,47,32,4,1:48
+9-May-2016,Heilbronn CH,3,Clay,Q1,409,,1,,WC,Jan Choinski,Louis Wessels,7-5 6-2,1.45,7.0%,7.0%,64.9%,75.7%,45.0%,4/6,57.6%,50.8%,3.3%,41.7%,64.0%,5/12,118,4,4,57,37,20,2,1:11
+25-Apr-2016,Tallahassee CH,3,Clay,Q1,409,399,0,,,Peter Polansky,Jan Choinski,6-4 6-1,0.63,1.7%,8.6%,55.2%,53.1%,34.6%,6/12,40.2%,34.7%,14.3%,26.7%,47.4%,2/6,107,1,5,58,32,26,7,1:01
+11-Apr-2016,USA F13,3,Hard,R16,418,239,0,,1,Christian Lindell,Jan Choinski,6-7(6) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,USA F13,3,Hard,R32,418,413,1,,,Jan Choinski,Clay Thompson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,USA F12,3,Hard,QF,422,968,0,7,WC,Ryan Haviland,Jan Choinski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,USA F12,3,Hard,R16,422,587,1,7,,Jan Choinski,Felipe Mantilla,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,USA F12,3,Hard,R32,422,416,1,7,,Jan Choinski,Clay Thompson,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,USA F11,3,Hard,R32,405,717,0,,Q,Joao Pedro Sorgi,Jan Choinski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,QF,392,359,0,,8,Michael Mmoh,Jan Choinski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R16,392,720,1,,,Jan Choinski,Joao Pedro Sorgi,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R32,392,294,1,,3,Jan Choinski,Marek Michalicka,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,France F4,3,Hard,R16,394,201,0,,1,Yannick Mertens,Jan Choinski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,France F4,3,Hard,R32,394,901,1,,Q,Jan Choinski,Geoffrey Blancaneaux,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Switzerland F2,3,Carpet,R32,435,678,0,,Q,Marvin Netuschil,Jan Choinski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,F,435,242,0,,2,Uladzimir Ignatik,Jan Choinski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,SF,435,371,1,,,Jan Choinski,Ilya Ivashka,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,QF,435,240,1,,1,Jan Choinski,Frank Dancevic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R16,435,1106,1,,Q,Jan Choinski,Elie Rousset,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R32,435,361,1,,,Jan Choinski,Adrien Bossel,4-6 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,R16,447,228,0,,3,Uladzimir Ignatik,Jan Choinski,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,R32,447,345,1,,,Jan Choinski,Yannik Reuter,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Germany F2,3,Carpet,R32,447,536,0,,,Filip Veger,Jan Choinski,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Germany F1,3,Carpet,QF,447,390,0,6,2,Andreas Beck,Jan Choinski,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Germany F1,3,Carpet,R16,447,654,1,6,,Jan Choinski,Yannick Maden,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Germany F1,3,Carpet,R32,447,1727,1,6,Q,Jan Choinski,Philipp Scholz,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Norway F3,3,Hard,R16,435,882,0,3,,Jonathan Mridha,Jan Choinski,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Norway F3,3,Hard,R32,435,2076,1,3,Q,Jan Choinski,Adrian Forberg Skogeng,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Norway F2,3,Hard,SF,441,491,0,4,6,Viktor Durasovic,Jan Choinski,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Norway F2,3,Hard,QF,441,1461,1,4,Q,Jan Choinski,Bjoern Petersen,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Norway F2,3,Hard,R16,441,2145,1,4,Q,Jan Choinski,Jonathan Stenberg,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Norway F2,3,Hard,R32,441,664,1,4,,Jan Choinski,Tallon Griekspoor,5-7 6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Norway F1,3,Hard,QF,444,1132,0,3,,Daniel Appelgren,Jan Choinski,7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Norway F1,3,Hard,R16,444,938,1,3,,Jan Choinski,Matej Sabanov,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Norway F1,3,Hard,R32,444,1278,1,3,,Jan Choinski,Bartosz Wojnar,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Germany F15,3,Hard,F,524,680,0,7,,Mats Moraing,Jan Choinski,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Germany F15,3,Hard,SF,524,427,1,7,1,Jan Choinski,Andriej Kapas,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Germany F15,3,Hard,QF,524,846,1,7,,Jan Choinski,Teri Groll,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Germany F15,3,Hard,R16,524,759,1,7,,Jan Choinski,Johannes Haerteis,6-7(4) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Germany F15,3,Hard,R32,524,,1,7,WC,Jan Choinski,Tim Sandkaulen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,France F20,3,Carpet,F,554,,1,3,WC,Jan Choinski,Ugo Humbert,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,France F20,3,Carpet,SF,554,704,1,3,6,Jan Choinski,Hugo Grenier,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,France F20,3,Carpet,QF,554,1062,1,3,,Jan Choinski,Lucas Catarina,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,France F20,3,Carpet,R16,554,,1,3,Q,Jan Choinski,Till Wegner,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,France F20,3,Carpet,R32,554,1173,1,3,,Jan Choinski,Thomas Le Boulch,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,SF,565,174,0,8,1,Maxime Authom,Jan Choinski,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,QF,565,346,1,8,4,Jan Choinski,Pablo Vivero Gonzalez,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,R16,565,1167,1,8,Q,Jan Choinski,Sander Arends,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,R32,565,1006,1,8,WC,Jan Choinski,Rayane Roumane,3-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,France F18,3,Hard,R16,570,725,0,8,,Yannick Hanfmann,Jan Choinski,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,France F18,3,Hard,R32,570,1343,1,8,Q,Jan Choinski,Nino Portales,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Netherlands F6,3,Clay,QF,510,599,0,,,Yannick Maden,Jan Choinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Netherlands F6,3,Clay,R16,510,268,1,,1,Jan Choinski,Maxime Chazal,2-2 RET,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Netherlands F6,3,Clay,R32,510,1202,1,,Q,Jan Choinski,Colin Van Beem,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Netherlands F5,3,Clay,R32,467,739,0,8,,Yannick Hanfmann,Jan Choinski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belgium F10,3,Clay,QF,510,566,0,3,6,Romain Barbosa,Jan Choinski,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belgium F10,3,Clay,R16,510,961,1,3,,Jan Choinski,Goncalo Oliveira,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belgium F10,3,Clay,R32,510,,1,3,Q,Jan Choinski,Dennis Bogaert,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Germany F10,3,Clay,F,505,278,0,6,1,Hugo Dellien,Jan Choinski,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Germany F10,3,Clay,SF,505,611,1,6,,Jan Choinski,Juan Lizariturry,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Germany F10,3,Clay,QF,505,684,1,6,,Jan Choinski,Vadim Alekseenko,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Germany F10,3,Clay,R16,505,1053,1,6,,Jan Choinski,Adrian Obert,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Germany F10,3,Clay,R32,505,,1,6,WC,Jan Choinski,Louis Wessels,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Germany F9,3,Clay,R16,546,1285,0,4,Q,George Von Massow,Jan Choinski,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Germany F9,3,Clay,R32,546,,1,4,WC,Jan Choinski,Pavle Daljev,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,F,551,441,0,7,6,Maximilian Neuchrist,Jan Choinski,6-7(5) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,SF,551,906,1,7,,Jan Choinski,Matteo Fago,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,QF,551,1221,1,7,Q,Jan Choinski,George Von Massow,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,R16,551,1756,1,7,Q,Jan Choinski,Julian Onken,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Germany F8,3,Clay,R32,551,883,1,7,,Jan Choinski,Andrei Plotniy,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Germany F7,3,Clay,R16,552,366,0,,6,Anton Zaitsev,Jan Choinski,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Germany F7,3,Clay,R32,552,1892,1,,Q,Jan Choinski,Bjoern Petersen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Marburg CH,3,Clay,R32,574,144,0,WC,,Inigo Cervantes Huegun,Jan Choinski,6-3 6-4,0.68,2.1%,2.1%,47.9%,69.6%,60.0%,0/2,43.1%,24.1%,14.8%,15.6%,36.4%,0/1,102,1,1,48,23,25,8,
+22-Jun-2015,Belgium F3,3,Clay,QF,570,795,0,5,,Marvin Netuschil,Jan Choinski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Belgium F3,3,Clay,R16,570,,1,5,Q,Jan Choinski,Nicolas De Plaen,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Belgium F3,3,Clay,R32,570,1879,1,5,Q,Jan Choinski,Tristan Meraut,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Netherlands F1,3,Clay,R16,575,675,0,,PR,Jean Marc Werner,Jan Choinski,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Netherlands F1,3,Clay,R32,575,,1,,WC,Jan Choinski,Mick Veldheer,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Stuttgart,3,Grass,Q2,569,141,0,WC,8,Michael Berrer,Jan Choinski,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Stuttgart,3,Grass,Q1,569,680,1,WC,WC,Jan Choinski,Robin Kern,6-0 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Czech Republic F3,3,Clay,SF,599,342,0,8,5,Adrian Sikora,Jan Choinski,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Czech Republic F3,3,Clay,QF,599,298,1,8,3,Jan Choinski,Marek Michalicka,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Czech Republic F3,3,Clay,R16,599,954,1,8,,Jan Choinski,Petr Michnev,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Czech Republic F3,3,Clay,R32,599,,1,8,Q,Jan Choinski,Petr Hajek,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Czech Republic F2,3,Clay,QF,600,302,0,8,2,Marek Michalicka,Jan Choinski,6-4 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Czech Republic F2,3,Clay,R16,600,1507,1,8,Q,Jan Choinski,Hannes Wagner,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Czech Republic F2,3,Clay,R32,600,1558,1,8,LL,Jan Choinski,Milan Habrman,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Heilbronn CH,3,Clay,R32,599,207,0,WC,,Marius Copil,Jan Choinski,7-6(6) 7-5,0.87,1.3%,2.5%,65.8%,59.6%,48.1%,4/9,47.4%,38.7%,13.3%,26.8%,52.9%,4/7,154,1,2,79,52,27,10,1:33
+4-May-2015,Sweden F2,3,Clay,R16,598,259,0,,1,Hugo Dellien,Jan Choinski,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Sweden F2,3,Clay,R32,598,1288,1,,WC,Jan Choinski,Tobias Blomgren,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Munich,3,Clay,Q1,598,340,0,,,Daniel Brands,Jan Choinski,7-6(3) 6-3,0.67,5.7%,4.3%,75.7%,62.3%,58.8%,6/8,44.7%,25.8%,19.4%,22.7%,33.3%,1/3,132,4,3,70,53,17,12,1:15
+23-Mar-2015,Great Britain F5,3,Hard,SF,657,262,0,,3,Daniel Cox,Jan Choinski,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,QF,657,663,1,,,Jan Choinski,Tom Farquharson,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,R16,657,624,1,,,Jan Choinski,Luke Bambridge,1-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Great Britain F5,3,Hard,R32,657,1225,1,,Q,Jan Choinski,Robert Carter,1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Great Britain F4,3,Hard,R32,652,1141,0,,Q,Sander Arends,Jan Choinski,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2015,France F4,3,Hard,R32,650,262,0,,2,Yannick Mertens,Jan Choinski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Turkey F5,3,Hard,R32,662,463,0,,,Ruan Roelofse,Jan Choinski,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,Turkey F4,3,Hard,R32,658,386,0,,3,Nikola Milojevic,Jan Choinski,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,Germany F3,3,Carpet,R32,658,220,0,,1,Uladzimir Ignatik,Jan Choinski,6-4 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,Germany F2,3,Hard,R32,661,724,0,,,Pirmin Haenle,Jan Choinski,4-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Jan-2015,Germany F1,3,Carpet,R16,661,218,0,,1,Uladzimir Ignatik,Jan Choinski,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2015,Germany F1,3,Carpet,R32,661,984,1,,WC,Jan Choinski,Daniel Altmaier,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Turkey F42,3,Hard,R32,699,444,0,,6,Tucker Vorster,Jan Choinski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Turkey F41,3,Hard,SF,698,315,0,,1,Ricardo Rodriguez,Jan Choinski,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Turkey F41,3,Hard,QF,698,1357,1,,LL,Jan Choinski,Altug Celikbilek,6-2 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Turkey F41,3,Hard,R16,698,445,1,,3,Jan Choinski,Tucker Vorster,6-4 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Turkey F41,3,Hard,R32,698,1339,1,,Q,Jan Choinski,Tallon Griekspoor,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Turkey F40,3,Clay,R32,701,1308,0,,Q,Denys Mylokostov,Jan Choinski,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Germany F16,3,Carpet,R32,707,671,0,,Q,Matthias Wunner,Jan Choinski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Germany F15,3,Hard,R16,716,592,0,,8,Peter Kobelt,Jan Choinski,4-6 6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Germany F15,3,Hard,R32,716,1068,1,,Q,Jan Choinski,Pavel Nejedly,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,Germany F14,3,Carpet,R16,720,577,0,WC,,Florian Fallert,Jan Choinski,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,Germany F14,3,Carpet,R32,720,1313,1,WC,Q,Jan Choinski,Christian Hirschmueller,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2014,France F20,3,Carpet,R32,717,428,0,Q,1,Hugo Nys,Jan Choinski,6-3 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,Trnava CH,3,Clay,R32,722,229,0,WC,,Jan Mertl,Jan Choinski,6-1 6-0,0.36,2.6%,10.3%,56.4%,45.5%,17.6%,1/7,29.2%,24.2%,21.2%,9.1%,54.5%,0/1,72,1,4,39,22,17,7,0:42
+18-Aug-2014,Belgium F12,3,Clay,F,1447,396,1,SE,4,Jan Choinski,Julien Cagnina,3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Belgium F12,3,Clay,SF,1447,1348,1,SE,WC,Jan Choinski,Omar Salman,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Belgium F12,3,Clay,QF,1447,1109,1,SE,,Jan Choinski,Juan Matias Gonzalez Carrasco,7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Belgium F12,3,Clay,R16,1447,362,1,SE,3,Jan Choinski,David Perez Sanz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Belgium F12,3,Clay,R32,1447,,1,SE,LL,Jan Choinski,Lucas Trentin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Germany F12,3,Clay,F,1449,,0,WC,WC,Yannick Hanfmann,Jan Choinski,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Germany F12,3,Clay,SF,1449,1140,1,WC,,Jan Choinski,Johannes Haerteis,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Germany F12,3,Clay,QF,1449,1751,1,WC,Q,Jan Choinski,Marko Lenz,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Germany F12,3,Clay,R16,1449,1718,1,WC,WC,Jan Choinski,Paul Woerner,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Germany F12,3,Clay,R32,1449,1155,1,WC,,Jan Choinski,Teri Groll,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Germany F10,3,Clay,QF,1982,803,0,Q,,Evgeny Korolev,Jan Choinski,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Germany F10,3,Clay,R16,1982,675,1,Q,7,Jan Choinski,Maxime Tchoutakian,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Germany F10,3,Clay,R32,1982,788,1,Q,,Jan Choinski,Andrei Plotniy,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Germany F9,3,Clay,R32,1971,2172,0,WC,LL,Kim Moellers,Jan Choinski,3-6 6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Germany F8,3,Clay,R32,1961,388,0,WC,2,Peter Torebko,Jan Choinski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Stuttgart,3,Clay,Q2,2057,232,0,WC,7,Yann Marti,Jan Choinski,6-2 6-7(4) 6-2,0.80,1.1%,3.3%,65.9%,61.7%,35.5%,0/6,45.1%,37.6%,6.5%,25.5%,55.3%,2/5,184,1,3,91,60,31,6,1:59
+7-Jul-2014,Stuttgart,3,Clay,Q1,2057,1057,1,WC,,Jan Choinski,David Estruch,6-3 6-3,1.35,7.0%,5.3%,61.4%,65.7%,45.5%,3/6,57.4%,56.9%,0.0%,50.0%,76.5%,6/10,122,4,3,57,35,22,0,1:22
+21-Oct-2013,Germany F20,3,Carpet,R32,1550,,0,Q,WC,Michel Dornbusch,Jan Choinski,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Germany F18,3,Hard,R16,1917,1212,0,Q,WC,Daniel Masur,Jan Choinski,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Germany F18,3,Hard,R32,1917,639,1,Q,8,Jan Choinski,Torsten Wietoska,4-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Germany F10,3,Clay,R32,1510,732,0,WC,,Caio Zampieri,Jan Choinski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Germany F8,3,Clay,R32,1706,583,0,Q,,Denis Yevseyev,Jan Choinski,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Germany F7,3,Clay,R16,1706,,0,WC,Q,Lukas Finzelberg,Jan Choinski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Germany F7,3,Clay,R32,1706,,1,WC,Q,Jan Choinski,Luca Marquard,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Germany F16,3,Clay,R32,1537,647,0,,5,Francois Arthur Vibert,Jan Choinski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,R16,,378,0,WC,1,Andre Begemann,Jan Choinski,3-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,R32,,821,1,WC,,Jan Choinski,Laslo Urrutia Fuentes,4-6 6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,

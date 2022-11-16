@@ -1,0 +1,804 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+12-Aug-2019,M15 Koksijde,3,Clay,R32,1142,467,0,,2,Zizou Bergs,Niels Desein,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Vale Do Lobo,3,Hard,R32,666,558,0,,8,Frederico Gil,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Grenoble,3,Hard,QF,667,504,0,,4,Matteo Martineau,Niels Desein,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Grenoble,3,Hard,R16,667,,1,,,Niels Desein,Hugo Voljacques,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Grenoble,3,Hard,R32,667,,1,,Q,Niels Desein,Joshua Paris,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,R32,667,554,0,,,Benjamin Lock,Niels Desein,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Portugal F18,3,Hard,QF,625,275,0,6,,Gleb Sakharov,Niels Desein,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Portugal F18,3,Hard,R16,625,543,1,6,,Niels Desein,Jonas Merckx,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Portugal F18,3,Hard,R32,625,1525,1,6,,Niels Desein,Pedro Gabriel Rodrigues,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,France F16,3,Hard,R32,466,723,0,3,,Christopher Diaz Figueroa,Niels Desein,6-2 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Portugal F16,3,Hard,R16,440,802,0,,,Sem Verbeek,Niels Desein,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Portugal F16,3,Hard,R32,440,1238,1,,Q,Niels Desein,Jorge Blanco Guadalupe,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Belgium F8,3,Clay,R32,440,892,0,2,,Arklon Huertas Del Pino,Niels Desein,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Belgium F2,3,Clay,R32,451,588,0,3,,Agustin Velotti,Niels Desein,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Poprad Tatry CH,3,Clay,Q2,453,545,0,5,,Patrik Rikl,Niels Desein,6-2 5-7 7-6(4),0.98,6.1%,3.5%,65.2%,70.7%,42.5%,5/9,49.6%,38.3%,7.0%,30.5%,57.6%,3/7,230,7,4,115,75,40,8,2:17
+4-Jun-2018,Spain F14,3,Clay,QF,452,584,0,,,David Vega Hernandez,Niels Desein,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Spain F14,3,Clay,R16,452,277,1,,,Niels Desein,Joao Monteiro,2-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Spain F14,3,Clay,R32,452,1008,1,,Q,Niels Desein,Aaron Cortes Alcaraz,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Bordeaux CH,3,Clay,Q2,453,268,0,,1,Mathias Bourgue,Niels Desein,6-2 7-6(5),0.84,1.6%,1.6%,63.5%,65.0%,52.2%,4/8,46.8%,33.3%,12.7%,24.3%,46.2%,2/4,126,1,1,63,40,23,8,1:22
+14-May-2018,Bordeaux CH,3,Clay,Q1,453,646,1,,,Niels Desein,Jonathan Eysseric,6-3 3-6 6-3,1.47,2.9%,0.0%,64.3%,84.4%,60.0%,0/1,53.9%,35.7%,8.3%,24.1%,56.7%,2/7,154,2,0,70,45,25,7,1:33
+23-Apr-2018,France F8,3,Clay,R32,450,399,0,,,Tristan Lamasine,Niels Desein,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Portugal F8,3,Clay,R16,451,261,0,,,Joao Monteiro,Niels Desein,6-2 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Portugal F8,3,Clay,R32,451,1379,1,,Q,Niels Desein,Francisco Dias,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Italy F7,3,Clay,R16,451,224,0,,2,Andrea Collarini,Niels Desein,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Italy F7,3,Clay,R32,451,432,1,,,Niels Desein,Fabrizio Ornago,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Alicante CH,3,Clay,Q1,449,300,0,,,Daniel Gimeno Traver,Niels Desein,3-6 6-1 6-2,0.78,0.0%,6.4%,71.8%,58.9%,36.4%,2/7,44.5%,37.2%,0.0%,37.7%,36.0%,2/11,164,0,5,78,56,22,0,1:46
+19-Mar-2018,Lille CH,3,Hard,Q3,440,347,0,,5,Antoine Escoffier,Niels Desein,3-6 6-3 6-3,0.86,4.9%,6.1%,73.2%,63.3%,31.8%,2/8,46.9%,38.7%,10.0%,23.8%,55.3%,4/9,162,4,5,82,60,22,8,1:56
+19-Mar-2018,Lille CH,3,Hard,Q2,440,426,1,,,Niels Desein,Edward Corrie,7-6(3) 3-6 6-1,1.10,9.2%,4.6%,65.5%,73.7%,53.3%,7/9,51.7%,36.8%,8.0%,37.3%,35.7%,3/6,174,8,4,87,57,30,7,1:44
+19-Mar-2018,Lille CH,3,Hard,Q1,440,290,1,,2,Niels Desein,Alexander Ward,4-6 6-3 6-4,1.31,12.3%,2.5%,64.2%,69.2%,58.6%,6/9,53.5%,45.3%,6.8%,31.6%,70.7%,5/11,198,10,2,81,52,29,8,2:14
+5-Mar-2018,Israel F1,3,Hard,R32,435,1088,0,7,,Tyler Mercier,Niels Desein,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Switzerland F2,3,Carpet,F,489,368,0,,,Ugo Humbert,Niels Desein,6-7(2) 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Switzerland F2,3,Carpet,SF,489,338,1,,,Niels Desein,Albano Olivetti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Switzerland F2,3,Carpet,QF,489,497,1,,,Niels Desein,Julian Lenz,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Switzerland F2,3,Carpet,R16,489,260,1,,,Niels Desein,Christopher Heyman,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Switzerland F2,3,Carpet,R32,489,432,1,,,Niels Desein,Fabrizio Ornago,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,R16,467,575,0,,,Maxime Authom,Niels Desein,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,R32,467,615,1,,,Niels Desein,Evan Furness,6-4 6-7(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Great Britain F1,3,Hard,R16,469,605,0,,,Marcus Willis,Niels Desein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Great Britain F1,3,Hard,R32,469,772,1,,,Niels Desein,Jakob Sude,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,France F1,3,Clay,QF,485,465,0,,4,Gregoire Jacq,Niels Desein,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,France F1,3,Clay,R16,485,1217,1,,,Niels Desein,Joffrey De Schepper,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,France F1,3,Clay,R32,485,1220,1,,,Niels Desein,Amaury Delmas,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Bratislava CH,3,Hard,R16,540,79,0,Q,1,Mikhail Kukushkin,Niels Desein,6-7(3) 6-3 6-4,0.72,6.6%,0.0%,68.1%,71.0%,51.7%,3/6,45.5%,25.3%,20.7%,17.6%,52.6%,1/2,178,6,0,91,62,29,18,2:00
+6-Nov-2017,Bratislava CH,3,Hard,R32,540,550,1,Q,PR,Niels Desein,Igor Sijsling,6-4 6-2,2.37,25.0%,0.0%,59.1%,88.5%,72.2%,0/0,58.7%,43.1%,1.5%,36.4%,57.1%,3/9,109,11,0,44,26,18,1,0:54
+6-Nov-2017,Bratislava CH,3,Hard,Q3,540,266,1,,2,Niels Desein,Matteo Viola,3-6 7-6(4) 6-2,1.10,3.4%,0.0%,66.7%,62.1%,58.6%,3/7,51.6%,43.2%,6.3%,32.3%,63.6%,5/12,182,3,0,87,58,29,6,2:00
+6-Nov-2017,Bratislava CH,3,Hard,Q2,540,417,1,,7,Niels Desein,Kevin Krawietz,6-7(6) 6-4 6-4,1.34,15.6%,0.0%,76.0%,84.9%,52.2%,1/1,53.3%,30.7%,18.8%,23.4%,43.2%,2/6,197,15,0,96,73,23,19,1:45
+6-Nov-2017,Bratislava CH,3,Hard,Q1,540,,1,,,Niels Desein,Andrei Vasilevski,6-4 6-4,2.27,22.9%,2.1%,70.8%,91.2%,64.3%,0/0,57.0%,37.9%,19.7%,35.7%,41.7%,2/6,114,11,1,48,34,14,13,0:58
+30-Oct-2017,Eckental CH,3,Hard,Q1,545,361,0,,6,Kevin Krawietz,Niels Desein,3-6 6-4 7-6(6),1.06,9.4%,5.7%,52.8%,75.0%,54.0%,4/6,50.7%,37.2%,20.4%,23.5%,57.8%,2/7,219,10,6,106,56,50,23,2:01
+9-Oct-2017,France F23,3,Hard,R16,546,406,0,,5,Gregoire Jacq,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,France F23,3,Hard,R32,546,820,1,,WC,Niels Desein,Sebastien Boltz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,France F22,3,Hard,R32,548,477,0,,,Corentin Denolly,Niels Desein,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Portugal F20,3,Hard,R16,545,302,0,,4,Pedja Krstin,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Portugal F20,3,Hard,R32,545,1617,1,,Q,Niels Desein,Ivan Marrero Curbelo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,France F19,3,Hard,F,831,394,1,,5,Niels Desein,Edward Corrie,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,France F19,3,Hard,SF,831,998,1,,SE,Niels Desein,Benjamin Hassan,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,France F19,3,Hard,QF,831,,1,,WC,Niels Desein,Tom Jomby,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,France F19,3,Hard,R16,831,1045,1,,Q,Niels Desein,Joffrey De Schepper,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,France F19,3,Hard,R32,831,432,1,,8,Niels Desein,Niels Lootsma,2-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Belgium F12,3,Clay,R16,861,1951,0,WC,Q,Nico Mertens,Niels Desein,6-1 1-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Belgium F12,3,Clay,R32,861,773,1,WC,7,Niels Desein,Billy Harris,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Hungary F6,3,Clay,QF,968,167,0,PR,1,Attila Balazs,Niels Desein,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Hungary F6,3,Clay,R16,968,,1,PR,Q,Niels Desein,Nicolas Ferrando,W/O,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Hungary F6,3,Clay,R32,968,810,1,PR,8,Niels Desein,Mike Urbanija,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Belgium F9,3,Clay,SF,968,400,0,,3,Julien Cagnina,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Belgium F9,3,Clay,QF,968,1561,1,,Q,Niels Desein,Marcelo Plaza,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Belgium F9,3,Clay,R16,968,362,1,,1,Niels Desein,Maxime Authom,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Belgium F9,3,Clay,R32,968,,1,,Q,Niels Desein,Arnaud Graisse,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Belgium F7,3,Clay,R32,962,995,0,WC,,Guy Den Heijer,Niels Desein,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Belgium F6,3,Clay,R32,919,1479,0,,Q,Maxime Pauwels,Niels Desein,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Belgium F5,3,Clay,R32,886,633,0,,4,Ricardo Hocevar,Niels Desein,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Rome  CH,3,Clay,Q1,659,223,0,,6,Oscar Otte,Niels Desein,6-3 3-0 RET,0.59,3.3%,6.7%,60.0%,55.6%,50.0%,0/3,38.6%,27.5%,7.5%,18.2%,38.9%,0/4,70,1,2,30,18,12,3,0:46
+24-Apr-2017,France F9,3,Clay,R16,657,273,0,PR,3,Laurent Lokoli,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,France F9,3,Clay,R32,657,1127,1,PR,Q,Niels Desein,Pierre Faivre,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Saint Brieuc CH,3,Hard,Q2,590,404,0,,8,Egor Gerasimov,Niels Desein,6-4 6-2,0.63,3.3%,1.7%,63.3%,65.8%,31.8%,4/8,42.3%,29.4%,21.6%,20.0%,50.0%,1/1,111,2,1,60,38,22,11,1:07
+27-Mar-2017,Saint Brieuc CH,3,Hard,Q1,590,443,1,,,Niels Desein,Vladimir Ivanov,6-2 6-4,1.44,10.2%,6.1%,63.3%,80.6%,44.4%,1/2,57.0%,47.1%,2.0%,41.9%,55.0%,4/6,100,5,3,49,31,18,1,1:01
+20-Mar-2017,France F7,3,Hard,QF,590,366,0,,2,Antal Van Der Duim,Niels Desein,1-6 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,France F7,3,Hard,R16,590,678,1,,,Niels Desein,Sebastien Boltz,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,France F7,3,Hard,R32,590,443,1,,8,Niels Desein,Vladimir Ivanov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,France F5,3,Hard,R16,601,518,0,,,Fabien Reboul,Niels Desein,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,France F5,3,Hard,R32,601,725,1,,,Niels Desein,Hugo Voljacques,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,France F4,3,Hard,R32,611,680,0,,,Reda El Amrani,Niels Desein,7-5 4-6 7-6(10),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Egypt F6,3,Hard,QF,611,354,0,6,2,Benjamin Bonzi,Niels Desein,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Egypt F6,3,Hard,R16,611,728,1,6,,Niels Desein,Nicola Kuhn,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Egypt F6,3,Hard,R32,611,800,1,6,,Niels Desein,Issam Al Tawil,6-2 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Great Britain F1,3,Hard,SF,562,416,0,7,3,Filip Horansky,Niels Desein,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Great Britain F1,3,Hard,QF,562,323,1,7,2,Niels Desein,Yannick Jankovits,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Great Britain F1,3,Hard,R16,562,816,1,7,,Niels Desein,Gian Marco Moroni,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Great Britain F1,3,Hard,R32,562,1486,1,7,Q,Niels Desein,Marshall Tutu,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Rennes CH,3,Hard,Q1,500,206,0,PR,5,Stefanos Tsitsipas,Niels Desein,6-7(5) 6-4 6-2,0.70,5.6%,1.9%,73.1%,60.8%,51.7%,2/6,45.2%,29.2%,25.8%,13.2%,52.8%,1/3,197,6,2,108,79,29,23,2:00
+18-Jul-2016,Belgium F6,3,Clay,QF,328,556,0,1,7,Casper Ruud,Niels Desein,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Belgium F6,3,Clay,R16,328,707,1,1,,Niels Desein,Alexandre Folie,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Belgium F6,3,Clay,R32,328,,1,1,Q,Niels Desein,Simon Stevens,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Belgium F5,3,Hard,QF,321,420,0,3,5,Maxime Authom,Niels Desein,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Belgium F5,3,Hard,R16,321,,1,3,Q,Niels Desein,Hunter Johnson,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Belgium F5,3,Hard,R32,321,1041,1,3,,Niels Desein,Viktor Filipenko,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Belgium F2,3,Clay,R32,354,618,0,3,,Sander Gille,Niels Desein,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Belgium F1,3,Clay,F,362,,1,2,Q,Niels Desein,Arthur Rinderknech,6-2 6-7(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Belgium F1,3,Clay,SF,362,484,1,2,7,Niels Desein,Maxime Authom,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Belgium F1,3,Clay,QF,362,431,1,2,6,Niels Desein,Romain Barbosa,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Belgium F1,3,Clay,R16,362,1632,1,2,Q,Niels Desein,Manuel Guinard,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Belgium F1,3,Clay,R32,362,,1,2,,Niels Desein,Tom Schonenberg,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Spain F16,3,Clay,QF,360,449,0,4,8,Maxime Tabatruong,Niels Desein,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Spain F16,3,Clay,R16,360,450,1,4,,Niels Desein,Lamine Ouahab,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Spain F16,3,Clay,R32,360,1185,1,4,Q,Niels Desein,Ivan Arenas Gualda,6-0 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Aix en Provence CH,3,Clay,Q1,348,430,0,,,Maxime Authom,Niels Desein,6-4 3-6 7-6(9),1.07,5.5%,3.9%,63.8%,61.7%,54.3%,9/14,52.2%,43.8%,5.7%,34.9%,57.1%,5/15,232,7,5,127,81,46,6,2:36
+18-Apr-2016,France F8,3,Clay,QF,357,264,0,8,1,Gregoire Barrere,Niels Desein,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,France F8,3,Clay,R16,357,421,1,8,,Niels Desein,Zhizhen Zhang,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,France F8,3,Clay,R32,357,,1,8,WC,Niels Desein,Vincent Stouff,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Greece F4,3,Hard,R16,357,1102,0,3,Q,Thomas Brechemier,Niels Desein,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Greece F4,3,Hard,R32,357,1111,1,3,Q,Niels Desein,Fran Zvonimir Zgombic,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,Le Gosier CH,3,Hard,Q2,348,725,0,2,7,Jorge Montero,Niels Desein,2-6 6-2 7-6(3),1.06,8.2%,6.8%,52.1%,73.7%,45.7%,2/7,49.7%,42.0%,4.0%,36.2%,50.0%,5/9,173,6,5,73,38,35,4,1:56
+4-Apr-2016,Le Gosier CH,3,Hard,Q1,348,,1,2,WC,Niels Desein,Wilhem Labrador,6-2 6-0,2.24,7.7%,2.6%,71.8%,82.1%,54.5%,0/0,65.1%,57.4%,4.3%,50.0%,66.7%,5/13,86,3,1,39,28,11,2,0:50
+21-Mar-2016,Shenzhen CH,3,Hard,R16,368,84,0,Q,2,Dudi Sela,Niels Desein,6-3 6-2,0.55,1.8%,5.3%,56.1%,65.6%,40.0%,1/4,40.4%,25.0%,5.8%,15.8%,50.0%,0/6,109,1,3,57,32,25,3,1:10
+21-Mar-2016,Shenzhen CH,3,Hard,R32,368,188,1,Q,,Niels Desein,Nils Langer,6-7(3) 6-4 6-4,1.35,9.5%,4.2%,54.7%,86.5%,58.1%,5/5,52.9%,35.4%,15.9%,25.0%,49.0%,2/11,208,9,4,95,52,43,18,2:11
+21-Mar-2016,Shenzhen CH,3,Hard,Q3,368,199,1,7,1,Niels Desein,Marius Copil,2-6 7-6(5) 7-5,0.80,9.1%,0.8%,58.7%,69.0%,56.0%,6/8,48.6%,29.0%,20.4%,17.7%,51.6%,1/2,214,11,1,121,71,50,19,2:15
+21-Mar-2016,Shenzhen CH,3,Hard,Q2,368,1077,1,7,,Niels Desein,Aoxiong Wang,6-1 6-1,2.87,8.6%,0.0%,77.1%,81.5%,75.0%,0/0,67.1%,57.4%,8.5%,36.0%,81.8%,5/7,82,3,0,35,27,8,4,0:52
+21-Mar-2016,Shenzhen CH,3,Hard,Q1,368,1591,1,7,,Niels Desein,Dino Marcan,6-4 6-0,1.66,3.8%,5.8%,71.2%,78.4%,40.0%,4/5,60.6%,54.4%,0.0%,54.1%,55.0%,5/7,109,2,3,52,37,15,0,1:12
+14-Mar-2016,Guangzhou CH,3,Hard,Q2,360,380,0,,,Lorenzo Sonego,Niels Desein,6-3 6-2,0.61,1.6%,3.1%,54.7%,65.7%,41.4%,6/9,42.4%,27.8%,3.7%,23.7%,37.5%,0/1,118,1,2,64,35,29,2,1:22
+14-Mar-2016,Guangzhou CH,3,Hard,Q1,360,233,1,,7,Niels Desein,Ti Chen,6-2 6-2,2.15,27.3%,0.0%,70.5%,80.6%,69.2%,2/2,62.9%,48.9%,0.0%,33.3%,66.7%,4/5,89,12,0,44,31,13,0,1:01
+29-Feb-2016,France F4,3,Hard,R32,361,587,0,,,Enzo Couacaud,Niels Desein,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,New Delhi CH,3,Hard,R32,352,331,0,,,Flavio Cipolla,Niels Desein,6-4 1-6 6-1,1.09,3.0%,1.5%,54.5%,61.1%,70.0%,5/8,50.3%,38.0%,1.3%,28.3%,57.7%,2/7,145,2,1,66,36,30,1,1:39
+8-Feb-2016,Switzerland F1,3,Carpet,R16,351,371,0,3,,Ilya Ivashka,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R32,351,469,1,3,,Niels Desein,Enzo Couacaud,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,F,270,211,0,7,1,Nils Langer,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,SF,270,249,1,7,4,Niels Desein,Maximilian Marterer,7-6(3) 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,QF,270,482,1,7,,Niels Desein,Mats Moraing,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,R16,270,685,1,7,Q,Niels Desein,Tom Schonenberg,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,R32,270,384,1,7,,Niels Desein,Sadio Doumbia,6-7(6) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Czech Republic F7,3,Carpet,QF,267,1576,0,3,Q,Matej Vocel,Niels Desein,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Czech Republic F7,3,Carpet,R16,267,646,1,3,,Niels Desein,Zdenek Kolar,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Czech Republic F7,3,Carpet,R32,267,,1,3,WC,Niels Desein,Filip Duda,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Ortisei CH,3,Hard,R32,243,230,0,,,Marton Fucsovics,Niels Desein,6-3 4-6 7-6(6),0.96,3.1%,3.1%,51.0%,81.6%,46.8%,6/8,49.2%,34.0%,8.2%,23.1%,46.7%,2/4,193,3,3,96,49,47,8,
+2-Nov-2015,Eckental CH,3,Carpet,R16,252,111,0,Q,5,Dustin Brown,Niels Desein,7-6(5) 6-2,0.80,14.1%,4.7%,57.8%,75.7%,51.9%,0/2,46.8%,27.4%,19.4%,9.4%,46.7%,0/0,126,9,3,64,37,27,12,
+2-Nov-2015,Eckental CH,3,Carpet,R32,252,174,1,Q,,Niels Desein,Grega Zemlja,6-1 6-7(5) 7-6(5),1.14,16.8%,5.0%,53.5%,83.3%,48.9%,3/6,52.5%,37.4%,5.1%,31.1%,47.4%,5/11,200,17,5,101,54,47,5,
+12-Oct-2015,France F22,3,Hard,F,238,480,1,1,8,Niels Desein,Peter Kobelt,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,France F22,3,Hard,SF,238,484,1,1,7,Niels Desein,Sam Barry,6-7(4) 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,France F22,3,Hard,QF,238,502,1,1,5,Niels Desein,Viktor Durasovic,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,France F22,3,Hard,R16,238,644,1,1,,Niels Desein,Gregoire Jacq,6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,France F22,3,Hard,R32,238,1602,1,1,Q,Niels Desein,David Ohare,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Mons CH,3,Hard,R32,209,134,0,WC,,Elias Ymer,Niels Desein,7-6(5) 6-7(3) 6-3,0.98,1.9%,3.7%,62.6%,70.1%,52.5%,4/7,49.1%,35.7%,16.5%,24.6%,52.2%,2/7,222,2,4,107,67,40,19,
+28-Sep-2015,Orleans CH,3,Hard,R32,209,68,0,,2,Jerzy Janowicz,Niels Desein,6-4 6-3,0.53,6.0%,7.5%,50.7%,76.5%,36.4%,5/9,43.2%,22.7%,9.1%,20.0%,28.6%,1/1,111,4,5,67,34,33,4,
+21-Sep-2015,Kaohsiung CH,3,Hard,R32,181,205,0,,,Luke Saville,Niels Desein,6-4 7-6(2),0.81,6.5%,2.6%,59.7%,52.2%,48.4%,6/11,45.8%,40.0%,7.7%,27.0%,57.1%,4/6,142,5,2,77,46,31,5,
+7-Sep-2015,France F17,3,Hard,F,178,308,1,1,2,Niels Desein,Gregoire Barrere,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,France F17,3,Hard,SF,178,477,1,1,4,Niels Desein,Evan King,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,France F17,3,Hard,QF,178,523,1,1,5,Niels Desein,Alexandre Sidorenko,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,France F17,3,Hard,R16,178,768,1,1,,Niels Desein,Antonie Hoang,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,France F17,3,Hard,R32,178,1484,1,1,WC,Niels Desein,Thibault Cancel,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Bangkok CH,3,Hard,R32,178,450,0,4,Q,Christopher Rungkat,Niels Desein,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,US Open Q,3,Hard,Q1,178,243,0,,WC,Mitchell Krueger,Niels Desein,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Portoroz CH,3,Hard,R32,178,191,0,,,Germain Gigounon,Niels Desein,6-1 1-0 RET,0.36,3.7%,3.7%,44.4%,41.7%,33.3%,0/3,30.6%,22.7%,9.1%,12.5%,50.0%,0/0,49,1,1,27,12,15,2,
+27-Jul-2015,Belgium F8,3,Hard,R32,175,617,0,1,,Alexey Vatutin,Niels Desein,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Recanati CH,3,Hard,R32,167,336,0,7,S,Salvatore Caruso,Niels Desein,2-6 6-0 2-0 RET,0.80,3.6%,3.6%,50.9%,60.7%,40.7%,5/9,45.0%,39.3%,1.8%,28.6%,57.1%,2/8,111,2,2,55,28,27,1,
+13-Jul-2015,Newport,3,Grass,R32,170,93,0,,,Lukas Lacko,Niels Desein,6-3 3-6 6-2,0.81,7.3%,7.3%,67.1%,72.7%,44.4%,4/7,47.4%,29.7%,21.6%,20.0%,44.8%,1/3,156,6,6,82,55,27,16,
+7-Jul-2015,Todi CH,3,Clay,R32,167,178,0,,AL,Mathias Bourgue,Niels Desein,7-5 6-1,0.51,1.5%,3.1%,66.2%,55.8%,40.9%,3/7,39.3%,25.0%,5.8%,29.0%,19.0%,1/1,117,1,2,65,43,22,3,
+29-Jun-2015,Netherlands F3,3,Clay,QF,167,449,0,1,,Maverick Banes,Niels Desein,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,R16,167,2163,1,1,Q,Niels Desein,Jack Jaede,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Netherlands F3,3,Clay,R32,167,,1,1,Q,Niels Desein,Mats Hermans,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Wimbledon Q,3,Grass,Q1,167,223,0,,,Enzo Couacaud,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Ilkley CH,3,Grass,R32,166,142,0,,AL,Yoshihito Nishioka,Niels Desein,7-5 6-4,0.90,9.1%,6.1%,60.6%,67.5%,34.6%,5/10,47.2%,41.0%,0.0%,40.9%,41.2%,3/7,144,6,4,66,40,26,0,
+8-Jun-2015,Surbiton CH,3,Grass,R32,160,147,0,,5,Yoshihito Nishioka,Niels Desein,4-6 6-2 6-3,0.81,7.6%,0.0%,67.1%,67.9%,38.5%,6/10,45.5%,33.7%,0.0%,28.8%,44.4%,2/7,165,6,0,79,53,26,0,
+2-Jun-2015,Manchester CH,3,Grass,R32,158,162,0,,,John Patrick Smith,Niels Desein,6-4 3-6 6-3,0.89,4.5%,9.0%,75.3%,67.2%,36.4%,6/10,48.8%,36.0%,9.3%,32.7%,45.0%,3/5,164,4,8,89,67,22,7,1:41
+24-May-2015,Roland Garros Q,3,Clay,Q1,158,174,0,,,Maxime Authom,Niels Desein,6-4 6-1,0.74,4.3%,8.5%,51.1%,66.7%,39.1%,3/7,42.6%,34.4%,8.2%,20.0%,53.8%,1/5,108,2,4,47,24,23,5,1:13
+11-May-2015,Bordeaux CH,3,Clay,R32,163,125,0,,,Paul Henri Mathieu,Niels Desein,7-6(4) 3-6 6-3,1.00,3.1%,6.3%,51.0%,71.4%,46.8%,9/13,50.0%,40.8%,3.1%,34.8%,53.1%,4/6,194,3,6,96,49,47,3,2:34
+4-May-2015,Cali CH,3,Clay,R16,164,630,0,2,Q,Fernando Romboli,Niels Desein,4-6 7-6(6) 6-2,0.85,4.7%,7.5%,50.0%,81.1%,41.5%,7/11,48.2%,33.0%,5.5%,21.2%,48.7%,3/8,197,5,8,106,53,53,5,2:23
+4-May-2015,Cali CH,3,Clay,R32,164,956,1,2,Q,Niels Desein,Nicolas Santos,6-1 6-2,1.57,7.1%,7.1%,57.1%,70.0%,53.3%,8/8,61.3%,58.3%,0.0%,60.0%,54.5%,4/5,106,5,5,70,40,30,0,1:20
+27-Apr-2015,Estoril Q,3,Clay,Q2,161,639,0,3,,Frederico Gil,Niels Desein,6-3 6-4,0.91,1.8%,12.3%,66.7%,71.1%,26.3%,5/9,47.0%,40.0%,0.0%,36.8%,50.0%,2/10,132,1,7,57,38,19,0,1:29
+20-Apr-2015,Bucharest Q,3,Clay,Q1,160,325,0,4,,Pedja Krstin,Niels Desein,2-6 6-1 6-3,0.94,3.8%,3.8%,79.5%,56.5%,43.8%,3/9,48.5%,43.5%,1.2%,37.5%,55.2%,4/10,163,3,3,78,62,16,1,1:57
+12-Apr-2015,Monte Carlo Masters Q,3,Clay,Q1,160,90,0,,7,Benoit Paire,Niels Desein,6-4 7-6(6),0.87,6.3%,5.0%,57.5%,69.6%,41.2%,5/8,47.4%,36.8%,9.2%,26.5%,45.2%,2/4,156,5,4,80,46,34,7,1:29
+6-Apr-2015,Batman CH,3,Hard,R16,160,203,0,6,,Mirza Basic,Niels Desein,7-6(4) 6-4,0.74,2.5%,3.8%,57.5%,58.7%,44.1%,9/13,45.0%,35.0%,6.7%,25.0%,55.0%,3/5,140,2,3,80,46,34,4,1:44
+6-Apr-2015,Batman CH,3,Hard,R32,160,525,1,6,Q,Niels Desein,Michael Venus,6-4 1-6 7-6(6),0.78,8.6%,6.7%,68.6%,68.1%,36.4%,6/9,46.2%,32.6%,23.9%,16.4%,56.8%,2/6,197,9,7,105,72,33,22,2:07
+31-Mar-2015,Raanana CH,3,Hard,R32,157,200,0,,,Denys Molchanov,Niels Desein,1-6 6-2 6-4,0.91,2.0%,2.9%,68.6%,67.1%,34.4%,8/12,48.5%,39.1%,8.7%,29.6%,52.6%,3/12,194,2,3,102,70,32,8,2:08
+16-Mar-2015,France F6,3,Hard,R32,155,608,0,1,,Julien Dubail,Niels Desein,7-6(9) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Cherbourg CH,3,Hard,R16,156,192,0,8,,Konstantin Kravchuk,Niels Desein,6-4 6-3,0.46,4.7%,1.6%,57.8%,67.6%,44.4%,6/9,41.8%,19.6%,17.4%,13.9%,40.0%,0/1,110,3,1,64,37,27,8,1:16
+23-Feb-2015,Cherbourg CH,3,Hard,R32,156,311,1,8,Q,Niels Desein,Federico Gaio,6-2 3-6 6-2,1.16,7.1%,3.5%,62.4%,66.0%,46.9%,9/12,53.2%,47.7%,4.7%,36.5%,64.7%,5/9,171,6,3,85,53,32,4,1:51
+16-Feb-2015,Wroclaw CH,3,Hard,R32,155,186,0,8,,Andrej Martin,Niels Desein,7-6(5) 6-4,0.93,10.4%,3.0%,62.7%,73.8%,44.0%,2/5,47.3%,34.6%,12.3%,21.3%,52.9%,2/7,148,7,2,67,42,25,10,1:36
+2-Feb-2015,Glasgow CH,3,Hard,F,196,164,1,,3,Niels Desein,Ruben Bemelmans,7-6(4) 2-6 7-6(4),0.89,9.6%,1.8%,64.9%,66.2%,55.0%,8/12,48.8%,33.7%,12.9%,17.7%,59.0%,2/7,215,11,2,114,74,40,13,2:31
+2-Feb-2015,Glasgow CH,3,Hard,SF,196,123,1,,1,Niels Desein,Aleksandr Nedovyesov,6-1 6-1,2.09,9.3%,2.3%,72.1%,77.4%,58.3%,3/3,64.8%,58.3%,10.4%,42.9%,80.0%,5/13,91,4,1,43,31,12,5,0:52
+2-Feb-2015,Glasgow CH,3,Hard,QF,196,243,1,,,Niels Desein,Edward Corrie,6-2 6-4,1.21,9.7%,1.4%,56.9%,78.0%,45.2%,7/7,54.5%,43.5%,3.2%,37.8%,58.8%,3/7,134,7,1,72,41,31,2,1:24
+2-Feb-2015,Glasgow CH,3,Hard,R16,196,246,1,,,Niels Desein,Pedja Krstin,3-6 6-3 6-1,1.50,11.9%,7.5%,52.2%,80.0%,56.3%,2/4,56.6%,47.1%,8.2%,35.4%,62.2%,5/10,152,8,5,67,35,32,7,1:44
+2-Feb-2015,Glasgow CH,3,Hard,R32,196,165,1,,7,Niels Desein,Tim Puetz,6-3 6-2,1.57,20.3%,0.0%,76.3%,80.0%,42.9%,2/2,58.9%,45.3%,9.4%,30.4%,56.7%,3/6,112,12,0,59,45,14,5,1:14
+27-Jan-2015,Hong Kong CH,3,Hard,QF,204,165,0,,,Yoshihito Nishioka,Niels Desein,6-4 3-6 7-6(6),1.01,6.3%,1.1%,68.4%,70.8%,46.7%,1/5,50.3%,37.2%,4.3%,26.3%,54.1%,4/9,189,6,1,95,65,30,4,2:20
+27-Jan-2015,Hong Kong CH,3,Hard,R16,204,401,1,,Q,Niels Desein,Toshihide Matsui,1-6 6-1 5-5 RET,1.11,7.4%,7.4%,60.3%,70.7%,48.1%,1/4,51.4%,42.5%,6.3%,27.9%,59.5%,3/7,148,5,5,68,41,27,5,1:41
+27-Jan-2015,Hong Kong CH,3,Hard,R32,204,146,1,,8,Niels Desein,Hiroki Moriya,3-6 6-2 7-6(3),1.06,6.5%,5.4%,49.5%,60.9%,48.9%,8/13,51.3%,48.0%,1.0%,38.3%,61.9%,6/12,195,6,5,93,46,47,1,2:28
+19-Jan-2015,Australian Open Q,3,Hard,Q1,204,172,0,,,Radu Albot,Niels Desein,6-3 6-2,0.70,8.7%,4.3%,45.7%,52.4%,48.0%,0/4,41.3%,34.9%,4.8%,33.3%,40.0%,1/6,109,4,2,46,21,25,3,1:09
+11-Jan-2015,Sydney Q,3,Hard,Q1,204,72,0,,5,Andrey Golubev,Niels Desein,6-4 7-6(5),0.64,2.5%,7.4%,61.7%,72.0%,51.6%,6/7,45.9%,23.1%,10.8%,21.1%,25.9%,0/6,146,2,6,81,50,31,7,1:37
+5-Jan-2015,Doha Q,3,Hard,Q2,203,137,0,,8,Rajeev Ram,Niels Desein,7-5 7-6(3),0.98,3.6%,4.8%,56.6%,68.1%,36.1%,8/13,49.4%,44.8%,6.9%,37.3%,60.7%,4/11,170,3,4,83,47,36,6,1:54
+5-Jan-2015,Doha Q,3,Hard,Q1,203,216,1,,,Niels Desein,Aslan Karatsev,6-4 6-7(1) 6-4,0.99,4.1%,5.2%,54.6%,69.8%,52.3%,0/3,49.7%,37.8%,11.2%,34.5%,42.5%,5/6,195,4,5,97,53,44,11,2:14
+17-Nov-2014,Andria CH,3,Hard,R32,204,226,0,,,Aldin Setkic,Niels Desein,7-6(2) 6-4,0.94,6.7%,3.3%,51.7%,87.1%,48.3%,1/3,48.0%,29.9%,23.9%,28.9%,31.8%,1/4,127,4,2,60,31,29,16,1:26
+10-Nov-2014,Helsinki CH,3,Hard,QF,206,129,0,,,Norbert Gombos,Niels Desein,6-0 6-2,0.35,7.1%,7.1%,54.8%,39.1%,36.8%,4/9,30.4%,21.6%,16.2%,9.1%,40.0%,0/0,79,3,3,42,23,19,6,0:52
+10-Nov-2014,Helsinki CH,3,Hard,R16,206,110,1,,4,Niels Desein,Damir Dzumhur,3-6 6-4 6-1,1.12,8.3%,2.4%,71.4%,63.3%,62.5%,4/6,52.4%,41.3%,3.8%,28.3%,58.8%,4/7,164,7,2,84,60,24,3,1:37
+10-Nov-2014,Helsinki CH,3,Hard,R32,206,218,1,,,Niels Desein,Enrique Lopez Perez,6-3 6-3,1.67,4.3%,0.0%,59.6%,64.3%,73.7%,3/5,58.9%,53.2%,6.5%,47.4%,59.0%,5/12,124,2,0,47,28,19,5,1:30
+3-Nov-2014,Mouilleron Le Captif CH,3,Hard,R32,208,237,0,,,Tristan Lamasine,Niels Desein,6-3 3-6 7-5,0.78,1.9%,3.8%,46.7%,65.3%,57.1%,4/7,47.4%,30.6%,8.2%,20.8%,46.9%,2/5,190,2,4,105,49,56,7,2:02
+27-Oct-2014,Eckental CH,3,Carpet,SF,219,203,0,,,Tim Puetz,Niels Desein,2-6 6-2 6-1,0.81,4.3%,2.9%,50.7%,65.7%,41.2%,5/10,45.1%,37.3%,9.3%,27.7%,53.6%,2/7,144,3,2,69,35,34,7,1:32
+27-Oct-2014,Eckental CH,3,Carpet,QF,219,178,1,,8,Niels Desein,Andrea Arnaboldi,7-5 3-6 6-1,1.12,14.0%,5.0%,61.0%,72.1%,46.2%,10/13,52.9%,42.5%,1.1%,37.3%,50.0%,5/11,187,14,5,100,61,39,1,2:03
+27-Oct-2014,Eckental CH,3,Carpet,R16,219,86,1,,1,Niels Desein,Dustin Brown,7-6(5) 6-4,1.09,10.6%,8.2%,54.1%,73.9%,33.3%,8/12,52.1%,48.8%,16.3%,30.4%,73.5%,5/13,165,9,7,85,46,39,13,1:43
+27-Oct-2014,Eckental CH,3,Carpet,R32,219,206,1,,,Niels Desein,Martin Fischer,2-6 7-6(3) 7-6(5),0.97,9.5%,5.2%,56.9%,72.7%,40.0%,5/9,49.2%,40.0%,5.0%,25.9%,53.2%,2/10,236,11,6,116,66,50,6,2:24
+20-Oct-2014,France F24,3,Hard,QF,223,542,0,3,7,Maxime Teixeira,Niels Desein,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,France F24,3,Hard,R16,223,2024,1,3,LL,Niels Desein,Thibault Cancel,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,France F24,3,Hard,R32,223,1466,1,3,Q,Niels Desein,Christopher Marquis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Stockholm Q,3,Hard,Q1,222,165,0,,5,Austin Krajicek,Niels Desein,6-2 6-2,0.53,13.0%,0.0%,63.0%,55.9%,35.0%,4/8,38.1%,27.5%,9.8%,24.3%,35.7%,0/4,105,7,0,54,34,20,5,1:07
+29-Sep-2014,France F21,3,Hard,F,232,326,1,3,4,Niels Desein,Enzo Couacaud,6-1 6-7(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,SF,232,410,1,3,5,Niels Desein,Filip Peliwo,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,QF,232,574,1,3,,Niels Desein,Sebastien Boltz,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,R16,232,1169,1,3,Q,Niels Desein,Sami Reinwein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,R32,232,1185,1,3,,Niels Desein,Thomas Grinberg,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,France F19,3,Hard,F,234,300,1,2,4,Niels Desein,Josselin Ouanna,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,France F19,3,Hard,SF,234,341,1,2,7,Niels Desein,Julien Cagnina,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,France F19,3,Hard,QF,234,771,1,2,,Niels Desein,Quentin Halys,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,France F19,3,Hard,R16,234,714,1,2,,Niels Desein,Tom Schonenberg,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2014,France F19,3,Hard,R32,234,948,1,2,Q,Niels Desein,Cedrick Commin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Belgium F15,3,Clay,QF,208,463,0,1,5,Michael Linzer,Niels Desein,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Belgium F15,3,Clay,R16,208,1622,1,1,Q,Niels Desein,Stijn Meulemans,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Belgium F15,3,Clay,R32,208,,1,1,Q,Niels Desein,Maximilian Mann,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,US Open,5,Hard,R128,238,56,0,Q,,David Goffin,Niels Desein,6-1 6-3 6-3,0.43,6.0%,4.8%,63.1%,62.3%,32.3%,6/12,38.4%,21.0%,14.5%,15.4%,30.4%,1/2,146,5,4,84,53,31,9,1:31
+25-Aug-2014,US Open Q,3,Hard,Q3,238,1567,1,,,Niels Desein,Oscar Hernandez,7-6(4) 6-3,1.21,11.3%,6.5%,74.2%,69.6%,31.3%,2/6,53.4%,48.8%,2.4%,40.4%,59.5%,5/19,146,7,4,62,46,16,2,1:35
+25-Aug-2014,US Open Q,3,Hard,Q2,238,142,1,,23,Niels Desein,Gastao Elias,7-6(4) 7-6(0),1.12,4.1%,7.2%,61.9%,68.3%,40.5%,7/11,52.7%,47.3%,9.9%,25.0%,68.1%,4/10,188,4,7,97,60,37,9,2:01
+25-Aug-2014,US Open Q,3,Hard,Q1,238,237,1,,,Niels Desein,Martin Vaisse,3-6 7-5 6-4,0.97,8.7%,10.7%,54.4%,71.4%,42.6%,4/8,49.3%,40.6%,6.6%,27.8%,53.8%,5/11,209,9,11,103,56,47,7,2:25
+4-Aug-2014,Prague II CH,3,Clay,R32,230,257,0,,,Boy Westerhof,Niels Desein,6-1 3-1 RET,0.55,3.2%,3.2%,48.4%,66.7%,31.3%,0/3,37.9%,28.6%,2.9%,23.5%,33.3%,0/3,66,1,1,31,15,16,1,0:45
+21-Jul-2014,Tampere CH,3,Clay,R32,236,732,0,8,WC,Henrik Sillanpaa,Niels Desein,6-7(4) 6-2 6-4,0.68,0.0%,2.9%,58.8%,60.0%,57.1%,3/7,44.5%,28.1%,2.2%,27.1%,31.6%,1/2,191,0,3,102,60,42,2,2:11
+14-Jul-2014,Belgium F7,3,Hard,F,237,481,1,1,4,Niels Desein,Steve Darcis,6-3 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Belgium F7,3,Hard,SF,237,902,1,1,Q,Niels Desein,Antonie Hoang,6-7(5) 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Belgium F7,3,Hard,QF,237,906,1,1,,Niels Desein,Ugo Nastasi,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Belgium F7,3,Hard,R16,237,941,1,1,,Niels Desein,Matthieu Roy,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Belgium F7,3,Hard,R32,237,,1,1,Q,Niels Desein,Antoine Escoffier,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Portoroz CH,3,Hard,QF,234,312,0,,,Kyle Edmund,Niels Desein,6-4 6-4,0.85,4.2%,4.2%,53.5%,63.2%,42.4%,8/12,47.3%,39.7%,6.9%,35.1%,47.6%,2/7,129,3,3,71,38,33,4,1:28
+7-Jul-2014,Portoroz CH,3,Hard,R16,234,197,1,,8,Niels Desein,Ilija Bozoljac,6-3 6-4,1.52,8.8%,1.8%,63.2%,83.3%,61.9%,2/2,56.0%,37.3%,20.3%,36.8%,38.1%,2/6,116,5,1,57,36,21,12,1:21
+7-Jul-2014,Portoroz CH,3,Hard,R32,234,396,1,,,Niels Desein,Michal Konecny,7-6(6) 0-6 6-2,0.91,0.0%,1.2%,63.0%,62.7%,53.3%,2/6,48.1%,37.0%,2.5%,28.8%,51.7%,3/6,162,0,1,81,51,30,2,2:00
+30-Jun-2014,France F13,3,Clay,QF,230,376,0,2,5,Tristan Lamasine,Niels Desein,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,France F13,3,Clay,R16,230,790,1,2,,Niels Desein,Maxime Hamou,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,France F13,3,Clay,R32,230,1154,1,2,,Niels Desein,Fabien Reboul,6-7(5) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Spain F15,3,Hard,R16,230,448,0,1,,David Perez Sanz,Niels Desein,5-7 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Spain F15,3,Hard,R32,230,398,1,1,,Niels Desein,Juan Samuel Arauzo Martinez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon Q,3,Grass,Q1,230,106,0,,3,Tim Smyczek,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Blois CH,3,Clay,R16,230,260,0,,,Jonathan Eysseric,Niels Desein,7-6(4) 4-6 6-4,0.95,0.0%,3.6%,62.5%,67.1%,40.5%,4/8,49.3%,40.8%,12.6%,25.5%,55.8%,4/10,215,0,4,112,70,42,13,2:21
+9-Jun-2014,Blois CH,3,Clay,R32,230,255,1,,,Niels Desein,Maxime Teixeira,7-5 6-3,1.12,10.4%,4.5%,53.7%,75.0%,45.2%,0/2,53.3%,43.6%,7.3%,27.3%,68.2%,4/7,122,7,3,67,36,31,4,1:21
+3-Jun-2014,Mestre CH,3,Clay,R32,237,99,0,,3,Filippo Volandri,Niels Desein,6-3 7-5,0.62,3.4%,6.7%,48.3%,65.1%,41.3%,7/11,43.8%,29.1%,3.6%,21.6%,44.4%,1/1,144,3,6,89,43,46,2,1:38
+26-May-2014,Roland Garros Q,3,Clay,Q2,237,323,0,,WC,Thanasi Kokkinakis,Niels Desein,6-4 6-2,0.77,6.9%,3.4%,58.6%,73.5%,25.0%,4/8,44.3%,35.9%,10.9%,23.7%,53.8%,1/4,122,4,2,58,34,24,7,1:16
+26-May-2014,Roland Garros Q,3,Clay,Q1,237,124,1,,20,Niels Desein,Thiemo De Bakker,6-3 6-4,1.47,18.3%,5.0%,60.0%,83.3%,58.3%,4/4,56.9%,39.3%,10.7%,30.8%,46.7%,2/4,116,11,3,60,36,24,6,1:08
+5-May-2014,Aix en Provence CH,3,Clay,R16,243,245,0,,LL,Jordi Samper Montana,Niels Desein,2-6 6-2 6-3,0.91,8.5%,2.8%,54.9%,66.7%,50.0%,3/7,48.2%,37.1%,1.4%,32.7%,53.3%,3/5,141,6,2,71,39,32,1,1:52
+5-May-2014,Aix en Provence CH,3,Clay,R32,243,182,1,,,Niels Desein,Gastao Elias,3-6 6-0 7-6(4),1.05,5.2%,5.2%,51.0%,75.5%,40.4%,7/12,51.4%,43.7%,5.7%,32.6%,54.5%,6/12,183,5,5,96,49,47,5,2:09
+28-Apr-2014,Estoril Q,3,Clay,Q3,233,98,0,6,2,Daniel Gimeno Traver,Niels Desein,6-0 6-3,0.55,1.9%,17.3%,40.4%,76.2%,22.6%,5/10,37.6%,30.6%,8.2%,17.2%,50.0%,0/3,101,1,9,52,21,31,4,1:02
+28-Apr-2014,Estoril Q,3,Clay,Q2,233,1481,1,6,WC,Niels Desein,Goncalo Pereira,6-2 6-0,2.23,2.6%,7.7%,66.7%,92.3%,38.5%,0/0,64.8%,57.1%,2.0%,63.0%,50.0%,5/11,88,1,3,39,26,13,1,1:00
+28-Apr-2014,Estoril Q,3,Clay,Q1,233,365,1,6,,Niels Desein,Steven Moneke,6-4 6-3,1.21,4.4%,8.8%,44.1%,73.3%,47.4%,6/8,54.2%,50.0%,3.9%,45.8%,57.1%,5/14,144,3,6,68,30,38,3,1:39
+21-Apr-2014,Bucharest Q,3,Clay,Q1,230,196,0,,8,Jaroslav Pospisil,Niels Desein,7-5 5-7 6-4,0.86,10.3%,4.1%,58.8%,71.9%,32.5%,5/11,46.7%,38.2%,8.8%,28.8%,51.2%,5/9,199,10,4,97,57,40,9,2:34
+7-Apr-2014,Mersin CH,3,Clay,R32,208,166,0,,,Norbert Gombos,Niels Desein,7-5 4-6 7-5,0.96,1.8%,4.4%,53.1%,65.0%,45.3%,9/16,49.3%,42.5%,4.7%,31.7%,56.5%,6/12,219,2,5,113,60,53,5,2:35
+17-Mar-2014,Rimouski CH,3,Hard,R16,213,216,0,8,,Austin Krajicek,Niels Desein,6-4 4-6 7-5,1.02,13.4%,6.2%,57.7%,69.6%,48.8%,7/12,50.0%,39.8%,8.7%,37.3%,44.4%,4/11,200,13,6,97,56,41,9,2:11
+17-Mar-2014,Rimouski CH,3,Hard,R32,213,432,1,8,,Niels Desein,Juan Carlos Spir,7-5 4-1 RET,1.41,4.9%,2.4%,63.4%,69.2%,53.3%,0/2,56.6%,51.7%,8.6%,36.7%,67.9%,5/9,99,2,1,41,26,15,5,1:03
+10-Mar-2014,France F6,3,Hard,QF,213,793,0,3,WC,Sadio Doumbia,Niels Desein,4-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,France F6,3,Hard,R16,213,1270,1,3,WC,Niels Desein,Maxime Quinqueneau,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,France F6,3,Hard,R32,213,631,1,3,Q,Niels Desein,Carlos Boluda Purkiss,6-2 7-6(0),,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Cherbourg CH,3,Hard,R32,204,328,0,,,Simone Bolelli,Niels Desein,6-3 6-1,0.51,4.9%,11.5%,55.7%,67.6%,29.6%,4/8,40.0%,25.0%,6.8%,20.0%,31.6%,0/0,105,3,7,61,34,27,3,1:07
+17-Feb-2014,Portugal F3,3,Hard,R16,201,996,0,1,SE,Romain Barbosa,Niels Desein,7-6(4) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Portugal F3,3,Hard,R32,201,,1,1,WC,Niels Desein,Pablo Vivero Gonzalez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Bergamo CH,3,Hard,R32,199,166,0,,6,Matthias Bachinger,Niels Desein,6-4 6-4,0.65,10.2%,3.4%,59.3%,71.4%,54.2%,5/7,45.0%,23.1%,23.1%,18.2%,31.6%,0/0,111,6,2,59,35,24,12,1:07
+3-Feb-2014,Montpellier Q,3,Hard,Q2,195,340,0,4,,Andres Artunedo Martinavarr,Niels Desein,6-4 3-6 7-6(4),0.97,7.5%,1.9%,60.7%,66.2%,64.3%,6/9,50.0%,33.7%,9.9%,27.8%,48.3%,3/13,208,8,2,107,65,42,10,2:20
+3-Feb-2014,Montpellier Q,3,Hard,Q1,195,1301,1,4,,Niels Desein,Maxime Janvier,6-3 6-2,2.15,10.6%,2.1%,66.0%,90.3%,56.3%,1/1,62.1%,45.8%,6.3%,41.4%,52.6%,3/4,95,5,1,47,31,16,3,0:59
+20-Jan-2014,Germany F3,3,Carpet,R16,198,447,0,1,,Nikoloz Basilashvili,Niels Desein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2014,Germany F3,3,Carpet,R32,198,665,1,1,Q,Niels Desein,Denis Bejtulahi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Australian Open Q,3,Hard,Q2,198,188,0,,,Damir Dzumhur,Niels Desein,7-6(3) 6-1,0.66,4.9%,4.9%,54.1%,69.7%,32.1%,5/8,41.8%,31.1%,4.9%,25.8%,36.7%,1/4,122,3,3,61,33,28,3,1:12
+13-Jan-2014,Australian Open Q,3,Hard,Q1,198,227,1,,,Niels Desein,Matt Reid,7-6(2) 6-4,1.07,5.3%,4.0%,65.3%,79.6%,46.2%,2/3,51.4%,34.2%,12.3%,21.4%,51.6%,2/6,148,4,3,75,49,26,9,1:39
+6-Jan-2014,Sydney Q,3,Hard,Q1,198,93,0,,,Somdev Devvarman,Niels Desein,6-2 2-6 6-4,0.80,3.6%,7.2%,56.6%,68.1%,33.3%,5/10,45.8%,37.5%,5.6%,34.1%,42.9%,4/7,155,3,6,83,47,36,4,1:44
+2-Dec-2013,Senegal F2,3,Hard,R32,199,991,0,1,,Alexis Klegou,Niels Desein,6-7(8) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Helsinki CH,3,Hard,R16,198,135,0,,,Ricardas Berankis,Niels Desein,6-3 6-4,0.75,4.7%,9.4%,53.1%,58.8%,43.3%,4/7,43.4%,36.1%,8.3%,22.0%,54.8%,1/8,136,3,6,64,34,30,6,1:17
+11-Nov-2013,Helsinki CH,3,Hard,R32,198,72,1,,2,Niels Desein,Lukasz Kubot,7-5 6-2,1.45,8.6%,3.4%,55.2%,75.0%,53.8%,0/2,57.9%,50.0%,7.1%,29.6%,69.0%,5/5,114,5,2,58,32,26,4,1:19
+28-Oct-2013,Eckental CH,3,Carpet,R16,200,136,0,,5,Dustin Brown,Niels Desein,6-2 5-7 6-4,0.85,2.1%,8.3%,44.8%,74.4%,45.3%,6/10,46.5%,35.3%,22.5%,23.6%,48.9%,2/5,198,2,8,96,43,53,23,1:41
+28-Oct-2013,Eckental CH,3,Carpet,R32,200,301,1,,,Niels Desein,Grzegorz Panfil,6-0 3-6 6-2,1.33,14.6%,6.7%,57.3%,74.5%,44.7%,10/12,57.0%,50.7%,10.1%,25.0%,68.3%,5/10,158,13,6,89,51,38,7,1:30
+21-Oct-2013,Portugal F11,3,Hard,F,204,306,0,1,3,Rui Machado,Niels Desein,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Portugal F11,3,Hard,SF,204,809,1,1,,Niels Desein,Carlos Boluda Purkiss,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Portugal F11,3,Hard,QF,204,538,1,1,7,Niels Desein,Ricardo Villacorta Alonso,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Portugal F11,3,Hard,R16,204,737,1,1,,Niels Desein,Leonardo Tavares,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Portugal F11,3,Hard,R32,204,612,1,1,,Niels Desein,Michael Bois,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Stockholm Q,3,Hard,Q1,205,254,0,7,,Daniel Cox,Niels Desein,1-6 6-2 7-6(4),1.02,8.2%,4.7%,61.2%,61.5%,42.4%,4/9,50.3%,47.0%,3.0%,41.0%,56.4%,6/12,185,7,4,85,52,33,3,1:55
+30-Sep-2013,Hungary F1,3,Clay,F,215,229,1,2,1,Niels Desein,Gerard Granollers,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Hungary F1,3,Clay,SF,215,493,1,2,,Niels Desein,Peter Torebko,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Hungary F1,3,Clay,QF,215,317,1,2,5,Niels Desein,Arthur De Greef,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Hungary F1,3,Clay,R16,215,821,1,2,WC,Niels Desein,Viktor Filipenko,5-7 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Hungary F1,3,Clay,R32,215,992,1,2,Q,Niels Desein,Vaclav Safranek,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,France F16,3,Hard,F,240,229,1,2,1,Niels Desein,Maxime Authom,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,France F16,3,Hard,SF,240,855,1,2,WC,Niels Desein,Quentin Halys,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,France F16,3,Hard,QF,240,549,1,2,,Niels Desein,Erik Crepaldi,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,France F16,3,Hard,R16,240,705,1,2,,Niels Desein,Rudy Coco,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,France F16,3,Hard,R32,240,,1,2,Q,Niels Desein,Sebastian Bader,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Petange CH,3,Hard,SF,246,110,0,,6,Paul Henri Mathieu,Niels Desein,6-3 1-6 6-4,1.08,17.6%,2.7%,56.8%,78.6%,43.8%,1/4,50.6%,39.5%,11.6%,29.3%,48.9%,3/4,160,13,2,74,42,32,10,1:40
+9-Sep-2013,Petange CH,3,Hard,QF,246,102,1,,5,Niels Desein,Jan Lennard Struff,3-6 7-5 7-6(3),1.15,12.2%,0.0%,69.4%,69.1%,46.7%,9/14,52.5%,43.4%,16.0%,31.3%,61.9%,5/11,204,12,0,98,68,30,17,2:06
+9-Sep-2013,Petange CH,3,Hard,R16,246,277,1,,,Niels Desein,Karol Beck,7-6(4) 6-3,1.04,15.1%,2.3%,72.1%,72.6%,50.0%,5/6,53.0%,34.9%,9.5%,24.1%,44.1%,2/6,149,13,2,86,62,24,6,1:39
+9-Sep-2013,Petange CH,3,Hard,R32,246,385,1,,,Niels Desein,Riccardo Ghedin,6-2 6-1,2.98,19.4%,2.8%,72.2%,88.5%,60.0%,3/3,67.4%,58.0%,14.0%,36.7%,90.0%,5/7,86,7,1,36,26,10,7,0:40
+2-Sep-2013,France F14,3,Hard,QF,225,548,0,2,,Hugo Nys,Niels Desein,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,France F14,3,Hard,R16,225,642,1,2,,Niels Desein,Remi Boutillier,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,France F14,3,Hard,R32,225,,1,2,Q,Niels Desein,Valentin Masse,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Como CH,3,Clay,R32,225,267,0,,WC,Gianluca Naso,Niels Desein,1-6 7-6(5) 7-5,0.90,5.1%,6.4%,51.0%,68.8%,40.3%,24/29,49.8%,40.9%,9.1%,31.3%,52.5%,6/7,245,8,10,157,80,77,8,2:48
+26-Aug-2013,US Open Q,3,Hard,Q1,225,200,0,,,Andre Ghem,Niels Desein,3-6 6-3 7-6(3),0.91,1.0%,8.7%,52.4%,72.2%,49.0%,7/10,48.1%,35.5%,14.0%,24.6%,52.4%,3/8,210,1,9,103,54,49,15,2:11
+12-Aug-2013,Italy F21,3,Clay,SF,219,409,0,2,9,Matteo Trevisan,Niels Desein,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Italy F21,3,Clay,QF,219,310,1,2,5,Niels Desein,Theodoros Angelinos,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Italy F21,3,Clay,R16,219,469,1,2,,Niels Desein,Ivo Minar,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Italy F21,3,Clay,R32,219,,1,2,Q,Niels Desein,Manuel Righi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,San Marino CH,3,Clay,R32,219,103,0,,5,Jan Lennard Struff,Niels Desein,6-3 6-4,0.66,6.1%,4.5%,42.4%,75.0%,42.1%,6/10,44.7%,29.2%,16.7%,12.9%,58.8%,1/1,114,4,3,66,28,38,8,1:08
+29-Jul-2013,Belgium F7,3,Clay,SF,220,330,0,1,3,Yannick Mertens,Niels Desein,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Belgium F7,3,Clay,QF,220,492,1,1,8,Niels Desein,Alexandre Folie,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Belgium F7,3,Clay,R16,220,570,1,1,,Niels Desein,Julien Cagnina,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Belgium F7,3,Clay,R32,220,1391,1,1,Q,Niels Desein,Ugo Nastasi,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Orbetello CH,3,Clay,R32,212,115,0,,2,Pablo Carreno Busta,Niels Desein,6-2 6-1,0.65,2.0%,4.1%,53.1%,46.2%,34.8%,7/12,39.6%,38.6%,0.0%,44.1%,30.4%,1/2,106,1,2,49,26,23,0,1:16
+15-Jul-2013,Belgium F5,3,Hard,SF,216,506,0,1,6,Kimmer Coppejans,Niels Desein,6-7(4) 6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,QF,216,,1,1,Q,Niels Desein,Joran Vliegen,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,R16,216,840,1,1,,Niels Desein,Dorian Descloix,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,R32,216,976,1,1,,Niels Desein,Alexander Blom,4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Belgium F4,3,Clay,SF,217,502,0,1,5,Joris De Loore,Niels Desein,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Belgium F4,3,Clay,QF,217,713,1,1,8,Niels Desein,Yannick Vandenbulcke,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Belgium F4,3,Clay,R16,217,1961,1,1,Q,Niels Desein,Ugo Nastasi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Belgium F4,3,Clay,R32,217,,1,1,Q,Niels Desein,Kevin Farin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Netherlands F4,3,Clay,F,203,418,0,2,5,Thomas Schoorel,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Netherlands F4,3,Clay,SF,203,513,1,2,6,Niels Desein,Wesley Koolhof,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Netherlands F4,3,Clay,QF,203,559,1,2,7,Niels Desein,Wilson Leite,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Netherlands F4,3,Clay,R16,203,850,1,2,,Niels Desein,Juraj Masar,6-4 5-7 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Netherlands F4,3,Clay,R32,203,1595,1,2,WC,Niels Desein,Kevin Boelhouwer,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Wimbledon Q,3,Grass,Q1,203,211,0,,,Igor Kunitsyn,Niels Desein,2-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2013,s-Hertogenbosch Q,3,Grass,Q2,197,401,0,5,,Stephane Bohli,Niels Desein,6-2 6-3,0.51,4.3%,0.0%,68.1%,62.5%,33.3%,1/4,38.1%,24.0%,6.0%,13.6%,32.1%,0/2,97,2,0,47,32,15,3,0:57
+16-Jun-2013,s-Hertogenbosch Q,3,Grass,Q1,197,598,1,5,,Niels Desein,Dennis Novak,6-3 3-6 6-3,0.87,6.3%,2.7%,64.9%,72.2%,43.6%,8/9,50.3%,32.9%,7.9%,29.6%,40.9%,2/6,187,7,3,111,72,39,6,1:44
+10-Jun-2013,Blois CH,3,Clay,R16,198,125,0,,4,Dusan Lajovic,Niels Desein,6-3 6-4,0.78,0.0%,5.3%,56.1%,75.0%,40.0%,1/3,44.4%,31.3%,19.4%,26.1%,42.9%,0/1,124,0,3,57,32,25,13,1:10
+10-Jun-2013,Blois CH,3,Clay,R32,198,216,1,,,Niels Desein,Marco Trungelliti,3-6 6-2 6-2,1.39,9.0%,3.8%,56.4%,77.3%,55.9%,3/4,55.9%,44.6%,2.4%,44.2%,45.2%,4/7,161,7,3,78,44,34,2,1:38
+4-Jun-2013,Arad CH,3,Clay,R32,201,167,0,,8,Guido Andreozzi,Niels Desein,6-3 6-1,0.73,3.4%,5.2%,67.2%,53.8%,36.8%,6/11,43.4%,37.5%,10.4%,29.6%,47.6%,1/2,106,2,3,58,39,19,5,1:10
+27-May-2013,Roland Garros Q,3,Clay,Q1,201,236,0,,WC,Jonathan Eysseric,Niels Desein,6-7(3) 6-4 6-3,1.01,2.1%,4.1%,69.1%,73.1%,43.3%,3/7,49.3%,36.4%,3.6%,25.8%,50.0%,1/8,207,2,4,97,67,30,4,2:27
+13-May-2013,Italy F8,3,Clay,QF,203,560,0,1,,Salvatore Caruso,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Italy F8,3,Clay,R16,203,,1,1,Q,Niels Desein,Andrea Grazioso,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Italy F8,3,Clay,R32,203,,1,1,WC,Niels Desein,Diego Morelli,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Estoril,3,Clay,R32,208,63,0,Q,,Paolo Lorenzi,Niels Desein,6-3 4-6 6-2,0.77,2.1%,1.1%,67.0%,54.0%,58.1%,3/8,45.5%,34.5%,4.8%,29.6%,43.3%,2/9,178,2,1,94,63,31,4,2:04
+29-Apr-2013,Estoril Q,3,Clay,Q3,208,960,1,4,,Niels Desein,Joao Domingues,6-0 7-5,1.57,3.6%,5.4%,66.1%,75.7%,36.8%,2/4,60.7%,58.8%,0.0%,43.5%,71.4%,6/10,107,2,3,56,37,19,0,1:11
+29-Apr-2013,Estoril Q,3,Clay,Q2,208,710,1,4,,Niels Desein,Pere Riba,2-6 7-6(5) 6-3,0.93,0.8%,4.2%,56.3%,64.2%,46.2%,10/15,48.9%,40.6%,2.8%,24.1%,60.4%,4/12,225,1,5,119,67,52,3,2:48
+29-Apr-2013,Estoril Q,3,Clay,Q1,208,1037,1,4,,Niels Desein,Rafael Mazon Hernandez,6-0 6-1,3.19,0.0%,5.6%,61.1%,86.4%,71.4%,0/0,69.8%,62.0%,0.0%,57.1%,68.2%,5/11,86,0,2,36,22,14,0,1:00
+15-Apr-2013,France F8,3,Clay,QF,228,341,0,3,7,Romain Jouan,Niels Desein,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,France F8,3,Clay,R16,228,360,1,3,,Niels Desein,Laurent Recouderc,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,France F8,3,Clay,R32,228,821,1,3,Q,Niels Desein,Denys Mylokostov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,F,221,1495,1,2,Q,Niels Desein,Calvin Hemery,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,SF,221,1323,1,2,Q,Niels Desein,Enzo Py,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,QF,221,342,1,2,8,Niels Desein,Romain Jouan,7-6(3) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,R16,221,468,1,2,,Niels Desein,Marc Rath,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,R32,221,584,1,2,,Niels Desein,Alexandre Penaud,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,St. Brieuc CH,3,Hard,R32,225,177,0,,5,Dustin Brown,Niels Desein,6-4 4-6 6-4,1.00,8.2%,2.1%,60.8%,54.2%,68.4%,4/8,49.7%,40.2%,10.8%,29.8%,53.3%,3/8,199,8,2,97,59,38,11,1:54
+18-Mar-2013,France F6,3,Hard,R16,215,1472,0,1,Q,Antso Rakotondramanga,Niels Desein,6-4 2-6 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,France F6,3,Hard,R32,215,1372,1,1,Q,Niels Desein,Lucas Szewczyk,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Sarajevo CH,3,Hard,R16,217,154,0,,4,Adrian Mannarino,Niels Desein,7-6(4) 5-7 6-4,0.88,17.3%,1.0%,61.5%,79.7%,60.0%,4/6,49.5%,24.5%,18.1%,14.3%,45.2%,2/3,198,18,1,104,64,40,17,2:02
+11-Mar-2013,Sarajevo CH,3,Hard,R32,217,519,1,,Q,Niels Desein,Ante Pavic,6-3 7-6(8),1.51,15.2%,1.5%,69.7%,87.0%,55.0%,1/1,55.1%,34.3%,12.9%,26.2%,46.4%,1/3,136,10,1,66,46,20,9,1:25
+25-Feb-2013,Portugal F2,3,Hard,SF,237,316,0,2,4,Rui Machado,Niels Desein,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Portugal F2,3,Hard,QF,237,625,1,2,,Niels Desein,Carlos Eduardo Severino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Portugal F2,3,Hard,R16,237,576,1,2,,Niels Desein,Andres Artunedo Martinavarr,6-2 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Portugal F2,3,Hard,R32,237,1108,1,2,Q,Niels Desein,Laurent Lokoli,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,F,239,231,1,1,2,Niels Desein,Pedro Sousa,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,SF,239,436,1,1,7,Niels Desein,Germain Gigounon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,QF,239,419,1,1,6,Niels Desein,Julien Obry,4-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,R16,239,729,1,1,,Niels Desein,Matthias Wunner,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,R32,239,,1,1,WC,Niels Desein,Arseniy Morozov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2013,Bergamo CH,3,Hard,R16,242,821,0,,,Andreas Beck,Niels Desein,7-5 5-7 7-5,1.04,12.6%,2.7%,66.7%,78.4%,45.9%,5/8,50.7%,33.6%,10.0%,26.3%,50.0%,2/9,221,14,3,111,74,37,11,2:28
+4-Feb-2013,Bergamo CH,3,Hard,R32,242,175,1,,,Niels Desein,Amir Weintraub,6-4 7-6(5),1.24,14.7%,2.7%,62.7%,74.5%,67.9%,3/3,52.9%,34.6%,3.8%,30.9%,43.5%,1/2,153,11,2,75,47,28,3,1:29
+28-Jan-2013,France F3,3,Hard,QF,243,277,0,2,5,Nicolas Renavand,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,France F3,3,Hard,R16,243,,1,2,WC,Niels Desein,Calvin Hemery,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,France F3,3,Hard,R32,243,687,1,2,Q,Niels Desein,Ivan Arenas Gualda,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,Australian Open Q,3,Hard,Q1,236,133,0,,12,Alex Bogomolov Jr,Niels Desein,6-3 6-2,0.72,7.0%,12.3%,64.9%,64.9%,35.0%,4/7,43.0%,32.8%,9.4%,23.8%,50.0%,0/3,121,4,7,57,37,20,6,1:14
+19-Nov-2012,Turkey F45,3,Hard,R32,237,852,0,1,,Julien Cagnina,Niels Desein,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Marbella CH,3,Clay,R32,239,248,0,,,Steven Diez,Niels Desein,6-0 4-6 6-2,0.59,1.4%,16.2%,48.6%,63.9%,34.2%,3/9,40.0%,30.3%,3.0%,20.5%,50.0%,2/6,140,1,12,74,36,38,2,2:00
+5-Nov-2012,Loughborough CH,3,Hard,R32,243,206,0,,,Pavol Cervenak,Niels Desein,6-2 4-6 6-4,0.66,9.2%,7.1%,62.2%,68.9%,37.8%,10/14,44.1%,28.4%,14.8%,26.0%,32.3%,2/5,179,9,7,98,61,37,12,2:03
+15-Oct-2012,France F21,3,Hard,R32,237,392,0,2,,Romain Jouan,Niels Desein,7-6(6) RET,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Rennes CH,3,Hard,R16,240,190,0,,Q,Illya Marchenko,Niels Desein,6-3 1-6 6-2,0.95,4.3%,7.1%,57.1%,77.5%,33.3%,2/6,48.3%,39.2%,5.1%,18.4%,58.5%,3/5,149,3,5,70,40,30,4,1:48
+8-Oct-2012,Rennes CH,3,Hard,R32,240,343,1,,,Niels Desein,Philipp Oswald,6-2 7-6(6),1.58,10.7%,0.0%,55.4%,77.4%,68.0%,1/2,56.6%,42.4%,13.6%,36.7%,58.8%,3/7,122,6,0,56,31,25,9,1:21
+10-Sep-2012,Petange CH,3,Hard,QF,284,120,0,,5,Edouard Roger Vasselin,Niels Desein,7-5 6-4,0.84,5.8%,5.8%,53.6%,67.6%,40.6%,4/8,46.2%,37.8%,9.5%,34.7%,44.0%,2/9,143,4,4,69,37,32,7,1:44
+10-Sep-2012,Petange CH,3,Hard,R16,284,66,1,,1,Niels Desein,Gilles Muller,6-4 6-4,1.36,7.5%,7.5%,62.3%,93.9%,50.0%,1/1,54.3%,30.8%,15.4%,19.4%,47.6%,2/3,105,4,4,53,33,20,8,1:10
+10-Sep-2012,Petange CH,3,Hard,R32,284,,1,,Q,Niels Desein,Gauthier Stauffer,6-0 6-2,2.59,29.7%,2.7%,56.8%,81.0%,75.0%,2/2,65.5%,56.0%,8.0%,36.0%,76.0%,5/8,87,11,1,37,21,16,4,0:49
+3-Sep-2012,France F15,3,Hard,F,306,310,0,3,4,Julien Obry,Niels Desein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,France F15,3,Hard,SF,306,270,1,3,2,Niels Desein,Mathieu Rodrigues,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,France F15,3,Hard,QF,306,384,1,3,7,Niels Desein,Alexandre Sidorenko,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,France F15,3,Hard,R16,306,720,1,3,,Niels Desein,Emilien Firmin,7-6(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,France F15,3,Hard,R32,306,,1,3,Q,Niels Desein,Kevin Boumlil,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Belgium F10,3,Clay,F,306,667,1,2,7,Niels Desein,Joris De Loore,3-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Belgium F10,3,Clay,SF,306,1372,1,2,,Niels Desein,Maxime Tabatruong,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Belgium F10,3,Clay,QF,306,854,1,2,,Niels Desein,Ivo Mijic,5-7 7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Belgium F10,3,Clay,R16,306,1222,1,2,,Niels Desein,Jonas Merckx,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Belgium F10,3,Clay,R32,306,1917,1,2,WC,Niels Desein,James Junior Storme,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Belgium F8,3,Clay,F,339,810,1,1,,Niels Desein,Juan Sebastian Vivanco,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Belgium F8,3,Clay,SF,339,718,1,1,8,Niels Desein,Joris De Loore,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Belgium F8,3,Clay,QF,339,700,1,1,7,Niels Desein,Sam Barry,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Belgium F8,3,Clay,R16,339,800,1,1,WC,Niels Desein,Kimmer Coppejans,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Belgium F8,3,Clay,R32,339,793,1,1,,Niels Desein,Jack Carpenter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Belgium F7,3,Clay,R32,342,1137,0,1,Q,Martin Vaisse,Niels Desein,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,SF,343,412,0,2,7,Yannik Reuter,Niels Desein,6-7(5) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,QF,343,770,1,2,,Niels Desein,Simon Cauvard,6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,R16,343,831,1,2,,Niels Desein,Ivo Mijic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,R32,343,,1,2,WC,Niels Desein,Yannis Baltogiannis,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Tampere CH,3,Clay,QF,354,159,0,LL,2,Gastao Elias,Niels Desein,6-4 6-2,0.77,0.0%,10.2%,57.6%,58.8%,36.0%,4/9,44.3%,39.3%,1.8%,34.4%,45.8%,2/4,115,0,6,59,34,25,1,1:22
+23-Jul-2012,Tampere CH,3,Clay,R16,354,245,1,LL,6,Niels Desein,Michael Lammer,7-6(4) 6-1,1.50,0.0%,5.5%,78.2%,72.1%,41.7%,4/6,56.5%,51.9%,0.9%,34.6%,68.5%,5/17,161,0,3,55,43,12,1,2:04
+23-Jul-2012,Tampere CH,3,Clay,R32,354,396,1,LL,Q,Niels Desein,Petru Alexandru Luncanu,1-6 6-4 6-3,0.99,3.9%,6.5%,53.2%,75.6%,27.8%,4/9,49.7%,46.2%,2.6%,43.9%,52.4%,5/9,155,3,5,77,41,36,2,1:58
+16-Jul-2012,Penza CH,3,Hard,R32,347,207,0,,3,Konstantin Kravchuk,Niels Desein,2-6 7-6(11) 6-4,1.15,4.3%,3.2%,61.3%,78.9%,58.3%,1/3,51.0%,33.3%,10.5%,25.7%,51.6%,3/6,198,4,3,93,57,36,11,2:25
+2-Jul-2012,Netherlands F4,3,Clay,F,407,339,0,8,5,Matwe Middelkoop,Niels Desein,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Netherlands F4,3,Clay,SF,407,377,1,8,7,Niels Desein,Taro Daniel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Netherlands F4,3,Clay,QF,407,330,1,8,4,Niels Desein,Timo Nieminen,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Netherlands F4,3,Clay,R16,407,,1,8,Q,Niels Desein,Jonas Merckx,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Netherlands F4,3,Clay,R32,407,879,1,8,,Niels Desein,Matthew Pierot,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Belgium F1,3,Clay,F,407,571,1,6,7,Niels Desein,Arthur De Greef,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Belgium F1,3,Clay,SF,407,393,1,6,5,Niels Desein,Germain Gigounon,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Belgium F1,3,Clay,QF,407,358,1,6,2,Niels Desein,Alexandre Folie,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Belgium F1,3,Clay,R16,407,692,1,6,,Niels Desein,Marvin Netuschil,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Belgium F1,3,Clay,R32,407,,1,6,Q,Niels Desein,Ugo Nastasi,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2012,s-Hertogenbosch Q,3,Grass,Q3,410,244,0,,5,Pierre Ludovic Duclos,Niels Desein,7-6(8) 6-4,0.82,3.5%,7.1%,64.7%,78.2%,36.7%,6/7,47.5%,29.9%,19.5%,24.1%,47.4%,0/0,162,3,6,85,55,30,15,1:49
+17-Jun-2012,s-Hertogenbosch Q,3,Grass,Q2,410,195,1,,3,Niels Desein,Thomas Schoorel,6-3 7-5,1.27,6.8%,0.0%,74.0%,70.4%,52.6%,8/9,55.6%,43.3%,13.3%,31.0%,72.2%,3/4,133,5,0,73,54,19,8,1:20
+17-Jun-2012,s-Hertogenbosch Q,3,Grass,Q1,410,305,1,,,Niels Desein,Albano Olivetti,7-6(4) 6-3,0.96,10.5%,2.6%,65.8%,72.0%,50.0%,4/5,51.5%,33.9%,19.6%,18.2%,56.5%,2/2,132,8,2,76,50,26,11,1:20
+11-Jun-2012,Spain F16,3,Hard,R32,410,862,0,5,,Jaime Pulgar Garcia,Niels Desein,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Morocco F3,3,Clay,R16,434,957,0,2,,Guillermo Gomez Diaz,Niels Desein,6-0 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Morocco F3,3,Clay,R32,434,908,1,2,,Niels Desein,Sebastian Lavie,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,SF,434,513,0,4,7,Lamine Ouahab,Niels Desein,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,QF,434,462,1,4,5,Niels Desein,Marc Giner,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,R16,434,740,1,4,,Niels Desein,Oscar Sabate Bretos,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,R32,434,578,1,4,,Niels Desein,Elie Rousset,7-6(3) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Spain F11,3,Clay,R16,429,722,0,7,Q,Jean Marc Werner,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Spain F11,3,Clay,R32,429,716,1,7,SE,Niels Desein,Lorenzo Giustino,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Bucharest Q,3,Clay,Q2,434,119,0,,2,Daniel Brands,Niels Desein,6-4 6-2,0.67,8.5%,10.2%,52.5%,77.4%,46.4%,4/7,45.0%,25.0%,7.7%,14.3%,37.5%,0/0,111,5,6,59,31,28,4,1:15
+23-Apr-2012,Bucharest Q,3,Clay,Q1,434,,1,,WC,Niels Desein,Christian Marian,6-1 6-0,2.13,2.8%,8.3%,52.8%,78.9%,52.9%,1/2,69.1%,71.1%,2.2%,63.2%,76.9%,7/10,81,1,3,36,19,17,1,0:58
+9-Apr-2012,Greece F2,3,Carpet,F,494,774,0,5,,Alexandros Jakupovic,Niels Desein,6-7(9) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,SF,494,516,1,5,6,Niels Desein,Alexander Sadecky,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,QF,494,788,1,5,,Niels Desein,Mate Pavic,6-3 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,R16,494,572,1,5,,Niels Desein,Alessandro Bega,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Greece F2,3,Carpet,R32,494,,1,5,WC,Niels Desein,Markos Kalovelonis,6-4 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Greece F1,3,Carpet,F,498,613,0,3,6,Yannick Jankovits,Niels Desein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Greece F1,3,Carpet,SF,498,770,1,3,,Niels Desein,Alexandros Jakupovic,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Greece F1,3,Carpet,QF,498,748,1,3,,Niels Desein,Peter Heller,4-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Greece F1,3,Carpet,R16,498,,1,3,Q,Niels Desein,Maximilian Dinslaken,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Greece F1,3,Carpet,R32,498,,1,3,WC,Niels Desein,Thomas Orestis Panoulas,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,F,564,307,0,6,2,Laurent Rochette,Niels Desein,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,SF,564,917,1,6,,Niels Desein,Joris De Loore,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,QF,564,896,1,6,,Niels Desein,Hugo Nys,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,R16,564,1016,1,6,Q,Niels Desein,Yanais Laurent,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,R32,564,629,1,6,,Niels Desein,Sami Reinwein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Portugal F3,3,Hard,F,573,486,0,7,3,Denes Lukacs,Niels Desein,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Portugal F3,3,Hard,SF,573,714,1,7,,Niels Desein,Jules Marie,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Portugal F3,3,Hard,QF,573,1606,1,7,Q,Niels Desein,Andoni Vivanco Guzman,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Portugal F3,3,Hard,R16,573,1402,1,7,WC,Niels Desein,Joao Domingues,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Portugal F3,3,Hard,R32,573,1331,1,7,Q,Niels Desein,Mario Vilella Martinez,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,France F4,3,Hard,R16,573,228,0,,3,Romain Jouan,Niels Desein,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,France F4,3,Hard,R32,573,1402,1,,Q,Niels Desein,Laurent Lokoli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,QF,592,364,0,,4,Ruan Roelofse,Niels Desein,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,R16,592,947,1,,Q,Niels Desein,Abdullah Maqdas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,R32,592,1835,1,,Q,Niels Desein,Kimmer Coppejans,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2012,Turkey F5,3,Hard,F,591,333,0,,3,Riccardo Ghedin,Niels Desein,1-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2012,Turkey F5,3,Hard,SF,591,577,1,,,Niels Desein,Dieter Kindlmann,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2012,Turkey F5,3,Hard,QF,591,1075,1,,WC,Niels Desein,Tuna Altuna,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2012,Turkey F5,3,Hard,R16,591,891,1,,Q,Niels Desein,Dimitar Kuzmanov,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2012,Turkey F5,3,Hard,R32,591,544,1,,7,Niels Desein,Patrik Brydolf,6-7(5) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Montpellier Q,3,Hard,Q1,591,204,0,,,Mischa Zverev,Niels Desein,6-4 1-6 6-3,0.95,4.1%,2.7%,50.7%,73.0%,52.8%,2/5,48.7%,35.1%,3.9%,26.7%,46.9%,3/7,150,3,2,73,37,36,3,1:30
+16-Jan-2012,France F1,3,Clay,QF,599,782,0,,,Moritz Baumann,Niels Desein,6-3 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,France F1,3,Clay,R16,599,549,1,,8,Niels Desein,Laurent Recouderc,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,France F1,3,Clay,R32,599,832,1,,,Niels Desein,Gaetan De Lovinfosse,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,Germany F1,3,Carpet,R32,598,573,0,,,Elie Rousset,Niels Desein,6-3 6-7(8) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Turkey F30,3,Hard,R16,612,447,0,,2,Riccardo Bellotti,Niels Desein,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Turkey F30,3,Hard,R32,612,,1,,WC,Niels Desein,Ahmet Kursad Demir,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Germany F17,3,Hard,QF,543,336,0,6,3,Stefan Seifert,Niels Desein,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Germany F17,3,Hard,R16,543,735,1,6,,Niels Desein,Bastian Trinker,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Germany F17,3,Hard,R32,543,856,1,6,,Niels Desein,Alexey Vatutin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,France F15,3,Hard,R32,536,431,0,,8,Julien Dubail,Niels Desein,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,France F14,3,Hard,R32,535,391,0,,7,Pierre Hugues Herbert,Niels Desein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Como CH,3,Clay,R32,482,146,0,LL,5,Paolo Lorenzi,Niels Desein,6-0 6-4,0.66,2.0%,4.0%,66.0%,60.6%,17.6%,2/7,40.6%,35.7%,5.4%,27.3%,47.8%,1/3,106,1,2,50,33,17,3,1:12
+15-Aug-2011,Cordenons CH,3,Clay,R32,493,153,0,Q,,Jan Hajek,Niels Desein,4-6 6-2 7-5,0.86,3.9%,13.6%,58.3%,61.7%,34.9%,8/16,46.9%,42.7%,7.9%,37.5%,56.0%,6/12,192,4,14,103,60,43,7,2:17
+1-Aug-2011,Belgium F6,3,Clay,QF,514,397,0,6,1,Alexandre Folie,Niels Desein,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Belgium F6,3,Clay,R16,514,,1,6,Q,Niels Desein,Ivo Mijic,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Belgium F6,3,Clay,R32,514,1490,1,6,Q,Niels Desein,Kimmer Coppejans,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Belgium F5,3,Clay,QF,536,455,0,7,4,Julien Dubail,Niels Desein,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Belgium F5,3,Clay,R16,536,1170,1,7,WC,Niels Desein,Joris De Loore,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Belgium F5,3,Clay,R32,536,,1,7,WC,Niels Desein,Olaf De Weerdt,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Belgium F4,3,Hard,SF,553,515,0,6,5,Stefan Seifert,Niels Desein,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Belgium F4,3,Hard,QF,553,1414,1,6,Q,Niels Desein,Jonathan Milsztajn,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Belgium F4,3,Hard,R16,553,889,1,6,,Niels Desein,Jannick Lupescu,6-4 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Belgium F4,3,Hard,R32,553,835,1,6,,Niels Desein,Xander Spong,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Spain F24,3,Clay,SF,553,536,0,3,6,Enrico Burzi,Niels Desein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Spain F24,3,Clay,QF,553,883,1,3,,Niels Desein,Maverick Banes,6-3 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Spain F24,3,Clay,R16,553,638,1,3,Q,Niels Desein,Mehdi Ziadi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Spain F24,3,Clay,R32,553,1351,1,3,WC,Niels Desein,Ivan Gomez Mantilla,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Netherlands F4,3,Clay,QF,441,636,0,,,Victor Baluda,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Netherlands F4,3,Clay,R16,441,750,1,,,Niels Desein,Jarryd Maher,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Netherlands F4,3,Clay,R32,441,1243,1,,WC,Niels Desein,Scott Griekspoor,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Netherlands F3,3,Clay,R16,441,533,0,,SE,Antal Van Der Duim,Niels Desein,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Netherlands F3,3,Clay,R32,441,,1,,Q,Niels Desein,Matthew Pierot,4-6 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Netherlands F2,3,Clay,R32,419,388,0,,5,Gerald Melzer,Niels Desein,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Romania F3,3,Clay,R16,422,,0,3,WC,Teodor Nicolae Marin,Niels Desein,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Romania F3,3,Clay,R32,422,607,1,3,,Niels Desein,Erik Crepaldi,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Italy F3,3,Clay,R32,381,514,0,4,,Morgan Phillips,Niels Desein,6-0 1-2 RET,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,France F5,3,Hard,R16,354,433,0,,,Nicolas Renavand,Niels Desein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,France F5,3,Hard,R32,354,633,1,,,Niels Desein,Julien Obry,3-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,France F4,3,Hard,R32,354,1234,0,7,Q,Emilien Firmin,Niels Desein,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2011,Cherbourg CH,3,Hard,R32,349,175,0,Q,,Roberto Bautista Agut,Niels Desein,6-2 6-2,0.61,6.5%,10.9%,63.0%,55.2%,35.3%,2/7,39.8%,31.9%,6.4%,27.6%,38.9%,1/4,93,3,5,46,29,17,3,1:01
+14-Feb-2011,Marseille Q,3,Hard,Q1,353,176,0,,,Ruben Bemelmans,Niels Desein,3-6 7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,France F3,3,Hard,R32,302,598,0,1,WC,Jiri Skoloudik,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2011,Germany F4,3,Carpet,R16,300,605,0,1,Q,Holger Fischer,Niels Desein,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2011,Germany F4,3,Carpet,R32,300,664,1,1,Q,Niels Desein,Michal Pazicky,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Germany F2,3,Hard,QF,299,289,0,6,4,Marius Copil,Niels Desein,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Germany F2,3,Hard,R16,299,510,1,6,,Niels Desein,Peter Torebko,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Germany F2,3,Hard,R32,299,774,1,6,Q,Niels Desein,Antal Van Der Duim,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Nigeria F2,3,Hard,R32,205,,0,1,WC,Terence Nugent,Niels Desein,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Nigeria F1,3,Hard,SF,202,352,0,1,3,Amir Weintraub,Niels Desein,2-6 7-5 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Nigeria F1,3,Hard,QF,202,526,1,1,6,Niels Desein,Ranjeet Virali Murugesan,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Nigeria F1,3,Hard,R16,202,,1,1,WC,Niels Desein,Samuel Omoile,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Nigeria F1,3,Hard,R32,202,,1,1,Q,Niels Desein,Tomer Hodorov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Rennes CH,3,Hard,R16,206,151,0,,,Conor Niland,Niels Desein,3-6 6-1 6-4,0.76,11.5%,11.5%,62.5%,66.7%,47.2%,4/7,46.6%,30.8%,9.0%,17.8%,48.5%,1/6,174,11,11,96,60,36,7,1:49
+11-Oct-2010,Rennes CH,3,Hard,R32,206,137,1,,8,Niels Desein,Ilija Bozoljac,5-7 6-3 7-6(2),1.03,6.9%,17.6%,60.8%,79.0%,47.5%,5/8,51.0%,34.4%,24.0%,22.0%,54.1%,4/6,198,7,18,102,62,40,23,2:10
+4-Oct-2010,France F17,3,Hard,R32,204,,0,3,Q,Medy Chettar,Niels Desein,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Netherlands F6,3,Clay,F,189,288,0,1,2,Matwe Middelkoop,Niels Desein,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Netherlands F6,3,Clay,SF,189,431,1,1,5,Niels Desein,Daniel Smethurst,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Netherlands F6,3,Clay,QF,189,842,1,1,,Niels Desein,Bart Brons,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Netherlands F6,3,Clay,R16,189,,1,1,Q,Niels Desein,Lennert Van Der Linden,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Netherlands F6,3,Clay,R32,189,1314,1,1,Q,Niels Desein,Sebastian Lavie,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,US Open Q,3,Hard,Q1,189,250,0,,,Alex Bogomolov Jr,Niels Desein,6-1 6-1,0.30,9.5%,31.0%,50.0%,71.4%,9.5%,1/6,30.3%,17.6%,11.8%,13.0%,27.3%,0/0,76,4,13,42,21,21,4,0:44
+9-Aug-2010,Istanbul CH,3,Hard,R32,180,1171,0,,WC,Haluk Akkoyun,Niels Desein,7-5 1-0 RET,0.80,5.6%,33.3%,41.7%,73.3%,23.8%,3/7,44.4%,44.4%,4.4%,34.3%,80.0%,3/5,81,2,12,36,15,21,2,1:04
+2-Aug-2010,Segovia CH,3,Hard,R32,178,157,0,,7,Ivan Navarro,Niels Desein,6-2 7-6(7),0.67,8.1%,23.3%,57.0%,75.5%,29.7%,7/10,44.9%,29.5%,19.7%,28.2%,31.8%,1/1,147,7,20,86,49,37,12,1:37
+26-Jul-2010,Germany F10,3,Clay,R32,167,485,0,1,,Jan Lennard Struff,Niels Desein,2-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2010,Recanati CH,3,Hard,R32,166,213,0,6,,Michael Lammer,Niels Desein,6-1 7-6(5),0.76,7.2%,9.6%,61.4%,64.7%,34.4%,4/8,45.6%,35.9%,14.1%,27.0%,48.1%,1/5,147,6,8,83,51,32,9,1:34
+5-Jul-2010,Pozoblanco CH,3,Hard,QF,179,110,0,8,3,Ruben Ramirez Hidalgo,Niels Desein,6-3 6-0,0.42,9.1%,16.4%,58.2%,59.4%,34.8%,7/11,37.1%,21.4%,9.5%,22.7%,20.0%,0/0,97,5,9,55,32,23,4,1:06
+5-Jul-2010,Pozoblanco CH,3,Hard,R16,179,546,1,8,Q,Niels Desein,Pablo Martin Adalia,6-2 6-3,1.61,13.0%,7.4%,61.1%,87.9%,47.6%,0/0,58.0%,44.8%,5.2%,35.3%,58.3%,3/8,112,7,4,54,33,21,3,1:12
+5-Jul-2010,Pozoblanco CH,3,Hard,R32,179,274,1,8,,Niels Desein,Marius Copil,4-6 6-3 6-4,1.21,7.7%,10.6%,54.8%,82.5%,46.8%,11/13,53.3%,40.7%,21.3%,22.4%,70.7%,3/9,212,8,11,104,57,47,23,2:12
+28-Jun-2010,Spain F23,3,Hard,F,,,0,1,2,Ruben Bemelmans,Niels Desein,4-6 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Spain F23,3,Hard,SF,,,1,1,3,Niels Desein,Alexander Kudryavtsev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Spain F23,3,Hard,QF,,,1,1,,Niels Desein,Miliaan Niesten,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Spain F23,3,Hard,R16,,,1,1,,Niels Desein,Sebastian Serrano,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Spain F23,3,Hard,R32,,,1,1,,Niels Desein,Marc Fornell Mestres,7-5 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Wimbledon Q,3,Grass,Q1,183,233,0,,,Alexandre Sidorenko,Niels Desein,7-6(0) 7-6(3),0.75,9.3%,4.0%,65.3%,77.6%,46.2%,1/2,46.3%,25.0%,11.1%,21.8%,35.3%,1/2,147,7,3,75,49,26,8,1:19
+13-Jun-2010,s-Hertogenbosch Q,3,Grass,Q3,190,167,0,5,4,Kristof Vliegen,Niels Desein,6-3 6-4,0.69,10.0%,10.0%,61.7%,70.3%,34.8%,0/3,43.3%,30.0%,10.0%,20.6%,42.3%,1/3,120,6,6,60,37,23,6,1:09
+13-Jun-2010,s-Hertogenbosch Q,3,Grass,Q2,190,866,1,5,,Niels Desein,Alexandre Renard,6-3 6-2,1.27,10.7%,10.7%,48.2%,77.8%,51.7%,3/4,55.0%,45.5%,10.9%,34.6%,55.2%,4/8,111,6,6,56,27,29,6,1:01
+7-Jun-2010,Halle Q,3,Grass,Q2,185,233,0,5,,Alexander Kudryavtsev,Niels Desein,7-6(8) 6-4,0.95,8.0%,5.3%,64.0%,81.3%,44.4%,3/4,47.6%,30.3%,9.0%,23.4%,38.1%,0/7,164,6,4,75,48,27,8,1:29
+7-Jun-2010,Halle Q,3,Grass,Q1,185,305,1,5,,Niels Desein,Vasek Pospisil,6-2 6-4,1.39,14.0%,7.0%,63.2%,69.4%,66.7%,4/4,56.1%,43.9%,10.5%,37.1%,54.5%,3/4,114,8,4,57,36,21,6,1:03
+31-May-2010,Nottingham CH,3,Grass,R32,179,110,0,,6,Jesse Levine,Niels Desein,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Roland Garros Q,3,Clay,Q1,179,226,0,,,Jorge Aguilar,Niels Desein,6-4 6-2,0.82,1.6%,8.1%,69.4%,58.1%,21.1%,2/8,45.2%,43.4%,3.8%,32.4%,63.2%,3/5,115,1,5,62,43,19,2,1:17
+10-May-2010,Biella CH,3,Clay,R16,178,145,0,,8,Pablo Andujar,Niels Desein,6-2 6-4,0.55,1.3%,6.5%,55.8%,65.1%,44.1%,8/11,43.7%,24.5%,12.2%,21.4%,28.6%,0/1,126,1,5,77,43,34,6,1:24
+10-May-2010,Biella CH,3,Clay,R32,178,235,1,,,Niels Desein,Michael Lammer,2-6 6-3 6-2,1.04,5.7%,7.1%,60.0%,78.6%,46.4%,1/3,50.3%,35.6%,6.8%,23.7%,48.6%,3/7,143,4,5,70,42,28,5,1:34
+3-May-2010,Cairo CH,3,Clay,R16,184,431,0,5,WC,Sherif Sabry,Niels Desein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Cairo CH,3,Clay,R32,184,309,1,5,,Niels Desein,Juan Pablo Amado,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Athens CH,3,Hard,R32,178,200,0,,,Yuichi Sugita,Niels Desein,6-4 6-4,0.66,2.8%,11.1%,58.3%,57.1%,56.7%,10/13,44.8%,28.3%,0.0%,25.0%,35.3%,1/1,125,2,8,72,42,30,0,1:17
+12-Apr-2010,Johannesburg CH,3,Hard,R16,180,161,0,,,Nicolas Mahut,Niels Desein,6-3 4-6 6-3,0.73,13.5%,13.5%,57.3%,80.0%,36.6%,10/13,46.8%,28.0%,26.7%,18.9%,50.0%,1/2,171,13,13,96,55,41,20,1:52
+12-Apr-2010,Johannesburg CH,3,Hard,R32,180,238,1,,,Niels Desein,Konstantin Kravchuk,6-3 4-6 6-4,1.08,3.0%,14.9%,55.4%,75.0%,35.6%,8/13,51.8%,45.8%,5.2%,34.8%,56.0%,6/9,197,3,15,101,56,45,5,2:20
+5-Apr-2010,Monza CH,3,Clay,R32,182,96,0,,1,Daniel Brands,Niels Desein,6-2 6-7(2) 7-6(6),0.79,8.6%,12.1%,61.2%,70.4%,37.8%,7/12,46.7%,33.3%,18.8%,29.4%,42.9%,3/5,212,10,14,116,71,45,18,2:02
+22-Mar-2010,Jersey CH,3,Hard,R32,183,234,0,6,,Conor Niland,Niels Desein,6-1 6-4,0.45,9.1%,11.4%,61.4%,66.7%,41.2%,2/5,37.8%,19.6%,19.6%,13.8%,29.4%,0/0,90,4,5,44,27,17,9,0:59
+15-Mar-2010,France F5,3,Hard,QF,,,0,2,7,Ruben Bemelmans,Niels Desein,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,France F5,3,Hard,R16,,,1,2,Q,Niels Desein,Nicolas Grammare,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,France F5,3,Hard,R32,,,1,2,,Niels Desein,Romain Jouan,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,France F4,3,Hard,F,187,278,0,1,3,Ruben Bemelmans,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,France F4,3,Hard,SF,187,379,1,1,,Niels Desein,Denis Matsukevitch,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,France F4,3,Hard,QF,187,642,1,1,,Niels Desein,Nicolas Renavand,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,France F4,3,Hard,R16,187,947,1,1,Q,Niels Desein,Frederic De Fays,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,France F4,3,Hard,R32,187,887,1,1,,Niels Desein,Alexandre Renard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2010,Cherbourg CH,3,Hard,R16,191,125,0,,2,Josselin Ouanna,Niels Desein,6-7(2) 6-1 6-4,0.70,20.5%,6.0%,54.2%,86.7%,44.7%,0/3,45.2%,22.9%,32.5%,11.1%,44.8%,0/3,166,17,5,83,45,38,27,1:30
+1-Mar-2010,Cherbourg CH,3,Hard,R32,191,188,1,,,Niels Desein,Raemon Sluiter,4-6 6-3 6-1,1.36,15.7%,5.7%,55.7%,82.1%,64.5%,1/2,55.1%,34.8%,10.6%,23.9%,60.0%,4/4,136,11,4,70,39,31,7,1:17
+15-Feb-2010,Marseille Q,3,Hard,Q1,197,192,0,,,Ruben Bemelmans,Niels Desein,7-6(7) 6-3,0.52,9.3%,8.0%,54.7%,68.3%,47.1%,2/3,42.2%,21.7%,21.7%,21.7%,21.4%,0/0,135,7,6,75,41,34,13,1:16
+1-Feb-2010,Germany F4,3,Carpet,F,215,442,1,2,6,Niels Desein,Thomas Schoorel,6-7(2) 7-6(3) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Germany F4,3,Carpet,SF,215,1237,1,2,Q,Niels Desein,Florin Mergea,3-6 7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Germany F4,3,Carpet,QF,215,617,1,2,,Niels Desein,Patrick Taubert,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Germany F4,3,Carpet,R16,215,622,1,2,,Niels Desein,Ervin Eleskovic,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Germany F4,3,Carpet,R32,215,646,1,2,,Niels Desein,Colin Obrien,6-7(3) 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,Germany F3,3,Carpet,R32,,,0,1,Q,Daniel Danilovic,Niels Desein,4-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Jan-2010,Great Britain F2,3,Hard,R32,208,671,0,2,Q,Ervin Eleskovic,Niels Desein,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,QF,225,667,0,,Q,Robin Haase,Niels Desein,6-4 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,R16,225,153,1,,,Niels Desein,Dustin Brown,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,R32,225,149,1,,,Niels Desein,Lukas Rosol,7-6(4) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Aachen CH,3,Carpet,R16,262,106,0,,3,Daniel Brands,Niels Desein,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Aachen CH,3,Carpet,R32,262,331,1,,,Niels Desein,Jerzy Janowicz,7-5 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Senegal F2,3,Hard,F,297,365,1,1,3,Niels Desein,Claudio Grassi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Senegal F2,3,Hard,SF,297,876,1,1,,Niels Desein,Radu Albot,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Senegal F2,3,Hard,QF,297,641,1,1,8,Niels Desein,Valentin Sanon,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Senegal F2,3,Hard,R16,297,1327,1,1,,Niels Desein,Anders Lindstrom,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Senegal F2,3,Hard,R32,297,959,1,1,,Niels Desein,Tony Holzinger,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Senegal F1,3,Hard,F,299,625,1,1,,Niels Desein,Valentin Sanon,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Senegal F1,3,Hard,SF,299,328,1,1,3,Niels Desein,Reda El Amrani,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Senegal F1,3,Hard,QF,299,583,1,1,7,Niels Desein,Peter Lucassen,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Senegal F1,3,Hard,R16,299,953,1,1,,Niels Desein,Tony Holzinger,1-6 7-6(9) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Senegal F1,3,Hard,R32,299,,1,1,Q,Niels Desein,Romain Sichez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,France F19,3,Hard,F,244,844,1,1,Q,Niels Desein,Baptiste Dupuy,3-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,France F19,3,Hard,SF,244,678,1,1,WC,Niels Desein,Jeremy Blandin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,France F19,3,Hard,QF,244,598,1,1,,Niels Desein,Maxime Authom,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,France F19,3,Hard,R16,244,507,1,1,,Niels Desein,Phillip Simmonds,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,France F19,3,Hard,R32,244,483,1,1,,Niels Desein,Peter Gojowczyk,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Kolding CH,3,Hard,R16,218,225,0,,,Martin Fischer,Niels Desein,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Kolding CH,3,Hard,R32,218,249,1,,,Niels Desein,Philipp Oswald,4-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,F,226,276,1,2,4,Niels Desein,Yannick Mertens,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,SF,226,232,1,2,3,Niels Desein,Alexander Kudryavtsev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,QF,226,411,1,2,7,Niels Desein,Peter Gojowczyk,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,R16,226,727,1,2,Q,Niels Desein,Rudy Coco,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,France F14,3,Hard,R32,226,482,1,2,,Niels Desein,Thomas Oger,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,St. Remy CH,3,Hard,R32,221,84,0,,1,Bjorn Phau,Niels Desein,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open Q,3,Hard,Q1,221,126,0,,13,Daniel Brands,Niels Desein,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Geneva CH,3,Clay,R32,222,318,0,7,,Benjamin Balleret,Niels Desein,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Italy F23,3,Clay,QF,208,369,0,1,8,Louk Sorensen,Niels Desein,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Italy F23,3,Clay,R16,208,1155,1,1,Q,Niels Desein,Dinko Halachev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Italy F23,3,Clay,R32,208,,1,1,Q,Niels Desein,Claudio Fortuna,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Italy F20,3,Clay,F,211,384,1,1,7,Niels Desein,Francesco Aldi,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Italy F20,3,Clay,SF,211,546,1,1,,Niels Desein,Laurent Rochette,3-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Italy F20,3,Clay,QF,211,335,1,1,6,Niels Desein,Enrico Burzi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Italy F20,3,Clay,R16,211,1853,1,1,Q,Niels Desein,Nicola Ghedin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Italy F20,3,Clay,R32,211,825,1,1,,Niels Desein,Marco Bella,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Rimini CH,3,Clay,R32,217,188,0,,,Dieter Kindlmann,Niels Desein,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,San Benedetto CH,3,Clay,R32,224,244,0,,,Thierry Ascione,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Rijeka CH,3,Clay,R32,225,104,0,,2,Mathieu Montcourt,Niels Desein,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Kosice CH,3,Clay,R32,229,214,0,,8,Miguel Angel Lopez Jaen,Niels Desein,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Karlsruhe CH,3,Clay,QF,244,460,0,,Q,Dustin Brown,Niels Desein,2-6 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Karlsruhe CH,3,Clay,R16,244,153,1,,3,Niels Desein,Amer Delic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Karlsruhe CH,3,Clay,R32,244,1158,1,,Q,Niels Desein,Adam Chadaj,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q1,244,139,0,,24,Lamine Ouahab,Niels Desein,7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Italy F10,3,Clay,SF,250,272,0,2,3,Yannick Mertens,Niels Desein,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Italy F10,3,Clay,QF,250,864,1,2,,Niels Desein,Matteo Trevisan,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Italy F10,3,Clay,R16,250,683,1,2,,Niels Desein,Antonio Comporto,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Italy F10,3,Clay,R32,250,1232,1,2,WC,Niels Desein,Giorgio Portaluri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Sofia CH,3,Clay,R32,253,139,0,,7,Lukas Rosol,Niels Desein,6-4 4-2 DEF,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2009,Mexico City CH,3,Hard,R32,255,133,0,LL,6,Santiago Giraldo,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,San Luis Potosi CH,3,Clay,R32,256,309,0,,,Marcel Felder,Niels Desein,1-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,St. Brieuc CH,3,Clay,R16,254,217,0,,,Andrea Stoppini,Niels Desein,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,St. Brieuc CH,3,Clay,R32,254,266,1,,Q,Niels Desein,Carles Poch Gradin,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Caltanissetta CH,3,Clay,QF,258,184,0,,6,Jesse Huta Galung,Niels Desein,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Caltanissetta CH,3,Clay,R16,258,128,1,,1,Niels Desein,Adrian Mannarino,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Caltanissetta CH,3,Clay,R32,258,228,1,,,Niels Desein,Thierry Ascione,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Portugal F2,3,Hard,R16,258,541,0,1,,David Canudas Fernandez,Niels Desein,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Portugal F2,3,Hard,R32,258,1139,1,1,WC,Niels Desein,Tony Holzinger,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,Portugal F1,3,Hard,R32,260,551,0,1,,Aleksander Slovic,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Wolfsburg CH,3,Carpet,R32,258,263,0,,,Michel Koning,Niels Desein,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,France F2,3,Hard,R32,254,709,0,2,LL,Maxime Authom,Niels Desein,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open Q,3,Hard,Q2,255,246,0,,,Marc Lopez,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open Q,3,Hard,Q1,255,239,1,,,Niels Desein,Dusan Vemic,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Auckland Q,3,Hard,Q1,254,253,0,,,Colin Ebelthite,Niels Desein,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Aachen CH,3,Carpet,QF,254,373,0,Q,Q,Andis Juska,Niels Desein,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Aachen CH,3,Carpet,R16,254,173,1,Q,,Niels Desein,Karol Beck,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Aachen CH,3,Carpet,R32,254,181,1,Q,,Niels Desein,Lukas Rosol,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,France F19,3,Hard,F,330,334,1,7,8,Niels Desein,Pavol Cervenak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,France F19,3,Hard,SF,330,331,1,7,,Niels Desein,Mathieu Rodrigues,4-6 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,France F19,3,Hard,QF,330,188,1,7,1,Niels Desein,David Guez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,France F19,3,Hard,R16,330,359,1,7,,Niels Desein,Romain Jouan,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,France F19,3,Hard,R32,330,,1,7,Q,Niels Desein,Paterne Mamata,6-7(2) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,France F18,3,Hard,F,334,548,1,2,,Niels Desein,Vincent Millot,6-7(1) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,France F18,3,Hard,SF,334,358,1,2,3,Niels Desein,Guillermo Alcaide,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,France F18,3,Hard,QF,334,1406,1,2,Q,Niels Desein,Dorian Descloix,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,France F18,3,Hard,R16,334,578,1,2,,Niels Desein,Pierrick Ysern,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,France F18,3,Hard,R32,334,919,1,2,,Niels Desein,Navdeep Singh,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Grenoble CH,3,Hard,R32,325,204,0,Q,,Joshua Goodall,Niels Desein,4-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,F,391,390,0,4,6,Michael Lammer,Niels Desein,6-7(4) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,SF,391,528,1,4,Q,Niels Desein,Pierrick Ysern,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,QF,391,426,1,4,7,Niels Desein,Dustin Brown,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,R16,391,960,1,4,Q,Niels Desein,Kevin Botti,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,France F14,3,Hard,R32,391,1169,1,4,WC,Niels Desein,Jerome Inzerillo,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,France F13,3,Hard,SF,,,0,,3,Martin Fischer,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,France F13,3,Hard,QF,,,1,,Q,Niels Desein,Agustin Boje Ordonez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,France F13,3,Hard,R16,,,1,,2,Niels Desein,Sebastien De Chaunac,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,France F13,3,Hard,R32,,,1,,PR,Niels Desein,Pierrick Ysern,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Italy F28,3,Hard,SF,375,283,0,4,2,Thomas Oger,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Italy F28,3,Hard,QF,375,1084,1,4,,Niels Desein,Andrea Agazzi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Italy F28,3,Hard,R16,375,,1,4,Q,Niels Desein,Lorenzo Giustino,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Italy F28,3,Hard,R32,375,1021,1,4,WC,Niels Desein,Matteo Trevisan,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Senegal F2,3,Hard,F,415,393,1,2,1,Niels Desein,Pierre Ludovic Duclos,3-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Senegal F2,3,Hard,SF,415,450,1,2,3,Niels Desein,Benjamin Balleret,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Senegal F2,3,Hard,QF,415,626,1,2,6,Niels Desein,Mikhail Vasiliev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Senegal F2,3,Hard,R16,415,,1,2,Q,Niels Desein,Dmitry Sventitsky,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Senegal F2,3,Hard,R32,415,,1,2,Q,Niels Desein,Mamadou Akilissou Diallo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Senegal F1,3,Hard,F,423,394,0,2,1,Pierre Ludovic Duclos,Niels Desein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Senegal F1,3,Hard,SF,423,539,1,2,4,Niels Desein,Valentin Sanon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Senegal F1,3,Hard,QF,423,627,1,2,6,Niels Desein,Mikhail Vasiliev,6-7(5) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Senegal F1,3,Hard,R16,423,1503,1,2,,Niels Desein,James Ludlow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Senegal F1,3,Hard,R32,423,1296,1,2,,Niels Desein,Aboubacar Sigue,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Manchester CH,3,Grass,R32,357,396,0,,,Massimo Dellacqua,Niels Desein,7-5 7-6(0),,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Ramat Hasharon CH,3,Hard,R16,373,345,0,,,Ivo Klec,Niels Desein,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Ramat Hasharon CH,3,Hard,R32,373,203,1,,5,Niels Desein,Pavel Snobel,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Netherlands F3,3,Clay,QF,373,342,0,,,Jeroen Masson,Niels Desein,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Netherlands F3,3,Clay,R16,373,340,1,,6,Niels Desein,Diego Veronelli,6-3 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Netherlands F3,3,Clay,R32,373,1396,1,,Q,Niels Desein,Romano Frantzen,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Netherlands F2,3,Clay,R16,374,654,0,2,,Gero Kretschmer,Niels Desein,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Netherlands F2,3,Clay,R32,374,1292,1,2,Q,Niels Desein,Roel Oostdam,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Netherlands F1,3,Clay,R32,381,,0,2,Q,Stephane Robert,Niels Desein,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bradenton CH,3,Clay,R32,380,247,0,,,Frederic Niemeyer,Niels Desein,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Tunica Resorts CH,3,Clay,R32,347,200,0,,8,Alex Bogomolov Jr,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,USA F9,3,Clay,QF,340,425,0,4,6,Luka Gregorc,Niels Desein,7-6(5) 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,USA F9,3,Clay,R16,340,878,1,4,Q,Niels Desein,Adam El Mihdawy,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,USA F9,3,Clay,R32,340,1181,1,4,Q,Niels Desein,Hyung Kwon Kim,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2008,France F6,3,Clay,R32,340,818,0,8,Q,Benjamin Dracos,Niels Desein,1-6 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Croatia F5,3,Clay,R16,334,565,0,5,,Petar Popovic,Niels Desein,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Croatia F5,3,Clay,R32,334,990,1,5,Q,Niels Desein,Vilim Visak,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Croatia F4,3,Clay,R16,,,0,3,,David Savic,Niels Desein,3-6 7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Croatia F4,3,Clay,R32,,1218,1,3,WC,Niels Desein,Petar Jelenic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Morocco F2,3,Clay,R32,329,251,0,,5,Predrag Rusevski,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Morocco F1,3,Clay,R32,334,425,0,5,,Illya Marchenko,Niels Desein,2-6 6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+4-Feb-2008,France F3,3,Hard,R16,335,466,0,4,,Jonathan Eysseric,Niels Desein,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Feb-2008,France F3,3,Hard,R32,335,552,1,4,,Niels Desein,Mehdi Ziadi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,France F2,3,Hard,R32,357,408,0,8,,Stefan Wauters,Niels Desein,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,France F1,3,Clay,F,,,1,3,1,Niels Desein,Catalin Ionut Gard,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,France F1,3,Clay,SF,,,1,3,,Niels Desein,Alexandre Renard,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,France F1,3,Clay,QF,,,1,3,WC,Niels Desein,Guillaume Legat,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,France F1,3,Clay,R16,,1273,1,3,Q,Niels Desein,Nicolas Grammare,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,France F1,3,Clay,R32,,,1,3,Q,Niels Desein,Nicolas Ebran,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,F,372,470,0,3,4,Ruben Bemelmans,Niels Desein,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,SF,372,738,1,3,,Niels Desein,Chris Eaton,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,QF,372,585,1,3,8,Niels Desein,Syrym Abdukhalikov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,R16,372,723,1,3,,Niels Desein,Idan Mark,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,R32,372,619,1,3,,Niels Desein,Lazar Magdincev,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Great Britain F22,3,Hard,R32,382,575,0,8,,Massimo Dellacqua,Niels Desein,6-3 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Great Britain F21,3,Hard,QF,383,497,0,6,,Jeroen Masson,Niels Desein,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Great Britain F21,3,Hard,R16,383,922,1,6,Q,Niels Desein,Andrei Karatchenia,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Great Britain F21,3,Hard,R32,383,448,1,6,,Niels Desein,Deniss Pavlovs,2-1 RET,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Great Britain F19,3,Hard,R16,375,637,0,5,,Yannick Mertens,Niels Desein,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Great Britain F19,3,Hard,R32,375,1274,1,5,Q,Niels Desein,Joshua Milton,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Mons CH,3,Hard,R32,375,57,0,WC,1,Ernests Gulbis,Niels Desein,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,France F14,3,Hard,QF,396,382,0,,,Andrew Coelho,Niels Desein,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,France F14,3,Hard,R16,396,401,1,,,Niels Desein,Josselin Ouanna,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,France F14,3,Hard,R32,396,217,1,,2,Niels Desein,Jerome Haehnel,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Como CH,3,Clay,R16,404,138,0,Q,4,Mathieu Montcourt,Niels Desein,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Como CH,3,Clay,R32,404,252,1,Q,,Niels Desein,Catalin Gard,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Italy F28,3,Clay,R16,393,1111,0,,PR,Rui Machado,Niels Desein,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Italy F28,3,Clay,R32,393,328,1,,1,Niels Desein,Giancarlo Petrazzuolo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Italy F27,3,Clay,QF,401,497,0,8,,Diego Alvarez,Niels Desein,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Italy F27,3,Clay,R16,401,621,1,8,WC,Niels Desein,Thomas Fabbiano,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Italy F27,3,Clay,R32,401,1507,1,8,Q,Niels Desein,Vittorio Rubino,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Germany F12,3,Clay,QF,424,564,0,1,8,Boy Westerhof,Niels Desein,W/O,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Germany F12,3,Clay,R16,424,1386,1,1,Q,Niels Desein,Dean Jackson,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Germany F12,3,Clay,R32,424,,1,1,WC,Niels Desein,Jonas Luetjen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Germany F11,3,Clay,F,418,521,0,1,2,Alexander Flock,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Germany F11,3,Clay,SF,418,752,1,1,,Niels Desein,Marc Sieber,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Germany F11,3,Clay,QF,418,690,1,1,8,Niels Desein,Stefan Seifert,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Germany F11,3,Clay,R16,418,1154,1,1,,Niels Desein,Peter Torebko,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Germany F11,3,Clay,R32,418,1194,1,1,,Niels Desein,Vedran Siljegovic,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Cuenca CH,3,Clay,SF,452,222,0,,1,Leonardo Mayer,Niels Desein,7-6(1) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Cuenca CH,3,Clay,QF,452,309,1,,4,Niels Desein,Michael Quintero,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Cuenca CH,3,Clay,R16,452,373,1,,5,Niels Desein,Razvan Sabau,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Cuenca CH,3,Clay,R32,452,1167,1,,Q,Niels Desein,Luigi Dagord,6-3 6-7(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Bogota CH,3,Clay,R32,455,520,0,,LL,Joao Souza,Niels Desein,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Netherlands F2,3,Clay,QF,459,306,0,8,1,Julian Reister,Niels Desein,6-4 6-7(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Netherlands F2,3,Clay,R16,459,1247,1,8,WC,Niels Desein,Michel Meijer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Netherlands F2,3,Clay,R32,459,,1,8,Q,Niels Desein,Vladimir Karusevich,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,France F8,3,Clay,R32,440,535,0,8,,Trystan Meniane,Niels Desein,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Germany F5,3,Clay,R32,439,282,0,,4,Daniel Gimeno Traver,Niels Desein,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Romania F2,3,Clay,R32,486,906,0,4,,Alexandru Raul Lazar,Niels Desein,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,F,486,903,1,4,,Niels Desein,Martin Klizan,7-6(3) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,SF,486,674,1,4,,Niels Desein,Andrei Mlendea,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,QF,486,742,1,4,,Niels Desein,Ivan Sergeyev,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,R16,486,733,1,4,,Niels Desein,Matteo Volante,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,R32,486,1498,1,4,WC,Niels Desein,Nicolas Reissig,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Spain F15,3,Clay,QF,493,415,0,8,4,Miguel Angel Lopez Jaen,Niels Desein,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Spain F15,3,Clay,R16,493,924,1,8,SE,Niels Desein,Rafael Arevalo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Spain F15,3,Clay,R32,493,1504,1,8,WC,Niels Desein,Inigo Cervantes Huegun,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Portugal F3,3,Hard,F,,1525,0,4,Q,Ricardas Berankis,Niels Desein,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Portugal F3,3,Hard,SF,,,1,4,,Niels Desein,Guillermo Alcaide,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Portugal F3,3,Hard,QF,,,1,4,,Niels Desein,Alexander Yarmola,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Portugal F3,3,Hard,R16,,,1,4,,Niels Desein,Alexander Slabinsky,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Portugal F3,3,Hard,R32,,,1,4,,Niels Desein,Tiago Lopes,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Portugal F2,3,Hard,R32,532,553,0,,,Franco Skugor,Niels Desein,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Great Britain F3,3,Hard,R16,549,347,0,,6,Frederik Nielsen,Niels Desein,7-6(4) 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Great Britain F3,3,Hard,R32,549,1243,1,,LL,Niels Desein,Antoine Benneteau,7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2007,France F3,3,Hard,R16,545,235,0,Q,1,Thierry Ascione,Niels Desein,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2007,France F3,3,Hard,R32,545,513,1,Q,,Niels Desein,Phil Stolt,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Germany F3,3,Carpet,QF,,,0,8,Q,Benjamin Ebrahimzadeh,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Germany F3,3,Carpet,R16,,1058,1,8,WC,Niels Desein,Peter Torebko,5-7 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Germany F3,3,Carpet,R32,,1217,1,8,Q,Niels Desein,Christian Haupt,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Tunisia F5,3,Hard,R32,584,714,0,,Q,Franco Skugor,Niels Desein,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Tunisia F4,3,Hard,SF,585,373,0,6,2,Mohamed Mamoun,Niels Desein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Tunisia F4,3,Hard,QF,585,721,1,6,,Niels Desein,Adrian Gavrila,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Tunisia F4,3,Hard,R16,585,1260,1,6,Q,Niels Desein,Jonathan Hilaire,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Tunisia F4,3,Hard,R32,585,840,1,6,LL,Niels Desein,Jacob Melskens,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Nottingham CH,3,Hard,R32,603,137,0,Q,6,Yen Hsun Lu,Niels Desein,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Great Britain F15,3,Hard,R32,606,529,0,,,Daniel King Turner,Niels Desein,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Netherlands F5,3,Clay,R32,645,367,0,,1,Joseph Sirianni,Niels Desein,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Netherlands F4,3,Clay,SF,703,260,0,,1,Robin Haase,Niels Desein,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Netherlands F4,3,Clay,QF,703,441,1,,5,Niels Desein,Nick Van Der Meer,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Netherlands F4,3,Clay,R16,703,440,1,,4,Niels Desein,Trystan Meniane,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Netherlands F4,3,Clay,R32,703,1447,1,,WC,Niels Desein,Peter Lucassen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Germany F12,3,Clay,SF,730,642,0,,Q,Alexandre Renard,Niels Desein,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Germany F12,3,Clay,QF,730,475,1,,4,Niels Desein,Julian Reister,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Germany F12,3,Clay,R16,730,1066,1,,,Niels Desein,Robin Brage,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Germany F12,3,Clay,R32,730,568,1,,6,Niels Desein,Photos Kallias,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Germany F11,3,Clay,QF,691,,0,,Q,Nikolai Soloviev,Niels Desein,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Germany F11,3,Clay,R16,691,472,1,,2,Niels Desein,Dustin Brown,W/O,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Germany F11,3,Clay,R32,691,1441,1,,Q,Niels Desein,Mark Joachim,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Belgium F2,3,Clay,R16,729,506,0,,7,Nicolas Todero,Niels Desein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Belgium F2,3,Clay,R32,729,536,1,,,Niels Desein,Olivier Vandewiele,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Belgium F1,3,Clay,R16,945,493,0,,6,Lukas Rosol,Niels Desein,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Belgium F1,3,Clay,R32,945,1075,1,,Q,Niels Desein,Clement Reix,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Germany F8,3,Clay,F,773,483,1,7,3,Niels Desein,Lukas Rosol,2-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Germany F8,3,Clay,SF,773,835,1,7,,Niels Desein,Markus Egger,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Germany F8,3,Clay,QF,773,1276,1,7,Q,Niels Desein,Mathieu Guenat,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Germany F8,3,Clay,R16,773,1025,1,7,WC,Niels Desein,Peter Gojowczyk,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Germany F8,3,Clay,R32,773,,1,7,WC,Niels Desein,Tobias Wernet,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Netherlands F3,3,Clay,R32,774,543,0,,5,Michel Koning,Niels Desein,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Tunisia F3,3,Clay,SF,838,308,0,,1,David Guez,Niels Desein,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Tunisia F3,3,Clay,QF,838,557,1,,6,Niels Desein,Peter Mayer Tischer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Tunisia F3,3,Clay,R16,838,494,1,,3,Niels Desein,Carlos Rexach Itoiz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Tunisia F3,3,Clay,R32,838,683,1,,,Niels Desein,Rabie Chaki,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Tunisia F2,3,Clay,R32,,,0,,,Mehdi Ziadi,Niels Desein,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Tunisia F1,3,Clay,QF,904,918,0,,,Dusan Lojda,Niels Desein,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Tunisia F1,3,Clay,R16,904,1369,1,,Q,Niels Desein,Daouda Ndiaye,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Tunisia F1,3,Clay,R32,904,630,1,,4,Niels Desein,Jordi Marse Vidri,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-May-2006,Spain F14,3,Clay,R32,906,600,0,Q,Q,Antal Van Der Duim,Niels Desein,5-7 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Spain F13,3,Clay,R32,940,1413,0,Q,Q,David Canudas Fernandez,Niels Desein,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Apr-2006,Spain F12,3,Clay,QF,938,749,0,Q,,Igor Sijsling,Niels Desein,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2006,Spain F12,3,Clay,R16,938,396,1,Q,2,Niels Desein,Marc Fornell Mestres,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2006,Spain F12,3,Clay,R32,938,797,1,Q,Q,Niels Desein,Mariano Albert Ferrando,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Portugal F1,3,Hard,R32,,,0,,,Matwe Middelkoop,Niels Desein,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,Israel F2,3,Hard,R32,912,784,0,,,Clement Morel,Niels Desein,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Israel F1,3,Hard,R32,912,237,0,,1,Amir Hadad,Niels Desein,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,France F1,3,Clay,R32,,1259,0,Q,Q,Jonathan Hilaire,Niels Desein,7-6(3) 1-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Belgium F1,3,Hard,R32,911,525,0,WC,Q,Denis Matsukevitch,Niels Desein,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Italy F25,3,Clay,R32,906,669,0,,,Daniel Monedero,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,QF,908,499,0,,2,Alberto Brizzi,Niels Desein,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,R16,908,624,1,,6,Niels Desein,Tommaso Sanna,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,R32,908,1243,1,,Q,Niels Desein,Andrea Serra,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Great Britain F8,3,Grass,F,1487,404,0,Q,1,Nicolas Tourte,Niels Desein,6-7(5) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Great Britain F8,3,Grass,SF,1487,761,1,Q,8,Niels Desein,Tom Rushby,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Great Britain F8,3,Grass,QF,1487,1128,1,Q,,Niels Desein,David Corrie,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Great Britain F8,3,Grass,R16,1487,883,1,Q,,Niels Desein,Richard Irwin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Great Britain F8,3,Grass,R32,1487,805,1,Q,7,Niels Desein,Ross Hutchins,4-2 3-5 4-1,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2004,Belgium F1,3,Carpet,R16,,278,0,Q,2,Simone Bolelli,Niels Desein,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2004,Belgium F1,3,Carpet,R32,,906,1,Q,Q,Niels Desein,Julien Maigret,6-7(4) 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,

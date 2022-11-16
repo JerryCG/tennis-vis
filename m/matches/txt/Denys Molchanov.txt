@@ -1,0 +1,635 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+11-Oct-2021,Villena CH,3,Hard,Q1,,1049,0,Alt,WC,Daniel Rincon,Denys Molchanov,6-4 7-5,0.73,0.0%,4.7%,62.5%,62.5%,50.0%,2/5,44.4%,30.6%,3.2%,28.0%,41.7%,1/2,126,0,3,64,40,24,2,1:16
+14-May-2018,Heilbronn CH,3,Clay,Q2,574,380,0,,4,Daniel Masur,Denys Molchanov,6-3 6-3,0.56,4.9%,4.9%,65.6%,60.0%,52.4%,5/8,42.3%,24.0%,0.0%,23.1%,25.0%,0/4,111,3,3,61,40,21,0,1:06
+14-May-2018,Heilbronn CH,3,Clay,Q1,574,,1,,,Denys Molchanov,Igor Zelenay,W/O,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Barletta CH,3,Clay,Q1,530,360,0,,,Alexandre Muller,Denys Molchanov,6-0 6-0,0.41,2.1%,4.3%,55.3%,50.0%,19.0%,4/10,32.1%,26.5%,5.9%,25.0%,30.0%,0/0,81,1,2,47,26,21,2,0:43
+5-Mar-2018,Zhuhai CH,3,Hard,Q1,522,626,0,,,Yecong He,Denys Molchanov,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Kazakhstan F2,3,Hard,QF,623,404,0,,,Sanjar Fayziev,Denys Molchanov,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Kazakhstan F2,3,Hard,R16,623,342,1,,2,Denys Molchanov,Ti Chen,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Kazakhstan F2,3,Hard,R32,623,663,1,,,Denys Molchanov,Daniiar Duldaev,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Kazakhstan F1,3,Hard,F,626,794,0,,,Mikhail Fufygin,Denys Molchanov,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Kazakhstan F1,3,Hard,SF,626,231,1,,,Denys Molchanov,Aleksandr Nedovyesov,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Kazakhstan F1,3,Hard,QF,626,587,1,,8,Denys Molchanov,Denis Yevseyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Kazakhstan F1,3,Hard,R16,626,405,1,,,Denys Molchanov,Sanjar Fayziev,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Kazakhstan F1,3,Hard,R32,626,812,1,,,Denys Molchanov,Matej Sabanov,3-6 7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Bratislava CH,3,Hard,Q2,559,363,0,,5,Dzmitry Zhyrmont,Denys Molchanov,6-3 2-2 RET,0.68,5.0%,7.5%,67.5%,66.7%,69.2%,2/3,46.1%,22.2%,8.3%,18.5%,33.3%,0/0,76,2,3,40,27,13,3,0:48
+6-Nov-2017,Bratislava CH,3,Hard,Q1,559,,1,,WC,Denys Molchanov,David Juras,6-4 3-6 6-2,1.18,8.6%,1.2%,61.7%,72.0%,58.1%,4/6,52.4%,39.3%,5.6%,34.3%,54.5%,4/4,170,7,1,81,50,31,5,1:30
+30-Oct-2017,Eckental CH,3,Hard,Q2,559,156,0,,2,Kenny De Schepper,Denys Molchanov,6-3 6-0,0.44,4.5%,9.1%,54.5%,58.3%,35.0%,2/6,34.8%,22.9%,12.5%,23.7%,20.0%,0/4,92,2,4,44,24,20,6,0:50
+30-Oct-2017,Eckental CH,3,Hard,Q1,559,714,1,,,Denys Molchanov,Antoine Bellier,7-5 6-4,1.25,10.3%,7.4%,64.7%,84.1%,37.5%,6/7,53.1%,40.5%,6.3%,30.9%,62.5%,3/8,147,7,5,68,44,24,5,1:19
+9-Oct-2017,Tashkent  CH,3,Hard,R16,587,105,0,Q,4,Guillermo Garcia Lopez,Denys Molchanov,7-5 6-1,0.58,5.0%,5.0%,55.0%,60.6%,51.9%,2/6,42.0%,25.0%,1.9%,18.5%,32.0%,0/3,112,3,3,60,33,27,1,1:09
+9-Oct-2017,Tashkent  CH,3,Hard,R32,587,990,1,Q,WC,Denys Molchanov,Khumoyun Sultanov,6-4 5-7 6-4,1.01,13.1%,4.0%,54.5%,68.5%,48.9%,6/10,49.5%,40.7%,8.0%,29.0%,54.9%,5/13,212,13,4,99,54,45,9,2:16
+9-Oct-2017,Tashkent  CH,3,Hard,Q3,587,365,1,7,4,Denys Molchanov,Alexander Lazov,6-1 6-2,1.84,4.7%,0.0%,65.1%,85.7%,40.0%,0/1,61.9%,55.6%,1.9%,47.2%,72.2%,5/11,97,2,0,43,28,15,1,1:02
+9-Oct-2017,Tashkent  CH,3,Hard,Q2,587,,1,7,WC,Denys Molchanov,Sanetulla Kutybaev,6-1 6-0,2.58,5.6%,8.3%,52.8%,78.9%,76.5%,0/0,65.6%,57.4%,0.0%,55.9%,60.0%,5/10,90,2,3,36,19,17,0,0:43
+9-Oct-2017,Tashkent  CH,3,Hard,Q1,587,1654,1,7,,Denys Molchanov,Nigmat Shofayziev,6-2 6-2,1.64,3.6%,1.8%,58.9%,72.7%,60.9%,8/8,60.2%,52.6%,5.3%,47.4%,63.2%,4/7,113,2,1,56,33,23,3,1:02
+2-Oct-2017,Almaty CH,3,Clay,R32,608,462,0,Q,WC,Alex Molcan,Denys Molchanov,6-2 6-1,0.50,3.9%,5.9%,58.8%,43.3%,47.6%,4/9,37.4%,27.5%,5.0%,23.8%,31.6%,0/1,91,2,3,51,30,21,2,0:49
+2-Oct-2017,Almaty CH,3,Clay,Q3,608,372,1,8,2,Denys Molchanov,Vladyslav Manafov,6-2 6-4,1.47,7.3%,3.6%,50.9%,75.0%,59.3%,1/2,58.1%,48.0%,2.0%,40.0%,56.0%,4/7,105,4,2,55,28,27,1,1:10
+2-Oct-2017,Almaty CH,3,Clay,Q2,608,827,1,8,,Denys Molchanov,Daniiar Duldaev,6-4 6-0,2.30,7.9%,7.9%,57.9%,86.4%,62.5%,0/1,62.3%,54.4%,1.5%,55.3%,53.3%,5/14,106,3,3,38,22,16,1,1:03
+2-Oct-2017,Almaty CH,3,Clay,Q1,608,,1,8,WC,Denys Molchanov,Sultan Narbekov,6-4 6-4,1.11,0.0%,2.9%,48.6%,67.6%,52.8%,3/5,52.7%,44.3%,0.0%,35.5%,53.3%,4/10,131,0,2,70,34,36,0,1:17
+4-Sep-2017,Ukraine F5,3,Clay,R16,597,379,0,3,Q,Ivan Nedelko,Denys Molchanov,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Ukraine F5,3,Clay,R32,597,1463,1,3,Q,Denys Molchanov,Sagadat Ayap,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Ukraine F4,3,Clay,R32,597,1240,0,4,WC,Vitaliy Sachko,Denys Molchanov,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Caltanissetta CH,3,Clay,Q3,585,235,0,,2,Matteo Berrettini,Denys Molchanov,6-2 6-2,0.52,0.0%,2.1%,48.9%,43.5%,54.2%,2/6,38.0%,26.7%,8.9%,17.4%,36.4%,0/3,92,0,1,47,23,24,4,0:56
+12-Jun-2017,Caltanissetta CH,3,Clay,Q2,585,416,1,,7,Denys Molchanov,Adrian Ungur,6-2 6-4,1.75,9.8%,2.0%,47.1%,87.5%,63.0%,0/0,56.8%,44.6%,0.0%,40.9%,50.0%,3/9,125,5,1,51,24,27,0,1:17
+12-Jun-2017,Caltanissetta CH,3,Clay,Q1,585,,1,,WC,Denys Molchanov,Luca Potenza,6-3 6-2,1.36,7.0%,8.8%,43.9%,80.0%,50.0%,1/2,56.8%,50.0%,0.0%,46.3%,61.5%,4/11,111,4,5,57,25,32,0,1:08
+5-Jun-2017,Prostejov CH,3,Clay,Q2,600,242,0,,2,Petr Michnev,Denys Molchanov,6-4 6-4,0.84,3.8%,3.8%,53.8%,72.1%,40.5%,7/10,47.6%,35.8%,7.5%,27.3%,44.1%,1/4,147,3,3,80,43,37,5,1:13
+5-Jun-2017,Prostejov CH,3,Clay,Q1,600,491,1,,,Denys Molchanov,Tomas Papik,6-3 7-6(4),1.24,11.4%,2.9%,61.4%,74.4%,66.7%,2/3,54.1%,35.4%,6.2%,24.3%,50.0%,2/7,135,8,2,70,43,27,4,1:13
+22-May-2017,Shymkent CH,3,Clay,Q2,598,493,0,,6,Evgeny Tyurnev,Denys Molchanov,6-4 2-0 RET,0.74,8.6%,11.4%,48.6%,64.7%,55.6%,3/5,44.4%,29.7%,13.5%,11.1%,47.4%,0/2,72,3,4,35,17,18,5,0:52
+22-May-2017,Shymkent CH,3,Clay,Q1,598,,1,,WC,Denys Molchanov,Alexey Kedryuk,6-0 6-2,2.42,5.3%,5.3%,60.5%,91.3%,53.3%,0/0,65.2%,57.4%,5.6%,48.0%,65.5%,5/12,92,2,2,38,23,15,3,0:54
+15-May-2017,Samarkand CH,3,Clay,R16,671,173,0,Q,3,Jason Jung,Denys Molchanov,6-4 4-6 6-2,0.91,9.8%,3.7%,61.0%,62.0%,40.6%,7/13,47.7%,42.4%,4.3%,33.3%,59.4%,4/15,174,8,3,82,50,32,4,1:50
+15-May-2017,Samarkand CH,3,Clay,R32,671,698,1,Q,WC,Denys Molchanov,Kenneth Raisma,6-4 6-4,1.17,4.8%,6.0%,56.0%,72.3%,40.5%,5/7,53.8%,48.6%,1.4%,42.5%,56.3%,4/12,156,4,5,84,47,37,1,1:39
+15-May-2017,Samarkand CH,3,Clay,Q3,671,575,1,,,Denys Molchanov,Alexander Zhurbin,6-4 6-4,1.08,5.9%,2.9%,52.9%,86.1%,53.1%,8/8,52.3%,31.7%,1.7%,22.5%,50.0%,2/5,128,4,2,68,36,32,1,1:20
+15-May-2017,Samarkand CH,3,Clay,Q2,671,746,1,,,Denys Molchanov,Denis Yevseyev,6-4 6-3,1.50,5.2%,6.9%,53.4%,83.9%,48.1%,3/5,58.4%,49.1%,0.0%,39.1%,56.3%,4/6,113,3,4,58,31,27,0,1:08
+15-May-2017,Samarkand CH,3,Clay,Q1,671,,1,,WC,Denys Molchanov,Grigoriy Korobeynikov,6-2 6-2,1.97,11.4%,6.8%,61.4%,85.2%,52.9%,0/1,61.1%,53.6%,2.9%,51.1%,59.1%,5/13,113,5,3,44,27,17,2,1:13
+8-May-2017,Karshi CH,3,Hard,R32,703,278,0,Q,,Alexey Vatutin,Denys Molchanov,5-7 6-4 6-4,0.76,5.2%,3.4%,69.0%,66.3%,47.2%,9/13,47.5%,30.2%,4.7%,29.8%,31.0%,3/4,202,6,4,116,80,36,4,2:04
+8-May-2017,Karshi CH,3,Hard,Q3,703,822,1,,,Denys Molchanov,Sergey Betov,6-2 6-4,1.54,3.8%,0.0%,66.0%,71.4%,55.6%,5/7,58.6%,52.4%,0.0%,51.6%,53.1%,5/14,116,2,0,53,35,18,0,1:17
+8-May-2017,Karshi CH,3,Hard,Q2,703,583,1,,7,Denys Molchanov,Ilya Vasilyev,6-2 6-2,1.56,16.0%,0.0%,68.0%,70.6%,56.3%,3/4,58.8%,53.1%,6.3%,45.7%,62.1%,5/14,114,8,0,50,34,16,4,1:11
+8-May-2017,Karshi CH,3,Hard,Q1,703,1291,1,,,Denys Molchanov,Sergey Fomin,6-3 6-1,1.53,21.6%,7.8%,56.9%,72.4%,63.6%,3/3,58.1%,48.1%,3.7%,27.6%,72.0%,4/6,105,11,4,51,29,22,2,0:55
+24-Apr-2017,Anning CH,3,Clay,Q2,713,276,0,,5,Prajnesh Gunneswaran,Denys Molchanov,6-4 6-4,0.78,8.8%,0.0%,82.5%,68.1%,50.0%,2/4,46.4%,27.3%,1.8%,22.2%,36.8%,0/0,112,5,0,57,47,10,1,1:01
+24-Apr-2017,Anning CH,3,Clay,Q1,713,680,1,,,Denys Molchanov,Issei Okamura,4-6 6-3 6-4,1.17,1.1%,1.1%,47.8%,69.8%,63.8%,2/4,52.4%,38.9%,3.2%,38.5%,40.0%,3/7,185,1,1,90,43,47,3,1:56
+17-Apr-2017,Qingdao CH,3,Clay,R32,767,174,0,Q,,Kimmer Coppejans,Denys Molchanov,6-1 6-0,0.27,9.8%,2.4%,58.5%,37.5%,29.4%,2/7,26.7%,17.6%,0.0%,8.7%,36.4%,0/0,75,4,1,41,24,17,0,
+17-Apr-2017,Qingdao CH,3,Clay,Q3,767,363,1,6,1,Denys Molchanov,Juan Pablo Paz,7-6(3) 7-6(5),1.28,1.3%,0.0%,54.5%,69.0%,68.6%,1/3,52.9%,39.8%,0.0%,26.5%,76.0%,2/6,170,1,0,77,42,35,0,2:03
+20-Mar-2017,Egypt F10,3,Hard,R16,686,549,0,,7,Artem Smirnov,Denys Molchanov,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Egypt F10,3,Hard,R32,686,723,1,,,Denys Molchanov,Dejan Katic,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Egypt F9,3,Hard,R32,694,1150,0,,SE,Ugo Humbert,Denys Molchanov,3-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Tempe CH,3,Hard,Q2,668,392,0,,,Brayden Schnur,Denys Molchanov,6-1 6-2,0.67,4.0%,2.0%,52.0%,53.8%,45.8%,4/8,40.7%,33.3%,7.9%,29.3%,40.9%,0/8,113,2,1,50,26,24,5,1:11
+13-Feb-2017,Tempe CH,3,Hard,Q1,668,462,1,,,Denys Molchanov,Christian Harrison,W/O,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,San Francisco CH,3,Hard,Q2,670,463,0,,8,Christian Harrison,Denys Molchanov,7-5 7-5,0.89,6.3%,2.5%,65.0%,51.9%,57.1%,2/7,46.9%,41.1%,3.2%,33.8%,56.7%,3/8,175,5,2,80,52,28,3,1:54
+6-Feb-2017,San Francisco CH,3,Hard,Q1,670,1369,1,,,Denys Molchanov,Florian Lakat,6-3 6-3,1.54,6.0%,0.0%,68.0%,73.5%,56.3%,0/1,57.9%,49.1%,5.3%,50.0%,48.5%,4/6,107,3,0,50,34,16,3,1:03
+30-Jan-2017,Dallas CH,3,Hard,R32,697,280,0,Q,,Sekou Bangoura,Denys Molchanov,5-7 6-3 7-5,1.02,3.0%,5.1%,57.6%,68.4%,42.9%,4/9,49.8%,43.1%,0.9%,33.8%,63.9%,4/13,215,3,5,99,57,42,1,2:27
+30-Jan-2017,Dallas CH,3,Hard,Q3,697,1017,1,,,Denys Molchanov,Nathaniel Lammons,4-6 6-3 7-5,1.32,5.8%,3.5%,58.1%,80.0%,58.3%,3/5,54.2%,38.5%,7.7%,32.1%,48.6%,3/9,177,5,3,86,50,36,7,1:45
+30-Jan-2017,Dallas CH,3,Hard,Q2,697,445,1,,5,Denys Molchanov,Christopher Rungkat,5-7 6-1 6-3,1.20,10.1%,6.1%,57.6%,66.7%,54.8%,8/11,54.3%,46.1%,2.2%,46.0%,46.2%,6/12,188,10,6,99,57,42,2,1:53
+30-Jan-2017,Dallas CH,3,Hard,Q1,697,957,1,,,Denys Molchanov,Shane Vinsant,6-4 6-2,2.04,12.0%,8.0%,48.0%,79.2%,76.9%,3/3,57.8%,44.9%,6.4%,45.8%,43.3%,3/13,128,6,4,50,24,26,5,1:25
+21-Nov-2016,Astana CH,3,Hard,R32,458,175,0,Q,3,Alexander Kudryavtsev,Denys Molchanov,6-4 6-2,0.63,9.1%,6.1%,45.5%,73.3%,38.9%,5/9,43.2%,28.8%,3.8%,22.6%,38.1%,1/4,118,6,4,66,30,36,2,1:06
+21-Nov-2016,Astana CH,3,Hard,Q2,458,741,1,1,7,Denys Molchanov,Andrei Vasilevski,6-7(2) 6-2 6-3,1.32,10.1%,1.1%,60.7%,81.5%,57.1%,1/1,53.8%,37.1%,8.2%,24.6%,55.0%,3/12,186,9,1,89,54,35,8,1:43
+21-Nov-2016,Astana CH,3,Hard,Q1,458,1773,1,1,WC,Denys Molchanov,Grigoriy Lomakin,6-3 6-2,2.29,15.2%,2.2%,58.7%,85.2%,73.7%,2/2,60.6%,44.8%,1.7%,35.1%,61.9%,3/6,104,7,1,46,27,19,1,0:55
+7-Nov-2016,Bratislava CH,3,Hard,Q3,461,313,0,6,2,Petr Michnev,Denys Molchanov,6-3 7-6(6),0.73,11.6%,0.0%,69.6%,72.9%,47.6%,4/5,45.6%,25.4%,9.0%,15.9%,43.5%,0/0,136,8,0,69,48,21,6,1:13
+7-Nov-2016,Bratislava CH,3,Hard,Q2,461,802,1,6,,Denys Molchanov,Matej Vocel,6-2 6-4,1.40,12.5%,1.8%,71.4%,80.0%,50.0%,2/2,56.6%,40.0%,16.0%,33.3%,57.1%,3/5,106,7,1,56,40,16,8,0:55
+7-Nov-2016,Bratislava CH,3,Hard,Q1,461,572,1,6,,Denys Molchanov,Filip Veger,6-4 6-4,1.24,9.1%,3.6%,63.6%,71.4%,60.0%,1/3,53.5%,40.7%,8.5%,36.6%,50.0%,4/8,114,5,2,55,35,20,5,1:08
+24-Oct-2016,Budapest CH,3,Hard,Q1,466,205,0,,1,Mohamed Safwat,Denys Molchanov,6-1 1-0 RET,0.49,0.0%,15.0%,65.0%,38.5%,14.3%,1/4,32.6%,34.6%,3.8%,15.4%,53.8%,0/1,46,0,3,20,13,7,1,0:27
+10-Oct-2016,Tashkent CH,3,Hard,R16,492,125,0,,7,Denis Istomin,Denys Molchanov,4-6 6-3 6-2,0.72,1.3%,0.0%,56.0%,57.1%,60.6%,1/6,45.1%,29.9%,6.0%,23.3%,41.7%,3/3,142,1,0,75,42,33,4,1:25
+10-Oct-2016,Tashkent CH,3,Hard,R32,492,667,1,,Q,Denys Molchanov,Alexander Vasilenko,7-6(1) 7-6(5),0.94,5.3%,4.0%,60.0%,75.6%,66.7%,2/3,49.7%,26.4%,5.6%,25.0%,29.2%,1/2,147,4,3,75,45,30,4,1:46
+26-Sep-2016,Ukraine F5,3,Hard,R32,410,1010,0,1,,Denis Yevseyev,Denys Molchanov,6-1 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Nanchang CH,3,Hard,R32,411,168,0,Q,5,Luca Vanni,Denys Molchanov,6-0 0-1 RET,0.32,10.3%,3.4%,62.1%,33.3%,45.5%,1/4,31.8%,20.0%,20.0%,10.0%,40.0%,0/0,44,3,1,29,18,11,3,0:25
+12-Sep-2016,Nanchang CH,3,Hard,Q3,411,750,1,1,7,Denys Molchanov,Yusuke Watanuki,6-3 6-4,1.16,8.5%,3.7%,56.1%,80.4%,41.7%,8/9,55.1%,42.6%,5.6%,36.4%,52.4%,3/3,136,7,3,82,46,36,3,1:22
+12-Sep-2016,Nanchang CH,3,Hard,Q2,411,,1,1,WC,Denys Molchanov,Ang Ji,6-1 6-4,2.01,8.9%,2.2%,73.3%,84.8%,50.0%,1/1,60.8%,49.1%,0.0%,50.0%,47.8%,4/7,102,4,1,45,33,12,0,0:52
+5-Sep-2016,Shanghai CH,3,Hard,R32,389,169,0,,6,Jason Jung,Denys Molchanov,6-2 6-3,0.36,11.1%,12.7%,50.8%,65.6%,35.5%,3/7,37.9%,17.5%,5.0%,14.3%,21.1%,0/1,103,7,8,63,32,31,2,0:55
+29-Aug-2016,Bangkok CH,3,Hard,R32,389,212,0,,4,Amir Weintraub,Denys Molchanov,7-5 6-1,0.60,6.1%,7.6%,66.7%,54.5%,45.5%,10/14,41.1%,29.3%,5.2%,24.3%,38.1%,1/4,124,4,5,66,44,22,3,1:11
+25-Jul-2016,Astana CH,3,Hard,R32,281,302,0,,,Edoardo Eremin,Denys Molchanov,6-3 6-4,0.70,0.0%,3.7%,63.0%,70.6%,60.0%,1/3,44.5%,23.2%,12.5%,13.8%,33.3%,0/4,110,0,2,54,34,20,7,1:05
+27-Jun-2016,Wimbledon,5,Grass,Q1,287,104,0,,3,Nikoloz Basilashvili,Denys Molchanov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Fergana CH,3,Hard,R32,259,337,0,6,,Shuichi Sekiguchi,Denys Molchanov,7-6(4) 6-5 RET,0.92,7.9%,8.9%,55.4%,62.5%,48.9%,9/12,49.2%,40.0%,2.5%,36.4%,44.4%,2/8,181,8,9,101,56,45,2,1:56
+6-Jun-2016,Moscow CH,3,Clay,R32,229,240,0,,,Nikola Milojevic,Denys Molchanov,4-6 6-2 6-3,0.87,3.7%,3.7%,54.3%,59.1%,51.4%,6/11,46.4%,38.8%,0.0%,36.5%,41.3%,3/6,179,3,3,81,44,37,0,1:48
+23-May-2016,Roland Garros,5,Clay,Q1,230,140,0,,29,Jared Donaldson,Denys Molchanov,4-5 RET,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Karshi CH,3,Hard,R32,224,1102,0,6,Q,Richard Muzaev,Denys Molchanov,7-6(7) 6-2,0.78,4.8%,3.2%,66.7%,76.2%,28.6%,0/3,45.3%,30.8%,4.6%,22.0%,45.8%,1/2,128,3,2,63,42,21,3,1:17
+25-Apr-2016,Anning CH,3,Clay,R32,224,552,0,,Q,Yannick Hanfmann,Denys Molchanov,6-4 7-6(11),0.76,9.1%,2.6%,71.4%,74.5%,63.6%,5/6,47.9%,21.7%,8.7%,19.2%,29.4%,0/1,146,7,2,77,55,22,6,1:15
+18-Apr-2016,Nanjing CH,3,Clay,R32,223,161,0,,8,Grega Zemlja,Denys Molchanov,6-1 6-3,0.48,4.1%,4.1%,57.1%,46.4%,38.1%,3/8,35.5%,27.3%,11.4%,32.1%,18.8%,1/3,93,2,2,49,28,21,5,0:53
+28-Mar-2016,Raanana CH,3,Hard,R16,224,86,0,ALT,3,Ricardas Berankis,Denys Molchanov,6-1 2-1 RET,0.64,3.1%,12.5%,50.0%,62.5%,25.0%,4/7,39.4%,35.9%,5.1%,33.3%,38.9%,0/3,71,1,4,32,16,16,2,0:46
+28-Mar-2016,Raanana CH,3,Hard,R32,224,264,1,ALT,,Denys Molchanov,Marko Tepavac,6-4 7-5,1.27,9.1%,1.5%,65.2%,69.8%,60.9%,1/2,54.0%,42.3%,8.5%,43.2%,41.2%,3/4,137,6,1,66,43,23,6,1:29
+14-Mar-2016,Guangzhou CH,3,Hard,Q1,223,1054,0,5,,Roman Jebavy,Denys Molchanov,6-3 7-5,0.73,11.1%,5.6%,48.1%,73.1%,53.6%,1/4,43.6%,27.0%,1.6%,20.5%,42.1%,1/6,117,6,3,54,26,28,1,1:00
+7-Mar-2016,Zhuhai CH,3,Hard,R32,223,126,0,,4,Thomas Fabbiano,Denys Molchanov,6-3 6-7(5) 6-1,0.62,8.7%,6.7%,51.9%,72.2%,44.0%,9/12,43.3%,25.6%,4.4%,21.0%,35.7%,0/1,194,9,7,104,54,50,4,2:04
+15-Feb-2016,Wroclaw CH,3,Hard,R32,234,1344,0,Q,PR,Albano Olivetti,Denys Molchanov,6-2 7-6(12),0.96,9.4%,4.7%,54.7%,82.9%,55.2%,0/2,47.5%,28.6%,23.4%,13.3%,50.0%,0/1,141,6,3,64,35,29,18,1:29
+15-Feb-2016,Wroclaw CH,3,Hard,Q3,234,382,1,3,,Denys Molchanov,Sadio Doumbia,6-3 6-3,2.02,17.8%,4.4%,62.2%,82.1%,76.5%,0/0,57.8%,40.4%,1.8%,39.0%,43.8%,3/8,102,8,2,45,28,17,1,1:03
+15-Feb-2016,Wroclaw CH,3,Hard,Q2,234,652,1,3,,Denys Molchanov,Andrei Vasilevski,4-6 6-3 7-5,1.02,6.7%,4.5%,62.9%,78.6%,60.6%,2/3,50.6%,28.7%,13.8%,14.8%,51.5%,2/11,176,6,4,89,56,33,12,1:36
+15-Feb-2016,Wroclaw CH,3,Hard,Q1,234,567,1,3,,Denys Molchanov,Viktor Galovic,7-5 6-1,1.51,24.6%,7.0%,61.4%,88.6%,40.9%,3/3,57.3%,45.0%,5.0%,45.9%,43.5%,4/11,117,14,4,57,35,22,3,1:06
+1-Feb-2016,Dallas CH,3,Hard,R32,236,131,0,,6,Tatsuma Ito,Denys Molchanov,6-2 6-7(5) 7-6(6),0.83,1.0%,3.8%,57.1%,78.3%,42.2%,3/6,46.9%,30.8%,1.0%,23.7%,40.0%,1/4,209,1,4,105,60,45,1,2:20
+25-Jan-2016,Lahaina CH,3,Hard,R32,241,155,0,,,Taylor Harry Fritz,Denys Molchanov,6-2 6-4,0.66,1.5%,6.0%,59.7%,67.5%,40.7%,5/8,43.9%,28.6%,16.1%,20.0%,42.9%,0/2,123,1,4,67,40,27,9,1:14
+18-Jan-2016,Australian Open,5,Hard,Q2,241,134,0,,19,Ryan Harrison,Denys Molchanov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Australian Open,5,Hard,Q1,241,520,1,,,Denys Molchanov,Bradley Mousley,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2016,Happy Valley CH,3,Hard,Q2,236,,0,1,,Damian Farinola,Denys Molchanov,2-6 6-1 6-2,0.90,7.1%,1.4%,62.9%,59.1%,42.3%,4/9,46.7%,42.4%,0.0%,32.2%,57.5%,3/21,169,5,1,70,44,26,0,1:49
+30-Nov-2015,Egypt F42,3,Hard,F,270,1237,1,1,,Denys Molchanov,Mikolaj Jedruszczak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Egypt F42,3,Hard,SF,270,1403,1,1,Q,Denys Molchanov,Darko Jandric,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Egypt F42,3,Hard,QF,270,917,1,1,5,Denys Molchanov,Christoph Negritu,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Egypt F42,3,Hard,R16,270,1400,1,1,,Denys Molchanov,Dominic Weidinger,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Egypt F42,3,Hard,R32,270,1312,1,1,,Denys Molchanov,Marek Jaloviec,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Egypt F41,3,Hard,F,287,240,0,2,1,Aldin Setkic,Denys Molchanov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Egypt F41,3,Hard,SF,287,1228,1,2,,Denys Molchanov,Jan Zielinski,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Egypt F41,3,Hard,QF,287,1106,1,2,,Denys Molchanov,Maciej Smola,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Egypt F41,3,Hard,R16,287,2216,1,2,WC,Denys Molchanov,Szymon Walkow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Egypt F41,3,Hard,R32,287,1264,1,2,,Denys Molchanov,Kamil Gajewski,6-3 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Egypt F40,3,Hard,F,286,231,1,2,1,Denys Molchanov,Aldin Setkic,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Egypt F40,3,Hard,SF,286,456,1,2,5,Denys Molchanov,Vladyslav Manafov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Egypt F40,3,Hard,QF,286,1164,1,2,WC,Denys Molchanov,Vit Kopriva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Egypt F40,3,Hard,R16,286,,1,2,WC,Denys Molchanov,Jurij Rodionov,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Egypt F40,3,Hard,R32,286,1734,1,2,WC,Denys Molchanov,Mikael Riondy,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Ortisei CH,3,Hard,R32,285,229,0,,,Salvatore Caruso,Denys Molchanov,6-4 6-2,0.67,3.3%,4.9%,55.7%,64.7%,44.4%,4/7,43.5%,29.6%,1.9%,30.0%,29.2%,0/3,115,2,3,61,34,27,1,
+26-Oct-2015,Suzhou CH,3,Hard,R32,279,162,0,,4,Thomas Fabbiano,Denys Molchanov,4-6 6-1 7-6(4),0.88,5.1%,5.1%,56.4%,59.1%,52.9%,4/10,46.6%,38.5%,2.1%,33.8%,50.0%,5/8,174,4,4,78,44,34,2,
+19-Oct-2015,Ningbo CH,3,Hard,R32,275,214,0,,,Franco Skugor,Denys Molchanov,6-4 6-0,0.47,3.2%,1.6%,55.6%,54.3%,32.1%,8/14,37.6%,26.3%,5.3%,23.1%,33.3%,2/5,101,2,1,63,35,28,2,
+12-Oct-2015,Tashkent CH,3,Hard,R32,277,143,0,,,Konstantin Kravchuk,Denys Molchanov,6-4 7-6(6),0.85,3.5%,3.5%,57.6%,79.6%,44.4%,7/8,48.1%,29.9%,10.4%,20.3%,61.1%,0/2,162,3,3,85,49,36,8,
+28-Sep-2015,Agri CH,3,Hard,SF,307,198,0,,8,Saketh Myneni,Denys Molchanov,6-3 3-6 7-6(1),0.96,11.2%,5.1%,60.2%,72.9%,43.6%,3/6,49.0%,37.3%,6.9%,25.7%,62.5%,3/8,200,11,5,98,59,39,7,
+28-Sep-2015,Agri CH,3,Hard,QF,307,257,1,,,Denys Molchanov,Dennis Novak,7-6(4) 6-2,1.58,9.7%,3.2%,62.9%,79.5%,69.6%,4/4,55.1%,38.2%,9.2%,26.9%,62.5%,2/9,138,6,2,62,39,23,7,
+28-Sep-2015,Agri CH,3,Hard,R16,307,195,1,,7,Denys Molchanov,Aslan Karatsev,6-3 7-6(5),1.35,4.8%,3.2%,67.7%,78.6%,60.0%,0/1,53.8%,37.1%,8.6%,23.8%,57.1%,2/3,132,3,2,62,42,20,6,
+28-Sep-2015,Agri CH,3,Hard,R32,307,349,1,,,Denys Molchanov,Yaraslau Shyla,7-6(2) 7-6(3),1.09,10.1%,4.5%,59.6%,73.6%,47.2%,2/5,52.0%,40.5%,4.8%,29.2%,55.6%,3/6,173,9,4,89,53,36,4,
+21-Sep-2015,Izmir CH,3,Hard,R32,306,421,0,,LL,Michal Konecny,Denys Molchanov,6-3 6-3,0.59,3.6%,0.0%,72.7%,55.0%,46.7%,1/5,41.2%,27.7%,4.3%,25.0%,33.3%,1/3,102,2,0,55,40,15,2,
+7-Sep-2015,Russia F8,3,Clay,QF,291,383,0,1,5,Anton Zaitsev,Denys Molchanov,6-4 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,R16,291,864,1,1,,Denys Molchanov,Alexander Perfilov,6-4 6-7(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Russia F8,3,Clay,R32,291,832,1,1,,Denys Molchanov,Anton Galkin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,SF,291,465,0,1,,Alexey Vatutin,Denys Molchanov,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,QF,291,1034,1,1,,Denys Molchanov,Alexander Bublik,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,R16,291,978,1,1,Q,Denys Molchanov,Dmitry Surchenko,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Russia F7,3,Clay,R32,291,498,1,1,,Denys Molchanov,Evgeny Elistratov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belarus F2,3,Hard,SF,354,431,0,3,7,Amir Weintraub,Denys Molchanov,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belarus F2,3,Hard,QF,354,729,1,3,,Denys Molchanov,Sergey Betov,6-2 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belarus F2,3,Hard,R16,354,498,1,3,,Denys Molchanov,Evgeny Tyurnev,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belarus F2,3,Hard,R32,354,742,1,3,,Denys Molchanov,Tal Goldengoren,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belarus F1,3,Hard,F,338,337,1,2,5,Denys Molchanov,Egor Gerasimov,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belarus F1,3,Hard,SF,338,376,1,2,4,Denys Molchanov,Daniil Medvedev,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belarus F1,3,Hard,QF,338,454,1,2,7,Denys Molchanov,Aleksandre Metreveli,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belarus F1,3,Hard,R16,338,753,1,2,,Denys Molchanov,Artur Dubinski,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belarus F1,3,Hard,R32,338,1100,1,2,,Denys Molchanov,Mikhail Fufygin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Segovia CH,3,Hard,R16,301,428,0,,PR,Marco Chiudinelli,Denys Molchanov,6-2 7-6(2),0.68,8.5%,11.3%,57.7%,63.4%,50.0%,7/10,44.0%,28.6%,3.2%,29.7%,26.9%,1/3,134,6,8,71,41,30,2,
+3-Aug-2015,Segovia CH,3,Hard,R32,301,166,1,,7,Denys Molchanov,Vincent Millot,6-3 6-3,1.42,14.7%,7.4%,52.9%,86.1%,40.6%,11/12,57.2%,50.0%,5.7%,33.3%,67.6%,4/12,138,10,5,68,36,32,4,
+27-Jul-2015,Astana CH,3,Hard,QF,333,57,0,,1,Mikhail Kukushkin,Denys Molchanov,6-1 2-6 6-2,0.77,2.9%,4.3%,58.6%,68.3%,27.6%,2/7,44.1%,37.3%,4.0%,34.2%,40.5%,3/6,145,2,3,70,41,29,3,
+27-Jul-2015,Astana CH,3,Hard,R16,333,217,1,,6,Denys Molchanov,Hiroki Moriya,6-1 6-1,1.77,7.4%,9.3%,53.7%,72.4%,56.0%,2/2,63.7%,62.2%,2.7%,47.4%,77.8%,5/5,91,4,5,54,29,25,1,
+27-Jul-2015,Astana CH,3,Hard,R32,333,359,1,,,Denys Molchanov,Enrique Lopez Perez,6-4 6-4,1.20,13.1%,1.6%,60.7%,75.7%,58.3%,4/5,52.8%,37.5%,0.0%,31.7%,47.8%,3/11,125,8,1,61,37,24,0,
+15-Jun-2015,Fergana CH,3,Hard,QF,268,119,0,8,3,Radu Albot,Denys Molchanov,6-4 6-1,0.66,2.1%,4.2%,50.0%,58.3%,37.5%,2/7,41.0%,34.6%,0.0%,29.7%,46.7%,2/3,100,1,2,48,24,24,0,
+15-Jun-2015,Fergana CH,3,Hard,R16,268,304,1,8,,Denys Molchanov,Duck Hee Lee,3-6 7-6(5) 3-0 RET,1.06,14.8%,11.1%,53.1%,79.1%,44.7%,4/6,50.3%,39.1%,2.2%,34.0%,45.2%,3/9,173,12,9,81,43,38,2,
+15-Jun-2015,Fergana CH,3,Hard,R32,268,311,1,8,,Denys Molchanov,Takuto Niki,6-4 6-2,1.49,15.7%,2.0%,51.0%,69.2%,76.0%,0/0,54.7%,40.9%,1.5%,35.0%,50.0%,3/9,117,8,1,51,26,25,1,
+8-Jun-2015,Uzbekistan F4,3,Hard,SF,272,415,0,1,4,Chuhan Wang,Denys Molchanov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Uzbekistan F4,3,Hard,QF,272,956,1,1,,Denys Molchanov,Markos Kalovelonis,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Uzbekistan F4,3,Hard,R16,272,,1,1,WC,Denys Molchanov,Saidalo Saidkarimov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Uzbekistan F4,3,Hard,R32,272,,1,1,Q,Denys Molchanov,Alexey Prokopchuk,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Uzbekistan F3,3,Hard,F,279,349,1,1,2,Denys Molchanov,Nikola Milojevic,2-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Uzbekistan F3,3,Hard,SF,279,623,1,1,7,Denys Molchanov,Karim Mohamed Maamoun,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Uzbekistan F3,3,Hard,QF,279,754,1,1,8,Denys Molchanov,Daniiar Duldaev,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Uzbekistan F3,3,Hard,R16,279,,1,1,,Denys Molchanov,Jakhongir Jalalov,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Uzbekistan F3,3,Hard,R32,279,,1,1,Q,Denys Molchanov,Batyr Sapaev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-2015,Roland Garros,5,Clay,Q2,279,127,0,,21,Illya Marchenko,Denys Molchanov,7-6(7) 6-3,0.90,4.2%,0.0%,62.0%,79.5%,48.1%,2/3,47.3%,29.1%,3.8%,24.0%,37.9%,0/2,150,3,0,71,44,27,3,1:56
+24-May-2015,Roland Garros,5,Clay,Q1,279,189,1,,,Denys Molchanov,Pere Riba,6-3 0-6 7-5,0.91,2.4%,7.1%,63.1%,66.0%,48.4%,6/11,49.7%,36.9%,1.5%,32.3%,41.2%,4/4,149,2,6,84,53,31,1,1:33
+4-May-2015,Rome CH,3,Clay,R32,216,179,0,,,Andrej Martin,Denys Molchanov,6-4 6-0,0.64,0.0%,4.3%,43.5%,65.0%,34.6%,1/6,40.4%,33.3%,2.1%,30.6%,41.7%,1/5,94,0,2,46,20,26,1,1:01
+27-Apr-2015,Ostrava CH,3,Clay,R32,193,231,0,7,,Enzo Couacaud,Denys Molchanov,7-5 6-3,0.66,1.4%,7.2%,46.4%,53.1%,54.1%,0/5,44.1%,30.6%,4.1%,30.4%,30.8%,2/3,118,1,5,69,32,37,2,1:18
+20-Apr-2015,Vercelli CH,3,Clay,R32,189,178,0,,,Roberto Marcora,Denys Molchanov,6-2 6-3,0.52,6.1%,2.0%,42.9%,57.1%,42.9%,2/6,38.3%,26.7%,4.4%,20.0%,35.0%,1/1,94,3,1,49,21,28,2,1:06
+6-Apr-2015,Batman CH,3,Hard,R32,194,112,0,,2,Dudi Sela,Denys Molchanov,6-3 6-4,0.70,10.2%,4.1%,57.1%,67.9%,47.6%,0/3,42.9%,28.6%,0.0%,21.1%,44.4%,1/4,105,5,2,49,28,21,0,1:04
+31-Mar-2015,Raanana CH,3,Hard,R16,200,245,0,,WC,Laslo Djere,Denys Molchanov,6-3 6-3,0.66,1.8%,3.5%,59.6%,55.9%,56.5%,4/7,42.9%,29.1%,3.6%,22.9%,40.0%,0/3,112,1,2,57,34,23,2,1:09
+31-Mar-2015,Raanana CH,3,Hard,R32,200,157,1,,,Denys Molchanov,Niels Desein,1-6 6-2 6-4,1.10,8.7%,3.3%,58.7%,70.4%,47.4%,9/12,51.5%,43.1%,2.0%,32.9%,65.6%,4/12,194,8,3,92,54,38,2,2:08
+23-Feb-2015,Cherbourg CH,3,Hard,R32,179,404,0,,Q,Maxime Teixeira,Denys Molchanov,6-2 1-0 RET,0.46,4.3%,4.3%,52.2%,75.0%,36.4%,0/2,37.5%,20.0%,8.0%,13.3%,30.0%,0/0,48,1,1,23,12,11,2,0:29
+2-Feb-2015,Dallas CH,3,Hard,R32,174,303,0,,,Agustin Velotti,Denys Molchanov,5-7 6-2 6-3,0.74,13.2%,5.5%,57.1%,76.9%,30.8%,7/11,44.9%,31.8%,9.4%,22.5%,40.0%,2/3,176,12,5,91,52,39,8,1:42
+27-Jan-2015,Maui CH,3,Hard,R32,171,324,0,6,,Takuto Niki,Denys Molchanov,6-3 6-7(2) 6-2,0.83,5.5%,3.7%,58.7%,64.1%,53.3%,7/11,47.8%,33.7%,7.6%,38.3%,28.9%,1/3,201,6,4,109,64,45,7,2:16
+19-Jan-2015,Australian Open,5,Hard,Q1,171,156,0,,,Michael Russell,Denys Molchanov,6-2 6-2,0.62,4.5%,4.5%,56.7%,57.9%,31.0%,7/12,40.5%,33.3%,3.7%,32.4%,35.0%,1/6,121,3,3,67,38,29,2,1:19
+5-Jan-2015,Happy Valley CH,3,Hard,R32,169,159,0,,8,Marton Fucsovics,Denys Molchanov,7-6(2) 6-4,0.83,4.1%,5.5%,64.4%,66.0%,38.5%,5/8,46.5%,36.2%,4.3%,23.1%,53.3%,2/3,142,3,4,73,47,26,3,1:26
+10-Nov-2014,Brescia CH,3,Hard,R32,172,193,0,,,Uladzimir Ignatik,Denys Molchanov,6-2 6-2,0.39,7.0%,8.8%,57.9%,63.6%,29.2%,5/9,37.1%,20.0%,20.0%,16.0%,26.7%,0/0,97,4,5,57,33,24,8,0:50
+3-Nov-2014,Mouilleron Le Captif CH,3,Hard,R32,174,114,0,,8,Marsel Ilhan,Denys Molchanov,6-3 6-3,0.72,5.4%,14.3%,44.6%,72.0%,35.5%,3/8,43.5%,34.6%,9.6%,28.9%,50.0%,2/3,108,3,8,56,25,31,5,1:05
+27-Oct-2014,Eckental CH,3,Carpet,R32,173,1492,0,7,,Sergei Bubka,Denys Molchanov,6-3 6-2,0.63,7.3%,16.4%,43.6%,62.5%,45.2%,2/6,41.9%,30.0%,8.0%,16.1%,52.6%,1/2,105,4,9,55,24,31,4,1:02
+13-Oct-2014,Moscow,3,Hard,Q1,173,493,0,6,,Simone Vagnozzi,Denys Molchanov,4-6 6-2 6-2,0.86,10.2%,1.1%,51.1%,68.9%,41.9%,7/12,46.1%,38.1%,0.0%,32.0%,53.3%,2/11,193,9,1,88,45,43,0,2:05
+6-Oct-2014,Tashkent CH,3,Hard,R16,175,99,0,,3,Lukas Lacko,Denys Molchanov,6-2 7-5,0.77,2.9%,4.3%,51.4%,55.6%,41.2%,5/10,44.3%,39.3%,8.2%,31.0%,57.9%,2/6,131,2,3,70,36,34,5,1:17
+6-Oct-2014,Tashkent CH,3,Hard,R32,175,295,1,,,Denys Molchanov,Fabrice Martin,6-7(2) 6-3 7-6(3),1.18,7.9%,6.9%,61.4%,80.6%,69.2%,3/3,52.8%,28.1%,11.5%,19.3%,41.0%,1/1,197,8,7,101,62,39,11,1:58
+29-Sep-2014,Beijing,3,Hard,Q1,175,88,0,,4,Malek Jaziri,Denys Molchanov,5-7 6-2 6-4,0.91,5.6%,3.3%,45.6%,65.9%,55.1%,7/12,47.4%,36.3%,3.9%,27.5%,45.1%,3/13,192,5,3,90,41,49,4,2:00
+2-Sep-2014,St. Remy CH,3,Hard,QF,181,164,0,,,Vincent Millot,Denys Molchanov,6-1 7-6(4),0.83,6.0%,6.0%,47.0%,61.5%,50.0%,7/10,46.1%,36.9%,6.0%,23.5%,57.6%,1/7,167,5,5,83,39,44,5,1:47
+2-Sep-2014,St. Remy CH,3,Hard,R16,181,105,1,,4,Denys Molchanov,Kenny De Schepper,6-4 6-4,1.77,8.0%,2.0%,66.0%,87.9%,64.7%,0/0,54.8%,35.4%,7.7%,25.0%,52.0%,2/8,115,4,1,50,33,17,5,1:08
+2-Sep-2014,St. Remy CH,3,Hard,R32,181,332,1,,,Denys Molchanov,Ivo Klec,6-4 1-6 6-3,1.03,3.7%,8.6%,48.1%,74.4%,47.6%,3/7,50.6%,40.5%,3.8%,36.8%,43.9%,4/6,160,3,7,81,39,42,3,1:29
+25-Aug-2014,US Open,5,Hard,Q2,181,124,0,,9,Peter Gojowczyk,Denys Molchanov,7-5 6-3,0.75,8.8%,5.3%,43.9%,68.0%,56.3%,1/4,44.5%,29.0%,1.6%,22.6%,35.5%,1/3,119,5,3,57,25,32,1,1:11
+25-Aug-2014,US Open,5,Hard,Q1,181,175,1,,,Denys Molchanov,Marius Copil,3-6 7-6(2) 6-2,1.24,7.8%,2.2%,52.2%,74.5%,62.8%,3/4,52.3%,38.5%,8.3%,27.1%,52.0%,2/6,199,7,2,90,47,43,9,2:00
+4-Aug-2014,Kazakhstan F11,3,Hard,SF,191,377,0,1,4,N Sriram Balaji,Denys Molchanov,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Kazakhstan F11,3,Hard,QF,191,392,1,1,5,Denys Molchanov,Karen Khachanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Kazakhstan F11,3,Hard,R16,191,785,1,1,,Denys Molchanov,Nigmat Shofayziev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Kazakhstan F11,3,Hard,R32,191,1436,1,1,,Denys Molchanov,Djurabek Karimov,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Kazakhstan F10,3,Hard,F,191,264,1,1,2,Denys Molchanov,Ti Chen,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Kazakhstan F10,3,Hard,SF,191,617,1,1,,Denys Molchanov,Dzmitry Zhyrmont,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Kazakhstan F10,3,Hard,QF,191,392,1,1,7,Denys Molchanov,Karen Khachanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Kazakhstan F10,3,Hard,R16,191,573,1,1,,Denys Molchanov,Yaraslau Shyla,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Kazakhstan F10,3,Hard,R32,191,,1,1,WC,Denys Molchanov,Boris Pokotilov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Astana II CH,3,Hard,R16,197,152,0,,4,Marsel Ilhan,Denys Molchanov,6-3 6-2,0.67,5.0%,6.7%,46.7%,71.4%,31.3%,7/11,42.1%,33.3%,3.7%,23.3%,45.8%,1/6,114,3,4,60,28,32,2,1:09
+21-Jul-2014,Astana II CH,3,Hard,R32,197,210,1,,,Denys Molchanov,Valery Rudnev,6-2 6-2,1.50,2.0%,4.0%,70.0%,54.3%,60.0%,1/4,60.6%,65.9%,2.3%,66.7%,64.3%,7/7,94,1,2,50,35,15,1,0:59
+14-Jul-2014,Kaohsiung CH,3,Hard,QF,213,142,0,8,4,Yuichi Sugita,Denys Molchanov,7-6(3) 6-7(3) 6-2,0.80,8.3%,3.7%,58.3%,71.4%,46.7%,5/9,46.6%,31.0%,9.0%,22.7%,47.1%,2/6,208,9,4,108,63,45,9,2:25
+14-Jul-2014,Kaohsiung CH,3,Hard,R16,213,541,1,8,Q,Denys Molchanov,Kento Takeuchi,6-4 6-3,1.36,14.5%,3.6%,58.2%,87.5%,47.8%,0/1,54.9%,39.7%,1.7%,28.6%,56.5%,3/7,113,8,2,55,32,23,1,1:27
+14-Jul-2014,Kaohsiung CH,3,Hard,R32,213,313,1,8,,Denys Molchanov,Jeevan Nedunchezhiyan,6-4 6-7(6) 7-6(3),1.09,20.6%,0.0%,68.2%,75.3%,67.6%,4/5,51.4%,29.5%,4.8%,21.9%,46.9%,2/3,212,22,0,107,73,34,5,2:28
+23-Jun-2014,Ukraine F9,3,Hard,F,235,626,1,1,6,Denys Molchanov,Sebastien Boltz,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Ukraine F9,3,Hard,SF,235,583,1,1,4,Denys Molchanov,Dmytro Badanov,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Ukraine F9,3,Hard,QF,235,631,1,1,7,Denys Molchanov,Vladimir Uzhylovsky,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Ukraine F9,3,Hard,R16,235,1662,1,1,WC,Denys Molchanov,Sergei Bubka,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Ukraine F9,3,Hard,R32,235,1520,1,1,LL,Denys Molchanov,Dmytro Ishtuganov,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Ukraine F8,3,Hard,F,236,502,1,1,2,Denys Molchanov,Vladyslav Manafov,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Ukraine F8,3,Hard,SF,236,622,1,1,7,Denys Molchanov,Sebastien Boltz,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Ukraine F8,3,Hard,QF,236,682,1,1,8,Denys Molchanov,Maxime Tchoutakian,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Ukraine F8,3,Hard,R16,236,,1,1,Q,Denys Molchanov,Maksim Malyshev,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Ukraine F8,3,Hard,R32,236,1173,1,1,,Denys Molchanov,Nicolas Rosenzweig,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Fergana CH,3,Hard,SF,262,133,0,4,1,Blaz Kavcic,Denys Molchanov,6-3 6-0,0.48,0.0%,4.9%,34.1%,28.6%,33.3%,2/8,32.2%,32.6%,6.5%,28.0%,38.1%,1/4,87,0,2,41,14,27,3,1:02
+9-Jun-2014,Fergana CH,3,Hard,QF,262,303,1,4,7,Denys Molchanov,Shuichi Sekiguchi,7-6(3) 6-2,1.32,8.6%,2.9%,55.7%,69.2%,51.6%,4/6,56.6%,50.8%,0.0%,47.1%,56.0%,4/8,129,6,2,70,39,31,0,1:21
+9-Jun-2014,Fergana CH,3,Hard,R16,262,730,1,4,Q,Denys Molchanov,Temur Ismailov,6-3 7-6(4),1.28,4.3%,0.0%,54.3%,78.9%,56.3%,4/6,54.7%,40.3%,0.0%,34.8%,52.4%,3/6,137,3,0,70,38,32,0,1:32
+9-Jun-2014,Fergana CH,3,Hard,R32,262,359,1,4,,Denys Molchanov,Saketh Myneni,6-4 7-5,1.20,7.1%,0.0%,53.6%,71.1%,51.3%,9/11,54.5%,45.8%,1.4%,37.8%,59.3%,4/12,156,6,0,84,45,39,1,1:37
+19-May-2014,Karshi CH,3,Hard,R16,274,193,0,Q,1,Alexander Kudryavtsev,Denys Molchanov,6-2 3-1 RET,0.65,4.0%,0.0%,68.0%,50.0%,50.0%,4/7,41.4%,32.7%,4.1%,29.6%,36.4%,0/4,99,2,0,50,34,16,2,1:02
+19-May-2014,Karshi CH,3,Hard,R32,274,864,1,Q,WC,Denys Molchanov,Nigmat Shofayziev,6-3 6-3,1.25,3.3%,8.3%,65.0%,66.7%,47.6%,3/5,55.5%,50.0%,4.0%,37.5%,61.5%,5/8,110,2,5,60,39,21,2,1:02
+12-May-2014,Samarkand CH,3,Clay,R16,285,284,0,Q,,Valery Rudnev,Denys Molchanov,4-6 6-3 6-4,0.94,2.6%,3.8%,66.7%,59.6%,30.8%,3/10,48.5%,47.1%,1.1%,43.1%,59.1%,6/12,165,2,3,78,52,26,1,1:59
+12-May-2014,Samarkand CH,3,Clay,R32,285,282,1,Q,,Denys Molchanov,Pedja Krstin,6-4 7-5,1.13,11.3%,2.5%,55.0%,65.9%,47.2%,5/8,53.0%,47.8%,0.0%,40.4%,63.6%,5/7,149,9,2,80,44,36,0,1:33
+28-Apr-2014,Uzbekistan F3,3,Hard,F,377,787,1,3,,Denys Molchanov,Richard Muzaev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Uzbekistan F3,3,Hard,SF,377,859,1,3,Q,Denys Molchanov,Roman Safiullin,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Uzbekistan F3,3,Hard,QF,377,626,1,3,6,Denys Molchanov,Remi Boutillier,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Uzbekistan F3,3,Hard,R16,377,885,1,3,,Denys Molchanov,Alexander Vasilenko,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Uzbekistan F3,3,Hard,R32,377,739,1,3,,Denys Molchanov,Temur Ismailov,5-7 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Uzbekistan F2,3,Hard,F,380,827,1,2,,Denys Molchanov,Vladimir Uzhylovsky,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Uzbekistan F2,3,Hard,SF,380,787,1,2,,Denys Molchanov,Mikhail Fufygin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Uzbekistan F2,3,Hard,QF,380,,1,2,WC,Denys Molchanov,Roman Safiullin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Uzbekistan F2,3,Hard,R16,380,670,1,2,,Denys Molchanov,Daniiar Duldaev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Uzbekistan F2,3,Hard,R32,380,1687,1,2,Q,Denys Molchanov,Andrey Saveliev,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Uzbekistan F1,3,Hard,R16,309,,0,1,WC,Roman Safiullin,Denys Molchanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Uzbekistan F1,3,Hard,R32,309,,1,1,Q,Denys Molchanov,Adam Majchrowicz,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Ukraine F3,3,Hard,SF,306,351,0,3,2,Artem Smirnov,Denys Molchanov,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Ukraine F3,3,Hard,QF,306,1250,1,3,Q,Denys Molchanov,Lukas Ruepke,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Ukraine F3,3,Hard,R16,306,1515,1,3,Q,Denys Molchanov,Ervin Eleskovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Ukraine F3,3,Hard,R32,306,685,1,3,,Denys Molchanov,Ivan Anikanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Russia F2,3,Hard,F,344,318,1,4,2,Denys Molchanov,Mikhail Biryukov,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Russia F2,3,Hard,SF,344,300,1,4,1,Denys Molchanov,Aslan Karatsev,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Russia F2,3,Hard,QF,344,511,1,4,,Denys Molchanov,Denis Matsukevitch,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Russia F2,3,Hard,R16,344,908,1,4,,Denys Molchanov,Andrei Plotniy,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Russia F2,3,Hard,R32,344,1629,1,4,Q,Denys Molchanov,Andrey Saveliev,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Astana CH,3,Hard,R16,358,202,0,,7,Alexander Kudryavtsev,Denys Molchanov,7-5 6-4,0.50,5.9%,1.5%,48.5%,72.7%,60.0%,11/13,44.6%,17.0%,9.4%,11.9%,36.4%,0/0,121,4,1,68,33,35,5,1:19
+17-Feb-2014,Astana CH,3,Hard,R32,358,222,1,,,Denys Molchanov,Amir Weintraub,6-1 6-3,1.71,15.6%,0.0%,66.7%,66.7%,73.3%,1/2,60.6%,53.1%,2.0%,47.1%,66.7%,5/7,94,7,0,45,30,15,1,0:52
+20-Jan-2014,Maui CH,3,Hard,QF,320,156,0,,,Tatsuma Ito,Denys Molchanov,4-6 6-3 7-6(5),0.88,3.7%,2.8%,60.6%,65.2%,46.5%,7/12,48.1%,37.1%,0.0%,34.5%,40.5%,5/9,206,4,3,109,66,43,0,2:26
+20-Jan-2014,Maui CH,3,Hard,R16,320,,1,,WC,Denys Molchanov,Thibaud Berland,6-2 6-2,1.38,7.5%,1.9%,50.9%,55.6%,69.2%,3/4,57.3%,52.0%,0.0%,45.2%,63.2%,5/10,103,4,1,53,27,26,0,1:10
+20-Jan-2014,Maui CH,3,Hard,R32,320,569,1,,LL,Denys Molchanov,Kento Takeuchi,6-1 6-4,1.36,6.9%,0.0%,75.9%,61.4%,64.3%,4/5,56.5%,51.5%,0.0%,48.9%,57.1%,5/9,124,4,0,58,44,14,0,1:27
+13-Jan-2014,Australian Open,5,Hard,Q1,320,225,0,,,Andre Ghem,Denys Molchanov,6-4 6-4,0.85,7.7%,0.0%,67.9%,58.5%,56.0%,9/12,47.6%,35.8%,4.5%,23.7%,51.7%,1/6,145,6,0,78,53,25,3,1:24
+30-Dec-2013,Noumea CH,3,Hard,R32,287,228,0,LL,,Gregoire Burquier,Denys Molchanov,6-7(6) 6-4 6-4,0.82,4.0%,5.0%,56.0%,64.3%,47.7%,3/8,46.0%,35.3%,2.9%,28.8%,47.2%,3/7,202,4,5,100,56,44,3,2:37
+25-Nov-2013,Turkey F47,3,Hard,R32,281,1211,0,1,Q,Nikita Kryvonos,Denys Molchanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Champaign CH,3,Hard,R32,261,509,0,,,Prajnesh Gunneswaran,Denys Molchanov,6-4 6-2,0.63,6.4%,0.0%,59.6%,78.6%,31.6%,3/6,41.8%,25.5%,0.0%,16.7%,38.1%,0/0,98,3,0,47,28,19,0,0:55
+4-Nov-2013,Knoxville CH,3,Hard,R32,266,243,0,,,Tennys Sandgren,Denys Molchanov,6-3 6-3,0.77,0.0%,4.8%,56.5%,62.9%,44.4%,6/10,45.1%,35.0%,5.0%,30.2%,47.1%,1/2,122,0,3,62,35,27,3,1:16
+28-Oct-2013,Charlottesville CH,3,Hard,R16,239,91,0,,2,Somdev Devvarman,Denys Molchanov,6-2 6-3,0.73,11.8%,8.8%,55.9%,73.7%,26.7%,6/9,43.5%,34.3%,4.3%,26.5%,41.7%,0/4,138,8,6,68,38,30,3,1:27
+28-Oct-2013,Charlottesville CH,3,Hard,R32,239,319,1,,,Denys Molchanov,Nils Langer,4-6 6-2 6-4,1.28,7.9%,3.4%,68.5%,75.4%,50.0%,4/6,53.7%,41.6%,5.0%,31.8%,60.0%,4/14,190,7,3,89,61,28,5,1:56
+7-Oct-2013,Tiburon CH,3,Hard,R16,233,91,0,,2,Tim Smyczek,Denys Molchanov,3-6 6-4 6-3,0.94,1.0%,5.2%,57.7%,66.1%,48.8%,9/13,48.7%,38.8%,4.1%,33.8%,54.2%,3/8,195,1,5,97,56,41,4,1:56
+7-Oct-2013,Tiburon CH,3,Hard,R32,233,382,1,,,Denys Molchanov,Salvatore Caruso,6-4 2-6 7-6(7),0.92,4.9%,5.8%,66.0%,64.7%,42.9%,10/16,48.7%,39.1%,1.1%,37.7%,41.0%,5/7,195,5,6,103,68,35,1,2:12
+30-Sep-2013,Sacramento CH,3,Hard,R32,236,202,0,,,Samuel Groth,Denys Molchanov,6-3 6-2,0.69,0.0%,5.3%,73.7%,45.2%,40.0%,5/10,41.2%,38.7%,14.5%,23.7%,62.5%,2/9,119,0,3,57,42,15,9,1:06
+23-Sep-2013,Napa CH,3,Hard,R32,236,213,0,,,Matt Reid,Denys Molchanov,6-1 RET,0.47,0.0%,0.0%,68.0%,35.3%,50.0%,2/4,34.0%,28.0%,12.0%,17.6%,50.0%,0/0,50,0,0,25,17,8,3,0:28
+16-Sep-2013,Szczecin CH,3,Clay,R32,226,434,0,,Q,Mate Delic,Denys Molchanov,6-4 6-1,0.46,4.2%,4.2%,66.7%,65.6%,25.0%,0/3,36.7%,22.0%,6.0%,15.6%,33.3%,0/2,98,2,2,48,32,16,3,0:59
+13-Sep-2013,Davis Cup WG PO: ESP vs UKR,3,Clay,RR,227,995,0,,,Marc Lopez,Denys Molchanov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2013,St. Remy CH,3,Hard,R32,234,158,0,,8,Flavio Cipolla,Denys Molchanov,6-3 3-6 6-0,0.88,0.0%,2.5%,58.8%,55.3%,45.5%,7/13,47.1%,42.9%,2.6%,36.0%,55.6%,3/7,157,0,2,80,47,33,2,1:43
+26-Aug-2013,US Open,5,Hard,Q2,234,150,0,,32,Stephane Robert,Denys Molchanov,7-5 6-4,0.75,1.3%,4.0%,54.7%,70.7%,50.0%,5/8,47.0%,28.8%,5.1%,24.0%,32.4%,1/1,134,1,3,75,41,34,3,1:14
+26-Aug-2013,US Open,5,Hard,Q1,234,154,1,,,Denys Molchanov,Ruben Bemelmans,7-5 6-4,1.06,7.0%,7.0%,59.2%,73.8%,44.8%,5/7,51.9%,40.3%,6.5%,25.0%,68.2%,4/7,133,5,5,71,42,29,4,1:20
+5-Aug-2013,Aptos CH,3,Hard,R16,248,121,0,Q,5,Wayne Odesnik,Denys Molchanov,6-3 6-2,0.59,6.5%,6.5%,45.2%,53.6%,47.1%,6/10,40.5%,29.6%,3.7%,28.9%,31.3%,1/2,116,4,4,62,28,34,2,1:13
+5-Aug-2013,Aptos CH,3,Hard,R32,248,179,1,Q,,Denys Molchanov,Hiroki Moriya,6-4 6-2,1.67,10.6%,2.1%,55.3%,65.4%,71.4%,1/3,59.2%,53.4%,0.0%,48.9%,60.7%,5/11,120,5,1,47,26,21,0,1:19
+29-Jul-2013,Washington,3,Hard,Q1,246,124,0,,4,Jesse Levine,Denys Molchanov,6-4 7-6(5),0.70,14.8%,4.9%,56.8%,71.7%,51.4%,5/7,46.0%,26.1%,11.6%,14.6%,52.4%,1/7,150,12,4,81,46,35,8,1:26
+22-Jul-2013,Lexington CH,3,Hard,R32,241,150,0,,1,Illya Marchenko,Denys Molchanov,3-6 6-2 6-3,0.87,10.5%,9.3%,62.8%,63.0%,50.0%,3/7,47.9%,36.4%,11.7%,31.4%,40.5%,2/6,163,9,8,86,54,32,9,1:41
+15-Jul-2013,Bogota,3,Hard,Q2,230,542,0,2,,Emilio Gomez,Denys Molchanov,7-6(2) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Newport,3,Grass,Q2,235,402,0,8,,Adrien Bossel,Denys Molchanov,4-6 7-6(6) 6-4,0.95,9.3%,8.4%,55.1%,66.1%,45.8%,3/8,48.6%,40.7%,1.8%,32.7%,48.3%,5/12,220,10,9,107,59,48,2,2:19
+24-Jun-2013,Wimbledon,5,Grass,Q2,244,251,0,,,Martin Fischer,Denys Molchanov,4-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Wimbledon,5,Grass,Q1,244,257,1,,,Denys Molchanov,Michael Yani,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Halle,3,Grass,Q3,237,319,0,8,,Riccardo Ghedin,Denys Molchanov,6-4 6-4,0.49,7.8%,4.7%,65.6%,71.4%,45.5%,2/4,43.4%,18.4%,4.1%,6.5%,38.9%,0/0,113,5,3,64,42,22,2,1:09
+10-Jun-2013,Halle,3,Grass,Q2,237,532,1,8,,Denys Molchanov,Greg Ouellette,7-6(1) 6-4,1.74,24.6%,3.5%,70.2%,77.5%,70.6%,2/4,55.5%,42.7%,3.4%,36.7%,55.2%,3/15,146,14,2,57,40,17,3,1:28
+10-Jun-2013,Halle,3,Grass,Q1,237,403,1,8,,Denys Molchanov,Robin Kern,6-0 6-4,2.24,16.7%,0.0%,69.0%,82.8%,69.2%,0/0,62.0%,48.0%,10.0%,36.7%,65.0%,4/7,92,7,0,42,29,13,5,0:49
+27-May-2013,Roland Garros,5,Clay,Q1,234,127,0,,17,Jiri Vesely,Denys Molchanov,7-6(7) 6-2,0.66,4.3%,4.3%,49.3%,61.8%,54.3%,0/2,43.3%,27.7%,6.2%,30.2%,22.7%,0/7,134,3,3,69,34,35,4,1:28
+13-May-2013,Samarkand CH,3,Clay,R32,213,191,0,Q,5,Jan Mertl,Denys Molchanov,6-1 7-6(2),0.59,2.9%,4.4%,66.2%,64.4%,39.1%,5/9,42.6%,25.9%,13.0%,12.5%,45.5%,1/3,122,2,3,68,45,23,7,1:27
+29-Apr-2013,Tallahassee CH,3,Clay,R32,206,110,0,,3,Wayne Odesnik,Denys Molchanov,4-6 6-3 6-4,0.87,3.8%,3.8%,57.5%,65.6%,48.9%,8/12,48.0%,36.2%,3.2%,25.4%,54.3%,3/9,200,4,4,106,61,45,3,2:22
+22-Apr-2013,Savannah CH,3,Clay,R32,207,571,0,,Q,Nicolas Massu,Denys Molchanov,6-4 6-7(5) 7-6(4),0.90,0.6%,1.2%,63.8%,49.0%,55.9%,17/24,48.1%,43.7%,0.0%,41.3%,50.0%,6/12,289,1,2,163,104,59,0,3:56
+15-Apr-2013,Sarasota CH,3,Clay,SF,238,120,0,,8,Wayne Odesnik,Denys Molchanov,7-6(1) 6-7(1) 6-1,0.79,5.1%,4.2%,64.4%,69.7%,47.6%,13/16,47.2%,30.0%,2.0%,25.8%,38.2%,1/2,218,6,5,118,76,42,2,2:40
+15-Apr-2013,Sarasota CH,3,Clay,QF,238,104,1,,6,Denys Molchanov,Guido Pella,7-6(4) 4-6 7-5,1.09,4.3%,5.2%,53.0%,73.8%,51.9%,5/8,50.8%,39.7%,3.8%,31.9%,48.4%,3/19,246,5,6,115,61,54,5,2:49
+15-Apr-2013,Sarasota CH,3,Clay,R16,238,240,1,,,Denys Molchanov,Frank Dancevic,7-5 7-6(2),1.17,8.8%,1.5%,55.9%,60.5%,66.7%,3/7,52.9%,43.1%,11.1%,28.2%,60.6%,5/9,140,6,1,68,38,30,8,1:34
+15-Apr-2013,Sarasota CH,3,Clay,R32,238,136,1,,,Denys Molchanov,Ivo Karlovic,6-4 3-6 6-1,1.14,4.0%,5.3%,60.0%,80.0%,56.7%,1/2,52.8%,33.3%,11.6%,19.4%,48.5%,3/5,144,3,4,75,45,30,8,1:30
+5-Apr-2013,Davis Cup G1 R2: UKR vs SWE,3,Hard,RR,242,642,0,,,Markus Eriksson,Denys Molchanov,7-5 4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Le Gosier CH,3,Hard,R16,242,38,0,,1,Benoit Paire,Denys Molchanov,6-4 5-7 6-2,0.91,5.6%,6.7%,59.6%,66.0%,36.1%,6/13,47.4%,41.7%,5.8%,27.6%,60.0%,5/12,192,5,6,89,53,36,6,1:46
+25-Mar-2013,Le Gosier CH,3,Hard,R32,242,262,1,,,Denys Molchanov,Alex Kuznetsov,6-3 6-3,1.51,12.2%,2.0%,67.3%,81.8%,43.8%,0/1,57.3%,46.3%,5.6%,37.1%,63.2%,4/4,103,6,1,49,33,16,3,1:09
+25-Feb-2013,Delray Beach,3,Hard,Q3,217,109,0,,3,Ernests Gulbis,Denys Molchanov,6-7(4) 7-5 6-4,0.70,3.1%,8.7%,55.1%,64.3%,50.9%,9/14,45.7%,29.2%,11.5%,22.0%,40.5%,3/6,223,4,11,127,70,57,11,2:30
+25-Feb-2013,Delray Beach,3,Hard,Q2,217,161,1,,,Denys Molchanov,Andrey Golubev,6-4 7-5,1.15,5.3%,4.0%,58.7%,79.5%,48.4%,5/6,53.6%,38.5%,6.2%,37.1%,40.0%,3/4,140,4,3,75,44,31,4,1:23
+25-Feb-2013,Delray Beach,3,Hard,Q1,217,136,1,,8,Denys Molchanov,Thiago Alves,6-7(1) 6-4 7-5,1.08,8.3%,4.6%,41.7%,77.8%,52.4%,4/7,50.6%,40.0%,4.0%,40.0%,40.0%,5/14,233,9,5,108,45,63,5,2:14
+11-Feb-2013,San Jose,3,Hard,Q2,220,105,0,,1,Tim Smyczek,Denys Molchanov,6-3 2-1 RET,0.67,4.5%,2.3%,61.4%,66.7%,23.5%,2/5,42.5%,33.3%,2.8%,36.0%,27.3%,1/2,80,2,1,44,27,17,1,0:46
+11-Feb-2013,San Jose,3,Hard,Q1,220,383,1,,,Denys Molchanov,Robin Kern,7-5 6-3,1.38,15.8%,1.8%,68.4%,76.9%,44.4%,3/5,54.9%,46.1%,3.9%,37.8%,53.8%,5/11,133,9,1,57,39,18,3,1:12
+4-Feb-2013,Dallas CH,3,Hard,QF,247,316,0,,WC,Robby Ginepri,Denys Molchanov,6-2 3-6 7-6(3),0.73,1.8%,3.6%,52.7%,67.8%,50.9%,4/7,46.7%,29.4%,3.5%,30.9%,26.7%,2/6,197,2,4,112,59,53,3,1:59
+4-Feb-2013,Dallas CH,3,Hard,R16,247,170,1,,,Denys Molchanov,Bobby Reynolds,6-3 7-5,1.17,4.9%,3.7%,62.2%,68.6%,38.7%,8/11,54.2%,50.0%,6.5%,40.0%,59.4%,5/9,144,4,3,82,51,31,4,1:26
+4-Feb-2013,Dallas CH,3,Hard,R32,247,129,1,,8,Denys Molchanov,Alex Bogomolov Jr,7-5 7-6(5),0.93,3.2%,8.6%,45.2%,73.8%,45.1%,4/7,49.7%,38.9%,6.9%,37.2%,41.4%,4/5,165,3,8,93,42,51,5,1:33
+14-Jan-2013,Australian Open,5,Hard,Q3,243,233,0,,,Adrian Menendez Maceiras,Denys Molchanov,6-4 6-3,0.62,4.3%,4.3%,60.0%,76.2%,25.0%,5/8,43.2%,27.3%,9.1%,30.3%,22.7%,0/1,125,3,3,70,42,28,5,1:18
+14-Jan-2013,Australian Open,5,Hard,Q2,243,139,1,,20,Denys Molchanov,Marc Gicquel,6-4 3-6 6-3,1.04,9.1%,7.1%,60.6%,71.7%,48.7%,9/11,51.0%,38.7%,7.5%,14.3%,58.8%,3/9,192,9,7,99,60,39,7,1:50
+14-Jan-2013,Australian Open,5,Hard,Q1,243,229,1,,,Denys Molchanov,Farrukh Dustov,7-6(5) 6-4,1.15,5.1%,2.6%,48.7%,84.2%,50.0%,7/8,51.8%,38.4%,2.3%,27.4%,66.7%,2/7,164,4,2,78,38,40,2,1:47
+31-Dec-2012,Noumea CH,3,Hard,QF,267,192,0,,7,Adrian Mannarino,Denys Molchanov,6-2 6-0,0.54,3.0%,6.1%,69.7%,39.1%,40.0%,2/7,35.4%,32.6%,2.2%,25.9%,42.1%,0/2,79,1,2,33,23,10,1,0:53
+31-Dec-2012,Noumea CH,3,Hard,R16,267,1274,1,,Q,Denys Molchanov,Maxime Chazal,6-3 6-4,1.87,4.2%,4.2%,66.7%,81.3%,62.5%,0/1,57.7%,46.7%,1.3%,43.2%,50.0%,4/11,123,2,2,48,32,16,1,1:20
+31-Dec-2012,Noumea CH,3,Hard,R32,267,118,1,,2,Denys Molchanov,Florent Serra,6-4 7-5,1.03,7.5%,4.3%,57.0%,71.7%,45.0%,10/12,52.6%,41.0%,1.6%,31.3%,51.7%,4/7,154,7,4,93,53,40,1,1:42
+19-Nov-2012,Tyumen CH,3,Hard,QF,281,162,0,,4,Ivan Sergeyev,Denys Molchanov,6-3 6-3,0.65,5.7%,4.3%,51.4%,63.9%,41.2%,5/9,44.0%,30.4%,0.0%,28.1%,35.7%,1/1,116,4,3,70,36,34,0,1:17
+19-Nov-2012,Tyumen CH,3,Hard,R16,281,275,1,,,Denys Molchanov,Dzmitry Zhyrmont,6-1 6-2,1.68,4.3%,0.0%,52.2%,70.8%,68.2%,3/3,60.4%,51.1%,6.7%,36.0%,70.0%,5/6,91,2,0,46,24,22,3,0:56
+19-Nov-2012,Tyumen CH,3,Hard,R32,281,412,1,,,Denys Molchanov,Ivo Klec,6-2 6-0,4.46,28.1%,0.0%,62.5%,100.0%,66.7%,0/0,67.9%,55.8%,0.0%,48.6%,73.3%,5/8,84,9,0,32,20,12,0,0:46
+22-Oct-2012,Kazakhstan F9,3,Hard,F,346,674,1,2,,Denys Molchanov,Alexander Rumyantsev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,SF,346,348,1,2,3,Denys Molchanov,Marcin Gawron,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,QF,346,430,1,2,7,Denys Molchanov,Germain Gigounon,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,R16,346,532,1,2,,Denys Molchanov,Egor Gerasimov,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,R32,346,505,1,2,,Denys Molchanov,Andriej Kapas,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,F,345,349,0,2,1,Marcin Gawron,Denys Molchanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,SF,345,377,1,2,4,Denys Molchanov,Victor Baluda,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,QF,345,451,1,2,7,Denys Molchanov,Grzegorz Panfil,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,R16,345,1546,1,2,Q,Denys Molchanov,Fedor Chervyakov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,R32,345,602,1,2,,Denys Molchanov,Sergei Krotiouk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Tashkent CH,3,Hard,R32,361,171,0,Q,,Adrian Menendez Maceiras,Denys Molchanov,6-4 6-1,0.73,3.6%,0.0%,55.4%,61.3%,36.0%,3/7,42.9%,36.5%,4.8%,29.7%,46.2%,1/6,119,2,0,56,31,25,3,1:17
+24-Sep-2012,Lermontov CH,3,Clay,R32,357,259,0,,8,Konstantin Kravchuk,Denys Molchanov,6-3 6-2,0.61,0.0%,0.0%,63.1%,56.1%,50.0%,9/12,42.4%,28.3%,7.5%,22.9%,38.9%,0/1,118,0,0,65,41,24,4,1:15
+3-Sep-2012,Shanghai CH,3,Hard,R32,313,163,0,,4,Yuichi Sugita,Denys Molchanov,6-2 6-1,0.39,3.5%,3.5%,47.4%,51.9%,46.7%,2/6,37.1%,20.0%,12.5%,18.5%,23.1%,0/0,97,2,2,57,27,30,5,1:04
+27-Aug-2012,Bangkok CH,3,Hard,R32,313,322,0,,,John Millman,Denys Molchanov,6-5 RET,0.73,2.8%,5.6%,44.4%,68.8%,45.0%,2/3,44.8%,32.3%,6.5%,27.8%,38.5%,1/1,67,1,2,36,16,20,2,0:46
+6-Aug-2012,Pozoblanco CH,3,Hard,R16,268,196,0,,,Adrian Mannarino,Denys Molchanov,7-6(3) 6-2,0.62,6.9%,8.6%,63.8%,70.3%,42.9%,2/5,42.6%,24.6%,1.8%,27.9%,14.3%,1/1,115,4,5,58,37,21,1,1:18
+6-Aug-2012,Pozoblanco CH,3,Hard,R32,268,276,1,,,Denys Molchanov,Luca Vanni,7-5 6-4,1.52,6.6%,6.6%,45.9%,85.7%,69.7%,4/4,55.1%,34.8%,4.5%,32.6%,40.0%,2/7,127,4,4,61,28,33,3,1:30
+23-Jul-2012,Astana CH,3,Hard,R32,254,164,0,,4,Marsel Ilhan,Denys Molchanov,6-4 7-6(5),0.93,7.1%,4.3%,48.6%,79.4%,52.8%,1/3,48.3%,32.0%,5.3%,26.7%,40.0%,1/5,145,5,3,70,34,36,4,1:42
+16-Jul-2012,Penza CH,3,Hard,QF,274,207,0,6,3,Konstantin Kravchuk,Denys Molchanov,6-3 7-5,0.73,1.1%,6.7%,51.7%,60.9%,41.9%,12/17,45.2%,35.1%,1.8%,27.3%,45.8%,2/4,146,1,6,89,46,43,1,1:46
+16-Jul-2012,Penza CH,3,Hard,R16,274,626,1,6,,Denys Molchanov,Sergei Krotiouk,6-3 6-4,1.51,6.5%,3.2%,58.1%,91.7%,50.0%,2/2,57.8%,38.9%,0.0%,41.9%,34.8%,2/4,116,4,2,62,36,26,0,1:27
+16-Jul-2012,Penza CH,3,Hard,R32,274,390,1,6,,Denys Molchanov,Ervand Gasparyan,7-5 6-0,2.03,17.4%,6.5%,60.9%,78.6%,66.7%,0/1,62.6%,52.8%,7.5%,33.3%,85.0%,5/8,99,8,3,46,28,18,4,0:53
+17-Jun-2012,s Hertogenbosch,3,Grass,Q2,260,309,0,7,,Mikhail Ledovskikh,Denys Molchanov,7-5 6-3,0.67,5.6%,0.0%,59.3%,75.0%,54.5%,4/6,43.8%,22.4%,12.1%,16.7%,37.5%,0/0,112,3,0,54,32,22,7,1:03
+17-Jun-2012,s Hertogenbosch,3,Grass,Q1,260,1881,1,7,WC,Denys Molchanov,Kimmer Coppejans,7-6(3) 6-4,1.31,5.3%,8.0%,53.3%,80.0%,48.6%,3/5,54.0%,45.5%,1.0%,41.1%,51.2%,3/10,174,4,6,75,40,35,1,1:44
+11-Jun-2012,Halle,3,Grass,Q3,267,217,0,,8,Ze Zhang,Denys Molchanov,1-6 6-1 6-4,1.03,2.4%,3.6%,57.1%,56.3%,55.6%,5/10,50.6%,45.2%,1.2%,32.6%,60.5%,4/8,168,2,3,84,48,36,1,1:47
+11-Jun-2012,Halle,3,Grass,Q2,267,130,1,,2,Denys Molchanov,Marco Chiudinelli,6-2 5-7 6-4,1.34,6.5%,1.1%,62.0%,71.9%,60.0%,8/10,54.4%,43.8%,1.8%,37.5%,55.0%,4/12,204,6,1,92,57,35,2,2:12
+11-Jun-2012,Halle,3,Grass,Q1,267,334,1,,,Denys Molchanov,Ilija Bozoljac,7-6(4) 2-6 6-4,0.86,4.8%,2.9%,61.0%,71.9%,61.0%,11/13,49.0%,28.0%,9.7%,24.1%,33.3%,1/6,198,5,3,105,64,41,9,1:56
+14-May-2012,Fergana CH,3,Hard,SF,249,297,0,8,,Yuki Bhambri,Denys Molchanov,3-6 6-3 6-3,0.76,6.5%,2.8%,60.2%,64.6%,44.2%,11/15,46.7%,32.9%,5.3%,24.0%,50.0%,2/8,184,7,3,108,65,43,4,2:00
+14-May-2012,Fergana CH,3,Hard,QF,249,267,1,8,9,Denys Molchanov,Farrukh Dustov,6-4 6-4,1.76,7.8%,7.8%,62.7%,81.3%,63.2%,2/3,57.5%,44.9%,5.8%,40.4%,58.8%,3/11,120,4,4,51,32,19,4,1:17
+14-May-2012,Fergana CH,3,Hard,R16,249,1158,1,8,Q,Denys Molchanov,Daniiar Duldaev,7-6(3) 6-1,1.58,13.2%,1.5%,57.4%,79.5%,65.5%,2/2,57.8%,41.8%,4.5%,32.4%,53.3%,2/6,135,9,1,68,39,29,3,1:20
+14-May-2012,Fergana CH,3,Hard,R32,249,1099,1,8,WC,Denys Molchanov,Nigmat Shofayziev,6-1 6-2,2.54,2.8%,8.3%,63.9%,82.6%,69.2%,0/0,64.8%,56.4%,3.6%,46.9%,69.6%,5/7,91,1,3,36,23,13,2,0:48
+7-May-2012,Athens CH,3,Hard,R16,251,146,0,,5,Ruben Bemelmans,Denys Molchanov,7-5 6-3,0.76,5.6%,2.8%,61.1%,65.9%,39.3%,0/4,45.0%,33.8%,7.4%,20.0%,60.9%,1/4,140,4,2,72,44,28,5,1:27
+7-May-2012,Athens CH,3,Hard,R32,251,300,1,,Q,Denys Molchanov,Ilija Bozoljac,7-5 6-3,1.31,0.0%,1.7%,50.8%,70.0%,69.0%,0/1,54.6%,40.0%,13.3%,21.1%,72.7%,3/5,119,0,1,59,30,29,8,1:21
+23-Apr-2012,Kaohsiung CH,3,Hard,R32,249,193,0,,,Jimmy Wang,Denys Molchanov,6-3 6-1,0.38,12.5%,4.2%,62.5%,56.7%,38.9%,3/7,35.6%,19.0%,4.8%,17.4%,21.1%,0/1,90,6,2,48,30,18,2,1:03
+9-Apr-2012,Mersin CH,3,Clay,R32,241,212,0,,,Pavol Cervenak,Denys Molchanov,6-3 6-2,0.43,2.1%,2.1%,61.7%,48.3%,50.0%,0/4,36.4%,22.0%,12.2%,14.8%,35.7%,0/0,88,1,1,47,29,18,5,0:52
+6-Apr-2012,Davis Cup G2 R2: UKR vs CYP,3,Hard,RR,239,,1,,,Denys Molchanov,Sergis Kyratzis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Russia F7,3,Hard,SF,239,288,0,1,3,Boy Westerhof,Denys Molchanov,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Russia F7,3,Hard,QF,239,455,1,1,,Denys Molchanov,Andis Juska,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Russia F7,3,Hard,R16,239,1785,1,1,WC,Denys Molchanov,Mikhail Vaks,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Russia F7,3,Hard,R32,239,797,1,1,,Denys Molchanov,Vadim Alekseenko,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Pingguo CH,3,Hard,SF,270,104,0,,2,Malek Jaziri,Denys Molchanov,6-1 1-0 RET,0.43,0.0%,0.0%,57.7%,46.7%,36.4%,2/5,34.0%,25.0%,0.0%,18.8%,37.5%,0/1,50,0,0,26,15,11,0,0:35
+12-Mar-2012,Pingguo CH,3,Hard,QF,270,248,1,,,Denys Molchanov,Ze Zhang,4-6 7-6(6) 7-6(4),0.94,5.0%,2.1%,53.2%,61.3%,50.0%,9/14,49.2%,41.3%,4.1%,23.4%,61.4%,4/9,262,7,3,141,75,66,5,3:15
+12-Mar-2012,Pingguo CH,3,Hard,R16,270,219,1,,8,Denys Molchanov,Harri Heliovaara,7-5 7-5,1.14,5.7%,0.0%,65.5%,70.2%,40.0%,8/11,53.5%,45.8%,2.8%,34.7%,69.6%,5/8,159,5,0,87,57,30,2,1:49
+12-Mar-2012,Pingguo CH,3,Hard,R32,270,1283,1,,Q,Denys Molchanov,Nian Feng,6-4 6-2,1.18,5.7%,0.0%,57.1%,65.0%,56.7%,8/9,53.6%,45.6%,0.0%,37.5%,65.0%,4/10,138,4,0,70,40,30,0,1:20
+5-Mar-2012,Kyoto CH,3,Carpet,R32,270,104,0,,2,Malek Jaziri,Denys Molchanov,6-7(7) 7-6(5) 6-0,0.68,7.4%,3.7%,48.1%,67.3%,48.2%,4/9,44.4%,28.9%,4.4%,17.8%,40.0%,2/2,198,8,4,108,52,56,4,2:06
+27-Feb-2012,Singapore CH,3,Hard,R32,267,608,0,,WC,Liang Chi Huang,Denys Molchanov,6-3 5-7 6-2,0.91,7.7%,7.7%,61.5%,66.7%,46.7%,1/5,46.3%,37.3%,5.5%,32.8%,42.9%,2/13,188,6,6,78,48,30,6,2:17
+10-Feb-2012,Davis Cup G2 R1: UKR vs MON,3,Hard,RR,253,320,1,,,Denys Molchanov,Benjamin Balleret,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Burnie CH,3,Hard,R32,250,186,0,,6,Danai Udomchoke,Denys Molchanov,7-6(6) 6-1,0.80,6.3%,3.8%,60.0%,66.7%,37.5%,7/10,45.3%,35.8%,1.2%,32.1%,42.9%,1/4,161,5,3,80,48,32,1,1:39
+16-Jan-2012,Australian Open,5,Hard,Q3,267,156,0,,29,Florent Serra,Denys Molchanov,6-3 6-3,0.67,12.2%,8.2%,53.1%,65.4%,56.5%,2/5,43.4%,26.0%,4.0%,25.0%,27.8%,0/1,99,6,4,49,26,23,2,0:59
+16-Jan-2012,Australian Open,5,Hard,Q2,267,99,1,,1,Denys Molchanov,Go Soeda,6-4 6-2,1.40,5.6%,0.0%,90.7%,77.6%,20.0%,2/2,55.6%,38.9%,3.7%,34.7%,80.0%,3/4,108,3,0,54,49,5,2,1:08
+16-Jan-2012,Australian Open,5,Hard,Q1,267,1230,1,,WC,Denys Molchanov,Andrew Harris,6-1 7-5,1.43,4.7%,3.1%,56.3%,77.8%,53.6%,1/2,56.8%,47.1%,0.0%,52.9%,41.2%,4/10,132,3,2,64,36,28,0,1:48
+1-Jan-2012,Brisbane,3,Hard,Q1,267,146,0,,6,Jurgen Zopp,Denys Molchanov,7-5 1-4 RET,0.86,4.6%,0.0%,58.5%,71.1%,51.9%,7/9,50.5%,31.8%,4.5%,30.0%,35.7%,2/3,109,3,0,65,38,27,2,1:11
+14-Nov-2011,Champaign CH,3,Hard,R32,277,119,0,,3,Vasek Pospisil,Denys Molchanov,6-1 6-4,0.67,1.7%,5.2%,55.2%,68.8%,38.5%,3/6,42.6%,29.8%,7.0%,14.7%,52.2%,0/0,115,1,3,58,32,26,4,1:04
+7-Nov-2011,Knoxville CH,3,Hard,R32,278,284,0,,,Jamie Baker,Denys Molchanov,6-3 3-1 DEF,0.51,1.7%,1.7%,66.1%,61.5%,35.0%,9/12,41.7%,24.3%,0.0%,25.0%,22.2%,0/1,96,1,1,59,39,20,0,1:08
+31-Oct-2011,Charlottesville CH,3,Hard,R32,276,241,0,,,Harri Heliovaara,Denys Molchanov,7-5 6-7(3) 6-2,0.80,4.5%,3.0%,50.8%,64.2%,46.2%,11/17,46.5%,35.8%,3.7%,33.8%,39.0%,3/8,241,6,4,132,67,65,4,2:33
+17-Oct-2011,Moscow,3,Hard,Q2,264,239,0,,8,Dusan Lajovic,Denys Molchanov,6-1 7-6(8),0.63,2.9%,2.9%,71.0%,63.3%,45.0%,3/6,43.7%,26.3%,1.8%,18.9%,40.0%,0/0,126,2,2,69,49,20,1,1:15
+17-Oct-2011,Moscow,3,Hard,Q1,264,1009,1,,WC,Denys Molchanov,Ashot Khacharyan,6-3 6-3,1.26,3.2%,4.8%,55.6%,71.4%,46.4%,1/3,55.6%,50.0%,1.9%,42.9%,63.2%,5/5,117,2,3,63,35,28,1,1:08
+19-Sep-2011,Tashkent CH,3,Hard,QF,290,244,0,,,Raven Klaasen,Denys Molchanov,7-6(6) 6-3,0.76,14.1%,2.6%,62.8%,61.2%,65.5%,4/5,46.3%,28.2%,7.0%,15.6%,50.0%,0/0,149,11,2,78,49,29,5,1:36
+19-Sep-2011,Tashkent CH,3,Hard,R16,290,453,1,,WC,Denys Molchanov,Vishnu Vardhan,6-7(4) 6-3 7-5,1.14,6.1%,4.3%,60.0%,82.6%,45.7%,9/10,52.4%,36.6%,4.5%,25.4%,56.1%,3/7,227,7,5,115,69,46,5,2:28
+19-Sep-2011,Tashkent CH,3,Hard,R32,290,149,1,,,Denys Molchanov,Arnau Brugues Davi,6-4 6-3,1.63,18.0%,6.0%,62.0%,77.4%,63.2%,3/4,56.8%,45.6%,2.9%,39.0%,55.6%,4/8,118,9,3,50,31,19,2,0:58
+12-Sep-2011,Ningbo CH,3,Hard,R32,290,134,0,,3,Alexander Kudryavtsev,Denys Molchanov,7-6(3) 6-4,0.69,9.1%,1.5%,53.0%,74.3%,64.5%,2/3,46.1%,21.0%,9.7%,9.8%,42.9%,0/1,128,6,1,66,35,31,6,1:24
+22-Aug-2011,Astana2 CH,3,Hard,R16,297,124,0,,1,Rainer Schuettler,Denys Molchanov,6-1 6-1,0.60,0.0%,11.6%,55.8%,33.3%,21.1%,3/10,36.0%,43.5%,0.0%,40.6%,50.0%,2/3,89,0,5,43,24,19,0,0:52
+22-Aug-2011,Astana2 CH,3,Hard,R32,297,353,1,,,Denys Molchanov,Mikhail Vasiliev,6-2 7-5,1.69,9.4%,5.7%,64.2%,76.5%,57.9%,0/2,60.0%,50.9%,3.5%,30.3%,79.2%,5/8,110,5,3,53,34,19,2,1:06
+15-Aug-2011,Karshi CH,3,Hard,QF,326,171,0,,3,Konstantin Kravchuk,Denys Molchanov,4-6 6-4 6-1,0.72,5.7%,2.3%,70.5%,66.1%,42.3%,6/10,45.0%,29.6%,13.6%,22.9%,39.4%,2/9,169,5,2,88,62,26,11,1:52
+15-Aug-2011,Karshi CH,3,Hard,R16,326,462,1,,WC,Denys Molchanov,Christopher Rungkat,6-1 3-6 6-4,1.04,4.4%,3.3%,62.2%,62.5%,44.1%,4/8,51.2%,46.3%,0.0%,41.3%,64.7%,6/10,170,4,3,90,56,34,0,1:48
+15-Aug-2011,Karshi CH,3,Hard,R32,326,242,1,,8,Denys Molchanov,Ivo Klec,7-6(3) 7-5,1.29,10.1%,3.8%,67.1%,73.6%,53.8%,3/5,53.4%,42.4%,5.1%,34.5%,53.7%,3/11,178,8,3,79,53,26,5,1:44
+8-Aug-2011,Kazakhstan F5,3,Hard,QF,352,498,0,1,5,Mohamed Safwat,Denys Molchanov,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Kazakhstan F5,3,Hard,R16,352,,1,1,Q,Denys Molchanov,Daniiar Duldaev,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Kazakhstan F5,3,Hard,R32,352,,1,1,LL,Denys Molchanov,Gennady Ushakov,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Kazakhstan F4,3,Hard,F,332,230,0,3,1,Malek Jaziri,Denys Molchanov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Kazakhstan F4,3,Hard,SF,332,583,1,3,,Denys Molchanov,Ranjeet Virali Murugesan,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Kazakhstan F4,3,Hard,QF,332,476,1,3,7,Denys Molchanov,Roman Jebavy,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Kazakhstan F4,3,Hard,R16,332,958,1,3,,Denys Molchanov,Sarvar Ikramov,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Kazakhstan F4,3,Hard,R32,332,610,1,3,,Denys Molchanov,Rohan Gajjar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Astana CH,3,Hard,R16,353,69,0,,2,Mikhail Kukushkin,Denys Molchanov,6-7(2) 6-4 6-3,0.78,7.1%,2.7%,58.4%,65.2%,53.2%,7/11,47.3%,31.1%,3.3%,19.6%,46.2%,2/5,203,8,3,113,66,47,3,2:31
+25-Jul-2011,Astana CH,3,Hard,R32,353,919,1,,Q,Denys Molchanov,Danjil Braun,6-0 6-2,2.43,10.0%,5.0%,65.0%,88.5%,50.0%,2/2,67.4%,60.9%,0.0%,56.0%,66.7%,5/8,86,4,2,40,26,14,0,0:54
+4-Jul-2011,Pozoblanco CH,3,Hard,R32,344,145,0,Q,6,Alexander Kudryavtsev,Denys Molchanov,6-1 6-1,0.63,1.7%,18.6%,67.8%,60.0%,10.5%,6/11,39.7%,35.5%,4.8%,20.0%,50.0%,0/7,121,1,11,59,40,19,3,0:59
+27-Jun-2011,Spain F22,3,Hard,R32,349,318,0,,,Miloslav Mecir Jr,Denys Molchanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,R32,349,418,0,6,,Benjamin Mitchell,Denys Molchanov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Spain F20,3,Hard,QF,345,334,0,4,5,Ilya Belyaev,Denys Molchanov,3-6 6-3 RET,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Spain F20,3,Hard,R16,345,1097,1,4,,Denys Molchanov,Gerard Gallego Bertran,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Spain F20,3,Hard,R32,345,708,1,4,,Denys Molchanov,Roberto Ortega Olmedo,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Turkey F19,3,Hard,F,402,674,1,1,6,Denys Molchanov,Paris Gemouchidis,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Turkey F19,3,Hard,SF,402,498,1,1,3,Denys Molchanov,Mohamed Safwat,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Turkey F19,3,Hard,QF,402,1006,1,1,,Denys Molchanov,Barry King,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Turkey F19,3,Hard,R16,402,1054,1,1,,Denys Molchanov,Matteo Marfia,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Turkey F19,3,Hard,R32,402,,1,1,Q,Denys Molchanov,Alessandro Petrone,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Turkey F18,3,Hard,F,432,492,1,1,2,Denys Molchanov,Alexandre Folie,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Turkey F18,3,Hard,SF,432,516,1,1,3,Denys Molchanov,Mohamed Safwat,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Turkey F18,3,Hard,QF,432,,1,1,Q,Denys Molchanov,Alessandro Petrone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Turkey F18,3,Hard,R16,432,1441,1,1,,Denys Molchanov,Barkin Yalcinkale,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Turkey F18,3,Hard,R32,432,,1,1,WC,Denys Molchanov,Mert Dinc,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,F,437,663,1,2,,Denys Molchanov,Carlos Calderon Rodriguez,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,SF,437,522,1,2,5,Denys Molchanov,Mohamed Safwat,6-7(6) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,QF,437,579,1,2,8,Denys Molchanov,Marco Simoni,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,R16,437,,1,2,Q,Denys Molchanov,Peter Steinberger,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,R32,437,1044,1,2,,Denys Molchanov,Riccardo Maiga,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Turkey F16,3,Clay,R32,414,758,0,3,,Marc Giner,Denys Molchanov,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Johannesburg CH,3,Hard,R16,413,184,0,Q,6,Rik De Voest,Denys Molchanov,6-3 3-6 6-3,0.76,5.9%,4.4%,45.6%,90.3%,51.4%,1/4,46.3%,23.5%,5.9%,16.3%,36.0%,2/2,136,4,3,68,31,37,4,1:35
+11-Apr-2011,Johannesburg CH,3,Hard,R32,413,293,1,Q,,Denys Molchanov,Yannick Mertens,6-3 6-4,2.63,12.2%,0.0%,67.3%,90.9%,68.8%,1/1,59.7%,42.9%,4.3%,31.1%,64.0%,2/9,119,6,0,49,33,16,3,1:03
+14-Mar-2011,Russia F1,3,Hard,R16,399,765,0,7,,Ervand Gasparyan,Denys Molchanov,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Russia F1,3,Hard,R32,399,1345,1,7,Q,Denys Molchanov,Artem Pudovkin,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Turkey F8,3,Hard,SF,399,494,0,2,7,Alessandro Giannessi,Denys Molchanov,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Turkey F8,3,Hard,QF,399,490,1,2,5,Denys Molchanov,Razvan Sabau,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Turkey F8,3,Hard,R16,399,1275,1,2,WC,Denys Molchanov,Anil Yuksel,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Turkey F8,3,Hard,R32,399,,1,2,WC,Denys Molchanov,Barkin Yalcinkale,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,R32,422,500,0,6,,Grzegorz Panfil,Denys Molchanov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Turkey F5,3,Hard,F,428,404,0,,7,Cedrik Marcel Stebe,Denys Molchanov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Turkey F5,3,Hard,SF,428,442,1,,,Denys Molchanov,Daniel Smethurst,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Turkey F5,3,Hard,QF,428,409,1,,6,Denys Molchanov,Adrian Cruciat,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Turkey F5,3,Hard,R16,428,732,1,,Q,Denys Molchanov,Ruan Roelofse,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Turkey F5,3,Hard,R32,428,554,1,,,Denys Molchanov,Ivan Nedelko,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,Turkey F4,3,Hard,R16,428,848,0,8,Q,Adam Chadaj,Denys Molchanov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,Turkey F4,3,Hard,R32,428,,1,8,WC,Denys Molchanov,Barkin Yalcinkale,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Turkey F3,3,Hard,SF,441,401,0,6,5,Artem Smirnov,Denys Molchanov,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Turkey F3,3,Hard,QF,441,1639,1,6,Q,Denys Molchanov,David De Goede,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Turkey F3,3,Hard,R16,441,616,1,6,,Denys Molchanov,Jiri Skoloudik,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Turkey F3,3,Hard,R32,441,863,1,6,Q,Denys Molchanov,Jannick Lupescu,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Turkey F2,3,Hard,R16,441,540,0,8,,Aljaz Bedene,Denys Molchanov,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Turkey F2,3,Hard,R32,441,1176,1,8,Q,Denys Molchanov,Tuna Altuna,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2011,Turkey F1,3,Hard,R32,442,559,0,7,,Tihomir Grozdanov,Denys Molchanov,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2010,Turkey F15,3,Clay,R32,438,775,0,4,,Marco Dierckx,Denys Molchanov,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Belarus F4,3,Hard,R32,474,941,0,6,Q,Robert Godlewski,Denys Molchanov,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,F,476,533,0,2,3,Radu Albot,Denys Molchanov,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,SF,476,625,1,2,5,Denys Molchanov,Norbert Gombos,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,QF,476,1396,1,2,Q,Denys Molchanov,Gaetan De Lovinfosse,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,R16,476,,1,2,Q,Denys Molchanov,Philip Orno,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,R32,476,1182,1,2,Q,Denys Molchanov,Adrian Partl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Samarkand CH,3,Clay,R32,372,354,0,,,Jurgen Zopp,Denys Molchanov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Beijing CH,3,Hard,R16,387,218,0,,3,Laurent Recouderc,Denys Molchanov,7-5 6-3,0.36,2.7%,1.4%,63.0%,60.9%,55.6%,4/7,41.7%,14.9%,4.3%,11.5%,19.0%,0/0,120,2,1,73,46,27,2,1:19
+2-Aug-2010,Beijing CH,3,Hard,R32,387,826,1,,Q,Denys Molchanov,Jun Chao Xu,5-7 6-2 6-3,1.37,6.3%,5.1%,68.4%,79.6%,52.0%,2/4,54.4%,40.0%,1.1%,34.3%,56.5%,4/11,169,5,4,79,54,25,1,1:45
+26-Jul-2010,Saransk CH,3,Clay,R32,357,158,0,,2,Conor Niland,Denys Molchanov,6-3 6-4,0.75,4.1%,2.7%,56.2%,63.4%,40.6%,6/9,44.4%,34.8%,1.4%,32.0%,42.1%,1/8,142,3,2,73,41,32,1,1:41
+19-Jul-2010,Penza CH,3,Hard,R16,367,189,0,,5,Uladzimir Ignatik,Denys Molchanov,6-3 6-4,0.74,3.8%,1.9%,52.8%,67.9%,48.0%,1/4,43.5%,30.6%,8.1%,18.9%,48.0%,1/4,115,2,1,53,28,25,5,1:19
+19-Jul-2010,Penza CH,3,Hard,R32,367,266,1,,,Denys Molchanov,Guillermo Olaso,6-4 6-4,1.24,12.5%,4.2%,62.5%,73.3%,55.6%,7/7,54.2%,41.4%,2.9%,38.1%,46.4%,2/9,142,9,3,72,45,27,2,1:38
+12-Jul-2010,Stuttgart,3,Clay,Q1,362,383,0,,,Valery Rudnev,Denys Molchanov,6-3 6-4,0.74,9.1%,3.0%,62.1%,56.1%,28.0%,6/12,43.2%,40.4%,0.0%,32.4%,60.0%,3/4,118,6,2,66,41,25,0,1:18
+14-Jun-2010,France F8,3,Clay,R16,359,,0,6,WC,Xavier Pujo,Denys Molchanov,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,France F8,3,Clay,R32,359,826,1,6,WC,Denys Molchanov,Tak Khunn Wang,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Slovenia F3,3,Clay,QF,384,644,0,2,,Blaz Rola,Denys Molchanov,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Slovenia F3,3,Clay,R16,384,1227,1,2,Q,Denys Molchanov,Tristan Samuel Weissborn,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Slovenia F3,3,Clay,R32,384,870,1,2,WC,Denys Molchanov,Andraz Bedene,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Slovenia F2,3,Clay,F,345,313,0,2,1,Nikola Mektic,Denys Molchanov,6-3 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Slovenia F2,3,Clay,SF,345,480,1,2,5,Denys Molchanov,Steven Diez,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Slovenia F2,3,Clay,QF,345,629,1,2,8,Denys Molchanov,Carlos Calderon Rodriguez,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Slovenia F2,3,Clay,R16,345,1001,1,2,Q,Denys Molchanov,Tomislav Ternar,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Slovenia F2,3,Clay,R32,345,689,1,2,,Denys Molchanov,Adrian Sikora,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Fergana CH,3,Hard,R32,353,286,0,Q,7,Evgeny Kirillov,Denys Molchanov,6-4 6-3,0.86,7.0%,3.5%,63.2%,69.4%,52.4%,3/6,46.3%,31.8%,6.1%,26.2%,41.7%,0/5,123,4,2,57,36,21,4,1:12
+26-Apr-2010,Uzbekistan F2,3,Hard,F,394,267,0,6,1,Alexander Kudryavtsev,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,SF,394,906,1,6,Q,Denys Molchanov,Andrei Vasilevski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,QF,394,315,1,6,3,Denys Molchanov,Artem Sitak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,R16,394,603,1,6,,Denys Molchanov,Murad Inoyatov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Uzbekistan F2,3,Hard,R32,394,736,1,6,,Denys Molchanov,Sarvar Ikramov,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,R16,393,522,0,6,,Adrien Bossel,Denys Molchanov,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Uzbekistan F1,3,Hard,R32,393,1125,1,6,Q,Denys Molchanov,Stanislav Vovk,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2010,Johannesburg CH,3,Hard,R16,417,285,0,Q,Q,Alexander Peya,Denys Molchanov,6-4 7-5,0.74,0.0%,10.7%,60.0%,68.9%,26.7%,5/10,44.5%,35.5%,4.8%,26.8%,52.4%,3/6,137,0,8,75,45,30,3,1:23
+12-Apr-2010,Johannesburg CH,3,Hard,R32,417,147,1,Q,7,Denys Molchanov,Grega Zemlja,7-6(2) 4-6 6-3,1.21,9.9%,2.2%,61.5%,78.6%,62.9%,4/6,53.4%,33.3%,11.5%,28.6%,41.9%,2/3,178,9,2,91,56,35,10,1:47
+22-Mar-2010,Kazakhstan F2,3,Hard,R16,434,416,0,,7,Ilya Belyaev,Denys Molchanov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2010,Kazakhstan F2,3,Hard,R32,434,1735,1,,Q,Denys Molchanov,Ilia Shatskiy,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Kazakhstan F1,3,Hard,SF,436,313,0,,4,Alexander Kudryavtsev,Denys Molchanov,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Kazakhstan F1,3,Hard,QF,436,415,1,,7,Denys Molchanov,Mikhail Ledovskikh,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Kazakhstan F1,3,Hard,R16,436,574,1,,,Denys Molchanov,Sergey Betov,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Kazakhstan F1,3,Hard,R32,436,258,1,,1,Denys Molchanov,Evgeny Kirillov,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2010,USA F2,3,Clay,R32,430,555,0,,Q,Juho Paukku,Denys Molchanov,6-4 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,USA F1,3,Clay,R32,432,345,0,,3,Benoit Paire,Denys Molchanov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2009,St. Petersburg,3,Hard,Q1,438,493,0,,,Sergei Krotiouk,Denys Molchanov,6-2 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Belarus F2,3,Hard,R32,435,,0,1,Q,Stefan Borg,Denys Molchanov,6-7(4) 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Belarus F1,3,Carpet,R16,438,1109,0,1,,Andrei Vasilevski,Denys Molchanov,6-3 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Belarus F1,3,Carpet,R32,438,1789,1,1,Q,Denys Molchanov,Ilia Shatskiy,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Kazakhstan F3,3,Clay,R16,507,792,0,2,,Vaja Uzakov,Denys Molchanov,W/O,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Kazakhstan F3,3,Clay,R32,507,,1,2,Q,Denys Molchanov,Dong Whee Choi,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Turkey F9,3,Hard,F,544,370,0,8,5,Uladzimir Ignatik,Denys Molchanov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Turkey F9,3,Hard,SF,544,275,1,8,2,Denys Molchanov,Pavel Snobel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Turkey F9,3,Hard,QF,544,472,1,8,4,Denys Molchanov,Alexey Kedryuk,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Turkey F9,3,Hard,R16,544,,1,8,Q,Denys Molchanov,Barkin Yalcinkale,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Turkey F9,3,Hard,R32,544,1106,1,8,Q,Denys Molchanov,Robert Coman,2-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Turkey F8,3,Hard,SF,463,358,0,8,3,Alexey Kedryuk,Denys Molchanov,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Turkey F8,3,Hard,QF,463,1821,1,8,WC,Denys Molchanov,Baris Erguden,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Turkey F8,3,Hard,R16,463,1676,1,8,,Denys Molchanov,Jared Easton,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Turkey F8,3,Hard,R32,463,1647,1,8,Q,Denys Molchanov,Haluk Akkoyun,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R16,485,291,0,Q,7,Greg Jones,Denys Molchanov,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R32,485,544,1,Q,,Denys Molchanov,Toshihide Matsui,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Saransk CH,3,Clay,QF,482,133,0,Q,1,Michail Elgin,Denys Molchanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Saransk CH,3,Clay,R16,482,282,1,Q,8,Denys Molchanov,Ivan Sergeyev,4-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Saransk CH,3,Clay,R32,482,443,1,Q,Q,Denys Molchanov,Denis Matsukevitch,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Penza CH,3,Hard,R32,488,236,0,,5,Illya Marchenko,Denys Molchanov,1-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Netherlands F3,3,Clay,R32,449,600,0,8,,Nick Van Der Meer,Denys Molchanov,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Slovenia F3,3,Clay,QF,424,565,0,3,7,Benoit Paire,Denys Molchanov,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Slovenia F3,3,Clay,R16,424,652,1,3,,Denys Molchanov,Thomas Cazes Carrere,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Slovenia F3,3,Clay,R32,424,772,1,3,,Denys Molchanov,Milos Raonic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Poland F2,3,Clay,F,456,949,1,5,Q,Denys Molchanov,Blazej Koniusz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Poland F2,3,Clay,SF,456,403,1,5,4,Denys Molchanov,Hans Podlipnik Castillo,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Poland F2,3,Clay,QF,456,334,1,5,1,Denys Molchanov,Marcin Gawron,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Poland F2,3,Clay,R16,456,873,1,5,,Denys Molchanov,Michal Pazicky,6-2 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Poland F2,3,Clay,R32,456,1141,1,5,Q,Denys Molchanov,Artur Romanowski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2009,Kitzbuhel,3,Clay,Q2,462,205,0,,,Juan Ignacio Chela,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2009,Kitzbuhel,3,Clay,Q1,462,1806,1,,,Denys Molchanov,Gerald Kamitz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2009,Johannesburg CH,3,Hard,R32,473,128,0,Q,4,Thiago Alves,Denys Molchanov,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Khorat CH,3,Hard,R32,486,147,0,Q,8,Danai Udomchoke,Denys Molchanov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,USA F6,3,Hard,R32,463,727,0,8,WC,Greg Ouellette,Denys Molchanov,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Ivory Coast F2,3,Hard,QF,455,297,0,8,2,Andreas Haider Maurer,Denys Molchanov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Ivory Coast F2,3,Hard,R16,455,665,1,8,,Denys Molchanov,Pirmin Haenle,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Ivory Coast F2,3,Hard,R32,455,495,1,8,,Denys Molchanov,Andrej Martin,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Johannesburg,3,Hard,Q3,442,,0,3,,Ross Hutchins,Denys Molchanov,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Johannesburg,3,Hard,Q2,442,,1,3,,Denys Molchanov,Eric Butorac,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Germany F2,3,Hard,R16,443,453,0,,Q,Ricardas Berankis,Denys Molchanov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Germany F2,3,Hard,R32,443,346,1,,4,Denys Molchanov,Peter Gojowczyk,7-6(8) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2009,Germany F1,3,Carpet,R32,444,625,0,8,,Denis Matsukevitch,Denys Molchanov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,R16,447,957,0,7,,Jonathan Kinsella,Denys Molchanov,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,R32,447,618,1,7,,Denys Molchanov,Tihomir Grozdanov,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,R16,453,386,0,,8,Chris Eaton,Denys Molchanov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,R32,453,629,1,,,Denys Molchanov,Tihomir Grozdanov,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Dnepropetrovsk CH,3,Hard,R32,448,175,0,WC,,Karol Beck,Denys Molchanov,7-6(3) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Astana CH,3,Hard,R32,448,298,0,,,Konstantin Kravchuk,Denys Molchanov,0-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q3,448,158,0,,4,Mikhail Kukushkin,Denys Molchanov,6-2 3-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q2,448,265,1,,8,Denys Molchanov,Mikhail Ledovskikh,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q1,448,1350,1,,WC,Denys Molchanov,Igor Rud,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Sweden F2,3,Hard,R32,445,,0,5,Q,Rickard Holmstrom,Denys Molchanov,6-0 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Cherkassy CH,3,Clay,R16,477,252,0,WC,,Illya Marchenko,Denys Molchanov,5-7 6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Cherkassy CH,3,Clay,R32,477,1776,1,WC,WC,Denys Molchanov,Oleksiy Zhornyak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Almaty CH,3,Clay,R16,477,406,0,,,Diego Alvarez,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Almaty CH,3,Clay,R32,477,401,1,,,Denys Molchanov,Andrei Gorban,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,QF,493,426,0,5,3,Andrei Gorban,Denys Molchanov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,R16,493,841,1,5,,Denys Molchanov,Alexei Filenkov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,R32,493,653,1,5,,Denys Molchanov,Artur Chernov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Russia F3,3,Clay,QF,486,393,0,5,3,Pavol Cervenak,Denys Molchanov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Russia F3,3,Clay,R16,486,,1,5,Q,Denys Molchanov,Ilya Lebedev,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Russia F3,3,Clay,R32,486,,1,5,Q,Denys Molchanov,Alan Muzati,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Samarkand CH,3,Clay,R32,485,141,0,,2,Denis Istomin,Denys Molchanov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Saransk CH,3,Clay,R32,509,295,0,,6,Brydan Klein,Denys Molchanov,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Georgia F2,3,Clay,SF,515,358,0,4,1,Matteo Marrai,Denys Molchanov,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Georgia F2,3,Clay,QF,515,984,1,4,,Denys Molchanov,Vishnu Vardhan,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Georgia F2,3,Clay,R16,515,1166,1,4,,Denys Molchanov,Nodar Itonishvili,2-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Georgia F2,3,Clay,R32,515,758,1,4,,Denys Molchanov,Andrei Plotniy,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Romania F10,3,Clay,QF,,,0,8,2,Victor Ionita,Denys Molchanov,6-1 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Romania F10,3,Clay,R16,,1302,1,8,Q,Denys Molchanov,Roel Oostdam,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Romania F10,3,Clay,R32,,,1,8,,Denys Molchanov,Joshua Crowe,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Romania F9,3,Clay,SF,589,426,0,5,1,Victor Ionita,Denys Molchanov,5-7 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Romania F9,3,Clay,QF,589,1000,1,5,,Denys Molchanov,Alexandru Raul Lazar,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Romania F9,3,Clay,R16,589,,1,5,Q,Denys Molchanov,Mario Dierckx,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Romania F9,3,Clay,R32,589,1005,1,5,,Denys Molchanov,Ilie Aurelian Giurgiu,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Ukraine F3,3,Clay,F,619,818,0,3,8,Evgeny Donskoy,Denys Molchanov,6-7(10) 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Ukraine F3,3,Clay,SF,619,1012,1,3,,Denys Molchanov,Ilya Belyaev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Ukraine F3,3,Clay,QF,619,701,1,3,6,Denys Molchanov,Alexander Yarmola,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Ukraine F3,3,Clay,R16,619,1219,1,3,,Denys Molchanov,Nodar Itonishvili,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Ukraine F3,3,Clay,R32,619,901,1,3,,Denys Molchanov,Andrei Ciumac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Ukraine F2,3,Clay,F,593,675,0,2,7,Luca Vanni,Denys Molchanov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Ukraine F2,3,Clay,SF,593,1182,1,2,Q,Denys Molchanov,Carlos Calderon Rodriguez,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Ukraine F2,3,Clay,QF,593,665,1,2,5,Denys Molchanov,Mikhail Vasiliev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Ukraine F2,3,Clay,R16,593,898,1,2,,Denys Molchanov,Mikhail Lifshits,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Ukraine F2,3,Clay,R32,593,1302,1,2,Q,Denys Molchanov,Aleksandr Agafonov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2008,Ukraine F1,3,Clay,R32,,,0,5,Q,Dmytro Petrov,Denys Molchanov,2-6 7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Hungary F3,3,Clay,R16,569,614,0,8,,Alexander Somogyi,Denys Molchanov,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Hungary F3,3,Clay,R32,569,664,1,8,,Denys Molchanov,Vladislav Bondarenko,0-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Russia F2,3,Carpet,R32,564,377,0,,5,Evgeny Kirillov,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2008,Russia F1,3,Carpet,R16,565,403,0,,7,Illya Marchenko,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2008,Russia F1,3,Carpet,R32,565,775,1,,LL,Denys Molchanov,Karlis Lejnieks,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2008,Great Britain F6,3,Carpet,R32,,,0,,4,Josh Goodall,Denys Molchanov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Ivory Coast F2 FUTURES,3,Hard,R16,620,475,0,,3,Boy Westerhof,Denys Molchanov,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Ivory Coast F2 FUTURES,3,Hard,R32,620,,1,,WC,Denys Molchanov,Akre Francis Koffi,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Ivory Coast F1 FUTURES,3,Hard,SF,616,545,0,,,Valentin Sanon,Denys Molchanov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Ivory Coast F1 FUTURES,3,Hard,QF,616,716,1,,,Denys Molchanov,Raven Klaasen,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Ivory Coast F1 FUTURES,3,Hard,R16,616,920,1,,,Denys Molchanov,Matthew Smith,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Ivory Coast F1 FUTURES,3,Hard,R32,616,471,1,,3,Denys Molchanov,Boy Westerhof,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,East London CH,3,Hard,R32,634,290,0,Q,,Izak Van Der Merwe,Denys Molchanov,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Portugal F3,3,Hard,SF,672,503,0,Q,,Artem Sitak,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Portugal F3,3,Hard,QF,672,521,1,Q,,Denys Molchanov,Andrei Mlendea,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Portugal F3,3,Hard,R16,672,549,1,Q,,Denys Molchanov,Alessandro Da Col,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Portugal F3,3,Hard,R32,672,337,1,Q,1,Denys Molchanov,Louk Sorensen,2-2 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Portugal F1,3,Hard,R16,687,412,0,Q,1,Nick Van Der Meer,Denys Molchanov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Portugal F1,3,Hard,R32,687,1391,1,Q,Q,Denys Molchanov,Andoni Vivanco Guzman,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Nov-2007,Israel F5,3,Hard,R32,696,494,0,,6,Xavier Audouy,Denys Molchanov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,R16,684,489,0,,5,Xavier Audouy,Denys Molchanov,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Israel F4,3,Hard,R32,684,700,1,,,Denys Molchanov,Ilia Kushev,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,R16,763,,0,,2,Mikhail Elgin,Denys Molchanov,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Russia F7,3,Clay,R32,763,636,1,,,Denys Molchanov,Alexander Yarmola,6-1 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,SF,,,0,8,3,Pavel Chekhov,Denys Molchanov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,QF,,1010,1,8,,Denys Molchanov,Victor Kozin,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,R16,,,1,8,,Denys Molchanov,Ervand Gasparyan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Russia F6,3,Clay,R32,,,1,8,Q,Denys Molchanov,Aleksander Vasin,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Cherkassy CH,3,Clay,R32,764,305,0,WC,,Diego Junqueira,Denys Molchanov,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Russia F4,3,Clay,R16,752,840,0,,,Alexander Yarmola,Denys Molchanov,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Russia F4,3,Clay,R32,752,1212,1,,Q,Denys Molchanov,Pavel Ivanov,6-0 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,R32,751,338,0,,2,Ivan Sergeyev,Denys Molchanov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Trani CH,3,Clay,R32,795,475,0,Q,,Marco Pedrini,Denys Molchanov,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Bastad Q,3,Clay,Q1,777,169,0,,1,Yuri Schukin,Denys Molchanov,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Belarus F4,3,Clay,R16,788,467,0,,2,Eric Prodon,Denys Molchanov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Belarus F4,3,Clay,R32,788,849,1,,,Denys Molchanov,Egor Puntus,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,SF,868,576,0,8,1,Ivan Sergeyev,Denys Molchanov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,QF,868,680,1,8,4,Denys Molchanov,Deniss Pavlovs,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,R16,868,,1,8,Q,Denys Molchanov,Laurent Montoisy,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,R32,868,1244,1,8,,Denys Molchanov,Artem Isaev,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,SF,,,0,,,Artem Smirnov,Denys Molchanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,QF,,1522,1,,Q,Denys Molchanov,Dmytro Kamynin,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,R16,,,1,,6,Denys Molchanov,Deniss Pavlovs,6-7(6) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,R32,,1522,1,,WC,Denys Molchanov,Mikhail Karpol,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Ukraine F1,3,Clay,QF,825,502,0,8,,Pavel Chekhov,Denys Molchanov,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Ukraine F1,3,Clay,R16,825,982,1,8,,Denys Molchanov,Valery Rudnev,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Ukraine F1,3,Clay,R32,825,,1,8,WC,Denys Molchanov,Artem Chebotarev,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Belarus F2,3,Hard,R32,802,495,0,,3,Alexander Kudryavtsev,Denys Molchanov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Belarus F1,3,Hard,R16,797,505,0,,5,Ivan Cerovic,Denys Molchanov,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Belarus F1,3,Hard,R32,797,1500,1,,Q,Denys Molchanov,Sergey Betov,6-3 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Italy F9,3,Clay,R16,802,872,0,Q,Q,Walter Trusendi,Denys Molchanov,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Italy F9,3,Clay,R32,802,350,1,Q,1,Denys Molchanov,Ricardo Hocevar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2007,USA F1,3,Hard,R32,780,775,0,,,Pierrick Ysern,Denys Molchanov,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Russia F1,3,Hard,R16,797,710,0,,,Vladislav Bondarenko,Denys Molchanov,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Russia F1,3,Hard,R32,797,1227,1,,Q,Denys Molchanov,Pirmin Haenle,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Romania F17,3,Clay,R16,790,613,0,,8,Artemon Apostu Efremov,Denys Molchanov,6-7(3) 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Romania F17,3,Clay,R32,790,1285,1,,LL,Denys Molchanov,Thomas Cristian Hodel,4-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,R16,775,615,0,,7,Artemon Apostu Efremov,Denys Molchanov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,R32,775,,1,,LL,Denys Molchanov,Mihai Stoian,6-7(8) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Romania F15,3,Clay,R32,748,591,0,,6,Artemon Apostu Efremov,Denys Molchanov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Romania F10,3,Clay,QF,,,0,,,Fritz Wolmarans,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Romania F10,3,Clay,R16,,,1,,7,Denys Molchanov,Bogdan Leonte,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Romania F10,3,Clay,R32,,1151,1,,Q,Denys Molchanov,Ramiro Tincoff,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Romania F9,3,Clay,R16,836,759,0,,6,Marcel Ioan Miron,Denys Molchanov,7-5 6-7(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Romania F9,3,Clay,R32,836,912,1,,,Denys Molchanov,Cosmin Cotet,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,QF,832,868,0,8,,Andrei Gorban,Denys Molchanov,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,R16,832,1273,1,8,SE,Denys Molchanov,Pavel Katliarov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Belarus F2,3,Hard,R32,832,1273,1,8,Q,Denys Molchanov,Artem Smirnov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Ukraine F2,3,Clay,SF,988,555,0,Q,,Bastian Knittel,Denys Molchanov,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Ukraine F2,3,Clay,QF,988,,1,Q,WC,Denys Molchanov,Maksim Bakunin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Ukraine F2,3,Clay,R16,988,478,1,Q,4,Denys Molchanov,Vladimir Voltchkov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Ukraine F2,3,Clay,R32,988,,1,Q,Q,Denys Molchanov,Vadim Alekseenko,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Ukraine F1,3,Clay,QF,991,557,0,7,2,Bastian Knittel,Denys Molchanov,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Ukraine F1,3,Clay,R16,991,1511,1,7,Q,Denys Molchanov,Mikhail Ptukhin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Ukraine F1,3,Clay,R32,991,1017,1,7,,Denys Molchanov,Mikhail Elgin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Morocco F5,3,Clay,R32,1021,182,0,Q,1,Younes El Aynaoui,Denys Molchanov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Morocco F4,3,Clay,R16,1022,617,0,Q,WC,Mounir El Aarej,Denys Molchanov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Morocco F4,3,Clay,R32,1022,,1,Q,WC,Denys Molchanov,Yassine El Ghazi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Egypt F3,3,Clay,R16,1052,390,0,Q,5,Karim Maamoun,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Egypt F3,3,Clay,R32,1052,839,1,Q,,Denys Molchanov,Renan Delsin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Egypt F2,3,Clay,R32,1149,,0,Q,,Giancarlo Petrazzuolo,Denys Molchanov,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,Egypt F1,3,Clay,QF,1149,576,0,Q,,Teodor Dacian Craciun,Denys Molchanov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,Egypt F1,3,Clay,R16,1149,250,1,Q,1,Denys Molchanov,Gabriel Moraru,7-5 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,Egypt F1,3,Clay,R32,1149,648,1,Q,,Denys Molchanov,Motaz Abou El Khair,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Ukraine F3,3,Clay,R16,1248,,0,Q,WC,Artem Smirnov,Denys Molchanov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Ukraine F3,3,Clay,R32,1248,607,1,Q,5,Denys Molchanov,Robert Godlewski,6-3 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2005,Ukraine F2,3,Clay,R32,1241,632,0,LL,7,Robert Godlewski,Denys Molchanov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Belarus F1,3,Clay,R16,1414,,0,Q,8,Konstantin Kravchuk,Denys Molchanov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Belarus F1,3,Clay,R32,1414,,1,Q,Q,Denys Molchanov,Egor Puntus,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Romania F17,3,Clay,R16,1388,583,0,Q,5,Artemon Apostu Efremov,Denys Molchanov,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Romania F17,3,Clay,R32,1388,999,1,Q,,Denys Molchanov,Malte Masuth,6-3 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Romania F15,3,Clay,R16,,634,0,Q,3,Artemon Apostu Efremov,Denys Molchanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Romania F15,3,Clay,R32,,,1,Q,WC,Denys Molchanov,Alexandru Victor Caliciu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Romania F14,3,Clay,R16,,576,0,Q,2,Artemon Apostu Efremov,Denys Molchanov,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Romania F14,3,Clay,R32,,,1,Q,WC,Denys Molchanov,Emanuel Brighiu,7-5 6-2,,,,,,,,,,,,,,,,,,,,,

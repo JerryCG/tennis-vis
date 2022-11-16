@@ -1,0 +1,392 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+24-Oct-2022,Brest CH,3,Hard,R32,200,135,0,,5,Jelle Sels,Evan Furness,7-5 6-4,0.80,4.3%,2.9%,64.3%,62.2%,48.0%,0/4,45.7%,34.3%,7.1%,20.9%,55.6%,2/10,140,3,2,70,45,25,5,1:35
+17-Oct-2022,Antwerp,3,Hard,Q1,201,769,0,5,Alt,Alexander Erler,Evan Furness,6-1 6-4,0.60,0.0%,4.3%,70.2%,60.6%,50.0%,2/5,40.2%,25.5%,0.0%,15.2%,40.9%,0/4,102,0,2,47,33,14,0,1:02
+3-Oct-2022,Mouilleron Le Captif CH,3,Hard,R32,197,387,0,,,Valentin Royer,Evan Furness,6-2 1-0 RET,0.64,3.6%,7.1%,50.0%,64.3%,35.7%,1/4,41.5%,32.0%,12.0%,17.6%,62.5%,0/0,53,1,2,28,14,14,3,0:35
+26-Sep-2022,Orleans CH,3,Hard,QF,204,84,0,,4,Quentin Halys,Evan Furness,6-3 3-6 6-2,0.83,1.1%,3.3%,63.0%,63.8%,38.2%,7/12,46.6%,37.8%,12.2%,23.9%,55.6%,3/6,174,1,3,92,58,34,10,1:47
+26-Sep-2022,Orleans CH,3,Hard,R16,204,135,1,,,Evan Furness,Jurij Rodionov,7-6(7) 3-6 7-6(3),0.98,5.2%,6.1%,56.5%,66.2%,58.0%,7/11,49.6%,36.8%,6.0%,25.4%,52.0%,3/10,232,6,7,115,65,50,7,2:43
+26-Sep-2022,Orleans CH,3,Hard,R32,204,125,1,,7,Evan Furness,Henri Laaksonen,6-2 6-0,2.49,4.8%,4.8%,42.9%,88.9%,66.7%,3/3,67.0%,59.2%,4.1%,53.8%,65.2%,5/7,91,2,2,42,18,24,2,1:04
+19-Sep-2022,Metz,3,Hard,R32,208,44,0,Q,7,Alexander Bublik,Evan Furness,5-7 6-4 7-6(5),0.85,1.4%,4.3%,53.6%,71.6%,43.8%,5/10,48.8%,35.3%,13.7%,21.7%,63.6%,5/6,240,2,6,138,74,64,14,2:31
+19-Sep-2022,Metz,3,Hard,Q2,208,86,1,Alt,2,Evan Furness,Quentin Halys,6-3 6-4,1.37,1.7%,3.4%,64.4%,76.3%,61.9%,2/2,55.0%,39.3%,16.4%,27.9%,66.7%,2/7,120,1,2,59,38,21,10,1:17
+19-Sep-2022,Metz,3,Hard,Q1,208,139,1,Alt,7,Evan Furness,Geoffrey Blancaneaux,6-7(4) 7-5 6-2,1.28,0.0%,6.3%,61.1%,75.9%,67.6%,4/4,52.7%,34.9%,8.5%,28.8%,48.5%,3/10,201,0,6,95,58,37,9,2:50
+12-Sep-2022,Rennes CH,3,Hard,R16,218,170,0,,6,Gregoire Barrere,Evan Furness,7-6(2) 6-4,1.05,5.6%,2.8%,66.2%,68.1%,58.3%,3/5,49.4%,37.1%,7.9%,23.2%,60.6%,1/6,160,4,2,71,47,24,7,1:37
+12-Sep-2022,Rennes CH,3,Hard,R32,218,748,1,,Q,Evan Furness,Filip Bergevi,7-6(3) 6-2,1.62,8.2%,1.6%,68.9%,81.0%,52.6%,0/1,57.5%,45.2%,2.7%,26.5%,61.5%,3/8,134,5,1,61,42,19,2,1:36
+5-Sep-2022,Cassis CH,3,Hard,R16,224,168,0,,8,Kaichi Uchida,Evan Furness,6-4 6-1,0.61,6.4%,17.0%,61.7%,72.4%,27.8%,1/5,41.1%,27.1%,6.3%,20.7%,36.8%,0/3,95,3,8,47,29,18,3,1:00
+5-Sep-2022,Cassis CH,3,Hard,R32,224,318,1,,Alt,Evan Furness,Clement Tabur,7-6(5) 7-5,1.06,8.7%,12.0%,54.3%,72.0%,47.6%,7/10,51.7%,41.5%,6.1%,32.6%,52.8%,4/7,174,8,11,92,50,42,5,2:03
+29-Aug-2022,Manacor CH,3,Hard,R16,224,154,0,,4,Zizou Bergs,Evan Furness,6-3 7-6(8),0.85,4.9%,2.5%,56.8%,69.6%,37.1%,4/7,46.9%,38.0%,5.1%,34.8%,42.4%,2/3,160,4,2,81,46,35,4,1:54
+29-Aug-2022,Manacor CH,3,Hard,R32,224,246,1,,Alt,Evan Furness,Kacper Zuk,4-6 6-3 7-6(7),0.96,5.9%,3.0%,58.4%,67.8%,64.3%,3/5,50.0%,32.3%,6.5%,30.4%,35.1%,2/6,194,6,3,101,59,42,6,2:22
+29-Aug-2022,US Open,5,Hard,Q1,224,186,0,,,Alexander Ritschard,Evan Furness,6-1 6-2,0.60,8.5%,11.9%,54.2%,56.3%,29.6%,10/15,39.3%,33.3%,14.6%,24.1%,47.4%,0/2,107,5,7,59,32,27,7,1:09
+25-Jul-2022,Kitzbuhel,3,Clay,Q1,210,265,0,7,,Vitaliy Sachko,Evan Furness,7-5 6-3,0.74,3.0%,12.1%,50.0%,57.6%,45.5%,2/7,44.1%,36.1%,9.8%,25.0%,52.0%,2/7,127,2,8,66,33,33,6,1:24
+18-Jul-2022,Tampere CH,3,Clay,R16,218,146,0,,3,Maximilian Marterer,Evan Furness,6-3 6-1,0.67,2.0%,10.2%,55.1%,59.3%,40.9%,3/7,41.3%,32.7%,7.3%,16.1%,54.2%,0/0,104,1,5,49,27,22,4,1:12
+18-Jul-2022,Tampere CH,3,Clay,R32,218,202,1,,,Evan Furness,Cedrik Marcel Stebe,7-5 6-3,1.27,0.0%,5.1%,57.0%,68.9%,47.1%,5/7,56.0%,51.6%,4.8%,42.1%,66.7%,5/6,141,0,4,79,45,34,3,1:35
+11-Jul-2022,Amersfoort CH,3,Clay,R32,225,106,0,,5,Taro Daniel,Evan Furness,6-2 5-7 7-6(3),0.85,4.9%,4.1%,61.5%,62.7%,46.8%,12/18,47.9%,37.1%,7.2%,30.6%,43.8%,5/12,219,6,5,122,75,47,7,2:48
+4-Jul-2022,Todi CH,3,Clay,R32,230,291,0,,SE,Juan Bautista Torres,Evan Furness,4-6 6-3 6-2,0.76,4.0%,7.1%,54.5%,68.5%,40.0%,4/9,46.2%,33.8%,1.4%,29.8%,47.1%,2/3,173,4,7,99,54,45,1,2:07
+27-Jun-2022,Wimbledon,5,Grass,Q1,230,107,0,,3,Stefan Kozlov,Evan Furness,7-5 6-3,0.80,2.5%,3.8%,53.8%,65.1%,54.1%,4/7,46.7%,31.9%,2.8%,28.3%,38.5%,0/6,152,2,3,80,43,37,2,1:41
+13-Jun-2022,Blois CH,3,Clay,R16,234,383,0,,Q,Luca Van Assche,Evan Furness,2-6 6-4 6-3,0.96,3.7%,1.2%,61.0%,66.0%,34.4%,4/9,48.6%,44.6%,1.0%,44.4%,44.7%,5/14,183,3,1,82,50,32,1,2:22
+13-Jun-2022,Blois CH,3,Clay,R32,234,109,1,,2,Evan Furness,Corentin Moutet,6-4 0-6 6-1,0.99,1.1%,0.0%,57.3%,49.0%,57.9%,9/14,50.3%,46.9%,0.0%,44.7%,50.0%,5/7,153,1,0,89,51,38,0,2:00
+6-Jun-2022,Lyon CH,3,Clay,R16,223,128,0,,7,Corentin Moutet,Evan Furness,6-4 6-4,0.89,0.0%,4.8%,55.6%,65.7%,39.3%,2/6,46.8%,40.8%,2.6%,37.0%,50.0%,2/7,139,0,3,63,35,28,2,1:33
+6-Jun-2022,Lyon CH,3,Clay,R32,223,406,1,,Q,Evan Furness,Juncheng Shang,6-2 6-3,1.62,4.3%,0.0%,55.3%,73.1%,66.7%,0/1,57.9%,48.3%,3.3%,46.3%,52.6%,4/8,107,2,0,47,26,21,2,1:22
+23-May-2022,Roland Garros,5,Clay,Q1,213,252,0,WC,,Marius Copil,Evan Furness,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,Prague CH,3,Clay,R16,214,176,0,SE,5,Pedro Cachin,Evan Furness,6-0 6-3,0.44,2.2%,2.2%,60.9%,50.0%,27.8%,4/9,34.1%,25.6%,10.3%,17.4%,37.5%,1/1,85,1,1,46,28,18,4,0:51
+2-May-2022,Prague CH,3,Clay,R32,214,216,1,SE,PR,Evan Furness,Sebastian Ofner,7-6(3) 3-2 RET,1.01,7.7%,9.6%,57.7%,80.0%,63.6%,1/1,51.0%,27.1%,8.3%,15.4%,40.9%,1/1,100,4,5,52,30,22,4,1:10
+25-Apr-2022,Ostrava CH,3,Clay,F,278,227,1,Q,,Evan Furness,Ryan Peniston,4-6 7-6(6) 6-1,1.26,4.3%,3.3%,65.2%,75.0%,56.3%,4/6,53.3%,39.8%,1.0%,32.1%,48.0%,3/8,195,4,3,92,60,32,1,2:19
+25-Apr-2022,Ostrava CH,3,Clay,SF,278,185,1,Q,,Evan Furness,Constant Lestienne,7-6(3) 6-2,1.20,4.0%,2.7%,57.3%,65.1%,65.6%,3/4,54.3%,41.5%,1.5%,28.2%,61.5%,3/7,140,3,2,75,43,32,1,1:37
+25-Apr-2022,Ostrava CH,3,Clay,QF,278,137,1,Q,5,Evan Furness,Zdenek Kolar,6-3 2-6 7-6(6),0.97,4.6%,3.7%,63.3%,63.8%,42.5%,7/13,49.5%,42.9%,3.8%,27.4%,65.1%,5/12,214,5,4,109,69,40,4,2:42
+25-Apr-2022,Ostrava CH,3,Clay,R16,278,119,1,Q,3,Evan Furness,Chun Hsin Tseng,6-1 6-1,2.05,0.0%,2.4%,59.5%,88.0%,52.9%,2/2,62.2%,53.6%,0.0%,43.8%,66.7%,5/14,98,0,1,42,25,17,0,1:09
+25-Apr-2022,Ostrava CH,3,Clay,R32,278,220,1,Q,,Evan Furness,Lukas Lacko,6-1 6-1,1.58,3.6%,7.1%,50.0%,60.7%,60.7%,5/6,61.4%,62.2%,0.0%,50.0%,72.0%,6/9,101,2,4,56,28,28,0,1:01
+25-Apr-2022,Ostrava CH,3,Clay,Q2,278,1090,1,3,Alt,Evan Furness,Sem Verbeek,6-1 6-2,1.99,4.7%,0.0%,58.1%,68.0%,83.3%,0/0,61.2%,50.9%,0.0%,36.4%,72.7%,4/5,98,2,0,43,25,18,0,1:01
+25-Apr-2022,Ostrava CH,3,Clay,Q1,278,602,1,3,Alt,Evan Furness,Martin Krumich,6-3 6-3,1.22,1.5%,7.5%,41.8%,67.9%,51.3%,4/6,55.0%,50.9%,9.4%,45.2%,59.1%,5/7,120,1,5,67,28,39,5,1:20
+18-Apr-2022,Prague CH,3,Clay,R16,284,150,0,Alt,6,Tomas Machac,Evan Furness,3-6 7-6(5) 6-4,0.95,2.7%,5.5%,61.8%,60.3%,47.6%,2/6,49.3%,42.4%,2.0%,30.9%,56.8%,4/11,209,3,6,110,68,42,2,2:29
+18-Apr-2022,Prague CH,3,Clay,R32,284,208,1,Alt,,Evan Furness,Alexandre Muller,6-2 3-0 RET,2.10,5.6%,0.0%,75.0%,81.5%,55.6%,2/2,62.8%,52.4%,2.4%,37.9%,84.6%,3/4,78,2,0,36,27,9,1,0:58
+4-Apr-2022,Oeiras 2 CH,3,Clay,R16,289,181,0,,7,Jozef Kovalik,Evan Furness,7-6(5) 6-2,0.67,1.5%,3.1%,64.6%,59.5%,47.8%,1/4,42.6%,29.7%,1.6%,20.5%,50.0%,1/2,129,1,2,65,42,23,1,1:36
+4-Apr-2022,Oeiras 2 CH,3,Clay,R32,289,661,1,,WC,Evan Furness,Pedro Araujo,7-6(7) 6-3,1.17,1.4%,2.8%,73.6%,67.9%,42.1%,3/6,53.0%,45.6%,2.5%,42.0%,51.7%,4/8,151,1,2,72,53,19,2,1:51
+28-Mar-2022,Saint-Brieuc CH,3,Hard,QF,283,146,0,,5,Jack Draper,Evan Furness,6-2 6-1,0.59,3.8%,3.8%,48.1%,40.0%,55.6%,4/9,39.6%,30.6%,18.4%,13.3%,57.9%,0/8,101,2,2,52,25,27,9,1:12
+28-Mar-2022,Saint-Brieuc CH,3,Hard,R16,283,278,1,,,Evan Furness,Evgeny Karlovskiy,6-4 7-5,1.50,4.8%,1.6%,56.5%,82.9%,55.6%,0/1,55.7%,43.6%,1.3%,36.0%,57.1%,3/7,140,3,1,62,35,27,1,1:33
+28-Mar-2022,Saint-Brieuc CH,3,Hard,R32,283,274,1,,,Evan Furness,Jelle Sels,6-3 6-2,1.37,4.8%,9.5%,50.8%,75.0%,51.6%,4/5,56.9%,50.0%,6.7%,43.3%,56.7%,4/11,123,3,6,63,32,31,4,1:24
+21-Mar-2022,Lille CH,3,Hard,R32,283,87,0,,1,Ricardas Berankis,Evan Furness,6-0 5-7 6-1,0.68,6.9%,6.9%,57.5%,64.0%,32.4%,8/14,42.5%,33.8%,3.8%,28.0%,43.3%,2/6,167,6,6,87,50,37,3,1:49
+14-Mar-2022,Concepcion CH,3,Clay,R16,294,205,0,Alt,,Thiago Agustin Tirante,Evan Furness,7-6(4) 6-0,0.54,1.7%,6.9%,65.5%,55.3%,55.0%,2/6,40.7%,24.0%,2.0%,20.5%,36.4%,1/1,108,1,4,58,38,20,1,1:16
+14-Mar-2022,Concepcion CH,3,Clay,R32,294,165,1,Alt,6,Evan Furness,Vit Kopriva,6-2 6-1,2.09,0.0%,4.9%,65.9%,70.4%,57.1%,0/2,68.4%,71.4%,2.9%,68.2%,76.9%,6/7,76,0,2,41,27,14,1,0:59
+7-Mar-2022,Santiago CH,3,Clay,R32,294,123,0,Q,5,Tomas Martin Etcheverry,Evan Furness,7-5 6-2,0.61,1.9%,9.3%,63.0%,58.8%,45.0%,0/4,40.5%,28.1%,1.8%,28.6%,25.0%,1/6,111,1,5,54,34,20,1,1:42
+7-Mar-2022,Santiago CH,3,Clay,Q2,294,457,1,1,10,Evan Furness,Rio Noguchi,6-4 6-3,1.11,7.1%,5.7%,48.6%,61.8%,47.2%,3/6,52.4%,50.7%,0.0%,49.1%,55.0%,5/11,143,5,4,70,34,36,0,1:40
+14-Feb-2022,Forli 4 CH,3,Hard,QF,301,201,0,Q,,Jack Draper,Evan Furness,6-2 6-3,0.51,0.0%,3.5%,49.1%,46.4%,55.2%,3/7,39.6%,25.0%,13.6%,12.5%,40.0%,1/2,101,0,2,57,28,29,6,1:12
+14-Feb-2022,Forli 4 CH,3,Hard,R16,301,268,1,Q,,Evan Furness,Mikael Torpegaard,6-1 4-3 RET,2.83,20.6%,0.0%,76.5%,96.2%,37.5%,0/0,65.3%,50.0%,5.3%,42.9%,70.0%,3/4,72,7,0,34,26,8,2,0:46
+14-Feb-2022,Forli 4 CH,3,Hard,R32,301,221,1,Q,,Evan Furness,Antoine Hoang,7-6(5) 7-6(4),1.14,4.8%,2.4%,65.1%,74.1%,37.9%,5/9,52.3%,44.0%,5.5%,34.4%,63.3%,4/8,174,4,2,83,54,29,5,2:10
+14-Feb-2022,Forli 4 CH,3,Hard,Q2,301,280,1,10,5,Evan Furness,Alexander Ritschard,3-6 6-3 6-4,1.04,7.1%,2.4%,61.9%,86.5%,43.8%,4/5,50.3%,31.0%,8.0%,22.6%,44.1%,2/5,171,6,2,84,52,32,7,1:48
+14-Feb-2022,Forli 4 CH,3,Hard,Q1,301,323,1,10,,Evan Furness,Jelle Sels,6-4 7-6(5),0.92,4.5%,3.0%,71.6%,72.9%,73.7%,2/2,50.0%,24.6%,16.4%,12.2%,50.0%,1/1,128,3,2,67,48,19,10,1:39
+7-Feb-2022,Cherbourg CH,3,Hard,Q2,302,404,0,6,Alt,Mats Rosenkranz,Evan Furness,6-4 6-4,0.60,8.3%,3.3%,66.7%,72.5%,50.0%,3/5,44.6%,21.2%,28.8%,14.7%,33.3%,0/1,112,5,2,60,40,20,15,1:06
+7-Feb-2022,Cherbourg CH,3,Hard,Q1,302,1030,1,6,WC,Evan Furness,Lucas Bouquet,6-4 6-2,1.58,3.9%,3.9%,66.7%,79.4%,64.7%,2/2,56.5%,40.4%,8.8%,33.3%,48.1%,3/6,108,2,2,51,34,17,5,1:11
+24-Jan-2022,Quimper CH,3,Hard,R16,284,118,0,Q,3,Dennis Novak,Evan Furness,6-4 6-4,0.72,6.1%,3.0%,51.5%,67.6%,40.6%,3/7,44.4%,32.8%,15.5%,18.4%,60.0%,2/3,124,4,2,66,34,32,9,1:18
+24-Jan-2022,Quimper CH,3,Hard,R32,284,194,1,Q,,Evan Furness,Filip Horansky,6-2 6-3,2.94,5.3%,5.3%,60.5%,91.3%,73.3%,0/0,61.7%,46.4%,3.6%,37.5%,58.3%,4/5,94,2,2,38,23,15,2,0:58
+24-Jan-2022,Quimper CH,3,Hard,Q2,284,338,1,6,12,Evan Furness,Matteo Martineau,4-6 6-2 6-3,0.94,1.0%,5.2%,67.0%,76.9%,40.6%,9/10,51.5%,32.9%,8.6%,20.5%,53.8%,3/8,167,1,5,97,65,32,6,1:49
+24-Jan-2022,Quimper CH,3,Hard,Q1,284,1249,1,6,WC,Evan Furness,Thomas Deschamps,6-3 7-6(6),1.46,7.2%,4.3%,59.4%,82.9%,67.9%,2/2,55.5%,33.8%,2.9%,26.7%,47.8%,1/2,137,5,3,69,41,28,2,
+17-Jan-2022,Forli 3 CH,3,Hard,R32,284,138,0,LL,1,Vasek Pospisil,Evan Furness,6-4 6-3,0.43,1.7%,5.0%,50.0%,63.3%,60.0%,0/2,41.7%,16.7%,18.8%,3.6%,35.0%,0/0,108,1,3,60,30,30,9,1:13
+17-Jan-2022,Forli 3 CH,3,Hard,Q2,284,271,0,9,3,Lukas Rosol,Evan Furness,6-4 6-4,0.61,10.0%,5.0%,65.0%,74.4%,33.3%,4/7,43.4%,24.5%,5.7%,11.8%,47.4%,1/4,113,6,3,60,39,21,3,1:06
+17-Jan-2022,Forli 3 CH,3,Hard,Q1,284,343,1,9,,Evan Furness,Alexey Vatutin,6-3 2-2 RET,1.01,6.0%,0.0%,70.0%,82.9%,33.3%,3/3,53.6%,32.4%,2.9%,31.8%,33.3%,1/2,84,3,0,50,35,15,1,1:10
+10-Jan-2022,Forli 2 CH,3,Hard,QF,289,363,0,,Q,Adrian Andreev,Evan Furness,7-6(6) 4-6 6-3,0.84,3.6%,0.9%,67.9%,67.1%,44.4%,8/11,47.8%,33.7%,5.3%,27.9%,44.1%,3/3,207,4,1,112,76,36,5,2:43
+10-Jan-2022,Forli 2 CH,3,Hard,R16,289,337,1,,Q,Evan Furness,Aidan Mchugh,4-6 6-1 6-4,1.03,7.8%,0.0%,67.0%,73.9%,47.1%,6/7,53.1%,36.1%,5.6%,31.8%,42.9%,3/5,175,8,0,103,69,34,4,2:29
+10-Jan-2022,Forli 2 CH,3,Hard,R32,289,352,1,,SE,Evan Furness,Sasi Kumar Mukund,7-6(4) 6-0,1.42,3.1%,0.0%,68.8%,70.5%,60.0%,2/3,56.3%,46.5%,4.2%,36.4%,63.0%,4/12,135,2,0,64,44,20,3,1:38
+3-Jan-2022,Forli 1 CH,3,Hard,R16,290,364,0,8,,Luca Nardi,Evan Furness,6-7(5) 6-4 6-1,0.71,9.3%,1.0%,69.1%,61.2%,56.7%,3/7,45.1%,28.7%,11.5%,20.0%,40.5%,0/2,184,9,1,97,67,30,10,1:59
+3-Jan-2022,Forli 1 CH,3,Hard,R32,290,304,1,8,,Evan Furness,Nerman Fatic,6-2 6-3,1.44,8.8%,1.8%,68.4%,66.7%,66.7%,3/4,57.8%,48.1%,3.8%,40.7%,56.0%,4/6,109,5,1,57,39,18,2,1:16
+1-Nov-2021,Eckental CH,3,Hard,R32,273,278,0,,,Geoffrey Blancaneaux,Evan Furness,6-1 6-1,0.47,2.5%,5.0%,45.0%,66.7%,27.3%,1/6,34.9%,25.6%,16.3%,16.0%,38.9%,0/3,83,1,2,40,18,22,7,0:51
+25-Oct-2021,Ismaning CH,3,Hard,Q2,276,310,0,6,,Jonas Forejtek,Evan Furness,6-4 6-4,0.55,5.4%,5.4%,55.4%,64.5%,60.0%,0/2,42.2%,20.8%,20.8%,15.2%,30.0%,0/0,109,3,3,56,31,25,11,1:06
+25-Oct-2021,Ismaning CH,3,Hard,Q1,276,326,1,6,,Evan Furness,Filip Cristian Jianu,6-7(6) 6-0 6-4,1.56,11.3%,2.5%,55.0%,77.3%,61.1%,5/7,57.3%,46.9%,6.1%,41.1%,54.8%,6/12,178,9,2,80,44,36,6,2:03
+11-Oct-2021,Ercolano CH,3,Clay,R32,284,439,0,LL,WC,Matteo Arnaldi,Evan Furness,6-1 6-1,0.52,2.6%,5.1%,51.3%,50.0%,31.6%,3/8,35.3%,30.4%,6.5%,25.9%,36.8%,0/3,85,1,2,39,20,19,3,
+11-Oct-2021,Ercolano CH,3,Clay,Q2,284,361,0,1,7,Alvaro Lopez San Martin,Evan Furness,6-4 6-0,0.49,0.0%,4.5%,72.7%,53.1%,33.3%,3/7,36.8%,25.6%,7.0%,13.3%,53.8%,0/0,87,0,2,44,32,12,3,
+4-Oct-2021,Napoli CH,3,Clay,R32,284,261,0,,,Duje Ajdukovic,Evan Furness,6-4 6-4,0.89,3.4%,10.2%,57.6%,58.8%,36.0%,2/8,47.1%,45.2%,6.5%,26.5%,67.9%,4/9,121,2,6,59,34,25,4,
+27-Sep-2021,Murcia CH,3,Clay,QF,291,88,0,,1,Roberto Carballes Baena,Evan Furness,6-1 6-0,0.51,0.0%,11.4%,50.0%,31.8%,22.7%,4/11,31.7%,36.8%,2.6%,26.1%,53.3%,1/3,82,0,5,44,22,22,1,1:07
+27-Sep-2021,Murcia CH,3,Clay,R16,291,198,1,,5,Evan Furness,Marco Trungelliti,W/O,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,Murcia CH,3,Clay,R32,291,302,1,,,Evan Furness,Javier Barranco Cosano,7-5 4-6 6-4,1.05,3.1%,3.1%,67.0%,67.7%,50.0%,1/5,50.8%,40.0%,2.0%,26.9%,66.7%,5/12,197,3,3,97,65,32,2,2:34
+29-Aug-2021,Como CH,3,Clay,R32,296,224,0,Alt,,Joao Menezes,Evan Furness,4-1 RET,0.35,9.5%,9.5%,61.9%,46.2%,37.5%,1/3,35.5%,20.0%,20.0%,0.0%,33.3%,0/0,31,2,2,21,13,8,2,
+23-Aug-2021,Warsaw CH,3,Clay,R16,295,121,0,,2,Jozef Kovalik,Evan Furness,6-2 7-5,0.70,6.2%,3.7%,54.3%,61.4%,45.9%,8/12,45.0%,32.2%,6.8%,27.8%,39.1%,1/2,140,5,3,81,44,37,4,5:09
+23-Aug-2021,Warsaw CH,3,Clay,R32,295,273,1,,,Evan Furness,Orlando Luz,6-4 2-6 6-3,0.89,0.0%,6.2%,60.2%,63.2%,44.4%,8/12,49.2%,39.5%,2.6%,35.7%,44.1%,4/8,189,0,7,113,68,45,2,2:19
+16-Aug-2021,Luedenscheid CH,3,Clay,R32,293,258,0,,,Duje Ajdukovic,Evan Furness,6-3 7-5,0.72,2.7%,2.7%,54.8%,57.5%,42.4%,7/12,43.5%,35.4%,3.1%,23.3%,59.1%,2/6,138,2,2,73,40,33,2,1:41
+9-Aug-2021,Prague 2 CH,3,Clay,QF,294,424,0,,WC,Dalibor Svrcina,Evan Furness,7-5 5-7 6-4,0.92,2.0%,2.0%,66.7%,57.4%,47.1%,6/13,48.3%,42.6%,0.0%,45.0%,33.3%,6/15,203,2,2,102,68,34,0,2:21
+9-Aug-2021,Prague 2 CH,3,Clay,R16,294,236,1,,3,Evan Furness,Lorenzo Giustino,7-6(4) 4-6 6-3,1.22,5.5%,2.7%,65.5%,76.4%,52.6%,2/3,53.4%,38.9%,1.8%,31.9%,50.0%,1/9,223,6,3,110,72,38,2,3:05
+9-Aug-2021,Prague 2 CH,3,Clay,R32,294,825,1,,WC,Evan Furness,Martin Krumich,4-6 6-4 6-3,1.05,1.9%,3.8%,63.8%,59.7%,47.4%,6/11,51.2%,47.1%,2.9%,31.5%,64.0%,6/17,209,2,4,105,67,38,3,2:40
+2-Aug-2021,Liberec  CH,3,Clay,R16,302,1150,0,Q,PR,Gerald Melzer,Evan Furness,6-4 6-2,0.72,3.8%,0.0%,69.8%,64.9%,37.5%,5/8,43.2%,31.0%,3.4%,24.2%,40.0%,0/3,111,2,0,53,37,16,2,1:27
+2-Aug-2021,Liberec  CH,3,Clay,R32,302,260,1,Q,SE,Evan Furness,Tim Van Rijthoven,3-6 6-4 6-2,1.23,0.0%,2.4%,63.4%,71.2%,60.0%,0/2,54.0%,40.5%,6.3%,31.3%,54.8%,3/5,161,0,2,82,52,30,5,1:33
+2-Aug-2021,Liberec  CH,3,Clay,Q2,302,375,1,2,8,Evan Furness,Rudolf Molleker,7-6(7) 6-2,1.28,4.4%,7.4%,60.3%,61.0%,59.3%,6/9,55.2%,50.7%,0.0%,45.9%,55.3%,5/10,143,3,5,68,41,27,0,1:46
+2-Aug-2021,Liberec  CH,3,Clay,Q1,302,824,1,2,WC,Evan Furness,Martin Krumich,6-3 6-2,1.54,1.7%,10.2%,54.2%,71.9%,48.1%,5/8,60.6%,60.0%,8.0%,48.0%,72.0%,6/10,109,1,6,59,32,27,4,1:10
+26-Jul-2021,Poznan CH,3,Clay,R32,299,314,0,LL,SE,Nicolas Kicker,Evan Furness,6-2 7-5,0.70,0.0%,3.9%,76.3%,58.6%,38.9%,9/13,44.2%,32.3%,8.1%,17.5%,59.1%,1/4,138,0,3,76,58,18,5,1:52
+26-Jul-2021,Poznan CH,3,Clay,Q2,299,441,0,2,Alt,Alexander Shevchenko,Evan Furness,6-4 6-2,0.69,0.0%,7.7%,51.9%,55.6%,36.0%,1/6,41.5%,37.0%,1.9%,35.7%,38.5%,2/6,106,0,4,52,27,25,1,1:20
+26-Jul-2021,Poznan CH,3,Clay,Q1,299,,1,2,WC,Evan Furness,Marcel Politowicz,6-1 6-3,1.74,5.8%,7.7%,57.7%,73.3%,63.6%,5/6,60.9%,53.4%,0.0%,40.0%,83.3%,5/13,110,3,4,52,30,22,0,1:16
+5-Jul-2021,Perugia CH,3,Clay,R32,298,218,0,,,Gian Marco Moroni,Evan Furness,2-0 RET,0.69,0.0%,10.0%,20.0%,50.0%,37.5%,2/3,40.9%,41.7%,16.7%,16.7%,66.7%,0/2,22,0,1,10,2,8,2,0:16
+21-Jun-2021,Milan CH,3,Clay,Q2,298,326,0,3,8,Orlando Luz,Evan Furness,4-6 6-1 6-2,0.87,6.6%,4.9%,59.0%,61.1%,48.0%,3/8,45.6%,38.6%,2.3%,34.0%,43.9%,2/6,149,4,3,61,36,25,2,1:58
+21-Jun-2021,Milan CH,3,Clay,Q1,298,447,1,3,WC,Evan Furness,Jacopo Berrettini,7-5 7-6(3),1.19,1.2%,2.4%,51.2%,76.2%,45.0%,3/6,53.6%,46.5%,0.0%,34.0%,63.9%,4/9,168,1,2,82,42,40,0,2:09
+14-Jun-2021,Almaty 2 CH,3,Clay,Q1,295,403,0,3,,Ergi Kirkin,Evan Furness,6-4 6-7(6) 7-5,0.98,1.6%,6.5%,62.1%,62.3%,44.7%,9/15,49.1%,43.3%,3.5%,31.1%,52.5%,4/16,265,2,8,124,77,47,5,3:19
+7-Jun-2021,Almaty 1 CH,3,Clay,QF,327,399,0,Q,WC,Timofey Skatov,Evan Furness,4-6 7-6(8) 6-4,0.97,6.1%,7.9%,64.9%,66.2%,45.0%,9/14,49.4%,40.2%,0.0%,36.0%,53.6%,5/12,231,7,9,114,74,40,0,3:04
+7-Jun-2021,Almaty 1 CH,3,Clay,R16,327,276,1,Q,,Evan Furness,Pedja Krstin,6-3 6-1,1.42,5.7%,1.9%,69.8%,64.9%,50.0%,6/8,58.3%,56.5%,3.2%,51.2%,66.7%,6/12,115,3,1,53,37,16,2,1:20
+7-Jun-2021,Almaty 1 CH,3,Clay,R32,327,269,1,Q,,Evan Furness,Carlos Gimeno Valero,1-6 6-2 6-3,0.98,7.2%,2.9%,69.6%,64.6%,38.1%,5/9,49.6%,42.6%,0.0%,36.2%,57.1%,5/11,137,5,2,69,48,21,0,1:46
+7-Jun-2021,Almaty 1 CH,3,Clay,Q2,327,388,1,3,,Evan Furness,Benjamin Hassan,6-3 3-6 6-4,0.99,2.8%,5.6%,60.7%,70.8%,45.2%,8/11,51.3%,39.0%,4.9%,23.8%,55.0%,4/7,189,3,6,107,65,42,4,2:11
+7-Jun-2021,Almaty 1 CH,3,Clay,Q1,327,821,1,3,WC,Evan Furness,Grigoriy Lomakin,6-3 6-1,2.16,0.0%,7.3%,65.9%,88.9%,57.1%,0/0,60.0%,47.5%,0.0%,45.2%,52.9%,4/11,100,0,3,41,27,14,0,1:09
+31-May-2021,Roland Garros,5,Clay,Q3,327,163,0,WC,,Jenson Brooksby,Evan Furness,6-7(5) 7-6(2) 6-4,0.91,5.2%,4.5%,63.9%,61.6%,48.2%,9/15,49.1%,39.5%,0.0%,30.3%,54.2%,5/10,279,8,7,155,99,56,0,3:22
+31-May-2021,Roland Garros,5,Clay,Q2,327,120,1,WC,9,Evan Furness,Denis Kudla,5-7 7-6(2) 6-4,1.08,5.3%,2.3%,74.4%,66.7%,41.2%,14/19,52.0%,43.0%,5.8%,31.0%,60.0%,5/14,254,7,3,133,99,34,7,2:49
+31-May-2021,Roland Garros,5,Clay,Q1,327,838,1,WC,WC,Evan Furness,Timo Legout,6-2 6-1,1.49,3.3%,1.6%,62.3%,63.2%,60.9%,2/3,59.5%,56.0%,0.0%,48.4%,68.4%,5/10,111,2,1,61,38,23,0,1:06
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,SF,330,320,0,,8,Vitaliy Sachko,Evan Furness,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,QF,330,700,1,,Q,Evan Furness,Andrew Paulson,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,R16,330,578,1,,,Evan Furness,Mats Rosenkranz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,R32,330,302,1,,4,Evan Furness,Duje Ajdukovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M25 Prague,3,Clay,R32,330,293,0,,5,Riccardo Bonadio,Evan Furness,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,Oeiras 2 CH,3,Clay,R32,331,184,0,Q,3,Ernesto Escobedo,Evan Furness,6-3 6-2,0.60,0.0%,8.9%,62.2%,46.4%,35.3%,1/6,38.1%,34.6%,0.0%,33.3%,38.5%,2/2,97,0,4,45,28,17,0,1:09
+5-Apr-2021,Oeiras 2 CH,3,Clay,Q2,331,816,1,3,WC,Evan Furness,Luis Faria,6-3 7-6(4),1.18,1.3%,2.6%,72.4%,61.8%,42.9%,3/8,54.1%,51.4%,4.3%,48.8%,55.2%,6/8,146,1,2,76,55,21,3,1:49
+5-Apr-2021,Oeiras 2 CH,3,Clay,Q1,331,389,1,3,,Evan Furness,Denis Yevseyev,7-6(2) 5-7 6-3,1.04,0.9%,2.8%,63.3%,46.4%,50.0%,5/14,51.3%,54.6%,0.0%,53.9%,58.8%,10/20,228,1,3,109,69,40,0,2:26
+29-Mar-2021,Oeiras 1 CH,3,Clay,SF,340,358,0,Q,WC,Gastao Elias,Evan Furness,6-3 7-5,0.84,0.0%,4.8%,61.4%,52.9%,46.9%,10/15,46.0%,41.3%,1.3%,36.4%,52.0%,2/10,163,0,4,83,51,32,1,1:53
+29-Mar-2021,Oeiras 1 CH,3,Clay,QF,340,362,1,Q,Q,Evan Furness,Raul Brancaccio,6-1 1-6 6-4,1.15,1.3%,3.8%,70.9%,57.1%,65.2%,9/13,53.2%,46.8%,1.3%,42.9%,53.6%,5/8,156,1,3,79,56,23,1,1:47
+29-Mar-2021,Oeiras 1 CH,3,Clay,R16,340,289,1,Q,,Evan Furness,Riccardo Bonadio,4-6 6-3 6-4,1.13,2.1%,6.3%,65.3%,58.1%,45.5%,10/17,53.0%,52.2%,0.0%,50.9%,54.1%,8/14,185,2,6,95,62,33,0,2:30
+29-Mar-2021,Oeiras 1 CH,3,Clay,R32,340,185,1,Q,2,Evan Furness,Enzo Couacaud,6-4 3-6 7-6(4),1.07,0.0%,4.7%,72.9%,55.1%,58.6%,8/15,51.4%,46.8%,4.6%,38.0%,54.2%,6/14,216,0,5,107,78,29,5,2:46
+29-Mar-2021,Oeiras 1 CH,3,Clay,Q2,340,1015,1,3,Alt,Evan Furness,Francisco Cabral,6-3 6-4,1.17,0.0%,3.9%,67.5%,61.5%,52.0%,5/7,53.7%,48.6%,2.9%,46.2%,51.6%,4/8,147,0,3,77,52,25,2,1:45
+29-Mar-2021,Oeiras 1 CH,3,Clay,Q1,340,,1,3,WC,Evan Furness,Miguel Gomes,6-3 6-1,1.62,2.3%,0.0%,69.8%,70.0%,53.8%,4/6,60.0%,56.5%,3.2%,42.1%,79.2%,6/9,105,1,0,43,30,13,2,1:17
+22-Mar-2021,Lille CH,3,Hard,R32,340,124,0,WC,2,Benjamin Bonzi,Evan Furness,5-7 6-4 6-3,0.66,5.2%,2.1%,63.9%,75.8%,37.1%,5/9,45.9%,25.3%,5.3%,16.3%,42.3%,2/3,172,5,2,97,62,35,4,1:48
+22-Feb-2021,M25 Vale do Lobo,3,Hard,F,376,379,1,2,7,Evan Furness,Gastao Elias,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,SF,376,397,1,2,4,Evan Furness,Antoine Escoffier,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,QF,376,659,1,2,Q,Evan Furness,Kenny De Schepper,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R16,376,624,1,2,PR,Evan Furness,Tak Khunn Wang,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R32,376,805,1,2,WC,Evan Furness,Luis Faria,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2021,Cherbourg CH,3,Hard,R16,377,138,0,WC,3,Arthur Rinderknech,Evan Furness,7-6(5) 6-3,0.57,3.8%,7.6%,70.9%,69.6%,52.2%,5/6,44.8%,20.3%,14.1%,11.1%,42.1%,0/2,143,3,6,79,56,23,9,1:29
+7-Feb-2021,Cherbourg CH,3,Hard,R32,377,288,1,WC,,Evan Furness,Igor Sijsling,6-2 6-4,1.60,18.4%,4.1%,57.1%,92.9%,42.9%,0/1,56.3%,45.7%,7.1%,45.9%,45.5%,4/11,119,9,2,49,28,21,5,1:05
+31-Jan-2021,Quimper 2 CH,3,Hard,R16,403,157,0,Q,,Brandon Nakashima,Evan Furness,6-7(2) 6-3 6-1,0.67,2.9%,8.7%,55.3%,68.4%,39.1%,6/11,44.1%,30.1%,7.2%,25.9%,37.9%,1/2,186,3,9,103,57,46,6,1:54
+31-Jan-2021,Quimper 2 CH,3,Hard,R32,403,119,1,Q,6,Evan Furness,Antoine Hoang,6-3 6-4,1.55,8.2%,6.6%,68.9%,81.0%,57.9%,3/3,56.8%,40.6%,7.8%,25.0%,66.7%,2/4,125,5,4,61,42,19,5,1:26
+31-Jan-2021,Quimper 2 CH,3,Hard,Q2,403,246,1,WC,7,Evan Furness,Daniel Masur,6-4 7-5,1.22,4.3%,1.4%,73.9%,64.7%,72.2%,2/3,53.1%,40.5%,1.4%,31.9%,55.6%,3/7,143,3,1,69,51,18,1,1:32
+31-Jan-2021,Quimper 2 CH,3,Hard,Q1,403,228,1,WC,4,Evan Furness,Ruben Bemelmans,4-6 7-5 6-3,1.12,4.3%,8.7%,65.2%,73.3%,53.1%,1/3,51.6%,37.8%,5.1%,31.4%,44.7%,3/3,190,4,8,92,60,32,5,2:05
+24-Jan-2021,Quimper 1 CH,3,Hard,R16,423,211,0,WC,,Enzo Couacaud,Evan Furness,6-4 6-7(5) 6-3,0.76,1.6%,6.5%,63.7%,63.3%,42.2%,7/12,46.7%,33.7%,10.5%,18.4%,54.1%,2/3,210,2,8,124,79,45,9,2:12
+24-Jan-2021,Quimper 1 CH,3,Hard,R32,423,180,1,WC,,Evan Furness,Roberto Marcora,6-2 6-1,2.43,7.3%,0.0%,58.5%,87.5%,64.7%,0/0,63.6%,53.4%,1.7%,51.2%,58.8%,4/10,99,3,0,41,24,17,1,1:06
+11-Jan-2021,M15 Manacor,3,Hard,F,464,475,1,SE,,Evan Furness,Holger Rune,6-2 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Manacor,3,Hard,SF,464,407,1,SE,8,Evan Furness,Tobias Simon,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Manacor,3,Hard,QF,464,392,1,SE,6,Evan Furness,Sadio Doumbia,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Manacor,3,Hard,R16,464,276,1,SE,1,Evan Furness,Stefano Napolitano,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Manacor,3,Hard,R32,464,411,1,SE,,Evan Furness,Peter Heller,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Jan-2021,M15 Manacor,3,Hard,SF,463,,1,,WC,Evan Furness,Daniel Rincon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2021,M15 Manacor,3,Hard,QF,463,1073,1,,,Evan Furness,Karlis Ozolins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2021,M15 Manacor,3,Hard,R16,463,411,1,,,Evan Furness,Peter Heller,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2021,M15 Manacor,3,Hard,R32,463,380,1,,5,Evan Furness,Jeroen Vanneste,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R16,491,344,0,SE,4,Tim Van Rijthoven,Evan Furness,4-6 7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R32,491,721,1,SE,WC,Evan Furness,Markos Kalovelonis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,F,526,450,1,SE,SE,Evan Furness,Lucas Catarina,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,SF,526,396,1,SE,8,Evan Furness,Ryan Peniston,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,QF,526,458,1,SE,,Evan Furness,Lucas Gerch,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R16,526,342,1,SE,3,Evan Furness,Jan Choinski,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R32,526,1908,1,SE,,Evan Furness,Natan Rodrigues,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,F,560,448,1,SE,,Evan Furness,Lucas Catarina,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,SF,560,429,1,SE,,Evan Furness,Francesco Forti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,QF,560,517,1,SE,Q,Evan Furness,Riccardo Balzerani,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,R16,560,404,1,SE,,Evan Furness,Yshai Oliel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Heraklion,3,Hard,R32,560,332,1,SE,3,Evan Furness,Corentin Denolly,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Heraklion,3,Hard,F,559,340,1,Q,3,Evan Furness,Matija Pecotic,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Heraklion,3,Hard,SF,559,331,1,Q,1,Evan Furness,Uladzimir Ignatik,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Heraklion,3,Hard,QF,559,584,1,Q,Q,Evan Furness,Vasil Kirkov,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Heraklion,3,Hard,R16,559,448,1,Q,,Evan Furness,Lucas Catarina,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M15 Heraklion,3,Hard,R32,559,366,1,Q,4,Evan Furness,Edan Leshem,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,R16,551,451,0,,,Sebastian Fanselow,Evan Furness,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,R32,551,398,1,,,Evan Furness,Tobias Simon,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R32,547,459,0,,6,Lucas Catarina,Evan Furness,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Loule,3,Hard,R16,559,693,1,5,,Evan Furness,Simone Roncalli,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Loule,3,Hard,R32,559,1572,1,5,Q,Evan Furness,Terence Das,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,SF,556,527,0,7,6,Sebastian Fanselow,Evan Furness,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,QF,556,863,1,7,Q,Evan Furness,Alberto Barroso Campos,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,R16,556,1421,1,7,,Evan Furness,Terence Atmane,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,R32,556,,1,7,WC,Evan Furness,Tiago Torres,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Sunderland,3,Hard,R16,550,321,0,,3,Jack Draper,Evan Furness,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Sunderland,3,Hard,R32,550,640,1,,Q,Evan Furness,Karl Friberg,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,Quimper CH,3,Hard,R64,498,,0,WC,WC,Jerzy Janowicz,Evan Furness,6-3 6-4,0.63,4.8%,7.2%,59.0%,61.2%,50.0%,11/13,44.1%,27.4%,12.9%,21.3%,46.7%,0/2,145,4,6,83,49,34,8,1:24
+20-Jan-2020,Rennes CH,3,Hard,R16,498,242,0,WC,12,Roberto Ortega Olmedo,Evan Furness,4-6 6-2 7-5,0.90,5.0%,6.0%,60.0%,61.7%,42.5%,7/13,47.6%,41.5%,1.9%,35.7%,48.0%,4/15,206,5,6,100,60,40,2,2:18
+20-Jan-2020,Rennes CH,3,Hard,R32,498,201,1,WC,5,Evan Furness,Maxime Janvier,7-6(6) 6-2,1.38,3.0%,0.0%,59.1%,74.4%,70.4%,0/0,54.3%,37.5%,8.3%,31.0%,64.3%,2/5,138,2,0,66,39,27,6,1:19
+20-Jan-2020,Rennes CH,3,Hard,R64,498,338,1,WC,,Evan Furness,Uladzimir Ignatik,6-3 6-7(2) 6-4,1.29,9.2%,2.0%,58.2%,82.5%,61.0%,4/4,53.2%,34.3%,10.5%,24.2%,51.3%,2/10,203,9,2,98,57,41,11,2:14
+13-Jan-2020,M15 Manacor,3,Hard,F,511,488,0,,,Carlos Alcaraz,Evan Furness,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,SF,511,,1,,WC,Evan Furness,Abedallah Shelbayh,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,QF,511,424,1,,7,Evan Furness,Michael Vrbensky,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,R16,511,359,1,,4,Evan Furness,Benjamin Bonzi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,R32,511,482,1,,,Evan Furness,Alexander Zhurbin,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Manacor,3,Hard,F,437,490,0,5,6,Carlos Alcaraz,Evan Furness,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Manacor,3,Hard,SF,437,491,1,5,7,Evan Furness,Alvaro Lopez San Martin,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Manacor,3,Hard,QF,437,692,1,5,,Evan Furness,Kenny De Schepper,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Manacor,3,Hard,R16,437,979,1,5,,Evan Furness,Dalibor Svrcina,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Manacor,3,Hard,R32,437,573,1,5,,Evan Furness,Imanol Lopez Morillo,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,R16,410,305,0,,,Hugo Grenier,Evan Furness,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,R32,410,419,1,,,Evan Furness,Yannick Mertens,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M25 Monastir,3,Hard,QF,407,595,0,,,Petros Chrysochos,Evan Furness,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M25 Monastir,3,Hard,R16,407,433,1,,,Evan Furness,Alen Avidzba,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M25 Monastir,3,Hard,R32,407,339,1,,,Evan Furness,Nerman Fatic,4-6 6-3 RET,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,Brest CH,3,Hard,Q1,410,367,0,WC,2,Maxime Hamou,Evan Furness,3-6 7-6(5) 7-6(3),0.85,15.8%,4.4%,57.0%,70.8%,59.2%,6/7,48.6%,29.0%,3.0%,19.1%,50.0%,2/5,214,18,5,114,65,49,3,2:04
+14-Oct-2019,M25 Rodez,3,Hard,R16,407,210,0,,,Mathias Bourgue,Evan Furness,6-7(3) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Rodez,3,Hard,R32,407,472,1,,,Evan Furness,Scott Griekspoor,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,R16,406,675,0,4,,Michal Konecny,Evan Furness,3-6 7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M15 Bad Salzdetfurth,3,Carpet,R32,406,1068,1,4,,Evan Furness,Amadatus Admiraal,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Nevers,3,Hard,R16,407,1786,0,,WC,Arthur Bouquier,Evan Furness,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Nevers,3,Hard,R32,407,957,1,,,Evan Furness,Ugo Blanchet,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,Glasgow CH,3,Hard,R32,417,247,0,,14,Daniel Masur,Evan Furness,6-4 6-3,0.28,8.7%,2.9%,58.0%,65.0%,48.3%,5/8,40.5%,11.9%,16.7%,0.0%,31.3%,0/0,111,6,2,69,40,29,7,1:06
+16-Sep-2019,Glasgow CH,3,Hard,R64,417,403,1,,,Evan Furness,Alessandro Bega,6-3 3-6 6-3,1.11,7.4%,4.2%,65.3%,64.5%,48.5%,6/10,52.9%,45.5%,2.6%,34.5%,72.7%,5/7,172,7,4,95,62,33,2,1:50
+9-Sep-2019,M25 Mulhouse,3,Hard,QF,416,336,0,5,,Arthur Rinderknech,Evan Furness,6-4 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M25 Mulhouse,3,Hard,R16,416,1597,1,5,,Evan Furness,Anatoliy Petrenko,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M25 Mulhouse,3,Hard,R32,416,1223,1,5,,Evan Furness,Nicolas Tepmahc,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M25 Bagneres De Bigorre,3,Hard,R32,415,1982,0,4,,Hendrik Jebens,Evan Furness,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Piombino,3,Hard,R16,415,929,0,,,Anton Matusevich,Evan Furness,6-2 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M15 Piombino,3,Hard,R32,415,,1,,WC,Evan Furness,Antonio Caruso,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Troyes,3,Clay,R32,505,675,0,,,Sebastien Boltz,Evan Furness,3-4 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M25 Kassel,3,Clay,R16,506,376,0,,,Sadio Doumbia,Evan Furness,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,M25 Kassel,3,Clay,R32,506,623,1,,,Evan Furness,James Frawley,2-6 7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,R32,503,585,0,,,Nick Hardt,Evan Furness,0-6 6-2 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M25 Huelva,3,Clay,R16,503,410,0,,,Tobias Simon,Evan Furness,6-3 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M25 Huelva,3,Clay,R32,503,,1,,WC,Evan Furness,Mikel Aranzabal,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Most,3,Clay,QF,491,377,0,,,Julian Lenz,Evan Furness,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Most,3,Clay,R16,491,,1,,IR  ,Evan Furness,Petr Nouza,4-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Most,3,Clay,R32,491,397,1,,5,Evan Furness,Sekou Bangoura,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,QF,494,538,0,,SE,Patrik Rikl,Evan Furness,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,R16,494,507,1,,,Evan Furness,Lucas Gerch,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2019,M25 Jablonec Nad Nisou,3,Clay,R32,494,357,1,,,Evan Furness,Jan Satral,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Prague,3,Clay,QF,497,469,0,5,,Michael Vrbensky,Evan Furness,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Prague,3,Clay,R16,497,,1,5,,Evan Furness,Calum Puttergill,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Prague,3,Clay,R32,497,,1,5,,Evan Furness,Samuel Puskar,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M25 Vercelli,3,Clay,QF,475,632,0,2,,Maxime Chazal,Evan Furness,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M25 Vercelli,3,Clay,R16,475,,1,2,WC,Evan Furness,Matteo Arnaldi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M25 Vercelli,3,Clay,R32,475,,1,2,,Evan Furness,Nicolas Uryson,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,Bordeaux CH,3,Clay,R64,451,392,0,ITF,,Alessandro Bega,Evan Furness,6-1 7-6(2),0.60,3.2%,4.8%,74.2%,63.0%,43.8%,0/3,42.4%,25.0%,5.4%,19.4%,32.0%,0/0,118,2,3,62,46,16,3,1:16
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,445,,0,4,,Wilson Leite,Evan Furness,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,445,,0,6,Q,Matej Sabanov,Evan Furness,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,445,,1,6,Q,Evan Furness,Alexander Weis,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,St. Brieuc CH,3,Hard,R64,420,352,0,WC,ITF,Baptiste Crepatte,Evan Furness,6-4 6-3,0.82,4.6%,3.1%,49.2%,59.4%,54.5%,8/11,45.6%,35.2%,7.0%,17.6%,51.4%,1/10,136,3,2,65,32,33,5,1:19
+18-Mar-2019,Lille CH,3,Hard,R64,420,441,0,WC,Q,Yannick Mertens,Evan Furness,6-0 7-6(3),0.77,2.9%,4.3%,52.2%,61.1%,48.5%,4/8,44.9%,34.8%,2.9%,25.0%,52.0%,1/4,138,2,3,69,36,33,2,1:20
+11-Mar-2019,Drummondville CH,3,Hard,R64,420,311,0,ITF,ITF,Jelle Sels,Evan Furness,6-3 7-6(2),0.78,3.5%,4.7%,61.6%,54.7%,51.5%,5/9,45.4%,36.4%,10.4%,22.2%,56.3%,3/9,163,3,4,86,53,33,8,1:53
+25-Feb-2019,Pau CH,3,Hard,R64,419,287,0,WC,WC,Tristan Lamasine,Evan Furness,6-2 7-5,0.62,2.3%,4.6%,56.3%,61.2%,47.4%,12/15,44.1%,27.6%,1.7%,29.5%,21.4%,0/1,145,2,4,87,49,38,1,1:31
+18-Feb-2019,Cuernavaca CH,3,Hard,Q1,417,567,0,1,ITF,Gonzalo Villanueva,Evan Furness,2-6 7-6(1) 6-1,0.94,4.0%,11.1%,62.6%,54.8%,37.8%,7/14,48.5%,48.4%,1.1%,37.5%,64.1%,7/13,194,4,11,99,62,37,1,2:00
+4-Feb-2019,M25 Oberentfelden,3,Carpet,F,426,589,1,4,,Evan Furness,Sandro Ehrat,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M25 Oberentfelden,3,Carpet,SF,426,394,1,4,2,Evan Furness,Julian Lenz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M25 Oberentfelden,3,Carpet,QF,426,430,1,4,,Evan Furness,Albano Olivetti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M25 Oberentfelden,3,Carpet,R16,426,670,1,4,IR  ,Evan Furness,Andrew Watson,4-6 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M25 Oberentfelden,3,Carpet,R32,426,,1,4,,Evan Furness,Raphael Baltensperger,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,Quimper CH,3,Hard,R64,425,220,0,WC,,Calvin Hemery,Evan Furness,6-3 7-6(5),0.61,2.6%,6.4%,60.3%,63.8%,45.2%,6/10,44.0%,26.8%,7.1%,15.6%,41.7%,2/2,134,2,5,78,47,31,4,1:13
+21-Jan-2019,Rennes CH,3,Hard,R32,450,132,0,WC,9,Sergiy Stakhovsky,Evan Furness,4-6 6-3 7-6(7),1.01,5.9%,2.9%,64.7%,80.3%,47.2%,5/7,49.1%,31.6%,3.5%,27.4%,43.3%,2/12,216,6,3,102,66,36,4,2:06
+21-Jan-2019,Rennes CH,3,Hard,R64,450,167,1,WC,,Evan Furness,Filippo Baldi,6-4 6-4,1.51,3.8%,5.7%,73.6%,76.9%,50.0%,1/2,55.2%,45.7%,1.2%,33.3%,61.1%,3/7,134,2,3,53,39,14,1,1:16
+14-Jan-2019,M15 Bressuire,3,Hard,R16,450,503,0,7,,Matteo Martineau,Evan Furness,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Bressuire,3,Hard,R32,450,,1,7,,Evan Furness,Tomas Machac,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2018,M25 Hong Kong,3,Hard,F,466,395,1,,,Evan Furness,Julian Lenz,5-6 RET,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2018,M25 Hong Kong,3,Hard,SF,466,657,1,,,Evan Furness,Shintaro Imai,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2018,M25 Hong Kong,3,Hard,QF,466,618,1,,Q,Evan Furness,Jumpei Yamasaki,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2018,M25 Hong Kong,3,Hard,R16,466,359,1,,5,Evan Furness,Denis Yevseyev,6-7(1) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2018,M25 Hong Kong,3,Hard,R32,466,503,1,,,Evan Furness,Riccardo Bonadio,1-6 7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Dec-2018,Hong Kong F3,3,Hard,R16,447,321,0,,2,Aslan Karatsev,Evan Furness,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Dec-2018,Hong Kong F3,3,Hard,R32,447,430,1,,,Evan Furness,Shintaro Imai,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,Cameroon F2,3,Hard,SF,532,401,0,4,2,Corentin Denolly,Evan Furness,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,Cameroon F2,3,Hard,QF,532,1270,1,4,,Evan Furness,Diego Matos,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,Cameroon F2,3,Hard,R16,532,,1,4,,Evan Furness,Arpit Sharma,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,Cameroon F2,3,Hard,R32,532,1556,1,4,,Evan Furness,Jatin Dahiya,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,Cameroon F1,3,Hard,F,539,863,0,,8,Skander Mansouri,Evan Furness,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,Cameroon F1,3,Hard,SF,539,601,1,,,Evan Furness,Leny Mitjana,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,Cameroon F1,3,Hard,QF,539,,1,,,Evan Furness,Simon Yitbarek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,Cameroon F1,3,Hard,R16,539,1152,1,,,Evan Furness,Niklas Johansson,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,Cameroon F1,3,Hard,R32,539,,1,,Q,Evan Furness,Darryl Hale,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mouilleron-Le-Captif CH,3,Hard,Q2,539,332,0,,4,Elliot Benchetrit,Evan Furness,6-4 2-6 6-3,1.04,0.0%,2.8%,60.6%,69.8%,42.9%,3/8,49.4%,42.4%,4.0%,35.5%,54.1%,5/11,170,0,2,71,43,28,4,1:51
+22-Oct-2018,Brest CH,3,Hard,Q2,527,319,0,,5,Elliot Benchetrit,Evan Furness,6-3 6-2,0.68,2.2%,13.3%,60.0%,66.7%,16.7%,3/8,40.8%,36.2%,12.1%,23.5%,54.2%,2/5,103,1,6,45,27,18,7,1:03
+22-Oct-2018,Brest CH,3,Hard,Q1,527,361,1,,,Evan Furness,Alex Molcan,6-2 6-4,1.44,2.0%,9.8%,47.1%,83.3%,48.1%,2/4,57.3%,50.8%,3.4%,34.5%,66.7%,5/11,110,1,5,51,24,27,2,1:07
+15-Oct-2018,Ismaning CH,3,Hard,Q1,530,427,0,,,Tobias Simon,Evan Furness,6-2 7-6(3),0.73,4.9%,8.2%,59.0%,77.8%,44.0%,1/3,44.2%,26.5%,36.8%,14.6%,44.4%,0/2,129,3,5,61,36,25,25,1:13
+8-Oct-2018,France F21,3,Hard,R16,534,1045,0,7,,Pierre Faivre,Evan Furness,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,France F21,3,Hard,R32,534,740,1,7,,Evan Furness,Yanais Laurent,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2018,France F20,3,Hard,R16,536,606,0,,,Remi Boutillier,Evan Furness,7-6(10) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2018,France F20,3,Hard,R32,536,1134,1,,WC,Evan Furness,Maxence Beauge,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Orleans CH,3,Hard,Q1,535,329,0,,8,Joao Menezes,Evan Furness,4-6 7-5 6-3,0.97,5.3%,4.2%,56.8%,77.8%,46.3%,4/7,48.5%,34.6%,6.5%,27.0%,51.5%,1/12,202,5,4,95,54,41,7,2:06
+13-Aug-2018,Belgium F8,3,Clay,QF,521,1121,0,4,,Benjamin Dhoe,Evan Furness,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Belgium F8,3,Clay,R16,521,1779,1,4,,Evan Furness,Antoine Damiens,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Belgium F8,3,Clay,R32,521,,1,4,,Evan Furness,Rayane Oumaouche,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,SF,505,381,0,4,2,Benjamin Hassan,Evan Furness,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,QF,505,681,1,4,,Evan Furness,Paul Woerner,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,R16,505,1532,1,4,,Evan Furness,Alex Knaff,6-0 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Germany F11,3,Clay,R32,505,1082,1,4,,Evan Furness,Matthew Dellavedova,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Germany F10,3,Clay,QF,473,536,0,,,Louis Wessels,Evan Furness,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Germany F10,3,Clay,R16,473,1228,1,,Q,Evan Furness,Kai Wehnelt,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Germany F10,3,Clay,R32,473,1080,1,,,Evan Furness,Matthew Dellavedova,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Poznan CH,3,Clay,Q1,458,312,0,,7,Frank Dancevic,Evan Furness,6-1 6-3,0.59,6.0%,12.0%,64.0%,46.9%,55.6%,2/6,39.6%,29.4%,7.8%,14.3%,40.0%,0/1,101,3,6,50,32,18,4,0:58
+28-May-2018,Roland Garros,5,Clay,Q1,458,254,0,,,Pedja Krstin,Evan Furness,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Bordeaux CH,3,Clay,Q1,457,1121,0,,,Mathieu Perchicot,Evan Furness,6-4 6-4,0.81,3.4%,3.4%,70.7%,63.4%,35.3%,3/7,45.5%,36.5%,1.6%,12.9%,59.4%,2/6,121,2,2,58,41,17,1,1:17
+7-May-2018,Braga CH,3,Clay,R32,464,174,0,Q,8,Casper Ruud,Evan Furness,6-4 6-3,0.78,3.2%,6.5%,66.1%,63.4%,19.0%,6/11,43.9%,40.0%,4.3%,26.3%,56.3%,3/4,132,2,4,62,41,21,3,1:32
+7-May-2018,Braga CH,3,Clay,Q3,464,353,1,8,2,Evan Furness,Juan Ignacio Galarza,6-4 6-3,1.23,4.2%,11.3%,42.3%,80.0%,41.5%,6/9,55.4%,52.0%,6.0%,43.8%,66.7%,5/12,121,3,8,71,30,41,3,1:20
+7-May-2018,Braga CH,3,Clay,Q2,464,774,1,8,,Evan Furness,Erik Crepaldi,6-3 4-0 RET,1.70,2.4%,11.9%,54.8%,73.9%,68.4%,2/2,61.0%,48.6%,0.0%,42.3%,66.7%,3/6,77,1,5,42,23,19,0,0:59
+30-Apr-2018,Ostrava CH,3,Clay,R32,476,256,0,Q,,Matteo Donati,Evan Furness,6-2 6-3,0.47,1.7%,1.7%,60.3%,51.4%,43.5%,4/8,37.9%,24.4%,2.2%,14.3%,41.2%,0/0,103,1,1,58,35,23,1,1:00
+30-Apr-2018,Ostrava CH,3,Clay,Q3,476,343,1,,7,Evan Furness,Patricio Heras,7-6(6) 6-4,1.03,5.7%,8.6%,62.9%,59.1%,38.5%,0/5,50.7%,50.0%,1.5%,44.4%,56.7%,6/8,136,4,6,70,44,26,1,1:36
+30-Apr-2018,Ostrava CH,3,Clay,Q2,476,673,1,,WC,Evan Furness,Pavel Nejedly,6-1 6-4,1.50,5.2%,1.7%,67.2%,74.4%,52.6%,3/4,58.4%,49.1%,1.8%,39.1%,56.3%,4/9,113,3,1,58,39,19,1,1:11
+30-Apr-2018,Ostrava CH,3,Clay,Q1,476,304,1,,3,Evan Furness,Dimitar Kuzmanov,6-4 6-3,1.23,2.9%,2.9%,66.7%,71.7%,43.5%,5/6,53.7%,46.3%,2.5%,38.5%,53.7%,4/17,149,2,2,69,46,23,2,1:40
+9-Apr-2018,Portugal F7,3,Clay,SF,507,304,0,,,Pedro Cachin,Evan Furness,3-6 6-4 RET,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Portugal F7,3,Clay,QF,507,405,1,,,Evan Furness,Fabien Reboul,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Portugal F7,3,Clay,R16,507,860,1,,,Evan Furness,Tiago Cacao,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Portugal F7,3,Clay,R32,507,417,1,,,Evan Furness,Marc Giner,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,St.Brieuc CH,3,Hard,R16,503,214,0,WC,,Tobias Kamke,Evan Furness,7-6(7) 6-0,0.59,3.1%,3.1%,53.1%,64.7%,40.0%,4/8,41.5%,27.8%,1.9%,25.8%,30.4%,1/1,118,2,2,64,34,30,1,1:17
+26-Mar-2018,St.Brieuc CH,3,Hard,R32,503,251,1,WC,WC,Evan Furness,Antoine Hoang,3-6 7-6(5) 6-4,1.02,3.9%,2.9%,63.7%,73.8%,40.5%,3/7,50.8%,39.2%,11.3%,31.7%,51.4%,3/10,199,4,3,102,65,37,11,2:14
+19-Mar-2018,France F6,3,Hard,QF,503,857,0,6,,Dan Added,Evan Furness,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,France F6,3,Hard,R16,503,810,1,6,,Evan Furness,Hugo Voljacques,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,France F6,3,Hard,R32,503,1430,1,6,,Evan Furness,Julien De Cuyper,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,France F5,3,Hard,R16,589,813,0,,,Hugo Voljacques,Evan Furness,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,France F5,3,Hard,R32,589,602,1,,,Evan Furness,Manuel Guinard,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Portugal F2,3,Hard,F,598,299,1,,3,Evan Furness,David Guez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Portugal F2,3,Hard,SF,598,314,1,,,Evan Furness,Roberto Ortega Olmedo,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Portugal F2,3,Hard,QF,598,1354,1,,,Evan Furness,Hugo Gaston,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Portugal F2,3,Hard,R16,598,,1,,,Evan Furness,Quentin Gueydan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Portugal F2,3,Hard,R32,598,391,1,,6,Evan Furness,Petr Michnev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Portugal F1,3,Hard,R16,615,437,0,,,Frederico Gil,Evan Furness,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Portugal F1,3,Hard,R32,615,1001,1,,,Evan Furness,Mick Veldheer,6-7(5) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,QF,616,411,0,,,Maximilian Neuchrist,Evan Furness,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,R16,616,845,1,,WC,Evan Furness,James Ward,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Great Britain F3,3,Hard,R32,616,306,1,,2,Evan Furness,Yannick Mertens,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Great Britain F2,3,Hard,R32,615,467,0,,,Niels Desein,Evan Furness,6-4 6-7(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Quimper CH,3,Hard,R32,616,142,0,WC,8,Yannick Maden,Evan Furness,6-4 4-6 6-3,0.89,5.1%,2.0%,54.5%,77.8%,44.4%,6/10,48.7%,33.3%,4.4%,20.4%,52.8%,2/6,189,5,2,99,54,45,4,2:02
+22-Jan-2018,Rennes CH,3,Hard,Q1,589,343,0,WC,,Tristan Lamasine,Evan Furness,7-6(4) 6-2,0.86,5.7%,4.3%,62.9%,65.9%,46.2%,4/7,46.3%,35.4%,8.9%,19.2%,66.7%,1/9,149,4,3,70,44,26,7,1:30
+4-Dec-2017,Thailand F11,3,Hard,R16,590,502,0,,7,Cheong Eui Kim,Evan Furness,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Thailand F11,3,Hard,R32,590,674,1,,Q,Evan Furness,Miliaan Niesten,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q3,592,410,0,,8,Maxime Janvier,Evan Furness,6-3 6-1,0.43,0.0%,3.3%,68.3%,56.1%,26.3%,3/7,36.5%,22.7%,11.4%,14.3%,37.5%,0/1,104,0,2,60,41,19,5,1:10
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q2,592,258,1,,2,Evan Furness,David Guez,6-3 6-4,1.32,0.0%,6.1%,67.3%,69.7%,50.0%,0/2,54.5%,48.6%,0.0%,42.9%,60.0%,5/13,123,0,3,49,33,16,0,1:15
+30-Oct-2017,Eckental CH,3,Hard,R32,608,575,0,Q,PR,Igor Sijsling,Evan Furness,6-3 6-2,0.66,2.0%,20.0%,32.0%,75.0%,32.4%,5/10,40.8%,35.8%,7.5%,21.9%,57.1%,2/3,103,1,10,50,16,34,4,0:51
+30-Oct-2017,Eckental CH,3,Hard,Q3,608,796,1,,WC,Evan Furness,Sebastian Prechtel,7-5 6-1,1.51,4.8%,7.9%,41.3%,76.9%,51.4%,2/5,59.7%,57.4%,6.6%,50.0%,68.0%,6/14,124,3,5,63,26,37,4,1:05
+30-Oct-2017,Eckental CH,3,Hard,Q2,608,93,1,,1,Evan Furness,Marcos Baghdatis,5-7 6-3 6-4,1.04,8.4%,11.2%,47.7%,82.4%,51.8%,11/13,52.3%,34.9%,7.0%,27.8%,40.0%,3/6,193,9,12,107,51,56,6,1:51
+30-Oct-2017,Eckental CH,3,Hard,Q1,608,908,1,,WC,Evan Furness,Johannes Haerteis,3-6 7-6(4) 7-6(3),1.10,5.5%,4.5%,58.2%,71.9%,54.3%,6/10,51.1%,38.8%,3.3%,25.8%,54.5%,3/9,231,6,5,110,64,46,4,2:09
+23-Oct-2017,Brest CH,3,Hard,Q1,605,392,0,,,Constant Lestienne,Evan Furness,7-5 7-6(3),0.87,2.6%,3.8%,64.1%,58.0%,53.6%,3/7,47.7%,38.0%,1.4%,34.0%,45.8%,3/4,149,2,3,78,50,28,1,1:39
+16-Oct-2017,France F24,3,Hard,R32,553,279,0,,,David Guez,Evan Furness,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Great Britain F4,3,Hard,SF,593,858,0,6,Q,Oliver Golding,Evan Furness,5-4 RET,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Great Britain F4,3,Hard,QF,593,449,1,6,1,Evan Furness,Lucas Catarina,4-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Great Britain F4,3,Hard,R16,593,923,1,6,,Evan Furness,Joshua Paris,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Great Britain F4,3,Hard,R32,593,,1,6,Q,Evan Furness,Evan Hoyt,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,France F18,3,Hard,R16,609,377,0,WC,,Sam Barry,Evan Furness,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,France F18,3,Hard,R32,609,916,1,WC,Q,Evan Furness,Nathaniel Lammons,6-7(4) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Portugal F18,3,Hard,QF,609,1041,0,,PR,Jaime Pulgar Garcia,Evan Furness,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Portugal F18,3,Hard,R16,609,725,1,,WC,Evan Furness,Bernardo Saraiva,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Portugal F18,3,Hard,R32,609,752,1,,,Evan Furness,Ryan James Storrie,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Romania F9,3,Clay,R16,639,525,0,,7,Martin Cuevas,Evan Furness,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Romania F9,3,Clay,R32,639,742,1,,,Evan Furness,Bogdan Borza,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Latvia F1,3,Clay,SF,695,986,0,5,,Scott Griekspoor,Evan Furness,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Latvia F1,3,Clay,QF,695,1004,1,5,,Evan Furness,Gabriel Petit,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Latvia F1,3,Clay,R16,695,878,1,5,,Evan Furness,Francois Arthur Vibert,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Latvia F1,3,Clay,R32,695,1502,1,5,WC,Evan Furness,Julius Tverijonas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,France F17,3,Clay,SF,698,451,0,,4,Antoine Hoang,Evan Furness,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,France F17,3,Clay,QF,698,,1,,Q,Evan Furness,Dan Added,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,France F17,3,Clay,R16,698,416,1,,2,Evan Furness,Alexis Musialek,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,France F17,3,Clay,R32,698,1864,1,,Q,Evan Furness,Alexandre Penaud,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,France F16,3,Clay,R16,693,433,0,,4,Antoine Hoang,Evan Furness,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,France F16,3,Clay,R32,693,,1,,Q,Evan Furness,Noe Khlif,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Belgium F4,3,Clay,R32,704,447,0,,3,Christopher Heyman,Evan Furness,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,R16,767,570,0,,5,Andrea Vavassori,Evan Furness,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Poland F3,3,Clay,R32,767,,1,,WC,Evan Furness,Daniel Kossek,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poland F2,3,Clay,SF,769,604,0,,5,Robin Stanek,Evan Furness,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poland F2,3,Clay,QF,769,602,1,,6,Evan Furness,Maxime Tabatruong,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poland F2,3,Clay,R16,769,706,1,,,Evan Furness,Maciej Rajski,3-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Poland F2,3,Clay,R32,769,507,1,,4,Evan Furness,Jan Choinski,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R16,790,319,0,Q,3,Pedro Martinez,Evan Furness,2-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R32,790,1405,1,Q,WC,Evan Furness,Nicolas Xiviller,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Saint Brieuc CH,3,Hard,R32,890,144,0,WC,6,Kenny De Schepper,Evan Furness,6-2 6-2,0.42,2.0%,5.9%,56.9%,55.2%,50.0%,4/8,38.5%,20.0%,7.5%,17.9%,25.0%,0/0,91,1,3,51,29,22,3,0:56
+20-Mar-2017,France F7,3,Hard,QF,890,719,0,SE,Q,Maxime Tabatruong,Evan Furness,6-7(2) 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,France F7,3,Hard,R16,890,656,1,SE,,Evan Furness,Elmar Ejupovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,France F7,3,Hard,R32,890,1241,1,SE,LL,Evan Furness,Tom Schonenberg,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,France F6,3,Hard,SF,893,346,0,WC,2,Remi Boutillier,Evan Furness,6-1 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,France F6,3,Hard,QF,893,370,1,WC,4,Evan Furness,Yannick Jankovits,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,France F6,3,Hard,R16,893,1018,1,WC,Q,Evan Furness,Manuel Guinard,6-1 6-7(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,France F6,3,Hard,R32,893,,1,WC,WC,Evan Furness,Jaimee Floyd Angele,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,USA F7,3,Clay,R32,888,555,0,Q,,Facundo Arguello,Evan Furness,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Quimper CH,3,Hard,R32,894,60,0,WC,1,Adrian Mannarino,Evan Furness,6-3 7-5,0.80,3.0%,6.1%,48.5%,71.9%,44.1%,2/6,45.8%,33.8%,6.2%,30.2%,40.9%,1/7,131,2,4,66,32,34,4,1:19
+23-Jan-2017,Rennes CH,3,Hard,R32,987,150,0,WC,,Grega Zemlja,Evan Furness,6-4 7-6(6),0.80,2.4%,4.8%,60.2%,68.0%,54.5%,5/6,47.7%,30.0%,12.9%,20.5%,41.9%,0/3,153,2,4,83,50,33,9,1:26
+16-Jan-2017,France F2,3,Hard,R16,987,411,0,,8,Remi Boutillier,Evan Furness,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,France F2,3,Hard,R32,987,1280,1,,Q,Evan Furness,Maxime Pauwels,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,France F1,3,Clay,QF,992,,0,,WC,Jules Marie,Evan Furness,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,France F1,3,Clay,R16,992,414,1,,,Evan Furness,Remi Boutillier,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,France F1,3,Clay,R32,992,1945,1,,Q,Evan Furness,Rayane Oumaouche,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Mouilleron-Le-Captif CH,3,Hard,Q2,973,408,0,,5,Romain Jouan,Evan Furness,6-7(5) 6-4 6-1,0.85,13.1%,3.6%,61.9%,78.8%,34.4%,3/8,46.6%,32.2%,10.0%,27.6%,40.6%,2/4,174,11,3,84,52,32,9,1:39
+7-Nov-2016,Mouilleron-Le-Captif CH,3,Hard,Q1,973,469,1,,,Evan Furness,Corentin Denolly,5-7 6-3 6-2,1.25,6.7%,6.7%,54.4%,81.6%,46.3%,6/9,53.3%,43.1%,2.8%,33.3%,56.5%,5/16,199,6,6,90,49,41,3,2:01
+17-Oct-2016,Brest CH,3,Hard,R32,1606,122,0,WC,3,Marco Chiudinelli,Evan Furness,6-4 7-5,0.75,6.7%,6.7%,53.3%,77.5%,34.3%,9/12,45.1%,31.9%,5.8%,25.0%,41.4%,1/5,144,5,5,75,40,35,4,1:39
+10-Oct-2016,France F22,3,Hard,F,1598,505,0,WC,6,Remi Boutillier,Evan Furness,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,France F22,3,Hard,SF,1598,706,1,WC,,Evan Furness,Jonathan Kanar,6-1 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,France F22,3,Hard,QF,1598,354,1,WC,2,Evan Furness,Hugo Nys,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,France F22,3,Hard,R16,1598,632,1,WC,8,Evan Furness,Sebastien Boltz,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,France F22,3,Hard,R32,1598,1125,1,WC,,Evan Furness,Ugo Humbert,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,France F21,3,Hard,R32,2003,422,0,WC,8,Gregoire Jacq,Evan Furness,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,France F20,3,Carpet,R16,2031,393,0,Q,1,Raymond Sarmiento,Evan Furness,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,France F20,3,Carpet,R32,2031,,1,Q,WC,Evan Furness,Jaimee Floyd Angele,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Belgium F14,3,Clay,R16,,553,0,Q,3,Marvin Netuschil,Evan Furness,6-4 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Belgium F14,3,Clay,R32,,775,1,Q,,Evan Furness,Alexandre Folie,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,France F17,3,Hard,R32,,412,0,WC,5,Julien Dubail,Evan Furness,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Belgium F7,3,Clay,R32,1626,568,0,Q,4,Omar Salman,Evan Furness,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,France F15,3,Clay,R32,1616,347,0,WC,2,Jonathan Eysseric,Evan Furness,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,France F14,3,Clay,R32,1622,743,0,,4,Alexis Musialek,Evan Furness,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,France F19,3,Hard,R32,1442,656,0,Q,,Jeremy Jahn,Evan Furness,6-3 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belgium F11,3,Clay,R16,2134,516,0,Q,4,Oscar Otte,Evan Furness,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Belgium F11,3,Clay,R32,2134,1873,1,Q,Q,Evan Furness,Nicolas De Plaen,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belgium F10,3,Clay,R16,2129,581,0,Q,7,Clement Geens,Evan Furness,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Belgium F10,3,Clay,R32,2129,1588,1,Q,,Evan Furness,Samuel Shropshire,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,France F15,3,Clay,R32,2087,1004,0,WC,,Teri Groll,Evan Furness,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,France F13,3,Clay,R32,2030,1059,0,WC,WC,Florian Reynet,Evan Furness,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,France F7,3,Hard,R32,1730,1135,0,WC,WC,Thomas Le Boulch,Evan Furness,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,France F6,3,Hard,R32,1724,189,0,WC,2,David Guez,Evan Furness,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,France F1,3,Clay,R16,,388,0,WC,3,Gleb Sakharov,Evan Furness,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,France F1,3,Clay,R32,,1227,1,WC,,Evan Furness,Alexandre Muller,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,

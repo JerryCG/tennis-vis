@@ -1,0 +1,147 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Nov-2022,Calgary CH,3,Hard,QF,263,259,0,,5,Dominik Koepfer,Harold Mayot,7-6(0) 3-6 6-3,0.84,6.4%,7.4%,57.4%,68.5%,45.0%,3/6,46.4%,35.0%,9.0%,25.9%,47.6%,3/11,194,6,7,94,54,40,9,1:56
+6-Nov-2022,Calgary CH,3,Hard,R16,263,448,1,,Q,Harold Mayot,Michail Pervolarakis,6-4 6-0,2.39,7.0%,2.3%,65.1%,75.0%,86.7%,4/4,62.6%,50.0%,0.0%,38.5%,60.0%,4/8,99,3,1,43,28,15,0,1:10
+6-Nov-2022,Calgary CH,3,Hard,R32,263,107,1,,1,Harold Mayot,Emilio Gomez,3-6 7-5 6-1,1.28,9.1%,3.9%,54.5%,76.2%,60.0%,2/4,53.7%,40.0%,9.4%,30.2%,50.0%,4/11,162,7,3,77,42,35,8,1:46
+24-Oct-2022,Brest CH,3,Hard,R32,258,443,0,,Q,Mathias Bourgue,Harold Mayot,6-0 5-7 6-2,0.76,4.5%,4.5%,68.7%,58.7%,38.1%,0/6,43.3%,36.1%,12.0%,32.7%,42.9%,2/7,150,3,3,67,46,21,10,1:55
+17-Oct-2022,Hamburg CH,3,Hard,R32,254,458,0,,Q,Evgeny Donskoy,Harold Mayot,6-3 6-3,0.73,1.8%,1.8%,56.4%,58.1%,41.7%,3/8,43.8%,36.0%,8.0%,25.0%,55.6%,2/3,105,1,1,55,31,24,4,1:11
+10-Oct-2022,Saint Tropez CH,3,Hard,R16,254,154,0,,,Matteo Arnaldi,Harold Mayot,6-2 6-3,0.66,4.9%,0.0%,55.7%,55.9%,40.7%,3/7,41.1%,33.3%,11.1%,17.9%,45.7%,1/4,124,3,0,61,34,27,7,1:32
+10-Oct-2022,Saint Tropez CH,3,Hard,R32,254,360,1,,Q,Harold Mayot,Federico Gaio,6-4 6-4,1.22,4.5%,0.0%,60.6%,67.5%,61.5%,8/9,55.0%,42.6%,0.0%,34.5%,52.0%,3/4,120,3,0,66,40,26,0,1:28
+3-Oct-2022,Alicante CH,3,Hard,R32,248,176,0,,6,Emilio Nava,Harold Mayot,6-3 6-4,0.81,3.6%,9.1%,56.4%,58.1%,58.3%,6/9,45.3%,33.9%,3.2%,28.6%,45.0%,1/6,117,2,5,55,31,24,2,1:20
+26-Sep-2022,Orleans CH,3,Hard,R32,252,126,0,WC,8,Jack Sock,Harold Mayot,3-6 6-3 6-2,0.79,7.7%,2.2%,54.9%,78.0%,41.5%,9/12,48.1%,30.4%,10.1%,21.4%,44.4%,1/1,160,7,2,91,50,41,7,1:46
+19-Sep-2022,Metz,3,Hard,Q1,248,91,0,WC,3,Marton Fucsovics,Harold Mayot,6-4 6-4,0.91,1.4%,4.1%,58.9%,62.8%,36.7%,9/14,48.1%,43.5%,4.8%,42.9%,44.4%,3/9,135,1,3,73,43,30,3,1:36
+12-Sep-2022,Istanbul CH,3,Hard,QF,263,144,0,,4,Geoffrey Blancaneaux,Harold Mayot,6-3 6-4,0.83,0.0%,5.3%,56.1%,62.5%,48.0%,1/4,44.4%,36.5%,1.2%,25.0%,48.8%,1/8,142,0,3,57,32,25,1,1:45
+12-Sep-2022,Istanbul CH,3,Hard,R16,263,253,1,,,Harold Mayot,Lorenzo Giustino,7-5 7-5,1.27,3.9%,5.3%,67.1%,68.6%,60.0%,4/6,54.6%,43.4%,3.9%,33.3%,64.0%,4/9,152,3,4,76,51,25,3,1:44
+12-Sep-2022,Istanbul CH,3,Hard,R32,263,196,1,,5,Harold Mayot,Paul Jubb,6-3 5-7 6-0,1.22,7.5%,8.6%,58.1%,74.1%,46.2%,9/12,54.5%,45.8%,2.4%,38.0%,57.6%,6/17,176,7,8,93,54,39,2,2:12
+15-Aug-2022,Grodzisk Mazowiecki CH,3,Hard,SF,295,157,0,,6,Zhizhen Zhang,Harold Mayot,6-3 6-4,0.78,14.5%,5.5%,60.0%,72.7%,45.5%,2/5,45.9%,29.6%,14.8%,22.2%,44.4%,1/1,109,8,3,55,33,22,8,1:13
+15-Aug-2022,Grodzisk Mazowiecki CH,3,Hard,QF,295,302,1,,Alt,Harold Mayot,Gabriel Decamps,6-4 7-6(0),1.21,6.2%,3.7%,61.7%,72.0%,51.6%,13/15,54.7%,43.3%,4.5%,31.4%,56.3%,3/9,148,5,3,81,50,31,3,1:55
+15-Aug-2022,Grodzisk Mazowiecki CH,3,Hard,R16,295,1430,1,,WC,Harold Mayot,Jerzy Janowicz,6-4 5-7 6-3,1.19,14.4%,2.1%,59.8%,70.7%,51.3%,6/10,52.9%,44.1%,11.7%,35.7%,58.5%,5/15,208,14,2,97,58,39,13,2:52
+15-Aug-2022,Grodzisk Mazowiecki CH,3,Hard,R32,295,159,1,,4,Harold Mayot,Maximilian Marterer,6-4 6-2,1.36,20.0%,9.1%,54.5%,86.7%,52.0%,0/0,54.2%,39.7%,3.2%,41.0%,37.5%,3/6,118,11,5,55,30,25,2,1:30
+25-Jul-2022,Zug CH,3,Clay,R16,304,172,0,SE,,Dominic Stricker,Harold Mayot,6-3 4-5 RET,0.74,7.6%,4.5%,54.5%,72.2%,50.0%,4/6,47.4%,28.0%,12.0%,4.8%,44.8%,1/4,116,5,3,66,36,30,6,1:22
+25-Jul-2022,Zug CH,3,Clay,R32,304,143,1,SE,7,Harold Mayot,Mats Moraing,6-3 7-6(4),1.13,14.3%,1.4%,65.7%,76.1%,70.8%,5/5,53.0%,29.0%,9.7%,22.0%,42.9%,1/5,132,10,1,70,46,24,6,1:16
+18-Jul-2022,Tampere CH,3,Clay,F,395,165,0,Q,5,Zsombor Piros,Harold Mayot,6-2 1-6 6-4,0.95,4.1%,4.1%,72.2%,62.9%,33.3%,9/14,49.7%,43.1%,2.8%,37.5%,50.0%,4/7,169,4,4,97,70,27,2,1:46
+18-Jul-2022,Tampere CH,3,Clay,SF,395,110,1,Q,1,Harold Mayot,Juan Manuel Cerundolo,6-7(3) 6-3 6-1,1.17,0.0%,1.2%,70.6%,73.3%,44.0%,2/4,53.3%,41.5%,4.9%,39.6%,44.8%,6/7,167,0,1,85,60,25,4,1:54
+18-Jul-2022,Tampere CH,3,Clay,QF,395,258,1,Q,,Harold Mayot,Jelle Sels,6-4 3-6 6-2,1.01,4.5%,2.2%,66.3%,71.2%,46.7%,4/6,50.6%,37.3%,4.8%,27.3%,57.1%,4/5,172,4,2,89,59,30,4,1:59
+18-Jul-2022,Tampere CH,3,Clay,R16,395,313,1,Q,LL,Harold Mayot,Joao Domingues,7-5 7-5,1.10,3.0%,4.5%,71.2%,63.8%,42.1%,2/5,51.7%,46.8%,2.6%,45.3%,50.0%,5/10,143,2,3,66,47,19,2,1:37
+18-Jul-2022,Tampere CH,3,Clay,R32,395,1138,1,Q,WC,Harold Mayot,Eero Vasa,6-4 6-4,1.69,2.0%,2.0%,58.0%,82.8%,57.1%,1/3,59.0%,47.3%,5.5%,40.0%,56.0%,4/7,105,1,1,50,29,21,3,1:08
+18-Jul-2022,Tampere CH,3,Clay,Q2,395,674,1,6,11,Harold Mayot,Lorenzo Bocchi,1-6 6-3 6-3,1.26,4.3%,10.0%,58.6%,73.2%,48.3%,3/6,53.7%,46.7%,3.3%,39.6%,54.5%,4/15,162,3,7,70,41,29,3,2:12
+18-Jul-2022,Tampere CH,3,Clay,Q1,395,1187,1,6,,Harold Mayot,Iiro Vasa,6-1 6-1,2.32,7.7%,2.6%,53.8%,85.7%,61.1%,1/1,66.7%,59.5%,2.4%,57.9%,60.9%,5/6,81,3,1,39,21,18,1,0:53
+11-Jul-2022,Amersfoort CH,3,Clay,R32,402,1089,0,LL,WC,Alexander Maarten Jong,Harold Mayot,6-4 7-5,0.81,6.7%,4.0%,69.3%,63.5%,47.8%,4/8,47.4%,33.3%,5.0%,17.6%,53.8%,2/3,135,5,3,75,52,23,3,1:28
+11-Jul-2022,Amersfoort CH,3,Clay,Q2,402,481,0,9,,Tristan Lamasine,Harold Mayot,7-5 7-6(5),0.84,3.7%,3.7%,64.2%,73.1%,44.8%,3/5,47.5%,31.2%,3.9%,24.5%,42.9%,1/3,158,3,3,81,52,29,3,1:55
+11-Jul-2022,Amersfoort CH,3,Clay,Q1,402,474,1,9,,Harold Mayot,Jonathan Mridha,6-4 6-1,1.56,6.4%,0.0%,66.0%,71.0%,56.3%,1/2,59.6%,53.2%,2.1%,54.8%,50.0%,5/7,94,3,0,47,31,16,1,1:07
+27-Jun-2022,Troyes CH,3,Clay,Q2,403,376,0,7,5,Matteo Martineau,Harold Mayot,7-6(2) 6-2,0.64,4.8%,4.8%,58.1%,69.4%,42.3%,2/5,42.6%,26.7%,3.3%,11.1%,50.0%,1/1,122,3,3,62,36,26,2,1:20
+27-Jun-2022,Troyes CH,3,Clay,Q1,403,1089,1,7,WC,Harold Mayot,Amaury Raynel,7-5 6-2,1.49,5.5%,1.8%,69.1%,65.8%,76.5%,2/3,57.9%,46.2%,5.8%,44.8%,47.8%,4/7,107,3,1,55,38,17,3,1:10
+20-Jun-2022,M25 Montauban,3,Clay,QF,408,574,0,2,5,Giovanni Mpetshi Perricard,Harold Mayot,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M25 Montauban,3,Clay,R16,408,839,1,2,,Harold Mayot,Fausto Tabacco,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M25 Montauban,3,Clay,R32,408,2037,1,2,PR,Harold Mayot,Benjamin Pietri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Grasse,3,Clay,R16,410,343,0,,2,Kyrian Jacquet,Harold Mayot,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Grasse,3,Clay,R32,410,1240,1,,Q,Harold Mayot,Nikolay Vylegzhanin,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M15 Budva,3,Clay,SF,427,474,0,1,4,Damien Wenger,Harold Mayot,6-1 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M15 Budva,3,Clay,QF,427,770,1,1,,Harold Mayot,Timo Legout,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M15 Budva,3,Clay,R16,427,955,1,1,Q,Harold Mayot,Lorenzo Joaquin Rodriguez,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M15 Budva,3,Clay,R32,427,768,1,1,,Harold Mayot,Rrezart Cungu,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M25 Jablonec nad Nisou,3,Clay,QF,427,685,0,4,,Martin Damm,Harold Mayot,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M25 Jablonec nad Nisou,3,Clay,R16,427,1248,1,4,Q,Harold Mayot,Jiri Barnat,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M25 Jablonec nad Nisou,3,Clay,R32,427,2063,1,4,Q,Harold Mayot,Daniel Paty,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,Francavilla Al Mare CH,3,Clay,R32,430,422,0,Q,Alt,Filippo Baldi,Harold Mayot,6-1 3-6 6-3,0.79,1.1%,2.3%,50.6%,61.4%,46.5%,5/10,45.9%,36.1%,0.0%,30.8%,50.0%,3/6,159,1,2,87,44,43,0,2:00
+16-May-2022,Francavilla Al Mare CH,3,Clay,Q2,430,610,1,1,7,Harold Mayot,Thomas Fancutt,6-2 0-0 RET,2.18,0.0%,0.0%,61.9%,84.6%,62.5%,0/0,62.5%,51.9%,0.0%,47.6%,66.7%,2/4,48,0,0,21,13,8,0,0:40
+9-May-2022,M25 Prague,3,Clay,R16,431,518,0,8,,Andrew Paulson,Harold Mayot,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2022,M25 Prague,3,Clay,R32,431,469,1,8,,Harold Mayot,Peter Heller,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,M25 Santa Margherita di Pula,3,Clay,R32,436,561,0,4,,Jack Pinnington Jones,Harold Mayot,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Angers,3,Clay,R32,433,504,0,8,,Valentin Royer,Harold Mayot,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,Saint-Brieuc CH,3,Hard,R32,446,351,0,WC,Q,Alastair Gray,Harold Mayot,6-3 4-6 6-4,0.86,5.1%,3.8%,55.1%,67.4%,45.7%,4/8,46.0%,36.5%,16.7%,26.7%,52.8%,3/8,174,4,3,78,43,35,16,1:59
+21-Mar-2022,M25 Toulouse-Balma,3,Hard,SF,446,568,0,3,8,Nam Hoang Ly,Harold Mayot,7-5 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Toulouse-Balma,3,Hard,QF,446,530,1,3,7,Harold Mayot,Ugo Blanchet,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Toulouse-Balma,3,Hard,R16,446,608,1,3,,Harold Mayot,Joris De Loore,6-7(2) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Toulouse-Balma,3,Hard,R32,446,689,1,3,,Harold Mayot,Johan Sebastien Tatlot,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Trimbach,3,Carpet,R16,450,176,0,,1,Daniel Masur,Harold Mayot,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Trimbach,3,Carpet,R32,450,685,1,,,Harold Mayot,Luca Castelnuovo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,M25 Portimao,3,Hard,R32,450,998,0,,WC,Fabio Coelho,Harold Mayot,3-6 6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,Pau CH,3,Hard,R32,401,165,0,WC,,Gregoire Barrere,Harold Mayot,6-3 6-3,0.76,3.5%,3.5%,68.4%,48.7%,44.4%,5/10,43.3%,40.0%,5.7%,40.0%,40.0%,2/6,127,2,2,57,39,18,4,1:15
+14-Feb-2022,M25 Glasgow,3,Hard,R32,408,699,0,5,WC,Henry Patten,Harold Mayot,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,Cherbourg CH,3,Hard,R32,405,139,0,WC,6,Quentin Halys,Harold Mayot,6-4 7-6(2),0.57,3.6%,1.2%,61.4%,72.5%,50.0%,5/6,45.2%,20.6%,17.5%,9.8%,40.9%,0/2,146,3,1,83,51,32,11,1:37
+24-Jan-2022,M25 Monastir,3,Hard,R16,471,1188,0,7,Q,Keisuke Saitoh,Harold Mayot,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,R32,471,507,1,7,,Harold Mayot,Gauthier Onclin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,F,471,416,1,8,6,Harold Mayot,Yunseong Chung,6-4 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,SF,471,370,1,8,4,Harold Mayot,Calvin Hemery,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,QF,471,559,1,8,,Harold Mayot,Moez Echargui,6-4 6-7(11) 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,R16,471,556,1,8,,Harold Mayot,Sho Shimabukuro,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,R32,471,670,1,8,,Harold Mayot,Hamad Medjedovic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,Australian Open,5,Hard,Q1,471,148,0,WC,26,Quentin Halys,Harold Mayot,6-4 6-1,0.63,1.8%,0.0%,60.0%,60.6%,36.4%,3/7,41.1%,30.8%,11.5%,20.6%,50.0%,1/3,107,1,0,55,33,22,6,1:08
+3-Jan-2022,Traralgon CH,3,Hard,R32,419,143,0,,4,Tomas Machac,Harold Mayot,6-2 4-6 4-1 RET,0.81,2.3%,4.7%,59.3%,51.0%,57.1%,12/17,45.8%,37.5%,3.8%,32.8%,50.0%,2/6,166,2,4,86,51,35,3,2:23
+3-Jan-2022,Traralgon CH,3,Hard,R64,419,,1,,LL,Harold Mayot,David Hough,6-1 6-2,2.08,10.2%,2.0%,71.4%,80.0%,57.1%,4/4,64.3%,55.1%,0.0%,48.3%,65.0%,4/8,98,5,1,49,35,14,0,1:03
+15-Nov-2021,Pau CH,3,Hard,QF,436,159,0,WC,,Jiri Lehecka,Harold Mayot,6-4 6-2,0.86,6.5%,2.2%,56.5%,65.4%,60.0%,1/4,45.3%,31.7%,5.0%,25.6%,47.1%,0/5,106,3,1,46,26,20,3,1:11
+15-Nov-2021,Pau CH,3,Hard,R16,436,340,1,WC,Q,Harold Mayot,Michael Geerts,6-0 4-6 7-6(5),1.07,5.8%,2.9%,62.1%,70.3%,41.0%,4/8,52.1%,43.7%,9.2%,36.5%,54.3%,6/14,190,6,3,103,64,39,8,2:20
+15-Nov-2021,Pau CH,3,Hard,R32,436,140,1,WC,8,Harold Mayot,Zdenek Kolar,6-4 6-4,1.63,11.3%,0.0%,75.5%,72.5%,76.9%,2/3,56.8%,43.1%,6.2%,36.4%,50.0%,3/6,118,6,0,53,40,13,4,1:26
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R16,407,540,0,2,,Maximilian Neuchrist,Harold Mayot,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R32,407,,1,2,Q,Harold Mayot,Arjun Mehrotra,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2021,Paris Masters,3,Hard,Q1,414,58,0,WC,6,Dominik Koepfer,Harold Mayot,3-6 6-0 7-5,0.76,5.1%,3.1%,58.2%,66.7%,39.0%,11/16,46.0%,34.2%,2.6%,33.3%,35.3%,2/8,174,5,3,98,57,41,2,1:47
+25-Oct-2021,M25 Sarreguemines,3,Carpet,R16,420,755,0,4,,Gabriel Decamps,Harold Mayot,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Sarreguemines,3,Carpet,R32,420,1005,1,4,,Harold Mayot,Blake Ellis,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Toulouse,3,Hard,QF,426,682,0,5,,Luca Van Assche,Harold Mayot,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Toulouse,3,Hard,R16,426,532,1,5,,Harold Mayot,Valentin Royer,7-6(9) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Toulouse,3,Hard,R32,426,1546,1,5,Q,Harold Mayot,Hugo Pierre,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25+H Rodez,3,Hard,R32,443,623,0,6,,Martin Damm,Harold Mayot,7-6(0) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,Mouilleron-Le-Captif CH,3,Hard,R16,443,80,0,WC,2,Jiri Vesely,Harold Mayot,6-2 6-4,0.50,4.1%,0.0%,57.1%,67.9%,33.3%,0/4,39.1%,23.3%,16.3%,14.3%,40.0%,1/1,92,2,0,49,28,21,7,1:01
+4-Oct-2021,Mouilleron-Le-Captif CH,3,Hard,R32,443,156,1,WC,,Harold Mayot,Antoine Hoang,7-6(4) 6-3,1.21,6.8%,2.7%,62.2%,71.7%,60.7%,2/3,53.8%,39.1%,0.0%,33.3%,52.4%,2/4,143,5,2,74,46,28,0,1:35
+27-Sep-2021,Orleans CH,3,Hard,R32,429,64,0,WC,2,Benjamin Bonzi,Harold Mayot,6-1 6-3,0.50,7.1%,7.1%,40.5%,70.6%,40.0%,1/5,38.1%,23.8%,16.7%,11.1%,46.7%,0/0,84,3,3,42,17,25,7,0:52
+20-Sep-2021,Metz,3,Hard,Q2,447,233,0,WC,Alt,Brayden Schnur,Harold Mayot,6-4 6-1,0.69,8.2%,9.8%,47.5%,62.1%,40.6%,8/12,42.7%,33.9%,3.6%,28.2%,47.1%,1/2,117,5,6,61,29,32,2,1:18
+20-Sep-2021,Metz,3,Hard,Q1,447,157,1,WC,7,Harold Mayot,Federico Gaio,6-7(4) 7-5 6-4,0.86,3.6%,2.2%,54.0%,75.7%,47.6%,10/12,49.6%,32.0%,8.7%,23.5%,40.4%,4/7,240,5,3,137,74,63,9,2:47
+13-Sep-2021,Rennes CH,3,Hard,R32,443,193,0,WC,,Mats Moraing,Harold Mayot,4-6 7-5 6-2,0.72,17.4%,7.0%,62.8%,75.9%,43.8%,6/10,46.0%,26.0%,19.5%,17.0%,40.0%,2/4,163,15,6,86,54,32,15,1:35
+30-Aug-2021,M25 Bagneres-De-Bigorre,3,Hard,R32,430,1046,0,5,,Alastair Gray,Harold Mayot,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M25+H Lesa,3,Clay,SF,432,381,0,3,1,Alessandro Bega,Harold Mayot,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M25+H Lesa,3,Clay,QF,432,944,1,3,,Harold Mayot,Andrea Picchione,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M25+H Lesa,3,Clay,R16,432,584,1,3,,Harold Mayot,Daniel Dutra Da Silva,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,M25+H Lesa,3,Clay,R32,432,706,1,3,,Harold Mayot,Pietro Rondoni,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M25 Muttenz,3,Clay,R16,428,1477,0,5,WC,Jerome Kym,Harold Mayot,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M25 Muttenz,3,Clay,R32,428,,1,5,Q,Harold Mayot,Jeremy Schifris,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Wetzlar,3,Clay,SF,455,415,0,,6,Christopher Heyman,Harold Mayot,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Wetzlar,3,Clay,QF,455,436,1,,7,Harold Mayot,Louis Wessels,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Wetzlar,3,Clay,R16,455,402,1,,4,Harold Mayot,Ivan Nedelko,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M25 Wetzlar,3,Clay,R32,455,616,1,,,Harold Mayot,Kai Wehnelt,6-4 6-7(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2020,M15 Monastir,3,Hard,R32,426,799,0,3,,Aziz Ouakaa,Harold Mayot,5-4 RET,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2020,M15 Monastir,3,Hard,R32,426,637,0,3,,Luca Giacomini,Harold Mayot,6-3 1-2 RET,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,Roland Garros,5,Clay,R128,412,70,0,WC,,Alejandro Davidovich Fokina,Harold Mayot,7-6(5) 6-3 7-5,0.82,3.3%,0.8%,48.4%,57.6%,55.6%,4/9,46.8%,35.8%,1.8%,31.3%,42.9%,3/10,231,4,1,122,59,63,2,2:45
+14-Sep-2020,M25 Prague,3,Clay,R32,411,387,0,JE,,Raul Brancaccio,Harold Mayot,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,Aix En Provence CH,3,Clay,R16,453,61,0,WC,2,Pablo Cuevas,Harold Mayot,6-3 6-4,0.40,2.7%,6.8%,52.7%,61.5%,54.3%,4/6,41.8%,16.7%,10.4%,6.1%,40.0%,0/0,122,2,5,74,39,35,5,1:18
+7-Sep-2020,Aix En Provence CH,3,Clay,R32,453,152,1,WC,,Harold Mayot,Emilio Gomez,6-7(7) 6-3 6-4,1.01,5.4%,2.7%,55.0%,70.5%,56.0%,6/8,51.5%,36.3%,0.0%,28.8%,50.0%,4/6,202,6,3,111,61,50,0,2:21
+31-Aug-2020,M15 Caslano,3,Clay,SF,453,354,0,,6,Alessandro Bega,Harold Mayot,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Caslano,3,Clay,QF,453,290,1,,2,Harold Mayot,Tomas Martin Etcheverry,6-7(7) 7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Caslano,3,Clay,R16,453,351,1,,5,Harold Mayot,Maxime Hamou,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Caslano,3,Clay,R32,453,721,1,,Q,Harold Mayot,Thiago Agustin Tirante,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2020,M25 Poznan,3,Clay,R16,453,551,0,JE,,Aidan Mchugh,Harold Mayot,7-6(3) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2020,M25 Poznan,3,Clay,R32,453,295,1,JE,1,Harold Mayot,Javier Barranco Cosano,2-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Toulouse,3,Hard,R32,451,362,0,,1,Denis Yevseyev,Harold Mayot,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,Pau CH,3,Hard,QF,514,71,0,WC,1,Jiri Vesely,Harold Mayot,7-6(3) 7-6(5),0.77,5.2%,6.3%,63.5%,73.8%,45.7%,8/9,48.0%,28.0%,29.3%,13.7%,58.3%,1/2,171,5,6,96,61,35,22,1:51
+24-Feb-2020,Pau CH,3,Hard,R16,514,228,1,WC,,Harold Mayot,Hugo Gaston,6-1 0-0 RET,2.02,5.3%,0.0%,73.7%,78.6%,40.0%,0/0,65.9%,63.6%,0.0%,50.0%,75.0%,3/4,41,1,0,19,14,5,0,0:24
+24-Feb-2020,Pau CH,3,Hard,R32,514,162,1,WC,9,Harold Mayot,Robin Haase,7-6(5) 7-6(3),0.87,7.3%,5.2%,64.6%,74.2%,52.9%,5/6,50.0%,28.9%,14.5%,21.2%,45.8%,1/3,172,7,5,96,62,34,11,1:48
+24-Feb-2020,Pau CH,3,Hard,R64,514,363,1,WC,WC,Harold Mayot,Rayane Roumane,6-1 6-1,2.09,2.5%,10.0%,55.0%,81.8%,61.1%,0/0,64.4%,57.4%,2.1%,56.5%,58.3%,5/6,87,1,4,40,22,18,1,0:53
+17-Feb-2020,Marseille,3,Hard,R32,509,58,0,WC,,Gilles Simon,Harold Mayot,6-4 7-6(3),0.63,3.5%,2.3%,54.7%,70.2%,48.7%,4/6,45.3%,25.0%,14.1%,12.5%,45.8%,1/2,150,3,2,86,47,39,9,1:56
+10-Feb-2020,Cherbourg CH,3,Hard,R32,525,138,0,WC,1,Antoine Hoang,Harold Mayot,4-6 6-3 7-6(4),0.80,3.2%,3.2%,57.0%,79.2%,50.0%,6/8,47.5%,26.7%,12.8%,14.8%,56.0%,2/5,179,3,3,93,53,40,11,1:58
+10-Feb-2020,Cherbourg CH,3,Hard,R64,525,282,1,WC,,Harold Mayot,Pavel Kotov,3-6 6-3 7-6(1),1.15,11.2%,6.7%,59.6%,81.1%,47.2%,6/9,52.2%,37.4%,2.2%,36.4%,38.9%,3/6,180,10,6,89,53,36,2,2:02
+13-Jan-2020,Bendigo CH,3,Hard,QF,611,81,0,,4,Steve Johnson,Harold Mayot,6-3 7-6(2),0.67,4.6%,9.2%,56.9%,86.5%,35.7%,4/5,44.5%,23.8%,22.2%,17.5%,34.8%,0/0,128,3,6,65,37,28,14,1:22
+13-Jan-2020,Bendigo CH,3,Hard,R16,611,269,1,,12,Harold Mayot,Hugo Grenier,7-6(6) 7-5,0.99,5.8%,2.3%,59.3%,66.7%,60.0%,7/9,51.6%,35.8%,22.4%,21.4%,60.0%,3/3,153,5,2,86,51,35,15,1:41
+13-Jan-2020,Bendigo CH,3,Hard,R32,611,98,1,,6,Harold Mayot,Egor Gerasimov,7-5 6-4,1.23,11.7%,10.0%,51.7%,83.9%,51.7%,1/3,53.8%,39.0%,10.2%,28.1%,51.9%,4/6,119,7,6,60,31,29,6,1:15
+13-Jan-2020,Bendigo CH,3,Hard,R64,611,401,1,,,Harold Mayot,Kacper Zuk,6-4 7-5,1.11,10.3%,5.9%,51.5%,80.0%,54.5%,1/2,51.9%,35.8%,3.0%,30.8%,42.9%,3/9,135,7,4,68,35,33,2,1:18
+6-Jan-2020,Noumea CH,3,Hard,R16,688,177,0,WC,,Roberto Marcora,Harold Mayot,6-2 6-2,0.42,4.3%,0.0%,50.0%,60.9%,47.8%,2/6,37.5%,19.0%,16.7%,19.2%,18.8%,0/1,88,2,0,46,23,23,7,0:56
+6-Jan-2020,Noumea CH,3,Hard,R32,688,135,1,WC,8,Harold Mayot,Facundo Bagnis,3-6 6-3 6-3,1.30,8.2%,1.4%,69.9%,76.5%,63.6%,5/6,52.5%,35.6%,6.9%,32.2%,42.9%,3/11,160,6,1,73,51,22,6,1:47
+6-Jan-2020,Noumea CH,3,Hard,R64,688,623,1,WC,WC,Harold Mayot,Colin Sinclair,4-6 6-3 6-2,1.32,8.2%,5.9%,63.5%,81.5%,51.6%,5/6,54.3%,38.9%,12.2%,28.1%,57.6%,3/9,175,7,5,85,54,31,11,1:50
+11-Nov-2019,M15 Villers Les Nancy,3,Hard,F,1125,654,1,,7,Harold Mayot,Ronan Joncour,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Villers Les Nancy,3,Hard,SF,1125,1471,1,,,Harold Mayot,Titouan Droguet,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Villers Les Nancy,3,Hard,QF,1125,631,1,,,Harold Mayot,Kyrian Jacquet,6-0 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Villers Les Nancy,3,Hard,R16,1125,422,1,,2,Harold Mayot,Yannick Mertens,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Villers Les Nancy,3,Hard,R32,1125,1140,1,,WC,Harold Mayot,Arthur Bouquier,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,F,1129,305,0,,,Hugo Grenier,Harold Mayot,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,SF,1129,300,1,,3,Harold Mayot,Corentin Denolly,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,QF,1129,590,1,,WC,Harold Mayot,Alexis Gautier,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,R16,1129,276,1,,2,Harold Mayot,Marc Andrea Huesler,2-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Saint Dizier,3,Hard,R32,1129,1249,1,,Q,Harold Mayot,Benjamin Pietri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Forbach,3,Carpet,F,,589,0,,3,Elmar Ejupovic,Harold Mayot,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Forbach,3,Carpet,SF,,977,1,,,Harold Mayot,Stefan Seifert,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Forbach,3,Carpet,QF,,1962,1,,WC,Harold Mayot,Boris Fassbender,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Forbach,3,Carpet,R16,,396,1,,,Harold Mayot,Dan Added,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Forbach,3,Carpet,R32,,956,1,,,Harold Mayot,Ugo Blanchet,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,Metz,3,Hard,Q1,,208,0,WC,8,Adrian Menendez Maceiras,Harold Mayot,3-6 6-3 7-6(2),1.02,2.5%,0.8%,68.1%,61.7%,47.4%,12/17,50.7%,43.5%,3.7%,43.1%,44.2%,5/14,227,3,1,119,81,38,4,2:45
+29-Apr-2019,M15 Grasse,3,Clay,R32,,,0,,Q,Amaury Delmas,Harold Mayot,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,M15 Toulouse,3,Hard,R32,,317,0,JR   ,,Denis Yevseyev,Harold Mayot,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,France F5,3,Hard,R32,,1180,0,,WC,Clement Tabur,Harold Mayot,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,France F4,3,Hard,R32,,468,0,WC,,Igor Sijsling,Harold Mayot,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

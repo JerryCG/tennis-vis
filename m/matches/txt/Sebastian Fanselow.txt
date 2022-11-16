@@ -1,0 +1,431 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Nov-2022,Knoxville CH,3,Hard,R32,330,562,0,,Q,Inaki Montes De La Torre,Sebastian Fanselow,3-6 6-1 6-4,0.76,9.5%,5.3%,53.7%,66.7%,45.5%,12/16,46.0%,32.9%,1.3%,25.5%,46.4%,2/6,174,9,5,95,51,44,1,2:13
+31-Oct-2022,Charlottesville CH,3,Hard,R32,303,105,0,,1,Denis Kudla,Sebastian Fanselow,6-4 6-3,0.78,7.4%,8.6%,56.8%,71.7%,37.1%,3/6,47.1%,33.9%,16.9%,23.3%,44.8%,0/1,140,6,7,81,46,35,10,1:36
+24-Oct-2022,Las Vegas CH,3,Hard,R32,300,444,0,,Q,Tennys Sandgren,Sebastian Fanselow,3-6 7-5 6-3,0.95,5.1%,5.1%,54.1%,62.3%,55.6%,9/13,49.2%,38.7%,11.8%,27.3%,55.3%,3/11,191,5,5,98,53,45,11,2:25
+10-Oct-2022,Fairfield CH,3,Hard,R32,293,435,0,,Q,Tennys Sandgren,Sebastian Fanselow,6-4 7-6(7),0.97,2.1%,3.1%,56.7%,60.0%,54.8%,8/12,50.0%,41.2%,10.6%,36.0%,48.6%,3/9,182,2,3,97,55,42,9,2:07
+3-Oct-2022,Tiburon CH,3,Hard,R32,283,243,0,,,Alexis Galarneau,Sebastian Fanselow,7-5 4-6 6-3,0.95,4.4%,3.3%,58.9%,66.0%,51.4%,3/7,48.0%,38.2%,7.3%,23.7%,54.9%,3/10,200,4,3,90,53,37,8,2:41
+26-Sep-2022,Charleston CH,3,Hard,R32,281,489,0,,WC,Ethan Quinn,Sebastian Fanselow,4-6 6-3 6-3,0.86,4.5%,6.3%,53.2%,62.7%,51.9%,16/20,48.5%,36.5%,4.7%,28.0%,48.6%,2/6,196,5,7,111,59,52,4,2:18
+19-Sep-2022,San Diego,3,Hard,Q1,282,381,0,8,,Marek Gengel,Sebastian Fanselow,6-2 3-6 6-0,0.73,3.9%,5.3%,53.9%,63.4%,42.9%,6/11,44.4%,33.8%,4.4%,30.0%,39.3%,1/2,144,3,4,76,41,35,3,1:37
+22-Aug-2022,Banja Luka CH,3,Clay,R32,275,239,0,,2,Fabian Marozsan,Sebastian Fanselow,6-4 6-3,0.64,4.2%,2.8%,56.3%,65.0%,45.2%,7/10,44.0%,27.8%,7.4%,18.4%,50.0%,0/1,125,3,2,71,40,31,4,1:20
+1-Aug-2022,Liberec CH,3,Clay,Q2,277,674,0,4,Alt,Petr Nouza,Sebastian Fanselow,4-6 6-3 7-6(8),0.95,4.8%,11.4%,50.5%,71.7%,44.2%,2/7,48.8%,39.8%,4.6%,28.8%,50.0%,4/7,213,5,12,105,53,52,5,2:37
+1-Aug-2022,Liberec CH,3,Clay,Q1,277,452,1,4,,Sebastian Fanselow,Daniel Rincon,7-6(1) 4-6 6-4,1.09,5.1%,6.1%,57.1%,64.3%,50.0%,12/18,51.7%,45.7%,4.8%,29.2%,59.6%,6/16,203,5,6,98,56,42,5,2:32
+18-Jul-2022,M25 EschAlzette,3,Clay,F,325,254,0,4,1,Pol Martin Tiffon,Sebastian Fanselow,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 EschAlzette,3,Clay,SF,325,335,1,4,5,Sebastian Fanselow,Yshai Oliel,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 EschAlzette,3,Clay,QF,325,945,1,4,,Sebastian Fanselow,Chris Rodesch,4-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 EschAlzette,3,Clay,R16,325,544,1,4,,Sebastian Fanselow,Timo Legout,6-7(5) 7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 EschAlzette,3,Clay,R32,325,661,1,4,,Sebastian Fanselow,Eliakim Coulibaly,6-7(4) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,F,321,465,0,5,,Michael Vrbensky,Sebastian Fanselow,7-5 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,SF,321,659,1,5,,Sebastian Fanselow,Aleksandre Metreveli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,QF,321,483,1,5,,Sebastian Fanselow,Rudolf Molleker,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,R16,321,545,1,5,,Sebastian Fanselow,Jan Choinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25+H Kassel,3,Clay,R32,321,1608,1,5,Q,Sebastian Fanselow,Alexandre Aubriot,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2022,Troyes CH,3,Clay,R32,321,315,0,,,Filip Cristian Jianu,Sebastian Fanselow,6-2 6-4,0.90,6.5%,4.3%,65.2%,73.3%,37.5%,0/3,45.0%,35.1%,2.7%,22.9%,46.2%,0/10,120,3,2,46,30,16,2,1:28
+20-Jun-2022,Oeiras CH,3,Clay,R32,309,348,0,,,Steven Diez,Sebastian Fanselow,2-6 6-1 6-4,0.80,1.2%,13.3%,49.4%,65.9%,35.7%,3/9,45.6%,39.4%,0.0%,40.0%,38.5%,4/10,149,1,11,83,41,42,0,2:07
+13-Jun-2022,Parma CH,3,Clay,Q1,312,369,0,7,,Ernests Gulbis,Sebastian Fanselow,6-2 6-4,0.72,1.4%,9.9%,57.7%,58.5%,36.7%,7/12,43.5%,36.7%,3.3%,16.1%,58.6%,2/6,131,1,7,71,41,30,2,1:47
+6-Jun-2022,Orlando CH,3,Hard,R32,315,292,0,,,Nicolas Mejia,Sebastian Fanselow,6-2 7-6(5),0.94,7.6%,4.5%,54.5%,72.2%,50.0%,3/6,47.6%,35.4%,7.6%,30.6%,43.3%,1/5,145,5,3,66,36,30,6,2:14
+30-May-2022,Little Rock CH,3,Hard,R32,315,294,0,,,Yasutaka Uchiyama,Sebastian Fanselow,4-6 6-3 6-1,0.82,6.4%,10.3%,52.6%,75.6%,43.2%,6/11,46.5%,32.5%,9.1%,27.7%,40.0%,2/6,155,5,8,78,41,37,7,1:57
+16-May-2022,Shymkent 2 CH,3,Clay,R16,318,838,0,Alt,Q,Sergey Fomin,Sebastian Fanselow,6-3 6-3,0.80,4.9%,4.9%,57.4%,54.3%,53.8%,3/7,45.8%,36.8%,3.5%,24.2%,54.2%,1/3,118,3,3,61,35,26,2,1:23
+16-May-2022,Shymkent 2 CH,3,Clay,R32,318,303,1,Alt,7,Sebastian Fanselow,Denis Istomin,6-1 6-4,1.35,3.1%,6.2%,64.6%,69.0%,52.2%,4/5,56.6%,50.0%,4.7%,47.8%,55.6%,4/9,129,2,4,65,42,23,3,1:22
+9-May-2022,Shymkent 1 CH,3,Clay,F,397,358,0,Q,Alt,Emilio Nava,Sebastian Fanselow,6-4 7-6(3),0.91,4.3%,0.0%,73.9%,66.7%,66.7%,6/8,47.6%,30.3%,10.5%,22.4%,44.4%,1/5,145,3,0,69,51,18,8,1:38
+9-May-2022,Shymkent 1 CH,3,Clay,SF,397,329,1,Q,,Sebastian Fanselow,Ergi Kirkin,7-6(4) 6-4,1.16,1.4%,2.9%,66.7%,82.6%,52.2%,0/0,52.6%,31.8%,3.0%,28.9%,38.1%,1/3,135,1,2,69,46,23,2,1:43
+9-May-2022,Shymkent 1 CH,3,Clay,QF,397,321,1,Q,,Sebastian Fanselow,Dragos Nicolae Madaras,6-4 7-6(5),1.21,4.9%,6.2%,50.6%,70.7%,52.5%,4/7,54.0%,46.3%,2.5%,46.2%,46.4%,4/12,161,4,5,81,41,40,2,1:56
+9-May-2022,Shymkent 1 CH,3,Clay,R16,397,311,1,Q,,Sebastian Fanselow,Antoine Bellier,3-6 6-1 6-2,1.78,7.8%,4.7%,62.5%,80.0%,66.7%,1/2,58.8%,44.4%,5.6%,33.3%,63.0%,4/5,136,5,3,64,40,24,4,1:29
+9-May-2022,Shymkent 1 CH,3,Clay,R32,397,295,1,Q,8,Sebastian Fanselow,Filip Cristian Jianu,6-3 7-5,1.12,3.9%,5.3%,63.2%,72.9%,39.3%,6/8,53.3%,44.1%,1.7%,32.6%,75.0%,4/7,135,3,4,76,48,28,1,1:40
+9-May-2022,Shymkent 1 CH,3,Clay,Q2,397,526,1,5,11,Sebastian Fanselow,Bogdan Ionut Apostol,6-3 2-1 RET,2.09,3.1%,12.5%,43.8%,92.9%,66.7%,0/0,59.0%,45.7%,2.2%,20.0%,65.4%,2/5,78,1,4,32,14,18,1,1:01
+9-May-2022,Shymkent 1 CH,3,Clay,Q1,397,911,1,5,Alt,Sebastian Fanselow,Dostanbek Tashbulatov,7-6(4) 4-6 6-4,1.03,3.4%,7.6%,52.9%,71.4%,51.8%,8/11,50.4%,39.0%,0.8%,28.7%,58.1%,3/15,242,4,9,119,63,56,1,2:58
+2-May-2022,Aix-En-Provence CH,3,Clay,Q1,401,315,0,,7,Mathias Bourgue,Sebastian Fanselow,6-3 6-0,0.52,2.1%,4.2%,50.0%,62.5%,20.8%,0/5,36.1%,30.6%,4.1%,24.1%,40.0%,0/2,97,1,2,48,24,24,2,1:18
+18-Apr-2022,Prague CH,3,Clay,Q2,399,313,0,,2,Lucas Miedler,Sebastian Fanselow,6-4 6-3,0.69,4.9%,3.3%,65.6%,67.5%,42.9%,3/6,44.7%,28.3%,9.4%,15.6%,47.6%,0/2,114,3,2,61,40,21,5,1:17
+18-Apr-2022,Prague CH,3,Clay,Q1,399,393,1,,12,Sebastian Fanselow,Alexander Erler,6-1 7-5,1.26,3.0%,4.5%,62.7%,64.3%,44.0%,4/7,55.7%,54.7%,0.0%,55.6%,53.6%,6/12,131,2,3,67,42,25,0,1:30
+4-Apr-2022,Oeiras 2 CH,3,Clay,R32,396,173,0,,,Gastao Elias,Sebastian Fanselow,6-1 6-2,0.54,0.0%,2.3%,62.8%,44.4%,18.8%,1/7,34.9%,34.9%,2.3%,20.0%,47.8%,1/1,86,0,1,43,27,16,1,1:01
+28-Mar-2022,Oeiras 1 CH,3,Clay,Q1,393,482,0,8,,Noah Rubin,Sebastian Fanselow,3-6 6-4 6-3,0.82,2.2%,4.5%,62.9%,75.0%,36.4%,4/7,46.6%,32.2%,8.0%,28.3%,38.2%,2/6,176,2,4,89,56,33,7,2:12
+14-Mar-2022,M25 Loule,3,Hard,R32,349,598,0,7,,Gauthier Onclin,Sebastian Fanselow,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,M25 Portimao,3,Hard,R32,349,260,0,Q,1,Marius Copil,Sebastian Fanselow,6-7(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R16,346,765,0,3,Q,Jumpei Yamasaki,Sebastian Fanselow,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R32,346,496,1,3,,Sebastian Fanselow,Stuart Parker,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,R16,348,446,0,3,,Billy Harris,Sebastian Fanselow,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,R32,348,2127,1,3,WC,Sebastian Fanselow,Miguel Gomes,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,Cherbourg CH,3,Hard,Q1,337,309,0,,8,Jonas Forejtek,Sebastian Fanselow,6-4 3-6 6-3,0.74,3.7%,0.0%,60.5%,75.5%,56.3%,1/3,47.1%,23.6%,16.7%,20.0%,35.3%,1/2,153,3,0,81,49,32,12,1:36
+31-Jan-2022,Cleveland CH,3,Hard,R32,341,203,0,Q,,Yasutaka Uchiyama,Sebastian Fanselow,6-4 6-3,0.73,10.6%,6.1%,63.6%,64.3%,41.7%,3/6,45.1%,32.1%,14.3%,18.4%,61.1%,0/1,122,7,4,66,42,24,8,1:27
+31-Jan-2022,Cleveland CH,3,Hard,Q2,341,357,1,10,,Sebastian Fanselow,Alex Rybakov,6-4 7-6(5),1.11,6.0%,3.0%,44.8%,66.7%,59.5%,0/3,51.8%,41.4%,5.7%,32.7%,61.9%,4/9,137,4,2,67,30,37,4,1:41
+31-Jan-2022,Cleveland CH,3,Hard,Q1,341,391,1,10,,Sebastian Fanselow,Zachary Svajda,6-3 6-2,1.34,26.4%,5.7%,54.7%,82.8%,41.7%,5/6,56.3%,48.0%,4.0%,44.1%,56.3%,5/10,103,14,3,53,29,24,2,1:06
+24-Jan-2022,Columbus CH,3,Hard,R32,348,254,0,Q,,Denis Istomin,Sebastian Fanselow,7-5 1-6 6-4,0.92,10.6%,3.5%,60.0%,74.5%,44.1%,5/8,48.3%,34.5%,12.6%,27.6%,48.3%,4/5,172,9,3,85,51,34,11,1:56
+24-Jan-2022,Columbus CH,3,Hard,Q2,348,282,1,8,4,Sebastian Fanselow,Peter Polansky,6-3 6-3,1.54,16.1%,3.6%,55.4%,87.1%,48.0%,0/0,59.2%,46.8%,8.5%,23.1%,76.2%,3/5,103,9,2,56,31,25,4,1:06
+24-Jan-2022,Columbus CH,3,Hard,Q1,348,389,1,8,,Sebastian Fanselow,Zachary Svajda,2-6 6-4 6-4,0.74,12.2%,2.0%,46.9%,82.6%,44.2%,5/7,47.6%,27.8%,11.1%,23.4%,36.0%,2/5,170,12,2,98,46,52,8,
+17-Jan-2022,Forli 3 CH,3,Hard,Q1,348,298,0,Alt,8,Tristan Lamasine,Sebastian Fanselow,6-4 3-6 6-3,1.16,4.3%,5.8%,55.1%,81.6%,58.1%,1/3,49.4%,33.7%,7.4%,27.4%,45.5%,1/9,164,3,4,69,38,31,7,1:53
+13-Dec-2021,Maia 2 CH,3,Clay,QF,365,118,0,,1,Andrej Martin,Sebastian Fanselow,6-2 6-2,0.46,3.4%,1.7%,67.8%,52.5%,42.1%,8/12,37.7%,23.4%,6.4%,19.4%,31.3%,0/1,106,2,1,59,40,19,3,1:16
+13-Dec-2021,Maia 2 CH,3,Clay,R16,365,282,1,,8,Sebastian Fanselow,Goncalo Oliveira,7-6(3) 6-4,1.00,6.3%,5.1%,58.2%,76.1%,48.5%,4/5,51.4%,35.4%,3.1%,32.6%,40.9%,2/3,144,5,4,79,46,33,2,1:57
+13-Dec-2021,Maia 2 CH,3,Clay,R32,365,1009,1,,WC,Sebastian Fanselow,Fabio Coelho,6-3 3-6 6-3,1.13,3.4%,6.9%,51.7%,71.1%,50.0%,0/3,52.6%,44.3%,1.1%,42.3%,52.9%,4/10,175,3,6,87,45,42,1,2:09
+22-Nov-2021,Bari CH,3,Hard,R16,377,112,0,Q,3,Oscar Otte,Sebastian Fanselow,6-3 6-7(3) 7-5,0.88,2.9%,2.9%,60.6%,63.5%,61.0%,7/11,47.8%,33.0%,10.7%,21.0%,51.2%,2/3,207,3,3,104,63,41,11,2:25
+22-Nov-2021,Bari CH,3,Hard,R32,377,241,1,Q,,Sebastian Fanselow,Dominic Stricker,4-6 6-4 7-5,1.04,2.8%,3.7%,58.3%,57.1%,53.3%,7/13,51.2%,46.4%,6.2%,43.5%,51.4%,7/10,205,3,4,108,63,45,6,2:13
+22-Nov-2021,Bari CH,3,Hard,Q2,377,904,1,1,,Sebastian Fanselow,Matteo Gigante,2-6 7-5 6-2,0.98,6.9%,2.9%,66.7%,72.1%,38.2%,9/12,51.1%,38.5%,2.6%,29.5%,50.0%,4/5,180,7,3,102,68,34,2,1:58
+15-Nov-2021,Pau CH,3,Hard,R16,402,108,0,Q,2,Holger Rune,Sebastian Fanselow,6-2 6-2,0.49,2.4%,4.8%,59.5%,60.0%,29.4%,0/4,36.5%,25.6%,4.7%,17.9%,40.0%,0/0,85,1,2,42,25,17,2,0:58
+15-Nov-2021,Pau CH,3,Hard,R32,402,285,1,Q,SE,Sebastian Fanselow,Hiroki Moriya,7-6(5) 6-4,1.28,9.7%,4.2%,51.4%,78.4%,48.6%,3/5,54.5%,46.3%,2.4%,39.2%,58.1%,3/9,154,7,3,72,37,35,2,1:56
+15-Nov-2021,Pau CH,3,Hard,Q2,402,487,1,6,Alt,Sebastian Fanselow,Benjamin Lock,6-4 6-2,1.16,11.3%,6.5%,48.4%,76.7%,50.0%,2/3,52.8%,42.9%,4.8%,27.5%,69.6%,4/7,125,7,4,62,30,32,3,1:32
+15-Nov-2021,Pau CH,3,Hard,Q1,402,911,1,6,WC,Sebastian Fanselow,Robin Bertrand,6-4 6-3,1.17,17.3%,6.2%,60.5%,69.4%,46.9%,9/11,54.8%,46.3%,1.9%,37.1%,63.2%,4/6,135,14,5,81,49,32,1,1:31
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R16,396,638,0,4,,Tristan Schoolkate,Sebastian Fanselow,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Villers Les Nancy,3,Hard,R32,396,752,1,4,,Sebastian Fanselow,Petros Tsitsipas,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,F,441,370,1,8,5,Sebastian Fanselow,Paul Jubb,6-1 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,SF,441,584,1,8,,Sebastian Fanselow,Maximilian Neuchrist,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,QF,441,367,1,8,4,Sebastian Fanselow,Petros Chrysochos,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R16,441,573,1,8,,Sebastian Fanselow,Pablo Llamas Ruiz,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R32,441,1586,1,8,Q,Sebastian Fanselow,Mehdi Sadaoui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R16,438,610,0,7,,Maximilian Neuchrist,Sebastian Fanselow,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R32,438,454,1,7,,Sebastian Fanselow,Rio Noguchi,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,R32,419,798,0,7,WC,Pedro Araujo,Sebastian Fanselow,6-4 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,QF,419,342,0,5,Q,Arthur Cazaux,Sebastian Fanselow,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R16,419,,1,5,Q,Sebastian Fanselow,Illia Stoliar,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R32,419,726,1,5,,Sebastian Fanselow,Jumpei Yamasaki,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,Lisboa CH,3,Clay,R32,423,141,0,Q,5,Nikola Milojevic,Sebastian Fanselow,6-4 6-4,0.76,0.0%,5.1%,66.1%,64.1%,40.0%,3/7,44.8%,33.3%,5.3%,22.2%,52.4%,2/3,116,0,3,59,39,20,3,1:30
+27-Sep-2021,Lisboa CH,3,Clay,Q2,423,442,1,7,,Sebastian Fanselow,Jacopo Berrettini,4-6 7-5 6-2,0.99,1.8%,0.9%,67.9%,66.2%,54.3%,8/10,51.0%,37.4%,1.1%,28.8%,48.7%,4/10,200,2,1,109,74,35,1,2:31
+27-Sep-2021,Lisboa CH,3,Clay,Q1,423,629,1,7,Alt,Sebastian Fanselow,Marco Bortolotti,6-2 6-2,1.82,0.0%,1.8%,58.2%,75.0%,65.2%,2/2,62.3%,52.9%,2.0%,44.4%,73.3%,4/8,106,0,1,55,32,23,1,1:27
+20-Sep-2021,Braga CH,3,Clay,Q2,421,350,0,8,3,Nikolas Sanchez Izquierdo,Sebastian Fanselow,6-4 1-6 6-3,1.00,6.4%,5.1%,52.6%,70.7%,45.9%,4/8,49.4%,41.1%,1.1%,39.0%,45.2%,4/10,168,5,4,78,41,37,1,2:07
+13-Sep-2021,M25 Sintra,3,Hard,R32,416,1262,0,2,Q,Adria Soriano Barrera,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2021,M25 Sintra,3,Hard,R32,416,566,0,5,,Luca Potenza,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Bagneres-De-Bigorre,3,Hard,R32,416,1439,0,4,Q,Millen Hurrion,Sebastian Fanselow,2-6 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2021,Poznan CH,3,Clay,Q1,417,480,0,,Alt,Lucas Gerch,Sebastian Fanselow,6-2 7-5,0.63,1.5%,4.6%,46.2%,56.7%,45.7%,1/5,41.1%,31.3%,4.7%,23.5%,40.0%,1/5,129,1,3,65,30,35,3,1:35
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,R32,402,373,0,,6,Viktor Durasovic,Sebastian Fanselow,1-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,Milan CH,3,Clay,Q1,393,300,0,Alt,5,Camilo Ugo Carabelli,Sebastian Fanselow,3-6 6-2 6-2,0.90,1.6%,6.3%,60.9%,61.5%,52.0%,2/7,46.9%,38.0%,1.3%,32.2%,55.0%,3/9,143,1,4,64,39,25,1,1:47
+14-Jun-2021,Forli CH,3,Clay,R32,392,300,0,Q,,Camilo Ugo Carabelli,Sebastian Fanselow,6-2 6-2,0.41,1.9%,11.5%,53.8%,60.7%,25.0%,2/7,35.2%,23.1%,2.6%,22.7%,23.5%,1/1,91,1,6,52,28,24,1,1:12
+14-Jun-2021,Forli CH,3,Clay,Q2,392,433,1,4,8,Sebastian Fanselow,Luca Vanni,2-6 6-2 7-5,1.08,1.0%,4.9%,71.8%,59.5%,44.8%,3/8,52.1%,48.3%,3.4%,42.9%,55.3%,6/11,190,1,5,103,74,29,3,2:39
+14-Jun-2021,Forli CH,3,Clay,Q1,392,513,1,4,Alt,Sebastian Fanselow,Antoine Bellier,6-3 6-4,1.51,6.5%,6.5%,64.5%,80.0%,50.0%,5/6,57.3%,46.4%,2.9%,36.8%,58.1%,3/10,131,4,4,62,40,22,2,1:32
+7-Jun-2021,Orlando 2 CH,3,Hard,Q1,402,340,0,,2,Thiago Agustin Tirante,Sebastian Fanselow,6-2 3-6 6-4,0.79,4.4%,3.3%,68.1%,61.3%,34.5%,5/11,45.6%,37.2%,6.4%,25.5%,54.8%,4/12,169,4,3,91,62,29,5,2:30
+31-May-2021,Little Rock CH,3,Hard,Q2,402,462,0,7,,Alexis Galarneau,Sebastian Fanselow,3-6 6-3 6-4,1.04,8.6%,3.7%,58.0%,68.1%,50.0%,5/10,50.3%,40.9%,2.3%,38.8%,43.6%,4/9,169,7,3,81,47,34,2,2:15
+31-May-2021,Little Rock CH,3,Hard,Q1,402,478,1,7,,Sebastian Fanselow,Michail Pervolarakis,6-4 7-5,1.18,5.6%,5.6%,63.4%,75.6%,50.0%,4/5,53.2%,40.0%,2.9%,33.3%,52.0%,3/8,141,4,4,71,45,26,2,1:47
+10-May-2021,M15 Troisdorf,3,Clay,SF,408,448,0,2,4,Elmar Ejupovic,Sebastian Fanselow,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Troisdorf,3,Clay,QF,408,475,1,2,5,Sebastian Fanselow,Louis Wessels,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Troisdorf,3,Clay,R16,408,612,1,2,,Sebastian Fanselow,Marvin Netuschil,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Troisdorf,3,Clay,R32,408,,1,2,WC,Sebastian Fanselow,Maximilian Dietel,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,R16,408,378,0,,4,Matteo Martineau,Sebastian Fanselow,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,R32,408,,1,,WC,Sebastian Fanselow,Ignacio Benzal Alia,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M25 Angers,3,Clay,R16,410,547,0,,Q,Alvaro Lopez San Martin,Sebastian Fanselow,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M25 Angers,3,Clay,R32,410,343,1,,4,Sebastian Fanselow,Nikolas Sanchez Izquierdo,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M25 La Nucia,3,Clay,R16,436,361,0,,7,Raul Brancaccio,Sebastian Fanselow,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M25 La Nucia,3,Clay,R32,436,504,1,,,Sebastian Fanselow,Pol Toledo Bague,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,F,435,321,0,,1,Kaichi Uchida,Sebastian Fanselow,5-7 7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,SF,435,624,1,,,Sebastian Fanselow,Tak Khunn Wang,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,QF,435,1154,1,,WC,Sebastian Fanselow,Pedro Araujo,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,R16,435,,1,,Q,Sebastian Fanselow,Bradley Paliska,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M25 Vale do Lobo,3,Hard,R32,435,1353,1,,LL,Sebastian Fanselow,Fabio Coelho,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R16,429,618,0,,,Tomas Lipovsek Puches,Sebastian Fanselow,6-3 3-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R32,429,1350,1,,WC,Sebastian Fanselow,Fabio Coelho,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R16,427,659,0,,Q,Kenny De Schepper,Sebastian Fanselow,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Vale do Lobo,3,Hard,R32,427,523,1,,,Sebastian Fanselow,Antoine Bellier,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R16,426,1173,0,3,,Dominic Stricker,Sebastian Fanselow,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R32,426,619,1,3,PR,Sebastian Fanselow,Tak Khunn Wang,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M25 Villena,3,Hard,R32,426,347,0,,6,Tim Van Rijthoven,Sebastian Fanselow,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15+H Bressuire,3,Hard,R32,422,339,0,,6,Jelle Sels,Sebastian Fanselow,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R16,417,364,0,,6,Maxime Hamou,Sebastian Fanselow,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Heraklion,3,Hard,R32,417,1026,1,,WC,Sebastian Fanselow,Petros Tsitsipas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,QF,425,,0,,Q,Mateus Alves,Sebastian Fanselow,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R16,425,678,1,,Q,Sebastian Fanselow,Luke Johnson,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Heraklion,3,Hard,R32,425,366,1,,5,Sebastian Fanselow,Edan Leshem,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Quinta Do Lago,3,Hard,SF,423,393,0,8,6,Michael Geerts,Sebastian Fanselow,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Quinta Do Lago,3,Hard,QF,423,364,1,8,4,Sebastian Fanselow,Tsung Hua Yang,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Quinta Do Lago,3,Hard,R16,423,808,1,8,,Sebastian Fanselow,Luis Faria,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Quinta Do Lago,3,Hard,R32,423,536,1,8,,Sebastian Fanselow,Tiago Cacao,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2020,M25 Vale do Lobo,3,Hard,R32,421,285,0,,2,Kacper Zuk,Sebastian Fanselow,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M25+H Rodez,3,Hard,R32,454,468,0,SE,WC,Antoine Cornut Chauvinc,Sebastian Fanselow,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,F,451,544,1,,WC,Sebastian Fanselow,Nuno Borges,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,SF,451,,1,,Q,Sebastian Fanselow,Mateus Alves,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,QF,451,584,1,,Q,Sebastian Fanselow,Joao Lucas Reis Da Silva,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,R16,451,551,1,,,Sebastian Fanselow,Evan Furness,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Setubal,3,Hard,R32,451,381,1,,8,Sebastian Fanselow,Camilo Ugo Carabelli,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R16,465,525,0,5,,Riccardo Balzerani,Sebastian Fanselow,7-6(6) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R32,465,761,1,5,,Sebastian Fanselow,Patrick Kypson,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,F,476,580,0,5,,Carlos Gimeno Valero,Sebastian Fanselow,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,SF,476,631,1,5,Q,Sebastian Fanselow,Nicolas Alvarez Varona,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,QF,476,599,1,5,SE,Sebastian Fanselow,Nuno Borges,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,R16,476,700,1,5,Q,Sebastian Fanselow,Benjamin Winter Lopez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Sintra,3,Hard,R32,476,535,1,5,,Sebastian Fanselow,Nick Hardt,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Sintra,3,Hard,QF,474,598,0,7,WC,Nuno Borges,Sebastian Fanselow,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Sintra,3,Hard,R16,474,782,1,7,Q,Sebastian Fanselow,Benjamin Pietri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Sintra,3,Hard,R32,474,534,1,7,,Sebastian Fanselow,Nick Hardt,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2020,M15 Anif,3,Clay,R32,473,374,0,,3,Sadio Doumbia,Sebastian Fanselow,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,F,527,583,1,6,8,Sebastian Fanselow,Tiago Cacao,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,SF,527,556,1,6,7,Sebastian Fanselow,Evan Furness,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,QF,527,404,1,6,1,Sebastian Fanselow,Riccardo Bonadio,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,R16,527,669,1,6,,Sebastian Fanselow,Arjun Kadhe,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,M15 Faro,3,Hard,R32,527,1541,1,6,WC,Sebastian Fanselow,Pedro Araujo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,SF,522,405,0,5,1,Riccardo Bonadio,Sebastian Fanselow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,QF,522,702,1,5,,Sebastian Fanselow,Kenny De Schepper,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,R16,522,1918,1,5,LL,Sebastian Fanselow,Terence Das,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M15 Vale Do Lobo,3,Hard,R32,522,888,1,5,,Sebastian Fanselow,Albert Roglan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,Bengaluru CH,3,Hard,R32,609,124,0,Alt,7,Prajnesh Gunneswaran,Sebastian Fanselow,6-2 4-6 6-4,0.96,10.5%,4.7%,53.5%,65.2%,55.0%,4/9,48.9%,37.8%,12.2%,25.5%,57.1%,3/5,176,9,4,86,46,40,11,2:01
+10-Feb-2020,Bengaluru CH,3,Hard,R64,609,443,1,Alt,,Sebastian Fanselow,Bogdan Bobrov,6-2 6-3,1.95,4.4%,4.4%,62.2%,78.6%,64.7%,0/1,62.4%,52.1%,0.0%,53.8%,50.0%,4/8,93,2,2,45,28,17,0,0:54
+3-Feb-2020,M25 Nonthaburi,3,Hard,F,591,366,0,,8,Benjamin Bonzi,Sebastian Fanselow,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,SF,591,321,1,,1,Sebastian Fanselow,Tsung Hua Yang,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,QF,591,428,1,,,Sebastian Fanselow,Makoto Ochi,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,R16,591,303,1,,3,Sebastian Fanselow,Corentin Denolly,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,R32,591,621,1,,WC,Sebastian Fanselow,Wishaya Trongcharoenchaikul,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Nonthaburi,3,Hard,R32,513,299,0,,3,Chun Hsin Tseng,Sebastian Fanselow,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M25 Rancho Santa Fe CA,3,Hard,R16,512,339,0,Q,6,Collin Altamirano,Sebastian Fanselow,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M25 Rancho Santa Fe CA,3,Hard,R32,512,855,1,Q,WC,Sebastian Fanselow,Olukayode Alafia Damina Ayeni,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M25 Los Angeles CA,3,Hard,R32,492,366,0,,6,Alexander Ritschard,Sebastian Fanselow,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,Houston CH,3,Hard,R64,389,574,0,,,Nick Chappell,Sebastian Fanselow,6-1 3-6 7-6(5),1.01,1.1%,3.4%,66.3%,71.2%,53.3%,5/8,49.0%,35.2%,2.9%,33.3%,38.5%,2/13,194,1,3,89,59,30,3,2:08
+4-Nov-2019,M25 Malibu CA,3,Hard,R16,394,634,0,5,,Alejandro Gomez Gb42,Sebastian Fanselow,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M25 Malibu CA,3,Hard,R32,394,1478,1,5,,Sebastian Fanselow,Alexandre Rotsaert,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,Playford CH,3,Hard,R32,405,285,0,,15,Yosuke Watanuki,Sebastian Fanselow,7-6(5) 6-2,0.82,1.3%,5.1%,55.7%,56.8%,45.7%,10/14,46.0%,39.4%,8.5%,35.6%,46.2%,2/3,150,1,4,79,44,35,6,1:41
+28-Oct-2019,Playford CH,3,Hard,R64,405,956,1,,,Sebastian Fanselow,Cameron Green,6-4 7-6(3),1.43,6.2%,4.6%,53.8%,88.6%,66.7%,1/1,54.1%,30.9%,13.2%,25.6%,37.9%,1/2,133,4,3,65,35,30,9,1:30
+21-Oct-2019,Traralgon CH,3,Hard,R32,375,236,0,,10,Sasi Kumar Mukund,Sebastian Fanselow,7-6(6) 6-3,0.72,4.4%,6.7%,54.4%,67.3%,41.5%,9/12,45.5%,31.8%,12.1%,16.2%,51.7%,1/7,156,4,6,90,49,41,8,1:47
+21-Oct-2019,Traralgon CH,3,Hard,R64,375,362,1,,,Sebastian Fanselow,Brydan Klein,6-4 6-1,1.81,2.1%,8.3%,62.5%,76.7%,66.7%,2/2,59.8%,49.2%,6.8%,36.1%,69.6%,4/7,107,1,4,48,30,18,4,1:07
+7-Oct-2019,Fairfield CH,3,Hard,R64,343,315,0,,,Sebastian Korda,Sebastian Fanselow,6-4 7-6(4),0.87,2.6%,9.0%,46.2%,69.4%,38.1%,7/12,47.0%,41.1%,5.5%,30.2%,56.7%,4/7,151,2,7,78,36,42,4,1:35
+30-Sep-2019,M25 Norman OK,3,Hard,SF,342,480,0,2,,Michael Geerts,Sebastian Fanselow,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,QF,342,1395,1,2,Q,Sebastian Fanselow,Reese Stalder,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R16,342,515,1,2,,Sebastian Fanselow,Strong Kirchheimer,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R32,342,525,1,2,,Sebastian Fanselow,Liam Caruana,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,Tiburon CH,3,Hard,R64,338,498,0,,PR,Carlos Gomez Herrera,Sebastian Fanselow,6-4 4-6 6-2,0.87,9.6%,10.8%,62.7%,67.3%,38.7%,5/10,47.1%,37.9%,4.6%,29.3%,55.2%,3/6,170,8,9,83,52,31,4,2:04
+16-Sep-2019,M25 HoustonTX,3,Hard,R32,337,723,0,,,Tadeas Paroulek,Sebastian Fanselow,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,L'Aquila CH,3,Clay,R64,333,316,0,,,Peter Torebko,Sebastian Fanselow,7-5 6-3,0.67,7.6%,3.8%,59.5%,63.8%,46.9%,9/12,44.7%,29.0%,9.7%,20.7%,36.4%,0/2,141,6,3,79,47,32,6,1:37
+12-Aug-2019,Meerbusch CH,3,Clay,R64,329,401,0,,,Scott Griekspoor,Sebastian Fanselow,6-3 6-4,0.81,3.6%,1.8%,56.4%,64.5%,54.2%,1/4,45.6%,32.2%,8.5%,25.0%,40.7%,1/4,114,2,1,55,31,24,5,1:27
+15-Jul-2019,Amersfoort CH,3,Clay,R16,282,600,0,,Q,Igor Sijsling,Sebastian Fanselow,7-5 6-3,0.92,3.4%,5.1%,66.1%,66.7%,40.0%,4/8,46.8%,39.0%,1.2%,34.0%,46.9%,2/11,141,2,3,59,39,20,1,1:22
+15-Jul-2019,Amersfoort CH,3,Clay,R32,282,190,1,,4,Sebastian Fanselow,Tallon Griekspoor,1-6 6-4 6-3,0.84,9.4%,5.2%,55.2%,67.9%,55.8%,7/9,49.7%,31.3%,7.5%,20.0%,43.8%,2/3,163,9,5,96,53,43,5,1:49
+15-Jul-2019,Amersfoort CH,3,Clay,R64,282,523,1,,,Sebastian Fanselow,Ryan Nijboer,6-4 6-2,1.16,2.9%,8.8%,52.9%,63.9%,53.1%,3/5,53.3%,47.8%,3.0%,27.5%,77.8%,5/10,135,2,6,68,36,32,2,1:29
+1-Jul-2019,Ludwigshafen CH,3,Clay,R32,305,148,0,,7,Dustin Brown,Sebastian Fanselow,6-3 6-2,0.66,9.8%,15.7%,62.7%,71.9%,31.6%,4/7,42.1%,28.6%,10.7%,15.6%,45.8%,0/0,107,5,8,51,32,19,6,0:57
+1-Jul-2019,Ludwigshafen CH,3,Clay,R64,305,202,1,,,Sebastian Fanselow,Alexey Vatutin,5-7 6-2 7-6(7),1.01,5.2%,3.0%,59.0%,68.4%,45.5%,8/11,51.0%,41.4%,0.0%,40.3%,42.9%,4/15,245,7,4,134,79,55,0,2:39
+24-Jun-2019,Milan CH,3,Clay,R16,315,343,0,,Q,Aslan Karatsev,Sebastian Fanselow,6-4 6-2,0.66,0.0%,8.0%,54.0%,66.7%,52.2%,2/5,42.7%,26.4%,5.7%,12.9%,45.5%,0/1,103,0,4,50,27,23,3,1:31
+24-Jun-2019,Milan CH,3,Clay,R32,315,107,1,,2,Sebastian Fanselow,Paolo Lorenzi,6-4 7-5,1.14,5.4%,9.5%,58.1%,69.8%,45.2%,4/7,52.6%,46.3%,5.0%,34.2%,57.1%,5/14,154,4,7,74,43,31,4,2:05
+24-Jun-2019,Milan CH,3,Clay,R64,315,527,1,,ITF,Sebastian Fanselow,Christopher Heyman,7-5 7-6(5),1.13,5.1%,7.7%,44.9%,71.4%,44.2%,1/6,52.9%,49.4%,2.5%,45.8%,60.0%,6/9,157,4,6,78,35,43,2,2:01
+17-Jun-2019,Bratislava CH,3,Clay,R32,320,206,0,,9,Alexey Vatutin,Sebastian Fanselow,6-4 6-4,0.75,7.4%,1.9%,59.3%,62.5%,59.1%,3/6,45.0%,29.1%,3.6%,19.4%,47.4%,1/3,109,4,1,54,32,22,2,1:22
+17-Jun-2019,Bratislava CH,3,Clay,R64,320,330,1,,,Sebastian Fanselow,Alex Molcan,7-6(5) 6-3,1.23,7.1%,7.1%,48.6%,85.3%,52.8%,3/4,54.0%,38.8%,3.0%,29.7%,50.0%,2/10,137,5,5,70,34,36,2,1:34
+18-Feb-2019,Cuernavaca CH,3,Hard,R32,304,612,0,14,ITF,Matias Franco Descotte,Sebastian Fanselow,6-4 6-2,0.80,1.9%,14.8%,59.3%,59.4%,22.7%,3/8,44.4%,44.4%,3.3%,35.2%,58.3%,2/16,144,1,8,54,32,22,3,1:36
+4-Feb-2019,Chennai CH,3,Hard,R32,308,293,0,,16,Sasi Kumar Mukund,Sebastian Fanselow,6-3 6-1,0.43,0.0%,11.6%,60.9%,52.4%,48.1%,10/14,39.6%,21.4%,9.5%,15.0%,27.3%,0/1,111,0,8,69,42,27,4,1:08
+4-Feb-2019,Chennai CH,3,Hard,R64,308,368,1,,,Sebastian Fanselow,Tung Lin Wu,6-4 7-5,1.35,6.5%,6.5%,59.7%,78.4%,52.0%,4/6,54.9%,43.7%,7.0%,29.3%,63.3%,4/7,133,4,4,62,37,25,5,1:29
+28-Jan-2019,Launceston CH,3,Hard,R64,311,244,0,,,Enrique Lopez Perez,Sebastian Fanselow,6-4 6-2,0.59,1.6%,9.7%,72.6%,62.2%,29.4%,4/8,42.2%,27.7%,8.5%,25.7%,33.3%,1/2,109,1,6,62,45,17,4,1:04
+21-Jan-2019,Burnie CH,3,Hard,QF,324,176,0,,5,Kamil Majchrzak,Sebastian Fanselow,6-1 6-2,0.37,2.8%,2.8%,77.8%,50.0%,37.5%,1/5,32.5%,19.5%,22.0%,11.5%,33.3%,0/2,77,1,1,36,28,8,9,0:49
+21-Jan-2019,Burnie CH,3,Hard,R16,324,169,1,,4,Sebastian Fanselow,Marc Polmans,3-6 6-4 7-6(2),0.98,2.1%,3.1%,67.7%,73.8%,41.9%,6/10,50.0%,35.9%,7.6%,31.7%,44.8%,4/8,188,2,3,96,65,31,7,2:16
+21-Jan-2019,Burnie CH,3,Hard,R32,324,226,1,,14,Sebastian Fanselow,Gian Marco Moroni,4-6 6-4 6-2,1.08,2.0%,2.0%,73.0%,65.8%,33.3%,8/12,52.2%,46.3%,0.0%,46.8%,45.0%,6/11,182,2,2,100,73,27,0,2:13
+21-Jan-2019,Burnie CH,3,Hard,R64,324,283,1,,,Sebastian Fanselow,Tsung Hua Yang,6-4 6-3,1.43,0.0%,1.9%,64.8%,77.1%,47.4%,0/2,55.1%,47.6%,1.2%,40.4%,57.1%,4/15,136,0,1,54,35,19,1,1:32
+7-Jan-2019,Da Nang CH,3,Hard,R16,321,414,0,7,,Gerard Granollers,Sebastian Fanselow,4-1 RET,0.67,0.0%,0.0%,55.0%,54.5%,22.2%,1/3,40.0%,40.0%,5.0%,38.5%,42.9%,0/3,40,0,0,20,11,9,1,0:21
+7-Jan-2019,Da Nang CH,3,Hard,R32,321,432,1,7,,Sebastian Fanselow,Nam Hoang Ly,1-6 6-1 6-3,1.30,9.7%,9.7%,61.3%,84.2%,33.3%,2/5,54.3%,46.2%,2.6%,39.2%,59.3%,5/10,140,6,6,62,38,24,2,1:34
+19-Nov-2018,Pune CH,3,Hard,QF,397,132,0,Q,3,Elias Ymer,Sebastian Fanselow,5-7 6-3 6-4,1.01,1.2%,5.8%,62.8%,72.2%,43.8%,4/9,49.2%,38.8%,7.8%,35.4%,44.7%,4/10,189,1,5,86,54,32,8,2:05
+19-Nov-2018,Pune CH,3,Hard,R16,397,289,1,Q,,Sebastian Fanselow,Max Purcell,6-2 6-1,2.15,14.0%,9.3%,72.1%,87.1%,50.0%,1/1,62.4%,50.0%,4.0%,50.0%,50.0%,4/8,93,6,4,43,31,12,2,1:04
+19-Nov-2018,Pune CH,3,Hard,R32,397,254,1,Q,,Sebastian Fanselow,Scott Griekspoor,3-6 6-3 6-4,1.52,13.0%,5.8%,63.8%,77.3%,68.0%,0/2,54.8%,39.8%,8.0%,34.6%,47.2%,3/7,157,9,4,69,44,25,7,1:46
+19-Nov-2018,Pune CH,3,Hard,Q3,397,496,1,6,,Sebastian Fanselow,Mick Lescure,6-4 5-7 6-2,1.15,1.0%,5.0%,64.0%,68.8%,52.8%,8/11,53.1%,42.4%,5.4%,31.0%,52.0%,5/11,192,1,5,100,64,36,5,2:06
+19-Nov-2018,Pune CH,3,Hard,Q2,397,676,1,6,,Sebastian Fanselow,Chien Hsun Lo,6-3 6-3,1.56,8.3%,6.3%,58.3%,78.6%,50.0%,3/5,57.9%,52.1%,0.0%,42.6%,69.2%,5/10,121,4,3,48,28,20,0,1:08
+12-Nov-2018,Bengaluru CH,3,Hard,R16,431,144,0,Q,4,Prajnesh Gunneswaran,Sebastian Fanselow,4-6 6-4 7-5,0.92,1.9%,8.7%,63.5%,74.2%,34.2%,5/9,48.3%,37.1%,7.6%,27.4%,51.2%,3/7,209,2,9,104,66,38,8,2:12
+12-Nov-2018,Bengaluru CH,3,Hard,R32,431,391,1,Q,Q,Sebastian Fanselow,Zsombor Piros,7-6(3) 6-4,1.03,6.5%,12.0%,50.0%,78.3%,39.1%,8/11,51.9%,42.6%,2.9%,33.3%,57.7%,4/8,160,6,11,92,46,46,2,1:47
+12-Nov-2018,Bengaluru CH,3,Hard,Q3,431,562,1,,,Sebastian Fanselow,Khumoyun Sultanov,5-7 6-4 6-1,1.24,4.8%,7.2%,57.8%,77.1%,42.9%,3/6,53.8%,46.5%,5.1%,33.9%,62.8%,6/14,182,4,6,83,48,35,5,2:04
+12-Nov-2018,Bengaluru CH,3,Hard,Q2,431,407,1,,6,Sebastian Fanselow,Benjamin Hassan,6-7(3) 6-3 6-4,1.09,5.7%,6.6%,63.1%,72.7%,42.2%,11/13,52.4%,41.9%,4.8%,29.1%,56.0%,4/8,227,7,8,122,77,45,5,2:22
+12-Nov-2018,Bengaluru CH,3,Hard,Q1,431,511,1,,,Sebastian Fanselow,Manish Sureshkumar,6-1 6-2,1.84,4.1%,4.1%,63.3%,64.5%,72.2%,2/3,63.8%,60.0%,2.2%,50.0%,69.6%,5/7,94,2,2,49,31,18,1,1:05
+29-Oct-2018,Canberra CH,3,Hard,R32,412,91,0,,2,Yoshihito Nishioka,Sebastian Fanselow,6-3 6-2,0.55,7.7%,12.3%,58.5%,65.8%,29.6%,9/13,40.7%,27.1%,0.0%,23.7%,40.0%,0/1,113,5,8,65,38,27,0,1:16
+22-Oct-2018,Traralgon CH,3,Hard,QF,433,140,0,,4,Alex Bolt,Sebastian Fanselow,7-5 3-6 6-4,1.04,10.0%,6.3%,72.5%,65.5%,45.5%,4/8,48.4%,41.6%,5.8%,32.5%,55.6%,4/20,217,8,5,80,58,22,8,2:12
+22-Oct-2018,Traralgon CH,3,Hard,R16,433,191,1,,6,Sebastian Fanselow,Hiroki Moriya,1-6 6-3 6-2,1.07,6.8%,6.8%,68.9%,74.5%,47.8%,3/5,51.7%,36.2%,8.7%,34.8%,39.1%,3/3,143,5,5,74,51,23,6,1:38
+22-Oct-2018,Traralgon CH,3,Hard,R32,433,510,1,,WC,Sebastian Fanselow,Jacob Grills,6-3 6-3,1.47,5.3%,7.0%,57.9%,72.7%,70.8%,3/3,56.5%,41.4%,12.1%,37.5%,46.2%,3/5,115,3,4,57,33,24,7,1:17
+8-Oct-2018,Fairfield CH,3,Hard,QF,423,137,0,Q,6,Casper Ruud,Sebastian Fanselow,6-1 6-0,0.34,2.5%,15.0%,55.0%,63.6%,16.7%,0/5,31.6%,19.4%,11.1%,11.5%,40.0%,0/0,76,1,6,40,22,18,4,0:48
+8-Oct-2018,Fairfield CH,3,Hard,R16,423,210,1,Q,,Sebastian Fanselow,Lucas Miedler,6-4 6-1,1.49,7.0%,5.3%,66.7%,71.1%,47.4%,9/10,59.1%,54.7%,5.7%,50.0%,61.9%,5/10,110,4,3,57,38,19,3,1:12
+8-Oct-2018,Fairfield CH,3,Hard,R32,423,234,1,Q,,Sebastian Fanselow,Cem Ilkel,6-2 5-7 6-0,1.37,6.7%,1.3%,61.3%,67.4%,55.2%,1/4,56.4%,51.1%,5.7%,45.7%,57.1%,7/14,163,5,1,75,46,29,5,1:45
+8-Oct-2018,Fairfield CH,3,Hard,Q3,423,252,1,,1,Sebastian Fanselow,Mitchell Krueger,6-0 6-2,1.70,4.2%,8.3%,58.3%,89.3%,35.0%,1/1,61.7%,56.5%,2.2%,50.0%,68.8%,5/8,94,2,4,48,28,20,1,1:06
+8-Oct-2018,Fairfield CH,3,Hard,Q2,423,431,1,,,Sebastian Fanselow,Pablo Vivero Gonzalez,6-4 2-6 7-5,1.15,10.3%,5.7%,55.2%,83.3%,41.0%,2/5,51.6%,41.0%,6.7%,32.8%,52.3%,3/8,192,9,5,87,48,39,7,2:05
+8-Oct-2018,Fairfield CH,3,Hard,Q1,423,344,1,,,Sebastian Fanselow,Andrew Harris,3-6 6-1 6-1,1.29,7.0%,2.8%,64.8%,67.4%,52.0%,1/3,54.6%,48.9%,3.3%,43.5%,60.0%,6/18,163,5,2,71,46,25,3,1:34
+1-Oct-2018,Stockton CH,3,Hard,Q1,415,328,0,,6,Alexander Sarkissian,Sebastian Fanselow,7-6(5) 6-3,0.95,7.1%,8.3%,50.0%,73.8%,47.6%,9/12,49.4%,37.5%,2.5%,25.0%,56.3%,1/4,164,6,7,84,42,42,2,2:15
+24-Sep-2018,Tiburon CH,3,Hard,Q1,413,327,0,,7,Roberto Ortega Olmedo,Sebastian Fanselow,6-1 6-2,0.52,0.0%,5.6%,61.1%,48.5%,28.6%,2/8,36.7%,30.6%,8.3%,27.8%,33.3%,1/1,90,0,3,54,33,21,3,0:55
+13-Aug-2018,Meerbusch CH,3,Clay,Q2,395,588,0,6,,Yshai Oliel,Sebastian Fanselow,6-4 6-2,0.82,2.0%,10.0%,46.0%,82.6%,40.7%,2/5,45.4%,32.8%,3.4%,30.8%,36.8%,0/1,108,1,5,50,23,27,2,1:16
+13-Aug-2018,Meerbusch CH,3,Clay,Q1,395,452,1,6,,Sebastian Fanselow,Javier Barranco Cosano,5-7 6-4 6-4,1.05,5.5%,9.9%,51.6%,61.7%,40.9%,5/12,51.1%,50.5%,0.0%,48.5%,56.0%,8/15,182,5,9,91,47,44,0,2:05
+6-Aug-2018,Pullach CH,3,Clay,Q1,388,392,0,,,Andreas Haider Maurer,Sebastian Fanselow,6-3 7-5,0.88,5.4%,5.4%,62.2%,52.2%,50.0%,3/7,46.3%,42.6%,11.9%,24.5%,62.5%,2/11,175,4,4,74,46,28,12,1:52
+9-Jul-2018,Italy F18,3,Clay,SF,413,477,0,,,Jelle Sels,Sebastian Fanselow,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Italy F18,3,Clay,QF,413,605,1,,,Sebastian Fanselow,Matias Zukas,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Italy F18,3,Clay,R16,413,653,1,,,Sebastian Fanselow,Lorenzo Frigerio,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Italy F18,3,Clay,R32,413,642,1,,,Sebastian Fanselow,Filippo Leonardi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Milan CH,3,Clay,Q2,421,359,0,,8,Alexei Popyrin,Sebastian Fanselow,7-5 7-5,0.84,0.0%,14.6%,64.6%,62.3%,34.5%,5/10,46.1%,39.8%,8.4%,26.8%,52.4%,3/8,165,0,12,82,53,29,7,1:46
+25-Jun-2018,Milan CH,3,Clay,Q1,421,353,1,,,Sebastian Fanselow,Tomas Barrios Vera,6-2 1-6 6-2,1.16,2.6%,7.7%,62.8%,61.2%,44.8%,5/10,53.6%,52.1%,0.0%,43.2%,65.5%,6/13,151,2,6,78,49,29,0,1:36
+18-Jun-2018,Blois CH,3,Clay,Q3,421,370,0,,2,Tomas Barrios Vera,Sebastian Fanselow,6-2 6-1,0.49,0.0%,18.2%,59.1%,65.4%,11.1%,1/6,35.6%,27.9%,7.0%,16.1%,58.3%,1/3,87,0,8,44,26,18,3,0:56
+18-Jun-2018,Blois CH,3,Clay,Q2,421,391,1,,5,Sebastian Fanselow,Jordi Samper Montana,7-5 3-6 6-3,1.03,2.4%,7.1%,71.8%,54.1%,50.0%,4/10,50.5%,48.6%,0.0%,42.0%,61.1%,7/12,190,2,6,85,61,24,0,2:35
+18-Jun-2018,Blois CH,3,Clay,Q1,421,556,1,,,Sebastian Fanselow,Alexis Musialek,7-5 6-2,1.28,5.7%,5.7%,64.3%,66.7%,44.0%,5/8,55.7%,52.9%,0.0%,44.2%,66.7%,6/12,140,4,4,70,45,25,0,1:38
+14-May-2018,Czech Republic F1,3,Clay,F,463,515,1,,,Sebastian Fanselow,Peter Torebko,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Czech Republic F1,3,Clay,SF,463,605,1,,,Sebastian Fanselow,Michal Konecny,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Czech Republic F1,3,Clay,QF,463,,1,,Q,Sebastian Fanselow,Robert Strombachs,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Czech Republic F1,3,Clay,R16,463,756,1,,,Sebastian Fanselow,Dan Added,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Czech Republic F1,3,Clay,R32,463,,1,,Q,Sebastian Fanselow,Tomas Jirousek,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,USA F10,3,Hard,R32,516,952,0,,,Isaiah Strode,Sebastian Fanselow,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,F,516,297,0,,,Scott Griekspoor,Sebastian Fanselow,6-7(3) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,SF,516,1061,1,,,Sebastian Fanselow,Jack Findel Hawkins,6-2 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,QF,516,522,1,,,Sebastian Fanselow,Karue Sell,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,R16,516,553,1,,,Sebastian Fanselow,Nicholas S Hu,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,R32,516,736,1,,,Sebastian Fanselow,Santiago Fa Rodriguez Taverna,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Irving CH,3,Hard,R32,391,103,0,ALT,,Lukas Lacko,Sebastian Fanselow,6-4 6-3,0.74,0.0%,9.4%,57.8%,56.8%,40.7%,6/11,44.1%,37.0%,7.4%,32.0%,41.4%,3/6,118,0,6,64,37,27,4,1:18
+26-Feb-2018,Indian Wells CH,3,Hard,Q2,360,239,0,,2,Mitchell Krueger,Sebastian Fanselow,6-1 6-4,0.82,0.0%,8.6%,50.0%,51.7%,51.7%,3/7,45.0%,39.4%,2.8%,37.2%,42.9%,1/4,129,0,5,58,29,29,2,1:28
+26-Feb-2018,Indian Wells CH,3,Hard,Q1,360,301,1,,5,Sebastian Fanselow,Ante Pavic,6-7(1) 7-6(5) 7-6(4),0.99,2.5%,7.6%,59.3%,72.9%,41.7%,3/9,49.4%,39.4%,7.9%,27.0%,56.6%,6/12,245,3,9,118,70,48,10,2:40
+19-Feb-2018,Cuernavaca CH,3,Hard,R16,345,278,0,Q,,Alexander Sarkissian,Sebastian Fanselow,6-4 6-4,0.79,4.2%,9.9%,56.3%,60.0%,48.4%,4/8,45.9%,35.5%,4.8%,30.6%,42.3%,2/5,133,3,7,71,40,31,3,1:26
+19-Feb-2018,Cuernavaca CH,3,Hard,R32,345,214,1,Q,5,Sebastian Fanselow,Marcelo Arevalo,6-4 5-7 7-6(6),1.18,3.8%,1.9%,61.9%,76.9%,50.0%,1/4,52.3%,39.3%,7.7%,34.7%,47.6%,3/6,222,4,2,105,65,40,9,2:23
+19-Feb-2018,Cuernavaca CH,3,Hard,Q3,345,614,1,1,8,Sebastian Fanselow,Franco Agamenone,4-6 6-1 6-1,1.51,1.4%,2.9%,65.7%,78.3%,50.0%,2/3,57.2%,47.6%,1.2%,48.1%,46.4%,5/12,152,1,2,70,46,24,1,1:43
+19-Feb-2018,Cuernavaca CH,3,Hard,Q2,345,710,1,1,,Sebastian Fanselow,Ruan Roelofse,6-4 6-3,1.89,3.7%,7.4%,61.1%,87.9%,61.9%,3/3,59.5%,42.1%,14.0%,30.0%,70.6%,2/3,111,2,4,54,33,21,8,1:03
+5-Feb-2018,Launceston CH,3,Hard,Q1,344,676,0,2,,Benjamin Mitchell,Sebastian Fanselow,6-3 3-6 7-5,0.89,5.6%,4.4%,67.8%,65.6%,51.7%,3/7,48.0%,34.5%,6.9%,30.3%,47.6%,3/6,177,5,4,90,61,29,6,1:52
+29-Jan-2018,Burnie CH,3,Hard,R32,347,337,0,,,Zhe Li,Sebastian Fanselow,7-5 6-4,0.79,3.7%,8.5%,70.7%,60.3%,33.3%,8/13,46.2%,37.7%,1.6%,39.1%,33.3%,3/9,143,3,7,82,58,24,1,1:42
+22-Jan-2018,Newport Beach CH,3,Hard,Q2,335,373,0,,,Cristian Garin,Sebastian Fanselow,6-1 6-4,0.58,3.3%,8.2%,59.0%,63.9%,40.0%,10/13,41.2%,26.4%,7.5%,17.1%,44.4%,0/1,114,2,5,61,36,25,4,1:13
+22-Jan-2018,Newport Beach CH,3,Hard,Q1,335,451,1,,,Sebastian Fanselow,Dennis Nevolo,6-3 6-1,1.32,3.7%,5.6%,50.0%,74.1%,44.4%,7/9,56.3%,53.8%,1.5%,48.7%,61.5%,6/16,119,2,3,54,27,27,1,1:16
+20-Nov-2017,USA F38,3,Hard,R32,324,891,0,3,,Strong Kirchheimer,Sebastian Fanselow,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Champaign CH,3,Hard,R32,323,117,0,,5,Bjorn Fratangelo,Sebastian Fanselow,3-6 7-6(0) 6-1,0.71,9.9%,11.1%,51.9%,71.4%,25.6%,3/9,43.1%,36.1%,13.9%,14.0%,69.0%,4/7,153,8,9,81,42,39,10,1:30
+30-Oct-2017,Canberra CH,3,Hard,R16,336,230,0,,,Alex Bolt,Sebastian Fanselow,6-1 7-6(4),0.78,3.3%,3.3%,60.0%,61.1%,58.3%,2/4,43.8%,31.2%,15.6%,20.4%,50.0%,0/6,137,2,2,60,36,24,12,1:20
+30-Oct-2017,Canberra CH,3,Hard,R32,336,204,1,,6,Sebastian Fanselow,Noah Rubin,6-3 6-2,1.37,1.6%,0.0%,64.5%,67.5%,54.5%,3/4,57.1%,50.9%,1.8%,40.0%,68.2%,4/9,119,1,0,62,40,22,1,1:12
+23-Oct-2017,Traralgon CH,3,Hard,R16,341,342,0,,,Bradley Mousley,Sebastian Fanselow,2-6 6-1 7-6(4),1.00,6.8%,8.0%,70.5%,74.2%,42.3%,4/6,48.7%,35.2%,13.3%,26.2%,50.0%,2/6,193,6,7,88,62,26,14,1:56
+23-Oct-2017,Traralgon CH,3,Hard,R32,341,252,1,,7,Sebastian Fanselow,Dayne Kelly,6-3 7-6(8),1.10,1.2%,9.8%,70.7%,69.0%,37.5%,9/12,52.6%,44.4%,8.3%,32.6%,62.1%,4/9,154,1,8,82,58,24,6,1:45
+9-Oct-2017,Fairfield CH,3,Hard,QF,383,108,0,Q,4,Maximilian Marterer,Sebastian Fanselow,6-4 7-5,0.72,2.9%,4.4%,52.9%,69.4%,40.6%,4/8,44.8%,31.6%,10.5%,28.6%,36.4%,2/3,125,2,3,68,36,32,6,1:20
+9-Oct-2017,Fairfield CH,3,Hard,R16,383,153,1,Q,9,Sebastian Fanselow,Michael Mmoh,7-6(2) 7-6(5),1.06,7.1%,1.0%,61.6%,75.4%,57.9%,5/6,53.1%,33.3%,6.4%,25.9%,50.0%,1/2,177,7,1,99,61,38,5,2:05
+9-Oct-2017,Fairfield CH,3,Hard,R32,383,1464,1,Q,WC,Sebastian Fanselow,Axel Geller,6-2 6-4,1.91,6.1%,2.0%,53.1%,80.8%,73.9%,0/0,58.0%,42.9%,9.5%,36.8%,52.0%,3/9,112,3,1,49,26,23,6,1:05
+9-Oct-2017,Fairfield CH,3,Hard,Q3,383,408,1,8,,Sebastian Fanselow,Alexander Ward,6-2 6-4,1.46,5.9%,5.9%,58.8%,70.0%,57.1%,1/3,57.5%,51.6%,1.6%,33.3%,65.7%,5/8,113,3,3,51,30,21,1,1:22
+9-Oct-2017,Fairfield CH,3,Hard,Q2,383,885,1,8,,Sebastian Fanselow,Ryan Haviland,6-4 6-3,1.15,5.7%,7.1%,67.1%,59.6%,47.8%,5/8,53.3%,50.7%,6.0%,42.5%,63.0%,5/12,137,4,5,70,47,23,4,1:23
+9-Oct-2017,Fairfield CH,3,Hard,Q1,383,1396,1,8,WC,Sebastian Fanselow,Jenson Brooksby,6-1 6-1,2.09,2.4%,7.3%,56.1%,82.6%,61.1%,1/1,63.3%,56.1%,1.8%,58.5%,50.0%,5/12,98,1,3,41,23,18,1,0:58
+2-Oct-2017,Monterrey CH,3,Hard,R16,361,81,0,,1,Victor Estrella,Sebastian Fanselow,7-6(7) 7-6(5),0.84,5.4%,6.5%,58.7%,81.5%,50.0%,3/4,49.1%,26.6%,7.6%,24.0%,31.0%,1/2,171,5,6,92,54,38,6,1:56
+2-Oct-2017,Monterrey CH,3,Hard,R32,361,291,1,,,Sebastian Fanselow,Alexander Sarkissian,6-3 7-5,1.29,12.7%,9.9%,40.8%,86.2%,52.4%,2/3,55.6%,43.5%,11.3%,30.6%,61.5%,3/9,133,9,7,71,29,42,7,1:23
+25-Sep-2017,Tiburon CH,3,Hard,Q1,357,325,0,,,Jan Choinski,Sebastian Fanselow,6-3 6-4,0.87,5.9%,5.9%,51.0%,50.0%,64.0%,0/4,46.4%,37.7%,1.6%,29.3%,55.0%,2/3,112,3,3,51,26,25,1,1:14
+14-Aug-2017,Germany F11,3,Clay,SF,339,967,0,1,,Mate Valkusz,Sebastian Fanselow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,QF,339,,1,1,Q,Sebastian Fanselow,Daniel Kopeinigg,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R16,339,1948,1,1,Q,Sebastian Fanselow,Leon Hoeveler,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Germany F11,3,Clay,R32,339,1385,1,1,Q,Sebastian Fanselow,Dan Added,5-7 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Germany F10,3,Clay,R32,335,611,0,4,,Julian Lenz,Sebastian Fanselow,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,R16,336,685,0,3,,Rudolf Molleker,Sebastian Fanselow,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Germany F9,3,Clay,R32,336,1126,1,3,WC,Sebastian Fanselow,Mats Rosenkranz,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R16,331,810,0,6,WC,Dominik Boehler,Sebastian Fanselow,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R32,331,428,1,6,,Sebastian Fanselow,Niels Lootsma,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,QF,340,493,0,4,,Orlando Luz,Sebastian Fanselow,6-3 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,R16,340,976,1,4,Q,Sebastian Fanselow,Jason Kubler,6-3 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,R32,340,520,1,4,,Sebastian Fanselow,Tobias Simon,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Italy F15,3,Clay,R32,340,200,0,,1,Vaclav Safranek,Sebastian Fanselow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Heilbronn CH,3,Clay,Q3,337,377,0,,,Dominik Koepfer,Sebastian Fanselow,7-6(3) 6-4,0.77,4.2%,1.4%,69.4%,60.0%,54.5%,7/10,45.1%,31.9%,4.2%,17.5%,50.0%,2/6,144,3,1,72,50,22,3,1:28
+15-May-2017,Heilbronn CH,3,Clay,Q2,337,522,1,,,Sebastian Fanselow,Bradley Klahn,7-5 7-6(5),1.17,2.7%,5.3%,74.7%,76.8%,36.8%,2/3,51.5%,39.1%,5.4%,27.3%,56.8%,2/8,167,2,4,75,56,19,5,1:43
+15-May-2017,Heilbronn CH,3,Clay,Q1,337,226,1,,8,Sebastian Fanselow,Matteo Donati,7-6(3) 6-4,1.18,1.4%,5.4%,56.8%,69.0%,62.5%,5/7,54.0%,40.0%,4.6%,31.0%,56.5%,3/6,139,1,4,74,42,32,3,1:28
+10-Apr-2017,USA F13,3,Hard,R16,340,500,0,3,,Jared Hiltzik,Sebastian Fanselow,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2017,USA F13,3,Hard,R32,340,587,1,3,,Sebastian Fanselow,Yosuke Watanuki,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,USA F12,3,Hard,R32,336,360,0,,6,Brayden Schnur,Sebastian Fanselow,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,F,386,763,1,4,WC,Sebastian Fanselow,Bradley Klahn,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,SF,386,245,1,4,1,Sebastian Fanselow,Mackenzie Mcdonald,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,QF,386,528,1,4,8,Sebastian Fanselow,Jared Hiltzik,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,R16,386,823,1,4,Q,Sebastian Fanselow,John Lamble,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,USA F11,3,Hard,R32,386,636,1,4,,Sebastian Fanselow,Alexios Halebian,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,SF,394,211,0,3,2,Dmitry Popko,Sebastian Fanselow,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,QF,394,456,1,3,7,Sebastian Fanselow,Christian Harrison,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,R16,394,1546,1,3,Q,Sebastian Fanselow,Luca Gelhardt,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,USA F10,3,Hard,R32,394,739,1,3,,Sebastian Fanselow,Fred Simonsson,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Indonesia F3,3,Hard,F,490,330,1,5,1,Sebastian Fanselow,Alexandre Muller,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Indonesia F3,3,Hard,SF,490,1368,1,5,,Sebastian Fanselow,Sho Shimabukuro,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Indonesia F3,3,Hard,QF,490,333,1,5,2,Sebastian Fanselow,Evan King,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Indonesia F3,3,Hard,R16,490,1772,1,5,Q,Sebastian Fanselow,Yutaro Matsuzaki,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Indonesia F3,3,Hard,R32,490,795,1,5,,Sebastian Fanselow,Jorge Montero,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Indonesia F2,3,Hard,F,488,394,1,,4,Sebastian Fanselow,Dayne Kelly,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Indonesia F2,3,Hard,SF,488,818,1,,,Sebastian Fanselow,Nathan Pasha,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Indonesia F2,3,Hard,QF,488,340,1,,3,Sebastian Fanselow,Evan King,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Indonesia F2,3,Hard,R16,488,451,1,,6,Sebastian Fanselow,Christopher Rungkat,7-6(6) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Indonesia F2,3,Hard,R32,488,1172,1,,Q,Sebastian Fanselow,Masaya Kobayashi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Launceston CH,3,Hard,R32,497,357,0,Q,,Max Purcell,Sebastian Fanselow,4-6 6-4 7-6(5),0.93,7.0%,4.4%,62.3%,71.8%,37.2%,9/13,49.1%,38.5%,10.6%,34.9%,43.9%,4/9,218,8,5,114,71,43,11,2:15
+6-Feb-2017,Launceston CH,3,Hard,Q3,497,814,1,2,7,Sebastian Fanselow,Nathan Pasha,6-4 6-1,1.96,0.0%,8.3%,54.2%,92.3%,54.5%,1/2,61.6%,49.0%,3.9%,40.0%,68.8%,4/7,99,0,4,48,26,22,2,1:10
+6-Feb-2017,Launceston CH,3,Hard,Q2,497,986,1,2,,Sebastian Fanselow,Patrick Daciek,6-1 6-3,1.79,2.1%,4.3%,63.8%,83.3%,47.1%,2/3,60.0%,53.4%,2.7%,46.0%,69.6%,5/12,120,1,2,47,30,17,2,1:08
+30-Jan-2017,Burnie CH,3,Hard,Q3,495,1297,0,3,,James Frawley,Sebastian Fanselow,6-2 3-6 7-5,0.81,3.7%,7.3%,62.4%,66.2%,39.0%,8/13,47.4%,35.8%,3.7%,22.2%,52.8%,3/4,190,4,8,109,68,41,3,2:06
+30-Jan-2017,Burnie CH,3,Hard,Q2,495,,1,3,WC,Sebastian Fanselow,Tomislav Edward Papac,6-0 6-1,2.21,2.4%,7.3%,61.0%,76.0%,56.3%,1/1,69.1%,70.0%,0.0%,57.7%,92.9%,6/10,81,1,3,41,25,16,0,0:45
+9-Jan-2017,USA F2,3,Hard,SF,524,581,0,,,Marcos Giron,Sebastian Fanselow,6-7(1) 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,USA F2,3,Hard,QF,524,,1,,Q,Sebastian Fanselow,Henry Craig,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,USA F2,3,Hard,R16,524,598,1,,,Sebastian Fanselow,Evan Song,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,USA F2,3,Hard,R32,524,431,1,,6,Sebastian Fanselow,Kaichi Uchida,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,USA F1,3,Hard,QF,522,317,0,,4,Yannick Hanfmann,Sebastian Fanselow,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,USA F1,3,Hard,R16,522,467,1,,,Sebastian Fanselow,Dennis Nevolo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,USA F1,3,Hard,R32,522,730,1,,,Sebastian Fanselow,Fabiano De Paula,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,QF,403,216,0,6,1,Ruben Bemelmans,Sebastian Fanselow,2-6 7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R16,403,753,1,6,PR,Sebastian Fanselow,Marcos Giron,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R32,403,1640,1,6,Q,Sebastian Fanselow,Brandon L Sutter,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F32,3,Hard,R32,410,730,0,4,,Wil Spencer,Sebastian Fanselow,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,QF,411,283,0,5,1,Yuki Bhambri,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R16,411,695,1,5,,Sebastian Fanselow,Jared Hiltzik,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R32,411,1025,1,5,Q,Sebastian Fanselow,Nathaniel Lammons,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,F,471,522,1,6,4,Sebastian Fanselow,Takanyi Garanganga,6-1 7-6(9),,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,SF,471,637,1,6,8,Sebastian Fanselow,Marcos Giron,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,QF,471,734,1,6,,Sebastian Fanselow,Alejandro Gomez Gb42,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,R16,471,,1,6,Q,Sebastian Fanselow,Keegan Smith,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,USA F30,3,Hard,R32,471,851,1,6,,Sebastian Fanselow,Alejandro Tabilo,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,SF,521,454,0,6,2,Jan Choinski,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,QF,521,471,1,6,4,Sebastian Fanselow,Lucas Gomez,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R16,521,1100,1,6,SE,Sebastian Fanselow,Alex Blumenberg,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,USA F29,3,Hard,R32,521,,1,6,Q,Sebastian Fanselow,Austin Rapp,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,F,520,1881,1,4,Q,Sebastian Fanselow,Evan Zhu,7-5 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,SF,520,1570,1,4,WC,Sebastian Fanselow,Martin Redlicki,4-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,QF,520,626,1,4,5,Sebastian Fanselow,Alexios Halebian,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,R16,520,,1,4,WC,Sebastian Fanselow,Gage Brymer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,USA F28,3,Hard,R32,520,1881,1,4,WC,Sebastian Fanselow,Michael Genender,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Germany F11,3,Clay,QF,534,426,0,5,2,Marc Giner,Sebastian Fanselow,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Germany F11,3,Clay,R16,534,837,1,5,,Sebastian Fanselow,Jannis Kahlke,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Germany F11,3,Clay,R32,534,,1,5,WC,Sebastian Fanselow,Henri Squire,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,R16,536,741,0,7,,Jean Marc Werner,Sebastian Fanselow,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Germany F10,3,Clay,R32,536,1691,1,7,Q,Sebastian Fanselow,Moritz Dettinger,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Germany F6,3,Clay,R32,456,1233,0,4,WC,Julian Lenz,Sebastian Fanselow,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Marburg CH,3,Clay,R32,456,106,0,WC,3,Gerald Melzer,Sebastian Fanselow,6-4 6-2,0.71,7.8%,5.9%,47.1%,79.2%,40.7%,1/4,43.1%,29.3%,19.0%,31.1%,23.1%,0/1,109,4,3,51,24,27,11,
+6-Jun-2016,Poland F3,3,Clay,R32,466,960,0,2,,David Poljak,Sebastian Fanselow,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Poland F2,3,Clay,QF,462,671,0,1,7,Michal Schmid,Sebastian Fanselow,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Poland F2,3,Clay,R16,462,1187,1,1,,Sebastian Fanselow,Adrian Andrzejczuk,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Poland F2,3,Clay,R32,462,940,1,1,,Sebastian Fanselow,David Poljak,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Heilbronn CH,3,Clay,Q1,461,226,0,WC,8,Artem Smirnov,Sebastian Fanselow,4-6 6-3 6-3,0.93,4.2%,11.6%,49.5%,70.2%,43.8%,8/13,48.6%,40.0%,8.9%,23.9%,56.8%,3/6,185,4,11,95,47,48,8,2:13
+11-Apr-2016,USA F13,3,Hard,R16,471,225,0,,3,Stefan Kozlov,Sebastian Fanselow,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,USA F13,3,Hard,R32,471,488,1,,,Sebastian Fanselow,Luke Bambridge,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,USA F12,3,Hard,R16,477,568,0,,,Dennis Nevolo,Sebastian Fanselow,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,USA F12,3,Hard,R32,477,716,1,,,Sebastian Fanselow,Daniel Garza,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,USA F11,3,Hard,R16,506,214,0,SE,1,Henri Laaksonen,Sebastian Fanselow,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,USA F11,3,Hard,R32,506,497,1,SE,,Sebastian Fanselow,Wil Spencer,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,SF,502,359,0,,8,Michael Mmoh,Sebastian Fanselow,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,QF,502,277,1,,1,Sebastian Fanselow,Somdev Devvarman,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R16,502,918,1,,Q,Sebastian Fanselow,Jonathan Mridha,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,USA F10,3,Hard,R32,502,,1,,WC,Sebastian Fanselow,Billy Rowe,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Canada F2,3,Hard,R32,502,446,0,,Q,Filip Peliwo,Sebastian Fanselow,7-6(5) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,Canada F1,3,Hard,R32,503,425,0,,8,Hugo Nys,Sebastian Fanselow,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Launceston CH,3,Hard,Q2,503,,0,2,WC,Lawrence Bataljin,Sebastian Fanselow,5-2 RET,0.75,0.0%,0.0%,77.4%,41.7%,57.1%,7/10,43.8%,41.2%,5.9%,35.7%,66.7%,1/1,48,0,0,31,24,7,1,0:25
+11-Jan-2016,USA F2,3,Hard,R16,529,301,1,,1,Sebastian Fanselow,Nicolas Meister,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,USA F2,3,Hard,R32,529,1633,1,,WC,Sebastian Fanselow,Tom Fawcett,3-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2016,USA F1,3,Hard,QF,528,261,0,,1,Tennys Sandgren,Sebastian Fanselow,5-7 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Jan-2016,USA F1,3,Hard,R16,528,414,1,,,Sebastian Fanselow,Evan King,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jan-2016,USA F1,3,Hard,R32,528,522,1,,,Sebastian Fanselow,Eric Johnson,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Australia F11,3,Hard,QF,634,325,0,7,2,Robin Stanek,Sebastian Fanselow,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Australia F11,3,Hard,R16,634,717,1,7,,Sebastian Fanselow,Blake Mott,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Australia F11,3,Hard,R32,634,,1,7,LL,Sebastian Fanselow,Adam Oshannessy,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,F,628,247,0,,2,Benjamin Mitchell,Sebastian Fanselow,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,SF,628,385,1,,5,Sebastian Fanselow,Finn Tearney,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,QF,628,238,1,,1,Sebastian Fanselow,Connor Smith,5-7 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R16,628,498,1,,8,Sebastian Fanselow,Harry Bourchier,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R32,628,,1,,WC,Sebastian Fanselow,Daniel Nolan,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Canberra CH,3,Hard,QF,758,376,0,Q,,Robin Stanek,Sebastian Fanselow,6-4 7-6(3),0.80,10.4%,0.0%,64.9%,68.0%,55.6%,6/7,47.0%,29.2%,1.4%,23.8%,36.7%,0/2,149,8,0,77,50,27,1,
+2-Nov-2015,Canberra CH,3,Hard,R16,758,243,1,Q,6,Sebastian Fanselow,Connor Smith,4-6 6-3 7-6(5),1.33,10.1%,2.2%,50.6%,77.8%,63.6%,4/6,53.3%,38.9%,5.6%,33.8%,53.6%,2/6,197,9,2,89,45,44,6,
+2-Nov-2015,Canberra CH,3,Hard,R32,758,555,1,Q,WC,Sebastian Fanselow,Christopher Oconnell,6-1 6-1,2.28,15.4%,7.7%,61.5%,83.3%,60.0%,0/0,65.5%,58.3%,4.2%,48.0%,69.6%,5/8,87,6,3,39,24,15,2,
+26-Oct-2015,Traralgon CH,3,Hard,R32,778,622,0,Q,WC,Bradley Mousley,Sebastian Fanselow,7-6(12) 7-6(7),0.76,4.5%,2.3%,59.1%,78.8%,66.7%,1/2,47.9%,19.8%,11.1%,19.6%,20.0%,1/3,169,4,2,88,52,36,9,
+21-Sep-2015,USA F27,3,Hard,R32,838,707,0,,,Eric Johnson,Sebastian Fanselow,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,USA F26,3,Hard,SF,831,414,0,,2,Deiton Baughman,Sebastian Fanselow,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,USA F26,3,Hard,QF,831,589,1,,4,Sebastian Fanselow,Ernesto Escobedo,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,USA F26,3,Hard,R16,831,2052,1,,Q,Sebastian Fanselow,Jan Meyer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2015,USA F26,3,Hard,R32,831,788,1,,8,Sebastian Fanselow,Aleksandar Vukic,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Germany F7,3,Clay,R16,1573,349,0,WC,4,Dusan Lojda,Sebastian Fanselow,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Germany F7,3,Clay,R32,1573,606,1,WC,,Sebastian Fanselow,Juan Lizariturry,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Germany F6,3,Clay,F,1785,485,1,Q,3,Sebastian Fanselow,Duje Kekez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Germany F6,3,Clay,SF,1785,692,1,Q,8,Sebastian Fanselow,Pascal Meis,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Germany F6,3,Clay,QF,1785,1177,1,Q,Q,Sebastian Fanselow,Jannis Kahlke,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Germany F6,3,Clay,R16,1785,599,1,Q,6,Sebastian Fanselow,Jean Marc Werner,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Germany F6,3,Clay,R32,1785,848,1,Q,,Sebastian Fanselow,Elmar Ejupovic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Germany F5,3,Clay,R16,1785,593,0,Q,6,Sandro Ehrat,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Germany F5,3,Clay,R32,1785,752,1,Q,,Sebastian Fanselow,Marvin Netuschil,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Germany F17,3,Carpet,R16,,532,0,LL,4,Mats Moraing,Sebastian Fanselow,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Germany F17,3,Carpet,R32,,758,1,LL,,Sebastian Fanselow,Maxime Tchoutakian,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Hungary F2,3,Clay,R32,950,1159,0,,Q,Dragos Cristian Mirtea,Sebastian Fanselow,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Hungary F1,3,Clay,R32,949,821,0,Q,WC,Viktor Filipenko,Sebastian Fanselow,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Austria F10,3,Clay,SF,,746,0,SE,8,Nikolaus Moser,Sebastian Fanselow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Austria F10,3,Clay,QF,,721,1,SE,7,Sebastian Fanselow,Ryan Agar,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Austria F10,3,Clay,R16,,,1,SE,WC,Sebastian Fanselow,Markus Sedletzky,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Austria F10,3,Clay,R32,,438,1,SE,2,Sebastian Fanselow,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Germany F16,3,Clay,SF,,536,0,Q,4,Constant Lestienne,Sebastian Fanselow,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Germany F16,3,Clay,QF,,318,1,Q,2,Sebastian Fanselow,Steven Moneke,5-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Germany F16,3,Clay,R16,,609,1,Q,6,Sebastian Fanselow,Davy Sum,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Germany F16,3,Clay,R32,,1768,1,Q,LL,Sebastian Fanselow,Hung Yuan Hsu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Germany F11,3,Clay,R16,695,712,0,,4,Miguel Angel Reyes Varela,Sebastian Fanselow,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Germany F11,3,Clay,R32,695,1264,1,,,Sebastian Fanselow,Sebastian Sachs,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,F,965,1884,1,,Q,Sebastian Fanselow,Maximilian Dinslaken,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,SF,965,649,1,,8,Sebastian Fanselow,Artem Smirnov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,QF,965,378,1,,1,Sebastian Fanselow,Andre Begemann,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,R16,965,1033,1,,,Sebastian Fanselow,David Thurner,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Germany F9,3,Clay,R32,965,1306,1,,Q,Sebastian Fanselow,Jeremy Vogt,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Germany F8,3,Clay,R16,979,319,0,Q,6,Jan Minar,Sebastian Fanselow,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Germany F8,3,Clay,R32,979,538,1,Q,JE,Sebastian Fanselow,Jiri Vesely,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,USA F15,3,Hard,R32,,568,0,SE,7,Daniel King Turner,Sebastian Fanselow,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,USA F14,3,Hard,SF,,641,0,WC,WC,Jeff Dadamo,Sebastian Fanselow,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,USA F14,3,Hard,QF,,452,1,WC,3,Sebastian Fanselow,Michael Mcclune,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,USA F14,3,Hard,R16,,523,1,WC,5,Sebastian Fanselow,Fritz Wolmarans,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,USA F14,3,Hard,R32,,,1,WC,Q,Sebastian Fanselow,Riki Mclachlan,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,Germany F10,3,Clay,R16,1312,425,0,LL,,Dawid Olejniczak,Sebastian Fanselow,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,Germany F10,3,Clay,R32,1312,1598,1,LL,Q,Sebastian Fanselow,George Von Massow,6-4 6-7(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Germany F8,3,Clay,R16,1533,859,0,Q,,Jiri Kosler,Sebastian Fanselow,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Germany F8,3,Clay,R32,1533,867,1,Q,,Sebastian Fanselow,Martin Fafl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,USA F15,3,Hard,R32,,720,0,Q,,Gastao Elias,Sebastian Fanselow,4-6 6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,R16,,328,0,Q,1,Artem Sitak,Sebastian Fanselow,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,R32,,,1,Q,WC,Sebastian Fanselow,Daniel Mccall,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Spain F40,3,Clay,R32,,486,0,Q,,Pablo Martin Adalia,Sebastian Fanselow,7-5 6-2,,,,,,,,,,,,,,,,,,,,,

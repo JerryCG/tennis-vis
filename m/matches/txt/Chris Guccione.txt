@@ -1,0 +1,525 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+19-Oct-2015,Stockholm Q,3,Hard,Q1,,243,0,,7,Maximilian Marterer,Chris Guccione,7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Bogota Q,3,Hard,Q2,,384,0,,7,Kevin King,Chris Guccione,6-7(5) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Bogota Q,3,Hard,Q1,,852,1,,,Chris Guccione,Wesley Koolhof,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Bucharest Q,3,Clay,Q1,983,380,0,,,Alexander Lazov,Chris Guccione,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Eastbourne,3,Grass,R32,613,36,0,Q,6,Gilles Simon,Chris Guccione,7-6(2) 6-4,0.56,19.1%,1.5%,64.7%,81.8%,41.7%,2/3,44.2%,18.0%,24.6%,6.1%,32.1%,0/1,129,13,1,68,44,24,15,1:06
+16-Jun-2014,Eastbourne Q,3,Grass,Q3,613,215,1,,,Chris Guccione,Daniel Cox,6-3 6-7(5) 7-6(2),1.17,30.2%,1.0%,70.8%,88.2%,60.7%,0/0,51.3%,23.2%,11.1%,22.2%,25.9%,1/3,195,29,1,96,68,28,11,1:52
+16-Jun-2014,Eastbourne Q,3,Grass,Q2,613,117,1,,7,Chris Guccione,Michal Przysiezny,7-6(5) 7-6(7),1.83,19.1%,0.0%,72.1%,87.8%,73.7%,0/1,53.2%,29.5%,11.4%,23.6%,39.4%,1/4,156,13,0,68,49,19,10,1:20
+16-Jun-2014,Eastbourne Q,3,Grass,Q1,613,1161,1,,,Chris Guccione,Scott Clayton,6-2 6-1,1.95,11.6%,0.0%,51.2%,90.9%,57.1%,0/0,61.8%,50.0%,15.2%,20.0%,73.1%,4/8,89,5,0,43,22,21,7,0:52
+28-Apr-2014,Taipei CH,3,Carpet,R32,572,266,0,LL,,Luke Saville,Chris Guccione,6-4 6-1,0.39,13.0%,0.0%,72.2%,56.4%,26.7%,2/7,36.2%,20.0%,5.0%,16.7%,30.0%,1/2,94,7,0,54,39,15,2,0:45
+28-Oct-2013,Traralgon CH,3,Hard,R16,502,902,0,,Q,Bumpei Sato,Chris Guccione,W/O,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Traralgon CH,3,Hard,R32,502,166,1,,3,Chris Guccione,James Ward,7-6(6) 6-4,1.29,24.6%,6.2%,63.1%,82.9%,54.2%,2/3,52.9%,35.6%,9.6%,32.7%,41.7%,2/6,138,16,4,65,41,24,7,1:19
+18-Aug-2013,Winston-Salem Q,3,Hard,Q1,422,513,0,,,Eric Quigley,Chris Guccione,6-3 6-4,0.47,19.0%,5.2%,58.6%,73.5%,45.8%,5/7,41.3%,17.6%,19.6%,5.7%,43.8%,0/3,109,11,3,58,34,24,10,0:54
+22-Jul-2013,Atlanta Q,3,Hard,Q3,401,117,0,,1,Matthew Ebden,Chris Guccione,6-4 7-6(2),0.74,14.3%,2.6%,62.3%,70.8%,48.3%,3/5,46.5%,27.7%,6.2%,7.7%,57.7%,1/1,142,11,2,77,48,29,4,1:24
+22-Jul-2013,Atlanta Q,3,Hard,Q2,401,153,1,,6,Chris Guccione,Yuichi Sugita,6-4 6-2,1.21,26.2%,4.6%,58.5%,81.6%,44.4%,4/4,54.5%,41.1%,3.6%,36.1%,50.0%,3/6,121,17,3,65,38,27,2,1:11
+22-Jul-2013,Atlanta Q,3,Hard,Q1,401,1027,1,,,Chris Guccione,Mark Verryth,7-5 6-2,1.63,13.1%,4.9%,67.2%,82.9%,55.0%,3/3,56.5%,42.9%,15.6%,26.2%,62.9%,3/13,138,8,3,61,41,20,12,1:13
+15-Jul-2013,Bogota,3,Hard,R16,510,96,0,Q,6,Santiago Giraldo,Chris Guccione,3-6 6-3 6-4,0.83,14.0%,3.5%,61.6%,81.1%,36.4%,2/4,47.6%,30.0%,1.3%,24.2%,50.0%,1/3,166,12,3,86,53,33,1,1:33
+15-Jul-2013,Bogota,3,Hard,R32,510,181,1,Q,,Chris Guccione,Evgeny Korolev,6-1 1-0 RET,10.46,29.4%,5.9%,82.4%,100.0%,66.7%,0/0,74.4%,61.5%,15.4%,36.4%,80.0%,3/4,43,5,1,17,14,3,4,0:28
+15-Jul-2013,Bogota Q,3,Hard,Q3,510,231,1,8,3,Chris Guccione,Fabiano De Paula,6-3 6-7(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Bogota Q,3,Hard,Q2,510,,1,8,,Chris Guccione,Adil Shamasdin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,An-Ning CH,3,Clay,R16,536,135,0,Q,1,Matthew Ebden,Chris Guccione,6-4 6-4,0.59,13.6%,1.7%,67.8%,70.0%,57.9%,0/2,45.0%,20.0%,6.0%,19.4%,21.1%,0/0,109,8,1,59,40,19,3,1:02
+29-Apr-2013,An-Ning CH,3,Clay,R32,536,1920,1,Q,WC,Chris Guccione,Yu Cheng Li,6-4 6-1,2.31,34.8%,0.0%,63.0%,82.8%,76.5%,0/0,61.9%,45.1%,3.9%,46.7%,42.9%,3/4,97,16,0,46,29,17,2,0:55
+15-Apr-2013,Mexico City CH,3,Hard,R16,588,545,0,Q,Q,Franco Skugor,Chris Guccione,6-4 7-6(3),0.87,13.6%,3.0%,62.1%,80.5%,52.0%,3/4,47.1%,26.4%,12.5%,17.0%,44.0%,0/5,138,9,2,66,41,25,9,1:14
+15-Apr-2013,Mexico City CH,3,Hard,R32,588,72,1,Q,1,Chris Guccione,Yen Hsun Lu,6-3 RET,1.89,37.5%,4.2%,66.7%,93.8%,62.5%,0/0,60.5%,31.6%,10.5%,22.2%,40.0%,1/1,43,9,1,24,16,8,2,0:25
+18-Feb-2013,Australia F2,3,Grass,R16,597,407,0,,,Ivo Klec,Chris Guccione,7-6(8) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Australia F2,3,Grass,R32,597,297,1,,5,Chris Guccione,Sanam Singh,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2013,West Lakes CH,3,Hard,R32,593,246,0,WC,5,Samuel Groth,Chris Guccione,7-6(4) 2-1 RET,0.75,11.5%,3.8%,65.4%,79.4%,50.0%,1/1,46.2%,23.1%,28.8%,12.1%,42.1%,0/1,104,6,2,52,34,18,15,1:01
+12-Nov-2012,Champaign CH,3,Hard,R16,547,246,0,Q,,John Patrick Smith,Chris Guccione,7-6(3) 3-6 6-4,1.08,17.7%,1.0%,65.6%,77.8%,51.5%,4/6,50.8%,33.7%,11.9%,22.4%,48.8%,2/5,197,17,1,96,63,33,12,1:58
+12-Nov-2012,Champaign CH,3,Hard,R32,547,159,1,Q,2,Chris Guccione,Mischa Zverev,6-4 6-3,1.26,24.2%,0.0%,58.1%,69.4%,69.2%,4/5,55.3%,38.5%,11.5%,26.1%,48.3%,3/5,114,15,0,62,36,26,6,1:03
+15-Oct-2012,USA F28,3,Hard,QF,546,232,0,,2,Alex Kuznetsov,Chris Guccione,W/O,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,USA F28,3,Hard,R16,546,458,1,,,Chris Guccione,Devin Britton,6-3 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,USA F28,3,Hard,R32,546,989,1,,Q,Chris Guccione,Marvin Barker,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Tiburon CH,3,Hard,R16,622,166,0,Q,7,Denis Kudla,Chris Guccione,6-4 6-7(6) 7-6(4),1.10,12.8%,6.4%,59.6%,78.6%,65.8%,4/7,49.8%,29.4%,1.8%,21.2%,41.9%,2/6,203,12,6,94,56,38,2,2:04
+8-Oct-2012,Tiburon CH,3,Hard,R32,622,686,1,Q,WC,Chris Guccione,Daniel Nguyen,6-1 6-4,1.78,20.8%,0.0%,68.8%,78.8%,73.3%,0/0,58.8%,40.8%,2.0%,35.5%,50.0%,3/5,97,10,0,48,33,15,1,1:01
+24-Sep-2012,USA F26,3,Hard,R32,572,824,0,7,,Dennis Nevolo,Chris Guccione,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2012,Winston-Salem Q,3,Hard,Q3,587,90,0,,5,Benjamin Becker,Chris Guccione,6-3 3-6 6-3,0.81,14.9%,4.1%,63.5%,74.5%,51.9%,2/4,46.1%,27.5%,10.0%,12.2%,43.6%,1/6,154,11,3,74,47,27,8,1:30
+19-Aug-2012,Winston-Salem Q,3,Hard,Q2,587,101,1,,3,Chris Guccione,Michael Llodra,7-6(3) 6-7(5) 6-3,1.11,13.8%,3.7%,55.0%,85.0%,63.3%,5/5,52.7%,27.6%,10.2%,17.7%,44.4%,1/5,207,15,4,109,60,49,10,2:02
+19-Aug-2012,Winston-Salem Q,3,Hard,Q1,587,155,1,,,Chris Guccione,Teymuraz Gabashvili,6-4 7-6(3),1.20,19.4%,3.0%,68.7%,73.9%,71.4%,0/0,52.6%,32.4%,1.5%,21.1%,46.7%,1/4,135,13,2,67,46,21,1,1:24
+23-Jul-2012,Los Angeles,3,Hard,R32,510,81,0,Q,6,Marinko Matosevic,Chris Guccione,3-6 6-3 6-3,0.78,7.9%,6.7%,53.9%,68.8%,43.9%,1/5,46.6%,33.3%,2.8%,26.1%,46.2%,2/5,161,7,6,89,48,41,2,1:35
+23-Jul-2012,Los Angeles Q,3,Hard,Q3,510,558,1,,,Chris Guccione,Louk Sorensen,6-2 6-3,2.43,22.7%,4.5%,56.8%,80.0%,84.2%,0/0,61.5%,44.2%,3.8%,34.8%,51.7%,3/6,96,10,2,44,25,19,2,1:01
+23-Jul-2012,Los Angeles Q,3,Hard,Q2,510,581,1,,,Chris Guccione,Jeff Dadamo,6-2 6-4,8.14,23.7%,0.0%,81.6%,93.5%,100.0%,0/0,63.8%,42.9%,5.4%,25.9%,58.6%,3/5,94,9,0,38,31,7,3,0:55
+23-Jul-2012,Los Angeles Q,3,Hard,Q1,510,121,1,,2,Chris Guccione,Ruben Bemelmans,6-3 1-6 6-3,0.81,10.8%,1.2%,59.0%,69.4%,55.9%,6/8,48.3%,29.4%,5.9%,20.9%,44.0%,2/4,151,9,1,83,49,34,4,1:22
+16-Jul-2012,Binghamton CH,3,Hard,R32,484,393,0,,,Adrien Bossel,Chris Guccione,7-6(5) 7-5,0.81,27.5%,5.8%,60.9%,85.7%,55.6%,1/2,47.1%,21.1%,14.1%,7.3%,40.0%,0/3,140,19,4,69,42,27,10,1:22
+9-Jul-2012,Newport Q,3,Grass,Q2,485,151,0,,4,Sergei Bubka,Chris Guccione,7-6(5) 7-6(4),1.27,21.1%,2.8%,64.8%,91.3%,60.0%,0/0,49.1%,25.0%,21.7%,18.7%,52.9%,0/5,163,15,2,71,46,25,20,1:21
+9-Jul-2012,Newport Q,3,Grass,Q1,485,376,1,,,Chris Guccione,Richard Bloomfield,7-6(5) 7-6(4),1.25,15.3%,0.0%,65.3%,91.5%,76.0%,1/1,52.5%,17.4%,17.4%,12.5%,28.6%,0/0,141,11,0,72,47,25,12,1:24
+16-Apr-2012,USA F10,3,Hard,R32,416,636,0,2,,Dennis Lajola,Chris Guccione,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2012,Davis Cup G1 R1: AUS vs CHN,3,Grass,RR,328,502,1,,,Chris Guccione,Di Wu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Burnie CH,3,Hard,R32,263,257,0,,,Sebastian Rieschick,Chris Guccione,6-4 7-5,0.64,14.1%,0.0%,75.0%,64.6%,68.8%,10/12,44.7%,22.0%,8.5%,22.9%,20.8%,0/1,123,9,0,64,48,16,5,1:13
+16-Jan-2012,Australian Open Q,3,Hard,Q1,263,131,0,,12,Rainer Schuettler,Chris Guccione,7-6(5) 7-6(4),0.98,12.8%,1.3%,62.8%,87.8%,48.3%,3/4,48.5%,26.4%,3.4%,15.4%,42.9%,1/4,165,10,1,78,49,29,3,1:42
+1-Jan-2012,Brisbane Q,3,Hard,Q3,256,541,0,,,John Millman,Chris Guccione,7-6(4) 6-7(3) 7-6(4),0.86,21.3%,2.5%,55.7%,86.8%,57.4%,4/4,49.4%,22.5%,7.2%,18.4%,31.4%,0/0,233,26,3,122,68,54,8,2:18
+1-Jan-2012,Brisbane Q,3,Hard,Q2,256,168,1,,,Chris Guccione,Jan Hernych,6-3 7-6(4),1.26,26.4%,2.8%,62.5%,82.2%,48.1%,2/2,53.8%,38.4%,1.4%,36.4%,41.4%,1/2,145,19,2,72,45,27,1,1:27
+1-Jan-2012,Brisbane Q,3,Hard,Q1,256,1033,1,,,Chris Guccione,Lukas Dlouhy,6-4 6-7(5) 6-2,1.31,21.3%,2.1%,62.8%,72.9%,51.4%,1/4,55.2%,45.9%,5.1%,40.3%,55.6%,6/10,192,20,2,94,59,35,5,1:35
+14-Nov-2011,Champaign CH,3,Hard,QF,282,218,0,,,Alex Kuznetsov,Chris Guccione,6-7(6) 6-4 6-3,0.93,14.2%,1.9%,62.3%,68.2%,55.0%,8/12,48.6%,34.3%,9.3%,29.3%,45.5%,2/6,214,15,2,106,66,40,10,2:10
+14-Nov-2011,Champaign CH,3,Hard,R16,282,199,1,,,Chris Guccione,Greg Jones,4-6 6-2 6-3,1.21,13.2%,2.6%,65.8%,74.0%,57.7%,1/3,53.7%,38.4%,13.7%,24.4%,56.3%,4/5,149,10,2,76,50,26,10,1:33
+14-Nov-2011,Champaign CH,3,Hard,R32,282,114,1,,2,Chris Guccione,Izak Van Der Merwe,7-6(3) 6-3,1.24,12.5%,2.8%,59.7%,83.7%,55.2%,1/1,54.4%,34.4%,12.5%,21.6%,51.9%,1/1,136,9,2,72,43,29,8,1:19
+7-Nov-2011,Knoxville CH,3,Hard,R32,286,374,0,,Q,Steve Johnson,Chris Guccione,6-7(4) 6-4 7-5,0.77,26.0%,1.9%,62.5%,84.6%,51.3%,5/7,48.2%,21.5%,8.6%,17.1%,34.8%,0/0,197,27,2,104,65,39,8,1:55
+31-Oct-2011,Charlottesville CH,3,Hard,R32,246,177,0,,7,Michael Yani,Chris Guccione,6-3 6-3,0.52,11.1%,5.6%,63.0%,73.5%,35.0%,4/7,41.6%,21.3%,14.9%,11.5%,33.3%,0/0,101,6,3,54,34,20,7,0:59
+17-Oct-2011,USA F27,3,Hard,R16,245,471,0,2,,Denes Lukacs,Chris Guccione,5-4 RET,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,USA F27,3,Hard,R32,245,684,1,2,Q,Chris Guccione,Jeff Dadamo,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Tiburon CH,3,Hard,R32,245,321,0,,Q,Alex Bogdanovic,Chris Guccione,7-6(1) 6-3,0.84,23.7%,3.4%,67.8%,72.5%,57.9%,2/3,45.7%,27.1%,2.9%,23.5%,36.8%,0/2,129,14,2,59,40,19,2,1:23
+3-Oct-2011,Sacramento CH,3,Hard,R16,226,75,0,,1,James Blake,Chris Guccione,6-4 6-4,0.41,12.5%,1.8%,64.3%,72.2%,50.0%,0/2,41.3%,14.6%,6.3%,18.8%,6.3%,0/0,104,7,1,56,36,20,3,0:58
+3-Oct-2011,Sacramento CH,3,Hard,R32,226,208,1,,,Chris Guccione,Juan Sebastian Cabal,6-3 6-4,2.15,27.1%,0.0%,70.8%,91.2%,64.3%,0/0,58.4%,35.8%,5.7%,31.4%,44.4%,2/7,101,13,0,48,34,14,3,0:57
+29-Aug-2011,US Open Q,3,Hard,Q1,224,143,0,,20,Vasek Pospisil,Chris Guccione,7-6(4) 7-5,0.57,10.1%,3.8%,57.0%,80.0%,52.9%,2/3,45.5%,18.2%,16.7%,10.0%,30.8%,0/2,145,8,3,79,45,34,11,1:29
+8-Aug-2011,Binghamton CH,3,Hard,R32,206,256,0,,,Alex Kuznetsov,Chris Guccione,7-6(4) 5-7 6-3,0.85,10.5%,2.9%,59.0%,74.2%,58.1%,5/6,47.8%,27.5%,9.8%,22.2%,40.0%,1/7,207,11,3,105,62,43,10,2:11
+31-Jul-2011,Washington,3,Hard,R32,224,37,0,Q,13,Kevin Anderson,Chris Guccione,3-6 6-2 7-6(0),0.79,9.5%,4.2%,53.7%,72.5%,50.0%,6/8,46.3%,30.1%,14.0%,23.0%,43.8%,2/2,188,9,4,95,51,44,13,2:04
+31-Jul-2011,Washington,3,Hard,R64,224,96,1,Q,,Chris Guccione,Alejandro Falla,7-6(3) 6-3,2.14,19.6%,1.8%,64.3%,97.2%,60.0%,3/3,56.9%,34.3%,6.0%,21.1%,51.7%,2/2,123,11,1,56,36,20,4,1:10
+31-Jul-2011,Washington Q,3,Hard,Q2,224,292,1,6,10,Chris Guccione,Jesse Witten,4-6 6-4 6-1,1.10,7.8%,2.2%,62.2%,69.6%,47.1%,5/7,52.0%,42.7%,10.1%,35.4%,51.2%,5/11,179,7,2,90,56,34,9,1:46
+31-Jul-2011,Washington Q,3,Hard,Q1,224,463,1,6,,Chris Guccione,Daniel Yoo,6-0 6-2,2.64,24.3%,0.0%,64.9%,87.5%,61.5%,0/0,67.1%,57.1%,2.4%,53.3%,66.7%,5/7,79,9,0,37,24,13,1,0:47
+25-Jul-2011,Los Angeles Q,3,Hard,Q1,215,332,0,6,,Denis Kudla,Chris Guccione,7-6(4) 6-4,0.89,14.0%,0.0%,59.6%,82.4%,56.5%,1/3,47.1%,25.0%,4.7%,13.5%,40.7%,1/3,121,8,0,57,34,23,3,1:11
+18-Jul-2011,Lexington CH,3,Hard,R16,217,332,0,3,,Jamie Baker,Chris Guccione,7-5 7-6(4),0.98,13.8%,2.5%,56.3%,82.2%,37.1%,6/9,49.4%,36.6%,8.5%,28.3%,51.7%,2/9,162,11,2,80,45,35,7,2:03
+18-Jul-2011,Lexington CH,3,Hard,R32,217,307,1,3,,Chris Guccione,Joshua Milton,6-3 7-6(4),1.51,11.4%,4.3%,68.6%,83.3%,68.2%,5/5,55.8%,32.4%,4.4%,28.6%,35.0%,1/5,138,8,3,70,48,22,3,1:24
+11-Jul-2011,Aptos CH,3,Hard,R32,221,305,0,5,,Michael Venus,Chris Guccione,7-6(7) 6-3,0.82,17.9%,2.6%,69.2%,68.5%,50.0%,6/7,46.3%,30.5%,9.8%,18.0%,50.0%,0/5,160,14,2,78,54,24,8,1:27
+20-Jun-2011,Wimbledon Q,3,Grass,Q3,228,150,0,,30,Marinko Matosevic,Chris Guccione,7-6(9) 6-7(3) 7-6(3) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Wimbledon Q,3,Grass,Q2,228,99,1,,4,Chris Guccione,Thomas Schoorel,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Wimbledon Q,3,Grass,Q1,228,242,1,,,Chris Guccione,Marek Semjan,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Queen's Club Q,3,Grass,Q1,226,200,0,,7,Ilija Bozoljac,Chris Guccione,7-6(6) 7-6(2),0.95,15.6%,2.6%,67.5%,84.6%,56.0%,3/3,48.7%,23.5%,27.2%,9.1%,40.5%,0/1,158,12,2,77,52,25,22,1:33
+22-May-2011,Roland Garros Q,3,Clay,Q1,228,108,0,,8,Thomas Schoorel,Chris Guccione,6-4 6-4,0.73,18.4%,2.0%,69.4%,79.4%,53.3%,2/4,45.1%,20.8%,9.4%,10.5%,46.7%,0/0,102,9,1,49,34,15,5,1:00
+2-May-2011,Savannah CH,3,Clay,R16,234,377,0,,Q,Wayne Odesnik,Chris Guccione,6-2 6-1,0.44,7.1%,3.6%,51.8%,62.1%,37.0%,10/14,37.6%,22.2%,4.4%,20.7%,25.0%,0/1,101,4,2,56,29,27,2,1:07
+2-May-2011,Savannah CH,3,Clay,R32,234,238,1,,,Chris Guccione,Philip Bester,6-1 RET,3.80,26.3%,0.0%,78.9%,93.3%,50.0%,0/0,71.8%,60.0%,5.0%,66.7%,40.0%,2/3,39,5,0,19,15,4,1,0:22
+11-Apr-2011,Tallahassee CH,3,Hard,R16,249,199,0,,,Alex Kuznetsov,Chris Guccione,6-3 7-6(2),0.69,20.3%,1.7%,59.3%,71.4%,41.7%,0/2,43.1%,28.1%,9.4%,15.0%,50.0%,1/2,123,12,1,59,35,24,6,1:10
+11-Apr-2011,Tallahassee CH,3,Hard,R32,249,143,1,,8,Chris Guccione,Marinko Matosevic,6-4 6-4,1.49,25.5%,1.8%,67.3%,75.7%,61.1%,1/2,55.7%,43.3%,7.5%,32.6%,62.5%,3/7,122,14,1,55,37,18,5,1:04
+4-Apr-2011,USA F9,3,Hard,SF,249,375,0,2,7,Arnau Brugues Davi,Chris Guccione,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,USA F9,3,Hard,QF,249,710,1,2,,Chris Guccione,Jimmy Wang,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,USA F9,3,Hard,R16,249,815,1,2,Q,Chris Guccione,Bjorn Propst,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,USA F9,3,Hard,R32,249,762,1,2,WC,Chris Guccione,Devin Britton,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,USA F8,3,Hard,R32,251,649,0,1,,Vladimir Obradovic,Chris Guccione,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2011,Indian Wells Masters,3,Hard,R128,272,158,0,Q,WC,James Blake,Chris Guccione,3-6 6-3 6-2,0.58,21.8%,6.9%,56.3%,79.6%,36.8%,5/8,43.9%,22.9%,8.6%,10.5%,37.5%,1/4,157,19,6,87,49,38,6,1:36
+10-Mar-2011,Indian Wells Masters Q,3,Hard,Q2,272,148,1,,10,Chris Guccione,Daniel Munoz De La Nava,6-4 6-3,1.70,33.3%,0.0%,58.8%,96.7%,52.4%,0/0,58.0%,36.7%,8.2%,32.1%,42.9%,2/4,100,17,0,51,30,21,4,1:07
+10-Mar-2011,Indian Wells Masters Q,3,Hard,Q1,272,174,1,,16,Chris Guccione,Ivan Navarro,7-6(7) 6-2,1.09,7.2%,3.6%,50.6%,83.3%,46.3%,6/7,53.4%,38.1%,11.1%,40.6%,35.5%,3/4,146,6,3,83,42,41,7,1:42
+31-Jan-2011,Burnie CH,3,Hard,F,355,207,0,WC,,Flavio Cipolla,Chris Guccione,W/O,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2011,Burnie CH,3,Hard,SF,355,182,1,WC,WC,Chris Guccione,Bernard Tomic,6-3 6-7(3) 7-6(5),0.93,26.2%,1.0%,68.0%,81.4%,51.5%,4/5,50.3%,26.1%,15.2%,20.0%,40.7%,3/5,195,27,1,103,70,33,14,1:36
+31-Jan-2011,Burnie CH,3,Hard,QF,355,145,1,WC,2,Chris Guccione,Paolo Lorenzi,6-3 6-3,2.65,27.9%,0.0%,72.1%,87.1%,75.0%,0/0,59.3%,43.1%,7.7%,38.8%,56.3%,3/8,108,12,0,43,31,12,5,1:05
+31-Jan-2011,Burnie CH,3,Hard,R16,355,162,1,WC,6,Chris Guccione,Yuichi Sugita,6-4 6-3,1.49,12.7%,0.0%,76.4%,81.0%,61.5%,0/0,56.6%,35.3%,5.9%,35.0%,36.4%,2/4,106,7,0,55,42,13,3,0:54
+31-Jan-2011,Burnie CH,3,Hard,R32,355,216,1,WC,,Chris Guccione,Brydan Klein,6-3 7-6(7),1.37,10.4%,3.0%,74.6%,82.0%,64.7%,1/1,54.5%,30.8%,10.8%,25.0%,40.0%,1/2,132,7,2,67,50,17,7,1:09
+17-Jan-2011,Australian Open Q,3,Hard,Q1,351,188,0,WC,,Matthias Bachinger,Chris Guccione,7-6(2) 6-1,0.51,11.7%,3.3%,58.3%,62.9%,52.0%,2/4,40.5%,21.4%,12.5%,9.1%,39.1%,0/2,116,7,2,60,35,25,7,1:05
+10-Jan-2011,Sydney,3,Hard,R32,376,33,0,Q,7,Guillermo Garcia Lopez,Chris Guccione,7-6(5) 7-5,0.86,12.6%,2.9%,67.0%,73.9%,38.2%,13/14,48.7%,32.6%,9.3%,27.3%,41.9%,0/4,189,13,3,103,69,34,8,1:50
+10-Jan-2011,Sydney Q,3,Hard,Q3,376,85,1,WC,,Chris Guccione,Michal Przysiezny,6-2 3-6 7-6(2),1.39,15.9%,1.2%,58.5%,81.3%,64.7%,1/3,54.4%,35.6%,8.0%,25.5%,53.1%,3/4,169,13,1,82,48,34,7,1:46
+10-Jan-2011,Sydney Q,3,Hard,Q2,376,106,1,WC,,Chris Guccione,Alejandro Falla,6-4 4-6 6-3,1.52,11.1%,1.2%,61.7%,78.0%,67.7%,6/8,55.4%,39.4%,4.3%,39.1%,40.0%,3/6,175,9,1,81,50,31,4,1:43
+10-Jan-2011,Sydney Q,3,Hard,Q1,376,89,1,WC,6,Chris Guccione,Eduardo Schwank,4-6 6-4 7-6(4),1.13,17.6%,2.4%,68.2%,77.6%,66.7%,2/4,51.1%,29.2%,7.9%,21.6%,39.5%,2/4,174,15,2,85,58,27,7,1:49
+15-Nov-2010,Champaign CH,3,Hard,R32,377,101,0,,1,Kei Nishikori,Chris Guccione,6-4 6-4,1.02,18.8%,6.3%,66.7%,71.9%,56.3%,1/4,47.8%,33.8%,7.7%,20.0%,65.0%,1/2,113,9,3,48,32,16,5,1:05
+8-Nov-2010,Knoxville CH,3,Hard,R32,377,353,0,,LL,Fritz Wolmarans,Chris Guccione,6-4 6-4,0.58,11.1%,1.6%,73.0%,67.4%,52.9%,6/8,44.3%,21.2%,19.2%,21.1%,21.4%,0/1,115,7,1,63,46,17,10,1:10
+1-Nov-2010,Charlottesville CH,3,Hard,SF,444,,0,,Q,Michael Shabaz,Chris Guccione,7-6(7) 6-3,0.88,32.7%,1.9%,75.0%,92.3%,61.5%,0/1,46.8%,13.6%,18.6%,12.1%,15.4%,0/0,111,17,1,52,39,13,11,0:55
+1-Nov-2010,Charlottesville CH,3,Hard,QF,444,96,1,,2,Chris Guccione,Somdev Devvarman,7-6(4) 6-3,1.11,22.4%,3.9%,59.2%,75.6%,51.6%,2/3,52.4%,38.0%,7.0%,25.0%,51.4%,2/3,147,17,3,76,45,31,5,1:30
+1-Nov-2010,Charlottesville CH,3,Hard,R16,444,171,1,,,Chris Guccione,Izak Van Der Merwe,6-7(3) 7-6(5) 7-5,1.19,19.2%,3.8%,62.5%,83.1%,66.7%,0/0,51.2%,27.4%,15.9%,19.7%,36.5%,1/5,217,20,4,104,65,39,18,2:12
+1-Nov-2010,Charlottesville CH,3,Hard,R32,444,136,1,,7,Chris Guccione,Peter Luczak,7-6(4) 3-6 7-6(5),0.95,21.9%,1.9%,66.7%,75.7%,51.4%,5/7,48.8%,30.9%,9.1%,25.7%,41.7%,1/3,215,23,2,105,70,35,10,2:20
+11-Oct-2010,Tiburon CH,3,Hard,R32,452,825,0,,WC,Daniel Kosakowski,Chris Guccione,5-4 RET,0.91,6.5%,3.2%,64.5%,75.0%,45.5%,0/1,49.2%,32.1%,7.1%,26.3%,44.4%,0/3,59,2,1,31,20,11,2,0:42
+4-Oct-2010,Sacramento CH,3,Hard,QF,542,240,0,,,Alex Bogomolov Jr,Chris Guccione,6-3 6-3,0.82,19.6%,8.9%,60.7%,76.5%,36.4%,4/7,45.8%,32.3%,9.7%,21.4%,55.0%,0/3,118,11,5,56,34,22,6,1:09
+4-Oct-2010,Sacramento CH,3,Hard,R16,542,88,1,,1,Chris Guccione,Tobias Kamke,6-3 6-4,1.44,12.3%,0.0%,52.6%,80.0%,66.7%,1/1,57.0%,38.0%,0.0%,33.3%,42.3%,2/2,107,7,0,57,30,27,0,1:04
+4-Oct-2010,Sacramento CH,3,Hard,R32,542,601,1,,WC,Chris Guccione,Denis Kudla,7-6(3) 6-4,1.91,17.7%,3.2%,61.3%,92.1%,58.3%,0/0,54.9%,40.0%,3.0%,36.4%,47.1%,1/12,162,11,2,62,38,24,3,1:31
+27-Sep-2010,USA F25,3,Hard,F,546,1235,1,6,Q,Chris Guccione,Daniel Kosakowski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,SF,546,326,1,6,1,Chris Guccione,Artem Sitak,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,QF,546,520,1,6,4,Chris Guccione,Robbye Poole,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,R16,546,904,1,6,,Chris Guccione,Boris Nicola Bakalov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,R32,546,1418,1,6,Q,Chris Guccione,Nathaniel Gorham,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,US Open Q,3,Hard,Q1,536,252,0,,,Bobby Reynolds,Chris Guccione,7-6(4) 6-3,0.71,17.6%,4.4%,60.3%,75.6%,51.9%,2/3,44.6%,23.9%,7.0%,15.0%,35.5%,0/4,139,12,3,68,41,27,5,1:39
+9-Aug-2010,Binghamton CH,3,Hard,SF,320,159,0,Q,8,Robert Kendrick,Chris Guccione,W/O,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Binghamton CH,3,Hard,QF,320,727,1,Q,WC,Chris Guccione,Bradley Klahn,6-4 6-2,1.30,12.5%,1.8%,62.5%,68.6%,61.9%,3/4,54.8%,44.1%,6.8%,43.2%,45.5%,4/5,115,7,1,56,35,21,4,1:08
+9-Aug-2010,Binghamton CH,3,Hard,R16,320,151,1,Q,6,Chris Guccione,Rajeev Ram,6-3 7-6(4),1.90,32.3%,1.6%,62.9%,87.2%,69.6%,0/0,56.0%,36.7%,12.7%,30.2%,44.4%,1/6,141,20,1,62,39,23,10,1:24
+9-Aug-2010,Binghamton CH,3,Hard,R32,320,264,1,Q,,Chris Guccione,John Millman,6-7(5) 7-5 6-3,1.11,17.2%,0.0%,71.7%,80.3%,46.4%,0/1,51.8%,32.7%,7.1%,29.0%,38.9%,3/9,197,17,0,99,71,28,7,2:05
+2-Aug-2010,Vancouver CH,3,Hard,R16,334,179,0,,,Marinko Matosevic,Chris Guccione,4-6 6-2 7-5,0.91,10.1%,0.0%,64.7%,63.6%,47.6%,17/21,48.7%,38.1%,7.6%,27.1%,52.2%,2/8,224,12,0,119,77,42,8,2:15
+2-Aug-2010,Vancouver CH,3,Hard,R32,334,176,1,,8,Chris Guccione,Jesse Witten,3-6 6-3 6-2,1.51,23.3%,1.4%,69.9%,80.4%,50.0%,2/4,56.4%,43.4%,8.4%,29.0%,51.9%,4/13,156,17,1,73,51,22,7,1:25
+26-Jul-2010,Los Angeles Q,3,Hard,Q3,306,1333,0,,WC,Steve Johnson,Chris Guccione,6-3 6-3,0.63,9.0%,6.4%,57.7%,73.3%,33.3%,5/8,44.4%,27.3%,7.3%,24.2%,31.8%,0/2,133,7,5,78,45,33,4,1:12
+26-Jul-2010,Los Angeles Q,3,Hard,Q2,306,217,1,,,Chris Guccione,Ryan Harrison,7-6(4) 7-6(3),1.45,9.5%,1.4%,62.2%,84.8%,64.3%,0/0,53.4%,33.3%,1.1%,25.9%,45.5%,0/9,161,7,1,74,46,28,1,1:39
+26-Jul-2010,Los Angeles Q,3,Hard,Q1,306,185,1,,,Chris Guccione,Gilles Muller,6-4 2-1 RET,1.57,16.2%,2.7%,51.4%,84.2%,61.1%,2/3,56.0%,42.6%,12.8%,30.4%,54.2%,2/3,84,6,1,37,19,18,6,0:58
+19-Jul-2010,Lexington CH,3,Hard,R32,308,186,0,,7,Peter Polansky,Chris Guccione,6-4 6-2,0.59,6.7%,0.0%,68.9%,71.0%,57.1%,3/6,42.9%,19.6%,6.5%,16.7%,25.0%,0/0,91,3,0,45,31,14,3,0:54
+12-Jul-2010,Aptos CH,3,Hard,R32,223,251,0,,,Izak Van Der Merwe,Chris Guccione,3-6 6-3 6-4,0.93,7.8%,3.3%,63.3%,68.4%,54.5%,5/7,48.4%,34.0%,9.6%,27.3%,43.6%,1/5,184,7,3,90,57,33,9,1:48
+5-Jul-2010,Newport,3,Grass,R32,218,335,0,,Q,Sergei Bubka,Chris Guccione,7-6(0) 6-4,0.57,7.2%,2.9%,55.1%,71.1%,64.5%,1/2,44.6%,18.0%,16.4%,15.8%,21.7%,0/2,130,5,2,69,38,31,10,1:16
+21-Jun-2010,Wimbledon Q,3,Grass,Q1,214,196,0,,,Alexander Peya,Chris Guccione,4-6 7-6(1) 6-4,0.69,10.5%,1.1%,74.7%,77.5%,41.7%,2/3,46.6%,21.7%,3.6%,18.3%,30.4%,1/3,178,10,1,95,71,24,3,1:41
+7-Jun-2010,Queen's Club,3,Grass,R64,220,63,0,,14,Dudi Sela,Chris Guccione,6-7(4) 7-6(5) 6-4,0.74,19.2%,0.0%,72.1%,77.3%,55.2%,4/5,46.8%,21.2%,5.1%,22.2%,19.4%,0/3,203,20,0,104,75,29,5,1:56
+31-May-2010,Nottingham CH,3,Grass,R32,212,137,0,,,Go Soeda,Chris Guccione,7-6(4) 6-2,0.55,6.9%,0.0%,63.8%,75.7%,52.4%,3/5,42.0%,18.0%,4.9%,17.1%,19.2%,0/2,119,4,0,58,37,21,3,1:08
+24-May-2010,Roland Garros Q,3,Clay,Q1,212,249,0,,,Daniel King Turner,Chris Guccione,6-3 6-3,0.68,3.5%,7.0%,59.6%,58.8%,52.2%,2/5,43.0%,29.8%,14.0%,26.3%,36.8%,0/4,114,2,4,57,34,23,8,1:09
+19-Apr-2010,Tallahassee CH,3,Hard,R32,198,154,0,,,Robert Kendrick,Chris Guccione,7-6(6) 6-3,0.76,16.5%,4.7%,56.5%,77.1%,45.9%,3/5,47.4%,27.5%,14.5%,25.8%,28.9%,0/4,154,14,4,85,48,37,10,1:22
+12-Apr-2010,Baton Rouge CH,3,Hard,R32,195,201,0,,,Go Soeda,Chris Guccione,6-2 6-2,0.47,16.3%,2.0%,65.3%,56.3%,41.2%,7/11,38.0%,23.3%,9.3%,15.0%,30.4%,0/1,92,8,1,49,32,17,4,0:52
+31-Aug-2009,US Open,5,Hard,R128,102,67,0,WC,,Pablo Cuevas,Chris Guccione,6-4 7-6(4) 6-0,0.51,14.6%,3.7%,46.3%,65.8%,56.8%,2/6,40.7%,20.0%,13.8%,15.5%,31.8%,0/1,162,12,3,82,38,44,11,1:43
+16-Aug-2009,Cincinnati Masters,3,Hard,R16,124,18,0,Q,,Tomas Berdych,Chris Guccione,6-4 6-3,0.43,14.5%,9.7%,50.0%,71.0%,48.4%,3/6,41.7%,17.4%,8.7%,13.6%,20.8%,0/2,108,9,6,62,31,31,4,1:05
+16-Aug-2009,Cincinnati Masters,3,Hard,R32,124,7,1,Q,7,Chris Guccione,Jo Wilfried Tsonga,7-6(12) 6-2,1.37,28.2%,8.5%,59.2%,90.5%,62.1%,3/3,54.3%,29.0%,4.3%,23.4%,40.9%,2/2,140,20,6,71,42,29,3,1:17
+16-Aug-2009,Cincinnati Masters,3,Hard,R64,124,23,1,Q,,Chris Guccione,Philipp Kohlschreiber,7-5 2-6 6-3,0.98,22.4%,5.9%,58.8%,86.0%,45.7%,3/5,50.6%,29.9%,9.1%,25.6%,35.3%,2/4,162,19,5,85,50,35,7,1:31
+16-Aug-2009,Cincinnati Masters Q,3,Hard,Q2,124,80,1,,8,Chris Guccione,Robert Kendrick,7-6(10) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2009,Cincinnati Masters Q,3,Hard,Q1,124,57,1,,5,Chris Guccione,Andrey Golubev,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2009,Washington Q,3,Hard,Q1,128,546,0,3,,Oliver Marach,Chris Guccione,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Los Angeles,3,Hard,R16,112,21,0,WC,2,Mardy Fish,Chris Guccione,6-7(3) 7-6(12) 6-4,0.91,20.2%,5.0%,58.8%,78.6%,57.1%,3/4,48.9%,27.6%,9.5%,21.4%,37.0%,0/2,235,24,6,119,70,49,11,2:23
+27-Jul-2009,Los Angeles,3,Hard,R32,112,91,1,WC,,Chris Guccione,Kevin Kim,6-1 6-4,1.92,23.4%,0.0%,46.8%,90.9%,68.0%,2/2,60.4%,40.9%,9.1%,15.4%,77.8%,3/3,91,11,0,47,22,25,4,0:50
+20-Jul-2009,Lexington CH,3,Hard,R32,112,204,0,2,,Ryler Deheart,Chris Guccione,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,F,137,306,1,7,Q,Chris Guccione,Nick Lindahl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,SF,137,135,1,7,6,Chris Guccione,Somdev Devvarman,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,QF,137,100,1,7,3,Chris Guccione,Wayne Odesnik,7-6(5) 2-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,R16,137,282,1,7,Q,Chris Guccione,Yuichi Sugita,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,R32,137,173,1,7,,Chris Guccione,Go Soeda,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Newport,3,Grass,R32,137,129,0,,,Jesse Levine,Chris Guccione,7-6(2) 7-6(2),1.11,18.2%,2.6%,70.1%,77.8%,34.8%,3/5,49.7%,38.9%,12.0%,33.3%,50.0%,2/9,185,14,2,77,54,23,13,1:38
+22-Jun-2009,Wimbledon Q,3,Grass,Q1,141,219,0,20,,Harel Levy,Chris Guccione,5-7 7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Queen's Club Q,3,Grass,Q1,140,155,0,7,,Prakash Amritraj,Chris Guccione,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Nottingham CH,3,Grass,R16,137,161,0,7,,Prakash Amritraj,Chris Guccione,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Nottingham CH,3,Grass,R32,137,186,1,7,,Chris Guccione,Brydan Klein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q1,137,206,0,27,,Peter Luczak,Chris Guccione,7-6(6) 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Izmir CH,3,Hard,R16,142,192,0,6,,Marsel Ilhan,Chris Guccione,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Izmir CH,3,Hard,R32,142,194,1,6,,Chris Guccione,Alexander Kudryavtsev,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Ramat Hasharon CH,3,Hard,R32,147,238,0,,,George Bastl,Chris Guccione,1-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Rhodes CH,3,Hard,R32,150,140,0,,,Benedikt Dorsch,Chris Guccione,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Apr-2009,Johannesburg CH,3,Hard,R32,150,219,0,7,,Harel Levy,Chris Guccione,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Khorat CH,3,Hard,R16,149,328,0,3,Q,Filip Prpic,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Khorat CH,3,Hard,R32,149,,1,3,WC,Chris Guccione,Sonchat Ratiwatana,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Bangkok CH,3,Hard,R32,134,158,0,4,,Danai Udomchoke,Chris Guccione,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Kyoto CH,3,Carpet,R32,134,296,0,3,,Aisam Ul Haq Qureshi,Chris Guccione,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2009,Davis Cup G1 R2: THA vs AUS,3,Hard,RR,127,890,1,,,Chris Guccione,Kittipong Wachiramanowong,6-3 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Delray Beach Q,3,Hard,Q1,118,704,0,7,WC,Adrians Zguns,Chris Guccione,6-4 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Memphis,3,Hard,R16,129,103,0,Q,,Lleyton Hewitt,Chris Guccione,6-2 7-6(4),0.43,20.7%,3.4%,65.5%,78.9%,40.0%,2/4,41.1%,14.8%,18.5%,11.8%,20.0%,0/0,112,12,2,58,38,20,10,1:04
+16-Feb-2009,Memphis,3,Hard,R32,129,119,1,Q,,Chris Guccione,Vincent Spadea,7-6(1) 7-6(5),0.95,23.8%,5.0%,63.7%,96.1%,41.4%,3/3,51.0%,22.5%,14.1%,18.4%,27.3%,0/1,151,19,4,80,51,29,10,1:18
+16-Feb-2009,Memphis Q,3,Hard,Q2,129,146,1,,,Chris Guccione,Amer Delic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Memphis Q,3,Hard,Q1,129,120,1,,3,Chris Guccione,Roko Karanusic,7-6(5) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,San Jose,3,Hard,R16,132,21,0,,4,Radek Stepanek,Chris Guccione,6-2 7-6(1),0.70,11.9%,3.0%,67.2%,73.3%,31.8%,5/8,44.9%,28.3%,18.3%,22.2%,37.5%,1/4,127,8,2,67,45,22,11,1:15
+9-Feb-2009,San Jose,3,Hard,R32,132,71,1,,,Chris Guccione,Guillermo Canas,7-6(7) 7-5,1.13,21.6%,4.1%,62.2%,82.6%,46.4%,1/2,51.7%,35.1%,10.4%,19.0%,54.3%,2/6,151,16,3,74,46,28,8,1:34
+19-Jan-2009,Australian Open,5,Hard,R64,132,8,0,,6,Gilles Simon,Chris Guccione,6-7(5) 6-4 6-1 6-2,0.70,10.7%,2.5%,63.1%,64.9%,57.8%,6/11,44.8%,26.5%,12.0%,15.9%,38.9%,0/7,239,13,3,122,77,45,14,2:20
+19-Jan-2009,Australian Open,5,Hard,R128,132,72,1,,,Chris Guccione,Nicolas Devilder,6-4 6-2 6-4,1.62,16.0%,5.3%,61.3%,80.4%,58.6%,1/2,57.0%,45.4%,4.1%,45.8%,44.7%,5/13,172,12,4,75,46,29,4,1:55
+12-Jan-2009,Sydney,3,Hard,R16,132,40,0,WC,,Jarkko Nieminen,Chris Guccione,7-6(8) 6-3,0.74,9.3%,6.7%,62.7%,66.0%,42.9%,6/9,44.8%,31.4%,0.0%,25.6%,40.7%,2/5,145,7,5,75,47,28,0,1:22
+12-Jan-2009,Sydney,3,Hard,R32,132,21,1,WC,6,Chris Guccione,Tomas Berdych,6-3 6-4,1.08,16.4%,0.0%,59.0%,83.3%,56.0%,2/2,54.8%,30.2%,4.7%,25.0%,36.8%,2/2,104,10,0,61,36,25,2,1:06
+4-Jan-2009,Brisbane Q,3,Hard,Q1,101,131,0,7,,Amer Delic,Chris Guccione,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,Helsinki CH,3,Hard,R32,81,337,0,5,Q,Andis Juska,Chris Guccione,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Jersey CH,3,Hard,SF,89,142,0,1,5,Adrian Mannarino,Chris Guccione,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Jersey CH,3,Hard,QF,89,256,1,1,,Chris Guccione,Dominik Meffert,7-6(4) 6-7(1) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Jersey CH,3,Hard,R16,89,295,1,1,WC,Chris Guccione,James Ward,6-4 4-6 7-6(11),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Jersey CH,3,Hard,R32,89,328,1,1,Q,Chris Guccione,Jan Minar,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,SF,99,139,0,8,,Stephane Bohli,Chris Guccione,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,QF,99,69,1,8,4,Chris Guccione,Philipp Petzschner,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,R16,99,196,1,8,,Chris Guccione,Brendan Evans,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,R32,99,140,1,8,,Chris Guccione,Joseph Sirianni,3-6 6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+26-Oct-2008,Paris Masters Q,3,Hard,Q1,100,39,0,,1,Simone Bolelli,Chris Guccione,6-4 6-7(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg,3,Hard,R32,100,6,0,,2,Nikolay Davydenko,Chris Guccione,6-4 6-4,0.68,13.8%,4.6%,67.7%,75.0%,38.1%,6/8,45.5%,25.0%,7.1%,15.4%,33.3%,0/0,121,9,3,65,44,21,4,1:17
+12-Oct-2008,Madrid Masters Q,3,Hard,Q1,91,49,0,,4,Ivan Ljubicic,Chris Guccione,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Stockholm,3,Hard,R32,88,34,0,,5,Rainer Schuettler,Chris Guccione,6-0 6-3,0.45,12.2%,6.1%,51.0%,56.0%,37.5%,6/10,36.3%,23.8%,11.9%,9.7%,63.6%,0/0,91,6,3,49,25,24,5,0:54
+29-Sep-2008,Mons CH,3,Hard,QF,82,187,0,5,Q,Edouard Roger Vasselin,Chris Guccione,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Mons CH,3,Hard,R16,82,149,1,5,,Chris Guccione,Andrey Golubev,4-6 6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Mons CH,3,Hard,R32,82,378,1,5,,Chris Guccione,Bohdan Ulihrach,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup WG PO: CHI vs AUS,3,Clay,RR,80,108,0,,,Nicolas Massu,Chris Guccione,7-6(4) 7-6(5) 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup WG PO: CHI vs AUS,3,Clay,RR,80,11,0,,,Fernando Gonzalez,Chris Guccione,7-6(3) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open,5,Hard,R64,87,30,0,,28,Radek Stepanek,Chris Guccione,6-4 6-4 6-7(3) 6-2,0.66,16.5%,5.2%,63.5%,76.7%,47.6%,5/9,45.0%,22.4%,13.1%,14.9%,39.4%,0/0,222,19,6,115,73,42,14,2:31
+25-Aug-2008,US Open,5,Hard,R128,87,96,1,,WC,Chris Guccione,Jesse Levine,6-3 3-6 7-6(6) 7-6(6),1.65,26.7%,2.5%,63.3%,85.5%,68.2%,2/3,52.9%,34.3%,11.2%,29.3%,45.3%,1/16,289,32,3,120,76,44,19,2:44
+17-Aug-2008,New Haven,3,Hard,R64,88,67,0,,,Guillermo Garcia Lopez,Chris Guccione,7-5 6-3,0.67,11.8%,4.4%,55.9%,71.1%,40.0%,3/7,44.4%,28.6%,0.0%,25.9%,31.0%,1/3,124,8,3,68,38,30,0,1:21
+11-Aug-2008,Beijing Olympics,3,Hard,R64,86,7,0,,8,James Blake,Chris Guccione,6-3 7-6(3),0.83,18.6%,0.0%,61.0%,75.0%,65.2%,0/1,46.0%,23.9%,3.0%,15.4%,35.7%,0/1,126,11,0,59,36,23,2,1:13
+28-Jul-2008,Cincinnati Masters,3,Hard,R32,91,12,0,Q,10,Fernando Verdasco,Chris Guccione,7-6(4) 7-6(4),0.92,16.7%,1.3%,65.4%,86.3%,55.6%,1/1,48.7%,22.5%,2.5%,12.5%,45.8%,0/3,158,13,1,78,51,27,2,1:36
+28-Jul-2008,Cincinnati Masters,3,Hard,R64,91,108,1,Q,WC,Chris Guccione,Jesse Levine,6-3 6-4,1.82,30.9%,0.0%,60.0%,87.9%,63.6%,3/3,59.3%,39.6%,3.8%,36.1%,47.1%,2/4,108,17,0,55,33,22,2,1:05
+28-Jul-2008,Cincinnati Masters Q,3,Hard,Q2,91,252,1,2,11,Chris Guccione,Woong Sun Jun,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Cincinnati Masters Q,3,Hard,Q1,91,369,1,2,,Chris Guccione,Farrukh Dustov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Indianapolis,3,Hard,R32,93,293,0,,Q,Woong Sun Jun,Chris Guccione,6-4 7-6(4),0.84,3.8%,6.3%,58.2%,82.6%,42.4%,7/9,48.3%,28.6%,7.1%,13.6%,53.8%,1/4,149,3,5,79,46,33,5,1:23
+30-Jun-2008,Cordoba CH,3,Hard,R32,77,265,0,2,,Rui Machado,Chris Guccione,7-6(1) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon,5,Grass,R128,77,197,0,,LL,Ilija Bozoljac,Chris Guccione,3-6 6-4 6-4 6-3,0.83,8.7%,3.8%,59.6%,77.4%,52.4%,1/4,46.9%,27.1%,18.7%,11.9%,45.8%,1/5,211,9,4,104,62,42,20,1:56
+16-Jun-2008,Nottingham,3,Grass,R32,79,32,0,,8,Gael Monfils,Chris Guccione,7-6(4) 6-4,0.68,7.8%,2.6%,62.3%,72.9%,51.7%,4/5,45.3%,23.9%,15.5%,19.0%,31.0%,0/4,148,6,2,77,48,29,11,1:13
+9-Jun-2008,Queen's Club,3,Grass,R32,79,36,0,,15,Mardy Fish,Chris Guccione,4-6 7-6(0) 6-4,0.91,15.2%,2.0%,70.7%,75.7%,55.2%,1/2,49.5%,27.5%,17.6%,15.8%,35.8%,1/1,190,15,2,99,70,29,16,1:56
+9-Jun-2008,Queen's Club,3,Grass,R64,79,73,1,,,Chris Guccione,Yen Hsun Lu,6-4 6-7(2) 7-5,1.11,18.1%,1.9%,71.4%,80.0%,53.3%,4/4,51.2%,30.6%,12.0%,24.2%,40.5%,2/7,213,19,2,105,75,30,13,2:14
+25-May-2008,Roland Garros,5,Clay,R128,70,148,0,,Q,Nicolas Devilder,Chris Guccione,6-4 6-1 6-4,0.63,12.4%,2.1%,60.8%,64.4%,44.7%,7/12,43.7%,27.3%,3.9%,18.8%,41.4%,1/2,174,12,2,97,59,38,3,1:45
+18-May-2008,Casablanca,3,Clay,R32,70,89,0,6,,Rainer Schuettler,Chris Guccione,6-4 6-7(5) 6-2,0.69,13.5%,1.9%,64.4%,65.7%,43.2%,9/14,44.7%,29.1%,3.5%,20.3%,54.5%,2/6,190,14,2,104,67,37,3,2:01
+11-Apr-2008,Davis Cup G1 R2: AUS vs THA,3,Hard,RR,67,204,1,,,Chris Guccione,Danai Udomchoke,6-7(3) 7-6(7) 4-6 7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2008,Davis Cup G1 R2: AUS vs THA,3,Hard,RR,67,776,1,,,Chris Guccione,Weerapat Doakmaiklee,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+27-Mar-2008,Miami Masters Q,3,Hard,Q2,68,157,0,3,,Sam Warburg,Chris Guccione,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2008,Miami Masters Q,3,Hard,Q1,68,617,1,3,WC,Chris Guccione,Gastao Elias,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Sunrise CH,3,Hard,SF,70,82,0,,,Robin Haase,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Sunrise CH,3,Hard,QF,70,12,1,,1,Chris Guccione,Fernando Gonzalez,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Sunrise CH,3,Hard,R16,70,89,1,,,Chris Guccione,Rainer Schuettler,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Sunrise CH,3,Hard,R32,70,55,1,,7,Chris Guccione,Marc Gicquel,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters Q,3,Hard,Q1,70,196,0,2,,Brendan Evans,Chris Guccione,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Las Vegas,3,Hard,R16,70,20,0,Q,4,Guillermo Canas,Chris Guccione,6-2 7-5,0.64,9.9%,4.9%,56.8%,60.9%,42.9%,10/14,43.3%,30.0%,5.0%,28.2%,33.3%,1/8,141,8,4,81,46,35,3,1:24
+3-Mar-2008,Las Vegas,3,Hard,R32,70,68,1,Q,,Chris Guccione,Victor Hanescu,6-2 4-6 7-6(5),1.10,14.1%,2.4%,54.1%,89.1%,59.0%,1/2,51.8%,27.2%,12.3%,24.6%,35.0%,2/3,166,12,2,85,46,39,10,1:38
+3-Mar-2008,Las Vegas Q,3,Hard,Q3,70,116,1,3,5,Chris Guccione,Igor Kunitsyn,7-6(5) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,Las Vegas Q,3,Hard,Q2,70,410,1,3,,Chris Guccione,Roman Borvanov,7-6(3) 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Memphis,3,Hard,QF,86,31,0,,4,Radek Stepanek,Chris Guccione,7-6(4) 6-1,0.41,17.9%,1.5%,71.6%,66.7%,42.1%,5/7,40.5%,16.7%,9.3%,17.5%,14.3%,0/0,121,12,1,67,48,19,5,1:09
+25-Feb-2008,Memphis,3,Hard,R16,86,54,1,,6,Chris Guccione,Thomas Johansson,6-3 6-4,2.41,31.9%,0.0%,55.3%,100.0%,66.7%,0/0,59.0%,35.8%,7.5%,26.1%,43.3%,2/5,100,15,0,47,26,21,4,0:56
+25-Feb-2008,Memphis,3,Hard,R32,86,114,1,,,Chris Guccione,Robert Kendrick,7-6(6) 7-6(5),0.73,17.5%,3.1%,57.7%,82.1%,51.2%,7/7,48.8%,22.7%,17.3%,13.3%,36.7%,0/0,172,17,3,97,56,41,13,1:31
+18-Feb-2008,San Jose,3,Hard,R32,87,6,0,LL,1,Andy Roddick,Chris Guccione,6-3 6-7(3) 7-6(5),0.72,21.3%,2.1%,66.0%,83.9%,59.4%,1/2,47.0%,17.6%,9.9%,15.4%,23.1%,0/0,185,20,2,94,62,32,9,1:40
+18-Feb-2008,San Jose Q,3,Hard,Q3,87,236,0,1,,Benedikt Dorsch,Chris Guccione,6-7(2) 7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose Q,3,Hard,Q2,87,332,1,1,,Chris Guccione,Scott Oudsema,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose Q,3,Hard,Q1,87,277,1,1,,Chris Guccione,Noam Okun,6-4 3-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2008,Davis Cup G1 R1: TPE vs AUS,3,Hard,RR,86,108,1,,,Chris Guccione,Yen Hsun Lu,7-6(5) 6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Guangzhou CH,3,Hard,SF,89,216,0,1,5,Danai Udomchoke,Chris Guccione,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Guangzhou CH,3,Hard,QF,89,287,1,1,,Chris Guccione,Ti Chen,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Guangzhou CH,3,Hard,R16,89,217,1,1,,Chris Guccione,Alexander Kudryavtsev,6-1 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Guangzhou CH,3,Hard,R32,89,333,1,1,,Chris Guccione,Phillip King,6-7(4) 7-6(8) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open,5,Hard,R128,91,47,0,,,Hyung Taik Lee,Chris Guccione,7-6(6) 6-3 6-4,0.78,17.2%,2.2%,63.4%,78.0%,52.9%,7/9,46.7%,24.2%,7.7%,15.1%,36.8%,0/0,184,16,2,93,59,34,7,1:54
+7-Jan-2008,Sydney,3,Hard,F,125,35,0,WC,,Dmitry Tursunov,Chris Guccione,7-6(3) 7-6(4),1.28,23.1%,0.0%,60.0%,92.3%,69.2%,0/0,50.4%,21.6%,8.1%,11.6%,35.5%,0/0,139,15,0,65,39,26,6,1:23
+7-Jan-2008,Sydney,3,Hard,SF,125,32,1,WC,,Chris Guccione,Radek Stepanek,7-6(5) 3-6 6-4,0.96,14.4%,3.3%,66.7%,90.0%,43.3%,4/5,49.4%,24.4%,6.7%,19.2%,31.6%,1/3,180,13,3,90,60,30,6,2:58
+7-Jan-2008,Sydney,3,Hard,QF,125,14,1,WC,4,Chris Guccione,Tomas Berdych,4-6 7-6(6) 6-4,0.94,17.1%,4.5%,62.2%,76.8%,57.1%,6/7,50.5%,28.9%,7.2%,20.4%,39.5%,1/3,208,19,5,111,69,42,7,2:05
+7-Jan-2008,Sydney,3,Hard,R16,125,21,1,WC,6,Chris Guccione,Lleyton Hewitt,7-6(4) 7-6(2),1.14,28.7%,5.0%,56.3%,95.6%,51.4%,4/4,52.6%,27.0%,10.8%,15.0%,41.2%,0/0,154,23,4,80,45,35,8,1:37
+7-Jan-2008,Sydney,3,Hard,R32,125,138,1,WC,Q,Chris Guccione,Alberto Martin,7-6(6) 6-4,1.59,29.0%,4.8%,69.4%,90.7%,63.2%,1/1,54.8%,28.1%,3.1%,22.9%,34.5%,1/1,126,18,3,62,43,19,2,1:17
+31-Dec-2007,Adelaide,3,Hard,R16,91,25,0,WC,2,Paul Henri Mathieu,Chris Guccione,4-6 6-3 6-4,0.88,34.8%,2.9%,66.7%,80.4%,56.5%,1/3,46.9%,24.4%,11.5%,14.6%,35.1%,1/3,147,24,2,69,46,23,9,1:33
+31-Dec-2007,Adelaide,3,Hard,R32,91,126,1,WC,Q,Chris Guccione,Wayne Odesnik,7-5 7-6(5),1.22,31.9%,5.6%,55.6%,87.5%,65.6%,2/2,52.1%,27.0%,6.8%,27.9%,25.8%,1/5,146,23,4,72,40,32,5,1:26
+26-Nov-2007,Brisbane CH,3,Hard,QF,93,254,0,1,,Joseph Sirianni,Chris Guccione,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Nov-2007,Brisbane CH,3,Hard,R16,93,361,1,1,,Chris Guccione,Nicholas Monroe,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2007,Brisbane CH,3,Hard,R32,93,364,1,1,,Chris Guccione,Samuel Groth,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Kuala Lumpur CH,3,Carpet,SF,102,262,0,2,,Sergiy Stakhovsky,Chris Guccione,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Kuala Lumpur CH,3,Carpet,QF,102,127,1,2,5,Chris Guccione,Kristian Pless,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Kuala Lumpur CH,3,Carpet,R16,102,,1,2,Q,Chris Guccione,Alessandro Motti,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Kuala Lumpur CH,3,Carpet,R32,102,247,1,2,,Chris Guccione,Farrukh Dustov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Kaohsiung CH,3,Hard,R32,100,709,0,3,Q,Cecil Mamiit,Chris Guccione,3-6 7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Bogota CH,3,Clay,SF,107,213,0,1,,Marcos Daniel,Chris Guccione,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Bogota CH,3,Clay,QF,107,240,1,1,WC,Chris Guccione,Thomaz Bellucci,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Bogota CH,3,Clay,R16,107,202,1,1,,Chris Guccione,Leonardo Mayer,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Bogota CH,3,Clay,R32,107,407,1,1,,Chris Guccione,Giovanni Lapentti,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,SF,97,175,0,1,4,Santiago Giraldo,Chris Guccione,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,QF,97,393,1,1,Q,Chris Guccione,Nicolas Todero,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,R16,97,373,1,1,,Chris Guccione,Adam Vejmelka,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,R32,97,221,1,1,,Chris Guccione,Gabriel Trujillo Soler,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,F,92,218,0,1,8,Eduardo Schwank,Chris Guccione,7-5 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,SF,92,170,1,1,5,Chris Guccione,Brian Dabul,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,QF,92,188,1,1,7,Chris Guccione,Hugo Armando,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,R16,92,394,1,1,WC,Chris Guccione,Juan Sebastian Cabal,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,R32,92,403,1,1,Q,Chris Guccione,Nicolas Todero,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2007,Davis Cup WG PO: SRB vs AUS,3,Clay,RR,94,3,0,,,Novak Djokovic,Chris Guccione,6-3 7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Bucharest,3,Clay,R32,95,99,0,,,Ivan Navarro,Chris Guccione,6-4 7-6(4),0.86,8.1%,1.6%,67.7%,64.3%,60.0%,4/7,46.9%,31.8%,10.6%,29.1%,45.5%,2/4,128,5,1,62,42,20,7,1:22
+27-Aug-2007,US Open,5,Hard,R128,93,223,0,,WC,Donald Young,Chris Guccione,6-7(2) 6-3 6-2 6-3,0.70,6.3%,2.8%,64.3%,70.7%,39.2%,7/12,45.4%,28.6%,5.9%,15.3%,48.9%,0/2,262,9,4,143,92,51,7,2:28
+19-Aug-2007,New Haven Q,3,Hard,Q2,88,346,0,8,,Kevin Anderson,Chris Guccione,6-2 6-7(11) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Aug-2007,New Haven Q,3,Hard,Q1,88,580,1,8,,Chris Guccione,Frantisek Cermak,4-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,San Marino CH,3,Clay,R32,89,106,0,7,,Alessio Di Mauro,Chris Guccione,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Segovia CH,3,Hard,SF,90,42,0,3,1,Fernando Verdasco,Chris Guccione,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Segovia CH,3,Hard,QF,90,151,1,3,,Chris Guccione,Gilles Muller,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Segovia CH,3,Hard,R16,90,217,1,3,,Chris Guccione,Julien Jeanpierre,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Segovia CH,3,Hard,R32,90,227,1,3,,Chris Guccione,Sergiy Stakhovsky,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Kitzbuhel,3,Clay,R64,92,173,0,,Q,Christophe Rochus,Chris Guccione,7-6(6) 7-6(10),0.85,12.7%,6.4%,55.5%,77.0%,46.9%,6/7,48.1%,31.0%,5.0%,27.9%,37.5%,1/10,210,14,7,110,61,49,5,2:05
+16-Jul-2007,Los Angeles,3,Hard,R32,88,22,0,,3,Marat Safin,Chris Guccione,6-3 6-7(4) 7-6(2),0.92,9.6%,4.8%,54.8%,68.4%,59.6%,3/6,47.7%,32.8%,6.9%,25.7%,45.2%,2/9,220,10,5,104,57,47,8,2:05
+9-Jul-2007,Newport,3,Grass,R32,89,91,0,,8,Michael Berrer,Chris Guccione,6-4 7-6(5),0.67,19.8%,14.8%,54.3%,79.5%,43.2%,2/3,45.3%,24.6%,7.2%,9.5%,48.1%,0/3,150,16,12,81,44,37,5,1:27
+25-Jun-2007,Wimbledon,5,Grass,R64,96,4,0,,6,Nikolay Davydenko,Chris Guccione,3-6 5-7 7-6(5) 6-4 6-2,1.18,17.4%,3.8%,67.4%,83.1%,60.5%,5/9,51.3%,28.7%,4.9%,24.0%,38.3%,3/8,275,23,5,132,89,43,7,2:48
+25-Jun-2007,Wimbledon,5,Grass,R128,96,108,1,,WC,Chris Guccione,Alex Bogdanovic,7-6(2) 6-4 6-4,1.21,13.7%,2.0%,58.8%,75.0%,73.8%,5/5,53.6%,30.9%,13.8%,28.2%,39.1%,2/6,196,14,2,102,60,42,13,1:51
+18-Jun-2007,Nottingham Q,3,Grass,Q3,95,243,0,1,5,Jamie Baker,Chris Guccione,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Nottingham Q,3,Grass,Q2,95,1338,1,1,,Chris Guccione,Sean Thornley,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Nottingham Q,3,Grass,Q1,95,,1,1,WC,Chris Guccione,Thomas Knights,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Queen's Club,3,Grass,R32,98,43,0,,14,Arnaud Clement,Chris Guccione,6-4 6-4,0.79,21.0%,6.5%,61.3%,71.1%,50.0%,2/4,45.7%,29.2%,13.8%,19.5%,45.8%,0/4,127,13,4,62,38,24,9,1:19
+11-Jun-2007,Queen's Club,3,Grass,R64,98,97,1,,,Chris Guccione,Andreas Seppi,7-6(4) 6-4,1.06,15.1%,4.1%,53.4%,92.3%,38.2%,1/2,51.4%,34.8%,11.6%,27.9%,46.2%,2/3,142,11,3,73,39,34,8,1:20
+4-Jun-2007,Surbiton CH,3,Grass,SF,99,148,0,4,,Jo Wilfried Tsonga,Chris Guccione,5-7 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Surbiton CH,3,Grass,QF,99,189,1,4,,Chris Guccione,Richard Bloomfield,7-6(3) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Surbiton CH,3,Grass,R16,99,204,1,4,,Chris Guccione,George Bastl,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Surbiton CH,3,Grass,R32,99,225,1,4,,Chris Guccione,Joshua Goodall,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Roland Garros,5,Clay,R128,99,146,0,,Q,Konstantinos Economidis,Chris Guccione,6-7(6) 6-4 6-4 6-1,0.75,16.2%,4.3%,57.3%,71.6%,58.0%,6/10,45.2%,25.8%,8.9%,27.5%,22.7%,0/3,241,19,5,117,67,50,11,2:21
+7-May-2007,Rijeka CH,3,Clay,R32,103,408,0,1,,Benjamin Balleret,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Rome CH,3,Clay,R16,98,213,0,2,,Victor Crivoi,Chris Guccione,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Rome CH,3,Clay,R32,98,274,1,2,,Chris Guccione,Igor Sijsling,7-6(1) 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,San Luis Potosi CH,3,Clay,R16,98,524,0,1,Q,Diego Alvarez,Chris Guccione,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,San Luis Potosi CH,3,Clay,R32,98,,1,1,WC,Chris Guccione,Johnny Hamui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Mexico City1 CH,3,Clay,QF,103,145,0,2,,Ramon Delgado,Chris Guccione,6-7(7) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Mexico City1 CH,3,Clay,R16,103,169,1,2,,Chris Guccione,Paolo Lorenzi,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Mexico City1 CH,3,Clay,R32,103,303,1,2,Q,Chris Guccione,Jean Julien Rojer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Miami Masters,3,Hard,R128,103,64,0,Q,,Florent Serra,Chris Guccione,6-7(6) 7-6(8) 6-4,0.80,18.5%,2.5%,57.1%,83.8%,52.9%,3/4,48.9%,23.5%,5.9%,19.7%,30.6%,0/0,221,22,3,119,68,51,6,1:55
+19-Mar-2007,Miami Masters Q,3,Hard,Q2,103,95,1,13,7,Chris Guccione,Alejandro Falla,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Miami Masters Q,3,Hard,Q1,103,170,1,13,,Chris Guccione,Nathan Healey,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,QF,111,101,0,Q,,Ivo Karlovic,Chris Guccione,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,R16,111,42,1,Q,3,Chris Guccione,Marc Gicquel,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Sunrise CH,3,Hard,R32,111,82,1,Q,,Chris Guccione,Daniele Bracciali,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Indian Wells Masters,3,Hard,R128,111,92,0,Q,,Feliciano Lopez,Chris Guccione,6-2 7-6(6),0.74,20.5%,4.1%,49.3%,75.0%,54.1%,4/6,46.1%,26.5%,8.8%,22.5%,32.1%,0/0,141,15,3,73,36,37,6,1:26
+5-Mar-2007,Indian Wells Masters Q,3,Hard,Q2,111,199,1,15,,Chris Guccione,Jesse Witten,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Indian Wells Masters Q,3,Hard,Q1,111,147,1,15,,Chris Guccione,Zack Fleishman,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2007,Las Vegas Q,3,Hard,Q2,112,142,0,2,5,Wesley Moodie,Chris Guccione,7-5 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2007,Las Vegas Q,3,Hard,Q1,112,268,1,2,WC,Chris Guccione,Brian Wilson,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2007,Memphis,3,Hard,R32,109,90,0,WC,,Yen Hsun Lu,Chris Guccione,7-6(4) 6-3,0.62,17.7%,3.2%,58.1%,83.3%,50.0%,2/3,44.0%,19.0%,11.1%,13.2%,28.0%,0/1,125,11,2,62,36,26,7,1:16
+12-Feb-2007,Joplin CH,3,Hard,R32,109,317,0,2,,Brendan Evans,Chris Guccione,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup WG R1: BEL vs AUS,3,Clay,RR,109,34,0,,,Olivier Rochus,Chris Guccione,3-6 7-5 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup WG R1: BEL vs AUS,3,Clay,RR,109,41,0,,,Kristof Vliegen,Chris Guccione,6-4 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open,5,Hard,R128,106,39,0,WC,,Olivier Rochus,Chris Guccione,3-6 7-5 7-5 6-7(4) 9-7,0.75,21.8%,1.5%,63.6%,80.9%,42.7%,9/12,47.9%,24.7%,3.5%,14.8%,41.9%,1/11,376,45,3,206,131,75,6,3:57
+8-Jan-2007,Sydney,3,Hard,R16,107,40,0,WC,,Jurgen Melzer,Chris Guccione,7-6(3) 6-3,0.65,19.4%,3.2%,54.8%,70.6%,50.0%,1/4,43.4%,25.0%,1.7%,16.2%,39.1%,2/2,122,12,2,62,34,28,1,1:12
+8-Jan-2007,Sydney,3,Hard,R32,107,2,1,WC,1,Chris Guccione,Rafael Nadal,6-5 RET,2.00,33.3%,0.0%,66.7%,100.0%,66.7%,0/0,55.6%,22.2%,11.1%,23.5%,20.0%,0/2,54,9,0,27,18,9,3,0:39
+1-Jan-2007,Adelaide,3,Hard,F,153,16,0,WC,1,Novak Djokovic,Chris Guccione,6-3 6-7(6) 6-4,0.92,13.2%,4.7%,59.4%,76.2%,39.5%,6/10,47.8%,35.6%,3.4%,29.6%,44.7%,1/6,224,14,5,106,63,43,4,2:27
+1-Jan-2007,Adelaide,3,Hard,SF,153,92,1,WC,,Chris Guccione,Juan Martin Del Potro,5-7 6-3 7-5,1.04,18.4%,1.0%,61.2%,73.0%,60.0%,1/2,51.3%,33.3%,8.3%,26.2%,45.7%,2/6,199,19,1,103,63,40,8,2:03
+1-Jan-2007,Adelaide,3,Hard,QF,153,18,1,WC,2,Chris Guccione,Richard Gasquet,1-6 6-3 7-6(4),0.77,25.0%,2.3%,61.4%,75.9%,55.9%,3/5,47.6%,24.4%,5.1%,26.9%,19.2%,1/3,166,22,2,88,54,34,4,1:33
+1-Jan-2007,Adelaide,3,Hard,RR,153,58,1,WC,,Chris Guccione,Benjamin Becker,7-5 6-3,1.91,31.6%,0.0%,63.2%,86.1%,71.4%,0/0,57.4%,36.9%,9.2%,25.7%,50.0%,2/5,122,18,0,57,36,21,6,1:07
+1-Jan-2007,Adelaide,3,Hard,RR,153,42,1,WC,6,Chris Guccione,Arnaud Clement,7-6(4) 7-6(5),0.92,11.0%,4.0%,50.0%,80.0%,54.0%,10/11,50.5%,30.5%,7.3%,23.2%,46.2%,1/4,182,11,4,100,50,50,6,1:58
+13-Nov-2006,Caloundra CH,3,Hard,R16,147,487,0,4,Q,Johan Brunstrom,Chris Guccione,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Caloundra CH,3,Hard,R32,147,301,1,4,,Chris Guccione,Joseph Sirianni,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2006,Busan CH,3,Hard,R32,145,230,0,,,Teodor Dacian Craciun,Chris Guccione,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Seoul CH,3,Hard,R32,142,198,0,,,Go Soeda,Chris Guccione,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Bogota CH,3,Clay,QF,150,223,0,,,Daniel Koellerer,Chris Guccione,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Bogota CH,3,Clay,R16,150,113,1,,3,Chris Guccione,Fernando Vicente,7-6(3) 6-7(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Bogota CH,3,Clay,R32,150,192,1,,,Chris Guccione,Andre Ghem,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Medellin CH,3,Clay,F,156,192,1,6,,Chris Guccione,Santiago Giraldo,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Medellin CH,3,Clay,SF,156,297,1,6,Q,Chris Guccione,Jeremy Chardy,6-7(3) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Medellin CH,3,Clay,QF,156,242,1,6,,Chris Guccione,Daniel Koellerer,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Medellin CH,3,Clay,R16,156,283,1,6,,Chris Guccione,Horacio Zeballos,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Medellin CH,3,Clay,R32,156,940,1,6,WC,Chris Guccione,Alejandro Gonzalez,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Quito CH,3,Clay,F,186,514,1,4,WC,Chris Guccione,Guillermo Canas,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Quito CH,3,Clay,SF,186,208,1,4,8,Chris Guccione,Santiago Giraldo,6-7(4) 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Quito CH,3,Clay,QF,186,199,1,4,5,Chris Guccione,Nathan Healey,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Quito CH,3,Clay,R16,186,286,1,4,,Chris Guccione,Rogerio Dutra Silva,7-6(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Quito CH,3,Clay,R32,186,1122,1,4,Q,Chris Guccione,Bart Beks,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2006,Tulsa CH,3,Hard,R16,183,201,0,9,,Zack Fleishman,Chris Guccione,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2006,Tulsa CH,3,Hard,R32,183,536,1,9,WC,Chris Guccione,David Martin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2006,Lubbock CH,3,Hard,R16,182,133,0,,2,Amer Delic,Chris Guccione,7-6(5) 7-6(11),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2006,Lubbock CH,3,Hard,R32,182,183,1,,,Chris Guccione,Jesse Witten,6-3 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,New Orleans CH,3,Hard,R16,181,238,0,6,,Sam Warburg,Chris Guccione,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,New Orleans CH,3,Hard,R32,181,244,1,6,,Chris Guccione,Joshua Goodall,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Kranj CH,3,Clay,R16,185,443,0,6,,Alberto Brizzi,Chris Guccione,6-7(6) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Kranj CH,3,Clay,R32,185,,1,6,Q,Chris Guccione,Luka Ocvirk,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Geneva CH,3,Clay,F,220,174,0,,6,Jerome Haehnel,Chris Guccione,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Geneva CH,3,Clay,SF,220,173,1,,8,Chris Guccione,Razvan Sabau,3-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Geneva CH,3,Clay,QF,220,126,1,,1,Chris Guccione,Carlos Berlocq,1-6 7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Geneva CH,3,Clay,R16,220,298,1,,,Chris Guccione,Jose Antonio Sanchez De Luna,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Geneva CH,3,Clay,R32,220,157,1,,7,Chris Guccione,Tomas Behrend,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Graz CH,3,Hard,R32,220,131,0,,3,Cyril Saulnier,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Vigo CH,3,Clay,R32,217,287,0,,,Michal Mertinak,Chris Guccione,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Segovia CH,3,Hard,QF,238,116,0,Q,6,Nicolas Lapentti,Chris Guccione,7-5 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Segovia CH,3,Hard,R16,238,176,1,Q,,Chris Guccione,Lars Burgsmuller,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Segovia CH,3,Hard,R32,238,167,1,Q,,Chris Guccione,Michael Llodra,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Nottingham CH,3,Grass,R32,239,258,0,,8,Arvind Parmar,Chris Guccione,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,SF,265,368,0,5,,Joshua Goodall,Chris Guccione,6-7(6) 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,QF,265,497,1,5,,Chris Guccione,Lovro Zovko,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,R16,265,570,1,5,WC,Chris Guccione,Jonathan Marray,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,R32,265,505,1,5,,Chris Guccione,Federico Torresi,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Dublin CH,3,Carpet,R16,258,367,0,8,,Alan Mackin,Chris Guccione,7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Dublin CH,3,Carpet,R32,258,294,1,8,,Chris Guccione,Oh Hee Kwon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Surbiton CH,3,Grass,R32,187,99,0,,4,Mardy Fish,Chris Guccione,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-May-2006,Dresden CH,3,Clay,R32,189,207,0,,,Nicolas Thomann,Chris Guccione,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,SF,199,112,0,6,1,Oliver Marach,Chris Guccione,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,QF,199,212,1,6,4,Chris Guccione,Stefano Galvani,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,R16,199,425,1,6,Q,Chris Guccione,Lazar Magdincev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,R32,199,264,1,6,,Chris Guccione,Amir Hadad,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2006,Davis Cup WG QF: AUS vs BLR,3,Hard,RR,168,51,1,,,Chris Guccione,Max Mirnyi,7-6(4) 3-6 7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2006,Davis Cup WG QF: AUS vs BLR,3,Hard,RR,168,,1,,,Chris Guccione,Alexandr Zotov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Sunrise CH,3,Hard,R32,,59,0,Q,4,Ivo Karlovic,Chris Guccione,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Besancon CH,3,Hard,R16,166,123,0,,8,Stefan Koubek,Chris Guccione,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Besancon CH,3,Hard,R32,166,219,1,,LL,Chris Guccione,Uros Vico,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Belgrade CH,3,Carpet,R32,167,190,0,,Q,Federico Luzzi,Chris Guccione,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+10-Feb-2006,Davis Cup WG R1: SUI vs AUS,3,Clay,RR,150,51,0,,,Stanislas Wawrinka,Chris Guccione,7-5 3-6 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Feb-2006,Davis Cup WG R1: SUI vs AUS,3,Clay,RR,150,137,1,,,Chris Guccione,George Bastl,7-5 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,Australian Open,5,Hard,R128,148,8,0,WC,7,Ivan Ljubicic,Chris Guccione,7-6(5) 6-4 7-6(3),0.70,19.5%,4.2%,61.0%,81.9%,45.7%,8/10,46.8%,22.5%,12.7%,15.6%,34.2%,1/3,220,23,5,118,72,46,13,2:06
+9-Jan-2006,Sydney,3,Hard,R16,154,60,0,WC,Q,Andreas Seppi,Chris Guccione,7-5 7-6(2),0.65,16.5%,5.5%,60.4%,69.1%,41.7%,10/13,44.7%,27.1%,7.1%,18.4%,37.5%,2/6,161,15,5,91,55,36,5,1:23
+9-Jan-2006,Sydney,3,Hard,R32,154,18,1,WC,5,Chris Guccione,Juan Carlos Ferrero,4-6 6-3 7-5,1.18,32.9%,4.9%,57.3%,93.6%,51.4%,0/1,52.5%,28.7%,7.5%,20.0%,43.3%,2/3,162,27,4,82,47,35,6,1:37
+2-Jan-2006,Adelaide,3,Hard,R32,156,86,0,WC,,Philipp Kohlschreiber,Chris Guccione,6-4 6-3,0.56,16.7%,6.0%,58.3%,61.2%,40.0%,12/16,42.9%,26.5%,8.2%,21.4%,33.3%,1/3,133,14,5,84,49,35,4,1:16
+14-Nov-2005,Champaign CH,3,Hard,SF,162,112,0,7,2,Justin Gimelstob,Chris Guccione,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Champaign CH,3,Hard,QF,162,406,1,7,WC,Chris Guccione,Eric Nunez,7-6(3) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Champaign CH,3,Hard,R16,162,460,1,7,WC,Chris Guccione,Scott Oudsema,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Champaign CH,3,Hard,R32,162,482,1,7,WC,Chris Guccione,Brian Wilson,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Nashville CH,3,Hard,R32,158,161,0,8,,Kristian Pless,Chris Guccione,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Boston CH,3,Hard,R16,158,114,0,,5,Ramon Delgado,Chris Guccione,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Boston CH,3,Hard,R32,158,264,1,,,Chris Guccione,Jean Julien Rojer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,Carson CH,3,Hard,QF,163,106,0,5,1,Justin Gimelstob,Chris Guccione,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,Carson CH,3,Hard,R16,163,317,1,5,WC,Chris Guccione,Wayne Odesnik,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,Carson CH,3,Hard,R32,163,240,1,5,,Chris Guccione,Eric Taino,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2005,Calabasas CH,3,Hard,R32,161,237,0,7,Q,Harel Levy,Chris Guccione,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Sacramento CH,3,Hard,R16,164,482,0,6,Q,Phillip Simmonds,Chris Guccione,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Sacramento CH,3,Hard,R32,164,530,1,6,WC,Chris Guccione,Sam Warburg,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Tulsa CH,3,Hard,QF,181,153,0,9,4,Jeff Morrison,Chris Guccione,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Tulsa CH,3,Hard,R16,181,241,1,9,,Chris Guccione,Diego Hartfield,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Tulsa CH,3,Hard,R32,181,225,1,9,,Chris Guccione,Filip Prpic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2005,Lubbock CH,3,Hard,R32,184,294,0,8,WC,Scoville Jenkins,Chris Guccione,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Bronx CH,3,Hard,R16,180,100,0,,1,Lukas Dlouhy,Chris Guccione,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Bronx CH,3,Hard,R32,180,216,1,,,Chris Guccione,Dusan Vemic,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Binghamton CH,3,Hard,R32,175,368,0,4,WC,Todd Widom,Chris Guccione,6-4 6-7(7) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Vancouver CH,3,Hard,R32,171,218,0,7,,Glenn Weiner,Chris Guccione,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2005,Queen's Club,3,Grass,R16,188,9,0,Q,3,Tim Henman,Chris Guccione,6-7(4) 6-2 6-2,0.58,15.2%,2.2%,62.0%,75.4%,42.9%,0/4,43.6%,21.3%,6.3%,16.4%,32.0%,0/3,172,14,2,92,57,35,5,1:39
+6-Jun-2005,Queen's Club,3,Grass,R32,188,42,1,Q,13,Chris Guccione,Igor Andreev,6-4 6-4,2.60,23.9%,4.3%,65.2%,86.7%,87.5%,0/0,56.5%,33.9%,9.7%,30.6%,38.5%,2/6,108,11,2,46,30,16,6,0:56
+6-Jun-2005,Queen's Club,3,Grass,R64,188,122,1,Q,,Chris Guccione,Kristof Vliegen,7-6(2) 3-6 6-4,1.35,25.0%,3.8%,65.0%,88.5%,50.0%,0/1,51.1%,33.6%,5.5%,26.7%,48.6%,1/12,190,20,3,80,52,28,6,1:49
+23-May-2005,Roland Garros,5,Clay,R64,217,67,0,Q,,Paul Henri Mathieu,Chris Guccione,6-3 6-4 6-4,0.77,12.8%,4.7%,51.2%,70.5%,47.6%,4/8,44.5%,31.3%,3.1%,22.6%,47.1%,1/13,182,11,4,86,44,42,3,1:57
+23-May-2005,Roland Garros,5,Clay,R128,217,109,1,Q,,Chris Guccione,Santiago Ventura,6-3 2-6 6-1 3-6 6-2,1.14,4.1%,6.6%,50.4%,68.9%,55.0%,4/9,52.2%,43.3%,4.5%,26.7%,64.4%,7/17,255,5,8,121,61,60,6,2:33
+4-Apr-2005,Canberra CH,3,Clay,F,276,384,1,4,,Chris Guccione,Lars Uebel,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,SF,276,253,1,4,2,Chris Guccione,Werner Eschauer,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,QF,276,299,1,4,7,Chris Guccione,Paul Logtens,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,R16,276,,1,4,Q,Chris Guccione,Alun Jones,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,R32,276,,1,4,WC,Chris Guccione,Clint Thomson,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2005,Australia F4,3,Clay,R32,,,0,3,,Robert Smeets,Chris Guccione,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2005,Australia F3,3,Clay,QF,279,1466,0,3,WC,Patrick Jozwik,Chris Guccione,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2005,Australia F3,3,Clay,R16,279,1205,1,3,Q,Chris Guccione,Marinko Matosevic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2005,Australia F3,3,Clay,R32,279,414,1,3,,Chris Guccione,Jaymon Crabb,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2005,Ho Chi Minh CH,3,Hard,R32,277,238,0,,,Simon Greul,Chris Guccione,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Mar-2005,Kyoto CH,3,Carpet,R32,277,454,0,,Q,Kyu Tae Im,Chris Guccione,6-3 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2005,Davis Cup WG R1: AUS vs AUT,3,Grass,RR,280,144,1,,,Chris Guccione,Alexander Peya,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,Australia F1,3,Hard,SF,286,219,0,6,1,Todd Reid,Chris Guccione,4-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,Australia F1,3,Hard,QF,286,313,1,6,4,Chris Guccione,Ivo Klec,7-6(4) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,Australia F1,3,Hard,R16,286,445,1,6,,Chris Guccione,Domenic Marafiote,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,Australia F1,3,Hard,R32,286,837,1,6,,Chris Guccione,Febi Widhiyanto,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,F,367,251,1,,2,Chris Guccione,Gouichi Motomura,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,SF,367,375,1,,,Chris Guccione,John Paul Fruttero,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,QF,367,955,1,,WC,Chris Guccione,Joel Kerley,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,R16,367,303,1,,6,Chris Guccione,Ti Chen,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,R32,367,448,1,,,Chris Guccione,Domenic Marafiote,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Waikoloa CH,3,Hard,R32,302,282,0,,,Eric Taino,Chris Guccione,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,R128,302,12,0,WC,12,Guillermo Canas,Chris Guccione,6-4 6-2 7-6(4),0.71,13.9%,7.0%,54.8%,68.3%,44.2%,12/16,44.5%,30.1%,6.8%,19.7%,53.1%,1/7,218,16,8,115,63,52,7,2:02
+22-Nov-2004,Australia F4,3,Grass,R16,297,1447,0,1,WC,Andrew Coelho,Chris Guccione,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Nov-2004,Australia F4,3,Grass,R32,297,1208,1,1,Q,Chris Guccione,Goran Kovacevic,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Australia F3,3,Grass,F,294,471,1,1,,Chris Guccione,Robert Smeets,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Australia F3,3,Grass,SF,294,453,1,1,8,Chris Guccione,Adam Feeney,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Australia F3,3,Grass,QF,294,380,1,1,5,Chris Guccione,Jaymon Crabb,6-3 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Australia F3,3,Grass,R16,294,477,1,1,,Chris Guccione,Mark Hlawaty,4-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Australia F3,3,Grass,R32,294,887,1,1,,Chris Guccione,Jay Salter,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Nov-2004,Caloundra CH,3,Hard,R16,292,746,0,4,Q,Chris Letcher,Chris Guccione,7-6(3) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2004,Caloundra CH,3,Hard,R32,292,483,1,4,,Chris Guccione,Go Soeda,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,Australia 2 Satellite 4,3,Hard,R32,275,712,0,1,,Adam Feeney,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,R32,293,74,0,,1,Hyung Taik Lee,Chris Guccione,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Binghamton CH,3,Hard,R16,298,184,0,,,Arvind Parmar,Chris Guccione,7-6(2) 6-7(11) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Binghamton CH,3,Hard,R32,298,210,1,,,Chris Guccione,Eric Taino,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2004,Denver CH,3,Hard,R32,294,288,0,,Q,Marcus Sarstrand,Chris Guccione,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,R32,297,287,0,,,Zack Fleishman,Chris Guccione,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,Aptos CH,3,Hard,R32,284,192,0,,5,Eric Taino,Chris Guccione,7-6(5) 4-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,Manchester CH,3,Grass,R32,286,188,0,,4,Michal Mertinak,Chris Guccione,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Jul-2004,Nottingham CH,3,Grass,R32,260,312,0,,7,Paul Baccanello,Chris Guccione,6-7(5) 7-6(4) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Andorra CH,3,Hard,SF,300,196,0,,8,Kevin Kim,Chris Guccione,7-6(5) 6-7(2) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Andorra CH,3,Hard,QF,300,180,1,,5,Chris Guccione,Tomas Cakl,7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Andorra CH,3,Hard,R16,300,130,1,,1,Chris Guccione,Harel Levy,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Andorra CH,3,Hard,R32,300,,1,,WC,Chris Guccione,Nicolai Horgen,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-May-2004,Fergana CH,3,Hard,R16,313,434,0,4,,Kirill Ivanov Smolensky,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2004,Fergana CH,3,Hard,R32,313,389,1,4,,Chris Guccione,Jean Julien Rojer,7-6(9) 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2004,Canberra CH,3,Clay,R32,319,107,0,,1,Wayne Arthurs,Chris Guccione,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Mar-2004,Tasmania CH,3,Hard,R32,319,114,0,WC,1,Paul Goldstein,Chris Guccione,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Australia F2,3,Hard,QF,,,0,,Q,Joseph Sirianni,Chris Guccione,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Australia F2,3,Hard,R16,,,1,,5,Chris Guccione,Dieter Kindlmann,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Australia F2,3,Hard,R32,,,1,,Q,Chris Guccione,Daniel Klemetz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2004,Australia F1,3,Hard,R16,316,478,0,,Q,Andrew Derer,Chris Guccione,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2004,Australia F1,3,Hard,R32,316,674,1,,Q,Chris Guccione,Luka Gregorc,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2004,Australia 1 3,3,Hard,R16,300,597,0,1,,Marc Kimmich,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2004,Australia 1 3,3,Hard,R32,300,513,1,1,,Chris Guccione,Vadim Davletshin,6-1 5-7 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Feb-2004,Australia 1 4,3,Hard,R32,300,586,0,4,,Mischa Zverev,Chris Guccione,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Jan-2004,Australian Open,5,Hard,R64,395,33,0,WC,32,Robby Ginepri,Chris Guccione,6-4 6-3 6-3,0.46,13.9%,3.8%,62.0%,77.6%,36.7%,4/8,41.5%,17.6%,16.2%,11.1%,30.4%,0/0,147,11,3,79,49,30,11,1:11
+19-Jan-2004,Australian Open,5,Hard,R128,395,276,1,WC,WC,Chris Guccione,Alun Jones,6-3 7-6(3) 6-2,1.27,10.5%,3.8%,53.3%,80.4%,55.1%,4/5,55.0%,40.0%,5.3%,30.4%,53.8%,4/14,200,11,4,105,56,49,5,1:47
+12-Jan-2004,Sydney,3,Hard,R16,447,32,0,WC,,Wayne Ferreira,Chris Guccione,7-6(4) 7-5,1.00,10.1%,4.3%,50.7%,82.9%,61.8%,2/3,48.3%,27.5%,3.8%,20.8%,37.5%,0/6,149,7,3,69,35,34,3,1:19
+12-Jan-2004,Sydney,3,Hard,R32,447,3,1,WC,1,Chris Guccione,Juan Carlos Ferrero,6-3 7-6(6),1.50,31.7%,3.3%,56.7%,97.1%,61.5%,3/3,55.1%,27.6%,12.1%,18.9%,42.9%,1/2,118,19,2,60,34,26,7,1:05
+29-Dec-2003,New Caledonia CH,3,Hard,R16,462,203,0,WC,7,Peter Wessels,Chris Guccione,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Dec-2003,New Caledonia CH,3,Hard,R32,462,983,1,WC,WC,Chris Guccione,Michael Staniak,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2003,Australia F5,3,Grass,QF,459,724,0,7,,Luke Smith,Chris Guccione,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Nov-2003,Australia F5,3,Grass,R16,459,743,1,7,,Chris Guccione,Brad Weston,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2003,Australia F5,3,Grass,R32,459,732,1,7,,Chris Guccione,Robert Smeets,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2003,Australia F4,3,Clay,R32,459,252,0,,3,Alun Jones,Chris Guccione,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Australia F3,3,Clay,R16,459,261,0,,4,Todd Reid,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Australia F3,3,Clay,R32,459,,1,,Q,Chris Guccione,Evan Oneil,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 1,3,Hard,F,480,686,1,,2,Chris Guccione,Raphael Durek,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 1,3,Hard,SF,480,1428,1,,1,Chris Guccione,Marc Kimmich,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 1,3,Hard,QF,480,815,1,,,Chris Guccione,Nathan Healey,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 1,3,Hard,R16,480,946,1,,Q,Chris Guccione,Colin Ebelthite,6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 2,3,Hard,R16,480,1428,0,3,,Vince Mellino,Chris Guccione,6-3 3-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 3,3,Hard,R16,480,734,0,5,,Sadik Kadir,Chris Guccione,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 4,3,Hard,R16,480,715,0,5,WC,Robert Smeets,Chris Guccione,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 1,3,Hard,R32,480,789,1,,4,Chris Guccione,Bernard Parun,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 3,3,Hard,R32,480,,1,5,Q,Chris Guccione,Christopher Roman,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Australia 2 4,3,Hard,R32,480,718,1,5,,Chris Guccione,Andreas Beck,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,Indianapolis,3,Hard,R32,528,40,0,WC,6,Mardy Fish,Chris Guccione,7-5 6-7(5) 6-4,0.99,19.4%,7.8%,57.3%,83.1%,47.7%,4/7,49.8%,31.7%,14.4%,21.1%,54.5%,1/3,207,20,8,103,59,44,15,1:54
+21-Jul-2003,Indianapolis,3,Hard,R64,528,145,1,WC,,Chris Guccione,Cecil Mamiit,6-1 6-3,1.72,26.5%,0.0%,61.2%,86.7%,47.4%,5/5,59.8%,49.1%,0.0%,32.4%,78.9%,4/6,102,13,0,49,30,19,0,0:54
+7-Jul-2003,Newport,3,Grass,R16,655,127,0,WC,,Gregory Carraz,Chris Guccione,6-7(5) 7-6(5) 6-4,0.82,21.2%,6.7%,60.6%,84.1%,61.0%,3/4,48.1%,20.6%,14.7%,13.0%,36.4%,0/1,206,22,7,104,63,41,15,1:52
+7-Jul-2003,Newport,3,Grass,R32,655,143,1,WC,,Chris Guccione,Stefano Pescosolido,7-6(2) 7-6(4),0.97,19.1%,7.9%,59.6%,79.2%,50.0%,6/8,50.9%,31.6%,10.5%,20.0%,48.4%,2/2,165,17,7,89,53,36,8,1:23
+26-May-2003,Germany F5,3,Clay,R16,659,324,0,Q,,Michael Lammer,Chris Guccione,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Germany F5,3,Clay,R32,659,281,1,Q,8,Chris Guccione,Mike Scheidweiler,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2003,Germany F4,3,Clay,R32,662,270,0,Q,5,Ota Fukarek,Chris Guccione,7-6(4) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Australia F2,3,Hard,R32,665,633,0,WC,,Domenic Marafiote,Chris Guccione,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Mar-2003,Australia F1,3,Hard,R32,,,0,WC,,Massimo Dellacqua,Chris Guccione,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2003,Tasmania CH,3,Hard,R32,689,409,0,Q,WC,Adam Kennedy,Chris Guccione,7-6(0) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 1,3,Hard,SF,806,328,0,,1,Paul Baccanello,Chris Guccione,7-6(12) 6-7(9) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 1,3,Hard,QF,806,426,1,,4,Chris Guccione,Luke Bourgeois,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 1,3,Hard,R16,806,907,1,,WC,Chris Guccione,Robert Smeets,2-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,R16,806,465,0,,5,Wesley Whitehouse,Chris Guccione,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 3,3,Hard,R16,806,426,0,WC,5,Luke Bourgeois,Chris Guccione,7-6(5) 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 4,3,Hard,R16,806,328,0,WC,3,Paul Baccanello,Chris Guccione,7-6(5) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 1,3,Hard,R32,806,1188,1,,Q,Chris Guccione,Matthew Yeates,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,R32,806,668,1,,,Chris Guccione,Morgan Wilson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 3,3,Hard,R32,806,714,1,WC,Q,Chris Guccione,Yu Jr Wang,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 4,3,Hard,R32,806,676,1,WC,,Chris Guccione,Shannon Nettle,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Nov-2002,Australia F6,3,Grass,R32,882,372,0,,6,Paul Baccanello,Chris Guccione,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2002,Australia F5,3,Grass,QF,882,589,0,,,Ryan Henry,Chris Guccione,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2002,Australia F5,3,Grass,R16,882,552,1,,,Chris Guccione,Luke Smith,6-3 6-7(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2002,Australia F5,3,Grass,R32,882,998,1,,Q,Chris Guccione,Mark Hlawaty,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2002,Australia F3,3,Clay,R32,880,788,0,WC,,Paul Hanley,Chris Guccione,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 1,3,Hard,QF,1394,437,0,7,,Dejan Petrovic,Chris Guccione,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 3,3,Hard,QF,1394,762,0,WC,,Morgan Wilson,Chris Guccione,7-6(8) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 1,3,Hard,R16,1394,,1,7,,Chris Guccione,Colin Ebelthite,6-7(1) 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 2,3,Hard,R16,1394,734,0,8,,Jay Gooding,Chris Guccione,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 3,3,Hard,R16,1394,958,1,WC,,Chris Guccione,Shannon Nettle,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 4,3,Hard,R16,1394,555,0,WC,7,Simon Stadler,Chris Guccione,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 1,3,Hard,R32,1394,1011,1,7,LL,Chris Guccione,Rob Cheyne,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 3,3,Hard,R32,1394,,1,WC,WC,Chris Guccione,Mark Van Elden,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2002,Australia 2 4,3,Hard,R32,1394,1320,1,WC,Q,Chris Guccione,Matt Daly,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2002,Gosford CH,3,Hard,R32,,428,0,WC,Q,James Auckland,Chris Guccione,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2002,Australia 1 4,3,Hard,R32,,550,0,WC,,Lauri Kiiski,Chris Guccione,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2001,Australia F6,3,Grass,R32,,910,0,WC,Q,David Hodge,Chris Guccione,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2001,Australia F5,3,Grass,R32,,920,0,WC,,James Shortall,Chris Guccione,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2001,Australia 2 1,3,Hard,R32,,1377,0,WC,,David Hodge,Chris Guccione,6-7(5) 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2001,Australia 2 3,3,Hard,R32,,215,0,WC,1,Todd Larkham,Chris Guccione,6-3 6-4,,,,,,,,,,,,,,,,,,,,,

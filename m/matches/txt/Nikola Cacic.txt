@@ -1,0 +1,432 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+12-Aug-2019,Cordenons CH,3,Clay,Q1,1330,388,0,,1,Evgeny Tyurnev,Nikola Cacic,6-3 6-4,0.50,1.4%,1.4%,69.4%,66.0%,45.5%,6/8,43.4%,20.0%,10.0%,10.3%,33.3%,0/0,122,1,1,72,50,22,5,1:23
+5-Aug-2019,Manerbio CH,3,Clay,R32,1332,514,0,LL,,Zsombor Piros,Nikola Cacic,2-6 6-4 6-4,0.95,5.1%,0.0%,63.3%,70.0%,65.5%,2/4,49.1%,30.0%,3.8%,23.6%,44.0%,2/4,159,4,0,79,50,29,3,1:45
+5-Aug-2019,Manerbio CH,3,Clay,Q1,1332,548,0,,2,Fabien Reboul,Nikola Cacic,6-1 6-2,0.18,3.4%,5.1%,57.6%,52.9%,40.0%,3/8,34.4%,9.7%,9.7%,8.0%,16.7%,0/0,90,2,3,59,34,25,3,1:00
+29-Jul-2019,Liberec CH,3,Clay,Q1,601,534,0,,2,Pavel Nejedly,Nikola Cacic,6-1 6-4,0.71,0.0%,3.2%,60.3%,52.6%,24.0%,8/15,41.4%,41.5%,0.0%,45.2%,36.4%,3/10,116,0,2,63,38,25,0,1:17
+1-Jul-2019,Recanati CH,3,Hard,R32,,151,0,Q,9,Ramkumar Ramanathan,Nikola Cacic,6-3 6-3,0.57,1.6%,7.9%,58.7%,62.2%,38.5%,12/16,42.1%,27.3%,25.0%,9.1%,45.5%,1/1,107,1,5,63,37,26,11,1:05
+1-Jul-2019,Recanati CH,3,Hard,R64,,373,1,Q,ITF,Nikola Cacic,Arthur Rinderknech,6-4 6-3,1.25,17.9%,3.6%,64.3%,75.0%,75.0%,1/1,54.2%,31.4%,13.7%,28.9%,38.5%,2/4,107,10,2,56,36,20,7,1:04
+1-Jul-2019,Recanati CH,3,Hard,Q1,,,1,1,,Nikola Cacic,Sergio Martos Gornes,6-3 6-1,1.84,10.9%,8.7%,52.2%,87.5%,50.0%,2/3,62.5%,56.0%,10.0%,40.7%,73.9%,5/5,96,5,4,46,24,22,5,0:55
+12-Nov-2018,Champaign CH,3,Hard,Q3,689,479,0,6,1,Mikael Torpegaard,Nikola Cacic,7-5 7-5,0.54,3.6%,6.0%,60.2%,74.0%,42.4%,4/6,43.8%,20.6%,12.7%,11.1%,33.3%,0/1,146,3,5,83,50,33,8,1:21
+12-Nov-2018,Champaign CH,3,Hard,Q2,689,1567,1,6,,Nikola Cacic,Aleksandar Kovacevic,7-5 6-2,2.74,16.3%,8.2%,57.1%,96.4%,66.7%,3/3,61.2%,44.8%,6.0%,27.0%,66.7%,3/6,116,8,4,49,28,21,4,0:59
+8-Oct-2018,Barcelona CH,3,Clay,Q1,626,341,0,,5,Jordi Samper Montana,Nikola Cacic,6-1 6-1,0.49,0.0%,14.6%,58.5%,54.2%,23.5%,2/7,34.9%,28.6%,0.0%,22.2%,40.0%,0/0,83,0,6,41,24,17,0,0:53
+10-Sep-2018,Banja Luka CH,3,Clay,Q1,629,648,0,,,Marko Tepavac,Nikola Cacic,6-2 7-5,0.63,4.9%,2.5%,55.6%,62.2%,50.0%,7/10,44.3%,27.1%,16.9%,17.9%,45.0%,0/3,140,4,2,81,45,36,10,1:20
+3-Sep-2018,Sevilla CH,3,Hard,Q1,626,488,0,,,Ronald Slobodchikov,Nikola Cacic,6-2 7-6(4),0.73,3.1%,1.6%,71.9%,63.0%,55.6%,5/8,44.9%,28.6%,3.2%,23.7%,36.0%,1/2,127,2,1,64,46,18,2,1:28
+27-Aug-2018,Mallorca CH,3,Hard,Q1,626,507,0,,,Tim Van Rijthoven,Nikola Cacic,7-5 6-4,0.80,3.1%,3.1%,64.6%,78.6%,39.1%,2/4,46.2%,28.4%,10.4%,17.6%,62.5%,0/3,132,2,2,65,42,23,7,1:21
+13-Aug-2018,Cordenons CH,3,Clay,Q1,627,606,0,,,Artem Dubrivnyy,Nikola Cacic,6-4 3-6 7-5,0.76,2.6%,4.3%,61.7%,69.0%,45.5%,9/13,47.9%,30.4%,5.1%,23.4%,40.6%,3/5,194,3,5,115,71,44,4,2:14
+6-Aug-2018,Portoroz CH,3,Hard,Q2,628,304,0,,1,Christopher Heyman,Nikola Cacic,6-1 5-7 6-4,0.79,4.8%,4.8%,57.8%,60.4%,68.6%,4/7,46.1%,28.6%,6.0%,26.4%,32.3%,1/2,167,4,4,83,48,35,5,1:59
+6-Aug-2018,Portoroz CH,3,Hard,Q1,628,773,1,,,Nikola Cacic,Ljubomir Celebic,7-5 6-1,1.52,12.9%,4.8%,59.7%,78.4%,52.0%,4/5,59.1%,49.1%,0.0%,37.0%,61.5%,4/7,115,8,3,62,37,25,0,1:14
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q2,592,522,0,,,Gregoire Jacq,Nikola Cacic,6-2 7-6(5),0.76,2.5%,2.5%,62.5%,72.0%,26.7%,9/12,44.9%,34.2%,1.3%,26.9%,50.0%,1/5,156,2,2,80,50,30,1,1:41
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q1,592,817,1,,WC,Nikola Cacic,Andrea Guerrieri,6-3 6-2,1.54,7.4%,1.9%,74.1%,82.5%,35.7%,2/2,59.0%,45.7%,2.2%,37.5%,64.3%,3/5,100,4,1,54,40,14,1,1:05
+9-Jul-2018,Perugia CH,3,Clay,Q2,597,589,0,,,Agustin Velotti,Nikola Cacic,6-1 6-3,0.55,2.0%,4.0%,62.0%,58.1%,36.8%,2/6,38.6%,27.5%,5.9%,21.6%,42.9%,0/5,101,1,2,50,31,19,3,1:05
+2-Jul-2018,Recanati CH,3,Hard,Q1,597,372,0,,,Zhizhen Zhang,Nikola Cacic,6-7(5) 6-3 6-4,0.87,9.6%,1.1%,71.3%,71.6%,48.1%,4/7,47.6%,30.5%,9.5%,21.1%,44.7%,1/3,189,9,1,94,67,27,9,2:00
+11-Jun-2018,Almaty CH,3,Clay,Q1,534,335,0,,8,Renta Tokuda,Nikola Cacic,7-6(2) 6-4,0.64,2.5%,5.1%,53.2%,66.7%,54.1%,11/13,45.3%,25.0%,5.0%,14.6%,47.4%,1/2,139,2,4,79,42,37,3,1:22
+4-Jun-2018,Shymkent CH,3,Clay,Q3,529,456,0,,,Jurij Rodionov,Nikola Cacic,7-6(3) 6-7(6) 7-6(9),0.97,3.5%,2.1%,54.2%,72.7%,58.5%,10/12,50.4%,32.8%,7.8%,27.9%,42.9%,2/4,270,5,3,142,77,65,10,2:51
+4-Jun-2018,Shymkent CH,3,Clay,Q2,529,321,1,,6,Nikola Cacic,Joao Menezes,6-4 7-6(2),1.12,2.2%,6.7%,61.1%,74.5%,37.1%,7/9,53.5%,44.9%,4.3%,40.5%,51.9%,3/5,159,2,6,90,55,35,3,1:51
+4-Jun-2018,Shymkent CH,3,Clay,Q1,529,,1,,WC,Nikola Cacic,Marko Djokovic,7-5 6-4,1.50,6.7%,8.3%,46.7%,82.1%,65.6%,4/5,56.0%,40.0%,6.2%,23.1%,51.3%,3/6,125,4,5,60,28,32,4,1:16
+14-May-2018,Samarkand CH,3,Clay,Q2,496,387,0,,2,Roman Safiullin,Nikola Cacic,6-3 7-5,0.65,2.9%,5.9%,60.3%,68.3%,37.0%,5/9,44.2%,28.8%,5.8%,18.2%,47.4%,1/1,120,2,4,68,41,27,3,1:18
+14-May-2018,Samarkand CH,3,Clay,Q1,496,757,1,,,Nikola Cacic,Denis Matsukevitch,7-5 7-6(4),1.15,5.4%,0.0%,68.9%,76.5%,47.8%,1/3,52.8%,37.1%,2.9%,34.7%,42.9%,3/4,144,4,0,74,51,23,2,1:30
+7-May-2018,Karshi CH,3,Hard,Q3,500,395,0,6,1,Tristan Lamasine,Nikola Cacic,6-4 6-1,0.58,6.1%,2.0%,55.1%,48.1%,59.1%,2/6,40.0%,27.5%,7.8%,10.0%,52.4%,0/2,100,3,1,49,27,22,4,1:00
+7-May-2018,Karshi CH,3,Hard,Q2,500,,1,6,WC,Nikola Cacic,Olimjon Nabiev,6-3 6-2,1.46,6.7%,5.0%,75.0%,71.1%,46.7%,5/6,58.9%,51.1%,6.4%,31.8%,68.0%,4/9,107,4,3,60,45,15,3,0:51
+7-May-2018,Karshi CH,3,Hard,Q1,500,1562,1,6,,Nikola Cacic,Alexander Pavlioutchenkov,7-6(9) 6-2,2.03,12.1%,0.0%,69.0%,82.5%,77.8%,0/0,56.6%,38.5%,7.7%,25.5%,58.1%,2/7,136,7,0,58,40,18,6,1:20
+23-Apr-2018,Uzbekistan F2,3,Hard,R16,467,366,0,,,Evgeny Tyurnev,Nikola Cacic,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Uzbekistan F2,3,Hard,R32,467,466,1,,,Nikola Cacic,N Vijay Sundar Prashanth,7-6(6) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Uzbekistan F1,3,Hard,R32,466,889,0,,,Vadym Ursu,Nikola Cacic,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,St.Brieuc CH,3,Hard,Q1,462,394,0,,,Daniel Masur,Nikola Cacic,6-7(5) 6-4 6-4,0.73,5.2%,2.6%,69.6%,70.0%,45.7%,7/10,47.1%,27.5%,4.4%,26.2%,30.0%,1/1,206,6,3,115,80,35,4,2:03
+19-Mar-2018,Lille CH,3,Hard,Q2,462,301,0,,3,David Guez,Nikola Cacic,6-1 6-7(6) 6-3,0.75,4.1%,3.3%,64.5%,59.0%,37.2%,17/25,45.1%,36.5%,7.1%,26.4%,53.1%,3/5,206,5,4,121,78,43,6,2:11
+19-Mar-2018,Lille CH,3,Hard,Q1,462,,1,,,Nikola Cacic,Sander Arends,6-3 3-6 6-1,1.23,1.2%,2.4%,69.0%,72.4%,57.7%,4/5,53.9%,39.5%,6.2%,20.0%,58.5%,3/10,165,1,2,84,58,26,5,1:28
+5-Mar-2018,Turkey F9,3,Clay,R16,467,274,0,,,Ivan Nedelko,Nikola Cacic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Turkey F9,3,Clay,R32,467,,1,,WC,Nikola Cacic,Ruben Busch,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Turkey F8,3,Hard,QF,469,383,0,,4,Oriol Roca Batalla,Nikola Cacic,6-7(2) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Turkey F8,3,Hard,R16,469,842,1,,Q,Nikola Cacic,Camilo Ugo Carabelli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Turkey F8,3,Hard,R32,469,952,1,,Q,Nikola Cacic,Felipe Meligeni Alves,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Chennai CH,3,Hard,Q3,471,1365,0,2,,Abhinav Sanjeev Shanmugam,Nikola Cacic,W/O,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Chennai CH,3,Hard,Q2,471,1204,1,2,,Nikola Cacic,Suraj R Prabodh,6-3 7-5,1.57,11.3%,1.6%,59.7%,78.4%,56.0%,2/4,59.6%,48.1%,3.8%,46.7%,50.0%,4/5,114,7,1,62,37,25,2,1:09
+5-Feb-2018,Budapest CH,3,Hard,Q3,469,557,0,,,Kevin Krawietz,Nikola Cacic,6-2 6-7(5) 7-6(2),0.80,4.3%,0.9%,57.4%,69.7%,55.1%,6/9,47.1%,29.2%,10.4%,22.5%,50.0%,1/3,221,5,1,115,66,49,11,2:13
+5-Feb-2018,Budapest CH,3,Hard,Q2,469,348,1,,7,Nikola Cacic,Yannick Jankovits,6-4 6-1,1.42,15.0%,0.0%,65.0%,74.4%,57.1%,9/10,57.7%,45.1%,5.9%,29.2%,59.3%,4/9,111,9,0,60,39,21,3,1:08
+5-Feb-2018,Budapest CH,3,Hard,Q1,469,,1,,WC,Nikola Cacic,Peter Makk,6-4 7-5,1.35,10.0%,0.0%,60.0%,73.8%,71.4%,2/2,54.6%,36.6%,2.8%,25.6%,53.6%,2/7,141,7,0,70,42,28,2,1:20
+4-Dec-2017,Turkey F46,3,Clay,F,611,247,0,7,2,Tomislav Brkic,Nikola Cacic,7-6(2) 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Turkey F46,3,Clay,SF,611,316,1,7,5,Nikola Cacic,Ivan Gakhov,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Turkey F46,3,Clay,QF,611,854,1,7,SE,Nikola Cacic,Albert Alcaraz Ivorra,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Turkey F46,3,Clay,R16,611,650,1,7,,Nikola Cacic,Dante Gennaro,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Turkey F46,3,Clay,R32,611,556,1,7,,Nikola Cacic,Maciej Rajski,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Turkey F45,3,Clay,R16,611,564,0,,,Peter Torebko,Nikola Cacic,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Turkey F45,3,Clay,R32,611,445,1,,,Nikola Cacic,Samuel Bensoussan,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Tunisia F35,3,Clay,F,617,353,1,,,Nikola Cacic,Carlos Boluda Purkiss,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Tunisia F35,3,Clay,SF,617,355,1,,4,Nikola Cacic,Marc Giner,6-7(6) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Tunisia F35,3,Clay,QF,617,1058,1,,,Nikola Cacic,Zizou Bergs,3-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Tunisia F35,3,Clay,R16,617,1604,1,,Q,Nikola Cacic,Samy Grace,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Tunisia F35,3,Clay,R32,617,1818,1,,Q,Nikola Cacic,Daniele Catini,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Tunisia F34,3,Clay,R16,620,332,0,,,Nino Serdarusic,Nikola Cacic,6-3 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Tunisia F34,3,Clay,R32,620,842,1,,,Nikola Cacic,Nicolo Turchetti,6-1 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Eckental CH,3,Hard,Q2,622,360,0,,5,Marc Sieber,Nikola Cacic,6-2 3-6 6-1,0.63,7.6%,5.1%,50.6%,62.5%,43.6%,5/10,42.7%,29.7%,3.1%,10.7%,44.4%,2/3,143,6,4,79,40,39,2,1:22
+30-Oct-2017,Eckental CH,3,Hard,Q1,622,1740,1,,,Nikola Cacic,Alexander Bury,7-5 6-2,1.63,3.7%,1.9%,63.0%,79.4%,70.0%,3/3,57.3%,39.3%,10.7%,30.6%,55.0%,3/5,110,2,1,54,34,20,6,0:57
+16-Oct-2017,Turkey F39,3,Clay,R32,658,1026,0,8,,Felipe Meligeni Alves,Nikola Cacic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Turkey F38,3,Clay,SF,660,195,0,,,Dmitry Popko,Nikola Cacic,7-6(7) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Turkey F38,3,Clay,QF,660,641,1,,,Nikola Cacic,Davide Galoppini,6-3 6-7(4) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Turkey F38,3,Clay,R16,660,540,1,,,Nikola Cacic,Jordi Samper Montana,6-1 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Turkey F38,3,Clay,R32,660,486,1,,8,Nikola Cacic,Alessandro Petrone,3-6 7-6(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Banja Luka CH,3,Clay,Q1,669,978,0,,,Petr Nouza,Nikola Cacic,6-4 6-3,0.58,3.3%,3.3%,62.3%,68.4%,47.8%,2/5,44.0%,22.9%,8.3%,16.7%,33.3%,0/0,109,2,2,61,38,23,4,1:03
+14-Aug-2017,Turkey F30,3,Clay,R32,631,1273,0,8,,Kazuma Kawachi,Nikola Cacic,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Turkey F29,3,Clay,R32,625,1167,0,4,Q,Fernando Bogajo,Nikola Cacic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Turkey F26,3,Clay,R16,514,1072,0,7,,Dante Gennaro,Nikola Cacic,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Turkey F26,3,Clay,R32,514,813,1,7,,Nikola Cacic,Muhammet Haylaz,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Turkey F25,3,Clay,SF,484,482,0,5,4,Geoffrey Blancaneaux,Nikola Cacic,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Turkey F25,3,Clay,QF,484,257,1,5,1,Nikola Cacic,Cem Ilkel,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Turkey F25,3,Clay,R16,484,2051,1,5,Q,Nikola Cacic,Alexander Donski,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Turkey F25,3,Clay,R32,484,,1,5,Q,Nikola Cacic,Jose Maria Paez,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Recanati CH,3,Hard,Q2,484,1678,0,6,WC,Fabio Mercuri,Nikola Cacic,6-4 3-6 6-3,1.06,15.2%,1.5%,66.7%,84.1%,59.1%,0/2,48.6%,25.6%,6.4%,25.0%,28.6%,1/4,144,10,1,66,44,22,5,1:22
+19-Jun-2017,Poprad-Tatry CH,3,Clay,R16,528,46,0,Q,1,Martin Klizan,Nikola Cacic,6-7(4) 7-5 6-1,0.87,9.0%,4.0%,50.0%,62.0%,44.0%,8/14,46.6%,40.7%,4.6%,31.1%,53.2%,3/11,208,9,4,100,50,50,5,2:28
+19-Jun-2017,Poprad-Tatry CH,3,Clay,R32,528,776,1,Q,Q,Nikola Cacic,Luca Margaroli,6-3 6-4,1.13,9.2%,4.6%,53.8%,71.4%,56.7%,3/4,53.9%,40.0%,8.0%,32.1%,50.0%,3/5,115,6,3,65,35,30,4,1:19
+19-Jun-2017,Poprad-Tatry CH,3,Clay,Q3,528,1088,1,4,,Nikola Cacic,Bogdan Bobrov,6-3 6-3,1.56,3.7%,1.9%,77.8%,76.2%,41.7%,1/2,58.6%,49.1%,0.0%,45.9%,55.0%,4/6,111,2,1,54,42,12,0,1:02
+12-Jun-2017,Hungary F4,3,Clay,R16,535,1069,0,6,WC,Mate Valkusz,Nikola Cacic,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Hungary F4,3,Clay,R32,535,680,1,6,Q,Nikola Cacic,Patrik Nema,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Prostejov CH,3,Clay,Q1,538,384,0,,,Daniel Elahi Galan,Nikola Cacic,7-6(5) 6-3,0.87,6.9%,2.8%,69.4%,64.0%,36.4%,7/11,47.5%,38.8%,4.5%,37.2%,41.7%,2/3,139,5,2,72,50,22,3,1:24
+22-May-2017,Romania F2,3,Clay,R32,534,1141,0,8,Q,Vlad Victor Cornea,Nikola Cacic,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Hungary F1,3,Clay,SF,481,513,0,,8,David Pichler,Nikola Cacic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Hungary F1,3,Clay,QF,481,994,1,,,Nikola Cacic,Pascal Brunner,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Hungary F1,3,Clay,R16,481,618,1,,,Nikola Cacic,Pascal Meis,2-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Hungary F1,3,Clay,R32,481,,1,,WC,Nikola Cacic,Fabian Marozsan,7-6(6) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Uzbekistan F2,3,Hard,SF,519,268,0,,2,Egor Gerasimov,Nikola Cacic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Uzbekistan F2,3,Hard,QF,519,391,1,,7,Nikola Cacic,Vishnu Vardhan,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Uzbekistan F2,3,Hard,R16,519,480,1,,,Nikola Cacic,Miki Jankovic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Uzbekistan F2,3,Hard,R32,519,315,1,,3,Nikola Cacic,N Sriram Balaji,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Uzbekistan F1,3,Hard,R16,522,395,0,,7,Vishnu Vardhan,Nikola Cacic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Uzbekistan F1,3,Hard,R32,522,,1,,Q,Nikola Cacic,Abror Isakov,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,R16,532,389,0,,,Tomislav Brkic,Nikola Cacic,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,R32,532,1260,1,,LL,Nikola Cacic,Mikhail Korovin,2-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Tunisia F7,3,Clay,R32,534,676,0,8,,Pascal Brunner,Nikola Cacic,1-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Tunisia F6,3,Clay,R32,534,788,0,4,,Filippo Baldi,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,USA F5,3,Clay,R32,538,323,0,,1,Tomas Lipovsek Puches,Nikola Cacic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,USA F4,3,Clay,R32,538,323,0,,2,Tomas Lipovsek Puches,Nikola Cacic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,USA F3,3,Clay,R32,537,683,0,7,,Miguel Semmler,Nikola Cacic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Ortisei CH,3,Hard,Q2,534,637,0,6,,Luca Pancaldi,Nikola Cacic,5-7 7-5 6-4,1.08,22.2%,1.1%,62.2%,83.9%,58.8%,3/5,50.0%,27.6%,6.1%,22.4%,38.7%,1/9,188,20,1,90,56,34,6,1:52
+7-Nov-2016,Ortisei CH,3,Hard,Q1,534,,1,6,WC,Nikola Cacic,Michael Kerschbaumer,6-4 6-2,1.28,8.6%,6.9%,58.6%,82.4%,54.2%,3/3,55.7%,37.5%,10.4%,21.1%,48.3%,3/4,106,5,4,58,34,24,5,0:54
+24-Oct-2016,Chinese Taipei F3,3,Hard,R32,526,1112,0,3,,Max Wennakoski,Nikola Cacic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Chinese Taipei F2,3,Hard,R32,525,694,0,4,,Jumpei Yamasaki,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Ho Chi Minh CH,3,Hard,Q2,524,676,0,5,,Yunseong Chung,Nikola Cacic,7-6(2) 7-6(5),0.91,4.9%,3.7%,52.4%,76.7%,59.0%,5/6,47.7%,28.9%,3.3%,27.9%,31.0%,1/5,172,4,3,82,43,39,3,1:44
+19-Sep-2016,St. Petersburg,3,Hard,Q1,527,276,0,PR,8,Jan Mertl,Nikola Cacic,6-4 6-3,0.51,6.7%,8.3%,63.3%,68.4%,31.8%,2/6,41.3%,22.7%,18.2%,13.3%,42.9%,1/2,104,4,5,60,38,22,8,1:02
+12-Sep-2016,Banja Luka CH,3,Clay,R32,529,235,0,PR,,Dennis Novak,Nikola Cacic,6-4 6-4,0.85,4.4%,1.5%,69.1%,66.0%,52.4%,2/4,46.8%,32.4%,2.8%,26.4%,50.0%,0/8,139,3,1,68,47,21,2,1:25
+8-Aug-2016,Serbia F4,3,Clay,SF,557,550,0,6,5,Stefano Travaglia,Nikola Cacic,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Serbia F4,3,Clay,QF,557,969,1,6,WC,Nikola Cacic,Milan Drinic,0-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Serbia F4,3,Clay,R16,557,1219,1,6,Q,Nikola Cacic,Goran Markovic,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Serbia F4,3,Clay,R32,557,1060,1,6,,Nikola Cacic,Christian Hirschmueller,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Serbia F3,3,Clay,R32,558,1070,0,5,Q,Andre Biro,Nikola Cacic,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Umag,3,Clay,R16,761,38,0,Q,3,Jeremy Chardy,Nikola Cacic,6-2 6-0,0.15,2.7%,5.4%,54.1%,40.0%,29.4%,3/8,23.5%,9.7%,12.9%,5.6%,15.4%,0/0,68,1,2,37,20,17,4,0:43
+18-Jul-2016,Umag,3,Clay,R32,761,69,1,Q,,Nikola Cacic,Aljaz Bedene,5-7 6-4 6-4,0.95,0.9%,2.6%,59.0%,65.2%,52.1%,5/8,50.0%,38.1%,11.3%,22.9%,53.1%,4/7,214,1,3,117,69,48,11,2:27
+18-Jul-2016,Umag,3,Clay,Q2,761,289,1,,7,Nikola Cacic,Michal Konecny,6-3 6-2,1.66,3.6%,1.8%,57.1%,84.4%,58.3%,2/2,59.1%,44.4%,5.6%,37.1%,57.9%,3/5,110,2,1,56,32,24,3,1:16
+18-Jul-2016,Umag,3,Clay,Q1,761,219,1,,4,Nikola Cacic,Antal Van Der Duim,4-1 RET,1.73,15.8%,0.0%,73.7%,64.3%,40.0%,3/4,63.3%,72.7%,0.0%,85.7%,50.0%,2/2,30,3,0,19,14,5,0,0:18
+11-Jul-2016,Bastad,3,Clay,Q2,830,378,0,PR,WC,Calvin Hemery,Nikola Cacic,6-1 6-2,0.65,2.2%,4.4%,37.8%,58.8%,42.9%,2/6,39.8%,33.3%,7.9%,26.8%,45.5%,0/9,108,1,2,45,17,28,5,1:07
+11-Jul-2016,Bastad,3,Clay,Q1,830,856,1,PR,ALT,Nikola Cacic,Milos Sekulic,6-7(7) 7-5 6-4,1.18,9.6%,2.9%,53.8%,73.2%,52.1%,4/8,52.1%,43.1%,0.8%,33.3%,55.2%,6/13,234,10,3,104,56,48,1,2:10
+4-Jul-2016,Macedonia F3,3,Clay,R16,849,593,0,,7,Patrik Fabian,Nikola Cacic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Macedonia F3,3,Clay,R32,849,1269,1,,Q,Nikola Cacic,Shunsuke Wakita,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,R16,854,273,0,PR,2,Lorenzo Giustino,Nikola Cacic,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Italy F16,3,Clay,R32,854,901,1,PR,Q,Nikola Cacic,Cristian Carli,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Perugia CH,3,Clay,Q2,854,309,0,,1,Nicolas Barrientos,Nikola Cacic,6-4 6-7(6) 6-3,0.75,9.4%,4.2%,61.5%,71.2%,48.6%,3/6,44.9%,28.0%,3.0%,26.2%,35.0%,1/8,196,9,4,96,59,37,3,2:02
+6-Jun-2016,Lyon CH,3,Clay,Q3,860,363,0,,4,Jonathan Eysseric,Nikola Cacic,3-6 6-4 6-1,0.79,6.5%,2.2%,56.5%,59.6%,42.5%,8/13,45.2%,37.6%,11.8%,27.5%,52.9%,3/8,177,6,2,92,52,40,10,1:48
+6-Jun-2016,Lyon CH,3,Clay,Q2,860,389,1,,7,Nikola Cacic,Hugo Nys,6-4 6-1,1.32,6.7%,0.0%,70.0%,76.2%,50.0%,3/3,55.7%,41.8%,3.6%,33.3%,50.0%,3/8,115,4,0,60,42,18,2,1:16
+16-May-2016,Croatia F7,3,Clay,R32,1964,490,0,SE,5,Duje Kekez,Nikola Cacic,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Croatia F6,3,Clay,F,1974,568,1,PR,,Nikola Cacic,Peter Nagy,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Croatia F6,3,Clay,SF,1974,451,1,PR,4,Nikola Cacic,Christopher Oconnell,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Croatia F6,3,Clay,QF,1974,677,1,PR,,Nikola Cacic,Tobias Simon,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Croatia F6,3,Clay,R16,1974,356,1,PR,2,Nikola Cacic,Riccardo Bellotti,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Croatia F6,3,Clay,R32,1974,554,1,PR,,Nikola Cacic,Neil Pauffley,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Hungary F2,3,Clay,R16,,387,0,PR,1,Germain Gigounon,Nikola Cacic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Hungary F2,3,Clay,R32,,1248,1,PR,Q,Nikola Cacic,Domagoj Biljesko,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Hungary F1,3,Clay,R32,,1188,0,PR,Q,Ivan Sabanov,Nikola Cacic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Kazan CH,3,Hard,Q1,,780,0,,,Philip Davydenko,Nikola Cacic,6-2 6-4,0.54,0.0%,3.9%,60.8%,67.7%,35.0%,1/5,40.6%,24.4%,2.2%,22.6%,28.6%,1/3,96,0,2,51,31,20,1,0:56
+18-Jan-2016,USA F4,3,Clay,R32,,374,0,PR,3,Adrien Puget,Nikola Cacic,7-5 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Brazil F16,3,Clay,R32,325,667,0,1,,Joao Pedro Sorgi,Nikola Cacic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Brazil F15,3,Clay,R32,310,,0,1,,Ariel Behar,Nikola Cacic,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Lima CH,3,Clay,R32,303,524,0,,Q,Michael Linzer,Nikola Cacic,6-0 6-1,0.26,0.0%,8.0%,54.0%,37.0%,34.8%,5/11,28.7%,16.7%,6.7%,14.3%,22.2%,0/3,80,0,4,50,27,23,2,1:00
+20-Oct-2014,Belarus F4,3,Hard,R32,301,442,0,3,,Victor Baluda,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Moscow,3,Hard,Q1,298,233,0,,,Egor Gerasimov,Nikola Cacic,7-5 7-5,0.51,4.5%,6.4%,60.9%,65.7%,39.5%,17/20,43.6%,22.6%,8.1%,7.0%,57.9%,1/4,172,5,7,110,67,43,5,1:50
+8-Sep-2014,Biella CH,3,Clay,R32,281,303,0,,,Julien Obry,Nikola Cacic,6-4 3-6 6-2,0.90,3.5%,1.2%,54.1%,69.6%,51.3%,5/9,48.2%,34.9%,1.2%,29.8%,41.7%,2/9,168,3,1,85,46,39,1,1:52
+25-Aug-2014,Romania F13,3,Clay,F,323,362,1,1,2,Nikola Cacic,Frederico Ferreira Silva,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Romania F13,3,Clay,SF,323,481,1,1,5,Nikola Cacic,Roman Jebavy,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Romania F13,3,Clay,QF,323,534,1,1,8,Nikola Cacic,Stefano Napolitano,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Romania F13,3,Clay,R16,323,659,1,1,,Nikola Cacic,Pietro Rondoni,1-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Romania F13,3,Clay,R32,323,,1,1,WC,Nikola Cacic,Mario Calmic,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Umag,3,Clay,Q2,334,60,0,,1,Pablo Cuevas,Nikola Cacic,6-4 6-4,0.81,10.0%,1.4%,57.1%,75.0%,40.0%,6/9,47.0%,32.3%,4.8%,23.7%,45.8%,1/7,132,7,1,70,40,30,3,1:30
+21-Jul-2014,Umag,3,Clay,Q1,334,917,1,,,Nikola Cacic,Luka Zaninovic,6-2 6-0,2.13,2.6%,0.0%,60.5%,82.6%,53.3%,1/2,65.9%,61.7%,2.1%,54.3%,83.3%,6/13,85,1,0,38,23,15,1,1:02
+30-Jun-2014,Braunschweig CH,3,Clay,SF,548,89,0,,4,Paul Henri Mathieu,Nikola Cacic,6-4 6-2,0.76,7.5%,3.0%,52.2%,62.9%,31.3%,6/11,44.2%,39.6%,9.4%,28.6%,52.0%,2/2,120,5,2,67,35,32,5,1:28
+30-Jun-2014,Braunschweig CH,3,Clay,QF,548,93,1,,5,Nikola Cacic,Diego Schwartzman,7-6(6) 4-6 7-5,0.99,13.3%,3.3%,60.0%,62.5%,43.8%,12/19,49.6%,44.4%,0.8%,43.5%,47.1%,7/14,246,16,4,120,72,48,1,2:39
+30-Jun-2014,Braunschweig CH,3,Clay,R16,548,123,1,,,Nikola Cacic,Damir Dzumhur,6-3 7-6(3),1.29,2.6%,0.0%,60.5%,69.6%,66.7%,6/7,55.1%,40.8%,0.0%,41.8%,37.5%,2/5,147,2,0,76,46,30,0,1:32
+30-Jun-2014,Braunschweig CH,3,Clay,R32,548,60,1,,2,Nikola Cacic,Pablo Carreno Busta,7-6(3) 7-6(3),0.77,5.0%,1.7%,61.3%,68.5%,47.8%,11/13,49.2%,30.6%,2.8%,25.6%,37.9%,2/2,191,6,2,119,73,46,2,2:02
+23-Jun-2014,Padova CH,3,Clay,SF,548,116,0,Q,2,Maximo Gonzalez,Nikola Cacic,6-2 6-2,0.66,2.1%,0.0%,53.2%,52.0%,36.4%,5/10,40.2%,36.7%,1.7%,26.8%,57.9%,1/3,107,1,0,47,25,22,1,1:15
+23-Jun-2014,Padova CH,3,Clay,QF,548,314,1,Q,,Nikola Cacic,Renzo Olivo,6-3 6-2,1.35,0.0%,4.7%,62.5%,72.5%,54.2%,2/2,56.8%,46.3%,0.0%,41.2%,55.0%,3/8,118,0,3,64,40,24,0,1:27
+23-Jun-2014,Padova CH,3,Clay,R16,548,258,1,Q,,Nikola Cacic,Maxime Teixeira,7-5 6-3,1.36,3.0%,1.5%,58.2%,71.8%,57.1%,2/4,55.6%,46.8%,0.0%,41.3%,54.8%,4/7,144,2,1,67,39,28,0,1:36
+23-Jun-2014,Padova CH,3,Clay,R32,548,168,1,Q,4,Nikola Cacic,Potito Starace,7-6(5) 3-6 6-3,0.89,4.1%,2.1%,64.9%,77.8%,47.1%,3/5,49.5%,29.4%,1.2%,24.1%,40.7%,2/5,182,4,2,97,63,34,1,1:58
+3-Jun-2014,Arad CH,3,Clay,QF,619,218,0,Q,,Chase Buchanan,Nikola Cacic,6-3 6-3,0.89,4.1%,0.0%,59.2%,62.1%,40.0%,2/7,46.3%,41.7%,0.0%,38.2%,52.9%,2/12,121,2,0,49,29,20,0,1:21
+3-Jun-2014,Arad CH,3,Clay,R16,619,262,1,Q,,Nikola Cacic,Antonio Veic,7-6(7) 1-6 7-5,1.09,5.5%,2.2%,54.9%,70.0%,63.4%,4/8,49.5%,35.9%,2.6%,29.6%,45.7%,3/9,208,5,2,91,50,41,3,2:24
+3-Jun-2014,Arad CH,3,Clay,R32,619,222,1,Q,,Nikola Cacic,Toni Androic,6-2 1-0 RET,2.72,6.9%,0.0%,62.1%,88.9%,63.6%,4/4,67.2%,56.3%,0.0%,54.5%,60.0%,2/5,61,2,0,29,18,11,0,0:41
+19-May-2014,Bosnia & Herzegovina F3,3,Clay,QF,629,541,0,7,4,Miki Jankovic,Nikola Cacic,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Bosnia & Herzegovina F3,3,Clay,R16,629,994,1,7,,Nikola Cacic,Ivan Sabanov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Bosnia & Herzegovina F3,3,Clay,R32,629,1700,1,7,Q,Nikola Cacic,Ivan Milivojevic,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Bosnia & Herzegovina F2,3,Clay,QF,629,1146,0,3,,Danylo Kalenichenko,Nikola Cacic,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Bosnia & Herzegovina F2,3,Clay,R16,629,2091,1,3,Q,Nikola Cacic,Andreas Neykov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Bosnia & Herzegovina F2,3,Clay,R32,629,808,1,3,,Nikola Cacic,Nerman Fatic,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+5-May-2014,Bosnia & Herzegovina F1,3,Clay,R32,631,550,0,,8,Miki Jankovic,Nikola Cacic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Casablanca,3,Clay,Q1,599,27,0,,1,Gilles Simon,Nikola Cacic,7-5 2-6 7-5,0.98,2.9%,6.7%,37.5%,79.5%,41.5%,7/13,49.5%,43.4%,2.8%,44.9%,42.1%,6/14,210,3,7,104,39,65,3,2:26
+24-Mar-2014,Greece F3,3,Hard,R16,597,735,0,,,Dejan Katic,Nikola Cacic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Greece F3,3,Hard,R32,597,283,1,,3,Nikola Cacic,Theodoros Angelinos,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R16,597,331,0,,5,Yannik Reuter,Nikola Cacic,7-6(4) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R32,597,735,1,,,Nikola Cacic,Dejan Katic,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Greece F1,3,Hard,R16,586,240,0,,1,Jan Hernych,Nikola Cacic,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Greece F1,3,Hard,R32,586,1217,1,,Q,Nikola Cacic,Christian Hirschmueller,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Italy F3,3,Hard,R16,584,460,0,,,Marek Michalicka,Nikola Cacic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Italy F3,3,Hard,R32,584,1124,1,,Q,Nikola Cacic,Pascal Meis,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Italy F2,3,Carpet,R32,606,375,0,,4,Roman Jebavy,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Italy F1,3,Hard,SF,604,714,0,8,,Luca Vanni,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Italy F1,3,Hard,QF,604,374,1,8,2,Nikola Cacic,Roman Jebavy,6-3 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Italy F1,3,Hard,R16,604,739,1,8,,Nikola Cacic,Sebastien Boltz,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Italy F1,3,Hard,R32,604,1425,1,8,WC,Nikola Cacic,Gianluca Di Nicola,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Egypt F1,3,Clay,SF,648,277,0,,1,Gianluca Naso,Nikola Cacic,6-3 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Egypt F1,3,Clay,QF,648,326,1,,4,Nikola Cacic,Marc Rath,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Egypt F1,3,Clay,R16,648,418,1,,8,Nikola Cacic,Ivan Nedelko,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Egypt F1,3,Clay,R32,648,594,1,,,Nikola Cacic,Ricardo Ojeda Lara,7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Greece F20,3,Hard,F,654,556,0,8,5,Oliver Golding,Nikola Cacic,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Greece F20,3,Hard,SF,654,356,1,8,1,Nikola Cacic,Marcus Willis,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Greece F20,3,Hard,QF,654,539,1,8,4,Nikola Cacic,Liam Broady,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Greece F20,3,Hard,R16,654,,1,8,Q,Nikola Cacic,Haig Schneiderman,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Greece F20,3,Hard,R32,654,1552,1,8,,Nikola Cacic,George Siapatis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Greece F19,3,Hard,QF,655,531,0,,8,Liam Broady,Nikola Cacic,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Greece F19,3,Hard,R16,655,1918,1,,Q,Nikola Cacic,Shotaro Goto,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Greece F19,3,Hard,R32,655,334,1,,2,Nikola Cacic,Carlos Gomez Herrera,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Croatia F12,3,Clay,R16,656,359,0,,3,Toni Androic,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Croatia F12,3,Clay,R32,656,528,1,,,Nikola Cacic,Tomislav Brkic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Croatia F11,3,Clay,R32,635,677,0,,,Ivo Mijic,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Hungary F2,3,Clay,R32,637,496,0,,,Peter Torebko,Nikola Cacic,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Serbia F14,3,Clay,R16,642,828,0,7,,Marko Tepavac,Nikola Cacic,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Serbia F14,3,Clay,R32,642,827,1,7,,Nikola Cacic,Cedrick Commin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Trnava CH,3,Clay,R32,670,86,0,Q,3,Aljaz Bedene,Nikola Cacic,3-6 6-2 6-3,0.69,1.2%,7.1%,46.4%,74.4%,44.4%,1/4,43.9%,28.7%,3.8%,9.1%,42.6%,1/5,164,1,6,84,39,45,3,1:56
+26-Aug-2013,Serbia F11,3,Clay,R32,668,1106,0,7,,Ljubomir Celebic,Nikola Cacic,4-6 7-6(4) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Serbia F10,3,Clay,QF,654,470,0,8,4,Tihomir Grozdanov,Nikola Cacic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Serbia F10,3,Clay,R16,654,653,1,8,,Nikola Cacic,Filip Veger,7-6(2) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Serbia F10,3,Clay,R32,654,1310,1,8,Q,Nikola Cacic,Yanais Laurent,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Austria F5,3,Clay,QF,570,861,0,3,,Mario Haider Maurer,Nikola Cacic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Austria F5,3,Clay,R16,570,1309,1,3,,Nikola Cacic,Daniel Geib,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Austria F5,3,Clay,R32,570,,1,3,Q,Nikola Cacic,Ilya Vasilyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,R16,578,794,0,8,,Ilija Vucic,Nikola Cacic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,R32,578,,1,8,Q,Nikola Cacic,Antun Vidak,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Bosnia & Herzegovina F2,3,Clay,R16,548,1475,0,5,Q,Luka Ilic,Nikola Cacic,6-7(2) 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Bosnia & Herzegovina F2,3,Clay,R32,548,,1,5,WC,Nikola Cacic,Petar Djukic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Bosnia & Herzegovina F1,3,Clay,R32,548,1475,0,4,Q,Luka Ilic,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Romania F2,3,Clay,QF,536,332,0,7,1,Michael Linzer,Nikola Cacic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Romania F2,3,Clay,R16,536,1599,1,7,Q,Nikola Cacic,Ioan Farcas,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Romania F2,3,Clay,R32,536,1983,1,7,Q,Nikola Cacic,Vasile Antonescu,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Napoli CH,3,Clay,R32,567,173,0,LL,5,Jonathan Dasnieres De Veigy,Nikola Cacic,6-3 6-4,0.94,6.3%,2.1%,47.9%,73.9%,60.0%,0/2,46.4%,31.3%,3.1%,31.6%,30.8%,0/4,112,3,1,48,23,25,2,1:16
+22-Apr-2013,Italy F5,3,Clay,SF,567,332,0,Q,5,Sandro Ehrat,Nikola Cacic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Italy F5,3,Clay,QF,567,290,1,Q,4,Nikola Cacic,Riccardo Bellotti,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Italy F5,3,Clay,R16,567,510,1,Q,,Nikola Cacic,Mate Delic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Italy F5,3,Clay,R32,567,344,1,Q,8,Nikola Cacic,Viktor Galovic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Croatia F6,3,Clay,R32,567,429,0,,,Jaroslav Pospisil,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Croatia F5,3,Clay,R16,567,532,0,Q,Q,Nikolaus Moser,Nikola Cacic,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Croatia F5,3,Clay,R32,567,294,1,Q,7,Nikola Cacic,Riccardo Bellotti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Croatia F5,3,Clay,Q4,567,790,1,2,14,Nikola Cacic,Felipe Rios,6-7(2) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Ukraine F3,3,Hard,R16,520,723,0,5,,Yaraslau Shyla,Nikola Cacic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Ukraine F3,3,Hard,R32,520,825,1,5,,Nikola Cacic,Alban Meuffels,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Ukraine F2,3,Hard,QF,513,562,0,5,,Jan Satral,Nikola Cacic,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Ukraine F2,3,Hard,R16,513,1301,1,5,SE,Nikola Cacic,Marat Deviatiarov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Ukraine F2,3,Hard,R32,513,570,1,5,,Nikola Cacic,Erik Crepaldi,7-6(6) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,R32,459,373,0,,,Dino Marcan,Nikola Cacic,6-3 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,France F3,3,Hard,R32,458,548,0,,Q,David Perez Sanz,Nikola Cacic,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,France F2,3,Hard,R32,456,1683,0,,LL,Thomas Grinberg,Nikola Cacic,7-6(2) 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,F,488,638,0,4,,Mate Delic,Nikola Cacic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,SF,488,571,1,4,6,Nikola Cacic,Julien Dubail,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,QF,488,520,1,4,5,Nikola Cacic,Theodoros Angelinos,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,R16,488,1421,1,4,Q,Nikola Cacic,Christoph Negritu,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,R32,488,756,1,4,,Nikola Cacic,Sasa Stojisavljevic,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Greece F6,3,Carpet,R32,488,736,0,3,,Giacomo Oradini,Nikola Cacic,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Croatia F11,3,Clay,R32,487,398,0,,,Blaz Rola,Nikola Cacic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Croatia F10,3,Clay,QF,490,338,0,8,3,Marek Michalicka,Nikola Cacic,4-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Croatia F10,3,Clay,R16,490,649,1,8,,Nikola Cacic,Ivo Mijic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Croatia F10,3,Clay,R32,490,942,1,8,,Nikola Cacic,Bjorn Propst,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Germany F17,3,Carpet,R32,490,982,0,5,Q,David Thurner,Nikola Cacic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,France F17,3,Hard,R16,492,360,0,,3,Moritz Baumann,Nikola Cacic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,France F17,3,Hard,R32,492,821,1,,,Nikola Cacic,Maxime Forcin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Banja Luka CH,3,Clay,R32,450,265,0,WC,,Nikola Mektic,Nikola Cacic,6-2 7-6(4),0.65,6.9%,0.0%,57.5%,68.0%,37.8%,11/14,44.1%,29.2%,4.6%,24.4%,40.0%,1/6,152,6,0,87,50,37,3,1:48
+20-Aug-2012,Serbia F10,3,Clay,QF,382,737,0,2,5,Sasa Stojisavljevic,Nikola Cacic,6-3 1-6 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Serbia F10,3,Clay,R16,382,1061,1,2,,Nikola Cacic,Stepan Khotulev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Serbia F10,3,Clay,R32,382,,1,2,WC,Nikola Cacic,Nemanja Lazic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,QF,398,541,0,4,7,Roberto Marcora,Nikola Cacic,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,R16,398,729,1,4,,Nikola Cacic,Sasa Stojisavljevic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,R32,398,1060,1,4,,Nikola Cacic,Marko Mijacevic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Serbia F8,3,Clay,SF,404,322,0,3,1,Dino Marcan,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Serbia F8,3,Clay,QF,404,559,1,3,7,Nikola Cacic,Vladimir Obradovic,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Serbia F8,3,Clay,R16,404,745,1,3,,Nikola Cacic,Ismar Gorcic,6-4 0-1 RET,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Serbia F8,3,Clay,R32,404,,1,3,Q,Nikola Cacic,Christian Plattes,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Serbia F7,3,Clay,SF,403,358,0,3,2,Ivan Bjelica,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Serbia F7,3,Clay,QF,403,674,1,3,WC,Nikola Cacic,Marko Djokovic,3-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Serbia F7,3,Clay,R16,403,772,1,3,,Nikola Cacic,Matthew Short,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Serbia F7,3,Clay,R32,403,793,1,3,Q,Nikola Cacic,Richard Gabb,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Serbia F6,3,Clay,QF,401,723,0,1,7,Sasa Stojisavljevic,Nikola Cacic,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Serbia F6,3,Clay,R16,401,,1,1,Q,Nikola Cacic,Silvio Dadic,6-4 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Serbia F6,3,Clay,R32,401,,1,1,Q,Nikola Cacic,Jonathon Cooper,6-2 6-7(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Umag,3,Clay,Q1,399,930,0,8,,Gorka Fraile,Nikola Cacic,6-1 6-0,0.53,0.0%,7.7%,41.0%,43.8%,30.4%,2/7,34.9%,34.0%,2.1%,31.7%,50.0%,0/4,86,0,3,39,16,23,1,0:57
+25-Jun-2012,Serbia F3,3,Clay,R32,355,1117,0,1,Q,Nik Razborsek,Nikola Cacic,6-4 1-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Serbia F2,3,Clay,R32,351,579,0,3,,Elie Rousset,Nikola Cacic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Serbia F1,3,Clay,QF,350,1204,0,1,Q,Dragos Dima,Nikola Cacic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Serbia F1,3,Clay,R16,350,812,1,1,,Nikola Cacic,Valentin Florez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Serbia F1,3,Clay,R32,350,672,1,1,,Nikola Cacic,Miliaan Niesten,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Turkey F20,3,Clay,SF,362,713,0,2,,Peter Heller,Nikola Cacic,6-4 6-7(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Turkey F20,3,Clay,QF,362,653,1,2,8,Nikola Cacic,Dieter Kindlmann,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Turkey F20,3,Clay,R16,362,1329,1,2,Q,Nikola Cacic,Andre Gaspar Murta,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Turkey F20,3,Clay,R32,362,1793,1,2,LL,Nikola Cacic,Alexandr Igoshin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Turkey F19,3,Clay,QF,362,660,0,3,,Francois Arthur Vibert,Nikola Cacic,6-3 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Turkey F19,3,Clay,R16,362,711,1,3,,Nikola Cacic,Mate Pavic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Turkey F19,3,Clay,R32,362,1223,1,3,Q,Nikola Cacic,Matthieu Vierin,6-7(5) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Belgrade,3,Clay,Q2,365,311,0,,,Ilija Bozoljac,Nikola Cacic,7-6(2) 7-6(3),0.82,2.4%,0.0%,67.1%,66.7%,60.7%,2/3,46.8%,29.1%,8.1%,24.0%,36.1%,1/7,171,2,0,85,57,28,7,2:07
+30-Apr-2012,Belgrade,3,Clay,Q1,365,248,1,,8,Nikola Cacic,Marius Copil,6-4 7-5,1.14,4.5%,3.0%,68.7%,76.1%,71.4%,5/5,53.2%,28.8%,8.5%,20.0%,37.9%,2/6,126,3,2,67,46,21,5,1:21
+23-Apr-2012,Bucharest,3,Clay,Q1,362,345,0,,,Nikola Mektic,Nikola Cacic,6-3 6-2,0.53,6.9%,1.7%,67.2%,56.4%,42.1%,6/10,40.0%,25.5%,4.3%,20.6%,38.5%,0/7,105,4,1,58,39,19,2,1:17
+9-Apr-2012,Pereira CH,3,Clay,R32,365,248,0,,7,Carlos Salamanca,Nikola Cacic,6-3 3-6 6-3,0.87,4.9%,4.9%,59.3%,77.1%,48.5%,8/10,47.8%,30.0%,23.8%,17.0%,48.5%,1/5,161,4,4,81,48,33,19,1:33
+19-Mar-2012,Italy F1,3,Hard,R16,361,857,0,8,Q,Giacomo Oradini,Nikola Cacic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Italy F1,3,Hard,R32,361,448,1,8,,Nikola Cacic,Aldin Setkic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Sarajevo CH,3,Hard,QF,396,177,0,Q,5,Dustin Brown,Nikola Cacic,6-4 6-3,0.75,8.2%,2.0%,71.4%,77.1%,50.0%,6/8,44.3%,22.8%,21.1%,9.1%,41.7%,0/3,106,4,1,49,35,14,12,0:59
+12-Mar-2012,Sarajevo CH,3,Hard,R16,396,286,1,Q,,Nikola Cacic,Fabrice Martin,6-7(5) 7-6(5) 7-6(4),0.94,6.1%,1.5%,65.6%,73.3%,71.1%,7/7,50.2%,25.8%,21.7%,15.7%,48.6%,0/4,251,8,2,131,86,45,26,2:56
+12-Mar-2012,Sarajevo CH,3,Hard,R32,396,116,1,Q,2,Nikola Cacic,Michael Berrer,6-7(5) 6-4 6-4,1.26,11.2%,2.0%,73.5%,84.7%,46.2%,2/2,52.7%,32.0%,21.4%,20.3%,51.3%,2/6,201,11,2,98,72,26,22,2:04
+27-Feb-2012,Ukraine F2,3,Hard,R32,390,739,0,2,SE,Emilien Firmin,Nikola Cacic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Russia F5,3,Hard,R16,432,682,0,5,,Deniss Pavlovs,Nikola Cacic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Russia F5,3,Hard,R32,432,628,1,5,,Nikola Cacic,Vitali Reshetnikov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Russia F4,3,Hard,F,436,367,0,5,3,Evgeny Kirillov,Nikola Cacic,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Russia F4,3,Hard,SF,436,485,1,5,,Nikola Cacic,Stanislav Vovk,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Russia F4,3,Hard,QF,436,1194,1,5,,Nikola Cacic,Nikolai Fidirko,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Russia F4,3,Hard,R16,436,1063,1,5,,Nikola Cacic,Egor Gerasimov,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Russia F4,3,Hard,R32,436,1606,1,5,Q,Nikola Cacic,Ronald Slobodchikov,7-6(10) 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Zagreb,3,Hard,Q1,405,41,0,,1,Jurgen Melzer,Nikola Cacic,6-2 6-1,0.32,5.1%,3.4%,76.3%,44.4%,50.0%,7/12,35.1%,17.1%,20.0%,7.7%,44.4%,0/0,94,3,2,59,45,14,7,0:50
+16-Jan-2012,Turkey F2,3,Hard,QF,411,360,0,8,2,Toni Androic,Nikola Cacic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Turkey F2,3,Hard,R16,411,,1,8,WC,Nikola Cacic,Baris Erguden,0-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Turkey F2,3,Hard,R32,411,466,1,8,,Nikola Cacic,Taro Daniel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,Turkey F1,3,Hard,R32,411,1217,0,8,Q,Jaak Poldma,Nikola Cacic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Croatia F14,3,Clay,R16,407,608,0,4,,Marton Fucsovics,Nikola Cacic,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Croatia F14,3,Clay,R32,407,862,1,4,Q,Nikola Cacic,Lorenzo Giustino,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Croatia F13,3,Clay,R32,402,655,0,8,,Danilo Petrovic,Nikola Cacic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Croatia F10,3,Clay,R32,405,413,0,8,,Kevin Krawietz,Nikola Cacic,5-7 7-6(6) 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Banja Luka CH,3,Clay,R16,444,376,0,Q,WC,Mirza Basic,Nikola Cacic,4-6 6-3 6-3,0.88,2.9%,3.9%,65.7%,62.7%,40.0%,5/10,47.5%,39.8%,4.1%,37.9%,43.8%,3/16,200,3,4,102,67,35,4,2:05
+12-Sep-2011,Banja Luka CH,3,Clay,R32,444,142,1,Q,6,Nikola Cacic,Jaroslav Pospisil,6-4 6-1,1.49,9.6%,1.9%,76.9%,75.0%,50.0%,2/2,56.8%,45.8%,0.0%,35.5%,57.1%,4/9,111,5,1,52,40,12,0,1:24
+29-Aug-2011,Serbia F9,3,Clay,SF,502,400,0,4,2,Mirza Basic,Nikola Cacic,4-6 7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,QF,502,837,1,4,8,Nikola Cacic,Danilo Petrovic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,R16,502,1333,1,4,,Nikola Cacic,Javier Herrera Eguiluz,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,R32,502,1404,1,4,WC,Nikola Cacic,Bojan Zdravkovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Croatia F7,3,Clay,F,518,429,1,4,3,Nikola Cacic,Dino Marcan,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Croatia F7,3,Clay,SF,518,536,1,4,5,Nikola Cacic,Damir Dzumhur,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Croatia F7,3,Clay,QF,518,1169,1,4,,Nikola Cacic,Marin Franjicevic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Croatia F7,3,Clay,R16,518,,1,4,LL,Nikola Cacic,Peter Nagy,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Croatia F7,3,Clay,R32,518,1896,1,4,WC,Nikola Cacic,Tilen Zitnik,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,SF,512,530,0,4,6,Denes Lukacs,Nikola Cacic,3-6 7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,QF,512,1232,1,4,,Nikola Cacic,Miki Jankovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,R16,512,926,1,4,,Nikola Cacic,Sasa Stojisavljevic,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,R32,512,1496,1,4,Q,Nikola Cacic,Sasa Vidojevic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Serbia F6,3,Clay,R16,516,566,0,5,,Gleb Sakharov,Nikola Cacic,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Serbia F6,3,Clay,R32,516,,1,5,WC,Nikola Cacic,Laslo Djere,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Serbia F5,3,Clay,QF,521,653,0,3,Q,Vladimir Obradovic,Nikola Cacic,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Serbia F5,3,Clay,R16,521,1307,1,3,,Nikola Cacic,Tomislav Jotovski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Serbia F5,3,Clay,R32,521,1415,1,3,,Nikola Cacic,Martin Rmus,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Serbia F4,3,Clay,QF,517,719,0,1,5,Arsenije Zlatanovic,Nikola Cacic,4-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Serbia F4,3,Clay,R16,517,856,1,1,,Nikola Cacic,Marco Bortolotti,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Serbia F4,3,Clay,R32,517,1151,1,1,,Nikola Cacic,Otakar Lucak,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Serbia F3,3,Clay,QF,629,341,0,,3,Roko Karanusic,Nikola Cacic,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Serbia F3,3,Clay,R16,629,526,1,,6,Nikola Cacic,Gianni Mina,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,Serbia F3,3,Clay,R32,629,843,1,,Q,Nikola Cacic,Danilo Petrovic,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Serbia F2,3,Clay,SF,629,340,0,,3,Axel Michon,Nikola Cacic,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Serbia F2,3,Clay,QF,629,548,1,,,Nikola Cacic,Matt Reid,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Serbia F2,3,Clay,R16,629,639,1,,,Nikola Cacic,Theodoros Angelinos,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Serbia F2,3,Clay,R32,629,912,1,,Q,Nikola Cacic,Maverick Banes,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Serbia F1,3,Clay,F,626,340,1,,1,Nikola Cacic,Axel Michon,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Serbia F1,3,Clay,SF,626,526,1,,7,Nikola Cacic,Goran Tosic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Serbia F1,3,Clay,QF,626,510,1,,6,Nikola Cacic,Roman Jebavy,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Serbia F1,3,Clay,R16,626,1058,1,,Q,Nikola Cacic,Jack Carpenter,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Serbia F1,3,Clay,R32,626,469,1,,4,Nikola Cacic,Victor Mugurel Anagnastopol,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Bosnia & Herzegovina F5,3,Clay,R16,600,1098,0,6,,Marin Franjicevic,Nikola Cacic,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Bosnia & Herzegovina F5,3,Clay,R32,600,888,1,6,,Nikola Cacic,Andre Wiesler,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Bosnia & Herzegovina F4,3,Clay,R32,600,867,0,8,,Josko Topic,Nikola Cacic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,R16,595,756,0,6,,Marco Dierckx,Nikola Cacic,6-2 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,R32,595,753,1,6,,Nikola Cacic,Tomislav Brkic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,R16,604,1045,0,4,,Danilo Petrovic,Nikola Cacic,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,R32,604,699,1,4,,Nikola Cacic,Jakub Lustyk,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bosnia & Herzegovina F1,3,Clay,R16,605,1412,0,6,Q,Sasa Stojisavljevic,Nikola Cacic,1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bosnia & Herzegovina F1,3,Clay,R32,605,,1,6,WC,Nikola Cacic,Dario Racic,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R16,583,503,0,,,Maxime Authom,Nikola Cacic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R32,583,593,1,,,Nikola Cacic,Marcus Willis,6-2 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R32,584,598,0,,,Yann Marti,Nikola Cacic,6-4 6-7(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,F,658,382,0,,3,Adam Kellner,Nikola Cacic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,SF,658,268,1,,1,Nikola Cacic,Amir Weintraub,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,QF,658,392,1,,4,Nikola Cacic,Walter Trusendi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,R16,658,467,1,,5,Nikola Cacic,Steven Diez,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,R32,658,,1,,Q,Nikola Cacic,Levente Godry,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Israel F2,3,Hard,R16,658,626,0,,,Stanislav Vovk,Nikola Cacic,7-6(2) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Israel F2,3,Hard,R32,658,1201,1,,SE,Nikola Cacic,Henri Laaksonen,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2010,Greece F4,3,Hard,R16,715,644,0,,6,Arsenije Zlatanovic,Nikola Cacic,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2010,Greece F4,3,Hard,R32,715,1417,1,,LL,Nikola Cacic,Marc Stillitano,6-7(3) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Greece F3,3,Carpet,SF,723,460,0,,1,Andrea Falgheri,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Greece F3,3,Carpet,QF,723,734,1,,,Nikola Cacic,Daniel Danilovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Greece F3,3,Carpet,R16,723,1281,1,,Q,Nikola Cacic,Sam Barry,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Greece F3,3,Carpet,R32,723,588,1,,4,Nikola Cacic,Sean Thornley,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,R16,758,1396,0,8,Q,Gaetan De Lovinfosse,Nikola Cacic,7-6(8) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,R32,758,1166,1,8,,Nikola Cacic,Mateusz Szmigiel,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Turkey F10,3,Hard,R16,763,497,0,,3,Artem Smirnov,Nikola Cacic,6-0 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Turkey F10,3,Hard,R32,763,1317,1,,WC,Nikola Cacic,Roberto Rodriguez Alonso,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Turkey F9,3,Hard,R16,767,1599,0,,LL,Fedor Doudtchik,Nikola Cacic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,Turkey F9,3,Hard,R32,767,572,1,,7,Nikola Cacic,Miliaan Niesten,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2010,Banja Luka CH,3,Clay,R32,767,128,0,WC,5,Marsel Ilhan,Nikola Cacic,6-4 6-2,0.53,0.0%,2.4%,62.7%,57.7%,41.9%,7/11,42.3%,25.5%,6.4%,18.8%,40.0%,1/2,130,0,2,83,52,31,3,1:13
+30-Aug-2010,Croatia F6,3,Clay,R16,787,1314,0,,Q,Josko Topic,Nikola Cacic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2010,Croatia F6,3,Clay,R32,787,,1,,WC,Nikola Cacic,Marcel Ruzic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2010,Croatia F5,3,Clay,R16,817,591,0,,6,Borut Puc,Nikola Cacic,4-6 6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Aug-2010,Croatia F5,3,Clay,R32,817,,1,,WC,Nikola Cacic,Filip Veger,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,QF,842,512,0,,1,Ivan Bjelica,Nikola Cacic,6-2 6-7(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,R16,842,628,1,,5,Nikola Cacic,Marin Bradaric,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,R32,842,759,1,,,Nikola Cacic,Romain Sichez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Serbia F5,3,Clay,R16,864,884,0,,,Miljan Zekic,Nikola Cacic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Serbia F5,3,Clay,R32,864,810,1,,,Nikola Cacic,Brendan Moore,7-5 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Spain F28,3,Clay,QF,859,655,0,,8,Juan Lizariturry,Nikola Cacic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Spain F28,3,Clay,R16,859,419,1,,1,Nikola Cacic,Morgan Phillips,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Spain F28,3,Clay,R32,859,1598,1,,WC,Nikola Cacic,Pablo Manuel Montoro Gimenez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Serbia F3,3,Clay,R32,854,912,0,,,Miljan Zekic,Nikola Cacic,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Serbia F2,3,Clay,R32,854,418,0,WC,4,Nikola Ciric,Nikola Cacic,7-6(4) 3-6 7-6(9),,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Bosnia & Herzegovina F7,3,Clay,R16,937,660,0,,6,Baptiste Dupuy,Nikola Cacic,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Bosnia & Herzegovina F7,3,Clay,R32,937,751,1,,,Nikola Cacic,Pirmin Haenle,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Bosnia & Herzegovina F6,3,Clay,QF,937,722,0,,,Miliaan Niesten,Nikola Cacic,6-1 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Bosnia & Herzegovina F6,3,Clay,R16,937,280,1,,1,Nikola Cacic,Goran Tosic,5-7 6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Bosnia & Herzegovina F6,3,Clay,R32,937,660,1,,,Nikola Cacic,Baptiste Dupuy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Bosnia & Herzegovina F5,3,Clay,R16,944,422,0,Q,3,David Savic,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Bosnia & Herzegovina F5,3,Clay,R32,944,1476,1,Q,Q,Nikola Cacic,Dmitri Marfinsky,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Bosnia & Herzegovina F4,3,Clay,R16,918,421,0,Q,5,Franco Skugor,Nikola Cacic,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Bosnia & Herzegovina F4,3,Clay,R32,918,753,1,Q,,Nikola Cacic,Julien Dubail,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Belgrade,3,Clay,Q2,918,254,0,,2,Roko Karanusic,Nikola Cacic,6-4 6-4,0.82,1.7%,3.4%,59.3%,74.3%,45.8%,3/5,45.3%,30.4%,1.4%,26.8%,35.7%,0/6,128,1,2,59,35,24,1,1:12
+19-Apr-2010,Turkey F8,3,Clay,SF,1197,603,0,Q,,Alexandre Folie,Nikola Cacic,7-5 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Turkey F8,3,Clay,QF,1197,532,1,Q,7,Nikola Cacic,Grzegorz Panfil,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Turkey F8,3,Clay,R16,1197,985,1,Q,Q,Nikola Cacic,Andraz Bedene,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2010,Turkey F8,3,Clay,R32,1197,471,1,Q,3,Nikola Cacic,Victor Ionita,2-3 RET,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2010,Turkey F7,3,Clay,R32,1198,526,0,Q,7,Marcin Gawron,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2010,Turkey F4,3,Clay,R32,1187,249,0,Q,1,Eric Prodon,Nikola Cacic,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2010,Turkey F4,3,Clay,Q4,1187,979,1,,15,Nikola Cacic,Andriej Kapas,2-6 6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Turkey F3,3,Clay,R32,1190,963,0,Q,Q,Maxime Teixeira,Nikola Cacic,6-7(1) 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Turkey F3,3,Clay,Q4,1190,1475,1,,,Nikola Cacic,Sasa Stojisavljevic,3-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2010,Belgrade CH,3,Carpet,R32,1198,244,0,WC,Q,Jan Minar,Nikola Cacic,6-3 7-5,0.58,11.1%,5.6%,54.2%,71.8%,48.5%,8/10,43.8%,22.4%,12.1%,17.1%,35.3%,0/1,130,8,4,72,39,33,7,1:10
+31-Aug-2009,Croatia F8,3,Clay,R32,1154,1035,0,,,Ilija Vucic,Nikola Cacic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Serbia F7,3,Clay,R32,1155,413,0,,1,Claudio Grassi,Nikola Cacic,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Serbia F5,3,Clay,R32,1197,1000,0,WC,,Vladzimir Kruk,Nikola Cacic,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Serbia F4,3,Clay,R16,1206,948,0,Q,,Dusan Lajovic,Nikola Cacic,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Serbia F4,3,Clay,R32,1206,1031,1,Q,,Nikola Cacic,Sasa Stojisavljevic,7-6(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Umag,3,Clay,Q1,1207,500,0,WC,,Daniel Danilovic,Nikola Cacic,6-7(5) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Serbia F3,3,Clay,R32,1154,509,0,Q,3,Jurgen Zopp,Nikola Cacic,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Serbia F2,3,Clay,R32,1209,1075,0,WC,Q,Alexander Bury,Nikola Cacic,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Serbia F1,3,Clay,R16,1211,391,0,Q,2,Nikola Ciric,Nikola Cacic,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Serbia F1,3,Clay,R32,1211,832,1,Q,,Nikola Cacic,Ilija Martinoski,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Bosnia & Herzegovina F4,3,Clay,R32,1211,675,0,Q,,Sinisa Markovic,Nikola Cacic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-May-2009,Bosnia & Herzegovina F3,3,Clay,R32,1255,822,0,WC,,Dennis Bloemke,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bosnia & Herzegovina F2,3,Clay,R16,1320,567,0,Q,6,Aldin Setkic,Nikola Cacic,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bosnia & Herzegovina F2,3,Clay,R32,1320,1084,1,Q,Q,Nikola Cacic,Jarryd Maher,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Bosnia & Herzegovina F1,3,Clay,R16,1316,550,0,WC,5,Nikola Mektic,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Bosnia & Herzegovina F1,3,Clay,R32,1316,1816,1,WC,WC,Nikola Cacic,Tomislav Brkic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Serbia F6,3,Clay,R16,1813,565,0,Q,1,Claudio Grassi,Nikola Cacic,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Serbia F6,3,Clay,R32,1813,881,1,Q,,Nikola Cacic,Jiri Krkoska,5-7 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Serbia F5,3,Clay,R16,1823,395,0,,1,Attila Balazs,Nikola Cacic,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Serbia F5,3,Clay,R32,1823,1625,1,,WC,Nikola Cacic,Marko Djokovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Serbia F3,3,Clay,R32,1794,1108,0,WC,,Ivan Djurdjevic,Nikola Cacic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Serbia F2,3,Clay,R32,1687,1155,0,WC,Q,Ivan Djurdjevic,Nikola Cacic,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Serbia F1,3,Clay,R16,1686,494,0,WC,1,Attila Balazs,Nikola Cacic,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Serbia F1,3,Clay,R32,1686,,1,WC,Q,Nikola Cacic,Milos Koprivica,7-5 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Bosnia Herzegovina F1,3,Clay,R32,1570,1214,0,WC,Q,Arsenije Zlatanovic,Nikola Cacic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Serbia F5,3,Clay,R32,1504,766,0,LL,WC,Gyorgy Balazs,Nikola Cacic,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Serbia F2,3,Clay,R16,,1123,0,WC,WC,Arsenije Zlatanovic,Nikola Cacic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Serbia F2,3,Clay,R32,,599,1,WC,4,Nikola Cacic,Jan Masik,4-3 RET,,,,,,,,,,,,,,,,,,,,,

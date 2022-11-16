@@ -1,0 +1,51 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+3-Oct-2022,Gwangju CH,3,Hard,Q2,1425,454,0,Alt,5,Naoki Nakagawa,Robert Galloway,7-6(4) 6-3,0.77,12.5%,1.4%,50.0%,69.4%,38.9%,3/7,44.8%,35.2%,5.6%,33.3%,37.1%,3/9,143,9,1,72,36,36,4,1:36
+3-Oct-2022,Gwangju CH,3,Hard,Q1,1425,609,1,Alt,8,Robert Galloway,Cheong Eui Kim,6-3 6-2,1.74,11.3%,3.8%,49.1%,92.3%,55.6%,2/2,58.8%,45.9%,4.9%,41.2%,51.9%,3/7,114,6,2,53,26,27,3,1:07
+1-Aug-2022,Washington,3,Hard,Q1,1406,198,0,Alt,8,Borna Gojo,Robert Galloway,6-3 6-4,0.42,15.0%,8.3%,63.3%,65.8%,40.9%,2/4,39.4%,18.4%,18.4%,15.8%,27.3%,0/0,109,9,5,60,38,22,9,
+25-Apr-2022,Savannah CH,3,Clay,Q1,1296,435,0,,2,Andrew Harris,Robert Galloway,6-3 6-3,0.49,8.0%,8.0%,54.0%,59.3%,52.2%,0/3,39.6%,21.7%,4.3%,16.7%,31.3%,0/0,96,4,4,50,27,23,2,0:51
+8-Nov-2021,Knoxville CH,3,Hard,Q1,1037,383,0,Alt,6,Sasi Kumar Mukund,Robert Galloway,6-2 6-4,0.60,14.7%,4.0%,56.0%,71.4%,36.4%,8/11,44.4%,26.5%,12.2%,13.8%,45.0%,0/0,124,11,3,75,42,33,6,1:11
+1-Nov-2021,Charlottesville CH,3,Hard,Q1,1038,359,0,Alt,7,Aidan Mchugh,Robert Galloway,1-6 6-3 6-1,0.79,6.8%,4.1%,54.8%,62.5%,33.3%,4/9,44.9%,40.0%,3.1%,38.6%,42.9%,3/7,138,5,3,73,40,33,2,
+11-Oct-2021,Villena CH,3,Hard,Q2,1113,452,0,Alt,5,Georgii Kravchenko,Robert Galloway,4-6 6-1 6-2,0.68,10.6%,12.9%,51.8%,70.5%,36.6%,3/8,43.9%,31.4%,0.0%,20.4%,57.1%,1/5,155,9,11,85,44,41,0,1:36
+11-Oct-2021,Villena CH,3,Hard,Q1,1113,420,1,Alt,4,Robert Galloway,Ivan Nedelko,2-6 6-2 7-6(4),1.11,10.9%,4.3%,65.2%,73.3%,50.0%,4/6,51.3%,38.6%,3.0%,24.1%,58.1%,2/9,193,10,4,92,60,32,3,1:43
+28-Jun-2021,Porto CH,3,Hard,Q2,1181,254,0,Alt,2,Yosuke Watanuki,Robert Galloway,6-1 6-1,0.43,4.8%,11.9%,50.0%,52.4%,28.6%,4/9,33.3%,25.6%,7.7%,21.7%,31.3%,0/1,81,2,5,42,21,21,3,0:48
+28-Jun-2021,Porto CH,3,Hard,Q1,1181,585,1,Alt,8,Robert Galloway,Alexander Zhurbin,6-2 6-2,1.55,9.1%,7.3%,49.1%,70.4%,46.4%,3/5,61.1%,65.0%,0.0%,55.0%,75.0%,6/6,95,5,4,55,27,28,0,0:57
+7-Jun-2021,Orlando 2 CH,3,Hard,Q1,1173,366,0,WC,7,Stefan Kozlov,Robert Galloway,6-4 7-6(4),0.82,3.7%,3.7%,53.1%,67.4%,47.4%,2/5,47.0%,34.3%,5.7%,23.8%,50.0%,2/4,151,3,3,81,43,38,4,1:51
+22-Feb-2021,Singapore,3,Hard,Q2,,219,0,Alt,1,Thai Son Kwiatkowski,Robert Galloway,6-2 6-3,0.75,1.8%,3.6%,50.9%,60.7%,51.9%,8/11,43.7%,32.8%,15.6%,21.6%,48.1%,0/6,119,1,2,55,28,27,10,1:09
+22-Feb-2021,Singapore,3,Hard,Q1,,356,1,Alt,8,Robert Galloway,Vladyslav Orlov,6-4 6-4,1.21,11.3%,4.8%,53.2%,81.8%,51.7%,0/1,53.7%,39.0%,1.7%,29.0%,50.0%,3/8,121,7,3,62,33,29,1,
+18-Jun-2018,Poprad Tatry CH,3,Clay,Q1,1332,393,0,,2,Andreas Haider Maurer,Robert Galloway,6-4 7-5,0.81,4.2%,5.6%,54.2%,59.0%,45.5%,6/11,46.2%,38.3%,6.7%,32.4%,46.2%,3/3,132,3,4,72,39,33,4,1:17
+21-May-2018,Loughborough CH,3,Hard,Q1,1327,535,0,,7,Jurij Rodionov,Robert Galloway,6-0 7-5,0.45,1.5%,6.1%,66.7%,59.1%,27.3%,5/10,38.5%,23.3%,2.3%,20.0%,37.5%,1/1,109,1,4,66,44,22,1,0:54
+14-May-2018,Lisbon CH,3,Clay,Q2,1327,343,0,,3,Joris De Loore,Robert Galloway,6-1 6-1,0.34,0.0%,4.9%,56.1%,47.8%,38.9%,2/7,32.1%,18.9%,10.8%,10.5%,27.8%,0/1,78,0,2,41,23,18,4,0:41
+14-May-2018,Lisbon CH,3,Clay,Q1,1327,,1,,,Robert Galloway,Hunter Reese,6-3 6-1,1.59,8.5%,6.4%,66.0%,77.4%,37.5%,3/5,60.2%,57.6%,3.0%,56.4%,59.3%,6/15,113,4,3,47,31,16,2,1:04
+23-Apr-2018,Tallahassee CH,3,Clay,Q1,1314,1113,0,,,Nathaniel Lammons,Robert Galloway,7-5 6-4,0.82,0.0%,4.1%,47.3%,60.0%,41.0%,5/10,45.4%,41.0%,3.8%,26.7%,60.6%,3/8,152,0,3,74,35,39,3,1:26
+16-Apr-2018,Sarasota CH,3,Clay,Q1,1316,1235,0,,,Samuel Shropshire,Robert Galloway,6-2 6-2,0.65,4.2%,10.4%,56.3%,51.9%,38.1%,2/7,40.2%,35.2%,5.6%,24.2%,52.4%,1/5,102,2,5,48,27,21,3,1:04
+19-Mar-2018,Bahrain F1,3,Hard,QF,1762,1299,0,Q,,Riccardo Maiga,Robert Galloway,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Bahrain F1,3,Hard,R16,1762,1531,1,Q,,Robert Galloway,Palaphoom Kovapitukted,6-7(5) 6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Bahrain F1,3,Hard,R32,1762,721,1,Q,,Robert Galloway,Fred Simonsson,6-7(3) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,USA F27,3,Hard,R16,,804,0,Q,,Borna Gojo,Robert Galloway,W/O,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,USA F27,3,Hard,R32,,,1,Q,Q,Robert Galloway,Joshua Peck,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Lexington CH,3,Hard,Q1,2060,,0,8,WC,Nils Ellefsen,Robert Galloway,6-4 6-4,0.90,3.2%,1.6%,56.5%,62.9%,37.0%,4/9,46.8%,43.8%,7.3%,33.3%,61.1%,3/15,158,2,1,62,35,27,7,1:42
+10-Jul-2017,Winnetka CH,3,Hard,Q3,2092,814,0,,3,Aron Hiltzik,Robert Galloway,6-3 6-1,0.65,3.9%,11.8%,45.1%,56.5%,28.6%,6/11,39.5%,38.1%,1.6%,24.4%,63.6%,1/5,114,2,6,51,23,28,1,1:10
+10-Jul-2017,Winnetka CH,3,Hard,Q2,2092,1089,1,,5,Robert Galloway,Jonathan Chang,7-6(4) 6-2,1.20,2.9%,5.7%,61.4%,65.1%,44.4%,3/6,54.2%,51.4%,0.0%,42.5%,62.5%,5/9,142,2,4,70,43,27,0,1:27
+10-Jul-2017,Winnetka CH,3,Hard,Q1,2092,1878,1,,,Robert Galloway,Jordan Parker,6-1 6-1,3.17,8.8%,5.9%,41.2%,92.9%,75.0%,0/0,65.6%,55.9%,5.1%,47.1%,68.0%,5/10,93,3,2,34,14,20,3,0:51
+26-Jun-2017,Spain F19,3,Hard,R32,2055,451,0,Q,7,Gonzalo Escobar,Robert Galloway,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Savannah CH,3,Clay,Q2,2078,562,0,,8,Wil Spencer,Robert Galloway,6-2 6-4,0.66,0.0%,7.2%,69.6%,56.3%,28.6%,5/10,41.9%,34.5%,0.0%,31.6%,41.2%,2/6,124,0,5,69,48,21,0,1:15
+1-May-2017,Savannah CH,3,Clay,Q1,2078,1608,1,,WC,Robert Galloway,Nicholas Bybel,6-2 6-2,1.92,5.8%,1.9%,57.7%,63.3%,77.3%,4/5,64.6%,59.1%,4.5%,51.9%,70.6%,5/8,96,3,1,52,30,22,2,1:05
+3-Apr-2017,Greece F5,3,Hard,R32,2071,793,0,Q,,Martin Beran,Robert Galloway,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2017,USA F2,3,Hard,R32,2076,,0,Q,Q,Henry Craig,Robert Galloway,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,USA F37,3,Clay,R32,2049,,0,Q,Q,Jack Mingjie Lin,Robert Galloway,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Spain F25,3,Hard,R32,1353,679,0,Q,6,Viktor Durasovic,Robert Galloway,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Spain F24,3,Hard,R32,1475,495,0,Q,6,Bernabe Zapata Miralles,Robert Galloway,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Portugal F10,3,Hard,R16,1472,877,0,WC,,Julian Ocleppo,Robert Galloway,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Portugal F10,3,Hard,R32,1472,1327,1,WC,,Robert Galloway,Alexander Centenari,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Portugal F8,3,Hard,R32,1460,814,0,Q,,Hugo Voljacques,Robert Galloway,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,R32,1454,1260,0,Q,WC,Jeremy Efferding,Robert Galloway,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2016,Greece F3,3,Hard,R32,1461,807,0,Q,,Sami Reinwein,Robert Galloway,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,Canada F1,3,Hard,R32,1463,490,0,Q,,Luke Bambridge,Robert Galloway,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,USA F6,3,Clay,R32,1461,266,0,Q,1,Gonzalo Lama,Robert Galloway,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Turkey F41,3,Hard,R16,1544,228,0,LL,1,Ramkumar Ramanathan,Robert Galloway,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Turkey F41,3,Hard,R32,1544,911,1,LL,,Robert Galloway,Sarp Agabigun,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,Turkey F40,3,Hard,R32,1744,1480,0,Q,Q,Thomas Statzberger,Robert Galloway,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Turkey F39,3,Hard,R16,,402,0,Q,2,Edoardo Eremin,Robert Galloway,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Turkey F39,3,Hard,R32,,1733,1,Q,WC,Robert Galloway,Tinotenda Chanakira,W/O,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,R16,,483,0,Q,7,Romain Barbosa,Robert Galloway,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,R32,,,1,Q,Q,Robert Galloway,Kasper Elsvad,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,

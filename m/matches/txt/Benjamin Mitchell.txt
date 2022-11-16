@@ -1,0 +1,401 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+5-Mar-2018,Australia F2,3,Grass,QF,620,284,0,,4,Dayne Kelly,Benjamin Mitchell,W/O,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Australia F2,3,Grass,R16,620,565,1,,,Benjamin Mitchell,Nicholas S Hu,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Australia F2,3,Grass,R32,620,1384,1,,,Benjamin Mitchell,Nathan Eshmade,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Australia F1,3,Grass,SF,622,558,0,,,Luke Saville,Benjamin Mitchell,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Australia F1,3,Grass,QF,622,273,1,,3,Benjamin Mitchell,Dayne Kelly,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Australia F1,3,Grass,R16,622,944,1,,,Benjamin Mitchell,Scott Puodziunas,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Australia F1,3,Grass,R32,622,1045,1,,,Benjamin Mitchell,Calum Puttergill,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Launceston CH,3,Hard,R16,676,281,0,Q,,Dayne Kelly,Benjamin Mitchell,4-6 6-3 6-4,0.77,4.2%,5.0%,68.3%,62.2%,36.8%,16/21,45.8%,35.1%,9.6%,25.0%,47.6%,3/11,214,5,6,120,82,38,9,2:29
+5-Feb-2018,Launceston CH,3,Hard,R32,676,235,1,Q,6,Benjamin Mitchell,Alex Bolt,6-4 6-2,1.32,3.4%,5.2%,77.6%,66.7%,46.2%,5/7,55.8%,50.0%,14.5%,32.4%,71.4%,5/8,120,2,3,58,45,13,9,1:12
+5-Feb-2018,Launceston CH,3,Hard,Q3,676,504,1,,8,Benjamin Mitchell,Ulises Blanch,6-4 6-7(4) 7-5,1.03,3.4%,1.7%,78.8%,54.8%,72.0%,5/10,51.1%,42.7%,11.7%,36.9%,52.6%,7/11,221,4,2,118,93,25,12,2:06
+5-Feb-2018,Launceston CH,3,Hard,Q2,676,548,1,,,Benjamin Mitchell,Jacob Grills,7-5 6-3,1.33,6.8%,2.7%,75.3%,63.6%,77.8%,4/5,56.2%,43.8%,1.6%,38.1%,54.5%,3/6,137,5,2,73,55,18,1,1:25
+5-Feb-2018,Launceston CH,3,Hard,Q1,676,344,1,,2,Benjamin Mitchell,Sebastian Fanselow,6-3 3-6 7-5,1.13,6.9%,5.7%,75.9%,69.7%,52.4%,3/6,52.0%,38.9%,5.6%,34.4%,48.3%,4/7,177,6,5,87,66,21,5,1:52
+29-Jan-2018,Burnie CH,3,Hard,Q1,678,386,0,,5,Liam Caruana,Benjamin Mitchell,6-1 6-4,0.49,6.0%,4.5%,58.2%,64.1%,42.9%,3/6,41.0%,22.0%,12.0%,20.7%,23.8%,0/1,117,4,3,67,39,28,6,1:12
+8-Jan-2018,Canberra CH,3,Hard,R16,737,69,0,WC,2,Florian Mayer,Benjamin Mitchell,6-4 7-6(6),0.82,4.2%,6.3%,75.8%,59.7%,30.4%,6/11,46.5%,38.7%,6.7%,38.0%,40.0%,4/8,170,4,6,95,72,23,5,1:31
+8-Jan-2018,Canberra CH,3,Hard,R32,737,931,1,WC,WC,Benjamin Mitchell,Dane Propoggia,3-6 6-3 6-1,1.37,13.0%,2.9%,79.7%,76.4%,50.0%,3/4,54.4%,39.7%,7.7%,36.4%,44.1%,4/6,147,9,2,69,55,14,6,1:20
+30-Oct-2017,Canberra CH,3,Hard,R16,826,301,0,LL,,Marc Polmans,Benjamin Mitchell,6-2 2-6 7-5,0.87,2.9%,4.8%,72.1%,57.3%,48.3%,12/17,47.9%,39.5%,1.2%,35.6%,48.1%,4/9,190,3,5,104,75,29,1,2:03
+30-Oct-2017,Canberra CH,3,Hard,R32,826,422,1,LL,,Benjamin Mitchell,Sasi Kumar Mukund,6-4 6-4,1.27,5.6%,5.6%,56.9%,75.6%,41.9%,4/6,55.4%,49.3%,4.5%,43.5%,61.9%,4/10,139,4,4,72,41,31,3,1:36
+30-Oct-2017,Canberra CH,3,Hard,Q3,826,586,0,8,4,Matthew Barton,Benjamin Mitchell,6-3 6-4,0.65,5.1%,10.2%,74.6%,54.5%,46.7%,6/10,42.1%,30.9%,12.7%,14.3%,48.1%,2/4,114,3,6,59,44,15,7,1:00
+30-Oct-2017,Canberra CH,3,Hard,Q2,826,1399,1,8,,Benjamin Mitchell,Matthew Christopher Romios,6-1 6-0,3.47,10.8%,0.0%,75.7%,82.1%,77.8%,0/0,73.9%,65.6%,3.1%,66.7%,63.6%,5/5,69,4,0,37,28,9,1,0:38
+30-Oct-2017,Canberra CH,3,Hard,Q1,826,,1,8,,Benjamin Mitchell,Eduardo Russi,6-1 6-1,2.54,19.4%,5.6%,66.7%,95.8%,41.7%,0/0,65.9%,56.5%,2.2%,57.7%,55.0%,5/8,82,7,2,36,24,12,1,0:49
+23-Oct-2017,Traralgon CH,3,Hard,R32,828,214,0,WC,5,Noah Rubin,Benjamin Mitchell,7-6(1) 6-3,0.86,3.2%,4.8%,74.2%,58.7%,25.0%,2/6,45.9%,43.2%,6.3%,37.7%,52.9%,3/14,157,2,3,62,46,16,6,1:37
+9-Oct-2017,Australia F7,3,Hard,R32,884,639,0,WC,,Xin Gao,Benjamin Mitchell,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,Australia F6,3,Hard,QF,1772,820,0,SE,,Andrew Harris,Benjamin Mitchell,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,Australia F6,3,Hard,R16,1772,399,1,SE,7,Benjamin Mitchell,Bradley Mousley,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,Australia F6,3,Hard,R32,1772,766,1,SE,,Benjamin Mitchell,Francis Casey Alcantara,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Australia F5,3,Hard,F,1279,423,0,,,Bradley Mousley,Benjamin Mitchell,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Australia F5,3,Hard,SF,1279,374,1,,,Benjamin Mitchell,Maverick Banes,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Australia F5,3,Hard,QF,1279,411,1,,5,Benjamin Mitchell,Sora Fukuda,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Australia F5,3,Hard,R16,1279,250,1,,,Benjamin Mitchell,Omar Jasika,7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Australia F5,3,Hard,R32,1279,1060,1,,PR,Benjamin Mitchell,Dane Propoggia,6-0 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2017,Australia F4,3,Hard,R16,1284,426,0,,2,Bradley Mousley,Benjamin Mitchell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2017,Australia F4,3,Hard,R32,1284,1963,1,,WC,Benjamin Mitchell,Chanchai Sookton Eng,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Australia F7,3,Hard,R32,251,,0,1,Q,Leon Frost,Benjamin Mitchell,2-1 RET,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Australia F5,3,Hard,QF,252,811,0,1,,Jarmere Jenkins,Benjamin Mitchell,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Australia F5,3,Hard,R16,252,1331,1,1,,Benjamin Mitchell,Scott Puodziunas,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Australia F5,3,Hard,R32,252,1748,1,1,Q,Benjamin Mitchell,Ivan Goluza,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Aptos CH,3,Hard,R16,239,338,0,,,Marinko Matosevic,Benjamin Mitchell,6-2 6-1,0.71,0.0%,13.5%,53.8%,57.1%,29.2%,6/11,41.6%,39.3%,6.6%,36.8%,43.5%,1/10,113,0,7,52,28,24,4,1:19
+8-Aug-2016,Aptos CH,3,Hard,R32,239,344,1,,,Benjamin Mitchell,Dayne Kelly,6-3 6-1,1.61,4.3%,8.5%,72.3%,73.5%,46.2%,2/3,60.2%,54.9%,0.0%,50.0%,58.6%,5/7,98,2,4,47,34,13,0,1:04
+1-Aug-2016,Granby CH,3,Hard,R32,240,181,0,,7,Vincent Millot,Benjamin Mitchell,6-3 6-2,0.74,3.1%,9.2%,72.3%,53.2%,27.8%,11/16,43.2%,40.0%,6.7%,37.5%,42.9%,2/6,125,2,6,65,47,18,4,1:19
+18-Jul-2016,Binghamton CH,3,Hard,R32,234,275,0,,,Nicolas Meister,Benjamin Mitchell,6-3 7-6(3),0.84,7.5%,4.5%,53.7%,55.6%,48.4%,4/8,45.8%,40.0%,4.0%,37.5%,42.9%,3/7,142,5,3,67,36,31,3,1:48
+11-Jul-2016,Winnipeg CH,3,Hard,R16,238,452,0,,PR,Blaz Kavcic,Benjamin Mitchell,6-2 6-1,0.55,2.7%,18.9%,54.1%,40.0%,17.6%,2/8,35.2%,38.9%,3.7%,25.0%,59.1%,2/7,91,1,7,37,20,17,2,1:00
+11-Jul-2016,Winnipeg CH,3,Hard,R32,238,143,1,,4,Benjamin Mitchell,Vincent Millot,1-6 7-6(3) 6-4,0.88,3.7%,14.0%,69.2%,66.2%,30.3%,6/12,48.2%,39.5%,1.2%,28.6%,54.1%,4/9,193,4,15,107,74,33,1,1:57
+4-Jul-2016,Winnetka CH,3,Hard,R16,240,167,0,,8,Francis Tiafoe,Benjamin Mitchell,7-5 6-3,0.83,2.9%,10.1%,60.9%,50.0%,37.0%,3/10,45.2%,45.5%,10.9%,40.7%,50.0%,4/8,124,2,7,69,42,27,6,1:17
+4-Jul-2016,Winnetka CH,3,Hard,R32,240,267,1,,,Benjamin Mitchell,Ernesto Escobedo,6-4 3-6 7-5,1.08,5.2%,5.2%,67.0%,67.7%,53.1%,6/9,51.5%,40.2%,9.3%,22.6%,61.4%,4/8,194,5,5,97,65,32,9,2:07
+27-Jun-2016,Canada F4,3,Hard,R32,240,560,0,1,,Raymond Sarmiento,Benjamin Mitchell,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Taipei CH,3,Hard,R16,242,55,0,,1,Ricardas Berankis,Benjamin Mitchell,7-5 6-4,0.60,12.6%,6.3%,67.4%,70.3%,32.3%,9/12,45.5%,25.4%,6.8%,17.5%,42.1%,1/5,154,12,6,95,64,31,4,1:37
+25-Apr-2016,Taipei CH,3,Hard,R32,242,842,1,,WC,Benjamin Mitchell,Chu Huan Yi,6-2 7-6(3),1.87,10.9%,9.1%,74.5%,82.9%,57.1%,0/1,58.4%,44.3%,10.0%,31.0%,64.3%,3/6,125,6,5,55,41,14,7,1:15
+14-Mar-2016,Drummondville CH,3,Hard,R32,248,577,0,,Q,Tim Van Rijthoven,Benjamin Mitchell,3-6 7-6(6) 6-2,0.88,10.1%,10.1%,52.8%,83.0%,45.2%,2/5,48.5%,30.5%,8.5%,21.7%,41.7%,2/4,171,9,9,89,47,42,7,1:52
+22-Feb-2016,Kyoto CH,3,Hard,R16,249,273,0,,,Matthew Barton,Benjamin Mitchell,6-1 7-6(5),0.70,4.9%,4.9%,55.7%,79.4%,44.4%,3/5,43.2%,25.4%,21.1%,16.3%,39.3%,0/3,132,3,3,61,34,27,15,1:09
+22-Feb-2016,Kyoto CH,3,Hard,R32,249,230,1,,8,Benjamin Mitchell,Duck Hee Lee,7-6(3) 6-1,1.55,15.7%,4.3%,74.3%,80.8%,50.0%,5/5,58.2%,42.2%,0.0%,46.2%,36.0%,2/7,134,11,3,70,52,18,0,1:14
+15-Feb-2016,New Delhi CH,3,Hard,R16,261,161,0,,3,Stephane Robert,Benjamin Mitchell,7-6(4) 7-5,0.86,3.7%,8.4%,68.2%,54.8%,38.2%,15/21,46.7%,43.3%,5.6%,27.7%,60.5%,5/10,197,4,9,107,73,34,5,1:55
+15-Feb-2016,New Delhi CH,3,Hard,R32,261,408,1,,Q,Benjamin Mitchell,Kento Takeuchi,4-1 RET,2.00,6.3%,18.8%,68.8%,90.9%,40.0%,0/0,64.3%,50.0%,0.0%,55.6%,33.3%,1/1,28,1,3,16,11,5,0,0:14
+1-Feb-2016,Launceston CH,3,Hard,QF,233,175,0,,3,Saketh Myneni,Benjamin Mitchell,6-4 6-2,0.79,6.8%,15.9%,59.1%,57.7%,27.8%,0/6,44.0%,42.9%,5.4%,39.4%,47.8%,3/7,100,3,7,44,26,18,3,0:57
+1-Feb-2016,Launceston CH,3,Hard,R16,233,946,1,,LL,Benjamin Mitchell,Jarryd Chaplin,6-4 6-2,1.29,1.6%,9.7%,69.4%,76.7%,36.8%,3/4,55.4%,45.8%,1.7%,28.1%,66.7%,4/9,121,1,6,62,43,19,1,1:11
+1-Feb-2016,Launceston CH,3,Hard,R32,233,180,1,,5,Benjamin Mitchell,Matteo Donati,6-2 6-3,2.29,11.9%,4.8%,78.6%,81.8%,66.7%,0/0,61.9%,49.1%,9.1%,28.1%,78.3%,4/8,97,5,2,42,33,9,5,0:58
+4-Jan-2016,Brisbane,3,Hard,R32,231,277,0,WC,Q,Tobias Kamke,Benjamin Mitchell,6-2 6-4,0.68,6.8%,5.1%,62.7%,64.9%,45.5%,5/8,43.2%,28.8%,1.7%,19.4%,43.5%,0/0,118,4,3,59,37,22,1,1:19
+23-Nov-2015,Toyota CH,3,Carpet,R16,220,129,0,Q,5,Yuichi Sugita,Benjamin Mitchell,3-6 6-1 3-1 RET,0.85,4.5%,16.7%,56.1%,64.9%,27.6%,10/15,46.1%,44.0%,6.7%,33.3%,60.0%,3/11,141,3,11,66,37,29,5,
+23-Nov-2015,Toyota CH,3,Carpet,R32,220,312,1,Q,,Benjamin Mitchell,Matt Reid,6-3 3-6 6-1,1.09,8.7%,8.7%,56.5%,75.0%,52.5%,7/8,53.0%,37.8%,17.6%,28.6%,56.0%,3/5,166,8,8,92,52,40,13,
+9-Nov-2015,Australia F10,3,Hard,F,247,628,1,2,,Benjamin Mitchell,Sebastian Fanselow,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,SF,247,376,1,2,3,Benjamin Mitchell,Jose Rubin Statham,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,QF,247,715,1,2,,Benjamin Mitchell,Blake Mott,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R16,247,1558,1,2,WC,Benjamin Mitchell,Max Purcell,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R32,247,1360,1,2,WC,Benjamin Mitchell,Mitchell William Robins,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Canberra CH,3,Hard,F,305,203,1,,5,Benjamin Mitchell,Luke Saville,5-7 6-0 6-1,1.24,4.5%,3.4%,62.9%,69.6%,45.5%,5/7,55.1%,48.7%,7.7%,45.2%,52.8%,6/8,167,4,3,89,56,33,6,
+2-Nov-2015,Canberra CH,3,Hard,SF,305,359,1,,,Benjamin Mitchell,Matt Reid,6-3 6-2,1.49,11.9%,0.0%,59.3%,77.1%,62.5%,3/3,57.4%,42.9%,3.6%,34.3%,57.1%,3/7,115,7,0,59,35,24,2,
+2-Nov-2015,Canberra CH,3,Hard,QF,305,268,1,,8,Benjamin Mitchell,Alex Bolt,6-4 6-2,1.79,14.9%,4.3%,76.6%,80.6%,54.5%,1/2,60.2%,45.7%,8.7%,34.5%,64.7%,4/5,93,7,2,47,36,11,4,
+2-Nov-2015,Canberra CH,3,Hard,R16,305,108,1,,2,Benjamin Mitchell,Matthew Ebden,6-7(6) 6-4 6-2,1.04,5.7%,1.0%,67.6%,64.8%,55.9%,5/7,51.5%,39.8%,7.5%,32.8%,51.4%,5/9,198,6,1,105,71,34,7,
+2-Nov-2015,Canberra CH,3,Hard,R32,305,508,1,,,Benjamin Mitchell,Dane Propoggia,6-1 3-0 RET,1.70,18.8%,6.3%,59.4%,84.2%,38.5%,0/0,61.8%,58.3%,0.0%,50.0%,71.4%,4/6,68,6,2,32,19,13,0,
+26-Oct-2015,Traralgon CH,3,Hard,QF,322,188,0,,3,Brydan Klein,Benjamin Mitchell,6-1 6-2,0.59,5.1%,5.1%,64.1%,60.0%,28.6%,1/5,37.9%,30.4%,7.1%,27.3%,34.8%,0/5,95,2,2,39,25,14,4,
+26-Oct-2015,Traralgon CH,3,Hard,R16,322,403,1,,Q,Benjamin Mitchell,Robin Stanek,3-6 6-2 6-2,1.38,4.6%,6.2%,63.1%,73.2%,66.7%,3/4,53.7%,40.2%,9.8%,33.9%,53.8%,4/9,147,3,4,65,41,24,8,
+26-Oct-2015,Traralgon CH,3,Hard,R32,322,285,1,,8) ,Benjamin Mitchell,Marinko Matosevic,6-3 6-1,1.32,1.6%,3.2%,77.4%,62.5%,64.3%,7/7,57.0%,48.9%,6.7%,48.4%,50.0%,4/5,107,1,2,62,48,14,3,
+19-Oct-2015,Australia F9,3,Hard,SF,324,314,0,5,4,Gavin Van Peperzeel,Benjamin Mitchell,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Australia F9,3,Hard,QF,324,263,1,5,2,Benjamin Mitchell,Zhe Li,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Australia F9,3,Hard,R16,324,886,1,5,,Benjamin Mitchell,Xin Gao,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Australia F9,3,Hard,R32,324,627,1,5,,Benjamin Mitchell,Akira Santillan,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Bangkok CH,3,Hard,QF,353,195,0,,5,Jordan Thompson,Benjamin Mitchell,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Bangkok CH,3,Hard,R16,353,432,1,,,Benjamin Mitchell,N Sriram Balaji,6-7(4) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,Bangkok CH,3,Hard,R32,353,96,1,,1,Benjamin Mitchell,Tatsuma Ito,2-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Thailand F7,3,Hard,QF,366,391,0,4,5,Dane Propoggia,Benjamin Mitchell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Thailand F7,3,Hard,R16,366,2181,1,4,WC,Benjamin Mitchell,Nutthanon Kadchapanan,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Thailand F7,3,Hard,R32,366,1516,1,4,WC,Benjamin Mitchell,Congsup Congcar,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Thailand F6,3,Hard,SF,364,240,0,4,2,Jordan Thompson,Benjamin Mitchell,6-7(5) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Thailand F6,3,Hard,QF,364,848,1,4,,Benjamin Mitchell,Pruchya Isarow,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Thailand F6,3,Hard,R16,364,1473,1,4,Q,Benjamin Mitchell,Kunal Anand,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Thailand F6,3,Hard,R32,364,,1,4,Q,Benjamin Mitchell,Jake Delaney,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Winnetka CH,3,Hard,R32,262,103,0,,2,Illya Marchenko,Benjamin Mitchell,7-6(0) 6-3,0.70,10.7%,7.1%,53.6%,76.7%,46.2%,0/2,43.0%,26.2%,10.8%,18.5%,31.6%,1/1,121,6,4,56,30,26,7,
+29-Jun-2015,Wimbledon Q,3,Grass,Q2,262,165,0,,,Marton Fucsovics,Benjamin Mitchell,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Wimbledon Q,3,Grass,Q1,262,268,1,,,Benjamin Mitchell,Remi Boutillier,6-7(5) 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2015,Manchester CH,3,Grass,R32,230,72,0,,2,Samuel Groth,Benjamin Mitchell,6-2 6-3,0.55,3.3%,4.9%,59.0%,69.4%,36.0%,5/8,41.8%,24.5%,22.4%,21.2%,31.3%,0/3,110,2,3,61,36,25,11,1:00
+24-May-2015,Roland Garros Q,3,Clay,Q1,230,172,0,,,Guilherme Clezar,Benjamin Mitchell,7-6(4) 6-4,0.85,3.1%,4.6%,49.2%,59.4%,42.4%,2/7,46.2%,41.8%,9.0%,37.3%,56.3%,4/5,132,2,3,65,32,33,6,1:32
+16-Mar-2015,Shenzhen CH,3,Hard,R32,206,236,0,,,Jordan Thompson,Benjamin Mitchell,4-0 RET,0.00,7.7%,0.0%,46.2%,16.7%,42.9%,1/3,19.0%,0.0%,12.5%,0.0%,0.0%,0/0,21,1,0,13,6,7,1,0:15
+9-Mar-2015,Guangzhou CH,3,Hard,R32,206,173,0,,,Kimmer Coppejans,Benjamin Mitchell,6-2 7-6(2),0.69,12.0%,8.0%,54.7%,68.3%,35.3%,6/10,44.0%,32.2%,5.1%,34.2%,28.6%,2/6,134,9,6,75,41,34,3,1:23
+23-Feb-2015,Kyoto CH,3,Hard,R16,213,597,0,8,Q,Hiroki Kondo,Benjamin Mitchell,6-4 6-4,0.84,10.3%,5.9%,66.2%,62.2%,43.5%,5/9,46.6%,36.9%,10.8%,23.1%,57.7%,2/4,133,7,4,68,45,23,7,1:27
+23-Feb-2015,Kyoto CH,3,Hard,R32,213,279,1,8,,Benjamin Mitchell,Liang Chi Huang,6-4 6-3,1.62,25.0%,3.8%,63.5%,93.9%,42.1%,2/2,55.4%,40.6%,8.7%,27.9%,61.5%,3/10,121,13,2,52,33,19,6,1:05
+9-Feb-2015,Launceston CH,3,Hard,QF,233,268,0,,,Jordan Thompson,Benjamin Mitchell,6-2 6-3,0.56,1.9%,5.7%,50.9%,55.6%,38.5%,7/11,39.0%,29.8%,2.1%,22.6%,43.8%,1/1,100,1,3,53,27,26,1,1:15
+9-Feb-2015,Launceston CH,3,Hard,R16,233,548,1,,,Benjamin Mitchell,Christopher Oconnell,3-6 6-3 6-4,1.01,5.4%,4.3%,69.6%,70.3%,35.7%,2/5,50.6%,40.5%,10.7%,30.2%,51.2%,4/9,176,5,4,92,64,28,9,2:16
+9-Feb-2015,Launceston CH,3,Hard,R32,233,370,1,,,Benjamin Mitchell,Maverick Banes,6-4 6-2,1.36,8.6%,10.3%,46.6%,85.2%,51.6%,1/2,57.1%,44.7%,10.6%,44.8%,44.4%,4/7,105,5,6,58,27,31,5,1:15
+2-Feb-2015,Burnie CH,3,Hard,SF,258,191,0,,,Alex Bolt,Benjamin Mitchell,4-6 6-1 7-6(3),0.82,2.2%,8.9%,61.1%,70.9%,45.7%,3/6,46.6%,31.8%,10.2%,25.0%,43.8%,2/5,178,2,8,90,55,35,9,1:56
+2-Feb-2015,Burnie CH,3,Hard,QF,258,202,1,,,Benjamin Mitchell,Ze Zhang,6-2 6-0,2.15,7.7%,5.1%,76.9%,80.0%,55.6%,3/3,63.6%,55.1%,4.1%,53.8%,60.0%,5/13,88,3,2,39,30,9,2,0:47
+2-Feb-2015,Burnie CH,3,Hard,R16,258,108,1,,1,Benjamin Mitchell,James Duckworth,6-4 3-6 7-5,1.03,2.2%,4.3%,67.7%,69.8%,60.0%,4/6,50.5%,34.4%,14.0%,29.8%,41.7%,3/8,186,2,4,93,63,30,13,1:54
+2-Feb-2015,Burnie CH,3,Hard,R32,258,1279,1,,Q,Benjamin Mitchell,Stefanos Tsitsipas,6-2 6-2,2.20,4.5%,2.3%,56.8%,80.0%,68.4%,2/3,64.2%,54.9%,2.0%,50.0%,64.7%,5/7,95,2,1,44,25,19,1,0:55
+19-Jan-2015,Australian Open Q,3,Hard,Q1,238,144,0,,26,Illya Marchenko,Benjamin Mitchell,7-6(4) 6-4,0.86,4.4%,1.5%,47.1%,75.0%,63.9%,0/1,47.8%,26.5%,7.4%,21.7%,36.4%,0/2,136,3,1,68,32,36,5,1:32
+1-Dec-2014,Thailand F11,3,Hard,F,268,360,0,3,6,Danai Udomchoke,Benjamin Mitchell,6-0 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Thailand F11,3,Hard,SF,268,431,1,3,,Benjamin Mitchell,Johan Sebastien Tatlot,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Thailand F11,3,Hard,QF,268,391,1,3,7,Benjamin Mitchell,Chuhan Wang,6-1 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Thailand F11,3,Hard,R16,268,1244,1,3,LL,Benjamin Mitchell,Peerakiat Siriluethaiwattana,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Thailand F11,3,Hard,R32,268,719,1,3,,Benjamin Mitchell,Pruchya Isarow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Thailand F10,3,Hard,R16,267,431,0,1,,Yan Bai,Benjamin Mitchell,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Thailand F10,3,Hard,R32,267,2087,1,1,Q,Benjamin Mitchell,Kelsey Stevenson,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Traralgon2 CH,3,Hard,SF,264,111,0,,2,James Ward,Benjamin Mitchell,7-5 6-2,0.65,8.0%,5.3%,58.7%,65.9%,48.4%,5/8,44.4%,26.7%,16.7%,21.1%,36.4%,0/3,135,6,4,75,44,31,10,1:25
+3-Nov-2014,Traralgon2 CH,3,Hard,QF,264,202,1,,,Benjamin Mitchell,John Patrick Smith,4-6 7-6(6) 6-2,1.27,6.0%,2.4%,65.1%,77.8%,55.2%,1/4,53.1%,38.3%,11.7%,28.6%,52.6%,4/8,177,5,2,83,54,29,11,1:50
+3-Nov-2014,Traralgon2 CH,3,Hard,R16,264,360,1,,,Benjamin Mitchell,Nicolas Meister,6-3 6-1,2.52,17.1%,2.4%,70.7%,79.3%,83.3%,0/0,61.8%,49.2%,3.3%,42.1%,60.9%,4/9,102,7,1,41,29,12,2,1:06
+3-Nov-2014,Traralgon2 CH,3,Hard,R32,264,120,1,,3,Benjamin Mitchell,Bradley Klahn,6-4 2-6 6-4,1.02,8.9%,7.8%,64.4%,70.7%,46.9%,1/4,49.7%,38.4%,6.1%,32.4%,53.6%,3/11,189,8,7,90,58,32,6,1:52
+27-Oct-2014,Traralgon CH,3,Hard,QF,266,153,0,,4,Hiroki Moriya,Benjamin Mitchell,6-2 4-6 7-5,0.91,6.2%,3.1%,62.9%,59.0%,55.6%,1/6,47.2%,38.5%,3.4%,25.4%,53.7%,3/15,214,6,3,97,61,36,4,2:22
+27-Oct-2014,Traralgon CH,3,Hard,R16,266,292,1,,WC,Benjamin Mitchell,John Millman,6-2 1-6 7-6(6),0.86,3.5%,4.7%,68.6%,59.3%,51.9%,1/6,46.9%,37.1%,3.4%,35.9%,40.0%,5/7,175,3,4,86,59,27,3,1:56
+27-Oct-2014,Traralgon CH,3,Hard,R32,266,222,1,,8,Benjamin Mitchell,Ti Chen,7-6(1) 7-6(1),1.04,2.2%,9.9%,70.3%,67.2%,44.4%,8/11,51.8%,41.3%,1.3%,35.6%,62.5%,3/6,166,2,9,91,64,27,1,2:06
+25-Aug-2014,US Open Q,3,Hard,Q1,223,165,0,,,Ruben Bemelmans,Benjamin Mitchell,6-2 6-7(4) 6-1,0.63,12.1%,7.1%,66.7%,62.1%,39.4%,4/9,42.6%,28.6%,6.0%,24.1%,38.5%,1/5,183,12,7,99,66,33,5,1:43
+21-Jul-2014,Lexington CH,3,Hard,R32,226,244,0,,,Emilio Gomez,Benjamin Mitchell,4-6 6-3 6-3,0.78,10.5%,12.4%,55.2%,77.6%,36.2%,8/11,46.8%,31.8%,5.9%,29.4%,35.3%,1/5,190,11,13,105,58,47,5,1:55
+14-Jul-2014,Granby CH,3,Hard,SF,238,500,0,,,Fabrice Martin,Benjamin Mitchell,6-3 6-2,0.46,10.0%,8.0%,52.0%,61.5%,45.8%,2/5,38.1%,21.3%,14.9%,11.5%,33.3%,0/0,97,5,4,50,26,24,7,1:04
+14-Jul-2014,Granby CH,3,Hard,QF,238,171,1,,5,Benjamin Mitchell,Luke Saville,6-3 4-3 RET,1.16,2.3%,7.0%,58.1%,68.0%,38.9%,5/8,53.5%,51.2%,7.0%,44.4%,62.5%,5/6,86,1,3,43,25,18,3,1:01
+14-Jul-2014,Granby CH,3,Hard,R16,238,114,1,,2,Benjamin Mitchell,Malek Jaziri,6-7(3) 7-6(5) 6-1,1.19,6.5%,5.6%,56.1%,65.0%,63.8%,4/7,52.9%,42.2%,9.5%,28.6%,55.0%,5/15,223,7,6,107,60,47,11,2:31
+14-Jul-2014,Granby CH,3,Hard,R32,238,409,1,,,Benjamin Mitchell,Adrien Bossel,6-1 6-7(4) 6-1,1.52,12.0%,8.7%,59.8%,80.0%,51.4%,2/4,58.2%,47.8%,7.8%,32.7%,65.9%,6/13,182,11,8,92,55,37,7,1:51
+7-Jul-2014,Canada F5,3,Hard,SF,260,297,0,2,3,Thanasi Kokkinakis,Benjamin Mitchell,W/O,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Canada F5,3,Hard,QF,260,617,1,2,6,Benjamin Mitchell,Tyler Hochwalt,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Canada F5,3,Hard,R16,260,2113,1,2,Q,Benjamin Mitchell,David Volfson,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Canada F5,3,Hard,R32,260,1172,1,2,,Benjamin Mitchell,Isade Juneau,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Canada F4,3,Hard,F,266,241,1,2,1,Benjamin Mitchell,Filip Peliwo,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Canada F4,3,Hard,SF,266,494,1,2,4,Benjamin Mitchell,Dennis Novikov,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Canada F4,3,Hard,QF,266,1164,1,2,,Benjamin Mitchell,Oscar Fabian Matthews,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Canada F4,3,Hard,R16,266,1065,1,2,,Benjamin Mitchell,Connor Farren,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Canada F4,3,Hard,R32,266,,1,2,Q,Benjamin Mitchell,Hayden Smith,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Canada F3,3,Hard,SF,266,241,0,Q,1,Filip Peliwo,Benjamin Mitchell,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Canada F3,3,Hard,QF,266,1842,1,Q,,Benjamin Mitchell,Alexander Day,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Canada F3,3,Hard,R16,266,563,1,Q,4,Benjamin Mitchell,Brayden Schnur,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Canada F3,3,Hard,R32,266,2054,1,Q,WC,Benjamin Mitchell,David Volfson,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon Q,3,Grass,Q1,266,164,0,,,Marius Copil,Benjamin Mitchell,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Queen's Club Q,3,Grass,Q2,241,149,0,,4,Marsel Ilhan,Benjamin Mitchell,6-7(5) 7-5 1-0 RET,0.84,9.2%,2.6%,63.2%,77.1%,57.1%,4/5,46.5%,25.3%,16.9%,20.4%,34.5%,0/6,159,7,2,76,48,28,14,1:31
+9-Jun-2014,Queen's Club Q,3,Grass,Q1,241,1276,1,,,Benjamin Mitchell,Alexander Jhun,7-5 7-5,1.26,14.7%,0.0%,67.6%,73.9%,54.5%,2/4,53.5%,40.8%,1.3%,40.8%,40.7%,4/11,144,10,0,68,46,22,1,1:17
+3-Jun-2014,Nottingham CH,3,Grass,R16,241,55,0,Q,1,Igor Sijsling,Benjamin Mitchell,6-2 3-6 6-3,0.62,4.1%,3.1%,58.8%,71.9%,35.0%,8/11,43.6%,26.7%,10.7%,24.5%,31.8%,1/6,172,4,3,97,57,40,8,1:34
+3-Jun-2014,Nottingham CH,3,Grass,R32,241,157,1,Q,,Benjamin Mitchell,Rajeev Ram,7-6(2) 7-5,1.28,10.7%,2.7%,68.0%,72.5%,62.5%,3/5,53.9%,39.2%,2.5%,34.6%,48.1%,3/4,154,8,2,75,51,24,2,1:41
+26-May-2014,Italy F16,3,Clay,SF,241,395,0,1,7,Mitchell Krueger,Benjamin Mitchell,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Italy F16,3,Clay,QF,241,692,1,1,,Benjamin Mitchell,Filippo Leonardi,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Italy F16,3,Clay,R16,241,558,1,1,,Benjamin Mitchell,Joao Pedro Sorgi,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Italy F16,3,Clay,R32,241,903,1,1,Q,Benjamin Mitchell,Medy Chettar,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Busan CH,3,Hard,R16,247,197,0,,,Marco Chiudinelli,Benjamin Mitchell,6-4 6-1,0.65,10.4%,4.5%,61.2%,61.0%,42.3%,8/12,43.3%,30.2%,3.8%,17.9%,44.0%,0/4,120,7,3,67,41,26,2,1:16
+12-May-2014,Busan CH,3,Hard,R32,247,143,1,,5,Benjamin Mitchell,Samuel Groth,5-2 RET,3.17,10.5%,0.0%,78.9%,93.3%,50.0%,0/0,63.8%,50.0%,7.1%,40.0%,61.5%,1/4,47,2,0,19,15,4,2,0:27
+5-May-2014,Gimcheon CH,3,Hard,R32,247,204,0,,,Marco Chiudinelli,Benjamin Mitchell,6-2 6-4,0.78,7.7%,7.7%,67.7%,56.8%,47.6%,6/10,44.5%,36.1%,5.6%,21.1%,52.9%,1/5,137,5,5,65,44,21,4,1:22
+31-Mar-2014,Malaysia F1,3,Hard,SF,250,339,0,1,3,Roberto Ortega Olmedo,Benjamin Mitchell,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Malaysia F1,3,Hard,QF,250,,1,1,Q,Benjamin Mitchell,Sanchai Ratiwatana,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Malaysia F1,3,Hard,R16,250,1661,1,1,,Benjamin Mitchell,Punn Bodhidatta,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Malaysia F1,3,Hard,R32,250,,1,1,Q,Benjamin Mitchell,Roy Hobbs,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Philippines F1,3,Hard,SF,246,297,0,1,3,Shuichi Sekiguchi,Benjamin Mitchell,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Philippines F1,3,Hard,QF,246,404,1,1,6,Benjamin Mitchell,Ivo Klec,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Philippines F1,3,Hard,R16,246,985,1,1,,Benjamin Mitchell,Cheng Yu Yu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Philippines F1,3,Hard,R32,246,1542,1,1,,Benjamin Mitchell,Mohd Assri Merzuki,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Guangzhou CH,3,Hard,R32,252,202,0,,,Matthias Bachinger,Benjamin Mitchell,7-5 6-0,0.43,5.4%,1.8%,51.8%,55.2%,44.4%,3/7,37.3%,21.7%,19.6%,16.7%,40.0%,0/0,102,3,1,56,29,27,9,1:00
+3-Feb-2014,West Lakes CH,3,Hard,R16,248,80,0,,1,Bradley Klahn,Benjamin Mitchell,4-6 6-3 6-4,0.67,5.0%,2.0%,64.0%,57.8%,61.1%,7/10,45.2%,27.3%,10.4%,24.5%,33.3%,2/2,177,5,2,100,64,36,8,1:40
+3-Feb-2014,West Lakes CH,3,Hard,R32,248,384,1,,,Benjamin Mitchell,Yuichi Ito,6-1 6-3,1.63,11.5%,3.8%,59.6%,77.4%,57.1%,7/7,58.1%,50.0%,0.0%,42.9%,60.0%,4/14,124,6,2,52,31,21,0,1:09
+27-Jan-2014,Burnie CH,3,Hard,QF,262,233,0,,5,Matt Reid,Benjamin Mitchell,6-4 3-1 RET,0.60,3.4%,5.1%,54.2%,59.4%,48.1%,3/5,42.5%,27.7%,12.8%,22.6%,37.5%,0/3,106,2,3,59,32,27,6,1:05
+27-Jan-2014,Burnie CH,3,Hard,R16,262,164,1,,3,Benjamin Mitchell,Tatsuma Ito,4-6 6-4 6-2,1.43,9.7%,1.4%,61.1%,84.1%,57.1%,0/1,54.1%,37.6%,3.5%,30.2%,45.2%,3/6,157,7,1,72,44,28,3,1:38
+27-Jan-2014,Burnie CH,3,Hard,R32,262,399,1,,,Benjamin Mitchell,Luke Saville,6-1 7-6(4),1.42,4.8%,1.6%,56.5%,77.1%,63.0%,2/3,55.4%,41.2%,5.9%,35.6%,52.2%,3/10,130,3,1,62,35,27,4,1:23
+13-Jan-2014,Australian Open Q,3,Hard,Q1,264,229,0,,,John Patrick Smith,Benjamin Mitchell,7-5 6-3,0.78,5.8%,3.5%,55.8%,70.8%,34.2%,9/12,45.5%,35.4%,5.1%,28.3%,50.0%,1/4,165,5,3,86,48,38,4,1:38
+29-Dec-2013,Brisbane Q,3,Hard,Q2,265,151,0,,,Pierre Hugues Herbert,Benjamin Mitchell,7-5 5-7 7-6(1),1.01,10.4%,6.3%,61.5%,76.3%,73.0%,1/2,49.7%,25.3%,17.2%,14.3%,36.0%,1/1,195,10,6,96,59,37,17,2:03
+29-Dec-2013,Brisbane Q,3,Hard,Q1,265,138,1,,7,Benjamin Mitchell,Wayne Odesnik,6-4 6-4,1.41,14.5%,1.8%,69.1%,86.8%,52.9%,1/1,54.5%,33.3%,3.5%,37.2%,21.4%,2/3,112,8,1,55,38,17,2,1:07
+18-Nov-2013,Toyota CH,3,Carpet,QF,272,201,0,,8,Blaz Rola,Benjamin Mitchell,6-3 7-6(6),0.62,15.0%,3.8%,51.2%,68.3%,46.2%,5/8,44.0%,26.2%,11.5%,25.6%,27.3%,2/3,141,12,3,80,41,39,7,1:28
+18-Nov-2013,Toyota CH,3,Carpet,R16,272,151,1,,3,Benjamin Mitchell,Pierre Hugues Herbert,7-6(12) 6-4,1.16,9.2%,3.9%,57.9%,81.8%,62.5%,2/2,51.3%,30.5%,15.9%,14.9%,51.4%,1/4,158,7,3,76,44,32,13,1:38
+18-Nov-2013,Toyota CH,3,Carpet,R32,272,215,1,,,Benjamin Mitchell,Matt Reid,7-6(5) 6-4,1.79,14.8%,3.3%,73.8%,86.7%,62.5%,2/2,56.6%,35.3%,8.8%,28.6%,46.2%,1/3,129,9,2,61,45,16,6,1:13
+11-Nov-2013,Yokohama CH,3,Hard,R16,270,174,0,,,Jimmy Wang,Benjamin Mitchell,7-6(2) 6-0,0.71,5.2%,6.9%,60.3%,54.3%,34.8%,1/6,42.1%,38.1%,3.2%,36.8%,40.0%,2/3,121,3,4,58,35,23,2,1:20
+11-Nov-2013,Yokohama CH,3,Hard,R32,270,186,1,,,Benjamin Mitchell,Blaz Rola,7-6(4) 6-4,1.26,5.7%,4.3%,75.7%,69.8%,47.1%,2/5,54.1%,44.9%,5.1%,37.8%,54.5%,4/7,148,4,3,70,53,17,4,1:33
+28-Oct-2013,Traralgon CH,3,Hard,QF,240,138,0,7,2,James Duckworth,Benjamin Mitchell,6-2 7-5,0.59,1.6%,7.8%,57.8%,62.2%,40.7%,4/8,41.5%,27.8%,11.1%,16.7%,41.7%,1/4,118,1,5,64,37,27,6,1:18
+28-Oct-2013,Traralgon CH,3,Hard,R16,240,1125,1,7,WC,Benjamin Mitchell,Darren K Polkinghorne,6-2 6-2,3.48,31.7%,0.0%,75.6%,87.1%,80.0%,2/2,66.0%,50.9%,3.8%,51.2%,50.0%,4/9,94,13,0,41,31,10,2,0:49
+28-Oct-2013,Traralgon CH,3,Hard,R32,240,358,1,7,,Benjamin Mitchell,Alex Bolt,6-4 6-3,1.55,14.0%,2.0%,76.0%,81.6%,50.0%,2/2,56.1%,40.4%,7.0%,42.4%,37.5%,3/3,107,7,1,50,38,12,4,1:01
+21-Oct-2013,Melbourne CH,3,Hard,R32,242,128,0,,3,Bradley Klahn,Benjamin Mitchell,7-6(3) 6-4,0.85,5.9%,5.9%,75.0%,68.6%,41.2%,1/4,46.5%,32.4%,8.1%,23.1%,54.5%,2/4,142,4,4,68,51,17,6,1:32
+7-Oct-2013,Tiburon CH,3,Hard,QF,246,116,0,,3,Matthew Ebden,Benjamin Mitchell,6-4 7-6(3),0.71,3.4%,1.1%,67.0%,64.4%,41.4%,11/14,45.8%,30.8%,1.5%,26.8%,37.5%,2/6,153,3,1,88,59,29,1,1:38
+7-Oct-2013,Tiburon CH,3,Hard,R16,246,124,1,,6,Benjamin Mitchell,Rhyne Williams,6-3 6-7(4) 7-6(1),1.09,4.2%,4.2%,66.1%,67.9%,50.0%,5/9,51.4%,41.6%,4.0%,35.1%,52.1%,5/14,243,5,5,118,78,40,5,3:01
+7-Oct-2013,Tiburon CH,3,Hard,R32,246,691,1,,Q,Benjamin Mitchell,Giovanni Lapentti,6-3 6-3,1.30,7.5%,0.0%,66.0%,65.7%,66.7%,1/2,55.2%,44.2%,7.7%,36.8%,64.3%,4/9,105,4,0,53,35,18,4,1:06
+30-Sep-2013,Sacramento CH,3,Hard,R16,254,133,0,,7,Bradley Klahn,Benjamin Mitchell,7-6(6) 6-4,0.75,2.1%,3.1%,63.9%,66.1%,37.1%,8/11,46.6%,33.3%,4.5%,29.2%,44.4%,2/2,163,2,3,97,62,35,3,1:45
+30-Sep-2013,Sacramento CH,3,Hard,R32,254,579,1,,Q,Benjamin Mitchell,Fritz Wolmarans,7-5 6-3,1.13,5.4%,4.1%,70.3%,73.1%,36.4%,4/6,53.3%,42.9%,1.6%,38.1%,52.4%,4/13,137,4,3,74,52,22,1,1:33
+23-Sep-2013,Napa CH,3,Hard,R32,245,268,0,,,Daniel Cox,Benjamin Mitchell,7-6(2) 6-1,0.64,4.2%,1.4%,63.9%,56.5%,34.6%,6/11,41.7%,32.7%,1.8%,28.6%,37.0%,2/5,127,3,1,72,46,26,1,1:30
+2-Sep-2013,Shanghai CH,3,Hard,R16,259,456,0,9,Q,Yasutaka Uchiyama,Benjamin Mitchell,4-6 7-6(9) 6-4,0.88,6.8%,5.9%,72.0%,62.4%,39.4%,7/12,48.2%,39.0%,7.0%,25.0%,56.8%,5/8,218,8,7,118,85,33,7,2:20
+2-Sep-2013,Shanghai CH,3,Hard,R32,259,626,1,9,WC,Benjamin Mitchell,Yan Bai,6-1 6-1,2.10,4.5%,4.5%,65.9%,82.8%,53.3%,3/3,64.5%,57.1%,2.0%,55.2%,60.0%,5/7,93,2,2,44,29,15,1,1:00
+26-Aug-2013,Bangkok CH,3,Hard,R16,259,330,0,8,,Suk Young Jeong,Benjamin Mitchell,6-2 6-1,0.56,7.7%,15.4%,61.5%,53.1%,20.0%,5/11,37.0%,33.3%,4.2%,32.4%,35.7%,1/5,100,4,8,52,32,20,2,1:13
+26-Aug-2013,Bangkok CH,3,Hard,R32,259,278,1,8,,Benjamin Mitchell,Shuichi Sekiguchi,6-4 6-0,2.43,14.0%,0.0%,55.8%,91.7%,63.2%,2/2,62.3%,50.8%,0.0%,54.5%,46.7%,4/12,106,6,0,43,24,19,0,1:10
+29-Jul-2013,Vancouver CH,3,Hard,R32,261,144,0,Q,6,Jimmy Wang,Benjamin Mitchell,6-3 6-4,0.80,15.5%,12.1%,70.7%,61.0%,23.5%,1/6,44.7%,40.0%,3.1%,46.2%,30.8%,3/6,123,9,7,58,41,17,2,1:15
+22-Jul-2013,Lexington CH,3,Hard,R32,254,157,0,,3,Ruben Bemelmans,Benjamin Mitchell,6-3 6-3,0.69,4.3%,6.5%,71.7%,66.7%,46.2%,2/5,42.9%,26.9%,5.8%,22.9%,35.3%,0/0,98,2,3,46,33,13,3,0:47
+15-Jul-2013,Granby CH,3,Hard,QF,291,490,0,,WC,Philip Bester,Benjamin Mitchell,4-6 6-3 6-4,1.06,11.0%,2.7%,64.4%,72.3%,46.2%,0/3,48.9%,39.3%,6.5%,30.0%,56.8%,2/8,180,8,2,73,47,26,7,1:55
+15-Jul-2013,Granby CH,3,Hard,R16,291,1062,1,,Q,Benjamin Mitchell,Pavel Krainik,6-2 6-2,2.37,12.2%,4.9%,78.0%,84.4%,55.6%,0/0,64.0%,52.1%,2.1%,40.0%,72.2%,4/6,89,5,2,41,32,9,1,0:54
+15-Jul-2013,Granby CH,3,Hard,R32,291,210,1,,8,Benjamin Mitchell,Steven Diez,7-5 6-1,1.38,3.4%,8.6%,55.2%,65.6%,53.8%,0/2,57.5%,54.5%,0.0%,35.5%,79.2%,5/9,113,2,5,58,32,26,0,1:21
+8-Jul-2013,Canada F4,3,Hard,SF,297,302,0,4,2,Tennys Sandgren,Benjamin Mitchell,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Canada F4,3,Hard,QF,297,520,1,4,,Benjamin Mitchell,Filip Peliwo,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Canada F4,3,Hard,R16,297,1089,1,4,Q,Benjamin Mitchell,Blake Mott,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Canada F4,3,Hard,R32,297,1334,1,4,Q,Benjamin Mitchell,Oscar Fabian Matthews,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Canada F3,3,Hard,QF,303,605,0,1,5,Philip Bester,Benjamin Mitchell,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Canada F3,3,Hard,R16,303,871,1,1,,Benjamin Mitchell,George Jecminek,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Canada F3,3,Hard,R32,303,,1,1,WC,Benjamin Mitchell,Kyryll Kryvchun,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Korea F5,3,Hard,F,367,364,1,4,3,Benjamin Mitchell,Hiroki Kondo,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Korea F5,3,Hard,SF,367,540,1,4,,Benjamin Mitchell,Jung Woong Na,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Korea F5,3,Hard,QF,367,481,1,4,,Benjamin Mitchell,Shuichi Sekiguchi,6-0 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Korea F5,3,Hard,R16,367,,1,4,WC,Benjamin Mitchell,Dae Hee Lee,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Korea F5,3,Hard,R32,367,892,1,4,,Benjamin Mitchell,Dong Whee Choi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,R16,367,544,0,6,,Hyun Woo Nam,Benjamin Mitchell,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,R32,367,540,1,6,,Benjamin Mitchell,Jung Woong Na,5-7 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Thailand F1,3,Hard,F,373,900,1,4,,Benjamin Mitchell,Karunuday Singh,6-3 1-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Thailand F1,3,Hard,SF,373,,1,4,WC,Benjamin Mitchell,Pruchya Isarow,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Thailand F1,3,Hard,QF,373,1087,1,4,,Benjamin Mitchell,Jacob Grills,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Thailand F1,3,Hard,R16,373,862,1,4,,Benjamin Mitchell,Elbert Sie,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Thailand F1,3,Hard,R32,373,1798,1,4,Q,Benjamin Mitchell,Thanasit Issaraporn,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,USA F11,3,Clay,QF,374,765,0,3,,Carsten Ball,Benjamin Mitchell,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,USA F11,3,Clay,R16,374,601,1,3,,Benjamin Mitchell,Nikita Kryvonos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,USA F11,3,Clay,R32,374,,1,3,WC,Benjamin Mitchell,Angel Peredo,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,USA F10,3,Hard,SF,397,347,0,5,2,Luke Saville,Benjamin Mitchell,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,USA F10,3,Hard,QF,397,604,1,5,,Benjamin Mitchell,Dennis Nevolo,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,USA F10,3,Hard,R16,397,775,1,5,,Benjamin Mitchell,Keith Patrick Crowley,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,USA F10,3,Hard,R32,397,,1,5,WC,Benjamin Mitchell,Oleg Dmitriev,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,USA F9,3,Hard,R32,402,,0,7,WC,Ronnie Schneider,Benjamin Mitchell,6-2 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Kyoto CH,3,Carpet,R32,375,322,0,,,Greg Jones,Benjamin Mitchell,7-6(5) 7-5,0.66,9.5%,4.8%,61.9%,69.2%,46.9%,3/5,45.3%,25.8%,13.6%,12.8%,44.4%,1/1,150,8,4,84,52,32,9,1:44
+25-Feb-2013,Sydney1 CH,3,Hard,R16,388,540,0,,Q,Artem Sitak,Benjamin Mitchell,6-4 6-3,0.77,2.0%,2.0%,68.6%,65.7%,37.5%,2/5,43.1%,33.3%,5.6%,34.8%,30.8%,1/12,123,1,1,51,35,16,4,1:20
+25-Feb-2013,Sydney1 CH,3,Hard,R32,388,176,1,,3,Benjamin Mitchell,Hiroki Moriya,6-3 3-6 6-1,1.17,13.6%,3.7%,61.7%,64.0%,54.8%,8/11,53.5%,46.1%,0.0%,38.0%,61.5%,5/11,157,11,3,81,50,31,0,1:59
+11-Feb-2013,Australia F1,3,Hard,R16,389,263,0,,4,James Duckworth,Benjamin Mitchell,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Australia F1,3,Hard,R32,389,931,1,,WC,Benjamin Mitchell,Jack Schipanski,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2013,West Lakes CH,3,Hard,R32,358,318,0,,,Suk Young Jeong,Benjamin Mitchell,6-3 6-4,0.62,12.7%,6.3%,58.7%,70.3%,42.3%,7/10,43.2%,25.5%,10.9%,29.7%,16.7%,0/3,118,8,4,63,37,26,6,1:20
+28-Jan-2013,Burnie CH,3,Hard,R32,331,183,0,,3,John Millman,Benjamin Mitchell,4-6 6-2 6-2,0.85,8.2%,2.7%,61.6%,71.1%,42.9%,3/7,46.7%,33.8%,2.6%,32.7%,35.7%,1/5,150,6,2,73,45,28,2,1:36
+14-Jan-2013,Australian Open,5,Hard,R128,334,223,0,WC,WC,James Duckworth,Benjamin Mitchell,6-4 7-6(8) 4-6 5-7 8-6,0.93,6.8%,4.3%,55.1%,68.4%,54.8%,10/15,48.9%,35.0%,13.5%,22.0%,55.8%,5/16,407,14,9,207,114,93,27,4:26
+7-Jan-2013,Sydney Q,3,Hard,Q1,326,380,0,,,Alex Bolt,Benjamin Mitchell,6-3 6-4,0.49,5.9%,2.9%,55.9%,71.1%,43.3%,7/9,42.4%,20.0%,20.0%,22.7%,17.9%,0/0,118,4,2,68,38,30,10,1:09
+30-Dec-2012,Brisbane,3,Hard,R32,327,36,0,WC,,Marcos Baghdatis,Benjamin Mitchell,6-4 6-4,0.80,8.8%,1.8%,61.4%,80.0%,45.5%,0/2,46.2%,26.7%,8.3%,14.3%,44.0%,0/4,117,5,1,57,35,22,5,1:17
+19-Nov-2012,Toyota CH,3,Carpet,R16,273,185,0,,5,Hiroki Moriya,Benjamin Mitchell,6-4 6-2,0.70,29.3%,0.0%,69.0%,70.0%,33.3%,6/9,44.2%,29.1%,0.0%,25.0%,34.8%,0/3,113,17,0,58,40,18,0,1:10
+19-Nov-2012,Toyota CH,3,Carpet,R32,273,303,1,,,Benjamin Mitchell,Denis Zivkovic,6-1 6-2,1.84,6.8%,0.0%,65.9%,82.8%,46.7%,1/2,62.2%,54.3%,6.5%,48.5%,69.2%,5/8,90,3,0,44,29,15,3,0:46
+12-Nov-2012,Yokohama CH,3,Hard,R16,281,138,0,,4,Matteo Viola,Benjamin Mitchell,6-3 4-6 7-5,0.94,4.0%,2.0%,63.6%,60.3%,36.1%,12/20,48.7%,45.6%,3.3%,47.6%,40.7%,6/12,189,4,2,99,63,36,3,2:11
+12-Nov-2012,Yokohama CH,3,Hard,R32,281,902,1,,Q,Benjamin Mitchell,Yuichi Ito,6-3 3-6 6-3,1.32,8.6%,2.5%,67.9%,72.7%,61.5%,4/6,54.0%,40.9%,1.1%,38.9%,47.6%,3/11,174,7,2,81,55,26,1,2:06
+29-Oct-2012,Australia F12,3,Hard,F,341,270,0,5,1,John Millman,Benjamin Mitchell,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Australia F12,3,Hard,SF,341,856,1,5,,Benjamin Mitchell,Thanasi Kokkinakis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Australia F12,3,Hard,QF,341,892,1,5,WC,Benjamin Mitchell,Nick Kyrgios,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Australia F12,3,Hard,R16,341,1371,1,5,WC,Benjamin Mitchell,Scott Puodziunas,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Australia F12,3,Hard,R32,341,,1,5,Q,Benjamin Mitchell,Patrick Davidson,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,F,340,375,1,4,7,Benjamin Mitchell,Luke Saville,6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,SF,340,268,1,4,1,Benjamin Mitchell,John Millman,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,QF,340,754,1,4,,Benjamin Mitchell,Sean Berman,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,R16,340,476,1,4,,Benjamin Mitchell,Alex Bolt,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,R32,340,852,1,4,,Benjamin Mitchell,Thanasi Kokkinakis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Australia F10,3,Hard,SF,304,416,0,1,6,Adam Feeney,Benjamin Mitchell,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Australia F10,3,Hard,QF,304,411,1,1,5,Benjamin Mitchell,Matthew Barton,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Australia F10,3,Hard,R16,304,1674,1,1,Q,Benjamin Mitchell,Matt Roso,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Australia F10,3,Hard,R32,304,883,1,1,,Benjamin Mitchell,Gavin Van Peperzeel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Australia F9,3,Hard,SF,297,411,0,1,6,Adam Feeney,Benjamin Mitchell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Australia F9,3,Hard,QF,297,883,1,1,,Benjamin Mitchell,Gavin Van Peperzeel,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Australia F9,3,Hard,R16,297,,1,1,Q,Benjamin Mitchell,David Barclay,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Australia F9,3,Hard,R32,297,856,1,1,,Benjamin Mitchell,Simon Ede,6-3 6-7(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Australia F8,3,Hard,SF,288,510,0,1,,Adam Feeney,Benjamin Mitchell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Australia F8,3,Hard,QF,288,425,1,1,5,Benjamin Mitchell,Luke Saville,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Australia F8,3,Hard,R16,288,1653,1,1,WC,Benjamin Mitchell,Omar Jasika,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Australia F8,3,Hard,R32,288,750,1,1,,Benjamin Mitchell,Andrew Whittington,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Ningbo CH,3,Hard,R32,267,441,0,,WC,Mao Xin Gong,Benjamin Mitchell,6-4 3-6 6-4,0.92,6.2%,3.5%,63.7%,63.9%,43.9%,7/12,49.0%,40.0%,4.2%,34.9%,50.0%,4/13,208,7,4,113,72,41,4,2:34
+3-Sep-2012,Shanghai CH,3,Hard,R32,267,67,0,,2,Tatsuma Ito,Benjamin Mitchell,7-6(5) 6-7(5) 6-2,0.90,2.6%,6.0%,70.1%,62.2%,40.0%,6/11,47.7%,40.0%,5.0%,35.3%,51.4%,3/10,237,3,7,117,82,35,6,2:35
+30-Jul-2012,Vancouver CH,3,Hard,R32,248,156,0,,7,Danai Udomchoke,Benjamin Mitchell,6-0 6-2,0.41,2.4%,7.3%,65.9%,37.0%,28.6%,3/9,30.8%,27.0%,8.1%,15.8%,38.9%,1/2,78,1,3,41,27,14,3,0:51
+23-Jul-2012,Lexington CH,3,Hard,R16,252,336,0,,,Alex Bogdanovic,Benjamin Mitchell,7-6(3) 7-6(3),0.90,15.6%,1.3%,62.3%,75.0%,51.7%,3/5,48.1%,30.4%,6.3%,20.5%,42.9%,2/2,156,12,1,77,48,29,5,1:53
+23-Jul-2012,Lexington CH,3,Hard,R32,252,193,1,,2,Benjamin Mitchell,Victor Estrella,6-2 6-0,2.24,17.1%,9.8%,78.0%,84.4%,44.4%,2/2,63.5%,54.5%,1.8%,51.7%,57.7%,5/13,96,7,4,41,32,9,1,1:05
+16-Jul-2012,Granby CH,3,Hard,R32,252,109,0,,1,Vasek Pospisil,Benjamin Mitchell,6-7(6) 7-6(1) 3-1 RET,0.87,3.7%,5.6%,67.3%,65.3%,40.0%,8/13,48.0%,37.4%,6.6%,33.3%,41.9%,4/4,198,4,6,107,72,35,6,2:35
+9-Jul-2012,Canada F4,3,Hard,R32,249,642,0,2,,Pedro Zerbini,Benjamin Mitchell,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Winnetka CH,3,Hard,R32,234,130,0,,2,Ryan Sweeting,Benjamin Mitchell,6-1 6-2,0.60,2.4%,9.5%,52.4%,63.6%,30.0%,2/6,38.7%,31.4%,3.9%,14.3%,52.2%,0/3,93,1,4,42,22,20,2,0:56
+25-Jun-2012,Wimbledon Q,3,Grass,Q1,234,526,0,,WC,Chris Eaton,Benjamin Mitchell,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2012,Roland Garros Q,3,Clay,Q1,234,319,0,,WC,Albano Olivetti,Benjamin Mitchell,4-6 6-4 6-3,0.91,2.2%,7.8%,62.2%,64.3%,52.9%,6/10,48.1%,36.3%,18.7%,20.8%,53.5%,3/9,181,2,7,90,56,34,17,2:03
+14-May-2012,Italy F9,3,Clay,R32,231,531,0,3,,Riccardo Sinicropi,Benjamin Mitchell,1-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Ostrava CH,3,Clay,R32,236,136,0,,1,Jan Hajek,Benjamin Mitchell,6-4 6-3,0.73,1.9%,11.5%,53.8%,60.7%,50.0%,2/6,43.2%,32.2%,0.0%,32.5%,31.6%,1/7,111,1,6,52,28,24,0,1:16
+23-Apr-2012,Napoli CH,3,Clay,R32,236,148,0,,8,Florent Serra,Benjamin Mitchell,6-4 6-4,0.89,1.4%,8.6%,71.4%,56.0%,35.0%,5/10,47.3%,44.7%,1.3%,34.2%,55.3%,3/9,146,1,6,70,50,20,1,1:36
+16-Apr-2012,France F8,3,Clay,R32,235,452,0,5,,Olivier Patience,Benjamin Mitchell,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Pingguo CH,3,Hard,QF,218,77,0,7,1,Go Soeda,Benjamin Mitchell,6-3 7-5,0.87,3.2%,9.7%,67.7%,69.0%,50.0%,5/8,46.9%,32.4%,5.9%,22.9%,55.0%,1/3,130,2,6,62,42,20,4,1:30
+12-Mar-2012,Pingguo CH,3,Hard,R16,218,448,1,7,,Benjamin Mitchell,Kevin Kim,6-7(1) 6-3 6-4,1.06,2.1%,5.3%,61.1%,69.0%,37.8%,2/6,51.0%,45.7%,7.6%,36.4%,56.0%,7/16,200,2,5,95,58,37,8,2:20
+12-Mar-2012,Pingguo CH,3,Hard,R32,218,761,1,7,,Benjamin Mitchell,Divij Sharan,6-3 4-6 6-1,1.22,2.3%,2.3%,68.2%,68.3%,50.0%,4/6,53.8%,45.8%,0.0%,39.7%,57.6%,5/13,184,2,2,88,60,28,0,2:11
+5-Mar-2012,Kyoto CH,3,Carpet,R32,218,209,0,7,,Jimmy Wang,Benjamin Mitchell,5-7 6-2 6-4,0.87,8.8%,5.5%,67.0%,57.4%,46.7%,9/16,46.8%,40.0%,5.3%,39.3%,41.0%,5/14,186,8,5,91,61,30,5,1:55
+27-Feb-2012,Singapore CH,3,Hard,R32,214,231,0,6,,Kamil Capkovic,Benjamin Mitchell,6-4 6-4,0.81,6.6%,11.5%,60.7%,64.9%,37.5%,2/6,45.8%,37.3%,3.4%,35.9%,40.0%,2/4,120,4,7,61,37,24,2,1:27
+6-Feb-2012,Caloundra CH,3,Hard,QF,222,62,0,5,1,Yen Hsun Lu,Benjamin Mitchell,6-4 6-1,0.78,2.8%,8.3%,55.6%,57.5%,31.3%,7/13,44.3%,42.4%,8.5%,35.3%,52.0%,2/4,131,2,6,72,40,32,5,1:34
+6-Feb-2012,Caloundra CH,3,Hard,R16,222,431,1,5,,Benjamin Mitchell,John Patrick Smith,6-4 7-5,1.18,8.6%,11.4%,65.7%,65.2%,50.0%,1/4,53.6%,47.1%,5.9%,34.2%,63.3%,5/9,138,6,8,70,46,24,4,1:49
+6-Feb-2012,Caloundra CH,3,Hard,R32,222,402,1,5,,Benjamin Mitchell,Joshua Milton,6-3 6-1,1.42,7.4%,7.4%,53.7%,82.8%,40.0%,3/4,57.8%,52.7%,1.8%,42.1%,58.3%,5/7,109,4,4,54,29,25,1,1:16
+30-Jan-2012,Burnie CH,3,Hard,QF,221,264,0,,,Jimmy Wang,Benjamin Mitchell,6-3 6-0,0.68,0.0%,24.0%,56.0%,64.3%,9.1%,2/8,40.5%,41.0%,6.6%,37.1%,46.2%,1/6,111,0,12,50,28,22,4,1:15
+30-Jan-2012,Burnie CH,3,Hard,R16,221,180,1,,4,Benjamin Mitchell,Tsung Hua Yang,6-4 6-3,1.04,4.9%,1.6%,60.7%,64.9%,50.0%,1/3,51.9%,42.6%,2.1%,34.4%,60.0%,4/7,108,3,1,61,37,24,1,1:09
+30-Jan-2012,Burnie CH,3,Hard,R32,221,205,1,,,Benjamin Mitchell,James Duckworth,4-6 6-3 6-4,1.16,7.5%,11.8%,68.8%,75.0%,44.8%,5/8,53.4%,39.8%,12.0%,30.8%,54.8%,4/6,176,7,11,93,64,29,10,1:46
+16-Jan-2012,Australian Open,5,Hard,R128,222,17,0,WC,16,John Isner,Benjamin Mitchell,6-4 6-4 7-6(1),0.72,7.1%,8.1%,48.5%,77.1%,51.0%,5/8,45.4%,26.3%,20.0%,14.3%,50.0%,1/6,194,7,8,99,48,51,19,2:04
+9-Jan-2012,Sydney Q,3,Hard,Q3,227,126,0,,,Bobby Reynolds,Benjamin Mitchell,4-6 6-4 6-3,0.82,9.5%,4.8%,54.8%,71.7%,60.5%,7/10,47.8%,27.3%,5.2%,19.6%,38.7%,1/4,161,8,4,84,46,38,4,1:43
+9-Jan-2012,Sydney Q,3,Hard,Q2,227,91,1,,,Benjamin Mitchell,Mikhail Kukushkin,6-3 6-1,1.50,0.0%,1.9%,79.6%,69.8%,54.5%,2/2,58.0%,50.0%,0.0%,43.8%,80.0%,4/10,112,0,1,54,43,11,0,1:08
+9-Jan-2012,Sydney Q,3,Hard,Q1,227,79,1,,7,Benjamin Mitchell,Leonardo Mayer,6-4 6-3,2.06,9.6%,1.9%,59.6%,90.3%,66.7%,0/0,60.0%,39.6%,9.4%,31.3%,52.4%,2/3,105,5,1,52,31,21,5,1:11
+1-Jan-2012,Brisbane,3,Hard,R32,227,122,0,WC,Q,Tatsuma Ito,Benjamin Mitchell,6-4 6-2,0.55,16.2%,8.8%,64.7%,68.2%,29.2%,8/11,41.7%,25.0%,11.5%,20.0%,31.8%,0/2,120,11,6,68,44,24,6,1:10
+21-Nov-2011,Australia F13,3,Hard,F,250,315,0,1,3,Matt Reid,Benjamin Mitchell,7-6(6) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,SF,250,356,1,1,4,Benjamin Mitchell,Michael Look,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,QF,250,529,1,1,8,Benjamin Mitchell,Jose Rubin Statham,4-6 6-2 7-6(11),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,R16,250,1233,1,1,Q,Benjamin Mitchell,Adam Feeney,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,R32,250,1129,1,1,,Benjamin Mitchell,Ya Nan Ma,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,F,250,427,1,1,8,Benjamin Mitchell,Michael Venus,7-6(3) 6-7(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,SF,250,301,1,1,3,Benjamin Mitchell,Ze Zhang,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,QF,250,1914,1,1,Q,Benjamin Mitchell,Jack Schipanski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,R16,250,551,1,1,,Benjamin Mitchell,Hiroyasu Ehara,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,R32,250,1740,1,1,Q,Benjamin Mitchell,Calum Puttergill,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,F,303,374,0,1,4,Brydan Klein,Benjamin Mitchell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,SF,303,344,1,1,3,Benjamin Mitchell,Hiroki Moriya,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,QF,303,761,1,1,,Benjamin Mitchell,Matthew Barton,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,R16,303,1107,1,1,,Benjamin Mitchell,Nicolas Meister,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,R32,303,,1,1,Q,Benjamin Mitchell,Matt Roso,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,F,305,328,1,1,2,Benjamin Mitchell,Matt Reid,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,SF,305,381,1,1,3,Benjamin Mitchell,Brydan Klein,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,QF,305,604,1,1,6,Benjamin Mitchell,Jose Rubin Statham,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,R16,305,1805,1,1,,Benjamin Mitchell,Scott Puodziunas,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,R32,305,853,1,1,,Benjamin Mitchell,Peng Gao,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Australia F7,3,Hard,QF,328,629,0,2,7,Yasutaka Uchiyama,Benjamin Mitchell,7-6(3) 6-7(11) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Australia F7,3,Hard,R16,328,,1,2,WC,Benjamin Mitchell,Aaron Leeder Chard,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Australia F7,3,Hard,R32,328,,1,2,Q,Benjamin Mitchell,Manuel Lauter,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Australia F6,3,Hard,F,359,287,0,2,1,James Lemke,Benjamin Mitchell,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Australia F6,3,Hard,SF,359,626,1,2,7,Benjamin Mitchell,Yasutaka Uchiyama,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Australia F6,3,Hard,QF,359,641,1,2,8,Benjamin Mitchell,Takao Suzuki,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Australia F6,3,Hard,R16,359,1144,1,2,,Benjamin Mitchell,Richard Gabb,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2011,Australia F6,3,Hard,R32,359,,1,2,WC,Benjamin Mitchell,Andrew Mcleod,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Australia F5,3,Hard,F,351,419,0,2,5,Michael Look,Benjamin Mitchell,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Australia F5,3,Hard,SF,351,382,1,2,4,Benjamin Mitchell,Matt Reid,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Australia F5,3,Hard,QF,351,645,1,2,6,Benjamin Mitchell,Brendan Moore,7-6(3) RET,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Australia F5,3,Hard,R16,351,1426,1,2,,Benjamin Mitchell,David Agung Susanto,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Australia F5,3,Hard,R32,351,,1,2,Q,Benjamin Mitchell,Aaron Leeder Chard,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Binghamton CH,3,Hard,R32,356,379,0,Q,Q,Adam El Mihdawy,Benjamin Mitchell,7-6(5) 6-0,0.76,0.0%,5.4%,64.3%,55.6%,30.0%,1/6,43.4%,40.9%,4.5%,30.6%,53.3%,2/3,122,0,3,56,36,20,3,1:32
+1-Aug-2011,Vancouver CH,3,Hard,R32,381,122,0,,2,Bobby Reynolds,Benjamin Mitchell,6-0 6-1,0.47,5.8%,13.5%,55.8%,51.7%,26.1%,4/10,35.2%,27.8%,5.6%,16.0%,54.5%,0/0,88,3,7,52,29,23,2,0:55
+25-Jul-2011,Great Britain F11,3,Hard,F,385,411,0,4,5,Chris Eaton,Benjamin Mitchell,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Great Britain F11,3,Hard,SF,385,308,1,4,1,Benjamin Mitchell,Joshua Milton,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Great Britain F11,3,Hard,QF,385,,1,4,8,Benjamin Mitchell,Josh Goodall,4-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Great Britain F11,3,Hard,R16,385,878,1,4,,Benjamin Mitchell,Andrew Fitzpatrick,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Great Britain F11,3,Hard,R32,385,816,1,4,,Benjamin Mitchell,James Feaver,7-6(8) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,F,418,719,1,,,Benjamin Mitchell,Roberto Ortega Olmedo,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,SF,418,302,1,,3,Benjamin Mitchell,Michael Ryderstedt,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,QF,418,462,1,,,Benjamin Mitchell,Michael Look,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,R16,418,799,1,,,Benjamin Mitchell,Igor Bujdo,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Spain F21,3,Hard,R32,418,349,1,,6,Benjamin Mitchell,Denys Molchanov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2011,Eastbourne Q,3,Grass,Q1,413,123,0,,3,Donald Young,Benjamin Mitchell,6-1 6-7(5) 6-3,0.95,2.7%,6.7%,69.3%,69.2%,39.1%,4/9,46.3%,38.1%,0.8%,35.4%,42.6%,2/16,201,2,5,75,52,23,1,1:54
+6-Jun-2011,Queen's Club Q,3,Grass,Q1,417,637,0,,WC,Marcus Willis,Benjamin Mitchell,3-6 7-6(5) 6-2,0.85,10.2%,5.6%,70.4%,71.1%,53.1%,7/9,49.2%,29.2%,12.4%,20.3%,46.7%,1/2,197,11,6,108,76,32,11,1:46
+23-May-2011,South Africa F2,3,Hard,R16,426,720,0,3,,Denes Lukacs,Benjamin Mitchell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,South Africa F2,3,Hard,R32,426,1108,1,3,,Benjamin Mitchell,Alexei Filenkov,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,South Africa F1,3,Hard,QF,426,1404,0,3,LL,Lewis Burton,Benjamin Mitchell,1-6 6-1 7-6(8),,,,,,,,,,,,,,,,,,,,,
+16-May-2011,South Africa F1,3,Hard,R16,426,1361,1,3,,Benjamin Mitchell,Mark Fynn,6-7(2) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,South Africa F1,3,Hard,R32,426,712,1,3,,Benjamin Mitchell,Denes Lukacs,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,SF,437,312,0,4,1,James Lemke,Benjamin Mitchell,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,QF,437,490,1,4,7,Benjamin Mitchell,Michael Look,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,R16,437,739,1,4,,Benjamin Mitchell,Brendan Moore,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,R32,437,905,1,4,,Benjamin Mitchell,Marvin Barker,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Australia F3,3,Clay,R16,436,715,0,6,,Isaac Frost,Benjamin Mitchell,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Australia F3,3,Clay,R32,436,,1,6,WC,Benjamin Mitchell,Aaron Leeder Chard,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Guangzhou CH,3,Hard,R32,524,218,0,Q,,Sebastian Rieschick,Benjamin Mitchell,6-3 6-3,0.77,7.1%,3.6%,51.8%,69.0%,33.3%,1/5,43.8%,36.9%,3.1%,22.5%,60.0%,1/3,121,4,2,56,29,27,2,1:09
+28-Feb-2011,Australia F2,3,Grass,F,522,574,1,4,5,Benjamin Mitchell,Michael Look,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2011,Australia F2,3,Grass,SF,522,363,1,4,1,Benjamin Mitchell,Vishnu Vardhan,1-6 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2011,Australia F2,3,Grass,QF,522,827,1,4,8,Benjamin Mitchell,Liang Chi Huang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2011,Australia F2,3,Grass,R16,522,,1,4,Q,Benjamin Mitchell,Kim Moellers,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2011,Australia F2,3,Grass,R32,522,1032,1,4,,Benjamin Mitchell,Isaac Frost,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,Caloundra CH,3,Hard,R32,525,142,0,WC,3,Paolo Lorenzi,Benjamin Mitchell,3-6 6-3 6-2,0.78,3.5%,3.5%,75.6%,66.2%,33.3%,4/7,45.6%,32.5%,4.8%,27.3%,52.9%,1/8,169,3,3,86,65,21,4,2:21
+31-Jan-2011,Burnie CH,3,Hard,QF,607,182,0,Q,WC,Bernard Tomic,Benjamin Mitchell,6-3 3-6 6-4,0.86,10.2%,6.1%,57.1%,73.2%,35.7%,6/11,48.5%,37.0%,5.5%,30.6%,50.0%,4/6,171,10,6,98,56,42,4,1:43
+31-Jan-2011,Burnie CH,3,Hard,R16,607,412,1,Q,Q,Benjamin Mitchell,Erik Chvojka,3-6 6-1 6-4,1.14,3.6%,1.2%,55.4%,58.7%,51.4%,8/13,53.0%,50.6%,1.2%,47.5%,59.1%,7/9,164,3,1,83,46,37,1,2:04
+31-Jan-2011,Burnie CH,3,Hard,R32,607,236,1,Q,,Benjamin Mitchell,Ivo Klec,7-5 4-6 6-3,1.22,7.4%,3.2%,65.3%,71.0%,54.5%,2/5,52.6%,42.2%,1.7%,44.9%,38.3%,4/16,211,7,3,95,62,33,2,2:18
+17-Jan-2011,Australian Open Q,3,Hard,Q1,610,98,0,WC,1,Blaz Kavcic,Benjamin Mitchell,7-6(1) 6-7(3) 6-4,0.82,8.4%,6.1%,51.1%,79.1%,40.6%,17/20,47.9%,32.4%,11.4%,19.7%,53.8%,2/2,236,11,8,131,67,64,12,2:50
+2-Jan-2011,Brisbane Q,3,Hard,Q1,611,207,0,WC,,Peter Polansky,Benjamin Mitchell,6-1 6-7(5) 6-3,0.64,18.3%,8.5%,53.7%,72.7%,39.5%,4/8,42.2%,27.4%,11.9%,19.7%,47.8%,1/1,166,15,7,82,44,38,10,1:40
+29-Nov-2010,Australia F13,3,Hard,F,761,316,0,WC,8,Samuel Groth,Benjamin Mitchell,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2010,Australia F13,3,Hard,SF,761,350,1,WC,,Benjamin Mitchell,Dayne Kelly,7-6(7) 7-6(13),,,,,,,,,,,,,,,,,,,,,
+29-Nov-2010,Australia F13,3,Hard,QF,761,211,1,WC,1,Benjamin Mitchell,Brydan Klein,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2010,Australia F13,3,Hard,R16,761,448,1,WC,,Benjamin Mitchell,Jose Rubin Statham,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2010,Australia F13,3,Hard,R32,761,586,1,WC,,Benjamin Mitchell,Michael Look,7-6(1) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Australia F12,3,Hard,QF,788,424,0,,,Erik Chvojka,Benjamin Mitchell,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Australia F12,3,Hard,R16,788,695,1,,,Benjamin Mitchell,Nima Roshan,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Australia F12,3,Hard,R32,788,,1,,WC,Benjamin Mitchell,Andrew Whittington,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,QF,799,335,0,,4,Samuel Groth,Benjamin Mitchell,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,R16,799,350,1,,7,Benjamin Mitchell,Harri Heliovaara,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,R32,799,,1,,WC,Benjamin Mitchell,Anton Bettink,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2010,Australia F11,3,Hard,R16,801,833,0,,,Jared Easton,Benjamin Mitchell,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2010,Australia F11,3,Hard,R32,801,594,1,,7,Benjamin Mitchell,Adam Feeney,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Australia F7,3,Hard,R16,815,478,0,,6,Matt Reid,Benjamin Mitchell,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Australia F7,3,Hard,R32,815,1340,1,,Q,Benjamin Mitchell,Yuri Bezeruk,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,R32,,,0,WC,Q,Krishananth Balakrishnan,Benjamin Mitchell,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Spain F29,3,Clay,R16,834,270,0,,2,Grigor Dimitrov,Benjamin Mitchell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Spain F29,3,Clay,R32,834,886,1,,,Benjamin Mitchell,Emilio Rodriguez,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Spain F28,3,Clay,R32,831,1224,0,,Q,Maverick Banes,Benjamin Mitchell,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2010,Spain F27,3,Clay,R32,828,371,0,,1,Pablo Carreno Busta,Benjamin Mitchell,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2010,Spain F26,3,Clay,R32,847,544,0,,6,Miliaan Niesten,Benjamin Mitchell,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2010,Spain F25,3,Clay,R16,845,602,0,,8,Erling Tveit,Benjamin Mitchell,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2010,Spain F25,3,Clay,R32,845,891,1,,,Benjamin Mitchell,Jordi Samper Montana,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Australia F4,3,Clay,R16,1008,842,0,,8,Joel Lindner,Benjamin Mitchell,6-2 5-7 7-6(8),,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Australia F4,3,Clay,R32,1008,1091,1,,,Benjamin Mitchell,Chris Letcher,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Australia F3,3,Clay,SF,1011,354,0,,1,Brydan Klein,Benjamin Mitchell,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Australia F3,3,Clay,QF,1011,812,1,,7,Benjamin Mitchell,Dane Propoggia,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Australia F3,3,Clay,R16,1011,1023,1,,,Benjamin Mitchell,Michael Leong,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2010,Australia F3,3,Clay,R32,1011,731,1,,3,Benjamin Mitchell,Marcus Daniell,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Korea F1,3,Hard,R32,1007,694,0,,7,Gary Lugassy,Benjamin Mitchell,4-6 6-2 7-6(0),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Australia F2,3,Grass,R16,1054,282,0,,4,Samuel Groth,Benjamin Mitchell,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Australia F2,3,Grass,R32,1054,1472,1,,WC,Benjamin Mitchell,Mark Verryth,7-6(9) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2010,Australia F1,3,Grass,R32,1057,497,0,WC,,Colin Ebelthite,Benjamin Mitchell,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2010,Australian Open Q,3,Hard,Q1,1070,245,0,WC,,Andrea Arnaboldi,Benjamin Mitchell,6-2 6-3,0.56,3.1%,3.1%,56.9%,51.4%,35.7%,9/15,39.4%,30.8%,5.1%,25.0%,40.0%,2/3,104,2,2,65,37,28,2,1:03
+3-Jan-2010,Brisbane Q,3,Hard,Q1,1068,837,0,,,Joel Lindner,Benjamin Mitchell,6-4 6-2,0.35,5.4%,5.4%,60.7%,70.6%,40.9%,3/6,39.8%,14.3%,21.4%,10.0%,25.0%,0/0,98,3,3,56,34,22,9,0:50
+30-Nov-2009,Australia F11,3,Hard,R16,1145,204,0,Q,1,Brydan Klein,Benjamin Mitchell,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2009,Australia F11,3,Hard,R32,1145,1012,1,Q,WC,Benjamin Mitchell,James Duckworth,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Australia F8,3,Hard,R16,1223,474,0,Q,5,Matthew Ebden,Benjamin Mitchell,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Australia F8,3,Hard,R32,1223,,1,Q,Q,Benjamin Mitchell,Joey Swaysland,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Australia F7,3,Hard,R32,1235,325,0,WC,2,John Millman,Benjamin Mitchell,3-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Australia F6,3,Hard,R32,1271,1103,0,Q,Q,Matheson Klein,Benjamin Mitchell,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Spain F23,3,Clay,R32,1360,1843,0,Q,WC,Carlos Boluda Purkiss,Benjamin Mitchell,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Netherlands F2,3,Clay,R32,1370,474,0,Q,7,Uladzimir Ignatik,Benjamin Mitchell,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Netherlands F1,3,Clay,R32,1373,290,0,Q,2,Jose Checa Calvo,Benjamin Mitchell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,R16,,871,0,WC,,Joshua Crowe,Benjamin Mitchell,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,R32,,1307,1,WC,Q,Benjamin Mitchell,Yuki Matsuo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,QF,,387,0,WC,3,Adam Feeney,Benjamin Mitchell,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,R16,,,1,WC,Q,Benjamin Mitchell,Chris Letcher,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,R32,,1304,1,WC,,Benjamin Mitchell,Yuki Matsuo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

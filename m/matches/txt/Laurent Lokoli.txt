@@ -1,0 +1,499 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+24-Oct-2022,Brest CH,3,Hard,R32,198,195,0,,,Gilles Simon,Laurent Lokoli,6-2 6-4,0.58,6.5%,2.6%,66.2%,56.9%,34.6%,12/16,41.4%,29.4%,5.9%,27.8%,33.3%,1/2,128,5,2,77,51,26,3,1:43
+17-Oct-2022,Vilnius CH,3,Hard,QF,204,416,0,7,Q,Cem Ilkel,Laurent Lokoli,7-5 6-3,0.70,6.3%,4.7%,57.8%,59.5%,40.7%,2/7,43.6%,34.0%,5.7%,25.0%,44.0%,2/2,117,4,3,64,37,27,3,1:29
+17-Oct-2022,Vilnius CH,3,Hard,R16,204,475,1,7,Q,Laurent Lokoli,Mark Lajal,1-6 6-3 6-0,1.15,1.4%,2.9%,68.1%,59.6%,59.1%,3/6,53.4%,46.8%,3.2%,35.1%,64.0%,5/11,131,1,2,69,47,22,2,1:37
+17-Oct-2022,Vilnius CH,3,Hard,R32,204,266,1,7,,Laurent Lokoli,Ramkumar Ramanathan,6-1 6-4,2.80,9.3%,2.3%,62.8%,85.2%,81.3%,0/0,64.0%,45.7%,2.2%,38.5%,55.0%,3/4,89,4,1,43,27,16,1,1:08
+10-Oct-2022,Saint Tropez CH,3,Hard,R32,204,106,0,,3,Ugo Humbert,Laurent Lokoli,6-1 6-3,0.44,5.3%,7.0%,64.9%,59.5%,35.0%,8/12,38.4%,21.4%,19.0%,21.9%,20.0%,0/0,99,3,4,57,37,20,8,1:11
+26-Sep-2022,Orleans CH,3,Hard,R16,205,83,0,,3,Richard Gasquet,Laurent Lokoli,6-4 6-4,0.77,5.0%,3.3%,45.0%,63.0%,54.5%,2/5,45.4%,32.2%,3.4%,16.1%,50.0%,1/1,119,3,2,60,27,33,2,1:33
+26-Sep-2022,Orleans CH,3,Hard,R32,205,251,1,,,Laurent Lokoli,Otto Virtanen,7-6(3) 6-3,1.01,6.2%,3.7%,64.2%,73.1%,44.8%,9/10,51.7%,37.5%,7.8%,26.5%,50.0%,3/5,145,5,3,81,52,29,5,1:41
+12-Sep-2022,Istanbul CH,3,Hard,QF,215,305,0,6,,Lukas Rosol,Laurent Lokoli,6-4 6-4,0.90,11.1%,6.3%,54.0%,64.7%,51.7%,4/8,47.1%,37.0%,4.1%,15.8%,60.0%,2/9,136,7,4,63,34,29,3,1:31
+12-Sep-2022,Istanbul CH,3,Hard,R16,215,378,1,6,Q,Laurent Lokoli,Terence Atmane,7-6(5) 5-7 6-4,1.08,8.2%,4.5%,60.9%,79.1%,44.2%,3/7,51.4%,37.3%,6.4%,23.8%,55.3%,4/11,220,9,5,110,67,43,7,2:43
+12-Sep-2022,Istanbul CH,3,Hard,R32,215,389,1,6,,Laurent Lokoli,Evgeny Donskoy,6-3 6-2,1.67,5.8%,9.6%,51.9%,85.2%,64.0%,1/1,60.0%,41.9%,2.3%,39.1%,45.0%,3/4,95,3,5,52,27,25,1,1:05
+5-Sep-2022,Cassis CH,3,Hard,R16,217,119,0,,3,Hugo Grenier,Laurent Lokoli,6-3 4-6 7-6(5),0.84,6.3%,3.6%,60.4%,68.7%,52.3%,3/6,48.1%,32.0%,11.3%,16.9%,55.3%,2/5,208,7,4,111,67,44,11,2:43
+5-Sep-2022,Cassis CH,3,Hard,R32,217,207,1,,,Laurent Lokoli,Jay Clarke,6-3 7-5,1.18,3.8%,2.5%,52.5%,64.3%,50.0%,5/8,54.0%,50.0%,5.7%,34.2%,68.8%,5/9,150,3,2,80,42,38,4,2:10
+29-Aug-2022,Manacor CH,3,Hard,R32,217,132,0,,3,Aleksandar Vukic,Laurent Lokoli,1-6 6-1 7-6(1),0.91,3.2%,5.3%,56.4%,60.4%,46.3%,6/10,47.7%,41.6%,7.9%,27.7%,66.7%,4/13,195,3,5,94,53,41,8,2:26
+29-Aug-2022,US Open,5,Hard,Q1,217,222,0,,,Dalibor Svrcina,Laurent Lokoli,1-6 6-4 6-2,1.01,4.8%,9.6%,54.2%,68.9%,34.2%,3/8,50.3%,47.3%,1.4%,35.7%,83.3%,4/5,157,4,8,83,45,38,1,1:54
+15-Aug-2022,Vancouver CH,3,Hard,R32,216,94,0,Q,5,Constant Lestienne,Laurent Lokoli,7-5 7-6(4),0.87,2.4%,11.8%,56.5%,72.9%,32.4%,4/8,47.8%,38.9%,6.9%,29.7%,48.6%,3/4,157,2,10,85,48,37,5,1:58
+15-Aug-2022,Vancouver CH,3,Hard,Q2,216,1492,1,3,WC,Laurent Lokoli,Marko Stakusic,6-3 6-2,2.84,17.9%,0.0%,59.0%,91.3%,68.8%,0/1,64.1%,50.9%,0.0%,39.3%,64.0%,4/10,92,7,0,39,23,16,0,1:06
+15-Aug-2022,Vancouver CH,3,Hard,Q1,216,986,1,3,Alt,Laurent Lokoli,Juan Carlos Aguilar,6-4 6-1,1.65,14.5%,10.9%,63.6%,80.0%,50.0%,5/6,60.6%,51.0%,0.0%,46.2%,56.5%,4/7,104,8,6,55,35,20,0,1:21
+18-Jul-2022,Tampere CH,3,Clay,SF,241,165,0,,5,Zsombor Piros,Laurent Lokoli,5-2 RET,0.40,4.5%,9.1%,54.5%,83.3%,10.0%,0/2,37.8%,20.0%,20.0%,0.0%,50.0%,0/0,37,1,2,22,12,10,3,0:27
+18-Jul-2022,Tampere CH,3,Clay,QF,241,199,1,,,Laurent Lokoli,Gerald Melzer,7-6(5) 4-6 7-5,1.06,6.8%,5.1%,51.7%,72.1%,40.4%,3/9,51.0%,45.7%,3.9%,43.9%,47.6%,6/18,247,8,6,118,61,57,5,3:53
+18-Jul-2022,Tampere CH,3,Clay,R16,241,168,1,,6,Laurent Lokoli,Thiago Agustin Tirante,3-6 6-2 6-3,1.26,0.0%,4.8%,61.4%,68.6%,56.3%,2/4,53.8%,45.5%,4.0%,40.6%,54.3%,4/18,182,0,4,83,51,32,4,2:18
+18-Jul-2022,Tampere CH,3,Clay,R32,241,338,1,,Q,Laurent Lokoli,Arthur Fils,6-7(4) 6-4 6-2,1.19,2.8%,1.9%,64.2%,76.5%,57.9%,7/7,52.3%,36.0%,0.9%,29.3%,48.7%,3/7,220,3,2,106,68,38,1,2:57
+11-Jul-2022,Amersfoort CH,3,Clay,R16,246,106,0,,5,Taro Daniel,Laurent Lokoli,6-1 6-2,0.47,0.0%,4.3%,54.3%,64.0%,28.6%,6/10,36.3%,24.4%,4.4%,17.4%,31.8%,0/1,91,0,2,46,25,21,2,1:12
+11-Jul-2022,Amersfoort CH,3,Clay,R32,246,368,1,,LL,Laurent Lokoli,Oscar Jose Gutierrez,6-2 6-1,2.54,2.9%,0.0%,57.1%,85.0%,60.0%,0/1,69.0%,65.3%,0.0%,68.8%,58.8%,6/13,84,1,0,35,20,15,0,1:07
+4-Jul-2022,M25 Casinalbo,3,Clay,QF,244,456,0,1,7,Valentin Royer,Laurent Lokoli,7-6(5) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Casinalbo,3,Clay,R16,244,1909,1,1,Q,Laurent Lokoli,Samuele Pieri,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25 Casinalbo,3,Clay,R32,244,639,1,1,,Laurent Lokoli,Andrea Basso,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,Oeiras CH,3,Clay,R32,243,623,0,8,WC,Pedro Araujo,Laurent Lokoli,3-6 7-5 7-5,1.00,0.0%,3.5%,62.6%,59.7%,39.5%,6/13,50.0%,47.7%,0.0%,48.1%,47.1%,7/15,226,0,4,115,72,43,0,3:15
+13-Jun-2022,M25 Grasse,3,Clay,R16,268,1354,0,1,WC,Mehdi Sadaoui,Laurent Lokoli,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Grasse,3,Clay,R32,268,687,1,1,,Laurent Lokoli,Maxime Chazal,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Skopje,3,Clay,F,286,314,1,1,2,Laurent Lokoli,Orlando Luz,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Skopje,3,Clay,SF,286,1695,1,1,Q,Laurent Lokoli,Petr Nesterov,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Skopje,3,Clay,QF,286,382,1,1,5,Laurent Lokoli,Khumoyun Sultanov,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Skopje,3,Clay,R16,286,1503,1,1,Q,Laurent Lokoli,Alexandros Skorilas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Skopje,3,Clay,R32,286,1074,1,1,Q,Laurent Lokoli,Stefanos Sakellaridis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 La Nucia,3,Clay,F,284,330,0,1,3,Nick Hardt,Laurent Lokoli,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 La Nucia,3,Clay,SF,284,798,1,1,,Laurent Lokoli,Daniel Rincon,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 La Nucia,3,Clay,QF,284,931,1,1,,Laurent Lokoli,Jorge Martinez Martinez,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 La Nucia,3,Clay,R16,284,1388,1,1,WC,Laurent Lokoli,Inaki Cabrera Bello,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 La Nucia,3,Clay,R32,284,,1,1,WC,Laurent Lokoli,Jordi Garcia Mestre,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,284,202,0,WC,,Alexander Ritschard,Laurent Lokoli,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,F,303,285,1,2,1,Laurent Lokoli,Miljan Zekic,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,SF,303,1111,1,2,WC,Laurent Lokoli,Fausto Tabacco,6-1 7-6(0),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,QF,303,714,1,2,,Laurent Lokoli,Gianmarco Ferrari,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R16,303,1024,1,2,,Laurent Lokoli,Giorgio Tabacco,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R32,303,941,1,2,,Laurent Lokoli,Gabriele Piraino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R16,335,552,0,2,,Stefano Napolitano,Laurent Lokoli,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R32,335,,1,2,WC,Laurent Lokoli,Nicola Porcu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Santa Margherita di Pula,3,Clay,F,331,487,1,1,8,Laurent Lokoli,Felix Gill,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Santa Margherita di Pula,3,Clay,SF,331,606,1,1,,Laurent Lokoli,Jack Pinnington Jones,4-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Santa Margherita di Pula,3,Clay,QF,331,,1,1,Q,Laurent Lokoli,Theo Arribage,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R16,331,1156,1,1,WC,Laurent Lokoli,Fausto Tabacco,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R32,331,947,1,1,,Laurent Lokoli,Matteo Donati,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2022,Saint-Brieuc CH,3,Hard,Q1,330,641,0,3,Alt,Jurgen Briand,Laurent Lokoli,6-2 3-6 6-4,0.82,4.4%,3.3%,62.6%,66.7%,38.2%,5/9,46.6%,36.1%,4.8%,24.2%,44.0%,3/8,174,4,3,91,57,34,4,2:13
+21-Mar-2022,Lille CH,3,Hard,R16,330,186,0,Q,7,Zizou Bergs,Laurent Lokoli,6-2 3-6 6-3,0.98,6.8%,4.1%,67.6%,76.0%,33.3%,4/8,47.7%,37.0%,6.0%,29.0%,54.8%,2/6,174,5,3,74,50,24,6,2:02
+21-Mar-2022,Lille CH,3,Hard,R32,330,820,1,Q,WC,Laurent Lokoli,Simon Beaupain,6-1 6-1,1.90,0.0%,5.8%,75.0%,76.9%,38.5%,3/3,64.9%,62.2%,0.0%,61.3%,64.3%,5/8,97,0,3,52,39,13,0,1:08
+21-Mar-2022,Lille CH,3,Hard,Q2,330,320,1,10,2,Laurent Lokoli,Mikael Torpegaard,6-4 3-6 6-2,1.20,4.9%,3.7%,63.0%,72.5%,50.0%,8/10,52.5%,43.0%,8.0%,31.1%,61.5%,4/7,181,4,3,81,51,30,8,1:59
+21-Mar-2022,Lille CH,3,Hard,Q1,330,496,1,10,,Laurent Lokoli,Luca Potenza,6-4 7-5,1.35,11.1%,4.8%,58.7%,73.0%,53.8%,2/5,55.5%,47.3%,0.0%,45.3%,52.4%,5/11,137,7,3,63,37,26,0,1:41
+7-Mar-2022,M25 Portimao,3,Hard,QF,346,311,0,8,2,Jonas Forejtek,Laurent Lokoli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,M25 Portimao,3,Hard,R16,346,758,1,8,WC,Laurent Lokoli,Pedro Araujo,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,M25 Portimao,3,Hard,R32,346,756,1,8,Q,Laurent Lokoli,Franco Emanuel Egea,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,SF,397,292,0,5,1,Dalibor Svrcina,Laurent Lokoli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,QF,397,765,1,5,Q,Laurent Lokoli,Jumpei Yamasaki,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R16,397,598,1,5,,Laurent Lokoli,Gauthier Onclin,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,M25 Faro,3,Hard,R32,397,505,1,5,,Laurent Lokoli,Carlos Sanchez Jover,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,F,397,562,1,5,,Laurent Lokoli,Alejandro Moro Canas,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,SF,397,435,1,5,7,Laurent Lokoli,Christopher Heyman,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,QF,397,266,1,5,1,Laurent Lokoli,Goncalo Oliveira,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,R16,397,476,1,5,,Laurent Lokoli,Tiago Cacao,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M25 Vale do Lobo,3,Hard,R32,397,492,1,5,,Laurent Lokoli,Maximilian Neuchrist,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Monastir,3,Hard,F,470,677,1,4,,Laurent Lokoli,Alexander Donski,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Monastir,3,Hard,SF,470,798,1,4,Q,Laurent Lokoli,Federico Iannaccone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Monastir,3,Hard,QF,470,663,1,4,SE,Laurent Lokoli,Mattia Bellucci,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Monastir,3,Hard,R16,470,,1,4,Q,Laurent Lokoli,Jasza Szajrych,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Monastir,3,Hard,R32,470,1067,1,4,Q,Laurent Lokoli,Shinji Hazawa,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,F,478,559,0,8,,Moez Echargui,Laurent Lokoli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,SF,478,556,1,8,,Laurent Lokoli,Sho Shimabukuro,7-6(10) 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,QF,478,403,1,8,4,Laurent Lokoli,Dan Added,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,R16,478,1742,1,8,Q,Laurent Lokoli,Nikolay Vylegzhanin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Monastir,3,Hard,R32,478,486,1,8,,Laurent Lokoli,Alexander Weis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,QF,478,370,0,,4,Calvin Hemery,Laurent Lokoli,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,R16,478,420,1,,7,Laurent Lokoli,Nicholas David Ionel,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M25 Monastir,3,Hard,R32,478,600,1,,,Laurent Lokoli,Francesco Passaro,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,SF,496,370,0,,5,Paul Jubb,Laurent Lokoli,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,QF,496,364,1,,3,Laurent Lokoli,Matteo Arnaldi,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R16,496,422,1,,6,Laurent Lokoli,Anton Matusevich,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Portimao,3,Hard,R32,496,639,1,,,Laurent Lokoli,Alexander Donski,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R16,492,323,0,,2,Arthur Cazaux,Laurent Lokoli,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Quinta Do Lago,3,Hard,R32,492,784,1,,WC,Laurent Lokoli,Luis Faria,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,R16,522,798,0,,WC,Pedro Araujo,Laurent Lokoli,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M25 Loule,3,Hard,R32,522,,1,,Q,Laurent Lokoli,Miguel Gomes,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,SF,522,342,0,,Q,Arthur Cazaux,Laurent Lokoli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,QF,522,544,1,,,Laurent Lokoli,Yusuke Takahashi,6-2 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R16,522,499,1,,8,Laurent Lokoli,Luciano Darderi,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M25 Setubal,3,Hard,R32,522,,1,,Q,Laurent Lokoli,Vivien Versier,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,Biel CH,3,Hard,Q1,527,446,0,Alt,,Tobias Simon,Laurent Lokoli,6-4 6-2,0.82,19.6%,10.7%,60.7%,70.6%,45.5%,3/6,45.2%,32.4%,19.1%,22.7%,50.0%,0/6,124,11,6,56,34,22,13,1:10
+13-Sep-2021,Istanbul 2 CH,3,Hard,R32,483,306,0,Q,LL,Geoffrey Blancaneaux,Laurent Lokoli,4-6 7-6(5) 6-1,0.85,1.9%,5.7%,72.4%,59.2%,41.4%,7/12,47.0%,38.9%,0.0%,28.6%,53.8%,4/5,200,2,6,105,76,29,0,2:46
+13-Sep-2021,Istanbul 2 CH,3,Hard,Q2,483,319,1,,2,Laurent Lokoli,Adrian Andreev,6-1 6-4,1.61,0.0%,8.2%,55.1%,81.5%,45.5%,2/4,60.9%,55.8%,0.0%,46.4%,73.3%,5/7,92,0,4,49,27,22,0,1:16
+13-Sep-2021,Istanbul 2 CH,3,Hard,Q1,483,365,1,,6,Laurent Lokoli,Yu Hsiou Hsu,6-3 6-2,1.29,8.8%,3.8%,65.0%,67.3%,60.7%,10/10,57.3%,45.1%,3.9%,44.4%,45.8%,3/8,131,7,3,80,52,28,2,
+6-Sep-2021,Cassis CH,3,Hard,R32,484,194,0,LL,,Mathias Bourgue,Laurent Lokoli,6-2 6-2,0.67,5.6%,9.3%,57.4%,61.3%,34.8%,4/8,41.4%,33.3%,10.5%,32.4%,35.0%,0/2,111,3,5,54,31,23,6,1:18
+6-Sep-2021,Cassis CH,3,Hard,Q2,484,286,0,Alt,4,Hiroki Moriya,Laurent Lokoli,6-2 6-1,0.60,3.3%,6.7%,56.7%,52.9%,42.3%,8/13,41.0%,31.1%,0.0%,33.3%,25.0%,0/3,105,2,4,60,34,26,0,1:08
+6-Sep-2021,Cassis CH,3,Hard,Q1,484,311,1,Alt,5,Laurent Lokoli,Jc Aragone,4-6 6-4 6-3,1.23,5.6%,9.0%,65.2%,77.6%,41.9%,5/7,52.1%,43.0%,2.3%,42.4%,44.2%,4/17,217,5,8,89,58,31,3,
+23-Aug-2021,M25 Trier,3,Clay,R32,485,685,0,5,,Alexander Cozbinov,Laurent Lokoli,6-2 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M25 Koksijde,3,Clay,QF,483,1050,0,4,,Mathys Erhard,Laurent Lokoli,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M25 Koksijde,3,Clay,R16,483,1085,1,4,,Laurent Lokoli,Raphael Collignon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M25 Koksijde,3,Clay,R32,483,1394,1,4,,Laurent Lokoli,Thomas Deschamps,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,Lyon CH,3,Clay,R32,420,107,0,LL,4,Daniel Elahi Galan,Laurent Lokoli,5-2 RET,0.63,8.0%,8.0%,64.0%,43.8%,22.2%,3/5,38.0%,40.0%,4.0%,33.3%,75.0%,1/1,50,2,2,25,16,9,1,0:39
+7-Jun-2021,Lyon CH,3,Clay,Q2,420,298,0,,5,Manuel Guinard,Laurent Lokoli,6-2 6-3,0.57,0.0%,3.0%,64.2%,55.8%,29.2%,6/11,39.8%,30.4%,2.2%,32.3%,26.7%,1/6,113,0,2,67,43,24,1,1:12
+7-Jun-2021,Lyon CH,3,Clay,Q1,420,264,1,,1,Laurent Lokoli,Hugo Grenier,4-6 6-1 6-2,1.16,0.0%,3.8%,61.3%,61.5%,51.2%,13/16,54.4%,49.2%,1.6%,39.6%,80.0%,6/6,169,0,4,106,65,41,1,2:03
+22-Mar-2021,M15 Monastir,3,Hard,R16,395,735,0,2,,Colin Sinclair,Laurent Lokoli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Monastir,3,Hard,R32,395,2031,1,2,,Laurent Lokoli,Natan Rodrigues,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Monastir,3,Hard,R16,394,636,0,2,,Luca Giacomini,Laurent Lokoli,6-1 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Monastir,3,Hard,R32,394,1045,1,2,Q,Laurent Lokoli,Luigi Sorrentino,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,R32,393,634,0,2,,Luca Giacomini,Laurent Lokoli,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Monastir,3,Hard,R32,384,737,0,3,,Tom Kocevar Desman,Laurent Lokoli,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Monastir,3,Hard,R16,383,963,0,3,,Pierre Faivre,Laurent Lokoli,5-7 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Monastir,3,Hard,R32,383,1302,1,3,,Laurent Lokoli,Giovanni Mpetshi Perricard,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,Bengaluru CH,3,Hard,R32,349,133,0,,9,Thomas Fabbiano,Laurent Lokoli,6-3 2-6 6-1,0.69,8.3%,4.2%,52.8%,68.4%,44.1%,3/7,44.1%,29.7%,1.6%,25.6%,38.1%,2/2,136,6,3,72,38,34,1,1:45
+10-Feb-2020,Bengaluru CH,3,Hard,R64,349,380,1,,,Laurent Lokoli,Adam Pavlasek,6-3 7-6(4),1.09,2.8%,11.3%,67.6%,70.8%,43.5%,1/4,52.2%,41.3%,6.3%,35.1%,50.0%,4/5,134,2,8,71,48,23,4,1:29
+3-Feb-2020,M25 Nonthaburi,3,Hard,QF,344,321,0,6,1,Tsung Hua Yang,Laurent Lokoli,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,R16,344,804,1,6,Q,Laurent Lokoli,Chien Hsun Lo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Nonthaburi,3,Hard,R32,344,690,1,6,Q,Laurent Lokoli,Austin Rapp,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Nonthaburi,3,Hard,R32,348,429,0,8,,Makoto Ochi,Laurent Lokoli,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,R16,342,999,0,2,Q,Benjamin Pietri,Laurent Lokoli,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Manacor,3,Hard,R32,342,1214,1,2,Q,Laurent Lokoli,Alessandro Coppini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,Las Vegas CH,3,Hard,R64,354,299,0,,,Jc Aragone,Laurent Lokoli,7-6(5) 7-5,0.95,2.3%,0.0%,70.1%,60.7%,53.8%,6/9,48.6%,39.4%,5.3%,30.0%,55.9%,2/10,181,2,0,87,61,26,5,1:56
+23-Sep-2019,M25 Santa Margherita Di Pula,3,Clay,R32,351,1783,0,3,,Samuel Bensoussan,Laurent Lokoli,4-4 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,Sibiu CH,3,Clay,QF,385,259,0,,,Danilo Petrovic,Laurent Lokoli,6-4 7-6(3),0.90,4.3%,8.6%,58.6%,70.7%,41.4%,2/5,46.5%,37.1%,3.4%,25.9%,54.3%,2/6,159,3,6,70,41,29,3,1:39
+16-Sep-2019,Sibiu CH,3,Clay,R16,385,406,1,,,Laurent Lokoli,Nikolas Sanchez Izquierdo,6-4 7-5,1.04,6.0%,3.6%,65.5%,65.5%,48.3%,6/8,52.0%,42.2%,1.6%,37.5%,46.9%,4/10,148,5,3,84,55,29,1,1:43
+16-Sep-2019,Sibiu CH,3,Clay,R32,385,957,1,,LL,Laurent Lokoli,Sergio Martos Gornes,6-1 6-2,2.40,0.0%,2.3%,81.8%,80.6%,62.5%,1/1,65.9%,54.5%,0.0%,48.0%,63.2%,4/6,88,0,1,44,36,8,0,0:58
+16-Sep-2019,Sibiu CH,3,Clay,R64,385,1089,1,,WC,Laurent Lokoli,Adrian Bodmer,7-5 6-3,1.30,3.3%,6.6%,68.9%,76.2%,47.4%,3/5,54.9%,42.6%,6.6%,35.1%,54.2%,4/8,122,2,4,61,42,19,4,1:15
+9-Sep-2019,Seville CH,3,Clay,R32,390,112,0,,1,Jaume Munar,Laurent Lokoli,6-2 6-2,0.45,0.0%,4.0%,56.0%,60.7%,40.9%,2/6,38.0%,21.4%,4.8%,21.4%,21.4%,0/0,92,0,2,50,28,22,2,1:07
+9-Sep-2019,Seville CH,3,Clay,R64,390,,1,,Q,Laurent Lokoli,David Vega Hernandez,6-3 7-5,1.48,11.1%,4.8%,60.3%,76.3%,56.0%,3/5,57.4%,47.0%,0.0%,41.0%,55.6%,4/7,129,7,3,63,38,25,0,
+12-Aug-2019,M25 Bydgoszcz,3,Clay,R16,386,619,0,3,,Jiri Lehecka,Laurent Lokoli,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Bydgoszcz,3,Clay,R32,386,1789,1,3,,Laurent Lokoli,Janis Podzus,6-3 6-7(7) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Vogau,3,Clay,QF,385,395,0,,6,Vit Kopriva,Laurent Lokoli,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Vogau,3,Clay,R16,385,1314,1,,Q,Laurent Lokoli,Yvo Panak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Vogau,3,Clay,R32,385,1267,1,,IR  ,Laurent Lokoli,Jan Mertl,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,F,512,,1,,IR  ,Laurent Lokoli,Quentin Robert,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,SF,512,461,1,,,Laurent Lokoli,Hugo Grenier,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,QF,512,359,1,,,Laurent Lokoli,Thiago Seyboth Wild,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,R16,512,439,1,,6,Laurent Lokoli,Yannick Mertens,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,R32,512,,1,,WC,Laurent Lokoli,Louis Tessa,2-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bakio,3,Hard,F,512,461,1,IR  ,,Laurent Lokoli,Hugo Grenier,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bakio,3,Hard,SF,512,402,1,IR  ,5,Laurent Lokoli,Andres Artunedo Martinavarro,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bakio,3,Hard,QF,512,658,1,IR  ,IR  ,Laurent Lokoli,Peter Kobelt,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bakio,3,Hard,R16,512,282,1,IR  ,,Laurent Lokoli,Roberto Ortega Olmedo,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2019,M25 Bakio,3,Hard,R32,512,,1,IR  ,,Laurent Lokoli,Oleg Khotkov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,QF,506,418,0,,2,Gregoire Jacq,Laurent Lokoli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,R16,506,,1,,,Laurent Lokoli,Florent Bax,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M25 Toulouse,3,Clay,R32,506,,1,,Q,Laurent Lokoli,Maxime Tchoutakian,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M25 Huelva,3,Clay,R32,507,639,0,,,Bruno Santanna,Laurent Lokoli,7-6(5) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,Bordeaux CH,3,Clay,R32,566,147,0,WC,6,Gianluca Mager,Laurent Lokoli,4-6 6-2 6-0,0.71,1.2%,4.8%,71.1%,61.0%,37.5%,9/14,44.2%,32.4%,0.0%,25.6%,42.9%,1/5,154,1,4,83,59,24,0,1:49
+29-Apr-2019,Bordeaux CH,3,Clay,R64,566,360,1,WC,ITF,Laurent Lokoli,Raul Brancaccio,7-5 6-3,1.21,2.7%,5.3%,76.0%,66.7%,33.3%,2/5,54.2%,50.0%,1.3%,48.0%,53.6%,5/14,153,2,4,75,57,18,1,1:36
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,560,377,0,,,Jan Satral,Laurent Lokoli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,560,669,1,,,Laurent Lokoli,Michael Zhu,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,615,631,1,,,Laurent Lokoli,Lenny Hampel,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,615,,1,,ITF,Laurent Lokoli,Nerman Fatic,6-2 2-1,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,F,606,344,1,,,Laurent Lokoli,Miljan Zekic,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,SF,606,471,1,,,Laurent Lokoli,Peter Torebko,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,QF,606,502,1,,,Laurent Lokoli,Matteo Martineau,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,606,637,1,,,Laurent Lokoli,Bruno Santanna,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,606,628,1,,,Laurent Lokoli,Lenny Hampel,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M25 Santa Margherita Di Pula,3,Clay,R16,619,322,0,,,Jannik Sinner,Laurent Lokoli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M25 Santa Margherita Di Pula,3,Clay,R32,619,,1,,,Laurent Lokoli,Gianluca Di Nicola,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,M15 Loule,3,Hard,R32,624,580,0,Q,,Sandro Ehrat,Laurent Lokoli,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,Cherbourg CH,3,Hard,R32,,137,0,WC,5,Simone Bolelli,Laurent Lokoli,6-3 6-3,0.64,3.3%,10.0%,68.3%,70.7%,26.3%,3/6,43.0%,27.8%,3.7%,23.8%,41.7%,0/1,114,2,6,60,41,19,2,1:16
+11-Feb-2019,Cherbourg CH,3,Hard,R64,,337,1,WC,,Laurent Lokoli,Ricardo Ojeda Lara,4-6 6-2 6-2,1.28,3.3%,3.3%,66.3%,65.6%,48.4%,6/10,55.3%,51.4%,0.9%,40.5%,75.8%,7/15,199,3,3,92,61,31,1,2:14
+4-Feb-2019,M15 Sharm El Sheikh,3,Hard,F,,487,0,,,Karim Mohamed Maamoun,Laurent Lokoli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Sharm El Sheikh,3,Hard,SF,,404,1,,2,Laurent Lokoli,Youssef Hossam,6-3 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Sharm El Sheikh,3,Hard,QF,,464,1,,3,Laurent Lokoli,Chun Hsin Tseng,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Sharm El Sheikh,3,Hard,R16,,601,1,,,Laurent Lokoli,David Poljak,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2019,M15 Sharm El Sheikh,3,Hard,R32,,488,1,,,Laurent Lokoli,Francesco Forti,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,QF,,648,0,,,Peter Kobelt,Laurent Lokoli,6-4 6-7(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,R16,,531,1,,8,Laurent Lokoli,Daniel Michalski,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,R32,,,1,,,Laurent Lokoli,Olexiy Kolisnyk,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Manacor,3,Clay,R16,,423,0,,,Markus Eriksson,Laurent Lokoli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Manacor,3,Clay,R32,,,1,,,Laurent Lokoli,Dante Gennaro,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2019,M15 Manacor,3,Clay,QF,,589,0,,,Sandro Ehrat,Laurent Lokoli,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2019,M15 Manacor,3,Clay,R16,,,1,,Q,Laurent Lokoli,Juan Pablo Canas Garcia,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2019,M15 Manacor,3,Clay,R32,,410,1,,3,Laurent Lokoli,Ivan Nedelko,4-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2018,Las Vegas CH,3,Hard,Q2,615,292,0,,4,Tommy Paul,Laurent Lokoli,6-4 1-0 RET,0.62,5.3%,5.3%,65.8%,64.0%,46.2%,1/3,44.6%,25.9%,7.4%,31.6%,12.5%,0/0,65,2,2,38,25,13,2,0:35
+22-Oct-2018,Las Vegas CH,3,Hard,Q1,615,475,1,,,Laurent Lokoli,Alejandro Gomez Gb42,6-4 7-6(2),1.65,12.1%,4.5%,62.1%,80.5%,68.0%,0/0,54.2%,40.0%,4.0%,38.3%,42.5%,1/11,166,8,3,66,41,25,4,1:44
+15-Oct-2018,Calgary  CH,3,Hard,Q3,607,455,0,,2,Pablo Vivero Gonzalez,Laurent Lokoli,7-5 3-6 7-6(6),0.99,12.7%,5.5%,62.7%,79.7%,41.5%,8/10,50.0%,34.3%,1.9%,21.3%,51.1%,2/6,218,14,6,110,69,41,2,2:20
+15-Oct-2018,Calgary  CH,3,Hard,Q2,607,471,1,,6,Laurent Lokoli,Alejandro Gomez Gb42,6-3 7-6(2),1.54,6.5%,3.2%,46.8%,82.8%,60.6%,0/1,56.6%,44.6%,6.8%,35.9%,54.3%,2/5,136,4,2,62,29,33,5,1:26
+15-Oct-2018,Calgary  CH,3,Hard,Q1,607,1283,1,,,Laurent Lokoli,Roy Smith,6-3 7-5,1.37,6.7%,5.0%,55.0%,87.9%,55.6%,1/2,54.5%,36.5%,9.5%,23.3%,48.5%,3/6,123,4,3,60,33,27,6,1:25
+24-Sep-2018,Tiburon CH,3,Hard,Q1,602,256,0,,3,Mitchell Krueger,Laurent Lokoli,7-6(2) 6-1,0.58,5.2%,1.7%,58.6%,64.7%,50.0%,2/4,40.8%,24.2%,1.6%,21.4%,30.0%,0/1,120,3,1,58,34,24,1,1:26
+3-Sep-2018,Italy F26,3,Clay,R16,619,928,0,,,Franjo Raspudic,Laurent Lokoli,6-3 1-3 RET,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Italy F26,3,Clay,R32,619,506,1,,,Laurent Lokoli,Cristian Rodriguez,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Italy F25,3,Hard,QF,619,792,0,,,Fred Simonsson,Laurent Lokoli,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Italy F25,3,Hard,R16,619,848,1,,,Laurent Lokoli,Jacopo Stefanini,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Italy F25,3,Hard,R32,619,987,1,,,Laurent Lokoli,Giorgio Ricca,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,Belgium F4,3,Clay,R32,509,1008,0,2,,Michael Geerts,Laurent Lokoli,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,France F13,3,Hard,R32,512,436,0,,6,Altug Celikbilek,Laurent Lokoli,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Caltanissetta CH,3,Clay,Q1,520,325,0,,7,Dimitar Kuzmanov,Laurent Lokoli,6-4 6-4,0.94,7.0%,1.4%,47.9%,61.8%,54.1%,5/8,47.3%,39.8%,1.0%,24.4%,52.8%,1/14,169,5,1,71,34,37,1,1:58
+4-Jun-2018,Shymkent CH,3,Clay,Q1,518,367,0,,,Daniel Masur,Laurent Lokoli,6-4 6-4,0.93,5.4%,7.1%,44.6%,80.0%,48.4%,3/6,47.2%,34.8%,1.4%,26.7%,50.0%,1/6,125,3,4,56,25,31,1,1:22
+21-May-2018,Mestre CH,3,Clay,Q1,514,456,0,,,Zsombor Piros,Laurent Lokoli,7-6(2) 6-3,0.85,4.1%,2.7%,60.3%,65.9%,48.3%,2/4,46.7%,35.1%,3.9%,27.9%,44.1%,1/5,150,3,2,73,44,29,3,1:36
+14-May-2018,Czech Republic F1,3,Clay,R16,517,,0,6,Q,Robert Strombachs,Laurent Lokoli,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-May-2018,Czech Republic F1,3,Clay,R32,517,1224,1,6,,Laurent Lokoli,Marek Semjan,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+7-May-2018,Aix En Provence CH,3,Clay,Q1,520,409,0,,8,Alexei Popyrin,Laurent Lokoli,4-6 6-2 6-2,0.77,3.5%,2.4%,58.8%,64.0%,31.4%,5/11,44.5%,38.0%,6.3%,34.0%,44.8%,3/5,164,3,2,85,50,35,5,1:51
+30-Apr-2018,France F9,3,Clay,QF,503,387,0,,3,Johan Sebastien Tatlot,Laurent Lokoli,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,France F9,3,Clay,R16,503,499,1,,,Laurent Lokoli,Jonathan Kanar,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,France F9,3,Clay,R32,503,1065,1,,WC,Laurent Lokoli,Clement Tabur,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,QF,474,503,0,,,Adrian Bodmer,Laurent Lokoli,6-3 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,R16,474,342,1,,2,Laurent Lokoli,Juan Pablo Ficovich,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Italy F9,3,Clay,R32,474,586,1,,,Laurent Lokoli,Matthias Haim,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Tunis CH,3,Clay,Q1,476,285,0,,7,Maxime Janvier,Laurent Lokoli,6-2 6-2,0.62,0.0%,10.1%,43.5%,53.3%,35.9%,8/13,39.8%,35.2%,1.9%,42.4%,23.8%,1/3,123,0,7,69,30,39,1,1:28
+19-Mar-2018,USA F8,3,Hard,QF,491,646,0,,,Collin Altamirano,Laurent Lokoli,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,USA F8,3,Hard,R16,491,248,1,,2,Laurent Lokoli,Alexander Sarkissian,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,USA F8,3,Hard,R32,491,890,1,,,Laurent Lokoli,Harrison Adams,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,QF,448,241,0,7,,Mathias Bourgue,Laurent Lokoli,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R16,448,471,1,7,,Laurent Lokoli,Sekou Bangoura,6-7(3) 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,USA F7,3,Hard,R32,448,,1,7,,Laurent Lokoli,Mate Cutura,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Canada F2,3,Hard,R32,448,,0,,,Chih Chi Huang,Laurent Lokoli,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,R32,456,494,0,,,Ronnie Schneider,Laurent Lokoli,6-7(6) 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Tunisia F6,3,Hard,R16,428,1185,0,,,Federico Iannaccone,Laurent Lokoli,7-6(6) 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Tunisia F6,3,Hard,R32,428,1332,1,,,Laurent Lokoli,Francesco Forti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Tunisia F5,3,Hard,SF,492,329,0,,3,Carlos Boluda Purkiss,Laurent Lokoli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Tunisia F5,3,Hard,QF,492,454,1,,,Laurent Lokoli,Clement Geens,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Tunisia F5,3,Hard,R16,492,306,1,,2,Laurent Lokoli,Roberto Ortega Olmedo,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Tunisia F5,3,Hard,R32,492,1172,1,,,Laurent Lokoli,Mousheg Hovhannisyan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Tunisia F4,3,Hard,F,493,287,1,,,Laurent Lokoli,Geoffrey Blancaneaux,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Tunisia F4,3,Hard,SF,493,451,1,,,Laurent Lokoli,Michal Konecny,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Tunisia F4,3,Hard,QF,493,332,1,,3,Laurent Lokoli,Mario Vilella Martinez,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Tunisia F4,3,Hard,R16,493,1593,1,,,Laurent Lokoli,Aziz Ouakaa,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Tunisia F4,3,Hard,R32,493,,1,,WC,Laurent Lokoli,Fayyaz Hussain Quadri,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Rennes CH,3,Hard,Q1,496,457,0,,,Tom Farquharson,Laurent Lokoli,7-6(2) 6-7(4) 6-3,0.89,18.6%,3.9%,57.8%,83.1%,53.5%,4/5,47.8%,26.2%,16.8%,23.9%,30.0%,0/2,209,19,4,102,59,43,18,2:03
+30-Oct-2017,Greece F7,3,Hard,SF,451,726,0,3,,Matthias Haim,Laurent Lokoli,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Greece F7,3,Hard,QF,451,718,1,3,,Laurent Lokoli,Jaroslav Pospisil,2-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Greece F7,3,Hard,R16,451,987,1,3,,Laurent Lokoli,Ioannis Stergiou,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Greece F7,3,Hard,R32,451,687,1,3,,Laurent Lokoli,Christian Hirschmueller,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Ortisei CH,3,Hard,Q2,443,278,0,,2,Matteo Viola,Laurent Lokoli,3-6 6-0 6-3,0.82,7.0%,14.0%,48.8%,69.0%,31.8%,9/15,45.6%,41.2%,0.0%,30.0%,57.1%,3/11,171,6,12,86,42,44,0,1:48
+9-Oct-2017,Ortisei CH,3,Hard,Q1,443,,1,,WC,Laurent Lokoli,Patric Prinoth,7-6(4) 6-2,1.21,7.5%,8.8%,47.5%,81.6%,50.0%,3/4,53.8%,42.5%,5.0%,34.8%,52.9%,3/9,160,6,7,80,38,42,4,1:27
+31-Jul-2017,Segovia CH,3,Hard,QF,346,525,0,,WC,Gerard Granollers,Laurent Lokoli,6-4 6-4,0.76,10.9%,9.4%,50.0%,78.1%,31.3%,5/9,44.8%,34.4%,3.3%,26.3%,47.8%,2/5,125,7,6,64,32,32,2,1:27
+31-Jul-2017,Segovia CH,3,Hard,R16,346,245,1,,,Laurent Lokoli,Goncalo Oliveira,4-6 7-6(2) 6-4,1.05,11.5%,7.1%,52.2%,84.7%,46.3%,6/8,51.1%,35.5%,2.7%,32.9%,40.5%,2/6,223,13,8,113,59,54,3,2:29
+31-Jul-2017,Segovia CH,3,Hard,R32,346,121,1,,5,Laurent Lokoli,Egor Gerasimov,6-3 6-2,2.29,6.1%,4.1%,57.1%,85.7%,71.4%,2/2,61.5%,46.7%,0.0%,40.6%,53.6%,3/8,109,3,2,49,28,21,0,1:04
+24-Jul-2017,Ireland F2,3,Carpet,R32,349,691,0,1,,Peter Bothwell,Laurent Lokoli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,QF,320,319,0,5,4,Sadio Doumbia,Laurent Lokoli,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R16,320,1183,1,5,Q,Laurent Lokoli,Benjamin Pietri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R32,320,,1,5,WC,Laurent Lokoli,Lisandru Rodriguez,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Milan CH,3,Clay,R32,319,377,0,,WC,Gianluca Mager,Laurent Lokoli,3-6 7-5 6-3,0.78,3.0%,8.9%,60.4%,73.8%,47.5%,6/9,47.8%,28.4%,7.4%,24.0%,35.5%,2/3,182,3,9,101,61,40,6,1:57
+19-Jun-2017,Todi CH,3,Clay,Q3,313,,0,3,WC,Andreas Haider Maurer,Laurent Lokoli,7-6(3) 6-3,0.84,3.4%,2.3%,50.6%,70.5%,44.2%,9/12,47.3%,35.9%,5.1%,28.3%,52.0%,2/7,165,3,2,87,44,43,4,1:51
+19-Jun-2017,Todi CH,3,Clay,Q2,313,,1,3,WC,Laurent Lokoli,Federico Cecconi,6-1 6-4,3.83,12.2%,0.0%,61.0%,92.0%,81.3%,0/0,66.3%,46.7%,0.0%,40.0%,55.0%,3/6,86,5,0,41,25,16,0,1:00
+12-Jun-2017,Lyon CH,3,Clay,Q1,318,417,0,5,,Hugo Nys,Laurent Lokoli,6-2 4-6 6-3,1.00,5.0%,1.3%,51.2%,63.4%,53.8%,5/10,48.5%,41.2%,3.5%,27.3%,60.4%,2/16,194,4,1,80,41,39,4,2:11
+29-May-2017,Roland Garros,5,Clay,R128,285,50,0,,,Martin Klizan,Laurent Lokoli,7-6(4) 6-3 4-6 0-6 6-4,1.13,13.8%,5.1%,50.0%,78.3%,46.4%,6/11,51.5%,42.4%,2.4%,33.3%,52.6%,7/13,303,19,7,138,69,69,4,3:39
+22-May-2017,Mestre CH,3,Clay,R32,281,253,0,,7,Marsel Ilhan,Laurent Lokoli,6-4 6-7(4) 6-1,0.86,8.2%,4.7%,51.8%,75.0%,48.8%,4/8,46.4%,32.3%,9.4%,25.9%,42.1%,1/3,181,7,4,85,44,41,9,2:08
+15-May-2017,Bordeaux CH,3,Clay,R32,274,50,0,WC,1,Steve Darcis,Laurent Lokoli,6-7(5) 6-3 6-3,0.84,5.8%,4.2%,58.3%,72.9%,38.0%,13/18,47.9%,35.1%,3.1%,33.3%,38.7%,2/4,217,7,5,120,70,50,3,2:32
+8-May-2017,Aix En Provence CH,3,Clay,Q2,272,748,0,2,,Andres Molteni,Laurent Lokoli,3-6 7-5 7-6(4),0.98,6.9%,6.0%,59.5%,68.1%,36.2%,10/17,49.6%,43.9%,0.0%,46.0%,41.2%,7/15,230,8,7,116,69,47,0,2:50
+24-Apr-2017,France F9,3,Clay,SF,273,229,0,3,1,Gleb Sakharov,Laurent Lokoli,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,France F9,3,Clay,QF,273,503,1,3,,Laurent Lokoli,Erik Crepaldi,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,France F9,3,Clay,R16,273,657,1,3,PR,Laurent Lokoli,Niels Desein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,France F9,3,Clay,R32,273,498,1,3,,Laurent Lokoli,Tak Khunn Wang,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Italy F9,3,Clay,SF,272,218,0,7,4,Salvatore Caruso,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Italy F9,3,Clay,QF,272,486,1,7,,Laurent Lokoli,Riccardo Bonadio,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Italy F9,3,Clay,R16,272,850,1,7,Q,Laurent Lokoli,Gabor Borsos,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Italy F9,3,Clay,R32,272,758,1,7,Q,Laurent Lokoli,Vasile Antonescu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Sophia Antipolis CH,3,Clay,Q3,270,158,0,8,1,Mathias Bourgue,Laurent Lokoli,6-1 6-4,0.59,4.8%,4.8%,54.8%,78.3%,36.8%,2/5,40.2%,24.0%,8.0%,22.9%,26.7%,0/1,92,2,2,42,23,19,4,1:02
+3-Apr-2017,Sophia Antipolis CH,3,Clay,Q2,270,1056,1,8,,Laurent Lokoli,Alexei Popyrin,6-2 6-2,1.43,5.4%,0.0%,66.1%,64.9%,57.9%,1/2,58.2%,53.7%,3.7%,40.0%,78.9%,5/6,110,3,0,56,37,19,2,0:59
+27-Mar-2017,Saint Brieuc CH,3,Hard,R32,271,148,0,ALT,7,Ruben Ramirez Hidalgo,Laurent Lokoli,6-1 4-6 6-3,0.76,7.3%,6.3%,60.4%,58.6%,34.2%,11/18,44.4%,38.7%,6.7%,20.9%,62.5%,4/8,171,7,6,96,58,38,5,1:55
+13-Mar-2017,Drummondville CH,3,Hard,R16,292,243,0,,,John Patrick Smith,Laurent Lokoli,7-5 4-6 6-1,0.93,5.4%,4.3%,60.9%,71.4%,52.8%,9/12,47.9%,33.3%,12.7%,32.3%,35.0%,1/11,194,5,4,92,56,36,13,1:52
+13-Mar-2017,Drummondville CH,3,Hard,R32,292,94,1,,1,Laurent Lokoli,Adam Pavlasek,6-3 6-3,1.37,1.8%,3.6%,63.6%,68.6%,60.0%,5/6,56.3%,47.4%,3.5%,45.2%,50.0%,4/6,112,1,2,55,35,20,2,1:01
+6-Mar-2017,Canada F2,3,Hard,QF,292,253,0,5,2,Denis Shapovalov,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Canada F2,3,Hard,R16,292,426,1,5,,Laurent Lokoli,Maximilian Neuchrist,7-6(5) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Canada F2,3,Hard,R32,292,381,1,5,,Laurent Lokoli,Hugo Nys,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Canada F1,3,Hard,R16,290,518,0,3,,Filip Peliwo,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Canada F1,3,Hard,R32,290,427,1,3,,Laurent Lokoli,Mikelis Libietis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,F,305,433,0,1,,Matteo Berrettini,Laurent Lokoli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,SF,305,333,1,1,4,Laurent Lokoli,Daniel Altmaier,1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,QF,305,358,1,1,7,Laurent Lokoli,Marvin Netuschil,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R16,305,831,1,1,Q,Laurent Lokoli,Simeon Rossier,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R32,305,478,1,1,,Laurent Lokoli,Andriej Kapas,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2017,Quimper CH,3,Hard,Q3,306,295,0,,,Calvin Hemery,Laurent Lokoli,6-1 6-2,0.56,1.8%,1.8%,62.5%,51.4%,38.1%,4/8,38.5%,30.2%,13.2%,23.1%,50.0%,0/3,109,1,1,56,35,21,7,1:04
+30-Jan-2017,Quimper CH,3,Hard,Q2,306,329,1,,,Laurent Lokoli,Axel Michon,6-2 7-6(4),1.29,6.6%,1.6%,70.5%,67.4%,44.4%,4/7,55.3%,50.7%,1.4%,46.3%,56.7%,5/11,132,4,1,61,43,18,1,1:33
+30-Jan-2017,Quimper CH,3,Hard,Q1,306,1094,1,,WC,Laurent Lokoli,Alexis Gautier,6-2 6-0,1.93,4.8%,2.4%,73.8%,67.7%,63.6%,1/2,65.5%,64.4%,0.0%,59.4%,76.9%,6/8,87,2,1,42,31,11,0,0:51
+14-Nov-2016,Toyota CH,3,Hard,R32,300,231,0,,,John Patrick Smith,Laurent Lokoli,7-6(4) 7-5,0.93,4.4%,7.4%,63.2%,81.4%,48.0%,0/1,47.3%,28.7%,7.5%,20.3%,52.4%,0/3,148,3,5,68,43,25,6,1:23
+7-Nov-2016,Kobe CH,3,Hard,QF,328,130,0,,7,James Duckworth,Laurent Lokoli,7-5 7-6(2),0.77,1.4%,4.2%,68.1%,63.3%,47.8%,1/5,45.1%,31.9%,11.1%,17.5%,50.0%,3/4,144,1,3,72,49,23,8,1:25
+7-Nov-2016,Kobe CH,3,Hard,R16,328,182,1,,,Laurent Lokoli,Hiroki Moriya,6-3 6-3,1.34,7.7%,4.6%,58.5%,65.8%,51.9%,4/6,57.0%,53.6%,0.0%,43.8%,66.7%,5/11,121,5,3,65,38,27,0,1:25
+7-Nov-2016,Kobe CH,3,Hard,R32,328,286,1,,,Laurent Lokoli,Prajnesh Gunneswaran,6-3 7-6(0),1.44,2.7%,0.0%,57.5%,71.4%,61.3%,5/7,57.2%,47.2%,0.0%,43.5%,53.8%,3/9,145,2,0,73,42,31,0,1:30
+17-Oct-2016,Brest CH,3,Hard,R32,323,568,0,WC,WC,Corentin Moutet,Laurent Lokoli,6-1 4-6 7-5,0.85,4.5%,2.3%,63.6%,58.9%,43.8%,3/10,46.6%,39.8%,0.0%,38.1%,44.0%,4/9,176,4,2,88,56,32,0,2:03
+3-Oct-2016,Sweden F5,3,Hard,SF,342,317,0,7,6,Edward Corrie,Laurent Lokoli,6-7(2) 6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Sweden F5,3,Hard,QF,342,319,1,7,4,Laurent Lokoli,Cem Ilkel,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Sweden F5,3,Hard,R16,342,490,1,7,,Laurent Lokoli,Adrien Bossel,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Sweden F5,3,Hard,R32,342,1490,1,7,Q,Laurent Lokoli,Adrian Bodmer,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,Sweden F4,3,Hard,QF,343,366,0,,7,Mats Moraing,Laurent Lokoli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,Sweden F4,3,Hard,R16,343,505,1,,,Laurent Lokoli,Isak Arvidsson,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,Sweden F4,3,Hard,R32,343,495,1,,,Laurent Lokoli,Adrien Bossel,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,France F18,3,Hard,F,415,434,1,,,Laurent Lokoli,Raymond Sarmiento,4-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,France F18,3,Hard,SF,415,445,1,,,Laurent Lokoli,Albano Olivetti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,France F18,3,Hard,QF,415,371,1,,5,Laurent Lokoli,Andreas Beck,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,France F18,3,Hard,R16,415,337,1,,3,Laurent Lokoli,Edward Corrie,2-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,France F18,3,Hard,R32,415,1658,1,,WC,Laurent Lokoli,Franck Pepe,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,St Remy de Provence CH,3,Hard,R32,446,93,0,WC,2,Konstantin Kravchuk,Laurent Lokoli,6-3 6-3,0.77,5.4%,5.4%,67.9%,68.4%,44.4%,4/7,45.5%,30.4%,3.6%,20.0%,42.3%,0/1,112,3,3,56,38,18,2,1:18
+22-Aug-2016,Switzerland F4,3,Clay,F,473,984,0,5,,Cristian Villagran,Laurent Lokoli,6-4 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,SF,473,318,1,5,2,Laurent Lokoli,Federico Coria,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,QF,473,426,1,5,4,Laurent Lokoli,Goncalo Oliveira,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,R16,473,1637,1,5,WC,Laurent Lokoli,Marc Andrea Huesler,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,R32,473,958,1,5,,Laurent Lokoli,Aria Harajchi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,F,474,624,0,3,8,Tobias Simon,Laurent Lokoli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,SF,474,1792,1,3,Q,Laurent Lokoli,Lukas Ollert,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,QF,474,543,1,3,5,Laurent Lokoli,Antoine Bellier,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,R16,474,1047,1,3,Q,Laurent Lokoli,Louis Tessa,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,R32,474,1138,1,3,WC,Laurent Lokoli,Raphael Baltensperger,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,France F16,3,Hard,R32,446,1065,0,6,,Louis Tessa,Laurent Lokoli,6-4 5-7 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,France F13,3,Clay,R16,523,488,0,,8,N Sriram Balaji,Laurent Lokoli,W/O,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,France F13,3,Clay,R32,523,742,1,,Q,Laurent Lokoli,Marat Deviatiarov,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,SF,523,206,0,WC,1,Jordi Samper Montana,Laurent Lokoli,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,QF,523,347,1,WC,,Laurent Lokoli,Jonathan Eysseric,6-7(3) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R16,523,297,1,WC,5,Laurent Lokoli,Maxime Chazal,5-7 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R32,523,952,1,WC,Q,Laurent Lokoli,Sherif Sabry,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,France F11,3,Clay,F,520,448,0,,5,Lamine Ouahab,Laurent Lokoli,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,France F11,3,Clay,SF,520,467,1,,7,Laurent Lokoli,Tak Khunn Wang,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,France F11,3,Clay,QF,520,781,1,,,Laurent Lokoli,Romain Arneodo,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,France F11,3,Clay,R16,520,492,1,,8,Laurent Lokoli,Marcos Giraldi Requena,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,France F11,3,Clay,R32,520,985,1,,Q,Laurent Lokoli,Sherif Sabry,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Lyon CH,3,Clay,R32,610,212,0,WC,,Tommy Paul,Laurent Lokoli,6-0 7-6(4),0.80,5.3%,2.6%,61.8%,61.7%,27.6%,3/8,44.8%,41.0%,2.6%,36.4%,47.1%,2/5,154,4,2,76,47,29,2,1:32
+30-May-2016,Bosnia &amp; Herzegovina F4,3,Clay,F,719,953,1,,,Laurent Lokoli,Steven De Waard,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Bosnia &amp; Herzegovina F4,3,Clay,SF,719,485,1,,2,Laurent Lokoli,Duje Kekez,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Bosnia &amp; Herzegovina F4,3,Clay,QF,719,748,1,,,Laurent Lokoli,Elmar Ejupovic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Bosnia &amp; Herzegovina F4,3,Clay,R16,719,640,1,,6,Laurent Lokoli,Tomislav Jotovski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2016,Bosnia &amp; Herzegovina F4,3,Clay,R32,719,,1,,WC,Laurent Lokoli,Matteo Herrmann Zunic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Bosnia &amp; Herzegovina F3,3,Clay,SF,719,825,0,,SE,Dejan Katic,Laurent Lokoli,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Bosnia &amp; Herzegovina F3,3,Clay,QF,719,754,1,,,Laurent Lokoli,Corentin Denolly,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Bosnia &amp; Herzegovina F3,3,Clay,R16,719,578,1,,7,Laurent Lokoli,Sebastian Ofner,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Bosnia &amp; Herzegovina F3,3,Clay,R32,719,,1,,WC,Laurent Lokoli,Luka Matic,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Roland Garros,5,Clay,Q2,719,174,0,,,Aleksandr Nedovyesov,Laurent Lokoli,7-6(5) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Roland Garros,5,Clay,Q1,719,520,1,,,Laurent Lokoli,Julian Reister,0-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,QF,986,700,0,SE,,Vadim Alekseenko,Laurent Lokoli,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,R16,986,891,1,SE,,Laurent Lokoli,Leon Schutt,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,R32,986,556,1,SE,7,Laurent Lokoli,Viktor Durasovic,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,F,986,395,1,Q,4,Laurent Lokoli,Tim Van Rijthoven,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,SF,986,588,1,Q,,Laurent Lokoli,Enzo Couacaud,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,QF,986,843,1,Q,,Laurent Lokoli,Pietro Rondoni,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,R16,986,363,1,Q,1,Laurent Lokoli,Laurynas Grigelis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,R32,986,604,1,Q,,Laurent Lokoli,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Italy F6,3,Clay,R32,983,1019,0,Q,Q,Alberto Cammarata,Laurent Lokoli,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Israel F2,3,Hard,R16,862,412,0,,4,Antal Van Der Duim,Laurent Lokoli,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,Israel F2,3,Hard,R32,862,614,1,,,Laurent Lokoli,Alexios Halebian,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Israel F1,3,Hard,R32,859,282,0,,2,Yannick Jankovits,Laurent Lokoli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Greece F11,3,Hard,R16,514,916,0,5,,Winston Lin,Laurent Lokoli,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Greece F11,3,Hard,R32,514,,1,5,Q,Laurent Lokoli,Marek Gengel,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,France F22,3,Hard,R32,386,1147,0,3,,Sander Arends,Laurent Lokoli,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,France F21,3,Hard,R16,378,235,0,,3,Jonathan Eysseric,Laurent Lokoli,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2015,France F21,3,Hard,R32,378,,1,,Q,Laurent Lokoli,Maxence Beauge,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,SF,321,542,0,3,,Alexandre Sidorenko,Laurent Lokoli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,QF,321,627,1,3,,Laurent Lokoli,Jerome Inzerillo,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,R16,321,835,1,3,,Laurent Lokoli,Maxime Tchoutakian,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,R32,321,,1,3,Q,Laurent Lokoli,Mathieu Scaglia,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Napoli CH,3,Clay,R32,207,111,0,,1,Andrey Golubev,Laurent Lokoli,6-1 6-0,0.54,3.3%,6.6%,57.4%,42.9%,42.3%,6/11,37.7%,31.1%,6.7%,20.0%,45.0%,0/1,106,2,4,61,35,26,3,1:03
+16-Mar-2015,Kazan CH,3,Hard,R32,211,268,0,,,Dzmitry Zhyrmont,Laurent Lokoli,6-2 5-7 6-2,0.67,4.0%,9.0%,40.0%,60.0%,45.0%,7/13,43.0%,32.9%,6.3%,9.8%,57.9%,3/6,179,4,9,100,40,60,5,1:56
+2-Mar-2015,Quimper CH,3,Hard,R32,209,501,0,,LL,Sebastien Boltz,Laurent Lokoli,6-1 6-2,0.22,12.0%,8.0%,48.0%,62.5%,38.5%,5/9,33.7%,11.1%,8.3%,7.7%,20.0%,0/0,86,6,4,50,24,26,3,0:49
+23-Feb-2015,Cherbourg CH,3,Hard,R16,214,118,0,,6,Benoit Paire,Laurent Lokoli,3-6 6-1 6-1,0.74,3.7%,2.4%,59.8%,59.2%,42.4%,4/10,45.1%,35.0%,1.7%,23.3%,46.7%,2/3,142,3,2,82,49,33,1,1:28
+23-Feb-2015,Cherbourg CH,3,Hard,R32,214,184,1,,,Laurent Lokoli,Andrej Martin,6-4 6-2,1.47,4.3%,6.4%,46.8%,72.7%,60.0%,0/2,57.3%,50.0%,0.0%,44.4%,60.0%,5/8,103,2,3,47,22,25,0,1:07
+2-Feb-2015,Montpellier,3,Hard,R32,214,49,0,WC,7,Joao Sousa,Laurent Lokoli,6-2 6-4,0.60,11.5%,4.9%,67.2%,63.4%,45.0%,7/10,42.2%,25.5%,7.3%,16.1%,37.5%,0/3,116,7,3,61,41,20,4,1:08
+19-Jan-2015,Australian Open,5,Hard,R128,259,79,0,Q,,Andreas Haider Maurer,Laurent Lokoli,6-4 7-5 4-6 6-3,0.80,5.1%,2.9%,69.3%,66.3%,42.9%,6/12,46.7%,32.5%,5.8%,21.3%,44.1%,3/8,257,7,4,137,95,42,7,2:41
+19-Jan-2015,Australian Open,5,Hard,Q3,259,178,1,,,Laurent Lokoli,Andrea Arnaboldi,6-4 3-6 6-4,1.09,8.8%,6.6%,71.4%,69.2%,42.3%,3/6,50.7%,42.1%,1.8%,34.2%,56.1%,4/10,205,8,6,91,65,26,2,2:03
+19-Jan-2015,Australian Open,5,Hard,Q2,259,242,1,,,Laurent Lokoli,Peter Torebko,3-6 7-6(3) 6-1,1.10,4.8%,0.0%,68.3%,70.4%,54.5%,6/8,51.4%,38.0%,1.9%,36.2%,41.0%,2/13,212,5,0,104,71,33,2,2:19
+19-Jan-2015,Australian Open,5,Hard,Q1,259,205,1,,,Laurent Lokoli,Ilija Bozoljac,6-3 7-6(5),1.41,7.1%,1.4%,61.4%,79.1%,66.7%,3/3,55.4%,36.2%,8.7%,32.7%,47.1%,1/4,139,5,1,70,43,27,6,1:24
+5-Jan-2015,Noumea CH,3,Hard,R32,256,189,0,WC,,Chase Buchanan,Laurent Lokoli,6-3 6-2,0.68,1.8%,5.3%,63.2%,58.3%,42.9%,5/9,42.2%,32.2%,3.4%,28.9%,38.1%,0/5,116,1,3,57,36,21,2,1:28
+17-Nov-2014,Cyprus F2,3,Hard,F,277,762,1,1,,Laurent Lokoli,Petros Chrysochos,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,SF,277,384,1,1,4,Laurent Lokoli,Adrian Sikora,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,QF,277,468,1,1,6,Laurent Lokoli,Erik Crepaldi,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,R16,277,1021,1,1,Q,Laurent Lokoli,Matthieu Roy,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,R32,277,1039,1,1,Q,Laurent Lokoli,Simeon Rossier,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Champaign CH,3,Hard,R32,274,86,0,,3,Blaz Rola,Laurent Lokoli,6-0 6-2,0.43,8.9%,8.9%,58.9%,57.6%,21.7%,4/9,35.5%,24.3%,8.1%,20.0%,33.3%,0/0,93,5,5,56,33,23,3,0:56
+27-Oct-2014,Charlottesville CH,3,Hard,QF,300,192,0,Q,,Alex Kuznetsov,Laurent Lokoli,3-6 6-4 6-3,0.85,4.3%,3.2%,66.7%,62.9%,54.8%,8/11,47.7%,33.7%,4.8%,20.4%,52.9%,2/7,176,4,3,93,62,31,4,1:59
+27-Oct-2014,Charlottesville CH,3,Hard,R16,300,184,1,Q,,Laurent Lokoli,Chase Buchanan,6-0 6-0,4.82,14.3%,3.6%,67.9%,94.7%,66.7%,0/0,75.3%,68.9%,0.0%,59.3%,83.3%,6/8,73,4,1,28,19,9,0,0:45
+27-Oct-2014,Charlottesville CH,3,Hard,R32,300,82,1,Q,1,Laurent Lokoli,Samuel Groth,6-4 6-4,1.52,8.9%,3.6%,53.6%,86.7%,53.8%,1/2,56.9%,43.3%,8.3%,31.6%,63.6%,3/3,116,5,2,56,30,26,5,1:13
+13-Oct-2014,Belarus F3,3,Hard,SF,333,384,0,2,4,Maxim Dubarenco,Laurent Lokoli,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,QF,333,804,1,2,,Laurent Lokoli,Artur Dubinski,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,R16,333,1367,1,2,,Laurent Lokoli,Alexandr Chepelev,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,R32,333,897,1,2,,Laurent Lokoli,Patrik Fabian,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,France F22,3,Hard,F,344,395,0,2,3,Remi Boutillier,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,France F22,3,Hard,SF,344,1968,1,2,WC,Laurent Lokoli,Corentin Denolly,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,France F22,3,Hard,QF,344,408,1,2,5,Laurent Lokoli,Hugo Nys,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,France F22,3,Hard,R16,344,835,1,2,,Laurent Lokoli,Ugo Nastasi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,France F22,3,Hard,R32,344,582,1,2,,Laurent Lokoli,Rudy Coco,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,QF,347,326,0,7,4,Enzo Couacaud,Laurent Lokoli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,R16,347,,1,7,Q,Laurent Lokoli,Olivier Charroin,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+29-Sep-2014,France F21,3,Hard,R32,347,444,1,7,,Laurent Lokoli,David Vega Hernandez,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2014,Orleans CH,3,Hard,R16,367,79,0,WC,5,Thomaz Bellucci,Laurent Lokoli,6-3 4-6 7-6(1),0.84,6.6%,5.0%,55.4%,68.7%,40.7%,9/14,47.9%,36.7%,6.7%,21.2%,57.9%,4/5,211,8,6,121,67,54,6,2:31
+22-Sep-2014,Orleans CH,3,Hard,R32,367,127,1,WC,,Laurent Lokoli,Alexander Kudryavtsev,6-3 6-2,1.53,15.1%,5.7%,49.1%,84.6%,59.3%,3/3,58.8%,43.2%,0.0%,15.0%,66.7%,3/3,97,8,3,53,26,27,0,0:56
+15-Sep-2014,Metz,3,Hard,R32,367,79,0,WC,,Paolo Lorenzi,Laurent Lokoli,6-2 6-4,0.59,3.7%,1.9%,55.6%,66.7%,41.7%,2/5,41.1%,26.4%,3.8%,15.8%,53.3%,0/2,107,2,1,54,30,24,2,1:15
+1-Sep-2014,France F17,3,Hard,F,328,452,0,4,7,Enzo Couacaud,Laurent Lokoli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,France F17,3,Hard,SF,328,626,1,4,,Laurent Lokoli,Johan Sebastien Tatlot,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,France F17,3,Hard,QF,328,824,1,4,,Laurent Lokoli,Julien Dubail,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,France F17,3,Hard,R16,328,860,1,4,,Laurent Lokoli,Alexandre Sidorenko,2-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2014,France F17,3,Hard,R32,328,,1,4,Q,Laurent Lokoli,Hugo Voljacques,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Meerbusch CH,3,Clay,R16,300,108,0,Q,2,Andrey Kuznetsov,Laurent Lokoli,6-2 6-1,0.55,4.9%,2.4%,58.5%,45.8%,17.6%,0/6,35.5%,36.5%,5.8%,29.6%,44.0%,1/6,93,2,1,41,24,17,3,0:59
+11-Aug-2014,Meerbusch CH,3,Clay,R32,300,273,1,Q,,Laurent Lokoli,Marc Giner,6-2 3-0 RET,3.01,3.0%,0.0%,66.7%,90.9%,63.6%,2/2,66.7%,54.8%,0.0%,48.1%,66.7%,3/3,75,1,0,33,22,11,0,0:49
+4-Aug-2014,Prague II CH,3,Clay,R32,302,220,0,LL,,Jaroslav Pospisil,Laurent Lokoli,6-3 6-3,0.77,9.0%,7.5%,62.7%,64.3%,32.0%,5/9,44.4%,36.8%,4.4%,26.3%,50.0%,1/10,135,6,5,67,42,25,3,1:27
+21-Jul-2014,Tampere CH,3,Clay,QF,337,440,0,Q,,Giovanni Lapentti,Laurent Lokoli,6-4 6-0,0.55,5.6%,5.6%,63.0%,55.9%,35.0%,4/8,39.0%,28.3%,4.3%,18.5%,42.1%,0/0,100,3,3,54,34,20,2,1:07
+21-Jul-2014,Tampere CH,3,Clay,R16,337,163,1,Q,5,Laurent Lokoli,Jesse Huta Galung,1-6 6-4 6-1,1.03,8.6%,7.1%,60.0%,57.1%,50.0%,5/10,50.3%,47.1%,6.9%,32.6%,63.4%,6/12,157,6,5,70,42,28,6,1:48
+21-Jul-2014,Tampere CH,3,Clay,R32,337,306,1,Q,,Laurent Lokoli,Aslan Karatsev,4-6 6-2 6-1,1.32,5.5%,5.5%,53.4%,76.9%,55.9%,0/2,55.7%,43.3%,0.0%,32.6%,62.5%,5/9,140,4,4,73,39,34,0,1:44
+7-Jul-2014,Portoroz CH,3,Hard,R32,335,589,0,,Q,Filip Veger,Laurent Lokoli,6-4 6-3,0.56,5.4%,5.4%,60.7%,55.9%,50.0%,2/6,41.2%,26.1%,2.2%,20.0%,37.5%,1/3,102,3,3,56,34,22,1,1:11
+23-Jun-2014,Padova CH,3,Clay,R32,329,284,0,Q,,Jordi Samper Montana,Laurent Lokoli,6-0 6-4,0.70,3.0%,6.0%,47.8%,62.5%,40.0%,8/12,43.2%,34.5%,0.0%,32.6%,40.0%,0/4,125,2,4,67,32,35,0,1:33
+9-Jun-2014,Blois CH,3,Clay,R16,330,222,0,WC,,Vincent Millot,Laurent Lokoli,6-4 4-6 6-1,0.82,2.4%,2.4%,56.1%,63.0%,50.0%,6/11,46.8%,35.1%,4.1%,24.4%,48.5%,3/4,156,2,2,82,46,36,3,1:33
+9-Jun-2014,Blois CH,3,Clay,R32,330,159,1,WC,2,Laurent Lokoli,Guido Andreozzi,7-5 2-1 RET,1.15,6.7%,5.3%,52.0%,76.9%,36.1%,5/7,54.0%,49.0%,3.9%,35.7%,65.2%,3/7,126,5,4,75,39,36,2,1:27
+26-May-2014,Roland Garros,5,Clay,R128,406,64,0,Q,,Steve Johnson,Laurent Lokoli,4-6 6-7(7) 7-6(3) 6-3 6-3,0.95,11.0%,6.1%,48.8%,72.5%,51.2%,7/14,48.5%,36.7%,2.8%,36.4%,37.0%,5/16,344,18,10,164,80,84,5,3:57
+26-May-2014,Roland Garros,5,Clay,Q3,406,163,1,WC,,Laurent Lokoli,Filip Krajinovic,7-5 7-6(4),1.09,8.7%,2.2%,57.6%,71.7%,48.7%,6/9,52.3%,41.5%,1.2%,33.3%,51.4%,4/10,174,8,2,92,53,39,1,2:03
+26-May-2014,Roland Garros,5,Clay,Q2,406,95,1,WC,3,Laurent Lokoli,Evgeny Donskoy,3-6 7-6(1) 6-2,0.92,4.2%,4.2%,49.0%,76.6%,57.1%,4/6,50.6%,30.8%,0.0%,29.2%,33.3%,2/4,174,4,4,96,47,49,0,2:00
+26-May-2014,Roland Garros,5,Clay,Q1,406,250,1,WC,,Laurent Lokoli,Laurynas Grigelis,7-5 7-5,1.24,14.7%,0.0%,60.3%,80.5%,66.7%,1/1,52.9%,30.9%,2.9%,27.5%,41.2%,2/4,136,10,0,68,41,27,2,1:22
+12-May-2014,Bordeaux CH,3,Clay,R16,423,237,0,LL,LL,Juan Ignacio Londero,Laurent Lokoli,6-7(6) 6-3 6-3,0.86,5.5%,3.1%,56.3%,66.7%,33.9%,13/20,47.2%,41.1%,0.0%,32.4%,60.6%,4/10,235,7,4,128,72,56,0,2:38
+12-May-2014,Bordeaux CH,3,Clay,R32,423,278,1,LL,Q,Laurent Lokoli,Josselin Ouanna,5-7 7-6(2) 7-5,1.13,7.1%,1.8%,60.7%,80.9%,43.2%,3/6,52.0%,38.5%,6.8%,32.9%,47.7%,3/8,229,8,2,112,68,44,8,2:24
+5-May-2014,Aix en Provence CH,3,Clay,R32,444,218,0,Q,,Maxime Teixeira,Laurent Lokoli,6-3 6-3,0.61,7.5%,1.9%,54.7%,65.5%,37.5%,5/9,41.2%,28.6%,2.0%,20.6%,46.7%,1/1,102,4,1,53,29,24,1,1:08
+28-Apr-2014,France F9,3,Clay,QF,452,253,0,,2,Jonathan Eysseric,Laurent Lokoli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,France F9,3,Clay,R16,452,979,1,,Q,Laurent Lokoli,Arsenije Zlatanovic,2-6 7-6(7) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,France F9,3,Clay,R32,452,370,1,,8,Laurent Lokoli,Matteo Donati,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Italy F11,3,Clay,QF,452,584,0,2,6,Riccardo Sinicropi,Laurent Lokoli,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Italy F11,3,Clay,R16,452,1497,1,2,Q,Laurent Lokoli,Filippo Borella,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Italy F11,3,Clay,R32,452,1445,1,2,Q,Laurent Lokoli,Filippo Giorgetti,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Italy F10,3,Clay,R16,465,569,0,8,,Johan Sebastien Tatlot,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Italy F10,3,Clay,R32,465,813,1,8,WC,Laurent Lokoli,Filippo Baldi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Croatia F7,3,Clay,SF,463,,0,6,Q,Inigo Cervantes Huegun,Laurent Lokoli,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Croatia F7,3,Clay,QF,463,291,1,6,3,Laurent Lokoli,Nikola Mektic,6-3 6-7(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Croatia F7,3,Clay,R16,463,712,1,6,,Laurent Lokoli,Gergely Madarasz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Croatia F7,3,Clay,R32,463,628,1,6,,Laurent Lokoli,Juraj Masar,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Croatia F6,3,Clay,R32,458,485,0,8,,Dino Marcan,Laurent Lokoli,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Croatia F5,3,Clay,R32,454,232,0,,3,Kimmer Coppejans,Laurent Lokoli,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2014,Spain F5,3,Clay,R16,452,323,0,,6,Jason Kubler,Laurent Lokoli,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2014,Spain F5,3,Clay,R32,452,436,1,,,Laurent Lokoli,Enrico Burzi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Spain F4,3,Clay,R32,451,260,0,,3,Roberto Carballes Baena,Laurent Lokoli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Spain F3,3,Clay,R32,451,645,0,,Q,Marcos Giraldi Requena,Laurent Lokoli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Spain F2,3,Clay,QF,454,494,0,8,,Oriol Roca Batalla,Laurent Lokoli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Spain F2,3,Clay,R16,454,,1,8,WC,Laurent Lokoli,Sergio Castellon Guasch,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Spain F2,3,Clay,R32,454,880,1,8,Q,Laurent Lokoli,Vaclav Safranek,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Montpellier,3,Hard,Q2,455,211,0,,6,Maxime Teixeira,Laurent Lokoli,3-6 6-3 6-2,0.86,5.2%,6.5%,63.6%,65.3%,50.0%,1/5,47.4%,34.7%,4.0%,32.1%,42.1%,2/2,152,4,5,77,49,28,3,1:33
+3-Feb-2014,Montpellier,3,Hard,Q1,455,1675,1,,,Laurent Lokoli,Kevin Boumlil,6-3 7-6(2),1.63,15.3%,3.4%,64.4%,86.8%,52.4%,1/2,56.6%,41.4%,0.0%,32.5%,53.3%,2/6,129,9,2,59,38,21,0,1:15
+27-Jan-2014,France F3,3,Hard,R32,451,536,0,,,Mathieu Rodrigues,Laurent Lokoli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2014,France F2,3,Hard,R32,453,698,0,,Q,Gleb Sakharov,Laurent Lokoli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,France F1,3,Clay,R32,453,965,0,7,,Thomas Grinberg,Laurent Lokoli,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Meknes CH,3,Clay,SF,564,338,0,Q,,Yannik Reuter,Laurent Lokoli,6-4 6-7(5) 6-2,0.89,15.2%,13.1%,55.6%,70.9%,36.4%,5/11,46.6%,39.3%,0.8%,37.5%,42.0%,3/15,221,15,13,99,55,44,1,2:37
+9-Sep-2013,Meknes CH,3,Clay,QF,564,211,1,Q,,Laurent Lokoli,Gerald Melzer,6-3 7-6(6),1.04,8.0%,2.3%,63.6%,69.6%,62.5%,6/7,53.7%,34.4%,1.6%,33.3%,37.5%,2/3,149,7,2,88,56,32,1,1:50
+9-Sep-2013,Meknes CH,3,Clay,R16,564,255,1,Q,,Laurent Lokoli,Germain Gigounon,6-1 6-3,2.04,2.4%,2.4%,68.3%,75.0%,61.5%,0/1,64.8%,59.6%,0.0%,53.1%,73.3%,5/10,88,1,1,41,28,13,0,0:45
+9-Sep-2013,Meknes CH,3,Clay,R32,564,197,1,Q,4,Laurent Lokoli,Florent Serra,6-4 1-6 6-3,1.20,10.0%,4.3%,54.3%,73.7%,53.1%,5/8,51.8%,43.0%,3.0%,38.5%,45.9%,3/10,170,7,3,70,38,32,3,1:51
+19-Aug-2013,Austria F8,3,Clay,QF,683,522,0,,4,Patrick Ofner,Laurent Lokoli,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Austria F8,3,Clay,R16,683,1058,1,,,Laurent Lokoli,Michal Pazicky,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Austria F8,3,Clay,R32,683,582,1,,7,Laurent Lokoli,Gianni Mina,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Austria F7,3,Clay,F,786,521,1,,4,Laurent Lokoli,Dennis Novak,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Austria F7,3,Clay,SF,786,585,1,,7,Laurent Lokoli,Bastian Trinker,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Austria F7,3,Clay,QF,786,475,1,,2,Laurent Lokoli,Marc Rath,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Austria F7,3,Clay,R16,786,520,1,,5,Laurent Lokoli,Patrick Ofner,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Austria F7,3,Clay,R32,786,776,1,,,Laurent Lokoli,Gibril Diarra,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Finland F1,3,Clay,F,784,413,0,8,1,Tak Khunn Wang,Laurent Lokoli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Finland F1,3,Clay,SF,784,432,1,8,2,Laurent Lokoli,Vladimir Ivanov,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Finland F1,3,Clay,QF,784,1029,1,8,,Laurent Lokoli,Henrik Sillanpaa,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Finland F1,3,Clay,R16,784,,1,8,,Laurent Lokoli,Sami Huurinainen,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Finland F1,3,Clay,R32,784,1089,1,8,,Laurent Lokoli,Jacob Adaktusson,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,France F13,3,Clay,R32,747,,0,,WC,Robert Quentin,Laurent Lokoli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,R32,746,1204,0,,WC,Johan Sebastien Tatlot,Laurent Lokoli,3-6 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,France F11,3,Clay,R32,849,236,0,,1,Pierre Hugues Herbert,Laurent Lokoli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,France F10,3,Clay,SF,849,176,0,,1,David Guez,Laurent Lokoli,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,France F10,3,Clay,QF,849,248,1,,3,Laurent Lokoli,Nicolas Renavand,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,France F10,3,Clay,R16,849,551,1,,7,Laurent Lokoli,Hugo Nys,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,France F10,3,Clay,R32,849,1202,1,,Q,Laurent Lokoli,Thomas Le Boulch,6-7(7) 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Slovenia F3,3,Clay,R16,878,930,0,Q,Q,Stepan Khotulev,Laurent Lokoli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Slovenia F3,3,Clay,R32,878,502,1,Q,6,Laurent Lokoli,Matheson Klein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Slovenia F2,3,Clay,R16,938,318,0,,1,Axel Michon,Laurent Lokoli,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Slovenia F2,3,Clay,R32,938,,1,,Q,Laurent Lokoli,Gabriele Moghini,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Bulgaria F3,3,Clay,R16,938,705,0,,,Tihomir Grozdanov,Laurent Lokoli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Bulgaria F3,3,Clay,R32,938,,1,,SE,Laurent Lokoli,Dimitar Kutrovsky,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Bulgaria F2,3,Clay,QF,934,,0,Q,WC,Dimitar Kutrovsky,Laurent Lokoli,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Bulgaria F2,3,Clay,R16,934,810,1,Q,,Laurent Lokoli,Riccardo Maiga,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Bulgaria F2,3,Clay,R32,934,1065,1,Q,Q,Laurent Lokoli,Ivan Milivojevic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Greece F5,3,Hard,QF,979,631,0,,8,Andrew Whittington,Laurent Lokoli,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Greece F5,3,Hard,R16,979,333,1,,1,Laurent Lokoli,Edward Corrie,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Greece F5,3,Hard,R32,979,,1,,WC,Laurent Lokoli,Alexandros   Georgios Vakouftsis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,France F8,3,Clay,R16,1061,267,0,WC,5,Yannick Mertens,Laurent Lokoli,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,France F8,3,Clay,R32,1061,,1,WC,Q,Laurent Lokoli,Joachim Sternbach,6-1 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Vietnam F3,3,Hard,R16,1107,406,0,Q,3,Jeevan Nedunchezhiyan,Laurent Lokoli,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Vietnam F3,3,Hard,R32,1107,933,1,Q,,Laurent Lokoli,Dekel Bar,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Vietnam F2,3,Hard,R16,1165,424,0,Q,4,Dane Propoggia,Laurent Lokoli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2013,Vietnam F2,3,Hard,R32,1165,639,1,Q,,Laurent Lokoli,Mathias Bourgue,4-6 6-3 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Vietnam F1,3,Hard,R16,1059,842,0,,,Michael Bois,Laurent Lokoli,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Vietnam F1,3,Hard,R32,1059,,1,,WC,Laurent Lokoli,Quoc Khanh Le,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Portugal F3,3,Hard,R16,1110,343,0,LL,4,Enrique Lopez Perez,Laurent Lokoli,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Portugal F3,3,Hard,R32,1110,572,1,LL,,Laurent Lokoli,Andres Artunedo Martinavarr,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Portugal F3,3,Hard,Q4,1110,826,0,16,7,Ricardo Villacorta Alonso,Laurent Lokoli,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Portugal F2,3,Hard,R32,1108,237,0,Q,2,Niels Desein,Laurent Lokoli,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Portugal F2,3,Hard,Q4,1108,,1,,,Laurent Lokoli,Mohamed Shabib,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Portugal F1,3,Hard,Q4,1110,812,0,15,2,Jaime Pulgar Garcia,Laurent Lokoli,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Hong Kong F1,3,Hard,R32,1101,697,0,,,Piotr Gadomski,Laurent Lokoli,6-2 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,R16,1161,520,0,Q,5,Theodoros Angelinos,Laurent Lokoli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Greece F7,3,Carpet,R32,1161,1566,1,Q,LL,Laurent Lokoli,Antonio Massara,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,France F14,3,Clay,QF,1305,804,0,,,Hugo Nys,Laurent Lokoli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,France F14,3,Clay,R16,1305,1025,1,,,Laurent Lokoli,Mathias Bourgue,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,France F14,3,Clay,R32,1305,373,1,,2,Laurent Lokoli,Antal Van Der Duim,2-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,France F8,3,Clay,R32,1186,497,0,WC,JE,Jiri Vesely,Laurent Lokoli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,QF,1423,573,0,WC,7,Jerome Inzerillo,Laurent Lokoli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,R16,1423,377,1,WC,4,Laurent Lokoli,Ruan Roelofse,2-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,France F6,3,Hard,R32,1423,718,1,WC,,Laurent Lokoli,Alexandre Penaud,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,France F5,3,Hard,R32,1402,1177,0,Q,Q,Mick Lescure,Laurent Lokoli,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,France F4,3,Hard,R32,1402,573,0,Q,,Niels Desein,Laurent Lokoli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,France F20,3,Hard,R32,1376,541,0,WC,,Baptiste Dupuy,Laurent Lokoli,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,France F16,3,Carpet,R16,1634,902,0,,8,Tristan Lamasine,Laurent Lokoli,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,France F16,3,Carpet,R32,1634,1523,1,,,Laurent Lokoli,Jonathan Jeuch,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,France F12,3,Clay,R32,,391,0,WC,3,Florian Reynet,Laurent Lokoli,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,R16,,422,0,Q,8,Gianni Mina,Laurent Lokoli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,R32,,1018,1,Q,,Laurent Lokoli,Romain Sichez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,France F13,3,Hard,R32,,322,0,WC,2,Romain Jouan,Laurent Lokoli,5-7 6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,

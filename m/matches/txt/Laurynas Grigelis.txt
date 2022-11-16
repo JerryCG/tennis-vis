@@ -1,0 +1,724 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Mar-2022,Davis Cup WG1 PO: PAK vs LTU,3,Grass,RR,1016,,0,,,Aqeel Khan,Laurynas Grigelis,7-6(5) 3-6 6-3,1.26,20.5%,6.4%,57.7%,84.4%,66.7%,1/3,50.6%,29.2%,8.3%,20.3%,43.2%,2/8,174,16,5,78,45,33,8,1:46
+18-Sep-2021,Davis Cup WG2 R1: LTU vs GRE,3,Hard,RR,540,484,1,,,Laurynas Grigelis,Michail Pervolarakis,7-6(6) 3-6 7-5,1.02,2.8%,8.3%,56.0%,67.2%,50.0%,7/12,50.0%,41.2%,1.7%,29.7%,54.5%,5/10,228,3,9,109,61,48,2,3:07
+19-Apr-2021,M15 Monastir,3,Hard,QF,445,723,0,4,,Omar Giacalone,Laurynas Grigelis,6-7(4) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M15 Monastir,3,Hard,R16,445,1161,1,4,Q,Laurynas Grigelis,Arthur Bouquier,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M15 Monastir,3,Hard,R32,445,817,1,4,Q,Laurynas Grigelis,Louis Tessa,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R16,447,616,0,3,,Gilbert Soares Klier Junior,Laurynas Grigelis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R32,447,761,1,3,,Laurynas Grigelis,Aziz Ouakaa,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Monastir,3,Hard,R32,442,615,0,3,,Jean Thirouin,Laurynas Grigelis,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Monastir,3,Hard,F,473,442,1,4,2,Laurynas Grigelis,Daniel Michalski,5-7 7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Monastir,3,Hard,SF,473,683,1,4,,Laurynas Grigelis,Thiago Agustin Tirante,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Monastir,3,Hard,QF,473,610,1,4,,Laurynas Grigelis,Matias Franco Descotte,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Monastir,3,Hard,R16,473,955,1,4,,Laurynas Grigelis,Daniil Glinka,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Monastir,3,Hard,R32,473,710,1,4,,Laurynas Grigelis,Tom Kocevar Desman,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Monastir,3,Hard,F,515,637,1,5,,Laurynas Grigelis,Matias Franco Descotte,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Monastir,3,Hard,SF,515,585,1,5,8,Laurynas Grigelis,Fermin Tenti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Monastir,3,Hard,QF,515,717,1,5,,Laurynas Grigelis,Thiago Agustin Tirante,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Monastir,3,Hard,R16,515,761,1,5,,Laurynas Grigelis,Guido Ivan Justo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2020,M15 Monastir,3,Hard,R32,515,891,1,5,,Laurynas Grigelis,Martin Damm,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,M15 Monastir,3,Hard,F,515,812,1,5,,Laurynas Grigelis,Tom Kocevar Desman,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,M15 Monastir,3,Hard,SF,515,717,1,5,,Laurynas Grigelis,Thiago Agustin Tirante,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,M15 Monastir,3,Hard,QF,515,739,1,5,,Laurynas Grigelis,Filip Bergevi,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,M15 Monastir,3,Hard,R16,515,820,1,5,WC,Laurynas Grigelis,Aziz Ouakaa,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2020,M15 Monastir,3,Hard,R32,515,642,1,5,,Laurynas Grigelis,Mats Rosenkranz,3-6 7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Monastir,3,Hard,R32,506,698,0,5,,Kirill Kivattsev,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2020,Davis Cup WG1 PO: LTU vs POR,3,Hard,RR,497,190,0,,,Frederico Ferreira Silva,Laurynas Grigelis,6-7(6) 6-3 6-0,0.82,5.3%,3.2%,50.5%,72.9%,36.2%,5/12,46.0%,37.0%,3.3%,25.4%,57.6%,3/7,187,5,3,95,48,47,3,2:23
+6-Mar-2020,Davis Cup WG1 PO: LTU vs POR,3,Hard,RR,497,110,0,,,Pedro Sousa,Laurynas Grigelis,7-6(5) 5-7 [3-10],0.79,6.5%,1.1%,65.2%,73.3%,43.8%,5/6,47.4%,29.1%,11.4%,22.4%,40.0%,2/7,171,6,1,92,60,32,9,1:35
+24-Feb-2020,M25 Trento,3,Hard,R16,475,362,0,,6,Nerman Fatic,Laurynas Grigelis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Trento,3,Hard,R32,475,,1,,Q,Laurynas Grigelis,Giuseppe Tresca,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Cairo,3,Clay,F,431,295,0,2,1,Manuel Guinard,Laurynas Grigelis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Cairo,3,Clay,SF,431,616,1,2,8,Laurynas Grigelis,Facundo Juarez,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Cairo,3,Clay,QF,431,612,1,2,5,Laurynas Grigelis,Fermin Tenti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Cairo,3,Clay,R16,431,815,1,2,,Laurynas Grigelis,Stefano Battaglino,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Cairo,3,Clay,R32,431,698,1,2,,Laurynas Grigelis,Ignacio Monzon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Cairo,3,Clay,R32,433,728,0,2,,Marco Miceli,Laurynas Grigelis,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Sharm El Sheikh,3,Hard,QF,437,556,0,2,,Alexey Zakharov,Laurynas Grigelis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Sharm El Sheikh,3,Hard,R16,437,863,1,2,,Laurynas Grigelis,Cheng Yu Yu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Sharm El Sheikh,3,Hard,R32,437,757,1,2,,Laurynas Grigelis,Stefan Seifert,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Sharm El Sheikh,3,Hard,SF,418,384,0,,,Karim Mohamed Maamoun,Laurynas Grigelis,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Sharm El Sheikh,3,Hard,QF,418,502,1,,7,Laurynas Grigelis,Vladyslav Manafov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Sharm El Sheikh,3,Hard,R16,418,929,1,,,Laurynas Grigelis,Maciej Smola,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Sharm El Sheikh,3,Hard,R32,418,1426,1,,WC,Laurynas Grigelis,Piotr Matuszewski,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 Santa Margherita Di Pula,3,Clay,R32,429,432,0,,6,Bruno Santanna,Laurynas Grigelis,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Jounieh,3,Clay,QF,442,587,0,5,,Jonathan Mridha,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Jounieh,3,Clay,R16,442,1499,1,5,Q,Laurynas Grigelis,Mayeul Darras,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Jounieh,3,Clay,R32,442,,1,5,,Laurynas Grigelis,Alexander Abou Boutros,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Jounieh,3,Clay,SF,444,533,0,,,Adam Moundir,Laurynas Grigelis,0-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Jounieh,3,Clay,QF,444,402,1,,4,Laurynas Grigelis,Alessandro Bega,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Jounieh,3,Clay,R16,444,,1,,,Laurynas Grigelis,Kevin Chahoud,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Jounieh,3,Clay,R32,444,1851,1,,Q,Laurynas Grigelis,Vladimir Filip,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,F,404,332,1,3,,Laurynas Grigelis,Denis Yevseyev,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,SF,404,347,1,3,2,Laurynas Grigelis,Juan Pablo Ficovich,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,QF,404,479,1,3,,Laurynas Grigelis,Vladyslav Orlov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,R16,404,820,1,3,,Laurynas Grigelis,Ivan Davydov,7-6(4) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,R32,404,1318,1,3,,Laurynas Grigelis,Alex Marti Pujolras,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Schlieren,3,Clay,SF,403,318,0,4,2,Daniel Masur,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Schlieren,3,Clay,QF,403,469,1,4,,Laurynas Grigelis,Ronald Slobodchikov,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Schlieren,3,Clay,R16,403,692,1,4,,Laurynas Grigelis,Raphael Baltensperger,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Schlieren,3,Clay,R32,403,1571,1,4,,Laurynas Grigelis,Buvaysar Gadamauri,2-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,Prague CH,3,Clay,R64,296,329,0,,,Adam Pavlasek,Laurynas Grigelis,6-2 6-0,0.38,4.7%,4.7%,58.1%,56.0%,16.7%,2/7,31.7%,23.1%,15.4%,18.2%,29.4%,0/3,82,2,2,43,25,18,6,0:55
+15-Jul-2019,Bastad,3,Clay,Q2,295,198,0,,5,Constant Lestienne,Laurynas Grigelis,1-6 6-2 6-1,0.83,1.5%,0.0%,59.7%,60.0%,51.9%,3/7,46.3%,35.8%,1.5%,40.0%,31.3%,2/6,134,1,0,67,40,27,1,1:28
+15-Jul-2019,Bastad,3,Clay,Q1,295,172,1,,2,Laurynas Grigelis,Joao Domingues,7-6(4) 2-6 6-2,0.99,1.7%,3.4%,65.0%,61.8%,46.3%,9/13,50.0%,43.1%,2.8%,26.2%,68.2%,4/12,226,2,4,117,76,41,3,2:30
+8-Jul-2019,Perugia CH,3,Clay,Q1,295,322,0,2,,Guilherme Clezar,Laurynas Grigelis,4-6 7-6(2) 6-1,0.83,4.9%,4.9%,55.3%,61.4%,43.5%,7/12,45.8%,38.7%,5.4%,37.0%,43.3%,3/9,214,5,5,103,57,46,6,2:57
+1-Jul-2019,Ludwigshafen CH,3,Clay,R64,295,161,0,,9,Facundo Bagnis,Laurynas Grigelis,6-4 6-1,0.70,1.5%,1.5%,56.9%,51.4%,39.3%,5/10,42.1%,37.5%,1.8%,26.9%,46.7%,2/5,121,1,1,65,37,28,1,1:33
+24-Jun-2019,Milan CH,3,Clay,R32,293,224,0,,8,Sumit Nagal,Laurynas Grigelis,6-2 6-3,0.68,3.5%,3.5%,54.4%,64.5%,38.5%,6/9,42.0%,32.3%,4.8%,41.5%,14.3%,0/2,119,2,2,57,31,26,3,1:31
+24-Jun-2019,Milan CH,3,Clay,R64,293,278,1,,,Laurynas Grigelis,Johan Sebastien Tatlot,5-7 4-1 RET,0.99,7.4%,5.9%,60.3%,58.5%,44.4%,10/13,50.0%,46.4%,0.0%,35.5%,60.0%,4/6,124,5,4,68,41,27,0,1:33
+17-Jun-2019,Parma CH,3,Clay,R32,295,326,0,16,,Andrea Collarini,Laurynas Grigelis,6-3 6-3,0.69,1.8%,1.8%,64.3%,50.0%,50.0%,8/13,42.3%,34.5%,10.9%,33.3%,37.5%,2/6,111,1,1,56,36,20,6,1:26
+8-Apr-2019,Barletta CH,3,Clay,R32,289,199,0,,13,Stefano Napolitano,Laurynas Grigelis,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,Barletta CH,3,Clay,R64,289,219,1,,,Laurynas Grigelis,Zdenek Kolar,1-6 6-3 7-5,1.07,5.0%,3.8%,56.3%,68.9%,54.3%,2/6,50.6%,40.2%,4.3%,37.3%,45.5%,4/6,172,4,3,80,45,35,4,2:02
+5-Apr-2019,Davis Cup G2 R1: LTU vs MAR,3,Clay,RR,287,440,0,,,Lamine Ouahab,Laurynas Grigelis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2019,Davis Cup G2 R1: LTU vs MAR,3,Clay,RR,287,,1,,,Laurynas Grigelis,Amine Ahouda,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,St. Brieuc CH,3,Hard,R64,284,299,0,,,Tomislav Brkic,Laurynas Grigelis,7-6(7) 7-6(5),0.84,10.8%,1.1%,62.4%,69.0%,51.4%,2/4,48.0%,31.7%,7.3%,30.6%,33.3%,2/6,175,10,1,93,58,35,6,1:49
+25-Feb-2019,Pau CH,3,Hard,R32,284,174,0,Alt,7,Sebastian Ofner,Laurynas Grigelis,7-6(5) 6-4,0.88,11.8%,1.5%,70.6%,68.8%,55.0%,4/6,47.5%,31.0%,11.3%,16.2%,47.1%,1/2,139,8,1,68,48,20,8,1:21
+25-Feb-2019,Pau CH,3,Hard,R64,284,303,1,Alt,Alt,Laurynas Grigelis,Carlos Taberner,6-4 4-6 6-3,1.38,9.2%,3.9%,65.8%,76.0%,65.4%,0/2,54.4%,38.1%,8.3%,28.6%,51.4%,3/11,160,7,3,76,50,26,7,1:53
+18-Feb-2019,Bergamo CH,3,Hard,R64,282,250,0,,,Roberto Marcora,Laurynas Grigelis,6-0 6-3,0.50,4.7%,4.7%,46.5%,60.0%,34.8%,4/8,36.4%,26.7%,8.9%,18.2%,50.0%,0/0,88,2,2,43,20,23,4,0:56
+11-Feb-2019,Bangkok CH,3,Hard,R32,282,223,0,,14,Dudi Sela,Laurynas Grigelis,6-7(5) 6-0 6-2,0.66,8.8%,8.8%,59.3%,70.4%,27.0%,4/10,42.5%,31.3%,2.4%,20.9%,42.5%,1/5,174,8,8,91,54,37,2,1:51
+11-Feb-2019,Bangkok CH,3,Hard,R64,282,322,1,,,Laurynas Grigelis,Di Wu,6-7(3) 6-2 6-2,1.27,18.7%,7.7%,48.4%,84.1%,40.4%,2/5,54.3%,48.7%,2.5%,37.5%,58.7%,7/19,210,17,7,91,44,47,3,2:07
+4-Feb-2019,Chennai CH,3,Hard,R16,287,145,0,14,2,Corentin Moutet,Laurynas Grigelis,6-2 6-3,0.73,3.8%,5.8%,51.9%,59.3%,40.0%,5/9,42.4%,36.4%,9.1%,23.7%,53.6%,1/3,118,2,3,52,27,25,6,1:20
+4-Feb-2019,Chennai CH,3,Hard,R32,287,422,1,14,WC,Laurynas Grigelis,Nam Hoang Ly,4-6 6-2 6-1,1.12,10.4%,10.4%,58.4%,71.1%,43.8%,4/7,52.2%,45.0%,2.5%,35.1%,53.5%,6/11,157,8,8,77,45,32,2,1:44
+14-Jan-2019,Koblenz CH,3,Hard,R64,281,345,0,,,Pavel Kotov,Laurynas Grigelis,7-6(6) 6-3,0.78,1.5%,0.0%,77.3%,76.5%,60.0%,3/4,47.0%,21.2%,7.6%,20.5%,22.2%,0/0,132,1,0,66,51,15,5,1:30
+7-Jan-2019,Columbus CH,3,Hard,R16,283,291,0,,,Jan Choinski,Laurynas Grigelis,7-6(4) 4-6 6-2,0.98,13.5%,6.3%,61.5%,72.9%,62.2%,4/6,49.2%,30.7%,4.0%,25.7%,44.4%,1/6,197,13,6,96,59,37,4,2:11
+7-Jan-2019,Columbus CH,3,Hard,R32,283,259,1,,11,Laurynas Grigelis,Mathias Bourgue,3-6 6-3 6-4,1.10,7.8%,5.6%,68.9%,71.0%,46.4%,4/6,52.0%,40.2%,8.0%,32.7%,51.4%,3/6,177,7,5,90,62,28,7,2:19
+7-Jan-2019,Columbus CH,3,Hard,R64,283,274,1,,,Laurynas Grigelis,Liam Broady,3-6 6-0 7-5,1.19,5.8%,3.5%,70.9%,77.0%,32.0%,6/8,53.9%,43.0%,2.5%,37.0%,51.5%,5/10,165,5,3,86,61,25,2,2:06
+31-Dec-2018,Orlando CH,3,Hard,R64,287,313,0,,,Ulises Blanch,Laurynas Grigelis,6-1 6-2,0.57,4.7%,7.0%,55.8%,62.5%,31.6%,3/7,38.3%,29.4%,11.8%,14.3%,47.8%,0/4,94,2,3,43,24,19,6,0:55
+19-Nov-2018,Andria CH,3,Hard,R16,311,137,0,,6,Quentin Halys,Laurynas Grigelis,6-3 7-6(3),0.66,7.8%,3.1%,64.1%,70.7%,52.2%,3/5,44.1%,23.8%,20.6%,11.1%,55.6%,1/3,127,5,2,64,41,23,13,1:13
+19-Nov-2018,Andria CH,3,Hard,R32,311,276,1,,,Laurynas Grigelis,Raul Brancaccio,6-3 7-5,1.33,16.1%,1.6%,64.5%,90.0%,50.0%,3/3,55.1%,32.1%,0.0%,31.7%,33.3%,2/2,118,10,1,62,40,22,0,1:06
+5-Nov-2018,Mouilleron-Le-Captif CH,3,Hard,R32,241,287,0,Q,WC,Mathias Bourgue,Laurynas Grigelis,6-3 7-6(2),0.90,5.9%,2.9%,61.8%,64.3%,42.3%,8/11,46.8%,39.5%,10.5%,40.7%,37.0%,2/10,154,4,2,68,42,26,9,1:39
+5-Nov-2018,Mouilleron-Le-Captif CH,3,Hard,Q3,241,555,1,2,,Laurynas Grigelis,Laurent Rochette,6-3 6-4,1.34,11.3%,9.7%,58.1%,83.3%,46.2%,4/5,55.8%,43.1%,3.4%,35.0%,61.1%,3/6,120,7,6,62,36,26,2,1:08
+5-Nov-2018,Mouilleron-Le-Captif CH,3,Hard,Q2,241,1139,1,2,WC,Laurynas Grigelis,Clement Tabur,7-6(2) 6-4,1.14,11.6%,4.3%,60.9%,76.2%,44.4%,5/8,53.0%,41.3%,6.3%,27.8%,59.3%,4/5,132,8,3,69,42,27,4,1:22
+15-Oct-2018,Ismaning CH,3,Hard,R32,240,260,0,,,Kevin Krawietz,Laurynas Grigelis,6-4 7-6(4),0.83,13.7%,5.5%,64.4%,85.1%,30.8%,4/6,46.9%,28.4%,13.5%,20.4%,44.0%,1/7,147,10,4,73,47,26,10,1:24
+8-Oct-2018,Barcelona CH,3,Clay,R32,237,159,0,,7,Sergio Gutierrez Ferrol,Laurynas Grigelis,6-4 6-2,0.81,3.6%,7.1%,44.6%,56.0%,41.9%,5/11,44.9%,41.9%,1.6%,29.6%,51.4%,3/7,118,2,4,56,25,31,1,1:17
+1-Oct-2018,Florence  CH,3,Clay,R32,238,276,0,,Q,Kevin Krawietz,Laurynas Grigelis,6-4 3-6 6-3,1.05,8.0%,3.4%,54.5%,68.8%,57.5%,5/8,50.3%,38.1%,6.2%,25.4%,57.9%,2/7,185,7,3,88,48,40,6,2:03
+17-Sep-2018,Biella CH,3,Clay,R32,244,236,0,,,Tommy Robredo,Laurynas Grigelis,6-4 7-6(3),0.79,1.1%,4.6%,56.3%,67.3%,42.1%,9/12,46.3%,34.7%,4.0%,28.6%,46.2%,2/8,162,1,4,87,49,38,3,1:55
+10-Sep-2018,Banja Luka CH,3,Clay,QF,259,247,0,,,Alessandro Giannessi,Laurynas Grigelis,6-3 6-4,0.89,5.6%,0.0%,63.0%,70.6%,40.0%,1/4,46.3%,36.2%,5.8%,30.0%,44.8%,1/11,123,3,0,54,34,20,4,1:36
+10-Sep-2018,Banja Luka CH,3,Clay,R16,259,274,1,,SE,Laurynas Grigelis,Thomaz Bellucci,2-6 7-6(5) 6-3,1.00,2.0%,3.9%,59.8%,65.6%,56.1%,6/10,50.2%,38.4%,6.1%,31.7%,48.7%,4/6,201,2,4,102,61,41,6,2:33
+10-Sep-2018,Banja Luka CH,3,Clay,R32,259,134,1,,3,Laurynas Grigelis,Marco Trungelliti,6-3 6-3,1.57,7.4%,1.9%,42.6%,82.6%,54.8%,1/3,58.8%,52.3%,7.7%,50.0%,56.5%,5/13,119,4,1,54,23,31,5,1:18
+3-Sep-2018,Sevilla CH,3,Hard,QF,261,194,0,Q,,Pedja Krstin,Laurynas Grigelis,2-6 6-3 6-4,1.37,13.6%,0.0%,53.0%,82.9%,61.3%,0/2,51.5%,37.4%,3.0%,24.2%,59.5%,2/5,165,9,0,66,35,31,3,1:57
+3-Sep-2018,Sevilla CH,3,Hard,R16,261,374,1,Q,WC,Laurynas Grigelis,Alejandro Davidovich Fokina,7-5 0-6 6-4,0.85,5.2%,5.2%,54.2%,63.5%,50.0%,10/14,48.0%,36.4%,2.6%,37.3%,33.3%,3/4,173,5,5,96,52,44,2,2:06
+3-Sep-2018,Sevilla CH,3,Hard,R32,261,134,1,Q,3,Laurynas Grigelis,Ramkumar Ramanathan,6-4 6-2,2.73,6.8%,0.0%,70.5%,90.3%,69.2%,1/1,59.3%,43.5%,5.8%,34.1%,60.0%,3/10,113,3,0,44,31,13,4,1:19
+3-Sep-2018,Sevilla CH,3,Hard,Q3,261,276,1,3,5,Laurynas Grigelis,Bernabe Zapata Miralles,6-3 4-6 6-3,1.18,6.3%,6.3%,62.5%,72.0%,36.7%,1/5,53.8%,48.8%,1.3%,46.2%,53.6%,6/10,160,5,5,80,50,30,1,1:59
+3-Sep-2018,Sevilla CH,3,Hard,Q2,261,333,1,3,,Laurynas Grigelis,Tomas Barrios Vera,6-3 6-4,1.41,12.3%,3.5%,57.9%,90.9%,54.2%,2/2,56.6%,34.7%,6.1%,25.8%,50.0%,2/2,106,7,2,57,33,24,3,1:18
+3-Sep-2018,Sevilla CH,3,Hard,Q1,261,534,1,3,,Laurynas Grigelis,Jordan Correia Passos Do Carmo,6-0 4-6 6-0,1.50,8.3%,4.2%,59.7%,72.1%,51.7%,3/5,59.0%,54.2%,2.8%,42.9%,64.9%,7/10,144,6,3,72,43,29,2,1:52
+13-Aug-2018,Cordenons CH,3,Clay,R32,265,338,0,,,Andrea Pellegrino,Laurynas Grigelis,6-7(7) 6-2 6-4,0.95,6.3%,4.2%,55.8%,69.8%,42.9%,5/11,48.7%,39.8%,1.0%,41.4%,37.5%,3/5,193,6,4,95,53,42,1,2:23
+23-Jul-2018,Binghamton CH,3,Hard,SF,270,98,0,,1,Jordan Thompson,Laurynas Grigelis,6-4 6-3,0.85,7.5%,1.9%,58.5%,71.0%,36.4%,2/5,45.5%,36.8%,8.8%,29.6%,64.3%,1/6,121,4,1,53,31,22,6,1:25
+23-Jul-2018,Binghamton CH,3,Hard,QF,270,174,1,,5,Laurynas Grigelis,Darian King,4-6 6-2 7-6(4),1.16,8.7%,0.0%,62.0%,70.2%,40.0%,6/12,53.1%,48.0%,4.9%,47.7%,48.6%,7/12,194,8,0,92,57,35,5,2:10
+23-Jul-2018,Binghamton CH,3,Hard,R16,270,598,1,,PR,Laurynas Grigelis,Alejandro Gomez Gb42,6-2 3-6 6-4,1.13,11.3%,7.5%,57.5%,80.4%,47.1%,5/7,52.6%,38.2%,2.6%,33.3%,48.0%,4/4,156,9,6,80,46,34,2,1:34
+23-Jul-2018,Binghamton CH,3,Hard,R32,270,162,1,,3,Laurynas Grigelis,Bjorn Fratangelo,4-6 6-2 6-3,1.43,19.2%,5.5%,60.3%,88.6%,44.8%,0/2,55.1%,41.2%,7.1%,38.5%,45.5%,4/12,158,14,4,73,44,29,6,1:39
+16-Jul-2018,Gatineau CH,3,Hard,R16,267,114,0,,2,Jason Kubler,Laurynas Grigelis,7-6(5) 4-6 6-4,0.91,7.1%,0.9%,57.5%,63.1%,60.4%,5/8,49.3%,34.7%,6.1%,21.3%,56.8%,3/5,211,8,1,113,65,48,6,2:30
+16-Jul-2018,Gatineau CH,3,Hard,R32,267,236,1,,,Laurynas Grigelis,Stefano Napolitano,6-2 7-5,1.28,9.1%,5.5%,60.0%,75.8%,54.5%,1/2,53.3%,41.8%,11.9%,37.5%,48.1%,4/9,122,5,3,55,33,22,8,1:26
+9-Jul-2018,Winnipeg CH,3,Hard,R32,267,178,0,,6,Go Soeda,Laurynas Grigelis,6-3 6-0,0.49,9.3%,4.7%,48.8%,61.9%,36.4%,2/6,36.8%,25.0%,9.1%,4.3%,47.6%,0/0,87,4,2,43,21,22,4,0:55
+25-Jun-2018,Antalya,3,Grass,Q2,273,100,0,7,3,Mikhail Youzhny,Laurynas Grigelis,6-7(5) 6-4 6-2,0.64,7.5%,1.7%,61.7%,66.2%,54.3%,13/16,45.9%,24.7%,7.9%,17.0%,36.1%,0/4,209,9,2,120,74,46,7,2:26
+25-Jun-2018,Antalya,3,Grass,Q1,273,290,1,7,,Laurynas Grigelis,David Guez,6-2 3-6 7-5,1.26,11.0%,2.4%,64.6%,75.5%,44.8%,1/5,54.1%,44.4%,2.2%,38.5%,52.6%,5/8,172,9,2,82,53,29,2,1:44
+18-Jun-2018,Fergana CH,3,Hard,R32,263,242,0,,6,Egor Gerasimov,Laurynas Grigelis,6-2 6-3,0.64,4.4%,2.2%,48.9%,68.2%,26.1%,1/5,39.8%,34.0%,11.3%,30.3%,40.0%,1/2,98,2,1,45,22,23,6,0:58
+11-Jun-2018,Almaty CH,3,Clay,Q2,257,382,0,1,,Daniel Masur,Laurynas Grigelis,3-6 6-3 7-5,0.96,4.4%,8.9%,58.9%,71.7%,37.8%,8/12,47.7%,40.5%,7.1%,25.0%,56.5%,3/15,216,4,8,90,53,37,9,2:24
+11-Jun-2018,Almaty CH,3,Clay,Q1,257,336,1,1,,Laurynas Grigelis,Ivan Gakhov,1-6 7-5 6-2,0.98,3.2%,8.4%,51.6%,63.3%,41.3%,6/11,49.5%,46.5%,8.1%,37.2%,53.6%,6/11,194,3,8,95,49,46,8,2:15
+4-Jun-2018,Shymkent CH,3,Clay,R16,260,456,0,,Q,Jurij Rodionov,Laurynas Grigelis,6-4 3-6 7-6(4),0.98,2.1%,3.4%,52.1%,63.2%,50.0%,18/22,50.8%,42.3%,7.7%,35.9%,52.5%,5/8,250,3,5,146,76,70,8,2:59
+4-Jun-2018,Shymkent CH,3,Clay,R32,260,208,1,,7,Laurynas Grigelis,Enrique Lopez Perez,6-3 7-5,1.25,5.2%,3.4%,60.3%,68.6%,56.5%,0/2,54.1%,45.3%,4.7%,38.2%,53.3%,5/9,122,3,2,58,35,23,3,1:29
+21-May-2018,Mestre CH,3,Clay,QF,273,358,0,,WC,Gian Marco Moroni,Laurynas Grigelis,6-2 6-0,0.46,2.7%,5.4%,59.5%,22.7%,26.7%,0/7,29.7%,35.1%,2.7%,26.3%,44.4%,2/4,74,1,2,37,22,15,1,0:58
+21-May-2018,Mestre CH,3,Clay,R16,273,199,1,,SE,Laurynas Grigelis,Luca Vanni,6-2 2-6 6-2,1.22,5.2%,1.3%,62.3%,68.8%,58.6%,4/6,53.9%,42.7%,6.7%,30.2%,59.4%,4/12,152,4,1,77,48,29,5,1:48
+21-May-2018,Mestre CH,3,Clay,R32,273,227,1,,3,Laurynas Grigelis,Tsung Hua Yang,6-3 6-0,1.74,9.1%,2.3%,38.6%,94.1%,48.1%,4/5,62.2%,59.3%,7.4%,52.6%,62.9%,6/12,98,4,1,44,17,27,4,1:10
+16-Apr-2018,Nanchang CH,3,Clay,R32,251,254,0,,,Tsung Hua Yang,Laurynas Grigelis,0-6 7-6(5) 6-3,1.13,3.2%,7.4%,51.6%,75.5%,50.0%,2/5,51.4%,41.6%,1.8%,32.8%,50.9%,4/17,208,3,7,95,49,46,2,2:26
+9-Apr-2018,Taipei CH,3,Hard,R32,252,155,0,,8,Tatsuma Ito,Laurynas Grigelis,6-7(5) 6-4 6-3,0.82,15.4%,2.2%,65.9%,75.0%,54.8%,2/4,46.5%,26.0%,5.2%,16.4%,48.3%,0/3,187,14,2,91,60,31,5,2:01
+7-Apr-2018,Davis Cup G2 R2: FIN vs LTU,3,Hard,RR,251,453,0,,,Harri Heliovaara,Laurynas Grigelis,6-3 1-6 6-3,0.89,11.5%,5.7%,60.9%,69.8%,50.0%,8/10,48.2%,33.7%,13.3%,19.6%,56.3%,2/9,170,10,5,87,53,34,11,1:46
+7-Apr-2018,Davis Cup G2 R2: FIN vs LTU,3,Hard,RR,251,592,0,,,Emil Ruusuvuori,Laurynas Grigelis,7-5 6-2,0.46,6.8%,5.1%,59.3%,62.9%,58.3%,2/5,41.3%,18.0%,2.0%,11.1%,35.7%,0/1,109,4,3,59,35,24,1,1:05
+26-Mar-2018,St.Brieuc CH,3,Hard,R32,254,168,0,Q,,Stephane Robert,Laurynas Grigelis,6-4 7-6(4),1.03,12.5%,0.0%,70.3%,80.0%,47.4%,0/2,47.7%,30.6%,9.4%,27.3%,36.7%,1/7,149,8,0,64,45,19,8,1:30
+26-Mar-2018,St.Brieuc CH,3,Hard,Q3,254,648,1,2,,Laurynas Grigelis,Tak Khunn Wang,3-6 6-3 7-6(4),2.03,19.5%,2.6%,59.7%,93.5%,67.7%,1/2,54.6%,34.3%,0.9%,27.4%,43.5%,1/6,185,15,2,77,46,31,1,2:17
+26-Mar-2018,St.Brieuc CH,3,Hard,Q2,254,513,1,2,,Laurynas Grigelis,Jonathan Kanar,6-1 6-3,1.87,11.9%,7.1%,64.3%,81.5%,60.0%,1/2,60.9%,48.9%,0.0%,44.0%,55.0%,5/6,87,5,3,42,27,15,0,0:55
+26-Mar-2018,St.Brieuc CH,3,Hard,Q1,254,512,1,2,WC,Laurynas Grigelis,Mick Lescure,6-7(2) 6-2 6-0,1.76,7.0%,1.4%,64.8%,78.3%,64.0%,2/3,57.9%,47.0%,3.0%,27.7%,64.2%,6/15,171,5,1,71,46,25,3,1:42
+19-Mar-2018,Lille CH,3,Hard,R16,254,251,0,LL,,Antoine Hoang,Laurynas Grigelis,6-4 2-6 6-4,0.96,9.0%,1.1%,65.2%,69.0%,58.1%,4/6,49.7%,33.3%,1.2%,29.3%,42.3%,2/5,173,8,1,89,58,31,1,1:54
+19-Mar-2018,Lille CH,3,Hard,R32,254,243,1,LL,,Laurynas Grigelis,Lorenzo Giustino,6-4 7-6(2),1.19,5.4%,5.4%,55.4%,73.2%,45.5%,4/6,53.8%,46.5%,5.6%,40.9%,55.6%,3/6,145,4,4,74,41,33,4,1:35
+19-Mar-2018,Lille CH,3,Hard,Q3,254,420,0,1,,Guillermo Olaso,Laurynas Grigelis,6-1 6-2,0.52,8.0%,0.0%,50.0%,60.0%,40.0%,5/9,38.5%,26.1%,13.0%,15.4%,40.0%,0/1,96,4,0,50,25,25,6,1:00
+19-Mar-2018,Lille CH,3,Hard,Q2,254,594,1,1,,Laurynas Grigelis,Emil Ruusuvuori,7-6(1) 2-6 6-3,0.99,9.5%,6.3%,72.6%,65.2%,50.0%,1/5,50.3%,38.4%,5.8%,32.1%,48.5%,3/6,181,9,6,95,69,26,5,1:49
+19-Mar-2018,Lille CH,3,Hard,Q1,254,,1,1,,Laurynas Grigelis,Charles Bertimon,6-2 6-4,1.82,6.3%,6.3%,66.7%,81.3%,62.5%,0/0,57.8%,45.6%,2.9%,39.5%,56.0%,3/8,116,3,3,48,32,16,2,1:06
+5-Mar-2018,Tunisia F9,3,Hard,QF,283,535,0,,8,Jonathan Kanar,Laurynas Grigelis,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Tunisia F9,3,Hard,R16,283,949,1,,,Laurynas Grigelis,Diego Hidalgo,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Tunisia F9,3,Hard,R32,283,1276,1,,Q,Laurynas Grigelis,Conor Berg,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,F,281,369,1,3,,Laurynas Grigelis,Maximilian Neuchrist,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,SF,281,595,1,3,,Laurynas Grigelis,Remi Boutillier,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,QF,281,434,1,3,,Laurynas Grigelis,Gregoire Barrere,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,R16,281,1340,1,3,,Laurynas Grigelis,Francesco Forti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Italy F1,3,Carpet,R32,281,586,1,3,,Laurynas Grigelis,Tom Jomby,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Bergamo CH,3,Hard,R32,284,155,0,Q,4,Mats Moraing,Laurynas Grigelis,6-2 6-3,0.49,14.0%,8.0%,54.0%,66.7%,43.5%,1/5,40.2%,21.4%,28.6%,12.0%,35.3%,0/0,92,7,4,50,27,23,12,0:58
+19-Feb-2018,Bergamo CH,3,Hard,Q3,284,347,1,1,,Laurynas Grigelis,Yannick Jankovits,7-5 7-5,1.11,10.0%,3.8%,57.5%,71.7%,55.9%,8/9,53.1%,38.8%,3.0%,23.7%,58.6%,3/4,147,8,3,80,46,34,2,1:34
+19-Feb-2018,Bergamo CH,3,Hard,Q2,284,516,1,1,,Laurynas Grigelis,Marco Bortolotti,6-3 7-6(4),1.52,20.3%,7.8%,53.1%,91.2%,46.7%,0/2,56.3%,45.0%,6.3%,34.0%,60.6%,4/6,144,13,5,64,34,30,5,1:28
+19-Feb-2018,Bergamo CH,3,Hard,Q1,284,485,1,1,,Laurynas Grigelis,Cristian Carli,4-6 6-3 6-4,1.16,9.3%,2.3%,59.3%,72.5%,60.0%,3/5,53.0%,37.8%,2.4%,29.4%,43.8%,3/5,168,8,2,86,51,35,2,1:51
+5-Feb-2018,Great Britain F2,3,Hard,R32,279,897,0,,Q,Luke Johnson,Laurynas Grigelis,7-6(3) 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2018,Davis Cup G2 R1: EST vs LTU,3,Hard,RR,279,171,1,,,Laurynas Grigelis,Jurgen Zopp,7-5 6-2,1.75,22.2%,1.9%,66.7%,80.6%,72.2%,0/0,58.3%,38.9%,11.1%,25.0%,59.1%,3/3,108,12,1,54,36,18,6,0:58
+22-Jan-2018,France F3,3,Carpet,R16,280,806,0,2,Q,Antal Van Der Duim,Laurynas Grigelis,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,France F3,3,Carpet,R32,280,682,1,2,,Laurynas Grigelis,Walter Trusendi,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Andria CH,3,Hard,R32,271,307,0,,,Franco Skugor,Laurynas Grigelis,6-3 7-6(7),0.66,15.1%,5.5%,56.2%,85.4%,43.8%,4/5,45.7%,21.5%,18.5%,12.8%,34.6%,0/0,138,11,4,73,41,32,12,1:31
+13-Nov-2017,Brescia CH,3,Hard,F,283,104,0,,4,Lukas Lacko,Laurynas Grigelis,6-1 6-2,0.38,13.6%,4.5%,70.5%,54.8%,46.2%,2/6,36.1%,17.9%,30.8%,13.8%,30.0%,0/0,83,6,2,44,31,13,12,0:45
+13-Nov-2017,Brescia CH,3,Hard,SF,283,213,1,,,Laurynas Grigelis,Viktor Galovic,7-6(4) 6-1,1.89,17.2%,0.0%,62.1%,86.1%,72.7%,0/0,57.4%,35.9%,15.6%,28.6%,60.0%,2/3,122,10,0,58,36,22,10,1:08
+13-Nov-2017,Brescia CH,3,Hard,QF,283,89,1,,3,Laurynas Grigelis,Andreas Seppi,3-6 6-3 6-4,0.75,21.6%,2.9%,68.6%,74.3%,43.8%,4/5,48.9%,26.4%,11.1%,9.8%,48.4%,2/6,174,22,3,102,70,32,8,1:32
+13-Nov-2017,Brescia CH,3,Hard,R16,283,391,1,,,Laurynas Grigelis,Yannick Jankovits,6-4 6-2,2.10,25.0%,0.0%,66.7%,87.5%,62.5%,0/0,61.5%,43.8%,4.2%,33.3%,61.1%,3/3,96,12,0,48,32,16,2,0:52
+13-Nov-2017,Brescia CH,3,Hard,R32,283,130,1,,5,Laurynas Grigelis,Oscar Otte,6-4 7-6(6),1.21,16.7%,4.2%,68.1%,77.6%,43.5%,5/7,53.0%,40.3%,6.5%,23.4%,66.7%,3/7,149,12,3,72,49,23,5,1:25
+6-Nov-2017,Morocco F5,3,Clay,F,299,312,1,2,,Laurynas Grigelis,Bernabe Zapata Miralles,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,SF,299,356,1,2,4,Laurynas Grigelis,Miljan Zekic,2-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,QF,299,406,1,2,,Laurynas Grigelis,Pol Toledo Bague,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,R16,299,1959,1,2,,Laurynas Grigelis,Louroi Martinez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,R32,299,1465,1,2,,Laurynas Grigelis,Soufiane El Mesbahi,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Morocco F4,3,Clay,F,302,513,1,,3,Laurynas Grigelis,Lamine Ouahab,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Morocco F4,3,Clay,SF,302,671,1,,5,Laurynas Grigelis,George Von Massow,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Morocco F4,3,Clay,QF,302,1975,1,,,Laurynas Grigelis,Nicolas Uryson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Morocco F4,3,Clay,R16,302,930,1,,,Laurynas Grigelis,Luca Giacomini,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Morocco F4,3,Clay,R32,302,1479,1,,WC,Laurynas Grigelis,Soufiane El Mesbahi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Ismaning CH,3,Hard,R32,277,248,0,,,Jeremy Jahn,Laurynas Grigelis,7-6(4) 3-6 7-6(3),1.31,13.7%,6.3%,60.0%,77.2%,68.4%,1/2,52.4%,34.5%,7.1%,23.9%,50.0%,2/3,208,13,6,95,57,38,8,2:00
+9-Oct-2017,Ortisei CH,3,Hard,R32,254,86,0,,4,Pierre Hugues Herbert,Laurynas Grigelis,6-3 6-4,0.58,13.5%,11.5%,63.5%,69.7%,31.6%,2/6,41.4%,25.5%,23.4%,14.3%,42.1%,2/3,99,7,6,52,33,19,11,0:58
+18-Sep-2017,Sibiu CH,3,Clay,R32,254,121,0,,5,Maximilian Marterer,Laurynas Grigelis,6-1 6-1,0.23,1.7%,8.3%,50.0%,53.3%,36.7%,9/14,33.7%,12.5%,6.3%,9.5%,18.2%,0/0,92,1,5,60,30,30,2,0:55
+15-Sep-2017,Davis Cup G2 R3: SWE vs LTU,3,Clay,RR,241,323,0,,,Mikael Ymer,Laurynas Grigelis,2-6 7-5 6-0 0-6 6-1,0.92,2.4%,2.4%,59.1%,60.0%,40.4%,14/23,47.9%,44.0%,1.5%,39.2%,50.9%,8/20,261,3,3,127,75,52,2,3:09
+4-Sep-2017,Sevilla CH,3,Hard,R32,238,307,0,,,Bernabe Zapata Miralles,Laurynas Grigelis,6-3 6-2,0.74,6.7%,4.4%,60.0%,66.7%,27.8%,2/6,42.3%,36.4%,1.5%,37.0%,33.3%,1/10,111,3,2,45,27,18,1,1:16
+28-Aug-2017,Romania F12,3,Clay,F,238,410,1,1,2,Laurynas Grigelis,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,SF,238,531,1,1,4,Laurynas Grigelis,Alessandro Petrone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,QF,238,660,1,1,5,Laurynas Grigelis,Vasile Antonescu,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,R16,238,1463,1,1,Q,Laurynas Grigelis,Alexandru Vasile Manole,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,R32,238,1259,1,1,,Laurynas Grigelis,Alexander Merino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,US Open,5,Hard,Q1,238,120,0,,15,Lukas Lacko,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Liberec CH,3,Clay,QF,227,204,0,,,Vaclav Safranek,Laurynas Grigelis,6-7(14) 6-1 6-3,0.80,4.4%,4.4%,60.4%,63.6%,47.2%,2/8,45.3%,34.3%,3.0%,20.8%,50.0%,2/5,190,4,4,91,55,36,3,1:59
+31-Jul-2017,Liberec CH,3,Clay,R16,227,128,1,,3,Laurynas Grigelis,Cedrik Marcel Stebe,6-4 3-6 6-3,1.21,9.5%,4.8%,59.5%,80.0%,47.1%,4/6,53.6%,40.5%,7.1%,25.6%,53.3%,3/5,168,8,4,84,50,34,6,1:56
+31-Jul-2017,Liberec CH,3,Clay,R32,227,236,1,,,Laurynas Grigelis,Riccardo Bellotti,7-6(4) 7-6(9),1.14,10.3%,6.4%,60.3%,78.7%,61.3%,0/1,51.2%,32.1%,4.8%,28.6%,39.3%,1/1,162,8,5,78,47,31,4,1:42
+17-Jul-2017,Lithuania F1,3,Clay,R16,236,1592,0,1,,Patrik Brydolf,Laurynas Grigelis,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Lithuania F1,3,Clay,R32,236,1667,1,1,Q,Laurynas Grigelis,Keisuke Numajiri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Poland F5,3,Clay,F,251,254,0,1,2,Zdenek Kolar,Laurynas Grigelis,7-5 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Poland F5,3,Clay,SF,251,663,1,1,3,Laurynas Grigelis,Antonio Massara,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Poland F5,3,Clay,QF,251,738,1,1,6,Laurynas Grigelis,Pawel Cias,6-7(8) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Poland F5,3,Clay,R16,251,,1,1,Q,Laurynas Grigelis,Thibault Cancel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Poland F5,3,Clay,R32,251,249,1,1,Q,Laurynas Grigelis,Agustin Velotti,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Poland F4,3,Clay,F,251,1054,0,1,WC,Alexei Popyrin,Laurynas Grigelis,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Poland F4,3,Clay,SF,251,952,1,1,,Laurynas Grigelis,Billy Harris,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Poland F4,3,Clay,QF,251,682,1,1,5,Laurynas Grigelis,Samuel Bensoussan,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Poland F4,3,Clay,R16,251,1048,1,1,Q,Laurynas Grigelis,Ewan Moore,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Poland F4,3,Clay,R32,251,1458,1,1,Q,Laurynas Grigelis,Karol Drzewiecki,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Milan CH,3,Clay,R32,249,105,0,,1,Marco Cecchinato,Laurynas Grigelis,5-7 7-5 7-6(5),1.05,4.1%,5.7%,56.1%,73.9%,55.6%,8/10,50.2%,35.8%,2.2%,30.2%,45.8%,2/9,257,5,7,123,69,54,3,3:07
+19-Jun-2017,Todi CH,3,Clay,R16,251,767,0,,WC,Liam Caruana,Laurynas Grigelis,7-5 6-3,0.71,7.2%,7.2%,75.4%,61.5%,41.2%,8/11,43.8%,30.9%,2.9%,26.8%,37.0%,1/3,137,5,5,69,52,17,2,1:34
+19-Jun-2017,Germany F4,3,Clay,R16,251,507,0,2,,Jan Choinski,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Todi CH,3,Clay,R32,251,99,1,,8,Laurynas Grigelis,Alessandro Giannessi,3-6 1-0 RET,1.06,3.6%,3.6%,67.9%,73.7%,55.6%,1/2,48.5%,34.2%,5.3%,24.0%,53.8%,0/5,66,1,1,28,19,9,2,0:52
+19-Jun-2017,Germany F4,3,Clay,R32,251,792,1,2,Q,Laurynas Grigelis,Johannes Haerteis,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Lyon CH,3,Clay,R16,256,336,0,,WC,Felix Auger Aliassime,Laurynas Grigelis,6-7(6) 6-1 6-4,0.79,4.3%,5.4%,66.7%,58.1%,41.9%,4/11,45.3%,37.2%,8.1%,18.8%,60.5%,3/6,179,4,5,93,62,31,7,2:15
+12-Jun-2017,Lyon CH,3,Clay,R32,256,133,1,,7,Laurynas Grigelis,Duck Hee Lee,6-4 7-5,1.65,15.5%,8.6%,50.0%,93.1%,55.2%,3/4,55.7%,42.7%,6.1%,31.0%,55.0%,3/6,140,9,5,58,29,29,5,1:44
+22-May-2017,Shymkent CH,3,Clay,R32,258,493,0,6,Q,Evgeny Tyurnev,Laurynas Grigelis,6-4 6-4,0.58,6.0%,7.5%,55.2%,70.3%,50.0%,3/5,44.2%,22.6%,7.5%,12.9%,36.4%,0/0,120,4,5,67,37,30,4,1:16
+15-May-2017,Samarkand CH,3,Clay,R32,245,170,0,,,Egor Gerasimov,Laurynas Grigelis,6-4 6-7(6) 6-3,0.90,4.8%,4.8%,50.0%,65.4%,48.1%,5/11,47.3%,38.8%,6.9%,27.5%,55.3%,3/11,220,5,5,104,52,52,8,2:22
+1-May-2017,Istanbul,3,Clay,Q2,254,204,0,,6,Riccardo Bellotti,Laurynas Grigelis,6-2 6-1,0.55,0.0%,6.8%,50.0%,63.6%,27.3%,2/6,37.1%,30.2%,1.9%,30.6%,29.4%,0/6,97,0,3,44,22,22,1,1:13
+1-May-2017,Istanbul,3,Clay,Q1,254,140,1,,1,Laurynas Grigelis,Tobias Kamke,5-7 7-5 6-1,1.14,6.1%,4.0%,53.5%,69.8%,56.5%,3/7,53.2%,41.4%,1.1%,38.9%,45.5%,6/17,186,6,4,99,53,46,1,2:19
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,R32,249,219,0,,,Pedro Sousa,Laurynas Grigelis,7-6(3) 6-4,0.90,4.1%,1.4%,56.8%,71.4%,37.5%,1/4,47.4%,39.0%,1.2%,33.3%,52.0%,2/6,156,3,1,74,42,32,1,1:47
+17-Apr-2017,Tunisia F15,3,Clay,R16,249,1147,0,1,,Kirill Dmitriev,Laurynas Grigelis,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R32,249,580,1,1,,Laurynas Grigelis,Francesco Vilardo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2017,Davis Cup G2 R2: LTU vs GEO,3,Hard,RR,249,862,1,,,Laurynas Grigelis,George Tsivadze,6-3 6-2 6-2,2.22,3.1%,1.6%,59.4%,78.9%,76.9%,1/2,62.7%,48.6%,2.9%,44.4%,52.9%,6/12,134,2,1,64,38,26,2,1:16
+7-Apr-2017,Davis Cup G2 R2: LTU vs GEO,3,Hard,RR,249,60,0,,,Nikoloz Basilashvili,Laurynas Grigelis,6-0 6-1 6-0,0.56,6.6%,21.3%,54.1%,48.5%,21.4%,7/15,35.8%,35.5%,2.6%,21.3%,58.6%,0/7,137,4,13,61,33,28,2,1:15
+27-Mar-2017,Israel F3,3,Hard,R16,251,835,0,1,,Dekel Bar,Laurynas Grigelis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Israel F3,3,Hard,R32,251,841,1,1,,Laurynas Grigelis,Juan Carlos Saez,7-6(4) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Israel F2,3,Hard,QF,251,419,0,3,5,Enzo Couacaud,Laurynas Grigelis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Israel F2,3,Hard,R16,251,2088,1,3,WC,Laurynas Grigelis,Daniel Tamir,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Israel F2,3,Hard,R32,251,948,1,3,Q,Laurynas Grigelis,Orel Ovil,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Israel F1,3,Hard,QF,265,826,0,2,,Dekel Bar,Laurynas Grigelis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Israel F1,3,Hard,R16,265,2078,1,2,Q,Laurynas Grigelis,Yannai Barkai,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Israel F1,3,Hard,R32,265,944,1,2,WC,Laurynas Grigelis,Yshai Oliel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,SF,262,435,0,2,Q,Matteo Viola,Laurynas Grigelis,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,QF,262,409,1,2,,Laurynas Grigelis,Matthias Bachinger,6-3 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,R16,262,596,1,2,,Laurynas Grigelis,Andrea Vavassori,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,R32,262,419,1,2,,Laurynas Grigelis,Hugo Grenier,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Bergamo CH,3,Hard,Q2,265,466,0,3,WC,Egor Gerasimov,Laurynas Grigelis,6-4 6-2,0.50,10.9%,8.7%,45.7%,81.0%,32.0%,1/4,38.3%,22.9%,20.8%,11.5%,36.4%,0/1,94,5,4,46,21,25,10,0:52
+20-Feb-2017,Bergamo CH,3,Hard,Q1,265,374,1,3,,Laurynas Grigelis,Lloyd Glasspool,6-7(3) 6-3 7-6(2),1.52,17.0%,5.3%,59.6%,92.9%,55.3%,0/0,54.2%,33.9%,9.2%,24.7%,52.8%,1/4,203,16,5,94,56,38,10,1:45
+6-Feb-2017,Great Britain F2,3,Hard,SF,270,472,0,1,8,Oscar Otte,Laurynas Grigelis,7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Great Britain F2,3,Hard,QF,270,504,1,1,,Laurynas Grigelis,Jay Clarke,3-6 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Great Britain F2,3,Hard,R16,270,547,1,1,,Laurynas Grigelis,Tobias Simon,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Great Britain F2,3,Hard,R32,270,1771,1,1,Q,Laurynas Grigelis,Rayane Roumane,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2017,Davis Cup G2 R1: LTU vs MAD,3,Hard,RR,267,,1,,,Laurynas Grigelis,Lucas Andriamasilalao,6-1 6-2 6-4,2.24,21.4%,0.0%,75.7%,84.9%,58.8%,2/2,62.6%,48.1%,1.3%,47.1%,50.0%,5/10,147,15,0,70,53,17,1,1:22
+3-Feb-2017,Davis Cup G2 R1: LTU vs MAD,3,Hard,RR,267,,1,,,Laurynas Grigelis,Antso Rakotondramanga,6-4 7-6(6) 6-4,1.41,13.6%,1.0%,70.9%,82.2%,53.3%,3/3,54.1%,37.0%,10.1%,29.6%,47.9%,2/5,222,14,1,103,73,30,12,1:56
+23-Jan-2017,Germany F3,3,Carpet,R16,265,609,0,2,,Jan Choinski,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Germany F3,3,Carpet,R32,265,746,1,2,Q,Laurynas Grigelis,Johannes Haerteis,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Andria CH,3,Hard,R16,276,207,0,SE,3,Stefanos Tsitsipas,Laurynas Grigelis,7-6(6) 4-6 6-3,1.33,14.5%,3.6%,63.9%,88.7%,60.0%,0/1,50.8%,28.8%,15.4%,13.6%,48.9%,1/3,187,12,3,83,53,30,16,1:56
+21-Nov-2016,Andria CH,3,Hard,R32,276,322,1,SE,,Laurynas Grigelis,Peter Torebko,6-4 6-4,1.97,19.1%,0.0%,66.0%,77.4%,87.5%,0/1,58.0%,37.7%,11.3%,29.2%,44.8%,3/4,100,9,0,47,31,16,6,0:56
+14-Nov-2016,Brescia CH,3,Hard,F,355,206,0,LL,,Luca Vanni,Laurynas Grigelis,6-7(5) 6-4 7-6(8),1.00,17.2%,2.3%,66.4%,81.2%,37.2%,13/15,49.4%,33.6%,9.5%,25.5%,51.2%,1/11,265,22,3,128,85,43,13,2:53
+14-Nov-2016,Brescia CH,3,Hard,SF,355,274,1,LL,,Laurynas Grigelis,Salvatore Caruso,6-4 6-4,1.85,19.6%,5.9%,74.5%,86.8%,61.5%,0/0,55.0%,36.2%,8.7%,21.3%,68.2%,2/5,120,10,3,51,38,13,6,1:17
+14-Nov-2016,Brescia CH,3,Hard,QF,355,334,1,LL,Q,Laurynas Grigelis,Egor Gerasimov,0-1 RET,-,-,-,-,-,-,0/0,0.0%,0.0%,0.0%,0.0%,0.0%,0/0,4,0,0,0,0,0,0,0:04
+14-Nov-2016,Brescia CH,3,Hard,R16,355,138,1,LL,5,Laurynas Grigelis,Leonardo Mayer,3-6 7-6(3) 7-5,0.97,22.8%,5.0%,59.4%,88.3%,48.8%,2/3,49.8%,27.0%,23.0%,17.1%,50.0%,1/4,201,23,5,101,60,41,23,2:00
+14-Nov-2016,Brescia CH,3,Hard,R32,355,263,1,LL,,Laurynas Grigelis,Andrea Arnaboldi,3-6 6-3 7-6(2),1.67,25.0%,0.0%,70.0%,91.1%,54.2%,1/2,54.2%,33.3%,9.1%,24.2%,51.5%,1/4,179,20,0,80,56,24,9,1:47
+14-Nov-2016,Brescia CH,3,Hard,Q3,355,334,0,5,1,Egor Gerasimov,Laurynas Grigelis,6-1 6-2,0.37,8.6%,8.6%,51.4%,50.0%,41.2%,3/7,32.0%,20.0%,17.5%,5.3%,33.3%,0/0,75,3,3,35,18,17,7,0:41
+14-Nov-2016,Brescia CH,3,Hard,Q2,355,499,1,5,,Laurynas Grigelis,Andriej Kapas,7-6(6) 7-6(2),1.56,17.6%,1.4%,67.6%,86.0%,70.8%,0/0,53.1%,29.5%,9.1%,21.8%,42.4%,0/3,162,13,1,74,50,24,8,1:33
+14-Nov-2016,Brescia CH,3,Hard,Q1,355,,1,5,,Laurynas Grigelis,Mateusz Kowalczyk,7-6(6) 6-2,2.90,18.9%,3.8%,54.7%,93.1%,83.3%,0/0,58.8%,32.8%,27.9%,15.0%,66.7%,2/6,114,10,2,53,29,24,17,1:00
+31-Oct-2016,Great Britain F5,3,Hard,QF,353,557,0,2,5,Jonny Omara,Laurynas Grigelis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Great Britain F5,3,Hard,R16,353,,1,2,Q,Laurynas Grigelis,Sean Hodkin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Great Britain F5,3,Hard,R32,353,,1,2,WC,Laurynas Grigelis,Finn Bass,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Tunisia F28,3,Clay,F,404,545,1,5,8,Laurynas Grigelis,Frederico Gil,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Tunisia F28,3,Clay,SF,404,736,1,5,,Laurynas Grigelis,Joao Monteiro,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Tunisia F28,3,Clay,QF,404,345,1,5,3,Laurynas Grigelis,Carlos Taberner,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Tunisia F28,3,Clay,R16,404,1007,1,5,,Laurynas Grigelis,Nuno Deus,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Tunisia F28,3,Clay,R32,404,1144,1,5,Q,Laurynas Grigelis,Pierre Faivre,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Tunisia F27,3,Clay,SF,448,459,0,4,6,Benjamin Bonzi,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Tunisia F27,3,Clay,QF,448,1329,1,4,WC,Laurynas Grigelis,Mubarak Shannan Zayid,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Tunisia F27,3,Clay,R16,448,1198,1,4,Q,Laurynas Grigelis,Pierre Faivre,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Tunisia F27,3,Clay,R32,448,,1,4,WC,Laurynas Grigelis,Mousa Shanan Zayed,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Tunisia F26,3,Clay,F,449,519,1,4,6,Laurynas Grigelis,Benjamin Bonzi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Tunisia F26,3,Clay,SF,449,482,1,4,5,Laurynas Grigelis,Pol Toledo Bague,3-4 RET,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Tunisia F26,3,Clay,QF,449,872,1,4,,Laurynas Grigelis,Alessandro Petrone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Tunisia F26,3,Clay,R16,449,947,1,4,,Laurynas Grigelis,Eduardo Agustin Torre,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Tunisia F26,3,Clay,R32,449,1125,1,4,,Laurynas Grigelis,Luca Giacomini,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2016,Davis Cup G2 R3: LTU vs BIH,3,Hard,RR,454,154,0,,,Mirza Basic,Laurynas Grigelis,7-6(5) 7-6(0) 3-6 6-3,0.86,6.7%,1.5%,73.1%,72.4%,38.9%,7/9,47.4%,31.6%,5.9%,22.1%,48.0%,2/6,270,9,2,134,98,36,8,2:44
+5-Sep-2016,Romania F16,3,Clay,F,518,506,1,2,1,Laurynas Grigelis,Claudio Fortuna,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Romania F16,3,Clay,SF,518,1135,1,2,,Laurynas Grigelis,Santiago Maresca,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Romania F16,3,Clay,QF,518,660,1,2,6,Laurynas Grigelis,Cristobal Saavedra Corvalan,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Romania F16,3,Clay,R16,518,1793,1,2,LL,Laurynas Grigelis,Edris Fetisleam,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Romania F16,3,Clay,R32,518,740,1,2,,Laurynas Grigelis,Ryusei Makiguchi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Romania F15,3,Clay,F,518,579,1,4,8,Laurynas Grigelis,Gabriel Alejandro Hidalgo,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Romania F15,3,Clay,SF,518,788,1,4,,Laurynas Grigelis,Dragos Nicolae Madaras,5-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Romania F15,3,Clay,QF,518,484,1,4,6,Laurynas Grigelis,Nicolas Jarry,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Romania F15,3,Clay,R16,518,1209,1,4,WC,Laurynas Grigelis,George Botezan,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Romania F15,3,Clay,R32,518,1473,1,4,Q,Laurynas Grigelis,Darko Bojanovic,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Manerbio CH,3,Clay,R32,478,131,0,Q,5,Leonardo Mayer,Laurynas Grigelis,6-4 6-2,0.67,3.2%,6.3%,52.4%,63.6%,30.0%,4/9,41.9%,35.2%,13.0%,31.6%,43.8%,2/7,117,2,4,63,33,30,7,1:24
+22-Aug-2016,Manerbio CH,3,Clay,Q3,478,391,1,,,Laurynas Grigelis,Bastian Malla,6-2 6-1,1.59,4.0%,6.0%,58.0%,86.2%,38.1%,3/3,60.0%,54.0%,0.0%,47.8%,59.3%,5/9,100,2,3,50,29,21,0,1:10
+22-Aug-2016,Manerbio CH,3,Clay,Q2,478,394,1,,7,Laurynas Grigelis,Juan Ignacio Galarza,6-1 6-7(4) 6-3,1.78,10.3%,4.6%,51.7%,88.9%,59.5%,1/2,57.4%,45.1%,4.1%,36.8%,55.6%,4/17,209,9,4,87,45,42,5,2:34
+22-Aug-2016,Manerbio CH,3,Clay,Q1,478,516,1,,,Laurynas Grigelis,Francesco Picco,6-4 6-4,1.40,8.5%,5.1%,62.7%,75.7%,54.5%,5/6,54.7%,45.0%,1.3%,31.3%,65.6%,3/8,139,5,3,59,37,22,1,1:27
+15-Aug-2016,Cordenons CH,3,Clay,Q2,438,395,0,,7,Carlos Taberner,Laurynas Grigelis,7-6(2) 6-0,0.63,10.7%,8.9%,60.7%,58.8%,40.9%,3/7,41.3%,30.2%,0.0%,27.3%,35.0%,1/3,109,6,5,56,34,22,0,1:24
+15-Aug-2016,Cordenons CH,3,Clay,Q1,438,755,1,,,Laurynas Grigelis,Nicola Ghedin,5-7 6-2 6-2,1.35,15.2%,7.6%,52.2%,81.3%,50.0%,6/8,56.0%,45.7%,0.0%,42.9%,48.8%,5/11,184,14,7,92,48,44,0,2:20
+1-Aug-2016,Latvia F1,3,Clay,F,507,425,1,1,2,Laurynas Grigelis,Mikelis Libietis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Latvia F1,3,Clay,SF,507,485,1,1,4,Laurynas Grigelis,Evgeny Tyurnev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Latvia F1,3,Clay,QF,507,728,1,1,8,Laurynas Grigelis,Alexander Zhurbin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Latvia F1,3,Clay,R16,507,1086,1,1,,Laurynas Grigelis,Christoffer Solberg,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Latvia F1,3,Clay,R32,507,1270,1,1,,Laurynas Grigelis,Jonathan Gray,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Estonia F1,3,Clay,SF,463,1626,0,1,PR,Alberto Brizzi,Laurynas Grigelis,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Estonia F1,3,Clay,QF,463,703,1,1,6,Laurynas Grigelis,Vladimir Ivanov,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Estonia F1,3,Clay,R16,463,1651,1,1,Q,Laurynas Grigelis,Dmitry Mnushkin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Estonia F1,3,Clay,R32,463,1676,1,1,WC,Laurynas Grigelis,Anton Pavlov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Lithuania F1,3,Clay,QF,436,2143,0,1,SE,Ivan Gakhov,Laurynas Grigelis,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Lithuania F1,3,Clay,R16,436,,1,1,WC,Laurynas Grigelis,Aleksas Tverijonas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Lithuania F1,3,Clay,R32,436,,1,1,Q,Laurynas Grigelis,Lev Kazakov,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2016,Davis Cup G2 R2: LTU vs RSA,3,Clay,RR,423,410,1,,,Laurynas Grigelis,Tucker Vorster,6-7(1) 6-3 6-3 6-2,1.71,12.1%,5.5%,54.9%,86.0%,70.7%,5/5,56.6%,35.7%,5.1%,32.8%,41.9%,3/7,189,11,5,91,50,41,5,
+15-Jul-2016,Davis Cup G2 R2: LTU vs RSA,3,Clay,RR,423,323,1,,,Laurynas Grigelis,Lloyd Harris,6-1 6-1 6-3,2.66,7.1%,1.8%,64.3%,83.3%,75.0%,2/2,63.2%,52.3%,2.3%,43.8%,62.5%,7/16,144,4,1,56,36,20,2,1:40
+6-Jun-2016,Turkey F23,3,Hard,R16,353,1313,0,3,Q,Joshua Paris,Laurynas Grigelis,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Turkey F23,3,Hard,R32,353,893,1,3,,Laurynas Grigelis,Fabiano De Paula,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Italy F12,3,Clay,R16,358,406,0,5,,Stefanos Tsitsipas,Laurynas Grigelis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Italy F12,3,Clay,R32,358,617,1,5,,Laurynas Grigelis,Ljubomir Celebic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Romania F2,3,Clay,F,363,418,0,2,4,Juan Pablo Paz,Laurynas Grigelis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Romania F2,3,Clay,SF,363,403,1,2,3,Laurynas Grigelis,Petru Alexandru Luncanu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Romania F2,3,Clay,QF,363,572,1,2,8,Laurynas Grigelis,Martin Cuevas,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Romania F2,3,Clay,R16,363,809,1,2,,Laurynas Grigelis,Daniele Capecchi,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Romania F2,3,Clay,R32,363,1671,1,2,WC,Laurynas Grigelis,Razvan Bobleaga,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Romania F1,3,Clay,QF,352,487,0,2,7,Alexander Lazov,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Romania F1,3,Clay,R16,352,1858,1,2,Q,Laurynas Grigelis,Ciprian Alexandru Porumb,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Romania F1,3,Clay,R32,352,838,1,2,,Laurynas Grigelis,Mircea Alexandru Jecan,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,R16,363,986,0,1,Q,Laurent Lokoli,Laurynas Grigelis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,R32,363,1036,1,1,WC,Laurynas Grigelis,Simone Roncalli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Italy F6,3,Clay,QF,362,532,0,3,8,Stefanos Tsitsipas,Laurynas Grigelis,2-6 6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Italy F6,3,Clay,R16,362,1019,1,3,Q,Laurynas Grigelis,Alberto Cammarata,6-4 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Italy F6,3,Clay,R32,362,819,1,3,,Laurynas Grigelis,Demian Raab,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,San Luis Potosi CH,3,Clay,Q1,358,1007,0,,,Reilly Opelka,Laurynas Grigelis,6-3 7-6(6),0.93,5.4%,8.9%,44.6%,80.0%,58.1%,1/3,46.8%,30.0%,35.7%,10.0%,56.7%,1/2,126,3,5,56,25,31,25,1:26
+14-Mar-2016,Guadalajara CH,3,Hard,Q2,339,435,0,,,Marinko Matosevic,Laurynas Grigelis,6-4 6-1,0.63,7.1%,12.5%,44.6%,64.0%,25.8%,1/7,39.4%,35.8%,9.4%,27.3%,50.0%,2/6,109,4,7,56,25,31,5,1:06
+14-Mar-2016,Guadalajara CH,3,Hard,Q1,339,326,1,,,Laurynas Grigelis,Facundo Mena,7-6(6) 6-3,1.20,16.2%,2.7%,67.6%,78.0%,41.7%,0/1,52.5%,40.5%,8.3%,20.9%,61.0%,2/8,158,12,2,74,50,24,7,1:29
+7-Mar-2016,Puebla CH,3,Hard,R32,339,154,0,,5,Andre Ghem,Laurynas Grigelis,6-4 7-6(9),0.82,7.1%,7.1%,50.0%,78.6%,35.7%,6/9,46.6%,35.1%,5.2%,17.8%,59.4%,2/5,161,6,6,84,42,42,4,1:43
+4-Mar-2016,Davis Cup G2 R1: LTU vs NOR,3,Hard,RR,335,460,0,,,Viktor Durasovic,Laurynas Grigelis,7-5 3-6 6-4 4-6 7-6(2),1.13,11.7%,1.2%,69.1%,74.1%,60.0%,7/10,50.9%,34.1%,5.5%,27.7%,50.0%,3/16,344,19,2,162,112,50,10,3:37
+15-Feb-2016,Egypt F5,3,Hard,R32,295,835,0,1,,Denis Yevseyev,Laurynas Grigelis,6-2 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Egypt F4,3,Hard,R32,294,535,0,2,,Laurent Rochette,Laurynas Grigelis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Egypt F3,3,Hard,R16,298,1245,0,2,Q,Keelan Oakley,Laurynas Grigelis,7-6(9) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Egypt F3,3,Hard,R32,298,,1,2,WC,Laurynas Grigelis,Kristian Lozan,7-6(3) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,QF,302,386,0,3,7,Antal Van Der Duim,Laurynas Grigelis,7-6(7) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,R16,302,921,1,3,Q,Laurynas Grigelis,Simeon Rossier,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,R32,302,647,1,3,,Laurynas Grigelis,Hugo Grenier,2-6 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Ortisei CH,3,Hard,R32,293,257,0,,,Alessandro Giannessi,Laurynas Grigelis,6-4 6-7(3) 7-6(0),0.84,6.5%,12.1%,56.1%,70.0%,38.3%,6/12,46.7%,36.9%,6.8%,29.2%,54.8%,5/11,210,7,13,107,60,47,7,
+19-Oct-2015,Germany F17,3,Hard,R32,246,897,0,1,Q,Jannis Kahlke,Laurynas Grigelis,6-7(5) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Casablanca CH,3,Clay,R32,242,220,0,,,Lamine Ouahab,Laurynas Grigelis,7-5 6-0,0.56,1.8%,1.8%,57.1%,65.6%,45.8%,5/9,41.5%,24.0%,0.0%,12.9%,42.1%,0/4,106,1,1,56,32,24,0,
+28-Sep-2015,Agri CH,3,Hard,R16,247,153,0,,6,Farrukh Dustov,Laurynas Grigelis,6-2 7-6(5),0.75,7.0%,14.0%,42.1%,83.3%,39.4%,3/7,44.4%,31.7%,16.7%,29.5%,37.5%,2/4,117,4,8,57,24,33,10,
+28-Sep-2015,Agri CH,3,Hard,R32,247,1005,1,,Q,Laurynas Grigelis,Sarp Agabigun,6-1 6-4,2.54,15.0%,5.0%,47.5%,100.0%,61.9%,0/0,62.9%,50.9%,3.5%,32.1%,69.0%,4/10,97,6,2,40,19,21,2,
+21-Sep-2015,Izmir CH,3,Hard,R16,256,112,0,,4,Lukas Lacko,Laurynas Grigelis,6-1 6-4,0.59,4.3%,2.2%,60.9%,50.0%,38.9%,2/7,38.7%,31.9%,8.5%,20.0%,52.9%,2/4,93,2,1,46,28,18,4,
+21-Sep-2015,Izmir CH,3,Hard,R32,256,661,1,,WC,Laurynas Grigelis,Altug Celikbilek,6-4 7-6(4),1.01,4.4%,2.9%,67.6%,73.9%,72.7%,0/0,51.6%,26.7%,5.0%,22.0%,36.8%,1/1,128,3,2,68,46,22,3,
+18-Sep-2015,Davis Cup G1 PO: LTU vs UKR,3,Hard,RR,259,117,0,,,Illya Marchenko,Laurynas Grigelis,6-0 6-1 6-7(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Meknes CH,3,Clay,R32,245,201,0,,7,Matteo Viola,Laurynas Grigelis,6-3 6-3,0.75,0.0%,2.9%,58.0%,62.5%,34.5%,7/11,44.3%,37.1%,1.6%,27.8%,50.0%,1/4,131,0,2,69,40,29,1,
+17-Aug-2015,Romania F13,3,Clay,F,277,438,1,1,2,Laurynas Grigelis,Dragos Dima,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Romania F13,3,Clay,SF,277,486,1,1,3,Laurynas Grigelis,Carlos Boluda Purkiss,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Romania F13,3,Clay,QF,277,609,1,1,6,Laurynas Grigelis,Viktor Galovic,6-4 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Romania F13,3,Clay,R16,277,1178,1,1,,Laurynas Grigelis,Aswin Lizen,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Romania F13,3,Clay,R32,277,1227,1,1,,Laurynas Grigelis,Bogdan Ionut Apostol,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Romania F12,3,Clay,F,280,346,0,1,5,Gerard Granollers,Laurynas Grigelis,6-3 3-6 7-6(0),,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Romania F12,3,Clay,SF,280,359,1,1,4,Laurynas Grigelis,Roberto Marcora,6-7(5) 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Romania F12,3,Clay,QF,280,517,1,1,8,Laurynas Grigelis,Vasile Antonescu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Romania F12,3,Clay,R16,280,1718,1,1,Q,Laurynas Grigelis,Alexandru Daniel Carpen,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Romania F12,3,Clay,R32,280,1232,1,1,WC,Laurynas Grigelis,Bogdan Ionut Apostol,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Lithuania F1,3,Clay,F,322,1047,1,2,,Laurynas Grigelis,Ronald Slobodchikov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Lithuania F1,3,Clay,SF,322,355,1,2,3,Laurynas Grigelis,Gerard Granollers,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Lithuania F1,3,Clay,QF,322,542,1,2,5,Laurynas Grigelis,Ivan Nedelko,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Lithuania F1,3,Clay,R16,322,1030,1,2,,Laurynas Grigelis,Tallon Griekspoor,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Lithuania F1,3,Clay,R32,322,1254,1,2,,Laurynas Grigelis,Ivan Liutarevich,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Romania F9,3,Clay,SF,330,545,0,2,Q,Petru Alexandru Luncanu,Laurynas Grigelis,7-6(4) 1-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Romania F9,3,Clay,QF,330,751,1,2,8,Laurynas Grigelis,Jordan Ubiergo,3-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Romania F9,3,Clay,R16,330,941,1,2,,Laurynas Grigelis,Mircea Alexandru Jecan,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Romania F9,3,Clay,R32,330,1661,1,2,Q,Laurynas Grigelis,Cosmin Ontica,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Romania F8,3,Clay,QF,346,560,0,1,6,Claudio Fortuna,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Romania F8,3,Clay,R16,346,2163,1,1,Q,Laurynas Grigelis,Cristobal Grandon Diaz,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Romania F8,3,Clay,R32,346,1714,1,1,WC,Laurynas Grigelis,Nicolae Frunza,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,F,346,892,1,4,,Laurynas Grigelis,Mariano Kestelboim,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,SF,346,303,1,4,2,Laurynas Grigelis,Miljan Zekic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,QF,346,317,1,4,6,Laurynas Grigelis,Maxim Dubarenco,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,R16,346,1350,1,4,Q,Laurynas Grigelis,Samm Butler,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,R32,346,801,1,4,Q,Laurynas Grigelis,Vlad Victor Cornea,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Fergana CH,3,Hard,R16,358,214,0,,6,Ti Chen,Laurynas Grigelis,6-3 6-3,0.66,14.6%,4.2%,50.0%,70.8%,41.7%,1/5,43.0%,28.9%,11.1%,11.5%,52.6%,1/1,93,7,2,48,24,24,5,
+15-Jun-2015,Fergana CH,3,Hard,R32,358,397,1,,,Laurynas Grigelis,Marko Tepavac,6-3 6-2,1.53,5.1%,0.0%,72.9%,72.1%,68.8%,0/0,59.8%,44.2%,4.7%,36.4%,52.4%,3/3,102,3,0,59,43,16,2,
+11-May-2015,Samarkand CH,3,Clay,R16,379,82,0,,1,Teymuraz Gabashvili,Laurynas Grigelis,7-5 6-3,0.80,5.1%,5.1%,54.2%,68.8%,40.7%,4/8,44.9%,35.3%,0.0%,18.2%,66.7%,2/3,127,3,3,59,32,27,0,1:37
+11-May-2015,Samarkand CH,3,Clay,R32,379,255,1,,,Laurynas Grigelis,Dzmitry Zhyrmont,6-4 6-2,2.20,19.1%,2.1%,61.7%,86.2%,66.7%,0/0,60.6%,46.8%,4.8%,38.2%,57.1%,3/4,109,9,1,47,29,18,3,1:04
+4-May-2015,Karshi CH,3,Hard,R16,381,186,0,,8,Yuki Bhambri,Laurynas Grigelis,7-6(2) 6-1,0.66,9.8%,6.6%,62.3%,60.5%,43.5%,2/5,41.5%,30.4%,11.6%,29.2%,33.3%,1/8,130,6,4,61,38,23,8,1:19
+4-May-2015,Karshi CH,3,Hard,R32,381,325,1,,,Laurynas Grigelis,Filip Horansky,7-6(4) 2-6 6-3,0.96,6.1%,4.0%,68.7%,70.6%,45.2%,5/9,49.7%,35.9%,5.4%,24.5%,48.8%,3/6,191,6,4,99,68,31,5,1:47
+6-Apr-2015,Batman CH,3,Hard,R32,362,359,0,,,Matthew Ebden,Laurynas Grigelis,6-0 6-3,0.51,4.0%,8.0%,52.0%,57.7%,37.5%,6/10,37.9%,26.7%,20.0%,23.3%,33.3%,0/1,95,2,4,50,26,24,9,0:56
+16-Mar-2015,Kazan CH,3,Hard,R16,362,191,0,Q,8,Andrea Arnaboldi,Laurynas Grigelis,3-6 6-4 7-6(10),1.09,5.2%,6.3%,54.2%,73.1%,52.3%,5/9,51.0%,39.8%,3.7%,38.9%,40.7%,5/7,204,5,6,96,52,44,4,2:12
+16-Mar-2015,Kazan CH,3,Hard,R32,362,1302,1,Q,WC,Laurynas Grigelis,Vitaly Kozyukov,6-2 6-4,1.56,8.0%,12.0%,58.0%,82.8%,61.9%,0/0,56.0%,40.7%,6.8%,31.6%,57.1%,3/7,109,4,6,50,29,21,4,1:08
+6-Mar-2015,Davis Cup G1 R1: POL vs LTU,3,Hard,RR,361,51,0,,,Jerzy Janowicz,Laurynas Grigelis,7-6(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2015,Davis Cup G1 R1: POL vs LTU,3,Hard,RR,361,351,1,,,Laurynas Grigelis,Kamil Majchrzak,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Italy F2,3,Carpet,R16,415,483,0,,,Philip Bester,Laurynas Grigelis,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Italy F2,3,Carpet,R32,415,299,1,,4,Laurynas Grigelis,Marek Michalicka,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,F,411,627,1,7,JE,Laurynas Grigelis,Quentin Halys,6-7(7) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,SF,411,694,1,7,Q,Laurynas Grigelis,Niels Lootsma,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,QF,411,426,1,7,,Laurynas Grigelis,Gregoire Barrere,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,R16,411,440,1,7,,Laurynas Grigelis,Gianluca Mager,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,R32,411,445,1,7,,Laurynas Grigelis,Stefano Napolitano,3-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Montpellier,3,Hard,Q1,377,125,0,,1,Steve Darcis,Laurynas Grigelis,7-6(1) 7-6(6),0.67,8.3%,4.8%,76.2%,73.4%,50.0%,3/3,46.2%,21.6%,5.4%,13.0%,35.7%,0/1,158,7,4,84,64,20,4,1:31
+26-Jan-2015,France F3,3,Hard,QF,346,270,0,,6,Antal Van Der Duim,Laurynas Grigelis,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,France F3,3,Hard,R16,346,715,1,,Q,Laurynas Grigelis,Medy Chettar,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,France F3,3,Hard,R32,346,258,1,,4,Laurynas Grigelis,Yannick Mertens,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,France F2,3,Hard,R16,346,439,0,6,,Gregoire Barrere,Laurynas Grigelis,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2015,France F2,3,Hard,R32,346,869,1,6,Q,Laurynas Grigelis,Bar Tzuf Botzer,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2015,Casablanca CH,3,Clay,R32,342,155,0,,3,Adrian Ungur,Laurynas Grigelis,7-6(2) 6-3,0.99,7.3%,1.8%,74.5%,75.6%,50.0%,2/4,47.2%,30.6%,2.8%,27.0%,34.3%,1/4,127,4,1,55,41,14,2,1:34
+3-Nov-2014,Mouilleron Le Captif CH,3,Hard,R16,295,161,0,,,Vincent Millot,Laurynas Grigelis,6-1 6-4,0.78,3.6%,0.0%,61.8%,61.8%,38.1%,3/7,44.6%,36.8%,0.0%,33.3%,41.7%,1/3,112,2,0,55,34,21,0,1:07
+3-Nov-2014,Mouilleron Le Captif CH,3,Hard,R32,295,99,1,,4,Laurynas Grigelis,Kenny De Schepper,6-4 7-5,1.26,4.4%,0.0%,63.2%,69.8%,64.0%,5/6,54.0%,40.8%,4.2%,33.3%,51.7%,3/9,139,3,0,68,43,25,3,1:32
+27-Oct-2014,Great Britain F18,3,Hard,F,271,306,0,1,4,Maxime Authom,Laurynas Grigelis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Great Britain F18,3,Hard,SF,271,321,1,1,3,Laurynas Grigelis,Daniel Cox,6-4 6-7(9) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Great Britain F18,3,Hard,QF,271,877,1,1,,Laurynas Grigelis,Jonny Omara,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Great Britain F18,3,Hard,R16,271,2017,1,1,Q,Laurynas Grigelis,Daniel Ferretti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Great Britain F18,3,Hard,R32,271,1112,1,1,,Laurynas Grigelis,George Morgan,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Great Britain F17,3,Hard,QF,257,412,0,2,,Adrien Bossel,Laurynas Grigelis,6-4 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Great Britain F17,3,Hard,R16,257,671,1,2,,Laurynas Grigelis,Niels Lootsma,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Great Britain F17,3,Hard,R32,257,1651,1,2,WC,Laurynas Grigelis,Andrew Bettles,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,SF,258,380,0,1,3,Dzmitry Zhyrmont,Laurynas Grigelis,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,QF,258,818,1,1,,Laurynas Grigelis,Lukas Mugevicius,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,R16,258,1394,1,1,,Laurynas Grigelis,Ivan Liutarevich,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Belarus F3,3,Hard,R32,258,,1,1,WC,Laurynas Grigelis,Mikalai Haliak,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2014,Davis Cup G2 R3: BIH vs LTU,3,Hard,RR,236,113,0,,,Damir Dzumhur,Laurynas Grigelis,6-7(5) 6-1 6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2014,Brasov CH,3,Clay,QF,256,363,0,,Q,Guillaume Rufin,Laurynas Grigelis,7-5 6-7(5) 6-2,0.79,4.7%,7.9%,49.6%,58.7%,48.4%,10/16,45.9%,36.8%,5.7%,23.6%,51.0%,3/5,233,6,10,127,63,64,6,2:46
+2-Sep-2014,Brasov CH,3,Clay,R16,256,217,1,,,Laurynas Grigelis,Roberto Marcora,6-2 6-4,1.68,16.7%,9.3%,63.0%,79.4%,60.0%,3/3,58.8%,46.7%,3.3%,40.5%,56.5%,3/7,114,9,5,54,34,20,2,1:20
+2-Sep-2014,Brasov CH,3,Clay,R32,256,205,1,,,Laurynas Grigelis,Lucas Pouille,6-3 4-6 6-4,1.14,2.1%,6.2%,48.5%,72.3%,54.0%,6/9,52.6%,42.3%,5.2%,30.0%,62.2%,4/12,194,2,6,97,47,50,5,2:11
+25-Aug-2014,US Open,5,Hard,Q1,256,151,0,,30,Yuki Bhambri,Laurynas Grigelis,6-4 6-1,0.72,14.0%,10.0%,54.0%,66.7%,34.8%,5/10,43.1%,34.6%,0.0%,38.7%,28.6%,1/2,102,7,5,50,27,23,0,1:05
+28-Jul-2014,Vancouver CH,3,Hard,R32,238,189,0,,,Ruben Bemelmans,Laurynas Grigelis,6-3 6-3,0.22,1.7%,6.9%,56.9%,72.7%,32.0%,4/7,36.7%,10.0%,17.5%,4.0%,20.0%,0/0,98,1,4,58,33,25,7,0:57
+14-Jul-2014,Recanati CH,3,Hard,R32,236,76,0,,1,Gilles Muller,Laurynas Grigelis,6-3 6-3,0.56,5.3%,5.3%,66.7%,63.2%,52.6%,3/6,42.5%,22.4%,14.3%,13.3%,36.8%,0/2,106,3,3,57,38,19,7,1:07
+7-Jul-2014,Portoroz CH,3,Hard,R32,233,224,0,,,Daniel Cox,Laurynas Grigelis,6-3 6-2,0.80,5.8%,1.9%,59.6%,58.1%,28.6%,5/10,44.3%,42.9%,0.0%,39.5%,50.0%,2/8,115,3,1,52,31,21,0,1:15
+23-Jun-2014,Spain F15,3,Hard,SF,247,250,0,2,3,Egor Gerasimov,Laurynas Grigelis,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Spain F15,3,Hard,QF,247,395,1,2,6,Laurynas Grigelis,Oriol Roca Batalla,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Spain F15,3,Hard,R16,247,1238,1,2,Q,Laurynas Grigelis,James Cluskey,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Spain F15,3,Hard,R32,247,568,1,2,,Laurynas Grigelis,Joao Domingues,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon,5,Grass,Q2,247,132,0,,13,Simone Bolelli,Laurynas Grigelis,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon,5,Grass,Q1,247,228,1,,,Laurynas Grigelis,Enrique Lopez Perez,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Nottingham2 CH,3,Grass,R32,252,108,0,,2,Gilles Muller,Laurynas Grigelis,7-6(3) 6-4,0.73,9.1%,3.0%,65.2%,76.7%,47.8%,2/4,46.1%,24.2%,27.4%,14.3%,45.0%,1/3,128,6,2,66,43,23,17,1:18
+26-May-2014,Roland Garros,5,Clay,Q1,250,406,0,,WC,Laurent Lokoli,Laurynas Grigelis,7-5 7-5,0.81,2.9%,1.5%,75.0%,72.5%,58.8%,2/4,47.1%,25.0%,14.7%,19.5%,33.3%,0/1,136,2,1,68,51,17,10,1:22
+12-May-2014,Samarkand CH,3,Clay,R32,245,284,0,9,,Valery Rudnev,Laurynas Grigelis,6-4 7-6(7),0.96,7.6%,9.1%,59.1%,69.2%,40.7%,1/5,48.6%,40.5%,0.0%,35.0%,47.1%,3/7,140,5,6,66,39,27,0,1:38
+5-May-2014,Gimcheon CH,3,Hard,R16,232,203,0,,,Amir Weintraub,Laurynas Grigelis,7-5 6-1,0.58,10.3%,6.9%,60.3%,54.3%,34.8%,4/9,39.1%,30.8%,7.7%,20.7%,43.5%,2/4,110,6,4,58,35,23,4,0:59
+5-May-2014,Gimcheon CH,3,Hard,R32,232,181,1,,,Laurynas Grigelis,John Patrick Smith,3-6 6-4 6-3,1.06,5.4%,3.2%,66.7%,75.8%,54.8%,2/3,52.0%,32.9%,6.1%,22.4%,48.5%,2/6,175,5,3,93,62,31,5,1:44
+28-Apr-2014,An-Ning CH,3,Clay,R16,232,324,0,7,,Jordan Thompson,Laurynas Grigelis,3-6 7-5 6-2,0.89,2.6%,7.8%,51.9%,75.0%,45.9%,5/9,47.0%,34.8%,7.9%,29.0%,48.1%,3/5,166,2,6,77,40,37,7,1:52
+28-Apr-2014,An-Ning CH,3,Clay,R32,232,448,1,7,,Laurynas Grigelis,Yuichi Ito,6-3 4-6 6-1,1.28,4.9%,7.4%,53.1%,67.4%,63.2%,2/4,54.5%,44.2%,7.0%,20.8%,73.7%,5/9,167,4,6,81,43,38,6,1:41
+21-Apr-2014,Shenzhen CH,3,Hard,R32,232,227,0,,,Tsung Hua Yang,Laurynas Grigelis,4-6 7-6(3) 6-4,1.00,6.5%,2.2%,60.2%,71.4%,54.1%,4/8,49.0%,35.5%,6.5%,26.0%,55.9%,4/10,200,6,2,93,56,37,7,2:17
+7-Apr-2014,Mersin CH,3,Clay,R32,233,258,0,,,Jonathan Eysseric,Laurynas Grigelis,6-3 6-7(4) 6-3,0.90,2.7%,0.9%,64.6%,64.4%,50.0%,11/14,48.2%,36.4%,4.7%,31.3%,44.2%,1/4,220,3,1,113,73,40,5,2:25
+4-Apr-2014,Davis Cup G2 R2: RSA vs LTU,3,Hard,RR,234,261,0,,,Rik De Voest,Laurynas Grigelis,7-6(5) 7-6(3) 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Apr-2014,Davis Cup G2 R2: RSA vs LTU,3,Hard,RR,234,744,1,,,Laurynas Grigelis,Ruan Roelofse,7-6(5) 3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Switzerland F1,3,Carpet,R16,224,703,0,4,,Andrea Basso,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Switzerland F1,3,Carpet,R32,224,510,1,4,,Laurynas Grigelis,Luca Vanni,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Kazan CH,3,Hard,R16,233,174,0,,5,Marsel Ilhan,Laurynas Grigelis,6-4 6-3,0.67,5.5%,3.6%,56.4%,67.7%,58.3%,3/5,44.4%,24.5%,13.2%,18.9%,37.5%,0/0,108,3,2,55,31,24,7,1:01
+10-Mar-2014,Kazan CH,3,Hard,R32,233,225,1,,,Laurynas Grigelis,Maxime Teixeira,6-2 6-1,1.89,6.8%,0.0%,65.9%,75.9%,66.7%,4/4,60.6%,51.7%,3.3%,44.1%,61.5%,5/12,104,3,0,44,29,15,2,0:52
+24-Feb-2014,Cherbourg CH,3,Hard,R32,235,168,0,Q,,David Guez,Laurynas Grigelis,6-0 6-2,0.48,8.3%,2.8%,58.3%,42.9%,26.7%,0/5,33.3%,31.0%,0.0%,18.2%,45.0%,0/0,78,3,1,36,21,15,0,0:44
+10-Feb-2014,Bergamo CH,3,Hard,QF,244,97,0,,1,Dustin Brown,Laurynas Grigelis,6-4 6-7(5) 7-6(4),0.81,17.4%,3.5%,64.3%,77.0%,43.9%,7/10,48.1%,28.3%,10.1%,25.0%,37.0%,2/6,214,20,4,115,74,41,10,1:50
+10-Feb-2014,Bergamo CH,3,Hard,R16,244,324,1,,Q,Laurynas Grigelis,Edward Corrie,7-5 6-7(7) 6-4,1.27,12.7%,2.9%,64.7%,78.8%,58.3%,5/7,53.1%,36.0%,7.2%,32.9%,44.8%,4/12,213,13,3,102,66,36,8,2:04
+10-Feb-2014,Bergamo CH,3,Hard,R32,244,,1,,WC,Laurynas Grigelis,Andrea Falgheri,7-6(7) 7-5,1.66,21.4%,1.4%,72.9%,84.3%,63.2%,2/2,54.8%,35.6%,5.7%,28.0%,45.9%,1/1,157,15,1,70,51,19,5,1:40
+31-Jan-2014,Davis Cup G2 R1: NOR vs LTU,3,Hard,RR,242,938,1,,,Laurynas Grigelis,Joachim Bjerke,6-7(4) 6-3 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2014,Great Britain F2,3,Hard,R16,257,2138,0,2,Q,Sander Arends,Laurynas Grigelis,W/O,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2014,Great Britain F2,3,Hard,R32,257,558,1,2,,Laurynas Grigelis,Neil Pauffley,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Great Britain F1,3,Hard,F,257,403,1,1,6,Laurynas Grigelis,Daniel Smethurst,7-5 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Great Britain F1,3,Hard,SF,257,297,1,1,3,Laurynas Grigelis,Edward Corrie,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Great Britain F1,3,Hard,QF,257,322,1,1,5,Laurynas Grigelis,Riccardo Bellotti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Great Britain F1,3,Hard,R16,257,857,1,1,,Laurynas Grigelis,Stefano Napolitano,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2014,Great Britain F1,3,Hard,R32,257,1206,1,1,Q,Laurynas Grigelis,Sam Hutt,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Czech Republic F7,3,Carpet,F,286,398,1,2,7,Laurynas Grigelis,Uladzimir Ignatik,4-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Czech Republic F7,3,Carpet,SF,286,570,1,2,,Laurynas Grigelis,Blazej Koniusz,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Czech Republic F7,3,Carpet,QF,286,711,1,2,,Laurynas Grigelis,Dominik Suc,5-7 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Czech Republic F7,3,Carpet,R16,286,568,1,2,,Laurynas Grigelis,Neil Pauffley,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Czech Republic F7,3,Carpet,R32,286,1630,1,2,WC,Laurynas Grigelis,Dominik Kellovsky,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2013,Andria CH,3,Hard,R16,299,213,0,,,Farrukh Dustov,Laurynas Grigelis,7-5 6-3,0.84,11.9%,6.0%,61.2%,75.6%,38.5%,6/9,45.8%,32.5%,13.0%,27.9%,50.0%,0/4,144,8,4,67,41,26,10,1:29
+18-Nov-2013,Andria CH,3,Hard,R32,299,282,1,,,Laurynas Grigelis,Nikola Mektic,7-6(5) 4-6 6-3,1.03,17.9%,2.7%,67.9%,75.0%,50.0%,4/6,50.9%,34.0%,7.5%,25.0%,50.0%,2/12,218,20,3,112,76,36,8,2:17
+28-Oct-2013,Great Britain F23 Future,3,Hard,F,369,425,1,2,3,Laurynas Grigelis,Joris De Loore,6-3 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Great Britain F23 Future,3,Hard,SF,369,664,1,2,,Laurynas Grigelis,James Marsalek,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Great Britain F23 Future,3,Hard,QF,369,487,1,2,6,Laurynas Grigelis,Tom Farquharson,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Great Britain F23 Future,3,Hard,R16,369,1034,1,2,,Laurynas Grigelis,George Morgan,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Great Britain F23 Future,3,Hard,R32,369,971,1,2,,Laurynas Grigelis,Gianluca Mager,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Great Britain F22,3,Hard,F,408,423,1,2,3,Laurynas Grigelis,Joris De Loore,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Great Britain F22,3,Hard,SF,408,668,1,2,,Laurynas Grigelis,Kevin Griekspoor,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Great Britain F22,3,Hard,QF,408,,1,2,Q,Laurynas Grigelis,Keelan Oakley,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Great Britain F22,3,Hard,R16,408,1132,1,2,,Laurynas Grigelis,Scott Griekspoor,6-7(3) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Great Britain F22,3,Hard,R32,408,1125,1,2,,Laurynas Grigelis,Adam Chadaj,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Great Britain F21,3,Hard,F,405,380,1,4,2,Laurynas Grigelis,David Rice,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Great Britain F21,3,Hard,SF,405,495,1,4,7,Laurynas Grigelis,Sam Barry,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Great Britain F21,3,Hard,QF,405,418,1,4,5,Laurynas Grigelis,Joris De Loore,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Great Britain F21,3,Hard,R16,405,879,1,4,,Laurynas Grigelis,Pirmin Haenle,7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Great Britain F21,3,Hard,R32,405,,1,4,Q,Laurynas Grigelis,Isaac Stoute,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Turkey F38,3,Hard,QF,450,434,0,5,3,Takanyi Garanganga,Laurynas Grigelis,6-2 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Turkey F38,3,Hard,R16,450,1904,1,5,Q,Laurynas Grigelis,Beka Komakhidze,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Turkey F38,3,Hard,R32,450,679,1,5,,Laurynas Grigelis,Yannick Maden,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Turkey F37,3,Hard,F,453,514,1,2,5,Laurynas Grigelis,Claudio Fortuna,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Turkey F37,3,Hard,SF,453,744,1,2,,Laurynas Grigelis,Jared Donaldson,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Turkey F37,3,Hard,QF,453,594,1,2,6,Laurynas Grigelis,Federico Gaio,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Turkey F37,3,Hard,R16,453,1644,1,2,Q,Laurynas Grigelis,Deivids Juksa,4-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Turkey F37,3,Hard,R32,453,1603,1,2,Q,Laurynas Grigelis,Tinotenda Chanakira,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Turkey F36,3,Hard,QF,459,592,0,3,6,Federico Gaio,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Turkey F36,3,Hard,R16,459,1656,1,3,,Laurynas Grigelis,Deivids Juksa,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Turkey F36,3,Hard,R32,459,1656,1,3,,Laurynas Grigelis,Stanislav Korshunov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Austria F10,3,Clay,R32,438,,0,2,SE,Sebastian Fanselow,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,R16,438,1283,0,3,Q,Pascal Meis,Laurynas Grigelis,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Switzerland F6,3,Clay,R32,438,,1,3,Q,Laurynas Grigelis,Antoine Baroz,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Lithuania F1,3,Clay,F,496,960,1,4,,Laurynas Grigelis,Giammarco Micolani,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Lithuania F1,3,Clay,SF,496,278,1,4,1,Laurynas Grigelis,Hans Podlipnik Castillo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Lithuania F1,3,Clay,QF,496,1162,1,4,,Laurynas Grigelis,Alexander Zhurbin,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Lithuania F1,3,Clay,R16,496,938,1,4,,Laurynas Grigelis,Mark Vervoort,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Lithuania F1,3,Clay,R32,496,1400,1,4,Q,Laurynas Grigelis,Loic Ducourau,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Guimaraes CH,3,Hard,R32,492,594,0,,WC,Joao Domingues,Laurynas Grigelis,4-6 6-0 6-3,0.82,5.1%,2.6%,73.1%,61.4%,47.6%,3/7,45.5%,34.8%,0.0%,26.4%,47.2%,1/4,167,4,2,78,57,21,0,1:37
+3-Jun-2013,Korea F5,3,Hard,R32,420,540,0,6,,Jung Woong Na,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,QF,420,481,0,,,Shuichi Sekiguchi,Laurynas Grigelis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,R16,420,357,1,,3,Laurynas Grigelis,Luke Saville,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,R32,420,1872,1,,PR,Laurynas Grigelis,Kaden Hensel,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R16,421,371,0,,6,Dane Propoggia,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R32,421,,1,,WC,Laurynas Grigelis,Ku Keon Kang,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Busan CH,3,Hard,R32,439,194,0,Q,,Amir Weintraub,Laurynas Grigelis,6-4 6-2,0.79,3.8%,5.7%,58.5%,51.6%,45.5%,2/7,44.3%,40.3%,1.6%,37.8%,47.1%,2/6,115,2,3,53,31,22,1,1:09
+6-May-2013,Kun-Ming CH,3,Hard,R16,434,208,0,Q,,Samuel Groth,Laurynas Grigelis,6-4 7-6(4),0.77,2.7%,8.2%,53.4%,66.7%,52.9%,3/7,46.4%,30.8%,12.3%,30.2%,31.8%,3/5,138,2,6,73,39,34,8,1:21
+6-May-2013,Kun-Ming CH,3,Hard,R32,434,166,1,Q,,Laurynas Grigelis,Jimmy Wang,6-4 6-4,1.04,10.4%,6.0%,58.2%,64.1%,60.7%,6/8,51.6%,39.0%,1.7%,32.4%,50.0%,4/6,126,7,4,67,39,28,1,1:14
+29-Apr-2013,An-Ning CH,3,Clay,R16,453,383,0,,,Marton Fucsovics,Laurynas Grigelis,6-1 6-4,0.37,3.3%,8.2%,42.6%,65.4%,42.9%,3/6,37.7%,17.8%,8.9%,20.8%,14.3%,0/0,106,2,5,61,26,35,4,1:10
+29-Apr-2013,An-Ning CH,3,Clay,R32,453,952,1,,WC,Laurynas Grigelis,Peng Gao,6-4 6-1,1.50,7.0%,8.8%,42.1%,91.7%,51.5%,4/4,57.9%,47.4%,10.5%,26.7%,70.4%,4/4,114,4,5,57,24,33,6,1:08
+15-Apr-2013,Italy F4,3,Clay,R32,457,280,0,,2,Jordi Samper Montana,Laurynas Grigelis,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Italy F1,3,Carpet,QF,480,274,0,8,2,Mirza Basic,Laurynas Grigelis,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Italy F1,3,Carpet,R16,480,986,1,8,Q,Laurynas Grigelis,Nicola Ghedin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Italy F1,3,Carpet,R32,480,994,1,8,Q,Laurynas Grigelis,Francesco Borgo,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,F,480,320,0,,1,Martin Fischer,Laurynas Grigelis,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,SF,480,561,1,,,Laurynas Grigelis,Andreas Beck,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,QF,480,613,1,,,Laurynas Grigelis,Riccardo Sinicropi,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R16,480,350,1,,2,Laurynas Grigelis,Viktor Galovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R32,480,578,1,,,Laurynas Grigelis,Andreas Vinciguerra,6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,SF,456,543,0,,,Edoardo Eremin,Laurynas Grigelis,6-7(6) 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,QF,456,414,1,,5,Laurynas Grigelis,Yannick Jankovits,6-7(2) 6-3 7-6(10),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R16,456,681,1,,,Laurynas Grigelis,Bastian Trinker,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R32,456,401,1,,3,Laurynas Grigelis,Antoine Benneteau,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,QF,447,334,0,,7,Martin Fischer,Laurynas Grigelis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,R16,447,249,1,,1,Laurynas Grigelis,Nikola Mektic,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,R32,447,1847,1,,WC,Laurynas Grigelis,Antun Pehar,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Croatia F1,3,Hard,R32,418,279,0,,4,Mirza Basic,Laurynas Grigelis,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Ortisei CH,3,Hard,R32,400,217,0,WC,,Albano Olivetti,Laurynas Grigelis,7-6(4) 6-2,0.69,12.5%,5.4%,57.1%,71.9%,50.0%,0/3,43.9%,25.9%,27.6%,10.3%,41.4%,1/1,114,7,3,56,32,24,16,1:13
+22-Oct-2012,Great Britain F18,3,Hard,R32,391,1566,0,8,Q,Tom Farquharson,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Great Britain F17,3,Hard,R16,396,1917,0,5,Q,Ashley Hewitt,Laurynas Grigelis,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Great Britain F17,3,Hard,R32,396,570,1,5,,Laurynas Grigelis,Milan Pokrajac,6-3 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Rennes CH,3,Hard,R32,364,178,0,Q,,Maxime Authom,Laurynas Grigelis,6-4 6-3,0.76,4.2%,8.5%,46.5%,57.6%,55.3%,9/12,45.8%,33.3%,11.7%,21.6%,52.2%,1/6,131,3,6,71,33,38,7,1:20
+1-Oct-2012,France F19,3,Hard,R32,360,363,0,,WC,Mathieu Rodrigues,Laurynas Grigelis,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Metz,3,Hard,Q2,327,211,0,,,Kenny De Schepper,Laurynas Grigelis,7-5 6-0,0.61,5.0%,5.0%,53.3%,53.1%,53.6%,5/9,41.6%,28.3%,22.6%,20.0%,44.4%,0/1,113,3,3,60,32,28,12,1:08
+17-Sep-2012,Metz,3,Hard,Q1,327,198,1,,8,Laurynas Grigelis,Alex Kuznetsov,6-4 2-6 6-4,0.95,8.6%,3.7%,66.7%,79.6%,29.6%,2/5,49.1%,35.0%,8.8%,30.8%,42.9%,3/7,161,7,3,81,54,27,7,1:45
+10-Sep-2012,Petange CH,3,Hard,R32,334,335,0,,,Adrien Bossel,Laurynas Grigelis,6-4 6-4,0.76,15.9%,14.3%,69.8%,72.7%,42.1%,4/6,46.0%,27.9%,14.8%,18.2%,39.3%,0/1,124,10,9,63,44,19,9,1:12
+4-Sep-2012,St. Remy CH,3,Hard,R16,294,119,0,,5,Evgeny Donskoy,Laurynas Grigelis,6-4 6-2,0.72,3.9%,2.0%,56.9%,65.5%,45.5%,1/4,43.4%,30.9%,14.5%,16.1%,50.0%,0/1,106,2,1,51,29,22,8,1:20
+4-Sep-2012,St. Remy CH,3,Hard,R32,294,353,1,,Q,Laurynas Grigelis,Florian Reynet,6-3 6-4,1.06,15.6%,3.1%,54.7%,71.4%,58.6%,0/1,52.6%,36.5%,1.9%,36.4%,36.8%,3/6,116,10,2,64,35,29,1,1:22
+23-Jul-2012,Los Angeles,3,Hard,Q1,280,378,0,,,Pierre Ludovic Duclos,Laurynas Grigelis,6-3 6-1,0.65,2.9%,4.3%,62.3%,51.2%,53.8%,7/11,42.5%,31.0%,3.4%,24.3%,42.9%,0/2,127,2,3,69,43,26,2,1:18
+16-Jul-2012,Binghamton CH,3,Hard,R32,277,358,0,4,,Greg Ouellette,Laurynas Grigelis,5-7 6-0 6-4,0.63,7.2%,4.1%,54.6%,67.9%,50.0%,6/10,45.2%,25.4%,7.0%,22.5%,29.0%,1/1,168,7,4,97,53,44,5,1:56
+9-Jul-2012,Newport,3,Grass,Q1,183,151,0,,4,Sergei Bubka,Laurynas Grigelis,6-4 6-3,0.64,5.6%,1.9%,53.7%,75.9%,48.0%,2/4,43.1%,23.6%,7.3%,13.9%,42.1%,0/3,109,3,1,54,29,25,4,1:00
+2-Jul-2012,Winnetka CH,3,Hard,R32,193,294,0,,,Mikhail Ledovskikh,Laurynas Grigelis,7-6(4) 6-1,0.47,8.6%,9.9%,61.7%,64.0%,25.8%,4/8,39.7%,24.0%,20.0%,17.2%,33.3%,1/1,131,7,8,81,50,31,10,1:32
+25-Jun-2012,Wimbledon,5,Grass,Q2,193,217,0,,,Maxime Teixeira,Laurynas Grigelis,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Wimbledon,5,Grass,Q1,193,144,1,,30,Laurynas Grigelis,Antonio Veic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Nottingham2 CH,3,Grass,R32,192,139,0,,,Jerzy Janowicz,Laurynas Grigelis,3-6 6-3 6-3,0.61,10.5%,2.3%,64.0%,69.1%,51.6%,3/6,45.4%,22.7%,19.7%,14.3%,47.1%,1/1,152,9,2,86,55,31,13,1:33
+27-May-2012,Roland Garros,5,Clay,Q3,190,130,0,,21,Daniel Munoz De La Nava,Laurynas Grigelis,6-1 6-1,0.51,2.2%,2.2%,53.3%,45.8%,28.6%,3/9,34.9%,31.7%,7.3%,27.3%,36.8%,1/1,86,1,1,45,24,21,3,1:02
+27-May-2012,Roland Garros,5,Clay,Q2,190,117,1,,14,Laurynas Grigelis,Federico Delbonis,6-4 7-6(4),1.26,9.5%,0.0%,66.2%,79.6%,64.0%,3/3,53.0%,32.5%,10.4%,23.3%,44.1%,1/6,151,7,0,74,49,25,8,1:34
+27-May-2012,Roland Garros,5,Clay,Q1,190,189,1,,,Laurynas Grigelis,Maximo Gonzalez,1-6 6-3 6-4,0.96,3.4%,6.7%,52.8%,57.4%,47.6%,1/6,49.1%,45.2%,1.2%,41.1%,53.6%,5/10,173,3,6,89,47,42,1,2:05
+7-May-2012,Athens CH,3,Hard,QF,193,112,0,8,2,Karol Beck,Laurynas Grigelis,4-6 6-3 7-6(4),0.73,5.3%,6.1%,63.2%,68.1%,54.8%,7/9,46.9%,26.9%,5.4%,24.6%,30.6%,2/6,207,6,7,114,72,42,5,2:35
+7-May-2012,Athens CH,3,Hard,R16,193,656,1,8,Q,Laurynas Grigelis,Alexander Bury,6-4 6-4,1.74,7.4%,1.9%,72.2%,84.6%,60.0%,0/0,55.6%,38.6%,7.1%,34.1%,46.2%,2/7,124,4,1,54,39,15,5,1:25
+7-May-2012,Athens CH,3,Hard,R32,193,327,1,8,,Laurynas Grigelis,Matwe Middelkoop,7-6(0) 6-1,1.46,13.3%,5.0%,65.0%,82.1%,61.9%,0/0,57.1%,36.5%,1.9%,27.6%,47.8%,2/2,112,8,3,60,39,21,1,1:09
+23-Apr-2012,Napoli CH,3,Clay,R32,188,178,0,,,Maxime Authom,Laurynas Grigelis,6-7(3) 6-4 6-4,0.97,9.1%,3.0%,63.6%,60.3%,38.9%,1/8,48.9%,46.1%,1.6%,44.9%,47.5%,5/13,227,9,3,99,63,36,2,2:17
+16-Apr-2012,Rome CH,3,Clay,R32,187,192,0,,,Andrey Kuznetsov,Laurynas Grigelis,6-3 6-2,0.67,3.8%,1.9%,58.5%,51.6%,54.5%,3/7,42.1%,31.5%,14.8%,25.7%,42.1%,0/3,107,2,1,53,31,22,8,1:04
+9-Apr-2012,France F7,3,Clay,R16,185,497,0,2,JE,Jiri Vesely,Laurynas Grigelis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,France F7,3,Clay,R32,185,342,1,2,,Laurynas Grigelis,Charles Antoine Brezac,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,St. Brieuc CH,3,Clay,R32,192,237,0,,,Gianluca Naso,Laurynas Grigelis,6-4 6-4,0.74,4.3%,4.3%,52.2%,66.7%,54.5%,7/9,44.9%,29.0%,7.2%,16.7%,48.1%,0/6,138,3,3,69,36,33,5,1:37
+19-Mar-2012,Bath CH,3,Hard,QF,197,116,0,,2,Michael Berrer,Laurynas Grigelis,6-3 3-6 7-5,0.96,14.8%,1.2%,64.2%,73.1%,62.1%,1/3,48.3%,29.7%,11.0%,25.5%,35.0%,1/4,172,12,1,81,52,29,10,1:50
+19-Mar-2012,Bath CH,3,Hard,R16,197,247,1,,,Laurynas Grigelis,Philipp Oswald,6-4 6-4,1.20,9.4%,3.1%,57.8%,75.7%,63.0%,3/3,54.2%,35.7%,12.5%,24.1%,48.1%,2/3,120,6,2,64,37,27,7,1:19
+19-Mar-2012,Bath CH,3,Hard,R32,197,206,1,,8,Laurynas Grigelis,Martin Fischer,4-6 6-3 7-5,1.08,5.9%,6.9%,62.7%,73.4%,36.8%,5/9,52.4%,43.5%,4.7%,35.7%,58.6%,5/11,187,6,7,102,64,38,4,1:59
+12-Mar-2012,Sarajevo CH,3,Hard,R16,201,213,0,8,,Jerzy Janowicz,Laurynas Grigelis,3-6 7-6(1) 6-2,0.59,14.8%,3.7%,66.7%,77.8%,48.1%,3/6,45.3%,18.8%,15.9%,8.2%,45.0%,2/2,150,12,3,81,54,27,11,1:29
+12-Mar-2012,Sarajevo CH,3,Hard,R32,201,296,1,8,,Laurynas Grigelis,Mikhail Ledovskikh,6-1 6-4,1.72,25.5%,2.0%,58.8%,83.3%,61.9%,4/4,58.3%,43.9%,7.0%,37.9%,50.0%,3/7,108,13,1,51,30,21,4,1:00
+27-Feb-2012,Cherbourg CH,3,Hard,R16,203,164,0,,,Kenny De Schepper,Laurynas Grigelis,6-7(5) 6-1 6-4,0.67,3.0%,2.0%,72.7%,63.9%,55.6%,4/7,43.9%,25.8%,16.5%,18.3%,46.2%,0/7,196,3,2,99,72,27,16,1:59
+27-Feb-2012,Cherbourg CH,3,Hard,R32,203,374,1,,Q,Laurynas Grigelis,Nicolas Renavand,7-6(4) 2-6 6-3,1.04,7.0%,2.0%,51.0%,66.7%,63.3%,2/4,49.8%,36.5%,6.1%,39.8%,25.9%,1/10,215,7,2,100,51,49,7,2:04
+20-Feb-2012,Wolfsburg CH,3,Carpet,R32,205,147,0,,2,Igor Sijsling,Laurynas Grigelis,6-3 7-5,0.63,5.5%,7.3%,45.5%,76.0%,50.0%,1/4,42.5%,24.1%,25.9%,6.1%,48.0%,1/3,113,3,4,55,25,30,15,1:03
+13-Feb-2012,Bergamo CH,3,Hard,R16,213,163,0,,,Alexander Kudryavtsev,Laurynas Grigelis,3-6 6-1 6-4,0.75,6.3%,5.0%,66.3%,66.0%,48.1%,6/10,45.2%,29.9%,13.0%,14.3%,57.1%,2/4,157,5,4,80,53,27,10,1:28
+13-Feb-2012,Bergamo CH,3,Hard,R32,213,182,1,,,Laurynas Grigelis,Joao Sousa,6-3 6-4,1.23,15.2%,3.8%,50.6%,77.5%,59.0%,10/10,55.8%,39.0%,5.1%,29.7%,54.5%,2/7,138,12,3,79,40,39,3,1:25
+30-Jan-2012,Montpellier,3,Hard,Q1,195,210,0,,,Inigo Cervantes Huegun,Laurynas Grigelis,6-3 7-5,0.75,6.8%,4.1%,60.8%,71.1%,48.3%,2/4,46.1%,28.4%,9.0%,16.7%,41.9%,0/2,141,5,3,74,45,29,6,1:26
+16-Jan-2012,Australian Open,5,Hard,Q1,197,185,0,,,Konstantin Kravchuk,Laurynas Grigelis,5-7 6-3 6-2,0.82,0.0%,5.5%,57.1%,67.3%,46.2%,6/11,46.8%,34.1%,3.7%,24.5%,51.7%,3/5,173,0,5,91,52,39,3,1:53
+1-Jan-2012,Brisbane,3,Hard,Q2,198,541,0,,,John Millman,Laurynas Grigelis,4-6 6-2 6-2,0.89,8.6%,7.1%,64.3%,75.6%,36.0%,3/7,46.0%,34.4%,4.3%,29.0%,45.2%,1/7,163,6,5,70,45,25,4,1:34
+1-Jan-2012,Brisbane,3,Hard,Q1,198,,1,,,Laurynas Grigelis,Paul Hanley,7-6(4) 6-2,1.19,2.9%,4.4%,64.7%,59.1%,66.7%,7/9,53.1%,45.3%,5.3%,35.0%,57.1%,4/4,143,2,3,68,44,24,4,1:14
+7-Nov-2011,Ortisei CH,3,Carpet,R16,206,253,0,,,Benjamin Becker,Laurynas Grigelis,3-6 7-6(5) 6-4,0.91,12.8%,5.5%,67.9%,73.0%,51.4%,4/6,50.0%,30.8%,12.1%,16.7%,51.4%,2/9,200,14,6,109,74,35,11,1:53
+7-Nov-2011,Ortisei CH,3,Carpet,R32,206,149,1,,7,Laurynas Grigelis,Dustin Brown,3-6 6-2 6-4,1.32,21.9%,9.6%,64.4%,89.4%,42.3%,3/5,53.6%,36.3%,7.5%,31.3%,43.8%,3/8,153,16,7,73,47,26,6,1:21
+31-Oct-2011,Eckental CH,3,Carpet,R16,206,146,0,,,Dustin Brown,Laurynas Grigelis,6-2 6-2,0.39,14.0%,8.0%,52.0%,73.1%,33.3%,8/12,38.2%,17.9%,28.2%,5.0%,31.6%,0/0,89,7,4,50,26,24,11,0:42
+31-Oct-2011,Eckental CH,3,Carpet,R32,206,99,1,,2,Laurynas Grigelis,Cedrik Marcel Stebe,6-4 6-4,1.12,8.2%,6.8%,56.2%,78.0%,50.0%,5/5,52.9%,38.5%,9.2%,24.3%,57.1%,2/3,138,6,5,73,41,32,6,1:26
+10-Oct-2011,Tiburon CH,3,Hard,QF,212,148,0,,8,Bjorn Phau,Laurynas Grigelis,6-3 6-2,0.37,6.0%,8.0%,56.0%,71.4%,36.4%,4/7,37.6%,16.3%,16.3%,10.7%,26.7%,0/0,93,3,4,50,28,22,7,0:56
+10-Oct-2011,Tiburon CH,3,Hard,R16,212,122,1,,4,Laurynas Grigelis,Bobby Reynolds,7-6(3) 3-6 6-4,0.99,15.4%,3.8%,56.7%,74.6%,44.4%,5/9,50.0%,38.2%,7.8%,27.4%,55.0%,3/5,206,16,4,104,59,45,8,2:31
+10-Oct-2011,Tiburon CH,3,Hard,R32,212,198,1,,,Laurynas Grigelis,Frederik Nielsen,6-3 6-3,1.70,12.2%,8.2%,61.2%,80.0%,57.9%,0/1,58.4%,48.4%,3.1%,40.5%,63.6%,4/10,113,6,4,49,30,19,2,1:04
+3-Oct-2011,Sacramento CH,3,Hard,R32,214,120,0,,3,Sam Querrey,Laurynas Grigelis,6-4 6-7(5) 6-2,0.88,3.0%,2.0%,59.0%,64.4%,51.2%,3/7,46.9%,36.3%,12.4%,30.6%,43.1%,1/4,213,3,2,100,59,41,14,2:01
+19-Sep-2011,Izmir CH,3,Hard,QF,220,111,0,,1,Marsel Ilhan,Laurynas Grigelis,6-4 6-0,0.54,2.9%,4.3%,65.7%,54.3%,33.3%,6/11,40.2%,28.6%,2.4%,14.8%,53.3%,1/1,112,2,3,70,46,24,1,1:12
+19-Sep-2011,Izmir CH,3,Hard,R16,220,272,1,,,Laurynas Grigelis,Andre Begemann,6-2 7-5,1.93,5.7%,0.0%,66.0%,68.6%,88.9%,3/4,59.2%,47.2%,5.6%,36.8%,58.8%,4/9,125,3,0,53,35,18,4,1:26
+19-Sep-2011,Izmir CH,3,Hard,R32,220,225,1,,,Laurynas Grigelis,Amer Delic,6-4 3-6 6-1,1.56,2.8%,2.8%,58.3%,76.2%,70.0%,2/3,54.6%,41.2%,4.9%,38.0%,48.4%,3/13,174,2,2,72,42,30,5,2:01
+12-Sep-2011,Italy F27,3,Hard,R32,220,645,0,1,,Massimo Capone,Laurynas Grigelis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,St. Remy CH,3,Hard,QF,239,110,0,,3,Edouard Roger Vasselin,Laurynas Grigelis,6-3 6-2,0.54,13.6%,2.3%,47.7%,71.4%,30.4%,2/6,38.0%,27.1%,12.5%,14.8%,42.9%,1/2,92,6,1,44,21,23,6,0:55
+5-Sep-2011,St. Remy CH,3,Hard,R16,239,149,1,,5,Laurynas Grigelis,Illya Marchenko,6-1 7-5,1.38,8.9%,1.8%,64.3%,77.8%,45.0%,0/1,56.0%,46.7%,1.7%,35.3%,61.5%,5/6,116,5,1,56,36,20,1,1:22
+5-Sep-2011,St. Remy CH,3,Hard,R32,239,573,1,,Q,Laurynas Grigelis,Sami Reinwein,6-7(1) 6-3 6-4,0.96,8.0%,5.4%,66.1%,74.3%,52.6%,7/8,52.1%,31.7%,17.1%,21.2%,50.0%,3/4,194,9,6,112,74,38,14,1:57
+29-Aug-2011,US Open,5,Hard,Q3,239,155,0,,23,Augustin Gensse,Laurynas Grigelis,7-6(5) 7-5,0.85,6.3%,2.5%,46.8%,75.7%,54.8%,4/6,46.9%,30.1%,3.6%,21.6%,43.8%,1/6,162,5,2,79,37,42,3,1:40
+29-Aug-2011,US Open,5,Hard,Q2,239,173,1,,,Laurynas Grigelis,Bastian Knittel,6-1 7-6(3),1.30,7.5%,6.0%,64.2%,76.7%,58.3%,2/3,55.0%,38.7%,6.5%,23.3%,73.7%,3/6,129,5,4,67,43,24,4,1:19
+29-Aug-2011,US Open,5,Hard,Q1,239,218,1,,,Laurynas Grigelis,Adam Kellner,6-2 6-2,1.69,21.6%,3.9%,62.7%,84.4%,36.8%,4/5,61.3%,56.4%,1.8%,48.3%,65.4%,5/10,106,11,2,51,32,19,1,0:59
+25-Jul-2011,Los Angeles,3,Hard,R32,243,92,0,Q,,Alejandro Falla,Laurynas Grigelis,6-2 6-4,0.60,0.0%,7.3%,56.4%,61.3%,45.8%,3/6,40.9%,27.3%,1.8%,20.8%,32.3%,0/1,110,0,4,55,31,24,1,1:07
+25-Jul-2011,Los Angeles,3,Hard,Q3,243,276,1,,,Laurynas Grigelis,Clement Reix,6-2 6-3,1.63,12.2%,8.2%,57.1%,82.1%,57.1%,3/3,57.9%,46.6%,8.6%,27.6%,65.5%,4/6,107,6,4,49,28,21,5,1:04
+25-Jul-2011,Los Angeles,3,Hard,Q2,243,305,1,,8,Laurynas Grigelis,Carsten Ball,6-4 6-4,1.12,7.4%,3.7%,59.3%,56.3%,60.6%,7/9,53.1%,46.9%,12.5%,36.1%,60.7%,4/9,145,6,3,81,48,33,8,1:27
+25-Jul-2011,Los Angeles,3,Hard,Q1,243,400,1,,,Laurynas Grigelis,Phillip Simmonds,6-1 6-3,2.43,4.8%,2.4%,69.0%,89.7%,53.8%,0/0,64.4%,52.1%,4.2%,44.8%,63.2%,4/11,90,2,1,42,29,13,2,0:55
+11-Jul-2011,Aptos CH,3,Hard,F,373,239,1,,7,Laurynas Grigelis,Ilija Bozoljac,6-2 7-6(4),1.81,6.8%,0.0%,66.1%,84.6%,70.0%,0/0,56.7%,36.8%,14.7%,17.9%,62.1%,2/3,127,4,0,59,39,20,10,1:19
+11-Jul-2011,Aptos CH,3,Hard,SF,373,62,1,,1,Laurynas Grigelis,Igor Kunitsyn,6-4 2-6 7-6(8),0.95,6.5%,2.8%,68.5%,60.8%,47.1%,6/11,48.9%,41.4%,6.3%,30.8%,56.5%,4/10,219,7,3,108,74,34,7,2:34
+11-Jul-2011,Aptos CH,3,Hard,QF,373,143,1,,3,Laurynas Grigelis,Matthew Ebden,3-6 7-6(5) 6-2,1.07,9.1%,6.8%,65.9%,70.7%,36.7%,2/6,51.1%,43.9%,7.1%,36.1%,56.8%,5/14,186,8,6,88,58,30,7,2:00
+11-Jul-2011,Aptos CH,3,Hard,R16,373,399,1,,LL,Laurynas Grigelis,Jimmy Wang,6-2 6-4,1.45,1.9%,7.7%,63.5%,69.7%,36.8%,6/10,59.6%,61.4%,0.0%,56.1%,75.0%,7/17,109,1,4,52,33,19,0,1:22
+11-Jul-2011,Aptos CH,3,Hard,R32,373,412,1,,,Laurynas Grigelis,Daniel Yoo,6-2 6-3,1.42,6.3%,3.1%,64.1%,70.7%,60.9%,5/5,57.3%,46.7%,5.0%,33.3%,60.0%,3/7,124,4,2,64,41,23,3,1:29
+13-Jun-2011,Italy F14,3,Clay,QF,349,343,0,6,4,Marcel Zimmermann,Laurynas Grigelis,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Italy F14,3,Clay,R16,349,544,1,6,,Laurynas Grigelis,Denis Zivkovic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Italy F14,3,Clay,R32,349,673,1,6,WC,Laurynas Grigelis,Giulio Torroni,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Poland F4,3,Clay,R16,361,503,0,7,,Roman Jebavy,Laurynas Grigelis,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Poland F4,3,Clay,R32,361,1460,1,7,Q,Laurynas Grigelis,Vladyslav Klymenko,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,SF,397,321,0,8,3,Christian Lindell,Laurynas Grigelis,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,QF,397,562,1,8,,Laurynas Grigelis,Yann Marti,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,R16,397,420,1,8,,Laurynas Grigelis,Juho Paukku,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Italy F12,3,Clay,R32,397,,1,8,WC,Laurynas Grigelis,Lorenzo Carera,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Morocco F3,3,Clay,F,397,,1,3,SE,Laurynas Grigelis,Bassam Beidas,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Morocco F3,3,Clay,SF,397,723,1,3,,Laurynas Grigelis,Sherif Sabry,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Morocco F3,3,Clay,QF,397,661,1,3,8,Laurynas Grigelis,James Mcgee,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Morocco F3,3,Clay,R16,397,813,1,3,,Laurynas Grigelis,Nicola Ghedin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Morocco F3,3,Clay,R32,397,1142,1,3,WC,Laurynas Grigelis,Talal Ouahabi,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Cremona CH,3,Hard,R16,409,302,0,WC,,Malek Jaziri,Laurynas Grigelis,7-5 6-3,0.49,3.0%,3.0%,87.9%,56.9%,37.5%,9/12,40.0%,22.2%,5.6%,14.6%,46.2%,1/1,120,2,2,66,58,8,3,1:23
+16-May-2011,Cremona CH,3,Hard,R32,409,513,1,WC,WC,Laurynas Grigelis,Federico Gaio,3-6 7-6(3) 6-2,1.09,3.9%,1.0%,72.5%,62.2%,50.0%,11/15,51.7%,44.9%,3.7%,29.5%,65.2%,4/11,209,4,1,102,74,28,4,2:12
+2-May-2011,Italy F8,3,Clay,R32,418,884,0,8,WC,Marco Bortolotti,Laurynas Grigelis,4-6 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,Turkey F15,3,Hard,R32,422,1057,0,5,,Tuna Altuna,Laurynas Grigelis,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Turkey F14,3,Hard,R16,420,791,0,6,Q,Jiri Kosler,Laurynas Grigelis,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Turkey F14,3,Hard,R32,420,851,1,6,WC,Laurynas Grigelis,Ergun Zorlu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R32,403,671,0,6,Q,Adam Chadaj,Laurynas Grigelis,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Monza CH,3,Clay,R32,407,212,0,WC,,Evgeny Donskoy,Laurynas Grigelis,6-1 6-2,0.51,2.3%,4.7%,62.8%,51.9%,43.8%,3/7,37.1%,26.1%,13.0%,20.0%,37.5%,0/1,89,1,2,43,27,16,6,0:58
+28-Mar-2011,Switzerland F3,3,Carpet,QF,378,574,0,2,8,Chris Eaton,Laurynas Grigelis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Switzerland F3,3,Carpet,R16,378,854,1,2,PR,Laurynas Grigelis,Nils Langer,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Switzerland F3,3,Carpet,R32,378,1059,1,2,LL,Laurynas Grigelis,Raphael Lustenberger,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Switzerland F2,3,Carpet,R32,378,691,0,2,,Riccardo Sinicropi,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2011,Davis Cup G2 R1: EST vs LTU,3,Hard,RR,382,194,0,,,Jurgen Zopp,Laurynas Grigelis,4-5 RET,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,Bergamo CH,3,Hard,R32,366,114,0,WC,7,Olivier Rochus,Laurynas Grigelis,6-4 6-4,0.64,23.3%,5.5%,74.0%,72.2%,42.1%,10/12,46.8%,22.6%,9.4%,10.7%,36.0%,0/1,126,17,4,73,54,19,5,1:20
+31-Jan-2011,Courmayeur CH,3,Hard,QF,401,179,0,Q,,Matthias Bachinger,Laurynas Grigelis,6-2 6-1,0.45,5.4%,2.7%,59.5%,50.0%,40.0%,1/5,34.1%,24.4%,24.4%,23.5%,27.3%,0/2,82,2,1,37,22,15,11,0:52
+31-Jan-2011,Courmayeur CH,3,Hard,R16,401,102,1,Q,1,Laurynas Grigelis,Simone Bolelli,5-7 6-3 7-6(3),1.10,12.0%,7.0%,56.0%,83.9%,54.5%,2/4,51.5%,32.0%,22.0%,19.0%,54.1%,2/6,200,12,7,100,56,44,22,2:13
+31-Jan-2011,Courmayeur CH,3,Hard,R32,401,264,1,Q,,Laurynas Grigelis,Matwe Middelkoop,7-6(5) 6-4,1.93,24.6%,1.6%,68.9%,95.2%,52.6%,0/0,54.0%,34.8%,9.0%,24.5%,47.5%,1/13,150,15,1,61,42,19,8,1:33
+24-Jan-2011,Germany F3,3,Carpet,R16,404,510,0,5,,Peter Torebko,Laurynas Grigelis,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Germany F3,3,Carpet,R32,404,500,1,5,,Laurynas Grigelis,Andrei Mlendea,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Great Britain F2,3,Hard,R32,404,345,0,,4,Harri Heliovaara,Laurynas Grigelis,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,Salzburg CH,3,Hard,R16,420,127,0,Q,7,Denis Gremelmayr,Laurynas Grigelis,6-3 7-6(5),0.56,7.8%,5.2%,63.6%,79.6%,32.1%,4/6,43.9%,21.0%,9.7%,11.4%,33.3%,0/1,139,6,4,77,49,28,6,1:25
+15-Nov-2010,Salzburg CH,3,Hard,R32,420,182,1,Q,,Laurynas Grigelis,Franco Skugor,6-7(9) 7-5 7-6(5),0.93,4.7%,3.1%,67.2%,75.6%,47.6%,6/8,49.6%,31.4%,12.7%,28.6%,36.6%,3/8,246,6,4,128,86,42,15,2:45
+25-Oct-2010,Montpellier,3,Hard,Q1,411,240,0,,,Joao Sousa,Laurynas Grigelis,6-4 6-7(6) 6-4,0.93,7.8%,7.8%,59.8%,78.7%,39.0%,2/6,48.5%,34.6%,8.7%,21.9%,55.0%,2/6,206,8,8,102,61,41,9,2:09
+18-Oct-2010,Stockholm,3,Hard,Q1,409,210,0,,7,Dieter Kindlmann,Laurynas Grigelis,6-4 6-2,0.72,2.0%,3.9%,51.0%,61.5%,52.0%,4/7,42.9%,31.1%,3.3%,23.7%,43.5%,0/2,112,1,2,51,26,25,2,1:12
+4-Oct-2010,France F17,3,Hard,SF,437,330,0,,8,Gregoire Burquier,Laurynas Grigelis,4-6 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,France F17,3,Hard,QF,437,178,1,,1,Laurynas Grigelis,Vincent Millot,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,France F17,3,Hard,R16,437,311,1,,7,Laurynas Grigelis,Jonathan Eysseric,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,France F17,3,Hard,R32,437,530,1,,,Laurynas Grigelis,Razvan Sabau,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Italy F27,3,Hard,F,466,302,0,2,1,Filip Prpic,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Italy F27,3,Hard,SF,466,467,1,2,4,Laurynas Grigelis,Andrea Falgheri,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Italy F27,3,Hard,QF,466,795,1,2,8,Laurynas Grigelis,Erik Crepaldi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Italy F27,3,Hard,R16,466,1121,1,2,Q,Laurynas Grigelis,Andrea Agazzi,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Italy F27,3,Hard,R32,466,1037,1,2,,Laurynas Grigelis,Francesco Borgo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2010,Davis Cup G2 R3: LTU vs SLO,3,Hard,RR,404,119,0,,,Grega Zemlja,Laurynas Grigelis,6-3 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2010,Davis Cup G2 R3: LTU vs SLO,3,Hard,RR,404,120,0,,,Blaz Kavcic,Laurynas Grigelis,6-4 7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,St. Remy CH,3,Hard,R32,402,283,0,Q,,Charles Antoine Brezac,Laurynas Grigelis,3-6 6-3 6-2,0.83,5.3%,5.3%,67.1%,62.7%,36.0%,3/8,45.6%,38.1%,4.8%,20.0%,59.0%,3/5,160,4,4,76,51,25,4,1:47
+16-Aug-2010,Karshi CH,3,Hard,R32,398,384,0,,,Jose Rubin Statham,Laurynas Grigelis,6-3 6-4,0.71,4.8%,11.3%,43.5%,63.0%,31.4%,2/7,42.1%,39.0%,10.2%,26.3%,61.9%,2/3,121,3,7,62,27,35,6,1:29
+9-Aug-2010,Samarkand CH,3,Clay,R16,408,499,0,Q,,Michael Venus,Laurynas Grigelis,2-6 6-3 7-6(3),1.09,8.0%,8.0%,61.4%,77.8%,47.1%,2/4,49.8%,37.2%,10.6%,19.4%,58.8%,3/8,201,7,7,88,54,34,12,2:11
+9-Aug-2010,Samarkand CH,3,Clay,R32,408,718,1,Q,WC,Laurynas Grigelis,Vaja Uzakov,6-3 6-4,1.45,12.3%,7.0%,77.2%,75.0%,53.8%,0/1,56.5%,43.1%,3.4%,41.5%,47.1%,3/10,115,7,4,57,44,13,2,1:06
+2-Aug-2010,Beijing CH,3,Hard,R32,407,159,0,,1,Conor Niland,Laurynas Grigelis,6-2 6-3,0.66,4.2%,5.6%,63.4%,62.2%,30.8%,6/10,42.9%,32.7%,9.1%,23.1%,56.3%,1/3,126,3,4,71,45,26,5,1:21
+19-Jul-2010,Recanati CH,3,Hard,R16,426,275,0,Q,,Charles Antoine Brezac,Laurynas Grigelis,6-3 6-3,0.78,2.1%,4.2%,54.2%,69.2%,40.9%,2/6,44.2%,33.9%,10.7%,32.4%,36.4%,1/2,104,1,2,48,26,22,6,1:05
+19-Jul-2010,Recanati CH,3,Hard,R32,426,161,1,Q,5,Laurynas Grigelis,Igor Sijsling,2-6 6-3 6-1,1.03,5.1%,8.9%,53.2%,73.8%,54.1%,5/7,52.1%,36.5%,12.7%,25.0%,56.5%,4/8,142,4,7,79,42,37,8,1:24
+9-Jul-2010,Davis Cup G2 R2: IRL vs LTU,3,Carpet,RR,429,162,1,,,Laurynas Grigelis,Conor Niland,6-2 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Great Britain F8,3,Grass,QF,444,253,0,6,1,Jamie Baker,Laurynas Grigelis,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Great Britain F8,3,Grass,R16,444,565,1,6,,Laurynas Grigelis,Alexander Slabinsky,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Great Britain F8,3,Grass,R32,444,889,1,6,,Laurynas Grigelis,Burnham Arlidge,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Spain F22,3,Hard,SF,444,620,0,2,7,Pablo Martin Adalia,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Spain F22,3,Hard,QF,444,492,1,2,5,Laurynas Grigelis,Andoni Vivanco Guzman,W/O,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Spain F22,3,Hard,R16,444,811,1,2,,Laurynas Grigelis,Joshua Crowe,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Spain F22,3,Hard,R32,444,1622,1,2,Q,Laurynas Grigelis,Giacomo Pirozzi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Spain F21,3,Hard,SF,440,376,0,3,2,Agustin Boje Ordonez,Laurynas Grigelis,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Spain F21,3,Hard,QF,440,613,1,3,7,Laurynas Grigelis,Barry King,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Spain F21,3,Hard,R16,440,864,1,3,,Laurynas Grigelis,Patrik Brydolf,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Spain F21,3,Hard,R32,440,,1,3,Q,Laurynas Grigelis,Igor Rud,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,R16,435,253,0,,1,Pedro Clar Rossello,Laurynas Grigelis,3-6 7-6(6) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Italy F11,3,Clay,R32,435,902,1,,,Laurynas Grigelis,Christian Lindell,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Alessandria CH,3,Clay,R32,435,100,0,WC,1,Frederico Gil,Laurynas Grigelis,6-2 6-0,0.17,5.4%,2.7%,64.9%,45.8%,38.5%,4/9,27.9%,9.7%,6.5%,10.5%,8.3%,0/0,68,2,1,37,24,13,2,0:42
+17-May-2010,Italy F9,3,Clay,R16,439,261,0,,1,Alberto Brizzi,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Italy F9,3,Clay,R32,439,446,1,,,Laurynas Grigelis,Enrico Burzi,6-7(4) 6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Italy F8,3,Clay,R16,448,211,0,,6,Simone Vagnozzi,Laurynas Grigelis,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Italy F8,3,Clay,R32,448,1436,1,,Q,Laurynas Grigelis,Giacomo Miccini,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Italy F7,3,Clay,QF,452,367,0,5,1,Daniel Evans,Laurynas Grigelis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Italy F7,3,Clay,R16,452,654,1,5,,Laurynas Grigelis,Marco Viola,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Italy F7,3,Clay,R32,452,576,1,5,,Laurynas Grigelis,Marco Simoni,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Spain F11,3,Hard,SF,465,1463,0,8,PR,Karlis Lejnieks,Laurynas Grigelis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Spain F11,3,Hard,QF,465,391,1,8,4,Laurynas Grigelis,Agustin Boje Ordonez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Spain F11,3,Hard,R16,465,693,1,8,,Laurynas Grigelis,Kenny De Schepper,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Spain F11,3,Hard,R32,465,1276,1,8,Q,Laurynas Grigelis,Albano Olivetti,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,St. Brieuc CH,3,Clay,R16,518,130,0,Q,4,Michal Przysiezny,Laurynas Grigelis,6-3 7-5,0.68,8.5%,1.7%,55.9%,78.8%,50.0%,1/4,45.9%,23.1%,7.7%,25.7%,17.6%,0/0,111,5,1,59,33,26,4,1:05
+29-Mar-2010,St. Brieuc CH,3,Clay,R32,518,657,1,Q,Q,Laurynas Grigelis,Florian Reynet,6-3 6-2,1.82,11.6%,2.3%,62.8%,77.8%,62.5%,1/2,60.0%,50.9%,1.8%,56.1%,37.5%,5/8,100,5,1,43,27,16,1,1:13
+22-Mar-2010,Jersey CH,3,Hard,R32,518,219,0,Q,,Roberto Bautista Agut,Laurynas Grigelis,7-5 7-6(7),0.74,5.1%,6.4%,64.1%,70.0%,35.7%,4/8,45.0%,31.5%,4.1%,26.5%,41.7%,3/7,151,4,5,78,50,28,3,1:46
+15-Mar-2010,Italy F1,3,Hard,R16,519,245,0,,2,Andrea Stoppini,Laurynas Grigelis,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Italy F1,3,Hard,R32,519,1006,1,,Q,Laurynas Grigelis,Enrico Fioravante,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2010,Davis Cup G2 R1: LTU vs GBR,3,Hard,RR,521,250,0,,,James Ward,Laurynas Grigelis,6-4 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2010,Davis Cup G2 R1: LTU vs GBR,3,Hard,RR,521,252,1,,,Laurynas Grigelis,Daniel Evans,6-7(6) 7-5 6-0 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Bosnia & Herzegovina F2,3,Carpet,R32,523,437,0,Q,,Evgeny Donskoy,Laurynas Grigelis,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Feb-2010,Bergamo CH,3,Hard,R16,568,499,0,WC,Q,Roman Valent,Laurynas Grigelis,7-5 6-3,0.71,6.3%,10.1%,51.9%,73.2%,42.1%,4/7,45.5%,29.7%,7.8%,25.0%,40.0%,0/1,143,5,8,79,41,38,5,1:30
+8-Feb-2010,Bergamo CH,3,Hard,R32,568,186,1,WC,,Laurynas Grigelis,Uladzimir Ignatik,6-7(3) 6-3 6-2,1.17,12.0%,9.0%,64.0%,75.0%,52.8%,7/8,53.4%,38.5%,6.6%,24.1%,59.5%,4/5,191,12,9,100,64,36,6,1:56
+1-Feb-2010,Israel F2,3,Hard,R16,571,502,0,,6,Miloslav Mecir Jr,Laurynas Grigelis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Israel F2,3,Hard,R32,571,569,1,,,Laurynas Grigelis,Todd Paul,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,Israel F1,3,Hard,R32,576,887,0,,Q,Arsenije Zlatanovic,Laurynas Grigelis,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Belarus F2,3,Hard,R32,617,1008,0,4,,Victor Kozin,Laurynas Grigelis,6-3 4-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,France F18,3,Hard,QF,621,389,0,,4,Conor Niland,Laurynas Grigelis,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,France F18,3,Hard,R16,621,780,1,,LL,Laurynas Grigelis,Alexandre Penaud,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,France F18,3,Hard,R32,621,558,1,,8,Laurynas Grigelis,Nicolas Renavand,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Italy F31,3,Hard,R32,628,780,0,5,,Javier Marti,Laurynas Grigelis,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Great Britain F14,3,Hard,R32,767,969,0,,,Timothy Bradshaw,Laurynas Grigelis,6-7(2) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Great Britain F13,3,Hard,F,862,680,1,,5,Laurynas Grigelis,David Rice,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Great Britain F13,3,Hard,SF,862,782,1,,8,Laurynas Grigelis,Matthew Illingworth,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Great Britain F13,3,Hard,QF,862,534,1,,2,Laurynas Grigelis,Joshua Milton,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Great Britain F13,3,Hard,R16,862,858,1,,,Laurynas Grigelis,Neil Pauffley,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Great Britain F13,3,Hard,R32,862,1160,1,,Q,Laurynas Grigelis,Daniel Kumlin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Italy F26,3,Clay,SF,862,412,0,,1,Claudio Grassi,Laurynas Grigelis,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Italy F26,3,Clay,QF,862,888,1,,,Laurynas Grigelis,Alberto Giraudo,3-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Italy F26,3,Clay,R16,862,716,1,,8,Laurynas Grigelis,Antonio Comporto,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Italy F26,3,Clay,R32,862,1369,1,,,Laurynas Grigelis,Jacopo Marchegiani,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Manerbio CH,3,Clay,R32,854,283,0,WC,,Simone Vagnozzi,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Binghamton CH,3,Hard,R16,941,284,0,LL,WC,Lester Cook,Laurynas Grigelis,6-1 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Binghamton CH,3,Hard,R32,941,229,1,LL,,Laurynas Grigelis,Jerzy Janowicz,7-6(5) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,USA F19,3,Hard,R32,917,792,0,,,Adam El Mihdawy,Laurynas Grigelis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,USA F18,3,Hard,R32,975,614,0,,4,Greg Ouellette,Laurynas Grigelis,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Great Britain F9,3,Grass,QF,985,339,0,Q,1,Greg Jones,Laurynas Grigelis,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Great Britain F9,3,Grass,R16,985,688,1,Q,8,Laurynas Grigelis,Colin Obrien,7-6(6) 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Great Britain F9,3,Grass,R32,985,965,1,Q,,Laurynas Grigelis,Alexander Ward,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Spain F22 TBC,3,Hard,SF,1240,527,0,,3,Andoni Vivanco Guzman,Laurynas Grigelis,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Spain F22 TBC,3,Hard,QF,1240,436,1,,2,Laurynas Grigelis,Ignacio Coll Riudavets,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Spain F22 TBC,3,Hard,R16,1240,743,1,,,Laurynas Grigelis,Javier Marti,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Spain F22 TBC,3,Hard,R32,1240,606,1,,5,Laurynas Grigelis,Agustin Boje Ordonez,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Spain F21,3,Carpet,QF,1252,909,0,WC,,Andrea Falgheri,Laurynas Grigelis,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Spain F21,3,Carpet,R16,1252,440,1,WC,3,Laurynas Grigelis,Ignacio Coll Riudavets,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Spain F21,3,Carpet,R32,1252,700,1,WC,,Laurynas Grigelis,Peter Lucassen,6-3 6-7(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Spain F20 TBC,3,Hard,R32,1330,1353,0,WC,Q,Emilio Rodriguez,Laurynas Grigelis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Italy F13,3,Clay,R16,1342,382,0,Q,5,Juan Sebastian Cabal,Laurynas Grigelis,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Italy F13,3,Clay,R32,1342,1220,1,Q,Q,Laurynas Grigelis,Marco Sattanino,6-7(3) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Alessandria CH,3,Clay,R32,1342,257,0,WC,,Riccardo Ghedin,Laurynas Grigelis,7-5 6-7(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-May-2009,Cremona CH,3,Hard,R32,1353,101,0,WC,1,Benjamin Becker,Laurynas Grigelis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Turkey F4,3,Hard,R32,1376,657,0,WC,Q,Laurent Rochette,Laurynas Grigelis,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R16,1527,499,0,Q,7,Alexandros Jakupovic,Laurynas Grigelis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R32,1527,,1,Q,Q,Laurynas Grigelis,Theodoros Angelinos,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,R16,1527,994,0,WC,Q,Gleb Alekseenko,Laurynas Grigelis,7-5 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,R32,1527,,1,WC,WC,Laurynas Grigelis,Dimitrije Tasic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Italy F3,3,Clay,R32,1538,1144,0,WC,Q,Enrico Fioravante,Laurynas Grigelis,2-6 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Croatia F2,3,Hard,R32,1545,303,0,Q,3,Victor Ionita,Laurynas Grigelis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,R32,1550,274,0,Q,1,Pavel Chekhov,Laurynas Grigelis,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Lithuania F2,3,Clay,R16,1526,852,0,WC,8,Trystan Meniane,Laurynas Grigelis,6-3 6-7(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Lithuania F2,3,Clay,R32,1526,,1,WC,Q,Laurynas Grigelis,Jesper Brunstrom,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Lithuania F1,3,Clay,R32,1884,1045,0,WC,,Jurgen Zopp,Laurynas Grigelis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Italy F24,3,Clay,R16,1882,365,0,Q,1,Thomas Fabbiano,Laurynas Grigelis,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Italy F24,3,Clay,R32,1882,1489,1,Q,WC,Laurynas Grigelis,Davide Della Tommasina,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Italy F23,3,Clay,R32,1860,670,0,LL,,Enrico Iannuzzi,Laurynas Grigelis,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Italy F22,3,Clay,R32,1850,1462,0,Q,WC,Giorgio Portaluri,Laurynas Grigelis,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Italy F18,3,Clay,R32,1786,589,0,LL,6,Max Raditschnigg,Laurynas Grigelis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2008,Slovenia F2,3,Clay,R32,1579,,0,LL,,Marius Zay,Laurynas Grigelis,6-2 5-1 RET,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Slovenia F1,3,Clay,R32,1579,618,0,Q,8,Alexander Somogyi,Laurynas Grigelis,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Italy F14,3,Clay,R32,1578,471,0,Q,,Matteo Volante,Laurynas Grigelis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Lithuania F2,3,Clay,R16,,669,0,WC,6,Carl Bergman,Laurynas Grigelis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Lithuania F2,3,Clay,R32,,1075,1,WC,,Laurynas Grigelis,Karlis Lejnieks,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Lithuania F1,3,Clay,R32,,388,0,WC,1,Rabie Chaki,Laurynas Grigelis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,333 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+17-Oct-2022,Vilnius CH,3,Hard,R32,342,1579,0,,WC,Edas Butvilas,Johan Nikles,3-6 7-6(5) 6-1,0.87,0.0%,5.3%,60.2%,67.6%,42.2%,5/9,48.1%,36.8%,4.2%,29.4%,45.5%,2/6,208,0,6,113,68,45,4,2:19
+10-Oct-2022,Gijon,3,Hard,Q1,343,264,0,,8,Nikolas Sanchez Izquierdo,Johan Nikles,6-2 1-6 6-1,0.86,4.5%,6.0%,68.7%,50.0%,42.9%,3/9,46.1%,44.8%,0.0%,39.3%,57.7%,4/12,154,3,4,67,46,21,0,1:46
+26-Sep-2022,Lisbon CH,3,Clay,Q1,285,454,0,6,Alt,Remy Bertola,Johan Nikles,6-4 0-0 RET,0.97,0.0%,0.0%,64.4%,62.1%,43.8%,6/8,49.4%,43.2%,2.3%,44.0%,42.1%,1/5,89,0,0,45,29,16,1,0:57
+19-Sep-2022,Sibiu CH,3,Clay,R16,275,192,0,,6,Damir Dzumhur,Johan Nikles,6-4 6-3,0.75,0.0%,4.6%,56.9%,43.2%,46.4%,6/12,43.4%,41.7%,0.0%,37.9%,47.4%,3/6,113,0,3,65,37,28,0,1:16
+19-Sep-2022,Sibiu CH,3,Clay,R32,275,586,1,,Q,Johan Nikles,Kai Wehnelt,6-4 7-5,1.25,4.3%,5.7%,70.0%,73.5%,28.6%,4/7,54.9%,50.0%,1.4%,37.8%,62.9%,5/10,142,3,4,70,49,21,1,1:36
+12-Sep-2022,Szczecin CH,3,Clay,Q2,279,386,0,3,10,Rudolf Molleker,Johan Nikles,7-5 6-3,0.90,5.3%,14.0%,61.4%,65.7%,31.8%,7/12,47.0%,42.9%,2.6%,32.6%,58.1%,3/6,134,3,8,57,35,22,2,1:25
+12-Sep-2022,Szczecin CH,3,Clay,Q1,279,708,1,3,,Johan Nikles,Szymon Kielan,6-2 6-2,1.81,0.0%,2.1%,58.3%,71.4%,75.0%,0/0,60.6%,49.0%,2.0%,47.8%,50.0%,4/7,99,0,1,48,28,20,1,1:13
+29-Aug-2022,Toulouse CH,3,Clay,R32,274,294,0,,,Louis Wessels,Johan Nikles,6-3 2-6 7-5,0.88,2.1%,6.4%,59.6%,62.5%,42.1%,4/9,47.5%,40.2%,6.9%,18.9%,56.0%,5/11,181,2,6,94,56,38,6,2:29
+22-Aug-2022,Banja Luka CH,3,Clay,R32,268,349,0,,,Viktor Durasovic,Johan Nikles,6-0 6-3,0.58,5.3%,0.0%,81.6%,45.2%,28.6%,4/9,37.2%,33.3%,2.1%,36.4%,26.7%,1/3,86,2,0,38,31,7,1,1:01
+25-Jul-2022,Zug CH,3,Clay,R32,261,189,0,WC,,Dimitar Kuzmanov,Johan Nikles,6-4 6-4,0.88,1.3%,3.9%,53.9%,58.5%,60.0%,7/10,48.3%,35.8%,1.5%,30.2%,45.8%,1/3,143,1,3,76,41,35,1,1:47
+18-Jul-2022,Hamburg,3,Clay,Q1,266,113,0,,3,Daniel Elahi Galan,Johan Nikles,6-3 6-7(5) 6-1,0.63,3.1%,4.2%,60.4%,60.3%,42.1%,3/7,42.4%,29.6%,3.7%,22.2%,44.4%,1/1,177,3,4,96,58,38,3,2:09
+11-Jul-2022,Amersfoort CH,3,Clay,Q2,256,346,0,1,7,Arthur Fils,Johan Nikles,6-2 7-6(6),0.77,2.6%,1.3%,64.9%,60.0%,40.7%,2/6,45.1%,35.8%,1.5%,29.7%,43.3%,2/5,144,2,1,77,50,27,1,1:47
+11-Jul-2022,Amersfoort CH,3,Clay,Q1,256,932,1,1,PR,Johan Nikles,Thomaz Bellucci,6-4 5-7 6-1,1.22,2.5%,3.8%,77.2%,62.3%,38.9%,2/7,54.4%,52.4%,1.0%,44.4%,61.2%,8/14,182,2,3,79,61,18,1,2:13
+27-Jun-2022,Troyes CH,3,Clay,R32,259,382,0,6,,Francesco Maestrelli,Johan Nikles,6-1 7-5,0.83,0.0%,12.3%,66.7%,55.3%,26.3%,0/6,45.3%,45.0%,1.3%,35.6%,57.1%,3/11,137,0,7,57,38,19,1,1:41
+20-Jun-2022,Oeiras CH,3,Clay,R16,260,327,0,7,Q,Alex Rybakov,Johan Nikles,4-6 6-4 6-3,0.89,2.6%,7.0%,60.0%,56.5%,45.7%,11/17,47.5%,42.6%,0.0%,36.4%,52.4%,5/17,223,3,8,115,69,46,0,2:55
+20-Jun-2022,Oeiras CH,3,Clay,R32,260,305,1,7,,Johan Nikles,Ergi Kirkin,4-6 6-3 6-0,1.30,0.0%,3.9%,66.2%,60.8%,53.8%,1/5,56.0%,53.8%,0.0%,41.3%,66.7%,7/19,168,0,3,77,51,26,0,2:12
+6-Jun-2022,Bratislava CH,3,Clay,R16,281,146,0,Q,7,Vit Kopriva,Johan Nikles,6-1 6-4,0.77,0.0%,0.0%,66.7%,56.3%,37.5%,5/10,45.2%,38.5%,1.9%,31.6%,57.1%,1/4,124,0,0,72,48,24,1,1:24
+6-Jun-2022,Bratislava CH,3,Clay,R32,281,255,1,Q,,Johan Nikles,Vitaliy Sachko,3-6 6-3 6-4,1.06,1.1%,6.4%,68.1%,54.7%,50.0%,7/13,51.4%,49.5%,3.3%,44.4%,60.7%,7/16,185,1,6,94,64,30,3,2:12
+6-Jun-2022,Bratislava CH,3,Clay,Q2,281,462,1,2,,Johan Nikles,Jonathan Mridha,6-2 4-6 6-2,1.12,1.1%,5.7%,73.6%,67.2%,43.5%,1/3,52.7%,43.9%,1.2%,37.9%,58.3%,5/7,169,1,5,87,64,23,1,1:58
+6-Jun-2022,Bratislava CH,3,Clay,Q1,281,463,1,2,Alt,Johan Nikles,Gergely Madarasz,6-4 7-6(3),1.09,1.1%,5.6%,65.6%,50.8%,48.4%,7/12,52.2%,54.4%,1.1%,52.5%,58.6%,6/17,180,1,5,90,59,31,1,1:55
+30-May-2022,Poznan CH,3,Clay,Q1,277,419,0,3,,Elmar Ejupovic,Johan Nikles,6-3 6-4,0.83,1.8%,5.3%,59.6%,58.8%,43.5%,3/7,45.8%,39.3%,4.9%,34.3%,46.2%,2/2,118,1,3,57,34,23,3,1:33
+16-May-2022,Geneva,3,Clay,R16,317,64,0,Q,,Tallon Griekspoor,Johan Nikles,6-3 7-5,0.74,0.0%,0.0%,64.2%,55.8%,50.0%,5/10,44.0%,34.3%,1.5%,28.8%,53.3%,2/7,134,0,0,67,43,24,1,1:28
+16-May-2022,Geneva,3,Clay,R32,317,301,1,Q,WC,Johan Nikles,Leandro Riedi,5-7 7-6(3) 7-5,1.03,0.9%,0.0%,67.9%,64.5%,55.6%,6/10,50.0%,39.5%,2.4%,31.1%,52.0%,4/8,236,1,0,112,76,36,3,2:31
+16-May-2022,Geneva,3,Clay,Q2,317,251,1,,8,Johan Nikles,Lukas Rosol,6-4 6-4,1.38,1.6%,0.0%,54.8%,76.5%,71.4%,3/3,55.4%,35.6%,3.4%,31.0%,47.1%,2/3,121,1,0,62,34,28,2,1:18
+16-May-2022,Geneva,3,Clay,Q1,317,97,1,,3,Johan Nikles,Peter Gojowczyk,6-3 6-3,1.37,2.0%,2.0%,53.1%,73.1%,43.5%,1/4,57.4%,56.1%,1.5%,50.0%,60.0%,6/10,115,1,1,49,26,23,1,1:12
+18-Apr-2022,Split CH,3,Clay,R32,294,209,0,Q,Q,Luca Nardi,Johan Nikles,6-4 6-3,0.75,0.0%,3.5%,63.2%,36.1%,52.4%,3/9,42.7%,43.3%,0.0%,43.8%,42.9%,4/10,117,0,2,57,36,21,0,1:30
+18-Apr-2022,Split CH,3,Clay,Q2,294,470,1,4,,Johan Nikles,Bogdan Bobrov,6-4 7-5,1.15,0.0%,4.1%,68.5%,60.0%,39.1%,7/12,53.5%,53.5%,0.0%,56.4%,43.8%,7/12,144,0,3,73,50,23,0,1:43
+18-Apr-2022,Split CH,3,Clay,Q1,294,407,1,4,,Johan Nikles,Alexandar Lazarov,6-3 7-5,1.06,0.0%,0.0%,80.8%,59.3%,35.7%,4/7,51.4%,47.7%,3.1%,38.1%,65.2%,6/6,138,0,0,73,59,14,2,1:41
+11-Apr-2022,Madrid CH,3,Clay,R32,294,150,0,Q,9,Christopher Oconnell,Johan Nikles,6-3 6-2,0.70,0.0%,2.2%,63.0%,51.7%,58.8%,2/5,41.3%,31.7%,1.6%,25.6%,41.7%,0/1,109,0,1,46,29,17,1,1:15
+11-Apr-2022,Madrid CH,3,Clay,Q2,294,445,1,6,,Johan Nikles,Rudolf Molleker,6-4 7-5,1.06,4.2%,0.0%,68.1%,79.6%,43.5%,5/6,52.7%,33.9%,5.1%,19.4%,56.5%,3/3,131,3,0,72,49,23,3,1:25
+11-Apr-2022,Madrid CH,3,Clay,Q1,294,686,1,6,WC,Johan Nikles,Daniel Merida Aguilar ,6-4 6-2,1.25,1.5%,2.9%,79.4%,59.3%,35.7%,3/6,55.6%,56.9%,0.0%,58.3%,54.5%,6/12,126,1,2,68,54,14,0,1:23
+4-Apr-2022,Murcia CH,3,Clay,R32,291,213,0,,,Lorenzo Giustino,Johan Nikles,7-6(5) 4-6 6-4,0.97,0.9%,0.9%,69.2%,56.8%,51.5%,6/12,49.1%,43.5%,1.7%,36.8%,53.2%,6/13,222,1,1,107,74,33,2,2:55
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R16,293,119,0,Alt,3,Juan Pablo Varillas,Johan Nikles,6-2 6-1,0.60,0.0%,7.5%,57.5%,43.5%,29.4%,4/9,37.4%,37.3%,1.7%,43.8%,29.6%,1/5,99,0,3,40,23,17,1,1:26
+21-Mar-2022,Santa Cruz De La Sierra CH,3,Clay,R32,293,1311,1,Alt,WC,Johan Nikles,Juan Carlos Prado Angelo,6-2 6-4,1.15,0.0%,0.0%,69.0%,55.0%,44.4%,5/9,54.0%,55.7%,0.0%,52.9%,60.7%,7/20,137,0,0,58,40,18,0,1:43
+28-Feb-2022,Las Palmas CH,3,Clay,QF,320,79,0,Q,1,Roberto Carballes Baena,Johan Nikles,6-1 6-3,0.62,0.0%,4.4%,71.1%,43.8%,15.4%,0/6,37.9%,40.0%,0.0%,33.3%,63.6%,2/5,95,0,2,45,32,13,0,1:07
+28-Feb-2022,Las Palmas CH,3,Clay,R16,320,273,1,Q,,Johan Nikles,Goncalo Oliveira,5-7 7-5 7-5,1.04,0.8%,0.8%,62.7%,54.1%,56.8%,7/14,51.4%,46.9%,1.0%,45.3%,50.0%,8/11,214,1,1,118,74,44,1,2:44
+28-Feb-2022,Las Palmas CH,3,Clay,R32,320,186,1,Q,7,Johan Nikles,Federico Gaio,2-6 7-6(6) 6-3,0.93,0.8%,3.4%,64.4%,61.8%,42.9%,16/21,48.9%,41.7%,1.0%,42.4%,40.9%,5/9,221,1,4,118,76,42,1,2:44
+28-Feb-2022,Las Palmas CH,3,Clay,Q2,320,909,1,1,Alt,Johan Nikles,Fabien Reboul,6-1 6-1,1.84,2.2%,2.2%,71.7%,75.8%,30.8%,2/3,65.6%,68.2%,2.3%,57.7%,83.3%,6/13,90,1,1,46,33,13,1,0:55
+28-Feb-2022,Las Palmas CH,3,Clay,Q1,320,538,1,1,Alt,Johan Nikles,Sadio Doumbia,6-2 7-5,1.25,1.7%,0.0%,80.0%,62.5%,58.3%,2/4,54.1%,47.9%,0.0%,41.3%,59.3%,5/11,133,1,0,60,48,12,0,1:23
+14-Feb-2022,Bengaluru 2 CH,3,Hard,QF,350,155,0,,3,Enzo Couacaud,Johan Nikles,6-1 6-2,0.67,1.5%,9.0%,55.2%,54.1%,36.7%,8/13,41.7%,35.8%,7.5%,19.2%,51.9%,1/6,120,1,6,67,37,30,4,1:13
+14-Feb-2022,Bengaluru 2 CH,3,Hard,R16,350,946,1,,Q,Johan Nikles,Markos Kalovelonis,6-2 6-3,1.80,2.1%,4.3%,78.7%,78.4%,60.0%,2/2,58.3%,45.9%,4.9%,36.6%,65.0%,4/5,108,1,2,47,37,10,3,1:05
+14-Feb-2022,Bengaluru 2 CH,3,Hard,R32,350,295,1,,,Johan Nikles,Raul Brancaccio,6-7(1) 6-1 7-5,1.04,1.0%,7.6%,58.1%,54.1%,45.5%,2/8,50.9%,51.3%,0.0%,40.9%,66.0%,9/20,218,1,8,105,61,44,0,2:18
+7-Feb-2022,Bengaluru 1 CH,3,Hard,Q1,351,778,0,6,Alt,Arjun Kadhe,Johan Nikles,6-4 6-4,0.73,3.4%,8.6%,48.3%,75.0%,43.3%,1/4,43.5%,30.3%,7.6%,21.6%,41.4%,1/6,124,2,5,58,28,30,5,1:18
+13-Dec-2021,Rio De Janeiro CH,3,Hard,R16,349,131,0,,1,Thiago Seyboth Wild,Johan Nikles,6-1 3-6 7-5,0.83,2.2%,2.2%,64.5%,53.3%,57.6%,5/10,46.2%,37.4%,4.4%,25.0%,57.1%,3/10,184,2,2,93,60,33,4,2:18
+13-Dec-2021,Rio De Janeiro CH,3,Hard,R32,349,722,1,,Q,Johan Nikles,Luca Castelnuovo,6-2 6-4,1.41,0.0%,1.7%,67.8%,70.0%,47.4%,6/8,57.9%,52.7%,0.0%,45.7%,65.0%,5/7,114,0,1,59,40,19,0,1:09
+6-Dec-2021,Florianopolis CH,3,Clay,R16,349,140,0,,4,Juan Ignacio Londero,Johan Nikles,6-1 6-4,0.71,1.4%,4.3%,61.4%,58.1%,40.7%,6/10,44.3%,34.6%,1.9%,25.0%,45.8%,1/4,122,1,3,70,43,27,1,1:23
+6-Dec-2021,Florianopolis CH,3,Clay,R32,349,427,1,,,Johan Nikles,Guilherme Clezar,6-3 6-7(1) 6-2,1.07,1.9%,4.7%,72.6%,64.9%,44.8%,7/9,51.7%,43.6%,2.0%,38.3%,51.2%,6/14,207,2,5,106,77,29,2,2:11
+29-Nov-2021,Sao Paulo CH,3,Clay,R16,353,209,0,,6,Felipe Meligeni Alves,Johan Nikles,6-7(5) 6-2 6-1,0.81,1.2%,4.8%,62.7%,48.1%,38.7%,3/12,44.7%,44.7%,1.8%,44.3%,45.7%,4/16,197,1,4,83,52,31,2,2:17
+29-Nov-2021,Sao Paulo CH,3,Clay,R32,353,320,1,,,Johan Nikles,Kaichi Uchida,6-7(4) 7-6(3) 6-0,1.09,1.6%,2.4%,67.7%,62.8%,43.9%,12/16,52.7%,47.4%,2.1%,42.9%,53.8%,7/8,222,2,3,127,86,41,2,2:16
+22-Nov-2021,Brasilia CH,3,Clay,R32,354,144,0,,8,Juan Ignacio Londero,Johan Nikles,6-4 6-4,0.67,1.5%,9.2%,66.2%,58.1%,50.0%,2/5,43.2%,30.0%,1.7%,19.5%,52.6%,1/2,125,1,6,65,43,22,1,1:23
+15-Nov-2021,Campinas CH,3,Clay,R32,360,94,0,Q,4,Thiago Monteiro,Johan Nikles,6-2 6-1,0.51,3.8%,7.7%,65.4%,61.8%,27.8%,6/10,38.4%,25.5%,4.3%,20.0%,41.7%,0/2,99,2,4,52,34,18,2,1:08
+15-Nov-2021,Campinas CH,3,Clay,Q2,360,322,1,7,1,Johan Nikles,Carlos Gimeno Valero,2-6 7-5 1-0 RET,1.06,1.4%,5.7%,74.3%,50.0%,33.3%,3/10,51.1%,57.4%,0.0%,35.7%,75.8%,6/8,131,1,4,70,52,18,0,1:30
+15-Nov-2021,Campinas CH,3,Clay,Q1,360,496,1,7,WC,Johan Nikles,Mateus Alves,6-4 6-2,1.34,1.6%,1.6%,68.3%,69.8%,60.0%,2/2,55.5%,44.6%,7.7%,34.4%,54.5%,3/10,128,1,1,63,43,20,5,1:35
+4-Oct-2021,M25  Lima,3,Clay,R32,328,659,0,2,,Daniel Dutra Da Silva,Johan Nikles,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,Lima 1 CH,3,Clay,SF,380,140,0,Q,5,Hugo Dellien,Johan Nikles,6-7(5) 6-4 6-2,0.80,0.7%,0.7%,75.7%,56.3%,45.5%,9/14,46.3%,37.0%,0.0%,34.4%,50.0%,2/10,244,1,1,136,103,33,0,2:56
+27-Sep-2021,Lima 1 CH,3,Clay,QF,380,203,1,Q,6,Johan Nikles,Renzo Olivo,6-3 6-1,1.70,0.0%,4.0%,72.0%,72.2%,35.7%,1/3,63.2%,64.4%,0.0%,61.8%,72.7%,6/7,95,0,2,50,36,14,0,1:13
+27-Sep-2021,Lima 1 CH,3,Clay,R16,380,320,1,Q,,Johan Nikles,Matheus Pucinelli De Almeida,7-6(2) 6-4,1.14,1.2%,0.0%,75.0%,57.1%,52.4%,6/10,53.3%,50.0%,1.5%,48.0%,55.6%,5/5,152,1,0,84,63,21,1,1:53
+27-Sep-2021,Lima 1 CH,3,Clay,R32,380,301,1,Q,,Johan Nikles,Adrian Menendez Maceiras,6-4 6-2,1.28,1.3%,0.0%,62.5%,64.0%,50.0%,10/12,55.8%,52.7%,0.0%,47.8%,60.7%,5/8,154,1,0,80,50,30,0,1:53
+27-Sep-2021,Lima 1 CH,3,Clay,Q2,380,542,1,3,8,Johan Nikles,Oscar Jose Gutierrez,6-4 6-2,1.34,0.0%,0.0%,75.4%,63.0%,46.7%,5/8,56.7%,54.8%,1.4%,44.4%,71.4%,6/12,134,0,0,61,46,15,1,1:35
+27-Sep-2021,Lima 1 CH,3,Clay,Q1,380,,1,3,WC,Johan Nikles,Gianluca Ballotta,6-0 6-3,1.84,2.1%,2.1%,64.6%,74.2%,58.8%,3/4,63.2%,57.4%,0.0%,52.2%,62.5%,5/9,95,1,1,48,31,17,0,1:05
+20-Sep-2021,Ambato CH,3,Clay,QF,410,236,0,,6,Juan Pablo Ficovich,Johan Nikles,0-6 7-6(2) 7-5,0.96,5.2%,3.1%,61.9%,68.3%,51.4%,4/7,49.5%,36.6%,6.5%,26.3%,52.8%,5/9,190,5,3,97,60,37,6,2:04
+20-Sep-2021,Ambato CH,3,Clay,R16,410,325,1,,,Johan Nikles,Pedro Sakamoto,6-3 6-4,1.16,2.9%,2.9%,66.7%,69.6%,56.5%,6/7,54.0%,40.4%,0.0%,41.0%,38.9%,3/8,126,2,2,69,46,23,0,1:27
+20-Sep-2021,Ambato CH,3,Clay,R32,410,394,1,,Q,Johan Nikles,Pol Martin Tiffon,7-5 7-6(7),1.09,0.0%,4.9%,64.6%,67.9%,51.7%,3/6,51.9%,41.0%,2.6%,37.5%,46.7%,4/9,160,0,4,82,53,29,2,2:43
+13-Sep-2021,Quito CH,3,Clay,R32,409,444,0,,Q,Alexis Gautier,Johan Nikles,6-0 6-4,0.62,0.0%,5.7%,60.4%,53.1%,33.3%,1/6,39.3%,33.9%,8.5%,13.8%,53.3%,1/7,112,0,3,53,32,21,5,1:12
+30-Aug-2021,M25 Oviedo,3,Clay,QF,410,398,0,6,4,Alvaro Lopez San Martin,Johan Nikles,7-6(5) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Oviedo,3,Clay,R16,410,1112,1,6,Q,Johan Nikles,Julio Cesar Porras,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Oviedo,3,Clay,R32,410,544,1,6,WC,Johan Nikles,Federico Zeballos,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,Warsaw CH,3,Clay,R32,409,121,0,Q,2,Jozef Kovalik,Johan Nikles,6-3 6-4,0.77,2.0%,0.0%,58.0%,48.3%,47.6%,1/6,43.6%,40.0%,0.0%,21.6%,69.6%,3/8,110,1,0,50,29,21,0,1:33
+23-Aug-2021,Warsaw CH,3,Clay,Q2,409,562,1,4,,Johan Nikles,Jonathan Mridha,6-4 6-7(3) 6-3,1.02,1.0%,3.0%,69.3%,57.1%,45.2%,4/9,50.2%,47.4%,2.6%,43.1%,54.8%,7/14,215,1,3,101,70,31,3,2:30
+23-Aug-2021,Warsaw CH,3,Clay,Q1,409,471,1,4,,Johan Nikles,Lucas Gerch,6-4 7-5,1.23,0.0%,2.5%,62.0%,67.3%,56.7%,7/9,54.0%,45.2%,2.4%,49.1%,37.9%,4/12,163,0,2,79,49,30,2,1:46
+19-Jul-2021,Gstaad,3,Clay,R32,409,249,0,WC,Q,Vit Kopriva,Johan Nikles,6-2 6-1,0.52,0.0%,8.9%,62.5%,54.3%,28.6%,10/15,37.8%,28.6%,7.1%,28.6%,28.6%,1/1,98,0,5,56,35,21,3,1:04
+12-Jul-2021,Amersfoort CH,3,Clay,R16,435,214,0,Q,8,Lukas Rosol,Johan Nikles,6-2 6-1,0.57,1.6%,3.3%,63.9%,51.3%,40.9%,7/11,39.6%,30.0%,6.0%,28.6%,31.8%,0/0,111,1,2,61,39,22,3,1:10
+12-Jul-2021,Amersfoort CH,3,Clay,R32,435,668,1,Q,,Johan Nikles,Ryan Nijboer,7-6(5) 6-2,1.19,0.0%,3.1%,73.4%,66.0%,41.2%,3/6,53.9%,48.4%,1.6%,36.4%,61.3%,5/7,128,0,2,64,47,17,1,1:33
+12-Jul-2021,Amersfoort CH,3,Clay,Q2,435,381,1,6,2,Johan Nikles,Jeremy Jahn,6-2 6-3,1.47,3.3%,4.9%,70.5%,67.4%,33.3%,2/5,59.8%,62.7%,0.0%,54.8%,75.0%,6/10,112,2,3,61,43,18,0,1:20
+12-Jul-2021,Amersfoort CH,3,Clay,Q1,435,923,1,6,,Johan Nikles,Dominik Palan,6-4 7-6(4),1.24,2.9%,4.3%,65.7%,60.9%,70.8%,1/3,53.6%,44.4%,2.5%,42.6%,47.1%,3/6,151,2,3,70,46,24,2,2:01
+28-Jun-2021,M25 The Hague,3,Clay,SF,458,335,0,,5,Javier Barranco Cosano,Johan Nikles,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 The Hague,3,Clay,QF,458,538,1,,,Johan Nikles,Mateus Alves,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 The Hague,3,Clay,R16,458,355,1,,7,Johan Nikles,Julian Ocleppo,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 The Hague,3,Clay,R32,458,470,1,,,Johan Nikles,Louis Wessels,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,F,471,706,0,3,WC,Luca Nardi,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,SF,471,926,1,3,PR,Johan Nikles,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,QF,471,557,1,3,8,Johan Nikles,Dragos Nicolae Madaras,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,R16,471,2092,1,3,,Johan Nikles,Pedro Boscardin Dias,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,R32,471,985,1,3,Q,Johan Nikles,Maxime Mora,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Vic,3,Clay,R32,470,301,0,Q,3,Roberto Ortega Olmedo,Johan Nikles,7-5 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Valldoreix,3,Clay,R16,500,394,0,,4,Facundo Diaz Acosta,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Valldoreix,3,Clay,R32,500,554,1,,,Johan Nikles,Pol Toledo Bague,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,F,507,301,1,,1,Johan Nikles,Nuno Borges,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,SF,507,362,1,,3,Johan Nikles,Oriol Roca Batalla,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,QF,507,637,1,,Q,Johan Nikles,Pedro Vives Marcos,6-0 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,R16,507,479,1,,,Johan Nikles,Pol Martin Tiffon,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Majadahonda (Madrid),3,Clay,R32,507,1260,1,,Q,Johan Nikles,Luca Van Assche,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,M15 Las Palmas de Gran Canaria,3,Clay,QF,501,416,0,6,3,Eduard Esteve Lobato,Johan Nikles,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,M15 Las Palmas de Gran Canaria,3,Clay,R16,501,565,1,6,,Johan Nikles,Nicolas Moreno De Alboran,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,M15 Las Palmas de Gran Canaria,3,Clay,R32,501,609,1,6,,Johan Nikles,Marvin Netuschil,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M25 Reus,3,Clay,QF,485,525,0,,JE,Shintaro Mochizuki,Johan Nikles,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M25 Reus,3,Clay,R16,485,1089,1,,Q,Johan Nikles,Miguel Damas,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M25 Reus,3,Clay,R32,485,,1,,WC,Johan Nikles,Jordi Garcia Mestre,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M25 Biel,3,Hard,R32,490,402,0,WC,,Dan Added,Johan Nikles,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,Lugano CH,3,Hard,Q2,490,389,0,WC,,Vitaliy Sachko,Johan Nikles,6-2 7-5,0.81,1.6%,3.3%,55.7%,50.0%,59.3%,9/14,45.5%,37.1%,1.6%,25.6%,56.5%,2/4,123,1,2,61,34,27,1,1:24
+22-Mar-2021,Lugano CH,3,Hard,Q1,490,313,1,WC,2,Johan Nikles,Jesper De Jong,0-6 6-4 6-4,0.99,6.4%,6.4%,73.1%,68.4%,38.1%,4/8,49.4%,39.3%,3.6%,28.6%,54.3%,3/6,162,5,5,78,57,21,3,1:45
+15-Mar-2021,Biella 4 CH,3,Hard,Q1,484,256,0,Alt,6,Jack Sock,Johan Nikles,6-7(5) 6-3 6-1,0.77,1.1%,4.5%,56.2%,56.0%,41.0%,4/11,44.3%,39.1%,4.6%,29.1%,56.3%,3/7,176,1,4,89,50,39,4,1:44
+8-Mar-2021,M25 Vale do Lobo,3,Hard,R32,485,652,0,,,Maximilian Neuchrist,Johan Nikles,3-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M25 Faro,3,Hard,R32,481,366,0,,3,Maxime Hamou,Johan Nikles,2-6 7-6(8) 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R16,478,593,0,6,,Arthur Reymond,Johan Nikles,7-6(4) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Grenoble,3,Hard,R32,478,1504,1,6,WC,Johan Nikles,Joshua Dous Karpenschif ,0-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R16,489,504,1,7,,Johan Nikles,Pol Toledo Bague,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R32,489,551,1,7,,Johan Nikles,Bastian Malla,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Cairo,3,Clay,SF,487,653,0,5,,Carlos Sanchez Jover,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Cairo,3,Clay,QF,487,715,1,5,Q,Johan Nikles,Simone Roncalli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Cairo,3,Clay,R16,487,740,1,5,PR,Johan Nikles,Gonzalo Lama,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Cairo,3,Clay,R32,487,981,1,5,Q,Johan Nikles,Francesco Passaro,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,F,524,703,1,6,Q,Johan Nikles,Carlos Sanchez Jover,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,SF,524,564,1,6,8,Johan Nikles,Oleksii Krutykh,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,QF,524,422,1,6,2,Johan Nikles,Fabrizio Ornago,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,R16,524,,1,6,,Johan Nikles,Toby Alex Kodat,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,R32,524,1793,1,6,WC,Johan Nikles,Louis Allen,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,R16,520,963,0,6,LL,Sidane Pontjodikromo,Johan Nikles,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,R32,520,960,1,6,Q,Johan Nikles,Simon Beaupain,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Villena,3,Clay,R32,519,501,0,,,Ivan Gakhov,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Valldoreix,3,Clay,R32,515,371,0,,6,Pedro Cachin,Johan Nikles,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Naples FL,3,Clay,R16,478,481,0,,,Alejandro Gonzalez,Johan Nikles,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Naples FL,3,Clay,R32,478,420,1,,6,Johan Nikles,Nicolas Mejia,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Palm Coast FL,3,Clay,R16,463,457,0,,,Martins Podzus,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Palm Coast FL,3,Clay,R32,463,488,1,,,Johan Nikles,Eduard Esteve Lobato,5-7 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Weston FL,3,Clay,R16,460,346,0,,4,Alexander Ritschard,Johan Nikles,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M25 Weston FL,3,Clay,R32,460,1546,1,,WC,Johan Nikles,Rowland Phillips,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Antalya,3,Clay,QF,461,1120,0,5,WC,Julien Cagnina,Johan Nikles,6-1 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Antalya,3,Clay,R16,461,833,1,5,,Johan Nikles,Gonzalo Lama,6-3 3-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Antalya,3,Clay,R32,461,1143,1,5,Q,Johan Nikles,Vasile Antonescu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Antalya,3,Clay,R16,464,823,0,5,,Dragos Nicolae Madaras,Johan Nikles,4-6 7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,M15 Antalya,3,Clay,R32,464,,1,5,Q,Johan Nikles,Michalis Sakellaridis,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M15 Nules,3,Clay,F,488,814,0,,,Georgii Kravchenko,Johan Nikles,4-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M15 Nules,3,Clay,SF,488,503,1,,,Johan Nikles,Jordan Correia Passos Do Carmo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M15 Nules,3,Clay,QF,488,592,1,,5,Johan Nikles,Tiago Cacao,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M15 Nules,3,Clay,R16,488,915,1,,,Johan Nikles,Maxime Mora,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M15 Nules,3,Clay,R32,488,756,1,,,Johan Nikles,Benjamin Winter Lopez,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Benicarlo,3,Clay,QF,488,570,0,7,,Alvaro Lopez San Martin,Johan Nikles,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Benicarlo,3,Clay,R16,488,625,1,7,,Johan Nikles,Imanol Lopez Morillo,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M15 Benicarlo,3,Clay,R32,488,739,1,7,,Johan Nikles,Carlos Lopez Montagud,6-0 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 RibaRoja de Turia,3,Clay,F,556,1002,0,,,Carlos Gimeno Valero,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 RibaRoja de Turia,3,Clay,SF,556,309,1,,,Johan Nikles,Oriol Roca Batalla,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 RibaRoja de Turia,3,Clay,QF,556,584,1,,,Johan Nikles,Ricardo Ojeda Lara,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 RibaRoja de Turia,3,Clay,R16,556,697,1,,,Johan Nikles,Inigo Cervantes Huegun,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 RibaRoja de Turia,3,Clay,R32,556,1180,1,,Q,Johan Nikles,Alex Marti Pujolras,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Sabadell,3,Clay,F,562,666,1,5,,Johan Nikles,Ricardo Ojeda Lara,5-7 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Sabadell,3,Clay,SF,562,396,1,5,,Johan Nikles,Nikolas Sanchez Izquierdo,2-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Sabadell,3,Clay,QF,562,1027,1,5,,Johan Nikles,Sergi Perez Contri,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Sabadell,3,Clay,R16,562,,1,5,,Johan Nikles,Samuel Bensoussan,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Sabadell,3,Clay,R32,562,1278,1,5,,Johan Nikles,Alex Martinez,7-5 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M25 Seville,3,Clay,R32,562,,0,4,,Carlos Gimeno Valero,Johan Nikles,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M25 Oviedo,3,Clay,R16,518,307,0,,2,Roberto Cid,Johan Nikles,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M25 Oviedo,3,Clay,R32,518,,1,,,Johan Nikles,Tomas Curras Abasolo,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Donostia San Sebastian,3,Clay,R32,518,276,0,,2,Javier Barranco Cosano,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Santander,3,Clay,QF,518,390,0,IR  ,,Orlando Luz,Johan Nikles,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Santander,3,Clay,R16,518,868,1,IR  ,,Johan Nikles,Albert Roglan,4-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Santander,3,Clay,R32,518,1141,1,IR  ,,Johan Nikles,Alberto Barroso Campos,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,Gstaad,3,Clay,Q1,677,149,0,WC,3,Filippo Baldi,Johan Nikles,7-5 6-3,0.74,0.0%,3.4%,59.3%,54.3%,50.0%,4/8,43.1%,35.2%,1.4%,26.5%,54.5%,2/10,130,0,2,59,35,24,1,1:21
+8-Jul-2019,M25 Getxo,3,Clay,R16,672,542,0,,,Jules Okala,Johan Nikles,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Getxo,3,Clay,R32,672,,1,,Q,Johan Nikles,Georg Winkler,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Kamen,3,Clay,R32,674,,0,,Q,Riccardo Maiga,Johan Nikles,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+27-May-2019,M25 Bacau,3,Clay,R32,664,343,0,IR  ,,Juan Pablo Varillas,Johan Nikles,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Troisdorf,3,Clay,R16,666,434,0,,,Marvin Netuschil,Johan Nikles,7-6(2) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M15 Troisdorf,3,Clay,R32,666,,1,,,Johan Nikles,Rinky Hijikata,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Angers,3,Clay,QF,670,,0,,,Maxime Hamou,Johan Nikles,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Angers,3,Clay,R16,670,,1,,,Johan Nikles,Arthur Reymond,7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Angers,3,Clay,R32,670,,1,,,Johan Nikles,Nicolas Alberto Arreche,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,F,669,424,0,,,Corentin Denolly,Johan Nikles,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,SF,669,655,1,,,Johan Nikles,Jeroen Vanneste,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,QF,669,550,1,,,Johan Nikles,Felipe Meligeni Alves,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,R16,669,430,1,,4,Johan Nikles,Marvin Netuschil,6-2 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Madrid,3,Clay,R32,669,,1,,,Johan Nikles,Michiel De Krom,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Reus,3,Clay,F,668,638,0,,,Eduard Esteve Lobato,Johan Nikles,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Reus,3,Clay,SF,668,,1,,,Johan Nikles,Rafael Matos,2-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Reus,3,Clay,QF,668,,1,,,Johan Nikles,Pol Martin Tiffon,7-6(5) 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Reus,3,Clay,R16,668,555,1,,,Johan Nikles,Frederico Gil,6-0 7-6(0),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M15 Reus,3,Clay,R32,668,,1,,,Johan Nikles,Dante Gennaro,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M15 Portimao,3,Hard,R32,666,,0,,PR,Finn Tearney,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,M15 Loule,3,Hard,R32,666,556,0,,7,Frederico Gil,Johan Nikles,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Vale Do Lobo,3,Hard,SF,669,,0,,PR,Finn Tearney,Johan Nikles,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Vale Do Lobo,3,Hard,QF,669,647,1,,,Johan Nikles,Genaro Alberto Olivieri,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Vale Do Lobo,3,Hard,R16,669,,1,,Q,Johan Nikles,Benjamin Dhoe,6-7(5) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Vale Do Lobo,3,Hard,R32,669,403,1,,,Johan Nikles,Joao Monteiro,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,SF,671,448,0,,,Hernan Casanova,Johan Nikles,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,QF,671,671,1,,,Johan Nikles,Jaume Pla Malfeito,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,R16,671,381,1,,,Johan Nikles,Teymuraz Gabashvili,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Palmanova,3,Clay,R32,671,,1,,Q,Johan Nikles,Benjamin Winter Lopez,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M15 Palmanova,3,Clay,R16,664,584,0,,5,Sandro Ehrat,Johan Nikles,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M15 Palmanova,3,Clay,R32,664,,1,,,Johan Nikles,Andrey Chepelev,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Manacor,3,Clay,QF,664,400,0,,,Ivan Gakhov,Johan Nikles,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Manacor,3,Clay,R16,664,583,1,,5,Johan Nikles,Alberto Romero De Avila Senise,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Manacor,3,Clay,R32,664,,1,,,Johan Nikles,Alexis Musialek,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Egypt F27,3,Hard,SF,581,958,0,2,,Adam Moundir,Johan Nikles,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Egypt F27,3,Hard,QF,581,,1,2,Q,Johan Nikles,Jannis Kahlke,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Egypt F27,3,Hard,R16,581,1339,1,2,,Johan Nikles,Francisco Dias,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Egypt F27,3,Hard,R32,581,,1,2,,Johan Nikles,Lodewijk Weststrate,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Egypt F26,3,Hard,SF,582,345,0,,,David Perez Sanz,Johan Nikles,7-6(11) 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Egypt F26,3,Hard,QF,582,1118,1,,,Johan Nikles,Michiel De Krom,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Egypt F26,3,Hard,R16,582,1263,1,,,Johan Nikles,Adrian Andrzejczuk,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Egypt F26,3,Hard,R32,582,1051,1,,,Johan Nikles,Sarp Agabigun,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2018,Italy F33,3,Clay,R32,583,495,0,,8,Davide Galoppini,Johan Nikles,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Italy F32,3,Clay,R32,588,472,0,,,Alvaro Lopez San Martin,Johan Nikles,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Switzerland F4,3,Clay,R32,696,541,0,,,Pascal Meis,Johan Nikles,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,F,698,596,0,,,Jacopo Berrettini,Johan Nikles,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,SF,698,498,1,,6,Johan Nikles,Alen Avidzba,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,QF,698,412,1,,5,Johan Nikles,Juan Pablo Ficovich,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,R16,698,892,1,,,Johan Nikles,Antoine Bellier,6-1 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Switzerland F3,3,Clay,R32,698,,1,,Q,Johan Nikles,Luca Keist,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Spain F20,3,Clay,R32,711,1012,0,,,Alberto Barroso Campos,Johan Nikles,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,France F14,3,Clay,QF,724,771,0,,,Constantin Bittoun Kouzmine,Johan Nikles,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,France F14,3,Clay,R16,724,1130,1,,,Johan Nikles,Maxence Beauge,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,France F14,3,Clay,R32,724,662,1,,4,Johan Nikles,Maxime Chazal,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Spain F18,3,Clay,R16,829,305,0,,2,Pedro Cachin,Johan Nikles,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Spain F18,3,Clay,R32,829,1965,1,,WC,Johan Nikles,Luis Diego Chavez Villalpando,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Tunisia F25,3,Clay,F,834,378,0,,,Juan Ignacio Galarza,Johan Nikles,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Tunisia F25,3,Clay,SF,834,978,1,,,Johan Nikles,Nikolas Sanchez Izquierdo,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Tunisia F25,3,Clay,QF,834,572,1,,2,Johan Nikles,Manuel Pena Lopez,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Tunisia F25,3,Clay,R16,834,912,1,,,Johan Nikles,Diego Hidalgo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Tunisia F25,3,Clay,R32,834,1374,1,,LL,Johan Nikles,Oscar Mancineiras Cornella,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Italy F13,3,Clay,F,1005,550,0,,6,Riccardo Bellotti,Johan Nikles,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Italy F13,3,Clay,SF,1005,381,1,,2,Johan Nikles,Hugo Grenier,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Italy F13,3,Clay,QF,1005,1065,1,,,Johan Nikles,Francesco Ferrari,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Italy F13,3,Clay,R16,1005,491,1,,4,Johan Nikles,Pascal Meis,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Italy F13,3,Clay,R32,1005,645,1,,,Johan Nikles,Vasile Antonescu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Bosnia &amp; Herzegovina F3,3,Clay,R32,1005,658,0,,7,Nik Razborsek,Johan Nikles,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Kazakhstan F5,3,Clay,R16,1016,1116,0,,,Vladimir Korolev,Johan Nikles,7-6(5) 6-7(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Kazakhstan F5,3,Clay,R32,1016,1565,1,,,Johan Nikles,Anton Chekhov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Kazakhstan F4,3,Clay,QF,1049,301,0,,2,Teymuraz Gabashvili,Johan Nikles,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Kazakhstan F4,3,Clay,R16,1049,678,1,,,Johan Nikles,Ilya Vasilyev,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Kazakhstan F4,3,Clay,R32,1049,842,1,,,Johan Nikles,Oleksander Byelinskyy,6-2 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Kazakhstan F3,3,Clay,R16,1057,359,0,,2,Dzmitry Zhyrmont,Johan Nikles,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,Kazakhstan F3,3,Clay,R32,1057,,1,,WC,Johan Nikles,Sundet Nagimetov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Portugal F5,3,Hard,R32,880,914,0,,WC,Tiago Cacao,Johan Nikles,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,R16,897,368,0,SE,5,Maximilian Neuchrist,Johan Nikles,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Portugal F4,3,Hard,R32,897,862,1,SE,,Johan Nikles,Francisco Cabral,0-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Portugal F3,3,Hard,R16,897,492,0,Q,,Pablo Vivero Gonzalez,Johan Nikles,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Portugal F3,3,Hard,R32,897,688,1,Q,,Johan Nikles,Gibril Diarra,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Egypt F4,3,Hard,R32,901,757,0,Q,,Christian Hirschmueller,Johan Nikles,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Israel F17,3,Hard,R16,938,281,0,,2,Edan Leshem,Johan Nikles,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,Israel F17,3,Hard,R32,938,919,1,,,Johan Nikles,Alon Elia,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Egypt F34,3,Hard,QF,943,551,0,,,Roman Safiullin,Johan Nikles,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Egypt F34,3,Hard,R16,943,439,1,,,Johan Nikles,Thomas Brechemier,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Egypt F34,3,Hard,R32,943,546,1,,,Johan Nikles,Romain Barbosa,0-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Egypt F33,3,Hard,R16,948,473,0,Q,,Pablo Vivero Gonzalez,Johan Nikles,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Egypt F33,3,Hard,R32,948,923,1,Q,,Johan Nikles,Wilfredo Gonzalez,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Egypt F32,3,Hard,R32,947,501,0,,3,Viktor Durasovic,Johan Nikles,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2017,Egypt F31,3,Hard,R32,927,574,0,,,Gijs Brouwer,Johan Nikles,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Switzerland F5,3,Clay,R16,692,452,0,,3,Corentin Denolly,Johan Nikles,1-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Switzerland F5,3,Clay,R32,692,1042,1,,,Johan Nikles,Vullnet Tashi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Switzerland F4,3,Clay,R32,691,897,0,,,Marc Andrea Huesler,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Switzerland F3,3,Clay,R32,691,840,0,7,,Raphael Baltensperger,Johan Nikles,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Poland F7,3,Clay,R32,667,1374,0,4,,Sergio Barranco,Johan Nikles,7-5 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Poland F6,3,Clay,R32,667,1412,0,2,Q,Adam Chadaj,Johan Nikles,6-0 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Japan F8,3,Carpet,R32,653,1015,0,1,,Arata Onozawa,Johan Nikles,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Japan F7,3,Hard,R32,662,612,0,,7,Naoki Nakagawa,Johan Nikles,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Japan F6,3,Clay,R32,662,737,0,8,,Sora Fukuda,Johan Nikles,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Spain F13,3,Clay,R16,635,533,0,,8,Orlando Luz,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Spain F13,3,Clay,R32,635,,1,,WC,Johan Nikles,Daniel Querol Cherigny,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Tunisia F17,3,Clay,R16,636,614,0,,6,Cristian Rodriguez,Johan Nikles,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Tunisia F17,3,Clay,R32,636,1859,1,,Q,Johan Nikles,Zizou Bergs,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R32,647,573,0,,,Hernan Casanova,Johan Nikles,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2017,Tunisia F14,3,Clay,R32,649,1044,0,,Q,Theo Fournerie,Johan Nikles,6-1 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Egypt F10,3,Hard,SF,688,858,0,,Q,Marek Gengel,Johan Nikles,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Egypt F10,3,Hard,QF,688,713,1,,,Johan Nikles,Julian Ocleppo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Egypt F10,3,Hard,R16,688,486,1,,4,Johan Nikles,Tomas Papik,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Egypt F10,3,Hard,R32,688,,1,,WC,Johan Nikles,Joshua Luck,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Egypt F9,3,Hard,QF,685,556,0,,,Artem Smirnov,Johan Nikles,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Egypt F9,3,Hard,R16,685,551,1,,,Johan Nikles,Fajing Sun,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Egypt F9,3,Hard,R32,685,333,1,,5,Johan Nikles,Vladyslav Manafov,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Egypt F8,3,Hard,R32,685,468,0,,5,Claudio Fortuna,Johan Nikles,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Switzerland F2,3,Carpet,R32,690,1097,0,WC,Q,Riccardo Maiga,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R32,690,402,0,WC,,Edan Leshem,Johan Nikles,7-5 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,France F3,3,Carpet,R32,693,1389,0,,WC,Maxence Beauge,Johan Nikles,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Greece F10,3,Hard,R16,699,396,0,,3,Tomislav Brkic,Johan Nikles,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Greece F10,3,Hard,R32,699,2049,1,,LL,Johan Nikles,Delf Gohlke,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Greece F9,3,Hard,R16,663,442,0,,5,Jesse Huta Galung,Johan Nikles,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Greece F9,3,Hard,R32,663,1049,1,,Q,Johan Nikles,Domagoj Biljesko,2-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Greece F8,3,Hard,R32,653,479,0,,5,Mate Delic,Johan Nikles,2-6 7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Basel,3,Hard,Q1,654,98,0,ALT,7,Ryan Harrison,Johan Nikles,6-1 6-2,0.64,0.0%,8.2%,52.5%,37.5%,51.7%,11/16,40.4%,35.4%,10.4%,22.6%,58.8%,1/1,109,0,5,61,32,29,5,0:54
+17-Oct-2016,Croatia F11,3,Clay,R16,654,274,0,,1,Riccardo Bellotti,Johan Nikles,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Croatia F11,3,Clay,R32,654,897,1,,Q,Johan Nikles,Paul Monteban,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Croatia F10,3,Clay,R32,666,797,0,,Q,Pietro Licciardi,Johan Nikles,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Croatia F9,3,Clay,R16,666,1551,0,,Q,Tim Van Terheijden,Johan Nikles,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Croatia F9,3,Clay,R32,666,453,1,,4,Johan Nikles,Mate Delic,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,F,890,537,1,,6,Johan Nikles,Antoine Bellier,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,SF,890,745,1,,,Johan Nikles,Julian Ocleppo,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,QF,890,280,1,,1,Johan Nikles,Tomas Lipovsek Puches,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,R16,890,656,1,,7,Johan Nikles,Mauricio Echazu,6-4 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Switzerland F5,3,Clay,R32,890,940,1,,,Johan Nikles,Vullnet Tashi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,QF,849,696,0,,,Gibril Diarra,Johan Nikles,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,R16,849,,1,,Q,Johan Nikles,Damien Wenger,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Switzerland F4,3,Clay,R32,849,418,1,,3,Johan Nikles,Hugo Nys,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2016,Switzerland F3,3,Clay,R32,848,543,0,,5,Antoine Bellier,Johan Nikles,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Serbia F2,3,Clay,QF,875,468,0,,2,Pawel Cias,Johan Nikles,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Serbia F2,3,Clay,R16,875,1062,1,,,Johan Nikles,Borna Gojo,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Serbia F2,3,Clay,R32,875,840,1,,,Johan Nikles,Florent Diep,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Gstaad,3,Clay,R32,874,66,0,WC,7,Mikhail Youzhny,Johan Nikles,6-3 6-2,0.55,1.5%,7.7%,55.4%,61.1%,41.4%,7/11,41.4%,26.1%,2.2%,17.4%,34.8%,0/3,111,1,5,65,36,29,1,1:12
+27-Jun-2016,Romania F8,3,Clay,R32,871,429,0,,4,Vladyslav Manafov,Johan Nikles,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Romania F5,3,Clay,QF,930,398,0,,2,Vaclav Safranek,Johan Nikles,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Romania F5,3,Clay,R16,930,1039,1,,WC,Johan Nikles,Bogdan Borza,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Romania F5,3,Clay,R32,930,524,1,,5,Johan Nikles,Antoine Bellier,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Geneva,3,Clay,Q2,1069,310,0,WC,,Roberto Ortega Olmedo,Johan Nikles,6-2 7-6(6),0.84,0.0%,8.6%,63.8%,56.8%,52.4%,0/4,45.7%,37.7%,0.0%,38.1%,37.0%,2/4,127,0,5,58,37,21,0,1:18
+16-May-2016,Geneva,3,Clay,Q1,1069,304,1,WC,8,Johan Nikles,Nicolas Barrientos,2-6 6-2 6-3,1.18,1.3%,4.0%,70.7%,69.8%,40.9%,4/8,52.7%,45.7%,0.0%,41.8%,56.0%,5/11,167,1,3,75,53,22,0,
+2-May-2016,Turkey F18,3,Hard,R32,1034,1389,0,,Q,Thomas Statzberger,Johan Nikles,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Turkey F17,3,Hard,R32,1034,283,0,,1,Alessandro Bega,Johan Nikles,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Portugal F3,3,Hard,R32,1010,287,0,Q,2,Aleksandre Metreveli,Johan Nikles,2-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,Portugal F2,3,Hard,R16,1007,481,0,Q,,Joao Domingues,Johan Nikles,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,Portugal F2,3,Hard,R32,1007,631,1,Q,,Johan Nikles,Wilson Leite,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2016,Switzerland F1,3,Carpet,R32,1004,242,0,WC,2,Uladzimir Ignatik,Johan Nikles,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,France F3,3,Carpet,R32,996,921,0,Q,Q,Simeon Rossier,Johan Nikles,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Qatar F5,3,Hard,R32,995,890,0,Q,,Jonny Omara,Johan Nikles,7-6(5) 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Qatar F4,3,Hard,R32,995,1716,0,Q,Q,Ryota Kishi,Johan Nikles,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Greece F9,3,Hard,R16,1265,382,0,Q,2,Ricardo Rodriguez,Johan Nikles,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Greece F9,3,Hard,R32,1265,,1,Q,WC,Johan Nikles,Efstathios Tsiranidis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Switzerland F3,3,Clay,QF,1070,325,0,,1,Nikola Milojevic,Johan Nikles,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Switzerland F3,3,Clay,R16,1070,644,1,,6,Johan Nikles,Marcos Giraldi Requena,1-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Switzerland F3,3,Clay,R32,1070,,1,,Q,Johan Nikles,Noel Kunz,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Turkey F25,3,Hard,R32,1078,1435,0,Q,Q,Andrew Watson,Johan Nikles,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Turkey F24,3,Hard,R32,1080,1751,0,,Q,Bradley Mousley,Johan Nikles,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Portugal F4,3,Clay,R16,1111,615,0,,4,Bruno Santanna,Johan Nikles,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Portugal F4,3,Clay,R32,1111,1385,1,,,Johan Nikles,Goncalo Falcao,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Switzerland F2,3,Carpet,R16,1191,686,0,WC,8,Pirmin Haenle,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Switzerland F2,3,Carpet,R32,1191,932,1,WC,,Johan Nikles,Vadym Ursu,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Switzerland F1,3,Carpet,R16,1191,295,0,WC,1,Yann Marti,Johan Nikles,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Switzerland F1,3,Carpet,R32,1191,815,1,WC,,Johan Nikles,Bastian Wagner,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Switzerland F5,3,Clay,R32,,841,0,WC,,Jorge Montero,Johan Nikles,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Switzerland F4,3,Clay,SF,,719,0,WC,,Elie Rousset,Johan Nikles,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Switzerland F4,3,Clay,QF,,1088,1,WC,,Johan Nikles,Loic Perret,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Switzerland F4,3,Clay,R16,,1280,1,WC,WC,Johan Nikles,Jacob Kahoun,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Switzerland F4,3,Clay,R32,,431,1,WC,1,Johan Nikles,Erik Crepaldi,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Switzerland F3,3,Clay,R32,,794,0,WC,,Antoine Hoang,Johan Nikles,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Switzerland F4,3,Clay,R32,,399,0,WC,1,Alessandro Bega,Johan Nikles,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,479 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Nov-2022,Calgary CH,3,Hard,R32,386,165,0,,4,Aleksandar Vukic,Benjamin Lock,6-2 6-1,0.38,4.8%,11.9%,69.0%,55.2%,30.8%,2/6,34.1%,20.0%,27.5%,10.0%,50.0%,0/0,82,2,5,42,29,13,11,0:53
+24-Oct-2022,Las Vegas CH,3,Hard,Q1,382,543,0,3,WC,Alfredo Perez,Benjamin Lock,6-3 6-4,0.77,6.6%,3.3%,67.2%,61.0%,60.0%,5/7,45.2%,30.2%,27.0%,16.7%,57.1%,0/6,124,4,2,61,41,20,17,1:27
+17-Oct-2022,Ambato CH,3,Clay,R16,386,245,0,,7,Miljan Zekic,Benjamin Lock,6-3 6-4,0.81,8.2%,2.0%,69.4%,64.7%,40.0%,1/4,43.8%,34.7%,13.9%,27.3%,46.4%,1/5,121,4,1,49,34,15,10,1:28
+17-Oct-2022,Ambato CH,3,Clay,R32,386,321,1,,,Benjamin Lock,Facundo Juarez,6-4 7-5,1.65,14.3%,0.0%,61.9%,87.2%,62.5%,5/5,56.0%,36.6%,4.2%,33.9%,46.7%,2/2,134,9,0,63,39,24,3,1:32
+10-Oct-2022,Fairfield CH,3,Hard,R32,389,333,0,,,Evan Zhu,Benjamin Lock,6-3 6-4,0.62,0.0%,13.2%,60.4%,68.8%,42.9%,1/4,41.4%,25.9%,8.6%,26.2%,25.0%,1/4,111,0,7,53,32,21,5,1:17
+3-Oct-2022,Tiburon CH,3,Hard,R32,388,132,0,Alt,3,Michael Mmoh,Benjamin Lock,6-1 6-3,0.41,1.9%,1.9%,60.4%,56.3%,42.9%,7/11,37.6%,20.0%,5.0%,13.8%,36.4%,0/0,93,1,1,53,32,21,2,1:16
+26-Sep-2022,M25 Ibague,3,Clay,QF,373,1616,0,2,Q,Davide Pontoglio,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,M25 Ibague,3,Clay,R16,373,1048,1,2,,Benjamin Lock,Mateo Gomez,6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,M25 Ibague,3,Clay,R32,373,908,1,2,,Benjamin Lock,Alejandro Mendoza,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2022,Columbus CH,3,Hard,R16,383,126,0,,3,Dominic Stricker,Benjamin Lock,6-3 6-2,0.57,10.4%,0.0%,70.8%,61.8%,28.6%,1/5,39.6%,27.1%,14.6%,33.3%,16.7%,1/3,96,5,0,48,34,14,7,1:08
+19-Sep-2022,Columbus CH,3,Hard,R32,383,320,1,,,Benjamin Lock,Evan Zhu,3-6 6-1 7-6(7),1.37,6.7%,3.4%,71.9%,79.7%,52.0%,7/9,53.2%,38.6%,9.6%,34.7%,46.2%,3/11,203,6,3,89,64,25,11,2:24
+12-Sep-2022,Istanbul CH,3,Hard,R32,380,288,0,,,Robin Haase,Benjamin Lock,6-3 6-2,0.41,3.8%,1.9%,61.5%,62.5%,35.0%,0/4,37.6%,19.5%,14.6%,14.3%,30.8%,0/1,93,2,1,52,32,20,6,1:01
+5-Sep-2022,Nonthaburi 3 CH,3,Hard,R32,365,305,0,,4,Billy Harris,Benjamin Lock,6-3 7-6(4),0.62,10.8%,0.0%,70.8%,69.6%,57.9%,4/6,45.1%,21.1%,22.8%,13.9%,33.3%,1/1,122,7,0,65,46,19,13,1:40
+29-Aug-2022,Nonthaburi 2 CH,3,Hard,R32,365,331,0,,,Evgeny Donskoy,Benjamin Lock,7-5 6-3,0.82,6.7%,0.0%,75.0%,64.4%,60.0%,4/7,46.7%,30.0%,6.7%,25.6%,38.1%,1/3,120,4,0,60,45,15,4,1:32
+22-Aug-2022,Nonthaburi 1 CH,3,Hard,R32,360,318,0,,7,Nicola Kuhn,Benjamin Lock,7-5 6-3,0.50,7.7%,3.1%,72.3%,74.5%,33.3%,4/6,42.9%,18.5%,13.0%,14.7%,25.0%,0/0,119,5,2,65,47,18,7,1:33
+25-Jul-2022,El Espinar CH,3,Hard,QF,418,105,0,Q,2,Constant Lestienne,Benjamin Lock,7-6(8) 4-6 6-3,0.98,5.4%,1.8%,58.6%,67.7%,37.0%,3/10,50.0%,44.3%,7.2%,28.1%,67.5%,6/12,208,6,2,111,65,46,7,2:50
+25-Jul-2022,El Espinar CH,3,Hard,R16,418,306,1,Q,Alt,Benjamin Lock,Illya Marchenko,7-6(6) 2-6 6-3,1.13,11.9%,1.2%,65.5%,72.7%,55.2%,1/4,51.4%,37.6%,9.7%,31.3%,44.4%,2/5,177,10,1,84,55,29,9,2:35
+25-Jul-2022,El Espinar CH,3,Hard,R32,418,209,1,Q,6,Benjamin Lock,Altug Celikbilek,6-0 6-2,1.73,5.5%,0.0%,72.7%,65.0%,53.3%,1/2,63.6%,65.9%,2.3%,45.0%,83.3%,6/8,99,3,0,55,40,15,1,1:04
+25-Jul-2022,El Espinar CH,3,Hard,Q2,418,360,1,11,4,Benjamin Lock,Kenny De Schepper,5-7 6-3 6-4,1.05,2.3%,2.3%,65.5%,68.4%,53.3%,4/7,50.6%,38.5%,7.7%,26.8%,57.1%,5/8,178,2,2,87,57,30,7,2:15
+25-Jul-2022,El Espinar CH,3,Hard,Q1,418,478,1,11,Alt,Benjamin Lock,Dominik Palan,3-6 6-3 7-6(7),1.24,6.0%,1.2%,71.4%,78.3%,75.0%,1/2,52.0%,28.1%,16.9%,16.7%,41.5%,1/2,173,5,1,84,60,24,15,2:09
+18-Jul-2022,Nur-Sultan CH,3,Hard,QF,446,151,0,,1,Roman Safiullin,Benjamin Lock,6-2 6-3,0.64,10.0%,1.7%,68.3%,68.3%,36.8%,5/8,43.1%,26.8%,10.7%,10.0%,46.2%,0/2,116,6,1,60,41,19,6,1:18
+18-Jul-2022,Nur-Sultan CH,3,Hard,R16,446,,1,,Q,Benjamin Lock,Jisung Nam,6-2 6-1,2.20,13.2%,2.6%,63.2%,87.5%,57.1%,1/1,63.1%,52.2%,4.3%,38.1%,64.0%,5/6,84,5,1,38,24,14,2,1:03
+18-Jul-2022,Nur-Sultan CH,3,Hard,R32,446,407,1,,,Benjamin Lock,Sergey Fomin,6-4 6-1,1.95,21.2%,0.0%,63.5%,84.8%,63.2%,1/1,61.2%,45.1%,3.9%,40.7%,50.0%,3/5,103,11,0,52,33,19,2,1:11
+11-Jul-2022,M25 Nur-Sultan,3,Hard,R32,449,1108,0,7,Q,Zura Tkemaladze,Benjamin Lock,7-6(7) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25+H Ajaccio,3,Hard,QF,448,326,0,5,3,Dan Added,Benjamin Lock,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25+H Ajaccio,3,Hard,R16,448,1079,1,5,WC,Benjamin Lock,Lisandru Rodriguez,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,M25+H Ajaccio,3,Hard,R32,448,766,1,5,,Benjamin Lock,Olukayode Alafia Damina Ayeni,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M25 Mungia,3,Clay,R32,448,706,0,3,Q,Matyas Fuele,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,SF,448,730,0,1,,Manuel Mazza,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,QF,448,678,1,1,,Benjamin Lock,Davide Galoppini,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,R16,448,,1,1,,Benjamin Lock,Federico Bondioli,3-6 7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M15 Frascati,3,Clay,R32,448,866,1,1,,Benjamin Lock,Ethan Quinn,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M15 Oran,3,Clay,SF,440,,0,1,4,Rayan Ghedjemis,Benjamin Lock,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M15 Oran,3,Clay,QF,440,1694,1,1,,Benjamin Lock,Mehdi Sadaoui,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M15 Oran,3,Clay,R16,440,1816,1,1,,Benjamin Lock,Toufik Sahtali,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,M15 Oran,3,Clay,R32,440,,1,1,WC,Benjamin Lock,Khalil Adel Radjaa,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M15 Oran,3,Clay,QF,436,858,0,2,5,Mirko Martinez,Benjamin Lock,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M15 Oran,3,Clay,R16,436,,1,2,Q,Benjamin Lock,Jagmeet Singh,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M15 Oran,3,Clay,R32,436,,1,2,Q,Benjamin Lock,Mohammed Yenni Kichou,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2022,M25 Santa Margherita di Pula,3,Clay,R32,438,1599,0,3,Q,Daniel Bagnolini,Benjamin Lock,6-2 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,Cuernavaca CH,3,Hard,R16,461,448,0,Q,,Adrian Menendez Maceiras,Benjamin Lock,6-2 6-3,0.49,15.9%,6.8%,65.9%,79.3%,20.0%,3/6,39.3%,20.0%,8.9%,10.7%,35.3%,0/0,89,7,3,44,29,15,4,1:15
+25-Apr-2022,Cuernavaca CH,3,Hard,R32,461,370,1,Q,,Benjamin Lock,Skander Mansouri,6-4 6-2,1.73,4.2%,0.0%,62.5%,76.7%,77.8%,1/1,56.6%,39.7%,13.8%,25.9%,51.6%,3/9,106,2,0,48,30,18,8,1:12
+25-Apr-2022,Cuernavaca CH,3,Hard,Q2,461,476,1,,,Benjamin Lock,Matias Franco Descotte,6-1 6-4,1.88,8.5%,2.1%,61.7%,79.3%,66.7%,1/2,60.6%,48.1%,9.6%,44.4%,56.3%,4/8,99,4,1,47,29,18,5,1:20
+25-Apr-2022,Cuernavaca CH,3,Hard,Q1,461,386,1,,3,Benjamin Lock,Valentin Vacherot,7-5 6-7(2) 6-3,1.14,7.3%,4.2%,62.5%,73.3%,58.3%,2/4,51.5%,36.8%,6.6%,28.0%,58.1%,4/9,202,7,4,96,60,36,7,2:27
+4-Apr-2022,Salinas CH,3,Hard,Q2,460,428,0,7,1,Sho Shimabukuro,Benjamin Lock,6-4 6-2,0.52,9.8%,1.6%,82.0%,56.0%,72.7%,7/10,42.6%,21.3%,8.5%,14.3%,31.6%,0/0,108,6,1,61,50,11,4,1:17
+21-Mar-2022,M25 Medellin,3,Clay,F,539,391,1,,4,Benjamin Lock,Oliver Crawford,7-6(3) 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Medellin,3,Clay,SF,539,564,1,,,Benjamin Lock,Evan Zhu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Medellin,3,Clay,QF,539,586,1,,,Benjamin Lock,Felix Corwin,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Medellin,3,Clay,R16,539,538,1,,,Benjamin Lock,Pol Toledo Bague,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M25 Medellin,3,Clay,R32,539,1187,1,,WC,Benjamin Lock,Nicolas Buitrago,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R16,518,451,0,,5,Alejandro Gonzalez,Benjamin Lock,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R32,518,722,1,,,Benjamin Lock,Ricardo Rodriguez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,Pau CH,3,Hard,Q1,510,282,0,Alt,5,Antoine Escoffier,Benjamin Lock,6-2 6-1,0.51,3.9%,2.0%,66.7%,52.9%,35.3%,5/9,37.4%,27.1%,10.4%,14.3%,37.0%,0/1,99,2,1,51,34,17,5,1:07
+7-Feb-2022,Cherbourg CH,3,Hard,Q2,507,1014,0,Alt,WC,Jules Marie,Benjamin Lock,6-4 6-1,0.85,1.4%,0.0%,66.2%,46.8%,20.8%,8/16,44.3%,52.9%,5.9%,51.4%,56.3%,4/6,122,1,0,71,47,24,3,1:36
+7-Feb-2022,Cherbourg CH,3,Hard,Q1,507,318,1,Alt,11,Benjamin Lock,Adrian Menendez Maceiras,6-2 6-4,1.73,14.6%,0.0%,79.2%,84.2%,50.0%,0/0,58.3%,39.6%,2.1%,34.5%,47.4%,3/4,96,7,0,48,38,10,1,1:15
+24-Jan-2022,M15 Monastir,3,Hard,R16,491,713,0,3,,Omar Giacalone,Benjamin Lock,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M15 Monastir,3,Hard,R32,491,,1,3,WC,Benjamin Lock,Ali Habib,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M15 Monastir,3,Hard,SF,491,571,0,2,3,Valentin Vacherot,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M15 Monastir,3,Hard,QF,491,682,1,2,7,Benjamin Lock,Mattia Bellucci,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M15 Monastir,3,Hard,R16,491,912,1,2,SE,Benjamin Lock,Sebastian Gima,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,M15 Monastir,3,Hard,R32,491,879,1,2,,Benjamin Lock,Marko Topo,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M15 Cairo,3,Clay,QF,495,646,0,2,6,Andrey Chepelev,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M15 Cairo,3,Clay,R16,495,1259,1,2,,Benjamin Lock,Tomislav Jotovski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M15 Cairo,3,Clay,R32,495,1249,1,2,,Benjamin Lock,Romain Faucon,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2022,M15 Cairo,3,Clay,QF,498,801,0,1,6,Denys Klok,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2022,M15 Cairo,3,Clay,R16,498,,1,1,Q,Benjamin Lock,Lorenzo Favero,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2022,M15 Cairo,3,Clay,R32,498,2150,1,1,Q,Benjamin Lock,Ivan Denisov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2021,Forli 3 CH,3,Hard,R32,494,661,0,,Q,Daniele Capecchi,Benjamin Lock,6-3 6-1,0.71,2.3%,4.5%,59.1%,38.5%,38.9%,1/7,41.4%,43.6%,14.5%,31.4%,65.0%,2/6,99,1,2,44,26,18,8,1:10
+26-Nov-2021,Davis Cup WG2 PO: TUN vs ZIM,3,Clay,RR,490,331,0,,,Aziz Dougaz,Benjamin Lock,2-6 7-6(6) 7-5,1.07,2.8%,0.9%,69.7%,61.8%,54.5%,9/14,51.1%,43.3%,3.3%,38.2%,50.0%,6/15,229,3,1,109,76,33,4,3:09
+15-Nov-2021,Pau CH,3,Hard,Q2,487,402,0,Alt,6,Sebastian Fanselow,Benjamin Lock,6-4 6-2,0.87,4.8%,3.2%,63.5%,72.5%,30.4%,3/7,47.2%,37.1%,11.3%,23.3%,50.0%,1/3,125,3,2,63,40,23,7,1:32
+15-Nov-2021,Pau CH,3,Hard,Q1,487,354,1,Alt,3,Benjamin Lock,Alexis Gautier,6-3 6-4,1.40,0.0%,0.0%,57.4%,80.6%,56.5%,0/1,54.6%,41.5%,13.8%,26.3%,63.0%,3/10,119,0,0,54,31,23,9,1:16
+8-Nov-2021,Ortisei CH,3,Hard,Q1,480,297,0,,1,Lucas Miedler,Benjamin Lock,6-4 4-6 7-5,0.81,8.1%,0.9%,68.5%,69.7%,51.4%,5/7,48.5%,29.2%,19.1%,13.6%,60.0%,1/4,200,9,1,111,76,35,17,2:09
+1-Nov-2021,M15 Torello,3,Hard,QF,479,994,0,1,,John Echeverria,Benjamin Lock,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2021,M15 Torello,3,Hard,R16,479,1703,1,1,LL,Benjamin Lock,Pol Amoros Ramos,6-7(4) 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Nov-2021,M15 Torello,3,Hard,R32,479,1735,1,1,Q,Benjamin Lock,Joris Moret,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Nur-Sultan,3,Hard,R32,479,746,0,5,,Beibit Zhukayev,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2021,M25 Nur-Sultan,3,Hard,R32,474,555,0,6,,Sanjar Fayziev,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Kazan,3,Hard,QF,466,624,0,1,5,Alibek Kachmazov,Benjamin Lock,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Kazan,3,Hard,R16,466,921,1,1,,Benjamin Lock,Aleksandr Braynin,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Kazan,3,Hard,R32,466,2002,1,1,Q,Benjamin Lock,Daniel Litvinov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M25 Pretoria,3,Hard,R16,463,777,0,1,,Sebastian Prechtel,Benjamin Lock,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M25 Pretoria,3,Hard,R32,463,1698,1,1,WC,Benjamin Lock,Alec Beckley,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M25 Johannesburg Ellispark,3,Hard,SF,464,481,0,2,4,Michail Pervolarakis,Benjamin Lock,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M25 Johannesburg Ellispark,3,Hard,QF,464,792,1,2,,Benjamin Lock,Kyle Seelig,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M25 Johannesburg Ellispark,3,Hard,R16,464,746,1,2,,Benjamin Lock,Kelsey Stevenson,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M25 Johannesburg Ellispark,3,Hard,R32,464,2078,1,2,Q,Benjamin Lock,Rotem Sobol,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2021,M25 Johannesburg Markspark,3,Hard,QF,464,784,0,3,,Jeremy Beale,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2021,M25 Johannesburg Markspark,3,Hard,R16,464,931,1,3,,Benjamin Lock,Khololwam Montsi,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2021,M25 Johannesburg Markspark,3,Hard,R32,464,1300,1,3,Q,Benjamin Lock,Leonid Sheyngezikht,6-2 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Bagneres-De-Bigorre,3,Hard,QF,470,666,0,7,,Kenny De Schepper,Benjamin Lock,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Bagneres-De-Bigorre,3,Hard,R16,470,1850,1,7,Q,Benjamin Lock,Mikail Alimli ,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2021,M25 Bagneres-De-Bigorre,3,Hard,R32,470,1034,1,7,,Benjamin Lock,Pierre Delage,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2021,Prague 3 CH,3,Clay,Q1,467,378,0,,4,Oriol Roca Batalla,Benjamin Lock,3-6 7-5 6-3,0.86,6.3%,1.1%,69.5%,68.2%,37.9%,9/13,47.5%,35.2%,3.4%,28.6%,46.9%,3/9,183,6,1,95,66,29,3,2:24
+16-Aug-2021,M25 Muttenz,3,Clay,R32,466,1129,0,8,Q,Florent Bax,Benjamin Lock,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M15 Parnu,3,Clay,R16,470,1316,0,3,WC,Mattias Siimar,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2021,M15 Parnu,3,Clay,R32,470,784,1,3,,Benjamin Lock,Paul Woerner,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,Nur-Sultan 4 CH,3,Hard,R32,474,229,0,Q,2,Sergiy Stakhovsky,Benjamin Lock,6-3 3-6 7-5,1.08,5.9%,2.4%,64.7%,69.1%,56.7%,2/5,50.0%,38.1%,13.3%,27.6%,51.1%,2/10,190,5,2,85,55,30,14,2:11
+19-Jul-2021,Nur-Sultan 4 CH,3,Hard,Q2,474,398,1,5,1,Benjamin Lock,Ergi Kirkin,7-5 6-7(4) 6-3,1.16,6.5%,1.9%,60.7%,72.3%,54.8%,4/6,53.8%,40.2%,5.4%,31.4%,51.2%,4/6,199,7,2,107,65,42,5,2:29
+19-Jul-2021,Nur-Sultan 4 CH,3,Hard,Q1,474,,1,5,WC,Benjamin Lock,Danil Ozernoy,6-4 6-0,3.92,14.3%,0.0%,65.7%,87.0%,83.3%,1/2,67.0%,55.9%,1.7%,46.2%,75.0%,5/13,94,5,0,35,23,12,1,1:10
+12-Jul-2021,Nur-Sultan 3 CH,3,Hard,Q2,473,615,0,7,,Yan Bondarevskiy,Benjamin Lock,2-6 7-6(11) 6-2,1.02,11.7%,5.3%,61.7%,72.4%,30.6%,2/7,50.3%,44.6%,2.0%,36.9%,58.3%,5/15,195,11,5,94,58,36,2,2:46
+12-Jul-2021,Nur-Sultan 3 CH,3,Hard,Q1,473,529,1,7,,Benjamin Lock,Vladyslav Manafov,7-6(3) 6-3,1.06,12.7%,3.8%,55.7%,70.5%,57.1%,3/4,52.9%,37.7%,13.1%,17.9%,54.5%,2/5,140,10,3,79,44,35,8,1:42
+5-Jul-2021,M25 Nur-Sultan,3,Hard,R32,459,530,0,,,Vladyslav Manafov,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M15 Bergamo,3,Clay,R32,453,594,0,5,,Daniele Capecchi,Benjamin Lock,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,Forli CH,3,Clay,Q1,463,411,0,,6,Francesco Forti,Benjamin Lock,2-6 6-1 6-4,0.87,1.5%,4.6%,64.6%,61.9%,65.2%,1/4,46.7%,31.9%,12.5%,28.3%,42.1%,2/4,137,1,3,65,42,23,9,1:43
+7-Jun-2021,M15 Gaiba,3,Grass,F,460,578,0,5,,Mats Rosenkranz,Benjamin Lock,7-6(11) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Gaiba,3,Grass,SF,460,513,1,5,,Benjamin Lock,Antoine Bellier,7-6(7) 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Gaiba,3,Grass,QF,460,425,1,5,2,Benjamin Lock,Tobias Simon,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Gaiba,3,Grass,R16,460,919,1,5,,Benjamin Lock,Luciano Darderi,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Gaiba,3,Grass,R32,460,1541,1,5,WC,Benjamin Lock,Luigi Castelletti,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Tbilisi,3,Hard,QF,466,1704,0,3,Q,Christian Sigsgaard,Benjamin Lock,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Tbilisi,3,Hard,R16,466,761,1,3,,Benjamin Lock,Markos Kalovelonis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Tbilisi,3,Hard,R32,466,1122,1,3,Q,Benjamin Lock,Aliaksandr Liaonenka,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Monastir,3,Hard,R16,468,1082,0,4,Q,Mattia Frinzi,Benjamin Lock,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Monastir,3,Hard,R32,468,,1,4,WC,Benjamin Lock,Bruno Nhavene,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Monastir,3,Hard,R16,459,1866,0,7,,Gustavo Heide,Benjamin Lock,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Monastir,3,Hard,R32,459,1031,1,7,Q,Benjamin Lock,Yuta Kawahashi,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,Salinas 2 CH,3,Hard,Q2,462,397,0,7,3,Facundo Diaz Acosta,Benjamin Lock,6-1 6-2,0.61,0.0%,0.0%,61.9%,57.7%,31.3%,3/7,38.1%,31.7%,7.9%,25.0%,40.7%,0/6,105,0,0,42,26,16,5,1:24
+26-Apr-2021,Salinas 2 CH,3,Hard,Q1,462,542,1,7,WC,Benjamin Lock,Jorge Brian Panta Herreros,6-4 7-6(3),1.41,13.6%,1.5%,71.2%,80.9%,63.2%,5/5,53.1%,34.2%,5.1%,30.8%,40.7%,1/8,145,9,1,66,47,19,4,2:10
+19-Apr-2021,Salinas 1 CH,3,Hard,Q1,456,484,0,5,,Mathieu Perchicot,Benjamin Lock,6-4 0-6 6-4,1.08,7.5%,1.3%,72.5%,69.0%,40.9%,3/6,50.9%,41.8%,2.2%,34.5%,54.5%,4/14,171,6,1,80,58,22,2,2:17
+29-Mar-2021,M15 Monastir,3,Hard,R32,454,630,0,3,,Evan Zhu,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Monastir,3,Hard,R16,454,602,0,5,,Christian Langmo,Benjamin Lock,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Monastir,3,Hard,R32,454,,1,5,WC,Benjamin Lock,Alex Ganchev,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2021,Potchefstroom 2 CH,3,Hard,Q2,446,308,0,,2,Lucas Miedler,Benjamin Lock,6-7(4) 7-5 6-2,0.83,3.7%,4.6%,70.4%,67.1%,43.8%,5/10,46.9%,33.0%,13.6%,27.0%,42.5%,2/7,211,4,5,108,76,32,14,2:32
+14-Feb-2021,Potchefstroom 2 CH,3,Hard,Q1,446,342,1,,6,Benjamin Lock,Vaclav Safranek,7-6(7) 6-4,1.13,12.6%,1.1%,60.9%,77.4%,55.9%,4/4,53.0%,35.1%,9.1%,25.5%,59.1%,1/7,164,11,1,87,53,34,7,1:55
+7-Feb-2021,Potchefstroom 1 CH,3,Hard,Q1,446,342,0,,8,Vaclav Safranek,Benjamin Lock,6-4 6-3,0.86,13.0%,9.3%,55.6%,76.7%,41.7%,1/5,46.5%,33.3%,6.7%,19.0%,66.7%,1/5,114,7,5,54,30,24,4,1:15
+4-Jan-2021,Delray Beach,3,Hard,Q1,439,304,0,Alt,7,Kevin King,Benjamin Lock,6-2 6-3,0.73,2.0%,4.0%,66.0%,72.7%,23.5%,1/5,43.7%,32.1%,3.8%,17.9%,71.4%,1/5,103,1,2,50,33,17,2,1:08
+4-Jan-2021,Delray Beach,3,Hard,Q1,439,304,0,Alt,7,Kevin King,Benjamin Lock,6-2 6-3,0.73,2.0%,4.0%,66.0%,72.7%,23.5%,1/5,43.7%,32.1%,3.8%,17.9%,71.4%,1/5,103,1,2,50,33,17,2,1:08
+23-Nov-2020,Sao Paulo CH,3,Clay,R32,436,306,0,LL,,Felipe Meligeni Alves,Benjamin Lock,6-4 6-1,0.53,3.5%,3.5%,54.4%,51.6%,46.2%,1/6,39.8%,26.8%,9.8%,30.4%,22.2%,1/1,98,2,2,57,31,26,4,1:14
+23-Nov-2020,Sao Paulo CH,3,Clay,Q2,436,574,0,4,8,Joao Lucas Reis Da Silva,Benjamin Lock,6-1 6-4,0.74,6.3%,4.2%,50.0%,66.7%,41.7%,1/4,42.5%,33.8%,1.5%,28.6%,40.0%,0/3,113,3,2,48,24,24,1,1:32
+23-Nov-2020,Sao Paulo CH,3,Clay,Q1,436,1539,1,4,,Benjamin Lock,Joao Marcos Nusdeo,7-5 6-1,1.83,20.4%,3.7%,57.4%,90.3%,56.5%,0/0,58.2%,44.1%,2.9%,25.0%,61.1%,3/10,122,11,2,54,31,23,2,1:34
+19-Oct-2020,M15 Sharm El Sheikh,3,Hard,R32,427,616,0,4,WC,Jose Fco Vidal Azorin,Benjamin Lock,6-3 6-7(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2020,M15 Sharm El Sheikh,3,Hard,R32,424,547,0,3,,Alexandar Lazarov,Benjamin Lock,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,Sibiu CH,3,Clay,Q2,418,449,0,3,6,Mathieu Perchicot,Benjamin Lock,6-3 6-3,0.68,2.4%,2.4%,68.7%,59.6%,42.3%,7/10,44.4%,31.1%,0.0%,28.9%,34.8%,0/7,144,2,2,83,57,26,0,1:43
+21-Sep-2020,Sibiu CH,3,Clay,Q1,418,,1,3,WC,Benjamin Lock,Vlad Andrei Dumitru,6-3 6-0,1.96,5.1%,0.0%,74.4%,69.0%,50.0%,1/3,67.4%,70.2%,0.0%,71.0%,68.8%,7/7,86,2,0,39,29,10,0,1:00
+14-Sep-2020,M15 Sintra,3,Hard,R32,419,935,0,2,WC,Joao Monteiro,Benjamin Lock,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Sintra,3,Hard,R32,417,,0,5,WC,Leonardo Civita Telles,Benjamin Lock,6-3 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,Potchefstroom CH,3,Hard,R16,433,287,1,,8,Benjamin Lock,Lorenzo Musetti,7-5 7-5,1.29,7.0%,0.0%,59.2%,73.8%,55.2%,2/4,53.8%,43.5%,4.7%,32.0%,60.0%,4/8,156,5,0,71,42,29,4,1:40
+9-Mar-2020,Potchefstroom CH,3,Hard,R32,433,784,1,,Q,Benjamin Lock,Sebastian Prechtel,7-6(4) 6-1,1.46,6.1%,0.0%,68.2%,66.7%,76.2%,6/7,56.7%,44.1%,7.4%,35.9%,55.2%,3/8,134,4,0,66,45,21,5,1:26
+6-Mar-2020,Davis Cup WG2 PO: SYR vs ZIM,3,Hard,RR,430,,1,,,Benjamin Lock,Amer Naow,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2020,Davis Cup WG2 PO: SYR vs ZIM,3,Hard,RR,430,,1,,,Benjamin Lock,Hazem Naw,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,Calgary CH,3,Hard,R32,436,271,0,,14,Geoffrey Blancaneaux,Benjamin Lock,6-2 6-0,0.52,5.1%,5.1%,64.1%,52.0%,28.6%,3/8,36.1%,29.5%,18.2%,22.2%,41.2%,0/1,83,2,2,39,25,14,8,0:53
+24-Feb-2020,Calgary CH,3,Hard,R64,436,437,1,,,Benjamin Lock,Sho Shimabukuro,6-4 6-7(5) 6-2,1.30,14.3%,4.1%,75.5%,78.4%,41.7%,5/6,54.6%,39.8%,10.2%,30.3%,59.4%,4/13,196,14,4,98,74,24,10,2:03
+17-Feb-2020,Cuernavaca CH,3,Hard,R32,443,266,0,,13,Roberto Quiroz,Benjamin Lock,6-2 5-7 6-1,0.70,1.1%,2.3%,80.5%,58.6%,29.4%,5/10,43.2%,32.9%,6.1%,19.6%,50.0%,2/6,169,1,2,87,70,17,5,1:55
+17-Feb-2020,Cuernavaca CH,3,Hard,R64,443,409,1,,,Benjamin Lock,Agustin Velotti,6-3 6-2,1.34,8.3%,6.9%,63.9%,78.3%,46.2%,5/5,56.9%,44.8%,8.6%,42.9%,46.7%,3/7,130,6,5,72,46,26,5,1:31
+10-Feb-2020,M25 Naples FL,3,Clay,R16,440,636,0,,LL,Filip Bergevi,Benjamin Lock,4-6 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Naples FL,3,Clay,R32,440,,1,,WC,Benjamin Lock,John Bernard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,Launceston CH,3,Hard,R16,468,151,0,,2,Alex Bolt,Benjamin Lock,6-1 6-1,0.51,11.9%,4.8%,69.0%,51.7%,23.1%,0/5,35.6%,28.9%,8.9%,20.0%,46.7%,0/3,87,5,2,42,29,13,4,0:57
+3-Feb-2020,Launceston CH,3,Hard,R32,468,245,1,,14,Benjamin Lock,Julian Lenz,6-2 5-7 7-6(3),1.07,8.2%,2.7%,78.2%,67.4%,45.8%,7/10,51.4%,39.8%,6.5%,36.4%,48.4%,4/13,218,9,3,110,86,24,7,2:27
+3-Feb-2020,Launceston CH,3,Hard,R64,468,495,1,,,Benjamin Lock,Maverick Banes,6-2 7-6(8),1.23,7.5%,1.5%,82.1%,65.5%,50.0%,0/2,54.0%,45.7%,8.6%,39.1%,58.3%,4/8,137,5,1,67,55,12,6,1:36
+27-Jan-2020,Burnie CH,3,Hard,R32,487,156,0,,7,Nikola Milojevic,Benjamin Lock,6-1 6-4,0.49,0.0%,0.0%,63.5%,48.5%,47.4%,1/5,37.4%,25.5%,6.4%,10.0%,52.9%,1/4,99,0,0,52,33,19,3,1:10
+27-Jan-2020,Burnie CH,3,Hard,R64,487,1417,1,,Q,Benjamin Lock,Petros Tsitsipas,4-6 6-2 6-2,1.74,5.6%,1.4%,74.6%,71.7%,77.8%,2/4,58.4%,46.7%,7.8%,40.0%,53.3%,5/11,161,4,1,71,53,18,7,2:03
+6-Jan-2020,Ann Arbor CH,3,Hard,R64,483,495,0,,,Alexey Zakharov,Benjamin Lock,6-3 7-5,0.45,3.9%,3.9%,55.3%,73.8%,41.2%,6/8,42.3%,18.5%,27.8%,16.7%,22.2%,0/0,130,3,3,76,42,34,15,1:49
+25-Nov-2019,M15 Monastir,3,Hard,R16,443,718,0,2,,Nicolas Moreno De Alboran,Benjamin Lock,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Monastir,3,Hard,R32,443,610,1,2,,Benjamin Lock,Michal Dembek,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Monastir,3,Hard,R16,442,742,0,,,Daniele Capecchi,Benjamin Lock,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 Monastir,3,Hard,R32,442,1136,1,,Q,Benjamin Lock,Alejandro Garcia,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Maputo,3,Hard,SF,442,564,0,,,David Perez Sanz,Benjamin Lock,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Maputo,3,Hard,QF,442,1101,1,,,Benjamin Lock,Rishab Agarwal,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Maputo,3,Hard,R16,442,1700,1,,,Benjamin Lock,Dylan Salton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Maputo,3,Hard,R32,442,1081,1,,,Benjamin Lock,Jatin Dahiya,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Maputo,3,Hard,SF,442,561,0,,,David Perez Sanz,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Maputo,3,Hard,QF,442,722,1,,6,Benjamin Lock,Eric Vanshelboim,3-6 7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Maputo,3,Hard,R16,442,1799,1,,,Benjamin Lock,Sprithvi Sekhar,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Maputo,3,Hard,R32,442,,1,,WC,Benjamin Lock,Jossefa Elias,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Lagos,3,Hard,QF,434,558,0,2,,Calvin Hemery,Benjamin Lock,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Lagos,3,Hard,R16,434,1094,1,2,,Benjamin Lock,Dhruv Sunish,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Lagos,3,Hard,R32,434,903,1,2,,Benjamin Lock,Aryan Goveas,7-6(1) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,M25 Lagos,3,Hard,R32,437,1040,0,,,Mehluli Don Ayanda Sibanda,Benjamin Lock,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Pretoria,3,Hard,SF,466,801,0,,,Alexander Donski,Benjamin Lock,6-3 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Pretoria,3,Hard,QF,466,953,1,,7,Benjamin Lock,Marco Brugnerotto,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Pretoria,3,Hard,R16,466,,1,,Q,Benjamin Lock,Dylan Salton,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M15 Pretoria,3,Hard,R32,466,,1,,WC,Benjamin Lock,Thabo Ncube,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Johannesburg,3,Hard,F,464,791,1,,4,Benjamin Lock,Alexander Donski,6-7(5) 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Johannesburg,3,Hard,SF,464,622,1,,,Benjamin Lock,Takanyi Garanganga,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Johannesburg,3,Hard,QF,464,,1,,,Benjamin Lock,Terence Atmane,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Johannesburg,3,Hard,R16,464,,1,,Q,Benjamin Lock,Claudio Grassi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Johannesburg,3,Hard,R32,464,,1,,Q,Benjamin Lock,Alec Beckley,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M15 Tabarka,3,Clay,R16,487,881,0,,,Anas Fattar,Benjamin Lock,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,M15 Tabarka,3,Clay,R32,487,,1,,Q,Benjamin Lock,Leonardo Catani,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,F,490,457,0,3,,Tomas Martin Etcheverry,Benjamin Lock,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,SF,490,,1,3,JR   ,Benjamin Lock,Mateus Alves,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,QF,490,680,1,3,,Benjamin Lock,Tomas Lipovsek Puches,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,R16,490,724,1,3,,Benjamin Lock,Luca Prevosto,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2019,M15 Tabarka,3,Clay,R32,490,1177,1,3,,Benjamin Lock,Anis Ghorbel,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,Yokkaichi CH,3,Hard,R64,461,597,0,ITF,,Matthew Christopher Romios,Benjamin Lock,6-7(4) 6-2 6-2,0.93,3.5%,4.7%,53.5%,84.8%,32.5%,4/9,47.4%,36.8%,5.7%,35.9%,38.1%,1/7,192,3,4,86,46,40,6,2:34
+29-Jul-2019,Chengdu CH,3,Hard,R64,551,401,0,,,Harry Bourchier,Benjamin Lock,6-2 6-2,0.39,1.7%,5.2%,60.3%,60.0%,34.8%,4/8,37.4%,19.5%,14.6%,13.0%,27.8%,0/0,99,1,3,58,35,23,6,1:11
+22-Jul-2019,M25 Taipei,3,Hard,R16,556,381,0,,2,Renta Tokuda,Benjamin Lock,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2019,M25 Taipei,3,Hard,R32,556,,1,,,Benjamin Lock,Shao Fan Liu,6-3 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2019,Nur-Sultan CH,3,Hard,Q1,558,531,0,,2,Vladyslav Manafov,Benjamin Lock,7-6(4) 6-4,0.88,16.4%,9.8%,59.0%,83.3%,48.0%,0/1,47.2%,27.3%,10.6%,20.0%,35.5%,0/0,127,10,6,61,36,25,7,1:25
+8-Jul-2019,M25 Ajaccio,3,Hard,QF,560,568,0,,,Agustin Velotti,Benjamin Lock,7-6(2) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,R16,560,,1,,Q,Benjamin Lock,Hugo Pontico,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jul-2019,M25 Ajaccio,3,Hard,R32,560,,1,,,Benjamin Lock,Ugo Blanchet,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Harare,3,Hard,F,559,459,1,2,,Benjamin Lock,Takanyi Garanganga,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Harare,3,Hard,SF,559,561,1,2,3,Benjamin Lock,Lucas Catarina,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Harare,3,Hard,QF,559,,1,2,,Benjamin Lock,Hamid Reza Nadaf,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Harare,3,Hard,R16,559,,1,2,,Benjamin Lock,Michael John Every,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Harare,3,Hard,R32,559,,1,2,,Benjamin Lock,Niklas Johansson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Harare,3,Hard,QF,560,,0,2,Q,Martin Beran,Benjamin Lock,6-3 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Harare,3,Hard,R16,560,,1,2,WC,Benjamin Lock,Muzingaye Dickson Andile Sibanda,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Harare,3,Hard,R32,560,,1,2,,Benjamin Lock,Anurag Nenwani,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M15 Akko,3,Hard,QF,560,,0,2,,Yshai Oliel,Benjamin Lock,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M15 Akko,3,Hard,R16,560,,1,2,,Benjamin Lock,Gilad Tamar,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M15 Akko,3,Hard,R32,560,,1,2,,Benjamin Lock,Or Ram Harel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,Prostejov CH,3,Clay,R64,548,364,0,Alt,,Johannes Haerteis,Benjamin Lock,2-6 6-2 6-3,0.83,4.3%,4.3%,58.0%,55.0%,48.3%,5/10,45.4%,39.8%,3.6%,37.5%,44.4%,4/6,152,3,3,69,40,29,3,1:48
+27-May-2019,M25 Gyula,3,Clay,R32,548,,0,,WC,Gabor Borsos,Benjamin Lock,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Accra,3,Hard,F,552,648,0,,2,Ryan James Storrie,Benjamin Lock,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Accra,3,Hard,SF,552,,1,,,Benjamin Lock,Eric Vanshelboim,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Accra,3,Hard,QF,552,,1,,6,Benjamin Lock,William Bushamuka,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Accra,3,Hard,R16,552,,1,,,Benjamin Lock,Michael John Every,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Accra,3,Hard,R32,552,,1,,WC,Benjamin Lock,Daniel Quartey,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Abuja,3,Hard,R16,546,647,0,6,,Peter Kobelt,Benjamin Lock,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Abuja,3,Hard,R32,546,,1,6,,Benjamin Lock,Mukhtar Andu,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Abuja,3,Hard,QF,548,393,0,,3,Arjun Kadhe,Benjamin Lock,6-3 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Abuja,3,Hard,R16,548,,1,,,Benjamin Lock,Sylvester Emmanuel,6-0 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Abuja,3,Hard,R32,548,,1,,WC,Benjamin Lock,Mukhtar Andu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2019,Davis Cup G2 R1: ROU vs ZIM,3,Hard,RR,546,80,1,,,Benjamin Lock,Marius Copil,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Cancun,3,Hard,R16,547,,0,,,Jorge Brian Panta Herreros,Benjamin Lock,7-6(10) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Cancun,3,Hard,R32,547,,1,,WC,Benjamin Lock,Michel Alexandre Fortin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M15 Arcadia CA,3,Hard,R16,548,,0,2,,Connor Farren,Benjamin Lock,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M15 Arcadia CA,3,Hard,R32,548,,1,2,,Benjamin Lock,Yanais Laurent,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Sharm El Sheikh,3,Hard,R32,550,,0,,Q,Kristian Lozan,Benjamin Lock,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Sharm El Sheikh,3,Hard,R32,552,,0,,JR   ,Jesper De Jong,Benjamin Lock,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,R16,554,487,0,,3,Karim Mohamed Maamoun,Benjamin Lock,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M15 Sharm El Sheikh,3,Hard,R32,554,667,1,,,Benjamin Lock,Niels Desein,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M15 Sharm El Sheikh,3,Hard,R16,553,597,0,,,David Poljak,Benjamin Lock,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M15 Sharm El Sheikh,3,Hard,R32,553,,1,,WC,Benjamin Lock,Aleksei Khomich,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,South Africa F3,3,Hard,F,404,994,1,,,Benjamin Lock,Ruan Roelofse,6-7(3) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,South Africa F3,3,Hard,SF,404,884,1,,,Benjamin Lock,Michal Dembek,1-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,South Africa F3,3,Hard,QF,404,1657,1,,Q,Benjamin Lock,Jean Thirouin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,South Africa F3,3,Hard,R16,404,,1,,,Benjamin Lock,Bradley Holt,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2018,South Africa F3,3,Hard,R32,404,,1,,Q,Benjamin Lock,Yaron Guberman,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,South Africa F2,3,Hard,R16,405,788,0,,,David Pichler,Benjamin Lock,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,South Africa F2,3,Hard,R32,405,883,1,,,Benjamin Lock,Michal Dembek,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2018,South Africa F1,3,Hard,R32,432,884,0,,,Connor Farren,Benjamin Lock,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Mozambique F2,3,Hard,F,463,382,0,2,,Matias Franco Descotte,Benjamin Lock,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Mozambique F2,3,Hard,SF,463,1082,1,2,,Benjamin Lock,Simon Carr,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Mozambique F2,3,Hard,QF,463,843,1,2,,Benjamin Lock,Jeremy Sonkin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Mozambique F2,3,Hard,R16,463,966,1,2,,Benjamin Lock,Yan Bondarevskiy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Mozambique F2,3,Hard,R32,463,1417,1,2,,Benjamin Lock,Courtney John Lock,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mozambique F1,3,Hard,F,446,381,0,2,,Matias Franco Descotte,Benjamin Lock,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mozambique F1,3,Hard,SF,446,763,1,2,4,Benjamin Lock,Tyler Lu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mozambique F1,3,Hard,QF,446,1618,1,2,,Benjamin Lock,William Bushamuka,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mozambique F1,3,Hard,R16,446,,1,2,,Benjamin Lock,Riaan Du Toit,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Mozambique F1,3,Hard,R32,446,,1,2,,Benjamin Lock,Saar Rogovski,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,Canberra CH,3,Hard,R32,441,423,0,,,Benjamin Hassan,Benjamin Lock,6-1 7-5,0.77,3.9%,0.0%,62.7%,56.3%,47.4%,2/7,43.6%,36.4%,15.2%,17.5%,65.4%,2/5,117,2,0,51,32,19,10,1:14
+22-Oct-2018,Traralgon CH,3,Hard,R32,441,240,0,,,Maverick Banes,Benjamin Lock,6-3 6-4,0.68,3.2%,1.6%,64.5%,57.5%,54.5%,3/6,44.0%,29.6%,14.8%,17.1%,52.6%,1/2,116,2,1,62,40,22,8,1:22
+8-Oct-2018,Nigeria F5,3,Hard,QF,451,634,0,2,,Danylo Kalenichenko,Benjamin Lock,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Nigeria F5,3,Hard,R16,451,1924,1,2,,Benjamin Lock,Shahbaaz Khan,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Nigeria F5,3,Hard,R32,451,1815,1,2,,Benjamin Lock,Thomas Otu Omang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Columbus CH,3,Hard,Q2,452,374,0,,2,David Perez Sanz,Benjamin Lock,6-1 6-1,0.44,1.8%,7.0%,57.9%,51.5%,29.2%,4/9,35.4%,25.6%,23.1%,13.0%,43.8%,0/2,96,1,4,57,33,24,9,1:14
+17-Sep-2018,Columbus CH,3,Hard,Q1,452,663,1,,,Benjamin Lock,Axel Geller,4-6 6-4 7-6(4),0.97,6.2%,3.5%,64.6%,65.8%,52.5%,6/10,50.5%,37.9%,9.5%,34.0%,42.9%,4/5,208,7,4,113,73,40,9,2:43
+10-Sep-2018,Cary CH,3,Hard,Q1,452,1793,0,,PR,Bar Tzuf Botzer,Benjamin Lock,6-3 6-4,1.01,13.7%,5.9%,70.6%,72.2%,53.3%,2/4,47.2%,33.8%,10.8%,19.6%,57.1%,0/2,125,7,3,51,36,15,8,1:29
+13-Aug-2018,Gwangju CH,3,Hard,R16,474,239,0,,3,Alexander Bublik,Benjamin Lock,6-2 7-5,0.79,4.8%,4.8%,64.5%,62.5%,40.9%,1/5,44.7%,35.7%,7.1%,9.7%,56.4%,1/6,132,3,3,62,40,22,5,1:28
+13-Aug-2018,Gwangju CH,3,Hard,R32,474,312,1,,,Benjamin Lock,Yunseong Chung,6-4 4-6 6-3,1.28,3.4%,2.2%,68.5%,70.5%,57.1%,5/8,53.5%,43.1%,2.8%,43.4%,42.4%,4/17,198,3,2,89,61,28,3,2:34
+6-Aug-2018,Jinan CH,3,Hard,Q2,470,555,0,7,,Miliaan Niesten,Benjamin Lock,6-4 6-3,0.67,3.0%,3.0%,67.2%,62.2%,40.9%,9/12,43.5%,29.8%,3.5%,23.8%,46.7%,1/4,124,2,2,67,45,22,2,1:38
+6-Aug-2018,Jinan CH,3,Hard,Q1,470,963,1,7,,Benjamin Lock,Runhao Hua,4-6 7-6(3) 0-0 RET,1.11,20.6%,4.8%,68.3%,69.8%,40.0%,1/5,51.4%,44.0%,4.0%,36.7%,57.7%,3/6,138,13,3,63,43,20,3,0:31
+30-Jul-2018,Chengdu CH,3,Hard,Q1,452,865,0,8,WC,Vasko Mladenov,Benjamin Lock,6-4 6-4,0.85,8.6%,0.0%,60.0%,64.3%,53.6%,3/6,47.1%,33.8%,10.3%,31.7%,37.0%,1/3,138,6,0,70,42,28,7,1:50
+23-Jul-2018,Chinese Taipei F2,3,Hard,QF,452,1059,0,2,,Yu Hsiou Hsu,Benjamin Lock,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Chinese Taipei F2,3,Hard,R16,452,,1,2,,Benjamin Lock,Ray Ho,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2018,Chinese Taipei F2,3,Hard,R32,452,1008,1,2,,Benjamin Lock,Sumit Sarkar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,France F13,3,Hard,R32,461,1235,0,,Q,Hugo Pontico,Benjamin Lock,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Portugal F10,3,Hard,QF,411,649,0,,7,Maxime Tchoutakian,Benjamin Lock,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Portugal F10,3,Hard,R16,411,,1,,Q,Benjamin Lock,Pedro Araujo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Portugal F10,3,Hard,R32,411,1256,1,,,Benjamin Lock,Luis Faria,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Portugal F9,3,Hard,QF,439,569,0,,6,Mick Lescure,Benjamin Lock,6-7(8) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Portugal F9,3,Hard,R16,439,754,1,,,Benjamin Lock,Hugo Voljacques,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Portugal F9,3,Hard,R32,439,948,1,,,Benjamin Lock,Mats Rosenkranz,4-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Zimbabwe F3,3,Hard,F,438,526,0,,2,Takanyi Garanganga,Benjamin Lock,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Zimbabwe F3,3,Hard,SF,438,1168,1,,,Benjamin Lock,Mehluli Don Ayanda Sibanda,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Zimbabwe F3,3,Hard,QF,438,1186,1,,,Benjamin Lock,Anirudh Chandrasekar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Zimbabwe F3,3,Hard,R16,438,1714,1,,,Benjamin Lock,Jeremy Sonkin,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Zimbabwe F3,3,Hard,R32,438,1413,1,,,Benjamin Lock,Anurag Nenwani,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Zimbabwe F2,3,Hard,QF,498,814,0,2,,Frederik Press,Benjamin Lock,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Zimbabwe F2,3,Hard,R16,498,1213,1,2,,Benjamin Lock,Milen Ianakiev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2018,Zimbabwe F2,3,Hard,R32,498,1851,1,2,,Benjamin Lock,Joseph Imeh Ubon,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Zimbabwe F1,3,Hard,F,498,563,1,,2,Benjamin Lock,Takanyi Garanganga,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Zimbabwe F1,3,Hard,SF,498,1605,1,,,Benjamin Lock,Joshua Howard Tripp,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Zimbabwe F1,3,Hard,QF,498,1192,1,,6,Benjamin Lock,Aaron Schmid,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Zimbabwe F1,3,Hard,R16,498,1224,1,,,Benjamin Lock,Lance Pierre Du Toit,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Zimbabwe F1,3,Hard,R32,498,1457,1,,,Benjamin Lock,William Bushamuka,6-2 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Puerto Vallarta CH,3,Hard,Q1,479,1066,0,4,,Luis David Martinez,Benjamin Lock,4-6 6-4 7-6(5),1.01,12.6%,2.7%,60.4%,73.1%,56.8%,6/7,49.4%,33.6%,6.6%,19.1%,51.9%,1/13,233,14,3,111,67,44,8,3:14
+23-Apr-2018,Leon CH,3,Hard,Q1,479,606,0,,,Franco Agamenone,Benjamin Lock,6-4 7-6(4),0.97,2.4%,3.6%,64.3%,59.3%,43.3%,5/10,49.1%,45.1%,3.3%,30.4%,60.0%,4/11,175,2,3,84,54,30,3,1:58
+16-Apr-2018,Guadalajara CH,3,Hard,Q1,480,825,0,,WC,Lucas Gomez,Benjamin Lock,7-6(5) 6-4,0.90,23.8%,5.0%,65.0%,63.5%,46.4%,7/10,48.1%,38.5%,0.0%,35.4%,43.3%,2/4,158,19,4,80,52,28,0,1:52
+7-Apr-2018,Davis Cup G2 R2: POL vs ZIM,3,Hard,RR,472,1139,1,,,Benjamin Lock,Michal Przysiezny,7-5 7-5,1.17,7.9%,2.6%,67.1%,70.6%,52.0%,5/7,53.4%,41.7%,15.3%,22.0%,67.7%,4/6,148,6,2,76,51,25,11,1:50
+7-Apr-2018,Davis Cup G2 R2: POL vs ZIM,3,Hard,RR,472,226,0,,,Kamil Majchrzak,Benjamin Lock,6-3 6-2,0.74,3.8%,1.9%,67.3%,45.7%,35.3%,4/10,42.5%,42.6%,9.3%,39.5%,50.0%,3/6,106,2,1,52,35,17,5,1:18
+26-Mar-2018,Egypt F11,3,Hard,R32,510,658,0,,,Francesco Vilardo,Benjamin Lock,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Egypt F10,3,Hard,SF,510,482,0,7,5,Roman Safiullin,Benjamin Lock,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Egypt F10,3,Hard,QF,510,,1,7,,Benjamin Lock,Aidan Mchugh,3-6 6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Egypt F10,3,Hard,R16,510,920,1,7,,Benjamin Lock,Ryan Nijboer,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Egypt F10,3,Hard,R32,510,1946,1,7,,Benjamin Lock,Kazuki Nishiwaki,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Egypt F9,3,Hard,SF,498,520,0,,5,Lukas Klein,Benjamin Lock,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Egypt F9,3,Hard,QF,498,727,1,,,Benjamin Lock,Kirill Kivattsev,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Egypt F9,3,Hard,R16,498,1908,1,,,Benjamin Lock,Kazuki Nishiwaki,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Egypt F9,3,Hard,R32,498,1040,1,,WC,Benjamin Lock,Tomas Liska,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Egypt F8,3,Hard,R32,498,674,0,,,Dejan Katic,Benjamin Lock,7-6(1) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Egypt F7,3,Hard,R32,496,560,0,7,,Felipe Mantilla,Benjamin Lock,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2018,Egypt F6,3,Hard,R32,464,884,0,6,,Germain Gigounon,Benjamin Lock,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Feb-2018,Davis Cup G2 R1: TUR vs ZIM,3,Hard,RR,463,422,1,,,Benjamin Lock,Altug Celikbilek,6-4 1-6 6-3,1.00,7.3%,0.0%,62.2%,74.5%,54.8%,3/5,51.0%,32.9%,9.6%,22.0%,46.9%,2/3,155,6,0,82,51,31,7,1:54
+22-Jan-2018,Turkey F3,3,Hard,R32,463,708,0,,,Tak Khunn Wang,Benjamin Lock,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Turkey F2,3,Hard,R32,463,334,0,,2,Gianluigi Quinzi,Benjamin Lock,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,Bangkok CH,3,Hard,R32,461,1028,0,,PR,Flavio Cipolla,Benjamin Lock,6-4 6-2,0.72,3.3%,6.6%,47.5%,51.7%,50.0%,6/11,43.8%,35.3%,5.9%,25.9%,45.8%,2/2,112,2,4,61,29,32,3,1:26
+4-Dec-2017,South Africa F3,3,Hard,SF,453,372,0,,,Nicolaas Scholtz,Benjamin Lock,7-6(2) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,South Africa F3,3,Hard,QF,453,635,1,,6,Benjamin Lock,George Von Massow,7-5 7-6(12),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,South Africa F3,3,Hard,R16,453,1009,1,,,Benjamin Lock,Mats Rosenkranz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2017,South Africa F3,3,Hard,R32,453,1196,1,,,Benjamin Lock,Gary Kushnirovich,4-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,South Africa F2,3,Hard,SF,453,438,0,4,2,Takanyi Garanganga,Benjamin Lock,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,South Africa F2,3,Hard,QF,453,734,1,4,,Benjamin Lock,Michiel De Krom,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,South Africa F2,3,Hard,R16,453,910,1,4,,Benjamin Lock,Peter Heller,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,South Africa F2,3,Hard,R32,453,1585,1,4,,Benjamin Lock,Leonard Von Hindte,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,South Africa F1,3,Hard,QF,453,910,0,,,Peter Heller,Benjamin Lock,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,South Africa F1,3,Hard,R16,453,,1,,Q,Benjamin Lock,Loic Ratsaratany,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,South Africa F1,3,Hard,R32,453,1065,1,,,Benjamin Lock,Calum Puttergill,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,QF,451,748,0,4,,Filippo Leonardi,Benjamin Lock,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,R16,451,1292,1,4,,Benjamin Lock,Giovani Samaha,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Kuwait F3,3,Hard,R32,451,1460,1,4,,Benjamin Lock,Abdulhamid Mubarak,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Kuwait F2,3,Hard,R32,472,748,0,6,,Filippo Leonardi,Benjamin Lock,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,SF,475,328,0,,,Alessandro Bega,Benjamin Lock,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,QF,475,589,1,,6,Benjamin Lock,Jeroen Vanneste,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,R16,475,1841,1,,,Benjamin Lock,Fabian Van Der Lans,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Kuwait F1,3,Hard,R32,475,1434,1,,Q,Benjamin Lock,Anirudh Chandrasekar,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Las Vegas CH,3,Hard,R32,468,94,0,Q,1,Tennys Sandgren,Benjamin Lock,6-2 6-4,0.66,1.7%,3.3%,68.3%,58.5%,36.8%,4/8,42.5%,32.1%,20.8%,19.4%,50.0%,1/2,113,1,2,60,41,19,11,1:12
+16-Oct-2017,Las Vegas CH,3,Hard,Q3,468,628,1,4,8,Benjamin Lock,Alex Rybakov,1-6 7-6(5) 7-6(3),0.80,3.9%,1.6%,66.4%,70.6%,44.2%,13/16,47.8%,30.8%,5.8%,25.3%,44.8%,1/2,232,5,2,128,85,43,6,2:50
+16-Oct-2017,Las Vegas CH,3,Hard,Q2,468,980,1,4,,Benjamin Lock,Ruan Roelofse,7-5 6-4,1.54,11.9%,0.0%,78.0%,76.1%,69.2%,0/0,54.9%,39.2%,13.5%,31.9%,51.9%,2/7,133,7,0,59,46,13,10,1:24
+2-Oct-2017,Monterrey CH,3,Hard,Q2,471,1090,0,5,,Luis David Martinez,Benjamin Lock,6-3 6-7(5) 6-3,0.85,13.2%,3.3%,64.8%,76.3%,53.1%,7/9,46.4%,27.2%,7.8%,14.3%,47.5%,0/8,194,12,3,91,59,32,8,2:18
+25-Sep-2017,USA F32,3,Hard,QF,470,852,0,2,,Ronnie Schneider,Benjamin Lock,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,USA F32,3,Hard,R16,470,788,1,2,,Benjamin Lock,Sam Riffice,7-6(3) 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,USA F32,3,Hard,R32,470,,1,2,,Benjamin Lock,Gavin Spencer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2017,USA F31,3,Hard,R32,462,1229,0,2,WC,Tom Fawcett,Benjamin Lock,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,USA F30,3,Hard,R16,457,,0,2,WC,Jenson Brooksby,Benjamin Lock,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,USA F30,3,Hard,R32,457,,1,2,Q,Benjamin Lock,Nicholas Shamma,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Bogota CH,3,Clay,Q2,450,779,0,3,,Mauricio Echazu,Benjamin Lock,4-6 6-3 6-4,0.97,3.7%,4.9%,53.1%,62.8%,57.9%,4/9,49.1%,38.4%,0.0%,34.8%,50.0%,3/4,167,3,4,81,43,38,0,2:12
+7-Aug-2017,Floridablanca CH,3,Clay,R32,453,219,0,,6,Guilherme Clezar,Benjamin Lock,6-3 6-3,0.62,0.0%,5.8%,63.5%,66.7%,31.6%,3/7,41.6%,28.6%,4.1%,20.7%,40.0%,1/1,101,0,3,52,33,19,2,1:12
+31-Jul-2017,Egypt F23,3,Clay,R16,468,1074,0,2,,Aaron Cortes Alcaraz,Benjamin Lock,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Egypt F23,3,Clay,R32,468,1265,1,2,,Benjamin Lock,Anirudh Chandrasekar,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Egypt F22,3,Clay,SF,435,,0,2,Q,Mazen Osama,Benjamin Lock,7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Egypt F22,3,Clay,QF,435,1409,1,2,,Benjamin Lock,Matteo De Vincentis,7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Egypt F22,3,Clay,R16,435,1067,1,2,,Benjamin Lock,Frederik Press,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,Egypt F22,3,Clay,R32,435,1142,1,2,,Benjamin Lock,Stanislav Poplavskyy,6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Egypt F19,3,Hard,R32,401,1334,0,1,,Michael Zhu,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Zimbabwe F3,3,Hard,QF,435,697,0,1,5,Jonathan Kanar,Benjamin Lock,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Zimbabwe F3,3,Hard,R16,435,,1,1,Q,Benjamin Lock,Isaac Stoute,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Zimbabwe F3,3,Hard,R32,435,1141,1,1,,Benjamin Lock,Clifford Enosoregbe,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Zimbabwe F2,3,Hard,F,434,741,1,1,6,Benjamin Lock,Baptiste Crepatte,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Zimbabwe F2,3,Hard,SF,434,709,1,1,5,Benjamin Lock,Jonathan Kanar,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Zimbabwe F2,3,Hard,QF,434,891,1,1,8,Benjamin Lock,Aryan Goveas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Zimbabwe F2,3,Hard,R16,434,1644,1,1,WC,Benjamin Lock,Siphosothando Montsi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Zimbabwe F2,3,Hard,R32,434,,1,1,Q,Benjamin Lock,Nicholas Nugent,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Zimbabwe F1,3,Hard,QF,434,867,0,2,7,Lucas Catarina,Benjamin Lock,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Zimbabwe F1,3,Hard,R16,434,,1,2,Q,Benjamin Lock,Lleyton Cronje,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Zimbabwe F1,3,Hard,R32,434,1477,1,2,,Benjamin Lock,Timothy Dollman,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Spain F15,3,Hard,R16,443,1259,0,6,Q,Francisco Cabral,Benjamin Lock,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Spain F15,3,Hard,R32,443,943,1,6,Q,Benjamin Lock,David Jorda Sanchis,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Nigeria F2,3,Hard,R32,452,683,0,6,,Moez Chargui,Benjamin Lock,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Nigeria F1,3,Hard,QF,453,306,0,7,2,Brayden Schnur,Benjamin Lock,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Nigeria F1,3,Hard,R16,453,1201,1,7,,Benjamin Lock,Clifford Enosoregbe,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Nigeria F1,3,Hard,R32,453,,1,7,WC,Benjamin Lock,Emmanuel Emeruwa,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Tallahassee CH,3,Clay,Q1,457,688,0,,,Yosuke Watanuki,Benjamin Lock,6-2 6-2,0.47,7.3%,9.1%,58.2%,62.5%,30.4%,6/10,38.1%,23.8%,9.5%,24.0%,23.5%,0/0,97,4,5,55,32,23,4,1:05
+17-Apr-2017,USA F14,3,Clay,R32,459,1999,0,6,Q,Gianni Ross,Benjamin Lock,6-7(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Bahrain F2,3,Hard,QF,464,837,0,6,,Florian Fallert,Benjamin Lock,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Bahrain F2,3,Hard,R16,464,1284,1,6,Q,Benjamin Lock,Abdullah Maqdas,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Bahrain F2,3,Hard,R32,464,833,1,6,,Benjamin Lock,Cameron Silverman,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Bahrain F1,3,Hard,QF,464,312,0,5,1,Tallon Griekspoor,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Bahrain F1,3,Hard,R16,464,856,1,5,,Benjamin Lock,Francis Casey Alcantara,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2017,Bahrain F1,3,Hard,R32,464,1255,1,5,Q,Benjamin Lock,Mubarak Shannan Zayid,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Egypt F8,3,Hard,R16,466,1446,0,6,Q,Denys Klok,Benjamin Lock,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Egypt F8,3,Hard,R32,466,,1,6,WC,Benjamin Lock,Pierre Louis Dodens,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Turkey F8,3,Hard,QF,480,550,0,6,,Anil Yuksel,Benjamin Lock,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Turkey F8,3,Hard,R16,480,760,1,6,,Benjamin Lock,Gijs Brouwer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Turkey F8,3,Hard,R32,480,561,1,6,,Benjamin Lock,Alexandr Igoshin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Turkey F7,3,Hard,QF,512,364,0,7,4,Alexander Lazov,Benjamin Lock,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Turkey F7,3,Hard,R16,512,628,1,7,,Benjamin Lock,Gibril Diarra,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Turkey F7,3,Hard,R32,512,579,1,7,,Benjamin Lock,Evan Song,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Turkey F6,3,Hard,F,512,260,0,,2,Marc Sieber,Benjamin Lock,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Turkey F6,3,Hard,SF,512,602,1,,,Benjamin Lock,Patrik Fabian,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Turkey F6,3,Hard,QF,512,1772,1,,WC,Benjamin Lock,Mousheg Hovhannisyan,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Turkey F6,3,Hard,R16,512,478,1,,8,Benjamin Lock,Mariano Kestelboim,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Turkey F6,3,Hard,R32,512,568,1,,,Benjamin Lock,Alexis Musialek,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Turkey F5,3,Hard,R32,510,701,0,6,,Yuichi Ito,Benjamin Lock,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,SF,541,693,0,3,7,Alexios Halebian,Benjamin Lock,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,QF,541,777,1,3,,Benjamin Lock,Caio Silva,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,R16,541,1359,1,3,,Benjamin Lock,Roy Smith,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,R32,541,,1,3,WC,Benjamin Lock,Sebastian Arcila,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Dominican Republic F3,3,Hard,QF,541,389,0,7,3,Evan King,Benjamin Lock,6-1 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Dominican Republic F3,3,Hard,R16,541,1860,1,7,WC,Benjamin Lock,Nick Hardt,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Dominican Republic F3,3,Hard,R32,541,1019,1,7,,Benjamin Lock,Hunter Reese,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,USA F40,3,Hard,R32,537,553,0,7,,Wil Spencer,Benjamin Lock,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,El Salvador F2,3,Clay,R16,575,847,0,5,,Caio Silva,Benjamin Lock,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,El Salvador F2,3,Clay,R32,575,,1,5,WC,Benjamin Lock,Javier Flores,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,El Salvador F1,3,Hard,F,577,183,0,5,1,Marcelo Arevalo,Benjamin Lock,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,El Salvador F1,3,Hard,SF,577,776,1,5,8,Benjamin Lock,Luis Patino,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,El Salvador F1,3,Hard,QF,577,914,1,5,,Benjamin Lock,Eduardo Dischinger,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,El Salvador F1,3,Hard,R16,577,1214,1,5,,Benjamin Lock,Jose Olivares,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,El Salvador F1,3,Hard,R32,577,2070,1,5,Q,Benjamin Lock,Nicholas Alexander Reyes,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Costa Rica F1,3,Hard,R16,579,1107,0,3,,Bernardo Saraiva,Benjamin Lock,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Costa Rica F1,3,Hard,R32,579,,1,3,Q,Benjamin Lock,Jordan Parker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F32,3,Hard,SF,622,544,0,8,6,Luke Bambridge,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F32,3,Hard,QF,622,,1,8,Q,Benjamin Lock,Aj Catanzariti,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F32,3,Hard,R16,622,1123,1,8,WC,Benjamin Lock,Jonathan Chang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F32,3,Hard,R32,622,,1,8,WC,Benjamin Lock,Haydn Lewis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R16,628,417,0,,3,Frederik Nielsen,Benjamin Lock,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R32,628,,1,,Q,Benjamin Lock,Kevin Bettendroffer,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Egypt F24,3,Clay,SF,676,688,0,5,6,Vit Kopriva,Benjamin Lock,6-0 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Egypt F24,3,Clay,R16,676,,1,5,Q,Benjamin Lock,Franco Ribero,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Egypt F24,3,Clay,R32,676,,1,5,Q,Benjamin Lock,Kevin Deich,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Egypt F23,3,Hard,QF,704,282,0,6,1,Alessandro Bega,Benjamin Lock,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Egypt F23,3,Hard,R16,704,,1,6,Q,Benjamin Lock,Denys Gevel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Egypt F23,3,Hard,R32,704,818,1,6,,Benjamin Lock,John Lamble,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Egypt F22,3,Hard,R16,704,1334,0,8,,Victor Ouvrard,Benjamin Lock,7-5 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Egypt F22,3,Hard,R32,704,1686,1,8,Q,Benjamin Lock,Nathan Eshmade,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Egypt F21,3,Hard,QF,703,293,0,,1,Sam Barry,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Egypt F21,3,Hard,R16,703,587,1,,6,Benjamin Lock,Anis Ghorbel,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Egypt F21,3,Hard,R32,703,1435,1,,,Benjamin Lock,Victor Ouvrard,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Egypt F17,3,Hard,R32,793,1258,0,6,Q,Olexiy Kolisnyk,Benjamin Lock,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Egypt F16,3,Hard,F,795,458,0,2,1,Adam El Mihdawy,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Egypt F16,3,Hard,SF,795,,1,2,SE,Benjamin Lock,Alan Gadjiev,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Egypt F16,3,Hard,QF,795,1680,1,2,Q,Benjamin Lock,Manish Sureshkumar,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Egypt F16,3,Hard,R16,795,2010,1,2,Q,Benjamin Lock,Alexandru Danes,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Egypt F16,3,Hard,R32,795,1284,1,2,,Benjamin Lock,Mikael Riondy,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Zimbabwe F3,3,Hard,R32,982,,0,,Q,Marc Andrea Huesler,Benjamin Lock,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Zimbabwe F2,3,Hard,R16,982,1509,0,,Q,Mitchell Frank,Benjamin Lock,2-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Zimbabwe F2,3,Hard,R32,982,356,1,,3,Benjamin Lock,Tucker Vorster,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Zimbabwe F1,3,Hard,F,884,568,1,8,4,Benjamin Lock,Marc Polmans,5-7 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Zimbabwe F1,3,Hard,SF,884,421,1,8,3,Benjamin Lock,Hugo Nys,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Zimbabwe F1,3,Hard,QF,884,344,1,8,2,Benjamin Lock,Nicolaas Scholtz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Zimbabwe F1,3,Hard,R16,884,,1,8,Q,Benjamin Lock,Adriaan De Jager,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Zimbabwe F1,3,Hard,R32,884,,1,8,,Benjamin Lock,Kareem Allaf,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Mozambique F2,3,Hard,R16,873,1021,0,3,,Jeremy Beale,Benjamin Lock,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Mozambique F2,3,Hard,R32,873,1055,1,3,,Benjamin Lock,Jayesh Pungliya,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Mozambique F1,3,Hard,R16,698,1038,0,3,,John Lamble,Benjamin Lock,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Mozambique F1,3,Hard,R32,698,2130,1,3,LL,Benjamin Lock,Yaseen Ibrahim,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tallahassee CH,3,Clay,R32,710,265,0,WC,,Daniil Medvedev,Benjamin Lock,6-2 7-5,0.78,4.7%,1.6%,65.6%,64.3%,27.3%,2/7,44.8%,37.7%,9.8%,17.9%,54.5%,2/4,125,3,1,64,42,22,6,1:22
+30-Nov-2015,USA F35,3,Hard,R16,732,286,0,,3,Marek Michalicka,Benjamin Lock,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,USA F35,3,Hard,R32,732,,1,,LL,Benjamin Lock,Matthew Kandath,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Guatemala F2,3,Hard,QF,733,319,0,8,1,Emilio Gomez,Benjamin Lock,6-1 6-7(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Guatemala F2,3,Hard,R16,733,1272,1,8,Q,Benjamin Lock,Alejandro Tabilo,6-7(6) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Guatemala F2,3,Hard,R32,733,1207,1,8,,Benjamin Lock,Julian Saborio,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,USA F31,3,Clay,R32,730,569,0,,6,Jean Yves Aubone,Benjamin Lock,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,USA F27,3,Hard,R32,706,388,0,,1,Marcos Giron,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2015,Davis Cup G2 PO: ZIM vs MDA,3,Hard,RR,701,2018,1,,,Benjamin Lock,Dmitrii Baskov,6-2 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2015,Davis Cup G2 PO: ZIM vs MDA,3,Hard,RR,701,,1,,,Benjamin Lock,Egor Matvievici,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Zimbabwe F3,3,Hard,R16,750,973,0,6,,Vullnet Tashi,Benjamin Lock,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Zimbabwe F3,3,Hard,R32,750,,1,6,Q,Benjamin Lock,Samuel Bothwell,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Zimbabwe F2,3,Hard,SF,792,385,0,7,1,Tucker Vorster,Benjamin Lock,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Zimbabwe F2,3,Hard,QF,792,576,1,7,4,Benjamin Lock,Evan Song,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Zimbabwe F2,3,Hard,R16,792,,1,7,Q,Benjamin Lock,Philip Franken,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Zimbabwe F2,3,Hard,R32,792,,1,7,Q,Benjamin Lock,Anderson Reed,6-7(9) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Zimbabwe F1,3,Hard,SF,811,1086,0,,,Evan King,Benjamin Lock,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Zimbabwe F1,3,Hard,QF,811,948,1,,8,Benjamin Lock,Romain Bauvy,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Zimbabwe F1,3,Hard,R16,811,740,1,,4,Benjamin Lock,Vasco Mensurado,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Zimbabwe F1,3,Hard,R32,811,,1,,Q,Benjamin Lock,Samuel Bothwell,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Mozambique F2,3,Hard,QF,1270,1975,0,,,Jeremy Beale,Benjamin Lock,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Mozambique F2,3,Hard,R16,1270,1604,1,,,Benjamin Lock,Duncan Mugabe,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Mozambique F2,3,Hard,R32,1270,1036,1,,8,Benjamin Lock,Vullnet Tashi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Mozambique F1,3,Hard,F,1218,,1,,Q,Benjamin Lock,William Bushamuka,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Mozambique F1,3,Hard,SF,1218,816,1,,4,Benjamin Lock,Matias Franco Descotte,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Mozambique F1,3,Hard,QF,1218,275,1,,1,Benjamin Lock,Frederico Ferreira Silva,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Mozambique F1,3,Hard,R16,1218,,1,,,Benjamin Lock,Curtis Clarke,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Mozambique F1,3,Hard,R32,1218,1183,1,,8,Benjamin Lock,Matias Castro,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Tallahassee CH,3,Clay,R32,1212,168,0,WC,,Jared Donaldson,Benjamin Lock,2-6 6-4 6-2,0.99,4.2%,6.9%,65.3%,68.1%,40.0%,3/8,49.1%,41.4%,6.9%,25.6%,56.8%,4/8,159,3,5,72,47,25,6,1:53
+6-Mar-2015,Davis Cup G2 R1: ZIM vs BIH,3,Hard,RR,1205,89,0,,,Damir Dzumhur,Benjamin Lock,6-3 7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2015,Davis Cup G2 R1: ZIM vs BIH,3,Hard,RR,1205,803,1,,,Benjamin Lock,Nerman Fatic,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,USA F32,3,Clay,R32,1188,766,0,,,Michael Shabaz,Benjamin Lock,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Turkey F25,3,Hard,R16,1205,642,0,Q,5,Issam Al Tawil,Benjamin Lock,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Turkey F25,3,Hard,R32,1205,,1,Q,,Benjamin Lock,Jaime Fermosell,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Turkey F24,3,Hard,R32,1335,860,0,Q,,Matija Pecotic,Benjamin Lock,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Turkey F23,3,Hard,QF,1428,306,0,Q,1,Aldin Setkic,Benjamin Lock,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Turkey F23,3,Hard,R16,1428,840,1,Q,,Benjamin Lock,Franjo Raspudic,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Turkey F23,3,Hard,R32,1428,1270,1,Q,,Benjamin Lock,Dominik Kellovsky,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Turkey F22,3,Hard,R16,1428,343,0,Q,2,Sam Barry,Benjamin Lock,7-6(4) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Turkey F22,3,Hard,R32,1428,,1,Q,WC,Benjamin Lock,Ogulcan Deniz,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,South Africa F3,3,Hard,R16,1557,731,0,,7,Ruan Roelofse,Benjamin Lock,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,South Africa F3,3,Hard,R32,1557,,1,,Q,Benjamin Lock,Brandon Laubser,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,South Africa F2,3,Hard,R32,1807,584,0,,3,Fritz Wolmarans,Benjamin Lock,6-3 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,South Africa F1,3,Hard,R16,1807,757,0,,7,Augusto Laranja,Benjamin Lock,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,South Africa F1,3,Hard,R32,1807,1541,1,,,Benjamin Lock,Phenyo Matong,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Ireland F1,3,Carpet,R16,,566,0,Q,4,Sam Barry,Benjamin Lock,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Ireland F1,3,Carpet,R32,,1924,1,Q,,Benjamin Lock,Jessy Kalambay,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Great Britain F12,3,Grass,R32,,1295,0,Q,WC,Jathan Malik,Benjamin Lock,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

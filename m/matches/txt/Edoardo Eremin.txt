@@ -1,0 +1,435 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+12-Jul-2021,Todi CH,3,Clay,Q1,826,345,0,,1,Franco Agamenone,Edoardo Eremin,7-6(2) 6-1,0.79,3.6%,16.1%,37.5%,61.9%,37.1%,3/8,43.8%,42.2%,2.2%,41.7%,44.4%,3/12,146,2,9,56,21,35,2,1:42
+28-Jun-2021,M25 Belgrade,3,Clay,R16,856,382,0,PR,4,Miljan Zekic,Edoardo Eremin,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Belgrade,3,Clay,R32,856,705,1,PR,,Edoardo Eremin,Colin Sinclair,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M15 Bergamo,3,Clay,R16,925,708,0,PR,SE,Luca Nardi,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M15 Bergamo,3,Clay,R32,925,528,1,PR,,Edoardo Eremin,Danylo Kalenichenko,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,SF,926,471,0,PR,3,Johan Nikles,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,QF,926,631,1,PR,,Edoardo Eremin,Davide Galoppini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,R16,926,692,1,PR,WC,Edoardo Eremin,Federico Arnaboldi,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M15 Genova,3,Clay,R32,926,358,1,PR,1,Edoardo Eremin,Julian Ocleppo,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,R16,938,414,0,PR,4,Francesco Forti,Edoardo Eremin,6-7(6) 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M15 Antalya,3,Clay,R32,938,715,1,PR,,Edoardo Eremin,Vladimir Ivanov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Antalya,3,Clay,R32,939,528,0,Q,,Jacopo Berrettini,Edoardo Eremin,0-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-2021,M15 Antalya,3,Clay,R32,939,779,0,Q,LL,Sandro Kopp,Edoardo Eremin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Antalya,3,Clay,SF,1027,863,0,PR,,Flavio Cobolli,Edoardo Eremin,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Antalya,3,Clay,QF,1027,434,1,PR,2,Edoardo Eremin,Adam Pavlasek,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Antalya,3,Clay,R16,1027,940,1,PR,WC,Edoardo Eremin,Antonio Massara,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Antalya,3,Clay,R32,1027,920,1,PR,WC,Edoardo Eremin,Cengiz Aksu,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Sharm El Sheikh,3,Hard,R16,1414,1337,0,SE,Q,Illia Biloborodko,Edoardo Eremin,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Sharm El Sheikh,3,Hard,R32,1414,1088,1,SE,,Edoardo Eremin,Khololwam Montsi,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Sharm El Sheikh,3,Hard,F,1561,449,0,Q,7,Yu Hsiou Hsu,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Sharm El Sheikh,3,Hard,SF,1561,311,1,Q,2,Edoardo Eremin,Sasi Kumar Mukund,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Sharm El Sheikh,3,Hard,QF,1561,467,1,Q,8,Edoardo Eremin,Michail Pervolarakis,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Sharm El Sheikh,3,Hard,R16,1561,1996,1,Q,WC,Edoardo Eremin,Saba Purtseladze,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Sharm El Sheikh,3,Hard,R32,1561,423,1,Q,4,Edoardo Eremin,Rio Noguchi,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M15 Sharm El Sheikh,3,Hard,R16,1561,445,0,Q,4,Martins Podzus,Edoardo Eremin,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M15 Sharm El Sheikh,3,Hard,R32,1561,991,1,Q,WC,Edoardo Eremin,Francesco Passaro,6-2 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Monastir,3,Hard,R32,1520,1413,0,PR,,Giovanni Mpetshi Perricard,Edoardo Eremin,2-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Jan-2021,M15 Monastir,3,Hard,R32,1520,1413,0,PR,,Giovanni Mpetshi Perricard,Edoardo Eremin,2-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Porec,3,Clay,R16,1755,331,0,,2,Matija Pecotic,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Porec,3,Clay,R32,1755,533,1,,,Edoardo Eremin,Peter Nagy,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M15 Antalya,3,Clay,R16,,476,0,Q,7,Jonas Forejtek,Edoardo Eremin,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M15 Antalya,3,Clay,R32,,935,1,Q,WC,Edoardo Eremin,Yanki Erel,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-2019,M15 Casale Monferrato,3,Clay,R32,464,,0,2,,Samuele Ramazzotti,Edoardo Eremin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M25 Vercelli,3,Clay,R32,461,,0,,,Erik Crepaldi,Edoardo Eremin,6-7(5) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Dec-2018,Qatar F5,3,Hard,R32,648,577,0,,,Mick Lescure,Edoardo Eremin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Italy F32,3,Clay,R32,702,984,0,SE,,Stefano Baldoni,Edoardo Eremin,7-5 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Italy F31,3,Clay,SF,698,482,0,,5,Jacopo Berrettini,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Italy F31,3,Clay,QF,698,648,1,,,Edoardo Eremin,Enrico Dalla Valle,7-6(5) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Italy F31,3,Clay,R16,698,481,1,,,Edoardo Eremin,Marco Bortolotti,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Italy F31,3,Clay,R32,698,1128,1,,Q,Edoardo Eremin,Georg Winkler,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Genova CH,3,Clay,Q1,718,499,0,,,Alen Avidzba,Edoardo Eremin,6-3 4-6 6-3,0.75,5.7%,8.6%,51.4%,64.8%,45.1%,8/13,45.7%,33.7%,1.2%,25.0%,45.7%,3/10,188,6,9,105,54,51,1,2:02
+13-Aug-2018,Cordenons CH,3,Clay,Q1,718,418,0,,6,Bruno Santanna,Edoardo Eremin,6-4 4-6 7-5,0.94,5.6%,1.1%,48.3%,69.8%,43.5%,5/11,47.8%,41.2%,7.9%,35.5%,48.1%,5/18,203,5,1,89,43,46,9,2:21
+23-Jul-2018,Padova CH,3,Clay,R16,758,256,0,Q,WC,Gian Marco Moroni,Edoardo Eremin,6-7(2) 7-6(5) 4-1 RET,1.00,2.6%,4.4%,52.6%,71.7%,40.7%,7/11,49.6%,43.0%,0.8%,34.4%,68.8%,3/15,242,3,5,114,60,54,1,2:57
+23-Jul-2018,Padova CH,3,Clay,R32,758,145,1,Q,2,Edoardo Eremin,Simone Bolelli,6-1 3-6 6-2,1.28,6.3%,7.8%,50.0%,78.1%,56.3%,3/5,54.8%,41.9%,0.0%,40.4%,46.7%,5/6,126,4,5,64,32,32,0,1:34
+23-Jul-2018,Padova CH,3,Clay,Q3,758,464,1,,7,Edoardo Eremin,Alessandro Petrone,6-4 6-4,1.42,5.7%,1.9%,64.2%,79.4%,52.6%,1/2,54.5%,42.9%,1.4%,41.5%,47.1%,3/10,123,3,1,53,34,19,1,1:34
+23-Jul-2018,Padova CH,3,Clay,Q2,758,296,1,,1,Edoardo Eremin,Benjamin Bonzi,W/O,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q3,526,388,0,,7,Pietro Rondoni,Edoardo Eremin,7-5 7-6(4),0.77,6.5%,1.1%,59.1%,65.5%,52.6%,6/8,46.8%,30.8%,1.3%,34.0%,25.0%,1/2,171,6,1,93,55,38,1,2:13
+16-Jul-2018,San Benedetto Del Tronto CH,3,Clay,Q2,526,655,1,,,Edoardo Eremin,Antonio Massara,6-1 6-2,2.56,4.8%,2.4%,57.1%,87.5%,66.7%,0/0,66.7%,54.8%,0.0%,57.1%,50.0%,4/9,84,2,1,42,24,18,0,1:01
+4-Jun-2018,Prostejov CH,3,Clay,Q1,475,397,0,,8,Fabien Reboul,Edoardo Eremin,7-5 7-6(3),0.93,1.4%,11.0%,47.9%,68.6%,34.2%,5/11,47.9%,45.7%,6.5%,30.6%,62.8%,5/9,165,1,8,73,35,38,6,2:05
+28-May-2018,Vicenza CH,3,Clay,Q3,475,177,0,WC,4,Marc Polmans,Edoardo Eremin,6-4 3-6 6-4,0.92,10.3%,2.6%,57.7%,68.9%,54.5%,3/7,48.4%,34.2%,3.8%,35.6%,30.0%,3/6,157,8,2,78,45,33,3,2:17
+28-May-2018,Vicenza CH,3,Clay,Q2,475,312,1,WC,,Edoardo Eremin,Frank Dancevic,6-2 6-3,1.50,9.4%,4.7%,64.1%,75.6%,60.9%,7/7,58.5%,44.4%,5.6%,44.4%,44.4%,3/5,118,6,3,64,41,23,3,1:13
+28-May-2018,Vicenza CH,3,Clay,Q1,475,313,1,WC,,Edoardo Eremin,Andrea Basso,6-2 0-0 RET,2.50,10.0%,5.0%,55.0%,81.8%,77.8%,0/0,62.5%,50.0%,3.6%,41.7%,56.3%,2/5,48,2,1,20,11,9,1,0:31
+21-May-2018,Mestre CH,3,Clay,R32,482,418,0,Q,WC,Liam Caruana,Edoardo Eremin,6-2 7-6(5),0.86,7.4%,13.2%,48.5%,60.6%,45.7%,3/7,46.4%,40.3%,4.2%,33.3%,45.2%,2/4,140,5,9,68,33,35,3,1:35
+21-May-2018,Mestre CH,3,Clay,Q3,482,354,1,,7,Edoardo Eremin,Zhizhen Zhang,2-6 6-3 7-6(3),1.04,6.9%,7.9%,45.5%,73.9%,50.9%,9/13,50.7%,40.0%,2.0%,36.4%,47.1%,3/12,201,7,8,101,46,55,2,2:24
+21-May-2018,Mestre CH,3,Clay,Q2,482,323,1,,3,Edoardo Eremin,Thiemo De Bakker,6-4 6-1,1.67,12.7%,5.5%,47.3%,76.9%,69.0%,3/3,60.6%,45.5%,4.5%,36.4%,72.7%,3/5,99,7,3,55,26,29,2,1:06
+21-May-2018,Mestre CH,3,Clay,Q1,482,364,1,,,Edoardo Eremin,Jan Satral,7-6(3) 6-4,1.02,4.0%,4.0%,52.0%,69.2%,69.4%,1/1,52.2%,31.1%,1.6%,32.5%,28.6%,1/2,136,3,3,75,39,36,1,1:35
+14-May-2018,Lisbon CH,3,Clay,R32,487,284,0,Q,,Lukas Rosol,Edoardo Eremin,7-5 3-6 6-4,1.48,11.1%,3.7%,61.7%,80.0%,61.3%,3/6,53.5%,40.2%,2.6%,35.9%,45.3%,2/11,198,9,3,81,50,31,3,2:15
+14-May-2018,Lisbon CH,3,Clay,Q3,487,326,1,,2,Edoardo Eremin,Federico Gaio,7-6(5) 6-3,1.24,4.8%,3.2%,54.8%,76.5%,42.9%,2/5,54.0%,48.1%,3.9%,42.9%,54.3%,5/10,139,3,2,62,34,28,3,1:38
+14-May-2018,Lisbon CH,3,Clay,Q2,487,363,1,,7,Edoardo Eremin,Gian Marco Moroni,1-6 6-2 6-3,1.17,9.5%,2.7%,52.7%,66.7%,60.0%,4/7,52.5%,42.9%,0.0%,40.8%,45.7%,4/9,158,7,2,74,39,35,0,1:55
+14-May-2018,Lisbon CH,3,Clay,Q1,487,1965,1,,WC,Edoardo Eremin,Martim Leote Prata,7-5 6-2,1.62,3.7%,3.7%,48.1%,76.9%,53.6%,2/5,60.9%,57.1%,1.8%,48.8%,80.0%,6/13,110,2,2,54,26,28,1,1:08
+16-Apr-2018,Italy F8,3,Clay,R16,492,453,0,,,Bruno Santanna,Edoardo Eremin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Italy F8,3,Clay,R32,492,324,1,,,Edoardo Eremin,Luca Vanni,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Italy F4,3,Clay,QF,517,259,0,Q,4,Hugo Dellien,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Italy F4,3,Clay,R16,517,1839,1,Q,,Edoardo Eremin,Vladimir Filip,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Italy F4,3,Clay,R32,517,385,1,Q,,Edoardo Eremin,Maxime Hamou,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Italy F3,3,Clay,QF,510,309,0,,5,Martin Cuevas,Edoardo Eremin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Italy F3,3,Clay,R16,510,254,1,,,Edoardo Eremin,Tomislav Brkic,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2018,Italy F3,3,Clay,R32,510,1190,1,,,Edoardo Eremin,Tommaso Gabrieli,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Italy F2,3,Clay,R32,510,378,0,,,Johan Sebastien Tatlot,Edoardo Eremin,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Spain F5,3,Clay,R32,506,991,0,,,Andrey Chepelev,Edoardo Eremin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Spain F4,3,Clay,QF,506,706,0,,,Gian Marco Moroni,Edoardo Eremin,3-1 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Spain F4,3,Clay,R16,506,305,1,,2,Edoardo Eremin,Miljan Zekic,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Spain F4,3,Clay,R32,506,562,1,,,Edoardo Eremin,Pascal Meis,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Tunisia F3,3,Clay,R16,534,485,0,,6,Jordi Samper Montana,Edoardo Eremin,6-1 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Tunisia F3,3,Clay,R32,534,706,1,,,Edoardo Eremin,Andre Gaspar Murta,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Tunisia F2,3,Clay,SF,534,485,0,,6,Jordi Samper Montana,Edoardo Eremin,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Tunisia F2,3,Clay,QF,534,682,1,,,Edoardo Eremin,Walter Trusendi,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Tunisia F2,3,Clay,R16,534,,1,,Q,Edoardo Eremin,Harrison Lombe,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,Tunisia F2,3,Clay,R32,534,486,1,,7,Edoardo Eremin,Cristian Carli,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Segovia CH,3,Hard,R32,427,331,0,Q,,Andre Ghem,Edoardo Eremin,6-7(3) 6-2 1-0 RET,0.78,7.0%,7.0%,49.1%,75.0%,51.7%,2/5,45.0%,28.6%,6.3%,12.9%,43.8%,1/3,120,4,4,57,28,29,4,1:14
+31-Jul-2017,Segovia CH,3,Hard,Q3,427,529,1,2,7,Edoardo Eremin,Tomas Papik,6-1 6-4,1.70,23.2%,8.9%,53.6%,86.7%,61.5%,7/7,59.1%,42.6%,0.0%,33.3%,57.1%,3/7,110,13,5,56,30,26,0,0:59
+31-Jul-2017,Segovia CH,3,Hard,Q2,427,875,1,2,,Edoardo Eremin,Jaime Fermosell Delgado,6-3 6-4,1.73,12.0%,6.0%,50.0%,96.0%,64.0%,0/0,57.6%,34.7%,4.1%,20.8%,48.0%,2/3,99,6,3,50,25,25,2,1:00
+10-Jul-2017,France F15,3,Hard,F,466,284,1,,2,Edoardo Eremin,Albano Olivetti,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,SF,466,319,1,,4,Edoardo Eremin,Sadio Doumbia,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,QF,466,391,1,,8,Edoardo Eremin,Yannick Jankovits,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R16,466,799,1,,,Edoardo Eremin,Yanais Laurent,6-2 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,France F15,3,Hard,R32,466,276,1,,1,Edoardo Eremin,Yannick Mertens,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Recanati CH,3,Hard,R32,466,491,0,WC,Q,Viktor Galovic,Edoardo Eremin,6-7(7) 6-3 6-2,0.83,8.3%,5.2%,56.3%,77.8%,45.2%,4/7,46.5%,30.4%,10.8%,23.4%,42.1%,0/6,198,8,5,96,54,42,11,1:53
+26-Jun-2017,Spain F19,3,Hard,QF,459,467,0,6,,Carlos Gomez Herrera,Edoardo Eremin,6-7(4) 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Spain F19,3,Hard,R16,459,,1,6,,Edoardo Eremin,Carlos Divar,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Spain F19,3,Hard,R32,459,,1,6,Q,Edoardo Eremin,Santiago Plaza,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,QF,383,378,0,Q,7,Maverick Banes,Edoardo Eremin,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,R16,383,1259,1,Q,Q,Edoardo Eremin,Luca Prevosto,6-7(7) 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,R32,383,1050,1,Q,Q,Edoardo Eremin,Corrado Summaria,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Vicenza CH,3,Clay,R16,383,148,0,Q,,Marton Fucsovics,Edoardo Eremin,6-2 7-5,0.56,0.0%,4.3%,49.3%,70.6%,42.9%,6/9,42.1%,24.6%,7.0%,17.6%,34.8%,0/1,126,0,3,69,34,35,4,1:22
+29-May-2017,Vicenza CH,3,Clay,R32,383,112,1,Q,3,Edoardo Eremin,Gerald Melzer,4-6 6-3 6-2,1.45,16.0%,5.3%,53.3%,87.5%,60.0%,0/1,55.6%,36.8%,1.3%,36.7%,37.0%,3/7,151,12,4,75,40,35,1,1:40
+29-May-2017,Vicenza CH,3,Clay,Q3,383,220,1,,3,Edoardo Eremin,Enrique Lopez Perez,4-1 RET,6.07,15.4%,0.0%,76.9%,90.0%,100.0%,0/0,67.9%,46.7%,0.0%,37.5%,57.1%,1/2,28,2,0,13,10,3,0,0:21
+29-May-2017,Vicenza CH,3,Clay,Q2,383,545,1,,,Edoardo Eremin,Andrea Pellegrino,6-3 6-3,1.28,13.8%,0.0%,56.9%,72.7%,64.0%,3/3,55.0%,39.6%,1.9%,36.7%,43.5%,3/4,111,8,0,58,33,25,1,1:13
+29-May-2017,Vicenza CH,3,Clay,Q1,383,,1,,WC,Edoardo Eremin,Flavio Cipolla,6-3 6-3,1.41,3.1%,3.1%,61.5%,67.5%,60.0%,3/4,56.6%,50.0%,0.0%,50.8%,47.4%,4/13,145,2,2,65,40,25,0,1:31
+27-Feb-2017,Italy F2,3,Carpet,R16,336,435,0,6,Q,Matteo Viola,Edoardo Eremin,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Italy F2,3,Carpet,R32,336,397,1,6,Q,Edoardo Eremin,Walter Trusendi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,Bergamo CH,3,Hard,Q1,337,353,0,,,Yannick Jankovits,Edoardo Eremin,7-5 3-6 7-5,0.99,11.6%,12.5%,52.7%,83.1%,37.7%,4/8,51.0%,38.0%,3.3%,27.7%,48.9%,3/6,204,13,14,112,59,53,3,1:54
+13-Feb-2017,Switzerland F2,3,Carpet,QF,344,597,0,7,Q,David Pichler,Edoardo Eremin,7-6(2) 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Switzerland F2,3,Carpet,R16,344,455,1,7,,Edoardo Eremin,Yaraslau Shyla,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Switzerland F2,3,Carpet,R32,344,933,1,7,Q,Edoardo Eremin,Raphael Baltensperger,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R16,346,580,0,5,,Sami Reinwein,Edoardo Eremin,7-6(9) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+6-Feb-2017,Switzerland F1,3,Carpet,R32,346,1130,1,5,WC,Edoardo Eremin,Mirko Martinez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Qatar F6,3,Hard,SF,362,248,0,3,1,Ramkumar Ramanathan,Edoardo Eremin,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Qatar F6,3,Hard,QF,362,625,1,3,7,Edoardo Eremin,Geoffrey Blancaneaux,6-4 1-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Qatar F6,3,Hard,R16,362,1941,1,3,Q,Edoardo Eremin,Quentin Folliot,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Qatar F6,3,Hard,R32,362,892,1,3,,Edoardo Eremin,Michal Dembek,6-2 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Qatar F5,3,Hard,SF,364,312,0,3,2,Sebastian Ofner,Edoardo Eremin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Qatar F5,3,Hard,QF,364,445,1,3,5,Edoardo Eremin,Daniel Altmaier,W/O,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Qatar F5,3,Hard,R16,364,1007,1,3,,Edoardo Eremin,Ugo Humbert,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Qatar F5,3,Hard,R32,364,,1,3,WC,Edoardo Eremin,Jabor Al Mutawa,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,France F23,3,Hard,F,367,352,0,4,3,Maxime Authom,Edoardo Eremin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,France F23,3,Hard,SF,367,338,1,4,2,Edoardo Eremin,Yannick Jankovits,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,France F23,3,Hard,QF,367,405,1,4,5,Edoardo Eremin,Mats Moraing,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,France F23,3,Hard,R16,367,729,1,4,PR,Edoardo Eremin,Yannick Vandenbulcke,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,France F23,3,Hard,R32,367,705,1,4,,Edoardo Eremin,Jonathan Kanar,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Fairfield CH,3,Hard,Q1,365,768,0,8,,Marcos Giron,Edoardo Eremin,6-4 0-6 6-4,1.05,13.3%,3.6%,51.8%,81.4%,47.5%,4/6,51.2%,36.7%,2.5%,28.6%,45.9%,3/9,162,11,3,83,43,40,2,1:38
+3-Oct-2016,Stockton CH,3,Hard,Q2,358,326,0,,,Salvatore Caruso,Edoardo Eremin,6-3 6-3,0.73,1.9%,1.9%,57.4%,61.3%,39.1%,3/7,42.9%,35.4%,1.5%,27.1%,58.8%,1/9,119,1,1,54,31,23,1,1:26
+3-Oct-2016,Stockton CH,3,Hard,Q1,358,253,1,,7,Edoardo Eremin,Samuel Groth,6-7(5) 6-3 6-4,1.14,14.4%,10.6%,49.0%,78.4%,58.5%,4/5,52.7%,36.1%,13.4%,20.4%,52.1%,3/9,201,15,11,104,51,53,13,2:15
+26-Sep-2016,Tiburon CH,3,Hard,Q1,330,404,0,6,,Erik Crepaldi,Edoardo Eremin,6-7(5) 6-4 6-0,0.86,11.9%,11.9%,46.5%,78.7%,35.2%,3/8,46.3%,38.5%,1.7%,35.5%,43.9%,1/15,218,12,12,101,47,54,2,2:36
+12-Sep-2016,Szczecin CH,3,Clay,R32,333,274,0,,WC,Casper Ruud,Edoardo Eremin,6-3 6-4,0.86,8.6%,6.9%,36.2%,81.0%,54.1%,4/6,45.7%,31.0%,2.8%,30.4%,32.0%,0/6,129,5,4,58,21,37,2,1:22
+5-Sep-2016,Genova CH,3,Clay,R32,300,336,0,WC,Q,Gianluca Mager,Edoardo Eremin,1-6 6-4 6-3,1.21,15.6%,6.3%,48.4%,71.0%,54.5%,2/6,52.7%,45.2%,6.0%,41.9%,48.8%,4/10,148,10,4,64,31,33,5,1:44
+22-Aug-2016,Manerbio CH,3,Clay,R32,301,141,0,WC,7,Elias Ymer,Edoardo Eremin,6-4 7-6(4),0.84,4.6%,7.7%,33.8%,77.3%,37.2%,3/8,45.7%,41.3%,2.7%,42.9%,39.4%,4/12,140,3,5,65,22,43,2,1:51
+15-Aug-2016,Cordenons CH,3,Clay,R16,305,40,0,,1,Paolo Lorenzi,Edoardo Eremin,4-6 6-1 6-1,0.71,6.9%,5.7%,39.1%,52.9%,39.6%,8/16,42.2%,39.2%,6.8%,32.4%,45.0%,4/6,161,6,5,87,34,53,5,2:02
+15-Aug-2016,Cordenons CH,3,Clay,R32,305,908,1,,Q,Edoardo Eremin,Antonio Sancic,6-1 7-6(4),1.19,4.8%,4.8%,39.7%,76.0%,47.4%,0/3,54.2%,49.1%,3.5%,36.4%,57.1%,5/5,120,3,3,63,25,38,2,1:26
+8-Aug-2016,Fano CH,3,Clay,R32,301,215,0,,,Filippo Volandri,Edoardo Eremin,7-5 6-4,0.86,2.9%,8.6%,50.0%,60.0%,40.0%,6/12,46.5%,43.2%,0.0%,36.7%,56.0%,4/10,144,2,6,70,35,35,0,1:38
+25-Jul-2016,Astana CH,3,Hard,R16,302,78,0,,1,Evgeny Donskoy,Edoardo Eremin,6-3 6-2,0.64,12.9%,7.1%,48.6%,64.7%,33.3%,9/14,41.8%,32.7%,5.8%,31.3%,35.0%,1/5,122,9,5,70,34,36,3,1:12
+25-Jul-2016,Astana CH,3,Hard,R32,302,281,1,,,Edoardo Eremin,Denys Molchanov,6-3 6-4,1.44,12.5%,1.8%,51.8%,86.2%,66.7%,4/4,55.5%,33.3%,0.0%,29.4%,40.0%,2/3,110,7,1,56,29,27,0,1:05
+18-Jul-2016,Recanati CH,3,Hard,R16,304,220,0,,,Adrian Menendez Maceiras,Edoardo Eremin,7-6(4) 7-6(3),0.66,19.6%,5.4%,55.4%,78.4%,56.1%,6/6,46.7%,20.8%,2.6%,13.7%,34.6%,0/4,169,18,5,92,51,41,2,1:58
+18-Jul-2016,Recanati CH,3,Hard,R32,304,169,1,,4,Edoardo Eremin,Eduardo Struvay,6-3 6-3,1.70,11.5%,3.8%,57.7%,83.3%,63.6%,3/3,57.5%,42.6%,8.2%,35.7%,57.9%,3/10,113,6,2,52,30,22,5,1:07
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,R16,310,218,0,WC,Q,Laslo Djere,Edoardo Eremin,7-6(5) 6-7(4) 6-3,0.94,2.5%,1.7%,48.3%,69.0%,56.5%,6/10,49.0%,35.3%,5.9%,28.2%,45.8%,2/8,239,3,2,120,58,62,7,2:54
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,R32,310,187,1,WC,8,Edoardo Eremin,Gregoire Barrere,6-3 6-2,1.79,19.1%,4.3%,55.3%,84.6%,66.7%,0/0,58.8%,42.0%,0.0%,34.5%,52.4%,3/7,97,9,2,47,26,21,0,1:08
+4-Jul-2016,Braunschweig CH,3,Clay,Q2,312,733,0,2,,Cedrik Marcel Stebe,Edoardo Eremin,5-7 7-6(5) 7-6(4),0.96,8.0%,4.3%,55.1%,78.9%,48.4%,6/8,50.0%,33.3%,1.6%,27.7%,44.2%,3/10,264,11,6,138,76,62,2,2:58
+27-Jun-2016,Marburg CH,3,Clay,Q3,312,264,0,8,3,Yannik Reuter,Edoardo Eremin,3-6 7-6(1) 7-5,1.07,15.2%,2.0%,57.6%,66.7%,57.1%,4/8,51.3%,40.0%,2.0%,37.7%,43.6%,4/6,199,15,2,99,57,42,2,2:13
+27-Jun-2016,Marburg CH,3,Clay,Q2,312,490,1,8,,Edoardo Eremin,Yannick Hanfmann,7-6(4) 6-4,1.35,10.0%,5.7%,52.9%,86.5%,51.5%,3/5,54.9%,40.5%,1.4%,29.3%,54.5%,3/5,144,7,4,70,37,33,1,1:30
+27-Jun-2016,Marburg CH,3,Clay,Q1,312,,1,8,,Edoardo Eremin,Tomasz Bednarek,6-3 7-5,1.31,5.2%,5.2%,50.0%,82.8%,58.6%,1/2,55.5%,38.5%,3.8%,17.9%,62.5%,3/4,110,3,3,58,29,29,2,1:08
+20-Jun-2016,Milan CH,3,Clay,R16,327,199,0,WC,WC,Matteo Donati,Edoardo Eremin,6-4 6-2,0.61,10.6%,4.3%,42.6%,75.0%,40.7%,2/6,40.8%,27.5%,7.8%,18.4%,53.8%,1/2,98,5,2,47,20,27,4,1:02
+20-Jun-2016,Milan CH,3,Clay,R32,327,116,1,WC,3,Edoardo Eremin,Roberto Carballes Baena,6-2 6-2,1.82,7.8%,2.0%,51.0%,73.1%,68.0%,5/5,61.7%,53.6%,1.8%,44.1%,68.2%,4/9,107,4,1,51,26,25,1,1:16
+6-Jun-2016,Prague CH,3,Clay,R16,321,83,0,Q,2,Rogerio Dutra Silva,Edoardo Eremin,6-4 2-1 RET,0.54,6.7%,8.9%,42.2%,78.9%,30.8%,2/5,40.5%,26.5%,8.8%,21.1%,33.3%,1/3,79,3,4,45,19,26,3,0:55
+6-Jun-2016,Prague CH,3,Clay,R32,321,197,1,Q,,Edoardo Eremin,Andrey Golubev,7-6(6) 6-4,1.66,3.2%,4.8%,66.7%,85.7%,57.1%,3/4,56.7%,39.4%,5.6%,32.7%,54.5%,2/2,134,2,3,63,42,21,4,1:25
+6-Jun-2016,Prague CH,3,Clay,Q3,321,319,1,,7,Edoardo Eremin,Andreas Beck,7-6(5) 6-4,0.96,10.5%,7.4%,54.7%,80.8%,39.5%,6/7,50.3%,36.3%,0.0%,37.8%,34.3%,2/8,175,10,7,95,52,43,0,1:54
+6-Jun-2016,Prague CH,3,Clay,Q2,321,,1,,WC,Edoardo Eremin,Lukas Dlouhy,6-0 7-5,1.46,12.7%,1.8%,60.0%,72.7%,45.5%,1/3,58.8%,55.9%,1.7%,40.6%,74.1%,6/10,114,7,1,55,33,22,1,1:03
+6-Jun-2016,Prague CH,3,Clay,Q1,321,290,1,,3,Edoardo Eremin,Juan Ignacio Londero,7-6(7) 6-2,1.41,10.8%,1.5%,58.5%,84.2%,59.3%,2/3,54.9%,36.8%,7.4%,30.0%,46.4%,3/5,133,7,1,65,38,27,5,1:27
+23-May-2016,Vicenza CH,3,Clay,SF,379,219,0,WC,Q,Pere Riba,Edoardo Eremin,6-7(2) 6-3 7-5,0.81,7.8%,0.8%,53.5%,62.3%,55.0%,13/17,47.4%,33.3%,7.6%,15.8%,54.2%,2/6,234,10,1,129,69,60,8,2:52
+23-May-2016,Vicenza CH,3,Clay,QF,379,213,1,WC,,Edoardo Eremin,Stefan Kozlov,6-1 3-6 6-3,1.25,10.7%,2.4%,46.4%,74.4%,51.1%,5/8,54.7%,47.7%,2.3%,42.9%,56.7%,5/14,170,9,2,84,39,45,2,2:06
+23-May-2016,Vicenza CH,3,Clay,R16,379,190,1,WC,,Edoardo Eremin,Henri Laaksonen,6-3 6-7(4) 6-2,1.05,8.0%,2.7%,61.6%,71.0%,53.5%,9/10,53.4%,37.7%,1.3%,38.9%,34.8%,4/7,189,9,3,112,69,43,1,2:04
+23-May-2016,Vicenza CH,3,Clay,R32,379,139,1,WC,3,Edoardo Eremin,Thiago Monteiro,2-6 7-6(3) 7-6(3),1.01,5.7%,1.0%,59.0%,67.7%,62.8%,5/8,49.5%,34.5%,1.8%,27.0%,48.7%,1/6,218,6,1,105,62,43,2,2:39
+16-May-2016,Mestre CH,3,Clay,R32,378,593,0,WC,Q,Nicolas Jarry,Edoardo Eremin,5-7 7-6(3) 7-6(6),0.94,6.5%,5.6%,41.9%,73.1%,56.9%,4/7,49.2%,34.2%,5.0%,27.6%,51.5%,4/10,244,8,7,124,52,72,6,2:54
+9-May-2016,Heilbronn CH,3,Clay,Q2,374,325,0,,,Andreas Beck,Edoardo Eremin,7-6(7) 6-7(4) 7-6(3),1.02,17.9%,0.8%,61.8%,73.7%,51.1%,9/13,49.8%,35.6%,2.3%,27.8%,47.2%,4/11,255,22,1,123,76,47,3,2:59
+9-May-2016,Heilbronn CH,3,Clay,Q1,374,292,1,,,Edoardo Eremin,James Mcgee,4-6 6-3 6-0,1.25,4.7%,4.7%,54.1%,65.2%,56.4%,7/10,55.3%,48.6%,1.4%,45.7%,53.6%,6/7,159,4,4,85,46,39,1,1:54
+18-Apr-2016,Turino CH,3,Clay,QF,365,241,0,WC,,Laslo Djere,Edoardo Eremin,6-3 6-3,0.59,2.0%,5.9%,58.8%,63.3%,47.6%,2/5,41.2%,25.5%,2.0%,14.3%,50.0%,0/1,102,1,3,51,30,21,1,1:08
+18-Apr-2016,Turino CH,3,Clay,R16,365,216,1,WC,,Edoardo Eremin,Uladzimir Ignatik,4-6 6-2 6-3,1.12,7.1%,4.1%,48.0%,68.1%,52.9%,5/8,53.5%,44.6%,1.4%,31.4%,73.9%,5/11,172,7,4,98,47,51,1,2:18
+18-Apr-2016,Turino CH,3,Clay,R32,365,107,1,WC,2,Edoardo Eremin,Thomas Fabbiano,3-6 6-1 7-5,1.26,11.0%,3.3%,53.8%,73.5%,57.1%,4/6,53.2%,42.9%,0.0%,41.1%,46.2%,4/17,203,10,3,91,49,42,0,2:22
+11-Apr-2016,Barletta CH,3,Clay,R16,363,364,0,WC,Q,Enrique Lopez Perez,Edoardo Eremin,6-2 6-2,0.49,5.3%,1.8%,45.6%,61.5%,32.3%,4/9,37.8%,26.8%,12.2%,17.9%,46.2%,1/2,98,3,1,57,26,31,5,1:01
+11-Apr-2016,Barletta CH,3,Clay,R32,363,132,1,WC,6,Edoardo Eremin,Igor Sijsling,6-7(6) 6-4 6-4,1.08,6.7%,2.9%,57.7%,73.3%,50.0%,4/7,51.4%,39.4%,3.8%,29.2%,56.4%,5/10,208,7,3,104,60,44,4,2:05
+4-Apr-2016,Napoli CH,3,Clay,Q1,366,288,0,,,Joris De Loore,Edoardo Eremin,6-2 6-3,0.43,6.0%,8.0%,50.0%,64.0%,44.0%,1/5,38.9%,20.0%,5.0%,18.5%,23.1%,0/0,90,3,4,50,25,25,2,0:58
+21-Mar-2016,Shenzhen CH,3,Hard,Q3,346,247,0,5,2,Jan Satral,Edoardo Eremin,6-3 6-3,0.67,3.7%,5.6%,64.8%,54.3%,52.6%,4/8,42.2%,30.9%,12.7%,18.8%,47.8%,1/3,109,2,3,54,35,19,7,1:00
+21-Mar-2016,Shenzhen CH,3,Hard,Q2,346,374,1,5,,Edoardo Eremin,Jimmy Wang,6-1 1-0 RET,4.71,10.0%,5.0%,65.0%,92.3%,71.4%,0/0,78.4%,70.6%,0.0%,75.0%,60.0%,3/3,37,2,1,20,13,7,0,0:38
+21-Mar-2016,Shenzhen CH,3,Hard,Q1,346,495,1,5,,Edoardo Eremin,Riccardo Ghedin,6-3 6-4,1.33,6.3%,1.6%,57.8%,75.7%,44.4%,3/5,56.5%,50.0%,5.0%,43.6%,61.9%,4/7,124,4,1,64,37,27,3,1:10
+14-Mar-2016,Guangzhou CH,3,Hard,Q2,344,247,0,,8,Artem Smirnov,Edoardo Eremin,7-6(4) 6-3,0.93,7.7%,1.5%,61.5%,67.5%,52.0%,1/3,47.3%,35.8%,2.5%,26.0%,51.6%,1/6,146,5,1,65,40,25,2,1:36
+14-Mar-2016,Guangzhou CH,3,Hard,Q1,344,2154,1,,WC,Edoardo Eremin,Long Chen,6-3 6-3,1.61,8.9%,0.0%,69.6%,76.9%,64.7%,4/4,57.0%,43.1%,1.5%,47.8%,31.6%,3/8,121,5,0,56,39,17,1,1:06
+7-Mar-2016,Zhuhai CH,3,Hard,Q3,344,361,0,3,5,Maximilian Neuchrist,Edoardo Eremin,7-5 2-6 7-6(5),1.07,8.8%,4.4%,61.9%,68.6%,53.5%,9/12,51.1%,39.8%,3.4%,29.3%,58.1%,4/10,231,10,5,113,70,43,4,2:36
+7-Mar-2016,Zhuhai CH,3,Hard,Q2,344,,1,3,WC,Edoardo Eremin,Hsien Yin Peng,6-2 7-6(3),1.53,3.2%,6.5%,56.5%,77.1%,66.7%,2/3,55.9%,41.9%,6.8%,38.1%,46.9%,3/9,136,2,4,62,35,27,5,1:19
+22-Feb-2016,Cherbourg CH,3,Hard,Q1,341,457,0,,,Evgeny Karlovskiy,Edoardo Eremin,7-6(4) 7-6(6),0.91,3.4%,2.3%,60.9%,67.9%,50.0%,2/4,47.5%,35.4%,5.2%,25.4%,64.0%,2/9,183,3,2,87,53,34,5,1:48
+9-Nov-2015,Ortisei CH,3,Hard,R32,357,426,0,WC,WC,Lorenzo Sonego,Edoardo Eremin,6-4 6-1,0.44,3.1%,10.9%,42.2%,63.0%,35.1%,8/13,37.4%,23.3%,4.7%,24.0%,22.2%,1/2,107,2,7,64,27,37,2,
+2-Nov-2015,Italy F34,3,Clay,F,353,752,0,3,7,Francesco Picco,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Italy F34,3,Clay,SF,353,281,1,3,1,Edoardo Eremin,Roberto Marcora,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Italy F34,3,Clay,QF,353,703,1,3,6,Edoardo Eremin,Antonio Massara,6-2 6-7(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Italy F34,3,Clay,R16,353,1195,1,3,,Edoardo Eremin,Davide Galoppini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Italy F34,3,Clay,R32,353,,1,3,WC,Edoardo Eremin,Maximilian Mann,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Germany F17,3,Hard,SF,358,704,0,2,,Robin Kern,Edoardo Eremin,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Germany F17,3,Hard,QF,358,1019,1,2,WC,Edoardo Eremin,Hannes Wagner,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Germany F17,3,Hard,R16,358,,1,2,Q,Edoardo Eremin,Jakob Schnaitter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Germany F17,3,Hard,R32,358,1009,1,2,Q,Edoardo Eremin,Christian Hirschmueller,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Turkey F39,3,Hard,QF,402,833,0,2,7,Luke Bambridge,Edoardo Eremin,7-6(6) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Turkey F39,3,Hard,R16,402,,1,2,Q,Edoardo Eremin,Robert Galloway,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Turkey F39,3,Hard,R32,402,1645,1,2,,Edoardo Eremin,Alp Sentay,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,F,402,503,1,4,6,Edoardo Eremin,Peter Heller,6-2 7-6(8),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,SF,402,483,1,4,7,Edoardo Eremin,Romain Barbosa,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,QF,402,1333,1,4,Q,Edoardo Eremin,Simon Friis Soendergaard,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,R16,402,,1,4,,Edoardo Eremin,Weiqiang Zheng,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Turkey F38,3,Hard,R32,402,1211,1,4,,Edoardo Eremin,Rigele Te,6-7(2) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2015,Genova CH,3,Clay,R16,479,114,0,WC,7,Nicolas Almagro,Edoardo Eremin,6-4 7-5,0.71,4.6%,0.9%,58.7%,64.1%,44.4%,13/16,46.4%,31.4%,4.3%,17.9%,40.5%,1/5,179,5,1,109,64,45,3,
+8-Sep-2015,Genova CH,3,Clay,R32,479,278,1,WC,WC,Edoardo Eremin,Lorenzo Giustino,6-7(4) 6-3 7-5,1.44,8.7%,3.3%,52.2%,87.5%,56.8%,0/1,54.1%,39.1%,1.7%,24.1%,54.4%,4/11,207,8,3,92,48,44,2,
+31-Aug-2015,Como CH,3,Clay,R32,479,592,0,WC,Q,Lorenzo Sonego,Edoardo Eremin,6-1 6-2,0.45,0.0%,4.0%,52.0%,50.0%,33.3%,7/12,35.2%,26.3%,2.6%,26.1%,26.7%,0/0,88,0,2,50,26,24,1,
+24-Aug-2015,Italy F24,3,Hard,F,473,293,0,4,1,Quentin Halys,Edoardo Eremin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Italy F24,3,Hard,SF,473,359,1,4,2,Edoardo Eremin,Alessandro Bega,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Italy F24,3,Hard,QF,473,542,1,4,6,Edoardo Eremin,David Rice,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Italy F24,3,Hard,R16,473,1640,1,4,WC,Edoardo Eremin,Riccardo Merone,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Italy F24,3,Hard,R32,473,1097,1,4,Q,Edoardo Eremin,Enrico Dalla Valle,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Egypt F27,3,Hard,R32,470,1317,0,3,Q,Nam Hoang Ly,Edoardo Eremin,7-5 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Portoroz CH,3,Hard,R32,483,201,0,Q,,Calvin Hemery,Edoardo Eremin,6-3 5-7 6-3,0.99,13.6%,3.7%,58.0%,74.5%,41.2%,3/8,48.6%,39.2%,6.9%,37.5%,41.3%,3/7,183,11,3,81,47,34,7,
+27-Jul-2015,France F16,3,Hard,QF,493,542,0,8,,Alexandre Sidorenko,Edoardo Eremin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,R16,493,979,1,8,,Edoardo Eremin,Teri Groll,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,France F16,3,Hard,R32,493,1010,1,8,,Edoardo Eremin,Michael Bois,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Recanati CH,3,Hard,R16,523,309,0,WC,,Joshua Milton,Edoardo Eremin,3-6 6-1 6-3,0.97,8.3%,3.6%,57.1%,60.4%,55.6%,10/15,48.9%,40.2%,4.3%,28.0%,54.8%,2/10,176,7,3,84,48,36,4,
+20-Jul-2015,Recanati CH,3,Hard,R32,523,836,1,WC,Q,Edoardo Eremin,Jesse Witten,6-3 6-1,1.74,14.9%,0.0%,68.1%,78.1%,60.0%,0/0,59.6%,48.1%,1.9%,53.1%,40.0%,4/7,99,7,0,47,32,15,1,
+13-Jul-2015,San Benedetto CH,3,Clay,R32,483,66,0,WC,2,Albert Ramos,Edoardo Eremin,6-3 6-4,0.59,5.2%,0.0%,55.2%,62.5%,46.2%,3/7,42.1%,26.5%,4.1%,17.9%,38.1%,1/2,107,3,0,58,32,26,2,
+6-Jul-2015,Italy F17,3,Clay,R16,487,350,0,,5,Federico Coria,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2015,Italy F17,3,Clay,R32,487,830,1,,,Edoardo Eremin,Pietro Rondoni,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Italy F15,3,Clay,R32,479,1358,0,,WC,Gian Marco Moroni,Edoardo Eremin,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Italy F14,3,Clay,R32,542,611,0,,,Viktor Galovic,Edoardo Eremin,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,F,540,524,1,5,4,Edoardo Eremin,Pascal Brunner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,SF,540,506,1,5,2,Edoardo Eremin,Maximilian Neuchrist,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,QF,540,456,1,5,3,Edoardo Eremin,Tom Kocevar Desman,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,R16,540,,1,5,Q,Edoardo Eremin,Matic Spec,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Slovenia F2,3,Clay,R32,540,,1,5,Q,Edoardo Eremin,Matjaz Jurman,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2015,Mestre CH,3,Clay,R32,535,376,0,WC,WC,Gianluigi Quinzi,Edoardo Eremin,6-3 6-1,0.60,4.3%,6.5%,37.0%,70.6%,27.6%,2/7,38.5%,34.0%,0.0%,24.1%,47.6%,1/4,96,2,3,46,17,29,0,1:05
+11-May-2015,Italy F9,3,Clay,R16,532,412,0,,5,Johan Sebastien Tatlot,Edoardo Eremin,2-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Italy F9,3,Clay,R32,532,802,1,,,Edoardo Eremin,Daniele Capecchi,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Turin CH,3,Clay,R32,548,286,0,Q,Q,Maxime Hamou,Edoardo Eremin,6-7(6) 6-4 6-4,0.92,15.5%,3.1%,51.5%,76.0%,34.0%,3/9,47.4%,40.7%,3.4%,38.2%,45.2%,4/11,215,15,3,97,50,47,4,2:23
+13-Apr-2015,Greece F4,3,Hard,F,696,669,1,,,Edoardo Eremin,Alexandros Jakupovic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Greece F4,3,Hard,SF,696,559,1,,8,Edoardo Eremin,Markus Eriksson,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Greece F4,3,Hard,QF,696,1676,1,,SE,Edoardo Eremin,Matteo Berrettini,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Greece F4,3,Hard,R16,696,832,1,,,Edoardo Eremin,Filip Brtnicky,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Greece F4,3,Hard,R32,696,1280,1,,Q,Edoardo Eremin,Antoine Bellier,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Greece F3,3,Hard,F,694,408,0,,2,Maxim Dubarenco,Edoardo Eremin,6-7(3) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Greece F3,3,Hard,SF,694,554,1,,,Edoardo Eremin,Vaclav Safranek,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Greece F3,3,Hard,QF,694,895,1,,,Edoardo Eremin,Hugo Grenier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Greece F3,3,Hard,R16,694,406,1,,4,Edoardo Eremin,Vladyslav Manafov,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Greece F3,3,Hard,R32,694,980,1,,,Edoardo Eremin,Kevin Kaczynski,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Turkey F12,3,Hard,R32,699,392,0,,6,Miki Jankovic,Edoardo Eremin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Turkey F11,3,Hard,SF,691,346,0,,4,Ricardo Rodriguez,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Turkey F11,3,Hard,QF,691,,1,,Q,Edoardo Eremin,Matteo Berrettini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Turkey F11,3,Hard,R16,691,317,1,,2,Edoardo Eremin,Gerard Granollers,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Turkey F11,3,Hard,R32,691,,1,,Q,Edoardo Eremin,Alexander Kuerschner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,QF,714,627,0,WC,JE,Quentin Halys,Edoardo Eremin,4-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,R16,714,448,1,WC,8,Edoardo Eremin,Matteo Trevisan,7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Italy F1,3,Hard,R32,714,519,1,WC,,Edoardo Eremin,Robin Kern,6-2 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Turkey F45,3,Hard,R16,721,780,0,,,Janis Podzus,Edoardo Eremin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Dec-2014,Turkey F45,3,Hard,R32,721,778,1,,,Edoardo Eremin,Jacob Adaktusson,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Italy F25,3,Clay,R32,575,1082,0,5,,Daniele Capecchi,Edoardo Eremin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Turkey F25,3,Hard,QF,647,267,0,6,1,Aldin Setkic,Edoardo Eremin,4-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Turkey F25,3,Hard,R16,647,1347,1,6,Q,Edoardo Eremin,Tomas Papik,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Turkey F25,3,Hard,R32,647,1374,1,6,WC,Edoardo Eremin,Sefa Suluoglu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Bulgaria F5,3,Clay,F,646,324,0,7,1,Mathias Bourgue,Edoardo Eremin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Bulgaria F5,3,Clay,SF,646,1087,1,7,,Edoardo Eremin,Konstantinos Mikos,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Bulgaria F5,3,Clay,QF,646,456,1,7,4,Edoardo Eremin,Gleb Sakharov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Bulgaria F5,3,Clay,R16,646,,1,7,Q,Edoardo Eremin,Oriol Garrobe Guilera,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,Bulgaria F5,3,Clay,R32,646,,1,7,WC,Edoardo Eremin,Nikolay Draganov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Bulgaria F4,3,Clay,R32,591,901,0,5,,Ronald Slobodchikov,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Bulgaria F3,3,Clay,QF,591,554,0,5,4,Alexander Lazov,Edoardo Eremin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Bulgaria F3,3,Clay,R16,591,792,1,5,,Edoardo Eremin,Andreas Mies,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Bulgaria F3,3,Clay,R32,591,1407,1,5,WC,Edoardo Eremin,Plamen Milushev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Italy F18,3,Clay,QF,605,520,0,WC,7,Daniel Dutra Da Silva,Edoardo Eremin,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Italy F18,3,Clay,R16,605,428,1,WC,3,Edoardo Eremin,Bjorn Fratangelo,6-2 2-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Italy F18,3,Clay,R32,605,669,1,WC,,Edoardo Eremin,Filippo Leonardi,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Italy F10,3,Clay,R32,599,346,0,,3,Salvatore Caruso,Edoardo Eremin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Italy F9,3,Clay,SF,597,456,0,,6,Oriol Roca Batalla,Edoardo Eremin,6-4 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Italy F9,3,Clay,QF,597,457,1,,7,Edoardo Eremin,Enrico Burzi,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Italy F9,3,Clay,R16,597,855,1,,SE,Edoardo Eremin,Viktor Galovic,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2014,Italy F9,3,Clay,R32,597,564,1,,,Edoardo Eremin,Francesco Picco,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Italy F8,3,Clay,R32,612,1929,0,9,Q,Antonio Terzo,Edoardo Eremin,7-6(2) 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Italy F7,3,Clay,SF,559,264,0,,2,Roberto Carballes Baena,Edoardo Eremin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Italy F7,3,Clay,QF,559,858,1,,Q,Edoardo Eremin,Gibril Diarra,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Italy F7,3,Clay,R16,559,348,1,,6,Edoardo Eremin,Salvatore Caruso,7-6(4) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Italy F7,3,Clay,R32,559,,1,,WC,Edoardo Eremin,Kevin Albonetti,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Kazakhstan F1,3,Hard,R16,484,378,0,Q,3,Alexey Vatutin,Edoardo Eremin,3-6 6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Kazakhstan F1,3,Hard,R32,484,1439,1,Q,,Edoardo Eremin,Giorgi Javakhishvili,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Italy F29,3,Clay,QF,441,278,0,5,2,Gianluca Naso,Edoardo Eremin,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Italy F29,3,Clay,R16,441,886,1,5,,Edoardo Eremin,Nicola Ghedin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Italy F29,3,Clay,R32,441,,1,5,Q,Edoardo Eremin,Antonio Terzo,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Italy F28,3,Clay,R32,445,472,0,8,,Matteo Donati,Edoardo Eremin,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Italy F27,3,Clay,SF,448,496,0,3,5,Maxime Chazal,Edoardo Eremin,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Italy F27,3,Clay,QF,448,937,1,3,,Edoardo Eremin,Nicola Ghedin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Italy F27,3,Clay,R16,448,,1,3,Q,Edoardo Eremin,Francesco Piccari,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Italy F27,3,Clay,R32,448,959,1,3,,Edoardo Eremin,Florian Fallert,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Italy F26,3,Clay,R32,449,1904,0,2,WC,Jacopo Stefanini,Edoardo Eremin,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Italy F25,3,Clay,QF,455,650,0,3,5,Francesco Picco,Edoardo Eremin,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Italy F25,3,Clay,R16,455,711,1,3,,Edoardo Eremin,Omar Giacalone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Italy F25,3,Clay,R32,455,2114,1,3,Q,Edoardo Eremin,Federico Ottolini,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Finland F3,3,Clay,QF,453,735,0,3,6,Andre Gaspar Murta,Edoardo Eremin,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Finland F3,3,Clay,R16,453,872,1,3,,Edoardo Eremin,Alexander Vasilenko,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Finland F3,3,Clay,R32,453,1036,1,3,,Edoardo Eremin,Henrik Sillanpaa,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Finland F2,3,Clay,R32,464,1032,0,3,,Juho Paukku,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Egypt F19,3,Clay,SF,477,325,0,4,1,Alberto Brizzi,Edoardo Eremin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Egypt F19,3,Clay,QF,477,921,1,4,8,Edoardo Eremin,Lorenzo Papasidero,7-6(4) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Egypt F19,3,Clay,R16,477,1048,1,4,,Edoardo Eremin,Lennart Zynga,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Egypt F19,3,Clay,R32,477,1305,1,4,,Edoardo Eremin,Mauricio Alvarez Guzman,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Egypt F18,3,Clay,SF,446,438,0,1,3,Cristobal Saavedra Corvalan,Edoardo Eremin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Egypt F18,3,Clay,QF,446,830,1,1,6,Edoardo Eremin,Denys Mylokostov,2-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Egypt F18,3,Clay,R16,446,1262,1,1,,Edoardo Eremin,Dmytro Kovalyov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Egypt F18,3,Clay,R32,446,,1,1,Q,Edoardo Eremin,Olivier Duberville,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Guimaraes CH,3,Hard,R32,421,494,0,,Q,Ivan Arenas Gualda,Edoardo Eremin,6-4 6-2,0.71,1.4%,4.2%,40.8%,51.7%,45.2%,4/9,43.0%,36.8%,3.5%,33.3%,50.0%,2/3,128,1,3,71,29,42,2,1:27
+24-Jun-2013,Italy F13,3,Clay,R16,460,358,0,,5,Alberto Brizzi,Edoardo Eremin,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Italy F13,3,Clay,R32,460,,1,,Q,Edoardo Eremin,Gregorio Lulli,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,F,458,375,0,5,3,Roberto Marcora,Edoardo Eremin,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,SF,458,1288,1,5,Q,Edoardo Eremin,Alessandro Colella,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,QF,458,359,1,5,1,Edoardo Eremin,Viktor Galovic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,R16,458,611,1,5,,Edoardo Eremin,Federico Gaio,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,R32,458,800,1,5,,Edoardo Eremin,Denis Gremelmayr,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Italy F12,3,Clay,R32,454,690,0,,,Enrico Burzi,Edoardo Eremin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Bulgaria F3,3,Clay,R32,450,705,0,5,,Tihomir Grozdanov,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Italy F8,3,Clay,R32,417,560,0,8,,Salvatore Caruso,Edoardo Eremin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Napoli CH,3,Clay,R16,443,203,0,WC,,Andrey Golubev,Edoardo Eremin,7-6(3) 2-0 RET,0.76,2.0%,2.0%,39.2%,50.0%,45.2%,5/9,44.1%,40.5%,0.0%,32.1%,57.1%,3/3,93,1,1,51,20,31,0,1:12
+29-Apr-2013,Napoli CH,3,Clay,R32,443,286,1,WC,,Edoardo Eremin,Leandro Migani,6-0 6-1,1.99,12.2%,2.0%,65.3%,78.1%,47.1%,1/1,66.3%,64.9%,0.0%,59.3%,80.0%,5/7,86,6,1,49,32,17,0,0:53
+22-Apr-2013,Italy F5,3,Clay,QF,448,317,0,,WC,Alberto Brizzi,Edoardo Eremin,6-7(6) 7-6(9) 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Italy F5,3,Clay,R16,448,1107,1,,WC,Edoardo Eremin,Filippo Baldi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Italy F5,3,Clay,R32,448,202,1,,1,Edoardo Eremin,Andrey Golubev,2-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Italy F3,3,Clay,R32,453,990,0,,Q,Francesco Borgo,Edoardo Eremin,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R16,488,320,0,,1,Martin Fischer,Edoardo Eremin,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R32,488,1676,1,,WC,Edoardo Eremin,Dimitri Bretting,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,F,543,433,0,,6,Stephane Bohli,Edoardo Eremin,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,SF,543,456,1,,,Edoardo Eremin,Laurynas Grigelis,6-7(6) 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,QF,543,606,1,,,Edoardo Eremin,Hugo Nys,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R16,543,281,1,,1,Edoardo Eremin,Peter Torebko,6-3 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R32,543,790,1,,Q,Edoardo Eremin,Rudy Coco,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Switzerland F1,3,Carpet,F,543,401,1,,6,Edoardo Eremin,Antoine Benneteau,5-7 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Switzerland F1,3,Carpet,SF,543,347,1,,4,Edoardo Eremin,Sandro Ehrat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Switzerland F1,3,Carpet,QF,543,198,1,,1,Edoardo Eremin,Bastian Knittel,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Switzerland F1,3,Carpet,R16,543,336,1,,5,Edoardo Eremin,Viktor Galovic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Switzerland F1,3,Carpet,R32,543,704,1,,,Edoardo Eremin,Giacomo Oradini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,R16,545,377,0,Q,,Kevin Krawietz,Edoardo Eremin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Croatia F2,3,Hard,R32,545,659,1,Q,Q,Edoardo Eremin,Kristijan Mesaros,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,Germany F3,3,Carpet,R16,561,620,0,,Q,Alexander Bury,Edoardo Eremin,6-3 6-7(10) 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,Germany F3,3,Carpet,R32,561,674,1,,Q,Edoardo Eremin,Bastian Trinker,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,Germany F2,3,Hard,R16,561,288,0,,2,Dzmitry Zhyrmont,Edoardo Eremin,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,Germany F2,3,Hard,R32,561,674,1,,,Edoardo Eremin,Bastian Trinker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Greece F5,3,Carpet,QF,567,501,0,5,2,Julien Dubail,Edoardo Eremin,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Greece F5,3,Carpet,R16,567,530,1,5,,Edoardo Eremin,Theodoros Angelinos,7-6(3) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Greece F5,3,Carpet,R32,567,620,1,5,,Edoardo Eremin,Patrik Brydolf,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Greece F4,3,Carpet,SF,562,565,0,6,8,Alexander Sadecky,Edoardo Eremin,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Greece F4,3,Carpet,QF,562,435,1,6,3,Edoardo Eremin,Michal Schmid,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Greece F4,3,Carpet,R16,562,1521,1,6,Q,Edoardo Eremin,Sebastian Wagner,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Greece F4,3,Carpet,R32,562,1028,1,6,,Edoardo Eremin,Stepan Khotulev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Turkey F39,3,Hard,R32,561,1014,0,8,Q,Patrick Ciorcila,Edoardo Eremin,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,QF,576,280,0,8,2,Stephane Bohli,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R16,576,1763,1,8,Q,Edoardo Eremin,Filip Vittek,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R32,576,579,1,8,,Edoardo Eremin,Salvatore Caruso,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,QF,537,700,0,8,,Artem Sitak,Edoardo Eremin,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,R16,537,1897,1,8,Q,Edoardo Eremin,Jannick Lupescu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,R32,537,959,1,8,,Edoardo Eremin,Joshua Jones,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Italy F24,3,Hard,QF,524,310,0,8,2,Julien Obry,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Italy F24,3,Hard,R16,524,1537,1,8,Q,Edoardo Eremin,Daniele Chiurulli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,Italy F24,3,Hard,R32,524,749,1,8,,Edoardo Eremin,Enrico Iannuzzi,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Russia F12,3,Clay,R32,532,450,0,,5,Alexander Lobkov,Edoardo Eremin,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Russia F11,3,Clay,QF,529,449,0,8,4,Nikoloz Basilashvili,Edoardo Eremin,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Russia F11,3,Clay,R16,529,1017,1,8,Q,Edoardo Eremin,Nikolai Fidirko,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Russia F11,3,Clay,R32,529,,1,8,WC,Edoardo Eremin,Dmitri Marfinsky,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Turkey F29,3,Clay,F,532,804,0,2,,Alexander Lazov,Edoardo Eremin,1-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Turkey F29,3,Clay,SF,532,700,1,2,4,Edoardo Eremin,Karim Mohamed Maamoun,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Turkey F29,3,Clay,QF,532,871,1,2,,Edoardo Eremin,Alessandro Colella,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Turkey F29,3,Clay,R16,532,1409,1,2,SE,Edoardo Eremin,Julien Demois,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Turkey F29,3,Clay,R32,532,,1,2,Q,Edoardo Eremin,David Pamminger,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Turkey F28,3,Clay,SF,529,899,0,2,,Alexander Lazov,Edoardo Eremin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Turkey F28,3,Clay,QF,529,1096,1,2,,Edoardo Eremin,Omar Giacalone,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Turkey F28,3,Clay,R16,529,1042,1,2,,Edoardo Eremin,Ramkumar Ramanathan,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Turkey F28,3,Clay,R32,529,1165,1,2,,Edoardo Eremin,Nicola Ghedin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Monza CH,3,Clay,R32,533,125,0,WC,8,Daniel Gimeno Traver,Edoardo Eremin,4-6 7-5 6-3,0.71,8.8%,3.3%,56.0%,78.4%,47.5%,5/7,45.7%,25.0%,2.4%,21.4%,32.1%,1/1,175,8,3,91,51,40,2,1:51
+4-Jun-2012,Italy F12,3,Clay,R32,534,293,0,,3,Riccardo Ghedin,Edoardo Eremin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Bulgaria F3,3,Clay,R16,563,415,0,,6,Moritz Baumann,Edoardo Eremin,7-6(6) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Bulgaria F3,3,Clay,R32,563,,1,,WC,Edoardo Eremin,Photos Photiades,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,F,558,394,0,5,2,Ivan Sergeyev,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,SF,558,857,1,5,,Edoardo Eremin,Theodoros Angelinos,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,QF,558,293,1,5,1,Edoardo Eremin,Antal Van Der Duim,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,R16,558,859,1,5,,Edoardo Eremin,Laslo Urrutia Fuentes,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,R32,558,,1,5,Q,Edoardo Eremin,Dinko Halachev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Italy F7,3,Clay,R16,561,408,0,,2,Jonathan Eysseric,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Italy F7,3,Clay,R32,561,1629,1,,Q,Edoardo Eremin,Matteo Fago,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Italy F6,3,Clay,R32,560,908,0,,WC,Francesco Borgo,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Italy F4,3,Clay,R32,560,306,0,Q,3,Michael Linzer,Edoardo Eremin,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,QF,572,232,0,,1,Radu Albot,Edoardo Eremin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,R16,572,1083,1,,WC,Edoardo Eremin,Haluk Akkoyun,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,R32,572,502,1,,6,Edoardo Eremin,Artem Smirnov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,R32,572,214,0,,1,Pavol Cervenak,Edoardo Eremin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Ukraine F3,3,Hard,R16,579,624,0,8,,Mikhail Biryukov,Edoardo Eremin,6-4 3-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Ukraine F3,3,Hard,R32,579,1506,1,8,WC,Edoardo Eremin,Boris Melamed,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,R32,579,526,0,,,Andis Juska,Edoardo Eremin,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Ukraine F1,3,Hard,R16,577,579,0,8,,Sandro Ehrat,Edoardo Eremin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Ukraine F1,3,Hard,R32,577,1778,1,8,WC,Edoardo Eremin,Maksim Malyshev,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Dec-2011,Brazil F44,3,Clay,R32,579,1010,0,6,,Raul Francisquiny,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2011,Brazil F43,3,Clay,R16,578,746,0,7,,Edward Corrie,Edoardo Eremin,7-6(0) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2011,Brazil F43,3,Clay,R32,578,950,1,7,Q,Edoardo Eremin,Filipe Brandao,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Kuwait F3,3,Hard,R16,596,1103,0,5,Q,Kalle Averfalk,Edoardo Eremin,7-6(1) RET,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Kuwait F3,3,Hard,R32,596,1165,1,5,Q,Edoardo Eremin,Levente Godry,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Kuwait F2,3,Hard,QF,598,367,0,6,1,Alexandre Folie,Edoardo Eremin,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Kuwait F2,3,Hard,R16,598,1282,1,6,Q,Edoardo Eremin,Levente Godry,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Kuwait F2,3,Hard,R32,598,1144,1,6,Q,Edoardo Eremin,Luca Margaroli,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Kuwait F1,3,Hard,R32,601,831,0,6,,Mathias Bourgue,Edoardo Eremin,6-7(3) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Italy F30,3,Carpet,QF,609,288,0,7,1,Marco Crugnola,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Italy F30,3,Carpet,R16,609,,1,7,Q,Edoardo Eremin,Lorenzo Apostolico,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Italy F30,3,Carpet,R32,609,,1,7,WC,Edoardo Eremin,Gianmarco Cacace,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Portugal F5,3,Clay,R32,658,639,0,,,Richard Becker,Edoardo Eremin,6-3 3-6 7-6(10),,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Portugal F4,3,Clay,SF,661,445,0,,5,Julien Obry,Edoardo Eremin,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Portugal F4,3,Clay,QF,661,339,1,,1,Edoardo Eremin,Pedro Clar Rossello,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Portugal F4,3,Clay,R16,661,560,1,,,Edoardo Eremin,Carlos Calderon Rodriguez,6-7(1) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Portugal F4,3,Clay,R32,661,1210,1,,,Edoardo Eremin,Stephan Fransen,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2011,Genova CH,3,Clay,R32,738,106,0,WC,8,Frederico Gil,Edoardo Eremin,6-4 6-3,0.86,11.4%,5.7%,55.7%,61.5%,38.7%,6/10,46.7%,41.8%,0.0%,39.6%,50.0%,2/6,137,8,4,70,39,31,0,1:29
+29-Aug-2011,Serbia F9,3,Clay,F,738,400,0,6,2,Mirza Basic,Edoardo Eremin,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,SF,738,711,1,6,7,Edoardo Eremin,Dane Propoggia,6-3 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,QF,738,571,1,6,3,Edoardo Eremin,Ivan Bjelica,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,R16,738,1460,1,6,,Edoardo Eremin,Marko Mijacevic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2011,Serbia F9,3,Clay,R32,738,1035,1,6,,Edoardo Eremin,Miki Jankovic,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Serbia F8,3,Clay,R32,695,638,0,,,Vladimir Obradovic,Edoardo Eremin,1-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Italy F23,3,Clay,R32,653,591,0,WC,,Jose Rubin Statham,Edoardo Eremin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Turkey F22,3,Clay,R16,719,796,0,,,Francois Arthur Vibert,Edoardo Eremin,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Turkey F22,3,Clay,R32,719,837,1,,,Edoardo Eremin,Alessandro Colella,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Turkey F21,3,Clay,SF,896,766,0,,PR,Jerome Inzerillo,Edoardo Eremin,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Turkey F21,3,Clay,QF,896,828,1,,,Edoardo Eremin,Alessandro Colella,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Turkey F21,3,Clay,R16,896,1254,1,,Q,Edoardo Eremin,Constantin Belot,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Turkey F21,3,Clay,R32,896,743,1,,8,Edoardo Eremin,Andrei Ciumac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Turkey F20,3,Clay,F,896,466,0,,4,Michael Linzer,Edoardo Eremin,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Turkey F20,3,Clay,SF,896,582,1,,7,Edoardo Eremin,Alexandros Jakupovic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Turkey F20,3,Clay,QF,896,1460,1,,Q,Edoardo Eremin,Damiano Di Ienno,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Turkey F20,3,Clay,R16,896,583,1,,8,Edoardo Eremin,Paris Gemouchidis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2011,Turkey F20,3,Clay,R32,896,,1,,WC,Edoardo Eremin,Can Altiner,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Italy F18,3,Clay,R32,884,307,0,WC,4,Stefano Travaglia,Edoardo Eremin,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,R32,886,655,0,,,Sami Reinwein,Edoardo Eremin,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Italy F14,3,Clay,R32,887,665,0,Q,,Guillermo Carry,Edoardo Eremin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Romania F1,3,Clay,R32,903,1012,0,,Q,Gabriel Moraru,Edoardo Eremin,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bulgaria F3,3,Clay,R16,920,457,0,,2,Razvan Sabau,Edoardo Eremin,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bulgaria F3,3,Clay,R32,920,1260,1,,Q,Edoardo Eremin,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bulgaria F2,3,Clay,R16,922,551,0,,6,Tihomir Grozdanov,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bulgaria F2,3,Clay,R32,922,,1,,Q,Edoardo Eremin,Georgi Jordanov,6-2 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bulgaria F1,3,Clay,R32,924,402,0,,2,Adrian Cruciat,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Italy F5,3,Clay,R32,926,396,0,Q,,Luca Vanni,Edoardo Eremin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,Q4,923,1232,0,1,,Lucas Renard,Edoardo Eremin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,Q4,923,1040,0,6,14,Omar Hedayet,Edoardo Eremin,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Turkey F9,3,Clay,Q4,923,978,0,8,11,Alessandro Colella,Edoardo Eremin,0-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Turkey F8,3,Hard,R32,923,1076,0,Q,Q,Rafal Gozdur,Edoardo Eremin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Kuwait F2,3,Hard,R16,944,328,0,,3,Sebastian Rieschick,Edoardo Eremin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Kuwait F2,3,Hard,R32,944,,1,,Q,Edoardo Eremin,Farzad Heidari,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Kuwait F1,3,Hard,R32,948,421,0,,5,Roko Karanusic,Edoardo Eremin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Italy F29,3,Hard,R32,951,855,0,,,Cristian Rodriguez,Edoardo Eremin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Russia F5,3,Clay,QF,,315,0,Q,1,Artem Sitak,Edoardo Eremin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Russia F5,3,Clay,R16,,620,1,Q,6,Edoardo Eremin,Mikhail Fufygin,6-3 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Russia F5,3,Clay,R32,,1096,1,Q,,Edoardo Eremin,Victor Kozin,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Russia F4,3,Clay,QF,,457,0,Q,4,David Savic,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Russia F4,3,Clay,R16,,,1,Q,Q,Edoardo Eremin,Artem Pudovkin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Russia F4,3,Clay,R32,,1094,1,Q,,Edoardo Eremin,Victor Kozin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,132 @@
+body {
+    background-color: rgb(17,17,17);
+    font-family: Candara;
+    color: #A0AABA;
+}
+
+input {
+  color: #A0AABA;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.DateRangePickerInput {
+  border-color: #A0AABA;
+  border-radius: 30px;
+  background-color: rgb(17,17,17);
+  margin-left: 10px;
+}
+
+.DateInput {
+  width: 80px;
+  background: rgb(17,17,17) !important;
+  border-radius: 30px;
+}
+
+.DateInput_input {
+  background: rgb(17,17,17) !important;
+  font-family: Candara;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 0px;
+  padding-left: 8px;
+  color: #A0AABA !important;
+  border-radius: 30px;
+}
+
+.DateInput_input__disabled {
+  font-style: normal;
+}
+
+.DateInput_input__abled {
+  color: #A0AABA;
+}
+
+#h2hinput1, #h2hinput2 {
+  display: inline-block;
+  width: 50%;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #A0AABA !important;
+
+}
+
+.Select-value-label {
+  color: #A0AABA !important;
+  font-weight: bold;
+  text-align: center !important;
+}
+
+.tabs_styles {
+  height: auto !important;
+}
+
+.tab_style {
+  color: #A0AABA !important;
+  background-color: rgb(17,17,17) !important;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px !important;
+}
+
+.tab_selected_style {
+  background-color: #007eff !important;
+  color: gold !important;
+  padding: 5px !important;
+  border-color: gold !important;
+}
+
+.selection-area {
+  border-style: solid;
+  border-color: gold !important;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 900px) {
+    .column2 {
+      width: 100%;
+    }
+  }
+
+   /* Create three equal columns that floats next to each other */
+   .column3 {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row3:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 1370px) {
+    .column3 {
+      width: 100%;
+    }
+  }

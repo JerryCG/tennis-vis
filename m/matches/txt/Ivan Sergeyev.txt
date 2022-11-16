@@ -1,0 +1,468 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+19-Apr-2021,M15 Antalya,3,Clay,R32,1398,624,0,LL,,Andrea Basso,Ivan Sergeyev,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Antalya,3,Clay,R16,1394,945,0,WC,Q,Matteo Arnaldi,Ivan Sergeyev,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Antalya,3,Clay,R32,1394,696,1,WC,PR,Ivan Sergeyev,Constantin Schmitz,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Novomoskovsk,3,Clay,QF,1777,457,0,Q,3,Bogdan Bobrov,Ivan Sergeyev,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Novomoskovsk,3,Clay,R16,1777,1282,1,Q,Q,Ivan Sergeyev,Vladimir Uzhylovsky,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2020,M15 Novomoskovsk,3,Clay,R32,1777,718,1,Q,,Ivan Sergeyev,Oleg Prihodko,7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M15 Chornomorsk,3,Clay,R32,1327,896,0,,8,Gergely Madarasz,Ivan Sergeyev,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2019,M25 Irpin,3,Clay,R32,1187,492,0,,7,Genaro Alberto Olivieri,Ivan Sergeyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M15 Irpin,3,Clay,R16,1252,761,0,,4,Dennis Uspensky,Ivan Sergeyev,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M15 Irpin,3,Clay,R32,1252,,1,,JR   ,Ivan Sergeyev,Illia Biloborodko,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2018,Panama F4,3,Clay,QF,1483,871,0,,,Daniil Zarichanskyy,Ivan Sergeyev,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2018,Panama F4,3,Clay,R16,1483,736,1,,3,Ivan Sergeyev,Maksim Tikhomirov,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2018,Panama F4,3,Clay,R32,1483,,1,,,Ivan Sergeyev,Noah Berry,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Ukraine F4,3,Clay,QF,,476,0,,2,Alessandro Petrone,Ivan Sergeyev,6-0 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Ukraine F4,3,Clay,R16,,697,1,,,Ivan Sergeyev,Roman Hassanov,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2018,Ukraine F4,3,Clay,R32,,1378,1,,Q,Ivan Sergeyev,Martin Fekiac,5-7 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Panama City CH,3,Clay,Q2,1593,496,0,,3,Peter Torebko,Ivan Sergeyev,6-3 2-0 RET,0.69,2.8%,2.8%,63.9%,34.8%,30.8%,1/5,39.7%,45.9%,8.1%,37.0%,70.0%,2/3,73,1,1,36,23,13,3,0:55
+2-Apr-2018,Panama City CH,3,Clay,Q1,1593,,1,,,Ivan Sergeyev,Alex Lawson,6-2 6-2,1.59,4.2%,6.3%,58.3%,75.0%,45.0%,2/4,61.0%,59.6%,5.8%,51.4%,76.5%,6/14,100,2,3,48,28,20,3,1:07
+8-May-2017,Ukraine F1,3,Clay,R16,,447,0,PR,4,Filip Horansky,Ivan Sergeyev,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Ukraine F1,3,Clay,R32,,858,1,PR,,Ivan Sergeyev,George Tsivadze,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Panama City CH,3,Clay,Q1,,580,0,WC,,Facundo Arguello,Ivan Sergeyev,6-3 6-1,0.55,0.0%,4.1%,71.4%,48.6%,35.7%,2/7,37.9%,30.4%,8.7%,23.3%,43.8%,1/4,95,0,2,49,35,14,4,1:07
+26-Sep-2016,Ukraine F5,3,Hard,R32,,509,0,Q,4,Lukas Mugevicius,Ivan Sergeyev,6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+22-Aug-2016,Poland F6,3,Clay,R32,,1318,0,PR,Q,Marek Gengel,Ivan Sergeyev,6-1 5-7 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Szczecin CH,3,Clay,R32,247,147,0,,6,Dustin Brown,Ivan Sergeyev,6-3 6-2,0.64,0.0%,4.0%,66.0%,66.7%,41.2%,2/5,42.2%,26.9%,5.8%,14.8%,40.0%,0/2,102,0,2,50,33,17,3,1:01
+26-Aug-2013,US Open,5,Hard,Q1,205,129,0,,15,Alex Kuznetsov,Ivan Sergeyev,6-2 4-1 RET,0.51,0.0%,2.7%,56.8%,52.4%,50.0%,2/4,37.7%,25.0%,22.5%,8.0%,53.3%,0/2,77,0,1,37,21,16,9,0:48
+12-Aug-2013,Meerbusch CH,3,Clay,R32,190,426,0,7,WC,Pavol Cervenak,Ivan Sergeyev,6-1 6-2,0.57,0.0%,10.6%,55.3%,46.2%,28.6%,1/7,36.7%,34.9%,7.0%,22.6%,66.7%,1/2,90,0,5,47,26,21,3,1:01
+5-Aug-2013,San Marino CH,3,Clay,R32,178,93,0,,2,Adrian Ungur,Ivan Sergeyev,1-6 6-3 6-1,0.76,1.4%,7.0%,54.9%,56.4%,37.5%,2/7,43.8%,39.4%,1.5%,42.5%,34.6%,4/8,137,1,5,71,39,32,1,1:42
+29-Jul-2013,Liberec CH,3,Clay,R16,184,120,0,,4,Blaz Kavcic,Ivan Sergeyev,6-4 6-0,0.58,0.0%,5.1%,49.2%,55.2%,30.0%,8/14,38.5%,33.3%,8.9%,20.0%,60.0%,2/3,104,0,3,59,29,30,4,1:16
+29-Jul-2013,Liberec CH,3,Clay,R32,184,334,1,,WC,Ivan Sergeyev,Michal Konecny,3-6 7-5 7-5,0.92,1.9%,1.9%,56.7%,57.6%,57.8%,14/18,48.7%,38.9%,5.3%,31.6%,50.0%,5/11,199,2,2,104,59,45,5,2:42
+22-Jul-2013,Astana CH,3,Hard,QF,195,97,0,7,1,Dudi Sela,Ivan Sergeyev,6-1 6-1,0.51,2.6%,7.9%,55.3%,47.6%,35.3%,2/7,35.4%,29.5%,6.8%,20.8%,40.0%,0/1,82,1,3,38,21,17,3,0:55
+22-Jul-2013,Astana CH,3,Hard,R16,195,473,1,7,LL,Ivan Sergeyev,Mikhail Biryukov,6-4 6-4,1.16,4.6%,3.1%,55.4%,66.7%,58.6%,2/4,54.4%,42.9%,2.0%,31.3%,64.7%,4/7,114,3,2,65,36,29,1,1:08
+22-Jul-2013,Astana CH,3,Hard,R32,195,283,1,7,,Ivan Sergeyev,Jose Rubin Statham,6-4 4-6 6-4,1.07,1.9%,1.9%,61.7%,62.1%,53.7%,10/14,51.4%,43.9%,5.6%,35.3%,59.0%,5/12,214,2,2,107,66,41,6,2:15
+8-Jul-2013,Scheveningen CH,3,Clay,R16,182,59,0,,1,Robin Haase,Ivan Sergeyev,6-1 6-0,0.39,2.9%,5.9%,67.6%,43.5%,18.2%,0/5,29.7%,25.0%,12.5%,22.7%,27.8%,0/2,74,1,2,34,23,11,5,0:38
+8-Jul-2013,Scheveningen CH,3,Clay,R32,182,293,1,,,Ivan Sergeyev,Miljan Zekic,6-1 6-4,1.46,0.0%,7.1%,67.9%,81.6%,38.9%,2/2,56.5%,47.1%,7.4%,33.3%,69.2%,4/13,124,0,4,56,38,18,5,1:13
+1-Jul-2013,Braunschweig CH,3,Clay,R16,177,444,0,,Q,Filip Krajinovic,Ivan Sergeyev,6-2 6-2,0.70,1.6%,10.9%,56.3%,55.6%,39.3%,2/6,42.1%,36.2%,11.6%,32.5%,41.4%,0/9,133,1,7,64,36,28,8,1:20
+1-Jul-2013,Braunschweig CH,3,Clay,R32,177,52,1,,2,Ivan Sergeyev,Horacio Zeballos,3-6 6-1 6-4,1.19,2.4%,6.0%,61.4%,72.5%,40.6%,7/11,53.4%,47.3%,6.5%,31.8%,61.2%,6/11,176,2,5,83,51,32,6,1:49
+17-Jun-2013,Milan CH,3,Clay,R32,177,457,0,3,WC,Matteo Trevisan,Ivan Sergeyev,6-1 0-6 6-1,0.82,5.6%,3.7%,61.1%,60.6%,42.9%,2/7,45.5%,37.9%,1.7%,31.0%,44.8%,3/6,112,3,2,54,33,21,1,1:25
+10-Jun-2013,Kosice CH,3,Clay,R32,174,234,0,7,,Julio Cesar Campozano,Ivan Sergeyev,6-1 6-1,0.52,0.0%,0.0%,57.9%,36.4%,25.0%,1/7,33.7%,35.6%,0.0%,28.1%,53.8%,1/2,83,0,0,38,22,16,0,1:04
+3-Jun-2013,Prostejov CH,3,Clay,R16,176,179,0,,,Peter Gojowczyk,Ivan Sergeyev,6-4 6-0,0.72,0.0%,9.1%,53.0%,45.7%,45.2%,9/14,42.2%,39.1%,8.7%,33.3%,46.7%,1/7,135,0,6,66,35,31,6,1:20
+3-Jun-2013,Prostejov CH,3,Clay,R32,176,162,1,,,Ivan Sergeyev,Rik De Voest,6-1 6-4,1.30,1.6%,6.6%,59.0%,63.9%,32.0%,5/8,57.0%,64.2%,3.8%,59.3%,69.2%,7/12,114,1,4,61,36,25,2,1:02
+27-May-2013,Roland Garros,5,Clay,Q1,176,161,0,,,Cedrik Marcel Stebe,Ivan Sergeyev,6-4 6-2,0.75,0.0%,1.7%,55.0%,42.4%,44.4%,5/11,43.0%,42.6%,3.3%,41.9%,44.4%,3/7,121,0,1,60,33,27,2,1:15
+6-May-2013,Rome2 CH,3,Clay,R32,157,112,0,,8,Federico Delbonis,Ivan Sergeyev,6-2 2-0 RET,0.67,0.0%,3.4%,58.6%,47.1%,16.7%,0/4,39.7%,43.6%,0.0%,43.3%,44.4%,1/4,68,0,1,29,17,12,0,0:47
+29-Apr-2013,Tunis CH,3,Clay,R16,155,130,0,,,Adrian Ungur,Ivan Sergeyev,6-1 6-2,0.56,2.2%,13.3%,51.1%,43.5%,27.3%,2/8,36.0%,36.4%,4.5%,34.6%,38.9%,1/2,89,1,6,45,23,22,2,0:55
+29-Apr-2013,Tunis CH,3,Clay,R32,155,125,1,,7,Ivan Sergeyev,Matteo Viola,4-6 7-6(2) 5-3 RET,1.00,2.2%,6.5%,53.8%,60.0%,41.9%,1/8,49.8%,48.3%,2.6%,37.5%,65.9%,7/13,209,2,6,93,50,43,3,2:02
+20-Mar-2013,Miami Masters,3,Hard,Q1,148,117,0,,21,Marc Gicquel,Ivan Sergeyev,6-7(3) 6-1 6-4,0.83,5.1%,4.1%,51.0%,68.0%,41.7%,8/13,45.8%,37.1%,7.6%,20.4%,54.9%,2/11,203,5,4,98,50,48,8,2:09
+7-Mar-2013,Indian Wells Masters,3,Hard,Q1,148,74,0,,3,Daniel Brands,Ivan Sergeyev,6-3 6-4,0.75,2.9%,11.8%,47.1%,68.8%,36.1%,5/9,45.0%,36.5%,11.5%,24.2%,57.9%,2/2,120,2,8,68,32,36,6,1:02
+25-Feb-2013,Dubai,3,Hard,Q2,147,167,0,8,,Igor Kunitsyn,Ivan Sergeyev,2-6 6-4 4-0 RET,0.82,0.0%,3.5%,40.4%,69.6%,47.1%,1/5,45.2%,35.8%,7.5%,30.0%,44.4%,3/8,124,0,2,57,23,34,5,1:28
+25-Feb-2013,Dubai,3,Hard,Q1,147,206,1,8,,Ivan Sergeyev,Marsel Ilhan,7-6(4) 6-2,1.38,4.4%,4.4%,52.9%,83.3%,53.1%,2/3,54.7%,42.7%,6.1%,28.2%,55.8%,3/9,150,3,3,68,36,32,5,1:31
+4-Feb-2013,Bergamo CH,3,Hard,R32,152,399,0,8,LL,Marco Cecchinato,Ivan Sergeyev,6-1 6-1,0.38,4.4%,6.7%,53.3%,41.7%,38.1%,2/7,31.8%,22.5%,5.0%,23.8%,21.1%,0/2,85,2,3,45,24,21,2,0:40
+21-Jan-2013,Heilbronn CH,3,Hard,R32,154,66,0,,2,Benjamin Becker,Ivan Sergeyev,6-3 6-2,0.59,9.1%,3.6%,41.8%,73.9%,31.3%,9/13,40.0%,30.0%,12.0%,23.3%,40.0%,1/1,105,5,2,55,23,32,6,0:56
+14-Jan-2013,Australian Open,5,Hard,Q1,154,170,0,29,,Adrian Mannarino,Ivan Sergeyev,6-2 7-5,0.42,1.6%,4.8%,59.7%,59.5%,52.0%,2/5,39.6%,18.4%,16.3%,11.5%,26.1%,0/0,111,1,3,62,37,25,8,1:10
+30-Dec-2012,Brisbane,3,Hard,Q1,155,69,0,,2,Ryan Harrison,Ivan Sergeyev,6-3 6-2,0.82,0.0%,7.0%,44.2%,68.4%,54.2%,0/3,43.8%,32.3%,4.8%,28.9%,37.5%,0/7,105,0,3,43,19,24,3,1:00
+19-Nov-2012,Tyumen CH,3,Hard,SF,162,96,0,4,1,Evgeny Donskoy,Ivan Sergeyev,6-3 7-6(2),0.43,2.7%,4.0%,60.0%,71.1%,46.7%,2/4,42.6%,16.7%,11.1%,6.9%,28.0%,0/0,129,2,3,75,45,30,6,1:22
+19-Nov-2012,Tyumen CH,3,Hard,QF,162,281,1,4,,Ivan Sergeyev,Denys Molchanov,6-3 6-3,1.55,0.0%,2.2%,69.6%,71.9%,64.3%,0/1,56.0%,47.1%,5.7%,36.1%,58.8%,4/9,116,0,1,46,32,14,4,1:17
+19-Nov-2012,Tyumen CH,3,Hard,R16,162,267,1,4,,Ivan Sergeyev,Konstantin Kravchuk,6-4 7-5,1.15,4.7%,0.0%,46.9%,86.7%,58.8%,0/1,52.4%,32.3%,6.5%,30.0%,36.4%,3/8,126,3,0,64,30,34,4,1:29
+19-Nov-2012,Tyumen CH,3,Hard,R32,162,1068,1,4,WC,Ivan Sergeyev,Vladislav Dubinsky,6-3 6-0,1.65,7.1%,3.6%,50.0%,78.6%,60.7%,1/1,62.0%,50.0%,2.8%,47.8%,53.8%,4/6,92,4,2,56,28,28,1,0:48
+12-Nov-2012,Helsinki CH,3,Hard,R32,161,72,0,,3,Benjamin Becker,Ivan Sergeyev,7-6(2) 7-5,0.81,11.8%,3.5%,49.4%,71.4%,53.5%,7/10,48.1%,30.4%,8.7%,21.6%,40.6%,2/2,154,10,3,85,42,43,6,1:39
+5-Nov-2012,Bratislava CH,3,Hard,R16,160,471,0,,LL,Ivo Klec,Ivan Sergeyev,6-7(5) 7-6(5) 6-3,1.09,7.5%,2.8%,52.3%,78.6%,52.9%,2/5,50.0%,36.6%,4.6%,22.2%,54.2%,2/11,238,8,3,107,56,51,6,2:17
+5-Nov-2012,Bratislava CH,3,Hard,R32,160,137,1,,,Ivan Sergeyev,Frank Dancevic,7-6(4) 6-4,1.51,27.3%,4.5%,65.2%,88.4%,56.5%,0/0,54.2%,34.2%,6.6%,31.1%,38.7%,1/5,142,18,3,66,43,23,5,1:15
+29-Oct-2012,Geneva CH,3,Hard,R16,159,97,0,,7,Olivier Rochus,Ivan Sergeyev,6-1 6-3,0.57,10.4%,8.3%,41.7%,65.0%,39.3%,3/7,39.4%,28.3%,0.0%,14.3%,50.0%,0/2,94,5,4,48,20,28,0,1:00
+29-Oct-2012,Geneva CH,3,Hard,R32,159,157,1,,,Ivan Sergeyev,Andrey Golubev,6-4 6-2,1.46,3.6%,5.5%,54.5%,83.3%,60.0%,3/3,55.1%,39.7%,6.3%,15.6%,64.5%,3/9,118,2,3,55,30,25,4,1:12
+15-Oct-2012,Moscow,3,Hard,Q2,158,253,0,7,,Konstantin Kravchuk,Ivan Sergeyev,7-6(6) 6-4,0.76,8.1%,1.4%,59.5%,70.5%,60.0%,3/4,46.5%,25.7%,14.3%,20.8%,36.4%,0/5,144,6,1,74,44,30,10,1:32
+15-Oct-2012,Moscow,3,Hard,Q1,158,519,1,7,,Ivan Sergeyev,Stanislav Poplavskyy,6-4 7-6(0),1.40,7.8%,1.6%,54.7%,77.1%,62.1%,2/4,55.8%,41.5%,7.7%,32.5%,56.0%,3/5,129,5,1,64,35,29,5,1:21
+8-Oct-2012,Tashkent CH,3,Hard,R32,159,59,0,,1,Lukas Lacko,Ivan Sergeyev,6-2 6-3,0.63,8.6%,0.0%,60.3%,60.0%,39.1%,3/8,42.3%,30.4%,13.0%,26.9%,35.0%,1/2,104,5,0,58,35,23,6,1:03
+24-Sep-2012,Lermontov CH,3,Clay,QF,157,226,0,6,,Boris Pashanski,Ivan Sergeyev,6-0 7-6(5),0.72,11.8%,0.0%,64.5%,61.2%,40.7%,7/10,43.9%,33.3%,2.8%,24.4%,45.2%,0/1,148,9,0,76,49,27,2,1:47
+24-Sep-2012,Lermontov CH,3,Clay,R16,157,320,1,6,,Ivan Sergeyev,Andrey Kumantsov,6-3 6-4,1.30,13.8%,5.2%,60.3%,82.9%,56.5%,0/0,55.0%,35.8%,11.3%,25.0%,52.4%,2/2,111,8,3,58,35,23,6,1:05
+24-Sep-2012,Lermontov CH,3,Clay,R32,157,253,1,6,,Ivan Sergeyev,Steven Diez,6-4 6-3,1.23,5.1%,1.7%,61.0%,75.0%,47.8%,2/3,54.4%,43.6%,0.0%,42.9%,45.0%,4/4,114,3,1,59,36,23,0,1:22
+17-Sep-2012,Szczecin CH,3,Clay,SF,176,136,0,,,Inigo Cervantes Huegun,Ivan Sergeyev,7-5 6-3,0.75,3.8%,3.8%,59.5%,53.2%,40.6%,10/16,44.2%,39.0%,3.4%,23.1%,51.5%,3/6,138,3,3,79,47,32,2,1:36
+17-Sep-2012,Szczecin CH,3,Clay,QF,176,200,1,,Q,Ivan Sergeyev,Guido Andreozzi,6-3 6-4,1.34,5.7%,1.9%,43.4%,73.9%,46.7%,1/4,57.0%,55.6%,5.6%,50.0%,66.7%,6/8,107,3,1,53,23,30,3,1:10
+17-Sep-2012,Szczecin CH,3,Clay,R16,176,140,1,,6,Ivan Sergeyev,Federico Delbonis,6-4 7-5,1.14,4.5%,0.0%,70.1%,66.0%,55.0%,1/3,52.6%,42.6%,2.9%,38.0%,55.6%,4/8,135,3,0,67,47,20,2,1:21
+17-Sep-2012,Szczecin CH,3,Clay,R32,176,269,1,,,Ivan Sergeyev,Bastian Knittel,6-3 6-4,1.88,10.2%,2.0%,69.4%,85.3%,46.7%,1/3,60.7%,50.0%,0.0%,47.8%,58.3%,4/8,107,5,1,49,34,15,0,1:16
+10-Sep-2012,Banja Luka CH,3,Clay,SF,196,118,0,,7,Andreas Haider Maurer,Ivan Sergeyev,6-2 6-3,0.73,3.2%,4.8%,53.2%,54.5%,37.9%,6/11,42.9%,39.1%,9.4%,30.4%,61.1%,2/10,126,2,3,62,33,29,6,1:33
+10-Sep-2012,Banja Luka CH,3,Clay,QF,196,222,1,,,Ivan Sergeyev,Peter Torebko,3-6 6-2 6-3,1.40,1.4%,2.9%,54.3%,78.9%,53.1%,0/3,55.4%,46.0%,8.0%,37.8%,52.0%,5/12,157,1,2,70,38,32,7,1:49
+10-Sep-2012,Banja Luka CH,3,Clay,R16,196,138,1,,5,Ivan Sergeyev,Dusan Lajovic,6-7(2) 6-2 7-5,1.05,2.3%,0.8%,57.4%,60.8%,49.1%,9/13,51.5%,46.4%,4.5%,34.3%,64.4%,7/16,241,3,1,129,74,55,5,3:06
+10-Sep-2012,Banja Luka CH,3,Clay,R32,196,234,1,,,Ivan Sergeyev,Attila Balazs,6-3 6-2,1.61,8.5%,1.7%,54.2%,78.1%,55.6%,2/3,60.0%,51.8%,3.6%,38.9%,75.0%,4/10,115,5,1,59,32,27,2,1:13
+4-Sep-2012,Alphen aan den Rijn CH,3,Clay,R16,198,221,0,,,Yannick Mertens,Ivan Sergeyev,6-4 3-6 7-5,0.91,2.8%,2.8%,61.5%,61.2%,50.0%,8/13,48.8%,39.4%,6.4%,33.8%,53.8%,4/12,203,3,3,109,67,42,6,2:00
+4-Sep-2012,Alphen aan den Rijn CH,3,Clay,R32,198,153,1,,6,Ivan Sergeyev,Jonathan Dasnieres De Veigy,6-2 6-7(2) 6-4,1.10,6.1%,1.7%,62.6%,77.8%,39.5%,11/13,52.3%,40.2%,8.4%,37.7%,44.7%,5/11,222,7,2,115,72,43,9,2:44
+27-Aug-2012,US Open,5,Hard,Q1,198,121,0,,13,Ruben Bemelmans,Ivan Sergeyev,4-6 6-4 6-3,0.90,8.4%,6.3%,56.8%,63.0%,46.3%,10/15,48.1%,39.8%,6.8%,25.9%,66.7%,4/6,183,8,6,95,54,41,6,1:52
+13-Aug-2012,Karshi CH,3,Hard,SF,216,145,0,5,1,Igor Kunitsyn,Ivan Sergeyev,6-3 6-1,0.49,2.1%,6.3%,70.8%,52.9%,35.7%,3/7,37.4%,25.6%,9.3%,10.5%,37.5%,0/0,91,1,3,48,34,14,4,1:02
+13-Aug-2012,Karshi CH,3,Hard,QF,216,285,1,5,,Ivan Sergeyev,Vishnu Vardhan,7-6(6) 7-5,1.20,4.1%,2.7%,60.3%,79.5%,62.1%,1/2,53.1%,32.9%,8.6%,29.2%,40.9%,2/3,143,3,2,73,44,29,6,1:45
+13-Aug-2012,Karshi CH,3,Hard,R16,216,360,1,5,,Ivan Sergeyev,Christopher Rungkat,6-4 6-4,2.16,30.6%,6.1%,59.2%,93.1%,65.0%,0/0,56.6%,39.7%,1.4%,33.3%,54.5%,2/6,122,15,3,49,29,20,1,1:08
+13-Aug-2012,Karshi CH,3,Hard,R32,216,234,1,5,,Ivan Sergeyev,Andrej Martin,7-6(2) 6-1,1.37,6.9%,6.9%,63.9%,67.4%,42.3%,4/7,57.7%,56.9%,0.0%,50.0%,70.0%,5/6,130,5,5,72,46,26,0,1:29
+6-Aug-2012,Samarkand CH,3,Clay,QF,232,168,0,6,3,Dusan Lajovic,Ivan Sergeyev,6-4 2-6 6-4,1.05,5.4%,2.7%,56.8%,73.8%,50.0%,1/5,50.7%,38.2%,6.6%,34.2%,42.1%,4/6,150,4,2,74,42,32,5,1:46
+6-Aug-2012,Samarkand CH,3,Clay,R16,232,495,1,6,,Ivan Sergeyev,Yuri Schukin,6-3 0-6 6-2,0.96,7.2%,1.4%,52.2%,72.2%,48.5%,1/4,49.6%,37.5%,1.6%,25.6%,61.9%,3/4,133,5,1,69,36,33,1,1:33
+6-Aug-2012,Samarkand CH,3,Clay,R32,232,1392,1,6,,Ivan Sergeyev,Ervin Eleskovic,7-5 6-2,1.85,17.0%,1.9%,64.2%,88.2%,57.9%,0/0,57.5%,41.8%,11.9%,32.4%,53.3%,3/8,120,9,1,53,34,19,8,1:06
+16-Jul-2012,Poznan CH,3,Clay,R32,229,250,0,,,Marek Michalicka,Ivan Sergeyev,6-3 6-1,0.65,0.0%,8.0%,46.0%,52.2%,40.7%,4/9,40.0%,35.0%,3.3%,33.3%,37.5%,1/8,110,0,4,50,23,27,2,1:09
+9-Jul-2012,San Benedetto CH,3,Clay,SF,253,159,0,,1,Andreas Haider Maurer,Ivan Sergeyev,7-6(2) 4-6 7-6(4),1.06,4.3%,2.6%,60.0%,69.6%,54.3%,5/9,51.3%,38.5%,4.6%,32.4%,48.8%,5/15,224,5,3,115,69,46,5,2:58
+9-Jul-2012,San Benedetto CH,3,Clay,QF,253,403,1,,Q,Ivan Sergeyev,Jerome Inzerillo,6-1 6-4,1.88,10.4%,0.0%,60.4%,72.4%,73.7%,2/3,61.9%,51.0%,2.0%,51.7%,50.0%,4/7,97,5,0,48,29,19,1,1:12
+9-Jul-2012,San Benedetto CH,3,Clay,R16,253,237,1,,7,Ivan Sergeyev,Simon Greul,6-4 5-7 6-4,1.21,5.3%,2.1%,57.9%,76.4%,52.5%,4/7,52.4%,40.9%,2.6%,32.7%,48.3%,4/12,210,5,2,95,55,40,3,2:44
+9-Jul-2012,San Benedetto CH,3,Clay,R32,253,358,1,,,Ivan Sergeyev,Matteo Marrai,6-0 6-1,3.65,16.1%,3.2%,67.7%,81.0%,80.0%,0/0,75.0%,70.7%,2.4%,70.6%,71.4%,6/9,72,5,1,31,21,10,1,0:42
+25-Jun-2012,Russia F9,3,Clay,F,295,375,0,1,3,Andrey Kumantsov,Ivan Sergeyev,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Russia F9,3,Clay,SF,295,581,1,1,,Ivan Sergeyev,Alexander Rumyantsev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Russia F9,3,Clay,QF,295,504,1,1,6,Ivan Sergeyev,Ivan Nedelko,6-4 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Russia F9,3,Clay,R16,295,,1,1,WC,Ivan Sergeyev,Evgeny Tikhonov,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,Russia F9,3,Clay,R32,295,1873,1,1,Q,Ivan Sergeyev,Ilya Lebedev,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Russia F8,3,Clay,F,290,578,0,1,,Nikoloz Basilashvili,Ivan Sergeyev,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Russia F8,3,Clay,SF,290,694,1,1,,Ivan Sergeyev,Valery Rudnev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Russia F8,3,Clay,QF,290,818,1,1,,Ivan Sergeyev,Alexander Pavlioutchenkov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Russia F8,3,Clay,R16,290,922,1,1,,Ivan Sergeyev,Anton Zaitsev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Russia F8,3,Clay,R32,290,1462,1,1,Q,Ivan Sergeyev,Alexandr Igoshin,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Turkey F22,3,Hard,F,327,564,0,2,5,Aleksandr Nedovyesov,Ivan Sergeyev,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Turkey F22,3,Hard,SF,327,1352,1,2,,Ivan Sergeyev,Anil Yuksel,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Turkey F22,3,Hard,QF,327,1322,1,2,,Ivan Sergeyev,William Boe Wiegaard,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Turkey F22,3,Hard,R16,327,943,1,2,,Ivan Sergeyev,Tuna Altuna,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Turkey F22,3,Hard,R32,327,,1,2,Q,Ivan Sergeyev,Mert Dinc,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Turkey F21,3,Clay,F,327,372,0,3,4,Florian Reynet,Ivan Sergeyev,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Turkey F21,3,Clay,SF,327,564,1,3,8,Ivan Sergeyev,Aleksandr Nedovyesov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Turkey F21,3,Clay,QF,327,563,1,3,7,Ivan Sergeyev,Patrik Brydolf,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Turkey F21,3,Clay,R16,327,637,1,3,,Ivan Sergeyev,Sergei Krotiouk,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Turkey F21,3,Clay,R32,327,1352,1,3,WC,Ivan Sergeyev,Anil Yuksel,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,F,394,558,1,2,5,Ivan Sergeyev,Edoardo Eremin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,SF,394,602,1,2,7,Ivan Sergeyev,Aleksandr Nedovyesov,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,QF,394,798,1,2,,Ivan Sergeyev,Jiri Skoloudik,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,R16,394,852,1,2,,Ivan Sergeyev,Leonardo Tavares,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Bulgaria F2,3,Clay,R32,394,888,1,2,,Ivan Sergeyev,Valentin Dimov,6-4 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Bulgaria F1,3,Clay,F,389,680,1,4,,Ivan Sergeyev,Teodor Dacian Craciun,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Bulgaria F1,3,Clay,SF,389,599,1,4,7,Ivan Sergeyev,Tihomir Grozdanov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Bulgaria F1,3,Clay,QF,389,1255,1,4,WC,Ivan Sergeyev,Todor Enev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Bulgaria F1,3,Clay,R16,389,,1,4,Q,Ivan Sergeyev,Thomas Statzberger,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Bulgaria F1,3,Clay,R32,389,1930,1,4,Q,Ivan Sergeyev,Dragos Dima,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Uzbekistan F2,3,Hard,F,526,385,0,,3,Vishnu Vardhan,Ivan Sergeyev,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Uzbekistan F2,3,Hard,SF,526,282,1,,2,Ivan Sergeyev,Evgeny Kirillov,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Uzbekistan F2,3,Hard,QF,526,574,1,,,Ivan Sergeyev,Dzmitry Zhyrmont,7-6(4) 2-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Uzbekistan F2,3,Hard,R16,526,486,1,,7,Ivan Sergeyev,Mikhail Fufygin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Uzbekistan F2,3,Hard,R32,526,719,1,,,Ivan Sergeyev,Andrei Vasilevski,5-7 6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Uzbekistan F1,3,Hard,F,529,271,1,,1,Ivan Sergeyev,Uladzimir Ignatik,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Uzbekistan F1,3,Hard,SF,529,627,1,,,Ivan Sergeyev,Alexey Vatutin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Uzbekistan F1,3,Hard,QF,529,459,1,,5,Ivan Sergeyev,Karan Rastogi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Uzbekistan F1,3,Hard,R16,529,284,1,,2,Ivan Sergeyev,Evgeny Kirillov,7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Uzbekistan F1,3,Hard,R32,529,1521,1,,Q,Ivan Sergeyev,Vaja Uzakov,6-7(1) 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Turkey F13,3,Hard,QF,552,728,0,7,Q,Aleksandr Nedovyesov,Ivan Sergeyev,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Turkey F13,3,Hard,R16,552,855,1,7,,Ivan Sergeyev,Alessandro Colella,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Turkey F13,3,Hard,R32,552,810,1,7,,Ivan Sergeyev,Joris De Loore,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,SF,655,525,0,,7,Sergio Gutierrez Ferrol,Ivan Sergeyev,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,QF,655,413,1,,5,Ivan Sergeyev,Mohamed Safwat,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,R16,655,319,1,,3,Ivan Sergeyev,Michal Konecny,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Turkey F12,3,Hard,R32,655,1060,1,,Q,Ivan Sergeyev,George Von Massow,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,F,655,466,1,,6,Ivan Sergeyev,Florian Reynet,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,SF,655,525,1,,7,Ivan Sergeyev,Sergio Gutierrez Ferrol,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,QF,655,214,1,,1,Ivan Sergeyev,Pavol Cervenak,6-1 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,R16,655,485,1,,5,Ivan Sergeyev,Christian Lindell,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Turkey F11,3,Clay,R32,655,894,1,,Q,Ivan Sergeyev,Ivo Mijic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Turkey F10,3,Clay,QF,738,426,0,,3,Nick Van Der Meer,Ivan Sergeyev,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Turkey F10,3,Clay,R16,738,527,1,,6,Ivan Sergeyev,Murad Inoyatov,W/O,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Turkey F10,3,Clay,R32,738,1715,1,,Q,Ivan Sergeyev,Egor Kovalev,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2012,Ukraine F3,3,Hard,R32,738,288,0,,1,Denis Matsukevitch,Ivan Sergeyev,7-5 7-6(0),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,F,734,526,0,Q,,Andis Juska,Ivan Sergeyev,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,SF,734,,1,Q,Q,Ivan Sergeyev,Vladimir Uzhylovsky,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,QF,734,683,1,Q,,Ivan Sergeyev,Marko Lenz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,R16,734,1499,1,Q,Q,Ivan Sergeyev,Aleksandr Nedovyesov,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Ukraine F2,3,Hard,R32,734,475,1,Q,7,Ivan Sergeyev,Artem Smirnov,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Ukraine F1,3,Hard,R32,735,575,0,,7,Andriej Kapas,Ivan Sergeyev,6-1 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Turkey F4,3,Hard,QF,791,339,0,,4,Damir Dzumhur,Ivan Sergeyev,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Turkey F4,3,Hard,R16,791,476,1,,,Ivan Sergeyev,Aldin Setkic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Turkey F4,3,Hard,R32,791,442,1,,7,Ivan Sergeyev,Artem Smirnov,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Turkey F3,3,Hard,QF,710,520,0,Q,,Dimitar Kutrovsky,Ivan Sergeyev,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Turkey F3,3,Hard,R16,710,490,1,Q,,Ivan Sergeyev,Florian Reynet,6-4 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Turkey F3,3,Hard,R32,710,341,1,Q,2,Ivan Sergeyev,Damir Dzumhur,4-6 6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Turkey F2,3,Hard,R16,710,362,0,Q,3,Steven Diez,Ivan Sergeyev,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Turkey F2,3,Hard,R32,710,774,1,Q,Q,Ivan Sergeyev,Carlos Gomez Herrera,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Iran F4,3,Clay,QF,772,377,0,,3,Michael Linzer,Ivan Sergeyev,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Iran F4,3,Clay,R16,772,410,1,,6,Ivan Sergeyev,Grzegorz Panfil,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Iran F4,3,Clay,R32,772,1190,1,,,Ivan Sergeyev,Stephan Fransen,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2011,Iran F3,3,Clay,QF,682,384,0,,4,Boy Westerhof,Ivan Sergeyev,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2011,Iran F3,3,Clay,R16,682,,1,,,Ivan Sergeyev,Joel Kincaid,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2011,Iran F3,3,Clay,R32,682,,1,,LL,Ivan Sergeyev,Mohamad Mahyari,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Moscow,3,Hard,Q1,651,463,0,,,Alexander Rumyantsev,Ivan Sergeyev,6-4 4-6 6-3,0.93,9.5%,5.4%,45.9%,73.5%,57.5%,2/6,47.8%,32.5%,10.8%,25.0%,45.2%,3/7,157,7,4,74,34,40,9,1:50
+3-Oct-2011,Turkey F26,3,Hard,R16,624,533,0,,8,Mohamed Safwat,Ivan Sergeyev,7-5 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Turkey F26,3,Hard,R32,624,,1,,WC,Ivan Sergeyev,Fatih Taha Erun,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Turkey F25,3,Hard,SF,627,326,0,,3,Philipp Oswald,Ivan Sergeyev,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Turkey F25,3,Hard,QF,627,578,1,,,Ivan Sergeyev,Takuto Niki,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Turkey F25,3,Hard,R16,627,1413,1,,LL,Ivan Sergeyev,William Boe Wiegaard,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Turkey F25,3,Hard,R32,627,547,1,,,Ivan Sergeyev,Sean Thornley,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,QF,296,1006,0,1,,Roberto Marcora,Ivan Sergeyev,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,R16,296,757,1,1,,Ivan Sergeyev,Marc Giner,7-5 5-7 7-6(6),,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Turkey F17,3,Clay,R32,296,941,1,1,,Ivan Sergeyev,Barry King,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Guangzhou CH,3,Hard,R32,264,214,0,,,Antonio Veic,Ivan Sergeyev,6-3 6-4,0.80,2.1%,6.3%,60.4%,79.3%,31.6%,1/4,44.1%,31.7%,7.9%,23.8%,47.6%,1/8,111,1,3,48,29,19,5,1:19
+14-Feb-2011,Meknes CH,3,Clay,R32,253,192,0,,8,Simone Vagnozzi,Ivan Sergeyev,6-1 7-6(2),0.69,5.6%,1.4%,62.5%,55.6%,48.1%,7/11,43.6%,32.8%,1.6%,28.2%,40.9%,2/4,133,4,1,72,45,27,1,1:26
+17-Jan-2011,Australian Open,5,Hard,Q2,198,131,0,,17,Simon Greul,Ivan Sergeyev,4-0 RET,0.43,0.0%,6.7%,40.0%,33.3%,33.3%,2/4,31.0%,28.6%,7.1%,9.1%,100.0%,0/0,29,0,1,15,6,9,1,0:15
+17-Jan-2011,Australian Open,5,Hard,Q1,198,268,1,,,Ivan Sergeyev,Amir Weintraub,6-3 6-7(6) 6-3,1.25,12.1%,3.7%,56.1%,78.3%,46.8%,7/10,54.1%,44.2%,6.2%,41.3%,50.0%,5/20,220,13,4,107,60,47,7,2:14
+2-Jan-2011,Brisbane,3,Hard,Q1,199,183,0,,,Tatsuma Ito,Ivan Sergeyev,7-5 7-5,0.82,8.6%,0.0%,61.4%,60.5%,44.4%,4/9,46.3%,37.5%,3.1%,35.3%,40.0%,3/4,134,6,0,70,43,27,2,1:25
+15-Nov-2010,Salzburg CH,3,Hard,R32,197,96,0,,2,Karol Beck,Ivan Sergeyev,7-6(5) 7-5,0.87,5.3%,4.3%,52.1%,73.5%,51.1%,5/7,48.6%,32.5%,6.0%,17.5%,46.5%,1/5,177,5,4,94,49,45,5,2:01
+8-Nov-2010,Ortisei CH,3,Carpet,R16,200,124,0,,5,Martin Fischer,Ivan Sergeyev,7-6(5) 6-3,0.74,9.5%,1.4%,60.8%,77.8%,27.6%,5/8,45.1%,30.9%,10.3%,25.0%,39.3%,1/3,142,7,1,74,45,29,7,1:22
+8-Nov-2010,Ortisei CH,3,Carpet,R32,200,903,1,,WC,Ivan Sergeyev,Daniele Bracciali,6-2 6-2,2.39,9.8%,4.9%,56.1%,87.0%,72.2%,0/0,62.8%,46.7%,11.1%,46.4%,47.1%,4/6,86,4,2,41,23,18,5,0:49
+1-Nov-2010,Astana2 CH,3,Hard,R32,200,351,0,,,Michail Elgin,Ivan Sergeyev,6-1 6-2,0.67,3.6%,7.3%,45.5%,60.0%,43.3%,4/8,41.2%,32.8%,9.4%,13.8%,48.6%,0/2,119,2,4,55,25,30,6,1:09
+25-Oct-2010,St. Petersburg,3,Hard,Q3,211,830,0,3,,Frantisek Cermak,Ivan Sergeyev,2-6 6-3 6-4,1.07,4.5%,4.5%,65.2%,69.0%,41.9%,8/13,51.4%,43.3%,6.7%,34.4%,62.1%,4/4,179,4,4,89,58,31,6,1:58
+25-Oct-2010,St. Petersburg,3,Hard,Q2,211,704,1,3,,Ivan Sergeyev,Andrei Gorban,6-4 6-2,2.15,10.9%,0.0%,71.7%,87.9%,61.5%,1/1,59.2%,42.1%,3.5%,38.2%,47.8%,3/10,103,5,0,46,33,13,2,0:55
+25-Oct-2010,St. Petersburg,3,Hard,Q1,211,806,1,3,,Ivan Sergeyev,Danila Arsenov,6-4 6-2,1.48,5.7%,0.0%,62.3%,75.8%,55.0%,1/2,57.0%,47.5%,6.6%,38.2%,59.3%,4/8,114,3,0,53,33,20,4,1:13
+18-Oct-2010,Moscow,3,Hard,Q1,209,657,0,,,Richard Muzaev,Ivan Sergeyev,6-4 6-1,0.35,9.3%,1.9%,61.1%,60.6%,33.3%,3/7,36.2%,17.5%,10.0%,0.0%,35.0%,0/0,94,5,1,54,33,21,4,0:58
+11-Oct-2010,Tashkent CH,3,Hard,R16,211,164,0,,7,Gilles Muller,Ivan Sergeyev,7-5 3-1 RET,0.65,13.0%,6.5%,56.5%,80.8%,45.0%,1/3,44.4%,22.7%,27.3%,16.7%,50.0%,0/1,90,6,3,46,26,20,12,0:55
+11-Oct-2010,Tashkent CH,3,Hard,R32,211,1015,1,,WC,Ivan Sergeyev,Vaja Uzakov,6-2 6-4,1.68,34.8%,4.3%,58.7%,88.9%,47.4%,1/2,58.1%,47.5%,1.7%,38.2%,60.0%,4/5,105,16,2,46,27,19,1,1:00
+20-Sep-2010,Trnava CH,3,Clay,R32,214,248,0,,,Guillermo Olaso,Ivan Sergeyev,7-5 4-6 6-4,0.95,4.8%,4.8%,63.5%,58.8%,41.3%,13/20,48.8%,45.5%,1.5%,38.4%,54.2%,6/17,258,6,6,126,80,46,2,3:12
+13-Sep-2010,Szczecin CH,3,Clay,R16,212,139,0,,,Daniel Munoz De La Nava,Ivan Sergeyev,6-3 6-4,0.76,3.8%,6.3%,58.2%,65.2%,39.4%,11/14,45.0%,34.7%,6.9%,30.6%,43.5%,1/13,151,3,5,79,46,33,5,1:42
+13-Sep-2010,Szczecin CH,3,Clay,R32,212,270,1,,LL,Ivan Sergeyev,Laurent Rochette,6-2 6-0,8.33,6.7%,0.0%,66.7%,95.0%,90.0%,0/0,67.7%,55.6%,3.2%,42.5%,78.3%,5/15,93,2,0,30,20,10,2,0:57
+6-Sep-2010,Alphen aan den Rijn CH,3,Clay,R16,223,185,0,,8,Christophe Rochus,Ivan Sergeyev,6-3 RET,0.80,13.0%,6.5%,50.0%,60.9%,34.8%,5/8,45.7%,41.7%,0.0%,35.3%,57.1%,1/4,70,6,3,46,23,23,0,0:42
+6-Sep-2010,Alphen aan den Rijn CH,3,Clay,R32,223,429,1,,LL,Ivan Sergeyev,Farrukh Dustov,6-2 6-4,1.26,2.9%,0.0%,68.1%,63.8%,54.5%,4/5,54.7%,49.4%,1.2%,40.4%,65.5%,4/14,150,2,0,69,47,22,1,1:53
+30-Aug-2010,US Open,5,Hard,Q2,223,182,0,,,Simone Vagnozzi,Ivan Sergeyev,6-2 6-2,0.67,8.9%,4.4%,46.7%,61.9%,37.5%,2/6,40.8%,34.5%,3.4%,34.3%,34.8%,0/4,103,4,2,45,21,24,2,1:06
+30-Aug-2010,US Open,5,Hard,Q1,223,194,1,,,Ivan Sergeyev,Vincent Millot,2-6 6-4 7-6(2),0.89,4.0%,10.9%,50.5%,64.7%,36.0%,3/10,47.2%,43.9%,5.1%,37.9%,52.5%,6/15,199,4,11,101,51,50,5,2:18
+22-Aug-2010,New Haven,3,Hard,Q1,169,30,0,,1,Radek Stepanek,Ivan Sergeyev,6-2 6-4,0.55,4.1%,6.8%,52.1%,57.9%,48.6%,6/10,42.5%,25.5%,10.6%,21.9%,33.3%,1/2,120,3,5,73,38,35,5,1:06
+9-Aug-2010,Istanbul CH,3,Hard,R32,147,198,0,,,Vincent Millot,Ivan Sergeyev,6-4 6-4,0.82,5.5%,7.3%,67.3%,67.6%,22.2%,3/8,45.3%,38.7%,11.3%,33.3%,46.2%,3/10,117,3,4,55,37,18,7,1:14
+2-Aug-2010,Beijing CH,3,Hard,R32,149,360,0,2,,Harri Heliovaara,Ivan Sergeyev,6-4 7-5,0.81,8.6%,1.4%,52.9%,75.7%,36.4%,6/10,46.0%,34.8%,7.2%,30.8%,40.0%,2/5,139,6,1,70,37,33,5,1:32
+26-Jul-2010,Saransk CH,3,Clay,F,179,376,1,3,,Ivan Sergeyev,Marek Semjan,7-6(2) 6-1,1.35,3.8%,1.3%,52.6%,82.9%,48.6%,3/4,56.5%,44.9%,5.8%,34.0%,73.7%,3/9,147,3,1,78,41,37,4,1:41
+26-Jul-2010,Saransk CH,3,Clay,SF,179,181,1,3,,Ivan Sergeyev,Andrey Kuznetsov,5-7 6-4 6-4,1.17,10.6%,3.2%,54.3%,78.4%,44.2%,2/6,52.5%,43.4%,6.6%,34.4%,55.6%,5/11,200,10,3,94,51,43,7,2:06
+26-Jul-2010,Saransk CH,3,Clay,QF,179,226,1,3,8,Ivan Sergeyev,Laurent Recouderc,6-2 6-1,1.68,6.8%,1.7%,59.3%,80.0%,54.2%,4/4,62.0%,51.2%,0.0%,56.7%,36.4%,4/6,100,4,1,59,35,24,0,0:59
+26-Jul-2010,Saransk CH,3,Clay,R16,179,859,1,3,WC,Ivan Sergeyev,Anton Manegin,6-0 6-1,2.23,13.5%,2.7%,70.3%,88.5%,36.4%,0/0,65.6%,60.4%,1.9%,52.0%,67.9%,6/11,90,5,1,37,26,11,1,0:53
+26-Jul-2010,Saransk CH,3,Clay,R32,179,310,1,3,,Ivan Sergeyev,Artem Sitak,6-3 1-6 6-3,1.05,5.1%,2.6%,50.0%,64.1%,46.2%,8/13,51.3%,47.3%,9.5%,24.3%,70.3%,6/8,152,4,2,78,39,39,7,1:33
+19-Jul-2010,Penza CH,3,Hard,R32,170,222,0,3,,Laurent Recouderc,Ivan Sergeyev,6-3 3-6 6-2,0.86,2.3%,2.3%,59.8%,63.5%,37.1%,7/13,46.6%,40.4%,2.2%,30.6%,52.5%,4/9,176,2,2,87,52,35,2,1:56
+12-Jul-2010,Stuttgart,3,Clay,Q3,173,125,0,6,3,Pablo Andujar,Ivan Sergeyev,6-4 4-6 6-4,0.86,6.9%,2.3%,56.3%,83.7%,39.5%,0/3,47.4%,30.7%,5.7%,20.3%,51.7%,2/8,175,6,2,87,49,38,5,2:15
+12-Jul-2010,Stuttgart,3,Clay,Q2,173,479,1,6,,Ivan Sergeyev,Jan Lennard Struff,7-6(4) 0-6 6-3,0.96,4.2%,4.2%,48.4%,80.4%,53.1%,8/11,50.0%,32.2%,8.0%,25.0%,39.5%,1/4,182,4,4,95,46,49,7,1:51
+12-Jul-2010,Stuttgart,3,Clay,Q1,173,337,1,6,,Ivan Sergeyev,Mikhail Ledovskikh,6-3 6-1,2.24,19.0%,2.4%,50.0%,95.2%,61.9%,1/1,61.7%,48.1%,0.0%,31.0%,69.6%,4/6,94,8,1,42,21,21,0,1:04
+28-Jun-2010,Braunschweig CH,3,Clay,R16,175,147,0,,,Yuri Schukin,Ivan Sergeyev,6-3 1-0 RET,0.48,3.8%,11.5%,30.8%,37.5%,38.9%,0/3,34.0%,29.6%,14.8%,23.8%,50.0%,1/1,53,1,3,26,8,18,4,0:37
+28-Jun-2010,Braunschweig CH,3,Clay,R32,175,125,1,,,Ivan Sergeyev,Oscar Hernandez,6-3 7-6(7),1.10,6.7%,2.2%,44.9%,65.0%,55.1%,7/9,52.4%,44.3%,1.3%,42.6%,46.9%,3/10,168,6,2,89,40,49,1,2:12
+21-Jun-2010,Marburg CH,3,Clay,R16,175,184,0,6,Q,Guillaume Rufin,Ivan Sergeyev,6-4 6-3,0.73,4.6%,4.6%,43.1%,67.9%,43.2%,4/8,44.4%,33.9%,3.4%,29.0%,39.3%,2/3,124,3,3,65,28,37,2,1:32
+21-Jun-2010,Marburg CH,3,Clay,R32,175,216,1,6,,Ivan Sergeyev,Konstantin Kravchuk,6-2 6-4,1.75,3.9%,2.0%,51.0%,84.6%,64.0%,1/1,57.8%,44.6%,7.7%,35.1%,57.1%,3/10,116,2,1,51,26,25,5,1:22
+14-Jun-2010,Bytom CH,3,Clay,R32,181,299,0,3,Q,Jaroslav Pospisil,Ivan Sergeyev,7-5 6-1,0.70,17.0%,5.7%,45.3%,79.2%,34.5%,3/7,42.2%,31.7%,1.6%,18.4%,52.0%,1/5,116,9,3,53,24,29,1,1:27
+7-Jun-2010,Lugano CH,3,Clay,R32,177,511,0,,Q,Farrukh Dustov,Ivan Sergeyev,7-6(5) 6-3,0.95,6.5%,1.6%,59.7%,81.1%,52.0%,2/3,46.8%,29.1%,1.3%,25.9%,38.1%,0/5,141,4,1,62,37,25,1,1:46
+31-May-2010,Furth CH,3,Clay,R32,172,64,0,,2,Simon Greul,Ivan Sergeyev,3-6 6-1 6-1,0.67,9.5%,4.8%,47.6%,62.5%,45.5%,6/11,43.4%,30.9%,4.4%,28.6%,34.6%,1/3,152,8,4,84,40,44,3,1:34
+24-May-2010,Roland Garros,5,Clay,Q1,172,159,0,,,Thierry Ascione,Ivan Sergeyev,6-3 7-5,0.65,9.3%,7.4%,44.4%,70.8%,53.3%,2/5,42.5%,25.4%,15.3%,17.1%,37.5%,1/7,113,5,4,54,24,30,9,1:12
+16-May-2010,Nice,3,Clay,Q2,175,416,0,8,,Jonathan Eysseric,Ivan Sergeyev,4-6 6-0 7-5,0.71,3.3%,6.5%,56.5%,73.1%,42.5%,3/8,45.1%,28.4%,3.7%,25.9%,33.3%,2/7,173,3,6,92,52,40,3,2:50
+10-May-2010,Biella CH,3,Clay,R32,172,182,0,,,Uladzimir Ignatik,Ivan Sergeyev,7-6(3) 4-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,Marrakech CH,3,Clay,R16,161,85,0,,2,Jarkko Nieminen,Ivan Sergeyev,6-3 1-0 RET,0.39,5.3%,7.9%,42.1%,50.0%,40.9%,3/6,36.1%,21.7%,13.0%,22.2%,20.0%,1/1,61,2,3,38,16,22,3,0:39
+15-Mar-2010,Marrakech CH,3,Clay,R32,161,323,1,,,Ivan Sergeyev,Bastian Knittel,6-0 7-6(3),1.97,9.8%,5.9%,49.0%,84.0%,69.2%,2/3,60.7%,46.4%,7.1%,45.7%,47.6%,4/6,107,5,3,51,25,26,4,1:10
+8-Mar-2010,Rabat CH,3,Clay,R16,161,101,0,,3,Blaz Kavcic,Ivan Sergeyev,6-7(2) 6-4 7-5,0.93,6.3%,6.3%,48.8%,69.4%,33.8%,8/17,48.5%,45.4%,4.6%,29.2%,69.8%,7/10,235,8,8,127,62,65,5,2:58
+8-Mar-2010,Rabat CH,3,Clay,R32,161,158,1,,,Ivan Sergeyev,Lamine Ouahab,6-4 6-2,1.37,5.0%,6.7%,48.3%,82.8%,51.6%,3/4,56.3%,45.8%,1.7%,40.9%,60.0%,4/13,119,3,4,60,29,31,1,1:11
+5-Mar-2010,Davis Cup G1 R1: UKR vs LAT,3,Hard,RR,163,1451,1,,,Ivan Sergeyev,Karlis Lejnieks,6-4 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Dubai,3,Hard,Q2,167,125,0,8,3,Bjorn Phau,Ivan Sergeyev,7-6(8) 6-4,0.96,6.0%,3.6%,57.8%,72.9%,31.4%,5/9,49.4%,42.9%,3.9%,34.2%,51.3%,3/7,160,5,3,83,48,35,3,1:45
+22-Feb-2010,Dubai,3,Hard,Q1,167,197,1,8,,Ivan Sergeyev,Sebastien De Chaunac,W/O,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2010,Marseille,3,Hard,Q2,166,223,0,8,,Sergei Bubka,Ivan Sergeyev,7-6(5) 6-3,0.78,5.6%,2.8%,59.2%,69.0%,51.7%,1/3,45.8%,29.6%,8.5%,20.0%,46.2%,1/5,142,4,2,71,42,29,6,1:28
+15-Feb-2010,Marseille,3,Hard,Q1,166,209,1,8,,Ivan Sergeyev,Marco Crugnola,6-1 6-3,2.09,11.9%,4.8%,61.9%,88.5%,50.0%,3/4,62.3%,54.7%,6.3%,47.4%,65.4%,5/10,106,5,2,42,26,16,4,1:03
+1-Feb-2010,Kazan CH,3,Hard,R16,170,299,0,5,,Goran Tosic,Ivan Sergeyev,6-1 2-1 RET,0.23,3.0%,3.0%,45.5%,60.0%,27.8%,3/6,30.4%,13.0%,4.3%,11.8%,16.7%,0/0,56,1,1,33,15,18,1,0:37
+1-Feb-2010,Kazan CH,3,Hard,R32,170,345,1,5,,Ivan Sergeyev,Valery Rudnev,7-6(3) 6-4,1.43,2.8%,11.1%,44.4%,90.6%,52.5%,7/8,54.2%,43.8%,3.8%,32.7%,56.0%,2/10,177,2,8,72,32,40,4,2:35
+18-Jan-2010,Australian Open,5,Hard,R64,209,9,0,Q,9,Fernando Verdasco,Ivan Sergeyev,6-1 6-2 6-2,0.61,0.0%,8.3%,40.5%,52.9%,34.0%,10/18,38.8%,35.8%,7.4%,26.8%,56.0%,1/5,165,0,7,84,34,50,6,1:49
+18-Jan-2010,Australian Open,5,Hard,R128,209,41,1,Q,,Ivan Sergeyev,Dudi Sela,6-3 7-6(3) 4-6 7-6(8),1.06,6.3%,4.4%,57.9%,71.7%,50.7%,9/14,51.6%,39.3%,4.8%,34.1%,48.1%,5/15,304,10,7,159,92,67,7,3:22
+18-Jan-2010,Australian Open,5,Hard,Q3,209,300,1,,,Ivan Sergeyev,Alex Bogomolov Jr,7-6(10) 6-3,1.20,13.9%,1.3%,53.2%,66.7%,48.6%,7/8,54.5%,50.0%,3.0%,46.9%,58.8%,4/4,145,11,1,79,42,37,2,1:57
+18-Jan-2010,Australian Open,5,Hard,Q2,209,152,1,,23,Ivan Sergeyev,Thierry Ascione,6-4 6-4,1.39,8.2%,3.3%,44.3%,85.2%,61.8%,2/2,55.3%,38.7%,11.3%,31.3%,46.7%,2/6,123,5,2,61,27,34,7,1:17
+18-Jan-2010,Australian Open,5,Hard,Q1,209,250,1,,,Ivan Sergeyev,Greg Jones,3-6 6-4 6-3,1.28,7.8%,3.9%,49.4%,81.6%,64.1%,2/3,52.1%,34.8%,10.9%,31.4%,39.0%,2/11,169,6,3,77,38,39,10,2:04
+11-Jan-2010,Sydney,3,Hard,Q1,207,165,0,,,Albert Ramos,Ivan Sergeyev,6-3 6-2,0.68,7.0%,9.3%,44.2%,52.6%,29.2%,2/7,40.4%,41.1%,5.4%,28.6%,61.9%,2/5,99,3,4,43,19,24,3,1:07
+4-Jan-2010,Doha,3,Hard,Q1,206,262,0,,,Daniel Evans,Ivan Sergeyev,4-6 7-6(4) 7-5,0.99,4.5%,4.5%,50.0%,73.2%,44.6%,10/16,49.6%,40.5%,4.3%,32.4%,52.1%,6/14,228,5,5,112,56,56,5,2:45
+2-Nov-2009,Astana CH,3,Hard,R32,194,265,0,,,Noam Okun,Ivan Sergeyev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Moscow,3,Hard,Q3,197,157,0,6,4,Mikhail Kukushkin,Ivan Sergeyev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Moscow,3,Hard,Q2,197,326,1,6,,Ivan Sergeyev,Andrey Kumantsov,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Moscow,3,Hard,Q1,197,337,1,6,,Ivan Sergeyev,Deniss Pavlovs,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Tashkent CH,3,Hard,R32,195,88,0,,4,Christophe Rochus,Ivan Sergeyev,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Trnava CH,3,Clay,R32,201,258,0,,,Matthias Bachinger,Ivan Sergeyev,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Alphen aan den Rijn CH,3,Clay,R16,196,112,0,,2,Michael Russell,Ivan Sergeyev,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,Alphen aan den Rijn CH,3,Clay,R32,196,586,1,,Q,Ivan Sergeyev,Thomas Schoorel,6-2 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Freudenstadt CH,3,Clay,R32,196,264,0,,,Martin Klizan,Ivan Sergeyev,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,F,232,273,1,3,4,Ivan Sergeyev,Dustin Brown,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,SF,232,340,1,3,,Ivan Sergeyev,Pierre Ludovic Duclos,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,QF,232,460,1,3,,Ivan Sergeyev,Konstantin Kravchuk,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R16,232,332,1,3,,Ivan Sergeyev,Mathieu Rodrigues,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R32,232,355,1,3,,Ivan Sergeyev,Alexey Kedryuk,6-7(5) 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,F,271,353,0,6,,Rainer Eitzinger,Ivan Sergeyev,6-3 1-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,SF,271,526,1,6,Q,Ivan Sergeyev,Ricardas Berankis,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,QF,271,514,1,6,Q,Ivan Sergeyev,Sadik Kadir,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,R16,271,401,1,6,,Ivan Sergeyev,Marek Semjan,7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,R32,271,642,1,6,Q,Ivan Sergeyev,Murad Inoyatov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Samarkand CH,3,Clay,R16,274,399,0,6,,Evgeny Kirillov,Ivan Sergeyev,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Samarkand CH,3,Clay,R32,274,363,1,6,,Ivan Sergeyev,Antonio Sancic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Saransk CH,3,Clay,R16,282,482,0,8,Q,Denys Molchanov,Ivan Sergeyev,4-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Saransk CH,3,Clay,R32,282,,1,8,WC,Ivan Sergeyev,Vladislav Dubinsky,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Georgia F2,3,Clay,SF,301,416,0,1,4,Malek Jaziri,Ivan Sergeyev,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Georgia F2,3,Clay,QF,301,607,1,1,7,Ivan Sergeyev,Murad Inoyatov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Georgia F2,3,Clay,R16,301,1095,1,1,,Ivan Sergeyev,Lorenzo Giustino,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Georgia F2,3,Clay,R32,301,,1,1,Q,Ivan Sergeyev,Alexandr Kushakov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Georgia F1,3,Clay,F,309,338,0,1,2,Matteo Marrai,Ivan Sergeyev,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Georgia F1,3,Clay,SF,309,549,1,1,6,Ivan Sergeyev,Bogdan Leonte,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Georgia F1,3,Clay,QF,309,793,1,1,7,Ivan Sergeyev,Barry King,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Georgia F1,3,Clay,R16,309,,1,1,Q,Ivan Sergeyev,George Tsivadze,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Georgia F1,3,Clay,R32,309,,1,1,Q,Ivan Sergeyev,Torgom Asatryan,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Netherlands F3,3,Clay,R16,307,621,0,2,,Farrukh Dustov,Ivan Sergeyev,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Netherlands F3,3,Clay,R32,307,923,1,2,,Ivan Sergeyev,Clinton Thomson,7-6(10) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Bytom CH,3,Clay,R32,307,297,0,,,Jerzy Janowicz,Ivan Sergeyev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Kosice CH,3,Clay,R32,316,123,0,Q,2,Ruben Ramirez Hidalgo,Ivan Sergeyev,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Prostejov CH,3,Clay,R32,323,189,0,Q,LL,Pablo Santos,Ivan Sergeyev,3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-May-2009,Fergana CH,3,Hard,R32,329,445,0,,WC,Murad Inoyatov,Ivan Sergeyev,6-4 1-6 7-6(0),,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Izmir CH,3,Hard,R16,333,231,0,Q,LL,Joshua Goodall,Ivan Sergeyev,7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Izmir CH,3,Hard,R32,333,202,1,Q,,Ivan Sergeyev,Bjorn Rehnquist,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Russia F1,3,Carpet,R32,375,556,0,8,,Denis Matsukevitch,Ivan Sergeyev,7-6(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,F,395,531,1,3,Q,Ivan Sergeyev,Robin Roshardt,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,SF,395,580,1,3,,Ivan Sergeyev,Konstantinos Economidis,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,QF,395,495,1,3,6,Ivan Sergeyev,Murad Inoyatov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R16,395,623,1,3,,Ivan Sergeyev,Andoni Vivanco Guzman,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R32,395,737,1,3,,Ivan Sergeyev,Marco Mirnegg,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,F,395,420,1,5,6,Ivan Sergeyev,Valery Rudnev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,SF,395,743,1,5,,Ivan Sergeyev,Erling Tveit,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,QF,395,495,1,5,,Ivan Sergeyev,Murad Inoyatov,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,R16,395,1165,1,5,Q,Ivan Sergeyev,Jakub Lustyk,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Turkey F2,3,Clay,R32,395,737,1,5,,Ivan Sergeyev,Marco Mirnegg,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Turkey F1,3,Clay,SF,396,347,0,5,2,Adam Vejmelka,Ivan Sergeyev,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Turkey F1,3,Clay,QF,396,963,1,5,Q,Ivan Sergeyev,Valentin Dimov,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Turkey F1,3,Clay,R16,396,1160,1,5,Q,Ivan Sergeyev,Tzvetan Mihov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Turkey F1,3,Clay,R32,396,741,1,5,,Ivan Sergeyev,Marco Mirnegg,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2009,Davis Cup G1 R2: GBR vs UKR,3,Hard,RR,398,,1,,,Ivan Sergeyev,Josh Goodall,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,QF,404,508,0,2,7,Karim Maamoun,Ivan Sergeyev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,R16,404,640,1,2,,Ivan Sergeyev,Sherif Sabry,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,R32,404,1520,1,2,WC,Ivan Sergeyev,Mahmoud Ezz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Egypt F2,3,Clay,R32,405,532,0,3,,Murad Inoyatov,Ivan Sergeyev,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Egypt F1,3,Clay,R16,398,665,0,3,,Sherif Sabry,Ivan Sergeyev,6-3 1-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Egypt F1,3,Clay,R32,398,565,1,3,,Ivan Sergeyev,Rabie Chaki,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,China F2,3,Hard,QF,402,1003,0,1,WC,Ze Zhang,Ivan Sergeyev,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,China F2,3,Hard,R16,402,634,1,1,,Ivan Sergeyev,Hsin Han Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,China F2,3,Hard,R32,402,746,1,1,,Ivan Sergeyev,Syrym Abdukhalikov,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-Jan-2009,China F1,3,Hard,R16,402,736,0,1,,Kaes Vant Hof,Ivan Sergeyev,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2009,China F1,3,Hard,R32,402,636,1,1,,Ivan Sergeyev,Peng Sun,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,SF,373,294,0,4,2,James Ward,Ivan Sergeyev,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,QF,373,495,1,4,,Ivan Sergeyev,Alexandros Jakupovic,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,R16,373,964,1,4,,Ivan Sergeyev,Tobias Klein,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,United Arab Emirates F2,3,Hard,R32,373,1656,1,4,LL,Ivan Sergeyev,Ali Ghareeb,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,SF,374,449,0,5,,Benjamin Balleret,Ivan Sergeyev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,QF,374,974,1,5,Q,Ivan Sergeyev,Tobias Klein,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,R16,374,396,1,5,,Ivan Sergeyev,Alexey Kedryuk,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2008,United Arab Emirates F1,3,Hard,R32,374,489,1,5,,Ivan Sergeyev,Alexandros Jakupovic,6-0 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Dnepropetrovsk CH,3,Hard,R16,360,52,0,LL,3,Victor Hanescu,Ivan Sergeyev,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Dnepropetrovsk CH,3,Hard,R32,360,217,1,LL,,Ivan Sergeyev,Lukasz Kubot,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q3,350,78,0,,2,Mischa Zverev,Ivan Sergeyev,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q2,350,189,1,,5,Ivan Sergeyev,Alexandre Sidorenko,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,St. Petersburg Q,3,Hard,Q1,350,756,1,,,Ivan Sergeyev,Vladimir Karusevich,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup G2 F: UKR vs POR,3,Hard,RR,331,510,1,,,Ivan Sergeyev,Leonardo Tavares,7-6(6) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Cherkassy CH,3,Clay,R32,396,91,0,,2,Sergiy Stakhovsky,Ivan Sergeyev,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Almaty CH,3,Clay,R16,396,236,0,,6,Sebastian Decoud,Ivan Sergeyev,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Almaty CH,3,Clay,R32,396,716,1,,Q,Ivan Sergeyev,Sergio Perez Perez,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,F,393,426,1,1,3,Ivan Sergeyev,Andrei Gorban,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,SF,393,469,1,1,4,Ivan Sergeyev,Alexandr Dolgopolov,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,QF,393,542,1,1,7,Ivan Sergeyev,Alexander Somogyi,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,R16,393,611,1,1,,Ivan Sergeyev,Andrei Karatchenia,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Russia F4,3,Clay,R32,393,649,1,1,,Ivan Sergeyev,Sergei Krotiouk,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Russia F3,3,Clay,R32,388,1051,0,1,,Lars Poerschke,Ivan Sergeyev,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Samarkand CH,3,Clay,R32,370,446,0,8,,Oliver Marach,Ivan Sergeyev,6-7(1) 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Saransk CH,3,Clay,R16,305,1191,0,5,Q,Artur Chernov,Ivan Sergeyev,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Saransk CH,3,Clay,R32,305,373,1,5,,Ivan Sergeyev,Andrea Arnaboldi,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,San Benedetto CH,3,Clay,R16,299,282,0,,WC,Alessio Di Mauro,Ivan Sergeyev,6-7(7) 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,San Benedetto CH,3,Clay,R32,299,164,1,,6,Ivan Sergeyev,Ilija Bozoljac,5-7 7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Turin CH,3,Clay,R32,303,195,0,Q,,Tobias Kamke,Ivan Sergeyev,6-4 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Bytom CH,3,Clay,R32,279,213,0,,5,Pere Riba,Ivan Sergeyev,2-6 6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Kosice CH,3,Clay,R32,276,123,0,,1,Eric Prodon,Ivan Sergeyev,6-7(5) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Alessandria CH,3,Clay,R32,278,248,0,,,Paolo Lorenzi,Ivan Sergeyev,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q1,278,251,0,,,Augustin Gensse,Ivan Sergeyev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,R16,258,53,0,,1,Gael Monfils,Ivan Sergeyev,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Marrakech CH,3,Clay,R32,258,186,1,,,Ivan Sergeyev,Laurent Recouderc,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rabat CH,3,Clay,R32,257,438,0,,Q,Jonathan Dasnieres De Veigy,Ivan Sergeyev,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Tunis CH,3,Clay,R32,257,172,0,,,Fernando Vicente,Ivan Sergeyev,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Italy F10,3,Clay,R32,260,748,0,3,LL,Jurek Stasiak,Ivan Sergeyev,6-3 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2008,Davis Cup G2 R1: UKR vs EGY,3,Hard,RR,264,1185,1,,,Ivan Sergeyev,Mahmoud Ezz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2008,Turkey F3,3,Clay,R32,,,0,2,,Dustin Brown,Ivan Sergeyev,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Turkey F2,3,Clay,SF,273,381,0,2,7,Gabriel Moraru,Ivan Sergeyev,4-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Turkey F2,3,Clay,QF,273,351,1,2,5,Ivan Sergeyev,Dusan Lojda,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Turkey F2,3,Clay,R16,273,632,1,2,SE,Ivan Sergeyev,Jordi Marse Vidri,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Turkey F2,3,Clay,R32,273,895,1,2,Q,Ivan Sergeyev,Federico Sansonetti,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Turkey F1,3,Clay,R32,,,0,1,Q,Andrei Plotniy,Ivan Sergeyev,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,China F1,3,Hard,QF,276,540,0,5,WC,Xin Yuan Yu,Ivan Sergeyev,7-6(3) 6-7(7) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,China F1,3,Hard,R16,276,601,1,5,WC,Ivan Sergeyev,Shao Xuan Zeng,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,China F1,3,Hard,R32,276,665,1,5,,Ivan Sergeyev,Hiroki Kondo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2007,New Delhi2 CH,3,Hard,SF,312,256,0,8,5,Michail Elgin,Ivan Sergeyev,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2007,New Delhi2 CH,3,Hard,QF,312,516,1,8,Q,Ivan Sergeyev,Illya Marchenko,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2007,New Delhi2 CH,3,Hard,R16,312,419,1,8,,Ivan Sergeyev,Dmitry Vlasov,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2007,New Delhi2 CH,3,Hard,R32,312,328,1,8,,Ivan Sergeyev,Marsel Ilhan,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2007,New Delhi CH,3,Hard,R32,307,145,0,,6,Aisam Ul Haq Qureshi,Ivan Sergeyev,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Dnepropetrovsk CH,3,Hard,R16,323,37,0,Q,3,Fabrice Santoro,Ivan Sergeyev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Dnepropetrovsk CH,3,Hard,R32,323,368,1,Q,WC,Ivan Sergeyev,Sergei Bubka,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Tunis CH,3,Hard,R32,338,164,0,Q,5,Stefano Galvani,Ivan Sergeyev,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Tunisia F6,3,Hard,QF,329,341,0,3,6,Marsel Ilhan,Ivan Sergeyev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Tunisia F6,3,Hard,R16,329,715,1,3,,Ivan Sergeyev,Mathieu Guenat,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Tunisia F6,3,Hard,R32,329,501,1,3,,Ivan Sergeyev,Adam Chadaj,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Tunisia F5,3,Hard,R32,323,546,0,3,,Mehdi Ziadi,Ivan Sergeyev,7-6(0) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Moscow Q,3,Hard,Q1,327,215,0,,8,Denis Istomin,Ivan Sergeyev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Bucharest2 CH,3,Clay,R16,347,118,0,Q,3,Mathieu Montcourt,Ivan Sergeyev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Bucharest2 CH,3,Clay,R32,347,246,1,Q,,Ivan Sergeyev,Alexander Kudryavtsev,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Todi CH,3,Clay,R32,348,128,0,,2,Federico Luzzi,Ivan Sergeyev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brasov CH,3,Clay,R16,351,104,0,,2,Olivier Patience,Ivan Sergeyev,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brasov CH,3,Clay,R32,351,343,1,,,Ivan Sergeyev,Dusan Lojda,7-6(4) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Cherkassy CH,3,Clay,R32,351,124,0,,2,Santiago Ventura,Ivan Sergeyev,6-3 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,R16,338,633,0,2,,Andrei Gorban,Ivan Sergeyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Russia F3,3,Clay,R32,338,751,1,2,,Ivan Sergeyev,Denys Molchanov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Samarkand CH,3,Clay,R16,350,314,0,,7,Mohamed Mamoun,Ivan Sergeyev,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Samarkand CH,3,Clay,R32,350,767,1,,WC,Ivan Sergeyev,Sarvar Ikramov,4-6 6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Saransk CH,3,Clay,F,446,440,0,,,Mikhail Kukushkin,Ivan Sergeyev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Saransk CH,3,Clay,SF,446,124,1,,1,Ivan Sergeyev,Dudi Sela,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Saransk CH,3,Clay,QF,446,267,1,,3,Ivan Sergeyev,Denis Istomin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Saransk CH,3,Clay,R16,446,360,1,,,Ivan Sergeyev,Sergei Bubka,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Saransk CH,3,Clay,R32,446,312,1,,5,Ivan Sergeyev,Ti Chen,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,France F11,3,Clay,R16,489,596,0,6,,Julien Mathieu,Ivan Sergeyev,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,France F11,3,Clay,R32,489,562,1,6,,Ivan Sergeyev,Romain Jouan,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,France F10,3,Clay,SF,494,,0,,Q,Benoit Paire,Ivan Sergeyev,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,France F10,3,Clay,QF,494,398,1,,8,Ivan Sergeyev,Adrian Cruciat,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,France F10,3,Clay,R16,494,337,1,,3,Ivan Sergeyev,Conor Niland,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,France F10,3,Clay,R32,494,430,1,,,Ivan Sergeyev,Alejandro Fabbri,4-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Constanta CH,3,Clay,R32,498,272,0,Q,,Pavol Cervenak,Ivan Sergeyev,6-4 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,F,576,930,1,1,,Ivan Sergeyev,Mikhail Vasiliev,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,SF,576,868,1,1,8,Ivan Sergeyev,Denys Molchanov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,QF,576,780,1,1,,Ivan Sergeyev,Artem Smirnov,6-2 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,R16,576,949,1,1,,Ivan Sergeyev,Valery Rudnev,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Ukraine F3,3,Clay,R32,576,,1,1,Q,Ivan Sergeyev,Vadim Alekseenko,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,QF,,,0,2,,Artem Smirnov,Ivan Sergeyev,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,R16,,,1,2,,Ivan Sergeyev,Pavel Katliarov,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Ukraine F2,3,Clay,R32,,,1,2,WC,Ivan Sergeyev,Fakhraddin Shirinov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Bulgaria F3,3,Clay,QF,680,,0,8,4,Catalin Ionut Gard,Ivan Sergeyev,3-6 7-5 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Bulgaria F3,3,Clay,R16,680,,1,8,Q,Ivan Sergeyev,Predrag Nedeljkovic,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Bulgaria F3,3,Clay,R32,680,1184,1,8,Q,Ivan Sergeyev,Mathias Feitsch,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,F,714,431,1,,2,Ivan Sergeyev,Ivaylo Traykov,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,SF,714,939,1,,,Ivan Sergeyev,Daniel Kumlin,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,QF,714,905,1,,,Ivan Sergeyev,Leonardo Tavares,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,R16,714,809,1,,,Ivan Sergeyev,Yordan Kanev,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,R32,714,821,1,,,Ivan Sergeyev,Pablo Figueroa,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Romania F2,3,Clay,SF,738,355,0,,3,Florin Mergea,Ivan Sergeyev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Romania F2,3,Clay,QF,738,244,1,,1,Ivan Sergeyev,Victor Ionita,6-7(4) 6-2 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Romania F2,3,Clay,R16,738,564,1,,7,Ivan Sergeyev,Bogdan Leonte,7-5 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Romania F2,3,Clay,R32,738,1330,1,,Q,Ivan Sergeyev,Jacek Szygowski,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,QF,742,486,0,,4,Niels Desein,Ivan Sergeyev,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,R16,742,496,1,,5,Ivan Sergeyev,Dusan Karol,6-3 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Romania F1,3,Clay,R32,742,1156,1,,Q,Ivan Sergeyev,Franck Dalla Santa,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Turkey F1,3,Clay,QF,759,319,0,,1,Jose Checa Calvo,Ivan Sergeyev,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Turkey F1,3,Clay,R16,759,1018,1,,Q,Ivan Sergeyev,Artem Smirnov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Turkey F1,3,Clay,R32,759,,1,,WC,Ivan Sergeyev,Gokay Celik,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Russia F2,3,Hard,R16,768,1051,0,Q,Q,Serguei Tarasevitch,Ivan Sergeyev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Russia F2,3,Hard,R32,768,534,1,Q,8,Ivan Sergeyev,David Novak,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Portugal F6,3,Hard,QF,826,597,0,,5,Carlos Rexach Itoiz,Ivan Sergeyev,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Portugal F6,3,Hard,R16,826,527,1,,3,Ivan Sergeyev,Blaz Kavcic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Portugal F6,3,Hard,R32,826,861,1,,,Ivan Sergeyev,Jean Michel Durango,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Portugal F5,3,Hard,QF,847,535,0,,3,Blaz Kavcic,Ivan Sergeyev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Portugal F5,3,Hard,R16,847,,1,,WC,Ivan Sergeyev,Pedro Sousa,6-4 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Portugal F5,3,Hard,R32,847,617,1,,8,Ivan Sergeyev,Igor Zelenay,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Portugal F4,3,Hard,QF,852,628,0,,8,Thiemo De Bakker,Ivan Sergeyev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Portugal F4,3,Hard,R16,852,1116,1,,WC,Ivan Sergeyev,Gastao Elias,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Portugal F4,3,Hard,R32,852,,1,,LL,Ivan Sergeyev,Mark De Jong,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Romania F18,3,Clay,QF,883,811,0,,,Victor Stanica,Ivan Sergeyev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Romania F18,3,Clay,R16,883,1139,1,,,Ivan Sergeyev,Guillermo Alcaide,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Romania F18,3,Clay,R32,883,710,1,,8,Ivan Sergeyev,Adrian Gavrila,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Romania F17,3,Clay,R32,1248,568,0,,5,Rabie Chaki,Ivan Sergeyev,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,F,921,298,0,,1,Victor Ionita,Ivan Sergeyev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,SF,921,384,1,,2,Ivan Sergeyev,Adrian Cruciat,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,QF,921,543,1,,5,Ivan Sergeyev,Aleksandr Nedovyesov,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,R16,921,1017,1,,,Ivan Sergeyev,Andemir Karanashev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Romania F16,3,Clay,R32,921,1212,1,,LL,Ivan Sergeyev,Balazs Novak,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Uzbekistan F2,3,Hard,R16,923,414,0,Q,4,Peng Sun,Ivan Sergeyev,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Uzbekistan F2,3,Hard,R32,923,938,1,Q,Q,Ivan Sergeyev,Dmitriy Makeyev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Uzbekistan F1,3,Hard,R16,921,713,0,Q,,Alexander Yarmola,Ivan Sergeyev,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Uzbekistan F1,3,Hard,R32,921,,1,Q,WC,Ivan Sergeyev,Alexey Namazov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Poland F1,3,Hard,R16,917,418,0,Q,4,Michal Navratil,Ivan Sergeyev,7-6(1) 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Poland F1,3,Hard,R32,917,,1,Q,Q,Ivan Sergeyev,Alexander Krasnorutskiy,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Ukraine F3,3,Clay,R16,959,763,0,,,Alexander Yarmola,Ivan Sergeyev,1-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Ukraine F3,3,Clay,R32,959,645,1,,7,Ivan Sergeyev,Teodor Dacian Craciun,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Ukraine F1,3,Clay,R32,955,,0,,Q,Dmytro Petrov,Ivan Sergeyev,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Samarkand CH,3,Clay,R16,1127,404,0,Q,,Kyu Tae Im,Ivan Sergeyev,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Samarkand CH,3,Clay,R32,1127,329,1,Q,6,Ivan Sergeyev,Peng Sun,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Poland F2,3,Clay,R16,964,537,0,,3,Maciej Dilaj,Ivan Sergeyev,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Poland F2,3,Clay,R32,964,1138,1,,Q,Ivan Sergeyev,Pawel Dilaj,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Poland F1,3,Clay,R16,962,1115,0,,,Jakub Nijaki,Ivan Sergeyev,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Poland F1,3,Clay,R32,962,,1,,Q,Ivan Sergeyev,Cedric Roelant,4-6 6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Nov-2004,South Africa F2,3,Hard,R32,929,,0,,WC,Rikus De Villiers,Ivan Sergeyev,6-4 0-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Nov-2004,South Africa F1,3,Hard,R32,926,256,0,,1,Jonathan Marray,Ivan Sergeyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2004,Georgia F2,3,Clay,R32,877,913,0,,,Andreas Fasching,Ivan Sergeyev,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2004,Georgia F1,3,Clay,R32,877,346,0,,2,Javier Garcia Sintes,Ivan Sergeyev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2004,Russia F3,3,Hard,R32,927,757,0,,,Denis Matsukevitch,Ivan Sergeyev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Russia F2,3,Hard,R16,1010,560,0,Q,8,Sergei Pozdnev,Ivan Sergeyev,6-0 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Russia F2,3,Hard,R32,1010,709,1,Q,,Ivan Sergeyev,Alexander Yarmola,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Russia F1,3,Clay,QF,1017,485,0,,2,Evgueni Smirnov,Ivan Sergeyev,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Russia F1,3,Clay,R16,1017,1236,1,,Q,Ivan Sergeyev,Janis Skroderis,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Russia F1,3,Clay,R32,1017,,1,,WC,Ivan Sergeyev,Victor Kozin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2004,Ukraine F3,3,Clay,QF,1152,648,0,LL,,Sergei Pozdnev,Ivan Sergeyev,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2004,Ukraine F3,3,Clay,R16,1152,1175,1,LL,WC,Ivan Sergeyev,Vladimir Portnov,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2004,Ukraine F3,3,Clay,R32,1152,911,1,LL,,Ivan Sergeyev,Murad Inoyatov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2004,Ukraine F2,3,Hard,R32,1199,,0,WC,,Sergei Pozdnev,Ivan Sergeyev,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Ukraine F1,3,Clay,R16,1199,490,0,WC,6,Sergiy Stakhovsky,Ivan Sergeyev,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Ukraine F1,3,Clay,R32,1199,1199,1,WC,Q,Ivan Sergeyev,Alexei Filenkov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2003,Dnepropetrovsk CH,3,Hard,R32,,129,0,WC,,Vladimir Voltchkov,Ivan Sergeyev,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,Russia F3,3,Clay,R32,,556,0,WC,,Vadim Davletshin,Ivan Sergeyev,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

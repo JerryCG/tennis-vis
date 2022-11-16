@@ -1,0 +1,631 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Aug-2017,Santo Domingo CH,3,Clay,R32,348,334,0,,,Gianni Mina,Caio Zampieri,4-6 6-1 6-3,0.73,5.6%,5.6%,69.7%,66.1%,33.3%,6/11,45.3%,31.9%,9.7%,27.7%,40.0%,2/3,161,5,5,89,62,27,7,1:47
+17-Jul-2017,Germany F8,3,Clay,R32,346,533,0,3,,Daniel Dutra Da Silva,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Vicenza CH,3,Clay,Q1,325,298,0,,,Alejandro Falla,Caio Zampieri,6-2 0-0 RET,0.45,0.0%,6.9%,69.0%,65.0%,22.2%,2/4,38.5%,21.7%,0.0%,21.4%,22.2%,0/0,52,0,2,29,20,9,0,0:41
+22-May-2017,Mestre CH,3,Clay,R16,332,237,0,,Q,Gianluigi Quinzi,Caio Zampieri,6-2 6-3,0.59,0.0%,3.1%,64.1%,58.5%,30.4%,7/12,41.1%,30.2%,7.0%,26.9%,35.3%,1/1,107,0,2,64,41,23,3,1:14
+22-May-2017,Mestre CH,3,Clay,R32,332,230,1,,4,Caio Zampieri,Andrea Arnaboldi,6-4 4-6 7-6(9),1.07,1.8%,0.0%,65.5%,69.4%,52.6%,3/6,51.1%,38.7%,2.7%,35.3%,44.2%,3/10,221,2,0,110,72,38,3,2:46
+15-May-2017,Heilbronn CH,3,Clay,Q2,329,393,0,,,Matthias Bachinger,Caio Zampieri,6-4 6-3,0.66,0.0%,1.8%,60.7%,58.8%,50.0%,1/4,42.7%,29.6%,3.7%,13.3%,50.0%,0/0,110,0,1,56,34,22,2,1:04
+15-May-2017,Heilbronn CH,3,Clay,Q1,329,200,1,,3,Caio Zampieri,Vaclav Safranek,6-3 7-6(2),1.09,1.3%,1.3%,66.7%,68.0%,52.0%,5/7,53.0%,40.7%,1.7%,34.2%,52.4%,4/6,134,1,1,75,50,25,1,1:22
+10-Apr-2017,San Luis Potosi CH,3,Clay,R16,330,105,0,,2,Gerald Melzer,Caio Zampieri,6-3 6-4,0.74,9.4%,5.7%,60.4%,84.4%,23.8%,3/6,44.1%,29.3%,1.7%,23.5%,37.5%,1/4,111,5,3,53,32,21,1,1:19
+10-Apr-2017,San Luis Potosi CH,3,Clay,R32,330,328,1,,,Caio Zampieri,Pedja Krstin,6-2 7-6(1),1.67,14.8%,4.9%,59.0%,83.3%,60.0%,1/2,59.3%,43.9%,8.8%,25.0%,54.1%,3/3,118,9,3,61,36,25,5,1:17
+3-Apr-2017,Panama City CH,3,Clay,R32,330,424,0,,,Pedja Krstin,Caio Zampieri,6-4 6-4,0.80,7.6%,0.0%,68.2%,62.2%,47.6%,7/10,45.5%,33.8%,5.9%,43.6%,20.7%,1/6,134,5,0,66,45,21,4,1:37
+27-Mar-2017,Leon CH,3,Hard,Q1,247,330,0,1,,Kevin Krawietz,Caio Zampieri,6-7(5) 6-3 7-6(6),0.89,3.6%,3.6%,62.7%,69.6%,46.3%,3/7,47.4%,34.7%,4.2%,26.7%,48.8%,3/13,228,4,4,110,69,41,5,2:20
+20-Mar-2017,Guadalajara CH,3,Hard,R32,247,180,0,Alt,7,Marcelo Arevalo,Caio Zampieri,6-3 6-3,0.69,1.9%,5.7%,62.3%,54.5%,45.0%,5/9,42.0%,33.9%,16.9%,17.1%,72.2%,1/5,112,1,3,53,33,20,10,1:02
+13-Mar-2017,Tigre CH,3,Hard,R32,260,250,0,,,Jose Hernandez,Caio Zampieri,5-7 6-1 7-6(4),0.93,4.6%,6.5%,57.4%,67.7%,52.2%,7/11,47.8%,36.3%,0.0%,34.7%,41.4%,3/11,232,5,7,108,62,46,0,2:37
+6-Mar-2017,Santiago CH,3,Clay,R16,260,85,0,,1,Rogerio Dutra Silva,Caio Zampieri,6-3 6-3,0.66,1.1%,4.4%,63.7%,55.2%,45.5%,17/21,44.4%,32.1%,3.8%,26.7%,39.1%,1/4,144,1,4,91,58,33,2,1:37
+6-Mar-2017,Santiago CH,3,Clay,R32,260,611,1,,Q,Caio Zampieri,Hugo Dellien,6-3 4-6 6-3,1.07,3.9%,2.4%,59.8%,61.8%,54.9%,13/16,53.5%,43.8%,0.0%,40.0%,52.2%,5/6,200,5,3,127,76,51,0,2:09
+27-Feb-2017,Sao Paulo,3,Clay,Q1,259,120,0,Alt,7,Arthur De Greef,Caio Zampieri,6-2 6-4,0.59,5.4%,3.2%,71.0%,48.5%,63.0%,12/15,43.3%,28.1%,5.3%,26.8%,31.3%,0/1,150,5,3,93,66,27,3,1:27
+27-Feb-2017,Sao Paulo,3,Clay,Q1,259,120,0,Alt,7,Arthur De Greef,Caio Zampieri,6-2 6-4,0.59,5.4%,3.2%,71.0%,48.5%,63.0%,12/15,43.3%,28.1%,5.3%,26.8%,31.3%,0/1,150,5,3,93,66,27,3,1:27
+20-Feb-2017,Cuernavaca CH,3,Hard,R32,260,380,0,,Alt,Alejandro Gomez Gb42,Caio Zampieri,6-1 6-4,0.70,7.4%,5.9%,66.2%,57.8%,21.7%,7/12,42.1%,37.9%,8.6%,24.1%,51.7%,2/2,126,5,4,68,45,23,5,1:09
+13-Feb-2017,Tempe CH,3,Hard,R32,259,194,0,,,Akira Santillan,Caio Zampieri,6-1 7-6(3),0.57,0.0%,0.0%,73.3%,58.2%,45.0%,5/8,42.1%,25.9%,12.1%,17.9%,42.1%,1/2,133,0,0,75,55,20,7,1:29
+6-Feb-2017,Quito,3,Clay,Q2,264,310,0,8,,Alejandro Falla,Caio Zampieri,6-4 6-4,0.80,5.2%,5.2%,50.6%,69.2%,39.5%,7/11,46.4%,36.5%,4.8%,36.4%,36.8%,2/9,140,4,4,77,39,38,3,1:33
+6-Feb-2017,Quito,3,Clay,Q2,264,310,0,8,,Alejandro Falla,Caio Zampieri,6-4 6-4,0.80,5.2%,5.2%,50.6%,69.2%,39.5%,7/11,46.4%,36.5%,4.8%,36.4%,36.8%,2/9,140,4,4,77,39,38,3,1:33
+6-Feb-2017,Quito,3,Clay,Q1,264,372,1,8,,Caio Zampieri,Andrea Collarini,6-3 6-4,1.62,3.7%,5.6%,68.5%,81.1%,64.7%,0/0,56.6%,39.0%,5.1%,26.7%,51.7%,2/8,113,2,3,54,37,17,3,1:11
+6-Feb-2017,Quito,3,Clay,Q1,264,372,1,8,,Caio Zampieri,Andrea Collarini,6-3 6-4,1.62,3.7%,5.6%,68.5%,81.1%,64.7%,0/0,56.6%,39.0%,5.1%,26.7%,51.7%,2/8,113,2,3,54,37,17,3,1:11
+28-Nov-2016,Uruguay F1,3,Clay,SF,282,382,0,1,5,Joao Pedro Sorgi,Caio Zampieri,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,QF,282,484,1,1,6,Caio Zampieri,Mariano Kestelboim,6-1 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,R16,282,1862,1,1,Q,Caio Zampieri,Eduardo Ribeiro,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,Uruguay F1,3,Clay,R32,282,1951,1,1,Q,Caio Zampieri,Alan Kohen,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Bolivia F3,3,Clay,F,281,262,0,1,2,Federico Coria,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Bolivia F3,3,Clay,SF,281,510,1,1,5,Caio Zampieri,Federico Zeballos,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Bolivia F3,3,Clay,QF,281,773,1,1,,Caio Zampieri,Franco Emanuel Egea,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Bolivia F3,3,Clay,R16,281,953,1,1,,Caio Zampieri,Camilo Ugo Carabelli,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Bolivia F3,3,Clay,R32,281,1622,1,1,WC,Caio Zampieri,Luis Diego Chavez Villalpando,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Montevideo CH,3,Clay,R16,258,78,0,,4,Inigo Cervantes Huegun,Caio Zampieri,5-7 6-2 6-1,0.60,0.0%,1.9%,66.4%,56.3%,50.0%,13/17,43.3%,27.4%,6.8%,14.6%,43.8%,1/1,180,0,2,107,71,36,5,1:56
+14-Nov-2016,Montevideo CH,3,Clay,R32,258,478,1,,,Caio Zampieri,Mariano Kestelboim,3-6 7-6(5) 6-1,1.04,6.3%,1.0%,69.8%,65.7%,48.3%,8/11,50.8%,41.1%,1.1%,35.4%,53.3%,5/7,191,6,1,96,67,29,1,2:16
+7-Nov-2016,Bogota CH,3,Clay,R16,263,98,0,,4,Santiago Giraldo,Caio Zampieri,7-5 6-3,0.67,5.0%,6.3%,65.0%,67.3%,39.3%,7/9,44.2%,28.4%,10.4%,15.6%,40.0%,0/4,147,4,5,80,52,28,7,1:34
+7-Nov-2016,Bogota CH,3,Clay,R32,263,415,1,,Q,Caio Zampieri,Nicolas Jarry,6-3 4-6 7-6(3),0.99,3.1%,10.4%,56.3%,70.4%,54.8%,5/9,50.5%,36.0%,11.6%,24.1%,56.3%,4/7,182,3,10,96,54,42,10,1:55
+31-Oct-2016,Guayaquil CH,3,Clay,R16,269,187,0,,,Mathias Bourgue,Caio Zampieri,6-3 6-1,0.52,0.0%,2.3%,72.1%,45.2%,58.3%,1/5,37.0%,26.5%,2.0%,23.3%,31.6%,0/2,92,0,1,43,31,12,1,1:06
+31-Oct-2016,Guayaquil CH,3,Clay,R32,269,206,1,,,Caio Zampieri,Eduardo Struvay,6-2 0-0 RET,1.51,0.0%,0.0%,86.4%,63.2%,66.7%,0/1,58.5%,54.8%,0.0%,61.1%,46.2%,3/6,53,0,0,22,19,3,0,0:33
+24-Oct-2016,Lima CH,3,Clay,R32,270,151,0,,,Arthur De Greef,Caio Zampieri,7-5 6-1,0.65,4.5%,1.5%,80.3%,52.8%,38.5%,3/8,42.4%,32.7%,1.9%,22.9%,52.9%,1/1,118,3,1,66,53,13,1,1:18
+10-Oct-2016,Monterrey CH,3,Hard,R32,265,159,0,,6,Peter Polansky,Caio Zampieri,7-5 6-2,0.85,2.0%,2.0%,66.7%,70.6%,52.9%,4/7,44.6%,30.0%,10.0%,22.0%,41.4%,0/6,121,1,1,51,34,17,7,1:13
+3-Oct-2016,Campinas CH,3,Clay,R16,272,104,0,,5,Rogerio Dutra Silva,Caio Zampieri,7-5 6-3,0.78,0.0%,0.0%,69.8%,65.9%,36.8%,8/13,45.8%,33.3%,10.5%,25.9%,40.0%,2/4,120,0,0,63,44,19,6,1:21
+3-Oct-2016,Campinas CH,3,Clay,R32,272,445,1,,,Caio Zampieri,Daniel Dutra Da Silva,6-3 1-6 6-4,1.04,2.6%,3.9%,58.4%,75.6%,31.3%,4/9,50.3%,44.4%,8.9%,31.4%,61.5%,5/9,167,2,3,77,45,32,8,1:50
+26-Sep-2016,Medellin CH,3,Clay,F,352,92,0,,2,Facundo Bagnis,Caio Zampieri,6-7(3) 7-5 6-2,0.68,6.4%,2.7%,62.7%,68.1%,46.3%,8/12,45.6%,27.1%,3.5%,20.5%,32.6%,1/1,195,7,3,110,69,41,3,2:15
+26-Sep-2016,Medellin CH,3,Clay,SF,352,106,1,,3,Caio Zampieri,Rogerio Dutra Silva,3-6 7-6(8) 6-2,0.99,2.2%,2.2%,68.9%,66.1%,57.1%,2/5,50.3%,36.5%,3.5%,15.9%,58.5%,4/6,175,2,2,90,62,28,3,2:02
+26-Sep-2016,Medellin CH,3,Clay,QF,352,262,1,,,Caio Zampieri,Alejandro Falla,7-6(3) 6-7(2) 6-2,1.16,8.6%,0.0%,64.8%,67.6%,59.5%,5/8,52.0%,40.8%,1.7%,31.3%,52.8%,5/15,225,9,0,105,68,37,2,2:17
+26-Sep-2016,Medellin CH,3,Clay,R16,352,167,1,,8,Caio Zampieri,Alejandro Gonzalez,7-5 6-4,1.29,4.7%,3.1%,64.1%,73.2%,52.2%,2/4,53.8%,44.4%,3.7%,42.2%,47.2%,4/10,145,3,2,64,41,23,3,1:33
+26-Sep-2016,Medellin CH,3,Clay,R32,352,385,1,,,Caio Zampieri,Christian Lindell,6-3 6-3,1.97,10.2%,6.1%,71.4%,91.4%,42.9%,4/4,59.1%,44.3%,9.8%,36.4%,53.6%,3/5,110,5,3,49,35,14,6,0:59
+5-Sep-2016,Barranquilla CH,3,Clay,R32,371,83,0,,2,Victor Estrella,Caio Zampieri,6-5 RET,1.05,3.4%,6.9%,69.0%,60.0%,44.4%,0/2,50.0%,47.1%,3.9%,36.7%,61.9%,2/8,80,1,2,29,20,9,2,0:54
+29-Aug-2016,Curitiba CH,3,Hard,R16,371,148,0,,3,Ruben Ramirez Hidalgo,Caio Zampieri,6-3 6-1,0.67,4.1%,2.0%,75.5%,51.4%,25.0%,3/8,40.8%,36.7%,4.1%,35.5%,38.9%,1/5,98,2,1,49,37,12,2,1:03
+29-Aug-2016,Curitiba CH,3,Hard,R32,371,1049,1,,Q,Caio Zampieri,Caio Silva,7-6(2) 6-2,1.96,1.8%,3.6%,75.0%,78.6%,85.7%,0/0,57.1%,38.6%,1.4%,35.1%,53.8%,2/10,126,1,2,56,42,14,1,1:13
+18-Jul-2016,Germany F8,3,Clay,R32,369,315,0,,5,Daniel Masur,Caio Zampieri,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,SF,352,210,0,8,2,Constant Lestienne,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,QF,352,905,1,8,WC,Caio Zampieri,Florent Diep,7-6(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R16,352,321,1,8,,Caio Zampieri,Matteo Viola,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,France F12,3,Clay,R32,352,2029,1,8,Q,Caio Zampieri,Juan Ignacio Iliev,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Netherlands F2,3,Clay,R32,320,346,0,8,,Yann Marti,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,Caltanissetta CH,3,Clay,Q2,296,1213,0,2,,Andres Molteni,Caio Zampieri,3-6 6-3 6-4,0.95,5.0%,1.0%,64.4%,63.1%,55.6%,4/7,49.0%,37.6%,4.0%,29.2%,52.8%,2/10,202,5,1,101,65,36,4,2:16
+30-May-2016,Furth CH,3,Hard,R32,294,520,0,Q,PR,Julian Reister,Caio Zampieri,7-6(2) 6-4,0.71,4.1%,0.0%,69.9%,68.6%,31.8%,3/6,44.6%,30.3%,1.5%,30.0%,33.3%,2/5,139,3,0,73,51,22,1,1:27
+30-May-2016,Furth CH,3,Hard,Q3,294,375,1,,,Caio Zampieri,Tim Van Rijthoven,7-5 7-5,1.15,0.0%,0.0%,75.6%,72.9%,52.6%,4/5,53.4%,36.8%,7.4%,34.9%,40.0%,3/7,146,0,0,78,59,19,5,1:31
+30-May-2016,Furth CH,3,Hard,Q2,294,306,1,,,Caio Zampieri,Nicolas Barrientos,7-6(4) 3-6 6-4,1.10,6.7%,1.1%,75.3%,61.2%,54.5%,4/9,51.0%,44.3%,3.5%,41.8%,50.0%,5/16,204,6,1,89,67,22,4,2:14
+30-May-2016,Furth CH,3,Hard,Q1,294,246,1,,7,Caio Zampieri,Alexandre Sidorenko,7-5 6-1,1.51,5.7%,5.7%,62.3%,87.9%,35.0%,2/3,57.0%,48.5%,7.4%,41.7%,56.3%,5/8,121,3,3,53,33,20,5,1:13
+23-May-2016,Vicenza CH,3,Clay,Q1,294,375,0,,,Tim Van Rijthoven,Caio Zampieri,7-5 6-3,0.80,1.9%,0.0%,70.4%,65.8%,62.5%,0/3,44.9%,28.1%,7.8%,20.4%,53.3%,1/3,118,1,0,54,38,16,5,1:11
+16-May-2016,Mestre CH,3,Clay,R32,292,309,0,,,Jose Hernandez,Caio Zampieri,6-4 6-1,0.69,3.7%,5.6%,70.4%,60.5%,31.3%,3/7,42.6%,33.3%,5.6%,20.0%,57.9%,1/2,108,2,3,54,38,16,3,1:03
+9-May-2016,Samarkand CH,3,Clay,R32,286,197,0,,3,Amir Weintraub,Caio Zampieri,6-7(4) 6-2 6-4,0.78,8.2%,4.1%,66.3%,64.6%,42.4%,5/10,45.5%,33.3%,3.2%,29.8%,38.9%,2/4,191,8,4,98,65,33,3,2:04
+2-May-2016,Karshi CH,3,Hard,R32,276,245,0,,,Nicolas Barrientos,Caio Zampieri,6-2 7-6(4),0.73,4.5%,4.5%,74.2%,71.4%,17.6%,2/6,44.9%,31.1%,1.6%,24.3%,41.7%,2/4,127,3,3,66,49,17,1,1:17
+18-Apr-2016,Sao Paulo CH,3,Clay,R16,287,221,0,,6,Marcelo Arevalo,Caio Zampieri,7-6(4) 7-6(4),0.94,2.4%,1.2%,56.5%,62.5%,56.8%,1/3,48.8%,37.6%,7.1%,31.0%,44.2%,2/5,170,2,1,85,48,37,6,2:00
+18-Apr-2016,Sao Paulo CH,3,Clay,R32,287,725,1,,Q,Caio Zampieri,Andre Miele,7-6(6) 6-7(1) 6-2,1.25,6.5%,2.8%,57.4%,80.6%,47.8%,5/7,52.1%,41.6%,2.0%,31.6%,52.9%,4/18,257,7,3,108,62,46,3,2:49
+28-Mar-2016,Leon CH,3,Hard,SF,356,239,0,Q,Alt,Joao Souza,Caio Zampieri,7-6(3) 6-4,1.19,6.1%,3.0%,66.7%,75.0%,54.5%,4/6,50.3%,37.9%,16.8%,28.1%,52.6%,1/12,161,4,2,66,44,22,16,1:55
+28-Mar-2016,Leon CH,3,Hard,QF,356,160,1,Q,,Caio Zampieri,Adrian Menendez Maceiras,2-6 6-4 6-4,1.13,0.0%,4.2%,61.5%,69.5%,56.8%,5/7,50.9%,40.0%,6.7%,35.7%,46.0%,2/17,216,0,4,96,59,37,8,2:25
+28-Mar-2016,Leon CH,3,Hard,R16,356,312,1,Q,Q,Caio Zampieri,Agustin Velotti,6-3 6-2,1.38,9.6%,7.7%,59.6%,77.4%,47.6%,3/4,57.3%,47.7%,0.0%,46.4%,50.0%,4/6,96,5,4,52,31,21,0,0:55
+28-Mar-2016,Leon CH,3,Hard,R32,356,203,1,Q,,Caio Zampieri,James Mcgee,6-4 6-4,1.26,5.2%,5.2%,60.3%,74.3%,39.1%,1/4,55.0%,50.0%,3.2%,44.1%,57.1%,5/10,120,3,3,58,35,23,2,1:17
+28-Mar-2016,Leon CH,3,Hard,Q3,356,273,1,7,1,Caio Zampieri,Nicolas Barrientos,7-6(3) 5-7 7-6(3),0.79,6.9%,3.4%,62.1%,74.4%,52.7%,8/9,48.7%,26.7%,6.0%,26.5%,27.3%,0/4,261,10,5,145,90,55,7,2:50
+28-Mar-2016,Leon CH,3,Hard,Q2,356,,1,7,WC,Caio Zampieri,Antonio Ruiz Rosales,3-6 6-4 6-2,1.08,4.8%,2.4%,71.1%,71.2%,45.8%,2/5,52.6%,39.1%,7.2%,35.1%,43.8%,4/7,152,4,2,83,59,24,5,1:27
+28-Mar-2016,Leon CH,3,Hard,Q1,356,1157,1,7,,Caio Zampieri,Mauricio Astorga,6-4 6-0,3.53,5.4%,0.0%,78.4%,86.2%,87.5%,0/0,65.4%,47.7%,9.1%,36.8%,56.0%,4/6,81,2,0,37,29,8,4,0:47
+21-Mar-2016,San Luis Potosi CH,3,Clay,QF,356,201,0,Q,,Pedja Krstin,Caio Zampieri,7-6(4) 6-3,0.67,4.0%,2.0%,84.0%,81.0%,50.0%,1/3,44.3%,16.1%,1.8%,14.7%,18.2%,1/1,106,2,1,50,42,8,1,0:49
+21-Mar-2016,San Luis Potosi CH,3,Clay,R16,356,288,1,Q,Q,Caio Zampieri,Robin Stanek,6-3 6-1,2.00,9.3%,4.7%,58.1%,84.0%,66.7%,2/2,61.6%,46.5%,2.3%,35.7%,66.7%,4/6,86,4,2,43,25,18,1,0:55
+21-Mar-2016,San Luis Potosi CH,3,Clay,R32,356,160,1,Q,4,Caio Zampieri,Adrian Menendez Maceiras,6-1 1-6 7-5,1.00,10.3%,1.3%,69.2%,68.5%,62.5%,4/6,50.7%,33.3%,6.9%,34.4%,32.5%,3/6,150,8,1,78,54,24,5,1:40
+21-Mar-2016,San Luis Potosi CH,3,Clay,Q3,356,383,1,5,,Caio Zampieri,Daniel Elahi Galan Riveros,6-4 3-6 6-4,1.15,7.4%,7.4%,69.1%,76.8%,52.0%,2/4,51.5%,35.6%,6.7%,33.3%,40.0%,3/7,171,6,6,81,56,25,6,1:44
+21-Mar-2016,San Luis Potosi CH,3,Clay,Q2,356,1881,1,5,WC,Caio Zampieri,Agustin Moreno,6-0 6-1,2.58,16.1%,0.0%,71.0%,77.3%,77.8%,0/0,65.1%,58.2%,3.6%,42.9%,74.1%,6/14,86,5,0,31,22,9,2,0:54
+21-Mar-2016,San Luis Potosi CH,3,Clay,Q1,356,339,1,5,,Caio Zampieri,Fernando Romboli,6-2 7-6(3),1.48,12.5%,1.8%,67.9%,76.3%,66.7%,1/2,55.5%,39.7%,6.3%,30.8%,54.2%,3/4,119,7,1,56,38,18,4,1:18
+7-Mar-2016,Puebla CH,3,Hard,Q3,320,648,0,1,,Andres Molteni,Caio Zampieri,6-3 6-1,0.57,3.5%,3.5%,75.4%,46.5%,57.1%,5/9,40.0%,29.2%,2.1%,15.4%,45.5%,0/0,105,2,2,57,43,14,1,0:53
+7-Mar-2016,Puebla CH,3,Hard,Q2,320,1059,1,1,,Caio Zampieri,Daniel Mora,6-1 6-2,2.59,16.2%,0.0%,62.2%,78.3%,78.6%,0/0,65.5%,56.0%,0.0%,46.2%,66.7%,5/7,87,6,0,37,23,14,0,0:49
+7-Mar-2016,Puebla CH,3,Hard,Q1,320,,1,1,WC,Caio Zampieri,Raul Isaias Rosas Zarur,6-4 6-1,1.47,16.0%,2.0%,58.0%,79.3%,47.6%,2/3,58.0%,50.0%,4.0%,46.7%,55.0%,5/6,100,8,1,50,29,21,2,0:52
+29-Feb-2016,USA F9,3,Clay,R32,321,1350,0,4,JE,Miomir Kecmanovic,Caio Zampieri,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,USA F8,3,Clay,R32,318,514,0,8,WC,Wil Spencer,Caio Zampieri,6-2 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,USA F7,3,Clay,R16,316,1781,0,4,Q,Juan Manuel Benitez Chavarriaga,Caio Zampieri,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,USA F7,3,Clay,R32,316,607,1,4,,Caio Zampieri,Maciej Rajski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Brazil F9,3,Clay,R16,378,561,0,4,,Joao Lucas Magalhaes Hueb De Menezes,Caio Zampieri,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Brazil F9,3,Clay,R32,378,858,1,4,,Caio Zampieri,Bruno Santanna,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Brazil F8,3,Hard,F,374,309,1,3,2,Caio Zampieri,Fernando Romboli,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Brazil F8,3,Hard,SF,374,272,1,3,1,Caio Zampieri,Jose Pereira,1-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Brazil F8,3,Hard,QF,374,1701,1,3,Q,Caio Zampieri,Alex Blumenberg,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Brazil F8,3,Hard,R16,374,618,1,3,,Caio Zampieri,Rafael Camilo,6-7(6) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Brazil F8,3,Hard,R32,374,,1,3,WC,Caio Zampieri,Eduardo Russi,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Bogota CH,3,Clay,R16,368,134,0,,5,Alejandro Gonzalez,Caio Zampieri,6-1 6-2,0.51,7.1%,4.8%,64.3%,51.9%,33.3%,0/4,35.4%,28.1%,7.0%,13.8%,42.9%,0/8,99,3,2,42,27,15,4,
+2-Nov-2015,Bogota CH,3,Clay,R32,368,,1,,WC,Caio Zampieri,Riki Oshima,6-2 6-2,1.49,6.8%,2.3%,65.9%,72.4%,53.3%,0/1,57.3%,50.8%,0.0%,42.9%,62.5%,5/8,103,3,1,44,29,15,0,
+26-Oct-2015,Monterrey CH,3,Hard,R32,352,288,0,,,Kevin King,Caio Zampieri,6-3 3-6 6-0,0.81,6.3%,3.8%,68.8%,50.9%,68.0%,3/8,45.9%,35.4%,10.1%,29.8%,50.0%,2/4,159,5,3,80,55,25,8,
+5-Oct-2015,Sao Paulo CH,3,Clay,R32,313,143,0,,5,Andre Ghem,Caio Zampieri,6-4 6-2,0.57,0.0%,2.2%,48.9%,59.1%,26.1%,1/6,37.0%,32.7%,0.0%,20.6%,52.4%,2/8,100,0,1,45,22,23,0,
+28-Sep-2015,Potro Alegre CH,3,Clay,R32,309,141,0,,6,Andre Ghem,Caio Zampieri,6-1 6-4,0.64,0.0%,2.4%,69.0%,51.7%,30.8%,3/8,39.8%,35.3%,2.0%,23.5%,58.8%,2/3,93,0,1,42,29,13,1,
+21-Sep-2015,Campinas CH,3,Clay,R32,302,429,0,,WC,Carlos Eduardo Severino,Caio Zampieri,6-2 6-4,0.76,5.2%,5.2%,67.2%,56.4%,42.1%,3/7,44.1%,36.7%,3.3%,21.7%,45.9%,1/3,118,3,3,58,39,19,2,
+3-Aug-2015,Segovia CH,3,Hard,R32,291,74,0,,1,Marcel Granollers,Caio Zampieri,6-1 6-1,0.39,2.0%,4.1%,65.3%,46.9%,35.3%,4/9,34.1%,22.2%,16.7%,12.0%,45.5%,0/0,85,1,2,49,32,17,6,
+22-Jun-2015,Brazil F3,3,Clay,F,335,497,1,2,4,Caio Zampieri,Thales Turini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,SF,335,905,1,2,Q,Caio Zampieri,Alexandre Tsuchiya,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,QF,335,1020,1,2,Q,Caio Zampieri,Franco Emanuel Egea,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R16,335,1126,1,2,Q,Caio Zampieri,Augusto Laranja,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R32,335,756,1,2,,Caio Zampieri,Rafael Matos,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,F,371,500,1,2,3,Caio Zampieri,Thales Turini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,SF,371,495,1,2,4,Caio Zampieri,Tiago Lopes,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,QF,371,593,1,2,,Caio Zampieri,Hernan Casanova,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R16,371,681,1,2,,Caio Zampieri,Filipe Brandao,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R32,371,1126,1,2,Q,Caio Zampieri,Augusto Laranja,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,F,372,538,1,2,5,Caio Zampieri,Daniel Dutra Da Silva,7-6(3) 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,SF,372,833,1,2,,Caio Zampieri,Marcelo Zormann Da Silva,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,QF,372,519,1,2,6,Caio Zampieri,Andre Miele,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,R16,372,1068,1,2,Q,Caio Zampieri,Marcos Vinicius Dias,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Brazil F1,3,Clay,R32,372,1975,1,2,Q,Caio Zampieri,Marlon Oliveira,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Colombia F3,3,Clay,SF,398,517,0,3,8,Wilson Leite,Caio Zampieri,6-7(4) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Colombia F3,3,Clay,QF,398,496,1,3,6,Caio Zampieri,Juan Sebastian Gomez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Colombia F3,3,Clay,R16,398,624,1,3,,Caio Zampieri,Joao Pedro Sorgi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Colombia F3,3,Clay,R32,398,,1,3,Q,Caio Zampieri,Frazier Rengifo,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Colombia F2,3,Clay,QF,416,505,0,3,8,Ricardo Hocevar,Caio Zampieri,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Colombia F2,3,Clay,R16,416,792,1,3,,Caio Zampieri,Marcelo Zormann Da Silva,6-2 3-3 RET,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Colombia F2,3,Clay,R32,416,622,1,3,,Caio Zampieri,Joao Pedro Sorgi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Colombia F1,3,Clay,SF,417,369,0,3,2,Emilio Gomez,Caio Zampieri,7-6(3) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Colombia F1,3,Clay,QF,417,575,1,3,8,Caio Zampieri,Facundo Mena,6-4 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Colombia F1,3,Clay,R16,417,1381,1,3,WC,Caio Zampieri,Juan Montes,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Colombia F1,3,Clay,R32,417,1622,1,3,Q,Caio Zampieri,Alexander Klintcharov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Cali CH,3,Clay,R16,433,99,0,,1,Blaz Rola,Caio Zampieri,6-3 6-2,0.61,0.0%,3.7%,72.2%,61.5%,53.3%,3/6,42.5%,25.0%,1.9%,13.3%,40.9%,0/1,106,0,2,54,39,15,1,1:06
+4-May-2015,Cali CH,3,Clay,R32,433,1082,1,,WC,Caio Zampieri,Daniel Elahi Galan Riveros,7-6(7) 6-3,1.00,7.2%,4.8%,56.6%,74.5%,50.0%,6/8,52.1%,36.1%,6.6%,32.0%,38.9%,3/5,144,6,4,83,47,36,4,1:24
+6-Apr-2015,Leon CH,3,Hard,R32,344,284,0,Q,,Eduardo Struvay,Caio Zampieri,6-4 6-4,0.67,9.2%,0.0%,73.8%,60.4%,64.7%,4/6,44.7%,25.9%,6.9%,21.1%,35.0%,0/2,123,6,0,65,48,17,4,1:04
+31-Mar-2015,San Luis Potosi CH,3,Clay,R16,371,242,0,Q,,Juan Ignacio Londero,Caio Zampieri,3-6 6-4 7-6(4),1.04,13.7%,2.1%,71.6%,76.5%,48.1%,1/2,49.7%,32.7%,5.8%,27.1%,40.0%,2/5,199,13,2,95,68,27,6,2:08
+31-Mar-2015,San Luis Potosi CH,3,Clay,R32,371,210,1,Q,,Caio Zampieri,Brydan Klein,6-1 6-7(8) 6-1,2.18,7.1%,1.4%,65.7%,84.8%,66.7%,4/5,59.4%,46.7%,1.9%,29.5%,59.0%,7/14,175,5,1,70,46,24,2,1:51
+9-Mar-2015,Santiago CH,3,Clay,QF,414,121,0,Q,4,Facundo Bagnis,Caio Zampieri,2-6 6-3 6-2,0.87,5.5%,1.4%,60.3%,68.2%,44.8%,3/7,47.6%,35.7%,5.7%,28.9%,48.0%,3/4,143,4,1,73,44,29,4,1:36
+9-Mar-2015,Santiago CH,3,Clay,R16,414,138,1,Q,5,Caio Zampieri,Horacio Zeballos,6-4 5-7 6-4,1.13,8.7%,1.0%,72.8%,76.0%,53.6%,7/8,52.2%,34.0%,10.0%,27.0%,45.9%,2/7,203,9,1,103,75,28,10,2:08
+9-Mar-2015,Santiago CH,3,Clay,R32,414,457,1,Q,Q,Caio Zampieri,Andrea Collarini,7-5 6-7(6) 7-6(4),0.93,11.3%,1.6%,62.9%,71.8%,45.7%,5/9,49.2%,35.1%,3.5%,32.4%,39.1%,5/12,238,14,2,124,78,46,4,3:08
+23-Feb-2015,Chile F2,3,Clay,R32,408,577,0,7,,Carlos Boluda Purkiss,Caio Zampieri,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Chile F1,3,Clay,R32,403,522,0,,,Fabricio Neis,Caio Zampieri,4-6 7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sao Paulo Q,3,Clay,Q1,405,157,0,,8,Marco Cecchinato,Caio Zampieri,6-7(4) 6-4 6-4,0.87,4.6%,0.0%,76.1%,68.7%,46.2%,6/9,48.3%,32.0%,8.0%,22.4%,45.2%,1/5,209,5,0,109,83,26,8,2:02
+15-Dec-2014,Chile F11,3,Clay,R32,405,725,0,4,,Bastian Malla,Caio Zampieri,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,R32,401,508,0,4,,Tiago Lopes,Caio Zampieri,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Brazil F16,3,Clay,R32,402,689,0,2,,Fabricio Neis,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Brazil F12,3,Clay,QF,388,427,0,,8,Wilson Leite,Caio Zampieri,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Brazil F12,3,Clay,R16,388,279,1,,1,Caio Zampieri,Mathias Bourgue,6-4 6-7(5) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Brazil F12,3,Clay,R32,388,529,1,,,Caio Zampieri,Matias Sborowitz,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Brazil F11,3,Clay,F,401,307,0,8,2,Christian Garin,Caio Zampieri,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Brazil F11,3,Clay,SF,401,551,1,8,,Caio Zampieri,Tiago Lopes,6-7(5) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Brazil F11,3,Clay,QF,401,349,1,8,4,Caio Zampieri,Hugo Dellien,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Brazil F11,3,Clay,R16,401,479,1,8,,Caio Zampieri,Andre Miele,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Brazil F11,3,Clay,R32,401,698,1,8,,Caio Zampieri,Fabricio Neis,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Brazil F10,3,Hard,SF,453,331,0,3,1,Fabiano De Paula,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Brazil F10,3,Hard,QF,453,579,1,3,6,Caio Zampieri,Daniel Dutra Da Silva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Brazil F10,3,Hard,R16,453,986,1,3,,Caio Zampieri,Pedro Bernardi,6-1 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Brazil F10,3,Hard,R32,453,,1,3,WC,Caio Zampieri,Lucas Lima Freitas,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Brazil F9,3,Clay,F,440,509,1,1,4,Caio Zampieri,Daniel Dutra Da Silva,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Brazil F9,3,Clay,SF,440,514,1,1,3,Caio Zampieri,Andre Miele,6-7(4) 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Brazil F9,3,Clay,QF,440,692,1,1,8,Caio Zampieri,Carlos Eduardo Severino,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Brazil F9,3,Clay,R16,440,,1,1,Q,Caio Zampieri,Leonardo Civita Telles,6-3 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Brazil F9,3,Clay,R32,440,,1,1,WC,Caio Zampieri,Leonardo Nakai,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2014,Porto Alegre CH,3,Clay,R32,448,122,0,Q,3,Facundo Bagnis,Caio Zampieri,6-1 6-3,0.61,2.0%,0.0%,64.7%,45.5%,55.6%,4/9,40.6%,31.1%,2.2%,22.6%,50.0%,1/3,96,1,0,51,33,18,1,1:03
+15-Sep-2014,Campinas CH,3,Clay,R16,479,455,0,Q,,Richard Becker,Caio Zampieri,6-3 6-3,0.66,0.0%,1.8%,66.1%,67.6%,31.6%,1/5,42.7%,29.6%,9.3%,12.0%,44.8%,1/4,110,0,1,56,37,19,5,1:13
+15-Sep-2014,Campinas CH,3,Clay,R32,479,434,1,Q,Q,Caio Zampieri,Ricardo Hocevar,6-4 6-4,1.26,5.9%,1.5%,72.1%,69.4%,52.6%,1/2,54.9%,44.6%,4.6%,36.6%,58.3%,3/7,133,4,1,68,49,19,3,1:28
+18-Aug-2014,Brazil F8,3,Clay,R32,472,951,0,6,,Idio Escobar,Caio Zampieri,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Brazil F7,3,Clay,R32,460,497,0,8,,Daniel Dutra Da Silva,Caio Zampieri,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,SF,487,413,0,5,3,Tomas Lipovsek Puches,Caio Zampieri,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,QF,487,406,1,5,2,Caio Zampieri,Gabriel Alejandro Hidalgo,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R16,487,761,1,5,,Caio Zampieri,Rodrigo Sanchez,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Argentina F8,3,Clay,R32,487,,1,5,WC,Caio Zampieri,Ignacio Calderon,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,SF,487,529,0,4,7,Nicolas Kicker,Caio Zampieri,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,QF,487,660,1,4,,Caio Zampieri,Eduardo Agustin Torre,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R16,487,1454,1,4,Q,Caio Zampieri,Oscar Jose Gutierrez,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R32,487,,1,4,WC,Caio Zampieri,Gaston Bazzoni,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Brazil F3,3,Clay,QF,500,702,0,5,,Carlos Eduardo Severino,Caio Zampieri,2-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Brazil F3,3,Clay,R16,500,1200,1,5,,Caio Zampieri,Filipe Brandao,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Brazil F3,3,Clay,R32,500,748,1,5,,Caio Zampieri,Eduardo Dischinger,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,F,501,505,1,7,5,Caio Zampieri,Martin Cuevas,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,SF,501,485,1,7,3,Caio Zampieri,Leonardo Kirche,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,QF,501,1330,1,7,WC,Caio Zampieri,Nicolas Santos,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,R16,501,900,1,7,,Caio Zampieri,Idio Escobar,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Brazil F2,3,Clay,R32,501,1603,1,7,Q,Caio Zampieri,Oscar Jose Gutierrez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Chile F3,3,Clay,F,593,1007,1,4,,Caio Zampieri,Matias Sborowitz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Chile F3,3,Clay,SF,593,403,1,4,2,Caio Zampieri,Cristobal Saavedra Corvalan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Chile F3,3,Clay,QF,593,913,1,4,,Caio Zampieri,Guillermo Rivera Aranguiz,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Chile F3,3,Clay,R16,593,1661,1,4,Q,Caio Zampieri,Michel Vernier,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Chile F3,3,Clay,R32,593,827,1,4,,Caio Zampieri,Benjamin Ugarte,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Chile F2,3,Clay,QF,570,334,0,8,2,Gonzalo Lama,Caio Zampieri,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Chile F2,3,Clay,R16,570,868,1,8,,Caio Zampieri,Jordi Munoz Abreu,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Chile F2,3,Clay,R32,570,1193,1,8,Q,Caio Zampieri,Joao Walendowsky,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Chile F1,3,Clay,QF,570,334,0,8,1,Gonzalo Lama,Caio Zampieri,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Chile F1,3,Clay,R16,570,1193,1,8,Q,Caio Zampieri,Joao Walendowsky,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Chile F1,3,Clay,R32,570,1269,1,8,Q,Caio Zampieri,David Fleming,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Argentina F4,3,Clay,R32,565,1593,0,,WC,Juan Pablo Ficovich,Caio Zampieri,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+24-Feb-2014,Sao Paulo Q,3,Clay,Q2,564,147,0,,5,Rogerio Dutra Silva,Caio Zampieri,7-6(2) 6-2,0.70,3.2%,3.2%,62.9%,64.1%,56.5%,0/2,44.0%,27.0%,3.2%,22.2%,38.9%,0/2,125,2,2,62,39,23,2,1:18
+24-Feb-2014,Sao Paulo Q,3,Clay,Q1,564,1914,1,,,Caio Zampieri,Victor Hugo Portugal Pereira,6-1 6-2,2.04,4.7%,2.3%,62.8%,81.5%,62.5%,0/0,63.2%,52.3%,4.5%,36.0%,73.7%,4/6,87,2,1,43,27,16,2,0:52
+16-Dec-2013,Brazil F21,3,Clay,R32,559,1306,0,8,,Francisco Arrechea,Caio Zampieri,7-6(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Brazil F20,3,Clay,R32,559,816,0,,Q,Juan Pablo Paz,Caio Zampieri,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Brazil F19,3,Clay,R16,556,430,0,,6,Jose Pereira,Caio Zampieri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Brazil F19,3,Clay,R32,556,599,1,,,Caio Zampieri,Evan King,4-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Brazil F16,3,Clay,SF,623,412,0,,6,Wilson Leite,Caio Zampieri,6-7(7) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Brazil F16,3,Clay,QF,623,726,1,,,Caio Zampieri,Caio Silva,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Brazil F16,3,Clay,R16,623,1063,1,,,Caio Zampieri,Marcos Vinicius Dias,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Brazil F16,3,Clay,R32,623,739,1,,,Caio Zampieri,Carlos Eduardo Severino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Brazil F14,3,Clay,F,627,501,0,8,5,Wilson Leite,Caio Zampieri,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Brazil F14,3,Clay,SF,627,755,1,8,,Caio Zampieri,Rafael Camilo,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Brazil F14,3,Clay,QF,627,706,1,8,,Caio Zampieri,Caio Silva,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Brazil F14,3,Clay,R16,627,1153,1,8,WC,Caio Zampieri,Rafael Matos,6-1 7-6(10),,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Brazil F14,3,Clay,R32,627,1686,1,8,Q,Caio Zampieri,Vitor Goncalves Lima,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Brazil F11,3,Clay,SF,660,488,0,4,2,Fabricio Neis,Caio Zampieri,7-6(3) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Brazil F11,3,Clay,QF,660,664,1,4,5,Caio Zampieri,Carlos Eduardo Severino,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Brazil F11,3,Clay,R16,660,1117,1,4,,Caio Zampieri,Marcos Vinicius Dias,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Brazil F11,3,Clay,R32,660,1541,1,4,,Caio Zampieri,Fernando Albuquerque,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Campinas CH,3,Clay,R32,657,187,0,WC,8,Maximo Gonzalez,Caio Zampieri,6-3 6-2,0.70,0.0%,7.7%,69.2%,63.9%,43.8%,2/5,42.5%,29.5%,3.3%,26.3%,34.8%,0/2,113,0,4,52,36,16,2,1:08
+19-Aug-2013,Brazil F6,3,Hard,R16,657,440,0,,4,Thales Turini,Caio Zampieri,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Brazil F6,3,Hard,R32,657,695,1,,,Caio Zampieri,Caio Silva,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Germany F13,3,Clay,SF,707,1451,0,7,Q,Yannick Maden,Caio Zampieri,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Germany F13,3,Clay,QF,707,410,1,7,3,Caio Zampieri,Pablo Galdon,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Germany F13,3,Clay,R16,707,957,1,7,,Caio Zampieri,Christian Hirschmueller,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,Germany F13,3,Clay,R32,707,963,1,7,,Caio Zampieri,George Von Massow,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Germany F11,3,Clay,R16,728,1351,0,,WC,Daniel Masur,Caio Zampieri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Germany F11,3,Clay,R32,728,455,1,,4,Caio Zampieri,Cristobal Saavedra Corvalan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Germany F10,3,Clay,QF,732,514,0,,6,Tihomir Grozdanov,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Germany F10,3,Clay,R16,732,387,1,,4,Caio Zampieri,Juan Pablo Amado,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Germany F10,3,Clay,R32,732,1510,1,,WC,Caio Zampieri,Jan Choinski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Rio Quente CH,3,Hard,QF,954,246,0,,8,Fabiano De Paula,Caio Zampieri,6-2 6-2,0.58,2.1%,0.0%,68.1%,53.1%,53.3%,2/6,40.0%,27.1%,8.3%,22.9%,38.5%,0/0,95,1,0,47,32,15,4,0:54
+6-May-2013,Rio Quente CH,3,Hard,R16,954,162,1,,2,Caio Zampieri,Guido Andreozzi,7-6(5) 7-6(4),1.09,9.2%,3.1%,55.1%,70.4%,56.8%,10/12,52.4%,39.1%,9.2%,35.4%,43.6%,2/4,185,9,3,98,54,44,8,1:54
+6-May-2013,Rio Quente CH,3,Hard,R32,954,458,1,,WC,Caio Zampieri,Nicolas Santos,7-6(4) 6-1,1.85,5.8%,0.0%,67.3%,82.9%,70.6%,0/0,56.9%,39.1%,0.0%,35.2%,60.0%,3/4,116,3,0,52,35,17,0,1:09
+18-Mar-2013,USA F8,3,Hard,QF,1227,226,0,PR,3,Bradley Klahn,Caio Zampieri,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,USA F8,3,Hard,R16,1227,244,1,PR,5,Caio Zampieri,Hans Podlipnik Castillo,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,USA F8,3,Hard,R32,1227,807,1,PR,LL,Caio Zampieri,Jorge Montero,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,USA F7,3,Hard,QF,1230,1306,0,PR,Q,Kevin King,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,USA F7,3,Hard,R16,1230,542,1,PR,Q,Caio Zampieri,Jason Jung,6-2 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,USA F7,3,Hard,R32,1230,387,1,PR,,Caio Zampieri,Marek Michalicka,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,Delray Beach Q,3,Hard,Q1,1230,164,0,,,Denis Kudla,Caio Zampieri,6-4 6-1,0.45,2.9%,0.0%,71.4%,54.0%,45.0%,9/13,40.5%,22.0%,9.8%,17.6%,25.0%,0/0,111,2,0,70,50,20,4,1:05
+28-Jan-2013,USA F4,3,Clay,QF,1450,573,0,,,Bjorn Fratangelo,Caio Zampieri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,USA F4,3,Clay,R16,1450,726,1,,,Caio Zampieri,Romain Arneodo,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,USA F4,3,Clay,R32,1450,438,1,,7,Caio Zampieri,Thiago Monteiro,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,USA F3,3,Clay,R32,981,286,0,Q,4,Robby Ginepri,Caio Zampieri,6-0 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2013,USA F2,3,Clay,R32,981,636,0,Q,SE,Benjamin Balleret,Caio Zampieri,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2013,USA F1,3,Clay,R16,981,382,0,PR,,Patricio Heras,Caio Zampieri,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2013,USA F1,3,Clay,R32,981,1413,1,PR,Q,Caio Zampieri,Vladislav Bondarenko,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Brazil F36,3,Clay,R16,996,287,0,WC,1,Marcelo Demoliner,Caio Zampieri,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Brazil F36,3,Clay,R32,996,962,1,WC,,Caio Zampieri,Charles Costa,6-1 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2012,Brazil F35,3,Hard,R32,994,523,0,,7,Nicolas Santos,Caio Zampieri,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Sao Paulo Q,3,Clay,Q1,282,348,0,,,Guido Pella,Caio Zampieri,7-5 6-4,0.65,9.1%,3.0%,59.1%,74.4%,33.3%,6/9,43.0%,27.4%,4.8%,22.0%,38.1%,1/8,128,6,2,66,39,27,3,1:16
+24-Jan-2012,Bucaramanga CH,3,Clay,R32,255,124,0,,5,Maximo Gonzalez,Caio Zampieri,6-3 6-3,0.57,5.0%,5.0%,56.7%,70.6%,38.5%,5/8,42.2%,24.5%,6.1%,20.7%,30.0%,0/0,109,3,3,60,34,26,3,1:18
+16-Jan-2012,Australian Open Q,3,Hard,Q2,255,233,0,,,Jesse Huta Galung,Caio Zampieri,6-0 6-0,0.35,2.5%,0.0%,75.0%,26.7%,50.0%,5/11,28.4%,23.5%,5.9%,20.0%,28.6%,0/3,74,1,0,40,30,10,2,0:50
+16-Jan-2012,Australian Open Q,3,Hard,Q1,255,235,1,,,Caio Zampieri,Peter Torebko,6-3 6-4,1.17,1.3%,0.0%,68.0%,66.7%,54.2%,8/9,54.0%,43.5%,4.8%,25.8%,61.3%,3/11,137,1,0,75,51,24,3,1:28
+2-Jan-2012,Sao Paulo CH,3,Hard,R32,253,413,0,6,,Jozef Kovalik,Caio Zampieri,6-3 5-7 6-2,0.86,2.5%,3.7%,56.8%,69.6%,40.0%,7/12,46.3%,37.2%,5.3%,29.2%,45.7%,3/6,175,2,3,81,46,35,5,2:06
+31-Oct-2011,Sao Leopoldo CH,3,Clay,R32,255,131,0,,7,Maximo Gonzalez,Caio Zampieri,6-7(6) 6-2 6-3,0.73,1.0%,1.9%,58.1%,62.3%,50.0%,5/10,44.6%,31.3%,3.0%,24.3%,48.3%,1/7,204,1,2,105,61,44,3,2:32
+24-Oct-2011,Sao Jose Do Rio Preto CH,3,Clay,R32,258,288,0,,Q,Martin Alund,Caio Zampieri,7-6(2) 6-4,0.74,3.4%,2.3%,62.1%,75.9%,27.3%,9/11,45.9%,31.4%,2.9%,21.6%,57.9%,1/3,157,3,2,87,54,33,2,1:45
+3-Oct-2011,Brazil F33,3,Clay,SF,271,215,0,4,2,Gastao Elias,Caio Zampieri,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Brazil F33,3,Clay,QF,271,1212,1,4,WC,Caio Zampieri,Thiago Monteiro,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Brazil F33,3,Clay,R16,271,,1,4,WC,Caio Zampieri,Alexandre Albarici,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Brazil F33,3,Clay,R32,271,1111,1,4,Q,Caio Zampieri,Raul Francisquiny,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Recife2 CH,3,Hard,SF,289,123,0,,1,Ricardo Mello,Caio Zampieri,6-3 6-3,0.39,3.0%,1.5%,64.2%,72.1%,33.3%,9/12,41.8%,16.3%,4.7%,6.9%,35.7%,0/0,110,2,1,67,43,24,2,1:11
+26-Sep-2011,Recife2 CH,3,Hard,QF,289,172,1,,4,Caio Zampieri,Denis Gremelmayr,7-6(5) 3-0 RET,1.30,2.3%,4.7%,72.1%,61.3%,58.3%,1/3,55.0%,51.5%,5.9%,36.4%,65.7%,4/11,111,1,2,43,31,12,4,1:20
+26-Sep-2011,Recife2 CH,3,Hard,R16,289,620,1,,Q,Caio Zampieri,Joaquin Jesus Monteferrario,6-4 6-7(6) 6-1,1.10,2.0%,1.0%,78.2%,64.6%,77.3%,5/6,53.3%,35.8%,1.2%,22.4%,56.3%,4/9,182,2,1,101,79,22,1,1:51
+26-Sep-2011,Recife2 CH,3,Hard,R32,289,269,1,,7,Caio Zampieri,Ricardo Hocevar,7-6(3) 3-2 RET,1.11,3.2%,0.0%,69.4%,58.1%,84.2%,4/5,53.0%,37.7%,1.9%,30.3%,50.0%,2/6,115,2,0,62,43,19,1,1:27
+19-Sep-2011,Campinas CH,3,Clay,F,380,110,0,,1,Maximo Gonzalez,Caio Zampieri,6-3 6-2,0.61,0.0%,4.6%,66.2%,55.8%,45.5%,9/13,42.5%,29.2%,2.1%,32.3%,23.5%,0/2,113,0,3,65,43,22,1,1:19
+19-Sep-2011,Campinas CH,3,Clay,SF,380,122,1,,2,Caio Zampieri,Rogerio Dutra Silva,1-6 6-4 7-6(5),0.95,2.6%,0.9%,52.2%,63.3%,49.1%,14/19,49.5%,41.2%,4.1%,33.9%,52.6%,3/9,212,3,1,115,60,55,4,2:55
+19-Sep-2011,Campinas CH,3,Clay,QF,380,166,1,,4,Caio Zampieri,Denis Gremelmayr,6-1 6-4,1.53,10.0%,2.0%,62.0%,71.0%,52.6%,2/4,59.4%,54.9%,0.0%,54.2%,55.6%,5/8,101,5,1,50,31,19,0,1:08
+19-Sep-2011,Campinas CH,3,Clay,R16,380,443,1,,,Caio Zampieri,Andre Miele,5-7 6-2 7-5,1.12,3.7%,2.8%,49.5%,72.2%,49.1%,11/15,53.3%,44.3%,1.1%,34.0%,57.9%,6/9,197,4,3,109,54,55,1,2:19
+19-Sep-2011,Campinas CH,3,Clay,R32,380,412,1,,,Caio Zampieri,Tiago Fernandes,6-4 3-6 6-2,1.39,4.2%,2.8%,51.4%,78.4%,60.0%,1/3,54.7%,42.5%,2.3%,32.1%,58.8%,4/9,159,3,2,72,37,35,2,1:47
+29-Aug-2011,Colombia F5,3,Clay,R32,370,184,0,,1,Carlos Salamanca,Caio Zampieri,6-7(3) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Colombia F4,3,Clay,SF,426,423,0,8,,Eduardo Struvay,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Colombia F4,3,Clay,QF,426,442,1,8,,Caio Zampieri,Cristhian Ignacio Benedetti,6-0 6-5 RET,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Colombia F4,3,Clay,R16,426,586,1,8,,Caio Zampieri,Maciek Sykut,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Colombia F4,3,Clay,R32,426,588,1,8,,Caio Zampieri,Danilo Ferraz,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Brazil F26,3,Clay,F,400,390,1,8,7,Caio Zampieri,Guilherme Clezar,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Brazil F26,3,Clay,SF,400,990,1,8,,Caio Zampieri,Bruno Santanna,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Brazil F26,3,Clay,QF,400,490,1,8,,Caio Zampieri,Marcelo Demoliner,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Brazil F26,3,Clay,R16,400,1057,1,8,Q,Caio Zampieri,Augusto Laranja,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Brazil F26,3,Clay,R32,400,806,1,8,,Caio Zampieri,Joao Pedro Sorgi,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Brazil F25,3,Clay,QF,397,805,0,5,WC,Joao Pedro Sorgi,Caio Zampieri,6-7(2) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Brazil F25,3,Clay,R16,397,672,1,5,,Caio Zampieri,Fabricio Neis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Brazil F25,3,Clay,R32,397,390,1,5,,Caio Zampieri,Guilherme Clezar,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2011,Campos Do Jordao CH,3,Hard,R32,358,89,0,,1,Ricardo Mello,Caio Zampieri,6-2 6-3,0.56,1.8%,3.6%,55.4%,64.5%,48.0%,3/6,40.9%,24.1%,1.9%,11.4%,47.4%,0/3,110,1,2,56,31,25,1,1:19
+15-May-2011,Nice Q,3,Clay,Q1,283,154,0,,,Vincent Millot,Caio Zampieri,6-3 6-3,0.64,3.3%,0.0%,59.0%,55.6%,60.0%,5/8,43.1%,27.3%,3.6%,20.7%,34.6%,0/1,116,2,0,61,36,25,2,1:24
+18-Apr-2011,Santos CH,3,Clay,R32,252,136,0,,4,Tatsuma Ito,Caio Zampieri,7-6(5) 6-3,0.40,5.8%,2.3%,57.0%,63.3%,51.4%,7/9,42.1%,16.7%,14.8%,10.7%,23.1%,0/2,140,5,2,86,49,37,8,1:45
+11-Apr-2011,Blumenau CH,3,Clay,R32,251,125,0,,4,Eric Prodon,Caio Zampieri,2-6 6-4 6-2,0.90,8.4%,2.4%,62.7%,73.1%,45.2%,3/6,48.8%,33.8%,3.9%,29.4%,37.2%,2/6,160,7,2,83,52,31,3,1:51
+4-Apr-2011,Recife CH,3,Hard,QF,257,211,0,7,4,Julio Silva,Caio Zampieri,3-6 6-3 6-2,0.72,12.0%,2.0%,59.0%,71.2%,36.6%,16/20,45.8%,31.2%,11.7%,26.9%,40.0%,2/3,177,12,2,100,59,41,9,2:20
+4-Apr-2011,Recife CH,3,Hard,R16,257,299,1,7,,Caio Zampieri,Timo Nieminen,6-2 6-4,1.31,2.0%,0.0%,56.0%,64.3%,68.2%,1/2,54.0%,44.4%,4.8%,30.2%,75.0%,4/7,113,1,0,50,28,22,3,1:31
+4-Apr-2011,Recife CH,3,Hard,R32,257,688,1,7,Q,Caio Zampieri,Tiago Slonik,7-6(4) 6-2,1.23,6.9%,0.0%,72.2%,75.0%,45.0%,2/3,54.9%,41.0%,4.9%,32.4%,54.2%,3/4,133,5,0,72,52,20,3,1:31
+14-Mar-2011,San Jose CH,3,Hard,R16,265,538,0,,,Louk Sorensen,Caio Zampieri,3-6 6-4 6-3,0.86,1.3%,3.8%,59.0%,69.6%,53.1%,1/4,46.9%,32.1%,3.6%,32.1%,32.3%,2/7,162,1,3,78,46,32,3,1:51
+14-Mar-2011,San Jose CH,3,Hard,R32,265,209,1,,,Caio Zampieri,Jesse Witten,6-1 6-3,1.65,4.2%,2.1%,66.7%,68.8%,56.3%,3/5,61.4%,58.5%,1.9%,40.9%,71.0%,6/8,101,2,1,48,32,16,1,0:50
+7-Mar-2011,Santiago CH,3,Clay,R32,265,164,0,,8,Franco Skugor,Caio Zampieri,7-6(5) 6-3,0.69,4.2%,0.0%,76.1%,53.7%,76.5%,1/4,44.4%,28.1%,10.9%,25.0%,41.7%,1/4,135,3,0,71,54,17,7,1:32
+28-Feb-2011,Salinas CH,3,Clay,R16,268,167,0,,8,Franco Skugor,Caio Zampieri,6-0 6-2,0.58,2.2%,4.4%,60.0%,44.4%,33.3%,3/8,37.2%,34.7%,16.3%,27.6%,45.0%,0/1,94,1,2,45,27,18,8,1:08
+28-Feb-2011,Salinas CH,3,Clay,R32,268,312,1,,,Caio Zampieri,Martin Vassallo Arguello,6-3 6-4,1.17,2.7%,4.1%,56.2%,63.4%,62.5%,10/12,54.8%,43.4%,3.8%,34.4%,57.1%,4/8,126,2,3,73,41,32,2,1:41
+14-Feb-2011,Buenos Aires Q,3,Clay,Q1,269,205,0,,,Giovanni Lapentti,Caio Zampieri,6-4 6-2,0.60,0.0%,0.0%,57.6%,55.9%,56.0%,4/7,42.6%,26.5%,0.0%,25.8%,27.8%,0/0,108,0,0,59,34,25,0,2:08
+7-Feb-2011,Costa Do Sauipe Q,3,Clay,Q2,264,190,0,,,Ivan Navarro,Caio Zampieri,7-6(4) 7-6(5),0.79,4.4%,3.3%,62.2%,75.0%,44.1%,5/7,46.8%,28.9%,7.2%,21.3%,38.9%,2/5,173,4,3,90,56,34,6,2:08
+7-Feb-2011,Costa Do Sauipe Q,3,Clay,Q1,264,117,1,,4,Caio Zampieri,Albert Ramos,6-3 6-2,1.54,5.3%,0.0%,63.2%,83.3%,47.6%,4/4,58.9%,46.0%,6.0%,29.0%,73.7%,3/6,107,3,0,57,36,21,3,1:13
+31-Jan-2011,Santiago,3,Clay,R16,316,39,0,Q,4,Juan Ignacio Chela,Caio Zampieri,6-2 6-3,0.67,0.0%,6.9%,53.4%,54.8%,25.9%,6/12,40.4%,39.3%,0.0%,23.3%,57.7%,2/6,114,0,4,58,31,27,0,1:24
+31-Jan-2011,Santiago,3,Clay,R32,316,210,1,Q,WC,Caio Zampieri,Nicolas Massu,7-6(7) 7-5,1.17,6.0%,2.4%,60.2%,72.0%,48.5%,5/7,52.5%,43.6%,1.1%,40.0%,50.0%,3/9,177,5,2,83,50,33,1,2:38
+31-Jan-2011,Santiago Q,3,Clay,Q3,316,191,1,,4,Caio Zampieri,Ivan Navarro,6-3 6-4,1.22,1.6%,3.1%,60.9%,61.5%,60.0%,2/4,54.1%,47.8%,4.3%,43.9%,53.6%,4/7,133,1,2,64,39,25,3,1:40
+31-Jan-2011,Santiago Q,3,Clay,Q2,316,237,1,,6,Caio Zampieri,Leonardo Tavares,6-1 2-6 6-4,1.00,6.3%,6.3%,63.7%,76.5%,37.9%,2/4,51.4%,37.5%,1.6%,28.9%,50.0%,3/4,144,5,5,80,51,29,1,1:44
+31-Jan-2011,Santiago Q,3,Clay,Q1,316,389,1,,,Caio Zampieri,David Marrero,6-1 6-4,1.71,5.9%,0.0%,58.8%,73.3%,76.2%,2/2,58.5%,43.6%,5.5%,32.4%,66.7%,3/7,106,3,0,51,30,21,3,1:05
+24-Jan-2011,Bucaramanga CH,3,Clay,R32,298,139,0,,5,Eric Prodon,Caio Zampieri,6-3 6-3,0.79,5.8%,1.9%,63.5%,54.5%,52.6%,7/11,44.3%,36.5%,9.5%,25.9%,44.4%,1/3,115,3,1,52,33,19,6,1:19
+17-Jan-2011,Brazil F4,3,Clay,QF,298,323,0,2,5,Andre Begemann,Caio Zampieri,2-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Brazil F4,3,Clay,R16,298,553,1,2,,Caio Zampieri,Ivan Miranda,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Brazil F4,3,Clay,R32,298,1173,1,2,Q,Caio Zampieri,Bruno Semenzato,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2011,Sao Paulo CH,3,Hard,R32,244,312,0,,,Thomas Fabbiano,Caio Zampieri,7-5 1-6 6-0,0.89,8.0%,1.3%,56.0%,54.8%,39.4%,7/13,47.1%,46.4%,8.2%,35.2%,60.5%,5/12,172,6,1,75,42,33,8,2:04
+27-Dec-2010,Brazil F1,3,Hard,QF,225,520,0,4,,Andre Ghem,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Dec-2010,Brazil F1,3,Hard,R16,225,,1,4,WC,Caio Zampieri,Clayton Almeida,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Dec-2010,Brazil F1,3,Hard,R32,225,356,1,4,,Caio Zampieri,Andre Begemann,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Sao Paulo2 CH,3,Clay,R32,222,225,0,,,Paul Capdeville,Caio Zampieri,6-3 6-4,0.78,8.3%,4.2%,47.2%,61.8%,42.1%,9/13,44.7%,37.7%,5.8%,31.1%,50.0%,2/5,141,6,3,72,34,38,4,1:28
+4-Oct-2010,Quito CH,3,Clay,R32,218,355,0,,,Eladio Ribeiro Neto,Caio Zampieri,3-6 7-6(2) 6-1,0.77,3.4%,3.4%,67.0%,67.8%,62.1%,1/4,47.0%,26.2%,5.0%,24.6%,30.4%,1/3,168,3,3,88,59,29,4,1:33
+27-Sep-2010,Cali CH,3,Clay,R16,225,205,0,8,,Julio Silva,Caio Zampieri,2-6 6-4 6-0,0.80,4.7%,3.5%,67.4%,67.2%,32.1%,1/5,46.1%,35.4%,6.3%,28.9%,44.1%,2/6,165,4,3,86,58,28,5,2:01
+27-Sep-2010,Cali CH,3,Clay,R32,225,229,1,8,,Caio Zampieri,Ricardo Hocevar,6-1 1-6 6-3,1.11,5.1%,2.6%,61.5%,64.6%,46.7%,9/13,52.9%,46.8%,1.6%,38.5%,52.8%,5/6,140,4,2,78,48,30,1,1:38
+20-Sep-2010,Bogota3 CH,3,Clay,R32,202,278,0,8,,Juan Sebastian Cabal,Caio Zampieri,7-5 6-3,0.77,8.2%,2.7%,57.5%,61.9%,45.2%,6/10,45.3%,34.8%,0.0%,30.2%,43.5%,2/8,139,6,2,73,42,31,0,1:26
+13-Sep-2010,Belo Horizonte2 CH,3,Clay,R32,195,457,0,6,,Facundo Arguello,Caio Zampieri,1-6 6-3 6-2,0.94,4.2%,1.4%,66.7%,62.5%,45.8%,1/6,48.9%,40.6%,1.4%,32.6%,53.8%,4/9,141,3,1,72,48,24,1,1:40
+30-Aug-2010,US Open Q,3,Hard,Q2,203,151,0,,25,Kevin Kim,Caio Zampieri,6-2 6-3,0.60,5.4%,1.8%,55.4%,51.6%,36.0%,4/9,39.3%,33.3%,5.9%,21.4%,47.8%,1/3,107,3,1,56,31,25,3,1:03
+30-Aug-2010,US Open Q,3,Hard,Q1,203,165,1,,,Caio Zampieri,Jesse Levine,6-4 2-0 RET,1.53,7.1%,3.6%,42.9%,75.0%,50.0%,0/2,60.3%,60.0%,0.0%,41.2%,77.8%,4/5,63,2,1,28,12,16,0,0:44
+16-Aug-2010,Salvador CH,3,Hard,QF,214,184,0,,8,Matthew Ebden,Caio Zampieri,6-2 6-2,0.60,0.0%,0.0%,78.0%,51.3%,54.5%,3/7,40.2%,28.8%,7.7%,25.6%,44.4%,0/3,102,0,0,50,39,11,4,1:07
+16-Aug-2010,Salvador CH,3,Hard,R16,214,252,1,,,Caio Zampieri,Adrian Menendez Maceiras,7-6(4) 3-6 6-4,0.94,1.9%,0.0%,65.0%,67.2%,63.9%,11/13,49.5%,32.0%,7.2%,28.4%,40.0%,2/5,200,2,0,103,67,36,7,2:30
+16-Aug-2010,Salvador CH,3,Hard,R32,214,788,1,,WC,Caio Zampieri,Guilherme Clezar,6-3 1-6 6-4,1.04,3.2%,3.2%,73.1%,60.3%,56.0%,5/9,51.1%,42.7%,5.6%,43.9%,40.6%,4/9,182,3,3,93,68,25,5,2:00
+9-Aug-2010,Brasilia CH,3,Hard,R32,211,189,0,,,Izak Van Der Merwe,Caio Zampieri,7-5 6-4,0.77,1.7%,0.0%,63.8%,64.9%,42.9%,4/9,44.9%,33.3%,11.7%,32.5%,35.0%,3/5,118,1,0,58,37,21,7,1:18
+2-Aug-2010,Campos Do Jordao CH,3,Hard,QF,206,263,0,7,,Izak Van Der Merwe,Caio Zampieri,6-0 6-4,0.61,0.0%,8.9%,60.7%,55.9%,31.8%,1/6,39.8%,32.7%,17.3%,16.7%,54.5%,1/2,108,0,5,56,34,22,9,1:04
+2-Aug-2010,Campos Do Jordao CH,3,Hard,R16,206,280,1,7,,Caio Zampieri,Marcel Felder,6-7(2) 6-4 6-1,1.06,2.8%,0.9%,72.2%,62.8%,66.7%,12/13,51.7%,38.1%,0.0%,40.6%,33.3%,4/9,205,3,1,108,78,30,0,2:07
+2-Aug-2010,Campos Do Jordao CH,3,Hard,R32,206,306,1,7,,Caio Zampieri,Brendan Evans,4-6 6-2 7-5,1.10,8.2%,1.0%,68.0%,66.7%,54.8%,10/13,52.5%,40.7%,2.3%,37.5%,46.7%,5/10,183,8,1,97,66,31,2,1:37
+5-Jul-2010,Brazil F12,3,Clay,F,194,342,1,1,2,Caio Zampieri,Rogerio Dutra Silva,6-2 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Brazil F12,3,Clay,SF,194,418,1,1,7,Caio Zampieri,Juan Pablo Villar,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Brazil F12,3,Clay,QF,194,399,1,1,8,Caio Zampieri,Eladio Ribeiro Neto,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Brazil F12,3,Clay,R16,194,828,1,1,,Caio Zampieri,Tiago Slonik,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+5-Jul-2010,Brazil F12,3,Clay,R32,194,503,1,1,,Caio Zampieri,Rodrigo Guidolin,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Brazil F13,3,Clay,QF,,,0,1,8,Andre Miele,Caio Zampieri,7-6(5) 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Brazil F13,3,Clay,R16,,,1,1,,Caio Zampieri,Jose Pereira,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Brazil F13,3,Clay,R32,,,1,1,Q,Caio Zampieri,Rogerio Barrozo Ribeiro,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Wimbledon Q,3,Grass,Q1,187,112,0,,6,Grega Zemlja,Caio Zampieri,4-6 6-4 6-1,0.67,2.5%,0.0%,69.6%,63.6%,54.2%,2/5,43.9%,26.3%,3.9%,21.2%,37.5%,1/2,155,2,0,79,55,24,3,1:27
+7-Jun-2010,Kosice CH,3,Clay,SF,209,214,0,,,Filip Krajinovic,Caio Zampieri,4-6 6-1 6-1,0.79,4.9%,1.2%,52.4%,72.1%,30.8%,5/11,45.1%,37.5%,3.8%,25.6%,51.4%,2/10,162,4,1,82,43,39,3,1:48
+7-Jun-2010,Kosice CH,3,Clay,QF,209,213,1,,,Caio Zampieri,Jorge Aguilar,5-7 7-6(4) 6-4,1.22,11.8%,3.6%,70.9%,78.2%,46.9%,3/5,51.4%,37.8%,6.3%,30.9%,46.8%,2/13,253,13,4,110,78,32,9,3:14
+7-Jun-2010,Kosice CH,3,Clay,R16,209,172,1,,,Caio Zampieri,Lukas Rosol,6-4 0-6 6-4,0.90,3.4%,0.0%,68.5%,59.0%,42.9%,5/10,47.9%,41.3%,11.3%,26.5%,64.5%,4/9,169,3,0,89,61,28,9,1:59
+7-Jun-2010,Kosice CH,3,Clay,R32,209,378,1,,Q,Caio Zampieri,Marek Semjan,6-4 6-2,1.44,0.0%,0.0%,58.8%,66.7%,61.9%,0/1,57.4%,50.9%,5.3%,46.4%,55.2%,4/8,108,0,0,51,30,21,3,1:12
+31-May-2010,Rome3 CH,3,Clay,R32,214,118,0,,3,Filippo Volandri,Caio Zampieri,6-4 1-6 6-3,0.98,2.0%,2.9%,60.8%,67.7%,47.5%,8/11,51.1%,39.5%,0.0%,35.3%,48.0%,3/5,178,2,3,102,62,40,0,1:59
+24-May-2010,Alessandria CH,3,Clay,R16,214,113,0,,3,Bjorn Phau,Caio Zampieri,6-3 6-2,0.68,0.0%,0.0%,65.5%,52.8%,31.6%,5/10,41.1%,36.8%,3.5%,19.2%,51.6%,2/3,112,0,0,55,36,19,2,1:13
+24-May-2010,Alessandria CH,3,Clay,R32,214,1112,1,,WC,Caio Zampieri,Jacopo Marchegiani,6-3 6-3,1.38,4.6%,0.0%,67.7%,65.9%,57.1%,3/5,57.4%,50.9%,1.8%,48.7%,55.6%,5/8,122,3,0,65,44,21,1,1:21
+24-May-2010,Roland Garros Q,3,Clay,Q1,214,263,0,,,John Millman,Caio Zampieri,7-5 6-3,0.90,5.1%,0.0%,69.5%,65.9%,38.9%,2/6,46.7%,38.2%,3.9%,27.5%,50.0%,2/10,135,3,0,59,41,18,3,1:35
+10-May-2010,Bordeaux CH,3,Clay,R32,214,58,0,Q,2,Olivier Rochus,Caio Zampieri,7-6(3) 6-4,0.57,10.0%,1.3%,63.7%,62.7%,48.3%,6/8,43.5%,24.1%,3.4%,17.1%,34.8%,1/1,138,8,1,80,51,29,2,1:38
+19-Apr-2010,Curitiba CH,3,Clay,QF,232,103,0,,3,Ricardo Mello,Caio Zampieri,6-1 6-2,0.53,5.3%,7.9%,55.3%,57.1%,23.5%,1/6,36.3%,31.0%,2.4%,31.3%,30.0%,1/4,80,2,3,38,21,17,1,0:46
+19-Apr-2010,Curitiba CH,3,Clay,QF,232,103,0,,3,Ricardo Mello,Caio Zampieri,6-1 6-2,0.53,5.3%,7.9%,55.3%,57.1%,23.5%,1/6,36.3%,31.0%,2.4%,31.3%,30.0%,1/4,80,2,3,38,21,17,1,0:46
+19-Apr-2010,Curitiba CH,3,Clay,QF,232,103,0,,3,Ricardo Mello,Caio Zampieri,6-1 6-2,0.53,5.3%,7.9%,55.3%,57.1%,23.5%,1/6,36.3%,31.0%,2.4%,31.3%,30.0%,1/4,80,2,3,38,21,17,1,0:46
+19-Apr-2010,Curitiba CH,3,Clay,R16,232,148,1,,7,Caio Zampieri,Ramon Delgado,7-6(5) 6-3,1.16,8.6%,1.2%,61.7%,60.0%,74.2%,2/3,53.6%,40.0%,4.3%,32.6%,54.2%,2/4,151,7,1,81,50,31,3,1:38
+19-Apr-2010,Curitiba CH,3,Clay,R16,232,148,1,,7,Caio Zampieri,Ramon Delgado,7-6(5) 6-3,1.16,8.6%,1.2%,61.7%,60.0%,74.2%,2/3,53.6%,40.0%,4.3%,32.6%,54.2%,2/4,151,7,1,81,50,31,3,1:38
+19-Apr-2010,Curitiba CH,3,Clay,R16,232,148,1,,7,Caio Zampieri,Ramon Delgado,7-6(5) 6-3,1.16,8.6%,1.2%,61.7%,60.0%,74.2%,2/3,53.6%,40.0%,4.3%,32.6%,54.2%,2/4,151,7,1,81,50,31,3,1:38
+19-Apr-2010,Curitiba CH,3,Clay,R32,232,,1,,WC,Caio Zampieri,Thomas Jun Facchini Takemoto,6-3 6-3,1.44,11.3%,3.8%,67.9%,80.6%,52.9%,1/1,56.1%,40.7%,1.9%,30.3%,57.1%,3/6,107,6,2,53,36,17,1,1:04
+19-Apr-2010,Curitiba CH,3,Clay,R32,232,,1,,WC,Caio Zampieri,Thomas Jun Facchini Takemoto,6-3 6-3,1.44,11.3%,3.8%,67.9%,80.6%,52.9%,1/1,56.1%,40.7%,1.9%,30.3%,57.1%,3/6,107,6,2,53,36,17,1,1:04
+19-Apr-2010,Curitiba CH,3,Clay,R32,232,,1,,WC,Caio Zampieri,Thomas Jun Facchini Takemoto,6-3 6-3,1.44,11.3%,3.8%,67.9%,80.6%,52.9%,1/1,56.1%,40.7%,1.9%,30.3%,57.1%,3/6,107,6,2,53,36,17,1,1:04
+12-Apr-2010,Blumenau CH,3,Clay,R32,231,116,0,,5,Thiago Alves,Caio Zampieri,6-3 6-4,0.90,6.5%,1.6%,58.1%,72.2%,53.8%,4/6,47.3%,31.9%,4.3%,26.8%,39.3%,0/1,131,4,1,62,36,26,3,1:30
+5-Apr-2010,Bogota CH,3,Clay,R16,241,68,0,,1,Alejandro Falla,Caio Zampieri,5-7 6-2 6-2,0.55,2.6%,6.5%,58.4%,71.1%,50.0%,5/9,43.1%,20.9%,6.0%,20.6%,21.2%,1/1,144,2,5,77,45,32,4,1:32
+5-Apr-2010,Bogota CH,3,Clay,R32,241,267,1,,,Caio Zampieri,Alejandro Gonzalez,7-6(7) 6-4,1.02,3.4%,3.4%,60.2%,67.9%,42.9%,7/10,51.3%,42.9%,0.0%,41.9%,44.4%,4/7,158,3,3,88,53,35,0,1:45
+29-Mar-2010,St. Brieuc CH,3,Clay,R32,239,130,0,,4,Michal Przysiezny,Caio Zampieri,7-6(5) 3-6 6-3,0.91,3.1%,2.1%,61.9%,66.7%,64.9%,4/6,49.5%,31.0%,5.7%,31.3%,30.0%,2/3,184,3,2,97,60,37,5,1:53
+13-Mar-2010,Caltanissetta CH,3,Clay,R32,214,149,0,,6,Grega Zemlja,Caio Zampieri,6-3 6-2,0.64,0.0%,0.0%,66.0%,64.5%,43.8%,1/4,41.2%,27.3%,0.0%,25.0%,30.4%,0/1,102,0,0,47,31,16,0,1:02
+15-Feb-2010,Buenos Aires Q,3,Clay,Q1,221,187,0,,,Diego Junqueira,Caio Zampieri,6-1 6-1,0.63,0.0%,9.3%,48.8%,47.6%,36.4%,3/8,38.8%,36.4%,0.0%,22.2%,63.2%,0/5,98,0,4,43,21,22,0,1:09
+8-Feb-2010,Costa Do Sauipe Q,3,Clay,Q3,207,295,0,,,Carlos Berlocq,Caio Zampieri,6-3 4-6 6-3,0.86,2.5%,1.3%,57.0%,64.4%,44.1%,5/11,46.8%,38.0%,2.5%,35.1%,45.5%,4/11,158,2,1,79,45,34,2,2:15
+8-Feb-2010,Costa Do Sauipe Q,3,Clay,Q2,207,220,1,,,Caio Zampieri,Peter Polansky,7-6(4) 6-3,1.46,1.6%,0.0%,62.5%,70.0%,62.5%,1/4,57.0%,47.9%,5.6%,43.9%,53.3%,4/9,135,1,0,64,40,24,4,1:32
+8-Feb-2010,Costa Do Sauipe Q,3,Clay,Q1,207,285,1,,,Caio Zampieri,Marcelo Demoliner,6-4 6-4,1.07,0.0%,3.3%,65.6%,57.5%,66.7%,2/4,51.2%,41.9%,6.5%,25.0%,65.4%,4/6,123,0,2,61,40,21,4,1:24
+1-Feb-2010,Santiago Q,3,Clay,Q1,205,349,0,,,Facundo Bagnis,Caio Zampieri,4-6 6-1 6-4,0.89,3.2%,1.1%,75.5%,52.1%,65.2%,6/11,47.6%,39.8%,2.2%,33.3%,53.3%,3/9,187,3,1,94,71,23,2,1:57
+25-Jan-2010,Bucaramanga CH,3,Clay,R16,218,121,0,,6,Victor Crivoi,Caio Zampieri,6-4 3-6 6-4,1.04,3.8%,3.8%,50.0%,82.1%,51.3%,3/6,50.0%,34.5%,3.6%,22.4%,51.4%,3/5,162,3,3,78,39,39,3,1:55
+25-Jan-2010,Bucaramanga CH,3,Clay,R32,218,157,1,,,Caio Zampieri,David Marrero,3-6 7-6(5) 7-6(8),1.17,10.5%,2.1%,63.2%,75.0%,57.1%,1/5,50.5%,37.0%,7.9%,31.8%,47.6%,3/13,222,10,2,95,60,35,10,2:44
+11-Jan-2010,Salinas CH,3,Hard,SF,243,111,0,,1,Nicolas Massu,Caio Zampieri,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,Salinas CH,3,Hard,QF,243,357,1,,Q,Caio Zampieri,Luka Gregorc,6-1 7-5,1.34,4.8%,4.8%,62.9%,82.1%,43.5%,6/6,55.1%,43.1%,9.2%,30.3%,56.3%,4/9,127,3,3,62,39,23,6,1:22
+11-Jan-2010,Salinas CH,3,Hard,R16,243,157,1,,4,Caio Zampieri,Carlos Salamanca,7-6(7) 6-3,1.37,4.3%,2.9%,56.5%,74.4%,63.3%,0/2,54.8%,41.6%,5.2%,40.4%,43.3%,3/8,146,3,2,69,39,30,4,1:34
+11-Jan-2010,Salinas CH,3,Hard,R32,243,559,1,,WC,Caio Zampieri,Julio Cesar Campozano,6-4 7-6(0),1.22,6.1%,1.5%,57.6%,78.9%,64.3%,2/3,53.0%,33.3%,1.5%,26.8%,44.0%,2/3,132,4,1,66,38,28,1,1:30
+4-Jan-2010,Sao Paulo CH,3,Hard,R16,260,242,0,Q,,Adrian Menendez Maceiras,Caio Zampieri,6-4 6-1,0.56,13.7%,3.9%,51.0%,65.4%,32.0%,5/9,39.0%,28.6%,10.2%,13.3%,52.6%,1/1,100,7,2,51,26,25,5,1:07
+4-Jan-2010,Sao Paulo CH,3,Hard,R32,260,233,1,Q,,Caio Zampieri,Inigo Cervantes Huegun,4-6 6-3 6-3,1.44,7.5%,2.5%,70.0%,83.9%,45.8%,5/6,55.4%,39.5%,8.1%,26.8%,51.1%,3/7,166,6,2,80,56,24,7,1:43
+28-Dec-2009,Brazil F34,3,Hard,QF,296,165,0,5,1,Julio Silva,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Dec-2009,Brazil F34,3,Hard,R16,296,1099,1,5,Q,Caio Zampieri,Andre Ghem,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Dec-2009,Brazil F34,3,Hard,R32,296,1216,1,5,Q,Caio Zampieri,Gabriel Wanderley,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2009,Brazil F32,3,Clay,F,297,462,1,2,8,Caio Zampieri,Eladio Ribeiro Neto,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2009,Brazil F32,3,Clay,SF,297,334,1,2,3,Caio Zampieri,Guillermo Alcaide,6-7(9) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2009,Brazil F32,3,Clay,QF,297,391,1,2,6,Caio Zampieri,Haithem Abid,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2009,Brazil F32,3,Clay,R16,297,764,1,2,,Caio Zampieri,Thales Turini,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Dec-2009,Brazil F32,3,Clay,R32,297,1225,1,2,Q,Caio Zampieri,Joao Wiesinger,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Sao Paulo2 CH,3,Clay,R32,303,176,0,Q,,Santiago Gonzalez,Caio Zampieri,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Florianopolis CH,3,Clay,R32,262,245,0,,,Carles Poch Gradin,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Bogota3 CH,3,Clay,SF,287,283,0,Q,,Riccardo Ghedin,Caio Zampieri,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Bogota3 CH,3,Clay,QF,287,404,1,Q,Q,Caio Zampieri,Andre Begemann,7-6(3) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Bogota3 CH,3,Clay,R16,287,123,1,Q,3,Caio Zampieri,Santiago Giraldo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Bogota3 CH,3,Clay,R32,287,220,1,Q,,Caio Zampieri,Vincent Millot,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Cali CH,3,Clay,R32,291,260,0,,,Carlos Salamanca,Caio Zampieri,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open Q,3,Hard,Q1,283,222,0,,,Dieter Kindlmann,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Brasilia2 CH,3,Hard,R16,288,203,0,,,Joao Souza,Caio Zampieri,5-7 7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Brasilia2 CH,3,Hard,R32,288,108,1,,2,Caio Zampieri,Thiago Alves,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Campos Do Jordao CH,3,Hard,QF,299,159,0,,3,Juan Ignacio Chela,Caio Zampieri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Campos Do Jordao CH,3,Hard,R16,299,220,1,,,Caio Zampieri,Rogerio Dutra Silva,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Campos Do Jordao CH,3,Hard,R32,299,161,1,,6,Caio Zampieri,Eduardo Schwank,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Belo Horizonte CH,3,Hard,SF,268,187,0,,6,Eduardo Schwank,Caio Zampieri,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Belo Horizonte CH,3,Hard,QF,268,228,1,,,Caio Zampieri,David Guez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Belo Horizonte CH,3,Hard,R16,268,219,1,,,Caio Zampieri,Rogerio Dutra Silva,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Belo Horizonte CH,3,Hard,R32,268,236,1,,,Caio Zampieri,Victor Estrella,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Bogota2 CH,3,Clay,R32,268,130,0,,4,Santiago Giraldo,Caio Zampieri,7-6(2) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q3,239,201,0,,,Lukas Lacko,Caio Zampieri,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q2,239,152,1,,25,Caio Zampieri,Ricardo Hocevar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q1,239,240,1,,,Caio Zampieri,Juan Pablo Amado,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Halle Q,3,Grass,Q1,247,136,0,,4,Olivier Rochus,Caio Zampieri,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Alessandria CH,3,Clay,R32,246,171,0,,6,Alejandro Falla,Caio Zampieri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q1,246,207,0,,,Ivan Dodig,Caio Zampieri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Pereira CH,3,Clay,R32,242,285,0,7,Q,James Ward,Caio Zampieri,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2009,Argentina F1,3,Clay,R32,247,565,0,1,,Facundo Bagnis,Caio Zampieri,6-4 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Santiago CH,3,Clay,SF,255,1372,0,,,Mariano Zabaleta,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Santiago CH,3,Clay,QF,255,368,1,,Q,Caio Zampieri,Jorge Aguilar,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Santiago CH,3,Clay,R16,255,471,1,,Q,Caio Zampieri,Luigi Dagord,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Santiago CH,3,Clay,R32,255,182,1,,7,Caio Zampieri,Sebastian Decoud,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Buenos Aires Q,3,Clay,Q3,251,192,0,,,Franco Ferreiro,Caio Zampieri,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Buenos Aires Q,3,Clay,Q2,251,126,1,,5,Caio Zampieri,Ruben Ramirez Hidalgo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Buenos Aires Q,3,Clay,Q1,251,240,1,,,Caio Zampieri,David Marrero,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Costa Do Sauipe,3,Clay,R32,255,92,0,Q,,Fabio Fognini,Caio Zampieri,0-6 7-6(5) 6-2,1.11,3.7%,2.4%,57.3%,66.0%,54.3%,2/6,52.1%,43.2%,3.7%,38.5%,47.6%,5/7,163,3,2,82,47,35,3,1:54
+9-Feb-2009,Costa Do Sauipe Q,3,Clay,Q3,255,202,1,,,Caio Zampieri,Joao Souza,3-6 7-6(5) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Costa Do Sauipe Q,3,Clay,Q2,255,114,1,,2,Caio Zampieri,Leonardo Mayer,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Costa Do Sauipe Q,3,Clay,Q1,255,,1,,,Caio Zampieri,Andre Sa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2009,Bucaramanga CH,3,Clay,R32,265,595,0,,WC,Filip Krajinovic,Caio Zampieri,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Iquique CH,3,Clay,R32,265,285,0,,,Conor Niland,Caio Zampieri,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Salinas CH,3,Hard,R32,265,276,0,,,Ramon Delgado,Caio Zampieri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Brazil F25,3,Clay,SF,263,356,0,1,3,Alexandre Bonatto,Caio Zampieri,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Brazil F25,3,Clay,QF,263,605,1,1,,Caio Zampieri,Fernando Romboli,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Brazil F25,3,Clay,R16,263,1142,1,1,,Caio Zampieri,Gustavo Junqueira De Andrade,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Brazil F25,3,Clay,R32,263,1289,1,1,Q,Caio Zampieri,Joao Victor Costa,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Brazil F24,3,Clay,F,266,475,1,2,7,Caio Zampieri,Eric Nunez,0-6 7-6(7) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Brazil F24,3,Clay,SF,266,428,1,2,5,Caio Zampieri,Marcelo Demoliner,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Brazil F24,3,Clay,QF,266,613,1,2,,Caio Zampieri,Fernando Romboli,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Brazil F24,3,Clay,R16,266,669,1,2,,Caio Zampieri,Nicolas Santos,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Brazil F24,3,Clay,R32,266,1494,1,2,Q,Caio Zampieri,Yuri Radomsky,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Florianopolis II CH,3,Clay,R32,246,118,0,,5,Paul Capdeville,Caio Zampieri,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Aracaju CH,3,Clay,R16,253,321,0,,,Carles Poch Gradin,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Aracaju CH,3,Clay,R32,253,146,1,,8,Caio Zampieri,Franco Ferreiro,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Bogota CH,3,Clay,R16,243,116,0,,4,Alejandro Falla,Caio Zampieri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Bogota CH,3,Clay,R32,243,239,1,,,Caio Zampieri,Samuel Groth,6-4 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2008,Cali CH,3,Clay,R32,232,134,0,,4,Leonardo Mayer,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Quito CH,3,Clay,R16,229,347,0,6,,Juan Sebastian Cabal,Caio Zampieri,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Quito CH,3,Clay,R32,229,1335,1,6,WC,Caio Zampieri,Sebastian Rivera,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q2,230,113,0,,4,Robert Kendrick,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q1,230,553,1,,WC,Caio Zampieri,Travis Helgeson,6-7(5) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Campos Do Jordao1 CH,3,Hard,R16,241,211,0,,5,Ricardo Hocevar,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Campos Do Jordao1 CH,3,Hard,R32,241,1722,1,,WC,Caio Zampieri,Jose Pereira,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,SF,265,287,0,,,Santiago Gonzalez,Caio Zampieri,7-6(10) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,QF,265,367,1,,,Caio Zampieri,Juan Sebastian Cabal,6-4 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,R16,265,278,1,,,Caio Zampieri,Adam Feeney,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Belo Horizonte CH,3,Hard,R32,265,351,1,,,Caio Zampieri,Amir Weintraub,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Manta CH,3,Hard,R16,276,306,0,,,Daniel Dutra Da Silva,Caio Zampieri,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Manta CH,3,Hard,R32,276,382,1,,,Caio Zampieri,Diego Alvarez,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Bogota CH,3,Clay,SF,357,267,0,,,Ricardo Hocevar,Caio Zampieri,6-7(7) 7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Bogota CH,3,Clay,QF,357,381,1,,,Caio Zampieri,Damian Patriarca,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Bogota CH,3,Clay,R16,357,210,1,,5,Caio Zampieri,Joao Souza,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Bogota CH,3,Clay,R32,357,541,1,,WC,Caio Zampieri,Alejandro Gonzalez,7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Reggio Emilia CH,3,Clay,R32,359,295,0,WC,,Francesco Aldi,Caio Zampieri,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Recanati CH,3,Hard,R32,355,357,0,,8,Grega Zemlja,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Milan CH,3,Clay,R32,358,143,0,LL,4,Pablo Andujar,Caio Zampieri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Italy F15,3,Clay,R16,362,453,0,4,,Antonio Pastorino,Caio Zampieri,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Italy F15,3,Clay,R32,362,1005,1,4,Q,Caio Zampieri,Manuel Sanchez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Italy F14,3,Clay,QF,324,367,0,1,5,Daniel Dutra Da Silva,Caio Zampieri,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Italy F14,3,Clay,R16,324,471,1,1,,Caio Zampieri,Matteo Volante,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Italy F14,3,Clay,R32,324,829,1,1,WC,Caio Zampieri,Daniel Alejandro Lopez Cassaccia,7-6(5) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Italy F13,3,Clay,QF,322,480,0,1,8,Antonio Pastorino,Caio Zampieri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Italy F13,3,Clay,R16,322,612,1,1,,Caio Zampieri,Lionel Noviski,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Italy F13,3,Clay,R32,322,1239,1,1,Q,Caio Zampieri,Andrea Roscioli,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Rabat CH,3,Clay,R32,320,100,0,,4,Thomaz Bellucci,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Rome CH,3,Clay,R16,330,134,0,,3,Eric Prodon,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Rome CH,3,Clay,R32,330,328,1,,WC,Caio Zampieri,Andrea Arnaboldi,7-6(3) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Italy F10,3,Clay,R16,283,620,0,4,Q,Alberto Giraudo,Caio Zampieri,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Italy F10,3,Clay,R32,283,407,1,4,,Caio Zampieri,Enrico Burzi,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Salinas CH,3,Hard,R32,290,295,0,Q,,Ivan Miranda,Caio Zampieri,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Santiago CH,3,Clay,R16,294,140,0,,3,Eduardo Schwank,Caio Zampieri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Santiago CH,3,Clay,R32,294,217,1,,,Caio Zampieri,Ramon Delgado,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Costa Do Sauipe Q,3,Clay,Q1,295,154,0,,,Eduardo Schwank,Caio Zampieri,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,La Serena CH,3,Clay,R32,299,325,0,,,Jose Antonio Sanchez De Luna,Caio Zampieri,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Sao Paulo1 CH,3,Hard,R16,308,118,0,,4,Marcos Daniel,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Sao Paulo1 CH,3,Hard,R32,308,306,1,,,Caio Zampieri,Rogerio Dutra Silva,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Lima CH,3,Clay,R16,271,111,0,,4,Nicolas Lapentti,Caio Zampieri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Lima CH,3,Clay,R32,271,1461,1,,LL,Caio Zampieri,Gonzalo Tur,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Guayaquil CH,3,Clay,R16,274,158,0,,,Marcos Daniel,Caio Zampieri,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Guayaquil CH,3,Clay,R32,274,1245,1,,Q,Caio Zampieri,Jorge Montoya,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Brazil F20,3,Clay,QF,269,418,0,1,5,Andre Miele,Caio Zampieri,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Brazil F20,3,Clay,R16,269,1461,1,1,Q,Caio Zampieri,Pedro Feitosa,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Brazil F20,3,Clay,R32,269,,1,1,Q,Caio Zampieri,Idio Escobar,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Bogota CH,3,Clay,R32,247,165,0,,7,Eric Prodon,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,SF,270,542,0,Q,WC,Giovanni Lapentti,Caio Zampieri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,QF,270,206,1,Q,,Caio Zampieri,Ricardo Mello,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,R16,270,153,1,Q,2,Caio Zampieri,Fernando Vicente,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Quito CH,3,Clay,R32,270,228,1,Q,,Caio Zampieri,Horacio Zeballos,6-3 6-7(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Medellin CH,3,Clay,R32,271,250,0,,,Michael Quintero,Caio Zampieri,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Brazil F14,3,Clay,F,310,302,1,1,2,Caio Zampieri,Franco Ferreiro,0-6 6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Brazil F14,3,Clay,SF,310,848,1,1,,Caio Zampieri,Gabriel Pitta,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Brazil F14,3,Clay,QF,310,500,1,1,6,Caio Zampieri,Pablo Galdon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Brazil F14,3,Clay,R16,310,884,1,1,,Caio Zampieri,Lucas Jovita,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Brazil F14,3,Clay,R32,310,808,1,1,,Caio Zampieri,Marc Auradou,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Brazil F13,3,Clay,F,313,319,0,2,1,Franco Ferreiro,Caio Zampieri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Brazil F13,3,Clay,SF,313,405,1,2,4,Caio Zampieri,Ricardo Hocevar,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Brazil F13,3,Clay,QF,313,870,1,2,,Caio Zampieri,Gabriel Pitta,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Brazil F13,3,Clay,R16,313,1073,1,2,Q,Caio Zampieri,Gustavo Ramirez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Brazil F13,3,Clay,R32,313,1381,1,2,Q,Caio Zampieri,Antoine Tassart,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brazil F12,3,Clay,SF,,,0,2,,Rafael Camilo,Caio Zampieri,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brazil F12,3,Clay,QF,,1506,1,2,Q,Caio Zampieri,Andre Stabile,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brazil F12,3,Clay,R16,,,1,2,,Caio Zampieri,Moacir Santos Filho,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Brazil F12,3,Clay,R32,,1384,1,2,Q,Caio Zampieri,Frederico Casaro,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Campos Do Jordao1 CH,3,Hard,R32,312,213,0,,5,Gary Lugassy,Caio Zampieri,7-6(9) 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Belo Horizonte CH,3,Hard,R16,311,218,0,,5,Brian Dabul,Caio Zampieri,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Belo Horizonte CH,3,Hard,R32,311,671,1,,WC,Caio Zampieri,Tiago Lopes,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Milan CH,3,Clay,R32,300,245,0,,7,Jean Christophe Faurel,Caio Zampieri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Brazil F5,3,Clay,QF,308,624,0,1,,Alexandre Bonatto,Caio Zampieri,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Brazil F5,3,Clay,R16,308,1512,1,1,WC,Caio Zampieri,Danilo Ferraz,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Brazil F5,3,Clay,R32,308,1184,1,1,Q,Caio Zampieri,Mauricio Doria Medina,7-5 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Brazil F4,3,Hard,F,305,632,1,2,,Caio Zampieri,Alexandre Bonatto,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Brazil F4,3,Hard,SF,305,964,1,2,,Caio Zampieri,Nicolas Santos,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Brazil F4,3,Hard,QF,305,817,1,2,,Caio Zampieri,Alejandro Kon,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Brazil F4,3,Hard,R16,305,654,1,2,,Caio Zampieri,Eric Gomes,5-7 7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Brazil F4,3,Hard,R32,305,1500,1,2,Q,Caio Zampieri,Andre Stabile,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Brazil F3,3,Clay,R32,305,719,0,1,,Gabriel Pitta,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Florianopolis CH,3,Clay,SF,378,155,0,,5,Paul Capdeville,Caio Zampieri,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Florianopolis CH,3,Clay,QF,378,242,1,,,Caio Zampieri,Leonardo Mayer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Florianopolis CH,3,Clay,R16,378,313,1,,,Caio Zampieri,Lucas Engel,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Florianopolis CH,3,Clay,R32,378,150,1,,4,Caio Zampieri,Ricardo Mello,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,France F6,3,Clay,QF,379,341,0,,8,Alexandre Sidorenko,Caio Zampieri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,France F6,3,Clay,R16,379,237,1,,2,Caio Zampieri,Jean Christophe Faurel,7-5 2-6 7-6(0),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,France F6,3,Clay,R32,379,,1,,Q,Caio Zampieri,Yvonnick Lhurriec,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Morocco F2,3,Clay,R16,,,0,,5,Maximo Gonzalez,Caio Zampieri,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Morocco F2,3,Clay,R32,,,1,,,Caio Zampieri,Jose Antonio Sanchez De Luna,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Costa Do Sauipe Q,3,Clay,Q1,382,193,0,,8,Fabio Fognini,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2007,Sao Paulo1 CH,3,Hard,R32,379,287,0,WC,,Dominik Meffert,Caio Zampieri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Brazil F22,3,Hard,F,412,,1,3,4,Caio Zampieri,Jhonnatan Medina Alvarez,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Brazil F22,3,Hard,SF,412,620,1,3,7,Caio Zampieri,Nathan Thompson,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Brazil F22,3,Hard,QF,412,1220,1,3,,Caio Zampieri,Marc Auradou,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Brazil F22,3,Hard,R16,412,686,1,3,,Caio Zampieri,Joao Souza,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2006,Brazil F22,3,Hard,R32,412,,1,3,WC,Caio Zampieri,Lucas Lopasso,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Brazil F21,3,Clay,QF,415,696,0,3,8,Joao Souza,Caio Zampieri,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Brazil F21,3,Clay,R16,415,,1,3,Q,Caio Zampieri,Victor Carvalho Melo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2006,Brazil F21,3,Clay,R32,415,,1,3,Q,Caio Zampieri,Martin Cevasco,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Brazil F20,3,Clay,R16,452,1013,0,4,,Raony Carvalho,Caio Zampieri,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Brazil F20,3,Clay,R32,452,,1,4,Q,Caio Zampieri,Diogo Rocha,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Brazil F19,3,Clay,F,425,714,1,2,8,Caio Zampieri,Mattia Livraghi,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Brazil F19,3,Clay,SF,425,963,1,2,,Caio Zampieri,Moacir Santos Filho,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Brazil F19,3,Clay,QF,425,755,1,2,7,Caio Zampieri,Gabriel Pitta,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Brazil F19,3,Clay,R16,425,,1,2,WC,Caio Zampieri,Andre Stabile,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Brazil F19,3,Clay,R32,425,1542,1,2,Q,Caio Zampieri,Ivan Cressoni,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Brazil F17,3,Clay,QF,446,871,0,2,,Andre Miele,Caio Zampieri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Brazil F17,3,Clay,R16,446,1367,1,2,Q,Caio Zampieri,Marc Auradou,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Brazil F17,3,Clay,R32,446,1033,1,2,WC,Caio Zampieri,Nicolas Santos,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Brazil F16,3,Clay,SF,503,1107,0,4,Q,Juan Pablo Villar,Caio Zampieri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Brazil F16,3,Clay,QF,503,641,1,4,8,Caio Zampieri,Thomaz Bellucci,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Brazil F16,3,Clay,R16,503,868,1,4,,Caio Zampieri,Andre Miele,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Brazil F16,3,Clay,R32,503,963,1,4,,Caio Zampieri,Lenoir Ramos,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Brazil F15,3,Clay,F,556,1415,1,8,Q,Caio Zampieri,Rafael Camilo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Brazil F15,3,Clay,SF,556,392,1,8,3,Caio Zampieri,Ricardo Hocevar,6-3 6-7(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Brazil F15,3,Clay,QF,556,383,1,8,1,Caio Zampieri,Damian Patriarca,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Brazil F15,3,Clay,R16,556,1537,1,8,Q,Caio Zampieri,Diego Matos,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Brazil F15,3,Clay,R32,556,1362,1,8,Q,Caio Zampieri,Henrique Pinto Silva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Brazil F14,3,Clay,F,583,561,0,,,Diego Cristin,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Brazil F14,3,Clay,SF,583,449,1,,7,Caio Zampieri,Martin Vilarrubi,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Brazil F14,3,Clay,QF,583,1110,1,,Q,Caio Zampieri,Jonathan Gonzalia,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Brazil F14,3,Clay,R16,583,385,1,,4,Caio Zampieri,Francesco Piccari,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Brazil F14,3,Clay,R32,583,,1,,WC,Caio Zampieri,Andre Pinheiro,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Brazil F13,3,Clay,QF,580,387,0,,6,Francesco Piccari,Caio Zampieri,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Brazil F13,3,Clay,R16,580,1558,1,,Q,Caio Zampieri,Hans Podlipnik Castillo,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Brazil F13,3,Clay,R32,580,351,1,,2,Caio Zampieri,Juan Martin Aranguren,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Brazil F8,3,Clay,R32,512,,0,4,Q,Daniel Dutra Da Silva,Caio Zampieri,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Brazil F7,3,Clay,R16,508,,0,4,WC,Daniel Dutra Da Silva,Caio Zampieri,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Brazil F7,3,Clay,R32,508,1443,1,4,Q,Caio Zampieri,Luis Henrique Grangeiro,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Belo Horizonte CH,3,Hard,R16,555,129,0,Q,1,Ricardo Mello,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Belo Horizonte CH,3,Hard,R32,555,336,1,Q,,Caio Zampieri,Brian Dabul,6-7(5) 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Campos Do Jordao1 CH,3,Hard,R32,571,358,0,Q,,Tyler Cleveland,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Brazil F6,3,Clay,R32,548,649,0,,,Gabriel Pitta,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Brazil F5,3,Clay,R32,545,,0,,WC,Edesio Semencato,Caio Zampieri,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Brazil F4,3,Clay,R32,,,0,,5,Rogerio Dutra Silva,Caio Zampieri,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Brazil F3,3,Clay,R32,621,712,0,6,,Leonardo Kirche,Caio Zampieri,6-7(6) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Brazil F2,3,Clay,F,621,560,0,8,,Ricardo Hocevar,Caio Zampieri,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Brazil F2,3,Clay,SF,621,827,1,8,,Caio Zampieri,Alexandre Bonatto,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Brazil F2,3,Clay,QF,621,457,1,8,4,Caio Zampieri,Martin Vilarrubi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Brazil F2,3,Clay,R16,621,669,1,8,,Caio Zampieri,Carlos Avellan,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Brazil F2,3,Clay,R32,621,680,1,8,,Caio Zampieri,Gabriel Pitta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Brazil F1,3,Clay,R16,540,741,0,6,,Carlos Avellan,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Brazil F1,3,Clay,R32,540,,1,6,WC,Caio Zampieri,Luciano Silva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Italy F9,3,Clay,R32,540,908,0,LL,Q,Thomaz Bellucci,Caio Zampieri,0-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2006,Italy F8,3,Clay,R16,557,336,0,,4,Lionel Noviski,Caio Zampieri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2006,Italy F8,3,Clay,R32,557,562,1,,,Caio Zampieri,Augustin Gensse,4-6 6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2006,Portugal F3,3,Hard,QF,,,0,,4,Ivan Cerovic,Caio Zampieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2006,Portugal F3,3,Hard,R16,,,1,,Q,Caio Zampieri,Carlos Calderon Rodriguez,6-7(4) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2006,Portugal F3,3,Hard,R32,,,1,,5,Caio Zampieri,Komlavi Loglo,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Portugal F2,3,Hard,R32,570,507,0,,8,Juan Miguel Such Perez,Caio Zampieri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Portugal F1,3,Hard,QF,,,0,LL,1,Marcel Granollers,Caio Zampieri,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Portugal F1,3,Hard,R16,,,1,LL,,Caio Zampieri,David Klier,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Portugal F1,3,Hard,R32,,,1,LL,5,Caio Zampieri,Juan Miguel Such Perez,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Florianopolis CH,3,Clay,R32,589,942,0,Q,Q,Alexandre Bonatto,Caio Zampieri,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Puebla CH,3,Hard,R16,652,263,0,Q,6,Jean Julien Rojer,Caio Zampieri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,Puebla CH,3,Hard,R32,652,310,1,Q,,Caio Zampieri,Werner Eschauer,7-6(9) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Mexico F18,3,Hard,R16,650,,0,,,Rodrigo Antonio Grilli,Caio Zampieri,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Mexico F18,3,Hard,R32,650,499,1,,6,Caio Zampieri,Michael Quintero,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Mexico F17,3,Hard,R32,651,838,0,,LL,Bruno Rodriguez,Caio Zampieri,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,Mexico F16,3,Hard,R32,644,357,0,,1,Dawid Olejniczak,Caio Zampieri,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2005,Brazil F11,3,Clay,R32,640,,0,,LL,Rodrigo Antonio Grilli,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2005,Brazil F10,3,Clay,R32,657,1017,0,,Q,Eric Gomes,Caio Zampieri,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Brazil F9,3,Clay,QF,,,0,,4,Alessandro Camarco,Caio Zampieri,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Brazil F9,3,Clay,R16,,,1,,,Caio Zampieri,Rafael Farias,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2005,Brazil F9,3,Clay,R32,,,1,,LL,Caio Zampieri,Tiago Lopes,6-7(6) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Brazil F8,3,Hard,SF,724,325,0,6,1,Marcelo Melo,Caio Zampieri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Brazil F8,3,Hard,QF,724,590,1,6,3,Caio Zampieri,Ronaldo Carvalho,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Brazil F8,3,Hard,R16,724,,1,6,LL,Caio Zampieri,Pertti Vesantera,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Brazil F8,3,Hard,R32,724,1007,1,6,,Caio Zampieri,Lenoir Ramos,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Brazil F7,3,Clay,QF,745,317,0,7,1,Andre Ghem,Caio Zampieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Brazil F7,3,Clay,R16,745,1130,1,7,Q,Caio Zampieri,Carlos Cirne Lima,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Brazil F7,3,Clay,R32,745,1021,1,7,,Caio Zampieri,Renan Delsin,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Brazil F6,3,Hard,QF,737,597,0,6,3,Alexandre Simoni,Caio Zampieri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Brazil F6,3,Hard,R16,737,1369,1,6,,Caio Zampieri,Chris Johnson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Brazil F6,3,Hard,R32,737,1369,1,6,,Caio Zampieri,Sergio Bruni,3-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2005,Romania F11,3,Clay,R32,760,624,0,,,Dusan Karol,Caio Zampieri,6-4 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Romania F10,3,Clay,R16,781,1191,0,,Q,Victor Stanica,Caio Zampieri,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Romania F10,3,Clay,R32,781,991,1,,Q,Caio Zampieri,Christophe Dournes,6-2 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Romania F9,3,Clay,R16,,,0,,Q,Adrian Gavrila,Caio Zampieri,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Romania F9,3,Clay,R32,,,1,,3,Caio Zampieri,Jorge Aguilar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Brazil F5,3,Clay,R16,787,801,0,Q,,Bruno Rosa,Caio Zampieri,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Brazil F5,3,Clay,R32,787,,1,Q,WC,Caio Zampieri,Joao De Nes,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Brazil F4,3,Clay,R16,1247,450,0,SE,4,Andre Ghem,Caio Zampieri,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Brazil F4,3,Clay,R32,1247,,1,SE,Q,Caio Zampieri,Ivan Cressoni,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Brazil F3,3,Clay,F,1247,,1,Q,5,Caio Zampieri,Felipe Lemos,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Brazil F3,3,Clay,SF,1247,846,1,Q,,Caio Zampieri,Rodrigo Guidolin,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Brazil F3,3,Clay,QF,1247,484,1,Q,3,Caio Zampieri,Andre Ghem,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Brazil F3,3,Clay,R16,1247,1169,1,Q,,Caio Zampieri,Carlos Cirne Lima,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,Brazil F3,3,Clay,R32,1247,734,1,Q,8,Caio Zampieri,Gabriel Pitta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2005,Brazil F2,3,Clay,R32,1167,358,0,WC,7,Gabriel Trujillo Soler,Caio Zampieri,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Brazil F14,3,Clay,QF,1320,1233,0,Q,Q,Rodrigo Guidolin,Caio Zampieri,4-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Brazil F14,3,Clay,R16,1320,625,1,Q,6,Caio Zampieri,Gabriel Pitta,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Brazil F14,3,Clay,R32,1320,1233,1,Q,,Caio Zampieri,Felipe Fingerl,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2004,Brazil F12,3,Clay,R32,1318,480,0,Q,2,Lucas Engel,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,Brazil F5,3,Clay,R32,1137,247,0,Q,2,Marcos Daniel,Caio Zampieri,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2004,Davis Cup G1 PO: VEN vs BRA,3,Hard,RR,1153,824,1,,,Caio Zampieri,Yohny Romero,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2004,Mexico F8,3,Hard,R16,1200,,0,Q,LL,Eduardo Magadan Castro,Caio Zampieri,6-1 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Jun-2004,Mexico F8,3,Hard,R32,1200,757,1,Q,,Caio Zampieri,Juan Manuel Elizondo,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+31-May-2004,Mexico F7,3,Hard,R32,1197,,0,Q,,Gabriel Pitta,Caio Zampieri,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2004,Brazil F2,3,Hard,R16,1264,,0,WC,WC,Bruno Rosa,Caio Zampieri,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2004,Brazil F2,3,Hard,R32,1264,367,1,WC,6,Caio Zampieri,Pedro Braga,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,Brazil F5,3,Hard,QF,,306,0,Q,3,Pedro Braga,Caio Zampieri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,Brazil F5,3,Hard,R16,,,1,Q,Q,Caio Zampieri,Pierre Ludovic Duclos,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,Brazil F5,3,Hard,R32,,548,1,Q,6,Caio Zampieri,Ronaldo Carvalho,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2003,Brazil F4,3,Hard,R32,,803,0,WC,,Alexandre Bonatto,Caio Zampieri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

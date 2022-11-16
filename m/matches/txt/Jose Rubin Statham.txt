@@ -1,0 +1,860 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Oct-2022,Sydney CH,3,Hard,R32,516,478,0,,,Marc Polmans,Jose Rubin Statham,6-2 6-2,0.45,7.8%,1.6%,64.1%,58.5%,39.1%,7/11,40.0%,22.0%,12.2%,4.5%,42.1%,0/0,105,5,1,64,41,23,5,1:23
+24-Oct-2022,Playford CH,3,Hard,R16,539,525,0,,,Dayne Kelly,Jose Rubin Statham,3-6 6-2 7-6(2),0.89,5.2%,1.0%,63.9%,62.9%,62.9%,6/10,48.4%,33.0%,12.1%,26.2%,46.7%,3/10,188,5,1,97,62,35,11,2:09
+24-Oct-2022,Playford CH,3,Hard,R32,539,190,1,,4,Jose Rubin Statham,Li Tu,6-4 6-4,1.18,8.9%,0.0%,62.5%,82.9%,61.9%,2/2,53.3%,29.4%,9.8%,26.5%,35.3%,2/2,107,5,0,56,35,21,5,1:05
+3-Oct-2022,M25 Tay Ninh,3,Hard,R32,524,,0,4,,Coleman Wong,Jose Rubin Statham,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,M25 Tay Ninh,3,Hard,R16,538,1457,0,4,,Kenny Bun,Jose Rubin Statham,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,M25 Tay Ninh,3,Hard,R32,538,1441,1,4,,Jose Rubin Statham,Ha Minh Duc Vu,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2022,M25 Darwin,3,Hard,QF,543,317,0,7,2,Dane Sweeny,Jose Rubin Statham,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2022,M25 Darwin,3,Hard,R16,543,,1,7,Q,Jose Rubin Statham,Derek Pham,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2022,M25 Darwin,3,Hard,R32,543,,1,7,Q,Jose Rubin Statham,Jeremy Taylor,2-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Darwin,3,Hard,R16,540,631,0,6,,Moerani Bouzige,Jose Rubin Statham,7-6(1) 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2022,M25 Darwin,3,Hard,R32,540,948,1,6,,Jose Rubin Statham,Alexander Crnokrak,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2022,M25 Tbilisi,3,Hard,R32,528,809,0,8,,Daniil Glinka,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Tbilisi,3,Hard,R32,533,905,0,,Q,Evgeny Philippov,Jose Rubin Statham,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2022,M25 Tbilisi,3,Hard,R16,543,910,0,8,,Evgeny Philippov,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2022,M25 Tbilisi,3,Hard,R32,543,1289,1,8,,Jose Rubin Statham,Petr Bar Biryukov,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,Nur-Sultan CH,3,Hard,R32,567,189,0,PR,3,Dmitry Popko,Jose Rubin Statham,6-3 6-4,0.59,6.5%,11.3%,38.7%,75.0%,50.0%,3/5,42.7%,23.6%,7.3%,9.5%,32.4%,0/0,117,4,7,62,24,38,4,1:25
+11-Jul-2022,M25 Nur-Sultan,3,Hard,QF,571,408,0,,5,Sergey Fomin,Jose Rubin Statham,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25 Nur-Sultan,3,Hard,R16,571,239,1,,1,Jose Rubin Statham,Evgeny Karlovskiy,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Jul-2022,M25 Nur-Sultan,3,Hard,R32,571,833,1,,,Jose Rubin Statham,Daniil Glinka,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Chiang Rai,3,Hard,SF,591,972,0,4,,Jie Cui,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Chiang Rai,3,Hard,QF,591,659,1,4,7,Jose Rubin Statham,Kasidit Samrej,2-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Chiang Rai,3,Hard,R16,591,,1,4,,Jose Rubin Statham,Ching Mou Yu,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 Chiang Rai,3,Hard,R32,591,,1,4,WC,Jose Rubin Statham,Anapat Timangkul,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chiang Rai,3,Hard,QF,601,517,0,7,4,Bu Yunchaokete,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chiang Rai,3,Hard,R16,601,2045,1,7,Q,Jose Rubin Statham,Jirat Navasirisomboon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chiang Rai,3,Hard,R32,601,,1,7,Q,Jose Rubin Statham,Patorn Hanchaikul,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Chiang Rai,3,Hard,R16,620,639,0,8,,Fajing Sun,Jose Rubin Statham,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Chiang Rai,3,Hard,R32,620,,1,8,Q,Jose Rubin Statham,Krittin Koaykul,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 Chiang Rai,3,Hard,QF,620,985,0,7,,Kasidit Samrej,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 Chiang Rai,3,Hard,R16,620,,1,7,Q,Jose Rubin Statham,Natthasith Kunsuwan,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 Chiang Rai,3,Hard,R32,620,1925,1,7,WC,Jose Rubin Statham,Thantub Suksumrarn,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Chiang Rai,3,Hard,F,700,790,0,,,Makoto Ochi,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Chiang Rai,3,Hard,SF,700,927,1,,,Jose Rubin Statham,Takuto Niki,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Chiang Rai,3,Hard,QF,700,665,1,,8,Jose Rubin Statham,Ryota Tanuma,6-7(5) 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Chiang Rai,3,Hard,R16,700,466,1,,2,Jose Rubin Statham,Nam Hoang Ly,6-3 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M15 Chiang Rai,3,Hard,R32,700,883,1,,,Jose Rubin Statham,Naoki Tajima,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M15 Chiang Rai,3,Hard,QF,703,497,0,,5,Dayne Kelly,Jose Rubin Statham,6-3 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M15 Chiang Rai,3,Hard,R16,703,1015,1,,Q,Jose Rubin Statham,Shinji Hazawa,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,M15 Chiang Rai,3,Hard,R32,703,415,1,,1,Jose Rubin Statham,Yan Bai,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,Salinas CH,3,Hard,Q2,725,516,0,,5,Naoki Nakagawa,Jose Rubin Statham,6-4 6-4,0.55,8.6%,3.4%,63.8%,70.3%,47.6%,2/4,42.3%,20.8%,11.3%,8.7%,30.0%,0/1,111,5,2,58,37,21,6,1:27
+4-Apr-2022,Salinas CH,3,Hard,Q1,725,629,1,,9,Jose Rubin Statham,Fajing Sun,5-7 7-5 6-2,1.14,7.6%,3.3%,69.6%,75.0%,39.3%,2/5,51.5%,40.9%,1.8%,36.8%,50.0%,5/9,202,7,3,92,64,28,2,2:41
+14-Mar-2022,M25 Anapoima,3,Clay,QF,771,664,0,Q,,Evan Zhu,Jose Rubin Statham,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R16,771,554,1,Q,,Jose Rubin Statham,Juan Alejandro Hernandez Serrano,7-6(5) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Anapoima,3,Clay,R32,771,327,1,Q,2,Jose Rubin Statham,Pedja Krstin,7-6(7) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,Monterrey CH,3,Hard,R32,771,368,0,PR,,Alex Rybakov,Jose Rubin Statham,7-5 6-3,0.73,5.6%,6.9%,59.7%,67.4%,44.8%,8/11,44.9%,30.3%,7.6%,24.4%,40.0%,1/4,138,4,5,72,43,29,5,1:38
+14-Feb-2022,M25 Canberra,3,Hard,SF,1087,519,0,,3,Dane Sweeny,Jose Rubin Statham,2-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M25 Canberra,3,Hard,QF,1087,742,1,,6,Jose Rubin Statham,Matthew Christopher Romios,6-3 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M25 Canberra,3,Hard,R16,1087,452,1,,1,Jose Rubin Statham,Dayne Kelly,7-6(5) 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M25 Canberra,3,Hard,R32,1087,1894,1,,Q,Jose Rubin Statham,Sam Ryan Ziegann,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M25 Canberra,3,Hard,SF,1087,359,0,,1,Akira Santillan,Jose Rubin Statham,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M25 Canberra,3,Hard,QF,1087,1257,1,,,Jose Rubin Statham,Aaron Addison,7-6(1) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M25 Canberra,3,Hard,R16,1087,1778,1,,WC,Jose Rubin Statham,Hayden Jones,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M25 Canberra,3,Hard,R32,1087,,1,,WC,Jose Rubin Statham,Jeremy Jin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,Sydney,3,Hard,Q1,1085,1017,0,PR,Alt,Harri Heliovaara,Jose Rubin Statham,7-6(5) 7-6(11),0.97,9.5%,5.3%,67.4%,71.9%,48.4%,4/6,50.0%,34.8%,15.7%,28.3%,48.3%,2/3,184,9,5,95,64,31,14,2:31
+3-Jan-2022,Traralgon CH,3,Hard,R64,1158,252,0,Q,,Nino Serdarusic,Jose Rubin Statham,3-6 6-3 6-2,0.76,12.5%,9.7%,69.4%,80.0%,31.8%,2/5,45.8%,26.4%,13.9%,25.6%,27.6%,1/3,144,9,7,72,50,22,10,1:43
+3-Jan-2022,Traralgon CH,3,Hard,Q1,1158,,1,3,,Jose Rubin Statham,Zack Vialla,6-1 6-3,1.82,9.1%,2.3%,72.7%,68.8%,75.0%,2/3,61.2%,53.7%,5.6%,34.5%,76.0%,5/7,98,4,1,44,32,12,3,1:05
+29-Nov-2021,M15 Cancun,3,Hard,F,1960,712,0,Q,6,Nam Hoang Ly,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Cancun,3,Hard,SF,1960,1126,1,Q,,Jose Rubin Statham,Isaiah Strode,6-1 6-7(5) 12-10,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Cancun,3,Hard,QF,1960,749,1,Q,8,Jose Rubin Statham,Matic Spec,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Cancun,3,Hard,R16,1960,846,1,Q,,Jose Rubin Statham,Kristjan Tamm,6-7(4) 7-6(3) 10-7,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,M15 Cancun,3,Hard,R32,1960,647,1,Q,4,Jose Rubin Statham,Juan Sebastian Gomez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2021,Puerto Vallarta CH,3,Hard,R32,1835,278,0,PR,,Yosuke Watanuki,Jose Rubin Statham,6-3 6-2,0.58,4.4%,4.4%,64.4%,62.1%,50.0%,1/4,40.4%,24.5%,14.3%,16.7%,36.8%,0/0,94,2,2,45,29,16,7,1:06
+25-Oct-2021,M25 Guayaquil,3,Clay,R16,,581,0,,5,Juan Bautista Torres,Jose Rubin Statham,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Guayaquil,3,Clay,R32,,,1,,,Jose Rubin Statham,Giuliano Franco Zambrano Poggi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Naples FL,3,Clay,R32,,1117,0,Q,,Abedallah Shelbayh,Jose Rubin Statham,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2021,Davis Cup WG1 R1: KOR vs NZL,3,Grass,RR,,,0,,,Jisung Nam,Jose Rubin Statham,6-2 6-2,0.70,10.0%,2.5%,72.5%,62.1%,36.4%,1/5,41.8%,31.4%,15.7%,22.6%,45.0%,0/2,91,4,1,40,29,11,8,0:58
+17-Sep-2021,Davis Cup WG1 R1: KOR vs NZL,3,Grass,RR,,83,0,,,Soon Woo Kwon,Jose Rubin Statham,6-3 6-3,0.74,13.0%,3.7%,51.9%,71.4%,38.5%,1/5,44.0%,32.7%,7.3%,20.0%,48.0%,1/3,109,7,2,54,28,26,4,1:12
+6-Mar-2020,Davis Cup WG1 PO: VEN vs NZL,3,Hard,RR,,1671,1,,,Jose Rubin Statham,Brandon Perez,6-2 6-7(3) 4-1 RET,2.29,12.5%,2.8%,65.3%,83.0%,80.0%,4/4,59.1%,41.3%,9.8%,34.5%,51.4%,3/9,164,9,2,72,47,25,9,2:05
+18-Feb-2019,Bangkok CH,3,Hard,R64,341,335,0,,ITF,Dimitar Kuzmanov,Jose Rubin Statham,6-4 5-5 RET,0.85,11.8%,5.9%,74.5%,71.1%,61.5%,1/3,46.7%,26.8%,12.5%,20.5%,41.2%,1/1,107,6,3,51,38,13,7,1:29
+4-Feb-2019,Chennai CH,3,Hard,R64,338,342,0,,,Andrea Pellegrino,Jose Rubin Statham,6-4 6-4,0.68,4.5%,3.0%,63.6%,69.0%,50.0%,4/6,45.8%,25.9%,9.3%,20.6%,35.0%,0/0,120,3,2,66,42,24,5,1:21
+28-Jan-2019,Launceston CH,3,Hard,R64,334,278,0,,,Yunseong Chung,Jose Rubin Statham,6-4 6-3,0.80,1.6%,4.7%,60.9%,61.5%,40.0%,3/8,45.8%,37.5%,0.0%,31.4%,47.6%,2/5,120,1,3,64,39,25,0,1:18
+7-Jan-2019,Auckland,3,Hard,R16,360,58,0,WC,,Jan Lennard Struff,Jose Rubin Statham,6-2 6-1,0.48,8.7%,4.3%,65.2%,63.3%,18.8%,3/7,36.2%,25.0%,25.0%,17.2%,36.8%,0/3,94,4,2,46,30,16,12,1:03
+7-Jan-2019,Auckland,3,Hard,R32,360,25,1,WC,6,Jose Rubin Statham,Hyeon Chung,7-5 6-3,1.23,3.2%,7.9%,61.9%,74.4%,50.0%,2/4,54.5%,43.1%,3.4%,25.0%,72.7%,4/6,121,2,5,63,39,24,2,1:32
+31-Dec-2018,Noumea CH,3,Hard,R16,373,248,0,WC,,Donald Young,Jose Rubin Statham,7-5 6-1,0.69,7.5%,7.5%,54.7%,65.5%,41.7%,5/9,42.3%,31.0%,0.0%,27.8%,36.4%,1/6,111,4,4,53,29,24,0,1:19
+31-Dec-2018,Noumea CH,3,Hard,R32,373,128,1,WC,2,Jose Rubin Statham,Quentin Halys,6-7(5) 6-4 7-6(5),1.20,5.6%,3.7%,71.0%,69.7%,38.7%,6/11,53.4%,47.2%,6.4%,39.2%,58.8%,6/18,232,6,4,107,76,31,8,2:47
+31-Dec-2018,Noumea CH,3,Hard,R64,373,420,1,WC,WC,Jose Rubin Statham,Geoffrey Blancaneaux,3-6 7-6(3) 7-5,0.98,1.8%,5.5%,63.6%,68.6%,52.5%,4/7,48.9%,36.6%,0.8%,33.7%,45.2%,3/10,233,2,6,110,70,40,1,2:52
+29-Oct-2018,Canberra CH,3,Hard,R16,505,87,0,Q,3,Jordan Thompson,Jose Rubin Statham,6-2 7-6(3),0.81,5.5%,0.0%,69.1%,71.1%,64.7%,2/4,46.1%,25.0%,1.7%,25.6%,23.5%,0/1,115,3,0,55,38,17,1,1:23
+29-Oct-2018,Canberra CH,3,Hard,R32,505,325,1,Q,,Jose Rubin Statham,Yannick Mertens,6-3 6-7(2) 7-5,1.50,13.4%,4.1%,69.1%,76.1%,73.3%,5/5,53.8%,37.1%,5.6%,25.6%,56.5%,2/14,221,13,4,97,67,30,7,2:19
+29-Oct-2018,Canberra CH,3,Hard,Q3,505,735,1,5,,Jose Rubin Statham,Harry Bourchier,6-1 6-1,2.92,10.5%,2.6%,73.7%,89.3%,60.0%,2/2,65.6%,53.8%,5.8%,45.5%,68.4%,5/9,90,4,1,38,28,10,3,0:51
+29-Oct-2018,Canberra CH,3,Hard,Q2,505,862,1,5,,Jose Rubin Statham,Matthew Christopher Romios,6-3 6-0,2.56,4.7%,2.3%,72.1%,87.1%,58.3%,1/1,66.7%,53.7%,7.3%,44.4%,71.4%,4/7,84,2,1,43,31,12,3,0:52
+29-Oct-2018,Canberra CH,3,Hard,Q1,505,846,1,5,,Jose Rubin Statham,Lucas Vuradin,6-3 6-2,1.52,11.3%,3.8%,66.0%,77.1%,61.1%,1/1,57.7%,43.1%,5.9%,39.4%,50.0%,3/8,104,6,2,53,35,18,3,1:09
+22-Oct-2018,Traralgon CH,3,Hard,Q1,505,613,0,6,,Brydan Klein,Jose Rubin Statham,6-3 7-6(3),0.96,8.2%,1.6%,63.9%,74.4%,59.1%,1/2,47.1%,29.9%,19.5%,15.6%,50.0%,0/6,138,5,1,61,39,22,15,1:31
+8-Oct-2018,Tashkent CH,3,Hard,R32,519,259,0,Q,,Tobias Kamke,Jose Rubin Statham,6-4 6-3,0.71,10.0%,1.7%,73.3%,56.8%,43.8%,1/5,44.1%,33.3%,3.9%,18.8%,57.9%,1/4,111,6,1,60,44,16,2,1:09
+8-Oct-2018,Tashkent CH,3,Hard,Q3,519,584,1,,,Jose Rubin Statham,Artem Dubrivnyy,6-4 3-0 RET,4.05,11.1%,3.7%,81.5%,95.5%,60.0%,0/0,62.7%,45.0%,10.0%,50.0%,35.7%,3/4,67,3,1,27,22,5,4,0:40
+8-Oct-2018,Tashkent CH,3,Hard,Q2,519,817,1,,,Jose Rubin Statham,Roman Hassanov,6-2 6-0,2.57,28.9%,2.6%,76.3%,86.2%,44.4%,0/0,68.4%,61.0%,4.9%,50.0%,80.0%,5/7,79,11,1,38,29,9,2,0:38
+8-Oct-2018,Tashkent CH,3,Hard,Q1,519,316,1,,7,Jose Rubin Statham,Sumit Nagal,3-6 6-1 6-1,1.31,6.8%,2.7%,52.1%,73.7%,51.4%,3/5,55.9%,48.6%,2.9%,42.9%,57.1%,5/10,143,5,2,73,38,35,2,1:26
+1-Oct-2018,Almaty CH,3,Hard,R32,545,264,0,LL,,Goncalo Oliveira,Jose Rubin Statham,6-1 7-6(4),0.62,10.1%,7.6%,59.5%,68.1%,31.3%,10/13,42.8%,28.8%,15.3%,22.2%,50.0%,1/2,138,8,6,79,47,32,9,1:29
+1-Oct-2018,Almaty CH,3,Hard,Q3,545,563,0,,,Khumoyun Sultanov,Jose Rubin Statham,6-4 7-6(8),0.83,4.2%,8.3%,55.6%,77.5%,50.0%,4/6,47.5%,29.0%,14.5%,20.6%,37.1%,1/1,141,3,6,72,40,32,10,1:41
+1-Oct-2018,Almaty CH,3,Hard,Q2,545,315,1,,2,Jose Rubin Statham,Mathias Bourgue,6-3 7-6(4),1.32,6.2%,6.2%,58.5%,78.9%,55.6%,3/4,54.0%,40.5%,8.1%,34.1%,50.0%,3/7,139,4,4,65,38,27,6,1:35
+1-Oct-2018,Almaty CH,3,Hard,Q1,545,1969,1,,WC,Jose Rubin Statham,Beibit Zhukayev,6-2 6-2,2.17,14.6%,2.4%,65.9%,81.5%,71.4%,0/0,59.8%,47.5%,11.5%,43.3%,51.6%,4/11,102,6,1,41,27,14,7,1:04
+3-Sep-2018,Zhangjiagang CH,3,Hard,Q2,497,316,0,,3,Frederico Ferreira Silva,Jose Rubin Statham,7-6(3) 6-1,0.65,12.0%,8.4%,57.8%,66.7%,34.3%,6/9,43.2%,30.8%,6.2%,26.8%,37.5%,1/1,148,10,7,83,48,35,4,1:54
+3-Sep-2018,Zhangjiagang CH,3,Hard,Q1,497,574,1,,,Jose Rubin Statham,Harry Bourchier,7-6(3) 6-3,1.18,4.9%,0.0%,74.1%,66.7%,61.9%,5/6,53.9%,40.8%,11.3%,33.3%,53.8%,3/7,152,4,0,81,60,21,8,1:48
+13-Aug-2018,Gwangju CH,3,Hard,R16,514,241,0,,4,Duck Hee Lee,Jose Rubin Statham,6-4 6-3,0.52,8.5%,5.1%,57.6%,58.8%,48.0%,2/6,41.0%,23.9%,6.5%,24.1%,23.5%,1/2,105,5,3,59,34,25,3,1:14
+13-Aug-2018,Gwangju CH,3,Hard,R32,514,,1,,WC,Jose Rubin Statham,Yeongseok Jeong,6-4 6-0,2.22,2.6%,5.1%,69.2%,77.8%,66.7%,0/1,64.4%,56.9%,0.0%,42.3%,72.0%,5/10,90,1,2,39,27,12,0,1:15
+6-Aug-2018,Jinan CH,3,Hard,Q3,516,583,0,,,Manish Sureshkumar,Jose Rubin Statham,0-6 6-2 6-4,1.03,4.4%,4.4%,55.9%,65.8%,50.0%,3/7,49.4%,42.4%,6.5%,34.4%,58.1%,4/12,160,3,3,68,38,30,6,2:12
+6-Aug-2018,Jinan CH,3,Hard,Q2,516,377,1,,3,Jose Rubin Statham,Sasi Kumar Mukund,6-4 6-4,1.57,10.0%,4.0%,52.0%,84.6%,70.8%,2/3,55.9%,34.6%,5.8%,26.7%,45.5%,3/4,102,5,2,50,26,24,3,1:20
+9-Jul-2018,China F10,3,Hard,R32,386,1051,0,3,,Aoran Wang,Jose Rubin Statham,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2018,Hong Kong F2,3,Hard,R32,386,1086,0,2,,Ilija Vucic,Jose Rubin Statham,6-4 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Fergana CH,3,Hard,R32,382,538,0,,Q,Shuichi Sekiguchi,Jose Rubin Statham,1-6 7-6(5) 6-2,0.97,13.4%,6.1%,48.8%,70.0%,52.4%,0/4,49.1%,37.9%,3.4%,28.0%,51.4%,4/10,169,11,5,82,40,42,3,1:55
+11-Jun-2018,Almaty CH,3,Clay,R16,361,224,0,Q,,Tsung Hua Yang,Jose Rubin Statham,6-3 6-7(5) 7-6(4),0.84,5.0%,3.3%,64.2%,70.1%,39.5%,6/10,47.0%,34.5%,17.2%,8.7%,51.4%,3/9,236,6,4,120,77,43,20,3:02
+11-Jun-2018,Almaty CH,3,Clay,R32,361,143,1,Q,4,Jose Rubin Statham,Sebastian Ofner,6-3 6-2,1.48,3.3%,3.3%,53.3%,78.1%,57.1%,2/2,58.9%,46.8%,8.5%,30.4%,62.5%,3/5,107,2,2,60,32,28,4,1:07
+11-Jun-2018,Almaty CH,3,Clay,Q3,361,345,1,,,Jose Rubin Statham,Kevin Krawietz,7-6(5) 7-5,1.04,5.0%,7.9%,41.6%,66.7%,49.2%,7/10,50.7%,45.5%,2.7%,38.6%,52.8%,4/11,211,5,8,101,42,59,3,2:20
+11-Jun-2018,Almaty CH,3,Clay,Q2,361,573,1,,,Jose Rubin Statham,Manuel Pena Lopez,7-6(4) 6-4,1.15,6.6%,3.9%,50.0%,52.6%,52.6%,6/12,53.5%,54.3%,2.5%,40.5%,69.2%,7/14,157,5,3,76,38,38,2,2:08
+11-Jun-2018,Almaty CH,3,Clay,Q1,361,368,1,,5,Jose Rubin Statham,Markus Eriksson,6-1 6-2,2.02,20.5%,2.3%,65.9%,79.3%,60.0%,3/3,63.4%,55.1%,6.1%,47.1%,73.3%,5/8,93,9,1,44,29,15,3,0:57
+4-Jun-2018,Shymkent CH,3,Clay,Q2,344,856,0,,WC,Mikhail Elgin,Jose Rubin Statham,6-2 7-5,0.56,8.3%,5.0%,75.0%,60.0%,33.3%,1/5,40.4%,25.9%,5.6%,15.2%,42.9%,1/5,114,5,3,60,45,15,3,1:22
+4-Jun-2018,Shymkent CH,3,Clay,Q1,344,516,1,,,Jose Rubin Statham,Sidharth Rawat,6-3 6-2,1.91,8.9%,4.4%,57.8%,73.1%,68.4%,1/3,62.8%,55.1%,0.0%,42.9%,64.3%,5/10,94,4,2,45,26,19,0,1:04
+14-May-2018,Busan CH,3,Hard,R32,349,148,0,Q,7,Go Soeda,Jose Rubin Statham,6-3 6-3,0.69,5.6%,4.2%,57.7%,63.4%,43.3%,8/12,45.4%,31.3%,6.3%,31.0%,31.6%,1/1,119,4,3,71,41,30,3,1:25
+14-May-2018,Busan CH,3,Hard,Q3,349,364,1,4,7,Jose Rubin Statham,Guillermo Olaso,6-4 6-2,1.55,16.4%,0.0%,65.5%,80.6%,47.4%,2/3,57.3%,47.8%,2.9%,42.9%,52.9%,4/7,124,9,0,55,36,19,2,1:27
+14-May-2018,Busan CH,3,Hard,Q2,349,754,1,4,,Jose Rubin Statham,Tae Woo Lee,7-6(3) 6-3,1.17,6.2%,9.9%,59.3%,72.9%,48.5%,4/6,54.1%,43.3%,3.0%,33.3%,60.0%,3/5,148,5,8,81,48,33,2,1:41
+7-May-2018,Gimcheon CH,3,Hard,R32,346,149,0,,7,Go Soeda,Jose Rubin Statham,6-2 3-6 6-4,0.89,8.9%,7.8%,61.1%,74.5%,25.7%,5/10,47.8%,39.8%,1.1%,36.7%,43.6%,3/7,178,8,7,90,55,35,1,2:04
+30-Apr-2018,Puerto Vallarta CH,3,Hard,R32,344,260,0,,7,Jose Hernandez,Jose Rubin Statham,6-2 6-4,0.69,5.1%,3.4%,69.5%,53.7%,38.9%,4/9,42.5%,35.2%,3.7%,28.6%,47.4%,2/4,113,3,2,59,41,18,2,1:13
+23-Apr-2018,Leon CH,3,Hard,R16,357,280,0,Q,Q,Roberto Quiroz,Jose Rubin Statham,3-6 7-6(5) 6-2,0.75,5.8%,1.9%,64.4%,71.6%,51.4%,4/6,47.4%,26.7%,8.1%,18.2%,41.9%,1/7,190,6,2,104,67,37,7,2:14
+23-Apr-2018,Leon CH,3,Hard,R32,357,142,1,Q,8,Jose Rubin Statham,Marcelo Arevalo,7-5 4-6 6-2,1.17,10.6%,4.7%,48.2%,80.5%,50.0%,0/2,51.9%,41.3%,4.8%,33.3%,57.1%,4/12,189,9,4,85,41,44,5,2:11
+23-Apr-2018,Leon CH,3,Hard,Q3,357,426,1,4,6,Jose Rubin Statham,Tobias Simon,7-6(4) 6-3,1.87,22.0%,1.7%,61.0%,88.9%,73.9%,0/0,57.1%,31.7%,25.0%,6.7%,56.7%,1/1,119,13,1,59,36,23,15,1:20
+23-Apr-2018,Leon CH,3,Hard,Q2,357,606,1,4,,Jose Rubin Statham,Franco Agamenone,7-6(5) 6-2,1.60,3.6%,1.8%,58.9%,81.8%,60.9%,1/2,56.3%,42.9%,2.9%,40.0%,46.7%,3/7,126,2,1,56,33,23,2,1:26
+23-Apr-2018,Leon CH,3,Hard,Q1,357,768,1,4,,Jose Rubin Statham,Pavel Krainik,6-4 6-3,1.59,12.7%,1.8%,67.3%,78.4%,55.6%,4/5,57.3%,46.4%,2.9%,36.7%,53.8%,4/6,124,7,1,55,37,18,2,1:16
+16-Apr-2018,Guadalajara CH,3,Hard,Q1,354,371,0,8,,Gonzalo Escobar,Jose Rubin Statham,6-3 6-3,0.68,14.8%,9.8%,59.0%,69.4%,40.0%,3/6,44.0%,29.1%,5.5%,24.3%,38.9%,0/2,116,9,6,61,36,25,3,1:11
+9-Apr-2018,Mexico City CH,3,Clay,Q3,354,283,0,6,3,Jose Hernandez,Jose Rubin Statham,7-6(3) 5-7 7-6(7),1.08,4.9%,6.6%,45.9%,76.8%,53.0%,8/12,50.2%,38.8%,4.8%,32.7%,51.0%,5/19,269,6,8,122,56,66,7,3:07
+9-Apr-2018,Mexico City CH,3,Clay,Q2,354,699,1,6,,Jose Rubin Statham,Erik Crepaldi,7-5 6-4,1.19,11.8%,2.9%,57.4%,79.5%,44.8%,2/4,53.8%,41.9%,9.7%,36.4%,55.6%,4/9,130,8,2,68,39,29,6,1:30
+9-Apr-2018,Mexico City CH,3,Clay,Q1,354,616,1,6,,Jose Rubin Statham,Marco Bortolotti,6-7(9) 6-3 6-3,1.44,9.9%,7.7%,47.3%,88.4%,62.5%,0/0,53.7%,36.4%,5.5%,27.1%,52.5%,3/8,201,9,7,91,43,48,6,2:17
+2-Apr-2018,Panama City CH,3,Clay,R32,351,121,0,ALT,3,Yannick Hanfmann,Jose Rubin Statham,6-4 5-7 6-3,0.76,4.7%,2.8%,60.4%,75.0%,42.9%,5/8,47.4%,28.6%,16.7%,19.3%,48.1%,1/4,190,5,3,106,64,42,14,2:16
+26-Mar-2018,San Luis Potosi CH,3,Clay,Q2,341,722,0,,,Mauricio Echazu,Jose Rubin Statham,7-6(5) 2-6 7-6(5),1.12,15.7%,3.9%,50.0%,80.4%,62.7%,1/1,51.2%,31.8%,2.8%,29.3%,37.5%,2/8,209,16,4,102,51,51,3,2:29
+26-Mar-2018,San Luis Potosi CH,3,Clay,Q1,341,1681,1,,WC,Jose Rubin Statham,Aitor Aramburu,6-0 6-1,2.44,12.5%,7.5%,55.0%,81.8%,66.7%,1/1,67.9%,61.0%,2.4%,54.8%,80.0%,5/12,81,5,3,40,22,18,1,0:51
+19-Feb-2018,Cuernavaca CH,3,Hard,R32,314,192,0,,4,Evan King,Jose Rubin Statham,6-7(1) 6-3 6-3,0.84,4.6%,1.9%,59.3%,64.1%,52.3%,6/11,47.3%,34.0%,13.4%,25.8%,48.6%,2/11,205,5,2,108,64,44,13,2:23
+5-Feb-2018,Launceston CH,3,Hard,R32,309,493,0,,WC,Harry Bourchier,Jose Rubin Statham,7-5 6-4,0.90,3.1%,3.1%,68.8%,68.2%,30.0%,0/4,47.1%,39.2%,5.4%,33.3%,45.7%,2/7,138,2,2,64,44,20,4,1:21
+2-Feb-2018,Davis Cup G1 R1: CHN vs NZL,3,Hard,RR,308,253,1,,,Jose Rubin Statham,Di Wu,2-6 6-4 6-4,1.09,12.7%,2.5%,55.7%,72.7%,48.6%,4/8,50.9%,41.3%,4.3%,26.0%,59.5%,4/9,171,10,2,79,44,35,4,1:49
+2-Feb-2018,Davis Cup G1 R1: CHN vs NZL,3,Hard,RR,308,309,0,,,Yibing Wu,Jose Rubin Statham,1-6 6-3 6-4,1.01,4.5%,4.5%,53.4%,72.3%,51.2%,6/8,50.6%,37.8%,4.9%,31.8%,44.7%,2/9,170,4,4,88,47,41,4,2:00
+22-Jan-2018,Newport Beach CH,3,Hard,Q2,308,295,0,,8,Marcos Giron,Jose Rubin Statham,4-6 7-6(3) 6-3,0.71,5.9%,1.0%,68.6%,68.6%,65.6%,3/4,47.1%,23.0%,3.4%,18.6%,32.1%,1/3,189,6,1,102,70,32,3,2:01
+22-Jan-2018,Newport Beach CH,3,Hard,Q1,308,394,1,,,Jose Rubin Statham,Maximo Gonzalez,6-1 7-6(2),1.30,4.7%,6.3%,54.7%,77.1%,65.5%,1/1,56.0%,36.5%,1.9%,17.2%,60.9%,2/2,116,3,4,64,35,29,1,1:14
+8-Jan-2018,Auckland,3,Hard,Q1,302,90,0,,2,Lukas Lacko,Jose Rubin Statham,6-1 7-5,0.56,8.9%,2.5%,55.7%,61.4%,48.6%,8/11,43.0%,25.0%,12.5%,19.5%,40.0%,0/1,135,7,2,79,44,35,7,1:23
+1-Jan-2018,Noumea CH,3,Hard,R32,292,215,0,,,Kevin King,Jose Rubin Statham,6-4 6-3,0.41,4.0%,4.0%,64.0%,65.6%,61.1%,0/2,40.2%,14.9%,21.3%,9.7%,25.0%,0/0,97,2,2,50,32,18,10,1:01
+27-Nov-2017,Thailand F10,3,Hard,F,304,186,0,2,,Alexey Vatutin,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Thailand F10,3,Hard,SF,304,708,1,2,,Jose Rubin Statham,Frederik Nielsen,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Thailand F10,3,Hard,QF,304,545,1,2,,Jose Rubin Statham,Tobias Simon,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Thailand F10,3,Hard,R16,304,653,1,2,,Jose Rubin Statham,Billy Harris,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Thailand F10,3,Hard,R32,304,1921,1,2,,Jose Rubin Statham,Phongsapak Kerdlaphee,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,Hua Hin CH,3,Hard,R16,304,170,0,,7,Soon Woo Kwon,Jose Rubin Statham,6-2 6-4,0.55,6.7%,2.2%,57.8%,69.2%,36.8%,0/4,40.0%,24.4%,13.3%,14.3%,41.2%,1/1,90,3,1,45,26,19,6,1:01
+20-Nov-2017,Hua Hin CH,3,Hard,R32,304,249,1,,,Jose Rubin Statham,Danilo Petrovic,7-6(3) 6-3,1.49,26.7%,1.7%,66.7%,82.5%,80.0%,0/0,55.7%,27.3%,20.0%,21.6%,38.9%,1/1,115,16,1,60,40,20,11,1:07
+30-Oct-2017,Canberra CH,3,Hard,R16,307,117,0,,3,Matthew Ebden,Jose Rubin Statham,6-2 6-1,0.30,1.5%,2.9%,69.1%,55.3%,33.3%,10/14,36.4%,15.4%,23.1%,7.7%,30.8%,0/1,107,1,2,68,47,21,9,1:11
+30-Oct-2017,Canberra CH,3,Hard,R32,307,586,1,,Q,Jose Rubin Statham,Matthew Barton,6-4 7-6(4),1.10,11.5%,3.8%,56.4%,79.5%,64.7%,0/0,51.3%,29.5%,21.8%,21.3%,41.9%,1/7,156,9,3,78,44,34,17,1:32
+23-Oct-2017,Ho Chi Minh City CH,3,Hard,R32,308,142,0,,4,Yuki Bhambri,Jose Rubin Statham,6-1 6-4,0.67,2.0%,2.0%,58.0%,44.8%,47.6%,4/9,41.5%,36.4%,2.3%,22.2%,58.8%,2/2,94,1,1,50,29,21,1,1:03
+16-Oct-2017,Ningbo CH,3,Hard,R32,308,76,0,,2,Jordan Thompson,Jose Rubin Statham,6-4 6-2,0.69,0.0%,5.4%,62.5%,60.0%,23.8%,5/10,41.6%,36.8%,8.8%,27.0%,55.0%,2/4,113,0,3,56,35,21,5,1:19
+9-Oct-2017,Thailand F8,3,Hard,R32,307,1181,0,,Q,Chien Hsun Lo,Jose Rubin Statham,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Chengdu,3,Hard,Q1,312,499,0,8,,Chuhan Wang,Jose Rubin Statham,6-2 6-2,0.53,6.2%,4.6%,61.5%,47.5%,56.0%,9/13,40.5%,26.1%,4.3%,28.6%,22.2%,0/0,111,4,3,65,40,25,2,1:12
+18-Sep-2017,Gwangju CH,3,Hard,R16,314,412,0,,Q,Tsung Hua Yang,Jose Rubin Statham,6-7(5) 7-5 6-1,0.76,2.9%,0.0%,76.0%,58.2%,44.0%,6/13,45.5%,34.5%,13.8%,34.0%,35.1%,4/6,191,3,0,104,79,25,12,2:24
+18-Sep-2017,Gwangju CH,3,Hard,R32,314,261,1,,7,Jose Rubin Statham,Hiroki Moriya,6-3 6-4,1.21,4.9%,4.9%,72.1%,65.9%,47.1%,0/2,54.2%,47.5%,6.8%,36.4%,61.5%,4/7,120,3,3,61,44,17,4,1:27
+11-Sep-2017,Shanghai CH,3,Hard,R32,315,211,0,,6,Mohamed Safwat,Jose Rubin Statham,6-2 6-4,0.53,8.5%,2.1%,66.0%,71.0%,37.5%,1/4,40.4%,21.3%,21.3%,12.9%,37.5%,0/0,94,4,1,47,31,16,10,1:01
+4-Sep-2017,Bogota CH,3,Clay,R16,327,293,0,,,Daniel Elahi Galan,Jose Rubin Statham,6-3 6-3,0.81,7.7%,10.3%,44.9%,62.9%,41.9%,11/16,46.1%,39.7%,9.5%,23.1%,66.7%,2/8,141,6,8,78,35,43,6,1:24
+4-Sep-2017,Bogota CH,3,Clay,R32,327,132,1,,3,Jose Rubin Statham,Sebastian Ofner,7-5 7-5,1.22,1.3%,5.3%,53.9%,70.7%,54.3%,1/3,53.9%,44.9%,6.4%,31.8%,61.8%,4/11,154,1,4,76,41,35,5,1:37
+28-Aug-2017,Quito CH,3,Clay,R32,327,90,0,,1,Victor Estrella,Jose Rubin Statham,6-4 3-6 6-3,0.86,6.6%,2.2%,70.3%,71.9%,48.1%,6/9,49.4%,30.1%,1.4%,29.6%,31.6%,2/5,164,6,2,91,64,27,1,1:38
+14-Aug-2017,Santo Domingo CH,3,Clay,R32,322,162,0,,8,Gastao Elias,Jose Rubin Statham,6-1 5-1 RET,0.46,0.0%,5.8%,50.0%,46.2%,38.5%,7/12,36.0%,26.5%,11.8%,17.6%,35.3%,0/2,86,0,3,52,26,26,4,1:04
+31-Jul-2017,Lexington CH,3,Hard,R32,312,369,0,,,Daniel Nguyen,Jose Rubin Statham,1-6 7-5 6-4,0.95,7.5%,3.2%,60.2%,60.7%,48.6%,3/8,48.7%,41.8%,4.1%,37.3%,48.7%,5/10,191,7,3,93,56,37,4,2:26
+24-Jul-2017,Binghamton CH,3,Hard,R32,330,259,0,,,Ze Zhang,Jose Rubin Statham,6-4 7-6(4),1.03,2.9%,0.0%,63.8%,72.7%,60.0%,4/5,48.7%,32.9%,9.4%,17.8%,50.0%,0/6,154,2,0,69,44,25,8,1:47
+17-Jul-2017,USA F24,3,Hard,F,317,335,0,2,3,Dominik Koepfer,Jose Rubin Statham,6-7(5) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,USA F24,3,Hard,SF,317,1219,1,2,WC,Jose Rubin Statham,Brandon Holt,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,USA F24,3,Hard,QF,317,1282,1,2,WC,Jose Rubin Statham,Zeke Clark,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,USA F24,3,Hard,R16,317,833,1,2,,Jose Rubin Statham,Santiago Fa Rodriguez Taverna,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,USA F24,3,Hard,R32,317,872,1,2,,Jose Rubin Statham,Aziz Dougaz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Medellin CH,3,Clay,SF,344,182,0,,4,Nicolas Jarry,Jose Rubin Statham,7-6(7) 7-5,0.62,13.7%,5.5%,57.5%,81.0%,61.3%,2/3,46.4%,16.9%,20.0%,16.3%,18.2%,0/0,138,10,4,73,42,31,13,1:38
+10-Jul-2017,Medellin CH,3,Clay,QF,344,433,1,,,Jose Rubin Statham,Alejandro Gonzalez,6-4 6-4,1.55,20.0%,1.7%,66.7%,82.5%,50.0%,2/3,56.4%,43.8%,1.4%,28.2%,61.8%,3/6,133,12,1,60,40,20,1,1:36
+10-Jul-2017,Medellin CH,3,Clay,R16,344,1370,1,,Q,Jose Rubin Statham,David Souto,6-3 6-3,1.58,10.0%,8.0%,70.0%,82.9%,40.0%,0/1,58.1%,47.3%,3.6%,42.9%,55.0%,4/9,105,5,4,50,35,15,2,1:18
+10-Jul-2017,Medellin CH,3,Clay,R32,344,96,1,,1,Jose Rubin Statham,Victor Estrella,6-3 3-6 6-3,1.13,6.1%,2.0%,61.2%,73.3%,60.5%,9/10,53.6%,35.8%,3.7%,28.3%,45.7%,2/4,179,6,2,98,60,38,3,2:04
+26-Jun-2017,USA F22,3,Clay,QF,340,572,0,2,6,Dennis Nevolo,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,USA F22,3,Clay,R16,340,1115,1,2,Q,Jose Rubin Statham,David Volfson,6-2 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,USA F22,3,Clay,R32,340,746,1,2,,Jose Rubin Statham,Ryan Haviland,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,USA F19,3,Hard,QF,340,261,0,8,1,Austin Krajicek,Jose Rubin Statham,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,USA F19,3,Hard,R16,340,1094,1,8,PR,Jose Rubin Statham,Andrew Harris,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,USA F19,3,Hard,R32,340,,1,8,WC,Jose Rubin Statham,Trent Bryde,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Thailand F1,3,Hard,F,401,403,1,1,2,Jose Rubin Statham,Finn Tearney,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Thailand F1,3,Hard,SF,401,680,1,1,6,Jose Rubin Statham,Harry Bourchier,6-7(6) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Thailand F1,3,Hard,QF,401,674,1,1,5,Jose Rubin Statham,Wishaya Trongcharoenchaikul,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Thailand F1,3,Hard,R16,401,778,1,1,,Jose Rubin Statham,Ryota Tanuma,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Thailand F1,3,Hard,R32,401,,1,1,WC,Jose Rubin Statham,Phongsapak Kerdlaphee,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+29-May-2017,China F9,3,Hard,SF,401,334,0,6,3,Alexander Sarkissian,Jose Rubin Statham,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,China F9,3,Hard,QF,401,612,1,6,,Jose Rubin Statham,Naoki Nakagawa,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,China F9,3,Hard,R16,401,1338,1,6,,Jose Rubin Statham,Sheng Hao Zhou,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,China F9,3,Hard,R32,401,1330,1,6,,Jose Rubin Statham,Aoxiong Wang,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,China F8,3,Hard,SF,407,331,0,6,2,Alexander Sarkissian,Jose Rubin Statham,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,China F8,3,Hard,QF,407,304,1,6,3,Jose Rubin Statham,Takuto Niki,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-May-2017,China F8,3,Hard,R16,407,1407,1,6,Q,Jose Rubin Statham,Chien Hsun Lo,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,China F8,3,Hard,R32,407,1125,1,6,Q,Jose Rubin Statham,Rhett Purcell,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,China F7,3,Hard,QF,405,383,0,5,3,Marcos Giron,Jose Rubin Statham,7-6(3) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-May-2017,China F7,3,Hard,R16,405,1364,1,5,Q,Jose Rubin Statham,Jie Cui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,China F7,3,Hard,R32,405,471,1,5,,Jose Rubin Statham,Kaichi Uchida,7-6(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Savannah CH,3,Clay,Q3,390,446,0,3,6,Ante Pavic,Jose Rubin Statham,6-2 7-6(4),0.83,1.2%,3.7%,74.1%,58.3%,47.6%,7/10,46.1%,36.9%,8.3%,25.9%,61.5%,1/9,165,1,3,81,60,21,7,1:56
+1-May-2017,Savannah CH,3,Clay,Q2,390,578,1,3,,Jose Rubin Statham,Facundo Arguello,3-6 4-0 RET,1.02,1.8%,1.8%,64.3%,55.6%,45.0%,8/11,50.5%,49.0%,6.1%,32.4%,86.7%,3/5,105,1,1,56,36,20,3,1:20
+24-Apr-2017,Tallahassee CH,3,Clay,R32,399,131,0,Q,6,Leonardo Mayer,Jose Rubin Statham,6-4 6-2,0.68,2.2%,0.0%,64.4%,58.6%,56.3%,3/7,42.6%,28.6%,14.3%,26.9%,30.4%,1/4,94,1,0,45,29,16,7,1:11
+24-Apr-2017,Tallahassee CH,3,Clay,Q3,399,688,1,8,,Jose Rubin Statham,Yosuke Watanuki,6-3 6-3,1.31,4.5%,3.0%,74.6%,70.0%,35.3%,5/7,56.6%,50.9%,9.1%,20.0%,76.7%,5/9,122,3,2,67,50,17,5,1:15
+24-Apr-2017,Tallahassee CH,3,Clay,Q2,399,448,1,8,,Jose Rubin Statham,Ante Pavic,4-6 6-4 6-1,1.19,4.9%,2.4%,74.4%,70.5%,52.4%,2/4,53.0%,40.5%,8.3%,31.1%,51.3%,4/8,166,4,2,82,61,21,7,1:46
+24-Apr-2017,Tallahassee CH,3,Clay,Q1,399,841,1,8,,Jose Rubin Statham,Kevin King,2-6 7-5 6-3,1.34,6.2%,4.9%,69.1%,76.8%,60.0%,3/5,53.0%,38.0%,8.0%,28.4%,57.6%,2/10,181,5,4,81,56,25,8,2:02
+17-Apr-2017,Bradenton CH,3,Clay,Q1,403,480,0,,,Roberto Cid,Jose Rubin Statham,6-3 6-7(1) 6-1,0.67,1.3%,2.6%,76.9%,63.3%,55.6%,2/6,43.4%,25.9%,3.7%,22.0%,32.3%,1/2,159,1,2,78,60,18,3,
+20-Mar-2017,Australia F3,3,Clay,R32,385,748,0,7,,Sora Fukuda,Jose Rubin Statham,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Australia F2,3,Clay,QF,392,225,0,7,2,Marc Polmans,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Australia F2,3,Clay,R16,392,1639,1,7,Q,Jose Rubin Statham,Kazuma Kawachi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Australia F2,3,Clay,R32,392,1021,1,7,Q,Jose Rubin Statham,Aaron Addison,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,F,432,684,0,2,Q,Tsung Hua Yang,Jose Rubin Statham,2-6 6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,SF,432,446,1,2,3,Jose Rubin Statham,Marco Bortolotti,7-6(2) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,QF,432,488,1,2,6,Jose Rubin Statham,Nino Serdarusic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,R16,432,653,1,2,,Jose Rubin Statham,Issei Okamura,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,R32,432,923,1,2,WC,Jose Rubin Statham,Yibing Wu,7-6(7) 7-6(9),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,F,431,445,1,2,3,Jose Rubin Statham,Marco Bortolotti,4-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,SF,431,586,1,2,,Jose Rubin Statham,Yan Bai,4-6 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,QF,431,547,1,2,7,Jose Rubin Statham,Fernando Romboli,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,R16,431,,1,2,WC,Jose Rubin Statham,Ruixuan Wang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,R32,431,633,1,2,,Jose Rubin Statham,Ilya Vasilyev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2017,Davis Cup G1 R1: NZL vs IND,3,Hard,RR,417,276,0,,,Ramkumar Ramanathan,Jose Rubin Statham,6-3 6-4 6-3,0.76,3.6%,1.2%,63.9%,69.8%,50.0%,2/6,45.5%,28.6%,17.9%,15.9%,42.5%,0/3,167,3,1,83,53,30,15,1:52
+3-Feb-2017,Davis Cup G1 R1: NZL vs IND,3,Hard,RR,417,368,0,,,Yuki Bhambri,Jose Rubin Statham,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2017,Lahaina CH,3,Hard,Q3,418,286,0,5,2,Roberto Quiroz,Jose Rubin Statham,5-7 7-6(4) 3-0 RET,1.01,3.3%,2.2%,61.1%,52.7%,74.3%,7/10,49.7%,39.4%,5.1%,30.4%,51.2%,3/5,189,3,2,90,55,35,5,2:13
+23-Jan-2017,Lahaina CH,3,Hard,Q2,418,1420,1,5,,Jose Rubin Statham,Lucas Renard,6-2 6-2,1.65,2.4%,7.3%,63.4%,73.1%,53.3%,0/2,60.2%,56.5%,9.7%,40.6%,73.3%,6/13,103,1,3,41,26,15,6,1:12
+9-Jan-2017,Auckland,3,Hard,R16,434,54,0,LL,,Jiri Vesely,Jose Rubin Statham,6-7(6) 7-5 6-3,0.93,8.9%,2.2%,71.1%,78.1%,61.5%,1/3,47.2%,24.8%,14.3%,19.7%,33.3%,0/5,195,8,2,90,64,26,15,2:23
+9-Jan-2017,Auckland,3,Hard,Q2,434,89,0,7,1,Ryan Harrison,Jose Rubin Statham,6-4 6-1,0.49,1.3%,3.9%,65.8%,60.0%,38.5%,10/14,42.0%,23.3%,14.0%,11.1%,43.8%,0/2,119,1,3,76,50,26,6,1:16
+9-Jan-2017,Auckland,3,Hard,Q1,434,1148,1,7,Alt,Jose Rubin Statham,Rhett Purcell,7-6(2) 6-0,1.67,6.8%,0.0%,69.5%,80.5%,55.6%,1/1,58.7%,45.2%,4.8%,42.9%,47.1%,3/8,121,4,0,59,41,18,3,1:21
+2-Jan-2017,Noumea CH,3,Hard,R16,461,60,0,,1,Adrian Mannarino,Jose Rubin Statham,6-2 6-1,0.37,0.0%,7.1%,71.4%,52.5%,31.3%,3/8,36.3%,20.0%,14.3%,16.7%,23.5%,0/0,91,0,4,56,40,16,5,1:02
+2-Jan-2017,Noumea CH,3,Hard,R32,461,,1,,WC,Jose Rubin Statham,Nicolas Ngodrela,6-3 6-1,1.98,2.2%,4.4%,66.7%,73.3%,66.7%,5/6,63.8%,57.1%,2.0%,44.0%,70.8%,5/8,94,1,2,45,30,15,1,1:02
+5-Dec-2016,USA F40,3,Hard,R32,456,578,0,5,,Dominik Koepfer,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Columbus CH,3,Hard,R32,454,145,0,,4,Stefan Kozlov,Jose Rubin Statham,6-2 7-6(6),0.91,6.7%,1.3%,64.0%,56.3%,48.1%,4/8,47.5%,42.4%,2.4%,27.5%,55.6%,2/10,160,5,1,75,48,27,2,1:49
+14-Nov-2016,USA F37,3,Clay,QF,446,740,0,3,7,Alex Rybakov,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,USA F37,3,Clay,R16,446,950,1,3,,Jose Rubin Statham,Patrick Daciek,2-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,USA F37,3,Clay,R32,446,1242,1,3,Q,Jose Rubin Statham,Nuno Borges,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,USA F36,3,Clay,SF,446,1647,0,3,Q,Constantin Schmitz,Jose Rubin Statham,6-3 2-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,USA F36,3,Clay,QF,446,,1,3,Q,Jose Rubin Statham,Sam Riffice,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,USA F36,3,Clay,R16,446,,1,3,Q,Jose Rubin Statham,Bruno Savi,7-6(1) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,USA F36,3,Clay,R32,446,,1,3,Q,Jose Rubin Statham,Dejon Bivens,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,USA F35,3,Clay,R32,457,1096,0,1,Q,Benjamin Sigouin,Jose Rubin Statham,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,QF,416,291,0,7,2,Sam Barry,Jose Rubin Statham,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R16,416,,1,7,Q,Jose Rubin Statham,Ruan Roelofse,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,USA F34,3,Hard,R32,416,914,1,7,,Jose Rubin Statham,Naoki Nakagawa,6-1 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,USA F33,3,Hard,R32,423,,0,4,WC,Andre Goransson,Jose Rubin Statham,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,QF,426,723,0,4,,Wil Spencer,Jose Rubin Statham,7-6(4) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R16,426,981,1,4,Q,Jose Rubin Statham,Hunter Reese,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,USA F31,3,Hard,R32,426,1844,1,4,WC,Jose Rubin Statham,John Mcnally,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Canada F7,3,Clay,QF,423,341,0,5,3,Tim Van Rijthoven,Jose Rubin Statham,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Canada F7,3,Clay,R16,423,835,1,5,,Jose Rubin Statham,Jarmere Jenkins,4-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Canada F7,3,Clay,R32,423,1150,1,5,Q,Jose Rubin Statham,Strong Kirchheimer,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Canada F6,3,Hard,R16,423,1037,0,4,,Brayden Schnur,Jose Rubin Statham,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Canada F6,3,Hard,R32,423,1633,1,4,,Jose Rubin Statham,Kevin Kylar,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,US Open,5,Hard,Q1,423,191,0,,,Duck Hee Lee,Jose Rubin Statham,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Finland F2,3,Clay,R16,445,760,0,3,,Thai Son Kwiatkowski,Jose Rubin Statham,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Finland F2,3,Clay,R32,445,1150,1,3,,Jose Rubin Statham,Eero Vasa,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Finland F1,3,Clay,SF,444,890,0,1,7,Mikael Torpegaard,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Finland F1,3,Clay,QF,444,736,1,1,5,Jose Rubin Statham,Winston Lin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Finland F1,3,Clay,R16,444,1809,1,1,WC,Jose Rubin Statham,Ristomatti Lanne,7-5 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,Finland F1,3,Clay,R32,444,1147,1,1,,Jose Rubin Statham,Loic Perret,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Lexington CH,3,Hard,Q2,443,282,0,,2,Lloyd Glasspool,Jose Rubin Statham,6-2 6-4,0.62,5.5%,3.6%,60.0%,66.7%,45.5%,1/4,42.9%,26.0%,26.0%,17.9%,36.4%,0/1,105,3,2,55,33,22,13,1:13
+25-Jul-2016,Lexington CH,3,Hard,Q1,443,1068,1,,,Jose Rubin Statham,Hunter Callahan,6-2 4-6 6-3,1.16,2.4%,3.7%,68.3%,71.4%,65.4%,0/1,52.8%,35.4%,6.3%,23.3%,50.0%,3/9,161,2,3,82,56,26,5,2:08
+18-Jul-2016,Binghamton CH,3,Hard,R16,472,214,0,Q,,Ramkumar Ramanathan,Jose Rubin Statham,2-6 6-4 7-6(3),0.99,1.0%,6.1%,67.7%,71.6%,43.8%,2/5,50.0%,37.1%,17.5%,23.5%,52.2%,4/10,196,1,6,99,67,32,17,2:22
+18-Jul-2016,Binghamton CH,3,Hard,R32,472,200,1,Q,7,Jose Rubin Statham,Guilherme Clezar,6-7(2) 7-5 6-4,1.07,14.3%,0.9%,67.0%,76.0%,45.9%,6/8,51.4%,36.4%,10.0%,26.1%,53.7%,4/10,222,16,1,112,75,37,11,2:29
+18-Jul-2016,Binghamton CH,3,Hard,Q3,472,367,1,8,3,Jose Rubin Statham,Finn Tearney,6-3 6-7(6) 6-4,1.09,3.7%,1.9%,69.2%,58.1%,54.5%,3/8,51.5%,47.0%,3.7%,37.3%,62.7%,7/21,241,4,2,107,74,33,5,3:03
+18-Jul-2016,Binghamton CH,3,Hard,Q2,472,743,1,8,,Jose Rubin Statham,Winston Lin,6-1 6-4,1.46,5.2%,1.7%,62.1%,80.6%,50.0%,3/3,57.5%,45.5%,1.8%,48.4%,41.7%,3/10,113,3,1,58,36,22,1,1:22
+27-Jun-2016,USA F22,3,Clay,F,527,451,1,5,2,Jose Rubin Statham,Kaichi Uchida,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,SF,527,1096,1,5,SE,Jose Rubin Statham,Thai Son Kwiatkowski,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,QF,527,336,1,5,1,Jose Rubin Statham,Gavin Van Peperzeel,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,R16,527,873,1,5,,Jose Rubin Statham,Nathan Pasha,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,R32,527,1093,1,5,,Jose Rubin Statham,Hassan Ndayishimiye,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,QF,534,363,0,,6,Peter Polansky,Jose Rubin Statham,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,R16,534,333,1,,4,Jose Rubin Statham,Michael Mmoh,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,USA F18,3,Hard,R32,534,914,1,,,Jose Rubin Statham,Damon Gooch,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2016,USA F17,3,Hard,R32,527,665,0,,,Gonzales Austin,Jose Rubin Statham,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Bangkok CH,3,Hard,Q2,465,341,0,,1,Lloyd Glasspool,Jose Rubin Statham,5-7 6-3 6-4,1.02,5.9%,7.1%,68.2%,69.0%,48.1%,3/7,49.0%,38.3%,22.4%,27.7%,54.8%,3/10,192,5,6,85,58,27,24,2:00
+2-May-2016,USA F16,3,Clay,SF,494,397,0,,7,Peter Polansky,Jose Rubin Statham,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,USA F16,3,Clay,QF,494,908,1,,PR,Jose Rubin Statham,Jonas Luetjen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,USA F16,3,Clay,R16,494,328,1,,4,Jose Rubin Statham,Eric Quigley,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,USA F16,3,Clay,R32,494,711,1,,,Jose Rubin Statham,Marc Polmans,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Tallahassee CH,3,Clay,Q2,478,334,0,,4,James Mcgee,Jose Rubin Statham,6-4 6-3,0.84,0.0%,3.9%,60.8%,51.6%,55.0%,2/6,45.2%,39.7%,6.8%,34.1%,48.3%,2/6,124,0,2,51,31,20,5,1:23
+18-Apr-2016,Savannah CH,3,Clay,Q2,479,261,0,,3,Tomas Lipovsek Puches,Jose Rubin Statham,6-4 1-6 6-2,0.94,3.7%,1.2%,69.1%,62.5%,32.0%,6/11,49.0%,44.3%,1.4%,33.3%,64.0%,5/5,151,3,1,81,56,25,1,1:50
+18-Apr-2016,Savannah CH,3,Clay,Q1,479,1091,1,,WC,Jose Rubin Statham,Andrew Carter,6-3 7-5,1.47,1.8%,5.3%,64.9%,67.6%,65.0%,2/4,55.8%,48.9%,0.0%,52.2%,45.5%,5/7,147,1,3,57,37,20,0,2:16
+11-Apr-2016,Sarasota CH,3,Clay,Q3,475,258,0,,3,Jose Hernandez,Jose Rubin Statham,6-2 6-2,0.72,0.0%,2.0%,48.0%,50.0%,53.8%,1/5,42.1%,34.4%,0.0%,38.5%,28.0%,0/4,114,0,1,50,24,26,0,1:18
+11-Apr-2016,Sarasota CH,3,Clay,Q2,475,328,1,,6,Jose Rubin Statham,Facundo Mena,6-3 6-3,1.32,3.8%,7.5%,58.5%,71.0%,45.5%,1/4,56.0%,52.4%,4.8%,51.2%,54.5%,6/12,116,2,4,53,31,22,3,1:10
+11-Apr-2016,Sarasota CH,3,Clay,Q1,475,688,1,,,Jose Rubin Statham,Jorge Montero,6-3 6-0,1.55,3.5%,5.3%,56.1%,71.9%,48.0%,8/9,60.7%,60.0%,4.0%,54.8%,68.4%,6/8,107,2,3,57,32,25,2,1:06
+21-Mar-2016,Australia F4,3,Clay,SF,399,502,0,3,6,Christopher Oconnell,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Australia F4,3,Clay,QF,399,509,1,3,7,Jose Rubin Statham,Bradley Mousley,7-6(0) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Australia F4,3,Clay,R16,399,1413,1,3,,Jose Rubin Statham,Aaron Addison,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Australia F4,3,Clay,R32,399,,1,3,Q,Jose Rubin Statham,Lucas Vuradin,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Australia F3,3,Clay,QF,389,492,0,4,7,Christopher Oconnell,Jose Rubin Statham,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Australia F3,3,Clay,R16,389,1752,1,4,Q,Jose Rubin Statham,Scott Puodziunas,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Australia F3,3,Clay,R32,389,968,1,4,,Jose Rubin Statham,Steven De Waard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2016,Davis Cup G1 R1: NZL vs KOR,3,Hard,RR,416,438,0,,,Seong Chan Hong,Jose Rubin Statham,6-4 6-3 4-6 7-6(6),0.87,0.8%,6.2%,61.5%,55.0%,36.0%,10/21,46.5%,45.5%,4.1%,37.5%,57.9%,9/24,275,1,8,130,80,50,6,4:05
+4-Mar-2016,Davis Cup G1 R1: NZL vs KOR,3,Hard,RR,416,63,0,,,Hyeon Chung,Jose Rubin Statham,6-2 6-4 6-2,0.57,8.6%,7.1%,57.1%,60.0%,33.3%,1/8,38.7%,29.2%,2.8%,26.7%,33.3%,2/4,142,6,5,70,40,30,2,1:50
+22-Feb-2016,Australia F1,3,Hard,SF,417,364,0,5,3,Blake Mott,Jose Rubin Statham,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,Australia F1,3,Hard,QF,417,1145,1,5,,Jose Rubin Statham,Daniel Nolan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,Australia F1,3,Hard,R16,417,1475,1,5,,Jose Rubin Statham,Blake Ellis,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,Australia F1,3,Hard,R32,417,1256,1,5,,Jose Rubin Statham,Aaron Addison,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Launceston CH,3,Hard,R32,392,234,0,Q,,Duck Hee Lee,Jose Rubin Statham,6-2 7-6(3),0.61,9.2%,3.1%,60.0%,69.2%,34.6%,2/6,42.5%,27.3%,12.7%,18.2%,40.9%,2/2,120,6,2,65,39,26,7,1:26
+1-Feb-2016,Launceston CH,3,Hard,Q3,392,946,1,1,7,Jose Rubin Statham,Jarryd Chaplin,6-2 7-6(4),1.48,1.7%,3.3%,63.3%,76.3%,54.5%,0/2,56.0%,46.9%,8.6%,34.1%,62.2%,4/7,141,1,2,60,38,22,7,1:29
+1-Feb-2016,Launceston CH,3,Hard,Q2,392,1230,1,1,,Jose Rubin Statham,Greg Jones,7-6(6) 7-6(2),1.10,3.1%,3.1%,65.3%,65.6%,64.7%,7/9,51.2%,38.3%,4.7%,33.8%,46.2%,2/11,205,3,3,98,64,34,5,2:42
+16-Nov-2015,Australia F11,3,Hard,R16,376,986,0,3,,Marc Polmans,Jose Rubin Statham,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2015,Australia F11,3,Hard,R32,376,,1,3,,Jose Rubin Statham,Jake Eames,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,SF,376,247,0,3,2,Benjamin Mitchell,Jose Rubin Statham,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,QF,376,394,1,3,7,Jose Rubin Statham,Marcos Giron,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R16,376,1297,1,3,,Jose Rubin Statham,Darren K Polkinghorne,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Australia F10,3,Hard,R32,376,1023,1,3,,Jose Rubin Statham,Daniel Hobart,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2015,Canberra CH,3,Hard,R32,340,426,0,,,Marcos Giron,Jose Rubin Statham,7-6(3) 6-3,0.54,3.2%,8.6%,61.3%,68.4%,47.2%,14/15,44.8%,21.3%,4.9%,17.1%,26.9%,0/0,154,3,8,93,57,36,3,
+26-Oct-2015,Traralgon CH,3,Hard,QF,368,344,0,,,Matthew Barton,Jose Rubin Statham,6-3 6-2,0.49,4.9%,1.6%,70.5%,51.2%,44.4%,3/8,39.6%,25.0%,15.0%,17.2%,45.5%,1/1,101,3,1,61,43,18,6,
+26-Oct-2015,Traralgon CH,3,Hard,R16,368,250,1,,5,Jose Rubin Statham,Connor Smith,6-3 6-4,1.50,17.5%,5.3%,70.2%,82.5%,52.9%,0/0,55.9%,39.3%,6.6%,32.6%,55.6%,2/5,118,10,3,57,40,17,4,
+26-Oct-2015,Traralgon CH,3,Hard,R32,368,483,1,,,Jose Rubin Statham,Dane Propoggia,6-1 6-1,2.06,16.2%,8.1%,51.4%,84.2%,55.6%,1/2,64.8%,61.1%,1.9%,54.1%,76.5%,6/13,91,6,3,37,19,18,1,
+21-Sep-2015,Columbus CH,3,Hard,R16,375,461,0,,,Sekou Bangoura,Jose Rubin Statham,7-6(3) 6-4,0.86,3.8%,2.5%,67.1%,60.4%,46.2%,1/5,46.6%,38.1%,7.1%,36.2%,40.5%,3/9,163,3,2,79,53,26,6,
+21-Sep-2015,Columbus CH,3,Hard,R32,375,139,1,,6,Jose Rubin Statham,Blaz Rola,3-6 7-6(6) 6-2,1.10,5.6%,4.4%,52.2%,70.2%,55.8%,2/5,51.3%,40.2%,9.3%,35.8%,50.0%,4/7,187,5,4,90,47,43,9,
+14-Sep-2015,Canada F10,3,Hard,R32,377,939,0,5,,David Volfson,Jose Rubin Statham,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2015,Davis Cup G1 R2: NZL vs IND,3,Hard,RR,345,151,0,,,Yuki Bhambri,Jose Rubin Statham,6-2 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,USA F17,3,Clay,R16,340,1195,0,1,,Nathan Pasha,Jose Rubin Statham,6-2 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,USA F17,3,Clay,R32,340,,1,1,LL,Jose Rubin Statham,Matthew Gamble,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2015,Gimcheon CH,3,Hard,QF,389,271,0,,5,Connor Smith,Jose Rubin Statham,6-4 6-2,0.87,1.7%,1.7%,56.9%,48.5%,48.0%,2/7,46.4%,44.8%,1.5%,47.7%,39.1%,2/8,125,1,1,58,33,25,1,1:31
+2-Jun-2015,Gimcheon CH,3,Hard,R16,389,358,1,,,Jose Rubin Statham,Philip Bester,6-2 2-0 RET,1.73,8.3%,8.3%,55.6%,85.0%,50.0%,5/5,61.4%,52.9%,2.9%,30.8%,66.7%,3/7,70,3,3,36,20,16,1,0:49
+2-Jun-2015,Gimcheon CH,3,Hard,R32,389,1050,1,,Q,Jose Rubin Statham,Jung Woong Na,6-4 6-4,1.23,9.8%,11.8%,58.8%,76.7%,33.3%,0/4,54.5%,50.8%,0.0%,48.7%,55.0%,6/9,110,5,6,51,30,21,0,1:16
+25-May-2015,Korea F2,3,Hard,R16,389,1987,0,6,WC,Soon Woo Kwon,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Korea F2,3,Hard,R32,389,,1,6,Q,Jose Rubin Statham,Hogi Kang,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Korea F1,3,Hard,QF,388,647,0,6,,Blake Mott,Jose Rubin Statham,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Korea F1,3,Hard,R16,388,763,1,6,,Jose Rubin Statham,Min Kyu Song,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Korea F1,3,Hard,R32,388,586,1,6,,Jose Rubin Statham,Kaichi Uchida,6-7(4) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Tallahassee CH,3,Clay,R32,394,478,0,Q,WC,Jean Yves Aubone,Jose Rubin Statham,6-2 6-7(6) 6-3,0.91,6.7%,1.0%,66.7%,62.9%,48.6%,6/11,47.5%,37.9%,2.6%,31.6%,51.4%,2/7,221,7,1,105,70,35,3,2:48
+30-Mar-2015,Australia F5,3,Clay,F,509,382,1,,5,Jose Rubin Statham,Matthew Barton,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2015,Australia F5,3,Clay,SF,509,160,1,,1,Jose Rubin Statham,Alex Bolt,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2015,Australia F5,3,Clay,QF,509,475,1,,7,Jose Rubin Statham,Gavin Van Peperzeel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2015,Australia F5,3,Clay,R16,509,376,1,,4,Jose Rubin Statham,Maverick Banes,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2015,Australia F5,3,Clay,R32,509,,1,,Q,Jose Rubin Statham,Ivan Goluza,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Australia F4,3,Clay,F,509,243,0,,1,Jordan Thompson,Jose Rubin Statham,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Australia F4,3,Clay,SF,509,309,1,,3,Jose Rubin Statham,Dane Propoggia,7-6(9) 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Australia F4,3,Clay,QF,509,250,1,,2,Jose Rubin Statham,Peter Torebko,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Australia F4,3,Clay,R16,509,1326,1,,WC,Jose Rubin Statham,Oliver Anderson,W/O,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Australia F4,3,Clay,R32,509,376,1,,5,Jose Rubin Statham,Maverick Banes,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2015,Davis Cup G1 R1: NZL vs CHN,3,Hard,RR,497,309,0,,,Di Wu,Jose Rubin Statham,2-6 7-6(5) 7-6(0) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2015,Davis Cup G1 R1: NZL vs CHN,3,Hard,RR,497,348,1,,,Jose Rubin Statham,Zhe Li,6-3 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Launceston CH,3,Hard,QF,578,192,0,,,Ze Zhang,Jose Rubin Statham,6-4 6-3,0.76,13.1%,1.6%,60.7%,70.3%,37.5%,2/5,44.7%,32.3%,9.7%,26.3%,41.7%,0/3,123,8,1,61,37,24,6,1:36
+9-Feb-2015,Launceston CH,3,Hard,R16,578,167,1,,7,Jose Rubin Statham,Radu Albot,6-3 3-6 6-2,1.21,12.2%,1.2%,74.4%,73.8%,57.1%,6/7,53.8%,36.8%,5.3%,38.2%,33.3%,3/6,158,10,1,82,61,21,4,1:55
+9-Feb-2015,Launceston CH,3,Hard,R32,578,988,1,,Q,Jose Rubin Statham,Finn Tearney,7-5 6-3,1.35,1.5%,0.0%,67.7%,61.4%,71.4%,3/5,56.1%,47.8%,1.5%,35.0%,66.7%,4/9,132,1,0,65,44,21,1,1:46
+12-Jan-2015,Auckland,3,Hard,R32,578,112,0,WC,LL,Alejandro Falla,Jose Rubin Statham,6-4 6-4,0.86,1.8%,3.5%,68.4%,53.8%,61.1%,3/7,47.0%,37.9%,3.4%,25.0%,59.1%,2/3,115,1,2,57,39,18,2,1:14
+17-Nov-2014,Australia F10,3,Hard,F,623,218,0,,1,Jarmere Jenkins,Jose Rubin Statham,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Australia F10,3,Hard,SF,623,326,1,,3,Jose Rubin Statham,Dane Propoggia,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Australia F10,3,Hard,QF,623,437,1,,6,Jose Rubin Statham,Yan Bai,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Australia F10,3,Hard,R16,623,293,1,,2,Jose Rubin Statham,Brydan Klein,5-7 6-3 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Australia F10,3,Hard,R32,623,2023,1,,Q,Jose Rubin Statham,Thomas Fancutt,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Australia F9,3,Hard,QF,623,294,0,,3,Brydan Klein,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Australia F9,3,Hard,R16,623,390,1,,7,Jose Rubin Statham,Mitchell Krueger,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Australia F9,3,Hard,R32,623,1345,1,,WC,Jose Rubin Statham,Calum Puttergill,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Traralgon2 CH,3,Hard,QF,730,172,0,,6,Luke Saville,Jose Rubin Statham,6-4 6-3,0.74,5.8%,1.4%,69.6%,62.5%,38.1%,11/15,45.5%,33.3%,5.6%,18.8%,54.5%,1/4,123,4,1,69,48,21,3,1:22
+3-Nov-2014,Traralgon2 CH,3,Hard,R16,730,117,1,,1,Jose Rubin Statham,Go Soeda,6-4 4-6 6-2,1.15,3.6%,2.4%,78.3%,73.8%,44.4%,3/5,52.4%,37.3%,3.6%,26.0%,54.5%,4/7,166,3,2,83,65,18,3,1:48
+3-Nov-2014,Traralgon2 CH,3,Hard,R32,730,531,1,,Q,Jose Rubin Statham,Marcus Daniell,4-6 7-6(2) 6-2,1.13,0.0%,2.0%,65.3%,73.4%,58.8%,3/5,52.3%,35.8%,8.4%,30.0%,45.7%,3/7,193,0,2,98,64,34,8,2:14
+27-Oct-2014,Traralgon CH,3,Hard,R32,730,153,0,,4,Hiroki Moriya,Jose Rubin Statham,6-3 6-3,0.72,0.0%,2.2%,58.7%,59.3%,36.8%,1/5,42.3%,36.2%,1.7%,30.6%,45.5%,1/1,104,0,1,46,27,19,1,1:19
+2-Sep-2014,Shanghai CH,3,Hard,R32,625,170,0,,5,Luca Vanni,Jose Rubin Statham,3-6 6-4 7-5,0.98,1.1%,2.3%,67.8%,76.3%,64.3%,1/3,50.0%,27.1%,21.2%,14.0%,45.7%,1/3,172,1,2,87,59,28,18,2:06
+18-Aug-2014,Korea F11,3,Clay,F,687,1101,0,3,,John Millman,Jose Rubin Statham,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Korea F11,3,Clay,SF,687,,1,3,Q,Jose Rubin Statham,Jae Min Seol,6-4 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Korea F11,3,Clay,QF,687,1102,1,3,,Jose Rubin Statham,Katsuki Nagao,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Korea F11,3,Clay,R16,687,1744,1,3,Q,Jose Rubin Statham,Jae Won Choi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Korea F11,3,Clay,R32,687,1302,1,3,,Jose Rubin Statham,Kazuma Kawachi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,F,690,1102,0,6,,John Millman,Jose Rubin Statham,6-3 6-7(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,SF,690,1190,1,6,,Jose Rubin Statham,Dong Whee Choi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,QF,690,387,1,6,2,Jose Rubin Statham,Yuuya Kibi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,R16,690,1610,1,6,WC,Jose Rubin Statham,Jea Moon Lee,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,R32,690,1610,1,6,Q,Jose Rubin Statham,Ken Onishi,6-2 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,West Lakes CH,3,Hard,R32,342,293,0,,,Matthew Barton,Jose Rubin Statham,6-3 6-1,0.68,4.3%,6.5%,65.2%,46.7%,37.5%,1/6,40.6%,38.3%,5.0%,24.2%,55.6%,1/4,106,2,3,46,30,16,3,0:58
+27-Jan-2014,Davis Cup G1 R1: CHN vs NZL,3,Hard,RR,291,220,0,,,Ze Zhang,Jose Rubin Statham,6-7(5) 6-3 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Davis Cup G1 R1: CHN vs NZL,3,Hard,RR,291,198,0,,,Di Wu,Jose Rubin Statham,6-7(5) 6-7(1) 6-3 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jan-2014,Auckland,3,Hard,R32,288,90,0,WC,Q,Lukas Lacko,Jose Rubin Statham,6-3 6-1,0.66,4.5%,4.5%,66.7%,56.8%,31.8%,7/11,42.0%,34.0%,13.2%,25.0%,47.6%,0/4,119,3,3,66,44,22,7,1:10
+6-Jan-2014,Auckland,3,Hard,Q2,288,2152,0,7,,Sebastian Lavie,Jose Rubin Statham,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Dec-2013,Noumea CH,3,Hard,R16,290,99,0,WC,1,Alejandro Falla,Jose Rubin Statham,6-1 6-1,0.34,2.1%,4.3%,55.3%,42.3%,38.1%,3/8,31.7%,20.0%,0.0%,11.5%,44.4%,0/0,82,1,2,47,26,21,0,0:53
+30-Dec-2013,Noumea CH,3,Hard,R32,290,156,1,WC,,Jose Rubin Statham,Steve Johnson,7-6(4) 4-6 6-3,0.88,4.1%,2.5%,59.0%,66.7%,62.0%,7/9,50.7%,31.0%,12.6%,28.8%,34.3%,2/2,209,5,3,122,72,50,11,2:20
+28-Oct-2013,Traralgon CH,3,Hard,R32,283,324,0,9,,Jordan Thompson,Jose Rubin Statham,7-6(5) 7-6(4),0.90,6.5%,1.1%,75.3%,65.7%,60.9%,7/8,47.9%,32.0%,3.1%,25.4%,44.1%,1/7,190,6,1,93,70,23,3,2:10
+21-Oct-2013,Melbourne CH,3,Hard,R16,295,147,0,,5,James Duckworth,Jose Rubin Statham,6-3 6-4,0.61,1.7%,5.0%,66.7%,70.0%,40.0%,3/5,42.7%,24.6%,22.8%,14.3%,40.9%,0/4,117,1,3,60,40,20,13,1:18
+21-Oct-2013,Melbourne CH,3,Hard,R32,295,402,1,,,Jose Rubin Statham,Jonathan Dasnieres De Veigy,6-4 6-4,1.50,25.0%,4.7%,71.9%,80.4%,50.0%,3/3,55.6%,42.3%,1.3%,34.8%,53.1%,2/7,142,16,3,64,46,18,1,1:26
+14-Oct-2013,Australia F10,3,Hard,QF,301,1459,0,3,WC,Jay Andrijic,Jose Rubin Statham,3-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Australia F10,3,Hard,R16,301,871,1,3,,Jose Rubin Statham,Blake Mott,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2013,Australia F10,3,Hard,R32,301,1168,1,3,,Jose Rubin Statham,Marious Zelba,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Australia F9,3,Hard,QF,300,361,0,2,7,Jordan Thompson,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Australia F9,3,Hard,R16,300,852,1,2,,Jose Rubin Statham,Dayne Kelly,6-7(10) 7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Australia F9,3,Hard,R32,300,997,1,2,,Jose Rubin Statham,Jack Schipanski,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2013,Kuala Lumpur,3,Hard,Q2,295,163,0,,6,Tatsuma Ito,Jose Rubin Statham,1-6 6-4 6-3,0.99,10.5%,9.3%,52.3%,73.3%,39.0%,6/10,50.0%,42.5%,3.8%,17.5%,67.5%,4/9,166,9,8,86,45,41,3,1:52
+23-Sep-2013,Kuala Lumpur,3,Hard,Q1,295,,1,,,Jose Rubin Statham,Ahmed Deedat Abdul Razak,6-2 6-2,2.24,13.5%,8.1%,62.2%,91.3%,50.0%,0/1,64.2%,54.5%,4.5%,44.0%,68.4%,5/8,81,5,3,37,23,14,2,0:56
+16-Sep-2013,Kaohsiung CH,3,Hard,R32,295,88,0,,2,Jack Sock,Jose Rubin Statham,6-4 6-2,0.73,11.8%,3.9%,54.9%,64.3%,56.5%,6/9,43.6%,28.8%,16.9%,14.3%,41.9%,0/4,110,6,2,51,28,23,10,1:14
+13-Sep-2013,Davis Cup G2 R3: PHI vs NZL,3,Clay,RR,293,,1,,,Jose Rubin Statham,Johnny Arcilla,6-4 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2013,Davis Cup G2 R3: PHI vs NZL,3,Clay,RR,293,933,0,,,Ruben Gonzales,Jose Rubin Statham,7-6(2) 4-6 1-6 7-5 8-6,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2013,Shanghai CH,3,Hard,R16,295,190,0,,7,Malek Jaziri,Jose Rubin Statham,7-6(4) 7-6(5),0.88,6.1%,3.7%,62.2%,70.6%,35.5%,3/7,47.8%,37.7%,10.4%,22.0%,55.6%,4/6,159,5,3,82,51,31,8,2:05
+2-Sep-2013,Shanghai CH,3,Hard,R32,295,447,1,,,Jose Rubin Statham,Artem Sitak,7-6(4) 6-3,1.32,2.7%,0.0%,68.0%,72.5%,66.7%,2/3,54.7%,38.7%,4.0%,34.5%,50.0%,2/6,150,2,0,75,51,24,3,1:46
+26-Aug-2013,Bangkok CH,3,Hard,R16,295,209,0,,6,Matt Reid,Jose Rubin Statham,7-6(6) 6-2,0.89,7.3%,7.3%,58.2%,71.9%,56.5%,0/3,47.0%,30.6%,19.4%,22.2%,42.3%,1/2,117,4,4,55,32,23,12,1:11
+26-Aug-2013,Bangkok CH,3,Hard,R32,295,435,1,,,Jose Rubin Statham,Neil Pauffley,6-4 3-6 6-1,1.44,11.1%,0.0%,62.5%,80.0%,44.4%,3/6,55.7%,48.1%,7.7%,33.9%,64.6%,5/11,176,8,0,72,45,27,8,1:52
+22-Jul-2013,Astana CH,3,Hard,R32,283,195,0,,7,Ivan Sergeyev,Jose Rubin Statham,6-4 4-6 6-4,0.94,5.6%,6.5%,63.6%,64.7%,41.0%,7/12,48.6%,41.1%,1.9%,37.9%,46.3%,4/14,214,6,7,107,68,39,2,2:15
+8-Jul-2013,Beijing CH,3,Hard,QF,310,175,0,,3,Ze Zhang,Jose Rubin Statham,6-1 7-5,0.68,0.0%,1.9%,77.4%,51.2%,50.0%,3/8,41.6%,33.3%,11.7%,27.7%,53.8%,2/6,113,0,1,53,41,12,7,1:14
+8-Jul-2013,Beijing CH,3,Hard,R16,310,571,1,,,Jose Rubin Statham,Yuichi Ito,6-3 6-3,1.82,0.0%,0.0%,80.9%,78.9%,66.7%,0/0,58.4%,42.6%,5.6%,25.9%,59.3%,3/4,101,0,0,47,38,9,3,1:25
+8-Jul-2013,Beijing CH,3,Hard,R32,310,253,1,,7,Jose Rubin Statham,Danai Udomchoke,6-4 3-6 7-6(2),1.11,8.2%,2.1%,61.9%,68.3%,48.6%,8/13,51.4%,43.5%,5.2%,29.9%,62.5%,5/9,212,8,2,97,60,37,6,2:31
+1-Jul-2013,Japan F8,3,Hard,QF,326,912,0,1,,Takao Suzuki,Jose Rubin Statham,0-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Japan F8,3,Hard,R16,326,,1,1,WC,Jose Rubin Statham,Shotaro Goto,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Japan F8,3,Hard,R32,326,1595,1,1,WC,Jose Rubin Statham,Takashi Saito,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Japan F7,3,Clay,SF,326,451,0,1,4,Yasutaka Uchiyama,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Japan F7,3,Clay,QF,326,536,1,1,5,Jose Rubin Statham,Kento Takeuchi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Japan F7,3,Clay,R16,326,1706,1,1,WC,Jose Rubin Statham,Katsuki Nagao,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Japan F7,3,Clay,R32,326,1367,1,1,,Jose Rubin Statham,Shunrou Takeshima,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,Korea F4,3,Hard,R32,330,409,0,2,,Ji Sung Nam,Jose Rubin Statham,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,F,305,423,1,2,8,Jose Rubin Statham,Yong Kyu Lim,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,SF,305,371,1,2,6,Jose Rubin Statham,Dane Propoggia,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,QF,305,404,1,2,7,Jose Rubin Statham,Ji Sung Nam,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R16,305,1695,1,2,Q,Jose Rubin Statham,Min Kyu Song,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R32,305,505,1,2,,Jose Rubin Statham,Jung Woong Na,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Busan CH,3,Hard,R32,309,401,0,Q,Q,Dane Propoggia,Jose Rubin Statham,3-6 6-4 7-6(10),1.05,11.3%,3.1%,64.9%,71.4%,47.1%,1/5,50.5%,39.0%,7.6%,29.0%,53.5%,5/12,202,11,3,97,63,34,8,2:27
+29-Apr-2013,An-Ning CH,3,Clay,R16,316,163,0,,3,Ze Zhang,Jose Rubin Statham,6-7(5) 6-4 7-5,0.78,7.5%,5.7%,60.4%,75.0%,47.6%,4/8,47.2%,28.0%,12.9%,17.2%,51.7%,2/5,199,8,6,106,64,42,12,2:19
+29-Apr-2013,An-Ning CH,3,Clay,R32,316,577,1,,,Jose Rubin Statham,Toshihide Matsui,6-3 6-0,3.52,0.0%,0.0%,72.7%,91.7%,66.7%,0/0,66.7%,53.3%,4.4%,41.9%,78.6%,5/7,78,0,0,33,24,9,2,0:53
+22-Apr-2013,China F3,3,Hard,R16,305,399,0,4,,Zhe Li,Jose Rubin Statham,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,China F3,3,Hard,R32,305,1837,1,4,Q,Jose Rubin Statham,He Feng,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Australia F5,3,Clay,SF,289,417,0,2,3,Jason Kubler,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Australia F5,3,Clay,QF,289,865,1,2,8,Jose Rubin Statham,Gavin Van Peperzeel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Australia F5,3,Clay,R16,289,1240,1,2,,Jose Rubin Statham,Aaron Leeder Chard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Australia F5,3,Clay,R32,289,1062,1,2,,Jose Rubin Statham,Jacob Grills,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Australia F4,3,Hard,SF,289,743,0,1,6,Colin Ebelthite,Jose Rubin Statham,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Australia F4,3,Hard,QF,289,457,1,1,5,Jose Rubin Statham,Artem Sitak,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Australia F4,3,Hard,R16,289,1898,1,1,Q,Jose Rubin Statham,Marious Zelba,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Australia F4,3,Hard,R32,289,1472,1,1,,Jose Rubin Statham,Daniel Ferretti,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Kyoto CH,3,Carpet,R32,290,224,0,,,James Duckworth,Jose Rubin Statham,6-4 4-6 6-3,0.93,8.4%,1.2%,65.1%,74.1%,37.9%,5/8,46.9%,36.0%,11.7%,31.3%,42.6%,2/12,194,7,1,83,54,29,13,1:46
+25-Feb-2013,Sydney1 CH,3,Hard,R32,279,179,0,,4,Peter Polansky,Jose Rubin Statham,7-5 6-1,0.67,5.8%,4.3%,71.0%,55.1%,40.0%,7/11,42.1%,32.8%,12.5%,19.4%,50.0%,1/7,133,4,3,69,49,20,8,1:22
+11-Feb-2013,Australia F1,3,Hard,R16,284,576,0,7,SE,Nick Kyrgios,Jose Rubin Statham,6-7(7) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Australia F1,3,Hard,R32,284,404,1,7,Q,Jose Rubin Statham,Ivo Klec,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Feb-2013,West Lakes CH,3,Hard,R16,290,246,0,,5,Samuel Groth,Jose Rubin Statham,6-3 6-7(5) 6-3,0.78,2.3%,2.3%,64.8%,68.4%,67.7%,6/8,45.4%,24.7%,21.6%,17.7%,37.1%,0/5,185,2,2,88,57,31,21,1:54
+4-Feb-2013,West Lakes CH,3,Hard,R32,290,302,1,,,Jose Rubin Statham,Luca Vanni,6-3 6-2,2.76,2.6%,0.0%,63.2%,95.8%,64.3%,0/0,60.2%,43.6%,9.1%,31.0%,57.7%,4/6,93,1,0,38,24,14,5,0:58
+28-Jan-2013,Burnie CH,3,Hard,SF,340,183,0,,3,John Millman,Jose Rubin Statham,6-3 6-2,0.53,0.0%,2.3%,68.2%,53.3%,50.0%,3/7,38.5%,25.5%,6.4%,22.6%,31.3%,1/4,91,0,1,44,30,14,3,1:02
+28-Jan-2013,Burnie CH,3,Hard,QF,340,787,1,,WC,Jose Rubin Statham,Andrew Whittington,6-7(5) 7-5 6-1,1.44,1.0%,1.0%,60.6%,76.7%,61.5%,7/8,55.3%,42.2%,4.3%,32.8%,55.1%,4/16,215,1,1,99,60,39,5,2:29
+28-Jan-2013,Burnie CH,3,Hard,R16,340,312,1,,,Jose Rubin Statham,Greg Jones,6-4 7-6(4),0.89,3.8%,2.5%,83.8%,73.1%,53.8%,2/2,50.7%,26.6%,14.1%,20.0%,37.5%,1/2,144,3,2,80,67,13,9,1:31
+28-Jan-2013,Burnie CH,3,Hard,R32,340,413,1,,,Jose Rubin Statham,Dane Propoggia,4-6 7-6(4) 6-4,1.12,7.0%,1.0%,74.0%,78.4%,42.3%,4/6,51.7%,34.7%,7.9%,21.8%,50.0%,2/3,201,7,1,100,74,26,8,2:04
+31-Dec-2012,Noumea CH,3,Hard,R16,362,192,0,WC,7,Adrian Mannarino,Jose Rubin Statham,7-5 6-2,0.54,1.5%,1.5%,70.8%,63.0%,42.1%,3/6,41.9%,23.1%,15.4%,13.8%,34.8%,0/0,117,1,1,65,46,19,8,1:19
+31-Dec-2012,Noumea CH,3,Hard,R32,362,413,1,WC,,Jose Rubin Statham,Ivo Klec,2-6 7-6(6) 7-6(6),0.93,3.6%,3.6%,73.0%,63.0%,60.0%,6/10,48.2%,35.0%,5.1%,33.7%,38.2%,2/10,228,4,4,111,81,30,6,2:28
+29-Oct-2012,Australia F12,3,Hard,R32,326,856,0,4,,Thanasi Kokkinakis,Jose Rubin Statham,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,QF,322,375,0,3,7,Luke Saville,Jose Rubin Statham,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,R16,322,1151,1,3,WC,Jose Rubin Statham,Jacob Grills,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Australia F11,3,Hard,R32,322,,1,3,WC,Jose Rubin Statham,Daniel Guccione,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Japan F8,3,Hard,R32,321,669,0,2,,Jung Woong Na,Jose Rubin Statham,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Vietnam F5,3,Hard,QF,325,477,0,1,6,Vijayant Malik,Jose Rubin Statham,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Vietnam F5,3,Hard,R16,325,1295,1,1,Q,Jose Rubin Statham,Jae Sung An,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Vietnam F5,3,Hard,R32,325,592,1,1,,Jose Rubin Statham,Yong Kyu Lim,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2012,Davis Cup G1 PO: IND vs NZL,3,Hard,RR,317,262,0,,,Vishnu Vardhan,Jose Rubin Statham,6-2 6-7(2) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2012,Davis Cup G1 PO: IND vs NZL,3,Hard,RR,317,179,0,,,Yuki Bhambri,Jose Rubin Statham,2-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Sep-2012,Shanghai CH,3,Hard,R16,334,64,0,Q,1,Yen Hsun Lu,Jose Rubin Statham,7-5 6-1,0.31,5.6%,5.6%,64.8%,67.4%,40.0%,4/7,40.2%,13.0%,17.4%,10.7%,16.7%,0/0,117,4,4,71,46,25,8,1:18
+3-Sep-2012,Shanghai CH,3,Hard,R32,334,213,1,Q,,Jose Rubin Statham,Tsung Hua Yang,3-6 7-6(6) 7-6(5),0.83,5.1%,0.9%,64.1%,73.3%,50.0%,4/6,48.0%,29.2%,9.4%,17.5%,46.5%,1/3,223,6,1,117,75,42,10,2:41
+27-Aug-2012,Bangkok CH,3,Hard,R32,334,532,0,,Q,Suk Young Jeong,Jose Rubin Statham,6-2 6-4,0.67,11.7%,5.0%,58.3%,57.1%,32.0%,0/5,41.4%,35.7%,3.6%,31.7%,46.7%,2/8,116,7,3,60,35,25,2,1:33
+13-Aug-2012,Germany F14,3,Clay,QF,324,652,0,3,,Marko Lenz,Jose Rubin Statham,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Germany F14,3,Clay,R16,324,994,1,3,Q,Jose Rubin Statham,Giorgio Portaluri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Germany F14,3,Clay,R32,324,697,1,3,,Jose Rubin Statham,Miguel Angel Reyes Varela,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Germany F13,3,Clay,QF,333,701,0,2,,Bastian Trinker,Jose Rubin Statham,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Germany F13,3,Clay,R16,333,863,1,2,WC,Jose Rubin Statham,Matthias Wunner,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Germany F13,3,Clay,R32,333,1224,1,2,Q,Jose Rubin Statham,Pascal Meis,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,F,337,690,0,2,,Nicolas Reissig,Jose Rubin Statham,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,SF,337,447,1,2,4,Jose Rubin Statham,Christian Lindell,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,QF,337,469,1,2,5,Jose Rubin Statham,Mate Pavic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,R16,337,616,1,2,,Jose Rubin Statham,Mikhail Vasiliev,6-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Austria F4,3,Clay,R32,337,849,1,2,,Jose Rubin Statham,Francesco Borgo,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,France F13,3,Clay,QF,343,391,0,2,7,Nicolas Renavand,Jose Rubin Statham,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,France F13,3,Clay,R16,343,1778,1,2,Q,Jose Rubin Statham,Maxime Chazal,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,France F13,3,Clay,R32,343,599,1,2,,Jose Rubin Statham,Francois Arthur Vibert,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Germany F8,3,Clay,R16,346,661,0,8,WC,Robin Kern,Jose Rubin Statham,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Germany F8,3,Clay,R32,346,1040,1,8,PR,Jose Rubin Statham,Bruno Rodriguez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Italy F14,3,Clay,R16,364,494,0,8,,Petru Alexandru Luncanu,Jose Rubin Statham,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Italy F14,3,Clay,R32,364,537,1,8,,Jose Rubin Statham,Morgan Phillips,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,F,365,,1,6,Q,Jose Rubin Statham,Jeremy Jahn,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,SF,365,243,1,6,1,Jose Rubin Statham,Dominik Meffert,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,QF,365,1210,1,6,WC,Jose Rubin Statham,Alexander Ritschard,5-7 6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,R16,365,719,1,6,,Jose Rubin Statham,N Vijay Sundar Prashanth,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,R32,365,1898,1,6,LL,Jose Rubin Statham,Romain Sichez,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Thailand F3,3,Hard,R16,410,1329,0,2,Q,Nathaniel Gorham,Jose Rubin Statham,3-3 RET,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Thailand F3,3,Hard,R32,410,843,1,2,,Jose Rubin Statham,Peerakiat Siriluethaiwattana,6-4 6-7(5) 7-6(9),,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Thailand F2,3,Hard,F,417,386,1,3,1,Jose Rubin Statham,Christopher Rungkat,7-6(10) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Thailand F2,3,Hard,SF,417,651,1,3,9,Jose Rubin Statham,Abdullah Maqdas,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Thailand F2,3,Hard,QF,417,741,1,3,,Jose Rubin Statham,Luke Saville,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Thailand F2,3,Hard,R16,417,785,1,3,,Jose Rubin Statham,Bumpei Sato,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Thailand F2,3,Hard,R32,417,758,1,3,,Jose Rubin Statham,Bowen Ouyang,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Thailand F1,3,Hard,R16,416,575,0,3,,Nick Lindahl,Jose Rubin Statham,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Thailand F1,3,Hard,R32,416,1320,1,3,Q,Jose Rubin Statham,Nathaniel Gorham,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Vietnam F3,3,Hard,SF,435,707,0,3,,Kevin Botti,Jose Rubin Statham,W/O,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Vietnam F3,3,Hard,QF,435,586,1,3,,Jose Rubin Statham,Nick Lindahl,6-2 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Vietnam F3,3,Hard,R16,435,1051,1,3,WC,Jose Rubin Statham,David Agung Susanto,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Vietnam F3,3,Hard,R32,435,842,1,3,,Jose Rubin Statham,Peerakiat Siriluethaiwattana,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Vietnam F2,3,Hard,QF,479,629,0,3,8,Shuichi Sekiguchi,Jose Rubin Statham,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Vietnam F2,3,Hard,R16,479,702,1,3,,Jose Rubin Statham,Kevin Botti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,Vietnam F2,3,Hard,R32,479,1192,1,3,Q,Jose Rubin Statham,Kenny Bun,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Vietnam F1,3,Hard,F,490,646,1,2,5,Jose Rubin Statham,Nick Lindahl,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Vietnam F1,3,Hard,SF,490,1320,1,2,Q,Jose Rubin Statham,Daniel Geib,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Vietnam F1,3,Hard,QF,490,999,1,2,,Jose Rubin Statham,Kelsey Stevenson,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Vietnam F1,3,Hard,R16,490,970,1,2,,Jose Rubin Statham,Marcus Weiglhofer,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Vietnam F1,3,Hard,R32,490,1717,1,2,Q,Jose Rubin Statham,Ronald Slobodchikov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Australia F4,3,Clay,QF,518,348,0,7,1,James Lemke,Jose Rubin Statham,3-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Australia F4,3,Clay,R16,518,1423,1,7,Q,Jose Rubin Statham,Rhys Michael Johnson,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Australia F4,3,Clay,R32,518,1502,1,7,Q,Jose Rubin Statham,Jonathon Cooper,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Australia F3,3,Clay,SF,518,394,0,7,5,Samuel Groth,Jose Rubin Statham,6-3 5-7 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Australia F3,3,Clay,QF,518,661,1,7,,Jose Rubin Statham,Dane Propoggia,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Australia F3,3,Clay,R16,518,,1,7,,Jose Rubin Statham,Dayne Kelly,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Australia F3,3,Clay,R32,518,830,1,7,,Jose Rubin Statham,Alex Bolt,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Singapore CH,3,Hard,R16,555,216,0,Q,8,Amir Weintraub,Jose Rubin Statham,6-3 6-2,0.65,13.5%,0.0%,48.1%,68.0%,44.4%,2/5,41.4%,28.8%,6.8%,20.0%,47.4%,0/1,111,7,0,52,25,27,4,1:19
+27-Feb-2012,Singapore CH,3,Hard,R32,555,299,1,Q,,Jose Rubin Statham,Riccardo Ghedin,7-6(5) 6-3,1.33,6.8%,2.7%,63.0%,67.4%,63.0%,1/3,55.9%,45.7%,8.6%,35.0%,60.0%,3/8,143,5,2,73,46,27,6,1:56
+13-Feb-2012,Australia F1,3,Hard,R16,553,269,0,,1,Erik Chvojka,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Australia F1,3,Hard,R32,553,,1,,WC,Jose Rubin Statham,Nick Kyrgios,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2012,Davis Cup G1 R1: NZL vs UZB,3,Hard,RR,554,58,0,,,Denis Istomin,Jose Rubin Statham,6-1 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,Burnie CH,3,Hard,R32,554,57,0,LL,1,Denis Istomin,Jose Rubin Statham,6-4 6-3,0.69,3.7%,1.9%,63.0%,70.6%,60.0%,3/5,45.3%,23.1%,9.6%,15.2%,36.8%,0/0,106,2,1,54,34,20,5,1:04
+9-Jan-2012,Auckland,3,Hard,Q1,535,125,0,,,Rik De Voest,Jose Rubin Statham,7-5 6-2,0.67,8.2%,1.6%,68.9%,57.1%,36.8%,3/8,42.0%,32.8%,1.7%,21.6%,52.4%,2/3,119,5,1,61,42,19,1,1:15
+21-Nov-2011,Australia F13,3,Hard,QF,529,250,0,8,1,Benjamin Mitchell,Jose Rubin Statham,4-6 6-2 7-6(11),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,R16,529,576,1,8,,Jose Rubin Statham,John Peers,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Australia F13,3,Hard,R32,529,1310,1,8,Q,Jose Rubin Statham,Ryan Agar,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,R16,533,427,0,,8,Michael Venus,Jose Rubin Statham,4-6 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2011,Australia F12,3,Hard,R32,533,720,1,,,Jose Rubin Statham,Marcus Daniell,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Australia F11,3,Hard,SF,600,394,0,7,3,Michael Look,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Australia F11,3,Hard,QF,600,1857,1,7,,Jose Rubin Statham,Yuri Bezeruk,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Australia F11,3,Hard,R16,600,1429,1,7,,Jose Rubin Statham,Scott Puodziunas,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Australia F11,3,Hard,R32,600,1634,1,7,WC,Jose Rubin Statham,Christopher Oconnell,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Australia F10,3,Hard,SF,607,338,0,,2,Hiroki Moriya,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Australia F10,3,Hard,QF,607,,1,,LL,Jose Rubin Statham,Andrew Mcleod,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Australia F10,3,Hard,R16,607,1061,1,,,Jose Rubin Statham,Toby Martin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Australia F10,3,Hard,R32,607,536,1,,7,Jose Rubin Statham,Kento Takeuchi,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2011,Australia F9,3,Hard,R32,617,402,0,,5,Michael Look,Jose Rubin Statham,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,QF,604,305,0,6,1,Benjamin Mitchell,Jose Rubin Statham,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,R16,604,1115,1,6,,Jose Rubin Statham,Toby Martin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Australia F8,3,Hard,R32,604,1110,1,6,,Jose Rubin Statham,Nicolas Meister,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Bangkok,3,Hard,Q2,589,126,0,,2,Go Soeda,Jose Rubin Statham,6-1 7-5,0.47,6.0%,0.0%,64.2%,58.1%,58.3%,2/5,41.5%,19.6%,5.9%,22.9%,12.5%,0/0,118,4,0,67,43,24,3,1:20
+26-Sep-2011,Bangkok,3,Hard,Q1,589,,1,,,Jose Rubin Statham,Ashley Fisher,6-2 6-2,2.11,11.9%,2.4%,88.1%,73.0%,80.0%,2/3,64.0%,55.3%,0.0%,50.0%,85.7%,5/7,89,5,1,42,37,5,0,0:54
+12-Sep-2011,Ningbo CH,3,Hard,R16,614,195,0,Q,5,Jurgen Zopp,Jose Rubin Statham,6-4 6-2,0.59,4.4%,2.9%,57.4%,59.0%,44.8%,5/9,42.6%,27.7%,19.1%,20.0%,41.2%,1/2,115,3,2,68,39,29,9,1:32
+12-Sep-2011,Ningbo CH,3,Hard,R32,614,215,1,Q,,Jose Rubin Statham,Jan Hernych,6-2 6-4,1.53,8.2%,1.6%,59.0%,75.0%,56.0%,2/3,58.7%,50.0%,6.7%,42.9%,66.7%,4/6,121,5,1,61,36,25,4,1:28
+15-Aug-2011,Italy F23,3,Clay,SF,591,352,0,,5,Daniele Giorgini,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Italy F23,3,Clay,QF,591,385,1,,,Jose Rubin Statham,Matt Reid,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Italy F23,3,Clay,R16,591,339,1,,8,Jose Rubin Statham,Thomas Fabbiano,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Italy F23,3,Clay,R32,591,653,1,,WC,Jose Rubin Statham,Edoardo Eremin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Italy F22,3,Clay,R16,590,218,0,,3,Andres Molteni,Jose Rubin Statham,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Italy F22,3,Clay,R32,590,483,1,,,Jose Rubin Statham,Razvan Sabau,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Italy F20,3,Clay,R32,556,347,0,,4,Matteo Marrai,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2011,Davis Cup G1 PO: NZL vs PHI,3,Hard,RR,556,830,1,,,Jose Rubin Statham,Ruben Gonzales,6-4 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Italy F13,3,Clay,R32,510,279,0,,4,Alberto Brizzi,Jose Rubin Statham,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,QF,512,447,0,8,3,Erik Chvojka,Jose Rubin Statham,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,R16,512,1262,1,8,Q,Jose Rubin Statham,Jonathon Cooper,6-4 6-7(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Australia F4,3,Clay,R32,512,,1,8,Q,Jose Rubin Statham,Steven De Waard,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Australia F3,3,Clay,R16,515,1182,0,,Q,Leon Frost,Jose Rubin Statham,1-6 5-5 RET,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Australia F3,3,Clay,R32,515,446,1,,7,Jose Rubin Statham,Matt Reid,7-5 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2011,Davis Cup G1 R1: UZB vs NZL,3,Clay,RR,496,54,0,,,Denis Istomin,Jose Rubin Statham,6-2 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2011,Auckland,3,Hard,Q3,453,71,0,WC,3,Pere Riba,Jose Rubin Statham,4-6 6-4 6-3,0.76,3.4%,2.3%,64.8%,70.2%,51.6%,4/6,46.2%,27.7%,8.4%,23.9%,32.4%,1/3,171,3,2,88,57,31,7,1:49
+10-Jan-2011,Auckland,3,Hard,Q2,453,116,1,WC,7,Jose Rubin Statham,Ryan Sweeting,3-6 5-2 RET,1.33,14.3%,0.0%,78.6%,63.6%,77.8%,1/3,54.3%,44.2%,3.8%,47.4%,35.7%,2/3,94,6,0,42,33,9,2,0:52
+10-Jan-2011,Auckland,3,Hard,Q1,453,266,1,WC,,Jose Rubin Statham,Matwe Middelkoop,6-7(3) 7-5 6-3,1.32,5.4%,1.1%,63.4%,69.5%,61.8%,5/8,53.7%,43.9%,3.3%,39.8%,52.5%,6/14,216,5,1,93,59,34,4,2:17
+29-Nov-2010,Australia F13,3,Hard,R16,448,761,0,,WC,Benjamin Mitchell,Jose Rubin Statham,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2010,Australia F13,3,Hard,R32,448,331,1,,7,Jose Rubin Statham,Michael Venus,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Australia F12,3,Hard,R16,454,312,0,,2,Amir Weintraub,Jose Rubin Statham,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Australia F12,3,Hard,R32,454,964,1,,Q,Jose Rubin Statham,Burnham Arlidge,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,QF,440,310,0,8,2,Sebastian Rieschick,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,R16,440,,1,8,Q,Jose Rubin Statham,Joey Swaysland,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,New Zealand F1,3,Hard,R32,440,,1,8,Q,Jose Rubin Statham,Gilles De Gouy,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Australia F9,3,Hard,R16,353,1247,0,4,Q,Isaac Frost,Jose Rubin Statham,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Australia F9,3,Hard,R32,353,1390,1,4,Q,Jose Rubin Statham,Scott Robertson,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,China F8,3,Hard,QF,348,513,0,1,5,Zhe Li,Jose Rubin Statham,6-3 7-6(10),,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,China F8,3,Hard,R16,348,1070,1,1,Q,Jose Rubin Statham,Bowen Ouyang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,China F8,3,Hard,R32,348,994,1,1,,Jose Rubin Statham,Xin Yuan Yu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,China F7,3,Hard,QF,350,742,0,1,7,Yan Bai,Jose Rubin Statham,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,China F7,3,Hard,R16,350,,1,1,Q,Jose Rubin Statham,Sang Woo Noh,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,China F7,3,Hard,R32,350,1726,1,1,WC,Jose Rubin Statham,Chuan Jiang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2010,Davis Cup G2 R3: THA vs NZL,3,Hard,RR,348,543,1,,,Jose Rubin Statham,Kittipong Wachiramanowong,4-6 7-6(5) 6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+17-Sep-2010,Davis Cup G2 R3: THA vs NZL,3,Hard,RR,348,1417,1,,,Jose Rubin Statham,Sanchai Ratiwatana,6-1 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,QF,351,1397,0,3,Q,Michael Look,Jose Rubin Statham,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,R16,351,,1,3,WC,Jose Rubin Statham,Sean Berman,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,R32,351,796,1,3,,Jose Rubin Statham,Brendan Moore,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2010,Astana CH,3,Hard,R16,370,230,0,,4,Marek Semjan,Jose Rubin Statham,7-6(0) 6-4,0.62,6.0%,3.0%,76.1%,66.7%,50.0%,3/5,43.8%,23.0%,19.7%,16.7%,36.8%,1/1,128,4,2,67,51,16,12,1:23
+23-Aug-2010,Astana CH,3,Hard,R32,370,681,1,,LL,Jose Rubin Statham,Gilad Ben Zvi,6-0 6-0,6.75,14.8%,3.7%,81.5%,90.9%,80.0%,0/0,81.4%,75.0%,6.3%,70.0%,83.3%,6/9,59,4,1,27,22,5,2,0:42
+16-Aug-2010,Karshi CH,3,Hard,R16,384,318,0,,7,Jan Minar,Jose Rubin Statham,6-3 2-6 6-4,1.25,11.6%,1.4%,69.6%,72.9%,66.7%,1/3,50.6%,36.4%,3.0%,27.7%,52.9%,2/13,168,8,1,69,48,21,3,2:00
+16-Aug-2010,Karshi CH,3,Hard,R32,384,398,1,,,Jose Rubin Statham,Laurynas Grigelis,6-3 6-4,1.41,10.2%,3.4%,64.4%,73.7%,38.1%,1/3,57.9%,54.8%,4.8%,37.0%,68.6%,5/7,121,6,2,59,38,21,3,1:29
+9-Aug-2010,Samarkand CH,3,Clay,R32,383,337,0,,,Valery Rudnev,Jose Rubin Statham,7-5 7-5,0.88,4.1%,4.1%,60.8%,62.2%,34.5%,4/9,46.7%,42.9%,5.5%,33.3%,55.0%,3/10,165,3,3,74,45,29,5,2:04
+2-Aug-2010,Beijing CH,3,Hard,R16,394,159,0,,1,Conor Niland,Jose Rubin Statham,6-4 6-1,0.53,0.0%,2.1%,55.3%,42.3%,57.1%,4/8,37.9%,27.1%,4.2%,28.1%,25.0%,1/2,95,0,1,47,26,21,2,1:09
+2-Aug-2010,Beijing CH,3,Hard,R32,394,417,1,,,Jose Rubin Statham,Hiroki Moriya,6-3 6-4,1.34,5.3%,1.8%,80.7%,76.1%,27.3%,4/6,55.8%,44.6%,1.8%,34.2%,66.7%,4/6,113,3,1,57,46,11,1,1:19
+9-Jul-2010,Davis Cup G2 R2: NZL vs PAK,3,Hard,RR,390,1443,1,,,Jose Rubin Statham,Aqeel Khan,6-4 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2010,Davis Cup G2 R2: NZL vs PAK,3,Hard,RR,390,1057,1,,,Jose Rubin Statham,Aisam Ul Haq Qureshi,6-2 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,USA F15,3,Hard,R32,410,655,0,4,Q,Dimitar Kutrovsky,Jose Rubin Statham,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,SF,413,654,0,2,,Fritz Wolmarans,Jose Rubin Statham,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,QF,413,530,1,2,7,Jose Rubin Statham,Michael Venus,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,R16,413,,1,2,Q,Jose Rubin Statham,Henrique Cunha,2-6 7-6(5) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,USA F14,3,Hard,R32,413,630,1,2,,Jose Rubin Statham,Daniel Yoo,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,USA F13,3,Hard,R16,391,799,0,3,Q,Dimitar Kutrovsky,Jose Rubin Statham,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,USA F13,3,Hard,R32,391,,1,3,Q,Jose Rubin Statham,Finn Tearney,6-6(1) RET,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Ojai CH,3,Hard,R32,354,122,0,,2,Brian Dabul,Jose Rubin Statham,2-6 7-6(6) 7-6(5),1.12,10.1%,1.8%,67.9%,68.9%,60.0%,6/7,51.5%,38.1%,6.8%,34.7%,43.5%,3/12,227,11,2,109,74,35,8,2:48
+24-May-2010,Carson CH,3,Hard,R32,354,284,0,,,Victor Estrella,Jose Rubin Statham,7-5 1-6 6-4,1.05,2.1%,4.2%,58.9%,69.6%,43.6%,2/6,51.7%,43.0%,3.8%,40.4%,48.1%,4/6,174,2,4,95,56,39,3,1:56
+10-May-2010,Sarasota CH,3,Clay,R32,334,124,0,,6,Ryan Sweeting,Jose Rubin Statham,6-2 6-3,0.51,3.2%,4.8%,58.1%,50.0%,38.5%,4/10,38.6%,28.2%,5.1%,23.3%,44.4%,2/2,101,2,3,62,36,26,2,1:14
+3-May-2010,Savannah CH,3,Clay,R16,305,304,0,,,Joseph Sirianni,Jose Rubin Statham,7-6(5) 6-3,0.92,5.9%,2.9%,57.4%,64.1%,55.2%,2/5,47.6%,36.4%,11.7%,23.9%,54.8%,2/7,145,4,2,68,39,29,9,1:53
+3-May-2010,Savannah CH,3,Clay,R32,305,601,1,,Q,Jose Rubin Statham,Nicholas Monroe,6-3 6-4,1.30,8.2%,5.5%,68.5%,70.0%,43.5%,6/8,56.2%,50.0%,1.6%,38.1%,72.7%,4/6,137,6,4,73,50,23,1,1:50
+12-Apr-2010,Leon CH,3,Hard,R32,303,461,0,,,Michael Ryderstedt,Jose Rubin Statham,6-3 5-7 6-4,1.03,9.5%,6.0%,64.3%,79.6%,46.7%,2/5,49.7%,33.0%,9.9%,21.3%,45.5%,2/8,175,8,5,84,54,30,9,1:58
+5-Apr-2010,Houston,3,Clay,Q2,305,245,0,,,Alex Bogomolov Jr,Jose Rubin Statham,7-5 6-1,0.57,7.1%,3.6%,67.9%,57.9%,38.9%,3/7,39.6%,27.3%,0.0%,21.1%,41.2%,1/3,111,4,2,56,38,18,0,1:23
+5-Apr-2010,Houston,3,Clay,Q1,305,326,1,,,Jose Rubin Statham,Luka Gregorc,7-6(7) 4-3 RET,1.09,6.5%,3.2%,62.9%,56.4%,60.9%,0/3,51.5%,45.7%,2.9%,31.8%,69.2%,3/11,132,4,2,62,39,23,2,1:40
+29-Mar-2010,USA F8,3,Hard,R32,296,1034,0,3,WC,Denis Kudla,Jose Rubin Statham,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Kyoto CH,3,Carpet,R32,297,200,0,,5,Greg Jones,Jose Rubin Statham,6-3 4-6 6-4,0.92,0.0%,3.3%,75.6%,67.6%,50.0%,6/9,48.6%,33.7%,14.6%,22.0%,48.7%,2/7,179,0,3,90,68,22,13,2:00
+5-Mar-2010,Davis Cup G2 R1: SRI vs NZL,3,Clay,RR,297,,1,,,Jose Rubin Statham,Harshana Godamanna,6-4 3-6 4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2010,Davis Cup G2 R1: SRI vs NZL,3,Clay,RR,297,,1,,,Jose Rubin Statham,Rajeev Rajapakse,6-1 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Australia F2,3,Grass,QF,299,239,0,5,2,Matthew Ebden,Jose Rubin Statham,6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Australia F2,3,Grass,R16,299,,1,5,WC,Jose Rubin Statham,Matthew Barton,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,Australia F2,3,Grass,R32,299,,1,5,Q,Jose Rubin Statham,Kyle Stoker,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2010,Australia F1,3,Grass,R16,297,387,0,5,,Sadik Kadir,Jose Rubin Statham,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2010,Australia F1,3,Grass,R32,297,1180,1,5,Q,Jose Rubin Statham,Jake Eames,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2010,Burnie CH,3,Hard,R32,296,155,0,,2,Guillaume Rufin,Jose Rubin Statham,6-3 4-6 6-0,0.79,4.3%,2.9%,62.3%,53.5%,42.3%,1/7,44.0%,40.0%,8.9%,31.4%,51.3%,3/9,159,3,2,69,43,26,8,1:43
+11-Jan-2010,Auckland,3,Hard,R16,332,31,0,WC,8,Albert Montanes,Jose Rubin Statham,7-6(6) 6-2,0.74,7.1%,4.3%,61.4%,72.1%,51.9%,4/6,45.7%,26.5%,1.5%,19.4%,34.4%,0/1,138,5,3,70,43,27,1,1:26
+11-Jan-2010,Auckland,3,Hard,R32,332,263,1,WC,WC,Jose Rubin Statham,Daniel King Turner,6-2 7-5,1.17,1.4%,5.5%,65.8%,68.8%,40.0%,7/9,53.4%,48.0%,13.3%,38.3%,64.3%,5/17,148,1,4,73,48,25,10,1:36
+30-Nov-2009,Australia F11,3,Hard,QF,323,490,0,4,8,James Lemke,Jose Rubin Statham,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2009,Australia F11,3,Hard,R16,323,780,1,4,,Jose Rubin Statham,Dane Propoggia,3-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2009,Australia F11,3,Hard,R32,323,553,1,4,,Jose Rubin Statham,Matt Reid,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Toyota CH,3,Carpet,R32,327,325,0,,,Goran Tosic,Jose Rubin Statham,7-6(4) 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Yokohama CH,3,Hard,R16,297,375,0,,,Tsung Hua Yang,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Yokohama CH,3,Hard,R32,297,242,1,,6,Jose Rubin Statham,Pavol Cervenak,4-6 7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Vietnam F1,3,Hard,F,327,705,1,1,3,Jose Rubin Statham,Amir Weintraub,6-7(4) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Vietnam F1,3,Hard,SF,327,1147,1,1,,Jose Rubin Statham,Chul Hee Lee,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Vietnam F1,3,Hard,QF,327,1004,1,1,,Jose Rubin Statham,Matt Simpson,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Vietnam F1,3,Hard,R16,327,,1,1,Q,Jose Rubin Statham,Thanh Trung Hoang,6-3 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2009,Vietnam F1,3,Hard,R32,327,,1,1,Q,Jose Rubin Statham,Quoc Khanh Le,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Thailand F6,3,Hard,QF,327,763,0,2,,Amir Weintraub,Jose Rubin Statham,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Thailand F6,3,Hard,R16,327,849,1,2,,Jose Rubin Statham,Yaoki Ishii,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Thailand F6,3,Hard,R32,327,1400,1,2,Q,Jose Rubin Statham,Michal Konecny,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Thailand F5,3,Hard,R32,360,764,0,2,,Amir Weintraub,Jose Rubin Statham,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Thailand F4,3,Hard,F,360,652,1,1,6,Jose Rubin Statham,Roman Jebavy,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Thailand F4,3,Hard,SF,360,660,1,1,7,Jose Rubin Statham,Kornel Bardoczky,6-2 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Thailand F4,3,Hard,QF,360,983,1,1,,Jose Rubin Statham,Weerapat Doakmaiklee,6-7(2) 6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Thailand F4,3,Hard,R16,360,874,1,1,,Jose Rubin Statham,Peerakit Siributwong,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Thailand F4,3,Hard,R32,360,1252,1,1,,Jose Rubin Statham,Seong Yoon Chung,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Australia F6,3,Hard,QF,373,645,0,2,8,Jamie Baker,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Australia F6,3,Hard,R16,373,1227,1,2,Q,Jose Rubin Statham,Isaac Frost,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Australia F6,3,Hard,R32,373,891,1,2,Q,Jose Rubin Statham,Krishananth Balakrishnan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2009,Davis Cup G2 R3: PHI vs NZL,3,Clay,RR,363,412,0,,,Cecil Mamiit,Jose Rubin Statham,6-4 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2009,Davis Cup G2 R3: PHI vs NZL,3,Clay,RR,363,,1,,,Jose Rubin Statham,Vicente Elberto Anasta,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Thailand F3,3,Hard,QF,395,737,0,3,Q,Jamie Baker,Jose Rubin Statham,7-6(2) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Thailand F3,3,Hard,R16,395,581,1,3,,Jose Rubin Statham,Chu Huan Yi,7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Thailand F3,3,Hard,R32,395,478,1,3,,Jose Rubin Statham,Yuichi Ito,2-6 7-6(3) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R32,393,272,0,,5,Andis Juska,Jose Rubin Statham,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Karshi CH,3,Hard,R32,394,514,0,,Q,Sadik Kadir,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Samarkand CH,3,Clay,R32,402,193,0,,1,Michail Elgin,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Italy F17,3,Clay,R32,424,909,0,7,Q,Alessandro Accardo,Jose Rubin Statham,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Netherlands F3,3,Clay,R16,424,568,0,7,,Leonardo Azzaro,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Netherlands F3,3,Clay,R32,424,1723,1,7,LL,Jose Rubin Statham,Clifford Enosoregbe,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Netherlands F2,3,Clay,R32,396,1022,0,4,WC,Antal Van Der Duim,Jose Rubin Statham,6-4 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Netherlands F1,3,Clay,R32,423,466,0,,,Ricardas Berankis,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Egypt F8,3,Clay,F,450,468,0,3,4,Karim Maamoun,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Egypt F8,3,Clay,SF,450,423,1,3,2,Jose Rubin Statham,Talal Ouahabi,4-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Egypt F8,3,Clay,QF,450,1014,1,3,,Jose Rubin Statham,Adam El Mihdawy,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Egypt F8,3,Clay,R16,450,1518,1,3,WC,Jose Rubin Statham,Omar Hedayet,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Egypt F8,3,Clay,R32,450,779,1,3,,Jose Rubin Statham,Mohamed Mamoun,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Egypt F7,3,Clay,F,450,438,1,3,2,Jose Rubin Statham,Jean Noel Insausti,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Egypt F7,3,Clay,SF,450,468,1,3,5,Jose Rubin Statham,Karim Maamoun,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Egypt F7,3,Clay,QF,450,779,1,3,,Jose Rubin Statham,Mohamed Mamoun,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Egypt F7,3,Clay,R16,450,833,1,3,,Jose Rubin Statham,Yannick Vandenbulcke,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Egypt F7,3,Clay,R32,450,1464,1,3,Q,Jose Rubin Statham,Ronak Manuja,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,F,558,401,0,6,4,Greg Jones,Jose Rubin Statham,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,SF,558,383,1,6,3,Jose Rubin Statham,Adam Feeney,3-6 6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,QF,558,1156,1,6,,Jose Rubin Statham,Andrew Thomas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,R16,558,1142,1,6,,Jose Rubin Statham,Robert Phillips Pd13,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Australia F4,3,Clay,R32,558,876,1,6,,Jose Rubin Statham,Dane Propoggia,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,F,558,407,1,5,4,Jose Rubin Statham,Greg Jones,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,SF,558,387,1,5,3,Jose Rubin Statham,Adam Feeney,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,QF,558,307,1,5,1,Jose Rubin Statham,Colin Ebelthite,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,R16,558,972,1,5,,Jose Rubin Statham,Mark Mccook,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Australia F3,3,Clay,R32,558,875,1,5,,Jose Rubin Statham,Dane Propoggia,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Houston,3,Clay,Q1,440,603,0,,,Gustavo Marcaccio,Jose Rubin Statham,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,New Zealand F3,3,Hard,QF,440,387,0,7,3,Adam Feeney,Jose Rubin Statham,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,New Zealand F3,3,Hard,R16,440,632,1,7,,Jose Rubin Statham,Yuichi Ito,3-6 6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,New Zealand F3,3,Hard,R32,440,821,1,7,WC,Jose Rubin Statham,Adam Thompson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,New Zealand F2,3,Hard,QF,433,333,0,8,2,Tatsuma Ito,Jose Rubin Statham,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,New Zealand F2,3,Hard,R16,433,677,1,8,,Jose Rubin Statham,Haydn Lewis,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,New Zealand F2,3,Hard,R32,433,,1,8,,Jose Rubin Statham,Gd Jones,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,New Zealand F1,3,Hard,QF,433,406,0,5,4,Artem Sitak,Jose Rubin Statham,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,New Zealand F1,3,Hard,R16,433,1796,1,5,Q,Jose Rubin Statham,Krishananth Balakrishnan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,New Zealand F1,3,Hard,R32,433,806,1,5,,Jose Rubin Statham,Marcus Daniell,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2009,Davis Cup G2 R1: NZL vs MAS,3,Hard,RR,425,,1,,,Jose Rubin Statham,Razlan Rawi,6-1 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Melbourne CH,3,Hard,R32,418,361,0,,,Junn Mitsuhashi,Jose Rubin Statham,7-6(2) 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Australia F2,3,Grass,R32,418,591,0,,,Shao Xuan Zeng,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Australia F1,3,Grass,R16,417,194,0,,1,Brydan Klein,Jose Rubin Statham,6-3 6-7(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Australia F1,3,Grass,R32,417,373,1,,,Jose Rubin Statham,Adam Feeney,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Burnie CH,3,Hard,R32,417,327,0,,,Nick Lindahl,Jose Rubin Statham,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Auckland,3,Hard,R32,413,47,0,WC,,Robby Ginepri,Jose Rubin Statham,6-2 6-3,0.71,6.6%,5.3%,61.8%,59.6%,37.9%,11/15,44.3%,34.5%,1.8%,30.3%,40.9%,1/5,131,5,4,76,47,29,1,1:13
+1-Dec-2008,Australia F12,3,Hard,QF,418,335,0,,5,Marinko Matosevic,Jose Rubin Statham,3-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2008,Australia F12,3,Hard,R16,418,830,1,,,Jose Rubin Statham,Marcus Daniell,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2008,Australia F12,3,Hard,R32,418,304,1,,4,Jose Rubin Statham,Matthew Ebden,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2008,Australia F11,3,Hard,R32,415,1143,0,6,WC,Jarryd Maher,Jose Rubin Statham,6-1 7-6(0),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Malaysia F2,3,Hard,F,457,422,0,6,5,Kyu Tae Im,Jose Rubin Statham,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Malaysia F2,3,Hard,SF,457,466,1,6,7,Jose Rubin Statham,Nathan Thompson,7-5 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Malaysia F2,3,Hard,QF,457,563,1,6,,Jose Rubin Statham,Mao Xin Gong,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Malaysia F2,3,Hard,R16,457,1377,1,6,SE,Jose Rubin Statham,Sa Chen,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Malaysia F2,3,Hard,R32,457,878,1,6,,Jose Rubin Statham,Mikal Oliver Statham,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Malaysia F1,3,Hard,R16,459,598,0,5,,Andrei Karatchenia,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Malaysia F1,3,Hard,R32,459,1465,1,5,WC,Jose Rubin Statham,Christopher Rungkat,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Australia F10,3,Hard,R32,461,770,0,5,,Brendan Mckenzie,Jose Rubin Statham,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup G2 F: NZL vs CHN,3,Hard,RR,460,492,1,,,Jose Rubin Statham,Yan Bai,4-6 6-3 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Australia F5,3,Hard,QF,452,274,0,8,2,Nick Lindahl,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Australia F5,3,Hard,R16,452,692,1,8,,Jose Rubin Statham,Jurek Stasiak,6-2 5-2 DEF,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Australia F5,3,Hard,R32,452,888,1,8,,Jose Rubin Statham,Dayne Kelly,7-6(11) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,New Delhi IV CH,3,Hard,R32,417,289,0,,5,Miles Armstrong,Jose Rubin Statham,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,New Delhi III CH,3,Hard,R16,442,171,0,,1,Danai Udomchoke,Jose Rubin Statham,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,New Delhi III CH,3,Hard,R32,442,407,1,,,Jose Rubin Statham,James Ward,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Moncton CH,3,Hard,R32,436,245,0,,4,Nick Lindahl,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,USA F13,3,Hard,R16,448,490,0,,,Peng Sun,Jose Rubin Statham,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,USA F13,3,Hard,R32,448,298,1,,5,Jose Rubin Statham,Victor Estrella,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,USA F12,3,Hard,SF,451,298,0,,3,Victor Estrella,Jose Rubin Statham,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,USA F12,3,Hard,QF,451,234,1,,1,Jose Rubin Statham,Carsten Ball,6-7(5) 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,USA F12,3,Hard,R16,451,,1,,LL,Jose Rubin Statham,Gd Jones,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,USA F12,3,Hard,R32,451,701,1,,Q,Jose Rubin Statham,Phillip Simmonds,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Carson CH,3,Hard,R32,463,359,0,Q,,Phillip King,Jose Rubin Statham,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,USA F11,3,Clay,R16,456,1119,0,1,Q,Joel Kielbowicz,Jose Rubin Statham,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,USA F11,3,Clay,R32,456,1100,1,1,,Jose Rubin Statham,Rupesh Roy,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,USA F10,3,Clay,QF,428,730,0,2,,Marcus Fugate,Jose Rubin Statham,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-May-2008,USA F10,3,Clay,R16,428,1485,1,2,Q,Jose Rubin Statham,Denis Zivkovic,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-May-2008,USA F10,3,Clay,R32,428,911,1,2,Q,Jose Rubin Statham,Vahid Mirzadeh,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,SF,534,92,0,LL,2,Bobby Reynolds,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,QF,534,329,1,LL,,Jose Rubin Statham,Andis Juska,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,R16,534,222,1,LL,,Jose Rubin Statham,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,R32,534,226,1,LL,,Jose Rubin Statham,Catalin Gard,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2008,Davis Cup G2 R2: KUW vs NZL,3,Hard,RR,534,407,1,,,Jose Rubin Statham,Mohammad Ghareeb,6-3 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2008,Davis Cup G2 R2: KUW vs NZL,3,Hard,RR,534,1722,1,,,Jose Rubin Statham,Ahmad Rabeea Muhammad,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Australia F4,3,Hard,QF,,,0,,2,Colin Ebelthite,Jose Rubin Statham,6-7(7) 7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Australia F4,3,Hard,R16,,,1,,,Jose Rubin Statham,Marinko Matosevic,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,Australia F4,3,Hard,R32,,1502,1,,WC,Jose Rubin Statham,John Millman,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,New Zealand F2,3,Hard,QF,550,319,0,8,3,Andrew Coelho,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,New Zealand F2,3,Hard,R16,550,,1,8,WC,Jose Rubin Statham,Finn Tearney,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2008,New Zealand F2,3,Hard,R32,550,,1,8,,Jose Rubin Statham,Matt Simpson,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,New Zealand F1,3,Hard,SF,560,317,0,,2,Rameez Junaid,Jose Rubin Statham,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,New Zealand F1,3,Hard,QF,560,337,1,,3,Jose Rubin Statham,Daniel King Turner,4-6 7-6(10) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,New Zealand F1,3,Hard,R16,560,495,1,,7,Jose Rubin Statham,Brydan Klein,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,New Zealand F1,3,Hard,R32,560,1492,1,,WC,Jose Rubin Statham,Marcus Daniell,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,Thailand F2,3,Hard,QF,562,671,0,7,,Sebastian Rieschick,Jose Rubin Statham,7-6(7) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,Thailand F2,3,Hard,R16,562,1185,1,7,Q,Jose Rubin Statham,Adrian Sikora,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,Thailand F2,3,Hard,R32,562,706,1,7,,Jose Rubin Statham,Elbert Sie,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Thailand F1,3,Hard,R32,559,641,0,6,,Yan Bai,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Colombia F2,3,Clay,R32,553,260,0,Q,4,Juan Martin Aranguren,Jose Rubin Statham,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,USA F3,3,Hard,R32,,,0,,4,Ryler Deheart,Jose Rubin Statham,1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,USA F2,3,Hard,R16,557,907,0,6,,Andrey Kumantsov,Jose Rubin Statham,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,USA F2,3,Hard,R32,557,647,1,6,,Jose Rubin Statham,Christopher Lam,6-7(3) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2008,Auckland,3,Hard,R32,557,45,0,WC,8,Albert Montanes,Jose Rubin Statham,6-4 6-4,0.63,11.0%,1.4%,63.0%,78.3%,33.3%,2/4,45.7%,24.1%,11.1%,12.5%,40.9%,0/0,127,8,1,73,46,27,6,1:11
+3-Dec-2007,Burnie2 CH,3,Hard,R32,569,511,0,Q,WC,Miles Armstrong,Jose Rubin Statham,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Caloundra CH,3,Hard,R32,567,356,0,,,Andrew Coelho,Jose Rubin Statham,6-4 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Australia F10,3,Hard,R16,566,386,0,,4,Andrew Coelho,Jose Rubin Statham,3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Australia F10,3,Hard,R32,566,1456,1,,WC,Jose Rubin Statham,Strahinja Bobusic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Australia F9,3,Hard,R32,574,,0,,Q,Callum Beale,Jose Rubin Statham,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Australia F8,3,Hard,R16,579,468,0,,7,Greg Jones,Jose Rubin Statham,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Australia F8,3,Hard,R32,579,,1,,Q,Jose Rubin Statham,Andrew Gregory,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Ecuador F3,3,Clay,QF,,,0,5,1,Juan Sebastian Cabal,Jose Rubin Statham,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Ecuador F3,3,Clay,R16,,,1,5,Q,Jose Rubin Statham,Santiago Villegas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Ecuador F3,3,Clay,R32,,1085,1,5,,Jose Rubin Statham,Bryan Koniecko,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Ecuador F2,3,Hard,SF,652,1085,0,,Q,Bryan Koniecko,Jose Rubin Statham,7-6(5) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Ecuador F2,3,Hard,QF,652,962,1,,Q,Jose Rubin Statham,Adam Thompson,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Ecuador F2,3,Hard,R16,652,574,1,,6,Jose Rubin Statham,Matthew Ebden,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,Ecuador F2,3,Hard,R32,652,896,1,,,Jose Rubin Statham,Cristian Paiz,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Ecuador F1,3,Hard,SF,656,733,0,6,Q,Justin Diao Natale,Jose Rubin Statham,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Ecuador F1,3,Hard,QF,656,662,1,6,,Jose Rubin Statham,Ivan Endara,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Ecuador F1,3,Hard,R16,656,1383,1,6,WC,Jose Rubin Statham,Juan Andres Gomez,6-7(5) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Ecuador F1,3,Hard,R32,656,1383,1,6,Q,Jose Rubin Statham,Danilo Ferraz,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,USA F21,3,Hard,R32,668,629,0,,7,Sunil Kumar Sipaeya,Jose Rubin Statham,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,USA F20,3,Hard,QF,666,367,0,6,1,Ryler Deheart,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,USA F20,3,Hard,R16,666,1061,1,6,Q,Jose Rubin Statham,Yuichi Ito,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,USA F20,3,Hard,R32,666,,1,6,WC,Jose Rubin Statham,Sean Maymi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,Cuenca CH,3,Clay,R32,662,465,0,,,Carlos Avellan,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,USA F17,3,Clay,QF,641,422,0,6,2,Ryler Deheart,Jose Rubin Statham,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,USA F17,3,Clay,R16,641,,1,6,WC,Jose Rubin Statham,Luke Shields,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,USA F17,3,Clay,R32,641,1034,1,6,,Jose Rubin Statham,Marcus Fugate,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,USA F16,3,Clay,R32,,,0,3,WC,Rhyne Williams,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,USA F15,3,Clay,QF,644,770,0,2,7,Robert Yim,Jose Rubin Statham,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,USA F15,3,Clay,R16,644,1387,1,2,PR,Jose Rubin Statham,Chris Kwon,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,USA F15,3,Clay,R32,644,,1,2,Q,Jose Rubin Statham,Rhyne Williams,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,China F3,3,Hard,R32,651,760,0,3,,Cheong Eui Kim,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,China F2,3,Hard,SF,655,897,0,7,SE,Peng Sun,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,China F2,3,Hard,QF,655,638,1,7,4,Jose Rubin Statham,Simon Rea,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-May-2007,China F2,3,Hard,R16,655,861,1,7,,Jose Rubin Statham,Kento Takeuchi,5-7 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,China F2,3,Hard,R32,655,922,1,7,Q,Jose Rubin Statham,David To,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-May-2007,China F1,3,Hard,R16,706,876,0,6,,Peng Sun,Jose Rubin Statham,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,China F1,3,Hard,R32,706,825,1,6,,Jose Rubin Statham,Weerapat Doakmaiklee,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Korea Rep F2,3,Hard,SF,709,551,0,Q,,Hyun Woo Nam,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Korea Rep F2,3,Hard,QF,709,290,1,Q,3,Jose Rubin Statham,Ti Chen,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Korea Rep F2,3,Hard,R16,709,502,1,Q,,Jose Rubin Statham,Lesley Joseph,6-7(6) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Korea Rep F2,3,Hard,R32,709,597,1,Q,,Jose Rubin Statham,Vladislav Bondarenko,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2007,Korea Rep F1,3,Hard,R32,711,225,0,,1,Go Soeda,Jose Rubin Statham,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2007,Davis Cup G2 R2: NZL vs PHI,3,Carpet,RR,749,199,0,,,Cecil Mamiit,Jose Rubin Statham,6-4 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2007,Davis Cup G2 R2: NZL vs PHI,3,Carpet,RR,749,,1,,,Jose Rubin Statham,Johnny Arcilla,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Japan F2,3,Hard,QF,,,0,,2,Ti Chen,Jose Rubin Statham,4-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Japan F2,3,Hard,R16,,,1,,8,Jose Rubin Statham,Tetsuya Chaen,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Japan F2,3,Hard,R32,,1518,1,,Q,Jose Rubin Statham,Dae Dong Lee,6-3 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Japan F1,3,Hard,R16,842,565,0,,2,Xin Yuan Yu,Jose Rubin Statham,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+19-Mar-2007,Japan F1,3,Hard,R32,842,806,1,,,Jose Rubin Statham,Andemir Karanashev,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Australia F3,3,Clay,SF,,,0,,2,Vasilis Mazarakis,Jose Rubin Statham,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Australia F3,3,Clay,QF,,,1,,,Jose Rubin Statham,Myles Blake,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Australia F3,3,Clay,R16,,,1,,4,Jose Rubin Statham,Xavier Audouy,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Australia F3,3,Clay,R32,,,1,,,Jose Rubin Statham,Elbert Sie,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,New Zealand F2,3,Hard,R32,850,971,0,WC,Q,Carsten Ball,Jose Rubin Statham,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2007,New Zealand F1,3,Hard,R32,859,450,0,WC,4,Timo Nieminen,Jose Rubin Statham,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup G2 R1: NZL vs POC,3,Carpet,RR,863,,1,,,Jose Rubin Statham,Juan Sebastian Langton,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2007,Auckland Q,3,Hard,Q2,862,65,0,,2,Guillermo Garcia Lopez,Jose Rubin Statham,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Jan-2007,Auckland Q,3,Hard,Q1,862,215,1,,,Jose Rubin Statham,Pablo Andujar,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Australia F11,3,Hard,R32,861,554,0,,6,Phil Stolt,Jose Rubin Statham,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Australia F10,3,Hard,R16,813,498,0,,5,Andrew Coelho,Jose Rubin Statham,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2006,Australia F10,3,Hard,R32,813,948,1,,Q,Jose Rubin Statham,Matthew Ebden,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2006,Australia F9,3,Hard,R32,807,764,0,,,Andrew Kennaugh,Jose Rubin Statham,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,Australia F8,3,Hard,R32,819,1560,0,,WC,Miles Armstrong,Jose Rubin Statham,6-4 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2006,Italy F28,3,Clay,R32,730,460,0,,2,Giancarlo Petrazzuolo,Jose Rubin Statham,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Italy F27,3,Clay,R32,708,611,0,,,Matteo Galli,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Italy F26,3,Clay,R16,656,866,0,6,,Matteo Viola,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Italy F26,3,Clay,R32,656,1111,1,6,WC,Jose Rubin Statham,Andrea Aloisi,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Italy F24,3,Clay,R32,674,904,0,7,,Marco Gualdi,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Italy F23,3,Clay,R16,688,1537,0,,Q,Sebastien Louis,Jose Rubin Statham,6-2 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Italy F23,3,Clay,R32,688,636,1,,7,Jose Rubin Statham,Massimo Ocera,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Italy F22,3,Clay,QF,725,1017,0,8,,Jose Manuel Garcia Rodriguez,Jose Rubin Statham,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Italy F22,3,Clay,R16,725,756,1,8,,Jose Rubin Statham,Mattia Livraghi,7-6(3) 6-7(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Italy F22,3,Clay,R32,725,1535,1,8,Q,Jose Rubin Statham,Sergei Demekhine,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Italy F21,3,Clay,QF,,,0,,,Stefano Ianni,Jose Rubin Statham,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Italy F21,3,Clay,R16,,1338,1,,WC,Jose Rubin Statham,Marco Viola,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Italy F21,3,Clay,R32,,1286,1,,Q,Jose Rubin Statham,Luca Rovetta,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Italy F20,3,Clay,R16,655,820,0,8,,Andrea Falgheri,Jose Rubin Statham,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Italy F20,3,Clay,R32,655,696,1,8,,Jose Rubin Statham,Matteo Volante,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Italy F19,3,Clay,R32,653,478,0,,,Gero Kretschmer,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Italy F18,3,Clay,R16,661,216,0,,1,Denis Istomin,Jose Rubin Statham,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Italy F18,3,Clay,R32,661,582,1,,,Jose Rubin Statham,Stefano Ianni,7-5 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Italy F17,3,Clay,R16,,,0,,,Sebastian Decoud,Jose Rubin Statham,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Italy F17,3,Clay,R32,,1425,1,,WC,Jose Rubin Statham,Andrea Merati,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Mexico F8,3,Clay,R32,667,,0,8,Q,Israel Morales,Jose Rubin Statham,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Mexico F7,3,Clay,QF,668,,0,7,,Lazaro Navarro Batles,Jose Rubin Statham,6-4 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Mexico F7,3,Clay,R16,668,1511,1,7,Q,Jose Rubin Statham,Sven Swinnen,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Mexico F7,3,Clay,R32,668,1036,1,7,,Jose Rubin Statham,Michael Johnson,6-7(3) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2006,USA F10,3,Clay,R32,669,837,0,,SE,Tim Smyczek,Jose Rubin Statham,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2006,Davis Cup G2 R2: KAZ vs NZL,3,Hard,RR,635,,1,,,Jose Rubin Statham,Igor Chaldounov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2006,Australia F5,3,Clay,R32,,,0,,,Andrew Coelho,Jose Rubin Statham,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Australia F4,3,Clay,R16,639,662,0,,,Nick Lindahl,Jose Rubin Statham,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Australia F4,3,Clay,R32,639,1298,1,,Q,Jose Rubin Statham,Matthew Ebden,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Australia F3,3,Clay,R32,,,0,,,Andrew Coelho,Jose Rubin Statham,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,New Zealand F2,3,Hard,R32,640,661,0,,,Nick Lindahl,Jose Rubin Statham,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,New Zealand F1,3,Hard,R32,637,464,0,,,Sadik Kadir,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2006,Davis Cup G2 R1: NZL vs LIB,3,Hard,RR,631,,1,,,Jose Rubin Statham,Wahib Maknieh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Australia F8,3,Hard,R32,650,343,0,,5,Mark Nielsen,Jose Rubin Statham,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2005,Australia F7,3,Hard,R16,667,902,0,,,Gero Kretschmer,Jose Rubin Statham,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2005,Australia F7,3,Hard,R32,667,411,1,,8,Jose Rubin Statham,Luke Bourgeois,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Australia F6,3,Hard,QF,670,341,0,7,3,Aleksandar Vlaski,Jose Rubin Statham,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Australia F6,3,Hard,R16,670,734,1,7,,Jose Rubin Statham,David To,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2005,Australia F6,3,Hard,R32,670,,1,7,WC,Jose Rubin Statham,Samuel Groth,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2005,Davis Cup G2 F: NZL vs KOR,3,Hard,RR,660,872,1,,,Jose Rubin Statham,Sun Yong Kim Jr,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Germany F13,3,Clay,R32,654,,0,,Q,Bartosz Golas,Jose Rubin Statham,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Germany F12,3,Clay,R32,713,946,0,,PR,Jesse Huta Galung,Jose Rubin Statham,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Italy F26,3,Clay,SF,728,516,0,,,Alberto Brizzi,Jose Rubin Statham,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Italy F26,3,Clay,QF,728,1074,1,,WC,Jose Rubin Statham,Andrea Arnaboldi,6-3 1-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Italy F26,3,Clay,R16,728,663,1,,,Jose Rubin Statham,Federico Torresi,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2005,Italy F26,3,Clay,R32,728,1469,1,,Q,Jose Rubin Statham,Claudio Rizzo,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Italy F25,3,Clay,QF,784,557,0,,3,Alberto Brizzi,Jose Rubin Statham,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Italy F25,3,Clay,R16,784,562,1,,8,Jose Rubin Statham,Fabio Colangelo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2005,Italy F25,3,Clay,R32,784,1471,1,,Q,Jose Rubin Statham,Alessio Torresi,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,SF,784,511,0,,1,Benjamin Rufer,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,QF,784,700,1,,Q,Jose Rubin Statham,Manuel Jorquera,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,R16,784,568,1,,3,Jose Rubin Statham,Ismar Gorcic,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Italy F24,3,Clay,R32,784,,1,,Q,Jose Rubin Statham,Stefano Rodighiero,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Japan F8,3,Hard,F,917,384,0,,2,Go Soeda,Jose Rubin Statham,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Japan F8,3,Hard,SF,917,720,1,,,Jose Rubin Statham,Dong Hyun Kim,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Japan F8,3,Hard,QF,917,372,1,,1,Jose Rubin Statham,Norikazu Sugiyama,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Japan F8,3,Hard,R16,917,608,1,,,Jose Rubin Statham,Tai Wei Liu,0-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Japan F8,3,Hard,R32,917,,1,,WC,Jose Rubin Statham,Akito Higa,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,Japan F7,3,Clay,R32,917,608,0,,8,Tai Wei Liu,Jose Rubin Statham,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,Japan F6,3,Carpet,R32,921,692,0,,8,Atsuo Ogawa,Jose Rubin Statham,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2005,Japan F5,3,Hard,R32,922,421,0,,4,Go Soeda,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Japan F4,3,Hard,R32,922,607,0,,5,Yaoki Ishii,Jose Rubin Statham,7-5 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Thailand F3,3,Hard,R16,918,861,0,Q,LL,Patrick Knobloch,Jose Rubin Statham,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,Thailand F3,3,Hard,R32,918,729,1,Q,,Jose Rubin Statham,Ishay Hadash,3-6 6-2 7-6(14),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2005,Japan F3,3,Carpet,R32,910,984,0,,,Naoki Arimoto,Jose Rubin Statham,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2005,Japan F2,3,Clay,R32,902,614,0,,8,Tai Wei Liu,Jose Rubin Statham,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2005,Japan F1,3,Carpet,R32,900,358,0,,2,Tasuku Iwami,Jose Rubin Statham,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,R32,1047,300,0,Q,6,Paolo Lorenzi,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2005,Australia F3,3,Clay,R32,1053,266,0,Q,2,Vasilis Mazarakis,Jose Rubin Statham,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2005,Davis Cup G2 R1: NZL vs KAZ,3,Hard,RR,1067,425,0,,,Alexey Kedryuk,Jose Rubin Statham,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2005,New Zealand F2,3,Hard,R32,1113,454,0,,8,Scott Lipsky,Jose Rubin Statham,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,New Zealand F1,3,Hard,R16,1108,343,0,WC,4,Satoshi Iwabuchi,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,New Zealand F1,3,Hard,R32,1108,748,1,WC,,Jose Rubin Statham,Naoki Arimoto,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,USA F32,3,Hard,R16,1117,409,0,Q,1,Vladimir Pavicevic,Jose Rubin Statham,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,USA F32,3,Hard,R32,1117,,1,Q,Q,Jose Rubin Statham,Tim Smyczek,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,USA F25,3,Hard,R32,1173,,0,Q,Q,Benedikt Stronk,Jose Rubin Statham,6-0 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2004,USA F24,3,Hard,R16,1176,325,0,Q,2,Zack Fleishman,Jose Rubin Statham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2004,USA F24,3,Hard,R32,1176,,1,Q,Q,Jose Rubin Statham,Dave Lingman,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,USA F23,3,Hard,R32,1198,1327,0,Q,LL,Cody Conley,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,R16,1281,440,0,Q,1,Lesley Joseph,Jose Rubin Statham,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,R32,1281,1445,1,Q,LL,Jose Rubin Statham,Chris Martin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2004,USA F17,3,Clay,QF,,,0,Q,2,Michael Russell,Jose Rubin Statham,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2004,USA F17,3,Clay,R16,,,1,Q,8,Jose Rubin Statham,Mirko Pehar,3-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2004,USA F17,3,Clay,R32,,1233,1,Q,,Jose Rubin Statham,Colin Ebelthite,3-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,

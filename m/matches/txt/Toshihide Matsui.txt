@@ -1,0 +1,668 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+17-Oct-2022,Busan CH,3,Hard,Q1,1499,319,0,Alt,3,Maximilian Neuchrist,Toshihide Matsui,6-3 6-2,0.50,9.4%,1.6%,59.4%,52.6%,42.3%,4/8,38.7%,25.5%,8.5%,24.0%,27.3%,1/2,111,6,1,64,38,26,4,1:07
+26-Sep-2022,M25 Kashiwa,3,Hard,R16,1700,450,0,PR,3,Yuta Shimizu,Toshihide Matsui,W/O,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2022,M25 Kashiwa,3,Hard,R32,1700,1270,1,PR,Q,Toshihide Matsui,Mao Takada,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,Nonthaburi 3 CH,3,Hard,Q1,1666,569,0,PR,12,Philip Sekulic,Toshihide Matsui,6-4 7-6(4),0.75,9.2%,6.2%,61.5%,70.0%,44.0%,2/5,45.6%,30.0%,10.0%,21.4%,50.0%,2/4,125,6,4,65,40,25,6,
+11-Jul-2022,Rome CH,3,Hard,Q1,1049,433,0,PR,5,Ben Shelton,Toshihide Matsui,6-0 6-2,0.16,2.4%,7.1%,45.2%,31.6%,47.8%,3/8,27.4%,9.7%,25.8%,0.0%,17.6%,0/0,73,1,3,42,19,23,8,0:46
+6-Jun-2022,M25 Harmon,3,Hard,R16,1038,,0,,2,Jisung Nam,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 Harmon,3,Hard,R32,1038,,1,,WC,Toshihide Matsui,Matthew Stubbings,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 Harmon,3,Hard,R32,1039,,0,8,WC,Takeru Yuzuki,Toshihide Matsui,6-7(4) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,Bengaluru 2 CH,3,Hard,Q1,1085,466,0,,4,Bogdan Bobrov,Toshihide Matsui,5-0 RET,0.32,6.3%,31.3%,25.0%,50.0%,33.3%,2/4,29.0%,20.0%,26.7%,0.0%,75.0%,0/0,31,1,5,16,4,12,4,0:14
+6-Dec-2021,Antalya 4 CH,3,Clay,Q1,1081,466,0,,2,Jakub Paul,Toshihide Matsui,6-1 6-3,0.69,2.0%,16.3%,42.9%,61.9%,28.6%,4/9,40.9%,39.4%,3.0%,40.6%,38.2%,1/7,115,1,8,49,21,28,2,1:04
+13-Jan-2020,Bendigo CH,3,Hard,R64,752,728,0,,,Alexander Crnokrak,Toshihide Matsui,6-2 6-0,0.16,5.0%,20.0%,40.0%,56.3%,29.2%,4/9,26.8%,9.7%,22.6%,0.0%,16.7%,0/0,71,2,8,40,16,24,7,0:44
+11-Nov-2019,Pune CH,3,Hard,R32,800,250,0,,8,Sasi Kumar Mukund,Toshihide Matsui,6-2 6-3,0.65,10.3%,10.3%,53.4%,61.3%,37.0%,5/9,41.8%,32.7%,17.3%,10.0%,46.9%,1/1,110,6,6,58,31,27,9,1:10
+11-Nov-2019,Pune CH,3,Hard,R64,800,503,1,,,Toshihide Matsui,Ben Patael,4-6 6-3 6-4,1.00,3.8%,2.9%,56.2%,72.9%,56.5%,7/9,52.2%,34.2%,12.7%,30.9%,41.7%,3/6,184,4,3,105,59,46,10,1:43
+28-Oct-2019,Shenzhen CH,3,Hard,R32,802,340,0,LL,,Chun Hsin Tseng,Toshihide Matsui,7-6(3) 2-1 RET,0.61,2.0%,4.1%,59.2%,79.3%,50.0%,0/1,46.1%,20.0%,5.0%,14.3%,26.3%,0/0,89,1,2,49,29,20,2,0:52
+28-Oct-2019,Shenzhen CH,3,Hard,Q1,802,,0,2,WC,Jiaqi Duan,Toshihide Matsui,7-5 4-1 RET,0.78,13.0%,0.0%,79.6%,62.8%,36.4%,5/9,45.7%,33.3%,9.8%,29.0%,40.0%,1/5,105,7,0,54,43,11,5,0:59
+21-Oct-2019,Liuzhou CH,3,Hard,R32,853,134,0,Q,3,Jason Jung,Toshihide Matsui,6-2 6-2,0.34,2.3%,7.0%,74.4%,59.4%,9.1%,3/7,32.9%,17.9%,7.7%,14.8%,25.0%,0/0,82,1,3,43,32,11,3,0:46
+21-Oct-2019,Liuzhou CH,3,Hard,R64,853,1095,1,Q,WC,Toshihide Matsui,Hao Wu,4-6 6-1 6-4,1.12,14.8%,3.7%,66.7%,77.8%,51.9%,0/1,52.9%,34.7%,6.9%,30.2%,41.4%,3/4,153,12,3,81,54,27,5,1:37
+21-Oct-2019,Liuzhou CH,3,Hard,Q1,853,,1,1,WC,Toshihide Matsui,Jiaqi Duan,6-1 6-2,1.74,17.4%,13.0%,43.5%,90.0%,57.7%,3/3,58.9%,49.2%,1.6%,48.1%,50.0%,4/9,107,8,6,46,20,26,1,1:07
+9-Sep-2019,Shanghai CH,3,Hard,Q1,846,1000,0,1,WC,Chuhan Wang,Toshihide Matsui,7-5 7-6(4),0.96,15.7%,11.4%,65.7%,80.4%,41.7%,2/4,48.6%,31.6%,11.8%,15.6%,54.8%,1/1,146,11,8,70,46,24,9,1:33
+5-Aug-2019,Yokkaichi CH,3,Hard,R16,1039,713,0,,ITF,Sho Shimabukuro,Toshihide Matsui,6-4 1-0 RET,0.30,9.1%,11.4%,63.6%,64.3%,43.8%,3/5,41.8%,13.0%,21.7%,7.1%,22.2%,0/0,67,4,5,44,28,16,5,0:43
+5-Aug-2019,Yokkaichi CH,3,Hard,R32,1039,457,1,,13,Toshihide Matsui,Makoto Ochi,7-6(5) 7-6(4),0.89,11.1%,1.2%,61.7%,76.0%,77.4%,3/3,50.3%,20.8%,4.2%,21.6%,19.0%,0/0,153,9,1,81,50,31,3,1:34
+5-Aug-2019,Yokkaichi CH,3,Hard,R64,1039,,1,,J,Toshihide Matsui,John Paul Fruttero,6-3 7-6(13),1.15,6.6%,1.3%,61.8%,76.6%,58.6%,4/5,52.7%,34.7%,5.6%,29.3%,41.9%,2/5,148,5,1,76,47,29,4,1:51
+29-Jul-2019,Chengdu CH,3,Hard,R32,601,264,0,Q,8,Saketh Myneni,Toshihide Matsui,6-3 0-0 RET,0.55,11.6%,4.7%,58.1%,72.0%,38.9%,5/6,44.9%,23.1%,19.2%,11.1%,50.0%,0/0,69,5,2,43,25,18,5,0:37
+29-Jul-2019,Chengdu CH,3,Hard,R64,601,587,1,Q,,Toshihide Matsui,Manish Sureshkumar,7-6(5) 6-4,0.81,16.7%,2.8%,59.7%,86.0%,51.7%,3/3,49.3%,22.6%,8.1%,15.8%,33.3%,1/3,134,12,2,72,43,29,5,1:25
+8-Jul-2019,Winnipeg CH,3,Hard,R32,,214,0,Q,11,Enzo Couacaud,Toshihide Matsui,6-3 6-2,0.57,5.3%,10.5%,44.7%,64.7%,52.4%,0/3,38.6%,24.0%,14.0%,16.0%,32.0%,0/0,88,2,4,38,17,21,7,0:48
+8-Jul-2019,Winnipeg CH,3,Hard,R64,,,1,Q,ITF,Toshihide Matsui,Alexander Lebedev,7-6(4) 6-4,1.07,15.6%,1.3%,55.8%,81.4%,52.9%,3/3,51.7%,33.3%,6.9%,31.1%,37.0%,1/2,149,12,1,77,43,34,5,1:49
+8-Jul-2019,Winnipeg CH,3,Hard,Q1,,,1,,WC,Toshihide Matsui,Kevin Kylar,6-2 3-6 6-2,1.76,19.7%,1.6%,65.6%,87.5%,57.1%,1/2,55.9%,40.5%,3.6%,38.1%,42.9%,4/8,145,12,1,61,40,21,3,1:43
+16-Apr-2018,Nanchang CH,3,Clay,Q1,,514,0,,4,Sasi Kumar Mukund,Toshihide Matsui,6-0 6-0,0.35,2.8%,13.9%,52.8%,36.8%,17.6%,1/7,26.5%,25.0%,25.0%,23.8%,27.3%,0/0,68,1,5,36,19,17,8,0:34
+9-Apr-2018,Taipei CH,3,Hard,Q2,1682,457,0,,5,Shuichi Sekiguchi,Toshihide Matsui,7-5 7-6(6),0.65,12.2%,7.1%,57.1%,66.1%,61.9%,7/8,47.3%,23.2%,13.0%,16.7%,33.3%,0/0,167,12,7,98,56,42,9,1:38
+9-Apr-2018,Taipei CH,3,Hard,Q1,1682,894,1,,,Toshihide Matsui,Cing Yang Meng,6-3 6-4,1.23,5.1%,0.0%,61.0%,72.2%,73.9%,3/3,55.8%,33.3%,0.0%,25.0%,47.1%,2/2,104,3,0,59,36,23,0,1:03
+2-Apr-2018,Japan F5,3,Hard,R32,1686,427,0,,7,Sora Fukuda,Toshihide Matsui,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Qujing CH,3,Hard,Q1,1681,532,0,,4,Yunseong Chung,Toshihide Matsui,6-3 2-0 RET,0.52,2.9%,17.6%,61.8%,57.1%,30.8%,2/5,37.3%,27.3%,12.1%,30.8%,14.3%,0/4,67,1,6,34,21,13,4,0:34
+12-Mar-2018,Shenzhen CH,3,Hard,Q1,1663,400,0,,,Renta Tokuda,Toshihide Matsui,6-2 6-3,0.46,2.0%,14.3%,38.8%,63.2%,46.7%,4/8,38.5%,21.4%,0.0%,20.7%,23.1%,0/1,91,1,7,49,19,30,0,0:50
+29-Jan-2018,Quimper CH,3,Hard,Q1,1674,1828,0,,WC,Petros Tsitsipas,Toshihide Matsui,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Toyota CH,3,Hard,Q3,1726,397,0,,1,Hiroyasu Ehara,Toshihide Matsui,6-4 7-6(6),0.74,5.3%,8.0%,68.0%,66.7%,54.2%,5/7,46.4%,27.7%,3.1%,27.8%,27.3%,1/2,140,4,6,75,51,24,2,1:21
+13-Nov-2017,Toyota CH,3,Hard,Q2,1726,535,1,,8,Toshihide Matsui,Makoto Ochi,6-4 7-6(2),0.96,5.9%,5.9%,61.2%,75.0%,63.6%,9/9,53.1%,28.3%,5.0%,36.4%,18.5%,1/1,145,5,5,85,52,33,3,1:21
+13-Nov-2017,Toyota CH,3,Hard,Q1,1726,1985,1,,WC,Toshihide Matsui,Kazuki Nishiwaki,6-3 6-4,1.28,6.8%,3.4%,64.4%,71.1%,76.2%,2/2,56.2%,34.8%,4.3%,23.3%,56.3%,2/2,105,4,2,59,38,21,2,0:57
+23-Oct-2017,Suzhou CH,3,Hard,Q2,1761,530,0,7,2,Sidharth Rawat,Toshihide Matsui,6-3 6-4,0.74,1.3%,2.5%,61.3%,55.1%,38.7%,3/8,44.2%,37.9%,6.9%,33.3%,47.4%,2/7,138,1,2,80,49,31,4,1:25
+23-Oct-2017,Suzhou CH,3,Hard,Q1,1761,1867,1,7,,Toshihide Matsui,Zhuoyang Qiu,6-3 1-6 6-3,1.13,9.9%,2.8%,52.1%,67.6%,55.9%,3/7,52.4%,43.1%,8.3%,31.4%,54.1%,4/7,143,7,2,71,37,34,6,1:23
+9-Oct-2017,Tashkent  CH,3,Hard,Q2,1775,746,0,,8,Luca Margaroli,Toshihide Matsui,5-1 RET,0.42,3.7%,11.1%,48.1%,53.8%,35.7%,2/4,36.4%,23.5%,0.0%,33.3%,0.0%,0/1,44,1,3,27,13,14,0,0:23
+9-Oct-2017,Tashkent  CH,3,Hard,Q1,1775,2013,1,,,Toshihide Matsui,Grigoriy Lomakin,6-3 3-6 6-3,1.24,6.9%,1.4%,58.3%,81.0%,56.7%,0/2,53.5%,36.1%,2.8%,27.1%,54.2%,3/6,144,5,1,72,42,30,2,1:31
+11-Sep-2017,Shanghai CH,3,Hard,Q1,1792,2086,0,,,Hao Wu,Toshihide Matsui,W/O,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Zhangjiagang CH,3,Hard,Q1,1780,1198,0,,,Wei De Lin,Toshihide Matsui,6-1 6-2,0.54,14.8%,7.4%,57.4%,67.7%,21.7%,7/12,39.2%,27.9%,7.0%,23.1%,35.3%,0/3,97,8,4,54,31,23,3,1:00
+7-Aug-2017,Jinan CH,3,Hard,R32,1678,157,0,LL,5,Nikola Milojevic,Toshihide Matsui,6-2 0-0 RET,0.48,10.7%,3.6%,60.7%,58.8%,36.4%,1/3,38.8%,23.8%,23.8%,7.1%,57.1%,0/0,49,3,1,28,17,11,5,0:29
+7-Aug-2017,Jinan CH,3,Hard,Q1,1678,462,0,,2,Kento Takeuchi,Toshihide Matsui,3-6 6-3 6-4,0.64,4.6%,3.4%,64.4%,75.0%,48.4%,5/7,46.5%,22.1%,14.7%,17.3%,37.5%,1/1,155,4,3,87,56,31,10,1:54
+31-Jul-2017,Chengdu CH,3,Hard,Q2,1676,655,0,,8,Yecong He,Toshihide Matsui,7-5 6-3,0.75,6.1%,9.1%,57.6%,65.8%,35.7%,7/11,43.6%,35.1%,18.9%,29.1%,52.6%,1/7,140,4,6,66,38,28,14,1:24
+17-Jul-2017,Astana CH,3,Hard,Q2,1678,415,0,,4,Hugo Grenier,Toshihide Matsui,6-1 6-2,0.50,2.6%,10.5%,44.7%,58.8%,38.1%,0/4,35.6%,26.5%,4.1%,13.8%,45.0%,0/2,87,1,4,38,17,21,2,0:54
+26-Jun-2017,Milan CH,3,Clay,Q2,1756,355,0,,5,Juan Pablo Paz,Toshihide Matsui,6-4 6-3,0.63,5.3%,4.0%,62.7%,63.8%,46.4%,12/14,43.7%,26.7%,6.7%,10.7%,40.6%,0/0,135,4,3,75,47,28,4,1:34
+26-Jun-2017,Milan CH,3,Clay,Q1,1756,823,1,,,Toshihide Matsui,Isak Arvidsson,6-7(4) 7-6(5) 6-2,0.96,6.3%,1.6%,69.3%,62.5%,56.4%,12/15,50.9%,37.9%,15.8%,24.1%,59.5%,5/10,222,8,2,127,88,39,15,2:31
+17-Apr-2017,Taipei CH,3,Hard,Q3,1944,435,0,,4,Sasi Kumar Mukund,Toshihide Matsui,6-3 6-4,0.53,20.0%,3.6%,56.4%,74.2%,50.0%,4/6,42.1%,19.2%,15.4%,17.6%,22.2%,0/0,107,11,2,55,31,24,8,1:04
+17-Apr-2017,Taipei CH,3,Hard,Q1,1944,897,1,,,Toshihide Matsui,Jui Chen Hung,6-4 6-1,2.28,14.6%,0.0%,75.6%,83.9%,60.0%,0/0,62.9%,50.0%,2.1%,46.9%,56.3%,4/5,89,6,0,41,31,10,1,0:57
+3-Apr-2017,Japan F5,3,Hard,R16,,582,0,WC,6,Sho Katayama,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Japan F5,3,Hard,R32,,,1,WC,Q,Toshihide Matsui,Naoki Tajima,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,Bangkok CH,3,Hard,Q2,,1215,0,6,4,Connor Farren,Toshihide Matsui,7-6(4) 6-3,0.67,22.1%,8.8%,57.4%,76.9%,48.3%,1/2,45.0%,23.8%,14.3%,16.7%,33.3%,0/0,131,15,6,68,39,29,9,1:33
+8-Aug-2016,Qingdao CH,3,Clay,Q1,2128,,0,,WC,Runhao Hua,Toshihide Matsui,6-1 1-0 RET,0.47,0.0%,2.6%,52.6%,60.0%,27.8%,4/7,37.7%,26.1%,4.3%,21.1%,50.0%,0/0,61,0,1,38,20,18,1,0:44
+18-Jul-2016,Gimcheon CH,3,Hard,Q1,2135,1255,0,,7,Daniel Yoo,Toshihide Matsui,7-6(6) 6-3,0.93,7.1%,8.6%,48.6%,64.7%,44.4%,3/7,47.7%,42.4%,3.5%,32.6%,52.4%,3/11,155,5,6,70,34,36,3,1:59
+27-Jun-2016,China F10,3,Hard,R32,1684,233,0,,3,Yan Bai,Toshihide Matsui,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Fergana CH,3,Hard,Q2,839,297,0,,2,Alessandro Bega,Toshihide Matsui,6-4 6-2,0.56,13.6%,1.5%,65.2%,58.1%,39.1%,10/14,41.2%,27.1%,2.1%,19.4%,41.2%,1/1,114,9,1,66,43,23,1,1:05
+13-Jun-2016,Fergana CH,3,Hard,Q1,839,,1,,,Toshihide Matsui,Kirill Komarov,6-3 6-4,1.68,22.2%,1.9%,57.4%,80.6%,69.6%,0/0,58.5%,40.4%,11.5%,30.8%,69.2%,2/2,106,12,1,54,31,23,6,0:55
+30-May-2016,Japan F6,3,Clay,R32,855,286,0,,2,Yasutaka Uchiyama,Toshihide Matsui,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Guam F1,3,Hard,R32,855,1133,0,,,Ju Hae Moon,Toshihide Matsui,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Bangkok CH,3,Hard,Q2,854,428,0,,8,Filip Peliwo,Toshihide Matsui,5-2 RET,0.64,8.3%,4.2%,41.7%,60.0%,28.6%,1/3,39.6%,37.5%,4.2%,23.1%,54.5%,1/2,48,2,1,24,10,14,1,0:33
+16-May-2016,Bangkok CH,3,Hard,Q1,854,651,1,,,Toshihide Matsui,James Marsalek,1-6 6-3 6-2,0.93,11.8%,5.3%,52.6%,77.5%,47.2%,6/8,50.0%,34.4%,12.5%,24.4%,52.2%,3/4,140,9,4,76,40,36,8,1:38
+9-May-2016,Seoul CH,3,Hard,Q1,858,687,0,,,Hong Chung,Toshihide Matsui,6-4 6-2,0.56,0.0%,11.3%,41.5%,59.1%,45.2%,2/6,39.4%,27.5%,5.9%,19.4%,40.0%,1/4,104,0,6,53,22,31,3,1:09
+25-Apr-2016,Taipei CH,3,Hard,Q3,785,375,0,6,1,Marinko Matosevic,Toshihide Matsui,7-5 6-4,0.61,9.1%,9.1%,50.0%,65.9%,47.7%,10/13,44.3%,26.2%,14.8%,22.7%,35.3%,1/5,149,8,8,88,44,44,9,1:30
+25-Apr-2016,Taipei CH,3,Hard,Q2,785,,1,6,,Toshihide Matsui,David Ohare,6-3 6-3,1.59,12.7%,5.5%,63.6%,82.9%,50.0%,1/1,57.4%,46.3%,13.4%,31.8%,73.9%,3/7,122,7,3,55,35,20,9,1:02
+7-Mar-2016,Japan F1,3,Hard,R32,765,353,0,,2,Liang Chi Huang,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,Kyoto CH,3,Hard,Q2,773,1200,0,8,,Shunrou Takeshima,Toshihide Matsui,6-3 6-7(3) 6-3,0.94,7.7%,1.1%,53.8%,73.5%,47.6%,3/7,48.2%,36.3%,1.0%,29.2%,48.6%,2/7,193,7,1,91,49,42,1,2:07
+22-Feb-2016,Kyoto CH,3,Hard,Q1,773,1781,1,8,,Toshihide Matsui,Konosuke Kiryu,7-6(0) 6-2,2.50,11.3%,3.8%,62.3%,90.9%,70.0%,1/1,59.5%,42.5%,0.0%,50.0%,31.0%,2/9,126,6,2,53,33,20,0,1:18
+25-Jan-2016,Lahaina CH,3,Hard,Q2,697,312,0,,5,Eric Quigley,Toshihide Matsui,6-3 6-1,0.45,3.0%,7.5%,50.7%,52.9%,48.5%,5/9,39.8%,22.0%,14.6%,16.0%,31.3%,0/0,108,2,5,67,34,33,6,1:11
+25-Jan-2016,Lahaina CH,3,Hard,Q1,697,,1,,WC,Toshihide Matsui,Wei Yu Su,4-6 6-3 6-1,1.62,2.9%,5.9%,51.5%,85.7%,60.6%,2/3,55.4%,42.9%,2.0%,38.6%,48.8%,4/15,166,2,4,68,35,33,2,1:54
+18-Jan-2016,Manila CH,3,Hard,Q1,697,824,0,,,Antonio Sancic,Toshihide Matsui,6-4 6-3,0.59,1.7%,20.0%,48.3%,65.5%,48.4%,1/5,43.0%,25.5%,23.4%,18.2%,42.9%,1/1,107,1,12,60,29,31,11,0:52
+2-Nov-2015,Hua Hin CH,3,Hard,R32,625,310,0,LL,Q,Stephane Robert,Toshihide Matsui,6-1 6-1,0.45,4.1%,2.0%,57.1%,50.0%,23.8%,2/7,33.7%,27.5%,22.5%,15.4%,50.0%,0/2,89,2,1,49,28,21,9,
+17-Aug-2015,Chinese Taipei F1,3,Hard,R32,507,,0,6,WC,Tung Lin Wu,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Thailand F7,3,Hard,R16,500,981,0,7,,Ryota Tanuma,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Thailand F7,3,Hard,R32,500,1339,1,7,Q,Toshihide Matsui,Chaleechan Tanasugarn,7-5 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Thailand F6,3,Hard,R32,502,635,0,7,,Mohit Mayur Jayaprakash,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,China F11,3,Hard,R32,475,1165,0,8,Q,Aoxiong Wang,Toshihide Matsui,6-2 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Thailand F5,3,Hard,R16,457,899,0,4,,Puriwat Chatpatcharoen,Toshihide Matsui,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Thailand F5,3,Hard,R32,457,,1,4,Q,Toshihide Matsui,Rapeephat Waewboot,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Thailand F4,3,Hard,SF,483,524,0,3,2,Shuichi Sekiguchi,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Thailand F4,3,Hard,QF,483,679,1,3,7,Toshihide Matsui,Akira Santillan,6-7(9) 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Thailand F4,3,Hard,R16,483,1727,1,3,Q,Toshihide Matsui,Congsup Congcar,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Thailand F4,3,Hard,R32,483,,1,3,Q,Toshihide Matsui,Vorachon Rakpuangchon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Japan F6,3,Hard,F,475,305,0,5,2,Duck Hee Lee,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Japan F6,3,Hard,SF,475,291,1,5,1,Toshihide Matsui,Takuto Niki,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Japan F6,3,Hard,QF,475,429,1,5,3,Toshihide Matsui,Yuuya Kibi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Japan F6,3,Hard,R16,475,1975,1,5,WC,Toshihide Matsui,Masayoshi Ono,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Japan F6,3,Hard,R32,475,872,1,5,,Toshihide Matsui,Sho Katayama,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2015,Gimcheon CH,3,Hard,R32,424,344,0,,,Cheong Eui Kim,Toshihide Matsui,6-2 1-0 RET,0.18,3.2%,19.4%,51.6%,43.8%,33.3%,2/5,28.6%,11.1%,5.6%,18.2%,0.0%,0/0,49,1,6,31,16,15,1,0:32
+27-Apr-2015,Taipei CH,3,Carpet,R32,420,289,0,Q,,Takuto Niki,Toshihide Matsui,4-6 7-6(5) 6-3,0.95,10.0%,5.0%,54.0%,79.6%,52.2%,1/2,48.6%,31.5%,13.0%,19.7%,50.0%,1/7,208,10,5,100,54,46,14,2:30
+20-Apr-2015,Thailand F1,3,Hard,QF,424,1070,0,4,Q,Akira Santillan,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Thailand F1,3,Hard,R16,424,709,1,4,,Toshihide Matsui,Pruchya Isarow,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Thailand F1,3,Hard,R32,424,2039,1,4,Q,Toshihide Matsui,Suthinan Tanthaseraneewat,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Indonesia F3,3,Hard,R16,425,951,0,3,,Kittipong Wachiramanowong,Toshihide Matsui,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Indonesia F3,3,Hard,R32,425,,1,3,Q,Toshihide Matsui,Christian Alvin Edison,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2015,Indonesia F2,3,Hard,R32,424,1052,0,3,,Chieh Fu Wang,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2015,Indonesia F1,3,Hard,R32,416,1486,0,1,,Jeson Patrombon,Toshihide Matsui,4-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Japan F3,3,Hard,R32,416,957,0,7,Q,Finn Tearney,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Kyoto CH,3,Hard,R32,393,133,0,,3,Yuichi Sugita,Toshihide Matsui,6-4 7-6(3),0.42,5.8%,4.3%,63.8%,75.0%,60.0%,5/6,44.4%,12.7%,12.7%,13.9%,10.5%,0/0,124,4,3,69,44,25,7,1:13
+27-Jan-2015,Hong Kong CH,3,Hard,R16,401,204,0,Q,,Niels Desein,Toshihide Matsui,1-6 6-1 5-5 RET,0.90,6.3%,7.5%,53.8%,72.1%,40.5%,4/7,48.6%,38.2%,7.4%,29.3%,51.9%,3/4,148,5,6,80,43,37,5,1:41
+27-Jan-2015,Hong Kong CH,3,Hard,R32,401,274,1,Q,,Toshihide Matsui,Jordan Thompson,6-4 6-3,1.54,8.9%,3.6%,57.1%,75.0%,79.2%,1/1,56.9%,35.8%,7.5%,31.3%,42.9%,2/4,109,5,2,56,32,24,4,1:05
+1-Dec-2014,Cambodia F3,3,Hard,F,400,306,0,2,1,Liang Chi Huang,Toshihide Matsui,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Cambodia F3,3,Hard,SF,400,592,1,2,5,Toshihide Matsui,Yuichi Ito,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Cambodia F3,3,Hard,QF,400,917,1,2,,Toshihide Matsui,Xin Gao,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Cambodia F3,3,Hard,R16,400,1348,1,2,Q,Toshihide Matsui,Yecong He,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2014,Cambodia F3,3,Hard,R32,400,753,1,2,,Toshihide Matsui,Min Kyu Song,6-3 3-6 7-6(0),,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Cambodia F2,3,Hard,R32,399,898,0,4,,Dylan Seong Kwan Kim,Toshihide Matsui,6-7(6) 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Toyota CH,3,Carpet,R32,396,488,0,,Q,Ji Sung Nam,Toshihide Matsui,7-5 6-7(1) 6-1,0.79,11.5%,7.7%,54.8%,77.2%,42.6%,7/11,46.5%,30.2%,9.4%,27.3%,36.7%,1/5,200,12,8,104,57,47,9,2:03
+20-Oct-2014,Pune CH,3,Hard,R16,413,144,0,,4,Yuichi Sugita,Toshihide Matsui,6-4 7-5,0.81,3.9%,10.5%,48.7%,70.3%,41.0%,8/12,46.5%,36.4%,4.5%,26.8%,52.0%,2/3,142,3,8,76,37,39,3,1:34
+20-Oct-2014,Pune CH,3,Hard,R32,413,225,1,,,Toshihide Matsui,Ti Chen,7-6(3) 6-4,1.32,10.0%,1.7%,60.0%,75.0%,87.5%,0/0,53.8%,26.3%,1.8%,27.5%,23.5%,1/1,117,6,1,60,36,24,1,1:27
+29-Sep-2014,Tokyo,3,Hard,Q1,419,117,0,,1,James Ward,Toshihide Matsui,6-3 7-6(3),0.63,5.8%,1.4%,65.2%,68.9%,58.3%,2/3,44.4%,21.9%,20.3%,11.9%,40.9%,0/1,133,4,1,69,45,24,13,1:21
+22-Sep-2014,Shenzhen,3,Hard,Q3,439,174,0,7,3,Viktor Troicki,Toshihide Matsui,6-2 7-6(8),0.76,9.0%,9.0%,64.2%,69.8%,62.5%,2/4,45.9%,25.0%,16.2%,16.3%,40.0%,0/3,135,6,6,67,43,24,11,1:29
+22-Sep-2014,Shenzhen,3,Hard,Q2,439,,1,7,WC,Toshihide Matsui,Aoran Wang,6-3 6-2,1.67,6.0%,8.0%,52.0%,84.6%,58.3%,0/0,59.8%,46.8%,10.6%,17.6%,63.3%,3/4,97,3,4,50,26,24,5,0:59
+2-Sep-2014,Shanghai CH,3,Hard,R32,370,210,0,,7,Di Wu,Toshihide Matsui,7-5 6-3,0.73,7.5%,1.5%,65.7%,61.4%,56.5%,5/8,45.3%,29.5%,4.9%,24.4%,40.0%,0/3,128,5,1,67,44,23,3,1:16
+25-Aug-2014,Bangkok CH,3,Hard,R16,370,316,0,,,Liang Chi Huang,Toshihide Matsui,7-6(6) 4-6 6-3,1.26,12.0%,3.6%,54.2%,80.0%,65.8%,2/4,50.8%,33.3%,4.6%,23.2%,51.3%,2/9,191,10,3,83,45,38,5,2:15
+25-Aug-2014,Bangkok CH,3,Hard,R32,370,244,1,,8,Toshihide Matsui,Elias Ymer,7-5 6-3,1.55,7.9%,3.2%,47.6%,83.3%,63.6%,4/5,56.9%,41.8%,4.5%,25.6%,70.8%,3/5,130,5,2,63,30,33,3,1:24
+11-Aug-2014,Korea F10,3,Hard,QF,351,1102,0,1,,John Millman,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,R16,351,897,1,1,,Toshihide Matsui,Hong Chung,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Korea F10,3,Hard,R32,351,1340,1,1,Q,Toshihide Matsui,Oh Hee Kwon,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Hong Kong F3,3,Hard,SF,366,1206,0,2,Q,Min Kyu Song,Toshihide Matsui,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Hong Kong F3,3,Hard,QF,366,730,1,2,7,Toshihide Matsui,Takashi Saito,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Hong Kong F3,3,Hard,R16,366,1472,1,2,Q,Toshihide Matsui,Sun Yong Kim Jr,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Hong Kong F3,3,Hard,R32,366,769,1,2,,Toshihide Matsui,Jui Chen Hung,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2014,Kaohsiung CH,3,Hard,R32,369,181,0,,7,Thomas Fabbiano,Toshihide Matsui,6-4 6-2,0.64,13.2%,5.7%,56.6%,66.7%,56.5%,4/7,43.7%,24.0%,6.0%,27.0%,15.4%,0/3,103,7,3,53,30,23,3,1:03
+23-Jun-2014,Nanchang CH,3,Hard,QF,407,98,0,,2,Blaz Kavcic,Toshihide Matsui,7-5 6-2,0.50,4.3%,1.4%,71.0%,59.2%,45.0%,7/11,41.0%,22.6%,1.9%,27.0%,12.5%,1/4,122,3,1,69,49,20,1,1:29
+23-Jun-2014,Nanchang CH,3,Hard,R16,407,208,1,,5,Toshihide Matsui,Di Wu,3-6 6-1 6-3,1.10,10.1%,2.2%,68.5%,65.6%,50.0%,6/9,53.2%,43.1%,6.2%,37.1%,50.0%,5/6,154,9,2,89,61,28,4,1:45
+23-Jun-2014,Nanchang CH,3,Hard,R32,407,710,1,,Q,Toshihide Matsui,Ryan Agar,6-1 7-5,1.24,10.8%,6.8%,68.9%,72.5%,39.1%,5/6,54.9%,47.1%,1.5%,44.4%,52.2%,4/10,142,8,5,74,51,23,1,1:37
+16-Jun-2014,Tianjin CH,3,Hard,R32,404,836,0,,Q,Ryan Agar,Toshihide Matsui,7-6(1) 6-2,0.70,5.6%,5.6%,73.2%,53.8%,52.6%,7/10,43.4%,32.3%,1.5%,27.9%,40.9%,1/3,136,4,4,71,52,19,1,1:35
+2-Jun-2014,Thailand F6,3,Hard,SF,455,456,0,2,3,Henrique Cunha,Toshihide Matsui,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Thailand F6,3,Hard,QF,455,1062,1,2,,Toshihide Matsui,Jonathon Cooper,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Thailand F6,3,Hard,R16,455,921,1,2,,Toshihide Matsui,David Sofaer,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Thailand F6,3,Hard,R32,455,909,1,2,,Toshihide Matsui,Wishaya Trongcharoenchaikul,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Thailand F5,3,Hard,F,455,1058,1,3,Q,Toshihide Matsui,Christopher Rungkat,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Thailand F5,3,Hard,SF,455,733,1,3,,Toshihide Matsui,Jacob Grills,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Thailand F5,3,Hard,QF,455,2069,1,3,WC,Toshihide Matsui,Phassawit Burapharitta,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Thailand F5,3,Hard,R16,455,684,1,3,,Toshihide Matsui,Hiroyasu Ehara,6-7(8) 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2014,Thailand F5,3,Hard,R32,455,1062,1,3,,Toshihide Matsui,Jonathon Cooper,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Taipei CH,3,Carpet,R16,459,83,0,,2,Lukas Lacko,Toshihide Matsui,6-4 6-3,0.61,9.0%,1.5%,65.7%,63.6%,39.1%,5/9,43.2%,27.5%,25.5%,11.1%,66.7%,1/3,118,6,1,67,44,23,13,1:05
+28-Apr-2014,Taipei CH,3,Carpet,R32,459,1718,1,,Q,Toshihide Matsui,Chih Chun Tang,6-0 6-4,2.12,8.9%,6.7%,51.1%,82.6%,63.6%,1/2,63.2%,56.5%,0.0%,48.9%,72.7%,5/13,114,4,3,45,23,22,0,1:11
+31-Mar-2014,Japan F4,3,Hard,R16,463,,0,2,WC,Junya Toyono,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Japan F4,3,Hard,R32,463,2070,1,2,Q,Toshihide Matsui,Koki Takada,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Japan F3,3,Hard,QF,447,755,0,3,,Yusuke Watanuki,Toshihide Matsui,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Japan F3,3,Hard,R16,447,878,1,3,,Toshihide Matsui,Masato Shiga,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Mar-2014,Japan F3,3,Hard,R32,447,919,1,3,,Toshihide Matsui,Gengo Kikuchi,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Japan F1,3,Hard,R16,440,1405,0,,Q,Shintaro Imai,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Japan F1,3,Hard,R32,440,756,1,,,Toshihide Matsui,Yusuke Watanuki,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2014,Kyoto CH,3,Hard,R32,440,158,0,LL,3,Tatsuma Ito,Toshihide Matsui,6-4 7-6(1),0.83,6.7%,6.7%,68.3%,73.2%,57.9%,1/3,46.4%,26.2%,3.1%,24.4%,30.0%,1/2,125,4,4,60,41,19,2,1:12
+24-Feb-2014,Guangzhou CH,3,Hard,R32,448,167,0,Q,6,Hiroki Moriya,Toshihide Matsui,6-2 2-0 RET,0.46,4.8%,4.8%,64.3%,48.1%,26.7%,6/9,34.7%,27.3%,15.2%,10.0%,53.8%,0/4,75,2,2,42,27,15,5,0:55
+3-Feb-2014,West Lakes CH,3,Hard,R32,446,143,0,,2,James Duckworth,Toshihide Matsui,7-6(2) 7-6(2),0.54,9.2%,5.1%,58.2%,71.9%,41.5%,6/8,44.0%,22.1%,8.8%,9.5%,42.3%,2/5,166,9,5,98,57,41,6,1:46
+27-Jan-2014,Burnie CH,3,Hard,R16,465,200,0,,4,Hiroki Moriya,Toshihide Matsui,6-4 7-5,0.88,3.8%,5.0%,70.0%,58.9%,29.2%,6/12,46.9%,43.8%,2.5%,41.3%,47.1%,4/11,160,3,4,80,56,24,2,1:45
+27-Jan-2014,Burnie CH,3,Hard,R32,465,790,1,,Q,Toshihide Matsui,Ryan Agar,6-3 6-0,1.91,12.8%,2.1%,48.9%,73.9%,70.8%,2/2,62.0%,52.8%,0.0%,45.0%,76.9%,4/11,100,6,1,47,23,24,0,1:02
+9-Dec-2013,Cambodia F3,3,Hard,F,509,325,0,4,1,Ti Chen,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Cambodia F3,3,Hard,SF,509,580,1,4,8,Toshihide Matsui,Ramkumar Ramanathan,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Cambodia F3,3,Hard,QF,509,883,1,4,,Toshihide Matsui,Alexander Zhurbin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Cambodia F3,3,Hard,R16,509,702,1,4,,Toshihide Matsui,Arata Onozawa,6-3 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Dec-2013,Cambodia F3,3,Hard,R32,509,838,1,4,,Toshihide Matsui,Yusuke Watanuki,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Cambodia F2,3,Hard,R32,508,960,0,8,Q,Wishaya Trongcharoenchaikul,Toshihide Matsui,5-7 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2013,Seoul CH,3,Hard,R32,483,241,0,Q,,Di Wu,Toshihide Matsui,6-4 6-2,0.62,0.0%,8.3%,58.3%,62.9%,40.0%,1/5,42.6%,29.2%,4.2%,14.3%,40.7%,1/3,108,0,5,60,35,25,2,1:10
+23-Sep-2013,Kuala Lumpur,3,Hard,Q1,443,1134,0,,,Treat Conrad Huey,Toshihide Matsui,4-2 RET,0.23,6.7%,6.7%,33.3%,80.0%,60.0%,1/2,39.3%,7.7%,38.5%,11.1%,0.0%,0/0,28,1,1,15,5,10,5,0:16
+16-Sep-2013,Kaohsiung CH,3,Hard,R32,458,151,0,Q,8,Jimmy Wang,Toshihide Matsui,6-1 6-4,0.42,9.7%,6.5%,59.7%,67.6%,28.0%,2/6,38.7%,20.5%,15.9%,7.7%,38.9%,0/2,106,6,4,62,37,25,7,1:13
+2-Sep-2013,Shanghai CH,3,Hard,QF,557,456,0,Q,Q,Yasutaka Uchiyama,Toshihide Matsui,6-3 4-0 RET,0.62,11.6%,7.0%,72.1%,58.1%,16.7%,0/3,39.6%,33.3%,10.4%,20.7%,52.6%,0/4,91,5,3,43,31,12,5,1:01
+2-Sep-2013,Shanghai CH,3,Hard,R16,557,261,1,Q,,Toshihide Matsui,Ti Chen,6-3 2-6 6-4,0.99,18.8%,3.0%,61.4%,74.2%,38.5%,7/9,50.0%,39.4%,3.0%,39.7%,38.1%,2/7,200,19,3,101,62,39,3,2:15
+2-Sep-2013,Shanghai CH,3,Hard,R32,557,245,1,Q,8,Toshihide Matsui,Liang Chi Huang,6-3 6-4,2.01,19.6%,2.2%,67.4%,93.5%,73.3%,0/0,58.0%,26.2%,7.1%,20.6%,50.0%,2/4,88,9,1,46,31,15,3,0:59
+26-Aug-2013,Bangkok CH,3,Hard,R16,557,126,0,,1,Blaz Kavcic,Toshihide Matsui,6-4 2-1 RET,0.61,11.8%,2.0%,68.6%,65.7%,43.8%,5/7,44.8%,25.0%,13.9%,20.0%,36.4%,0/3,87,6,1,51,35,16,5,1:00
+26-Aug-2013,Bangkok CH,3,Hard,R32,557,2058,1,,LL,Toshihide Matsui,Punn Bodhidatta,6-1 6-4,2.19,12.2%,2.0%,67.3%,72.7%,87.5%,1/1,62.3%,49.1%,3.5%,36.0%,59.4%,3/8,106,6,1,49,33,16,2,1:02
+12-Aug-2013,China F7,3,Hard,QF,605,1129,0,,,Bowen Ouyang,Toshihide Matsui,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,China F7,3,Hard,R16,605,,1,,Q,Toshihide Matsui,Yuanfeng Li,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,China F7,3,Hard,R32,605,887,1,,,Toshihide Matsui,Jui Chen Hung,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,China F6,3,Hard,SF,608,304,0,,1,Liang Chi Huang,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,China F6,3,Hard,QF,608,997,1,,,Toshihide Matsui,Chieh Fu Wang,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,China F6,3,Hard,R16,608,564,1,,,Toshihide Matsui,Kento Takeuchi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2013,China F6,3,Hard,R32,608,328,1,,3,Toshihide Matsui,N Sriram Balaji,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Beijing CH,3,Hard,R32,579,686,0,,WC,Yan Bai,Toshihide Matsui,6-2 7-6(4),0.60,7.9%,3.9%,61.8%,68.1%,41.4%,5/8,44.3%,25.5%,10.9%,20.0%,32.0%,1/1,131,6,3,76,47,29,6,1:28
+1-Jul-2013,Japan F8,3,Hard,QF,577,742,0,4,,Arata Onozawa,Toshihide Matsui,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Japan F8,3,Hard,R16,577,,1,4,Q,Toshihide Matsui,Ko Suzuki,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Japan F8,3,Hard,R32,577,1098,1,4,,Toshihide Matsui,Yusuke Watanuki,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,India F7,3,Hard,QF,594,895,0,4,7,Prajnesh Gunneswaran,Toshihide Matsui,6-7(5) 7-6(4) 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,India F7,3,Hard,R16,594,1872,1,4,Q,Toshihide Matsui,Suraj R Prabodh,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,India F7,3,Hard,R32,594,,1,4,Q,Toshihide Matsui,Fahad Mohammed,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,India F6,3,Hard,QF,594,895,0,4,,Prajnesh Gunneswaran,Toshihide Matsui,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-May-2013,India F6,3,Hard,R16,594,1141,1,4,,Toshihide Matsui,Vignesh Peranamallur,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2013,India F6,3,Hard,R32,594,1347,1,4,,Toshihide Matsui,Vignesh Veerabadran,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Korea F2,3,Hard,SF,578,763,0,5,8,Hyeon Chung,Toshihide Matsui,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Korea F2,3,Hard,QF,578,1203,1,5,,Toshihide Matsui,Yusuke Watanuki,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Korea F2,3,Hard,R16,578,895,1,5,,Toshihide Matsui,Dong Whee Choi,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-May-2013,Korea F2,3,Hard,R32,578,956,1,5,,Toshihide Matsui,Kaichi Uchida,7-5 6-7(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,An-Ning CH,3,Clay,R32,577,316,0,,,Jose Rubin Statham,Toshihide Matsui,6-3 6-0,0.28,4.4%,4.4%,68.9%,58.1%,21.4%,2/7,33.3%,15.2%,0.0%,8.3%,33.3%,0/0,78,2,2,45,31,14,0,0:53
+11-Mar-2013,Japan F1,3,Hard,SF,496,435,0,7,5,Hiroki Kondo,Toshihide Matsui,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Japan F1,3,Hard,QF,496,400,1,7,3,Toshihide Matsui,Adrian Sikora,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Japan F1,3,Hard,R16,496,1172,1,7,Q,Toshihide Matsui,Masaki Sasai,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Japan F1,3,Hard,R32,496,922,1,7,,Toshihide Matsui,Yuuya Kibi,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Kyoto CH,3,Carpet,R32,496,161,0,Q,4,John Millman,Toshihide Matsui,7-6(4) 6-4,0.79,6.0%,0.0%,64.2%,72.1%,50.0%,2/4,46.3%,28.4%,10.4%,22.0%,38.5%,1/3,134,4,0,67,43,24,7,1:28
+31-Dec-2012,Noumea CH,3,Hard,R32,505,203,0,,,Andrej Martin,Toshihide Matsui,6-2 6-4,0.77,4.3%,6.4%,55.3%,61.5%,47.6%,2/6,43.5%,34.4%,1.6%,29.7%,41.7%,1/3,108,2,3,47,26,21,1,1:14
+19-Nov-2012,Toyota CH,3,Carpet,R16,477,277,0,Q,,Mirza Basic,Toshihide Matsui,6-7(6) 6-3 7-5,0.87,11.2%,0.9%,74.1%,66.3%,46.7%,5/9,48.0%,33.6%,6.5%,24.6%,45.7%,2/3,223,13,1,116,86,30,7,2:27
+19-Nov-2012,Toyota CH,3,Carpet,R32,477,134,1,Q,2,Toshihide Matsui,Rajeev Ram,6-4 6-3,1.06,6.0%,1.2%,68.7%,66.7%,46.2%,8/9,52.9%,42.1%,17.5%,26.7%,59.3%,3/7,140,5,1,83,57,26,10,1:36
+12-Nov-2012,Yokohama CH,3,Hard,R32,471,580,0,WC,,Prakash Amritraj,Toshihide Matsui,6-2 7-6(3),0.60,2.8%,4.2%,69.4%,56.0%,59.1%,3/6,43.1%,25.9%,8.6%,26.8%,23.5%,1/1,130,2,3,72,50,22,5,1:33
+15-Oct-2012,Japan F9,3,Hard,R16,429,1756,0,3,Q,Masato Shiga,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Japan F9,3,Hard,R32,429,,1,3,Q,Toshihide Matsui,Soichiro Moritani,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Japan F8,3,Hard,R16,432,578,0,7,,Yong Kyu Lim,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Japan F8,3,Hard,R32,432,,1,7,WC,Toshihide Matsui,Yuki Takaoka,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Tokyo,3,Hard,Q1,433,95,0,,3,Sergiy Stakhovsky,Toshihide Matsui,4-6 7-6(4) 7-5,0.84,6.7%,3.3%,52.5%,71.4%,54.4%,10/13,47.6%,30.6%,10.8%,25.4%,40.0%,3/14,231,8,4,120,63,57,12,2:54
+24-Sep-2012,Kuala Lumpur,3,Hard,Q3,450,,0,6,,Julian Knowle,Toshihide Matsui,3-6 6-3 6-4,1.01,22.6%,7.1%,61.9%,78.8%,40.6%,4/7,49.7%,36.0%,9.0%,20.8%,58.3%,2/9,173,19,6,84,52,32,8,2:12
+24-Sep-2012,Kuala Lumpur,3,Hard,Q2,450,,1,6,WC,Toshihide Matsui,Bruno Soares,7-6(5) 3-4 RET,0.82,6.3%,3.2%,41.3%,69.2%,48.6%,5/8,47.0%,35.2%,3.7%,33.3%,44.4%,3/3,117,4,2,63,26,37,2,1:34
+10-Sep-2012,Ningbo CH,3,Hard,R32,452,295,0,,,Stephane Bohli,Toshihide Matsui,7-5 1-6 6-1,0.87,3.8%,6.3%,53.8%,65.1%,56.8%,2/6,48.3%,33.8%,5.6%,24.4%,50.0%,3/3,151,3,5,80,43,37,4,2:03
+27-Aug-2012,Bangkok CH,3,Hard,R32,447,355,0,,Q,Christopher Rungkat,Toshihide Matsui,2-6 6-2 7-6(3),0.86,7.1%,6.1%,45.5%,68.9%,50.0%,4/6,47.2%,35.4%,4.2%,30.5%,43.2%,2/10,195,7,6,99,45,54,4,2:45
+30-Jul-2012,Beijing CH,3,Hard,R32,450,167,0,Q,6,Yuichi Sugita,Toshihide Matsui,7-6(3) 6-4,1.02,12.2%,6.8%,37.8%,78.6%,54.3%,1/3,49.1%,37.1%,3.4%,32.8%,48.0%,1/11,163,9,5,74,28,46,3,1:59
+23-Jul-2012,Lexington CH,3,Hard,R32,459,233,0,Q,8,Erik Chvojka,Toshihide Matsui,4-6 6-0 6-1,0.53,3.4%,8.0%,51.7%,55.6%,47.6%,7/12,40.7%,25.4%,9.5%,25.6%,25.0%,1/4,150,3,7,87,45,42,6,2:01
+16-Jul-2012,Granby CH,3,Hard,R32,452,894,0,,WC,Philip Bester,Toshihide Matsui,4-6 7-6(2) 6-4,0.59,11.0%,3.7%,56.9%,72.6%,63.8%,9/10,47.1%,18.3%,15.9%,13.2%,27.6%,1/1,191,12,4,109,62,47,13,2:24
+9-Jul-2012,Newport,3,Grass,Q2,454,200,0,,6,Adrian Mannarino,Toshihide Matsui,6-2 7-6(4),0.48,15.6%,6.3%,50.0%,65.6%,65.6%,3/5,42.9%,16.4%,9.1%,5.6%,36.8%,0/1,119,10,4,64,32,32,5,1:22
+9-Jul-2012,Newport,3,Grass,Q1,454,959,1,,,Toshihide Matsui,Yuichi Ito,6-3 6-2,2.05,11.8%,3.9%,62.7%,84.4%,68.4%,2/2,58.7%,44.3%,5.7%,33.3%,58.1%,3/9,121,6,2,51,32,19,4,1:17
+25-Jun-2012,China F10,3,Hard,R16,457,770,0,6,,Sekou Bangoura,Toshihide Matsui,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Jun-2012,China F10,3,Hard,R32,457,1308,1,6,Q,Toshihide Matsui,Jun Chao Xu,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+14-May-2012,Korea F1,3,Hard,R32,434,740,0,5,,Suk Young Jeong,Toshihide Matsui,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2012,Busan CH,3,Hard,R16,419,185,0,,8,Amir Weintraub,Toshihide Matsui,6-1 6-1,0.47,2.6%,13.2%,50.0%,36.8%,47.4%,2/7,33.7%,27.1%,4.2%,25.8%,29.4%,0/4,86,1,5,38,19,19,2,0:53
+7-May-2012,Busan CH,3,Hard,R32,419,855,1,,WC,Toshihide Matsui,Jung Woong Na,3-6 6-3 6-4,1.22,6.1%,3.7%,65.9%,77.8%,57.1%,1/2,51.1%,35.8%,0.9%,31.1%,42.2%,2/12,188,5,3,82,54,28,1,2:13
+16-Apr-2012,China F6,3,Hard,SF,451,238,0,5,2,Ze Zhang,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,China F6,3,Hard,QF,451,388,1,5,3,Toshihide Matsui,Zhe Li,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,China F6,3,Hard,R16,451,1124,1,5,Q,Toshihide Matsui,Yusuke Watanuki,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,China F6,3,Hard,R32,451,,1,5,WC,Toshihide Matsui,Su Hao Zhong,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,China F5,3,Hard,QF,453,596,0,5,,Yu Chang,Toshihide Matsui,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,China F5,3,Hard,R16,453,505,1,5,,Toshihide Matsui,Mao Xin Gong,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,China F5,3,Hard,R32,453,1053,1,5,,Toshihide Matsui,Nian Feng,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Japan F4,3,Hard,SF,461,561,0,2,8,Liang Chi Huang,Toshihide Matsui,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Japan F4,3,Hard,QF,461,599,1,2,,Toshihide Matsui,Yu Chang,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Japan F4,3,Hard,R16,461,815,1,2,,Toshihide Matsui,Bowen Ouyang,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Japan F4,3,Hard,R32,461,,1,2,WC,Toshihide Matsui,Kaichi Uchida,7-6(1) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Japan F3,3,Hard,QF,481,590,0,3,8,Liang Chi Huang,Toshihide Matsui,7-6(4) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Japan F3,3,Hard,R16,481,,1,3,Q,Toshihide Matsui,Tadayuki Longhi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Japan F3,3,Hard,R32,481,,1,3,WC,Toshihide Matsui,Shoki Hachiya,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Japan F2,3,Hard,SF,481,733,0,3,,Yu Chang,Toshihide Matsui,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Japan F2,3,Hard,QF,481,542,1,3,7,Toshihide Matsui,Kittipong Wachiramanowong,4-6 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Japan F2,3,Hard,R16,481,752,1,3,,Toshihide Matsui,Chieh Fu Wang,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2012,Japan F2,3,Hard,R32,481,566,1,3,,Toshihide Matsui,Woong Sun Jun,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Pingguo CH,3,Hard,R16,506,248,0,,,Ze Zhang,Toshihide Matsui,7-5 7-5,0.74,2.7%,0.0%,59.5%,59.1%,66.7%,6/9,45.5%,28.2%,11.3%,22.4%,40.9%,1/5,145,2,0,74,44,30,8,1:45
+12-Mar-2012,Pingguo CH,3,Hard,R32,506,167,1,,3,Toshihide Matsui,Danai Udomchoke,1-6 6-4 6-4,1.10,13.8%,3.4%,60.9%,67.9%,61.8%,3/6,52.4%,38.0%,1.3%,38.0%,37.9%,2/4,166,12,3,87,53,34,1,1:54
+20-Feb-2012,Australia F2,3,Grass,R32,507,1049,0,,Q,Gavin Van Peperzeel,Toshihide Matsui,5-7 7-6(1) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,China F2,3,Hard,R32,476,360,0,,3,Pierre Hugues Herbert,Toshihide Matsui,4-6 7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2011,Toyota CH,3,Carpet,QF,494,686,0,,,Takao Suzuki,Toshihide Matsui,6-3 3-6 7-6(3),0.85,8.7%,2.2%,57.6%,83.0%,43.6%,5/7,48.0%,28.7%,10.3%,25.5%,33.3%,2/9,179,8,2,92,53,39,9,2:20
+21-Nov-2011,Toyota CH,3,Carpet,R16,494,435,1,,,Toshihide Matsui,Hiroki Kondo,6-3 6-4,1.15,13.3%,4.0%,72.0%,72.2%,52.4%,7/7,55.1%,38.5%,5.8%,36.6%,45.5%,2/3,127,10,3,75,54,21,3,1:24
+21-Nov-2011,Toyota CH,3,Carpet,R32,494,239,1,,6,Toshihide Matsui,Roman Borvanov,6-3 6-1,2.65,23.1%,7.7%,79.5%,87.1%,62.5%,0/0,64.2%,47.6%,7.1%,33.3%,66.7%,4/4,81,9,3,39,31,8,3,0:45
+17-Oct-2011,Seoul CH,3,Hard,R16,507,128,0,Q,5,Rik De Voest,Toshihide Matsui,6-4 6-3,0.82,5.4%,1.8%,58.9%,69.7%,47.8%,2/4,44.9%,32.4%,2.8%,22.9%,52.2%,0/4,127,3,1,56,33,23,2,1:35
+17-Oct-2011,Seoul CH,3,Hard,R32,507,476,1,Q,,Toshihide Matsui,Young Jun Kim,6-4 6-0,1.82,12.8%,4.3%,66.0%,87.1%,56.3%,1/1,59.6%,42.6%,4.3%,34.6%,52.4%,4/6,94,6,2,47,31,16,2,0:58
+8-Aug-2011,Canada Masters,3,Hard,Q1,456,100,0,,8,Michael Russell,Toshihide Matsui,6-4 5-7 6-4,0.83,9.1%,2.7%,61.8%,70.6%,38.1%,11/15,46.9%,34.7%,5.0%,30.3%,48.0%,3/16,211,10,3,110,68,42,5,2:17
+1-Aug-2011,Vancouver CH,3,Hard,R32,434,303,0,Q,,Carsten Ball,Toshihide Matsui,7-6(7) 6-3,0.69,6.4%,7.7%,55.1%,74.4%,48.6%,2/4,45.8%,25.8%,15.2%,23.8%,29.2%,0/4,144,5,6,78,43,35,10,1:25
+18-Jul-2011,Manta CH,3,Hard,R32,394,205,0,,4,Brian Dabul,Toshihide Matsui,6-2 6-4,0.52,5.4%,1.8%,67.9%,60.5%,55.6%,5/8,41.7%,21.3%,10.6%,13.8%,33.3%,0/0,103,3,1,56,38,18,5,1:11
+11-Jul-2011,Aptos CH,3,Hard,R32,397,985,0,,Q,Alexander Domijan,Toshihide Matsui,6-3 6-4,0.59,8.3%,5.0%,48.3%,72.4%,45.2%,1/3,42.5%,24.5%,9.4%,16.2%,43.8%,0/0,113,5,3,60,29,31,5,1:14
+20-Jun-2011,Guadalajara CH,3,Hard,R32,376,378,0,,,Artem Sitak,Toshihide Matsui,7-5 6-2,0.63,3.8%,1.3%,73.1%,61.4%,47.6%,9/12,44.2%,26.7%,8.3%,23.3%,35.3%,0/2,138,3,1,78,57,21,5,1:28
+13-Jun-2011,Japan F6,3,Hard,QF,379,652,0,2,6,Junn Mitsuhashi,Toshihide Matsui,6-7(4) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Japan F6,3,Hard,R16,379,876,1,2,WC,Toshihide Matsui,Jun Ito,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Japan F6,3,Hard,R32,379,1266,1,2,,Toshihide Matsui,Hiromasa Oku,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Indonesia F3,3,Hard,R32,368,,0,1,Q,Gabor Csonka,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Guam F1,3,Hard,QF,370,1535,0,2,WC,Jun Ito,Toshihide Matsui,6-7(3) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Guam F1,3,Hard,R16,370,,1,2,Q,Toshihide Matsui,Arthur Karagezian,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Guam F1,3,Hard,R32,370,,1,2,,Toshihide Matsui,Joseph Kasnetz,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Fergana CH,3,Hard,R16,383,347,0,,,Miloslav Mecir Jr,Toshihide Matsui,7-6(4) 4-6 6-3,0.91,9.3%,1.9%,68.5%,68.9%,44.1%,5/8,48.4%,35.5%,7.5%,32.4%,41.0%,3/5,215,10,2,108,74,34,8,2:22
+16-May-2011,Fergana CH,3,Hard,R32,383,392,1,,,Toshihide Matsui,Mikhail Ledovskikh,7-5 6-1,2.27,21.6%,3.9%,78.4%,82.5%,81.8%,0/0,61.4%,40.0%,8.0%,35.3%,50.0%,3/8,101,11,2,51,40,11,4,1:01
+9-May-2011,Busan CH,3,Hard,R16,400,147,0,Q,4,Dudi Sela,Toshihide Matsui,6-7(4) 6-4 6-1,0.84,4.7%,2.3%,64.0%,61.8%,61.3%,4/8,45.7%,32.4%,0.0%,23.7%,44.2%,1/6,188,4,2,86,55,31,0,2:04
+9-May-2011,Busan CH,3,Hard,R32,400,372,1,Q,,Toshihide Matsui,Daniel Yoo,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,China F4,3,Hard,R16,412,346,0,,5,Yong Kyu Lim,Toshihide Matsui,6-2 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,China F4,3,Hard,R32,412,636,1,,,Toshihide Matsui,Yuichi Ito,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Johannesburg CH,3,Hard,R32,421,198,0,Q,8,Matthew Ebden,Toshihide Matsui,7-5 6-3,0.70,3.5%,5.3%,56.1%,71.9%,40.0%,1/5,43.5%,29.3%,3.4%,16.0%,39.4%,1/2,115,2,3,57,32,25,2,1:07
+4-Apr-2011,Thailand F2,3,Hard,R32,418,619,0,6,,Simon Cauvard,Toshihide Matsui,5-7 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Kyoto CH,3,Carpet,R32,413,639,0,WC,WC,Yasutaka Uchiyama,Toshihide Matsui,6-1 6-4,0.51,10.7%,7.1%,55.4%,77.4%,28.0%,3/6,40.4%,22.9%,20.8%,21.9%,25.0%,0/2,104,6,4,56,31,25,10,1:11
+31-Jan-2011,Cambodia F2,3,Hard,R32,434,1175,0,4,Q,Peerakiat Siriluethaiwattana,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Cambodia F1,3,Hard,SF,436,387,0,3,1,Vishnu Vardhan,Toshihide Matsui,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Cambodia F1,3,Hard,QF,436,837,1,3,,Toshihide Matsui,Bumpei Sato,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Cambodia F1,3,Hard,R16,436,1146,1,3,Q,Toshihide Matsui,Elbert Sie,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Cambodia F1,3,Hard,R32,436,1431,1,3,WC,Toshihide Matsui,Nysan Tan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,China F2,3,Hard,R16,436,511,0,6,,Ante Pavic,Toshihide Matsui,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,China F2,3,Hard,R32,436,,1,6,Q,Toshihide Matsui,Ying Zheng Wang,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2010,Toyota CH,3,Carpet,R16,457,360,0,Q,,Hiroki Kondo,Toshihide Matsui,6-4 6-7(5) 6-3,0.83,19.4%,4.9%,63.1%,76.9%,47.4%,3/6,47.7%,28.1%,13.5%,21.7%,44.4%,1/4,199,20,5,103,65,38,13,2:00
+22-Nov-2010,Toyota CH,3,Carpet,R32,457,267,1,Q,7,Toshihide Matsui,Pablo Santos,6-3 6-4,2.12,22.9%,0.0%,77.1%,81.1%,90.9%,0/0,55.8%,35.4%,15.4%,24.4%,54.2%,2/6,113,11,0,48,37,11,10,0:57
+18-Oct-2010,Japan F10,3,Hard,QF,480,666,0,5,,Danai Udomchoke,Toshihide Matsui,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Japan F10,3,Hard,R16,480,691,1,5,,Toshihide Matsui,Arata Onozawa,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Japan F10,3,Hard,R32,480,,1,5,Q,Toshihide Matsui,Fabio Assuncao,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Japan F9,3,Hard,SF,479,674,0,6,,Danai Udomchoke,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Japan F9,3,Hard,QF,479,414,1,6,4,Toshihide Matsui,Yuichi Ito,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Japan F9,3,Hard,R16,479,675,1,6,,Toshihide Matsui,Shuichi Sekiguchi,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Japan F9,3,Hard,R32,479,967,1,6,Q,Toshihide Matsui,Masato Hatanaka,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2010,Tokyo,3,Hard,Q1,474,141,0,WC,5,Ivan Dodig,Toshihide Matsui,6-3 4-6 7-6(0),0.88,8.7%,2.9%,52.9%,72.7%,42.9%,6/10,47.6%,36.5%,10.6%,24.6%,53.5%,3/9,208,9,3,104,55,49,11,2:26
+20-Sep-2010,Australia F7,3,Hard,QF,487,311,0,7,3,Dayne Kelly,Toshihide Matsui,6-7(3) 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Australia F7,3,Hard,R16,487,1242,1,7,Q,Toshihide Matsui,Jonathon Cooper,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Australia F7,3,Hard,R32,487,1316,1,7,WC,Toshihide Matsui,Andrew Mcleod,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2010,Australia F6,3,Hard,QF,494,247,0,6,1,John Millman,Toshihide Matsui,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2010,Australia F6,3,Hard,R16,494,,1,6,WC,Toshihide Matsui,Mark Richards,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2010,Australia F6,3,Hard,R32,494,1146,1,6,Q,Toshihide Matsui,Isaac Frost,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,QF,468,352,0,8,4,Dayne Kelly,Toshihide Matsui,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,R16,468,743,1,8,,Toshihide Matsui,Jun Chao Xu,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2010,Australia F5,3,Hard,R32,468,616,1,8,,Toshihide Matsui,Yu Chang,1-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Salvador CH,3,Hard,R32,477,184,0,Q,8,Matthew Ebden,Toshihide Matsui,6-4 6-4,0.76,1.7%,1.7%,64.4%,73.7%,47.6%,4/6,45.8%,27.1%,0.0%,26.8%,27.8%,0/1,118,1,1,59,38,21,0,1:25
+2-Aug-2010,Campos Do Jordao CH,3,Hard,R16,512,256,0,Q,,Riccardo Ghedin,Toshihide Matsui,1-6 6-4 6-3,0.91,10.8%,5.9%,60.8%,75.8%,37.5%,7/9,48.5%,35.7%,10.2%,28.1%,50.0%,2/12,200,11,6,102,62,40,10,2:19
+2-Aug-2010,Campos Do Jordao CH,3,Hard,R32,512,129,1,Q,2,Toshihide Matsui,David Guez,6-4 6-2,1.26,6.3%,9.5%,41.3%,76.9%,48.6%,5/7,55.1%,50.0%,7.8%,36.1%,67.9%,5/14,127,4,6,63,26,37,5,1:07
+26-Jul-2010,Granby CH,3,Hard,R16,553,456,0,Q,WC,Frank Dancevic,Toshihide Matsui,6-4 7-5,0.86,3.5%,3.5%,54.4%,74.2%,61.5%,1/3,45.7%,27.1%,12.9%,31.7%,20.7%,0/3,127,2,2,57,31,26,9,1:25
+26-Jul-2010,Granby CH,3,Hard,R32,553,327,1,Q,,Toshihide Matsui,Prakash Amritraj,7-5 6-3,1.27,8.6%,2.9%,61.4%,74.4%,66.7%,5/5,55.5%,36.2%,8.6%,28.9%,50.0%,2/3,128,6,2,70,43,27,5,1:31
+21-Jun-2010,Japan F7,3,Carpet,F,625,445,0,5,2,Hiroki Kondo,Toshihide Matsui,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Japan F7,3,Carpet,SF,625,748,1,5,8,Toshihide Matsui,Oh Hee Kwon,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Japan F7,3,Carpet,QF,625,330,1,5,1,Toshihide Matsui,Yuichi Ito,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Japan F7,3,Carpet,R16,625,,1,5,WC,Toshihide Matsui,Shinta Fujii,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Japan F7,3,Carpet,R32,625,1190,1,5,Q,Toshihide Matsui,Yuya Tomisaki,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Japan F6,3,Carpet,QF,634,418,0,5,3,Hiroki Moriya,Toshihide Matsui,4-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Japan F6,3,Carpet,R16,634,1394,1,5,Q,Toshihide Matsui,Fumiaki Kita,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Japan F6,3,Carpet,R32,634,1394,1,5,Q,Toshihide Matsui,Hiromasa Oku,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Japan F5,3,Clay,R16,668,1081,0,4,,Chul Hee Lee,Toshihide Matsui,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Japan F5,3,Clay,R32,668,1393,1,4,WC,Toshihide Matsui,Hiromasa Oku,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Guam F1,3,Hard,SF,675,251,0,3,1,Tatsuma Ito,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Guam F1,3,Hard,QF,675,1647,1,3,,Toshihide Matsui,Hiroyasu Ehara,6-1 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Guam F1,3,Hard,R16,675,934,1,3,,Toshihide Matsui,Bumpei Sato,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Guam F1,3,Hard,R32,675,,1,3,Q,Toshihide Matsui,Cheong Eui Kim,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Busan CH,3,Hard,R32,599,343,0,Q,,Pierre Ludovic Duclos,Toshihide Matsui,6-3 7-6(7),0.75,0.0%,4.2%,64.8%,71.7%,56.0%,5/6,46.4%,25.4%,6.0%,12.8%,42.9%,0/0,138,0,3,71,46,25,4,1:32
+12-Apr-2010,China F4,3,Hard,R32,587,822,0,4,,Yu Chang,Toshihide Matsui,6-7(3) 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,China F3,3,Hard,R32,592,1093,0,3,Q,Peng Gao,Toshihide Matsui,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Kyoto CH,3,Carpet,R32,504,206,0,WC,8,Andre Begemann,Toshihide Matsui,6-1 6-1,0.33,0.0%,5.0%,50.0%,40.0%,40.0%,3/8,30.7%,20.0%,11.4%,10.0%,33.3%,0/0,75,0,2,40,20,20,4,0:42
+16-Nov-2009,Yokohama CH,3,Hard,R32,530,181,0,WC,3,Dieter Kindlmann,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Japan F8,3,Hard,SF,514,459,0,7,5,Junn Mitsuhashi,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Japan F8,3,Hard,QF,514,382,1,7,3,Toshihide Matsui,Hiroki Moriya,6-4 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Japan F8,3,Hard,R16,514,,1,7,Q,Toshihide Matsui,Yuya Tomisaki,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Japan F8,3,Hard,R32,514,,1,7,WC,Toshihide Matsui,Hiroyasu Ehara,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Tulsa CH,3,Hard,R32,498,145,0,,6,Ryan Sweeting,Toshihide Matsui,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Great Britain F12,3,Hard,F,551,437,0,5,2,Colin Fleming,Toshihide Matsui,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Great Britain F12,3,Hard,SF,551,882,1,5,,Toshihide Matsui,Andrew Anderson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Great Britain F12,3,Hard,QF,551,,1,5,WC,Toshihide Matsui,Tom Burn,7-6(8) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Great Britain F12,3,Hard,R16,551,1435,1,5,,Toshihide Matsui,Eddy Chala,7-6(3) 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Great Britain F12,3,Hard,R32,551,1160,1,5,,Toshihide Matsui,Daniel Kumlin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Almaty CH,3,Hard,R32,544,485,0,,Q,Denys Molchanov,Toshihide Matsui,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Granby CH,3,Hard,R32,450,253,0,Q,,Xavier Malisse,Toshihide Matsui,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Manta CH,3,Hard,R32,460,311,0,,,Fernando Vicente,Toshihide Matsui,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Newport,3,Grass,Q1,416,252,0,,,Izak Van Der Merwe,Toshihide Matsui,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2009,s Hertogenbosch,3,Grass,Q1,426,,0,8,,Scott Lipsky,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Busan CH,3,Hard,QF,409,243,0,,8,Blaz Kavcic,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Busan CH,3,Hard,R16,409,299,1,,,Toshihide Matsui,Yuichi Sugita,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Busan CH,3,Hard,R32,409,336,1,,,Toshihide Matsui,Jan Minar,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Korean Rep F1,3,Hard,R32,407,,0,4,,Gd Jones,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Japan F2,3,Hard,R16,409,773,0,6,,Yaoki Ishii,Toshihide Matsui,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Japan F2,3,Hard,R32,409,525,1,6,,Toshihide Matsui,Zhe Li,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Kyoto CH,3,Carpet,QF,430,333,0,Q,,Tatsuma Ito,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Kyoto CH,3,Carpet,R16,430,213,1,Q,5,Toshihide Matsui,Dieter Kindlmann,4-6 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2009,Kyoto CH,3,Carpet,R32,430,338,1,Q,,Toshihide Matsui,Alexander Slabinsky,7-6(6) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Melbourne CH,3,Hard,R32,440,827,0,,WC,Matt Reid,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Japan F11,3,Hard,SF,418,438,0,5,6,Yuichi Sugita,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Japan F11,3,Hard,QF,418,,1,5,WC,Toshihide Matsui,Hiromasa Oku,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Japan F11,3,Hard,R16,418,1082,1,5,,Toshihide Matsui,Hsien Yin Peng,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Japan F11,3,Hard,R32,418,1770,1,5,Q,Toshihide Matsui,Bumpei Sato,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Japan F10,3,Hard,R16,423,567,0,5,,Hiroki Kondo,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2008,Japan F10,3,Hard,R32,423,,1,5,Q,Toshihide Matsui,Sho Katayama,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Tokyo Q,3,Hard,Q2,428,159,0,12,1,Danai Udomchoke,Toshihide Matsui,6-2 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2008,Tokyo Q,3,Hard,Q1,428,481,1,12,WC,Toshihide Matsui,Tsung Hua Yang,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Japan F8,3,Hard,QF,342,481,0,2,7,Junn Mitsuhashi,Toshihide Matsui,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Japan F8,3,Hard,R16,342,1141,1,2,,Toshihide Matsui,Soong Jae Cho,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Japan F8,3,Hard,R32,342,1243,1,2,Q,Toshihide Matsui,Ze Zhang,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2008,Karshi CH,3,Hard,R32,316,143,0,,2,Michail Elgin,Toshihide Matsui,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,New Delhi IV CH,3,Hard,R16,337,164,0,,1,Danai Udomchoke,Toshihide Matsui,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,New Delhi IV CH,3,Hard,R32,337,589,1,,Q,Toshihide Matsui,Aqeel Khan,6-4 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,New Delhi III CH,3,Hard,QF,363,289,0,,7,Brydan Klein,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,New Delhi III CH,3,Hard,R16,363,523,1,,WC,Toshihide Matsui,Sunil Kumar Sipaeya,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,New Delhi III CH,3,Hard,R32,363,329,1,,4,Toshihide Matsui,Ivo Klec,6-7(5) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Cincinnati Masters Q,3,Hard,Q1,368,234,0,,10,Andrea Stoppini,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2008,Lexington CH,3,Hard,R32,366,92,0,,2,Bobby Reynolds,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Moncton CH,3,Hard,QF,397,401,0,,,Erik Chvojka,Toshihide Matsui,6-3 6-7(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Moncton CH,3,Hard,R16,397,421,1,,,Toshihide Matsui,Jae Sung An,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Moncton CH,3,Hard,R32,397,308,1,,8,Toshihide Matsui,Illya Marchenko,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2008,Granby CH,3,Hard,R32,397,298,0,,,Ti Chen,Toshihide Matsui,6-4 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Venezuela F2,3,Hard,QF,396,699,0,2,,Jose De Armas,Toshihide Matsui,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Venezuela F2,3,Hard,R16,396,801,1,2,,Toshihide Matsui,Sat Galan,6-4 0-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Venezuela F2,3,Hard,R32,396,,1,2,Q,Toshihide Matsui,Sandor Martinez Breijo,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,New Delhi2 CH,3,Hard,R32,408,211,0,,7,Alexander Kudryavtsev,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Korea Rep F3,3,Hard,QF,452,627,0,2,,Tsung Hua Yang,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Korea Rep F3,3,Hard,R16,452,1443,1,2,LL,Toshihide Matsui,Hiroyasu Sato,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Korea Rep F3,3,Hard,R32,452,785,1,2,,Toshihide Matsui,Arata Onozawa,7-6(8) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Korea Rep F2,3,Hard,F,453,480,0,,,Matthew Ebden,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Korea Rep F2,3,Hard,SF,453,460,1,,8,Toshihide Matsui,Kyu Tae Im,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Korea Rep F2,3,Hard,QF,453,342,1,,5,Toshihide Matsui,Samuel Groth,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Korea Rep F2,3,Hard,R16,453,567,1,,Q,Toshihide Matsui,Mao Xin Gong,W/O,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Korea Rep F2,3,Hard,R32,453,,1,,WC,Toshihide Matsui,Hwa Soo You,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Korea Rep F1,3,Hard,R32,479,336,0,,6,Samuel Groth,Toshihide Matsui,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,China F4,3,Hard,SF,477,365,0,,4,Satoshi Iwabuchi,Toshihide Matsui,6-2 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,China F4,3,Hard,QF,477,481,1,,,Toshihide Matsui,Karan Rastogi,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,China F4,3,Hard,R16,477,1213,1,,Q,Toshihide Matsui,Ze Zhang,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,China F4,3,Hard,R32,477,645,1,,,Toshihide Matsui,Kento Takeuchi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Busan CH,3,Hard,R32,474,109,0,,1,Yen Hsun Lu,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2008,USA F1,3,Hard,R16,455,1484,0,,Q,Todd Paul,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2008,USA F1,3,Hard,R32,455,224,1,,3,Toshihide Matsui,Jesse Witten,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Yokohama CH,3,Hard,R16,467,66,0,,1,Dudi Sela,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2007,Yokohama CH,3,Hard,R32,467,469,1,,,Toshihide Matsui,Oh Hee Kwon,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Japan F11,3,Hard,SF,462,388,0,3,2,Phillip King,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Japan F11,3,Hard,QF,462,675,1,3,8,Toshihide Matsui,Yuichi Ito,7-6(4) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Japan F11,3,Hard,R16,462,678,1,3,,Toshihide Matsui,Hiroki Kondo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Japan F11,3,Hard,R32,462,708,1,3,,Toshihide Matsui,Masato Hatanaka,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Japan F10,3,Hard,R16,464,774,0,4,,Guilherme Ochiai,Toshihide Matsui,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Japan F10,3,Hard,R32,464,829,1,4,,Toshihide Matsui,Yuichi Sugita,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Tokyo Q,3,Hard,Q1,455,640,0,12,,Norikazu Sugiyama,Toshihide Matsui,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Mumbai,3,Hard,R16,536,25,0,Q,4,Jarkko Nieminen,Toshihide Matsui,6-0 6-4,0.47,2.7%,2.7%,65.8%,62.5%,28.0%,6/10,40.5%,23.3%,2.3%,18.9%,50.0%,0/0,116,2,2,73,48,25,1,1:23
+24-Sep-2007,Mumbai,3,Hard,R32,536,817,1,Q,Q,Toshihide Matsui,Navdeep Singh,6-4 7-6(7),1.10,2.4%,7.2%,77.1%,73.4%,47.4%,8/9,52.2%,35.9%,3.8%,37.5%,31.8%,2/5,161,2,6,83,64,19,3,2:03
+24-Sep-2007,Mumbai Q,3,Hard,Q3,536,907,1,6,,Toshihide Matsui,Purav Raja,6-7(7) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Mumbai Q,3,Hard,Q2,536,,1,6,WC,Toshihide Matsui,Sudanwa Sitaram,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Japan F8,3,Hard,F,624,1042,0,6,,Yuichi Ito,Toshihide Matsui,6-1 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Japan F8,3,Hard,SF,624,640,1,6,5,Toshihide Matsui,Tatsuma Ito,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Japan F8,3,Hard,QF,624,457,1,6,3,Toshihide Matsui,Tetsuya Chaen,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Japan F8,3,Hard,R16,624,1497,1,6,WC,Toshihide Matsui,Sho Katayama,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Japan F8,3,Hard,R32,624,823,1,6,,Toshihide Matsui,Ruben Torres,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Venezuela F2,3,Hard,SF,720,535,0,7,3,Yohny Romero,Toshihide Matsui,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Venezuela F2,3,Hard,QF,720,,1,7,WC,Toshihide Matsui,Piero Luisi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Venezuela F2,3,Hard,R16,720,1504,1,7,WC,Toshihide Matsui,Miguel Cicenia,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Venezuela F2,3,Hard,R32,720,989,1,7,,Toshihide Matsui,Borja Malo,6-1 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Venezuela F1,3,Hard,QF,665,517,0,7,2,Julio Cesar Campozano,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Venezuela F1,3,Hard,R16,665,,1,7,Q,Toshihide Matsui,Bjorn Munroe,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Venezuela F1,3,Hard,R32,665,1507,1,7,WC,Toshihide Matsui,Leonel Vivas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,China F5,3,Hard,QF,605,364,0,8,2,Lester Cook,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,China F5,3,Hard,R16,605,1000,1,8,,Toshihide Matsui,Mao Xin Gong,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,China F5,3,Hard,R32,605,,1,8,Q,Toshihide Matsui,Meng Hua Lee,6-0 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Japan F7,3,Clay,R32,607,1500,0,5,Q,Junn Mitsuhashi,Toshihide Matsui,7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-May-2007,China F2,3,Hard,R32,504,893,0,3,,Haydn Lewis,Toshihide Matsui,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Korea Rep F3,3,Hard,R16,504,601,0,8,,Aleksandar Vlaski,Toshihide Matsui,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Korea Rep F3,3,Hard,R32,504,,1,8,Q,Toshihide Matsui,Seung Kyu Park,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Korea Rep F2,3,Hard,R32,504,290,0,,3,Ti Chen,Toshihide Matsui,0-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Mexico City2 CH,3,Hard,R32,374,236,0,,7,Tomas Cakl,Toshihide Matsui,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,San Luis Potosi CH,3,Clay,R16,394,151,0,,6,Adrian Garcia,Toshihide Matsui,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,San Luis Potosi CH,3,Clay,R32,394,389,1,,,Toshihide Matsui,Horia Tecau,7-6(4) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Ho Chi Minh City CH,3,Hard,R32,366,200,0,WC,8,Bobby Reynolds,Toshihide Matsui,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Kyoto CH,3,Carpet,R32,366,492,0,WC,WC,Yuichi Sugita,Toshihide Matsui,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2007,Burnie CH,3,Hard,R32,359,387,0,,Q,Sebastian Rieschick,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Seoul CH,3,Hard,R32,350,77,0,Q,3,Bjorn Phau,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2006,Japan F12,3,Hard,R32,362,971,0,5,Q,Zhe Li,Toshihide Matsui,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Japan F11,3,Hard,SF,365,328,0,5,4,Satoshi Iwabuchi,Toshihide Matsui,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Japan F11,3,Hard,QF,365,702,1,5,,Toshihide Matsui,Peng Sun,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Japan F11,3,Hard,R16,365,1107,1,5,WC,Toshihide Matsui,Hiroki Kondo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Japan F11,3,Hard,R32,365,555,1,5,,Toshihide Matsui,Jonathan Chu,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Manta CH,3,Hard,R16,293,254,0,,5,Jacob Adaktusson,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Manta CH,3,Hard,R32,293,279,1,,,Toshihide Matsui,Rogerio Dutra Silva,7-6(6) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Nottingham CH,3,Grass,R16,285,268,0,,,Jan Vacek,Toshihide Matsui,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Nottingham CH,3,Grass,R32,285,,1,,WC,Toshihide Matsui,Rob Searle,7-5 6-7(2) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,R32,276,642,0,6,Q,Ross Hutchins,Toshihide Matsui,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Great Britain F9,3,Grass,R16,272,553,0,1,,Riccardo Ghedin,Toshihide Matsui,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Great Britain F9,3,Grass,R32,272,575,1,1,,Toshihide Matsui,Alexander Slabinsky,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q2,277,181,0,,,Benedikt Dorsch,Toshihide Matsui,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q1,277,155,1,,26,Toshihide Matsui,Antony Dupuis,4-6 6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Busan CH,3,Hard,QF,283,97,0,,1,Danai Udomchoke,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Busan CH,3,Hard,R16,283,243,1,,7,Toshihide Matsui,Todd Widom,7-5 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Busan CH,3,Hard,R32,283,,1,,WC,Toshihide Matsui,Jin Seo Kim,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Japan F4,3,Hard,QF,282,473,0,3,,Gouichi Motomura,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Japan F4,3,Hard,R16,282,681,1,3,,Toshihide Matsui,Chu Huan Yi,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-May-2006,Japan F4,3,Hard,R32,282,,1,3,Q,Toshihide Matsui,Hyun Joon Suk,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-2006,Fergana CH,3,Hard,R32,281,367,0,,Q,Nicolas Tourte,Toshihide Matsui,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2006,Dharwad CH,3,Hard,R32,275,319,0,,,Henry Adjei Darko,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chikmagalur CH,3,Hard,F,347,114,0,,2,Danai Udomchoke,Toshihide Matsui,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chikmagalur CH,3,Hard,SF,347,109,1,,1,Toshihide Matsui,Hyung Taik Lee,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chikmagalur CH,3,Hard,QF,347,432,1,,,Toshihide Matsui,Karan Rastogi,7-5 6-7(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chikmagalur CH,3,Hard,R16,347,244,1,,7,Toshihide Matsui,Rohan Bopanna,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chikmagalur CH,3,Hard,R32,347,302,1,,,Toshihide Matsui,Victor Bruthans,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2006,Davis Cup G1 R2: THA vs JPN,3,Hard,RR,350,1112,1,,,Toshihide Matsui,Sanchai Ratiwatana,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Korea Rep F2,3,Hard,SF,364,341,0,6,3,Aleksandar Vlaski,Toshihide Matsui,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Korea Rep F2,3,Hard,QF,364,629,1,6,,Toshihide Matsui,Woong Sun Jun,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Korea Rep F2,3,Hard,R16,364,843,1,6,LL,Toshihide Matsui,Hyun Woo Nam,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,Korea Rep F2,3,Hard,R32,364,622,1,6,,Toshihide Matsui,Atsuo Ogawa,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,Kyoto CH,3,Carpet,R16,377,119,0,WC,2,Yen Hsun Lu,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2006,Kyoto CH,3,Carpet,R32,377,355,1,WC,,Toshihide Matsui,Yu Jr Wang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Australia F2,3,Hard,R16,373,339,0,,8,Ti Chen,Toshihide Matsui,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,Australia F2,3,Hard,R32,373,602,1,,WC,Toshihide Matsui,Andrew Coelho,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2006,Davis Cup G1 R1: JPN vs CHN,3,Carpet,RR,372,405,1,,,Toshihide Matsui,Peng Sun,6-0 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,China F2,3,Hard,R32,370,1183,0,6,WC,Zhe Li,Toshihide Matsui,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2005,India F7,3,Hard,QF,397,275,0,7,1,Rohan Bopanna,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2005,India F7,3,Hard,R16,397,,1,7,Q,Toshihide Matsui,Sanam Singh,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2005,India F7,3,Hard,R32,397,1052,1,7,LL,Toshihide Matsui,Navdeep Singh,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Sri Lanka F2,3,Clay,F,401,331,0,4,2,Go Soeda,Toshihide Matsui,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Sri Lanka F2,3,Clay,SF,401,792,1,4,,Toshihide Matsui,Chu Huan Yi,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Sri Lanka F2,3,Clay,QF,401,1225,1,4,,Toshihide Matsui,David Brewer,7-5 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Sri Lanka F2,3,Clay,R16,401,,1,4,Q,Toshihide Matsui,Fabian Poth,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Sri Lanka F2,3,Clay,R32,401,,1,4,WC,Toshihide Matsui,Rohan De Silva,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2005,Beijing,3,Hard,R16,443,8,0,LL,2,Guillermo Coria,Toshihide Matsui,6-1 6-0,0.41,3.3%,4.9%,60.7%,54.1%,16.7%,6/12,34.0%,25.0%,11.1%,18.2%,35.7%,0/3,97,2,3,61,37,24,4,0:54
+12-Sep-2005,Beijing,3,Hard,R32,443,320,1,LL,WC,Toshihide Matsui,Peng Sun,6-4 5-7 6-4,1.05,5.4%,5.4%,65.8%,57.5%,60.5%,6/10,50.9%,43.7%,0.8%,35.4%,60.0%,5/15,230,6,6,111,73,38,1,2:23
+5-Sep-2005,Japan F10,3,Hard,R32,491,,0,4,Q,Hsin Han Lee,Toshihide Matsui,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Japan F9,3,Hard,F,491,400,1,6,5,Toshihide Matsui,Michael Yani,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Japan F9,3,Hard,SF,491,380,1,6,4,Toshihide Matsui,Mark Nielsen,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Japan F9,3,Hard,QF,491,1326,1,6,Q,Toshihide Matsui,Jonathan Chu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Japan F9,3,Hard,R16,491,818,1,6,,Toshihide Matsui,Chu Huan Yi,6-7(0) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Japan F9,3,Hard,R32,491,919,1,6,Q,Toshihide Matsui,Hiu Tung Yu,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Bukhara CH,3,Hard,R16,510,370,0,,,Marco Pedrini,Toshihide Matsui,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Bukhara CH,3,Hard,R32,510,802,1,,WC,Toshihide Matsui,Akmal Sharipov,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Jul-2005,Granby CH,3,Hard,R32,472,249,0,Q,,Harsh Mankad,Toshihide Matsui,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Bogota CH,3,Clay,R16,469,279,0,,8,Jean Julien Rojer,Toshihide Matsui,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Bogota CH,3,Clay,R32,469,633,1,,,Toshihide Matsui,Diego Veronelli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Forest Hills CH,3,Grass,R32,454,120,0,Q,2,Daniele Bracciali,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,Cuenca CH,3,Clay,R16,470,108,0,,1,Razvan Sabau,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,Cuenca CH,3,Clay,R32,470,,1,,WC,Toshihide Matsui,Federico Ciarrochi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 4,3,Hard,F,482,562,0,2,6,Yohny Romero,Toshihide Matsui,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 2,3,Hard,SF,482,,0,3,,Ricardo Chile Fonte,Toshihide Matsui,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 4,3,Hard,SF,482,984,1,2,,Toshihide Matsui,Matthew Behrmann,6-7(5) 7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 2,3,Hard,QF,482,984,1,3,7,Toshihide Matsui,Matthew Behrmann,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 4,3,Hard,QF,482,934,1,2,,Toshihide Matsui,Jimy Szymanski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 1,3,Hard,R16,482,,0,3,,Alessandro Gravina,Toshihide Matsui,5-7 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 2,3,Hard,R16,482,714,1,3,,Toshihide Matsui,Rob Steckley,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 4,3,Hard,R16,482,1473,1,2,Q,Toshihide Matsui,Mikhail Lew,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 2,3,Hard,R32,482,,1,3,Q,Toshihide Matsui,Maximiliano Picon,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 3,3,Hard,R32,482,934,0,2,,Jimy Szymanski,Toshihide Matsui,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Venezuela 1 Satellite 4,3,Hard,R32,482,714,1,2,,Toshihide Matsui,Rob Steckley,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2005,Mexico F4,3,Hard,R16,481,517,0,6,,Nicholas Monroe,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2005,Mexico F4,3,Hard,R32,481,,1,6,WC,Toshihide Matsui,Jaime Clarke,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,Canberra CH,3,Clay,R32,483,465,0,,,Go Soeda,Toshihide Matsui,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2005,Australia F4,3,Clay,R32,481,252,0,,1,Werner Eschauer,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2005,Kyoto CH,3,Carpet,R32,491,181,0,WC,4,Jimmy Wang,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2005,New Zealand F1,3,Hard,R32,463,,0,,WC,Daniel King Turner,Toshihide Matsui,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2005,Burnie CH,3,Hard,R32,463,251,0,,2,Gouichi Motomura,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,USA F3,3,Hard,QF,466,595,0,8,,Henry Adjei Darko,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,USA F3,3,Hard,R16,466,1268,1,8,SE,Toshihide Matsui,Nikita Kryvonos,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,USA F3,3,Hard,R32,466,1001,1,8,WC,Toshihide Matsui,Gary Sacks,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,USA F2,3,Hard,R32,466,508,0,8,,Jonathan Igbinovia,Toshihide Matsui,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2004,Caloundra CH,3,Hard,R32,451,374,0,,,Domenic Marafiote,Toshihide Matsui,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2004,Thailand F1,3,Hard,R32,452,724,0,8,,Sebo Kiss,Toshihide Matsui,7-6(2) 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,Beijing CH,3,Hard,R16,442,211,0,LL,,Florent Serra,Toshihide Matsui,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,Beijing CH,3,Hard,R32,442,339,1,LL,,Toshihide Matsui,Ivo Klec,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,R32,395,225,0,Q,,Jo Wilfried Tsonga,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,Japan F6,3,Hard,QF,395,605,0,,,Go Soeda,Toshihide Matsui,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,Japan F6,3,Hard,R16,395,1325,1,,Q,Toshihide Matsui,Hiroyasu Sato,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,Japan F6,3,Hard,R32,395,378,1,,7,Toshihide Matsui,John Paul Fruttero,2-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Aug-2004,Bukhara CH,3,Hard,R32,396,312,0,,8,Florin Mergea,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Manta CH,3,Hard,QF,410,227,0,,4,Ivan Miranda,Toshihide Matsui,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Manta CH,3,Hard,R16,410,248,1,,6,Toshihide Matsui,Michael Russell,6-7(2) 7-6(2) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Manta CH,3,Hard,R32,410,795,1,,,Toshihide Matsui,Yaoki Ishii,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,Aptos CH,3,Hard,R16,443,688,0,Q,Q,Phillip King,Toshihide Matsui,1-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,Aptos CH,3,Hard,R32,443,283,1,Q,,Toshihide Matsui,Andres Pedroso,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,Granby CH,3,Hard,R32,449,309,0,,,Todd Widom,Toshihide Matsui,6-7(5) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2004,Canada F5,3,Hard,R32,,,0,5,,Dejan Cvetkovic,Toshihide Matsui,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Canada F4,3,Hard,R16,470,507,0,5,,Shannon Nettle,Toshihide Matsui,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Canada F4,3,Hard,R32,470,617,1,5,,Toshihide Matsui,Matt Klinger,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2004,Canada F3,3,Hard,SF,471,589,0,3,8,Thomas Blake,Toshihide Matsui,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2004,Canada F3,3,Hard,QF,471,838,1,3,Q,Toshihide Matsui,Cary Franklin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2004,Canada F3,3,Hard,R16,471,753,1,3,,Toshihide Matsui,Jonathan Igbinovia,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2004,Canada F3,3,Hard,R32,471,704,1,3,,Toshihide Matsui,Sanjin Sadovich,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-2004,Fergana CH,3,Hard,R32,490,522,0,,Q,Sunil Kumar Sipaeya,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-2004,Korea Rep F2,3,Hard,QF,494,455,0,,,Michihisa Onoda,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2004,Korea Rep F2,3,Hard,R16,494,817,1,,WC,Toshihide Matsui,Hyun Woo Nam,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-May-2004,Korea Rep F2,3,Hard,R32,494,402,1,,7,Toshihide Matsui,Michael Ryderstedt,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2004,Korea Rep F1,3,Hard,R32,498,373,0,,6,Satoshi Iwabuchi,Toshihide Matsui,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2004,Japan F3,3,Hard,R16,493,1417,0,7,Q,Lee Radovanovich,Toshihide Matsui,7-6(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Apr-2004,Japan F3,3,Hard,R32,493,714,1,7,,Toshihide Matsui,Oh Hee Kwon,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,New Zealand F3,3,Hard,QF,,,0,5,,Sonchat Ratiwatana,Toshihide Matsui,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,New Zealand F3,3,Hard,R16,,,1,5,,Toshihide Matsui,Kyu Tae Im,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,New Zealand F3,3,Hard,R32,,,1,5,,Toshihide Matsui,Kentaro Masuda,6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2004,Kyoto CH,3,Carpet,R16,472,245,0,WC,6,Louis Vosloo,Toshihide Matsui,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2004,Kyoto CH,3,Carpet,R32,472,381,1,WC,,Toshihide Matsui,Denis Gremelmayr,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2004,Canada F2,3,Hard,R32,475,379,0,,6,Jacob Adaktusson,Toshihide Matsui,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2004,Canada F1,3,Hard,R32,478,506,0,,,Ryan Sachire,Toshihide Matsui,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Dec-2003,India F8,3,Hard,R32,468,908,0,4,WC,Vishal Punna,Toshihide Matsui,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Thailand F1,3,Hard,QF,475,839,0,5,LL,Nikos Rovas,Toshihide Matsui,4-6 6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Thailand F1,3,Hard,R16,475,512,1,5,,Toshihide Matsui,Martin Slanar,6-2 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Thailand F1,3,Hard,R32,475,1206,1,5,Q,Toshihide Matsui,Stefan Kilchhofer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Belgaum CH,3,Hard,R16,521,244,0,Q,7,Vadim Kutsenko,Toshihide Matsui,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Belgaum CH,3,Hard,R32,521,424,1,Q,,Toshihide Matsui,Paul Logtens,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Seoul CH,3,Hard,QF,598,172,0,,,Dennis Van Scheppingen,Toshihide Matsui,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Seoul CH,3,Hard,R16,598,857,1,,,Toshihide Matsui,Toshiaki Sakai,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Seoul CH,3,Hard,R32,598,875,1,,,Toshihide Matsui,Dong Hyun Kim,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2003,Japan F7,3,Hard,QF,623,597,0,,,Kentaro Masuda,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2003,Japan F7,3,Hard,R16,623,516,1,,7,Toshihide Matsui,Mark Nielsen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2003,Japan F7,3,Hard,R32,623,1405,1,,WC,Toshihide Matsui,Atsushi Kanayama,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Japan F6,3,Hard,QF,622,338,0,8,4,Doug Bohaboy,Toshihide Matsui,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Japan F6,3,Hard,R16,622,,1,8,Q,Toshihide Matsui,Koji Motomura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Japan F6,3,Hard,R32,622,,1,8,WC,Toshihide Matsui,Yuichi Sugita,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2003,USA F24,3,Hard,QF,651,962,0,,Q,Jimy Szymanski,Toshihide Matsui,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2003,USA F24,3,Hard,R16,651,497,1,,5,Toshihide Matsui,Ryan Sachire,4-6 6-3 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2003,USA F24,3,Hard,R32,651,,1,,Q,Toshihide Matsui,Aaron Marchetti,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,SF,651,528,0,,7,Michihisa Onoda,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,QF,651,940,1,,LL,Toshihide Matsui,Vishal Uppal,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,R16,651,760,1,,,Toshihide Matsui,David Martin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,R32,651,483,1,,4,Toshihide Matsui,Francisco Rodriguez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2003,USA F22,3,Hard,R32,649,992,0,,Q,Mat Cloer,Toshihide Matsui,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Mexico F10,3,Clay,R32,656,1289,0,8,Q,Sergio Bruni,Toshihide Matsui,5-7 6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Mexico F9,3,Hard,R32,656,,0,,,Jhonnatan Medina Alvarez,Toshihide Matsui,1-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2003,Busan CH,3,Hard,R32,661,514,0,,,Seung Kyu Park,Toshihide Matsui,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2003,Korea Rep F3,3,Hard,R32,620,456,0,,7,Filip Prpic,Toshihide Matsui,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2003,Japan F3,3,Hard,R16,612,1336,0,6,Q,Alexandre Renard,Toshihide Matsui,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2003,Japan F3,3,Hard,R32,612,,1,6,LL,Toshihide Matsui,Mikhail Razumovski,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Japan F2,3,Hard,R16,639,277,0,,1,Takahiro Terachi,Toshihide Matsui,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2003,Japan F2,3,Hard,R32,639,1032,1,,,Toshihide Matsui,Henry Beam,6-2 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Qatar F2,3,Hard,QF,671,985,0,,Q,Gary Lugassy,Toshihide Matsui,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Qatar F2,3,Hard,R16,671,298,1,,1,Toshihide Matsui,Rogier Wassen,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Qatar F2,3,Hard,R32,671,,1,,WC,Toshihide Matsui,Mohammed Saadon Al Kawari,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Qatar F1,3,Hard,QF,680,507,0,,4,Michael Berrer,Toshihide Matsui,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Qatar F1,3,Hard,R16,680,532,1,,6,Toshihide Matsui,Mustafa Ghouse,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Qatar F1,3,Hard,R32,680,983,1,,Q,Toshihide Matsui,Mohammad Ghareeb,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2003,India F5,3,Hard,R16,693,583,0,,,Jasper Smit,Toshihide Matsui,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2003,India F5,3,Hard,R32,693,560,1,,,Toshihide Matsui,Juraj Hasko,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2003,India F4,3,Hard,R16,693,348,0,Q,5,Rohan Bopanna,Toshihide Matsui,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2003,India F4,3,Hard,R32,693,850,1,Q,WC,Toshihide Matsui,Rishi Sridhar,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,Kyoto CH,3,Carpet,R32,702,214,0,WC,7,Rodolphe Cadart,Toshihide Matsui,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2002,Thailand F2,3,Hard,R32,628,622,0,,,Konstantin Don Gruber,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2002,Thailand F1,3,Hard,R32,628,930,0,,Q,Rui Machado,Toshihide Matsui,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2002,Hong Kong F2,3,Hard,R32,629,632,0,,,Konstantin Don Gruber,Toshihide Matsui,6-7(4) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2002,Japan F7,3,Hard,SF,596,260,0,,2,Takahiro Terachi,Toshihide Matsui,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2002,Japan F7,3,Hard,QF,596,496,1,,8,Toshihide Matsui,Jun Kato,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2002,Japan F7,3,Hard,R16,596,586,1,,,Toshihide Matsui,Yong Il Yoon,6-0 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2002,Japan F7,3,Hard,R32,596,878,1,,,Toshihide Matsui,Christian Straka,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2002,Japan F6,3,Hard,R32,601,393,0,,7,Tasuku Iwami,Toshihide Matsui,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2002,Mexico F12,3,Hard,R32,629,,0,,WC,Victor Romero,Toshihide Matsui,6-7(7) 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,USA F24,3,Hard,QF,626,747,0,5,,Francisco Rodriguez,Toshihide Matsui,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,USA F24,3,Hard,R16,626,,1,5,Q,Toshihide Matsui,Matt Daly,6-3 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2002,USA F24,3,Hard,R32,626,970,1,5,,Toshihide Matsui,Raphael Durek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2002,Canada F3,3,Hard,R32,593,1191,0,,Q,Simon Rea,Toshihide Matsui,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2002,Canada F2,3,Hard,R32,588,633,0,7,,Luke Smith,Toshihide Matsui,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2002,Canada F1,3,Hard,R32,588,637,0,8,,Peter Handoyo,Toshihide Matsui,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2002,Japan F5,3,Hard,R16,619,371,0,,6,Satoshi Iwabuchi,Toshihide Matsui,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2002,Japan F5,3,Hard,R32,619,,1,,WC,Toshihide Matsui,Ryo Oki,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2002,Japan F4,3,Hard,QF,616,316,0,,5,Or Dekel,Toshihide Matsui,0-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2002,Japan F4,3,Hard,R16,616,1203,1,,Q,Toshihide Matsui,Atsuo Ogawa,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2002,Japan F4,3,Hard,R32,616,287,1,,3,Toshihide Matsui,Takahiro Terachi,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+6-May-2002,Uzbekistan F4,3,Hard,R32,633,263,0,Q,6,Aisam Ul Haq Qureshi,Toshihide Matsui,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Apr-2002,Uzbekistan F3,3,Hard,QF,631,570,0,,,Philipp Mukhometov,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2002,Uzbekistan F3,3,Hard,R16,631,416,1,,8,Toshihide Matsui,Dirk Stegmann,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2002,Uzbekistan F3,3,Hard,R32,631,1378,1,,PR,Toshihide Matsui,Alexander Reichel,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2002,Japan F2,3,Carpet,R32,629,807,0,5,,Riccardo Capannelli,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2002,Uzbekistan F2,3,Hard,R32,627,539,0,Q,,Branislav Sekac,Toshihide Matsui,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2002,Uzbekistan F1,3,Hard,R32,623,393,0,,6,Juraj Hasko,Toshihide Matsui,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Feb-2002,Croatia F2,3,Hard,R16,621,248,0,LL,1,Lovro Zovko,Toshihide Matsui,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2002,Croatia F2,3,Hard,R32,621,1166,1,LL,WC,Toshihide Matsui,Tomislav Peric,3-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2001,Philippines F2,3,Hard,QF,655,409,0,,5,Benjamin Cassaigne,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2001,Philippines F2,3,Hard,R16,655,1199,1,,LL,Toshihide Matsui,Hendri Susilo Pramono,6-1 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2001,Philippines F2,3,Hard,R32,655,,1,,WC,Toshihide Matsui,Johnny Arcilla,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2001,Philippines F1,3,Hard,R32,702,375,0,SE,8,Rik De Voest,Toshihide Matsui,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2001,Vietnam F1,3,Hard,SF,706,266,0,,1,Aisam Ul Haq Qureshi,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2001,Vietnam F1,3,Hard,QF,706,808,1,,Q,Toshihide Matsui,Mustafa Ghouse,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2001,Vietnam F1,3,Hard,R16,706,406,1,,4,Toshihide Matsui,Lior Dahan,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2001,Vietnam F1,3,Hard,R32,706,902,1,,Q,Toshihide Matsui,Ciaran Moore,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2001,Seoul CH,3,Hard,R16,792,385,0,Q,,Mario Ancic,Toshihide Matsui,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2001,Seoul CH,3,Hard,R32,792,277,1,Q,8,Toshihide Matsui,Suwandi Suwandi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2001,Hong Kong F2,3,Hard,R32,793,1040,0,,,Yen Hsun Lu,Toshihide Matsui,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2001,Japan F8,3,Hard,R16,821,1385,0,,Q,David Hodge,Toshihide Matsui,1-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2001,Japan F8,3,Hard,R32,821,638,1,,7,Toshihide Matsui,Tetsuya Chaen,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2001,Japan F7,3,Hard,R32,833,791,0,,Q,Frank Moser,Toshihide Matsui,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Japan F6,3,Hard,R16,829,416,0,,1,Peter Clarke,Toshihide Matsui,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2001,Japan F6,3,Hard,R32,829,1172,1,,,Toshihide Matsui,Katsushi Fukuda,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Aug-2001,Chinese Taipei F2,3,Hard,R32,846,550,0,,1,Jimmy Wang,Toshihide Matsui,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2001,Chinese Taipei F1,3,Hard,R16,890,559,0,,3,Seung Hoon Lee,Toshihide Matsui,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2001,Chinese Taipei F1,3,Hard,R32,890,,1,,Q,Toshihide Matsui,Ti Chen,1-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2001,USA F19,3,Hard,R16,884,356,0,Q,6,Matthew Breen,Toshihide Matsui,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2001,USA F19,3,Hard,R32,884,1148,1,Q,Q,Toshihide Matsui,Michael Kosta,2-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2001,USA F18,3,Hard,R32,825,447,0,LL,4,Michihisa Onoda,Toshihide Matsui,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,USA F17A,3,Clay,R16,865,507,0,Q,2,Jay Gooding,Toshihide Matsui,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2001,USA F17A,3,Clay,R32,865,1033,1,Q,,Toshihide Matsui,Ajay Ramaswami,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2001,Korea Rep F1,3,Clay,R32,853,903,0,,,Oh Hee Kwon,Toshihide Matsui,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+21-May-2001,Japan F5,3,Hard,R32,788,495,0,Q,8,Diego Ayala,Toshihide Matsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2001,Japan F4,3,Hard,R32,783,778,0,WC,,Lee Radovanovich,Toshihide Matsui,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2001,Uzbekistan F2,3,Hard,R16,806,583,0,Q,,Jordan Kerr,Toshihide Matsui,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2001,Uzbekistan F2,3,Hard,R32,806,1328,1,Q,Q,Toshihide Matsui,Eduard Koifman,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2001,Uzbekistan F1,3,Hard,R32,804,234,0,Q,4,Denis Golovanov,Toshihide Matsui,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,Japan F3,3,Clay,R16,864,439,0,,4,Alexander Peya,Toshihide Matsui,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,Japan F3,3,Clay,R32,864,921,1,,,Toshihide Matsui,Melvin Tong,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2001,Japan F2,3,Carpet,R32,864,727,0,,,Tetsuya Chaen,Toshihide Matsui,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2001,Japan F1,3,Carpet,R16,868,730,0,,7,Tetsuya Chaen,Toshihide Matsui,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2001,Japan F1,3,Carpet,R32,868,1107,1,,Q,Toshihide Matsui,Giunior Ghedina,7-6(2) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2000,Yokohama CH,3,Carpet,R32,856,249,0,LL,,Aisam Ul Haq Qureshi,Toshihide Matsui,3-6 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,Japan F8,3,Hard,R16,937,526,0,,2,Leigh Holland,Toshihide Matsui,6-1 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,Japan F8,3,Hard,R32,937,,1,,Q,Toshihide Matsui,Jae Sung An,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Japan F7,3,Hard,R16,937,814,0,,,Jay Gooding,Toshihide Matsui,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2000,Japan F7,3,Hard,R32,937,,1,,WC,Toshihide Matsui,Joji Miyao,7-6(4) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2000,Japan F6,3,Hard,R16,927,,0,,Q,Benjamin Becker,Toshihide Matsui,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2000,Japan F6,3,Hard,R32,927,800,1,,,Toshihide Matsui,Jay Gooding,5-7 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2000,Turkey F3,3,Hard,QF,1032,369,0,Q,2,Josh Tuckfield,Toshihide Matsui,7-6(3) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2000,Turkey F3,3,Hard,R16,1032,523,1,Q,8,Toshihide Matsui,Karim Maamoun,6-2 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2000,Turkey F3,3,Hard,R32,1032,780,1,Q,Q,Toshihide Matsui,Benoit Foucher,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2000,Turkey F2,3,Hard,R32,1049,828,0,LL,SE,Arne Kreitz,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2000,Turkey F1,3,Hard,R32,1049,479,0,,6,Sebastian Swierk,Toshihide Matsui,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,QF,1317,,0,Q,Q,Jonathan Beardsley,Toshihide Matsui,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,R16,1317,864,1,Q,Q,Toshihide Matsui,Coenie Van Wyk,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,R32,1317,839,1,Q,,Toshihide Matsui,Kunj Majmudar,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2000,Japan F1,3,Carpet,R32,1205,534,0,Q,7,Victor Bruthans,Toshihide Matsui,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Jun-1999,Japan 1 Masters 2,3,Hard,R32,1294,,0,Q,WC,Ryota Taguchi,Toshihide Matsui,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Mar-1999,Japan F2,3,Carpet,R16,,313,0,WC,4,Yaoki Ishii,Toshihide Matsui,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Mar-1999,Japan F2,3,Carpet,R32,,869,1,WC,Q,Toshihide Matsui,Andrian Raturandang,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,

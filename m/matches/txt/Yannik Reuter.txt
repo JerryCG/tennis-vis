@@ -1,0 +1,504 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Sep-2021,M25 Eupen,3,Clay,R32,1574,610,0,WC,Q,Juan Ignacio Galarza,Yannik Reuter,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambermont,3,Clay,R16,1701,450,0,,2,Dan Added,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M15 Lambermont,3,Clay,R32,1701,858,1,,,Yannik Reuter,Paul Cayre,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,R16,,558,0,WC,3,Nick Hardt,Yannik Reuter,6-2 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Eupen,3,Clay,R32,,,1,WC,,Yannik Reuter,Theo Vandeweghe,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2018,Belgium F9,3,Clay,R32,737,1184,0,7,,Leonard Von Hindte,Yannik Reuter,3-1 RET,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Belgium F7,3,Clay,R32,722,,0,,Q,Alban Meuffels,Yannik Reuter,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Belgium F2,3,Clay,R16,638,459,0,,,Gijs Brouwer,Yannik Reuter,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Belgium F2,3,Clay,R32,638,797,1,,,Yannik Reuter,Jakub Paul,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,QF,639,619,0,,5,Clement Geens,Yannik Reuter,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,R16,639,1984,1,,,Yannik Reuter,Quentin Folliot,6-3 0-6 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,Belgium F1,3,Clay,R32,639,1356,1,,Q,Yannik Reuter,Constant De La Bassetiere,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,France F4,3,Hard,R32,485,599,0,,,Romain Barbosa,Yannik Reuter,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Turkey F6,3,Hard,QF,491,389,0,6,,Jordi Samper Montana,Yannik Reuter,3-6 6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Turkey F6,3,Hard,R16,491,739,1,6,,Yannik Reuter,Pavel Nejedly,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Turkey F6,3,Hard,R32,491,705,1,6,,Yannik Reuter,Marat Deviatiarov,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Germany F3,3,Carpet,R16,470,628,0,,,Marvin Moeller,Yannik Reuter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,Germany F3,3,Carpet,R32,470,587,1,,,Yannik Reuter,Colin Van Beem,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2018,Rennes CH,3,Hard,Q1,441,415,0,,,Mikael Ymer,Yannik Reuter,6-4 6-1,0.78,0.0%,1.9%,62.3%,48.5%,35.0%,2/8,43.8%,44.0%,5.3%,36.7%,57.7%,3/10,128,0,1,53,33,20,4,1:23
+15-Jan-2018,Koblenz CH,3,Hard,Q1,441,536,0,,,Adrien Bossel,Yannik Reuter,2-6 6-4 6-1,0.85,3.5%,2.3%,54.7%,63.8%,46.2%,4/8,47.2%,37.7%,3.9%,25.0%,48.8%,3/14,163,3,2,86,47,39,3,1:47
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,R16,454,186,0,Q,,Alexey Vatutin,Yannik Reuter,7-5 6-1,0.54,0.0%,1.5%,65.7%,59.1%,39.1%,6/10,40.5%,25.9%,9.3%,14.7%,45.0%,1/5,121,0,1,67,44,23,5,1:26
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,R32,454,152,1,Q,9,Yannik Reuter,Tommy Robredo,6-4 6-2,1.22,12.3%,0.0%,59.6%,67.6%,60.9%,4/5,54.7%,42.9%,6.1%,43.8%,41.2%,4/7,106,7,0,57,34,23,3,1:09
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q3,454,380,1,,5,Yannik Reuter,Yannick Vandenbulcke,6-3 6-0,1.64,0.0%,0.0%,61.4%,74.1%,47.1%,0/1,61.4%,59.6%,0.0%,55.6%,63.3%,6/11,101,0,0,44,27,17,0,1:12
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q2,454,298,1,,4,Yannik Reuter,Antoine Hoang,6-7(0) 7-6(6) 6-4,0.90,3.2%,1.6%,57.9%,65.8%,60.4%,8/10,49.6%,33.0%,7.5%,35.1%,28.1%,3/5,232,4,2,126,73,53,8,2:48
+6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q1,454,1234,1,,,Yannik Reuter,Joffrey De Schepper,1-6 6-3 6-2,1.17,8.5%,4.2%,66.2%,72.3%,58.3%,1/3,52.4%,37.8%,8.1%,32.6%,46.4%,3/9,145,6,3,71,47,24,6,1:31
+23-Oct-2017,Brest CH,3,Hard,R32,486,78,0,Q,2,Marius Copil,Yannik Reuter,6-3 6-4,0.40,4.6%,4.6%,64.6%,61.9%,43.5%,8/11,40.0%,17.8%,33.3%,6.7%,40.0%,0/1,110,3,3,65,42,23,15,1:09
+23-Oct-2017,Brest CH,3,Hard,Q3,486,636,1,5,,Yannik Reuter,Hugo Nys,6-4 7-5,1.48,0.0%,4.4%,57.4%,74.4%,69.0%,4/4,54.4%,41.3%,6.5%,29.8%,53.3%,2/10,160,0,3,68,39,29,6,1:37
+23-Oct-2017,Brest CH,3,Hard,Q2,486,518,1,5,,Yannik Reuter,Yann Marti,6-3 6-4,1.11,4.5%,8.0%,52.3%,73.9%,35.7%,10/13,53.2%,49.1%,1.9%,34.5%,66.7%,5/9,141,4,7,88,46,42,1,1:32
+21-Aug-2017,Belgium F10,3,Clay,SF,298,480,0,1,3,Clement Geens,Yannik Reuter,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Belgium F10,3,Clay,QF,298,435,1,1,6,Yannik Reuter,Christopher Heyman,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Belgium F10,3,Clay,R16,298,1283,1,1,Q,Yannik Reuter,Maxime Pauwels,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Belgium F10,3,Clay,R32,298,1021,1,1,,Yannik Reuter,Mateusz Terczynski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Meerbusch CH,3,Clay,R32,297,62,0,,1,Florian Mayer,Yannik Reuter,6-0 6-0,0.31,3.2%,6.5%,58.1%,33.3%,7.7%,2/8,23.4%,24.2%,6.1%,16.7%,33.3%,0/3,64,1,2,31,18,13,2,0:37
+31-Jul-2017,Biella CH,3,Clay,R32,298,177,0,,,Salvatore Caruso,Yannik Reuter,7-5 6-3,0.71,0.0%,11.5%,57.7%,76.7%,40.9%,0/3,43.2%,27.1%,6.8%,17.6%,40.0%,1/2,111,0,6,52,30,22,4,1:19
+24-Jul-2017,Tampere CH,3,Clay,QF,277,213,0,,8,Calvin Hemery,Yannik Reuter,6-2 6-2,0.50,0.0%,9.1%,61.4%,55.6%,35.3%,0/4,36.7%,26.1%,13.0%,18.5%,36.8%,0/0,90,0,4,44,27,17,6,1:02
+24-Jul-2017,Tampere CH,3,Clay,R16,277,131,1,,3,Yannik Reuter,Guillermo Garcia Lopez,4-6 6-4 7-6(5),1.29,1.1%,3.3%,65.2%,78.3%,59.4%,1/4,52.2%,36.5%,3.5%,23.0%,51.9%,3/7,207,1,3,92,60,32,4,2:35
+24-Jul-2017,Tampere CH,3,Clay,R32,277,256,1,,,Yannik Reuter,Agustin Velotti,7-6(1) 1-6 6-2,0.91,1.1%,4.4%,57.8%,69.2%,50.0%,5/8,49.1%,35.4%,5.1%,34.2%,36.6%,3/6,169,1,4,90,52,38,4,2:08
+17-Jul-2017,Poznan CH,3,Clay,R32,280,977,0,,WC,Michal Dembek,Yannik Reuter,6-4 6-2,0.65,3.8%,5.8%,51.9%,66.7%,40.0%,4/8,42.2%,30.0%,4.0%,37.9%,19.0%,1/2,102,2,3,52,27,25,2,1:09
+3-Jul-2017,Marburg CH,3,Clay,R32,242,229,0,,,Riccardo Bellotti,Yannik Reuter,2-6 6-1 6-4,0.99,5.2%,3.9%,55.8%,65.1%,47.1%,6/10,48.6%,42.3%,2.9%,35.5%,60.7%,3/11,181,4,3,77,43,34,3,2:13
+3-Jul-2017,Wimbledon,5,Grass,Q1,242,138,0,,20,Paul Henri Mathieu,Yannik Reuter,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Todi CH,3,Clay,R32,230,155,0,,,Stefano Travaglia,Yannik Reuter,6-4 6-4,0.80,0.0%,5.1%,78.0%,58.7%,30.8%,3/7,44.8%,37.9%,7.6%,31.0%,43.2%,2/12,125,0,3,59,46,13,5,1:36
+12-Jun-2017,Lyon CH,3,Clay,R16,234,244,0,,,Aleksandr Nedovyesov,Yannik Reuter,7-5 6-2,0.72,1.9%,5.7%,60.4%,65.6%,23.8%,2/7,42.1%,36.8%,2.9%,31.7%,44.4%,2/12,121,1,3,53,32,21,2,1:23
+12-Jun-2017,Lyon CH,3,Clay,R32,234,417,1,,Q,Yannik Reuter,Hugo Nys,6-2 6-4,1.44,3.6%,0.0%,66.1%,83.8%,42.1%,5/5,56.6%,43.9%,10.5%,36.4%,54.2%,3/5,113,2,0,56,37,19,6,1:09
+29-May-2017,Roland Garros,5,Clay,Q1,239,119,0,,19,Casper Ruud,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Heilbronn CH,3,Clay,Q3,222,204,0,6,2,Samuel Groth,Yannik Reuter,6-3 3-6 6-4,0.95,0.0%,3.4%,60.2%,56.6%,57.1%,2/7,49.1%,41.2%,4.7%,31.1%,52.5%,4/5,173,0,3,88,53,35,4,1:55
+15-May-2017,Heilbronn CH,3,Clay,Q2,222,352,1,6,,Yannik Reuter,Alexander Lazov,6-3 6-3,1.16,4.0%,2.7%,57.3%,69.8%,53.1%,4/4,54.8%,43.1%,2.0%,31.0%,59.1%,3/6,126,3,2,75,43,32,1,1:28
+15-May-2017,Heilbronn CH,3,Clay,Q1,222,538,1,6,WC,Yannik Reuter,Robin Kern,7-6(4) 6-1,1.71,3.4%,3.4%,60.3%,74.3%,65.2%,2/4,59.7%,50.0%,4.5%,45.9%,55.2%,4/11,124,2,2,58,35,23,3,1:13
+8-May-2017,Rome  CH,3,Clay,Q2,211,,0,4,WC,Flavio Cipolla,Yannik Reuter,6-2 1-6 6-3,0.92,0.0%,1.3%,66.7%,51.9%,42.3%,6/12,48.0%,47.3%,0.0%,46.3%,50.0%,5/8,152,0,1,78,52,26,0,1:50
+1-May-2017,Ostrava CH,3,Clay,R16,213,127,0,,4,Roberto Carballes Baena,Yannik Reuter,6-0 6-2,0.38,0.0%,4.4%,66.7%,40.0%,40.0%,4/9,32.1%,23.1%,7.7%,9.1%,41.2%,0/1,84,0,2,45,30,15,3,1:01
+1-May-2017,Ostrava CH,3,Clay,R32,213,415,1,,Q,Yannik Reuter,Lenny Hampel,7-6(3) 7-6(1),1.14,1.1%,2.2%,75.0%,69.6%,56.5%,5/6,52.8%,38.4%,3.5%,18.4%,54.2%,1/4,178,1,2,92,69,23,3,2:01
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,R16,215,151,0,,5,Ruben Ramirez Hidalgo,Yannik Reuter,6-1 6-1,0.65,2.0%,2.0%,62.0%,41.9%,47.4%,6/11,40.0%,36.7%,8.3%,22.2%,58.3%,0/8,110,1,1,50,31,19,5,1:17
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,R32,215,214,1,,Q,Yannik Reuter,Miljan Zekic,7-6(5) 6-1,1.31,0.0%,1.6%,68.9%,69.0%,63.2%,1/1,54.2%,42.9%,10.0%,31.1%,64.0%,3/7,131,0,1,61,42,19,7,1:28
+17-Apr-2017,Turkey F15,3,Clay,R16,217,570,0,1,,Mate Delic,Yannik Reuter,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Turkey F15,3,Clay,R32,217,782,1,1,,Yannik Reuter,Ronan Joncour,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Saint Brieuc CH,3,Hard,R16,221,111,0,,2,Sergiy Stakhovsky,Yannik Reuter,6-1 6-1,0.49,1.8%,12.7%,36.4%,60.0%,34.3%,6/11,36.8%,27.5%,22.5%,17.2%,54.5%,0/2,95,1,7,55,20,35,9,1:01
+27-Mar-2017,Saint Brieuc CH,3,Hard,R32,221,277,1,,,Yannik Reuter,Maxime Authom,6-4 7-5,1.20,7.8%,6.3%,59.4%,60.5%,50.0%,3/7,54.1%,52.4%,7.1%,45.0%,70.8%,6/13,148,5,4,64,38,26,6,1:41
+13-Mar-2017,Drummondville CH,3,Hard,R32,214,154,0,,4,Ruben Bemelmans,Yannik Reuter,7-5 6-1,0.71,3.5%,7.0%,50.9%,62.1%,50.0%,1/5,43.5%,31.0%,8.6%,25.7%,39.1%,1/4,115,2,4,57,29,28,5,1:10
+20-Feb-2017,Bergamo CH,3,Hard,R32,213,178,0,,10,Ilya Ivashka,Yannik Reuter,6-3 6-1,0.56,0.0%,14.6%,54.2%,65.4%,27.3%,1/6,39.3%,29.3%,14.6%,14.3%,45.0%,1/2,89,0,7,48,26,22,6,0:51
+13-Feb-2017,Cherbourg CH,3,Hard,R32,214,203,0,,,Tristan Lamasine,Yannik Reuter,6-7(4) 6-2 7-6(5),0.91,0.8%,3.9%,59.7%,55.8%,59.6%,10/16,48.6%,38.8%,7.8%,26.0%,64.1%,4/7,245,1,5,129,77,52,9,2:44
+6-Feb-2017,Budapest CH,3,Hard,R16,217,271,0,,LL,Edward Corrie,Yannik Reuter,4-6 6-3 6-4,0.70,4.5%,2.2%,64.0%,78.9%,37.5%,2/4,45.6%,25.0%,8.8%,10.9%,44.1%,1/2,169,4,2,89,57,32,7,1:58
+6-Feb-2017,Budapest CH,3,Hard,R32,217,130,1,,5,Yannik Reuter,Evgeny Donskoy,6-4 4-6 6-3,1.05,5.7%,3.4%,52.9%,73.9%,51.2%,2/6,51.9%,38.7%,5.3%,34.0%,46.4%,5/13,162,5,3,87,46,41,4,1:48
+30-Jan-2017,Quimper CH,3,Hard,R32,218,273,0,,WC,Jerzy Janowicz,Yannik Reuter,6-2 6-3,0.54,6.3%,3.1%,53.1%,67.6%,36.7%,4/8,41.4%,25.5%,4.3%,14.8%,40.0%,0/3,111,4,2,64,34,30,2,1:13
+16-Jan-2017,Koblenz CH,3,Hard,R32,209,357,0,,Q,Nils Langer,Yannik Reuter,6-1 6-3,0.55,6.0%,8.0%,56.0%,60.7%,27.3%,2/7,38.3%,29.5%,4.5%,20.8%,40.0%,1/2,94,3,4,50,28,22,2,1:06
+16-Jan-2017,Australian Open,5,Hard,Q2,209,108,0,,2,Frances Tiafoe,Yannik Reuter,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,Australian Open,5,Hard,Q1,209,167,1,,,Yannik Reuter,Steven Diez,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,Bangkok  CH,3,Hard,R32,206,217,0,8,,Blaz Kavcic,Yannik Reuter,6-2 6-1,0.53,2.2%,8.9%,53.3%,33.3%,28.6%,0/6,33.7%,36.2%,6.4%,37.9%,33.3%,1/6,92,1,4,45,24,21,3,1:05
+7-Nov-2016,Mouilleron-Le-Captif CH,3,Hard,R32,204,215,0,,,Lorenzo Giustino,Yannik Reuter,2-6 6-4 7-6(13),1.17,4.9%,4.9%,61.8%,77.8%,51.3%,6/9,51.6%,37.8%,9.2%,28.4%,50.0%,4/9,221,5,5,102,63,39,11,2:31
+31-Oct-2016,Germany F17,3,Hard,F,195,399,0,1,2,Yann Marti,Yannik Reuter,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,SF,195,357,1,1,3,Yannik Reuter,Marek Jaloviec,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,QF,195,573,1,1,6,Yannik Reuter,Robin Kern,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,R16,195,,1,1,WC,Yannik Reuter,Tim Ruehl,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Germany F17,3,Hard,R32,195,743,1,1,,Yannik Reuter,Maxime Tabatruong,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Brest CH,3,Hard,F,244,222,0,,LL,Norbert Gombos,Yannik Reuter,7-5 6-2,0.77,9.5%,6.3%,60.3%,65.8%,36.0%,5/9,44.5%,35.4%,12.3%,24.4%,54.2%,1/5,128,6,4,63,38,25,8,1:20
+17-Oct-2016,Brest CH,3,Hard,SF,244,73,1,,1,Yannik Reuter,Jeremy Chardy,6-4 5-7 6-2,1.11,11.7%,1.9%,63.1%,66.2%,52.6%,8/11,52.9%,43.0%,18.6%,30.9%,64.5%,5/7,189,12,2,103,65,38,16,2:00
+17-Oct-2016,Brest CH,3,Hard,QF,244,209,1,,,Yannik Reuter,Aldin Setkic,6-2 6-4,1.71,13.7%,3.9%,58.8%,86.7%,57.1%,0/0,56.7%,43.5%,14.5%,31.8%,64.0%,3/11,120,7,2,51,30,21,10,1:22
+17-Oct-2016,Brest CH,3,Hard,R16,244,191,1,,,Yannik Reuter,Pedja Krstin,6-4 6-4,1.33,9.1%,1.8%,56.4%,71.0%,54.2%,4/7,55.8%,48.3%,8.6%,37.0%,58.1%,5/9,113,5,1,55,31,24,5,1:17
+17-Oct-2016,Brest CH,3,Hard,R32,244,385,1,,Q,Yannik Reuter,Yann Marti,7-5 3-6 6-3,1.18,6.0%,3.6%,57.1%,72.9%,52.8%,1/5,52.9%,42.2%,5.6%,41.8%,42.9%,5/10,174,5,3,84,48,36,5,2:05
+10-Oct-2016,Casablanca CH,3,Clay,R32,246,209,0,,,Adrian Menendez Maceiras,Yannik Reuter,4-6 6-1 6-3,0.73,0.0%,4.7%,60.7%,67.7%,40.5%,10/14,45.8%,31.3%,7.2%,30.4%,33.3%,1/2,190,0,5,107,65,42,6,2:20
+3-Oct-2016,Mons CH,3,Hard,R32,250,172,0,WC,SE,Andrey Rublev,Yannik Reuter,6-4 7-5,1.02,8.3%,5.0%,50.0%,80.0%,46.7%,0/4,50.0%,37.5%,14.1%,24.3%,55.6%,2/5,124,5,3,60,30,30,9,1:13
+19-Sep-2016,Kenitra CH,3,Clay,R32,248,258,0,8,,Jeremy Jahn,Yannik Reuter,6-4 6-7(8) 6-3,0.88,0.0%,4.0%,61.4%,61.3%,48.7%,5/12,47.3%,38.5%,2.9%,29.3%,50.0%,4/13,205,0,4,101,62,39,3,2:19
+12-Sep-2016,Meknes CH,3,Clay,R16,240,296,0,6,,Nils Langer,Yannik Reuter,6-4 6-4,0.64,6.0%,3.0%,61.2%,65.9%,50.0%,0/2,43.4%,25.8%,11.3%,16.1%,35.5%,0/0,129,4,2,67,41,26,7,1:27
+12-Sep-2016,Meknes CH,3,Clay,R32,240,300,1,6,,Yannik Reuter,Tomas Lipovsek Puches,6-1 6-3,1.83,2.2%,0.0%,67.4%,67.7%,73.3%,3/4,61.5%,55.6%,0.0%,47.8%,76.5%,5/15,109,1,0,46,31,15,0,1:07
+5-Sep-2016,Alphen aan den Rijn CH,3,Clay,R16,237,150,0,,5,Thiemo De Bakker,Yannik Reuter,6-4 7-6(4),0.95,1.5%,1.5%,70.8%,63.0%,57.9%,0/3,48.5%,36.6%,12.7%,23.9%,60.0%,2/4,136,1,1,65,46,19,9,1:34
+5-Sep-2016,Alphen aan den Rijn CH,3,Clay,R32,237,722,1,,WC,Yannik Reuter,Botic Van De Zandschulp,6-2 6-7(1) 6-3,1.17,2.8%,0.9%,61.3%,69.2%,53.7%,8/10,54.1%,43.2%,8.0%,25.0%,65.0%,5/12,194,3,1,106,65,41,7,2:08
+29-Aug-2016,US Open,5,Hard,Q2,237,111,0,,8,Thomas Fabbiano,Yannik Reuter,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,US Open,5,Hard,Q1,237,1152,1,,,Yannik Reuter,Vasil Kirkov,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Trnava CH,3,Clay,R32,230,211,0,,,Jordi Samper Montana,Yannik Reuter,6-3 4-6 6-3,0.83,2.5%,1.3%,65.8%,61.5%,55.6%,4/9,46.5%,33.8%,0.0%,29.6%,42.3%,3/5,159,2,1,79,52,27,0,2:06
+25-Jul-2016,Scheveningen CH,3,Clay,SF,248,113,0,,7,Adam Pavlasek,Yannik Reuter,7-6(6) 6-4,0.86,2.3%,6.9%,54.0%,66.0%,37.5%,7/12,47.0%,40.5%,13.9%,31.3%,54.8%,4/9,166,2,6,87,47,40,11,1:47
+25-Jul-2016,Scheveningen CH,3,Clay,QF,248,233,1,,,Yannik Reuter,Pedro Sousa,2-6 6-4 6-4,1.00,2.2%,1.1%,53.8%,58.0%,46.5%,8/14,50.0%,47.1%,5.7%,37.5%,59.0%,6/15,180,2,1,93,50,43,5,1:58
+25-Jul-2016,Scheveningen CH,3,Clay,R16,248,81,1,,2,Yannik Reuter,Inigo Cervantes Huegun,7-6(4) 7-6(4),1.31,3.8%,5.1%,43.6%,88.2%,56.8%,4/6,52.9%,38.5%,14.6%,27.5%,51.1%,2/6,174,3,4,78,34,44,14,2:00
+25-Jul-2016,Scheveningen CH,3,Clay,R32,248,494,1,,Q,Yannik Reuter,Antoine Hoang,7-6(3) 7-5,1.11,2.4%,1.2%,52.4%,62.8%,53.8%,4/8,52.6%,45.8%,1.4%,33.3%,60.6%,5/8,154,2,1,82,43,39,1,1:53
+18-Jul-2016,Tampere CH,3,Clay,R32,250,231,0,,,Ruben Ramirez Hidalgo,Yannik Reuter,7-6(8) 7-6(4),0.96,2.5%,5.1%,53.2%,71.4%,51.4%,1/4,49.4%,36.4%,9.1%,29.8%,46.7%,3/3,156,2,4,79,42,37,7,2:03
+11-Jul-2016,San Benedetto del Tronto CH,3,Clay,R32,247,212,0,,,Dmitry Popko,Yannik Reuter,2-6 7-5 2-0 RET,0.92,1.2%,2.4%,50.6%,60.5%,45.2%,7/11,48.7%,43.3%,11.9%,32.4%,54.5%,4/5,152,1,2,85,43,42,8,2:15
+27-Jun-2016,Marburg CH,3,Clay,SF,264,150,0,Q,,Marco Trungelliti,Yannik Reuter,5-7 6-3 6-3,0.93,4.4%,1.8%,61.4%,61.4%,47.7%,7/12,48.6%,40.7%,6.5%,34.5%,48.0%,3/12,222,5,2,114,70,44,7,2:36
+27-Jun-2016,Marburg CH,3,Clay,QF,264,213,1,Q,ALT,Yannik Reuter,Andrea Arnaboldi,7-6(6) 6-1,1.22,2.9%,4.4%,39.7%,85.2%,48.8%,4/6,54.8%,44.8%,1.7%,32.1%,56.7%,4/4,126,2,3,68,27,41,1,1:43
+27-Jun-2016,Marburg CH,3,Clay,R16,264,106,1,Q,3,Yannik Reuter,Gerald Melzer,3-6 6-1 6-4,1.09,3.4%,9.1%,56.8%,72.0%,50.0%,2/4,52.1%,40.7%,13.6%,22.5%,58.5%,4/11,169,3,8,88,50,38,11,1:59
+27-Jun-2016,Marburg CH,3,Clay,R32,264,1233,1,Q,WC,Yannik Reuter,Julian Lenz,6-4 6-3,1.71,17.0%,0.0%,51.1%,91.7%,56.5%,1/2,56.8%,43.8%,4.7%,45.5%,41.9%,4/7,111,8,0,47,24,23,3,
+27-Jun-2016,Marburg CH,3,Clay,Q3,264,312,1,3,8,Yannik Reuter,Edoardo Eremin,3-6 7-6(1) 7-5,0.93,2.0%,3.0%,61.0%,62.3%,56.4%,2/6,48.7%,37.4%,15.2%,33.3%,42.9%,4/8,199,2,3,100,61,39,15,2:13
+27-Jun-2016,Marburg CH,3,Clay,Q2,264,428,1,3,,Yannik Reuter,Mats Moraing,7-6(6) 6-7(2) 6-3,1.16,5.8%,3.8%,67.3%,82.9%,47.1%,5/5,51.4%,33.3%,14.9%,23.2%,48.9%,2/5,218,6,4,104,70,34,17,2:12
+20-Jun-2016,Milan CH,3,Clay,R16,266,101,0,,4,Carlos Berlocq,Yannik Reuter,6-4 6-0,0.64,3.3%,1.7%,65.0%,56.4%,23.8%,3/8,40.7%,35.4%,4.2%,29.2%,41.7%,1/3,108,2,1,60,39,21,2,1:37
+20-Jun-2016,Milan CH,3,Clay,R32,266,261,1,,,Yannik Reuter,Robin Stanek,7-5 6-3,1.30,1.7%,1.7%,69.5%,65.9%,55.6%,2/4,55.0%,48.6%,7.1%,33.3%,67.7%,5/9,129,1,1,59,41,18,5,1:28
+13-Jun-2016,Blois CH,3,Clay,R32,265,253,0,,,Antal Van Der Duim,Yannik Reuter,1-6 6-2 6-2,0.92,4.6%,1.5%,58.5%,63.2%,44.4%,4/8,47.8%,40.8%,8.5%,26.7%,65.4%,3/5,136,3,1,65,38,27,6,1:22
+23-May-2016,Romania F4,3,Clay,QF,269,273,0,5,4,Lorenzo Giustino,Yannik Reuter,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Romania F4,3,Clay,R16,269,478,1,5,,Yannik Reuter,Lucas Gomez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Romania F4,3,Clay,R32,269,,1,5,Q,Yannik Reuter,Iulian Mihai Crisan Zara,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Mestre CH,3,Clay,R16,272,285,0,,,Joris De Loore,Yannik Reuter,6-3 6-4,0.77,1.5%,1.5%,64.2%,60.5%,50.0%,2/5,45.1%,33.3%,6.1%,13.3%,50.0%,1/9,133,1,1,67,43,24,4,1:42
+16-May-2016,Mestre CH,3,Clay,R32,272,254,1,,8,Yannik Reuter,Salvatore Caruso,6-2 6-4,1.34,1.8%,3.6%,64.3%,63.9%,50.0%,0/3,56.8%,54.8%,0.0%,56.3%,53.3%,6/10,118,1,2,56,36,20,0,1:29
+9-May-2016,Heilbronn CH,3,Clay,QF,289,100,0,LL,3,Albert Montanes,Yannik Reuter,6-1 6-4,0.50,3.4%,0.0%,63.8%,48.6%,47.6%,2/6,38.0%,26.0%,6.0%,26.9%,25.0%,1/3,108,2,0,58,37,21,3,1:13
+9-May-2016,Heilbronn CH,3,Clay,R16,289,445,1,LL,WC,Yannik Reuter,Yannick Maden,6-3 6-4,1.35,0.0%,0.0%,77.4%,62.5%,71.4%,2/4,57.5%,47.7%,2.3%,45.5%,50.0%,4/6,106,0,0,62,48,14,1,1:15
+9-May-2016,Heilbronn CH,3,Clay,R32,289,115,1,LL,7,Yannik Reuter,Dustin Brown,6-3 3-6 6-2,1.12,0.0%,1.1%,61.3%,64.9%,55.6%,5/7,53.3%,43.4%,2.6%,37.3%,56.0%,4/9,169,0,1,93,57,36,2,1:33
+9-May-2016,Heilbronn CH,3,Clay,Q3,289,325,0,,,Andreas Beck,Yannik Reuter,6-3 7-6(5),0.87,0.0%,6.2%,49.2%,56.3%,51.5%,4/8,46.7%,40.3%,5.6%,25.0%,55.6%,3/5,137,0,4,65,32,33,4,1:36
+9-May-2016,Heilbronn CH,3,Clay,Q2,289,479,1,,ALT,Yannik Reuter,Evgeny Karlovskiy,6-2 6-3,1.52,2.0%,0.0%,60.0%,76.7%,50.0%,2/4,57.8%,51.5%,4.5%,44.2%,65.2%,5/9,116,1,0,50,30,20,3,1:11
+9-May-2016,Heilbronn CH,3,Clay,Q1,289,205,1,,4,Yannik Reuter,Andrey Golubev,7-6(3) 7-6(2),1.39,4.1%,1.4%,73.0%,70.4%,70.0%,0/2,54.7%,41.2%,5.9%,23.9%,61.5%,2/8,159,3,1,74,54,20,5,1:38
+2-May-2016,Aix en Provence CH,3,Clay,R32,295,147,0,Q,,Carlos Berlocq,Yannik Reuter,6-3 6-4,0.74,1.7%,1.7%,67.2%,61.5%,31.6%,2/6,43.6%,35.6%,1.7%,25.6%,62.5%,2/5,117,1,1,58,39,19,1,1:22
+2-May-2016,Aix en Provence CH,3,Clay,Q3,295,298,1,5,4,Yannik Reuter,Gerard Granollers,7-6(2) 6-4,1.20,3.0%,1.5%,68.2%,62.2%,57.1%,4/7,52.9%,47.1%,4.6%,43.6%,50.0%,4/11,153,2,1,66,45,21,4,1:46
+2-May-2016,Aix en Provence CH,3,Clay,Q2,295,748,1,5,,Yannik Reuter,Gibril Diarra,1-6 6-3 6-0,1.23,0.0%,1.7%,65.5%,60.5%,55.0%,1/4,54.3%,50.7%,4.2%,38.1%,69.0%,5/6,129,0,1,58,38,20,3,1:29
+25-Apr-2016,France F9,3,Clay,R32,294,530,0,2,,Johan Sebastien Tatlot,Yannik Reuter,6-4 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,France F8,3,Clay,R32,298,934,0,4,Q,Thibault Venturino,Yannik Reuter,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Spain F9,3,Clay,R16,295,682,0,2,SE,Andres Artunedo Martinavarr,Yannik Reuter,4-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2016,Spain F9,3,Clay,R32,295,715,1,2,Q,Yannik Reuter,Juan Samuel Arauzo Martinez,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,San Luis Potosi CH,3,Clay,Q1,290,898,0,3,,Divij Sharan,Yannik Reuter,7-6(4) 6-4,0.86,2.9%,5.7%,62.9%,65.9%,42.3%,7/11,47.1%,36.8%,4.4%,10.3%,72.4%,3/4,138,2,4,70,44,26,3,1:19
+14-Mar-2016,Drummondville CH,3,Hard,R16,312,167,0,,5,Renzo Olivo,Yannik Reuter,6-4 7-5,0.83,3.9%,2.6%,58.4%,64.4%,34.4%,6/11,46.4%,39.7%,6.3%,35.9%,45.8%,3/4,140,3,2,77,45,32,4,1:31
+14-Mar-2016,Drummondville CH,3,Hard,R32,312,838,1,,Q,Yannik Reuter,Winston Lin,6-4 6-3,1.34,12.1%,3.0%,57.6%,81.6%,42.9%,4/5,56.3%,46.7%,1.7%,43.3%,50.0%,4/6,126,8,2,66,38,28,1,1:20
+7-Mar-2016,Puebla CH,3,Hard,R16,312,253,0,,,Joao Souza,Yannik Reuter,6-4 6-2,0.73,3.7%,7.4%,42.6%,69.6%,48.4%,2/5,43.8%,31.0%,10.3%,23.3%,39.3%,0/2,112,2,4,54,23,31,6,1:21
+7-Mar-2016,Puebla CH,3,Hard,R32,312,276,1,,,Yannik Reuter,Nicolas Barrientos,7-5 3-6 7-6(0),0.97,4.8%,7.2%,56.0%,65.7%,49.1%,11/15,49.6%,40.3%,2.5%,37.8%,48.3%,4/11,244,6,9,125,70,55,3,2:37
+22-Feb-2016,Cherbourg CH,3,Hard,Q2,303,457,0,6,,Evgeny Karlovskiy,Yannik Reuter,6-3 6-1,0.39,0.0%,7.8%,54.9%,57.1%,39.1%,4/8,36.3%,20.0%,7.5%,22.2%,15.4%,0/0,91,0,4,51,28,23,3,0:56
+22-Feb-2016,Cherbourg CH,3,Hard,Q1,303,2150,1,6,WC,Yannik Reuter,Louis Chaix,6-0 6-2,2.29,15.8%,2.6%,52.6%,80.0%,72.2%,1/1,64.0%,54.2%,4.2%,53.8%,54.5%,5/7,86,6,1,38,20,18,2,0:48
+1-Feb-2016,Turkey F5,3,Hard,R16,304,759,0,5,,Seong Chan Hong,Yannik Reuter,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2016,Turkey F5,3,Hard,R32,304,1415,1,5,Q,Yannik Reuter,Moos Sporken,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Germany F3,3,Carpet,R32,345,447,0,,,Jan Choinski,Yannik Reuter,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,France F1,3,Clay,F,342,287,1,2,1,Yannik Reuter,Constant Lestienne,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,France F1,3,Clay,SF,342,1246,1,2,Q,Yannik Reuter,Thomas Giraudeau,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,France F1,3,Clay,QF,342,622,1,2,,Yannik Reuter,Martins Podzus,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,France F1,3,Clay,R16,342,1089,1,2,,Yannik Reuter,Andrea Guerrieri,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,France F1,3,Clay,R32,342,708,1,2,WC,Yannik Reuter,Alexandre Muller,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2015,Mouilleron Le Captif CH,3,Hard,R16,371,44,0,Q,2,Adrian Mannarino,Yannik Reuter,6-3 7-6(2),0.64,10.9%,3.1%,64.1%,75.6%,43.5%,3/5,44.0%,23.0%,8.2%,16.7%,36.8%,1/5,125,7,2,64,41,23,5,
+9-Nov-2015,Mouilleron Le Captif CH,3,Hard,R32,371,201,1,Q,,Yannik Reuter,Maxime Authom,6-3 0-6 6-2,1.17,8.1%,0.0%,61.3%,65.8%,66.7%,0/3,52.8%,39.7%,9.5%,31.0%,57.1%,3/4,125,5,0,62,38,24,6,
+26-Oct-2015,Turkey F43,3,Hard,F,409,442,1,1,2,Yannik Reuter,Cem Ilkel,5-7 7-6(9) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Turkey F43,3,Hard,SF,409,1368,1,1,,Yannik Reuter,Nicolae Frunza,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Turkey F43,3,Hard,QF,409,696,1,1,6,Yannik Reuter,Nik Razborsek,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Turkey F43,3,Hard,R16,409,1398,1,1,,Yannik Reuter,Muhammet Haylaz,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Oct-2015,Turkey F43,3,Hard,R32,409,1345,1,1,,Yannik Reuter,Vladimir Filip,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Brest CH,3,Hard,R32,421,277,0,Q,,Maxime Teixeira,Yannik Reuter,3-6 7-6(7) 6-1,0.91,1.9%,10.2%,59.3%,64.1%,43.2%,4/10,48.9%,40.2%,12.2%,28.8%,60.0%,4/6,190,2,11,108,64,44,10,
+5-Oct-2015,Medellin CH,3,Clay,R32,413,170,0,,5,Guilherme Clezar,Yannik Reuter,6-2 5-7 6-1,0.66,5.1%,6.1%,48.5%,60.4%,37.3%,8/15,42.0%,33.8%,13.0%,28.6%,40.0%,3/7,176,5,6,99,48,51,10,
+28-Sep-2015,Pereira CH,3,Clay,R32,414,244,0,,8,Giovanni Lapentti,Yannik Reuter,6-2 6-4,0.67,3.6%,3.6%,69.1%,60.5%,47.1%,0/3,42.5%,29.3%,3.4%,21.2%,40.0%,0/3,113,2,2,55,38,17,2,
+14-Sep-2015,Kenitra CH,3,Clay,R16,396,149,0,Q,3,Facundo Arguello,Yannik Reuter,6-4 6-3,0.76,4.5%,3.0%,62.1%,73.2%,24.0%,5/9,45.5%,34.5%,0.0%,32.5%,40.0%,1/3,121,3,2,66,41,25,0,
+14-Sep-2015,Kenitra CH,3,Clay,R32,396,1361,1,Q,WC,Yannik Reuter,Mehdi Jdi,6-1 7-5,1.68,5.0%,1.7%,66.7%,75.0%,65.0%,6/7,59.5%,47.5%,3.3%,35.5%,60.0%,4/9,121,3,1,60,40,20,2,
+7-Sep-2015,Meknes CH,3,Clay,QF,408,89,0,Q,1,Daniel Munoz De La Nava,Yannik Reuter,7-5 6-4,0.77,3.1%,1.5%,63.1%,70.7%,45.8%,2/5,46.0%,29.5%,13.1%,17.5%,52.4%,1/4,126,2,1,65,41,24,8,
+7-Sep-2015,Meknes CH,3,Clay,R16,408,352,1,Q,,Yannik Reuter,Nikola Milojevic,6-4 6-1,2.46,2.5%,2.5%,70.0%,89.3%,58.3%,0/0,61.9%,49.1%,0.0%,51.5%,45.8%,4/5,97,1,1,40,28,12,0,
+7-Sep-2015,Meknes CH,3,Clay,R32,408,1451,1,Q,WC,Yannik Reuter,Khalid Allouch,6-0 6-4,2.86,2.5%,5.0%,52.5%,90.5%,73.7%,1/1,64.8%,50.0%,0.0%,38.1%,59.3%,4/9,88,1,2,40,21,19,0,
+31-Aug-2015,Belgium F13,3,Clay,R32,408,823,0,,Q,Lennert Van Der Linden,Yannik Reuter,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Meerbusch CH,3,Clay,QF,447,61,0,Q,1,Andreas Haider Maurer,Yannik Reuter,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Meerbusch CH,3,Clay,R16,447,163,1,Q,5,Yannik Reuter,Hans Podlipnik Castillo,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Meerbusch CH,3,Clay,R32,447,264,1,Q,,Yannik Reuter,Grzegorz Panfil,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Italy F22,3,Clay,QF,446,283,0,,5,Federico Gaio,Yannik Reuter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Italy F22,3,Clay,R16,446,268,1,,3,Yannik Reuter,Alessandro Giannessi,6-2 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Italy F22,3,Clay,R32,446,372,1,,,Yannik Reuter,Javier Marti,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,Italy F21,3,Clay,R32,455,578,0,6,,Lorenzo Sonego,Yannik Reuter,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Belgium F8,3,Hard,QF,396,288,0,6,3,Julien Cagnina,Yannik Reuter,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Belgium F8,3,Hard,R16,396,766,1,6,WC,Yannik Reuter,Sander Gille,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2015,Belgium F8,3,Hard,R32,396,1357,1,6,,Yannik Reuter,Leny Mitjana,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,France F12,3,Clay,R16,400,708,0,7,,Yanais Laurent,Yannik Reuter,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,France F12,3,Clay,R32,400,,1,7,Q,Yannik Reuter,Vincent Verpeaux,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,F,395,516,0,,,Scott Griekspoor,Yannik Reuter,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,SF,395,255,1,,1,Yannik Reuter,Dennis Novak,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,QF,395,725,1,,,Yannik Reuter,Alexey Vatutin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,R16,395,628,1,,,Yannik Reuter,Niels Lootsma,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Netherlands F2,3,Clay,R32,395,1633,1,,Q,Yannik Reuter,Botic Van De Zandschulp,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Romania F4,3,Clay,SF,375,366,0,8,7,Kamil Majchrzak,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Romania F4,3,Clay,QF,375,257,1,8,4,Yannik Reuter,Juan Carlos Saez,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Romania F4,3,Clay,R16,375,483,1,8,,Yannik Reuter,David Vega Hernandez,7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Romania F4,3,Clay,R32,375,481,1,8,,Yannik Reuter,Vasile Antonescu,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-2015,Nice,3,Clay,Q2,373,95,0,,2,Ruben Bemelmans,Yannik Reuter,7-6(7) 6-7(0) 7-5,0.94,4.2%,2.1%,61.3%,70.1%,50.9%,11/15,49.6%,34.9%,6.3%,30.0%,43.5%,3/8,268,6,3,142,87,55,8,2:48
+17-May-2015,Nice,3,Clay,Q1,373,639,1,,,Yannik Reuter,Marcus Daniell,6-0 6-2,1.56,1.8%,1.8%,69.1%,63.2%,64.7%,2/2,60.6%,56.8%,2.3%,48.1%,70.6%,5/5,99,1,1,55,38,17,1,1:01
+4-May-2015,Spain F12,3,Clay,QF,376,1254,0,3,WC,Alvaro Lopez San Martin,Yannik Reuter,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Spain F12,3,Clay,R16,376,808,1,3,,Yannik Reuter,Jaume Pla Malfeito,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Spain F12,3,Clay,R32,376,713,1,3,PR,Yannik Reuter,Jean Marc Werner,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Tunisia F11,3,Hard,R32,340,976,0,2,,Lorenzo Frigerio,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Tunisia F10,3,Hard,R16,339,480,0,3,,Calvin Hemery,Yannik Reuter,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Tunisia F10,3,Hard,R32,339,1575,1,3,Q,Yannik Reuter,Thibault Venturino,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Tunisia F9,3,Hard,QF,339,693,0,3,,Antoine Hoang,Yannik Reuter,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Tunisia F9,3,Hard,R16,339,653,1,3,,Yannik Reuter,Denis Bejtulahi,6-7(6) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Tunisia F9,3,Hard,R32,339,,1,3,WC,Yannik Reuter,Keshav Vellodi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2015,Tunisia F7,3,Hard,R32,353,890,0,3,Q,Jonathan Kanar,Yannik Reuter,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Tunisia F6,3,Hard,F,351,470,0,2,5,Erik Crepaldi,Yannik Reuter,4-6 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Tunisia F6,3,Hard,SF,351,666,1,2,,Yannik Reuter,Pietro Rondoni,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Tunisia F6,3,Hard,QF,351,462,1,2,6,Yannik Reuter,Peter Heller,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Tunisia F6,3,Hard,R16,351,1644,1,2,WC,Yannik Reuter,Anis Ghorbel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Tunisia F6,3,Hard,R32,351,732,1,2,,Yannik Reuter,Andre Gaspar Murta,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2015,France F3,3,Hard,R32,358,288,0,,7,Germain Gigounon,Yannik Reuter,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Tunisia F7,3,Hard,R16,343,860,0,3,,Antoine Escoffier,Yannik Reuter,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Tunisia F7,3,Hard,R32,343,980,1,3,,Yannik Reuter,Leon Schutt,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Pune CH,3,Hard,R32,339,619,0,,WC,Vishnu Vardhan,Yannik Reuter,7-6(5) 6-7(7) 6-3,0.92,3.6%,4.5%,71.2%,74.7%,50.0%,4/6,48.2%,29.9%,21.4%,21.1%,46.3%,1/6,228,4,5,111,79,32,25,2:36
+13-Oct-2014,Indore CH,3,Hard,R32,337,162,0,,5,Adrian Menendez Maceiras,Yannik Reuter,7-5 6-4,0.81,1.1%,2.2%,58.4%,53.8%,48.6%,8/13,46.2%,39.1%,11.6%,33.3%,48.1%,3/8,158,1,2,89,52,37,8,1:53
+22-Sep-2014,Kenitra CH,3,Clay,R32,336,129,0,,3,Daniel Gimeno Traver,Yannik Reuter,7-6(1) 7-6(3),0.74,2.3%,2.3%,76.7%,63.6%,55.0%,2/3,46.0%,28.6%,10.4%,20.0%,40.6%,1/1,163,2,2,86,66,20,8,1:44
+15-Sep-2014,Meknes CH,3,Clay,QF,370,182,0,,,Matteo Viola,Yannik Reuter,6-1 6-2,0.56,0.0%,2.1%,58.3%,42.9%,40.0%,2/7,37.2%,32.6%,2.2%,31.0%,35.3%,1/4,94,0,1,48,28,20,1,1:05
+15-Sep-2014,Meknes CH,3,Clay,R16,370,375,1,,Q,Yannik Reuter,Sherif Sabry,7-6(3) 6-3,1.17,1.3%,0.0%,78.9%,60.0%,50.0%,6/10,53.7%,49.3%,1.4%,40.7%,76.5%,5/13,147,1,0,76,60,16,1,1:39
+15-Sep-2014,Meknes CH,3,Clay,R32,370,249,1,,,Yannik Reuter,Mathias Bourgue,3-6 6-3 6-2,1.00,0.0%,0.0%,79.2%,55.3%,80.0%,12/14,51.5%,39.4%,2.8%,31.1%,53.8%,4/5,167,0,0,96,76,20,2,1:51
+8-Sep-2014,Biella CH,3,Clay,R16,282,159,0,,3,Marco Cecchinato,Yannik Reuter,7-6(5) 6-1,0.80,1.4%,0.0%,68.1%,49.0%,39.1%,3/9,44.7%,43.3%,3.3%,33.3%,61.9%,3/5,132,1,0,72,49,23,2,1:24
+8-Sep-2014,Biella CH,3,Clay,R32,282,356,1,,,Yannik Reuter,Matteo Trevisan,1-6 6-4 3-0 RET,0.99,6.3%,3.8%,57.0%,60.0%,52.9%,5/8,50.0%,42.7%,8.0%,31.3%,63.0%,3/9,154,5,3,79,45,34,6,1:56
+2-Sep-2014,Brasov CH,3,Clay,R16,295,110,0,,1,Andreas Haider Maurer,Yannik Reuter,7-6(3) 6-7(7) 6-1,0.81,5.3%,2.1%,64.2%,68.9%,55.9%,1/4,46.2%,29.0%,8.0%,17.5%,48.6%,1/7,195,5,2,95,61,34,8,2:06
+2-Sep-2014,Brasov CH,3,Clay,R32,295,805,1,,Q,Yannik Reuter,Giulio Torroni,6-4 6-4,1.21,0.0%,1.8%,64.9%,70.3%,45.0%,1/4,53.8%,46.8%,0.0%,35.9%,65.2%,5/10,119,0,1,57,37,20,0,1:25
+18-Aug-2014,Italy F28,3,Clay,QF,300,555,0,6,,Francesco Picco,Yannik Reuter,6-0 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Italy F28,3,Clay,R16,300,331,1,6,,Yannik Reuter,Marek Michalicka,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Italy F28,3,Clay,R32,300,921,1,6,WC,Yannik Reuter,Riccardo Bonadio,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Italy F27,3,Clay,QF,304,403,0,4,,Marc Rath,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Italy F27,3,Clay,R16,304,1290,1,4,Q,Yannik Reuter,Francesco Borgo,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2014,Italy F27,3,Clay,R32,304,,1,4,Q,Yannik Reuter,Davide Galoppini,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Cortina CH,3,Clay,QF,343,244,0,,,Roberto Marcora,Yannik Reuter,7-6(3) 4-6 6-4,0.95,4.0%,3.0%,72.0%,63.9%,42.9%,5/10,49.0%,39.8%,8.2%,30.2%,57.1%,5/10,198,4,3,100,72,28,8,2:18
+28-Jul-2014,Cortina CH,3,Clay,R16,343,136,1,,5,Yannik Reuter,Filippo Volandri,6-4 2-6 6-0,1.12,0.0%,2.1%,67.0%,57.1%,45.2%,8/12,52.8%,52.2%,1.5%,50.0%,56.5%,6/10,161,0,2,94,63,31,1,1:42
+28-Jul-2014,Cortina CH,3,Clay,R32,343,222,1,,,Yannik Reuter,Toni Androic,6-7(2) 6-3 6-0,1.71,2.7%,5.4%,68.9%,80.4%,60.9%,0/1,57.7%,43.8%,7.9%,28.6%,57.4%,5/14,163,2,4,74,51,23,7,1:36
+21-Jul-2014,Germany F9,3,Clay,SF,318,1035,0,1,,Marvin Netuschil,Yannik Reuter,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Germany F9,3,Clay,QF,318,849,1,1,,Yannik Reuter,Jeremy Jahn,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Germany F9,3,Clay,R16,318,1333,1,1,,Yannik Reuter,Ilya Polonskiy,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Germany F9,3,Clay,R32,318,2070,1,1,Q,Yannik Reuter,Aliaksandr Prudnikau,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,France F14,3,Clay,F,293,574,0,1,,Boris Pashanski,Yannik Reuter,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,France F14,3,Clay,SF,293,366,1,1,3,Yannik Reuter,Florent Serra,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,France F14,3,Clay,QF,293,454,1,1,8,Yannik Reuter,Darian King,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,France F14,3,Clay,R16,293,800,1,1,,Yannik Reuter,Maxime Hamou,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2014,France F14,3,Clay,R32,293,849,1,1,,Yannik Reuter,Enzo Py,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Netherlands F4,3,Clay,QF,294,273,0,6,4,Jason Kubler,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Netherlands F4,3,Clay,R16,294,1356,1,6,Q,Yannik Reuter,Jelle Sels,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Netherlands F4,3,Clay,R32,294,,1,6,Q,Yannik Reuter,Nathan De Veer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Italy F20,3,Clay,R16,294,739,0,3,,Giulio Torroni,Yannik Reuter,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Italy F20,3,Clay,R32,294,429,1,3,,Yannik Reuter,Pedro Cachin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Mohammedia CH,3,Clay,R32,285,207,0,,6,Gonzalo Lama,Yannik Reuter,6-2 6-3,0.56,0.0%,1.9%,70.4%,55.3%,37.5%,5/9,39.4%,28.0%,4.0%,24.1%,33.3%,1/3,104,0,1,54,38,16,2,1:07
+9-Jun-2014,Belgium F2,3,Clay,R32,281,956,0,4,SE,Philip Davydenko,Yannik Reuter,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Spain F10,3,Clay,F,305,591,1,1,8,Yannik Reuter,Noah Rubin,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Spain F10,3,Clay,SF,305,787,1,1,,Yannik Reuter,Albert Alcaraz Ivorra,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Spain F10,3,Clay,QF,305,1237,1,1,JE,Yannik Reuter,Frances Tiafoe,2-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Spain F10,3,Clay,R16,305,1439,1,1,Q,Yannik Reuter,Bernabe Zapata Miralles,6-0 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Spain F10,3,Clay,R32,305,,1,1,Q,Yannik Reuter,David Biosca Girvent,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Spain F9,3,Clay,QF,309,497,0,3,8,Juan Samuel Arauzo Martinez,Yannik Reuter,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Spain F9,3,Clay,R16,309,590,1,3,,Yannik Reuter,Noah Rubin,3-6 6-4 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+12-May-2014,Spain F9,3,Clay,R32,309,688,1,3,,Yannik Reuter,Eduard Esteve Lobato,6-7(8) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Cali CH,3,Clay,R16,320,209,0,,8,David Souto,Yannik Reuter,6-4 3-6 7-6(5),1.10,1.8%,1.8%,56.0%,72.1%,50.0%,3/6,50.8%,41.2%,1.5%,32.5%,53.7%,3/16,240,2,2,109,61,48,2,2:42
+28-Apr-2014,Cali CH,3,Clay,R32,320,632,1,,Q,Yannik Reuter,Gonzalo Escobar,6-4 6-0,1.78,11.1%,2.2%,60.0%,92.6%,44.4%,0/0,61.4%,47.4%,5.3%,38.9%,55.0%,4/6,83,5,1,45,27,18,2,1:03
+21-Apr-2014,Colombia F2,3,Clay,QF,321,470,0,5,,Arthur De Greef,Yannik Reuter,7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Colombia F2,3,Clay,R16,321,497,1,5,,Yannik Reuter,Jorge Aguilar,2-6 6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,Colombia F2,3,Clay,R32,321,978,1,5,Q,Yannik Reuter,Duilio Vallebuona,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2014,Santiago CH,3,Clay,R32,319,205,0,,8,Andrea Collarini,Yannik Reuter,6-2 6-2,0.22,1.8%,1.8%,56.1%,59.4%,36.0%,5/9,34.4%,11.1%,8.3%,15.8%,5.9%,0/0,93,1,1,57,32,25,3,1:11
+31-Mar-2014,Algeria F1,3,Clay,SF,332,325,0,3,2,Pedja Krstin,Yannik Reuter,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Algeria F1,3,Clay,QF,332,745,1,3,7,Yannik Reuter,Julien Dubail,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Algeria F1,3,Clay,R16,332,1122,1,3,,Yannik Reuter,David Pel,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2014,Algeria F1,3,Clay,R32,332,,1,3,Q,Yannik Reuter,Hugo Gallinaro,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,QF,331,261,0,5,3,Aldin Setkic,Yannik Reuter,6-7(2) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R16,331,597,1,5,,Yannik Reuter,Nikola Cacic,7-6(4) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Greece F2,3,Hard,R32,331,763,1,5,,Yannik Reuter,Matthieu Roy,6-4 2-6 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Portugal F3,3,Hard,R16,304,1302,0,2,Q,Maxime Janvier,Yannik Reuter,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2014,Portugal F3,3,Hard,R32,304,524,1,2,,Yannik Reuter,Joao Domingues,3-6 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Portugal F2,3,Hard,QF,306,498,0,1,8,Stanislav Vovk,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Portugal F2,3,Hard,R16,306,,1,1,Q,Yannik Reuter,Pablo Vivero Gonzalez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2014,Portugal F2,3,Hard,R32,306,599,1,1,,Yannik Reuter,Frederico Ferreira Silva,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Portugal F1,3,Hard,QF,304,549,0,1,7,Joao Domingues,Yannik Reuter,7-6(9) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Portugal F1,3,Hard,R16,304,584,1,1,,Yannik Reuter,Juan Samuel Arauzo Martinez,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Portugal F1,3,Hard,R32,304,1171,1,1,WC,Yannik Reuter,Siyu Liu,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Turkey F48,3,Hard,R16,299,583,0,2,,Julien Obry,Yannik Reuter,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2013,Turkey F48,3,Hard,R32,299,2118,1,2,Q,Yannik Reuter,Giorgi Javakhishvili,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Turkey F47,3,Hard,QF,300,533,0,2,8,Stanislav Vovk,Yannik Reuter,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Turkey F47,3,Hard,R16,300,718,1,2,,Yannik Reuter,Matthias Wunner,6-4 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Turkey F47,3,Hard,R32,300,1398,1,2,Q,Yannik Reuter,Jannick Lupescu,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2013,Yeongwol CH,3,Hard,R32,273,343,0,,Q,Alexander Ward,Yannik Reuter,7-6(1) 6-1,0.52,1.4%,1.4%,59.5%,54.5%,46.7%,6/10,40.8%,25.5%,9.8%,11.4%,56.3%,1/2,125,1,1,74,44,30,5,1:18
+28-Oct-2013,Seoul CH,3,Hard,R16,280,181,0,,8,Hiroki Moriya,Yannik Reuter,6-3 3-6 6-0,0.74,0.0%,6.3%,67.5%,57.4%,30.8%,9/15,43.4%,38.0%,2.5%,22.4%,63.3%,3/7,159,0,5,80,54,26,2,1:42
+28-Oct-2013,Seoul CH,3,Hard,R32,280,466,1,,Q,Yannik Reuter,Sergey Betov,7-5 6-4,1.14,2.7%,2.7%,70.3%,57.7%,54.5%,7/11,53.0%,49.3%,4.0%,35.0%,65.7%,6/14,149,2,2,74,52,22,3,1:38
+7-Oct-2013,Armenia F2,3,Clay,QF,273,445,0,3,7,Michael Linzer,Yannik Reuter,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Armenia F2,3,Clay,R16,273,655,1,3,,Yannik Reuter,Romain Arneodo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Armenia F2,3,Clay,R32,273,,1,3,,Yannik Reuter,Alexander Krasnorutskiy,5-7 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Armenia F1,3,Clay,R32,270,489,0,3,,Antal Van Der Duim,Yannik Reuter,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Kenitra CH,3,Clay,R32,259,126,0,,1,Teymuraz Gabashvili,Yannik Reuter,5-7 6-3 6-3,0.80,3.3%,5.5%,56.0%,60.8%,32.5%,5/12,44.6%,41.3%,5.8%,35.9%,50.0%,5/10,195,3,5,91,51,40,6,2:24
+9-Sep-2013,Meknes CH,3,Clay,F,338,206,0,,3,Cedrik Marcel Stebe,Yannik Reuter,6-1 4-6 6-2,0.76,3.0%,4.5%,72.7%,41.7%,44.4%,3/10,43.1%,43.6%,1.0%,41.0%,55.6%,4/14,167,2,3,66,48,18,1,2:25
+9-Sep-2013,Meknes CH,3,Clay,SF,338,564,1,,Q,Yannik Reuter,Laurent Lokoli,6-4 6-7(5) 6-2,1.13,0.8%,1.6%,59.0%,62.5%,58.0%,12/15,53.4%,44.4%,15.2%,29.1%,63.6%,6/11,221,1,2,122,72,50,15,2:37
+9-Sep-2013,Meknes CH,3,Clay,QF,338,220,1,,7,Yannik Reuter,Jordi Samper Montana,6-2 6-4,1.86,2.1%,4.3%,57.4%,85.2%,65.0%,0/0,57.8%,43.5%,3.2%,37.5%,50.0%,3/8,109,1,2,47,27,20,2,1:35
+9-Sep-2013,Meknes CH,3,Clay,R16,338,167,1,,2,Yannik Reuter,Thomas Fabbiano,7-5 7-6(2),0.97,6.3%,1.1%,63.2%,65.0%,48.6%,8/11,50.9%,40.0%,2.9%,37.3%,47.4%,4/10,165,6,1,95,60,35,2,1:53
+9-Sep-2013,Meknes CH,3,Clay,R32,338,236,1,,,Yannik Reuter,Gregoire Burquier,6-3 5-7 6-1,1.35,2.2%,3.3%,52.2%,75.0%,59.1%,12/13,56.3%,44.0%,0.0%,38.5%,53.1%,4/8,176,2,3,92,48,44,0,2:07
+3-Sep-2013,Brasov CH,3,Clay,R32,324,174,0,,7,James Ward,Yannik Reuter,3-6 6-3 7-6(5),0.90,4.3%,3.2%,59.1%,74.5%,44.7%,3/6,48.1%,33.7%,10.9%,30.0%,40.6%,3/4,185,4,3,93,55,38,10,1:59
+26-Aug-2013,Belgium F11,3,Clay,R16,324,2089,0,2,Q,Romain Barbosa,Yannik Reuter,6-3 5-7 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Belgium F11,3,Clay,R32,324,,1,2,LL,Yannik Reuter,Robin Cambier,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Poland F4,3,Clay,R16,319,525,0,2,,Marcin Gawron,Yannik Reuter,6-7(6) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Poland F4,3,Clay,R32,319,,1,2,Q,Yannik Reuter,Karol Drzewiecki,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Meerbusch CH,3,Clay,R32,320,177,0,,8,Bastian Knittel,Yannik Reuter,6-2 7-5,0.72,0.0%,3.3%,61.7%,59.5%,43.5%,4/8,43.0%,33.8%,10.3%,21.4%,53.8%,1/6,128,0,2,60,37,23,7,1:36
+5-Aug-2013,Belgium F8,3,Clay,R32,291,655,0,2,,Dimitar Grabuloski,Yannik Reuter,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Tampere CH,3,Clay,R32,292,302,0,,,Blaz Rola,Yannik Reuter,6-2 6-2,0.74,0.0%,2.0%,60.0%,43.3%,35.0%,7/13,42.3%,44.4%,1.9%,38.9%,55.6%,2/6,104,0,1,50,30,20,1,1:12
+15-Jul-2013,Belgium F5,3,Hard,F,355,506,0,3,6,Kimmer Coppejans,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,SF,355,299,1,3,2,Yannik Reuter,Germain Gigounon,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,QF,355,547,1,3,7,Yannik Reuter,Matheson Klein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,R16,355,889,1,3,,Yannik Reuter,Tom Schonenberg,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Belgium F5,3,Hard,R32,355,1926,1,3,Q,Yannik Reuter,Alexander Mannapov,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,F,334,319,1,3,2,Yannik Reuter,Germain Gigounon,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,SF,334,399,1,3,5,Yannik Reuter,Julien Obry,6-7(4) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,QF,334,521,1,3,,Yannik Reuter,Benjamin Balleret,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,R16,334,540,1,3,,Yannik Reuter,Simon Cauvard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,France F12,3,Clay,R32,334,,1,3,Q,Yannik Reuter,Collin Altamirano,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Germany F8,3,Clay,QF,337,477,0,3,8,Cristobal Saavedra Corvalan,Yannik Reuter,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Germany F8,3,Clay,R16,337,1944,1,3,LL,Yannik Reuter,Leon Schutt,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2013,Germany F8,3,Clay,R32,337,527,1,3,,Yannik Reuter,Marek Michalicka,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Belgium F2,3,Clay,R16,337,1995,0,3,Q,Dimitar Grabuloski,Yannik Reuter,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2013,Belgium F2,3,Clay,R32,337,,1,3,Q,Yannik Reuter,Nicolas Beaufort,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Tanger CH,3,Clay,R16,341,241,0,,3,Gerald Melzer,Yannik Reuter,6-4 6-1,0.61,0.0%,0.0%,68.8%,48.5%,46.7%,3/8,40.0%,31.9%,6.4%,6.7%,43.8%,1/2,95,0,0,48,33,15,3,1:14
+17-Jun-2013,Tanger CH,3,Clay,R32,341,315,1,,,Yannik Reuter,Germain Gigounon,3-6 6-0 6-3,1.22,0.0%,3.8%,65.4%,64.7%,40.7%,4/8,54.7%,53.1%,2.5%,43.6%,61.9%,7/15,159,0,3,78,51,27,2,1:56
+20-May-2013,Romania F2,3,Clay,QF,321,557,0,2,8,Piotr Gadomski,Yannik Reuter,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Romania F2,3,Clay,R16,321,,1,2,Q,Yannik Reuter,Adrian Cruciat,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Romania F2,3,Clay,R32,321,,1,2,WC,Yannik Reuter,Luca George Tatomir,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Romania F1,3,Clay,R16,322,722,0,2,,Maxime Chazal,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Romania F1,3,Clay,R32,322,1139,1,2,Q,Yannik Reuter,Pirmin Haenle,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,R16,313,656,0,2,,Piotr Gadomski,Yannik Reuter,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Turkey F16,3,Hard,R32,313,1258,1,2,Q,Yannik Reuter,Maciej Smola,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Turkey F15,3,Hard,R16,316,832,0,4,Q,Tom Farquharson,Yannik Reuter,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Turkey F15,3,Hard,R32,316,759,1,4,,Yannik Reuter,Tiago Fernandes,7-6(7) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Turkey F14,3,Hard,R32,319,441,0,3,Q,Thiago Monteiro,Yannik Reuter,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Rimouski CH,3,Hard,R32,316,152,0,,5,Bobby Reynolds,Yannik Reuter,6-1 6-4,0.62,3.4%,0.0%,74.6%,59.1%,46.7%,8/11,41.5%,27.1%,23.7%,17.9%,45.0%,0/4,118,2,0,59,44,15,14,1:10
+11-Mar-2013,Canada F2,3,Hard,R32,320,462,0,8,,Austin Krajicek,Yannik Reuter,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2013,Canada F1,3,Hard,R32,320,1571,0,5,Q,Nicholas Edlefsen,Yannik Reuter,6-1 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Turkey F7,3,Hard,F,346,220,1,6,2,Yannik Reuter,Radu Albot,7-6(4) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Turkey F7,3,Hard,SF,346,258,1,6,4,Yannik Reuter,Tsung Hua Yang,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Turkey F7,3,Hard,QF,346,538,1,6,,Yannik Reuter,Dimitar Kuzmanov,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Turkey F7,3,Hard,R16,346,1191,1,6,LL,Yannik Reuter,Warit Sornbutnark,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2013,Turkey F7,3,Hard,R32,346,525,1,6,,Yannik Reuter,Reid Carleton,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Turkey F6,3,Hard,R32,350,531,0,7,,Nikolaus Moser,Yannik Reuter,4-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,France F3,3,Hard,R32,356,,0,6,WC,Remy Chala,Yannik Reuter,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,France F2,3,Hard,QF,358,443,0,7,,Mathieu Rodrigues,Yannik Reuter,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,France F2,3,Hard,R16,358,1683,1,7,LL,Yannik Reuter,Thomas Grinberg,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,France F2,3,Hard,R32,358,543,1,7,Q,Yannik Reuter,Alexandre Penaud,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,F,383,244,0,6,1,Marsel Ilhan,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,SF,383,643,1,6,,Yannik Reuter,Vladimir Uzhylovsky,6-2 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,QF,383,513,1,6,,Yannik Reuter,Marc Sieber,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R16,383,821,1,6,,Yannik Reuter,Viktor Filipenko,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R32,383,787,1,6,,Yannik Reuter,Dominik Schulz,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Turkey F43,3,Hard,SF,379,274,0,4,2,Aldin Setkic,Yannik Reuter,7-6(6) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Turkey F43,3,Hard,QF,379,766,1,4,,Yannik Reuter,Denis Bejtulahi,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Turkey F43,3,Hard,R16,379,522,1,4,,Yannik Reuter,Mikhail Biryukov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Turkey F43,3,Hard,R32,379,,1,4,WC,Yannik Reuter,Viktor Prokopov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,QF,380,307,0,5,1,Andrey Kumantsov,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,R16,380,731,1,5,,Yannik Reuter,Yaraslau Shyla,6-7(4) 7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Kazakhstan F9,3,Hard,R32,380,,1,5,WC,Yannik Reuter,Daniyal Zagidullin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,QF,382,431,0,3,6,Germain Gigounon,Yannik Reuter,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,R16,382,674,1,3,,Yannik Reuter,Alexander Rumyantsev,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Kazakhstan F8,3,Hard,R32,382,840,1,3,,Yannik Reuter,Daniiar Duldaev,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Mons CH,3,Hard,R16,383,71,0,WC,4,Tobias Kamke,Yannik Reuter,6-0 7-5,0.55,1.6%,1.6%,51.6%,57.6%,35.5%,11/16,38.7%,29.1%,7.3%,21.9%,39.1%,1/5,119,1,1,64,33,31,4,1:25
+1-Oct-2012,Mons CH,3,Hard,R32,383,100,1,WC,,Yannik Reuter,Andreas Haider Maurer,6-4 6-3,1.24,4.1%,2.7%,58.9%,69.8%,46.7%,7/9,55.3%,49.2%,6.8%,22.2%,71.9%,4/7,132,3,2,73,43,30,4,1:36
+17-Sep-2012,Portugal F4,3,Clay,QF,390,318,0,6,3,Jiri Vesely,Yannik Reuter,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Portugal F4,3,Clay,R16,390,,1,6,Q,Yannik Reuter,David Sidbon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Portugal F4,3,Clay,R32,390,633,1,6,,Yannik Reuter,Jean Marc Werner,6-1 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Poland F5,3,Clay,SF,410,298,0,4,1,Dusan Lojda,Yannik Reuter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Poland F5,3,Clay,QF,410,431,1,4,5,Yannik Reuter,Roberto Carballes Baena,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Poland F5,3,Clay,R16,410,558,1,4,,Yannik Reuter,Alexander Lazov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2012,Poland F5,3,Clay,R32,410,,1,4,Q,Yannik Reuter,Lucas Gerch,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Poland F4,3,Clay,QF,375,306,0,5,2,Michal Przysiezny,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Poland F4,3,Clay,R16,375,,1,5,Q,Yannik Reuter,Prajnesh Gunneswaran,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Poland F4,3,Clay,R32,375,512,1,5,,Yannik Reuter,Enrique Lopez Perez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2012,Belgium F7,3,Clay,R32,411,1267,0,6,,Philip Davydenko,Yannik Reuter,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,F,412,1006,1,7,WC,Yannik Reuter,Kimmer Coppejans,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,SF,412,343,1,7,2,Yannik Reuter,Niels Desein,6-7(5) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,QF,412,379,1,7,3,Yannik Reuter,Alexandre Sidorenko,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,R16,412,,1,7,WC,Yannik Reuter,Jeroen Vanneste,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2012,Belgium F6,3,Clay,R32,412,1374,1,7,Q,Yannik Reuter,Lennart Zynga,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Tampere CH,3,Clay,R16,429,159,0,Q,2,Gastao Elias,Yannik Reuter,4-6 6-4 6-3,0.90,2.4%,1.2%,56.6%,70.2%,50.0%,3/7,47.7%,34.8%,1.1%,20.0%,42.4%,3/7,172,2,1,83,47,36,1,2:15
+23-Jul-2012,Tampere CH,3,Clay,R32,429,318,1,Q,,Yannik Reuter,Andre Ghem,1-6 6-3 6-4,0.98,0.0%,2.4%,58.3%,71.4%,54.3%,5/7,50.6%,35.1%,4.1%,24.4%,48.5%,2/5,158,0,2,84,49,35,3,1:57
+16-Jul-2012,Bercuit CH,3,Clay,R32,420,241,0,WC,,Thiemo De Bakker,Yannik Reuter,6-3 6-0,0.67,4.1%,6.1%,55.1%,48.1%,36.4%,1/6,40.4%,38.2%,5.5%,40.7%,35.7%,1/4,104,2,3,49,27,22,3,1:08
+9-Jul-2012,Germany F9,3,Clay,R32,440,976,0,3,,Vladyslav Klymenko,Yannik Reuter,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Belgium F2,3,Clay,F,455,620,1,5,7,Yannik Reuter,Juan Carlos Saez,5-7 7-6(8) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Belgium F2,3,Clay,SF,455,657,1,5,8,Yannik Reuter,Denis Yevseyev,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Belgium F2,3,Clay,QF,455,393,1,5,3,Yannik Reuter,Germain Gigounon,W/O,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Belgium F2,3,Clay,R16,455,1617,1,5,Q,Yannik Reuter,Julien Demois,6-7(1) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Belgium F2,3,Clay,R32,455,1129,1,5,,Yannik Reuter,Teri Groll,4-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Netherlands F2,3,Clay,QF,451,565,0,,,Arthur De Greef,Yannik Reuter,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Netherlands F2,3,Clay,R16,451,1496,1,,LL,Yannik Reuter,Simon Ede,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Netherlands F2,3,Clay,R32,451,317,1,,3,Yannik Reuter,Jordi Samper Montana,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,R16,451,583,0,,,Peter Heller,Yannik Reuter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Germany F5,3,Clay,R32,451,,1,,WC,Yannik Reuter,Julian Lenz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,F,509,513,0,6,7,Lamine Ouahab,Yannik Reuter,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,SF,509,624,1,6,,Yannik Reuter,Jose Checa Calvo,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,QF,509,290,1,6,1,Yannik Reuter,Hans Podlipnik Castillo,6-1 6-7(2) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,R16,509,730,1,6,,Yannik Reuter,Alexandre Penaud,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Morocco F2,3,Clay,R32,509,,1,6,WC,Yannik Reuter,Ayoub Chakrouni,5-7 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Morocco F1,3,Clay,SF,503,292,0,5,1,Hans Podlipnik Castillo,Yannik Reuter,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Morocco F1,3,Clay,QF,503,656,1,5,,Yannik Reuter,Constantin Belot,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Morocco F1,3,Clay,R16,503,665,1,5,,Yannik Reuter,Francois Arthur Vibert,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Morocco F1,3,Clay,R32,503,,1,5,WC,Yannik Reuter,Mehdi Jdi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Spain F10,3,Clay,QF,506,712,0,5,,Lorenzo Giustino,Yannik Reuter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Spain F10,3,Clay,R16,506,722,1,5,,Yannik Reuter,Jean Marc Werner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Spain F10,3,Clay,R32,506,,1,5,WC,Yannik Reuter,Gauthier Steiner,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2012,Spain F9,3,Clay,R32,505,566,0,8,,Gabriel Trujillo Soler,Yannik Reuter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Italy F2,3,Hard,QF,473,857,0,,Q,Giacomo Oradini,Yannik Reuter,6-4 4-6 7-6(0),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Italy F2,3,Hard,R16,473,946,1,,Q,Yannik Reuter,Marco Bortolotti,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2012,Italy F2,3,Hard,R32,473,781,1,,Q,Yannik Reuter,Viktor Galovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Great Britain F5,3,Hard,R16,482,208,0,,1,Yannick Mertens,Yannik Reuter,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Great Britain F5,3,Hard,R32,482,479,1,,,Yannik Reuter,Nikolaus Moser,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Turkey F8,3,Hard,QF,441,246,0,5,1,Radu Albot,Yannik Reuter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Turkey F8,3,Hard,R16,441,581,1,5,,Yannik Reuter,Alexander Sadecky,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,Turkey F8,3,Hard,R32,441,590,1,5,,Yannik Reuter,Yann Marti,6-2 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Turkey F7,3,Hard,R16,439,889,0,6,JE,Filip Horansky,Yannik Reuter,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2012,Turkey F7,3,Hard,R32,439,1011,1,6,Q,Yannik Reuter,Yanais Laurent,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,QF,442,257,0,8,1,Radu Albot,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,R16,442,596,1,8,,Yannik Reuter,Massimo Capone,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2012,Turkey F6,3,Hard,R32,442,762,1,8,Q,Yannik Reuter,Tristan Lamasine,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,France F3,3,Hard,QF,459,225,0,,3,Maxime Authom,Yannik Reuter,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,France F3,3,Hard,R16,459,1095,1,,WC,Yannik Reuter,Jeremy Blandin,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2012,France F3,3,Hard,R32,459,872,1,,WC,Yannik Reuter,Michael Bois,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,France F2,3,Hard,R32,462,459,0,,,Germain Gigounon,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Great Britain F2,3,Hard,R16,462,290,0,,2,Mirza Basic,Yannik Reuter,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Great Britain F2,3,Hard,R32,462,359,1,,,Yannik Reuter,Chris Eaton,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,Great Britain F1,3,Hard,R16,462,307,0,,3,Michal Przysiezny,Yannik Reuter,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2012,Great Britain F1,3,Hard,R32,462,459,1,,,Yannik Reuter,Germain Gigounon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2011,Turkey F31,3,Hard,R16,476,,0,4,Q,Marko Djokovic,Yannik Reuter,2-6 6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2011,Turkey F31,3,Hard,R32,476,850,1,4,Q,Yannik Reuter,Gleb Alekseenko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Turkey F30,3,Hard,QF,476,486,0,4,5,Norbert Gombos,Yannik Reuter,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Turkey F30,3,Hard,R16,476,726,1,4,Q,Yannik Reuter,Dominic Thiem,4-6 6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+31-Oct-2011,Turkey F30,3,Hard,R32,476,897,1,4,Q,Yannik Reuter,Jules Marie,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Turkey F29,3,Hard,R16,487,703,0,6,,Michel Dornbusch,Yannik Reuter,7-6(4) 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Turkey F29,3,Hard,R32,487,542,1,6,,Yannik Reuter,Patrik Brydolf,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Turkey F28,3,Hard,SF,491,268,0,3,1,Erik Chvojka,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Turkey F28,3,Hard,QF,491,1081,1,3,,Yannik Reuter,Anil Yuksel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Turkey F28,3,Hard,R16,491,1128,1,3,,Yannik Reuter,Tuna Altuna,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Turkey F28,3,Hard,R32,491,,1,3,WC,Yannik Reuter,Fatih Taha Erun,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Germany F16,3,Hard,SF,508,1164,0,5,Q,Tim Puetz,Yannik Reuter,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Germany F16,3,Hard,QF,508,341,1,5,2,Yannik Reuter,Antal Van Der Duim,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Germany F16,3,Hard,R16,508,1038,1,5,LL,Yannik Reuter,Davy Sum,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2011,Germany F16,3,Hard,R32,508,836,1,5,Q,Yannik Reuter,Michael Bois,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Belgium F9,3,Clay,R16,498,777,0,5,,Marco Dierckx,Yannik Reuter,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Belgium F9,3,Clay,R32,498,1612,1,5,Q,Yannik Reuter,Julien Sterbelle,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Belgium F8,3,Clay,R32,560,956,0,5,,Wesley Koolhof,Yannik Reuter,7-6(6) 7-6(8),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Belgium F7,3,Clay,F,559,404,1,6,1,Yannik Reuter,Alexandre Folie,6-4 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Belgium F7,3,Clay,SF,559,930,1,6,,Yannik Reuter,Gaetan De Lovinfosse,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Belgium F7,3,Clay,QF,559,,1,6,4,Yannik Reuter,Catalin Ionut Gard,3-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Belgium F7,3,Clay,R16,559,707,1,6,,Yannik Reuter,Robert Coman,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Belgium F7,3,Clay,R32,559,786,1,6,,Yannik Reuter,Rodrigo Perez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2011,Belgium F5,3,Clay,R32,559,774,0,8,,Antoine Tassart,Yannik Reuter,4-4 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Belgium F3,3,Clay,QF,615,291,0,7,1,Matwe Middelkoop,Yannik Reuter,5-7 7-6(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Belgium F3,3,Clay,R16,615,652,1,7,,Yannik Reuter,Michal Pazicky,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,Belgium F3,3,Clay,R32,615,,1,7,WC,Yannik Reuter,James Junior Storme,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,Belgium F2,3,Clay,F,617,360,0,4,1,Nicolas Devilder,Yannik Reuter,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,Belgium F2,3,Clay,SF,617,679,1,4,6,Yannik Reuter,Arthur De Greef,6-1 6-7(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,Belgium F2,3,Clay,QF,617,890,1,4,WC,Yannik Reuter,Yannick Vandenbulcke,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,Belgium F2,3,Clay,R16,617,1397,1,4,Q,Yannik Reuter,Philip Davydenko,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,Belgium F2,3,Clay,R32,617,1088,1,4,,Yannik Reuter,Laurent Olivier Daxhelet,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Germany F6,3,Clay,QF,593,1066,0,,Q,Yannick Vandenbulcke,Yannik Reuter,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Germany F6,3,Clay,R16,593,1276,1,,LL,Yannik Reuter,Daniel Uhlig,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,Germany F6,3,Clay,R32,593,579,1,,,Yannik Reuter,Kevin Krawietz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,Germany F5,3,Clay,R32,588,817,0,,,Sandro Ehrat,Yannik Reuter,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Romania F2,3,Clay,R16,582,571,0,,,Petru Alexandru Luncanu,Yannik Reuter,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-May-2011,Romania F2,3,Clay,R32,582,,1,,8,Yannik Reuter,Catalin Ionut Gard,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Romania F1,3,Clay,R32,582,739,0,,,Giulio Torroni,Yannik Reuter,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Turkey F14,3,Hard,QF,612,1030,0,Q,SE,Jozef Kovalik,Yannik Reuter,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Turkey F14,3,Hard,R16,612,440,1,Q,,Yannik Reuter,Andrei Mlendea,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2011,Turkey F14,3,Hard,R32,612,1770,1,Q,WC,Yannik Reuter,Barkin Yalcinkale,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,QF,688,402,0,SE,,Radu Albot,Yannik Reuter,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R16,688,671,1,SE,Q,Yannik Reuter,Adam Chadaj,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R32,688,1402,1,SE,Q,Yannik Reuter,Maximilian Neuchrist,2-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,F,684,439,0,,,Radu Albot,Yannik Reuter,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,SF,684,349,1,,2,Yannik Reuter,Miloslav Mecir Jr,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,QF,684,528,1,,,Yannik Reuter,Ivan Nedelko,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R16,684,958,1,,Q,Yannik Reuter,Wesley Koolhof,7-6(6) 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R32,684,1019,1,,Q,Yannik Reuter,Jozef Kovalik,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,France F5,3,Hard,R32,670,280,0,Q,,Kenny De Schepper,Yannik Reuter,7-6(15) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,France F4,3,Hard,R32,670,1099,0,,Q,Roberto Marcora,Yannik Reuter,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,F,804,405,0,Q,5,Cedrik Marcel Stebe,Yannik Reuter,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,SF,804,344,1,Q,3,Yannik Reuter,Michael Venus,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,QF,804,277,1,Q,2,Yannik Reuter,Jonathan Eysseric,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,R16,804,436,1,Q,7,Yannik Reuter,Gerald Melzer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2011,Turkey F6,3,Hard,R32,804,532,1,Q,,Yannik Reuter,Ivan Nedelko,4-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2011,Israel F3,3,Hard,R32,832,392,0,,4,Walter Trusendi,Yannik Reuter,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Israel F2,3,Hard,R16,832,392,0,Q,5,Walter Trusendi,Yannik Reuter,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,Israel F2,3,Hard,R32,832,,1,Q,WC,Yannik Reuter,Saar Steele,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2011,Israel F1,3,Hard,R16,833,379,0,,2,Karlis Lejnieks,Yannik Reuter,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2011,Israel F1,3,Hard,R32,833,1070,1,,Q,Yannik Reuter,Luca Margaroli,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Turkey F12,3,Hard,QF,869,458,0,,1,Adrian Cruciat,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Turkey F12,3,Hard,R16,869,1396,1,,Q,Yannik Reuter,Gaetan De Lovinfosse,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Turkey F12,3,Hard,R32,869,653,1,,8,Yannik Reuter,Yannick Vandenbulcke,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2010,Turkey F11,3,Hard,R32,870,490,0,,1,Alexandre Folie,Yannik Reuter,6-3 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,France F16,3,Carpet,R16,875,525,0,,6,Rudy Coco,Yannik Reuter,6-7(4) 7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,France F16,3,Carpet,R32,875,1418,1,,LL,Yannik Reuter,Aurelien Febvay,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Belgium F2,3,Clay,R16,775,530,0,,5,Yannick Vandenbulcke,Yannik Reuter,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Belgium F2,3,Clay,R32,775,,1,,WC,Yannik Reuter,Jeroen Vanneste,7-6(7) 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Belgium F1,3,Clay,R16,771,1670,0,WC,Q,Paterne Mamata,Yannik Reuter,6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Belgium F1,3,Clay,R32,771,534,1,WC,3,Yannik Reuter,Yannick Vandenbulcke,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Germany F11,3,Clay,R32,771,323,0,,2,David Goffin,Yannik Reuter,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Morocco F5,3,Clay,R32,903,1006,0,,,Marco Dierckx,Yannik Reuter,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Morocco F4,3,Clay,SF,903,465,0,Q,3,Gerard Granollers,Yannik Reuter,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Morocco F4,3,Clay,QF,903,724,1,Q,,Yannik Reuter,James Feaver,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Morocco F4,3,Clay,R16,903,891,1,Q,,Yannik Reuter,Jordi Samper Montana,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,Morocco F4,3,Clay,R32,903,676,1,Q,7,Yannik Reuter,Yassine Idmbarek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Morocco F3,3,Clay,R16,893,450,0,,2,Gerard Granollers,Yannik Reuter,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Morocco F3,3,Clay,R32,893,1012,1,,Q,Yannik Reuter,Christian Welte,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Bulgaria F2,3,Clay,R32,900,670,0,LL,,Ivaylo Traykov,Yannik Reuter,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2010,Turkey F6,3,Clay,Q4,906,1279,0,12,,Andrei Ciumac,Yannik Reuter,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Portugal F2,3,Hard,R16,931,268,0,Q,1,Guillermo Alcaide,Yannik Reuter,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Portugal F2,3,Hard,R32,931,599,1,Q,,Yannik Reuter,Baptiste Dupuy,6-4 6-7(3) [10-4],,,,,,,,,,,,,,,,,,,,,
+8-Mar-2010,Portugal F2,3,Hard,Q4,931,,1,14,,Yannik Reuter,Igor Rud,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,Germany F1,3,Carpet,R32,947,625,0,Q,,Patrick Taubert,Yannik Reuter,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Germany F20,3,Hard,R32,995,478,0,,2,Patrick Taubert,Yannik Reuter,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2009,Greece F2,3,Carpet,R16,1032,560,0,Q,7,Alexandros Jakupovic,Yannik Reuter,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2009,Greece F2,3,Carpet,R32,1032,,1,Q,Q,Yannik Reuter,Angelos Lenis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2009,Greece F1,3,Hard,R32,1050,541,0,,3,Mathieu Guenat,Yannik Reuter,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Belgium F3,3,Clay,R16,1440,465,0,SE,2,Rabie Chaki,Yannik Reuter,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2009,Belgium F3,3,Clay,R32,1440,898,1,SE,,Yannik Reuter,Julien Dubail,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Belgium F2,3,Clay,SF,,796,0,WC,,Daniel Smethurst,Yannik Reuter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Belgium F2,3,Clay,QF,,381,1,WC,1,Yannik Reuter,Pierre Metenier,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Belgium F2,3,Clay,R16,,659,1,WC,7,Yannik Reuter,Marcus Willis,7-6(4) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Belgium F2,3,Clay,R32,,690,1,WC,,Yannik Reuter,Marco Viola,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Belgium F1,3,Clay,QF,,1058,0,WC,Q,Jan Lennard Struff,Yannik Reuter,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Belgium F1,3,Clay,R16,,610,1,WC,3,Yannik Reuter,Germain Gigounon,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Belgium F1,3,Clay,R32,,,1,WC,WC,Yannik Reuter,Benjamin Devos,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Belgium F1,3,Clay,R32,,1499,0,WC,Q,Federico Raffaelli,Yannik Reuter,6-3 6-0,,,,,,,,,,,,,,,,,,,,,

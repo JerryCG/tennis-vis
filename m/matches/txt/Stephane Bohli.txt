@@ -1,0 +1,632 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+28-Oct-2013,Geneva Challenger,3,Hard,R32,388,144,0,WC,,Thiemo De Bakker,Stephane Bohli,7-6(3) 4-6 6-3,0.85,10.8%,3.9%,56.9%,77.6%,47.7%,5/7,47.5%,30.0%,25.0%,18.0%,48.7%,2/5,202,11,4,102,58,44,25,
+21-Oct-2013,Basel Q,3,Hard,Q1,389,95,0,WC,5,Jack Sock,Stephane Bohli,7-6(7) 4-6 7-6(2),1.32,11.3%,4.1%,58.8%,87.7%,57.5%,3/5,52.4%,32.7%,9.7%,21.1%,44.6%,3/7,210,11,4,97,57,40,11,2:16
+14-Oct-2013,Mouilleron-Le-Captif CH,3,Hard,R32,390,196,0,Q,WC,Maxime Teixeira,Stephane Bohli,7-5 6-4,0.56,4.9%,0.0%,56.1%,65.2%,55.6%,13/15,44.7%,22.0%,13.6%,17.1%,33.3%,0/2,141,4,0,82,46,36,8,1:34
+30-Sep-2013,France F18,3,Hard,R32,342,994,0,8,WC,Tristan Lamasine,Stephane Bohli,6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Petange CH,3,Hard,QF,347,299,0,WC,,Jurgen Zopp,Stephane Bohli,6-3 6-3,0.66,5.8%,3.8%,44.2%,65.2%,48.3%,0/3,41.8%,29.3%,19.0%,29.7%,28.6%,0/6,110,3,2,52,23,29,11,1:07
+9-Sep-2013,Petange CH,3,Hard,R16,347,138,1,WC,8,Stephane Bohli,Andrey Golubev,7-6(4) 6-4,1.20,4.2%,1.4%,46.5%,78.8%,57.9%,3/4,51.9%,38.8%,5.9%,23.4%,57.9%,2/7,156,3,1,71,33,38,5,1:45
+9-Sep-2013,Petange CH,3,Hard,R32,347,1206,1,WC,WC,Stephane Bohli,Gilles Kremer,6-2 6-2,1.87,14.0%,4.0%,42.0%,81.0%,62.1%,3/4,63.0%,56.0%,2.0%,36.8%,67.7%,5/6,100,7,2,50,21,29,1,1:10
+3-Sep-2013,St. Remy CH,3,Hard,R16,354,215,0,,,Martin Fischer,Stephane Bohli,6-2 6-2,0.71,1.8%,1.8%,63.2%,61.1%,33.3%,3/7,42.5%,34.9%,11.1%,31.4%,39.3%,0/8,120,1,1,57,36,21,7,1:14
+3-Sep-2013,St. Remy CH,3,Hard,R32,354,69,1,,1,Stephane Bohli,Kenny De Schepper,4-6 6-3 7-6(8),1.13,2.8%,5.7%,51.9%,80.0%,54.9%,4/6,51.9%,36.1%,12.0%,35.8%,36.4%,2/11,214,3,6,106,55,51,13,2:29
+15-Jul-2013,Binghamton CH,3,Hard,R16,376,157,0,,6,Alex Kuznetsov,Stephane Bohli,2-6 RET,1.36,2.6%,13.2%,52.6%,80.0%,44.4%,2/2,58.3%,50.0%,13.6%,46.7%,57.1%,2/3,60,1,5,38,20,18,3,0:47
+15-Jul-2013,Binghamton CH,3,Hard,R32,376,290,1,,,Stephane Bohli,Alex Bogdanovic,6-2 6-1,1.87,4.3%,2.1%,55.3%,73.1%,52.4%,1/3,65.5%,67.6%,2.7%,85.0%,47.1%,6/11,84,2,1,47,26,21,1,0:55
+8-Jul-2013,Newport Q,3,Grass,Q2,380,353,0,,7,John Patrick Smith,Stephane Bohli,7-6(3) 7-5,0.85,3.8%,7.5%,55.0%,88.6%,44.4%,8/9,48.4%,26.7%,6.7%,22.5%,31.4%,0/2,155,3,6,80,44,36,5,1:36
+8-Jul-2013,Newport Q,3,Grass,Q1,380,323,1,,,Stephane Bohli,Marcelo Demoliner,7-5 6-1,1.58,6.5%,3.2%,53.2%,78.8%,58.6%,2/3,59.2%,48.3%,6.9%,28.6%,66.7%,4/9,120,4,2,62,33,29,4,1:14
+16-Jun-2013,s-Hertogenbosch,3,Grass,R32,401,63,0,Q,,Roberto Bautista Agut,Stephane Bohli,3-6 7-6(5) 7-6(12),0.95,11.4%,1.5%,62.1%,76.8%,60.0%,7/7,50.8%,28.1%,7.0%,25.0%,35.3%,1/4,246,15,2,132,82,50,8,2:42
+16-Jun-2013,s-Hertogenbosch Q,3,Grass,Q3,401,113,1,,2,Stephane Bohli,Steve Darcis,7-6(4) 7-6(4),0.96,7.2%,4.8%,62.7%,78.8%,32.3%,1/3,49.7%,36.8%,1.3%,37.0%,36.4%,2/3,159,6,4,83,52,31,1,1:39
+16-Jun-2013,s-Hertogenbosch Q,3,Grass,Q2,401,197,1,,5,Stephane Bohli,Niels Desein,6-2 6-3,1.95,6.0%,0.0%,44.0%,86.4%,67.9%,2/2,61.9%,46.8%,4.3%,37.5%,66.7%,3/4,97,3,0,50,22,28,2,0:57
+16-Jun-2013,s-Hertogenbosch Q,3,Grass,Q1,401,403,1,,,Stephane Bohli,Kevin Krawietz,6-3 6-4,1.80,11.3%,3.8%,69.8%,83.8%,68.8%,3/3,57.1%,37.3%,1.7%,33.3%,47.1%,2/7,112,6,2,53,37,16,1,1:04
+27-May-2013,Korea F4,3,Hard,R32,392,992,0,7,Q,Woong Sun Jun,Stephane Bohli,7-6(3) RET,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R16,391,541,0,4,,Hyun Woo Nam,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2013,Korea F3,3,Hard,R32,391,UNR,1,4,Q,Stephane Bohli,Seul Ki Um,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Turkey F15,3,Hard,R16,398,474,0,6,,Neil Pauffley,Stephane Bohli,7-6(1) RET,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Turkey F15,3,Hard,R32,398,1200,1,6,Q,Stephane Bohli,Yahor Yatsyk,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Turkey F14,3,Hard,QF,409,441,0,5,Q,Thiago Monteiro,Stephane Bohli,1-2 RET,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Turkey F14,3,Hard,R16,409,480,1,5,,Stephane Bohli,Neil Pauffley,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,Turkey F14,3,Hard,R32,409,526,1,5,,Stephane Bohli,Jose Hernandez,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,SF,437,320,0,5,1,Martin Fischer,Stephane Bohli,6-0 4-6 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,QF,437,403,1,5,4,Stephane Bohli,Adrien Bossel,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R16,437,1110,1,5,Q,Stephane Bohli,Christian Trubrig,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Switzerland F3,3,Carpet,R32,437,780,1,5,,Stephane Bohli,Riccardo Maiga,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,F,433,543,1,6,,Stephane Bohli,Edoardo Eremin,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,SF,433,568,1,6,,Stephane Bohli,Andreas Beck,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,QF,433,324,1,6,2,Stephane Bohli,Martin Fischer,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R16,433,1895,1,6,Q,Stephane Bohli,Patrick Eichenberger,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2013,Switzerland F2,3,Carpet,R32,433,909,1,6,Q,Stephane Bohli,Teri Groll,6-1 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,SF,393,244,0,5,1,Marsel Ilhan,Stephane Bohli,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,QF,393,274,1,5,3,Stephane Bohli,Aldin Setkic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R16,393,829,1,5,,Stephane Bohli,Valery Rudnev,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R32,393,614,1,5,,Stephane Bohli,Arsenije Zlatanovic,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Geneva CH,3,Hard,QF,367,172,0,WC,,Marius Copil,Stephane Bohli,5-7 6-4 6-4,0.95,3.5%,4.7%,50.0%,83.7%,53.5%,2/4,48.3%,29.8%,13.8%,14.3%,46.7%,1/7,180,3,4,86,43,43,13,2:25
+29-Oct-2012,Geneva CH,3,Hard,R16,367,118,1,WC,,Stephane Bohli,Kenny De Schepper,6-4 3-6 7-6(4),0.84,5.2%,4.2%,64.6%,74.2%,61.8%,3/4,48.6%,25.3%,14.9%,14.0%,46.7%,1/1,183,5,4,96,62,34,13,2:27
+29-Oct-2012,Geneva CH,3,Hard,R32,367,136,1,WC,,Stephane Bohli,Thiago Alves,6-3 6-4,1.47,17.2%,1.7%,53.4%,87.1%,55.6%,1/1,55.1%,40.6%,5.8%,34.2%,48.4%,2/8,127,10,1,58,31,27,4,1:31
+8-Oct-2012,Turkey F39,3,Hard,SF,287,375,0,1,4,Norbert Gombos,Stephane Bohli,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Turkey F39,3,Hard,QF,287,638,1,1,,Stephane Bohli,Riccardo Sinicropi,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Turkey F39,3,Hard,R16,287,1945,1,1,Q,Stephane Bohli,Gleb Alekseenko,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Turkey F39,3,Hard,R32,287,UNR,1,1,Q,Stephane Bohli,Alexander Krasnorutskiy,5-7 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,F,280,218,1,2,1,Stephane Bohli,Brydan Klein,7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,SF,280,342,1,2,3,Stephane Bohli,Kevin Krawietz,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,QF,280,576,1,2,8,Stephane Bohli,Edoardo Eremin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R16,280,670,1,2,,Stephane Bohli,Filip Horansky,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2012,Turkey F38,3,Hard,R32,280,806,1,2,,Stephane Bohli,Artem Sitak,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Turkey F37,3,Hard,R32,274,700,0,2,,Artem Sitak,Stephane Bohli,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Ningbo CH,3,Hard,QF,295,252,0,,8,Ti Chen,Stephane Bohli,6-2 3-6 7-6(5),1.02,7.4%,3.2%,59.6%,78.6%,50.0%,4/6,50.8%,33.7%,5.6%,34.3%,31.8%,1/6,183,7,3,94,56,38,5,2:24
+10-Sep-2012,Ningbo CH,3,Hard,R16,295,402,1,,,Stephane Bohli,Zhe Li,6-3 7-6(2),1.24,20.5%,2.7%,56.2%,80.5%,62.5%,1/1,54.8%,33.9%,4.8%,29.8%,46.7%,1/1,135,15,2,73,41,32,3,1:51
+10-Sep-2012,Ningbo CH,3,Hard,R32,295,452,1,,,Stephane Bohli,Toshihide Matsui,7-5 1-6 6-1,1.15,5.6%,2.8%,63.4%,75.6%,50.0%,0/3,51.7%,38.7%,3.8%,34.9%,43.2%,4/6,151,4,2,71,45,26,3,2:03
+3-Sep-2012,Shanghai CH,3,Hard,R32,295,206,0,,8,Di Wu,Stephane Bohli,4-6 6-3 6-0,0.55,6.4%,3.8%,48.7%,78.9%,37.5%,5/9,42.3%,23.4%,7.8%,22.2%,25.0%,1/1,142,5,3,78,38,40,5,1:47
+20-Aug-2012,Segovia CH,3,Hard,R32,293,226,0,,7,Facundo Arguello,Stephane Bohli,7-6(4) 6-3,0.80,11.1%,6.3%,55.6%,74.3%,50.0%,2/5,45.2%,29.2%,2.8%,20.9%,41.4%,2/8,135,7,4,63,35,28,2,1:41
+30-Jul-2012,Beijing CH,3,Hard,R32,297,83,0,,1,Aljaz Bedene,Stephane Bohli,4-6 7-6(5) 6-1,0.84,5.3%,2.1%,47.4%,68.9%,44.0%,4/8,46.2%,37.3%,12.7%,12.2%,60.4%,3/5,197,5,2,95,45,50,13,2:59
+23-Jul-2012,Astana CH,3,Hard,R32,296,173,0,,5,Evgeny Donskoy,Stephane Bohli,6-7(4) 6-3 6-4,0.83,5.5%,3.3%,42.9%,82.1%,57.7%,3/5,46.8%,26.3%,9.5%,21.4%,33.3%,0/3,186,5,3,91,39,52,9,2:28
+9-Jul-2012,Stuttgart Q,3,Clay,Q1,290,538,0,,,Julian Reister,Stephane Bohli,6-2 7-6(8),0.50,5.7%,4.6%,62.1%,64.8%,39.4%,7/10,42.6%,22.2%,1.9%,17.6%,30.0%,1/1,141,5,4,87,54,33,1,1:31
+18-Jun-2012,Eastbourne Q,3,Grass,Q1,287,343,0,,,Illya Marchenko,Stephane Bohli,6-2 6-4,0.57,0.0%,5.0%,51.7%,61.3%,51.7%,4/7,41.6%,24.5%,5.7%,14.3%,36.0%,0/2,113,0,3,60,31,29,3,1:05
+11-Jun-2012,Nottingham2 CH,3,Grass,R32,298,495,0,Q,,Robert Kendrick,Stephane Bohli,6-4 7-5,1.26,10.0%,3.3%,56.7%,88.2%,50.0%,5/7,51.1%,35.8%,7.4%,24.1%,59.3%,0/10,141,6,2,60,34,26,6,1:17
+19-Mar-2012,Rimouski CH,3,Hard,QF,236,111,0,8,2,Vasek Pospisil,Stephane Bohli,6-3 2-6 6-4,1.28,6.0%,0.0%,61.2%,87.8%,50.0%,4/6,51.0%,34.4%,15.6%,25.0%,53.3%,2/6,157,4,0,67,41,26,14,1:44
+19-Mar-2012,Rimouski CH,3,Hard,R16,236,577,1,8,,Stephane Bohli,Fritz Wolmarans,2-6 6-3 6-4,1.04,14.1%,0.0%,55.1%,76.7%,51.4%,1/3,49.7%,36.0%,10.1%,27.0%,57.7%,2/5,167,11,0,78,43,35,9,2:02
+19-Mar-2012,Rimouski CH,3,Hard,R32,236,341,1,8,,Stephane Bohli,Alexander Ward,6-1 6-4,1.32,14.0%,1.8%,68.4%,76.9%,44.4%,2/2,57.1%,43.9%,2.4%,38.5%,53.3%,3/3,98,8,1,57,39,18,1,1:06
+12-Mar-2012,Guadalajara CH,3,Hard,R32,221,165,0,,,Ruben Bemelmans,Stephane Bohli,4-6 6-3 6-1,0.78,7.5%,11.8%,37.6%,71.4%,36.2%,4/11,44.9%,39.2%,10.8%,33.3%,50.0%,4/7,167,7,11,93,35,58,8,1:50
+8-Mar-2012,Indian Wells Masters Q,3,Hard,Q1,221,132,0,,17,Izak Van Der Merwe,Stephane Bohli,7-6(2) 6-1,0.63,3.0%,7.5%,37.3%,60.0%,57.1%,4/6,43.0%,26.2%,9.8%,13.2%,47.8%,0/0,128,2,5,67,25,42,6,1:27
+27-Feb-2012,Cherbourg CH,3,Hard,R32,202,196,0,,,Martin Fischer,Stephane Bohli,6-4 3-6 6-1,0.76,2.5%,3.8%,46.8%,54.1%,45.2%,6/13,44.4%,38.5%,3.1%,30.8%,50.0%,5/8,144,2,3,79,37,42,2,1:41
+20-Feb-2012,Marseille Q,3,Hard,Q1,204,164,0,,7,David Goffin,Stephane Bohli,7-6(3) 6-2,0.50,2.9%,1.4%,57.1%,67.5%,46.7%,6/9,42.3%,20.8%,11.3%,13.3%,30.4%,1/1,123,2,1,70,40,30,6,1:21
+13-Feb-2012,Bergamo CH,3,Hard,R32,197,291,0,,WC,Marco Crugnola,Stephane Bohli,6-4 6-3,0.82,7.8%,5.9%,52.9%,70.4%,50.0%,4/8,45.8%,32.1%,7.1%,33.3%,31.0%,1/7,107,4,3,51,27,24,4,1:05
+30-Jan-2012,Zagreb Q,3,Hard,Q3,197,296,0,,,Daniel Evans,Stephane Bohli,4-6 6-4 6-0,0.88,11.0%,1.2%,58.5%,66.7%,41.2%,4/9,46.8%,38.5%,0.0%,36.4%,41.7%,2/8,173,9,1,82,48,34,0,2:01
+30-Jan-2012,Zagreb Q,3,Hard,Q2,197,168,1,,6,Stephane Bohli,Aljaz Bedene,6-2 6-3,1.64,10.9%,0.0%,58.2%,75.0%,60.9%,1/2,59.3%,50.8%,6.3%,59.5%,38.5%,4/12,118,6,0,55,32,23,4,1:30
+30-Jan-2012,Zagreb Q,3,Hard,Q1,197,337,1,,,Stephane Bohli,Nikola Mektic,6-1 6-4,1.58,7.0%,1.8%,63.2%,83.3%,57.1%,4/4,59.0%,41.7%,0.0%,42.3%,40.9%,3/7,105,4,1,57,36,21,0,1:10
+16-Jan-2012,Australian Open Q,3,Hard,Q2,206,273,0,,,Tim Smyczek,Stephane Bohli,6-4 7-5,0.77,9.1%,3.0%,59.1%,82.1%,37.0%,7/10,46.5%,27.9%,6.6%,27.1%,30.8%,1/3,127,6,2,66,39,27,4,1:21
+16-Jan-2012,Australian Open Q,3,Hard,Q1,206,286,1,,,Stephane Bohli,Conor Niland,6-3 6-2,2.12,6.5%,0.0%,52.2%,83.3%,68.2%,2/3,60.7%,50.7%,0.0%,42.6%,66.7%,4/12,117,3,0,46,24,22,0,1:48
+9-Jan-2012,Auckland,3,Hard,R32,218,42,0,Q,8,Philipp Kohlschreiber,Stephane Bohli,6-4 4-6 6-4,0.86,6.6%,3.3%,60.4%,74.5%,47.2%,4/7,48.3%,31.3%,15.7%,23.7%,37.8%,2/6,174,6,3,91,55,36,13,1:52
+9-Jan-2012,Auckland Q,3,Hard,Q3,218,109,1,,3,Stephane Bohli,Ricardo Mello,7-5 6-4,1.21,11.9%,3.0%,55.2%,81.1%,43.3%,3/5,53.7%,43.3%,1.5%,36.4%,56.5%,4/10,134,8,2,67,37,30,1,1:26
+9-Jan-2012,Auckland Q,3,Hard,Q2,218,138,1,,,Stephane Bohli,Arnau Brugues Davi,7-5 4-6 6-3,1.17,6.7%,7.6%,47.6%,78.0%,34.5%,4/10,53.9%,52.5%,3.0%,48.1%,57.4%,8/14,204,7,8,105,50,55,3,2:26
+9-Jan-2012,Auckland Q,3,Hard,Q1,218,115,1,,8,Stephane Bohli,Izak Van Der Merwe,3-6 6-2 6-1,1.24,6.5%,3.9%,53.2%,68.3%,63.9%,3/4,53.8%,41.8%,7.6%,37.5%,48.4%,4/6,156,5,3,77,41,36,6,1:48
+7-Nov-2011,Geneva CH,3,Hard,QF,225,92,0,WC,2,Steve Darcis,Stephane Bohli,7-6(5) 3-6 6-2,0.89,5.9%,2.0%,59.4%,66.7%,51.2%,10/13,48.2%,35.4%,13.5%,22.2%,47.1%,3/4,197,6,2,101,60,41,13,2:24
+7-Nov-2011,Geneva CH,3,Hard,R16,225,153,1,WC,,Stephane Bohli,Bjorn Phau,7-6(2) 7-6(1),1.23,8.6%,2.5%,49.4%,70.0%,58.5%,4/7,53.4%,44.2%,3.2%,33.3%,60.5%,3/11,176,7,2,81,40,41,3,2:04
+7-Nov-2011,Geneva CH,3,Hard,R32,225,94,1,WC,5,Stephane Bohli,Karol Beck,6-3 3-6 6-4,0.94,3.1%,6.2%,49.5%,70.8%,46.9%,8/11,49.2%,38.9%,12.2%,25.9%,58.3%,4/14,187,3,6,97,48,49,11,2:12
+31-Oct-2011,Basel Q,3,Hard,Q2,233,64,0,WC,3,Lukasz Kubot,Stephane Bohli,4-6 6-4 6-3,0.81,9.6%,7.4%,44.7%,66.7%,53.8%,4/8,47.4%,32.9%,6.3%,25.0%,48.1%,2/3,173,9,7,94,42,52,5,2:05
+31-Oct-2011,Basel Q,3,Hard,Q1,233,75,1,WC,7,Stephane Bohli,Ryan Harrison,6-4 7-5,1.70,3.6%,7.3%,47.3%,88.5%,58.6%,0/2,57.9%,46.5%,5.6%,43.2%,50.0%,4/7,126,2,4,55,26,29,4,1:21
+17-Oct-2011,Seoul CH,3,Hard,SF,278,77,0,,1,Yen Hsun Lu,Stephane Bohli,6-4 6-1,0.49,3.8%,5.7%,34.0%,61.1%,45.7%,4/8,38.9%,23.8%,7.1%,20.8%,27.8%,0/0,95,2,3,53,18,35,3,1:03
+17-Oct-2011,Seoul CH,3,Hard,QF,278,223,1,,,Stephane Bohli,Marco Chiudinelli,5-7 6-0 6-2,1.39,7.1%,8.3%,45.2%,68.4%,47.8%,3/8,58.2%,59.5%,1.4%,54.9%,69.6%,9/12,158,6,7,84,38,46,1,2:01
+17-Oct-2011,Seoul CH,3,Hard,R16,278,119,1,,3,Stephane Bohli,Go Soeda,6-3 6-4,1.33,12.9%,4.8%,53.2%,75.8%,48.3%,4/6,56.1%,49.2%,3.3%,48.7%,50.0%,4/8,123,8,3,62,33,29,2,1:29
+17-Oct-2011,Seoul CH,3,Hard,R32,278,903,1,,Q,Stephane Bohli,Suk Young Jeong,4-6 6-1 6-4,1.26,8.6%,3.7%,60.5%,79.6%,50.0%,5/7,53.9%,40.5%,2.4%,37.9%,46.2%,4/11,165,7,3,81,49,32,2,2:03
+9-Oct-2011,Shanghai Masters,3,Hard,R64,247,46,0,Q,,Tommy Robredo,Stephane Bohli,7-6(3) 7-6(4),0.97,3.6%,1.2%,57.8%,77.1%,45.7%,5/7,49.1%,35.2%,4.5%,33.3%,39.3%,2/8,171,3,1,83,48,35,4,2:02
+9-Oct-2011,Shanghai Masters Q,3,Hard,Q2,247,186,1,,,Stephane Bohli,Stefano Galvani,6-2 6-3,1.61,11.3%,3.8%,47.2%,80.0%,64.3%,1/1,57.1%,45.5%,3.0%,35.1%,58.6%,3/6,119,6,2,53,25,28,2,1:16
+9-Oct-2011,Shanghai Masters Q,3,Hard,Q1,247,115,1,,9,Stephane Bohli,Grega Zemlja,7-5 2-6 7-6(5),0.91,6.5%,2.4%,45.2%,71.4%,52.9%,7/10,48.9%,35.1%,12.6%,21.9%,53.2%,2/12,235,8,3,124,56,68,14,2:30
+26-Sep-2011,Bangkok Q,3,Hard,Q3,243,126,0,7,2,Go Soeda,Stephane Bohli,6-4 0-6 7-5,0.97,8.0%,3.4%,81.8%,59.7%,43.8%,5/9,49.2%,41.8%,2.2%,42.9%,35.7%,5/11,179,7,3,88,72,16,2,2:10
+26-Sep-2011,Bangkok Q,3,Hard,Q2,243,331,1,7,,Stephane Bohli,Evgeny Kirillov,6-3 6-4,1.14,10.0%,1.7%,58.3%,80.0%,52.0%,5/6,54.2%,36.2%,6.4%,25.9%,50.0%,3/5,107,6,1,60,35,25,3,1:08
+29-Aug-2011,US Open Q,3,Hard,Q1,196,280,0,,,Pablo Galdon,Stephane Bohli,6-4 6-4,0.89,3.6%,12.5%,41.1%,82.6%,42.4%,1/4,46.5%,36.6%,1.4%,35.1%,38.2%,1/2,127,2,7,56,23,33,1,1:11
+25-Jul-2011,Gstaad,3,Clay,R32,193,45,0,WC,8,Marcel Granollers,Stephane Bohli,6-1 6-0,0.48,2.0%,6.0%,54.0%,59.3%,4.3%,2/9,32.9%,31.4%,8.6%,19.0%,50.0%,1/2,85,1,3,50,27,23,3,1:00
+27-Jun-2011,Turin CH,3,Clay,R32,136,146,0,,,Martin Klizan,Stephane Bohli,7-5 6-2,0.81,13.4%,10.4%,52.2%,65.7%,40.6%,7/12,46.3%,37.5%,3.6%,26.7%,50.0%,2/3,123,9,7,67,35,32,2,1:23
+20-Jun-2011,Wimbledon Q,3,Grass,Q1,136,211,0,22,,Andrey Kuznetsov,Stephane Bohli,7-6(4) 6-4,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:23
+6-Jun-2011,Nottingham2 CH,3,Hard,R32,138,82,0,,6,Alejandro Falla,Stephane Bohli,6-4 6-4,0.79,5.4%,3.6%,60.7%,55.9%,45.5%,2/6,44.3%,37.9%,6.1%,31.3%,55.6%,2/5,122,3,2,56,34,22,4,1:09
+30-May-2011,Nottingham CH,3,Grass,QF,149,114,0,,,Tatsuma Ito,Stephane Bohli,1-6 7-6(6) 6-3,1.10,7.8%,6.7%,56.7%,76.5%,41.0%,2/6,52.3%,42.7%,12.2%,34.7%,54.5%,4/4,172,7,6,90,51,39,10,1:57
+30-May-2011,Nottingham CH,3,Grass,R16,149,164,1,,,Stephane Bohli,Rik De Voest,6-4 6-2,1.75,12.2%,0.0%,49.0%,87.5%,64.0%,1/1,57.1%,42.9%,1.6%,42.6%,43.8%,3/5,112,6,0,49,24,25,1,1:14
+30-May-2011,Nottingham CH,3,Grass,R32,149,53,1,,1,Stephane Bohli,Adrian Mannarino,6-4 6-1,1.99,14.6%,2.1%,64.6%,93.5%,47.1%,0/0,60.0%,45.6%,7.0%,36.7%,55.6%,3/5,105,7,1,48,31,17,4,1:03
+22-May-2011,Roland Garros Q,3,Clay,Q2,149,139,0,,17,Andreas Beck,Stephane Bohli,7-6(3) 6-4,0.80,6.5%,6.5%,40.3%,77.4%,43.5%,2/5,46.3%,34.3%,4.3%,32.1%,41.2%,2/4,147,5,5,77,31,46,3,1:49
+22-May-2011,Roland Garros Q,3,Clay,Q1,149,192,1,,,Stephane Bohli,Ilija Bozoljac,6-3 6-2,1.51,9.5%,6.3%,50.8%,78.1%,58.1%,5/5,59.3%,48.0%,16.0%,37.0%,60.9%,3/3,113,6,4,63,32,31,8,1:06
+11-Apr-2011,Athens CH,3,Hard,SF,146,134,0,7,4,Matthias Bachinger,Stephane Bohli,6-4 7-6(3),0.86,8.2%,2.4%,51.8%,63.6%,53.7%,2/5,48.1%,35.2%,5.6%,20.5%,53.1%,2/4,156,7,2,85,44,41,4,1:41
+11-Apr-2011,Athens CH,3,Hard,QF,146,68,1,7,1,Stephane Bohli,Benjamin Becker,6-3 6-1,2.01,14.3%,0.0%,59.5%,88.0%,58.8%,0/0,61.4%,47.8%,6.5%,38.5%,60.0%,4/9,88,6,0,42,25,17,3,0:56
+11-Apr-2011,Athens CH,3,Hard,R16,146,181,1,7,,Stephane Bohli,Igor Sijsling,6-7(4) 6-4 6-2,1.69,14.5%,0.0%,61.8%,83.0%,62.1%,2/4,57.2%,42.2%,10.0%,35.5%,57.1%,5/8,166,11,0,76,47,29,9,1:44
+11-Apr-2011,Athens CH,3,Hard,R32,146,919,1,7,WC,Stephane Bohli,Konstantinos Economidis,7-6(4) 7-5,1.18,12.3%,2.5%,59.3%,77.1%,57.6%,3/4,53.5%,36.5%,4.1%,35.6%,37.9%,2/7,155,10,2,81,48,33,3,1:45
+23-Mar-2011,Miami Masters Q,3,Hard,Q1,141,90,0,,6,Michael Russell,Stephane Bohli,6-4 6-4,0.62,4.2%,7.0%,53.5%,65.8%,48.5%,5/8,43.8%,26.3%,5.3%,16.7%,42.9%,1/3,128,3,5,71,38,33,3,1:26
+14-Mar-2011,Le Gosier CH,3,Hard,QF,142,357,0,,,Gastao Elias,Stephane Bohli,6-7(5) 6-0 6-3,0.73,2.2%,0.0%,45.1%,48.8%,50.0%,3/9,43.1%,37.1%,4.1%,30.2%,50.0%,2/5,188,2,0,91,41,50,4,2:25
+14-Mar-2011,Le Gosier CH,3,Hard,R16,142,54,1,,2,Stephane Bohli,Fabio Fognini,6-3 7-6(3),1.27,6.8%,1.4%,57.5%,78.6%,51.6%,3/4,54.5%,41.7%,2.8%,41.7%,41.7%,2/6,145,5,1,73,42,31,2,1:33
+14-Mar-2011,Le Gosier CH,3,Hard,R32,142,151,1,,,Stephane Bohli,Vincent Millot,7-5 6-2,1.33,6.8%,4.1%,42.5%,71.0%,45.2%,10/13,57.1%,58.5%,1.9%,40.0%,69.7%,6/7,126,5,3,73,31,42,1,1:26
+28-Feb-2011,Cherbourg CH,3,Hard,QF,148,78,0,8,1,Grigor Dimitrov,Stephane Bohli,6-7(4) 7-6(4) 6-3,0.99,9.6%,3.8%,51.9%,81.5%,58.0%,4/5,49.5%,29.6%,7.4%,25.8%,35.7%,0/0,212,10,4,104,54,50,8,2:22
+28-Feb-2011,Cherbourg CH,3,Hard,R16,148,195,1,8,,Stephane Bohli,Marc Gicquel,6-3 6-2,1.59,10.7%,3.6%,48.2%,88.9%,58.6%,2/2,59.2%,42.6%,6.4%,22.7%,60.0%,3/6,103,6,2,56,27,29,3,1:07
+28-Feb-2011,Cherbourg CH,3,Hard,R32,148,283,1,8,,Stephane Bohli,Yannick Mertens,6-1 6-7(3) 6-1,1.32,14.6%,4.2%,55.2%,77.4%,51.2%,4/5,56.6%,45.5%,0.0%,45.7%,45.2%,5/11,173,14,4,96,53,43,0,1:38
+14-Feb-2011,Marseille,3,Hard,R32,148,28,0,Q,,Marin Cilic,Stephane Bohli,6-7(6) 6-3 6-2,0.54,8.0%,1.1%,59.8%,73.1%,54.3%,4/7,42.9%,18.5%,19.8%,8.7%,31.4%,0/0,168,7,1,87,52,35,16,2:01
+14-Feb-2011,Marseille Q,3,Hard,Q3,148,282,1,7,,Stephane Bohli,Maxime Teixeira,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Marseille Q,3,Hard,Q2,148,245,1,7,,Stephane Bohli,Joao Sousa,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2011,Marseille Q,3,Hard,Q1,148,170,1,7,,Stephane Bohli,Ivo Minar,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2011,Rotterdam Q,3,Hard,Q1,137,59,0,,2,Julien Benneteau,Stephane Bohli,6-7(3) 6-3 6-2,0.80,8.3%,2.1%,59.4%,73.7%,46.2%,4/7,45.9%,30.0%,12.0%,24.0%,48.0%,0/3,196,8,2,96,57,39,12,2:04
+31-Jan-2011,Johannesburg,3,Hard,R32,139,59,0,,4,Kevin Anderson,Stephane Bohli,4-6 6-4 6-2,0.80,4.9%,8.6%,50.6%,70.7%,57.5%,2/5,46.1%,28.6%,16.7%,12.5%,50.0%,1/7,165,4,7,81,41,40,14,2:05
+24-Jan-2011,Heilbronn CH,3,Hard,R32,135,151,0,,,Ilija Bozoljac,Stephane Bohli,2-6 7-6(4) 6-4,1.16,12.0%,6.5%,48.9%,73.3%,51.1%,3/7,51.9%,44.1%,8.5%,33.9%,55.4%,5/12,210,11,6,92,45,47,10,1:59
+15-Nov-2010,Bratislava CH,3,Hard,R32,120,83,0,,2,Illya Marchenko,Stephane Bohli,2-0 RET,0.32,0.0%,0.0%,87.5%,42.9%,0.0%,2/3,30.8%,20.0%,60.0%,0.0%,100.0%,0/0,13,0,0,8,7,1,3,0:09
+7-Nov-2010,Paris Masters Q,3,Hard,Q2,123,65,0,,5,Fabio Fognini,Stephane Bohli,7-6(4) 6-3,0.71,5.1%,3.8%,58.2%,69.6%,51.5%,4/6,45.9%,26.9%,7.5%,15.4%,42.9%,1/3,146,4,3,79,46,33,5,1:25
+7-Nov-2010,Paris Masters Q,3,Hard,Q1,123,95,1,,12,Stephane Bohli,Jan Hajek,7-6(1) 6-2,1.35,8.6%,0.0%,61.4%,81.4%,44.4%,3/4,55.6%,44.4%,2.8%,30.8%,60.6%,3/8,142,6,0,70,43,27,2,1:23
+1-Nov-2010,Basel,3,Hard,R32,122,66,0,WC,Q,Robin Haase,Stephane Bohli,6-4 6-3,0.60,12.5%,1.8%,44.6%,76.0%,54.8%,3/6,44.7%,21.3%,14.9%,12.9%,37.5%,0/0,103,7,1,56,25,31,7,1:03
+18-Oct-2010,Orleans CH,3,Hard,R32,113,292,0,,WC,Alexandre Sidorenko,Stephane Bohli,1-6 7-6(3) 7-6(3),1.16,4.8%,2.9%,52.4%,72.7%,60.0%,8/10,52.3%,38.5%,7.3%,28.8%,53.5%,4/10,214,5,3,105,55,50,8,2:16
+11-Oct-2010,Rennes CH,3,Hard,F,124,165,0,5,,Marc Gicquel,Stephane Bohli,7-6(6) 4-6 6-1,0.95,7.6%,1.1%,56.5%,71.2%,62.5%,7/9,48.9%,30.9%,9.6%,26.0%,47.6%,1/4,186,7,1,92,52,40,9,2:01
+11-Oct-2010,Rennes CH,3,Hard,SF,124,355,1,5,,Stephane Bohli,Frank Dancevic,6-7(6) 6-2 7-6(9),1.35,11.3%,3.8%,52.8%,80.4%,58.0%,4/5,52.7%,40.7%,9.3%,33.3%,52.6%,3/23,256,12,4,106,56,50,14,2:54
+11-Oct-2010,Rennes CH,3,Hard,QF,124,99,1,5,4,Stephane Bohli,Bjorn Phau,6-1 6-3,1.93,4.3%,2.2%,87.0%,75.0%,50.0%,0/1,63.3%,54.5%,4.5%,51.4%,66.7%,5/6,90,2,1,46,40,6,2,0:59
+11-Oct-2010,Rennes CH,3,Hard,R16,124,226,1,5,Q,Stephane Bohli,Henri Kontinen,7-6(4) 6-0,1.95,11.1%,0.0%,51.9%,78.6%,76.9%,0/0,59.6%,43.3%,20.0%,31.4%,60.0%,3/6,114,6,0,54,28,26,12,1:10
+11-Oct-2010,Rennes CH,3,Hard,R32,124,108,1,5,,Stephane Bohli,Adrian Mannarino,4-6 6-1 7-5,0.88,4.7%,7.5%,56.6%,76.7%,45.7%,4/6,50.3%,32.5%,9.1%,22.0%,44.4%,4/10,183,5,8,106,60,46,7,2:04
+4-Oct-2010,Mons CH,3,Hard,R16,125,115,0,,8,Dustin Brown,Stephane Bohli,6-4 7-5,1.02,8.7%,2.9%,52.2%,77.8%,45.5%,4/7,49.3%,38.3%,23.5%,24.4%,52.5%,1/3,150,6,2,69,36,33,19,1:38
+4-Oct-2010,Mons CH,3,Hard,R32,125,UNR,1,,Q,Stephane Bohli,Brian Battistone,6-3 6-4,1.81,22.9%,0.0%,66.7%,84.4%,62.5%,0/1,57.5%,41.4%,10.3%,33.3%,57.9%,3/7,106,11,0,48,32,16,6,1:08
+20-Sep-2010,Izmir CH,3,Hard,SF,132,102,0,5,4,Marsel Ilhan,Stephane Bohli,6-4 6-4,0.89,7.8%,6.5%,51.9%,67.5%,51.4%,6/9,48.6%,35.8%,1.5%,13.9%,61.3%,1/4,144,6,5,77,40,37,1,1:45
+20-Sep-2010,Izmir CH,3,Hard,QF,132,107,1,5,1,Stephane Bohli,Igor Kunitsyn,6-3 6-2,1.72,15.1%,3.8%,60.4%,81.3%,57.1%,4/5,61.7%,48.8%,4.9%,41.7%,58.8%,4/7,94,8,2,53,32,21,2,1:06
+20-Sep-2010,Izmir CH,3,Hard,R16,132,825,1,5,WC,Stephane Bohli,George Bastl,6-3 6-2,1.77,6.1%,8.2%,61.2%,90.0%,47.4%,0/0,60.0%,47.1%,0.0%,37.5%,55.6%,3/3,100,3,4,49,30,19,0,1:11
+20-Sep-2010,Izmir CH,3,Hard,R32,132,324,1,5,,Stephane Bohli,Rameez Junaid,6-4 6-1,1.69,3.6%,0.0%,56.4%,87.1%,45.8%,3/4,61.4%,52.2%,2.2%,48.5%,61.5%,4/7,101,2,0,55,31,24,1,1:13
+6-Sep-2010,St. Remy CH,3,Hard,QF,UNR,UNR,0,5,2,Igor Kunitsyn,Stephane Bohli,7-6(5) 6-4,0.93,4.3%,1.4%,62.3%,72.1%,50.0%,3/6,48.6%,33.8%,7.0%,33.3%,34.5%,2/2,140,3,1,69,43,26,5,1:35
+6-Sep-2010,St. Remy CH,3,Hard,R16,UNR,UNR,1,5,,Stephane Bohli,Andrea Stoppini,6-5 RET,0.92,8.3%,8.3%,52.8%,94.7%,35.3%,0/1,51.6%,30.8%,11.5%,13.3%,54.5%,1/3,62,3,3,36,19,17,3,0:43
+6-Sep-2010,St. Remy CH,3,Hard,R32,UNR,UNR,1,5,,Stephane Bohli,Roberto Bautista Agut,7-5 6-3,1.61,7.1%,0.0%,42.9%,83.3%,65.6%,0/1,57.9%,43.1%,3.4%,36.6%,58.8%,3/5,114,4,0,56,24,32,2,1:26
+30-Aug-2010,US Open Q,3,Hard,Q2,129,420,0,12,,Frank Dancevic,Stephane Bohli,3-6 7-5 7-6(0),0.94,2.7%,0.9%,51.3%,58.6%,60.0%,10/14,49.5%,38.1%,8.2%,28.3%,50.0%,4/7,210,3,1,113,58,55,8,2:18
+30-Aug-2010,US Open Q,3,Hard,Q1,129,267,1,12,,Stephane Bohli,Evgeny Donskoy,6-3 6-3,2.60,6.7%,0.0%,53.3%,87.5%,76.2%,1/1,60.9%,46.2%,3.1%,37.9%,52.8%,3/7,110,3,0,45,24,21,2,1:08
+9-Aug-2010,Istanbul CH,3,Hard,R16,132,84,0,,2,Frederico Gil,Stephane Bohli,4-6 6-2 6-2,0.70,1.1%,1.1%,60.9%,62.3%,35.3%,8/13,43.1%,33.8%,5.0%,25.9%,54.5%,2/9,167,1,1,87,53,34,4,1:57
+9-Aug-2010,Istanbul CH,3,Hard,R32,132,165,1,,,Stephane Bohli,Marc Gicquel,7-6(2) 6-4,1.26,12.1%,1.5%,43.9%,79.3%,51.4%,2/5,53.6%,45.9%,7.1%,30.4%,64.1%,4/12,151,8,1,66,29,37,6,1:42
+2-Aug-2010,Segovia CH,3,Hard,R16,134,222,0,4,,Vincent Millot,Stephane Bohli,6-4 4-6 6-3,0.93,10.5%,5.3%,57.9%,67.3%,40.0%,8/14,48.2%,41.0%,2.0%,26.6%,66.7%,4/15,195,10,5,95,55,40,2,2:07
+2-Aug-2010,Segovia CH,3,Hard,R32,134,271,1,4,WC,Stephane Bohli,Sergio Gutierrez Ferrol,6-1 6-2,2.05,15.2%,6.5%,71.7%,75.8%,61.5%,0/0,65.5%,57.9%,13.2%,39.1%,86.7%,4/4,84,7,3,46,33,13,5,1:02
+19-Jul-2010,Recanati CH,3,Hard,F,132,248,1,2,,Stephane Bohli,Adrian Mannarino,6-0 3-6 7-6(5),1.14,5.3%,3.2%,63.8%,66.7%,55.9%,8/11,53.5%,42.3%,9.0%,36.2%,60.0%,4/5,172,5,3,94,60,34,7,1:58
+19-Jul-2010,Recanati CH,3,Hard,SF,132,145,1,2,4,Stephane Bohli,Josselin Ouanna,6-4 6-2,1.58,6.5%,8.7%,58.7%,88.9%,36.8%,3/5,58.5%,51.7%,16.7%,40.0%,68.0%,5/8,106,3,4,46,27,19,10,1:02
+19-Jul-2010,Recanati CH,3,Hard,QF,132,259,1,2,,Stephane Bohli,Leonardo Tavares,4-6 6-2 6-3,1.18,9.4%,5.2%,49.0%,74.5%,55.1%,2/4,53.8%,41.9%,8.1%,34.0%,54.5%,4/11,182,9,5,96,47,49,7,2:03
+19-Jul-2010,Recanati CH,3,Hard,R16,132,255,1,2,,Stephane Bohli,Daniele Giorgini,6-4 6-1,1.59,9.1%,5.5%,60.0%,75.8%,54.5%,2/3,60.2%,52.1%,2.1%,44.4%,61.9%,4/5,103,5,3,55,33,22,1,1:10
+19-Jul-2010,Recanati CH,3,Hard,R32,132,867,1,2,Q,Stephane Bohli,George Bastl,7-6(2) 6-3,1.88,14.5%,3.6%,50.9%,85.7%,70.4%,0/1,57.0%,41.1%,5.5%,41.2%,40.9%,3/5,128,8,2,55,28,27,4,1:27
+5-Jul-2010,Pozoblanco CH,3,Hard,R16,125,221,0,4,,Alexander Kudryavtsev,Stephane Bohli,6-3 6-4,0.75,7.3%,9.1%,60.0%,75.8%,40.9%,4/7,45.0%,28.6%,12.5%,20.7%,37.0%,0/3,111,4,5,55,33,22,7,1:04
+5-Jul-2010,Pozoblanco CH,3,Hard,R32,125,1020,1,4,Q,Stephane Bohli,George Bastl,6-4 6-3,1.80,22.2%,2.2%,51.1%,82.6%,68.2%,0/1,57.7%,44.1%,8.5%,39.4%,50.0%,4/5,104,10,1,45,23,22,5,1:22
+28-Jun-2010,Braunschweig CH,3,Clay,SF,UNR,UNR,0,,8,Mikhail Kukushkin,Stephane Bohli,7-6(1) 6-4,0.81,4.4%,4.4%,47.1%,78.1%,55.6%,1/2,46.7%,27.5%,2.9%,28.1%,27.0%,0/0,137,3,3,68,32,36,2,1:57
+28-Jun-2010,Braunschweig CH,3,Clay,QF,UNR,UNR,1,,,Stephane Bohli,Yuri Schukin,3-6 7-6(0) 4-1 RET,1.30,14.7%,1.3%,52.0%,79.5%,61.1%,1/4,53.5%,38.1%,2.4%,33.9%,46.4%,2/6,159,11,1,75,39,36,2,2:01
+28-Jun-2010,Braunschweig CH,3,Clay,R16,UNR,UNR,1,,,Stephane Bohli,Conor Niland,6-2 6-1,2.44,7.3%,4.9%,51.2%,85.7%,70.0%,0/0,65.5%,53.5%,2.3%,44.0%,66.7%,4/6,84,3,2,41,21,20,1,1:00
+28-Jun-2010,Braunschweig CH,3,Clay,R32,UNR,UNR,1,,7,Stephane Bohli,Grega Zemlja,6-2 7-6(2),1.44,11.3%,1.6%,58.1%,72.2%,61.5%,0/2,56.3%,46.6%,5.5%,38.1%,58.1%,4/11,135,7,1,62,36,26,4,1:32
+19-Apr-2010,Athens CH,3,Hard,R16,132,56,0,,3,Marco Chiudinelli,Stephane Bohli,6-7(3) 7-5 7-6(5),1.20,15.3%,5.4%,55.9%,85.5%,49.0%,5/9,51.6%,36.8%,7.5%,24.4%,54.5%,3/11,244,17,6,111,62,49,10,3:12
+19-Apr-2010,Athens CH,3,Hard,R32,132,430,1,,WC,Stephane Bohli,Theodoros Angelinos,6-2 6-2,1.68,1.8%,3.6%,56.4%,83.9%,54.2%,5/5,60.8%,48.9%,2.1%,36.0%,63.6%,4/8,102,1,2,55,31,24,1,1:16
+12-Apr-2010,Johannesburg CH,3,Hard,SF,140,127,0,6,5,Dustin Brown,Stephane Bohli,7-6(3) 6-3,0.76,8.1%,6.5%,62.9%,71.8%,52.2%,1/3,44.7%,27.1%,24.3%,7.7%,51.6%,1/1,132,5,4,62,39,23,17,1:15
+12-Apr-2010,Johannesburg CH,3,Hard,QF,140,161,1,6,,Stephane Bohli,Nicolas Mahut,6-0 7-5,1.75,14.3%,1.8%,50.0%,89.3%,57.1%,2/2,59.0%,47.0%,3.0%,37.5%,61.5%,4/11,122,8,1,56,28,28,2,1:25
+12-Apr-2010,Johannesburg CH,3,Hard,R16,140,190,1,6,,Stephane Bohli,Adrian Menendez Maceiras,6-3 6-2,1.69,14.3%,6.1%,44.9%,86.4%,59.3%,1/2,58.6%,48.4%,1.6%,45.5%,51.7%,4/8,111,7,3,49,22,27,1,1:22
+12-Apr-2010,Johannesburg CH,3,Hard,R32,140,210,1,6,,Stephane Bohli,Simon Stadler,6-3 6-3,1.45,9.4%,9.4%,43.4%,82.6%,50.0%,1/3,56.7%,51.9%,2.5%,47.5%,63.6%,5/17,134,5,5,53,23,30,2,1:25
+24-Mar-2010,Miami Masters Q,3,Hard,Q2,143,77,0,,1,Denis Istomin,Stephane Bohli,4-6 6-3 6-3,0.89,7.7%,8.8%,56.0%,74.5%,42.5%,3/7,47.3%,35.1%,5.2%,28.4%,50.0%,2/8,188,7,8,91,51,40,5,1:57
+24-Mar-2010,Miami Masters Q,3,Hard,Q1,143,107,1,,16,Stephane Bohli,Bjorn Phau,7-5 6-3,1.13,9.6%,2.7%,52.1%,78.9%,45.7%,3/5,53.9%,41.8%,7.3%,34.4%,52.2%,4/7,128,7,2,73,38,35,4,1:26
+8-Mar-2010,Sarajevo CH,3,Hard,R16,142,577,0,3,WC,Ismar Gorcic,Stephane Bohli,6-4 6-7(4) 6-3,0.87,22.5%,6.3%,56.3%,95.6%,54.3%,3/5,47.3%,19.5%,23.0%,15.6%,30.4%,0/3,167,18,5,80,45,35,20,1:43
+8-Mar-2010,Sarajevo CH,3,Hard,R32,142,193,1,3,,Stephane Bohli,Roko Karanusic,6-2 7-6(2),1.36,10.6%,4.5%,47.0%,83.9%,65.7%,2/2,55.6%,35.0%,8.3%,28.9%,45.5%,2/7,126,7,3,66,31,35,5,1:15
+1-Mar-2010,Cherbourg CH,3,Hard,R32,141,147,0,8,,Thierry Ascione,Stephane Bohli,6-4 2-6 7-5,0.97,14.3%,7.1%,48.8%,90.2%,46.5%,4/7,50.0%,31.3%,6.3%,29.7%,32.6%,3/5,164,12,6,84,41,43,5,1:50
+15-Feb-2010,Marseille,3,Hard,R32,143,39,0,Q,8,Julien Benneteau,Stephane Bohli,7-6(5) 7-6(3),1.07,19.2%,2.7%,50.7%,89.2%,58.3%,1/1,48.5%,27.8%,10.0%,22.6%,35.1%,0/2,163,14,2,73,37,36,9,2:00
+15-Feb-2010,Marseille Q,3,Hard,Q3,143,121,1,5,3,Stephane Bohli,Josselin Ouanna,6-3 6-2,2.17,26.1%,2.2%,58.7%,85.2%,63.2%,0/1,63.3%,51.9%,13.5%,34.4%,80.0%,4/7,98,12,1,46,27,19,7,1:02
+15-Feb-2010,Marseille Q,3,Hard,Q2,143,243,1,5,,Stephane Bohli,Roberto Bautista Agut,6-2 6-1,1.82,22.6%,1.9%,58.5%,83.9%,54.5%,3/3,60.9%,51.6%,1.6%,46.3%,61.9%,4/15,115,12,1,53,31,22,1,1:12
+15-Feb-2010,Marseille Q,3,Hard,Q1,143,257,1,5,,Stephane Bohli,Daniel Evans,6-2 7-5,1.62,19.6%,0.0%,67.9%,81.6%,55.6%,1/1,56.9%,43.3%,4.5%,31.8%,65.2%,3/9,123,11,0,56,38,18,3,1:17
+8-Feb-2010,Rotterdam,3,Hard,R32,142,46,0,Q,,Andreas Seppi,Stephane Bohli,6-1 7-5,0.64,6.6%,3.9%,55.3%,61.9%,26.5%,11/17,41.6%,34.7%,8.2%,28.6%,42.9%,2/4,125,5,3,76,42,34,4,1:28
+8-Feb-2010,Rotterdam Q,3,Hard,Q2,142,197,1,,,Stephane Bohli,Raemon Sluiter,5-7 7-5 6-4,1.17,15.3%,5.1%,46.9%,76.1%,57.7%,5/8,52.2%,39.3%,4.7%,27.0%,56.8%,4/13,205,15,5,98,46,52,5,2:26
+8-Feb-2010,Rotterdam Q,3,Hard,Q1,142,90,1,,3,Stephane Bohli,Igor Kunitsyn,7-5 7-6(5),1.12,9.2%,2.0%,53.1%,78.8%,39.1%,3/5,52.7%,44.4%,2.2%,40.0%,50.0%,3/12,188,9,2,98,52,46,2,2:07
+1-Feb-2010,Zagreb Q,3,Hard,Q1,144,242,0,1,,Andreas Vinciguerra,Stephane Bohli,7-6(4) 7-5,0.76,13.2%,7.9%,52.6%,80.0%,36.1%,4/7,45.6%,31.0%,8.5%,18.2%,51.9%,2/5,147,10,6,76,40,36,6,1:34
+25-Jan-2010,Heilbronn CH,3,Hard,R16,UNR,UNR,0,,,Mikhail Kukushkin,Stephane Bohli,6-2 6-4,0.67,6.8%,11.4%,54.5%,62.5%,60.0%,1/4,42.6%,26.0%,6.0%,12.5%,50.0%,0/2,94,3,5,44,24,20,3,1:01
+25-Jan-2010,Heilbronn CH,3,Hard,R32,UNR,UNR,1,,WC,Stephane Bohli,Louk Sorensen,6-2 6-3,2.08,2.2%,4.4%,55.6%,80.0%,75.0%,0/1,60.8%,46.2%,1.9%,40.6%,55.0%,4/7,97,1,2,45,25,20,1,1:07
+30-Nov-2009,Salzburg CH,3,Hard,QF,155,119,0,,,Karol Beck,Stephane Bohli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2009,Salzburg CH,3,Hard,R16,155,404,1,,Q,Stephane Bohli,Rameez Junaid,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2009,Salzburg CH,3,Hard,R32,155,536,1,,WC,Stephane Bohli,Nicolas Reissig,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,F,183,298,0,,Q,Michal Przysiezny,Stephane Bohli,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,SF,183,374,1,,WC,Stephane Bohli,Henri Kontinen,5-7 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,QF,183,241,1,,,Stephane Bohli,Antonio Veic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,R16,183,141,1,,8,Stephane Bohli,Stefan Koubek,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2009,Helsinki CH,3,Carpet,R32,183,167,1,,,Stephane Bohli,Alex Bogdanovic,7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Bratislava CH,3,Hard,R16,190,124,0,,8,Harel Levy,Stephane Bohli,6-4 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Bratislava CH,3,Hard,R32,190,325,1,,Q,Stephane Bohli,Ivo Klec,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Jersey2 CH,3,Carpet,R16,194,409,0,5,Q,Henri Kontinen,Stephane Bohli,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Jersey2 CH,3,Carpet,R32,194,235,1,5,,Stephane Bohli,Philipp Oswald,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Basel,3,Hard,R32,148,51,0,WC,,Andreas Seppi,Stephane Bohli,4-6 6-1 7-5,0.88,3.8%,2.9%,51.4%,57.4%,51.0%,3/9,47.7%,40.4%,6.4%,32.1%,51.2%,3/7,199,4,3,105,54,51,6,2:31
+19-Oct-2009,Orleans CH,3,Hard,SF,142,141,0,,,Stephane Robert,Stephane Bohli,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Orleans CH,3,Hard,QF,142,226,1,,WC,Stephane Bohli,Nicolas Mahut,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Orleans CH,3,Hard,R16,142,108,1,,3,Stephane Bohli,Josselin Ouanna,7-6(2) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Orleans CH,3,Hard,R32,142,186,1,,,Stephane Bohli,David Guez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Mons CH,3,Hard,R32,149,1125,0,,Q,Jerome Haehnel,Stephane Bohli,4-6 1-2 RET,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,St. Remy CH,3,Hard,QF,UNR,UNR,0,6,3,Marcos Baghdatis,Stephane Bohli,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,St. Remy CH,3,Hard,R16,UNR,UNR,1,6,Q,Stephane Bohli,Thomas Oger,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Sep-2009,St. Remy CH,3,Hard,R32,UNR,UNR,1,6,,Stephane Bohli,Alex Bogdanovic,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open Q,3,Hard,Q2,144,276,0,21,,Jesse Witten,Stephane Bohli,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open Q,3,Hard,Q1,144,326,1,21,,Stephane Bohli,Luigi Dagord,6-7(2) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Geneva CH,3,Clay,R16,147,231,0,1,,Robin Vik,Stephane Bohli,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Geneva CH,3,Clay,R32,147,379,1,1,WC,Stephane Bohli,Alexander Sadecky,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Segovia CH,3,Hard,R32,140,41,0,,1,Feliciano Lopez,Stephane Bohli,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2009,Gstaad,3,Clay,R32,145,58,0,WC,,Julien Benneteau,Stephane Bohli,7-6(4) 7-5,0.71,10.8%,5.4%,57.0%,77.4%,45.0%,5/6,46.5%,26.0%,13.0%,22.2%,34.8%,0/3,170,10,5,93,53,40,10,1:56
+20-Jul-2009,Recanati CH,3,Hard,F,165,66,1,7,1,Stephane Bohli,Andrey Golubev,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Recanati CH,3,Hard,SF,165,163,1,7,8,Stephane Bohli,Lukas Lacko,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Recanati CH,3,Hard,QF,165,77,1,7,2,Stephane Bohli,Sergiy Stakhovsky,6-2 7-6(9),,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Recanati CH,3,Hard,R16,165,231,1,7,,Stephane Bohli,Rogerio Dutra Silva,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Recanati CH,3,Hard,R32,165,273,1,7,,Stephane Bohli,Roberto Bautista Agut,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Pozoblanco CH,3,Hard,SF,178,98,0,,4,Thiago Alves,Stephane Bohli,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Pozoblanco CH,3,Hard,QF,178,185,1,,,Stephane Bohli,Lukas Lacko,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Pozoblanco CH,3,Hard,R16,178,97,1,,2,Stephane Bohli,Brian Dabul,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Pozoblanco CH,3,Hard,R32,178,357,1,,WC,Stephane Bohli,Adrian Menendez Maceiras,6-7(7) 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Rijeka CH,3,Clay,QF,UNR,UNR,0,8,,Jan Hajek,Stephane Bohli,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Rijeka CH,3,Clay,R16,UNR,UNR,1,8,Q,Stephane Bohli,Pavol Cervenak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Rijeka CH,3,Clay,R32,UNR,UNR,1,8,,Stephane Bohli,Marinko Matosevic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q2,180,187,0,,,Blaz Kavcic,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon Q,3,Grass,Q1,180,155,1,,26,Stephane Bohli,Olivier Patience,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Lugano CH,3,Clay,R16,184,385,0,WC,Q,Cristian Villagran,Stephane Bohli,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Lugano CH,3,Clay,R32,184,117,1,WC,6,Stephane Bohli,Thiago Alves,6-4 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros Q,3,Clay,Q1,179,174,0,,,Ryan Sweeting,Stephane Bohli,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bordeaux CH,3,Clay,R16,178,141,0,,,Josselin Ouanna,Stephane Bohli,7-6(6) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bordeaux CH,3,Clay,R32,178,335,1,,WC,Stephane Bohli,Mathieu Rodrigues,6-2 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-2009,Munich,3,Clay,R32,177,50,0,LL,,Simone Bolelli,Stephane Bohli,3-6 6-2 6-3,0.88,4.9%,3.9%,58.3%,66.7%,48.8%,12/15,48.0%,35.8%,3.2%,28.1%,51.6%,1/9,198,5,4,103,60,43,3,2:18
+3-May-2009,Munich Q,3,Clay,Q3,177,210,0,5,,Dieter Kindlmann,Stephane Bohli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-2009,Munich Q,3,Clay,Q2,177,289,1,5,,Stephane Bohli,Woong Sun Jun,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-May-2009,Munich Q,3,Clay,Q1,177,245,1,5,,Stephane Bohli,Matthias Bachinger,3-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,Ostrava CH,3,Clay,R32,148,201,0,7,,Ricardo Mello,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Barcelona Q,3,Clay,Q1,143,83,0,,3,Daniel Gimeno Traver,Stephane Bohli,3-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2009,Miami Masters Q,3,Hard,Q1,141,109,0,,18,Michael Berrer,Stephane Bohli,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters Q,3,Hard,Q1,143,263,0,16,,Michael Russell,Stephane Bohli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Besancon CH,3,Hard,QF,147,146,0,,,Mikhail Kukushkin,Stephane Bohli,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Besancon CH,3,Hard,R16,147,82,1,,1,Stephane Bohli,Frederico Gil,4-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,Besancon CH,3,Hard,R32,147,185,1,,,Stephane Bohli,Yuri Schukin,6-1 6-7(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Rotterdam,3,Hard,R32,154,12,0,Q,5,Gael Monfils,Stephane Bohli,6-4 1-0 RET,1.05,17.2%,0.0%,55.2%,75.0%,53.8%,1/3,49.2%,36.1%,5.6%,18.8%,50.0%,0/1,65,5,0,29,16,13,2,0:42
+9-Feb-2009,Rotterdam Q,3,Hard,Q2,154,59,1,,2,Stephane Bohli,Teymuraz Gabashvili,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Rotterdam Q,3,Hard,Q1,154,123,1,,7,Stephane Bohli,Benjamin Becker,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open Q,3,Hard,Q1,136,220,0,16,,Andrea Stoppini,Stephane Bohli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2009,Noumea CH,3,Hard,R32,136,188,0,1,,Stefan Koubek,Stephane Bohli,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,F,139,120,0,,,Jan Hernych,Stephane Bohli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,SF,139,99,1,,8,Stephane Bohli,Chris Guccione,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,QF,139,162,1,,,Stephane Bohli,Alexander Peya,6-4 6-7(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,R16,139,174,1,,,Stephane Bohli,Edouard Roger Vasselin,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Bratislava CH,3,Hard,R32,139,92,1,,7,Stephane Bohli,Ivo Minar,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Aachen CH,3,Carpet,R16,136,297,0,7,WC,Ruben Bemelmans,Stephane Bohli,3-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Aachen CH,3,Carpet,R32,136,208,1,7,,Stephane Bohli,Stefan Koubek,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Basel,3,Hard,R16,135,9,0,WC,3,Juan Martin Del Potro,Stephane Bohli,6-3 6-3,0.52,11.1%,1.9%,59.3%,68.8%,45.5%,2/5,41.6%,21.3%,12.8%,17.9%,26.3%,0/0,101,6,1,54,32,22,6,1:06
+20-Oct-2008,Basel,3,Hard,R32,135,49,1,WC,,Stephane Bohli,Jose Acasuso,6-3 6-2,2.01,17.0%,4.3%,57.4%,92.6%,60.0%,2/2,61.8%,42.9%,4.8%,29.2%,61.1%,3/4,89,8,2,47,27,20,2,0:53
+29-Sep-2008,Mons CH,3,Hard,R32,128,68,0,,2,Fabrice Santoro,Stephane Bohli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Grenoble CH,3,Hard,R16,128,330,0,4,WC,Jonathan Eysseric,Stephane Bohli,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Grenoble CH,3,Hard,R32,128,454,1,4,WC,Stephane Bohli,Gregoire Burquier,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup WG PO: SUI vs BEL,3,Hard,RR,126,58,1,,,Stephane Bohli,Steve Darcis,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Orleans CH,3,Hard,R16,126,83,0,,5,Nicolas Mahut,Stephane Bohli,3-6 6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Orleans CH,3,Hard,R32,126,102,1,,,Stephane Bohli,Benjamin Becker,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open,5,Hard,R128,133,123,0,Q,,Jiri Vanek,Stephane Bohli,3-6 6-3 6-2 7-5,0.79,13.6%,2.7%,47.3%,75.0%,50.0%,6/11,45.9%,30.0%,16.4%,19.7%,45.5%,2/4,220,15,3,110,52,58,18,2:25
+25-Aug-2008,US Open Q,3,Hard,Q3,133,161,1,16,32,Stephane Bohli,Andrey Golubev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q2,133,204,1,16,,Stephane Bohli,Alexander Kudryavtsev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q1,133,220,1,16,,Stephane Bohli,Martin Slanar,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Istanbul CH,3,Hard,R16,131,333,0,8,Q,Michel Koning,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Istanbul CH,3,Hard,R32,131,494,1,8,Q,Stephane Bohli,Juho Paukku,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Segovia CH,3,Hard,R16,131,127,0,,,Sergiy Stakhovsky,Stephane Bohli,6-3 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Segovia CH,3,Hard,R32,131,258,1,,Q,Stephane Bohli,Filip Prpic,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Kitzbuhel,3,Clay,R32,133,111,0,,,Brian Dabul,Stephane Bohli,6-1 6-1,0.42,7.7%,7.7%,55.8%,37.9%,52.2%,7/12,35.6%,23.7%,5.3%,16.7%,35.7%,0/2,90,4,4,52,29,23,2,0:53
+7-Jul-2008,Gstaad,3,Clay,R16,137,10,0,WC,1,Stanislas Wawrinka,Stephane Bohli,7-6(6) 5-7 7-6(3),0.86,3.3%,4.9%,49.6%,73.8%,61.3%,3/3,48.7%,27.9%,11.7%,20.6%,39.5%,1/4,234,4,6,123,61,62,13,2:45
+7-Jul-2008,Gstaad,3,Clay,R32,137,588,1,WC,WC,Stephane Bohli,Robin Roshardt,6-2 4-6 6-4,1.28,12.0%,2.7%,53.3%,80.0%,51.4%,1/4,53.3%,42.6%,1.1%,30.6%,50.0%,5/11,169,9,2,75,40,35,1,1:46
+30-Jun-2008,Cordoba CH,3,Hard,R16,UNR,UNR,0,4,,Dick Norman,Stephane Bohli,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Cordoba CH,3,Hard,R32,UNR,UNR,1,4,WC,Stephane Bohli,Agustin Boje Ordonez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon Q,3,Grass,Q2,138,270,0,14,,Nicolas Todero,Stephane Bohli,6-7(3) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon Q,3,Grass,Q1,138,215,1,14,,Stephane Bohli,Lukasz Kubot,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Queen's Club Q,3,Grass,Q1,137,495,0,6,WC,James Ward,Stephane Bohli,7-5 RET,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2008,Surbiton CH,3,Grass,QF,UNR,UNR,0,,5,Kevin Anderson,Stephane Bohli,6-7(8) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2008,Surbiton CH,3,Grass,R16,UNR,UNR,1,,,Stephane Bohli,Alex Kuznetsov,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Jun-2008,Surbiton CH,3,Grass,R32,UNR,UNR,1,,4,Stephane Bohli,Kei Nishikori,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q1,144,174,0,24,,David Guez,Stephane Bohli,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bordeaux CH,3,Clay,R16,142,140,0,,,Jan Hernych,Stephane Bohli,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bordeaux CH,3,Clay,R32,142,100,1,,8,Stephane Bohli,Kevin Anderson,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Lanzarote CH,3,Hard,F,163,100,1,8,1,Stephane Bohli,Yen Hsun Lu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Lanzarote CH,3,Hard,SF,163,137,1,8,4,Stephane Bohli,Kristian Pless,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Lanzarote CH,3,Hard,QF,163,255,1,8,,Stephane Bohli,Alex Bogdanovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Lanzarote CH,3,Hard,R16,163,567,1,8,Q,Stephane Bohli,Sebastian Rieschick,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Lanzarote CH,3,Hard,R32,163,252,1,8,,Stephane Bohli,Noam Okun,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Cremona CH,3,Hard,QF,165,169,0,,,Simon Stadler,Stephane Bohli,4-6 5-7,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Cremona CH,3,Hard,R16,165,102,1,,1,Stephane Bohli,Kevin Anderson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Cremona CH,3,Hard,R32,165,228,1,,,Stephane Bohli,Dick Norman,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2008,Davis Cup G1 R2: BLR vs SUI,3,Carpet,RR,168,188,1,,,Stephane Bohli,Max Mirnyi,6-4 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Mar-2008,Miami Masters Q,3,Hard,Q2,170,119,0,,18,Viktor Troicki,Stephane Bohli,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2008,Miami Masters Q,3,Hard,Q1,170,188,1,,,Stephane Bohli,Max Mirnyi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters Q,3,Hard,Q2,147,117,0,22,12,Yen Hsun Lu,Stephane Bohli,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters Q,3,Hard,Q1,147,UNR,1,22,WC,Stephane Bohli,Phil Whitesell,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Cherbourg CH,3,Hard,R32,145,171,0,6,,Denis Istomin,Stephane Bohli,7-6(3) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2008,Davis Cup G1 R1: SUI vs POL,3,Hard,RR,143,524,1,,,Stephane Bohli,Blazej Koniusz,2-1 RET,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2008,Davis Cup G1 R1: SUI vs POL,3,Hard,RR,143,306,1,,,Stephane Bohli,Dawid Olejniczak,6-4 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,F,163,132,0,,4,Amer Delic,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,SF,163,103,1,,1,Stephane Bohli,Robert Kendrick,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,QF,163,175,1,,,Stephane Bohli,Kevin Kim,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,R16,163,188,1,,,Stephane Bohli,Christophe Rochus,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,R32,163,660,1,,WC,Stephane Bohli,Ricardas Berankis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,SF,UNR,UNR,0,,6,Yen Hsun Lu,Stephane Bohli,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,QF,UNR,UNR,1,,,Stephane Bohli,Kevin Kim,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,R16,UNR,UNR,1,,3,Stephane Bohli,Benjamin Becker,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,R32,UNR,UNR,1,,Q,Stephane Bohli,Ryan Sweeting,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q3,182,142,0,,22,Konstantinos Economidis,Stephane Bohli,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q2,182,273,1,,,Stephane Bohli,Simone Vagnozzi,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q1,182,130,1,,16,Stephane Bohli,Aisam Ul Haq Qureshi,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,F,219,142,0,,2,Flavio Cipolla,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,SF,219,364,1,,WC,Stephane Bohli,Jean Rene Lisnard,0-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,QF,219,221,1,,,Stephane Bohli,Kevin Anderson,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,R16,219,254,1,,,Stephane Bohli,Ryan Sweeting,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,R32,219,115,1,,1,Stephane Bohli,Nicolas Devilder,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Helsinki CH,3,Hard,R32,217,117,0,,1,Robin Haase,Stephane Bohli,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Tunis CH,3,Hard,SF,237,103,0,,2,Guillermo Garcia Lopez,Stephane Bohli,6-7(6) 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Tunis CH,3,Hard,QF,237,125,1,,4,Stephane Bohli,Yuri Schukin,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Tunis CH,3,Hard,R16,237,281,1,,,Stephane Bohli,Martin Fischer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Tunis CH,3,Hard,R32,237,371,1,,Q,Stephane Bohli,Adrian Mannarino,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Barnstaple CH,3,Hard,F,231,227,0,,,Jeremy Chardy,Stephane Bohli,7-6(4) 6-7(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Barnstaple CH,3,Hard,SF,231,215,1,,,Stephane Bohli,Jan Minar,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Barnstaple CH,3,Hard,QF,231,270,1,,,Stephane Bohli,Lukas Rosol,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Barnstaple CH,3,Hard,R16,231,118,1,,3,Stephane Bohli,Tomas Zib,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2007,Barnstaple CH,3,Hard,R32,231,223,1,,,Stephane Bohli,Michael Ryderstedt,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,France F17,3,Hard,SF,263,358,0,3,8,Josselin Ouanna,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,France F17,3,Hard,QF,263,384,1,3,7,Stephane Bohli,Pierrick Ysern,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,France F17,3,Hard,R16,263,728,1,3,,Stephane Bohli,Mathieu Guenat,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,France F17,3,Hard,R32,263,1188,1,3,Q,Stephane Bohli,Adrien Bossel,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,France F16,3,Hard,F,266,498,1,4,,Stephane Bohli,Vincent Millot,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,France F16,3,Hard,SF,266,272,1,4,5,Stephane Bohli,Pavel Snobel,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,France F16,3,Hard,QF,266,325,1,4,8,Stephane Bohli,Conor Niland,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,France F16,3,Hard,R16,266,389,1,4,,Stephane Bohli,Josselin Ouanna,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,France F16,3,Hard,R32,266,367,1,4,,Stephane Bohli,Dawid Olejniczak,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Bucharest2 CH,3,Clay,R16,272,115,0,,2,Santiago Ventura,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Bucharest2 CH,3,Clay,R32,272,275,1,,,Stephane Bohli,Victor Crivoi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,Seville CH,3,Clay,R32,274,379,0,,Q,Miguel Angel Lopez Jaen,Stephane Bohli,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Dusseldorf CH,3,Clay,R16,UNR,UNR,0,,,Jan Hajek,Stephane Bohli,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Dusseldorf CH,3,Clay,R32,UNR,UNR,1,,LL,Stephane Bohli,Andre Ghem,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Geneva CH,3,Clay,QF,294,280,0,,,Francesco Aldi,Stephane Bohli,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Geneva CH,3,Clay,R16,294,1120,1,,WC,Stephane Bohli,Yann Marti,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Geneva CH,3,Clay,R32,294,1504,1,,WC,Stephane Bohli,Dmitri Kotchetkov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Trani CH,3,Clay,R32,296,206,0,,6,Daniel Gimeno Traver,Stephane Bohli,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Recanati CH,3,Hard,R16,304,386,0,,,Matwe Middelkoop,Stephane Bohli,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2007,Recanati CH,3,Hard,R32,304,218,1,,7,Stephane Bohli,Julien Jeanpierre,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2007,France F11,3,Clay,R32,305,903,0,2,,Nicolas Coutelot,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Oberstaufen CH,3,Clay,R16,275,188,0,,5,Jan Mertl,Stephane Bohli,0-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2007,Oberstaufen CH,3,Clay,R32,275,220,1,,,Stephane Bohli,Adrian Menendez Maceiras,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Dublin CH,3,Carpet,R32,UNR,UNR,0,,,Lars Burgsmuller,Stephane Bohli,7-6(4) 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Constanta CH,3,Clay,R16,265,253,0,,,Daniel Gimeno Traver,Stephane Bohli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Constanta CH,3,Clay,R32,265,347,1,,,Stephane Bohli,Razvan Sabau,6-3 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Wimbledon Q,3,Grass,Q1,265,117,0,,7,Kevin Kim,Stephane Bohli,6-4 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Halle Q,3,Grass,Q1,263,124,0,,2,Andrei Pavel,Stephane Bohli,7-5 6-7(4) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Fergana CH,3,Hard,R32,260,363,0,5,,Konstantin Kravchuk,Stephane Bohli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Forest Hills CH,3,Clay,R32,262,228,0,,,Leonardo Mayer,Stephane Bohli,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Cardiff CH,3,Hard,R32,216,296,0,8,,Stefan Wauters,Stephane Bohli,2-6 6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Chiasso CH,3,Clay,R32,218,169,0,,,Denis Gremelmayr,Stephane Bohli,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,France F6,3,Clay,R32,222,404,0,1,,Juan Martin Aranguren,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Ho Chi Minh City CH,3,Hard,SF,UNR,UNR,0,,,Farrukh Dustov,Stephane Bohli,4-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Ho Chi Minh City CH,3,Hard,QF,UNR,UNR,1,,,Stephane Bohli,Matthias Bachinger,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Ho Chi Minh City CH,3,Hard,R16,UNR,UNR,1,,,Stephane Bohli,Simon Stadler,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Ho Chi Minh City CH,3,Hard,R32,UNR,UNR,1,,6,Stephane Bohli,Rajeev Ram,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Kyoto CH,3,Carpet,SF,283,471,0,,WC,Takao Suzuki,Stephane Bohli,2-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Kyoto CH,3,Carpet,QF,283,275,1,,8,Stephane Bohli,Alan Mackin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Kyoto CH,3,Carpet,R16,283,251,1,,,Stephane Bohli,Farrukh Dustov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Kyoto CH,3,Carpet,R32,283,193,1,,3,Stephane Bohli,Rajeev Ram,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup WG R1: SUI vs ESP,3,Carpet,RR,278,15,0,,,David Ferrer,Stephane Bohli,6-3 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2007,Davis Cup WG R1: SUI vs ESP,3,Carpet,RR,278,33,0,,,Fernando Verdasco,Stephane Bohli,6-3 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Durban CH,3,Hard,R32,UNR,UNR,0,,7,Ivo Minar,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open Q,3,Hard,Q2,231,267,0,,,Paul Baccanello,Stephane Bohli,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open Q,3,Hard,Q1,231,158,1,,31,Stephane Bohli,Jean Christophe Faurel,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2007,Noumea CH,3,Hard,R16,240,178,0,,7,Noam Okun,Stephane Bohli,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2007,Noumea CH,3,Hard,R32,240,212,1,,,Stephane Bohli,Jo Wilfried Tsonga,6-2 0-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2006,Nashville CH,3,Hard,R32,218,1428,0,,WC,Ryan Preston,Stephane Bohli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,F,278,135,0,,3,Amer Delic,Stephane Bohli,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,SF,278,151,1,,4,Stephane Bohli,Ilija Bozoljac,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,QF,278,84,1,,1,Stephane Bohli,Frank Dancevic,6-7(4) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,R16,278,147,1,,6,Stephane Bohli,Paul Capdeville,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,R32,278,220,1,,,Stephane Bohli,Alex Kuznetsov,7-6(10) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Recanati CH,3,Hard,R32,240,66,0,,2,Davide Sanguinetti,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Rimini CH,3,Clay,R32,237,356,0,8,,Edouard Roger Vasselin,Stephane Bohli,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Oberstaufen CH,3,Clay,SF,257,328,0,,,Michal Tabara,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Oberstaufen CH,3,Clay,QF,257,258,1,,6,Stephane Bohli,Tobias Summerer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Oberstaufen CH,3,Clay,R16,257,371,1,,,Stephane Bohli,Jaroslav Pospisil,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2006,Oberstaufen CH,3,Clay,R32,257,UNR,1,,Q,Stephane Bohli,Markus Hantschk,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Montauban CH,3,Clay,R32,UNR,UNR,0,,Q,Nicolas Coutelot,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Reggio Emilia CH,3,Clay,R16,273,214,0,,,Julio Silva,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Reggio Emilia CH,3,Clay,R32,273,180,1,,7,Stephane Bohli,Mathieu Montcourt,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2006,Lugano CH,3,Clay,R32,274,356,0,WC,Q,Daniel Munoz De La Nava,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,R16,274,112,0,,1,Oliver Marach,Stephane Bohli,3-6 6-1 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Rome CH,3,Clay,R32,274,350,1,,,Stephane Bohli,Marcelo Melo,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chiasso CH,3,Clay,QF,343,392,0,WC,Q,Leonardo Azzaro,Stephane Bohli,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chiasso CH,3,Clay,R16,343,165,1,WC,7,Stephane Bohli,Peter Wessels,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Chiasso CH,3,Clay,R32,343,204,1,WC,,Stephane Bohli,Santiago Ventura,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,France F7,3,Clay,F,334,192,1,8,3,Stephane Bohli,Steve Darcis,7-6(4) 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,France F7,3,Clay,SF,334,204,1,8,4,Stephane Bohli,Mathieu Montcourt,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,France F7,3,Clay,QF,334,420,1,8,,Stephane Bohli,Rameez Junaid,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,France F7,3,Clay,R16,334,604,1,8,Q,Stephane Bohli,Frederic Jeanclaude,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,France F7,3,Clay,R32,334,577,1,8,Q,Stephane Bohli,Xavier Pujo,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2006,France F5,3,Hard,R32,333,226,0,,5,Stefan Wauters,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,France F4,3,Hard,R32,UNR,UNR,0,5,Q,Julien Jeanpierre,Stephane Bohli,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Andrezieux CH,3,Hard,SF,447,186,0,Q,,Gilles Elseneer,Stephane Bohli,6-7(0) 7-6(3) 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Andrezieux CH,3,Hard,QF,447,114,1,Q,7,Stephane Bohli,Alexander Waske,1-6 7-6(4) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Andrezieux CH,3,Hard,R16,447,144,1,Q,,Stephane Bohli,Irakli Labadze,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Andrezieux CH,3,Hard,R32,447,183,1,Q,,Stephane Bohli,Gregory Carraz,3-6 7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,Germany F3,3,Hard,QF,472,348,0,,3,Dieter Kindlmann,Stephane Bohli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,Germany F3,3,Hard,R16,472,434,1,,,Stephane Bohli,Marcel Zimmermann,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,Germany F3,3,Hard,R32,472,429,1,,8,Stephane Bohli,Jean Francois Bachelot,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,Germany F2,3,Hard,QF,470,350,0,,6,Dieter Kindlmann,Stephane Bohli,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,Germany F2,3,Hard,R16,470,284,1,,3,Stephane Bohli,Andreas Beck,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,Germany F2,3,Hard,R32,470,625,1,,LL,Stephane Bohli,Gordan Peranec,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Belgium F2,3,Carpet,F,590,420,1,,7,Stephane Bohli,Andrey Golubev,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Belgium F2,3,Carpet,SF,590,1286,1,,Q,Stephane Bohli,Robin Haase,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Belgium F2,3,Carpet,QF,590,868,1,,,Stephane Bohli,Juho Paukku,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Belgium F2,3,Carpet,R16,590,1286,1,,Q,Stephane Bohli,Stefan Kilchhofer,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,Belgium F2,3,Carpet,R32,590,460,1,,,Stephane Bohli,Kirill Ivanov Smolensky,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2005,Moscow,3,Carpet,R32,667,49,0,Q,,Andrei Pavel,Stephane Bohli,6-4 6-4,0.88,0.0%,3.5%,59.6%,67.6%,60.9%,0/2,46.1%,31.0%,8.5%,19.6%,52.0%,0/6,128,0,2,57,34,23,6,1:13
+29-Aug-2005,Great Britain F10,3,Hard,SF,594,565,0,,,Colin Fleming,Stephane Bohli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Great Britain F10,3,Hard,QF,594,318,1,,1,Stephane Bohli,Richard Bloomfield,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Great Britain F10,3,Hard,R16,594,450,1,,7,Stephane Bohli,Sunil Kumar Sipaeya,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Great Britain F10,3,Hard,R32,594,466,1,,,Stephane Bohli,Matthew Smith,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Geneva CH,3,Clay,R16,628,385,0,WC,,Damian Patriarca,Stephane Bohli,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Geneva CH,3,Clay,R32,628,120,1,WC,3,Stephane Bohli,Fernando Vicente,6-7(10) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Italy F22,3,Clay,QF,636,341,0,,2,Diego Junqueira,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Italy F22,3,Clay,R16,636,854,1,,LL,Stephane Bohli,Filippo Figliomeni,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Italy F22,3,Clay,R32,636,447,1,,7,Stephane Bohli,Simone Vagnozzi,6-1 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2005,Italy F21,3,Clay,QF,630,706,0,,,Bo Ram Cha,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2005,Italy F21,3,Clay,R16,630,657,1,,,Stephane Bohli,Tommaso Sanna,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2005,Italy F21,3,Clay,R32,630,971,1,,Q,Stephane Bohli,Antonio Gramaglia,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,Italy F18,3,Clay,R32,623,1075,0,,Q,Matthias Bachinger,Stephane Bohli,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,France F8,3,Clay,R32,627,301,0,,2,Mathieu Montcourt,Stephane Bohli,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2005,Lugano CH,3,Clay,R32,634,178,0,WC,,Tobias Summerer,Stephane Bohli,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Italy F11,3,Clay,QF,644,386,0,,4,Michael Lammer,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Italy F11,3,Clay,R16,644,394,1,,6,Stephane Bohli,Simone Vagnozzi,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2005,Italy F11,3,Clay,R32,644,494,1,,,Stephane Bohli,Alessandro Piccari,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2005,Spain F5,3,Clay,R32,642,381,0,,4,Andy Murray,Stephane Bohli,7-5 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,France F7,3,Clay,QF,664,354,0,,5,Mathieu Montcourt,Stephane Bohli,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,France F7,3,Clay,R16,664,339,1,,4,Stephane Bohli,Daniel Munoz De La Nava,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Apr-2005,France F7,3,Clay,R32,664,564,1,,,Stephane Bohli,Nicolas Renavand,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2005,France F4,3,Hard,R32,629,372,0,WC,,Josselin Ouanna,Stephane Bohli,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2005,Qatar F3,3,Hard,QF,553,467,0,7,4,Philipp Mukhometov,Stephane Bohli,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2005,Qatar F3,3,Hard,R16,553,UNR,1,7,WC,Stephane Bohli,Renouk Wijemanne,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2005,Qatar F3,3,Hard,R32,553,726,1,7,,Stephane Bohli,Atsuo Ogawa,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Qatar F2,3,Hard,R32,UNR,UNR,0,,,Jan Stancik,Stephane Bohli,6-3 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Qatar F1,3,Hard,R32,555,315,0,,5,Ivo Klec,Stephane Bohli,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Oct-2004,France F19,3,Hard,R32,490,180,0,,1,Gilles Simon,Stephane Bohli,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Oct-2004,France F18,3,Hard,SF,432,288,0,,2,Florin Mergea,Stephane Bohli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2004,France F18,3,Hard,QF,432,473,1,,,Stephane Bohli,Massimo Ocera,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2004,France F18,3,Hard,R16,432,341,1,,6,Stephane Bohli,Josselin Ouanna,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2004,France F18,3,Hard,R32,432,1422,1,,WC,Stephane Bohli,Manuel Soumet,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,France F15,3,Hard,QF,386,531,0,7,,Julien Varlet,Stephane Bohli,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,France F15,3,Hard,R16,386,1000,1,7,Q,Stephane Bohli,Julien Maigret,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2004,France F15,3,Hard,R32,386,591,1,7,,Stephane Bohli,Clement Morel,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2004,France F14,3,Hard,R32,390,1216,0,5,SE,Rodolphe Cadart,Stephane Bohli,2-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Istanbul CH,3,Hard,R16,UNR,UNR,0,,6,Peter Wessels,Stephane Bohli,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Istanbul CH,3,Hard,R32,UNR,UNR,1,,,Stephane Bohli,James Auckland,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,Germany F14,3,Clay,R32,375,UNR,0,3,Q,Andre Wiesler,Stephane Bohli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Aug-2004,Netherlands F4,3,Clay,R32,373,509,0,8,,Jasper Smit,Stephane Bohli,2-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Aug-2004,Geneva CH,3,Clay,R32,375,162,0,Q,7,Stanislas Wawrinka,Stephane Bohli,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Cordenons CH,3,Clay,R32,377,263,0,,,Javier Genaro Martinez,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,Manchester CH,3,Grass,R32,354,159,0,,2,Arvind Parmar,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2004,Nottingham CH,3,Grass,R32,355,581,0,,Q,Nathan Healey,Stephane Bohli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-May-2004,Italy F6,3,Clay,R32,319,618,0,Q,,Alessandro Da Col,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2004,Greece F1,3,Hard,R32,271,494,0,2,Q,Mark Hilton,Stephane Bohli,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,France F5,3,Hard,QF,UNR,UNR,0,4,SE,Jean Claude Scherrer,Stephane Bohli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,France F5,3,Hard,R16,UNR,UNR,1,4,WC,Stephane Bohli,Josselin Ouanna,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,France F5,3,Hard,R32,UNR,UNR,1,4,LL,Stephane Bohli,Josh Goffi,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2004,France F4,3,Hard,R32,258,437,0,8,WC,Jo Wilfried Tsonga,Stephane Bohli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2004,Milan,3,Carpet,R32,259,61,0,Q,,Nicolas Escude,Stephane Bohli,6-3 6-4,0.65,6.3%,2.1%,58.3%,71.4%,60.0%,2/4,42.7%,21.8%,20.0%,19.4%,26.3%,0/4,103,3,1,48,28,20,11,1:09
+2-Feb-2004,Wolfsburg CH,3,Carpet,R32,257,179,0,,4,Arvind Parmar,Stephane Bohli,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+1-Dec-2003,Ischgl CH,3,Carpet,R32,246,153,0,,8,Vincenzo Santopadre,Stephane Bohli,7-6(3) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+24-Nov-2003,Milan1 CH,3,Carpet,R32,249,264,0,Q,WC,Daniele Bracciali,Stephane Bohli,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Eckental CH,3,Carpet,R16,248,147,0,Q,4,Gilles Elseneer,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2003,Eckental CH,3,Carpet,R32,248,284,1,Q,,Stephane Bohli,Marco Chiudinelli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Belgaum CH,3,Hard,QF,262,571,0,,,Branislav Sekac,Stephane Bohli,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Belgaum CH,3,Hard,R16,262,367,1,,,Stephane Bohli,Harsh Mankad,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2003,Belgaum CH,3,Hard,R32,262,186,1,,3,Stephane Bohli,Michal Mertinak,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2003,Dharwad CH,3,Hard,R32,263,218,0,,5,Philipp Kohlschreiber,Stephane Bohli,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2003,Tumkur CH,3,Hard,QF,279,213,0,,4,Marcos Baghdatis,Stephane Bohli,6-3 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2003,Tumkur CH,3,Hard,R16,279,264,1,,7,Stephane Bohli,Oliver Marach,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Sep-2003,Tumkur CH,3,Hard,R32,279,318,1,,Q,Stephane Bohli,Zbynek Mlynarik,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2003,Grenoble CH,3,Hard,R32,290,139,0,Q,,Julien Varlet,Stephane Bohli,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2003,Donetsk CH,3,Hard,R32,271,427,0,,Q,Dmitri Sitak,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Kiev CH,3,Clay,QF,UNR,UNR,0,,1,Irakli Labadze,Stephane Bohli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Kiev CH,3,Clay,R16,UNR,UNR,1,,5,Stephane Bohli,Ignacio Gonzalez King,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2003,Kiev CH,3,Clay,R32,UNR,UNR,1,,,Stephane Bohli,Gorka Fraile,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2003,Geneva CH,3,Clay,R32,286,238,0,,,Francisco Fogues,Stephane Bohli,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,Recanati CH,3,Hard,QF,298,196,0,,5,Massimo Dellacqua,Stephane Bohli,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,Recanati CH,3,Hard,R16,298,406,1,,,Stephane Bohli,Regis Lavergne,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,Recanati CH,3,Hard,R32,298,148,1,,1,Stephane Bohli,Stefano Pescosolido,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+14-Jul-2003,Olbia CH,3,Clay,R32,292,357,0,,,Antonio Pastorino,Stephane Bohli,6-7(5) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jul-2003,France F12,3,Clay,R32,290,570,0,3,Q,Bertrand Contzler,Stephane Bohli,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Zell CH,3,Clay,R16,UNR,UNR,0,,1,Jiri Vanek,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,Zell CH,3,Clay,R32,UNR,UNR,1,,,Stephane Bohli,Jakub Herm Zahlava,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,France F10,3,Clay,QF,309,464,0,5,,Mounir El Aarej,Stephane Bohli,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,France F10,3,Clay,R16,309,1286,1,5,Q,Stephane Bohli,Cyril Mokaiesh,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,France F10,3,Clay,R32,309,968,1,5,Q,Stephane Bohli,Chemseddine Belal,6-0 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2003,Germany F6,3,Clay,R32,UNR,UNR,0,3,WC,Andreas Beck,Stephane Bohli,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Germany F5,3,Clay,R32,305,854,0,,WC,Markus Bayer,Stephane Bohli,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-May-2003,Fergana CH,3,Hard,R16,318,183,0,,3,Tuomas Ketola,Stephane Bohli,6-3 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2003,Fergana CH,3,Hard,R32,318,367,1,,Q,Stephane Bohli,Jonathan Erlich,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-May-2003,Uzbekistan F4,3,Hard,R32,318,220,0,,3,Jimmy Wang,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2003,Uzbekistan F3,3,Hard,R32,314,785,0,2,,Febi Widhiyanto,Stephane Bohli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,F,415,217,1,8,2,Stephane Bohli,Danai Udomchoke,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,SF,415,259,1,8,3,Stephane Bohli,Dmitry Vlasov,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,QF,415,212,1,8,1,Stephane Bohli,Rodolphe Cadart,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,R16,415,695,1,8,Q,Stephane Bohli,Vadim Davletshin,6-0 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Apr-2003,Uzbekistan F2,3,Hard,R32,415,UNR,1,8,Q,Stephane Bohli,Mikhail Kartachov,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,F,414,215,0,6,1,Rodolphe Cadart,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,SF,414,357,1,6,4,Stephane Bohli,Jaroslav Levinsky,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,QF,414,966,1,6,Q,Stephane Bohli,Jiri Vencl,0-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,R16,414,483,1,6,,Stephane Bohli,Andrei Cherkasov,7-6(3) 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Mar-2003,Uzbekistan F1,3,Hard,R32,414,639,1,6,,Stephane Bohli,Lauri Kiiski,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2003,New Zealand F3,3,Hard,SF,461,439,0,5,3,Dirk Stegmann,Stephane Bohli,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2003,New Zealand F3,3,Hard,QF,461,868,1,5,Q,Stephane Bohli,Martin Slanar,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2003,New Zealand F3,3,Hard,R16,461,1061,1,5,WC,Stephane Bohli,James Shortall,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2003,New Zealand F3,3,Hard,R32,461,622,1,5,,Stephane Bohli,Ajay Ramaswami,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,New Zealand F2,3,Hard,F,463,504,0,,,Jun Kato,Stephane Bohli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,New Zealand F2,3,Hard,SF,463,525,1,,,Stephane Bohli,Jan Minar,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,New Zealand F2,3,Hard,QF,463,670,1,,Q,Stephane Bohli,Yu Jr Wang,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,New Zealand F2,3,Hard,R16,463,691,1,,,Stephane Bohli,Bernard Parun,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Mar-2003,New Zealand F2,3,Hard,R32,463,549,1,,,Stephane Bohli,Ivo Minar,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2003,New Zealand F1,3,Hard,R16,464,624,0,,,Peng Sun,Stephane Bohli,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+24-Feb-2003,New Zealand F1,3,Hard,R32,464,997,1,,WC,Stephane Bohli,James Shortall,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,F,576,211,0,,,Joseph Sirianni,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,SF,576,440,1,,8,Stephane Bohli,Adam Kennedy,6-7(4) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,QF,576,524,1,,6,Stephane Bohli,Ryan Henry,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 4,3,Hard,QF,576,426,0,,5,Luke Bourgeois,Stephane Bohli,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,R16,576,426,1,,3,Stephane Bohli,Luke Bourgeois,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 3,3,Hard,R16,576,328,0,,3,Paul Baccanello,Stephane Bohli,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 4,3,Hard,R16,576,550,1,,,Stephane Bohli,Luke Smith,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 1,3,Hard,R32,576,465,0,,6,Wesley Whitehouse,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 2,3,Hard,R32,576,739,1,,,Stephane Bohli,Toshiaki Sakai,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 3,3,Hard,R32,576,887,1,,Q,Stephane Bohli,Go Soeda,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2003,Australia 1 4,3,Hard,R32,576,1332,1,,Q,Stephane Bohli,Brad Weston,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2002,Spain F22,3,Hard,SF,605,402,0,,2,Thierry Ascione,Stephane Bohli,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+9-Dec-2002,Spain F22,3,Hard,QF,605,710,1,,,Stephane Bohli,Joan Jimenez Guerra,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Dec-2002,Spain F22,3,Hard,R16,605,680,1,,,Stephane Bohli,Rafael Moreno Negrin,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2002,Spain F22,3,Hard,R32,605,693,1,,,Stephane Bohli,Daniel Lencina Ribes,7-6(3) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2002,France F19,3,Carpet,R16,616,UNR,0,,Q,Pierre Berntsson,Stephane Bohli,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2002,France F19,3,Carpet,R32,616,406,1,,6,Stephane Bohli,Michael Lammer,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 1,3,Clay,F,700,785,0,8,1,Alexander Flock,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 1,3,Clay,SF,700,706,1,8,6,Stephane Bohli,Julien Cuaz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 2,3,Clay,SF,700,785,0,7,Q,Alexander Flock,Stephane Bohli,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 1,3,Clay,QF,700,679,1,8,4,Stephane Bohli,Lars Uebel,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 2,3,Clay,QF,700,UNR,1,7,Q,Stephane Bohli,Benjamin Rufer,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 1,3,Clay,R16,700,1141,1,8,Q,Stephane Bohli,John Thivolle,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 2,3,Clay,R16,700,918,1,7,,Stephane Bohli,Alessandro Piccari,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 4,3,Clay,R16,700,900,0,3,,Alessandro Motti,Stephane Bohli,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 1,3,Clay,R32,700,912,1,8,,Stephane Bohli,Patrick Schnidrig,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 2,3,Clay,R32,700,UNR,1,7,Q,Stephane Bohli,Alejandro Vargas Aboy,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,Switzerland 2 3,3,Clay,R32,700,900,0,,,Alessandro Motti,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2002,Geneva CH,3,Clay,R16,768,127,0,WC,4,Olivier Mutis,Stephane Bohli,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2002,Geneva CH,3,Clay,R32,768,282,1,WC,,Stephane Bohli,Melvyn Op Der Heijde,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2002,Jamaica F1,3,Hard,R32,750,577,0,,Q,Roman Valent,Stephane Bohli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2002,Switzerland 1 3,3,Carpet,R16,630,791,0,,Q,Andreas Seppi,Stephane Bohli,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2002,Switzerland 1 2,3,Carpet,R32,630,497,0,,,Luben Pampoulov,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2002,Switzerland 1 3,3,Carpet,R32,630,1078,1,,Q,Stephane Bohli,Nicolas Tourte,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2002,Switzerland 1 4,3,Carpet,R32,630,UNR,0,,Q,Dominic Stoeckler,Stephane Bohli,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Feb-2002,France F5,3,Hard,R32,629,543,0,,7,Frank Moser,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2001,Orange Bowl Jrs,3,Hard,R16,,,0,7,11,Santiago Gonzalez,Stephane Bohli,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2001,Orange Bowl Jrs,3,Hard,R32,,,1,7,,Stephane Bohli,Rajeev Ram,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2001,Orange Bowl Jrs,3,Hard,R64,,,1,7,,Stephane Bohli,Goran Dragicevic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2001,Switzerland F3 Future,3,Carpet,R16,640,517,0,WC,,Michael Berrer,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2001,Switzerland F3 Future,3,Carpet,R32,640,474,1,WC,4,Stephane Bohli,Christian Dillschneider,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2001,Switzerland F2,3,Carpet,R32,686,769,0,SE,Q,Tobias Koeck,Stephane Bohli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,Switzerland F1,3,Hard,F,682,1130,1,,Q,Stephane Bohli,Philipp Petzschner,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,Switzerland F1,3,Hard,SF,682,598,1,,2,Stephane Bohli,Marcello Craca,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,Switzerland F1,3,Hard,QF,682,709,1,,Q,Stephane Bohli,Sebastian Fitz,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,Switzerland F1,3,Hard,R16,682,651,1,,,Stephane Bohli,Frank Moser,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,Switzerland F1,3,Hard,R32,682,795,1,,WC,Stephane Bohli,Fabian Roetschi,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2001,US Open Jrs,3,Hard,QF,,,0,13,10,Luciano Vitullo,Stephane Bohli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2001,US Open Jrs,3,Hard,R16,,,1,13,4,Stephane Bohli,Robin Soderling,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2001,US Open Jrs,3,Hard,R32,,,1,13,WC,Stephane Bohli,Rajeev Ram,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2001,US Open Jrs,3,Hard,R64,,,1,13,,Stephane Bohli,Steve Darcis,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2001,Geneva CH,3,Clay,R32,660,442,0,WC,,Florian Allgauer,Stephane Bohli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2001,Wimbledon Jrs,3,Grass,R16,,,0,13,Q,Philipp Petzschner,Stephane Bohli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2001,Wimbledon Jrs,3,Grass,R32,,,1,13,,Stephane Bohli,Luka Gregorc,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2001,Wimbledon Jrs,3,Grass,R64,,,1,13,WC,Stephane Bohli,Richard Bloomfield,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2001,Roland Garros Jrs,3,Clay,R32,,,0,Q,14,Florian Mayer,Stephane Bohli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2001,Roland Garros Jrs,3,Clay,R64,,,1,Q,,Stephane Bohli,Bart De Gier,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 4,3,Carpet,F,810,509,1,WC,7,Stephane Bohli,Jean Claude Scherrer,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 4,3,Carpet,SF,810,813,1,WC,Q,Stephane Bohli,Dominique Coene,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 1,3,Carpet,QF,810,492,0,5,1,Christian Dillschneider,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 4,3,Carpet,QF,810,548,1,WC,,Stephane Bohli,Tomas Jecminek,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 1,3,Carpet,R16,810,793,1,5,,Stephane Bohli,Andreas Kauntz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 3,3,Carpet,R16,810,380,0,,1,Marco Chiudinelli,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 4,3,Carpet,R16,810,1113,1,WC,Q,Stephane Bohli,Meride Zahirovic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 2,3,Carpet,R32,810,693,0,4,,Pavel Riha,Stephane Bohli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 3,3,Carpet,R32,810,950,1,,Q,Stephane Bohli,Jiri Vencl,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2001,Switzerland 1 4,3,Carpet,R32,810,UNR,1,WC,,Stephane Bohli,Marwan Zewar,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2001,Australian Open Jrs,3,Hard,R32,,,0,,6,Simon Stadler,Stephane Bohli,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2001,Australian Open Jrs,3,Hard,R64,,,1,,,Stephane Bohli,Ryan Henry,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2000,Orange Bowl Jrs,3,Hard,R32,,,0,,,Sasa Tuksar,Stephane Bohli,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2000,Orange Bowl Jrs,3,Hard,R64,,,1,,11,Stephane Bohli,David Ferrer,7-6 RET,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 3,3,Carpet,F,938,956,0,,WC,Christian Dillschneider,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 3,3,Carpet,SF,938,813,1,,,Stephane Bohli,Jiri Vencl,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 1,3,Carpet,QF,938,749,0,6,Q,Mike Scheidweiler,Stephane Bohli,6-7(3) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 3,3,Carpet,QF,938,609,1,,4,Stephane Bohli,Franz Stauder,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 4,3,Carpet,QF,938,609,0,4,6,Franz Stauder,Stephane Bohli,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 1,3,Carpet,R16,938,UNR,1,6,Q,Stephane Bohli,Roland Stopponi,6-7(3) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 3,3,Carpet,R16,938,1139,1,,WC,Stephane Bohli,Fabian Roetschi,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 4,3,Carpet,R16,938,794,1,4,,Stephane Bohli,Giuseppe Montenet,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 1,3,Carpet,R32,938,UNR,1,6,WC,Stephane Bohli,Dominik Tiedt,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 2,3,Carpet,R32,938,450,0,,2,Jun Kato,Stephane Bohli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2000,Switzerland 3 Masters 3,3,Carpet,R32,938,660,1,,5,Stephane Bohli,Jakub Hasek,7-6(1) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 2,3,Clay,QF,1008,719,0,,6,Michael Lammer,Stephane Bohli,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 2,3,Clay,R16,1008,1304,1,,WC,Stephane Bohli,Patrick Schnidrig,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 3,3,Clay,R16,1008,719,0,,7,Michael Lammer,Stephane Bohli,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 1,3,Clay,R32,1008,UNR,0,,Q,Thomas Werkmann,Stephane Bohli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 2,3,Clay,R32,1008,UNR,1,,WC,Stephane Bohli,Amar Zubcevic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 3,3,Clay,R32,1008,UNR,1,,WC,Stephane Bohli,Christian Polessnig,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,Switzerland Satellite 4,3,Clay,R32,1008,UNR,0,,,Thomas Werkmann,Stephane Bohli,3-6 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2000,Wimbledon Jrs,3,Grass,R64,,,0,WC,4,Mario Ancic,Stephane Bohli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2000,Roland Garros Jrs,3,Clay,R32,,,0,Q,16,Stefan Wauters,Stephane Bohli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2000,Roland Garros Jrs,3,Clay,R64,,,1,Q,,Stephane Bohli,Giovanni Lapentti,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2000,Switzerland 1 Masters 2,3,Carpet,R32,999,714,0,WC,Q,Timo Nieminen,Stephane Bohli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2000,Switzerland 1 Masters 3,3,Carpet,R32,999,907,0,WC,WC,Michael Lammer,Stephane Bohli,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2000,Switzerland 1 Masters 4,3,Carpet,R32,999,907,0,WC,WC,Michael Lammer,Stephane Bohli,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 4,3,Carpet,QF,1129,616,0,WC,,Alan Mackin,Stephane Bohli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 2,3,Carpet,R16,1129,522,0,,8,Matthias Muller,Stephane Bohli,6-2 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 3,3,Carpet,R16,1129,1189,0,WC,WC,Michael Lammer,Stephane Bohli,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 4,3,Carpet,R16,1129,702,1,WC,,Stephane Bohli,Jacob Adaktusson,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 1,3,Carpet,R32,1129,702,0,,,Jacob Adaktusson,Stephane Bohli,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 2,3,Carpet,R32,1129,841,1,,,Stephane Bohli,Alessandro Tombolini,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 3,3,Carpet,R32,1129,610,1,WC,8,Stephane Bohli,Jean Claude Scherrer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-1999,Switzerland 2 Masters 4,3,Carpet,R32,1129,UNR,1,WC,LL,Stephane Bohli,Michele Quaglia,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-1999,Switzerland 1 Masters 1,3,Clay,R32,1152,UNR,0,,,Marco Chiudinelli,Stephane Bohli,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-1999,Switzerland 1 Masters 3,3,Clay,R32,1152,679,0,WC,,Jun Kato,Stephane Bohli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-1999,Switzerland 1 Masters 4,3,Clay,R32,1152,588,0,WC,6,Sandro Della Piana,Stephane Bohli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Aug-1999,Geneva CH,3,Clay,R32,1152,251,0,WC,,Thomas Larsen,Stephane Bohli,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1998,Switzerland 2 Masters 3,3,Carpet,QF,UNR,558,0,Q,8,Jan Ralph Brandt,Stephane Bohli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1998,Switzerland 2 Masters 3,3,Carpet,R16,UNR,388,1,Q,2,Stephane Bohli,Frederic Niemeyer,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1998,Switzerland 2 Masters 1,3,Carpet,R32,UNR,1320,0,,Q,Giuseppe Menga,Stephane Bohli,6-2 2-6 7-6,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1998,Switzerland 2 Masters 2,3,Carpet,R32,UNR,UNR,0,,,Jun Kato,Stephane Bohli,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Oct-1998,Switzerland 2 Masters 3,3,Carpet,R32,UNR,855,1,Q,Q,Stephane Bohli,Petr Spousta,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-1998,Switzerland 1 Masters 4,3,Clay,R32,UNR,1332,0,WC,Q,Sebastian Fitz,Stephane Bohli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,

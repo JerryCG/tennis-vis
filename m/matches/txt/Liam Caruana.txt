@@ -1,0 +1,165 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+9-Mar-2020,M15 Toulouse,3,Hard,R16,409,866,0,7,,Raphael Baltensperger,Liam Caruana,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2020,M15 Toulouse,3,Hard,R32,409,535,1,7,WC,Liam Caruana,Kyrian Jacquet,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2020,Monterrey CH,3,Hard,R32,428,204,0,Q,13,Andrew Harris,Liam Caruana,6-3 6-1,0.36,6.7%,6.7%,48.3%,62.1%,38.7%,4/8,37.4%,17.9%,5.1%,8.7%,31.3%,0/0,99,4,4,60,29,31,2,0:58
+2-Mar-2020,Monterrey CH,3,Hard,R64,428,416,1,Q,,Liam Caruana,Agustin Velotti,1-6 6-4 6-3,0.96,5.6%,5.6%,52.2%,63.8%,51.2%,5/8,49.4%,40.5%,8.3%,35.0%,45.5%,3/10,174,5,5,90,47,43,7,1:48
+2-Mar-2020,Monterrey CH,3,Hard,Q1,428,446,1,2,,Liam Caruana,Hugo Nys,6-4 6-3,1.31,9.8%,8.2%,55.7%,76.5%,63.0%,1/1,54.5%,38.7%,12.9%,20.0%,56.3%,3/4,123,6,5,61,34,27,8,1:07
+24-Feb-2020,Calgary CH,3,Hard,R64,426,369,0,,,Aziz Dougaz,Liam Caruana,6-2 6-4,0.73,3.4%,3.4%,55.9%,66.7%,38.5%,1/5,44.5%,33.3%,5.9%,14.3%,56.5%,1/3,110,2,2,59,33,26,3,1:05
+17-Feb-2020,Drummondville CH,3,Hard,R16,439,252,0,,14,Maxime Cressy,Liam Caruana,6-2 6-1,0.43,0.0%,4.3%,60.9%,42.9%,50.0%,3/7,34.8%,23.3%,39.5%,15.6%,45.5%,0/0,89,0,2,46,28,18,17,0:52
+17-Feb-2020,Drummondville CH,3,Hard,R32,439,178,1,,4,Liam Caruana,Brayden Schnur,7-6(1) 6-4,1.11,4.4%,1.5%,67.6%,73.9%,59.1%,0/1,51.4%,34.3%,15.7%,17.0%,69.6%,2/6,138,3,1,68,46,22,11,1:21
+17-Feb-2020,Drummondville CH,3,Hard,R64,439,457,1,,,Liam Caruana,Yusuke Takahashi,7-5 6-3,1.27,3.2%,1.6%,58.1%,80.6%,53.8%,4/5,54.0%,39.1%,4.7%,28.6%,59.1%,3/3,126,2,1,62,36,26,3,1:15
+3-Feb-2020,Launceston CH,3,Hard,QF,502,151,0,,2,Alex Bolt,Liam Caruana,7-6(0) 6-3,0.64,3.0%,1.5%,62.1%,70.7%,48.0%,0/1,43.2%,24.2%,12.1%,13.5%,37.9%,0/3,132,2,1,66,41,25,8,1:19
+3-Feb-2020,Launceston CH,3,Hard,R16,502,223,1,,11,Liam Caruana,Tung Lin Wu,5-7 6-4 6-4,0.93,6.9%,3.0%,58.4%,69.5%,42.9%,5/9,48.7%,38.8%,10.2%,32.8%,50.0%,5/10,199,7,3,101,59,42,10,2:18
+3-Feb-2020,Launceston CH,3,Hard,R32,502,147,1,,8,Liam Caruana,Yannick Hanfmann,6-1 6-2,2.37,7.3%,2.4%,65.9%,88.9%,57.1%,0/0,64.0%,52.1%,10.4%,51.5%,53.3%,4/7,89,3,1,41,27,14,5,0:52
+3-Feb-2020,Launceston CH,3,Hard,R64,502,,1,,PR,Liam Caruana,Jeremy Beale,6-0 6-1,1.83,1.7%,0.0%,66.7%,70.0%,60.0%,10/10,64.2%,60.9%,0.0%,61.5%,57.1%,5/9,106,1,0,60,40,20,0,1:00
+27-Jan-2020,Burnie CH,3,Hard,R32,512,140,0,Alt,4,Alex Bolt,Liam Caruana,7-5 7-5,0.94,6.3%,1.3%,58.8%,68.1%,39.4%,5/10,48.3%,41.3%,8.7%,35.1%,51.4%,3/13,172,5,1,80,47,33,8,1:42
+27-Jan-2020,Burnie CH,3,Hard,R64,512,566,1,Alt,Q,Liam Caruana,Takuto Niki,7-5 6-3,1.12,4.9%,3.3%,60.7%,70.3%,45.8%,0/2,52.0%,43.9%,12.1%,48.6%,37.9%,4/14,127,3,2,61,37,24,8,1:23
+13-Jan-2020,Bendigo CH,3,Hard,R32,533,116,0,,8,Christopher Oconnell,Liam Caruana,6-3 6-1,0.54,6.1%,4.1%,71.4%,54.3%,35.7%,3/7,38.5%,27.7%,6.4%,17.9%,42.1%,0/2,96,3,2,49,35,14,3,0:53
+13-Jan-2020,Bendigo CH,3,Hard,R64,533,1437,1,,Q,Liam Caruana,Yaraslau Shyla,1-6 6-4 6-1,1.07,12.1%,3.0%,59.1%,61.5%,48.1%,2/7,51.4%,47.2%,5.6%,40.0%,59.3%,6/9,138,8,2,66,39,27,4,1:21
+11-Nov-2019,Houston CH,3,Hard,R32,530,106,0,,3,Ivo Karlovic,Liam Caruana,7-5 6-4,0.60,4.4%,4.4%,73.5%,74.0%,38.9%,7/9,44.8%,21.1%,33.3%,12.8%,38.9%,0/1,125,3,3,68,50,18,19,1:13
+11-Nov-2019,Houston CH,3,Hard,R64,530,,1,,WC,Liam Caruana,Mohamed Abdel Aziz,6-2 6-4,1.90,21.6%,0.0%,78.4%,85.0%,45.5%,0/0,58.5%,44.8%,4.5%,36.4%,52.9%,3/7,118,11,0,51,40,11,3,1:24
+28-Oct-2019,Charlottesville CH,3,Hard,R16,559,140,0,Q,6,Blaz Rola,Liam Caruana,6-3 6-2,0.36,2.1%,2.1%,68.8%,63.6%,33.3%,1/4,36.3%,16.3%,14.0%,17.2%,14.3%,0/0,91,1,1,48,33,15,6,1:05
+28-Oct-2019,Charlottesville CH,3,Hard,R32,559,1343,1,Q,Alt,Liam Caruana,Gianni Ross,7-6(4) 6-1,1.38,1.6%,0.0%,57.8%,75.7%,66.7%,4/4,55.6%,38.7%,4.8%,27.5%,59.1%,3/4,126,1,0,64,37,27,3,1:22
+28-Oct-2019,Charlottesville CH,3,Hard,R64,559,310,1,Q,,Liam Caruana,Roy Smith,6-4 7-5,1.30,7.0%,1.4%,70.4%,66.0%,61.9%,1/3,55.2%,45.9%,8.1%,31.0%,65.6%,4/9,145,5,1,71,50,21,6,1:35
+28-Oct-2019,Charlottesville CH,3,Hard,Q1,559,926,1,1,WC,Liam Caruana,Cannon Kingsley,6-3 7-6(14),1.25,11.1%,3.7%,50.6%,80.5%,55.0%,2/4,54.4%,40.3%,11.7%,22.9%,69.0%,3/5,158,9,3,81,41,40,9,1:42
+21-Oct-2019,M25 Fayetteville AR,3,Hard,R32,550,603,0,7,,Nick Chappell,Liam Caruana,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Waco TX,3,Hard,R16,549,609,0,,,Nick Chappell,Liam Caruana,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Waco TX,3,Hard,R32,549,1014,1,,WC,Liam Caruana,Zachary Svajda,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R32,525,342,0,,2,Sebastian Fanselow,Liam Caruana,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Harlingen TX,3,Hard,QF,588,649,0,,,Alex Rybakov,Liam Caruana,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Harlingen TX,3,Hard,R16,588,717,1,,,Liam Caruana,Nathan Ponwith,6-4 4-6 [10-4],,,,,,,,,,,,,,,,,,,,,
+23-Sep-2019,M25 Harlingen TX,3,Hard,R32,588,546,1,,7,Liam Caruana,Mark Whitehouse,6-3 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M25 HoustonTX,3,Hard,F,584,379,0,,2,Hugo Gaston,Liam Caruana,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M25 HoustonTX,3,Hard,SF,584,467,1,,,Liam Caruana,Alexander Sarkissian,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M25 HoustonTX,3,Hard,QF,584,,1,,,Liam Caruana,Ronald Hohmann,7-6(10) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M25 HoustonTX,3,Hard,R16,584,723,1,,,Liam Caruana,Tadeas Paroulek,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,M25 HoustonTX,3,Hard,R32,584,1416,1,,WC,Liam Caruana,Zachary Svajda,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,Cary CH,3,Hard,R32,618,188,0,Alt,8,Christopher Eubanks,Liam Caruana,6-1 7-5,0.53,6.6%,8.2%,49.2%,63.3%,41.9%,4/9,41.0%,25.0%,29.5%,16.7%,42.9%,1/3,105,4,5,61,30,31,13,1:01
+9-Sep-2019,Cary CH,3,Hard,R64,618,436,1,Alt,,Liam Caruana,Jordi Arconada,7-6(8) 1-6 6-2,1.02,12.5%,3.8%,45.0%,66.7%,50.0%,5/11,49.5%,43.4%,5.7%,42.1%,44.9%,5/17,186,10,3,80,36,44,6,2:03
+12-Aug-2019,M25 Memphis TN,3,Hard,R16,609,503,0,,7,Daniel Nguyen,Liam Caruana,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Memphis TN,3,Hard,R32,609,1034,1,,,Liam Caruana,Luis Patino,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R16,635,667,0,5,,Santiago Fa Rodriguez Taverna,Liam Caruana,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R32,635,,1,5,,Liam Caruana,Janmagnus Johnson,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M25 Decatur IL,3,Hard,QF,483,,0,2,,Christian Langmo,Liam Caruana,5-7 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M25 Decatur IL,3,Hard,R16,483,,1,2,,Liam Caruana,Carson Haskins,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,M25 Decatur IL,3,Hard,R32,483,,1,2,,Liam Caruana,Alan Kohen,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,SF,441,,0,4,,David Pichler,Liam Caruana,6-0 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,QF,441,476,1,4,,Liam Caruana,Juan Pablo Ficovich,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,441,,1,4,,Liam Caruana,Mick Veldheer,6-3 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,441,633,1,4,,Liam Caruana,Lenny Hampel,3-6 7-6(2) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,QF,437,,0,,,Christian Lindell,Liam Caruana,7-6(5) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,437,,1,,,Liam Caruana,David Pichler,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,437,,1,,IR  ,Liam Caruana,Nerman Fatic,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,437,490,1,4,,Liam Caruana,Riccardo Balzerani,6-4 1-6 10-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,437,,1,4,,Liam Caruana,Dragos Nicolae Madaras,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,M15 Toulouse,3,Hard,R16,438,,0,7,,Raphael Baltensperger,Liam Caruana,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2019,M15 Toulouse,3,Hard,R32,438,,1,7,,Liam Caruana,Kyrian Jacquet,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2019,M25 Trento,3,Hard,R32,439,590,0,,,Christopher Heyman,Liam Caruana,5-7 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,Bergamo CH,3,Hard,R64,434,222,0,WC,,Zdenek Kolar,Liam Caruana,7-6(2) 6-3,0.71,5.0%,1.7%,58.3%,74.3%,44.0%,2/4,43.1%,27.1%,12.9%,27.3%,26.9%,1/2,130,3,1,60,35,25,9,1:23
+19-Nov-2018,Andria CH,3,Hard,R16,620,140,0,WC,5,Sergiy Stakhovsky,Liam Caruana,6-4 6-0,0.75,3.7%,1.9%,68.5%,51.4%,41.2%,3/8,43.4%,39.0%,11.9%,28.9%,57.1%,1/5,113,2,1,54,37,17,7,1:07
+19-Nov-2018,Andria CH,3,Hard,R32,620,404,1,WC,LL,Liam Caruana,Alexander Erler,6-1 6-7(5) 7-5,1.32,7.6%,2.2%,63.0%,72.4%,61.8%,2/3,54.0%,41.7%,20.4%,18.2%,66.0%,5/11,200,7,2,92,58,34,22,1:55
+5-Nov-2018,NextGen Finals,3,Hard,RR,622,68,0,8,5,Andrey Rublev,Liam Caruana,4-3(7) 4-1 4-2,0.80,11.3%,1.9%,73.6%,71.8%,28.6%,2/5,45.5%,31.6%,15.8%,15.4%,66.7%,1/3,110,6,1,53,39,14,9,1:02
+5-Nov-2018,NextGen Finals,3,Hard,RR,622,47,0,8,4,Taylor Fritz,Liam Caruana,1-4 4-1 4-3(9) 4-2,0.81,10.1%,5.8%,60.9%,78.6%,48.1%,4/6,47.1%,26.9%,11.9%,20.0%,40.9%,1/1,136,7,4,69,42,27,8,1:21
+5-Nov-2018,NextGen Finals,3,Hard,RR,622,31,0,8,2,Alex De Minaur,Liam Caruana,4-1 4-1 4-2,0.60,2.0%,6.1%,65.3%,62.5%,23.5%,6/10,40.0%,30.4%,13.0%,23.3%,43.8%,0/2,95,1,3,49,32,17,6,0:55
+15-Oct-2018,Egypt F23,3,Hard,SF,660,450,0,,2,Karim Mohamed Maamoun,Liam Caruana,W/O,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Egypt F23,3,Hard,QF,660,523,1,,3,Liam Caruana,Gabriel Petit,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Egypt F23,3,Hard,R16,660,1015,1,,,Liam Caruana,Giorgio Ricca,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Egypt F23,3,Hard,R32,660,1386,1,,Q,Liam Caruana,Tom Pisane,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2018,Ortisei CH,3,Hard,R16,727,55,0,WC,1,Pierre Hugues Herbert,Liam Caruana,7-6(6) 6-4,0.60,9.6%,1.4%,53.4%,84.6%,47.1%,2/3,45.5%,19.7%,21.3%,13.0%,40.0%,0/0,134,7,1,73,39,34,13,1:22
+8-Oct-2018,Ortisei CH,3,Hard,R32,727,157,1,WC,,Liam Caruana,Stephane Robert,4-6 7-6(8) 6-2,1.16,16.5%,3.1%,67.0%,78.5%,50.0%,3/5,51.7%,35.8%,3.8%,25.5%,44.1%,3/9,203,16,3,97,65,32,4,1:50
+1-Oct-2018,Sweden F5,3,Hard,R16,724,1006,0,,WC,Jonathan Mridha,Liam Caruana,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2018,Sweden F5,3,Hard,R32,724,392,1,,2,Liam Caruana,Patrik Rikl,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Cary CH,3,Hard,Q2,684,401,0,,6,Evan Song,Liam Caruana,6-4 0-0 RET,0.65,2.2%,0.0%,63.0%,65.5%,47.1%,9/10,46.1%,26.7%,20.0%,6.7%,46.7%,0/1,76,1,0,46,29,17,6,0:57
+10-Sep-2018,Cary CH,3,Hard,Q1,684,470,1,,,Liam Caruana,Aleksandar Vukic,3-6 7-6(3) 6-3,1.17,14.3%,1.9%,60.0%,81.0%,47.6%,4/7,52.9%,37.9%,10.7%,28.1%,50.0%,2/12,208,15,2,105,63,42,11,2:16
+13-Aug-2018,USA F23,3,Hard,R16,695,608,0,6,,Nicolas Alvarez,Liam Caruana,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,R32,695,1259,1,6,,Liam Caruana,Alexander Lebedev,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,USA F22,3,Hard,R16,529,,0,2,Q,Maxime Cressy,Liam Caruana,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,USA F22,3,Hard,R32,529,935,1,2,,Liam Caruana,Francesco Ferrari,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,USA F21,3,Hard,R32,509,847,0,,,Sebastian Korda,Liam Caruana,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,Milan CH,3,Clay,Q1,519,276,0,,1,Thomaz Bellucci,Liam Caruana,6-1 6-2,0.63,0.0%,1.8%,63.2%,50.0%,42.9%,3/8,41.0%,33.3%,4.2%,19.2%,50.0%,0/1,105,0,1,57,36,21,2,1:13
+18-Jun-2018,L'Aquila CH,3,Clay,Q2,423,924,0,7,,Johannes Haerteis,Liam Caruana,7-6(2) 6-0,0.58,5.1%,6.8%,57.6%,64.7%,52.0%,2/5,42.1%,23.6%,7.3%,15.6%,34.8%,0/0,114,3,4,59,34,25,4,1:13
+18-Jun-2018,L'Aquila CH,3,Clay,Q1,423,503,1,7,,Liam Caruana,Joao Pedro Sorgi,6-4 6-2,1.16,8.1%,1.6%,58.1%,72.2%,65.4%,7/7,54.5%,35.4%,4.2%,33.3%,44.4%,3/4,110,5,1,62,36,26,2,1:10
+28-May-2018,Vicenza CH,3,Clay,R32,421,236,0,WC,WC,Matteo Donati,Liam Caruana,6-2 6-2,0.55,1.9%,1.9%,66.7%,61.1%,27.8%,4/8,38.5%,27.3%,9.1%,23.3%,32.0%,0/5,109,1,1,54,36,18,5,1:10
+21-May-2018,Mestre CH,3,Clay,R16,418,276,0,WC,7,Lorenzo Giustino,Liam Caruana,6-1 6-1,0.53,0.0%,0.0%,55.3%,61.5%,19.0%,5/10,36.7%,30.2%,14.0%,25.0%,34.8%,0/1,90,0,0,47,26,21,6,1:06
+21-May-2018,Mestre CH,3,Clay,R32,418,482,1,WC,Q,Liam Caruana,Edoardo Eremin,6-2 7-6(5),1.17,4.2%,5.6%,41.7%,66.7%,54.8%,2/4,53.6%,47.1%,7.4%,39.4%,54.3%,4/7,140,3,4,72,30,42,5,1:35
+14-May-2018,Rome Masters,3,Clay,Q1,419,60,0,WC,5,Julien Benneteau,Liam Caruana,6-2 6-0,0.44,2.3%,9.1%,38.6%,41.2%,44.4%,4/9,34.5%,25.0%,10.0%,25.0%,25.0%,0/2,84,1,4,44,17,27,4,0:51
+9-Apr-2018,USA F10,3,Hard,R32,395,521,0,6,,Karue Sell,Liam Caruana,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,R16,384,596,0,5,,Collin Altamirano,Liam Caruana,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,USA F9,3,Hard,R32,384,460,1,5,,Liam Caruana,Leny Mitjana,7-6(0) 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Punta Del Este CH,3,Clay,Q3,376,364,0,5,4,Juan Ignacio Londero,Liam Caruana,6-2 6-1,0.39,0.0%,4.0%,68.0%,50.0%,18.8%,4/9,32.3%,23.3%,7.0%,21.4%,26.7%,1/4,93,0,2,50,34,16,3,0:55
+26-Feb-2018,Punta Del Este CH,3,Clay,Q2,376,,1,5,WC,Liam Caruana,Rodrigo Arus,6-2 6-3,1.41,1.7%,10.3%,32.8%,94.7%,46.2%,3/5,57.6%,53.3%,11.7%,36.4%,74.1%,5/11,118,1,6,58,19,39,7,1:10
+26-Feb-2018,Punta Del Este CH,3,Clay,Q1,376,1052,1,5,,Liam Caruana,Alejo Vilaro,7-5 6-4,1.20,3.8%,3.8%,52.6%,75.6%,56.8%,9/10,54.1%,40.0%,1.4%,36.2%,47.8%,3/13,148,3,3,78,41,37,1,1:29
+5-Feb-2018,Launceston CH,3,Hard,Q2,378,539,0,5,,Gianni Mina,Liam Caruana,6-7(9) 6-3 6-2,0.53,6.5%,1.9%,62.6%,68.7%,47.5%,4/8,43.4%,20.7%,23.2%,17.7%,30.0%,0/1,189,7,2,107,67,40,19,1:49
+5-Feb-2018,Launceston CH,3,Hard,Q1,378,1380,1,5,,Liam Caruana,Matthew Christopher Romios,6-4 6-4,1.44,7.7%,1.9%,63.5%,78.8%,47.4%,0/2,54.9%,46.9%,7.4%,36.7%,62.5%,4/13,133,4,1,52,33,19,6,1:18
+29-Jan-2018,Burnie CH,3,Hard,R32,386,210,0,Q,5,Stephane Robert,Liam Caruana,4-6 7-5 6-4,0.94,15.8%,5.9%,59.4%,78.3%,46.3%,4/7,49.5%,32.6%,10.5%,28.6%,44.0%,2/11,196,16,6,101,60,41,10,1:42
+29-Jan-2018,Burnie CH,3,Hard,Q3,386,327,1,5,1,Liam Caruana,Kaichi Uchida,3-6 6-2 6-4,1.15,12.5%,0.0%,55.6%,72.5%,56.3%,3/6,52.4%,40.0%,5.3%,23.1%,58.3%,4/7,147,9,0,72,40,32,4,1:33
+29-Jan-2018,Burnie CH,3,Hard,Q2,386,936,1,5,,Liam Caruana,Dane Propoggia,6-2 6-2,2.12,7.5%,7.5%,55.0%,90.9%,55.6%,0/1,62.6%,52.9%,2.0%,48.4%,60.0%,5/11,91,3,3,40,22,18,1,0:49
+29-Jan-2018,Burnie CH,3,Hard,Q1,386,678,1,5,,Liam Caruana,Benjamin Mitchell,6-1 6-4,2.04,12.0%,2.0%,58.0%,79.3%,76.2%,1/1,59.0%,44.8%,6.0%,35.9%,57.1%,3/6,117,6,1,50,29,21,4,1:12
+8-Jan-2018,Auckland,3,Hard,R32,397,46,0,LL,,Steve Johnson,Liam Caruana,7-5 7-6(4),0.81,9.0%,1.3%,51.3%,77.5%,52.6%,2/4,46.8%,28.2%,15.4%,20.9%,37.1%,1/5,156,7,1,78,40,38,12,1:44
+8-Jan-2018,Auckland,3,Hard,Q2,397,135,0,,7,Tim Smyczek,Liam Caruana,6-4 6-2,0.59,10.2%,2.0%,59.2%,72.4%,45.0%,2/5,42.3%,22.9%,14.6%,23.7%,20.0%,0/0,97,5,1,49,29,20,7,0:56
+8-Jan-2018,Auckland,3,Hard,Q1,397,110,1,,4,Liam Caruana,Blaz Kavcic,6-3 6-4,1.77,8.0%,0.0%,58.0%,96.6%,47.6%,0/1,57.8%,42.4%,11.9%,25.6%,75.0%,3/7,109,4,0,50,29,21,7,1:02
+1-Jan-2018,Noumea CH,3,Hard,R16,430,155,0,Q,5,Corentin Moutet,Liam Caruana,6-4 6-2,0.52,1.5%,3.1%,58.5%,65.8%,51.9%,8/11,43.4%,20.8%,12.5%,9.7%,41.2%,0/0,113,1,2,65,38,27,6,1:18
+1-Jan-2018,Noumea CH,3,Hard,R32,430,191,1,Q,,Liam Caruana,Mitchell Krueger,6-3 6-4,1.22,18.6%,0.0%,62.7%,83.8%,50.0%,0/0,54.0%,35.2%,5.6%,38.7%,30.4%,2/5,113,11,0,59,37,22,3,1:14
+1-Jan-2018,Noumea CH,3,Hard,Q2,430,461,1,4,5,Liam Caruana,Sam Barry,6-4 7-6(9),1.98,20.3%,1.6%,64.1%,85.4%,78.3%,0/0,54.6%,34.1%,9.1%,31.6%,38.7%,1/8,152,13,1,64,41,23,8,1:48
+13-Nov-2017,Brescia CH,3,Hard,R32,418,427,0,WC,WC,Filippo Baldi,Liam Caruana,6-4 3-6 7-6(3),0.82,4.8%,1.9%,66.7%,65.7%,62.9%,3/5,48.0%,29.0%,10.8%,27.3%,33.3%,2/5,198,5,2,105,70,35,10,2:02
+9-Oct-2017,USA F33,3,Hard,R32,446,,0,,Q,Samuel Shropshire,Liam Caruana,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Canada F7,3,Hard,R16,460,1211,0,5,Q,Andrew Watson,Liam Caruana,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Canada F7,3,Hard,R32,460,,1,5,Q,Liam Caruana,Niels Peter Van Noord,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Canada F6,3,Clay,QF,457,348,0,6,1,Daniel Nguyen,Liam Caruana,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Canada F6,3,Clay,R16,457,1144,1,6,Q,Liam Caruana,Boris Arias,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Canada F6,3,Clay,R32,457,876,1,6,,Liam Caruana,Ulises Blanch,7-6(4) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,USA F27,3,Hard,R16,552,1779,0,4,LL,Alfredo Perez,Liam Caruana,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,USA F27,3,Hard,R32,552,1531,1,4,Q,Liam Caruana,Edward Bourchier,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,F,567,607,1,2,5,Liam Caruana,Genaro Alberto Olivieri,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,SF,567,932,1,2,,Liam Caruana,Cameron Silverman,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,QF,567,1213,1,2,Q,Liam Caruana,Or Ram Harel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,R16,567,,1,2,WC,Liam Caruana,Aleksandar Kovacevic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,R32,567,1248,1,2,,Liam Caruana,Jonathan Chang,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,USA F25,3,Hard,QF,566,1046,0,5,Q,Deiton Baughman,Liam Caruana,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,USA F25,3,Hard,R16,566,938,1,5,,Liam Caruana,John Mcnally,6-7(5) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,USA F25,3,Hard,R32,566,1289,1,5,Q,Liam Caruana,Riley Smith,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,Milan CH,3,Clay,R32,563,204,0,WC,8,Dmitry Popko,Liam Caruana,6-3 0-0 RET,0.61,0.0%,3.6%,60.7%,58.8%,63.6%,0/2,44.9%,23.8%,9.5%,17.6%,50.0%,0/0,49,0,1,28,17,11,2,0:31
+19-Jun-2017,Todi CH,3,Clay,SF,767,97,0,WC,2,Marco Cecchinato,Liam Caruana,6-2 6-2,0.48,0.0%,0.0%,52.8%,50.0%,56.0%,4/8,39.2%,22.7%,9.1%,20.6%,30.0%,0/1,97,0,0,53,28,25,4,1:09
+19-Jun-2017,Todi CH,3,Clay,QF,767,205,1,WC,,Liam Caruana,Gleb Sakharov,6-4 7-5,1.28,6.2%,3.7%,56.8%,76.1%,51.4%,9/11,55.7%,44.1%,8.8%,32.4%,58.1%,4/7,149,5,3,81,46,35,6,1:51
+19-Jun-2017,Todi CH,3,Clay,R16,767,251,1,WC,,Liam Caruana,Laurynas Grigelis,7-5 6-3,1.41,2.9%,0.0%,60.3%,73.2%,63.0%,2/3,56.2%,43.5%,7.2%,38.5%,58.8%,3/11,137,2,0,68,41,27,5,1:34
+19-Jun-2017,Todi CH,3,Clay,R32,767,254,1,WC,,Liam Caruana,Andrea Arnaboldi,6-4 4-3 RET,1.11,6.3%,1.6%,54.0%,76.5%,37.9%,6/8,52.5%,45.8%,0.0%,37.5%,63.2%,4/10,122,4,1,63,34,29,0,1:32
+29-May-2017,Vicenza CH,3,Clay,Q1,758,681,0,WC,WC,Nicola Ghedin,Liam Caruana,6-4 6-3,0.61,3.2%,4.8%,51.6%,65.6%,36.7%,2/7,42.5%,29.5%,2.3%,23.1%,38.9%,2/2,106,2,3,62,32,30,1,1:17
+22-May-2017,Mestre CH,3,Clay,R16,812,320,0,WC,,Axel Michon,Liam Caruana,7-6(4) 6-4,0.91,4.1%,3.1%,51.0%,62.0%,37.5%,13/19,48.1%,45.3%,1.6%,40.4%,66.7%,5/7,162,4,3,98,50,48,1,1:52
+22-May-2017,Mestre CH,3,Clay,R32,812,212,1,WC,3,Liam Caruana,Attila Balazs,6-4 6-4,1.51,13.2%,3.8%,56.6%,80.0%,69.6%,0/0,56.1%,37.0%,0.0%,36.4%,38.1%,2/3,107,7,2,53,30,23,0,1:13
+8-May-2017,Israel F6,3,Hard,R16,837,391,0,,3,David Guez,Liam Caruana,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Israel F6,3,Hard,R32,837,1160,1,,Q,Liam Caruana,Danny Thomas,6-7(5) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Israel F5,3,Hard,R16,875,365,0,,2,Mats Moraing,Liam Caruana,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Israel F5,3,Hard,R32,875,978,1,,,Liam Caruana,Alon Elia,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Israel F4,3,Hard,QF,877,462,0,,4,Antoine Escoffier,Liam Caruana,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Israel F4,3,Hard,R16,877,1393,1,,Q,Liam Caruana,Luca Gelhardt,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Israel F4,3,Hard,R32,877,678,1,,8,Liam Caruana,Matias Franco Descotte,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Greece F5,3,Hard,SF,1220,255,0,SE,1,Petr Michnev,Liam Caruana,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Greece F5,3,Hard,QF,1220,565,1,SE,,Liam Caruana,Alex Molcan,3-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Greece F5,3,Hard,R16,1220,459,1,SE,4,Liam Caruana,Andres Artunedo Martinavarr,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2017,Greece F5,3,Hard,R32,1220,834,1,SE,,Liam Caruana,Dominik Boehler,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Greece F4,3,Hard,SF,1222,459,0,Q,6,Andres Artunedo Martinavarr,Liam Caruana,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Greece F4,3,Hard,QF,1222,598,1,Q,,Liam Caruana,Alex Molcan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Greece F4,3,Hard,R16,1222,361,1,Q,3,Liam Caruana,Dzmitry Zhyrmont,6-7(3) 6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Mar-2017,Greece F4,3,Hard,R32,1222,732,1,Q,,Liam Caruana,Patrik Nema,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Italy F3,3,Hard,R32,1230,957,0,WC,Q,Raphael Baltensperger,Liam Caruana,7-6(6) 4-6 5-1 RET,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,USA F8,3,Clay,R16,1290,303,0,WC,3,Michael Linzer,Liam Caruana,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,USA F8,3,Clay,R32,1290,816,1,WC,Q,Liam Caruana,Mico Santiago,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,R32,1241,543,0,,4,Brayden Schnur,Liam Caruana,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,USA F39,3,Hard,R16,1318,442,0,Q,4,Dennis Nevolo,Liam Caruana,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2016,USA F39,3,Hard,R32,1318,,1,Q,WC,Liam Caruana,Johannes Schretter,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2016,Italy F21,3,Clay,R32,1245,356,0,WC,2,Francisco Bahamonde,Liam Caruana,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R16,1243,280,0,WC,2,Cristian Garin,Liam Caruana,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Italy F19,3,Clay,R32,1243,,1,WC,Q,Liam Caruana,Gianluca Acquaroli,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Perugia CH,3,Clay,Q2,1256,424,0,WC,5,Yannick Maden,Liam Caruana,6-2 6-4,0.84,2.0%,3.9%,66.7%,61.8%,47.1%,1/5,45.9%,36.2%,6.9%,31.8%,50.0%,1/3,109,1,2,51,34,17,4,1:18
+13-Jun-2016,Perugia CH,3,Clay,Q1,1256,,1,WC,WC,Liam Caruana,Manuel Ribeca,6-1 6-2,1.93,5.8%,1.9%,71.2%,83.8%,46.7%,7/7,62.3%,51.9%,7.4%,36.7%,70.8%,4/11,106,3,1,52,37,15,4,1:09
+23-May-2016,Italy F12,3,Clay,QF,1443,406,0,WC,,Stefanos Tsitsipas,Liam Caruana,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Italy F12,3,Clay,R16,1443,290,1,WC,Q,Liam Caruana,Gianluca Naso,4-6 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2016,Italy F12,3,Clay,R32,1443,556,1,WC,,Liam Caruana,Thales Turini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,USA F2,3,Hard,R16,1637,446,0,Q,8,Daniel Smethurst,Liam Caruana,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,USA F2,3,Hard,R32,1637,761,1,Q,WC,Liam Caruana,Gonzales Austin,7-6(3) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2015,Dominican Republic F3,3,Hard,R32,1561,394,0,Q,3,Juan Ignacio Galarza,Liam Caruana,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,USA F34,3,Hard,R32,1554,311,0,Q,3,Nicolas Meister,Liam Caruana,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,USA F22,3,Hard,R16,1756,618,0,Q,6,Michael Mmoh,Liam Caruana,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,USA F22,3,Hard,R32,1756,1876,1,Q,Q,Liam Caruana,Henry Craig,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F19,3,Hard,R16,,580,0,Q,8,Andre Dome,Liam Caruana,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,USA F19,3,Hard,R32,,1429,1,Q,,Liam Caruana,Gonzales Austin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,

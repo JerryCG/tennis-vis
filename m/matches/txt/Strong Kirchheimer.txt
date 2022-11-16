@@ -1,0 +1,300 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+13-Nov-2022,Champaign CH,3,Hard,Q2,459,1130,1,2,Alt,Strong Kirchheimer,Theo Arribage,6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2022,Champaign CH,3,Hard,Q1,459,810,1,2,,Strong Kirchheimer,Tyler Zink,W/O,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,Knoxville CH,3,Hard,R16,479,120,0,Q,3,Christopher Eubanks,Strong Kirchheimer,7-6(2) 6-4,0.63,14.9%,4.5%,61.2%,73.2%,50.0%,1/3,43.6%,22.7%,25.8%,15.7%,46.7%,1/4,133,10,3,67,41,26,17,1:22
+7-Nov-2022,Knoxville CH,3,Hard,R32,479,493,1,Q,WC,Strong Kirchheimer,Gage Brymer,6-3 6-1,3.94,27.8%,5.6%,66.7%,91.7%,83.3%,0/0,63.1%,43.8%,2.1%,31.0%,63.2%,4/9,84,10,2,36,24,12,1,1:03
+7-Nov-2022,Knoxville CH,3,Hard,Q2,479,884,1,1,WC,Strong Kirchheimer,Patrick Maloney,7-6(3) 6-4,1.22,17.1%,4.3%,65.7%,78.3%,50.0%,3/4,53.1%,38.4%,4.1%,33.3%,46.4%,2/6,143,12,3,70,46,24,3,1:42
+7-Nov-2022,Knoxville CH,3,Hard,Q1,479,627,1,1,,Strong Kirchheimer,Enzo Wallart,6-2 1-0 RET,1.55,3.8%,3.8%,50.0%,61.5%,61.5%,2/3,60.3%,59.5%,2.7%,59.1%,60.0%,4/6,63,1,1,26,13,13,1,0:51
+31-Oct-2022,Charlottesville CH,3,Hard,Q2,488,534,0,9,,Murphy Cassone,Strong Kirchheimer,4-6 6-3 6-1,0.77,4.1%,2.7%,56.2%,68.3%,43.8%,4/9,45.2%,32.9%,9.6%,26.7%,42.9%,2/5,146,3,2,73,41,32,7,1:43
+31-Oct-2022,Charlottesville CH,3,Hard,Q1,488,,1,9,WC,Strong Kirchheimer,Ryan Goetz,6-4 6-4,1.24,17.2%,3.1%,60.9%,82.1%,44.0%,2/3,54.5%,40.7%,3.4%,39.0%,44.4%,3/5,123,11,2,64,39,25,2,1:31
+17-Oct-2022,M25 Harlingen TX,3,Hard,SF,494,507,0,3,5,Martin Damm,Strong Kirchheimer,6-3 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2022,M25 Harlingen TX,3,Hard,QF,494,711,1,3,,Strong Kirchheimer,Toby Samuel,6-7(3) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2022,M25 Harlingen TX,3,Hard,R16,494,1055,1,3,,Strong Kirchheimer,Gabriel Evans,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2022,M25 Harlingen TX,3,Hard,R32,494,,1,3,Q,Strong Kirchheimer,Christopher Bulus,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2022,Fairfield CH,3,Hard,Q1,488,587,0,7,Alt,Alexander Cozbinov,Strong Kirchheimer,6-4 6-2,0.71,2.1%,4.2%,68.8%,45.5%,26.7%,1/7,41.4%,42.9%,11.1%,21.9%,64.5%,3/5,111,1,2,48,33,15,7,1:23
+26-Sep-2022,Charleston CH,3,Hard,R32,491,264,0,Q,,Leandro Riedi,Strong Kirchheimer,6-1 6-0,0.43,1.7%,1.7%,55.0%,45.5%,29.6%,6/12,34.0%,26.5%,2.9%,24.0%,33.3%,0/1,94,1,1,60,33,27,1,0:57
+26-Sep-2022,Charleston CH,3,Hard,Q2,491,361,1,12,1,Strong Kirchheimer,Govind Nanda,6-1 6-1,1.88,7.5%,0.0%,67.5%,66.7%,69.2%,1/2,63.8%,61.1%,1.9%,61.1%,61.1%,6/11,94,3,0,40,27,13,1,1:18
+19-Sep-2022,Columbus CH,3,Hard,R32,497,335,0,LL,,Gabriel Diallo,Strong Kirchheimer,6-4 6-3,0.66,1.7%,5.2%,63.8%,64.9%,42.9%,2/5,43.2%,28.3%,11.3%,26.8%,33.3%,1/3,111,1,3,58,37,21,6,1:13
+19-Sep-2022,Columbus CH,3,Hard,Q2,497,678,0,2,,James Trotter,Strong Kirchheimer,6-2 6-0,0.53,2.1%,4.3%,70.2%,42.4%,42.9%,1/6,36.7%,30.2%,14.0%,9.5%,50.0%,0/4,90,1,2,47,33,14,6,1:05
+12-Sep-2022,Cary CH,3,Hard,Q2,496,582,0,4,7,Cannon Kingsley,Strong Kirchheimer,6-3 6-2,0.67,2.9%,2.9%,71.4%,52.0%,40.0%,0/4,40.0%,34.5%,14.5%,26.5%,47.6%,1/2,90,1,1,35,25,10,8,1:01
+12-Sep-2022,Cary CH,3,Hard,Q1,496,,1,4,WC,Strong Kirchheimer,Andrew Zhang,6-7(3) 7-5 7-6(5),1.08,3.3%,1.7%,62.8%,67.1%,57.8%,4/8,50.6%,39.3%,6.4%,21.4%,57.1%,5/16,261,4,2,121,76,45,9,3:27
+22-Aug-2022,Granby CH,3,Hard,R16,513,290,0,Alt,9,Hiroki Moriya,Strong Kirchheimer,6-4 6-4,0.47,7.7%,4.6%,67.7%,72.7%,38.1%,4/6,42.6%,18.0%,2.0%,21.6%,7.7%,0/0,115,5,3,65,44,21,1,1:22
+22-Aug-2022,Granby CH,3,Hard,R32,513,856,1,Alt,Q,Strong Kirchheimer,Luke Saville,6-2 4-6 6-2,1.31,2.4%,1.2%,71.8%,62.3%,54.2%,8/12,56.4%,52.6%,0.0%,46.3%,59.5%,7/10,163,2,1,85,61,24,0,1:59
+8-Aug-2022,Chicago CH,3,Hard,Q1,507,333,0,Alt,10,Zachary Svajda,Strong Kirchheimer,4-6 6-2 6-4,0.81,7.2%,3.6%,61.4%,66.7%,50.0%,2/6,45.9%,32.2%,5.7%,28.0%,37.8%,2/10,170,6,3,83,51,32,5,2:02
+1-Aug-2022,Lexington CH,3,Hard,R16,550,313,0,Q,,Nicolas Mejia,Strong Kirchheimer,7-6(2) 3-6 6-3,0.96,6.2%,3.1%,71.1%,68.1%,50.0%,3/6,49.0%,35.6%,4.0%,33.8%,39.4%,3/7,198,6,3,97,69,28,4,2:52
+1-Aug-2022,Lexington CH,3,Hard,R32,550,228,1,Q,6,Strong Kirchheimer,Genaro Alberto Olivieri,6-1 6-1,2.66,8.3%,0.0%,61.1%,77.3%,78.6%,0/0,67.1%,59.2%,2.0%,53.3%,68.4%,5/8,85,3,0,36,22,14,1,0:56
+1-Aug-2022,Lexington CH,3,Hard,Q2,550,882,1,4,WC,Strong Kirchheimer,Aidan Mayo,6-3 6-1,1.33,3.2%,1.6%,62.9%,59.0%,43.5%,4/7,57.4%,62.3%,5.7%,50.0%,78.3%,7/13,115,2,1,62,39,23,3,1:27
+1-Aug-2022,Lexington CH,3,Hard,Q1,550,934,1,4,,Strong Kirchheimer,Saketh Myneni,6-1 6-1,4.51,12.5%,0.0%,59.4%,89.5%,84.6%,0/0,67.8%,56.4%,7.3%,50.0%,64.0%,5/8,87,4,0,32,19,13,4,0:45
+18-Jul-2022,Indianapolis CH,3,Hard,Q1,525,348,0,Alt,8,Shintaro Mochizuki,Strong Kirchheimer,7-6(5) 6-2,0.86,3.2%,3.2%,72.6%,62.2%,41.2%,2/6,46.5%,37.3%,6.0%,20.0%,63.0%,2/3,129,2,2,62,45,17,4,1:23
+11-Jul-2022,Rome CH,3,Hard,R16,581,295,0,Q,,Aleksandar Kovacevic,Strong Kirchheimer,6-3 4-6 6-4,0.83,3.6%,2.4%,69.0%,69.0%,61.5%,2/4,47.3%,27.7%,21.7%,16.0%,45.5%,1/3,167,3,2,84,58,26,18,1:58
+11-Jul-2022,Rome CH,3,Hard,R32,581,141,1,Q,3,Strong Kirchheimer,Emilio Gomez,6-4 7-6(1),1.12,2.2%,1.1%,61.3%,64.9%,61.1%,7/9,54.1%,40.9%,7.6%,22.2%,63.3%,3/4,159,2,1,93,57,36,5,1:57
+11-Jul-2022,Rome CH,3,Hard,Q2,581,897,1,11,Alt,Strong Kirchheimer,Taha Baadi,7-5 7-6(5),1.14,4.4%,5.9%,69.1%,78.7%,33.3%,1/4,52.1%,40.3%,6.9%,23.8%,63.3%,4/8,140,3,4,68,47,21,5,1:43
+11-Jul-2022,Rome CH,3,Hard,Q1,581,864,1,11,,Strong Kirchheimer,N Sriram Balaji,6-4 6-1,1.89,6.7%,4.4%,73.3%,75.8%,58.3%,1/2,61.3%,54.5%,1.5%,46.9%,61.8%,5/11,111,3,2,45,33,12,1,1:15
+20-Jun-2022,M15 South Bend IN,3,Hard,QF,564,583,0,3,5,Sekou Bangoura,Strong Kirchheimer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,R16,564,1659,1,3,,Strong Kirchheimer,Jack Anthrop,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,M15 South Bend IN,3,Hard,R32,564,1274,1,3,Q,Strong Kirchheimer,Ronan Jachuck,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Wichita KS,3,Hard,R16,566,567,0,,,Liam Draxl,Strong Kirchheimer,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Wichita KS,3,Hard,R32,566,,1,,Q,Strong Kirchheimer,Matt Hulme,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2022,M25 East Lansing MI,3,Hard,R32,549,943,0,6,,Gabriel Diallo,Strong Kirchheimer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,Little Rock CH,3,Hard,R32,564,275,0,Q,,Kaichi Uchida,Strong Kirchheimer,4-6 6-3 6-4,0.78,2.4%,2.4%,64.7%,70.9%,46.7%,0/3,45.9%,29.4%,14.1%,18.8%,43.2%,2/6,170,2,2,85,55,30,12,1:56
+30-May-2022,Little Rock CH,3,Hard,Q2,564,431,1,WC,,Strong Kirchheimer,Sasi Kumar Mukund,6-2 6-3,2.04,4.4%,0.0%,77.8%,82.9%,60.0%,4/4,60.2%,45.3%,5.7%,44.7%,46.7%,4/5,98,2,0,45,35,10,3,1:04
+30-May-2022,Little Rock CH,3,Hard,Q1,564,367,1,WC,4,Strong Kirchheimer,Jc Aragone,3-6 6-3 6-3,1.03,0.0%,4.1%,69.4%,64.7%,43.3%,6/9,51.1%,43.2%,1.1%,39.2%,48.6%,5/9,186,0,4,98,68,30,1,2:07
+25-Apr-2022,Savannah CH,3,Clay,R32,566,267,0,Q,,Zhizhen Zhang,Strong Kirchheimer,7-5 6-3,0.78,3.3%,0.0%,66.7%,65.0%,55.0%,2/4,44.9%,29.9%,9.0%,36.1%,22.6%,0/1,127,2,0,60,40,20,6,1:27
+25-Apr-2022,Savannah CH,3,Clay,Q2,566,500,1,8,6,Strong Kirchheimer,Evan Zhu,2-6 6-4 6-4,0.93,1.0%,1.9%,64.8%,54.4%,56.8%,11/16,49.5%,41.6%,10.4%,37.5%,52.4%,5/8,182,1,2,105,68,37,8,2:11
+25-Apr-2022,Savannah CH,3,Clay,Q1,566,,1,8,,Strong Kirchheimer,James Cerretani,6-1 6-3,8.68,14.7%,2.9%,76.5%,100.0%,75.0%,0/0,69.1%,51.1%,0.0%,51.7%,50.0%,4/7,81,5,1,34,26,8,0,1:01
+18-Apr-2022,M15 Orange Park FL,3,Clay,R32,569,753,0,5,,Nathan Ponwith,Strong Kirchheimer,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,R16,571,1561,0,4,WC,Kyle Kang,Strong Kirchheimer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Sunrise FL,3,Clay,R32,571,751,1,4,,Strong Kirchheimer,Johannes Ingildsen,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2022,Mexico City CH,3,Clay,Q1,576,477,0,,11,Nick Chappell,Strong Kirchheimer,6-4 4-6 7-5,1.02,6.6%,4.4%,58.2%,67.9%,57.9%,0/3,49.0%,37.2%,4.4%,32.1%,42.1%,2/8,204,6,4,91,53,38,5,2:36
+7-Mar-2022,Monterrey CH,3,Hard,R32,593,223,0,Q,3,Jason Jung,Strong Kirchheimer,6-4 6-1,0.60,2.1%,4.2%,66.7%,53.1%,43.8%,0/4,39.6%,30.2%,5.7%,16.1%,50.0%,0/8,101,1,2,48,32,16,3,1:06
+7-Mar-2022,Monterrey CH,3,Hard,Q2,593,,1,,WC,Strong Kirchheimer,Rodrigo Pacheco Mendez,7-5 2-6 6-4,0.98,7.2%,3.1%,61.9%,73.3%,51.4%,10/13,50.5%,34.5%,3.4%,37.7%,29.4%,3/5,184,7,3,97,60,37,3,2:10
+7-Mar-2022,Monterrey CH,3,Hard,Q1,593,539,1,,10,Strong Kirchheimer,Roy Smith,6-3 5-4 RET,1.41,3.9%,5.9%,58.8%,76.7%,57.1%,0/1,56.3%,44.2%,7.7%,30.8%,57.7%,3/4,103,2,3,51,30,21,4,1:21
+21-Feb-2022,M15 Naples FL,3,Clay,R16,572,1259,0,6,WC,Fletcher Scott,Strong Kirchheimer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M15 Naples FL,3,Clay,R32,572,754,1,6,Q,Strong Kirchheimer,Guy Orly Iradukunda,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M15 Naples FL,3,Clay,QF,555,432,0,7,3,Corentin Denolly,Strong Kirchheimer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M15 Naples FL,3,Clay,R16,555,1639,1,7,,Strong Kirchheimer,Michael Zheng,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M15 Naples FL,3,Clay,R32,555,759,1,7,,Strong Kirchheimer,Guy Orly Iradukunda,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M15 Naples FL,3,Clay,R32,556,665,0,3,,Pedro Boscardin Dias,Strong Kirchheimer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Weston FL,3,Clay,R32,537,546,0,,,Pol Toledo Bague,Strong Kirchheimer,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2022,Concepcion CH,3,Clay,R16,537,114,0,Alt,1,Hugo Dellien,Strong Kirchheimer,6-0 6-1,0.52,5.4%,2.7%,75.7%,42.9%,22.2%,4/9,34.9%,32.6%,2.2%,30.6%,40.0%,0/2,83,2,1,37,28,9,1,1:05
+17-Jan-2022,Concepcion CH,3,Clay,R32,537,,1,Alt,Q,Strong Kirchheimer,Ignacio Antonio Becerra Otarola,6-2 6-0,2.06,2.4%,0.0%,56.1%,87.0%,55.6%,4/4,62.0%,55.2%,0.0%,55.0%,55.6%,5/15,108,1,0,41,23,18,0,1:19
+10-Jan-2022,Blumenau CH,3,Clay,R32,542,348,0,Alt,,Nicolas Moreno De Alboran,Strong Kirchheimer,6-1 6-3,0.58,0.0%,0.0%,59.6%,53.6%,36.8%,4/9,39.3%,31.0%,2.4%,26.7%,41.7%,1/1,89,0,0,47,28,19,1,1:13
+2-Jan-2022,Tigre CH,3,Clay,R32,541,487,0,,,Juan Bautista Torres,Strong Kirchheimer,6-1 6-2,0.63,0.0%,3.1%,56.3%,50.0%,32.1%,6/12,40.0%,36.6%,0.0%,33.3%,39.1%,1/2,105,0,2,64,36,28,0,1:29
+8-Nov-2021,M25 Harlingen TX,3,Hard,QF,526,495,0,6,3,Matias Franco Descotte,Strong Kirchheimer,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Harlingen TX,3,Hard,R16,526,1340,1,6,,Strong Kirchheimer,Yuta Kikuchi,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2021,M25 Harlingen TX,3,Hard,R32,526,1492,1,6,WC,Strong Kirchheimer,Keenan Mayo,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2021,M15 Fayetteville AR,3,Hard,R32,531,,0,3,WC,Nicolas Rousset,Strong Kirchheimer,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2021,M25 Calabasas CA,3,Hard,R32,526,,0,8,Q,Austin Ansari,Strong Kirchheimer,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Cancun,3,Hard,R16,525,936,0,2,,Alejandro Mendoza,Strong Kirchheimer,4-6 7-5 RET,,,,,,,,,,,,,,,,,,,,,
+11-Oct-2021,M15 Cancun,3,Hard,R32,525,1244,1,2,Q,Strong Kirchheimer,Federico Agustin Gomez,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2021,M15 Cancun,3,Hard,R32,525,1288,0,2,,Dali Blanch,Strong Kirchheimer,6-3 3-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Cancun,3,Hard,SF,526,642,0,1,4,Christian Langmo,Strong Kirchheimer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Cancun,3,Hard,QF,526,1919,1,1,,Strong Kirchheimer,Victor Lilov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Cancun,3,Hard,R16,526,2082,1,1,,Strong Kirchheimer,Alexander Bernard,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2021,M15 Cancun,3,Hard,R32,526,,1,1,WC,Strong Kirchheimer,Jose Elias Yapur,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2021,M15 Cancun,3,Hard,R32,530,1825,0,1,Q,Federico Agustin Gomez,Strong Kirchheimer,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Sep-2021,Cary 2 CH,3,Hard,Q2,525,377,0,8,2,Aleksandar Kovacevic,Strong Kirchheimer,6-3 6-4,0.82,6.5%,4.8%,62.9%,66.7%,39.1%,7/10,45.2%,35.6%,15.1%,17.6%,51.3%,1/7,135,4,3,62,39,23,11,1:34
+13-Sep-2021,Cary 2 CH,3,Hard,Q1,525,601,1,8,,Strong Kirchheimer,Thomas Fancutt,4-6 6-3 7-6(4),1.13,6.9%,4.0%,62.4%,76.2%,63.2%,5/6,50.7%,32.5%,11.4%,11.1%,51.7%,1/7,215,7,4,101,63,38,13,
+26-Jul-2021,M25 Champaign IL,3,Hard,R16,542,592,0,,,Dane Sweeny,Strong Kirchheimer,6-0 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2021,M25 Champaign IL,3,Hard,R32,542,1236,1,,Q,Strong Kirchheimer,William Griffith,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Edwardsville IL,3,Hard,F,533,708,0,3,,Rinky Hijikata,Strong Kirchheimer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Edwardsville IL,3,Hard,SF,533,604,1,3,6,Strong Kirchheimer,Christian Langmo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Edwardsville IL,3,Hard,QF,533,1343,1,3,WC,Strong Kirchheimer,Eliot Spizzirri,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Edwardsville IL,3,Hard,R16,533,,1,3,WC,Strong Kirchheimer,Victor Lilov,W/O,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M15 Edwardsville IL,3,Hard,R32,533,964,1,3,Q,Strong Kirchheimer,Reese Stalder,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M15 Weston FL,3,Clay,QF,518,807,0,8,Q,Liam Draxl,Strong Kirchheimer,6-3 5-7 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M15 Champaign IL,3,Hard,R32,513,802,0,,Q,Connor Farren,Strong Kirchheimer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Tulsa OK,3,Hard,R32,510,422,0,,,Diego Hidalgo,Strong Kirchheimer,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,Orlando 2 CH,3,Hard,Q1,501,365,0,WC,6,Nicolas Alvarez,Strong Kirchheimer,6-3 7-5,0.75,5.9%,10.3%,47.1%,59.4%,50.0%,2/6,44.4%,34.3%,4.5%,27.0%,43.3%,1/6,135,4,7,68,32,36,3,1:53
+31-May-2021,Little Rock CH,3,Hard,Q2,501,366,0,,1,Stefan Kozlov,Strong Kirchheimer,6-3 6-2,0.54,1.7%,3.4%,57.6%,61.8%,48.0%,4/7,41.3%,24.0%,12.0%,13.0%,33.3%,0/1,109,1,2,59,34,25,6,1:15
+31-May-2021,Little Rock CH,3,Hard,Q1,501,411,1,,8,Strong Kirchheimer,Aleksandar Kovacevic,6-4 6-7(5) 7-6(2),1.35,12.7%,5.9%,50.0%,80.4%,62.7%,1/3,52.8%,38.3%,13.5%,29.0%,48.4%,3/9,235,13,6,102,51,51,18,2:44
+17-May-2021,M25 Pensacola FL,3,Clay,R16,496,641,0,,Q,Nicolas Kicker,Strong Kirchheimer,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Pensacola FL,3,Clay,R32,496,559,1,,,Strong Kirchheimer,Ricardo Rodriguez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,Tallahassee CH,3,Clay,Q2,504,319,0,Alt,1,Alexander Ritschard,Strong Kirchheimer,6-0 7-6(4),0.56,1.6%,3.2%,64.5%,57.5%,36.4%,1/5,39.7%,27.8%,13.0%,22.9%,36.8%,1/3,116,1,2,62,40,22,7,1:18
+19-Apr-2021,Tallahassee CH,3,Clay,Q1,504,389,1,Alt,8,Strong Kirchheimer,Denis Yevseyev,6-4 4-6 6-4,0.95,2.3%,0.0%,67.4%,63.8%,50.0%,4/8,49.1%,38.6%,7.2%,31.3%,63.2%,5/9,169,2,0,86,58,28,6,1:57
+15-Mar-2021,Cleveland CH,3,Hard,Q2,498,521,0,3,5,Alexis Galarneau,Strong Kirchheimer,7-6(4) 1-6 6-4,0.95,0.9%,3.6%,58.9%,63.6%,50.0%,11/15,49.5%,39.8%,5.1%,32.8%,50.0%,5/9,210,1,4,112,66,46,5,2:50
+22-Feb-2021,M25 Naples FL,3,Clay,R16,491,202,0,,1,Mitchell Krueger,Strong Kirchheimer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Naples FL,3,Clay,R32,491,1561,1,,WC,Strong Kirchheimer,Fletcher Scott,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,R16,489,453,0,,,Alejandro Gonzalez,Strong Kirchheimer,3-6 7-6(0) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M25 Naples FL,3,Clay,R32,489,300,1,,5,Strong Kirchheimer,Jc Aragone,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,Orlando CH,3,Hard,Q1,476,388,0,,6,Sadio Doumbia,Strong Kirchheimer,3-6 7-5 6-2,0.77,10.8%,2.9%,58.8%,71.7%,47.6%,8/11,47.8%,29.5%,9.0%,23.5%,40.7%,1/3,180,11,3,102,60,42,7,2:19
+9-Nov-2020,Cary CH,3,Hard,Q1,476,301,0,,5,Alexander Ritschard,Strong Kirchheimer,6-3 6-4,0.70,2.6%,3.8%,50.0%,59.0%,51.3%,6/9,45.2%,31.6%,5.3%,22.2%,40.0%,1/4,135,2,3,78,39,39,3,1:51
+28-Sep-2020,M15 Forbach,3,Carpet,R32,483,549,0,4,,Antoine Bellier,Strong Kirchheimer,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,F,478,459,0,7,6,Lucas Catarina,Strong Kirchheimer,6-3 2-6 7-6(11),,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,SF,478,525,1,7,,Strong Kirchheimer,Riccardo Balzerani,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,QF,478,578,1,7,,Strong Kirchheimer,Joao Lucas Reis Da Silva,3-6 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R16,478,1434,1,7,Q,Strong Kirchheimer,Leopold Zima,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M15 Castelo Branco,3,Hard,R32,478,881,1,7,Q,Strong Kirchheimer,Olukayode Alafia Damina Ayeni,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M25+H Plaisir,3,Hard,R32,478,344,0,,7,Baptiste Crepatte,Strong Kirchheimer,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,Columbus CH,3,Hard,R16,490,326,0,Alt,,Kaichi Uchida,Strong Kirchheimer,6-4 1-6 7-6(4),0.93,15.8%,2.1%,66.3%,71.4%,50.0%,3/5,49.7%,33.3%,9.5%,27.1%,41.7%,3/4,179,15,2,95,63,32,8,1:50
+24-Feb-2020,Columbus CH,3,Hard,R32,490,189,1,Alt,10,Strong Kirchheimer,Peter Polansky,4-6 6-1 7-6(5),1.04,14.0%,4.4%,67.5%,71.4%,51.4%,5/6,52.2%,36.6%,15.1%,22.0%,53.5%,2/6,207,16,5,114,77,37,14,2:14
+24-Feb-2020,Columbus CH,3,Hard,R64,490,289,1,Alt,,Strong Kirchheimer,Jose Hernandez,4-6 6-2 6-3,1.30,9.2%,0.0%,55.3%,76.2%,58.8%,2/3,54.0%,41.2%,4.7%,30.6%,55.6%,4/7,161,7,0,76,42,34,4,1:48
+17-Feb-2020,Drummondville CH,3,Hard,R32,506,92,0,,1,Dominik Koepfer,Strong Kirchheimer,7-5 4-6 6-3,1.03,11.8%,1.2%,68.2%,74.1%,51.9%,3/6,49.5%,34.0%,5.2%,23.8%,52.9%,2/8,182,10,1,85,58,27,5,1:46
+17-Feb-2020,Drummondville CH,3,Hard,R64,506,328,1,,WC,Strong Kirchheimer,Filip Peliwo,6-3 6-4,1.34,26.2%,0.0%,73.8%,71.1%,56.3%,4/5,55.1%,43.9%,6.1%,30.8%,63.0%,3/7,127,16,0,61,45,16,4,1:23
+10-Feb-2020,M15 Cancun,3,Hard,QF,504,527,0,5,4,Gabriel Petit,Strong Kirchheimer,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Cancun,3,Hard,R16,504,1063,1,5,WC,Strong Kirchheimer,Aron Pierce,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M15 Cancun,3,Hard,R32,504,759,1,5,,Strong Kirchheimer,Michel Vernier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M15 Cancun,3,Hard,R32,543,1050,0,7,,Zane Khan,Strong Kirchheimer,5-7 7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,F,551,629,1,6,,Strong Kirchheimer,Dusty H Boyer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,SF,551,,1,6,WC,Strong Kirchheimer,Chad Kissell,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,QF,551,469,1,6,1,Strong Kirchheimer,Nick Chappell,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,R16,551,691,1,6,,Strong Kirchheimer,Mark Whitehouse,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,R32,551,1047,1,6,,Strong Kirchheimer,Alejo Lorenzo Lingua Lavallen,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,QF,551,468,0,,4,Jordi Arconada,Strong Kirchheimer,6-4 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,R16,551,884,1,,Q,Strong Kirchheimer,Ignacio Carou,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Cancun,3,Hard,R32,551,493,1,,6,Strong Kirchheimer,Gage Brymer,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15 Cancun,3,Hard,R32,548,,0,6,,Mateus Alves,Strong Kirchheimer,4-6 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+6-Jan-2020,Ann Arbor CH,3,Hard,R64,553,419,0,Q,,Ulises Blanch,Strong Kirchheimer,6-3 7-6(6),0.81,7.7%,3.1%,67.7%,65.9%,42.9%,2/5,45.9%,33.8%,20.6%,17.1%,59.3%,2/3,133,5,2,65,44,21,14,1:32
+6-Jan-2020,Ann Arbor CH,3,Hard,Q1,553,518,1,WC,1,Strong Kirchheimer,Gabriel Petit,6-4 6-2,1.77,20.8%,3.8%,69.8%,75.7%,75.0%,4/4,57.4%,43.5%,5.8%,35.3%,51.4%,3/10,122,11,2,53,37,16,4,1:09
+2-Dec-2019,M15 Tallahassee FL,3,Hard,SF,560,813,0,4,8,Guy Orly Iradukunda,Strong Kirchheimer,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Tallahassee FL,3,Hard,QF,560,863,1,4,7,Strong Kirchheimer,Jack Findel Hawkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Tallahassee FL,3,Hard,R16,560,,1,4,Q,Strong Kirchheimer,Jason Kros,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Tallahassee FL,3,Hard,R32,560,1671,1,4,LL,Strong Kirchheimer,Abraham Asaba,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 East Lansing MI,3,Hard,QF,576,445,0,,4,Lucas Gerch,Strong Kirchheimer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 East Lansing MI,3,Hard,R16,576,960,1,,,Strong Kirchheimer,Justin Boulais,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M15 East Lansing MI,3,Hard,R32,576,1225,1,,WC,Strong Kirchheimer,Keenan Mayo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,Champaign-Urbana CH,3,Hard,R64,543,377,0,,,Brandon Nakashima,Strong Kirchheimer,6-3 6-7(4) 6-1,0.77,6.3%,3.8%,62.0%,73.5%,50.0%,4/7,44.9%,27.3%,14.8%,16.1%,46.9%,0/1,167,5,3,79,49,30,13,1:46
+4-Nov-2019,Knoxville CH,3,Hard,R64,530,317,0,Q,,Sekou Bangoura,Strong Kirchheimer,6-2 6-7(9) 6-3,0.87,7.4%,2.1%,54.3%,66.7%,55.8%,0/4,46.3%,33.3%,8.1%,28.6%,41.5%,1/4,205,7,2,94,51,43,9,2:25
+4-Nov-2019,Knoxville CH,3,Hard,Q1,530,436,1,,2,Strong Kirchheimer,Lloyd Glasspool,6-1 7-5,1.52,4.8%,1.6%,71.4%,71.1%,72.2%,3/3,57.7%,43.3%,10.0%,27.8%,66.7%,3/6,123,3,1,63,45,18,6,1:09
+21-Oct-2019,M25 Fayetteville AR,3,Hard,R16,530,839,0,,,Aleksandar Kovacevic,Strong Kirchheimer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2019,M25 Fayetteville AR,3,Hard,R32,530,959,1,,Q,Strong Kirchheimer,Timo Stodder,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Waco TX,3,Hard,R16,530,486,0,,3,Ben Patael,Strong Kirchheimer,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2019,M25 Waco TX,3,Hard,R32,530,497,1,,,Strong Kirchheimer,Alexander Sarkissian,7-5 RET,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,Fairfield CH,3,Hard,R64,534,358,0,Alt,,Evan King,Strong Kirchheimer,6-7(5) 6-3 6-4,0.72,6.4%,6.4%,63.3%,63.8%,67.5%,9/11,47.0%,25.3%,11.0%,17.2%,39.4%,0/1,200,7,7,109,69,40,10,2:18
+30-Sep-2019,M25 Norman OK,3,Hard,R16,515,342,0,,2,Sebastian Fanselow,Strong Kirchheimer,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2019,M25 Norman OK,3,Hard,R32,515,589,1,,,Strong Kirchheimer,Andrew Watson,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2019,Columbus CH,3,Hard,R32,518,187,0,,6,Enzo Couacaud,Strong Kirchheimer,2-6 7-5 6-0,0.84,6.5%,2.6%,72.7%,62.5%,47.6%,3/7,46.8%,35.1%,11.7%,23.8%,48.6%,2/4,154,5,2,77,56,21,9,1:53
+16-Sep-2019,Columbus CH,3,Hard,R64,518,,1,,WC,Strong Kirchheimer,Robert Cash,6-3 6-4,1.65,14.8%,0.0%,66.7%,80.6%,66.7%,0/0,56.4%,39.7%,0.0%,27.8%,55.6%,2/8,117,8,0,54,36,18,0,1:16
+9-Sep-2019,Cary CH,3,Hard,R64,517,408,0,,,Kevin King,Strong Kirchheimer,6-4 2-6 6-2,0.75,3.5%,7.1%,63.5%,64.8%,45.2%,4/8,45.9%,31.9%,13.9%,28.6%,39.1%,3/6,157,3,6,85,54,31,10,1:49
+2-Sep-2019,New Haven CH,3,Hard,R32,553,188,0,Alt,15,Christopher Eubanks,Strong Kirchheimer,7-6(4) 6-4,0.65,6.3%,1.3%,65.8%,67.3%,48.1%,7/9,45.1%,25.4%,22.2%,11.1%,44.4%,1/4,142,5,1,79,52,27,14,1:34
+2-Sep-2019,New Haven CH,3,Hard,R64,553,206,1,Alt,,Strong Kirchheimer,Ernesto Escobedo,6-4 6-4,1.10,10.7%,3.6%,50.0%,71.4%,53.6%,2/4,51.8%,41.4%,0.0%,29.0%,55.6%,4/6,114,6,2,56,28,28,0,1:21
+19-Aug-2019,Winston-Salem,3,Hard,Q2,550,105,0,Alt,1,Damir Dzumhur,Strong Kirchheimer,4-6 6-2 6-1,0.67,9.4%,8.2%,63.5%,64.8%,32.3%,4/9,42.7%,31.6%,19.0%,26.4%,42.3%,1/6,164,8,7,85,54,31,15,1:48
+19-Aug-2019,Winston-Salem,3,Hard,Q1,550,353,1,Alt,8,Strong Kirchheimer,Kevin Krawietz,4-6 6-2 6-4,1.16,8.4%,2.4%,71.1%,69.5%,50.0%,4/7,53.5%,42.1%,13.2%,34.7%,55.6%,5/8,159,7,2,83,59,24,10,1:38
+12-Aug-2019,M25 Memphis TN,3,Hard,R16,552,337,0,,,Roberto Cid,Strong Kirchheimer,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,M25 Memphis TN,3,Hard,R32,552,1450,1,,Q,Strong Kirchheimer,Sergey Belov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R16,549,811,0,,,Ezekiel Clark,Strong Kirchheimer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M25 Edwardsville IL,3,Hard,R32,549,1036,1,,,Strong Kirchheimer,Luis Patino,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,Lexington CH,3,Hard,R64,643,370,0,ITF,,Sekou Bangoura,Strong Kirchheimer,4-6 6-1 6-4,0.84,8.9%,4.0%,65.3%,65.2%,48.6%,8/11,47.0%,34.0%,6.2%,34.3%,33.3%,1/7,198,9,4,101,66,35,6,2:12
+22-Jul-2019,Binghamton CH,3,Hard,R32,,169,0,ITF,4,Dudi Sela,Strong Kirchheimer,7-5 6-2,0.65,6.1%,0.0%,66.7%,52.3%,59.1%,5/9,43.3%,29.6%,3.7%,15.4%,42.9%,1/2,120,4,0,66,44,22,2,1:17
+22-Jul-2019,Binghamton CH,3,Hard,R64,,379,1,ITF,,Strong Kirchheimer,Alejandro Gonzalez,7-6(5) 6-3,1.16,2.9%,2.9%,65.7%,67.4%,45.8%,1/3,52.1%,46.2%,5.4%,31.8%,59.2%,4/13,163,2,2,70,46,24,5,2:03
+1-Jul-2019,M15 Pittsburgh PA,3,Clay,R32,,,0,,JR   ,Drew Baird,Strong Kirchheimer,7-6(3) 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Rochester NY,3,Clay,F,,,0,,,Diego Hidalgo,Strong Kirchheimer,7-6(8) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Rochester NY,3,Clay,SF,,,1,,,Strong Kirchheimer,Simon Freund,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Rochester NY,3,Clay,QF,,630,1,,2,Strong Kirchheimer,Ricardo Rodriguez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Rochester NY,3,Clay,R16,,,1,,,Strong Kirchheimer,Blaise Bicknell,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2019,M15 Rochester NY,3,Clay,R32,,,1,,,Strong Kirchheimer,Vasil Kirkov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Orlando FL,3,Clay,SF,,624,0,,2,Ricardo Rodriguez,Strong Kirchheimer,4-6 6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Orlando FL,3,Clay,QF,,,1,,4,Strong Kirchheimer,Paul C Oosterbaan,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Orlando FL,3,Clay,R16,,,1,,,Strong Kirchheimer,Logan Zapp,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2019,M15 Orlando FL,3,Clay,R32,,,1,,Q,Strong Kirchheimer,Alexander Knight,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M25 Wichita KS,3,Hard,R32,,386,0,IR  ,,Martin Redlicki,Strong Kirchheimer,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M15 Champaign IL,3,Hard,F,,,0,6,Q,Nathan Ponwith,Strong Kirchheimer,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M15 Champaign IL,3,Hard,SF,,,1,6,5,Strong Kirchheimer,Diego Hidalgo,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M15 Champaign IL,3,Hard,QF,,472,1,6,,Strong Kirchheimer,Tom Fawcett,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M15 Champaign IL,3,Hard,R16,,,1,6,,Strong Kirchheimer,Herbert Jody Maginley,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2019,M15 Champaign IL,3,Hard,R32,,,1,6,,Strong Kirchheimer,Luke Jacob Gamble,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,M25 Pensacola FL,3,Clay,R32,,620,0,IR  ,,Ricardo Rodriguez,Strong Kirchheimer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2019,M15 Orange Park FL,3,Clay,R32,,,0,,Q,Kevin Major,Strong Kirchheimer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,QF,679,,0,IR  ,WC,Jenson Brooksby,Strong Kirchheimer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,R16,679,429,1,IR  ,8,Strong Kirchheimer,Tobias Simon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M25 Bakersfield CA,3,Hard,R32,679,,1,IR  ,,Strong Kirchheimer,Drew Baird,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Tucson AZ,3,Hard,R16,681,,0,,JR   ,Liam Draxl,Strong Kirchheimer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Tucson AZ,3,Hard,R32,681,,1,,WC,Strong Kirchheimer,Alexios Halebian,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M25 Weston FL,3,Clay,R16,679,596,0,,,Joao Lucas Reis Da Silva,Strong Kirchheimer,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2019,M25 Weston FL,3,Clay,R32,679,403,1,,3,Strong Kirchheimer,Sekou Bangoura,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2019,M25 Palm Coast FL,3,Clay,R32,670,446,0,IR  ,,Harrison Adams,Strong Kirchheimer,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,R32,670,403,0,,,Sekou Bangoura,Strong Kirchheimer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2019,M25 Tucson AZ,3,Hard,R16,672,443,0,,3,Martin Redlicki,Strong Kirchheimer,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2019,M25 Tucson AZ,3,Hard,R32,672,,1,,,Strong Kirchheimer,Zachary Svajda,7-6(9) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,USA F34,3,Hard,R16,505,720,0,,,Maxime Cressy,Strong Kirchheimer,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Nov-2018,USA F34,3,Hard,R32,505,1328,1,,Q,Strong Kirchheimer,Julian Bradley,7-6(1) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,USA F30,3,Clay,F,595,1060,0,2,,Nicolas Mejia,Strong Kirchheimer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,USA F30,3,Clay,SF,595,892,1,2,4,Strong Kirchheimer,Justin Butsch,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,USA F30,3,Clay,QF,595,,1,2,,Strong Kirchheimer,Dragos Constantin Ignat,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,USA F30,3,Clay,R16,595,1720,1,2,,Strong Kirchheimer,Cannon Kingsley,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,USA F30,3,Clay,R32,595,,1,2,,Strong Kirchheimer,Agustin Savarino,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,USA F29,3,Clay,F,597,818,0,2,5,Ricardo Rodriguez,Strong Kirchheimer,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,USA F29,3,Clay,SF,597,892,1,2,,Strong Kirchheimer,Justin Butsch,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,USA F29,3,Clay,QF,597,1064,1,2,,Strong Kirchheimer,Haru Inoue,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,USA F29,3,Clay,R16,597,1059,1,2,,Strong Kirchheimer,Andres Andrade,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2018,USA F29,3,Clay,R32,597,1188,1,2,,Strong Kirchheimer,Boris Butulija,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2018,Calgary  CH,3,Hard,Q2,550,470,0,,4,Takanyi Garanganga,Strong Kirchheimer,7-6(4) 6-3,1.07,8.5%,6.8%,69.5%,80.5%,33.3%,3/5,47.5%,36.4%,14.1%,20.0%,56.8%,1/14,158,5,4,59,41,18,14,1:47
+8-Oct-2018,Fairfield CH,3,Hard,Q1,551,252,0,,1,Mitchell Krueger,Strong Kirchheimer,7-6(4) 6-4,0.75,4.4%,2.9%,66.2%,62.2%,52.2%,2/5,44.9%,30.9%,5.9%,26.1%,40.9%,2/3,136,3,2,68,45,23,4,1:35
+24-Sep-2018,USA F26,3,Hard,SF,567,592,0,2,4,Takuto Niki,Strong Kirchheimer,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,USA F26,3,Hard,QF,567,,1,2,,Strong Kirchheimer,Paul C Oosterbaan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,USA F26,3,Hard,R16,567,1148,1,2,,Strong Kirchheimer,Tim Ruehl,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,USA F26,3,Hard,R32,567,,1,2,,Strong Kirchheimer,Korey Lovett,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Columbus CH,3,Hard,Q3,566,381,0,,3,Evan Song,Strong Kirchheimer,7-5 3-6 6-3,0.97,3.2%,1.1%,67.7%,65.1%,60.0%,4/7,49.2%,35.4%,6.3%,28.6%,48.5%,2/7,189,3,1,93,63,30,6,2:28
+17-Sep-2018,Columbus CH,3,Hard,Q2,566,,1,,WC,Strong Kirchheimer,Kyle Seelig,4-6 6-2 7-6(5),1.18,11.3%,2.1%,59.8%,77.6%,46.2%,5/8,52.4%,41.4%,1.8%,39.5%,45.7%,4/10,208,11,2,97,58,39,2,2:24
+17-Sep-2018,Columbus CH,3,Hard,Q1,566,442,1,,8,Strong Kirchheimer,Blake Ellis,6-1 6-4,1.88,21.3%,2.1%,66.0%,80.6%,75.0%,3/3,59.8%,40.0%,4.4%,31.6%,46.2%,3/4,92,10,1,47,31,16,2,0:58
+10-Sep-2018,Cary CH,3,Hard,Q2,569,520,0,,,J J Wolf,Strong Kirchheimer,6-4 4-6 6-2,0.83,6.3%,2.5%,73.8%,69.5%,57.1%,1/4,47.2%,27.8%,12.7%,18.4%,43.3%,1/6,159,5,2,80,59,21,10,1:46
+10-Sep-2018,Cary CH,3,Hard,Q1,569,430,1,,7,Strong Kirchheimer,Pablo Vivero Gonzalez,6-3 3-6 6-2,1.31,25.6%,5.1%,71.8%,75.0%,54.5%,3/4,53.5%,40.2%,8.7%,31.0%,55.9%,3/7,170,20,4,78,56,22,8,1:47
+3-Sep-2018,Chicago CH,3,Hard,Q1,569,441,0,,,Jared Hiltzik,Strong Kirchheimer,7-5 7-6(9),0.81,2.5%,2.5%,67.1%,73.6%,61.5%,6/8,48.0%,24.7%,13.7%,16.0%,43.5%,1/1,152,2,2,79,53,26,10,1:51
+13-Aug-2018,USA F23,3,Hard,QF,583,421,0,,3,Sekou Bangoura,Strong Kirchheimer,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,R16,583,781,1,,,Strong Kirchheimer,Luis Patino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,USA F23,3,Hard,R32,583,1193,1,,WC,Strong Kirchheimer,Brian Shi,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,USA F22,3,Hard,R16,590,1695,0,,,Axel Geller,Strong Kirchheimer,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,USA F22,3,Hard,R32,590,1256,1,,WC,Strong Kirchheimer,Colin Markes,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Lexington CH,3,Hard,Q2,594,523,0,,4,Alex Rybakov,Strong Kirchheimer,4-6 7-5 6-3,1.08,6.5%,7.8%,61.0%,80.9%,50.0%,2/5,48.4%,33.6%,7.5%,28.0%,46.9%,2/12,184,5,6,77,47,30,8,2:07
+30-Jul-2018,Lexington CH,3,Hard,Q1,594,936,1,,,Strong Kirchheimer,Nick Chappell,4-6 6-2 6-3,1.20,6.1%,1.2%,64.6%,66.0%,72.4%,6/8,54.2%,38.0%,7.0%,37.8%,38.2%,4/4,153,5,1,82,53,29,5,1:44
+16-Jul-2018,USA F19B,3,Hard,R16,605,,0,8,WC,Kareem Allaf,Strong Kirchheimer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2018,USA F19B,3,Hard,R32,605,,1,8,,Strong Kirchheimer,Piotr Smietana,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2018,Winnetka CH,3,Hard,Q2,616,465,0,,4,Luke Saville,Strong Kirchheimer,6-2 6-4,0.88,3.8%,5.7%,58.5%,54.8%,68.2%,3/6,45.6%,34.7%,5.6%,29.7%,40.0%,0/14,125,2,3,53,31,22,4,1:20
+9-Jul-2018,Winnetka CH,3,Hard,Q1,616,1606,1,,WC,Strong Kirchheimer,Mcclain Kessler,6-1 7-5,1.79,12.2%,4.1%,67.3%,78.8%,56.3%,2/3,59.1%,51.3%,2.6%,47.6%,55.6%,5/12,127,6,2,49,33,16,2,1:19
+25-Jun-2018,USA F18,3,Clay,QF,621,1786,0,2,,Jordi Arconada,Strong Kirchheimer,7-6(3) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,USA F18,3,Clay,R16,621,,1,2,WC,Strong Kirchheimer,Axel Nefve,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2018,USA F18,3,Clay,R32,621,1601,1,2,,Strong Kirchheimer,Temur Ismailov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,USA F15,3,Hard,R16,630,398,0,,6,Karue Sell,Strong Kirchheimer,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2018,USA F15,3,Hard,R32,630,750,1,,,Strong Kirchheimer,Sem Verbeek,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,USA F13,3,Hard,R16,631,916,0,,,Ryan Peniston,Strong Kirchheimer,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,USA F13,3,Hard,R32,631,430,1,,6,Strong Kirchheimer,Samuel Monette,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2018,Savannah CH,3,Clay,R32,645,192,0,WC,,Reilly Opelka,Strong Kirchheimer,6-4 6-3,0.60,1.6%,3.2%,67.7%,69.0%,55.0%,3/5,44.7%,21.2%,13.5%,15.6%,30.0%,0/0,114,1,2,62,42,20,7,1:12
+23-Apr-2018,USA F12,3,Clay,SF,644,667,0,4,,Juan Manuel Benitez Chavarriaga,Strong Kirchheimer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,USA F12,3,Clay,QF,644,822,1,4,,Strong Kirchheimer,Alejandro Tabilo,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,USA F12,3,Clay,R16,644,,1,4,,Strong Kirchheimer,Juan Alejandro Hernandez Serrano,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,USA F12,3,Clay,R32,644,,1,4,,Strong Kirchheimer,Karl Poling,6-3 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Apr-2018,Sarasota CH,3,Clay,Q2,651,296,0,,5,Kaichi Uchida,Strong Kirchheimer,6-3 6-3,0.72,7.7%,9.6%,53.8%,60.7%,33.3%,2/7,42.7%,37.3%,3.9%,25.0%,52.2%,2/3,103,4,5,52,28,24,2,0:58
+9-Apr-2018,USA F10,3,Hard,R16,649,356,0,,,Nicolaas Scholtz,Strong Kirchheimer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2018,USA F10,3,Hard,R32,649,1357,1,,,Strong Kirchheimer,Christopher G Haworth,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Canada F2,3,Hard,R32,783,767,0,,PR,Alejandro Gomez Gb42,Strong Kirchheimer,6-2 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,F,787,331,0,,6,Ugo Humbert,Strong Kirchheimer,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,SF,787,760,1,,Q,Strong Kirchheimer,Florian Lakat,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,QF,787,758,1,,,Strong Kirchheimer,Danny Thomas,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,R16,787,494,1,,,Strong Kirchheimer,Ronnie Schneider,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2018,Canada F1,3,Hard,R32,787,318,1,,2,Strong Kirchheimer,Joris De Loore,7-6(8) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,USA F6,3,Clay,SF,880,1312,0,,PR,Tim Van Rijthoven,Strong Kirchheimer,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,USA F6,3,Clay,QF,880,785,1,,,Strong Kirchheimer,Florian Lakat,7-6(2) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,USA F6,3,Clay,R16,880,1753,1,,WC,Strong Kirchheimer,Gabriel Ciro Da Silva,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2018,USA F6,3,Clay,R32,880,534,1,,4,Strong Kirchheimer,Genaro Alberto Olivieri,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2018,USA F4,3,Clay,R32,1013,1241,0,,Q,Duarte Vale,Strong Kirchheimer,6-2 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,SF,1011,258,0,LL,,Javier Marti,Strong Kirchheimer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,QF,1011,820,1,LL,,Strong Kirchheimer,Ricardo Rodriguez,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,R16,1011,714,1,LL,,Strong Kirchheimer,Jaume Pla Malfeito,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,R32,1011,1069,1,LL,,Strong Kirchheimer,Luis David Martinez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,USA F38,3,Hard,R16,891,847,0,,,Evan Zhu,Strong Kirchheimer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2017,USA F38,3,Hard,R32,891,324,1,,3,Strong Kirchheimer,Sebastian Fanselow,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Champaign CH,3,Hard,Q1,896,1134,0,,,Danny Thomas,Strong Kirchheimer,7-6(5) 6-4,0.72,6.5%,12.0%,52.2%,64.6%,56.8%,7/9,46.6%,28.2%,1.4%,31.1%,23.1%,1/5,163,6,11,92,48,44,1,1:32
+6-Nov-2017,USA F36,3,Clay,R32,901,614,0,Q,,Roberto Cid,Strong Kirchheimer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,USA F35,3,Clay,R32,902,1324,0,,Q,Samuel Shropshire,Strong Kirchheimer,7-6(3) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,USA F34,3,Hard,SF,1123,1106,0,,,J J Wolf,Strong Kirchheimer,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,USA F34,3,Hard,QF,1123,886,1,,,Strong Kirchheimer,Ryan Haviland,6-7(5) 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,USA F34,3,Hard,R16,1123,657,1,,,Strong Kirchheimer,Ronnie Schneider,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,USA F34,3,Hard,R32,1123,,1,,WC,Strong Kirchheimer,Jordi Arconada,6-4 6-7(8) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,USA F32,3,Hard,R16,1176,797,0,,,Karue Sell,Strong Kirchheimer,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,USA F32,3,Hard,R32,1176,1406,1,,Q,Strong Kirchheimer,Vasil Kirkov,6-3 3-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,USA F30,3,Hard,R32,1172,897,0,Q,,Igor Ribeiro Marcondes,Strong Kirchheimer,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,USA F26,3,Hard,R32,1038,604,0,,3,Harry Bourchier,Strong Kirchheimer,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2017,USA F25,3,Hard,R32,1024,826,0,,,Santiago Fa Rodriguez Taverna,Strong Kirchheimer,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,USA F24,3,Hard,R32,1025,418,0,,4,Jared Hiltzik,Strong Kirchheimer,6-1 3-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+10-Jul-2017,Winnetka CH,3,Hard,R32,961,328,0,WC,,Luke Saville,Strong Kirchheimer,2-6 6-4 7-5,0.92,4.3%,5.3%,48.9%,71.7%,54.2%,3/6,48.4%,34.4%,6.3%,20.8%,47.9%,3/10,190,4,5,94,46,48,6,2:23
+3-Jul-2017,USA F23,3,Hard,R32,962,1597,0,8,WC,Felix Corwin,Strong Kirchheimer,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2017,USA F22,3,Clay,R32,950,808,0,,,Hunter Callahan,Strong Kirchheimer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,USA F20,3,Clay,R32,948,532,0,,3,Kaichi Uchida,Strong Kirchheimer,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,R16,1007,777,0,,,Caio Silva,Strong Kirchheimer,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Puerto Rico F1,3,Hard,R32,1007,729,1,,8,Strong Kirchheimer,Thales Turini,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2016,Columbus CH,3,Hard,R32,1197,288,0,Q,8,Sam Barry,Strong Kirchheimer,7-5 6-4,0.68,4.3%,3.3%,70.7%,69.2%,37.0%,13/15,46.2%,27.3%,13.6%,13.6%,54.5%,0/0,158,4,3,92,65,27,9,2:08
+21-Nov-2016,Columbus CH,3,Hard,Q3,1197,1353,1,,,Strong Kirchheimer,Damon Gooch,6-1 2-6 6-4,1.23,3.0%,1.5%,79.1%,75.5%,42.9%,0/3,53.8%,38.5%,1.5%,38.1%,39.1%,4/5,132,2,1,67,53,14,1,1:51
+21-Nov-2016,Columbus CH,3,Hard,Q2,1197,820,1,,5,Strong Kirchheimer,Fares Ghasya,2-6 6-4 6-1,1.17,17.1%,3.9%,72.4%,72.7%,38.1%,3/6,52.1%,43.0%,6.5%,37.7%,58.3%,4/17,169,13,3,76,55,21,6,1:45
+21-Nov-2016,Columbus CH,3,Hard,Q1,1197,,1,,WC,Strong Kirchheimer,Matthew Mendez,6-3 6-4,1.23,4.5%,4.5%,62.1%,80.5%,52.0%,4/4,54.4%,37.3%,1.7%,30.3%,46.2%,2/5,125,3,3,66,41,25,1,1:19
+19-Sep-2016,Columbus CH,3,Hard,Q1,1128,1232,0,,,Skander Mansouri,Strong Kirchheimer,7-6(6) 7-6(5),0.99,1.3%,1.3%,62.7%,72.3%,82.1%,0/0,48.4%,23.8%,11.9%,16.7%,33.3%,0/4,159,1,1,75,47,28,10,2:05
+12-Sep-2016,Cary CH,3,Hard,Q3,1138,409,0,,4,Erik Crepaldi,Strong Kirchheimer,6-4 3-6 6-4,0.93,7.7%,5.5%,68.1%,74.2%,55.2%,8/10,50.0%,29.6%,4.9%,27.5%,33.3%,1/4,172,7,5,91,62,29,4,2:02
+12-Sep-2016,Cary CH,3,Hard,Q2,1138,1230,1,,,Strong Kirchheimer,Skander Mansouri,6-7(3) 6-4 6-2,1.23,6.3%,4.2%,65.6%,73.0%,51.5%,5/7,53.5%,42.5%,15.1%,32.7%,52.9%,5/16,202,6,4,96,63,33,16,2:27
+12-Sep-2016,Cary CH,3,Hard,Q1,1138,494,1,,6,Strong Kirchheimer,Luke Bambridge,7-6(5) 6-3,1.06,6.3%,3.8%,65.0%,73.1%,53.6%,2/3,52.8%,35.9%,15.6%,38.7%,33.3%,2/7,144,5,3,80,52,28,10,1:41
+5-Sep-2016,Canada F7,3,Clay,R32,1150,423,0,Q,5,Jose Rubin Statham,Strong Kirchheimer,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,USA F27,3,Hard,QF,1415,627,0,WC,,Wil Spencer,Strong Kirchheimer,3-6 7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,USA F27,3,Hard,R16,1415,262,1,WC,1,Strong Kirchheimer,Tennys Sandgren,7-5 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,USA F27,3,Hard,R32,1415,,1,WC,WC,Strong Kirchheimer,Jeffrey Schorsch,4-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,USA F26,3,Hard,R16,1403,445,0,Q,,Roberto Quiroz,Strong Kirchheimer,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2016,USA F26,3,Hard,R32,1403,325,1,Q,2,Strong Kirchheimer,Blake Mott,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,USA F25,3,Hard,R32,1405,444,0,WC,,Roberto Quiroz,Strong Kirchheimer,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Winnetka CH,3,Hard,Q1,1825,366,0,,6,Alex Kuznetsov,Strong Kirchheimer,W/O,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,R16,1825,336,0,Q,1,Gavin Van Peperzeel,Strong Kirchheimer,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,USA F22,3,Clay,R32,1825,1220,1,Q,LL,Strong Kirchheimer,Carlos Ramirez Utermann,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,USA F20,3,Clay,R16,1834,411,0,Q,2,Kaichi Uchida,Strong Kirchheimer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,USA F20,3,Clay,R32,1834,1715,1,Q,Q,Strong Kirchheimer,Korey Lovett,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,USA F28,3,Hard,R16,,519,0,Q,3,Wil Spencer,Strong Kirchheimer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,USA F28,3,Hard,R32,,1866,1,Q,WC,Strong Kirchheimer,Martin Redlicki,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2015,USA F24,3,Hard,R32,,416,0,Q,8,Matt Reid,Strong Kirchheimer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,USA F16A,3,Hard,R32,,788,0,Q,,Raymond Sarmiento,Strong Kirchheimer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2013,Winston-Salem,3,Hard,Q1,,577,0,WC,,Jesse Witten,Strong Kirchheimer,6-4 6-4,0.69,3.1%,3.1%,75.0%,54.2%,62.5%,3/7,44.7%,30.0%,14.0%,25.8%,36.8%,2/3,114,2,2,64,48,16,7,1:03
+29-Jul-2013,USA F21,3,Hard,Q4,,,0,,,Denny Fafek,Strong Kirchheimer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,

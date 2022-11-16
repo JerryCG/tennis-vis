@@ -1,0 +1,491 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+28-Jun-2021,M15 Weston FL,3,Clay,R16,1568,807,0,Q,Q,Liam Draxl,Jesse Witten,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M25 Naples FL,3,Clay,R32,1517,844,0,WC,WC,Zane Khan,Jesse Witten,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,R16,1755,,0,Q,WC,Chad Kissell,Jesse Witten,3-6 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jan-2020,M15 Cancun,3,Hard,R32,1755,1392,1,Q,WC,Jesse Witten,Jose Pereira,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2019,M25 Naples FL,3,Clay,R32,1694,410,0,,,Genaro Alberto Olivieri,Jesse Witten,6-3 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M25 Naples FL,3,Clay,R16,,529,0,Q,,Simon Carr,Jesse Witten,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2019,M25 Naples FL,3,Clay,R32,,605,1,Q,,Jesse Witten,Jose Olivares,7-5 7-6(0),,,,,,,,,,,,,,,,,,,,,
+14-Jan-2019,M15 Naples FL,3,Clay,R32,,565,0,,,Nicolas Alvarez,Jesse Witten,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Lexington CH,3,Hard,Q2,1195,686,0,,,Mikael Torpegaard,Jesse Witten,6-3 2-6 7-5,0.97,5.8%,3.8%,65.4%,67.6%,38.9%,8/12,49.3%,41.0%,2.9%,33.9%,50.0%,4/9,209,6,4,104,68,36,3,2:01
+30-Jul-2018,Lexington CH,3,Hard,Q1,1195,513,1,,5,Jesse Witten,N Vijay Sundar Prashanth,6-4 6-4,1.53,10.7%,3.6%,57.1%,78.1%,66.7%,1/2,56.4%,41.0%,4.9%,36.4%,46.4%,3/7,117,6,2,56,32,24,3,1:15
+22-Jan-2018,USA F5,3,Clay,R32,1130,402,0,WC,,Gonzalo Escobar,Jesse Witten,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,QF,1130,258,0,,,Javier Marti,Jesse Witten,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,R16,1130,526,1,,6,Jesse Witten,Felipe Mantilla,6-7(1) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,USA F3,3,Clay,R32,1130,1357,1,,Q,Jesse Witten,Alexander Knight,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Lexington CH,3,Hard,R32,1358,367,0,Q,,Max Purcell,Jesse Witten,6-4 7-5,0.80,7.2%,5.8%,53.6%,64.9%,43.8%,3/7,45.9%,35.9%,7.8%,16.1%,54.5%,2/9,133,5,4,69,37,32,5,1:19
+31-Jul-2017,Lexington CH,3,Hard,Q2,1358,,1,5,,Jesse Witten,Mark Verryth,6-4 5-7 6-0,1.31,12.0%,4.0%,54.7%,78.0%,58.8%,0/2,54.1%,40.2%,11.0%,32.7%,53.3%,5/8,157,9,3,75,41,34,9,1:34
+31-Jul-2017,Lexington CH,3,Hard,Q1,1358,,1,5,,Jesse Witten,Matt Halpin,6-4 6-3,1.63,13.7%,9.8%,58.8%,76.7%,66.7%,1/2,55.8%,44.9%,3.8%,41.7%,47.6%,4/10,129,7,5,51,30,21,3,1:15
+12-Jun-2017,USA F17,3,Hard,QF,1335,541,0,,8,Wil Spencer,Jesse Witten,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,USA F17,3,Hard,R16,1335,,1,,Q,Jesse Witten,Mitchell Harper,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,USA F17,3,Hard,R32,1335,346,1,,2,Jesse Witten,Dominik Koepfer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2016,Lexington CH,3,Hard,R32,1161,235,0,Q,,Daniel Nguyen,Jesse Witten,6-1 6-3,0.69,1.9%,7.4%,51.9%,50.0%,38.5%,5/10,41.3%,38.2%,1.8%,25.8%,54.2%,1/4,109,1,4,54,28,26,1,1:06
+25-Jul-2016,Lexington CH,3,Hard,Q3,1161,308,1,,4,Jesse Witten,Marinko Matosevic,6-4 6-2,1.72,10.2%,4.1%,57.1%,82.1%,66.7%,1/1,57.5%,42.1%,3.5%,31.0%,53.6%,3/3,106,5,2,49,28,21,2,1:12
+25-Jul-2016,Lexington CH,3,Hard,Q2,1161,428,1,,8,Jesse Witten,Frederik Nielsen,6-1 6-3,1.80,4.4%,2.2%,48.9%,77.3%,69.6%,0/0,60.0%,48.0%,4.0%,38.5%,58.3%,4/6,95,2,1,45,22,23,2,0:56
+25-Jul-2016,Lexington CH,3,Hard,Q1,1161,1213,1,,,Jesse Witten,Tim Kopinski,7-6(0) 6-1,1.61,3.4%,6.9%,51.7%,76.7%,60.7%,0/2,59.6%,50.0%,7.1%,36.7%,65.4%,4/6,114,2,4,58,30,28,4,1:14
+18-Jul-2016,Recanati CH,3,Hard,Q3,1009,442,0,,2,Alexander Bublik,Jesse Witten,6-3 6-4,0.77,5.4%,5.4%,58.9%,66.7%,30.4%,2/7,44.5%,37.0%,11.1%,28.1%,50.0%,2/4,110,3,3,56,33,23,6,0:56
+18-Jul-2016,Recanati CH,3,Hard,Q2,1009,507,1,,6,Jesse Witten,Daniel Cox,1-6 7-5 6-2,1.00,7.5%,3.8%,56.3%,62.2%,45.7%,4/9,49.7%,45.1%,3.3%,42.9%,47.6%,6/10,171,6,3,80,45,35,3,1:41
+18-Jul-2016,Recanati CH,3,Hard,Q1,1009,1392,1,,,Jesse Witten,Hendrik Jebens,7-6(5) 6-1,1.35,22.2%,0.0%,74.6%,76.6%,56.3%,2/3,55.2%,38.7%,1.6%,21.9%,56.7%,3/5,125,14,0,63,47,16,1,1:06
+23-May-2016,Israel F8,3,Hard,R32,1057,913,0,,8,Nick Chappell,Jesse Witten,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Israel F7,3,Hard,SF,916,317,0,,1,Nicolas Meister,Jesse Witten,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Israel F7,3,Hard,QF,916,872,1,,,Jesse Witten,Cameron Silverman,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Israel F7,3,Hard,R16,916,977,1,,,Jesse Witten,Tal Goldengoren,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Israel F7,3,Hard,R32,916,830,1,,7,Jesse Witten,Ben Fatael,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2015,US Open,5,Hard,Q1,882,122,0,WC,18,John Patrick Smith,Jesse Witten,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2015,Recanati CH,3,Hard,R32,836,523,0,Q,WC,Edoardo Eremin,Jesse Witten,6-3 6-1,0.58,1.9%,7.7%,61.5%,46.9%,60.0%,3/7,40.4%,27.7%,14.9%,21.9%,40.0%,0/0,99,1,4,52,32,20,7,
+15-Jun-2015,Perugia CH,3,Clay,R32,824,230,0,Q,,Filippo Volandri,Jesse Witten,6-4 6-3,0.76,5.9%,3.9%,54.9%,46.4%,47.8%,3/8,43.1%,40.0%,0.0%,33.3%,72.7%,3/9,116,3,2,51,28,23,0,
+11-May-2015,USA F16,3,Clay,SF,886,377,0,,3,Tennys Sandgren,Jesse Witten,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,USA F16,3,Clay,QF,886,374,1,,2,Jesse Witten,Rhyne Williams,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,USA F16,3,Clay,R16,886,634,1,,,Jesse Witten,Maximiliano Estevez,6-4 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,USA F16,3,Clay,R32,886,1054,1,,,Jesse Witten,Alexios Halebian,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,USA F8,3,Clay,R32,764,894,0,SE,WC,Marcelo Zormann Da Silva,Jesse Witten,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,USA F7,3,Clay,QF,765,420,0,,4,Gianluigi Quinzi,Jesse Witten,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,USA F7,3,Clay,R16,765,2097,1,,Q,Jesse Witten,Dennis Uspensky,6-7(8) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,USA F7,3,Clay,R32,765,466,1,,7,Jesse Witten,Bruno Santanna,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Mexico F12,3,Hard,R16,761,544,0,,,Maximiliano Estevez,Jesse Witten,5-3 RET,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Mexico F12,3,Hard,R32,761,482,1,,7,Jesse Witten,Luis David Martinez,6-7(8) 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Lexington CH,3,Hard,R16,835,150,0,WC,5,James Ward,Jesse Witten,6-4 6-7(5) 6-2,0.83,1.9%,6.7%,49.0%,66.7%,37.7%,4/11,46.2%,39.8%,8.6%,36.0%,44.2%,4/11,197,2,7,104,51,53,8,2:16
+21-Jul-2014,Lexington CH,3,Hard,R32,835,418,1,WC,Q,Jesse Witten,Erik Crepaldi,6-4 3-6 6-0,1.32,22.4%,7.9%,51.3%,87.2%,48.6%,4/5,54.9%,41.6%,0.0%,31.9%,56.7%,4/10,153,17,6,76,39,37,0,1:39
+30-Jun-2014,Manta CH,3,Hard,R16,903,225,0,,,Emilio Gomez,Jesse Witten,6-7(3) 6-4 7-6(4),0.96,13.5%,2.9%,66.3%,68.1%,37.1%,2/8,48.6%,40.7%,2.5%,34.7%,51.2%,5/10,222,14,3,104,69,35,3,2:15
+30-Jun-2014,Manta CH,3,Hard,R32,903,111,1,,2,Jesse Witten,Facundo Bagnis,6-2 7-6(4),1.38,6.0%,1.5%,62.7%,83.3%,52.0%,0/1,55.1%,39.1%,2.9%,35.3%,50.0%,3/6,136,4,1,67,42,25,2,1:20
+12-May-2014,USA F14,3,Clay,R32,675,418,0,,3,Cristian Garin,Jesse Witten,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Panama City CH,3,Clay,R16,635,109,0,WC,3,Andreas Haider Maurer,Jesse Witten,7-6(3) 6-4,0.77,4.3%,2.9%,75.4%,67.3%,52.9%,3/5,46.0%,27.9%,5.9%,23.8%,34.6%,1/2,137,3,2,69,52,17,4,1:23
+17-Mar-2014,Panama City CH,3,Clay,R32,635,230,1,WC,,Jesse Witten,Mischa Zverev,7-5 RET,1.00,9.4%,1.9%,62.3%,60.6%,50.0%,5/6,51.1%,43.2%,0.0%,36.0%,58.3%,2/2,90,5,1,53,33,20,0,0:53
+6-Mar-2014,Indian Wells Masters,3,Hard,Q1,627,114,0,,8,Evgeny Donskoy,Jesse Witten,6-4 6-2,0.62,6.3%,6.3%,56.3%,63.0%,57.1%,1/4,42.3%,24.5%,2.0%,22.6%,27.8%,0/0,97,3,3,48,27,21,1,0:58
+24-Feb-2014,Salinas CH,3,Clay,R16,668,118,0,WC,1,Victor Estrella,Jesse Witten,6-4 6-4,0.75,9.4%,0.0%,59.4%,65.8%,46.2%,5/7,44.9%,31.7%,1.6%,25.6%,45.0%,0/1,127,6,0,64,38,26,1,1:10
+24-Feb-2014,Salinas CH,3,Clay,R32,668,,1,WC,WC,Jesse Witten,Joseph Correa,6-0 6-1,4.60,20.7%,0.0%,86.2%,84.0%,100.0%,0/0,72.9%,63.4%,0.0%,48.0%,87.5%,6/7,70,6,0,29,25,4,0,0:39
+23-Sep-2013,Napa CH,3,Hard,R32,592,953,0,Q,Q,Thanasi Kokkinakis,Jesse Witten,6-3 4-6 7-6(4),0.91,7.6%,6.8%,51.7%,68.9%,38.6%,12/17,48.2%,41.5%,4.7%,28.0%,53.6%,5/13,224,9,8,118,61,57,5,2:43
+18-Aug-2013,Winston-Salem,3,Hard,Q2,577,339,0,,8,Sanam Singh,Jesse Witten,6-2 6-4,0.68,6.9%,10.3%,50.0%,62.1%,34.5%,6/11,41.7%,35.1%,3.5%,24.2%,50.0%,2/5,115,4,6,58,29,29,2,1:02
+18-Aug-2013,Winston-Salem,3,Hard,Q1,577,,1,,WC,Jesse Witten,Strong Kirchheimer,6-4 6-4,1.46,14.0%,4.0%,62.0%,74.2%,63.2%,1/3,55.3%,43.8%,3.1%,45.8%,37.5%,4/7,114,7,2,50,31,19,2,1:03
+5-Aug-2013,USA F22,3,Hard,R32,573,692,0,,,Dennis Nevolo,Jesse Witten,6-1 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2013,Washington,3,Hard,Q1,568,129,0,,5,Somdev Devvarman,Jesse Witten,7-5 6-0,0.66,1.6%,11.5%,50.8%,45.2%,40.0%,4/10,40.4%,37.7%,5.7%,33.3%,43.5%,2/6,114,1,7,61,31,30,3,1:12
+1-Jul-2013,Manta CH,3,Hard,R32,458,621,0,,WC,Emilio Gomez,Jesse Witten,5-7 7-5 6-1,0.88,3.8%,6.7%,54.3%,66.7%,50.0%,4/8,47.6%,36.2%,1.9%,36.7%,35.6%,2/11,210,4,7,105,57,48,2,2:11
+10-Jun-2013,USA F15,3,Clay,F,526,786,1,7,,Jesse Witten,Mitchell Frank,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,USA F15,3,Clay,SF,526,662,1,7,,Jesse Witten,Fernando Romboli,6-4 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,USA F15,3,Clay,QF,526,333,1,7,1,Jesse Witten,Chase Buchanan,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,USA F15,3,Clay,R16,526,1923,1,7,Q,Jesse Witten,Janis Podzus,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,USA F15,3,Clay,R32,526,1493,1,7,Q,Jesse Witten,Alan Kohen,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,USA F14,3,Clay,QF,527,966,0,5,,Catalin Ionut Gard,Jesse Witten,3-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,USA F14,3,Clay,R16,527,,1,5,Q,Jesse Witten,Deiton Baughman,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,USA F14,3,Clay,R32,527,1012,1,5,,Jesse Witten,Roberto Maytin,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,USA F13,3,Clay,R16,527,363,0,,4,Christian Harrison,Jesse Witten,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,USA F13,3,Clay,R32,527,729,1,,,Jesse Witten,Vladimir Obradovic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Chile F3,3,Clay,R16,542,356,0,,3,Guillermo Rivera Aranguiz,Jesse Witten,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2013,Chile F3,3,Clay,R32,542,745,1,,,Jesse Witten,Felipe Rios,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Chile F2,3,Clay,QF,545,672,0,,,Wilson Leite,Jesse Witten,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Chile F2,3,Clay,R16,545,1039,1,,Q,Jesse Witten,Ricardo Urzua Rivera,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,Chile F2,3,Clay,R32,545,354,1,,2,Jesse Witten,Juan Carlos Saez,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Panama City CH,3,Clay,R16,584,122,0,WC,3,Ruben Ramirez Hidalgo,Jesse Witten,6-3 3-6 6-1,0.85,6.1%,2.4%,54.9%,71.1%,40.5%,5/9,46.7%,36.1%,10.8%,19.0%,53.7%,2/6,165,5,2,82,45,37,9,1:54
+15-Apr-2013,Panama City CH,3,Clay,R32,584,310,1,WC,,Jesse Witten,Carlos Salamanca,7-6(4) 4-6 6-2,1.05,4.9%,5.9%,51.0%,78.8%,50.0%,5/8,51.5%,37.2%,6.4%,33.9%,42.1%,4/12,196,5,6,102,52,50,6,2:07
+25-Feb-2013,USA F6,3,Hard,R16,584,354,0,PR,5,Tim Puetz,Jesse Witten,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2013,USA F6,3,Hard,R32,584,556,1,PR,,Jesse Witten,Philip Bester,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2013,USA F1,3,Clay,R32,594,283,0,WC,4,Taro Daniel,Jesse Witten,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Champaign CH,3,Hard,R32,595,369,0,,,Alex Bogdanovic,Jesse Witten,6-4 4-6 6-3,0.84,12.9%,4.0%,52.5%,64.2%,50.0%,5/9,47.2%,35.9%,2.2%,37.5%,33.3%,3/10,193,13,4,101,53,48,2,1:57
+5-Nov-2012,Knoxville CH,3,Hard,R16,634,157,0,,6,Bobby Reynolds,Jesse Witten,6-2 6-4,0.58,9.4%,7.5%,54.7%,65.5%,58.3%,0/3,43.4%,21.7%,8.7%,14.3%,33.3%,0/0,99,5,4,53,29,24,4,1:06
+5-Nov-2012,Knoxville CH,3,Hard,R32,634,331,1,,,Jesse Witten,Clement Reix,6-4 6-3,1.49,19.0%,5.2%,55.2%,84.4%,53.8%,5/5,55.8%,43.7%,11.3%,34.8%,60.0%,3/8,129,11,3,58,32,26,8,1:09
+1-Oct-2012,Quito CH,3,Clay,R16,675,180,0,,6,Victor Estrella,Jesse Witten,6-2 6-2,0.54,5.9%,7.8%,58.8%,63.3%,33.3%,2/6,39.6%,26.7%,4.4%,19.2%,36.8%,0/2,96,3,4,51,30,21,2,0:47
+1-Oct-2012,Quito CH,3,Clay,R32,675,,1,,WC,Jesse Witten,Lucas Dages,6-2 6-2,2.56,14.6%,0.0%,68.3%,75.0%,92.3%,3/3,63.2%,50.0%,1.9%,26.7%,79.2%,4/10,95,6,0,41,28,13,1,0:48
+19-Aug-2012,Winston-Salem,3,Hard,Q1,679,391,0,,,Fritz Wolmarans,Jesse Witten,6-3 6-4,0.71,6.7%,2.2%,51.1%,91.3%,40.9%,0/2,43.0%,23.6%,14.5%,21.1%,29.4%,0/3,100,3,1,45,23,22,8,1:03
+3-Jul-2012,Panama City CH,3,Clay,SF,1156,179,0,,3,Peter Polansky,Jesse Witten,W/O,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2012,Panama City CH,3,Clay,QF,1156,228,1,,6,Jesse Witten,Victor Estrella,6-3 2-6 6-4,1.10,6.2%,3.7%,56.8%,82.6%,40.0%,3/6,51.2%,39.3%,0.0%,30.0%,51.3%,3/12,170,5,3,81,46,35,0,1:48
+3-Jul-2012,Panama City CH,3,Clay,R16,1156,345,1,,,Jesse Witten,Daniel Kosakowski,6-3 6-2,1.42,7.1%,3.6%,46.4%,65.4%,66.7%,5/5,57.3%,48.1%,1.9%,47.1%,50.0%,4/5,110,4,2,56,26,30,1,1:22
+3-Jul-2012,Panama City CH,3,Clay,R32,1156,,1,,WC,Jesse Witten,Walner Espinoza,6-0 6-1,2.50,0.0%,6.3%,56.3%,83.3%,64.3%,0/0,67.5%,62.5%,4.2%,50.0%,80.0%,6/11,80,0,2,32,18,14,2,0:52
+29-Aug-2011,US Open,5,Hard,Q1,307,213,0,,,Ilija Bozoljac,Jesse Witten,6-3 6-2,0.77,8.6%,13.8%,53.4%,67.7%,29.6%,4/7,43.8%,38.6%,5.7%,20.6%,55.6%,1/3,128,5,8,58,31,27,4,1:15
+31-Jul-2011,Washington,3,Hard,Q2,292,224,0,10,6,Chris Guccione,Jesse Witten,4-6 6-4 6-1,0.91,10.1%,7.9%,53.9%,64.6%,48.8%,6/11,48.0%,38.9%,7.8%,30.4%,52.9%,2/7,179,9,7,89,48,41,7,1:46
+31-Jul-2011,Washington,3,Hard,Q1,292,553,1,10,,Jesse Witten,Rohan Bopanna,7-6(2) 6-0,1.82,15.1%,1.9%,58.5%,74.2%,81.8%,1/1,57.8%,41.3%,9.5%,29.3%,63.6%,3/8,116,8,1,53,31,22,6,0:59
+27-Jun-2011,Winnetka CH,3,Hard,R32,250,142,0,,7,Paul Capdeville,Jesse Witten,6-3 6-4,0.85,6.6%,13.1%,52.5%,56.3%,34.5%,5/10,46.0%,46.0%,1.6%,30.0%,73.9%,3/6,124,4,8,61,32,29,1,1:09
+20-Jun-2011,Wimbledon,5,Grass,Q1,250,163,0,,,Ruben Bemelmans,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2011,Alessandria CH,3,Clay,R32,212,177,0,Q,,Facundo Bagnis,Jesse Witten,3-6 6-4 6-3,0.94,9.0%,4.5%,49.4%,72.7%,48.9%,6/10,48.9%,36.8%,1.1%,31.3%,43.6%,3/9,176,8,4,89,44,45,1,1:55
+22-May-2011,Roland Garros,5,Clay,Q1,212,121,0,,20,Gilles Muller,Jesse Witten,6-3 6-7(3) 6-3,0.79,5.5%,7.7%,59.3%,75.9%,56.8%,4/6,45.8%,25.3%,18.2%,19.7%,34.2%,0/7,190,5,7,91,54,37,18,1:53
+2-May-2011,Savannah CH,3,Clay,R16,220,96,0,,3,Donald Young,Jesse Witten,6-1 6-4,0.72,0.0%,2.2%,54.3%,52.0%,47.6%,2/6,41.6%,35.8%,3.0%,23.3%,58.3%,1/8,113,0,1,46,25,21,2,1:03
+2-May-2011,Savannah CH,3,Clay,R32,220,264,1,,,Jesse Witten,Lester Cook,6-2 RET,1.72,13.0%,13.0%,78.3%,77.8%,40.0%,0/0,61.4%,52.4%,0.0%,20.0%,81.8%,2/3,44,3,3,23,18,5,0,0:28
+25-Apr-2011,Sarasota CH,3,Clay,R32,222,89,0,,2,Michael Russell,Jesse Witten,6-7(5) 6-0 7-5,0.74,10.4%,7.5%,47.2%,80.0%,33.9%,6/11,44.7%,33.0%,2.0%,23.7%,46.3%,1/3,206,11,8,106,50,56,2,2:35
+11-Apr-2011,Tallahassee CH,3,Hard,R32,223,305,0,,LL,Nicholas Monroe,Jesse Witten,3-6 7-6(5) 4-1 RET,0.86,12.0%,4.0%,59.0%,67.8%,43.9%,6/10,48.3%,36.3%,1.3%,30.0%,46.7%,3/6,180,12,4,100,59,41,1,1:51
+4-Apr-2011,Houston,3,Clay,Q1,226,149,0,,6,Franco Skugor,Jesse Witten,6-1 6-2,0.52,0.0%,6.8%,54.5%,66.7%,35.0%,1/5,38.6%,25.0%,6.8%,5.0%,41.7%,0/1,88,0,3,44,24,20,3,0:54
+14-Mar-2011,San Jose CH,3,Hard,R32,209,265,0,,,Caio Zampieri,Jesse Witten,6-1 6-3,0.61,1.9%,15.1%,41.5%,59.1%,29.0%,2/8,38.6%,35.4%,4.2%,31.3%,43.8%,2/5,101,1,8,53,22,31,2,0:50
+10-Mar-2011,Indian Wells Masters,3,Hard,Q2,209,105,0,23,5,Ryan Sweeting,Jesse Witten,6-1 6-4,0.82,7.0%,2.3%,48.8%,76.2%,31.8%,3/7,44.1%,38.2%,4.4%,36.4%,41.7%,1/4,111,3,1,43,21,22,3,1:04
+10-Mar-2011,Indian Wells Masters,3,Hard,Q1,209,780,1,23,,Jesse Witten,Eric Nunez,6-2 6-2,2.50,15.0%,2.5%,42.5%,88.2%,73.9%,0/0,63.0%,50.0%,11.5%,41.4%,60.9%,4/5,92,6,1,40,17,23,6,0:56
+28-Feb-2011,Dallas CH,3,Hard,R16,216,152,0,,,Alex Bogomolov Jr,Jesse Witten,6-2 6-4,0.70,1.6%,3.3%,45.9%,53.6%,42.4%,6/11,43.0%,37.0%,0.0%,29.2%,45.5%,2/2,107,1,2,61,28,33,0,1:06
+28-Feb-2011,Dallas CH,3,Hard,R32,216,88,1,,2,Jesse Witten,Michael Russell,6-2 6-4,1.36,17.5%,7.0%,50.9%,86.2%,46.4%,5/6,55.4%,45.3%,1.6%,18.8%,71.9%,4/11,121,10,4,57,29,28,1,1:16
+21-Feb-2011,Delray Beach,3,Hard,Q1,215,213,0,,,Victor Estrella,Jesse Witten,7-6(3) 6-4,0.87,7.5%,2.5%,50.0%,75.0%,45.0%,6/9,48.3%,34.8%,2.9%,18.6%,61.5%,2/4,149,6,2,80,40,40,2,1:26
+24-Jan-2011,Honolulu CH,3,Hard,SF,224,250,0,8,,Alex Kuznetsov,Jesse Witten,4-6 6-1 6-4,0.66,2.5%,3.8%,43.8%,65.7%,57.8%,3/7,44.2%,25.7%,12.2%,21.6%,34.8%,2/2,154,2,3,80,35,45,9,1:41
+24-Jan-2011,Honolulu CH,3,Hard,QF,224,110,1,8,2,Jesse Witten,Robert Kendrick,7-5 3-6 6-2,1.04,6.1%,8.1%,54.5%,68.5%,53.3%,5/8,51.3%,39.8%,4.5%,31.1%,48.8%,5/8,187,6,8,99,54,45,4,1:40
+24-Jan-2011,Honolulu CH,3,Hard,R16,224,,1,8,WC,Jesse Witten,Dennis Lajola,5-7 6-4 7-6(5),1.03,12.0%,7.5%,53.4%,71.8%,32.3%,10/17,50.8%,47.9%,1.7%,41.0%,55.4%,7/14,250,16,10,133,71,62,2,2:13
+24-Jan-2011,Honolulu CH,3,Hard,R32,224,383,1,8,,Jesse Witten,Daniel Yoo,6-3 6-2,1.83,2.2%,2.2%,45.7%,76.2%,64.0%,4/6,62.9%,55.8%,2.3%,45.5%,66.7%,5/9,89,1,1,46,21,25,1,0:55
+17-Jan-2011,USA F2,3,Clay,QF,224,454,0,2,,Daniel Garza,Jesse Witten,6-1 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,USA F2,3,Clay,R16,224,1341,1,2,LL,Jesse Witten,Lucas Renard,6-7(3) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2011,USA F2,3,Clay,R32,224,,1,2,Q,Jesse Witten,Denes Lukacs,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Nov-2010,Champaign CH,3,Hard,SF,249,696,0,,WC,Amer Delic,Jesse Witten,3-6 6-3 6-4,0.85,11.7%,14.9%,59.6%,78.6%,34.2%,7/10,48.3%,33.3%,6.4%,28.4%,63.6%,2/3,172,11,14,94,56,38,5,1:31
+15-Nov-2010,Champaign CH,3,Hard,QF,249,306,1,,,Jesse Witten,Michael Yani,6-4 6-4,1.22,4.2%,8.3%,58.3%,73.8%,50.0%,3/4,55.0%,44.1%,1.7%,37.1%,54.2%,3/5,131,3,6,72,42,30,1,1:04
+15-Nov-2010,Champaign CH,3,Hard,R16,249,295,1,,,Jesse Witten,Raven Klaasen,6-3 6-3,1.53,10.3%,8.6%,51.7%,86.7%,57.1%,2/2,58.2%,42.3%,9.6%,26.5%,72.2%,3/9,110,6,5,58,30,28,5,1:04
+15-Nov-2010,Champaign CH,3,Hard,R32,249,172,1,,4,Jesse Witten,Izak Van Der Merwe,7-6(4) 3-6 6-4,1.08,2.9%,6.9%,52.0%,75.5%,55.1%,3/6,51.8%,37.1%,9.3%,36.6%,38.5%,2/7,199,3,7,102,53,49,9,1:50
+8-Nov-2010,Knoxville CH,3,Hard,QF,268,427,0,,Q,Nicholas Monroe,Jesse Witten,7-6(6) 7-6(4),0.81,8.5%,7.4%,60.6%,80.7%,45.9%,4/4,48.3%,26.8%,1.2%,17.5%,48.0%,0/0,176,8,7,94,57,37,1,1:49
+8-Nov-2010,Knoxville CH,3,Hard,R16,268,198,1,,,Jesse Witten,Alex Bogomolov Jr,2-6 6-4 7-6(11),0.99,7.4%,5.6%,61.1%,65.2%,52.4%,4/8,49.8%,39.4%,3.7%,37.3%,46.2%,3/6,217,8,6,108,66,42,4,2:19
+8-Nov-2010,Knoxville CH,3,Hard,R32,268,128,1,,2,Jesse Witten,Donald Young,2-6 6-4 6-2,1.05,4.9%,3.7%,53.1%,76.7%,52.6%,5/7,51.3%,36.4%,7.8%,32.0%,44.4%,3/5,158,4,3,81,43,38,6,1:34
+18-Oct-2010,Calabasas CH,3,Hard,R16,270,260,0,,,Frederik Nielsen,Jesse Witten,7-6(2) 7-6(0),0.91,0.0%,3.9%,61.0%,61.7%,36.7%,3/8,47.6%,43.8%,1.1%,32.1%,61.1%,5/13,166,0,3,77,47,30,1,1:23
+18-Oct-2010,Calabasas CH,3,Hard,R32,270,416,1,,,Jesse Witten,Michael Mcclune,6-2 6-3,1.65,10.5%,10.5%,56.1%,87.5%,52.0%,4/4,59.3%,46.4%,3.6%,33.3%,61.5%,3/6,113,6,6,57,32,25,2,1:01
+11-Oct-2010,Tiburon CH,3,Hard,R16,282,218,0,LL,,Alex Bogomolov Jr,Jesse Witten,6-1 6-0,0.41,0.0%,12.9%,41.9%,30.8%,16.7%,1/7,27.5%,31.6%,10.5%,14.8%,72.7%,1/2,69,0,4,31,13,18,4,0:50
+11-Oct-2010,Tiburon CH,3,Hard,R32,282,666,1,LL,WC,Jesse Witten,Bradley Klahn,6-2 6-1,1.65,9.5%,7.1%,52.4%,81.8%,45.0%,3/4,61.6%,59.1%,0.0%,57.7%,61.1%,6/8,86,4,3,42,22,20,0,0:45
+4-Oct-2010,Sacramento CH,3,Hard,R16,265,151,0,,5,Robert Kendrick,Jesse Witten,6-4 7-5,0.79,5.6%,2.8%,51.4%,70.3%,57.1%,3/5,45.9%,28.4%,17.6%,18.4%,48.0%,0/4,146,4,2,72,37,35,13,1:14
+4-Oct-2010,Sacramento CH,3,Hard,R32,265,238,1,,,Jesse Witten,Alex Kuznetsov,6-3 2-6 7-6(4),1.08,12.6%,3.4%,55.2%,77.1%,46.2%,8/12,51.1%,39.8%,9.7%,29.8%,55.6%,4/8,180,11,3,87,48,39,9,2:05
+13-Sep-2010,Tulsa CH,3,Hard,QF,267,249,0,5,,Bobby Reynolds,Jesse Witten,6-3 6-2,0.77,4.3%,0.0%,54.3%,60.0%,47.6%,2/6,43.7%,35.1%,1.8%,35.5%,34.6%,1/6,103,2,0,46,25,21,1,1:07
+13-Sep-2010,Tulsa CH,3,Hard,R16,267,422,1,5,,Jesse Witten,Greg Ouellette,7-6(4) 6-2,1.18,3.9%,11.8%,47.4%,75.0%,45.0%,6/9,54.5%,48.3%,3.4%,48.3%,48.3%,5/8,134,3,9,76,36,40,2,1:28
+13-Sep-2010,Tulsa CH,3,Hard,R32,267,,1,5,WC,Jesse Witten,David Martin,6-2 6-4,1.47,8.3%,5.0%,40.0%,79.2%,58.3%,6/7,58.0%,49.2%,0.0%,32.3%,67.9%,4/6,119,5,3,60,24,36,0,1:07
+30-Aug-2010,US Open,5,Hard,Q2,179,237,0,,,Yuichi Sugita,Jesse Witten,6-7(4) 6-3 6-3,0.86,7.9%,7.9%,54.5%,60.0%,37.0%,7/15,46.6%,43.2%,0.0%,43.1%,43.3%,5/6,189,8,8,101,55,46,0,2:01
+30-Aug-2010,US Open,5,Hard,Q1,179,275,1,,,Jesse Witten,Facundo Bagnis,6-4 7-6(6),1.15,5.1%,13.9%,50.6%,75.0%,46.2%,6/9,52.8%,45.1%,2.4%,34.0%,60.0%,4/7,161,4,11,79,40,39,2,1:35
+15-Aug-2010,Cincinnati Masters,3,Hard,Q1,180,79,0,WC,14,Michael Russell,Jesse Witten,7-6(2) 6-3,0.66,8.6%,2.9%,44.3%,64.5%,53.8%,3/6,43.2%,27.5%,11.6%,15.7%,61.1%,1/4,139,6,2,70,31,39,8,1:25
+9-Aug-2010,Binghamton CH,3,Hard,QF,186,247,0,,Q,Alex Bogomolov Jr,Jesse Witten,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Binghamton CH,3,Hard,R16,186,173,1,,,Jesse Witten,Marinko Matosevic,6-2 5-7 7-5,1.17,3.2%,3.2%,68.8%,70.3%,48.3%,2/5,52.2%,42.6%,0.9%,33.3%,59.0%,5/13,201,3,3,93,64,29,1,2:03
+9-Aug-2010,Binghamton CH,3,Hard,R32,186,120,1,,3,Jesse Witten,Ricardas Berankis,6-4 6-4,1.41,11.3%,9.7%,53.2%,90.9%,44.8%,3/4,55.1%,43.2%,0.0%,16.7%,68.4%,3/7,136,7,6,62,33,29,0,1:14
+2-Aug-2010,Vancouver CH,3,Hard,R32,176,334,0,8,,Chris Guccione,Jesse Witten,3-6 6-3 6-2,0.66,8.4%,10.8%,37.3%,71.0%,48.1%,9/13,43.6%,28.8%,23.3%,19.6%,50.0%,2/4,156,7,9,83,31,52,17,1:25
+28-Jun-2010,Winnetka CH,3,Hard,R32,186,179,0,,,Tim Smyczek,Jesse Witten,6-1 6-4,0.50,5.1%,13.6%,40.7%,62.5%,42.9%,2/6,39.4%,24.4%,4.4%,18.5%,33.3%,0/1,104,3,8,59,24,35,2,0:58
+21-Jun-2010,Wimbledon,5,Grass,R128,186,37,0,Q,,Michael Llodra,Jesse Witten,6-4 6-4 6-7(5) 6-3,0.72,8.1%,5.2%,63.7%,73.3%,46.9%,8/12,46.2%,26.3%,9.3%,18.2%,41.5%,1/4,253,11,7,135,86,49,11,2:28
+21-Jun-2010,Wimbledon,5,Grass,Q3,186,124,1,,15,Jesse Witten,Go Soeda,6-2 6-2 2-6 6-4,1.13,5.8%,4.2%,62.5%,69.3%,44.4%,7/10,52.8%,45.2%,9.6%,35.7%,60.0%,6/14,235,7,5,120,75,45,11,2:10
+21-Jun-2010,Wimbledon,5,Grass,Q2,186,197,1,,,Jesse Witten,Greg Jones,6-2 7-6(6),1.42,5.0%,6.7%,68.3%,80.5%,57.9%,1/2,54.8%,37.9%,7.6%,28.2%,51.9%,3/6,126,3,4,60,41,19,5,1:22
+21-Jun-2010,Wimbledon,5,Grass,Q1,186,266,1,,,Jesse Witten,Bobby Reynolds,5-7 6-3 6-1,1.30,3.3%,6.5%,52.2%,79.2%,50.0%,8/10,55.0%,45.4%,7.2%,37.3%,57.9%,5/10,189,3,6,92,48,44,7,1:51
+7-Jun-2010,Queen's Club,3,Grass,Q1,168,251,0,,,Giovanni Lapentti,Jesse Witten,6-4 7-6(8),0.66,11.4%,6.3%,68.4%,72.2%,52.0%,2/3,46.2%,22.7%,6.1%,21.1%,25.0%,0/0,145,9,5,79,54,25,4,1:22
+31-May-2010,Rome3 CH,3,Clay,R16,183,210,0,,,Reda El Amrani,Jesse Witten,6-7(5) 7-6(4) 6-4,0.81,2.4%,3.1%,64.6%,61.0%,51.1%,6/10,46.6%,34.2%,4.5%,23.3%,47.1%,3/9,238,3,4,127,82,45,5,2:13
+31-May-2010,Rome3 CH,3,Clay,R32,183,297,1,,Q,Jesse Witten,Guido Pella,6-2 6-1,2.71,0.0%,2.4%,53.7%,81.8%,78.9%,1/1,65.2%,52.9%,9.8%,40.0%,65.4%,4/8,92,0,1,41,22,19,5,0:54
+24-May-2010,Roland Garros,5,Clay,R128,183,30,0,Q,25,Marcos Baghdatis,Jesse Witten,6-3 6-4 6-3,0.67,1.2%,3.6%,49.4%,51.2%,52.4%,3/9,41.9%,32.1%,9.5%,23.8%,40.5%,2/5,167,1,3,83,41,42,8,1:46
+24-May-2010,Roland Garros,5,Clay,Q3,183,237,1,,,Jesse Witten,Pavol Cervenak,7-5 6-2,1.33,7.4%,0.0%,51.9%,75.0%,50.0%,3/5,55.4%,49.3%,1.5%,26.5%,72.7%,5/11,121,4,0,54,28,26,1,1:17
+24-May-2010,Roland Garros,5,Clay,Q2,183,263,1,,,Jesse Witten,John Millman,6-2 6-1,2.37,5.3%,0.0%,78.9%,73.3%,87.5%,0/0,64.2%,56.1%,0.0%,46.5%,85.7%,5/7,95,2,0,38,30,8,0,0:56
+24-May-2010,Roland Garros,5,Clay,Q1,183,105,1,,4,Jesse Witten,Marcos Daniel,7-6(2) 4-6 17-15,1.10,5.1%,3.8%,52.9%,78.3%,58.1%,7/11,50.9%,34.3%,4.1%,24.5%,50.8%,4/15,326,8,6,157,83,74,7,3:47
+10-May-2010,Sarasota CH,3,Clay,R32,184,409,0,,LL,Bruno Rodriguez,Jesse Witten,6-3 6-3,0.70,5.8%,9.6%,53.8%,57.1%,20.8%,2/8,41.2%,42.0%,0.0%,40.5%,46.2%,3/4,102,3,5,52,28,24,0,1:01
+3-May-2010,Savannah CH,3,Clay,R32,180,168,0,,,Paul Capdeville,Jesse Witten,6-3 6-1,0.76,2.8%,8.3%,55.6%,62.5%,34.4%,10/14,43.9%,38.2%,1.3%,38.0%,38.5%,0/8,148,2,6,72,40,32,1,1:25
+19-Apr-2010,Athens CH,3,Hard,R32,175,56,0,,3,Marco Chiudinelli,Jesse Witten,6-7(5) 7-5 6-2,0.80,9.9%,1.8%,55.0%,72.1%,46.0%,8/13,47.1%,31.6%,6.3%,25.0%,41.0%,2/2,206,11,2,111,61,50,6,2:12
+12-Apr-2010,Rome CH,3,Clay,R16,171,181,0,8,,Lamine Ouahab,Jesse Witten,6-3 6-1,0.72,1.7%,3.4%,58.6%,44.1%,33.3%,8/14,41.4%,43.4%,1.9%,25.0%,71.4%,2/4,111,1,2,58,34,24,1,1:05
+12-Apr-2010,Rome CH,3,Clay,R32,171,248,1,8,,Jesse Witten,Pedro Clar Rossello,6-4 4-6 6-4,1.11,5.1%,2.0%,49.5%,71.4%,42.0%,5/10,52.2%,48.1%,0.0%,41.8%,59.0%,6/19,205,5,2,99,49,50,0,2:33
+5-Apr-2010,Monza CH,3,Clay,R32,166,272,0,,Q,Francesco Aldi,Jesse Witten,6-2 6-3,0.61,0.0%,5.7%,43.4%,56.5%,33.3%,6/12,39.2%,34.7%,0.0%,24.2%,56.3%,2/9,102,0,3,53,23,30,0,1:05
+29-Mar-2010,Napoli CH,3,Clay,R32,173,180,0,,,Diego Junqueira,Jesse Witten,6-3 6-1,0.64,0.0%,0.0%,61.7%,58.6%,22.2%,1/6,39.6%,35.2%,1.9%,34.2%,37.5%,1/6,101,0,0,47,29,18,1,1:02
+22-Mar-2010,Barletta CH,3,Clay,R16,173,103,0,,3,Steve Darcis,Jesse Witten,6-1 6-4,0.63,1.6%,6.6%,41.0%,72.0%,36.1%,7/11,41.6%,30.8%,3.8%,24.0%,37.0%,1/2,113,1,4,61,25,36,2,1:03
+22-Mar-2010,Barletta CH,3,Clay,R32,173,150,1,,,Jesse Witten,Kristof Vliegen,6-2 6-3,1.59,9.3%,1.9%,59.3%,71.9%,63.6%,4/5,60.0%,50.0%,0.0%,42.3%,60.0%,4/7,100,5,1,54,32,22,0,1:01
+13-Mar-2010,Caltanissetta CH,3,Clay,R16,178,92,0,,2,Paolo Lorenzi,Jesse Witten,4-6 7-6(4) 7-6(5),1.01,8.3%,1.7%,60.8%,74.0%,48.9%,3/6,50.0%,36.1%,1.6%,31.5%,42.9%,4/11,242,10,2,120,73,47,2,2:58
+13-Mar-2010,Caltanissetta CH,3,Clay,R32,178,250,1,,WC,Jesse Witten,Francesco Aldi,6-2 6-3,1.47,3.6%,5.5%,60.0%,78.8%,45.5%,2/4,58.3%,50.9%,1.9%,52.9%,47.4%,5/11,108,2,3,55,33,22,1,1:04
+11-Mar-2010,Indian Wells Masters,3,Hard,Q2,178,103,0,24,5,Yen Hsun Lu,Jesse Witten,6-2 6-1,0.52,5.6%,7.4%,51.9%,50.0%,38.5%,4/9,37.4%,28.9%,2.2%,25.0%,38.5%,0/3,99,3,4,54,28,26,1,0:57
+11-Mar-2010,Indian Wells Masters,3,Hard,Q1,178,,1,24,WC,Jesse Witten,Brian Battistone,3-6 6-2 6-4,1.12,2.2%,8.8%,59.3%,51.9%,48.6%,7/14,52.9%,55.6%,2.5%,41.2%,80.0%,8/18,172,2,8,91,54,37,2,1:54
+22-Feb-2010,Delray Beach,3,Hard,Q1,170,214,0,7,,Vincent Millot,Jesse Witten,6-4 3-6 6-3,1.05,11.6%,3.5%,51.2%,72.7%,57.1%,3/6,50.0%,36.5%,0.0%,33.3%,40.5%,2/11,182,10,3,86,44,42,0,1:31
+15-Feb-2010,Memphis,3,Hard,Q1,172,136,0,,5,Kevin Anderson,Jesse Witten,6-2 6-3,0.61,6.6%,11.5%,52.5%,68.8%,31.0%,6/10,41.7%,29.8%,10.6%,16.7%,72.7%,1/2,108,4,7,61,32,29,5,1:02
+1-Feb-2010,Dallas CH,3,Hard,R32,165,229,0,6,,Ryler Deheart,Jesse Witten,7-6(1) 6-3,0.72,9.8%,6.6%,59.0%,69.4%,40.0%,2/5,43.4%,30.9%,2.9%,23.1%,41.4%,2/9,129,6,4,61,36,25,2,1:11
+25-Jan-2010,Honolulu CH,3,Hard,R32,163,241,0,7,,Go Soeda,Jesse Witten,6-3 4-6 7-6(5),0.97,8.5%,14.9%,44.7%,78.6%,46.2%,7/11,49.2%,38.1%,3.1%,33.3%,48.4%,4/8,191,8,14,94,42,52,3,2:03
+18-Jan-2010,Australian Open,5,Hard,Q2,163,285,0,28,,Conor Niland,Jesse Witten,2-6 6-1 6-4,0.94,2.7%,1.4%,60.3%,63.6%,48.3%,6/10,48.1%,40.0%,3.5%,30.4%,51.3%,3/9,158,2,1,73,44,29,3,1:37
+18-Jan-2010,Australian Open,5,Hard,Q1,163,312,1,28,,Jesse Witten,Jose Checa Calvo,6-3 6-2,1.48,3.4%,5.1%,66.1%,74.4%,60.0%,2/2,57.1%,45.0%,5.0%,35.7%,66.7%,3/11,119,2,3,59,39,20,3,1:05
+16-Nov-2009,Champaign CH,3,Hard,R32,170,117,0,,5,Jesse Levine,Jesse Witten,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Knoxville CH,3,Hard,R32,170,175,0,,8,Ryan Sweeting,Jesse Witten,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Charlottesville CH,3,Hard,R32,171,370,0,8,,Matwe Middelkoop,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2009,Calabasas CH,3,Hard,R32,167,198,0,,,Alex Kuznetsov,Jesse Witten,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Tiburon CH,3,Hard,R32,167,95,0,,2,Kevin Kim,Jesse Witten,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,SF,174,114,0,,6,Santiago Giraldo,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,QF,174,82,1,,1,Jesse Witten,Robert Kendrick,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,R16,174,1153,1,,WC,Jesse Witten,Jan Michael Gambill,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,R32,174,291,1,,LL,Jesse Witten,Raven Klaasen,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Tulsa CH,3,Hard,R16,187,240,0,,,Todd Widom,Jesse Witten,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Tulsa CH,3,Hard,R32,187,208,1,,8,Jesse Witten,Alex Kuznetsov,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,R32,276,4,0,Q,4,Novak Djokovic,Jesse Witten,6-7(2) 6-3 7-6(2) 6-4,0.89,3.5%,7.7%,46.5%,59.1%,52.6%,9/18,47.8%,39.7%,5.9%,30.1%,54.7%,6/11,278,5,11,142,66,76,8,3:28
+31-Aug-2009,US Open,5,Hard,R64,276,79,1,Q,,Jesse Witten,Maximo Gonzalez,6-7(3) 6-4 7-5 6-2,1.16,7.7%,4.6%,48.5%,74.6%,43.3%,9/15,52.7%,48.2%,0.0%,44.9%,54.4%,9/24,294,10,6,130,63,67,0,3:35
+31-Aug-2009,US Open,5,Hard,R128,276,30,1,Q,29,Jesse Witten,Igor Andreev,6-4 6-0 6-2,1.67,8.9%,5.1%,46.8%,75.7%,59.5%,4/5,60.9%,54.9%,1.2%,38.9%,67.4%,6/13,161,7,4,79,37,42,1,1:37
+31-Aug-2009,US Open,5,Hard,Q3,276,263,1,,,Jesse Witten,Alexander Peya,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,Q2,276,144,1,,21,Jesse Witten,Stephane Bohli,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,Q1,276,186,1,,,Jesse Witten,Go Soeda,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2009,Washington,3,Hard,R64,261,177,0,Q,Q,Alejandro Falla,Jesse Witten,6-1 6-4,0.69,4.8%,7.1%,54.8%,47.8%,42.1%,2/7,41.1%,37.7%,1.9%,29.0%,50.0%,2/6,95,2,3,42,23,19,1,1:00
+2-Aug-2009,Washington,3,Hard,Q2,261,142,1,,6,Jesse Witten,Lukasz Kubot,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2009,Washington,3,Hard,Q1,261,154,1,,8,Jesse Witten,Laurent Recouderc,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Granby CH,3,Hard,QF,277,206,0,,,Ryler Deheart,Jesse Witten,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Granby CH,3,Hard,R16,277,181,1,,7,Jesse Witten,Marinko Matosevic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Granby CH,3,Hard,R32,277,225,1,,,Jesse Witten,Simon Stadler,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,USA F13,3,Hard,SF,350,192,0,4,1,Carsten Ball,Jesse Witten,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,USA F13,3,Hard,QF,350,446,1,4,,Jesse Witten,Igor Sijsling,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,USA F13,3,Hard,R16,350,511,1,4,,Jesse Witten,Filip Krajinovic,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,USA F13,3,Hard,R32,350,399,1,4,,Jesse Witten,Tigran Martirosyan,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,USA F12,3,Hard,F,350,524,1,5,Q,Jesse Witten,Artem Sitak,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,USA F12,3,Hard,SF,350,274,1,5,2,Jesse Witten,Carlos Salamanca,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,USA F12,3,Hard,QF,350,341,1,5,4,Jesse Witten,Lester Cook,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,USA F12,3,Hard,R16,350,,1,5,WC,Jesse Witten,Gd Jones,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,USA F12,3,Hard,R32,350,393,1,5,,Jesse Witten,Julio Cesar Campozano,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Yuba City CH,3,Hard,R32,384,237,0,WC,,Michael Yani,Jesse Witten,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Carson2 CH,3,Hard,QF,384,166,0,Q,5,Michael Russell,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Carson2 CH,3,Hard,R16,384,388,1,Q,,Jesse Witten,Nicholas Monroe,7-6(7) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Carson2 CH,3,Hard,R32,384,544,1,Q,Q,Jesse Witten,Scott Oudsema,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Sarasota CH,3,Clay,R32,367,165,0,WC,3,Donald Young,Jesse Witten,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Savannah CH,3,Clay,R16,390,282,0,WC,,Ryler Deheart,Jesse Witten,6-7(6) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Savannah CH,3,Clay,R32,390,193,1,WC,9,Jesse Witten,Scoville Jenkins,0-2 RET,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,USA F9,3,Clay,QF,398,334,0,5,3,Jonathan Dasnieres De Veigy,Jesse Witten,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,USA F9,3,Clay,R16,398,615,1,5,,Jesse Witten,Matthew Roberts,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2009,USA F9,3,Clay,R32,398,682,1,5,,Jesse Witten,Miguel Cicenia,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Tallahassee CH,3,Hard,R16,398,88,0,Q,2,Robert Kendrick,Jesse Witten,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Tallahassee CH,3,Hard,R32,398,289,1,Q,WC,Jesse Witten,Taylor Dent,7-6(1) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,F,393,280,0,6,2,Samuel Groth,Jesse Witten,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,SF,393,478,1,6,,Jesse Witten,Uladzimir Ignatik,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,QF,393,334,1,6,4,Jesse Witten,Lester Cook,6-4 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,R16,393,782,1,6,Q,Jesse Witten,Philip Bester,7-6(8) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,R32,393,521,1,6,,Jesse Witten,Todd Paul,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters,3,Hard,Q1,364,91,0,WC,4,Paul Capdeville,Jesse Witten,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,USA F6,3,Hard,QF,397,354,0,5,4,Lester Cook,Jesse Witten,2-6 7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,USA F6,3,Hard,R16,397,640,1,5,,Jesse Witten,Daniel Lustig,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2009,USA F6,3,Hard,R32,397,,1,5,Q,Jesse Witten,Ryan Lipman,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,USA F5,3,Hard,F,385,479,1,5,8,Jesse Witten,Uladzimir Ignatik,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,USA F5,3,Hard,SF,385,489,1,5,,Jesse Witten,Michael Mcclune,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,USA F5,3,Hard,QF,385,,1,5,PR,Jesse Witten,Fritz Wolmarans,1-6 6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,USA F5,3,Hard,R16,385,725,1,5,SE,Jesse Witten,Mislav Hizak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Feb-2009,USA F5,3,Hard,R32,385,1369,1,5,WC,Jesse Witten,Alexei Grigorov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,USA F4,3,Hard,R32,382,,0,5,WC,Jaymon Crabb,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,USA F3,3,Clay,F,397,405,1,3,4,Jesse Witten,Nicolas Todero,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,USA F3,3,Clay,SF,397,493,1,3,,Jesse Witten,Grigor Dimitrov,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,USA F3,3,Clay,QF,397,1090,1,3,Q,Jesse Witten,Andrei Ciumac,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,USA F3,3,Clay,R16,397,488,1,3,,Jesse Witten,Daniel Yoo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,USA F3,3,Clay,R32,397,802,1,3,LL,Jesse Witten,Adam El Mihdawy,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,USA F2,3,Clay,R32,397,762,0,5,WC,Alexander Domijan,Jesse Witten,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,USA F1,3,Clay,QF,397,304,0,6,2,Jose De Armas,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,USA F1,3,Clay,R16,397,458,1,6,,Jesse Witten,Razvan Sabau,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,USA F1,3,Clay,R32,397,534,1,6,WC,Jesse Witten,Jean Yves Aubone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2008,Champaign CH,3,Hard,R32,403,116,0,WC,5,Kevin Kim,Jesse Witten,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Rimouski CH,3,Carpet,R16,417,222,0,,4,Joshua Goodall,Jesse Witten,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2008,Rimouski CH,3,Carpet,R32,417,382,1,,,Jesse Witten,Junn Mitsuhashi,6-7(7) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Louisville CH,3,Hard,R16,439,101,0,WC,2,Jesse Levine,Jesse Witten,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Oct-2008,Louisville CH,3,Hard,R32,439,184,1,WC,,Jesse Witten,Alex Bogdanovic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,USA F27,3,Hard,R32,442,260,0,,3,Brydan Klein,Jesse Witten,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Sacramento CH,3,Hard,R16,398,101,0,Q,2,Robert Kendrick,Jesse Witten,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2008,Sacramento CH,3,Hard,R32,398,253,1,Q,,Jesse Witten,Peter Polansky,4-6 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Lubbock CH,3,Hard,R16,278,188,0,,5,Rajeev Ram,Jesse Witten,3-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Sep-2008,Lubbock CH,3,Hard,R32,278,321,1,,,Jesse Witten,Julio Cesar Campozano,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2008,Waco CH,3,Hard,R32,263,255,0,,,Peter Polansky,Jesse Witten,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Tulsa CH,3,Hard,R32,257,250,0,,,Izak Van Der Merwe,Jesse Witten,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,US Open Q,3,Hard,Q1,247,136,0,,18,Bjorn Phau,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2008,Washington Q,3,Hard,Q2,244,153,0,,7,Rik De Voest,Jesse Witten,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2008,Washington Q,3,Hard,Q1,244,284,1,,,Jesse Witten,Ti Chen,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Binghamton CH,3,Hard,QF,264,142,0,,1,Paul Capdeville,Jesse Witten,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Binghamton CH,3,Hard,R16,264,503,1,,WC,Jesse Witten,Nathan Healey,7-6(4) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Binghamton CH,3,Hard,R32,264,272,1,,,Jesse Witten,Alex Kuznetsov,1-6 7-6(4) 7-6,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon Q,3,Grass,Q1,247,161,0,,26,Olivier Patience,Jesse Witten,6-7(6) 6-2 13-11,,,,,,,,,,,,,,,,,,,,,
+25-May-2008,Roland Garros Q,3,Clay,Q1,239,151,0,,28,Pablo Andujar,Jesse Witten,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bradenton CH,3,Clay,R16,237,1041,0,8,WC,Stephen Bass,Jesse Witten,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bradenton CH,3,Clay,R32,237,389,1,8,,Jesse Witten,Scott Oudsema,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Tunica Resorts CH,3,Clay,R32,217,124,0,,5,Robert Kendrick,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,R16,222,534,0,,LL,Jose Rubin Statham,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2008,Baton Rouge CH,3,Hard,R32,222,379,1,,,Jesse Witten,George Bastl,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Tallahassee CH,3,Hard,R16,229,121,0,,3,Robert Kendrick,Jesse Witten,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Tallahassee CH,3,Hard,R32,229,236,1,,,Jesse Witten,Bjorn Rehnquist,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2008,Humacao CH,3,Hard,R16,236,139,0,,4,Amer Delic,Jesse Witten,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Apr-2008,Humacao CH,3,Hard,R32,236,202,1,,,Jesse Witten,Alex Bogomolov Jr,6-4 3-6 5-3 RET,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,San Luis Potosi CH,3,Clay,R32,254,211,0,,,Adrian Garcia,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Salinas CH,3,Hard,QF,254,214,0,,,Diego Junqueira,Jesse Witten,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Salinas CH,3,Hard,R16,254,193,1,,,Jesse Witten,Alex Bogomolov Jr,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Salinas CH,3,Hard,R32,254,142,1,,3,Jesse Witten,Gilles Muller,7-6(5) 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Memphis Q,3,Hard,Q2,252,185,0,WC,,Frederic Niemeyer,Jesse Witten,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Feb-2008,Memphis Q,3,Hard,Q1,252,184,1,WC,8,Jesse Witten,Mathieu Montcourt,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose,3,Hard,R32,240,138,0,LL,WC,Robby Ginepri,Jesse Witten,6-2 5-7 6-4,0.84,4.7%,4.7%,54.1%,65.2%,48.7%,0/5,46.5%,35.6%,6.9%,30.2%,50.0%,3/6,172,4,4,85,46,39,6,1:39
+18-Feb-2008,San Jose Q,3,Hard,Q3,240,159,0,8,4,Sam Warburg,Jesse Witten,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose Q,3,Hard,Q2,240,766,1,8,,Jesse Witten,Julio Peralta,6-0 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose Q,3,Hard,Q1,240,233,1,8,,Jesse Witten,Takao Suzuki,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Delray Beach Q,3,Hard,Q2,222,244,0,8,,Kei Nishikori,Jesse Witten,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2008,Delray Beach Q,3,Hard,Q1,222,,1,8,WC,Jesse Witten,Filip Krajinovic,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,R16,236,224,0,,,Rajeev Ram,Jesse Witten,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2008,Dallas CH,3,Hard,R32,236,173,1,,6,Jesse Witten,Bruno Echagaray,3-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,R32,224,209,0,,,Benedikt Dorsch,Jesse Witten,4-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Miami CH,3,Clay,R32,224,186,0,,,Alex Bogomolov Jr,Jesse Witten,7-5 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Jan-2008,USA F1,3,Hard,R32,224,455,0,3,,Toshihide Matsui,Jesse Witten,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2007,Champaign CH,3,Hard,R32,212,260,0,,,Brian Wilson,Jesse Witten,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2007,Nashville CH,3,Hard,R32,216,189,0,,,Ilija Bozoljac,Jesse Witten,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2007,Louisville CH,3,Hard,R32,206,219,0,,,Brendan Evans,Jesse Witten,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Calabasas CH,3,Hard,QF,208,214,0,,,Ilija Bozoljac,Jesse Witten,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Calabasas CH,3,Hard,R16,208,296,1,,WC,Jesse Witten,Scoville Jenkins,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2007,Calabasas CH,3,Hard,R32,208,170,1,,7,Jesse Witten,Dusan Vemic,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Sacramento CH,3,Hard,R16,205,226,0,,,Ilija Bozoljac,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2007,Sacramento CH,3,Hard,R32,205,359,1,,Q,Jesse Witten,Fritz Wolmarans,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Tulsa CH,3,Hard,F,263,168,1,,6,Jesse Witten,Donald Young,7-6(8) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Tulsa CH,3,Hard,SF,263,323,1,,WC,Jesse Witten,Alberto Francis,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Tulsa CH,3,Hard,QF,263,176,1,,8,Jesse Witten,Brian Dabul,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Tulsa CH,3,Hard,R16,263,178,1,,,Jesse Witten,Dusan Vemic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-Sep-2007,Tulsa CH,3,Hard,R32,263,248,1,,,Jesse Witten,Brian Wilson,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Lubbock CH,3,Hard,R16,268,188,0,,,Alex Bogomolov Jr,Jesse Witten,7-6(1) 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2007,Lubbock CH,3,Hard,R32,268,260,1,,,Jesse Witten,Thiago Alves,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,New Orleans CH,3,Hard,R16,256,111,0,,3,Bobby Reynolds,Jesse Witten,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2007,New Orleans CH,3,Hard,R32,256,1233,1,,Q,Jesse Witten,Luis Manuel Flores,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,US Open Q,3,Hard,Q2,243,206,0,,,Roko Karanusic,Jesse Witten,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2007,US Open Q,3,Hard,Q1,243,246,1,,,Jesse Witten,Thomaz Bellucci,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Binghamton CH,3,Hard,R32,239,293,0,,,Nick Lindahl,Jesse Witten,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Vancouver CH,3,Hard,QF,244,275,0,,,Frederic Niemeyer,Jesse Witten,3-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Vancouver CH,3,Hard,R16,244,318,1,,WC,Jesse Witten,Phillip Simmonds,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Vancouver CH,3,Hard,R32,244,99,1,,3,Jesse Witten,Yen Hsun Lu,6-7(5) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Wimbledon Q,3,Grass,Q1,230,156,0,,27,Gilles Muller,Jesse Witten,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Yuba City CH,3,Hard,R16,220,438,0,,,Alex Bogomolov Jr,Jesse Witten,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Yuba City CH,3,Hard,R32,220,175,1,,6,Jesse Witten,Rajeev Ram,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Carson CH,3,Hard,R32,220,271,0,,,Ryan Sweeting,Jesse Witten,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Roland Garros Q,3,Clay,Q1,220,96,0,,3,Lukas Dlouhy,Jesse Witten,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Forest Hills CH,3,Clay,QF,233,108,0,,2,Paul Goldstein,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Forest Hills CH,3,Clay,R16,233,155,1,,6,Jesse Witten,Bobby Reynolds,7-6(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Forest Hills CH,3,Clay,R32,233,410,1,,Q,Jesse Witten,Peter Polansky,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Tunica Resorts CH,3,Clay,QF,245,220,0,,,Horacio Zeballos,Jesse Witten,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Tunica Resorts CH,3,Clay,R16,245,255,1,,WC,Jesse Witten,Scott Oudsema,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Tunica Resorts CH,3,Clay,R32,245,661,1,,WC,Jesse Witten,Chris Wettengel,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2007,Naples CH,3,Clay,R32,243,166,0,WC,,Juan Pablo Brzezicki,Jesse Witten,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Bermuda CH,3,Clay,R32,253,316,0,WC,Q,Alex Satschko,Jesse Witten,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2007,Valencia CH,3,Hard,R32,251,187,0,WC,4,Zack Fleishman,Jesse Witten,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Tallahassee CH,3,Hard,R16,252,191,0,,6,Wayne Odesnik,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2007,Tallahassee CH,3,Hard,R32,252,451,1,,Q,Jesse Witten,Jeff Salzenstein,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2007,Mexico City1 CH,3,Clay,R32,251,102,0,,1,Flavio Saretta,Jesse Witten,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2007,Bogota CH,3,Clay,R32,199,127,0,,7,Dick Norman,Jesse Witten,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Indian Wells Masters Q,3,Hard,Q2,199,111,0,,15,Chris Guccione,Jesse Witten,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,Indian Wells Masters Q,3,Hard,Q1,199,101,1,,9,Jesse Witten,Ivo Karlovic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2007,Memphis,3,Hard,R32,203,31,0,Q,6,Jurgen Melzer,Jesse Witten,1-6 6-3 7-6(3),1.07,12.0%,8.0%,57.3%,81.4%,56.3%,0/2,50.3%,31.3%,5.0%,26.8%,41.7%,3/6,155,9,6,75,43,32,4,1:25
+19-Feb-2007,Memphis Q,3,Hard,Q2,203,81,1,,1,Jesse Witten,Danai Udomchoke,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2007,Memphis Q,3,Hard,Q1,203,149,1,,8,Jesse Witten,Ramon Delgado,7-6(3) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Joplin CH,3,Hard,QF,177,334,0,4,,Frederic Niemeyer,Jesse Witten,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Joplin CH,3,Hard,R16,177,470,1,4,Q,Jesse Witten,Donald Young,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2007,Joplin CH,3,Hard,R32,177,568,1,4,Q,Jesse Witten,Tim Smyczek,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2007,Dallas CH,3,Hard,R32,179,85,0,,4,Robert Kendrick,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Waikoloa CH,3,Hard,R16,172,197,0,7,,Rajeev Ram,Jesse Witten,4-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,Waikoloa CH,3,Hard,R32,172,237,1,7,,Jesse Witten,Simon Stadler,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open Q,3,Hard,Q2,172,138,0,,18,Federico Luzzi,Jesse Witten,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,Australian Open Q,3,Hard,Q1,172,239,1,,,Jesse Witten,Dieter Kindlmann,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Naples CH,3,Clay,R32,174,130,0,,6,Carlos Berlocq,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Champaign CH,3,Hard,R16,174,191,0,,,Zack Fleishman,Jesse Witten,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2006,Champaign CH,3,Hard,R32,174,384,1,,Q,Jesse Witten,Wesley Whitehouse,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2006,Nashville CH,3,Hard,R32,172,198,0,,,Robin Haase,Jesse Witten,7-6(2) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,QF,179,117,0,,2,Robert Kendrick,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,R16,179,235,1,,,Jesse Witten,Eric Nunez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2006,Louisville CH,3,Hard,R32,179,175,1,,8,Jesse Witten,Jeff Morrison,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Calabasas CH,3,Hard,R16,180,100,0,,1,Danai Udomchoke,Jesse Witten,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2006,Calabasas CH,3,Hard,R32,180,1415,1,,WC,Jesse Witten,Gary Sacks,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Sacramento CH,3,Hard,QF,186,74,0,,1,Paul Goldstein,Jesse Witten,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Sacramento CH,3,Hard,R16,186,135,1,,7,Jesse Witten,Ilija Bozoljac,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2006,Sacramento CH,3,Hard,R32,186,576,1,,WC,Jesse Witten,Donald Young,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2006,Tulsa CH,3,Hard,R32,186,201,0,,,Zack Fleishman,Jesse Witten,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2006,Lubbock CH,3,Hard,R32,183,182,0,,,Chris Guccione,Jesse Witten,6-3 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,New Orleans CH,3,Hard,QF,187,167,0,7,4,Benedikt Dorsch,Jesse Witten,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,New Orleans CH,3,Hard,R16,187,351,1,7,WC,Jesse Witten,Tyler Cleveland,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2006,New Orleans CH,3,Hard,R32,187,606,1,7,WC,Jesse Witten,Tim Smyczek,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,R128,189,81,0,Q,,Paul Goldstein,Jesse Witten,6-3 6-4 2-6 3-6 6-1,1.06,9.9%,2.8%,53.9%,69.7%,49.2%,8/15,50.9%,42.0%,2.0%,38.6%,46.3%,6/15,291,14,4,141,76,65,3,3:00
+28-Aug-2006,US Open,5,Hard,Q3,189,257,1,,,Jesse Witten,Dieter Kindlmann,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q2,189,193,1,,,Jesse Witten,Pablo Andujar,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q1,189,256,1,,WC,Jesse Witten,Scott Oudsema,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Binghamton CH,3,Hard,R16,189,283,0,8,,John Paul Fruttero,Jesse Witten,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Binghamton CH,3,Hard,R32,189,236,1,8,,Jesse Witten,Phillip Simmonds,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Vancouver CH,3,Hard,R16,195,232,0,8,,Alun Jones,Jesse Witten,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2006,Vancouver CH,3,Hard,R32,195,227,1,8,,Jesse Witten,Ivo Heuberger,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Lexington CH,3,Hard,R32,196,427,0,4,,Nick Lindahl,Jesse Witten,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,R16,194,226,0,7,,Todd Widom,Jesse Witten,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,R32,194,346,1,7,Q,Jesse Witten,Michael Yani,6-7(4) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Sassuolo CH,3,Clay,R16,215,266,0,,,Michael Lammer,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Sassuolo CH,3,Clay,R32,215,81,1,,1,Jesse Witten,Alessio Di Mauro,6-7(3) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Turin CH,3,Clay,QF,215,272,0,,,Marcel Granollers,Jesse Witten,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Turin CH,3,Clay,R16,215,173,1,,4,Jesse Witten,Simone Bolelli,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Turin CH,3,Clay,R32,215,386,1,,Q,Jesse Witten,Andrey Golubev,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+8-May-2006,Tunica Resorts CH,3,Clay,R32,211,521,0,,Q,Jeff Salzenstein,Jesse Witten,2-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Atlanta CH,3,Clay,R16,214,213,0,,,Michael Russell,Jesse Witten,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Atlanta CH,3,Clay,R32,214,180,1,,,Jesse Witten,Amer Delic,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Bermuda CH,3,Clay,R32,215,121,0,WC,WC,Mardy Fish,Jesse Witten,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Apr-2006,Houston,3,Clay,R32,213,24,0,WC,4,Marcos Baghdatis,Jesse Witten,6-4 7-6(2),0.94,1.7%,0.0%,56.7%,79.4%,57.7%,2/4,48.4%,28.1%,3.1%,20.5%,40.0%,1/3,124,1,0,60,34,26,2,1:17
+3-Apr-2006,Aguascalientes CH,3,Clay,R16,215,104,0,,2,Razvan Sabau,Jesse Witten,6-7(4) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2006,Aguascalientes CH,3,Clay,R32,215,395,1,,,Jesse Witten,Gustavo Marcaccio,6-2 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,F,265,253,0,,,Benjamin Becker,Jesse Witten,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,SF,265,205,1,,,Jesse Witten,Martin Vassallo Arguello,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,QF,265,171,1,,4,Jesse Witten,Juan Pablo Brzezicki,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,R16,265,184,1,,7,Jesse Witten,Diego Junqueira,6-4 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,R32,265,359,1,,,Jesse Witten,Ivan Miranda,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,USA F5,3,Hard,F,267,898,1,2,WC,Jesse Witten,Alberto Francis,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,USA F5,3,Hard,SF,267,,1,2,Q,Jesse Witten,Nathan Thompson,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,USA F5,3,Hard,QF,267,845,1,2,Q,Jesse Witten,Jhonson Garcia,6-7(5) 7-6(2) 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,USA F5,3,Hard,R16,267,932,1,2,,Jesse Witten,Johan Brunstrom,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2006,USA F5,3,Hard,R32,267,790,1,2,Q,Jesse Witten,Daniel Wendler,3-6 6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,USA F4,3,Hard,R16,269,259,0,,3,Eric Nunez,Jesse Witten,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2006,USA F4,3,Hard,R32,269,824,1,,WC,Jesse Witten,Marcus Fugate,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Joplin CH,3,Hard,F,397,334,1,WC,Q,Jesse Witten,Benjamin Becker,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Joplin CH,3,Hard,SF,397,153,1,WC,5,Jesse Witten,Jeff Morrison,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Joplin CH,3,Hard,QF,397,207,1,WC,,Jesse Witten,John Paul Fruttero,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Joplin CH,3,Hard,R16,397,492,1,WC,Q,Jesse Witten,Nicholas Monroe,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2006,Joplin CH,3,Hard,R32,397,147,1,WC,3,Jesse Witten,Thiago Alves,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,USA F3,3,Hard,R32,,1495,0,8,Q,Denis Zivkovic,Jesse Witten,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,R16,442,565,0,8,,Jonathan Igbinovia,Jesse Witten,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,R32,442,648,1,8,LL,Jesse Witten,Lester Cook,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,F,438,525,1,8,,Jesse Witten,Tobias Clemens,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,SF,438,892,1,8,WC,Jesse Witten,Nikita Kryvonos,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,QF,438,,1,8,Q,Jesse Witten,Dmitry Vlasov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,R16,438,891,1,8,Q,Jesse Witten,Marcus Fugate,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,R32,438,1086,1,8,Q,Jesse Witten,Tim Smyczek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2005,Orlando CH,3,Hard,R32,447,285,0,WC,,Benedikt Dorsch,Jesse Witten,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,USA F29,3,Hard,SF,489,293,0,7,1,Wayne Odesnik,Jesse Witten,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,USA F29,3,Hard,QF,489,385,1,7,4,Jesse Witten,Brendan Evans,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,USA F29,3,Hard,R16,489,542,1,7,,Jesse Witten,Marco Crugnola,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2005,USA F29,3,Hard,R32,489,1432,1,7,Q,Jesse Witten,Christopher Lam,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,USA F28,3,Hard,QF,492,290,0,,1,Wayne Odesnik,Jesse Witten,7-5 5-7 7-6(1),,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,USA F28,3,Hard,R16,492,528,1,,8,Jesse Witten,David Martin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2005,USA F28,3,Hard,R32,492,1335,1,,WC,Jesse Witten,Gary Sacks,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Mexico F17,3,Hard,R16,538,630,0,6,,Daniel Langre,Jesse Witten,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2005,Mexico F17,3,Hard,R32,538,,1,6,WC,Jesse Witten,Francisco Gallardo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,USA F27,3,Hard,SF,534,766,0,7,WC,Benjamin Becker,Jesse Witten,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,USA F27,3,Hard,QF,534,,1,7,WC,Jesse Witten,Jesse Levine,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,USA F27,3,Hard,R16,534,,1,7,Q,Jesse Witten,Stuart Waters,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2005,USA F27,3,Hard,R32,534,831,1,7,,Jesse Witten,Daniel Yoo,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2005,Lubbock CH,3,Hard,R32,528,170,0,WC,7,Alex Bogomolov Jr,Jesse Witten,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Ecuador F2,3,Hard,F,738,359,1,SE,2,Jesse Witten,Brian Dabul,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Ecuador F2,3,Hard,SF,738,596,1,SE,,Jesse Witten,Eric Scherer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Ecuador F2,3,Hard,QF,738,,1,SE,Q,Jesse Witten,Benjamin Becker,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Ecuador F2,3,Hard,R16,738,800,1,SE,,Jesse Witten,Shuon Madden,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Ecuador F2,3,Hard,R32,738,,1,SE,Q,Jesse Witten,Daniel Isaza,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Ecuador F1,3,Hard,F,730,522,1,Q,6,Jesse Witten,Marcel Felder,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Ecuador F1,3,Hard,SF,730,481,1,Q,4,Jesse Witten,Raphael Durek,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Ecuador F1,3,Hard,QF,730,584,1,Q,,Jesse Witten,Eric Scherer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Ecuador F1,3,Hard,R16,730,787,1,Q,,Jesse Witten,Shuon Madden,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2005,Ecuador F1,3,Hard,R32,730,347,1,Q,2,Jesse Witten,Brian Dabul,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2005,Vancouver CH,3,Hard,R32,722,333,0,WC,Q,Eric Taino,Jesse Witten,3-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2005,Lexington CH,3,Hard,R32,415,256,0,,,Marcus Sarstrand,Jesse Witten,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2005,Indianapolis,3,Hard,R64,401,164,0,LL,WC,Andy Murray,Jesse Witten,6-4 6-2,0.63,6.2%,7.7%,50.8%,63.6%,40.6%,8/12,42.4%,30.2%,7.5%,15.6%,52.4%,1/5,118,4,5,65,33,32,4,1:05
+4-Jul-2005,USA F16,3,Clay,QF,435,449,0,4,8,Jeremy Wurtzman,Jesse Witten,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,USA F16,3,Clay,R16,435,938,1,4,LL,Jesse Witten,Pierre Ludovic Duclos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,USA F16,3,Clay,R32,435,,1,4,Q,Jesse Witten,Izak Van Der Merwe,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,USA F15,3,Clay,SF,,,0,4,,Alexandre Simoni,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,USA F15,3,Clay,QF,,,1,4,6,Jesse Witten,Raphael Durek,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,USA F15,3,Clay,R16,,,1,4,,Jesse Witten,Adam Fass,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,USA F15,3,Clay,R32,,,1,4,,Jesse Witten,Francisco Rodriguez,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,Cuenca CH,3,Clay,R16,445,258,0,,2,Boris Pashanski,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,Cuenca CH,3,Clay,R32,445,526,1,,,Jesse Witten,Chris Kwon,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,Champaign CH,3,Hard,R32,424,450,0,,Q,Ramon Delgado,Jesse Witten,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2004,Homestead CH,3,Hard,R32,425,188,0,WC,,Frank Dancevic,Jesse Witten,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2004,Binghamton CH,3,Hard,R32,434,149,0,WC,5,Kevin Kim,Jesse Witten,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,F,830,285,0,WC,,Matias Boeker,Jesse Witten,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,SF,830,366,1,WC,Q,Jesse Witten,Ti Chen,6-1 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,QF,830,296,1,WC,,Jesse Witten,Harsh Mankad,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,R16,830,166,1,WC,5,Jesse Witten,Uros Vico,6-7(5) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2004,Lexington CH,3,Hard,R32,830,,1,WC,WC,Jesse Witten,Trent Aaron,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,USA F20,3,Hard,F,1152,490,1,WC,2,Jesse Witten,Raphael Durek,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,USA F20,3,Hard,SF,1152,621,1,WC,7,Jesse Witten,Go Soeda,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,USA F20,3,Hard,QF,1152,469,1,WC,1,Jesse Witten,Scott Lipsky,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,USA F20,3,Hard,R16,1152,630,1,WC,,Jesse Witten,Kean Feeder,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2004,USA F20,3,Hard,R32,1152,648,1,WC,6,Jesse Witten,Matthew Hanlin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,F,1153,688,0,,4,Luis Manuel Flores,Jesse Witten,7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,SF,1153,440,1,,1,Jesse Witten,Lesley Joseph,6-4 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,QF,1153,1153,1,,WC,Jesse Witten,Nicholas Monroe,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,R16,1153,968,1,,,Jesse Witten,Alejandro Asta,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jul-2004,USA F19,3,Clay,R32,1153,1075,1,,WC,Jesse Witten,Christopher Clayton,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2004,Italy F11,3,Clay,R16,904,457,0,Q,,Giancarlo Petrazzuolo,Jesse Witten,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2004,Italy F11,3,Clay,R32,904,1421,1,Q,Q,Jesse Witten,Sat Galan,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,QF,830,559,0,,8,Domenic Marafiote,Jesse Witten,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,R16,830,639,1,,,Jesse Witten,Keith From,5-7 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,USA F23,3,Hard,R32,830,869,1,,SE,Jesse Witten,Matthew Hanlin,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,Lexington CH,3,Hard,R32,722,541,0,WC,Q,Nenad Toroman,Jesse Witten,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,USA F18,3,Clay,SF,839,331,0,WC,2,Michael Quintero,Jesse Witten,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,USA F18,3,Clay,QF,839,379,1,WC,3,Jesse Witten,Eduardo Bohrer,2-4 DEF,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,USA F18,3,Clay,R16,839,,1,WC,Q,Jesse Witten,Juan Ignacio Cerda,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2003,USA F18,3,Clay,R32,839,,1,WC,LL,Jesse Witten,Andrew Smith,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,USA F17,3,Clay,R16,839,285,0,,1,Justin Bower,Jesse Witten,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,USA F17,3,Clay,R32,839,805,1,,,Jesse Witten,Todd Widom,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,Canada F2,3,Hard,R16,841,302,0,,1,Simon Larose,Jesse Witten,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2003,Canada F2,3,Hard,R32,841,660,1,,,Jesse Witten,Shannon Nettle,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2003,Joplin CH,3,Hard,R32,869,293,0,WC,Q,Bob Bryan,Jesse Witten,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2002,Tyler CH,3,Hard,R32,861,1286,0,WC,Q,Benedikt Dorsch,Jesse Witten,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,873,249,0,WC,,Edwin Kempes,Jesse Witten,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2002,Lexington CH,3,Hard,R16,915,280,0,WC,,Levar Harper Griffith,Jesse Witten,1-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2002,Lexington CH,3,Hard,R32,915,219,1,WC,,Jesse Witten,Jimmy Wang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2002,USA F21,3,Hard,R32,943,320,0,WC,1,Daniel Willman,Jesse Witten,7-6(4) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2002,USA F20,3,Hard,R16,937,469,0,,5,Chad Carlson,Jesse Witten,7-6(4) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2002,USA F20,3,Hard,R32,937,,1,,Q,Jesse Witten,Nicholas Monroe,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,USA F24,3,Hard,R16,805,408,0,,3,Jeff Williams,Jesse Witten,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2001,USA F24,3,Hard,R32,805,825,1,,,Jesse Witten,James Shortall,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2001,USA F23,3,Hard,R16,796,488,0,,3,James Sekulov,Jesse Witten,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2001,USA F23,3,Hard,R32,796,863,1,,Q,Jesse Witten,Alexander Hartman,2-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2001,Lexington CH,3,Hard,R16,926,180,0,WC,4,Kevin Kim,Jesse Witten,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2001,Lexington CH,3,Hard,R32,926,854,1,WC,,Jesse Witten,Ben Ellwood,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-May-2001,USA F14,3,Clay,SF,,345,0,WC,3,James Sekulov,Jesse Witten,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-May-2001,USA F14,3,Clay,QF,,330,1,WC,2,Jesse Witten,Emanuel Couto,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+28-May-2001,USA F14,3,Clay,R16,,446,1,WC,6,Jesse Witten,Lee Pearson,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+28-May-2001,USA F14,3,Clay,R32,,770,1,WC,SE,Jesse Witten,Michael Quintero,6-2 6-4,,,,,,,,,,,,,,,,,,,,,

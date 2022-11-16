@@ -1,0 +1,868 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+24-Oct-2022,Lima CH,3,Clay,R32,230,231,0,LL,Alt,Thiago Agustin Tirante,Miljan Zekic,6-4 6-4,0.84,4.1%,0.0%,68.9%,60.8%,34.8%,5/9,46.7%,39.7%,4.8%,34.0%,61.5%,2/6,137,3,0,74,51,23,3,1:36
+24-Oct-2022,Lima CH,3,Clay,Q2,230,343,0,2,9,Thiago Seyboth Wild,Miljan Zekic,6-3 7-6(5),0.78,1.3%,1.3%,76.0%,63.2%,66.7%,6/7,46.0%,28.0%,2.7%,22.4%,47.1%,0/4,150,1,1,75,57,18,2,1:49
+24-Oct-2022,Lima CH,3,Clay,Q1,230,,1,2,WC,Miljan Zekic,Gianluca Ballotta,6-3 6-2,1.86,14.9%,4.3%,68.1%,87.5%,53.3%,0/0,58.8%,43.6%,0.0%,32.3%,58.3%,3/9,102,7,2,47,32,15,0,1:10
+17-Oct-2022,Ambato CH,3,Clay,QF,245,448,0,7,,Joao Lucas Reis Da Silva,Miljan Zekic,7-6(1) 6-1,0.59,22.2%,3.7%,66.7%,69.4%,38.9%,3/6,41.1%,24.1%,19.0%,16.2%,38.1%,1/4,112,12,2,54,36,18,11,1:09
+17-Oct-2022,Ambato CH,3,Clay,R16,245,386,1,7,,Miljan Zekic,Benjamin Lock,6-3 6-4,1.23,13.9%,4.2%,61.1%,72.7%,53.6%,4/5,56.2%,42.9%,8.2%,35.3%,60.0%,3/4,121,10,3,72,44,28,4,1:28
+17-Oct-2022,Ambato CH,3,Clay,R32,245,1449,1,7,Q,Miljan Zekic,N Sriram Balaji,6-4 7-6(9),1.45,17.9%,3.0%,74.6%,80.0%,64.7%,1/2,53.4%,34.6%,1.2%,25.5%,53.8%,2/6,148,12,2,67,50,17,1,1:45
+10-Oct-2022,Saint Tropez CH,3,Hard,R32,242,246,0,,,Oleksii Krutykh,Miljan Zekic,6-3 6-0,0.66,0.0%,0.0%,68.4%,43.6%,38.9%,3/9,40.2%,38.0%,0.0%,25.0%,50.0%,1/4,107,0,0,57,39,18,0,1:08
+3-Oct-2022,Parma CH,3,Clay,R16,246,77,0,,1,Roberto Carballes Baena,Miljan Zekic,6-3 6-2,0.61,2.2%,2.2%,65.2%,60.0%,43.8%,1/6,41.6%,27.9%,7.0%,17.9%,46.7%,1/1,89,1,1,46,30,16,3,1:15
+3-Oct-2022,Parma CH,3,Clay,R32,246,164,1,,,Miljan Zekic,Giulio Zeppieri,6-4 6-4,1.28,9.0%,1.5%,68.7%,73.9%,52.4%,4/5,53.8%,42.1%,3.9%,29.8%,62.1%,3/19,143,6,1,67,46,21,3,1:37
+26-Sep-2022,Lisbon CH,3,Clay,R32,234,162,0,Alt,,Gianluca Mager,Miljan Zekic,6-4 6-4,0.66,5.2%,1.7%,77.6%,66.7%,46.2%,6/9,44.5%,25.0%,9.6%,13.9%,50.0%,1/2,110,3,1,58,45,13,5,1:22
+12-Sep-2022,Szczecin CH,3,Clay,R32,233,73,0,,2,Roberto Carballes Baena,Miljan Zekic,7-5 6-1,0.59,3.9%,5.2%,54.5%,57.1%,45.7%,7/12,42.9%,28.6%,4.1%,21.1%,33.3%,1/2,126,3,4,77,42,35,2,1:45
+5-Sep-2022,Seville CH,3,Clay,R32,244,80,0,,3,Roberto Carballes Baena,Miljan Zekic,6-4 6-7(5) 6-1,0.58,3.7%,2.8%,58.7%,68.8%,44.4%,7/11,43.9%,23.8%,2.5%,21.2%,28.6%,1/3,189,4,3,109,64,45,2,2:34
+29-Aug-2022,Como CH,3,Clay,R16,244,264,0,,,Matteo Gigante,Miljan Zekic,6-3 3-6 7-6(5),0.99,8.0%,1.1%,62.1%,75.9%,45.5%,1/4,49.2%,35.1%,1.1%,33.3%,38.2%,3/8,181,7,1,87,54,33,1,2:12
+29-Aug-2022,Como CH,3,Clay,R32,244,189,1,,7,Miljan Zekic,Stefano Travaglia,6-3 6-4,1.45,5.7%,3.8%,60.4%,81.3%,47.6%,1/2,55.6%,46.5%,1.4%,42.2%,53.8%,4/8,124,3,2,53,32,21,1,1:25
+15-Aug-2022,Grodzisk Mazowiecki CH,3,Hard,R32,243,158,0,,5,Tomas Machac,Miljan Zekic,6-3 6-2,0.66,0.0%,6.6%,65.6%,55.0%,42.9%,4/9,43.0%,32.6%,10.9%,14.8%,57.9%,1/3,107,0,4,61,40,21,5,1:17
+18-Jul-2022,M25 Radomlje,3,Clay,QF,234,413,0,1,5,Matias Zukas,Miljan Zekic,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 Radomlje,3,Clay,R16,234,598,1,1,,Miljan Zekic,Pavel Nejedly,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M25 Radomlje,3,Clay,R32,234,,1,1,Q,Miljan Zekic,Tomislav Podvinski,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
+4-Jul-2022,Bogota CH,3,Clay,SF,276,247,0,7,5,Gerald Melzer,Miljan Zekic,6-1 2-6 6-4,0.71,7.7%,5.1%,55.1%,69.8%,51.4%,8/11,46.4%,27.4%,4.8%,13.3%,40.6%,2/2,140,6,4,78,43,35,3,2:00
+4-Jul-2022,Bogota CH,3,Clay,QF,276,197,1,7,3,Miljan Zekic,Felipe Meligeni Alves,2-6 6-3 6-4,1.09,2.6%,3.9%,52.6%,70.0%,61.1%,3/6,51.3%,37.2%,5.1%,23.5%,63.0%,3/6,154,2,3,76,40,36,4,1:48
+4-Jul-2022,Bogota CH,3,Clay,R16,276,318,1,7,,Miljan Zekic,Malek Jaziri,3-6 6-3 7-6(3),0.80,7.6%,4.8%,55.2%,75.9%,55.3%,7/8,48.7%,26.7%,9.3%,17.5%,34.8%,1/5,191,8,5,105,58,47,8,2:12
+4-Jul-2022,Bogota CH,3,Clay,R32,276,411,1,7,Q,Miljan Zekic,Mateus Alves,5-7 7-5 7-5,0.99,10.7%,3.3%,58.2%,74.6%,47.1%,6/9,50.9%,36.5%,3.8%,24.1%,52.2%,4/10,226,13,4,122,71,51,4,2:43
+27-Jun-2022,Cali CH,3,Clay,F,276,160,0,8,2,Facundo Mena,Miljan Zekic,6-2 7-6(3),0.49,1.4%,5.7%,57.1%,82.5%,36.7%,4/6,43.2%,18.2%,12.7%,11.5%,24.1%,0/0,125,1,4,70,40,30,7,1:40
+27-Jun-2022,Cali CH,3,Clay,SF,276,335,1,8,,Miljan Zekic,Nicolas Mejia,7-5 6-4,1.16,3.9%,7.8%,66.2%,76.5%,46.2%,10/11,53.4%,39.1%,5.8%,23.8%,63.0%,3/8,146,3,6,77,51,26,4,2:09
+27-Jun-2022,Cali CH,3,Clay,QF,276,354,1,8,Q,Miljan Zekic,Roman Andres Burruchaga,7-5 6-2,1.27,5.2%,0.0%,66.2%,64.7%,46.2%,6/9,56.3%,52.9%,3.9%,36.7%,76.2%,6/8,128,4,0,77,51,26,2,1:36
+27-Jun-2022,Cali CH,3,Clay,R16,276,408,1,8,,Miljan Zekic,Pedja Krstin,4-6 7-6(8) 7-5,1.04,8.6%,2.9%,68.6%,73.6%,30.3%,7/13,50.5%,41.4%,0.9%,36.1%,51.3%,6/9,216,9,3,105,72,33,1,2:46
+27-Jun-2022,Cali CH,3,Clay,R32,276,298,1,8,,Miljan Zekic,Aleksandar Kovacevic,1-6 6-4 6-1,1.11,9.8%,2.4%,59.8%,69.4%,48.5%,4/7,52.6%,43.2%,2.7%,28.2%,60.0%,4/8,156,8,2,82,49,33,2,1:51
+27-Jun-2022,Wimbledon,5,Grass,Q1,276,176,0,,,Santiago Fa Rodriguez Taverna,Miljan Zekic,6-3 7-6(3),1.28,5.4%,1.8%,62.5%,88.6%,57.1%,1/2,48.6%,29.8%,1.2%,18.8%,44.4%,0/4,140,3,1,56,35,21,1,1:28
+6-Jun-2022,Lyon CH,3,Clay,Q1,270,520,0,2,WC,Terence Atmane,Miljan Zekic,6-3 6-4,0.81,7.0%,3.5%,57.9%,66.7%,58.3%,2/4,45.5%,29.7%,6.3%,18.2%,41.9%,0/3,121,4,2,57,33,24,4,1:13
+16-May-2022,Lyon,3,Clay,Q1,259,179,0,,7,Michael Mmoh,Miljan Zekic,4-3 RET,0.93,3.7%,11.1%,55.6%,53.3%,50.0%,2/4,48.9%,45.0%,5.0%,28.6%,83.3%,1/3,47,1,3,27,15,12,1,0:44
+9-May-2022,Heilbronn CH,3,Clay,R16,265,213,0,LL,Alt,Alexander Ritschard,Miljan Zekic,6-1 6-1,0.51,4.4%,6.7%,55.6%,40.0%,40.0%,5/10,35.2%,30.4%,4.3%,24.1%,41.2%,0/5,91,2,3,45,25,20,2,0:58
+9-May-2022,Heilbronn CH,3,Clay,R32,265,309,1,LL,Q,Miljan Zekic,Sumit Nagal,3-6 5-1 RET,1.10,5.5%,5.5%,61.8%,67.6%,33.3%,1/4,52.5%,50.0%,4.3%,51.6%,46.7%,3/5,101,3,3,55,34,21,2,1:23
+9-May-2022,Heilbronn CH,3,Clay,Q2,265,467,0,2,,Rudolf Molleker,Miljan Zekic,6-3 7-6(4),0.65,10.3%,2.6%,64.1%,78.0%,39.3%,6/7,44.9%,23.2%,5.8%,10.5%,38.7%,0/2,147,8,2,78,50,28,4,1:54
+9-May-2022,Heilbronn CH,3,Clay,Q1,265,611,1,2,Alt,Miljan Zekic,Thomas Fancutt,6-0 6-3,2.76,7.9%,2.6%,50.0%,84.2%,73.7%,2/2,67.9%,58.1%,2.3%,50.0%,65.2%,5/6,81,3,1,38,19,19,1,0:53
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,F,285,303,0,1,2,Laurent Lokoli,Miljan Zekic,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,SF,285,469,1,1,6,Miljan Zekic,Lukas Neumayer,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,QF,285,739,1,1,,Miljan Zekic,Davide Galoppini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R16,285,,1,1,Q,Miljan Zekic,Niccolo Baroni,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2022,M25 Santa Margherita di Pula,3,Clay,R32,285,813,1,1,,Miljan Zekic,Simon Beaupain,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2022,Split CH,3,Clay,R32,278,264,0,SE,Q,Alexander Shevchenko,Miljan Zekic,4-6 6-3 6-2,0.94,0.0%,1.5%,58.8%,65.0%,42.9%,0/5,47.8%,41.6%,0.0%,33.9%,56.7%,3/6,157,0,1,68,40,28,0,2:07
+11-Apr-2022,Barletta CH,3,Clay,F,355,149,0,Q,2,Nuno Borges,Miljan Zekic,6-3 7-5,0.83,1.6%,0.0%,65.6%,67.5%,38.1%,1/4,45.3%,35.5%,1.3%,35.1%,36.8%,1/8,137,1,0,61,40,21,1,1:37
+11-Apr-2022,Barletta CH,3,Clay,SF,355,232,1,Q,WC,Miljan Zekic,Luca Nardi,6-7(4) 7-5 7-6(2),1.04,2.6%,2.6%,56.9%,72.7%,42.0%,1/7,50.9%,42.0%,1.8%,35.2%,53.7%,7/13,228,3,3,116,66,50,2,2:56
+11-Apr-2022,Barletta CH,3,Clay,QF,355,275,1,Q,Alt,Miljan Zekic,Alexander Shevchenko,6-4 6-4,1.10,2.6%,2.6%,62.3%,75.0%,37.9%,5/6,52.9%,42.9%,1.6%,39.3%,45.7%,3/5,140,2,2,77,48,29,1,1:43
+11-Apr-2022,Barletta CH,3,Clay,R16,355,354,1,Q,WC,Miljan Zekic,Francesco Passaro,2-6 7-6(10) 6-0,1.02,2.7%,5.4%,67.9%,65.8%,30.6%,7/11,50.7%,46.2%,1.1%,42.1%,52.8%,5/9,205,3,6,112,76,36,1,2:38
+11-Apr-2022,Barletta CH,3,Clay,R32,355,230,1,Q,,Miljan Zekic,Andrea Arnaboldi,2-6 6-4 6-0,1.16,8.8%,5.0%,56.3%,75.6%,37.1%,4/7,52.7%,48.0%,0.0%,36.1%,65.9%,5/19,182,7,4,80,45,35,0,2:00
+11-Apr-2022,Barletta CH,3,Clay,Q2,355,411,1,6,11,Miljan Zekic,Alexandar Lazarov,6-1 6-3,1.60,6.1%,0.0%,49.0%,83.3%,52.0%,2/3,59.8%,52.1%,2.1%,46.7%,61.1%,5/6,97,3,0,49,24,25,1,1:12
+11-Apr-2022,Barletta CH,3,Clay,Q1,355,618,1,6,Alt,Miljan Zekic,Sadio Doumbia,6-4 6-3,1.17,1.6%,1.6%,73.0%,69.6%,41.2%,4/5,53.2%,44.4%,3.2%,35.1%,57.7%,4/6,126,1,1,63,46,17,2,1:14
+4-Apr-2022,Sanremo CH,3,Clay,R16,346,302,0,,,Alexey Vatutin,Miljan Zekic,5-7 6-2 6-4,0.94,11.7%,1.0%,71.8%,66.2%,44.8%,7/11,48.6%,37.4%,2.8%,29.3%,56.3%,2/15,210,12,1,103,74,29,3,2:27
+4-Apr-2022,Sanremo CH,3,Clay,R32,346,133,1,,4,Miljan Zekic,Pierre Hugues Herbert,4-6 6-3 6-3,1.25,3.7%,1.2%,47.6%,64.1%,65.1%,3/6,53.7%,44.2%,3.2%,44.1%,44.4%,5/12,177,3,1,82,39,43,3,2:10
+21-Mar-2022,Zadar CH,3,Clay,R16,331,161,0,Q,8,Manuel Guinard,Miljan Zekic,6-3 6-4,0.84,0.0%,1.9%,57.4%,61.3%,39.1%,5/9,45.3%,40.5%,1.4%,40.7%,40.0%,2/6,128,0,1,54,31,23,1,1:29
+21-Mar-2022,Zadar CH,3,Clay,R32,331,273,1,Q,,Miljan Zekic,Lukas Rosol,6-3 6-4,1.17,1.6%,6.3%,62.5%,55.0%,54.2%,7/10,53.9%,53.1%,1.6%,40.0%,84.2%,6/11,128,1,4,64,40,24,1,1:23
+21-Mar-2022,Zadar CH,3,Clay,Q2,331,448,1,3,10,Miljan Zekic,Juan Pablo Paz,6-3 6-3,1.35,4.8%,3.2%,54.8%,70.6%,42.9%,3/6,57.3%,56.5%,0.0%,56.4%,56.5%,6/11,124,3,2,62,34,28,0,1:43
+21-Mar-2022,Zadar CH,3,Clay,Q1,331,680,1,3,,Miljan Zekic,Luca Castelnuovo,6-0 6-4,1.59,5.8%,5.8%,61.5%,71.9%,55.0%,5/6,60.2%,54.9%,2.0%,47.2%,73.3%,5/10,103,3,3,52,32,20,1,1:10
+7-Mar-2022,M25 Porec,3,Clay,R32,321,727,0,1,,Sebastian Gima,Miljan Zekic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2022,Las Palmas CH,3,Clay,R32,323,422,0,,WC,Pol Martin Tiffon,Miljan Zekic,6-4 6-3,0.71,3.1%,4.6%,56.9%,64.9%,50.0%,4/7,44.7%,29.3%,3.4%,20.6%,41.7%,0/2,123,2,3,65,37,28,2,1:29
+14-Feb-2022,M25 Antalya,3,Clay,QF,330,279,0,6,2,Duje Ajdukovic,Miljan Zekic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M25 Antalya,3,Clay,R16,330,565,1,6,,Miljan Zekic,Alex Marti Pujolras,7-5 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,M25 Antalya,3,Clay,R32,330,412,1,6,,Miljan Zekic,Giovanni Fonio,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M15 Antalya,3,Clay,QF,327,523,0,3,8,Martin Cuevas,Miljan Zekic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M15 Antalya,3,Clay,R16,327,596,1,3,,Miljan Zekic,Maxime Chazal,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M15 Antalya,3,Clay,R32,327,565,1,3,,Miljan Zekic,Maxime Hamou,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Antalya,3,Clay,SF,333,601,0,1,7,Cezar Cretu,Miljan Zekic,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Antalya,3,Clay,QF,333,888,1,1,,Miljan Zekic,Marcello Serafini,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Antalya,3,Clay,R16,333,1069,1,1,,Miljan Zekic,Gabriele Bosio,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2022,M15 Antalya,3,Clay,R32,333,,1,1,Q,Miljan Zekic,Igor Shrolik,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Cairo,3,Clay,QF,332,708,0,2,,Lukas Krainer,Miljan Zekic,6-7(9) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Cairo,3,Clay,R16,332,1098,1,2,Q,Miljan Zekic,Gabriele Bosio,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2022,M25 Cairo,3,Clay,R32,332,590,1,2,,Miljan Zekic,David Pichler,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Nov-2021,Antalya 3 CH,3,Clay,R32,308,281,0,,7,Geoffrey Blancaneaux,Miljan Zekic,7-6(2) 6-3,0.81,1.3%,4.0%,76.0%,52.6%,38.9%,3/8,45.3%,41.1%,0.0%,38.9%,47.4%,3/8,148,1,3,75,57,18,0,1:56
+4-Oct-2021,Napoli CH,3,Clay,R32,307,207,0,Alt,7,Gian Marco Moroni,Miljan Zekic,6-1 6-7(2) 6-2,0.64,1.9%,0.9%,57.4%,54.8%,52.2%,9/14,43.5%,29.5%,2.6%,15.6%,48.5%,1/1,186,2,1,108,62,46,2,
+27-Sep-2021,Murcia CH,3,Clay,QF,321,131,0,,2,Tallon Griekspoor,Miljan Zekic,6-0 0-6 6-3,0.90,8.1%,0.0%,58.1%,63.9%,50.0%,0/4,48.0%,37.7%,3.3%,19.4%,56.7%,3/9,123,5,0,62,36,26,2,1:34
+27-Sep-2021,Murcia CH,3,Clay,R16,321,528,1,,Q,Miljan Zekic,Mats Rosenkranz,6-4 6-4,1.19,12.7%,0.0%,71.4%,75.6%,55.6%,7/7,52.8%,35.9%,7.8%,21.9%,50.0%,2/6,127,8,0,63,45,18,5,1:32
+27-Sep-2021,Murcia CH,3,Clay,R32,321,190,1,,6,Miljan Zekic,Ramkumar Ramanathan,3-6 6-4 6-3,0.94,1.4%,4.1%,54.8%,80.0%,45.5%,0/3,49.0%,33.3%,4.2%,24.4%,45.2%,4/6,145,1,3,73,40,33,3,1:47
+6-Sep-2021,Banja Luka CH,3,Clay,R32,328,182,0,,7,Zdenek Kolar,Miljan Zekic,6-3 6-1,0.62,1.9%,3.8%,55.8%,41.4%,21.7%,5/12,37.3%,42.0%,6.0%,25.9%,60.9%,3/3,102,1,2,52,29,23,3,1:12
+23-Aug-2021,Prague 3 CH,3,Clay,R32,324,351,0,8,,Ryan Peniston,Miljan Zekic,6-0 4-1 RET,0.36,0.0%,0.0%,87.2%,38.2%,40.0%,5/9,31.0%,21.9%,0.0%,22.2%,21.4%,0/0,71,0,0,39,34,5,0,0:49
+26-Jul-2021,Poznan CH,3,Clay,R16,332,126,0,LL,2,Botic Van De Zandschulp,Miljan Zekic,6-4 6-1,0.33,3.4%,5.2%,63.8%,56.8%,38.1%,6/11,37.2%,16.7%,13.9%,4.3%,38.5%,1/1,94,2,3,58,37,21,5,1:06
+26-Jul-2021,Poznan CH,3,Clay,R32,332,237,1,LL,,Miljan Zekic,Gastao Elias,6-2 7-5,1.21,1.5%,6.2%,56.9%,70.3%,32.1%,4/8,54.9%,55.7%,0.0%,43.5%,72.7%,7/15,144,1,4,65,37,28,0,2:08
+26-Jul-2021,Poznan CH,3,Clay,Q2,332,240,0,6,1,Joao Domingues,Miljan Zekic,4-6 6-4 6-2,0.90,2.2%,6.7%,61.1%,69.1%,28.6%,6/12,47.8%,42.2%,0.0%,37.0%,50.0%,4/7,180,2,6,90,55,35,0,2:41
+26-Jul-2021,Poznan CH,3,Clay,Q1,332,447,1,6,Alt,Miljan Zekic,Bogdan Bobrov,6-4 6-1,1.86,2.2%,0.0%,60.0%,77.8%,55.6%,3/5,62.7%,57.9%,0.0%,50.0%,68.0%,5/11,102,1,0,45,27,18,0,1:22
+12-Jul-2021,Iasi CH,3,Clay,SF,385,222,0,Q,5,Zdenek Kolar,Miljan Zekic,7-5 2-6 6-2,0.90,9.3%,7.2%,52.6%,70.6%,41.3%,8/12,47.7%,39.0%,2.0%,34.3%,48.5%,3/12,197,9,7,97,51,46,2,2:50
+12-Jul-2021,Iasi CH,3,Clay,QF,385,325,1,Q,,Miljan Zekic,Lucas Miedler,7-5 6-2,1.76,9.3%,3.7%,51.9%,89.3%,61.5%,0/0,56.8%,42.3%,4.2%,27.5%,61.3%,3/8,125,5,2,54,28,26,3,1:43
+12-Jul-2021,Iasi CH,3,Clay,R16,385,339,1,Q,Alt,Miljan Zekic,Hernan Casanova,6-3 7-6(3),1.11,2.4%,4.8%,62.7%,78.8%,38.7%,6/8,53.3%,40.3%,0.0%,35.7%,48.0%,3/8,150,2,4,83,52,31,0,2:20
+12-Jul-2021,Iasi CH,3,Clay,R32,385,229,1,Q,7,Miljan Zekic,Maxime Janvier,6-3 7-6(4),1.16,3.9%,1.3%,66.2%,70.6%,61.5%,5/7,54.3%,37.7%,1.6%,33.3%,42.9%,3/3,138,3,1,77,51,26,1,1:50
+12-Jul-2021,Iasi CH,3,Clay,Q2,385,464,1,2,6,Miljan Zekic,Alejandro Gonzalez,6-2 7-6(3),1.53,6.7%,1.7%,70.0%,73.8%,66.7%,0/1,56.7%,43.3%,0.0%,42.5%,44.4%,3/8,127,4,1,60,42,18,0,1:46
+12-Jul-2021,Iasi CH,3,Clay,Q1,385,567,1,2,,Miljan Zekic,Jonathan Eysseric,6-2 6-2,1.79,2.2%,0.0%,52.2%,83.3%,50.0%,0/1,62.8%,58.3%,2.1%,54.8%,64.7%,5/8,94,1,0,46,24,22,1,1:15
+5-Jul-2021,Salzburg CH,3,Clay,Q1,382,324,0,,8,Filip Cristian Jianu,Miljan Zekic,7-6(5) 6-3,0.84,4.9%,6.6%,55.7%,76.5%,33.3%,2/4,45.5%,35.6%,5.5%,24.4%,50.0%,1/2,134,3,4,61,34,27,4,
+28-Jun-2021,M25 Belgrade,3,Clay,QF,382,805,0,4,Q,Daniel Cukierman,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Belgrade,3,Clay,R16,382,856,1,4,PR,Miljan Zekic,Edoardo Eremin,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Belgrade,3,Clay,R32,382,604,1,4,,Miljan Zekic,Savriyan Danilov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,QF,399,432,0,6,,Franco Agamenone,Miljan Zekic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,R16,399,502,1,6,,Miljan Zekic,Alexis Gautier,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,R32,399,1500,1,6,LL,Miljan Zekic,Nicolas Tepmahc,6-0 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Skopje,3,Clay,F,410,556,1,1,8,Miljan Zekic,Alexandar Lazarov,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Skopje,3,Clay,SF,410,684,1,1,,Miljan Zekic,Simone Roncalli,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2021,M15 Skopje,3,Clay,QF,410,539,1,1,6,Miljan Zekic,Nicholas David Ionel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Skopje,3,Clay,SF,410,548,0,1,6,Alexis Gautier,Miljan Zekic,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Skopje,3,Clay,QF,410,539,1,1,5,Miljan Zekic,Nicholas David Ionel,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Skopje,3,Clay,R16,410,842,1,1,Q,Miljan Zekic,Petr Michnev,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+31-May-2021,M15 Skopje,3,Clay,R32,410,,1,1,Q,Miljan Zekic,Osman Torski,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Kiseljak,3,Clay,R32,407,,0,3,WC,Luka Todorovic,Miljan Zekic,0-3 RET,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Prijedor,3,Clay,QF,410,388,0,5,3,Denis Yevseyev,Miljan Zekic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Prijedor,3,Clay,R16,410,643,1,5,,Miljan Zekic,Luca Giacomini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M15 Prijedor,3,Clay,R32,410,664,1,5,,Miljan Zekic,Naoki Tajima,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Apr-2021,Rome 2 CH,3,Clay,Q1,413,305,0,Alt,,Nino Serdarusic,Miljan Zekic,6-0 6-0,0.54,2.4%,4.9%,53.7%,36.4%,26.3%,3/9,34.4%,36.7%,10.2%,26.9%,47.8%,0/4,90,1,2,41,22,19,5,1:05
+19-Apr-2021,M15 Cairo,3,Clay,R16,413,606,0,2,,Juan Ignacio Galarza,Miljan Zekic,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Apr-2021,M15 Cairo,3,Clay,R32,413,1148,1,2,,Miljan Zekic,Felix Gill,6-2 6-7(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,Split 1 CH,3,Clay,Q2,398,263,0,Alt,3,Akira Santillan,Miljan Zekic,2-6 6-3 6-4,0.93,1.1%,3.4%,49.4%,65.1%,45.5%,5/10,48.5%,41.7%,1.2%,37.5%,47.2%,5/8,171,1,3,87,43,44,1,2:12
+5-Apr-2021,Split 1 CH,3,Clay,Q1,398,333,1,Alt,8,Miljan Zekic,Nerman Fatic,4-6 6-4 6-4,1.14,0.0%,1.1%,62.1%,66.1%,52.8%,8/12,52.2%,44.3%,2.8%,37.5%,54.8%,5/17,201,0,1,95,59,36,3,2:29
+22-Mar-2021,M15 Antalya,3,Clay,F,441,451,1,3,2,Miljan Zekic,Daniel Michalski,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Antalya,3,Clay,SF,441,637,1,3,,Miljan Zekic,Dragos Nicolae Madaras,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Antalya,3,Clay,QF,441,509,1,3,7,Miljan Zekic,Fabian Marozsan,6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Antalya,3,Clay,R16,441,,1,3,Q,Miljan Zekic,Aleksandr Braynin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Mar-2021,M15 Antalya,3,Clay,R32,441,1655,1,3,Q,Miljan Zekic,Max Alcala Gurri,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Antalya,3,Clay,F,451,675,1,4,SE,Miljan Zekic,Matheus Pucinelli De Almeida,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Antalya,3,Clay,SF,451,583,1,4,,Miljan Zekic,Mate Valkusz,4-6 7-5 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Antalya,3,Clay,QF,451,586,1,4,8,Miljan Zekic,Juan Pablo Paz,6-7(9) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Antalya,3,Clay,R16,451,896,1,4,Q,Miljan Zekic,Vladimir Korolev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2021,M15 Antalya,3,Clay,R32,451,,1,4,,Miljan Zekic,Alexander Hoogmartens,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Antalya,3,Clay,F,461,683,0,5,,Matheus Pucinelli De Almeida,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Antalya,3,Clay,SF,461,427,1,5,3,Miljan Zekic,Peter Heller,7-6(4) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Antalya,3,Clay,QF,461,397,1,5,2,Miljan Zekic,Ergi Kirkin,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Antalya,3,Clay,R16,461,635,1,5,,Miljan Zekic,Alexander Weis,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Antalya,3,Clay,R32,461,,1,5,,Miljan Zekic,Max Westphal,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Antalya,3,Clay,F,459,721,0,5,Q,Dragos Nicolae Madaras,Miljan Zekic,2-6 7-6(6) 6-5 RET,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Antalya,3,Clay,SF,459,557,1,5,,Miljan Zekic,Oleksii Krutykh,6-7(0) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Antalya,3,Clay,QF,459,377,1,5,2,Miljan Zekic,Raul Brancaccio,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Antalya,3,Clay,R16,459,,1,5,,Miljan Zekic,Toby Alex Kodat,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Antalya,3,Clay,R32,459,578,1,5,,Miljan Zekic,Marvin Netuschil,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2021,M15 Antalya,3,Clay,R32,475,874,0,,Q,Federico Arnaboldi,Miljan Zekic,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Antalya,3,Clay,F,474,396,0,,7,Nuno Borges,Miljan Zekic,6-4 3-3 RET,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Antalya,3,Clay,SF,474,1362,1,,,Miljan Zekic,Hamad Medjedovic,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Antalya,3,Clay,QF,474,510,1,,,Miljan Zekic,Pol Martin Tiffon,7-5 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Antalya,3,Clay,R16,474,1016,1,,WC,Miljan Zekic,Baran Cengiz,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Feb-2021,M15 Antalya,3,Clay,R32,474,389,1,,5,Miljan Zekic,Agustin Velotti,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,R32,476,638,0,6,,Lenny Hampel,Miljan Zekic,7-6(6) RET,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R16,475,604,1,6,,Miljan Zekic,Daniele Capecchi,6-7(4) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R32,475,741,1,6,PR,Miljan Zekic,Gonzalo Lama,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Dec-2020,M15 Antalya,3,Clay,R32,470,809,0,6,,Billy Harris,Miljan Zekic,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,R16,503,581,0,5,,Erik Crepaldi,Miljan Zekic,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Nov-2020,M15 Cairo,3,Clay,R32,503,652,1,5,,Miljan Zekic,Manish Sureshkumar,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,F,510,1355,1,5,Q,Miljan Zekic,Niels Visker,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,SF,510,434,1,5,2,Miljan Zekic,Daniel Michalski,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,QF,510,637,1,5,,Miljan Zekic,Juan Pablo Paz,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,R16,510,603,1,5,,Miljan Zekic,Erik Crepaldi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2020,M15 Cairo,3,Clay,R32,510,700,1,5,,Miljan Zekic,Carlos Sanchez Jover,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Sharm El Sheikh,3,Hard,QF,510,618,0,7,,Erik Crepaldi,Miljan Zekic,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Sharm El Sheikh,3,Hard,R16,510,,1,7,,Miljan Zekic,Guy Den Ouden,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Nov-2020,M15 Sharm El Sheikh,3,Hard,R32,510,671,1,7,,Miljan Zekic,Benjamin Dhoe,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2020,M15 Sharm El Sheikh,3,Hard,R32,507,617,0,Q,,Erik Crepaldi,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2020,M15 Sharm El Sheikh,3,Hard,R32,506,431,0,,4,Petros Chrysochos,Miljan Zekic,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Sharm El Sheikh,3,Hard,R16,507,374,0,,1,Pablo Vivero Gonzalez,Miljan Zekic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2020,M15 Sharm El Sheikh,3,Hard,R32,507,631,1,,Q,Miljan Zekic,Georgii Kravchenko,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,Sibiu CH,3,Clay,Q1,514,413,0,,4,Matteo Martineau,Miljan Zekic,4-0 RET,0.39,14.3%,0.0%,85.7%,41.7%,0.0%,0/2,30.8%,25.0%,16.7%,0.0%,100.0%,0/0,26,2,0,14,12,2,2,0:16
+14-Sep-2020,M25 Prague,3,Clay,QF,514,332,0,Q,,Christian Lindell,Miljan Zekic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M25 Prague,3,Clay,R16,514,376,1,Q,,Miljan Zekic,Uladzimir Ignatik,6-7(5) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M25 Prague,3,Clay,R32,514,850,1,Q,Q,Miljan Zekic,Pawel Cias,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,SF,513,452,0,Q,,Carlos Gomez Herrera,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,QF,513,324,1,Q,6,Miljan Zekic,Tomas Martin Etcheverry,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,R16,513,493,1,Q,,Miljan Zekic,Martin Cuevas,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,R32,513,331,1,Q,4,Miljan Zekic,Nicolas Alvarez,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Antalya,3,Clay,F,554,579,0,5,6,Timofey Skatov,Miljan Zekic,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Antalya,3,Clay,SF,554,971,1,5,,Miljan Zekic,Justin Eleveld,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Antalya,3,Clay,QF,554,549,1,5,4,Miljan Zekic,Peter Nagy,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Antalya,3,Clay,R16,554,1139,1,5,,Miljan Zekic,Nitin Kumar Sinha,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2020,M15 Antalya,3,Clay,R32,554,,1,5,WC,Miljan Zekic,Umut Akkoyun,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15+H Bagnoles-de-l'Orne,3,Clay,R16,551,,0,7,Q,Jurgen Briand,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2020,M15+H Bagnoles-de-l'Orne,3,Clay,R32,551,,1,7,Q,Miljan Zekic,Luca Van Assche,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Antalya,3,Clay,SF,570,541,0,,6,Alvaro Lopez San Martin,Miljan Zekic,7-5 2-6 10-3,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Antalya,3,Clay,QF,570,436,1,,2,Miljan Zekic,Ronald Slobodchikov,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Antalya,3,Clay,R16,570,545,1,,5,Miljan Zekic,Marco Bortolotti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2019,M15 Antalya,3,Clay,R32,570,707,1,,,Miljan Zekic,Gustav Hansson,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,M15 Antalya,3,Clay,R32,652,550,0,Q,4,Marvin Netuschil,Miljan Zekic,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Antalya,3,Clay,F,650,254,1,,,Miljan Zekic,Pavel Kotov,3-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Antalya,3,Clay,SF,650,421,1,,3,Miljan Zekic,Ronald Slobodchikov,3-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Antalya,3,Clay,QF,650,681,1,,,Miljan Zekic,Duje Ajdukovic,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Antalya,3,Clay,R16,650,1477,1,,LL,Miljan Zekic,Davide Albertoni,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2019,M15 Antalya,3,Clay,R32,650,1150,1,,,Miljan Zekic,Lukas Krainer,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,QF,716,607,0,,,Mircea Alexandru Jecan,Miljan Zekic,2-6 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,R16,716,1020,1,,,Miljan Zekic,Gorazd Srbljak,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2019,M15 Antalya,3,Clay,R32,716,498,1,,3,Miljan Zekic,Matias Zukas,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Antalya,3,Clay,SF,711,714,0,8,,Alexander Shevchenko,Miljan Zekic,7-6(2) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Antalya,3,Clay,QF,711,378,1,8,,Miljan Zekic,Riccardo Bonadio,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Antalya,3,Clay,R16,711,1085,1,8,WC,Miljan Zekic,Yanki Erel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2019,M15 Antalya,3,Clay,R32,711,1403,1,8,,Miljan Zekic,Andrea Borroni,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2019,Banja Luka CH,3,Clay,R64,443,277,0,,,Baptiste Crepatte,Miljan Zekic,4-6 1-1 RET,1.43,2.8%,8.3%,52.8%,73.7%,70.6%,2/2,52.8%,39.6%,9.4%,34.2%,53.3%,1/2,89,1,3,36,19,17,5,1:02
+26-Aug-2019,Baotou CH,3,Clay,R32,454,297,0,,13,Tsung Hua Yang,Miljan Zekic,6-3 5-7 6-1,0.61,6.0%,3.6%,70.2%,64.4%,44.0%,3/8,43.2%,25.4%,18.3%,12.2%,43.3%,2/4,155,5,3,84,59,25,13,1:47
+26-Aug-2019,Baotou CH,3,Clay,R64,454,601,1,,,Miljan Zekic,Kento Takeuchi,4-6 6-3 6-4,1.60,11.4%,2.5%,69.6%,83.6%,58.3%,0/1,55.4%,38.5%,0.0%,38.3%,38.9%,2/8,175,9,2,79,55,24,0,1:56
+19-Aug-2019,M25 Poznan,3,Clay,QF,453,464,0,6,,Camilo Ugo Carabelli,Miljan Zekic,3-6 6-3 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Poznan,3,Clay,R16,453,597,1,6,,Miljan Zekic,Jesper De Jong,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2019,M25 Poznan,3,Clay,R32,453,540,1,6,,Miljan Zekic,Robert Strombachs,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2019,Portoroz CH,3,Hard,R32,432,245,0,,9,Matteo Viola,Miljan Zekic,6-0 6-3,0.40,0.0%,4.9%,53.7%,54.5%,26.3%,2/7,32.9%,23.7%,0.0%,15.6%,66.7%,1/2,79,0,2,41,22,19,0,0:50
+12-Aug-2019,Portoroz CH,3,Hard,R64,432,665,1,,WC,Miljan Zekic,Tom Kocevar Desman,4-6 7-6(6) 6-3,1.12,5.6%,3.7%,58.9%,69.8%,56.8%,6/9,51.8%,39.6%,3.6%,31.1%,50.0%,4/10,218,6,4,107,63,44,4,2:35
+5-Aug-2019,M15 Novi Sad,3,Clay,R16,431,1047,0,,,Ljubomir Celebic,Miljan Zekic,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2019,M15 Novi Sad,3,Clay,R32,431,1097,1,,Q,Miljan Zekic,Milan Drinic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2019,Kitzbuhel,3,Clay,Q1,423,198,0,,6,Carlos Berlocq,Miljan Zekic,6-3 6-2,0.32,0.0%,3.4%,69.5%,61.0%,44.4%,5/8,38.6%,14.3%,2.4%,4.5%,25.0%,0/0,101,0,2,59,41,18,1,1:12
+22-Jul-2019,Tampere CH,3,Clay,R64,398,451,0,,ITF,Botic Van De Zandschulp,Miljan Zekic,6-4 6-2,0.76,0.0%,1.7%,69.0%,45.0%,38.9%,1/7,43.1%,43.1%,0.0%,40.5%,50.0%,3/4,109,0,1,58,40,18,0,1:12
+15-Jul-2019,Umag,3,Clay,Q1,400,169,0,Alt,5,Tommy Robredo,Miljan Zekic,6-2 6-3,0.59,3.6%,7.1%,58.9%,60.6%,30.4%,2/7,40.0%,30.6%,0.0%,35.1%,16.7%,1/5,105,2,4,56,33,23,0,1:19
+22-Apr-2019,Tallahassee CH,3,Clay,R64,345,417,0,,WC,Sebastian Korda,Miljan Zekic,6-4 6-2,0.48,0.0%,3.8%,73.6%,56.4%,28.6%,1/5,37.8%,24.4%,4.4%,7.1%,52.9%,1/2,98,0,2,53,39,14,2,1:01
+15-Apr-2019,San Luis Potosi CH,3,Clay,R64,342,376,0,,PR,Carlos Gomez Herrera,Miljan Zekic,7-5 6-3,0.68,5.3%,7.9%,46.1%,65.7%,48.8%,2/5,44.5%,29.5%,3.3%,19.4%,40.0%,1/2,137,4,6,76,35,41,2,1:33
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,F,344,606,0,,,Laurent Lokoli,Miljan Zekic,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,SF,344,,1,,,Miljan Zekic,Nerman Fatic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,QF,344,,1,,,Miljan Zekic,Alexander Weis,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R16,344,635,1,,IR  ,Miljan Zekic,Eduard Esteve Lobato,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M25 Santa Margherita Di Pula,3,Clay,R32,344,,1,,WC,Miljan Zekic,Riccardo Di Nocera,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M25 Santa Margherita Di Pula,3,Clay,QF,348,445,0,,5,Fabrizio Ornago,Miljan Zekic,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M25 Santa Margherita Di Pula,3,Clay,R16,348,,1,,Q,Miljan Zekic,Paolo Dagnino,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M25 Santa Margherita Di Pula,3,Clay,R32,348,,1,,IR  ,Miljan Zekic,Davide Galoppini,5-7 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M15 Porec,3,Clay,R16,348,634,0,2,,Maxime Chazal,Miljan Zekic,W/O,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2019,M15 Porec,3,Clay,R32,348,,1,2,,Miljan Zekic,Nikola Basic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2019,M15 Monastir,3,Hard,R32,347,,0,,Q,Maxime Pauwels,Miljan Zekic,1-1 RET,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2019,M15 Monastir,3,Hard,R32,346,,0,,LL,Vasko Mladenov,Miljan Zekic,6-0 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2018,Buenos Aires CH,3,Clay,R32,270,254,0,,,Guilherme Clezar,Miljan Zekic,6-3 6-2,0.45,11.9%,3.0%,70.1%,63.8%,35.0%,6/9,41.1%,20.0%,4.4%,18.8%,23.1%,0/0,112,8,2,67,47,20,2,1:15
+5-Nov-2018,Montevideo CH,3,Clay,Q1,265,391,0,1,,Juan Ignacio Galarza,Miljan Zekic,7-5 5-7 6-4,0.89,6.0%,5.1%,55.6%,72.3%,42.3%,5/10,49.0%,36.6%,3.2%,24.1%,53.8%,4/8,210,7,6,117,65,52,3,2:28
+29-Oct-2018,Guayaquil CH,3,Clay,R16,267,312,0,LL,PR,Santiago Giraldo,Miljan Zekic,7-5 7-5,0.78,6.1%,3.0%,65.2%,67.4%,34.8%,3/8,44.9%,34.3%,5.7%,23.9%,54.2%,3/5,136,4,2,66,43,23,4,1:42
+29-Oct-2018,Guayaquil CH,3,Clay,R32,267,215,1,LL,,Miljan Zekic,Gastao Elias,7-6(3) 0-6 6-1,1.01,2.5%,2.5%,60.0%,64.6%,62.5%,2/6,50.3%,36.7%,5.1%,31.1%,44.1%,3/5,159,2,2,80,48,32,4,2:01
+29-Oct-2018,Guayaquil CH,3,Clay,Q3,267,338,0,1,8,Federico Coria,Miljan Zekic,6-4 3-6 6-3,1.02,1.2%,1.2%,67.5%,69.6%,40.7%,3/7,49.5%,40.4%,1.0%,34.6%,61.9%,3/7,182,1,1,83,56,27,1,2:16
+29-Oct-2018,Guayaquil CH,3,Clay,Q2,267,1223,1,1,,Miljan Zekic,Ivan Endara,6-3 7-6(5),1.49,11.5%,0.0%,78.7%,77.1%,69.2%,1/1,53.6%,36.7%,3.8%,31.6%,50.0%,2/6,140,7,0,61,48,13,3,1:30
+29-Oct-2018,Guayaquil CH,3,Clay,Q1,267,385,1,1,,Miljan Zekic,Orlando Luz,6-0 7-5,1.50,3.3%,4.9%,67.2%,73.2%,45.0%,6/7,58.6%,54.2%,1.4%,42.6%,76.0%,5/13,133,2,3,61,41,20,1,1:31
+22-Oct-2018,Lima CH,3,Clay,R32,264,116,0,ALT,8,Hugo Dellien,Miljan Zekic,6-4 7-5,0.66,2.9%,1.5%,61.8%,69.0%,50.0%,1/3,43.7%,25.4%,0.0%,27.3%,16.7%,0/2,135,2,1,68,42,26,0,1:38
+8-Oct-2018,Barcelona CH,3,Clay,QF,278,244,0,Q,,Filippo Baldi,Miljan Zekic,6-3 6-3,0.71,6.8%,6.8%,68.2%,66.7%,42.9%,0/3,42.7%,28.8%,5.8%,20.0%,47.1%,0/1,96,3,3,44,30,14,3,1:04
+8-Oct-2018,Barcelona CH,3,Clay,R16,278,293,1,Q,,Miljan Zekic,Matteo Viola,6-4 7-5,1.15,3.9%,6.6%,69.7%,62.3%,52.2%,5/8,52.8%,47.0%,0.0%,40.0%,65.2%,5/14,159,3,5,76,53,23,0,1:54
+8-Oct-2018,Barcelona CH,3,Clay,R32,278,142,1,Q,4,Miljan Zekic,Stefano Travaglia,6-3 6-2,2.39,20.9%,0.0%,74.4%,87.5%,72.7%,0/0,63.3%,38.9%,5.6%,31.6%,47.1%,3/3,79,9,0,43,32,11,2,0:48
+8-Oct-2018,Barcelona CH,3,Clay,Q3,278,367,1,1,7,Miljan Zekic,Andrea Pellegrino,6-2 6-7(7) 7-5,1.22,5.0%,5.0%,49.6%,76.3%,53.3%,9/11,54.1%,43.0%,0.0%,37.7%,51.1%,5/13,233,6,6,119,59,60,0,2:40
+8-Oct-2018,Barcelona CH,3,Clay,Q2,278,452,1,1,,Miljan Zekic,Samuel Bensoussan,6-1 6-1,2.54,17.5%,5.0%,60.0%,91.7%,56.3%,3/3,67.1%,57.1%,2.4%,40.0%,72.7%,5/8,82,7,2,40,24,16,1,0:59
+8-Oct-2018,Barcelona CH,3,Clay,Q1,278,563,1,1,,Miljan Zekic,Geoffrey Blancaneaux,6-4 6-4,1.06,2.8%,12.7%,50.7%,72.2%,40.0%,4/7,52.0%,46.2%,0.0%,40.5%,60.0%,5/7,123,2,9,71,36,35,0,1:21
+24-Sep-2018,Italy F29,3,Clay,QF,310,532,0,,7,Davide Galoppini,Miljan Zekic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Italy F29,3,Clay,R16,310,1503,1,,,Miljan Zekic,Emiliano Maggioli,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Sep-2018,Italy F29,3,Clay,R32,310,588,1,,,Miljan Zekic,Maxime Chazal,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Italy F28,3,Clay,F,306,426,1,,2,Miljan Zekic,Alessandro Petrone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Italy F28,3,Clay,SF,306,694,1,,,Miljan Zekic,Billy Harris,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Italy F28,3,Clay,QF,306,891,1,,,Miljan Zekic,Walter Trusendi,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Italy F28,3,Clay,R16,306,,1,,,Miljan Zekic,Stefano Reitano,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Italy F28,3,Clay,R32,306,922,1,,,Miljan Zekic,Alessandro Ceppellini,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Banja Luka CH,3,Clay,R32,306,300,0,WC,,Ricardo Ojeda Lara,Miljan Zekic,6-4 6-4,0.78,6.8%,1.4%,65.8%,64.6%,48.0%,11/14,47.0%,32.2%,0.0%,28.6%,41.2%,1/3,132,5,1,73,48,25,0,1:37
+3-Sep-2018,Sevilla CH,3,Hard,Q1,304,,0,7,WC,Marko Djokovic,Miljan Zekic,6-3 6-4,0.81,5.6%,1.4%,62.5%,68.9%,37.0%,5/8,46.4%,34.8%,4.5%,30.8%,40.7%,1/3,138,4,1,72,45,27,3,1:16
+27-Aug-2018,Como CH,3,Clay,Q3,304,351,0,,,Facundo Arguello,Miljan Zekic,6-4 3-6 7-6(8),1.00,6.6%,3.8%,57.5%,65.6%,64.4%,4/6,50.7%,35.1%,1.0%,25.8%,51.4%,2/7,203,7,4,106,61,45,1,2:45
+27-Aug-2018,Como CH,3,Clay,Q2,304,415,1,,,Miljan Zekic,Daniel Dutra Da Silva,7-6(5) 6-4,1.47,3.2%,7.9%,57.1%,91.7%,48.1%,0/2,54.6%,39.7%,2.6%,30.0%,50.0%,3/9,141,2,5,63,36,27,2,1:44
+27-Aug-2018,Como CH,3,Clay,Q1,304,293,1,,8,Miljan Zekic,Matteo Viola,6-2 6-4,1.53,6.7%,0.0%,57.8%,80.8%,47.4%,1/3,57.8%,50.9%,3.5%,46.2%,61.1%,5/13,102,3,0,45,26,19,2,1:11
+13-Aug-2018,Cordenons CH,3,Clay,R32,326,745,0,,WC,Enrico Dalla Valle,Miljan Zekic,6-2 7-5,0.86,3.3%,5.0%,60.0%,63.9%,45.8%,2/6,45.5%,37.3%,2.4%,22.7%,53.8%,1/9,143,2,3,60,36,24,2,1:55
+6-Aug-2018,Serbia F1,3,Clay,F,326,956,1,,,Miljan Zekic,Simone Roncalli,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Serbia F1,3,Clay,SF,326,620,1,,,Miljan Zekic,Florent Diep,W/O,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Serbia F1,3,Clay,QF,326,797,1,,7,Miljan Zekic,Marko Miladinovic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Serbia F1,3,Clay,R16,326,1290,1,,,Miljan Zekic,Alen Rogic Hadzalic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2018,Serbia F1,3,Clay,R32,326,939,1,,,Miljan Zekic,Luka Pavlovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2018,Sopot CH,3,Clay,R32,292,299,0,,Q,Maxime Janvier,Miljan Zekic,6-3 6-1,0.37,3.6%,5.5%,50.9%,53.6%,48.1%,9/13,37.2%,17.9%,0.0%,0.0%,41.2%,0/0,94,2,3,55,28,27,0,1:10
+23-Jul-2018,Padova CH,3,Clay,R16,288,263,0,,,Federico Gaio,Miljan Zekic,7-6(1) 7-5,0.72,7.8%,2.6%,61.0%,76.6%,43.3%,2/3,45.3%,26.0%,8.2%,16.7%,35.1%,0/0,150,6,2,77,47,30,6,1:38
+23-Jul-2018,Padova CH,3,Clay,R32,288,112,1,,1,Miljan Zekic,Gerald Melzer,1-5 RET,0.64,5.0%,5.0%,70.0%,57.1%,16.7%,2/4,40.0%,35.0%,0.0%,23.1%,57.1%,0/1,40,1,1,20,14,6,0,0:31
+16-Jul-2018,Bastad,3,Clay,Q1,280,137,0,,6,Juan Ignacio Londero,Miljan Zekic,6-4 6-0,0.52,4.9%,0.0%,70.7%,48.3%,58.3%,0/4,37.5%,25.5%,8.5%,20.0%,35.3%,0/3,88,2,0,41,29,12,4,0:54
+18-Jun-2018,Poprad Tatry CH,3,Clay,R32,280,238,0,,,Sergio Gutierrez Ferrol,Miljan Zekic,6-2 3-0 RET,0.55,4.9%,7.3%,63.4%,42.3%,40.0%,3/7,37.5%,32.3%,0.0%,16.7%,42.1%,0/0,72,2,3,41,26,15,0,0:42
+11-Jun-2018,Caltanissetta CH,3,Clay,R16,289,217,0,Q,,Matteo Donati,Miljan Zekic,W/O,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Caltanissetta CH,3,Clay,R32,289,288,1,Q,LL,Miljan Zekic,Martin Cuevas,7-5 7-6(5),1.01,2.2%,1.1%,54.3%,74.0%,47.6%,5/8,51.5%,38.4%,6.8%,27.8%,48.6%,4/7,165,2,1,92,50,42,5,2:00
+11-Jun-2018,Caltanissetta CH,3,Clay,Q3,289,496,1,1,,Miljan Zekic,Riccardo Bonadio,6-3 7-5,1.32,4.8%,3.2%,64.5%,77.5%,50.0%,1/3,55.3%,42.6%,0.0%,32.0%,50.0%,4/8,123,3,2,62,40,22,0,1:28
+11-Jun-2018,Caltanissetta CH,3,Clay,Q2,289,581,1,1,,Miljan Zekic,Davide Galoppini,6-1 7-5,1.59,11.5%,1.6%,68.9%,71.4%,57.9%,6/8,60.6%,52.1%,2.1%,40.0%,84.6%,5/7,109,7,1,61,42,19,1,1:10
+11-Jun-2018,Caltanissetta CH,3,Clay,Q1,289,,1,1,,Miljan Zekic,Alessandro Ingarao,6-1 7-6(2),2.22,12.7%,1.8%,63.6%,85.7%,70.0%,2/3,59.0%,44.3%,0.0%,34.8%,57.6%,3/13,134,7,1,55,35,20,0,1:32
+21-May-2018,Mestre CH,3,Clay,R32,285,275,0,,,Sergio Gutierrez Ferrol,Miljan Zekic,6-1 7-5,0.81,1.2%,1.2%,55.6%,53.3%,33.3%,9/16,44.7%,45.1%,0.0%,39.3%,66.7%,3/12,152,1,1,81,45,36,0,1:44
+14-May-2018,Samarkand CH,3,Clay,QF,299,194,0,,3,Nikola Milojevic,Miljan Zekic,6-2 6-1,0.48,5.3%,7.9%,42.1%,62.5%,31.8%,3/7,34.9%,26.7%,2.2%,19.2%,36.8%,0/0,83,2,3,38,16,22,1,0:56
+14-May-2018,Samarkand CH,3,Clay,R16,299,387,1,,Q,Miljan Zekic,Roman Safiullin,6-1 6-4,1.64,7.8%,0.0%,62.7%,78.1%,63.2%,1/1,58.8%,45.1%,3.9%,40.0%,50.0%,3/8,102,4,0,51,32,19,2,1:07
+14-May-2018,Samarkand CH,3,Clay,R32,299,239,1,,6,Miljan Zekic,Aleksandr Nedovyesov,6-4 6-4,1.04,2.7%,0.0%,61.3%,71.7%,51.7%,4/5,51.8%,37.5%,1.6%,32.5%,45.8%,3/8,139,2,0,75,46,29,1,1:26
+2-Apr-2018,Italy F6,3,Clay,QF,304,334,0,,5,Luca Vanni,Miljan Zekic,3-6 3-3 RET,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Italy F6,3,Clay,R16,304,721,1,,,Miljan Zekic,Geronimo Espin Busleiman,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+2-Apr-2018,Italy F6,3,Clay,R32,304,1103,1,,WC,Miljan Zekic,Corrado Summaria,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Italy F5,3,Clay,SF,315,243,0,5,,Lorenzo Giustino,Miljan Zekic,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Italy F5,3,Clay,QF,315,262,1,5,,Miljan Zekic,Nino Serdarusic,1-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Italy F5,3,Clay,R16,315,480,1,5,,Miljan Zekic,Adrian Bodmer,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2018,Italy F5,3,Clay,R32,315,663,1,5,,Miljan Zekic,Antonio Massara,5-7 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Tunisia F11,3,Clay,SF,315,596,0,,,Juan Carlos Saez,Miljan Zekic,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Tunisia F11,3,Clay,QF,315,411,1,,7,Miljan Zekic,Samuel Bensoussan,4-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Tunisia F11,3,Clay,R16,315,754,1,,,Miljan Zekic,Christoph Negritu,6-4 6-7(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Mar-2018,Tunisia F11,3,Clay,R32,315,955,1,,Q,Miljan Zekic,Simone Roncalli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2018,Santiago CH,3,Clay,Q2,290,617,0,,WC,Gian Marco Moroni,Miljan Zekic,6-7(3) 7-6(7) 6-3,1.09,4.9%,5.8%,54.4%,73.2%,48.9%,3/8,50.4%,41.4%,3.0%,36.4%,48.2%,4/10,236,5,6,103,56,47,4,2:58
+5-Mar-2018,Santiago CH,3,Clay,Q1,290,436,1,,,Miljan Zekic,Pedro Sakamoto,6-2 3-6 7-6(3),1.05,5.0%,5.0%,60.0%,72.2%,45.8%,14/16,51.5%,40.2%,4.7%,41.5%,38.9%,3/13,227,6,6,120,72,48,5,2:33
+26-Feb-2018,Punta Del Este CH,3,Clay,R32,289,242,0,,,Cristian Garin,Miljan Zekic,6-4 7-6(4),0.86,5.0%,0.0%,57.5%,65.2%,55.9%,7/9,47.5%,33.3%,1.3%,27.3%,47.8%,1/4,158,4,0,80,46,34,1,2:08
+12-Feb-2018,Spain F5,3,Clay,F,314,332,1,,,Miljan Zekic,Daniel Gimeno Traver,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Spain F5,3,Clay,SF,314,396,1,,,Miljan Zekic,Eduard Esteve Lobato,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Spain F5,3,Clay,QF,314,631,1,,,Miljan Zekic,David Vega Hernandez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Spain F5,3,Clay,R16,314,710,1,,SE,Miljan Zekic,Gian Marco Moroni,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2018,Spain F5,3,Clay,R32,314,988,1,,Q,Miljan Zekic,Aaron Cortes Alcaraz,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Spain F4,3,Clay,R16,305,506,0,2,,Edoardo Eremin,Miljan Zekic,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2018,Spain F4,3,Clay,R32,305,928,1,2,,Miljan Zekic,Marc Fornell Mestres,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,Tunisia F1,3,Clay,QF,298,488,0,,5,Jordi Samper Montana,Miljan Zekic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,Tunisia F1,3,Clay,R16,298,1047,1,,,Miljan Zekic,Alexander Weis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2018,Tunisia F1,3,Clay,R32,298,681,1,,Q,Miljan Zekic,Walter Trusendi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,SF,356,299,0,4,2,Laurynas Grigelis,Miljan Zekic,2-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,QF,356,506,1,4,,Miljan Zekic,Lamine Ouahab,4-6 6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,R16,356,805,1,4,,Miljan Zekic,Sergio Martos Gornes,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2017,Morocco F5,3,Clay,R32,356,844,1,4,,Miljan Zekic,Mikhail Korovin,6-4 5-3 RET,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Italy F36,3,Clay,SF,359,216,0,,,Lorenzo Sonego,Miljan Zekic,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Italy F36,3,Clay,QF,359,576,1,,7,Miljan Zekic,Gianluca Di Nicola,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Italy F36,3,Clay,R16,359,1162,1,,Q,Miljan Zekic,Antonio Zucca,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2017,Italy F36,3,Clay,R32,359,905,1,,,Miljan Zekic,Bogdan Ionut Apostol,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Italy F34,3,Clay,QF,371,497,0,5,,Daniel Gimeno Traver,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Italy F34,3,Clay,R16,371,1663,1,5,Q,Miljan Zekic,Luca George Tatomir,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2017,Italy F34,3,Clay,R32,371,687,1,5,,Miljan Zekic,Wilson Leite,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Italy F33,3,Clay,QF,372,598,0,,,Andrea Vavassori,Miljan Zekic,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Italy F33,3,Clay,R16,372,799,1,,,Miljan Zekic,Florian Fallert,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2017,Italy F33,3,Clay,R32,372,997,1,,Q,Miljan Zekic,Franjo Raspudic,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Oct-2017,Almaty CH,3,Clay,R32,380,98,0,,1,Laslo Djere,Miljan Zekic,6-1 7-5,0.58,1.4%,5.7%,42.9%,63.3%,45.0%,8/12,41.6%,27.3%,0.0%,26.7%,28.0%,1/4,125,1,4,70,30,40,0,1:24
+25-Sep-2017,Italy F31,3,Clay,SF,380,292,0,,,Javier Marti,Miljan Zekic,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Italy F31,3,Clay,QF,380,541,1,,8,Miljan Zekic,Tobias Simon,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Italy F31,3,Clay,R16,380,744,1,,,Miljan Zekic,Jacopo Stefanini,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2017,Italy F31,3,Clay,R32,380,1415,1,,Q,Miljan Zekic,Mick Veldheer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Genova CH,3,Clay,R32,279,49,0,,1,Jan Lennard Struff,Miljan Zekic,6-4 7-6(2),0.81,3.1%,3.1%,49.2%,68.8%,63.6%,4/6,46.3%,27.5%,7.2%,18.8%,35.1%,1/5,134,2,2,65,32,33,5,1:35
+28-Aug-2017,Serbia F4,3,Clay,QF,279,982,0,1,,Manuel Pena Lopez,Miljan Zekic,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Serbia F4,3,Clay,R16,279,866,1,1,,Miljan Zekic,Dejan Katic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Serbia F4,3,Clay,R32,279,1053,1,1,Q,Miljan Zekic,Goran Markovic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Manerbio CH,3,Clay,R32,277,127,0,ALT,3,Roberto Carballes Baena,Miljan Zekic,7-5 4-6 6-3,1.02,8.5%,4.9%,61.0%,68.0%,40.6%,2/7,49.3%,43.7%,0.8%,38.0%,52.1%,4/14,201,7,4,82,50,32,1,2:34
+31-Jul-2017,Kitzbuhel,3,Clay,R16,316,25,0,Q,2,Fabio Fognini,Miljan Zekic,6-4 6-4,0.81,1.4%,5.4%,59.5%,68.2%,46.7%,6/9,47.4%,32.8%,3.3%,27.9%,44.4%,1/4,135,1,4,74,44,30,2,1:20
+31-Jul-2017,Kitzbuhel,3,Clay,R32,316,66,1,Q,,Miljan Zekic,Andrey Kuznetsov,7-6(4) 7-6(6),1.06,8.7%,1.1%,70.7%,76.9%,59.3%,5/6,52.3%,30.0%,3.8%,21.4%,39.5%,1/3,172,8,1,92,65,27,3,1:49
+31-Jul-2017,Kitzbuhel,3,Clay,Q2,316,164,1,,8,Miljan Zekic,Stefanos Tsitsipas,7-6(4) 7-6(3),1.13,4.0%,0.0%,78.7%,83.1%,31.3%,1/2,51.7%,31.6%,2.6%,22.0%,42.9%,1/2,151,3,0,75,59,16,2,1:39
+31-Jul-2017,Kitzbuhel,3,Clay,Q1,316,88,1,,1,Miljan Zekic,Alessandro Giannessi,3-6 7-5 6-4,0.98,11.6%,5.3%,55.8%,67.9%,57.1%,3/6,50.3%,36.0%,1.2%,32.8%,44.0%,4/5,181,11,5,95,53,42,1,1:57
+24-Jul-2017,Cortina CH,3,Clay,R16,328,316,0,Q,Q,Pedro Cachin,Miljan Zekic,3-6 6-4 6-3,1.02,5.2%,5.2%,54.5%,81.0%,48.6%,2/5,49.7%,34.5%,3.6%,26.0%,47.1%,2/9,161,4,4,77,42,35,3,1:51
+24-Jul-2017,Cortina CH,3,Clay,R32,328,200,1,Q,7,Miljan Zekic,Federico Gaio,7-6(7) 7-5,1.15,9.2%,3.9%,63.2%,70.8%,57.1%,1/3,52.2%,39.5%,3.7%,28.3%,54.3%,3/6,157,7,3,76,48,28,3,1:43
+24-Jul-2017,Cortina CH,3,Clay,Q3,328,742,1,2,6,Miljan Zekic,Gianluca Di Nicola,7-5 2-6 6-3,1.04,9.1%,4.0%,59.6%,66.1%,55.0%,6/9,50.8%,39.8%,1.0%,34.9%,48.6%,3/12,197,9,4,99,59,40,1,2:02
+24-Jul-2017,Cortina CH,3,Clay,Q2,328,,1,2,,Miljan Zekic,Riccardo Ghedin,6-3 7-5,1.15,8.2%,4.1%,58.9%,74.4%,53.3%,6/7,53.2%,39.4%,3.0%,37.8%,41.4%,3/7,139,6,3,73,43,30,2,1:18
+17-Jul-2017,Umag,3,Clay,R32,350,138,0,Q,,Radu Albot,Miljan Zekic,6-4 6-0,0.59,3.8%,0.0%,67.9%,52.8%,41.2%,6/10,39.8%,30.0%,2.0%,20.0%,45.0%,0/2,103,2,0,53,36,17,1,1:11
+17-Jul-2017,Umag,3,Clay,Q2,350,181,1,6,4,Miljan Zekic,Stefano Napolitano,6-3 7-5,1.48,16.1%,4.8%,50.0%,80.6%,54.8%,1/3,57.6%,47.6%,4.8%,41.2%,55.2%,4/9,125,10,3,62,31,31,3,1:31
+17-Jul-2017,Umag,3,Clay,Q1,350,506,1,6,WC,Miljan Zekic,Nino Serdarusic,3-6 6-3 6-4,1.10,6.2%,4.1%,62.9%,70.5%,47.2%,8/11,51.8%,41.8%,4.1%,26.9%,58.7%,4/12,195,6,4,97,61,36,4,2:28
+3-Jul-2017,Wimbledon,5,Grass,Q2,246,216,0,,,Sebastian Ofner,Miljan Zekic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2017,Wimbledon,5,Grass,Q1,246,120,1,,14,Miljan Zekic,Maximilian Marterer,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2017,Todi CH,3,Clay,R32,227,113,0,ALT,7,Arthur De Greef,Miljan Zekic,6-2 6-4,0.85,4.0%,2.0%,54.0%,66.7%,52.2%,4/7,45.2%,33.8%,4.6%,25.6%,46.2%,0/4,115,2,1,50,27,23,3,1:21
+19-Jun-2017,Todi CH,3,Clay,Q2,227,561,0,1,,Artem Smirnov,Miljan Zekic,W/O,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Caltanissetta CH,3,Clay,R32,212,107,0,,,Andrey Rublev,Miljan Zekic,6-3 6-4,0.74,1.7%,5.0%,48.3%,55.2%,38.7%,3/8,43.0%,39.3%,1.6%,21.4%,54.5%,2/6,121,1,3,60,29,31,1,1:22
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,QF,218,478,0,1,6,David Pichler,Miljan Zekic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,R16,218,700,1,1,,Miljan Zekic,Elmar Ejupovic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,R32,218,657,1,1,,Miljan Zekic,Fabrizio Ornago,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Roland Garros,5,Clay,Q1,218,157,0,,,Vincent Millot,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Rome  CH,3,Clay,Q2,214,528,0,3,,Reda El Amrani,Miljan Zekic,6-4 6-2,0.75,3.3%,5.0%,58.3%,54.3%,24.0%,8/14,42.6%,43.5%,4.3%,33.3%,52.8%,3/11,129,2,3,60,35,25,3,1:23
+1-May-2017,Ostrava CH,3,Clay,R32,212,199,0,,,Joris De Loore,Miljan Zekic,6-4 6-7(5) 6-2,0.85,5.2%,1.0%,55.7%,68.5%,46.5%,3/8,46.7%,35.0%,5.0%,25.4%,54.5%,2/5,197,5,1,97,54,43,5,2:14
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,R32,214,215,0,Q,,Yannik Reuter,Miljan Zekic,7-6(5) 6-1,0.77,10.0%,2.9%,64.3%,68.9%,36.0%,4/7,45.8%,32.8%,0.0%,31.0%,36.8%,0/1,131,7,2,70,45,25,0,1:28
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,Q3,214,296,1,1,7,Miljan Zekic,Tallon Griekspoor,6-4 4-6 6-4,1.16,4.8%,3.8%,60.0%,63.5%,59.5%,10/14,52.8%,44.0%,0.0%,38.9%,54.1%,5/15,214,5,4,105,63,42,0,2:33
+24-Apr-2017,Francavilla Al Mare CH,3,Clay,Q2,214,526,1,1,,Miljan Zekic,Adelchi Virgili,6-1 7-5,1.33,3.6%,5.5%,56.4%,64.5%,45.8%,2/5,57.3%,58.0%,4.3%,38.2%,77.1%,7/15,124,2,3,55,31,24,3,1:22
+10-Apr-2017,San Luis Potosi CH,3,Clay,R32,216,106,0,,1,Facundo Bagnis,Miljan Zekic,7-6(6) 6-4,0.71,4.7%,12.9%,50.6%,79.1%,31.0%,11/14,45.0%,31.8%,4.5%,28.6%,35.5%,2/3,151,4,11,85,43,42,3,1:48
+3-Apr-2017,Panama City CH,3,Clay,R32,215,116,0,,6,Henri Laaksonen,Miljan Zekic,6-0 6-2,0.53,8.9%,6.7%,48.9%,54.5%,30.4%,3/8,36.2%,30.6%,4.1%,36.0%,25.0%,0/4,94,4,3,45,22,23,2,1:04
+6-Mar-2017,Tunisia F9,3,Clay,R16,226,547,0,2,,Omar Giacalone,Miljan Zekic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2017,Tunisia F9,3,Clay,R32,226,,1,2,WC,Miljan Zekic,Keanu Ellen,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,F,221,389,1,1,,Miljan Zekic,Tomislav Brkic,6-7(7) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,SF,221,296,1,1,3,Miljan Zekic,Stefano Travaglia,6-2 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,QF,221,453,1,1,,Miljan Zekic,Peter Torebko,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,R16,221,629,1,1,Q,Miljan Zekic,Carlos Boluda Purkiss,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2017,Tunisia F8,3,Clay,R32,221,599,1,1,,Miljan Zekic,Juan Pablo Ficovich,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,Cherbourg CH,3,Hard,R32,210,235,0,,,Adrian Menendez Maceiras,Miljan Zekic,6-3 6-4,0.49,9.0%,1.5%,59.7%,65.0%,51.9%,5/7,42.4%,19.6%,7.8%,9.4%,36.8%,0/1,118,6,1,67,40,27,4,1:20
+6-Feb-2017,Sofia,3,Hard,Q2,209,406,0,,PR,Cedrik Marcel Stebe,Miljan Zekic,7-6(4) 6-0,0.74,4.7%,3.1%,54.7%,60.0%,44.8%,2/6,43.6%,34.8%,4.3%,23.8%,51.9%,1/8,133,3,2,64,35,29,3,1:28
+6-Feb-2017,Sofia,3,Hard,Q1,209,203,1,,6,Miljan Zekic,Stefanos Tsitsipas,6-4 6-3,1.47,7.3%,3.6%,45.5%,84.0%,70.0%,3/3,56.7%,34.7%,14.3%,18.5%,54.5%,2/4,104,4,2,55,25,30,7,1:06
+30-Jan-2017,Quimper CH,3,Hard,R32,209,170,0,,,Quentin Halys,Miljan Zekic,7-6(6) 6-1,0.76,8.0%,1.3%,52.0%,69.2%,44.4%,6/10,45.5%,32.4%,8.8%,22.0%,48.1%,1/8,143,6,1,75,39,36,6,1:27
+16-Jan-2017,Australian Open,5,Hard,Q2,203,156,0,,,Di Wu,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2017,Australian Open,5,Hard,Q1,203,119,1,,8,Miljan Zekic,Benjamin Becker,6-4 5-7 10-8,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2017,Chennai,3,Hard,Q1,202,104,0,,1,Hyeon Chung,Miljan Zekic,6-1 6-3,0.72,9.6%,3.8%,67.3%,60.0%,35.3%,4/8,42.4%,34.8%,1.5%,22.9%,48.4%,0/5,118,5,2,52,35,17,1,1:14
+14-Nov-2016,Brescia CH,3,Hard,R32,196,274,0,,,Salvatore Caruso,Miljan Zekic,6-2 4-6 6-3,0.73,15.0%,3.8%,71.3%,71.9%,39.1%,3/6,45.2%,27.3%,3.9%,21.6%,38.5%,1/1,157,12,3,80,57,23,3,1:45
+31-Oct-2016,Tunisia F30,3,Clay,SF,202,397,0,1,4,Joao Domingues,Miljan Zekic,3-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Tunisia F30,3,Clay,QF,202,576,1,1,8,Miljan Zekic,Alexis Musialek,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Tunisia F30,3,Clay,R16,202,884,1,1,,Miljan Zekic,Moez Chargui,6-3 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2016,Tunisia F30,3,Clay,R32,202,,1,1,Q,Miljan Zekic,Daniele Chiurulli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Oct-2016,Mohammedia CH,3,Clay,R32,203,246,0,Q,,Dmitry Popko,Miljan Zekic,6-3 6-2,0.71,8.0%,4.0%,52.0%,73.1%,41.7%,2/5,43.0%,29.8%,1.8%,24.1%,35.7%,0/1,107,4,2,50,26,24,1,1:11
+3-Oct-2016,Mohammedia CH,3,Clay,Q3,203,511,1,1,,Miljan Zekic,Jonas Luetjen,6-2 6-1,2.00,17.0%,8.5%,61.7%,89.7%,50.0%,2/2,63.3%,51.2%,2.3%,37.9%,78.6%,4/6,90,8,4,47,29,18,1,0:56
+3-Oct-2016,Mohammedia CH,3,Clay,Q2,203,442,1,1,,Miljan Zekic,Lennert Van Der Linden,6-1 6-1,2.64,10.5%,2.6%,60.5%,82.6%,66.7%,0/0,70.0%,62.5%,0.0%,66.7%,57.1%,5/8,70,4,1,38,23,15,0,0:44
+3-Oct-2016,Mohammedia CH,3,Clay,Q1,203,989,1,1,,Miljan Zekic,Antonio Sancic,6-4 6-2,1.33,1.9%,7.4%,51.9%,64.3%,61.5%,2/4,55.8%,49.2%,5.1%,53.1%,44.4%,5/9,113,1,4,54,28,26,3,1:14
+19-Sep-2016,Sibiu CH,3,Clay,R32,188,1106,0,7,WC,Michal Dembek,Miljan Zekic,6-4 3-6 7-5,0.98,5.5%,7.8%,60.2%,64.9%,31.4%,15/23,49.8%,47.3%,3.2%,40.5%,52.9%,7/9,221,7,10,128,77,51,3,2:31
+12-Sep-2016,Banja Luka CH,3,Clay,F,202,106,0,,4,Adam Pavlasek,Miljan Zekic,3-6 6-1 6-4,0.74,2.5%,5.0%,57.5%,60.9%,50.0%,3/7,44.8%,32.4%,6.8%,30.2%,35.5%,2/4,154,2,4,80,46,34,5,1:54
+12-Sep-2016,Banja Luka CH,3,Clay,SF,202,85,1,,3,Miljan Zekic,Aljaz Bedene,7-6(2) 6-4,1.26,2.7%,2.7%,68.0%,72.5%,70.8%,4/4,54.1%,35.2%,2.8%,19.4%,51.4%,1/5,146,2,2,75,51,24,2,1:49
+12-Sep-2016,Banja Luka CH,3,Clay,QF,202,66,1,,1,Miljan Zekic,Horacio Zeballos,6-7(2) 6-4 7-6(4),1.09,16.0%,1.9%,60.4%,73.4%,50.0%,3/6,51.1%,39.1%,7.0%,29.9%,52.1%,4/8,221,17,2,106,64,42,8,3:02
+12-Sep-2016,Banja Luka CH,3,Clay,R16,202,171,1,,7,Miljan Zekic,Laslo Djere,6-2 5-7 6-3,1.15,3.1%,2.0%,63.3%,69.4%,44.4%,8/11,53.2%,45.7%,1.1%,42.9%,51.7%,5/10,190,3,2,98,62,36,1,2:31
+12-Sep-2016,Banja Luka CH,3,Clay,R32,202,640,1,,Q,Miljan Zekic,Filip Veger,6-4 6-1,2.54,17.9%,2.6%,71.8%,89.3%,63.6%,0/0,60.4%,45.6%,3.5%,31.4%,68.2%,4/5,96,7,1,39,28,11,2,1:05
+5-Sep-2016,Genova CH,3,Clay,R32,198,184,0,,,Laslo Djere,Miljan Zekic,6-3 3-6 6-1,0.79,1.4%,0.0%,52.1%,67.6%,50.0%,6/10,45.8%,32.4%,2.8%,24.4%,46.2%,2/4,142,1,0,71,37,34,2,1:52
+29-Aug-2016,US Open,5,Hard,Q2,198,127,0,,16,Mischa Zverev,Miljan Zekic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2016,US Open,5,Hard,Q1,198,186,1,,,Miljan Zekic,Andrey Rublev,6-7(4) 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2016,Portoroz CH,3,Hard,R16,202,217,0,,,Adrian Menendez Maceiras,Miljan Zekic,6-3 6-3,0.69,5.7%,9.4%,60.4%,46.9%,19.0%,3/10,40.4%,44.3%,1.6%,37.2%,61.1%,4/10,114,3,5,53,32,21,1,1:17
+8-Aug-2016,Portoroz CH,3,Hard,R32,202,513,1,,LL,Miljan Zekic,Albano Olivetti,6-3 6-4,1.30,4.8%,4.8%,71.4%,68.9%,61.1%,2/3,56.0%,43.4%,13.2%,18.8%,54.1%,3/8,116,3,3,63,45,18,7,1:19
+1-Aug-2016,Liberec CH,3,Clay,R32,198,270,0,ALT,,Alexey Vatutin,Miljan Zekic,6-3 6-3,0.80,5.1%,5.1%,54.2%,62.5%,40.7%,7/11,45.1%,38.1%,0.0%,33.3%,45.8%,1/4,122,3,3,59,32,27,0,1:22
+11-Jul-2016,Poznan CH,3,Clay,R32,188,236,0,,,David Perez Sanz,Miljan Zekic,4-2 RET,0.63,5.3%,5.3%,52.6%,80.0%,22.2%,1/2,41.0%,30.0%,5.0%,30.0%,30.0%,0/2,39,1,1,19,10,9,1,0:23
+4-Jul-2016,Todi CH,3,Clay,F,241,363,1,Q,WC,Miljan Zekic,Stefano Napolitano,6-7(6) 6-4 6-3,1.02,9.8%,2.7%,65.2%,71.2%,53.8%,5/7,51.4%,35.4%,2.1%,28.6%,45.0%,4/9,208,11,3,112,73,39,2,2:34
+4-Jul-2016,Todi CH,3,Clay,SF,241,150,1,Q,3,Miljan Zekic,Marco Trungelliti,6-2 6-2,1.43,5.2%,3.4%,55.2%,71.9%,57.7%,3/3,57.3%,49.2%,1.7%,40.0%,58.6%,4/11,117,3,2,58,32,26,1,1:25
+4-Jul-2016,Todi CH,3,Clay,QF,241,105,1,Q,1,Miljan Zekic,Andrej Martin,6-3 7-6(7),1.30,9.9%,4.2%,57.7%,73.2%,56.7%,1/3,54.2%,44.0%,1.2%,37.3%,54.5%,3/10,155,7,3,71,41,30,1,1:59
+4-Jul-2016,Todi CH,3,Clay,R16,241,207,1,Q,,Miljan Zekic,Dmitry Popko,6-2 6-4,1.36,4.4%,7.4%,64.7%,75.0%,41.7%,5/6,56.9%,50.0%,3.2%,43.6%,60.9%,4/11,130,3,5,68,44,24,2,1:30
+4-Jul-2016,Todi CH,3,Clay,R32,241,180,1,Q,8,Miljan Zekic,Marsel Ilhan,7-5 6-1,1.45,1.7%,3.4%,59.3%,77.1%,45.8%,3/4,57.6%,51.5%,1.5%,47.7%,59.1%,5/10,125,1,2,59,35,24,1,
+4-Jul-2016,Todi CH,3,Clay,Q3,241,397,1,2,7,Miljan Zekic,Cem Ilkel,6-4 6-4,1.55,9.1%,3.6%,63.6%,77.1%,50.0%,3/6,58.2%,50.7%,3.0%,41.9%,66.7%,5/10,122,5,2,55,35,20,2,
+4-Jul-2016,Todi CH,3,Clay,Q2,241,604,1,2,,Miljan Zekic,Adelchi Virgili,6-3 6-3,1.19,1.8%,5.3%,54.4%,80.6%,53.8%,3/3,53.6%,37.7%,5.7%,39.3%,36.0%,3/8,110,1,3,57,31,26,3,
+20-Jun-2016,Milan CH,3,Clay,QF,253,101,0,,4,Carlos Berlocq,Miljan Zekic,7-6(3) 6-4,0.66,4.8%,4.8%,55.4%,65.2%,48.6%,4/7,45.1%,27.9%,1.6%,27.1%,30.8%,2/2,144,4,4,83,46,37,1,2:09
+20-Jun-2016,Milan CH,3,Clay,R16,253,338,1,,WC,Miljan Zekic,Gianluca Mager,4-6 6-3 6-4,1.23,4.9%,0.0%,56.1%,65.2%,52.8%,5/10,54.3%,49.5%,1.1%,40.4%,64.7%,7/12,173,4,0,82,46,36,1,2:07
+20-Jun-2016,Milan CH,3,Clay,R32,253,160,1,,7,Miljan Zekic,Gonzalo Lama,6-3 6-7(1) 6-4,1.07,11.0%,2.8%,48.6%,62.3%,60.7%,4/7,52.6%,41.2%,1.2%,41.9%,39.1%,5/5,194,12,3,109,53,56,1,2:17
+13-Jun-2016,Blois CH,3,Clay,QF,268,216,0,,,Gregoire Barrere,Miljan Zekic,6-2 7-6(5),0.83,7.8%,2.6%,63.6%,61.2%,46.4%,8/11,46.4%,36.5%,1.4%,30.0%,50.0%,1/6,151,6,2,77,49,28,1,1:29
+13-Jun-2016,Blois CH,3,Clay,R16,268,128,1,,4,Miljan Zekic,Thiago Monteiro,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Blois CH,3,Clay,R32,268,245,1,,,Miljan Zekic,Gleb Sakharov,7-6(5) 6-7(3) 6-1,1.00,8.4%,0.0%,74.7%,70.4%,54.2%,1/3,51.1%,33.7%,6.0%,33.3%,35.0%,4/4,178,8,0,95,71,24,5,1:57
+6-Jun-2016,Caltanissetta CH,3,Clay,R32,263,262,0,,WC,Matteo Donati,Miljan Zekic,6-3 5-7 7-6(6),0.88,1.9%,3.7%,63.9%,59.4%,48.7%,2/8,47.4%,39.3%,1.9%,31.9%,52.6%,5/13,215,2,4,108,69,39,2,2:24
+23-May-2016,Roland Garros,5,Clay,Q1,270,220,0,,,Hans Podlipnik Castillo,Miljan Zekic,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2016,Nice,3,Clay,Q1,249,375,0,7,,Dzmitry Zhyrmont,Miljan Zekic,6-4 6-4,0.74,6.2%,6.2%,58.5%,63.2%,48.1%,3/7,45.8%,32.1%,3.8%,24.2%,45.0%,2/2,118,4,4,65,38,27,2,
+9-May-2016,Heilbronn CH,3,Clay,Q1,244,398,0,,WC,Kevin Krawietz,Miljan Zekic,6-3 7-6(5),0.81,6.0%,3.0%,65.7%,47.7%,39.1%,5/11,44.7%,44.6%,1.4%,42.2%,48.3%,5/6,141,4,2,67,44,23,1,1:26
+25-Apr-2016,Anning CH,3,Clay,R32,237,146,0,,4,Grega Zemlja,Miljan Zekic,7-6(3) 4-6 7-5,1.20,12.9%,2.4%,58.8%,84.0%,74.3%,1/2,49.7%,24.0%,3.0%,21.3%,28.2%,1/2,185,11,2,85,50,35,3,2:09
+18-Apr-2016,Bucharest,3,Clay,Q1,236,174,0,,5,Tobias Kamke,Miljan Zekic,6-3 6-3,0.63,3.9%,7.9%,67.1%,60.8%,36.0%,5/9,43.7%,30.0%,0.0%,33.3%,25.0%,1/2,126,3,6,76,51,25,0,1:22
+28-Mar-2016,Tunisia F12,3,Clay,QF,243,644,0,1,WC,Omar Salman,Miljan Zekic,7-5 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2016,Tunisia F12,3,Clay,R16,243,2198,1,1,WC,Miljan Zekic,Felipe Cunha Silva,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2016,Tunisia F12,3,Clay,R32,243,1624,1,1,LL,Miljan Zekic,Anoosha Shahgholi,W/O,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,China F3,3,Clay,SF,255,512,0,2,5,Young Seok Kim,Miljan Zekic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,China F3,3,Clay,QF,255,692,1,2,,Miljan Zekic,Cristian Rodriguez,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,China F3,3,Clay,R16,255,,1,2,Q,Miljan Zekic,Chan Yeong Oh,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Feb-2016,China F3,3,Clay,R32,255,785,1,2,,Miljan Zekic,Cheng Yu Yu,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,China F2,3,Clay,F,258,400,0,2,3,Enrique Lopez Perez,Miljan Zekic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,China F2,3,Clay,SF,258,966,1,2,Q,Miljan Zekic,Kuan Yi Lee,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,China F2,3,Clay,QF,258,694,1,2,,Miljan Zekic,Chuhan Wang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,China F2,3,Clay,R16,258,738,1,2,,Miljan Zekic,Cristian Rodriguez,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2016,China F2,3,Clay,R32,258,1162,1,2,Q,Miljan Zekic,Jeson Patrombon,6-2 6-7(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,China F1,3,Clay,F,259,383,1,2,3,Miljan Zekic,Enrique Lopez Perez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,China F1,3,Clay,SF,259,969,1,2,,Miljan Zekic,Sami Reinwein,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,China F1,3,Clay,QF,259,1428,1,2,Q,Miljan Zekic,Wishaya Trongcharoenchaikul,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,China F1,3,Clay,R16,259,965,1,2,,Miljan Zekic,Kuan Yi Lee,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2016,China F1,3,Clay,R32,259,2146,1,2,WC,Miljan Zekic,Ruikai Wang,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Tunisia F3,3,Clay,SF,273,499,0,3,,Jeremy Jahn,Miljan Zekic,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Tunisia F3,3,Clay,QF,273,783,1,3,,Miljan Zekic,Pedro Sousa,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Tunisia F3,3,Clay,R16,273,907,1,3,Q,Miljan Zekic,Filip Brtnicky,6-3 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2016,Tunisia F3,3,Clay,R32,273,,1,3,,Miljan Zekic,Alexander Zhurbin,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Tunisia F2,3,Clay,F,273,783,1,3,WC,Miljan Zekic,Pedro Sousa,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Tunisia F2,3,Clay,SF,273,423,1,3,8,Miljan Zekic,Albert Alcaraz Ivorra,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Tunisia F2,3,Clay,QF,273,400,1,3,6,Miljan Zekic,Marco Bortolotti,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Tunisia F2,3,Clay,R16,273,1231,1,3,Q,Miljan Zekic,Stephan Hoiss,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2016,Tunisia F2,3,Clay,R32,273,820,1,3,,Miljan Zekic,Florent Diep,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Tunisia F35,3,Hard,R16,273,702,0,1,,Anis Ghorbel,Miljan Zekic,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Tunisia F35,3,Hard,R32,273,969,1,1,,Miljan Zekic,Francesco Garzelli,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Tunisia F34,3,Hard,SF,273,556,0,2,8,Lloyd Glasspool,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Tunisia F34,3,Hard,QF,273,721,1,2,,Miljan Zekic,Vasko Mladenov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Tunisia F34,3,Hard,R16,273,1511,1,2,WC,Miljan Zekic,Vincent Van Den Honert,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Tunisia F34,3,Hard,R32,273,2173,1,2,Q,Miljan Zekic,Alejandro Ortega Palacios,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2015,Tunisia F33,3,Hard,R32,270,704,0,1,,Anis Ghorbel,Miljan Zekic,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Vienna,3,Hard,Q1,252,105,0,,3,Jan Lennard Struff,Miljan Zekic,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Casablanca CH,3,Clay,R32,245,103,0,,5,Inigo Cervantes Huegun,Miljan Zekic,6-4 7-6(2),0.76,3.3%,1.1%,62.2%,57.1%,47.1%,7/11,45.8%,35.4%,0.0%,25.0%,45.5%,3/5,155,3,1,90,56,34,0,
+28-Sep-2015,Rome CH,3,Clay,R32,242,201,0,S,,Filippo Volandri,Miljan Zekic,6-2 6-0,0.21,3.9%,3.9%,78.4%,45.0%,27.3%,4/9,30.1%,12.5%,3.1%,14.8%,0.0%,0/0,83,2,2,51,40,11,1,
+21-Sep-2015,Sibiu CH,3,Clay,SF,263,259,0,,,Pere Riba,Miljan Zekic,6-3 7-5,0.75,4.7%,1.2%,64.0%,65.5%,45.2%,13/16,46.4%,31.3%,9.0%,18.9%,46.7%,1/5,153,4,1,86,55,31,6,
+21-Sep-2015,Sibiu CH,3,Clay,QF,263,384,1,,,Miljan Zekic,Gianluca Mager,6-3 7-5,1.33,15.5%,2.8%,62.0%,75.0%,51.9%,6/8,56.6%,44.8%,6.9%,33.3%,52.9%,4/6,129,11,2,71,44,27,4,
+21-Sep-2015,Sibiu CH,3,Clay,R16,263,253,1,,,Miljan Zekic,Jozef Kovalik,6-2 4-6 7-6(0),1.36,12.8%,3.2%,57.4%,79.6%,55.0%,4/6,54.4%,42.0%,0.9%,35.2%,53.7%,3/12,206,12,3,94,54,40,1,
+21-Sep-2015,Sibiu CH,3,Clay,R32,263,309,1,,,Miljan Zekic,Tomislav Brkic,6-7(4) 6-4 6-2,1.30,6.8%,2.3%,59.1%,78.8%,55.6%,3/5,53.7%,40.0%,5.0%,36.6%,48.3%,5/9,188,6,2,88,52,36,5,
+14-Sep-2015,Banja Luka CH,3,Clay,SF,315,224,0,,,Victor Hanescu,Miljan Zekic,7-5 6-7(6) 6-4,0.75,7.3%,2.8%,68.8%,69.3%,67.6%,3/6,47.3%,23.5%,7.1%,21.3%,33.3%,1/2,207,8,3,109,75,34,7,
+14-Sep-2015,Banja Luka CH,3,Clay,QF,315,140,1,,4,Miljan Zekic,Horacio Zeballos,3-6 7-6(8) 7-6(4),0.88,8.8%,6.2%,71.7%,74.1%,37.5%,1/4,48.0%,31.8%,4.5%,22.7%,51.4%,2/8,223,10,7,113,81,32,5,
+14-Sep-2015,Banja Luka CH,3,Clay,R16,315,325,1,,,Miljan Zekic,Alexis Musialek,6-1 6-4,3.07,7.0%,2.3%,60.5%,96.2%,64.7%,0/0,64.1%,50.0%,1.7%,42.5%,65.0%,3/5,103,3,1,43,26,17,1,
+14-Sep-2015,Banja Luka CH,3,Clay,R32,315,320,1,,,Miljan Zekic,Nikola Mektic,6-3 6-2,1.61,5.9%,2.0%,64.7%,75.8%,66.7%,0/0,59.6%,44.2%,4.7%,32.1%,66.7%,3/6,94,3,1,51,33,18,2,
+7-Sep-2015,Seville CH,3,Clay,QF,306,248,0,,,Pedro Cachin,Miljan Zekic,6-4 3-6 6-3,0.84,2.2%,5.4%,59.1%,70.9%,50.0%,4/7,47.8%,31.8%,4.7%,22.0%,40.9%,2/9,178,2,5,93,55,38,4,
+7-Sep-2015,Seville CH,3,Clay,R16,306,251,1,,,Miljan Zekic,Ruben Ramirez Hidalgo,6-3 6-3,1.39,5.5%,1.8%,65.5%,75.0%,52.6%,3/4,56.4%,45.5%,1.8%,44.1%,47.6%,4/7,110,3,1,55,36,19,1,
+7-Sep-2015,Seville CH,3,Clay,R32,306,134,1,,5,Miljan Zekic,Adrian Menendez Maceiras,4-6 6-3 6-4,1.15,5.7%,0.0%,67.0%,64.4%,62.1%,6/10,53.3%,42.0%,2.5%,30.2%,64.3%,5/9,169,5,0,88,59,29,2,
+17-Aug-2015,Cordenons CH,3,Clay,R32,299,210,0,,7,Filippo Volandri,Miljan Zekic,6-2 6-4,0.73,1.8%,3.6%,65.5%,58.3%,36.8%,1/5,43.2%,35.7%,0.0%,35.1%,36.8%,1/1,111,1,2,55,36,19,0,
+20-Jul-2015,Recanati CH,3,Hard,R32,303,189,0,,,Mirza Basic,Miljan Zekic,6-4 6-2,0.53,9.3%,5.6%,68.5%,59.5%,58.8%,4/7,42.0%,21.7%,15.2%,11.1%,36.8%,0/0,100,5,3,54,37,17,7,
+13-Jul-2015,Austria F4,3,Clay,SF,299,432,0,1,8,Tom Kocevar Desman,Miljan Zekic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,QF,299,612,1,1,,Miljan Zekic,Lucas Miedler,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,R16,299,457,1,1,,Miljan Zekic,Adrian Partl,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2015,Austria F4,3,Clay,R32,299,569,1,1,,Miljan Zekic,Mick Lescure,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,SF,303,346,0,2,4,Laurynas Grigelis,Miljan Zekic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,QF,303,444,1,2,8,Miljan Zekic,Guillermo Rivera Aranguiz,6-3 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,R16,303,446,1,2,,Miljan Zekic,Dragos Dima,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2015,Romania F7,3,Clay,R32,303,2030,1,2,Q,Miljan Zekic,Shahin Khaledan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Serbia F3,3,Clay,F,302,726,1,1,,Miljan Zekic,Robin Stanek,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Serbia F3,3,Clay,SF,302,903,1,1,,Miljan Zekic,Tak Khunn Wang,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Serbia F3,3,Clay,QF,302,1264,1,1,Q,Miljan Zekic,Aleksandar Vukic,2-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Serbia F3,3,Clay,R16,302,1094,1,1,,Miljan Zekic,Antoine Bellier,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Serbia F3,3,Clay,R32,302,1511,1,1,WC,Miljan Zekic,Strahinja Rakic,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,Moscow CH,3,Clay,R32,297,376,0,,LL,Maxim Dubarenco,Miljan Zekic,7-6(6) 6-2,0.89,6.0%,3.0%,65.7%,61.4%,52.2%,2/6,48.1%,37.1%,1.6%,30.0%,50.0%,2/4,129,4,2,67,44,23,1,
+1-Jun-2015,Croatia F12,3,Clay,SF,299,415,0,1,4,Michael Linzer,Miljan Zekic,4-6 6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Croatia F12,3,Clay,QF,299,530,1,1,6,Miljan Zekic,Markus Eriksson,6-7(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Croatia F12,3,Clay,R16,299,,1,1,WC,Miljan Zekic,Neven Krivokuca,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2015,Croatia F12,3,Clay,R32,299,1537,1,1,Q,Miljan Zekic,Filipp Kekercheni,6-7(6) 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Croatia F11,3,Clay,R16,299,843,0,1,Q,Fred Simonsson,Miljan Zekic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Croatia F11,3,Clay,R32,299,853,1,1,,Miljan Zekic,Jonathan Mridha,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Croatia F9,3,Clay,F,334,235,1,3,1,Miljan Zekic,Yannick Mertens,6-7(4) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Croatia F9,3,Clay,SF,334,519,1,3,7,Miljan Zekic,Kevin Krawietz,6-7(4) 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Croatia F9,3,Clay,QF,334,971,1,3,,Miljan Zekic,Markos Kalovelonis,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Croatia F9,3,Clay,R16,334,,1,3,WC,Miljan Zekic,Domagoj Biljesko,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Croatia F9,3,Clay,R32,334,1981,1,3,WC,Miljan Zekic,Djordje Djokovic,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Croatia F8,3,Clay,SF,327,534,0,4,7,Vaclav Safranek,Miljan Zekic,6-4 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Croatia F8,3,Clay,QF,327,595,1,4,8,Miljan Zekic,Jerome Inzerillo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Croatia F8,3,Clay,R16,327,,1,4,Q,Miljan Zekic,Nikolai Soloviev,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Croatia F8,3,Clay,R32,327,,1,4,WC,Miljan Zekic,Ruslan Khunarikov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Apr-2015,Munich,3,Clay,Q1,334,111,0,,2,Norbert Gombos,Miljan Zekic,4-6 6-3 6-2,0.71,5.1%,3.8%,56.4%,63.6%,47.1%,5/9,43.4%,30.9%,3.7%,27.4%,42.1%,2/3,159,4,3,78,44,34,3,1:40
+20-Apr-2015,France F8,3,Clay,QF,332,294,0,7,4,Jonathan Eysseric,Miljan Zekic,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,France F8,3,Clay,R16,332,585,1,7,,Miljan Zekic,Julien Dubail,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,France F8,3,Clay,R32,332,,1,7,Q,Miljan Zekic,Manuel Guinard,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Croatia F6,3,Clay,R32,342,,0,5,Q,Botic Van De Zandschulp,Miljan Zekic,6-0 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Turkey F10,3,Clay,R32,350,619,0,4,,Ivan Gakhov,Miljan Zekic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2015,Turkey F9,3,Clay,SF,343,271,0,3,1,Oriol Roca Batalla,Miljan Zekic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2015,Turkey F9,3,Clay,QF,343,434,1,3,5,Miljan Zekic,Riccardo Sinicropi,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2015,Turkey F9,3,Clay,R16,343,717,1,3,,Miljan Zekic,Francois Arthur Vibert,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Mar-2015,Turkey F9,3,Clay,R32,343,1126,1,3,Q,Miljan Zekic,Daniel Uhlig,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Sri Lanka F3,3,Clay,F,385,270,0,3,2,Rui Machado,Miljan Zekic,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Sri Lanka F3,3,Clay,SF,385,501,1,3,5,Miljan Zekic,Duck Hee Lee,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Sri Lanka F3,3,Clay,QF,385,960,1,3,,Miljan Zekic,Laurent Recouderc,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Sri Lanka F3,3,Clay,R16,385,917,1,3,,Miljan Zekic,Mohit Mayur Jayaprakash,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+16-Feb-2015,Sri Lanka F3,3,Clay,R32,385,1241,1,3,Q,Miljan Zekic,Isade Juneau,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sri Lanka F2,3,Clay,F,399,287,0,3,1,Rui Machado,Miljan Zekic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sri Lanka F2,3,Clay,SF,399,917,1,3,,Miljan Zekic,Mohit Mayur Jayaprakash,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sri Lanka F2,3,Clay,QF,399,784,1,3,,Miljan Zekic,Sander Gille,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sri Lanka F2,3,Clay,R16,399,822,1,3,,Miljan Zekic,Tom Schonenberg,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2015,Sri Lanka F2,3,Clay,R32,399,1096,1,3,LL,Miljan Zekic,Ku Keon Kang,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Sri Lanka F1,3,Clay,SF,398,278,0,3,1,Rui Machado,Miljan Zekic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Sri Lanka F1,3,Clay,QF,398,1571,1,3,WC,Miljan Zekic,Sumit Nagal,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Sri Lanka F1,3,Clay,R16,398,1465,1,3,LL,Miljan Zekic,Marcel Waloch,6-2 4-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2015,Sri Lanka F1,3,Clay,R32,398,735,1,3,,Miljan Zekic,Ranjeet Virali Murugesan,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Senegal F1,3,Hard,QF,402,667,0,4,7,Alexandre Folie,Miljan Zekic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Senegal F1,3,Hard,R16,402,1072,1,4,,Miljan Zekic,Christopher Marquis,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Senegal F1,3,Hard,R32,402,1328,1,4,Q,Miljan Zekic,Paul Monteban,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,R16,421,762,0,5,,Petros Chrysochos,Miljan Zekic,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Cyprus F2,3,Hard,R32,421,870,1,5,,Miljan Zekic,Daniel Glancy,7-6(10) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Cyprus F1,3,Hard,SF,424,377,0,4,1,Alexander Lazov,Miljan Zekic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Cyprus F1,3,Hard,QF,424,762,1,4,,Miljan Zekic,Petros Chrysochos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Cyprus F1,3,Hard,R16,424,1498,1,4,Q,Miljan Zekic,Mircea Alexandru Jecan,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Nov-2014,Cyprus F1,3,Hard,R32,424,1134,1,4,,Miljan Zekic,Alexandru Daniel Carpen,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Nov-2014,Greece F11,3,Hard,R32,422,1060,0,3,SE,Sami Reinwein,Miljan Zekic,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Oct-2014,Greece F10,3,Hard,R32,418,682,0,3,,Tal Goldengoren,Miljan Zekic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Greece F9,3,Hard,QF,419,321,0,5,2,Ricardo Rodriguez,Miljan Zekic,7-6(6) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Greece F9,3,Hard,R16,419,1483,1,5,Q,Miljan Zekic,Jessy Kalambay,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2014,Greece F9,3,Hard,R32,419,672,1,5,,Miljan Zekic,Tal Goldengoren,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2014,Sibiu CH,3,Clay,R16,456,217,0,Q,,Jozef Kovalik,Miljan Zekic,6-1 6-4,0.65,3.9%,11.8%,54.9%,57.1%,47.8%,4/8,42.0%,30.6%,0.0%,34.6%,26.1%,1/1,100,2,6,51,28,23,0,1:06
+22-Sep-2014,Sibiu CH,3,Clay,R32,456,204,1,Q,,Miljan Zekic,Antonio Veic,6-4 6-2,1.43,6.0%,8.0%,64.0%,78.1%,38.9%,3/5,57.1%,51.6%,1.6%,44.1%,60.7%,5/9,112,3,4,50,32,18,1,1:15
+8-Sep-2014,Banja Luka CH,3,Clay,R16,482,247,0,WC,,Kimmer Coppejans,Miljan Zekic,6-2 6-4,0.72,1.6%,1.6%,70.3%,60.0%,47.4%,4/7,44.4%,31.7%,1.7%,23.1%,47.6%,0/2,124,1,1,64,45,19,1,1:20
+8-Sep-2014,Banja Luka CH,3,Clay,R32,482,138,1,WC,5,Miljan Zekic,Ante Pavic,2-6 6-2 7-6(4),1.03,7.1%,2.4%,59.5%,66.0%,58.8%,1/5,50.6%,38.1%,10.7%,31.5%,50.0%,4/8,168,6,2,84,50,34,9,1:50
+25-Aug-2014,Serbia F11,3,Clay,F,552,522,1,3,2,Miljan Zekic,Danilo Petrovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Serbia F11,3,Clay,SF,552,1218,1,3,,Miljan Zekic,Plamen Milushev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Serbia F11,3,Clay,QF,552,830,1,3,8,Miljan Zekic,Ilija Vucic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Serbia F11,3,Clay,R16,552,1515,1,3,,Miljan Zekic,Strahinja Rakic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2014,Serbia F11,3,Clay,R32,552,1163,1,3,,Miljan Zekic,Bogdan Djurdjevic,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Serbia F10,3,Clay,QF,550,486,0,8,4,Marko Tepavac,Miljan Zekic,7-6(9) 6-7(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Serbia F10,3,Clay,R16,550,1359,1,8,Q,Miljan Zekic,Antun Vidak,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Serbia F10,3,Clay,R32,550,1607,1,8,Q,Miljan Zekic,Danail Tarpov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Serbia F8,3,Clay,QF,621,556,0,,7,Gavin Van Peperzeel,Miljan Zekic,5-7 6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Serbia F8,3,Clay,R16,621,437,1,,2,Miljan Zekic,Carlos Gomez Herrera,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2014,Serbia F8,3,Clay,R32,621,912,1,,,Miljan Zekic,Luka Zaninovic,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Serbia F7,3,Clay,F,619,531,0,5,3,Marko Tepavac,Miljan Zekic,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Serbia F7,3,Clay,SF,619,577,1,5,4,Miljan Zekic,Gavin Van Peperzeel,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Serbia F7,3,Clay,QF,619,671,1,5,,Miljan Zekic,Matej Sabanov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Serbia F7,3,Clay,R16,619,978,1,5,Q,Miljan Zekic,Peter Nagy,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Serbia F7,3,Clay,R32,619,810,1,5,,Miljan Zekic,Franjo Raspudic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2014,Umag,3,Clay,Q1,615,543,0,,,Duje Kekez,Miljan Zekic,6-4 6-4,0.82,9.0%,4.5%,61.2%,68.3%,42.3%,7/10,46.6%,34.4%,3.1%,20.5%,65.0%,1/5,131,6,3,67,41,26,2,1:33
+14-Jul-2014,Poznan CH,3,Clay,R16,674,161,0,Q,8,Adrian Ungur,Miljan Zekic,6-2 7-6(9),0.67,5.3%,2.6%,65.8%,66.0%,50.0%,2/4,45.0%,26.6%,3.1%,12.1%,41.9%,0/1,140,4,2,76,50,26,2,1:55
+14-Jul-2014,Poznan CH,3,Clay,R32,674,464,1,Q,WC,Miljan Zekic,Blazej Koniusz,6-7(7) 7-6(6) 7-5,1.08,1.5%,2.2%,58.2%,67.9%,48.2%,9/13,51.7%,43.5%,0.8%,37.2%,52.8%,5/12,265,2,3,134,78,56,1,3:11
+7-Jul-2014,Serbia F4,3,Clay,R32,673,902,0,5,,Guillermo Rivera Aranguiz,Miljan Zekic,6-1 4-6 7-6(9),,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,France F13,3,Clay,R32,532,424,0,,7,Federico Coria,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Serbia F3,3,Clay,SF,532,270,0,3,1,Pedja Krstin,Miljan Zekic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Serbia F3,3,Clay,QF,532,561,1,3,6,Miljan Zekic,Juan Carlos Saez,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Serbia F3,3,Clay,R16,532,1563,1,3,Q,Miljan Zekic,Stefan Milicevic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Serbia F3,3,Clay,R32,532,1204,1,3,Q,Miljan Zekic,Keivon Tabrizi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Serbia F2,3,Clay,F,467,520,1,1,4,Miljan Zekic,Yannick Maden,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Serbia F2,3,Clay,SF,467,604,1,1,,Miljan Zekic,Gregoire Barrere,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Serbia F2,3,Clay,QF,467,590,1,1,8,Miljan Zekic,Gavin Van Peperzeel,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Serbia F2,3,Clay,R16,467,,1,1,WC,Miljan Zekic,Luka Sucevic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Serbia F2,3,Clay,R32,467,927,1,1,,Miljan Zekic,Luka Zaninovic,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2014,Serbia F1,3,Clay,R32,471,2128,0,2,WC,Petar Conkic,Miljan Zekic,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Italy F17,3,Clay,QF,468,391,0,,7,Matteo Trevisan,Miljan Zekic,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Italy F17,3,Clay,R16,468,457,1,,,Miljan Zekic,Pedro Sakamoto,7-5 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Jun-2014,Italy F17,3,Clay,R32,468,625,1,,,Miljan Zekic,Viktor Galovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-May-2014,Bosnia & Herzegovina F3,3,Clay,R32,439,,0,2,WC,Marko Osmakcic,Miljan Zekic,6-4 2-6 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+5-May-2014,Bosnia & Herzegovina F1,3,Clay,QF,452,294,0,5,1,Mirza Basic,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-May-2014,Bosnia & Herzegovina F1,3,Clay,R16,452,891,1,5,,Miljan Zekic,Matej Sabanov,4-6 7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+5-May-2014,Bosnia & Herzegovina F1,3,Clay,R32,452,,1,5,Q,Miljan Zekic,Marko Stosic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,France F9,3,Clay,R16,455,500,0,9,,Pablo Galdon,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,France F9,3,Clay,R32,455,1585,1,9,Q,Miljan Zekic,Maxime Tabatruong,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Apr-2014,France F8,3,Clay,R32,437,678,0,5,,Andriej Kapas,Miljan Zekic,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Egypt F4,3,Clay,R16,433,995,0,6,,Arsenije Zlatanovic,Miljan Zekic,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2014,Egypt F4,3,Clay,R32,433,1132,1,6,,Miljan Zekic,Loic Perret,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Egypt F3,3,Clay,R16,431,819,0,,,Ilija Vucic,Miljan Zekic,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Egypt F3,3,Clay,R32,431,325,1,,2,Miljan Zekic,Alberto Brizzi,6-7(4) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Turkey F45,3,Clay,R16,424,1056,0,4,,Alexis Klegou,Miljan Zekic,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2013,Turkey F45,3,Clay,R32,424,691,1,4,,Miljan Zekic,Andrei Ciumac,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Croatia F12,3,Clay,QF,428,210,0,7,2,Damir Dzumhur,Miljan Zekic,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Croatia F12,3,Clay,R16,428,1276,1,7,Q,Miljan Zekic,Nikolai Soloviev,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2013,Croatia F12,3,Clay,R32,428,1627,1,7,WC,Miljan Zekic,Matej Svjetlicic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Hungary F2,3,Clay,R32,416,,0,6,WC,Andre Biro,Miljan Zekic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Banja Luka CH,3,Clay,R32,368,263,0,,,Simone Vagnozzi,Miljan Zekic,6-2 6-2,0.65,0.0%,4.7%,62.8%,63.0%,37.5%,4/8,40.9%,30.0%,0.0%,21.1%,58.3%,0/3,93,0,2,43,27,16,0,1:01
+26-Aug-2013,Serbia F11,3,Clay,QF,366,655,0,1,8,Laslo Djere,Miljan Zekic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Serbia F11,3,Clay,R16,366,1246,1,1,Q,Miljan Zekic,Patrik Fabian,6-7(3) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2013,Serbia F11,3,Clay,R32,366,1217,1,1,,Miljan Zekic,Vladimir Obradovic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2013,Umag,3,Clay,Q1,328,322,0,7,,Kristijan Mesaros,Miljan Zekic,6-3 6-4,0.65,2.9%,0.0%,69.6%,52.1%,57.1%,2/5,43.2%,30.4%,0.0%,28.9%,36.4%,1/3,125,2,0,69,48,21,0,1:43
+15-Jul-2013,Serbia F5,3,Clay,R32,300,,0,1,WC,Goran Markovic,Miljan Zekic,6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2013,Scheveningen CH,3,Clay,R32,293,182,0,,,Ivan Sergeyev,Miljan Zekic,6-1 6-4,0.68,7.4%,4.4%,61.8%,66.7%,30.8%,9/13,43.5%,32.1%,0.0%,18.4%,61.1%,0/2,124,5,3,68,42,26,0,1:13
+1-Jul-2013,Timisoara CH,3,Clay,SF,376,119,0,Q,4,Ruben Ramirez Hidalgo,Miljan Zekic,7-5 6-3,0.74,3.1%,6.3%,70.3%,64.4%,42.1%,7/10,44.3%,31.3%,1.5%,27.3%,39.1%,1/5,131,2,4,64,45,19,1,1:32
+1-Jul-2013,Timisoara CH,3,Clay,QF,376,205,1,Q,,Miljan Zekic,Jonathan Eysseric,6-7(3) 6-3 6-3,1.07,1.9%,0.9%,67.0%,62.0%,37.1%,10/15,51.7%,49.5%,5.2%,40.7%,63.2%,8/11,203,2,1,106,71,35,5,2:39
+1-Jul-2013,Timisoara CH,3,Clay,R16,376,176,1,Q,8,Miljan Zekic,David Guez,5-7 7-5 6-0,1.13,4.3%,2.1%,57.4%,63.0%,60.0%,3/6,52.4%,43.3%,0.0%,37.7%,52.8%,6/9,191,4,2,94,54,40,0,2:25
+1-Jul-2013,Timisoara CH,3,Clay,R32,376,283,1,Q,,Miljan Zekic,Marek Semjan,6-1 3-6 6-0,1.50,9.7%,4.8%,72.6%,77.8%,35.3%,6/8,57.7%,50.7%,2.7%,41.5%,61.8%,6/13,137,6,3,62,45,17,2,1:30
+24-Jun-2013,Serbia F3,3,Clay,R32,376,736,0,3,,Viktor Filipenko,Miljan Zekic,5-5 RET,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Serbia F2,3,Clay,F,413,405,1,2,1,Miljan Zekic,Danilo Petrovic,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Serbia F2,3,Clay,SF,413,1277,1,2,WC,Miljan Zekic,Marko Tepavac,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Serbia F2,3,Clay,QF,413,1172,1,2,,Miljan Zekic,Adrian Partl,6-2 1-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Serbia F2,3,Clay,R16,413,2007,1,2,Q,Miljan Zekic,Matej Sabanov,1-6 7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Serbia F2,3,Clay,R32,413,1882,1,2,WC,Miljan Zekic,Petar Tomic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,F,412,408,1,4,5,Miljan Zekic,Danilo Petrovic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,SF,412,738,1,4,,Miljan Zekic,Gleb Sakharov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,QF,412,958,1,4,Q,Miljan Zekic,Dimitar Kutrovsky,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,R16,412,1064,1,4,,Miljan Zekic,Toby Martin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2013,Serbia F1,3,Clay,R32,412,1104,1,4,,Miljan Zekic,Giorgio Portaluri,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2013,Italy F11,3,Clay,R32,408,518,0,8,,Daniele Giorgini,Miljan Zekic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Bulgaria F1,3,Clay,F,441,277,0,2,1,Damir Dzumhur,Miljan Zekic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Bulgaria F1,3,Clay,SF,441,721,1,2,7,Miljan Zekic,Julien Demois,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Bulgaria F1,3,Clay,QF,441,890,1,2,,Miljan Zekic,Omar Giacalone,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Bulgaria F1,3,Clay,R16,441,1677,1,2,Q,Miljan Zekic,Petar Trendafilov,6-7(3) 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Bulgaria F1,3,Clay,R32,441,,1,2,Q,Miljan Zekic,Milen Ianakiev,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2013,France F9,3,Clay,R32,449,375,0,,7,Daniel Smethurst,Miljan Zekic,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Italy F4,3,Clay,QF,436,754,0,,WC,Matteo Trevisan,Miljan Zekic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Italy F4,3,Clay,R16,436,536,1,,,Miljan Zekic,Guillermo Hormazabal,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2013,Italy F4,3,Clay,R32,436,430,1,,,Miljan Zekic,Nicolas Reissig,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2013,France F7,3,Clay,R32,442,776,0,,,Romain Sichez,Miljan Zekic,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Croatia F6,3,Clay,R16,431,281,0,,4,Henri Laaksonen,Miljan Zekic,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2013,Croatia F6,3,Clay,R32,431,1030,1,,Q,Miljan Zekic,Marcos Vinicius Dias,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Croatia F5,3,Clay,R16,431,304,0,,6,Dominic Thiem,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2013,Croatia F5,3,Clay,R32,431,418,1,,,Miljan Zekic,Tomislav Brkic,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Feb-2013,Croatia F1,3,Hard,R32,431,706,0,,WC,Filip Veger,Miljan Zekic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2013,France F3,3,Hard,R32,429,,0,,WC,Calvin Hemery,Miljan Zekic,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2013,France F2,3,Hard,R32,429,390,0,,,Romain Jouan,Miljan Zekic,4-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,R16,435,240,0,,2,Marsel Ilhan,Miljan Zekic,7-6(5) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+19-Nov-2012,Turkey F45,3,Hard,R32,435,865,1,,,Miljan Zekic,Toby Martin,7-6(10) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,QF,435,244,0,8,1,Marsel Ilhan,Miljan Zekic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R16,435,1135,1,8,Q,Miljan Zekic,Colin Van Beem,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Nov-2012,Turkey F44,3,Hard,R32,435,764,1,8,,Miljan Zekic,Richard Becker,6-7(2) 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,Turkey F43,3,Hard,R32,431,1107,0,6,Q,Marc Meigel,Miljan Zekic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Croatia F10,3,Clay,R16,431,938,0,7,,Matteo Fago,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Oct-2012,Croatia F10,3,Clay,R32,431,689,1,7,,Miljan Zekic,Ismar Gorcic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2012,Serbia F14,3,Clay,R32,471,1027,0,5,,Mathias Bourgue,Miljan Zekic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Serbia F13,3,Clay,F,454,924,1,4,,Miljan Zekic,Tihomir Grozdanov,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Serbia F13,3,Clay,SF,454,409,1,4,5,Miljan Zekic,Jozef Kovalik,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Serbia F13,3,Clay,QF,454,446,1,4,6,Miljan Zekic,Carlos Gomez Herrera,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Serbia F13,3,Clay,R16,454,832,1,4,,Miljan Zekic,Miki Jankovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,Serbia F13,3,Clay,R32,454,,1,4,Q,Miljan Zekic,Dimitar Grabuloski,7-5 6-7(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Serbia F12,3,Clay,R16,454,,0,3,WC,Gergely Madarasz,Miljan Zekic,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,Serbia F12,3,Clay,R32,454,1019,1,3,,Miljan Zekic,Mathias Bourgue,5-7 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,F,440,516,0,3,6,Carlos Gomez Herrera,Miljan Zekic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,SF,440,354,1,3,2,Miljan Zekic,Ivan Bjelica,3-6 7-6(1) 7-6(10),,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,QF,440,653,1,3,8,Miljan Zekic,Marko Djokovic,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,R16,440,1145,1,3,,Miljan Zekic,Franjo Raspudic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Serbia F9,3,Clay,R32,440,1427,1,3,Q,Miljan Zekic,Boris Conkic,3-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Italy F19,3,Clay,SF,425,391,0,6,5,Jose Checa Calvo,Miljan Zekic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Italy F19,3,Clay,QF,425,330,1,6,1,Miljan Zekic,Claudio Grassi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Italy F19,3,Clay,R16,425,730,1,6,,Miljan Zekic,Chris Wettengel,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jul-2012,Italy F19,3,Clay,R32,425,,1,6,WC,Miljan Zekic,Pietro Licciardi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Turkey F27,3,Clay,F,404,1778,1,1,Q,Miljan Zekic,Romain Arneodo,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Turkey F27,3,Clay,SF,404,896,1,1,Q,Miljan Zekic,Alexander Lazov,6-1 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Turkey F27,3,Clay,QF,404,1250,1,1,Q,Miljan Zekic,Martin Vaisse,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Turkey F27,3,Clay,R16,404,854,1,1,,Miljan Zekic,Sebastian Lavie,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Jul-2012,Turkey F27,3,Clay,R32,404,,1,1,WC,Miljan Zekic,Efe Yurtacan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Turkey F26,3,Clay,F,364,307,0,2,1,Sergio Gutierrez Ferrol,Miljan Zekic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Turkey F26,3,Clay,SF,364,974,1,2,,Miljan Zekic,Claudio Fortuna,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Turkey F26,3,Clay,QF,364,1511,1,2,Q,Miljan Zekic,Simon Ede,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Turkey F26,3,Clay,R16,364,,1,2,Q,Miljan Zekic,Clement Homs,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Turkey F26,3,Clay,R32,364,,1,2,Q,Miljan Zekic,Ryan Thomas,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,France F10,3,Clay,R16,362,406,0,,,Jonathan Eysseric,Miljan Zekic,6-4 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,France F10,3,Clay,R32,362,517,1,,,Miljan Zekic,David Estruch,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Italy F13,3,Clay,R16,364,403,0,7,,Jonathan Eysseric,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Italy F13,3,Clay,R32,364,1518,1,7,Q,Miljan Zekic,Oscar Rodriguez Sanchez,6-7(1) 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+28-May-2012,Italy F11,3,Clay,R32,365,314,0,,,Daniele Giorgini,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Bosnia & Herzegovina F4,3,Clay,QF,361,411,0,2,5,Tomislav Brkic,Miljan Zekic,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Bosnia & Herzegovina F4,3,Clay,R16,361,930,1,2,Q,Miljan Zekic,Tomislav Ternar,0-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-May-2012,Bosnia & Herzegovina F4,3,Clay,R32,361,907,1,2,,Miljan Zekic,Filip Veger,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Belgrade,3,Clay,Q2,309,179,0,,4,Eduardo Schwank,Miljan Zekic,6-4 6-4,0.74,3.1%,3.1%,68.8%,63.6%,25.0%,5/9,43.3%,35.7%,0.0%,31.3%,45.5%,2/7,134,2,2,64,44,20,0,1:35
+30-Apr-2012,Belgrade,3,Clay,Q1,309,439,1,,,Miljan Zekic,Petru Alexandru Luncanu,6-1 4-6 6-4,1.15,8.9%,6.9%,57.4%,70.7%,34.9%,5/10,53.6%,51.2%,0.0%,51.1%,51.4%,7/16,183,9,7,101,58,43,0,2:22
+23-Apr-2012,Bucharest,3,Clay,Q1,304,233,0,,5,Erik Chvojka,Miljan Zekic,6-3 6-4,0.73,6.3%,4.8%,68.3%,65.1%,40.0%,6/9,44.4%,31.1%,3.3%,24.4%,45.0%,1/5,124,4,3,63,43,20,2,1:25
+9-Apr-2012,France F7,3,Clay,QF,313,209,0,,6,Josselin Ouanna,Miljan Zekic,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,France F7,3,Clay,R16,313,887,1,,Q,Miljan Zekic,Simon Cauvard,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Apr-2012,France F7,3,Clay,R32,313,1440,1,,Q,Miljan Zekic,Lucas Szewczyk,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+2-Apr-2012,Barletta CH,3,Clay,R16,333,65,0,,2,Filippo Volandri,Miljan Zekic,6-4 6-3,0.56,1.3%,3.8%,55.0%,59.1%,47.2%,8/12,43.7%,26.1%,0.0%,28.1%,21.4%,1/4,126,1,3,80,44,36,0,1:34
+2-Apr-2012,Barletta CH,3,Clay,R32,333,448,1,,WC,Miljan Zekic,Michal Schmid,6-2 6-3,1.82,31.4%,5.9%,72.5%,83.8%,50.0%,2/2,60.0%,46.3%,5.6%,30.0%,66.7%,3/6,105,16,3,51,37,14,3,1:06
+6-Feb-2012,Spain F1,3,Clay,R32,298,470,0,3,,Gabriel Trujillo Soler,Miljan Zekic,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Egypt F1,3,Clay,R16,305,570,0,5,,Giulio Torroni,Miljan Zekic,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2012,Egypt F1,3,Clay,R32,305,1177,1,5,LL,Miljan Zekic,Lorenzo Frigerio,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Israel F2,3,Hard,R16,305,423,0,2,,Gleb Sakharov,Miljan Zekic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2012,Israel F2,3,Hard,R32,305,445,1,2,,Miljan Zekic,Alberto Brizzi,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Croatia F13,3,Clay,R16,269,1174,0,4,Q,Ivo Mijic,Miljan Zekic,6-7(3) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2011,Croatia F13,3,Clay,R32,269,1948,1,4,WC,Miljan Zekic,Mate Delic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Napoli2 CH,3,Clay,R32,274,69,0,Q,2,Carlos Berlocq,Miljan Zekic,6-1 6-3,0.22,5.3%,0.0%,65.8%,48.0%,53.8%,0/4,31.1%,11.1%,2.8%,8.7%,15.4%,0/0,74,2,0,38,25,13,1,1:02
+19-Sep-2011,Ljubljana CH,3,Clay,R16,273,120,0,,3,Grega Zemlja,Miljan Zekic,6-2 3-6 6-2,0.62,6.8%,1.4%,67.1%,63.3%,62.5%,6/10,44.8%,23.0%,8.2%,13.5%,37.5%,1/1,134,5,1,73,49,24,5,1:33
+19-Sep-2011,Ljubljana CH,3,Clay,R32,273,267,1,,,Miljan Zekic,Dusan Lajovic,6-1 3-6 6-3,1.31,5.0%,0.0%,66.3%,75.5%,48.1%,5/8,54.9%,44.0%,3.6%,36.2%,54.1%,5/13,164,4,0,80,53,27,3,1:56
+5-Sep-2011,Brasov CH,3,Clay,R16,281,138,0,,5,Andreas Beck,Miljan Zekic,6-3 6-3,0.47,6.3%,6.3%,70.8%,70.6%,28.6%,3/6,39.4%,19.6%,2.2%,17.9%,22.2%,0/0,94,3,3,48,34,14,1,1:12
+5-Sep-2011,Brasov CH,3,Clay,R32,281,294,1,,,Miljan Zekic,Artem Smirnov,3-6 6-3 6-2,1.21,9.0%,3.4%,68.5%,72.1%,57.1%,9/10,52.7%,39.4%,1.0%,26.8%,55.8%,3/10,188,8,3,89,61,28,1,2:17
+22-Aug-2011,Serbia F8,3,Clay,QF,280,750,0,2,,Marco Cecchinato,Miljan Zekic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Serbia F8,3,Clay,R16,280,905,1,2,Q,Miljan Zekic,Sasa Stojisavljevic,6-7(3) 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Serbia F8,3,Clay,R32,280,931,1,2,,Miljan Zekic,Libor Salaba,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,SF,282,382,0,1,3,Michael Linzer,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,QF,282,997,1,1,,Miljan Zekic,Karim Mohamed Maamoun,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,R16,282,569,1,1,,Miljan Zekic,Gleb Sakharov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Serbia F7,3,Clay,R32,282,1696,1,1,LL,Miljan Zekic,Marious Zelba,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Samarkand CH,3,Clay,QF,297,226,0,,6,Malek Jaziri,Miljan Zekic,7-5 6-0,0.26,3.8%,9.4%,52.8%,71.4%,36.0%,2/6,35.4%,11.6%,14.0%,12.1%,10.0%,0/1,96,2,5,53,28,25,6,1:06
+8-Aug-2011,Samarkand CH,3,Clay,R16,297,237,1,,,Miljan Zekic,Farrukh Dustov,6-4 6-7(5) 7-6(5),0.94,4.7%,3.9%,58.9%,77.6%,54.7%,5/6,51.1%,29.8%,2.9%,22.9%,57.1%,2/4,233,6,5,129,76,53,3,2:42
+8-Aug-2011,Samarkand CH,3,Clay,R32,297,165,1,,2,Miljan Zekic,Alexander Kudryavtsev,6-4 6-4,1.41,14.8%,3.7%,70.4%,76.3%,75.0%,4/5,55.8%,34.0%,10.0%,12.5%,53.8%,3/5,104,8,2,54,38,16,5,0:59
+1-Aug-2011,Serbia F5,3,Clay,R32,296,1180,0,1,Q,Sasa Stojisavljevic,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,France F12,3,Clay,R16,342,663,0,2,,Sami Reinwein,Miljan Zekic,W/O,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2011,France F12,3,Clay,R32,342,,1,2,Q,Miljan Zekic,Vincent Dhoir,3-6 6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,F,339,472,1,4,6,Miljan Zekic,Alexandre Folie,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,SF,339,422,1,4,8,Miljan Zekic,Gianni Mina,6-2 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,QF,339,513,1,4,7,Miljan Zekic,Tak Khunn Wang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,R16,339,542,1,4,,Miljan Zekic,Baptiste Dupuy,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2011,France F11,3,Clay,R32,339,,1,4,Q,Miljan Zekic,Julien Demois,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,France F9,3,Clay,F,382,526,0,8,,Gianni Mina,Miljan Zekic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,France F9,3,Clay,SF,382,483,1,8,,Miljan Zekic,Benjamin Balleret,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,France F9,3,Clay,QF,382,675,1,8,,Miljan Zekic,Sami Reinwein,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,France F9,3,Clay,R16,382,436,1,8,,Miljan Zekic,Morgan Phillips,7-6(11) 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2011,France F9,3,Clay,R32,382,729,1,8,,Miljan Zekic,Juan Manuel Valverde,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,France F8,3,Clay,QF,387,331,0,,4,Florian Reynet,Miljan Zekic,2-6 7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,France F8,3,Clay,R16,387,1394,1,,Q,Miljan Zekic,Thibault Venturino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2011,France F8,3,Clay,R32,387,311,1,,5,Miljan Zekic,Laurent Recouderc,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jun-2011,Netherlands F1,3,Clay,R32,381,269,0,,7,Yannick Mertens,Miljan Zekic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,SF,421,1078,0,3,SE,Damir Dzumhur,Miljan Zekic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,QF,421,526,1,3,5,Miljan Zekic,David Savic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,R16,421,,1,3,Q,Miljan Zekic,Lukas Weinhandl,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-May-2011,Bosnia & Herzegovina F3,3,Clay,R32,421,1044,1,3,Q,Miljan Zekic,Tomislav Ternar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,F,443,854,1,2,Q,Miljan Zekic,Tomislav Brkic,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,SF,443,530,1,2,3,Miljan Zekic,David Savic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,QF,443,745,1,2,,Miljan Zekic,Ismar Gorcic,2-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,R16,443,1403,1,2,Q,Miljan Zekic,Josip Mesin,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Bosnia & Herzegovina F2,3,Clay,R32,443,769,1,2,,Miljan Zekic,Marco Dierckx,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bulgaria F1,3,Clay,SF,446,559,0,4,,Tihomir Grozdanov,Miljan Zekic,6-3 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bulgaria F1,3,Clay,QF,446,509,1,4,8,Miljan Zekic,Victor Mugurel Anagnastopol,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bulgaria F1,3,Clay,R16,446,,1,4,Q,Miljan Zekic,Ilie Aurelian Giurgiu,7-6(2) 7-6(10),,,,,,,,,,,,,,,,,,,,,
+2-May-2011,Bulgaria F1,3,Clay,R32,446,,1,4,WC,Miljan Zekic,Stefan Trifonov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,Belgrade,3,Clay,Q2,446,156,0,,5,Martin Klizan,Miljan Zekic,6-3 7-5,0.75,3.2%,1.6%,56.5%,60.0%,48.1%,1/5,44.1%,33.8%,1.5%,29.7%,39.3%,1/4,127,2,1,62,35,27,1,1:37
+25-Apr-2011,Belgrade,3,Clay,Q1,446,227,1,,,Miljan Zekic,Marco Crugnola,4-6 6-4 7-5,1.04,7.7%,5.8%,51.9%,70.4%,38.0%,5/11,50.4%,47.0%,0.0%,41.4%,53.2%,7/23,236,8,6,104,54,50,0,2:59
+28-Mar-2011,Turkey F11,3,Clay,QF,517,357,0,6,1,Alejandro Gonzalez,Miljan Zekic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,R16,517,646,1,6,,Miljan Zekic,Federico Gaio,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Turkey F11,3,Clay,R32,517,738,1,6,,Miljan Zekic,Romain Sichez,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,F,517,623,1,8,,Miljan Zekic,Patrik Brydolf,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,SF,517,683,1,8,,Miljan Zekic,Gleb Alekseenko,6-0 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,QF,517,981,1,8,Q,Miljan Zekic,Alessandro Colella,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,R16,517,1040,1,8,Q,Miljan Zekic,Omar Hedayet,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2011,Turkey F10,3,Clay,R32,517,717,1,8,,Miljan Zekic,Bart Govaerts,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Turkey F9,3,Clay,R16,507,355,0,,4,Alejandro Gonzalez,Miljan Zekic,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2011,Turkey F9,3,Clay,R32,507,625,1,,,Miljan Zekic,Haluk Akkoyun,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Egypt F5,3,Clay,F,691,477,1,,5,Miljan Zekic,Dusan Lajovic,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Egypt F5,3,Clay,SF,691,1125,1,,,Miljan Zekic,Lubomir Majsajdr,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Egypt F5,3,Clay,QF,691,282,1,,2,Miljan Zekic,Alexander Lobkov,6-1 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Egypt F5,3,Clay,R16,691,642,1,,,Miljan Zekic,Roman Vogeli,6-3 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2010,Egypt F5,3,Clay,R32,691,522,1,,7,Miljan Zekic,Nicolas Reissig,7-6(8) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Egypt F4,3,Clay,SF,696,283,0,,2,Alexander Lobkov,Miljan Zekic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Egypt F4,3,Clay,QF,696,623,1,,,Miljan Zekic,Sherif Sabry,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Egypt F4,3,Clay,R16,696,1170,1,,Q,Miljan Zekic,Radim Urbanek,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2010,Egypt F4,3,Clay,R32,696,516,1,,7,Miljan Zekic,Karim Maamoun,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,Ljubljana CH,3,Clay,R32,726,275,0,Q,,Stefano Galvani,Miljan Zekic,7-6(1) 6-1,0.66,4.8%,3.2%,56.5%,60.0%,18.5%,9/15,40.4%,38.5%,0.0%,32.4%,50.0%,4/4,114,3,2,62,35,27,0,1:23
+23-Aug-2010,Bulgaria F5,3,Clay,R32,842,527,0,,3,Federico Torresi,Miljan Zekic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,F,866,512,0,,1,Ivan Bjelica,Miljan Zekic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,SF,866,660,1,,6,Miljan Zekic,Gleb Sakharov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,QF,866,718,1,,7,Miljan Zekic,Arsenije Zlatanovic,7-5 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,R16,866,,1,,Q,Miljan Zekic,Uros Petronijevic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Serbia F6,3,Clay,R32,866,,1,,LL,Miljan Zekic,Milan Krnjetin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Serbia F5,3,Clay,QF,884,1228,0,,SE,Marko Djokovic,Miljan Zekic,6-7(6) 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Serbia F5,3,Clay,R16,884,864,1,,,Miljan Zekic,Nikola Cacic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2010,Serbia F5,3,Clay,R32,884,476,1,,2,Miljan Zekic,Claudio Grassi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Serbia F4,3,Clay,R16,884,374,0,,1,Aldin Setkic,Miljan Zekic,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Aug-2010,Serbia F4,3,Clay,R32,884,1042,1,,Q,Miljan Zekic,Tomislav Ternar,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Serbia F3,3,Clay,QF,912,634,0,,,Vladimir Obradovic,Miljan Zekic,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Serbia F3,3,Clay,R16,912,753,1,,,Miljan Zekic,Arsenije Zlatanovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Serbia F3,3,Clay,R32,912,854,1,,,Miljan Zekic,Nikola Cacic,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2010,Serbia F1,3,Clay,R32,876,848,0,,Q,Vadim Alekseenko,Miljan Zekic,7-6(3) 6-7(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Bosnia & Herzegovina F7,3,Clay,R16,882,915,0,,,Antonio Sancic,Miljan Zekic,7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Bosnia & Herzegovina F7,3,Clay,R32,882,379,1,,1,Miljan Zekic,Aldin Setkic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-2010,Bosnia & Herzegovina F6,3,Clay,R32,882,1128,0,,Q,Goncalo Pereira,Miljan Zekic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Bosnia & Herzegovina F5,3,Clay,R16,887,922,0,,Q,Antonio Sancic,Miljan Zekic,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+17-May-2010,Bosnia & Herzegovina F5,3,Clay,R32,887,507,1,,5,Miljan Zekic,Yannick Vandenbulcke,5-7 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Bosnia & Herzegovina F4,3,Clay,R16,916,505,0,,8,Dusan Lajovic,Miljan Zekic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-May-2010,Bosnia & Herzegovina F4,3,Clay,R32,916,1645,1,,WC,Miljan Zekic,Zlatan Kadric,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Bosnia & Herzegovina F3,3,Clay,R16,917,1212,0,,Q,Kresimir Ritz,Miljan Zekic,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-May-2010,Bosnia & Herzegovina F3,3,Clay,R32,917,867,1,,,Miljan Zekic,Jeremy Jahn,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2010,Turkey F7,3,Clay,R32,915,,0,Q,Q,Mikhail Filima,Miljan Zekic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,R32,890,639,0,LL,Q,Tihomir Grozdanov,Miljan Zekic,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,Turkey F5,3,Clay,Q4,890,889,0,9,8,Bart Govaerts,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Iran F8,3,Clay,R16,882,448,0,,8,Grzegorz Panfil,Miljan Zekic,1-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Iran F8,3,Clay,R32,882,1609,1,,WC,Miljan Zekic,Amir Soheil Mohseni,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Iran F7,3,Clay,R16,890,538,0,,,Gyorgy Balazs,Miljan Zekic,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Iran F7,3,Clay,R32,890,1109,1,,,Miljan Zekic,Mohammed Mohazebnia,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Bulgaria F7,3,Clay,R16,717,1449,0,7,Q,Robert Coman,Miljan Zekic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,Bulgaria F7,3,Clay,R32,717,,1,7,WC,Miljan Zekic,Dimitar Petrov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Serbia F7,3,Clay,R16,721,466,0,,2,Aldin Setkic,Miljan Zekic,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2009,Serbia F7,3,Clay,R32,721,,1,,Q,Miljan Zekic,Marko Begovic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Serbia F5,3,Clay,R16,700,1185,0,6,Q,Robert Belak,Miljan Zekic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2009,Serbia F5,3,Clay,R32,700,1379,1,6,Q,Miljan Zekic,Arsenije Zlatanovic,7-6(10) 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Serbia F4,3,Clay,R32,709,948,0,8,,Dusan Lajovic,Miljan Zekic,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jul-2009,Umag,3,Clay,Q1,717,468,0,,,Vladimir Obradovic,Miljan Zekic,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Serbia F3,3,Clay,R16,718,538,0,,7,Aldin Setkic,Miljan Zekic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2009,Serbia F3,3,Clay,R32,718,637,1,,,Miljan Zekic,Ismar Gorcic,7-5 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Serbia F2,3,Clay,R16,726,357,0,,1,Simone Vagnozzi,Miljan Zekic,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Serbia F2,3,Clay,R32,726,640,1,,,Miljan Zekic,Andrei Levine,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Serbia F1,3,Clay,R16,678,594,0,,7,Aleksander Slovic,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Serbia F1,3,Clay,R32,678,1090,1,,Q,Miljan Zekic,Ivan Djurdjevic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Bulgaria F4,3,Clay,R16,678,871,0,7,,Valentin Dimov,Miljan Zekic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Bulgaria F4,3,Clay,R32,678,1213,1,7,Q,Miljan Zekic,Milos Sekulic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-May-2009,Bulgaria F3,3,Clay,R32,673,,0,7,Q,Alberto Rodriguez Cervantes,Miljan Zekic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bulgaria F2,3,Clay,R16,676,591,0,,7,Tihomir Grozdanov,Miljan Zekic,6-7(3) 7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Bulgaria F2,3,Clay,R32,676,670,1,,,Miljan Zekic,Frank Wintermantel,1-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Bulgaria F1,3,Clay,R32,657,707,0,7,,Vadim Alekseenko,Miljan Zekic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Croatia F4,3,Clay,R16,668,504,0,,,Bastian Knittel,Miljan Zekic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Croatia F4,3,Clay,R32,668,489,1,,7,Miljan Zekic,Andrej Martin,7-6(5) 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2009,Croatia F3,3,Clay,R32,668,448,0,,5,David Savic,Miljan Zekic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,QF,694,535,0,,8,Murad Inoyatov,Miljan Zekic,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,R16,694,418,1,,3,Miljan Zekic,Valery Rudnev,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,Egypt F3,3,Clay,R32,694,1856,1,,Q,Miljan Zekic,Riccardo Marcon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Egypt F2,3,Clay,R32,721,484,0,,,Andrei Mlendea,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Egypt F1,3,Clay,QF,721,342,0,,2,Teodor Dacian Craciun,Miljan Zekic,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Egypt F1,3,Clay,R16,721,1206,1,,Q,Miljan Zekic,Enrico Fioravante,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Egypt F1,3,Clay,R32,721,424,1,,5,Miljan Zekic,David Savic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Croatia F11,3,Clay,QF,750,374,0,Q,,Augustin Gensse,Miljan Zekic,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Croatia F11,3,Clay,R16,750,1084,1,Q,Q,Miljan Zekic,Ivan Djurdjevic,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Oct-2008,Croatia F11,3,Clay,R32,750,497,1,Q,,Miljan Zekic,Andrei Mlendea,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Bulgaria F8,3,Clay,R16,803,1098,0,7,,Vasil Mladenov,Miljan Zekic,4-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Sep-2008,Bulgaria F8,3,Clay,R32,803,730,1,7,,Miljan Zekic,Oscar Sabate Bretos,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Bulgaria F7,3,Clay,SF,,,0,8,2,Ivaylo Traykov,Miljan Zekic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Bulgaria F7,3,Clay,QF,,1058,1,8,,Miljan Zekic,Vasil Mladenov,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Bulgaria F7,3,Clay,R16,,1069,1,8,,Miljan Zekic,Valentin Dimov,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Sep-2008,Bulgaria F7,3,Clay,R32,,,1,8,,Miljan Zekic,Oscar Sabate Bretos,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Serbia F6,3,Clay,QF,773,641,0,8,3,Aleksander Slovic,Miljan Zekic,6-4 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Serbia F6,3,Clay,R16,773,875,1,8,,Miljan Zekic,Ilija Martinoski,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2008,Serbia F6,3,Clay,R32,773,,1,8,WC,Miljan Zekic,Bojan Zdravkovic,6-4 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Serbia F4,3,Clay,R16,799,663,0,,7,Aldin Setkic,Miljan Zekic,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2008,Serbia F4,3,Clay,R32,799,695,1,,,Miljan Zekic,Albert Loncaric,1-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Serbia F3,3,Clay,QF,807,649,0,,4,Goran Tosic,Miljan Zekic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Serbia F3,3,Clay,R16,807,925,1,,,Miljan Zekic,Vilim Visak,6-2 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2008,Serbia F3,3,Clay,R32,807,695,1,,,Miljan Zekic,Albert Loncaric,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Serbia F2,3,Clay,R16,780,493,0,,3,Attila Balazs,Miljan Zekic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Serbia F2,3,Clay,R32,780,1067,1,,,Miljan Zekic,Zoran Golubovic,6-7(2) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Serbia F1,3,Clay,QF,788,841,0,,,Aleksander Slovic,Miljan Zekic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Serbia F1,3,Clay,R16,788,826,1,,,Miljan Zekic,Robert Belak,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2008,Serbia F1,3,Clay,R32,788,663,1,,8,Miljan Zekic,Adam Kellner,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Macedonia F2,3,Clay,R16,789,,0,7,WC,Ivan Zovko,Miljan Zekic,7-6(6) 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Jun-2008,Macedonia F2,3,Clay,R32,789,1145,1,7,,Miljan Zekic,Ivan Vukovic,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Bulgaria F4,3,Clay,QF,897,758,0,,,Matteo Viola,Miljan Zekic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Bulgaria F4,3,Clay,R16,897,1579,1,,Q,Miljan Zekic,Stanislav Bykov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-May-2008,Bulgaria F4,3,Clay,R32,897,471,1,,2,Miljan Zekic,Matteo Volante,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Bulgaria F3,3,Clay,SF,893,727,0,,,Xavier Pujo,Miljan Zekic,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Bulgaria F3,3,Clay,QF,893,424,1,,3,Miljan Zekic,Ivaylo Traykov,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Bulgaria F3,3,Clay,R16,893,651,1,,7,Miljan Zekic,Maxime Authom,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-May-2008,Bulgaria F3,3,Clay,R32,893,1225,1,,Q,Miljan Zekic,Dmytro Kamynin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bulgaria F2,3,Clay,R16,864,1070,0,,Q,Pirmin Haenle,Miljan Zekic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-May-2008,Bulgaria F2,3,Clay,R32,864,663,1,,7,Miljan Zekic,Mikhail Vasiliev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-May-2008,Bulgaria F1,3,Clay,R32,887,1570,0,,LL,Alexander Lazov,Miljan Zekic,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Turkey F6,3,Clay,R16,889,275,0,,1,Marsel Ilhan,Miljan Zekic,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2008,Turkey F6,3,Clay,R32,889,864,1,,,Miljan Zekic,Peter Lucassen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Apr-2008,Turkey F4,3,Clay,R32,859,394,0,LL,3,Gabriel Moraru,Miljan Zekic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2008,Croatia F5,3,Clay,R32,868,779,0,Q,Q,Janez Semrajc,Miljan Zekic,6-7(5) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2008,Italy F4,3,Clay,R32,872,450,0,,8,Pavol Cervenak,Miljan Zekic,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Oct-2007,Bosnia & Herzegovina F6,3,Clay,R32,859,472,0,Q,,Blaz Kavcic,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Bulgaria F7,3,Clay,R16,,,0,,7,Charly Villeneuve,Miljan Zekic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2007,Bulgaria F7,3,Clay,R32,,,1,,WC,Miljan Zekic,Serafim Grozev,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Serbia F5,3,Clay,SF,913,695,0,,6,Goran Tosic,Miljan Zekic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Serbia F5,3,Clay,QF,913,568,1,,4,Miljan Zekic,Vladimir Obradovic,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Serbia F5,3,Clay,R16,913,,1,,Q,Miljan Zekic,Marko Strilic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Aug-2007,Serbia F5,3,Clay,R32,913,1002,1,,,Miljan Zekic,Adolfo Gomez Pinter,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2007,Serbia F4,3,Clay,R32,942,568,0,,3,David Savic,Miljan Zekic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Serbia F3,3,Clay,R16,940,637,0,,4,Vladimir Obradovic,Miljan Zekic,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2007,Serbia F3,3,Clay,R32,940,1090,1,,,Miljan Zekic,Kresimir Ritz,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Jul-2007,Romania F14,3,Clay,R32,936,1034,0,8,,Marc Meigel,Miljan Zekic,7-6(5) 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Serbia F2,3,Clay,QF,1042,582,0,Q,3,Darko Madjarovski,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Serbia F2,3,Clay,R16,1042,790,1,Q,,Miljan Zekic,Ludovic Walter,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Jun-2007,Serbia F2,3,Clay,R32,1042,601,1,Q,6,Miljan Zekic,Marek Semjan,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Serbia F1,3,Clay,QF,1040,866,0,WC,,Luka Belic,Miljan Zekic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Serbia F1,3,Clay,R16,1040,434,1,WC,2,Miljan Zekic,Michal Navratil,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,Serbia F1,3,Clay,R32,1040,,1,WC,WC,Miljan Zekic,Petar Djukic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Macedonia F2,3,Clay,R32,1037,629,0,Q,5,David Savic,Miljan Zekic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2007,Macedonia F1,3,Clay,R32,1039,,0,,4,Ilia Kushev,Miljan Zekic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-May-2007,Bulgaria F4,3,Clay,R32,1039,658,0,,6,Maxime Authom,Miljan Zekic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2007,Bulgaria F3,3,Clay,R32,959,722,0,,,Marin Bradaric,Miljan Zekic,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,R16,981,905,0,,,Leonardo Tavares,Miljan Zekic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-2007,Bulgaria F2,3,Clay,R32,981,,1,,WC,Miljan Zekic,Valentin Dimov,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Bulgaria F1,3,Clay,R16,982,745,0,,8,Matteo Volante,Miljan Zekic,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-May-2007,Bulgaria F1,3,Clay,R32,982,837,1,,,Miljan Zekic,Alexander Slabinsky,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Turkey F3,3,Clay,R16,1022,311,0,Q,1,Jose Checa Calvo,Miljan Zekic,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2007,Turkey F3,3,Clay,R32,1022,1503,1,Q,LL,Miljan Zekic,Dariusz Kuligowski,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2006,Bulgaria F3,3,Clay,QF,1186,,0,Q,SE,Catalin Ionut Gard,Miljan Zekic,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2006,Bulgaria F3,3,Clay,R16,1186,1133,1,Q,,Miljan Zekic,Thomas Cazes Carrere,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2006,Bulgaria F3,3,Clay,R32,1186,,1,Q,8,Miljan Zekic,Yordan Kanev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Bulgaria F2,3,Clay,R16,1186,528,0,Q,5,Andreas Haider Maurer,Miljan Zekic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Bulgaria F2,3,Clay,R32,1186,,1,Q,Q,Miljan Zekic,Dimitar Grabuloski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2006,Serbia & Montenegro F5,3,Clay,R32,1187,873,0,,,Haithem Abid,Miljan Zekic,0-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2006,Serbia & Montenegro F4,3,Clay,R32,1179,1099,0,WC,Q,Vladimir Obradovic,Miljan Zekic,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Serbia & Montenegro F2,3,Clay,R16,1265,1528,0,WC,Q,Alexander Stamchev,Miljan Zekic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Serbia & Montenegro F2,3,Clay,R32,1265,651,1,WC,6,Miljan Zekic,Frederic Nussbaum,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,Serbia & Montenegro F1,3,Clay,R32,1251,,0,WC,WC,Filip Zivojinovic,Miljan Zekic,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 2,3,Clay,QF,,911,0,,1,David Klier,Miljan Zekic,6-7(4) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 2,3,Clay,R16,,1060,1,,6,Miljan Zekic,Yordan Kanev,6-7(2) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 3,3,Clay,R16,,1356,0,Q,Q,Jonathan Dasnieres De Veigy,Miljan Zekic,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 1,3,Clay,R32,,1052,0,Q,WC,Dimitar Kutrovsky,Miljan Zekic,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 2,3,Clay,R32,,1011,1,,,Miljan Zekic,Myles Blake,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Bulgaria 1 3,3,Clay,R32,,447,1,Q,1,Miljan Zekic,Massimo Ocera,6-4 7-5,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,461 @@
+Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Nov-2022,Montevideo CH,3,Clay,SF,154,253,0,8,Alt,Genaro Alberto Olivieri,Franco Agamenone,2-6 6-4 6-4,1.07,1.1%,3.2%,68.8%,59.4%,37.9%,6/13,51.7%,50.6%,0.0%,45.8%,62.5%,7/9,176,1,3,93,64,29,0,2:38
+7-Nov-2022,Montevideo CH,3,Clay,QF,154,103,1,8,4,Franco Agamenone,Facundo Bagnis,3-6 6-1 6-2,1.46,1.6%,9.5%,61.9%,74.4%,58.3%,3/5,55.9%,46.3%,4.9%,40.0%,54.1%,5/12,145,1,6,63,39,24,4,2:03
+7-Nov-2022,Montevideo CH,3,Clay,R16,154,377,1,8,Q,Franco Agamenone,Moez Echargui,7-5 6-3,1.28,1.1%,2.2%,67.4%,58.3%,48.3%,4/8,55.9%,57.4%,0.0%,51.4%,68.4%,6/8,143,1,2,89,60,29,0,2:07
+7-Nov-2022,Montevideo CH,3,Clay,R32,154,230,1,8,,Franco Agamenone,Andrea Collarini,6-4 7-5,1.23,1.5%,0.0%,69.7%,65.2%,55.0%,2/5,54.8%,46.6%,1.7%,36.1%,63.6%,5/6,124,1,0,66,46,20,1,1:41
+31-Oct-2022,Guayaquil CH,3,Clay,R16,154,249,0,6,,Jesper De Jong,Franco Agamenone,6-2 4-6 6-4,0.90,1.2%,8.2%,64.7%,63.6%,36.7%,3/9,47.3%,41.2%,2.1%,41.2%,41.4%,4/9,182,1,7,85,55,30,2,2:28
+31-Oct-2022,Guayaquil CH,3,Clay,R32,154,769,1,6,,Franco Agamenone,Cayetano March,7-5 6-1,1.53,0.0%,5.6%,64.8%,74.3%,47.4%,1/3,59.3%,53.7%,3.7%,59.3%,48.1%,6/11,108,0,3,54,35,19,2,1:32
+24-Oct-2022,Lima CH,3,Clay,R16,159,106,0,,4,Daniel Altmaier,Franco Agamenone,7-5 3-6 6-3,0.92,0.0%,4.1%,75.3%,54.8%,41.7%,7/14,48.3%,44.6%,4.8%,38.9%,55.2%,6/11,180,0,4,97,73,24,4,2:28
+24-Oct-2022,Lima CH,3,Clay,R32,159,220,1,,,Franco Agamenone,Andrea Collarini,6-4 6-2,1.37,1.9%,3.8%,71.7%,76.3%,33.3%,1/3,56.5%,49.1%,1.8%,38.5%,75.0%,5/11,108,1,2,53,38,15,1,1:26
+17-Oct-2022,Coquimbo CH,3,Clay,SF,162,156,0,8,7,Juan Manuel Cerundolo,Franco Agamenone,6-2 6-2,0.71,0.0%,2.9%,65.7%,56.5%,41.7%,1/5,40.9%,34.5%,0.0%,30.0%,44.4%,0/5,93,0,1,35,23,12,0,1:08
+17-Oct-2022,Coquimbo CH,3,Clay,QF,162,229,1,8,,Franco Agamenone,Andrea Collarini,4-6 7-5 6-1,1.22,1.1%,6.7%,59.6%,64.2%,52.8%,8/12,54.3%,49.5%,0.0%,46.3%,56.7%,7/13,186,1,6,89,53,36,0,2:48
+17-Oct-2022,Coquimbo CH,3,Clay,R16,162,501,1,8,Q,Franco Agamenone,Jakub Paul,6-4 6-3,1.26,3.0%,6.0%,61.2%,70.7%,38.5%,3/6,55.7%,52.7%,0.0%,43.8%,65.2%,5/7,122,2,4,67,41,26,0,1:30
+17-Oct-2022,Coquimbo CH,3,Clay,R32,162,609,1,8,Q,Franco Agamenone,Fermin Tenti,7-5 6-0,1.25,3.4%,6.8%,59.3%,62.9%,41.7%,5/8,56.0%,57.3%,0.0%,50.0%,80.0%,7/16,141,2,4,59,35,24,0,1:41
+3-Oct-2022,Parma CH,3,Clay,R32,151,497,0,,WC,Federico Arnaboldi,Franco Agamenone,4-6 6-3 6-4,1.06,6.4%,6.4%,69.2%,70.4%,45.8%,1/5,49.5%,39.4%,1.9%,35.7%,43.8%,3/10,182,5,5,78,54,24,2,2:28
+26-Sep-2022,Lisbon CH,3,Clay,R16,145,171,0,6,,Giulio Zeppieri,Franco Agamenone,4-6 6-0 6-1,0.70,1.4%,2.8%,75.0%,51.9%,33.3%,5/11,41.7%,36.7%,2.5%,32.0%,44.8%,2/5,151,1,2,72,54,18,2,1:56
+26-Sep-2022,Lisbon CH,3,Clay,R32,145,201,1,6,SE,Franco Agamenone,Nicolas Moreno De Alboran,6-4 7-5,1.31,0.0%,5.8%,69.6%,72.9%,57.1%,1/2,54.6%,41.7%,1.4%,44.4%,33.3%,3/10,141,0,4,69,48,21,1,1:53
+19-Sep-2022,Braga CH,3,Clay,R32,148,196,0,3,,Jelle Sels,Franco Agamenone,6-3 7-6(7),0.84,1.2%,4.9%,59.8%,63.3%,36.4%,2/6,46.3%,39.7%,1.3%,34.8%,46.9%,2/10,160,1,4,82,49,33,1,2:08
+5-Sep-2022,Seville CH,3,Clay,R32,125,185,0,5,,Fabian Marozsan,Franco Agamenone,6-3 6-3,0.47,4.5%,4.5%,68.2%,62.2%,33.3%,5/8,39.7%,22.0%,2.0%,22.6%,21.1%,0/0,116,3,3,66,45,21,1,1:14
+29-Aug-2022,US Open,5,Hard,Q3,125,186,0,10,,Alexander Ritschard,Franco Agamenone,6-2 2-6 6-4,0.77,7.4%,5.6%,63.9%,68.1%,38.5%,9/12,47.3%,32.9%,5.3%,21.7%,50.0%,2/3,184,8,6,108,69,39,4,2:29
+29-Aug-2022,US Open,5,Hard,Q2,125,607,1,10,,Franco Agamenone,Roberto Marcora,7-6(3) 2-6 6-1,1.12,12.3%,8.5%,66.0%,68.6%,36.1%,11/16,52.7%,47.5%,6.9%,30.5%,71.4%,5/15,207,13,9,106,70,36,7,2:24
+29-Aug-2022,US Open,5,Hard,Q1,125,216,1,10,,Franco Agamenone,Francisco Comesana,4-6 6-3 6-1,0.80,0.0%,4.6%,59.8%,57.7%,40.0%,5/11,44.9%,39.3%,7.9%,24.5%,61.1%,3/7,176,0,4,87,52,35,7,2:11
+8-Aug-2022,Meerbusch CH,3,Clay,R32,109,193,0,2,,Riccardo Bonadio,Franco Agamenone,6-1 1-6 6-3,0.79,1.3%,5.3%,66.7%,64.0%,48.0%,3/6,46.5%,32.8%,3.0%,21.7%,57.1%,2/4,142,1,4,75,50,25,2,1:44
+25-Jul-2022,Umag,3,Clay,SF,136,10,0,Q,2,Jannik Sinner,Franco Agamenone,6-1 6-3,0.58,0.0%,6.6%,60.7%,59.5%,29.2%,4/9,40.4%,30.2%,0.0%,22.2%,43.8%,1/3,104,0,4,61,37,24,0,1:26
+25-Jul-2022,Umag,3,Clay,QF,136,151,1,Q,Q,Franco Agamenone,Marco Cecchinato,6-2 6-1,2.42,2.5%,2.5%,72.5%,79.3%,72.7%,2/2,64.2%,54.5%,0.0%,46.7%,64.0%,5/13,95,1,1,40,29,11,0,1:17
+25-Jul-2022,Umag,3,Clay,R16,136,32,1,Q,4,Franco Agamenone,Sebastian Baez,3-6 6-1 7-5,1.02,1.1%,4.3%,64.9%,63.9%,54.5%,8/11,50.8%,40.2%,0.0%,35.4%,54.5%,5/9,181,1,4,94,61,33,0,2:25
+25-Jul-2022,Umag,3,Clay,R32,136,77,1,Q,,Franco Agamenone,Laslo Djere,7-6(8) 2-6 7-5,1.05,1.8%,1.8%,66.1%,62.2%,50.0%,10/16,51.1%,43.9%,4.7%,33.3%,61.0%,5/10,219,2,2,112,74,38,5,2:57
+25-Jul-2022,Umag,3,Clay,Q2,136,117,1,6,2,Franco Agamenone,Norbert Gombos,6-4 1-6 7-5,0.96,6.5%,2.2%,66.7%,61.3%,61.3%,9/12,48.9%,37.1%,1.0%,22.2%,55.8%,3/8,190,6,2,93,62,31,1,2:41
+25-Jul-2022,Umag,3,Clay,Q1,136,193,1,6,,Franco Agamenone,Filip Horansky,7-5 6-4,1.13,1.3%,3.8%,62.0%,63.3%,46.7%,7/10,52.9%,48.7%,0.0%,38.9%,72.7%,5/13,155,1,3,79,49,30,0,2:00
+18-Jul-2022,Trieste CH,3,Clay,QF,145,161,0,2,8,Alexandre Muller,Franco Agamenone,6-0 6-7(4) 6-2,0.74,0.0%,6.3%,68.4%,47.7%,40.0%,9/18,43.1%,40.7%,3.5%,31.4%,54.3%,4/10,181,0,6,95,65,30,3,2:28
+18-Jul-2022,Trieste CH,3,Clay,R16,145,208,1,2,,Franco Agamenone,Renzo Olivo,1-6 7-5 6-1,0.94,1.9%,5.7%,59.0%,62.9%,53.5%,8/10,50.3%,38.5%,1.3%,27.8%,62.5%,3/7,183,2,6,105,62,43,1,2:26
+18-Jul-2022,Trieste CH,3,Clay,R32,145,198,1,2,,Franco Agamenone,Andrea Arnaboldi,6-4 2-3 RET,1.16,5.9%,3.9%,78.4%,72.5%,36.4%,6/7,53.0%,40.8%,2.0%,28.6%,57.1%,2/5,100,3,2,51,40,11,1,1:26
+11-Jul-2022,Verona CH,3,Clay,R16,144,199,0,4,,Filip Horansky,Franco Agamenone,3-6 6-3 6-4,0.83,2.5%,1.3%,64.6%,64.7%,57.1%,2/5,46.8%,31.6%,0.0%,27.9%,36.1%,2/3,158,2,1,79,51,28,0,2:12
+11-Jul-2022,Verona CH,3,Clay,R32,144,229,1,4,,Franco Agamenone,Salvatore Caruso,6-3 6-4,1.24,0.0%,8.5%,71.2%,71.4%,41.2%,1/3,54.9%,46.3%,0.0%,40.7%,51.9%,4/4,113,0,5,59,42,17,0,1:40
+4-Jul-2022,Braunschweig CH,3,Clay,R16,143,155,0,,,Jan Lennard Struff,Franco Agamenone,6-3 6-1,0.64,1.8%,10.9%,56.4%,54.8%,37.5%,1/6,41.0%,34.0%,10.0%,10.7%,63.6%,1/5,105,1,6,55,31,24,5,1:11
+4-Jul-2022,Braunschweig CH,3,Clay,R32,143,527,1,,WC,Franco Agamenone,Rudolf Molleker,6-3 6-3,1.39,6.3%,4.8%,65.1%,78.0%,50.0%,5/6,56.6%,44.1%,1.7%,39.5%,52.4%,4/7,122,4,3,63,41,22,1,1:27
+27-Jun-2022,Wimbledon,5,Grass,Q1,143,214,0,22,,Cedrik Marcel Stebe,Franco Agamenone,7-6(2) 6-4,1.00,0.8%,3.3%,60.0%,65.3%,47.9%,13/15,52.1%,41.7%,4.2%,36.2%,52.0%,3/10,192,1,4,120,72,48,3,2:13
+13-Jun-2022,Parma CH,3,Clay,R32,145,255,0,,WC,Borna Coric,Franco Agamenone,6-3 6-3,0.58,1.8%,5.3%,59.6%,70.6%,43.5%,4/7,43.3%,23.4%,8.5%,22.6%,25.0%,0/0,104,1,3,57,34,23,4,1:19
+6-Jun-2022,Perugia CH,3,Clay,R32,148,94,0,,4,Roberto Carballes Baena,Franco Agamenone,6-4 3-6 6-4,0.74,3.5%,5.8%,70.9%,57.4%,52.0%,2/7,45.5%,32.9%,1.4%,23.8%,46.4%,4/5,156,3,5,86,61,25,1,2:25
+30-May-2022,Forli 6 CH,3,Clay,R32,156,88,0,,3,Tomas Martin Etcheverry,Franco Agamenone,5-7 6-3 6-0,0.85,2.2%,5.6%,61.8%,60.0%,35.3%,7/14,46.2%,41.9%,1.1%,39.1%,48.3%,4/10,182,2,5,89,55,34,1,2:49
+23-May-2022,Roland Garros,5,Clay,R128,156,60,0,LL,,Mackenzie Mcdonald,Franco Agamenone,1-6 6-2 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q3,156,134,0,,23,Zdenek Kolar,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,156,218,1,,,Franco Agamenone,Alexandre Muller,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,156,107,1,,2,Franco Agamenone,Daniel Elahi Galan,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,Mauthausen CH,3,Clay,R32,151,134,0,,7,Zdenek Kolar,Franco Agamenone,1-6 6-4 6-3,1.09,6.6%,7.9%,69.7%,58.5%,52.2%,2/7,51.5%,47.3%,1.1%,38.6%,61.1%,5/14,169,5,6,76,53,23,1,2:15
+25-Apr-2022,Rome CH,3,Clay,F,176,178,1,,,Franco Agamenone,Gian Marco Moroni,6-1 6-4,1.31,4.5%,6.1%,62.1%,68.3%,48.0%,5/6,56.3%,51.6%,0.0%,40.0%,82.4%,5/11,128,3,4,66,41,25,0,1:42
+25-Apr-2022,Rome CH,3,Clay,SF,176,146,1,,3,Franco Agamenone,Flavio Cobolli,6-3 6-4,1.38,0.0%,3.4%,70.7%,65.9%,58.8%,2/4,56.1%,50.0%,2.7%,44.4%,55.3%,5/10,132,0,2,58,41,17,2,1:45
+25-Apr-2022,Rome CH,3,Clay,QF,176,229,1,,WC,Franco Agamenone,Giulio Zeppieri,7-5 6-4,1.10,4.0%,8.0%,61.3%,71.7%,37.9%,2/5,52.5%,45.5%,4.5%,46.3%,44.0%,5/8,141,3,6,75,46,29,3,1:43
+25-Apr-2022,Rome CH,3,Clay,R16,176,864,1,,Q,Franco Agamenone,Jonathan Eysseric,6-4 2-6 7-5,0.96,1.0%,6.3%,55.2%,58.5%,60.5%,5/9,49.5%,38.9%,1.1%,25.0%,52.2%,4/6,186,1,6,96,53,43,1,2:30
+25-Apr-2022,Rome CH,3,Clay,R32,176,151,1,,6,Franco Agamenone,Manuel Guinard,6-3 6-2,1.45,3.3%,14.8%,59.0%,75.0%,40.0%,5/7,59.0%,57.1%,0.0%,54.8%,60.0%,5/17,117,2,9,61,36,25,0,1:26
+11-Apr-2022,Barletta CH,3,Clay,R32,172,354,0,5,WC,Francesco Passaro,Franco Agamenone,6-4 6-3,0.67,0.0%,1.6%,57.4%,65.7%,30.8%,2/6,42.2%,32.7%,0.0%,23.5%,47.6%,2/4,116,0,1,61,35,26,0,1:22
+28-Mar-2022,Marbella CH,3,Clay,R32,169,65,0,,2,Alex Molcan,Franco Agamenone,6-3 7-6(3),0.80,5.7%,1.4%,70.0%,65.3%,33.3%,6/9,44.7%,35.4%,4.9%,34.7%,36.4%,2/7,152,4,1,70,49,21,4,1:37
+21-Mar-2022,Zadar CH,3,Clay,R32,169,515,0,5,Q,Carlos Sanchez Jover,Franco Agamenone,6-4 0-6 6-1,0.99,3.4%,4.5%,70.8%,55.6%,34.6%,3/9,49.7%,50.0%,0.0%,54.7%,42.4%,6/8,175,3,4,89,63,26,0,2:02
+14-Mar-2022,Roseto Degli Abruzzi 2 CH,3,Clay,R16,169,159,0,,8,Chun Hsin Tseng,Franco Agamenone,6-4 6-4,0.89,1.4%,1.4%,70.4%,62.0%,33.3%,6/11,47.5%,41.4%,0.0%,34.7%,57.1%,3/4,141,1,1,71,50,21,0,1:31
+14-Mar-2022,Roseto Degli Abruzzi 2 CH,3,Clay,R32,169,207,1,,,Franco Agamenone,Lorenzo Giustino,5-7 7-5 6-4,1.09,3.3%,3.3%,60.0%,62.5%,54.2%,6/10,51.4%,44.4%,3.0%,31.6%,61.0%,5/20,255,4,4,120,72,48,4,3:24
+28-Feb-2022,Turin CH,3,Hard,R16,174,256,0,4,,Michael Mmoh,Franco Agamenone,6-2 6-4,0.84,1.4%,1.4%,71.4%,44.0%,55.0%,6/12,46.0%,44.6%,7.1%,23.3%,69.2%,3/5,126,1,1,70,50,20,4,1:25
+28-Feb-2022,Turin CH,3,Hard,R32,174,262,1,4,,Franco Agamenone,Hiroki Moriya,6-4 6-4,1.11,10.1%,8.9%,62.0%,73.5%,46.7%,5/6,53.1%,40.9%,1.5%,39.5%,42.9%,3/7,145,8,7,79,49,30,1,1:32
+21-Feb-2022,Forli 5 CH,3,Hard,R32,174,200,0,8,SE,Tim Van Rijthoven,Franco Agamenone,6-4 6-4,0.79,0.0%,4.5%,77.3%,58.8%,40.0%,6/10,45.9%,35.7%,12.5%,22.2%,60.0%,2/4,122,0,3,66,51,15,7,1:15
+24-Jan-2022,Quimper CH,3,Hard,R32,189,140,0,,6,Joao Sousa,Franco Agamenone,6-3 6-3,0.71,5.4%,7.1%,69.6%,59.0%,47.1%,3/7,43.6%,31.5%,7.4%,29.7%,35.3%,1/4,110,3,4,56,39,17,4,1:13
+17-Jan-2022,Forli 3 CH,3,Hard,QF,189,247,0,,,Cedrik Marcel Stebe,Franco Agamenone,7-5 7-5,0.81,1.3%,5.1%,60.8%,58.3%,38.7%,8/13,45.3%,40.0%,0.0%,34.0%,48.5%,3/5,159,1,4,79,48,31,0,1:51
+17-Jan-2022,Forli 3 CH,3,Hard,R16,189,263,1,,Q,Franco Agamenone,Kaichi Uchida,6-2 6-4,2.05,11.6%,0.0%,69.8%,76.7%,76.9%,0/1,59.4%,47.6%,6.3%,46.3%,50.0%,4/11,106,5,0,43,30,13,4,1:02
+17-Jan-2022,Forli 3 CH,3,Hard,R32,189,275,1,,Q,Franco Agamenone,Marius Copil,6-2 3-6 6-3,1.19,2.3%,8.1%,66.3%,77.2%,41.4%,8/10,52.4%,41.4%,3.0%,26.3%,61.9%,4/13,185,2,7,86,57,29,3,2:01
+17-Jan-2022,Australian Open,5,Hard,Q1,189,195,0,,,Vit Kopriva,Franco Agamenone,4-6 7-6(3) 6-3,0.89,1.8%,4.5%,71.8%,60.8%,48.4%,12/17,48.5%,38.0%,3.3%,32.7%,45.0%,5/8,202,2,5,110,79,31,3,2:24
+3-Jan-2022,Bendigo CH,3,Hard,SF,201,179,0,,10,Enzo Couacaud,Franco Agamenone,6-1 6-7(6) 6-4,0.78,0.9%,1.8%,66.7%,71.6%,35.1%,1/5,46.4%,31.6%,8.2%,22.0%,41.7%,1/3,209,1,2,111,74,37,8,2:18
+3-Jan-2022,Bendigo CH,3,Hard,QF,201,180,1,,11,Franco Agamenone,Dmitry Popko,6-4 6-2,1.49,3.6%,0.0%,76.8%,76.7%,53.8%,4/4,56.4%,42.6%,3.3%,28.1%,58.6%,3/7,117,2,0,56,43,13,2,1:22
+3-Jan-2022,Bendigo CH,3,Hard,R16,201,234,1,,,Franco Agamenone,Matthias Bachinger,6-4 6-4,1.69,6.4%,2.1%,63.8%,73.3%,82.4%,0/1,57.0%,39.6%,5.7%,27.6%,54.2%,3/5,100,3,1,47,30,17,3,1:06
+3-Jan-2022,Bendigo CH,3,Hard,R32,201,189,1,,15,Franco Agamenone,Renzo Olivo,6-4 6-2,1.50,3.2%,7.9%,66.7%,78.6%,42.9%,4/5,58.4%,50.0%,3.2%,47.6%,55.0%,4/5,125,2,5,63,42,21,2,1:31
+3-Jan-2022,Bendigo CH,3,Hard,R64,201,,1,,,Franco Agamenone,Cooper Errey,6-2 7-6(5),1.35,11.3%,5.6%,70.4%,66.0%,57.1%,6/8,56.2%,49.3%,2.7%,38.9%,76.2%,4/10,146,8,4,71,50,21,2,1:41
+18-Oct-2021,Losinj CH,3,Clay,R16,210,204,0,,6,Alessandro Giannessi,Franco Agamenone,7-6(7) 3-6 6-1,0.91,1.1%,1.1%,71.3%,56.7%,40.7%,2/8,47.6%,43.8%,0.0%,44.3%,42.4%,5/16,206,1,1,94,67,27,0,2:31
+18-Oct-2021,Losinj CH,3,Clay,R32,210,253,1,,,Franco Agamenone,Duje Ajdukovic,7-6(2) 6-0,1.56,0.0%,3.4%,87.9%,64.7%,42.9%,0/3,60.5%,59.0%,0.0%,58.3%,60.0%,6/9,119,0,2,58,51,7,0,1:19
+11-Oct-2021,Ercolano CH,3,Clay,SF,226,302,0,,Q,Alexander Ritschard,Franco Agamenone,6-3 6-3,0.82,0.0%,9.4%,65.6%,45.2%,36.4%,4/11,44.7%,47.5%,6.8%,36.8%,66.7%,4/7,123,0,6,64,42,22,4,1:25
+11-Oct-2021,Ercolano CH,3,Clay,QF,226,122,1,,7,Franco Agamenone,Bernabe Zapata Miralles,6-3 6-0,2.22,7.3%,2.4%,65.9%,77.8%,64.3%,1/2,65.9%,59.6%,2.1%,60.6%,57.1%,5/6,88,3,1,41,27,14,1,0:59
+11-Oct-2021,Ercolano CH,3,Clay,R16,226,201,1,,,Franco Agamenone,Mathias Bourgue,5-7 7-6(3) 6-1,1.12,0.0%,4.0%,78.0%,60.3%,50.0%,9/15,52.5%,46.9%,2.0%,37.0%,76.0%,7/12,198,0,4,100,78,22,2,2:26
+11-Oct-2021,Ercolano CH,3,Clay,R32,226,111,1,,3,Franco Agamenone,Hugo Gaston,6-4 2-6 6-3,1.02,0.0%,2.4%,71.1%,61.0%,50.0%,2/7,50.3%,42.9%,0.0%,31.0%,54.8%,5/12,167,0,2,83,59,24,0,
+4-Oct-2021,Napoli CH,3,Clay,R32,226,314,0,,,Andrea Vavassori,Franco Agamenone,2-6 6-1 6-2,0.87,1.4%,8.7%,60.9%,57.1%,44.4%,4/9,46.4%,41.7%,3.6%,38.8%,45.7%,3/10,153,1,6,69,42,27,3,
+27-Sep-2021,Sibiu CH,3,Clay,QF,234,172,0,,6,Marc Andrea Huesler,Franco Agamenone,7-6(5) 6-4,0.87,1.3%,6.6%,59.2%,68.9%,48.4%,5/7,47.1%,34.2%,7.6%,24.4%,47.1%,1/3,155,1,5,76,45,31,6,1:48
+27-Sep-2021,Sibiu CH,3,Clay,R16,234,253,1,,,Franco Agamenone,Vitaliy Sachko,7-6(4) 7-5,1.06,1.1%,6.4%,59.6%,60.7%,57.9%,5/9,51.7%,42.9%,3.6%,40.4%,46.9%,5/9,178,1,6,94,56,38,3,2:13
+27-Sep-2021,Sibiu CH,3,Clay,R32,234,1279,1,,WC,Franco Agamenone,Vlad Victor Cornea,6-1 7-6(3),1.32,1.5%,4.5%,62.1%,78.0%,44.0%,4/5,55.9%,45.9%,3.3%,41.7%,48.6%,4/5,127,1,3,66,41,25,2,1:37
+6-Sep-2021,Kyiv CH,3,Clay,F,291,155,1,,1,Franco Agamenone,Sebastian Baez,7-5 6-2,1.48,3.7%,1.9%,61.1%,72.7%,57.1%,2/4,57.0%,49.3%,1.5%,50.0%,47.1%,5/10,121,2,1,54,33,21,1,1:23
+6-Sep-2021,Kyiv CH,3,Clay,SF,291,299,1,,,Franco Agamenone,Timofey Skatov,7-6(4) 6-3,1.41,4.5%,3.0%,65.2%,72.1%,43.5%,1/4,57.3%,53.2%,1.3%,49.1%,62.5%,5/8,143,3,2,66,43,23,1,1:53
+6-Sep-2021,Kyiv CH,3,Clay,QF,291,406,1,,WC,Franco Agamenone,Oleksii Krutykh,6-2 6-3,1.85,2.3%,2.3%,60.5%,76.9%,64.7%,1/2,60.0%,51.6%,0.0%,50.0%,54.2%,5/10,105,1,1,43,26,17,0,1:24
+6-Sep-2021,Kyiv CH,3,Clay,R16,291,260,1,,8,Franco Agamenone,Tristan Lamasine,3-6 6-2 6-4,1.18,0.0%,1.0%,66.7%,71.9%,34.4%,5/8,53.6%,47.9%,1.0%,46.3%,50.0%,5/14,192,0,1,96,64,32,1,2:29
+6-Sep-2021,Kyiv CH,3,Clay,R32,291,312,1,,,Franco Agamenone,Stefan Kozlov,6-4 7-5,1.14,0.0%,3.2%,61.3%,57.9%,41.7%,0/5,53.6%,55.3%,2.6%,50.0%,61.1%,7/13,138,0,2,62,38,24,2,1:58
+29-Aug-2021,Como CH,3,Clay,R16,291,118,0,LL,2,Jozef Kovalik,Franco Agamenone,6-2 7-6(1),0.74,0.0%,2.7%,67.1%,53.1%,37.5%,2/6,43.4%,38.6%,0.0%,30.6%,47.1%,2/4,143,0,2,73,49,24,0,1:53
+29-Aug-2021,Como CH,3,Clay,R32,291,283,1,LL,,Franco Agamenone,Nuno Borges,6-3 6-1,1.74,4.3%,2.2%,73.9%,76.5%,50.0%,4/5,61.1%,53.1%,2.0%,51.4%,57.1%,5/10,95,2,1,46,34,12,1,1:08
+29-Aug-2021,Como CH,3,Clay,Q2,291,358,0,8,Alt,Andrea Vavassori,Franco Agamenone,6-1 6-4,0.74,0.0%,13.6%,70.5%,54.8%,38.5%,0/4,42.5%,37.1%,6.5%,28.2%,52.2%,1/11,106,0,6,44,31,13,4,1:12
+29-Aug-2021,Como CH,3,Clay,Q1,291,1084,1,8,WC,Franco Agamenone,Gabriele Piraino,6-2 6-2,1.52,1.8%,0.0%,61.8%,70.6%,47.6%,3/4,59.8%,57.9%,0.0%,48.5%,70.8%,5/11,112,1,0,55,34,21,0,1:26
+23-Aug-2021,Prague 3 CH,3,Clay,F,330,351,1,,,Franco Agamenone,Ryan Peniston,6-3 6-1,1.52,1.6%,1.6%,68.9%,69.0%,47.4%,4/5,60.2%,57.4%,2.1%,52.8%,72.7%,5/8,108,1,1,61,42,19,1,1:28
+23-Aug-2021,Prague 3 CH,3,Clay,SF,330,338,1,,,Franco Agamenone,Igor Sijsling,6-3 6-0,1.82,6.1%,0.0%,69.4%,73.5%,60.0%,2/3,62.4%,55.8%,0.0%,44.4%,68.0%,5/12,101,3,0,49,34,15,0,1:00
+23-Aug-2021,Prague 3 CH,3,Clay,QF,330,320,1,,6,Franco Agamenone,Michael Geerts,5-7 7-5 6-3,1.08,1.8%,3.6%,73.2%,65.9%,40.0%,13/18,51.8%,44.3%,2.8%,33.9%,59.1%,7/12,218,2,4,112,82,30,3,2:55
+23-Aug-2021,Prague 3 CH,3,Clay,R16,330,311,1,,4,Franco Agamenone,Geoffrey Blancaneaux,7-5 6-4,1.19,0.0%,0.0%,70.0%,59.2%,57.1%,1/4,53.7%,49.4%,0.0%,54.0%,40.7%,5/12,147,0,0,70,49,21,0,1:58
+23-Aug-2021,Prague 3 CH,3,Clay,R32,330,372,1,,,Franco Agamenone,Nikolas Sanchez Izquierdo,6-3 6-3,1.35,0.0%,1.9%,77.4%,68.3%,41.7%,2/4,56.1%,50.8%,0.0%,40.0%,71.4%,5/8,114,0,1,53,41,12,0,1:31
+16-Aug-2021,Verona CH,3,Clay,Q2,328,346,0,5,,Francesco Forti,Franco Agamenone,6-3 6-4,0.77,3.4%,0.0%,70.7%,65.9%,35.3%,1/4,44.1%,33.3%,2.9%,25.6%,46.2%,1/11,127,2,0,58,41,17,2,1:32
+16-Aug-2021,Verona CH,3,Clay,Q1,328,358,1,5,,Franco Agamenone,Stefano Napolitano,6-3 2-6 6-4,0.98,3.2%,6.5%,59.1%,60.0%,60.5%,6/10,50.6%,39.0%,3.9%,23.3%,58.8%,4/7,170,3,6,93,55,38,3,
+9-Aug-2021,Prague 2 CH,3,Clay,R32,333,302,0,Q,,Camilo Ugo Carabelli,Franco Agamenone,1-6 6-4 6-4,1.06,1.2%,2.4%,68.3%,64.3%,53.8%,5/9,51.2%,41.5%,1.2%,42.0%,40.6%,5/7,164,1,2,82,56,26,1,1:59
+9-Aug-2021,Prague 2 CH,3,Clay,Q2,333,378,1,3,7,Franco Agamenone,Uladzimir Ignatik,6-4 6-1,1.38,5.4%,1.8%,71.4%,75.0%,37.5%,4/5,55.7%,49.3%,0.0%,34.3%,62.5%,5/10,131,3,1,56,40,16,0,1:39
+9-Aug-2021,Prague 2 CH,3,Clay,Q1,333,,1,3,,Franco Agamenone,Krystof Zapsky,6-2 6-3,1.71,0.0%,4.0%,76.0%,81.6%,41.7%,3/4,60.2%,47.9%,0.0%,37.0%,61.9%,4/7,98,0,2,50,38,12,0,1:13
+2-Aug-2021,Liberec  CH,3,Clay,Q1,335,387,0,7,,Denis Yevseyev,Franco Agamenone,6-4 2-6 6-4,1.08,1.1%,3.4%,73.0%,58.5%,58.3%,4/9,51.7%,45.1%,4.4%,41.4%,57.1%,5/9,180,1,3,89,65,24,4,2:08
+12-Jul-2021,Todi CH,3,Clay,R32,345,368,0,LL,WC,Francesco Forti,Franco Agamenone,6-2 6-7(5) 6-3,0.78,1.0%,6.0%,74.0%,60.8%,46.2%,1/5,45.2%,33.3%,3.0%,31.7%,35.9%,1/6,199,1,6,100,74,26,3,2:28
+12-Jul-2021,Todi CH,3,Clay,Q2,345,813,0,1,WC,Matteo Arnaldi,Franco Agamenone,6-4 6-1,0.53,0.0%,6.3%,62.5%,63.3%,33.3%,5/9,38.9%,25.5%,6.4%,13.8%,44.4%,1/1,95,0,3,48,30,18,3,1:09
+12-Jul-2021,Todi CH,3,Clay,Q1,345,826,1,1,,Franco Agamenone,Edoardo Eremin,7-6(2) 6-1,1.27,2.2%,1.1%,80.0%,58.3%,55.6%,9/12,56.2%,53.6%,3.6%,38.1%,62.9%,5/8,146,2,1,90,72,18,2,1:42
+5-Jul-2021,M25 Casinalbo,3,Clay,F,410,879,1,4,,Franco Agamenone,Matteo Arnaldi,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Casinalbo,3,Clay,SF,410,424,1,4,5,Franco Agamenone,Matheus Pucinelli De Almeida,6-2 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Casinalbo,3,Clay,QF,410,515,1,4,,Franco Agamenone,Riccardo Balzerani,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Casinalbo,3,Clay,R16,410,667,1,4,,Franco Agamenone,Omar Giacalone,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jul-2021,M25 Casinalbo,3,Clay,R32,410,629,1,4,,Franco Agamenone,Andrea Basso,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,F,410,373,0,,6,Viktor Durasovic,Franco Agamenone,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,SF,410,383,1,,7,Franco Agamenone,Matteo Martineau,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,QF,410,677,1,,Q,Franco Agamenone,Damien Wenger,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,R16,410,390,1,,,Franco Agamenone,Antoine Escoffier,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2021,M25 Bourg-en-Bresse,3,Clay,R32,410,1463,1,,WC,Franco Agamenone,Mayeul Darras,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Montauban,3,Clay,F,431,620,1,,,Franco Agamenone,Jonathan Eysseric,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Montauban,3,Clay,SF,431,419,1,,WC,Franco Agamenone,Arthur Cazaux,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Montauban,3,Clay,QF,431,439,1,,,Franco Agamenone,Dan Added,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Montauban,3,Clay,R16,431,600,1,,,Franco Agamenone,Arthur Reymond,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2021,M25 Montauban,3,Clay,R32,431,361,1,,1,Franco Agamenone,Christian Lindell,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,SF,432,705,0,,WC,Valentin Royer,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,QF,432,399,1,,6,Franco Agamenone,Miljan Zekic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,R16,432,1152,1,,Q,Franco Agamenone,Mathys Erhard,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Jun-2021,M25 Grasse,3,Clay,R32,432,648,1,,,Franco Agamenone,Alexis Musialek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Most,3,Clay,F,483,744,0,,WC,Dalibor Svrcina,Franco Agamenone,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Most,3,Clay,SF,483,389,1,,,Franco Agamenone,Facundo Diaz Acosta,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Most,3,Clay,QF,483,439,1,,,Franco Agamenone,Gijs Brouwer,6-2 7-6(9),,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Most,3,Clay,R16,483,357,1,,5,Franco Agamenone,Alexander Erler,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-2021,M25 Most,3,Clay,R32,483,,1,,WC,Franco Agamenone,Matyas Cerny,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,QF,485,384,0,,,Jan Satral,Franco Agamenone,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,R16,485,394,1,,,Franco Agamenone,Facundo Diaz Acosta,6-3 6-7(3) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+17-May-2021,M25 Jablonec nad Nisou,3,Clay,R32,485,311,1,,6,Franco Agamenone,Alexander Ritschard,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-May-2021,M25 Prague,3,Clay,R16,484,303,0,Q,8,Lucas Miedler,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,SF,560,1135,1,,Q,Franco Agamenone,Savva Polukhin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R16,560,500,1,,6,Franco Agamenone,Danylo Kalenichenko,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Apr-2021,M15 Monastir,3,Hard,R32,560,,1,,,Franco Agamenone,Pedro Boscardin Dias,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Monastir,3,Hard,F,583,395,1,8,1,Franco Agamenone,Antoine Escoffier,6-7(2) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Monastir,3,Hard,SF,583,922,1,8,PR,Franco Agamenone,Christoph Negritu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Monastir,3,Hard,QF,583,491,1,8,3,Franco Agamenone,Sho Shimabukuro,7-5 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Monastir,3,Hard,R16,583,757,1,8,WC,Franco Agamenone,Aziz Ouakaa,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Apr-2021,M15 Monastir,3,Hard,R32,583,592,1,8,,Franco Agamenone,Christian Langmo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Monastir,3,Hard,F,575,379,0,8,1,Aziz Dougaz,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Monastir,3,Hard,SF,575,845,1,8,Q,Franco Agamenone,Igor Ribeiro Marcondes,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Monastir,3,Hard,QF,575,825,1,8,Q,Franco Agamenone,Alberto Barroso Campos,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Monastir,3,Hard,R16,575,1431,1,8,LL,Franco Agamenone,Vladislav Melnic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2021,M15 Monastir,3,Hard,R32,575,605,1,8,,Franco Agamenone,Daniele Capecchi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,F,611,668,0,,,Naoki Nakagawa,Franco Agamenone,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,SF,611,634,1,,,Franco Agamenone,Luca Giacomini,5-7 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,QF,611,495,1,,4,Franco Agamenone,Renta Tokuda,6-3 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,R16,611,605,1,,8,Franco Agamenone,Daniele Capecchi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Monastir,3,Hard,R32,611,1024,1,,Q,Franco Agamenone,Alexander Kotzen,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Monastir,3,Hard,QF,611,603,0,,7,Carlos Sanchez Jover,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Monastir,3,Hard,R16,611,635,1,,,Franco Agamenone,Naoki Tajima,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Mar-2021,M15 Monastir,3,Hard,R32,611,439,1,,2,Franco Agamenone,Daniel Michalski,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M15 Monastir,3,Hard,R16,609,499,0,,5,Renta Tokuda,Franco Agamenone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2021,M15 Monastir,3,Hard,R32,609,812,1,,,Franco Agamenone,Juan Bautista Torres,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-2021,M15 Monastir,3,Hard,R32,604,742,0,8,LL,Omar Giacalone,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,R16,679,883,0,SE,,Juan Bautista Torres,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2021,M15 Cairo,3,Clay,R32,679,552,1,SE,,Franco Agamenone,Bastian Malla,4-6 3-4 RET,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R16,679,582,1,Q,,Franco Agamenone,Adam El Mihdawy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2021,M15 Cairo,3,Clay,R32,679,426,1,Q,5,Franco Agamenone,Bogdan Bobrov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2020,M25 Jablonec Nad Nisou,3,Clay,R32,730,365,0,SE,8,Jelle Sels,Franco Agamenone,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,F,788,513,0,SE,5,Duje Ajdukovic,Franco Agamenone,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,SF,788,538,1,SE,7,Franco Agamenone,Vitaliy Sachko,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,QF,788,769,1,SE,,Franco Agamenone,Carlos Lopez Montagud,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,R16,788,909,1,SE,,Franco Agamenone,Martin Damm,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2020,M15 Curtea de Arges,3,Clay,R32,788,502,1,SE,3,Franco Agamenone,Mariano Kestelboim,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Bucharest,3,Clay,F,785,523,0,Q,,Timofey Skatov,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Bucharest,3,Clay,SF,785,401,1,Q,5,Franco Agamenone,Filip Cristian Jianu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Bucharest,3,Clay,QF,785,1023,1,Q,Q,Franco Agamenone,Titouan Droguet,6-0 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Bucharest,3,Clay,R16,785,1170,1,Q,LL,Franco Agamenone,Valentin Vanta,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2020,M15 Bucharest,3,Clay,R32,785,291,1,Q,2,Franco Agamenone,Thomaz Bellucci,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Rio Cuarto (Cordoba),3,Clay,SF,1525,411,0,SE,8,Camilo Ugo Carabelli,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Rio Cuarto (Cordoba),3,Clay,QF,1525,500,1,SE,,Franco Agamenone,Mariano Kestelboim,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Rio Cuarto (Cordoba),3,Clay,R16,1525,721,1,SE,,Franco Agamenone,Thiago Agustin Tirante,7-6(11) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Feb-2020,M25 Rio Cuarto (Cordoba),3,Clay,R32,1525,688,1,SE,,Franco Agamenone,Ignacio Monzon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,F,1240,595,0,WC,,Santiago Fa Rodriguez Taverna,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,SF,1240,900,1,WC,Q,Franco Agamenone,Mariano Navone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,QF,1240,331,1,WC,2,Franco Agamenone,Tomas Martin Etcheverry,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R16,1240,387,1,WC,7,Franco Agamenone,Facundo Arguello,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2020,M25 Punta del Este,3,Clay,R32,1240,1521,1,WC,Q,Franco Agamenone,Luciano Doria,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2020,M25 Lima,3,Clay,R32,1126,384,0,Q,6,Genaro Alberto Olivieri,Franco Agamenone,2-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2020,M25 Lima,3,Clay,R32,1128,524,0,Q,,Bastian Malla,Franco Agamenone,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2019,Rome CH,3,Clay,Q1,,,0,Alt,Alt,Nicolo Turchetti,Franco Agamenone,6-3 7-5,0.72,0.0%,1.8%,69.1%,42.1%,47.1%,4/9,41.9%,40.5%,5.4%,37.0%,50.0%,3/8,129,0,1,55,38,17,4,1:26
+29-Apr-2019,M15 Tabarka,3,Clay,QF,,,0,Q,,Franco Emanuel Egea,Franco Agamenone,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Tabarka,3,Clay,R16,,,1,Q,8,Franco Agamenone,Anas Fattar,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2019,M15 Tabarka,3,Clay,R32,,,1,Q,,Franco Agamenone,Floris Podzimek,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,R16,,,0,Q,JR   ,Thiago Agustin Tirante,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2019,M15 Pinamar,3,Clay,R32,,518,1,Q,,Franco Agamenone,Gonzalo Villanueva,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R16,,580,0,,7,Juan Ignacio Galarza,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2019,M15 Pinamar,3,Clay,R32,,,1,,Q,Franco Agamenone,Conner Huertas Del Pino,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,QF,,,0,,,Mateo Nicolas Martinez,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R16,,,1,,,Franco Agamenone,Oscar Gabriel Ortiz,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2019,M15 Pinamar,3,Clay,R32,,580,1,,6,Franco Agamenone,Juan Ignacio Galarza,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2018,Montevideo CH,3,Clay,Q1,1316,552,0,,,Bastian Malla,Franco Agamenone,7-5 6-3,0.66,0.0%,6.1%,78.0%,59.4%,22.2%,8/13,43.9%,32.0%,2.0%,25.0%,50.0%,2/4,132,0,5,82,64,18,1,1:09
+29-Oct-2018,Guayaquil CH,3,Clay,Q2,1314,286,0,,3,Martin Cuevas,Franco Agamenone,6-1 7-6(3),0.57,0.0%,3.1%,79.7%,66.7%,38.5%,2/4,42.6%,22.4%,5.2%,20.0%,26.1%,0/0,122,0,2,64,51,13,3,1:23
+29-Oct-2018,Guayaquil CH,3,Clay,Q1,1314,,1,,WC,Franco Agamenone,Matthew Segura,6-2 6-1,1.73,2.0%,0.0%,86.0%,67.4%,42.9%,6/7,63.2%,62.2%,2.2%,43.5%,81.8%,6/8,95,1,0,50,43,7,1,0:54
+1-Oct-2018,Campinas CH,3,Clay,Q2,1301,408,0,,5,Joao Souza,Franco Agamenone,6-4 6-2,0.44,0.0%,4.1%,69.4%,67.6%,40.0%,2/5,39.4%,17.8%,6.7%,16.7%,20.0%,0/0,94,0,2,49,34,15,3,1:12
+17-Sep-2018,Argentina F6,3,Clay,QF,1414,941,0,,,Sebastian Baez,Franco Agamenone,6-3 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,R16,1414,1441,1,,Q,Franco Agamenone,Francisco Comesana,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2018,Argentina F6,3,Clay,R32,1414,539,1,,5,Franco Agamenone,Mariano Kestelboim,6-3 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2018,Argentina F5,3,Clay,R32,1592,420,0,,2,Camilo Ugo Carabelli,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Argentina F4,3,Clay,R16,877,1351,0,,WC,Valentin Florez,Franco Agamenone,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2018,Argentina F4,3,Clay,R32,877,405,1,,2,Franco Agamenone,Camilo Ugo Carabelli,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2018,Cordenons CH,3,Clay,Q1,866,577,0,,,Gonzalo Villanueva,Franco Agamenone,7-6(8) 6-2,0.84,2.5%,12.7%,60.8%,72.9%,29.0%,2/5,46.1%,37.2%,0.0%,29.8%,46.2%,1/5,165,2,10,79,48,31,0,1:58
+30-Jul-2018,Sopot CH,3,Clay,Q1,749,1176,0,,,Szymon Walkow,Franco Agamenone,6-3 2-6 6-2,0.89,2.6%,10.5%,64.5%,69.4%,29.6%,4/8,47.2%,39.8%,0.0%,25.5%,62.5%,3/10,159,2,8,76,49,27,0,2:08
+18-Jun-2018,Hungary F5,3,Clay,R32,733,959,0,,WC,Gabor Borsos,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2018,Hungary F4,3,Clay,R32,732,965,0,,,Eduardo Dischinger,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-May-2018,Romania F2,3,Clay,R32,631,1304,0,,WC,Alexandru Vasile Manole,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-2018,Italy F11,3,Clay,R32,628,1183,0,,,Corrado Summaria,Franco Agamenone,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Apr-2018,Leon CH,3,Hard,Q2,606,357,0,,4,Jose Rubin Statham,Franco Agamenone,7-6(5) 6-2,0.63,2.9%,7.1%,57.1%,60.0%,53.3%,4/7,43.7%,26.8%,3.6%,18.2%,39.1%,1/2,126,2,5,70,40,30,2,1:26
+23-Apr-2018,Leon CH,3,Hard,Q1,606,479,1,,,Franco Agamenone,Benjamin Lock,6-4 7-6(4),1.03,3.3%,16.5%,50.5%,69.6%,40.0%,7/11,50.9%,46.4%,2.4%,40.7%,56.7%,5/10,175,3,15,91,46,45,2,1:58
+16-Apr-2018,Guadalajara CH,3,Hard,Q1,607,308,0,,4,Alejandro Gonzalez,Franco Agamenone,6-2 6-2,0.52,7.5%,9.4%,62.3%,66.7%,20.0%,9/13,38.8%,26.7%,0.0%,11.5%,47.4%,0/0,98,4,5,53,33,20,0,1:11
+9-Apr-2018,Mexico City CH,3,Clay,Q2,608,349,0,,4,Federico Coria,Franco Agamenone,6-3 7-6(8),0.87,1.3%,10.5%,55.3%,59.5%,50.0%,1/5,47.3%,38.9%,0.0%,37.2%,41.4%,2/8,148,1,8,76,42,34,0,1:31
+9-Apr-2018,Mexico City CH,3,Clay,Q1,608,652,1,,,Franco Agamenone,Alexandr Igoshin,6-4 6-0,2.20,7.0%,0.0%,76.7%,84.8%,60.0%,2/2,61.3%,46.0%,10.0%,29.2%,61.5%,4/7,93,3,0,43,33,10,5,0:51
+2-Apr-2018,Panama City CH,3,Clay,Q3,609,390,0,7,2,Cristian Rodriguez,Franco Agamenone,6-2 6-1,0.60,3.4%,6.9%,60.3%,57.1%,34.8%,9/14,40.8%,31.1%,2.2%,22.6%,50.0%,0/0,103,2,4,58,35,23,1,1:08
+2-Apr-2018,Panama City CH,3,Clay,Q2,609,1121,1,7,,Franco Agamenone,Nathaniel Lammons,6-2 6-4,1.24,1.6%,6.5%,71.0%,70.5%,33.3%,4/6,54.9%,50.0%,0.0%,50.0%,50.0%,5/8,122,1,4,62,44,18,0,1:12
+2-Apr-2018,Panama City CH,3,Clay,Q1,609,654,1,7,,Franco Agamenone,Alexandr Igoshin,6-2 6-3,1.39,2.0%,13.7%,54.9%,78.6%,34.8%,3/5,58.0%,57.4%,1.6%,40.7%,70.6%,6/13,112,1,7,51,28,23,1,1:13
+26-Mar-2018,San Luis Potosi CH,3,Clay,Q1,611,486,0,,,Emilio Gomez,Franco Agamenone,6-4 6-2,0.70,1.8%,12.5%,42.9%,62.5%,40.6%,2/6,42.5%,35.1%,1.8%,17.2%,53.6%,1/3,113,1,7,56,24,32,1,1:12
+5-Mar-2018,Santiago CH,3,Clay,Q1,612,256,0,,,Hugo Dellien,Franco Agamenone,6-1 2-6 7-6(5),0.99,1.0%,7.1%,64.3%,55.6%,42.9%,6/13,49.7%,48.4%,1.1%,44.1%,60.0%,6/16,191,1,7,98,63,35,1,2:00
+26-Feb-2018,Punta Del Este CH,3,Clay,Q2,616,797,0,,,Gonzalo Villanueva,Franco Agamenone,6-1 6-3,0.69,2.1%,4.2%,66.7%,46.9%,43.8%,2/7,41.1%,37.3%,1.7%,30.0%,52.6%,1/6,107,1,2,48,32,16,1,1:16
+26-Feb-2018,Punta Del Este CH,3,Clay,Q1,616,623,1,,,Franco Agamenone,Yshai Oliel,7-6(3) 1-6 6-3,0.98,1.0%,0.0%,70.6%,61.1%,46.7%,4/9,50.0%,42.2%,1.1%,32.6%,52.3%,4/6,192,1,0,102,72,30,1,2:33
+19-Feb-2018,Cuernavaca CH,3,Hard,Q3,614,345,0,8,1,Sebastian Fanselow,Franco Agamenone,4-6 6-1 6-1,0.66,1.2%,6.1%,65.9%,51.9%,53.6%,7/12,42.8%,31.4%,1.4%,21.7%,50.0%,1/3,152,1,5,82,54,28,1,1:43
+19-Feb-2018,Cuernavaca CH,3,Hard,Q2,614,1437,1,8,,Franco Agamenone,Juan Ignacio Batalla,6-2 6-4,1.44,1.7%,3.3%,80.0%,68.8%,58.3%,7/8,56.4%,47.9%,0.0%,40.5%,55.6%,4/17,133,1,2,60,48,12,0,1:20
+19-Feb-2018,Cuernavaca CH,3,Hard,Q1,614,,1,8,,Franco Agamenone,Roberto Maytin,6-4 6-1,1.65,8.1%,8.1%,75.8%,72.3%,53.3%,5/6,61.7%,53.3%,2.2%,32.0%,80.0%,4/6,107,5,5,62,47,15,1,1:01
+5-Feb-2018,San Francisco CH,3,Hard,Q2,616,1349,0,8,,Jenson Brooksby,Franco Agamenone,7-5 6-1,0.64,7.8%,11.8%,70.6%,58.3%,26.7%,3/7,39.7%,32.9%,0.0%,23.5%,57.9%,1/3,121,4,6,51,36,15,0,1:17
+5-Feb-2018,San Francisco CH,3,Hard,Q1,616,618,1,8,,Franco Agamenone,Karunuday Singh,2-6 6-0 6-1,1.30,4.3%,5.7%,71.4%,68.0%,40.0%,3/6,56.5%,51.9%,1.9%,44.4%,59.3%,6/8,124,3,4,70,50,20,1,1:19
+4-Dec-2017,Argentina F12,3,Clay,R32,512,1711,0,8,,Lorenzo Gagliardo,Franco Agamenone,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R16,512,399,0,,6,Patricio Heras,Franco Agamenone,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2017,Argentina F11,3,Clay,R32,512,895,1,,,Franco Agamenone,Juan Ignacio Ameal,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2017,Santiago CH,3,Clay,Q3,510,108,0,7,1,Roberto Carballes Baena,Franco Agamenone,7-6(2) 3-0 RET,0.77,1.9%,9.6%,55.8%,65.5%,34.8%,4/7,43.9%,37.1%,0.0%,35.1%,40.0%,2/7,114,1,5,52,29,23,0,1:34
+13-Nov-2017,Santiago CH,3,Clay,Q2,510,1047,1,7,,Franco Agamenone,Michel Vernier,6-4 6-3,1.16,3.3%,6.6%,68.9%,59.5%,57.9%,1/3,52.5%,47.4%,0.0%,38.9%,66.7%,5/9,139,2,4,61,42,19,0,1:39
+30-Oct-2017,Guayaquil CH,3,Clay,Q2,439,495,0,,,Gonzalo Lama,Franco Agamenone,6-4 6-4,0.74,0.0%,3.4%,60.3%,65.7%,34.8%,2/6,44.2%,34.5%,1.8%,32.5%,40.0%,2/3,113,0,2,58,35,23,1,1:27
+23-Oct-2017,Lima CH,3,Clay,Q3,439,307,0,,8,Roberto Quiroz,Franco Agamenone,4-6 6-4 6-3,0.89,2.0%,6.1%,64.3%,63.5%,37.1%,9/15,48.0%,40.7%,1.2%,42.0%,38.7%,5/5,179,2,6,98,63,35,1,2:18
+23-Oct-2017,Lima CH,3,Clay,Q2,439,258,1,,3,Franco Agamenone,Daniel Elahi Galan,6-3 6-2,1.64,4.3%,0.0%,78.7%,75.7%,60.0%,2/2,56.6%,45.5%,0.0%,43.2%,50.0%,4/9,113,2,0,47,37,10,0,1:15
+23-Oct-2017,Lima CH,3,Clay,Q1,439,437,1,,,Franco Agamenone,Cristian Rodriguez,6-2 7-5,1.29,3.3%,3.3%,73.8%,68.9%,43.8%,2/4,55.0%,48.5%,1.5%,45.8%,55.0%,5/8,129,2,2,61,45,16,1,1:29
+16-Oct-2017,Cali CH,3,Clay,Q2,434,367,0,,7,Mario Vilella Martinez,Franco Agamenone,6-4 4-6 6-4,0.80,0.0%,2.9%,65.0%,56.7%,61.1%,7/11,47.1%,33.3%,0.0%,31.5%,36.7%,3/4,187,0,3,103,67,36,0,2:13
+9-Oct-2017,Buenos Aires CH,3,Clay,Q1,438,370,0,,3,Mario Vilella Martinez,Franco Agamenone,6-1 6-3,0.62,0.0%,3.3%,60.7%,51.4%,20.8%,4/10,38.5%,37.5%,2.1%,36.7%,38.9%,2/2,109,0,2,61,37,24,1,1:14
+11-Sep-2017,Spain F29,3,Clay,R16,377,563,0,8,,Jordi Samper Montana,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2017,Spain F29,3,Clay,R32,377,1167,1,8,LL,Franco Agamenone,Sylvester Emmanuel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2017,Spain F28,3,Clay,R32,410,672,0,3,,Antoine Bellier,Franco Agamenone,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,F,410,238,0,2,1,Laurynas Grigelis,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,SF,410,603,1,2,6,Franco Agamenone,Pietro Licciardi,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,QF,410,1422,1,2,Q,Franco Agamenone,Edris Fetisleam,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,R16,410,1196,1,2,WC,Franco Agamenone,Andrei Stefan Apostol,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2017,Romania F12,3,Clay,R32,410,1113,1,2,,Franco Agamenone,Collin Johns,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Romania F11,3,Clay,SF,415,565,0,2,3,Dragos Dima,Franco Agamenone,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Romania F11,3,Clay,QF,415,599,1,2,7,Franco Agamenone,Laslo Urrutia Fuentes,1-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Romania F11,3,Clay,R16,415,1064,1,2,Q,Franco Agamenone,Bogdan Ionut Apostol,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2017,Romania F11,3,Clay,R32,415,721,1,2,,Franco Agamenone,Pietro Licciardi,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2017,Turkey F30,3,Clay,R32,417,1155,0,2,,Gabriel Donev,Franco Agamenone,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2017,Slovakia F3,3,Clay,R32,440,909,0,3,,Mike Urbanija,Franco Agamenone,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Austria F5,3,Clay,F,432,353,0,2,1,Dennis Novak,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Austria F5,3,Clay,SF,432,594,1,2,5,Franco Agamenone,Thomas Statzberger,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Austria F5,3,Clay,QF,432,1328,1,2,,Franco Agamenone,Franjo Raspudic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Austria F5,3,Clay,R16,432,1109,1,2,,Franco Agamenone,Andrew Ruppli,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2017,Austria F5,3,Clay,R32,432,,1,2,Q,Franco Agamenone,Michalis Sakellaridis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2017,Germany F8,3,Clay,R32,431,232,0,,1,Jeremy Jahn,Franco Agamenone,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Italy F17,3,Clay,QF,419,551,0,8,,Andrea Pellegrino,Franco Agamenone,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Italy F17,3,Clay,R16,419,463,1,8,,Franco Agamenone,Jaroslav Pospisil,2-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2017,Italy F17,3,Clay,R32,419,635,1,8,,Franco Agamenone,Marcelo Zormann Da Silva,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2017,Italy F16,3,Clay,R32,461,388,0,,8,Facundo Mena,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,SF,461,315,0,5,2,Evan King,Franco Agamenone,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,QF,461,813,1,5,,Franco Agamenone,Tomislav Jotovski,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,R16,461,1654,1,5,WC,Franco Agamenone,Darko Bojanovic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2017,Bosnia &amp; Herzegovina F2,3,Clay,R32,461,909,1,5,,Franco Agamenone,Mike Urbanija,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Bosnia &amp; Herzegovina F1,3,Clay,SF,456,508,0,2,3,Nino Serdarusic,Franco Agamenone,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Bosnia &amp; Herzegovina F1,3,Clay,QF,456,,1,2,Q,Franco Agamenone,Josko Topic,6-4 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Bosnia &amp; Herzegovina F1,3,Clay,R16,456,,1,2,WC,Franco Agamenone,Dusan Rajic,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-May-2017,Bosnia &amp; Herzegovina F1,3,Clay,R32,456,,1,2,Q,Franco Agamenone,Aleksa Daskalovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2017,Italy F13,3,Clay,R32,461,1132,0,8,WC,Enrico Dalla Valle,Franco Agamenone,6-7(0) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,R16,470,1622,0,4,Q,Davide Della Tommasina,Franco Agamenone,0-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2017,Italy F12,3,Clay,R32,470,669,1,4,,Franco Agamenone,Raul Brancaccio,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Italy F11,3,Clay,QF,467,841,0,5,,Adrian Bodmer,Franco Agamenone,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Italy F11,3,Clay,R16,467,1330,1,5,Q,Franco Agamenone,Federico Maccari,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+1-May-2017,Italy F11,3,Clay,R32,467,557,1,5,,Franco Agamenone,Alexander Zhurbin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2017,Italy F10,3,Clay,R32,472,499,0,,,Andrea Basso,Franco Agamenone,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2017,Tunisia F15,3,Clay,R32,471,640,0,,,Davide Galoppini,Franco Agamenone,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2017,Tigre CH,3,Hard,Q1,477,709,0,4,,Fabiano De Paula,Franco Agamenone,6-4 6-1,0.43,0.0%,19.2%,61.5%,59.4%,25.0%,3/7,35.8%,23.3%,0.0%,13.0%,35.0%,1/1,95,0,10,52,32,20,0,1:04
+6-Mar-2017,Zhuhai CH,3,Hard,Q1,477,225,0,,3,Marc Polmans,Franco Agamenone,6-4 7-6(4),0.79,0.0%,5.8%,69.6%,52.1%,42.9%,3/8,44.6%,40.0%,0.0%,37.7%,47.1%,4/7,139,0,4,69,48,21,0,1:24
+27-Feb-2017,China F3,3,Clay,R32,475,904,0,5,Q,Hong Kit Jack Wong,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Feb-2017,China F2,3,Clay,R32,473,631,0,5,,Nam Hoang Ly,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Feb-2017,China F1,3,Clay,R32,476,726,0,4,,Thales Turini,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Dec-2016,Chile F8,3,Clay,R32,459,786,0,5,,Guillermo Rivera Aranguiz,Franco Agamenone,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Chile F7,3,Clay,QF,459,681,0,4,,Juan Pablo Varillas,Franco Agamenone,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Chile F7,3,Clay,R16,459,1556,1,4,Q,Franco Agamenone,Franco Capalbo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Dec-2016,Chile F7,3,Clay,R32,459,1371,1,4,SE,Franco Agamenone,Genaro Alberto Olivieri,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Chile F6,3,Clay,R16,440,1275,0,5,Q,Federico Moreno,Franco Agamenone,W/O,,,,,,,,,,,,,,,,,,,,,
+5-Dec-2016,Chile F6,3,Clay,R32,440,1174,1,5,,Franco Agamenone,Victor Nunez,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Bolivia F2,3,Clay,F,505,544,1,1,3,Franco Agamenone,Matias Zukas,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Bolivia F2,3,Clay,SF,505,720,1,1,4,Franco Agamenone,Fabrizio Ornago,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Bolivia F2,3,Clay,QF,505,781,1,1,5,Franco Agamenone,Alejandro Tabilo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Bolivia F2,3,Clay,R16,505,1939,1,1,Q,Franco Agamenone,Franco Capalbo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2016,Bolivia F2,3,Clay,R32,505,1002,1,1,,Franco Agamenone,Ricardo Urzua Rivera,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Bolivia F1,3,Clay,R16,506,1764,0,2,,Andrew Korinek,Franco Agamenone,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2016,Bolivia F1,3,Clay,R32,506,1387,1,2,,Franco Agamenone,Boris Arias,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Ecuador F3,3,Clay,F,590,296,1,4,1,Franco Agamenone,Roberto Quiroz,6-2 6-7(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Ecuador F3,3,Clay,SF,590,718,1,4,8,Franco Agamenone,Nicolas Santos,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Ecuador F3,3,Clay,QF,590,1993,1,4,,Franco Agamenone,Tyler Mercier,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Ecuador F3,3,Clay,R16,590,882,1,4,,Franco Agamenone,Alejandro Mendoza,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2016,Ecuador F3,3,Clay,R32,590,1640,1,4,Q,Franco Agamenone,Ignacio Monzon,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Ecuador F2,3,Clay,QF,617,805,0,1,7,Thales Turini,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Ecuador F2,3,Clay,R16,617,917,1,1,,Franco Agamenone,Raleigh Smith,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2016,Ecuador F2,3,Clay,R32,617,1237,1,1,,Franco Agamenone,Ryusei Makiguchi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Ecuador F1,3,Clay,SF,606,857,0,1,4,Juan Pablo Varillas,Franco Agamenone,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Ecuador F1,3,Clay,QF,606,772,1,1,6,Franco Agamenone,Luis Patino,6-1 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Ecuador F1,3,Clay,R16,606,1258,1,1,,Franco Agamenone,David Fleming,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Oct-2016,Ecuador F1,3,Clay,R32,606,,1,1,WC,Franco Agamenone,Camilo Ponce,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2016,Italy F31,3,Clay,R32,694,1753,0,,Q,Jacopo Berrettini,Franco Agamenone,3-6 6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Tunisia F24,3,Clay,F,718,1305,1,8,Q,Franco Agamenone,Valentin Vacherot,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Tunisia F24,3,Clay,SF,718,588,1,8,4,Franco Agamenone,Mariano Kestelboim,6-4 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Tunisia F24,3,Clay,QF,718,489,1,8,2,Franco Agamenone,Marco Bortolotti,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Tunisia F24,3,Clay,R16,718,1482,1,8,WC,Franco Agamenone,Nicolas Xiviller,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2016,Tunisia F24,3,Clay,R32,718,,1,8,WC,Franco Agamenone,Ramy Labna,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Tunisia F23,3,Clay,QF,763,610,0,8,4,Luca Pancaldi,Franco Agamenone,1-6 6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Tunisia F23,3,Clay,R16,763,1052,1,8,,Franco Agamenone,Eros Siringo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Sep-2016,Tunisia F23,3,Clay,R32,763,1171,1,8,Q,Franco Agamenone,Dante Gennaro,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Tunisia F22,3,Clay,SF,770,728,0,7,6,Jules Okala,Franco Agamenone,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Tunisia F22,3,Clay,QF,770,307,1,7,1,Franco Agamenone,Ivan Nedelko,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Tunisia F22,3,Clay,R16,770,931,1,7,,Franco Agamenone,Alessandro Petrone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2016,Tunisia F22,3,Clay,R32,770,,1,7,Q,Franco Agamenone,Arnaud Restifo,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Italy F20,3,Clay,R16,751,353,0,,2,Francisco Bahamonde,Franco Agamenone,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jul-2016,Italy F20,3,Clay,R32,751,857,1,,,Franco Agamenone,Antonio Campo,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Turkey F27,3,Hard,R16,778,1133,0,6,,Fabiano De Paula,Franco Agamenone,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Jul-2016,Turkey F27,3,Hard,R32,778,909,1,6,,Franco Agamenone,Dan Dowson,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2016,Turkey F26,3,Clay,R32,778,306,0,,2,Riccardo Bellotti,Franco Agamenone,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Turkey F25,3,Hard,QF,774,401,0,8,2,Cem Ilkel,Franco Agamenone,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Turkey F25,3,Hard,R16,774,,1,8,Q,Franco Agamenone,Giovani Samaha,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2016,Turkey F25,3,Hard,R32,774,,1,8,Q,Franco Agamenone,Lawrence Bataljin,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2016,Turkey F24,3,Hard,R32,780,338,0,,1,Riccardo Bellotti,Franco Agamenone,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-May-2016,Italy F10,3,Clay,R32,614,767,0,,,Samuel Bensoussan,Franco Agamenone,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+2-May-2016,Italy F9,3,Clay,R32,634,655,0,7,,Casper Ruud,Franco Agamenone,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,QF,627,508,0,8,4,Yannick Maden,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,R16,627,918,1,8,Q,Franco Agamenone,Gianluca Di Nicola,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2016,Italy F8,3,Clay,R32,627,2205,1,8,Q,Franco Agamenone,Jonas Trinker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Apr-2016,Italy F7,3,Clay,R32,604,986,0,,Q,Laurent Lokoli,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2016,Argentina F4,3,Clay,R32,605,385,0,,7,Juan Ignacio Galarza,Franco Agamenone,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R16,597,272,0,,2,Michael Linzer,Franco Agamenone,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2016,Argentina F3,3,Clay,R32,597,2007,1,,Q,Franco Agamenone,Martin Alund,4-6 7-6(6) 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,R16,597,376,0,,3,Juan Ignacio Galarza,Franco Agamenone,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2016,Argentina F2,3,Clay,R32,597,900,1,,,Franco Agamenone,Santiago Fa Rodriguez Taverna,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2016,Buenos Aires CH,3,Clay,R32,643,138,0,Q,4,Facundo Arguello,Franco Agamenone,6-3 6-0,0.64,2.2%,11.1%,62.2%,46.4%,35.3%,4/10,39.6%,37.0%,0.0%,40.0%,31.3%,1/3,91,1,5,45,28,17,0,1:02
+11-Jan-2016,Buenos Aires CH,3,Clay,Q3,643,502,1,,,Franco Agamenone,Pedro Sakamoto,7-6(2) 1-6 6-3,0.92,2.9%,2.0%,57.8%,55.9%,53.5%,6/12,48.5%,41.3%,1.1%,42.4%,39.4%,5/16,194,3,2,102,59,43,1,2:24
+11-Jan-2016,Buenos Aires CH,3,Clay,Q2,643,377,1,,5,Franco Agamenone,Juan Ignacio Galarza,7-6(5) 2-6 7-5,0.99,1.0%,4.8%,62.9%,62.1%,51.3%,7/13,49.8%,41.3%,1.0%,36.8%,50.0%,5/9,209,1,5,105,66,39,1,2:39
+11-Jan-2016,Buenos Aires CH,3,Clay,Q1,643,1195,1,,,Franco Agamenone,Luciano Doria,6-3 6-4,1.72,0.0%,0.0%,81.1%,79.1%,70.0%,1/1,57.9%,38.9%,1.9%,33.3%,50.0%,2/5,107,0,0,53,43,10,1,1:16
+4-Jan-2016,Mendoza CH,3,Clay,Q3,643,405,0,8,2,Maximiliano Estevez,Franco Agamenone,3-6 6-0 6-4,0.86,0.0%,0.0%,68.4%,59.3%,48.0%,5/10,46.4%,38.2%,4.5%,32.8%,48.4%,2/10,168,0,0,79,54,25,4,2:18
+4-Jan-2016,Mendoza CH,3,Clay,Q2,643,1406,1,8,,Franco Agamenone,Nicolas Alejandro De Gregorio,6-1 6-4,1.45,1.8%,7.1%,75.0%,78.6%,42.9%,2/2,57.5%,44.0%,0.0%,28.0%,60.0%,3/5,106,1,4,56,42,14,0,1:15
+14-Dec-2015,Chile F10,3,Hard,R32,680,747,0,6,,Matias Zukas,Franco Agamenone,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R16,680,725,0,,,Joao Pedro Sorgi,Franco Agamenone,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Dec-2015,Chile F9,3,Clay,R32,680,592,1,,7,Franco Agamenone,Nicolas Alberto Arreche,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,SF,680,409,0,7,3,Patricio Heras,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,QF,680,327,1,7,2,Franco Agamenone,Tomas Lipovsek Puches,1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R16,680,1384,1,7,,Franco Agamenone,Nicolas Alejandro De Gregorio,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Nov-2015,Chile F8,3,Clay,R32,680,1716,1,7,Q,Franco Agamenone,Simon Navarro,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Santiago CH,3,Clay,Q3,608,407,0,,5,Carlos Eduardo Severino,Franco Agamenone,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Santiago CH,3,Clay,Q2,608,504,1,,,Franco Agamenone,Pedro Sakamoto,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+19-Oct-2015,Santiago CH,3,Clay,Q1,608,342,1,,2,Franco Agamenone,Emilio Gomez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2015,Corrientes CH,3,Clay,R32,609,262,0,Q,,Guido Andreozzi,Franco Agamenone,6-3 6-1,0.41,0.0%,3.9%,66.7%,61.8%,35.3%,1/5,38.0%,19.5%,0.0%,11.1%,26.1%,0/0,92,0,2,51,34,17,0,
+28-Sep-2015,Argentina F14,3,Clay,QF,621,408,0,5,1,Francisco Bahamonde,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,R16,621,903,1,5,,Franco Agamenone,Franco Emanuel Egea,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Argentina F14,3,Clay,R32,621,,1,5,WC,Franco Agamenone,Facundo Alvo,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R16,620,982,0,4,,Gabriel Alejandro Hidalgo,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Sep-2015,Argentina F13,3,Clay,R32,620,1719,1,4,LL,Franco Agamenone,Santiago Maresca,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,R16,627,504,0,,6,Juan Pablo Paz,Franco Agamenone,1-6 7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Sep-2015,Argentina F11,3,Clay,R32,627,,1,,Q,Franco Agamenone,Tomas Reche,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Aug-2015,Argentina F10,3,Clay,R32,632,,0,,WC,Rene Yegros Codiani,Franco Agamenone,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,QF,641,735,0,,,Gonzalo Villanueva,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R16,641,1469,1,,Q,Franco Agamenone,Federico Moreno,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2015,Argentina F9,3,Clay,R32,641,397,1,,1,Franco Agamenone,Christopher Diaz Figueroa,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,R16,642,578,0,,7,Andrea Collarini,Franco Agamenone,7-6(3) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Aug-2015,Argentina F8,3,Clay,R32,642,,1,,WC,Franco Agamenone,Sasha Supruniuk,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-2015,Brazil F3,3,Clay,R32,627,617,0,,8,Bruno Santanna,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R16,635,500,0,,3,Thales Turini,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jun-2015,Brazil F2,3,Clay,R32,635,1065,1,,Q,Franco Agamenone,Marcos Vinicius Dias,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R16,637,388,0,,4,Federico Coria,Franco Agamenone,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+25-May-2015,Argentina F7,3,Clay,R32,637,716,1,,,Franco Agamenone,Eduardo Agustin Torre,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Argentina F6,3,Clay,R16,640,601,0,,,Juan Ignacio Ameal,Franco Agamenone,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+18-May-2015,Argentina F6,3,Clay,R32,640,,1,,WC,Franco Agamenone,Mauricio Velasco,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R16,806,405,0,,4,Federico Coria,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-2015,Argentina F5,3,Clay,R32,806,1065,1,,Q,Franco Agamenone,Juan Manuel Matute,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,F,802,667,1,,6,Franco Agamenone,Hernan Casanova,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,SF,802,991,1,,Q,Franco Agamenone,Francisco Bahamonde,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,QF,802,925,1,,,Franco Agamenone,Mariano Kestelboim,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R16,802,751,1,,8,Franco Agamenone,Eduardo Agustin Torre,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-May-2015,Argentina F4,3,Clay,R32,802,,1,,Q,Franco Agamenone,Tomas Rengel Sierra,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,QF,862,339,0,Q,1,Jorge Aguilar,Franco Agamenone,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R16,862,532,1,Q,6,Franco Agamenone,Andre Miele,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Chile F5,3,Clay,R32,862,804,1,Q,,Franco Agamenone,Ricardo Urzua Rivera,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Chile F4,3,Clay,QF,865,196,0,Q,1,Nicolas Jarry,Franco Agamenone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Chile F4,3,Clay,R16,865,258,1,Q,5,Franco Agamenone,Gonzalo Lama,6-4 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Apr-2015,Chile F4,3,Clay,R32,865,654,1,Q,,Franco Agamenone,Filipe Brandao,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,QF,920,298,0,Q,2,Nicolas Kicker,Franco Agamenone,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R16,920,418,1,Q,5,Franco Agamenone,Martin Cuevas,1-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Mar-2015,Argentina F3,3,Clay,R32,920,734,1,Q,WC,Franco Agamenone,Eduardo Agustin Torre,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,R16,927,343,0,Q,7,Federico Coria,Franco Agamenone,3-6 7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Mar-2015,Argentina F2,3,Clay,R32,927,630,1,Q,,Franco Agamenone,Joao Pedro Sorgi,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Mar-2015,Argentina F1,3,Clay,R32,927,957,0,,WC,Mariano Kestelboim,Franco Agamenone,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Dec-2014,Chile F10,3,Clay,R32,911,599,0,Q,,Fernando Romboli,Franco Agamenone,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Nov-2014,Chile F8,3,Clay,R32,1280,1046,0,SE,Q,Juan Manuel Matute,Franco Agamenone,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,F,1273,536,0,Q,4,Matias Sborowitz,Franco Agamenone,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,SF,1273,1204,1,Q,,Franco Agamenone,Nicolas Alejandro De Gregorio,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,QF,1273,881,1,Q,,Franco Agamenone,Dante Gennaro,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,R16,1273,,1,Q,WC,Franco Agamenone,Sebastian Vidal,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Nov-2014,Chile F7,3,Clay,R32,1273,453,1,Q,3,Franco Agamenone,Juan Pablo Paz,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Chile F6,3,Clay,R16,1501,1052,0,,,Mariano Kestelboim,Franco Agamenone,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Oct-2014,Chile F6,3,Clay,R32,1501,1959,1,,Q,Franco Agamenone,Serge Becerra Jeria,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Chile F5,3,Clay,R16,1372,368,0,,4,Wilson Leite,Franco Agamenone,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Oct-2014,Chile F5,3,Clay,R32,1372,1286,1,,Q,Franco Agamenone,Mauricio Alvarez Guzman,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Argentina F17,3,Clay,R16,1298,596,0,,6,Eduardo Agustin Torre,Franco Agamenone,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Sep-2014,Argentina F17,3,Clay,R32,1298,1250,1,,,Franco Agamenone,Mauricio Perez Mota,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Aug-2014,Argentina F14,3,Clay,R32,1240,991,0,Q,,Hernan Casanova,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R16,1294,743,0,Q,,Rodrigo Sanchez,Franco Agamenone,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2014,Argentina F12,3,Clay,R32,1294,,1,Q,WC,Franco Agamenone,Andres Gabriel Ciurletti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2014,Argentina F9,3,Clay,R32,1360,867,0,Q,,Juan Manuel Benitez Chavarriaga,Franco Agamenone,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R16,1358,507,0,Q,5,Tiago Lopes,Franco Agamenone,6-7(1) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Jun-2014,Argentina F7,3,Clay,R32,1358,661,1,Q,,Franco Agamenone,Carlos Eduardo Severino,6-7(0) 7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2014,Argentina F5,3,Clay,R32,1256,313,0,Q,2,Gabriel Alejandro Hidalgo,Franco Agamenone,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Mar-2014,Argentina F4,3,Clay,R32,1250,493,0,WC,,Leonardo Kirche,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jan-2014,Argentina F1,3,Clay,R32,1242,,0,Q,PR,Gaston Arturo Grimolizzi,Franco Agamenone,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2013,Brazil F18,3,Clay,R32,1179,535,0,Q,7,Nicolas Kicker,Franco Agamenone,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Oct-2013,Chile F6,3,Clay,R32,1095,538,0,,5,Facundo Mena,Franco Agamenone,6-1 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Chile F5,3,Clay,R16,1085,373,0,,1,Gonzalo Lama,Franco Agamenone,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2013,Chile F5,3,Clay,R32,1085,927,1,,,Franco Agamenone,Matias Sborowitz,7-6(12) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,QF,1165,358,0,,1,Gabriel Alejandro Hidalgo,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R16,1165,689,1,,8,Franco Agamenone,Ryusei Makiguchi,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2013,Argentina F19,3,Clay,R32,1165,,1,,WC,Franco Agamenone,Agustin Visokolskis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2013,Argentina F18,3,Clay,R32,1167,1656,0,,WC,Mariano Kestelboim,Franco Agamenone,6-3 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Argentina F15,3,Clay,R16,1200,650,0,,7,Sergio Galdos,Franco Agamenone,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2013,Argentina F15,3,Clay,R32,1200,808,1,,Q,Franco Agamenone,Bastian Malla,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2013,Argentina F14,3,Clay,R32,1201,327,0,,1,Leandro Migani,Franco Agamenone,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2013,Argentina F12,3,Clay,R32,1203,653,0,Q,,Mateo Nicolas Martinez,Franco Agamenone,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Argentina F6,3,Clay,R16,1126,384,0,WC,4,Duilio Beretta,Franco Agamenone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-2013,Argentina F6,3,Clay,R32,1126,629,1,WC,,Franco Agamenone,Ryusei Makiguchi,6-4 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R16,1114,657,0,Q,,Gabriel Alejandro Hidalgo,Franco Agamenone,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Dec-2012,Argentina F28,3,Clay,R32,1114,,1,Q,Q,Franco Agamenone,Brian Orradre,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Chile 11,3,Clay,QF,1351,1341,0,Q,WC,Cristian Garin,Franco Agamenone,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Chile 11,3,Clay,R16,1351,686,1,Q,6,Franco Agamenone,Matias Sborowitz,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Oct-2012,Chile 11,3,Clay,R32,1351,1415,1,Q,WC,Franco Agamenone,Jose Munoz Salgado,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Chile 10,3,Clay,R16,1336,1128,0,Q,Q,David Fleming,Franco Agamenone,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Oct-2012,Chile 10,3,Clay,R32,1336,680,1,Q,6,Franco Agamenone,Matias Sborowitz,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Oct-2012,Chile F9,3,Clay,R32,1340,759,0,Q,,Mauricio Perez Mota,Franco Agamenone,6-7(4) 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Aug-2012,Argentina F20,3,Clay,Q4,1258,841,0,14,2,Tomas Buchhass,Franco Agamenone,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jul-2012,Argentina F18,3,Clay,R32,1224,884,0,Q,,Gustavo Sterin,Franco Agamenone,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,R16,1319,425,0,Q,1,Leandro Migani,Franco Agamenone,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2012,Argentina F16,3,Clay,R32,1319,,1,Q,WC,Franco Agamenone,Jose Angel Carrizo,2-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2012,Argentina F14,3,Clay,R32,1302,241,0,LL,1,Facundo Arguello,Franco Agamenone,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2012,Argentina F12,3,Clay,R32,1483,,0,,Q,Juan Cruz Estevarena,Franco Agamenone,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Argentina F11,3,Clay,R16,1505,419,0,,6,Guillermo Duran,Franco Agamenone,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2012,Argentina F11,3,Clay,R32,1505,1921,1,,Q,Franco Agamenone,Jose Maria Paniagua,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Apr-2012,Argentina F9,3,Clay,R32,1491,535,0,Q,,Juan Ignacio Londero,Franco Agamenone,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Argentina F7,3,Clay,R16,1886,588,0,Q,8,Diego Matos,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Apr-2012,Argentina F7,3,Clay,R32,1886,,1,Q,Q,Franco Agamenone,Juan Pablo Paz,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Sep-2011,Argentina F17,3,Clay,R32,1795,386,0,WC,1,Juan Pablo Villar,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2011,Argentina F16,3,Clay,R32,1795,332,0,Q,1,Juan Pablo Amado,Franco Agamenone,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Argentina F12,3,Clay,R16,,857,0,WC,,Facundo Mena,Franco Agamenone,6-3 4-6 7-6(12),,,,,,,,,,,,,,,,,,,,,
+22-Aug-2011,Argentina F12,3,Clay,R32,,1401,1,WC,WC,Franco Agamenone,Dante Gennaro,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Aug-2011,Argentina F11,3,Clay,R32,,929,0,Q,,Alejandro Kon,Franco Agamenone,4-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Argentina F10,3,Clay,R32,,500,0,Q,4,Patricio Heras,Franco Agamenone,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+8-Aug-2011,Argentina F10,3,Clay,Q4,,1306,1,,2,Franco Agamenone,Juan Manuel Romanazzi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-May-2011,Argentina F5,3,Clay,R32,,,0,WC,Q,Leandro Portmann,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2010,Argentina F17,3,Clay,R32,,610,0,Q,4,Diego Schwartzman,Franco Agamenone,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2010,Argentina F14,3,Clay,R32,,558,0,WC,7,Facundo Arguello,Franco Agamenone,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Jun-2010,Argentina F8,3,Clay,R32,,1003,0,WC,,Rodrigo Gomez Saigos,Franco Agamenone,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Oct-2009,Argentina F19 FUTURES,3,Clay,R32,1564,473,0,,2,Nicolas Jara Lozano,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Argentina F7,3,Clay,R16,,419,0,WC,2,Guido Pella,Franco Agamenone,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Argentina F7,3,Clay,R32,,952,1,WC,WC,Franco Agamenone,Ignacio Martire,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
