@@ -1,3 +1,5 @@
 venv/
 TennisVis.ipynb
 tennis_dataprocess.ipynb
+__pycache__/
+pages/__pycache__/
