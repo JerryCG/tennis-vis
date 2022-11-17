@@ -1,7 +1,7 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import Dash, html, dcc, dash_table
+from dash import html, dcc, dash_table
 import dash
 import plotly.express as px
 import pandas as pd
@@ -10,24 +10,13 @@ import numpy as np
 from dash.dependencies import Input, Output, State
 import plotly.graph_objects as go
 from datetime import date as dt
+from dash.exceptions import PreventUpdate
 
 # get all names
 all_names = []
-with open('mp.txt', 'r') as f:
-    cnt = 0
+with open('mwplayerlist_processed.txt', 'r') as f:
     for line in f:
         all_names.append(line[:-1])
-        cnt += 1
-        if cnt == 3000:
-            break
-with open('wp.txt', 'r') as f:
-    cnt = 0
-    for line in f:
-        all_names.append(line[:-1])
-        cnt += 1
-        if cnt == 3000:
-            break
-
 
 # load txt files
 def load_txt(name):
@@ -728,7 +717,7 @@ def wlc(names, date = [None, None]):
 # gs win lose counts
 def gswlc(names, date = [None, None]):
     dfs = [clean_df(load_txt(name), date) for name in names]
-    attrs = ['WO-Win', 'WO-Loss', 'USO-Win', 'USO-Loss', 'AO-Win', 'AO-Loss', 'FO-Win', 'FO-Loss']
+    attrs = ['WC-Win', 'WC-Loss', 'USO-Win', 'USO-Loss', 'AO-Win', 'AO-Loss', 'FO-Win', 'FO-Loss']
     gs = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']
     fig = go.Figure()
 
@@ -1055,7 +1044,7 @@ layout = html.Div(children=[
     # head
     html.Div(children=[
         html.H2('Enter players\' names for stats visual comparison:'),
-        dcc.Dropdown(id="nameinput", options = all_names, value = '(M) Novak Djokovic', multi = True, style = {'color': 'grey', 'background-color': 'rgb(17,17,17)'}),
+        dcc.Dropdown(id="nameinput", placeholder = 'Enter Player Name:', search_value = '(M) Novak Djokovic', value = ['(M) Novak Djokovic'], multi = True, style = {'color': 'grey', 'background-color': 'rgb(17,17,17)'}),
         html.Br(),
         # selecr career or date
         html.Div(children=[
@@ -1089,8 +1078,8 @@ layout = html.Div(children=[
         html.Div(children=[
             html.Br(),
             html.Div(children=[
-                dcc.Dropdown(id="h2hinput1", options = all_names, value = '(M) Novak Djokovic', clearable = False, style = {'background-color': 'rgb(17,17,17)'}),
-                dcc.Dropdown(id="h2hinput2", options = all_names, value = '(M) Rafael Nadal', clearable = False, style = {'background-color': 'rgb(17,17,17)'}),
+                dcc.Dropdown(id="h2hinput1", search_value = '(M) Novak Djokovic',  value = '(M) Novak Djokovic', clearable = False, style = {'background-color': 'rgb(17,17,17)'}),
+                dcc.Dropdown(id="h2hinput2", search_value = '(M) Rafael Nadal', value = '(M) Rafael Nadal', clearable = False, style = {'background-color': 'rgb(17,17,17)'}),
             ]
             ),
             dcc.Graph(id='h2h', figure = h2h(['(M) Novak Djokovic', '(M) Rafael Nadal'])),
@@ -1198,7 +1187,7 @@ layout = html.Div(children=[
                     ),
                     html.Div(children=[
                         html.Label('Tournament', className = 'label'),
-                        dcc.Checklist(id="tournament", options = {'Wimbledon': 'WO', 'US Open': 'USO', 'Australian Open': 'AO', 'Roland Garros': 'FO', 'ATP1000': 'ATP1000'}, value = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']),
+                        dcc.Checklist(id="tournament", options = {'Wimbledon': 'WC', 'US Open': 'USO', 'Australian Open': 'AO', 'Roland Garros': 'FO', 'ATP1000': 'ATP1000'}, value = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']),
                     ], style={'display': 'inline-block', 'width': '70%', 'min-width': '300px', 'padding': '10px'}
                     ),
                 ], className = 'selection-area'
@@ -1213,7 +1202,7 @@ layout = html.Div(children=[
                 html.Div(children=[
                     html.Div(children=[
                         html.Label('Grand Slam', className = 'label'),
-                        dcc.Checklist(id="gs", options = {'Wimbledon': 'WO', 'US Open': 'USO', 'Australian Open': 'AO', 'Roland Garros': 'FO'}, value = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']),
+                        dcc.Checklist(id="gs", options = {'Wimbledon': 'WC', 'US Open': 'USO', 'Australian Open': 'AO', 'Roland Garros': 'FO'}, value = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']),
                     ], style={'display': 'inline-block', 'padding': '10px'}
                     ),
                 ], className = 'selection-area'
@@ -1225,6 +1214,40 @@ layout = html.Div(children=[
     ], style={'background': 'rgb(17,17,17)'}, className='row3'
     ),
 ])
+
+# update nameinput options
+@dash.callback(
+    Output("nameinput", "options"),
+    Input("nameinput", "search_value"),
+    State("nameinput", "value")
+)
+def update_nameinput_options(search_value, value):
+    if not search_value:
+        raise PreventUpdate
+    # Make sure that the set values are in the option list, else they will disappear
+    # from the shown select list, but still part of the `value`.
+    return [
+        o for o in all_names if search_value.lower() in o.lower() or o.lower() in ([v.lower() for v in value] or [])
+    ]
+
+# update h2hinput options
+@dash.callback(
+    Output("h2hinput1", "options"),
+    Input("h2hinput1", "search_value")
+)
+def update_h2hinput1_options(search_value):
+    if not search_value:
+        raise PreventUpdate
+    return [o for o in all_names if search_value.lower() in o.lower()]
+
+@dash.callback(
+    Output("h2hinput2", "options"),
+    Input("h2hinput2", "search_value")
+)
+def update_h2hinput2_options(search_value):
+    if not search_value:
+        raise PreventUpdate
+    return [o for o in all_names if search_value.lower() in o.lower()]
 
 # career or date
 @dash.callback(

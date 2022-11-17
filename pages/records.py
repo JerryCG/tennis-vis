@@ -1,33 +1,18 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import Dash, html, dcc, dash_table
+from dash import html, dcc, dash_table
 import dash
-import plotly.express as px
 import pandas as pd
-import plotly.figure_factory as ff
 import numpy as np
 from dash.dependencies import Input, Output, State
-import plotly.graph_objects as go
-from datetime import date as dt
+from dash.exceptions import PreventUpdate
 
 # get partial names
 all_names = []
-with open('mp.txt', 'r') as f:
-    cnt = 0
+with open('mwplayerlist_processed.txt', 'r') as f:
     for line in f:
         all_names.append(line[:-1])
-        cnt += 1
-        if cnt == 3000:
-            break
-with open('wp.txt', 'r') as f:
-    cnt = 0
-    for line in f:
-        all_names.append(line[:-1])
-        cnt += 1
-        if cnt == 3000:
-            break
-
 
 # load txt files
 def load_txt(name):
@@ -190,8 +175,8 @@ layout = html.Div(children=[
                 className = 'column5',
                 clearable = True,
             ),
-            dcc.Dropdown(id="recordsname", options = all_names, value = '(M) Novak Djokovic', placeholder = 'Player Name', clearable = False, style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
-            dcc.Dropdown(id="recordsoppo", options = all_names, placeholder = 'All Opponents', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsname", search_value = '(M) Novak Djokovic', value = '(M) Novak Djokovic', placeholder = 'Player Name', clearable = False, style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsoppo", placeholder = 'All Opponents', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordssurface", options = ['Hard', 'Grass', 'Clay'], placeholder = 'All Surfaces', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordsmatch", options = ['GS', 'Wimbledon', 'US Open', 'Australian Open', 'Roland Garros', 'ATP Finale', 'ATP1000', 'Olympics', 'Indian Wells Masters', 'Miami Masters', 'Monte Carlo Masters', 'Madrid Masters', 'Rome Masters', 'Canada Masters', 'Cincinnati Masters', 'Shanghai Masters', 'Paris Masters', 'Hamburg Masters'], placeholder = 'All Tournaments', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             ], className = 'row5'
@@ -215,6 +200,25 @@ layout = html.Div(children=[
     ]),
 ]
 )
+
+# update recordsname/oppo options
+@dash.callback(
+    Output("recordsname", "options"),
+    Input("recordsname", "search_value")
+)
+def update_recordsname_options(search_value):
+    if not search_value:
+        raise PreventUpdate
+    return [o for o in all_names if search_value.lower() in o.lower()]
+
+@dash.callback(
+    Output("recordsoppo", "options"),
+    Input("recordsoppo", "search_value")
+)
+def update_recordsoppo_options(search_value):
+    if not search_value:
+        raise PreventUpdate
+    return [o for o in all_names if search_value.lower() in o.lower()]
 
 # records
 @dash.callback(

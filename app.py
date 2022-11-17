@@ -1,15 +1,8 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import Dash, html, dcc, dash_table
+from dash import Dash, html, dcc
 import dash
-import plotly.express as px
-import pandas as pd
-import plotly.figure_factory as ff
-import numpy as np
-from dash.dependencies import Input, Output, State
-import plotly.graph_objects as go
-from datetime import date as dt
 
 app = Dash(__name__, use_pages=True)
 
@@ -48,7 +41,7 @@ app.layout = html.Div([
     html.Footer(
         children=[
             html.Div('@2022 Copyright of raw data belong to tennisabstract.com - fair use for scraping, processing, and visualizing tennis data'),
-            html.Div('@This is TennisVis Version 1.6 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
+            html.Div('@This is TennisVis Version 1.7 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
         ]
     )
 ])
