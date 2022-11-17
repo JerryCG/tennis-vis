@@ -20,7 +20,7 @@ input {
 }
 
 .DateInput {
-  width: 80px;
+  width: 90px;
   background: rgb(17,17,17) !important;
   border-radius: 30px;
 }
@@ -30,7 +30,7 @@ input {
   font-family: Candara;
   font-weight: bold;
   font-size: 16px;
-  padding: 0px;
+  padding: 5px;
   padding-left: 8px;
   color: #A0AABA !important;
   border-radius: 30px;
@@ -51,6 +51,17 @@ input {
   padding-right: 20px;
   color: #A0AABA !important;
 
+}
+
+#records {
+  margin: 10px;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner td, .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+  font-family: Candara;
+  color: #A0AABA;
+  background-color: rgb(17,17,17) !important;
+  text-align: left;
 }
 
 .Select-value-label {
@@ -130,3 +141,24 @@ input {
       width: 100%;
     }
   }
+
+    /* Create 5 equal columns that floats next to each other */
+    .column5 {
+      float: left;
+      width: 20%;
+      padding: 10px;
+    }
+    
+    /* Clear floats after the columns */
+    .row5:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    /* Responsive layout - makes the ten columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 1300px) {
+      .column5 {
+        width: 100%;
+      }
+    }

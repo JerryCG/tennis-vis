@@ -1,7 +1,7 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import Dash, html, dcc
+from dash import Dash, html, dcc, dash_table
 import plotly.express as px
 import pandas as pd
 import plotly.figure_factory as ff
@@ -1035,6 +1035,115 @@ def wrgsr(names, gs = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros
                     )
     return fig
 
+# define functions to search for match records
+
+def records(name, date, oppo, surface, match, round, result, streak, layout):
+    # name, date, opponent, match name, round, result, show longest win/loss streak, lite/all stats layout
+    df = clean_df(load_txt(name), date)
+    # select date
+    if date != [None, None]:
+        if date[0] == None:
+            df = df[df['Date'] <= date[1]].reset_index(drop=True)
+        elif date[1] == None:
+            df = df[df['Date'] >= date[0]].reset_index(drop=True)
+        else:
+            df = df[(df['Date'] >= date[0]) & (df['Date'] <= date[1])].reset_index(drop=True)
+    # select opponent
+    if oppo != None:
+        df = df[(df['WP'] == oppo[4:]) | (df['LP'] == oppo[4:])].reset_index(drop=True)
+    # select surface
+    if surface != None:
+        df = df[df['Surface'] == surface].reset_index(drop=True)
+    # select match
+    if match != None:
+        if match == 'GS':
+            gs = ['Wimbledon', 'US Open', 'Australian Open', 'Roland Garros']
+            df = df[df['Tournament'].isin(gs)].reset_index(drop=True)
+        elif match == 'Olympics':
+            df = df[df['Tournament'].str.contains('Olympics')].reset_index(drop=True)
+        elif match == 'ATP1000':
+            atp1000 = ['Indian Wells Masters', 'Miami Masters', 'Monte Carlo Masters', 'Madrid Masters', 'Rome Masters', 'Canada Masters', 'Cincinnati Masters', 'Shanghai Masters', 'Paris Masters', 'Hamburg Masters']
+            df = df[df['Tournament'].isin(atp1000)].reset_index(drop=True)
+        elif match == 'ATP Finale':
+            df = df[df['Tournament'].isin(['Tour Finals', 'Masters Cup'])].reset_index(drop=True)
+        else:
+            df = df[df['Tournament'] == match].reset_index(drop=True)
+    # select round
+    if round != None:
+        df = df[df['Rd'] == round].reset_index(drop=True)
+    # select result
+    if result != None:
+        if result == 'Win':
+            df = df[df['W'] == 1].reset_index(drop=True)
+        else:
+            df = df[df['W'] == 0].reset_index(drop=True)
+    # select streak
+    if streak == 'Longest Wins':
+        startend = []
+        pair = []
+        for i in range(len(df)):
+            if i == 0:
+                if df['W'][i] == 1:
+                    pair.append(i)
+                if (df['W'][i] == 1) and (df['W'][i + 1] == 0):
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+            elif i == len(df) -1:
+                if (df['W'][i] == 1) and (df['W'][i - 1] == 0):
+                    pair.append(i)
+                if df['W'][i] == 1:
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+            else:
+                if (df['W'][i] == 1) and (df['W'][i - 1] == 0):
+                    pair.append(i)
+                if (df['W'][i] == 1) and (df['W'][i + 1] == 0):
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+        # get the most recent longest streak
+        indice = np.argmax([(se[1] - se[0]) for se in startend])
+        df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+    elif streak == 'Longest Losses':
+        startend = []
+        pair = []
+        for i in range(len(df)):
+            if i == 0:
+                if df['W'][i] == 0:
+                    pair.append(i)
+                if (df['W'][i] == 0) and (df['W'][i + 1] == 1):
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+            elif i == len(df) - 1:
+                if (df['W'][i] == 0) and (df['W'][i - 1] == 1):
+                    pair.append(i)
+                if df['W'][i] == 0:
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+            else:
+                if (df['W'][i] == 0) and (df['W'][i - 1] == 1):
+                    pair.append(i)
+                if (df['W'][i] == 0) and (df['W'][i + 1] == 1):
+                    pair.append(i)
+                    startend.append(pair)
+                    pair = []
+        # get the most recent longest streak
+        indice = np.argmax([(se[1] - se[0]) for se in startend])
+        df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+
+    # modify date, add Index to facilitate count
+    df['Date'] = [str(d)[:10] for d in df['Date']]
+    df.insert(loc = 0, column = 'Index', value = [(i + 1) for i in range(len(df))])
+
+    # select layout
+    if layout == 'Lite':
+        return df[['Index', 'Date', 'Tournament', 'Surface', 'Rd', 'W', 'WP', 'LP', 'Score', 'Time']].to_dict('records')
+    else:
+        return df.to_dict('records')
 
 # create app
 app = Dash(__name__)
@@ -1228,11 +1337,44 @@ app.layout = html.Div(children=[
     ], style={'background': 'rgb(17,17,17)'}, className='row3'
     ),
 
+    # section for a record search table
+    html.Div(children=[
+        html.Div(children=[
+            dcc.DatePickerRange(id="recordsdate",
+                start_date_placeholder_text = 'Start Date',
+                end_date_placeholder_text = 'End Date',
+                className = 'column5',
+                clearable = True,
+            ),
+            dcc.Dropdown(id="recordsname", options = all_names, value = '(M) Novak Djokovic', placeholder = 'Player Name', clearable = False, style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsoppo", options = all_names, placeholder = 'All Opponents', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordssurface", options = ['Hard', 'Grass', 'Clay'], placeholder = 'All Surfaces', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsmatch", options = ['GS', 'Wimbledon', 'US Open', 'Australian Open', 'Roland Garros', 'ATP Finale', 'ATP1000', 'Olympics', 'Indian Wells Masters', 'Miami Masters', 'Monte Carlo Masters', 'Madrid Masters', 'Rome Masters', 'Canada Masters', 'Cincinnati Masters', 'Shanghai Masters', 'Paris Masters', 'Hamburg Masters'], placeholder = 'All Tournaments', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            ], className = 'row5'
+        ),    
+        html.Div(children=[
+            dcc.Dropdown(id="recordsround", options = ['R128', 'R64', 'R32', 'R16', 'QF', 'SF', 'F', 'RR'], placeholder = 'All Rounds', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsresult", options = ['Win', 'Lose'], placeholder = 'All Results', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsstreak", options = ['Longest Wins', 'Longest Losses'], placeholder = 'No Streak Selection', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordslayout", options = ['Lite', 'All Stats'], clearable = False, value = 'Lite', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            html.Button("Search Records", id='recordssearch', n_clicks = 0, style = {'padding': '5px', 'margin-top':'10px', 'margin-left': '25px', 'margin-right': 'auto', 'font-size': '20px', 'color': 'gold', 'background-color': 'rgb(17,17,17)', 'border-radius': '12px', 'border-color': 'gold', 'cursor': 'pointer', 'width': '200px'}, className = 'column5'),
+            ], className = 'row5',
+        ),
+        dash_table.DataTable(
+            page_size = 50,
+            style_table={'height': '300px', 'overflowY': 'auto', 'overflowX': 'auto'},
+            id = 'records',
+            style_data={
+                'whiteSpace': 'normal',
+            },
+        ),
+    ]),
+
     # section for footer
     html.Footer(
         children=[
             html.Div('@2022 Copyright of raw data belong to tennisabstract.com - fair use for scraping, processing, and visualizing tennis data'),
-            html.Div('@This is TennisVis Version 1.4 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
+            html.Div('@This is TennisVis Version 1.5 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
         ]
     )
 ]
@@ -1406,6 +1548,25 @@ def update_wrgsr(state, input, gs, start, end):
     except:
         fig = wrgsr([input], gs, [start, end])
     return fig
+
+# records
+@app.callback(
+    Output('records', 'data'),
+    [Input('recordssearch', 'n_clicks')],
+    [State('recordsname', 'value')],
+    [State('recordsdate', 'start_date')],
+    [State('recordsdate', 'end_date')],
+    [State('recordsoppo', 'value')],
+    [State('recordssurface', 'value')],
+    [State('recordsmatch', 'value')],
+    [State('recordsround', 'value')],
+    [State('recordsresult', 'value')],
+    [State('recordsstreak', 'value')],
+    [State('recordslayout', 'value')],
+)
+def update_records(state, name, start, end, oppo, surface, match, round, result, streak, layout):
+    data = records(name, [start, end], oppo, surface, match, round, result, streak, layout)
+    return data
 
 if __name__ == '__main__':
     app.run_server(debug=True)
