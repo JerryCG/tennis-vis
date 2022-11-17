@@ -1,12 +1,12 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-from dash import html, dcc, dash_table
 import dash
-import pandas as pd
-import numpy as np
+from dash import html, dcc, dash_table
 from dash.dependencies import Input, Output, State
 from dash.exceptions import PreventUpdate
+import pandas as pd
+import numpy as np
 
 # get partial names
 all_names = []

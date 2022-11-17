@@ -11,6 +11,7 @@ server = app.server
 app.title = "TennisVis"
 
 app.layout = html.Div([
+    # section for head
     html.Div(children=[
         html.Img(src='assets/logotennis.png', alt='logo', style={'width': '180px', 'margin-left': '-20px'}),
         html.Div(children=[
@@ -23,7 +24,7 @@ app.layout = html.Div([
         ]
     ),
     ]),
-
+    # section for navigation bar
     html.Div(
         [
             html.Div(
