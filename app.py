@@ -42,7 +42,7 @@ app.layout = html.Div([
     html.Footer(
         children=[
             html.Div('@2022 Copyright of raw data belong to tennisabstract.com - fair use for scraping, processing, and visualizing tennis data'),
-            html.Div('@This is TennisVis Version 1.7 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
+            html.Div('@This is TennisVis Version 1.8 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
         ]
     )
 ])

@@ -1,0 +1,101 @@
+Date,Rank,Country,Image,Player,Points
+2022-11-07,1,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Carlos Alcaraz,6820
+2022-11-07,2,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Rafael Nadal,5820
+2022-11-07,3,GRE,https://www.atptour.com/en/~/media/images/flags/gre.svg,Stefanos Tsitsipas,5350
+2022-11-07,4,NOR,https://www.atptour.com/en/~/media/images/flags/nor.svg,Casper Ruud,5020
+2022-11-07,5,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Daniil Medvedev,4065
+2022-11-07,6,CAN,https://www.atptour.com/en/~/media/images/flags/can.svg,Felix Auger-Aliassime,3995
+2022-11-07,7,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Andrey Rublev,3530
+2022-11-07,8,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Novak Djokovic,3320
+2022-11-07,9,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Taylor Fritz,2955
+2022-11-07,10,DEN,https://www.atptour.com/en/~/media/images/flags/den.svg,Holger Rune,2911
+2022-11-07,11,POL,https://www.atptour.com/en/~/media/images/flags/pol.svg,Hubert Hurkacz,2905
+2022-11-07,12,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Alexander Zverev,2700
+2022-11-07,13,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Pablo Carreno Busta,2495
+2022-11-07,14,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Cameron Norrie,2445
+2022-11-07,15,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Jannik Sinner,2410
+2022-11-07,16,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Matteo Berrettini,2375
+2022-11-07,17,CAN,https://www.atptour.com/en/~/media/images/flags/can.svg,Denis Shapovalov,2225
+2022-11-07,18,CRO,https://www.atptour.com/en/~/media/images/flags/cro.svg,Marin Cilic,2105
+2022-11-07,19,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Frances Tiafoe,2090
+2022-11-07,20,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Karen Khachanov,1990
+2022-11-07,21,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Roberto Bautista Agut,1940
+2022-11-07,22,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Nick Kyrgios,1870
+2022-11-07,23,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Lorenzo Musetti,1865
+2022-11-07,24,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Alex de Minaur,1790
+2022-11-07,25,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Diego Schwartzman,1700
+2022-11-07,26,CRO,https://www.atptour.com/en/~/media/images/flags/cro.svg,Borna Coric,1685
+2022-11-07,27,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Daniel Evans,1585
+2022-11-07,28,BUL,https://www.atptour.com/en/~/media/images/flags/bul.svg,Grigor Dimitrov,1460
+2022-11-07,29,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Tommy Paul,1440
+2022-11-07,30,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Francisco Cerundolo,1425
+2022-11-07,31,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Miomir Kecmanovic,1420
+2022-11-07,32,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Alejandro Davidovich Fokina,1300
+2022-11-07,33,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Maxime Cressy,1251
+2022-11-07,34,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Sebastian Korda,1175
+2022-11-07,35,NED,https://www.atptour.com/en/~/media/images/flags/ned.svg,Botic van de Zandschulp,1160
+2022-11-07,36,JPN,https://www.atptour.com/en/~/media/images/flags/jpn.svg,Yoshihito Nishioka,1134
+2022-11-07,37,KAZ,https://www.atptour.com/en/~/media/images/flags/kaz.svg,Alexander Bublik,1130
+2022-11-07,38,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Reilly Opelka,1095
+2022-11-07,39,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Albert Ramos-Vinolas,1075
+2022-11-07,40,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Sebastian Baez,1047
+2022-11-07,41,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Jack Draper,1020
+2022-11-07,42,FIN,https://www.atptour.com/en/~/media/images/flags/fin.svg,Emil Ruusuvuori,1011
+2022-11-07,43,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,John Isner,1005
+2022-11-07,44,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Arthur Rinderknech,986
+2022-11-07,45,SVK,https://www.atptour.com/en/~/media/images/flags/svk.svg,Alex Molcan,968
+2022-11-07,46,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Andy Murray,965
+2022-11-07,47,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Lorenzo Sonego,950
+2022-11-07,48,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Adrian Mannarino,946
+2022-11-07,49,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Brandon Nakashima,927
+2022-11-07,50,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Jenson Brooksby,920
+2022-11-07,51,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Corentin Moutet,892
+2022-11-07,52,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Gael Monfils,880
+2022-11-07,53,BEL,https://www.atptour.com/en/~/media/images/flags/bel.svg,David Goffin,870
+2022-11-07,54,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Filip Krajinovic,865
+2022-11-07,55,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Pedro Cachin,856
+2022-11-07,56,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Fabio Fognini,843
+2022-11-07,57,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Jaume Munar,839
+2022-11-07,58,SUI,https://www.atptour.com/en/~/media/images/flags/sui.svg,Marc-Andrea Huesler,825
+2022-11-07,59,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Oscar Otte,821
+2022-11-07,60,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Aslan Karatsev,795
+2022-11-07,61,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Pedro Martinez,785
+2022-11-07,62,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Benjamin Bonzi,781
+2022-11-07,63,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Marcos Giron,776
+2022-11-07,64,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Mackenzie McDonald,775
+2022-11-07,65,BRA,https://www.atptour.com/en/~/media/images/flags/bra.svg,Thiago Monteiro,770
+2022-11-07,66,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,J.J. Wolf,767
+2022-11-07,67,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Quentin Halys,767
+2022-11-07,68,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Federico Coria,764
+2022-11-07,69,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Constant Lestienne,760
+2022-11-07,70,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Richard Gasquet,748
+2022-11-07,71,SWE,https://www.atptour.com/en/~/media/images/flags/swe.svg,Mikael Ymer,747
+2022-11-07,72,COL,https://www.atptour.com/en/~/media/images/flags/col.svg,Daniel Elahi Galan,741
+2022-11-07,73,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Laslo Djere,738
+2022-11-07,74,CZE,https://www.atptour.com/en/~/media/images/flags/cze.svg,Jiri Lehecka,715
+2022-11-07,75,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Bernabe Zapata Miralles,712
+2022-11-07,76,BLR,https://www.atptour.com/en/~/media/images/flags/blr.svg,Ilya Ivashka,705
+2022-11-07,77,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Roberto Carballes Baena,695
+2022-11-07,78,POR,https://www.atptour.com/en/~/media/images/flags/por.svg,Joao Sousa,686
+2022-11-07,79,MDA,https://www.atptour.com/en/~/media/images/flags/mda.svg,Radu Albot,684
+2022-11-07,80,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Daniel Altmaier,682
+2022-11-07,81,NED,https://www.atptour.com/en/~/media/images/flags/ned.svg,Tallon Griekspoor,674
+2022-11-07,82,POL,https://www.atptour.com/en/~/media/images/flags/pol.svg,Kamil Majchrzak,653
+2022-11-07,83,KOR,https://www.atptour.com/en/~/media/images/flags/kor.svg,Soonwoo Kwon,630
+2022-11-07,84,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Christopher O'Connell,630
+2022-11-07,85,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Tomas Martin Etcheverry,628
+2022-11-07,86,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Jordan Thompson,626
+2022-11-07,87,CHI,https://www.atptour.com/en/~/media/images/flags/chi.svg,Cristian Garin,615
+2022-11-07,88,CHI,https://www.atptour.com/en/~/media/images/flags/chi.svg,Alejandro Tabilo,615
+2022-11-07,89,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Ugo Humbert,613
+2022-11-07,90,TPE,https://www.atptour.com/en/~/media/images/flags/tpe.svg,Chun-Hsin Tseng,611
+2022-11-07,91,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Roman Safiullin,606
+2022-11-07,92,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Gregoire Barrere,603
+2022-11-07,93,POR,https://www.atptour.com/en/~/media/images/flags/por.svg,Nuno Borges,599
+2022-11-07,94,JPN,https://www.atptour.com/en/~/media/images/flags/jpn.svg,Taro Daniel,594
+2022-11-07,95,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Thanasi Kokkinakis,592
+2022-11-07,96,GEO,https://www.atptour.com/en/~/media/images/flags/geo.svg,Nikoloz Basilashvili,575
+2022-11-07,97,BOL,https://www.atptour.com/en/~/media/images/flags/bol.svg,Hugo Dellien,575
+2022-11-07,98,CHN,https://www.atptour.com/en/~/media/images/flags/chn.svg,Zhizhen Zhang,569
+2022-11-07,99,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Dusan Lajovic,566
+2022-11-07,100,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Pavel Kotov,564
