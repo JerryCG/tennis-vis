@@ -66,7 +66,27 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
             df = df[(df['Date'] >= date[0]) & (df['Date'] <= date[1])].reset_index(drop=True)
     # select opponent
     if oppo != None:
-        df = df[(df['WP'] == oppo[4:]) | (df['LP'] == oppo[4:])].reset_index(drop=True)
+        big4 = ['Novak Djokovic', 'Rafael Nadal', 'Roger Federer', 'Andy Murray']
+        if oppo == 'Big4':
+            df = df[(df['WP'].isin(big4)) | (df['LP'].isin(big4))].reset_index(drop=True)
+        elif oppo == 'Big3':
+            df = df[(df['WP'].isin(big4[:3])) | (df['LP'].isin(big4[:3]))].reset_index(drop=True)
+        elif oppo == 'Big2':
+            df = df[(df['WP'].isin(big4[:2])) | (df['LP'].isin(big4[:2]))].reset_index(drop=True)
+        elif oppo == 'Top10':
+            df = df[(df['vRk'] <= 10)].reset_index(drop=True)
+        elif oppo == 'Top20':
+            df = df[(df['vRk'] <= 20)].reset_index(drop=True)
+        elif oppo == 'Top30':
+            df = df[(df['vRk'] <= 30)].reset_index(drop=True)
+        elif oppo == 'Top40':
+            df = df[(df['vRk'] <= 40)].reset_index(drop=True)
+        elif oppo == 'Top50':
+            df = df[(df['vRk'] <= 50)].reset_index(drop=True)
+        elif oppo == 'Top100':
+            df = df[(df['vRk'] <= 1-0)].reset_index(drop=True)
+        else:
+            df = df[(df['WP'] == oppo[4:]) | (df['LP'] == oppo[4:])].reset_index(drop=True)
     # select surface
     if surface != None:
         df = df[df['Surface'] == surface].reset_index(drop=True)
@@ -167,7 +187,7 @@ dash.register_page(__name__, name = 'Records Search')
 layout = html.Div(children=[
     # section for a record search table
     html.Div(children=[
-        html.H2('Select with below criteria to search for match records:'),
+        html.H2('Select with below criteria to search for match records:', style = {'padding-left':'10px'}),
         html.Div(children=[
             dcc.DatePickerRange(id="recordsdate",
                 start_date_placeholder_text = 'Start Date',
@@ -218,7 +238,7 @@ def update_recordsname_options(search_value):
 def update_recordsoppo_options(search_value):
     if not search_value:
         raise PreventUpdate
-    return [o for o in all_names if search_value.lower() in o.lower()]
+    return [o for o in all_names + ['Big4', 'Big3', 'Big2', 'Top10', 'Top20', 'Top30', 'Top40', 'Top50', 'Top100'] if search_value.lower() in o.lower()]
 
 # records
 @dash.callback(
