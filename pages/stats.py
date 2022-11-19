@@ -752,12 +752,12 @@ def gswlc(names, date = [None, None]):
 # bigheart
 def bigheart(names, date = [None, None]):
     dfs = [clean_df(load_txt(name), date) for name in names]
-    attrs = ['Lose 1 -> Win 2', 'Lose 2 -> Win 3']
+    attrs = ['Lose 1 -> Win 2 Match', 'Lose 2 -> Win 3 Match', 'Tie-break-win Set']
 
     fig = go.Figure()
 
     for i, name in enumerate(names):
-        cnt = [0,0]
+        cnt = [0,0,0]
         # lose 1 -> win 2
         for r in dfs[i][(dfs[i]['W'] == 1) & (dfs[i]['Sets'] == 3)]['Score']:
             try:
@@ -774,7 +774,25 @@ def bigheart(names, date = [None, None]):
                     cnt[1] += 1
             except:
                 pass
-        
+        # tie-break-win
+        for j in range(len(dfs[i])):
+            try:
+                sets = dfs[i]['Score'][j].split(' ')
+                if dfs[i]['W'][j] == 1:
+                    for set in sets:
+                        if '(' in set:
+                            res = set.split('-')
+                            if int(res[0]) > int(res[1].split('(')[0]):
+                                cnt[2] += 1
+                else:
+                    for set in sets:
+                        if '(' in set:
+                            res = set.split('-')
+                            if int(res[0]) < int(res[1].split('(')[0]):
+                                cnt[2] += 1
+            except:
+                pass
+
         fig.add_trace(go.Bar(
             x = attrs,
             y = cnt,
@@ -791,7 +809,7 @@ def bigheart(names, date = [None, None]):
         else:
             datetext = '- (' + date[0] + ' ~ ' + date[1] + ')'
 
-    fig.update_layout(title_text = 'Big Heart Matches ' + datetext,
+    fig.update_layout(title_text = 'Big Heart Matches/Sets ' + datetext,
                         xaxis_title = "Scenarios",
                         yaxis_title = "Win Counts",
                         template = 'plotly_dark',
@@ -802,12 +820,12 @@ def bigheart(names, date = [None, None]):
 # crystalheart
 def crystalheart(names, date = [None, None]):
     dfs = [clean_df(load_txt(name), date) for name in names]
-    attrs = ['Win 1 -> Lose 2', 'Win 2 -> Lose 3']
+    attrs = ['Win 1 -> Lose 2 Match', 'Win 2 -> Lose 3 Match', 'Tie-break-lose Set']
 
     fig = go.Figure()
 
     for i, name in enumerate(names):
-        cnt = [0,0]
+        cnt = [0,0,0]
         # Win 1 -> Lose 2
         for r in dfs[i][(dfs[i]['W'] == 0) & (dfs[i]['Sets'] == 3)]['Score']:
             try:
@@ -824,7 +842,25 @@ def crystalheart(names, date = [None, None]):
                     cnt[1] += 1
             except:
                 pass
-        
+        # tie-break-lose
+        for j in range(len(dfs[i])):
+            try:
+                sets = dfs[i]['Score'][j].split(' ')
+                if dfs[i]['W'][j] == 1:
+                    for set in sets:
+                        if '(' in set:
+                            res = set.split('-')
+                            if int(res[0]) < int(res[1].split('(')[0]):
+                                cnt[2] += 1
+                else:
+                    for set in sets:
+                        if '(' in set:
+                            res = set.split('-')
+                            if int(res[0]) > int(res[1].split('(')[0]):
+                                cnt[2] += 1
+            except:
+                pass
+
         fig.add_trace(go.Bar(
             x = attrs,
             y = cnt,
@@ -841,7 +877,7 @@ def crystalheart(names, date = [None, None]):
         else:
             datetext = '- (' + date[0] + ' ~ ' + date[1] + ')'
 
-    fig.update_layout(title_text = 'Crystal Heart Matches ' + datetext,
+    fig.update_layout(title_text = 'Crystal Heart Matches/Sets ' + datetext,
                         xaxis_title = "Scenarios",
                         yaxis_title = "Lose Counts",
                         template = 'plotly_dark',
@@ -1144,8 +1180,8 @@ layout = html.Div(children=[
             dcc.Tabs(id="thrilltabs", value='wlc', children=[
                 dcc.Tab(label='Wins vs Losses', value='wlc', className='tab_style', selected_className='tab_selected_style'),
                 dcc.Tab(label='GS Wins vs GS Losses', value='gswlc', className='tab_style', selected_className='tab_selected_style'),
-                dcc.Tab(label='Big Heart Matches', value='bigheart', className='tab_style', selected_className='tab_selected_style'),
-                dcc.Tab(label='Crystal Heart Matches', value='crystalheart', className='tab_style', selected_className='tab_selected_style'),
+                dcc.Tab(label='Big Heart', value='bigheart', className='tab_style', selected_className='tab_selected_style'),
+                dcc.Tab(label='Crystal Heart', value='crystalheart', className='tab_style', selected_className='tab_selected_style'),
             ], className='tabs_styles'),
             dcc.Graph(id='thrill', figure = thrill(['(M) Novak Djokovic'], 'wlc')),
         ], className = 'column2'

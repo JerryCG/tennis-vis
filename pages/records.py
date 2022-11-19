@@ -111,8 +111,12 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
     if result != None:
         if result == 'Win':
             df = df[df['W'] == 1].reset_index(drop=True)
-        else:
+        elif result == 'Lose':
             df = df[df['W'] == 0].reset_index(drop=True)
+        elif result == 'Tie-break Win':
+            df = df[(df['W'] == 1) & ([True if s[-1] == ')' else False for s in df['Score']])].reset_index(drop=True)
+        else:
+            df = df[(df['W'] == 0) & ([True if s[-1] == ')' else False for s in df['Score']])].reset_index(drop=True)
     # select streak
     if streak == 'Longest Wins':
         startend = []
@@ -203,7 +207,7 @@ layout = html.Div(children=[
         ),    
         html.Div(children=[
             dcc.Dropdown(id="recordsround", options = ['R128', 'R64', 'R32', 'R16', 'QF', 'SF', 'F', 'RR'], placeholder = 'All Rounds', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
-            dcc.Dropdown(id="recordsresult", options = ['Win', 'Lose'], placeholder = 'All Results', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordsresult", options = ['Win', 'Lose', 'Tie-break Win', 'Tie-break Lose'], placeholder = 'All Results', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordsstreak", options = ['Longest Wins', 'Longest Losses'], placeholder = 'No Streak Selection', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordslayout", options = ['Lite', 'All Stats'], clearable = False, value = 'Lite', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             html.Button("Search Records", id='recordssearch', n_clicks = 0, style = {'padding': '5px', 'margin-top':'10px', 'margin-left': '25px', 'margin-right': 'auto', 'font-size': '20px', 'color': 'gold', 'background-color': 'rgb(17,17,17)', 'border-radius': '12px', 'border-color': 'gold', 'cursor': 'pointer', 'width': '200px'}, className = 'column5'),
