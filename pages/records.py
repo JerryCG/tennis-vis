@@ -144,8 +144,12 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
                     startend.append(pair)
                     pair = []
         # get the most recent longest streak
-        indice = np.argmax([(se[1] - se[0]) for se in startend])
-        df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+        try:
+            indice = np.argmax([(se[1] - se[0]) for se in startend])
+            df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+        except:
+            df = df[[False for i in range(len(df))]].reset_index(drop=True)
+
     elif streak == 'Longest Losses':
         startend = []
         pair = []
@@ -172,8 +176,11 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
                     startend.append(pair)
                     pair = []
         # get the most recent longest streak
-        indice = np.argmax([(se[1] - se[0]) for se in startend])
-        df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+        try:
+            indice = np.argmax([(se[1] - se[0]) for se in startend])
+            df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
+        except:
+            df = df[[False for i in range(len(df))]].reset_index(drop=True)
 
     # modify date, add Index to facilitate count
     df['Date'] = [str(d)[:10] for d in df['Date']]
