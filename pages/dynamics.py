@@ -27,9 +27,9 @@ layout = html.Div(children = [
             ),
             ],className='column2'
             ),
-        ], className='row2'
-        ),
-        html.Br(),
-        html.Br(),
-    ])
+    ], className='row2'
+    ),
+    html.Br(),
+    html.Br(),
+])
 
