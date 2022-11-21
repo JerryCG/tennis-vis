@@ -15,6 +15,9 @@ US Open,Andy Roddick,1
 Wimbledon,Arthur Ashe,1
 US Open,Arthur Ashe,1
 Australian Open,Arthur Ashe,1
+Wimbledon,Ashley Cooper,1
+US Open,Ashley Cooper,1
+Australian Open,Ashley Cooper,2
 Wimbledon,Bjorn Borg,5
 Roland Garros,Bjorn Borg,6
 Wimbledon,Boris Becker,3
@@ -23,11 +26,14 @@ Australian Open,Boris Becker,2
 Australian Open,Brian Teacher,1
 US Open,Carlos Alcaraz,1
 Roland Garros,Carlos Moya,1
+Wimbledon,Charles Mckinley,1
 US Open,Daniil Medvedev,1
 US Open,Dominic Thiem,1
 Wimbledon,Frank Arthur Sedgman,1
 US Open,Frank Arthur Sedgman,2
 Australian Open,Frank Arthur Sedgman,2
+US Open,Frank Parker,2
+Roland Garros,Frank Parker,2
 US Open,Fred Stolle,1
 Roland Garros,Fred Stolle,1
 Roland Garros,Gaston Gaudio,1
@@ -43,6 +49,8 @@ Australian Open,Ivan Lendl,2
 Roland Garros,Ivan Lendl,3
 Wimbledon,Jan Kodes,1
 Roland Garros,Jan Kodes,2
+Wimbledon,Jaroslav Drobny,1
+Roland Garros,Jaroslav Drobny,2
 Australian Open,Jim Courier,2
 Roland Garros,Jim Courier,2
 Wimbledon,Jimmy Connors,2
@@ -54,6 +62,7 @@ US Open,John Mcenroe,4
 Wimbledon,John Newcombe,3
 US Open,John Newcombe,2
 Australian Open,John Newcombe,2
+Roland Garros,Jozsef Asboth,1
 Roland Garros,Juan Carlos Ferrero,1
 US Open,Juan Martin Del Potro,1
 US Open,Ken Rosewall,2
@@ -76,6 +85,8 @@ Australian Open,Mark Edmondson,1
 US Open,Mats Wilander,1
 Australian Open,Mats Wilander,3
 Roland Garros,Mats Wilander,3
+Australian Open,Mervyn Rose,1
+Roland Garros,Mervyn Rose,1
 Roland Garros,Michael Chang,1
 Wimbledon,Michael Stich,1
 Wimbledon,Neale Fraser,1
@@ -120,6 +131,8 @@ Roland Garros,Stan Wawrinka,1
 Wimbledon,Stefan Edberg,2
 US Open,Stefan Edberg,2
 Australian Open,Stefan Edberg,2
+Wimbledon,Ted Schroeder,1
+US Open,Ted Schroeder,1
 Australian Open,Thomas Johansson,1
 Roland Garros,Thomas Muster,1
 Roland Garros,Tony Roche,1
