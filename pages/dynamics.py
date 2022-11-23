@@ -15,7 +15,7 @@ layout = html.Div(children = [
                 sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation',
             ),
         ],className='column2'
-        ),
+        ), 
         html.Div(children=[
             html.H2('GS Counts of Big ATP Players from 1990 to 2022'),
             html.Iframe(

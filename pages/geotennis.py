@@ -32,7 +32,7 @@ def atp100geo():
 
     fig = px.scatter_mapbox(df, lat="Lat", lon="Lon", hover_name="Player", hover_data=["Rank", "Points", "Birthplace"], color="Points", size = "Points",
                             color_discrete_sequence=["fuchsia"], zoom=1, mapbox_style="open-street-map", height=500,
-                            animation_frame="Date", animation_group="Player", 
+   #                         animation_frame="Date", animation_group="Player", 
                             template="plotly_dark")
 
     fig.update_layout(mapbox_style="dark", mapbox_accesstoken=token)
