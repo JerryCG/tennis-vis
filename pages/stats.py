@@ -27,7 +27,13 @@ def load_txt(name):
 # define functions to clean df
 def clean_df(tuple, date = [None, None]):
     cleaned = tuple[0].replace('', np.NaN)
-    cleaned['Date'] = pd.to_datetime(cleaned['Date'])
+    temp_dates = []
+    for item in cleaned['Date']:
+        try:
+            temp_dates.append(pd.to_datetime(item))
+        except:
+            temp_dates.append(pd.to_datetime('1-'+item.split('-')[1]+'-'+item.split('-')[2]))
+    cleaned['Date'] = temp_dates
     # select date if any
     if date != [None, None]:
         if date[0] == None:
