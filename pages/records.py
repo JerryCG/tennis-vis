@@ -229,7 +229,7 @@ layout = html.Div(children=[
             },
         ),
     ]),
-]
+], style = {'text-align': 'center'}
 )
 
 # update recordsname/oppo options

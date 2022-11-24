@@ -4,7 +4,9 @@
 from dash import Dash, html, dcc
 import dash
 
-app = Dash(__name__, use_pages=True)
+app = Dash(__name__, use_pages=True, meta_tags=[
+        {"name": "viewport", "content": "width=device-width, initial-scale=1"}
+    ])
 
 server = app.server
 
@@ -16,24 +18,24 @@ app.layout = html.Div([
         html.Img(src='assets/logotennis.png', alt='logo', style={'width': '180px', 'margin-left': '-20px'}),
         html.Div(children=[
             html.Div(
-                "TennisVis", style = {'color': 'gold', 'font-size': '60px', 'display': 'inline-block'}
+                "TennisVis", style = {'color': 'gold', 'font-size': '100px', 'margin-top': '-30px'}
             ),
             html.Div(
-                "Last Update: 2022-11-14", style = {'font-size': '20px', 'font-style': 'italic','display': 'inline-block', 'margin-left': '10px'}
-            )
-        ]
+                "Last Update: 2022-11-22", style = {'font-size': '20px', 'font-style': 'italic'}
+            ),
+        ], style = {'text-align': 'center'}
     ),
     ]),
     # section for navigation bar
     html.Div(
         [
-            html.Div(
+            html.Span(
                 dcc.Link(
-                     f"{page['name']}", href=page["relative_path"]
-                )
+                     f"{page['name']}", href=page["relative_path"], 
+                ), className='column6'
             )
             for page in dash.page_registry.values()
-        ]
+        ], id = 'menu', className = 'row6'
     ),
 
 	dash.page_container,
@@ -42,7 +44,7 @@ app.layout = html.Div([
     html.Footer(
         children=[
             html.Div('@2022 Copyright of raw data belong to tennisabstract.com, atptour.com - fair use for scraping, processing, and visualizing tennis data'),
-            html.Div('@This is TennisVis Version 2.0 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
+            html.Div('@This is TennisVis Version 2.3 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
         ]
     )
 ])

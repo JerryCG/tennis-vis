@@ -27,7 +27,7 @@ layout = html.Div(children = [
             ),
         ],className='column2'
         ),
-    ], className='row2'
+    ], className='row2', style = {'text-align': 'center'}
     ),
     html.Br(),
     html.Br(),

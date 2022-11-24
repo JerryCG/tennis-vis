@@ -1248,7 +1248,8 @@ layout = html.Div(children=[
         )
     ], style={'background': 'rgb(17,17,17)'}, className='row3'
     ),
-])
+]
+)
 
 # update nameinput options
 @dash.callback(
