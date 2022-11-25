@@ -936,8 +936,8 @@ def thrill(names, mode, date = [None, None]):
         return crystalheart(names, date)
 
 # define a conprehensive wrtp functions to consider all surfaces
-def wrtpsurface(names, final = 'No', surface = ['Hard', 'Grass', 'Clay'], date = [None, None]):
-    # selection - surface: hard, grass, clay, all
+def wrtpsurface(names, final = 'No', surface = ['Hard', 'Grass', 'Clay', 'Carpet'], date = [None, None]):
+    # selection - surface: hard, grass, clay, carpet, all
     # selection - final: yes, no
     dfs = [clean_df(load_txt(name), date) for name in names]
     dic = {}
@@ -1208,7 +1208,7 @@ layout = html.Div(children=[
                     ),
                     html.Div(children=[
                         html.Label('Surface', className = 'label'),
-                        dcc.Checklist(id="surface", options = ["Hard", "Grass", "Clay"], value = ["Hard", "Grass", "Clay"]),
+                        dcc.Checklist(id="surface", options = ["Hard", "Grass", "Clay", "Carpet"], value = ["Hard", "Grass", "Clay", "Carpet"]),
                     ], style={'display': 'inline-block', 'width': '70%', 'padding': '10px'}
                     )
                     ], className = 'selection-area'

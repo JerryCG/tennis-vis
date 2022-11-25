@@ -2,7 +2,7 @@
  * A project for visualizing tennis players statistics.
  * Published Python Dash App can be found at: https://tennis-vis.herokuapp.com/
  * Raw data source: https://tennisabstract.com, https://www.atptour.com/
- * Current Version: 2.3
+ * Current Version: 2.4
  * Last data update: 2022-11-22
  * Current Functionality:
     1. [Home](https://tennis-vis.herokuapp.com/)
@@ -34,3 +34,8 @@
             - Winning ratio by surface, e.g., on Clay
             - Winning ratio by tournament, e.g., finals of Australian Open
             - Winning ratio at rounds of Grand Slam, e.g., semi-finals on US Open
+    6. [DSTennis](https://tennis-vis.herokuapp.com/ds)
+        - A currently simple interface for visualizing regression results of tennis players' stats:
+            - Variables are at the player level, e.g., height, weight, career winning ratio, career average dominant rate, left or right handed.
+            - Simple linear regression displays the scatter plots and estimated regression line.
+            - Multiple linear regression displays the estimated coefficients.

@@ -214,7 +214,7 @@ layout = html.Div(children=[
             ),
             dcc.Dropdown(id="recordsname", search_value = '(M) Novak Djokovic', value = '(M) Novak Djokovic', placeholder = 'Player Name', clearable = False, style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordsoppo", placeholder = 'All Opponents', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
-            dcc.Dropdown(id="recordssurface", options = ['Hard', 'Grass', 'Clay'], placeholder = 'All Surfaces', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
+            dcc.Dropdown(id="recordssurface", options = ['Hard', 'Grass', 'Clay', 'Carpet'], placeholder = 'All Surfaces', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             dcc.Dropdown(id="recordsmatch", options = ['GS', 'Wimbledon', 'US Open', 'Australian Open', 'Roland Garros', 'ATP Finale', 'ATP1000', 'Olympics', 'Indian Wells Masters', 'Miami Masters', 'Monte Carlo Masters', 'Madrid Masters', 'Rome Masters', 'Canada Masters', 'Cincinnati Masters', 'Shanghai Masters', 'Paris Masters', 'Hamburg Masters'], placeholder = 'All Tournaments', style = {'background-color': 'rgb(17,17,17)'}, className = 'column5'),
             ], className = 'row5'
         ),    
