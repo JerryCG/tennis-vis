@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Temuco CH,3,Hard,R32,136,432,0,4,WC,Juan Bautista Otegui,Juan Pablo Ficovich,7-5 6-2,0.83,1.4%,1.4%,64.8%,54.3%,40.0%,7/12,45.4%,42.0%,1.2%,40.4%,44.8%,2/11,152,1,1,71,46,25,1,1:41
+14-Nov-2022,Drummondville CH,3,Hard,R32,136,280,0,4,,Michael Geerts,Juan Pablo Ficovich,7-6(10) 4-6 7-5,1.01,11.1%,0.0%,69.4%,72.0%,48.5%,4/8,49.8%,35.4%,11.5%,25.4%,50.0%,4/8,221,12,0,108,75,33,13,2:47
 7-Nov-2022,Calgary CH,3,Hard,R16,140,248,0,3,,Gabriel Diallo,Juan Pablo Ficovich,6-3 6-2,0.70,9.4%,7.5%,64.2%,64.7%,31.6%,1/4,41.9%,32.8%,17.2%,20.0%,54.2%,0/8,117,5,4,53,34,19,11,1:15
 7-Nov-2022,Calgary CH,3,Hard,R32,140,298,1,3,,Juan Pablo Ficovich,Aziz Dougaz,7-6(2) 6-2,1.85,10.3%,5.2%,55.2%,90.6%,69.2%,1/1,58.3%,35.1%,7.0%,26.9%,41.9%,2/4,115,6,3,58,32,26,4,1:13
 31-Oct-2022,Charlottesville CH,3,Hard,R32,139,195,0,5,,Juncheng Shang,Juan Pablo Ficovich,6-4 3-6 6-3,0.79,16.7%,5.1%,67.9%,83.0%,48.0%,2/4,48.0%,22.2%,4.2%,14.9%,36.0%,1/3,150,13,4,78,53,25,3,1:39

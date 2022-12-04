@@ -1,4 +1,14 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,F,573,606,1,3,5,Jakub Mensik,Saba Purtseladze,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,SF,573,979,1,3,PR,Jakub Mensik,Jacopo Berrettini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,QF,573,648,1,3,6,Jakub Mensik,Kris Van Wyk,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,R16,573,1087,1,3,,Jakub Mensik,Petros Chrysochos,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,R32,573,,1,3,WC,Jakub Mensik,Shane Biddaiah,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,F,566,427,1,,8,Jakub Mensik,Oleksandr Ovcharenko,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,SF,566,306,1,,2,Jakub Mensik,Titouan Droguet,7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,QF,566,394,1,,6,Jakub Mensik,Daniel Cukierman,6-7(2) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R16,566,323,1,,3,Jakub Mensik,Billy Harris,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,566,479,1,,,Jakub Mensik,Federico Arnaboldi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,QF,576,388,0,6,4,Antoine Hoang,Jakub Mensik,6-3 0-1 RET,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,R16,576,1147,1,6,,Jakub Mensik,Florian Broska,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,R32,576,642,1,6,,Jakub Mensik,Hazem Naw,6-7(1) 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,

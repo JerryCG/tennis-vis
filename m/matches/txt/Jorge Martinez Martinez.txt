@@ -1,4 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Antalya,3,Clay,SF,632,405,0,,4,Alexander Weis,Jorge Martinez Martinez,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,QF,632,790,1,,,Jorge Martinez Martinez,Mircea Alexandru Jecan,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,R16,632,676,1,,,Jorge Martinez Martinez,Rrezart Cungu,6-2 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,R32,632,384,1,,2,Jorge Martinez Martinez,Cezar Cretu,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,SF,625,319,0,7,2,Timo Stodder,Jorge Martinez Martinez,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,QF,625,691,1,7,,Jorge Martinez Martinez,Davide Galoppini,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,R16,625,750,1,7,,Jorge Martinez Martinez,Maxime Mora,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,R32,625,1559,1,7,Q,Jorge Martinez Martinez,Aleksandr Braynin,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Benicarlo,3,Clay,R32,617,388,0,,3,Carlos Lopez Montagud,Jorge Martinez Martinez,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M25 Girona,3,Clay,R16,607,304,0,,2,Oriol Roca Batalla,Jorge Martinez Martinez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M25 Girona,3,Clay,R32,607,801,1,,WC,Jorge Martinez Martinez,Alejandro Manzanera Pertusa,6-1 6-4,,,,,,,,,,,,,,,,,,,,,

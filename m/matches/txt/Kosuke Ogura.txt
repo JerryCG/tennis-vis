@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Santo Domingo,3,Hard,R16,882,557,0,,4,Peter Bertran,Kosuke Ogura,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,R32,882,961,1,,,Kosuke Ogura,Joshua Sheehy,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lima,3,Clay,R32,894,733,0,,6,Alejandro Hoyos Franco,Kosuke Ogura,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Lima,3,Clay,R16,891,1391,0,,,Vitor Leal,Kosuke Ogura,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Lima,3,Clay,R32,891,729,1,,6,Kosuke Ogura,Alejandro Hoyos Franco,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Guayaquil CH,3,Clay,Q1,883,109,0,,1,Marco Cecchinato,Kosuke Ogura,6-1 6-1,0.37,0.0%,6.5%,63.0%,48.3%,29.4%,4/9,32.5%,21.6%,0.0%,21.4%,22.2%,0/0,83,0,3,46,29,17,0,0:49

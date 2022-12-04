@@ -1,4 +1,10 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Traralgon,3,Hard,QF,528,692,0,6,,Alex Bolt,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R16,528,1232,1,6,,Jose Rubin Statham,Jeremy Beale,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R32,528,,1,6,Q,Jose Rubin Statham,Jeremy Taylor,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,QF,526,255,0,7,1,Omar Jasika,Jose Rubin Statham,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R16,526,775,1,7,,Jose Rubin Statham,Blake Ellis,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R32,526,1417,1,7,Q,Jose Rubin Statham,Corey Gaal,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,R32,516,478,0,,,Marc Polmans,Jose Rubin Statham,6-2 6-2,0.45,7.8%,1.6%,64.1%,58.5%,39.1%,7/11,40.0%,22.0%,12.2%,4.5%,42.1%,0/0,105,5,1,64,41,23,5,1:23
 24-Oct-2022,Playford CH,3,Hard,R16,539,525,0,,,Dayne Kelly,Jose Rubin Statham,3-6 6-2 7-6(2),0.89,5.2%,1.0%,63.9%,62.9%,62.9%,6/10,48.4%,33.0%,12.1%,26.2%,46.7%,3/10,188,5,1,97,62,35,11,2:09
 24-Oct-2022,Playford CH,3,Hard,R32,539,190,1,,4,Jose Rubin Statham,Li Tu,6-4 6-4,1.18,8.9%,0.0%,62.5%,82.9%,61.9%,2/2,53.3%,29.4%,9.8%,26.5%,35.3%,2/2,107,5,0,56,35,21,5,1:05

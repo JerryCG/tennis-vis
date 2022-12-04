@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,F,333,767,1,3,,Marek Gengel,Amr Elsayed Abdou Ahmed Mohamed,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,SF,333,1100,1,3,WC,Marek Gengel,Karim Mohamed Maamoun,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,QF,333,1475,1,3,Q,Marek Gengel,Yeongseok Jeong,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R16,333,1254,1,3,Q,Marek Gengel,Michal Novansky,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,333,1020,1,3,Q,Marek Gengel,Sebastian Sorger,7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,SF,377,478,0,,,Marc Polmans,Marek Gengel,6-3 6-4,0.81,5.3%,5.3%,61.8%,59.6%,48.3%,5/8,46.5%,36.4%,4.5%,33.3%,42.9%,1/4,142,4,4,76,47,29,3,1:34
 31-Oct-2022,Sydney CH,3,Hard,QF,377,465,1,,,Marek Gengel,Adam Walton,6-2 6-0,3.33,23.5%,0.0%,70.6%,87.5%,70.0%,0/0,68.8%,58.7%,4.3%,46.7%,81.3%,5/9,80,8,0,34,24,10,2,0:50
 31-Oct-2022,Sydney CH,3,Hard,R16,377,202,1,,7,Marek Gengel,Rio Noguchi,7-6(4) 6-3,1.22,11.7%,3.9%,75.3%,74.1%,68.4%,3/3,54.5%,33.3%,1.5%,29.6%,50.0%,1/3,143,9,3,77,58,19,1,1:19

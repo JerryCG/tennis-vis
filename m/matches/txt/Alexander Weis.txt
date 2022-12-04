@@ -1,4 +1,14 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Antalya,3,Clay,F,405,453,1,4,5,Alexander Weis,Alex Marti Pujolras,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,SF,405,632,1,4,,Alexander Weis,Jorge Martinez Martinez,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,QF,405,545,1,4,8,Alexander Weis,Ilya Snitari,4-6 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,R16,405,792,1,4,,Alexander Weis,Ryan Nijboer,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Antalya,3,Clay,R32,405,1335,1,4,LL,Alexander Weis,Rafael Giotis,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,F,407,319,1,4,2,Alexander Weis,Timo Stodder,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,SF,407,247,1,4,1,Alexander Weis,Daniel Michalski,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,QF,407,676,1,4,,Alexander Weis,Rrezart Cungu,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,R16,407,1523,1,4,,Alexander Weis,Matthias Ujvary,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Antalya,3,Clay,R32,407,,1,4,WC,Alexander Weis,Mert Alkaya,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M15 Antalya,3,Clay,F,418,610,1,2,4,Alexander Weis,Maxime Chazal,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M15 Antalya,3,Clay,SF,418,907,1,2,Q,Alexander Weis,Nicolas Parizzia,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M15 Antalya,3,Clay,QF,418,1915,1,2,LL,Alexander Weis,Gian Matias Di Natale,6-2 6-1,,,,,,,,,,,,,,,,,,,,,

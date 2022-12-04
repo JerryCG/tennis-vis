@@ -1,6 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Nov-2022,Valencia CH,3,Clay,Q2,369,271,0,10,1,Ivan Gakhov,Andrey Chepelev,6-4 3-6 7-6(0),0.95,1.8%,1.8%,79.3%,64.8%,47.8%,6/8,49.1%,36.9%,3.6%,28.6%,51.2%,2/15,222,2,2,111,88,23,4,2:54
-20-Nov-2022,Valencia CH,3,Clay,Q1,369,490,1,10,WC,Andrey Chepelev,Jose Fco Vidal Azorin,6-1 6-7(4) 6-3,1.29,1.1%,1.1%,80.2%,69.9%,38.9%,4/7,55.2%,46.7%,1.1%,53.5%,23.8%,6/16,183,1,1,91,73,18,1,2:30
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Maspalomas CH,3,Clay,R32,367,103,0,Q,1,Dusan Lajovic,Andrey Chepelev,6-3 6-4,0.57,1.2%,4.8%,77.4%,61.5%,31.6%,12/15,43.5%,25.9%,5.6%,22.2%,33.3%,1/3,138,1,4,84,65,19,3,1:44
+27-Nov-2022,Maspalomas CH,3,Clay,Q2,367,1602,1,2,PR,Andrey Chepelev,Aleksandr Braynin,6-4 7-6(6),1.06,0.0%,5.8%,60.9%,64.3%,44.4%,1/5,51.5%,46.3%,6.0%,33.3%,68.0%,5/11,136,0,4,69,42,27,4,1:59
+27-Nov-2022,Maspalomas CH,3,Clay,Q1,367,896,1,2,,Andrey Chepelev,Leonid Sheyngezikht,3-6 6-1 6-3,1.57,1.6%,3.2%,62.9%,74.4%,65.2%,2/4,57.7%,45.6%,1.5%,34.1%,66.7%,5/7,130,1,2,62,39,23,1,1:47
+21-Nov-2022,Valencia CH,3,Clay,Q2,369,271,0,10,1,Ivan Gakhov,Andrey Chepelev,6-4 3-6 7-6(0),0.95,1.8%,1.8%,79.3%,64.8%,47.8%,6/8,49.1%,36.9%,3.6%,28.6%,51.2%,2/15,222,2,2,111,88,23,4,2:54
+21-Nov-2022,Valencia CH,3,Clay,Q1,369,490,1,10,WC,Andrey Chepelev,Jose Fco Vidal Azorin,6-1 6-7(4) 6-3,1.29,1.1%,1.1%,80.2%,69.9%,38.9%,4/7,55.2%,46.7%,1.1%,53.5%,23.8%,6/16,183,1,1,91,73,18,1,2:30
 7-Nov-2022,M15 Benicarlo,3,Clay,QF,354,472,0,2,8,Georgii Kravchenko,Andrey Chepelev,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Benicarlo,3,Clay,R16,354,548,1,2,,Andrey Chepelev,Max Alcala Gurri,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Benicarlo,3,Clay,R32,354,681,1,2,,Andrey Chepelev,David Jorda Sanchis,0-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,

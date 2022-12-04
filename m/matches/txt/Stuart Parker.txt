@@ -1,6 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Nov-2022,Andria CH,3,Hard,Q2,363,286,1,10,4,Stuart Parker,Evgeny Karlovskiy,6-3 7-5,1.16,8.3%,2.1%,61.5%,72.9%,40.5%,9/11,54.8%,45.8%,3.4%,29.0%,64.3%,4/8,155,8,2,96,59,37,2,1:53
-20-Nov-2022,Andria CH,3,Hard,Q1,363,621,1,10,,Stuart Parker,Gabriel Debru,7-6(1) 6-4,1.30,3.1%,1.6%,60.9%,71.8%,44.0%,2/6,55.0%,50.6%,3.5%,42.9%,61.1%,5/18,149,2,1,64,39,25,3,1:47
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Andria CH,3,Hard,R32,363,264,0,Q,,Michael Geerts,Stuart Parker,1-6 6-3 7-6(4),1.01,7.3%,3.7%,64.6%,79.2%,51.7%,1/2,50.6%,30.8%,7.7%,28.0%,35.7%,2/3,160,6,3,82,53,29,6,2:07
+21-Nov-2022,Andria CH,3,Hard,Q2,363,286,1,10,4,Stuart Parker,Evgeny Karlovskiy,6-3 7-5,1.16,8.3%,2.1%,61.5%,72.9%,40.5%,9/11,54.8%,45.8%,3.4%,29.0%,64.3%,4/8,155,8,2,96,59,37,2,1:53
+21-Nov-2022,Andria CH,3,Hard,Q1,363,621,1,10,,Stuart Parker,Gabriel Debru,7-6(1) 6-4,1.30,3.1%,1.6%,60.9%,71.8%,44.0%,2/6,55.0%,50.6%,3.5%,42.9%,61.1%,5/18,149,2,1,64,39,25,3,1:47
 7-Nov-2022,M25 Sharm ElSheikh,3,Hard,SF,350,258,0,4,1,Kacper Zuk,Stuart Parker,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25 Sharm ElSheikh,3,Hard,QF,350,1344,1,4,Q,Stuart Parker,Daniil Ostapenkov,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25 Sharm ElSheikh,3,Hard,R16,350,1020,1,4,Q,Stuart Parker,Sebastian Sorger,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

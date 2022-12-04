@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Temuco CH,3,Hard,R16,328,201,0,,8,Nicolas Kicker,Joao Lucas Reis Da Silva,3-6 6-4 6-3,0.87,5.2%,5.2%,57.1%,68.2%,27.3%,2/8,46.3%,43.0%,1.0%,38.2%,53.1%,5/10,177,4,4,77,44,33,1,2:25
+21-Nov-2022,Temuco CH,3,Hard,R32,328,704,1,,WC,Joao Lucas Reis Da Silva,Juan Ignacio Galarza,6-4 5-7 6-3,1.38,4.9%,6.1%,67.1%,87.3%,59.3%,0/1,54.7%,30.4%,3.8%,17.8%,47.1%,2/3,161,4,5,82,55,27,3,1:42
 14-Nov-2022,Sao Leopoldo CH,3,Clay,QF,341,404,0,Alt,Alt,Thiago Seyboth Wild,Joao Lucas Reis Da Silva,6-2 7-5,0.68,0.0%,7.1%,57.1%,62.5%,33.3%,5/10,42.9%,33.9%,3.6%,21.2%,52.2%,2/7,126,0,5,70,40,30,2,1:51
 14-Nov-2022,Sao Leopoldo CH,3,Clay,R16,341,460,1,Alt,Q,Joao Lucas Reis Da Silva,Mateus Alves,7-6(7) 6-1,1.48,13.4%,0.0%,74.6%,76.0%,58.8%,2/2,57.4%,41.9%,6.5%,34.1%,57.1%,2/4,129,9,0,67,50,17,4,1:48
 14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,341,405,1,Alt,Q,Joao Lucas Reis Da Silva,Juan Pablo Paz,6-3 6-2,2.11,4.0%,2.0%,70.0%,82.9%,66.7%,0/0,63.4%,46.5%,9.3%,40.7%,56.3%,3/4,93,2,1,50,35,15,4,1:15

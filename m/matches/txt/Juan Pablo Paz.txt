@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Temuco CH,3,Hard,R32,401,114,0,,2,Emilio Gomez,Juan Pablo Paz,6-4 6-3,0.85,6.1%,6.1%,53.1%,65.4%,39.1%,1/5,45.3%,39.7%,2.9%,28.1%,50.0%,2/5,117,3,3,49,26,23,2,1:26
 14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,405,341,0,Q,Alt,Joao Lucas Reis Da Silva,Juan Pablo Paz,6-3 6-2,0.47,9.3%,0.0%,62.8%,59.3%,43.8%,1/4,36.6%,22.0%,4.0%,17.1%,33.3%,0/0,93,4,0,43,27,16,2,1:15
 14-Nov-2022,Sao Leopoldo CH,3,Clay,Q2,405,755,1,4,12,Juan Pablo Paz,Fernando Yamacita,6-0 6-2,1.86,1.9%,1.9%,63.0%,64.7%,75.0%,4/4,64.0%,58.7%,0.0%,55.6%,63.2%,5/8,100,1,1,54,34,20,0,1:27
 14-Nov-2022,Sao Leopoldo CH,3,Clay,Q1,405,1523,1,4,Alt,Juan Pablo Paz,Boris Arias,6-1 7-6(4),1.36,0.0%,3.1%,75.0%,75.0%,43.8%,2/3,55.7%,44.8%,9.0%,33.3%,68.2%,4/7,131,0,2,64,48,16,6,1:35

@@ -1,4 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Traralgon,3,Hard,F,516,257,0,5,1,Omar Jasika,Dayne Kelly,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,SF,516,692,1,5,,Dayne Kelly,Alex Bolt,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,QF,516,1094,1,5,Q,Dayne Kelly,Jeremy Jin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R16,516,1522,1,5,Q,Dayne Kelly,Thomas Braithwaite,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R32,516,942,1,5,,Dayne Kelly,Ken Cavrak,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,QF,512,415,0,6,2,Kyle Seelig,Dayne Kelly,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R16,512,839,1,6,,Dayne Kelly,Calum Puttergill,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R32,512,1985,1,6,Q,Dayne Kelly,Tai Sach,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,R32,506,677,0,,Q,Mark Whitehouse,Dayne Kelly,3-6 6-2 6-4,0.81,7.9%,3.9%,67.1%,58.8%,60.0%,6/10,46.9%,32.8%,9.0%,25.0%,52.6%,3/3,143,6,3,76,51,25,6,1:28
 24-Oct-2022,Playford CH,3,Hard,QF,525,280,0,,8,Omar Jasika,Dayne Kelly,6-1 6-4,0.57,1.8%,1.8%,63.2%,50.0%,33.3%,4/9,38.6%,31.8%,2.3%,25.0%,50.0%,1/2,101,1,1,57,36,21,1,1:23
 24-Oct-2022,Playford CH,3,Hard,R16,525,539,1,,,Dayne Kelly,Jose Rubin Statham,3-6 6-2 7-6(2),1.13,12.1%,4.4%,67.0%,73.8%,53.3%,7/10,51.6%,37.1%,5.2%,37.1%,37.1%,4/10,188,11,4,91,61,30,5,2:09

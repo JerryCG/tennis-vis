@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M25 Heraklion,3,Hard,R16,437,377,0,,5,Filip Peliwo,Martin Krumich,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,437,,1,,WC,Martin Krumich,Michalis Sakellaridis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Bratislava CH,3,Hard,Q2,434,333,0,,10,Viktor Durasovic,Martin Krumich,6-3 6-2,0.64,2.4%,0.0%,76.2%,56.3%,60.0%,1/4,40.9%,27.5%,13.7%,15.2%,50.0%,0/0,93,1,0,42,32,10,7,0:56
 7-Nov-2022,Bratislava CH,3,Hard,Q1,434,296,1,,4,Martin Krumich,Raphael Collignon,3-6 7-6(5) 6-1,1.02,2.5%,0.8%,60.7%,55.4%,60.4%,9/14,51.7%,43.4%,6.0%,43.3%,43.5%,5/7,205,3,1,122,74,48,5,2:22
 24-Oct-2022,Brest CH,3,Hard,Q2,429,439,0,,,Evgeny Donskoy,Martin Krumich,6-3 6-0,0.32,0.0%,2.3%,65.9%,55.2%,26.7%,2/7,33.3%,17.6%,17.6%,16.0%,22.2%,0/0,78,0,1,44,29,15,6,0:50

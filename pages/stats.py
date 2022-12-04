@@ -13,13 +13,13 @@ import numpy as np
 
 # get all names
 all_names = []
-with open('mwplayerlist_processed.txt', 'r') as f:
+with open('mwplayerlist_processed.txt', 'r', encoding='utf-8-sig') as f:
     for line in f:
         all_names.append(line[:-1])
 
 # load txt files
 def load_txt(name):
-    with open(name[1].lower() + '/matches/txt/' + name[4:] + '.txt', 'r') as f:
+    with open(name[1].lower() + '/matches/txt/' + name[4:] + '.txt', 'r', encoding='utf-8-sig') as f:
         attributes = f.readline()[:-1].split(',')
         df = pd.DataFrame([line[:-1].split(',') for line in f], columns = attributes)
     return (df, name[1])

@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Temuco CH,3,Hard,R32,704,328,0,WC,,Joao Lucas Reis Da Silva,Juan Ignacio Galarza,6-4 5-7 6-3,0.72,3.8%,7.6%,57.0%,82.2%,52.9%,1/3,45.3%,22.0%,4.9%,12.7%,40.7%,1/1,161,3,6,79,45,34,4,1:42
 7-Nov-2022,Montevideo CH,3,Clay,Q1,700,315,0,Alt,4,Nicolas Alvarez,Juan Ignacio Galarza,6-3 6-1,0.50,0.0%,8.2%,67.3%,60.6%,37.5%,1/5,39.1%,23.3%,0.0%,21.4%,26.7%,0/3,92,0,4,49,33,16,0,1:03
 31-Oct-2022,Guayaquil CH,3,Clay,R32,727,166,0,Q,8,Felipe Meligeni Alves,Juan Ignacio Galarza,6-4 7-6(3),0.85,3.8%,5.1%,67.1%,73.6%,50.0%,6/7,47.7%,28.9%,10.5%,23.2%,45.0%,0/1,155,3,4,79,53,26,8,1:33
 31-Oct-2022,Guayaquil CH,3,Clay,Q2,727,281,1,11,4,Juan Ignacio Galarza,Roman Andres Burruchaga,3-6 7-5 6-2,1.10,2.4%,2.4%,56.0%,72.3%,45.9%,3/7,51.7%,43.2%,2.3%,30.8%,61.1%,5/12,172,2,2,84,47,37,2,2:07

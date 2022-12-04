@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Valencia CH,3,Clay,R32,187,76,0,,2,Roberto Carballes Baena,Raul Brancaccio,7-5 6-0,0.78,0.0%,6.3%,50.0%,50.0%,40.6%,6/12,43.9%,42.6%,0.0%,31.9%,66.7%,2/7,132,0,4,64,32,32,0,1:48
 14-Nov-2022,Helsinki CH,3,Hard,R16,190,133,0,,8,Jelle Sels,Raul Brancaccio,4-6 6-3 6-2,0.88,4.1%,8.1%,60.8%,75.6%,44.8%,3/6,46.3%,32.2%,18.9%,16.0%,52.5%,1/5,164,3,6,74,45,29,17,1:50
 14-Nov-2022,Helsinki CH,3,Hard,R32,190,155,1,,,Raul Brancaccio,Henri Laaksonen,6-3 6-3,1.47,12.1%,8.6%,62.1%,80.6%,45.5%,2/3,58.3%,48.0%,6.0%,32.0%,64.0%,4/7,108,7,5,58,36,22,3,1:01
 17-Oct-2022,Naples,3,Hard,Q2,181,118,0,8,1,Nicolas Jarry,Raul Brancaccio,6-2 6-4,0.40,5.5%,7.3%,58.2%,62.5%,39.1%,6/10,38.1%,19.0%,11.9%,8.0%,35.3%,1/1,97,3,4,55,32,23,5,1:09

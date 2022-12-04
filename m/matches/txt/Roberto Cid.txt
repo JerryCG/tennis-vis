@@ -1,4 +1,11 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Santo Domingo,3,Hard,QF,640,522,0,5,3,Liam Draxl,Roberto Cid,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,R16,640,,1,5,Q,Roberto Cid,Miguel Angel Cabrera,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,R32,640,,1,5,Q,Roberto Cid,Marcel Kamrowski,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,SF,638,697,0,2,5,Blu Baker,Roberto Cid,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,QF,638,929,1,2,8,Roberto Cid,Juan Manuel Benitez Chavarriaga,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,R16,638,959,1,2,,Roberto Cid,Younes Lalami Laaroussi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,R32,638,1475,1,2,Q,Roberto Cid,Luis Molina,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25  Austin TX,3,Hard,R32,621,,0,4,WC,Micah Braswell,Roberto Cid,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Santo Domingo,3,Hard,R16,544,1354,0,4,Q,Alan Fernando Rubio Fierros,Roberto Cid,6-4 2-6 3-3 RET,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Santo Domingo,3,Hard,R32,544,961,1,4,,Roberto Cid,Jesse Flores,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,8 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Helsinki CH,3,Hard,SF,140,112,0,,5,Tomas Machac,Yannick Hanfmann,6-1 6-2,0.40,7.5%,1.9%,64.2%,52.9%,31.6%,8/12,35.1%,22.0%,7.3%,29.6%,7.1%,0/0,94,4,1,53,34,19,3,1:04
-13-Nov-2022,Helsinki CH,3,Hard,QF,140,239,1,,Q,Yannick Hanfmann,Mikhail Kukushkin,6-4 6-1,1.63,17.5%,5.0%,65.0%,73.1%,50.0%,0/2,59.8%,56.9%,1.4%,50.0%,66.7%,6/11,112,7,2,40,26,14,1,1:16
-13-Nov-2022,Helsinki CH,3,Hard,R16,140,153,1,,,Yannick Hanfmann,Ryan Peniston,6-3 6-4,1.33,6.7%,3.3%,68.3%,68.3%,57.9%,1/3,55.9%,46.6%,1.7%,38.7%,55.6%,4/8,118,4,2,60,41,19,1,1:27
-13-Nov-2022,Helsinki CH,3,Hard,R32,140,123,1,,6,Yannick Hanfmann,Pablo Andujar,6-3 6-4,1.39,11.7%,0.0%,73.3%,79.5%,62.5%,3/3,56.9%,34.7%,2.0%,24.1%,50.0%,2/2,109,7,0,60,44,16,1,1:14
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,Helsinki CH,3,Hard,SF,140,112,0,,5,Tomas Machac,Yannick Hanfmann,6-1 6-2,0.40,7.5%,1.9%,64.2%,52.9%,31.6%,8/12,35.1%,22.0%,7.3%,29.6%,7.1%,0/0,94,4,1,53,34,19,3,1:04
+14-Nov-2022,Helsinki CH,3,Hard,QF,140,239,1,,Q,Yannick Hanfmann,Mikhail Kukushkin,6-4 6-1,1.63,17.5%,5.0%,65.0%,73.1%,50.0%,0/2,59.8%,56.9%,1.4%,50.0%,66.7%,6/11,112,7,2,40,26,14,1,1:16
+14-Nov-2022,Helsinki CH,3,Hard,R16,140,153,1,,,Yannick Hanfmann,Ryan Peniston,6-3 6-4,1.33,6.7%,3.3%,68.3%,68.3%,57.9%,1/3,55.9%,46.6%,1.7%,38.7%,55.6%,4/8,118,4,2,60,41,19,1,1:27
+14-Nov-2022,Helsinki CH,3,Hard,R32,140,123,1,,6,Yannick Hanfmann,Pablo Andujar,6-3 6-4,1.39,11.7%,0.0%,73.3%,79.5%,62.5%,3/3,56.9%,34.7%,2.0%,24.1%,50.0%,2/2,109,7,0,60,44,16,1,1:14
 7-Nov-2022,Bratislava CH,3,Hard,R16,142,109,0,,2,Marton Fucsovics,Yannick Hanfmann,6-2 7-5,0.72,1.5%,3.0%,73.1%,55.1%,38.9%,3/8,43.7%,35.6%,10.2%,31.0%,47.1%,2/7,126,1,2,67,49,18,6,1:30
 7-Nov-2022,Bratislava CH,3,Hard,R32,142,,1,,WC,Yannick Hanfmann,Jakub Mensik,6-3 6-4,1.40,6.8%,0.0%,74.6%,79.5%,40.0%,2/3,55.0%,42.9%,4.3%,35.3%,63.2%,3/9,129,4,0,59,44,15,3,1:30
 31-Oct-2022,Bergamo CH,3,Hard,QF,149,130,0,,,Jurij Rodionov,Yannick Hanfmann,4-6 6-4 6-4,1.05,8.0%,0.0%,73.9%,69.2%,39.1%,2/7,49.7%,40.5%,9.0%,31.1%,52.0%,4/13,199,7,0,88,65,23,10,2:27

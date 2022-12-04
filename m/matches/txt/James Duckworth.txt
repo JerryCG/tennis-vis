@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Yokkaichi CH,3,Hard,SF,172,173,0,2,3,Yosuke Watanuki,James Duckworth,7-6(3) 6-3,0.87,11.9%,4.5%,58.2%,74.4%,50.0%,6/7,46.8%,31.1%,16.2%,17.9%,45.7%,0/2,141,8,3,67,39,28,12,1:36
+21-Nov-2022,Yokkaichi CH,3,Hard,QF,172,235,1,2,6,James Duckworth,Nicholas David Ionel,4-6 6-3 6-3,1.45,5.5%,0.0%,61.6%,82.2%,57.1%,2/4,54.7%,39.8%,1.1%,37.0%,44.1%,4/8,161,4,0,73,45,28,1,2:03
+21-Nov-2022,Yokkaichi CH,3,Hard,R16,172,301,1,2,,James Duckworth,Filip Cristian Jianu,6-7(4) 6-2 6-2,1.39,7.4%,2.5%,51.9%,81.0%,56.4%,6/9,55.7%,43.0%,2.3%,36.7%,51.4%,7/8,167,6,2,81,42,39,2,2:06
+21-Nov-2022,Yokkaichi CH,3,Hard,R32,172,526,1,2,Q,James Duckworth,Makoto Ochi,7-6(2) 6-4,1.56,14.9%,4.5%,59.7%,77.5%,66.7%,1/2,55.6%,41.9%,4.7%,32.1%,57.6%,2/8,153,10,3,67,40,27,4,1:46
 14-Nov-2022,Kobe CH,3,Hard,R32,173,655,0,5,WC,Shinji Hazawa,James Duckworth,6-4 6-4,0.74,15.9%,1.6%,66.7%,71.4%,47.6%,1/3,45.9%,27.1%,5.1%,18.6%,50.0%,0/2,122,10,1,63,42,21,3,1:17
 31-Oct-2022,Sydney CH,3,Hard,R32,110,361,0,2,,Sasi Kumar Mukund,James Duckworth,4-6 6-3 7-6(5),1.15,15.2%,2.5%,55.7%,81.8%,60.0%,1/3,49.5%,32.0%,8.7%,30.3%,35.1%,2/7,182,12,2,79,44,35,9,2:12
 24-Oct-2022,Playford CH,3,Hard,QF,114,192,0,2,5,Rinky Hijikata,James Duckworth,4-6 6-1 6-2,0.83,6.1%,3.0%,43.9%,62.1%,48.6%,4/9,44.9%,37.8%,2.2%,33.3%,46.7%,2/6,156,4,2,66,29,37,2,1:52

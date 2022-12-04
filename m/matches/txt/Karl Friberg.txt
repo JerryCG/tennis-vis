@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Heraklion,3,Hard,R16,444,1034,0,5,,Alexandros Skorilas,Karl Friberg,5-2 RET,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Heraklion,3,Hard,R32,444,1814,1,5,WC,Karl Friberg,Pijus Vaitiekunas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R16,445,472,0,,,Sandro Kopp,Karl Friberg,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,445,296,1,,1,Karl Friberg,Dragos Nicolae Madaras,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Bratislava CH,3,Hard,Q2,441,446,0,,,Illya Marchenko,Karl Friberg,6-2 6-3,0.55,7.7%,0.0%,63.5%,57.6%,52.6%,2/5,40.6%,24.5%,12.2%,20.0%,35.7%,0/2,101,4,0,52,33,19,6,1:13
 7-Nov-2022,Bratislava CH,3,Hard,Q1,441,303,1,,5,Karl Friberg,Benjamin Hassan,7-6(3) 6-1,2.04,2.1%,0.0%,72.3%,82.4%,53.8%,0/1,61.2%,52.2%,1.4%,50.0%,57.9%,4/8,116,1,0,47,34,13,1,1:17
 17-Oct-2022,Stockholm,3,Hard,Q2,452,192,0,WC,8,Antoine Bellier,Karl Friberg,6-3 7-6(4),0.86,3.0%,1.5%,72.7%,62.5%,44.4%,4/8,45.9%,36.6%,13.4%,32.0%,43.8%,3/13,148,2,1,66,48,18,11,1:45

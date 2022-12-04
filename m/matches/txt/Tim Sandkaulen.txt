@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Heraklion,3,Hard,R16,1028,396,0,,3,Daniel Cukierman,Tim Sandkaulen,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Heraklion,3,Hard,R32,1028,1457,1,,Q,Tim Sandkaulen,Stefano Dagostino,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,1060,323,0,Q,3,Billy Harris,Tim Sandkaulen,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,R16,1062,499,0,Q,5,Sebastian Gima,Tim Sandkaulen,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,R32,1062,876,1,Q,,Tim Sandkaulen,Domagoj Biljesko,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,R32,1018,299,0,,2,Elmar Ejupovic,Tim Sandkaulen,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,

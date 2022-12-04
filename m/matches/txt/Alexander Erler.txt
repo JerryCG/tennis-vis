@@ -1,6 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Helsinki CH,3,Hard,Q2,741,239,0,Alt,1,Mikhail Kukushkin,Alexander Erler,6-2 7-6(3),0.72,16.3%,11.6%,64.0%,65.5%,35.5%,13/17,45.1%,32.8%,6.0%,33.3%,32.0%,2/7,153,14,10,86,55,31,4,1:37
-13-Nov-2022,Helsinki CH,3,Hard,Q1,741,332,1,Alt,11,Alexander Erler,Gauthier Onclin,7-6(8) 7-6(3),1.22,34.1%,8.8%,65.9%,81.7%,38.7%,8/10,52.5%,40.2%,1.9%,37.7%,44.7%,2/7,198,31,8,91,60,31,2,1:58
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,Helsinki CH,3,Hard,Q2,741,239,0,Alt,1,Mikhail Kukushkin,Alexander Erler,6-2 7-6(3),0.72,16.3%,11.6%,64.0%,65.5%,35.5%,13/17,45.1%,32.8%,6.0%,33.3%,32.0%,2/7,153,14,10,86,55,31,4,1:37
+14-Nov-2022,Helsinki CH,3,Hard,Q1,741,332,1,Alt,11,Alexander Erler,Gauthier Onclin,7-6(8) 7-6(3),1.22,34.1%,8.8%,65.9%,81.7%,38.7%,8/10,52.5%,40.2%,1.9%,37.7%,44.7%,2/7,198,31,8,91,60,31,2,1:58
 24-Oct-2022,Vienna,3,Hard,Q1,717,70,0,WC,8,Joao Sousa,Alexander Erler,7-6(5) 7-5,0.88,18.2%,5.2%,67.5%,78.8%,40.0%,4/6,48.6%,29.6%,5.6%,22.6%,50.0%,1/2,148,14,4,77,52,25,4,1:40
 17-Oct-2022,Antwerp,3,Hard,Q2,769,113,0,Alt,1,Tim Van Rijthoven,Alexander Erler,7-6(3) 6-3,0.55,9.6%,4.1%,75.3%,69.1%,38.9%,8/10,43.0%,21.0%,25.8%,15.2%,37.5%,1/1,135,7,3,73,55,18,16,1:20
 17-Oct-2022,Antwerp,3,Hard,Q1,769,201,1,Alt,5,Alexander Erler,Evan Furness,6-1 6-4,1.67,0.0%,5.5%,60.0%,84.8%,59.1%,4/4,59.8%,42.6%,0.0%,39.4%,50.0%,3/5,102,0,3,55,33,22,0,1:02

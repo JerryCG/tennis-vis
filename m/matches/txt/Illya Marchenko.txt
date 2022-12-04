@@ -1,6 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Nov-2022,Andria CH,3,Hard,Q2,423,297,1,11,3,Illya Marchenko,Raphael Collignon,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2022,Andria CH,3,Hard,Q1,423,1066,1,11,WC,Illya Marchenko,Giuseppe Tresca,6-0 6-3,1.94,11.1%,13.3%,57.8%,80.8%,47.4%,5/6,65.6%,64.7%,2.0%,55.6%,75.0%,6/10,96,5,6,45,26,19,1,1:12
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Andria CH,3,Hard,R32,423,334,0,Q,Q,Alibek Kachmazov,Illya Marchenko,6-2 6-1,0.56,0.0%,3.3%,42.6%,53.8%,45.7%,8/12,40.0%,28.6%,6.1%,28.6%,28.6%,0/1,110,0,2,61,26,35,3,1:24
+21-Nov-2022,Andria CH,3,Hard,Q2,423,297,1,11,3,Illya Marchenko,Raphael Collignon,6-3 7-5,1.30,3.3%,6.6%,65.6%,75.0%,42.9%,0/2,55.1%,47.0%,1.5%,42.9%,58.8%,5/6,127,2,4,61,40,21,1,1:26
+21-Nov-2022,Andria CH,3,Hard,Q1,423,1066,1,11,WC,Illya Marchenko,Giuseppe Tresca,6-0 6-3,1.94,11.1%,13.3%,57.8%,80.8%,47.4%,5/6,65.6%,64.7%,2.0%,55.6%,75.0%,6/10,96,5,6,45,26,19,1,1:12
 7-Nov-2022,Bratislava CH,3,Hard,R16,446,407,0,Q,Q,Cem Ilkel,Illya Marchenko,4-6 7-5 6-3,0.99,5.1%,3.1%,46.9%,76.1%,46.2%,7/11,48.6%,39.5%,11.3%,26.3%,60.4%,3/18,222,5,3,98,46,52,14,2:54
 7-Nov-2022,Bratislava CH,3,Hard,R32,446,98,1,Q,1,Illya Marchenko,Zhizhen Zhang,7-6(7) 7-5,1.22,5.3%,2.7%,68.0%,76.5%,58.3%,3/4,52.2%,35.7%,11.9%,31.7%,47.6%,2/8,159,4,2,75,51,24,10,1:46
 7-Nov-2022,Bratislava CH,3,Hard,Q2,446,441,1,,,Illya Marchenko,Karl Friberg,6-2 6-3,1.81,12.2%,2.0%,71.4%,80.0%,64.3%,2/2,59.4%,44.2%,7.7%,42.4%,47.4%,3/5,101,6,1,49,35,14,4,1:13

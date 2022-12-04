@@ -1,5 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Nov-2022,Valencia CH,3,Clay,R32,239,102,1,,4,Miljan Zekic,Dusan Lajovic,6-3 7-5,1.28,5.8%,2.9%,78.3%,68.5%,53.3%,1/3,54.5%,44.6%,2.7%,40.4%,51.9%,4/10,143,4,2,69,54,15,2,1:39
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Maspalomas CH,3,Clay,R32,234,304,0,8,,Lukas Neumayer,Miljan Zekic,6-1 6-3,0.72,5.8%,3.8%,48.1%,60.0%,37.0%,5/10,42.2%,37.5%,1.6%,30.2%,52.4%,1/8,116,3,2,52,25,27,1,1:26
+21-Nov-2022,Valencia CH,3,Clay,R16,239,511,0,,Q,Pablo Llamas Ruiz,Miljan Zekic,6-4 7-5,0.84,4.3%,1.4%,59.4%,58.5%,53.6%,7/11,46.4%,36.6%,1.4%,34.0%,44.4%,2/8,140,3,1,69,41,28,1,1:42
+21-Nov-2022,Valencia CH,3,Clay,R32,239,102,1,,4,Miljan Zekic,Dusan Lajovic,6-3 7-5,1.28,5.8%,2.9%,78.3%,68.5%,53.3%,1/3,54.5%,44.6%,2.7%,40.4%,51.9%,4/10,143,4,2,69,54,15,2,1:39
 24-Oct-2022,Lima CH,3,Clay,R32,230,231,0,LL,Alt,Thiago Agustin Tirante,Miljan Zekic,6-4 6-4,0.84,4.1%,0.0%,68.9%,60.8%,34.8%,5/9,46.7%,39.7%,4.8%,34.0%,61.5%,2/6,137,3,0,74,51,23,3,1:36
 24-Oct-2022,Lima CH,3,Clay,Q2,230,343,0,2,9,Thiago Seyboth Wild,Miljan Zekic,6-3 7-6(5),0.78,1.3%,1.3%,76.0%,63.2%,66.7%,6/7,46.0%,28.0%,2.7%,22.4%,47.1%,0/4,150,1,1,75,57,18,2,1:49
 24-Oct-2022,Lima CH,3,Clay,Q1,230,,1,2,WC,Miljan Zekic,Gianluca Ballotta,6-3 6-2,1.86,14.9%,4.3%,68.1%,87.5%,53.3%,0/0,58.8%,43.6%,0.0%,32.3%,58.3%,3/9,102,7,2,47,32,15,0,1:10

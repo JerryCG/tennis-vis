@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Nov-2022,Davis Cup Finals QF: AUS vs NED,3,Hard,RR,96,84,0,,,Jordan Thompson,Tallon Griekspoor,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Paris Masters,3,Hard,Q2,70,51,0,,2,Lorenzo Sonego,Tallon Griekspoor,3-6 6-4 7-6(3),0.91,9.2%,2.3%,63.2%,67.3%,62.5%,2/5,48.6%,31.4%,12.8%,20.9%,68.4%,4/6,173,8,2,87,55,32,11,2:01
 31-Oct-2022,Paris Masters,3,Hard,Q1,70,65,1,,12,Tallon Griekspoor,Mackenzie Mcdonald,6-3 3-6 7-6(4),1.05,3.6%,3.6%,61.8%,64.7%,45.2%,13/18,51.5%,44.7%,5.3%,39.0%,54.3%,5/10,204,4,4,110,68,42,5,2:22
 24-Oct-2022,Vienna,3,Hard,R32,71,58,0,,,Marcos Giron,Tallon Griekspoor,6-4 6-2,0.65,7.7%,7.7%,48.1%,68.0%,44.4%,1/4,41.7%,28.6%,10.7%,21.1%,44.4%,0/3,108,4,4,52,25,27,6,1:14

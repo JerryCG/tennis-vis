@@ -1,6 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Champaign CH,3,Hard,Q2,499,1254,0,5,Alt,Alexander Petrov,Alfredo Perez,6-4 6-7(1) 7-6(2),1.12,7.2%,3.1%,58.8%,73.7%,62.5%,2/5,49.6%,34.6%,0.8%,26.2%,51.2%,2/13,224,7,3,97,57,40,1,2:46
-13-Nov-2022,Champaign CH,3,Hard,Q1,499,766,1,5,,Alfredo Perez,Kareem Allaf,6-3 7-5,1.36,6.2%,3.1%,61.5%,80.0%,64.0%,0/0,55.1%,35.5%,3.2%,25.8%,45.2%,2/6,127,4,2,65,40,25,2,1:29
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,Champaign CH,3,Hard,Q2,499,1254,0,5,Alt,Alexander Petrov,Alfredo Perez,6-4 6-7(1) 7-6(2),1.12,7.2%,3.1%,58.8%,73.7%,62.5%,2/5,49.6%,34.6%,0.8%,26.2%,51.2%,2/13,224,7,3,97,57,40,1,2:46
+14-Nov-2022,Champaign CH,3,Hard,Q1,499,766,1,5,,Alfredo Perez,Kareem Allaf,6-3 7-5,1.36,6.2%,3.1%,61.5%,80.0%,64.0%,0/0,55.1%,35.5%,3.2%,25.8%,45.2%,2/6,127,4,2,65,40,25,2,1:29
 7-Nov-2022,Calgary CH,3,Hard,R16,512,470,0,Q,Q,Maks Kasnikowski,Alfredo Perez,6-4 6-4,0.71,12.2%,6.8%,68.9%,70.6%,34.8%,4/6,45.0%,28.8%,4.5%,6.7%,47.2%,0/5,140,9,5,74,51,23,3,1:30
 7-Nov-2022,Calgary CH,3,Hard,R32,512,363,1,Q,,Alfredo Perez,Edan Leshem,6-4 6-4,1.59,15.3%,3.4%,67.8%,87.5%,47.4%,3/4,57.0%,40.3%,4.8%,23.7%,66.7%,3/5,121,9,2,59,40,19,3,1:19
 7-Nov-2022,Calgary CH,3,Hard,Q2,512,474,1,8,5,Alfredo Perez,Omni Kumar,6-2 6-3,1.70,1.9%,1.9%,69.8%,73.0%,68.8%,2/3,60.0%,48.1%,3.8%,30.0%,59.4%,4/7,105,1,1,53,37,16,2,1:15

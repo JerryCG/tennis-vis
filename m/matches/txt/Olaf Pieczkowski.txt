@@ -1,4 +1,11 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Monastir,3,Hard,R16,875,655,0,,3,Constantin Bittoun Kouzmine,Olaf Pieczkowski,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Monastir,3,Hard,R32,875,952,1,,,Olaf Pieczkowski,Aziz Ouakaa,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,F,875,562,0,,5,Robert Strombachs,Olaf Pieczkowski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,SF,875,830,1,,,Olaf Pieczkowski,Andrea Guerrieri,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,QF,875,1211,1,,,Olaf Pieczkowski,Gilles Arnaud Bailly,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,R16,875,1195,1,,Q,Olaf Pieczkowski,Tom Evans,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,R32,875,611,1,,6,Olaf Pieczkowski,Jaime Faria,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,R32,873,604,0,,8,Matthew Dellavedova,Olaf Pieczkowski,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M15 Sozopol,3,Hard,R32,875,655,0,,6,Alexander Donski,Olaf Pieczkowski,7-6(12) 7-5,,,,,,,,,,,,,,,,,,,,,
 10-Oct-2022,M15 Sozopol,3,Hard,R16,923,586,0,,6,Riccardo Balzerani,Olaf Pieczkowski,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,

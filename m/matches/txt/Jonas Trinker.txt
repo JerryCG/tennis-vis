@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Heraklion,3,Hard,R16,1142,591,0,,7,Matthew Dellavedova,Jonas Trinker,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Heraklion,3,Hard,R32,1142,,1,,Q,Jonas Trinker,Ammar Elamin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Heraklion,3,Hard,R16,1093,884,0,Q,,Michael Zhu,Jonas Trinker,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Heraklion,3,Hard,R32,1093,1004,1,Q,,Jonas Trinker,Gorazd Srbljak,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M15 Heraklion,3,Hard,QF,1233,924,0,Q,,Mario Gonzalez Fernandez,Jonas Trinker,6-7(9) 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,

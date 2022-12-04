@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Maia CH,3,Clay,R32,227,146,0,,6,Timofey Skatov,Nicholas David Ionel,3-6 7-6(3) 7-5,1.00,0.9%,1.8%,65.1%,59.2%,63.2%,8/12,49.8%,39.3%,0.0%,41.5%,33.3%,5/13,221,1,2,109,71,38,0,3:19
+21-Nov-2022,Yokkaichi CH,3,Hard,QF,235,172,0,6,2,James Duckworth,Nicholas David Ionel,4-6 6-3 6-3,0.69,1.1%,3.4%,61.4%,63.0%,55.9%,4/8,45.3%,27.4%,5.5%,17.8%,42.9%,2/4,161,1,3,88,54,34,4,2:03
+21-Nov-2022,Yokkaichi CH,3,Hard,R16,235,485,1,6,WC,Nicholas David Ionel,Shintaro Imai,6-4 6-4,1.52,7.5%,5.7%,71.7%,65.8%,73.3%,0/2,56.4%,48.8%,1.3%,35.7%,63.2%,4/11,133,4,3,53,38,15,1,1:36
+21-Nov-2022,Yokkaichi CH,3,Hard,R32,235,231,1,6,,Nicholas David Ionel,Nino Serdarusic,6-4 7-6(1),1.50,11.5%,4.9%,60.7%,83.8%,54.2%,3/5,55.6%,41.9%,4.1%,34.9%,51.6%,3/9,135,7,3,61,37,24,3,1:45
 14-Nov-2022,Kobe CH,3,Hard,R32,233,256,0,,,Nino Serdarusic,Nicholas David Ionel,6-3 6-7(7) 6-2,0.76,3.4%,5.7%,62.5%,69.1%,36.4%,5/10,44.3%,32.6%,9.5%,25.9%,43.2%,2/6,183,3,5,88,55,33,9,2:17
 31-Oct-2022,Yokohama CH,3,Hard,R32,256,273,0,,,Frederico Ferreira Silva,Nicholas David Ionel,7-5 6-2,0.78,4.7%,4.7%,59.4%,52.6%,50.0%,5/10,44.6%,37.9%,3.0%,33.3%,44.4%,2/5,130,3,3,64,38,26,2,1:32
 24-Oct-2022,M25 Gaziantep,3,Clay,F,252,529,1,2,8,Nicholas David Ionel,Corentin Denolly,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

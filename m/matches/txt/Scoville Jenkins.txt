@@ -1,58 +1,62 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Feb-2010,San Jose Q,3,Hard,Q1,322,226,0,,5,Ryler Deheart,Scoville Jenkins,6-3 7-5,0.72,4.6%,6.2%,52.3%,61.8%,51.6%,3/6,44.4%,31.1%,8.2%,26.2%,42.1%,1/2,126,3,4,65,34,31,5,1:10
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Feb-2010,San Jose,3,Hard,Q1,322,226,0,,5,Ryler Deheart,Scoville Jenkins,6-3 7-5,0.72,4.6%,6.2%,52.3%,61.8%,51.6%,3/6,44.4%,31.1%,8.2%,26.2%,42.1%,1/2,126,3,4,65,34,31,5,1:10
 1-Feb-2010,Dallas CH,3,Hard,R32,304,275,0,,WC,Michael Mcclune,Scoville Jenkins,6-3 6-3,0.52,1.9%,11.3%,54.7%,75.9%,37.5%,1/4,40.4%,21.6%,21.6%,12.9%,35.0%,0/3,104,1,6,53,29,24,11,1:09
-16-Nov-2009,Champaign CH,3,Hard,R32,254,166,0,,,Ryan Sweeting,Scoville Jenkins,6-3 6-2,0.69,11.4%,13.6%,61.4%,63.0%,29.4%,0/4,41.2%,34.5%,10.3%,22.2%,76.9%,1/3,102,5,6,44,27,17,6,0:49
-9-Nov-2009,Knoxville CH,3,Hard,R32,254,105,0,,3,Taylor Dent,Scoville Jenkins,6-7(5) 6-4 6-2,0.75,2.3%,2.3%,55.2%,70.8%,53.8%,6/10,45.4%,27.6%,12.6%,15.1%,47.1%,1/1,174,2,2,87,48,39,11,1:54
-2-Nov-2009,Charlottesville CH,3,Hard,R16,230,UNR,0,,Q,Sanam Singh,Scoville Jenkins,1-6 7-6(1) 6-4,0.94,3.6%,8.1%,57.7%,73.4%,46.8%,7/9,50.8%,35.7%,7.1%,29.3%,50.0%,3/4,195,4,9,111,64,47,6,2:20
-2-Nov-2009,Charlottesville CH,3,Hard,R32,230,911,1,,Q,Scoville Jenkins,Cory Parr,6-1 5-7 6-3,1.43,7.9%,5.3%,50.0%,76.3%,68.4%,0/1,55.4%,39.5%,7.4%,33.3%,48.5%,4/7,157,6,4,76,38,38,6,1:45
-5-Oct-2009,Sacramento CH,3,Hard,QF,231,113,0,,4,Jesse Levine,Scoville Jenkins,6-1 6-1,0.60,2.0%,14.3%,40.8%,45.0%,37.9%,8/14,38.3%,35.6%,2.2%,25.0%,47.6%,1/1,94,1,7,49,20,29,1,1:01
-5-Oct-2009,Sacramento CH,3,Hard,R16,231,367,1,,Q,Scoville Jenkins,Louk Sorensen,6-3 5-7 6-3,0.99,10.3%,5.6%,57.9%,74.2%,48.9%,8/10,51.0%,36.0%,4.5%,31.7%,44.8%,4/9,196,11,6,107,62,45,4,2:13
-5-Oct-2009,Sacramento CH,3,Hard,R32,231,132,1,,5,Scoville Jenkins,Roko Karanusic,7-6(3) 6-2,0.99,5.3%,8.4%,61.1%,70.7%,43.2%,6/7,51.5%,39.7%,1.5%,32.5%,50.0%,3/9,163,5,8,95,58,37,1,1:37
-14-Sep-2009,Tulsa CH,3,Hard,R16,235,111,0,,5,Jesse Levine,Scoville Jenkins,6-1 6-1,0.42,2.8%,5.6%,52.8%,47.4%,29.4%,0/5,31.6%,25.6%,14.0%,22.2%,31.3%,0/2,79,1,2,36,19,17,6,0:45
-14-Sep-2009,Tulsa CH,3,Hard,R32,235,259,1,,,Scoville Jenkins,Lester Cook,6-3 6-2,1.29,7.6%,11.4%,50.6%,77.5%,46.2%,6/7,56.9%,49.0%,5.9%,42.4%,61.1%,4/7,130,6,9,79,40,39,3,1:22
-31-Aug-2009,US Open Q,3,Hard,Q3,259,69,0,,1,Thomaz Bellucci,Scoville Jenkins,6-2 6-4,0.69,1.8%,7.3%,54.5%,60.0%,40.0%,1/3,42.1%,33.9%,11.9%,26.2%,52.9%,1/4,114,1,4,55,30,25,7,1:29
-31-Aug-2009,US Open Q,3,Hard,Q2,259,379,1,,WC,Scoville Jenkins,Michael Mcclune,6-3 6-4,1.72,10.5%,10.5%,57.9%,90.9%,54.2%,1/1,57.9%,42.2%,9.4%,35.0%,54.2%,2/8,121,6,6,57,33,24,6,1:16
-31-Aug-2009,US Open Q,3,Hard,Q1,259,159,1,,30,Scoville Jenkins,Dominik Hrbaty,6-3 6-4,1.08,11.1%,3.2%,58.7%,67.6%,73.1%,1/1,54.7%,32.6%,0.0%,25.0%,54.5%,2/2,106,7,2,63,37,26,0,1:05
-3-Aug-2009,Vancouver CH,3,Hard,R16,269,235,0,,,Alex Bogdanovic,Scoville Jenkins,3-6 7-6(14) 6-4,0.92,10.0%,7.3%,65.5%,73.6%,42.1%,2/4,48.8%,34.3%,6.7%,32.3%,37.2%,2/8,215,11,8,110,72,38,7,2:32
-3-Aug-2009,Vancouver CH,3,Hard,R32,269,110,1,,1,Scoville Jenkins,Rajeev Ram,7-6(4) 6-4,1.36,10.0%,5.0%,60.0%,88.9%,58.3%,0/1,53.7%,31.7%,11.1%,19.4%,48.1%,2/4,123,6,3,60,36,24,7,1:17
-20-Jul-2009,Lexington CH,3,Hard,R32,270,355,0,,,Lester Cook,Scoville Jenkins,6-4 1-0 RET,0.60,6.4%,12.8%,48.9%,78.3%,20.8%,7/10,42.5%,30.8%,7.7%,15.4%,46.2%,1/1,73,3,6,47,23,24,2,0:58
-13-Jul-2009,Aptos CH,3,Hard,R32,231,263,0,,WC,Alex Kuznetsov,Scoville Jenkins,6-4 1-6 7-6(1),1.08,8.4%,1.2%,53.0%,77.3%,59.0%,0/2,51.2%,33.7%,10.8%,26.8%,40.5%,3/4,166,7,1,83,44,39,9,2:01
-29-Jun-2009,Winnetka CH,3,Hard,QF,UNR,UNR,0,,,Ryler Deheart,Scoville Jenkins,7-6(4) 6-2,0.65,5.3%,5.3%,61.8%,57.4%,48.3%,2/5,42.7%,29.9%,14.9%,20.0%,50.0%,1/3,143,4,4,76,47,29,10,1:31
-29-Jun-2009,Winnetka CH,3,Hard,R16,UNR,UNR,1,,,Scoville Jenkins,Noam Okun,2-6 6-3 6-4,1.08,4.6%,3.4%,67.8%,69.5%,42.9%,2/6,51.1%,42.3%,6.2%,35.2%,51.2%,4/14,184,4,3,87,59,28,6,2:12
-29-Jun-2009,Winnetka CH,3,Hard,R32,UNR,UNR,1,,8,Scoville Jenkins,Andrea Stoppini,7-6(5) 3-6 7-6(3),0.94,1.0%,4.0%,55.4%,71.4%,48.9%,1/5,48.3%,36.1%,3.7%,20.3%,55.1%,3/6,209,1,4,101,56,45,4,2:20
-22-Jun-2009,Wimbledon Q,3,Grass,Q1,221,172,0,,,Edouard Roger Vasselin,Scoville Jenkins,6-7(4) 6-3 6-0,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:39
-8-Jun-2009,Queen's Club Q,3,Grass,Q2,225,179,0,,,Alejandro Falla,Scoville Jenkins,3-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jun-2009,Queen's Club Q,3,Grass,Q1,225,132,1,,6,Scoville Jenkins,Somdev Devvarman,6-1 6-7(6) 6-3,0.82,12.1%,2.0%,74.7%,68.9%,48.0%,1/4,48.1%,29.8%,2.4%,21.6%,42.4%,2/5,183,12,2,99,74,25,2,1:50
-1-Jun-2009,Nottingham CH,3,Grass,R32,UNR,UNR,0,,Q,Joshua Goodall,Scoville Jenkins,6-7(4) 6-4 7-6(3),0.80,6.8%,8.3%,56.8%,73.3%,54.4%,13/15,48.3%,27.8%,13.0%,17.6%,45.0%,1/5,240,9,11,132,75,57,14,2:43
-25-May-2009,Alessandria CH,3,Clay,R16,209,140,0,,2,Jesse Levine,Scoville Jenkins,1-6 7-6(4) 6-2,0.77,5.4%,4.3%,52.7%,75.5%,45.5%,3/5,47.1%,29.9%,7.8%,22.9%,41.4%,2/6,170,5,4,93,49,44,6,2:08
-25-May-2009,Alessandria CH,3,Clay,R32,209,236,1,,,Scoville Jenkins,Andreas Haider Maurer,6-3 2-6 7-6(3),1.04,4.1%,8.2%,53.1%,78.8%,37.0%,4/9,50.8%,42.4%,15.2%,29.2%,67.6%,4/13,197,4,8,98,52,46,15,2:19
-25-May-2009,Roland Garros Q,3,Clay,Q2,209,129,0,,20,Daniel Brands,Scoville Jenkins,7-5 1-6 6-3,1.13,11.8%,2.6%,60.5%,71.7%,56.7%,3/6,51.2%,38.6%,8.0%,36.2%,43.3%,3/11,164,9,2,76,46,30,7,1:55
-25-May-2009,Roland Garros Q,3,Clay,Q1,209,212,1,,,Scoville Jenkins,Sergei Bubka,7-6(5) 4-6 6-4,1.22,10.5%,7.9%,61.4%,75.7%,54.5%,5/7,52.4%,39.6%,6.0%,33.3%,49.1%,2/14,248,12,9,114,70,44,8,2:40
-11-May-2009,Sarasota CH,3,Clay,R16,209,312,0,6,,Jonathan Dasnieres De Veigy,Scoville Jenkins,6-4 2-1 RET,0.79,2.3%,11.4%,54.5%,66.7%,40.0%,5/8,46.3%,36.1%,5.6%,37.0%,33.3%,1/3,80,1,5,44,24,20,2,1:04
-11-May-2009,Sarasota CH,3,Clay,R32,209,378,1,6,LL,Scoville Jenkins,Nicolas Todero,6-2 7-6(3),1.31,3.1%,4.7%,51.6%,81.8%,61.3%,3/3,54.3%,36.9%,7.7%,35.1%,39.3%,2/2,129,2,3,64,33,31,5,1:28
-4-May-2009,Savannah CH,3,Clay,R32,193,390,0,9,WC,Jesse Witten,Scoville Jenkins,0-2 RET,1.72,0.0%,0.0%,81.8%,66.7%,50.0%,0/0,63.2%,62.5%,0.0%,57.1%,100.0%,1/2,19,0,0,11,9,2,0,0:19
-20-Apr-2009,Tallahassee CH,3,Hard,R32,196,123,0,,7,John Isner,Scoville Jenkins,6-4 6-1,0.51,5.6%,7.4%,48.1%,69.2%,39.3%,6/9,39.0%,23.5%,15.7%,20.6%,29.4%,0/2,105,3,4,54,26,28,8,1:15
+18-Jan-2010,USA F2,3,Clay,R32,249,717,0,1,Q,Alexander Ward,Scoville Jenkins,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,USA F1,3,Clay,QF,248,429,0,1,,Morgan Phillips,Scoville Jenkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,USA F1,3,Clay,R16,248,465,1,1,,Scoville Jenkins,Marius Copil,3-6 7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jan-2010,USA F1,3,Clay,R32,248,697,1,1,WC,Scoville Jenkins,Jack Sock,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Nov-2009,Champaign CH,3,Hard,R32,254,166,0,,,Ryan Sweeting,Scoville Jenkins,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Nov-2009,Knoxville CH,3,Hard,R32,254,105,0,,3,Taylor Dent,Scoville Jenkins,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Charlottesville CH,3,Hard,R16,230,,0,,Q,Sanam Singh,Scoville Jenkins,1-6 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Charlottesville CH,3,Hard,R32,230,911,1,,Q,Scoville Jenkins,Cory Parr,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,QF,231,113,0,,4,Jesse Levine,Scoville Jenkins,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,R16,231,367,1,,Q,Scoville Jenkins,Louk Sorensen,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Oct-2009,Sacramento CH,3,Hard,R32,231,132,1,,5,Scoville Jenkins,Roko Karanusic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Tulsa CH,3,Hard,R16,235,111,0,,5,Jesse Levine,Scoville Jenkins,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,Tulsa CH,3,Hard,R32,235,259,1,,,Scoville Jenkins,Lester Cook,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,Q3,259,69,0,,1,Thomaz Bellucci,Scoville Jenkins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,Q2,259,379,1,,WC,Scoville Jenkins,Michael Mcclune,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Aug-2009,US Open,5,Hard,Q1,259,159,1,,30,Scoville Jenkins,Dominik Hrbaty,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Vancouver CH,3,Hard,R16,269,235,0,,,Alex Bogdanovic,Scoville Jenkins,3-6 7-6(14) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Aug-2009,Vancouver CH,3,Hard,R32,269,110,1,,1,Scoville Jenkins,Rajeev Ram,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-2009,Lexington CH,3,Hard,R32,270,355,0,,,Lester Cook,Scoville Jenkins,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Jul-2009,Aptos CH,3,Hard,R32,231,263,0,,WC,Alex Kuznetsov,Scoville Jenkins,6-4 1-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Winnetka CH,3,Hard,QF,221,230,0,,,Ryler Deheart,Scoville Jenkins,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Winnetka CH,3,Hard,R16,221,309,1,,,Scoville Jenkins,Noam Okun,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Winnetka CH,3,Hard,R32,221,177,1,,8,Scoville Jenkins,Andrea Stoppini,7-6(5) 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Jun-2009,Wimbledon,5,Grass,Q1,221,172,0,,,Edouard Roger Vasselin,Scoville Jenkins,6-7(4) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Queen's Club,3,Grass,Q2,225,179,0,,,Alejandro Falla,Scoville Jenkins,3-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2009,Queen's Club,3,Grass,Q1,225,132,1,,6,Scoville Jenkins,Somdev Devvarman,6-1 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2009,Nottingham CH,3,Grass,R32,209,217,0,,Q,Joshua Goodall,Scoville Jenkins,6-7(4) 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Alessandria CH,3,Clay,R16,209,140,0,,2,Jesse Levine,Scoville Jenkins,1-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Alessandria CH,3,Clay,R32,209,236,1,,,Scoville Jenkins,Andreas Haider Maurer,6-3 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros,5,Clay,Q2,209,129,0,,20,Daniel Brands,Scoville Jenkins,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-2009,Roland Garros,5,Clay,Q1,209,212,1,,,Scoville Jenkins,Sergei Bubka,7-6(5) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Sarasota CH,3,Clay,R16,209,312,0,6,,Jonathan Dasnieres De Veigy,Scoville Jenkins,6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+11-May-2009,Sarasota CH,3,Clay,R32,209,378,1,6,LL,Scoville Jenkins,Nicolas Todero,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-May-2009,Savannah CH,3,Clay,R32,193,390,0,9,WC,Jesse Witten,Scoville Jenkins,0-2 RET,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2009,Tallahassee CH,3,Hard,R32,196,123,0,,7,John Isner,Scoville Jenkins,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Apr-2009,Houston,3,Clay,R16,202,77,0,Q,,Bjorn Phau,Scoville Jenkins,6-4 7-6(2),0.76,5.1%,2.5%,57.0%,73.3%,44.1%,5/7,46.6%,29.9%,1.5%,17.2%,39.5%,1/3,146,4,2,79,45,34,1,1:48
 6-Apr-2009,Houston,3,Clay,R32,202,197,1,Q,Q,Scoville Jenkins,Alexander Peya,0-6 6-4 6-3,0.92,0.0%,8.8%,57.5%,56.5%,50.0%,7/12,48.1%,42.7%,6.1%,44.4%,39.3%,4/9,162,0,7,80,46,34,5,1:56
-6-Apr-2009,Houston Q,3,Clay,Q3,202,161,1,8,4,Scoville Jenkins,Donald Young,6-4 6-4,1.31,12.3%,4.6%,63.1%,80.5%,41.7%,2/3,54.8%,44.3%,5.7%,41.9%,48.1%,3/7,135,8,3,65,41,24,4,1:25
-6-Apr-2009,Houston Q,3,Clay,Q2,202,290,1,8,,Scoville Jenkins,Dusan Vemic,6-4 6-0,1.58,3.8%,1.9%,61.5%,71.9%,45.0%,0/2,61.2%,60.8%,3.9%,44.8%,81.8%,6/9,103,2,1,52,32,20,2,1:19
-6-Apr-2009,Houston Q,3,Clay,Q1,202,381,1,8,,Scoville Jenkins,Stephen Bass,6-3 0-6 6-3,0.90,2.1%,4.2%,62.1%,57.6%,52.8%,7/11,48.8%,39.7%,8.2%,34.1%,48.3%,4/11,168,2,4,95,59,36,6,1:53
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q2,199,106,0,,6,Kevin Kim,Scoville Jenkins,6-7(4) 6-2 6-1,0.76,9.4%,9.4%,60.0%,60.8%,32.4%,4/11,43.7%,38.2%,7.9%,22.2%,49.1%,3/3,174,8,8,85,51,34,7,1:55
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q1,199,154,1,,19,Scoville Jenkins,Sam Warburg,6-2 6-3,1.23,13.9%,6.9%,61.1%,81.8%,39.3%,7/7,56.3%,42.6%,10.6%,13.0%,70.8%,3/4,119,10,5,72,44,28,5,1:24
+6-Apr-2009,Houston,3,Clay,Q3,202,161,1,8,4,Scoville Jenkins,Donald Young,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Houston,3,Clay,Q2,202,290,1,8,,Scoville Jenkins,Dusan Vemic,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Houston,3,Clay,Q1,202,381,1,8,,Scoville Jenkins,Stephen Bass,6-3 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters,3,Hard,Q2,199,106,0,,6,Kevin Kim,Scoville Jenkins,6-7(4) 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters,3,Hard,Q1,199,154,1,,19,Scoville Jenkins,Sam Warburg,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Mar-2009,Cherbourg CH,3,Hard,R16,202,138,0,,4,Adrian Mannarino,Scoville Jenkins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Mar-2009,Cherbourg CH,3,Hard,R32,202,311,1,,Q,Scoville Jenkins,Jean Christophe Faurel,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-23-Feb-2009,Wolfsburg CH,3,Carpet,R32,209,226,0,,,Matthias Bachinger,Scoville Jenkins,6-7(7) 6-4 6-2,0.75,8.5%,1.9%,68.9%,64.4%,57.6%,9/13,46.5%,28.3%,9.8%,23.9%,40.0%,1/4,198,9,2,106,73,33,9,1:57
-16-Feb-2009,Belgrade CH,3,Carpet,R32,208,79,0,,3,Sergiy Stakhovsky,Scoville Jenkins,6-3 6-4,0.80,6.1%,8.2%,55.1%,77.8%,50.0%,1/3,43.9%,27.7%,15.4%,24.4%,33.3%,0/4,114,3,4,49,27,22,10,1:07
-2-Feb-2009,Dallas CH,3,Hard,QF,207,205,0,,,Prakash Amritraj,Scoville Jenkins,7-6(3) 4-6 6-4,0.93,5.7%,1.9%,63.2%,62.7%,61.5%,5/8,49.5%,35.1%,6.4%,30.2%,41.5%,3/5,200,6,2,106,67,39,6,2:32
-2-Feb-2009,Dallas CH,3,Hard,R16,207,135,1,,3,Scoville Jenkins,Jesse Levine,6-4 6-1,1.45,9.2%,4.6%,56.9%,75.7%,53.6%,9/10,58.5%,49.1%,3.8%,34.4%,71.4%,4/5,118,6,3,65,37,28,2,1:20
-2-Feb-2009,Dallas CH,3,Hard,R32,207,290,1,,,Scoville Jenkins,Jean Christophe Faurel,6-3 3-6 6-4,1.15,12.8%,4.7%,66.3%,71.9%,62.1%,0/1,52.0%,36.0%,7.9%,24.4%,45.8%,2/6,175,11,4,86,57,29,7,1:59
-26-Jan-2009,Carson CH,3,Hard,F,UNR,UNR,0,,4,Wayne Odesnik,Scoville Jenkins,6-4 6-4,0.81,15.4%,1.9%,67.3%,74.3%,47.1%,1/3,45.1%,27.9%,18.0%,25.0%,33.3%,0/4,113,8,1,52,35,17,11,1:17
-26-Jan-2009,Carson CH,3,Hard,SF,UNR,UNR,1,,2,Scoville Jenkins,Kevin Kim,6-4 6-3,1.16,7.0%,7.0%,56.3%,72.5%,51.6%,5/6,54.4%,42.6%,1.9%,31.4%,63.2%,3/7,125,5,5,71,40,31,1,1:22
-26-Jan-2009,Carson CH,3,Hard,QF,UNR,UNR,1,,Q,Scoville Jenkins,Cecil Mamiit,6-3 6-4,1.58,13.0%,0.0%,64.8%,82.9%,63.2%,5/5,56.3%,37.9%,1.7%,25.7%,56.5%,3/7,112,7,0,54,35,19,1,1:20
-26-Jan-2009,Carson CH,3,Hard,R16,UNR,UNR,1,,,Scoville Jenkins,Giovanni Lapentti,6-7(7) 7-5 7-6(1),1.09,6.2%,2.3%,60.5%,70.5%,51.0%,8/11,50.9%,40.7%,5.3%,29.4%,64.6%,4/20,279,8,3,129,78,51,8,3:26
-26-Jan-2009,Carson CH,3,Hard,R32,UNR,UNR,1,,8,Scoville Jenkins,Somdev Devvarman,6-1 6-4,1.44,6.0%,2.0%,58.0%,79.3%,47.6%,0/1,57.9%,48.9%,2.2%,42.1%,53.8%,4/5,95,3,1,50,29,21,1,1:15
-19-Jan-2009,Australian Open Q,3,Hard,Q1,215,564,0,,,Marco Chiudinelli,Scoville Jenkins,6-3 6-1,0.61,3.7%,3.7%,63.0%,44.1%,45.0%,3/8,39.1%,33.9%,5.4%,26.7%,63.6%,1/7,110,2,2,54,34,20,3,1:13
-5-Jan-2009,Noumea CH,3,Hard,R32,213,350,0,,Q,Alexander Slabinsky,Scoville Jenkins,5-7 6-2 6-4,0.76,11.7%,2.9%,63.1%,56.9%,60.5%,3/7,46.3%,31.8%,10.6%,19.3%,57.1%,2/6,188,12,3,103,65,38,9,2:17
+23-Feb-2009,Wolfsburg CH,3,Carpet,R32,209,226,0,,,Matthias Bachinger,Scoville Jenkins,6-7(7) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Belgrade CH,3,Carpet,R32,208,79,0,,3,Sergiy Stakhovsky,Scoville Jenkins,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Dallas CH,3,Hard,QF,207,205,0,,,Prakash Amritraj,Scoville Jenkins,7-6(3) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Dallas CH,3,Hard,R16,207,135,1,,3,Scoville Jenkins,Jesse Levine,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Dallas CH,3,Hard,R32,207,290,1,,,Scoville Jenkins,Jean Christophe Faurel,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,F,215,115,0,,4,Wayne Odesnik,Scoville Jenkins,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,SF,215,112,1,,2,Scoville Jenkins,Kevin Kim,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,QF,215,461,1,,Q,Scoville Jenkins,Cecil Mamiit,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,R16,215,216,1,,,Scoville Jenkins,Giovanni Lapentti,6-7(7) 7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,R32,215,155,1,,8,Scoville Jenkins,Somdev Devvarman,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open,5,Hard,Q1,215,564,0,,,Marco Chiudinelli,Scoville Jenkins,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2009,Noumea CH,3,Hard,R32,213,350,0,,Q,Alexander Slabinsky,Scoville Jenkins,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Nov-2008,Champaign CH,3,Hard,R32,207,596,0,,Q,Nikita Kryvonos,Scoville Jenkins,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Nov-2008,Nashville CH,3,Hard,QF,215,91,0,,4,Robert Kendrick,Scoville Jenkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Nov-2008,Nashville CH,3,Hard,R16,215,137,1,,,Scoville Jenkins,Ilija Bozoljac,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -64,22 +68,22 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Oct-2008,Sacramento CH,3,Hard,R32,216,89,1,,1,Scoville Jenkins,Vincent Spadea,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Sep-2008,Napoli CH,3,Clay,R16,215,262,0,,,Alessio Di Mauro,Scoville Jenkins,3-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
 22-Sep-2008,Napoli CH,3,Clay,R32,215,862,1,,Q,Scoville Jenkins,Romano Frantzen,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Sep-2008,Orleans CH,3,Hard,R32,213,172,0,,,Alex Bogdanovic,Scoville Jenkins,6-0 6-1,0.50,4.8%,7.2%,61.4%,54.9%,28.1%,9/14,38.9%,27.9%,11.6%,24.0%,33.3%,0/4,126,4,6,83,51,32,5,1:21
+8-Sep-2008,Orleans CH,3,Hard,R32,213,172,0,,,Alex Bogdanovic,Scoville Jenkins,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 25-Aug-2008,US Open,5,Hard,R128,196,37,0,WC,,Jarkko Nieminen,Scoville Jenkins,6-3 6-3 7-5,0.67,8.8%,5.9%,56.9%,67.2%,36.4%,8/14,43.0%,30.8%,5.5%,23.7%,43.8%,2/10,193,9,6,102,58,44,5,2:05
-17-Aug-2008,New Haven Q,3,Hard,Q2,196,755,0,4,,Phillip Simmonds,Scoville Jenkins,6-3 6-3,0.59,7.9%,9.2%,60.5%,69.6%,36.7%,10/13,44.1%,25.5%,7.8%,21.2%,33.3%,0/0,127,6,7,76,46,30,4,1:25
-17-Aug-2008,New Haven Q,3,Hard,Q1,196,433,1,4,,Scoville Jenkins,Cecil Mamiit,6-3 3-6 7-6(5),0.97,0.9%,4.6%,56.9%,61.3%,40.4%,11/17,49.3%,46.2%,1.9%,42.0%,50.0%,6/7,215,1,5,109,62,47,2,2:36
-28-Jul-2008,Vancouver CH,3,Hard,R32,195,483,0,,Q,Kyu Tae Im,Scoville Jenkins,7-5 6-7(3) 6-3,0.88,5.8%,6.7%,67.3%,65.7%,44.1%,3/8,47.0%,36.5%,2.6%,28.6%,48.9%,3/11,219,6,7,104,70,34,3,2:42
+17-Aug-2008,New Haven Q,3,Hard,Q2,196,755,0,4,,Phillip Simmonds,Scoville Jenkins,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Aug-2008,New Haven Q,3,Hard,Q1,196,433,1,4,,Scoville Jenkins,Cecil Mamiit,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Jul-2008,Vancouver CH,3,Hard,R32,195,483,0,,Q,Kyu Tae Im,Scoville Jenkins,7-5 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Jul-2008,Lexington CH,3,Hard,R32,200,162,0,,,Xavier Malisse,Scoville Jenkins,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Jul-2008,Aptos CH,3,Hard,SF,213,307,0,4,,Andrea Stoppini,Scoville Jenkins,6-3 1-6 6-3,1.08,4.5%,6.1%,68.2%,66.7%,61.9%,2/5,49.7%,37.6%,4.7%,26.9%,54.5%,3/11,151,3,4,66,45,21,4,1:31
-14-Jul-2008,Aptos CH,3,Hard,QF,213,302,1,4,,Scoville Jenkins,Todd Widom,7-5 6-3,1.43,7.9%,3.2%,61.9%,74.4%,70.8%,1/1,54.3%,38.7%,8.0%,36.0%,44.0%,2/6,138,5,2,63,39,24,6,1:40
-14-Jul-2008,Aptos CH,3,Hard,R16,213,294,1,4,,Scoville Jenkins,Ti Chen,4-6 6-3 6-4,1.09,5.8%,2.9%,63.1%,67.7%,47.4%,12/15,52.0%,43.3%,3.1%,41.0%,47.2%,4/7,200,6,3,103,65,38,3,2:28
-14-Jul-2008,Aptos CH,3,Hard,R32,213,532,1,4,,Scoville Jenkins,Alessandro Da Col,7-5 6-7(5) 6-2,1.29,10.4%,5.2%,53.1%,72.5%,60.0%,1/3,54.1%,43.1%,2.8%,32.1%,54.7%,5/9,205,10,5,96,51,45,3,2:30
-30-Jun-2008,Winnetka CH,3,Hard,F,UNR,UNR,0,6,,Rajeev Ram,Scoville Jenkins,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-30-Jun-2008,Winnetka CH,3,Hard,SF,UNR,UNR,1,6,3,Scoville Jenkins,Robert Kendrick,4-5 RET,,,,,,,,,,,,,,,,,,,,,
-30-Jun-2008,Winnetka CH,3,Hard,QF,UNR,UNR,1,6,2,Scoville Jenkins,Go Soeda,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
-30-Jun-2008,Winnetka CH,3,Hard,R16,UNR,UNR,1,6,Q,Scoville Jenkins,Jae Sung An,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-30-Jun-2008,Winnetka CH,3,Hard,R32,UNR,UNR,1,6,Q,Scoville Jenkins,Phillip Simmonds,6-7(3) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Jun-2008,Wimbledon Q,3,Grass,Q1,224,249,0,,,Ryan Sweeting,Scoville Jenkins,3-6 7-6(3) 7-5,0.82,16.7%,5.6%,63.9%,75.4%,51.3%,2/3,48.3%,27.4%,12.6%,20.0%,43.3%,1/3,203,18,6,108,69,39,12,2:02
+14-Jul-2008,Aptos CH,3,Hard,SF,213,307,0,4,,Andrea Stoppini,Scoville Jenkins,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Aptos CH,3,Hard,QF,213,302,1,4,,Scoville Jenkins,Todd Widom,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Aptos CH,3,Hard,R16,213,294,1,4,,Scoville Jenkins,Ti Chen,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Jul-2008,Aptos CH,3,Hard,R32,213,532,1,4,,Scoville Jenkins,Alessandro Da Col,7-5 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Winnetka CH,3,Hard,F,224,278,0,6,,Rajeev Ram,Scoville Jenkins,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Winnetka CH,3,Hard,SF,224,125,1,6,3,Scoville Jenkins,Robert Kendrick,4-5 RET,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Winnetka CH,3,Hard,QF,224,124,1,6,2,Scoville Jenkins,Go Soeda,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Winnetka CH,3,Hard,R16,224,418,1,6,Q,Scoville Jenkins,Jae Sung An,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-2008,Winnetka CH,3,Hard,R32,224,704,1,6,Q,Scoville Jenkins,Phillip Simmonds,6-7(3) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2008,Wimbledon Q,3,Grass,Q1,224,249,0,,,Ryan Sweeting,Scoville Jenkins,3-6 7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
 25-May-2008,Roland Garros,5,Clay,R128,226,102,0,Q,LL,Luis Horna,Scoville Jenkins,6-4 5-7 6-3 6-0,0.70,7.0%,5.4%,59.7%,62.3%,42.3%,15/23,44.7%,32.0%,2.1%,24.7%,54.2%,3/5,226,9,7,129,77,52,2,2:46
 25-May-2008,Roland Garros Q,3,Clay,Q3,226,140,1,,21,Scoville Jenkins,Ruben Ramirez Hidalgo,6-3 6-7(1) 9-7,,,,,,,,,,,,,,,,,,,,,
 25-May-2008,Roland Garros Q,3,Clay,Q2,226,101,1,,6,Scoville Jenkins,Kevin Anderson,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
@@ -93,23 +97,23 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Apr-2008,Tallahassee CH,3,Hard,R16,260,421,1,,Q,Scoville Jenkins,Philipp Oswald,4-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Apr-2008,Tallahassee CH,3,Hard,R32,260,160,1,,4,Scoville Jenkins,Jesse Levine,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2008,Humacao CH,3,Hard,R32,256,195,0,,,Brendan Evans,Scoville Jenkins,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Mar-2008,San Luis Potosi CH,3,Clay,R16,UNR,UNR,0,,5,Brian Dabul,Scoville Jenkins,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Mar-2008,San Luis Potosi CH,3,Clay,R32,UNR,1315,1,,WC,Scoville Jenkins,Manuel Sanchez,6-7(4) 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2008,Indian Wells Masters Q,3,Hard,Q2,266,154,0,,24,Dusan Vemic,Scoville Jenkins,6-4 3-6 7-6(3),1.00,11.5%,3.8%,66.3%,75.4%,45.7%,11/13,49.3%,34.5%,3.5%,30.4%,44.1%,2/13,217,12,4,104,69,35,4,2:39
-13-Mar-2008,Indian Wells Masters Q,3,Hard,Q1,266,76,1,,4,Scoville Jenkins,Mischa Zverev,4-6 6-3 6-2,1.55,13.9%,4.2%,72.2%,84.6%,50.0%,0/1,55.0%,38.6%,9.1%,32.8%,50.0%,3/12,160,10,3,72,52,20,8,1:28
+17-Mar-2008,San Luis Potosi CH,3,Clay,R16,266,162,0,,5,Brian Dabul,Scoville Jenkins,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2008,San Luis Potosi CH,3,Clay,R32,266,1315,1,,WC,Scoville Jenkins,Manuel Sanchez,6-7(4) 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters Q,3,Hard,Q2,266,154,0,,24,Dusan Vemic,Scoville Jenkins,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2008,Indian Wells Masters Q,3,Hard,Q1,266,76,1,,4,Scoville Jenkins,Mischa Zverev,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Mar-2008,Las Vegas Q,3,Hard,Q2,265,126,0,,6,Amer Delic,Scoville Jenkins,6-2 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Mar-2008,Las Vegas Q,3,Hard,Q1,265,794,1,,,Scoville Jenkins,Jose De Armas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Feb-2008,San Jose Q,3,Hard,Q2,262,739,0,,,Tim Smyczek,Scoville Jenkins,6-4 6-1,0.71,8.3%,12.5%,35.4%,94.1%,29.0%,0/4,42.6%,34.0%,13.2%,25.0%,44.0%,1/2,101,4,6,48,17,31,7,1:05
-18-Feb-2008,San Jose Q,3,Hard,Q1,262,382,1,,,Scoville Jenkins,Marco Crugnola,6-4 6-3,1.27,12.3%,8.8%,57.9%,78.8%,54.2%,0/1,54.5%,40.0%,5.5%,28.6%,51.9%,3/6,112,7,5,57,33,24,3,1:03
+18-Feb-2008,San Jose Q,3,Hard,Q2,262,739,0,,,Tim Smyczek,Scoville Jenkins,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Feb-2008,San Jose Q,3,Hard,Q1,262,382,1,,,Scoville Jenkins,Marco Crugnola,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Jan-2008,Dallas CH,3,Hard,R32,242,107,0,,2,Denis Gremelmayr,Scoville Jenkins,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2008,Waikoloa CH,3,Hard,QF,UNR,UNR,0,WC,,Leonardo Mayer,Scoville Jenkins,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
-21-Jan-2008,Waikoloa CH,3,Hard,R16,UNR,UNR,1,WC,,Scoville Jenkins,Benedikt Dorsch,6-7(13) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2008,Waikoloa CH,3,Hard,R32,UNR,UNR,1,WC,4,Scoville Jenkins,Michael Russell,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-14-Jan-2008,Australian Open Q,3,Hard,Q3,266,160,0,,30,Harel Levy,Scoville Jenkins,7-6(4) 6-3,0.80,4.7%,7.8%,51.6%,81.8%,48.4%,1/2,45.3%,27.4%,2.7%,11.6%,50.0%,0/3,137,3,5,64,33,31,2,1:29
-14-Jan-2008,Australian Open Q,3,Hard,Q2,266,173,1,,,Scoville Jenkins,Andrey Golubev,6-1 6-3,1.75,5.9%,3.9%,64.7%,69.7%,77.8%,1/1,60.6%,47.9%,6.3%,45.2%,52.9%,4/8,99,3,2,51,33,18,3,0:57
-14-Jan-2008,Australian Open Q,3,Hard,Q1,266,291,1,,,Scoville Jenkins,Brian Wilson,6-2 6-2,1.66,0.0%,8.3%,66.7%,68.8%,50.0%,0/2,62.4%,62.2%,4.4%,61.5%,63.2%,6/9,93,0,4,48,32,16,2,1:01
+21-Jan-2008,Waikoloa CH,3,Hard,QF,266,175,0,WC,,Leonardo Mayer,Scoville Jenkins,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,R16,266,209,1,WC,,Scoville Jenkins,Benedikt Dorsch,6-7(13) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2008,Waikoloa CH,3,Hard,R32,266,101,1,WC,4,Scoville Jenkins,Michael Russell,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q3,266,160,0,,30,Harel Levy,Scoville Jenkins,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q2,266,173,1,,,Scoville Jenkins,Andrey Golubev,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Jan-2008,Australian Open Q,3,Hard,Q1,266,291,1,,,Scoville Jenkins,Brian Wilson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Dec-2007,Noumea CH,3,Hard,R16,273,184,0,,4,David Guez,Scoville Jenkins,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-31-Dec-2007,Noumea CH,3,Hard,R32,273,UNR,1,,Q,Scoville Jenkins,Philippe Poignon,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Dec-2007,Noumea CH,3,Hard,R32,273,,1,,Q,Scoville Jenkins,Philippe Poignon,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Nov-2007,Champaign CH,3,Hard,R16,279,229,0,,,Benedikt Dorsch,Scoville Jenkins,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 12-Nov-2007,Champaign CH,3,Hard,R32,279,107,1,,4,Scoville Jenkins,Bobby Reynolds,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Nov-2007,Nashville CH,3,Hard,R32,276,231,0,Q,,Jamie Baker,Scoville Jenkins,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -130,22 +134,35 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jul-2007,Aptos CH,3,Hard,R32,334,230,1,,8,Scoville Jenkins,Ryan Sweeting,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
 9-Jul-2007,Newport,3,Grass,R16,367,467,0,WC,Q,Prakash Amritraj,Scoville Jenkins,6-4 6-3,0.78,9.0%,6.0%,55.2%,62.2%,50.0%,3/7,46.7%,34.0%,5.7%,26.9%,40.7%,1/4,120,6,4,67,37,30,3,1:23
 9-Jul-2007,Newport,3,Grass,R32,367,139,1,WC,,Scoville Jenkins,Daniele Bracciali,6-2 6-1,2.10,24.4%,4.4%,66.7%,86.7%,53.3%,0/0,64.3%,51.3%,2.6%,29.2%,86.7%,4/6,84,11,2,45,30,15,1,0:52
-2-Jul-2007,Winnetka CH,3,Hard,QF,UNR,UNR,0,,Q,Kevin Anderson,Scoville Jenkins,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-2-Jul-2007,Winnetka CH,3,Hard,R16,UNR,UNR,1,,,Scoville Jenkins,Tobias Kamke,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-2-Jul-2007,Winnetka CH,3,Hard,R32,UNR,UNR,1,,,Scoville Jenkins,Takahiro Terachi,6-1 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Winnetka CH,3,Hard,QF,330,419,0,,Q,Kevin Anderson,Scoville Jenkins,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Winnetka CH,3,Hard,R16,330,304,1,,,Scoville Jenkins,Tobias Kamke,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Jul-2007,Winnetka CH,3,Hard,R32,330,378,1,,,Scoville Jenkins,Takahiro Terachi,6-1 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,USA F13,3,Hard,R16,361,474,0,5,SE,Kevin Anderson,Scoville Jenkins,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jun-2007,USA F13,3,Hard,R32,361,620,1,5,WC,Scoville Jenkins,Michael Mcclune,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,USA F12,3,Hard,F,360,471,1,5,,Scoville Jenkins,Kevin Anderson,7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,USA F12,3,Hard,SF,360,504,1,5,,Scoville Jenkins,Fritz Wolmarans,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,USA F12,3,Hard,QF,360,296,1,5,1,Scoville Jenkins,Miguel Gallardo Valles,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,USA F12,3,Hard,R16,360,619,1,5,WC,Scoville Jenkins,Michael Mcclune,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,USA F12,3,Hard,R32,360,436,1,5,,Scoville Jenkins,Lesley Joseph,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 28-May-2007,Carson CH,3,Hard,R32,367,192,0,WC,8,Dudi Sela,Scoville Jenkins,3-6 7-6(10) 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Apr-2007,Bermuda CH,3,Clay,R16,380,95,0,WC,2,Alexander Peya,Scoville Jenkins,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Apr-2007,Bermuda CH,3,Clay,R32,380,192,1,WC,,Scoville Jenkins,Benedikt Dorsch,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 9-Apr-2007,Valencia CH,3,Hard,R16,340,203,0,Q,,Dudi Sela,Scoville Jenkins,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Apr-2007,Valencia CH,3,Hard,R32,340,308,1,Q,Q,Scoville Jenkins,Wesley Whitehouse,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Apr-2007,Tallahassee CH,3,Hard,R32,344,280,0,WC,,Robert Smeets,Scoville Jenkins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,USA F6,3,Hard,SF,360,334,0,2,4,Wesley Whitehouse,Scoville Jenkins,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,USA F6,3,Hard,QF,360,454,1,2,8,Scoville Jenkins,Donald Young,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,USA F6,3,Hard,R16,360,579,1,2,,Scoville Jenkins,Ryler Deheart,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Mar-2007,USA F6,3,Hard,R32,360,524,1,2,,Scoville Jenkins,Martin Vilarrubi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2007,Dallas CH,3,Hard,R16,354,200,0,WC,,Rajeev Ram,Scoville Jenkins,6-7(5) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2007,Dallas CH,3,Hard,R32,354,116,1,WC,6,Scoville Jenkins,Ilija Bozoljac,7-6(5) 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Jan-2007,Delray Beach,3,Hard,RR,390,6,0,Q,1,James Blake,Scoville Jenkins,6-1 6-3,0.40,1.9%,7.4%,53.7%,72.4%,24.0%,5/9,37.2%,20.0%,10.0%,9.5%,31.6%,0/0,94,1,4,54,29,25,4,0:51
 28-Jan-2007,Delray Beach,3,Hard,RR,390,87,0,Q,,Robert Kendrick,Scoville Jenkins,6-4 6-4,0.50,1.3%,5.1%,60.8%,58.3%,51.6%,7/10,42.6%,22.0%,16.0%,14.3%,40.0%,1/1,129,1,4,79,48,31,8,1:13
-28-Jan-2007,Delray Beach,3,Hard,R32,390,141,1,Q,,Scoville Jenkins,Alex Bogdanovic,6-3 7-6(3),1.19,8.6%,1.4%,84.3%,64.4%,54.5%,8/10,53.1%,44.2%,6.5%,27.1%,72.4%,4/10,147,6,1,70,59,11,5,1:26
-28-Jan-2007,Delray Beach Q,3,Hard,Q2,390,338,1,,7,Scoville Jenkins,Frederic Niemeyer,6-7(4) 7-6(5) 6-2,1.19,3.3%,2.5%,71.1%,70.9%,54.3%,13/15,53.0%,40.5%,11.1%,26.0%,60.4%,4/12,247,4,3,121,86,35,14,2:47
-28-Jan-2007,Delray Beach Q,3,Hard,Q1,390,243,1,,4,Scoville Jenkins,Alan Mackin,6-3 4-6 6-4,1.16,8.5%,2.4%,65.9%,72.2%,57.1%,2/4,51.7%,38.3%,4.3%,23.1%,72.4%,4/7,176,7,2,82,54,28,4,1:46
+28-Jan-2007,Delray Beach Q,3,Hard,Q2,390,338,1,,7,Scoville Jenkins,Frederic Niemeyer,6-7(4) 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jan-2007,Delray Beach Q,3,Hard,Q1,390,243,1,,4,Scoville Jenkins,Alan Mackin,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2007,USA F3,3,Hard,R32,,,0,6,Q,Dmitry Vlasov,Scoville Jenkins,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,USA F2,3,Hard,R16,361,775,0,6,SE,Pierrick Ysern,Scoville Jenkins,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2007,USA F2,3,Hard,R32,361,497,1,6,,Scoville Jenkins,Daniel Yoo,3-6 6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2006,Sacramento CH,3,Hard,R32,346,234,0,Q,,Alex Bogomolov Jr,Scoville Jenkins,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2006,Lubbock CH,3,Hard,R32,320,141,0,WC,1,Robert Kendrick,Scoville Jenkins,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2006,New Orleans CH,3,Hard,R16,329,275,0,,,Eric Nunez,Scoville Jenkins,6-2 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -153,10 +170,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Aug-2006,US Open,5,Hard,R128,277,35,0,WC,29,Jonas Bjorkman,Scoville Jenkins,7-5 6-4 6-4,0.81,2.0%,5.9%,61.4%,62.9%,51.3%,11/17,46.4%,33.7%,5.3%,19.3%,55.3%,3/9,196,2,6,101,62,39,5,2:15
 31-Jul-2006,Vancouver CH,3,Hard,R32,255,139,0,,4,Rik De Voest,Scoville Jenkins,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2006,Aptos CH,3,Hard,R32,238,257,0,5,,Go Soeda,Scoville Jenkins,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-3-Jul-2006,Winnetka CH,3,Hard,SF,UNR,UNR,0,,,Andrea Stoppini,Scoville Jenkins,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Jul-2006,Winnetka CH,3,Hard,QF,UNR,UNR,1,,Q,Scoville Jenkins,Alex Kuznetsov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jul-2006,Winnetka CH,3,Hard,R16,UNR,UNR,1,,,Scoville Jenkins,Eric Taino,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-3-Jul-2006,Winnetka CH,3,Hard,R32,UNR,UNR,1,,8,Scoville Jenkins,Michael Russell,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,SF,248,266,0,,,Andrea Stoppini,Scoville Jenkins,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,QF,248,476,1,,Q,Scoville Jenkins,Alex Kuznetsov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,R16,248,271,1,,,Scoville Jenkins,Eric Taino,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2006,Winnetka CH,3,Hard,R32,248,202,1,,8,Scoville Jenkins,Michael Russell,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q3,248,,0,,WC,Josh Goodall,Scoville Jenkins,7-6(4) 4-6 7-6(6) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q2,248,233,1,,,Scoville Jenkins,Michael Lammer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q1,248,261,1,,,Scoville Jenkins,Simone Vagnozzi,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Roland Garros,5,Clay,Q1,246,181,0,,,Martin Vassallo Arguello,Scoville Jenkins,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 15-May-2006,Forest Hills CH,3,Clay,R32,245,219,0,,,Noam Okun,Scoville Jenkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 8-May-2006,Tunica Resorts CH,3,Clay,R32,247,178,0,,,Diego Hartfield,Scoville Jenkins,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 1-May-2006,Atlanta CH,3,Clay,R32,243,131,0,WC,4,Frank Dancevic,Scoville Jenkins,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -165,6 +186,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Apr-2006,Houston,3,Clay,R32,243,110,1,Q,Q,Scoville Jenkins,Igor Kunitsyn,7-5 2-6 6-3,1.05,6.5%,5.4%,66.7%,71.0%,41.9%,4/8,50.8%,40.8%,3.1%,38.5%,45.5%,4/10,191,6,5,93,62,31,3,2:23
 20-Feb-2006,Memphis,3,Hard,R32,244,73,0,WC,,Paul Goldstein,Scoville Jenkins,6-4 6-3,0.76,8.9%,1.8%,73.2%,63.4%,46.7%,2/6,45.8%,31.4%,5.9%,29.2%,33.3%,1/4,107,5,1,56,41,15,3,1:21
 13-Feb-2006,San Jose,3,Hard,R32,246,297,0,WC,LL,Travis Rettenmaier,Scoville Jenkins,7-5 3-6 6-3,1.04,6.0%,4.8%,54.8%,76.1%,60.5%,4/7,50.0%,32.2%,3.3%,22.6%,45.9%,2/6,174,5,4,84,46,38,3,2:00
+16-Jan-2006,USA F2,3,Hard,F,266,276,1,1,2,Scoville Jenkins,Eric Nunez,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,SF,266,510,1,1,,Scoville Jenkins,Alex Kuznetsov,6-7(9) 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,QF,266,389,1,1,5,Scoville Jenkins,Ivan Miranda,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,R16,266,,1,1,Q,Scoville Jenkins,Dmitry Vlasov,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2006,USA F2,3,Hard,R32,266,620,1,1,LL,Scoville Jenkins,Hyung Kwon Kim,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,R16,265,,0,1,Q,Dmitry Vlasov,Scoville Jenkins,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2006,USA F1,3,Hard,R32,265,833,1,1,WC,Scoville Jenkins,Alex Clayton,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Nov-2005,Orlando CH,3,Hard,R16,266,98,0,,2,Bobby Reynolds,Scoville Jenkins,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 28-Nov-2005,Orlando CH,3,Hard,R32,266,551,1,,WC,Scoville Jenkins,David Martin,2-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2005,Boston CH,3,Hard,R32,269,189,0,WC,,Andre Sa,Scoville Jenkins,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -186,37 +214,45 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jul-2005,Aptos CH,3,Hard,QF,503,174,0,WC,,Bobby Reynolds,Scoville Jenkins,3-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 11-Jul-2005,Aptos CH,3,Hard,R16,503,293,1,WC,,Scoville Jenkins,Tomas Cakl,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Jul-2005,Aptos CH,3,Hard,R32,503,108,1,WC,3,Scoville Jenkins,Bjorn Phau,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,USA F14,3,Hard,QF,566,360,0,SE,7,Lesley Joseph,Scoville Jenkins,6-2 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,USA F14,3,Hard,R16,566,423,1,SE,SE,Scoville Jenkins,Ryan Newport,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,USA F14,3,Hard,R32,566,1329,1,SE,WC,Scoville Jenkins,Greg Ouellette,6-7(5) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,USA F13,3,Hard,SF,565,325,0,WC,5,Wayne Odesnik,Scoville Jenkins,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,USA F13,3,Hard,QF,565,1116,1,WC,Q,Scoville Jenkins,Scott Oudsema,6-3 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,USA F13,3,Hard,R16,565,297,1,WC,4,Scoville Jenkins,Robert Smeets,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2005,USA F13,3,Hard,R32,565,889,1,WC,WC,Scoville Jenkins,Nikita Kryvonos,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-May-2005,USA F11,3,Clay,R16,564,447,0,,7,Brendan Evans,Scoville Jenkins,6-0 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2005,USA F11,3,Clay,R32,564,817,1,,Q,Scoville Jenkins,Bo Hodge,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-May-2005,USA F10,3,Clay,R32,566,942,0,,,Peter Clarke,Scoville Jenkins,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 2-May-2005,Tunica Resorts CH,3,Clay,R32,568,175,0,WC,8,Juan Pablo Guzman,Scoville Jenkins,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2005,Bermuda CH,3,Clay,R16,620,66,0,WC,2,Tomas Zib,Scoville Jenkins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2005,Bermuda CH,3,Clay,R32,620,115,1,WC,,Scoville Jenkins,Antony Dupuis,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Apr-2005,Tallahassee CH,3,Hard,R32,624,189,0,WC,,Juan Pablo Brzezicki,Scoville Jenkins,4-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2005,USA F5,3,Hard,SF,688,569,0,WC,WC,Ryan Newport,Scoville Jenkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2005,USA F5,3,Hard,QF,688,675,1,WC,Q,Scoville Jenkins,Lester Cook,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+28-Feb-2005,USA F5,3,Hard,R16,688,487,1,WC,,Scoville Jenkins,Roger Anderson,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Feb-2005,USA F5,3,Hard,R32,688,381,1,WC,7,Scoville Jenkins,Petr Kralert,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2005,Memphis,3,Hard,R32,744,68,0,WC,,Kevin Kim,Scoville Jenkins,6-4 6-7(5) 7-6(4),0.98,11.5%,1.0%,68.3%,73.2%,66.7%,3/6,49.5%,28.3%,8.5%,26.4%,32.4%,2/6,210,12,1,104,71,33,9,1:58
+31-Jan-2005,Qatar F3,3,Hard,R16,772,358,0,,1,Norikazu Sugiyama,Scoville Jenkins,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jan-2005,Qatar F3,3,Hard,R32,772,1037,1,,Q,Scoville Jenkins,Yasuo Miyazaki,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Qatar F2,3,Hard,QF,767,529,0,Q,,Slimane Saoudi,Scoville Jenkins,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Qatar F2,3,Hard,R16,767,476,1,Q,8,Scoville Jenkins,Philipp Mukhometov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Qatar F2,3,Hard,R32,767,,1,Q,WC,Scoville Jenkins,Ali El Alaoui,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Nov-2004,USA F32,3,Hard,R32,813,467,0,,5,Robert Yim,Scoville Jenkins,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2004,USA F31,3,Hard,QF,814,456,0,,6,Horia Tecau,Scoville Jenkins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2004,USA F31,3,Hard,R16,814,732,1,,,Scoville Jenkins,Julien Cassaigne,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2004,USA F31,3,Hard,R32,814,,1,,WC,Scoville Jenkins,Timothy Neilly,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2004,USA F30,3,Hard,R16,891,332,0,Q,5,Prakash Amritraj,Scoville Jenkins,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-2004,USA F30,3,Hard,R32,891,937,1,Q,Q,Scoville Jenkins,Mat Cloer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2004,USA F29,3,Hard,QF,889,585,0,Q,SE,Alexander Hartman,Scoville Jenkins,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2004,USA F29,3,Hard,R16,889,517,1,Q,,Scoville Jenkins,Chris Kwon,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2004,USA F29,3,Hard,R32,889,286,1,Q,3,Scoville Jenkins,Rajeev Ram,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 11-Oct-2004,Tiburon CH,3,Hard,R32,919,727,0,WC,WC,Michael Yani,Scoville Jenkins,7-5 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Oct-2004,Austin CH,3,Hard,R32,964,177,0,WC,5,Brian Baker,Scoville Jenkins,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2004,US Open Jrs,3,Hard,QF,,,0,10,2,Andreas Beck,Scoville Jenkins,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-5-Sep-2004,US Open Jrs,3,Hard,R16,,,1,10,6,Scoville Jenkins,Eduardo Schwank,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2004,US Open Jrs,3,Hard,R32,,,1,10,SE,Scoville Jenkins,Timothy Neilly,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2004,US Open Jrs,3,Hard,R64,,,1,10,,Scoville Jenkins,Divij Sharan,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-30-Aug-2004,US Open,5,Hard,R128,UNR,2,0,WC,2,Andy Roddick,Scoville Jenkins,6-0 6-2 6-2,0.21,1.4%,5.8%,49.3%,55.9%,31.4%,4/11,30.3%,12.0%,22.0%,2.6%,45.5%,0/0,119,1,4,69,34,35,11,1:10
-26-Jun-2004,Wimbledon Jrs,3,Grass,SF,,,0,11,,Miles Kasiri,Scoville Jenkins,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
-26-Jun-2004,Wimbledon Jrs,3,Grass,QF,,,1,11,,Scoville Jenkins,Woong Sun Jun,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Jun-2004,Wimbledon Jrs,3,Grass,R16,,,1,11,Q,Scoville Jenkins,Martin Fischer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Jun-2004,Wimbledon Jrs,3,Grass,R32,,,1,11,,Scoville Jenkins,Juan Martin Del Potro,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jun-2004,Wimbledon Jrs,3,Grass,R64,,,1,11,,Scoville Jenkins,Peter Miklusicak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-30-May-2004,Roland Garros Jrs,3,Clay,R16,,,0,,9,Kamil Capkovic,Scoville Jenkins,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-30-May-2004,Roland Garros Jrs,3,Clay,R32,,,1,,7,Scoville Jenkins,Eduardo Schwank,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-30-May-2004,Roland Garros Jrs,3,Clay,R64,,,1,,,Scoville Jenkins,Gd Jones,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2004,Australian Open Jrs,3,Hard,QF,,,0,13,8,Gael Monfils,Scoville Jenkins,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2004,Australian Open Jrs,3,Hard,R16,,,1,13,,Scoville Jenkins,Grega Zemlja,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2004,Australian Open Jrs,3,Hard,R32,,,1,13,,Scoville Jenkins,Juho Paukku,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2004,Australian Open Jrs,3,Hard,R64,,,1,13,,Scoville Jenkins,Tushar Liberhan,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Dec-2003,Orange Bowl Jrs,3,Hard,R16,,,0,,Q,Viktor Troicki,Scoville Jenkins,6-3 4-3 RET,,,,,,,,,,,,,,,,,,,,,
-15-Dec-2003,Orange Bowl Jrs,3,Hard,R32,,,1,,,Scoville Jenkins,Ryan Rowe,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Dec-2003,Orange Bowl Jrs,3,Hard,R64,,,1,,,Scoville Jenkins,Jerome Becker,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-30-Aug-2003,US Open Jrs,3,Hard,QF,,,0,WC,1,Marcos Baghdatis,Scoville Jenkins,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
-30-Aug-2003,US Open Jrs,3,Hard,R16,,,1,WC,6,Scoville Jenkins,Daniel Gimeno Traver,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-30-Aug-2003,US Open Jrs,3,Hard,R32,,,1,WC,11,Scoville Jenkins,Bruno Rosa,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-30-Aug-2003,US Open Jrs,3,Hard,R64,,,1,WC,Q,Scoville Jenkins,Konstantin Kravchuk,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-8-Dec-2002,Orange Bowl Jrs,3,Hard,R64,,,0,WC,4,Mathieu Montcourt,Scoville Jenkins,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Sep-2002,US Open Jrs,3,Hard,R32,,,0,Q,5,Marcos Baghdatis,Scoville Jenkins,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Sep-2002,US Open Jrs,3,Hard,R64,,,1,Q,,Scoville Jenkins,Jarrett Chirico,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,US Open,5,Hard,R128,,2,0,WC,2,Andy Roddick,Scoville Jenkins,6-0 6-2 6-2,0.21,1.4%,5.8%,49.3%,55.9%,31.4%,4/11,30.3%,12.0%,22.0%,2.6%,45.5%,0/0,119,1,4,69,34,35,11,1:10
+22-Mar-2004,USA F8,3,Hard,R32,,536,0,WC,,Ryan Haviland,Scoville Jenkins,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,USA F7,3,Hard,R16,,1050,0,Q,WC,Alex Kuznetsov,Scoville Jenkins,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,USA F7,3,Hard,R32,,,1,Q,,Scoville Jenkins,Travis Rettenmaier,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jul-2003,USA F22,3,Hard,R32,,347,0,Q,1,Raven Klaasen,Scoville Jenkins,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jul-2003,USA F21,3,Hard,R32,,646,0,Q,5,Jay Gooding,Scoville Jenkins,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-May-2003,USA F10,3,Clay,R32,,1118,0,Q,WC,Carlos Gomez Diaz,Scoville Jenkins,6-2 6-1,,,,,,,,,,,,,,,,,,,,,

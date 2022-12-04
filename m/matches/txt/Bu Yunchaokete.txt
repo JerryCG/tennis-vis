@@ -1,4 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Monastir,3,Hard,SF,320,265,0,4,1,Skander Mansouri,Bu Yunchaokete,6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Monastir,3,Hard,QF,320,614,1,4,,Bu Yunchaokete,Jaime Faria,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Monastir,3,Hard,R16,320,924,1,4,,Bu Yunchaokete,Gabriele Maria Noce,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Monastir,3,Hard,R32,320,,1,4,Q,Bu Yunchaokete,Alessio Tramontin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,SF,321,767,0,4,,Amr Elsayed Abdou Ahmed Mohamed,Bu Yunchaokete,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,QF,321,665,1,4,,Bu Yunchaokete,Kris Van Wyk,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R16,321,594,1,4,,Bu Yunchaokete,Saba Purtseladze,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,321,699,1,4,,Bu Yunchaokete,Zura Tkemaladze,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,327,941,0,3,,Loic Cloes,Bu Yunchaokete,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M25 Monastir,3,Hard,SF,329,337,0,6,7,Ugo Blanchet,Bu Yunchaokete,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M25 Monastir,3,Hard,QF,329,259,1,6,1,Bu Yunchaokete,Kacper Zuk,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

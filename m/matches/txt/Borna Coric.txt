@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+25-Nov-2022,Davis Cup Finals SF: AUS vs CRO,3,Hard,RR,26,95,1,,,Borna Coric,Thanasi Kokkinakis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Nov-2022,Davis Cup Finals QF: CRO vs ESP,3,Hard,RR,26,21,1,,,Borna Coric,Roberto Bautista Agut,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Paris Masters,3,Hard,R64,26,64,0,,Q,Corentin Moutet,Borna Coric,3-6 6-3 6-4,1.12,8.3%,0.0%,66.7%,71.4%,57.1%,2/4,50.3%,37.4%,1.9%,31.8%,46.3%,1/7,191,7,0,84,56,28,2,2:36
 24-Oct-2022,Vienna,3,Hard,SF,27,19,0,,,Denis Shapovalov,Borna Coric,7-6(4) 6-0,0.71,3.8%,5.8%,69.2%,75.0%,37.5%,1/4,43.0%,25.8%,11.3%,5.1%,60.9%,0/1,114,2,3,52,36,16,7,1:28
 24-Oct-2022,Vienna,3,Hard,QF,27,11,1,,5,Borna Coric,Hubert Hurkacz,6-4 6-7(2) 7-6(5),0.82,6.0%,0.9%,66.4%,80.5%,51.3%,4/4,49.5%,24.0%,29.2%,19.4%,32.4%,1/1,212,7,1,116,77,39,28,2:53

@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M15 Lima,3,Clay,QF,636,895,0,4,,Victor Lilov,Ignacio Carou,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lima,3,Clay,R16,636,1268,1,4,,Ignacio Carou,Juan Sebastian Osorio,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lima,3,Clay,R32,636,,1,4,WC,Ignacio Carou,Christopher Li,2-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Montevideo CH,3,Clay,Q1,629,340,0,Alt,5,Joao Lucas Reis Da Silva,Ignacio Carou,6-1 6-3,0.60,3.8%,7.5%,67.9%,50.0%,35.3%,2/7,39.2%,32.7%,0.0%,27.6%,40.0%,1/2,102,2,4,53,36,17,0,1:13
 24-Oct-2022,M15 Santa Cruz,3,Clay,R32,602,963,0,5,,Franco Roncadelli,Ignacio Carou,6-7(5) 6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,Coquimbo CH,3,Clay,Q2,617,501,0,7,4,Jakub Paul,Ignacio Carou,6-1 6-2,0.67,0.0%,5.9%,57.4%,56.4%,27.6%,9/14,41.1%,37.7%,1.6%,32.5%,47.6%,1/8,129,0,4,68,39,29,1,1:23

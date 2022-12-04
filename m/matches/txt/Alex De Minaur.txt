@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Davis Cup Finals F: CAN vs AUS,3,Hard,RR,24,6,0,,,Felix Auger Aliassime,Alex De Minaur,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2022,Davis Cup Finals SF: AUS vs CRO,3,Hard,RR,24,17,1,,,Alex De Minaur,Marin Cilic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Nov-2022,Davis Cup Finals QF: AUS vs NED,3,Hard,RR,24,35,1,,,Alex De Minaur,Botic Van De Zandschulp,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Paris Masters,3,Hard,R16,25,21,0,,16,Frances Tiafoe,Alex De Minaur,6-3 7-6(5),0.91,11.3%,1.6%,56.5%,82.9%,33.3%,5/7,46.8%,35.1%,18.2%,26.7%,46.9%,1/5,139,7,1,62,35,27,14,1:40
 31-Oct-2022,Paris Masters,3,Hard,R32,25,3,1,,4,Alex De Minaur,Daniil Medvedev,6-4 2-6 7-5,1.00,1.0%,1.0%,59.0%,67.7%,51.2%,12/15,50.2%,39.2%,9.8%,35.4%,45.9%,3/10,207,1,1,105,62,43,10,2:46
 31-Oct-2022,Paris Masters,3,Hard,R64,25,33,1,,,Alex De Minaur,Sebastian Korda,6-4 4-6 6-4,0.99,1.9%,3.8%,65.4%,69.1%,47.2%,11/13,49.8%,38.1%,11.4%,31.8%,48.7%,3/11,209,2,4,104,68,36,12,2:42

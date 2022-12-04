@@ -1,9 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Sao Leopoldo CH,3,Clay,F,119,103,1,2,1,Juan Pablo Varillas,Facundo Bagnis,7-6(5) 4-6 6-4,1.08,5.8%,0.0%,51.9%,72.2%,58.0%,3/6,51.2%,37.4%,8.4%,30.1%,52.9%,3/10,211,6,0,104,54,50,9,3:12
-13-Nov-2022,Sao Leopoldo CH,3,Clay,SF,119,404,1,2,Alt,Juan Pablo Varillas,Thiago Seyboth Wild,6-4 6-2,1.21,1.5%,0.0%,55.9%,65.8%,50.0%,7/9,54.8%,50.0%,0.0%,33.3%,65.5%,5/8,124,1,0,68,38,30,0,1:56
-13-Nov-2022,Sao Leopoldo CH,3,Clay,QF,119,258,1,2,,Juan Pablo Varillas,Daniel Dutra Da Silva,7-6(3) 6-7(4) 7-6(2),1.14,2.6%,3.5%,50.9%,72.4%,55.4%,4/8,52.1%,41.0%,4.9%,33.3%,49.2%,4/14,236,3,4,114,58,56,6,3:34
-13-Nov-2022,Sao Leopoldo CH,3,Clay,R16,119,288,1,2,,Juan Pablo Varillas,Gonzalo Lama,7-6(2) 6-3,1.57,7.6%,1.5%,54.5%,83.3%,53.3%,4/6,57.6%,47.4%,3.8%,40.9%,55.9%,3/9,144,5,1,66,36,30,3,2:03
-13-Nov-2022,Sao Leopoldo CH,3,Clay,R32,119,490,1,2,LL,Juan Pablo Varillas,Eduardo Ribeiro,6-1 4-6 6-3,1.51,2.9%,0.0%,55.9%,71.1%,70.0%,4/6,56.4%,44.4%,0.0%,45.3%,42.9%,5/11,149,2,0,68,38,30,0,2:04
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,Sao Leopoldo CH,3,Clay,F,119,103,1,2,1,Juan Pablo Varillas,Facundo Bagnis,7-6(5) 4-6 6-4,1.08,5.8%,0.0%,51.9%,72.2%,58.0%,3/6,51.2%,37.4%,8.4%,30.1%,52.9%,3/10,211,6,0,104,54,50,9,3:12
+14-Nov-2022,Sao Leopoldo CH,3,Clay,SF,119,404,1,2,Alt,Juan Pablo Varillas,Thiago Seyboth Wild,6-4 6-2,1.21,1.5%,0.0%,55.9%,65.8%,50.0%,7/9,54.8%,50.0%,0.0%,33.3%,65.5%,5/8,124,1,0,68,38,30,0,1:56
+14-Nov-2022,Sao Leopoldo CH,3,Clay,QF,119,258,1,2,,Juan Pablo Varillas,Daniel Dutra Da Silva,7-6(3) 6-7(4) 7-6(2),1.14,2.6%,3.5%,50.9%,72.4%,55.4%,4/8,52.1%,41.0%,4.9%,33.3%,49.2%,4/14,236,3,4,114,58,56,6,3:34
+14-Nov-2022,Sao Leopoldo CH,3,Clay,R16,119,288,1,2,,Juan Pablo Varillas,Gonzalo Lama,7-6(2) 6-3,1.57,7.6%,1.5%,54.5%,83.3%,53.3%,4/6,57.6%,47.4%,3.8%,40.9%,55.9%,3/9,144,5,1,66,36,30,3,2:03
+14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,119,490,1,2,LL,Juan Pablo Varillas,Eduardo Ribeiro,6-1 4-6 6-3,1.51,2.9%,0.0%,55.9%,71.1%,70.0%,4/6,56.4%,44.4%,0.0%,45.3%,42.9%,5/11,149,2,0,68,38,30,0,2:04
 31-Oct-2022,Guayaquil CH,3,Clay,SF,127,71,0,4,1,Federico Coria,Juan Pablo Varillas,6-4 2-6 7-6(4),1.16,6.3%,2.1%,62.1%,72.9%,52.8%,4/6,51.1%,40.3%,0.8%,36.4%,50.0%,3/15,219,6,2,95,59,36,1,2:58
 31-Oct-2022,Guayaquil CH,3,Clay,QF,127,207,1,4,,Juan Pablo Varillas,Nicolas Kicker,6-1 6-3,2.09,4.4%,0.0%,46.7%,85.7%,70.8%,1/1,62.8%,46.3%,7.3%,37.9%,66.7%,4/5,86,2,0,45,21,24,3,1:25
 31-Oct-2022,Guayaquil CH,3,Clay,R16,127,807,1,4,WC,Juan Pablo Varillas,Alvaro Guillen Meza,6-1 7-6(3),1.24,8.6%,0.0%,55.7%,74.4%,61.3%,7/8,55.6%,38.9%,1.9%,27.0%,64.7%,3/5,124,6,0,70,39,31,1,1:46

@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,R16,808,462,0,,1,Mats Rosenkranz,Ivan Liutarevich,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Sharm ElSheikh,3,Hard,R32,808,1266,1,,Q,Ivan Liutarevich,Alexandr Binda,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R16,805,290,0,,2,Denis Yevseyev,Ivan Liutarevich,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,805,990,1,,Q,Ivan Liutarevich,Michal Mikula,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,Vilnius CH,3,Hard,Q1,717,451,0,,12,Yanki Erel,Ivan Liutarevich,6-0 6-3,0.39,6.3%,6.3%,70.8%,52.9%,28.6%,6/11,34.9%,21.1%,15.8%,19.2%,25.0%,1/1,86,3,3,48,34,14,6,0:48
 3-Oct-2022,M25 Nevers,3,Hard,R16,717,,0,,WC,Antoine Ghibaudo,Ivan Liutarevich,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Oct-2022,M25 Nevers,3,Hard,R32,717,,1,,Q,Ivan Liutarevich,Victor Barrere,6-1 6-0,,,,,,,,,,,,,,,,,,,,,

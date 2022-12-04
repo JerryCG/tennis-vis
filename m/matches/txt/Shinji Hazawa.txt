@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Yokkaichi CH,3,Hard,R16,563,165,0,WC,1,Kaichi Uchida,Shinji Hazawa,6-3 6-4,0.91,6.1%,8.2%,73.5%,66.7%,46.2%,4/7,46.2%,35.3%,10.3%,30.0%,42.9%,1/9,117,3,4,49,36,13,7,1:10
+21-Nov-2022,Yokkaichi CH,3,Hard,R32,563,273,1,WC,,Shinji Hazawa,Hiroki Moriya,7-5 6-1,1.61,9.4%,0.0%,73.6%,74.4%,57.1%,0/1,57.9%,48.5%,0.0%,36.6%,66.7%,4/8,121,5,0,53,39,14,0,1:23
 14-Nov-2022,Kobe CH,3,Hard,QF,655,291,0,WC,,Frederico Ferreira Silva,Shinji Hazawa,2-6 6-3 7-6(4),1.12,12.4%,2.2%,69.7%,77.4%,51.9%,6/7,50.3%,34.0%,8.5%,26.7%,51.6%,2/7,195,11,2,89,62,27,9,2:26
 14-Nov-2022,Kobe CH,3,Hard,R16,655,448,1,WC,Q,Shinji Hazawa,Naoki Nakagawa,6-4 6-4,1.38,8.3%,5.0%,75.0%,71.1%,60.0%,2/3,54.9%,43.8%,12.3%,38.8%,54.2%,3/9,133,5,3,60,45,15,9,1:29
 14-Nov-2022,Kobe CH,3,Hard,R32,655,173,1,WC,5,Shinji Hazawa,James Duckworth,6-4 6-4,1.35,5.1%,1.7%,72.9%,81.4%,50.0%,2/2,54.1%,36.5%,15.9%,28.6%,52.4%,2/3,122,3,1,59,43,16,10,1:17

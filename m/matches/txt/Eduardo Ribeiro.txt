@@ -1,7 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Sao Leopoldo CH,3,Clay,R32,490,119,0,LL,2,Juan Pablo Varillas,Eduardo Ribeiro,6-1 4-6 6-3,0.66,0.0%,1.2%,65.4%,54.7%,57.1%,6/11,43.6%,29.4%,2.9%,28.9%,30.0%,2/6,149,0,1,81,53,28,2,2:04
-13-Nov-2022,Sao Leopoldo CH,3,Clay,Q2,490,425,0,7,5,Wilson Leite,Eduardo Ribeiro,6-3 3-6 6-4,0.90,1.1%,2.2%,57.0%,50.9%,60.0%,5/10,47.6%,40.8%,1.0%,35.3%,53.3%,4/11,191,1,2,93,53,40,1,2:35
-13-Nov-2022,Sao Leopoldo CH,3,Clay,Q1,490,1145,1,7,,Eduardo Ribeiro,Gabriel Pascotto Tumasonis,6-3 7-5,1.21,9.8%,0.0%,60.7%,70.3%,58.3%,2/4,54.4%,41.5%,3.8%,42.9%,38.9%,4/5,114,6,0,61,37,24,2,1:24
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25+H Lajeado,3,Clay,F,486,941,1,5,,Eduardo Ribeiro,Marcelo Zormann Da Silva,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,SF,486,419,1,5,4,Eduardo Ribeiro,Gustavo Heide,6-7(5) 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,QF,486,845,1,5,,Eduardo Ribeiro,Joao Victor Couto Loureiro,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,R16,486,962,1,5,,Eduardo Ribeiro,Lorenzo Joaquin Rodriguez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,R32,486,1654,1,5,WC,Eduardo Ribeiro,Pedro Rodrigues,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,490,119,0,LL,2,Juan Pablo Varillas,Eduardo Ribeiro,6-1 4-6 6-3,0.66,0.0%,1.2%,65.4%,54.7%,57.1%,6/11,43.6%,29.4%,2.9%,28.9%,30.0%,2/6,149,0,1,81,53,28,2,2:04
+14-Nov-2022,Sao Leopoldo CH,3,Clay,Q2,490,425,0,7,5,Wilson Leite,Eduardo Ribeiro,6-3 3-6 6-4,0.90,1.1%,2.2%,57.0%,50.9%,60.0%,5/10,47.6%,40.8%,1.0%,35.3%,53.3%,4/11,191,1,2,93,53,40,1,2:35
+14-Nov-2022,Sao Leopoldo CH,3,Clay,Q1,490,1145,1,7,,Eduardo Ribeiro,Gabriel Pascotto Tumasonis,6-3 7-5,1.21,9.8%,0.0%,60.7%,70.3%,58.3%,2/4,54.4%,41.5%,3.8%,42.9%,38.9%,4/5,114,6,0,61,37,24,2,1:24
 7-Nov-2022,Montevideo CH,3,Clay,R32,497,214,0,Q,,Gastao Elias,Eduardo Ribeiro,5-7 6-0 6-2,0.74,0.0%,2.4%,76.8%,47.6%,52.6%,4/11,43.7%,38.2%,1.3%,34.3%,41.5%,3/11,158,0,2,82,63,19,1,1:57
 7-Nov-2022,Montevideo CH,3,Clay,Q2,497,315,1,,4,Eduardo Ribeiro,Nicolas Alvarez,6-4 6-4,1.15,0.0%,3.0%,62.7%,69.0%,64.0%,4/5,52.6%,37.9%,6.1%,38.6%,36.4%,3/9,133,0,2,67,42,25,4,1:38
 7-Nov-2022,Montevideo CH,3,Clay,Q1,497,419,1,,12,Eduardo Ribeiro,Wilson Leite,6-4 6-2,1.33,1.5%,1.5%,72.3%,55.3%,61.1%,4/7,57.1%,57.4%,0.0%,50.0%,64.0%,6/6,112,1,1,65,47,18,0,1:28

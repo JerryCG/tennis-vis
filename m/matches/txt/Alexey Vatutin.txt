@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Maia CH,3,Clay,R32,283,241,0,,,Andrea Collarini,Alexey Vatutin,5-7 7-6(4) 6-3,1.02,0.0%,3.8%,76.2%,55.0%,36.0%,7/16,50.4%,50.4%,3.1%,39.1%,78.4%,9/21,234,0,4,105,80,25,4,2:46
+21-Nov-2022,Andria CH,3,Hard,R32,285,129,0,,7,Jelle Sels,Alexey Vatutin,6-1 6-3,0.58,0.0%,3.8%,67.9%,52.8%,23.5%,5/11,38.5%,32.6%,18.6%,16.0%,55.6%,2/4,96,0,2,53,36,17,8,1:07
 6-Nov-2022,Roanne CH,3,Hard,R32,276,131,0,,6,Alexei Popyrin,Alexey Vatutin,6-2 6-0,0.33,2.2%,4.3%,58.7%,51.9%,21.1%,4/9,30.9%,20.0%,25.7%,13.6%,30.8%,0/0,81,1,2,46,27,19,9,0:48
 31-Oct-2022,Bergamo CH,3,Hard,Q1,274,330,0,Alt,,Alibek Kachmazov,Alexey Vatutin,7-5 5-7 7-6(5),1.05,1.6%,5.5%,62.2%,65.8%,45.8%,11/17,51.2%,43.9%,7.3%,31.1%,63.3%,6/12,250,2,7,127,79,48,9,2:59
 24-Oct-2022,Brest CH,3,Hard,R32,272,95,0,Alt,2,Nuno Borges,Alexey Vatutin,3-6 6-4 6-4,0.86,6.0%,6.0%,60.2%,78.0%,48.5%,2/4,47.3%,29.1%,16.3%,24.6%,47.1%,2/5,169,5,5,83,50,33,14,1:44

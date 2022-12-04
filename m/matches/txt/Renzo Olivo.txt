@@ -1,5 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Nov-2022,Sao Leopoldo CH,3,Clay,R32,188,460,0,5,Q,Mateus Alves,Renzo Olivo,6-4 4-6 6-3,0.72,4.7%,7.1%,58.8%,72.0%,40.0%,3/7,45.3%,29.7%,2.7%,18.6%,45.2%,3/5,159,4,6,85,50,35,2,2:10
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Temuco CH,3,Hard,QF,189,114,0,7,2,Emilio Gomez,Renzo Olivo,6-3 3-6 6-2,0.81,3.6%,4.8%,71.1%,62.7%,25.0%,4/10,45.7%,39.2%,2.5%,30.4%,51.5%,4/10,162,3,4,83,59,24,2,1:56
+21-Nov-2022,Temuco CH,3,Hard,R16,189,287,1,7,,Renzo Olivo,Joao Domingues,6-2 7-6(1),1.35,2.7%,5.5%,65.8%,79.2%,44.0%,2/3,55.3%,44.3%,2.5%,41.1%,52.2%,3/6,152,2,4,73,48,25,2,1:46
+21-Nov-2022,Temuco CH,3,Hard,R32,189,782,1,7,Q,Renzo Olivo,Federico Zeballos,7-5 1-6 6-2,1.12,7.8%,5.8%,69.9%,63.9%,29.0%,13/20,52.8%,52.2%,2.2%,30.0%,70.0%,7/14,193,8,6,103,72,31,2,2:11
+14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,188,460,0,5,Q,Mateus Alves,Renzo Olivo,6-4 4-6 6-3,0.72,4.7%,7.1%,58.8%,72.0%,40.0%,3/7,45.3%,29.7%,2.7%,18.6%,45.2%,3/5,159,4,6,85,50,35,2,2:10
 24-Oct-2022,Lima CH,3,Clay,R32,185,397,0,,Q,Giovanni Mpetshi Perricard,Renzo Olivo,4-6 6-3 6-2,0.69,1.2%,0.0%,81.7%,65.7%,46.7%,4/7,45.2%,26.0%,2.7%,23.4%,30.8%,1/1,155,1,0,82,67,15,2,1:47
 17-Oct-2022,Coquimbo CH,3,Clay,R32,183,513,0,,Q,Jose Fco Vidal Azorin,Renzo Olivo,2-6 6-3 7-5,1.03,2.4%,2.4%,66.7%,57.1%,53.6%,6/11,50.0%,45.3%,0.0%,42.0%,61.1%,5/16,190,2,2,84,56,28,0,2:14
 10-Oct-2022,Rio De Janeiro CH,3,Clay,R16,175,181,0,,,Luciano Darderi,Renzo Olivo,6-2 6-4,0.75,3.9%,3.9%,59.2%,57.8%,41.9%,4/8,44.9%,36.7%,5.0%,35.5%,37.9%,1/6,136,3,3,76,45,31,3,1:36

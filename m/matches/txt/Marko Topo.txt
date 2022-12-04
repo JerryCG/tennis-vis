@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M25 Heraklion,3,Hard,R16,464,427,0,,8,Oleksandr Ovcharenko,Marko Topo,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,464,878,1,,Q,Marko Topo,Domagoj Biljesko,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 6-Nov-2022,Roanne CH,3,Hard,Q1,461,380,0,,12,Antoine Hoang,Marko Topo,7-6(5) 6-3,0.68,4.5%,6.0%,56.7%,76.3%,55.2%,2/3,45.4%,22.2%,7.9%,16.0%,46.2%,0/0,130,3,4,67,38,29,5,1:28
 24-Oct-2022,Ortisei CH,3,Hard,Q1,454,336,0,,3,Alibek Kachmazov,Marko Topo,6-3 6-0,0.47,11.1%,11.1%,66.7%,60.0%,26.7%,2/6,36.3%,23.9%,30.4%,10.0%,50.0%,0/4,91,5,5,45,30,15,14,0:51
 17-Oct-2022,Hamburg CH,3,Hard,R16,462,489,0,WC,Q,Matteo Martineau,Marko Topo,4-6 6-2 7-5,0.81,4.1%,4.1%,59.8%,67.2%,46.2%,8/13,47.0%,33.3%,8.3%,34.4%,30.4%,3/4,181,4,4,97,58,39,7,2:01

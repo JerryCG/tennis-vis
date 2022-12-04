@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M25 Heraklion,3,Hard,QF,472,427,0,,8,Oleksandr Ovcharenko,Sandro Kopp,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R16,472,445,1,,,Sandro Kopp,Karl Friberg,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,472,1069,1,,WC,Sandro Kopp,Alexandros Skorilas,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,QF,511,1125,0,4,WC,Florian Broska,Sandro Kopp,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,R16,511,859,1,4,SE,Sandro Kopp,Leopold Zima,6-4 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Heraklion,3,Hard,R32,511,989,1,4,Q,Sandro Kopp,Dax Donders,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,

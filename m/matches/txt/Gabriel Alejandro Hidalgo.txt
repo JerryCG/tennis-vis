@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M15 Lujan,3,Clay,SF,835,443,0,,4,Matias Franco Descotte,Gabriel Alejandro Hidalgo,6-1 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,QF,835,601,1,,6,Gabriel Alejandro Hidalgo,Tomas Farjat,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,R16,835,449,1,,2,Gabriel Alejandro Hidalgo,Valerio Aboian,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,R32,835,1099,1,,Q,Gabriel Alejandro Hidalgo,Ezequiel Simonit,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,SF,871,457,0,,3,Matias Franco Descotte,Gabriel Alejandro Hidalgo,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,QF,871,335,1,,2,Gabriel Alejandro Hidalgo,Murkel Alejandro Dellien Velasco,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,R16,871,664,1,,,Gabriel Alejandro Hidalgo,Federico Agustin Gomez,7-5 6-1,,,,,,,,,,,,,,,,,,,,,

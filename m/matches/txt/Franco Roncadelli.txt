@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25+H Lajeado,3,Clay,R16,816,689,0,,,Nicolas Zanellato,Franco Roncadelli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,R32,816,945,1,,,Franco Roncadelli,Igor Gimenez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,R16,813,654,0,,8,Federico Agustin Gomez,Franco Roncadelli,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,R32,813,765,1,,,Franco Roncadelli,Mariano Kestelboim,6-3 2-1 RET,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Montevideo CH,3,Clay,R32,919,365,0,WC,Q,Max Houkes,Franco Roncadelli,7-5 6-2,0.73,0.0%,7.1%,69.6%,51.3%,35.3%,6/11,42.5%,39.1%,0.0%,32.6%,52.4%,2/7,120,0,4,56,39,17,0,1:29
 31-Oct-2022,M15 Santa Cruz,3,Clay,F,969,362,0,,1,Murkel Alejandro Dellien Velasco,Franco Roncadelli,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Santa Cruz,3,Clay,SF,969,521,1,,3,Franco Roncadelli,Ignacio Monzon,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,

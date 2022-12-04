@@ -1,4 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Bhilai,3,Hard,F,823,406,0,6,1,Vladyslav Orlov,Niki Kaliyanda Poonacha,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Bhilai,3,Hard,SF,823,1025,1,6,,Niki Kaliyanda Poonacha,Karan Singh,7-5 7-6(0),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Bhilai,3,Hard,QF,823,923,1,6,,Niki Kaliyanda Poonacha,Ryuki Matsuda,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Bhilai,3,Hard,R16,823,972,1,6,,Niki Kaliyanda Poonacha,Rishab Agarwal,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Bhilai,3,Hard,R32,823,1814,1,6,LL,Niki Kaliyanda Poonacha,Yash Chaurasia,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Mumbai,3,Hard,QF,818,355,0,,1,Oliver Crawford,Niki Kaliyanda Poonacha,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Mumbai,3,Hard,R16,818,564,1,,7,Niki Kaliyanda Poonacha,Arthur Weber,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Mumbai,3,Hard,R32,818,1089,1,,,Niki Kaliyanda Poonacha,Vishnu Vardhan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25 Indore,3,Hard,R32,861,465,0,,3,Dominik Palan,Niki Kaliyanda Poonacha,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 New Delhi,3,Hard,SF,857,668,0,7,3,Digvijaypratap Singh,Niki Kaliyanda Poonacha,1-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 New Delhi,3,Hard,QF,857,1062,1,7,,Niki Kaliyanda Poonacha,Karan Singh,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M15 East Lansing MI,3,Hard,SF,856,763,0,5,3,Alex Michelsen,Mitchell Harper,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,QF,856,606,1,5,1,Mitchell Harper,Alex Knaff,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,R16,856,1313,1,5,,Mitchell Harper,Perry Gregg,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,R32,856,,1,5,WC,Mitchell Harper,Anthony Pero,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Winston-Salem NC,3,Hard,R16,851,760,0,,5,Alex Michelsen,Mitchell Harper,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Winston-Salem NC,3,Hard,R32,851,1005,1,,,Mitchell Harper,Menelaos Efstathiou,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,R32,925,315,0,Q,,Yu Hsiou Hsu,Mitchell Harper,6-1 6-4,0.51,7.1%,8.9%,57.1%,53.1%,54.2%,0/3,39.3%,23.5%,19.6%,19.4%,30.0%,0/1,107,4,5,56,32,24,10,1:07

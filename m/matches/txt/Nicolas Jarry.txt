@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
 31-Oct-2022,Bergamo CH,3,Hard,R32,136,184,0,7,Q,Andrea Vavassori,Nicolas Jarry,7-6(4) 7-6(4),0.80,9.9%,2.5%,71.6%,75.9%,56.5%,2/2,47.8%,23.7%,6.6%,18.8%,32.1%,0/2,157,8,2,81,58,23,5,1:55
 24-Oct-2022,Ortisei CH,3,Hard,R32,116,218,0,2,,Lukas Rosol,Nicolas Jarry,4-6 6-4 7-6(4),1.11,21.7%,2.2%,70.7%,78.5%,55.6%,2/4,50.5%,31.4%,10.8%,23.3%,42.9%,2/11,194,20,2,92,65,27,11,1:57
 17-Oct-2022,Naples,3,Hard,R32,118,76,0,Q,,Roberto Carballes Baena,Nicolas Jarry,6-4 6-4,0.78,10.1%,2.9%,65.2%,73.3%,45.8%,5/7,47.3%,28.3%,3.3%,11.1%,54.2%,0/3,129,7,2,69,45,24,2,1:47
@@ -10,6 +10,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Sep-2022,Seoul,3,Hard,Q2,111,222,1,1,7,Nicolas Jarry,Aleksandar Kovacevic,7-6(6) 6-3,1.09,18.1%,1.4%,66.7%,77.1%,58.3%,2/2,52.2%,31.8%,7.6%,20.5%,48.1%,1/2,138,13,1,72,48,24,5,1:31
 26-Sep-2022,Seoul,3,Hard,Q1,111,563,1,1,PR,Nicolas Jarry,Tatsuma Ito,6-2 6-1,2.50,16.7%,2.4%,59.5%,84.0%,70.6%,0/0,65.9%,53.5%,9.3%,44.8%,71.4%,4/8,85,7,1,42,25,17,4,0:56
 17-Sep-2022,Davis Cup WG1 R1: CHI vs PER,3,Clay,RR,111,100,0,,,Juan Pablo Varillas,Nicolas Jarry,7-6(3) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2022,Davis Cup WG1 R1: CHI vs PER,3,Clay,RR,111,298,1,,,Nicolas Jarry,Nicolas Alvarez,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,US Open,5,Hard,R128,123,14,0,,13,Matteo Berrettini,Nicolas Jarry,6-2 6-3 6-3,0.55,8.9%,1.3%,57.0%,71.1%,41.2%,5/10,41.6%,22.9%,14.3%,13.3%,40.0%,0/0,149,7,1,79,45,34,10,2:04
 29-Aug-2022,US Open,5,Hard,Q3,123,136,1,16,31,Nicolas Jarry,Dennis Novak,6-3 6-3,1.59,25.5%,1.8%,56.4%,90.3%,45.8%,6/6,57.4%,46.3%,6.0%,35.0%,63.0%,3/9,122,14,1,55,31,24,4,1:20
 29-Aug-2022,US Open,5,Hard,Q2,123,215,1,16,,Nicolas Jarry,Bjorn Fratangelo,7-6(4) 4-6 6-3,1.16,22.8%,5.9%,60.4%,80.3%,50.0%,1/3,52.8%,36.7%,9.2%,33.3%,41.5%,2/5,199,23,6,101,61,40,9,2:16

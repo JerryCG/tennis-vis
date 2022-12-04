@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Santo Domingo,3,Hard,F,1225,508,0,,2,Bernard Tomic,Darian King,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,SF,1225,522,1,,3,Darian King,Liam Draxl,4-6 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,QF,1225,,1,,,Darian King,Toby Alex Kodat,6-1 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,R16,1225,809,1,,,Darian King,Ricardo Rodriguez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Santo Domingo,3,Hard,R32,1225,1265,1,,,Darian King,Justin Roberts,7-5 4-2 RET,,,,,,,,,,,,,,,,,,,,,
 14-Nov-2022,M25 Columbus OH,3,Hard,R16,1293,578,0,,3,Alexander Cozbinov,Darian King,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Nov-2022,M25 Columbus OH,3,Hard,R32,1293,1887,1,,,Darian King,Kweisi Kenyatte,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M25  Austin TX,3,Hard,R16,1289,564,0,,3,Alexander Cozbinov,Darian King,5-7 6-0 6-4,,,,,,,,,,,,,,,,,,,,,

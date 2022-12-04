@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25+H Lajeado,3,Clay,QF,499,419,0,7,4,Gustavo Heide,Ignacio Monzon,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,R16,499,1227,1,7,Q,Ignacio Monzon,Vitor Leal,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25+H Lajeado,3,Clay,R32,499,967,1,7,,Ignacio Monzon,Grigoriy Lomakin,7-5 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Lujan,3,Clay,R32,506,1105,0,5,Q,Nicolas Bruna,Ignacio Monzon,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,QF,520,449,0,7,4,Valerio Aboian,Ignacio Monzon,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,R16,520,1100,1,7,Q,Ignacio Monzon,Nicolas Bruna,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Cordoba,3,Clay,R32,520,1585,1,7,Q,Ignacio Monzon,Benjamin Denis Alarcon,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

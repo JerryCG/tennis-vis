@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Heraklion,3,Hard,QF,716,396,0,8,3,Daniel Cukierman,Mick Veldheer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Heraklion,3,Hard,R16,716,949,1,8,,Mick Veldheer,Neil Oberleitner,7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Heraklion,3,Hard,R32,716,1402,1,8,Q,Mick Veldheer,Francois Musitelli,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R16,702,306,0,,2,Titouan Droguet,Mick Veldheer,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Heraklion,3,Hard,R32,702,1043,1,,Q,Mick Veldheer,Thantub Suksumrarn,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2022,Roanne CH,3,Hard,Q1,710,358,0,Alt,5,Alibek Kachmazov,Mick Veldheer,3-6 6-3 6-1,0.76,1.1%,5.4%,64.5%,56.7%,33.3%,8/15,44.7%,39.4%,1.5%,30.8%,51.9%,4/8,159,1,5,93,60,33,1,1:51
 31-Oct-2022,M15 Selva Gardena,3,Hard,QF,709,571,0,5,3,Robert Strombachs,Mick Veldheer,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Selva Gardena,3,Hard,R16,709,1623,1,5,Q,Mick Veldheer,Stefano Dagostino,6-3 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,

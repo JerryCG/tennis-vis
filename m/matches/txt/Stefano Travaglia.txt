@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Andria CH,3,Hard,QF,332,98,0,WC,1,Marton Fucsovics,Stefano Travaglia,4-6 6-4 7-5,0.75,8.1%,2.0%,60.6%,70.0%,48.7%,9/13,46.0%,28.9%,3.3%,25.5%,34.3%,3/8,189,8,2,99,60,39,3,2:20
+21-Nov-2022,Andria CH,3,Hard,R16,332,368,1,WC,Q,Stefano Travaglia,Andrew Paulson,6-3 7-6(6),1.29,11.5%,2.6%,60.3%,76.6%,48.4%,3/5,54.6%,44.7%,7.1%,34.7%,58.3%,3/7,163,9,2,78,47,31,6,1:48
+21-Nov-2022,Andria CH,3,Hard,R32,332,130,1,WC,6,Stefano Travaglia,Elias Ymer,7-5 7-6(5),1.35,14.9%,1.5%,62.7%,85.7%,64.0%,2/2,54.1%,30.3%,13.6%,22.0%,44.0%,1/1,133,10,1,67,42,25,9,1:26
 14-Nov-2022,Helsinki CH,3,Hard,R32,338,239,0,Q,Q,Mikhail Kukushkin,Stefano Travaglia,6-2 6-4,0.70,2.2%,4.3%,56.5%,65.4%,50.0%,0/3,42.6%,29.1%,9.1%,19.4%,47.4%,0/4,101,1,2,46,26,20,5,1:22
 14-Nov-2022,Helsinki CH,3,Hard,Q2,338,357,1,9,,Stefano Travaglia,Henri Squire,6-2 6-2,2.23,22.0%,0.0%,63.4%,76.9%,80.0%,0/0,62.8%,48.9%,13.3%,25.0%,76.2%,4/4,86,9,0,41,26,15,6,0:55
 14-Nov-2022,Helsinki CH,3,Hard,Q1,338,337,1,9,,Stefano Travaglia,Duje Ajdukovic,6-1 7-6(1),2.61,16.0%,0.0%,62.0%,90.3%,68.4%,0/0,62.1%,47.0%,9.1%,32.5%,69.2%,3/6,116,8,0,50,31,19,6,1:06

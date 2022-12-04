@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Valencia CH,3,Clay,R16,194,305,0,,Q,Javier Barranco Cosano,Andrea Vavassori,6-4 1-6 7-6(2),1.04,1.8%,4.6%,55.0%,73.3%,46.9%,4/7,51.2%,40.0%,2.0%,33.9%,47.7%,4/13,209,2,5,109,60,49,2,2:53
+21-Nov-2022,Valencia CH,3,Clay,R32,194,167,1,,7,Andrea Vavassori,Carlos Taberner,6-4 7-6(2),1.11,3.6%,3.6%,54.8%,65.2%,55.3%,7/10,52.5%,43.4%,0.0%,44.2%,41.7%,4/7,160,3,3,84,46,38,0,2:08
 31-Oct-2022,Bergamo CH,3,Hard,QF,184,96,0,Q,2,Nuno Borges,Andrea Vavassori,6-4 6-4,0.65,6.7%,5.0%,56.7%,85.3%,38.5%,0/2,44.4%,22.8%,1.8%,13.6%,53.8%,0/5,117,4,3,60,34,26,1,1:11
 31-Oct-2022,Bergamo CH,3,Hard,R16,184,148,1,Q,SE,Andrea Vavassori,Borna Gojo,6-1 6-2,2.40,7.7%,5.1%,69.2%,85.2%,58.3%,0/0,64.2%,55.4%,7.1%,35.7%,75.0%,5/7,95,3,2,39,27,12,4,0:58
 31-Oct-2022,Bergamo CH,3,Hard,R32,184,136,1,Q,7,Andrea Vavassori,Nicolas Jarry,7-6(4) 7-6(4),1.25,6.6%,2.6%,63.2%,81.3%,67.9%,2/2,52.2%,29.6%,9.9%,24.1%,43.5%,0/2,157,5,2,76,48,28,8,1:55

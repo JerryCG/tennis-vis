@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M15 Monastir,3,Hard,R16,896,846,0,,7,Stefano Battaglino,Amaury Raynel,6-7(4) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M15 Monastir,3,Hard,R32,896,,1,,Q,Amaury Raynel,Ighor Halmenschlager Reis,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,R16,897,830,0,,,Andrea Guerrieri,Amaury Raynel,3-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,R32,897,440,1,,2,Amaury Raynel,Felix Gill,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Monastir,3,Hard,R32,886,477,0,,1,Robin Bertrand,Amaury Raynel,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M15 Monastir,3,Hard,R32,884,391,0,,1,Hady Habib,Amaury Raynel,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Oct-2022,M25 Sunderland,3,Hard,R32,893,663,0,Q,,Arthur Fery,Amaury Raynel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,

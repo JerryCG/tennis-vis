@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M15 East Lansing MI,3,Hard,F,763,1407,1,3,,Alex Michelsen,Alexander Kotzen,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,SF,763,856,1,3,5,Alex Michelsen,Mitchell Harper,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,QF,763,1066,1,3,,Alex Michelsen,Ben Jones,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,R16,763,1169,1,3,,Alex Michelsen,Jakob Schnaitter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 East Lansing MI,3,Hard,R32,763,1163,1,3,,Alex Michelsen,Bjorn Swenson,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Winston-Salem NC,3,Hard,F,760,697,0,5,2,Toby Samuel,Alex Michelsen,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Winston-Salem NC,3,Hard,SF,760,778,1,5,6,Alex Michelsen,Pedro Rodenas,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,M15 Winston-Salem NC,3,Hard,QF,760,1362,1,5,Q,Alex Michelsen,James Story,7-6(8) 7-5,,,,,,,,,,,,,,,,,,,,,

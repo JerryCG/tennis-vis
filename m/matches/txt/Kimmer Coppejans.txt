@@ -1,4 +1,6 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+27-Nov-2022,Maspalomas CH,3,Clay,R32,203,295,0,5,,Titouan Droguet,Kimmer Coppejans,5-7 6-3 7-6(4),1.05,3.9%,1.0%,76.5%,70.5%,62.5%,6/8,49.5%,33.1%,8.5%,31.5%,35.6%,2/9,220,4,1,102,78,24,10,2:59
+21-Nov-2022,Valencia CH,3,Clay,R32,199,91,0,,3,Nuno Borges,Kimmer Coppejans,6-3 6-2,0.66,0.0%,2.0%,63.3%,61.3%,50.0%,2/5,42.2%,28.3%,3.8%,25.0%,32.0%,0/3,102,0,1,49,31,18,2,1:13
 17-Oct-2022,Busan CH,3,Hard,R16,196,146,0,,9,Christopher Eubanks,Kimmer Coppejans,7-6(2) 6-3,0.77,1.4%,2.8%,70.4%,66.0%,52.4%,4/6,45.5%,29.2%,12.5%,18.4%,52.2%,0/2,143,1,2,71,50,21,9,1:37
 17-Oct-2022,Busan CH,3,Hard,R32,196,165,1,,,Kimmer Coppejans,Aleksandar Kovacevic,4-6 6-4 7-5,0.98,5.6%,4.6%,66.7%,70.8%,36.1%,13/17,50.8%,40.0%,2.4%,42.9%,36.1%,5/6,193,6,5,108,72,36,2,2:12
 10-Oct-2022,Seoul CH,3,Hard,R16,203,162,0,,,Maximilian Marterer,Kimmer Coppejans,6-3 6-4,0.85,4.5%,6.8%,68.2%,70.0%,42.9%,1/4,44.4%,32.8%,14.1%,17.2%,45.7%,1/2,108,2,3,44,30,14,9,1:20

@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M25 Columbus OH,3,Hard,QF,1052,685,0,,4,John Mcnally,Jack Anthrop,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Columbus OH,3,Hard,R16,1052,1737,1,,,Jack Anthrop,Charlelie Cosnet,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Columbus OH,3,Hard,R32,1052,1442,1,,,Jack Anthrop,Christian Lakoseljac,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Ithaca NY,3,Hard,R32,1057,,0,,Q,Fons Van Sambeek,Jack Anthrop,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2022,Columbus CH,3,Hard,Q2,1104,529,0,WC,3,Nathan Ponwith,Jack Anthrop,3-6 6-4 6-4,1.19,1.2%,1.2%,62.4%,77.4%,50.0%,3/6,51.6%,39.0%,4.8%,34.8%,46.2%,2/9,190,1,1,85,53,32,5,2:35
 19-Sep-2022,Columbus CH,3,Hard,Q1,1104,776,1,WC,10,Jack Anthrop,Alexander Bernard,6-3 7-5,1.49,4.6%,1.5%,66.2%,69.8%,63.6%,5/7,57.0%,48.1%,2.6%,43.2%,54.5%,4/12,142,3,1,65,43,22,2,1:45

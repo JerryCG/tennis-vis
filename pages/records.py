@@ -10,13 +10,13 @@ import numpy as np
 
 # get partial names
 all_names = []
-with open('mwplayerlist_processed.txt', 'r') as f:
+with open('mwplayerlist_processed.txt', 'r', encoding='utf-8-sig') as f:
     for line in f:
         all_names.append(line[:-1])
 
 # load txt files
 def load_txt(name):
-    with open(name[1].lower() + '/matches/txt/' + name[4:] + '.txt', 'r') as f:
+    with open(name[1].lower() + '/matches/txt/' + name[4:] + '.txt', 'r', encoding='utf-8-sig') as f:
         attributes = f.readline()[:-1].split(',')
         df = pd.DataFrame([line[:-1].split(',') for line in f], columns = attributes)
     return (df, name[1])
@@ -34,11 +34,11 @@ def clean_df(tuple, date = [None, None]):
     # select date if any
     if date != [None, None]:
         if date[0] == None:
-            cleaned = cleaned[cleaned['Date'] <= date[1]]
+            cleaned = cleaned[cleaned['Date'] <= date[1]].reset_index(drop=True)
         elif date[1] == None:
-            cleaned = cleaned[cleaned['Date'] >= date[0]]
+            cleaned = cleaned[cleaned['Date'] >= date[0]].reset_index(drop=True)
         else:
-            cleaned = cleaned[(cleaned['Date'] >= date[0]) & (cleaned['Date'] <= date[1])]
+            cleaned = cleaned[(cleaned['Date'] >= date[0]) & (cleaned['Date'] <= date[1])].reset_index(drop=True)
 
     if tuple[1] == 'M':
         attrs = ['Sets', 'Rk', 'vRk', 'W', 'tRk', 'vtRk', 'DR', 'A%', 'DF%', '1stIn', '1st%', '2nd%', 'TPW', 'RPW', 'vA%', 'v1st%', 'v2nd%', 'TP', 'Aces', 'DFs', 'SP', '1SP', '2SP', 'vA']
@@ -61,15 +61,8 @@ def clean_df(tuple, date = [None, None]):
 # define functions to search for match records
 def records(name, date, oppo, surface, match, round, result, streak, layout):
     # name, date, opponent, match name, round, result, show longest win/loss streak, lite/all stats layout
+    # select date done in clean_df
     df = clean_df(load_txt(name), date)
-    # select date
-    if date != [None, None]:
-        if date[0] == None:
-            df = df[df['Date'] <= date[1]].reset_index(drop=True)
-        elif date[1] == None:
-            df = df[df['Date'] >= date[0]].reset_index(drop=True)
-        else:
-            df = df[(df['Date'] >= date[0]) & (df['Date'] <= date[1])].reset_index(drop=True)
     # select opponent
     if oppo != None:
         big4 = ['Novak Djokovic', 'Rafael Nadal', 'Roger Federer', 'Andy Murray']
@@ -154,7 +147,10 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
             indice = np.argmax([(se[1] - se[0]) for se in startend])
             df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
         except:
-            df = df[[False for i in range(len(df))]].reset_index(drop=True)
+            if len(df) > 0:
+                df = df[[False for i in range(len(df))]].reset_index(drop=True)
+            else:
+                pass
 
     elif streak == 'Longest Losses':
         startend = []
@@ -186,7 +182,10 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
             indice = np.argmax([(se[1] - se[0]) for se in startend])
             df = df[[True if (i >= startend[indice][0]) and (i <= startend[indice][1]) else False for i in range(len(df))]].reset_index(drop=True)
         except:
-            df = df[[False for i in range(len(df))]].reset_index(drop=True)
+            if len(df) > 0:
+                df = df[[False for i in range(len(df))]].reset_index(drop=True)
+            else:
+                pass
 
     # modify date, add Index to facilitate count
     df['Date'] = [str(d)[:10] for d in df['Date']]

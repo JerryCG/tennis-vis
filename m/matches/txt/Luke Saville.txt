@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Traralgon,3,Hard,R16,584,1094,0,,Q,Jeremy Jin,Luke Saville,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R32,584,844,1,,,Luke Saville,Calum Puttergill,7-5 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,QF,577,402,0,,3,Tristan Schoolkate,Luke Saville,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R16,577,940,1,,,Luke Saville,Ken Cavrak,6-1 7-6(15),,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R32,577,1226,1,,,Luke Saville,Jeremy Beale,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,R16,638,419,0,Q,,Tristan Schoolkate,Luke Saville,7-6(4) 7-6(4),0.91,4.2%,4.2%,60.0%,64.9%,50.0%,7/9,48.2%,37.5%,5.2%,23.2%,57.5%,2/6,191,4,4,95,57,38,5,2:14
 31-Oct-2022,Sydney CH,3,Hard,R32,638,542,1,Q,LL,Luke Saville,Ajeet Rai,7-6(4) 6-4,1.19,0.0%,6.1%,57.3%,80.9%,37.1%,5/8,53.8%,44.9%,5.1%,33.3%,66.7%,4/10,160,0,5,82,47,35,4,1:53
 31-Oct-2022,Sydney CH,3,Hard,Q2,638,831,1,4,7,Luke Saville,Kazuma Kawachi,7-6(2) 6-1,1.27,9.2%,3.1%,67.7%,75.0%,52.4%,3/4,56.0%,41.2%,3.9%,37.1%,50.0%,3/4,116,6,2,65,44,21,2,1:29

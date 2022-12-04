@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Nov-2022,M15 Boca Raton FL,3,Clay,QF,,1106,0,Q,,Arvid Nordquist,Martin Katz,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,R16,,,1,Q,WC,Martin Katz,Jean Christian Morandais,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Boca Raton FL,3,Clay,R32,,880,1,Q,7,Martin Katz,Mwendwa Mbithi,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2022,M25 Koksijde,3,Clay,R32,1362,,0,Q,Q,Harold Huens,Martin Katz,0-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Nov-2021,M15 Monastir,3,Hard,R32,1468,1252,0,Q,,Omar Brigida,Martin Katz,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,M15 Monastir,3,Hard,R32,1653,799,0,,7,Dominik Boehler,Martin Katz,6-2 7-5,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Nov-2022,Yokkaichi CH,3,Hard,R32,361,253,1,,8,Yunseong Chung,Dane Sweeny,7-5 6-2,1.42,3.2%,6.3%,69.8%,75.0%,52.6%,1/2,56.9%,45.0%,6.7%,26.5%,69.2%,4/4,123,2,4,63,44,19,4,1:09
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,Yokkaichi CH,3,Hard,QF,361,173,0,,3,Yosuke Watanuki,Yunseong Chung,6-2 5-2 RET,0.36,0.0%,2.0%,69.4%,52.9%,46.7%,4/8,37.3%,17.6%,17.6%,0.0%,37.5%,0/0,83,0,1,49,34,15,6,0:58
+21-Nov-2022,Yokkaichi CH,3,Hard,R16,361,353,1,,,Yunseong Chung,Sasi Kumar Mukund,6-1 6-4,1.40,5.2%,10.3%,69.0%,72.5%,44.4%,5/6,56.8%,50.7%,1.5%,45.8%,63.2%,5/12,125,3,6,58,40,18,1,1:10
+21-Nov-2022,Yokkaichi CH,3,Hard,R32,361,253,1,,8,Yunseong Chung,Dane Sweeny,7-5 6-2,1.42,3.2%,6.3%,69.8%,75.0%,52.6%,1/2,56.9%,45.0%,6.7%,26.5%,69.2%,4/4,123,2,4,63,44,19,4,1:09
 14-Nov-2022,Kobe CH,3,Hard,R32,363,195,0,Q,7,Yosuke Watanuki,Yunseong Chung,6-2 6-2,0.47,13.5%,1.9%,63.5%,57.6%,36.8%,6/10,37.4%,23.4%,17.0%,20.8%,26.1%,0/0,99,7,1,52,33,19,8,1:02
 14-Nov-2022,Kobe CH,3,Hard,Q2,363,401,1,4,7,Yunseong Chung,Yuta Shimizu,6-2 7-6(3),1.59,13.8%,1.5%,69.2%,77.8%,70.0%,3/3,56.7%,39.1%,1.4%,36.6%,42.9%,2/3,134,9,1,65,45,20,1,1:12
 14-Nov-2022,Kobe CH,3,Hard,Q1,363,602,1,4,Alt,Yunseong Chung,Duck Hee Lee,6-2 6-0,1.98,10.6%,0.0%,61.7%,79.3%,50.0%,4/4,65.9%,63.2%,2.6%,59.1%,68.8%,5/6,85,5,0,47,29,18,1,0:49

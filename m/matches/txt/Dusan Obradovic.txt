@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Monastir,3,Hard,R16,867,274,0,,2,Alastair Gray,Dusan Obradovic,5-7 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Monastir,3,Hard,R32,867,1141,1,,Q,Dusan Obradovic,Samir Hamza Reguig,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M15 Monastir,3,Hard,R32,864,504,0,,4,Simon Beaupain,Dusan Obradovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2022,M25 Pirot,3,Clay,R16,886,701,0,,,Rrezart Cungu,Dusan Obradovic,6-4 6-7(10) 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2022,M25 Pirot,3,Clay,R32,886,955,1,,,Dusan Obradovic,Gorazd Srbljak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Sep-2022,M15 Zlatibor,3,Clay,R16,879,862,0,,8,Lilian Marmousez,Dusan Obradovic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

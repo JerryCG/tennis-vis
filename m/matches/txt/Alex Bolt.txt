@@ -1,4 +1,10 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Nov-2022,M25 Traralgon,3,Hard,SF,692,516,0,,5,Dayne Kelly,Alex Bolt,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,QF,692,528,1,,6,Alex Bolt,Jose Rubin Statham,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R16,692,1098,1,,,Alex Bolt,Kody Pearson,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Nov-2022,M25 Traralgon,3,Hard,R32,692,1069,1,,,Alex Bolt,Matthew Christopher Romios,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R16,692,402,0,,3,Tristan Schoolkate,Alex Bolt,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Nov-2022,M25 Traralgon,3,Hard,R32,692,1272,1,,,Alex Bolt,Naoki Tajima,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Sydney CH,3,Hard,R16,746,426,0,WC,,James Mccabe,Alex Bolt,6-4 7-6(3),0.90,5.2%,5.2%,64.9%,70.0%,40.7%,3/5,47.8%,36.3%,11.3%,24.1%,68.2%,1/4,157,4,4,77,50,27,9,1:44
 31-Oct-2022,Sydney CH,3,Hard,R32,746,236,1,WC,6,Alex Bolt,Dane Sweeny,6-4 6-1,1.55,8.8%,1.8%,59.6%,76.5%,60.9%,2/3,58.7%,46.2%,0.0%,48.4%,42.9%,4/7,109,5,1,57,34,23,0,1:14
 24-Oct-2022,Playford CH,3,Hard,R32,739,380,0,WC,,Marek Gengel,Alex Bolt,3-6 6-4 7-6(4),1.02,9.2%,2.0%,69.4%,67.6%,60.0%,1/4,49.8%,35.2%,6.7%,25.4%,52.6%,3/13,203,9,2,98,68,30,7,2:06
