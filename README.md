@@ -3,22 +3,22 @@
  * Published Python Dash App can be found at: https://tennis-vis.herokuapp.com/
  * Raw data source: https://tennisabstract.com, https://www.atptour.com/
  * Current Version: 2.4
- * Last data/ATP Rank update: 2022-12-03/2022-11-28
+ * Last data/ATP Rank update: 2022-12-03/2022-12-05
  * Current Functionality:
     1. [Home](https://tennis-vis.herokuapp.com/)
         - A Network for All ATP Grand Slam Champions in Tennis History
     2. [Dynamics](https://tennis-vis.herokuapp.com/dynamics)
-        - ATP Dynamic Ranking from 2000-01-10 to 2022-11-28
+        - ATP Dynamic Ranking from 2000-01-10 to 2022-12-05
         - GS Titles Accumulation of Important Players from 1990 to 2022
     3. [GeoTennis](https://tennis-vis.herokuapp.com/geotennis)
-        - Geographic Distribution of ATP Top100 Players from 2000-01-10 to 2022-11-28
+        - Geographic Distribution of ATP Top100 Players from 2000-01-10 to 2022-12-05
     4. [Records Search](https://tennis-vis.herokuapp.com/records)
         - A comprehensive match records search interface, criterions includes:
             - Dates
             - Opponents, e.g., Novak Djokovic, Top10 Players, Big3, Big4
             - Surfaces, e.g., Hard, Grass
             - Tournemants, e.g., Wimbledon, ATP1000, Olympics
-            - Rounds, e.g., R129, QF, F
+            - Rounds, e.g., R128, QF, F
             - Results, e.g., win, tie-break lose
             - Streak, e.g., return the longest winning streak among matches of all previous seletions
             - Layout, e.g., lite or display all match statistics
