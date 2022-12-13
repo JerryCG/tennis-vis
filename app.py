@@ -21,7 +21,7 @@ app.layout = html.Div([
                 "TennisVis", style = {'color': 'gold', 'font-size': '100px', 'margin-top': '-30px'}
             ),
             html.Div(
-                "Last Update: 2022-12-03", style = {'font-size': '20px', 'font-style': 'italic'}
+                "Last Update: 2022-12-12", style = {'font-size': '20px', 'font-style': 'italic'}
             ),
         ], style = {'text-align': 'center'}
     ),
