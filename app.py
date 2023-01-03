@@ -17,11 +17,18 @@ app.layout = html.Div([
     html.Div(children=[
         html.Img(src='assets/logotennis.png', alt='logo', style={'width': '180px', 'margin-left': '-20px'}),
         html.Div(children=[
-            html.Div(
-                "TennisVis", style = {'color': 'gold', 'font-size': '100px', 'margin-top': '-30px'}
+            html.Div(children=[
+                html.Div(
+                    "TennisVis", style = {'color': 'gold', 'font-size': '100px', 'margin-top': '-30px', 'margin-right': '-10px', 'display': 'inline-block'}
+                ),
+                html.Div(children=[
+                    html.Img(src='assets/2023logonew.png', alt='2023', style={'width': '850px', 'height':'150px', 'margin-left': '-610px', 'margin-top':'-30px'}),
+                ], style = {'display': 'inline-block', 'z-index': '-1', 'position': 'absolute'},
+                ),
+            ]
             ),
             html.Div(
-                "Last Update: 2022-12-26", style = {'font-size': '20px', 'font-style': 'italic'}
+                "Last Update: 2023-01-02", style = {'font-size': '20px', 'font-style': 'italic'}
             ),
         ], style = {'text-align': 'center'}
     ),
@@ -43,7 +50,7 @@ app.layout = html.Div([
     # section for footer
     html.Footer(
         children=[
-            html.Div('@2022 Copyright of raw data belong to tennisabstract.com, atptour.com - fair use for scraping, processing, and visualizing tennis data'),
+            html.Div('@2023 Copyright of raw data belong to tennisabstract.com, atptour.com - fair use for scraping, processing, and visualizing tennis data'),
             html.Div('@This is TennisVis Version 2.4 made with heart for tennis lovers. For any suggestions or comments, please email me at jerryguo000111@gmail.com')
         ]
     )
