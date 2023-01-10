@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Jan-2023,Tigre CH,3,Clay,Q2,362,419,0,3,9,Matias Franco Descotte,Andrey Chepelev,7-6(6) 6-3,0.75,2.6%,1.3%,73.1%,63.2%,52.4%,6/8,46.5%,29.7%,3.1%,28.9%,31.6%,1/1,142,2,1,78,57,21,2,2:06
+8-Jan-2023,Tigre CH,3,Clay,Q1,362,507,1,3,Alt,Andrey Chepelev,Ignacio Monzon,7-5 6-4,1.33,0.0%,5.9%,66.2%,66.7%,43.5%,6/10,56.9%,54.8%,1.6%,53.2%,60.0%,6/9,130,0,4,68,45,23,1,1:49
+2-Jan-2023,Tigre 1 CH,3,Clay,R16,369,262,0,,5,Alessandro Giannessi,Andrey Chepelev,6-4 6-4,0.81,0.0%,1.9%,70.4%,63.2%,43.8%,0/4,45.5%,34.5%,1.7%,37.2%,26.7%,2/5,112,0,1,54,38,16,1,1:29
+2-Jan-2023,Tigre 1 CH,3,Clay,R32,369,349,1,,,Andrey Chepelev,Pedro Boscardin Dias,5-2 RET,2.50,0.0%,0.0%,73.3%,81.8%,75.0%,0/0,61.5%,50.0%,0.0%,57.1%,40.0%,2/5,39,0,0,15,11,4,0,0:31
 28-Nov-2022,Maspalomas CH,3,Clay,R32,367,103,0,Q,1,Dusan Lajovic,Andrey Chepelev,6-3 6-4,0.57,1.2%,4.8%,77.4%,61.5%,31.6%,12/15,43.5%,25.9%,5.6%,22.2%,33.3%,1/3,138,1,4,84,65,19,3,1:44
 28-Nov-2022,Maspalomas CH,3,Clay,Q2,367,1602,1,2,PR,Andrey Chepelev,Aleksandr Braynin,6-4 7-6(6),1.06,0.0%,5.8%,60.9%,64.3%,44.4%,1/5,51.5%,46.3%,6.0%,33.3%,68.0%,5/11,136,0,4,69,42,27,4,1:59
 28-Nov-2022,Maspalomas CH,3,Clay,Q1,367,896,1,2,,Andrey Chepelev,Leonid Sheyngezikht,3-6 6-1 6-3,1.57,1.6%,3.2%,62.9%,74.4%,65.2%,2/4,57.7%,45.6%,1.5%,34.1%,66.7%,5/7,130,1,2,62,39,23,1,1:47
@@ -47,6 +51,8 @@
 4-Jul-2022,Todi CH,3,Clay,Q1,415,676,1,6,Alt,Andrey Chepelev,Mircea Alexandru Jecan,6-3 6-2,3.29,0.0%,2.6%,78.9%,93.3%,50.0%,0/0,65.6%,51.9%,1.9%,50.0%,56.3%,4/5,90,0,1,38,30,8,1,1:09
 27-Jun-2022,Troyes CH,3,Clay,R32,415,367,0,Q,Q,Clement Tabur,Andrey Chepelev,6-3 6-4,0.95,0.0%,4.3%,61.7%,72.4%,50.0%,0/2,45.5%,34.2%,5.3%,23.8%,47.1%,0/5,123,0,2,47,29,18,4,1:40
 27-Jun-2022,Troyes CH,3,Clay,Q2,415,372,1,9,4,Andrey Chepelev,Carlos Gimeno Valero,6-7(4) 6-1 2-0 RET,1.53,1.4%,1.4%,71.2%,67.3%,71.4%,6/7,58.0%,48.1%,0.0%,42.4%,66.7%,4/13,150,1,1,73,52,21,0,1:46
+13-Jun-2022,M15 Chieti,3,Clay,F,433,501,0,1,2,Riccardo Balzerani,Andrey Chepelev,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chieti,3,Clay,SF,433,583,1,1,6,Andrey Chepelev,Gianmarco Ferrari,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Chieti,3,Clay,QF,433,600,1,1,7,Andrey Chepelev,Sebastian Prechtel,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Chieti,3,Clay,R16,433,1313,1,1,Q,Andrey Chepelev,Jaime Faria,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Chieti,3,Clay,R32,433,,1,1,WC,Andrey Chepelev,Filiberto Fumagalli,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,

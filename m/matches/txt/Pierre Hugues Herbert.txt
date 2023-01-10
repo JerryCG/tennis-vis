@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Jan-2023,Oeiras CH,3,Hard,R32,304,250,1,,,Pierre Hugues Herbert,Matteo Gigante,3-6 6-4 6-4,1.01,6.5%,3.3%,60.9%,73.2%,38.9%,4/8,50.0%,40.6%,4.2%,35.7%,47.5%,4/8,188,6,3,92,56,36,4,2:03
+2-Jan-2023,Oeiras 1 CH,3,Hard,R32,305,475,0,,Q,Dino Prizmic,Pierre Hugues Herbert,7-5 6-1,0.74,8.3%,4.2%,54.2%,64.1%,39.4%,5/9,44.0%,34.8%,2.9%,21.4%,55.6%,1/5,141,6,3,72,39,33,2,1:50
 13-Jun-2022,Ilkley CH,3,Grass,QF,170,164,0,,,Constant Lestienne,Pierre Hugues Herbert,6-4 2-6 2-3 RET,0.97,10.8%,4.1%,58.1%,69.8%,51.6%,1/3,50.0%,36.8%,1.5%,29.3%,48.1%,3/5,142,8,3,74,43,31,1,1:43
 13-Jun-2022,Ilkley CH,3,Grass,R16,170,133,1,,,Pierre Hugues Herbert,Vasek Pospisil,6-3 7-6(2),1.37,7.8%,4.7%,59.4%,76.3%,61.5%,1/2,53.8%,40.7%,4.9%,34.0%,53.6%,2/9,145,5,3,64,38,26,4,1:47
 13-Jun-2022,Ilkley CH,3,Grass,R32,170,98,1,,3,Pierre Hugues Herbert,Henri Laaksonen,6-4 6-2,1.32,6.5%,4.8%,51.6%,65.6%,63.3%,3/4,55.6%,46.8%,3.2%,37.8%,60.0%,4/11,124,4,3,62,32,30,2,1:17
@@ -8,7 +10,7 @@
 30-May-2022,Surbiton CH,3,Grass,R32,172,72,1,Q,4,Pierre Hugues Herbert,James Duckworth,6-7(5) 6-1 6-3,1.42,16.9%,5.6%,55.1%,79.6%,62.5%,6/6,55.4%,40.0%,6.3%,31.1%,55.9%,4/9,184,15,5,89,49,40,6,2:06
 30-May-2022,Surbiton CH,3,Grass,Q2,172,319,1,2,9,Pierre Hugues Herbert,Antoine Bellier,6-2 7-5,2.08,12.0%,2.0%,66.0%,87.9%,70.6%,0/0,58.5%,37.5%,8.9%,21.9%,58.3%,3/6,106,6,1,50,33,17,5,1:08
 30-May-2022,Surbiton CH,3,Grass,Q1,172,810,1,2,Alt,Pierre Hugues Herbert,Julian Cash,6-2 6-7(6) 6-3,1.65,12.2%,2.4%,69.5%,86.0%,68.0%,0/0,54.9%,32.3%,4.3%,22.7%,55.6%,3/10,175,10,2,82,57,25,4,1:50
-23-May-2022,Roland Garros,5,Clay,Q1,172,189,0,,,Thiago Agustin Tirante,Pierre Hugues Herbert,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,172,189,0,,,Thiago Agustin Tirante,Pierre Hugues Herbert,6-4 1-6 6-2,0.76,7.5%,6.3%,58.8%,61.7%,63.6%,4/7,47.6%,28.6%,4.8%,26.0%,38.5%,2/3,143,6,5,80,47,33,3,
 9-May-2022,Bordeaux CH,3,Clay,R32,169,457,0,,Q,Elliot Benchetrit,Pierre Hugues Herbert,3-6 7-6(3) 6-4,0.89,8.2%,3.1%,66.0%,71.9%,45.5%,4/6,47.9%,33.0%,7.2%,26.3%,42.5%,2/9,194,8,3,97,64,33,7,2:22
 25-Apr-2022,Estoril,3,Clay,R32,157,37,0,Q,8,Sebastian Korda,Pierre Hugues Herbert,6-2 6-4,0.60,0.0%,3.2%,52.4%,72.7%,40.0%,6/9,42.7%,25.9%,1.9%,22.5%,35.7%,0/4,117,0,2,63,33,30,1,1:23
 25-Apr-2022,Estoril,3,Clay,Q2,157,118,1,,8,Pierre Hugues Herbert,Fernando Verdasco,7-5 6-7(4) 6-2,1.05,10.7%,4.5%,50.0%,73.2%,51.8%,5/8,51.4%,39.4%,3.8%,38.0%,42.4%,6/10,216,12,5,112,56,56,4,2:48

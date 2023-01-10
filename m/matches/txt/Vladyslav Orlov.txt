@@ -1,5 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-31-Dec-2022,Pune,3,Hard,Q1,392,153,0,Alt,3,Mattia Bellucci,Vladyslav Orlov,6-4 6-4,0.73,3.6%,5.5%,67.3%,64.9%,50.0%,0/3,44.5%,29.1%,30.9%,16.2%,55.6%,1/1,110,2,3,55,37,18,17,1:13
+8-Jan-2023,Nonthaburi CH,3,Hard,Q2,389,341,0,12,2,Henri Squire,Vladyslav Orlov,4-6 7-5 7-6(6),1.19,11.8%,2.0%,63.7%,75.4%,62.2%,9/12,52.1%,34.9%,18.3%,15.6%,62.2%,3/8,211,12,2,102,65,37,20,2:24
+8-Jan-2023,Nonthaburi CH,3,Hard,Q1,389,,1,12,WC,Vladyslav Orlov,Credit Chaiyarin,6-4 6-4,1.18,2.4%,6.0%,56.6%,74.5%,44.4%,7/8,53.8%,45.3%,4.0%,26.1%,75.9%,3/9,158,2,5,83,47,36,3,1:49
+2-Jan-2023,Pune,3,Hard,Q1,392,153,0,Alt,3,Mattia Bellucci,Vladyslav Orlov,6-4 6-4,0.73,3.6%,5.5%,67.3%,64.9%,50.0%,0/3,44.5%,29.1%,30.9%,16.2%,55.6%,1/1,110,2,3,55,37,18,17,1:13
 21-Nov-2022,M15 Bhilai,3,Hard,F,406,823,1,1,6,Vladyslav Orlov,Niki Kaliyanda Poonacha,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Nov-2022,M15 Bhilai,3,Hard,SF,406,,1,1,,Vladyslav Orlov,Ryotaro Matsumura,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Nov-2022,M15 Bhilai,3,Hard,QF,406,,1,1,Q,Vladyslav Orlov,Ranjeet Virali Murugesan,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -69,6 +71,7 @@
 22-Nov-2021,Manama CH,3,Hard,Q2,429,426,1,2,5,Vladyslav Orlov,Michail Pervolarakis,1-6 6-4 6-0,1.05,4.8%,3.6%,69.0%,58.6%,53.8%,6/10,51.6%,45.2%,8.2%,44.9%,45.8%,5/13,157,4,3,84,58,26,6,2:06
 22-Nov-2021,Manama CH,3,Hard,Q1,429,593,1,2,,Vladyslav Orlov,Patrik Niklas Salminen,6-1 7-6(3),1.54,3.0%,1.5%,55.2%,83.8%,66.7%,6/6,58.1%,36.8%,17.5%,35.3%,39.1%,2/3,124,2,1,67,37,30,10,1:33
 8-Nov-2021,Roanne CH,3,Hard,R32,416,226,0,LL,,Mathias Bourgue,Vladyslav Orlov,6-3 6-2,0.53,1.9%,0.0%,82.7%,62.8%,33.3%,4/7,40.6%,22.4%,20.4%,8.0%,37.5%,0/1,101,1,0,52,43,9,10,1:15
+8-Nov-2021,Roanne CH,3,Hard,Q2,416,,0,,WC,Gabriel Debru,Vladyslav Orlov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,Roanne CH,3,Hard,Q1,416,365,1,,5,Vladyslav Orlov,Thomaz Bellucci,6-4 6-2,1.60,5.7%,1.9%,83.0%,72.7%,55.6%,1/2,58.4%,48.3%,3.3%,50.0%,45.8%,4/7,113,3,1,53,44,9,2,1:14
 1-Nov-2021,Tenerife CH,3,Hard,R32,424,150,0,Q,8,Joao Sousa,Vladyslav Orlov,5-7 6-3 7-6(1),0.87,0.9%,6.9%,62.9%,61.6%,41.9%,12/17,47.2%,39.8%,0.0%,32.3%,50.0%,5/13,229,1,8,116,73,43,0,3:13
 1-Nov-2021,Tenerife CH,3,Hard,Q2,424,353,1,,4,Vladyslav Orlov,Alexis Gautier,7-5 6-0,1.41,3.2%,1.6%,64.5%,57.5%,77.3%,3/4,57.5%,50.0%,13.8%,30.0%,71.4%,5/10,120,2,1,62,40,22,8,1:33
@@ -122,7 +125,6 @@
 18-Jan-2021,M15 Antalya,3,Clay,R32,351,909,1,7,LL,Vladyslav Orlov,Federico Arnaboldi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Jan-2021,M15 Antalya,3,Clay,R16,350,564,0,4,,Adrian Andreev,Vladyslav Orlov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Jan-2021,M15 Antalya,3,Clay,R32,350,,1,4,WC,Vladyslav Orlov,Suleyman Deniz Gursoy,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
-5-Jan-2021,Antalya,3,Hard,Q1,350,279,0,,5,Matthias Bachinger,Vladyslav Orlov,6-1 7-5,0.51,1.6%,1.6%,69.8%,56.8%,47.4%,6/10,40.4%,23.5%,11.8%,11.1%,53.3%,1/4,114,1,1,63,44,19,6,
 5-Jan-2021,Antalya,3,Hard,Q1,350,279,0,,5,Matthias Bachinger,Vladyslav Orlov,6-1 7-5,0.51,1.6%,1.6%,69.8%,56.8%,47.4%,6/10,40.4%,23.5%,11.8%,11.1%,53.3%,1/4,114,1,1,63,44,19,6,
 21-Dec-2020,M15 Antalya,3,Clay,SF,369,606,0,3,6,Georgii Kravchenko,Vladyslav Orlov,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Dec-2020,M15 Antalya,3,Clay,QF,369,575,1,3,5,Vladyslav Orlov,Marsel Ilhan,1-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,

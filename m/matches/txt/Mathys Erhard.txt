@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Jan-2023,Tigre CH,3,Clay,Q1,359,546,0,1,Alt,Gonzalo Bueno,Mathys Erhard,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2023,Tigre 1 CH,3,Clay,R32,361,276,0,,8,Juan Ignacio Londero,Mathys Erhard,6-0 6-4,0.46,4.9%,4.9%,53.7%,36.4%,57.9%,1/5,34.9%,24.4%,11.1%,14.8%,38.9%,0/3,86,2,2,41,22,19,5,1:12
 21-Nov-2022,Andria CH,3,Hard,R32,360,368,0,Q,Q,Andrew Paulson,Mathys Erhard,6-3 6-2,0.63,3.0%,1.5%,72.7%,50.0%,50.0%,8/12,42.1%,31.3%,14.6%,26.5%,42.9%,1/1,114,2,1,66,48,18,7,1:16
 21-Nov-2022,Andria CH,3,Hard,Q2,360,442,1,6,12,Mathys Erhard,David Poljak,2-6 6-4 7-5,0.97,3.5%,5.3%,64.0%,67.1%,41.5%,11/15,49.6%,40.9%,3.6%,33.3%,52.3%,4/13,224,4,6,114,73,41,4,2:36
 21-Nov-2022,Andria CH,3,Hard,Q1,360,493,1,6,,Mathys Erhard,Sebastian Gima,6-3 6-2,2.02,8.2%,2.0%,61.2%,83.3%,68.4%,2/2,60.8%,45.3%,1.9%,33.3%,57.7%,3/6,102,4,1,49,30,19,1,1:04
@@ -33,6 +35,7 @@
 20-Jun-2022,M15 Alkmaar,3,Clay,QF,513,1319,0,1,Q,Michiel De Krom,Mathys Erhard,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M15 Alkmaar,3,Clay,R16,513,,1,1,WC,Mathys Erhard,Stijn Pel,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M15 Alkmaar,3,Clay,R32,513,1910,1,1,Q,Mathys Erhard,Leonardo Catani,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Grasse,3,Clay,SF,511,318,0,,3,Pol Martin Tiffon,Mathys Erhard,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Grasse,3,Clay,QF,511,1354,1,,WC,Mathys Erhard,Mehdi Sadaoui,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Grasse,3,Clay,R16,511,366,1,,7,Mathys Erhard,Clement Tabur,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Grasse,3,Clay,R32,511,927,1,,LL,Mathys Erhard,Mathieu Scaglia,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

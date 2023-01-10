@@ -1,5 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-31-Dec-2022,Adelaide,3,Hard,R32,78,29,0,WC,,Miomir Kecmanovic,Christopher Oconnell,6-4 6-4,0.87,16.4%,3.6%,56.4%,74.2%,37.5%,2/5,45.7%,36.5%,5.4%,42.9%,28.1%,1/6,129,9,2,55,31,24,4,1:34
+8-Jan-2023,Adelaide 2 International ,3,Hard,Q2,79,148,0,5,Alt,John Millman,Christopher Oconnell,6-3 7-6(7),0.72,9.0%,1.5%,53.7%,75.0%,51.6%,2/3,44.0%,25.7%,9.5%,20.0%,37.5%,0/2,141,6,1,67,36,31,7,1:41
+8-Jan-2023,Adelaide 2 International ,3,Hard,Q1,79,169,1,5,WC,Christopher Oconnell,Rinky Hijikata,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Jan-2023,Adelaide 1,3,Hard,R32,78,29,0,WC,,Miomir Kecmanovic,Christopher Oconnell,6-4 6-4,0.87,16.4%,3.6%,56.4%,74.2%,37.5%,2/5,45.7%,36.5%,5.4%,42.9%,28.1%,1/6,129,9,2,55,31,24,4,1:34
 14-Nov-2022,Kobe CH,3,Hard,SF,84,195,0,1,7,Yosuke Watanuki,Christopher Oconnell,6-4 7-6(6),0.76,0.0%,2.7%,58.1%,65.1%,48.4%,1/4,46.0%,31.7%,17.5%,17.1%,50.0%,2/3,137,0,2,74,43,31,11,1:32
 14-Nov-2022,Kobe CH,3,Hard,QF,84,371,1,1,Q,Christopher Oconnell,Marc Polmans,7-5 7-6(3),1.18,11.4%,2.5%,57.0%,82.2%,47.1%,4/5,52.8%,38.7%,2.5%,35.0%,50.0%,2/6,159,9,2,79,45,34,2,1:52
 14-Nov-2022,Kobe CH,3,Hard,R16,84,326,1,1,Alt,Christopher Oconnell,Beibit Zhukayev,6-2 6-7(5) 6-1,1.55,13.6%,6.2%,67.9%,87.3%,50.0%,0/0,56.3%,38.4%,9.3%,32.6%,44.2%,4/9,167,11,5,81,55,26,8,1:52
@@ -44,7 +46,7 @@
 30-May-2022,Surbiton CH,3,Grass,QF,117,82,0,,8,Jordan Thompson,Christopher Oconnell,6-2 6-3,0.58,1.8%,5.5%,58.2%,59.4%,39.1%,3/7,40.4%,28.6%,4.1%,21.2%,43.8%,0/2,104,1,3,55,32,23,2,1:15
 30-May-2022,Surbiton CH,3,Grass,R16,117,299,1,,WC,Christopher Oconnell,Alastair Gray,6-3 7-6(5),1.36,1.4%,1.4%,78.6%,74.5%,33.3%,4/6,55.8%,46.8%,1.3%,45.1%,50.0%,3/11,147,1,1,70,55,15,1,1:37
 30-May-2022,Surbiton CH,3,Grass,R32,117,71,1,,3,Christopher Oconnell,Soon Woo Kwon,4-6 6-4 6-3,1.27,8.8%,2.5%,60.0%,79.2%,56.3%,7/10,53.7%,38.1%,3.6%,38.5%,37.5%,4/12,164,7,2,80,48,32,3,1:49
-23-May-2022,Roland Garros,5,Clay,R128,117,195,0,WC,,Aljaz Bedene,Christopher Oconnell,6-2 6-4 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,117,195,0,WC,,Aljaz Bedene,Christopher Oconnell,6-2 6-4 6-7(5) 6-1,0.73,5.2%,4.3%,71.3%,62.2%,42.4%,6/13,44.0%,31.9%,8.4%,22.6%,42.1%,2/12,234,6,5,115,82,33,10,
 16-May-2022,Geneva,3,Clay,R16,124,18,0,Q,4,Reilly Opelka,Christopher Oconnell,6-3 7-5,0.52,2.6%,5.3%,65.8%,66.0%,50.0%,6/9,43.8%,20.4%,24.1%,16.7%,25.0%,0/1,130,2,4,76,50,26,13,1:28
 16-May-2022,Geneva,3,Clay,R32,124,42,1,Q,,Christopher Oconnell,Albert Ramos,7-6(5) 6-4,1.25,15.3%,2.8%,52.8%,84.2%,61.8%,2/2,53.5%,32.9%,2.9%,20.5%,53.8%,1/1,142,11,2,72,38,34,2,1:43
 16-May-2022,Geneva,3,Clay,Q2,124,321,1,5,,Christopher Oconnell,Benjamin Hassan,7-6(2) 6-4,1.83,8.6%,1.7%,51.7%,86.7%,67.9%,0/1,56.6%,41.0%,2.6%,30.4%,56.3%,2/4,136,5,1,58,30,28,2,1:31

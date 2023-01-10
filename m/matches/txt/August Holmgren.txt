@@ -1,6 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Jan-2023,Oeiras CH,3,Hard,Q2,483,475,0,Alt,,Dino Prizmic,August Holmgren,6-7(4) 6-4 6-1,0.74,2.8%,2.8%,55.7%,66.1%,48.9%,6/10,45.7%,30.8%,6.6%,22.8%,44.1%,0/2,197,3,3,106,59,47,6,2:39
-1-Jan-2023,Oeiras CH,3,Hard,Q1,483,383,1,Alt,9,August Holmgren,Ergi Kirkin,6-4 6-4,1.31,11.9%,4.5%,56.7%,81.6%,55.2%,5/5,54.4%,39.1%,7.2%,23.7%,58.1%,2/8,136,8,3,67,38,29,5,1:30
+2-Jan-2023,Oeiras 1 CH,3,Hard,Q2,483,475,0,Alt,,Dino Prizmic,August Holmgren,6-7(4) 6-4 6-1,0.74,2.8%,2.8%,55.7%,66.1%,48.9%,6/10,45.7%,30.8%,6.6%,22.8%,44.1%,0/2,197,3,3,106,59,47,6,2:39
+2-Jan-2023,Oeiras 1 CH,3,Hard,Q1,483,383,1,Alt,9,August Holmgren,Ergi Kirkin,6-4 6-4,1.31,11.9%,4.5%,56.7%,81.6%,55.2%,5/5,54.4%,39.1%,7.2%,23.7%,58.1%,2/8,136,8,3,67,38,29,5,1:30
 14-Nov-2022,Champaign CH,3,Hard,R16,518,227,0,Q,,Nicolas Alvarez Varona,August Holmgren,6-4 7-6(3),0.76,5.6%,2.8%,61.1%,65.9%,53.6%,2/4,45.5%,29.6%,4.2%,18.4%,42.4%,1/1,143,4,2,72,44,28,3,1:37
 14-Nov-2022,Champaign CH,3,Hard,R32,518,200,1,Q,,August Holmgren,Paul Jubb,1-6 6-3 6-4,0.92,6.7%,2.2%,65.6%,71.2%,35.5%,7/11,49.1%,37.7%,6.5%,30.9%,54.5%,4/8,167,6,2,90,59,31,5,1:54
 14-Nov-2022,Champaign CH,3,Hard,Q2,518,547,1,6,8,August Holmgren,Nathan Ponwith,6-3 6-4,1.11,7.1%,4.3%,58.6%,65.9%,58.6%,4/5,53.2%,41.1%,5.4%,39.5%,46.2%,3/6,126,5,3,70,41,29,3,1:24
@@ -32,6 +32,8 @@
 25-Jul-2022,M15 Vejle,3,Clay,R32,588,963,1,4,,August Holmgren,Alex Barrena,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M25 EschAlzette,3,Clay,R16,591,440,0,,8,Tristan Lamasine,August Holmgren,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M25 EschAlzette,3,Clay,R32,591,499,1,,,August Holmgren,Wilson Leite,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 San Diego CA,3,Hard,F,634,851,0,,,Ethan Quinn,August Holmgren,3-6 7-6(7) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 San Diego CA,3,Hard,SF,634,1271,1,,Q,August Holmgren,Yuta Kikuchi,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 San Diego CA,3,Hard,QF,634,652,1,,4,August Holmgren,Duarte Vale,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 San Diego CA,3,Hard,R16,634,782,1,,8,August Holmgren,Ajeet Rai,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 San Diego CA,3,Hard,R32,634,,1,,,August Holmgren,Kalman Boyd,7-5 6-2,,,,,,,,,,,,,,,,,,,,,

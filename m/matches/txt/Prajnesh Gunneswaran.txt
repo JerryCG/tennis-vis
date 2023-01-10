@@ -1,5 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-31-Dec-2022,Pune,3,Hard,Q1,348,159,0,,4,Maximilian Marterer,Prajnesh Gunneswaran,7-6(6) 3-6 7-5,0.92,11.9%,1.8%,60.6%,83.3%,48.8%,4/6,50.5%,28.0%,5.4%,17.3%,41.5%,2/2,202,13,2,109,66,43,5,2:20
+8-Jan-2023,Nonthaburi CH,3,Hard,R32,343,237,1,Alt,4,Prajnesh Gunneswaran,Zdenek Kolar,6-3 6-3,1.67,12.0%,2.0%,66.0%,81.8%,47.1%,1/3,59.6%,50.0%,1.9%,45.2%,66.7%,5/10,104,6,1,50,33,17,1,1:14
+2-Jan-2023,Pune,3,Hard,Q1,348,159,0,,4,Maximilian Marterer,Prajnesh Gunneswaran,7-6(6) 3-6 7-5,0.92,11.9%,1.8%,60.6%,83.3%,48.8%,4/6,50.5%,28.0%,5.4%,17.3%,41.5%,2/2,202,13,2,109,66,43,5,2:20
 21-Nov-2022,Yokkaichi CH,3,Hard,R32,347,165,0,,1,Kaichi Uchida,Prajnesh Gunneswaran,6-3 1-6 6-3,0.95,12.9%,0.0%,67.1%,72.3%,52.2%,2/5,48.6%,32.4%,13.5%,22.5%,44.1%,3/7,144,9,0,70,47,23,10,1:25
 14-Nov-2022,Champaign CH,3,Hard,QF,381,108,0,,4,Ben Shelton,Prajnesh Gunneswaran,6-3 7-5,0.71,14.3%,5.4%,57.1%,59.4%,62.5%,3/6,44.2%,28.1%,5.3%,27.5%,29.4%,1/3,113,8,3,56,32,24,3,1:11
 14-Nov-2022,Champaign CH,3,Hard,R16,381,334,1,,,Prajnesh Gunneswaran,Sebastian Fanselow,3-6 6-2 7-5,1.13,5.6%,0.0%,60.0%,68.5%,61.1%,6/8,51.9%,38.9%,5.3%,19.5%,53.7%,4/15,185,5,0,90,54,36,5,2:05
@@ -96,8 +97,6 @@
 7-Feb-2021,Potchefstroom 1 CH,3,Hard,R32,131,278,0,1,,Dimitar Kuzmanov,Prajnesh Gunneswaran,6-3 6-4,0.79,8.3%,2.1%,45.8%,68.2%,42.3%,3/7,44.0%,36.1%,1.6%,31.0%,47.4%,2/9,109,4,1,48,22,26,1,1:18
 17-Jan-2021,Istanbul 1 CH,3,Hard,R32,128,178,0,5,Q,Arthur Rinderknech,Prajnesh Gunneswaran,6-4 3-2 RET,0.32,3.6%,0.0%,69.6%,66.7%,47.1%,4/6,43.2%,12.5%,9.4%,8.7%,22.2%,0/0,88,2,0,56,39,17,3,0:53
 10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q2,128,227,0,12,,Constant Lestienne,Prajnesh Gunneswaran,6-2 6-3,0.70,7.6%,1.5%,60.6%,55.0%,46.2%,11/15,43.4%,33.9%,7.1%,21.9%,50.0%,1/3,122,5,1,66,40,26,4,1:25
-10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q2,128,227,0,12,,Constant Lestienne,Prajnesh Gunneswaran,6-2 6-3,0.70,7.6%,1.5%,60.6%,55.0%,46.2%,11/15,43.4%,33.9%,7.1%,21.9%,50.0%,1/3,122,5,1,66,40,26,4,1:25
-10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,128,207,1,12,,Prajnesh Gunneswaran,Brayden Schnur,6-4 4-6 6-2,1.21,4.4%,8.9%,51.1%,73.9%,45.5%,7/11,53.9%,48.5%,5.9%,34.5%,67.4%,5/15,191,4,8,90,46,44,6,2:30
 10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,128,207,1,12,,Prajnesh Gunneswaran,Brayden Schnur,6-4 4-6 6-2,1.21,4.4%,8.9%,51.1%,73.9%,45.5%,7/11,53.9%,48.5%,5.9%,34.5%,67.4%,5/15,191,4,8,90,46,44,6,2:30
 16-Nov-2020,Orlando CH,3,Hard,F,137,202,0,4,,Brandon Nakashima,Prajnesh Gunneswaran,6-3 6-4,1.00,7.5%,0.0%,71.7%,71.1%,53.3%,3/5,47.6%,33.8%,5.6%,23.9%,52.0%,0/8,124,4,0,53,38,15,4,1:18
 16-Nov-2020,Orlando CH,3,Hard,SF,137,239,1,4,,Prajnesh Gunneswaran,Christopher Eubanks,6-4 7-6(2),1.06,11.0%,6.8%,61.6%,68.9%,57.1%,3/5,52.2%,37.7%,8.2%,26.2%,63.2%,3/6,134,8,5,73,45,28,5,1:25

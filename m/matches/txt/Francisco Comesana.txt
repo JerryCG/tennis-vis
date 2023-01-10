@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Jan-2023,Tigre CH,3,Clay,R32,275,622,0,,WC,Tomas Farjat,Francisco Comesana,6-3 6-4,0.78,3.1%,3.1%,73.4%,48.9%,64.7%,3/7,44.2%,36.5%,8.1%,35.7%,37.5%,1/7,138,2,2,64,47,17,6,1:26
+2-Jan-2023,Tigre 1 CH,3,Clay,R32,271,386,0,7,WC,Guido Andreozzi,Francisco Comesana,1-6 6-2 7-6(5),1.03,4.0%,0.0%,69.7%,59.4%,66.7%,8/11,50.8%,39.4%,3.2%,31.9%,46.8%,3/11,193,4,0,99,69,30,3,2:23
 14-Nov-2022,Sao Leopoldo CH,3,Clay,R32,243,274,0,,,Roman Andres Burruchaga,Francisco Comesana,6-2 6-2,0.52,4.2%,1.4%,77.5%,52.7%,50.0%,6/10,41.7%,25.0%,0.0%,30.8%,16.7%,0/2,115,3,1,71,55,16,0,1:30
 7-Nov-2022,Montevideo CH,3,Clay,R32,231,377,0,,Q,Moez Echargui,Francisco Comesana,6-1 6-1,0.37,1.9%,7.7%,69.2%,50.0%,25.0%,6/11,33.7%,21.6%,2.7%,23.1%,18.2%,0/0,89,1,4,52,36,16,1,1:01
 31-Oct-2022,Guayaquil CH,3,Clay,R32,230,71,0,,1,Federico Coria,Francisco Comesana,6-2 7-6(6),0.83,3.8%,0.0%,61.5%,56.3%,46.7%,4/9,46.1%,39.5%,0.0%,40.7%,36.4%,3/9,154,3,0,78,48,30,0,2:02
@@ -9,7 +11,8 @@
 29-Aug-2022,US Open,5,Hard,Q1,216,125,0,,10,Franco Agamenone,Francisco Comesana,4-6 6-3 6-1,1.26,7.9%,4.5%,59.6%,75.5%,38.9%,4/7,55.1%,49.4%,0.0%,42.3%,60.0%,6/11,176,7,4,89,53,36,0,2:11
 15-Aug-2022,Santo Domingo CH,3,Clay,R32,211,226,0,,,Marco Trungelliti,Francisco Comesana,6-1 6-2,0.66,2.0%,5.9%,66.7%,44.1%,47.1%,9/14,40.6%,36.4%,9.1%,22.6%,54.2%,1/6,106,1,3,51,34,17,5,1:09
 27-Jun-2022,Cali CH,3,Clay,R32,213,305,0,5,,Roberto Quiroz,Francisco Comesana,7-5 0-0 RET,0.87,3.0%,6.1%,54.5%,72.2%,40.0%,0/2,46.5%,36.8%,0.0%,33.3%,45.5%,1/3,71,1,2,33,18,15,0,0:49
-20-Jun-2022,Buenos Aires CH,3,Clay,SF,239,213,1,3,2,Francisco Comesana,Felipe Meligeni Alves,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,Buenos Aires CH,3,Clay,F,239,433,1,3,,Francisco Comesana,Mariano Navone,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2022,Buenos Aires CH,3,Clay,SF,239,213,1,3,2,Francisco Comesana,Felipe Meligeni Alves,6-3 6-2,2.03,4.2%,0.0%,70.8%,73.5%,85.7%,0/0,60.4%,46.6%,0.0%,45.5%,50.0%,3/5,106,2,0,48,34,14,0,1:18
 20-Jun-2022,Buenos Aires CH,3,Clay,QF,239,523,1,3,,Francisco Comesana,Arklon Huertas Del Pino,6-2 6-1,1.94,2.3%,0.0%,79.5%,71.4%,66.7%,3/4,63.7%,57.4%,2.1%,54.5%,64.3%,5/9,91,1,0,44,35,9,1,1:00
 20-Jun-2022,Buenos Aires CH,3,Clay,R16,239,613,1,3,WC,Francisco Comesana,Juan Bautista Otegui,7-5 6-2,1.45,1.6%,1.6%,65.1%,61.0%,54.5%,4/8,59.2%,59.6%,0.0%,45.7%,81.8%,7/9,120,1,1,63,41,22,0,1:41
 20-Jun-2022,Buenos Aires CH,3,Clay,R32,239,366,1,3,,Francisco Comesana,Nicolas Alvarez,6-2 6-7(4) 6-3,1.26,1.1%,1.1%,76.9%,72.9%,47.6%,4/6,54.5%,41.4%,3.4%,33.3%,54.5%,5/8,178,1,1,91,70,21,3,2:11

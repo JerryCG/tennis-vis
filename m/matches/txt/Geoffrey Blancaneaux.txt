@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+2-Jan-2023,Noumea CH,3,Hard,R16,170,523,0,5,,Jose Rubin Statham,Geoffrey Blancaneaux,7-6(6) 4-6 6-4,0.87,2.9%,6.6%,61.3%,66.7%,39.6%,12/16,48.7%,38.1%,8.2%,33.3%,45.9%,4/8,234,4,9,137,84,53,8,3:30
+2-Jan-2023,Noumea CH,3,Hard,R32,170,230,1,5,,Geoffrey Blancaneaux,Tomas Barrios Vera,2-6 6-3 6-2,1.18,6.8%,5.4%,62.2%,76.1%,42.9%,2/5,52.5%,43.0%,3.5%,41.1%,46.7%,4/14,160,5,4,74,46,28,3,2:06
 28-Nov-2022,Maia CH,3,Clay,R32,135,239,0,4,,Nerman Fatic,Geoffrey Blancaneaux,6-1 6-4,0.62,1.5%,3.0%,59.1%,48.7%,37.0%,3/9,40.2%,34.8%,2.2%,38.1%,32.0%,2/4,112,1,2,66,39,27,1,1:43
 21-Nov-2022,Valencia CH,3,Clay,R32,135,374,0,5,WC,Carlos Lopez Montagud,Geoffrey Blancaneaux,7-6(4) 6-4,1.01,0.0%,4.2%,70.8%,58.8%,52.4%,6/10,48.9%,43.5%,0.0%,32.8%,61.0%,3/21,180,0,3,72,51,21,0,2:18
 7-Nov-2022,Bratislava CH,3,Hard,R16,137,112,0,,3,Norbert Gombos,Geoffrey Blancaneaux,6-2 7-6(4),0.48,7.4%,1.9%,57.4%,74.2%,52.2%,0/2,41.1%,17.0%,9.4%,15.2%,20.0%,0/0,107,4,1,54,31,23,5,1:23
@@ -41,10 +43,10 @@
 6-Jun-2022,Nottingham CH,3,Grass,R16,181,110,0,,7,Jack Sock,Geoffrey Blancaneaux,6-0 4-6 6-2,0.71,0.0%,7.2%,68.7%,56.1%,38.5%,6/12,43.3%,35.1%,1.4%,29.2%,46.2%,2/5,157,0,6,83,57,26,1,1:52
 6-Jun-2022,Nottingham CH,3,Grass,R32,181,175,1,,,Geoffrey Blancaneaux,Ramkumar Ramanathan,7-6(3) 7-5,1.15,8.1%,1.4%,56.8%,81.0%,65.6%,5/5,52.8%,29.4%,10.3%,26.1%,36.4%,1/3,142,6,1,74,42,32,7,1:39
 30-May-2022,Forli 6 CH,3,Clay,R32,191,245,0,,Alt,Riccardo Bonadio,Geoffrey Blancaneaux,6-3 6-1,0.66,3.8%,1.9%,66.0%,54.3%,55.6%,4/8,42.7%,30.0%,10.0%,19.2%,41.7%,0/1,103,2,1,53,35,18,5,1:17
-23-May-2022,Roland Garros,5,Clay,R128,191,57,0,Q,,Marton Fucsovics,Geoffrey Blancaneaux,6-2 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,191,237,1,,,Geoffrey Blancaneaux,Daniel Masur,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,191,140,1,,29,Geoffrey Blancaneaux,Liam Broady,6-1 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,191,220,1,,,Geoffrey Blancaneaux,Mirza Basic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,191,57,0,Q,,Marton Fucsovics,Geoffrey Blancaneaux,6-2 6-4 6-4,0.70,2.0%,1.0%,67.7%,56.7%,37.5%,8/15,43.1%,34.8%,1.1%,27.9%,50.0%,3/9,188,2,1,99,67,32,1,
+23-May-2022,Roland Garros,5,Clay,Q3,191,237,1,,,Geoffrey Blancaneaux,Daniel Masur,6-1 6-3,1.76,2.1%,0.0%,85.4%,68.3%,71.4%,0/1,61.9%,55.1%,2.0%,50.0%,64.7%,5/6,97,1,0,48,41,7,1,
+23-May-2022,Roland Garros,5,Clay,Q2,191,140,1,,29,Geoffrey Blancaneaux,Liam Broady,6-1 6-7(2) 6-4,1.39,8.0%,2.3%,64.4%,76.8%,61.3%,5/5,53.8%,40.0%,0.0%,39.6%,42.9%,4/14,197,7,2,87,56,31,0,
+23-May-2022,Roland Garros,5,Clay,Q1,191,220,1,,,Geoffrey Blancaneaux,Mirza Basic,6-4 6-3,1.64,5.5%,0.0%,72.7%,72.5%,73.3%,0/1,56.5%,44.7%,0.0%,41.3%,50.0%,3/11,131,3,0,55,40,15,0,
 2-May-2022,Prague CH,3,Clay,SF,208,176,0,,5,Pedro Cachin,Geoffrey Blancaneaux,2-6 6-2 6-3,0.83,0.0%,2.5%,70.0%,60.7%,37.5%,4/9,46.7%,38.6%,0.0%,31.0%,50.0%,3/6,150,0,2,80,56,24,0,2:03
 2-May-2022,Prague CH,3,Clay,QF,208,405,1,,Q,Geoffrey Blancaneaux,Clement Tabur,6-0 6-1,2.36,7.7%,7.7%,56.4%,77.3%,70.6%,0/0,66.7%,60.4%,0.0%,40.9%,76.9%,5/11,87,3,3,39,22,17,0,1:10
 2-May-2022,Prague CH,3,Clay,R16,208,254,1,,Q,Geoffrey Blancaneaux,Lukas Rosol,1-6 6-2 7-6(3),0.87,6.3%,1.3%,66.3%,67.9%,55.6%,4/8,48.7%,31.4%,4.3%,22.2%,41.2%,3/6,150,5,1,80,53,27,3,1:48

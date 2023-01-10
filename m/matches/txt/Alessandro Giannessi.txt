@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+2-Jan-2023,Tigre 1 CH,3,Clay,SF,262,151,0,5,1,Juan Manuel Cerundolo,Alessandro Giannessi,6-3 7-5,0.89,0.0%,5.1%,67.8%,50.0%,52.6%,2/7,46.6%,43.8%,1.1%,35.6%,60.0%,3/13,148,0,3,59,40,19,1,1:42
+2-Jan-2023,Tigre 1 CH,3,Clay,QF,262,,1,5,WC,Alessandro Giannessi,Lautaro Midon,7-5 6-1,1.45,0.0%,4.5%,60.6%,72.5%,57.7%,5/6,58.1%,48.3%,3.4%,45.0%,55.6%,4/7,124,0,3,66,40,26,2,1:37
+2-Jan-2023,Tigre 1 CH,3,Clay,R16,262,369,1,5,,Alessandro Giannessi,Andrey Chepelev,6-4 6-4,1.24,1.7%,0.0%,74.1%,62.8%,73.3%,3/5,54.5%,42.6%,0.0%,36.8%,56.3%,4/4,112,1,0,58,43,15,0,1:29
+2-Jan-2023,Tigre 1 CH,3,Clay,R32,262,794,1,5,WC,Alessandro Giannessi,Luciano Emanuel Ambrogi,7-5 6-0,1.46,3.2%,9.5%,58.7%,73.0%,46.2%,4/6,58.9%,55.7%,3.3%,44.7%,73.9%,6/13,124,2,6,63,37,26,2,1:35
 28-Nov-2022,Maia CH,3,Clay,R32,267,303,0,,Q,Alexandar Lazarov,Alessandro Giannessi,6-3 6-4,0.77,2.0%,2.0%,70.6%,63.9%,40.0%,0/3,43.9%,33.3%,1.6%,24.4%,55.6%,1/6,114,1,1,51,36,15,1,1:15
 21-Nov-2022,Valencia CH,3,Clay,R32,268,263,0,LL,WC,Nikolas Sanchez Izquierdo,Alessandro Giannessi,6-2 6-4,0.67,3.2%,1.6%,71.0%,56.8%,61.1%,3/6,44.3%,28.3%,1.9%,25.6%,35.7%,0/0,115,2,1,62,44,18,1,1:31
 21-Nov-2022,Valencia CH,3,Clay,Q2,268,411,0,2,,Alvaro Lopez San Martin,Alessandro Giannessi,6-4 6-0,0.59,0.0%,2.0%,52.9%,51.9%,33.3%,7/12,38.4%,33.3%,0.0%,33.3%,33.3%,1/2,99,0,1,51,27,24,0,1:11
@@ -20,10 +24,10 @@
 6-Jun-2022,Perugia CH,3,Clay,R16,196,244,0,,Alt,Borna Coric,Alessandro Giannessi,6-2 7-6(6),0.59,0.0%,2.7%,61.3%,58.7%,58.6%,2/4,43.4%,24.6%,9.8%,22.0%,30.0%,0/0,136,0,2,75,46,29,6,1:57
 6-Jun-2022,Perugia CH,3,Clay,R32,196,276,1,,Alt,Alessandro Giannessi,Nerman Fatic,7-5 0-0 RET,1.30,5.0%,0.0%,70.0%,64.3%,75.0%,3/4,55.1%,42.1%,2.6%,36.4%,50.0%,2/5,78,2,0,40,28,12,1,1:07
 30-May-2022,Forli 6 CH,3,Clay,R32,173,87,0,,2,Jaume Munar,Alessandro Giannessi,6-2 6-2,0.51,2.3%,7.0%,65.1%,57.1%,40.0%,1/5,37.9%,25.0%,13.6%,19.2%,33.3%,0/0,87,1,3,43,28,15,6,1:01
-23-May-2022,Roland Garros,5,Clay,R128,173,223,0,LL,Q,Borna Gojo,Alessandro Giannessi,6-4 6-7(3) 6-7(4) 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,173,219,0,,,Sebastian Ofner,Alessandro Giannessi,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,173,189,1,,,Alessandro Giannessi,Thiago Agustin Tirante,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,173,116,1,,15,Alessandro Giannessi,Mats Moraing,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,173,223,0,LL,Q,Borna Gojo,Alessandro Giannessi,6-4 6-7(3) 6-7(4) 7-6(4) 6-4,0.99,4.2%,4.2%,70.4%,63.8%,56.3%,23/30,50.5%,37.9%,9.5%,30.8%,53.3%,5/16,406,9,9,216,152,64,18,
+23-May-2022,Roland Garros,5,Clay,Q3,173,219,0,,,Sebastian Ofner,Alessandro Giannessi,6-4 1-6 6-2,1.03,4.4%,4.4%,70.6%,56.3%,45.0%,1/7,50.3%,48.3%,2.3%,45.5%,53.1%,5/11,155,3,3,68,48,20,2,
+23-May-2022,Roland Garros,5,Clay,Q2,173,189,1,,,Alessandro Giannessi,Thiago Agustin Tirante,7-5 6-2,1.34,1.5%,0.0%,68.7%,67.4%,61.9%,6/7,56.2%,46.0%,6.3%,50.0%,33.3%,4/8,130,1,0,67,46,21,4,
+23-May-2022,Roland Garros,5,Clay,Q1,173,116,1,,15,Alessandro Giannessi,Mats Moraing,7-6(6) 6-0,1.34,5.0%,3.3%,91.7%,63.6%,40.0%,2/4,56.3%,51.5%,4.4%,50.0%,58.3%,5/8,128,3,2,60,55,5,3,
 9-May-2022,Bordeaux CH,3,Clay,Q1,170,401,0,1,,Matteo Martineau,Alessandro Giannessi,6-2 4-6 6-4,0.88,2.5%,4.9%,60.5%,63.3%,62.5%,3/7,47.1%,32.6%,11.2%,25.0%,52.0%,2/5,170,2,4,81,49,32,10,2:04
 25-Apr-2022,Rome CH,3,Clay,R32,160,345,0,,Q,Denis Yevseyev,Alessandro Giannessi,7-6(5) 3-2 RET,0.87,0.0%,10.4%,55.2%,56.8%,36.7%,7/12,46.7%,45.3%,1.9%,35.1%,68.8%,4/5,120,0,7,67,37,30,1,1:19
 11-Apr-2022,Madrid CH,3,Clay,R32,164,194,0,,,Marco Trungelliti,Alessandro Giannessi,6-2 2-6 6-3,0.92,3.9%,2.6%,59.7%,69.6%,45.2%,2/6,48.7%,37.0%,6.8%,28.1%,43.9%,2/3,150,3,2,77,46,31,5,1:45
@@ -106,7 +110,6 @@
 24-Jan-2021,Antalya 1 CH,3,Clay,R16,165,228,1,,Q,Alessandro Giannessi,Roberto Cid,6-3 6-2,1.34,3.2%,1.6%,71.0%,65.9%,38.9%,6/9,57.1%,56.0%,2.0%,55.9%,56.3%,6/15,112,2,1,62,44,18,1,1:29
 24-Jan-2021,Antalya 1 CH,3,Clay,R32,165,125,1,,7,Alessandro Giannessi,Jozef Kovalik,6-4 7-5,1.18,5.6%,1.4%,72.2%,59.6%,65.0%,4/6,52.8%,46.1%,0.0%,42.4%,53.3%,4/11,161,4,1,72,52,20,0,2:02
 17-Jan-2021,Istanbul 1 CH,3,Hard,R32,162,151,0,,,Lorenzo Giustino,Alessandro Giannessi,7-5 7-6(5),0.83,2.0%,2.0%,65.3%,62.5%,41.2%,8/12,47.6%,37.1%,5.7%,31.7%,44.8%,3/8,168,2,2,98,64,34,4,1:52
-10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,162,186,0,,,Mario Vilella Martinez,Alessandro Giannessi,6-1 6-3,0.18,1.9%,9.4%,62.3%,60.6%,40.0%,5/9,35.2%,8.6%,28.6%,9.5%,7.1%,0/0,88,1,5,53,33,20,10,1:01
 10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,162,186,0,,,Mario Vilella Martinez,Alessandro Giannessi,6-1 6-3,0.18,1.9%,9.4%,62.3%,60.6%,40.0%,5/9,35.2%,8.6%,28.6%,9.5%,7.1%,0/0,88,1,5,53,33,20,10,1:01
 2-Nov-2020,Paris Masters,3,Hard,Q1,164,90,0,,10,Radu Albot,Alessandro Giannessi,7-5 6-4,0.72,3.9%,3.9%,59.2%,64.4%,51.6%,5/7,45.4%,29.2%,7.7%,26.2%,34.8%,0/3,141,3,3,76,45,31,5,1:33
 26-Oct-2020,Marbella CH,3,Clay,R32,163,96,0,,3,Gianluca Mager,Alessandro Giannessi,2-6 6-1 6-2,0.87,3.0%,7.6%,57.6%,57.9%,42.9%,3/9,46.7%,42.0%,8.7%,31.8%,60.0%,4/8,135,2,5,66,38,28,6,1:26

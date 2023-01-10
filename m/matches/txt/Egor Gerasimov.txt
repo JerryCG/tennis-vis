@@ -1,9 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Jan-2023,Australian Open,5,Hard,Q1,367,105,0,,7,Hugo Gaston,Egor Gerasimov,6-1 6-1,0.45,4.5%,0.0%,56.8%,48.0%,21.1%,3/9,32.9%,28.9%,15.8%,18.8%,36.4%,1/1,82,2,0,44,25,19,6,0:53
 4-Jul-2022,Porto CH,3,Hard,QF,144,179,0,6,,Altug Celikbilek,Egor Gerasimov,7-5 6-4,1.01,8.1%,4.8%,58.1%,75.0%,57.7%,0/2,47.9%,32.5%,6.3%,25.5%,42.4%,0/6,142,5,3,62,36,26,5,1:31
 4-Jul-2022,Porto CH,3,Hard,R16,144,252,1,6,,Egor Gerasimov,Evgeny Donskoy,6-3 6-7(7) 6-2,1.42,8.6%,2.2%,65.6%,88.5%,37.5%,3/4,55.4%,41.2%,4.9%,21.4%,65.2%,4/13,195,8,2,93,61,32,5,2:13
 4-Jul-2022,Porto CH,3,Hard,R32,144,332,1,6,Q,Egor Gerasimov,Gabriel Decamps,6-7(3) 6-4 6-1,1.23,10.2%,3.4%,71.6%,76.2%,56.0%,2/2,53.1%,36.3%,3.3%,30.9%,44.4%,4/9,179,9,3,88,63,25,3,2:02
-23-May-2022,Roland Garros,5,Clay,Q2,145,185,0,,,Zsombor Piros,Egor Gerasimov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,145,161,1,,,Egor Gerasimov,Nikola Milojevic,7-5 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,145,185,0,,,Zsombor Piros,Egor Gerasimov,6-4 6-4,0.71,9.5%,4.1%,71.6%,67.9%,38.1%,9/11,45.9%,28.8%,10.2%,21.6%,40.9%,0/0,133,7,3,74,53,21,6,
+23-May-2022,Roland Garros,5,Clay,Q1,145,161,1,,,Egor Gerasimov,Nikola Milojevic,7-5 2-6 6-2,1.03,7.1%,9.5%,58.3%,65.3%,42.9%,4/9,50.6%,45.2%,4.8%,25.6%,65.9%,6/10,168,6,8,84,49,35,4,
 9-May-2022,Heilbronn CH,3,Clay,R32,147,144,0,,8,Andrej Martin,Egor Gerasimov,6-4 7-5,0.84,2.4%,4.9%,56.1%,63.0%,36.1%,4/9,46.3%,41.0%,1.3%,37.5%,50.0%,3/7,160,2,4,82,46,36,1,1:42
 2-May-2022,Mauthausen CH,3,Clay,R32,144,310,0,9,Q,Lucas Miedler,Egor Gerasimov,7-5 6-4,0.80,2.9%,4.8%,53.8%,66.1%,39.6%,11/15,46.7%,36.8%,2.6%,28.9%,48.4%,2/7,180,3,5,104,56,48,2,2:01
 25-Apr-2022,Munich,3,Clay,R16,150,40,0,Q,8,Botic Van De Zandschulp,Egor Gerasimov,6-2 6-3,0.43,0.0%,2.0%,66.7%,55.9%,52.9%,2/6,39.1%,19.5%,4.9%,14.3%,30.8%,0/1,92,0,1,51,34,17,2,1:08

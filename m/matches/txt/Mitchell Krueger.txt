@@ -1,4 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Jan-2023,Canberra CH,3,Hard,R32,214,334,0,Q,WC,Marc Polmans,Mitchell Krueger,6-3 6-4,0.53,5.0%,0.0%,63.3%,57.9%,59.1%,7/9,41.2%,22.2%,16.7%,20.5%,26.7%,0/6,114,3,0,60,38,22,9,1:30
 1-Jan-2023,Canberra CH,3,Hard,Q2,214,193,1,,12,Mitchell Krueger,Sebastian Ofner,3-6 7-6(5) 6-4,0.97,6.7%,2.9%,62.9%,72.7%,53.8%,4/6,49.3%,33.3%,17.6%,25.9%,40.7%,2/8,213,7,3,105,66,39,19,2:31
 1-Jan-2023,Canberra CH,3,Hard,Q1,214,172,1,,4,Mitchell Krueger,Henri Laaksonen,7-5 3-6 6-3,1.00,8.9%,0.0%,72.2%,67.7%,64.0%,5/7,50.6%,33.3%,13.1%,17.8%,51.3%,3/7,174,8,0,90,65,25,11,2:04
 7-Nov-2022,Knoxville CH,3,Hard,R16,197,128,0,,4,Ben Shelton,Mitchell Krueger,6-2 6-1,0.58,7.8%,3.9%,64.7%,51.5%,38.9%,2/6,38.8%,30.8%,9.6%,28.1%,35.0%,0/2,103,4,2,51,33,18,5,1:11
@@ -27,7 +28,7 @@
 11-Jul-2022,Newport,3,Grass,Q1,146,372,1,3,,Mitchell Krueger,Evan Zhu,3-6 6-4 6-1,1.15,2.0%,2.0%,55.6%,67.3%,47.7%,8/11,53.4%,47.8%,7.6%,41.2%,56.1%,5/10,191,2,2,99,55,44,7,2:09
 27-Jun-2022,Wimbledon,5,Grass,Q2,148,198,0,27,,Salvatore Caruso,Mitchell Krueger,7-6(2) 6-3,0.69,4.2%,2.8%,57.7%,65.9%,46.7%,7/10,44.1%,29.2%,4.6%,26.8%,33.3%,2/6,136,3,2,71,41,30,3,1:44
 27-Jun-2022,Wimbledon,5,Grass,Q1,148,,1,27,,Mitchell Krueger,Luca Pow,6-1 6-4,2.78,11.6%,0.0%,74.4%,87.5%,72.7%,0/0,64.7%,45.2%,0.0%,33.3%,57.1%,3/3,85,5,0,43,32,11,0,0:51
-23-May-2022,Roland Garros,5,Clay,Q1,144,188,0,32,,Timofey Skatov,Mitchell Krueger,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,144,188,0,32,,Timofey Skatov,Mitchell Krueger,6-1 6-0,0.46,0.0%,13.9%,55.6%,55.0%,12.5%,1/6,32.5%,29.3%,2.4%,27.6%,33.3%,0/2,77,0,5,36,20,16,1,
 9-May-2022,Heilbronn CH,3,Clay,R32,146,95,0,,2,Facundo Bagnis,Mitchell Krueger,6-2 6-4,0.75,1.8%,8.8%,59.6%,50.0%,43.5%,4/9,43.5%,39.7%,6.9%,32.3%,48.1%,2/5,115,1,5,57,34,23,4,1:26
 18-Apr-2022,Tallahassee CH,3,Clay,R16,146,327,0,7,,Christian Harrison,Mitchell Krueger,6-4 0-0 RET,0.83,0.0%,10.3%,62.1%,66.7%,45.5%,2/4,46.6%,34.5%,10.3%,31.8%,42.9%,1/1,58,0,3,29,18,11,3,0:42
 18-Apr-2022,Tallahassee CH,3,Clay,R32,146,240,1,7,,Mitchell Krueger,Nicolas Moreno De Alboran,7-5 6-4,1.17,2.9%,2.9%,70.6%,77.1%,50.0%,7/8,53.5%,36.1%,1.6%,31.3%,41.4%,3/4,129,2,2,68,48,20,1,1:39
@@ -110,8 +111,6 @@
 15-Feb-2021,M25 Naples FL,3,Clay,R16,195,376,1,1,,Mitchell Krueger,Stefan Kozlov,6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
 15-Feb-2021,M25 Naples FL,3,Clay,R32,195,1291,1,1,Q,Mitchell Krueger,Kiranpal Pannu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q2,190,181,0,,,Roman Safiullin,Mitchell Krueger,6-1 6-4,0.63,2.0%,0.0%,62.0%,54.8%,52.6%,2/5,41.0%,29.1%,7.3%,11.4%,60.0%,0/1,105,1,0,50,31,19,4,1:23
-10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q2,190,181,0,,,Roman Safiullin,Mitchell Krueger,6-1 6-4,0.63,2.0%,0.0%,62.0%,54.8%,52.6%,2/5,41.0%,29.1%,7.3%,11.4%,60.0%,0/1,105,1,0,50,31,19,4,1:23
-10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,190,211,1,,,Mitchell Krueger,Enzo Couacaud,3-6 6-2 6-2,1.06,1.2%,1.2%,65.9%,63.0%,53.6%,3/6,52.0%,42.9%,12.9%,34.9%,55.6%,5/9,152,1,1,82,54,28,9,1:56
 10-Jan-2021,Doha Aus Open Qualies,3,Hard,Q1,190,211,1,,,Mitchell Krueger,Enzo Couacaud,3-6 6-2 6-2,1.06,1.2%,1.2%,65.9%,63.0%,53.6%,3/6,52.0%,42.9%,12.9%,34.9%,55.6%,5/9,152,1,1,82,54,28,9,1:56
 16-Nov-2020,Orlando CH,3,Hard,SF,199,202,0,,,Brandon Nakashima,Mitchell Krueger,6-1 6-3,0.53,0.0%,6.3%,60.4%,51.7%,36.8%,3/8,37.6%,28.9%,4.4%,24.1%,37.5%,1/2,93,0,3,48,29,19,2,1:04
 16-Nov-2020,Orlando CH,3,Hard,QF,199,302,1,,Q,Mitchell Krueger,Alexander Ritschard,6-4 6-7(5) 6-1,1.38,6.3%,4.2%,68.4%,69.2%,56.7%,2/5,56.5%,47.9%,2.1%,40.4%,55.1%,6/17,191,6,4,95,65,30,2,2:34

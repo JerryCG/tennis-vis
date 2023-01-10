@@ -1,6 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Jan-2023,Oeiras CH,3,Hard,Q2,379,341,0,8,4,Joris De Loore,Edan Leshem,6-2 6-3,0.63,1.4%,7.0%,60.6%,62.8%,35.7%,12/16,42.5%,30.4%,12.5%,22.5%,50.0%,0/4,127,1,5,71,43,28,7,1:29
-1-Jan-2023,Oeiras CH,3,Hard,Q1,379,850,1,8,WC,Edan Leshem,Henrique Rocha,0-6 7-5 6-2,1.01,1.9%,6.8%,57.3%,69.5%,40.9%,7/11,50.2%,43.1%,2.9%,33.3%,55.6%,4/14,205,2,7,103,59,44,3,2:31
+8-Jan-2023,Oeiras CH,3,Hard,Q1,355,331,0,,6,Rudolf Molleker,Edan Leshem,6-4 6-7(4) 7-6(7),0.94,1.6%,1.6%,64.8%,69.6%,51.2%,5/9,48.8%,34.7%,16.1%,24.7%,49.0%,3/11,246,2,2,122,79,43,20,2:54
+2-Jan-2023,Oeiras 1 CH,3,Hard,QF,379,280,0,LL,8,Raphael Collignon,Edan Leshem,6-4 7-5,0.75,0.0%,1.4%,47.9%,57.1%,50.0%,5/10,45.4%,35.1%,10.5%,30.2%,50.0%,3/4,130,0,1,73,35,38,6,1:41
+2-Jan-2023,Oeiras 1 CH,3,Hard,R16,379,240,1,LL,2,Edan Leshem,Jay Clarke,3-6 6-3 6-2,1.16,4.1%,1.0%,70.4%,71.0%,41.4%,7/9,53.4%,44.0%,5.5%,38.3%,50.0%,4/8,189,4,1,98,69,29,5,2:26
+2-Jan-2023,Oeiras 1 CH,3,Hard,R32,379,336,1,LL,Q,Edan Leshem,Alibek Kachmazov,6-4 6-4,1.47,1.8%,3.6%,76.8%,79.1%,61.5%,0/0,55.2%,36.7%,6.7%,35.3%,38.5%,2/5,116,1,2,56,43,13,4,1:19
+2-Jan-2023,Oeiras 1 CH,3,Hard,Q2,379,341,0,8,4,Joris De Loore,Edan Leshem,6-2 6-3,0.63,1.4%,7.0%,60.6%,62.8%,35.7%,12/16,42.5%,30.4%,12.5%,22.5%,50.0%,0/4,127,1,5,71,43,28,7,1:29
+2-Jan-2023,Oeiras 1 CH,3,Hard,Q1,379,850,1,8,WC,Edan Leshem,Henrique Rocha,0-6 7-5 6-2,1.01,1.9%,6.8%,57.3%,69.5%,40.9%,7/11,50.2%,43.1%,2.9%,33.3%,55.6%,4/14,205,2,7,103,59,44,3,2:31
 14-Nov-2022,Drummondville CH,3,Hard,R32,374,589,0,,WC,Justin Boulais,Edan Leshem,7-6(3) 6-3,0.59,1.4%,0.0%,62.5%,66.7%,48.1%,4/7,44.1%,23.6%,9.1%,14.8%,32.1%,1/2,127,1,0,72,45,27,5,1:26
 7-Nov-2022,Calgary CH,3,Hard,R32,363,512,0,,Q,Alfredo Perez,Edan Leshem,6-4 6-4,0.63,4.8%,4.8%,61.3%,76.3%,33.3%,2/5,43.0%,25.4%,15.3%,12.5%,52.6%,1/4,121,3,3,62,38,24,9,1:19
 31-Oct-2022,Charlottesville CH,3,Hard,R16,389,195,0,Q,,Juncheng Shang,Edan Leshem,1-6 6-3 6-2,1.03,10.3%,2.9%,47.1%,75.0%,44.4%,6/10,49.4%,42.2%,0.0%,36.5%,55.6%,3/8,158,7,2,68,32,36,0,2:02
@@ -43,6 +47,8 @@
 20-Jun-2022,M15 Raanana,3,Hard,QF,560,1279,1,1,,Edan Leshem,Brandon Murphy,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M15 Raanana,3,Hard,R16,560,,1,1,Q,Edan Leshem,Robin Catry,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M15 Raanana,3,Hard,R32,560,1084,1,1,,Edan Leshem,Alec Beckley,6-1 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Raanana,3,Hard,F,545,740,0,1,6,Robert Strombachs,Edan Leshem,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Raanana,3,Hard,SF,545,656,1,1,3,Edan Leshem,Giles Hussey,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Raanana,3,Hard,QF,545,792,1,1,7,Edan Leshem,Nicolas Tepmahc,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Raanana,3,Hard,R16,545,1169,1,1,,Edan Leshem,Orel Kimhi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Raanana,3,Hard,R32,545,1331,1,1,WC,Edan Leshem,Jordan Hasson,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
