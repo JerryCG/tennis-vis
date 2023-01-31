@@ -1,4 +1,4 @@
-Source,Target,Value
+﻿Source,Target,Value
 Roland Garros,Adriano Panatta,1
 Roland Garros,Albert Costa,1
 Wimbledon,Alejandro Olmedo,1
@@ -34,6 +34,9 @@ US Open,Frank Arthur Sedgman,2
 Australian Open,Frank Arthur Sedgman,2
 US Open,Frank Parker,2
 Roland Garros,Frank Parker,2
+Wimbledon,Frank Sedgman,1
+US Open,Frank Sedgman,2
+Australian Open,Frank Sedgman,2
 US Open,Fred Stolle,1
 Roland Garros,Fred Stolle,1
 Roland Garros,Gaston Gaudio,1
@@ -94,7 +97,7 @@ US Open,Neale Fraser,2
 Roland Garros,Nicola Pietrangeli,2
 Wimbledon,Novak Djokovic,7
 US Open,Novak Djokovic,3
-Australian Open,Novak Djokovic,9
+Australian Open,Novak Djokovic,10
 Roland Garros,Novak Djokovic,2
 Wimbledon,Pat Cash,1
 US Open,Patrick Rafter,2
