@@ -1,4 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+12-Feb-2023,Manama CH,3,Hard,Q1,,1095,0,Alt,Alt,Kaito Uesugi,Roman Jebavy,6-4 6-1,0.82,2.0%,8.0%,52.0%,53.8%,33.3%,4/10,45.0%,45.9%,1.6%,39.5%,56.5%,3/9,111,1,4,50,26,24,1,1:03
 3-Jun-2019,Prostejov CH,3,Clay,R64,,346,0,Q,,Vaclav Safranek,Roman Jebavy,6-1 3-6 6-4,0.81,0.0%,6.2%,57.7%,60.7%,39.0%,11/17,45.7%,39.3%,7.9%,30.0%,51.3%,4/10,186,0,6,97,56,41,7,1:48
 4-Jun-2018,Prostejov CH,3,Clay,Q1,,997,0,WC,WC,Tomas Liska,Roman Jebavy,6-3 5-7 6-4,0.92,2.6%,6.1%,60.0%,58.0%,41.3%,13/20,48.4%,45.0%,5.0%,31.7%,65.0%,6/15,215,3,7,115,69,46,5,2:04
 26-Jun-2017,Antalya,3,Grass,Q1,897,263,0,Alt,4,Alexey Vatutin,Roman Jebavy,6-4 6-3,0.78,4.5%,13.6%,63.6%,61.9%,33.3%,8/13,45.2%,37.9%,3.4%,25.7%,56.5%,2/5,124,3,9,66,42,24,2,1:07
@@ -10,7 +11,7 @@
 8-Aug-2016,Trnava CH,3,Clay,R16,1927,285,0,Q,,Marek Michalicka,Roman Jebavy,5-7 6-2 6-2,0.76,1.0%,3.1%,64.3%,52.4%,42.9%,6/13,44.2%,38.6%,1.2%,33.9%,48.1%,4/7,181,1,3,98,63,35,1,1:59
 8-Aug-2016,Trnava CH,3,Clay,R32,1927,,1,Q,WC,Roman Jebavy,Dominik Sproch,6-3 6-1,1.52,0.0%,1.9%,74.1%,62.5%,35.7%,3/6,61.2%,67.3%,2.0%,57.9%,73.3%,7/12,103,0,1,54,40,14,1,1:01
 8-Aug-2016,Trnava CH,3,Clay,Q3,1927,662,1,,,Roman Jebavy,Danylo Kalenichenko,6-3 7-6(4),1.12,2.5%,1.3%,60.8%,58.3%,80.6%,6/7,53.5%,36.9%,3.1%,28.9%,48.1%,2/3,144,2,1,79,48,31,2,1:36
-8-Aug-2016,Trnava CH,3,Clay,Q2,1927,370,1,,4,Roman Jebavy,Pedro Martinez Portero,5-7 6-4 6-3,1.03,1.8%,3.6%,63.1%,51.4%,56.1%,12/18,51.0%,48.4%,1.1%,48.1%,48.7%,7/12,202,2,4,111,70,41,1,2:31
+8-Aug-2016,Trnava CH,3,Clay,Q2,1927,370,1,,4,Roman Jebavy,Pedro Martinez,5-7 6-4 6-3,1.03,1.8%,3.6%,63.1%,51.4%,56.1%,12/18,51.0%,48.4%,1.1%,48.1%,48.7%,7/12,202,2,4,111,70,41,1,2:31
 8-Aug-2016,Trnava CH,3,Clay,Q1,1927,,1,,,Roman Jebavy,Tomasz Bednarek,6-3 6-1,1.74,2.3%,9.3%,44.2%,68.4%,66.7%,0/1,61.8%,56.5%,6.5%,31.6%,74.1%,5/5,89,1,4,43,19,24,3,0:48
 11-Jul-2016,Czech Republic F6,3,Clay,R16,,1128,0,PR,WC,Pavel Nejedly,Roman Jebavy,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 11-Jul-2016,Czech Republic F6,3,Clay,R32,,689,1,PR,,Roman Jebavy,Vadym Ursu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -69,8 +70,8 @@
 12-May-2014,Czech Republic F1,3,Clay,QF,349,620,0,3,,Andriej Kapas,Roman Jebavy,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 12-May-2014,Czech Republic F1,3,Clay,R16,349,1020,1,3,Q,Roman Jebavy,Bastian Wagner,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 12-May-2014,Czech Republic F1,3,Clay,R32,349,612,1,3,,Roman Jebavy,Jan Blecha,5-2 RET,,,,,,,,,,,,,,,,,,,,,
-21-Apr-2014,Bucharest Q,3,Clay,Q2,346,242,0,,,Henri Laaksonen,Roman Jebavy,7-6(1) 6-2,0.81,3.0%,4.5%,67.2%,66.7%,45.5%,6/8,45.1%,32.5%,5.2%,23.9%,45.2%,0/4,144,2,3,67,45,22,4,1:30
-21-Apr-2014,Bucharest Q,3,Clay,Q1,346,356,1,,,Roman Jebavy,Maxim Dubarenco,6-1 6-2,1.70,4.3%,0.0%,69.6%,68.8%,64.3%,2/3,61.0%,55.6%,5.6%,44.4%,77.8%,5/8,100,2,0,46,32,14,3,1:12
+21-Apr-2014,Bucharest,3,Clay,Q2,346,242,0,,,Henri Laaksonen,Roman Jebavy,7-6(1) 6-2,0.81,3.0%,4.5%,67.2%,66.7%,45.5%,6/8,45.1%,32.5%,5.2%,23.9%,45.2%,0/4,144,2,3,67,45,22,4,1:30
+21-Apr-2014,Bucharest,3,Clay,Q1,346,356,1,,,Roman Jebavy,Maxim Dubarenco,6-1 6-2,1.70,4.3%,0.0%,69.6%,68.8%,64.3%,2/3,61.0%,55.6%,5.6%,44.4%,77.8%,5/8,100,2,0,46,32,14,3,1:12
 31-Mar-2014,Turkey F10,3,Hard,SF,354,348,0,2,5,Karol Beck,Roman Jebavy,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 31-Mar-2014,Turkey F10,3,Hard,QF,354,609,1,2,8,Roman Jebavy,Ricardo Ojeda Lara,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 31-Mar-2014,Turkey F10,3,Hard,R16,354,1009,1,2,Q,Roman Jebavy,Jathan Malik,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -101,8 +102,8 @@
 28-Oct-2013,Greece F17,3,Hard,R16,316,816,1,2,,Roman Jebavy,Peter Heller,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 28-Oct-2013,Greece F17,3,Hard,R32,316,837,1,2,,Roman Jebavy,Abdullah Maqdas,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Oct-2013,Greece F16,3,Hard,R32,304,629,0,1,,Torsten Wietoska,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-14-Oct-2013,Moscow Q,3,Hard,Q2,300,163,0,,5,Konstantin Kravchuk,Roman Jebavy,7-5 3-6 6-2,0.90,4.3%,6.5%,56.5%,63.5%,45.0%,3/9,48.0%,40.2%,9.2%,19.6%,63.4%,4/7,179,4,6,92,52,40,8,1:52
-14-Oct-2013,Moscow Q,3,Hard,Q1,300,1396,1,,,Roman Jebavy,Neal Skupski,1-6 6-4 6-3,1.13,5.9%,4.4%,66.2%,77.8%,56.5%,2/4,51.4%,33.3%,11.1%,26.1%,46.2%,2/2,140,4,3,68,45,23,8,1:27
+14-Oct-2013,Moscow,3,Hard,Q2,300,163,0,,5,Konstantin Kravchuk,Roman Jebavy,7-5 3-6 6-2,0.90,4.3%,6.5%,56.5%,63.5%,45.0%,3/9,48.0%,40.2%,9.2%,19.6%,63.4%,4/7,179,4,6,92,52,40,8,1:52
+14-Oct-2013,Moscow,3,Hard,Q1,300,1396,1,,,Roman Jebavy,Neal Skupski,1-6 6-4 6-3,1.13,5.9%,4.4%,66.2%,77.8%,56.5%,2/4,51.4%,33.3%,11.1%,26.1%,46.2%,2/2,140,4,3,68,45,23,8,1:27
 7-Oct-2013,Tashkent CH,3,Hard,R32,299,87,0,,3,Dudi Sela,Roman Jebavy,7-5 6-3,0.71,3.9%,5.3%,56.6%,62.8%,45.5%,7/11,45.1%,31.6%,3.5%,27.0%,40.0%,1/4,133,3,4,76,43,33,2,1:19
 23-Sep-2013,Fergana CH,3,Hard,R16,311,249,0,,7,Mohamed Safwat,Roman Jebavy,7-6(5) 6-3,0.80,6.0%,6.0%,70.1%,70.2%,45.0%,4/6,46.3%,29.9%,7.5%,20.5%,47.8%,1/4,134,4,4,67,47,20,5,1:11
 23-Sep-2013,Fergana CH,3,Hard,R32,311,,1,,Q,Roman Jebavy,Batyr Sapaev,6-2 6-1,1.75,8.9%,6.7%,60.0%,77.8%,55.6%,3/3,61.5%,54.3%,2.2%,42.3%,70.0%,5/5,91,4,3,45,27,18,1,0:47
@@ -133,7 +134,7 @@
 24-Jun-2013,Bulgaria F5,3,Clay,QF,415,652,1,1,8,Roman Jebavy,Tihomir Grozdanov,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2013,Bulgaria F5,3,Clay,R16,415,1052,1,1,,Roman Jebavy,Ronald Slobodchikov,6-7(5) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2013,Bulgaria F5,3,Clay,R32,415,846,1,1,,Roman Jebavy,Valentin Dimov,7-6(4) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2013,Bulgaria F4,3,Clay,R16,426,,0,1,,Valentin Dimov,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Bulgaria F4,3,Clay,R16,426,837,0,1,,Valentin Dimov,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2013,Bulgaria F4,3,Clay,R32,426,1052,1,1,,Roman Jebavy,Ronald Slobodchikov,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2013,Bosnia & Herzegovina F3,3,Clay,SF,446,757,0,1,8,Josko Topic,Roman Jebavy,7-6(3) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2013,Bosnia & Herzegovina F3,3,Clay,QF,446,595,1,1,6,Roman Jebavy,Pedja Krstin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -286,9 +287,9 @@
 9-May-2011,Czech Republic F1,3,Clay,R32,519,1350,1,,WC,Roman Jebavy,Libor Salaba,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Apr-2011,Turkey F15,3,Hard,R32,525,826,0,6,,Enrique Lopez Perez,Roman Jebavy,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Apr-2011,Turkey F14,3,Hard,R32,529,329,0,,3,Arnau Brugues Davi,Roman Jebavy,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Apr-2011,Turkey F13,3,Hard,R16,527,350,0,,3,Miloslav Mecir,Roman Jebavy,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2011,Turkey F13,3,Hard,R16,527,350,0,,3,Miloslav Mecir Jr,Roman Jebavy,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2011,Turkey F13,3,Hard,R32,527,,1,,WC,Roman Jebavy,Cahit Kapukiran,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-4-Apr-2011,Turkey F12,3,Hard,R32,521,349,0,,2,Miloslav Mecir,Roman Jebavy,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Apr-2011,Turkey F12,3,Hard,R32,521,349,0,,2,Miloslav Mecir Jr,Roman Jebavy,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Mar-2011,Turkey F8,3,Hard,R32,497,721,0,,Q,Adrian Sikora,Roman Jebavy,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2011,Turkey F7,3,Hard,R16,516,493,0,,7,Radu Albot,Roman Jebavy,2-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2011,Turkey F7,3,Hard,R32,516,879,1,,Q,Roman Jebavy,Jiri Kosler,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -329,8 +330,8 @@
 5-Jul-2010,Germany F8,3,Clay,QF,493,721,1,4,,Roman Jebavy,Michal Pazicky,7-6(5) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jul-2010,Germany F8,3,Clay,R16,493,956,1,4,,Roman Jebavy,David Sodek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jul-2010,Germany F8,3,Clay,R32,493,848,1,4,,Roman Jebavy,Sascha Heinemann,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Jun-2010,Germany F7,3,Clay,R16,,,0,,Q,Tim Puetz,Roman Jebavy,3-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-28-Jun-2010,Germany F7,3,Clay,R32,,,1,,Q,Roman Jebavy,Alexander Bury,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Germany F7,3,Clay,R16,546,,0,,Q,Tim Puetz,Roman Jebavy,3-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Jun-2010,Germany F7,3,Clay,R32,546,772,1,,Q,Roman Jebavy,Alexander Bury,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Jun-2010,Germany F6,3,Clay,F,546,374,0,7,3,James Lemke,Roman Jebavy,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Jun-2010,Germany F6,3,Clay,SF,546,402,1,7,5,Roman Jebavy,Adam Kellner,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Jun-2010,Germany F6,3,Clay,QF,546,573,1,7,,Roman Jebavy,Hans Podlipnik Castillo,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -339,7 +340,7 @@
 14-Jun-2010,Germany F5,3,Clay,QF,544,372,0,8,3,Dennis Bloemke,Roman Jebavy,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Jun-2010,Germany F5,3,Clay,R16,544,903,1,8,Q,Roman Jebavy,Jiri Kosler,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Jun-2010,Germany F5,3,Clay,R32,544,,1,8,WC,Roman Jebavy,Andreas Mies,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-31-May-2010,Poland F3,3,Clay,R32,,,0,7,,Adam Chadaj,Roman Jebavy,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Poland F3,3,Clay,R32,578,707,0,7,,Adam Chadaj,Roman Jebavy,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 17-May-2010,Czech Republic F3,3,Clay,SF,557,437,0,8,5,Jaroslav Pospisil,Roman Jebavy,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 17-May-2010,Czech Republic F3,3,Clay,QF,557,382,1,8,3,Roman Jebavy,Adam Kellner,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 17-May-2010,Czech Republic F3,3,Clay,R16,557,714,1,8,,Roman Jebavy,Nikolai Fidirko,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -347,19 +348,19 @@
 10-May-2010,Czech Republic F2,3,Clay,R32,547,1467,0,,Q,Marc Rath,Roman Jebavy,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 3-May-2010,Czech Republic F1,3,Clay,R16,547,383,0,,3,Andrey Kumantsov,Roman Jebavy,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 3-May-2010,Czech Republic F1,3,Clay,R32,547,1474,1,,Q,Roman Jebavy,Jan Hradsky,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Mar-2010,India F3,3,Hard,QF,,,0,6,4,Rohan Gajjar,Roman Jebavy,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Mar-2010,India F3,3,Hard,R16,,1476,1,6,Q,Roman Jebavy,Sebastian Lavie,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
-29-Mar-2010,India F3,3,Hard,R32,,1453,1,6,WC,Roman Jebavy,Vikram Reddy B,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,India F3,3,Hard,QF,594,450,0,6,4,Rohan Gajjar,Roman Jebavy,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,India F3,3,Hard,R16,594,1476,1,6,Q,Roman Jebavy,Sebastian Lavie,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,India F3,3,Hard,R32,594,1453,1,6,WC,Roman Jebavy,Vikram Reddy B,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Mar-2010,India F2,3,Hard,R16,594,914,0,4,,Ruben Gonzales,Roman Jebavy,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Mar-2010,India F2,3,Hard,R32,594,772,1,4,,Roman Jebavy,Divij Sharan,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Mar-2010,India F1,3,Hard,SF,,,0,5,8,Nathan Thompson,Roman Jebavy,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-15-Mar-2010,India F1,3,Hard,QF,,,1,5,Q,Roman Jebavy,Chris Kwon,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-15-Mar-2010,India F1,3,Hard,R16,,,1,5,,Roman Jebavy,Christopher Racz,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Mar-2010,India F1,3,Hard,R32,,1197,1,5,WC,Roman Jebavy,Ronak Manuja,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,India F1,3,Hard,SF,595,673,0,5,8,Nathan Thompson,Roman Jebavy,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,India F1,3,Hard,QF,595,,1,5,Q,Roman Jebavy,Chris Kwon,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,India F1,3,Hard,R16,595,922,1,5,,Roman Jebavy,Christopher Racz,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2010,India F1,3,Hard,R32,595,1197,1,5,WC,Roman Jebavy,Ronak Manuja,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Feb-2010,Bosnia & Herzegovina F1,3,Carpet,R32,583,953,0,,Q,Max Raditschnigg,Roman Jebavy,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Feb-2010,Germany F4,3,Carpet,R32,593,1412,0,,Q,Florent Walter,Roman Jebavy,6-1 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
-25-Jan-2010,Germany F3,3,Carpet,R16,,,0,Q,3,Jesse Huta Galung,Roman Jebavy,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Jan-2010,Germany F3,3,Carpet,R32,,,1,Q,,Roman Jebavy,Andrei Mlendea,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,Germany F3,3,Carpet,R16,591,274,0,Q,3,Jesse Huta Galung,Roman Jebavy,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,Germany F3,3,Carpet,R32,591,446,1,Q,,Roman Jebavy,Andrei Mlendea,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Nov-2009,Czech Rep F5,3,Carpet,R32,633,916,0,,Q,Karel Triska,Roman Jebavy,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Nov-2009,Czech Rep F4,3,Carpet,SF,635,700,0,,,Dawid Olejniczak,Roman Jebavy,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Nov-2009,Czech Rep F4,3,Carpet,QF,635,801,1,,,Roman Jebavy,Matthew Illingworth,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -387,7 +388,7 @@
 6-Jul-2009,Germany F9,3,Clay,QF,587,710,1,6,,Roman Jebavy,Oscar Sabate Bretos,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Jul-2009,Germany F9,3,Clay,R16,587,1326,1,6,Q,Roman Jebavy,Julian Gast,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Jul-2009,Germany F9,3,Clay,R32,587,796,1,6,,Roman Jebavy,Mateusz Kowalczyk,4-6 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jun-2009,Italy F17,3,Clay,R32,,,0,,6,Francesco Aldi,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,Italy F17,3,Clay,R32,537,406,0,,6,Francesco Aldi,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jun-2009,Germany F6,3,Clay,R32,544,451,0,,Q,Sebastian Rieschick,Roman Jebavy,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jun-2009,Slovenia F3,3,Clay,R32,541,687,0,5,,Marius Zay,Roman Jebavy,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 18-May-2009,Czech Rep F3,3,Clay,R16,537,619,0,2,,Roman Vogeli,Roman Jebavy,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -400,15 +401,15 @@
 4-May-2009,Czech Rep F1,3,Clay,R32,474,1513,1,3,WC,Roman Jebavy,Marko Danis,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 20-Apr-2009,Italy F7,3,Clay,R16,482,971,0,,Q,Jaan Frederik Brunken,Roman Jebavy,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 20-Apr-2009,Italy F7,3,Clay,R32,482,553,1,,,Roman Jebavy,Armin Sandbichler,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-30-Mar-2009,Turkey F3,3,Clay,R16,,,0,5,Q,Robin Roshardt,Roman Jebavy,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-30-Mar-2009,Turkey F3,3,Clay,R32,,1352,1,5,WC,Roman Jebavy,Ergun Zorlu,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R16,462,531,0,5,Q,Robin Roshardt,Roman Jebavy,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,Turkey F3,3,Clay,R32,462,1352,1,5,WC,Roman Jebavy,Ergun Zorlu,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 23-Mar-2009,Turkey F2,3,Clay,R32,462,994,0,7,Q,Gleb Alekseenko,Roman Jebavy,6-0 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-16-Mar-2009,Turkey F1,3,Clay,R32,,1351,0,8,Q,Morgan Phillips,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Turkey F1,3,Clay,R32,463,1351,0,8,Q,Morgan Phillips,Roman Jebavy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Feb-2009,Italy F2,3,Hard,QF,429,759,0,,Q,Yann Marti,Roman Jebavy,1-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Feb-2009,Italy F2,3,Hard,R16,429,474,1,,,Roman Jebavy,Fabrice Martin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Feb-2009,Italy F2,3,Hard,R32,429,340,1,,5,Roman Jebavy,Alexander Slabinsky,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 2-Feb-2009,Austria F3,3,Carpet,R32,427,531,0,3,,Bastian Knittel,Roman Jebavy,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2009,Austria F2,3,Carpet,R32,,1312,0,3,WC,Daniel Geib,Roman Jebavy,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Austria F2,3,Carpet,R32,428,1312,0,3,WC,Daniel Geib,Roman Jebavy,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2009,Germany F3,3,Carpet,R16,428,1166,0,5,Q,Bojan Szumanski,Roman Jebavy,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2009,Germany F3,3,Carpet,R32,428,659,1,5,,Roman Jebavy,Ante Nakic Alfirevic,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Jan-2009,Germany F2,3,Hard,R32,428,472,0,7,,Ludovic Walter,Roman Jebavy,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

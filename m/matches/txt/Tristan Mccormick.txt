@@ -1,7 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-6-Nov-2022,Knoxville CH,3,Hard,R32,,332,0,Q,,Ulises Blanch,Tristan Mccormick,6-3 3-6 7-5,0.83,20.0%,2.5%,61.3%,77.6%,64.5%,0/2,47.8%,22.8%,13.9%,10.0%,44.8%,1/4,159,16,2,80,49,31,11,1:46
-6-Nov-2022,Knoxville CH,3,Hard,Q2,,532,1,10,5,Tristan Mccormick,Donald Young,3-6 6-4 7-5,0.79,9.4%,7.7%,56.4%,69.7%,47.1%,8/11,48.2%,31.7%,8.5%,26.9%,53.3%,3/7,199,11,9,117,66,51,7,2:19
-6-Nov-2022,Knoxville CH,3,Hard,Q1,,,1,10,Alt,Tristan Mccormick,Anirudh Chandrasekar,6-2 6-2,2.83,15.4%,7.7%,56.4%,95.5%,64.7%,0/0,62.5%,50.8%,3.1%,43.6%,61.5%,4/9,104,6,3,39,22,17,2,1:10
+19-Feb-2023,Rome CH,3,Hard,Q1,,795,0,12,Alt,Pedro Rodenas,Tristan Mccormick,6-3 6-4,0.74,6.4%,6.4%,48.7%,73.7%,35.0%,4/8,45.1%,34.4%,3.1%,28.2%,44.0%,1/7,142,5,5,78,38,40,2,1:38
+6-Feb-2023,M15 Sharm ElSheikh,3,Hard,R32,,881,0,3,SE,Boris Butulija,Tristan Mccormick,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2023,M25 Sunderland,3,Hard,QF,,462,0,,,Martin Damm,Tristan Mccormick,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2023,M25 Sunderland,3,Hard,R16,,1507,1,,Q,Tristan Mccormick,George Houghton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2023,M25 Sunderland,3,Hard,R32,,536,1,,,Tristan Mccormick,Harry Wendelken,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Jan-2023,M25 Sheffield,3,Hard,R32,,357,0,Q,3,Daniel Cukierman,Tristan Mccormick,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Jan-2023,M25 Loughborough,3,Hard,R32,,397,0,,5,Mirza Basic,Tristan Mccormick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,Knoxville CH,3,Hard,R32,,332,0,Q,,Ulises Blanch,Tristan Mccormick,6-3 3-6 7-5,0.83,20.0%,2.5%,61.3%,77.6%,64.5%,0/2,47.8%,22.8%,13.9%,10.0%,44.8%,1/4,159,16,2,80,49,31,11,1:46
+7-Nov-2022,Knoxville CH,3,Hard,Q2,,532,1,10,5,Tristan Mccormick,Donald Young,3-6 6-4 7-5,0.79,9.4%,7.7%,56.4%,69.7%,47.1%,8/11,48.2%,31.7%,8.5%,26.9%,53.3%,3/7,199,11,9,117,66,51,7,2:19
+7-Nov-2022,Knoxville CH,3,Hard,Q1,,,1,10,Alt,Tristan Mccormick,Anirudh Chandrasekar,6-2 6-2,2.83,15.4%,7.7%,56.4%,95.5%,64.7%,0/0,62.5%,50.8%,3.1%,43.6%,61.5%,4/9,104,6,3,39,22,17,2,1:10
 31-Oct-2022,Charlottesville CH,3,Hard,Q1,,537,0,Alt,12,Donald Young,Tristan Mccormick,6-4 6-3,0.84,12.2%,6.1%,67.3%,69.7%,37.5%,2/5,44.3%,34.2%,0.0%,29.6%,47.4%,1/10,122,6,3,49,33,16,0,1:14
 24-Oct-2022,Las Vegas CH,3,Hard,Q1,,444,0,,5,Tennys Sandgren,Tristan Mccormick,6-1 7-6(7),0.65,6.2%,9.2%,46.2%,70.0%,60.0%,5/7,44.4%,23.0%,8.2%,17.2%,28.1%,0/1,126,4,6,65,30,35,5,1:31
 17-Oct-2022,Ambato CH,3,Clay,Q2,,1449,0,4,9,N Sriram Balaji,Tristan Mccormick,2-6 6-1 6-4,1.01,18.2%,6.1%,63.6%,61.9%,62.5%,0/3,47.9%,38.1%,5.2%,25.0%,59.5%,2/12,163,12,4,66,42,24,5,1:51
@@ -15,6 +22,7 @@
 12-Sep-2022,M15 Cancun,3,Hard,QF,,759,1,,7,Tristan Mccormick,Alexander Cozbinov,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 12-Sep-2022,M15 Cancun,3,Hard,R16,,,1,,Q,Tristan Mccormick,Tin Chen,6-4 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Sep-2022,M15 Cancun,3,Hard,R32,,720,1,,4,Tristan Mccormick,Fernando Yamacita,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Sep-2022,M15 Cancun,3,Hard,F,,825,0,4,5,Bernard Tomic,Tristan Mccormick,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2022,M15 Cancun,3,Hard,SF,,838,1,4,6,Tristan Mccormick,Nicolas Buitrago,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2022,M15 Cancun,3,Hard,QF,,840,1,4,7,Tristan Mccormick,Victor Lilov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2022,M15 Cancun,3,Hard,R16,,,1,4,Q,Tristan Mccormick,Victor Milare Alves,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
