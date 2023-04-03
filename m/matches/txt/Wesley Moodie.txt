@@ -1,5 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-2-Feb-2009,Johannesburg Q,3,Hard,Q2,907,1657,0,5,,Nicolaas Scholtz,Wesley Moodie,2-6 6-3 RET,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2009,Johannesburg,3,Hard,Q2,907,1657,0,5,,Nicolaas Scholtz,Wesley Moodie,2-6 6-3 RET,,,,,,,,,,,,,,,,,,,,,
 23-Jun-2008,Wimbledon Q,3,Grass,Q2,199,277,0,,,Hugo Armando,Wesley Moodie,2-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Jun-2008,Wimbledon Q,3,Grass,Q1,199,262,1,,,Wesley Moodie,Sebastien De Chaunac,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 25-May-2008,Roland Garros Q,3,Clay,Q1,192,226,0,,,Scoville Jenkins,Wesley Moodie,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -53,13 +53,11 @@
 5-Mar-2007,Indian Wells Masters,3,Hard,R128,142,109,1,Q,Q,Wesley Moodie,Lukas Dlouhy,7-5 6-3,1.49,15.0%,3.3%,73.3%,81.8%,68.8%,1/1,55.5%,32.2%,6.8%,32.4%,32.0%,2/6,119,9,2,60,44,16,4,1:02
 5-Mar-2007,Indian Wells Masters Q,3,Hard,Q2,142,173,1,24,,Wesley Moodie,George Bastl,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Mar-2007,Indian Wells Masters Q,3,Hard,Q1,142,1525,1,24,WC,Wesley Moodie,Alex Bartlett,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Feb-2007,Las Vegas,3,Hard,R32,142,804,0,Q,WC,Gustavo Kuerten,Wesley Moodie,6-4 7-5,0.63,6.7%,3.3%,66.7%,62.5%,55.0%,2/5,43.1%,25.0%,5.4%,12.9%,40.0%,1/1,116,4,2,60,40,20,3,1:11
 26-Feb-2007,Las Vegas Q,3,Hard,Q2,142,112,1,5,2,Wesley Moodie,Chris Guccione,7-5 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
 26-Feb-2007,Las Vegas Q,3,Hard,Q1,142,301,1,5,WC,Wesley Moodie,Ryan Sweeting,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 19-Feb-2007,Memphis Q,3,Hard,Q1,141,353,0,7,WC,Phillip King,Wesley Moodie,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2007,Australian Open Q,3,Hard,Q2,132,227,0,15,,Julio Silva,Wesley Moodie,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2007,Australian Open Q,3,Hard,Q1,132,324,1,15,,Wesley Moodie,Jamie Baker,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2007,Adelaide,3,Hard,R32,122,94,0,Q,,Igor Kunitsyn,Wesley Moodie,7-6(3) 3-6 6-1,0.75,19.8%,1.0%,71.3%,65.3%,48.3%,7/10,46.5%,29.8%,7.1%,22.4%,46.2%,2/6,185,20,1,101,72,29,6,1:58
 1-Jan-2007,Adelaide Q,3,Hard,Q2,122,237,1,1,,Wesley Moodie,Tobias Summerer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jan-2007,Adelaide Q,3,Hard,Q1,122,316,1,1,,Wesley Moodie,Ti Chen,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2006,Aachen CH,3,Carpet,R32,120,416,0,,Q,Philipp Petzschner,Wesley Moodie,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -111,6 +109,9 @@
 26-Sep-2005,Ho Chi Minh City,3,Carpet,R16,99,91,0,,,Rainer Schuettler,Wesley Moodie,7-6(10) 6-3,0.85,8.6%,2.9%,68.6%,75.0%,50.0%,0/3,47.8%,27.9%,1.5%,26.1%,31.8%,1/1,138,6,2,70,48,22,1,1:45
 26-Sep-2005,Ho Chi Minh City,3,Carpet,R32,99,90,1,,8,Wesley Moodie,Philipp Kohlschreiber,6-4 7-6(2),1.32,12.7%,1.6%,77.8%,85.7%,50.0%,0/0,53.1%,29.2%,9.2%,21.4%,43.5%,1/1,128,8,1,63,49,14,6,1:31
 29-Aug-2005,US Open,5,Hard,R128,110,23,0,Q,21,Fernando Gonzalez,Wesley Moodie,4-6 6-4 7-5 7-5,0.75,17.2%,6.0%,64.9%,69.0%,53.2%,3/7,46.6%,27.4%,11.1%,20.3%,39.5%,2/4,251,23,8,134,87,47,13,2:32
+29-Aug-2005,US Open,5,Hard,Q3,110,131,1,9,18,Wesley Moodie,Jean Rene Lisnard,6-7(1) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,Q2,110,159,1,9,,Wesley Moodie,Edouard Roger Vasselin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,Q1,110,237,1,9,,Wesley Moodie,Jeroen Masson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2005,Cincinnati Masters,3,Hard,R64,112,19,0,Q,,David Ferrer,Wesley Moodie,6-2 6-1,0.49,19.6%,2.2%,71.7%,51.5%,30.8%,2/7,36.8%,26.8%,0.0%,20.8%,35.3%,0/3,87,9,1,46,33,13,0,1:01
 1-Aug-2005,Washington,3,Hard,R16,113,42,0,,13,Paradorn Srichaphan,Wesley Moodie,6-3 7-6(1),0.70,20.5%,5.5%,68.5%,70.0%,47.8%,3/4,44.5%,26.0%,6.8%,28.3%,22.2%,0/4,146,15,4,73,50,23,5,1:31
 1-Aug-2005,Washington,3,Hard,R32,113,13,1,,3,Wesley Moodie,Tim Henman,7-6(4) 7-5,1.44,13.4%,3.0%,61.2%,80.5%,61.5%,0/1,53.5%,38.6%,3.4%,31.0%,53.3%,2/9,155,9,2,67,41,26,3,1:46
@@ -121,6 +122,9 @@
 4-Jul-2005,Newport,3,Grass,QF,129,135,1,,,Wesley Moodie,Michal Mertinak,6-4 6-3,1.02,15.9%,4.8%,76.2%,68.8%,60.0%,3/4,53.3%,34.1%,4.5%,35.7%,31.3%,3/4,107,10,3,63,48,15,2,1:15
 4-Jul-2005,Newport,3,Grass,R16,129,29,1,,1,Wesley Moodie,Taylor Dent,6-4 6-1,1.41,18.5%,5.6%,66.7%,69.4%,61.1%,1/1,55.8%,47.0%,9.1%,32.3%,60.0%,4/8,120,10,3,54,36,18,6,1:07
 4-Jul-2005,Newport,3,Grass,R32,129,153,1,,,Wesley Moodie,Jimmy Wang,6-4 6-4,1.67,18.0%,2.0%,82.0%,78.0%,55.6%,0/1,55.6%,43.4%,1.3%,43.9%,42.9%,3/8,126,9,1,50,41,9,1,1:15
+20-Jun-2005,Wimbledon,5,Grass,Q3,129,128,0,15,17,Novak Djokovic,Wesley Moodie,4-6 6-0 6-7(2) 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,Wimbledon,5,Grass,Q2,129,201,1,15,,Wesley Moodie,Juan Antonio Marin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,Wimbledon,5,Grass,Q1,129,260,1,15,,Wesley Moodie,Zbynek Mlynarik,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 30-May-2005,Surbiton CH,3,Grass,QF,122,142,0,8,,Daniele Bracciali,Wesley Moodie,7-6(7) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 30-May-2005,Surbiton CH,3,Grass,R16,122,167,1,8,,Wesley Moodie,Gilles Elseneer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 30-May-2005,Surbiton CH,3,Grass,R32,122,219,1,8,Q,Wesley Moodie,Aisam Ul Haq Qureshi,7-6(4) 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -140,6 +144,9 @@
 31-Jan-2005,Delray Beach,3,Hard,QF,137,81,1,,,Wesley Moodie,Peter Wessels,5-0 RET,-,62.5%,0.0%,87.5%,100.0%,100.0%,0/0,77.8%,68.4%,5.3%,69.2%,66.7%,3/3,27,5,0,8,7,1,1,0:12
 31-Jan-2005,Delray Beach,3,Hard,R16,137,56,1,,5,Wesley Moodie,Ricardo Mello,6-4 6-4,1.17,21.3%,1.6%,68.9%,73.8%,68.4%,2/2,53.4%,32.7%,9.1%,34.3%,30.0%,2/4,116,13,1,61,42,19,5,1:12
 31-Jan-2005,Delray Beach,3,Hard,R32,137,146,1,,,Wesley Moodie,Jeff Salzenstein,7-5 6-2,1.32,11.3%,1.6%,66.1%,75.6%,57.1%,1/1,55.5%,40.4%,5.3%,34.4%,48.0%,3/5,119,7,1,62,41,21,3,1:12
+17-Jan-2005,Australian Open,5,Hard,Q3,138,188,0,15,,Novak Djokovic,Wesley Moodie,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q2,138,196,1,15,,Wesley Moodie,Yuri Schukin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q1,138,951,1,15,WC,Wesley Moodie,Joel Kerley,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Jan-2005,Noumea CH,3,Hard,R32,137,428,0,2,,Julien Varlet,Wesley Moodie,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2004,Mauritius CH,3,Hard,R32,133,93,0,,7,Karol Kucera,Wesley Moodie,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Nov-2004,Reunion Island CH,3,Hard,QF,136,103,0,6,2,Lars Burgsmuller,Wesley Moodie,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -162,6 +169,7 @@
 27-Sep-2004,Grenoble CH,3,Hard,R32,175,40,1,,1,Wesley Moodie,Hicham Arazi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Sep-2004,Davis Cup G1 PO: RSA vs GRE,3,Hard,RR,173,258,1,,,Wesley Moodie,Konstantinos Economidis,6-3 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
 24-Sep-2004,Davis Cup G1 PO: RSA vs GRE,3,Hard,RR,173,624,1,,,Wesley Moodie,Alexandros Jakupovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,US Open,5,Hard,Q1,153,141,0,,26,Tomas Zib,Wesley Moodie,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Aug-2004,Cincinnati Masters,3,Hard,R64,135,58,0,Q,Q,Ivo Karlovic,Wesley Moodie,6-7(2) 7-6(7) 7-6(9),1.19,10.6%,3.5%,78.8%,87.6%,54.2%,3/4,50.9%,23.1%,28.9%,15.0%,39.0%,1/5,234,12,4,113,89,24,35,2:35
 19-Jul-2004,Indianapolis,3,Hard,R64,127,285,0,,WC,Rajeev Ram,Wesley Moodie,6-7(3) 6-3 7-6(5),0.86,17.4%,3.7%,66.1%,75.0%,59.5%,6/7,47.9%,25.9%,8.3%,14.0%,39.2%,0/5,217,19,4,109,72,37,9,2:20
 12-Jul-2004,Los Angeles,3,Hard,QF,143,107,0,,WC,Jeff Morrison,Wesley Moodie,6-3 6-4,0.73,14.0%,5.3%,64.9%,67.6%,35.0%,3/6,44.2%,32.1%,7.1%,16.1%,52.0%,1/3,113,8,3,57,37,20,4,1:07
@@ -186,8 +194,8 @@
 12-Apr-2004,Leon CH,3,Hard,R32,114,205,1,3,WC,Wesley Moodie,Miguel Gallardo Valles,7-6(5) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Apr-2004,Davis Cup G1 R2: RSA vs SVK,3,Grass,RR,114,69,0,,,Karol Kucera,Wesley Moodie,6-4 7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 9-Apr-2004,Davis Cup G1 R2: RSA vs SVK,3,Grass,RR,114,180,1,,,Wesley Moodie,Michal Mertinak,7-6(8) 7-6(3),,,,,,,,,,,,,,,,,,,,,
-15-Mar-2004,Boca Raton CH,3,Hard,R16,,,0,,6,Thomas Enqvist,Wesley Moodie,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Mar-2004,Boca Raton CH,3,Hard,R32,,,1,,Q,Wesley Moodie,Brian Baker,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Boca Raton CH,3,Hard,R16,101,64,0,,6,Thomas Enqvist,Wesley Moodie,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Boca Raton CH,3,Hard,R32,101,317,1,,Q,Wesley Moodie,Brian Baker,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Mar-2004,Indian Wells Masters,3,Hard,R128,101,61,0,,,Luis Horna,Wesley Moodie,6-2 7-6(4),0.70,3.4%,1.7%,70.7%,73.2%,58.8%,1/3,44.9%,21.7%,6.7%,18.4%,36.4%,0/1,118,2,1,58,41,17,4,1:11
 1-Mar-2004,Scottsdale,3,Hard,R16,101,27,0,,3,Robby Ginepri,Wesley Moodie,2-6 7-6(2) 6-4,1.16,13.8%,3.8%,76.3%,73.8%,47.4%,0/3,51.4%,37.6%,6.5%,30.2%,47.5%,4/7,173,11,3,80,61,19,6,1:38
 1-Mar-2004,Scottsdale,3,Hard,R32,101,65,1,,,Wesley Moodie,Antony Dupuis,6-7(6) 6-2 6-2,1.41,17.8%,3.3%,66.7%,78.3%,56.7%,4/5,55.7%,40.9%,7.5%,33.9%,51.4%,5/10,183,16,3,90,60,30,7,1:48
@@ -205,6 +213,9 @@
 8-Sep-2003,Costa Do Sauipe,3,Hard,R32,82,113,1,,,Wesley Moodie,Ivan Miranda,6-4 6-4,1.63,18.9%,1.9%,71.7%,78.9%,73.3%,1/1,56.4%,36.8%,1.8%,25.0%,57.1%,2/3,110,10,1,53,38,15,1,1:05
 25-Aug-2003,US Open,5,Hard,R64,95,7,0,Q,7,Carlos Moya,Wesley Moodie,6-2 7-6(6) 6-3,0.67,3.7%,4.7%,66.4%,64.8%,36.1%,6/11,43.1%,29.9%,7.2%,19.1%,40.0%,2/8,204,4,5,107,71,36,7,2:08
 25-Aug-2003,US Open,5,Hard,R128,95,87,1,Q,,Wesley Moodie,Albert Montanes,7-6(3) 6-2 6-2,2.58,15.3%,4.2%,56.9%,90.2%,74.2%,0/0,60.6%,43.0%,5.4%,30.6%,56.8%,4/10,165,11,3,72,41,31,5,1:32
+25-Aug-2003,US Open,5,Hard,Q3,95,240,1,1,,Wesley Moodie,Zack Fleishman,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q2,95,286,1,1,,Wesley Moodie,Jan Hajek,6-7(10) 7-6(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q1,95,287,1,1,,Wesley Moodie,Frantisek Cermak,6-3 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Aug-2003,Cincinnati Masters,3,Hard,R32,105,39,0,Q,,Mikhail Youzhny,Wesley Moodie,6-4 7-6(4),0.86,11.7%,5.2%,59.7%,60.9%,48.4%,6/10,47.3%,38.0%,5.6%,34.3%,41.7%,3/4,148,9,4,77,46,31,4,1:33
 11-Aug-2003,Cincinnati Masters,3,Hard,R64,105,9,1,Q,10,Wesley Moodie,Sebastien Grosjean,6-3 6-7(9) 6-3,1.46,19.2%,4.0%,72.7%,79.2%,66.7%,1/1,54.5%,35.5%,5.5%,30.4%,43.9%,2/6,209,19,4,99,72,27,6,2:11
 28-Jul-2003,Washington,3,Hard,R64,110,102,0,,,Cyril Saulnier,Wesley Moodie,7-6(1) 4-6 7-5,0.98,16.9%,3.4%,75.3%,82.1%,63.6%,1/2,49.4%,22.0%,12.1%,14.8%,32.4%,1/2,180,15,3,89,67,22,11,1:46
@@ -218,11 +229,15 @@
 23-Jun-2003,Wimbledon,5,Grass,R32,150,14,0,Q,13,Sebastien Grosjean,Wesley Moodie,6-7(5) 6-2 6-4 6-4,0.64,5.1%,3.2%,73.2%,62.6%,54.8%,15/19,45.6%,25.2%,13.0%,15.4%,38.0%,0/3,272,8,5,157,115,42,15,2:44
 23-Jun-2003,Wimbledon,5,Grass,R64,150,308,1,Q,Q,Wesley Moodie,Frederic Niemeyer,7-6(8) 4-6 2-6 6-1 7-5,0.97,14.8%,5.7%,67.6%,78.2%,42.1%,8/11,50.5%,32.5%,12.1%,25.6%,40.8%,3/13,333,26,10,176,119,57,19,3:14
 23-Jun-2003,Wimbledon,5,Grass,R128,150,104,1,Q,,Wesley Moodie,Marc Rosset,6-4 6-4 6-4,1.38,27.7%,2.4%,72.3%,73.3%,65.2%,0/1,54.5%,39.8%,6.5%,30.0%,51.2%,4/15,176,23,2,83,60,23,6,1:42
+23-Jun-2003,Wimbledon,5,Grass,Q3,150,246,1,18,,Wesley Moodie,Roko Karanusic,3-6 6-4 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q2,150,223,1,18,,Wesley Moodie,Kevin Kim,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q1,150,220,1,18,,Wesley Moodie,Rodolphe Cadart,6-1 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Surbiton CH,3,Grass,F,151,504,1,,WC,Wesley Moodie,Alex Bogdanovic,6-4 6-7(2) 6-1,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Surbiton CH,3,Grass,SF,151,192,1,,,Wesley Moodie,Joachim Johansson,7-6(7) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Surbiton CH,3,Grass,QF,151,70,1,,4,Wesley Moodie,Greg Rusedski,7-6(6) 7-6(7),,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Surbiton CH,3,Grass,R16,151,231,1,,,Wesley Moodie,Cristiano Caratti,4-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Surbiton CH,3,Grass,R32,151,74,1,,5,Wesley Moodie,Mario Ancic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q1,151,323,0,,,Olivier Patience,Wesley Moodie,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 12-May-2003,Forest Hills CH,3,Clay,R32,147,349,0,,Q,Phillip Harboe,Wesley Moodie,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 5-May-2003,Birmingham CH,3,Clay,QF,154,207,0,,,Francisco Costa,Wesley Moodie,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 5-May-2003,Birmingham CH,3,Clay,R16,154,139,1,,6,Wesley Moodie,Sergio Roitman,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -252,11 +267,12 @@
 27-Jan-2003,Great Britain F2,3,Carpet,QF,248,316,1,3,7,Wesley Moodie,Daniel Elsner,7-5 2-6 7-6(11),,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Great Britain F2,3,Carpet,R16,248,390,1,3,,Wesley Moodie,Michal Kokta,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Great Britain F2,3,Carpet,R32,248,,1,3,Q,Wesley Moodie,Josh Goodall,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Great Britain F1,3,Carpet,F,,,1,1,,Wesley Moodie,Tomas Berdych,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Great Britain F1,3,Carpet,SF,,,1,1,4,Wesley Moodie,Stefano Pescosolido,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Great Britain F1,3,Carpet,QF,,,1,1,,Wesley Moodie,Mark Hilton,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Great Britain F1,3,Carpet,R16,,,1,1,WC,Wesley Moodie,Richard Bloomfield,6-7(5) 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Great Britain F1,3,Carpet,R32,,,1,1,,Wesley Moodie,Peter Wessels,7-6(3) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Great Britain F1,3,Carpet,F,246,395,1,1,,Wesley Moodie,Tomas Berdych,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Great Britain F1,3,Carpet,SF,246,268,1,1,4,Wesley Moodie,Stefano Pescosolido,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Great Britain F1,3,Carpet,QF,246,393,1,1,,Wesley Moodie,Mark Hilton,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Great Britain F1,3,Carpet,R16,246,611,1,1,WC,Wesley Moodie,Richard Bloomfield,6-7(5) 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Great Britain F1,3,Carpet,R32,246,493,1,1,,Wesley Moodie,Peter Wessels,7-6(3) 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q1,246,130,0,,8,Gregory Carraz,Wesley Moodie,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2002,Great Britain F10,3,Hard,F,311,435,0,4,,Nicklas Timfjord,Wesley Moodie,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 7-Oct-2002,Great Britain F10,3,Hard,SF,311,387,1,4,,Wesley Moodie,Fredrik Loven,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2002,Great Britain F10,3,Hard,QF,311,460,1,4,,Wesley Moodie,Michal Mertinak,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -270,8 +286,6 @@
 23-Sep-2002,Tulsa CH,3,Hard,R32,313,531,0,LL,Q,Dmitry Tursunov,Wesley Moodie,6-4 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2002,Waco CH,3,Hard,R16,327,219,0,Q,8,Jeff Salzenstein,Wesley Moodie,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2002,Waco CH,3,Hard,R32,327,649,1,Q,,Wesley Moodie,Dmitry Tursunov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2002,Wrexham CH,3,Hard,R32,343,136,0,,3,Ivo Heuberger,Wesley Moodie,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2002,Wrexham CH,3,Hard,R32,343,136,0,,3,Ivo Heuberger,Wesley Moodie,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2002,Wrexham CH,3,Hard,R32,343,136,0,,3,Ivo Heuberger,Wesley Moodie,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2002,Manchester CH,3,Grass,R16,337,200,0,,7,Cristiano Caratti,Wesley Moodie,6-7(6) 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 15-Jul-2002,Manchester CH,3,Grass,R32,337,318,1,,,Wesley Moodie,Daniele Bracciali,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
@@ -296,8 +310,8 @@
 29-Apr-2002,Mexico F5,3,Hard,QF,595,576,1,,8,Wesley Moodie,Marcelo Amador,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2002,Mexico F5,3,Hard,R16,595,684,1,,,Wesley Moodie,Sebastian Uriarte,7-6(2) 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2002,Mexico F5,3,Hard,R32,595,,1,,2,Wesley Moodie,Lazaro Navarro Batles,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Mar-2002,France F8,3,Carpet,R16,,,0,Q,,Lionel Roux,Wesley Moodie,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-25-Mar-2002,France F8,3,Carpet,R32,,,1,Q,5,Wesley Moodie,Thomas Dupre,6-3 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Mar-2002,France F8,3,Carpet,R16,568,367,0,Q,,Lionel Roux,Wesley Moodie,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2002,France F8,3,Carpet,R32,568,262,1,Q,5,Wesley Moodie,Thomas Dupre,6-3 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 11-Mar-2002,France F6,3,Hard,R16,566,313,0,LL,,Jerome Haehnel,Wesley Moodie,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 11-Mar-2002,France F6,3,Hard,R32,566,206,1,LL,4,Wesley Moodie,Frederic Niemeyer,4-6 6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
 11-Feb-2002,Great Britain F2,3,Carpet,SF,654,533,0,Q,Q,Gilles Muller,Wesley Moodie,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
@@ -321,15 +335,15 @@
 16-Jul-2001,Manchester CH,3,Grass,R16,385,733,0,,Q,Fredrik Loven,Wesley Moodie,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 16-Jul-2001,Manchester CH,3,Grass,R32,385,290,1,,,Wesley Moodie,Aisam Ul Haq Qureshi,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
 9-Jul-2001,Bristol CH,3,Grass,R32,388,300,0,,,Todd Larkham,Wesley Moodie,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Jun-2001,South Africa F2,3,Hard,R16,,,0,1,WC,Kabelo Maleka,Wesley Moodie,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Jun-2001,South Africa F2,3,Hard,R32,,,1,1,Q,Wesley Moodie,Michael De Jongh,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2001,South Africa F2,3,Hard,R16,312,,0,1,WC,Kabelo Maleka,Wesley Moodie,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Jun-2001,South Africa F2,3,Hard,R32,312,,1,1,Q,Wesley Moodie,Michael De Jongh,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-May-2001,South Africa F1,3,Hard,QF,312,,0,1,Q,Mark Peter Roberts,Wesley Moodie,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 28-May-2001,South Africa F1,3,Hard,R16,312,1133,1,1,,Wesley Moodie,Conor Niland,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 28-May-2001,South Africa F1,3,Hard,R32,312,,1,1,Q,Wesley Moodie,Ben Miles,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-26-Mar-2001,USA F7,3,Hard,SF,,,0,,1,Michael Russell,Wesley Moodie,W/O,,,,,,,,,,,,,,,,,,,,,
-26-Mar-2001,USA F7,3,Hard,QF,,,1,,3,Wesley Moodie,Fredrik Jonsson,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
-26-Mar-2001,USA F7,3,Hard,R16,,,1,,,Wesley Moodie,Daniel Andersson,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Mar-2001,USA F7,3,Hard,R32,,,1,,7,Wesley Moodie,Robert Kendrick,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,USA F7,3,Hard,SF,325,174,0,,1,Michael Russell,Wesley Moodie,W/O,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,USA F7,3,Hard,QF,325,243,1,,3,Wesley Moodie,Fredrik Jonsson,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,USA F7,3,Hard,R16,325,447,1,,,Wesley Moodie,Daniel Andersson,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,USA F7,3,Hard,R32,325,304,1,,7,Wesley Moodie,Robert Kendrick,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Feb-2001,Hull CH,3,Carpet,R32,325,380,0,,,Arnaud Fontaine,Wesley Moodie,6-7(5) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2000,USA F27,3,Hard,R32,338,483,0,3,,Philipp Hammer,Wesley Moodie,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2000,USA F25,3,Hard,R16,379,596,0,5,,Rafael De Mesa,Wesley Moodie,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -344,9 +358,9 @@
 2-Oct-2000,Great Britain F10,3,Hard,QF,476,349,1,,3,Wesley Moodie,Scott Barron,4-2 5-3 4-2,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2000,Great Britain F10,3,Hard,R16,476,433,1,,6,Wesley Moodie,Peter Clarke,4-2 4-2 4-2,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2000,Great Britain F10,3,Hard,R32,476,457,1,,LL,Wesley Moodie,Tommi Lenho,5-4(7) 4-2 2-4 4-1,,,,,,,,,,,,,,,,,,,,,
-25-Sep-2000,France F19,3,Hard,QF,,,0,Q,,Jean Michel Pequery,Wesley Moodie,7-6(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
-25-Sep-2000,France F19,3,Hard,R16,,,1,Q,Q,Wesley Moodie,Thierry Ascione,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-25-Sep-2000,France F19,3,Hard,R32,,,1,Q,3,Wesley Moodie,Jean Francois Bachelot,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,France F19,3,Hard,QF,484,353,0,Q,,Jean Michel Pequery,Wesley Moodie,7-6(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,France F19,3,Hard,R16,484,515,1,Q,Q,Wesley Moodie,Thierry Ascione,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2000,France F19,3,Hard,R32,484,237,1,Q,3,Wesley Moodie,Jean Francois Bachelot,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2000,France F18,3,Hard,R32,484,353,0,Q,WC,Jean Michel Pequery,Wesley Moodie,3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,France F17,3,Hard,QF,488,327,0,,5,Flavio Saretta,Wesley Moodie,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,France F17,3,Hard,R16,488,1209,1,,WC,Wesley Moodie,Julien Mathieu,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -358,23 +372,23 @@
 31-Jul-2000,USA F21,3,Hard,R32,522,1077,0,8,WC,Cary Franklin,Wesley Moodie,5-3 2-4 4-5(8) 5-4(5) RET,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2000,USA F20,3,Hard,R16,523,994,0,5,,Peter Luczak,Wesley Moodie,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2000,USA F20,3,Hard,R32,523,1303,1,5,Q,Wesley Moodie,Matthew Yeates,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 2,3,Hard,F,,,1,1,2,Wesley Moodie,Dirk Stegmann,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 3,3,Hard,F,,,0,SE,,Dirk Stegmann,Wesley Moodie,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 4,3,Hard,F,,,1,WC,2,Wesley Moodie,Rik De Voest,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 1,3,Hard,SF,,,0,1,3,Rik De Voest,Wesley Moodie,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 2,3,Hard,SF,,,1,1,,Wesley Moodie,Shaun Rudman,6-7(6) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 3,3,Hard,SF,,,1,SE,,Wesley Moodie,Hans Grobecker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 4,3,Hard,SF,,,1,WC,WC,Wesley Moodie,Nick Mcdonald,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 1,3,Hard,QF,,,1,1,,Wesley Moodie,Jean Marcel Bourgaul Du Coudray,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 2,3,Hard,QF,,,1,1,8,Wesley Moodie,Thierry Ascione,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 2,3,Hard,F,,961,1,1,2,Wesley Moodie,Dirk Stegmann,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 3,3,Hard,F,,961,0,SE,,Dirk Stegmann,Wesley Moodie,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 4,3,Hard,F,,615,1,WC,2,Wesley Moodie,Rik De Voest,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 1,3,Hard,SF,,615,0,1,3,Rik De Voest,Wesley Moodie,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 2,3,Hard,SF,,754,1,1,,Wesley Moodie,Shaun Rudman,6-7(6) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 3,3,Hard,SF,,961,1,SE,,Wesley Moodie,Hans Grobecker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 4,3,Hard,SF,,774,1,WC,WC,Wesley Moodie,Nick Mcdonald,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 1,3,Hard,QF,,916,1,1,,Wesley Moodie,Jean Marcel Bourgaul Du Coudray,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 2,3,Hard,QF,,785,1,1,8,Wesley Moodie,Thierry Ascione,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 3,3,Hard,QF,,1110,1,SE,,Wesley Moodie,Andrew Anderson,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 4,3,Hard,QF,,,1,WC,1,Wesley Moodie,Willem Petrus Meyer,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 4,3,Hard,QF,,522,1,WC,1,Wesley Moodie,Willem Petrus Meyer,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 1,3,Hard,R16,,1110,1,1,,Wesley Moodie,Holger Losch,6-1 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 2,3,Hard,R16,,,1,1,,Wesley Moodie,Joel Mcgregor,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 3,3,Hard,R16,,,1,SE,Q,Wesley Moodie,Ciaran Moore,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 4,3,Hard,R16,,1110,1,WC,,Wesley Moodie,Jeroen Masson,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 2,3,Hard,R32,,,1,1,,Wesley Moodie,Gwinyai Tongoona,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2000,Mauritius South Africa 3,3,Hard,R32,,,1,SE,6,Wesley Moodie,Thierry Ascione,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+5-Jun-2000,Mauritius South Africa 3,3,Hard,R32,,785,1,SE,6,Wesley Moodie,Thierry Ascione,7-6(4) 7-6(3),,,,,,,,,,,,,,,,,,,,,
 5-Jun-2000,Mauritius South Africa 4,3,Hard,R32,,,1,WC,Q,Wesley Moodie,Andre Van Der Merwe B,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,USA 2 Masters 2,3,Hard,R64,1341,,0,Q,Q,Gareth Williams,Wesley Moodie,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Jul-1998,USA F8,3,Hard,R64,1353,,0,Q,Q,Domenic Marafiote,Wesley Moodie,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
