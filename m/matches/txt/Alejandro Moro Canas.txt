@@ -1,5 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Mar-2023,Girona CH,3,Clay,Q1,295,662,0,10,WC,Eduard Esteve Lobato,Alejandro Moro Canas,2-6 6-3 7-6(2),1.08,3.7%,4.9%,58.5%,70.8%,47.1%,3/8,50.5%,42.2%,1.0%,31.0%,56.8%,5/14,184,3,4,82,48,34,1,2:20
+9-Apr-2023,Madrid CH,3,Clay,R32,290,141,1,WC,,Alejandro Moro Canas,Timofey Skatov,6-3 6-3,1.33,4.8%,1.6%,76.2%,68.8%,40.0%,5/7,56.3%,50.8%,0.0%,38.1%,73.9%,5/12,128,3,1,63,48,15,0,1:47
+3-Apr-2023,Murcia CH,3,Clay,R16,310,338,0,Q,LL,Viktor Durasovic,Alejandro Moro Canas,7-6(7) 6-4,0.79,4.1%,0.0%,80.8%,61.0%,50.0%,1/4,45.8%,32.4%,5.6%,22.4%,54.5%,2/3,144,3,0,73,59,14,4,1:52
+3-Apr-2023,Murcia CH,3,Clay,R32,310,135,1,Q,3,Alejandro Moro Canas,Raul Brancaccio,6-3 6-4,1.48,3.2%,1.6%,65.1%,73.2%,68.2%,4/4,56.6%,42.4%,3.0%,31.3%,52.9%,2/10,129,2,1,63,41,22,2,1:35
+3-Apr-2023,Murcia CH,3,Clay,Q2,310,404,1,2,,Alejandro Moro Canas,Akira Santillan,6-4 4-6 6-2,1.10,0.0%,2.2%,66.7%,67.7%,54.8%,9/11,51.9%,40.2%,4.3%,29.2%,52.3%,4/11,185,0,2,93,62,31,4,2:23
+3-Apr-2023,Murcia CH,3,Clay,Q1,310,425,1,2,,Alejandro Moro Canas,Bogdan Bobrov,6-4 7-5,1.40,0.0%,1.5%,60.6%,67.5%,73.1%,2/3,54.9%,42.3%,3.8%,41.3%,43.8%,3/7,144,0,1,66,40,26,3,1:45
+27-Mar-2023,Girona CH,3,Clay,Q1,295,662,0,10,WC,Eduard Esteve Lobato,Alejandro Moro Canas,2-6 6-3 7-6(2),1.08,3.7%,4.9%,58.5%,70.8%,47.1%,3/8,50.5%,42.2%,1.0%,31.0%,56.8%,5/14,184,3,4,82,48,34,1,2:20
 27-Feb-2023,M25 Torello,3,Hard,R16,274,505,0,4,,Maxime Chazal,Alejandro Moro Canas,6-0 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Feb-2023,M25 Torello,3,Hard,R32,274,888,1,4,Q,Alejandro Moro Canas,Leopold Zima,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2023,Rovereto CH,3,Hard,QF,297,153,0,LL,2,Dominic Stricker,Alejandro Moro Canas,6-4 4-6 6-0,0.76,3.6%,6.0%,61.4%,58.8%,37.5%,7/13,44.0%,37.6%,5.9%,37.5%,37.8%,3/5,168,3,5,83,51,32,5,2:08
@@ -15,7 +20,7 @@
 30-Jan-2023,Tenerife 2 CH,3,Hard,R16,312,145,1,Q,4,Alejandro Moro Canas,Filip Misolic,7-5 7-5,1.27,2.8%,0.0%,68.1%,69.4%,47.8%,6/9,54.5%,47.6%,1.2%,43.5%,59.1%,5/8,156,2,0,72,49,23,1,2:03
 30-Jan-2023,Tenerife 2 CH,3,Hard,R32,312,183,1,Q,,Alejandro Moro Canas,Francesco Maestrelli,7-5 6-1,1.55,6.9%,0.0%,67.2%,76.9%,52.6%,1/2,57.1%,48.0%,8.0%,34.1%,64.7%,4/9,133,4,0,58,39,19,6,1:45
 30-Jan-2023,Tenerife 2 CH,3,Hard,Q2,312,351,1,9,,Alejandro Moro Canas,Alvaro Lopez San Martin,6-0 4-6 6-4,1.25,8.3%,4.8%,64.3%,64.8%,43.3%,3/7,55.3%,53.5%,3.5%,43.9%,72.4%,7/9,170,7,4,84,54,30,3,2:08
-30-Jan-2023,Tenerife 2 CH,3,Hard,Q1,312,529,1,9,WC,Alejandro Moro Canas,Daniel Merida Aguilar ,6-7(5) 6-0 6-4,1.34,1.2%,5.8%,59.3%,72.5%,57.1%,2/4,55.4%,45.1%,0.0%,35.8%,57.9%,6/10,177,1,5,86,51,35,0,2:08
+30-Jan-2023,Tenerife 2 CH,3,Hard,Q1,312,529,1,9,WC,Alejandro Moro Canas,Daniel Merida Aguilar,6-7(5) 6-0 6-4,1.34,1.2%,5.8%,59.3%,72.5%,57.1%,2/4,55.4%,45.1%,0.0%,35.8%,57.9%,6/10,177,1,5,86,51,35,0,2:08
 16-Jan-2023,Tenerife 1 CH,3,Hard,R32,317,174,0,WC,,Fabian Marozsan,Alejandro Moro Canas,7-6(9) 3-6 6-4,1.01,3.6%,7.1%,62.5%,61.4%,40.5%,7/14,50.2%,46.8%,0.0%,43.3%,52.3%,8/13,223,4,8,112,70,42,0,2:26
 5-Dec-2022,M15 Madrid,3,Clay,R16,321,782,0,2,,Ryan Nijboer,Alejandro Moro Canas,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Dec-2022,M15 Madrid,3,Clay,R32,321,1973,1,2,Q,Alejandro Moro Canas,Yannik Steinegger,6-1 6-2,,,,,,,,,,,,,,,,,,,,,

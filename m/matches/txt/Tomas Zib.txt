@@ -1,6 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Jul-2009,Gstaad Q,3,Clay,Q2,461,261,0,,4,Thierry Ascione,Tomas Zib,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jul-2009,Gstaad Q,3,Clay,Q1,461,703,1,,,Tomas Zib,Yann Marti,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2009,Gstaad,3,Clay,Q2,461,261,0,,4,Thierry Ascione,Tomas Zib,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jul-2009,Gstaad,3,Clay,Q1,461,703,1,,,Tomas Zib,Yann Marti,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Nov-2008,Israel F4,3,Hard,R16,420,633,0,,,Martin Klizan,Tomas Zib,W/O,,,,,,,,,,,,,,,,,,,,,
 17-Nov-2008,Israel F4,3,Hard,R32,420,415,1,,6,Tomas Zib,Sebastian Rieschick,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Nov-2008,Jersey CH,3,Hard,SF,484,114,0,Q,2,Andreas Beck,Tomas Zib,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -129,6 +129,9 @@
 18-Sep-2006,Szczecin CH,3,Clay,R16,144,93,0,,5,Jiri Vanek,Tomas Zib,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
 18-Sep-2006,Szczecin CH,3,Clay,R32,144,368,1,,Q,Tomas Zib,Mariano Zabaleta,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2006,Dusseldorf CH,3,Clay,R32,139,192,0,7,,Rainer Eitzinger,Tomas Zib,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q3,139,123,0,25,10,Stefan Koubek,Tomas Zib,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q2,139,206,1,25,,Tomas Zib,Gilles Elseneer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q1,139,225,1,25,,Tomas Zib,Richard Bloomfield,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2006,Bronx CH,3,Hard,QF,139,193,0,,,Michael Russell,Tomas Zib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2006,Bronx CH,3,Hard,R16,139,129,1,,7,Tomas Zib,Michael Berrer,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2006,Bronx CH,3,Hard,R32,139,320,1,,,Tomas Zib,Dudi Sela,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -157,8 +160,8 @@
 7-Apr-2006,Davis Cup G1 R2: MAR vs CZE,3,Clay,RR,76,609,1,,,Tomas Zib,Mounir El Aarej,2-6 6-1 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2006,Davis Cup G1 R2: MAR vs CZE,3,Clay,RR,76,565,1,,,Tomas Zib,Mehdi Tahiri,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Mar-2006,Miami Masters,3,Hard,R128,75,34,0,,,Jose Acasuso,Tomas Zib,5-7 6-1 6-1,0.53,7.1%,8.2%,64.7%,56.4%,43.3%,8/14,40.1%,25.4%,31.3%,13.2%,41.4%,2/5,152,6,7,85,55,30,21,1:40
-13-Mar-2006,Sunrise CH,3,Hard,R16,71,,0,8,,Rik De Voest,Tomas Zib,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2006,Sunrise CH,3,Hard,R32,71,,1,8,,Tomas Zib,Michael Llodra,6-7(4) 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Sunrise CH,3,Hard,R16,71,166,0,8,,Rik De Voest,Tomas Zib,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Sunrise CH,3,Hard,R32,71,133,1,8,,Tomas Zib,Michael Llodra,6-7(4) 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 6-Mar-2006,Indian Wells Masters,3,Hard,R128,71,59,0,,,Ivo Karlovic,Tomas Zib,7-6(9) 6-4,0.80,1.5%,0.0%,65.7%,72.7%,78.3%,0/1,47.1%,20.3%,39.1%,16.0%,31.6%,0/1,136,1,0,67,44,23,27,1:34
 27-Feb-2006,Las Vegas,3,Hard,R32,67,125,0,,,Kenneth Carlsen,Tomas Zib,6-4 6-3,0.61,4.7%,1.6%,54.7%,60.0%,41.4%,4/8,42.3%,29.8%,23.4%,17.9%,47.4%,1/2,111,3,1,64,35,29,11,1:09
 20-Feb-2006,Memphis,3,Hard,R32,62,91,0,,,Wayne Arthurs,Tomas Zib,6-4 7-6(2),0.63,10.8%,4.8%,47.0%,74.4%,50.0%,4/5,45.0%,24.2%,43.9%,8.9%,57.1%,0/1,149,9,4,83,39,44,29,1:20
@@ -174,7 +177,7 @@
 23-Jan-2006,Heilbronn CH,3,Carpet,R16,70,311,1,1,Q,Tomas Zib,Philipp Petzschner,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2006,Heilbronn CH,3,Carpet,R32,70,138,1,1,,Tomas Zib,Jerome Haehnel,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 16-Jan-2006,Australian Open,5,Hard,R128,70,17,0,,15,Juan Carlos Ferrero,Tomas Zib,7-5 6-0 6-2,0.57,3.8%,3.8%,62.5%,54.0%,36.7%,4/12,39.3%,30.0%,11.4%,27.5%,33.3%,2/3,150,3,3,80,50,30,8,1:37
-9-Jan-2006,Auckland,3,Hard,R32,69,54,0,,,Stanislas Wawrinka,Tomas Zib,6-3 6-4,0.78,4.8%,1.6%,53.2%,63.6%,51.7%,4/7,45.0%,32.8%,11.9%,21.4%,52.0%,1/2,129,3,1,62,33,29,8,1:16
+9-Jan-2006,Auckland,3,Hard,R32,69,54,0,,,Stan Wawrinka,Tomas Zib,6-3 6-4,0.78,4.8%,1.6%,53.2%,63.6%,51.7%,4/7,45.0%,32.8%,11.9%,21.4%,52.0%,1/2,129,3,1,62,33,29,8,1:16
 2-Jan-2006,Doha,3,Hard,R32,59,30,0,,7,Gael Monfils,Tomas Zib,7-5 6-4,0.73,0.0%,1.6%,59.7%,59.5%,60.0%,4/7,44.7%,29.5%,18.0%,15.6%,44.8%,1/1,123,0,1,62,37,25,11,1:21
 26-Dec-2005,Doha CH,3,Hard,R32,59,197,0,1,,Denis Gremelmayr,Tomas Zib,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2005,Basel,3,Carpet,R32,62,152,0,,LL,Michael Berrer,Tomas Zib,6-3 7-5,0.42,2.9%,1.4%,48.6%,64.7%,55.6%,3/5,41.5%,17.0%,20.8%,3.1%,38.1%,0/0,123,2,1,70,34,36,11,1:15
@@ -235,6 +238,9 @@
 31-Jan-2005,Delray Beach,3,Hard,R32,86,56,0,,5,Ricardo Mello,Tomas Zib,7-6(4) 6-3,0.59,4.3%,1.4%,65.2%,73.3%,50.0%,5/6,43.9%,20.6%,7.9%,17.9%,25.0%,0/0,132,3,1,69,45,24,5,1:21
 17-Jan-2005,Australian Open,5,Hard,R64,101,13,0,Q,13,Tommy Robredo,Tomas Zib,6-4 2-6 6-2 6-4,0.87,2.3%,2.3%,55.5%,63.4%,49.1%,10/16,47.9%,37.5%,14.3%,28.1%,50.0%,4/7,240,3,3,128,71,57,16,2:40
 17-Jan-2005,Australian Open,5,Hard,R128,101,185,1,Q,WC,Tomas Zib,Jimmy Wang,7-6(5) 6-2 6-4,1.18,4.0%,1.0%,63.4%,59.4%,51.4%,1/6,53.8%,51.4%,4.7%,35.8%,77.5%,8/17,208,4,1,101,64,37,5,2:26
+17-Jan-2005,Australian Open,5,Hard,Q3,101,432,1,1,,Tomas Zib,Robert Smeets,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q2,101,400,1,1,,Tomas Zib,Jaymon Crabb,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q1,101,418,1,1,,Tomas Zib,Adam Feeney,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jan-2005,Sydney,3,Hard,R32,101,106,0,,Q,Arnaud Clement,Tomas Zib,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Jan-2005,Chennai,3,Hard,SF,121,27,0,,2,Paradorn Srichaphan,Tomas Zib,7-6(5) 6-3,0.90,5.3%,3.9%,60.5%,60.9%,56.7%,4/7,47.5%,36.6%,15.9%,21.3%,57.1%,1/8,158,4,3,76,46,30,13,1:54
 3-Jan-2005,Chennai,3,Hard,QF,121,162,1,,,Tomas Zib,Justin Gimelstob,6-3 7-6(4),1.09,6.9%,4.2%,61.1%,75.0%,53.6%,4/5,53.5%,36.4%,10.9%,20.0%,56.0%,2/3,127,5,3,72,44,28,6,1:26
@@ -260,6 +266,9 @@
 6-Sep-2004,Istanbul CH,3,Hard,R16,141,202,0,4,,Michael Berrer,Tomas Zib,6-2 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
 6-Sep-2004,Istanbul CH,3,Hard,R32,141,213,1,4,,Tomas Zib,Fred Hemmes,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Aug-2004,US Open,5,Hard,R128,141,8,0,Q,7,Juan Carlos Ferrero,Tomas Zib,4-6 7-5 7-6(6) 6-7(4) 6-3,0.88,5.0%,4.5%,53.8%,63.6%,55.4%,7/14,48.3%,35.4%,10.7%,29.6%,46.0%,5/15,377,10,9,199,107,92,19,4:26
+30-Aug-2004,US Open,5,Hard,Q3,141,197,1,26,,Tomas Zib,Daniel Koellerer,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,US Open,5,Hard,Q2,141,191,1,26,,Tomas Zib,Bjorn Rehnquist,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Aug-2004,US Open,5,Hard,Q1,141,153,1,26,,Tomas Zib,Wesley Moodie,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2004,Sopot,3,Clay,R32,133,154,0,,Q,Franco Squillari,Tomas Zib,6-4 6-2,0.68,1.6%,1.6%,52.4%,78.8%,30.0%,0/3,43.1%,30.0%,6.7%,22.9%,40.0%,0/5,123,1,1,63,33,30,4,1:18
 2-Aug-2004,Poznan CH,3,Clay,F,161,217,1,,,Tomas Zib,Juan Pablo Brzezicki,6-7(4) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Aug-2004,Poznan CH,3,Clay,SF,161,150,1,,,Tomas Zib,Roko Karanusic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -275,6 +284,7 @@
 28-Jun-2004,Zell CH,3,Clay,QF,119,183,0,2,7,Dieter Kindlmann,Tomas Zib,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Jun-2004,Zell CH,3,Clay,R16,119,213,1,2,,Tomas Zib,Gilles Simon,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Jun-2004,Zell CH,3,Clay,R32,119,227,1,2,,Tomas Zib,Yuri Schukin,4-6 7-6(9) 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Wimbledon,5,Grass,Q1,119,164,0,12,,Giovanni Lapentti,Tomas Zib,6-7(5) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2004,Weiden CH,3,Clay,QF,122,155,0,7,,Janko Tipsarevic,Tomas Zib,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2004,Weiden CH,3,Clay,R16,122,192,1,7,,Tomas Zib,Mariano Delfino,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2004,Weiden CH,3,Clay,R32,122,210,1,7,,Tomas Zib,Nicolas Devilder,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -282,6 +292,7 @@
 31-May-2004,Prostejov CH,3,Clay,QF,135,69,1,,5,Tomas Zib,Dmitry Tursunov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 31-May-2004,Prostejov CH,3,Clay,R16,135,177,1,,,Tomas Zib,Didac Perez,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 31-May-2004,Prostejov CH,3,Clay,R32,135,67,1,,4,Tomas Zib,Albert Montanes,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q1,135,271,0,19,,Jerome Haehnel,Tomas Zib,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 17-May-2004,St. Poelten,3,Clay,R32,132,83,0,,,Raemon Sluiter,Tomas Zib,6-4 2-6 6-3,1.05,5.2%,1.3%,57.1%,72.7%,48.5%,2/5,49.7%,39.6%,15.6%,26.8%,57.5%,3/10,173,4,1,77,44,33,15,1:46
 10-May-2004,Kosice CH,3,Clay,QF,132,184,0,4,,Michal Mertinak,Tomas Zib,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-May-2004,Kosice CH,3,Clay,R16,132,192,1,4,,Tomas Zib,Edouard Roger Vasselin,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -299,19 +310,22 @@
 2-Feb-2004,Wroclaw CH,3,Hard,R32,149,333,0,,Q,Michael Kohlmann,Tomas Zib,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Jan-2004,Heilbronn CH,3,Carpet,R16,145,140,0,,,Andreas Vinciguerra,Tomas Zib,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jan-2004,Heilbronn CH,3,Carpet,R32,145,116,1,,8,Tomas Zib,Tomas Berdych,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Jan-2004,Australian Open,5,Hard,Q1,145,264,0,23,,Glenn Weiner,Tomas Zib,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 17-Nov-2003,Prague2 CH,3,Carpet,R32,145,125,0,,5,Marc Rosset,Tomas Zib,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Nov-2003,Helsinki2 CH,3,Hard,R32,142,160,0,,,Daniel Elsner,Tomas Zib,6-2 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
 3-Nov-2003,Eckental CH,3,Carpet,R32,142,169,0,,,Arvind Parmar,Tomas Zib,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Oct-2003,Nottingham CH,3,Hard,R16,145,324,0,,Q,Marco Chiudinelli,Tomas Zib,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Oct-2003,Nottingham CH,3,Hard,R32,145,109,1,,4,Tomas Zib,Martin Vassallo Arguello,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Oct-2003,Basel,3,Carpet,R16,158,32,0,LL,,Tim Henman,Tomas Zib,6-3 6-4,0.83,4.3%,0.0%,61.7%,62.1%,61.1%,1/4,44.5%,31.7%,22.2%,11.4%,57.1%,1/8,110,2,0,47,29,18,14,1:21
-20-Oct-2003,Basel,3,Carpet,R32,158,172,1,LL,WC,Tomas Zib,Stanislas Wawrinka,7-6(0) 7-6(5),0.96,2.4%,1.2%,65.9%,73.2%,48.3%,6/9,51.0%,33.8%,17.6%,28.2%,41.4%,3/7,153,2,1,85,56,29,12,1:28
+20-Oct-2003,Basel,3,Carpet,R32,158,172,1,LL,WC,Tomas Zib,Stan Wawrinka,7-6(0) 7-6(5),0.96,2.4%,1.2%,65.9%,73.2%,48.3%,6/9,51.0%,33.8%,17.6%,28.2%,41.4%,3/7,153,2,1,85,56,29,12,1:28
 29-Sep-2003,Moscow,3,Carpet,R32,157,42,0,Q,,Ivan Ljubicic,Tomas Zib,6-2 6-4,0.46,0.0%,4.8%,46.0%,69.0%,50.0%,6/9,41.8%,19.1%,27.7%,12.5%,26.1%,0/4,110,0,3,63,29,34,13,1:13
 22-Sep-2003,Grenoble CH,3,Hard,R16,159,175,0,,,Michael Llodra,Tomas Zib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Sep-2003,Grenoble CH,3,Hard,R32,159,102,1,,5,Tomas Zib,Nicolas Mahut,7-6(11) 7-6(2),,,,,,,,,,,,,,,,,,,,,
 15-Sep-2003,Szczecin CH,3,Clay,R32,159,141,0,,,Alex Calatrava,Tomas Zib,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Sep-2003,Istanbul CH,3,Hard,R16,171,66,0,,1,Vladimir Voltchkov,Tomas Zib,6-7(7) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Sep-2003,Istanbul CH,3,Hard,R32,171,1382,1,,WC,Tomas Zib,Haluk Akkoyun,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q2,171,225,0,,,Roko Karanusic,Tomas Zib,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q1,171,533,1,,WC,Tomas Zib,Bobby Reynolds,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 28-Jul-2003,Segovia CH,3,Hard,F,214,51,0,,2,Rafael Nadal,Tomas Zib,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
 28-Jul-2003,Segovia CH,3,Hard,SF,214,125,1,,4,Tomas Zib,Nicolas Mahut,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 28-Jul-2003,Segovia CH,3,Hard,QF,214,382,1,,Q,Tomas Zib,Alejandro Falla,6-1 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -324,8 +338,14 @@
 30-Jun-2003,Kosice2 CH,3,Clay,R16,154,114,1,,8,Tomas Zib,Luis Horna,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Jun-2003,Kosice2 CH,3,Clay,R32,154,402,1,,LL,Tomas Zib,Martin Stepanek,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Jun-2003,Wimbledon,5,Grass,R128,154,29,0,LL,10,Tim Henman,Tomas Zib,6-2 7-6(11) 3-6 6-1,0.71,1.5%,5.2%,48.9%,60.6%,47.8%,11/19,44.4%,32.4%,15.7%,16.4%,49.1%,5/9,243,2,7,135,66,69,17,2:56
+23-Jun-2003,Wimbledon,5,Grass,Q3,154,121,0,20,6,Fernando Verdasco,Tomas Zib,6-4 5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q2,154,161,1,20,,Tomas Zib,Potito Starace,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q1,154,272,1,20,,Tomas Zib,Juan Luis Tati Rascon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Jun-2003,Biella CH,3,Clay,R32,149,179,0,,,Renzo Furlan,Tomas Zib,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Prostejov CH,3,Clay,R32,145,114,0,,,Andreas Vinciguerra,Tomas Zib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q3,145,101,0,26,2,Christophe Rochus,Tomas Zib,4-6 6-2 8-6,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q2,145,323,1,26,,Tomas Zib,Olivier Patience,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q1,145,256,1,26,,Tomas Zib,Gorka Fraile,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Apr-2003,Aix En Provence CH,3,Clay,R16,142,52,0,,2,Fabrice Santoro,Tomas Zib,6-4 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
 28-Apr-2003,Aix En Provence CH,3,Clay,R32,142,133,1,,,Tomas Zib,Peter Luczak,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 14-Apr-2003,Bermuda CH,3,Clay,R16,140,91,0,,8,Nicolas Massu,Tomas Zib,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
@@ -335,6 +355,7 @@
 3-Feb-2003,Belgrade CH,3,Carpet,R32,142,234,1,1,,Tomas Zib,Olivier Patience,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Milan,3,Carpet,R32,147,89,0,Q,Q,Jonas Bjorkman,Tomas Zib,7-5 6-3,0.79,11.3%,1.6%,62.9%,74.4%,47.8%,1/3,45.1%,28.2%,21.1%,17.4%,48.0%,0/5,133,7,1,62,39,23,15,1:12
 20-Jan-2003,Heilbronn CH,3,Carpet,R32,148,105,0,,8,Zeljko Krajan,Tomas Zib,6-3 6-7(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q1,148,281,0,19,,Slimane Saoudi,Tomas Zib,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 25-Nov-2002,Milan1 CH,3,Carpet,R16,145,85,0,,3,Nikolay Davydenko,Tomas Zib,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Nov-2002,Milan1 CH,3,Carpet,R32,145,120,1,,,Tomas Zib,Ivo Heuberger,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Nov-2002,Prague2 CH,3,Carpet,R32,148,532,0,,WC,Tomas Berdych,Tomas Zib,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -346,6 +367,8 @@
 30-Sep-2002,Seville CH,3,Clay,R32,149,198,1,,,Tomas Zib,Marc Lopez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Sep-2002,Maia CH,3,Clay,R32,151,373,0,4,Q,Jacobo Diaz,Tomas Zib,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2002,Istanbul CH,3,Hard,R32,152,111,0,,,Vladimir Voltchkov,Tomas Zib,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q2,150,191,0,,,Amir Hadad,Tomas Zib,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,150,189,1,,,Tomas Zib,Federico Luzzi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2002,Bronx CH,3,Hard,R32,145,225,0,4,,Eric Taino,Tomas Zib,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2002,Segovia CH,3,Hard,R32,137,328,0,,WC,Fernando Verdasco,Tomas Zib,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2002,Hilversum CH,3,Clay,F,167,274,1,3,,Tomas Zib,Florent Serra,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -396,6 +419,8 @@
 24-Sep-2001,Maia CH,3,Clay,R32,205,229,0,,,Jan Frode Andersen,Tomas Zib,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Sep-2001,Szczecin CH,3,Clay,R32,203,64,0,,2,David Nalbandian,Tomas Zib,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
 3-Sep-2001,Kiev CH,3,Clay,R32,163,809,0,,WC,Andrey Dernovskiy,Tomas Zib,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2001,US Open,5,Hard,Q2,163,143,0,,24,Tomas Behrend,Tomas Zib,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2001,US Open,5,Hard,Q1,163,,1,,WC,Tomas Zib,Brian Baker,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Washington,3,Hard,R32,147,15,0,Q,3,Tommy Haas,Tomas Zib,6-3 6-2,0.61,6.6%,3.3%,59.0%,61.1%,44.0%,5/8,41.5%,28.1%,26.3%,18.4%,47.4%,0/0,118,4,2,61,36,25,15,1:12
 13-Aug-2001,Washington,3,Hard,R64,147,55,1,Q,,Tomas Zib,Davide Sanguinetti,6-3 7-5,1.13,1.3%,1.3%,59.7%,63.0%,51.6%,9/12,53.1%,47.0%,6.1%,26.5%,68.8%,5/7,143,1,1,77,46,31,4,1:25
 30-Jul-2001,San Marino CH,3,Clay,QF,142,103,0,,,Nikolay Davydenko,Tomas Zib,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -405,8 +430,8 @@
 9-Jul-2001,Newport,3,Grass,R32,141,90,0,,,Peter Wessels,Tomas Zib,7-6(5) 6-1,0.57,3.3%,3.3%,55.7%,67.6%,48.1%,0/2,41.3%,23.3%,30.0%,17.1%,32.0%,0/2,121,2,2,61,34,27,18,1:11
 2-Jul-2001,Venice CH,3,Clay,R32,139,80,0,,2,Agustin Calleri,Tomas Zib,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Jun-2001,Eisenach CH,3,Clay,R32,139,172,0,7,,Flavio Saretta,Tomas Zib,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
-18-Jun-2001,'s-Hertogenbosch,3,Grass,R16,145,28,0,,7,Sjeng Schalken,Tomas Zib,7-6(6) 6-3,0.72,4.3%,0.0%,58.0%,75.0%,37.9%,2/5,44.8%,29.2%,26.2%,9.4%,48.5%,1/4,134,3,0,69,40,29,17,1:28
-18-Jun-2001,'s-Hertogenbosch,3,Grass,R32,145,113,1,,,Tomas Zib,Edwin Kempes,6-4 6-1,1.56,0.0%,2.0%,78.0%,66.7%,63.6%,0/2,59.4%,52.9%,9.8%,43.8%,68.4%,5/7,101,0,1,50,39,11,5,0:51
+18-Jun-2001,s Hertogenbosch,3,Grass,R16,145,28,0,,7,Sjeng Schalken,Tomas Zib,7-6(6) 6-3,0.72,4.3%,0.0%,58.0%,75.0%,37.9%,2/5,44.8%,29.2%,26.2%,9.4%,48.5%,1/4,134,3,0,69,40,29,17,1:28
+18-Jun-2001,s Hertogenbosch,3,Grass,R32,145,113,1,,,Tomas Zib,Edwin Kempes,6-4 6-1,1.56,0.0%,2.0%,78.0%,66.7%,63.6%,0/2,59.4%,52.9%,9.8%,43.8%,68.4%,5/7,101,0,1,50,39,11,5,0:51
 11-Jun-2001,Weiden CH,3,Clay,R16,146,238,0,4,Q,Sebastien De Chaunac,Tomas Zib,6-7(3) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Jun-2001,Weiden CH,3,Clay,R32,146,1152,1,4,WC,Tomas Zib,Philipp Kohlschreiber,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Jun-2001,Prostejov CH,3,Clay,R32,143,21,0,,1,Dominik Hrbaty,Tomas Zib,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -427,7 +452,7 @@
 5-Feb-2001,Wroclaw CH,3,Hard,R32,123,90,0,,3,Ivan Ljubicic,Tomas Zib,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Jan-2001,Bogota,3,Clay,R32,119,189,0,,,Hugo Armando,Tomas Zib,6-4 6-4,0.73,5.8%,3.5%,62.8%,66.7%,37.5%,10/13,46.2%,32.2%,13.6%,22.9%,45.8%,1/2,145,5,3,86,54,32,8,1:19
 22-Jan-2001,Heilbronn CH,3,Carpet,R32,120,189,0,,WC,Bjorn Phau,Tomas Zib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2001,Chennai,3,Hard,R32,,,0,,,Ronald Agenor,Tomas Zib,6-3 6-2,0.69,5.6%,3.7%,48.1%,57.7%,39.3%,8/13,42.1%,35.8%,1.9%,28.1%,47.6%,2/6,107,3,2,54,26,28,1,1:09
+1-Jan-2001,Chennai,3,Hard,R32,117,137,0,,,Ronald Agenor,Tomas Zib,6-3 6-2,0.69,5.6%,3.7%,48.1%,57.7%,39.3%,8/13,42.1%,35.8%,1.9%,28.1%,47.6%,2/6,107,3,2,54,26,28,1,1:09
 4-Dec-2000,Prague CH,3,Clay,R32,118,299,0,1,,Ivo Karlovic,Tomas Zib,7-6(3) 6-7(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 20-Nov-2000,Brest CH,3,Hard,SF,126,109,0,7,4,Michel Kratochvil,Tomas Zib,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 20-Nov-2000,Brest CH,3,Hard,QF,126,259,1,7,Q,Tomas Zib,Jan Vacek,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -488,58 +513,17 @@
 7-Feb-2000,San Jose,3,Hard,R16,120,95,0,,,Justin Gimelstob,Tomas Zib,6-4 7-6(4),0.66,1.4%,2.8%,58.3%,73.8%,46.7%,1/3,44.5%,24.6%,12.3%,20.0%,32.0%,1/2,137,1,2,72,42,30,8,1:36
 7-Feb-2000,San Jose,3,Hard,R32,120,100,1,,,Tomas Zib,Nicolas Massu,6-4 6-2,1.38,9.2%,0.0%,55.4%,72.2%,44.8%,5/8,57.6%,55.0%,1.7%,47.2%,66.7%,6/11,125,6,0,65,36,29,1,1:33
 17-Jan-2000,Australian Open,5,Hard,R128,118,82,0,,,Gianluca Pozzi,Tomas Zib,6-3 7-6(7) 6-7(5) 6-1,0.79,1.5%,5.4%,55.4%,66.7%,41.4%,11/19,45.0%,35.3%,12.2%,22.6%,45.5%,4/15,269,2,7,130,72,58,17,2:56
-3-Jan-2000,Chennai,3,Hard,R32,,,0,,,Lorenzo Manta,Tomas Zib,7-5 6-2,0.74,5.7%,2.9%,71.4%,62.0%,45.0%,5/8,44.6%,31.9%,14.5%,26.2%,40.7%,0/4,139,4,2,70,50,20,10,1:20
-22-Nov-1999,Guadalajara CH,3,Clay,R16,110,142,0,4,,Agustin Calleri,Tomas Zib,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Nov-1999,Guadalajara CH,3,Clay,R32,110,172,1,4,,Tomas Zib,Christian Vinck,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Buenos Aires CH,3,Clay,R16,108,72,0,,6,Hernan Gumy,Tomas Zib,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Buenos Aires CH,3,Clay,R32,108,146,1,,,Tomas Zib,Juan Albert Viloca Puig,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-8-Nov-1999,Montevideo CH,3,Clay,R16,111,116,0,,,Juan Ignacio Chela,Tomas Zib,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Nov-1999,Montevideo CH,3,Clay,R32,111,146,1,,,Tomas Zib,Juan Albert Viloca Puig,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Santiago CH,3,Clay,R16,118,111,0,,,Ramon Delgado,Tomas Zib,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Santiago CH,3,Clay,R32,118,60,1,,2,Tomas Zib,Juan Antonio Marin,1-6 6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
-18-Oct-1999,Cairo CH,3,Clay,R32,121,206,0,,Q,David Sanchez,Tomas Zib,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Sep-1999,Szczecin CH,3,Clay,R32,118,96,0,,,Alberto Berasategui,Tomas Zib,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Sep-1999,Kiev CH,3,Clay,R32,118,195,0,3,,Hector Moretti,Tomas Zib,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jan-2000,Chennai,3,Hard,R32,111,115,0,,,Lorenzo Manta,Tomas Zib,7-5 6-2,0.74,5.7%,2.9%,71.4%,62.0%,45.0%,5/8,44.6%,31.9%,14.5%,26.2%,40.7%,0/4,139,4,2,70,50,20,10,1:20
 30-Aug-1999,US Open,5,Hard,R128,118,101,0,,LL,Max Mirnyi,Tomas Zib,3-6 2-6 7-6(6) 7-6(4) 6-3,1.22,2.5%,1.9%,74.1%,72.6%,53.7%,9/13,52.1%,39.4%,10.4%,32.2%,50.0%,6/19,351,4,3,158,117,41,20,3:21
 16-Aug-1999,Washington,3,Hard,QF,135,2,0,,1,Yevgeny Kafelnikov,Tomas Zib,6-1 6-7(7) 7-5,0.83,11.3%,1.9%,69.8%,67.6%,43.8%,6/10,46.7%,33.0%,11.3%,21.2%,44.4%,1/4,212,12,2,106,74,32,12,2:06
 16-Aug-1999,Washington,3,Hard,R16,135,31,1,,7,Tomas Zib,Marc Rosset,6-3 6-2,1.42,9.7%,3.2%,62.9%,84.6%,43.5%,4/4,56.5%,43.5%,14.5%,24.1%,60.6%,3/9,124,6,2,62,39,23,9,1:12
 16-Aug-1999,Washington,3,Hard,R32,135,45,1,,10,Tomas Zib,Rainer Schuettler,6-7(2) 7-5 3-0 RET,1.04,2.0%,2.9%,59.8%,63.9%,58.5%,7/9,51.6%,39.8%,8.0%,31.9%,48.8%,4/9,190,2,3,102,61,41,7,2:07
 16-Aug-1999,Washington,3,Hard,R64,135,113,1,,,Tomas Zib,Jacobo Diaz,7-6(1) 7-6(4),1.13,6.7%,4.4%,57.8%,67.3%,44.7%,6/11,52.7%,47.9%,6.4%,44.3%,54.5%,5/12,184,6,4,90,52,38,6,2:10
-2-Aug-1999,Poznan CH,3,Clay,R32,132,107,0,,7,Jacobo Diaz,Tomas Zib,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,Umag,3,Clay,R32,110,79,0,,,Jeff Tarango,Tomas Zib,3-6 6-4 6-0,0.89,4.0%,1.0%,68.7%,51.5%,48.4%,13/20,47.9%,43.9%,12.1%,43.6%,44.4%,4/5,165,4,1,99,68,31,8,1:46
-12-Jul-1999,Graz CH,3,Clay,F,118,97,1,,,Tomas Zib,Juan Carlos Ferrero,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Graz CH,3,Clay,SF,118,84,1,,8,Tomas Zib,Albert Portas,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Graz CH,3,Clay,QF,118,73,1,,5,Tomas Zib,Martin Rodriguez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Graz CH,3,Clay,R16,118,56,1,,4,Tomas Zib,Stefan Koubek,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Graz CH,3,Clay,R32,118,107,1,,,Tomas Zib,German Puentes,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Jul-1999,Ostend CH,3,Clay,R16,119,155,0,4,,Alex Lopez Moron,Tomas Zib,7-5 5-7 7-6(1),,,,,,,,,,,,,,,,,,,,,
-5-Jul-1999,Ostend CH,3,Clay,R32,119,241,1,4,WC,Tomas Zib,Kris Goossens,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,Venice CH,3,Clay,R32,119,92,0,,7,Adrian Voinea,Tomas Zib,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1999,Prague CH,3,Clay,QF,119,204,0,1,,Michal Tabara,Tomas Zib,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1999,Prague CH,3,Clay,R16,119,537,1,1,WC,Tomas Zib,Robin Vik,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1999,Prague CH,3,Clay,R32,119,907,1,1,WC,Tomas Zib,Tomas Cakl,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,SF,124,102,0,4,2,Andrea Gaudenzi,Tomas Zib,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,QF,124,179,1,4,,Tomas Zib,Oleg Ogorodov,4-6 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,R16,124,219,1,4,,Tomas Zib,Mariano Hood,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,R32,124,551,1,4,WC,Tomas Zib,Lovro Zovko,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-7-Jun-1999,Maia CH,3,Clay,R16,132,203,0,8,,Eduardo Nicolas,Tomas Zib,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-7-Jun-1999,Maia CH,3,Clay,R32,132,200,1,8,,Tomas Zib,Marcos Ondruska,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Furth CH,3,Clay,F,156,190,0,,Q,Ronald Agenor,Tomas Zib,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Furth CH,3,Clay,SF,156,169,1,,,Tomas Zib,Tomas Behrend,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Furth CH,3,Clay,QF,156,150,1,,,Tomas Zib,Christian Vinck,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Furth CH,3,Clay,R16,156,196,1,,,Tomas Zib,Alex Lopez Moron,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Furth CH,3,Clay,R32,156,120,1,,4,Tomas Zib,Carlos Costa,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 12-May-1999,Germany F2,3,Clay,R16,155,286,0,4,,Alexander Popp,Tomas Zib,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 12-May-1999,Germany F2,3,Clay,R32,155,305,1,4,Q,Tomas Zib,Ricardo Schlachter,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Apr-1999,Prague,3,Clay,R16,178,80,0,LL,,Arnaud Di Pasquale,Tomas Zib,6-4 6-1,0.64,6.8%,4.5%,40.9%,66.7%,26.9%,4/9,39.2%,36.2%,3.4%,32.3%,40.7%,2/4,102,3,2,44,18,26,2,1:04
 26-Apr-1999,Prague,3,Clay,R32,178,29,1,LL,4,Tomas Zib,Marat Safin,1-6 6-1 7-5,0.98,5.3%,4.0%,50.7%,60.5%,51.4%,2/7,50.0%,43.1%,15.4%,25.8%,58.8%,6/8,140,4,3,75,38,37,10,1:28
-12-Apr-1999,Bermuda CH,3,Clay,R32,177,91,0,,2,Stefan Koubek,Tomas Zib,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Mar-1999,Barletta CH,3,Clay,R32,166,98,0,,3,Oliver Gross,Tomas Zib,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Mar-1999,Singapore CH,3,Hard,R16,169,146,0,,5,Oscar Serrano,Tomas Zib,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Mar-1999,Singapore CH,3,Hard,R32,169,245,1,,,Tomas Zib,David Caballero,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-22-Feb-1999,Ho Chi Minh CH,3,Hard,R32,171,350,0,,WC,Paradorn Srichaphan,Tomas Zib,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-8-Feb-1999,Wolfsburg CH,3,Carpet,R32,164,126,0,,2,Diego Nargiso,Tomas Zib,7-6 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
-1-Feb-1999,Hamburg CH,3,Carpet,R32,169,175,0,,,Maurice Ruah,Tomas Zib,6-0 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Nov-1998,Nuembrecht CH,3,Carpet,R32,140,111,0,,,Rainer Schuettler,Tomas Zib,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Nov-1998,Burbank CH,3,Hard,QF,141,214,0,8,Q,Ville Liukko,Tomas Zib,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Nov-1998,Burbank CH,3,Hard,R16,141,201,1,8,,Tomas Zib,Lorenzo Manta,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -572,8 +556,8 @@
 20-Jul-1998,Tampere CH,3,Clay,QF,232,368,1,,Q,Tomas Zib,Kalle Flygt,2-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 20-Jul-1998,Tampere CH,3,Clay,R16,232,294,1,,,Tomas Zib,Andrei Merinov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Jul-1998,Tampere CH,3,Clay,R32,232,139,1,,1,Tomas Zib,Attila Savolt,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Jul-1998,Germany F12,3,Clay,R16,,,0,3,Q,Martin Spottl,Tomas Zib,2-6 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Jul-1998,Germany F12,3,Clay,R32,,,1,3,Q,Tomas Zib,Bojan Vujic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-1998,Germany F12,3,Clay,R16,251,678,0,3,Q,Martin Spottl,Tomas Zib,2-6 7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-1998,Germany F12,3,Clay,R32,251,629,1,3,Q,Tomas Zib,Bojan Vujic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 22-Jun-1998,Pribram CH,3,Clay,QF,251,228,0,6,4,George Bastl,Tomas Zib,1-6 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Jun-1998,Pribram CH,3,Clay,R16,251,586,1,6,Q,Tomas Zib,Petr Pala,5-0 RET,,,,,,,,,,,,,,,,,,,,,
 22-Jun-1998,Pribram CH,3,Clay,R32,251,320,1,6,,Tomas Zib,Roberto Carretero,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -581,8 +565,8 @@
 6-Apr-1998,San Luis Potosi CH,3,Clay,QF,275,422,1,,Q,Tomas Zib,Kristian Capalik,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Apr-1998,San Luis Potosi CH,3,Clay,R16,275,263,1,,,Tomas Zib,Markus Hantschk,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Apr-1998,San Luis Potosi CH,3,Clay,R32,275,253,1,,,Tomas Zib,Cecil Mamiit,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Mar-1998,Israel F2,3,Hard,R16,,,0,7,,Jonathan Erlich,Tomas Zib,6-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Mar-1998,Israel F2,3,Hard,R32,,,1,7,,Tomas Zib,Filippo Veglio,7-6 6-7 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Mar-1998,Israel F2,3,Hard,R16,274,443,0,7,,Jonathan Erlich,Tomas Zib,6-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Mar-1998,Israel F2,3,Hard,R32,274,306,1,7,,Tomas Zib,Filippo Veglio,7-6 6-7 6-0,,,,,,,,,,,,,,,,,,,,,
 16-Mar-1998,Israel F1,3,Hard,R32,274,326,0,5,,Axel Pretzsch,Tomas Zib,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1998,Germany F2,3,Hard,R32,267,1046,0,3,Q,Jan Ralph Brandt,Tomas Zib,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Feb-1998,Germany F1,3,Carpet,R16,267,729,0,2,WC,Bjorn Phau,Tomas Zib,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -667,8 +651,8 @@
 15-Feb-1997,Philippines Masters 2,3,Hard,R32,327,662,0,,Q,Nam Hoon Kim,Tomas Zib,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Feb-1997,Philippines Masters 3,3,Hard,R32,327,758,1,5,Q,Tomas Zib,Milan Trneny,5-7 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Feb-1997,Philippines Masters 4,3,Hard,R32,327,399,0,5,,Scott Barron,Tomas Zib,6-3 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
-3-Jan-1997,Portugal 1 Masters 3,3,Clay,R32,,,0,,Q,Yahiya Doumbia,Tomas Zib,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
-3-Jan-1997,Portugal 1 Masters 4,3,Clay,R32,,,0,,WC,Vasco Goncalves,Tomas Zib,4-0 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jan-1997,Portugal 1 Masters 3,3,Clay,R32,317,429,0,,Q,Yahiya Doumbia,Tomas Zib,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jan-1997,Portugal 1 Masters 4,3,Clay,R32,317,444,0,,WC,Vasco Goncalves,Tomas Zib,4-0 RET,,,,,,,,,,,,,,,,,,,,,
 14-Oct-1996,Czech Moravian Masters 3,3,Carpet,R16,292,792,0,2,Q,Jan Havel,Tomas Zib,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Oct-1996,Czech Moravian Masters 4,3,Carpet,R16,292,581,0,2,,Radek Stepanek,Tomas Zib,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 14-Oct-1996,Czech Moravian Masters 1,3,Carpet,R32,292,433,0,,,Petr Pala,Tomas Zib,6-3 6-4,,,,,,,,,,,,,,,,,,,,,

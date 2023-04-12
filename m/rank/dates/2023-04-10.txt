@@ -1,0 +1,101 @@
+﻿Date,Rank,Country,Image,Player,Points
+2023-04-10,1,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Novak Djokovic,7160
+2023-04-10,2,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Carlos Alcaraz,6780
+2023-04-10,3,GRE,https://www.atptour.com/en/~/media/images/flags/gre.svg,Stefanos Tsitsipas,5770
+2023-04-10,4,NOR,https://www.atptour.com/en/~/media/images/flags/nor.svg,Casper Ruud,5255
+2023-04-10,5,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Daniil Medvedev,5150
+2023-04-10,6,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Andrey Rublev,3470
+2023-04-10,7,CAN,https://www.atptour.com/en/~/media/images/flags/can.svg,Felix Auger-Aliassime,3450
+2023-04-10,8,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Jannik Sinner,3345
+2023-04-10,9,DEN,https://www.atptour.com/en/~/media/images/flags/den.svg,Holger Rune,3335
+2023-04-10,10,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Taylor Fritz,3065
+2023-04-10,11,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Frances Tiafoe,2870
+2023-04-10,12,RUS,https://www.atptour.com/en/~/media/images/flags/rus.svg,Karen Khachanov,2855
+2023-04-10,13,POL,https://www.atptour.com/en/~/media/images/flags/pol.svg,Hubert Hurkacz,2750
+2023-04-10,14,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Cameron Norrie,2735
+2023-04-10,15,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Rafael Nadal,2715
+2023-04-10,16,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Alexander Zverev,2410
+2023-04-10,17,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Pablo Carreno Busta,2185
+2023-04-10,18,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Tommy Paul,2070
+2023-04-10,19,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Alex de Minaur,2050
+2023-04-10,20,CRO,https://www.atptour.com/en/~/media/images/flags/cro.svg,Borna Coric,1890
+2023-04-10,21,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Lorenzo Musetti,1840
+2023-04-10,22,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Matteo Berrettini,1742
+2023-04-10,23,CRO,https://www.atptour.com/en/~/media/images/flags/cro.svg,Marin Cilic,1690
+2023-04-10,24,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Alejandro Davidovich Fokina,1605
+2023-04-10,25,BUL,https://www.atptour.com/en/~/media/images/flags/bul.svg,Grigor Dimitrov,1485
+2023-04-10,26,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Sebastian Korda,1480
+2023-04-10,27,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Nick Kyrgios,1465
+2023-04-10,28,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Daniel Evans,1425
+2023-04-10,29,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Roberto Bautista Agut,1395
+2023-04-10,30,CAN,https://www.atptour.com/en/~/media/images/flags/can.svg,Denis Shapovalov,1380
+2023-04-10,31,NED,https://www.atptour.com/en/~/media/images/flags/ned.svg,Botic van de Zandschulp,1250
+2023-04-10,32,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Sebastian Baez,1215
+2023-04-10,33,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Francisco Cerundolo,1140
+2023-04-10,34,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Miomir Kecmanovic,1125
+2023-04-10,35,NED,https://www.atptour.com/en/~/media/images/flags/ned.svg,Tallon Griekspoor,1094
+2023-04-10,36,JPN,https://www.atptour.com/en/~/media/images/flags/jpn.svg,Yoshihito Nishioka,1093
+2023-04-10,37,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Diego Schwartzman,1025
+2023-04-10,38,FIN,https://www.atptour.com/en/~/media/images/flags/fin.svg,Emil Ruusuvuori,1021
+2023-04-10,39,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Ben Shelton,1019
+2023-04-10,40,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Maxime Cressy,1016
+2023-04-10,41,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Bernabe Zapata Miralles,987
+2023-04-10,42,CZE,https://www.atptour.com/en/~/media/images/flags/cze.svg,Jiri Lehecka,978
+2023-04-10,43,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Richard Gasquet,930
+2023-04-10,44,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Brandon Nakashima,927
+2023-04-10,45,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Lorenzo Sonego,915
+2023-04-10,46,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,J.J. Wolf,906
+2023-04-10,47,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Adrian Mannarino,906
+2023-04-10,48,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Benjamin Bonzi,901
+2023-04-10,49,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Roberto Carballes Baena,886
+2023-04-10,50,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Albert Ramos-Vinolas,880
+2023-04-10,51,SWE,https://www.atptour.com/en/~/media/images/flags/swe.svg,Mikael Ymer,880
+2023-04-10,52,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Mackenzie McDonald,865
+2023-04-10,53,KAZ,https://www.atptour.com/en/~/media/images/flags/kaz.svg,Alexander Bublik,865
+2023-04-10,54,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Andy Murray,860
+2023-04-10,55,CHN,https://www.atptour.com/en/~/media/images/flags/chn.svg,Yibing Wu,843
+2023-04-10,56,GBR,https://www.atptour.com/en/~/media/images/flags/gbr.svg,Jack Draper,839
+2023-04-10,57,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Gregoire Barrere,838
+2023-04-10,58,CHI,https://www.atptour.com/en/~/media/images/flags/chi.svg,Nicolas Jarry,814
+2023-04-10,59,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Tomas Martin Etcheverry,806
+2023-04-10,60,SUI,https://www.atptour.com/en/~/media/images/flags/sui.svg,Marc-Andrea Huesler,799
+2023-04-10,61,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Constant Lestienne,798
+2023-04-10,62,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Laslo Djere,790
+2023-04-10,63,POR,https://www.atptour.com/en/~/media/images/flags/por.svg,Nuno Borges,783
+2023-04-10,64,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Corentin Moutet,780
+2023-04-10,65,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Pedro Cachin,777
+2023-04-10,66,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Quentin Halys,771
+2023-04-10,67,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Marcos Giron,766
+2023-04-10,68,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,John Isner,765
+2023-04-10,69,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Dusan Lajovic,763
+2023-04-10,70,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Jason Kubler,753
+2023-04-10,71,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Jenson Brooksby,740
+2023-04-10,72,SVK,https://www.atptour.com/en/~/media/images/flags/svk.svg,Alex Molcan,735
+2023-04-10,73,HUN,https://www.atptour.com/en/~/media/images/flags/hun.svg,Marton Fucsovics,732
+2023-04-10,74,BLR,https://www.atptour.com/en/~/media/images/flags/blr.svg,Ilya Ivashka,721
+2023-04-10,75,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Arthur Rinderknech,721
+2023-04-10,76,ARG,https://www.atptour.com/en/~/media/images/flags/arg.svg,Federico Coria,721
+2023-04-10,77,KOR,https://www.atptour.com/en/~/media/images/flags/kor.svg,Soonwoo Kwon,719
+2023-04-10,78,SRB,https://www.atptour.com/en/~/media/images/flags/srb.svg,Filip Krajinovic,715
+2023-04-10,79,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Ugo Humbert,713
+2023-04-10,80,BRA,https://www.atptour.com/en/~/media/images/flags/bra.svg,Thiago Monteiro,689
+2023-04-10,81,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Marco Cecchinato,688
+2023-04-10,82,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Christopher O'Connell,686
+2023-04-10,83,ESP,https://www.atptour.com/en/~/media/images/flags/esp.svg,Jaume Munar,685
+2023-04-10,84,CHI,https://www.atptour.com/en/~/media/images/flags/chi.svg,Cristian Garin,678
+2023-04-10,85,BEL,https://www.atptour.com/en/~/media/images/flags/bel.svg,David Goffin,675
+2023-04-10,86,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Max Purcell,666
+2023-04-10,87,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Christopher Eubanks,660
+2023-04-10,88,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Luca Van Assche,658
+2023-04-10,89,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Jordan Thompson,655
+2023-04-10,90,SUI,https://www.atptour.com/en/~/media/images/flags/sui.svg,Stan Wawrinka,647
+2023-04-10,91,PER,https://www.atptour.com/en/~/media/images/flags/per.svg,Juan Pablo Varillas,647
+2023-04-10,92,COL,https://www.atptour.com/en/~/media/images/flags/col.svg,Daniel Elahi Galan,641
+2023-04-10,93,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Oscar Otte,641
+2023-04-10,94,AUS,https://www.atptour.com/en/~/media/images/flags/aus.svg,Alexei Popyrin,631
+2023-04-10,95,CHN,https://www.atptour.com/en/~/media/images/flags/chn.svg,Zhizhen Zhang,625
+2023-04-10,96,FRA,https://www.atptour.com/en/~/media/images/flags/fra.svg,Alexandre Muller,614
+2023-04-10,97,ITA,https://www.atptour.com/en/~/media/images/flags/ita.svg,Fabio Fognini,613
+2023-04-10,98,JPN,https://www.atptour.com/en/~/media/images/flags/jpn.svg,Taro Daniel,587
+2023-04-10,99,USA,https://www.atptour.com/en/~/media/images/flags/usa.svg,Michael Mmoh,582
+2023-04-10,100,GER,https://www.atptour.com/en/~/media/images/flags/ger.svg,Jan-Lennard Struff,574

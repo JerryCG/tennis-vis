@@ -1,7 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Mar-2023,Girona CH,3,Clay,R32,321,128,0,Q,4,Fabian Marozsan,Alvaro Lopez San Martin,7-6(3) 2-6 7-6(5),1.14,3.8%,0.0%,71.7%,64.5%,50.0%,5/9,52.2%,45.2%,1.6%,37.5%,55.8%,6/14,230,4,0,106,76,30,2,2:35
-26-Mar-2023,Girona CH,3,Clay,Q2,321,662,1,,WC,Alvaro Lopez San Martin,Eduard Esteve Lobato,6-7(4) 6-4 6-2,1.23,4.2%,4.2%,72.6%,66.7%,46.2%,5/9,54.3%,48.0%,3.9%,36.6%,74.2%,7/10,197,4,4,95,69,26,4,2:29
-26-Mar-2023,Girona CH,3,Clay,Q1,321,268,1,,4,Alvaro Lopez San Martin,Daniel Dutra Da Silva,6-2 6-2,1.90,8.9%,6.7%,60.0%,88.9%,50.0%,0/0,59.8%,50.7%,0.0%,34.3%,68.8%,4/14,112,4,3,45,27,18,0,1:17
+3-Apr-2023,Murcia CH,3,Clay,R16,316,319,0,LL,,Mikhail Kukushkin,Alvaro Lopez San Martin,6-1 6-6 RET,0.72,3.8%,0.0%,73.6%,61.5%,35.7%,1/4,43.0%,32.8%,1.6%,30.0%,45.5%,1/3,114,2,0,53,39,14,1,1:33
+3-Apr-2023,Murcia CH,3,Clay,R32,316,772,1,LL,Q,Alvaro Lopez San Martin,Edas Butvilas,6-2 6-7(2) 6-2,1.43,2.5%,2.5%,72.8%,74.6%,59.1%,3/4,54.6%,42.3%,1.0%,34.4%,53.5%,5/13,185,2,2,81,59,22,1,2:18
+3-Apr-2023,Murcia CH,3,Clay,Q2,316,433,0,5,9,Carlos Sanchez Jover,Alvaro Lopez San Martin,6-1 6-4,0.71,1.8%,0.0%,56.4%,48.4%,41.7%,3/8,42.0%,38.6%,1.8%,40.0%,35.3%,2/6,112,1,0,55,31,24,1,1:22
+3-Apr-2023,Murcia CH,3,Clay,Q1,316,697,1,5,,Alvaro Lopez San Martin,Chak Lam Coleman Wong,6-2 6-3,1.87,6.4%,0.0%,74.5%,68.6%,91.7%,3/3,58.8%,47.8%,1.5%,40.0%,59.3%,4/8,114,3,0,47,35,12,1,1:21
+27-Mar-2023,Girona CH,3,Clay,R32,321,128,0,Q,4,Fabian Marozsan,Alvaro Lopez San Martin,7-6(3) 2-6 7-6(5),1.14,3.8%,0.0%,71.7%,64.5%,50.0%,5/9,52.2%,45.2%,1.6%,37.5%,55.8%,6/14,230,4,0,106,76,30,2,2:35
+27-Mar-2023,Girona CH,3,Clay,Q2,321,662,1,,WC,Alvaro Lopez San Martin,Eduard Esteve Lobato,6-7(4) 6-4 6-2,1.23,4.2%,4.2%,72.6%,66.7%,46.2%,5/9,54.3%,48.0%,3.9%,36.6%,74.2%,7/10,197,4,4,95,69,26,4,2:29
+27-Mar-2023,Girona CH,3,Clay,Q1,321,268,1,,4,Alvaro Lopez San Martin,Daniel Dutra Da Silva,6-2 6-2,1.90,8.9%,6.7%,60.0%,88.9%,50.0%,0/0,59.8%,50.7%,0.0%,34.3%,68.8%,4/14,112,4,3,45,27,18,0,1:17
 12-Mar-2023,Vina Del Mar CH,3,Clay,QF,353,184,0,Q,,Tomas Barrios Vera,Alvaro Lopez San Martin,7-5 6-4,0.95,1.4%,1.4%,70.8%,62.7%,47.6%,7/11,48.1%,39.5%,1.2%,38.6%,41.4%,2/10,158,1,1,72,51,21,1,2:06
 12-Mar-2023,Vina Del Mar CH,3,Clay,R16,353,259,1,Q,,Alvaro Lopez San Martin,Juan Bautista Torres,4-6 6-4 6-2,1.11,1.0%,2.0%,65.3%,59.1%,42.9%,7/13,52.5%,51.5%,0.0%,47.6%,57.9%,8/16,202,1,2,101,66,35,0,3:07
 12-Mar-2023,Vina Del Mar CH,3,Clay,R32,353,180,1,Q,7,Alvaro Lopez San Martin,Luciano Darderi,6-2 5-7 6-1,1.16,3.2%,2.1%,56.8%,66.7%,53.7%,7/9,53.2%,45.2%,2.2%,35.8%,57.5%,6/12,188,3,2,95,54,41,2,2:34
@@ -17,7 +21,7 @@
 30-Jan-2023,Tenerife 2 CH,3,Hard,Q2,351,312,0,,9,Alejandro Moro Canas,Alvaro Lopez San Martin,6-0 4-6 6-4,0.80,3.5%,4.7%,66.3%,56.1%,27.6%,2/9,44.7%,42.9%,8.3%,35.2%,56.7%,4/7,170,3,4,86,57,29,7,2:08
 30-Jan-2023,Tenerife 2 CH,3,Hard,Q1,351,271,1,,4,Alvaro Lopez San Martin,Nikolas Sanchez Izquierdo,7-5 7-6(5),1.12,7.7%,6.6%,71.4%,70.8%,34.6%,7/10,52.1%,44.4%,0.0%,43.8%,45.7%,4/15,190,7,6,91,65,26,0,2:18
 23-Jan-2023,M25 Manacor,3,Hard,QF,384,375,0,6,4,Sebastian Fanselow,Alvaro Lopez San Martin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2023,M25 Manacor,3,Hard,R16,384,522,1,6,,Alvaro Lopez San Martin,Daniel Merida Aguilar ,0-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2023,M25 Manacor,3,Hard,R16,384,522,1,6,,Alvaro Lopez San Martin,Daniel Merida Aguilar,0-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M25 Manacor,3,Hard,R32,384,899,1,6,Q,Alvaro Lopez San Martin,Leonid Sheyngezikht,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M25 Manacor,3,Hard,QF,384,334,0,6,2,Alexey Vatutin,Alvaro Lopez San Martin,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M25 Manacor,3,Hard,R16,384,869,1,6,Q,Alvaro Lopez San Martin,Amaury Raynel,6-1 6-0,,,,,,,,,,,,,,,,,,,,,

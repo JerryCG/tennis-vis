@@ -1,12 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Mar-2023,Mexico City CH,3,Clay,SF,248,262,0,Q,Q,Dominik Koepfer,Maximilian Neuchrist,6-2 6-4,0.45,7.0%,12.3%,56.1%,62.5%,36.0%,4/8,38.2%,22.2%,8.9%,15.4%,31.6%,1/3,102,4,7,57,32,25,4,1:11
-26-Mar-2023,Mexico City CH,3,Clay,QF,248,175,1,Q,,Maximilian Neuchrist,Antoine Bellier,7-6(4) 7-6(5),1.03,10.1%,1.3%,55.7%,77.3%,71.4%,3/3,50.6%,26.0%,22.1%,17.1%,36.1%,0/2,156,8,1,79,44,35,17,1:51
-26-Mar-2023,Mexico City CH,3,Clay,R16,248,164,1,Q,7,Maximilian Neuchrist,Felipe Meligeni Alves,7-6(2) 7-6(5),1.23,6.5%,2.6%,53.2%,73.2%,63.9%,2/4,52.0%,38.3%,10.6%,28.3%,51.2%,2/10,171,5,2,77,41,36,10,2:01
-26-Mar-2023,Mexico City CH,3,Clay,R32,248,215,1,Q,,Maximilian Neuchrist,Mitchell Krueger,6-4 1-6 6-1,1.16,13.5%,6.8%,47.3%,80.0%,46.2%,6/9,53.0%,44.0%,6.7%,24.2%,59.5%,4/6,149,10,5,74,35,39,5,2:04
-26-Mar-2023,Mexico City CH,3,Clay,Q2,248,380,1,1,11,Maximilian Neuchrist,Benjamin Lock,7-6(2) 6-7(4) 6-3,1.29,8.4%,5.3%,53.7%,78.4%,59.1%,0/2,53.1%,39.3%,9.8%,30.9%,52.3%,4/5,207,8,5,95,51,44,11,2:58
-26-Mar-2023,Mexico City CH,3,Clay,Q1,248,438,1,1,,Maximilian Neuchrist,Gustavo Heide,7-6(5) 6-2,1.09,10.5%,2.6%,60.5%,69.6%,53.3%,7/7,52.9%,40.3%,6.5%,25.0%,50.0%,2/4,138,8,2,76,46,30,4,1:45
-19-Mar-2023,Biel_Bienne CH,3,Hard,R16,248,161,0,,4,Liam Broady,Maximilian Neuchrist,6-4 7-5,1.03,4.8%,0.0%,72.6%,80.0%,41.2%,0/2,48.6%,31.6%,9.2%,28.9%,35.5%,0/6,138,3,0,62,45,17,7,1:35
-19-Mar-2023,Biel_Bienne CH,3,Hard,R32,248,250,1,,,Maximilian Neuchrist,Omar Jasika,6-4 6-4,1.06,7.0%,0.0%,62.0%,72.7%,55.6%,5/5,52.8%,35.7%,3.6%,32.4%,40.9%,2/4,127,5,0,71,44,27,2,1:35
+3-Apr-2023,San Luis Potosi CH,3,Clay,QF,206,179,0,,,Dominik Koepfer,Maximilian Neuchrist,4-6 6-1 6-4,0.94,3.5%,2.3%,54.7%,70.2%,46.2%,6/10,48.1%,38.4%,4.0%,25.8%,59.5%,2/7,185,3,2,86,47,39,4,2:08
+3-Apr-2023,San Luis Potosi CH,3,Clay,R16,206,190,1,,4,Maximilian Neuchrist,Renzo Olivo,6-4 4-1 RET,1.82,0.0%,5.0%,70.0%,85.7%,41.7%,4/5,59.0%,50.0%,0.0%,40.5%,65.2%,4/8,100,0,2,40,28,12,0,1:19
+3-Apr-2023,San Luis Potosi CH,3,Clay,R32,206,340,1,,,Maximilian Neuchrist,Jason Jung,6-0 7-6(3),1.95,18.5%,3.7%,66.7%,80.6%,66.7%,2/3,60.2%,46.9%,3.1%,40.5%,55.6%,4/6,118,10,2,54,36,18,2,1:19
+27-Mar-2023,Mexico City CH,3,Clay,SF,248,262,0,Q,Q,Dominik Koepfer,Maximilian Neuchrist,6-2 6-4,0.45,7.0%,12.3%,56.1%,62.5%,36.0%,4/8,38.2%,22.2%,8.9%,15.4%,31.6%,1/3,102,4,7,57,32,25,4,1:11
+27-Mar-2023,Mexico City CH,3,Clay,QF,248,175,1,Q,,Maximilian Neuchrist,Antoine Bellier,7-6(4) 7-6(5),1.03,10.1%,1.3%,55.7%,77.3%,71.4%,3/3,50.6%,26.0%,22.1%,17.1%,36.1%,0/2,156,8,1,79,44,35,17,1:51
+27-Mar-2023,Mexico City CH,3,Clay,R16,248,164,1,Q,7,Maximilian Neuchrist,Felipe Meligeni Alves,7-6(2) 7-6(5),1.23,6.5%,2.6%,53.2%,73.2%,63.9%,2/4,52.0%,38.3%,10.6%,28.3%,51.2%,2/10,171,5,2,77,41,36,10,2:01
+27-Mar-2023,Mexico City CH,3,Clay,R32,248,215,1,Q,,Maximilian Neuchrist,Mitchell Krueger,6-4 1-6 6-1,1.16,13.5%,6.8%,47.3%,80.0%,46.2%,6/9,53.0%,44.0%,6.7%,24.2%,59.5%,4/6,149,10,5,74,35,39,5,2:04
+27-Mar-2023,Mexico City CH,3,Clay,Q2,248,380,1,1,11,Maximilian Neuchrist,Benjamin Lock,7-6(2) 6-7(4) 6-3,1.29,8.4%,5.3%,53.7%,78.4%,59.1%,0/2,53.1%,39.3%,9.8%,30.9%,52.3%,4/5,207,8,5,95,51,44,11,2:58
+27-Mar-2023,Mexico City CH,3,Clay,Q1,248,438,1,1,,Maximilian Neuchrist,Gustavo Heide,7-6(5) 6-2,1.09,10.5%,2.6%,60.5%,69.6%,53.3%,7/7,52.9%,40.3%,6.5%,25.0%,50.0%,2/4,138,8,2,76,46,30,4,1:45
+20-Mar-2023,Biel-Bienne CH,3,Hard,R16,248,161,0,,4,Liam Broady,Maximilian Neuchrist,6-4 7-5,1.03,4.8%,0.0%,72.6%,80.0%,41.2%,0/2,48.6%,31.6%,9.2%,28.9%,35.5%,0/6,138,3,0,62,45,17,7,1:35
+20-Mar-2023,Biel-Bienne CH,3,Hard,R32,248,250,1,,,Maximilian Neuchrist,Omar Jasika,6-4 6-4,1.06,7.0%,0.0%,62.0%,72.7%,55.6%,5/5,52.8%,35.7%,3.6%,32.4%,40.9%,2/4,127,5,0,71,44,27,2,1:35
 13-Mar-2023,M25 Trimbach,3,Carpet,SF,250,318,0,1,5,Beibit Zhukayev,Maximilian Neuchrist,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Mar-2023,M25 Trimbach,3,Carpet,QF,250,432,1,1,8,Maximilian Neuchrist,Karl Friberg,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Mar-2023,M25 Trimbach,3,Carpet,R16,250,1246,1,1,Q,Maximilian Neuchrist,Nico Hornitschek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

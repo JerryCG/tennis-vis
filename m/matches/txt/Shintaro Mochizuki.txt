@@ -1,6 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Mar-2023,Girona CH,3,Clay,Q1,271,376,0,5,,Alex Marti Pujolras,Shintaro Mochizuki,6-0 6-3,0.56,0.0%,16.4%,49.1%,66.7%,21.4%,5/10,38.4%,31.8%,9.1%,25.0%,43.8%,1/2,99,0,9,55,27,28,4,1:02
-19-Mar-2023,Saint Brieuc CH,3,Hard,R32,271,224,0,,5,Gauthier Onclin,Shintaro Mochizuki,6-2 6-4,0.62,3.8%,3.8%,62.3%,57.6%,25.0%,3/8,39.6%,34.0%,1.9%,28.1%,42.9%,2/4,106,2,2,53,33,20,1,1:13
+9-Apr-2023,Split CH,3,Clay,R32,216,238,1,SE,Alt,Shintaro Mochizuki,Harold Mayot,6-2 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Apr-2023,Barletta CH,3,Clay,F,276,254,1,,,Shintaro Mochizuki,Santiago Fa Rodriguez Taverna,6-1 6-4,1.48,0.0%,0.0%,58.0%,75.9%,71.4%,0/0,58.4%,38.5%,5.1%,28.6%,50.0%,3/3,89,0,0,50,29,21,2,1:02
+3-Apr-2023,Barletta CH,3,Clay,SF,276,168,1,,3,Shintaro Mochizuki,Franco Agamenone,6-4 5-7 6-2,1.27,3.1%,5.2%,62.5%,73.3%,55.6%,6/8,53.7%,42.2%,0.9%,34.4%,53.3%,4/12,205,3,5,96,60,36,1,2:35
+3-Apr-2023,Barletta CH,3,Clay,QF,276,169,1,,,Shintaro Mochizuki,Zsombor Piros,6-4 6-1,1.45,5.2%,6.9%,51.7%,73.3%,50.0%,3/4,58.6%,55.2%,3.4%,52.8%,59.1%,5/7,116,3,4,58,30,28,2,1:15
+3-Apr-2023,Barletta CH,3,Clay,R16,276,266,1,,,Shintaro Mochizuki,Juan Bautista Torres,6-2 7-5,1.28,4.7%,1.6%,48.4%,67.7%,54.5%,5/7,55.5%,50.0%,0.0%,46.7%,57.9%,5/8,128,3,1,64,31,33,0,1:37
+3-Apr-2023,Barletta CH,3,Clay,R32,276,448,1,,WC,Shintaro Mochizuki,Federico Arnaboldi,6-2 6-3,1.35,5.3%,5.3%,45.6%,57.7%,64.5%,3/4,56.9%,51.9%,0.0%,50.0%,56.3%,5/5,109,3,3,57,26,31,0,1:24
+27-Mar-2023,Girona CH,3,Clay,Q1,271,376,0,5,,Alex Marti Pujolras,Shintaro Mochizuki,6-0 6-3,0.56,0.0%,16.4%,49.1%,66.7%,21.4%,5/10,38.4%,31.8%,9.1%,25.0%,43.8%,1/2,99,0,9,55,27,28,4,1:02
+20-Mar-2023,Saint Brieuc CH,3,Hard,R32,271,224,0,,5,Gauthier Onclin,Shintaro Mochizuki,6-2 6-4,0.62,3.8%,3.8%,62.3%,57.6%,25.0%,3/8,39.6%,34.0%,1.9%,28.1%,42.9%,2/4,106,2,2,53,33,20,1,1:13
 6-Mar-2023,Puerto Vallarta CH,3,Hard,R16,274,230,0,,,Gastao Elias,Shintaro Mochizuki,6-3 2-6 7-6(5),0.89,1.9%,1.9%,45.6%,59.6%,53.6%,7/12,48.4%,39.1%,2.3%,33.3%,43.8%,5/8,190,2,2,103,47,56,2,2:26
 6-Mar-2023,Puerto Vallarta CH,3,Hard,R32,274,1257,1,,WC,Shintaro Mochizuki,Rodrigo Pacheco Mendez,7-5 6-3,1.11,0.0%,4.1%,56.1%,63.6%,55.8%,10/11,53.1%,44.3%,3.8%,40.0%,48.7%,4/15,177,0,4,98,55,43,3,2:06
 27-Feb-2023,Waco CH,3,Hard,QF,299,127,0,Q,6,Borna Gojo,Shintaro Mochizuki,6-2 4-0 RET,0.34,0.0%,7.5%,57.5%,47.8%,35.3%,6/10,32.4%,19.4%,16.1%,15.4%,40.0%,0/0,71,0,3,40,23,17,5,0:55
