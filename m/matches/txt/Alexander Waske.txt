@@ -1,7 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-24-Oct-2011,St. Petersburg Q,3,Hard,Q2,,127,0,,2,Teymuraz Gabashvili,Alexander Waske,6-1 6-4,0.74,1.8%,9.1%,52.7%,69.0%,30.8%,2/6,43.0%,36.4%,3.0%,28.9%,52.4%,1/2,121,1,5,55,29,26,2,1:13
-24-Oct-2011,St. Petersburg Q,3,Hard,Q1,,547,1,,WC,Alexander Waske,Mikhail Elgin,6-3 6-4,1.13,2.8%,4.2%,62.5%,73.3%,40.7%,3/5,53.5%,43.9%,12.3%,21.9%,72.0%,4/8,129,2,3,72,45,27,7,1:20
-29-Aug-2011,US Open Q,3,Hard,Q1,,248,0,,,Adrian Menendez Maceiras,Alexander Waske,4-6 7-6(7) 6-4,0.85,16.0%,7.0%,59.0%,83.1%,51.2%,5/6,48.9%,25.6%,7.8%,23.1%,28.9%,1/1,190,16,7,100,59,41,7,2:17
+24-Oct-2011,St. Petersburg,3,Hard,Q2,,127,0,,2,Teymuraz Gabashvili,Alexander Waske,6-1 6-4,0.74,1.8%,9.1%,52.7%,69.0%,30.8%,2/6,43.0%,36.4%,3.0%,28.9%,52.4%,1/2,121,1,5,55,29,26,2,1:13
+24-Oct-2011,St. Petersburg,3,Hard,Q1,,547,1,,WC,Alexander Waske,Mikhail Elgin,6-3 6-4,1.13,2.8%,4.2%,62.5%,73.3%,40.7%,3/5,53.5%,43.9%,12.3%,21.9%,72.0%,4/8,129,2,3,72,45,27,7,1:20
+29-Aug-2011,US Open,5,Hard,Q1,,248,0,,,Adrian Menendez Maceiras,Alexander Waske,4-6 7-6(7) 6-4,0.85,16.0%,7.0%,59.0%,83.1%,51.2%,5/6,48.9%,25.6%,7.8%,23.1%,28.9%,1/1,190,16,7,100,59,41,7,2:17
 3-Nov-2008,Eckental CH,3,Carpet,SF,1109,93,0,WC,2,Roko Karanusic,Alexander Waske,W/O,,,,,,,,,,,,,,,,,,,,,
 3-Nov-2008,Eckental CH,3,Carpet,QF,1109,206,1,WC,,Alexander Waske,Stefan Koubek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Nov-2008,Eckental CH,3,Carpet,R16,1109,112,1,WC,3,Alexander Waske,Andreas Beck,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -78,11 +78,12 @@
 10-Jul-2006,Bastad,3,Clay,R16,97,9,0,,2,Tommy Robredo,Alexander Waske,6-3 6-1,0.47,1.4%,7.1%,58.6%,56.1%,41.4%,4/8,39.3%,23.4%,0.0%,17.1%,41.7%,0/0,117,1,5,70,41,29,0,1:12
 10-Jul-2006,Bastad,3,Clay,R32,97,29,1,,,Alexander Waske,Jonas Bjorkman,6-4 4-6 6-3,1.02,4.5%,5.5%,54.5%,66.7%,42.0%,8/12,51.0%,45.5%,4.5%,31.3%,62.5%,6/15,198,5,6,110,60,50,4,2:39
 26-Jun-2006,Wimbledon,5,Grass,R128,90,141,0,,Q,Stefano Galvani,Alexander Waske,4-6 7-6(2) 6-4 3-6 16-14,0.99,21.6%,6.4%,63.2%,79.8%,56.0%,8/11,49.4%,28.6%,4.7%,18.5%,46.2%,3/14,417,44,13,204,129,75,10,4:56
-19-Jun-2006,'s-Hertogenbosch,3,Grass,R32,89,40,0,,8,Novak Djokovic,Alexander Waske,6-7(9) 7-6(4) 7-6(4),0.96,14.3%,9.5%,61.1%,79.2%,57.1%,2/3,49.8%,28.1%,8.3%,13.2%,47.2%,1/3,247,18,12,126,77,49,10,3:02
+19-Jun-2006,s Hertogenbosch,3,Grass,R32,89,40,0,,8,Novak Djokovic,Alexander Waske,6-7(9) 7-6(4) 7-6(4),0.96,14.3%,9.5%,61.1%,79.2%,57.1%,2/3,49.8%,28.1%,8.3%,13.2%,47.2%,1/3,247,18,12,126,77,49,10,3:02
 12-Jun-2006,Halle,3,Grass,R32,89,29,0,WC,7,Olivier Rochus,Alexander Waske,2-6 6-4 6-3,0.95,17.5%,6.3%,60.0%,77.1%,50.0%,5/7,48.8%,32.1%,3.6%,26.0%,41.2%,2/5,164,14,5,80,48,32,3,1:54
 29-May-2006,Roland Garros,5,Clay,R64,94,25,0,,23,Tommy Haas,Alexander Waske,6-4 7-5 6-7(6) 6-4,0.89,10.1%,2.9%,64.5%,74.2%,49.0%,3/7,47.4%,30.9%,10.7%,21.7%,45.6%,1/10,287,14,4,138,89,49,16,3:17
 29-May-2006,Roland Garros,5,Clay,R128,94,87,1,,,Alexander Waske,Fernando Vicente,6-4 4-6 7-6(6) 7-6(4),1.08,7.3%,2.0%,65.6%,72.7%,50.0%,6/11,51.9%,38.0%,2.8%,34.6%,47.4%,5/11,293,11,3,151,99,52,4,3:26
 22-May-2006,Dusseldorf,3,Clay,F,92,51,0,,,Ivo Karlovic,Alexander Waske,7-6(5) 6-4,0.93,0.0%,3.0%,64.2%,74.4%,62.5%,4/6,49.2%,27.7%,16.9%,17.8%,50.0%,1/3,132,0,2,67,43,24,11,1:30
+22-May-2006,Dusseldorf,3,Clay,RR,92,29,0,,,Jose Acasuso,Alexander Waske,4-6 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
 15-May-2006,Hamburg Masters,3,Clay,R64,92,13,0,Q,12,Mario Ancic,Alexander Waske,6-2 7-5,0.90,9.8%,7.8%,66.7%,70.6%,35.3%,1/5,45.5%,37.0%,8.6%,28.3%,48.6%,1/9,132,5,4,51,34,17,7,1:38
 1-May-2006,Munich,3,Clay,R16,91,20,0,WC,3,Jarkko Nieminen,Alexander Waske,7-6(2) 6-3,0.71,8.1%,5.4%,62.2%,69.6%,46.4%,3/5,45.1%,27.9%,4.4%,20.9%,40.0%,1/3,142,6,4,74,46,28,3,1:52
 1-May-2006,Munich,3,Clay,R32,91,75,1,WC,,Alexander Waske,Florian Mayer,7-6(4) 6-3,1.20,9.9%,2.8%,73.2%,73.1%,52.6%,3/4,53.1%,38.9%,6.9%,38.0%,40.9%,3/7,143,7,2,71,52,19,5,1:30
@@ -93,7 +94,7 @@
 3-Apr-2006,Aguascalientes CH,3,Clay,R32,99,202,0,1,,Noam Okun,Alexander Waske,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 27-Mar-2006,Mexico City CH,3,Clay,R16,99,575,0,3,Q,Edgardo Massa,Alexander Waske,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Mar-2006,Mexico City CH,3,Clay,R32,99,122,1,3,,Alexander Waske,Kevin Kim,7-6(3) 7-6(0),,,,,,,,,,,,,,,,,,,,,
-13-Mar-2006,Sarajevo CH,3,Hard,R32,96,,0,1,WC,Marin Cilic,Alexander Waske,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Sarajevo CH,3,Hard,R32,96,397,0,1,WC,Marin Cilic,Alexander Waske,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 27-Feb-2006,Wolfsburg CH,3,Carpet,F,104,86,1,2,1,Alexander Waske,Jimmy Wang,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Feb-2006,Wolfsburg CH,3,Carpet,SF,104,121,1,2,3,Alexander Waske,Michael Berrer,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Feb-2006,Wolfsburg CH,3,Carpet,QF,104,423,1,2,Q,Alexander Waske,Aisam Ul Haq Qureshi,6-3 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
@@ -140,6 +141,7 @@
 5-Sep-2005,Istanbul CH,3,Hard,QF,114,92,1,7,3,Alexander Waske,Jiri Vanek,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2005,Istanbul CH,3,Hard,R16,114,135,1,7,,Alexander Waske,Simon Greul,6-7(5) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2005,Istanbul CH,3,Hard,R32,114,,1,7,WC,Alexander Waske,Tony Ro,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,Q1,114,186,0,12,,Alex Bogomolov Jr,Alexander Waske,6-4 7-6(11),,,,,,,,,,,,,,,,,,,,,
 18-Jul-2005,Stuttgart,3,Clay,R16,121,7,0,WC,2,Nikolay Davydenko,Alexander Waske,7-6(3) 6-3,0.77,8.6%,5.7%,50.0%,65.7%,48.6%,3/6,45.0%,32.9%,2.9%,28.0%,45.0%,2/3,140,6,4,70,35,35,2,1:31
 18-Jul-2005,Stuttgart,3,Clay,R32,121,44,1,WC,13,Alexander Waske,Jose Acasuso,7-5 6-4,1.50,18.2%,3.6%,69.1%,76.3%,58.8%,1/3,55.6%,43.7%,8.5%,35.3%,51.4%,4/7,126,10,2,55,38,17,6,1:19
 18-Jul-2005,Stuttgart,3,Clay,R64,121,108,1,WC,,Alexander Waske,Jerome Haehnel,7-5 6-2,1.48,13.6%,3.4%,62.7%,81.1%,45.5%,3/5,57.3%,47.7%,6.2%,38.9%,58.6%,5/13,124,8,2,59,37,22,4,1:15
@@ -148,6 +150,7 @@
 4-Jul-2005,Newport,3,Grass,QF,134,92,0,,7,Paul Goldstein,Alexander Waske,6-3 3-6 7-6(5),1.13,11.9%,6.9%,55.4%,73.2%,60.0%,8/9,51.2%,36.8%,1.8%,34.7%,47.4%,1/8,215,12,7,101,56,45,2,2:05
 4-Jul-2005,Newport,3,Grass,R16,134,121,1,,,Alexander Waske,Daniele Bracciali,7-6(7) 7-6(6),1.20,14.6%,4.9%,62.2%,84.3%,54.8%,3/4,51.7%,32.2%,10.0%,20.0%,42.0%,1/3,172,12,4,82,51,31,9,2:01
 4-Jul-2005,Newport,3,Grass,R32,134,177,1,,,Alexander Waske,Gilles Elseneer,7-6(5) 4-6 6-4,0.99,19.1%,6.7%,47.2%,83.3%,66.0%,0/1,49.2%,25.5%,9.6%,18.0%,39.4%,1/5,183,17,6,89,42,47,9,1:57
+20-Jun-2005,Wimbledon,5,Grass,Q1,140,159,0,29,,Ivo Heuberger,Alexander Waske,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Jun-2005,Halle,3,Grass,R16,147,34,0,WC,WC,Juan Carlos Ferrero,Alexander Waske,7-6(5) 6-7(7) 6-3,0.95,18.4%,6.1%,64.0%,82.2%,53.7%,8/9,48.3%,26.6%,8.9%,25.8%,28.6%,0/7,238,21,7,114,73,41,11,2:35
 6-Jun-2005,Halle,3,Grass,R32,147,3,1,WC,3,Alexander Waske,Rafael Nadal,4-6 7-5 6-3,0.97,12.5%,8.3%,59.4%,84.2%,51.3%,7/8,51.7%,28.2%,2.6%,19.6%,50.0%,2/3,174,12,8,96,57,39,2,1:51
 9-May-2005,Hamburg Masters,3,Clay,R64,139,16,0,WC,14,Tommy Robredo,Alexander Waske,4-6 7-5 6-3,0.79,2.8%,3.8%,61.3%,61.5%,43.9%,9/14,46.1%,35.6%,4.6%,28.8%,45.7%,4/5,193,3,4,106,65,41,4,2:04
@@ -163,8 +166,10 @@
 7-Feb-2005,Belgrade CH,3,Carpet,QF,135,182,0,2,,Alex Bogdanovic,Alexander Waske,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 7-Feb-2005,Belgrade CH,3,Carpet,R16,135,247,1,2,WC,Alexander Waske,Dusan Vemic,5-7 7-6(3) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 7-Feb-2005,Belgrade CH,3,Carpet,R32,135,465,1,2,LL,Alexander Waske,Alexander Flock,7-6(8) 7-5,,,,,,,,,,,,,,,,,,,,,
-31-Jan-2005,Andrezieux CH,3,Hard,R16,132,153,0,6,,Stanislas Wawrinka,Alexander Waske,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-Jan-2005,Andrezieux CH,3,Hard,R16,132,153,0,6,,Stan Wawrinka,Alexander Waske,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
 31-Jan-2005,Andrezieux CH,3,Hard,R32,132,925,1,6,Q,Alexander Waske,Julien Maigret,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q2,136,199,0,14,,Paul Goldstein,Alexander Waske,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jan-2005,Australian Open,5,Hard,Q1,136,478,1,14,WC,Alexander Waske,Joseph Sirianni,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Dec-2004,Ischgl CH,3,Carpet,SF,141,163,0,3,2,Daniele Bracciali,Alexander Waske,7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Dec-2004,Ischgl CH,3,Carpet,QF,141,348,1,3,Q,Alexander Waske,Igor Zelenay,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Dec-2004,Ischgl CH,3,Carpet,R16,141,213,1,3,,Alexander Waske,Sasa Tuksar,7-6(8) 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -202,8 +207,12 @@
 12-Jul-2004,Stuttgart,3,Clay,R64,191,84,0,WC,,Alexander Popp,Alexander Waske,6-2 1-6 6-1,0.85,7.2%,4.3%,53.6%,70.3%,50.0%,4/8,47.7%,33.3%,0.0%,25.0%,60.0%,2/6,132,5,3,69,37,32,0,1:24
 5-Jul-2004,Oberstaufen CH,3,Clay,R32,190,294,0,4,,Lukasz Kubot,Alexander Waske,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Jun-2004,Zell CH,3,Clay,R32,188,158,0,,5,Philipp Kohlschreiber,Alexander Waske,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Wimbledon,5,Grass,Q1,188,98,0,,2,Olivier Mutis,Alexander Waske,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2004,Halle,3,Grass,R32,187,37,0,WC,,Arnaud Clement,Alexander Waske,6-1 6-4,0.38,10.8%,15.4%,44.6%,69.0%,38.9%,8/11,38.5%,18.2%,4.5%,0.0%,32.0%,0/0,109,7,10,65,29,36,2,1:15
 24-May-2004,Turin CH,3,Clay,R32,174,959,0,7,WC,Fabio Fognini,Alexander Waske,5-7 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q3,174,224,0,,,Florent Serra,Alexander Waske,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q2,174,139,1,,18,Alexander Waske,Franco Squillari,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q1,174,168,1,,,Alexander Waske,Michel Kratochvil,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Apr-2004,Munich,3,Clay,QF,194,72,0,Q,,Olivier Rochus,Alexander Waske,3-6 6-3 6-4,1.09,17.9%,2.4%,71.4%,78.3%,45.8%,5/7,50.3%,33.7%,5.3%,31.5%,40.9%,1/4,179,15,2,84,60,24,5,1:50
 26-Apr-2004,Munich,3,Clay,R16,194,34,1,Q,5,Alexander Waske,Vincent Spadea,3-6 7-5 7-6(4),1.17,11.2%,1.0%,71.4%,71.4%,60.7%,2/5,51.7%,37.2%,4.4%,36.1%,39.0%,3/9,211,11,1,98,70,28,5,2:19
 26-Apr-2004,Munich,3,Clay,R32,194,454,1,Q,WC,Alexander Waske,Goran Ivanisevic,6-4 7-6(0),1.82,13.8%,1.7%,60.3%,85.7%,78.3%,0/0,55.2%,31.3%,19.4%,21.1%,44.8%,1/3,125,8,1,58,35,23,13,1:17
@@ -235,6 +244,8 @@
 25-Aug-2003,Freudenstadt CH,3,Clay,QF,123,113,1,5,3,Alexander Waske,Oscar Hernandez,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 25-Aug-2003,Freudenstadt CH,3,Clay,R16,123,223,1,5,,Alexander Waske,Ivaylo Traykov,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Aug-2003,Freudenstadt CH,3,Clay,R32,123,258,1,5,,Alexander Waske,Marcello Craca,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q2,123,300,0,11,,Michael Kohlmann,Alexander Waske,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q1,123,371,1,11,PR,Alexander Waske,Andrew Ilie,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Jul-2003,Kitzbuhel,3,Clay,R64,130,103,0,,,Werner Eschauer,Alexander Waske,6-7(3) 6-1 6-3,0.71,6.5%,7.8%,58.4%,71.1%,50.0%,1/6,44.5%,26.9%,14.1%,19.2%,42.3%,1/3,155,5,6,77,45,32,11,1:25
 14-Jul-2003,Amersfoort,3,Clay,R32,129,72,0,,6,Raemon Sluiter,Alexander Waske,6-4 6-3,0.48,16.4%,1.5%,56.7%,71.1%,51.7%,6/8,43.6%,18.0%,22.0%,15.2%,23.5%,0/1,117,11,1,67,38,29,11,1:04
 7-Jul-2003,Newport,3,Grass,R32,131,145,0,,,Dennis Van Scheppingen,Alexander Waske,6-2 RET,0.33,36.4%,0.0%,63.6%,50.0%,62.5%,1/3,35.7%,15.0%,25.0%,18.8%,0.0%,0/0,42,8,0,22,14,8,5,0:22
@@ -242,6 +253,9 @@
 16-Jun-2003,Nottingham,3,Grass,R32,114,22,0,,1,Younes El Aynaoui,Alexander Waske,7-6(2) 6-4,0.59,15.3%,9.7%,68.1%,67.3%,43.5%,4/6,42.4%,23.9%,13.4%,19.2%,40.0%,1/3,139,11,7,72,49,23,9,1:19
 9-Jun-2003,Queen's Club,3,Grass,R64,113,89,0,,,Davide Sanguinetti,Alexander Waske,7-6(5) 7-6(1),0.70,23.1%,5.1%,64.1%,66.0%,71.4%,0/0,46.3%,22.5%,8.5%,14.0%,35.7%,0/0,149,18,4,78,50,28,6,1:34
 26-May-2003,Roland Garros,5,Clay,R128,116,63,0,Q,,Fernando Vicente,Alexander Waske,3-6 6-2 7-5 1-6 6-3,1.09,9.7%,6.7%,53.0%,70.4%,50.8%,7/13,51.0%,42.4%,5.7%,25.3%,61.3%,6/14,292,13,9,134,71,63,9,3:02
+26-May-2003,Roland Garros,5,Clay,Q3,116,199,1,7,,Alexander Waske,Bjorn Phau,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q2,116,222,1,7,,Alexander Waske,Igor Andreev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-May-2003,Roland Garros,5,Clay,Q1,116,193,1,7,,Alexander Waske,Marcos Daniel,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 12-May-2003,Hamburg Masters,3,Clay,R64,110,26,0,WC,,Wayne Ferreira,Alexander Waske,6-3 6-2,0.45,5.9%,5.9%,58.8%,56.0%,48.6%,11/14,41.7%,21.3%,10.6%,22.7%,20.0%,0/2,132,5,5,85,50,35,5,1:17
 28-Apr-2003,Munich,3,Clay,R16,111,25,0,,5,Yevgeny Kafelnikov,Alexander Waske,7-5 4-6 6-3,0.86,11.3%,3.8%,65.1%,59.4%,54.1%,7/11,47.1%,36.5%,1.0%,36.2%,37.1%,3/8,210,12,4,106,69,37,1,2:37
 28-Apr-2003,Munich,3,Clay,R32,111,87,1,,,Alexander Waske,Adrian Voinea,7-5 7-6(2),1.09,5.6%,3.3%,62.2%,71.4%,55.9%,4/5,52.7%,37.7%,3.9%,35.6%,40.6%,2/4,167,5,3,90,56,34,3,1:51
@@ -259,6 +273,9 @@
 20-Jan-2003,Heilbronn CH,3,Carpet,R16,120,174,1,,Q,Alexander Waske,Victor Hanescu,6-4 6-7(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 20-Jan-2003,Heilbronn CH,3,Carpet,R32,120,111,1,,,Alexander Waske,Jan Vacek,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 13-Jan-2003,Australian Open,5,Hard,R128,120,88,0,Q,,Mario Ancic,Alexander Waske,6-3 6-4 7-6(4),0.68,4.5%,3.6%,67.3%,58.1%,50.0%,9/13,44.1%,30.4%,4.3%,20.5%,39.6%,2/7,202,5,4,110,74,36,4,2:23
+13-Jan-2003,Australian Open,5,Hard,Q3,120,223,1,3,,Alexander Waske,Jeff Salzenstein,6-4 3-6 13-11,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q2,120,315,1,3,,Alexander Waske,Ignacio Hirigoyen,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q1,120,686,1,3,,Alexander Waske,Raphael Durek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Dec-2002,Adelaide,3,Hard,R32,122,53,0,,5,Mariano Zabaleta,Alexander Waske,6-1 6-4,0.44,8.9%,2.2%,53.3%,54.2%,47.6%,5/9,36.8%,21.4%,14.3%,4.0%,47.1%,1/1,87,4,1,45,24,21,6,0:54
 4-Nov-2002,Eckental CH,3,Carpet,QF,118,82,0,6,1,Lars Burgsmuller,Alexander Waske,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
 4-Nov-2002,Eckental CH,3,Carpet,R16,118,204,1,6,,Alexander Waske,Jakub Herm Zahlava,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -274,6 +291,9 @@
 30-Sep-2002,Tokyo,3,Hard,R64,137,452,1,,WC,Alexander Waske,Michihisa Onoda,6-7(4) 7-6(3) 6-2,1.08,12.8%,2.1%,68.1%,68.8%,66.7%,0/2,51.3%,34.4%,17.2%,24.5%,45.5%,4/4,187,12,2,94,64,30,16,2:13
 9-Sep-2002,Tashkent,3,Hard,R32,137,8,0,,3,Yevgeny Kafelnikov,Alexander Waske,6-7(6) 7-6(5) 7-6(6),1.11,31.4%,5.9%,61.0%,90.3%,45.7%,4/6,51.0%,30.1%,8.1%,26.3%,36.2%,2/4,241,37,7,118,72,46,10,2:21
 26-Aug-2002,US Open,5,Hard,R128,137,80,0,Q,,Guillermo Coria,Alexander Waske,7-6(4) 7-5 6-2,0.59,6.1%,8.8%,49.1%,73.2%,41.4%,9/14,43.1%,25.6%,7.8%,18.2%,37.1%,2/3,204,7,10,114,56,58,7,2:04
+26-Aug-2002,US Open,5,Hard,Q3,137,160,1,24,,Alexander Waske,Magnus Larsson,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q2,137,230,1,24,,Alexander Waske,Konstantinos Economidis,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,137,585,1,24,WC,Alexander Waske,Travis Rettenmaier,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2002,Ulm CH,3,Clay,QF,158,234,0,,,Olivier Mutis,Alexander Waske,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2002,Ulm CH,3,Clay,R16,158,153,1,,,Alexander Waske,Ruben Ramirez Hidalgo,6-3 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
 1-Jul-2002,Ulm CH,3,Clay,R32,158,195,1,,,Alexander Waske,Victor Hanescu,6-7(4) 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -334,6 +354,7 @@
 3-Sep-2001,Aschaffenburg CH,3,Clay,R16,309,194,1,,,Alexander Waske,Alexander Popp,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 3-Sep-2001,Aschaffenburg CH,3,Clay,R32,309,151,1,,8,Alexander Waske,Marc Kevin Goellner,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Aug-2001,Freudenstadt CH,3,Clay,R32,309,123,0,,7,Dennis Van Scheppingen,Alexander Waske,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2001,US Open,5,Hard,Q1,309,171,0,,,Eric Taino,Alexander Waske,4-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Graz CH,3,Hard,R16,306,354,0,,,Daniele Bracciali,Alexander Waske,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Graz CH,3,Hard,R32,306,506,1,,Q,Alexander Waske,Rodolphe Cadart,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Aug-2001,Linz CH,3,Clay,R32,306,98,0,,5,Nikolay Davydenko,Alexander Waske,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -356,7 +377,7 @@
 12-Mar-2001,Mexico 1 4,3,Clay,R32,310,1323,1,1,Q,Alexander Waske,Manuel Rezzaghi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2001,Luebeck CH,3,Carpet,R16,297,292,0,,Q,Jurgen Melzer,Alexander Waske,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2001,Luebeck CH,3,Carpet,R32,297,143,1,,1,Alexander Waske,Nicolas Thomann,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
-4-Dec-2000,Milan CH,3,Carpet,QF,265,253,0,,,Mose Navarra,Alexander Waske,2-6(3) 7-6(5) 7-6,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2000,Milan CH,3,Carpet,QF,265,253,0,,,Mose Navarra,Alexander Waske,7-6(3) 7-6(5) 7-6,,,,,,,,,,,,,,,,,,,,,
 4-Dec-2000,Milan CH,3,Carpet,R16,265,65,1,,1,Alexander Waske,Davide Sanguinetti,6-7(2) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 4-Dec-2000,Milan CH,3,Carpet,R32,265,342,1,,,Alexander Waske,Stefano Cobolli,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
 30-Oct-2000,Quito CH,3,Clay,R16,267,175,0,,7,Solon Peppas,Alexander Waske,6-1 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -393,28 +414,28 @@
 17-Jul-2000,Germany F8,3,Clay,QF,300,584,1,1,,Alexander Waske,Juraj Hasko,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2000,Germany F8,3,Clay,R16,300,721,1,1,Q,Alexander Waske,Martin Bartonek,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2000,Germany F8,3,Clay,R32,300,1304,1,1,,Alexander Waske,Daniel Merkert,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Mar-2000,USA F7,3,Hard,R32,,,0,,Q,Robert Samuelsson,Alexander Waske,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+27-Mar-2000,USA F7,3,Hard,R32,303,864,0,,Q,Robert Samuelsson,Alexander Waske,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
 28-Feb-2000,USA F6,3,Hard,R32,325,555,0,7,Q,Ignacio Hirigoyen,Alexander Waske,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,USA F5,3,Hard,F,328,247,0,6,1,Daniel Melo,Alexander Waske,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,USA F5,3,Hard,SF,328,262,1,6,2,Alexander Waske,Cristian Kordasz,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,USA F5,3,Hard,QF,328,289,1,6,4,Alexander Waske,Damian Furmanski,7-6(4) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,USA F5,3,Hard,R16,328,,1,6,Q,Alexander Waske,Ruben Fernandez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,USA F5,3,Hard,R32,328,692,1,6,WC,Alexander Waske,Diego Ayala,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 2,3,Clay,F,,,1,3,2,Alexander Waske,Hugo Armando,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 4,3,Clay,F,,,0,4,2,Hugo Armando,Alexander Waske,6-1 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 1,3,Clay,SF,,,0,5,Q,Pablo Bianchi,Alexander Waske,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 2,3,Clay,SF,,,1,3,,Alexander Waske,Diego Ayala,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 4,3,Clay,SF,,,1,4,,Alexander Waske,Ivan Miranda,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 1,3,Clay,QF,,1037,1,5,,Alexander Waske,Ferran Ventura Martell,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 2,3,Clay,QF,,1151,1,3,6,Alexander Waske,Carlos Rexach Itoiz,6-7(3) 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 4,3,Clay,QF,,,1,4,6,Alexander Waske,Lazaro Navarro Batles,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 1,3,Clay,R16,,,1,5,,Alexander Waske,Ronaldo Carvalho,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 2,3,Clay,R16,,,1,3,,Alexander Waske,Ronaldo Carvalho,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 3,3,Clay,R16,,,0,4,,Mark Hilton,Alexander Waske,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 4,3,Clay,R16,,,1,4,,Alexander Waske,Marc Canovas,4-6 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 1,3,Clay,R32,,,1,5,,Alexander Waske,Rafael Avalos Brenes,7-6(6) 7-6(6),,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 3,3,Clay,R32,,,1,4,Q,Alexander Waske,Rafael Avalos Brenes,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2000,Central America Masters 4,3,Clay,R32,,,1,4,WC,Alexander Waske,Manuel Tejada,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 2,3,Clay,F,440,269,1,3,2,Alexander Waske,Hugo Armando,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 4,3,Clay,F,440,269,0,4,2,Hugo Armando,Alexander Waske,6-1 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 1,3,Clay,SF,440,847,0,5,Q,Pablo Bianchi,Alexander Waske,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 2,3,Clay,SF,440,749,1,3,,Alexander Waske,Diego Ayala,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 4,3,Clay,SF,440,810,1,4,,Alexander Waske,Ivan Miranda,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 1,3,Clay,QF,440,1037,1,5,,Alexander Waske,Ferran Ventura Martell,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 2,3,Clay,QF,440,1151,1,3,6,Alexander Waske,Carlos Rexach Itoiz,6-7(3) 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 4,3,Clay,QF,440,471,1,4,6,Alexander Waske,Lazaro Navarro Batles,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 1,3,Clay,R16,440,998,1,5,,Alexander Waske,Ronaldo Carvalho,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 2,3,Clay,R16,440,998,1,3,,Alexander Waske,Ronaldo Carvalho,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 3,3,Clay,R16,440,616,0,4,,Mark Hilton,Alexander Waske,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 4,3,Clay,R16,440,711,1,4,,Alexander Waske,Marc Canovas,4-6 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 1,3,Clay,R32,440,,1,5,,Alexander Waske,Rafael Avalos Brenes,7-6(6) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 3,3,Clay,R32,440,,1,4,Q,Alexander Waske,Rafael Avalos Brenes,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2000,Central America Masters 4,3,Clay,R32,440,,1,4,WC,Alexander Waske,Manuel Tejada,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Dec-1999,USA F22,3,Hard,QF,453,369,0,5,3,Olivier Rochus,Alexander Waske,1-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Dec-1999,USA F22,3,Hard,R16,453,565,1,5,12,Alexander Waske,Emin Agaev,6-4 2-6 7-6,,,,,,,,,,,,,,,,,,,,,
 6-Dec-1999,USA F22,3,Hard,R32,453,636,1,5,,Alexander Waske,Jeff Williams,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -422,17 +443,12 @@
 29-Nov-1999,USA F21,3,Hard,R16,446,572,0,8,,Robert Kendrick,Alexander Waske,4-6 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1999,USA F21,3,Hard,R32,446,843,1,8,,Alexander Waske,Adam Peterson,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1999,USA F21,3,Hard,R64,446,1082,1,8,Q,Alexander Waske,Carl Hagman,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Rancho Mirage CH,3,Hard,QF,512,99,0,Q,2,Ronald Agenor,Alexander Waske,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Rancho Mirage CH,3,Hard,R16,512,188,1,Q,,Alexander Waske,Werner Eschauer,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Rancho Mirage CH,3,Hard,R32,512,395,1,Q,Q,Alexander Waske,Wolfgang Schranz,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Oct-1999,USA F16,3,Hard,R64,553,381,0,,6,Brian Macphie,Alexander Waske,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,SF,556,352,0,6,1,Kim Tiilikainen,Alexander Waske,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,QF,556,,1,6,Q,Alexander Waske,Todor Enev,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R16,556,627,1,6,12,Alexander Waske,Robert Kendrick,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R32,556,1047,1,6,,Alexander Waske,Brandon Kramer,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R64,556,,1,6,Q,Alexander Waske,Bo Hodge,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Vienna CH,3,Clay,R16,603,468,0,Q,WC,Horst Skoff,Alexander Waske,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Vienna CH,3,Clay,R32,603,145,1,Q,2,Alexander Waske,Francisco Costa,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,Germany F9,3,Clay,QF,1042,542,0,WC,7,Lee Pearson,Alexander Waske,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,Germany F9,3,Clay,R16,1042,1125,1,WC,Q,Alexander Waske,Benedikt Dorsch,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,Germany F9,3,Clay,R32,1042,,1,WC,Q,Alexander Waske,Bjorn Krenzer,6-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -442,15 +458,15 @@
 19-Jul-1999,Germany F8,3,Clay,R16,1034,,1,Q,4,Alexander Waske,Andreas Weber,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Jul-1999,Germany F8,3,Clay,R32,1034,581,1,Q,,Alexander Waske,Sandro Della Piana,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Jun-1999,Germany F6,3,Clay,R32,886,743,0,,WC,Andreas Tattermusch,Alexander Waske,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,QF,1118,,0,,12,Ville Liukko,Alexander Waske,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,QF,1118,686,0,,12,Ville Liukko,Alexander Waske,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Sep-1998,USA 3 Masters 1,3,Hard,R16,1118,,0,7,,Fredrik Giers,Alexander Waske,2-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R16,1118,,1,,4,Alexander Waske,Jocelyn Robichaud,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R16,1118,431,1,,4,Alexander Waske,Jocelyn Robichaud,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 11-Sep-1998,USA 3 Masters 1,3,Hard,R32,1118,,1,7,Q,Alexander Waske,Marcus Fluitt,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 2,3,Hard,R32,1118,,0,10,,Jocelyn Robichaud,Alexander Waske,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R32,1118,,1,,,Alexander Waske,Geoff Abrams,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,R32,1118,,0,,3,Matthew Breen,Alexander Waske,6-3 6-7 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 2,3,Hard,R32,1118,431,0,10,,Jocelyn Robichaud,Alexander Waske,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R32,1118,935,1,,,Alexander Waske,Geoff Abrams,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,R32,1118,425,0,,3,Matthew Breen,Alexander Waske,6-3 6-7 6-0,,,,,,,,,,,,,,,,,,,,,
 11-Sep-1998,USA 3 Masters 1,3,Hard,R64,1118,1249,1,7,,Alexander Waske,Andy Stewart,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R64,1118,,1,,,Alexander Waske,Eric Drew,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R64,1118,829,1,,,Alexander Waske,Eric Drew,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Sep-1998,USA 3 Masters 4,3,Hard,R64,1118,1118,1,,,Alexander Waske,John James,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-1998,Germany F11,3,Clay,QF,,422,0,Q,6,Jean Michel Pequery,Alexander Waske,0-3 RET,,,,,,,,,,,,,,,,,,,,,
 24-Jun-1998,Germany F11,3,Clay,R16,,537,1,Q,,Alexander Waske,Markus Menzler,6-3 7-6,,,,,,,,,,,,,,,,,,,,,

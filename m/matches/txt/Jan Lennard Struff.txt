@@ -1,7 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Apr-2023,Monte Carlo,3,Clay,R64,100,50,1,Q,,Jan Lennard Struff,Albert Ramos,6-4 6-3,1.36,11.3%,4.8%,61.3%,78.9%,54.2%,4/5,56.4%,41.8%,1.8%,32.4%,57.1%,3/5,117,7,3,62,38,24,1,1:28
-8-Apr-2023,Monte Carlo,3,Clay,Q2,100,38,1,,1,Jan Lennard Struff,Emil Ruusuvuori,7-6(4) 5-7 6-0,1.02,4.7%,5.7%,47.2%,60.0%,55.4%,5/10,50.7%,43.2%,3.2%,35.0%,57.1%,7/11,201,5,6,106,50,56,3,2:34
-8-Apr-2023,Monte Carlo,3,Clay,Q1,100,91,1,,10,Jan Lennard Struff,Juan Pablo Varillas,7-5 6-2,1.36,10.3%,3.4%,55.2%,75.0%,57.7%,0/1,56.1%,44.6%,0.0%,40.0%,50.0%,4/6,114,6,2,58,32,26,0,1:27
+10-Apr-2023,Monte Carlo Masters,3,Clay,QF,100,6,0,Q,5,Andrey Rublev,Jan Lennard Struff,6-1 7-6(5),0.79,8.1%,8.1%,41.9%,61.3%,44.2%,10/14,45.1%,38.6%,10.0%,22.9%,54.3%,2/3,144,6,6,74,31,43,7,1:39
+10-Apr-2023,Monte Carlo Masters,3,Clay,R16,100,4,1,Q,4,Jan Lennard Struff,Casper Ruud,6-1 7-6(6),1.42,4.5%,1.5%,56.7%,78.9%,51.7%,5/7,56.3%,46.8%,3.9%,37.8%,59.4%,4/14,144,3,1,67,38,29,3,1:43
+10-Apr-2023,Monte Carlo Masters,3,Clay,R32,100,19,1,Q,14,Jan Lennard Struff,Alex De Minaur,6-3 6-2,1.84,12.8%,6.4%,59.6%,85.7%,52.6%,2/3,61.0%,50.9%,1.9%,34.5%,70.8%,5/6,100,6,3,47,28,19,1,1:09
+10-Apr-2023,Monte Carlo Masters,3,Clay,R64,100,50,1,Q,,Jan Lennard Struff,Albert Ramos,6-4 6-3,1.36,11.3%,4.8%,61.3%,78.9%,54.2%,4/5,56.4%,41.8%,1.8%,32.4%,57.1%,3/5,117,7,3,62,38,24,1,1:28
+10-Apr-2023,Monte Carlo Masters,3,Clay,Q2,100,38,1,,1,Jan Lennard Struff,Emil Ruusuvuori,7-6(4) 5-7 6-0,1.02,4.7%,5.7%,47.2%,60.0%,55.4%,5/10,50.7%,43.2%,3.2%,35.0%,57.1%,7/11,201,5,6,106,50,56,3,2:34
+10-Apr-2023,Monte Carlo Masters,3,Clay,Q1,100,91,1,,10,Jan Lennard Struff,Juan Pablo Varillas,7-5 6-2,1.36,10.3%,3.4%,55.2%,75.0%,57.7%,0/1,56.1%,44.6%,0.0%,40.0%,50.0%,4/6,114,6,2,58,32,26,0,1:27
 3-Apr-2023,Marrakech,3,Clay,R32,100,104,0,,,Hugo Gaston,Jan Lennard Struff,3-6 6-4 7-5,0.99,13.3%,5.6%,54.4%,73.5%,58.5%,2/4,49.5%,33.0%,5.3%,26.0%,40.9%,2/4,184,12,5,90,49,41,5,2:07
 20-Mar-2023,Miami Masters,3,Hard,R64,103,27,0,Q,21,Grigor Dimitrov,Jan Lennard Struff,4-6 7-6(5) 6-4,0.81,8.3%,4.2%,62.5%,73.3%,53.3%,9/10,48.4%,27.7%,22.8%,16.7%,43.9%,1/3,221,10,5,120,75,45,23,2:33
 20-Mar-2023,Miami Masters,3,Hard,R128,103,91,1,Q,,Jan Lennard Struff,Fabio Fognini,6-4 5-7 6-4,1.07,9.3%,1.9%,52.3%,71.4%,51.0%,4/7,51.4%,41.1%,8.4%,29.2%,59.5%,4/6,214,10,2,107,56,51,9,2:35
