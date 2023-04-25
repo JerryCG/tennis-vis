@@ -11,7 +11,7 @@ dash.register_page(__name__, name = 'GeoTennis')
 layout = html.Div(children=[
     # section display a given ATP Ranking Date's Top 100 Players geographic distribution
     html.Div(children=[
-        html.H2('ATP Top100 Geographical Distribution from 2000-01-10 to 2023-04-17'),
+        html.H2('ATP Top100 Geographical Distribution from 2000-01-10 to 2023-04-24'),
         html.Iframe(
             src='https://flo.uri.sh/visualisation/11920998/embed',
             title='Interactive or visual content',
