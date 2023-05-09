@@ -1,6 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-16-Apr-2023,Florianopolis CH,3,Clay,Q2,621,447,0,7,1,Wilson Leite,Nicolas Zanellato,6-1 7-5,0.73,1.3%,2.6%,71.1%,57.4%,36.4%,10/15,44.4%,35.6%,1.7%,28.9%,47.6%,2/6,135,1,2,76,54,22,1,1:49
-16-Apr-2023,Florianopolis CH,3,Clay,Q1,621,993,1,7,,Nicolas Zanellato,Igor Gimenez,6-3 4-6 6-1,1.20,1.1%,3.4%,73.9%,67.7%,52.2%,3/5,54.7%,43.7%,1.4%,31.0%,62.1%,5/7,159,1,3,88,65,23,1,2:08
+24-Apr-2023,M15 Mogi das Cruzes,3,Clay,SF,619,771,0,2,5,Franco Roncadelli,Nicolas Zanellato,5-7 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2023,M15 Mogi das Cruzes,3,Clay,QF,619,815,1,2,7,Nicolas Zanellato,Juan Carlos Prado Angelo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2023,M15 Mogi das Cruzes,3,Clay,R16,619,945,1,2,WC,Nicolas Zanellato,Pedro Sakamoto,6-7(6) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2023,M15 Mogi das Cruzes,3,Clay,R32,619,997,1,2,,Nicolas Zanellato,Igor Gimenez,6-7(1) 7-6(11) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2023,Florianopolis CH,3,Clay,Q2,621,447,0,7,1,Wilson Leite,Nicolas Zanellato,6-1 7-5,0.73,1.3%,2.6%,71.1%,57.4%,36.4%,10/15,44.4%,35.6%,1.7%,28.9%,47.6%,2/6,135,1,2,76,54,22,1,1:49
+17-Apr-2023,Florianopolis CH,3,Clay,Q1,621,993,1,7,,Nicolas Zanellato,Igor Gimenez,6-3 4-6 6-1,1.20,1.1%,3.4%,73.9%,67.7%,52.2%,3/5,54.7%,43.7%,1.4%,31.0%,62.1%,5/7,159,1,3,88,65,23,1,2:08
 27-Mar-2023,M15 Antalya,3,Clay,R16,624,591,0,,6,Peter Heller,Nicolas Zanellato,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Mar-2023,M15 Antalya,3,Clay,R32,624,1333,1,,Q,Nicolas Zanellato,John Sperle,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
 20-Mar-2023,M15 Antalya,3,Clay,R16,624,562,0,,4,Max Alcala Gurri,Nicolas Zanellato,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
