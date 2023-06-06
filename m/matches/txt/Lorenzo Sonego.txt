@@ -1,4 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-May-2023,Roland Garros,5,Clay,R16,48,11,0,,,Karen Khachanov,Lorenzo Sonego,1-6 6-4 7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,48,7,1,,,Lorenzo Sonego,Andrey Rublev,5-7 0-6 6-3 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,48,40,1,,,Lorenzo Sonego,Ugo Humbert,6-4 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,48,36,1,,,Lorenzo Sonego,Ben Shelton,6-4 3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2023,Rome Masters,3,Clay,R32,48,5,0,,5,Stefanos Tsitsipas,Lorenzo Sonego,6-3 7-6(3),0.53,2.5%,2.5%,69.6%,67.3%,50.0%,6/7,43.4%,20.3%,4.7%,7.5%,41.7%,0/2,143,2,2,79,55,24,3,2:07
+8-May-2023,Rome Masters,3,Clay,R64,48,32,1,,25,Lorenzo Sonego,Yoshihito Nishioka,7-5 6-3,1.42,7.4%,0.0%,63.2%,76.7%,60.0%,4/5,57.0%,41.7%,1.7%,44.4%,37.5%,3/6,128,5,0,68,43,25,1,1:45
+8-May-2023,Rome Masters,3,Clay,R128,48,591,1,,PR,Lorenzo Sonego,Jeremy Chardy,6-2 6-1,1.98,4.4%,0.0%,68.9%,83.9%,50.0%,0/0,62.2%,52.8%,1.9%,37.9%,70.8%,4/6,98,2,0,45,31,14,1,1:15
 24-Apr-2023,Madrid Masters,3,Clay,R128,47,65,0,,LL,Jan Lennard Struff,Lorenzo Sonego,6-3 6-1,0.60,12.0%,0.0%,74.0%,56.8%,46.2%,2/6,41.2%,27.7%,2.1%,18.2%,36.0%,0/3,97,6,0,50,37,13,1,1:14
 17-Apr-2023,Munich,3,Clay,R16,45,86,0,6,,Cristian Garin,Lorenzo Sonego,6-3 7-6(3),0.91,3.3%,6.6%,67.2%,70.7%,40.0%,2/5,47.0%,35.6%,0.0%,28.9%,46.4%,2/5,134,2,4,61,41,20,0,1:47
 17-Apr-2023,Munich,3,Clay,R32,45,65,1,6,,Lorenzo Sonego,Quentin Halys,3-6 7-6(5) 7-5,1.01,5.2%,3.1%,67.0%,76.9%,59.4%,2/3,50.0%,29.3%,10.1%,20.7%,41.5%,1/2,196,5,3,97,65,32,10,2:29

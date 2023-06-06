@@ -1,4 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-May-2023,Roland Garros,5,Clay,R16,118,5,0,,,Stefanos Tsitsipas,Sebastian Ofner,7-5 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,118,130,1,,,Sebastian Ofner,Fabio Fognini,5-7 6-3 7-5 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,118,30,1,,,Sebastian Ofner,Sebastian Korda,6-3 7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,118,44,1,,,Sebastian Ofner,Maxime Cressy,6-4 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q3,118,137,1,,,Sebastian Ofner,Facundo Diaz Acosta,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,118,177,1,,,Sebastian Ofner,Jan Choinski,3-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,118,205,1,,,Sebastian Ofner,Rio Noguchi,7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-May-2023,Mauthausen CH,3,Clay,SF,122,129,0,6,5,Filip Misolic,Sebastian Ofner,7-6(1) 6-4,0.64,11.9%,3.0%,59.7%,65.0%,51.9%,2/5,44.0%,25.9%,3.4%,18.8%,34.6%,2/2,125,8,2,67,40,27,2,1:33
+8-May-2023,Mauthausen CH,3,Clay,QF,122,110,1,6,2,Sebastian Ofner,Hugo Gaston,3-6 6-3 7-6(4),1.21,11.4%,4.5%,70.5%,77.4%,46.2%,5/8,51.8%,38.5%,1.8%,31.9%,43.5%,3/12,197,10,4,88,62,26,2,2:11
+8-May-2023,Mauthausen CH,3,Clay,R16,122,406,1,6,Q,Sebastian Ofner,Damien Wenger,6-2 7-6(0),1.43,13.8%,1.5%,61.5%,85.0%,44.0%,3/4,55.1%,43.9%,2.4%,38.1%,50.0%,3/7,147,9,1,65,40,25,2,1:44
+8-May-2023,Mauthausen CH,3,Clay,R32,122,280,1,6,Alt,Sebastian Ofner,Louis Wessels,6-7(2) 6-4 7-5,0.97,1.7%,5.8%,60.3%,64.4%,56.3%,6/9,50.9%,37.6%,8.6%,22.4%,54.5%,5/9,214,2,7,121,73,48,8,2:45
 1-May-2023,Prague CH,3,Clay,F,130,129,0,8,7,Dominic Stricker,Sebastian Ofner,7-6(7) 6-3,0.84,9.5%,4.1%,58.1%,74.4%,54.8%,4/5,46.5%,28.4%,7.4%,22.7%,35.1%,0/4,155,7,3,74,43,31,6,1:35
 1-May-2023,Prague CH,3,Clay,SF,130,143,1,8,,Sebastian Ofner,Lukas Klein,7-6(4) 0-6 6-3,0.91,3.8%,2.9%,59.6%,61.3%,57.1%,12/16,49.0%,36.7%,5.6%,30.9%,45.7%,2/8,194,4,3,104,62,42,5,2:12
 1-May-2023,Prague CH,3,Clay,QF,130,133,1,8,,Sebastian Ofner,Tomas Barrios Vera,6-2 7-5,1.36,8.5%,8.5%,52.5%,77.4%,50.0%,0/2,56.4%,48.3%,0.0%,35.1%,71.4%,5/12,117,5,5,59,31,28,0,1:22
