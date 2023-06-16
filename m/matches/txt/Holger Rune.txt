@@ -1,8 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R16,6,23,1,,,Holger Rune,Francisco Cerundolo,7-6(3) 3-6 6-4 1-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R32,6,231,1,,,Holger Rune,Genaro Alberto Olivieri,6-4 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R64,6,394,1,,,Holger Rune,Gael Monfils,W/O,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,6,74,1,,,Holger Rune,Christopher Eubanks,6-4 3-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,QF,6,4,0,6,4,Casper Ruud,Holger Rune,6-1 6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R16,6,23,1,6,23,Holger Rune,Francisco Cerundolo,7-6(3) 3-6 6-4 1-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,6,231,1,6,Q,Holger Rune,Genaro Alberto Olivieri,6-4 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,6,394,1,6,,Holger Rune,Gael Monfils,W/O,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,6,74,1,6,,Holger Rune,Christopher Eubanks,6-4 3-6 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
 8-May-2023,Rome Masters,3,Clay,F,7,3,0,7,3,Daniil Medvedev,Holger Rune,7-5 7-5,0.83,2.9%,1.5%,48.5%,51.5%,62.9%,2/6,46.6%,35.4%,7.7%,23.8%,56.5%,2/5,133,2,1,68,33,35,5,1:42
 8-May-2023,Rome Masters,3,Clay,SF,7,4,1,7,4,Holger Rune,Casper Ruud,6-7(2) 6-4 6-2,1.12,1.0%,1.0%,63.5%,60.6%,73.7%,5/6,53.1%,38.6%,10.2%,27.7%,51.2%,4/4,192,1,1,104,66,38,9,2:43
 8-May-2023,Rome Masters,3,Clay,QF,7,1,1,7,1,Holger Rune,Novak Djokovic,6-2 4-6 6-2,1.28,3.8%,2.6%,56.4%,77.3%,50.0%,3/5,54.8%,44.2%,5.2%,38.3%,53.3%,5/10,155,3,2,78,44,34,4,2:19

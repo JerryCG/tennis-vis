@@ -1,7 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R32,13,18,0,,,Lorenzo Musetti,Cameron Norrie,6-1 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R64,13,675,1,,,Cameron Norrie,Lucas Pouille,6-1 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,13,149,1,,,Cameron Norrie,Benoit Paire,7-5 4-6 3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,13,18,0,14,17,Lorenzo Musetti,Cameron Norrie,6-1 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,13,675,1,14,Q,Cameron Norrie,Lucas Pouille,6-1 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,13,149,1,14,WC,Cameron Norrie,Benoit Paire,7-5 4-6 3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,Lyon,3,Clay,SF,14,28,0,2,4,Francisco Cerundolo,Cameron Norrie,6-3 6-0,0.46,3.3%,1.7%,55.0%,60.6%,33.3%,9/14,38.8%,23.7%,5.3%,11.5%,50.0%,0/1,98,2,1,60,33,27,2,1:12
 22-May-2023,Lyon,3,Clay,QF,14,44,1,2,6,Cameron Norrie,Sebastian Baez,6-2 2-6 6-1,1.38,5.8%,2.9%,65.2%,73.3%,54.2%,0/2,56.0%,45.8%,0.0%,40.0%,55.6%,4/9,141,4,2,69,45,24,0,1:51
 22-May-2023,Lyon,3,Clay,R16,14,113,1,2,,Cameron Norrie,David Goffin,6-3 6-4,1.27,7.7%,1.5%,63.1%,75.6%,50.0%,5/6,55.3%,43.1%,1.7%,44.4%,40.9%,3/6,123,5,1,65,41,24,1,1:28

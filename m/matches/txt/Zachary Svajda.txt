@@ -1,7 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-4-Jun-2023,Surbiton CH,3,Grass,Q2,227,355,0,7,,Billy Harris,Zachary Svajda,6-4 7-6(10),0.69,5.6%,7.0%,67.6%,79.2%,52.2%,0/1,45.7%,20.3%,8.7%,14.6%,28.6%,0/1,140,4,5,71,48,23,6,1:27
-4-Jun-2023,Surbiton CH,3,Grass,Q1,227,548,1,7,WC,Zachary Svajda,Toby Samuel,7-5 6-0,1.80,2.2%,0.0%,62.2%,67.9%,82.4%,1/2,60.2%,47.9%,10.4%,27.6%,78.9%,5/7,93,1,0,45,28,17,5,0:56
-29-May-2023,Roland Garros,5,Clay,Q1,227,105,0,,,Juan Manuel Cerundolo,Zachary Svajda,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2023,Nottingham CH,3,Grass,R32,215,88,1,Q,6,Zachary Svajda,Thanasi Kokkinakis,4-6 6-2 7-6(5),1.31,10.7%,6.0%,60.7%,86.3%,54.5%,2/3,52.8%,34.4%,6.3%,22.0%,54.1%,2/6,180,9,5,84,51,33,6,1:58
+11-Jun-2023,Nottingham CH,3,Grass,Q2,215,198,1,7,6,Zachary Svajda,Shintaro Mochizuki,6-3 7-6(4),1.29,18.5%,1.5%,66.2%,79.1%,59.1%,0/1,53.8%,35.8%,3.0%,28.2%,46.4%,2/4,132,12,1,65,43,22,2,1:28
+11-Jun-2023,Nottingham CH,3,Grass,Q1,215,567,1,7,WC,Zachary Svajda,Johannus Monday,6-2 6-2,4.57,13.9%,2.8%,69.4%,88.0%,90.9%,0/0,64.4%,50.8%,4.6%,42.9%,60.0%,4/15,101,5,1,36,25,11,3,1:15
+5-Jun-2023,Surbiton CH,3,Grass,R16,227,76,0,LL,,Jordan Thompson,Zachary Svajda,6-2 7-5,0.55,6.0%,4.5%,67.2%,55.6%,50.0%,4/8,41.5%,25.5%,5.9%,15.6%,42.1%,1/2,118,4,3,67,45,22,3,1:21
+5-Jun-2023,Surbiton CH,3,Grass,R32,227,97,1,LL,,Zachary Svajda,Aleksandar Vukic,7-6(6) 6-3,0.95,4.8%,3.6%,65.1%,72.2%,51.7%,7/8,52.1%,33.3%,14.0%,31.6%,36.8%,2/2,140,4,3,83,54,29,8,1:30
+5-Jun-2023,Surbiton CH,3,Grass,Q2,227,355,0,7,,Billy Harris,Zachary Svajda,6-4 7-6(10),0.69,5.6%,7.0%,67.6%,79.2%,52.2%,0/1,45.7%,20.3%,8.7%,14.6%,28.6%,0/1,140,4,5,71,48,23,6,1:27
+5-Jun-2023,Surbiton CH,3,Grass,Q1,227,548,1,7,WC,Zachary Svajda,Toby Samuel,7-5 6-0,1.80,2.2%,0.0%,62.2%,67.9%,82.4%,1/2,60.2%,47.9%,10.4%,27.6%,78.9%,5/7,93,1,0,45,28,17,5,0:56
+29-May-2023,Roland Garros,5,Clay,Q1,227,105,0,,4,Juan Manuel Cerundolo,Zachary Svajda,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Prague,3,Clay,R32,228,,0,1,Q,Mark Wallner,Zachary Svajda,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 8-May-2023,Prague CH,3,Clay,R16,228,309,0,,Alt,Alejandro Moro Canas,Zachary Svajda,6-4 2-6 6-4,0.90,2.0%,3.0%,64.0%,67.2%,47.2%,9/12,49.4%,35.9%,3.8%,36.5%,34.6%,3/4,178,2,3,100,64,36,3,2:07
 8-May-2023,Prague CH,3,Clay,R32,228,153,1,,5,Zachary Svajda,Enzo Couacaud,6-4 6-1,1.63,1.7%,1.7%,58.6%,67.6%,66.7%,2/3,61.4%,53.5%,4.7%,47.8%,60.0%,4/4,101,1,1,58,34,24,2,1:10

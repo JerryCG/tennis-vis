@@ -1,9 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,148,231,0,,,Genaro Alberto Olivieri,Andrea Vavassori,7-6(7) 3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,148,37,1,,,Andrea Vavassori,Miomir Kecmanovic,5-7 2-6 7-6(8) 7-6(3) 7-6(9),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2023,'S-Hertogenbosch,3,Grass,Q1,129,233,0,,,Giovanni Mpetshi Perricard,Andrea Vavassori,6-4 4-6 6-3,1.08,6.2%,8.6%,54.3%,75.0%,56.8%,6/9,50.0%,36.1%,17.5%,25.0%,62.1%,2/3,178,5,7,81,44,37,17,1:53
+29-May-2023,Roland Garros,5,Clay,R64,148,231,0,Q,Q,Genaro Alberto Olivieri,Andrea Vavassori,7-6(7) 3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,148,37,1,Q,31,Andrea Vavassori,Miomir Kecmanovic,5-7 2-6 7-6(8) 7-6(3) 7-6(9),,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q3,148,152,1,,,Andrea Vavassori,Alejandro Tabilo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,148,142,1,,,Andrea Vavassori,Filip Misolic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,148,283,1,,,Andrea Vavassori,Titouan Droguet,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,148,142,1,,20,Andrea Vavassori,Filip Misolic,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,148,283,1,,WC,Andrea Vavassori,Titouan Droguet,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 8-May-2023,Rome Masters,3,Clay,Q1,145,142,0,,23,Pedro Martinez,Andrea Vavassori,6-2 5-7 6-2,0.83,4.1%,4.1%,64.3%,58.7%,37.1%,9/16,46.0%,40.4%,2.2%,23.3%,75.9%,4/8,187,4,4,98,63,35,2,2:35
 1-May-2023,Cagliari CH,3,Clay,R32,164,125,0,WC,,Giulio Zeppieri,Andrea Vavassori,7-6(0) 4-6 6-4,0.97,1.7%,8.7%,58.3%,68.7%,41.7%,7/12,49.8%,41.5%,2.8%,35.6%,48.9%,5/14,221,2,10,115,67,48,3,2:41
 24-Apr-2023,Madrid Masters,3,Clay,R64,164,3,0,Q,2,Daniil Medvedev,Andrea Vavassori,6-4 6-3,0.61,5.4%,0.0%,75.0%,69.0%,28.6%,2/4,42.0%,25.0%,7.1%,22.9%,28.6%,0/3,112,3,0,56,42,14,4,1:22

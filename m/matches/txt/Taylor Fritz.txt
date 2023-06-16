@@ -1,7 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R32,8,23,0,,,Francisco Cerundolo,Taylor Fritz,3-6 6-3 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R64,8,78,1,,,Taylor Fritz,Arthur Rinderknech,2-6 6-4 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,8,123,1,,,Taylor Fritz,Michael Mmoh,6-2 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,8,23,0,9,23,Francisco Cerundolo,Taylor Fritz,3-6 6-3 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,8,78,1,9,,Taylor Fritz,Arthur Rinderknech,2-6 6-4 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,8,123,1,9,,Taylor Fritz,Michael Mmoh,6-2 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,Geneva,3,Clay,SF,9,33,0,2,4,Grigor Dimitrov,Taylor Fritz,3-6 7-5 7-6(2),1.18,12.6%,0.0%,61.2%,77.8%,45.0%,4/8,51.7%,41.2%,6.1%,31.4%,52.5%,4/13,234,13,0,103,63,40,8,2:52
 22-May-2023,Geneva,3,Clay,QF,9,86,1,2,,Taylor Fritz,Ilya Ivashka,6-1 6-2,4.20,16.2%,5.4%,56.8%,90.5%,81.3%,0/0,71.6%,56.8%,0.0%,48.0%,75.0%,4/7,74,6,2,37,21,16,0,0:51
 22-May-2023,Geneva,3,Clay,R16,9,74,1,2,,Taylor Fritz,Marcos Giron,4-6 6-2 6-3,1.49,10.3%,6.4%,52.6%,70.7%,64.9%,5/8,57.3%,47.7%,4.7%,41.1%,60.0%,5/13,164,8,5,78,41,37,4,1:58

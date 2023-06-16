@@ -1,7 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R32,27,12,1,,,Alexander Zverev,Frances Tiafoe,3-6 7-6(3) 6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R64,27,86,1,,,Alexander Zverev,Alex Molcan,6-4 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,27,294,1,,,Alexander Zverev,Lloyd Harris,7-6(6) 7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,SF,27,4,0,22,4,Casper Ruud,Alexander Zverev,6-3 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,QF,27,49,1,22,,Alexander Zverev,Tomas Martin Etcheverry,6-4 3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R16,27,29,1,22,28,Alexander Zverev,Grigor Dimitrov,6-1 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,27,12,1,22,12,Alexander Zverev,Frances Tiafoe,3-6 7-6(3) 6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,27,86,1,22,,Alexander Zverev,Alex Molcan,6-4 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,27,294,1,22,,Alexander Zverev,Lloyd Harris,7-6(6) 7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,Geneva,3,Clay,SF,27,54,0,3,,Nicolas Jarry,Alexander Zverev,7-6(3) 6-3,0.73,9.2%,7.7%,75.4%,75.5%,37.5%,2/3,44.8%,24.6%,10.1%,10.4%,57.1%,0/1,134,6,5,65,49,16,7,1:46
 22-May-2023,Geneva,3,Clay,QF,27,59,1,3,,Alexander Zverev,Yibing Wu,4-1 RET,2.73,20.0%,0.0%,90.0%,77.8%,100.0%,0/0,62.5%,54.5%,0.0%,56.3%,50.0%,2/5,32,2,0,10,9,1,0,0:21
 22-May-2023,Geneva,3,Clay,R16,27,75,1,3,,Alexander Zverev,Christopher Eubanks,6-2 6-3,1.89,11.4%,4.5%,75.0%,87.9%,45.5%,1/1,59.1%,42.9%,8.2%,34.4%,58.8%,4/6,93,5,2,44,33,11,4,1:07

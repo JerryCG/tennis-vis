@@ -1,9 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,153,71,0,,,Zhizhen Zhang,Thiago Agustin Tirante,7-6(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,153,31,1,,,Thiago Agustin Tirante,Botic Van De Zandschulp,6-2 4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q3,153,116,1,,,Thiago Agustin Tirante,Dominic Stricker,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,153,71,0,Q,,Zhizhen Zhang,Thiago Agustin Tirante,7-6(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,153,31,1,Q,25,Thiago Agustin Tirante,Botic Van De Zandschulp,6-2 4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q3,153,116,1,,9,Thiago Agustin Tirante,Dominic Stricker,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q2,153,206,1,,,Thiago Agustin Tirante,Gauthier Onclin,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,153,136,1,,,Thiago Agustin Tirante,Rinky Hijikata,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,153,136,1,,29,Thiago Agustin Tirante,Rinky Hijikata,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,Tunis CH,3,Clay,R16,150,232,0,5,WC,Aziz Dougaz,Thiago Agustin Tirante,6-4 6-3,0.75,3.3%,3.3%,61.7%,59.5%,34.8%,3/8,44.0%,37.5%,1.8%,25.0%,50.0%,2/6,116,2,2,60,37,23,1,1:32
 15-May-2023,Tunis CH,3,Clay,R32,150,213,1,5,Q,Thiago Agustin Tirante,Shintaro Mochizuki,6-4 6-4,1.15,0.0%,6.3%,68.3%,69.8%,40.0%,5/7,53.3%,45.6%,0.0%,44.8%,46.4%,4/12,120,0,4,63,43,20,0,1:29
 8-May-2023,Francavilla Al Mare CH,3,Clay,QF,150,205,0,2,7,Nicholas David Ionel,Thiago Agustin Tirante,6-2 3-6 6-3,0.83,1.2%,4.7%,65.9%,66.1%,24.1%,11/17,46.1%,40.2%,1.2%,37.3%,53.3%,4/11,167,1,4,85,56,29,1,2:24

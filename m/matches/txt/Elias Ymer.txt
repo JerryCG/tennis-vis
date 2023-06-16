@@ -1,8 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R128,155,4,0,,,Casper Ruud,Elias Ymer,6-4 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q3,155,65,1,,,Elias Ymer,Yannick Hanfmann,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2023,Prostejov CH,3,Clay,R16,155,232,0,7,Alt,Dalibor Svrcina,Elias Ymer,4-1 RET,0.58,0.0%,0.0%,58.8%,30.0%,28.6%,0/3,35.3%,41.2%,0.0%,41.7%,40.0%,1/1,34,0,0,17,10,7,0,0:29
+5-Jun-2023,Prostejov CH,3,Clay,R32,155,163,1,7,,Elias Ymer,Dennis Novak,6-4 2-6 6-2,1.11,2.6%,7.7%,52.6%,73.2%,51.4%,3/6,51.2%,41.3%,2.2%,36.5%,47.5%,4/14,170,2,6,78,41,37,2,2:03
+29-May-2023,Roland Garros,5,Clay,R128,155,4,0,Q,4,Casper Ruud,Elias Ymer,6-4 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q3,155,65,1,,2,Elias Ymer,Yannick Hanfmann,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q2,155,194,1,,,Elias Ymer,Marc Polmans,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,155,128,1,,,Elias Ymer,Francesco Passaro,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,155,128,1,,17,Elias Ymer,Francesco Passaro,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,Bordeaux CH,3,Clay,R32,146,209,0,Alt,Q,Gauthier Onclin,Elias Ymer,6-1 6-4,0.59,5.7%,1.9%,54.7%,62.1%,45.8%,4/7,41.0%,26.9%,3.8%,19.4%,38.1%,0/3,105,3,1,53,29,24,2,1:18
 8-May-2023,Rome Masters,3,Clay,Q2,146,65,0,,2,Daniel Altmaier,Elias Ymer,7-6(5) 6-0,0.74,4.8%,1.6%,54.8%,64.7%,39.3%,6/11,44.2%,34.5%,3.4%,28.9%,45.0%,2/2,120,3,1,62,34,28,2,1:50
 8-May-2023,Rome Masters,3,Clay,Q1,146,125,1,,16,Elias Ymer,Tomas Machac,1-6 6-2 7-6(4),0.95,7.8%,3.9%,62.3%,75.0%,44.8%,2/6,49.3%,34.7%,2.7%,30.0%,44.0%,3/3,152,6,3,77,48,29,2,2:08

@@ -1,5 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R128,44,118,0,,,Sebastian Ofner,Maxime Cressy,6-4 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2023,'S-Hertogenbosch,3,Grass,R32,40,82,0,8,,Marc Andrea Huesler,Maxime Cressy,6-2 7-6(2),0.63,12.8%,17.9%,56.4%,68.2%,38.2%,4/7,43.5%,28.3%,10.0%,25.8%,31.0%,1/5,138,10,14,78,44,34,6,1:39
+29-May-2023,Roland Garros,5,Clay,R128,44,118,0,,Q,Sebastian Ofner,Maxime Cressy,6-4 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 8-May-2023,Rome Masters,3,Clay,R128,41,484,0,,PR,Guido Pella,Maxime Cressy,6-3 6-4,0.78,8.7%,15.9%,49.3%,79.4%,37.1%,5/7,45.3%,32.9%,0.0%,32.0%,35.0%,0/4,139,6,11,69,34,35,0,1:40
 24-Apr-2023,Madrid Masters,3,Clay,R128,39,84,0,,,Stan Wawrinka,Maxime Cressy,6-7(3) 6-3 7-6(4),0.75,9.2%,11.2%,58.2%,84.2%,58.5%,0/1,46.9%,19.8%,19.8%,14.8%,26.2%,0/2,194,9,11,98,57,41,19,2:27
 10-Apr-2023,Monte Carlo Masters,3,Clay,R64,40,22,0,,,Matteo Berrettini,Maxime Cressy,6-4 6-2,0.61,9.2%,21.5%,49.2%,71.9%,36.4%,5/8,42.4%,28.3%,5.7%,26.2%,36.4%,0/2,118,6,14,65,32,33,3,1:26

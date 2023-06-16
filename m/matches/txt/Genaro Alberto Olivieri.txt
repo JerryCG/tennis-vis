@@ -1,7 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R32,231,6,0,,,Holger Rune,Genaro Alberto Olivieri,6-4 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R64,231,148,1,,,Genaro Alberto Olivieri,Andrea Vavassori,7-6(7) 3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,231,237,1,,,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,7-6(3) 4-6 4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R32,231,6,0,Q,6,Holger Rune,Genaro Alberto Olivieri,6-4 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,231,148,1,Q,Q,Genaro Alberto Olivieri,Andrea Vavassori,7-6(7) 3-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,231,237,1,Q,WC,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,7-6(3) 4-6 4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q3,231,215,1,,,Genaro Alberto Olivieri,Adrian Andreev,6-1 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q2,231,253,1,,,Genaro Alberto Olivieri,Michael Geerts,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q1,231,214,1,,,Genaro Alberto Olivieri,Henri Laaksonen,7-5 6-1,,,,,,,,,,,,,,,,,,,,,

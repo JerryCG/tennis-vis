@@ -1,8 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-4-Jun-2023,Surbiton CH,3,Grass,Q1,200,355,0,4,,Billy Harris,Juncheng Shang,7-5 7-5,0.84,3.8%,2.6%,70.5%,56.4%,56.5%,7/12,47.0%,36.6%,9.9%,23.3%,57.1%,3/8,149,3,2,78,55,23,7,1:40
-29-May-2023,Roland Garros,5,Clay,R128,200,94,0,,,Juan Pablo Varillas,Juncheng Shang,4-6 2-6 6-2 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2023,Nottingham CH,3,Grass,R32,176,67,1,Q,2,Juncheng Shang,Constant Lestienne,7-6(5) 4-6 6-4,1.11,6.0%,1.7%,68.1%,69.6%,45.9%,8/12,52.4%,42.2%,7.3%,29.3%,56.9%,4/10,225,7,2,116,79,37,8,2:41
+11-Jun-2023,Nottingham CH,3,Grass,Q2,176,427,1,4,Alt,Juncheng Shang,Stuart Parker,7-6(5) 1-6 7-6(5),0.84,4.0%,5.0%,59.0%,71.2%,48.8%,6/10,46.6%,32.1%,16.0%,28.2%,40.0%,2/4,206,4,5,100,59,41,17,2:31
+11-Jun-2023,Nottingham CH,3,Grass,Q1,176,349,1,4,,Juncheng Shang,Billy Harris,6-3 6-3,2.57,13.0%,2.2%,54.3%,84.0%,81.0%,3/3,60.2%,44.8%,11.9%,34.8%,66.7%,3/8,113,6,1,46,25,21,8,1:13
+5-Jun-2023,Surbiton CH,3,Grass,Q1,200,355,0,4,,Billy Harris,Juncheng Shang,7-5 7-5,0.84,3.8%,2.6%,70.5%,56.4%,56.5%,7/12,47.0%,36.6%,9.9%,23.3%,57.1%,3/8,149,3,2,78,55,23,7,1:40
+29-May-2023,Roland Garros,5,Clay,R128,200,94,0,Q,,Juan Pablo Varillas,Juncheng Shang,4-6 2-6 6-2 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q3,200,261,1,,,Juncheng Shang,Renzo Olivo,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,200,115,1,,,Juncheng Shang,Fabian Marozsan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,200,115,1,,25,Juncheng Shang,Fabian Marozsan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q1,200,554,1,,,Juncheng Shang,Pablo Cuevas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Apr-2023,Sarasota CH,3,Clay,R32,182,92,0,,3,Daniel Elahi Galan,Juncheng Shang,6-3 6-2,0.57,4.7%,7.0%,55.8%,62.5%,47.4%,1/5,40.2%,25.0%,9.1%,24.1%,26.7%,1/1,87,2,3,43,24,19,4,1:01
 3-Apr-2023,Houston,3,Clay,Q1,182,150,0,,8,Felipe Meligeni Alves,Juncheng Shang,7-6(3) 4-1 RET,0.52,1.7%,0.0%,75.0%,66.7%,46.7%,3/4,42.7%,20.0%,12.0%,13.8%,28.6%,0/0,110,1,0,60,45,15,6,1:16

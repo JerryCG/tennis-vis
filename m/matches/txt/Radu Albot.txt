@@ -1,9 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,113,11,0,,,Karen Khachanov,Radu Albot,6-3 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,113,329,1,,,Radu Albot,Patrick Kypson,6-3 6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q3,113,150,1,,,Radu Albot,Camilo Ugo Carabelli,6-7(2) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,113,192,1,,,Radu Albot,Ryan Peniston,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,113,162,1,,,Radu Albot,Vit Kopriva,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2023,Stuttgart,3,Grass,Q2,102,75,0,5,1,Christopher Eubanks,Radu Albot,7-6(5) 7-6(3),1.02,5.2%,3.9%,67.5%,78.8%,60.0%,1/1,49.1%,27.9%,15.1%,22.4%,39.3%,0/0,163,4,3,77,52,25,13,1:49
+10-Jun-2023,Stuttgart,3,Grass,Q1,102,137,1,5,Alt,Radu Albot,Hugo Gaston,6-2 6-0,3.24,8.6%,2.9%,68.6%,83.3%,81.8%,0/0,67.5%,55.6%,0.0%,45.8%,66.7%,5/8,80,3,1,35,24,11,0,0:48
+29-May-2023,Roland Garros,5,Clay,R64,113,11,0,Q,11,Karen Khachanov,Radu Albot,6-3 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,113,329,1,Q,WC,Radu Albot,Patrick Kypson,6-3 6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q3,113,150,1,8,,Radu Albot,Camilo Ugo Carabelli,6-7(2) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,113,192,1,8,,Radu Albot,Ryan Peniston,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,113,162,1,8,,Radu Albot,Vit Kopriva,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,Oeiras 4 CH,3,Clay,QF,112,134,0,3,7,Facundo Diaz Acosta,Radu Albot,6-2 6-2,0.65,0.0%,9.3%,42.6%,43.5%,38.7%,5/11,39.8%,38.8%,4.1%,21.4%,61.9%,2/4,103,0,5,54,23,31,2,1:25
 15-May-2023,Oeiras 4 CH,3,Clay,R16,112,179,1,3,,Radu Albot,Jan Choinski,7-6(3) 6-4,1.24,5.0%,3.8%,53.8%,74.4%,54.1%,4/5,54.5%,43.2%,5.4%,40.0%,48.3%,2/5,154,4,3,80,43,37,4,1:59
 15-May-2023,Oeiras 4 CH,3,Clay,R32,112,212,1,3,Alt,Radu Albot,Adrian Andreev,6-1 6-3,1.77,1.9%,7.7%,53.8%,75.0%,66.7%,2/2,61.4%,51.0%,2.0%,41.2%,73.3%,4/5,101,1,4,52,28,24,1,1:18

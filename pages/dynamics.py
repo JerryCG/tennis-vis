@@ -6,7 +6,7 @@ dash.register_page(__name__, name = 'Dynamics')
 layout = html.Div(children = [
     html.Div(children=[
         html.Div(children=[
-            html.H2('Dynamic ATP Top10 from 2000-01-10 to 2023-06-05'),
+            html.H2('Dynamic ATP Top10 from 2000-01-10 to 2023-06-12'),
             html.Iframe(
                 src='https://flo.uri.sh/visualisation/11862538/embed',
                 title='Interactive or visual content',

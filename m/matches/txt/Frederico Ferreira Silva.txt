@@ -1,12 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,Q3,230,129,0,,,Giulio Zeppieri,Frederico Ferreira Silva,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,230,131,1,,,Frederico Ferreira Silva,Zizou Bergs,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2023,Prostejov CH,3,Clay,R32,230,127,0,,5,Tomas Machac,Frederico Ferreira Silva,6-2 6-2,0.64,2.1%,0.0%,63.8%,43.3%,52.9%,2/7,40.4%,34.0%,4.3%,31.0%,38.9%,1/2,94,1,0,47,30,17,2,1:18
+29-May-2023,Troisdorf CH,3,Clay,F,230,175,0,,,Ivan Gakhov,Frederico Ferreira Silva,6-2 5-7 6-3,0.80,3.1%,0.0%,57.1%,60.7%,52.4%,8/13,46.1%,34.4%,8.6%,23.1%,48.8%,2/3,191,3,0,98,56,42,8,2:40
+29-May-2023,Troisdorf CH,3,Clay,SF,230,254,1,,LL,Frederico Ferreira Silva,Sumit Nagal,6-2 3-6 6-4,1.15,6.6%,1.1%,61.5%,66.1%,42.9%,7/11,53.6%,49.4%,1.3%,42.4%,72.2%,5/10,168,6,1,91,56,35,1,2:29
+29-May-2023,Troisdorf CH,3,Clay,QF,230,261,1,,LL,Frederico Ferreira Silva,Renzo Olivo,6-3 6-2,1.43,1.6%,4.7%,65.6%,69.0%,45.5%,2/4,58.4%,55.7%,3.3%,50.0%,70.6%,5/10,125,1,3,64,42,22,2,1:39
+29-May-2023,Troisdorf CH,3,Clay,R16,230,284,1,,Q,Frederico Ferreira Silva,Benjamin Hassan,6-3 3-6 6-2,1.17,1.1%,1.1%,60.0%,70.2%,50.0%,11/13,54.1%,44.2%,6.5%,35.0%,54.1%,4/10,172,1,1,95,57,38,5,2:33
+29-May-2023,Troisdorf CH,3,Clay,R32,230,214,1,,Alt,Frederico Ferreira Silva,Henri Laaksonen,6-3 3-6 6-1,1.54,4.4%,4.4%,58.8%,80.0%,60.7%,0/1,55.3%,43.0%,1.1%,36.8%,52.8%,3/9,161,3,3,68,40,28,1,1:54
+29-May-2023,Roland Garros,5,Clay,Q3,230,129,0,,12,Giulio Zeppieri,Frederico Ferreira Silva,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,230,131,1,,21,Frederico Ferreira Silva,Zizou Bergs,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Roland Garros,5,Clay,Q1,230,250,1,,,Frederico Ferreira Silva,Lorenzo Giustino,6-7(6) 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
-28-May-2023,Troisdorf CH,3,Clay,F,230,175,0,,,Ivan Gakhov,Frederico Ferreira Silva,6-2 5-7 6-3,0.80,3.1%,0.0%,57.1%,60.7%,52.4%,8/13,46.1%,34.4%,8.6%,23.1%,48.8%,2/3,191,3,0,98,56,42,8,2:40
-28-May-2023,Troisdorf CH,3,Clay,SF,230,254,1,,LL,Frederico Ferreira Silva,Sumit Nagal,6-2 3-6 6-4,1.15,6.6%,1.1%,61.5%,66.1%,42.9%,7/11,53.6%,49.4%,1.3%,42.4%,72.2%,5/10,168,6,1,91,56,35,1,2:29
-28-May-2023,Troisdorf CH,3,Clay,QF,230,261,1,,LL,Frederico Ferreira Silva,Renzo Olivo,6-3 6-2,1.43,1.6%,4.7%,65.6%,69.0%,45.5%,2/4,58.4%,55.7%,3.3%,50.0%,70.6%,5/10,125,1,3,64,42,22,2,1:39
-28-May-2023,Troisdorf CH,3,Clay,R16,230,284,1,,Q,Frederico Ferreira Silva,Benjamin Hassan,6-3 3-6 6-2,1.17,1.1%,1.1%,60.0%,70.2%,50.0%,11/13,54.1%,44.2%,6.5%,35.0%,54.1%,4/10,172,1,1,95,57,38,5,2:33
-28-May-2023,Troisdorf CH,3,Clay,R32,230,214,1,,Alt,Frederico Ferreira Silva,Henri Laaksonen,6-3 3-6 6-1,1.54,4.4%,4.4%,58.8%,80.0%,60.7%,0/1,55.3%,43.0%,1.1%,36.8%,52.8%,3/9,161,3,3,68,40,28,1,1:54
 15-May-2023,Oeiras 4 CH,3,Clay,R32,215,127,0,WC,6,Aleksandar Vukic,Frederico Ferreira Silva,7-6(3) 6-3,0.77,6.4%,1.3%,67.9%,60.4%,64.0%,4/5,46.1%,29.7%,13.5%,19.1%,48.1%,0/0,152,5,1,78,53,25,10,1:50
 8-May-2023,Francavilla Al Mare CH,3,Clay,R32,215,190,0,,3,Alejandro Tabilo,Frederico Ferreira Silva,7-5 6-3,0.79,4.5%,3.0%,51.5%,47.1%,40.6%,5/12,44.2%,44.4%,6.3%,33.3%,54.5%,4/8,129,3,2,66,34,32,4,1:37
 1-May-2023,Aix En Provence CH,3,Clay,Q1,223,280,0,4,Alt,Robin Haase,Frederico Ferreira Silva,6-4 7-5,0.77,4.7%,4.7%,62.5%,62.5%,45.8%,2/6,44.7%,33.8%,13.2%,20.0%,53.6%,2/7,132,3,3,64,40,24,9,1:31
