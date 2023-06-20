@@ -3,7 +3,7 @@
  * Published Python Dash App can be found at: https://tennis-vis.herokuapp.com/
  * Raw data source: https://tennisabstract.com, https://www.atptour.com/
  * Current Version: 2.4
- * Last data/ATP Rank update: 2023-06-12/2023-05-29
+ * Last data/ATP Rank update: 2023-06-12/2023-06-12
  * Current Functionality:
     1. [Home](https://tennis-vis.herokuapp.com/)
         - A Network for All ATP Grand Slam Champions in Tennis History
