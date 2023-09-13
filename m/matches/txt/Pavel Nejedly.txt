@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+28-Aug-2023,M15 Vienna,3,Clay,R16,980,545,0,,3,Luka Mikrut,Pavel Nejedly,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Vienna,3,Clay,R32,980,,1,,Q,Pavel Nejedly,Vojtech Vlkovsky,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Lodz,3,Clay,R16,940,591,0,,7,Jiri Barnat,Pavel Nejedly,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Lodz,3,Clay,R32,940,1089,1,,,Pavel Nejedly,Giuseppe Tresca,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Store,3,Clay,R32,877,749,0,,,Martin Krumich,Pavel Nejedly,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,Prostejov CH,3,Clay,Q1,848,332,0,Alt,10,Manuel Guinard,Pavel Nejedly,6-3 6-1,0.65,1.7%,0.0%,60.3%,45.7%,34.8%,7/13,40.0%,38.1%,4.8%,29.4%,44.0%,2/2,100,1,0,58,35,23,2,1:13
 3-Apr-2023,M15 Antalya,3,Clay,R32,786,,0,,,Danil Panarin,Pavel Nejedly,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 20-Mar-2023,M15 Opatija,3,Clay,R32,803,306,0,,1,Timo Stodder,Pavel Nejedly,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -29,7 +34,7 @@
 15-Aug-2022,M15 Bad Waltersdorf,3,Clay,R32,704,1817,1,7,Q,Pavel Nejedly,Matic Dimic,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M15 Kottingbrunn,3,Clay,QF,716,743,0,4,,Matteo Donati,Pavel Nejedly,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M15 Kottingbrunn,3,Clay,R16,716,1612,1,4,Q,Pavel Nejedly,Francesco Ferrari,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M15 Kottingbrunn,3,Clay,R32,716,953,1,4,,Pavel Nejedly,Milos Karol ,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M15 Kottingbrunn,3,Clay,R32,716,953,1,4,,Pavel Nejedly,Milos Karol,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M25 Radomlje,3,Clay,R16,598,234,0,,1,Miljan Zekic,Pavel Nejedly,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M25 Radomlje,3,Clay,R32,598,1616,1,,Q,Pavel Nejedly,Nicolas Bruna,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
 11-Jul-2022,M15 Litija,3,Clay,QF,604,1072,0,4,Q,Amaury Raynel,Pavel Nejedly,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,R32,769,171,0,WC,,Kimmer Coppejans,Peter Benjamin Privara ,1-6 7-6(4) 6-1,0.84,8.6%,8.6%,55.2%,65.6%,44.2%,12/17,48.7%,37.0%,11.0%,40.0%,27.8%,4/5,189,10,10,116,64,52,8,2:05
+4-Sep-2023,M15 Budapest,3,Hard,R16,750,1577,0,5,Q,Matthew Summers,Peter Benjamin Privara ,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Budapest,3,Hard,R32,750,1244,1,5,,Peter Benjamin Privara ,Aaron Cohen,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Szczawno,3,Clay,R16,750,951,0,6,,Maciej Rajski,Peter Benjamin Privara ,6-4 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Szczawno,3,Clay,R32,750,1054,1,6,,Peter Benjamin Privara ,Andrea Gola,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R32,748,501,0,,6,Yshai Oliel,Peter Benjamin Privara ,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Perugia,3,Clay,R32,746,924,0,7,,Filippo Speziali,Peter Benjamin Privara ,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Gubbio,3,Clay,R32,739,445,0,,2,Federico Arnaboldi,Peter Benjamin Privara ,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Wroclaw,3,Clay,QF,782,605,0,,4,Jiri Barnat,Peter Benjamin Privara ,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Wroclaw,3,Clay,R16,782,641,1,,5,Peter Benjamin Privara ,Zura Tkemaladze,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Wroclaw,3,Clay,R32,782,,1,,Q,Peter Benjamin Privara ,Aristotelis Thanos,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R16,778,530,0,WC,7,Toby Alex Kodat,Peter Benjamin Privara ,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R32,778,1954,1,WC,Q,Peter Benjamin Privara ,Stepan Mruzek,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Bratislava CH,3,Clay,R32,769,171,0,WC,,Kimmer Coppejans,Peter Benjamin Privara ,1-6 7-6(4) 6-1,0.84,8.6%,8.6%,55.2%,65.6%,44.2%,12/17,48.7%,37.0%,11.0%,40.0%,27.8%,4/5,189,10,10,116,64,52,8,2:05
 5-Jun-2023,Prostejov CH,3,Clay,Q1,806,237,0,WC,2,Giovanni Mpetshi Perricard,Peter Benjamin Privara ,6-7(6) 7-6(2) 7-6(7),0.96,10.5%,11.3%,44.4%,83.1%,52.7%,5/7,49.3%,32.6%,15.6%,22.4%,50.0%,2/7,268,14,15,133,59,74,21,3:22
 22-May-2023,M15 Brcko,3,Clay,QF,800,,0,,Q,Aleksa Mardjonovic,Peter Benjamin Privara ,1-6 7-6(0) 6-4,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Brcko,3,Clay,R16,800,720,1,,,Peter Benjamin Privara ,Alejandro Hoyos Franco,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -26,7 +38,7 @@
 13-Feb-2023,M15 Oberhaching,3,Hard,R32,930,899,0,,Q,Mika Brunold,Peter Benjamin Privara ,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Feb-2023,M15 Grenoble,3,Hard,R32,930,656,0,,,Emilien Voisin,Peter Benjamin Privara ,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M15 Monastir,3,Hard,R32,923,622,0,,7,Kai Wehnelt,Peter Benjamin Privara ,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Nov-2022,M25 Trnava,3,Hard,R32,918,1656,0,WC,WC,Milos Karol ,Peter Benjamin Privara ,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2022,M25 Trnava,3,Hard,R32,918,1656,0,WC,WC,Milos Karol,Peter Benjamin Privara ,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Bratislava CH,3,Hard,R32,963,333,0,WC,Q,Viktor Durasovic,Peter Benjamin Privara ,6-3 6-4,0.54,6.3%,8.3%,68.8%,75.8%,33.3%,1/3,40.2%,20.4%,9.3%,15.6%,27.3%,0/1,102,3,4,48,33,15,5,1:06
 31-Oct-2022,M15 Monastir,3,Hard,QF,1342,736,0,,,Xiaofei Wang,Peter Benjamin Privara ,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Monastir,3,Hard,R16,1342,649,1,,5,Peter Benjamin Privara ,Constantin Bittoun Kouzmine,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

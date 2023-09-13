@@ -1,4 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+10-Sep-2023,Cary CH,3,Hard,Q2,680,444,1,,3,Pedro Vives Marcos,Cannon Kingsley,6-4 6-4,1.14,8.5%,3.4%,76.3%,71.1%,42.9%,0/2,53.1%,40.7%,9.3%,33.3%,52.4%,4/5,113,5,2,59,45,14,5,1:22
+10-Sep-2023,Cary CH,3,Hard,Q1,680,517,1,,7,Pedro Vives Marcos,Inaki Montes De La Torre,4-6 6-2 7-5,1.27,6.6%,4.4%,50.5%,73.9%,57.8%,4/6,53.8%,43.3%,1.9%,35.8%,56.8%,4/7,195,6,4,91,46,45,2,2:35
+14-Aug-2023,Palo Alto CH,3,Hard,Q2,675,463,0,,8,Alexander Cozbinov,Pedro Vives Marcos,6-3 4-4 RET,0.77,4.2%,8.3%,56.3%,59.3%,33.3%,2/6,43.9%,40.0%,10.0%,34.5%,47.6%,3/5,98,2,4,48,27,21,5,1:19
+7-Aug-2023,Meerbusch CH,3,Clay,Q1,683,542,0,,6,Felix Gill,Pedro Vives Marcos,7-6(6) 7-6(4),0.93,4.9%,1.9%,62.1%,60.9%,48.7%,10/13,48.7%,40.4%,1.1%,28.8%,60.0%,3/7,197,5,2,103,64,39,1,2:23
+17-Jul-2023,Pozoblanco CH,3,Hard,R32,704,250,0,Q,,Terence Atmane,Pedro Vives Marcos,7-6(2) 7-6(0),0.63,0.0%,2.6%,55.8%,67.4%,64.7%,3/4,44.6%,21.1%,11.3%,18.6%,25.0%,1/3,148,0,2,77,43,34,8,1:39
+17-Jul-2023,Pozoblanco CH,3,Hard,Q2,704,540,1,WC,,Pedro Vives Marcos,Evgeny Karlovskiy,6-3 6-2,1.96,6.8%,2.3%,68.2%,76.7%,57.1%,0/2,64.0%,57.8%,4.4%,47.8%,68.2%,5/8,89,3,1,44,30,14,2,1:04
+17-Jul-2023,Pozoblanco CH,3,Hard,Q1,704,381,1,WC,8,Pedro Vives Marcos,David Jorda Sanchis,7-6(4) 6-2,1.35,3.8%,1.3%,60.0%,72.9%,62.5%,8/8,56.3%,42.3%,5.6%,27.7%,70.8%,2/7,151,3,1,80,48,32,4,
+10-Jul-2023,M25 Roda de Bara,3,Hard,R16,722,515,0,WC,,Fajing Sun,Pedro Vives Marcos,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,R32,722,1032,1,WC,Q,Pedro Vives Marcos,Michael Zhu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bakio,3,Hard,QF,890,362,0,SE,5,Lucas Poullain,Pedro Vives Marcos,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bakio,3,Hard,R16,890,567,1,SE,,Pedro Vives Marcos,Sergi Perez Contri,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bakio,3,Hard,R32,890,879,1,SE,,Pedro Vives Marcos,Juan Carlos Aguilar,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,F,1807,517,0,SE,7,Henrique Rocha,Pedro Vives Marcos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,SF,1807,817,1,SE,,Pedro Vives Marcos,Alex Martinez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,QF,1807,793,1,SE,,Pedro Vives Marcos,Pedro Araujo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,R16,1807,503,1,SE,5,Pedro Vives Marcos,Constantin Bittoun Kouzmine,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,R32,1807,520,1,SE,,Pedro Vives Marcos,Inaki Montes De La Torre,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,F,1795,593,0,WC,,Fajing Sun,Pedro Vives Marcos,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,SF,1795,516,1,WC,,Pedro Vives Marcos,Henrique Rocha,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,QF,1795,1366,1,WC,Q,Pedro Vives Marcos,Iiro Vasa,6-7(6) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,R16,1795,700,1,WC,,Pedro Vives Marcos,Benjamin Winter Lopez,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,R32,1795,506,1,WC,3,Pedro Vives Marcos,Ramkumar Ramanathan,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 27-Jun-2022,M25 Bakio,3,Hard,R32,1107,710,0,,8,John Echeverria,Pedro Vives Marcos,6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M25 Mungia,3,Clay,R16,1102,1160,0,WC,Q,Garrett Johns,Pedro Vives Marcos,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,M25 Mungia,3,Clay,R32,1102,1659,1,WC,WC,Pedro Vives Marcos,Luis Diego Chavez Villalpando,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Tulln CH,3,Clay,Q2,313,527,0,2,9,Jeremy Jahn,Maks Kasnikowski,6-1 6-4,0.74,6.7%,6.7%,57.8%,65.4%,36.8%,3/6,42.0%,34.3%,1.5%,32.5%,37.0%,0/7,112,3,3,45,26,19,1,1:20
+4-Sep-2023,Tulln CH,3,Clay,Q1,313,1679,1,2,WC,Maks Kasnikowski,Paul Werren,6-1 6-3,1.86,4.8%,2.4%,64.3%,81.5%,53.3%,2/3,60.6%,53.2%,3.2%,43.8%,63.3%,5/14,104,2,1,42,27,15,2,1:10
+21-Aug-2023,M25 Poznan,3,Clay,R16,314,672,0,1,,Kai Wehnelt,Maks Kasnikowski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R32,314,1001,1,1,Q,Maks Kasnikowski,Lukas Palovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,QF,329,183,0,,5,Jesper De Jong,Maks Kasnikowski,6-0 6-2,0.32,1.9%,3.7%,55.6%,56.7%,29.2%,4/9,34.1%,17.6%,17.6%,8.7%,36.4%,0/0,88,1,2,54,30,24,6,1:00
+14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,R16,329,351,1,,Alt,Maks Kasnikowski,Peter Gojowczyk,6-3 6-4,1.25,5.1%,1.7%,61.0%,75.0%,56.5%,0/1,55.0%,40.4%,13.5%,25.0%,65.0%,3/7,111,3,1,59,36,23,7,1:16
+14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,R32,329,465,1,,LL,Maks Kasnikowski,Stefanos Sakellaridis,6-2 6-0,1.99,10.8%,5.4%,56.8%,85.7%,50.0%,0/1,64.0%,59.2%,2.0%,51.7%,70.0%,6/8,86,4,2,37,21,16,1,1:04
+31-Jul-2023,Liberec CH,3,Clay,R32,308,170,0,,3,Dalibor Svrcina,Maks Kasnikowski,3-6 7-6(0) 6-3,0.93,2.2%,3.2%,49.5%,54.3%,36.2%,6/14,48.4%,50.8%,0.0%,44.8%,65.7%,9/18,215,2,3,93,46,47,0,2:36
+17-Jul-2023,Tampere CH,3,Clay,R32,303,189,0,,6,Riccardo Bonadio,Maks Kasnikowski,6-4 6-0,0.64,4.0%,4.0%,50.0%,56.0%,36.0%,0/5,40.6%,34.8%,6.5%,25.9%,47.4%,1/2,96,2,2,50,25,25,3,1:12
+26-Jun-2023,Modena CH,3,Clay,QF,309,261,0,Q,,Titouan Droguet,Maks Kasnikowski,6-1 7-5,0.59,1.3%,0.0%,53.8%,54.8%,50.0%,10/14,42.2%,28.1%,12.3%,15.6%,44.0%,1/2,135,1,0,78,42,36,7,1:38
+26-Jun-2023,Modena CH,3,Clay,R16,309,221,1,Q,,Maks Kasnikowski,Stefano Travaglia,6-2 7-6(4),1.21,10.3%,2.6%,65.4%,72.5%,44.4%,5/7,54.4%,45.1%,5.6%,37.0%,60.0%,4/8,149,8,2,78,51,27,4,2:02
+26-Jun-2023,Modena CH,3,Clay,R32,309,689,1,Q,,Maks Kasnikowski,Gilles Arnaud Bailly,6-4 7-5,1.26,4.2%,1.4%,59.2%,88.1%,41.4%,8/9,54.3%,39.1%,0.0%,30.0%,51.7%,3/5,140,3,1,71,42,29,0,1:59
+26-Jun-2023,Modena CH,3,Clay,Q2,309,418,1,6,,Maks Kasnikowski,Daniel Dutra Da Silva,W/O,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,Modena CH,3,Clay,Q1,309,429,1,6,,Maks Kasnikowski,Saba Purtseladze,6-4 6-2,2.12,10.9%,0.0%,56.5%,84.6%,70.0%,0/0,59.6%,46.0%,3.2%,27.0%,73.1%,3/7,109,5,0,46,26,20,2,1:21
+19-Jun-2023,Poznan CH,3,Clay,R16,322,240,0,WC,,Mariano Navone,Maks Kasnikowski,6-4 7-6(4),0.94,1.4%,1.4%,47.2%,70.6%,47.4%,0/3,48.3%,39.2%,0.0%,36.0%,44.8%,2/9,151,1,1,72,34,38,0,2:15
+19-Jun-2023,Poznan CH,3,Clay,R32,322,249,1,WC,,Maks Kasnikowski,Henri Laaksonen,6-1 2-6 7-6(4),1.27,4.8%,3.6%,54.8%,73.9%,63.2%,4/6,53.0%,39.4%,4.0%,41.1%,37.2%,2/13,183,4,3,84,46,38,4,2:05
 5-Jun-2023,Tyler CH,3,Hard,Q1,319,442,0,3,,Gustavo Heide,Maks Kasnikowski,7-6(0) 6-3,0.67,6.2%,3.7%,56.8%,67.4%,45.7%,7/9,44.3%,27.9%,11.8%,18.4%,40.0%,1/2,149,5,3,81,46,35,8,1:50
 29-May-2023,Little Rock CH,3,Hard,R32,319,272,0,Q,,Joao Lucas Reis Da Silva,Maks Kasnikowski,6-2 6-3,0.66,1.9%,5.7%,52.8%,57.1%,52.0%,1/4,41.8%,29.8%,1.8%,18.9%,50.0%,0/0,110,1,3,53,28,25,1,1:20
 29-May-2023,Little Rock CH,3,Hard,Q2,319,399,1,2,12,Maks Kasnikowski,Omni Kumar,6-4 7-5,1.40,3.4%,1.7%,51.7%,73.3%,64.3%,1/3,55.8%,43.5%,9.7%,30.0%,56.3%,4/4,120,2,1,58,30,28,6,1:44

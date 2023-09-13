@@ -1,4 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Aug-2023,Banja Luka CH,3,Clay,Q1,621,605,0,,12,Mirza Basic,Lorenzo Bocchi,2-0 RET,0.47,0.0%,0.0%,40.0%,0.0%,33.3%,0/1,30.8%,37.5%,0.0%,16.7%,100.0%,0/1,13,0,0,5,2,3,0,0:11
+31-Jul-2023,San Marino CH,3,Clay,Q1,614,303,0,,2,Kyrian Jacquet,Lorenzo Bocchi,6-3 6-3,0.65,3.2%,4.8%,55.6%,60.0%,39.3%,6/10,42.0%,32.1%,5.4%,22.9%,47.6%,1/4,119,2,3,63,35,28,3,1:21
+24-Jul-2023,Verona CH,3,Clay,Q1,609,306,0,,4,Chun Hsin Tseng,Lorenzo Bocchi,6-2 6-2,0.12,2.1%,12.8%,51.1%,62.5%,39.1%,7/11,32.1%,5.9%,17.6%,9.1%,0.0%,0/0,81,1,6,47,24,23,6,1:01
+17-Jul-2023,Trieste CH,3,Clay,Q1,605,357,0,,4,Carlos Taberner,Lorenzo Bocchi,6-4 6-1,0.68,4.5%,7.5%,55.2%,45.9%,36.7%,9/16,40.9%,39.6%,8.3%,24.2%,73.3%,3/6,115,3,5,67,37,30,4,
+10-Jul-2023,Iasi CH,3,Clay,Q2,617,431,0,,6,Andrey Chepelev,Lorenzo Bocchi,7-5 6-2,0.82,1.4%,5.6%,54.9%,59.0%,37.5%,8/14,45.7%,41.8%,1.5%,34.0%,60.0%,3/7,138,1,4,71,39,32,1,1:51
+10-Jul-2023,Iasi CH,3,Clay,Q1,617,434,1,,7,Lorenzo Bocchi,Saba Purtseladze,5-7 7-5 6-4,1.12,2.1%,6.3%,58.3%,67.9%,57.5%,2/6,51.5%,40.7%,6.5%,23.6%,58.5%,5/16,204,2,6,96,56,40,7,
+3-Jul-2023,M25 Biella,3,Clay,QF,617,334,0,7,1,Clement Tabur,Lorenzo Bocchi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,R16,617,923,1,7,,Lorenzo Bocchi,Nicolas Parizzia,3-6 7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,R32,617,1194,1,7,Q,Lorenzo Bocchi,Alessandro Cortegiani,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Store,3,Clay,R16,612,1386,0,6,Q,Alexander Klintcharov,Lorenzo Bocchi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Store,3,Clay,R32,612,1210,1,6,,Lorenzo Bocchi,Matthew William Donald,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Tehran,3,Clay,F,688,,1,5,Q,Lorenzo Bocchi,Alexander Stater,6-3 6-7 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Tehran,3,Clay,SF,688,824,1,5,,Lorenzo Bocchi,Karan Singh,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Tehran,3,Clay,QF,688,1525,1,5,WC,Lorenzo Bocchi,Sina Moghimi,6-3 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -39,7 +50,7 @@
 5-Sep-2022,M15 Salerno,3,Hard,R32,734,,1,4,WC,Lorenzo Bocchi,Jacopo Bilardo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Pescara,3,Clay,R16,734,717,0,8,,Marcello Serafini,Lorenzo Bocchi,7-6(12) 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Pescara,3,Clay,R32,734,,1,8,WC,Lorenzo Bocchi,Vito Dellelba,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Aug-2022,M15 Bad Waltersdorf,3,Clay,SF,705,,0,5,6,Tommaso Compagnucci ,Lorenzo Bocchi,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,M15 Bad Waltersdorf,3,Clay,SF,705,,0,5,6,Tommaso Compagnucci,Lorenzo Bocchi,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M15 Bad Waltersdorf,3,Clay,QF,705,1860,1,5,WC,Lorenzo Bocchi,Marko Andrejic,4-6 6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M15 Bad Waltersdorf,3,Clay,R16,705,1836,1,5,WC,Lorenzo Bocchi,Niklas Waldner,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M15 Bad Waltersdorf,3,Clay,R32,705,862,1,5,,Lorenzo Bocchi,Petr Nesterov,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,

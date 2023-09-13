@@ -1,5 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Nottingham CH,3,Grass,Q1,361,194,0,,1,Joris De Loore,Luke Saville,7-6(5) 4-6 7-6(6),1.20,5.0%,1.0%,69.0%,84.1%,58.1%,0/0,50.7%,28.7%,13.0%,20.0%,45.0%,1/9,215,5,1,100,69,31,15,2:48
+4-Sep-2023,Shanghai CH,3,Hard,R32,319,69,0,,1,Christopher Oconnell,Luke Saville,6-4 6-0,0.46,4.2%,8.3%,62.5%,66.7%,27.8%,2/6,38.2%,22.0%,9.8%,8.0%,43.8%,0/0,89,2,4,48,30,18,4,1:08
+28-Aug-2023,Zhangjiagang CH,3,Hard,R32,319,281,0,,8,James Mccabe,Luke Saville,7-6(3) 2-6 6-3,1.08,8.2%,3.1%,59.8%,72.4%,46.2%,7/10,50.7%,41.2%,7.9%,28.8%,54.5%,4/9,211,8,3,97,58,39,9,2:41
+21-Aug-2023,Zhuhai CH,3,Hard,R32,310,1087,0,4,Q,Aliaksandr Liaonenka,Luke Saville,7-6(5) 6-3,1.03,11.1%,1.9%,63.0%,85.3%,55.0%,0/2,47.2%,26.8%,16.9%,8.9%,57.7%,1/5,125,6,1,54,34,20,12,1:37
+31-Jul-2023,M15 Caloundra,3,Hard,F,339,976,1,2,,Luke Saville,Isaac Becroft,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Caloundra,3,Hard,SF,339,379,1,2,3,Luke Saville,Colin Sinclair,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Caloundra,3,Hard,QF,339,874,1,2,7,Luke Saville,Daisuke Sumizawa,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Caloundra,3,Hard,R16,339,782,1,2,,Luke Saville,Brandon Walkin,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Caloundra,3,Hard,R32,339,1121,1,2,Q,Luke Saville,Jack Loutit,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Caloundra,3,Hard,F,366,590,1,2,4,Luke Saville,Ryuki Matsuda,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Caloundra,3,Hard,SF,366,408,1,2,3,Luke Saville,Thomas Fancutt,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Caloundra,3,Hard,QF,366,598,1,2,5,Luke Saville,Edward Winter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Caloundra,3,Hard,R16,366,,1,2,Q,Luke Saville,Jeremy Zhang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Caloundra,3,Hard,R32,366,842,1,2,,Luke Saville,Moerani Bouzige,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Roehampton,3,Grass,F,368,425,1,2,5,Luke Saville,Daniel Cox,6-4 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Roehampton,3,Grass,SF,368,635,1,2,8,Luke Saville,Johannus Monday,7-6(1) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Roehampton,3,Grass,QF,368,599,1,2,,Luke Saville,Mark Whitehouse,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Roehampton,3,Grass,R16,368,1414,1,2,Q,Luke Saville,Emile Hudd,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Roehampton,3,Grass,R32,368,1492,1,2,Q,Luke Saville,Matthew Summers,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Nottingham,3,Grass,R32,376,550,0,4,,Toby Samuel,Luke Saville,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Nottingham CH,3,Grass,Q1,361,194,0,,1,Joris De Loore,Luke Saville,7-6(5) 4-6 7-6(6),1.20,5.0%,1.0%,69.0%,84.1%,58.1%,0/0,50.7%,28.7%,13.0%,20.0%,45.0%,1/9,215,5,1,100,69,31,15,2:48
 5-Jun-2023,Surbiton CH,3,Grass,R16,415,131,0,Q,,Zizou Bergs,Luke Saville,6-2 7-6(4),0.51,0.0%,4.1%,67.1%,69.4%,45.8%,8/10,43.4%,19.6%,12.5%,20.8%,12.5%,0/0,129,0,3,73,49,24,7,1:28
 5-Jun-2023,Surbiton CH,3,Grass,R32,415,85,1,Q,,Luke Saville,Alexei Popyrin,6-7(3) 6-4 7-6(6),0.85,6.1%,1.7%,65.2%,74.7%,60.0%,4/5,49.5%,25.8%,14.4%,20.6%,37.9%,2/4,212,7,2,115,75,40,14,2:27
 5-Jun-2023,Surbiton CH,3,Grass,Q2,415,432,1,Alt,Alt,Luke Saville,Jay Clarke,6-4 6-0,2.69,5.0%,2.5%,72.5%,86.2%,72.7%,1/1,62.6%,47.1%,3.9%,32.0%,61.5%,4/7,91,2,1,40,29,11,2,0:58

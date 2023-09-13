@@ -1,6 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-23-Jun-2014,Wimbledon Q,3,Grass,Q2,282,130,0,,19,Pierre Hugues Herbert,Daniel Kosakowski,6-1 6-3,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,0:49
-23-Jun-2014,Wimbledon Q,3,Grass,Q1,282,328,1,,WC,Daniel Kosakowski,Marcus Willis,6-3 6-3,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:01
+23-Jun-2014,Wimbledon,5,Grass,Q2,282,130,0,,19,Pierre Hugues Herbert,Daniel Kosakowski,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2014,Wimbledon,5,Grass,Q1,282,328,1,,WC,Daniel Kosakowski,Marcus Willis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Jun-2014,Nottingham2 CH,3,Grass,R32,276,156,0,,8,Rajeev Ram,Daniel Kosakowski,6-2 6-3,0.56,2.1%,0.0%,72.3%,50.0%,38.5%,2/7,38.5%,29.5%,9.1%,23.5%,50.0%,2/2,91,1,0,47,34,13,4,1:03
 3-Jun-2014,Arad CH,3,Clay,R16,290,84,0,,1,Pere Riba,Daniel Kosakowski,6-2 6-1,0.61,0.0%,0.0%,69.1%,60.5%,29.4%,7/11,41.0%,30.0%,6.0%,26.7%,35.0%,0/2,105,0,0,55,38,17,3,1:25
 3-Jun-2014,Arad CH,3,Clay,R32,290,202,1,,,Daniel Kosakowski,Ilija Bozoljac,7-5 6-3,1.49,6.5%,0.0%,69.4%,69.8%,68.4%,1/2,56.0%,45.6%,1.3%,40.0%,58.3%,4/10,141,4,0,62,43,19,1,1:37
@@ -18,9 +18,9 @@
 10-Mar-2014,USA F8,3,Hard,R16,366,1454,1,3,LL,Daniel Kosakowski,Adam Chadaj,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 10-Mar-2014,USA F8,3,Hard,R32,366,612,1,3,,Daniel Kosakowski,Dennis Novikov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2014,Indian Wells Masters,3,Hard,R128,366,101,0,Q,Q,Dominic Thiem,Daniel Kosakowski,6-2 7-6(1),0.46,6.3%,3.2%,66.7%,69.0%,33.3%,2/4,39.5%,19.6%,7.1%,11.1%,27.6%,0/2,119,4,2,63,42,21,4,1:29
-6-Mar-2014,Indian Wells Masters Q,3,Hard,Q2,366,95,1,,3,Daniel Kosakowski,David Goffin,6-3 6-2,1.80,11.8%,2.0%,54.9%,85.7%,60.9%,0/0,60.6%,45.8%,8.3%,36.7%,61.1%,3/4,99,6,1,51,28,23,4,1:18
-6-Mar-2014,Indian Wells Masters Q,3,Hard,Q1,366,152,1,,16,Daniel Kosakowski,Thiemo De Bakker,6-1 6-2,3.33,7.9%,0.0%,42.1%,93.8%,77.3%,0/0,68.4%,52.6%,10.5%,42.9%,64.7%,4/5,76,3,0,38,16,22,4,0:54
-24-Feb-2014,Acapulco Q,3,Hard,Q1,368,120,0,,7,Wayne Odesnik,Daniel Kosakowski,6-3 6-1,0.46,5.7%,7.5%,69.8%,51.4%,37.5%,5/10,37.2%,24.4%,4.9%,13.8%,50.0%,1/1,94,3,4,53,37,16,2,1:02
+6-Mar-2014,Indian Wells Masters,3,Hard,Q2,366,95,1,,3,Daniel Kosakowski,David Goffin,6-3 6-2,1.80,11.8%,2.0%,54.9%,85.7%,60.9%,0/0,60.6%,45.8%,8.3%,36.7%,61.1%,3/4,99,6,1,51,28,23,4,1:18
+6-Mar-2014,Indian Wells Masters,3,Hard,Q1,366,152,1,,16,Daniel Kosakowski,Thiemo De Bakker,6-1 6-2,3.33,7.9%,0.0%,42.1%,93.8%,77.3%,0/0,68.4%,52.6%,10.5%,42.9%,64.7%,4/5,76,3,0,38,16,22,4,0:54
+24-Feb-2014,Acapulco,3,Hard,Q1,368,120,0,,7,Wayne Odesnik,Daniel Kosakowski,6-3 6-1,0.46,5.7%,7.5%,69.8%,51.4%,37.5%,5/10,37.2%,24.4%,4.9%,13.8%,50.0%,1/1,94,3,4,53,37,16,2,1:02
 17-Feb-2014,Morelos CH,3,Hard,QF,409,144,0,,3,Malek Jaziri,Daniel Kosakowski,6-3 5-7 7-6(5),1.07,12.2%,5.1%,62.2%,73.8%,43.2%,1/5,50.2%,40.3%,7.6%,24.2%,60.4%,4/6,217,12,5,98,61,37,9,2:41
 17-Feb-2014,Morelos CH,3,Hard,R16,409,299,1,,,Daniel Kosakowski,Chase Buchanan,6-3 6-4,1.58,10.2%,5.1%,67.8%,82.5%,47.4%,0/1,57.6%,45.5%,1.5%,40.0%,57.1%,3/7,125,6,3,59,40,19,1,1:23
 17-Feb-2014,Morelos CH,3,Hard,R32,409,177,1,,5,Daniel Kosakowski,Bobby Reynolds,7-6(0) 6-4,1.12,9.2%,6.2%,69.2%,68.9%,45.0%,2/5,52.3%,43.1%,12.3%,33.3%,65.0%,4/7,130,6,4,65,45,20,8,1:36
@@ -30,9 +30,9 @@
 27-Jan-2014,Chitre CH,3,Hard,R16,507,196,1,,6,Daniel Kosakowski,Gerald Melzer,4-6 7-6(3) 7-6(0),0.93,6.8%,3.4%,65.8%,76.6%,47.5%,8/11,50.5%,30.9%,6.2%,26.5%,41.4%,2/2,214,8,4,117,77,40,6,2:45
 27-Jan-2014,Chitre CH,3,Hard,R32,507,374,1,,,Daniel Kosakowski,Nicolas Meister,7-6(5) 4-6 6-2,1.16,3.6%,3.6%,70.9%,71.8%,40.6%,11/14,53.0%,43.1%,3.7%,36.5%,57.1%,4/9,219,4,4,110,78,32,4,2:53
 20-Jan-2014,Maui CH,3,Hard,R32,589,371,0,Q,,Takanyi Garanganga,Daniel Kosakowski,2-6 6-4 7-6(5),1.11,1.9%,0.9%,59.8%,68.8%,48.8%,6/9,52.1%,43.4%,1.9%,40.0%,51.6%,4/8,213,2,1,107,64,43,2,2:58
-13-Jan-2014,Australian Open Q,3,Hard,Q3,589,173,0,,,Jimmy Wang,Daniel Kosakowski,7-6(7) 6-3,0.69,2.4%,2.4%,54.2%,60.0%,50.0%,2/6,44.8%,30.6%,0.0%,21.1%,45.8%,2/4,145,2,2,83,45,38,0,1:46
-13-Jan-2014,Australian Open Q,3,Hard,Q2,589,195,1,,,Daniel Kosakowski,Norbert Gombos,6-3 6-2,2.55,15.9%,0.0%,56.8%,84.0%,78.9%,0/0,62.2%,46.3%,1.9%,50.0%,40.9%,3/7,98,7,0,44,25,19,1,1:03
-13-Jan-2014,Australian Open Q,3,Hard,Q1,589,156,1,,30,Daniel Kosakowski,Tatsuma Ito,6-3 2-6 6-4,1.18,6.9%,1.4%,51.4%,70.3%,54.3%,5/9,52.1%,44.1%,2.2%,32.7%,56.8%,5/8,165,5,1,72,37,35,2,1:58
+13-Jan-2014,Australian Open,5,Hard,Q3,589,173,0,,,Jimmy Wang,Daniel Kosakowski,7-6(7) 6-3,0.69,2.4%,2.4%,54.2%,60.0%,50.0%,2/6,44.8%,30.6%,0.0%,21.1%,45.8%,2/4,145,2,2,83,45,38,0,1:46
+13-Jan-2014,Australian Open,5,Hard,Q2,589,195,1,,,Daniel Kosakowski,Norbert Gombos,6-3 6-2,2.55,15.9%,0.0%,56.8%,84.0%,78.9%,0/0,62.2%,46.3%,1.9%,50.0%,40.9%,3/7,98,7,0,44,25,19,1,1:03
+13-Jan-2014,Australian Open,5,Hard,Q1,589,156,1,,30,Daniel Kosakowski,Tatsuma Ito,6-3 2-6 6-4,1.18,6.9%,1.4%,51.4%,70.3%,54.3%,5/9,52.1%,44.1%,2.2%,32.7%,56.8%,5/8,165,5,1,72,37,35,2,1:58
 30-Dec-2013,Sao Paulo CH,3,Hard,R32,591,140,0,,7,Joao Souza,Daniel Kosakowski,4-6 7-5 6-1,1.00,8.3%,0.0%,60.4%,70.7%,47.4%,8/12,48.6%,38.5%,1.6%,34.4%,51.7%,2/13,218,8,0,96,58,38,2,2:38
 11-Nov-2013,Yokohama CH,3,Hard,R32,581,535,0,,Q,Hyeon Chung,Daniel Kosakowski,6-2 6-1,0.70,0.0%,4.5%,61.4%,40.7%,47.1%,4/9,41.4%,40.0%,0.0%,32.4%,55.6%,1/4,99,0,2,44,27,17,0,1:09
 4-Nov-2013,Yeongwol CH,3,Hard,R32,585,94,0,,2,Matthew Ebden,Daniel Kosakowski,6-3 6-0,0.44,2.3%,2.3%,63.6%,42.9%,56.3%,3/7,35.6%,23.3%,7.0%,21.7%,25.0%,0/0,87,1,1,44,28,16,3,0:53
@@ -42,16 +42,16 @@
 8-Apr-2013,Blumenau CH,3,Clay,R32,231,276,0,,,Ricardo Hocevar,Daniel Kosakowski,6-2 6-2,0.36,2.6%,0.0%,66.7%,50.0%,53.8%,0/4,34.2%,17.5%,0.0%,14.3%,21.1%,0/0,79,1,0,39,26,13,0,0:56
 26-Mar-2013,San Luis Potosi CH,3,Clay,F,260,394,0,,Q,Alessio Di Mauro,Daniel Kosakowski,4-6 6-3 6-2,0.94,0.0%,11.5%,43.6%,73.5%,43.2%,2/8,48.2%,40.9%,2.3%,31.3%,52.5%,4/9,166,0,9,78,34,44,2,2:09
 26-Mar-2013,San Luis Potosi CH,3,Clay,SF,260,151,1,,4,Daniel Kosakowski,Marco Chiudinelli,6-3 6-4,1.27,7.6%,6.1%,54.5%,66.7%,60.0%,10/11,54.1%,46.3%,0.0%,42.4%,56.5%,4/18,148,5,4,66,36,30,0,1:49
-26-Mar-2013,San Luis Potosi CH,3,Clay,QF,260,182,1,,8,Daniel Kosakowski,Agustin Velotti, W/O,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2013,San Luis Potosi CH,3,Clay,QF,260,182,1,,8,Daniel Kosakowski,Agustin Velotti,W/O,,,,,,,,,,,,,,,,,,,,,
 26-Mar-2013,San Luis Potosi CH,3,Clay,R16,260,130,1,,1,Daniel Kosakowski,John Millman,6-4 0-6 7-5,0.89,0.0%,7.8%,54.9%,51.8%,45.7%,8/15,47.3%,45.1%,1.2%,39.6%,52.9%,6/8,184,0,8,102,56,46,1,2:23
 26-Mar-2013,San Luis Potosi CH,3,Clay,R32,260,231,1,,,Daniel Kosakowski,Matt Reid,6-3 4-6 7-5,1.13,5.5%,8.3%,53.2%,72.4%,45.1%,12/16,52.5%,45.6%,3.5%,32.8%,58.9%,5/15,223,6,9,109,58,51,4,2:31
 18-Mar-2013,USA F8,3,Hard,R32,260,543,0,6,Q,Jason Jung,Daniel Kosakowski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Mar-2013,USA F7,3,Hard,R32,247,542,0,4,Q,Jason Jung,Daniel Kosakowski,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Feb-2013,Delray Beach Q,3,Hard,Q1,247,109,0,,3,Ernests Gulbis,Daniel Kosakowski,6-3 6-4,0.51,1.5%,1.5%,52.9%,63.9%,50.0%,5/7,42.0%,21.6%,11.8%,10.3%,36.4%,0/0,119,1,1,68,36,32,6,1:11
-11-Feb-2013,San Jose Q,3,Hard,Q1,256,788,0,,,Nicholas Monroe,Daniel Kosakowski,3-6 6-0 6-1,0.69,3.1%,3.1%,54.7%,57.1%,55.2%,1/6,43.5%,30.0%,3.3%,9.4%,53.6%,1/2,124,2,2,64,35,29,2,1:16
+25-Feb-2013,Delray Beach,3,Hard,Q1,247,109,0,,3,Ernests Gulbis,Daniel Kosakowski,6-3 6-4,0.51,1.5%,1.5%,52.9%,63.9%,50.0%,5/7,42.0%,21.6%,11.8%,10.3%,36.4%,0/0,119,1,1,68,36,32,6,1:11
+11-Feb-2013,San Jose,3,Hard,Q1,256,788,0,,,Nicholas Monroe,Daniel Kosakowski,3-6 6-0 6-1,0.69,3.1%,3.1%,54.7%,57.1%,55.2%,1/6,43.5%,30.0%,3.3%,9.4%,53.6%,1/2,124,2,2,64,35,29,2,1:16
 4-Feb-2013,Dallas CH,3,Hard,R32,256,106,0,,4,Rajeev Ram,Daniel Kosakowski,2-6 7-6(3) 6-4,0.81,4.1%,3.1%,61.2%,63.3%,65.8%,4/6,48.1%,28.9%,10.8%,19.6%,48.1%,3/3,181,4,3,98,60,38,9,1:59
 21-Jan-2013,Maui CH,3,Hard,R32,256,136,0,,6,Denis Kudla,Daniel Kosakowski,2-6 6-3 7-5,0.96,1.8%,1.8%,61.9%,50.0%,55.8%,10/16,49.5%,46.1%,4.5%,30.0%,59.2%,6/15,202,2,2,113,70,43,4,2:26
-14-Jan-2013,Australian Open Q,3,Hard,Q1,256,327,0,,WC,Adam Feeney,Daniel Kosakowski,5-7 6-4 6-3,0.87,6.1%,0.9%,70.2%,66.3%,38.2%,15/19,48.1%,36.5%,0.0%,33.3%,42.4%,3/10,210,7,1,114,80,34,0,2:14
+14-Jan-2013,Australian Open,5,Hard,Q1,256,327,0,,WC,Adam Feeney,Daniel Kosakowski,5-7 6-4 6-3,0.87,6.1%,0.9%,70.2%,66.3%,38.2%,15/19,48.1%,36.5%,0.0%,33.3%,42.4%,3/10,210,7,1,114,80,34,0,2:14
 29-Oct-2012,Charlottesville CH,3,Hard,R32,250,337,0,,Q,Taro Daniel,Daniel Kosakowski,6-3 1-6 6-3,1.04,11.1%,4.2%,62.5%,77.8%,33.3%,6/9,49.7%,40.4%,1.1%,30.9%,55.9%,3/8,161,8,3,72,45,27,1,1:52
 8-Oct-2012,Tiburon CH,3,Hard,R16,263,87,0,,2,James Blake,Daniel Kosakowski,6-2 6-3,0.79,6.7%,6.7%,55.6%,56.0%,55.0%,2/5,43.1%,35.2%,5.6%,25.6%,46.9%,0/6,116,3,3,45,25,20,4,1:08
 8-Oct-2012,Tiburon CH,3,Hard,R32,263,336,1,,,Daniel Kosakowski,Roman Borvanov,6-0 3-6 6-1,1.56,8.3%,1.7%,66.7%,70.0%,60.0%,0/2,57.7%,52.1%,2.1%,43.5%,60.0%,6/15,156,5,1,60,40,20,2,2:01
@@ -62,16 +62,16 @@
 17-Sep-2012,USA F25,3,Hard,F,374,588,1,2,7,Daniel Kosakowski,Jeff Dadamo,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Sep-2012,USA F25,3,Hard,SF,374,490,1,2,3,Daniel Kosakowski,Devin Britton,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 17-Sep-2012,USA F25,3,Hard,QF,374,1389,1,2,SE,Daniel Kosakowski,Daniel Nguyen,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Sep-2012,USA F25,3,Hard,R16,374,1281,1,2,Q,Daniel Kosakowski,Phil Whitesell,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Sep-2012,USA F25,3,Hard,R16,374,1281,1,2,Q,Daniel Kosakowski,Ryan Thacher,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Sep-2012,USA F25,3,Hard,R32,374,1553,1,2,WC,Daniel Kosakowski,Connor Farren,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Sep-2012,USA F24,3,Hard,F,346,UNR,1,2,PR,Daniel Kosakowski,Prakash Amritraj,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2012,USA F24,3,Hard,F,346,,1,2,PR,Daniel Kosakowski,Prakash Amritraj,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 10-Sep-2012,USA F24,3,Hard,SF,346,1384,1,2,Q,Daniel Kosakowski,Daniel Nguyen,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Sep-2012,USA F24,3,Hard,QF,346,623,1,2,6,Daniel Kosakowski,Jason Jung,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Sep-2012,USA F24,3,Hard,R16,346,768,1,2,,Daniel Kosakowski,Ryan Rowe,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
-10-Sep-2012,USA F24,3,Hard,R32,346,UNR,1,2,Q,Daniel Kosakowski,Collin Altamirano,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Aug-2012,US Open Q,3,Hard,Q3,372,231,0,WC,,Hiroki Moriya,Daniel Kosakowski,4-6 7-6(5) 6-3,0.78,4.3%,3.7%,63.6%,59.2%,47.5%,19/24,47.5%,35.1%,3.1%,22.8%,52.5%,4/8,259,7,6,162,103,59,3,3:35
-27-Aug-2012,US Open Q,3,Hard,Q2,372,82,1,WC,2,Daniel Kosakowski,Aljaz Bedene,6-3 3-6 7-6(7),0.93,2.8%,5.6%,50.5%,77.8%,49.1%,7/10,50.3%,33.7%,2.3%,19.5%,46.7%,3/4,193,3,6,107,54,53,2,2:51
-27-Aug-2012,US Open Q,3,Hard,Q1,372,255,1,WC,,Daniel Kosakowski,Jesse Huta Galung,6-4 6-2,1.64,9.8%,3.9%,51.0%,73.1%,68.0%,0/0,59.0%,48.1%,1.9%,32.1%,65.4%,4/7,105,5,2,51,26,25,1,1:17
+10-Sep-2012,USA F24,3,Hard,R32,346,,1,2,Q,Daniel Kosakowski,Collin Altamirano,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2012,US Open,5,Hard,Q3,372,231,0,WC,,Hiroki Moriya,Daniel Kosakowski,4-6 7-6(5) 6-3,0.78,4.3%,3.7%,63.6%,59.2%,47.5%,19/24,47.5%,35.1%,3.1%,22.8%,52.5%,4/8,259,7,6,162,103,59,3,3:35
+27-Aug-2012,US Open,5,Hard,Q2,372,82,1,WC,2,Daniel Kosakowski,Aljaz Bedene,6-3 3-6 7-6(7),0.93,2.8%,5.6%,50.5%,77.8%,49.1%,7/10,50.3%,33.7%,2.3%,19.5%,46.7%,3/4,193,3,6,107,54,53,2,2:51
+27-Aug-2012,US Open,5,Hard,Q1,372,255,1,WC,,Daniel Kosakowski,Jesse Huta Galung,6-4 6-2,1.64,9.8%,3.9%,51.0%,73.1%,68.0%,0/0,59.0%,48.1%,1.9%,32.1%,65.4%,4/7,105,5,2,51,26,25,1,1:17
 23-Jul-2012,Lexington CH,3,Hard,R32,319,458,0,WC,Q,Austin Krajicek,Daniel Kosakowski,6-4 6-4,0.74,6.6%,1.6%,59.0%,77.8%,44.0%,4/6,45.5%,26.7%,1.7%,25.0%,30.0%,0/3,121,4,1,61,36,25,1,1:38
 16-Jul-2012,Granby CH,3,Hard,R32,318,183,0,,5,Maxime Authom,Daniel Kosakowski,7-6(4) 6-4,0.88,16.2%,1.5%,63.2%,76.7%,52.0%,3/5,48.1%,28.4%,1.5%,15.2%,57.1%,1/4,135,11,1,68,43,25,1,1:35
 3-Jul-2012,Panama City CH,3,Clay,R16,345,1156,0,,,Jesse Witten,Daniel Kosakowski,6-3 6-2,0.70,1.9%,1.9%,63.0%,52.9%,50.0%,1/5,42.7%,33.9%,7.1%,34.6%,33.3%,0/5,110,1,1,54,34,20,4,1:22
@@ -87,9 +87,9 @@
 28-May-2012,Italy F11,3,Clay,R16,337,257,0,,6,Marco Trungelliti,Daniel Kosakowski,7-6(3) 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
 28-May-2012,Italy F11,3,Clay,R32,337,519,1,,WC,Daniel Kosakowski,Matteo Trevisan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Apr-2012,Savannah CH,3,Clay,R32,315,269,0,WC,,Michael Lammer,Daniel Kosakowski,5-7 6-3 6-2,0.94,2.0%,0.0%,69.7%,52.2%,53.3%,14/21,48.4%,44.8%,0.0%,44.4%,45.5%,4/11,215,2,0,99,69,30,0,3:21
-9-Apr-2012,Houston Q,3,Clay,Q3,335,136,0,,4,Michael Russell,Daniel Kosakowski,6-4 6-1,0.85,7.9%,0.0%,60.5%,65.2%,40.0%,4/8,44.2%,37.9%,0.0%,39.5%,34.8%,1/3,104,3,0,38,23,15,0,1:25
-9-Apr-2012,Houston Q,3,Clay,Q2,335,164,1,,7,Daniel Kosakowski,Yuichi Sugita,7-6(4) 6-4,1.44,10.4%,1.5%,67.2%,77.8%,54.5%,3/4,55.6%,42.9%,6.5%,38.2%,46.5%,2/6,144,7,1,67,45,22,5,2:01
-9-Apr-2012,Houston Q,3,Clay,Q1,335,180,1,,,Daniel Kosakowski,Mischa Zverev,3-6 6-4 3-0 RET,1.01,6.0%,4.8%,59.0%,55.1%,58.8%,7/10,50.6%,43.7%,0.0%,36.4%,55.6%,4/7,154,5,4,83,49,34,0,2:05
+9-Apr-2012,Houston,3,Clay,Q3,335,136,0,,4,Michael Russell,Daniel Kosakowski,6-4 6-1,0.85,7.9%,0.0%,60.5%,65.2%,40.0%,4/8,44.2%,37.9%,0.0%,39.5%,34.8%,1/3,104,3,0,38,23,15,0,1:25
+9-Apr-2012,Houston,3,Clay,Q2,335,164,1,,7,Daniel Kosakowski,Yuichi Sugita,7-6(4) 6-4,1.44,10.4%,1.5%,67.2%,77.8%,54.5%,3/4,55.6%,42.9%,6.5%,38.2%,46.5%,2/6,144,7,1,67,45,22,5,2:01
+9-Apr-2012,Houston,3,Clay,Q1,335,180,1,,,Daniel Kosakowski,Mischa Zverev,3-6 6-4 3-0 RET,1.01,6.0%,4.8%,59.0%,55.1%,58.8%,7/10,50.6%,43.7%,0.0%,36.4%,55.6%,4/7,154,5,4,83,49,34,0,2:05
 2-Apr-2012,Tallahassee CH,3,Hard,R16,347,115,0,LL,8,Bobby Reynolds,Daniel Kosakowski,3-6 6-3 6-2,0.77,5.9%,5.0%,72.3%,67.1%,35.7%,10/13,46.1%,32.2%,5.6%,25.4%,45.2%,1/9,191,6,5,101,73,28,5,2:25
 2-Apr-2012,Tallahassee CH,3,Hard,R32,347,229,1,LL,,Daniel Kosakowski,Stefan Seifert,6-3 5-7 7-6(6),1.07,4.3%,3.4%,65.8%,62.3%,42.5%,6/12,51.4%,47.7%,0.0%,39.0%,60.8%,7/24,245,5,4,117,77,40,0,3:27
 19-Mar-2012,USA F8,3,Hard,R16,378,650,0,6,,Takanyi Garanganga,Daniel Kosakowski,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -99,11 +99,11 @@
 12-Mar-2012,USA F7,3,Hard,QF,400,394,1,5,3,Daniel Kosakowski,Brian Baker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2012,USA F7,3,Hard,R16,400,812,1,5,WC,Daniel Kosakowski,Sekou Bangoura,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2012,USA F7,3,Hard,R32,400,636,1,5,,Daniel Kosakowski,Nick Lindahl,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-8-Mar-2012,Indian Wells Masters Q,3,Hard,Q2,400,97,0,WC,4,Paolo Lorenzi,Daniel Kosakowski,6-2 7-6(4),0.74,2.5%,2.5%,53.8%,46.5%,59.5%,7/11,45.3%,35.1%,0.0%,30.6%,42.9%,2/2,137,2,2,80,43,37,0,1:56
-8-Mar-2012,Indian Wells Masters Q,3,Hard,Q1,400,162,1,WC,22,Daniel Kosakowski,Marco Chiudinelli,7-6(5) 6-3,1.26,7.5%,0.0%,80.6%,72.2%,61.5%,0/1,54.2%,37.5%,3.1%,32.5%,45.8%,2/6,131,5,0,67,54,13,2,1:31
+8-Mar-2012,Indian Wells Masters,3,Hard,Q2,400,97,0,WC,4,Paolo Lorenzi,Daniel Kosakowski,6-2 7-6(4),0.74,2.5%,2.5%,53.8%,46.5%,59.5%,7/11,45.3%,35.1%,0.0%,30.6%,42.9%,2/2,137,2,2,80,43,37,0,1:56
+8-Mar-2012,Indian Wells Masters,3,Hard,Q1,400,162,1,WC,22,Daniel Kosakowski,Marco Chiudinelli,7-6(5) 6-3,1.26,7.5%,0.0%,80.6%,72.2%,61.5%,0/1,54.2%,37.5%,3.1%,32.5%,45.8%,2/6,131,5,0,67,54,13,2,1:31
 27-Feb-2012,USA F6,3,Hard,QF,402,332,0,6,2,Thomas Fabbiano,Daniel Kosakowski,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 27-Feb-2012,USA F6,3,Hard,R16,402,725,1,6,Q,Daniel Kosakowski,Alexandre Lacroix,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2012,USA F6,3,Hard,R32,402,UNR,1,6,Q,Daniel Kosakowski,Mate Cutura,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-2012,USA F6,3,Hard,R32,402,,1,6,Q,Daniel Kosakowski,Mate Cutura,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2012,USA F5,3,Hard,QF,399,264,0,5,1,Peter Polansky,Daniel Kosakowski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2012,USA F5,3,Hard,R16,399,989,1,5,Q,Daniel Kosakowski,Jonas Luetjen,6-4 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2012,USA F5,3,Hard,R32,399,1498,1,5,Q,Daniel Kosakowski,Dean Obrien,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -115,19 +115,19 @@
 12-Sep-2011,Tulsa CH,3,Hard,QF,400,558,0,,Q,Michael Mcclune,Daniel Kosakowski,7-6(6) 6-4,0.69,4.2%,0.0%,63.9%,67.4%,57.7%,2/3,45.0%,25.0%,19.1%,6.5%,63.6%,0/4,140,3,0,72,46,26,13,1:37
 12-Sep-2011,Tulsa CH,3,Hard,R16,400,401,1,,,Daniel Kosakowski,Kevin Kim,6-3 4-6 6-4,1.19,11.5%,1.1%,67.8%,74.6%,64.3%,2/3,52.2%,34.1%,0.0%,18.6%,47.9%,2/9,178,10,1,87,59,28,0,2:07
 12-Sep-2011,Tulsa CH,3,Hard,R32,400,427,1,,,Daniel Kosakowski,Artem Sitak,6-2 6-1,1.82,7.8%,2.0%,49.0%,76.0%,69.2%,5/5,63.5%,50.0%,0.0%,31.8%,83.3%,4/4,85,4,1,51,25,26,0,0:57
-29-Aug-2011,US Open Q,3,Hard,Q1,397,270,0,WC,,Charles Antoine Brezac,Daniel Kosakowski,6-2 7-5,0.70,5.6%,5.6%,45.8%,60.6%,53.8%,2/5,44.2%,30.3%,6.1%,17.5%,50.0%,0/5,138,4,4,72,33,39,4,1:45
+29-Aug-2011,US Open,5,Hard,Q1,397,270,0,WC,,Charles Antoine Brezac,Daniel Kosakowski,6-2 7-5,0.70,5.6%,5.6%,45.8%,60.6%,53.8%,2/5,44.2%,30.3%,6.1%,17.5%,50.0%,0/5,138,4,4,72,33,39,4,1:45
 1-Aug-2011,Vancouver CH,3,Hard,R32,390,219,0,WC,7,Fritz Wolmarans,Daniel Kosakowski,6-7(6) 6-4 6-4,0.82,6.3%,0.9%,62.5%,70.0%,54.8%,7/9,47.2%,29.2%,15.1%,18.2%,47.5%,0/9,218,7,1,112,70,42,16,2:53
 25-Jul-2011,Los Angeles,3,Hard,R16,482,84,0,Q,,Ernests Gulbis,Daniel Kosakowski,6-2 6-4,0.56,5.5%,5.5%,52.7%,58.6%,53.8%,2/5,40.7%,24.5%,15.1%,12.5%,42.9%,0/2,108,3,3,55,29,26,8,1:18
 25-Jul-2011,Los Angeles,3,Hard,R32,482,211,1,Q,Q,Daniel Kosakowski,Tim Smyczek,2-6 6-1 6-3,1.01,5.4%,3.3%,53.3%,69.4%,44.2%,7/10,51.2%,42.9%,1.4%,39.0%,48.3%,5/9,162,5,3,92,49,43,1,2:04
-25-Jul-2011,Los Angeles Q,3,Hard,Q3,482,332,1,,,Daniel Kosakowski,Denis Kudla,6-4 7-6(4),1.51,6.3%,1.6%,65.6%,76.2%,63.6%,4/6,56.2%,42.5%,2.7%,40.0%,46.4%,3/4,137,4,1,64,42,22,2,1:44
-25-Jul-2011,Los Angeles Q,3,Hard,Q2,482,104,1,,1,Daniel Kosakowski,Tatsuma Ito,6-0 6-2,1.54,2.0%,3.9%,58.8%,70.0%,42.9%,7/8,61.0%,63.3%,0.0%,50.0%,78.3%,6/8,100,1,2,51,30,21,0,1:11
-25-Jul-2011,Los Angeles Q,3,Hard,Q1,482,434,1,,,Daniel Kosakowski,Karlis Lejnieks,6-1 6-2,2.10,7.5%,2.5%,65.0%,80.8%,64.3%,0/0,61.2%,52.4%,9.5%,25.8%,78.1%,5/12,103,3,1,40,26,14,6,1:08
-18-Jul-2011,Atlanta Q,3,Hard,Q2,479,139,0,,2,Matthew Ebden,Daniel Kosakowski,6-1 6-2,0.51,0.0%,2.2%,57.8%,46.2%,36.8%,1/6,36.0%,29.3%,4.9%,23.8%,35.0%,0/0,86,0,1,45,26,19,2,1:05
-18-Jul-2011,Atlanta Q,3,Hard,Q1,479,432,1,,,Daniel Kosakowski,Karlis Lejnieks,6-3 7-5,1.57,4.7%,1.6%,60.9%,71.8%,68.0%,4/5,57.7%,46.6%,2.7%,32.6%,66.7%,3/9,137,3,1,64,39,25,2,1:33
+25-Jul-2011,Los Angeles,3,Hard,Q3,482,332,1,,,Daniel Kosakowski,Denis Kudla,6-4 7-6(4),1.51,6.3%,1.6%,65.6%,76.2%,63.6%,4/6,56.2%,42.5%,2.7%,40.0%,46.4%,3/4,137,4,1,64,42,22,2,1:44
+25-Jul-2011,Los Angeles,3,Hard,Q2,482,104,1,,1,Daniel Kosakowski,Tatsuma Ito,6-0 6-2,1.54,2.0%,3.9%,58.8%,70.0%,42.9%,7/8,61.0%,63.3%,0.0%,50.0%,78.3%,6/8,100,1,2,51,30,21,0,1:11
+25-Jul-2011,Los Angeles,3,Hard,Q1,482,434,1,,,Daniel Kosakowski,Karlis Lejnieks,6-1 6-2,2.10,7.5%,2.5%,65.0%,80.8%,64.3%,0/0,61.2%,52.4%,9.5%,25.8%,78.1%,5/12,103,3,1,40,26,14,6,1:08
+18-Jul-2011,Atlanta,3,Hard,Q2,479,139,0,,2,Matthew Ebden,Daniel Kosakowski,6-1 6-2,0.51,0.0%,2.2%,57.8%,46.2%,36.8%,1/6,36.0%,29.3%,4.9%,23.8%,35.0%,0/0,86,0,1,45,26,19,2,1:05
+18-Jul-2011,Atlanta,3,Hard,Q1,479,432,1,,,Daniel Kosakowski,Karlis Lejnieks,6-3 7-5,1.57,4.7%,1.6%,60.9%,71.8%,68.0%,4/5,57.7%,46.6%,2.7%,32.6%,66.7%,3/9,137,3,1,64,39,25,2,1:33
 27-Jun-2011,USA F16,3,Clay,SF,531,772,0,5,8,Rhyne Williams,Daniel Kosakowski,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Jun-2011,USA F16,3,Clay,QF,531,427,1,5,2,Daniel Kosakowski,Robbye Poole,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Jun-2011,USA F16,3,Clay,R16,531,1046,1,5,,Daniel Kosakowski,Haydn Lewis,6-7(4) 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Jun-2011,USA F16,3,Clay,R32,531,UNR,1,5,Q,Daniel Kosakowski,Raymond Sarmiento,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2011,USA F16,3,Clay,R32,531,,1,5,Q,Daniel Kosakowski,Raymond Sarmiento,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2011,USA F14,3,Hard,SF,678,543,0,,6,Blake Strode,Daniel Kosakowski,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2011,USA F14,3,Hard,QF,678,297,1,,2,Daniel Kosakowski,Greg Ouellette,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2011,USA F14,3,Hard,R16,678,521,1,,5,Daniel Kosakowski,Jimmy Wang,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -139,11 +139,12 @@
 6-Jun-2011,USA F13,3,Hard,R32,676,871,1,,,Daniel Kosakowski,Mitchell Frank,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 2-May-2011,USA F11,3,Clay,QF,692,444,0,,6,Daniel Garza,Daniel Kosakowski,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 2-May-2011,USA F11,3,Clay,R16,692,305,1,,1,Daniel Kosakowski,Greg Ouellette,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-2-May-2011,USA F11,3,Clay,R32,692,UNR,1,,WC,Daniel Kosakowski,Dilshod Sharifi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-25-Apr-2011,USA F10,3,Clay,QF,693,UNR,0,,WC,Kriegler Brink,Daniel Kosakowski,7-5 0-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+2-May-2011,USA F11,3,Clay,R32,692,,1,,WC,Daniel Kosakowski,Dilshod Sharifi,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Apr-2011,USA F10,3,Clay,QF,693,,0,,WC,Kriegler Brink,Daniel Kosakowski,7-5 0-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
 25-Apr-2011,USA F10,3,Clay,R16,693,394,1,,1,Daniel Kosakowski,Artem Sitak,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 25-Apr-2011,USA F10,3,Clay,R32,693,864,1,,,Daniel Kosakowski,Chris Kwon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Mar-2011,Indian Wells Masters Q,3,Hard,Q1,702,163,0,WC,14,Tim Smyczek,Daniel Kosakowski,6-3 6-2,0.75,1.6%,1.6%,69.8%,59.1%,36.8%,2/6,44.3%,35.6%,1.7%,29.0%,42.9%,1/5,122,1,1,63,44,19,1,1:28
+10-Mar-2011,Indian Wells Masters,3,Hard,Q1,702,163,0,WC,14,Tim Smyczek,Daniel Kosakowski,6-3 6-2,0.75,1.6%,1.6%,69.8%,59.1%,36.8%,2/6,44.3%,35.6%,1.7%,29.0%,42.9%,1/5,122,1,1,63,44,19,1,1:28
+10-Jan-2011,USA F1,3,Clay,Q4,689,579,0,9,5,Andrea Collarini,Daniel Kosakowski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-2010,Calabasas CH,3,Hard,R32,732,238,0,Q,,Greg Jones,Daniel Kosakowski,6-2 6-3,0.65,8.3%,6.3%,66.7%,65.6%,31.3%,1/4,41.0%,29.8%,5.3%,24.2%,37.5%,0/4,105,4,3,48,32,16,3,1:14
 11-Oct-2010,Tiburon CH,3,Hard,R16,825,88,0,WC,1,Tobias Kamke,Daniel Kosakowski,6-2 6-3,0.60,1.6%,8.1%,56.5%,57.1%,44.4%,5/9,41.8%,29.2%,4.2%,32.1%,25.0%,0/1,110,1,5,62,35,27,2,1:14
 11-Oct-2010,Tiburon CH,3,Hard,R32,825,452,1,WC,,Daniel Kosakowski,Chris Guccione,5-4 RET,1.10,7.1%,0.0%,67.9%,73.7%,55.6%,3/3,50.8%,35.5%,6.5%,25.0%,54.5%,1/1,59,2,0,28,19,9,2,0:42
@@ -151,18 +152,18 @@
 27-Sep-2010,USA F25,3,Hard,SF,1235,838,1,Q,,Daniel Kosakowski,Nikoloz Basilashvili,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 27-Sep-2010,USA F25,3,Hard,QF,1235,859,1,Q,,Daniel Kosakowski,Sekou Bangoura,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Sep-2010,USA F25,3,Hard,R16,1235,570,1,Q,7,Daniel Kosakowski,Dimitar Kutrovsky,7-5 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Sep-2010,USA F25,3,Hard,R32,1235,UNR,1,Q,Q,Daniel Kosakowski,Matthew Brooklyn,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Sep-2010,USA F24,3,Hard,R32,1375,UNR,0,Q,Q,Antoine Benneteau,Daniel Kosakowski,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,R32,1235,,1,Q,Q,Daniel Kosakowski,Matthew Brooklyn,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Sep-2010,USA F25,3,Hard,Q4,1235,,1,2,,Daniel Kosakowski,Xavier Smith,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,USA F24,3,Hard,R32,1375,,0,Q,Q,Antoine Benneteau,Daniel Kosakowski,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2010,USA F24,3,Hard,Q4,1375,884,1,12,3,Daniel Kosakowski,Joel Kielbowicz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Sep-2010,USA F23,3,Hard,R16,1370,1657,0,WC,Q,Gary Sacks,Daniel Kosakowski,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Sep-2010,USA F23,3,Hard,R32,1370,890,1,WC,,Daniel Kosakowski,Joel Kielbowicz,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2010,US Open Jrs,3,Hard,R16,,,0,WC,8,Agustin Velotti,Daniel Kosakowski,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2010,US Open Jrs,3,Hard,R32,,,1,WC,,Daniel Kosakowski,Joris De Loore,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2010,US Open Jrs,3,Hard,R64,,,1,WC,,Daniel Kosakowski,Hugo Dellien,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Jul-2010,Los Angeles Q,3,Hard,Q1,1387,135,0,WC,5,Ilija Bozoljac,Daniel Kosakowski,6-4 6-4,0.74,9.8%,3.9%,66.7%,73.5%,52.9%,0/2,44.4%,24.6%,14.0%,16.7%,33.3%,0/0,108,5,2,51,34,17,8,1:12
+26-Jul-2010,Los Angeles,3,Hard,Q1,1387,135,0,WC,5,Ilija Bozoljac,Daniel Kosakowski,6-4 6-4,0.74,9.8%,3.9%,66.7%,73.5%,52.9%,0/2,44.4%,24.6%,14.0%,16.7%,33.3%,0/0,108,5,2,51,34,17,8,1:12
 12-Jul-2010,Aptos CH,3,Hard,R32,1375,276,0,WC,,Milos Raonic,Daniel Kosakowski,6-3 6-3,0.60,4.0%,6.0%,60.0%,66.7%,50.0%,1/4,42.0%,24.0%,18.0%,6.9%,47.6%,0/0,100,2,3,50,30,20,9,0:55
 21-Jun-2010,USA F15,3,Hard,R16,1685,436,0,WC,5,Raven Klaasen,Daniel Kosakowski,6-4 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
-21-Jun-2010,USA F15,3,Hard,R32,1685,UNR,1,WC,WC,Daniel Kosakowski,Marcos Giron,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
+21-Jun-2010,USA F15,3,Hard,R32,1685,,1,WC,WC,Daniel Kosakowski,Marcos Giron,7-5 7-6(7),,,,,,,,,,,,,,,,,,,,,
 24-May-2010,Carson CH,3,Hard,R32,1647,147,0,WC,4,Donald Young,Daniel Kosakowski,6-1 6-1,0.55,6.7%,4.4%,62.2%,39.3%,35.3%,4/10,36.1%,34.2%,0.0%,28.6%,41.2%,1/1,83,3,2,45,28,17,0,0:54
 3-May-2010,Savannah CH,3,Clay,R32,1571,444,0,WC,,Bobby Reynolds,Daniel Kosakowski,4-6 6-4 6-0,0.65,5.2%,9.1%,66.2%,70.6%,11.5%,5/12,42.4%,32.3%,6.5%,27.3%,44.4%,4/6,139,4,7,77,51,26,4,1:43
-22-Feb-2010,USA F6,3,Hard,R16,UNR,UNR,0,WC,7,Matt Bocko,Daniel Kosakowski,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-22-Feb-2010,USA F6,3,Hard,R32,UNR,872,1,WC,Q,Daniel Kosakowski,Jarryd Maher,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,USA F6,3,Hard,R16,,,0,WC,7,Matt Bocko,Daniel Kosakowski,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Feb-2010,USA F6,3,Hard,R32,,872,1,WC,Q,Daniel Kosakowski,Jarryd Maher,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2009,USA F22,3,Hard,R32,,1094,0,WC,WC,Jordan Cox,Daniel Kosakowski,2-6 7-6(8) 6-2,,,,,,,,,,,,,,,,,,,,,

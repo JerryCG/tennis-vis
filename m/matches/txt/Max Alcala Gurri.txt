@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Seville CH,3,Clay,Q2,665,352,0,11,3,Viktor Durasovic,Max Alcala Gurri,5-7 6-3 6-4,0.86,0.0%,3.1%,75.3%,57.5%,58.3%,6/11,47.2%,36.5%,8.3%,26.6%,56.3%,4/7,193,0,3,97,73,24,8,2:24
+4-Sep-2023,Seville CH,3,Clay,Q1,665,789,1,11,,Max Alcala Gurri,Benjamin Winter Lopez,6-2 3-6 6-1,1.14,1.2%,3.5%,70.9%,50.8%,60.0%,7/12,53.2%,52.9%,3.5%,50.0%,56.8%,8/15,171,1,3,86,61,25,3,2:24
+28-Aug-2023,M25 Oviedo,3,Clay,R32,665,538,0,,6,Imanol Lopez Morillo,Max Alcala Gurri,7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R16,664,790,0,9,,Benjamin Winter Lopez,Max Alcala Gurri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R32,664,740,1,9,,Max Alcala Gurri,Diego Augusto Barreto Sanchez,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Denia,3,Clay,R32,589,423,0,,2,Eric Vanshelboim,Max Alcala Gurri,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Gandia,3,Clay,R32,571,272,0,,1,Oliver Crawford,Max Alcala Gurri,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Casablanca,3,Clay,R32,555,1139,0,3,WC,Walid Ahouda,Max Alcala Gurri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Casablanca,3,Clay,R32,552,1212,0,1,LL,Faris Zakaryia,Max Alcala Gurri,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Cordoba,3,Clay,QF,572,509,0,Q,,Daniel Merida Aguilar,Max Alcala Gurri,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Cordoba,3,Clay,R16,572,302,1,Q,3,Max Alcala Gurri,Murkel Alejandro Dellien Velasco,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Cordoba,3,Clay,R32,572,569,1,Q,,Max Alcala Gurri,Sergi Perez Contri,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -81,8 +90,8 @@
 4-Apr-2022,M25 Reus,3,Clay,R16,895,474,0,,3,Lukas Neumayer,Max Alcala Gurri,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 4-Apr-2022,M25 Reus,3,Clay,R32,895,936,1,,,Max Alcala Gurri,Bruno Pujol Navarro,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Mar-2022,M15 Palmanova,3,Clay,QF,938,597,0,Q,7,Carlos Lopez Montagud,Max Alcala Gurri,7-5 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
-21-Mar-2022,M15 Palmanova,3,Clay,R16,938,,1,Q,,Max Alcala Gurri,Peter Benjamin Privara ,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
-21-Mar-2022,M15 Palmanova,3,Clay,R32,938,1663,1,Q,WC,Max Alcala Gurri,Marc Othman Ktiri ,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M15 Palmanova,3,Clay,R16,938,,1,Q,,Max Alcala Gurri,Peter Benjamin Privara,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M15 Palmanova,3,Clay,R32,938,1663,1,Q,WC,Max Alcala Gurri,Marc Othman Ktiri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M15 Palmanova,3,Clay,R32,935,611,0,Q,7,Stefan Palosi,Max Alcala Gurri,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,M15 Torello,3,Hard,R32,939,,0,,Q,Ignasi De Rueda De Genover,Max Alcala Gurri,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Jan-2022,M15 Villena,3,Hard,R32,942,830,0,,,Johannes Ingildsen,Max Alcala Gurri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,

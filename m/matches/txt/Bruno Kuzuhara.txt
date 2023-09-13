@@ -1,4 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+28-Aug-2023,M15 Buenos Aires,3,Clay,SF,591,,0,7,8,Lautaro Midon,Bruno Kuzuhara,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Buenos Aires,3,Clay,QF,591,1975,1,7,Q,Bruno Kuzuhara,Francisco Pini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Buenos Aires,3,Clay,R16,591,1609,1,7,,Bruno Kuzuhara,Pedro Rodrigues,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Buenos Aires,3,Clay,R32,591,1229,1,7,,Bruno Kuzuhara,Thiago Cigarran,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Lima CH,3,Clay,R32,599,738,0,,WC,Arklon Huertas Del Pino,Bruno Kuzuhara,6-4 1-6 6-3,1.01,4.0%,0.0%,72.0%,59.3%,57.1%,1/5,49.4%,41.9%,3.2%,41.3%,43.3%,4/13,168,3,0,75,54,21,3,2:06
+14-Aug-2023,M25 Trujillo,3,Clay,QF,597,445,0,,4,Gonzalo Bueno,Bruno Kuzuhara,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Trujillo,3,Clay,R16,597,1017,1,,,Bruno Kuzuhara,Juan Sebastian Gomez,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Trujillo,3,Clay,R32,597,414,1,,5,Bruno Kuzuhara,Matias Franco Descotte,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,Washington,3,Hard,Q2,633,717,0,,,Kiranpal Pannu,Bruno Kuzuhara,3-6 6-2 7-6(6),1.05,9.2%,1.1%,65.5%,70.2%,46.7%,2/7,50.8%,40.0%,2.2%,36.1%,48.3%,5/7,177,8,1,87,57,30,2,2:14
+31-Jul-2023,Washington,3,Hard,Q1,633,345,1,,9,Bruno Kuzuhara,Sasi Kumar Mukund,6-4 6-2,1.47,8.1%,1.6%,79.0%,75.5%,46.2%,4/4,57.4%,45.0%,6.7%,29.6%,57.6%,3/7,122,5,1,62,49,13,4,
+24-Jul-2023,M15 Pittsburgh,3,Clay,QF,629,,0,4,WC,Felix Corwin,Bruno Kuzuhara,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Pittsburgh,3,Clay,R16,629,870,1,4,,Bruno Kuzuhara,Alexander Kotzen,4-6 7-6(11) 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Pittsburgh,3,Clay,R32,629,,1,4,Q,Bruno Kuzuhara,Cyrus Mahjoob,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Wichita,3,Hard,QF,639,1626,0,,WC,Sebastian Gorzny,Bruno Kuzuhara,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Wichita,3,Hard,R16,639,665,1,,,Bruno Kuzuhara,Garrett Johns,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Wichita,3,Hard,R32,639,865,1,,,Bruno Kuzuhara,Taha Baadi,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Pensacola FL,3,Clay,R16,604,658,0,WC,,Roberto Cid,Bruno Kuzuhara,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Pensacola FL,3,Clay,R32,604,1347,1,WC,Q,Bruno Kuzuhara,Ryan Dickerson,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 1-May-2023,M15 Orange Park FL,3,Clay,R32,624,1038,0,8,,Rei Sakamoto,Bruno Kuzuhara,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -35,6 +51,8 @@
 5-Sep-2022,M15 Monastir,3,Hard,R32,769,1061,0,5,,Rishab Agarwal,Bruno Kuzuhara,6-7(10) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,US Open,5,Hard,Q2,769,152,0,,,Flavio Cobolli,Bruno Kuzuhara,6-3 6-1,0.55,2.3%,0.0%,65.1%,50.0%,53.3%,2/6,38.6%,26.7%,11.1%,9.7%,64.3%,0/0,88,1,0,43,28,15,5,1:02
 29-Aug-2022,US Open,5,Hard,Q1,769,239,1,,,Bruno Kuzuhara,Ramkumar Ramanathan,6-3 7-5,1.46,3.4%,3.4%,63.8%,70.3%,66.7%,1/3,56.7%,45.2%,4.8%,40.0%,50.0%,4/5,120,2,2,58,37,21,3,1:28
+1-Aug-2022,Washington,3,Hard,Q1,748,497,0,Alt,12,Jc Aragone,Bruno Kuzuhara,6-3 6-7(3) 6-4,0.92,0.0%,5.8%,62.5%,64.6%,48.7%,4/9,48.5%,38.0%,4.0%,27.5%,61.3%,2/4,204,0,6,104,65,39,4,
+25-Jul-2022,Atlanta,3,Hard,Q1,739,91,0,WC,3,Steve Johnson,Bruno Kuzuhara,4-6 7-6(6) 6-3,0.86,6.4%,3.6%,75.5%,68.7%,44.4%,2/6,48.3%,32.0%,12.4%,25.4%,42.1%,3/8,207,7,4,110,83,27,12,2:13
 4-Jul-2022,M25 Casinalbo,3,Clay,R32,790,1223,0,JE,WC,Alessandro Pecci,Bruno Kuzuhara,6-1 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 27-Jun-2022,M25 Bourg-en-Bresse,3,Clay,QF,790,482,0,,3,Ugo Blanchet,Bruno Kuzuhara,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Jun-2022,M25 Bourg-en-Bresse,3,Clay,R16,790,556,1,,6,Bruno Kuzuhara,Eric Vanshelboim,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -58,10 +76,12 @@
 21-Mar-2022,M25 Calabasas CA,3,Hard,R32,1041,1070,1,Q,Q,Bruno Kuzuhara,Daniel De Jonge,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M25 Bakersfield CA,3,Hard,R16,1088,411,0,WC,6,Adrian Andreev,Bruno Kuzuhara,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M25 Bakersfield CA,3,Hard,R32,1088,465,1,WC,,Bruno Kuzuhara,Christian Langmo,4-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2022,Indian Wells Masters,3,Hard,Q1,1088,99,0,WC,8,Jaume Munar,Bruno Kuzuhara,6-1 6-4,0.62,1.7%,1.7%,65.0%,61.5%,28.6%,7/11,40.9%,30.9%,9.1%,17.9%,44.4%,1/5,115,1,1,60,39,21,5,1:27
 28-Feb-2022,M25 Santo Domingo,3,Hard,R16,1129,340,0,JE,2,Rinky Hijikata,Bruno Kuzuhara,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,M25 Santo Domingo,3,Hard,R32,1129,,1,JE,WC,Bruno Kuzuhara,Daniel Baquero,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2022,M25 Santo Domingo,3,Hard,R16,1133,697,0,JE,Q,Alfredo Perez,Bruno Kuzuhara,7-6(10) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2022,M25 Santo Domingo,3,Hard,R32,1133,1065,1,JE,WC,Bruno Kuzuhara,Jesse Flores,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Feb-2022,Delray Beach,3,Hard,Q1,1135,152,0,WC,6,Bjorn Fratangelo,Bruno Kuzuhara,6-1 7-5,0.61,5.7%,1.4%,62.9%,59.1%,38.5%,8/12,41.2%,29.5%,6.6%,24.3%,37.5%,0/3,131,4,1,70,44,26,4,1:40
 15-Nov-2021,M25  Austin TX,3,Hard,R32,1161,,0,,Q,Chris Rodesch,Bruno Kuzuhara,2-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,M25 Harlingen TX,3,Hard,R16,1278,592,0,WC,7,Gerardo Lopez Villasenor,Bruno Kuzuhara,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,M25 Harlingen TX,3,Hard,R32,1278,819,1,WC,,Bruno Kuzuhara,Nathan Ponwith,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

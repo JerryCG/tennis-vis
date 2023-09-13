@@ -1,9 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,675,13,0,Q,14,Cameron Norrie,Lucas Pouille,6-1 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,675,134,1,Q,LL,Lucas Pouille,Jurij Rodionov,6-2 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q3,675,134,1,,22,Lucas Pouille,Jurij Rodionov,1-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,675,216,1,,,Lucas Pouille,Chun Hsin Tseng,5-7 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,675,127,1,,16,Lucas Pouille,Tomas Machac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q3,388,108,0,,6,Tomas Machac,Lucas Pouille,3-6 3-0 RET,0.98,10.0%,2.5%,65.0%,61.5%,50.0%,5/7,49.4%,41.5%,4.9%,32.1%,61.5%,2/5,81,4,1,40,26,14,2,0:54
+3-Jul-2023,Wimbledon,5,Grass,Q2,388,125,1,,23,Lucas Pouille,Giulio Zeppieri,6-7(4) 6-3 6-3,1.48,9.0%,3.4%,56.2%,84.0%,69.2%,5/5,54.6%,33.3%,11.5%,29.2%,41.9%,3/7,185,8,3,89,50,39,11,1:48
+3-Jul-2023,Wimbledon,5,Grass,Q1,388,173,1,,,Lucas Pouille,Zdenek Kolar,4-6 6-3 6-3,1.12,4.2%,4.2%,51.6%,67.3%,52.2%,10/13,51.4%,44.7%,2.4%,44.8%,44.4%,5/20,218,4,4,95,49,46,3,2:19
+12-Jun-2023,Lyon CH,3,Clay,R16,402,152,0,WC,5,Benoit Paire,Lucas Pouille,3-6 7-6(6) 6-2,0.83,4.7%,6.6%,61.3%,70.8%,51.2%,6/8,48.0%,30.4%,8.7%,22.5%,36.5%,1/5,198,5,7,106,65,41,8,2:02
+12-Jun-2023,Lyon CH,3,Clay,R32,402,216,1,WC,,Lucas Pouille,Nick Hardt,6-7(3) 6-4 6-4,1.05,5.1%,4.0%,62.6%,66.1%,56.8%,4/7,50.5%,39.3%,1.9%,35.2%,47.2%,5/15,206,5,4,99,62,37,2,2:31
+29-May-2023,Roland Garros,5,Clay,R64,675,13,0,Q,14,Cameron Norrie,Lucas Pouille,6-1 6-3 6-3,0.59,2.5%,2.5%,46.9%,55.3%,39.5%,5/12,39.2%,31.2%,2.6%,26.8%,42.9%,2/8,158,2,2,81,38,43,2,
+29-May-2023,Roland Garros,5,Clay,R128,675,134,1,Q,LL,Lucas Pouille,Jurij Rodionov,6-2 6-4 6-3,1.42,1.1%,5.4%,57.0%,77.4%,57.5%,6/6,57.0%,44.2%,5.8%,39.1%,50.0%,4/10,179,1,5,93,53,40,5,
+29-May-2023,Roland Garros,5,Clay,Q3,675,134,1,,22,Lucas Pouille,Jurij Rodionov,1-6 7-5 6-0,1.13,3.9%,3.9%,46.1%,60.0%,51.2%,0/4,52.9%,50.6%,3.9%,41.7%,58.5%,6/13,153,3,3,76,35,41,3,
+29-May-2023,Roland Garros,5,Clay,Q2,675,216,1,,,Lucas Pouille,Chun Hsin Tseng,5-7 6-3 6-0,1.25,2.4%,3.5%,87.1%,66.2%,54.5%,4/6,54.4%,44.0%,4.8%,39.4%,69.2%,5/10,169,2,3,85,74,11,4,
+29-May-2023,Roland Garros,5,Clay,Q1,675,127,1,,16,Lucas Pouille,Tomas Machac,7-5 6-3,1.11,4.8%,2.4%,56.0%,63.8%,48.6%,8/11,53.1%,47.5%,1.6%,47.4%,47.8%,5/14,145,4,2,84,47,37,1,
 17-Apr-2023,Tallahassee CH,3,Clay,R16,486,274,0,PR,,Alex Michelsen,Lucas Pouille,6-3 7-5,0.59,3.2%,6.5%,50.0%,61.3%,45.2%,3/8,41.6%,27.5%,2.0%,22.6%,35.0%,2/4,113,2,4,62,31,31,1,1:20
 17-Apr-2023,Tallahassee CH,3,Clay,R32,486,393,1,PR,,Lucas Pouille,Matteo Martineau,6-3 6-2,1.22,6.9%,6.9%,60.9%,60.4%,50.0%,7/9,55.2%,53.2%,6.4%,50.0%,57.9%,5/9,134,6,6,87,53,34,3,1:23
 10-Apr-2023,Sarasota CH,3,Clay,Q2,458,1497,0,11,WC,Tristan Boyer,Lucas Pouille,7-5 4-6 6-3,0.93,3.1%,5.2%,44.8%,53.5%,56.6%,4/9,48.2%,41.7%,3.9%,34.5%,50.0%,4/9,199,3,5,96,43,53,4,2:17

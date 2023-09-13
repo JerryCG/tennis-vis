@@ -1,5 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Nottingham CH,3,Grass,R32,165,190,1,,,Bu Yunchaokete,Seong Chan Hong,7-6(4) 6-2,1.07,9.1%,3.9%,66.2%,76.5%,53.8%,3/3,53.3%,33.3%,15.0%,21.6%,52.2%,2/3,137,7,3,77,51,26,9,1:37
+4-Sep-2023,Shanghai CH,3,Hard,R16,214,296,0,6,,Lorenzo Giustino,Bu Yunchaokete,6-1 6-4,0.73,5.3%,0.0%,63.2%,66.7%,33.3%,4/7,43.3%,33.3%,17.5%,21.6%,50.0%,0/7,120,3,0,57,36,21,11,1:51
+4-Sep-2023,Shanghai CH,3,Hard,R32,214,543,1,6,WC,Bu Yunchaokete,Rigele Te,6-2 6-4,1.77,11.4%,2.3%,70.5%,77.4%,61.5%,0/1,58.7%,48.3%,15.0%,39.4%,59.3%,4/7,104,5,1,44,31,13,9,1:08
+28-Aug-2023,Zhangjiagang CH,3,Hard,R32,214,543,0,1,WC,Rigele Te,Bu Yunchaokete,6-7(7) 6-3 7-6(6),1.06,17.3%,3.8%,55.8%,75.9%,63.0%,5/8,49.8%,31.6%,17.1%,20.6%,44.4%,2/5,221,18,4,104,58,46,20,2:50
+3-Jul-2023,Wimbledon,5,Grass,Q1,172,214,0,,,Raphael Collignon,Bu Yunchaokete,7-6(5) 3-6 6-3,0.99,5.2%,1.0%,65.6%,71.4%,60.6%,2/4,49.7%,32.0%,9.3%,20.6%,52.9%,2/4,193,5,1,96,63,33,9,2:15
+19-Jun-2023,Ilkley CH,3,Grass,Q1,171,363,0,4,PR,Alex Bolt,Bu Yunchaokete,6-1 6-3,0.44,6.0%,2.0%,60.0%,60.0%,35.0%,5/9,37.4%,22.0%,12.2%,25.0%,15.4%,0/0,91,3,1,50,30,20,5,1:06
+12-Jun-2023,Nottingham CH,3,Grass,R16,165,73,0,,3,Nuno Borges,Bu Yunchaokete,6-3 3-6 6-3,0.78,6.7%,2.2%,62.9%,75.0%,42.4%,5/7,46.3%,29.1%,5.8%,23.7%,40.7%,1/2,175,6,2,89,56,33,5,2:10
+12-Jun-2023,Nottingham CH,3,Grass,R32,165,190,1,,,Bu Yunchaokete,Seong Chan Hong,7-6(4) 6-2,1.07,9.1%,3.9%,66.2%,76.5%,53.8%,3/3,53.3%,33.3%,15.0%,21.6%,52.2%,2/3,137,7,3,77,51,26,9,1:37
 5-Jun-2023,Surbiton CH,3,Grass,R16,173,43,0,Q,2,Andy Murray,Bu Yunchaokete,7-6(1) 6-4,0.72,2.6%,0.0%,57.9%,63.6%,53.1%,8/10,44.4%,29.3%,21.3%,25.0%,37.0%,1/2,151,2,0,76,44,32,16,2:14
 5-Jun-2023,Surbiton CH,3,Grass,R32,173,537,1,Q,Q,Bu Yunchaokete,Harry Wendelken,7-6(2) 7-5,1.25,8.6%,0.0%,61.7%,70.0%,58.1%,2/4,54.3%,43.2%,12.3%,36.7%,53.1%,3/6,162,7,0,81,50,31,10,2:08
 5-Jun-2023,Surbiton CH,3,Grass,Q2,173,244,1,1,9,Bu Yunchaokete,Abedallah Shelbayh,6-3 7-6(2),1.16,2.5%,0.0%,69.6%,74.5%,66.7%,4/4,54.2%,32.3%,4.6%,26.5%,38.7%,1/2,144,2,0,79,55,24,3,1:42
@@ -131,7 +137,7 @@
 17-Jan-2022,M15 Monastir,3,Hard,R32,1990,911,1,WC,,Bu Yunchaokete,Robin Bertrand,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 10-Jan-2022,M15 Monastir,3,Hard,QF,1990,974,0,Q,,Hazem Naw,Bu Yunchaokete,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 10-Jan-2022,M15 Monastir,3,Hard,R16,1990,913,1,Q,8,Bu Yunchaokete,Raphael Collignon,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jan-2022,M15 Monastir,3,Hard,R32,1990,,1,Q,WC,Bu Yunchaokete,Tushar Sharma ,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jan-2022,M15 Monastir,3,Hard,R32,1990,,1,Q,WC,Bu Yunchaokete,Tushar Sharma,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
 27-Dec-2021,M15 Monastir,3,Hard,R16,,538,0,,2,Renta Tokuda,Bu Yunchaokete,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
 27-Dec-2021,M15 Monastir,3,Hard,R32,,1290,1,,,Bu Yunchaokete,Giovanni Oradini,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 20-Dec-2021,M15 Monastir,3,Hard,R32,,661,0,,5,Eliakim Coulibaly,Bu Yunchaokete,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,

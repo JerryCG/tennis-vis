@@ -1,4 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+17-Jul-2023,Trieste CH,3,Clay,Q2,537,344,0,11,1,Peter Gojowczyk,Emilien Voisin,6-4 3-0 RET,0.58,8.7%,0.0%,71.7%,48.5%,61.5%,2/5,41.5%,27.8%,8.3%,15.8%,41.2%,1/1,82,4,0,46,33,13,3,1:02
+17-Jul-2023,Trieste CH,3,Clay,Q1,537,,1,11,WC,Emilien Voisin,Sergio Badini,6-2 6-2,2.45,12.5%,5.0%,65.0%,80.8%,78.6%,0/0,62.4%,49.1%,1.9%,46.2%,51.9%,4/6,93,5,2,40,26,14,1,
+10-Jul-2023,M25 Uriage,3,Clay,QF,530,303,0,8,2,Ugo Blanchet,Emilien Voisin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Uriage,3,Clay,R16,530,831,1,8,Q,Emilien Voisin,Filippo Moroni,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Uriage,3,Clay,R32,530,544,1,8,,Emilien Voisin,Marat Sharipov,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Troyes CH,3,Clay,Q2,530,356,0,,2,Duje Ajdukovic,Emilien Voisin,6-2 6-2,0.64,2.2%,6.7%,44.4%,60.0%,48.0%,1/5,41.3%,29.8%,8.5%,11.8%,76.9%,0/1,92,1,3,45,20,25,4,1:03
+3-Jul-2023,Troyes CH,3,Clay,Q1,530,449,1,,10,Emilien Voisin,Julian Ocleppo,6-4 7-6(4),1.07,6.2%,4.6%,50.8%,78.8%,50.0%,0/2,51.1%,37.9%,0.0%,19.4%,60.0%,3/4,131,4,3,65,33,32,0,1:34
+19-Jun-2023,Blois CH,3,Clay,Q1,515,323,0,,4,Ugo Blanchet,Emilien Voisin,6-3 6-2,0.72,1.9%,1.9%,69.2%,55.6%,43.8%,6/10,43.3%,34.6%,7.7%,18.5%,52.0%,1/1,104,1,1,52,36,16,4,1:12
+12-Jun-2023,M25 Grasse,3,Clay,R16,523,275,0,,2,Titouan Droguet,Emilien Voisin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Grasse,3,Clay,R32,523,872,1,,LL,Emilien Voisin,Lucas Bouquet,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,QF,568,419,0,,2,Stefano Napolitano,Emilien Voisin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R16,568,2008,1,,WC,Emilien Voisin,Alessandro Bellifemine,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R32,568,2018,1,,,Emilien Voisin,Andrin Casanova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -49,7 +59,7 @@
 20-Jun-2022,M25 Arlon,3,Clay,R32,1038,538,0,,6,Raphael Collignon,Emilien Voisin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Grasse,3,Clay,QF,1042,318,0,Q,3,Pol Martin Tiffon,Emilien Voisin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M25 Grasse,3,Clay,R16,1042,349,1,Q,5,Emilien Voisin,Lucas Gerch,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
-13-Jun-2022,M25 Grasse,3,Clay,R32,1042,2112,1,Q,WC,Emilien Voisin,Mikail Alimli ,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M25 Grasse,3,Clay,R32,1042,2112,1,Q,WC,Emilien Voisin,Mikail Alimli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Cairo,3,Clay,R16,1111,471,0,,1,Cezar Cretu,Emilien Voisin,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Cairo,3,Clay,R32,1111,991,1,,,Emilien Voisin,Vladimir Uzhylovsky,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 21-Mar-2022,M25 Opatija,3,Clay,R32,1107,1150,0,Q,Q,Mauro De Maio,Emilien Voisin,6-0 3-6 6-2,,,,,,,,,,,,,,,,,,,,,

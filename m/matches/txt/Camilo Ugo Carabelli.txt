@@ -1,7 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,Q3,150,113,0,,8,Radu Albot,Camilo Ugo Carabelli,6-7(2) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,150,398,1,,WC,Camilo Ugo Carabelli,Sascha Gueymard Wayenburg,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,150,154,1,,,Camilo Ugo Carabelli,Kaichi Uchida,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R32,201,287,1,8,,Camilo Ugo Carabelli,Murkel Alejandro Dellien Velasco,6-2 6-4,1.28,1.6%,6.3%,65.6%,57.1%,54.5%,3/6,56.2%,56.1%,1.8%,51.5%,62.5%,6/9,121,1,4,64,42,22,1,1:36
+28-Aug-2023,US Open,5,Hard,Q1,202,91,0,,3,Federico Coria,Camilo Ugo Carabelli,6-3 6-1,0.55,0.0%,5.4%,62.2%,65.2%,42.9%,0/4,39.2%,23.8%,7.1%,12.5%,38.9%,0/0,79,0,2,37,23,14,3,1:05
+7-Aug-2023,Meerbusch CH,3,Clay,F,171,148,0,5,2,Jan Choinski,Camilo Ugo Carabelli,6-4 6-0,0.70,1.6%,1.6%,65.6%,45.0%,33.3%,6/12,41.0%,41.1%,5.4%,31.4%,57.1%,2/10,117,1,1,61,40,21,3,1:29
+7-Aug-2023,Meerbusch CH,3,Clay,SF,171,281,1,5,,Camilo Ugo Carabelli,Manuel Guinard,7-6(5) 6-0,1.52,1.5%,4.5%,62.7%,73.8%,56.0%,3/4,59.1%,50.0%,0.0%,38.9%,66.7%,4/6,127,1,3,67,42,25,0,1:26
+7-Aug-2023,Meerbusch CH,3,Clay,QF,171,253,1,5,,Camilo Ugo Carabelli,Benjamin Hassan,7-6(2) 1-6 6-2,0.93,1.1%,1.1%,66.3%,61.0%,56.7%,8/11,47.9%,37.6%,5.9%,31.4%,44.0%,3/8,190,1,1,89,59,30,6,2:22
+7-Aug-2023,Meerbusch CH,3,Clay,R16,171,444,1,5,Q,Camilo Ugo Carabelli,Ergi Kirkin,6-1 6-4,1.47,6.8%,1.7%,79.7%,66.0%,58.3%,4/5,59.4%,52.4%,2.4%,36.8%,65.2%,4/6,101,4,1,59,47,12,1,1:20
+7-Aug-2023,Meerbusch CH,3,Clay,R32,171,480,1,5,,Camilo Ugo Carabelli,Tibo Colson,6-2 6-2,1.57,2.0%,2.0%,77.6%,68.4%,54.5%,4/5,59.6%,54.5%,1.8%,36.0%,70.0%,5/9,104,1,1,49,38,11,1,1:05
+31-Jul-2023,Luedenscheid CH,3,Clay,QF,182,178,0,,6,Raul Brancaccio,Camilo Ugo Carabelli,6-4 3-6 6-4,1.04,1.1%,1.1%,60.4%,69.1%,50.0%,2/6,50.0%,40.2%,2.8%,39.7%,41.2%,3/12,198,1,1,91,55,36,3,2:20
+31-Jul-2023,Luedenscheid CH,3,Clay,R16,182,131,1,,4,Camilo Ugo Carabelli,Timofey Skatov,6-3 5-7 7-6(5),1.02,5.8%,2.2%,54.7%,69.3%,48.4%,14/17,50.8%,40.9%,0.8%,39.1%,45.7%,4/13,264,8,3,137,75,62,1,25:31
+31-Jul-2023,Luedenscheid CH,3,Clay,R32,182,205,1,,,Camilo Ugo Carabelli,Geoffrey Blancaneaux,6-4 6-1,1.31,1.9%,3.8%,65.4%,70.6%,33.3%,2/4,56.5%,55.4%,5.4%,51.4%,61.9%,6/10,108,1,2,52,34,18,3,1:41
+24-Jul-2023,Verona CH,3,Clay,R32,183,237,0,7,,Edoardo Lavagno,Camilo Ugo Carabelli,6-3 6-1,0.60,1.8%,5.3%,52.6%,56.7%,33.3%,2/7,39.6%,32.7%,2.0%,28.6%,42.9%,1/3,106,1,3,57,30,27,1,1:16
+29-May-2023,Roland Garros,5,Clay,Q3,150,113,0,,8,Radu Albot,Camilo Ugo Carabelli,6-7(2) 6-4 6-1,0.81,3.5%,3.5%,68.2%,65.5%,22.2%,7/14,45.0%,38.9%,2.1%,36.1%,44.1%,4/9,180,3,3,85,58,27,2,
+29-May-2023,Roland Garros,5,Clay,Q2,150,398,1,,WC,Camilo Ugo Carabelli,Sascha Gueymard Wayenburg,6-2 3-6 6-2,1.24,2.7%,1.4%,74.3%,70.9%,52.6%,4/6,53.5%,42.0%,4.9%,47.5%,36.6%,5/11,155,2,1,74,55,19,4,
+29-May-2023,Roland Garros,5,Clay,Q1,150,154,1,,,Camilo Ugo Carabelli,Kaichi Uchida,6-3 1-6 6-3,0.98,4.8%,1.2%,80.7%,58.2%,62.5%,4/8,50.7%,40.0%,1.5%,30.4%,63.2%,4/6,148,4,1,83,67,16,1,
 15-May-2023,Turin CH,3,Clay,R16,152,337,0,Alt,Q,Federico Gaio,Camilo Ugo Carabelli,6-1 4-6 5-2 RET,0.81,0.0%,0.0%,68.2%,53.3%,57.1%,2/7,44.4%,36.8%,5.7%,34.5%,41.4%,2/10,153,0,0,66,45,21,5,2:04
 15-May-2023,Turin CH,3,Clay,R32,152,268,1,Alt,Alt,Camilo Ugo Carabelli,Nerman Fatic,4-6 6-3 6-4,1.27,2.3%,4.6%,66.7%,81.0%,51.7%,3/4,53.3%,36.6%,6.5%,29.5%,50.0%,2/8,180,2,4,87,58,29,6,2:21
 8-May-2023,Rome Masters,3,Clay,Q1,152,148,0,19,,Maximilian Marterer,Camilo Ugo Carabelli,6-3 7-6(6),0.96,3.2%,4.8%,63.5%,70.0%,52.2%,3/6,47.9%,35.1%,10.4%,25.5%,50.0%,2/7,140,2,3,63,40,23,8,1:34

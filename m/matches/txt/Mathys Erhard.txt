@@ -1,8 +1,39 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,M25 Maribor,3,Clay,SF,332,375,0,2,4,Michael Vrbensky,Mathys Erhard,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,QF,332,530,1,2,7,Mathys Erhard,Nicolas Zanellato,6-1 6-7(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,R16,332,1451,1,2,Q,Mathys Erhard,Tim Heger,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,R32,332,1361,1,2,WC,Mathys Erhard,Jan Kupcic,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Prague CH,3,Clay,R16,333,350,0,,,Andrew Paulson,Mathys Erhard,6-3 6-3,0.75,3.6%,5.4%,73.2%,53.7%,13.3%,2/8,42.9%,42.9%,0.0%,31.1%,64.0%,3/6,126,2,3,56,41,15,0,1:28
+21-Aug-2023,Prague CH,3,Clay,R32,333,223,1,,,Mathys Erhard,Francesco Maestrelli,7-6(0) 5-7 6-3,1.17,3.9%,5.9%,63.7%,66.2%,64.9%,4/8,53.0%,40.0%,1.0%,34.5%,47.6%,4/6,202,4,6,102,65,37,1,2:44
+14-Aug-2023,Todi CH,3,Clay,R16,310,377,0,LL,,Gabriel Debru,Mathys Erhard,6-4 2-6 6-4,1.02,4.3%,1.1%,73.4%,65.2%,36.0%,7/12,50.5%,43.3%,3.3%,32.1%,61.8%,5/10,184,4,1,94,69,25,3,2:26
+14-Aug-2023,Todi CH,3,Clay,R32,310,301,1,LL,,Mathys Erhard,Lorenzo Giustino,7-6(4) 6-0,1.39,4.9%,4.9%,60.7%,70.3%,41.7%,7/10,58.1%,57.1%,3.2%,43.9%,81.8%,6/8,124,3,3,61,37,24,2,1:37
+14-Aug-2023,Todi CH,3,Clay,Q2,310,525,0,1,,Felix Gill,Mathys Erhard,1-6 6-3 6-0,0.82,1.4%,8.3%,63.9%,58.7%,34.6%,4/9,45.7%,41.2%,2.9%,41.9%,40.0%,3/5,140,1,6,72,46,26,2,1:54
+14-Aug-2023,Todi CH,3,Clay,Q1,310,576,1,1,Alt,Mathys Erhard,Ramkumar Ramanathan,6-4 6-2,1.50,1.8%,3.6%,60.0%,75.8%,63.6%,2/2,56.3%,43.8%,1.6%,33.3%,57.1%,3/11,119,1,2,55,33,22,1,1:23
+31-Jul-2023,M25 Bolzano,3,Clay,F,342,423,0,1,3,Giovanni Oradini,Mathys Erhard,4-6 6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,SF,342,1283,1,1,,Mathys Erhard,Gian Matias Di Natale,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,QF,342,681,1,1,7,Mathys Erhard,Nikolay Vylegzhanin,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,R16,342,1600,1,1,WC,Mathys Erhard,Peter Buldorini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,R32,342,,1,1,WC,Mathys Erhard,Nicola Rispoli,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Amersfoort CH,3,Clay,SF,392,205,0,Q,8,Titouan Droguet,Mathys Erhard,7-5 6-1,0.56,1.8%,1.8%,64.9%,62.2%,35.0%,4/8,40.0%,26.4%,3.8%,20.6%,36.8%,1/2,110,1,1,57,37,20,2,1:22
+17-Jul-2023,Amersfoort CH,3,Clay,QF,392,97,1,Q,1,Mathys Erhard,Facundo Diaz Acosta,6-3 0-0 RET,1.62,5.6%,0.0%,55.6%,90.0%,37.5%,0/1,58.2%,54.1%,2.7%,50.0%,58.8%,3/7,55,1,0,18,10,8,1,0:43
+17-Jul-2023,Amersfoort CH,3,Clay,R16,392,195,1,Q,7,Mathys Erhard,Nicholas David Ionel,6-2 6-3,1.68,2.0%,0.0%,67.3%,78.8%,62.5%,0/0,57.1%,44.4%,4.8%,44.0%,46.2%,3/12,112,1,0,49,33,16,3,1:35
+17-Jul-2023,Amersfoort CH,3,Clay,R32,392,485,1,Q,,Mathys Erhard,Tibo Colson,7-6(6) 7-6(3),1.07,2.4%,2.4%,66.3%,63.6%,57.1%,4/7,51.5%,41.3%,6.3%,24.5%,67.7%,3/6,163,2,2,83,55,28,5,1:52
+17-Jul-2023,Amersfoort CH,3,Clay,Q2,392,529,1,5,10,Mathys Erhard,Luca Potenza,6-1 6-2,1.82,12.2%,2.0%,73.5%,75.0%,61.5%,5/5,61.6%,52.0%,0.0%,41.7%,78.6%,4/8,99,6,1,49,36,13,0,1:03
+17-Jul-2023,Amersfoort CH,3,Clay,Q1,392,1080,1,5,WC,Mathys Erhard,Stijn Slump,6-2 6-4,1.65,4.0%,2.0%,70.0%,77.1%,73.3%,2/2,58.2%,39.6%,4.2%,36.4%,42.3%,3/5,98,2,1,50,35,15,2,
+10-Jul-2023,M25 Uriage,3,Clay,QF,374,464,0,3,6,Tristan Lamasine,Mathys Erhard,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Uriage,3,Clay,R16,374,679,1,3,,Mathys Erhard,Nikolay Vylegzhanin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Uriage,3,Clay,R32,374,878,1,3,Q,Mathys Erhard,Lucas Bouquet,4-6 7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Troyes CH,3,Clay,R16,374,344,0,WC,Q,Manuel Guinard,Mathys Erhard,6-4 6-1,0.72,0.0%,8.2%,67.3%,48.5%,31.3%,5/10,42.1%,41.4%,10.3%,32.4%,54.2%,2/4,107,0,4,49,33,16,6,1:19
+3-Jul-2023,Troyes CH,3,Clay,R32,374,285,1,WC,,Mathys Erhard,Alvaro Lopez San Martin,2-6 6-1 6-4,1.06,2.4%,8.4%,59.0%,69.4%,41.2%,7/11,51.6%,44.6%,1.4%,36.2%,59.3%,5/8,157,2,7,83,49,34,1,2:00
+26-Jun-2023,M25 Arlon,3,Clay,R32,371,602,0,4,,Alex Knaff,Mathys Erhard,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Blois CH,3,Clay,Q1,357,436,0,6,,Mohamed Safwat,Mathys Erhard,6-3 6-3,0.51,1.2%,4.9%,73.2%,63.3%,13.6%,6/10,41.1%,25.5%,2.1%,24.1%,27.8%,1/4,129,1,4,82,60,22,1,1:33
+12-Jun-2023,M25 Grasse,3,Clay,QF,352,275,0,5,2,Titouan Droguet,Mathys Erhard,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Grasse,3,Clay,R16,352,732,1,5,,Mathys Erhard,Mikalai Haliak,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Grasse,3,Clay,R32,352,,1,5,Q,Mathys Erhard,Joris Moret,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,QF,342,349,0,5,3,Clement Tabur,Mathys Erhard,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,R16,342,902,1,5,,Mathys Erhard,Lucas Bouquet,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,R32,342,487,1,5,,Mathys Erhard,Tristan Lamasine,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,342,159,0,WC,,Flavio Cobolli,Mathys Erhard,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,342,159,0,WC,,Flavio Cobolli,Mathys Erhard,6-4 3-6 6-4,0.86,1.8%,1.8%,61.4%,62.9%,38.6%,13/19,47.7%,40.0%,3.5%,27.7%,55.3%,5/11,199,2,2,114,70,44,3,
 15-May-2023,M25 Kursumlijska Banja,3,Clay,F,361,483,0,4,,Marko Topo,Mathys Erhard,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Kursumlijska Banja,3,Clay,SF,361,835,1,4,,Mathys Erhard,Mikalai Haliak,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Kursumlijska Banja,3,Clay,QF,361,414,1,4,6,Mathys Erhard,Timo Legout,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -50,7 +81,7 @@
 3-Oct-2022,M25 Sheffield,3,Hard,R16,399,1249,1,5,WC,Mathys Erhard,Patrick Brady,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Oct-2022,M25 Sheffield,3,Hard,R32,399,1085,1,5,WC,Mathys Erhard,Ben Jones,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,Toulouse CH,3,Clay,R32,399,116,0,WC,1,Carlos Taberner,Mathys Erhard,6-3 6-4,0.80,4.3%,8.7%,59.4%,61.0%,39.3%,4/8,46.0%,38.2%,1.8%,25.9%,50.0%,2/4,124,3,6,69,41,28,1,1:44
-22-Aug-2022,M25 Oldenzaal,3,Clay,QF,375,545,0,2,6,Daniel Merida Aguilar ,Mathys Erhard,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,M25 Oldenzaal,3,Clay,QF,375,545,0,2,6,Daniel Merida Aguilar,Mathys Erhard,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M25 Oldenzaal,3,Clay,R16,375,1064,1,2,,Mathys Erhard,Dax Donders,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M25 Oldenzaal,3,Clay,R32,375,1567,1,2,Q,Mathys Erhard,Niels Lootsma,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Aug-2022,M25 Ystad,3,Clay,F,445,610,1,3,8,Mathys Erhard,David Pichler,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,

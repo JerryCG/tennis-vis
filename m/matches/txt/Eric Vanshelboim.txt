@@ -1,6 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Lyon CH,3,Clay,Q2,426,328,0,,6,Maxime Janvier,Eric Vanshelboim,6-2 6-3,0.40,1.6%,7.9%,79.4%,52.0%,46.2%,5/9,38.5%,19.5%,9.8%,10.7%,38.5%,0/0,104,1,5,63,50,13,4,1:12
-11-Jun-2023,Lyon CH,3,Clay,Q1,426,638,1,,,Eric Vanshelboim,Mirko Martinez,6-4 4-6 7-6(3),1.00,0.8%,0.8%,79.8%,62.1%,54.2%,9/13,50.7%,39.4%,0.0%,38.6%,43.8%,4/6,223,1,1,119,95,24,0,2:52
+7-Aug-2023,Banja Luka CH,3,Clay,R16,445,358,0,,SE,Toby Alex Kodat,Eric Vanshelboim,7-5 6-1,0.66,0.0%,4.8%,79.0%,36.7%,46.2%,6/13,39.7%,40.7%,3.7%,39.5%,43.8%,4/8,116,0,3,62,49,13,2,1:41
+7-Aug-2023,Banja Luka CH,3,Clay,R32,445,169,1,,7,Eric Vanshelboim,Zdenek Kolar,6-4 6-4,1.21,1.4%,7.1%,77.1%,51.9%,50.0%,2/7,54.9%,58.7%,0.0%,57.4%,62.5%,7/12,133,1,5,70,54,16,0,1:55
+7-Aug-2023,Banja Luka CH,3,Clay,Q2,445,556,1,,10,Eric Vanshelboim,Denys Klok,6-3 6-0,2.17,2.4%,2.4%,78.0%,71.9%,77.8%,2/2,65.5%,58.1%,2.3%,45.8%,73.7%,5/6,84,1,1,41,32,9,1,0:58
+7-Aug-2023,Banja Luka CH,3,Clay,Q1,445,,1,,,Eric Vanshelboim,Vladan Tadic,6-4 6-3,2.28,2.3%,4.5%,79.5%,85.7%,55.6%,0/1,59.0%,46.6%,0.0%,37.8%,60.7%,4/6,117,1,2,44,35,9,0,1:31
+24-Jul-2023,M25 Denia,3,Clay,SF,423,459,0,2,4,Carlos Lopez Montagud,Eric Vanshelboim,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Denia,3,Clay,QF,423,,1,2,Q,Eric Vanshelboim,Iker Urribarrens Ramirez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Denia,3,Clay,R16,423,1154,1,2,Q,Eric Vanshelboim,Gabriel Roveri Sidney,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Denia,3,Clay,R32,423,589,1,2,,Eric Vanshelboim,Max Alcala Gurri,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Tampere CH,3,Clay,Q1,421,555,0,,,Neil Oberleitner,Eric Vanshelboim,6-2 6-1,0.38,0.0%,4.1%,81.6%,45.0%,33.3%,4/9,33.7%,21.6%,5.4%,9.5%,37.5%,0/0,86,0,2,49,40,9,2,
+3-Jul-2023,M25 The Hague,3,Clay,SF,436,587,0,4,PR,Guy Den Ouden,Eric Vanshelboim,1-6 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 The Hague,3,Clay,QF,436,1436,1,4,WC,Eric Vanshelboim,Guy Den Heijer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 The Hague,3,Clay,R16,436,708,1,4,,Eric Vanshelboim,Olaf Pieczkowski,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 The Hague,3,Clay,R32,436,1952,1,4,WC,Eric Vanshelboim,Brian Bozemoj,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,R16,431,794,0,1,,Matej Dodig,Eric Vanshelboim,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,R32,431,1171,1,1,Q,Eric Vanshelboim,Filip Jeff Planinsek,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Lyon CH,3,Clay,Q2,426,328,0,,6,Maxime Janvier,Eric Vanshelboim,6-2 6-3,0.40,1.6%,7.9%,79.4%,52.0%,46.2%,5/9,38.5%,19.5%,9.8%,10.7%,38.5%,0/0,104,1,5,63,50,13,4,1:12
+12-Jun-2023,Lyon CH,3,Clay,Q1,426,638,1,,,Eric Vanshelboim,Mirko Martinez,6-4 4-6 7-6(3),1.00,0.8%,0.8%,79.8%,62.1%,54.2%,9/13,50.7%,39.4%,0.0%,38.6%,43.8%,4/6,223,1,1,119,95,24,0,2:52
 29-May-2023,M25 La Nucia,3,Clay,R32,435,510,0,6,,Yshai Oliel,Eric Vanshelboim,4-1 RET,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Addis Ababa,3,Clay,SF,449,946,0,2,,Rishab Agarwal,Eric Vanshelboim,6-7(4) 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Addis Ababa,3,Clay,QF,449,820,1,2,8,Eric Vanshelboim,Karan Singh,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,

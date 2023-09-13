@@ -1,4 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Aug-2023,Cordenons CH,3,Clay,Q1,620,425,0,,5,Marcello Serafini,Simone Roncalli,2-6 6-3 6-2,0.93,2.8%,5.6%,45.1%,71.9%,43.6%,1/7,48.3%,40.8%,5.3%,39.7%,44.4%,4/10,147,2,4,71,32,39,4,1:43
+31-Jul-2023,San Marino CH,3,Clay,Q1,618,431,0,,9,Gianmarco Ferrari,Simone Roncalli,7-5 3-6 6-0,0.80,0.0%,0.0%,65.0%,57.7%,53.6%,5/11,46.4%,35.2%,8.5%,23.1%,50.0%,3/6,151,0,0,80,52,28,6,2:05
+24-Jul-2023,Verona CH,3,Clay,Q1,614,279,0,,2,Max Houkes,Simone Roncalli,6-4 6-7(5) 6-2,0.97,2.3%,1.1%,59.1%,53.8%,58.3%,2/9,48.9%,43.1%,1.0%,33.9%,57.5%,4/10,190,2,1,88,52,36,1,2:54
+19-Jun-2023,M15 Cluj Napoca,3,Clay,QF,605,718,0,4,6,Radu Mihai Papoe,Simone Roncalli,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Cluj Napoca,3,Clay,R16,605,,1,4,Q,Simone Roncalli,Gabriel Ghetu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Cluj Napoca,3,Clay,R32,605,,1,4,WC,Simone Roncalli,Matei Cristian Onofrei,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Pazardzhik,3,Clay,QF,661,678,0,7,,Matyas Fuele,Simone Roncalli,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Pazardzhik,3,Clay,R16,661,859,1,7,,Simone Roncalli,Gabriel Donev,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Pazardzhik,3,Clay,R32,661,1206,1,7,Q,Simone Roncalli,Sean Hess,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -57,7 +63,7 @@
 4-Jul-2022,M25 Casinalbo,3,Clay,R32,559,,1,,WC,Simone Roncalli,Peter Buldorini,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Jun-2022,M15 Bergamo,3,Clay,R32,559,722,0,6,Q,Andrea Picchione,Simone Roncalli,3-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2022,Milan CH,3,Clay,Q1,555,457,0,Alt,10,Giovanni Fonio,Simone Roncalli,4-6 6-2 7-5,0.85,1.0%,3.9%,52.4%,68.5%,34.7%,7/14,46.8%,40.2%,6.9%,35.3%,47.2%,5/11,190,1,4,103,54,49,6,2:26
-13-Jun-2022,M15 Chieti,3,Clay,R16,542,,0,4,,Tommaso Compagnucci ,Simone Roncalli,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jun-2022,M15 Chieti,3,Clay,R16,542,,0,4,,Tommaso Compagnucci,Simone Roncalli,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Chieti,3,Clay,R32,542,,1,4,WC,Simone Roncalli,Giammarco Gandolfi,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Jun-2022,Perugia CH,3,Clay,Q1,546,440,0,,11,Cristian Rodriguez,Simone Roncalli,6-1 6-2,0.59,2.8%,2.8%,72.2%,57.7%,40.0%,2/6,38.6%,27.7%,12.8%,19.2%,38.1%,0/0,83,1,1,36,26,10,6,1:00
 9-May-2022,M25 Santa Margherita di Pula,3,Clay,R32,538,411,0,,4,Mattia Bellucci,Simone Roncalli,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,

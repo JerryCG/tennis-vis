@@ -1,6 +1,40 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,Q2,338,422,0,8,,Jerome Kym,Michael Vrbensky,6-4 6-2,0.70,4.4%,7.4%,54.4%,67.6%,38.7%,4/8,44.6%,32.1%,15.1%,28.9%,40.0%,1/4,121,3,5,68,37,31,8,1:24
-11-Jun-2023,Bratislava CH,3,Clay,Q1,338,1353,1,8,WC,Michael Vrbensky,Tomas Lanik,3-6 6-3 7-6(3),0.97,4.1%,5.7%,57.4%,71.4%,51.9%,11/13,50.7%,35.6%,7.9%,24.6%,52.5%,2/6,223,5,7,122,70,52,8,2:15
+4-Sep-2023,M25 Maribor,3,Clay,F,375,365,0,4,3,Juan Bautista Torres,Michael Vrbensky,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,SF,375,332,1,4,2,Michael Vrbensky,Mathys Erhard,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,QF,375,577,1,4,,Michael Vrbensky,Buvaysar Gadamauri,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,R16,375,1365,1,4,Q,Michael Vrbensky,Giuseppe La Vela,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Maribor,3,Clay,R32,375,608,1,4,,Michael Vrbensky,Chris Rodesch,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,F,375,530,1,3,,Michael Vrbensky,Nicolas Zanellato,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,SF,375,622,1,3,,Michael Vrbensky,Viacheslav Bielinskyi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,QF,375,436,1,3,5,Michael Vrbensky,Marcello Serafini,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,R16,375,572,1,3,,Michael Vrbensky,David Pichler,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,R32,375,1496,1,3,,Michael Vrbensky,Matic Dimic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Prague CH,3,Clay,R16,376,194,0,Q,3,Luciano Darderi,Michael Vrbensky,6-4 6-1,0.45,10.0%,5.0%,63.3%,71.1%,22.7%,7/11,39.8%,20.9%,7.0%,4.8%,36.4%,0/2,103,6,3,60,38,22,3,1:20
+21-Aug-2023,Prague CH,3,Clay,R32,376,372,1,Q,,Michael Vrbensky,David Jorda Sanchis,6-3 7-5,1.36,0.0%,4.5%,51.5%,64.7%,75.0%,3/4,55.2%,41.2%,7.4%,29.4%,52.9%,3/8,134,0,3,66,34,32,5,1:45
+21-Aug-2023,Prague CH,3,Clay,Q2,376,514,1,1,9,Michael Vrbensky,Jaime Faria,6-3 6-4,1.31,6.2%,7.7%,58.5%,84.2%,51.9%,1/1,55.8%,38.2%,9.1%,16.1%,66.7%,2/4,120,4,5,65,38,27,5,1:30
+21-Aug-2023,Prague CH,3,Clay,Q1,376,774,1,1,,Michael Vrbensky,Szymon Kielan,6-2 6-4,1.17,3.9%,6.6%,55.3%,64.3%,47.1%,10/12,54.1%,50.9%,3.5%,47.5%,58.8%,5/7,133,3,5,76,42,34,2,1:38
+7-Aug-2023,Cordenons CH,3,Clay,R32,369,167,0,,2,Francesco Passaro,Michael Vrbensky,6-2 6-0,0.53,2.6%,10.3%,53.8%,57.1%,22.2%,2/7,35.7%,31.1%,0.0%,34.5%,25.0%,0/2,84,1,4,39,21,18,0,1:02
+31-Jul-2023,Liberec CH,3,Clay,R16,386,223,0,Q,8,Francisco Comesana,Michael Vrbensky,7-5 6-4,0.84,3.8%,1.3%,60.0%,64.6%,46.9%,6/9,46.3%,35.7%,7.1%,23.9%,50.0%,1/3,164,3,1,80,48,32,6,2:11
+31-Jul-2023,Liberec CH,3,Clay,R32,386,321,1,Q,,Michael Vrbensky,Valentin Royer,6-4 2-6 6-4,0.87,9.0%,4.5%,51.4%,75.4%,50.0%,14/16,49.7%,32.1%,6.0%,20.0%,46.2%,2/9,195,10,5,111,57,54,5,2:29
+31-Jul-2023,Liberec CH,3,Clay,Q2,386,568,1,1,11,Michael Vrbensky,Yanaki Milev,6-4 6-2,1.74,6.3%,12.5%,56.3%,96.3%,42.9%,3/4,57.8%,47.1%,5.9%,43.2%,51.6%,4/7,116,3,6,48,27,21,4,1:10
+31-Jul-2023,Liberec CH,3,Clay,Q1,386,933,1,1,WC,Michael Vrbensky,Dominik Kellovsky,6-1 6-2,1.99,14.0%,6.0%,68.0%,76.5%,62.5%,1/1,64.5%,55.8%,2.3%,50.0%,60.9%,4/7,93,7,3,50,34,16,1,1:01
+24-Jul-2023,Zug CH,3,Clay,Q2,379,271,0,9,1,Manuel Guinard,Michael Vrbensky,6-0 7-6(3),0.64,7.8%,5.2%,49.4%,52.6%,41.0%,11/16,41.2%,33.9%,6.8%,24.3%,50.0%,2/2,136,6,4,77,38,39,4,1:30
+24-Jul-2023,Zug CH,3,Clay,Q1,379,517,1,9,,Michael Vrbensky,Kirill Kivattsev,6-2 6-2,3.22,7.9%,0.0%,57.9%,81.8%,87.5%,0/0,63.9%,50.8%,8.5%,40.0%,73.7%,4/7,97,3,0,38,22,16,5,1:08
+17-Jul-2023,Amersfoort CH,3,Clay,R32,350,205,0,Q,8,Titouan Droguet,Michael Vrbensky,6-1 6-4,0.93,2.2%,0.0%,65.2%,73.3%,31.3%,5/8,45.7%,38.6%,14.5%,26.1%,54.1%,0/9,129,1,0,46,30,16,12,1:32
+17-Jul-2023,Amersfoort CH,3,Clay,Q2,350,583,1,3,11,Michael Vrbensky,Simon Beaupain,6-4 2-6 7-6(4),1.03,5.8%,5.8%,55.8%,72.9%,55.3%,1/4,49.2%,35.9%,1.9%,34.8%,42.9%,2/8,189,5,5,86,48,38,2,2:25
+17-Jul-2023,Amersfoort CH,3,Clay,Q1,350,628,1,3,Alt,Michael Vrbensky,Maxime Mora,6-3 6-4,1.24,8.8%,2.9%,69.1%,66.0%,61.9%,8/9,53.4%,43.8%,1.3%,36.2%,54.5%,3/9,148,6,2,68,47,21,1,
+10-Jul-2023,Iasi CH,3,Clay,R16,347,190,0,LL,,Vitaliy Sachko,Michael Vrbensky,6-1 6-2,0.67,6.1%,8.2%,44.9%,45.5%,44.4%,3/7,40.4%,36.7%,1.7%,34.2%,40.9%,0/6,109,3,4,49,22,27,1,1:22
+10-Jul-2023,Iasi CH,3,Clay,R32,347,442,1,LL,Q,Michael Vrbensky,Juan Bautista Otegui,6-2 6-3,1.75,7.5%,0.0%,58.5%,83.9%,59.1%,1/1,59.8%,46.3%,3.7%,48.4%,43.5%,3/9,107,4,0,53,31,22,2,1:26
+10-Jul-2023,Iasi CH,3,Clay,Q2,347,442,0,2,8,Juan Bautista Otegui,Michael Vrbensky,6-7(2) 6-4 6-3,0.95,0.0%,5.7%,57.4%,64.3%,32.7%,12/21,48.9%,46.9%,1.8%,31.6%,62.5%,6/13,235,0,7,122,70,52,2,3:12
+10-Jul-2023,Iasi CH,3,Clay,Q1,347,886,1,2,Alt,Michael Vrbensky,Tomas Lipovsek Puches,6-2 6-2,1.67,6.3%,2.1%,66.7%,65.6%,68.8%,1/2,61.3%,55.6%,0.0%,46.9%,76.9%,5/8,93,3,1,48,32,16,0,
+3-Jul-2023,Milan CH,3,Clay,R32,347,150,0,Q,8,Flavio Cobolli,Michael Vrbensky,6-4 6-0,0.53,0.0%,8.7%,63.0%,62.1%,17.6%,2/7,37.5%,28.6%,7.1%,25.0%,33.3%,1/1,88,0,4,46,29,17,3,1:08
+3-Jul-2023,Milan CH,3,Clay,Q2,347,261,1,7,1,Michael Vrbensky,Salvatore Caruso,7-5 3-1 RET,1.72,9.8%,4.9%,56.1%,73.9%,77.8%,1/2,57.1%,42.0%,4.0%,30.0%,60.0%,3/5,91,4,2,41,23,18,2,1:20
+3-Jul-2023,Milan CH,3,Clay,Q1,347,506,1,7,,Michael Vrbensky,Ilya Snitari,6-4 1-6 6-3,0.95,3.4%,4.5%,46.1%,61.0%,54.2%,7/10,49.1%,40.7%,2.3%,36.4%,45.2%,3/6,175,3,4,89,41,48,2,2:14
+19-Jun-2023,M25 Poprad,3,Clay,QF,341,459,0,3,5,Andrew Paulson,Michael Vrbensky,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R16,341,1027,1,3,,Michael Vrbensky,Daniel Paty,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R32,341,1203,1,3,,Michael Vrbensky,Michal Novansky,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Bratislava CH,3,Clay,Q2,338,422,0,8,,Jerome Kym,Michael Vrbensky,6-4 6-2,0.70,4.4%,7.4%,54.4%,67.6%,38.7%,4/8,44.6%,32.1%,15.1%,28.9%,40.0%,1/4,121,3,5,68,37,31,8,1:24
+12-Jun-2023,Bratislava CH,3,Clay,Q1,338,1353,1,8,WC,Michael Vrbensky,Tomas Lanik,3-6 6-3 7-6(3),0.97,4.1%,5.7%,57.4%,71.4%,51.9%,11/13,50.7%,35.6%,7.9%,24.6%,52.5%,2/6,223,5,7,122,70,52,8,2:15
 5-Jun-2023,Prostejov CH,3,Clay,Q2,344,225,0,11,1,Mate Valkusz,Michael Vrbensky,6-3 6-7(6) 6-3,0.78,1.8%,5.4%,50.9%,61.4%,43.6%,7/14,45.3%,37.0%,6.0%,33.3%,43.2%,3/6,212,2,6,112,57,55,6,2:38
 5-Jun-2023,Prostejov CH,3,Clay,Q1,344,436,1,11,Alt,Michael Vrbensky,Saba Purtseladze,6-2 0-0 RET,1.50,3.4%,10.3%,44.8%,84.6%,50.0%,1/1,58.9%,51.9%,0.0%,52.6%,50.0%,2/2,56,1,3,29,13,16,0,0:34
 29-May-2023,M25 Jablonec nad Nisou,3,Clay,R16,344,448,0,4,,Sebastian Fanselow,Michael Vrbensky,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,

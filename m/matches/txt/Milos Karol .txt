@@ -1,6 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,Q2,1275,266,0,WC,2,Vitaliy Sachko,Milos Karol ,6-4 6-1,0.38,1.4%,10.1%,52.2%,66.7%,39.4%,5/8,39.1%,17.4%,13.0%,15.2%,23.1%,0/0,115,1,7,69,36,33,6,1:14
-11-Jun-2023,Bratislava CH,3,Clay,Q1,1275,461,1,WC,11,Milos Karol ,Ulises Blanch,4-6 7-6(10) 6-4,1.09,14.4%,6.3%,61.3%,80.9%,48.8%,2/4,49.8%,34.3%,2.2%,29.1%,43.8%,2/16,245,16,7,111,68,43,3,2:41
+28-Aug-2023,M15 Vienna,3,Clay,F,1094,552,0,,2,Peter Heller,Milos Karol ,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Vienna,3,Clay,SF,1094,921,1,,8,Milos Karol ,Dominik Kellovsky,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Vienna,3,Clay,QF,1094,503,1,,1,Milos Karol ,Andrey Chepelev,6-4 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Vienna,3,Clay,R16,1094,749,1,,6,Milos Karol ,Sebastian Sorger,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Vienna,3,Clay,R32,1094,1768,1,,WC,Milos Karol ,Syl Gaxherri,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Lodz,3,Clay,R32,1091,703,0,WC,,Olaf Pieczkowski,Milos Karol ,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Telfs,3,Clay,R16,1130,414,0,,6,Sandro Kopp,Milos Karol ,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 Telfs,3,Clay,R32,1130,1525,1,,Q,Milos Karol ,Gustaf Strom,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,Salzburg CH,3,Clay,Q1,1134,407,0,Alt,7,Vladyslav Orlov,Milos Karol ,5-7 6-3 6-1,0.86,4.4%,5.6%,56.7%,49.0%,43.6%,7/15,46.2%,45.7%,1.1%,41.5%,51.2%,5/10,184,4,5,90,51,39,1,
+19-Jun-2023,M25 Poprad,3,Clay,R16,1155,984,0,WC,,Lukas Palovic,Milos Karol ,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R32,1155,294,1,WC,2,Milos Karol ,Alibek Kachmazov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Bratislava CH,3,Clay,Q2,1275,266,0,WC,2,Vitaliy Sachko,Milos Karol ,6-4 6-1,0.38,1.4%,10.1%,52.2%,66.7%,39.4%,5/8,39.1%,17.4%,13.0%,15.2%,23.1%,0/0,115,1,7,69,36,33,6,1:14
+12-Jun-2023,Bratislava CH,3,Clay,Q1,1275,461,1,WC,11,Milos Karol ,Ulises Blanch,4-6 7-6(10) 6-4,1.09,14.4%,6.3%,61.3%,80.9%,48.8%,2/4,49.8%,34.3%,2.2%,29.1%,43.8%,2/16,245,16,7,111,68,43,3,2:41
 5-Jun-2023,Prostejov CH,3,Clay,Q1,1283,275,0,Alt,7,Vitaliy Sachko,Milos Karol ,6-3 6-2,0.71,2.1%,8.3%,45.8%,59.1%,34.6%,5/10,41.8%,38.7%,0.0%,23.1%,65.2%,2/9,110,1,4,48,22,26,0,1:19
 22-May-2023,M25 Most,3,Clay,R32,1274,595,0,WC,,Mika Brunold,Milos Karol ,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2023,M25 Split,3,Clay,R16,1370,346,0,Q,1,Michael Vrbensky,Milos Karol ,0-6 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
@@ -11,7 +22,7 @@
 16-Jan-2023,M15 Vilnius,3,Hard,R32,1643,1340,1,Q,,Milos Karol ,Matthew William Donald,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Dec-2022,M15 Trnava,3,Hard,R32,1994,961,0,WC,,Kilian Feldbausch,Milos Karol ,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Nov-2022,M25 Trnava,3,Hard,R16,1656,711,0,WC,,Tibo Colson,Milos Karol ,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-28-Nov-2022,M25 Trnava,3,Hard,R32,1656,918,1,WC,WC,Milos Karol ,Peter Benjamin Privara ,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Nov-2022,M25 Trnava,3,Hard,R32,1656,918,1,WC,WC,Milos Karol ,Peter Benjamin Privara,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Nov-2022,Bratislava CH,3,Hard,Q1,1067,333,0,WC,10,Viktor Durasovic,Milos Karol ,6-4 6-3,0.71,3.5%,5.3%,49.1%,71.4%,51.7%,4/7,44.6%,27.3%,5.5%,31.3%,21.7%,1/3,112,2,3,57,28,29,3,1:11
 17-Oct-2022,M15 Heraklion,3,Hard,R32,1056,804,0,Q,7,Jiri Barnat,Milos Karol ,3-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
 10-Oct-2022,M15 Heraklion,3,Hard,R32,994,1005,0,,,Aleksi Lofman,Milos Karol ,3-6 6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,

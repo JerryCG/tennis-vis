@@ -1,6 +1,25 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Palmas Del Mar CH,3,Hard,Q2,391,378,0,7,6,Bernard Tomic,Strong Kirchheimer,7-5 3-6 6-3,0.91,10.3%,2.6%,69.2%,61.7%,50.0%,12/17,49.8%,38.1%,9.5%,28.8%,53.1%,4/8,201,12,3,117,81,36,8,2:34
-11-Jun-2023,Palmas Del Mar CH,3,Hard,Q1,391,651,1,7,,Strong Kirchheimer,Gage Brymer,6-4 6-4,1.16,3.3%,3.3%,66.7%,75.0%,65.0%,0/0,53.0%,32.7%,5.5%,22.5%,60.0%,2/6,115,2,2,60,40,20,3,1:29
+10-Sep-2023,Cary CH,3,Hard,Q2,426,607,1,2,11,Strong Kirchheimer,Alex Rybakov,6-7(2) 7-5 7-6(3),1.14,5.5%,4.5%,61.8%,73.5%,59.5%,7/10,51.8%,36.2%,9.5%,30.1%,46.5%,4/11,226,6,5,110,68,42,11,3:01
+10-Sep-2023,Cary CH,3,Hard,Q1,426,1380,1,2,,Strong Kirchheimer,Connor Thomson,7-6(3) 6-3,1.80,6.6%,1.6%,65.6%,77.5%,71.4%,3/4,56.4%,44.2%,4.2%,30.8%,60.5%,3/16,156,4,1,61,40,21,4,2:13
+21-Aug-2023,Winston-Salem,3,Hard,R32,416,78,0,LL,,Dominik Koepfer,Strong Kirchheimer,6-3 6-2,0.55,6.3%,3.1%,65.6%,50.0%,59.1%,6/10,40.7%,25.9%,11.1%,31.3%,18.2%,1/4,118,4,2,64,42,22,6,1:21
+21-Aug-2023,Winston-Salem,3,Hard,Q2,416,497,0,Alt,Alt,Darian King,Strong Kirchheimer,2-6 6-4 7-6(1),1.05,5.4%,2.2%,63.0%,72.4%,44.1%,5/8,50.5%,40.0%,2.0%,37.3%,48.0%,4/9,192,5,2,92,58,34,2,2:19
+21-Aug-2023,Winston-Salem,3,Hard,Q1,416,199,1,Alt,1,Strong Kirchheimer,Adam Walton,7-5 6-3,1.32,8.6%,1.4%,67.1%,68.1%,69.6%,6/7,55.0%,41.4%,5.7%,35.0%,50.0%,3/12,140,6,1,70,47,23,4,
+14-Aug-2023,Winnipeg CH,3,Hard,R32,427,117,0,Q,4,Liam Broady,Strong Kirchheimer,6-3 6-3,0.65,9.6%,3.8%,65.4%,67.6%,44.4%,1/4,42.2%,26.3%,7.0%,23.3%,29.6%,0/1,109,5,2,52,34,18,4,1:21
+14-Aug-2023,Winnipeg CH,3,Hard,Q2,427,498,1,5,8,Strong Kirchheimer,Olukayode Alafia Damina Ayeni,7-5 6-2,2.79,6.4%,2.1%,72.3%,82.4%,92.3%,0/0,59.8%,41.5%,12.3%,37.0%,52.6%,3/11,112,3,1,47,34,13,8,1:16
+14-Aug-2023,Winnipeg CH,3,Hard,Q1,427,842,1,5,WC,Strong Kirchheimer,Juan Carlos Aguilar,1-6 6-4 6-4,0.91,4.7%,0.0%,62.4%,66.0%,50.0%,3/7,49.1%,36.5%,2.7%,31.9%,44.4%,3/8,159,4,0,85,53,32,2,2:09
+7-Aug-2023,Cary CH,3,Hard,Q1,422,653,0,6,WC,Quinn Vandecasteele,Strong Kirchheimer,5-7 6-3 6-2,0.85,3.3%,4.4%,60.0%,57.4%,50.0%,5/11,46.6%,38.6%,14.8%,18.4%,54.0%,4/6,178,3,4,90,54,36,13,2:20
+31-Jul-2023,Lexington CH,3,Hard,R16,408,218,0,,5,Tennys Sandgren,Strong Kirchheimer,6-2 6-4,0.53,8.1%,3.2%,62.9%,64.1%,39.1%,9/12,40.5%,24.1%,11.1%,12.5%,40.9%,0/4,116,5,2,62,39,23,6,1:18
+31-Jul-2023,Lexington CH,3,Hard,R32,408,425,1,,WC,Strong Kirchheimer,Martin Damm,6-7(4) 7-6(5) 7-6(4),1.04,6.1%,6.1%,56.5%,74.3%,61.4%,4/6,50.0%,32.6%,17.7%,17.5%,52.5%,2/13,272,8,8,131,74,57,25,3:28
+17-Jul-2023,Granby CH,3,Hard,Q1,411,579,0,6,,James Trotter,Strong Kirchheimer,7-6(5) 6-4,1.04,4.2%,1.4%,65.3%,63.8%,64.0%,4/5,48.3%,37.5%,14.4%,24.6%,55.8%,0/11,176,3,1,72,47,25,15,
+10-Jul-2023,Chicago CH,3,Hard,Q1,387,381,0,Alt,12,Colin Sinclair,Strong Kirchheimer,7-6(5) 6-4,0.73,10.5%,7.9%,65.8%,74.0%,53.8%,9/10,46.3%,23.9%,14.1%,19.6%,35.0%,0/2,147,8,6,76,50,26,10,
+3-Jul-2023,Bloomfield Hills CH,3,Hard,Q1,387,313,0,,3,Yunseong Chung,Strong Kirchheimer,6-4 7-6(13),1.01,2.8%,1.4%,65.3%,78.7%,56.0%,0/2,48.4%,29.4%,8.2%,27.1%,34.6%,1/4,157,2,1,72,47,25,7,1:49
+19-Jun-2023,M15 South Bend,3,Hard,F,396,990,0,1,,James Tracy,Strong Kirchheimer,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 South Bend,3,Hard,SF,396,830,1,1,6,Strong Kirchheimer,Blaise Bicknell,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 South Bend,3,Hard,QF,396,,1,1,Q,Strong Kirchheimer,Colton Smith,3-6 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 South Bend,3,Hard,R16,396,1225,1,1,,Strong Kirchheimer,Karlis Ozolins,6-7(5) 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 South Bend,3,Hard,R32,396,,1,1,,Strong Kirchheimer,Jacob Bickersteth,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Palmas Del Mar CH,3,Hard,Q2,391,378,0,7,6,Bernard Tomic,Strong Kirchheimer,7-5 3-6 6-3,0.91,10.3%,2.6%,69.2%,61.7%,50.0%,12/17,49.8%,38.1%,9.5%,28.8%,53.1%,4/8,201,12,3,117,81,36,8,2:34
+12-Jun-2023,Palmas Del Mar CH,3,Hard,Q1,391,651,1,7,,Strong Kirchheimer,Gage Brymer,6-4 6-4,1.16,3.3%,3.3%,66.7%,75.0%,65.0%,0/0,53.0%,32.7%,5.5%,22.5%,60.0%,2/6,115,2,2,60,40,20,3,1:29
 29-May-2023,Little Rock CH,3,Hard,Q1,392,650,0,10,WC,Colin Markes,Strong Kirchheimer,5-7 7-6(2) 7-6(0),0.88,1.5%,2.2%,62.8%,64.0%,52.9%,12/16,49.0%,35.5%,3.6%,29.9%,44.2%,5/8,247,2,3,137,86,51,4,3:04
 24-Apr-2023,Savannah CH,3,Clay,R32,391,210,0,Alt,4,Nicolas Kicker,Strong Kirchheimer,6-1 6-1,0.31,0.0%,0.0%,76.8%,46.5%,38.5%,5/10,34.1%,17.1%,0.0%,7.7%,44.4%,0/1,91,0,0,56,43,13,0,1:08
 17-Apr-2023,Tallahassee CH,3,Clay,R32,395,270,0,Q,,Mitchell Krueger,Strong Kirchheimer,6-7(6) 6-2 6-3,0.69,5.0%,1.0%,64.0%,60.9%,50.0%,3/9,44.6%,29.8%,13.1%,25.5%,36.4%,2/4,184,5,1,100,64,36,11,2:19

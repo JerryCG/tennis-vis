@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Aug-2023,M25 Roehampton,3,Hard,R32,625,1449,0,,Q,Michael Shaw,Renta Tokuda,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,Astana CH,3,Hard,R16,639,229,0,,1,Mikhail Kukushkin,Renta Tokuda,6-1 6-3,0.73,2.1%,4.3%,70.2%,54.5%,28.6%,2/7,42.3%,38.6%,12.3%,32.4%,47.8%,1/2,104,1,2,47,33,14,7,1:15
+24-Jul-2023,Astana CH,3,Hard,R32,639,515,1,,,Renta Tokuda,Digvijaypratap Singh,6-3 6-4,1.21,2.5%,3.7%,56.8%,63.0%,68.6%,9/9,53.8%,41.8%,13.9%,32.0%,58.6%,2/12,160,2,3,81,46,35,11,1:39
+10-Jul-2023,M15 Nakhon Si Thammarat,3,Hard,R32,639,684,0,8,,Sidharth Rawat,Renta Tokuda,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Nakhon Si Thammarat,3,Hard,R32,639,936,0,6,Q,Yurii Dzhavakian,Renta Tokuda,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Changwon,3,Hard,SF,676,,0,,7,Yuki Mochizuki,Renta Tokuda,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Changwon,3,Hard,QF,676,574,1,,6,Renta Tokuda,Jea Moon Lee,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Changwon,3,Hard,R16,676,315,1,,1,Renta Tokuda,Yunseong Chung,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Changwon,3,Hard,R32,676,,1,,Q,Renta Tokuda,Seungmin Park,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Jakarta,3,Hard,R32,689,1082,0,,,Mitsuki Wei Kang Leong,Renta Tokuda,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 8-May-2023,Busan CH,3,Hard,R32,726,193,0,Q,,Yu Hsiou Hsu,Renta Tokuda,7-6(4) 6-3,0.87,0.0%,1.5%,75.0%,56.9%,41.2%,3/8,46.8%,40.8%,11.3%,18.9%,64.7%,3/7,139,0,1,68,51,17,8,1:25
 8-May-2023,Busan CH,3,Hard,Q2,726,468,1,PR,10,Renta Tokuda,Jose Rubin Statham,6-3 6-4,1.29,2.8%,4.2%,59.2%,71.4%,55.2%,3/4,55.6%,45.3%,6.3%,36.7%,52.9%,3/7,135,2,3,71,42,29,4,1:31
@@ -23,7 +32,7 @@
 27-Feb-2023,M15 Monastir,3,Hard,R32,940,876,1,PR,,Renta Tokuda,Ray Ho,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Nov-2022,Yokkaichi CH,3,Hard,Q1,735,498,0,PR,4,Colin Sinclair,Renta Tokuda,6-1 7-5,0.38,0.0%,1.7%,66.1%,53.8%,55.0%,3/7,38.1%,17.4%,17.4%,8.0%,28.6%,1/3,105,0,1,59,39,20,8,1:01
 14-Nov-2022,Kobe CH,3,Hard,Q2,751,371,0,PR,5,Marc Polmans,Renta Tokuda,6-3 4-6 6-2,0.84,3.6%,2.4%,69.9%,67.2%,44.0%,9/14,47.5%,33.3%,5.3%,23.5%,54.2%,3/8,158,3,2,83,58,25,4,1:47
-14-Nov-2022,Kobe CH,3,Hard,Q1,751,,1,PR,11,Renta Tokuda,Jisung Nam,6-4 6-1,1.28,2.9%,4.4%,69.1%,66.0%,42.9%,7/9,55.7%,52.8%,2.8%,38.9%,66.7%,5/18,140,2,3,68,47,21,2,1:26
+14-Nov-2022,Kobe CH,3,Hard,Q1,751,476,1,PR,11,Renta Tokuda,Ji Sung Nam,6-4 6-1,1.28,2.9%,4.4%,69.1%,66.0%,42.9%,7/9,55.7%,52.8%,2.8%,38.9%,66.7%,5/18,140,2,3,68,47,21,2,1:26
 24-Oct-2022,M25 Jakarta,3,Hard,SF,821,913,0,PR,,Arthur Weber,Renta Tokuda,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,QF,821,583,1,PR,3,Renta Tokuda,Sidharth Rawat,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,R16,821,607,1,PR,6,Renta Tokuda,Matyas Fuele,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

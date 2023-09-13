@@ -1,6 +1,29 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Perugia CH,3,Clay,Q2,336,325,0,8,6,Oriol Roca Batalla,Francesco Forti,6-4 6-3,0.88,5.5%,5.5%,54.5%,73.3%,40.0%,4/7,45.8%,36.8%,0.0%,36.5%,38.5%,1/8,131,3,3,55,30,25,0,1:45
-11-Jun-2023,Perugia CH,3,Clay,Q1,336,388,1,8,,Francesco Forti,Bogdan Bobrov,6-3 6-4,1.20,6.1%,4.5%,60.6%,80.0%,53.8%,5/5,54.5%,36.4%,3.6%,28.1%,47.8%,2/9,121,4,3,66,40,26,2,1:23
+4-Sep-2023,Genoa CH,3,Clay,Q2,390,421,0,6,7,Hady Habib,Francesco Forti,6-2 6-4,0.59,11.3%,1.9%,60.4%,62.5%,57.1%,2/5,42.3%,23.5%,9.8%,17.2%,31.8%,0/1,104,6,1,53,32,21,5,1:09
+4-Sep-2023,Genoa CH,3,Clay,Q1,390,,1,6,WC,Francesco Forti,Filippo Romano,7-5 6-2,1.44,5.2%,3.4%,67.2%,71.8%,63.2%,3/4,56.0%,44.8%,4.5%,26.9%,56.1%,4/9,125,3,2,58,39,19,3,1:31
+28-Aug-2023,M15 Forli,3,Clay,QF,390,675,0,1,8,Gabriele Pennaforti,Francesco Forti,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Forli,3,Clay,R16,390,1868,1,1,Q,Francesco Forti,Enrico Giacomini,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Forli,3,Clay,R32,390,1056,1,1,,Francesco Forti,Lautaro Agustin Falabella,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,Todi CH,3,Clay,R32,385,525,0,,Q,Felix Gill,Francesco Forti,7-6(8) 4-6 7-6(2),0.99,10.8%,5.0%,52.5%,74.6%,47.4%,6/9,50.4%,38.0%,2.8%,32.3%,46.5%,4/7,228,13,6,120,63,57,3,3:00
+7-Aug-2023,Cordenons CH,3,Clay,R32,349,249,0,,,Francesco Maestrelli,Francesco Forti,6-2 6-4,0.53,2.0%,0.0%,68.6%,65.7%,43.8%,2/5,41.2%,21.7%,6.5%,15.2%,38.5%,0/0,97,1,0,51,35,16,3,1:14
+31-Jul-2023,San Marino CH,3,Clay,Q2,348,432,0,4,10,Marcello Serafini,Francesco Forti,7-5 3-6 6-0,0.72,4.4%,5.6%,67.8%,57.4%,44.8%,10/16,44.5%,33.8%,0.0%,28.3%,42.9%,3/3,164,4,5,90,61,29,0,2:03
+31-Jul-2023,San Marino CH,3,Clay,Q1,348,1049,1,4,WC,Francesco Forti,Alessandro Pecci,6-2 0-0 RET,1.35,0.0%,5.7%,51.4%,50.0%,82.4%,4/4,57.1%,46.4%,0.0%,25.0%,62.5%,2/5,63,0,2,35,18,17,0,0:51
+24-Jul-2023,Verona CH,3,Clay,Q2,327,306,0,7,4,Chun Hsin Tseng,Francesco Forti,6-3 6-4,0.71,11.1%,4.8%,73.0%,67.4%,41.2%,3/5,45.0%,28.1%,3.5%,23.5%,34.8%,0/2,120,7,3,63,46,17,2,1:25
+24-Jul-2023,Verona CH,3,Clay,Q1,327,697,1,7,WC,Francesco Forti,Gabriele Pennaforti,6-7(3) 6-4 7-6(5),1.13,5.7%,3.8%,61.0%,73.4%,53.7%,8/11,51.3%,38.7%,0.8%,33.7%,51.5%,4/8,224,6,4,105,64,41,1,2:55
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R16,333,188,0,LL,,Kimmer Coppejans,Francesco Forti,7-5 3-6 6-2,0.76,6.9%,2.0%,58.4%,66.1%,47.6%,10/15,47.4%,31.4%,4.3%,20.5%,50.0%,3/3,171,7,2,101,59,42,3,2:07
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R32,333,242,1,LL,,Francesco Forti,Andrea Pellegrino,7-6(3) 6-2,1.30,12.1%,3.0%,62.1%,78.0%,52.0%,1/2,54.4%,41.4%,4.3%,40.0%,43.3%,3/8,136,8,2,66,41,25,3,1:52
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q2,333,475,0,3,10,Marcello Serafini,Francesco Forti,1-6 6-2 6-3,0.85,2.9%,4.3%,59.4%,68.3%,53.6%,2/5,47.1%,31.9%,1.4%,27.7%,40.9%,2/4,138,2,3,69,41,28,1,1:38
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q1,333,557,1,3,,Francesco Forti,Federico Iannaccone,6-4 6-4,1.10,5.9%,3.5%,65.9%,69.6%,37.9%,8/10,53.1%,45.2%,0.0%,47.1%,36.4%,4/7,147,5,3,85,56,29,0,
+3-Jul-2023,Milan CH,3,Clay,R16,333,,0,Q,,Lautaro Midon,Francesco Forti,6-3 4-6 6-4,0.95,5.2%,4.2%,53.1%,62.7%,37.8%,6/14,48.7%,46.3%,0.0%,46.0%,46.9%,6/13,191,5,4,96,51,45,0,2:26
+3-Jul-2023,Milan CH,3,Clay,R32,333,194,1,Q,,Francesco Forti,Riccardo Bonadio,6-3 3-0 RET,1.95,2.8%,2.8%,61.1%,72.7%,78.6%,0/0,61.3%,48.7%,5.1%,41.2%,54.5%,3/5,75,1,1,36,22,14,2,1:02
+3-Jul-2023,Milan CH,3,Clay,Q2,333,1283,1,5,,Francesco Forti,Lucio Carnevalle,6-3 6-1,1.75,6.5%,8.7%,50.0%,82.6%,56.5%,0/1,60.4%,53.3%,0.0%,51.7%,54.8%,5/14,106,3,4,46,23,23,0,1:18
+26-Jun-2023,Modena CH,3,Clay,R16,339,241,0,Q,5,Terence Atmane,Francesco Forti,6-3 6-4,0.56,8.3%,4.2%,66.7%,65.6%,43.8%,2/5,40.4%,23.5%,5.9%,14.3%,34.8%,1/1,99,4,2,48,32,16,3,1:08
+26-Jun-2023,Modena CH,3,Clay,R32,339,486,1,Q,WC,Francesco Forti,Marcello Serafini,6-2 7-6(3),2.47,18.2%,1.8%,69.1%,89.5%,76.5%,2/2,58.8%,35.9%,6.3%,35.3%,38.5%,2/7,119,10,1,55,38,17,4,1:21
+26-Jun-2023,Modena CH,3,Clay,Q2,339,327,1,8,2,Francesco Forti,Jules Marie,7-6(2) 6-4,1.44,13.6%,4.5%,59.1%,79.5%,59.3%,2/3,54.2%,41.4%,2.3%,32.8%,58.6%,2/16,153,9,3,66,39,27,2,1:45
+26-Jun-2023,Modena CH,3,Clay,Q1,339,527,1,8,,Francesco Forti,Evgeny Karlovskiy,6-3 6-4,1.32,16.4%,1.6%,67.2%,80.5%,60.0%,4/4,55.8%,34.6%,1.9%,28.9%,50.0%,2/7,113,10,1,61,41,20,1,1:14
+19-Jun-2023,Montechiarugolo CH,3,Clay,R32,337,227,0,WC,,Federico Gaio,Francesco Forti,7-6(4) 7-6(2),0.74,8.3%,4.2%,56.3%,72.2%,57.1%,8/8,46.9%,25.3%,6.0%,14.0%,37.5%,0/2,179,8,4,96,54,42,5,2:06
+12-Jun-2023,Perugia CH,3,Clay,Q2,336,325,0,8,6,Oriol Roca Batalla,Francesco Forti,6-4 6-3,0.88,5.5%,5.5%,54.5%,73.3%,40.0%,4/7,45.8%,36.8%,0.0%,36.5%,38.5%,1/8,131,3,3,55,30,25,0,1:45
+12-Jun-2023,Perugia CH,3,Clay,Q1,336,388,1,8,,Francesco Forti,Bogdan Bobrov,6-3 6-4,1.20,6.1%,4.5%,60.6%,80.0%,53.8%,5/5,54.5%,36.4%,3.6%,28.1%,47.8%,2/9,121,4,3,66,40,26,2,1:23
 5-Jun-2023,M15 Frascati,3,Clay,QF,340,514,0,1,8,Julian Ocleppo,Francesco Forti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R16,340,,1,1,,Francesco Forti,Tommaso Compagnucci,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R32,340,,1,1,WC,Francesco Forti,Daniele Minighini,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -42,7 +65,7 @@
 21-Nov-2022,Andria CH,3,Hard,Q2,452,334,0,,5,Alibek Kachmazov,Francesco Forti,6-4 6-3,0.80,10.0%,4.0%,70.0%,60.0%,13.3%,4/9,44.3%,43.1%,4.6%,27.0%,64.3%,3/7,115,5,2,50,35,15,3,1:17
 21-Nov-2022,Andria CH,3,Hard,Q1,452,357,1,,9,Francesco Forti,Giovanni Oradini,6-3 6-4,1.65,8.6%,3.4%,65.5%,86.8%,50.0%,2/2,56.4%,42.7%,4.0%,33.3%,59.3%,2/7,133,5,2,58,38,20,3,1:36
 7-Nov-2022,M25 Sharm ElSheikh,3,Hard,R16,451,900,0,6,PR,Jacopo Berrettini,Francesco Forti,6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,451,,1,6,,Francesco Forti,Tommaso Compagnucci ,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,M25 Sharm ElSheikh,3,Hard,R32,451,,1,6,,Francesco Forti,Tommaso Compagnucci,6-7(2) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M25 Santa Margherita di Pula,3,Clay,QF,457,263,0,8,1,Daniel Michalski,Francesco Forti,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M25 Santa Margherita di Pula,3,Clay,R16,457,1943,1,8,Q,Francesco Forti,Antonio Massara,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M25 Santa Margherita di Pula,3,Clay,R32,457,,1,8,WC,Francesco Forti,Julian Alonso,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

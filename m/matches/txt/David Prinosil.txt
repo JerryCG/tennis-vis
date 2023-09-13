@@ -2,6 +2,7 @@
 7-Jun-2004,Halle,3,Grass,R32,368,23,0,WC,6,Mardy Fish,David Prinosil,6-4 6-2,0.63,1.6%,11.1%,54.0%,67.6%,41.4%,5/8,42.7%,27.8%,14.8%,16.0%,37.9%,0/0,117,1,7,63,34,29,8,1:11
 27-Oct-2003,Aachen CH,3,Carpet,R32,239,131,0,WC,,Paul Baccanello,David Prinosil,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 29-Sep-2003,Moscow,3,Carpet,R32,255,129,0,Q,,Marc Rosset,David Prinosil,6-1 6-1,0.53,2.4%,12.2%,53.7%,68.2%,15.8%,2/7,36.4%,29.8%,12.8%,24.0%,36.4%,0/2,88,1,5,41,22,19,6,0:51
+25-Aug-2003,US Open,5,Hard,Q1,241,174,0,,,Dmitry Tursunov,David Prinosil,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Aug-2003,Graz CH,3,Hard,R32,220,97,0,,1,Werner Eschauer,David Prinosil,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Jul-2003,Segovia CH,3,Hard,R32,216,209,0,,,Jean Francois Bachelot,David Prinosil,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 14-Jul-2003,Manchester CH,3,Grass,QF,228,150,0,8,3,Gilles Elseneer,David Prinosil,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -12,18 +13,26 @@
 7-Jul-2003,Bristol CH,3,Grass,QF,237,202,1,8,3,David Prinosil,Jean Francois Bachelot,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Jul-2003,Bristol CH,3,Grass,R16,237,252,1,8,,David Prinosil,Cristiano Caratti,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Jul-2003,Bristol CH,3,Grass,R32,237,502,1,8,WC,David Prinosil,Chris Lewis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q1,226,288,0,,,Ignacio Hirigoyen,David Prinosil,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Jun-2003,Halle,3,Grass,R32,219,38,0,Q,,Ivan Ljubicic,David Prinosil,7-6(5) 6-2,0.78,6.3%,9.5%,54.0%,70.6%,48.3%,0/2,45.3%,30.8%,15.4%,20.5%,52.4%,0/3,128,4,6,63,34,29,10,1:22
+26-May-2003,Roland Garros,5,Clay,Q1,215,328,0,,,Frantisek Cermak,David Prinosil,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Feb-2003,Wolfsburg CH,3,Carpet,R16,205,168,0,,2,Arvind Parmar,David Prinosil,7-6(3) 4-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
-17-Feb-2003,Wolfsburg CH,3,Carpet,R32,205,,1,,WC,David Prinosil,Alberto Cammarata,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Feb-2003,Wolfsburg CH,3,Carpet,R32,205,,1,,WC,David Prinosil,Sebastian Schulz,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Feb-2003,Davis Cup WG R1: ARG vs GER,3,Clay,RR,204,26,0,,,Juan Ignacio Chela,David Prinosil,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Jan-2003,Heilbronn CH,3,Carpet,R32,213,163,0,WC,Q,Lovro Zovko,David Prinosil,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jan-2003,Australian Open,5,Hard,R128,213,8,0,Q,8,Albert Costa,David Prinosil,6-4 6-1 3-6 7-6(5),0.92,3.3%,7.3%,60.7%,63.7%,45.8%,14/21,48.9%,39.7%,2.4%,30.9%,55.6%,5/15,276,5,11,150,91,59,3,3:05
+13-Jan-2003,Australian Open,5,Hard,Q3,213,132,1,,9,David Prinosil,Nicolas Thomann,1-6 6-3 11-9,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q2,213,238,1,,,David Prinosil,Markus Hantschk,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q1,213,288,1,,,David Prinosil,Petr Luxa,4-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Dec-2002,Doha,3,Hard,R32,229,90,0,Q,,Hicham Arazi,David Prinosil,6-2 6-3,0.58,8.6%,3.4%,63.8%,51.4%,47.6%,5/9,40.0%,28.8%,5.8%,22.9%,41.2%,1/5,110,5,2,58,37,21,3,1:08
 4-Nov-2002,Eckental CH,3,Carpet,R32,237,82,0,,1,Lars Burgsmuller,David Prinosil,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 28-Oct-2002,Aachen CH,3,Carpet,SF,247,115,0,WC,5,Marc Rosset,David Prinosil,2-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Oct-2002,Aachen CH,3,Carpet,QF,247,97,1,WC,3,David Prinosil,Dick Norman,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Oct-2002,Aachen CH,3,Carpet,R16,247,112,1,WC,7,David Prinosil,Andreas Vinciguerra,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Oct-2002,Aachen CH,3,Carpet,R32,247,190,1,WC,,David Prinosil,Fernando Verdasco,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q3,251,211,0,,,Bjorn Rehnquist,David Prinosil,7-6 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q2,251,99,1,,5,David Prinosil,Franco Squillari,5-7 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,251,222,1,,,David Prinosil,Cristian Kordasz,6-4 6-7(5) 1-1 RET,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2002,Indianapolis,3,Hard,R32,259,35,0,Q,13,Michel Kratochvil,David Prinosil,6-1 6-4,0.70,0.0%,9.8%,45.7%,69.0%,28.0%,18/24,43.4%,37.3%,13.7%,19.4%,65.0%,2/5,143,0,9,92,42,50,7,1:23
 12-Aug-2002,Indianapolis,3,Hard,R64,259,79,1,Q,,David Prinosil,Bohdan Ulihrach,6-3 6-7(2) 6-2,1.25,9.2%,4.1%,49.0%,79.2%,52.0%,4/7,54.3%,43.4%,3.0%,40.0%,50.0%,6/13,197,9,4,98,48,50,3,1:55
 15-Jul-2002,Manchester CH,3,Grass,R32,255,148,0,,3,Karol Beck,David Prinosil,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -73,7 +82,7 @@
 15-Jan-2001,Australian Open,5,Hard,R64,39,125,1,,,David Prinosil,Cecil Mamiit,4-6 3-6 6-2 6-3 6-2,1.14,7.8%,1.6%,57.4%,75.7%,47.3%,5/10,52.5%,41.7%,5.3%,38.4%,47.8%,8/15,261,10,2,129,74,55,7,2:45
 15-Jan-2001,Australian Open,5,Hard,R128,39,83,1,,,David Prinosil,Sergi Bruguera,7-5 6-1 1-6 2-6 6-1,1.01,4.3%,2.1%,55.7%,65.4%,45.2%,10/17,50.4%,44.0%,6.7%,30.5%,65.4%,8/15,274,6,3,140,78,62,9,2:29
 8-Jan-2001,Sydney,3,Hard,R32,38,46,0,,,Fabrice Santoro,David Prinosil,6-3 6-3,0.66,2.0%,3.9%,45.1%,56.5%,25.0%,3/9,39.6%,40.0%,6.7%,29.0%,51.7%,3/7,111,1,2,51,23,28,4,1:05
-1-Jan-2001,Doha,3,Hard,R32,,,0,,,Max Mirnyi,David Prinosil,7-6(4) 6-4,0.75,7.5%,3.8%,43.8%,77.1%,40.0%,3/6,45.6%,32.8%,14.9%,26.7%,45.5%,2/3,147,6,3,80,35,45,10,1:30
+1-Jan-2001,Doha,3,Hard,R32,38,40,0,,,Max Mirnyi,David Prinosil,7-6(4) 6-4,0.75,7.5%,3.8%,43.8%,77.1%,40.0%,3/6,45.6%,32.8%,14.9%,26.7%,45.5%,2/3,147,6,3,80,35,45,10,1:30
 13-Nov-2000,Paris Masters,3,Carpet,QF,44,14,0,Q,13,Mark Philippoussis,David Prinosil,4-6 6-4 7-6(3),0.91,16.0%,1.1%,54.3%,82.4%,51.2%,3/5,48.7%,29.0%,16.1%,15.8%,50.0%,2/4,187,15,1,94,51,43,15,1:58
 13-Nov-2000,Paris Masters,3,Carpet,R16,44,29,1,Q,,David Prinosil,Michael Chang,4-6 7-6(6) 6-4,1.10,13.2%,5.3%,60.5%,73.9%,51.1%,5/8,51.8%,38.6%,2.6%,25.0%,53.7%,3/6,228,15,6,114,69,45,3,2:40
 13-Nov-2000,Paris Masters,3,Carpet,R32,44,12,1,Q,11,David Prinosil,Franco Squillari,6-3 6-3,1.38,12.3%,3.5%,54.4%,80.6%,53.8%,2/2,55.5%,43.5%,4.8%,19.2%,61.1%,3/9,119,7,2,57,31,26,3,1:06
@@ -95,11 +104,11 @@
 14-Aug-2000,Washington,3,Hard,QF,64,35,1,14,6,David Prinosil,Byron Black,6-3 1-6 6-3,1.02,3.7%,6.1%,58.5%,70.8%,38.2%,6/10,50.0%,43.6%,2.1%,23.9%,62.5%,4/14,176,3,5,82,48,34,2,1:44
 14-Aug-2000,Washington,3,Hard,R16,64,88,1,14,,David Prinosil,Andre Sa,6-3 3-6 6-3,0.99,8.8%,1.0%,57.8%,74.6%,51.2%,6/7,52.0%,35.1%,2.6%,28.6%,52.4%,2/5,179,9,1,102,59,43,2,1:44
 14-Aug-2000,Washington,3,Hard,R32,64,115,1,14,,David Prinosil,Laurence Tieleman,6-1 5-7 6-3,1.10,7.3%,8.3%,41.7%,82.5%,46.4%,5/7,52.5%,42.4%,11.8%,22.5%,60.0%,5/9,181,7,8,96,40,56,10,1:45
-14-Aug-2000,Washington,3,Hard,R64,64,65,1,14,,David Prinosil,Martin Damm,6-3 6-3,1.59,15.6%,6.7%,35.6%,81.3%,58.6%,1/3,59.6%,53.1%,8.2%,45.8%,60.0%,5/8,94,7,3,45,16,29,4,0:56
+14-Aug-2000,Washington,3,Hard,R64,64,65,1,14,,David Prinosil,Martin Damm Sr,6-3 6-3,1.59,15.6%,6.7%,35.6%,81.3%,58.6%,1/3,59.6%,53.1%,8.2%,45.8%,60.0%,5/8,94,7,3,45,16,29,4,0:56
 10-Jul-2000,Newport,3,Grass,R16,67,133,0,6,,Peter Wessels,David Prinosil,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2000,Newport,3,Grass,R32,67,121,1,6,,David Prinosil,Harel Levy,7-6(5) 3-6 6-3,1.21,9.7%,16.5%,42.7%,90.9%,54.2%,5/6,51.5%,36.3%,4.8%,18.0%,48.6%,1/11,227,10,17,103,44,59,6,2:05
 26-Jun-2000,Wimbledon,5,Grass,R16,84,1,0,Q,2,Andre Agassi,David Prinosil,6-4 6-3 6-3,0.64,11.5%,4.2%,51.0%,65.3%,48.9%,6/10,43.3%,27.4%,11.9%,24.5%,31.4%,0/4,180,11,4,96,49,47,10,1:44
-26-Jun-2000,Wimbledon,5,Grass,R32,84,86,1,Q,,David Prinosil,Martin Damm,7-6(2) 3-6 7-6(0) 6-4,1.33,17.4%,9.1%,52.1%,95.2%,55.2%,4/5,52.5%,31.9%,2.9%,25.3%,44.7%,1/5,259,21,11,121,63,58,4,2:30
+26-Jun-2000,Wimbledon,5,Grass,R32,84,86,1,Q,,David Prinosil,Martin Damm Sr,7-6(2) 3-6 7-6(0) 6-4,1.33,17.4%,9.1%,52.1%,95.2%,55.2%,4/5,52.5%,31.9%,2.9%,25.3%,44.7%,1/5,259,21,11,121,63,58,4,2:30
 26-Jun-2000,Wimbledon,5,Grass,R64,84,108,1,Q,Q,David Prinosil,Stephane Huet,6-4 2-6 6-1 6-2,1.14,10.1%,6.1%,49.5%,79.6%,50.0%,6/9,53.2%,40.2%,9.2%,27.9%,52.3%,6/9,186,10,6,99,49,50,8,1:45
 26-Jun-2000,Wimbledon,5,Grass,R128,84,79,1,Q,,David Prinosil,Sargis Sargsian,2-6 6-1 6-2 6-4,1.22,10.4%,7.8%,53.0%,77.0%,53.7%,7/9,54.0%,41.4%,4.5%,31.9%,57.1%,5/15,226,12,9,115,61,54,5,2:28
 12-Jun-2000,Halle,3,Grass,F,130,32,1,WC,,David Prinosil,Richard Krajicek,6-3 6-2,1.74,8.2%,4.1%,57.1%,75.0%,76.2%,1/1,58.3%,42.6%,20.4%,21.9%,72.7%,3/9,103,4,2,49,28,21,11,1:05
@@ -118,11 +127,6 @@
 4-Feb-2000,Davis Cup WG R1: GER vs NED,3,Carpet,RR,69,67,1,,,David Prinosil,John Van Lottum,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Nov-1999,Moscow,3,Carpet,R16,64,2,0,,1,Yevgeny Kafelnikov,David Prinosil,6-4 7-5,0.83,10.2%,8.5%,37.3%,72.7%,56.8%,2/5,45.7%,30.9%,8.8%,25.8%,35.1%,1/3,127,6,5,59,22,37,6,1:15
 8-Nov-1999,Moscow,3,Carpet,R32,64,56,1,,,David Prinosil,Andrew Ilie,6-3 6-2,1.71,12.2%,8.2%,34.7%,94.1%,59.4%,0/1,60.4%,48.9%,8.5%,50.0%,48.0%,4/8,96,6,4,49,17,32,4,0:53
-1-Nov-1999,Aachen CH,3,Carpet,F,67,188,0,1,Q,Raemon Sluiter,David Prinosil,2-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Aachen CH,3,Carpet,SF,67,99,1,1,6,David Prinosil,Gianluca Pozzi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Aachen CH,3,Carpet,QF,67,112,1,1,,David Prinosil,Lars Burgsmuller,6-1 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Aachen CH,3,Carpet,R16,67,153,1,1,,David Prinosil,Mose Navarra,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Aachen CH,3,Carpet,R32,67,333,1,1,WC,David Prinosil,Reginald Willems,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,Lyon,3,Carpet,R64,66,49,0,,,Fernando Vicente,David Prinosil,0-6 6-4 7-6(5),1.22,7.9%,6.9%,51.5%,73.1%,40.8%,6/11,54.7%,52.0%,1.0%,45.1%,58.8%,7/15,203,8,7,101,52,49,1,1:57
 13-Sep-1999,Mallorca,3,Clay,R32,52,11,0,,2,Alex Corretja,David Prinosil,6-4 6-1,0.84,14.8%,11.1%,48.1%,80.8%,53.6%,2/4,45.1%,27.9%,7.4%,26.7%,28.9%,0/3,122,8,6,54,26,28,5,1:21
 30-Aug-1999,US Open,5,Hard,R64,56,8,0,,9,Greg Rusedski,David Prinosil,6-4 6-3 6-1,0.53,11.7%,6.5%,45.5%,74.3%,35.7%,5/10,39.3%,24.7%,12.3%,20.0%,30.3%,0/1,150,9,5,77,35,42,9,1:36
@@ -151,17 +155,17 @@
 3-May-1999,Hamburg Masters,3,Clay,R64,78,75,0,,Q,Adrian Voinea,David Prinosil,6-3 6-2,0.46,17.0%,1.9%,52.8%,67.9%,40.0%,2/5,38.6%,20.8%,4.2%,20.7%,21.1%,0/0,101,9,1,53,28,25,2,1:01
 12-Apr-1999,Tokyo,3,Hard,R16,75,4,0,16,1,Richard Krajicek,David Prinosil,6-4 6-4,0.86,5.4%,3.6%,35.7%,65.0%,50.0%,3/7,46.0%,38.2%,17.6%,24.3%,54.8%,2/5,124,3,2,56,20,36,12,1:21
 12-Apr-1999,Tokyo,3,Hard,R32,75,82,1,16,,David Prinosil,Cecil Mamiit,6-2 6-3,1.58,12.7%,1.8%,70.9%,74.4%,56.3%,1/2,59.6%,49.0%,4.1%,37.0%,63.6%,4/6,104,7,1,55,39,16,2,1:04
-12-Apr-1999,Tokyo,3,Hard,R64,75,86,1,16,,David Prinosil,Martin Damm,6-1 6-3,2.16,22.7%,0.0%,59.1%,84.6%,66.7%,0/0,61.4%,49.1%,5.3%,29.2%,63.6%,4/8,101,10,0,44,26,18,3,1:01
+12-Apr-1999,Tokyo,3,Hard,R64,75,86,1,16,,David Prinosil,Martin Damm Sr,6-1 6-3,2.16,22.7%,0.0%,59.1%,84.6%,66.7%,0/0,61.4%,49.1%,5.3%,29.2%,63.6%,4/8,101,10,0,44,26,18,3,1:01
 5-Apr-1999,Hong Kong,3,Hard,R32,72,222,0,,WC,Gouichi Motomura,David Prinosil,7-5 4-6 6-3,0.96,11.9%,9.9%,43.6%,79.5%,38.6%,7/12,48.8%,42.0%,1.8%,43.3%,40.4%,4/11,213,12,10,101,44,57,2,2:07
 15-Mar-1999,Miami Masters,3,Hard,R128,73,96,0,,,Wayne Black,David Prinosil,1-6 7-6(7) 6-4,1.01,3.3%,2.5%,50.0%,72.1%,42.6%,12/16,50.7%,43.0%,3.7%,40.8%,47.2%,5/14,229,4,3,122,61,61,4,2:20
 1-Mar-1999,Copenhagen,3,Carpet,R32,56,686,0,7,WC,Frederik Fetterlein,David Prinosil,6-1 6-4,0.76,3.9%,2.0%,35.3%,72.2%,51.5%,4/7,43.0%,31.4%,12.9%,9.4%,50.0%,0/10,121,2,1,51,18,33,9,1:21
 22-Feb-1999,London,3,Carpet,R16,62,13,0,Q,6,Thomas Enqvist,David Prinosil,6-4 7-5,0.64,11.5%,7.7%,46.2%,72.2%,38.1%,3/6,43.0%,29.7%,15.6%,11.8%,50.0%,1/2,142,9,6,78,36,42,10,1:21
 22-Feb-1999,London,3,Carpet,R32,62,47,1,Q,,David Prinosil,Andrei Pavel,7-6(5) 6-3,1.61,10.9%,5.5%,41.8%,87.0%,62.5%,0/2,56.2%,44.0%,5.3%,35.7%,54.5%,4/8,130,6,3,55,23,32,4,1:12
-8-Feb-1999,St Petersburg,3,Carpet,F,79,24,0,,2,Marc Rosset,David Prinosil,6-3 6-4,0.67,11.0%,5.5%,56.2%,68.3%,34.4%,11/15,44.4%,31.4%,15.7%,10.0%,61.9%,1/2,124,8,4,73,41,32,8,1:17
-8-Feb-1999,St Petersburg,3,Carpet,SF,79,20,1,,1,David Prinosil,Jan Siemerink,6-4 6-2,1.53,7.4%,3.7%,53.7%,65.5%,72.0%,2/3,58.2%,48.2%,3.6%,36.7%,61.5%,4/11,110,4,2,54,29,25,2,1:07
-8-Feb-1999,St Petersburg,3,Carpet,QF,79,73,1,,,David Prinosil,Guillaume Raoux,3-6 7-6(3) 6-4,1.23,16.7%,2.2%,50.0%,84.4%,62.2%,6/7,51.5%,32.7%,9.6%,16.1%,52.1%,1/6,194,15,2,90,45,45,10,2:05
-8-Feb-1999,St Petersburg,3,Carpet,R16,79,33,1,,3,David Prinosil,Magnus Gustafsson,4-6 6-3 6-4,1.37,21.8%,2.6%,38.5%,90.0%,60.4%,1/3,54.7%,38.6%,9.6%,36.5%,41.9%,3/8,161,17,2,78,30,48,8,1:36
-8-Feb-1999,St Petersburg,3,Carpet,R32,79,63,1,,,David Prinosil,Gianluca Pozzi,6-4 3-6 6-3,1.03,11.7%,9.6%,53.2%,84.0%,47.7%,5/6,51.4%,34.1%,8.2%,22.0%,45.5%,2/4,179,11,9,94,50,44,7,1:39
+8-Feb-1999,St. Petersburg,3,Carpet,F,79,24,0,,2,Marc Rosset,David Prinosil,6-3 6-4,0.67,11.0%,5.5%,56.2%,68.3%,34.4%,11/15,44.4%,31.4%,15.7%,10.0%,61.9%,1/2,124,8,4,73,41,32,8,1:17
+8-Feb-1999,St. Petersburg,3,Carpet,SF,79,20,1,,1,David Prinosil,Jan Siemerink,6-4 6-2,1.53,7.4%,3.7%,53.7%,65.5%,72.0%,2/3,58.2%,48.2%,3.6%,36.7%,61.5%,4/11,110,4,2,54,29,25,2,1:07
+8-Feb-1999,St. Petersburg,3,Carpet,QF,79,73,1,,,David Prinosil,Guillaume Raoux,3-6 7-6(3) 6-4,1.23,16.7%,2.2%,50.0%,84.4%,62.2%,6/7,51.5%,32.7%,9.6%,16.1%,52.1%,1/6,194,15,2,90,45,45,10,2:05
+8-Feb-1999,St. Petersburg,3,Carpet,R16,79,33,1,,3,David Prinosil,Magnus Gustafsson,4-6 6-3 6-4,1.37,21.8%,2.6%,38.5%,90.0%,60.4%,1/3,54.7%,38.6%,9.6%,36.5%,41.9%,3/8,161,17,2,78,30,48,8,1:36
+8-Feb-1999,St. Petersburg,3,Carpet,R32,79,63,1,,,David Prinosil,Gianluca Pozzi,6-4 3-6 6-3,1.03,11.7%,9.6%,53.2%,84.0%,47.7%,5/6,51.4%,34.1%,8.2%,22.0%,45.5%,2/4,179,11,9,94,50,44,7,1:39
 1-Feb-1999,Marseille,3,Hard,R32,80,86,0,,,Kenneth Carlsen,David Prinosil,7-6(4) 4-6 6-3,1.00,11.2%,10.1%,51.7%,80.4%,48.8%,0/2,48.5%,34.9%,9.2%,14.5%,55.6%,2/6,198,10,9,89,46,43,10,2:00
 18-Jan-1999,Australian Open,5,Hard,R128,76,47,0,,,Marat Safin,David Prinosil,6-2 7-6(4) 7-6(3),0.71,4.3%,7.8%,56.0%,73.8%,35.3%,1/5,42.9%,30.5%,9.9%,18.5%,59.0%,2/8,247,5,9,116,65,51,13,1:55
 4-Jan-1999,Adelaide,3,Hard,R16,78,22,0,,2,Thomas Enqvist,David Prinosil,6-2 6-3,0.65,20.0%,13.3%,48.9%,68.2%,43.5%,0/4,41.2%,28.8%,11.5%,20.0%,37.0%,1/1,97,9,6,45,22,23,6,0:56
@@ -208,7 +212,7 @@
 9-Mar-1998,Copenhagen,3,Carpet,R32,121,118,1,,,David Prinosil,Christian Vinck,7-5 6-3,1.32,14.8%,9.8%,49.2%,76.7%,61.3%,1/2,54.8%,41.3%,9.5%,36.6%,50.0%,3/3,124,9,6,61,30,31,6,1:04
 23-Feb-1998,London,3,Carpet,R32,89,2,0,Q,1,Petr Korda,David Prinosil,7-6(4) 6-7(2) 6-4,1.03,17.6%,4.9%,62.7%,81.3%,42.1%,5/8,49.5%,34.5%,6.0%,24.2%,46.3%,2/7,218,18,5,102,64,38,7,2:15
 9-Feb-1998,St. Petersburg,3,Carpet,R16,93,9,0,,1,Richard Krajicek,David Prinosil,6-7(2) 6-4 6-2,0.70,8.9%,11.1%,46.7%,81.0%,43.8%,0/4,44.4%,27.3%,15.9%,18.2%,42.4%,1/1,178,8,10,90,42,48,14,1:42
-9-Feb-1998,St. Petersburg,3,Carpet,R32,93,62,1,,,David Prinosil,Martin Damm,3-6 6-2 7-6(6),1.10,16.8%,5.3%,45.3%,81.4%,51.9%,4/7,52.2%,38.2%,22.5%,16.3%,58.7%,3/7,184,16,5,95,43,52,20,1:55
+9-Feb-1998,St. Petersburg,3,Carpet,R32,93,62,1,,,David Prinosil,Martin Damm Sr,3-6 6-2 7-6(6),1.10,16.8%,5.3%,45.3%,81.4%,51.9%,4/7,52.2%,38.2%,22.5%,16.3%,58.7%,3/7,184,16,5,95,43,52,20,1:55
 2-Feb-1998,Split,3,Carpet,R32,90,16,0,,2,Goran Ivanisevic,David Prinosil,7-6(6) 6-4,0.68,17.2%,3.4%,56.3%,81.6%,36.8%,4/5,45.9%,25.7%,24.3%,5.1%,51.6%,0/1,157,15,3,87,49,38,17,1:25
 19-Jan-1998,Australian Open,5,Hard,R64,95,13,0,,11,Alex Corretja,David Prinosil,6-4 6-3 6-0,0.62,4.1%,11.0%,39.7%,82.8%,11.4%,2/10,38.6%,37.6%,5.9%,34.0%,42.9%,3/6,158,3,8,73,29,44,5,1:43
 19-Jan-1998,Australian Open,5,Hard,R128,95,73,1,,,David Prinosil,Johan Van Herck,3-6 6-7(2) 6-1 6-4 6-1,1.15,2.7%,6.2%,56.8%,90.4%,30.2%,1/4,52.8%,41.0%,0.0%,26.4%,66.0%,7/16,290,4,9,146,83,63,0,2:50
@@ -254,11 +258,11 @@
 27-Jan-1997,Zagreb,3,Carpet,R32,40,555,1,7,WC,David Prinosil,Ivan Ljubicic,6-7(5) 6-3 6-0,1.37,14.0%,5.8%,44.2%,89.5%,56.3%,4/4,55.6%,39.8%,13.3%,23.9%,59.5%,5/6,169,12,5,86,38,48,11,1:37
 13-Jan-1997,Australian Open,5,Hard,R128,44,94,0,,,Fernando Meligeni,David Prinosil,5-7 1-6 6-1 7-5 9-7,1.02,5.7%,2.5%,53.3%,64.6%,42.1%,7/15,50.6%,46.8%,2.7%,35.5%,71.4%,8/14,233,7,3,122,65,57,3,3:00
 6-Jan-1997,Sydney Outdoor,3,Hard,R32,45,57,0,,WC,Sandon Stolle,David Prinosil,6-4 6-4,0.70,9.4%,9.4%,48.4%,74.2%,42.4%,6/9,44.0%,29.5%,11.5%,21.6%,41.7%,1/5,125,6,6,64,31,33,7,1:12
-30-Dec-1996,Adelaide,3,Hard,R16,,,0,6,Q,Jeff Tarango,David Prinosil,6-2 6-4,0.77,7.9%,9.5%,30.2%,68.4%,40.9%,7/12,44.1%,39.1%,4.7%,36.4%,45.0%,2/4,127,5,6,63,19,44,3,1:16
-30-Dec-1996,Adelaide,3,Hard,R32,,,1,6,,David Prinosil,Slava Dosedel,6-3 6-2,1.31,13.8%,3.1%,50.8%,78.8%,46.9%,5/6,56.1%,48.3%,3.4%,39.3%,56.7%,4/10,123,9,2,65,33,32,2,1:12
+30-Dec-1996,Adelaide,3,Hard,R16,39,106,0,6,Q,Jeff Tarango,David Prinosil,6-2 6-4,0.77,7.9%,9.5%,30.2%,68.4%,40.9%,7/12,44.1%,39.1%,4.7%,36.4%,45.0%,2/4,127,5,6,63,19,44,3,1:16
+30-Dec-1996,Adelaide,3,Hard,R32,39,66,1,6,,David Prinosil,Slava Dosedel,6-3 6-2,1.31,13.8%,3.1%,50.8%,78.8%,46.9%,5/6,56.1%,48.3%,3.4%,39.3%,56.7%,4/10,123,9,2,65,33,32,2,1:12
 4-Nov-1996,Moscow,3,Carpet,SF,38,3,0,,1,Yevgeny Kafelnikov,David Prinosil,7-6(7) 6-4,0.75,18.3%,4.9%,48.8%,82.5%,47.6%,5/6,46.5%,26.7%,9.3%,14.6%,41.2%,0/2,157,15,4,82,40,42,7,1:25
 4-Nov-1996,Moscow,3,Carpet,QF,38,90,1,,WC,David Prinosil,Andrei Olhovskiy,7-5 6-2,1.64,17.9%,7.1%,55.4%,90.3%,56.0%,2/2,57.3%,41.0%,6.6%,27.3%,57.1%,3/8,117,10,4,56,31,25,4,1:04
-4-Nov-1996,Moscow,3,Carpet,R16,38,51,1,,,David Prinosil,Martin Damm,6-4 6-7(5) 6-4,1.14,7.1%,6.1%,38.8%,76.3%,60.0%,3/6,52.3%,38.4%,19.2%,21.6%,56.3%,5/9,197,7,6,98,38,60,19,2:00
+4-Nov-1996,Moscow,3,Carpet,R16,38,,1,,,David Prinosil,Martin Damm Sr,6-4 6-7(5) 6-4,1.14,7.1%,6.1%,38.8%,76.3%,60.0%,3/6,52.3%,38.4%,19.2%,21.6%,56.3%,5/9,197,7,6,98,38,60,19,2:00
 4-Nov-1996,Moscow,3,Carpet,R32,38,68,1,,Q,David Prinosil,Karol Kucera,7-5 6-4,0.94,13.9%,6.3%,51.9%,80.5%,28.9%,1/4,50.0%,41.8%,1.8%,26.1%,53.1%,5/8,134,11,5,79,41,38,1,1:21
 28-Oct-1996,Aachen CH,3,Hard,F,41,104,0,1,7,Alexander Volkov,David Prinosil,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 28-Oct-1996,Aachen CH,3,Hard,SF,41,90,1,1,6,David Prinosil,Johan Van Herck,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -312,10 +316,10 @@
 29-Jan-1996,Zagreb,3,Carpet,R32,44,66,0,4,,Guy Forget,David Prinosil,6-2 7-6(4),0.53,10.8%,4.6%,52.3%,64.7%,67.7%,6/8,43.8%,17.9%,21.4%,10.0%,26.9%,0/0,121,7,3,65,34,31,12,1:10
 15-Jan-1996,Australian Open,5,Hard,R128,41,183,0,,LL,Diego Nargiso,David Prinosil,6-4 7-6(3) 4-6 2-6 6-3,1.08,4.3%,3.1%,57.7%,68.1%,46.4%,7/14,51.5%,44.2%,3.0%,25.3%,60.0%,8/16,328,7,5,163,94,69,5,
 8-Jan-1996,Sydney Outdoor,3,Hard,R32,40,10,0,,1,Goran Ivanisevic,David Prinosil,6-3 6-3,0.51,3.7%,11.1%,42.0%,76.5%,34.0%,6/10,42.1%,24.4%,17.8%,8.7%,40.9%,1/1,126,3,9,81,34,47,8,1:03
-1-Jan-1996,Doha,3,Hard,SF,,,0,,,Petr Korda,David Prinosil,6-7(4) 6-1 6-3,0.72,9.4%,3.5%,61.2%,61.5%,39.4%,6/12,43.4%,34.1%,5.7%,17.3%,58.3%,2/4,173,8,3,85,52,33,5,1:46
-1-Jan-1996,Doha,3,Hard,QF,,,1,,Q,David Prinosil,Nicolas Pereira,6-7(5) 6-2 6-1,1.45,10.1%,3.8%,60.8%,79.2%,54.8%,3/4,56.4%,44.0%,2.4%,31.3%,61.1%,6/8,163,8,3,79,48,31,2,1:37
-1-Jan-1996,Doha,3,Hard,R16,,,1,,,David Prinosil,Karim Alami,6-3 6-4,1.90,17.6%,0.0%,64.7%,87.9%,66.7%,1/1,58.8%,37.3%,11.8%,20.7%,59.1%,2/4,102,9,0,51,33,18,6,1:02
-1-Jan-1996,Doha,3,Hard,R32,,,1,,7,David Prinosil,Gilbert Schaller,6-0 6-2,2.49,17.9%,7.7%,66.7%,88.5%,53.8%,0/0,65.6%,57.4%,1.9%,51.6%,65.2%,5/11,93,7,3,39,26,13,1,0:50
+1-Jan-1996,Doha,3,Hard,SF,50,41,0,,,Petr Korda,David Prinosil,6-7(4) 6-1 6-3,0.72,9.4%,3.5%,61.2%,61.5%,39.4%,6/12,43.4%,34.1%,5.7%,17.3%,58.3%,2/4,173,8,3,85,52,33,5,1:46
+1-Jan-1996,Doha,3,Hard,QF,50,122,1,,Q,David Prinosil,Nicolas Pereira,6-7(5) 6-2 6-1,1.45,10.1%,3.8%,60.8%,79.2%,54.8%,3/4,56.4%,44.0%,2.4%,31.3%,61.1%,6/8,163,8,3,79,48,31,2,1:37
+1-Jan-1996,Doha,3,Hard,R16,50,73,1,,,David Prinosil,Karim Alami,6-3 6-4,1.90,17.6%,0.0%,64.7%,87.9%,66.7%,1/1,58.8%,37.3%,11.8%,20.7%,59.1%,2/4,102,9,0,51,33,18,6,1:02
+1-Jan-1996,Doha,3,Hard,R32,50,20,1,,7,David Prinosil,Gilbert Schaller,6-0 6-2,2.49,17.9%,7.7%,66.7%,88.5%,53.8%,0/0,65.6%,57.4%,1.9%,51.6%,65.2%,5/11,93,7,3,39,26,13,1,0:50
 6-Nov-1995,Stockholm,3,Hard,SF,71,16,0,,5,Arnaud Boetsch,David Prinosil,6-1 1-6 7-5,0.99,13.2%,2.6%,52.6%,82.5%,41.7%,7/10,49.1%,36.5%,2.4%,25.0%,44.9%,2/7,161,10,2,76,40,36,2,1:30
 6-Nov-1995,Stockholm,3,Hard,QF,71,7,1,,1,David Prinosil,Jim Courier,6-3 7-6(4),0.87,11.0%,3.3%,51.6%,80.9%,45.5%,7/8,51.7%,31.5%,7.4%,28.6%,36.8%,2/2,145,10,3,91,47,44,4,1:33
 6-Nov-1995,Stockholm,3,Hard,R16,71,78,1,,,David Prinosil,Olivier Delaitre,6-4 6-3,1.33,9.1%,0.0%,47.3%,80.8%,58.6%,1/2,55.7%,41.2%,3.9%,34.6%,48.0%,3/8,106,5,0,55,26,29,2,0:57
@@ -378,7 +382,7 @@
 31-Oct-1994,Aachen CH,3,Carpet,R16,144,245,1,,Q,David Prinosil,Wojtek Kowalski,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Oct-1994,Aachen CH,3,Carpet,R32,144,107,1,,7,David Prinosil,Bryan Shelton,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 3-Oct-1994,Dublin CH,3,Carpet,F,136,165,1,4,,David Prinosil,Radomir Vasek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Oct-1994,Dublin CH,3,Carpet,SF,136,76,1,4,1,David Prinosil,Martin Damm,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Oct-1994,Dublin CH,3,Carpet,SF,136,76,1,4,1,David Prinosil,Martin Damm Sr,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Oct-1994,Dublin CH,3,Carpet,QF,136,182,1,4,,David Prinosil,Chris Wilkinson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Oct-1994,Dublin CH,3,Carpet,R16,136,504,1,4,Q,David Prinosil,Christian Saceanu,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
 3-Oct-1994,Dublin CH,3,Carpet,R32,136,157,1,4,,David Prinosil,Kris Goossens,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -413,7 +417,7 @@
 24-Jan-1994,Heilbronn CH,3,Carpet,R32,94,178,0,1,,Arne Thoms,David Prinosil,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
 17-Jan-1994,Australian Open,5,Hard,R128,94,106,0,,,Jared Palmer,David Prinosil,6-7(4) 4-6 6-1 6-1 8-6,0.76,5.0%,8.5%,41.8%,72.6%,35.0%,12/22,44.9%,37.5%,4.4%,31.9%,44.9%,5/8,361,10,17,201,84,117,7,
 10-Jan-1994,Auckland,3,Hard,R32,85,91,0,,,Tomas Carbonell,David Prinosil,6-2 6-3,0.68,6.5%,12.9%,43.5%,66.7%,34.3%,8/12,42.0%,35.1%,3.5%,29.3%,50.0%,1/4,119,4,8,62,27,35,2,1:06
-3-Jan-1994,Doha,3,Hard,R32,,,0,,,Andrei Olhovskiy,David Prinosil,6-4 7-5,0.78,7.1%,8.6%,38.6%,66.7%,44.2%,10/15,45.2%,36.9%,1.5%,25.0%,45.9%,3/5,135,5,6,70,27,43,1,1:27
+3-Jan-1994,Doha,3,Hard,R32,77,65,0,,,Andrei Olhovskiy,David Prinosil,6-4 7-5,0.78,7.1%,8.6%,38.6%,66.7%,44.2%,10/15,45.2%,36.9%,1.5%,25.0%,45.9%,3/5,135,5,6,70,27,43,1,1:27
 8-Nov-1993,Moscow,3,Carpet,R32,73,42,0,,7,Paul Haarhuis,David Prinosil,6-3 6-2,0.74,7.7%,7.7%,48.1%,72.0%,29.6%,6/10,43.1%,36.8%,7.0%,35.1%,40.0%,1/4,109,4,4,52,25,27,4,1:01
 25-Oct-1993,Brest CH,3,Carpet,R32,66,271,0,2,Q,Johan Van Herck,David Prinosil,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1993,Vienna,3,Carpet,R16,60,13,0,,3,Petr Korda,David Prinosil,0-6 6-4 6-1,1.03,11.5%,8.2%,37.7%,87.0%,36.8%,2/6,49.7%,45.7%,4.3%,37.0%,57.9%,4/16,153,7,5,61,23,38,4,1:31
@@ -448,7 +452,7 @@
 12-Apr-1993,Hong Kong,3,Hard,R16,80,1,0,,2,Pete Sampras,David Prinosil,6-3 6-4,0.76,15.4%,11.5%,42.3%,77.3%,46.7%,1/4,44.1%,30.5%,15.3%,21.9%,40.7%,1/4,111,8,6,52,22,30,9,1:11
 12-Apr-1993,Hong Kong,3,Hard,R32,80,85,1,,,David Prinosil,Jamie Morgan,6-4 6-3,1.86,13.6%,4.5%,50.0%,77.3%,72.7%,0/1,57.3%,46.6%,11.0%,30.6%,62.2%,4/8,117,6,2,44,22,22,8,1:13
 5-Apr-1993,Tokyo Outdoor,3,Hard,R64,81,90,0,,,Jamie Morgan,David Prinosil,6-3 2-6 6-3,0.85,9.0%,6.4%,50.0%,71.8%,51.3%,3/7,47.7%,32.9%,2.7%,21.1%,45.7%,3/10,151,7,5,78,39,39,2,1:35
-29-Mar-1993,Osaka,3,Hard,R32,,,0,,2,Michael Chang,David Prinosil,6-1 4-6 6-4,0.92,10.7%,12.0%,53.3%,80.0%,37.1%,3/7,47.3%,36.7%,0.0%,27.7%,46.5%,2/3,165,8,9,75,40,35,0,1:53
+29-Mar-1993,Osaka,3,Hard,R32,81,9,0,,2,Michael Chang,David Prinosil,6-1 4-6 6-4,0.92,10.7%,12.0%,53.3%,80.0%,37.1%,3/7,47.3%,36.7%,0.0%,27.7%,46.5%,2/3,165,8,9,75,40,35,0,1:53
 12-Mar-1993,Miami Masters,3,Hard,R128,78,43,0,,,Brett Steven,David Prinosil,6-3 6-2,0.69,6.3%,12.5%,41.7%,55.0%,35.7%,1/6,41.0%,38.6%,5.3%,29.4%,52.2%,2/5,105,3,6,48,20,28,3,1:08
 1-Mar-1993,Copenhagen,3,Carpet,QF,88,52,0,,7,Brett Steven,David Prinosil,6-3 3-6 6-3,0.97,7.5%,6.3%,48.8%,76.9%,53.7%,3/5,48.3%,34.0%,5.3%,25.8%,50.0%,1/8,174,6,5,80,39,41,5,1:58
 1-Mar-1993,Copenhagen,3,Carpet,R16,88,19,1,,1,David Prinosil,Henrik Holm,6-4 2-6 6-2,0.98,2.9%,9.6%,43.3%,68.9%,47.5%,9/12,49.5%,42.3%,10.6%,24.1%,62.0%,4/15,208,3,10,104,45,59,11,2:06
@@ -457,7 +461,7 @@
 15-Feb-1993,Rennes CH,3,Carpet,R16,84,113,1,3,,David Prinosil,Joao Cunha Silva,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 15-Feb-1993,Rennes CH,3,Carpet,R32,84,280,1,3,Q,David Prinosil,Ola Kristiansson,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Feb-1993,Milan,3,Carpet,R32,82,6,0,Q,3,Petr Korda,David Prinosil,6-1 6-3,0.69,2.0%,10.0%,42.0%,47.6%,48.3%,3/8,41.5%,35.7%,1.8%,21.1%,66.7%,1/4,106,1,5,50,21,29,1,1:01
-25-Jan-1993,Heilbronn CH,3,Carpet,F,96,94,1,4,3,David Prinosil,Martin Damm,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+25-Jan-1993,Heilbronn CH,3,Carpet,F,96,,1,4,3,David Prinosil,Martin Damm Sr,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 25-Jan-1993,Heilbronn CH,3,Carpet,SF,96,128,1,4,8,David Prinosil,Christo Van Rensburg,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Jan-1993,Heilbronn CH,3,Carpet,QF,96,280,1,4,Q,David Prinosil,Branislav Stankovic,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Jan-1993,Heilbronn CH,3,Carpet,R16,96,231,1,4,WC,David Prinosil,Martin Sinner,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -467,9 +471,9 @@
 11-Jan-1993,Jakarta,3,Hard,QF,114,31,0,Q,2,Carl Uwe Steeb,David Prinosil,6-2 6-4,0.71,6.1%,2.0%,42.9%,57.1%,60.7%,2/6,43.6%,28.8%,5.8%,27.8%,31.3%,1/4,101,3,1,49,21,28,3,1:01
 11-Jan-1993,Jakarta,3,Hard,R16,114,55,1,Q,8,David Prinosil,Luis Herrera,6-3 3-6 6-1,1.17,0.0%,5.2%,51.9%,62.5%,51.4%,2/6,53.5%,50.0%,2.4%,42.9%,60.6%,7/12,159,0,4,77,40,37,2,1:50
 11-Jan-1993,Jakarta,3,Hard,R32,114,71,1,Q,,David Prinosil,Olivier Delaitre,6-4 6-2,1.51,10.3%,0.0%,55.2%,75.0%,61.5%,4/4,56.2%,46.8%,5.1%,40.0%,53.8%,3/15,137,6,0,58,32,26,4,1:25
-4-Jan-1993,Kuala Lumpur-1,3,Hard,QF,,,0,,3,Paul Haarhuis,David Prinosil,6-2 6-3,0.68,2.3%,2.3%,59.1%,46.2%,50.0%,4/9,41.3%,35.4%,0.0%,20.0%,52.2%,2/2,92,1,1,44,26,18,0,1:02
-4-Jan-1993,Kuala Lumpur-1,3,Hard,R16,,,1,,Q,David Prinosil,Bent Ove Pedersen,6-4 6-3,1.52,4.0%,8.0%,50.0%,80.0%,68.0%,2/2,54.3%,39.4%,3.0%,37.9%,40.5%,3/7,116,2,4,50,25,25,2,1:18
-4-Jan-1993,Kuala Lumpur-1,3,Hard,R32,,,1,,5,David Prinosil,Jeff Tarango,6-2 3-6 7-5,1.24,9.0%,2.2%,49.4%,79.5%,51.1%,4/6,52.6%,43.3%,1.7%,33.3%,58.3%,4/16,209,8,2,89,44,45,2,2:24
+4-Jan-1993,Kuala Lumpur-1,3,Hard,QF,125,39,0,,3,Paul Haarhuis,David Prinosil,6-2 6-3,0.68,2.3%,2.3%,59.1%,46.2%,50.0%,4/9,41.3%,35.4%,0.0%,20.0%,52.2%,2/2,92,1,1,44,26,18,0,1:02
+4-Jan-1993,Kuala Lumpur-1,3,Hard,R16,125,,1,,Q,David Prinosil,Bent Ove Pedersen,6-4 6-3,1.52,4.0%,8.0%,50.0%,80.0%,68.0%,2/2,54.3%,39.4%,3.0%,37.9%,40.5%,3/7,116,2,4,50,25,25,2,1:18
+4-Jan-1993,Kuala Lumpur-1,3,Hard,R32,125,45,1,,5,David Prinosil,Jeff Tarango,6-2 3-6 7-5,1.24,9.0%,2.2%,49.4%,79.5%,51.1%,4/6,52.6%,43.3%,1.7%,33.3%,58.3%,4/16,209,8,2,89,44,45,2,2:24
 9-Nov-1992,Munich CH,3,Carpet,R32,116,133,0,,,Daniel Vacek,David Prinosil,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Oct-1992,Brest CH,3,Hard,SF,133,96,0,,,Marcos Ondruska,David Prinosil,6-7 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Oct-1992,Brest CH,3,Hard,QF,133,131,1,,WC,David Prinosil,Stephane Simian,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -512,8 +516,8 @@
 4-May-1992,Hamburg Masters,3,Clay,R32,190,51,0,Q,,Horst Skoff,David Prinosil,6-2 6-7(4) 7-6(4),0.80,3.9%,5.4%,64.3%,62.7%,43.5%,13/18,46.9%,35.4%,4.0%,27.6%,46.3%,3/4,228,5,7,129,83,46,4,2:33
 4-May-1992,Hamburg Masters,3,Clay,R64,190,404,1,Q,Q,David Prinosil,Sascha Nensel,7-5 6-1,1.40,6.8%,1.7%,44.1%,61.5%,66.7%,1/3,57.9%,50.0%,6.3%,31.0%,78.9%,5/9,107,4,1,59,26,33,3,1:13
 6-Apr-1992,Jerusalem CH,3,Hard,R32,194,235,0,,,Sander Groen,David Prinosil,6-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-16-Mar-1992,Casablanca,3,Clay,R16,,,0,Q,,Mark Koevermans,David Prinosil,6-3 6-3,0.68,6.5%,12.9%,69.4%,67.4%,21.1%,5/9,43.8%,32.0%,4.0%,31.7%,33.3%,1/2,112,4,8,62,43,19,2,1:18
-16-Mar-1992,Casablanca,3,Clay,R32,,,1,Q,,David Prinosil,Karsten Braasch,2-6 6-2 6-4,1.13,2.3%,3.4%,56.8%,68.0%,44.7%,4/8,52.9%,47.6%,4.8%,43.6%,51.1%,5/11,172,2,3,88,50,38,4,1:41
+16-Mar-1992,Casablanca,3,Clay,R16,209,88,0,Q,,Mark Koevermans,David Prinosil,6-3 6-3,0.68,6.5%,12.9%,69.4%,67.4%,21.1%,5/9,43.8%,32.0%,4.0%,31.7%,33.3%,1/2,112,4,8,62,43,19,2,1:18
+16-Mar-1992,Casablanca,3,Clay,R32,209,92,1,Q,,David Prinosil,Karsten Braasch,2-6 6-2 6-4,1.13,2.3%,3.4%,56.8%,68.0%,44.7%,4/8,52.9%,47.6%,4.8%,43.6%,51.1%,5/11,172,2,3,88,50,38,4,1:41
 24-Feb-1992,Rotterdam,3,Carpet,R16,246,30,0,Q,6,John Mcenroe,David Prinosil,7-6(1) 6-3,0.81,2.6%,11.7%,36.4%,78.6%,38.8%,5/9,45.9%,38.0%,2.8%,36.8%,39.4%,2/7,148,2,9,77,28,49,2,1:47
 24-Feb-1992,Rotterdam,3,Carpet,R32,246,71,1,Q,,David Prinosil,Tomas Carbonell,6-4 7-5,1.26,8.5%,3.4%,55.9%,69.7%,57.7%,3/5,52.8%,44.7%,5.9%,37.5%,54.1%,4/12,144,5,2,59,33,26,5,1:27
 28-Oct-1991,Switzerland Masters 2,3,Hard,F,256,707,1,3,Q,David Prinosil,Thomas Prerovsky,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -550,7 +554,7 @@
 14-Apr-1991,Germany 2 Masters 3,3,Clay,R32,373,523,1,8,WC,David Prinosil,Scott Gessner,6-3 6-7 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Apr-1991,Germany 2 Masters 4,3,Clay,R32,373,523,1,,,David Prinosil,Scott Gessner,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 1,3,Clay,QF,394,707,0,,Q,Jozsef Krocsko,David Prinosil,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Mar-1991,Spain 3 Masters 2,3,Clay,QF,394,,0,,Q,Juan Gisbert Jr,David Prinosil,7-5 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-1991,Spain 3 Masters 2,3,Clay,QF,394,761,0,,Q,Juan Gisbert Jr,David Prinosil,7-5 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 1,3,Clay,R16,394,295,1,,4,David Prinosil,Markus Naewie,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 2,3,Clay,R16,394,223,1,,2,David Prinosil,Vicente Solves,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 3,3,Clay,R16,394,166,0,,2,German Lopez,David Prinosil,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -558,11 +562,11 @@
 4-Mar-1991,Spain 3 Masters 2,3,Clay,R32,394,,1,,,David Prinosil,Javier Molina Peiro,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 3,3,Clay,R32,394,,1,,Q,David Prinosil,Gerd Albiez,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Mar-1991,Spain 3 Masters 4,3,Clay,R32,394,948,0,,,Claudio Rigagnoli,David Prinosil,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1991,Germany 1 Masters 3,3,Carpet,R16,,,0,Q,5,Markus Naewie,David Prinosil,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1991,Germany 1 Masters 1,3,Carpet,R32,,,0,,WC,Dirk Leppen,David Prinosil,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1991,Germany 1 Masters 2,3,Carpet,R32,,,0,,7,Richard Vogel,David Prinosil,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1991,Germany 1 Masters 3,3,Carpet,R32,,1008,1,Q,Q,David Prinosil,Thomas Gollwitzer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1991,Germany 1 Masters 4,3,Carpet,R32,,,0,,,Andrei Merinov,David Prinosil,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1991,Germany 1 Masters 3,3,Carpet,R16,389,290,0,Q,5,Markus Naewie,David Prinosil,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1991,Germany 1 Masters 1,3,Carpet,R32,389,400,0,,WC,Dirk Leppen,David Prinosil,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1991,Germany 1 Masters 2,3,Carpet,R32,389,286,0,,7,Richard Vogel,David Prinosil,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1991,Germany 1 Masters 3,3,Carpet,R32,389,1008,1,Q,Q,David Prinosil,Thomas Gollwitzer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1991,Germany 1 Masters 4,3,Carpet,R32,389,717,0,,,Andrei Merinov,David Prinosil,7-6 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Jan-1991,Heilbronn CH,3,Carpet,R32,389,379,0,WC,Q,Markus Zillner,David Prinosil,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Nov-1990,Munich CH,3,Carpet,R16,438,143,0,WC,,Jan Siemerink,David Prinosil,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Nov-1990,Munich CH,3,Carpet,R32,438,137,1,WC,,David Prinosil,Jens Woehrmann,6-4 6-7 6-1,,,,,,,,,,,,,,,,,,,,,

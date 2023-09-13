@@ -1,6 +1,23 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,Q2,105,168,0,4,,Hamad Medjedovic,Juan Manuel Cerundolo,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,105,227,1,4,,Juan Manuel Cerundolo,Zachary Svajda,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,R64,93,21,0,,21,Alejandro Davidovich Fokina,Juan Manuel Cerundolo,6-1 6-4 6-3,0.52,1.1%,2.3%,54.0%,53.2%,37.5%,3/10,38.1%,27.9%,10.3%,26.0%,33.3%,2/2,155,1,2,87,47,40,7,1:42
+28-Aug-2023,US Open,5,Hard,R128,93,103,1,,,Juan Manuel Cerundolo,Ilya Ivashka,2-6 6-7(4) 6-3 6-3 6-3,1.04,5.8%,5.2%,54.8%,75.3%,38.6%,7/13,51.0%,42.8%,6.9%,30.3%,62.5%,8/17,300,9,8,155,85,70,10,3:34
+21-Aug-2023,Winston-Salem,3,Hard,QF,100,29,0,Alt,1,Borna Coric,Juan Manuel Cerundolo,6-3 6-1,0.58,2.0%,6.1%,63.3%,61.3%,22.2%,4/8,38.5%,30.9%,12.7%,20.6%,47.6%,0/3,104,1,3,49,31,18,7,1:21
+21-Aug-2023,Winston-Salem,3,Hard,R16,100,385,1,Alt,LL,Juan Manuel Cerundolo,Omni Kumar,7-5 6-3,1.23,4.3%,7.2%,63.8%,79.5%,44.0%,4/5,54.6%,41.0%,4.9%,36.4%,46.4%,3/7,130,3,5,69,44,25,3,1:37
+21-Aug-2023,Winston-Salem,3,Hard,R32,100,54,1,Alt,10,Juan Manuel Cerundolo,Yannick Hanfmann,7-6(3) 5-7 7-6(4),0.99,3.2%,8.9%,49.2%,72.1%,46.0%,7/13,49.8%,40.8%,6.4%,40.0%,42.0%,5/14,249,4,11,124,61,63,8,3:24
+21-Aug-2023,Winston-Salem,3,Hard,R64,100,61,1,Alt,,Juan Manuel Cerundolo,Roman Safiullin,7-6(5) 3-6 6-3,1.02,8.4%,7.5%,57.9%,74.2%,48.9%,5/7,50.2%,37.3%,6.4%,28.8%,50.0%,2/14,217,9,8,107,62,45,7,2:36
+31-Jul-2023,Kitzbuhel,3,Clay,R32,106,67,0,LL,,Arthur Rinderknech,Juan Manuel Cerundolo,6-7(3) 6-4 6-2,0.75,3.0%,9.0%,57.0%,80.7%,46.5%,5/8,46.8%,25.6%,21.1%,9.3%,50.0%,0/2,190,3,9,100,57,43,19,2:09
+31-Jul-2023,Kitzbuhel,3,Clay,Q2,106,240,0,2,,Guido Andreozzi,Juan Manuel Cerundolo,6-2 6-4,0.71,0.0%,3.6%,58.2%,56.3%,47.8%,2/6,43.4%,33.3%,3.9%,13.3%,61.9%,1/1,106,0,2,55,32,23,2,1:18
+31-Jul-2023,Kitzbuhel,3,Clay,Q1,106,242,1,2,,Juan Manuel Cerundolo,Francesco Maestrelli,6-3 6-2,1.24,1.5%,6.0%,49.3%,72.7%,41.2%,2/4,55.5%,53.8%,9.6%,40.0%,66.7%,5/10,119,1,4,67,33,34,5,
+24-Jul-2023,Umag,3,Clay,R32,110,87,0,,,Fabian Marozsan,Juan Manuel Cerundolo,6-3 6-2,0.67,3.7%,3.7%,55.6%,56.7%,45.8%,5/9,42.1%,32.1%,7.5%,33.3%,30.0%,1/1,107,2,2,54,30,24,4,1:06
+17-Jul-2023,Bastad,3,Clay,R32,100,96,0,,,Alexander Shevchenko,Juan Manuel Cerundolo,6-3 6-3,0.78,0.0%,3.1%,67.2%,53.5%,42.9%,7/12,45.2%,39.2%,3.9%,38.2%,41.2%,2/6,115,0,2,64,43,21,2,1:22
+10-Jul-2023,Salzburg CH,3,Clay,SF,111,72,0,5,3,Sebastian Ofner,Juan Manuel Cerundolo,6-0 6-2,0.44,7.7%,12.8%,53.8%,57.1%,11.1%,3/8,31.8%,28.3%,10.9%,9.5%,44.0%,0/5,85,3,5,39,21,18,5,0:51
+10-Jul-2023,Salzburg CH,3,Clay,QF,111,169,1,5,,Juan Manuel Cerundolo,Elias Ymer,1-6 6-2 6-3,0.98,1.1%,1.1%,52.6%,68.0%,37.8%,13/17,50.0%,45.5%,7.8%,22.9%,64.3%,5/8,172,1,1,95,50,45,6,2:11
+10-Jul-2023,Salzburg CH,3,Clay,R16,111,447,1,5,Q,Juan Manuel Cerundolo,Alex Barrena,6-2 4-6 6-1,1.25,3.3%,3.3%,48.9%,60.0%,57.4%,6/9,55.7%,51.5%,4.5%,48.9%,57.9%,6/9,158,3,3,92,45,47,3,1:54
+10-Jul-2023,Salzburg CH,3,Clay,R32,111,368,1,5,Q,Juan Manuel Cerundolo,Maxime Chazal,6-3 6-4,1.46,9.8%,3.9%,62.7%,68.8%,57.9%,1/3,57.5%,51.6%,0.0%,52.9%,50.0%,5/12,113,5,2,51,32,19,0,1:21
+3-Jul-2023,Wimbledon,5,Grass,R128,111,8,0,,8,Jannik Sinner,Juan Manuel Cerundolo,6-2 6-2 6-2,0.31,5.7%,3.4%,62.1%,55.6%,42.4%,7/13,36.6%,15.5%,12.1%,17.5%,11.1%,0/2,145,5,3,87,54,33,7,1:30
+26-Jun-2023,Eastbourne,3,Grass,Q1,110,300,0,5,,Skander Mansouri,Juan Manuel Cerundolo,6-4 6-4,0.83,1.2%,7.4%,58.0%,57.4%,41.2%,12/17,46.1%,40.8%,7.0%,37.3%,50.0%,3/8,152,1,6,81,47,34,5,1:28
+29-May-2023,Roland Garros,5,Clay,Q2,105,168,0,4,,Hamad Medjedovic,Juan Manuel Cerundolo,6-3 3-6 6-3,0.96,2.2%,0.0%,72.2%,55.4%,48.0%,5/10,48.5%,44.6%,8.0%,32.9%,64.3%,4/14,202,2,0,90,65,25,9,
+29-May-2023,Roland Garros,5,Clay,Q1,105,227,1,4,,Juan Manuel Cerundolo,Zachary Svajda,7-6(4) 6-3,1.30,10.5%,5.3%,75.0%,78.9%,21.1%,4/6,55.2%,46.2%,5.1%,40.0%,54.5%,3/11,154,8,4,76,57,19,4,
 15-May-2023,Turin CH,3,Clay,R16,105,198,0,4,Alt,Andrea Collarini,Juan Manuel Cerundolo,7-5 6-4,0.83,0.0%,8.9%,66.3%,62.7%,29.4%,5/10,47.0%,40.3%,3.0%,29.8%,65.0%,3/6,168,0,9,101,67,34,2,1:56
 8-May-2023,Rome Masters,3,Clay,R128,105,119,0,Q,Q,Arthur Fils,Juan Manuel Cerundolo,6-1 1-6 6-4,0.87,3.1%,3.1%,70.1%,55.9%,58.6%,10/13,47.8%,37.6%,7.1%,37.3%,38.5%,2/10,182,3,3,97,68,29,6,2:09
 8-May-2023,Rome Masters,3,Clay,Q2,105,143,1,7,20,Juan Manuel Cerundolo,Tomas Barrios Vera,6-3 6-1,1.76,3.8%,1.9%,67.3%,68.6%,76.5%,2/2,60.6%,50.9%,0.0%,47.5%,58.8%,4/12,109,2,1,52,35,17,0,1:25

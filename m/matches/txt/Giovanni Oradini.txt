@@ -1,5 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Perugia CH,3,Clay,Q1,432,323,0,,7,Alexander Weis,Giovanni Oradini,6-1 6-4,0.44,5.5%,1.8%,54.5%,56.7%,52.0%,2/5,39.0%,20.0%,4.4%,16.2%,37.5%,0/0,100,3,1,55,30,25,2,1:16
+4-Sep-2023,Genoa CH,3,Clay,R16,387,146,0,Q,7,Fabio Fognini,Giovanni Oradini,6-0 6-3,0.55,7.0%,4.7%,58.1%,56.0%,22.2%,3/9,36.9%,31.7%,7.3%,12.0%,62.5%,1/1,84,3,2,43,25,18,3,0:59
+4-Sep-2023,Genoa CH,3,Clay,R32,387,283,1,Q,,Giovanni Oradini,Salvatore Caruso,6-3 1-6 6-3,1.00,2.6%,1.3%,56.4%,61.4%,55.9%,2/6,50.7%,41.2%,2.9%,39.0%,44.4%,4/7,146,2,1,78,44,34,2,2:09
+4-Sep-2023,Genoa CH,3,Clay,Q2,387,2029,1,5,WC,Giovanni Oradini,Gianluca Cadenasso,6-2 6-4,1.58,1.8%,3.5%,50.9%,75.9%,60.7%,3/4,59.0%,50.0%,1.7%,37.5%,64.3%,4/10,117,1,2,57,29,28,1,1:38
+4-Sep-2023,Genoa CH,3,Clay,Q1,387,634,1,5,,Giovanni Oradini,Fabrizio Andaloro,3-6 6-3 7-5,1.04,5.8%,2.9%,57.7%,73.3%,54.5%,7/9,51.5%,36.2%,7.4%,25.0%,47.8%,3/11,198,6,3,104,60,44,7,2:43
+14-Aug-2023,Todi CH,3,Clay,R32,379,285,0,Q,,Michael Geerts,Giovanni Oradini,5-7 6-3 7-5,0.70,6.7%,1.0%,53.8%,62.5%,62.5%,7/11,46.3%,26.2%,10.7%,22.2%,33.3%,3/4,188,7,1,104,56,48,9,2:29
+14-Aug-2023,Todi CH,3,Clay,Q2,379,692,1,5,WC,Giovanni Oradini,Gabriele Pennaforti,7-6(2) 2-6 6-3,1.04,2.2%,5.4%,46.2%,74.4%,54.0%,5/8,50.0%,37.9%,1.9%,28.1%,53.8%,2/12,196,2,5,93,43,50,2,3:00
+14-Aug-2023,Todi CH,3,Clay,Q1,379,,1,5,WC,Giovanni Oradini,Alessio De Bernardis,6-3 6-0,2.07,7.0%,4.7%,53.5%,82.6%,60.0%,1/2,64.2%,57.7%,5.8%,42.9%,75.0%,5/11,95,3,2,43,23,20,3,1:17
+7-Aug-2023,Cordenons CH,3,Clay,Q2,428,472,0,4,7,Juan Bautista Otegui,Giovanni Oradini,6-2 6-2,0.62,5.4%,0.0%,62.5%,57.1%,42.9%,5/9,41.7%,29.8%,4.3%,16.0%,45.5%,0/0,103,3,0,56,35,21,2,1:23
+7-Aug-2023,Cordenons CH,3,Clay,Q1,428,622,1,4,,Giovanni Oradini,Bor Artnak,7-6(5) 6-3,1.10,4.1%,6.8%,66.2%,65.3%,36.0%,4/7,52.5%,49.2%,1.5%,36.1%,65.5%,5/7,139,3,5,74,49,25,1,1:58
+31-Jul-2023,M25 Bolzano,3,Clay,F,423,342,1,3,1,Giovanni Oradini,Mathys Erhard,4-6 6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,SF,423,406,1,3,2,Giovanni Oradini,Alex Barrena,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,QF,423,558,1,3,5,Giovanni Oradini,Jeremy Jahn,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,R16,423,1053,1,3,,Giovanni Oradini,Samuele Pieri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Bolzano,3,Clay,R32,423,1572,1,3,Q,Giovanni Oradini,Antonio Caruso,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,Verona CH,3,Clay,Q2,429,332,0,10,,Valentin Royer,Giovanni Oradini,6-2 2-6 6-1,0.70,2.8%,1.4%,65.3%,59.6%,52.0%,8/12,44.2%,30.3%,12.1%,26.5%,41.2%,2/2,138,2,1,72,47,25,8,1:55
+24-Jul-2023,Verona CH,3,Clay,Q1,429,472,1,10,,Giovanni Oradini,Lorenzo Rottoli,7-6(5) 6-1,1.65,7.7%,3.8%,63.5%,75.8%,68.4%,0/1,57.4%,44.4%,3.2%,40.0%,52.2%,4/5,115,4,2,52,33,19,2,1:31
+3-Jul-2023,Milan CH,3,Clay,R16,437,256,0,Q,,Matteo Gigante,Giovanni Oradini,6-1 6-2,0.57,5.3%,2.6%,55.3%,42.9%,35.3%,3/8,36.8%,34.7%,6.1%,29.6%,40.9%,1/2,87,2,1,38,21,17,3,1:00
+3-Jul-2023,Milan CH,3,Clay,R32,437,182,1,Q,,Giovanni Oradini,Oleksii Krutykh,6-2 1-6 6-3,0.96,9.5%,4.1%,56.8%,69.0%,34.4%,1/6,49.0%,44.2%,5.2%,44.7%,43.6%,6/14,151,7,3,74,42,32,4,2:00
+3-Jul-2023,Milan CH,3,Clay,Q2,437,346,1,,6,Giovanni Oradini,Dmitry Popko,1-6 6-3 7-5,1.08,3.1%,4.2%,57.3%,76.4%,36.6%,4/8,51.5%,44.0%,9.0%,35.4%,51.9%,4/11,196,3,4,96,55,41,9,2:37
+3-Jul-2023,Milan CH,3,Clay,Q1,437,355,1,,8,Giovanni Oradini,Carlos Taberner,6-7(2) 6-3 6-3,1.01,4.0%,0.0%,57.0%,70.2%,46.5%,6/9,50.5%,40.2%,2.2%,25.0%,56.8%,6/11,192,4,0,100,57,43,2,3:05
+26-Jun-2023,Modena CH,3,Clay,Q1,432,299,0,,1,Alibek Kachmazov,Giovanni Oradini,6-3 6-7(3) 7-5,0.95,1.0%,2.0%,64.3%,69.8%,48.6%,1/6,47.7%,35.8%,1.7%,31.1%,40.7%,3/8,218,1,2,98,63,35,2,3:22
+19-Jun-2023,Montechiarugolo CH,3,Clay,Q1,429,476,0,10,,Lorenzo Rottoli,Giovanni Oradini,6-3 2-0 RET,0.58,1.9%,1.9%,67.3%,54.3%,29.4%,7/11,40.5%,31.3%,9.4%,26.3%,38.5%,1/2,84,1,1,52,35,17,3,1:03
+12-Jun-2023,Perugia CH,3,Clay,Q1,432,323,0,,7,Alexander Weis,Giovanni Oradini,6-1 6-4,0.44,5.5%,1.8%,54.5%,56.7%,52.0%,2/5,39.0%,20.0%,4.4%,16.2%,37.5%,0/0,100,3,1,55,30,25,2,1:16
 29-May-2023,Vicenza CH,3,Clay,Q1,397,297,0,Alt,10,Edoardo Lavagno,Giovanni Oradini,6-0 3-6 6-3,0.80,3.4%,1.1%,63.6%,50.0%,46.9%,11/17,45.2%,41.0%,1.3%,37.3%,48.1%,3/7,166,3,1,88,56,32,1,1:59
 22-May-2023,M15 Warmbad Villach,3,Clay,QF,393,656,0,2,,Tim Handel,Giovanni Oradini,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Warmbad Villach,3,Clay,R16,393,682,1,2,,Giovanni Oradini,Lorenzo Bocchi,6-7(6) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -83,7 +105,7 @@
 6-Jun-2022,Perugia CH,3,Clay,Q1,487,358,1,,5,Giovanni Oradini,Facundo Juarez,6-3 6-3,1.20,15.1%,2.7%,60.3%,77.3%,44.8%,4/4,53.9%,42.6%,0.0%,35.2%,71.4%,3/9,141,11,2,73,44,29,0,1:43
 16-May-2022,M15 Warmbad Villach,3,Clay,F,531,777,1,1,5,Giovanni Oradini,Sebastian Prechtel,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M15 Warmbad Villach,3,Clay,SF,531,775,1,1,4,Giovanni Oradini,Sandro Kopp,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-16-May-2022,M15 Warmbad Villach,3,Clay,QF,531,,1,1,,Giovanni Oradini,Tommaso Compagnucci ,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-May-2022,M15 Warmbad Villach,3,Clay,QF,531,,1,1,,Giovanni Oradini,Tommaso Compagnucci,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M15 Warmbad Villach,3,Clay,R16,531,877,1,1,,Giovanni Oradini,Andrea Guerrieri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M15 Warmbad Villach,3,Clay,R32,531,,1,1,Q,Giovanni Oradini,Tino Kovacic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 2-May-2022,M25 Nottingham,3,Hard,R16,538,308,0,,3,Aidan Mchugh,Giovanni Oradini,7-6(0) 6-3,,,,,,,,,,,,,,,,,,,,,

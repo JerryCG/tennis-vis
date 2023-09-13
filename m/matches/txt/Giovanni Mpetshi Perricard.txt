@@ -1,11 +1,29 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Jun-2023,'S-Hertogenbosch,3,Grass,R32,233,103,0,Q,,Jordan Thompson,Giovanni Mpetshi Perricard,6-4 7-6(3),0.81,19.2%,5.5%,61.6%,82.2%,42.9%,3/4,47.5%,26.5%,5.9%,19.0%,38.5%,0/2,141,14,4,73,45,28,4,1:37
-10-Jun-2023,'S-Hertogenbosch,3,Grass,Q2,233,354,1,,,Giovanni Mpetshi Perricard,Edan Leshem,6-7(5) 6-4 6-4,1.14,15.1%,3.8%,54.7%,75.9%,62.5%,4/5,53.3%,34.4%,6.5%,28.8%,41.5%,3/4,199,16,4,106,58,48,6,2:06
-10-Jun-2023,'S-Hertogenbosch,3,Grass,Q1,233,129,1,,,Giovanni Mpetshi Perricard,Andrea Vavassori,6-4 4-6 6-3,0.92,17.5%,6.2%,70.1%,75.0%,37.9%,1/3,50.0%,33.3%,6.2%,25.0%,43.2%,3/9,178,17,6,97,68,29,5,1:53
+4-Sep-2023,Istanbul CH,3,Hard,QF,241,141,0,,2,Jesper De Jong,Giovanni Mpetshi Perricard,7-5 6-4,0.76,6.3%,7.6%,64.6%,76.5%,28.6%,3/6,46.5%,30.8%,1.5%,24.4%,41.7%,1/1,144,5,6,79,51,28,1,1:36
+4-Sep-2023,Istanbul CH,3,Hard,R16,241,204,1,,6,Giovanni Mpetshi Perricard,Harold Mayot,6-7(1) 6-3 6-3,1.20,11.2%,3.1%,62.2%,78.7%,59.5%,6/6,53.1%,34.4%,3.1%,27.9%,45.7%,3/10,194,11,3,98,61,37,3,1:54
+4-Sep-2023,Istanbul CH,3,Hard,R32,241,219,1,,,Giovanni Mpetshi Perricard,Cem Ilkel,7-5 6-4,1.19,10.1%,6.3%,60.8%,79.2%,51.6%,5/5,54.1%,37.7%,7.2%,37.5%,37.9%,2/4,148,8,5,79,48,31,5,1:39
+28-Aug-2023,US Open,5,Hard,Q2,241,462,0,,WC,Aidan Mayo,Giovanni Mpetshi Perricard,7-6(6) 7-6(8),0.85,8.6%,3.8%,63.8%,73.1%,55.3%,11/11,49.5%,28.2%,3.5%,19.6%,38.5%,0/0,190,9,4,105,67,38,3,2:06
+28-Aug-2023,US Open,5,Hard,Q1,241,118,1,,14,Giovanni Mpetshi Perricard,Thiago Monteiro,6-7(11) 7-6(5) 7-6(8),1.35,20.4%,4.4%,71.7%,93.8%,46.9%,0/0,51.7%,26.4%,6.2%,25.6%,27.9%,0/6,242,23,5,113,81,32,8,2:59
+24-Jul-2023,Salinas CH,3,Hard,SF,222,328,0,3,,Illya Marchenko,Giovanni Mpetshi Perricard,7-6(0) 6-4,0.50,11.9%,3.6%,66.7%,75.0%,39.3%,10/11,44.4%,18.3%,18.3%,16.3%,23.5%,0/0,144,10,3,84,56,28,11,1:37
+24-Jul-2023,Salinas CH,3,Hard,QF,222,270,1,3,7,Giovanni Mpetshi Perricard,Beibit Zhukayev,7-6(9) 6-7(6) 6-4,1.11,12.6%,5.0%,55.5%,80.3%,52.8%,4/6,51.7%,35.3%,9.2%,24.6%,46.6%,3/6,238,15,6,119,66,53,11,3:06
+24-Jul-2023,Salinas CH,3,Hard,R16,222,330,1,3,,Giovanni Mpetshi Perricard,Alex Bolt,3-6 6-4 7-6(9),1.05,11.8%,6.4%,56.4%,77.4%,45.8%,2/5,50.0%,38.1%,4.8%,35.4%,43.2%,3/8,236,13,7,110,62,48,6,2:37
+24-Jul-2023,Salinas CH,3,Hard,R32,222,503,1,3,Q,Giovanni Mpetshi Perricard,Mateus Alves,6-3 6-4,1.52,18.2%,3.6%,67.3%,89.2%,50.0%,0/0,57.1%,36.0%,10.0%,30.3%,47.1%,2/7,105,10,2,55,37,18,5,1:18
+17-Jul-2023,Granby CH,3,Hard,R32,208,239,0,8,,Dane Sweeny,Giovanni Mpetshi Perricard,3-6 6-4 6-4,1.36,13.9%,5.6%,56.9%,80.5%,64.5%,1/3,51.1%,35.8%,1.9%,32.4%,42.9%,2/9,178,10,4,72,41,31,2,2:00
+10-Jul-2023,Chicago CH,3,Hard,SF,218,252,0,7,,Yuta Shimizu,Giovanni Mpetshi Perricard,7-6(5) 7-6(5),0.97,22.9%,2.4%,56.6%,72.3%,69.4%,4/4,48.8%,28.1%,1.1%,21.6%,36.8%,0/2,172,19,2,83,47,36,1,1:49
+10-Jul-2023,Chicago CH,3,Hard,QF,218,244,1,7,,Giovanni Mpetshi Perricard,Mark Lajal,7-6(3) 4-6 7-6(6),1.19,20.4%,5.6%,60.2%,87.7%,51.2%,0/1,50.6%,32.1%,3.1%,29.5%,37.2%,0/5,239,22,6,108,65,43,4,2:56
+10-Jul-2023,Chicago CH,3,Hard,R16,218,237,1,7,,Giovanni Mpetshi Perricard,Adam Walton,7-6(3) 6-4,0.85,25.8%,6.1%,62.1%,82.9%,56.0%,0/0,50.0%,23.2%,16.1%,6.5%,44.0%,1/4,122,17,4,66,41,25,9,1:27
+10-Jul-2023,Chicago CH,3,Hard,R32,218,240,1,7,,Giovanni Mpetshi Perricard,Tennys Sandgren,6-4 6-4,1.40,10.2%,4.1%,55.1%,74.1%,72.7%,0/1,54.4%,37.0%,7.4%,32.3%,43.5%,3/7,103,5,2,49,27,22,4,1:20
+3-Jul-2023,Bloomfield Hills CH,3,Hard,R16,218,262,0,6,,Mikhail Kukushkin,Giovanni Mpetshi Perricard,3-6 6-3 6-2,0.84,17.6%,4.1%,59.5%,70.5%,53.3%,1/4,46.2%,30.5%,9.8%,29.8%,31.4%,1/13,156,13,3,74,44,30,8,1:57
+3-Jul-2023,Bloomfield Hills CH,3,Hard,R32,218,,1,6,,Giovanni Mpetshi Perricard,Nishesh Basavareddy,3-6 6-3 6-3,1.04,11.1%,8.6%,59.3%,79.2%,45.5%,1/3,50.9%,35.9%,9.0%,30.6%,40.5%,4/8,159,9,7,81,48,33,7,1:56
+19-Jun-2023,Poznan CH,3,Clay,R16,221,148,0,,5,Tomas Barrios Vera,Giovanni Mpetshi Perricard,7-6(2) 6-3,0.82,7.6%,2.5%,60.8%,72.9%,25.8%,6/9,46.4%,37.5%,2.8%,20.0%,66.7%,2/3,151,6,2,79,48,31,2,1:53
+19-Jun-2023,Poznan CH,3,Clay,R32,221,217,1,,,Giovanni Mpetshi Perricard,Jakub Mensik,7-6(8) 3-6 7-6(11),0.89,13.0%,4.9%,49.6%,75.4%,41.9%,4/8,47.9%,37.0%,9.2%,25.5%,46.9%,3/7,242,16,6,123,61,62,11,3:06
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,233,103,0,Q,,Jordan Thompson,Giovanni Mpetshi Perricard,6-4 7-6(3),0.81,19.2%,5.5%,61.6%,82.2%,42.9%,3/4,47.5%,26.5%,5.9%,19.0%,38.5%,0/2,141,14,4,73,45,28,4,1:37
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,233,354,1,,,Giovanni Mpetshi Perricard,Edan Leshem,6-7(5) 6-4 6-4,1.14,15.1%,3.8%,54.7%,75.9%,62.5%,4/5,53.3%,34.4%,6.5%,28.8%,41.5%,3/4,199,16,4,106,58,48,6,2:06
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,233,129,1,,,Giovanni Mpetshi Perricard,Andrea Vavassori,6-4 4-6 6-3,0.92,17.5%,6.2%,70.1%,75.0%,37.9%,1/3,50.0%,33.3%,6.2%,25.0%,43.2%,3/9,178,17,6,97,68,29,5,1:53
 5-Jun-2023,Prostejov CH,3,Clay,R32,237,125,0,Q,4,Zsombor Piros,Giovanni Mpetshi Perricard,7-5 6-4,0.84,13.2%,2.9%,67.6%,69.6%,40.9%,3/6,46.2%,33.3%,5.3%,22.2%,43.6%,1/7,143,9,2,68,46,22,4,1:26
 5-Jun-2023,Prostejov CH,3,Clay,Q2,237,332,1,2,10,Giovanni Mpetshi Perricard,Manuel Guinard,7-5 6-2,2.11,8.0%,2.0%,74.0%,83.8%,69.2%,0/0,58.8%,42.2%,0.0%,41.9%,42.9%,3/8,114,4,1,50,37,13,0,1:17
 5-Jun-2023,Prostejov CH,3,Clay,Q1,237,806,1,2,WC,Giovanni Mpetshi Perricard,Peter Benjamin Privara,6-7(6) 7-6(2) 7-6(7),1.04,15.6%,4.4%,63.0%,77.6%,50.0%,5/7,50.7%,33.8%,10.5%,16.9%,47.3%,2/7,268,21,6,135,85,50,14,3:22
-29-May-2023,Roland Garros,5,Clay,R128,237,231,0,WC,Q,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,7-6(3) 4-6 4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,237,231,0,WC,Q,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,7-6(3) 4-6 4-6 7-5 6-1,0.93,7.5%,8.1%,55.3%,75.3%,50.0%,9/13,47.9%,33.3%,0.6%,28.7%,45.8%,3/12,338,12,13,161,89,72,1,
 15-May-2023,Tunis CH,3,Clay,Q1,233,531,0,3,Alt,Hady Habib,Giovanni Mpetshi Perricard,6-7(5) 7-6(4) 6-4,1.14,15.9%,4.7%,72.0%,75.3%,63.3%,5/6,50.2%,32.0%,9.4%,29.3%,35.8%,0/8,235,17,5,107,77,30,12,2:19
 8-May-2023,Mauthausen CH,3,Clay,R32,233,129,0,,5,Filip Misolic,Giovanni Mpetshi Perricard,4-6 6-3 6-2,0.83,14.9%,4.1%,55.4%,68.3%,48.5%,2/6,45.9%,33.7%,12.0%,26.8%,40.5%,2/5,157,11,3,74,41,33,10,1:51
 17-Apr-2023,Florianopolis CH,3,Clay,R32,229,205,0,,5,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,7-5 7-5,0.80,10.5%,5.3%,55.3%,76.2%,38.2%,3/6,45.8%,32.5%,1.3%,21.7%,48.4%,1/4,153,8,4,76,42,34,1,1:43

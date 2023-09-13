@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Seville CH,3,Clay,R32,538,291,0,Q,WC,Carlos Taberner,Imanol Lopez Morillo,6-3 6-2,0.75,3.6%,0.0%,69.1%,60.5%,29.4%,2/6,43.1%,36.8%,2.9%,36.7%,36.8%,1/5,123,2,0,55,38,17,2,1:50
+4-Sep-2023,Seville CH,3,Clay,Q2,538,575,1,6,8,Imanol Lopez Morillo,Gian Marco Moroni,6-3 6-4,1.90,7.7%,1.9%,63.5%,75.8%,78.9%,2/3,59.6%,43.9%,5.3%,36.1%,57.1%,3/7,109,4,1,52,33,19,3,1:34
+4-Sep-2023,Seville CH,3,Clay,Q1,538,1443,1,6,WC,Imanol Lopez Morillo,Gabriel Elicha Navas,3-6 7-5 6-1,1.06,4.0%,1.0%,64.0%,57.8%,58.3%,11/14,51.6%,44.4%,1.1%,48.5%,33.3%,5/9,190,4,1,100,64,36,1,2:40
+28-Aug-2023,M25 Oviedo,3,Clay,QF,538,1152,0,6,,Carlos Gimeno Valero,Imanol Lopez Morillo,5-6 DEF,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Oviedo,3,Clay,R16,538,,1,6,WC,Imanol Lopez Morillo,Alejo Sanchez Quilez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Oviedo,3,Clay,R32,538,665,1,6,,Imanol Lopez Morillo,Max Alcala Gurri,7-6(4) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,SF,534,507,0,6,7,Vilius Gaubas,Imanol Lopez Morillo,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,QF,534,341,1,6,1,Imanol Lopez Morillo,Alvaro Lopez San Martin,7-6(2) 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R16,534,1177,1,6,LL,Imanol Lopez Morillo,Jaime Caldes,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R32,534,1633,1,6,Q,Imanol Lopez Morillo,Alejandro Turriziani Alvarez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,F,661,231,1,,1,Imanol Lopez Morillo,Cem Ilkel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,SF,661,293,1,,2,Imanol Lopez Morillo,Dominik Palan,6-1 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,QF,661,566,1,,,Imanol Lopez Morillo,Felix Gill,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,R16,661,711,1,,Q,Imanol Lopez Morillo,Benjamin Winter Lopez,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,R32,661,538,1,,,Imanol Lopez Morillo,Evgeny Karlovskiy,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Mungia,3,Clay,R32,653,271,0,,1,Oliver Crawford,Imanol Lopez Morillo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,R16,628,570,0,,,John Echeverria,Imanol Lopez Morillo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M25 Martos,3,Hard,R32,628,447,1,,2,Imanol Lopez Morillo,Robin Bertrand,6-1 6-7(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Gurb,3,Clay,R32,615,,0,,Q,Alejandro Juan Mano,Imanol Lopez Morillo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2023,M15 Telde,3,Clay,R32,611,854,0,6,,Gabriele Pennaforti,Imanol Lopez Morillo,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Apr-2023,M15 Telde,3,Clay,R32,622,1012,0,8,Q,Michael Zhu,Imanol Lopez Morillo,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -60,7 +78,7 @@
 21-Mar-2022,M15 Palmanova,3,Clay,R16,548,454,0,,5,Oscar Jose Gutierrez,Imanol Lopez Morillo,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Mar-2022,M15 Palmanova,3,Clay,R32,548,850,1,,Q,Imanol Lopez Morillo,Karl Friberg,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M15 Palmanova,3,Clay,R16,647,502,0,,3,Carlos Sanchez Jover,Imanol Lopez Morillo,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-14-Mar-2022,M15 Palmanova,3,Clay,R32,647,1674,1,,WC,Imanol Lopez Morillo,Marc Othman Ktiri ,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M15 Palmanova,3,Clay,R32,647,1674,1,,WC,Imanol Lopez Morillo,Marc Othman Ktiri,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,M15 Torello,3,Hard,F,649,621,1,6,3,Imanol Lopez Morillo,Daniel Cox,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,M15 Torello,3,Hard,SF,649,2153,1,6,Q,Imanol Lopez Morillo,Noah Lopez,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,M15 Torello,3,Hard,QF,649,982,1,6,,Imanol Lopez Morillo,David Jorda Sanchis,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,

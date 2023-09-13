@@ -1,5 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,R32,228,92,1,,2,Jakub Mensik,Alexander Shevchenko,6-4 3-6 6-1,1.08,9.6%,5.5%,57.5%,76.2%,51.6%,3/5,51.7%,37.1%,2.9%,36.4%,38.5%,4/5,143,7,4,73,42,31,2,1:36
+28-Aug-2023,US Open,5,Hard,R32,206,9,0,Q,9,Taylor Fritz,Jakub Mensik,6-1 6-2 6-0,0.37,1.8%,5.3%,56.1%,46.9%,28.0%,2/9,30.4%,22.4%,17.2%,9.1%,40.0%,0/0,115,1,3,57,32,25,10,1:30
+28-Aug-2023,US Open,5,Hard,R64,206,171,1,Q,Q,Jakub Mensik,Titouan Droguet,3-6 6-2 7-6(1) 6-3,1.34,8.4%,2.8%,43.9%,85.1%,61.7%,2/3,52.7%,37.5%,8.8%,24.7%,56.4%,4/11,243,9,3,107,47,60,12,2:51
+28-Aug-2023,US Open,5,Hard,R128,206,59,1,Q,,Jakub Mensik,Gregoire Barrere,6-4 4-6 7-6(1) 6-2,1.17,10.1%,3.1%,54.3%,80.0%,57.6%,2/4,52.7%,35.4%,2.4%,28.9%,45.1%,4/9,256,13,4,129,70,59,3,2:58
+28-Aug-2023,US Open,5,Hard,Q3,206,175,1,,,Jakub Mensik,Zdenek Kolar,7-5 6-4,1.37,17.2%,4.7%,59.4%,84.2%,46.2%,0/1,54.6%,42.9%,1.3%,33.3%,58.6%,3/6,141,11,3,64,38,26,1,1:43
+28-Aug-2023,US Open,5,Hard,Q2,206,153,1,,,Jakub Mensik,Leandro Riedi,6-7(5) 6-3 6-4,1.29,21.4%,4.1%,63.3%,79.0%,55.6%,0/1,53.7%,38.3%,6.5%,33.3%,45.5%,3/7,205,21,4,98,62,36,7,2:27
+28-Aug-2023,US Open,5,Hard,Q1,206,146,1,,,Jakub Mensik,Fabio Fognini,1-6 6-1 6-1,1.25,15.2%,3.0%,62.1%,63.4%,56.0%,3/5,54.7%,49.3%,4.2%,33.3%,63.2%,5/10,137,10,2,66,41,25,3,1:35
+31-Jul-2023,Liberec CH,3,Clay,R32,187,184,0,7,,Vit Kopriva,Jakub Mensik,6-3 1-0 RET,0.71,3.2%,9.7%,51.6%,87.5%,13.3%,3/5,42.4%,34.3%,0.0%,15.8%,56.3%,0/3,66,1,3,31,16,15,0,1:07
+24-Jul-2023,Zug CH,3,Clay,QF,200,137,0,,4,Fabio Fognini,Jakub Mensik,6-4 6-2,0.72,10.3%,0.0%,53.4%,64.5%,48.1%,4/7,43.7%,31.1%,0.0%,27.3%,35.7%,0/6,119,6,0,58,31,27,0,1:23
+24-Jul-2023,Zug CH,3,Clay,R16,200,173,1,,7,Jakub Mensik,Alexander Ritschard,6-4 6-4,1.16,12.1%,9.1%,40.9%,88.9%,43.6%,4/5,52.5%,44.0%,6.7%,23.8%,69.7%,3/9,141,8,6,66,27,39,5,1:29
+24-Jul-2023,Zug CH,3,Clay,R32,200,259,1,,,Jakub Mensik,Santiago Fa Rodriguez Taverna,6-4 6-3,1.27,10.7%,5.4%,60.7%,79.4%,45.5%,3/4,53.7%,43.1%,3.1%,30.0%,64.0%,4/9,121,6,3,56,34,22,2,1:14
+17-Jul-2023,Amersfoort CH,3,Clay,R16,201,157,0,,5,Maximilian Marterer,Jakub Mensik,6-3 7-6(3),0.86,11.3%,3.2%,61.3%,71.1%,45.8%,2/5,46.0%,33.3%,8.0%,33.3%,33.3%,2/9,137,7,2,62,38,24,6,1:31
+17-Jul-2023,Amersfoort CH,3,Clay,R32,201,268,1,,Alt,Jakub Mensik,Manuel Guinard,6-2 6-2,1.73,13.0%,10.9%,69.6%,81.3%,35.7%,0/1,61.4%,56.4%,1.8%,52.9%,61.9%,5/11,101,6,5,46,32,14,1,1:01
+10-Jul-2023,Iasi CH,3,Clay,QF,217,53,0,,1,Bernabe Zapata Miralles,Jakub Mensik,6-1 3-6 6-2,0.84,5.3%,3.9%,50.0%,55.3%,39.5%,1/8,45.9%,44.4%,0.0%,42.6%,48.0%,4/7,148,4,3,76,38,38,0,1:59
+10-Jul-2023,Iasi CH,3,Clay,R16,217,173,1,,8,Jakub Mensik,Zdenek Kolar,6-2 6-2,1.69,6.0%,4.0%,48.0%,79.2%,61.5%,5/5,57.9%,50.6%,2.4%,39.2%,68.8%,4/11,133,3,2,50,24,26,2,1:31
+10-Jul-2023,Iasi CH,3,Clay,R32,217,339,1,,Q,Jakub Mensik,Kyrian Jacquet,7-5 6-4,1.32,11.4%,10.0%,58.6%,80.5%,44.8%,4/6,54.5%,45.2%,0.0%,31.3%,63.9%,4/14,154,8,7,70,41,29,0,1:43
+26-Jun-2023,Modena CH,3,Clay,R32,215,221,0,4,,Stefano Travaglia,Jakub Mensik,5-7 7-6(2) 6-4,1.03,10.9%,1.0%,63.4%,76.6%,48.6%,4/7,49.5%,34.8%,6.1%,29.1%,47.2%,3/9,216,11,1,101,64,37,7,2:57
+19-Jun-2023,Poznan CH,3,Clay,R32,217,221,0,,,Giovanni Mpetshi Perricard,Jakub Mensik,7-6(8) 3-6 7-6(11),1.12,9.2%,8.4%,46.2%,74.5%,53.1%,4/7,52.1%,41.5%,13.0%,24.6%,58.1%,4/8,242,11,10,119,55,64,16,3:06
+12-Jun-2023,Bratislava CH,3,Clay,QF,228,161,0,,,Tomas Barrios Vera,Jakub Mensik,4-6 6-1 6-3,0.87,9.8%,6.1%,61.0%,68.0%,43.8%,7/11,46.6%,35.9%,3.3%,33.3%,40.6%,1/3,174,8,5,82,50,32,3,2:06
+12-Jun-2023,Bratislava CH,3,Clay,R16,228,334,1,,WC,Jakub Mensik,Fernando Verdasco,6-1 6-4,1.54,15.1%,0.0%,69.8%,81.1%,50.0%,3/3,59.8%,43.6%,5.1%,43.5%,43.8%,3/3,92,8,0,53,37,16,2,1:01
+12-Jun-2023,Bratislava CH,3,Clay,R32,228,92,1,,2,Jakub Mensik,Alexander Shevchenko,6-4 3-6 6-1,1.08,9.6%,5.5%,57.5%,76.2%,51.6%,3/5,51.7%,37.1%,2.9%,36.4%,38.5%,4/5,143,7,4,73,42,31,2,1:36
 5-Jun-2023,Prostejov CH,3,Clay,QF,240,232,0,WC,Alt,Dalibor Svrcina,Jakub Mensik,7-6(2) 6-1,0.60,5.3%,0.0%,49.1%,78.6%,27.6%,2/5,40.2%,28.3%,0.0%,29.8%,23.1%,1/2,117,3,0,57,28,29,0,1:30
 5-Jun-2023,Prostejov CH,3,Clay,R16,240,124,1,WC,3,Jakub Mensik,Facundo Bagnis,6-2 6-3,2.13,10.0%,5.0%,60.0%,83.3%,62.5%,1/2,61.5%,53.1%,0.0%,51.4%,55.6%,5/9,104,4,2,40,24,16,0,1:16
 5-Jun-2023,Prostejov CH,3,Clay,R32,240,196,1,WC,,Jakub Mensik,Nicholas David Ionel,6-2 6-3,1.55,9.3%,1.9%,50.0%,74.1%,44.4%,5/9,61.1%,63.0%,0.0%,66.7%,55.6%,7/12,108,5,1,54,27,27,0,1:26
@@ -35,6 +54,7 @@
 14-Nov-2022,M25 Heraklion,3,Hard,QF,566,394,1,,6,Jakub Mensik,Daniel Cukierman,6-7(2) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Nov-2022,M25 Heraklion,3,Hard,R16,566,323,1,,3,Jakub Mensik,Billy Harris,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Nov-2022,M25 Heraklion,3,Hard,R32,566,479,1,,,Jakub Mensik,Federico Arnaboldi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,Bratislava CH,3,Hard,R32,563,142,0,WC,,Yannick Hanfmann,Jakub Mensik,6-3 6-4,0.71,4.3%,4.3%,72.9%,64.7%,36.8%,6/9,45.0%,30.5%,6.8%,20.5%,60.0%,1/3,129,3,3,70,51,19,4,1:30
 24-Oct-2022,M25 Sarreguemines,3,Carpet,QF,576,388,0,6,4,Antoine Hoang,Jakub Mensik,6-3 0-1 RET,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,R16,576,1147,1,6,,Jakub Mensik,Florian Broska,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Sarreguemines,3,Carpet,R32,576,642,1,6,,Jakub Mensik,Hazem Naw,6-7(1) 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
@@ -42,13 +62,17 @@
 26-Sep-2022,M15 Prostejov,3,Clay,R16,589,1007,1,5,,Jakub Mensik,Dan Alexandru Tomescu,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Sep-2022,M15 Prostejov,3,Clay,R32,589,,1,5,Q,Jakub Mensik,Stepan Mruzek,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2022,M25 Pardubice,3,Clay,QF,590,436,0,6,3,Felix Gill,Jakub Mensik,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-19-Sep-2022,M25 Pardubice,3,Clay,R16,590,977,1,6,,Jakub Mensik,Milos Karol ,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2022,M25 Pardubice,3,Clay,R16,590,977,1,6,,Jakub Mensik,Milos Karol,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2022,M25 Pardubice,3,Clay,R32,590,1937,1,6,Q,Jakub Mensik,John Sperle,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Allershausen,3,Clay,F,676,673,1,,8,Jakub Mensik,Peter Heller,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Allershausen,3,Clay,SF,676,551,1,,6,Jakub Mensik,Sandro Kopp,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Allershausen,3,Clay,QF,676,430,1,,1,Jakub Mensik,Alexis Gautier,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Allershausen,3,Clay,R16,676,880,1,,,Jakub Mensik,Amaury Raynel,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Allershausen,3,Clay,R32,676,1289,1,,Q,Jakub Mensik,Daniel Siniakov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,Prague CH,3,Clay,SF,881,271,0,WC,2,Oleksii Krutykh,Jakub Mensik,7-5 6-3,0.89,4.6%,12.3%,55.4%,75.0%,27.6%,3/8,46.9%,41.3%,1.3%,32.6%,51.4%,3/9,145,3,8,65,36,29,1,1:36
+22-Aug-2022,Prague CH,3,Clay,QF,881,415,1,WC,Q,Jakub Mensik,Martin Cuevas,7-5 6-2,1.36,7.6%,9.1%,54.5%,80.6%,40.0%,3/5,56.6%,51.4%,4.3%,42.9%,60.0%,5/10,136,5,6,66,36,30,3,1:40
+22-Aug-2022,Prague CH,3,Clay,R16,881,335,1,WC,,Jakub Mensik,Lukas Rosol,6-2 6-4,1.54,13.3%,8.3%,56.7%,85.3%,46.2%,3/3,57.2%,48.7%,3.8%,35.1%,61.0%,3/13,138,8,5,60,34,26,3,1:30
+22-Aug-2022,Prague CH,3,Clay,R32,881,410,1,WC,Q,Jakub Mensik,Adrian Menendez Maceiras,6-3 4-0 RET,1.53,6.4%,6.4%,42.6%,70.0%,63.0%,0/0,58.8%,52.0%,2.0%,43.3%,65.0%,4/9,97,3,3,47,20,27,1,1:26
 15-Aug-2022,M15 Bad Waltersdorf,3,Clay,R32,872,309,0,,1,Lucas Miedler,Jakub Mensik,6-4 5-7 7-6(3),,,,,,,,,,,,,,,,,,,,,
 6-Jun-2022,M15 Bytom,3,Clay,QF,948,476,0,,4,Timo Stodder,Jakub Mensik,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Jun-2022,M15 Bytom,3,Clay,R16,948,750,1,,7,Jakub Mensik,Maciej Rajski,6-1 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -59,6 +83,9 @@
 16-May-2022,M25 Most,3,Clay,QF,1435,458,1,,4,Jakub Mensik,Mohamed Safwat,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M25 Most,3,Clay,R16,1435,460,1,,6,Jakub Mensik,Timo Stodder,W/O,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M25 Most,3,Clay,R32,1435,1913,1,,LL,Jakub Mensik,Jannik Opitz,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-May-2022,Prague CH,3,Clay,Q1,1451,329,0,WC,8,Tristan Lamasine,Jakub Mensik,6-0 0-0 RET,0.55,0.0%,8.7%,34.8%,62.5%,20.0%,3/6,35.4%,36.0%,0.0%,42.9%,27.3%,0/1,48,0,2,23,8,15,0,0:35
+25-Apr-2022,Ostrava CH,3,Clay,R32,1443,306,0,WC,LL,Lucas Miedler,Jakub Mensik,6-1 6-1,0.40,5.5%,9.1%,47.3%,53.8%,34.5%,4/9,34.7%,22.5%,5.0%,14.8%,38.5%,0/3,95,3,5,55,26,29,2,1:10
+18-Apr-2022,Belgrade ,3,Clay,Q1,1444,138,0,WC,5,Liam Broady,Jakub Mensik,6-2 6-1,0.50,2.0%,5.9%,52.9%,51.9%,45.8%,2/7,38.9%,25.6%,7.7%,20.0%,31.6%,0/2,90,1,3,51,27,24,3,1:03
 28-Mar-2022,M15 Sharm ElSheikh,3,Hard,R16,1589,623,0,,4,Samuel Vincent Ruggeri,Jakub Mensik,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Mar-2022,M15 Sharm ElSheikh,3,Hard,R32,1589,988,1,,,Jakub Mensik,Vladimir Uzhylovsky,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 21-Mar-2022,M15 Sharm ElSheikh,3,Hard,R32,1589,380,0,,1,Mohamed Safwat,Jakub Mensik,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,34 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Lyon CH,3,Clay,R32,335,320,1,LL,WC,Clement Tabur,Ugo Blanchet,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Jun-2023,Lyon CH,3,Clay,Q2,335,1228,0,7,WC,Tom Paris,Clement Tabur,6-3 6-4,0.68,0.0%,7.5%,58.5%,61.3%,45.5%,4/8,42.6%,30.9%,18.2%,22.6%,41.7%,2/5,108,0,4,53,31,22,10,1:21
-11-Jun-2023,Lyon CH,3,Clay,Q1,335,,1,7,WC,Clement Tabur,Mae Malige,6-3 6-1,1.63,6.1%,0.0%,67.3%,72.7%,68.8%,3/3,59.8%,46.5%,7.0%,42.3%,52.9%,4/8,92,3,0,49,33,16,3,1:00
+10-Sep-2023,Szczecin CH,3,Clay,Q1,258,676,0,,Alt,Pawel Cias,Clement Tabur,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,F,279,487,1,1,7,Clement Tabur,Tim Handel,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,SF,279,808,1,1,,Clement Tabur,Lorenzo Carboni,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,QF,279,1047,1,1,,Clement Tabur,Alessandro Pecci,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,R16,279,1151,1,1,LL,Clement Tabur,Guy Den Heijer,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,R32,279,678,1,1,,Clement Tabur,Nikolay Vylegzhanin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,Todi CH,3,Clay,F,334,250,0,,7,Luciano Darderi,Clement Tabur,6-4 6-7(5) 6-1,0.68,0.0%,2.2%,72.8%,59.7%,48.0%,4/9,43.8%,29.8%,9.5%,19.6%,45.5%,2/2,176,0,2,92,67,25,8,2:14
+14-Aug-2023,Todi CH,3,Clay,SF,334,322,1,,,Clement Tabur,Giovanni Fonio,7-5 4-6 6-3,0.95,3.0%,2.0%,64.6%,67.2%,48.6%,5/8,49.7%,37.5%,9.1%,24.5%,53.8%,5/8,187,3,2,99,64,35,8,2:29
+14-Aug-2023,Todi CH,3,Clay,QF,334,318,1,,,Clement Tabur,Moez Echargui,6-4 3-6 7-6(7),1.08,3.7%,2.8%,59.3%,57.8%,68.2%,7/10,50.6%,41.1%,1.6%,38.9%,46.2%,3/10,237,4,3,108,64,44,2,3:38
+14-Aug-2023,Todi CH,3,Clay,R16,334,118,1,,1,Clement Tabur,Zsombor Piros,6-0 6-1,2.25,2.4%,0.0%,59.5%,72.0%,76.5%,2/2,66.7%,59.0%,7.7%,35.3%,77.3%,5/8,81,1,0,42,25,17,3,1:02
+14-Aug-2023,Todi CH,3,Clay,R32,334,283,1,,,Clement Tabur,Salvatore Caruso,4-6 6-2 6-0,1.47,2.4%,3.5%,63.5%,72.2%,45.2%,4/7,59.2%,55.2%,3.0%,58.1%,52.8%,7/11,152,2,3,85,54,31,2,2:17
+7-Aug-2023,Banja Luka CH,3,Clay,R16,300,89,0,,1,Fabian Marozsan,Clement Tabur,6-3 6-2,0.48,6.5%,4.3%,60.9%,53.6%,50.0%,2/5,37.2%,22.9%,6.3%,30.0%,11.1%,0/1,94,3,2,46,28,18,3,0:58
+7-Aug-2023,Banja Luka CH,3,Clay,R32,300,306,1,,,Clement Tabur,Kalin Ivanovski,7-6(4) 7-6(3),1.00,1.0%,2.0%,59.2%,63.8%,57.5%,12/15,51.4%,38.7%,5.3%,25.0%,58.1%,3/3,173,1,2,98,58,40,4,2:22
+17-Jul-2023,Trieste CH,3,Clay,R32,329,218,0,Q,,Matteo Gigante,Clement Tabur,6-4 6-7(5) 6-3,0.98,1.9%,2.8%,67.0%,62.0%,54.3%,7/11,48.7%,39.7%,9.5%,32.4%,50.0%,2/16,232,2,3,106,71,35,12,2:49
+17-Jul-2023,Trieste CH,3,Clay,Q2,329,795,1,2,Alt,Clement Tabur,Leonardo Rossi,7-5 6-4,1.33,12.2%,8.1%,64.9%,68.8%,42.3%,12/16,56.8%,53.8%,3.1%,51.1%,60.0%,6/13,139,9,6,74,48,26,2,1:50
+17-Jul-2023,Trieste CH,3,Clay,Q1,329,1666,1,2,Alt,Clement Tabur,Giammarco Gandolfi,6-3 6-0,2.35,2.7%,2.7%,83.8%,80.6%,66.7%,0/0,62.0%,50.9%,0.0%,46.2%,62.5%,5/8,92,1,1,37,31,6,0,
+10-Jul-2023,M25 Padova,3,Clay,F,334,423,1,3,5,Clement Tabur,Samuel Vincent Ruggeri,1-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Padova,3,Clay,SF,334,562,1,3,,Clement Tabur,Kirill Kivattsev,6-7(5) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Padova,3,Clay,QF,334,561,1,3,8,Clement Tabur,Sergey Fomin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Padova,3,Clay,R16,334,703,1,3,,Clement Tabur,Franco Roncadelli,6-3 1-6 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Padova,3,Clay,R32,334,860,1,3,WC,Clement Tabur,Filippo Speziali,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,SF,334,1151,0,1,,Lorenzo Carboni,Clement Tabur,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,QF,334,617,1,1,7,Clement Tabur,Lorenzo Bocchi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,R16,334,1080,1,1,WC,Clement Tabur,Alessandro Pecci,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Biella,3,Clay,R32,334,870,1,1,,Clement Tabur,Maciej Rajski,7-5 2-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Blois CH,3,Clay,R32,324,188,0,WC,6,Harold Mayot,Clement Tabur,6-3 6-4,0.77,1.9%,0.0%,69.2%,58.3%,50.0%,4/8,44.1%,33.9%,13.6%,18.2%,53.8%,2/4,111,1,0,52,36,16,8,1:29
+12-Jun-2023,Lyon CH,3,Clay,R16,335,305,0,LL,,Alejandro Moro Canas,Clement Tabur,6-2 6-3,0.53,5.7%,3.8%,49.1%,69.2%,33.3%,4/8,39.4%,26.1%,4.3%,24.0%,28.6%,1/1,99,3,2,53,26,27,2,1:18
+12-Jun-2023,Lyon CH,3,Clay,R32,335,320,1,LL,WC,Clement Tabur,Ugo Blanchet,6-4 6-4,1.17,0.0%,5.7%,54.3%,55.3%,59.4%,5/8,53.7%,50.0%,6.1%,37.5%,61.8%,5/9,136,0,4,70,38,32,4,1:35
+12-Jun-2023,Lyon CH,3,Clay,Q2,335,1228,0,7,WC,Tom Paris,Clement Tabur,6-3 6-4,0.68,0.0%,7.5%,58.5%,61.3%,45.5%,4/8,42.6%,30.9%,18.2%,22.6%,41.7%,2/5,108,0,4,53,31,22,10,1:21
+12-Jun-2023,Lyon CH,3,Clay,Q1,335,,1,7,WC,Clement Tabur,Mae Malige,6-3 6-1,1.63,6.1%,0.0%,67.3%,72.7%,68.8%,3/3,59.8%,46.5%,7.0%,42.3%,52.9%,4/8,92,3,0,49,33,16,3,1:00
 29-May-2023,M25 Carnac,3,Clay,SF,349,346,0,3,2,Antoine Hoang,Clement Tabur,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,QF,349,342,1,3,5,Clement Tabur,Mathys Erhard,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,R16,349,567,1,3,,Clement Tabur,Federico Agustin Gomez,7-6(4) 6-7(1) 6-2,,,,,,,,,,,,,,,,,,,,,

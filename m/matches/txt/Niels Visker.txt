@@ -1,4 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Jul-2023,M15 Eindhoven,3,Clay,R16,904,,0,WC,Q,Jurriaan Bol,Niels Visker,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Eindhoven,3,Clay,R32,904,655,1,WC,8,Niels Visker,Marlon Vankan,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Vejle,3,Clay,R16,905,939,0,,,Lewie Lane,Niels Visker,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Vejle,3,Clay,R32,905,763,1,,9,Niels Visker,Jonathan Mridha,5-7 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Amersfoort CH,3,Clay,R32,994,483,0,Q,Q,Elmer Moller,Niels Visker,6-2 6-1,0.45,2.5%,5.0%,65.0%,50.0%,35.7%,1/5,34.5%,25.0%,6.8%,22.6%,30.8%,0/0,84,1,2,40,26,14,3,0:46
+17-Jul-2023,Amersfoort CH,3,Clay,Q2,994,570,1,WC,,Niels Visker,Ryan Nijboer,7-6(5) 3-6 7-5,0.98,6.4%,2.4%,57.6%,61.1%,49.1%,8/13,50.0%,43.2%,0.9%,41.0%,50.0%,5/10,236,8,3,125,72,53,1,2:49
+17-Jul-2023,Amersfoort CH,3,Clay,Q1,994,316,1,WC,2,Niels Visker,Eduardo Ribeiro,6-3 7-6(13),1.11,2.5%,6.3%,60.0%,81.3%,34.4%,2/4,52.6%,41.7%,1.4%,36.7%,52.2%,3/5,152,2,5,80,48,32,1,
+3-Jul-2023,M25 The Hague,3,Clay,R32,1105,793,0,WC,,Aleksandr Braynin,Niels Visker,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Kamen,3,Clay,SF,1091,758,0,Q,,Svyatoslav Gulin,Niels Visker,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Kamen,3,Clay,QF,1091,541,1,Q,4,Niels Visker,Arthur Reymond,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Kamen,3,Clay,R16,1091,,1,Q,WC,Niels Visker,Yannik Kelm,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Kamen,3,Clay,R32,1091,592,1,Q,5,Niels Visker,Aleksandre Metreveli,0-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M15 Kalmar,3,Clay,SF,1317,491,0,Q,3,Lucas Catarina,Niels Visker,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M15 Kalmar,3,Clay,QF,1317,1159,1,Q,,Niels Visker,Lewie Lane,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M15 Kalmar,3,Clay,R16,1317,450,1,Q,2,Niels Visker,Leo Borg,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -10,7 +22,7 @@
 9-Jan-2023,M15 Doha,3,Hard,R16,1725,490,0,Q,3,Khumoyun Sultanov,Niels Visker,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Jan-2023,M15 Doha,3,Hard,R32,1725,747,1,Q,,Niels Visker,Sidane Pontjodikromo,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Aug-2022,M15 Haren,3,Clay,R32,1666,1880,0,WC,LL,Roland Stuurman,Niels Visker,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Aug-2022,M25 Oldenzaal,3,Clay,R16,1652,545,0,WC,6,Daniel Merida Aguilar ,Niels Visker,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Aug-2022,M25 Oldenzaal,3,Clay,R16,1652,545,0,WC,6,Daniel Merida Aguilar,Niels Visker,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Aug-2022,M25 Oldenzaal,3,Clay,R32,1652,,1,WC,Q,Niels Visker,Miko Wassermann,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Oct-2021,M15 Platja D'Aro,3,Clay,R32,950,530,0,Q,4,Jose Fco Vidal Azorin,Niels Visker,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Sep-2021,M25 Eupen,3,Clay,R16,943,535,0,,3,Matteo Arnaldi,Niels Visker,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,

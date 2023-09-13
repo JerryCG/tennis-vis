@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+26-Jun-2023,M15 Casablanca,3,Clay,R16,1139,717,0,WC,,Mario Gonzalez Fernandez,Walid Ahouda,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Casablanca,3,Clay,R32,1139,555,1,WC,3,Walid Ahouda,Max Alcala Gurri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Casablanca,3,Clay,QF,1424,819,0,WC,,Yassine Dlimi,Walid Ahouda,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Casablanca,3,Clay,R16,1424,1212,1,WC,LL,Walid Ahouda,Faris Zakaryia,3-6 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Casablanca,3,Clay,R32,1424,1877,1,WC,Q,Walid Ahouda,Juan Estevez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Rabat,3,Clay,SF,1582,780,0,WC,,Pedro Rodenas,Walid Ahouda,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Rabat,3,Clay,QF,1582,785,1,WC,,Walid Ahouda,Diego Augusto Barreto Sanchez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Rabat,3,Clay,R16,1582,1111,1,WC,Q,Walid Ahouda,Paulo Andre Saraiva Dos Santos,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Rabat,3,Clay,R32,1582,307,1,WC,1,Walid Ahouda,Filip Cristian Jianu,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Tanger,3,Clay,R16,1635,748,0,WC,8,Guido Ivan Justo,Walid Ahouda,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Tanger,3,Clay,R32,1635,1183,1,WC,Q,Walid Ahouda,Denis Constantin Spiridon,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Apr-2023,Marrakech,3,Clay,Q1,1615,207,0,WC,6,Dimitar Kuzmanov,Walid Ahouda,6-1 6-2,0.49,0.0%,7.3%,34.1%,35.7%,25.9%,4/10,32.2%,34.8%,2.2%,30.0%,43.8%,2/4,87,0,3,41,14,27,1,1:02
@@ -7,7 +16,7 @@
 12-Sep-2022,M15 Casablanca,3,Clay,R32,1939,733,1,,8,Walid Ahouda,Luca Tomasetto,4-6 6-4 2-1 RET,,,,,,,,,,,,,,,,,,,,,
 5-Sep-2022,M15 Casablanca,3,Clay,R32,1923,560,0,,3,David Pichler,Walid Ahouda,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Agadir,3,Clay,R16,,514,0,WC,6,Jurgen Briand,Walid Ahouda,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Agadir,3,Clay,R32,,1579,1,WC,,Walid Ahouda,Mehdi Benchakroun ,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Agadir,3,Clay,R32,,1579,1,WC,,Walid Ahouda,Mehdi Benchakroun,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Jul-2022,M15 Casablanca,3,Clay,R32,,1608,0,,,Alexandre Aubriot,Walid Ahouda,6-0 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 4-Jul-2022,M15 Casablanca,3,Clay,R32,,940,0,,PR,Lilian Marmousez,Walid Ahouda,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 30-May-2022,M15 Monastir,3,Hard,R32,,595,0,,5,Sascha Gueymard Wayenburg,Walid Ahouda,6-1 6-1,,,,,,,,,,,,,,,,,,,,,

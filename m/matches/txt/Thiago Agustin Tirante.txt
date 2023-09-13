@@ -1,9 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,153,71,0,Q,,Zhizhen Zhang,Thiago Agustin Tirante,7-6(3) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,153,31,1,Q,25,Thiago Agustin Tirante,Botic Van De Zandschulp,6-2 4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q3,153,116,1,,9,Thiago Agustin Tirante,Dominic Stricker,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,153,206,1,,,Thiago Agustin Tirante,Gauthier Onclin,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,153,136,1,,29,Thiago Agustin Tirante,Rinky Hijikata,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q3,150,128,0,,22,Dominic Stricker,Thiago Agustin Tirante,6-2 6-3,0.56,6.3%,3.2%,58.7%,73.0%,34.6%,9/12,42.5%,24.0%,10.0%,7.1%,45.5%,0/3,113,4,2,63,37,26,5,1:23
+28-Aug-2023,US Open,5,Hard,Q2,150,243,1,,,Thiago Agustin Tirante,Brandon Holt,7-6(4) 6-3,1.35,14.9%,1.5%,50.7%,73.5%,72.7%,3/4,54.4%,36.2%,5.8%,29.7%,43.8%,2/7,136,10,1,67,34,33,4,1:48
+28-Aug-2023,US Open,5,Hard,Q1,150,116,1,,15,Thiago Agustin Tirante,Luca Nardi,6-4 6-4,1.32,13.4%,0.0%,58.2%,74.4%,64.3%,5/5,53.4%,39.5%,6.2%,34.6%,48.3%,2/7,148,9,0,67,39,28,5,1:40
+14-Aug-2023,Palo Alto CH,3,Hard,R32,148,159,0,8,,Sho Shimabukuro,Thiago Agustin Tirante,6-1 6-3,0.33,6.1%,0.0%,59.2%,55.2%,50.0%,1/5,36.4%,15.4%,10.3%,10.5%,20.0%,0/1,88,3,0,49,29,20,4,0:58
+7-Aug-2023,Santo Domingo CH,3,Clay,R16,134,170,0,3,,Francisco Comesana,Thiago Agustin Tirante,6-1 6-7(5) 7-5,0.92,6.7%,4.5%,64.0%,70.2%,50.0%,4/9,47.2%,34.0%,4.7%,27.5%,53.8%,2/4,195,6,4,89,57,32,5,2:26
+7-Aug-2023,Santo Domingo CH,3,Clay,R32,134,342,1,3,,Thiago Agustin Tirante,Gustavo Heide,7-6(4) 6-4,1.35,2.9%,1.4%,62.9%,84.1%,61.5%,2/2,53.8%,32.9%,2.7%,19.5%,50.0%,1/6,143,2,1,70,44,26,2,1:57
+31-Jul-2023,Los Cabos,3,Hard,R16,136,19,0,,5,Alex De Minaur,Thiago Agustin Tirante,6-2 6-1,0.37,6.0%,2.0%,56.0%,53.6%,36.4%,4/9,35.3%,20.0%,0.0%,13.6%,30.8%,0/0,85,3,1,50,28,22,0,1:03
+31-Jul-2023,Los Cabos,3,Hard,R32,136,410,1,,Q,Thiago Agustin Tirante,Gonzalo Lama,7-6(3) 6-2,1.73,3.6%,0.0%,78.6%,72.7%,83.3%,0/1,56.9%,43.2%,4.1%,34.1%,54.5%,3/12,130,2,0,56,44,12,3,1:57
+24-Jul-2023,Hamburg,3,Clay,Q1,138,163,0,6,,Kimmer Coppejans,Thiago Agustin Tirante,6-1 7-6(4),0.71,0.0%,0.0%,77.4%,54.2%,50.0%,6/10,43.2%,33.3%,1.6%,23.8%,52.4%,2/5,125,0,0,62,48,14,1,
+17-Jul-2023,Gstaad,3,Clay,Q1,137,228,0,5,,Marco Trungelliti,Thiago Agustin Tirante,6-3 6-3,0.69,6.9%,3.4%,67.2%,59.0%,36.8%,4/8,42.6%,33.3%,8.8%,25.0%,47.6%,1/3,115,4,2,58,39,19,5,
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R16,132,280,0,4,Q,Daniel Rincon,Thiago Agustin Tirante,5-7 7-5 6-2,0.84,0.0%,3.8%,70.0%,54.9%,43.6%,10/16,46.6%,40.7%,3.7%,28.3%,56.3%,4/9,238,0,5,130,91,39,4,3:11
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R32,132,1605,1,4,WC,Thiago Agustin Tirante,Peter Buldorini,6-2 6-2,2.69,5.4%,8.1%,48.6%,88.9%,68.4%,0/1,67.5%,58.1%,0.0%,48.1%,75.0%,5/7,80,2,3,37,18,19,0,1:06
+3-Jul-2023,Milan CH,3,Clay,QF,132,150,0,4,8,Flavio Cobolli,Thiago Agustin Tirante,6-4 3-6 6-3,0.88,1.1%,3.4%,69.3%,60.7%,59.3%,7/11,48.5%,35.1%,2.6%,41.0%,28.9%,3/6,165,1,3,88,61,27,2,2:17
+3-Jul-2023,Milan CH,3,Clay,R16,132,557,1,4,,Thiago Agustin Tirante,Federico Iannaccone,6-3 6-0,1.79,6.8%,4.5%,70.5%,67.7%,53.8%,0/2,64.4%,65.1%,0.0%,58.6%,78.6%,6/7,87,3,2,44,31,13,0,1:10
+3-Jul-2023,Milan CH,3,Clay,R32,132,160,1,4,,Thiago Agustin Tirante,Mattia Bellucci,6-3 7-6(2),1.64,3.2%,1.6%,67.7%,85.7%,60.0%,0/0,55.6%,37.0%,5.5%,31.4%,42.1%,1/5,135,2,1,62,42,20,4,1:51
+3-Jul-2023,Wimbledon,5,Grass,Q1,132,216,0,24,,Gauthier Onclin,Thiago Agustin Tirante,6-2 6-0,0.37,6.1%,10.2%,67.3%,48.5%,25.0%,3/8,32.6%,21.6%,0.0%,16.0%,33.3%,0/0,86,3,5,49,33,16,0,0:54
+19-Jun-2023,Ilkley CH,3,Grass,R16,133,147,0,,SE,Arthur Cazaux,Thiago Agustin Tirante,6-1 3-1 RET,0.24,0.0%,10.3%,65.5%,31.6%,60.0%,1/4,27.6%,13.8%,13.8%,5.6%,27.3%,0/0,58,0,3,29,19,10,4,0:40
+19-Jun-2023,Ilkley CH,3,Grass,R32,133,69,1,,1,Thiago Agustin Tirante,Nuno Borges,4-6 6-3 6-4,0.89,10.8%,2.2%,69.9%,76.9%,46.4%,5/6,50.6%,28.8%,6.8%,24.1%,42.1%,2/2,166,10,2,93,65,28,5,1:51
+29-May-2023,Roland Garros,5,Clay,R64,153,71,0,Q,,Zhizhen Zhang,Thiago Agustin Tirante,7-6(3) 6-3 6-4,0.84,6.5%,1.1%,67.7%,65.1%,46.7%,3/7,46.0%,34.3%,4.8%,29.4%,43.2%,2/7,198,6,1,93,63,30,5,
+29-May-2023,Roland Garros,5,Clay,R128,153,31,1,Q,25,Thiago Agustin Tirante,Botic Van De Zandschulp,6-2 4-6 6-3 6-4,1.16,0.7%,0.7%,68.4%,58.1%,62.8%,15/19,53.9%,46.7%,2.8%,32.7%,61.5%,7/13,243,1,1,136,93,43,3,
+29-May-2023,Roland Garros,5,Clay,Q3,153,116,1,,9,Thiago Agustin Tirante,Dominic Stricker,6-3 1-6 6-1,1.13,2.7%,0.0%,61.3%,63.0%,58.6%,3/6,52.7%,43.7%,5.6%,31.6%,57.6%,4/9,146,2,0,75,46,29,4,
+29-May-2023,Roland Garros,5,Clay,Q2,153,206,1,,,Thiago Agustin Tirante,Gauthier Onclin,6-1 3-6 6-4,0.97,5.4%,1.1%,70.7%,61.5%,55.6%,7/10,50.6%,39.2%,0.0%,26.2%,56.3%,5/10,166,5,1,92,65,27,0,
+29-May-2023,Roland Garros,5,Clay,Q1,153,136,1,,29,Thiago Agustin Tirante,Rinky Hijikata,6-3 6-2,2.36,4.4%,4.4%,68.9%,87.1%,64.3%,0/0,59.8%,47.2%,1.4%,34.2%,61.8%,3/13,117,2,2,45,31,14,1,
 15-May-2023,Tunis CH,3,Clay,R16,150,232,0,5,WC,Aziz Dougaz,Thiago Agustin Tirante,6-4 6-3,0.75,3.3%,3.3%,61.7%,59.5%,34.8%,3/8,44.0%,37.5%,1.8%,25.0%,50.0%,2/6,116,2,2,60,37,23,1,1:32
 15-May-2023,Tunis CH,3,Clay,R32,150,213,1,5,Q,Thiago Agustin Tirante,Shintaro Mochizuki,6-4 6-4,1.15,0.0%,6.3%,68.3%,69.8%,40.0%,5/7,53.3%,45.6%,0.0%,44.8%,46.4%,4/12,120,0,4,63,43,20,0,1:29
 8-May-2023,Francavilla Al Mare CH,3,Clay,QF,150,205,0,2,7,Nicholas David Ionel,Thiago Agustin Tirante,6-2 3-6 6-3,0.83,1.2%,4.7%,65.9%,66.1%,24.1%,11/17,46.1%,40.2%,1.2%,37.3%,53.3%,4/11,167,1,4,85,56,29,1,2:24

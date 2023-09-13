@@ -1,6 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-29-May-2023,Roland Garros,5,Clay,R64,24,94,0,19,,Juan Pablo Varillas,Roberto Bautista Agut,1-6 4-6 6-3 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,R128,24,54,1,19,,Roberto Bautista Agut,Yibing Wu,7-6(4) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Gstaad,3,Clay,R16,25,90,0,1,,Pedro Cachin,Roberto Bautista Agut,7-6(4) 7-6(3),1.03,3.9%,2.6%,68.4%,67.3%,66.7%,0/1,48.8%,34.0%,7.4%,27.0%,48.4%,1/6,170,3,2,76,52,24,7,2:10
+3-Jul-2023,Wimbledon,5,Grass,R128,23,92,0,20,,Roman Safiullin,Roberto Bautista Agut,2-6 7-6(7) 6-7(4) 6-4 7-5,0.92,3.3%,1.6%,67.9%,69.6%,52.5%,9/13,49.2%,32.9%,10.0%,26.4%,45.0%,4/9,354,6,3,184,125,59,17,4:03
+19-Jun-2023,Halle,3,Grass,SF,23,7,0,8,3,Andrey Rublev,Roberto Bautista Agut,6-3 6-4,0.82,4.3%,0.0%,59.4%,63.4%,42.9%,8/12,45.7%,36.6%,16.9%,19.5%,60.0%,1/6,140,3,0,69,41,28,12,1:41
+19-Jun-2023,Halle,3,Grass,QF,23,3,1,8,1,Roberto Bautista Agut,Daniil Medvedev,7-5 7-6(3),1.48,0.0%,1.4%,73.2%,78.8%,63.2%,1/2,54.1%,37.5%,13.6%,28.3%,57.1%,2/7,159,0,1,71,52,19,12,1:53
+19-Jun-2023,Halle,3,Grass,R16,23,54,1,8,,Roberto Bautista Agut,Brandon Nakashima,7-5 7-6(2),1.33,7.1%,4.3%,62.9%,77.3%,61.5%,0/1,53.2%,38.1%,9.5%,25.0%,59.4%,2/10,154,5,3,70,44,26,8,1:55
+19-Jun-2023,Halle,3,Grass,R32,23,128,1,8,LL,Roberto Bautista Agut,Andrea Vavassori,6-3 6-4,2.99,0.0%,0.0%,73.9%,91.2%,75.0%,0/0,60.0%,39.0%,15.3%,31.4%,50.0%,2/5,105,0,0,46,34,12,9,1:14
+29-May-2023,Roland Garros,5,Clay,R64,24,94,0,19,,Juan Pablo Varillas,Roberto Bautista Agut,1-6 4-6 6-3 6-1 6-1,0.88,2.3%,2.3%,69.0%,64.0%,30.0%,11/19,46.6%,40.8%,5.3%,29.6%,53.5%,5/15,281,3,3,129,89,40,8,
+29-May-2023,Roland Garros,5,Clay,R128,24,54,1,19,,Roberto Bautista Agut,Yibing Wu,7-6(4) 6-1 6-1,1.69,0.0%,2.8%,44.4%,81.3%,60.0%,3/5,58.6%,51.8%,7.0%,42.0%,66.7%,7/20,186,0,2,72,32,40,8,
 8-May-2023,Rome Masters,3,Clay,R64,25,83,0,21,,Marco Cecchinato,Roberto Bautista Agut,6-2 6-2,0.66,0.0%,0.0%,70.8%,58.8%,42.9%,2/6,41.3%,30.4%,3.6%,22.6%,40.0%,0/7,104,0,0,48,34,14,2,1:16
 24-Apr-2023,Madrid Masters,3,Clay,R32,25,12,0,20,10,Karen Khachanov,Roberto Bautista Agut,7-5 4-6 6-3,0.79,2.6%,1.7%,63.8%,68.9%,42.9%,13/16,47.3%,31.9%,12.1%,26.7%,41.9%,2/3,207,3,2,116,74,42,11,2:55
 24-Apr-2023,Madrid Masters,3,Clay,R64,25,66,1,20,,Roberto Bautista Agut,Quentin Halys,4-6 7-6(5) 6-3,1.20,7.5%,1.1%,57.0%,71.7%,75.0%,3/4,51.5%,32.4%,14.3%,17.9%,49.0%,2/6,198,7,1,93,53,40,15,2:26

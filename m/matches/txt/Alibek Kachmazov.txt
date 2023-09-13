@@ -1,6 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,Q2,300,276,0,7,4,Lukas Neumayer,Alibek Kachmazov,6-4 6-2,0.72,4.5%,9.1%,45.5%,60.0%,41.7%,2/6,43.1%,35.9%,4.7%,34.2%,38.5%,1/5,130,3,6,66,30,36,3,1:35
-11-Jun-2023,Bratislava CH,3,Clay,Q1,300,454,1,7,,Alibek Kachmazov,Sandro Kopp,4-6 7-6(6) 7-5,0.89,6.9%,4.9%,52.0%,79.2%,57.1%,4/6,48.5%,28.0%,5.0%,22.7%,38.2%,2/4,202,7,5,102,53,49,5,2:34
+10-Sep-2023,Guangzhou CH,3,Hard,R32,324,610,1,,WC,Alibek Kachmazov,Zhe Li,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,Porto CH,3,Hard,R16,327,352,0,,WC,Joao Sousa,Alibek Kachmazov,6-2 6-2,0.42,2.0%,9.8%,52.9%,70.4%,33.3%,1/5,38.5%,20.0%,12.5%,17.4%,23.5%,0/0,91,1,5,51,27,24,5,0:59
+31-Jul-2023,Porto CH,3,Hard,R32,327,420,1,,Q,Alibek Kachmazov,Kenny De Schepper,6-4 6-4,1.17,6.5%,3.2%,51.6%,75.0%,56.7%,5/6,52.8%,39.7%,7.9%,35.7%,47.6%,3/5,125,4,2,62,32,30,5,1:25
+24-Jul-2023,Segovia CH,3,Hard,Q2,309,530,0,1,11,Inaki Montes De La Torre,Alibek Kachmazov,6-2 6-3,0.69,2.6%,5.1%,46.2%,63.9%,28.6%,8/14,42.4%,38.3%,2.1%,27.6%,55.6%,2/7,125,2,4,78,36,42,1,1:38
+17-Jul-2023,Pozoblanco CH,3,Hard,R16,309,135,0,,1,Hugo Grenier,Alibek Kachmazov,7-6(2) 6-3,0.87,1.6%,3.2%,55.6%,60.0%,57.1%,0/2,45.6%,35.7%,8.3%,25.5%,51.5%,1/4,147,1,2,63,35,28,7,1:59
+17-Jul-2023,Pozoblanco CH,3,Hard,R32,309,314,1,,Q,Alibek Kachmazov,Benjamin Lock,7-6(1) 7-5,1.48,15.4%,4.6%,61.5%,80.0%,48.0%,1/4,57.5%,47.8%,5.8%,45.3%,56.3%,4/8,134,10,3,65,40,25,4,1:56
+10-Jul-2023,M25 Roda de Bara,3,Hard,R16,304,566,0,3,,Felix Gill,Alibek Kachmazov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Roda de Bara,3,Hard,R32,304,,1,3,,Alibek Kachmazov,Coleman Wong,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,Modena CH,3,Clay,R32,299,271,0,Q,,Daniel Michalski,Alibek Kachmazov,6-4 6-0,0.47,3.3%,1.6%,55.7%,61.8%,40.7%,6/10,39.1%,22.4%,12.2%,13.3%,36.8%,0/5,110,2,1,61,34,27,6,1:36
+26-Jun-2023,Modena CH,3,Clay,Q2,299,358,1,1,11,Alibek Kachmazov,Marius Copil,7-6(8) 7-6(5),1.10,2.5%,3.7%,67.9%,72.7%,53.8%,1/3,51.2%,36.8%,11.5%,17.5%,53.2%,2/8,168,2,3,81,55,26,10,2:21
+26-Jun-2023,Modena CH,3,Clay,Q1,299,432,1,1,,Alibek Kachmazov,Giovanni Oradini,6-3 6-7(3) 7-5,1.05,1.7%,5.0%,50.8%,68.9%,59.3%,5/8,52.3%,37.8%,1.0%,30.2%,51.4%,5/6,218,2,6,120,61,59,1,3:22
+19-Jun-2023,M25 Poprad,3,Clay,R32,294,1155,0,2,WC,Milos Karol,Alibek Kachmazov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Bratislava CH,3,Clay,Q2,300,276,0,7,4,Lukas Neumayer,Alibek Kachmazov,6-4 6-2,0.72,4.5%,9.1%,45.5%,60.0%,41.7%,2/6,43.1%,35.9%,4.7%,34.2%,38.5%,1/5,130,3,6,66,30,36,3,1:35
+12-Jun-2023,Bratislava CH,3,Clay,Q1,300,454,1,7,,Alibek Kachmazov,Sandro Kopp,4-6 7-6(6) 7-5,0.89,6.9%,4.9%,52.0%,79.2%,57.1%,4/6,48.5%,28.0%,5.0%,22.7%,38.2%,2/4,202,7,5,102,53,49,5,2:34
 5-Jun-2023,M25 Cordoba,3,Clay,R32,331,864,0,5,WC,Martin Landaluce,Alibek Kachmazov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 La Nucia,3,Clay,F,331,431,1,2,4,Alibek Kachmazov,Carlos Sanchez Jover,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 La Nucia,3,Clay,SF,331,509,1,2,8,Alibek Kachmazov,Daniel Merida Aguilar,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -76,7 +88,7 @@
 4-Jul-2022,Porto CH,3,Hard,Q2,370,429,0,,,Omar Jasika,Alibek Kachmazov,6-2 6-1,0.54,5.6%,2.8%,47.2%,52.9%,15.8%,2/8,34.9%,36.2%,8.5%,31.4%,50.0%,2/6,83,2,1,36,17,19,4,1:01
 4-Jul-2022,Porto CH,3,Hard,Q1,370,648,1,,,Alibek Kachmazov,Marco Brugnerotto,6-4 6-2,1.39,5.2%,5.2%,48.3%,60.7%,60.0%,3/5,57.6%,55.0%,6.7%,52.5%,60.0%,5/7,118,3,3,58,28,30,4,1:31
 27-Jun-2022,Malaga CH,3,Hard,R16,370,445,0,Q,WC,Alberto Barroso Campos,Alibek Kachmazov,6-7(3) 6-1 6-2,0.77,3.7%,5.6%,61.1%,51.5%,42.9%,6/15,44.6%,39.7%,10.3%,37.0%,45.8%,4/8,186,4,6,108,66,42,8,
-27-Jun-2022,Malaga CH,3,Hard,R32,370,555,1,Q,WC,Alibek Kachmazov,Daniel Merida Aguilar ,6-3 3-6 6-4,1.09,2.6%,7.9%,53.9%,73.2%,54.3%,1/4,50.9%,38.8%,7.1%,21.1%,53.2%,4/9,161,2,6,76,41,35,6,
+27-Jun-2022,Malaga CH,3,Hard,R32,370,555,1,Q,WC,Alibek Kachmazov,Daniel Merida Aguilar,6-3 3-6 6-4,1.09,2.6%,7.9%,53.9%,73.2%,54.3%,1/4,50.9%,38.8%,7.1%,21.1%,53.2%,4/9,161,2,6,76,41,35,6,
 27-Jun-2022,Malaga CH,3,Hard,Q2,370,606,1,5,,Alibek Kachmazov,Federico Zeballos,6-0 7-6(4),1.37,3.1%,9.2%,58.5%,65.8%,51.9%,4/6,57.4%,54.7%,0.0%,54.1%,55.6%,5/8,129,2,6,65,38,27,0,
 27-Jun-2022,Malaga CH,3,Hard,Q1,370,646,1,5,WC,Alibek Kachmazov,Adria Soriano Barrera,7-5 6-4,1.10,7.5%,4.5%,56.7%,71.1%,55.2%,4/6,52.3%,39.3%,9.8%,18.9%,70.8%,4/8,128,5,3,67,38,29,6,1:43
 20-Jun-2022,Oeiras CH,3,Clay,Q2,372,365,0,10,4,Lucas Gerch,Alibek Kachmazov,6-1 6-3,0.50,0.0%,5.3%,60.5%,65.2%,13.3%,0/4,35.3%,27.7%,6.4%,24.1%,33.3%,0/0,85,0,2,38,23,15,3,1:04

@@ -1,5 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Palmas Del Mar CH,3,Hard,Q1,651,391,0,,7,Strong Kirchheimer,Gage Brymer,6-4 6-4,0.87,5.5%,3.6%,72.7%,77.5%,40.0%,4/6,47.0%,28.3%,3.3%,25.0%,35.0%,0/0,115,3,2,55,40,15,2,1:29
+14-Aug-2023,Palo Alto CH,3,Hard,Q2,784,363,0,,6,Nick Chappell,Gage Brymer,6-4 6-1,0.36,2.9%,4.4%,61.8%,50.0%,53.8%,5/9,38.9%,17.5%,5.0%,11.5%,28.6%,0/0,108,2,3,68,42,26,2,1:26
+14-Aug-2023,Palo Alto CH,3,Hard,Q1,784,468,1,,10,Gage Brymer,Nathan Ponwith,1-6 6-1 6-1,1.53,5.9%,0.0%,68.6%,68.6%,75.0%,4/6,55.0%,44.9%,9.0%,44.2%,45.7%,5/10,129,3,0,51,35,16,7,1:40
+7-Aug-2023,M25 Southaven,3,Hard,R16,783,1331,0,8,Q,Keshav Chopra,Gage Brymer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Southaven,3,Hard,R32,783,1536,1,8,Q,Gage Brymer,David Saye,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,Washington,3,Hard,Q1,747,149,0,,1,Juncheng Shang,Gage Brymer,6-3 6-2,0.55,0.0%,2.1%,58.3%,39.3%,55.0%,4/9,38.0%,29.5%,11.4%,29.2%,30.0%,2/3,92,0,1,48,28,20,5,
+24-Jul-2023,M25 Edwardsville,3,Hard,R32,744,557,0,,5,Jaimee Floyd Angele,Gage Brymer,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Newport,3,Grass,Q1,730,322,0,WC,5,Yunseong Chung,Gage Brymer,6-3 7-6(8),0.76,2.6%,3.8%,69.2%,59.3%,54.2%,5/8,45.3%,31.9%,4.2%,19.1%,56.0%,1/3,150,2,3,78,54,24,3,1:36
+10-Jul-2023,M15 Lakewood,3,Hard,R16,,,0,4,,Derek Pham,Gage Brymer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M15 Lakewood,3,Hard,R32,,,1,4,,Gage Brymer,Isaiah Strode,4-6 7-6(12) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Lakewood,3,Hard,R16,667,600,0,8,Q,Keegan Smith,Gage Brymer,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Lakewood,3,Hard,R32,667,1416,1,8,JR,Gage Brymer,Jaden Weekes,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Irvine,3,Hard,R16,668,815,0,5,,Lorenzo Claverie,Gage Brymer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Irvine,3,Hard,R32,668,894,1,5,,Gage Brymer,Alexander Kotzen,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Los Angeles,3,Hard,R16,662,919,0,5,,Arvid Nordquist,Gage Brymer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Los Angeles,3,Hard,R32,662,,1,5,WC,Gage Brymer,Ethan Schiffman,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Palmas Del Mar CH,3,Hard,Q1,651,391,0,,7,Strong Kirchheimer,Gage Brymer,6-4 6-4,0.87,5.5%,3.6%,72.7%,77.5%,40.0%,4/6,47.0%,28.3%,3.3%,25.0%,35.0%,0/0,115,3,2,55,40,15,2,1:29
 5-Jun-2023,M15 San Diego,3,Hard,R32,532,811,0,4,,Mitchell Harper,Gage Brymer,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M15 Rancho Santa Fe CA,3,Hard,R32,532,891,0,5,,Juan Carlos Aguilar,Gage Brymer,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Monastir,3,Hard,R32,529,675,0,8,,Ryuki Matsuda,Gage Brymer,6-2 6-7(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
@@ -86,7 +101,7 @@
 4-Apr-2022,Salinas CH,3,Hard,Q1,537,,1,6,WC,Gage Brymer,Patricio Alvarado,6-2 6-1,1.98,0.0%,7.9%,60.5%,78.3%,60.0%,2/3,62.6%,57.4%,0.0%,54.5%,60.7%,6/14,99,0,3,38,23,15,0,1:17
 21-Mar-2022,M25 Calabasas CA,3,Hard,R32,527,371,0,,3,Zachary Svajda,Gage Brymer,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M25 Bakersfield CA,3,Hard,R16,547,278,0,,1,Prajnesh Gunneswaran,Gage Brymer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-14-Mar-2022,M25 Bakersfield CA,3,Hard,R32,547,,1,,,Gage Brymer,Jisung Nam,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2022,M25 Bakersfield CA,3,Hard,R32,547,460,1,,,Gage Brymer,Ji Sung Nam,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Mar-2022,Monterrey CH,3,Hard,Q2,547,664,0,9,,Evan Zhu,Gage Brymer,2-6 6-4 6-1,0.94,0.0%,1.3%,66.3%,60.4%,51.9%,4/8,48.0%,40.0%,14.7%,26.8%,59.0%,3/12,175,0,1,80,53,27,14,1:56
 7-Mar-2022,Monterrey CH,3,Hard,Q1,547,672,1,9,,Gage Brymer,Alexander Cozbinov,6-4 3-6 6-1,1.05,2.0%,3.0%,74.0%,67.6%,53.8%,9/10,52.5%,38.0%,8.9%,21.6%,67.9%,3/6,179,2,3,100,74,26,7,2:06
 28-Feb-2022,M25 Santo Domingo,3,Hard,R16,546,388,0,,5,Oliver Crawford,Gage Brymer,6-0 6-1,,,,,,,,,,,,,,,,,,,,,

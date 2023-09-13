@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Perugia CH,3,Clay,Q2,292,323,0,4,7,Alexander Weis,Alvaro Lopez San Martin,3-6 7-6(6) 7-6(5),1.14,2.9%,1.9%,67.6%,71.8%,58.8%,2/4,51.3%,37.0%,9.2%,32.5%,46.2%,3/15,224,3,2,105,71,34,11,3:07
+28-Aug-2023,M25 Oviedo,3,Clay,R32,342,1408,0,1,Q,Sergio Callejon Hernando,Alvaro Lopez San Martin,3-2 RET,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,QF,341,534,0,1,6,Imanol Lopez Morillo,Alvaro Lopez San Martin,7-6(2) 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R16,341,1857,1,1,WC,Alvaro Lopez San Martin,Alejandro Juan Mano,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Santander,3,Clay,R32,341,1165,1,1,,Alvaro Lopez San Martin,Tomas Curras Abasolo,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,Cordenons CH,3,Clay,R32,317,390,0,,WC,Enrico Dalla Valle,Alvaro Lopez San Martin,6-2 6-4,0.80,1.5%,4.6%,60.0%,69.2%,30.8%,5/9,45.4%,36.9%,15.4%,29.5%,52.4%,1/5,130,1,3,65,39,26,10,1:38
+10-Jul-2023,Braunschweig CH,3,Clay,Q1,285,567,0,2,Alt,Yanaki Milev,Alvaro Lopez San Martin,3-6 7-6(5) 6-4,1.14,4.3%,3.3%,62.0%,77.2%,65.7%,0/1,50.8%,31.1%,6.8%,31.6%,30.4%,1/8,195,4,3,92,57,35,7,
+3-Jul-2023,Troyes CH,3,Clay,R32,285,374,0,,WC,Mathys Erhard,Alvaro Lopez San Martin,2-6 6-1 6-4,0.95,1.4%,2.7%,63.5%,63.8%,40.7%,3/8,48.4%,42.2%,2.4%,30.6%,58.8%,4/11,157,1,2,74,47,27,2,2:00
+26-Jun-2023,M25 Bakio,3,Hard,R16,281,,0,2,WC,Antonio Prat,Alvaro Lopez San Martin,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bakio,3,Hard,R32,281,,1,2,Q,Alvaro Lopez San Martin,Illya Maksymchuk,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Blois CH,3,Clay,R32,280,371,0,,LL,Calvin Hemery,Alvaro Lopez San Martin,6-4 6-3,0.73,4.9%,3.3%,54.1%,63.6%,60.7%,4/6,44.4%,27.7%,12.3%,15.0%,48.0%,0/3,126,3,2,61,33,28,8,1:33
+12-Jun-2023,Perugia CH,3,Clay,R16,292,113,0,LL,7,Fabian Marozsan,Alvaro Lopez San Martin,6-2 6-3,0.70,4.3%,2.2%,67.4%,51.6%,46.7%,5/9,41.3%,34.9%,12.7%,27.7%,56.3%,1/6,109,2,1,46,31,15,8,1:04
+12-Jun-2023,Perugia CH,3,Clay,R32,292,231,1,LL,,Alvaro Lopez San Martin,Marco Trungelliti,6-4 4-6 7-6(6),1.10,9.6%,0.0%,66.3%,72.5%,48.6%,8/11,51.1%,39.1%,3.5%,35.2%,45.5%,3/11,219,10,0,104,69,35,4,2:39
+12-Jun-2023,Perugia CH,3,Clay,Q2,292,323,0,4,7,Alexander Weis,Alvaro Lopez San Martin,3-6 7-6(6) 7-6(5),1.14,2.9%,1.9%,67.6%,71.8%,58.8%,2/4,51.3%,37.0%,9.2%,32.5%,46.2%,3/15,224,3,2,105,71,34,11,3:07
 5-Jun-2023,M25 Cordoba,3,Clay,QF,292,864,0,1,WC,Martin Landaluce,Alvaro Lopez San Martin,3-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Cordoba,3,Clay,R16,292,691,1,1,WC,Alvaro Lopez San Martin,Benjamin Winter Lopez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Cordoba,3,Clay,R32,292,451,1,1,,Alvaro Lopez San Martin,Gonzalo Lama,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
@@ -81,7 +93,7 @@
 22-Aug-2022,M25 Santander,3,Clay,R32,444,1557,1,4,Q,Alvaro Lopez San Martin,Matt Ponchet,6-7(6) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Agadir,3,Clay,F,470,999,0,4,,Emilien Voisin,Alvaro Lopez San Martin,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Agadir,3,Clay,SF,470,514,1,4,6,Alvaro Lopez San Martin,Jurgen Briand,6-4 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Agadir,3,Clay,QF,470,,1,4,7,Alvaro Lopez San Martin,Tommaso Compagnucci ,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Aug-2022,M25 Agadir,3,Clay,QF,470,,1,4,7,Alvaro Lopez San Martin,Tommaso Compagnucci,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Agadir,3,Clay,R16,470,705,1,4,,Alvaro Lopez San Martin,Adam Moundir,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Agadir,3,Clay,R32,470,1174,1,4,,Alvaro Lopez San Martin,Nico Hornitschek,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M25 EschAlzette,3,Clay,QF,466,297,0,,3,Nick Hardt,Alvaro Lopez San Martin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -109,7 +121,7 @@
 18-Apr-2022,M25 Angers,3,Clay,R32,422,891,1,6,Q,Alvaro Lopez San Martin,Hugo Pontico,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Mar-2022,Marbella CH,3,Clay,Q2,399,269,0,8,1,Lukas Klein,Alvaro Lopez San Martin,6-3 6-4,0.87,1.8%,1.8%,68.4%,64.1%,61.1%,5/7,46.0%,31.9%,8.7%,27.9%,38.5%,0/5,126,1,1,57,39,18,6,1:19
 28-Mar-2022,Marbella CH,3,Clay,Q1,399,610,1,8,Alt,Alvaro Lopez San Martin,Sadio Doumbia,6-3 7-5,1.29,0.0%,1.4%,61.1%,68.2%,50.0%,3/6,55.4%,50.0%,3.9%,47.4%,52.6%,5/5,148,0,1,72,44,28,3,1:38
-21-Mar-2022,M15 Palmanova,3,Clay,R32,399,,0,1,,Peter Benjamin Privara ,Alvaro Lopez San Martin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-2022,M15 Palmanova,3,Clay,R32,399,,0,1,,Peter Benjamin Privara,Alvaro Lopez San Martin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M15 Palmanova,3,Clay,R16,370,982,0,1,Q,Mirko Martinez,Alvaro Lopez San Martin,2-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M15 Palmanova,3,Clay,R32,370,,1,1,WC,Alvaro Lopez San Martin,Dorian Tremblay,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-2021,Losinj CH,3,Clay,R32,341,104,0,Alt,1,Marco Cecchinato,Alvaro Lopez San Martin,7-6(5) 7-6(2),1.03,2.6%,1.3%,72.4%,63.6%,57.1%,2/4,49.4%,39.1%,2.2%,38.3%,40.6%,2/10,168,2,1,76,55,21,2,1:54

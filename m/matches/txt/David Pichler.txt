@@ -1,5 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Bratislava CH,3,Clay,Q1,489,420,0,,6,Daniel Dutra Da Silva,David Pichler,2-6 6-2 6-2,0.84,1.3%,6.5%,53.2%,53.7%,41.7%,6/13,45.9%,43.8%,5.0%,41.3%,47.1%,5/10,157,1,5,77,41,36,4,1:59
+3-Sep-2023,Tulln CH,3,Clay,Q2,572,406,0,,4,Daniel Masur,David Pichler,6-2 6-7(4) 6-4,0.81,6.4%,4.3%,59.6%,66.1%,42.1%,3/8,45.6%,35.4%,10.1%,24.3%,62.1%,2/2,193,6,4,94,56,38,10,2:14
+3-Sep-2023,Tulln CH,3,Clay,Q1,572,504,1,,8,David Pichler,Kirill Kivattsev,7-6(3) 4-6 6-3,1.10,10.4%,3.1%,60.4%,86.2%,55.3%,2/3,52.5%,28.7%,18.4%,21.1%,43.3%,1/4,183,10,3,96,58,38,16,2:06
+21-Aug-2023,Augsburg CH,3,Clay,R32,582,254,0,Q,4,Steven Diez,David Pichler,6-3 6-7(8) 6-1,0.77,2.2%,1.1%,61.1%,61.8%,51.4%,8/12,44.3%,32.4%,2.0%,26.2%,41.5%,1/5,192,2,1,90,55,35,2,2:55
+21-Aug-2023,Augsburg CH,3,Clay,Q2,582,367,1,9,1,David Pichler,Henrique Rocha,7-6(5) 6-3,1.23,5.6%,4.2%,62.0%,75.0%,59.3%,1/2,54.5%,38.1%,7.9%,41.5%,31.8%,2/2,134,4,3,71,44,27,5,1:33
+21-Aug-2023,Augsburg CH,3,Clay,Q1,582,,1,9,Alt,David Pichler,Vadym Ursu,6-0 4-6 7-5,1.22,2.0%,6.1%,52.0%,66.7%,44.7%,12/17,54.9%,53.6%,3.6%,39.1%,71.1%,8/13,182,2,6,98,51,47,3,2:19
+17-Jul-2023,M25 EschAlzette,3,Clay,QF,514,742,0,3,8,Chris Rodesch,David Pichler,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 EschAlzette,3,Clay,R16,514,1187,1,3,Q,David Pichler,Guy Den Heijer,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M25 EschAlzette,3,Clay,R32,514,1063,1,3,,David Pichler,Paul Woerner,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,Iasi CH,3,Clay,Q2,494,339,0,10,1,Kyrian Jacquet,David Pichler,6-4 6-2,0.62,0.0%,3.8%,47.2%,56.0%,50.0%,4/8,41.6%,29.2%,12.5%,16.7%,50.0%,1/1,101,0,2,53,25,28,6,1:08
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,R32,484,,0,8,WC,Tiago Pires,David Pichler,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Poznan CH,3,Clay,Q1,488,210,0,,1,Emilio Nava,David Pichler,7-6(3) 4-6 6-2,0.89,4.0%,4.0%,56.6%,75.0%,53.5%,3/5,48.0%,30.7%,7.9%,19.4%,52.9%,1/7,200,4,4,99,56,43,8,2:03
+12-Jun-2023,Bratislava CH,3,Clay,Q1,489,420,0,,6,Daniel Dutra Da Silva,David Pichler,2-6 6-2 6-2,0.84,1.3%,6.5%,53.2%,53.7%,41.7%,6/13,45.9%,43.8%,5.0%,41.3%,47.1%,5/10,157,1,5,77,41,36,4,1:59
 5-Jun-2023,M25 Kursumlijska Banja,3,Clay,R16,483,600,0,8,,Sebastian Prechtel,David Pichler,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Kursumlijska Banja,3,Clay,R32,483,,1,8,WC,David Pichler,Ognjen Milic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Rome,3,Clay,R32,483,571,0,,,Federico Iannaccone,David Pichler,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -33,7 +44,7 @@
 21-Nov-2022,M15 Antalya,3,Clay,R32,487,987,0,6,,Niccolo Catini,David Pichler,1-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Monastir,3,Hard,R16,494,736,0,2,,Xiaofei Wang,David Pichler,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Monastir,3,Hard,R32,494,752,1,2,,David Pichler,Mathieu Scaglia,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
-24-Oct-2022,M15 Monastir,3,Hard,R16,498,1330,0,1,,Peter Benjamin Privara ,David Pichler,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2022,M15 Monastir,3,Hard,R16,498,1330,0,1,,Peter Benjamin Privara,David Pichler,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M15 Monastir,3,Hard,R32,498,,1,1,WC,David Pichler,Ajay Pruthvi Nemakal,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M15 Heraklion,3,Hard,QF,552,806,0,2,8,Sidane Pontjodikromo,David Pichler,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,M15 Heraklion,3,Hard,R16,552,,1,2,Q,David Pichler,Ricardo Batista,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -56,7 +67,7 @@
 29-Aug-2022,Como CH,3,Clay,Q1,560,349,0,Alt,5,Marius Copil,David Pichler,6-4 7-5,0.93,1.5%,4.5%,46.3%,74.2%,50.0%,2/5,47.9%,36.0%,9.3%,22.0%,52.9%,1/7,142,1,3,67,31,36,7,1:50
 22-Aug-2022,M15 Bad Waltersdorf,3,Clay,R32,562,1860,0,4,WC,Marko Andrejic,David Pichler,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2022,M15 Eindhoven,3,Clay,SF,676,503,0,7,2,Juan Bautista Otegui,David Pichler,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Aug-2022,M15 Eindhoven,3,Clay,QF,676,539,1,7,3,David Pichler,Daniel Merida Aguilar ,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Aug-2022,M15 Eindhoven,3,Clay,QF,676,539,1,7,3,David Pichler,Daniel Merida Aguilar,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
 15-Aug-2022,M15 Eindhoven,3,Clay,R16,676,1299,1,7,Q,David Pichler,Marcel Zielinski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2022,M15 Eindhoven,3,Clay,R32,676,,1,7,LL,David Pichler,Maximilian Oezcelik,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Aug-2022,M25 Ystad,3,Clay,F,610,445,0,8,3,Mathys Erhard,David Pichler,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,

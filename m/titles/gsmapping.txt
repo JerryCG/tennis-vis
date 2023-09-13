@@ -24,6 +24,7 @@ Wimbledon,Boris Becker,3
 US Open,Boris Becker,1
 Australian Open,Boris Becker,2
 Australian Open,Brian Teacher,1
+Wimbledon,Carlos Alcaraz,1
 US Open,Carlos Alcaraz,1
 Roland Garros,Carlos Moya,1
 Wimbledon,Charles Mckinley,1
@@ -96,9 +97,9 @@ Wimbledon,Neale Fraser,1
 US Open,Neale Fraser,2
 Roland Garros,Nicola Pietrangeli,2
 Wimbledon,Novak Djokovic,7
-US Open,Novak Djokovic,3
+US Open,Novak Djokovic,4
 Australian Open,Novak Djokovic,10
-Roland Garros,Novak Djokovic,2
+Roland Garros,Novak Djokovic,3
 Wimbledon,Pat Cash,1
 US Open,Patrick Rafter,2
 Wimbledon,Pete Sampras,7
@@ -126,8 +127,6 @@ US Open,Roy Emerson,2
 Australian Open,Roy Emerson,6
 Roland Garros,Roy Emerson,2
 Roland Garros,Sergi Bruguera,2
-Wimbledon,Stan Smith,1
-US Open,Stan Smith,1
 US Open,Stan Wawrinka,1
 Australian Open,Stan Wawrinka,1
 Roland Garros,Stan Wawrinka,1

@@ -1,4 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Genoa CH,3,Clay,Q1,566,696,0,12,WC,Luca Castagnola,Gabriele Piraino,6-3 5-7 6-1,0.89,4.8%,6.0%,57.8%,62.5%,42.9%,5/12,47.3%,40.7%,2.3%,38.3%,43.6%,4/7,169,4,5,83,48,35,2,2:34
+28-Aug-2023,M15 Forli,3,Clay,R16,566,791,0,3,,Luigi Sorrentino,Gabriele Piraino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Forli,3,Clay,R32,566,897,1,3,,Gabriele Piraino,Alexandr Binda,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Prague CH,3,Clay,Q1,563,663,0,7,,Niki Kaliyanda Poonacha,Gabriele Piraino,7-5 6-3,0.73,0.0%,9.5%,61.9%,66.7%,37.5%,5/9,44.0%,32.3%,1.6%,33.3%,30.0%,2/3,125,0,6,63,39,24,1,1:29
+14-Aug-2023,Todi CH,3,Clay,Q1,501,395,0,,4,Miljan Zekic,Gabriele Piraino,7-5 7-5,0.82,2.6%,2.6%,66.2%,54.9%,50.0%,4/9,46.0%,38.4%,2.7%,23.8%,58.1%,3/10,150,2,2,77,51,26,2,2:03
+31-Jul-2023,San Marino CH,3,Clay,Q1,502,421,0,,8,Enrico Dalla Valle,Gabriele Piraino,7-5 6-1,0.78,0.0%,7.1%,48.2%,48.1%,44.8%,4/10,43.7%,41.8%,1.3%,34.6%,55.6%,3/9,135,0,4,56,27,29,1,2:01
+24-Jul-2023,M15 Perugia,3,Clay,QF,496,907,0,2,,Manuel Mazza,Gabriele Piraino,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Perugia,3,Clay,R16,496,1128,1,2,,Gabriele Piraino,Niccolo Catini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Perugia,3,Clay,R32,496,,1,2,Q,Gabriele Piraino,Luciano Carraro,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,Trieste CH,3,Clay,R32,494,172,0,WC,8,Zdenek Kolar,Gabriele Piraino,7-6(5) 2-6 6-3,1.01,1.1%,3.4%,44.9%,65.0%,51.0%,4/10,49.7%,43.3%,2.9%,35.7%,52.1%,6/17,193,1,3,89,40,49,3,2:44
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R32,491,204,0,LL,,Ricardas Berankis,Gabriele Piraino,7-6(3) 6-4,0.83,2.6%,5.3%,56.6%,69.8%,36.4%,4/7,46.3%,37.0%,2.7%,29.0%,42.9%,2/3,149,2,4,76,43,33,2,2:08
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q2,491,346,0,,4,Dmitry Popko,Gabriele Piraino,6-3 6-2,0.81,4.3%,10.6%,57.4%,70.4%,30.0%,1/5,43.4%,37.8%,4.9%,35.4%,41.2%,1/10,129,2,5,47,27,20,4,1:43
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q1,491,480,1,,11,Gabriele Piraino,Lorenzo Rottoli,6-1 6-3,1.80,2.2%,10.9%,60.9%,92.9%,44.4%,1/1,60.0%,46.9%,4.1%,34.6%,60.9%,4/7,95,1,5,46,28,18,2,
+3-Jul-2023,Milan CH,3,Clay,Q1,491,373,0,,10,Alex Marti Pujolras,Gabriele Piraino,6-2 6-4,0.79,1.9%,5.6%,59.3%,59.4%,31.8%,3/8,44.3%,41.0%,0.0%,29.7%,58.3%,2/5,115,1,3,54,32,22,0,1:35
+26-Jun-2023,Modena CH,3,Clay,Q1,482,311,0,WC,3,Mathias Bourgue,Gabriele Piraino,6-3 6-2,0.36,1.8%,3.5%,42.1%,75.0%,42.4%,9/12,38.6%,15.9%,11.4%,11.8%,30.0%,0/1,101,1,2,57,24,33,5,1:21
+19-Jun-2023,M25 Cattolica,3,Clay,R16,484,540,0,5,,Enrico Dalla Valle,Gabriele Piraino,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,R32,484,,1,5,Q,Gabriele Piraino,Christian Fellin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,Vicenza CH,3,Clay,R32,482,271,0,WC,Q,Stefano Travaglia,Gabriele Piraino,6-0 6-3,0.44,0.0%,6.4%,59.6%,53.6%,26.3%,3/8,34.5%,25.0%,2.5%,17.4%,35.3%,0/1,87,0,3,47,28,19,1,1:10
 15-May-2023,Turin CH,3,Clay,R32,482,168,0,WC,Alt,Riccardo Bonadio,Gabriele Piraino,6-4 6-3,0.84,3.4%,5.1%,52.5%,58.1%,42.9%,10/15,46.2%,41.4%,3.4%,29.4%,58.3%,3/4,117,2,3,59,31,28,2,1:33
 8-May-2023,Francavilla Al Mare CH,3,Clay,R32,482,265,0,WC,Alt,Gianluca Mager,Gabriele Piraino,7-6(2) 5-7 7-6(6),0.94,3.7%,1.5%,60.7%,59.8%,54.7%,11/16,49.0%,39.8%,5.5%,31.1%,51.9%,6/16,263,5,2,135,82,53,7,3:17

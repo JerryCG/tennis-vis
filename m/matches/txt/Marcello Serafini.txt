@@ -1,4 +1,33 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Genoa CH,3,Clay,R32,436,83,0,WC,1,Alexander Shevchenko,Marcello Serafini,2-6 7-6(7) 6-3,1.14,2.1%,2.1%,68.0%,65.2%,58.1%,6/10,52.2%,42.3%,7.7%,34.0%,50.0%,5/12,201,2,2,97,66,31,8,2:16
+28-Aug-2023,M25 Maribor,3,Clay,QF,436,375,0,5,3,Michael Vrbensky,Marcello Serafini,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,R16,436,584,1,5,,Marcello Serafini,Mirza Basic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,R32,436,1585,1,5,WC,Marcello Serafini,Gal Emersic Potocnik,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Lesa,3,Clay,R32,428,808,0,3,,Lorenzo Carboni,Marcello Serafini,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,Cordenons CH,3,Clay,Q2,425,510,0,5,10,Gonzalo Villanueva,Marcello Serafini,6-2 6-1,0.64,2.2%,2.2%,64.4%,55.2%,6.3%,5/11,38.9%,40.0%,2.0%,31.4%,60.0%,2/5,95,1,1,45,29,16,1,1:10
+7-Aug-2023,Cordenons CH,3,Clay,Q1,425,620,1,5,,Marcello Serafini,Simone Roncalli,2-6 6-3 6-2,1.07,5.3%,3.9%,76.3%,60.3%,55.6%,6/10,51.7%,43.7%,2.8%,28.1%,56.4%,6/7,147,4,3,76,58,18,2,1:43
+31-Jul-2023,San Marino CH,3,Clay,R32,432,264,0,Q,,Daniel Rincon,Marcello Serafini,7-6(5) 7-6(4),0.94,1.1%,6.8%,62.5%,69.1%,48.5%,7/10,49.1%,36.5%,8.2%,24.0%,54.3%,3/8,173,1,6,88,55,33,7,2:02
+31-Jul-2023,San Marino CH,3,Clay,Q2,432,348,1,10,4,Marcello Serafini,Francesco Forti,7-5 3-6 6-0,1.38,0.0%,1.4%,62.2%,71.7%,57.1%,0/3,55.5%,46.7%,4.4%,42.6%,55.2%,6/16,164,0,1,74,46,28,4,2:03
+31-Jul-2023,San Marino CH,3,Clay,Q1,432,550,1,10,,Marcello Serafini,Peter Heller,6-4 6-4,1.53,7.1%,3.6%,66.1%,78.4%,57.9%,5/6,55.8%,43.8%,6.8%,33.3%,60.7%,3/8,129,4,2,56,37,19,5,1:27
+24-Jul-2023,Verona CH,3,Clay,Q1,433,332,0,,,Valentin Royer,Marcello Serafini,6-2 6-4,0.52,3.8%,1.9%,67.9%,72.2%,23.5%,1/4,40.2%,22.4%,14.3%,14.3%,33.3%,0/2,102,2,1,53,36,17,7,1:09
+17-Jul-2023,Trieste CH,3,Clay,R16,452,127,0,WC,2,Pedro Martinez,Marcello Serafini,6-3 7-5,0.84,0.0%,1.7%,75.9%,50.0%,35.7%,5/11,45.6%,44.6%,1.8%,42.9%,47.6%,4/6,114,0,1,58,44,14,1,1:32
+17-Jul-2023,Trieste CH,3,Clay,R32,452,369,1,WC,Q,Marcello Serafini,Carlos Sanchez Jover,7-5 1-6 7-6(3),1.09,5.3%,1.1%,63.8%,71.7%,52.9%,1/4,50.5%,38.4%,2.7%,33.8%,50.0%,2/9,206,5,1,94,60,34,3,2:26
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R32,475,51,0,Q,1,Richard Gasquet,Marcello Serafini,7-5 6-2,0.76,4.8%,3.2%,71.4%,64.4%,22.2%,2/7,44.4%,36.1%,11.5%,25.7%,50.0%,2/4,124,3,2,63,45,18,7,1:33
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q2,475,333,1,10,3,Marcello Serafini,Francesco Forti,1-6 6-2 6-3,1.18,1.4%,1.4%,68.1%,72.3%,59.1%,2/4,52.9%,37.7%,2.9%,31.7%,46.4%,3/5,138,1,1,69,47,22,2,1:38
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q1,475,,1,10,WC,Marcello Serafini,Jacopo Bilardo,6-2 6-1,1.87,8.9%,0.0%,77.8%,74.3%,70.0%,1/1,62.7%,50.0%,5.3%,37.5%,59.1%,4/4,83,4,0,45,35,10,2,
+3-Jul-2023,Milan CH,3,Clay,R32,475,154,0,Q,,Luca Nardi,Marcello Serafini,4-6 6-4 6-3,0.82,2.0%,5.0%,72.3%,64.4%,50.0%,7/10,47.2%,32.6%,5.4%,30.5%,36.4%,1/8,193,2,5,101,73,28,5,2:12
+3-Jul-2023,Milan CH,3,Clay,Q2,475,373,1,,10,Marcello Serafini,Alex Marti Pujolras,7-6(5) 6-0,1.42,1.5%,6.0%,68.7%,65.2%,52.4%,2/4,58.1%,55.1%,5.8%,48.8%,65.4%,5/9,136,1,4,67,46,21,4,1:45
+3-Jul-2023,Milan CH,3,Clay,Q1,475,305,1,,2,Marcello Serafini,Chun Hsin Tseng,6-7(2) 6-1 6-3,1.18,5.4%,3.2%,75.3%,71.4%,47.8%,5/6,53.3%,40.7%,1.1%,36.4%,47.2%,5/12,184,5,3,93,70,23,1,2:19
+26-Jun-2023,Modena CH,3,Clay,R32,486,339,0,WC,Q,Francesco Forti,Marcello Serafini,6-2 7-6(3),0.40,6.3%,0.0%,79.7%,64.7%,61.5%,5/7,41.2%,14.5%,18.2%,10.5%,23.5%,0/2,119,4,0,64,51,13,10,1:21
+19-Jun-2023,M25 Cattolica,3,Clay,SF,538,540,0,8,,Enrico Dalla Valle,Marcello Serafini,7-6(11) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,QF,538,412,1,8,3,Marcello Serafini,Daniel Dutra Da Silva,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,R16,538,1125,1,8,,Marcello Serafini,Carlo Alberto Fossati,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,R32,538,2004,1,8,Q,Marcello Serafini,Giammarco Gandolfi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,F,545,884,1,2,,Marcello Serafini,Manuel Mazza,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,SF,545,,1,2,3,Marcello Serafini,Tommaso Compagnucci,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,QF,545,614,1,2,6,Marcello Serafini,Andrea Picchione,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,R16,545,1940,1,2,Q,Marcello Serafini,Rushil Khosla,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,R32,545,903,1,2,,Marcello Serafini,Niccolo Catini,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,QF,499,577,0,6,,Enrico Dalla Valle,Marcello Serafini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R16,499,1350,1,6,Q,Marcello Serafini,Alessandro Pecci,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R32,499,2030,1,6,WC,Marcello Serafini,Giammarco Gandolfi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -52,10 +81,10 @@
 1-Aug-2022,M15 Novi Sad,3,Clay,R16,713,969,0,7,SE,Tadeas Paroulek,Marcello Serafini,4-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M15 Novi Sad,3,Clay,R32,713,,1,7,WC,Marcello Serafini,Stevan Popovic,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 25-Jul-2022,M15 Novi Sad,3,Clay,R16,703,967,0,4,Q,Nicolas Zanellato,Marcello Serafini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Jul-2022,M15 Novi Sad,3,Clay,R32,703,,1,4,,Marcello Serafini,Ivan Sodan ,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Jul-2022,M15 Novi Sad,3,Clay,R32,703,,1,4,,Marcello Serafini,Ivan Sodan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M15 Innsbruck,3,Clay,QF,669,799,0,5,,Matteo Donati,Marcello Serafini,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2022,M15 Innsbruck,3,Clay,R16,669,,1,5,Q,Marcello Serafini,Runyu Zhao,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Jul-2022,M15 Innsbruck,3,Clay,R32,669,971,1,5,,Marcello Serafini,Milos Karol ,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Jul-2022,M15 Innsbruck,3,Clay,R32,669,971,1,5,,Marcello Serafini,Milos Karol,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Jul-2022,Todi CH,3,Clay,Q1,675,417,0,,7,Joris De Loore,Marcello Serafini,6-4 6-3,0.69,0.0%,0.0%,68.7%,63.0%,38.1%,11/15,44.3%,30.9%,14.5%,24.3%,44.4%,1/4,122,0,0,67,46,21,8,1:31
 27-Jun-2022,M15 Bergamo,3,Clay,R32,675,706,0,,,Enrico Dalla Valle,Marcello Serafini,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Jun-2022,M15 Chieti,3,Clay,R16,696,600,0,,7,Sebastian Prechtel,Marcello Serafini,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Nottingham CH,3,Grass,Q1,507,257,0,WC,11,Alex Michelsen,Harry Wendelken,4-6 6-3 7-5,0.87,2.3%,3.4%,52.9%,67.4%,46.3%,4/9,46.4%,37.1%,3.8%,30.6%,46.5%,4/9,192,2,3,87,46,41,4,2:32
+4-Sep-2023,M25 Sintra,3,Hard,F,548,517,1,6,5,Harry Wendelken,Jaime Faria,3-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Sintra,3,Hard,SF,548,364,1,6,2,Harry Wendelken,Henrique Rocha,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Sintra,3,Hard,QF,548,,1,6,WC,Harry Wendelken,Rodrigo Fernandes,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Sintra,3,Hard,R16,548,909,1,6,,Harry Wendelken,Diego Fernandez Flores,RET,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M25 Sintra,3,Hard,R32,548,1679,1,6,,Harry Wendelken,Toby D Boyer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Idanha-a-Nova,3,Hard,R16,548,924,0,5,,Johannes Ingildsen,Harry Wendelken,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Idanha-a-Nova,3,Hard,R32,548,,1,5,Q,Harry Wendelken,Sergio Davila Godoy,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Aldershot,3,Hard,R32,542,1238,0,5,WC,Sean Hodkin,Harry Wendelken,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Roehampton,3,Hard,R16,539,1449,0,6,Q,Michael Shaw,Harry Wendelken,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Roehampton,3,Hard,R32,539,1252,1,6,Q,Harry Wendelken,Ryan James Storrie,6-2 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,520,256,0,WC,,Matteo Gigante,Harry Wendelken,6-3 7-6(6),0.65,6.3%,3.8%,60.8%,75.0%,41.9%,6/7,45.1%,24.6%,13.8%,20.9%,31.8%,0/0,144,5,3,79,48,31,9,1:31
+19-Jun-2023,Ilkley CH,3,Grass,R32,510,172,0,WC,LL,Sho Shimabukuro,Harry Wendelken,6-2 6-7(2) 6-2,0.68,11.4%,3.4%,62.5%,70.9%,30.3%,6/12,43.3%,30.1%,9.6%,19.1%,44.4%,2/6,171,10,3,88,55,33,8,1:59
+12-Jun-2023,Nottingham CH,3,Grass,Q1,507,257,0,WC,11,Alex Michelsen,Harry Wendelken,4-6 6-3 7-5,0.87,2.3%,3.4%,52.9%,67.4%,46.3%,4/9,46.4%,37.1%,3.8%,30.6%,46.5%,4/9,192,2,3,87,46,41,4,2:32
 5-Jun-2023,Surbiton CH,3,Grass,R32,537,173,0,Q,Q,Bu Yunchaokete,Harry Wendelken,7-6(2) 7-5,0.80,12.3%,2.5%,60.5%,63.3%,46.9%,3/6,45.7%,34.6%,8.6%,30.0%,41.9%,2/4,162,10,2,81,49,32,7,2:08
 5-Jun-2023,Surbiton CH,3,Grass,Q2,537,401,1,WC,Alt,Harry Wendelken,Pierre Hugues Herbert,6-4 7-6(3),1.18,1.4%,1.4%,57.7%,70.7%,73.3%,1/1,53.3%,33.3%,18.2%,18.4%,53.6%,1/3,137,1,1,71,41,30,12,1:32
 5-Jun-2023,Surbiton CH,3,Grass,Q1,537,248,1,WC,10,Harry Wendelken,Li Tu,7-6(6) 6-3,1.40,4.4%,1.5%,48.5%,78.8%,68.6%,1/1,54.6%,37.0%,8.2%,18.4%,57.1%,1/4,141,3,1,68,33,35,6,1:36

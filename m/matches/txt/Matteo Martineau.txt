@@ -1,6 +1,31 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Perugia CH,3,Clay,Q2,385,271,0,10,3,Nerman Fatic,Matteo Martineau,6-2 6-4,0.72,4.2%,2.1%,72.9%,65.7%,61.5%,3/6,44.4%,25.5%,9.8%,18.4%,46.2%,0/1,99,2,1,48,35,13,5,1:15
-11-Jun-2023,Perugia CH,3,Clay,Q1,385,473,1,10,WC,Matteo Martineau,Lorenzo Rottoli,6-2 7-6(3),1.37,8.0%,6.7%,64.0%,72.9%,48.1%,3/5,56.6%,49.4%,3.9%,44.9%,57.1%,4/10,152,6,5,75,48,27,3,1:49
+10-Sep-2023,Rennes CH,3,Hard,Q2,329,474,1,4,7,Matteo Martineau,Eliakim Coulibaly,6-3 6-0,1.97,2.3%,4.5%,68.2%,83.3%,42.9%,4/5,64.1%,58.3%,0.0%,51.5%,73.3%,5/11,92,1,2,44,30,14,0,1:06
+10-Sep-2023,Rennes CH,3,Hard,Q1,329,,1,4,Alt,Matteo Martineau,Jeevan Nedunchezhiyan,6-4 7-5,1.65,13.6%,3.4%,55.9%,87.9%,65.4%,2/2,56.0%,36.4%,9.1%,34.1%,40.0%,2/6,125,8,2,59,33,26,6,1:28
+4-Sep-2023,Istanbul CH,3,Hard,R32,331,466,0,,Q,Blaise Bicknell,Matteo Martineau,6-7(5) 7-6(3) 6-3,1.04,11.1%,7.4%,70.4%,75.0%,50.0%,9/11,49.0%,33.6%,3.8%,28.4%,47.2%,1/7,239,12,8,108,76,32,5,2:34
+28-Aug-2023,Como CH,3,Clay,Q1,331,262,0,,1,Manuel Guinard,Matteo Martineau,6-1 6-4,0.75,4.9%,4.9%,63.4%,65.4%,53.3%,0/3,42.7%,29.1%,5.5%,20.0%,45.0%,0/4,96,2,2,41,26,15,3,1:13
+21-Aug-2023,Augsburg CH,3,Clay,R16,356,290,0,,,Nino Serdarusic,Matteo Martineau,6-3 4-6 6-4,0.96,8.2%,7.2%,60.8%,72.9%,36.8%,3/7,49.2%,39.6%,3.1%,26.3%,59.0%,3/8,193,8,7,97,59,38,3,2:37
+21-Aug-2023,Augsburg CH,3,Clay,R32,356,309,1,,,Matteo Martineau,Alexander Weis,6-2 5-7 6-4,1.22,1.3%,8.9%,64.6%,76.5%,46.4%,2/5,52.2%,41.6%,4.0%,29.2%,63.9%,5/14,180,1,7,79,51,28,4,2:20
+14-Aug-2023,M25 Muttenz,3,Clay,F,358,309,1,4,1,Matteo Martineau,Alexander Weis,6-1 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,SF,358,629,1,4,,Matteo Martineau,Maxime Mora,6-2 6-7(7) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,QF,358,394,1,4,5,Matteo Martineau,Damien Wenger,6-7(5) 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,R16,358,844,1,4,,Matteo Martineau,Adam Moundir,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,R32,358,1119,1,4,Q,Matteo Martineau,Patrick Zahraj,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,Cordenons CH,3,Clay,QF,371,251,0,,,Lukas Neumayer,Matteo Martineau,1-6 6-4 6-0,0.95,5.3%,5.3%,59.2%,60.0%,41.9%,4/10,49.0%,45.1%,2.8%,36.2%,62.5%,4/11,147,4,4,76,45,31,2,1:53
+7-Aug-2023,Cordenons CH,3,Clay,R16,371,357,1,,,Matteo Martineau,Maxime Chazal,6-1 6-3,1.63,6.0%,8.0%,42.0%,85.7%,55.2%,1/2,60.0%,52.0%,2.0%,40.6%,72.2%,5/9,100,3,4,50,21,29,1,1:23
+7-Aug-2023,Cordenons CH,3,Clay,R32,371,159,1,,1,Matteo Martineau,Dennis Novak,6-2 6-2,1.66,7.5%,1.9%,77.4%,78.0%,41.7%,5/5,60.0%,50.0%,1.9%,45.2%,57.1%,4/8,105,4,1,53,41,12,1,1:13
+31-Jul-2023,M25 Wetzlar,3,Clay,R32,369,1008,0,1,,Maik Steiner,Matteo Martineau,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25+H Kassel,3,Clay,R32,393,929,0,4,WC,Philip Florig,Matteo Martineau,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Troyes CH,3,Clay,R16,393,356,0,Q,Q,Duje Ajdukovic,Matteo Martineau,6-3 6-2,0.67,4.0%,14.0%,70.0%,51.4%,33.3%,3/8,41.2%,36.2%,2.1%,29.4%,53.8%,1/2,97,2,7,50,35,15,1,1:11
+3-Jul-2023,Troyes CH,3,Clay,R32,393,396,1,Q,,Matteo Martineau,Nikola Milojevic,6-3 6-3,1.45,7.5%,7.5%,49.1%,80.8%,63.0%,1/1,57.7%,40.9%,6.8%,30.8%,55.6%,3/4,97,4,4,53,26,27,3,1:11
+3-Jul-2023,Troyes CH,3,Clay,Q2,393,471,1,5,12,Matteo Martineau,Valerio Aboian,6-3 4-6 6-4,1.21,6.2%,4.9%,53.1%,72.1%,52.6%,2/5,52.3%,44.6%,3.6%,40.3%,52.5%,5/20,193,5,4,81,43,38,4,2:31
+3-Jul-2023,Troyes CH,3,Clay,Q1,393,556,1,5,,Matteo Martineau,Oscar Jose Gutierrez,6-0 7-5,1.82,12.5%,5.4%,51.8%,75.9%,63.0%,4/5,62.9%,55.1%,4.1%,42.9%,71.4%,5/6,105,7,3,56,29,27,2,1:21
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,SF,390,476,0,4,7,Tristan Lamasine,Matteo Martineau,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,QF,390,363,1,4,5,Matteo Martineau,Maxime Chazal,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,R16,390,834,1,4,,Matteo Martineau,Arthur Gea,7-5 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,R32,390,,1,4,Q,Matteo Martineau,Antoine Walch,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Blois CH,3,Clay,Q1,388,587,0,9,,Tibo Colson,Matteo Martineau,6-3 3-6 6-2,0.94,4.4%,2.9%,52.9%,66.7%,65.6%,0/3,47.3%,31.7%,7.3%,32.7%,30.0%,1/8,150,3,2,68,36,32,6,1:48
+12-Jun-2023,Perugia CH,3,Clay,Q2,385,271,0,10,3,Nerman Fatic,Matteo Martineau,6-2 6-4,0.72,4.2%,2.1%,72.9%,65.7%,61.5%,3/6,44.4%,25.5%,9.8%,18.4%,46.2%,0/1,99,2,1,48,35,13,5,1:15
+12-Jun-2023,Perugia CH,3,Clay,Q1,385,473,1,10,WC,Matteo Martineau,Lorenzo Rottoli,6-2 7-6(3),1.37,8.0%,6.7%,64.0%,72.9%,48.1%,3/5,56.6%,49.4%,3.9%,44.9%,57.1%,4/10,152,6,5,75,48,27,3,1:49
 29-May-2023,M25 Carnac,3,Clay,QF,364,346,0,6,2,Antoine Hoang,Matteo Martineau,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,R16,364,1600,1,6,Q,Matteo Martineau,Jack Loge,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Carnac,3,Clay,R32,364,475,1,6,,Matteo Martineau,Arthur Weber,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

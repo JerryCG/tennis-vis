@@ -1,4 +1,35 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+10-Sep-2023,Szczecin CH,3,Clay,Q1,335,354,0,,,Miljan Zekic,Enrico Dalla Valle,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Genoa CH,3,Clay,R32,340,623,0,WC,Q,Andrea Picchione,Enrico Dalla Valle,6-0 1-6 6-1,0.75,1.3%,7.8%,57.1%,63.6%,36.4%,7/12,44.9%,36.1%,0.0%,25.6%,54.5%,2/5,138,1,6,77,44,33,0,1:59
+28-Aug-2023,Como CH,3,Clay,Q1,340,372,0,12,Alt,Miljan Zekic,Enrico Dalla Valle,7-6(5) 5-7 7-6(5),1.04,8.2%,5.5%,60.0%,80.3%,52.3%,6/9,50.0%,32.2%,6.8%,20.9%,47.1%,4/10,228,9,6,110,66,44,8,2:59
+14-Aug-2023,Todi CH,3,Clay,R16,348,525,0,WC,Q,Felix Gill,Enrico Dalla Valle,5-7 6-4 6-4,1.02,7.8%,1.0%,75.5%,63.6%,56.0%,4/8,49.8%,38.9%,3.5%,26.1%,59.1%,3/19,215,8,1,102,77,25,4,3:01
+14-Aug-2023,Todi CH,3,Clay,R32,348,178,1,WC,3,Enrico Dalla Valle,Mariano Navone,7-6(4) 6-3,1.27,0.0%,6.9%,56.9%,65.9%,51.6%,8/12,55.5%,51.4%,1.4%,52.1%,50.0%,5/9,146,0,5,72,41,31,1,2:01
+7-Aug-2023,Cordenons CH,3,Clay,SF,390,202,0,WC,,Matteo Gigante,Enrico Dalla Valle,7-6(5) 6-2,0.61,3.2%,1.1%,69.1%,61.5%,48.3%,11/13,44.9%,25.8%,4.8%,9.1%,44.8%,0/4,156,3,1,94,65,29,3,1:59
+7-Aug-2023,Cordenons CH,3,Clay,QF,390,476,1,WC,Q,Enrico Dalla Valle,Federico Agustin Gomez,6-3 6-1,1.66,3.8%,5.7%,66.0%,71.4%,66.7%,3/3,60.0%,50.0%,5.8%,50.0%,50.0%,4/10,105,2,3,53,35,18,3,1:18
+7-Aug-2023,Cordenons CH,3,Clay,R16,390,167,1,WC,2,Enrico Dalla Valle,Francesco Passaro,6-1 6-7(3) 6-1,1.36,1.2%,5.9%,63.5%,68.5%,58.1%,1/2,55.7%,48.0%,0.0%,48.5%,46.9%,7/15,183,1,5,85,54,31,0,2:11
+7-Aug-2023,Cordenons CH,3,Clay,R32,390,317,1,WC,,Enrico Dalla Valle,Alvaro Lopez San Martin,6-2 6-4,1.25,15.4%,3.1%,67.7%,70.5%,47.6%,4/5,54.6%,46.2%,1.5%,30.8%,69.2%,4/9,130,10,2,65,44,21,1,1:38
+31-Jul-2023,San Marino CH,3,Clay,R16,421,254,0,Q,,Andrea Pellegrino,Enrico Dalla Valle,6-4 1-6 6-1,0.82,3.8%,3.8%,70.0%,62.5%,54.2%,5/8,47.3%,32.9%,5.7%,23.9%,50.0%,2/3,150,3,3,80,56,24,4,1:55
+31-Jul-2023,San Marino CH,3,Clay,R32,421,83,1,Q,1,Enrico Dalla Valle,Alexandre Muller,6-3 6-4,1.48,8.9%,0.0%,62.5%,77.1%,57.1%,1/2,56.9%,45.0%,0.0%,41.7%,50.0%,3/7,116,5,0,56,35,21,0,1:25
+31-Jul-2023,San Marino CH,3,Clay,Q2,421,346,1,8,5,Enrico Dalla Valle,Viktor Durasovic,6-4 6-0,1.60,14.3%,2.0%,69.4%,73.5%,60.0%,1/1,59.8%,48.8%,4.7%,46.2%,52.9%,4/6,92,7,1,49,34,15,2,1:06
+31-Jul-2023,San Marino CH,3,Clay,Q1,421,502,1,8,,Enrico Dalla Valle,Gabriele Piraino,7-5 6-1,1.28,1.3%,1.3%,65.8%,65.4%,44.4%,6/9,56.3%,53.6%,0.0%,51.9%,55.2%,6/10,135,1,1,79,52,27,0,2:01
+17-Jul-2023,Trieste CH,3,Clay,QF,432,93,0,WC,1,Fabian Marozsan,Enrico Dalla Valle,6-1 6-4,0.66,3.8%,0.0%,75.6%,59.3%,36.8%,9/12,44.0%,30.4%,8.9%,34.2%,22.2%,0/0,134,3,0,78,59,19,5,1:30
+17-Jul-2023,Trieste CH,3,Clay,R16,432,148,1,WC,7,Enrico Dalla Valle,Flavio Cobolli,7-6(5) 6-1,1.49,6.3%,3.2%,73.0%,71.7%,58.8%,2/3,58.3%,47.4%,3.5%,36.7%,59.3%,3/4,120,4,2,63,46,17,2,1:33
+17-Jul-2023,Trieste CH,3,Clay,R32,432,302,1,WC,Alt,Enrico Dalla Valle,Chun Hsin Tseng,4-6 7-6(3) 7-6(7),1.09,1.8%,2.7%,60.4%,64.2%,52.3%,5/11,50.6%,44.2%,1.3%,42.7%,47.2%,5/17,267,2,3,111,67,44,2,4:01
+10-Jul-2023,M25 Padova,3,Clay,R16,466,774,0,6,Q,Gabriele Pennaforti,Enrico Dalla Valle,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Padova,3,Clay,R32,466,812,1,6,Q,Enrico Dalla Valle,Leonardo Rossi,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,Milan CH,3,Clay,R32,466,395,0,WC,,Gonzalo Bueno,Enrico Dalla Valle,6-2 4-2 RET,0.73,0.0%,0.0%,58.8%,50.0%,47.6%,6/10,42.9%,37.0%,0.0%,37.2%,36.4%,1/7,105,0,0,51,30,21,0,1:23
+26-Jun-2023,M15 Celje,3,Clay,F,545,622,1,3,4,Enrico Dalla Valle,Pawel Cias,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,SF,545,732,1,3,6,Enrico Dalla Valle,Bor Artnak,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,QF,545,714,1,3,,Enrico Dalla Valle,Blaz Rola,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,R16,545,1606,1,3,Q,Enrico Dalla Valle,Timofey Stepanov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Celje,3,Clay,R32,545,1111,1,3,SE,Enrico Dalla Valle,Dominik Kellovsky,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,F,540,457,1,,4,Enrico Dalla Valle,Samuel Vincent Ruggeri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,SF,540,538,1,,8,Enrico Dalla Valle,Marcello Serafini,7-6(11) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,QF,540,451,1,,2,Enrico Dalla Valle,Carlos Lopez Montagud,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,R16,540,484,1,,5,Enrico Dalla Valle,Gabriele Piraino,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Cattolica,3,Clay,R32,540,1063,1,,,Enrico Dalla Valle,Manuel Mazza,5-7 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Litija,3,Clay,R16,565,723,0,3,,Alvaro Guillen Meza,Enrico Dalla Valle,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Litija,3,Clay,R32,565,1158,1,3,WC,Enrico Dalla Valle,Filip Jeff Planinsek,3-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,SF,577,514,0,,8,Julian Ocleppo,Enrico Dalla Valle,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,QF,577,499,1,,6,Enrico Dalla Valle,Marcello Serafini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R16,577,933,1,,,Enrico Dalla Valle,Luca Castagnola,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

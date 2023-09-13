@@ -1,8 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Istanbul CH,3,Hard,Q2,208,502,0,1,11,Yshai Oliel,Seong Chan Hong,6-4 6-1,0.52,4.8%,3.2%,50.0%,58.1%,48.4%,8/12,41.1%,24.4%,2.2%,24.2%,25.0%,0/1,107,3,2,62,31,31,1,1:25
+4-Sep-2023,Istanbul CH,3,Hard,Q1,208,1025,1,1,WC,Seong Chan Hong,Cengiz Aksu,6-2 6-4,1.83,11.5%,1.9%,59.6%,80.6%,66.7%,2/2,58.1%,45.8%,2.8%,34.1%,61.3%,3/8,124,6,1,52,31,21,2,1:28
+28-Aug-2023,US Open,5,Hard,Q2,208,95,0,,4,Taro Daniel,Seong Chan Hong,6-2 4-6 6-1,0.82,2.7%,4.0%,54.7%,65.9%,44.1%,8/14,45.8%,35.9%,3.8%,23.7%,47.5%,2/10,153,2,3,75,41,34,3,2:31
+28-Aug-2023,US Open,5,Hard,Q1,208,172,1,,,Seong Chan Hong,Francesco Passaro,7-6(3) 6-4,1.46,7.7%,3.1%,40.0%,84.6%,64.1%,2/3,54.4%,40.5%,4.8%,35.0%,54.2%,2/6,149,5,2,65,26,39,4,1:56
+14-Aug-2023,Palo Alto CH,3,Hard,R32,204,138,0,,,Alex Michelsen,Seong Chan Hong,4-6 6-2 6-0,0.81,6.2%,4.9%,51.9%,76.2%,35.9%,7/12,45.7%,34.9%,7.2%,25.4%,58.3%,1/4,164,5,4,81,42,39,6,1:57
+7-Aug-2023,Cary CH,3,Hard,R16,206,297,0,,WC,Patrick Kypson,Seong Chan Hong,6-4 6-4,0.71,10.9%,7.3%,52.7%,82.8%,50.0%,1/3,45.0%,23.2%,12.5%,14.7%,36.4%,0/3,111,6,4,55,29,26,7,1:32
+7-Aug-2023,Cary CH,3,Hard,R32,206,93,1,,1,Seong Chan Hong,Alexander Shevchenko,3-6 6-3 7-6(4),0.99,4.8%,4.8%,57.7%,61.7%,36.4%,9/16,49.8%,48.7%,1.7%,42.4%,56.9%,7/13,221,5,5,104,60,44,2,2:32
+31-Jul-2023,Lexington CH,3,Hard,QF,209,218,0,4,5,Tennys Sandgren,Seong Chan Hong,6-4 6-2,0.64,6.8%,5.1%,54.2%,68.8%,40.7%,4/7,42.9%,28.3%,9.4%,21.6%,43.8%,0/1,112,4,3,59,32,27,5,1:19
+31-Jul-2023,Lexington CH,3,Hard,R16,209,333,1,4,,Seong Chan Hong,Bernard Tomic,6-1 6-2,1.92,13.3%,2.2%,60.0%,81.5%,61.1%,1/1,63.1%,51.3%,0.0%,42.9%,61.1%,4/6,84,6,1,45,27,18,0,0:49
+31-Jul-2023,Lexington CH,3,Hard,R32,209,320,1,4,,Seong Chan Hong,Nam Hoang Ly,6-1 7-5,1.51,8.8%,5.3%,70.2%,75.0%,64.7%,0/0,57.8%,42.3%,1.9%,35.7%,50.0%,3/4,109,5,3,57,40,17,1,1:24
+3-Jul-2023,Wimbledon,5,Grass,Q1,198,116,0,,8,Yosuke Watanuki,Seong Chan Hong,7-6(4) 7-6(7),0.99,4.9%,0.0%,60.5%,73.5%,59.4%,0/2,49.4%,31.8%,5.9%,25.0%,39.0%,2/8,166,4,0,81,49,32,5,1:53
+19-Jun-2023,Ilkley CH,3,Grass,Q1,196,158,0,,2,Dennis Novak,Seong Chan Hong,6-4 3-6 6-3,0.68,4.0%,2.0%,66.0%,71.2%,47.1%,4/6,46.9%,25.3%,5.3%,14.0%,40.6%,1/1,175,4,2,100,66,34,4,1:55
+12-Jun-2023,Nottingham CH,3,Grass,R32,190,165,0,,,Bu Yunchaokete,Seong Chan Hong,7-6(4) 6-2,0.94,15.0%,1.7%,61.7%,78.4%,47.8%,1/3,46.7%,31.2%,9.1%,23.5%,46.2%,0/3,137,9,1,60,37,23,7,1:37
 5-Jun-2023,Surbiton CH,3,Grass,Q1,184,432,0,2,Alt,Jay Clarke,Seong Chan Hong,6-3 6-3,0.60,5.6%,11.1%,66.7%,58.3%,44.4%,2/6,41.6%,27.7%,2.1%,22.7%,32.0%,1/2,101,3,6,54,36,18,1,1:04
 29-May-2023,Troisdorf CH,3,Clay,R16,184,261,0,,LL,Renzo Olivo,Seong Chan Hong,6-3 3-6 6-4,0.95,5.1%,0.0%,63.6%,55.6%,47.2%,8/14,49.0%,45.2%,0.0%,40.8%,59.1%,5/14,192,5,0,99,63,36,0,2:38
 29-May-2023,Troisdorf CH,3,Clay,R32,184,125,1,,2,Seong Chan Hong,Zsombor Piros,3-6 6-0 6-0,1.49,9.4%,1.2%,63.5%,63.0%,54.8%,7/10,59.9%,59.7%,1.6%,52.8%,69.2%,7/13,147,8,1,85,54,31,1,1:34
-29-May-2023,Roland Garros,5,Clay,Q1,184,204,0,,,Matteo Gigante,Seong Chan Hong,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,184,204,0,,,Matteo Gigante,Seong Chan Hong,7-5 6-4,0.76,1.1%,0.0%,67.4%,53.2%,53.3%,7/11,46.1%,35.5%,0.0%,36.8%,33.3%,2/8,154,1,0,92,62,30,0,
 8-May-2023,Busan CH,3,Hard,R32,184,319,0,,Q,Jason Jung,Seong Chan Hong,6-2 3-0 RET,0.23,0.0%,3.8%,59.6%,38.7%,52.4%,5/9,34.7%,13.0%,0.0%,14.3%,0.0%,0/0,75,0,2,52,31,21,0,0:57
 24-Apr-2023,Seoul CH,3,Hard,QF,194,242,0,,,Bu Yunchaokete,Seong Chan Hong,6-4 6-4,0.83,3.3%,8.3%,55.0%,57.6%,55.6%,3/6,45.7%,35.8%,9.0%,25.8%,44.4%,1/1,127,2,5,60,33,27,6,1:46
 24-Apr-2023,Seoul CH,3,Hard,R16,194,89,1,,1,Seong Chan Hong,Max Purcell,6-1 6-3,1.22,3.3%,5.0%,51.7%,58.1%,51.7%,6/8,54.9%,54.7%,1.9%,42.9%,68.0%,6/13,113,2,3,60,31,29,1,1:43
@@ -60,13 +73,13 @@
 6-Jun-2022,M25 Harmon,3,Hard,R32,580,,1,5,,Seong Chan Hong,Jared Thompkins,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 30-May-2022,M25 Harmon,3,Hard,F,576,505,1,5,4,Seong Chan Hong,Rio Noguchi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 30-May-2022,M25 Harmon,3,Hard,SF,576,1011,1,5,7,Seong Chan Hong,Cheong Eui Kim,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-30-May-2022,M25 Harmon,3,Hard,QF,576,,1,5,2,Seong Chan Hong,Jisung Nam,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-2022,M25 Harmon,3,Hard,QF,576,433,1,5,2,Seong Chan Hong,Ji Sung Nam,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 30-May-2022,M25 Harmon,3,Hard,R16,576,,1,5,Q,Seong Chan Hong,Eric Padgham,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 30-May-2022,M25 Harmon,3,Hard,R32,576,,1,5,Q,Seong Chan Hong,Huzaifa Abdul Rehman,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Apr-2022,M15 Chiang Rai,3,Hard,R16,683,1150,0,,WC,Kasidit Samrej,Seong Chan Hong,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Apr-2022,M15 Chiang Rai,3,Hard,R32,683,809,1,,Q,Seong Chan Hong,S D Prajwal Dev,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Chiang Rai,3,Hard,F,695,485,1,7,3,Seong Chan Hong,Nam Hoang Ly,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Apr-2022,M15 Chiang Rai,3,Hard,SF,695,,1,7,2,Seong Chan Hong,Jisung Nam,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Apr-2022,M15 Chiang Rai,3,Hard,SF,695,463,1,7,2,Seong Chan Hong,Ji Sung Nam,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Chiang Rai,3,Hard,QF,695,486,1,7,4,Seong Chan Hong,Sidharth Rawat,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Chiang Rai,3,Hard,R16,695,2086,1,7,,Seong Chan Hong,Orel Kimhi,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Chiang Rai,3,Hard,R32,695,819,1,7,,Seong Chan Hong,Takuto Niki,6-3 6-4,,,,,,,,,,,,,,,,,,,,,

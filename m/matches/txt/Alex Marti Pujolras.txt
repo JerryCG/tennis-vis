@@ -1,5 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-11-Jun-2023,Perugia CH,3,Clay,Q1,371,521,0,11,,Andrea Arnaboldi,Alex Marti Pujolras,6-4 7-6(2),0.73,4.6%,10.3%,63.2%,72.7%,34.4%,12/14,45.6%,30.1%,5.5%,25.0%,42.9%,1/6,160,4,9,87,55,32,4,1:58
+21-Aug-2023,M25 Poznan,3,Clay,R16,426,675,0,4,,Georgii Kravchenko,Alex Marti Pujolras,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R32,426,1633,1,4,Q,Alex Marti Pujolras,Tomas Jirousek,6-4 6-7(0) 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Bielsko Biala,3,Clay,R16,425,970,0,4,,Maciej Rajski,Alex Marti Pujolras,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Bielsko Biala,3,Clay,R32,425,,1,4,Q,Alex Marti Pujolras,Pijus Vaitiekunas,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Lodz,3,Clay,R16,420,,0,5,WC,Aleksander Orlikowski,Alex Marti Pujolras,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Lodz,3,Clay,R32,420,,1,5,WC,Alex Marti Pujolras,Adam Majchrzak,6-1 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,Liberec CH,3,Clay,R32,426,104,0,Q,1,Tomas Machac,Alex Marti Pujolras,7-5 6-1,0.73,0.0%,13.2%,54.7%,69.0%,25.0%,4/8,42.0%,37.2%,6.4%,30.0%,44.7%,1/10,131,0,7,53,29,24,5,1:33
+31-Jul-2023,Liberec CH,3,Clay,Q2,426,572,1,2,,Alex Marti Pujolras,Federico Iannaccone,6-0 6-3,1.59,3.3%,8.3%,61.7%,70.3%,52.2%,3/4,61.1%,58.3%,0.0%,58.8%,57.1%,5/11,108,2,5,60,37,23,0,1:25
+31-Jul-2023,Liberec CH,3,Clay,Q1,426,1003,1,2,WC,Alex Marti Pujolras,Daniel Siniakov,1-6 6-3 6-1,1.17,2.9%,5.9%,60.3%,61.0%,51.9%,6/10,53.2%,50.0%,2.3%,41.2%,62.9%,6/14,154,2,4,68,41,27,2,2:10
+17-Jul-2023,Amersfoort CH,3,Clay,R32,388,211,0,LL,Q,Joris De Loore,Alex Marti Pujolras,6-3 6-3,0.35,1.6%,11.3%,59.7%,62.2%,36.0%,6/10,37.9%,17.1%,12.2%,17.2%,16.7%,1/1,103,1,7,62,37,25,5,1:26
+17-Jul-2023,Amersfoort CH,3,Clay,Q2,388,483,0,4,8,Elmer Moller,Alex Marti Pujolras,6-2 6-1,0.49,1.4%,9.5%,64.9%,58.3%,26.9%,7/12,39.8%,25.6%,5.1%,17.9%,45.5%,0/1,113,1,7,74,48,26,2,1:22
+17-Jul-2023,Amersfoort CH,3,Clay,Q1,388,626,1,4,Alt,Alex Marti Pujolras,Oleg Prihodko,6-4 7-6(2),1.03,1.4%,6.8%,71.2%,73.1%,42.9%,1/3,51.1%,36.8%,8.8%,22.9%,51.5%,3/10,141,1,5,73,52,21,6,
+10-Jul-2023,Iasi CH,3,Clay,R32,373,278,0,Q,Alt,Steven Diez,Alex Marti Pujolras,6-1 6-1,0.36,2.8%,19.4%,47.2%,58.8%,10.5%,2/7,28.4%,23.7%,0.0%,13.3%,62.5%,0/1,74,1,7,36,17,19,0,1:05
+10-Jul-2023,Iasi CH,3,Clay,Q2,373,496,1,5,11,Alex Marti Pujolras,Gabi Adrian Boitan,6-1 6-1,1.94,4.4%,15.6%,51.1%,82.6%,45.5%,1/2,66.7%,69.0%,2.4%,58.3%,83.3%,6/11,87,2,7,45,23,22,1,0:59
+10-Jul-2023,Iasi CH,3,Clay,Q1,373,531,1,5,,Alex Marti Pujolras,Matias Zukas,6-1 6-1,1.58,6.6%,14.8%,65.6%,72.5%,38.1%,12/13,61.3%,62.2%,0.0%,50.0%,73.9%,6/9,106,4,9,61,40,21,0,
+3-Jul-2023,Milan CH,3,Clay,Q2,373,475,0,10,,Marcello Serafini,Alex Marti Pujolras,7-6(5) 6-0,0.70,5.8%,11.6%,62.3%,51.2%,34.6%,4/9,41.9%,38.8%,1.5%,34.8%,47.6%,2/4,136,4,8,69,43,26,1,1:45
+3-Jul-2023,Milan CH,3,Clay,Q1,373,491,1,10,,Alex Marti Pujolras,Gabriele Piraino,6-2 6-4,1.27,0.0%,13.1%,60.7%,70.3%,41.7%,3/5,55.7%,51.9%,1.9%,40.6%,68.2%,5/8,115,0,8,61,37,24,1,1:35
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,R16,370,686,0,3,,Anton Matusevich,Alex Marti Pujolras,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M25 Bourg-en-Bresse,3,Clay,R32,370,,1,3,Q,Alex Marti Pujolras,Gian Luca Tanner,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,Montechiarugolo CH,3,Clay,R32,377,103,0,Q,3,Alexandre Muller,Alex Marti Pujolras,6-4 6-3,0.81,0.0%,7.7%,53.8%,59.5%,41.7%,7/12,46.6%,39.6%,3.8%,27.8%,64.7%,2/5,131,0,6,78,42,36,2,1:34
+19-Jun-2023,Montechiarugolo CH,3,Clay,Q2,377,476,1,5,,Alex Marti Pujolras,Lorenzo Rottoli,6-0 7-6(4),1.40,6.0%,6.0%,53.7%,75.0%,54.8%,4/5,57.7%,48.2%,1.8%,29.0%,72.0%,4/8,123,4,4,67,36,31,1,1:32
+19-Jun-2023,Montechiarugolo CH,3,Clay,Q1,377,1240,1,5,WC,Alex Marti Pujolras,Federico Bondioli,6-1 6-1,1.87,0.0%,1.9%,74.1%,70.0%,50.0%,5/5,65.2%,65.7%,2.9%,46.2%,77.3%,5/7,89,0,1,54,40,14,1,0:59
+12-Jun-2023,Perugia CH,3,Clay,Q1,371,521,0,11,,Andrea Arnaboldi,Alex Marti Pujolras,6-4 7-6(2),0.73,4.6%,10.3%,63.2%,72.7%,34.4%,12/14,45.6%,30.1%,5.5%,25.0%,42.9%,1/6,160,4,9,87,55,32,4,1:58
 22-May-2023,M25 Mataro,3,Clay,R32,373,527,0,3,,Henrique Rocha,Alex Marti Pujolras,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Gurb,3,Clay,R32,377,493,0,6,,Oscar Jose Gutierrez,Alex Marti Pujolras,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 8-May-2023,M25 Valldoreix,3,Clay,F,377,339,0,,3,Nikolas Sanchez Izquierdo,Alex Marti Pujolras,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -106,7 +128,7 @@
 14-Feb-2022,M25 Antalya,3,Clay,R16,565,330,0,,6,Miljan Zekic,Alex Marti Pujolras,7-5 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 14-Feb-2022,M25 Antalya,3,Clay,R32,565,968,1,,WC,Alex Marti Pujolras,Koray Kirci,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 7-Feb-2022,M15 Antalya,3,Clay,R16,564,276,0,,1,Evgeny Tyurnev,Alex Marti Pujolras,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Feb-2022,M15 Antalya,3,Clay,R32,564,833,1,,,Alex Marti Pujolras,Daniel Merida Aguilar ,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Feb-2022,M15 Antalya,3,Clay,R32,564,833,1,,,Alex Marti Pujolras,Daniel Merida Aguilar,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2021,Antalya 3 CH,3,Clay,Q1,526,407,0,,3,Pol Martin Tiffon,Alex Marti Pujolras,6-2 6-7(5) 6-2,0.81,0.0%,9.3%,55.1%,59.3%,43.8%,5/12,45.5%,38.5%,3.8%,29.1%,49.0%,3/14,211,0,10,107,59,48,4,2:30
 22-Nov-2021,M15 Antalya,3,Clay,R16,524,761,0,5,,Marsel Ilhan,Alex Marti Pujolras,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Nov-2021,M15 Antalya,3,Clay,R32,524,883,1,5,,Alex Marti Pujolras,Sarp Agabigun,6-0 6-0,,,,,,,,,,,,,,,,,,,,,

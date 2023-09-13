@@ -1,5 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Jun-2023,Stuttgart,3,Grass,Q1,416,205,0,,7,Antoine Bellier,Vladyslav Orlov,6-3 6-4,0.39,1.2%,2.4%,67.1%,54.5%,63.0%,7/9,42.3%,16.7%,22.9%,12.0%,21.7%,0/0,130,1,2,82,55,27,11,1:21
+3-Sep-2023,Istanbul CH,3,Hard,Q2,412,466,0,6,9,Blaise Bicknell,Vladyslav Orlov,6-0 6-1,0.38,2.3%,2.3%,46.5%,45.0%,30.4%,5/10,30.9%,23.7%,2.6%,22.2%,27.3%,0/0,81,1,1,43,20,23,1,1:01
+3-Sep-2023,Istanbul CH,3,Hard,Q1,412,2058,1,6,WC,Vladyslav Orlov,Berk Ilkel,6-2 6-2,1.91,6.8%,2.3%,59.1%,80.8%,55.6%,2/3,63.3%,56.5%,0.0%,54.2%,59.1%,5/7,90,3,1,44,26,18,0,1:09
+7-Aug-2023,Cordenons CH,3,Clay,R32,404,202,0,Alt,,Matteo Gigante,Vladyslav Orlov,6-7(5) 6-4 6-4,0.89,0.0%,7.8%,44.8%,57.7%,45.3%,8/16,47.3%,43.5%,0.9%,32.1%,55.8%,6/12,224,0,9,116,52,64,1,3:06
+31-Jul-2023,Luedenscheid CH,3,Clay,Q2,399,555,0,3,11,Tommaso Compagnucci,Vladyslav Orlov,7-5 6-7(6) 6-4,0.94,1.8%,2.7%,60.4%,65.7%,54.5%,7/13,48.3%,36.4%,4.1%,31.8%,41.8%,4/11,232,2,3,111,67,44,5,3:23
+24-Jul-2023,Zug CH,3,Clay,Q2,397,431,0,,,Gianmarco Ferrari,Vladyslav Orlov,6-3 6-4,0.52,0.0%,6.9%,67.2%,59.0%,63.2%,2/4,41.4%,20.8%,13.2%,10.3%,33.3%,0/1,111,0,4,58,39,19,7,1:15
+24-Jul-2023,Zug CH,3,Clay,Q1,397,337,1,,7,Vladyslav Orlov,Ugo Blanchet,4-6 6-4 7-6(3),1.10,0.0%,3.0%,61.0%,68.9%,48.7%,2/7,51.1%,43.1%,5.7%,35.7%,49.3%,5/17,223,0,3,100,61,39,7,2:31
+17-Jul-2023,Tampere CH,3,Clay,Q2,398,400,0,5,7,Ergi Kirkin,Vladyslav Orlov,7-6(4) 6-3,0.88,0.0%,5.3%,62.8%,59.3%,48.6%,10/14,47.8%,39.3%,1.2%,25.5%,56.8%,2/8,178,0,5,94,59,35,1,2:19
+17-Jul-2023,Tampere CH,3,Clay,Q1,398,1422,1,5,,Vladyslav Orlov,Vesa Ahti,6-4 6-4,1.54,1.9%,3.8%,50.9%,81.5%,69.2%,0/0,54.6%,37.9%,6.1%,28.9%,50.0%,2/7,119,1,2,53,27,26,4,
+10-Jul-2023,Salzburg CH,3,Clay,Q2,407,402,0,7,6,Akira Santillan,Vladyslav Orlov,6-3 6-1,0.52,0.0%,10.4%,45.8%,54.5%,42.3%,3/8,37.5%,27.1%,10.4%,27.8%,25.0%,1/6,96,0,5,48,22,26,5,1:17
+10-Jul-2023,Salzburg CH,3,Clay,Q1,407,1134,1,7,Alt,Vladyslav Orlov,Milos Karol,5-7 6-3 6-1,1.17,1.1%,5.3%,56.4%,58.5%,48.8%,5/10,53.8%,53.3%,4.4%,51.0%,56.4%,8/15,184,1,5,94,53,41,4,
+3-Jul-2023,Karlsruhe CH,3,Clay,Q1,407,512,0,11,,Tim Handel,Vladyslav Orlov,6-4 6-4,0.82,4.1%,0.0%,73.5%,75.0%,46.2%,0/3,45.7%,26.8%,1.8%,21.6%,36.8%,1/4,105,2,0,49,36,13,1,1:14
+26-Jun-2023,M25 Arlon,3,Clay,R32,420,468,0,6,,Facundo Juarez,Vladyslav Orlov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,SF,414,658,0,4,,Patrik Rikl,Vladyslav Orlov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,QF,414,,1,4,Q,Vladyslav Orlov,Sebastian Sec,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R16,414,,1,4,Q,Vladyslav Orlov,Roman Postolka,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M25 Poprad,3,Clay,R32,414,772,1,4,,Vladyslav Orlov,Brandon Walkin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,Stuttgart,3,Grass,Q1,416,205,0,,7,Antoine Bellier,Vladyslav Orlov,6-3 6-4,0.39,1.2%,2.4%,67.1%,54.5%,63.0%,7/9,42.3%,16.7%,22.9%,12.0%,21.7%,0/0,130,1,2,82,55,27,11,1:21
 5-Jun-2023,Heilbronn CH,3,Clay,Q2,370,448,0,8,,Sebastian Fanselow,Vladyslav Orlov,6-3 3-6 6-3,0.91,1.2%,3.5%,57.6%,55.1%,47.2%,7/13,47.9%,44.0%,6.0%,45.5%,42.5%,5/5,169,1,3,85,49,36,5,2:33
 5-Jun-2023,Heilbronn CH,3,Clay,Q1,370,,1,8,WC,Vladyslav Orlov,Petros Tsitsipas,6-2 6-4,1.17,0.0%,3.2%,54.8%,64.7%,67.9%,4/4,53.3%,39.7%,5.2%,22.6%,59.3%,3/8,120,0,2,62,34,28,3,1:38
 29-May-2023,Troisdorf CH,3,Clay,Q1,370,794,0,12,WC,Marvin Moeller,Vladyslav Orlov,6-1 6-3,0.73,1.6%,6.5%,59.7%,45.9%,40.0%,7/13,42.3%,41.0%,0.0%,38.5%,45.5%,2/9,123,1,4,62,37,25,0,1:40
@@ -86,7 +102,7 @@
 18-Apr-2022,M15 Monastir,3,Hard,R16,505,1068,0,1,,Mark Lajal,Vladyslav Orlov,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Apr-2022,M15 Monastir,3,Hard,R32,505,,1,1,Q,Vladyslav Orlov,Jae Hwan Kim,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2022,M15 Monastir,3,Hard,R32,502,1070,0,2,Q,Bu Yunchaokete,Vladyslav Orlov,6-7(4) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Apr-2022,Murcia CH,3,Clay,Q1,499,806,0,12,WC,Daniel Merida Aguilar ,Vladyslav Orlov,6-3 7-6(2),0.77,1.3%,2.5%,70.0%,58.9%,37.5%,9/14,45.2%,36.4%,9.1%,30.6%,43.3%,3/9,146,1,2,80,56,24,6,1:45
+4-Apr-2022,Murcia CH,3,Clay,Q1,499,806,0,12,WC,Daniel Merida Aguilar,Vladyslav Orlov,6-3 7-6(2),0.77,1.3%,2.5%,70.0%,58.9%,37.5%,9/14,45.2%,36.4%,9.1%,30.6%,43.3%,3/9,146,1,2,80,56,24,6,1:45
 14-Mar-2022,M25 Antalya,3,Clay,R32,495,714,0,,,Marsel Ilhan,Vladyslav Orlov,6-7(2) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Mar-2022,M25 Antalya,3,Clay,R32,495,644,0,8,,Yuki Mochizuki,Vladyslav Orlov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2022,Las Palmas CH,3,Clay,Q2,499,543,0,12,,Pol Toledo Bague,Vladyslav Orlov,6-4 6-3,0.76,0.0%,4.4%,66.2%,51.1%,65.2%,2/6,45.9%,33.3%,5.6%,22.6%,47.8%,1/1,122,0,3,68,45,23,3,1:42

@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+28-Aug-2023,US Open,5,Hard,R128,131,39,0,Q,,Lorenzo Sonego,Nicolas Moreno De Alboran,6-3 6-4 6-2,0.65,8.6%,8.6%,66.7%,58.1%,32.3%,8/14,41.7%,32.9%,6.1%,23.9%,44.4%,2/3,175,8,8,93,62,31,5,2:19
+28-Aug-2023,US Open,5,Hard,Q3,131,173,1,25,,Nicolas Moreno De Alboran,Joris De Loore,3-6 7-6(3) 7-6(12),0.75,6.0%,6.0%,71.8%,77.4%,51.5%,4/5,47.9%,22.5%,16.7%,14.0%,33.3%,0/0,219,7,7,117,84,33,17,3:07
+28-Aug-2023,US Open,5,Hard,Q2,131,245,1,25,,Nicolas Moreno De Alboran,Aziz Dougaz,7-6(5) 6-4,1.54,15.2%,1.5%,72.7%,85.4%,55.6%,0/0,54.1%,35.0%,2.5%,27.1%,46.9%,1/6,146,10,1,66,48,18,2,1:48
+28-Aug-2023,US Open,5,Hard,Q1,131,170,1,25,,Nicolas Moreno De Alboran,Elias Ymer,6-4 6-2,1.46,3.5%,5.3%,59.6%,79.4%,52.2%,2/3,57.8%,46.2%,5.8%,53.3%,36.4%,4/4,109,2,3,57,34,23,3,1:30
+14-Aug-2023,Palo Alto CH,3,Hard,R16,136,90,0,,2,Yosuke Watanuki,Nicolas Moreno De Alboran,7-5 6-3,0.67,11.7%,6.7%,61.7%,67.6%,52.2%,1/3,43.4%,25.8%,25.8%,9.4%,43.3%,0/2,122,7,4,60,37,23,16,1:23
+14-Aug-2023,Palo Alto CH,3,Hard,R32,136,363,1,,Q,Nicolas Moreno De Alboran,Nick Chappell,3-6 6-3 6-4,1.05,4.4%,5.5%,67.0%,70.5%,50.0%,4/6,51.4%,38.1%,6.0%,30.9%,51.7%,3/7,175,4,5,91,61,30,5,2:04
+7-Aug-2023,Cary CH,3,Hard,F,149,256,0,4,,Adam Walton,Nicolas Moreno De Alboran,6-4 3-6 7-5,1.07,17.0%,8.0%,59.0%,78.0%,41.5%,3/7,50.5%,39.7%,4.3%,35.1%,44.1%,3/13,216,17,8,100,59,41,5,2:59
+7-Aug-2023,Cary CH,3,Hard,SF,149,297,1,4,WC,Nicolas Moreno De Alboran,Patrick Kypson,6-7(10) 6-3 6-1,1.28,16.9%,6.7%,65.2%,86.2%,48.4%,0/0,53.6%,34.4%,11.1%,19.2%,55.3%,4/7,179,15,6,89,58,31,10,2:28
+7-Aug-2023,Cary CH,3,Hard,QF,149,272,1,4,Alt,Nicolas Moreno De Alboran,Ryan Peniston,6-3 6-4,1.24,1.4%,2.9%,65.2%,80.0%,54.2%,4/4,56.3%,36.0%,8.0%,8.3%,61.5%,2/3,119,1,2,69,45,24,4,1:33
+7-Aug-2023,Cary CH,3,Hard,R16,149,772,1,4,Q,Nicolas Moreno De Alboran,Stefan Dostanic,6-2 7-6(5),1.67,12.7%,7.3%,60.0%,78.8%,63.6%,0/1,56.8%,45.5%,5.2%,31.0%,62.9%,3/8,132,7,4,55,33,22,4,1:31
+7-Aug-2023,Cary CH,3,Hard,R32,149,653,1,4,Q,Nicolas Moreno De Alboran,Quinn Vandecasteele,6-3 7-5,1.19,3.0%,3.0%,68.2%,75.6%,47.6%,5/6,53.0%,39.7%,4.4%,36.8%,43.3%,4/10,134,2,2,66,45,21,3,1:36
+24-Jul-2023,Segovia CH,3,Hard,SF,150,184,0,3,6,Pablo Llamas Ruiz,Nicolas Moreno De Alboran,6-7(5) 6-1 7-6(3),0.95,10.3%,5.2%,63.9%,72.6%,54.3%,0/4,48.3%,32.4%,3.7%,29.2%,37.2%,2/13,205,10,5,97,62,35,4,2:49
+24-Jul-2023,Segovia CH,3,Hard,QF,150,356,1,3,WC,Nicolas Moreno De Alboran,Fernando Verdasco,6-3 6-2,2.30,13.3%,2.2%,57.8%,88.5%,63.2%,0/0,60.3%,51.2%,4.7%,38.9%,71.9%,4/17,131,6,1,45,26,19,4,1:30
+24-Jul-2023,Segovia CH,3,Hard,R16,150,216,1,3,,Nicolas Moreno De Alboran,Cem Ilkel,6-4 6-2,1.65,28.0%,10.0%,60.0%,83.3%,55.0%,1/2,58.8%,46.2%,7.7%,27.6%,69.6%,4/5,102,14,5,50,30,20,4,1:11
+24-Jul-2023,Segovia CH,3,Hard,R32,150,276,1,3,,Nicolas Moreno De Alboran,Alejandro Moro Canas,6-4 6-2,1.78,6.1%,0.0%,81.6%,77.5%,77.8%,1/1,56.9%,40.0%,6.7%,35.1%,47.8%,3/5,109,3,0,49,40,9,4,1:22
+17-Jul-2023,Pozoblanco CH,3,Hard,R32,146,402,0,2,Q,Daniel Cukierman,Nicolas Moreno De Alboran,6-4 7-6(6),1.27,6.1%,9.1%,62.1%,85.4%,48.0%,0/1,50.6%,36.5%,0.0%,29.9%,51.7%,0/4,162,4,6,66,41,25,0,1:53
+3-Jul-2023,Wimbledon,5,Grass,Q1,143,146,0,31,,Norbert Gombos,Nicolas Moreno De Alboran,6-2 2-6 6-4,0.89,11.9%,4.5%,59.7%,72.5%,51.9%,1/4,48.1%,31.8%,4.5%,32.6%,30.0%,2/2,133,8,3,67,40,27,3,1:21
+12-Jun-2023,Palmas Del Mar CH,3,Hard,R32,142,424,0,2,LL,Alex Rybakov,Nicolas Moreno De Alboran,7-6(4) 6-3,0.93,6.9%,1.7%,56.9%,72.7%,52.0%,3/5,46.4%,33.8%,3.8%,32.8%,36.8%,1/5,138,4,1,58,33,25,3,1:57
 5-Jun-2023,Tyler CH,3,Hard,F,187,296,1,3,,Nicolas Moreno De Alboran,Mikhail Kukushkin,6-7(8) 7-6(0) 6-4,1.09,15.3%,6.5%,72.6%,76.7%,55.9%,6/7,52.3%,31.5%,4.5%,30.9%,33.3%,2/6,235,19,8,124,90,34,5,3:09
 5-Jun-2023,Tyler CH,3,Hard,SF,187,333,1,3,Q,Nicolas Moreno De Alboran,Peter Gojowczyk,6-1 6-2,2.10,38.1%,4.8%,76.2%,84.4%,50.0%,0/0,63.4%,50.0%,0.0%,22.7%,83.3%,4/5,82,16,2,42,32,10,0,0:47
 5-Jun-2023,Tyler CH,3,Hard,QF,187,246,1,3,,Nicolas Moreno De Alboran,Tennys Sandgren,7-5 4-6 6-3,0.82,15.2%,5.4%,64.3%,73.6%,50.0%,5/6,49.7%,28.4%,17.3%,19.2%,44.8%,2/6,193,17,6,112,72,40,14,2:23
@@ -7,8 +25,8 @@
 29-May-2023,Little Rock CH,3,Hard,R16,187,325,0,2,Q,Beibit Zhukayev,Nicolas Moreno De Alboran,6-2 6-7(1) 7-6(5),0.93,6.2%,5.3%,62.8%,76.1%,40.5%,6/9,48.3%,34.5%,12.6%,18.8%,52.7%,1/7,232,7,6,113,71,42,15,3:07
 29-May-2023,Little Rock CH,3,Hard,R32,187,289,1,2,,Nicolas Moreno De Alboran,Marek Gengel,2-6 6-3 6-4,1.22,11.5%,2.6%,65.4%,78.4%,44.4%,0/3,52.3%,40.6%,4.2%,29.6%,54.8%,3/8,174,9,2,78,51,27,4,1:59
 29-May-2023,Roland Garros,5,Clay,Q3,187,62,0,,1,Aslan Karatsev,Nicolas Moreno De Alboran,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q2,187,97,1,,18,Nicolas Moreno De Alboran,Aleksandar Vukic,4-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,187,186,1,,,Nicolas Moreno De Alboran,Yu Hsiou Hsu,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,187,97,1,,18,Nicolas Moreno De Alboran,Aleksandar Vukic,4-6 7-6(4) 6-2,1.10,4.9%,5.8%,58.3%,71.7%,46.5%,4/8,51.9%,42.7%,2.9%,33.3%,54.3%,5/11,206,5,6,103,60,43,3,
+29-May-2023,Roland Garros,5,Clay,Q1,187,186,1,,,Nicolas Moreno De Alboran,Yu Hsiou Hsu,6-1 3-6 6-1,1.19,5.7%,2.3%,88.5%,58.4%,40.0%,8/11,54.2%,51.9%,1.2%,50.0%,80.0%,7/17,168,5,2,87,77,10,1,
 15-May-2023,Oeiras 4 CH,3,Clay,SF,207,134,0,,7,Facundo Diaz Acosta,Nicolas Moreno De Alboran,7-6(9) 6-2,0.96,0.0%,7.7%,56.9%,59.5%,67.9%,3/6,47.3%,35.3%,1.2%,30.0%,48.0%,1/9,150,0,5,65,37,28,1,2:09
 15-May-2023,Oeiras 4 CH,3,Clay,QF,207,68,1,,1,Nicolas Moreno De Alboran,Pedro Cachin,6-1 6-4,1.79,2.0%,3.9%,70.6%,88.9%,40.0%,1/1,59.3%,45.6%,5.3%,47.1%,43.5%,3/10,108,1,2,51,36,15,3,1:20
 15-May-2023,Oeiras 4 CH,3,Clay,R16,207,187,1,,,Nicolas Moreno De Alboran,Steve Johnson,6-3 6-0,2.03,13.2%,2.6%,60.5%,82.6%,60.0%,0/0,61.2%,53.3%,5.0%,48.6%,60.9%,5/12,98,5,1,38,23,15,3,1:09

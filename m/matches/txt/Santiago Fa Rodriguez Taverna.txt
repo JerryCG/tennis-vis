@@ -1,9 +1,29 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Tulln CH,3,Clay,QF,270,130,0,,3,Maximilian Marterer,Santiago Fa Rodriguez Taverna,4-6 6-4 7-6(1),0.90,3.0%,3.0%,54.0%,72.2%,56.5%,2/4,48.0%,31.4%,3.9%,24.4%,54.2%,2/7,202,3,3,100,54,46,4,2:19
+4-Sep-2023,Tulln CH,3,Clay,R16,270,161,1,,6,Santiago Fa Rodriguez Taverna,Ivan Gakhov,6-7(4) 6-4 7-6(4),1.11,3.7%,1.9%,56.1%,78.3%,55.3%,2/5,51.6%,35.2%,9.3%,14.8%,55.6%,4/8,215,4,2,107,60,47,10,2:46
+4-Sep-2023,Tulln CH,3,Clay,R32,270,232,1,,,Santiago Fa Rodriguez Taverna,Rudolf Molleker,7-5 6-4,1.35,5.4%,1.8%,60.7%,76.5%,68.2%,0/1,52.8%,36.2%,5.8%,31.3%,47.6%,3/8,125,3,1,56,34,22,4,1:13
+28-Aug-2023,Como CH,3,Clay,Q2,270,372,0,2,Alt,Miljan Zekic,Santiago Fa Rodriguez Taverna,7-5 6-2,0.77,7.3%,1.8%,67.3%,59.5%,55.6%,2/6,45.0%,32.1%,7.1%,10.3%,55.6%,1/3,111,4,1,55,37,18,4,1:16
+28-Aug-2023,Como CH,3,Clay,Q1,270,388,1,2,,Santiago Fa Rodriguez Taverna,Karl Friberg,7-5 7-6(5),1.18,6.2%,0.0%,47.7%,61.3%,67.6%,2/5,51.3%,41.8%,2.2%,31.1%,63.3%,4/7,156,4,0,65,31,34,2,1:55
+21-Aug-2023,Augsburg CH,3,Clay,R32,268,335,0,6,,Louis Wessels,Santiago Fa Rodriguez Taverna,7-5 7-6(2),0.73,6.7%,4.5%,56.2%,62.0%,51.3%,2/4,45.4%,31.1%,6.8%,23.4%,44.4%,1/1,163,6,4,89,50,39,5,1:59
+14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,R32,269,183,0,,5,Jesper De Jong,Santiago Fa Rodriguez Taverna,6-3 4-3 RET,0.43,8.8%,1.5%,55.9%,68.4%,46.7%,10/12,42.5%,17.8%,4.4%,4.2%,33.3%,0/0,113,6,1,68,38,30,2,1:34
+7-Aug-2023,Meerbusch CH,3,Clay,R32,270,183,0,,3,Sumit Nagal,Santiago Fa Rodriguez Taverna,6-3 6-3,0.63,6.2%,6.2%,50.8%,60.6%,53.1%,4/7,43.3%,27.3%,1.8%,27.8%,26.3%,0/4,120,4,4,65,33,32,1,1:26
+31-Jul-2023,Luedenscheid CH,3,Clay,R16,272,208,0,,,Gauthier Onclin,Santiago Fa Rodriguez Taverna,6-1 6-4,0.52,14.8%,1.6%,50.8%,74.2%,33.3%,3/6,40.5%,24.0%,2.0%,10.0%,45.0%,0/3,111,9,1,61,31,30,1,1:20
+31-Jul-2023,Luedenscheid CH,3,Clay,R32,272,726,1,,Q,Santiago Fa Rodriguez Taverna,Georgii Kravchenko,6-3 6-2,1.58,10.0%,2.0%,54.0%,63.0%,78.3%,4/5,58.1%,47.3%,9.1%,36.4%,63.6%,4/13,105,5,1,50,27,23,5,1:03
+24-Jul-2023,Zug CH,3,Clay,R32,259,200,0,,,Jakub Mensik,Santiago Fa Rodriguez Taverna,6-4 6-3,0.79,3.1%,4.6%,61.5%,70.0%,36.0%,5/9,46.3%,33.9%,10.7%,20.6%,54.5%,1/4,121,2,3,65,40,25,6,1:14
+17-Jul-2023,Amersfoort CH,3,Clay,R32,254,149,0,,3,Jan Choinski,Santiago Fa Rodriguez Taverna,6-4 7-5,0.75,2.6%,3.9%,52.6%,70.0%,36.1%,8/12,44.4%,34.7%,2.7%,31.5%,42.9%,2/10,151,2,3,76,40,36,2,1:47
+3-Jul-2023,Santa Fe CH,3,Clay,R32,224,993,0,2,WC,Alejo Lorenzo Lingua Lavallen,Santiago Fa Rodriguez Taverna,6-4 3-6 6-3,0.92,4.3%,2.1%,62.8%,74.6%,45.7%,5/7,48.9%,33.3%,1.1%,31.0%,37.5%,1/5,184,4,2,94,59,35,1,2:11
+26-Jun-2023,Medellin CH,3,Clay,QF,228,344,0,2,,Eduardo Ribeiro,Santiago Fa Rodriguez Taverna,6-3 4-6 6-2,0.79,7.7%,6.6%,59.3%,55.6%,37.8%,5/12,44.8%,41.0%,3.6%,34.9%,47.5%,4/11,174,7,6,91,54,37,3,1:57
+26-Jun-2023,Medellin CH,3,Clay,R16,228,481,1,2,,Santiago Fa Rodriguez Taverna,Orlando Luz,7-6(3) 6-3,1.16,13.5%,4.1%,55.4%,75.6%,66.7%,5/5,53.6%,32.8%,7.8%,18.4%,53.8%,1/6,138,10,3,74,41,33,5,1:44
+26-Jun-2023,Medellin CH,3,Clay,R32,228,454,1,2,Q,Santiago Fa Rodriguez Taverna,Aidan Mayo,7-6(5) 6-3,1.60,8.3%,8.3%,48.3%,86.2%,67.7%,1/1,53.8%,37.3%,6.0%,31.3%,45.7%,2/7,143,5,5,60,29,31,5,1:38
+19-Jun-2023,Cali CH,3,Clay,SF,253,266,0,5,6,Federico Delbonis,Santiago Fa Rodriguez Taverna,7-6(3) 6-3,0.62,9.8%,2.4%,62.2%,68.6%,51.6%,5/6,44.7%,23.5%,4.4%,15.2%,40.9%,0/2,150,8,2,82,51,31,3,1:42
+19-Jun-2023,Cali CH,3,Clay,QF,253,144,1,5,1,Santiago Fa Rodriguez Taverna,Alejandro Tabilo,4-6 6-3 7-6(5),1.10,7.6%,3.3%,64.1%,78.0%,54.5%,3/5,50.3%,33.3%,6.7%,29.5%,38.6%,3/11,197,7,3,92,59,33,7,2:24
+19-Jun-2023,Cali CH,3,Clay,R16,253,293,1,5,,Santiago Fa Rodriguez Taverna,Nino Serdarusic,7-6(5) 6-4,1.11,12.0%,0.0%,62.7%,72.3%,60.7%,7/8,51.3%,35.4%,10.1%,26.0%,51.7%,2/7,154,9,0,75,47,28,8,1:56
+19-Jun-2023,Cali CH,3,Clay,R32,253,381,1,5,,Santiago Fa Rodriguez Taverna,Sasi Kumar Mukund,7-6(3) 7-6(5),1.10,3.4%,8.0%,60.2%,67.9%,45.7%,2/6,52.4%,45.1%,4.9%,25.6%,62.8%,4/6,170,3,7,88,53,35,4,1:51
 29-May-2023,Vicenza CH,3,Clay,QF,245,128,0,,1,Francesco Passaro,Santiago Fa Rodriguez Taverna,6-3 6-4,0.81,2.0%,2.0%,68.0%,64.7%,43.8%,0/3,44.6%,33.9%,3.2%,29.2%,50.0%,1/2,112,1,1,50,34,16,2,1:25
 29-May-2023,Vicenza CH,3,Clay,R16,245,167,1,,6,Santiago Fa Rodriguez Taverna,Mattia Bellucci,6-3 7-6(7),1.07,3.8%,2.5%,57.5%,67.4%,50.0%,9/11,51.6%,42.7%,1.3%,32.7%,61.5%,3/6,155,3,2,80,46,34,1,2:05
 29-May-2023,Vicenza CH,3,Clay,R32,245,204,1,,,Santiago Fa Rodriguez Taverna,Matteo Gigante,1-6 6-1 6-1,1.19,3.4%,4.5%,61.4%,70.4%,38.2%,8/11,54.8%,50.0%,3.4%,46.5%,60.0%,5/6,146,3,4,88,54,34,2,1:36
-29-May-2023,Roland Garros,5,Clay,Q2,245,129,0,,12,Giulio Zeppieri,Santiago Fa Rodriguez Taverna,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-May-2023,Roland Garros,5,Clay,Q1,245,260,1,,,Santiago Fa Rodriguez Taverna,Joao Sousa,6-2 3-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,245,129,0,,12,Giulio Zeppieri,Santiago Fa Rodriguez Taverna,6-3 6-4,0.58,1.5%,2.9%,61.8%,54.8%,57.7%,7/10,42.9%,25.5%,2.0%,14.8%,37.5%,1/2,119,1,2,68,42,26,1,
+29-May-2023,Roland Garros,5,Clay,Q1,245,260,1,,,Santiago Fa Rodriguez Taverna,Joao Sousa,6-2 3-6 7-6(8),0.90,7.5%,2.8%,61.3%,67.7%,61.0%,6/8,49.5%,31.5%,1.1%,27.6%,38.2%,3/4,198,8,3,106,65,41,1,
 1-May-2023,Coquimbo CH,3,Clay,QF,233,262,0,3,7,Roman Andres Burruchaga,Santiago Fa Rodriguez Taverna,7-5 6-1,0.66,4.5%,4.5%,59.1%,53.8%,40.7%,4/9,41.6%,33.9%,0.0%,17.1%,72.2%,1/4,125,3,3,66,39,27,0,1:24
 1-May-2023,Coquimbo CH,3,Clay,R16,233,482,1,3,Q,Santiago Fa Rodriguez Taverna,Arklon Huertas Del Pino,6-4 3-6 6-4,1.06,3.1%,4.1%,69.1%,64.2%,43.3%,7/11,50.7%,44.7%,2.6%,42.7%,50.0%,5/14,211,3,4,97,67,30,3,2:25
 1-May-2023,Coquimbo CH,3,Clay,R32,233,459,1,3,,Santiago Fa Rodriguez Taverna,Valerio Aboian,6-4 6-4,1.39,8.6%,5.2%,51.7%,73.3%,57.1%,1/3,55.6%,48.1%,0.0%,41.2%,61.5%,4/9,135,5,3,58,30,28,0,1:27

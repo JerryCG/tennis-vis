@@ -1,4 +1,33 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+4-Sep-2023,Genoa CH,3,Clay,R32,529,357,0,,Q,Chun Hsin Tseng,Federico Iannaccone,6-2 6-0,0.43,0.0%,5.4%,59.5%,36.4%,53.3%,1/6,33.8%,24.3%,0.0%,11.8%,35.0%,0/0,74,0,2,37,22,15,0,0:59
+4-Sep-2023,Genoa CH,3,Clay,Q2,529,310,1,,1,Federico Iannaccone,Gabriel Debru,6-2 4-0 RET,1.96,0.0%,2.6%,71.1%,70.4%,72.7%,1/1,64.0%,56.8%,2.7%,50.0%,61.9%,4/6,75,0,1,38,27,11,1,1:06
+4-Sep-2023,Genoa CH,3,Clay,Q1,529,890,1,,Alt,Federico Iannaccone,Gabriele Maria Noce,6-2 6-4,1.49,3.7%,3.7%,77.8%,61.9%,58.3%,3/6,59.3%,57.8%,1.6%,50.0%,65.6%,6/11,118,2,2,54,42,12,1,1:45
+28-Aug-2023,M25 Sion,3,Clay,SF,529,369,0,8,3,Remy Bertola,Federico Iannaccone,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Sion,3,Clay,QF,529,553,1,8,,Federico Iannaccone,Jakub Paul,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Sion,3,Clay,R16,529,,1,8,Q,Federico Iannaccone,Mischa Lanz,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Sion,3,Clay,R32,529,1577,1,8,Q,Federico Iannaccone,Gian Luca Tanner,6-1 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Augsburg CH,3,Clay,Q1,528,590,0,,,Mats Moraing,Federico Iannaccone,6-4 6-2,0.72,2.9%,7.2%,66.7%,58.7%,39.1%,6/10,44.1%,34.5%,6.9%,19.2%,46.9%,1/6,127,2,5,69,46,23,4,1:34
+14-Aug-2023,Todi CH,3,Clay,Q1,527,448,0,,7,Julian Ocleppo,Federico Iannaccone,6-1 4-6 6-3,0.84,2.4%,7.1%,64.3%,51.9%,43.3%,3/10,45.8%,43.0%,0.0%,32.2%,61.8%,4/9,177,2,6,84,54,30,0,2:18
+7-Aug-2023,Cordenons CH,3,Clay,R16,572,247,0,,,Hernan Casanova,Federico Iannaccone,6-2 6-3,0.58,0.0%,11.3%,69.8%,48.6%,25.0%,3/8,37.6%,33.9%,0.0%,36.2%,22.2%,1/7,109,0,6,53,37,16,0,1:28
+7-Aug-2023,Cordenons CH,3,Clay,R32,572,224,1,,6,Federico Iannaccone,Andrea Collarini,6-2 2-0 RET,1.46,0.0%,2.9%,68.6%,70.8%,54.5%,3/3,58.2%,50.0%,6.3%,41.2%,60.0%,3/6,67,0,1,35,24,11,2,1:04
+7-Aug-2023,Cordenons CH,3,Clay,Q2,572,370,1,,3,Federico Iannaccone,Kenny De Schepper,7-5 6-0,1.52,2.0%,2.0%,66.0%,63.6%,64.7%,2/4,58.6%,54.5%,0.0%,47.8%,70.0%,6/7,116,1,1,50,33,17,0,1:38
+7-Aug-2023,Cordenons CH,3,Clay,Q1,572,491,1,,11,Federico Iannaccone,Wilson Leite,6-3 6-3,1.38,3.6%,5.5%,61.8%,64.7%,47.6%,0/3,57.9%,57.6%,5.1%,52.9%,64.0%,6/11,114,2,3,55,34,21,3,1:38
+31-Jul-2023,Liberec CH,3,Clay,Q2,572,426,0,,2,Alex Marti Pujolras,Federico Iannaccone,6-0 6-3,0.63,0.0%,2.1%,70.8%,41.2%,42.9%,6/11,38.9%,36.7%,3.3%,29.7%,47.8%,1/4,108,0,1,48,34,14,2,1:25
+31-Jul-2023,Liberec CH,3,Clay,Q1,572,772,1,,,Federico Iannaccone,Martin Krumich,7-6(1) 6-3,1.22,0.0%,1.6%,74.6%,66.0%,50.0%,1/4,54.7%,46.3%,3.7%,22.7%,62.5%,4/6,117,0,1,63,47,16,2,1:49
+24-Jul-2023,Verona CH,3,Clay,Q1,568,312,0,,9,Stefano Napolitano,Federico Iannaccone,3-6 6-1 6-2,0.75,1.3%,2.6%,84.2%,45.3%,50.0%,4/10,43.1%,40.5%,1.2%,29.8%,54.1%,3/14,160,1,2,76,64,12,1,2:16
+17-Jul-2023,Tampere CH,3,Clay,Q2,509,260,0,,1,Valentin Vacherot,Federico Iannaccone,6-7(3) 7-6(5) 6-4,0.94,0.0%,2.4%,76.0%,53.7%,36.7%,3/11,48.4%,47.2%,2.4%,44.6%,52.5%,7/14,248,0,3,125,95,30,3,3:30
+17-Jul-2023,Tampere CH,3,Clay,Q1,509,640,1,,12,Federico Iannaccone,Matias Zukas,7-6(8) 6-0,1.45,0.0%,2.8%,77.5%,63.6%,56.3%,2/4,58.5%,55.3%,5.3%,45.5%,68.8%,5/8,147,0,2,71,55,16,4,
+10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,Q1,557,333,0,,3,Francesco Forti,Federico Iannaccone,6-4 6-4,0.91,0.0%,0.0%,82.3%,52.9%,63.6%,3/7,46.9%,41.2%,5.9%,30.4%,62.1%,2/10,147,0,0,62,51,11,5,
+3-Jul-2023,Milan CH,3,Clay,R16,557,132,0,,4,Thiago Agustin Tirante,Federico Iannaccone,6-3 6-0,0.56,0.0%,9.3%,67.4%,41.4%,21.4%,1/7,35.6%,36.4%,6.8%,32.3%,46.2%,2/2,87,0,4,43,29,14,3,1:10
+3-Jul-2023,Milan CH,3,Clay,R32,557,227,1,,,Federico Iannaccone,Renzo Olivo,6-1 4-0 RET,2.21,0.0%,3.2%,71.0%,72.7%,66.7%,2/2,67.1%,64.1%,0.0%,55.0%,73.7%,5/11,70,0,1,31,22,9,0,1:06
+3-Jul-2023,Milan CH,3,Clay,Q2,557,623,1,,,Federico Iannaccone,Andrea Arnaboldi,6-3 6-1,1.59,0.0%,3.7%,81.5%,70.5%,60.0%,3/3,59.1%,50.0%,0.0%,38.9%,70.0%,4/10,110,0,2,54,44,10,0,1:34
+3-Jul-2023,Milan CH,3,Clay,Q1,557,361,1,,9,Federico Iannaccone,Marius Copil,7-5 6-1,1.39,2.9%,1.4%,84.1%,69.0%,45.5%,4/5,57.4%,48.3%,3.3%,41.2%,57.7%,4/7,129,2,1,69,58,11,2,1:46
+26-Jun-2023,M15 Bergamo,3,Clay,SF,548,526,0,6,5,Inaki Montes De La Torre,Federico Iannaccone,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Bergamo,3,Clay,QF,548,1127,1,6,,Federico Iannaccone,Carlo Alberto Fossati,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Bergamo,3,Clay,R16,548,799,1,6,,Federico Iannaccone,Leonardo Rossi,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Jun-2023,M15 Bergamo,3,Clay,R32,548,1460,1,6,Q,Federico Iannaccone,Adam Jurajda,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,R16,546,1334,0,4,Q,Alessandro Pecci,Federico Iannaccone,W/O,,,,,,,,,,,,,,,,,,,,,
+12-Jun-2023,M15 Chieti,3,Clay,R32,546,1309,1,4,Q,Federico Iannaccone,Francesco Ferrari,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R16,571,514,0,,8,Julian Ocleppo,Federico Iannaccone,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M15 Frascati,3,Clay,R32,571,1252,1,,Q,Federico Iannaccone,Mert Alkaya,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 Rome,3,Clay,QF,571,492,0,,,Luca Potenza,Federico Iannaccone,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
