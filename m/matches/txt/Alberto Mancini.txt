@@ -44,8 +44,8 @@
 3-May-1993,Hamburg Masters,3,Clay,R32,81,7,0,,3,Ivan Lendl,Alberto Mancini,6-2 0-6 6-2,0.92,0.0%,1.2%,75.9%,44.4%,50.0%,9/16,48.0%,50.0%,4.3%,36.0%,66.7%,6/15,175,0,1,83,63,20,4,2:33
 3-May-1993,Hamburg Masters,3,Clay,R64,81,44,1,,,Alberto Mancini,Kenneth Carlsen,6-1 6-2,1.59,3.6%,1.8%,76.8%,62.8%,61.5%,1/2,61.2%,59.5%,2.4%,47.6%,71.4%,5/5,98,2,1,56,43,13,1,1:09
 5-Apr-1993,Barcelona,3,Clay,R64,41,83,0,,,Rodolphe Gilbert,Alberto Mancini,2-0 RET,0.77,0.0%,0.0%,77.3%,52.9%,20.0%,6/7,43.9%,42.1%,10.5%,25.0%,54.5%,0/2,41,0,0,22,17,5,2,0:26
-29-Mar-1993,Estoril,3,Clay,R16,,,0,,3,Sergi Bruguera,Alberto Mancini,2-6 6-4 6-2,0.85,1.0%,2.0%,53.5%,62.3%,50.0%,9/13,48.0%,36.8%,0.0%,40.9%,31.3%,3/7,175,1,2,99,53,46,0,2:15
-29-Mar-1993,Estoril,3,Clay,R32,,,1,,,Alberto Mancini,Bart Wuyts,6-2 6-4,1.35,1.9%,1.9%,55.6%,76.7%,50.0%,4/5,54.6%,47.4%,0.0%,45.3%,52.2%,4/11,130,1,1,54,30,24,0,1:47
+29-Mar-1993,Estoril,3,Clay,R16,46,16,0,,3,Sergi Bruguera,Alberto Mancini,2-6 6-4 6-2,0.85,1.0%,2.0%,53.5%,62.3%,50.0%,9/13,48.0%,36.8%,0.0%,40.9%,31.3%,3/7,175,1,2,99,53,46,0,2:15
+29-Mar-1993,Estoril,3,Clay,R32,46,91,1,,,Alberto Mancini,Bart Wuyts,6-2 6-4,1.35,1.9%,1.9%,55.6%,76.7%,50.0%,4/5,54.6%,47.4%,0.0%,45.3%,52.2%,4/11,130,1,1,54,30,24,0,1:47
 26-Mar-1993,Davis Cup G1 SF: ARG vs MEX,3,Clay,RR,46,168,1,,,Alberto Mancini,Oliver Fernandez,6-7(3) 6-1 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Mar-1993,Davis Cup G1 SF: ARG vs MEX,3,Clay,RR,46,62,1,,,Alberto Mancini,Luis Herrera,6-3 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Mar-1993,Miami Masters,3,Hard,R64,27,74,0,22,,Guillaume Raoux,Alberto Mancini,6-3 6-4,0.68,1.7%,8.6%,58.6%,67.6%,45.8%,3/6,43.5%,28.1%,7.0%,15.4%,38.7%,1/2,115,1,5,58,34,24,4,1:14
@@ -112,7 +112,7 @@
 28-Oct-1991,Paris Masters,3,Carpet,R64,22,88,0,,Q,Jason Stoltenberg,Alberto Mancini,3-6 7-5 7-6(2),0.70,5.6%,0.9%,66.7%,72.2%,61.1%,1/3,48.4%,22.0%,8.5%,13.5%,36.7%,2/2,190,6,1,108,72,36,7,1:57
 21-Oct-1991,Stockholm Masters,3,Carpet,R64,22,45,0,,,Carl Uwe Steeb,Alberto Mancini,6-7(3) 6-3 6-4,0.75,2.2%,2.2%,67.7%,65.1%,60.0%,3/6,45.2%,27.4%,6.3%,20.6%,40.6%,1/4,188,2,2,93,63,30,6,2:00
 14-Oct-1991,Lyon,3,Carpet,QF,22,19,0,6,4,Brad Gilbert,Alberto Mancini,6-2 6-2,0.54,0.0%,0.0%,77.6%,49.2%,52.9%,5/9,41.1%,27.1%,0.0%,28.6%,25.0%,0/0,124,0,0,76,59,17,0,1:15
-14-Oct-1991,Lyon,3,Carpet,R16,22,60,1,6,,Alberto Mancini,Nicklas Kulti,2-6(8) 7-6 6-4,1.07,8.2%,2.4%,65.9%,73.2%,34.5%,2/5,51.5%,42.7%,3.7%,35.8%,55.2%,4/9,167,7,2,85,56,29,3,2:04
+14-Oct-1991,Lyon,3,Carpet,R16,22,60,1,6,,Alberto Mancini,Nicklas Kulti,7-6(8) 7-6 6-4,1.07,8.2%,2.4%,65.9%,73.2%,34.5%,2/5,51.5%,42.7%,3.7%,35.8%,55.2%,4/9,167,7,2,85,56,29,3,2:04
 14-Oct-1991,Lyon,3,Carpet,R32,22,72,1,6,,Alberto Mancini,Christian Saceanu,2-6 7-5 7-6(2),0.95,2.9%,0.0%,73.8%,68.4%,59.3%,5/8,49.3%,32.4%,6.9%,22.2%,48.7%,2/8,205,3,0,103,76,27,7,1:59
 9-Sep-1991,Geneva,3,Clay,R16,23,78,0,5,,Horacio De La Pena,Alberto Mancini,6-1 3-6 6-4,0.80,3.6%,1.2%,58.3%,57.1%,45.7%,3/8,45.4%,38.0%,1.3%,31.9%,46.9%,3/10,163,3,1,84,49,35,1,2:03
 9-Sep-1991,Geneva,3,Clay,R32,23,73,1,5,,Alberto Mancini,Luiz Mattar,6-3 7-6(5),1.47,11.7%,0.0%,66.7%,80.0%,55.0%,3/4,52.8%,41.6%,5.9%,28.3%,61.0%,3/17,161,7,0,60,40,20,6,1:57
@@ -219,8 +219,8 @@
 31-Jul-1989,Kitzbuhel,3,Clay,R64,12,334,1,1,Q,Alberto Mancini,Richard Vogel,6-2 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jul-1989,Stuttgart Outdoor,3,Clay,R16,10,142,0,2,,Martin Wostenholme,Alberto Mancini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Jul-1989,Stuttgart Outdoor,3,Clay,R32,10,66,1,2,,Alberto Mancini,Marcelo Filippini,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,,,1,,,Alberto Mancini,Chris Bailey,7-5 6-7(4) 7-6(0) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,,,0,,,Jeremy Bates,Alberto Mancini,5-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,10,187,1,,,Alberto Mancini,Chris Bailey,7-5 6-7(4) 7-6(0) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jul-1989,Davis Cup WG PO: GBR vs ARG,3,Grass,RR,10,134,0,,,Jeremy Bates,Alberto Mancini,5-0 RET,,,,,,,,,,,,,,,,,,,,,
 10-Jul-1989,Boston,3,Clay,R32,10,240,0,3,LL,Philip Johnson,Alberto Mancini,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
 29-May-1989,Roland Garros,5,Clay,QF,13,3,0,11,3,Stefan Edberg,Alberto Mancini,6-1 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 29-May-1989,Roland Garros,5,Clay,R16,13,8,1,11,6,Alberto Mancini,Jakob Hlasek,6-4 6-4 4-6 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -245,7 +245,7 @@
 17-Apr-1989,Nice,3,Clay,QF,32,254,0,5,WC,Jerome Potier,Alberto Mancini,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Apr-1989,Nice,3,Clay,R16,32,85,1,5,,Alberto Mancini,Karel Novacek,7-6 6-7 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Apr-1989,Nice,3,Clay,R32,32,60,1,5,,Alberto Mancini,Jan Gunnarsson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Apr-1989,Davis Cup G1 SF: ARG vs CAN,3,Clay,RR,,,1,,,Alberto Mancini,Andrew Sznajder,6-4 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Apr-1989,Davis Cup G1 SF: ARG vs CAN,3,Clay,RR,30,101,1,,,Alberto Mancini,Andrew Sznajder,6-4 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 20-Mar-1989,Key Biscayne,3,Hard,R16,41,172,0,31,,Jim Grabb,Alberto Mancini,6-7 6-4 7-6 6-7 6-4,,,,,,,,,,,,,,,,,,,,,
 20-Mar-1989,Key Biscayne,3,Hard,R32,41,2,1,31,2,Alberto Mancini,Mats Wilander,3-6 6-3 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 20-Mar-1989,Key Biscayne,3,Hard,R64,41,88,1,31,,Alberto Mancini,Marty Davis,7-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,

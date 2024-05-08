@@ -1,4 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Apr-2024,M15 Antalya,3,Clay,SF,851,517,0,,4,Evgeny Tyurnev,Joao Eduardo Schiessl,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Antalya,3,Clay,QF,851,572,1,,5,Joao Eduardo Schiessl,Marlon Vankan,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Antalya,3,Clay,R16,851,1081,1,,Q,Joao Eduardo Schiessl,Cengiz Aksu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Antalya,3,Clay,R32,851,708,1,,,Joao Eduardo Schiessl,Lorenzo Carboni,4-6 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,R16,857,650,0,Q,7,Niels Visker,Joao Eduardo Schiessl,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,R32,857,,1,Q,WC,Joao Eduardo Schiessl,Kanan Gasimov,3-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Antalya,3,Clay,R16,857,454,0,,2,Sebastian Gima,Joao Eduardo Schiessl,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Antalya,3,Clay,R32,857,1333,1,,Q,Joao Eduardo Schiessl,Daniele Minighini,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R16,879,575,0,Q,,Jelle Sels,Joao Eduardo Schiessl,6-7(3) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,879,1192,1,Q,Q,Joao Eduardo Schiessl,Rodrigo Fernandes,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,879,430,0,Q,PR,Carlos Lopez Montagud,Joao Eduardo Schiessl,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,R16,900,504,0,,5,Dmitry Popko,Joao Eduardo Schiessl,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,R32,900,,1,,WC,Joao Eduardo Schiessl,Jan Jermar,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,,R16,894,1228,0,8,WC,Mert Alkaya,Joao Eduardo Schiessl,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,,R32,894,1845,1,8,Q,Joao Eduardo Schiessl,Oscar Galimardanov,6-7(5) 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Curitiba CH,3,Clay,Q2,932,444,0,,4,Mateus Alves,Joao Eduardo Schiessl,7-6(5) 6-7(6) 6-2,0.81,7.2%,5.6%,53.6%,70.1%,48.3%,11/14,47.2%,32.4%,8.3%,15.2%,59.5%,1/4,233,9,7,125,67,58,9,3:26
+23-Oct-2023,Curitiba CH,3,Clay,Q1,932,493,1,,8,Joao Eduardo Schiessl,Jose Pereira,6-4 3-1 RET,1.68,5.4%,0.0%,62.2%,78.3%,71.4%,0/0,56.8%,40.9%,0.0%,42.4%,36.4%,2/6,81,2,0,37,23,14,0,1:05
+9-Oct-2023,M25 Lajeado,3,Clay,R16,958,328,0,,1,Eduardo Ribeiro,Joao Eduardo Schiessl,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Lajeado,3,Clay,R32,958,1040,1,,,Joao Eduardo Schiessl,Rafael Tosetto,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,Campinas CH,3,Clay,Q1,958,573,0,Alt,8,Wilson Leite,Joao Eduardo Schiessl,6-3 2-6 6-4,0.95,3.8%,5.7%,46.7%,57.1%,44.6%,12/18,48.7%,46.8%,2.1%,41.0%,50.9%,6/11,199,4,6,105,49,56,2,2:44
+25-Sep-2023,M25 Lujan,3,Clay,R32,956,404,0,Q,3,Gonzalo Bueno,Joao Eduardo Schiessl,4-6 7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Punta del Este,3,Clay,R32,951,656,0,,4,Franco Roncadelli,Joao Eduardo Schiessl,3-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M15 Sao Paulo,3,Clay,QF,993,332,0,,1,Eduardo Ribeiro,Joao Eduardo Schiessl,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M15 Sao Paulo,3,Clay,R16,993,1471,1,,Q,Joao Eduardo Schiessl,Luis Britto,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M15 Sao Paulo,3,Clay,R32,993,873,1,,7,Joao Eduardo Schiessl,Joao Victor Couto Loureiro,6-1 6-4,,,,,,,,,,,,,,,,,,,,,

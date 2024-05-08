@@ -1,5 +1,66 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+15-Apr-2024,Munich,3,Clay,Q1,341,237,0,Alt,,Henri Squire,Hazem Naw,6-1 6-1,0.57,0.0%,4.9%,58.5%,45.8%,35.3%,1/6,37.1%,33.3%,10.4%,17.9%,55.0%,0/3,89,0,2,41,24,17,5,
+25-Mar-2024,M25 Saint Dizier,3,Hard,QF,333,536,0,5,,Buvaysar Gadamauri,Hazem Naw,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Saint Dizier,3,Hard,R16,333,763,1,5,WC,Hazem Naw,Mae Malige,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Saint Dizier,3,Hard,R32,333,,1,5,Q,Hazem Naw,Dario Huber,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,Lille CH,3,Hard,R16,337,124,0,Q,5,Gregoire Barrere,Hazem Naw,7-5 2-1 RET,0.83,4.7%,7.0%,74.4%,62.5%,36.4%,1/4,45.7%,36.7%,6.1%,32.3%,44.4%,1/4,92,2,3,43,32,11,3,0:59
+26-Feb-2024,Lille CH,3,Hard,R32,337,279,1,Q,Q,Hazem Naw,Michael Geerts,4-6 6-4 7-5,1.08,7.6%,6.7%,65.7%,75.4%,50.0%,8/10,52.0%,36.1%,11.3%,28.1%,51.5%,3/5,202,8,7,105,69,36,11,2:19
+26-Feb-2024,Lille CH,3,Hard,Q2,337,447,1,11,,Hazem Naw,Eliakim Coulibaly,6-3 6-4,1.25,6.8%,6.8%,62.7%,78.4%,54.5%,1/2,54.4%,38.2%,12.7%,26.8%,71.4%,3/8,114,4,4,59,37,22,7,1:20
+26-Feb-2024,Lille CH,3,Hard,Q1,337,800,1,11,WC,Hazem Naw,Cyril Vandermeersch,7-5 6-3,1.16,1.2%,4.9%,63.0%,68.6%,46.7%,4/6,54.2%,45.9%,3.3%,32.4%,63.0%,4/7,142,1,4,81,51,30,2,1:39
+19-Feb-2024,Pau CH,3,Hard,R16,348,305,0,Q,WC,Lucas Pouille,Hazem Naw,6-4 6-3,0.55,3.8%,0.0%,64.2%,64.7%,47.4%,0/3,41.6%,22.9%,27.1%,6.5%,52.9%,0/0,101,2,0,53,34,19,13,1:07
+19-Feb-2024,Pau CH,3,Hard,R32,348,86,1,Q,2,Hazem Naw,Arthur Rinderknech,7-6(2) 6-7(3) 6-2,1.00,3.1%,4.6%,55.4%,72.2%,53.4%,11/12,51.7%,36.3%,15.7%,32.9%,44.8%,3/7,232,4,6,130,72,58,16,2:55
+19-Feb-2024,Pau CH,3,Hard,Q2,348,246,1,10,2,Hazem Naw,Lucas Poullain,6-2 6-4,1.43,3.5%,3.5%,66.7%,73.7%,47.4%,4/5,57.1%,50.0%,3.2%,38.1%,75.0%,4/10,119,2,2,57,38,19,2,1:22
+19-Feb-2024,Pau CH,3,Hard,Q1,348,485,1,10,,Hazem Naw,Ryan Nijboer,6-4 2-6 7-6(3),1.04,2.4%,4.8%,72.3%,68.3%,43.5%,6/11,49.7%,40.2%,12.7%,26.2%,61.0%,4/10,185,2,4,83,60,23,13,2:21
+12-Feb-2024,Cherbourg CH,3,Hard,R16,367,111,0,Q,2,Quentin Halys,Hazem Naw,6-3 7-6(3),0.76,0.0%,4.3%,62.0%,54.4%,62.9%,6/9,46.6%,32.4%,11.3%,14.7%,48.6%,2/6,163,0,4,92,57,35,8,1:50
+12-Feb-2024,Cherbourg CH,3,Hard,R32,367,223,1,Q,,Hazem Naw,Zdenek Kolar,6-4 6-2,1.39,6.0%,4.0%,58.0%,89.7%,38.1%,1/2,55.8%,44.4%,3.7%,24.1%,68.0%,4/8,104,3,2,50,29,21,2,1:18
+12-Feb-2024,Cherbourg CH,3,Hard,Q2,367,556,1,2,,Hazem Naw,Adrien Gobat,7-6(3) 6-1,1.49,2.8%,2.8%,66.2%,74.5%,58.3%,3/4,57.0%,46.3%,3.8%,31.4%,57.8%,3/8,151,2,2,71,47,24,3,1:47
+12-Feb-2024,Cherbourg CH,3,Hard,Q1,367,517,1,2,,Hazem Naw,Alexey Vatutin,7-5 6-1,1.36,7.8%,1.6%,73.4%,74.5%,52.9%,4/4,56.1%,42.4%,6.8%,35.9%,55.0%,4/7,123,5,1,64,47,17,4,1:16
+29-Jan-2024,Koblenz CH,3,Hard,SF,422,96,0,Q,2,Brandon Nakashima,Hazem Naw,6-3 7-5,0.60,3.0%,4.5%,56.7%,65.8%,51.7%,2/4,42.6%,24.2%,6.5%,16.2%,36.0%,0/3,129,2,3,67,38,29,4,1:30
+29-Jan-2024,Koblenz CH,3,Hard,QF,422,180,1,Q,5,Hazem Naw,Zdenek Kolar,6-2 6-4,1.24,4.7%,4.7%,64.1%,78.0%,39.1%,3/4,55.9%,44.7%,4.3%,37.9%,55.6%,4/5,111,3,3,64,41,23,2,1:23
+29-Jan-2024,Koblenz CH,3,Hard,R16,422,274,1,Q,Alt,Hazem Naw,Oscar Otte,2-6 7-6(3) 6-4,0.99,1.1%,8.5%,60.6%,61.4%,35.1%,5/13,49.7%,48.5%,7.8%,40.4%,58.7%,7/17,197,1,8,94,57,37,8,2:20
+29-Jan-2024,Koblenz CH,3,Hard,R32,422,195,1,Q,,Hazem Naw,Billy Harris,7-5 7-5,1.19,4.9%,4.9%,75.6%,66.1%,50.0%,5/7,53.2%,44.9%,3.4%,34.9%,69.2%,4/9,171,4,4,82,62,20,3,2:00
+29-Jan-2024,Koblenz CH,3,Hard,Q2,422,209,1,,1,Hazem Naw,Franco Agamenone,6-0 6-1,3.21,0.0%,2.9%,54.3%,89.5%,68.8%,0/0,71.6%,64.1%,0.0%,56.0%,78.6%,5/12,74,0,1,35,19,16,0,0:47
+29-Jan-2024,Koblenz CH,3,Hard,Q1,422,340,1,,11,Hazem Naw,Egor Gerasimov,2-6 7-5 6-3,0.99,0.9%,4.7%,59.4%,68.3%,51.2%,5/8,49.8%,38.3%,16.8%,30.9%,61.5%,3/12,213,1,5,106,63,43,18,2:24
+22-Jan-2024,M25 Nussloch,3,Carpet,SF,468,646,0,6,,Tom Gentzsch,Hazem Naw,7-6(3) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,QF,468,743,1,6,,Hazem Naw,Millen Hurrion,6-4 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R16,468,952,1,6,PR,Hazem Naw,David Poljak,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R32,468,497,1,6,,Hazem Naw,Neil Oberleitner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Kish Island,3,Clay,F,473,710,1,1,5,Hazem Naw,Oleg Prihodko,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Kish Island,3,Clay,SF,473,837,1,1,6,Hazem Naw,Gergely Madarasz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Kish Island,3,Clay,QF,473,1425,1,1,,Hazem Naw,Alessandro Cortegiani,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Kish Island,3,Clay,R16,473,2037,1,1,Q,Hazem Naw,Parth Aggarwal,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Kish Island,3,Clay,R32,473,,1,1,Q,Hazem Naw,Ruslan Kastsiukevich,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M15 Kish Island,3,Clay,QF,473,711,0,1,6,Oleg Prihodko,Hazem Naw,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M15 Kish Island,3,Clay,R16,473,,1,1,Q,Hazem Naw,Enrico Baldisserri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M15 Kish Island,3,Clay,R32,473,1667,1,1,,Hazem Naw,Andrea Fiorentini,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,F,556,658,0,2,4,Alastair Gray,Hazem Naw,6-1 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,SF,556,735,1,2,8,Hazem Naw,Alejo Sanchez Quilez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,QF,556,986,1,2,,Hazem Naw,George Houghton,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,R16,556,1290,1,2,Q,Hazem Naw,Loic Namigandet Tenguere,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,R32,556,833,1,2,,Hazem Naw,Michiel De Krom,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,F,558,524,1,3,2,Hazem Naw,Daniel Merida Aguilar,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,SF,558,931,1,3,,Hazem Naw,Jesse Flores,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,QF,558,660,1,3,7,Hazem Naw,Hamish Stewart,7-6(7) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,R16,558,829,1,3,Q,Hazem Naw,Michiel De Krom,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,R32,558,,1,3,Q,Hazem Naw,Ivan Perez Martin,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,Danderyd CH,3,Hard,Q2,564,310,0,,5,Marvin Moeller,Hazem Naw,7-6(0) 6-3,0.75,0.0%,5.0%,67.5%,51.9%,53.8%,6/10,44.4%,35.6%,5.5%,32.5%,39.4%,3/7,153,0,4,80,54,26,4,1:49
+13-Nov-2023,Danderyd CH,3,Hard,Q1,564,359,1,,7,Hazem Naw,Mohamed Safwat,6-0 6-1,2.04,6.5%,4.3%,50.0%,73.9%,65.2%,1/1,66.3%,62.2%,5.4%,52.2%,78.6%,5/5,83,3,2,46,23,23,2,0:58
+30-Oct-2023,Ismaning CH,3,Carpet,Q1,560,342,0,Alt,7,Louis Wessels,Hazem Naw,4-6 7-6(5) 7-5,0.80,12.3%,4.7%,67.9%,77.8%,41.2%,3/5,47.5%,27.1%,18.8%,16.1%,47.1%,2/3,202,13,5,106,72,34,18,2:00
+23-Oct-2023,M25 Sarreguemines,3,Carpet,R32,564,285,0,,1,Dan Added,Hazem Naw,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M15 Forbach,3,Carpet,QF,551,671,0,3,5,Arthur Bouquier,Hazem Naw,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M15 Forbach,3,Carpet,R16,551,917,1,3,,Hazem Naw,Enzo Wallart,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M15 Forbach,3,Carpet,R32,551,1368,1,3,Q,Hazem Naw,Mark Wallner,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,QF,550,716,0,2,5,Luca Castagnola,Hazem Naw,0-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,R16,550,895,1,2,,Hazem Naw,Niels Visker,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,R32,550,2063,1,2,Q,Hazem Naw,Niccolo Ciavarella,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Allershausen,3,Clay,R32,605,794,0,2,,Nicola Kuhn,Hazem Naw,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Trier,3,Clay,F,603,676,1,2,4,Hazem Naw,Tom Gentzsch,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Trier,3,Clay,SF,603,781,1,2,8,Hazem Naw,Amaury Raynel,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Trier,3,Clay,QF,603,1764,1,2,Q,Hazem Naw,Stepan Baum,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Trier,3,Clay,R16,603,1347,1,2,,Hazem Naw,Daniel Salazar Martinez,5-7 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Trier,3,Clay,R32,603,936,1,2,,Hazem Naw,Gabriel Alejandro Hidalgo,6-2 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,R16,601,,0,3,JR,David Fix,Hazem Naw,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,R32,601,1915,1,3,Q,Hazem Naw,Mika Lipp,7-5 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Meerbusch CH,3,Clay,Q1,604,768,0,9,PR,Martin Krumich,Hazem Naw,6-4 6-2,0.64,0.0%,3.9%,60.8%,58.1%,55.0%,2/5,42.2%,27.5%,2.0%,26.7%,28.6%,0/0,102,0,2,51,31,20,1,1:12
 31-Jul-2023,Luedenscheid CH,3,Clay,R32,629,152,0,Q,,Jozef Kovalik,Hazem Naw,7-6(7) 6-3,0.95,2.8%,5.6%,57.7%,68.3%,46.7%,8/12,48.3%,38.7%,2.5%,25.7%,48.9%,3/5,151,2,4,71,41,30,2,2:08
 31-Jul-2023,Luedenscheid CH,3,Clay,Q2,629,616,1,,PR,Hazem Naw,Pedro Sakamoto,6-1 7-6(8),1.51,6.3%,11.1%,60.3%,84.2%,56.0%,0/1,56.7%,40.6%,6.3%,33.3%,52.0%,3/6,127,4,7,63,38,25,4,1:40

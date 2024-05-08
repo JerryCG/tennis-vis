@@ -1,5 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+25-Mar-2024,M25 Saint Dizier,3,Hard,R32,930,763,0,,WC,Mae Malige,Yannik Steinegger,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R16,931,469,0,,5,Daniil Glinka,Yannik Steinegger,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R32,931,763,1,,,Yannik Steinegger,Alec Beckley,3-6 7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,Lugano CH,3,Hard,Q1,931,228,0,WC,1,Illya Marchenko,Yannik Steinegger,6-2 3-6 6-2,0.83,10.4%,6.5%,64.9%,64.0%,48.1%,3/7,46.0%,34.5%,9.5%,31.5%,40.0%,1/3,161,8,5,77,50,27,8,1:52
+12-Feb-2024,M15 Oberhaching,3,Hard,QF,951,560,0,Q,7,Tom Gentzsch,Yannik Steinegger,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R16,951,1038,1,Q,LL,Yannik Steinegger,Osgar Ohoisin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R32,951,731,1,Q,,Yannik Steinegger,Liam Gavrielides,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Yokkaichi CH,3,Hard,Q1,929,550,0,Alt,7,Yuki Mochizuki,Yannik Steinegger,6-3 6-2,0.67,11.1%,5.6%,63.0%,64.7%,25.0%,7/11,41.7%,33.3%,3.7%,29.3%,46.2%,1/4,108,6,3,54,34,20,2,1:05
+30-Oct-2023,M25+H Mulhouse,3,Hard,R32,937,1325,0,Q,Q,Yanis Ghazouani Durand,Yannik Steinegger,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Nevers,3,Hard,R32,944,737,0,,,Maxence Beauge,Yannik Steinegger,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R16,962,395,0,Q,2,Karl Friberg,Yannik Steinegger,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R32,962,924,1,Q,Q,Yannik Steinegger,Milos Karol,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Danderyd,3,Hard,R16,955,498,0,,3,Mats Rosenkranz,Yannik Steinegger,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Danderyd,3,Hard,R32,955,833,1,,,Yannik Steinegger,Nicolas Kobelt,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25+H Plaisir,3,Hard,R32,949,1280,0,,,Thomas Deschamps,Yannik Steinegger,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Sion,3,Clay,R32,955,309,0,,1,Valentin Vacherot,Yannik Steinegger,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Caslano,3,Clay,R16,959,1442,0,,Q,Andrea Militi Ribaldi,Yannik Steinegger,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Caslano,3,Clay,R32,959,745,1,,6,Yannik Steinegger,Leonardo Rossi,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M25 Muttenz,3,Clay,R32,959,844,0,,,Adam Moundir,Yannik Steinegger,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Roehampton,3,Grass,R32,975,457,0,,6,Paul Jubb,Yannik Steinegger,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M25 Nottingham,3,Grass,R16,997,348,0,,3,Billy Harris,Yannik Steinegger,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

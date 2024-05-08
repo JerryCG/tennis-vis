@@ -1,4 +1,47 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Ostrava CH,3,Clay,Q1,465,1678,0,10,WC,Filip Duda,Sebastian Gima,6-2 6-4,0.72,0.0%,3.1%,60.9%,56.4%,40.0%,6/11,43.9%,36.0%,0.0%,20.6%,68.8%,2/6,114,0,2,64,39,25,0,1:17
+15-Apr-2024,M25 Hammamet,3,Clay,R16,465,619,0,6,,Florent Bax,Sebastian Gima,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M25 Hammamet,3,Clay,R32,465,,1,6,WC,Sebastian Gima,Dario Drebenstedt,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,Split CH,3,Clay,Q2,465,375,0,,7,Jonas Forejtek,Sebastian Gima,6-2 6-1,0.50,0.0%,6.0%,46.0%,65.2%,33.3%,3/7,37.5%,26.1%,8.7%,18.2%,46.2%,0/1,96,0,3,50,23,27,4,1:02
+8-Apr-2024,Split CH,3,Clay,Q1,465,320,1,,2,Sebastian Gima,Michael Vrbensky,4-6 6-1 3-1 RET,1.32,6.2%,0.0%,58.5%,73.7%,55.6%,6/8,55.4%,44.6%,7.7%,37.8%,53.6%,4/7,130,4,0,65,38,27,5,1:43
+1-Apr-2024,Barletta CH,3,Clay,Q1,466,931,0,3,Alt,Lucas Bouquet,Sebastian Gima,3-6 6-1 6-3,0.81,2.2%,1.1%,60.9%,55.4%,55.6%,10/15,46.7%,36.0%,8.0%,17.0%,67.9%,3/6,167,2,1,92,56,36,6,2:03
+18-Mar-2024,M15 Antalya,3,Clay,SF,454,1061,0,2,,Joel Schwaerzler,Sebastian Gima,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Antalya,3,Clay,QF,454,972,1,2,,Sebastian Gima,Marco Miceli,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Antalya,3,Clay,R16,454,857,1,2,,Sebastian Gima,Joao Eduardo Schiessl,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Antalya,3,Clay,R32,454,1095,1,2,WC,Sebastian Gima,Jan Hrazdil,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Antalya,3,Clay,QF,453,719,0,1,5,Dominik Kellovsky,Sebastian Gima,0-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Antalya,3,Clay,R16,453,1329,1,1,WC,Sebastian Gima,Daniele Minighini,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Antalya,3,Clay,R32,453,1072,1,1,SE,Sebastian Gima,Stijn Slump,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Hammamet,3,Clay,SF,471,407,0,,6,Jay Clarke,Sebastian Gima,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Hammamet,3,Clay,QF,471,743,1,,,Sebastian Gima,Aziz Ouakaa,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Hammamet,3,Clay,R16,471,1331,1,,WC,Sebastian Gima,Noah Perfetti,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Hammamet,3,Clay,R32,471,392,1,,5,Sebastian Gima,Leo Borg,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,QF,475,347,0,,6,Cezar Cretu,Sebastian Gima,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,R16,475,1204,1,,Q,Sebastian Gima,Niccolo Baroni,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,R32,475,320,1,,4,Sebastian Gima,Nino Serdarusic,6-4 3-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Antalya,3,Clay,QF,475,226,0,,1,Clement Tabur,Sebastian Gima,7-5 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Antalya,3,Clay,R16,475,792,1,,,Sebastian Gima,Alejo Lorenzo Lingua Lavallen,6-4 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Antalya,3,Clay,R32,475,429,1,,7,Sebastian Gima,Svyatoslav Gulin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,R32,474,957,0,6,Q,Nikolay Nedelchev,Sebastian Gima,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R32,474,1177,0,2,,Yaroslav Demin,Sebastian Gima,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Limassol,3,,QF,468,876,0,1,7,Millen Hurrion,Sebastian Gima,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Limassol,3,,R16,468,,1,1,,Sebastian Gima,Kevin Edengren,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Limassol,3,,R32,468,1467,1,1,Q,Sebastian Gima,Alexander Orlov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,QF,470,709,0,2,,Arthur Gea,Sebastian Gima,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,R16,470,1171,1,2,,Sebastian Gima,Joel Schwaerzler,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,R32,470,903,1,2,,Sebastian Gima,Pierre Delage,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,R16,478,524,0,6,,Sidane Pontjodikromo,Sebastian Gima,7-5 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,R32,478,,1,6,WC,Sebastian Gima,Christos Glavas,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,QF,460,836,0,8,JE,Arthur Gea,Sebastian Gima,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R16,460,,1,8,Q,Sebastian Gima,Ronetto Van Tilburg,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R32,460,1235,1,8,Q,Sebastian Gima,Daniele Rapagnetta,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Pazardzhik,3,Clay,R16,444,1017,0,8,,Gabriel Donev,Sebastian Gima,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Pazardzhik,3,Clay,R32,444,522,1,8,,Sebastian Gima,Neil Oberleitner,6-4 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,SF,446,332,0,7,3,Andrew Paulson,Sebastian Gima,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,QF,446,619,1,7,,Sebastian Gima,David Pichler,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R16,446,571,1,7,,Sebastian Gima,Bor Artnak,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R32,446,,1,7,Q,Sebastian Gima,Yuquan Jin,1-6 6-2 10-5,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Sibiu CH,3,Clay,R32,445,206,0,WC,5,Stefano Travaglia,Sebastian Gima,7-6(2) 6-3,0.65,2.2%,2.2%,42.4%,59.0%,54.7%,8/11,44.9%,28.1%,10.9%,23.1%,36.0%,1/2,156,2,2,92,39,53,7,1:43
 4-Sep-2023,M15 Constanta,3,Clay,R32,442,1056,0,3,,Lautaro Agustin Falabella,Sebastian Gima,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Kursumlijska Banja,3,Clay,R16,442,1252,0,1,,Emile Hudd,Sebastian Gima,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Kursumlijska Banja,3,Clay,R32,442,2004,1,1,Q,Sebastian Gima,Aleksei Khomich,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -16,6 +59,10 @@
 10-Jul-2023,Iasi CH,3,Clay,R32,472,193,0,Q,,Dalibor Svrcina,Sebastian Gima,7-6(3) 6-2,0.76,1.3%,0.0%,58.7%,61.4%,45.2%,6/9,44.7%,34.7%,0.0%,30.8%,60.0%,1/7,150,1,0,75,44,31,0,1:42
 10-Jul-2023,Iasi CH,3,Clay,Q2,472,992,1,9,Alt,Sebastian Gima,Mircea Alexandru Jecan,6-4 6-2,1.44,3.8%,3.8%,50.0%,69.2%,61.5%,1/3,57.0%,50.0%,0.0%,39.0%,71.4%,5/8,114,2,2,52,26,26,0,1:20
 10-Jul-2023,Iasi CH,3,Clay,Q1,472,1205,1,9,Alt,Sebastian Gima,Dragos Nicolae Cazacu,6-3 7-6(3),1.46,0.0%,3.2%,54.0%,73.5%,55.2%,1/4,56.7%,51.1%,0.0%,43.1%,63.9%,5/12,157,0,2,63,34,29,0,
+3-Jul-2023,M25 Brasov,3,Clay,SF,472,203,0,4,2,Dragos Nicolae Madaras,Sebastian Gima,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Brasov,3,Clay,QF,472,496,1,4,5,Sebastian Gima,Gabi Adrian Boitan,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Brasov,3,Clay,R16,472,879,1,4,,Sebastian Gima,Calin Manda,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Brasov,3,Clay,R32,472,1605,1,4,Q,Sebastian Gima,Stefan Adrian Andreescu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Arlon,3,Clay,R16,466,290,0,,1,Valentin Royer,Sebastian Gima,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Arlon,3,Clay,R32,466,961,1,,,Sebastian Gima,Marlon Vankan,6-7(5) 6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,Poznan CH,3,Clay,Q2,464,440,0,,11,David Jorda Sanchis,Sebastian Gima,6-2 6-4,0.67,1.4%,6.8%,48.6%,50.0%,50.0%,10/14,42.3%,33.3%,9.5%,21.2%,46.7%,1/3,137,1,5,74,36,38,6,1:39

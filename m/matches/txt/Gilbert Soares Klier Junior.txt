@@ -1,6 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,624,493,0,11,3,Facundo Mena,Gilbert Soares Klier Junior,6-4 6-3,0.88,1.7%,3.4%,76.3%,62.2%,50.0%,5/8,46.0%,35.9%,3.8%,23.8%,50.0%,0/7,137,1,2,59,45,14,3,1:35
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,624,1106,1,11,Alt,Gilbert Soares Klier Junior,Felix Corwin,6-3 6-3,1.32,5.5%,3.6%,61.8%,61.8%,57.1%,2/4,56.4%,52.7%,5.5%,40.7%,64.3%,5/6,110,3,2,55,34,21,3,1:15
+22-Jan-2024,Punta Del Este CH,3,Clay,Q1,355,307,0,,6,Murkel Alejandro Dellien Velasco,Gilbert Soares Klier Junior,6-2 2-6 6-3,0.81,3.8%,3.8%,60.8%,47.9%,45.2%,3/10,45.0%,43.1%,4.2%,40.0%,48.1%,5/9,151,3,3,79,48,31,3,2:18
+15-Jan-2024,Buenos Aires CH,3,Clay,Q1,355,457,0,4,,Gonzalo Villanueva,Gilbert Soares Klier Junior,7-5 6-4,0.92,3.1%,3.1%,64.1%,70.7%,43.5%,2/5,47.2%,35.9%,1.3%,25.0%,47.4%,1/6,142,2,2,64,41,23,1,1:53
+27-Nov-2023,Temuco CH,3,Hard,F,461,123,0,,4,Aleksandar Kovacevic,Gilbert Soares Klier Junior,4-6 6-3 6-3,0.83,6.8%,0.0%,74.3%,65.5%,52.6%,3/7,46.1%,31.3%,12.5%,25.0%,40.6%,2/5,154,5,0,74,55,19,10,1:38
+27-Nov-2023,Temuco CH,3,Hard,SF,461,105,1,,1,Gilbert Soares Klier Junior,Tomas Barrios Vera,6-4 6-3,1.47,1.9%,5.6%,68.5%,75.7%,52.9%,1/3,57.5%,46.2%,0.0%,43.2%,53.3%,4/9,106,1,3,54,37,17,0,1:14
+27-Nov-2023,Temuco CH,3,Hard,QF,461,365,1,,,Gilbert Soares Klier Junior,Pedro Sakamoto,6-0 6-3,2.40,4.5%,0.0%,65.9%,79.3%,73.3%,2/2,65.9%,54.5%,2.3%,46.2%,66.7%,4/5,88,2,0,44,29,15,1,0:56
+27-Nov-2023,Temuco CH,3,Hard,R16,461,471,1,,,Gilbert Soares Klier Junior,Ignacio Buse,6-4 7-6(6),1.05,5.8%,3.5%,70.9%,59.0%,52.0%,3/6,51.2%,45.3%,5.8%,34.0%,61.1%,4/13,172,5,3,86,61,25,5,1:50
+27-Nov-2023,Temuco CH,3,Hard,R32,461,354,1,,,Gilbert Soares Klier Junior,Benjamin Lock,6-3 6-2,1.36,10.6%,4.5%,69.7%,76.1%,45.0%,3/3,56.2%,45.3%,6.3%,29.3%,73.9%,3/12,130,7,3,66,46,20,4,1:28
+20-Nov-2023,Brasilia CH,3,Hard,R16,486,121,0,WC,5,Thiago Agustin Tirante,Gilbert Soares Klier Junior,6-4 6-4,0.73,8.2%,4.9%,65.6%,62.5%,52.4%,0/3,44.6%,30.0%,20.0%,9.1%,55.6%,1/1,121,5,3,61,40,21,12,1:29
+20-Nov-2023,Brasilia CH,3,Hard,R32,486,627,1,WC,Q,Gilbert Soares Klier Junior,Wilson Leite,7-6(4) 7-5,1.14,10.5%,1.3%,60.5%,67.4%,53.3%,4/7,52.2%,43.5%,9.4%,31.9%,57.9%,4/10,161,8,1,76,46,30,8,1:59
+30-Oct-2023,Guayaquil CH,3,Clay,Q1,493,367,0,,3,Max Houkes,Gilbert Soares Klier Junior,7-6(5) 6-3,0.88,0.0%,2.6%,66.7%,48.1%,53.8%,8/13,47.2%,43.9%,4.5%,35.1%,55.2%,4/5,144,0,2,78,52,26,3,1:45
+23-Oct-2023,Curitiba CH,3,Clay,R32,507,205,0,Q,,Guido Andreozzi,Gilbert Soares Klier Junior,6-2 6-0,0.33,0.0%,9.8%,62.7%,50.0%,42.1%,6/11,35.3%,17.6%,11.8%,10.5%,26.7%,0/0,85,0,5,51,32,19,4,1:10
+23-Oct-2023,Curitiba CH,3,Clay,Q2,507,454,1,9,5,Gilbert Soares Klier Junior,Gonzalo Villanueva,6-4 6-2,1.49,1.9%,3.8%,53.8%,75.0%,54.2%,1/3,57.8%,51.6%,0.0%,41.2%,63.3%,5/12,116,1,2,52,28,24,0,1:39
+23-Oct-2023,Curitiba CH,3,Clay,Q1,507,1290,1,9,Alt,Gilbert Soares Klier Junior,Gabriel Roveri Sidney,6-0 6-1,2.54,10.3%,5.1%,51.3%,85.0%,63.2%,0/0,69.6%,65.0%,2.5%,68.2%,61.1%,5/10,79,4,2,39,20,19,1,1:05
+2-Oct-2023,Campinas CH,3,Clay,Q1,511,1107,0,9,Alt,Paulo Andre Saraiva Dos Santos,Gilbert Soares Klier Junior,2-6 6-4 6-4,0.97,5.5%,3.3%,58.2%,64.2%,42.1%,4/9,49.4%,43.7%,3.4%,29.2%,61.5%,5/10,178,5,3,91,53,38,3,2:22
+25-Sep-2023,Bogota CH,3,Clay,R16,584,114,0,Q,1,Tomas Barrios Vera,Gilbert Soares Klier Junior,6-2 3-6 7-6(2),0.83,14.1%,4.0%,55.6%,74.5%,54.5%,6/8,48.6%,28.6%,4.8%,15.6%,43.6%,1/3,183,14,4,99,55,44,4,2:14
+25-Sep-2023,Bogota CH,3,Clay,R32,584,730,1,Q,Q,Gilbert Soares Klier Junior,Matias Soto,6-4 6-2,1.61,25.0%,1.9%,55.8%,86.2%,56.5%,1/1,59.2%,43.5%,13.0%,32.0%,57.1%,3/3,98,13,1,52,29,23,6,1:11
+25-Sep-2023,Bogota CH,3,Clay,Q2,584,532,1,9,5,Gilbert Soares Klier Junior,Wilson Leite,6-3 7-6(2),1.15,7.2%,4.8%,48.2%,77.5%,58.1%,7/8,54.4%,37.5%,1.6%,29.4%,46.7%,2/4,147,6,4,83,40,43,1,1:43
+25-Sep-2023,Bogota CH,3,Clay,Q1,584,969,1,9,PR,Gilbert Soares Klier Junior,Juan Sebastian Gomez,6-2 6-4,1.37,11.5%,5.8%,50.0%,61.5%,57.7%,1/3,57.4%,55.4%,3.6%,58.3%,50.0%,5/10,108,6,3,52,26,26,2,1:09
+18-Sep-2023,Antofagasta CH,3,Clay,R32,603,143,0,Q,5,Hugo Dellien,Gilbert Soares Klier Junior,6-2 6-0,0.45,2.0%,2.0%,55.1%,48.1%,40.9%,3/8,36.0%,25.0%,2.5%,20.0%,33.3%,0/0,89,1,1,49,27,22,1,1:04
+18-Sep-2023,Antofagasta CH,3,Clay,Q2,603,548,1,,9,Gilbert Soares Klier Junior,Juan Bautista Otegui,6-1 6-1,1.81,0.0%,2.5%,70.0%,71.4%,58.3%,2/3,62.5%,58.9%,0.0%,44.4%,72.4%,6/16,96,0,1,40,28,12,0,1:07
+18-Sep-2023,Antofagasta CH,3,Clay,Q1,603,437,1,,2,Gilbert Soares Klier Junior,Alex Barrena,6-3 3-0 RET,2.00,3.1%,6.3%,68.8%,77.3%,70.0%,0/0,61.8%,50.0%,0.0%,45.0%,56.3%,3/4,68,1,2,32,22,10,0,0:59
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,624,493,0,11,3,Facundo Mena,Gilbert Soares Klier Junior,6-4 6-3,0.88,1.7%,3.4%,76.3%,62.2%,50.0%,5/8,46.0%,35.9%,3.8%,23.8%,50.0%,0/7,137,1,2,59,45,14,3,1:35
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,624,1106,1,11,Alt,Gilbert Soares Klier Junior,Felix Corwin,6-3 6-3,1.32,5.5%,3.6%,61.8%,61.8%,57.1%,2/4,56.4%,52.7%,5.5%,40.7%,64.3%,5/6,110,3,2,55,34,21,3,1:15
 4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,QF,725,,0,5,2,Lautaro Midon,Gilbert Soares Klier Junior,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R16,725,1417,1,5,Q,Gilbert Soares Klier Junior,Nikos Lehmann,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,725,1163,1,5,,Gilbert Soares Klier Junior,Mateo Del Pino,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -16,11 +37,21 @@
 14-Aug-2023,M15 Belem,3,Hard,QF,787,1299,1,2,,Gilbert Soares Klier Junior,Juan Sebastian Osorio,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M15 Belem,3,Hard,R16,787,2012,1,2,Q,Gilbert Soares Klier Junior,Miguel Angel Cabrera,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M15 Belem,3,Hard,R32,787,1237,1,2,,Gilbert Soares Klier Junior,Sean Hess,6-0 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Monastir,3,Hard,F,1018,646,1,Q,7,Gilbert Soares Klier Junior,Yassine Dlimi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Monastir,3,Hard,SF,1018,828,1,Q,,Gilbert Soares Klier Junior,Enzo Wallart,6-0 4-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Monastir,3,Hard,QF,1018,766,1,Q,,Gilbert Soares Klier Junior,Egor Agafonov,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Monastir,3,Hard,R16,1018,716,1,Q,8,Gilbert Soares Klier Junior,Antoine Ghibaudo,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Monastir,3,Hard,R32,1018,1121,1,Q,Q,Gilbert Soares Klier Junior,Seita Watanabe,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M15 Monastir,3,Hard,R16,,,0,Q,6,Enzo Wallart,Gilbert Soares Klier Junior,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M15 Monastir,3,Hard,R32,,,1,Q,,Gilbert Soares Klier Junior,Alexandre Reco,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Monastir,3,Hard,QF,1234,979,0,Q,,Alexandros Skorilas,Gilbert Soares Klier Junior,6-4 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Monastir,3,Hard,R16,1234,766,1,Q,5,Gilbert Soares Klier Junior,Enzo Wallart,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Monastir,3,Hard,R32,1234,1952,1,Q,Q,Gilbert Soares Klier Junior,Geni Inoue,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,SF,1648,1534,0,,Q,Igor Kudriashov,Gilbert Soares Klier Junior,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,QF,1648,,1,,Q,Gilbert Soares Klier Junior,James Connel,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,R16,1648,868,1,,8,Gilbert Soares Klier Junior,Aziz Ouakaa,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,R32,1648,,1,,WC,Gilbert Soares Klier Junior,Linghao Zhang,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Jun-2023,M15 Monastir,3,Hard,SF,,,0,,3,Coleman Wong,Gilbert Soares Klier Junior,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Monastir,3,Hard,SF,,670,0,,3,Coleman Wong,Gilbert Soares Klier Junior,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,QF,,720,1,,5,Gilbert Soares Klier Junior,Antoine Ghibaudo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,R16,,1002,1,,,Gilbert Soares Klier Junior,Hamish Stewart,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,R32,,654,1,,2,Gilbert Soares Klier Junior,Arthur Bouquier,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -78,7 +109,7 @@
 23-Aug-2021,M25 Poznan,3,Clay,R32,590,1171,0,8,Q,Harry Wendelken,Gilbert Soares Klier Junior,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Aug-2021,M15 Lodz,3,Clay,SF,591,1017,0,5,,Maciej Rajski,Gilbert Soares Klier Junior,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 16-Aug-2021,M15 Lodz,3,Clay,QF,591,419,1,5,1,Gilbert Soares Klier Junior,Daniel Michalski,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-16-Aug-2021,M15 Lodz,3,Clay,R16,591,,1,5,Q,Gilbert Soares Klier Junior,Tommaso Compagnucci ,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2021,M15 Lodz,3,Clay,R16,591,,1,5,Q,Gilbert Soares Klier Junior,Tommaso Compagnucci,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Aug-2021,M15 Lodz,3,Clay,R32,591,1185,1,5,Q,Gilbert Soares Klier Junior,Aristotelis Thanos,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2021,M15 Gdynia,3,Clay,R16,587,1174,0,,Q,Daniel De Jonge,Gilbert Soares Klier Junior,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2021,M15 Gdynia,3,Clay,R32,587,1429,1,,Q,Gilbert Soares Klier Junior,Antonin Bolardt,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,

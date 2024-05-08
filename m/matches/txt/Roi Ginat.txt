@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Jul-2023,M15 Raanana,3,Hard,R16,1262,805,0,Q,6,Rishab Agarwal,Roi Ginat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,R32,1262,1058,1,Q,,Roi Ginat,Mateo Barreiros Reyes,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Netanya,3,Hard,R16,1316,502,0,,7,Yshai Oliel,Roi Ginat,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Netanya,3,Hard,R32,1316,,1,,Q,Roi Ginat,Eyal Shumilov,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M25 Netanya,3,Hard,R32,1234,1369,0,,Q,Yair Sarouk,Roi Ginat,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -21,7 +23,7 @@
 21-Mar-2022,M25 Quinta Do Lago,3,Hard,R32,1754,1740,1,Q,Q,Roi Ginat,Sean Hodkin,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2021,M15 Heraklion,3,Hard,R16,1724,1023,0,Q,,Harry Wendelken,Roi Ginat,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2021,M15 Heraklion,3,Hard,R32,1724,685,1,Q,3,Roi Ginat,Henry Patten,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-22-Nov-2021,M15 Heraklion,3,Hard,R32,1713,2024,0,WC,LL,Marc Othman Ktiri ,Roi Ginat,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Nov-2021,M15 Heraklion,3,Hard,R32,1713,2024,0,WC,LL,Marc Othman Ktiri,Roi Ginat,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,M25 Afula,3,Hard,R16,1706,472,0,,5,Edan Leshem,Roi Ginat,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Nov-2021,M25 Afula,3,Hard,R32,1706,621,1,,,Roi Ginat,Ryan Nijboer,7-5 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
 1-Nov-2021,M25 Meitar,3,Hard,R32,1703,582,0,WC,,Naoki Nakagawa,Roi Ginat,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

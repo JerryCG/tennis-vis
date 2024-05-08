@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Apr-2024,M15 Kashiwa,3,Hard,R16,591,633,0,6,,Sora Fukuda,Renta Tokuda,6-5 RET,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Kashiwa,3,Hard,R32,591,644,1,6,,Renta Tokuda,Kasidit Samrej,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R16,588,910,0,7,JE,Yi Zhou,Renta Tokuda,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R32,588,635,1,7,,Renta Tokuda,Sora Fukuda,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R16,588,672,0,7,,Duck Hee Lee,Renta Tokuda,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R32,588,783,1,7,Q,Renta Tokuda,Ray Ho,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Yokkaichi CH,3,Hard,R32,562,114,0,WC,3,Michael Mmoh,Renta Tokuda,6-2 6-3,0.55,0.0%,0.0%,66.7%,56.5%,43.5%,8/12,41.7%,26.1%,8.7%,20.6%,41.7%,1/3,115,0,0,69,46,23,4,1:26
 7-Aug-2023,M25 Roehampton,3,Hard,R32,625,1449,0,,Q,Michael Shaw,Renta Tokuda,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Astana,3,Hard,F,623,534,1,,6,Renta Tokuda,Yusuke Takahashi,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Astana,3,Hard,SF,623,446,1,,7,Renta Tokuda,Khumoyun Sultanov,4-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Astana,3,Hard,QF,623,457,1,,4,Renta Tokuda,Robin Bertrand,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Astana,3,Hard,R16,623,465,1,,5,Renta Tokuda,Jose Rubin Statham,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M25 Astana,3,Hard,R32,623,1233,1,,WC,Renta Tokuda,Islam Orynbasar,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,Astana CH,3,Hard,R16,639,229,0,,1,Mikhail Kukushkin,Renta Tokuda,6-1 6-3,0.73,2.1%,4.3%,70.2%,54.5%,28.6%,2/7,42.3%,38.6%,12.3%,32.4%,47.8%,1/2,104,1,2,47,33,14,7,1:15
 24-Jul-2023,Astana CH,3,Hard,R32,639,515,1,,,Renta Tokuda,Digvijaypratap Singh,6-3 6-4,1.21,2.5%,3.7%,56.8%,63.0%,68.6%,9/9,53.8%,41.8%,13.9%,32.0%,58.6%,2/12,160,2,3,81,46,35,11,1:39
 10-Jul-2023,M15 Nakhon Si Thammarat,3,Hard,R32,639,684,0,8,,Sidharth Rawat,Renta Tokuda,6-1 RET,,,,,,,,,,,,,,,,,,,,,
@@ -13,7 +25,7 @@
 8-May-2023,Busan CH,3,Hard,Q2,726,468,1,PR,10,Renta Tokuda,Jose Rubin Statham,6-3 6-4,1.29,2.8%,4.2%,59.2%,71.4%,55.2%,3/4,55.6%,45.3%,6.3%,36.7%,52.9%,3/7,135,2,3,71,42,29,4,1:31
 8-May-2023,Busan CH,3,Hard,Q1,726,306,1,PR,2,Renta Tokuda,Dominik Palan,7-6(3) 7-6(5),1.18,0.0%,4.9%,67.1%,72.7%,59.3%,2/4,52.4%,37.5%,13.6%,25.0%,59.4%,2/5,170,0,4,82,55,27,12,1:41
 24-Apr-2023,M25 Jakarta,3,Hard,R16,730,812,0,,,Jake Delaney,Renta Tokuda,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Apr-2023,M25 Jakarta,3,Hard,R32,730,,1,,8,Renta Tokuda,Coleman Wong,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Apr-2023,M25 Jakarta,3,Hard,R32,730,691,1,,8,Renta Tokuda,Coleman Wong,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2023,M25 Jakarta,3,Hard,R32,727,860,0,PR,Q,Yeongseok Jeong,Renta Tokuda,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Apr-2023,M25 Kashiwa,3,Hard,SF,886,761,0,Q,,Jea Moon Lee,Renta Tokuda,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Apr-2023,M25 Kashiwa,3,Hard,QF,886,472,1,Q,8,Renta Tokuda,Rimpei Kawakami,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -33,6 +45,7 @@
 21-Nov-2022,Yokkaichi CH,3,Hard,Q1,735,498,0,PR,4,Colin Sinclair,Renta Tokuda,6-1 7-5,0.38,0.0%,1.7%,66.1%,53.8%,55.0%,3/7,38.1%,17.4%,17.4%,8.0%,28.6%,1/3,105,0,1,59,39,20,8,1:01
 14-Nov-2022,Kobe CH,3,Hard,Q2,751,371,0,PR,5,Marc Polmans,Renta Tokuda,6-3 4-6 6-2,0.84,3.6%,2.4%,69.9%,67.2%,44.0%,9/14,47.5%,33.3%,5.3%,23.5%,54.2%,3/8,158,3,2,83,58,25,4,1:47
 14-Nov-2022,Kobe CH,3,Hard,Q1,751,476,1,PR,11,Renta Tokuda,Ji Sung Nam,6-4 6-1,1.28,2.9%,4.4%,69.1%,66.0%,42.9%,7/9,55.7%,52.8%,2.8%,38.9%,66.7%,5/18,140,2,3,68,47,21,2,1:26
+7-Nov-2022,Matsuyama CH,3,Hard,Q1,748,396,0,PR,4,Ergi Kirkin,Renta Tokuda,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,SF,821,913,0,PR,,Arthur Weber,Renta Tokuda,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,QF,821,583,1,PR,3,Renta Tokuda,Sidharth Rawat,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,R16,821,607,1,PR,6,Renta Tokuda,Matyas Fuele,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

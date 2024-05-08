@@ -1,4 +1,30 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+15-Apr-2024,Tallahassee CH,3,Clay,Q1,784,475,0,,8,Strong Kirchheimer,Thomas Fancutt,6-3 6-4,0.69,8.0%,6.0%,52.0%,80.8%,45.8%,0/2,43.4%,25.0%,5.4%,19.0%,42.9%,0/2,106,4,3,50,26,24,3,1:18
+18-Mar-2024,Merida CH,3,Clay,R32,749,250,0,,6,Dmitry Popko,Thomas Fancutt,6-4 7-5,0.60,7.9%,7.9%,38.1%,54.2%,64.1%,4/7,43.2%,23.6%,3.6%,14.8%,32.1%,1/1,118,5,5,63,24,39,2,1:22
+4-Mar-2024,Kigali 2 CH,3,Clay,R16,653,208,0,Q,4,Marco Trungelliti,Thomas Fancutt,6-3 6-3,0.62,11.1%,1.9%,61.1%,72.7%,42.9%,1/4,43.3%,24.0%,0.0%,20.0%,33.3%,0/1,104,6,1,54,33,21,0,1:06
+4-Mar-2024,Kigali 2 CH,3,Clay,R32,653,602,1,Q,,Thomas Fancutt,S D Prajwal Dev,6-2 7-5,1.43,7.8%,4.7%,67.2%,76.7%,47.6%,1/2,57.1%,46.8%,0.0%,36.1%,61.5%,4/6,126,5,3,64,43,21,0,1:35
+4-Mar-2024,Kigali 2 CH,3,Clay,Q2,653,1096,1,2,12,Thomas Fancutt,Leonid Sheyngezikht,6-3 6-4,1.50,23.1%,1.9%,63.5%,75.8%,63.2%,0/1,55.5%,43.3%,3.0%,44.2%,41.7%,3/7,119,12,1,52,33,19,2,1:24
+5-Feb-2024,M25 Hammamet,3,Clay,R16,587,838,0,7,,Oscar Jose Gutierrez,Thomas Fancutt,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Hammamet,3,Clay,R32,587,1208,1,7,Q,Thomas Fancutt,Francesco Ferrari,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Cleveland CH,3,Hard,R32,513,246,0,Alt,7,Mitchell Krueger,Thomas Fancutt,6-4 7-5,0.61,13.4%,1.5%,55.2%,75.7%,53.3%,4/6,45.2%,21.1%,10.5%,9.1%,37.5%,0/0,124,9,1,67,37,30,6,1:29
+22-Jan-2024,Indian Wells 2 CH,3,Hard,Q2,503,666,0,4,,Matias Soto,Thomas Fancutt,7-5 7-5,0.95,14.9%,6.0%,64.2%,72.1%,41.7%,2/6,47.9%,36.7%,1.3%,26.0%,55.2%,2/7,146,10,4,67,43,24,1,1:50
+22-Jan-2024,Indian Wells 2 CH,3,Hard,Q1,503,764,1,4,Alt,Thomas Fancutt,Colin Markes,6-4 6-1,1.45,9.1%,7.3%,49.1%,81.5%,53.6%,3/3,57.0%,47.5%,3.4%,38.7%,57.1%,4/7,114,5,4,55,27,28,2,1:14
+15-Jan-2024,Indian Wells 1 CH,3,Hard,Q1,503,666,0,2,,Matias Soto,Thomas Fancutt,6-3 6-1,0.52,12.9%,8.1%,64.5%,60.0%,36.4%,3/7,40.6%,25.0%,4.5%,19.4%,38.5%,0/0,106,8,5,62,40,22,2,1:01
+1-Jan-2024,Noumea CH,3,Hard,R32,480,162,0,LL,,Gijs Brouwer,Thomas Fancutt,6-3 7-5,0.63,15.0%,13.3%,50.0%,73.3%,46.7%,1/4,43.1%,25.0%,1.8%,23.3%,30.8%,1/2,116,9,8,60,30,30,1,1:02
+1-Jan-2024,Noumea CH,3,Hard,Q2,480,677,0,5,9,Moerani Bouzige,Thomas Fancutt,5-7 7-6(7) 6-2,0.75,19.4%,9.7%,52.4%,85.2%,40.8%,3/6,46.4%,26.9%,5.4%,21.6%,33.3%,2/5,196,20,10,103,54,49,5,2:38
+1-Jan-2024,Noumea CH,3,Hard,Q1,480,,1,5,WC,Thomas Fancutt,Marek Jaloviec,6-2 4-6 7-5,1.29,17.7%,12.5%,50.0%,79.2%,50.0%,11/14,55.2%,45.8%,6.3%,35.3%,57.8%,5/11,192,17,12,96,48,48,6,2:30
+27-Nov-2023,M25 Gold Coast,3,,SF,500,605,0,4,8,Matthew Dellavedova,Thomas Fancutt,7-5 6-7(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,QF,500,811,1,4,,Thomas Fancutt,Kody Pearson,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R16,500,1033,1,4,,Thomas Fancutt,Emile Hudd,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R32,500,,1,4,,Thomas Fancutt,Shintaro Imai,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,,R32,496,902,0,7,,Keisuke Saitoh,Thomas Fancutt,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Sydney CH,3,Hard,Q1,442,963,0,4,Alt,Matthew Christopher Romios,Thomas Fancutt,6-1 6-3,0.52,3.2%,4.8%,61.9%,59.0%,45.8%,9/13,40.7%,24.0%,14.0%,17.6%,37.5%,0/1,113,2,3,63,39,24,7,0:59
+23-Oct-2023,Playford CH,3,Hard,Q2,456,909,0,3,10,Ji Sung Nam,Thomas Fancutt,2-6 6-2 7-5,0.95,9.6%,7.2%,57.8%,77.1%,37.1%,4/8,49.1%,37.8%,6.1%,27.1%,65.2%,3/5,165,8,6,83,48,35,5,1:54
+23-Oct-2023,Playford CH,3,Hard,Q1,456,1119,1,3,,Thomas Fancutt,Alexander Klintcharov,6-4 6-2,1.47,22.4%,2.0%,67.3%,81.8%,43.8%,0/1,56.0%,45.0%,0.0%,37.5%,60.0%,4/8,109,11,1,49,33,16,0,1:13
+2-Oct-2023,M25 Cairns,3,Hard,R32,445,2005,0,3,Q,Pavle Marinkov,Thomas Fancutt,6-3 3-2 RET,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,R16,450,,0,3,WC,Jayden Court,Thomas Fancutt,7-6(3) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,R32,450,1674,1,3,Q,Thomas Fancutt,Tai Sach,7-5 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Darwin,3,Hard,R32,448,977,0,2,,Jeremy Beale,Thomas Fancutt,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M15 Caloundra,3,Hard,R32,427,1670,0,4,Q,Scott Jones,Thomas Fancutt,6-3 2-1 RET,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Caloundra,3,Hard,SF,408,366,0,3,2,Luke Saville,Thomas Fancutt,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Caloundra,3,Hard,QF,408,728,1,3,6,Thomas Fancutt,Daisuke Sumizawa,3-6 7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -37,7 +63,7 @@
 2-Jan-2023,Noumea CH,3,Hard,R32,532,252,1,WC,,Thomas Fancutt,Seong Chan Hong,6-4 3-6 6-3,0.91,6.8%,4.5%,62.5%,70.9%,54.5%,2/4,50.0%,31.9%,13.9%,28.6%,39.1%,3/4,160,6,4,88,55,33,10,1:44
 19-Dec-2022,M15 Tauranga,3,Hard,R32,530,1292,0,3,,Jake Delaney,Thomas Fancutt,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 12-Dec-2022,M15 Wellington,3,Hard,R32,531,1212,0,2,,Jack Loutit,Thomas Fancutt,7-6(3) 5-7 3-1 RET,,,,,,,,,,,,,,,,,,,,,
-31-Oct-2022,M25 Jakarta,3,Hard,QF,614,,0,7,,Coleman Wong,Thomas Fancutt,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-2022,M25 Jakarta,3,Hard,QF,614,761,0,7,,Coleman Wong,Thomas Fancutt,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M25 Jakarta,3,Hard,R16,614,,1,7,Q,Thomas Fancutt,Matthew Woerndle,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M25 Jakarta,3,Hard,R32,614,1544,1,7,Q,Thomas Fancutt,Minhtuan Pham,2-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2022,M25 Jakarta,3,Hard,F,616,913,0,7,,Arthur Weber,Thomas Fancutt,7-6(9) 7-6(9),,,,,,,,,,,,,,,,,,,,,

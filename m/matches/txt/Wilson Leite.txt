@@ -1,6 +1,47 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,533,635,0,6,10,Jose Pereira,Wilson Leite,7-5 6-1,0.62,1.5%,1.5%,53.0%,57.1%,45.2%,5/10,42.2%,30.0%,8.0%,18.4%,66.7%,1/2,116,1,1,66,35,31,4,1:44
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,533,,1,6,WC,Wilson Leite,Daniel Berdecio,6-0 6-0,2.92,5.7%,2.9%,51.4%,77.8%,70.6%,0/0,74.6%,75.0%,0.0%,71.4%,81.8%,6/8,67,2,1,35,18,17,0,0:47
+5-May-2024,Santos CH,3,Clay,R32,590,427,0,Alt,,Gonzalo Villanueva,Wilson Leite,6-4 6-2,0.75,3.6%,3.6%,35.7%,40.0%,44.4%,5/11,42.9%,42.9%,0.0%,37.1%,52.4%,3/8,112,2,2,56,20,36,0,1:48
+29-Apr-2024,Porto Alegre CH,3,Clay,Q2,593,653,0,6,9,Leonardo Aboian,Wilson Leite,7-6(4) 4-6 6-3,1.12,1.1%,1.1%,59.8%,60.0%,70.3%,1/5,50.5%,40.0%,8.3%,37.8%,43.5%,4/19,212,1,1,92,55,37,10,2:59
+29-Apr-2024,Porto Alegre CH,3,Clay,Q1,593,1035,1,6,Alt,Wilson Leite,Leonid Sheyngezikht,7-5 7-6(3),1.15,1.2%,1.2%,63.9%,67.9%,43.3%,5/9,52.8%,47.3%,1.1%,30.0%,67.4%,5/15,176,1,1,83,53,30,1,2:31
+22-Apr-2024,Concepcion CH,3,Clay,Q1,593,1070,0,2,Alt,Franco Ribero,Wilson Leite,6-4 6-3,0.74,4.8%,3.2%,38.1%,62.5%,53.8%,8/11,44.4%,31.7%,0.0%,31.9%,31.3%,1/1,126,3,2,63,24,39,0,1:58
+1-Apr-2024,Florianopolis CH,3,Clay,Q1,581,946,0,10,Alt,Paulo Andre Saraiva Dos Santos,Wilson Leite,6-7(7) 6-4 5-5 RET,0.96,1.8%,1.8%,69.7%,65.8%,51.5%,3/7,49.5%,36.9%,8.7%,21.4%,55.3%,3/7,212,2,2,109,76,33,9,3:21
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q2,587,442,0,12,3,Daniel Cukierman,Wilson Leite,6-3 6-0,0.62,2.1%,0.0%,54.2%,46.2%,40.9%,0/5,39.4%,34.8%,4.3%,27.6%,47.1%,1/1,94,1,0,48,26,22,2,1:20
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q1,587,617,1,12,,Wilson Leite,Franco Roncadelli,6-1 6-4,1.45,3.4%,3.4%,74.6%,72.7%,46.7%,6/7,57.3%,49.2%,1.5%,45.5%,70.0%,4/9,124,2,2,59,44,15,1,1:39
+18-Mar-2024,Asuncion CH,3,Clay,Q2,587,487,0,9,5,Nicolas Zanellato,Wilson Leite,6-3 7-5,0.79,3.1%,0.0%,53.1%,58.8%,53.3%,7/11,44.6%,34.7%,4.0%,27.7%,46.4%,2/11,139,2,0,64,34,30,3,1:56
+18-Mar-2024,Asuncion CH,3,Clay,Q1,587,951,1,9,,Wilson Leite,Marcelo Zormann Da Silva,6-2 6-2,1.78,4.2%,0.0%,56.3%,66.7%,76.2%,0/0,61.0%,51.9%,9.6%,58.6%,43.5%,4/6,100,2,0,48,27,21,5,1:06
+11-Mar-2024,Santiago CH,3,Clay,Q1,573,818,0,11,,Ignacio Antonio Becerra Otarola,Wilson Leite,6-4 2-6 6-4,1.00,0.0%,1.0%,67.3%,58.6%,50.0%,12/17,50.8%,44.4%,1.2%,36.8%,62.5%,5/8,185,0,1,104,70,34,1,2:34
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q2,573,412,0,9,2,Juan Bautista Torres,Wilson Leite,6-2 7-6(4),0.79,4.7%,4.7%,51.6%,51.5%,45.2%,1/6,44.8%,41.0%,3.3%,38.5%,45.5%,3/9,125,3,3,64,33,31,2,1:44
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q1,573,,1,9,WC,Wilson Leite,Esteban Davila Gasser,6-1 6-4,1.60,3.5%,5.3%,56.1%,71.9%,60.0%,6/7,60.6%,53.2%,6.4%,50.0%,57.9%,4/6,104,2,3,57,32,25,3,1:20
+26-Feb-2024,M25 Tucuman,3,Clay,R16,576,1030,0,,Q,Joaquin Aguilar Cardozo,Wilson Leite,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R32,576,451,1,,7,Wilson Leite,Pedro Boscardin Dias,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R32,574,293,0,,1,Murkel Alejandro Dellien Velasco,Wilson Leite,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R32,573,,0,,,Daniel Vallejo,Wilson Leite,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Piracicaba CH,3,Clay,Q2,585,395,0,10,3,Damien Wenger,Wilson Leite,6-3 6-3,0.87,0.0%,2.4%,54.8%,43.5%,36.8%,14/22,45.1%,51.7%,1.7%,25.9%,74.2%,5/8,142,0,2,84,46,38,1,2:12
+29-Jan-2024,Piracicaba CH,3,Clay,Q1,585,1607,1,10,,Wilson Leite,Enzo Camargo Lima,7-5 6-1,1.40,0.0%,0.0%,49.1%,71.4%,51.7%,0/2,57.8%,53.8%,0.0%,55.0%,50.0%,5/7,109,0,0,57,28,29,0,1:38
+4-Dec-2023,M15 Concepcion,3,,R16,589,540,0,,5,Nicolas Kicker,Wilson Leite,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,R32,589,,1,,Q,Wilson Leite,Ryan Augusto Dos Santos,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Temuco CH,3,Hard,Q2,590,768,0,2,8,Mariano Kestelboim,Wilson Leite,6-1 6-4,0.64,3.1%,3.1%,45.3%,55.2%,40.0%,7/13,41.9%,34.1%,4.9%,35.3%,28.6%,2/3,105,2,2,64,29,35,2,1:36
+27-Nov-2023,Temuco CH,3,Hard,Q1,590,1487,1,2,Alt,Wilson Leite,Federico Zeballos,7-5 2-6 6-1,1.09,4.3%,5.4%,50.0%,76.1%,50.0%,9/12,52.7%,40.3%,13.0%,31.7%,50.0%,4/8,169,4,5,92,46,46,10,2:14
+20-Nov-2023,Brasilia CH,3,Hard,R32,627,486,0,Q,WC,Gilbert Soares Klier Junior,Wilson Leite,7-6(4) 7-5,0.88,9.4%,3.5%,55.3%,68.1%,42.1%,6/10,47.8%,38.2%,10.5%,32.6%,46.7%,3/7,161,8,3,85,47,38,8,1:59
+20-Nov-2023,Brasilia CH,3,Hard,Q2,627,502,1,12,6,Wilson Leite,Gonzalo Lama,7-6(10) 7-5,0.97,11.2%,1.0%,59.2%,81.0%,50.0%,4/5,50.8%,30.6%,8.2%,29.1%,33.3%,2/7,183,11,1,98,58,40,7,2:29
+20-Nov-2023,Brasilia CH,3,Hard,Q1,627,,1,12,Alt,Wilson Leite,Adam Taylor,7-6(3) 6-2,1.90,25.4%,0.0%,67.8%,90.0%,57.9%,1/1,57.4%,38.6%,5.7%,30.4%,54.2%,2/10,129,15,0,59,40,19,4,1:21
+13-Nov-2023,Montevideo CH,3,Clay,Q1,599,282,0,,2,Murkel Alejandro Dellien Velasco,Wilson Leite,6-1 6-3,0.67,0.0%,4.5%,63.6%,39.3%,37.5%,3/9,40.0%,41.2%,2.0%,34.3%,56.3%,2/4,95,0,2,44,28,16,1,1:21
+30-Oct-2023,Guayaquil CH,3,Clay,Q1,602,364,0,,4,Carlos Taberner,Wilson Leite,3-6 7-5 6-1,0.99,2.5%,0.0%,56.3%,66.7%,54.3%,5/9,48.1%,38.5%,1.8%,36.4%,43.8%,2/12,189,2,0,80,45,35,2,3:07
+23-Oct-2023,Curitiba CH,3,Clay,R16,516,263,0,WC,,Santiago Fa Rodriguez Taverna,Wilson Leite,7-6(3) 6-4,0.89,6.2%,1.5%,61.5%,72.5%,44.0%,5/8,47.1%,34.2%,1.4%,32.6%,36.7%,2/5,138,4,1,65,40,25,1,1:43
+23-Oct-2023,Curitiba CH,3,Clay,R32,516,114,1,WC,1,Wilson Leite,Juan Manuel Cerundolo,6-3 7-5,1.17,4.9%,3.7%,50.6%,65.9%,50.0%,3/6,54.3%,49.2%,3.4%,38.9%,65.2%,5/10,140,4,3,81,41,40,2,1:54
+9-Oct-2023,M25 Lajeado,3,Clay,F,573,499,0,7,4,Pedro Sakamoto,Wilson Leite,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Lajeado,3,Clay,SF,573,710,1,7,,Wilson Leite,Leonardo Aboian,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Lajeado,3,Clay,QF,573,657,1,7,,Wilson Leite,Arklon Huertas Del Pino,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Lajeado,3,Clay,R16,573,1107,1,7,,Wilson Leite,Paulo Andre Saraiva Dos Santos,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Lajeado,3,Clay,R32,573,1185,1,7,Q,Wilson Leite,Sean Hess,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,Campinas CH,3,Clay,R32,573,83,0,Q,1,Federico Coria,Wilson Leite,6-2 6-7(4) 6-1,0.84,0.9%,1.9%,51.4%,56.4%,46.2%,15/22,46.4%,41.0%,9.0%,34.5%,50.0%,3/8,207,1,2,107,55,52,9,2:43
+2-Oct-2023,Campinas CH,3,Clay,Q2,573,450,1,8,5,Wilson Leite,Mateus Alves,7-5 6-3,1.30,3.5%,3.5%,59.6%,76.5%,30.4%,4/8,56.2%,54.7%,7.8%,33.3%,77.4%,7/11,121,2,2,57,34,23,5,1:46
+2-Oct-2023,Campinas CH,3,Clay,Q1,573,958,1,8,Alt,Wilson Leite,Joao Eduardo Schiessl,6-3 2-6 6-4,1.06,2.1%,1.1%,41.5%,59.0%,49.1%,5/11,51.3%,49.5%,3.8%,42.9%,55.4%,6/18,199,2,1,94,39,55,4,2:44
+25-Sep-2023,Bogota CH,3,Clay,Q2,532,584,0,5,9,Gilbert Soares Klier Junior,Wilson Leite,6-3 7-6(2),0.87,1.6%,3.1%,53.1%,70.6%,53.3%,2/4,45.6%,32.5%,7.2%,22.5%,41.9%,1/8,147,1,2,64,34,30,6,1:43
+25-Sep-2023,Bogota CH,3,Clay,Q1,532,808,1,5,Alt,Wilson Leite,Alexander Stater,6-2 6-4,1.54,7.8%,2.0%,56.9%,82.8%,50.0%,3/4,57.5%,48.4%,0.0%,41.3%,68.8%,4/9,113,4,1,51,29,22,0,1:43
+18-Sep-2023,Antofagasta CH,3,Clay,Q2,532,469,0,8,5,Pedro Boscardin Dias,Wilson Leite,6-4 6-2,0.72,0.0%,1.6%,55.7%,58.8%,44.4%,5/9,43.4%,34.4%,3.3%,29.7%,41.7%,1/3,122,0,1,61,34,27,2,1:41
+18-Sep-2023,Antofagasta CH,3,Clay,Q1,532,814,1,8,Alt,Wilson Leite,Alexander Stater,5-7 7-5 6-1,1.21,2.3%,3.4%,46.6%,70.7%,48.9%,1/6,54.0%,49.5%,0.0%,43.7%,64.3%,7/13,187,2,3,88,41,47,0,3:24
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,533,635,0,6,10,Jose Pereira,Wilson Leite,7-5 6-1,0.62,1.5%,1.5%,53.0%,57.1%,45.2%,5/10,42.2%,30.0%,8.0%,18.4%,66.7%,1/2,116,1,1,66,35,31,4,1:44
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,533,,1,6,WC,Wilson Leite,Daniel Berdecio,6-0 6-0,2.92,5.7%,2.9%,51.4%,77.8%,70.6%,0/0,74.6%,75.0%,0.0%,71.4%,81.8%,6/8,67,2,1,35,18,17,0,0:47
 21-Aug-2023,Lima CH,3,Clay,R32,499,304,0,,3,Joao Lucas Reis Da Silva,Wilson Leite,6-1 6-3,0.73,0.0%,0.0%,64.3%,44.4%,46.7%,2/7,41.8%,39.7%,1.5%,40.0%,39.1%,1/8,110,0,0,42,27,15,1,1:28
 7-Aug-2023,Cordenons CH,3,Clay,Q1,491,572,0,11,,Federico Iannaccone,Wilson Leite,6-3 6-3,0.73,5.1%,5.1%,57.6%,47.1%,36.0%,5/11,42.1%,41.8%,3.6%,35.3%,52.4%,3/3,114,3,3,59,34,25,2,1:38
 31-Jul-2023,Luedenscheid CH,3,Clay,Q2,494,726,0,9,,Georgii Kravchenko,Wilson Leite,6-2 6-1,0.52,0.0%,0.0%,56.7%,44.1%,53.8%,3/8,39.0%,26.7%,8.9%,24.1%,31.3%,0/5,105,0,0,60,34,26,4,1:30

@@ -1,4 +1,42 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+5-May-2024,Mauthausen CH,3,Clay,R32,479,711,1,Q,WC,Max Hans Rehberg,Sebastian Sorger,6-1 6-2,1.80,2.1%,6.4%,63.8%,73.3%,64.7%,0/0,62.5%,53.7%,0.0%,43.3%,81.8%,4/5,88,1,3,47,30,17,0,1:03
+5-May-2024,Mauthausen CH,3,Clay,Q2,479,298,1,10,1,Max Hans Rehberg,Sebastian Fanselow,6-3 6-4,2.02,2.2%,4.3%,80.4%,75.7%,77.8%,2/3,60.2%,48.4%,4.8%,51.5%,44.8%,4/10,108,1,2,46,37,9,3,1:18
+5-May-2024,Mauthausen CH,3,Clay,Q1,479,810,1,10,PR,Max Hans Rehberg,Evan Furness,7-6(6) 6-2,1.26,2.7%,2.7%,60.3%,56.8%,65.5%,6/9,55.2%,50.0%,2.8%,38.7%,58.5%,5/7,145,2,2,73,44,29,2,1:45
+22-Apr-2024,M15 Meerbusch,3,Clay,R16,474,862,0,2,,John Sperle,Max Hans Rehberg,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Meerbusch,3,Clay,R32,474,,1,2,Q,Max Hans Rehberg,Julius Christian Seifert,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,Munich,3,Clay,R32,473,70,0,WC,,Alex Michelsen,Max Hans Rehberg,7-6(2) 6-3,0.78,0.0%,9.1%,65.5%,55.6%,47.4%,0/4,43.5%,36.8%,2.6%,39.3%,30.0%,3/7,131,0,5,55,36,19,2,1:42
+8-Apr-2024,Split CH,3,Clay,Q1,479,330,0,,4,Mathys Erhard,Max Hans Rehberg,7-6(4) 7-6(5),1.01,5.1%,6.3%,64.6%,74.5%,42.9%,4/7,49.7%,36.9%,3.6%,34.4%,43.5%,3/8,163,4,5,79,51,28,3,2:13
+25-Mar-2024,M25 Trnava,3,Hard,SF,471,319,0,7,2,Sebastian Fanselow,Max Hans Rehberg,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Trnava,3,Hard,QF,471,372,1,7,3,Max Hans Rehberg,Mikalai Haliak,7-6(2) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Trnava,3,Hard,R16,471,595,1,7,,Max Hans Rehberg,Neil Oberleitner,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Trnava,3,Hard,R32,471,,1,7,WC,Max Hans Rehberg,Andriy Poritskyy,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,Hamburg CH,3,Hard,R32,470,187,0,WC,6,Rudolf Molleker,Max Hans Rehberg,6-2 7-6(4),0.81,13.3%,0.0%,58.7%,72.7%,38.7%,4/7,46.3%,33.3%,9.7%,25.5%,48.0%,1/5,147,10,0,75,44,31,7,1:36
+12-Feb-2024,M15 Oberhaching,3,Hard,F,490,935,0,5,Q,Michael Agwi,Max Hans Rehberg,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,SF,490,560,1,5,7,Max Hans Rehberg,Tom Gentzsch,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,QF,490,866,1,5,,Max Hans Rehberg,Mili Poljicak,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R16,490,1325,1,5,WC,Max Hans Rehberg,Vincent Marysko,3-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R32,490,1403,1,5,Q,Max Hans Rehberg,Mariano Dedura Palomero,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Koblenz CH,3,Hard,QF,553,96,0,WC,2,Brandon Nakashima,Max Hans Rehberg,6-3 6-4,0.56,5.5%,3.6%,69.1%,68.4%,47.1%,4/6,42.5%,21.6%,17.6%,15.2%,33.3%,0/0,106,3,2,55,38,17,9,1:17
+29-Jan-2024,Koblenz CH,3,Hard,R16,553,332,1,WC,LL,Max Hans Rehberg,David Jorda Sanchis,7-6(6) 6-4,1.33,6.0%,1.5%,64.2%,74.4%,66.7%,1/2,53.0%,37.8%,4.9%,29.8%,48.6%,2/6,149,4,1,67,43,24,4,1:56
+29-Jan-2024,Koblenz CH,3,Hard,R32,553,267,1,WC,,Max Hans Rehberg,Raul Brancaccio,6-7(7) 6-1 6-2,1.21,0.0%,1.0%,66.7%,68.2%,57.6%,6/8,54.2%,42.9%,8.8%,30.2%,60.5%,6/8,190,0,1,99,66,33,8,2:17
+22-Jan-2024,M25 Nussloch,3,Carpet,QF,577,646,0,,,Tom Gentzsch,Max Hans Rehberg,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R16,577,345,1,,2,Max Hans Rehberg,Louis Wessels,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R32,577,977,1,,Q,Max Hans Rehberg,Maik Steiner,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,SF,577,423,0,3,1,Daniel Masur,Max Hans Rehberg,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,QF,577,646,1,3,6,Max Hans Rehberg,Tom Gentzsch,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,R16,577,1560,1,3,WC,Max Hans Rehberg,Vincent Marysko,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,R32,577,1473,1,3,Q,Max Hans Rehberg,Karlo Cubelic,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Ismaning CH,3,Carpet,QF,631,179,0,WC,,Lukas Klein,Max Hans Rehberg,6-3 6-2,0.29,4.3%,2.1%,53.2%,64.0%,50.0%,5/8,36.4%,12.2%,9.8%,12.9%,10.0%,0/0,88,2,1,47,25,22,4,0:53
+30-Oct-2023,Ismaning CH,3,Carpet,R16,631,430,1,WC,Q,Max Hans Rehberg,Mats Rosenkranz,7-6(5) 6-4,1.06,6.3%,10.0%,57.5%,71.7%,58.8%,6/7,51.6%,35.6%,12.3%,20.0%,54.5%,2/6,153,5,8,80,46,34,9,1:37
+30-Oct-2023,Ismaning CH,3,Carpet,R32,631,113,1,WC,3,Max Hans Rehberg,Maxime Cressy,6-7(5) 6-4 7-6(4),0.96,4.3%,7.8%,62.9%,75.3%,58.1%,9/10,50.5%,29.8%,21.2%,22.7%,42.1%,2/4,220,5,9,116,73,43,22,2:33
+16-Oct-2023,Hamburg CH,3,Hard,Q2,601,447,0,9,13,Sasi Kumar Mukund,Max Hans Rehberg,6-7(9) 6-1 7-5,0.75,3.8%,0.8%,73.1%,56.8%,54.3%,8/14,45.9%,33.0%,14.6%,27.3%,43.2%,2/5,233,5,1,130,95,35,15,2:42
+16-Oct-2023,Hamburg CH,3,Hard,Q1,601,1093,1,9,Alt,Max Hans Rehberg,Sarp Agabigun,6-1 6-3,3.31,7.9%,0.0%,71.1%,88.9%,72.7%,0/0,67.1%,52.3%,4.5%,40.0%,78.6%,4/4,82,3,0,38,27,11,2,0:54
+25-Sep-2023,M15 Forbach,3,Carpet,R32,394,,0,1,,Volodymyr Iakubenko,Max Hans Rehberg,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,F,391,884,0,1,,Jakob Schnaitter,Max Hans Rehberg,6-7(2) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,SF,391,,1,1,JR,Max Hans Rehberg,David Fix,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,QF,391,785,1,1,6,Max Hans Rehberg,Aleksandre Metreveli,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,R16,391,,1,1,WC,Max Hans Rehberg,Marvin Schaber,6-0 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Ueberlingen,3,Clay,R32,391,793,1,1,WC,Max Hans Rehberg,Liam Gavrielides,4-1 RET,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Meerbusch CH,3,Clay,QF,413,181,0,WC,4,Titouan Droguet,Max Hans Rehberg,7-6(6) 6-4,0.88,0.0%,6.0%,62.7%,66.7%,64.0%,1/3,47.1%,30.1%,9.6%,27.1%,36.0%,1/7,140,0,4,67,42,25,7,1:48
 7-Aug-2023,Meerbusch CH,3,Clay,R16,413,203,1,WC,8,Max Hans Rehberg,Gauthier Onclin,7-6(4) 7-6(4),1.19,6.0%,2.4%,62.7%,71.2%,54.8%,4/7,52.2%,41.4%,1.0%,25.9%,63.4%,3/11,182,5,2,83,52,31,1,2:13
 7-Aug-2023,Meerbusch CH,3,Clay,R32,413,265,1,WC,,Max Hans Rehberg,Daniel Michalski,2-6 6-1 6-4,1.18,1.1%,4.5%,75.0%,69.7%,45.5%,7/9,53.9%,42.9%,0.0%,43.1%,42.1%,3/8,165,1,4,88,66,22,0,2:07

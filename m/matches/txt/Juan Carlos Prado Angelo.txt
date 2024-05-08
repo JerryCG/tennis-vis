@@ -1,7 +1,59 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,Porto Alegre CH,3,Clay,QF,490,361,0,Q,,Gonzalo Bueno,Juan Carlos Prado Angelo,6-3 6-1,0.68,3.2%,6.5%,45.2%,60.7%,26.5%,6/12,40.9%,39.6%,0.0%,35.3%,50.0%,2/5,110,2,4,62,28,34,0,1:26
+29-Apr-2024,Porto Alegre CH,3,Clay,R16,490,394,1,Q,,Juan Carlos Prado Angelo,Mateus Alves,5-1 RET,2.05,0.0%,0.0%,66.7%,62.5%,75.0%,0/1,67.7%,68.4%,0.0%,75.0%,57.1%,3/7,31,0,0,12,8,4,0,0:28
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,490,234,1,Q,3,Juan Carlos Prado Angelo,Dmitry Popko,7-6(5) 7-6(8),1.11,2.4%,3.6%,56.0%,72.3%,56.8%,1/3,51.1%,38.3%,6.4%,26.1%,50.0%,2/4,178,2,3,84,47,37,6,2:28
+29-Apr-2024,Porto Alegre CH,3,Clay,Q2,490,633,1,2,8,Juan Carlos Prado Angelo,Jose Pereira,6-4 6-1,1.31,4.7%,4.7%,57.8%,62.2%,63.0%,6/6,55.6%,49.3%,2.9%,45.2%,55.6%,4/10,133,3,3,64,37,27,2,1:39
+29-Apr-2024,Porto Alegre CH,3,Clay,Q1,490,944,1,2,,Juan Carlos Prado Angelo,Rafael Tosetto,6-2 2-6 6-3,1.12,5.5%,2.2%,64.8%,47.5%,50.0%,11/17,52.7%,57.9%,0.0%,50.9%,73.9%,8/16,167,5,2,91,59,32,0,2:04
+22-Apr-2024,Concepcion CH,3,Clay,QF,490,246,0,Alt,2,Juan Pablo Ficovich,Juan Carlos Prado Angelo,6-1 3-6 7-6(5),0.90,2.9%,5.8%,54.8%,64.9%,42.6%,5/10,48.6%,40.5%,1.3%,36.7%,46.7%,4/4,183,3,6,104,57,47,1,2:23
+22-Apr-2024,Concepcion CH,3,Clay,R16,490,569,1,Alt,Q,Juan Carlos Prado Angelo,Franco Roncadelli,6-1 4-6 6-3,1.15,1.1%,3.2%,53.8%,64.0%,51.2%,6/9,53.5%,48.1%,1.3%,48.4%,46.7%,6/8,172,1,3,93,50,43,1,2:17
+22-Apr-2024,Concepcion CH,3,Clay,R32,490,,1,Alt,PR,Juan Carlos Prado Angelo,Nicolas Alvarez,6-1 6-2,1.45,1.8%,3.5%,57.9%,63.6%,58.3%,3/4,58.8%,56.1%,3.5%,52.8%,61.9%,6/13,114,1,2,57,33,24,2,1:20
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,482,474,0,,,Daniel Dutra Da Silva,Juan Carlos Prado Angelo,6-3 6-4,0.82,4.1%,0.0%,61.2%,63.3%,52.6%,3/6,45.0%,33.3%,5.0%,19.4%,54.2%,1/2,109,2,0,49,30,19,3,1:25
+1-Apr-2024,Florianopolis CH,3,Clay,QF,534,319,0,LL,,Joao Lucas Reis Da Silva,Juan Carlos Prado Angelo,6-2 6-1,0.49,4.3%,4.3%,57.4%,55.6%,25.0%,3/8,35.6%,27.9%,2.3%,20.0%,46.2%,0/1,90,2,2,47,27,20,1,1:03
+1-Apr-2024,Florianopolis CH,3,Clay,R16,534,180,1,LL,5,Juan Carlos Prado Angelo,Genaro Alberto Olivieri,1-6 6-4 7-6(5),0.94,0.0%,2.2%,60.4%,65.5%,44.4%,2/8,48.6%,40.2%,2.2%,43.3%,32.0%,4/11,183,0,2,91,55,36,2,2:29
+1-Apr-2024,Florianopolis CH,3,Clay,R32,534,443,1,LL,Alt,Juan Carlos Prado Angelo,Eduardo Ribeiro,7-6(2) 6-2,1.45,3.3%,4.9%,60.7%,62.2%,62.5%,1/4,58.3%,54.5%,3.0%,50.0%,59.4%,5/11,127,2,3,61,37,24,2,1:29
+1-Apr-2024,Florianopolis CH,3,Clay,Q2,534,106,0,8,1,Camilo Ugo Carabelli,Juan Carlos Prado Angelo,7-5 7-6(5),0.99,7.8%,1.3%,54.5%,71.4%,45.7%,5/9,49.1%,40.0%,2.2%,34.4%,53.8%,3/9,167,6,1,77,42,35,2,2:15
+1-Apr-2024,Florianopolis CH,3,Clay,Q1,534,674,1,8,,Juan Carlos Prado Angelo,Igor Gimenez,W/O,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R16,559,295,0,,,Matheus Pucinelli De Almeida,Juan Carlos Prado Angelo,6-2 2-6 7-5,0.95,2.2%,5.5%,60.4%,67.3%,44.4%,4/8,48.4%,39.6%,7.9%,29.9%,58.8%,3/12,192,2,5,91,55,36,8,2:42
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R32,559,391,1,,,Juan Carlos Prado Angelo,Bogdan Bobrov,6-4 0-6 6-2,0.98,2.2%,5.4%,57.6%,62.3%,43.6%,13/18,50.0%,44.9%,2.6%,42.0%,50.0%,5/12,170,2,5,92,53,39,2,2:06
+18-Mar-2024,Asuncion CH,3,Clay,R32,559,95,0,WC,1,Juan Pablo Varillas,Juan Carlos Prado Angelo,1-6 6-3 6-1,0.93,2.9%,1.5%,54.4%,62.2%,45.2%,3/9,48.5%,42.2%,1.6%,33.3%,63.2%,4/8,132,2,1,68,37,31,1,1:39
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,R16,613,127,0,WC,3,Camilo Ugo Carabelli,Juan Carlos Prado Angelo,7-6(3) 6-1,0.65,2.6%,5.1%,47.4%,67.6%,36.6%,7/12,43.0%,31.6%,0.0%,25.7%,40.9%,2/3,135,2,4,78,37,41,0,1:50
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,R32,613,353,1,WC,,Juan Carlos Prado Angelo,Federico Agustin Gomez,6-4 6-0,1.61,2.0%,8.2%,55.1%,77.8%,59.1%,0/0,58.3%,49.2%,3.4%,45.2%,58.8%,4/9,108,1,4,49,27,22,2,1:13
+26-Feb-2024,M25 Tucuman,3,Clay,QF,609,309,0,,3,Dmitry Popko,Juan Carlos Prado Angelo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R16,609,1035,1,,Q,Juan Carlos Prado Angelo,Sean Hess,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R32,609,456,1,,8,Juan Carlos Prado Angelo,Luciano Emanuel Ambrogi,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R16,610,1112,0,,WC,Joaquin Aguilar Cardozo,Juan Carlos Prado Angelo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R32,610,434,1,,8,Juan Carlos Prado Angelo,Daniel Dutra Da Silva,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2024,Davis Cup WG2 PO: BOL vs THA,3,Clay,RR,605,581,1,,,Juan Carlos Prado Angelo,Maximus Jones,6-3 6-2,1.53,8.5%,6.4%,48.9%,73.9%,58.3%,0/1,57.6%,52.1%,4.2%,33.3%,68.4%,5/12,118,4,3,47,23,24,3,1:17
+27-Nov-2023,M15 Santa Cruz,3,,F,710,839,1,,,Juan Carlos Prado Angelo,Igor Gimenez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,SF,710,487,1,,5,Juan Carlos Prado Angelo,Valerio Aboian,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,QF,710,622,1,,,Juan Carlos Prado Angelo,Franco Roncadelli,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R16,710,601,1,,8,Juan Carlos Prado Angelo,Guido Ivan Justo,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R32,710,1149,1,,Q,Juan Carlos Prado Angelo,Bautista Vilicich,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,SF,721,542,0,,4,Valerio Aboian,Juan Carlos Prado Angelo,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,QF,721,784,1,,,Juan Carlos Prado Angelo,Giuseppe La Vela,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,R16,721,716,1,,8,Juan Carlos Prado Angelo,Leonardo Aboian,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,R32,721,,1,,Q,Juan Carlos Prado Angelo,Nicolas Villalon Valdes,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Cochabamba,3,,R16,850,,0,6,,Nicolas Villalon Valdes,Juan Carlos Prado Angelo,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Cochabamba,3,,R32,850,1156,1,6,,Juan Carlos Prado Angelo,Nicolas Bruna,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,F,824,555,1,,8,Juan Carlos Prado Angelo,Lorenzo Joaquin Rodriguez,6-3 4-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,SF,824,449,1,,2,Juan Carlos Prado Angelo,Luciano Emanuel Ambrogi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,QF,824,1017,1,,,Juan Carlos Prado Angelo,Franco Emanuel Egea,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,R16,824,488,1,,4,Juan Carlos Prado Angelo,Ignacio Monzon,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,R32,824,1514,1,,Q,Juan Carlos Prado Angelo,Ezequiel Monferrer,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Mendoza,3,Clay,R32,739,561,0,,8,Luciano Emanuel Ambrogi,Juan Carlos Prado Angelo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,QF,742,890,0,,,Mariano Kestelboim,Juan Carlos Prado Angelo,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,R16,742,471,1,,5,Juan Carlos Prado Angelo,Gonzalo Villanueva,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,R32,742,,1,,WC,Juan Carlos Prado Angelo,Federico Levi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Antofagasta CH,3,Clay,R32,735,348,0,WC,Alt,Eduardo Ribeiro,Juan Carlos Prado Angelo,6-3 6-4,0.90,0.0%,0.0%,60.0%,50.0%,41.7%,6/12,47.4%,48.2%,1.8%,42.4%,56.5%,3/5,116,0,0,60,36,24,1,1:25
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R16,782,183,0,WC,6,Mariano Navone,Juan Carlos Prado Angelo,6-3 6-3,0.68,0.0%,0.0%,54.1%,52.5%,44.1%,8/13,42.5%,35.0%,3.3%,32.6%,42.9%,2/5,134,0,0,74,40,34,2,1:42
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R32,782,447,1,WC,,Juan Carlos Prado Angelo,Adolfo Daniel Vallejo,6-3 6-1,1.47,2.0%,2.0%,56.0%,78.6%,59.1%,2/2,58.1%,44.2%,2.3%,50.0%,30.8%,4/6,93,1,1,50,28,22,1,1:13
 21-Aug-2023,Lima CH,3,Clay,R32,807,502,0,Q,,Gonzalo Villanueva,Juan Carlos Prado Angelo,6-3 1-6 7-5,0.97,0.0%,2.2%,67.0%,57.4%,40.0%,5/11,49.0%,46.7%,0.0%,41.6%,60.0%,6/15,198,0,2,91,61,30,0,2:55
 21-Aug-2023,Lima CH,3,Clay,Q2,807,1013,1,,PR,Juan Carlos Prado Angelo,Juan Sebastian Gomez,6-3 6-4,1.13,4.1%,2.7%,54.8%,62.5%,54.5%,4/6,53.5%,46.4%,3.6%,42.9%,52.4%,4/8,129,3,2,73,40,33,2,1:49
 21-Aug-2023,Lima CH,3,Clay,Q1,807,802,1,,12,Juan Carlos Prado Angelo,Ignacio Carou,6-3 6-1,1.60,0.0%,8.2%,49.0%,62.5%,64.0%,2/4,60.7%,58.6%,1.7%,47.1%,75.0%,6/10,107,0,4,49,24,25,1,1:16
+24-Jul-2023,M15 Metzinger,3,Clay,R16,806,958,0,,,Kai Lemstra,Juan Carlos Prado Angelo,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Metzinger,3,Clay,R32,806,1330,1,,Q,Juan Carlos Prado Angelo,Daniel Salazar Martinez,0-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Uslar,3,Clay,R16,804,584,0,JR,3,Nicolas Zanellato,Juan Carlos Prado Angelo,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2023,M15 Uslar,3,Clay,R32,804,,1,JR,Q,Juan Carlos Prado Angelo,Justin Engel,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M15 Constanta,3,Clay,R16,799,420,0,,1,Cezar Cretu,Juan Carlos Prado Angelo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M15 Constanta,3,Clay,R32,799,1161,1,,Q,Juan Carlos Prado Angelo,Louroi Martinez,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Apr-2023,M15 Mogi das Cruzes,3,Clay,QF,815,619,0,7,2,Nicolas Zanellato,Juan Carlos Prado Angelo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -13,8 +65,8 @@
 20-Feb-2023,M15 Naples FL,3,Clay,R32,829,909,1,,Q,Juan Carlos Prado Angelo,Lucas Bouquet,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Feb-2023,M15 Weston FL,3,Clay,R32,831,280,0,,1,Francisco Comesana,Juan Carlos Prado Angelo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Feb-2023,M15 Palm Coast FL,3,Clay,R32,832,689,0,,,Victor Lilov,Juan Carlos Prado Angelo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2023,Davis Cup WG2 PO: BOL vs GEO,3,Hard,RR,831,704,0,,,Aleksandre Bakshi,Juan Carlos Prado Angelo,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2023,Davis Cup WG2 PO: BOL vs GEO,3,Hard,RR,831,551,0,,,Saba Purtseladze,Juan Carlos Prado Angelo,6-7(3) 6-2 [1-0],,,,,,,,,,,,,,,,,,,,,
+2-Feb-2023,Davis Cup WG2 PO: BOL vs GEO,3,,RR,831,704,0,,,Aleksandre Bakshi,Juan Carlos Prado Angelo,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2023,Davis Cup WG2 PO: BOL vs GEO,3,,RR,831,551,0,,,Saba Purtseladze,Juan Carlos Prado Angelo,6-7(3) 6-2 [1-0],,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Santa Cruz,3,Clay,QF,790,521,0,,3,Ignacio Monzon,Juan Carlos Prado Angelo,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Santa Cruz,3,Clay,R16,790,615,1,,5,Juan Carlos Prado Angelo,Conner Huertas Del Pino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,M15 Santa Cruz,3,Clay,R32,790,1184,1,,,Juan Carlos Prado Angelo,Paul Valsecchi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,

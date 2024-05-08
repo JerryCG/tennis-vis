@@ -1,9 +1,44 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,M15 Osijek,3,Clay,QF,535,630,0,2,5,Neil Oberleitner,Luka Mikrut,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M15 Osijek,3,Clay,R16,535,1782,1,2,WC,Luka Mikrut,Filip Krolo,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M15 Osijek,3,Clay,R32,535,,1,2,Q,Luka Mikrut,Aljaz Jeran,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,F,535,313,0,4,1,Michael Vrbensky,Luka Mikrut,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,SF,535,379,1,4,2,Luka Mikrut,Matej Dodig,6-2 6-7(8) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,QF,535,617,1,4,6,Luka Mikrut,Emilien Voisin,6-7(6) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,R16,535,711,1,4,,Luka Mikrut,Mirza Basic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,R32,535,1383,1,4,Q,Luka Mikrut,Jan Kupcic,6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Dubrovnik,3,Clay,R32,542,,0,3,,Markus Molder,Luka Mikrut,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,Split CH,3,Clay,R16,500,240,0,WC,,Henri Squire,Luka Mikrut,6-3 6-4,0.75,4.1%,2.7%,59.5%,63.6%,40.0%,7/10,45.2%,34.4%,8.2%,21.6%,54.2%,1/2,135,3,2,74,44,30,5,1:34
+8-Apr-2024,Split CH,3,Clay,R32,500,126,1,WC,6,Luka Mikrut,Damir Dzumhur,6-0 6-1,1.92,2.2%,6.5%,60.9%,67.9%,66.7%,2/2,65.1%,62.5%,0.0%,58.3%,68.8%,5/10,86,1,3,46,28,18,0,1:01
+18-Mar-2024,M15 Opatija,3,Clay,R16,485,782,0,2,,Alessandro Pecci,Luka Mikrut,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Opatija,3,Clay,R32,485,1429,1,2,,Luka Mikrut,Gabriele Vulpitta,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Rovinj,3,Clay,R32,487,838,0,4,,Mili Poljicak,Luka Mikrut,6-2 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Porec,3,Clay,R16,487,1432,0,4,Q,Michele Ribecai,Luka Mikrut,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Porec,3,Clay,R32,487,1279,1,4,Q,Luka Mikrut,Vuk Radjenovic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,R32,491,431,0,,6,Tibo Colson,Luka Mikrut,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,Cherbourg CH,3,Hard,Q1,492,557,0,10,Alt,Nikolay Vylegzhanin,Luka Mikrut,6-1 6-2,0.57,6.5%,6.5%,60.9%,53.6%,33.3%,4/8,37.8%,30.8%,7.7%,25.0%,62.5%,0/3,98,3,3,46,28,18,4,0:53
+22-Jan-2024,M15 Manacor,3,Hard,R32,521,469,0,,5,Ryan Nijboer,Luka Mikrut,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,F,521,1177,0,5,,Yaroslav Demin,Luka Mikrut,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,SF,521,957,1,5,Q,Luka Mikrut,Nikolay Nedelchev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,QF,521,832,1,5,,Luka Mikrut,Michiel De Krom,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R16,521,1261,1,5,WC,Luka Mikrut,Alejandro Juan Mano,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R32,521,1250,1,5,,Luka Mikrut,Darwin Blanch,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,494,778,0,8,,Tiago Pereira,Luka Mikrut,6-1 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Trnava,3,Hard,R32,498,919,0,,Q,Vito Tonejc,Luka Mikrut,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,Lisbon CH,3,Clay,R16,545,203,0,Q,,Franco Agamenone,Luka Mikrut,7-6(4) 6-3,0.72,2.9%,0.0%,72.1%,57.1%,68.4%,3/6,46.0%,28.6%,3.6%,30.8%,23.5%,1/1,124,2,0,68,49,19,2,1:30
+2-Oct-2023,Lisbon CH,3,Clay,R32,545,205,1,Q,,Luka Mikrut,Stefano Travaglia,1-6 6-2 7-6(1),1.05,1.3%,0.0%,68.4%,68.5%,52.0%,2/5,50.0%,38.7%,5.4%,33.3%,47.2%,3/7,172,1,0,79,54,25,5,2:13
+2-Oct-2023,Lisbon CH,3,Clay,Q2,545,356,1,,11,Luka Mikrut,Carlos Sanchez Jover,1-6 6-4 7-6(5),0.95,2.1%,2.1%,60.0%,68.4%,34.2%,3/9,48.7%,43.0%,1.0%,38.1%,51.4%,5/11,195,2,2,95,57,38,1,2:15
+2-Oct-2023,Lisbon CH,3,Clay,Q1,545,311,1,,5,Luka Mikrut,Giovanni Fonio,7-6(4) 6-3,1.16,8.8%,0.0%,70.6%,75.0%,55.0%,2/3,54.0%,35.7%,8.9%,32.4%,42.1%,2/3,124,6,0,68,48,20,5,1:26
+25-Sep-2023,M25 Zlatibor,3,Clay,R16,542,332,0,,3,Andrew Paulson,Luka Mikrut,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R32,542,686,1,,,Luka Mikrut,Oleg Prihodko,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Maribor,3,Clay,R16,545,1214,0,8,,Nikola Basic,Luka Mikrut,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Maribor,3,Clay,R32,545,962,1,8,,Luka Mikrut,Tomas Lipovsek Puches,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Vienna,3,Clay,QF,545,921,0,3,8,Dominik Kellovsky,Luka Mikrut,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Vienna,3,Clay,R16,545,980,1,3,,Luka Mikrut,Pavel Nejedly,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Vienna,3,Clay,R32,545,1065,1,3,,Luka Mikrut,Paul Woerner,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,QF,677,532,0,8,4,Neil Oberleitner,Luka Mikrut,2-6 6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,R16,677,,1,8,WC,Luka Mikrut,Paul Werren,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,R32,677,1364,1,8,Q,Luka Mikrut,Michael Gloeckler,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Osijek,3,Clay,F,686,457,1,4,2,Luka Mikrut,Valerio Aboian,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Osijek,3,Clay,SF,686,453,1,4,1,Luka Mikrut,Sebastian Gima,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Osijek,3,Clay,QF,686,948,1,4,,Luka Mikrut,Dusan Obradovic,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,

@@ -1,10 +1,73 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Tulln CH,3,Clay,Q2,743,210,0,Alt,1,Benjamin Hassan,Jonas Forejtek,5-7 7-6(5) 7-5,0.93,3.5%,1.8%,60.2%,76.5%,40.0%,7/10,48.5%,35.3%,8.6%,21.8%,47.5%,3/5,229,4,2,113,68,45,10,2:34
-3-Sep-2023,Tulln CH,3,Clay,Q1,743,555,1,Alt,12,Jonas Forejtek,Denys Klok,6-1 6-2,1.77,16.3%,4.7%,60.5%,88.5%,41.2%,0/0,60.4%,53.4%,1.7%,50.0%,62.5%,5/8,101,7,2,43,26,17,1,1:02
+22-Apr-2024,Ostrava CH,3,Clay,Q2,368,529,0,6,,Buvaysar Gadamauri,Jonas Forejtek,3-6 6-0 7-6(12),0.95,1.1%,0.0%,60.9%,62.5%,52.8%,3/8,48.0%,39.1%,1.8%,28.4%,55.8%,3/6,202,1,0,92,56,36,2,2:20
+22-Apr-2024,Ostrava CH,3,Clay,Q1,368,,1,6,WC,Jonas Forejtek,Filip Kana,6-1 6-1,2.83,16.7%,0.0%,55.6%,90.0%,62.5%,0/0,69.6%,62.8%,0.0%,42.1%,79.2%,5/6,79,6,0,36,20,16,0,0:51
+8-Apr-2024,Split CH,3,Clay,R32,375,117,0,Q,2,Duje Ajdukovic,Jonas Forejtek,6-7(7) 7-5 6-1,0.81,4.0%,1.0%,58.6%,62.1%,46.3%,6/12,45.5%,35.9%,6.8%,23.3%,53.5%,3/10,202,4,1,99,58,41,7,2:29
+8-Apr-2024,Split CH,3,Clay,Q2,375,465,1,7,,Jonas Forejtek,Sebastian Gima,6-2 6-1,1.99,8.7%,2.2%,71.7%,81.8%,53.8%,1/1,62.5%,52.0%,0.0%,34.8%,66.7%,4/7,96,4,1,46,33,13,0,1:02
+8-Apr-2024,Split CH,3,Clay,Q1,375,1265,1,7,Alt,Jonas Forejtek,Mircea Alexandru Jecan,6-3 7-6(4),1.29,2.8%,0.0%,52.8%,71.1%,67.6%,2/4,53.2%,39.3%,3.6%,33.9%,54.5%,3/10,156,2,0,72,38,34,3,1:50
+1-Apr-2024,Barcelona CH,3,Clay,Q2,379,392,0,,12,Carlos Taberner,Jonas Forejtek,6-2 6-1,0.42,1.8%,5.4%,66.1%,48.6%,31.6%,4/9,34.7%,23.8%,0.0%,23.1%,25.0%,0/4,98,1,3,56,37,19,0,1:05
+1-Apr-2024,Barcelona CH,3,Clay,Q1,379,380,1,,6,Jonas Forejtek,Marko Topo,6-2 6-1,2.93,5.0%,0.0%,57.5%,87.0%,76.5%,1/1,66.7%,51.2%,0.0%,48.0%,56.3%,4/6,81,2,0,40,23,17,0,0:54
+18-Mar-2024,Zadar CH,3,Clay,SF,421,213,0,Q,,Jozef Kovalik,Jonas Forejtek,6-4 6-3,0.86,0.0%,0.0%,69.1%,71.1%,35.3%,3/7,46.6%,34.4%,0.0%,37.2%,27.8%,1/6,116,0,0,55,38,17,0,1:15
+18-Mar-2024,Zadar CH,3,Clay,QF,421,219,1,Q,,Jonas Forejtek,Lukas Neumayer,6-3 1-6 6-4,0.96,1.0%,0.0%,58.6%,56.9%,51.2%,7/12,49.5%,43.8%,1.1%,37.1%,59.3%,5/17,188,1,0,99,58,41,1,2:27
+18-Mar-2024,Zadar CH,3,Clay,R16,421,173,1,Q,5,Jonas Forejtek,Dino Prizmic,7-6(8) 0-6 6-4,0.81,0.0%,1.7%,63.8%,50.0%,50.0%,8/15,46.2%,40.5%,3.8%,31.8%,51.4%,5/5,195,0,2,116,74,42,3,2:52
+18-Mar-2024,Zadar CH,3,Clay,R32,421,401,1,Q,Q,Jonas Forejtek,Oleksii Krutykh,6-1 5-7 6-2,1.21,9.4%,3.1%,67.7%,72.3%,35.5%,5/8,53.6%,47.8%,2.7%,43.5%,54.5%,6/17,209,9,3,96,65,31,3,2:32
+18-Mar-2024,Zadar CH,3,Clay,Q2,421,1161,1,5,Alt,Jonas Forejtek,Mark Wallner,6-4 6-3,1.44,0.0%,0.0%,68.3%,73.2%,52.6%,1/2,56.3%,48.0%,8.0%,29.2%,81.5%,4/11,135,0,0,60,41,19,6,1:21
+18-Mar-2024,Zadar CH,3,Clay,Q1,421,,1,5,WC,Jonas Forejtek,Marino Jakic,6-1 6-2,2.03,4.9%,0.0%,65.9%,74.1%,71.4%,1/1,63.5%,54.5%,2.3%,41.7%,70.0%,5/7,85,2,0,41,27,14,1,0:57
+11-Mar-2024,Szekesfehervar CH,3,Clay,Q2,420,295,0,,1,Daniel Michalski,Jonas Forejtek,7-5 6-7(3) 7-6(5),1.02,6.6%,0.8%,59.8%,76.7%,51.0%,7/10,50.4%,34.4%,1.6%,31.8%,37.5%,2/7,244,8,1,122,73,49,2,3:13
+11-Mar-2024,Szekesfehervar CH,3,Clay,Q1,420,391,1,,10,Jonas Forejtek,Bogdan Bobrov,6-3 7-5,1.82,9.1%,0.0%,69.1%,78.9%,70.6%,0/1,59.3%,43.1%,1.7%,36.7%,50.0%,3/5,113,5,0,55,38,17,1,1:12
+26-Feb-2024,New Delhi CH,3,Hard,R32,432,147,0,Q,3,Valentin Vacherot,Jonas Forejtek,6-4 6-7(5) 7-6(4),0.97,7.3%,5.7%,55.3%,72.1%,47.3%,5/9,49.6%,38.0%,3.3%,33.3%,44.9%,3/6,244,9,7,123,68,55,4,2:53
+26-Feb-2024,New Delhi CH,3,Hard,Q2,432,500,1,,,Jonas Forejtek,Yurii Dzhavakian,6-2 6-3,1.25,2.9%,2.9%,56.5%,71.8%,43.3%,3/4,55.5%,50.8%,3.4%,43.3%,58.6%,4/12,128,2,2,69,39,30,2,1:25
+26-Feb-2024,New Delhi CH,3,Hard,Q1,432,406,1,,9,Jonas Forejtek,Kaichi Uchida,6-3 6-3,2.14,20.5%,2.3%,59.1%,80.8%,72.2%,1/2,59.5%,48.6%,5.6%,41.0%,57.6%,4/12,116,9,1,44,26,18,4,1:09
+19-Feb-2024,Pune CH,3,Hard,Q1,426,317,0,,9,Sebastian Fanselow,Jonas Forejtek,7-6(5) 6-4,0.84,10.0%,2.9%,64.3%,66.7%,48.0%,1/4,46.5%,33.8%,5.4%,32.0%,37.5%,2/8,144,7,2,70,45,25,4,1:40
+12-Feb-2024,Bengaluru CH,3,Hard,Q2,432,273,0,11,1,Bernard Tomic,Jonas Forejtek,6-4 6-2,0.40,12.5%,3.6%,64.3%,69.4%,40.0%,2/5,40.4%,16.3%,11.6%,4.0%,33.3%,0/0,99,7,2,56,36,20,5,0:59
+12-Feb-2024,Bengaluru CH,3,Hard,Q1,432,506,1,11,,Jonas Forejtek,Yurii Dzhavakian,6-3 6-0,2.75,12.2%,0.0%,63.4%,88.5%,66.7%,1/1,63.9%,53.7%,4.5%,36.4%,70.6%,4/14,108,5,0,41,26,15,3,0:58
+5-Feb-2024,Chennai CH,3,Hard,R32,441,205,0,Q,4,Ugo Blanchet,Jonas Forejtek,6-3 3-6 7-6(5),0.96,4.9%,4.9%,50.5%,80.8%,47.1%,10/12,48.8%,34.5%,7.3%,27.3%,41.8%,2/6,213,5,5,103,52,51,8,2:30
+5-Feb-2024,Chennai CH,3,Hard,Q2,441,636,1,5,11,Jonas Forejtek,Luca Castelnuovo,6-4 6-3,1.28,6.6%,1.6%,70.5%,67.4%,72.2%,3/4,55.9%,40.0%,2.0%,35.3%,50.0%,3/6,111,4,1,61,43,18,1,1:05
+5-Feb-2024,Chennai CH,3,Hard,Q1,441,677,1,5,,Jonas Forejtek,Siddharth Vishwakarma,6-2 6-2,2.71,2.4%,7.3%,63.4%,80.8%,80.0%,1/1,64.9%,52.8%,5.7%,40.0%,69.6%,4/5,94,1,3,41,26,15,3,1:01
+15-Jan-2024,M25 Sunderland,3,Hard,SF,477,537,0,,,Kyle Edmund,Jonas Forejtek,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,QF,477,308,1,,1,Jonas Forejtek,Dan Added,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,R16,477,428,1,,6,Jonas Forejtek,Viktor Durasovic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,R32,477,718,1,,,Jonas Forejtek,Giorgio Tabacco,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,R16,540,428,0,SE,7,Cannon Kingsley,Jonas Forejtek,6-4 6-7(7) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,R32,540,958,1,SE,Q,Jonas Forejtek,Ben Jones,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,F,540,646,0,,Q,Jacob Fearnley,Jonas Forejtek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,SF,540,381,1,,5,Jonas Forejtek,Clement Chidekh,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,QF,540,353,1,,4,Jonas Forejtek,Raphael Collignon,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,R16,540,596,1,,,Jonas Forejtek,Nikoloz Basilashvili,2-2 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,R32,540,391,1,,8,Jonas Forejtek,Martin Krumich,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Maspalomas CH,3,Clay,QF,627,193,0,Q,7,Daniel Rincon,Jonas Forejtek,3-6 6-4 6-4,1.06,9.5%,0.0%,60.7%,76.5%,51.5%,5/8,50.9%,35.3%,7.1%,28.6%,44.4%,2/4,169,8,0,84,51,33,6,1:54
+27-Nov-2023,Maspalomas CH,3,Clay,R16,627,176,1,Q,4,Jonas Forejtek,Ivan Gakhov,2-6 6-4 6-3,1.03,5.4%,2.2%,60.9%,78.6%,47.2%,5/7,51.4%,34.6%,16.0%,17.6%,63.3%,2/7,173,5,2,92,56,36,13,1:54
+27-Nov-2023,Maspalomas CH,3,Clay,R32,627,422,1,Q,WC,Jonas Forejtek,Alberto Barroso Campos,6-2 4-6 6-4,1.24,7.6%,1.3%,69.6%,72.7%,66.7%,0/1,51.7%,36.1%,5.2%,32.3%,43.8%,3/14,176,6,1,79,55,24,5,2:05
+27-Nov-2023,Maspalomas CH,3,Clay,Q2,627,379,1,11,,Jonas Forejtek,Eric Vanshelboim,6-3 3-6 6-3,1.02,3.0%,0.0%,71.7%,67.6%,50.0%,10/12,51.7%,38.3%,1.2%,31.7%,57.1%,3/5,180,3,0,99,71,28,1,1:57
+27-Nov-2023,Maspalomas CH,3,Clay,Q1,627,715,1,11,Alt,Jonas Forejtek,Mario Gonzalez Fernandez,2-6 6-0 7-5,1.07,4.6%,1.8%,65.1%,63.4%,42.1%,12/16,52.0%,47.3%,5.5%,47.7%,46.8%,6/14,200,5,2,109,71,38,5,2:15
+20-Nov-2023,M25 Antalya,3,,R32,632,223,0,,1,Nerman Fatic,Jonas Forejtek,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Trnava,3,Hard,R32,677,811,0,,Q,Matej Vocel,Jonas Forejtek,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,SF,680,657,0,,,Emilien Voisin,Jonas Forejtek,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,QF,680,582,1,,,Jonas Forejtek,Adrien Gobat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R16,680,409,1,,5,Jonas Forejtek,Alexis Gautier,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R32,680,637,1,,,Jonas Forejtek,Maxence Beauge,6-2 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Sarreguemines,3,Carpet,R32,679,720,0,,,Adam Moundir,Jonas Forejtek,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Olbia CH,3,Hard,Q1,591,398,0,,8,Giovanni Oradini,Jonas Forejtek,6-3 6-2,0.65,3.1%,3.1%,48.4%,45.2%,48.5%,8/13,41.4%,34.6%,3.8%,27.6%,43.5%,2/2,116,2,2,64,31,33,2,1:20
+25-Sep-2023,M25 Pazardzhik,3,Clay,R16,639,490,0,,7,Hynek Barton,Jonas Forejtek,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R32,639,537,1,,,Jonas Forejtek,Svyatoslav Gulin,6-1 RET,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,F,744,371,0,,3,Louis Wessels,Jonas Forejtek,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,SF,744,418,1,,4,Jonas Forejtek,Eric Vanshelboim,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,QF,744,830,1,,,Jonas Forejtek,Jakub Nicod,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,R16,744,321,1,,1,Jonas Forejtek,Mathys Erhard,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,R32,744,1337,1,,Q,Jonas Forejtek,Jan Hrazdil,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,F,739,369,1,7,1,Jonas Forejtek,Louis Wessels,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,SF,739,716,1,7,5,Jonas Forejtek,Luca Castagnola,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,QF,739,1008,1,7,WC,Jonas Forejtek,Marc Majdandzic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,R16,739,798,1,7,,Jonas Forejtek,Marcel Zielinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Buschhausen,3,Clay,R32,739,1576,1,7,Q,Jonas Forejtek,Yvo Panak,6-4 6-7(3) 7-6(10),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Tulln CH,3,Clay,Q2,743,210,0,Alt,1,Benjamin Hassan,Jonas Forejtek,5-7 7-6(5) 7-5,0.93,3.5%,1.8%,60.2%,76.5%,40.0%,7/10,48.5%,35.3%,8.6%,21.8%,47.5%,3/5,229,4,2,113,68,45,10,2:34
+4-Sep-2023,Tulln CH,3,Clay,Q1,743,555,1,Alt,12,Jonas Forejtek,Denys Klok,6-1 6-2,1.77,16.3%,4.7%,60.5%,88.5%,41.2%,0/0,60.4%,53.4%,1.7%,50.0%,62.5%,5/8,101,7,2,43,26,17,1,1:02
+28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,R32,743,1371,0,,,Matyas Cerny,Jonas Forejtek,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,Prague CH,3,Clay,R16,776,269,0,WC,5,Joao Sousa,Jonas Forejtek,6-0 4-6 6-4,0.86,3.8%,1.9%,57.1%,56.7%,40.0%,8/15,46.5%,43.2%,0.0%,32.7%,54.3%,4/11,200,4,2,105,60,45,0,2:25
 21-Aug-2023,Prague CH,3,Clay,R32,776,305,1,WC,,Jonas Forejtek,Javier Barranco Cosano,6-4 3-6 6-4,0.87,12.6%,1.1%,61.1%,79.3%,43.2%,6/7,48.9%,30.1%,2.4%,21.6%,43.8%,2/4,178,12,1,95,58,37,2,2:07
 7-Aug-2023,Meerbusch CH,3,Clay,Q1,658,578,0,,8,Miguel Damas,Jonas Forejtek,6-0 4-6 6-3,0.81,5.6%,2.8%,67.6%,52.1%,39.1%,2/9,44.8%,42.2%,2.4%,36.8%,53.8%,4/8,154,4,2,71,48,23,2,1:57
 31-Jul-2023,Liberec CH,3,Clay,Q1,667,568,0,,11,Yanaki Milev,Jonas Forejtek,6-3 6-4,0.86,4.2%,4.2%,54.2%,61.5%,45.5%,0/4,45.6%,39.4%,4.5%,17.9%,55.3%,2/5,114,2,2,48,26,22,3,1:12
+24-Jul-2023,M25 Kramsach,3,Clay,R16,664,601,0,,,Gerard Campana Lee,Jonas Forejtek,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Kramsach,3,Clay,R32,664,,1,,Q,Jonas Forejtek,Michal Lusovsky,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Mar-2023,Lille CH,3,Hard,Q2,298,343,0,3,7,Beibit Zhukayev,Jonas Forejtek,6-4 6-4,0.56,29.3%,1.7%,65.5%,76.3%,50.0%,4/6,44.9%,18.4%,22.4%,11.4%,35.7%,0/0,107,17,1,58,38,20,11,0:59
 27-Mar-2023,Lille CH,3,Hard,Q1,298,776,1,3,Alt,Jonas Forejtek,Niklas Schell,6-3 7-6(3),1.43,13.8%,0.0%,73.8%,75.0%,58.8%,1/3,56.1%,41.8%,7.5%,37.5%,52.6%,3/8,132,9,0,65,48,17,5,1:17
 20-Mar-2023,Saint Brieuc CH,3,Hard,R32,298,469,0,,WC,Sascha Gueymard Wayenburg,Jonas Forejtek,6-2 6-3,0.78,5.0%,2.5%,55.0%,63.6%,55.6%,2/5,42.3%,31.3%,1.6%,19.4%,46.4%,0/2,104,2,1,40,22,18,1,1:04

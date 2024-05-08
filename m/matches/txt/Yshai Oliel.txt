@@ -1,8 +1,66 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Istanbul CH,3,Hard,R16,502,264,0,Q,,Altug Celikbilek,Yshai Oliel,2-6 6-4 6-3,0.94,4.8%,1.2%,67.5%,69.6%,44.4%,0/3,48.8%,36.1%,3.6%,21.7%,54.1%,3/8,166,4,1,83,56,27,3,2:05
-3-Sep-2023,Istanbul CH,3,Hard,R32,502,314,1,Q,,Yshai Oliel,Marius Copil,6-2 6-4,1.42,3.9%,3.9%,58.8%,70.0%,66.7%,0/1,57.1%,44.7%,4.3%,36.4%,52.0%,4/5,98,2,2,51,30,21,2,1:19
-3-Sep-2023,Istanbul CH,3,Hard,Q2,502,208,1,11,1,Yshai Oliel,Seong Chan Hong,6-4 6-1,1.91,2.2%,2.2%,73.3%,75.8%,75.0%,1/1,58.9%,46.8%,4.8%,41.9%,51.6%,4/12,107,1,1,45,33,12,3,1:25
-3-Sep-2023,Istanbul CH,3,Hard,Q1,502,691,1,11,,Yshai Oliel,Sergey Fomin,3-6 6-3 6-2,1.24,14.1%,2.8%,71.8%,80.4%,40.0%,3/5,53.0%,38.5%,2.6%,27.9%,51.4%,4/8,149,10,2,71,51,20,2,2:03
+15-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,407,535,0,5,,Kirill Kivattsev,Yshai Oliel,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Santa Margherita di Pula,3,Clay,SF,405,431,0,4,6,Marcello Serafini,Yshai Oliel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Santa Margherita di Pula,3,Clay,QF,405,435,1,4,5,Yshai Oliel,Matthew Dellavedova,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R16,405,563,1,4,,Yshai Oliel,Gianmarco Ferrari,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,405,534,1,4,,Yshai Oliel,Sidane Pontjodikromo,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,QF,404,590,0,5,,Tommaso Compagnucci,Yshai Oliel,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R16,404,1005,1,5,,Yshai Oliel,Andrea Gola,6-1 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,404,1471,1,5,Q,Yshai Oliel,Federico Salomone,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Alaminos-Larnaca,3,Clay,SF,409,892,0,1,,Stefan Palosi,Yshai Oliel,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Alaminos-Larnaca,3,Clay,QF,409,824,1,1,8,Yshai Oliel,Lilian Marmousez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Alaminos-Larnaca,3,Clay,R16,409,1013,1,1,,Yshai Oliel,Andrea Gola,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Alaminos-Larnaca,3,Clay,R32,409,1200,1,1,Q,Yshai Oliel,Sergis Kyratzis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Alaminos-Larnaca,3,Clay,SF,408,603,0,1,4,Dan Alexandru Tomescu,Yshai Oliel,6-1 5-7 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Alaminos-Larnaca,3,Clay,QF,408,1253,1,1,,Yshai Oliel,Daniele Rapagnetta,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Alaminos-Larnaca,3,Clay,R16,408,1148,1,1,,Yshai Oliel,Jurriaan Bol,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Alaminos-Larnaca,3,Clay,R32,408,1265,1,1,WC,Yshai Oliel,Demetris Azoides,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,Kigali 2 CH,3,Clay,R32,408,574,0,,,Juan Pablo Paz,Yshai Oliel,6-2 6-2,0.60,1.8%,0.0%,73.2%,53.7%,53.3%,3/7,41.7%,27.7%,2.1%,23.3%,35.3%,0/1,103,1,0,56,41,15,1,1:24
+26-Feb-2024,Kigali 1 CH,3,Clay,QF,420,816,0,,,Stefan Kozlov,Yshai Oliel,4-6 6-3 6-1,0.83,2.2%,3.2%,68.8%,59.4%,41.4%,8/14,46.8%,38.5%,1.3%,34.6%,46.2%,3/3,171,2,3,93,64,29,1,2:48
+26-Feb-2024,Kigali 1 CH,3,Clay,R16,420,1132,1,,Q,Yshai Oliel,Lucas Bouquet,6-4 3-6 6-3,1.00,6.5%,2.8%,62.6%,70.1%,52.5%,12/13,51.3%,36.4%,6.8%,19.0%,70.0%,2/4,195,7,3,107,67,40,6,2:34
+26-Feb-2024,Kigali 1 CH,3,Clay,R32,420,1463,1,,Q,Yshai Oliel,Ivan Denisov,6-4 6-2,1.36,0.0%,3.8%,73.6%,64.1%,71.4%,4/5,56.1%,46.3%,3.7%,40.0%,54.2%,4/8,107,0,2,53,39,14,2,1:32
+12-Feb-2024,Glasgow CH,3,Hard,R32,419,316,0,,6,Steven Diez,Yshai Oliel,6-4 5-7 7-6(5),1.09,9.9%,3.6%,58.6%,73.8%,52.2%,6/9,50.6%,38.5%,0.8%,32.5%,48.0%,3/12,241,11,4,111,65,46,1,3:27
+3-Feb-2024,Davis Cup QLS R1: CZE vs ISR,3,Hard,RR,415,127,0,,,Jakub Mensik,Yshai Oliel,6-1 7-6(4),0.59,6.5%,1.6%,66.1%,63.4%,52.4%,3/5,41.6%,23.8%,15.9%,13.5%,38.5%,0/3,125,4,1,62,41,21,10,1:34
+22-Jan-2024,Indian Wells 2 CH,3,Hard,R16,415,396,0,,,Blaise Bicknell,Yshai Oliel,7-5 6-3,0.73,1.5%,1.5%,56.9%,56.8%,57.1%,2/5,43.9%,31.3%,6.0%,27.3%,39.1%,1/6,132,1,1,65,37,28,4,1:36
+22-Jan-2024,Indian Wells 2 CH,3,Hard,R32,415,354,1,,,Yshai Oliel,Benjamin Lock,3-6 7-6(3) 6-0,1.13,7.7%,1.1%,60.4%,78.2%,50.0%,5/7,52.5%,37.2%,4.7%,29.6%,50.0%,4/8,177,7,1,91,55,36,4,2:24
+15-Jan-2024,Indian Wells 1 CH,3,Hard,R32,415,224,0,,2,Marco Trungelliti,Yshai Oliel,6-3 6-1,0.38,7.2%,2.9%,62.3%,60.5%,38.5%,7/11,39.8%,17.9%,5.1%,13.8%,30.0%,0/0,108,5,2,69,43,26,2,1:17
+27-Nov-2023,M25 Heraklion,3,,SF,437,251,0,4,1,Jules Marie,Yshai Oliel,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,,QF,437,555,1,4,6,Yshai Oliel,Orel Kimhi,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,,R16,437,1252,1,4,,Yshai Oliel,Lior Goldenberg,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,,R32,437,1556,1,4,Q,Yshai Oliel,Rodrigo Alujas,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,,QF,439,655,0,2,7,Alastair Gray,Yshai Oliel,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,,R16,439,1996,1,2,,Yshai Oliel,Matic Kriznik,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,,R32,439,922,1,2,,Yshai Oliel,Amit Vales,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,QF,450,625,0,1,8,Jakub Nicod,Yshai Oliel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,R16,450,922,1,1,,Yshai Oliel,Amit Vales,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,,R32,450,720,1,1,,Yshai Oliel,Leonardo Rossi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,QF,458,832,0,7,JE,Arthur Gea,Yshai Oliel,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,R16,458,836,1,7,,Yshai Oliel,Niels Visker,6-4 3-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,R32,458,,1,7,,Yshai Oliel,Adrian Bodmer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,QF,461,840,0,,,Niels Visker,Yshai Oliel,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R16,461,,1,,WC,Yshai Oliel,Adrian Bodmer,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R32,461,1119,1,,Q,Yshai Oliel,Louis Dussin,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Sharm ElSheikh,3,Hard,QF,473,689,0,8,,Zura Tkemaladze,Yshai Oliel,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Sharm ElSheikh,3,Hard,R16,473,1281,1,8,,Yshai Oliel,Adam Jones,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Sharm ElSheikh,3,Hard,R32,473,648,1,8,,Yshai Oliel,Evgeny Philippov,7-5 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2023,Davis Cup WG1 R1: ISR vs JPN,3,Hard,RR,470,146,0,,,Sho Shimabukuro,Yshai Oliel,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2023,Davis Cup WG1 R1: ISR vs JPN,3,Hard,RR,470,193,1,,,Yshai Oliel,Shintaro Mochizuki,2-6 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Istanbul CH,3,Hard,R16,502,264,0,Q,,Altug Celikbilek,Yshai Oliel,2-6 6-4 6-3,0.94,4.8%,1.2%,67.5%,69.6%,44.4%,0/3,48.8%,36.1%,3.6%,21.7%,54.1%,3/8,166,4,1,83,56,27,3,2:05
+4-Sep-2023,Istanbul CH,3,Hard,R32,502,314,1,Q,,Yshai Oliel,Marius Copil,6-2 6-4,1.42,3.9%,3.9%,58.8%,70.0%,66.7%,0/1,57.1%,44.7%,4.3%,36.4%,52.0%,4/5,98,2,2,51,30,21,2,1:19
+4-Sep-2023,Istanbul CH,3,Hard,Q2,502,208,1,11,1,Yshai Oliel,Seong Chan Hong,6-4 6-1,1.91,2.2%,2.2%,73.3%,75.8%,75.0%,1/1,58.9%,46.8%,4.8%,41.9%,51.6%,4/12,107,1,1,45,33,12,3,1:25
+4-Sep-2023,Istanbul CH,3,Hard,Q1,502,691,1,11,,Yshai Oliel,Sergey Fomin,3-6 6-3 6-2,1.24,14.1%,2.8%,71.8%,80.4%,40.0%,3/5,53.0%,38.5%,2.6%,27.9%,51.4%,4/8,149,10,2,71,51,20,2,2:03
+21-Aug-2023,M25 Poznan,3,Clay,QF,501,733,0,6,,Lorenzo Joaquin Rodriguez,Yshai Oliel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R16,501,,1,6,Q,Yshai Oliel,Alan Bojarski,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R32,501,748,1,6,,Yshai Oliel,Peter Benjamin Privara,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Bielsko Biala,3,Clay,R32,505,1001,0,6,,Daniel Siniakov,Yshai Oliel,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Herzlia,3,Hard,QF,565,606,0,4,5,Orel Kimhi,Yshai Oliel,6-4 0-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Herzlia,3,Hard,R16,565,1993,1,4,WC,Yshai Oliel,Lior Goldenberg,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Herzlia,3,Hard,R32,565,2041,1,4,Q,Yshai Oliel,Ioannis Xilas,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,F,515,,1,1,WC,Yshai Oliel,Amit Vales,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,SF,515,950,1,1,,Yshai Oliel,Jordan Hasson,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,QF,515,1420,1,1,Q,Yshai Oliel,Vladimir Bazilevskiy,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,R16,515,1956,1,1,Q,Yshai Oliel,Timothy Gray,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Raanana,3,Hard,R32,515,988,1,1,,Yshai Oliel,Hamish Stewart,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Gandia,3,Clay,R32,479,576,0,7,,Sergi Perez Contri,Yshai Oliel,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Netanya,3,Hard,F,502,380,1,7,2,Yshai Oliel,Filip Peliwo,1-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Netanya,3,Hard,SF,502,368,1,7,1,Yshai Oliel,Edan Leshem,5-7 2-0 RET,,,,,,,,,,,,,,,,,,,,,
@@ -38,7 +96,7 @@
 27-Feb-2023,M25 Loule,3,Hard,R16,476,259,0,,2,Lukas Rosol,Yshai Oliel,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Feb-2023,M25 Loule,3,Hard,R32,476,1168,1,,Q,Yshai Oliel,Taketo Takamisawa,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2023,M25 Faro,3,Hard,R32,470,854,0,,SE,Henrique Rocha,Yshai Oliel,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Feb-2023,Davis Cup WG1 PO: ISR vs LAT,3,Hard,RR,476,486,1,,,Yshai Oliel,Robert Strombachs,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Feb-2023,Davis Cup WG1 PO: ISR vs LAT,3,,RR,476,486,1,,,Yshai Oliel,Robert Strombachs,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M15 Antalya,3,Clay,SF,482,527,0,3,5,Gergely Madarasz,Yshai Oliel,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M15 Antalya,3,Clay,QF,482,673,1,3,,Yshai Oliel,Davide Galoppini,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M15 Antalya,3,Clay,R16,482,1133,1,3,,Yshai Oliel,Cengiz Aksu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -134,7 +192,7 @@
 9-Aug-2021,M25 Frankfurt am Main,3,Clay,SF,450,475,1,8,,Yshai Oliel,Lucas Gerch,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2021,M25 Frankfurt am Main,3,Clay,QF,450,554,1,8,,Yshai Oliel,Mariano Kestelboim,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2021,M25 Frankfurt am Main,3,Clay,R16,450,617,1,8,,Yshai Oliel,Arnaud Bovy,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-9-Aug-2021,M25 Frankfurt am Main,3,Clay,R32,450,1330,1,8,WC,Yshai Oliel,Milos Karol ,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Aug-2021,M25 Frankfurt am Main,3,Clay,R32,450,1330,1,8,WC,Yshai Oliel,Milos Karol,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2021,Nur-Sultan 4 CH,3,Hard,Q2,450,503,0,4,6,Oleksii Krutykh,Yshai Oliel,3-6 6-3 6-2,0.77,4.9%,6.1%,47.6%,74.4%,44.2%,3/7,46.4%,31.9%,4.3%,31.4%,32.4%,2/4,151,4,5,82,39,43,3,1:53
 19-Jul-2021,Nur-Sultan 4 CH,3,Hard,Q1,450,,1,4,WC,Yshai Oliel,Kirill Kolganov,6-2 6-0,2.35,0.0%,2.6%,52.6%,90.0%,61.1%,0/0,63.6%,55.7%,0.0%,57.5%,52.4%,5/10,99,0,1,38,20,18,0,1:07
 12-Jul-2021,Nur-Sultan 3 CH,3,Hard,Q2,453,382,0,6,1,Andrey Kuznetsov,Yshai Oliel,7-5 6-4,0.95,1.6%,3.2%,61.9%,66.7%,54.2%,2/5,47.8%,36.0%,12.0%,14.3%,63.6%,1/3,138,1,2,63,39,24,9,1:37

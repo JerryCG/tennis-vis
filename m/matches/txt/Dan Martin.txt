@@ -1,5 +1,23 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-20-Aug-2023,Lima CH,3,Clay,Q1,,605,0,,3,Pedro Sakamoto,Dan Martin,6-2 6-2,0.48,4.6%,1.5%,72.3%,46.8%,44.4%,7/12,38.0%,25.6%,7.0%,21.4%,33.3%,1/3,108,3,1,65,47,18,3,1:11
+17-Mar-2024,Merida CH,3,Clay,R32,,497,0,Q,,Gabi Adrian Boitan,Dan Martin,6-2 6-3,0.59,4.5%,2.3%,61.4%,59.3%,41.2%,1/5,39.4%,28.0%,10.0%,25.0%,35.7%,1/7,94,2,1,44,27,17,5,1:12
+17-Mar-2024,Merida CH,3,Clay,Q2,,1138,1,4,7,Dan Martin,Elio Jose Ribeiro Lago,6-4 6-3,1.35,11.7%,1.7%,56.7%,79.4%,57.7%,3/4,57.0%,40.4%,10.6%,35.0%,44.4%,3/6,107,7,1,60,34,26,5,1:33
+11-Mar-2024,M25 Santo Domingo,3,Hard,R32,,701,0,,,Jaimee Floyd Angele,Dan Martin,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Santo Domingo,3,Hard,R32,,781,0,,,Axel Nefve,Dan Martin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R32,,1645,0,,,Kaylan Bigun,Dan Martin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,R32,,574,0,,,Marlon Vankan,Dan Martin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Cleveland CH,3,Hard,Q1,,921,0,12,,Collin Altamirano,Dan Martin,7-6(4) 6-3,0.80,1.4%,4.2%,59.7%,69.8%,41.4%,3/5,45.6%,33.3%,9.3%,20.5%,51.6%,1/6,147,1,3,72,43,29,7,1:34
+15-Jan-2024,M25 Ithaca NY,3,Hard,R32,,648,0,,5,Ozan Baris,Dan Martin,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,Drummondville CH,3,Hard,R16,,182,0,WC,5,Ryan Peniston,Dan Martin,6-2 0-0 RET,0.42,0.0%,4.3%,69.6%,43.8%,71.4%,0/2,37.2%,20.0%,15.0%,7.7%,42.9%,0/0,43,0,1,23,16,7,3,0:34
+13-Nov-2023,Drummondville CH,3,Hard,R32,,849,1,WC,Q,Dan Martin,Alexander Kotzen,2-1 RET,1.67,0.0%,0.0%,75.0%,77.8%,33.3%,0/0,61.9%,55.6%,11.1%,40.0%,75.0%,0/0,21,0,0,12,9,3,1,0:20
+6-Nov-2023,Calgary CH,3,Hard,R32,,242,0,WC,8,Aziz Dougaz,Dan Martin,6-2 7-5,0.65,3.8%,9.4%,60.4%,59.4%,38.1%,1/5,40.5%,31.7%,11.1%,16.7%,51.9%,1/4,116,2,5,53,32,21,7,1:12
+30-Oct-2023,M25 Edmonton,3,Hard,R16,,355,0,,2,Charles Broom,Dan Martin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Edmonton,3,Hard,R32,,1278,1,,Q,Dan Martin,Evan Bynoe,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Saint-Augustin,3,Hard,QF,,349,0,,2,Charles Broom,Dan Martin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Saint-Augustin,3,Hard,R16,,,1,,Q,Dan Martin,Kuang Qing Xu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Saint-Augustin,3,Hard,R32,,423,1,,6,Dan Martin,Liam Draxl,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,R32,,1039,0,8,,Toby D Boyer,Dan Martin,6-7(2) 7-6(11) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M15 Albuquerque NM,3,Hard,R32,,774,0,,,Micah Braswell,Dan Martin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,Lima CH,3,Clay,Q1,,605,0,,3,Pedro Sakamoto,Dan Martin,6-2 6-2,0.48,4.6%,1.5%,72.3%,46.8%,44.4%,7/12,38.0%,25.6%,7.0%,21.4%,33.3%,1/3,108,3,1,65,47,18,3,1:11
 14-Aug-2023,Winnipeg CH,3,Hard,R32,,330,0,WC,Alt,Billy Harris,Dan Martin,6-4 6-4,0.56,5.3%,7.0%,56.1%,78.1%,44.0%,3/5,42.7%,20.8%,15.1%,9.1%,40.0%,0/2,110,3,4,57,32,25,8,1:28
 7-Aug-2023,Canada Masters,3,Hard,Q1,,62,0,WC,1,Aleksandar Vukic,Dan Martin,6-3 6-4,0.76,0.0%,1.7%,53.4%,64.5%,55.6%,6/9,45.9%,30.2%,13.2%,16.7%,47.8%,1/1,111,0,1,58,31,27,7,1:05
 17-Jul-2023,Granby CH,3,Hard,Q1,,461,0,WC,10,Alexander Cozbinov,Dan Martin,1-6 6-4 6-1,0.84,1.1%,3.4%,55.7%,65.3%,41.0%,9/14,48.0%,38.3%,6.7%,26.5%,53.8%,4/5,148,1,3,88,49,39,4,

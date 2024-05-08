@@ -1,4 +1,58 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Rome CH,3,Clay,Q1,263,405,0,1,Alt,Marcello Serafini,Javier Barranco Cosano,3-6 6-3 5-1 RET,0.82,3.8%,3.8%,65.0%,57.7%,42.9%,5/10,45.3%,38.9%,5.6%,28.6%,63.0%,3/11,170,3,3,80,52,28,5,1:51
+15-Apr-2024,Oeiras CH,3,Clay,Q2,265,262,0,8,,Valentin Royer,Javier Barranco Cosano,6-7(2) 6-2 7-6(4),0.75,5.3%,8.0%,53.1%,58.3%,60.4%,11/15,46.2%,30.5%,5.3%,23.6%,40.0%,2/4,208,6,9,113,60,53,5,2:51
+15-Apr-2024,Oeiras CH,3,Clay,Q1,265,391,1,8,Alt,Javier Barranco Cosano,Martin Krumich,7-6(2) 6-3,1.21,9.8%,6.1%,62.2%,74.5%,54.8%,8/8,54.7%,39.7%,4.4%,28.6%,51.5%,2/4,150,8,5,82,51,31,3,1:54
+8-Apr-2024,Madrid CH,3,Clay,Q2,265,233,0,7,3,Abedallah Shelbayh,Javier Barranco Cosano,6-4 3-6 6-1,0.87,1.4%,1.4%,56.3%,45.0%,58.1%,2/7,46.1%,43.1%,0.9%,31.1%,68.6%,3/14,180,1,1,71,40,31,1,2:08
+8-Apr-2024,Madrid CH,3,Clay,Q1,265,393,1,7,,Javier Barranco Cosano,Gastao Elias,6-3 6-4,1.28,1.7%,3.3%,65.0%,69.2%,57.1%,2/4,55.1%,44.8%,1.7%,40.0%,50.0%,4/6,118,1,2,60,39,21,1,1:31
+1-Apr-2024,Barcelona CH,3,Clay,SF,281,301,0,,Alt,Nick Hardt,Javier Barranco Cosano,6-1 4-6 6-0,0.71,3.4%,11.9%,50.8%,56.7%,31.0%,3/10,41.7%,39.7%,0.0%,34.8%,48.1%,3/6,132,2,7,59,30,29,0,1:49
+1-Apr-2024,Barcelona CH,3,Clay,QF,281,392,1,,Q,Javier Barranco Cosano,Carlos Taberner,7-5 6-0,1.39,1.6%,1.6%,60.7%,70.3%,54.2%,5/6,56.9%,50.0%,0.0%,50.0%,50.0%,5/9,123,1,1,61,37,24,0,1:51
+1-Apr-2024,Barcelona CH,3,Clay,R16,281,225,1,,6,Javier Barranco Cosano,Ivan Gakhov,6-1 3-6 6-4,1.28,1.3%,7.5%,58.8%,61.7%,69.7%,3/5,53.1%,44.7%,0.9%,33.8%,59.2%,4/13,194,1,6,80,47,33,1,2:26
+1-Apr-2024,Barcelona CH,3,Clay,R32,281,330,1,,Alt,Javier Barranco Cosano,Mathys Erhard,6-4 7-5,1.16,2.7%,4.0%,56.0%,66.7%,51.5%,8/11,52.9%,46.3%,3.8%,45.2%,47.4%,5/14,155,2,3,75,42,33,3,2:04
+25-Mar-2024,Girona CH,3,Clay,QF,300,155,0,LL,,Radu Albot,Javier Barranco Cosano,7-6(5) 6-3,0.93,4.6%,3.1%,60.0%,51.3%,53.8%,2/7,48.1%,44.3%,0.0%,42.2%,48.0%,3/8,135,3,2,65,39,26,0,1:45
+25-Mar-2024,Girona CH,3,Clay,R16,300,176,1,LL,,Javier Barranco Cosano,Ivan Gakhov,6-4 7-5,1.26,0.0%,1.4%,68.6%,68.8%,63.6%,3/4,53.3%,41.3%,2.5%,36.4%,52.0%,3/9,150,0,1,70,48,22,2,1:54
+25-Mar-2024,Girona CH,3,Clay,R32,300,184,1,LL,Q,Javier Barranco Cosano,Denis Yevseyev,6-0 0-6 6-2,1.29,4.8%,1.6%,68.3%,67.4%,50.0%,5/8,55.3%,49.3%,4.3%,50.0%,46.2%,5/7,132,3,1,63,43,20,3,1:31
+25-Mar-2024,Girona CH,3,Clay,Q2,300,218,0,7,3,Dennis Novak,Javier Barranco Cosano,4-6 6-1 6-4,0.78,1.1%,6.5%,68.8%,62.5%,44.8%,11/15,45.6%,33.7%,4.5%,27.5%,55.0%,2/15,182,1,6,93,64,29,4,1:57
+25-Mar-2024,Girona CH,3,Clay,Q1,300,352,1,7,Alt,Javier Barranco Cosano,Gabriel Debru,7-6(5) 7-5,1.09,1.0%,1.9%,64.4%,58.2%,62.2%,12/15,52.0%,43.9%,3.1%,40.0%,51.5%,4/11,202,1,2,104,67,37,3,2:49
+18-Mar-2024,Murcia CH,3,Clay,R32,300,180,0,WC,,Marco Trungelliti,Javier Barranco Cosano,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,Tenerife 2 CH,3,Hard,Q2,302,279,0,8,3,Giovanni Fonio,Javier Barranco Cosano,6-4 3-6 6-4,0.86,1.1%,4.3%,62.8%,62.7%,65.7%,6/9,48.9%,31.3%,3.8%,26.7%,45.0%,2/8,174,1,4,94,59,35,3,2:07
+19-Feb-2024,Tenerife 2 CH,3,Hard,Q1,302,336,1,8,,Javier Barranco Cosano,Guy Den Ouden,4-6 6-3 6-4,1.06,3.2%,5.3%,69.1%,70.8%,37.9%,7/11,52.0%,41.8%,2.5%,41.4%,42.9%,5/6,173,3,5,94,65,29,2,2:22
+5-Feb-2024,M25 Antalya,3,Clay,QF,330,506,0,3,,Daniel Merida Aguilar,Javier Barranco Cosano,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Antalya,3,Clay,R16,330,764,1,3,,Javier Barranco Cosano,Calin Manda,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Antalya,3,Clay,R32,330,546,1,3,,Javier Barranco Cosano,Stefan Popovic,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Antalya,3,Clay,F,331,1167,1,3,,Javier Barranco Cosano,Bautista Vilicich,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Antalya,3,Clay,SF,331,506,1,3,5,Javier Barranco Cosano,Daniel Merida Aguilar,2-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Antalya,3,Clay,QF,331,676,1,3,8,Javier Barranco Cosano,Jorge Martinez Martinez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Antalya,3,Clay,R16,331,,1,3,Q,Javier Barranco Cosano,Razvan Baiant,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Antalya,3,Clay,R32,331,,1,3,WC,Javier Barranco Cosano,Filip Avdeev,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,Tenerife CH,3,Hard,SF,379,109,0,Q,2,Pedro Martinez,Javier Barranco Cosano,6-1 6-1,0.60,2.1%,2.1%,66.0%,45.2%,12.5%,6/12,37.1%,39.7%,0.0%,37.2%,46.7%,1/10,105,1,1,47,31,16,0,1:33
+15-Jan-2024,Tenerife CH,3,Hard,QF,379,262,1,Q,,Javier Barranco Cosano,Mikhail Kukushkin,6-1 6-1,4.80,12.5%,0.0%,65.6%,85.7%,90.9%,0/0,72.2%,60.0%,0.0%,61.5%,57.1%,5/6,72,4,0,32,21,11,0,1:01
+15-Jan-2024,Tenerife CH,3,Hard,R16,379,150,1,Q,5,Javier Barranco Cosano,Felipe Meligeni Alves,6-3 6-7(5) 6-3,1.02,7.7%,1.0%,65.4%,72.1%,63.9%,4/5,52.4%,31.3%,6.0%,29.3%,36.0%,3/5,187,8,1,104,68,36,5,2:19
+15-Jan-2024,Tenerife CH,3,Hard,R32,379,259,1,Q,,Javier Barranco Cosano,Raul Brancaccio,7-6(4) 3-1 RET,1.08,0.0%,1.6%,72.1%,59.1%,58.8%,3/5,51.6%,44.4%,1.6%,33.3%,59.3%,3/7,124,0,1,61,44,17,1,1:37
+15-Jan-2024,Tenerife CH,3,Hard,Q2,379,332,1,,10,Javier Barranco Cosano,David Jorda Sanchis,6-3 7-6(3),1.11,1.2%,3.7%,63.0%,60.8%,53.3%,5/8,52.6%,46.7%,5.3%,38.0%,64.0%,5/9,156,1,3,81,51,30,4,2:03
+15-Jan-2024,Tenerife CH,3,Hard,Q1,379,282,1,,3,Javier Barranco Cosano,Enrico Dalla Valle,4-5 RET,1.06,7.4%,7.4%,70.4%,52.6%,37.5%,3/6,51.7%,54.8%,0.0%,52.4%,60.0%,3/5,58,2,2,27,19,8,0,0:48
+8-Jan-2024,Oeiras 2 CH,3,Hard,Q1,378,301,0,,2,Michael Vrbensky,Javier Barranco Cosano,7-6(3) 2-6 6-1,0.84,3.2%,1.1%,60.6%,61.4%,56.8%,3/7,47.5%,34.1%,7.1%,22.9%,48.6%,3/10,179,3,1,94,57,37,6,2:19
+27-Nov-2023,Maspalomas CH,3,Clay,R32,381,501,0,Q,Q,Imanol Lopez Morillo,Javier Barranco Cosano,7-5 6-4,0.91,0.0%,2.4%,52.4%,67.4%,30.8%,7/13,47.8%,45.6%,6.3%,38.3%,56.3%,4/8,161,0,2,82,43,39,5,2:11
+27-Nov-2023,Maspalomas CH,3,Clay,Q2,381,652,1,1,10,Javier Barranco Cosano,Jorge Martinez Martinez,6-4 6-3,1.35,1.6%,3.1%,62.5%,80.0%,41.7%,3/4,56.7%,46.4%,1.8%,33.3%,65.2%,3/5,120,1,2,64,40,24,1,1:23
+27-Nov-2023,Maspalomas CH,3,Clay,Q1,381,1030,1,1,Alt,Javier Barranco Cosano,Ivan Marrero Curbelo,6-0 0-0 RET,3.10,6.7%,0.0%,53.3%,87.5%,71.4%,0/0,68.2%,62.1%,0.0%,56.5%,83.3%,3/5,44,1,0,15,8,7,0,0:32
+20-Nov-2023,Valencia CH,3,Clay,Q1,349,226,0,,1,Denis Yevseyev,Javier Barranco Cosano,6-3 7-6(5),0.97,4.1%,5.5%,58.9%,65.1%,53.3%,5/8,49.0%,38.5%,0.0%,32.1%,52.0%,2/3,151,3,4,73,43,30,0,1:58
+6-Nov-2023,M25 Benicarlo,3,Clay,F,368,486,0,4,,Miguel Damas,Javier Barranco Cosano,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,SF,368,237,1,4,1,Javier Barranco Cosano,Alejandro Moro Canas,6-4 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,QF,368,407,1,4,,Javier Barranco Cosano,Miljan Zekic,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R16,368,551,1,4,,Javier Barranco Cosano,Edas Butvilas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R32,368,1601,1,4,Q,Javier Barranco Cosano,Anthony Genov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Hamburg CH,3,Hard,QF,396,176,0,Q,1,Dennis Novak,Javier Barranco Cosano,6-2 6-2,0.65,1.9%,1.9%,69.2%,50.0%,31.3%,5/10,40.2%,36.4%,1.8%,29.7%,50.0%,1/8,107,1,1,52,36,16,1,1:05
+16-Oct-2023,Hamburg CH,3,Hard,R16,396,328,1,Q,,Javier Barranco Cosano,Gabriel Debru,6-3 2-6 6-4,1.03,1.0%,0.0%,64.1%,59.1%,48.6%,9/13,51.0%,46.1%,10.1%,36.0%,59.0%,5/12,192,1,0,103,66,37,9,2:24
+16-Oct-2023,Hamburg CH,3,Hard,R32,396,264,1,Q,,Javier Barranco Cosano,Dan Added,6-2 5-7 6-4,1.31,3.6%,2.4%,75.9%,69.8%,70.0%,2/4,52.9%,39.4%,6.7%,29.2%,56.4%,4/15,187,3,2,83,63,20,7,2:03
+16-Oct-2023,Hamburg CH,3,Hard,Q2,396,326,1,8,1,Javier Barranco Cosano,David Jorda Sanchis,6-1 6-2,1.99,0.0%,0.0%,75.6%,79.4%,54.5%,0/0,62.5%,52.9%,3.9%,51.9%,54.2%,4/11,96,0,0,45,34,11,2,1:04
+16-Oct-2023,Hamburg CH,3,Hard,Q1,396,441,1,8,,Javier Barranco Cosano,Gabi Adrian Boitan,6-4 7-6(5),1.02,4.3%,2.1%,64.9%,62.3%,51.5%,12/14,51.5%,42.5%,4.1%,34.1%,55.2%,3/9,167,4,2,94,61,33,3,2:02
+9-Oct-2023,Malaga CH,3,Hard,Q1,372,308,0,,10,Kyrian Jacquet,Javier Barranco Cosano,6-1 3-6 6-1,0.87,1.5%,0.0%,65.2%,53.5%,34.8%,4/11,46.4%,45.9%,5.9%,42.9%,50.0%,4/8,151,1,0,66,43,23,5,1:46
+2-Oct-2023,Lisbon CH,3,Clay,R32,372,207,0,Q,SE,Oriol Roca Batalla,Javier Barranco Cosano,6-3 6-4,0.86,1.6%,6.6%,65.6%,65.0%,42.9%,5/8,45.9%,36.5%,1.4%,20.5%,60.0%,1/13,135,1,4,61,40,21,1,1:42
+2-Oct-2023,Lisbon CH,3,Clay,Q2,372,414,1,12,,Javier Barranco Cosano,Jaime Faria,4-6 7-6(3) 6-2,1.17,4.1%,0.0%,69.1%,79.1%,53.3%,3/4,52.6%,33.7%,3.2%,32.1%,35.7%,2/7,192,4,0,97,67,30,3,2:27
+2-Oct-2023,Lisbon CH,3,Clay,Q1,372,851,1,12,Alt,Javier Barranco Cosano,Tiago Pereira,6-1 6-2,1.95,5.1%,0.0%,59.0%,73.9%,62.5%,3/4,63.8%,60.0%,1.8%,50.0%,73.9%,6/10,94,2,0,39,23,16,1,1:07
+25-Sep-2023,Braga CH,3,Clay,R16,385,239,0,Q,,Geoffrey Blancaneaux,Javier Barranco Cosano,7-6(4) 6-2,0.75,0.0%,1.4%,62.9%,59.1%,53.8%,2/5,44.4%,31.9%,4.2%,30.2%,34.5%,1/4,142,0,1,70,44,26,3,2:11
+25-Sep-2023,Braga CH,3,Clay,R32,385,205,1,Q,,Javier Barranco Cosano,Stefano Travaglia,6-1 6-4,1.44,2.0%,0.0%,68.6%,65.7%,62.5%,3/4,56.8%,50.7%,3.0%,40.0%,66.7%,5/9,118,1,0,51,35,16,2,1:29
+25-Sep-2023,Braga CH,3,Clay,Q2,385,244,1,,2,Javier Barranco Cosano,Oleksii Krutykh,7-5 3-6 6-3,1.06,4.3%,2.2%,74.2%,65.2%,54.2%,7/10,50.8%,39.8%,4.1%,25.0%,54.0%,4/9,191,4,2,93,69,24,4,2:28
+25-Sep-2023,Braga CH,3,Clay,Q1,385,296,1,,8,Javier Barranco Cosano,Alexander Weis,6-4 6-2,1.27,1.3%,4.0%,50.7%,63.2%,54.1%,9/11,55.7%,52.3%,3.1%,45.5%,59.4%,5/11,140,1,3,75,38,37,2,1:44
 4-Sep-2023,Seville CH,3,Clay,R32,305,94,0,,4,Facundo Diaz Acosta,Javier Barranco Cosano,6-1 7-6(5),0.80,0.0%,1.6%,59.0%,50.0%,36.0%,2/7,44.4%,44.6%,4.6%,40.5%,50.0%,3/7,126,0,1,61,36,25,3,1:49
 21-Aug-2023,Prague CH,3,Clay,R32,305,776,0,,WC,Jonas Forejtek,Javier Barranco Cosano,6-4 3-6 6-4,1.15,2.4%,3.6%,61.4%,78.4%,56.3%,2/4,51.1%,34.7%,12.6%,20.7%,56.8%,1/7,178,2,3,83,51,32,12,2:07
 14-Aug-2023,Todi CH,3,Clay,R32,304,213,0,,4,Duje Ajdukovic,Javier Barranco Cosano,6-3 6-4,0.85,1.6%,4.8%,58.1%,61.1%,53.8%,5/8,46.2%,35.7%,7.1%,20.6%,50.0%,1/5,132,1,3,62,36,26,5,1:35
@@ -7,6 +61,11 @@
 7-Aug-2023,Banja Luka CH,3,Clay,R32,334,637,1,,WC,Javier Barranco Cosano,Andrej Nedic,5-7 7-6(4) 6-3,1.12,2.9%,3.8%,59.6%,64.5%,47.6%,5/11,52.2%,47.5%,6.7%,39.4%,57.4%,7/13,224,3,4,104,62,42,8,3:08
 24-Jul-2023,M25 Denia,3,Clay,R32,302,1239,0,1,WC,Carlos Gimeno Valero,Javier Barranco Cosano,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M25+H Kassel,3,Clay,R32,340,596,0,3,,Aleksandre Metreveli,Javier Barranco Cosano,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,F,340,534,1,1,7,Javier Barranco Cosano,Inaki Montes De La Torre,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,SF,340,753,1,1,,Javier Barranco Cosano,Alex Martinez,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,QF,340,431,1,1,5,Javier Barranco Cosano,Andrey Chepelev,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R16,340,749,1,1,,Javier Barranco Cosano,Pedro Rodenas,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R32,340,771,1,1,,Javier Barranco Cosano,Diego Augusto Barreto Sanchez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,Poznan CH,3,Clay,Q2,336,380,0,5,7,Manuel Guinard,Javier Barranco Cosano,6-3 7-5,0.66,7.1%,1.4%,55.7%,69.2%,32.3%,2/6,43.0%,31.0%,6.9%,21.6%,47.6%,2/3,128,5,1,70,39,31,4,1:33
 19-Jun-2023,Poznan CH,3,Clay,Q1,336,473,1,5,,Javier Barranco Cosano,Joao Domingues,6-4 6-1,1.68,2.1%,2.1%,59.6%,82.1%,57.9%,2/2,58.3%,46.4%,0.0%,35.5%,60.0%,4/8,103,1,1,47,28,19,0,1:28
 5-Jun-2023,M25 Cordoba,3,Clay,F,372,509,1,7,,Javier Barranco Cosano,Daniel Merida Aguilar,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -114,7 +173,7 @@
 26-Jul-2021,M25 Denia,3,Clay,R32,343,635,1,1,WC,Javier Barranco Cosano,Pablo Llamas Ruiz,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
 19-Jul-2021,M25 Gandia,3,Clay,F,337,391,1,1,3,Javier Barranco Cosano,Antoine Escoffier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2021,M25 Gandia,3,Clay,SF,337,401,1,1,4,Javier Barranco Cosano,Alvaro Lopez San Martin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-19-Jul-2021,M25 Gandia,3,Clay,QF,337,1835,1,1,WC,Javier Barranco Cosano,Daniel Merida Aguilar ,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jul-2021,M25 Gandia,3,Clay,QF,337,1835,1,1,WC,Javier Barranco Cosano,Daniel Merida Aguilar,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2021,M25 Gandia,3,Clay,R16,337,730,1,1,,Javier Barranco Cosano,Pawel Cias,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2021,M25 Gandia,3,Clay,R32,337,,1,1,WC,Javier Barranco Cosano,Higinio Sanchis Melero,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
 28-Jun-2021,M25 The Hague,3,Clay,F,335,341,1,5,6,Javier Barranco Cosano,Jelle Sels,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,31 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Apr-2024,Madrid CH,3,Clay,Q2,558,396,0,Alt,,Ignacio Buse,Sergi Perez Contri,6-3 6-2,0.70,0.0%,4.2%,66.7%,46.9%,37.5%,1/6,41.3%,39.3%,1.6%,28.6%,53.8%,2/8,109,0,2,48,32,16,1,1:22
+8-Apr-2024,Madrid CH,3,Clay,Q1,558,356,1,Alt,11,Sergi Perez Contri,Marius Copil,6-3 6-4,1.06,2.9%,1.4%,74.3%,69.2%,50.0%,6/6,52.8%,37.7%,7.5%,26.7%,52.2%,3/4,123,2,1,70,52,18,4,1:31
+1-Apr-2024,Barcelona CH,3,Clay,Q2,565,352,0,Alt,2,Gabriel Debru,Sergi Perez Contri,7-6(5) 6-3,0.87,0.0%,10.7%,66.7%,57.1%,28.6%,7/13,46.6%,45.6%,2.5%,37.3%,70.0%,4/8,163,0,9,84,56,28,2,1:57
+1-Apr-2024,Barcelona CH,3,Clay,Q1,565,384,1,Alt,8,Sergi Perez Contri,Alberto Barroso Campos,2-6 7-6(2) 6-3,1.14,0.0%,6.5%,60.2%,64.3%,56.8%,5/10,52.3%,44.2%,0.0%,33.9%,57.8%,4/16,197,0,6,93,56,37,0,2:42
+25-Mar-2024,Naples CH,3,Clay,Q1,527,289,0,,9,Guido Andreozzi,Sergi Perez Contri,6-7(1) 6-1 7-5,0.91,1.9%,8.4%,62.6%,61.2%,35.0%,16/24,47.6%,44.4%,4.8%,33.9%,54.7%,5/15,233,2,9,107,67,40,6,3:00
+18-Mar-2024,Zadar CH,3,Clay,Q2,527,401,0,10,3,Oleksii Krutykh,Sergi Perez Contri,6-4 2-6 7-6(4),0.96,1.4%,4.1%,71.6%,60.4%,40.5%,12/16,50.4%,43.5%,7.6%,35.0%,59.4%,5/7,240,2,6,148,106,42,7,3:01
+18-Mar-2024,Zadar CH,3,Clay,Q1,527,694,1,10,Alt,Sergi Perez Contri,Mirza Basic,3-6 6-1 6-1,1.81,3.4%,3.4%,69.0%,75.0%,66.7%,2/4,60.5%,50.0%,1.5%,48.5%,51.5%,6/6,124,2,2,58,40,18,1,1:29
+11-Mar-2024,M15 Rovinj,3,Clay,R32,523,610,0,6,,Federico Arnaboldi,Sergi Perez Contri,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Villena,3,Hard,R32,518,699,0,7,SE,Alejo Sanchez Quilez,Sergi Perez Contri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,Tenerife 2 CH,3,Hard,Q1,521,299,0,WC,4,Daniel Michalski,Sergi Perez Contri,7-5 6-0,0.69,0.0%,12.3%,59.6%,55.9%,17.4%,4/10,40.7%,41.0%,1.6%,39.5%,43.5%,2/5,118,0,7,57,34,23,1,1:39
+5-Feb-2024,M25 Hammamet,3,Clay,R16,516,501,0,8,,Corentin Denolly,Sergi Perez Contri,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Hammamet,3,Clay,R32,516,548,1,8,,Sergi Perez Contri,Matyas Fuele,6-7(5) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,R16,516,951,0,3,,Oleksandr Ovcharenko,Sergi Perez Contri,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,R32,516,,1,3,Q,Sergi Perez Contri,Sami Ben Abdennibi,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,QF,520,447,0,7,3,Pol Martin Tiffon,Sergi Perez Contri,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,R16,520,712,1,7,,Sergi Perez Contri,Alejandro Manzanera Pertusa,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,R32,520,,1,7,WC,Sergi Perez Contri,Miguel Avendano Cadena,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Maspalomas CH,3,Clay,Q1,517,1217,0,9,,Mircea Alexandru Jecan,Sergi Perez Contri,6-3 7-6(3),0.99,0.0%,6.9%,83.3%,61.7%,41.7%,7/10,48.3%,41.3%,1.0%,39.5%,46.4%,2/11,176,0,5,72,60,12,1,2:12
+20-Nov-2023,M15 Alcala de Henares,3,,R32,513,931,0,1,,Jesse Flores,Sergi Perez Contri,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R32,510,712,0,8,WC,Alejandro Manzanera Pertusa,Sergi Perez Contri,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R32,515,390,0,,7,Carlos Lopez Montagud,Sergi Perez Contri,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,QF,519,399,0,6,2,Carlos Lopez Montagud,Sergi Perez Contri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R16,519,860,1,6,Q,Sergi Perez Contri,Oscar Jose Gutierrez,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R32,519,,1,6,WC,Sergi Perez Contri,Marcos Castro Fabra,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,QF,490,368,0,5,1,Aidan Mchugh,Sergi Perez Contri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,R16,490,897,1,5,,Sergi Perez Contri,Franco Emanuel Egea,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,R32,490,,1,5,Q,Sergi Perez Contri,Asier Civera Martinez,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,QF,495,507,0,4,7,Vilius Gaubas,Sergi Perez Contri,6-2 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,R16,495,683,1,4,,Sergi Perez Contri,Oscar Jose Gutierrez,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,R32,495,1764,1,4,Q,Sergi Perez Contri,Noah Regas Luis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -11,6 +38,7 @@
 17-Jul-2023,M25 Gandia,3,Clay,QF,576,456,1,,3,Sergi Perez Contri,Carlos Lopez Montagud,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Gandia,3,Clay,R16,576,675,1,,,Sergi Perez Contri,Garrett Johns,7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Gandia,3,Clay,R32,576,479,1,,7,Sergi Perez Contri,Yshai Oliel,6-4 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R32,576,1340,0,,WC,Gerard Planelles Ripoll,Sergi Perez Contri,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Bakio,3,Hard,R16,567,890,0,,SE,Pedro Vives Marcos,Sergi Perez Contri,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Bakio,3,Hard,R32,567,329,1,,4,Sergi Perez Contri,Antoine Hoang,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M25 Mungia,3,Clay,R16,567,513,0,,6,Stefanos Sakellaridis,Sergi Perez Contri,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,

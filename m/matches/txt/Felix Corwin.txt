@@ -1,6 +1,48 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,1106,624,0,Alt,11,Gilbert Soares Klier Junior,Felix Corwin,6-3 6-3,0.76,5.5%,9.1%,49.1%,59.3%,35.7%,1/6,43.6%,40.0%,5.5%,38.2%,42.9%,2/4,110,3,5,55,27,28,3,1:15
+22-Apr-2024,Concepcion CH,3,Clay,Q1,677,1057,0,10,Alt,Seita Watanabe,Felix Corwin,3-6 6-2 6-4,0.95,3.8%,4.7%,61.3%,58.5%,29.3%,12/20,48.5%,50.0%,0.0%,50.0%,50.0%,7/10,194,4,5,106,65,41,0,2:21
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,714,384,0,Q,5,Hernan Casanova,Felix Corwin,6-3 6-7(8) 6-1,0.73,3.3%,6.6%,50.5%,60.9%,48.9%,5/10,43.5%,33.0%,1.0%,30.5%,44.4%,2/8,191,3,6,91,46,45,1,2:31
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,714,703,1,Q,Alt,Felix Corwin,Jacob Brumm,6-1 6-3,1.42,6.8%,6.8%,52.5%,77.4%,53.6%,3/3,57.4%,48.2%,5.4%,43.2%,57.9%,4/9,115,4,4,59,31,28,3,1:35
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,Q2,714,1050,1,2,,Felix Corwin,Ezequiel Simonit,6-7(3) 7-6(6) 6-1,1.21,6.1%,4.3%,51.3%,84.7%,44.6%,4/6,53.7%,42.2%,1.7%,41.1%,44.2%,4/12,231,7,5,115,59,56,2,3:06
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,Q1,714,1184,1,2,,Felix Corwin,Ivan Denisov,7-5 4-6 6-2,1.30,2.5%,7.4%,58.0%,78.7%,35.3%,3/8,55.2%,51.3%,0.9%,43.8%,61.2%,7/22,194,2,6,81,47,34,1,2:47
+8-Apr-2024,Sarasota CH,3,Clay,R32,741,172,0,Q,,Marc Polmans,Felix Corwin,6-3 6-7(3) 6-4,0.83,6.6%,7.7%,62.6%,70.2%,47.1%,2/7,46.5%,31.9%,7.4%,26.2%,42.4%,3/5,185,6,7,91,57,34,7,2:19
+8-Apr-2024,Sarasota CH,3,Clay,Q2,741,421,1,WC,6,Felix Corwin,Corentin Denolly,6-3 3-6 6-1,1.30,1.2%,4.7%,62.8%,72.2%,53.1%,9/11,55.9%,45.3%,2.7%,41.3%,51.7%,4/7,161,1,4,86,54,32,2,1:51
+8-Apr-2024,Sarasota CH,3,Clay,Q1,741,486,1,WC,11,Felix Corwin,Garrett Johns,6-3 4-6 7-6(5),0.99,4.6%,4.6%,55.4%,72.2%,46.6%,9/12,51.3%,38.8%,2.0%,31.4%,46.8%,3/13,228,6,6,130,72,58,2,3:05
+11-Mar-2024,M15 Antalya,3,Clay,R16,751,1060,0,7,,Joel Schwaerzler,Felix Corwin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Antalya,3,Clay,R32,751,896,1,7,,Felix Corwin,Oscar Jose Gutierrez,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Antalya,3,Clay,R16,751,1660,0,8,Q,Anthony Genov,Felix Corwin,6-7(5) 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Antalya,3,Clay,R32,751,1670,1,8,Q,Felix Corwin,Filip Duda,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,QF,779,,0,,,Tristan Mccormick,Felix Corwin,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R16,779,777,1,,WC,Felix Corwin,William Grant,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R32,779,1011,1,,Q,Felix Corwin,Ivan Marrero Curbelo,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R16,781,338,0,,2,Dmitry Popko,Felix Corwin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R32,781,,1,,WC,Felix Corwin,Dian Nedev,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Cleveland CH,3,Hard,Q2,812,439,0,,2,Gabi Adrian Boitan,Felix Corwin,6-3 6-4,0.71,3.3%,8.2%,49.2%,63.3%,48.4%,3/6,43.0%,31.3%,6.0%,25.0%,43.5%,1/6,128,2,5,61,30,31,4,1:28
+29-Jan-2024,Cleveland CH,3,Hard,Q1,812,,1,,9,Felix Corwin,Tristan Mccormick,5-1 RET,4.20,21.4%,0.0%,71.4%,90.0%,75.0%,0/0,72.4%,60.0%,13.3%,33.3%,77.8%,2/2,29,3,0,14,10,4,2,0:19
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R16,813,321,0,,1,Toby Alex Kodat,Felix Corwin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,813,1022,1,,Q,Felix Corwin,Patrick Maloney,2-6 6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,,R32,844,,0,4,Q,Bjorn Swenson,Felix Corwin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,SF,844,577,0,,2,Bruno Kuzuhara,Felix Corwin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,QF,844,729,1,,4,Felix Corwin,Jacob Brumm,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,R16,844,1266,1,,,Felix Corwin,Evan Bynoe,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,R32,844,1270,1,,,Felix Corwin,Ricardo Rodriguez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Tallahassee FL,3,Hard,F,1077,766,0,8,1,Jeremy Jin,Felix Corwin,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Tallahassee FL,3,Hard,SF,1077,1392,1,8,,Felix Corwin,James Connel,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Tallahassee FL,3,Hard,QF,1077,1136,1,8,,Felix Corwin,Karl Poling,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Tallahassee FL,3,Hard,R16,1077,1780,1,8,WC,Felix Corwin,Will Mayew,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Tallahassee FL,3,Hard,R32,1077,1239,1,8,,Felix Corwin,Matthew Segura,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Morelia,3,Hard,SF,1084,720,0,6,2,Johan Alexander Rodriguez Rodriguez,Felix Corwin,6-2 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Morelia,3,Hard,QF,1084,941,1,6,3,Felix Corwin,Osgar Ohoisin,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Morelia,3,Hard,R16,1084,,1,6,,Felix Corwin,Drew Van Orderlain,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Morelia,3,Hard,R32,1084,,1,6,WC,Felix Corwin,Gerardo Lopez Villasenor,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,R16,1119,1039,0,,,Toby D Boyer,Felix Corwin,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,R32,1119,1702,1,,WC,Felix Corwin,Adhithya Ganesan,6-0 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M15 Albuquerque NM,3,Hard,R32,1114,915,0,Q,Q,William Grant,Felix Corwin,6-4 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,1106,624,0,Alt,11,Gilbert Soares Klier Junior,Felix Corwin,6-3 6-3,0.76,5.5%,9.1%,49.1%,59.3%,35.7%,1/6,43.6%,40.0%,5.5%,38.2%,42.9%,2/4,110,3,5,55,27,28,3,1:15
 28-Aug-2023,M15 Vienna,3,Clay,R32,1310,577,0,Q,4,Buvaysar Gadamauri,Felix Corwin,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Huy,3,Clay,SF,1313,1265,0,Q,Q,Thiemo De Bakker,Felix Corwin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Huy,3,Clay,QF,1313,568,1,Q,4,Felix Corwin,Simon Beaupain,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Huy,3,Clay,R16,1313,771,1,Q,6,Felix Corwin,Marcel Zielinski,1-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Huy,3,Clay,R32,1313,979,1,Q,,Felix Corwin,Cayetano March,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Pittsburgh,3,Clay,SF,,909,0,WC,,Juan Carlos Aguilar,Felix Corwin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Pittsburgh,3,Clay,QF,,629,1,WC,4,Felix Corwin,Bruno Kuzuhara,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Pittsburgh,3,Clay,R16,,804,1,WC,7,Felix Corwin,Kosuke Ogura,2-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -30,7 +72,7 @@
 21-Mar-2022,M25 Medellin,3,Clay,R32,586,1975,1,,WC,Felix Corwin,Enrique Pena,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M25 Anapoima,3,Clay,R16,581,664,0,,,Evan Zhu,Felix Corwin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Mar-2022,M25 Anapoima,3,Clay,R32,581,893,1,,WC,Felix Corwin,Alejandro Hoyos Franco,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
-21-Feb-2022,M15 Naples FL,3,Clay,F,597,,0,,,Juncheng Shang,Felix Corwin,7-6(4) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+21-Feb-2022,M15 Naples FL,3,Clay,F,597,641,0,,,Juncheng Shang,Felix Corwin,7-6(4) 7-6(1),,,,,,,,,,,,,,,,,,,,,
 21-Feb-2022,M15 Naples FL,3,Clay,SF,597,544,1,,,Felix Corwin,Pedro Boscardin Dias,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2022,M15 Naples FL,3,Clay,QF,597,1259,1,,WC,Felix Corwin,Fletcher Scott,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2022,M15 Naples FL,3,Clay,R16,597,654,1,,,Felix Corwin,Alexander Cozbinov,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,

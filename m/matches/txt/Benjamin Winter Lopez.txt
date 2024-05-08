@@ -1,5 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Seville CH,3,Clay,Q1,789,665,0,,11,Max Alcala Gurri,Benjamin Winter Lopez,6-2 3-6 6-1,0.88,3.5%,2.4%,56.5%,50.0%,43.2%,7/15,46.8%,46.5%,1.2%,49.2%,40.0%,5/12,171,3,2,85,48,37,1,2:24
+15-Apr-2024,M15 Telde,3,Clay,R16,921,752,0,,,Diego Fernandez Flores,Benjamin Winter Lopez,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Telde,3,Clay,R32,921,1107,1,,WC,Benjamin Winter Lopez,Sergio Callejon Hernando,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M15 Telde,3,Clay,R16,920,659,0,,5,Peter Fajta,Benjamin Winter Lopez,4-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M15 Telde,3,Clay,R32,920,918,1,,,Benjamin Winter Lopez,Francisco Rocha,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Les Franqueses del Valles,3,Hard,R32,911,890,0,,,Nikolay Nedelchev,Benjamin Winter Lopez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,R32,821,580,0,,5,Duarte Vale,Benjamin Winter Lopez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,817,527,0,,,Kyle Edmund,Benjamin Winter Lopez,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Zaragoza,3,Clay,R32,783,1689,0,,Q,Richard Zusman,Benjamin Winter Lopez,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,R32,786,500,0,,8,Ryan Nijboer,Benjamin Winter Lopez,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Melilla,3,Clay,QF,784,730,0,7,3,Maxime Mora,Benjamin Winter Lopez,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Melilla,3,Clay,R16,784,1451,1,7,,Benjamin Winter Lopez,Gabriel Elicha Navas,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Melilla,3,Clay,R32,784,1586,1,7,,Benjamin Winter Lopez,Alvaro Peiro Serrano,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Seville CH,3,Clay,Q1,789,665,0,,11,Max Alcala Gurri,Benjamin Winter Lopez,6-2 3-6 6-1,0.88,3.5%,2.4%,56.5%,50.0%,43.2%,7/15,46.8%,46.5%,1.2%,49.2%,40.0%,5/12,171,3,2,85,48,37,1,2:24
+28-Aug-2023,M25 Oviedo,3,Clay,R32,789,,0,,WC,Alejo Sanchez Quilez,Benjamin Winter Lopez,7-6(1) RET,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,SF,790,693,0,,,Svyatoslav Gulin,Benjamin Winter Lopez,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,QF,790,329,1,,2,Benjamin Winter Lopez,Carlos Sanchez Jover,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,R16,790,664,1,,9,Benjamin Winter Lopez,Max Alcala Gurri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

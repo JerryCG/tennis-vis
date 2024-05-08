@@ -1,8 +1,56 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+5-May-2024,Santos CH,3,Clay,R32,529,223,0,Alt,1,Dmitry Popko,Guido Ivan Justo,6-0 7-5,0.72,0.0%,5.7%,64.2%,50.0%,26.3%,2/8,41.7%,41.9%,11.3%,18.5%,60.0%,2/10,115,0,3,53,34,19,7,1:26
+29-Apr-2024,Porto Alegre CH,3,Clay,QF,584,464,0,Q,LL,Daniel Dutra Da Silva,Guido Ivan Justo,2-6 6-3 6-2,1.02,2.4%,2.4%,60.7%,72.5%,42.4%,5/8,50.0%,40.0%,2.2%,30.0%,52.5%,2/14,174,2,2,84,51,33,2,2:17
+29-Apr-2024,Porto Alegre CH,3,Clay,R16,584,397,1,Q,,Guido Ivan Justo,Roberto Cid,6-2 6-4,1.80,0.0%,2.1%,60.4%,75.9%,63.2%,5/7,61.0%,52.6%,0.0%,52.6%,52.6%,5/6,105,0,1,48,29,19,0,1:33
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,584,305,1,Q,,Guido Ivan Justo,Pedro Sakamoto,6-2 2-6 6-3,1.16,3.7%,1.2%,52.4%,67.4%,53.8%,10/12,53.0%,45.3%,2.3%,41.9%,48.8%,4/11,168,3,1,82,43,39,2,2:20
+29-Apr-2024,Porto Alegre CH,3,Clay,Q2,584,614,1,5,7,Guido Ivan Justo,Emilio Gomez,6-4 6-3,1.48,5.5%,0.0%,61.8%,61.8%,47.6%,5/9,60.5%,64.4%,0.0%,63.9%,65.2%,7/8,114,3,0,55,34,21,0,1:29
+29-Apr-2024,Porto Alegre CH,3,Clay,Q1,584,895,1,5,,Guido Ivan Justo,Ignacio Carou,6-4 6-1,1.44,0.0%,4.0%,68.0%,73.5%,43.8%,1/2,56.3%,51.8%,0.0%,44.7%,60.5%,5/17,135,0,2,50,34,16,0,1:35
+22-Apr-2024,Concepcion CH,3,Clay,R32,584,246,0,Alt,2,Juan Pablo Ficovich,Guido Ivan Justo,6-0 6-7(5) 6-3,0.79,1.5%,4.5%,62.1%,43.9%,54.0%,12/20,45.2%,41.2%,1.2%,37.0%,46.2%,3/7,217,2,6,132,82,50,1,2:48
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,551,431,0,,7,Valerio Aboian,Guido Ivan Justo,6-4 7-5,0.88,4.8%,4.8%,73.0%,65.2%,41.2%,2/6,47.3%,36.4%,4.5%,29.5%,50.0%,2/3,129,3,3,63,46,17,3,1:43
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,551,,1,,WC,Guido Ivan Justo,Maximo Zeitune,4-6 6-3 6-0,1.21,3.6%,1.2%,70.2%,67.8%,40.0%,2/5,53.9%,48.9%,1.1%,40.0%,64.7%,6/19,178,3,1,84,59,25,1,2:13
+1-Apr-2024,Florianopolis CH,3,Clay,Q2,560,453,0,9,2,Daniel Cukierman,Guido Ivan Justo,6-4 2-0 RET,0.51,0.0%,4.4%,68.9%,61.3%,28.6%,4/7,39.5%,25.0%,11.1%,13.6%,42.9%,1/4,81,0,2,45,31,14,4,1:05
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q2,567,477,0,11,6,Bruno Kuzuhara,Guido Ivan Justo,7-6(5) 2-6 6-3,1.00,7.3%,4.5%,60.0%,66.7%,52.3%,10/13,50.5%,39.0%,1.0%,37.7%,43.5%,3/8,210,8,5,110,66,44,1,2:42
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q1,567,,1,11,WC,Guido Ivan Justo,Gustavo Giudici,6-0 6-2,2.06,2.6%,10.5%,71.1%,74.1%,45.5%,4/6,68.3%,70.5%,0.0%,62.5%,80.0%,7/10,82,1,4,38,27,11,0,1:03
+11-Mar-2024,Santiago CH,3,Clay,Q2,591,645,0,12,,Mariano Kestelboim,Guido Ivan Justo,6-2 4-6 6-1,0.83,1.3%,2.5%,62.0%,57.1%,33.3%,4/12,45.6%,42.9%,1.4%,42.0%,45.0%,4/10,149,1,2,79,49,30,1,2:24
+11-Mar-2024,Santiago CH,3,Clay,Q1,591,1292,1,12,WC,Guido Ivan Justo,Nicolas Bruna,6-0 6-1,3.09,3.3%,3.3%,66.7%,85.0%,70.0%,0/0,68.8%,61.7%,0.0%,66.7%,55.0%,6/9,77,1,1,30,20,10,0,1:04
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,R32,591,160,0,Q,6,Juan Manuel Cerundolo,Guido Ivan Justo,6-3 6-2,0.53,1.6%,4.7%,62.5%,42.5%,41.7%,4/10,37.9%,30.8%,5.1%,22.2%,50.0%,2/3,103,1,3,64,40,24,2,1:17
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q2,591,454,1,10,,Guido Ivan Justo,Ignacio Buse,6-1 6-3,1.57,0.0%,4.3%,63.8%,66.7%,64.7%,3/4,59.0%,53.4%,0.0%,40.0%,83.3%,5/11,105,0,2,47,30,17,0,1:18
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q1,591,1426,1,10,,Guido Ivan Justo,Tobias Franco,6-1 6-1,2.25,0.0%,5.0%,62.5%,72.0%,66.7%,3/4,68.7%,67.4%,0.0%,65.7%,75.0%,6/8,83,0,2,40,25,15,0,1:08
+19-Feb-2024,M15 Villa Maria,3,Clay,R32,592,455,0,,4,Luciano Emanuel Ambrogi,Guido Ivan Justo,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,QF,607,325,0,,4,Gonzalo Bueno,Guido Ivan Justo,6-7(4) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R16,607,402,1,,6,Guido Ivan Justo,Eduardo Ribeiro,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R32,607,500,1,,,Guido Ivan Justo,Ignacio Monzon,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R16,601,710,0,8,,Juan Carlos Prado Angelo,Guido Ivan Justo,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R32,601,996,1,8,,Guido Ivan Justo,Joao Victor Couto Loureiro,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,R32,600,452,0,,3,Matias Franco Descotte,Guido Ivan Justo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,SF,711,645,0,5,7,Olaf Pieczkowski,Guido Ivan Justo,1-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,QF,711,316,1,5,1,Guido Ivan Justo,Mathys Erhard,W/O,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,R16,711,1870,1,5,Q,Guido Ivan Justo,Jaka Protic Zakelj,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,R32,711,,1,5,Q,Guido Ivan Justo,Noel Larwig,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,F,631,520,1,,7,Guido Ivan Justo,Miguel Damas,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,SF,631,660,1,,,Guido Ivan Justo,Georgii Kravchenko,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,QF,631,766,1,,,Guido Ivan Justo,Max Alcala Gurri,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R16,631,388,1,,1,Guido Ivan Justo,Alvaro Lopez San Martin,6-1 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R32,631,1137,1,,Q,Guido Ivan Justo,Leonid Sheyngezikht,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,QF,633,680,0,2,5,Kai Wehnelt,Guido Ivan Justo,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,R16,633,1416,1,2,,Guido Ivan Justo,Carlo Alberto Caniato,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,R32,633,962,1,2,,Guido Ivan Justo,Nicolas Parizzia,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Antofagasta CH,3,Clay,Q2,633,580,0,,12,Tomas Farjat,Guido Ivan Justo,6-2 7-5,0.78,0.0%,2.4%,65.9%,55.4%,48.3%,7/11,45.8%,36.8%,7.4%,22.5%,57.1%,1/6,153,0,2,85,56,29,5,1:34
+18-Sep-2023,Antofagasta CH,3,Clay,Q1,633,375,1,,1,Guido Ivan Justo,David Jorda Sanchis,7-5 0-6 7-5,0.89,0.0%,3.1%,58.8%,59.6%,52.5%,1/6,47.9%,38.7%,8.6%,30.4%,51.4%,4/9,190,0,3,97,57,40,8,2:42
+4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,SF,651,,0,3,2,Lautaro Midon,Guido Ivan Justo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,QF,651,855,1,3,,Guido Ivan Justo,Mariano Kestelboim,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R16,651,1229,1,3,,Guido Ivan Justo,Thiago Cigarran,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,651,813,1,3,,Guido Ivan Justo,Ignacio Carou,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Buenos Aires,3,Clay,R32,651,582,0,,6,Tomas Farjat,Guido Ivan Justo,0-1 RET,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,Lima CH,3,Clay,R32,673,605,0,Q,Q,Pedro Sakamoto,Guido Ivan Justo,6-4 7-6(5),0.87,2.6%,1.3%,77.9%,56.7%,41.2%,2/6,46.8%,40.5%,2.5%,39.6%,42.3%,3/8,156,2,1,77,60,17,2,2:08
 21-Aug-2023,Lima CH,3,Clay,Q2,673,780,1,6,10,Guido Ivan Justo,Alejandro Hoyos Franco,0-6 6-2 6-1,1.11,0.0%,3.3%,71.7%,65.1%,35.3%,3/6,51.8%,48.1%,3.9%,41.1%,66.7%,5/11,137,0,2,60,43,17,3,1:43
 21-Aug-2023,Lima CH,3,Clay,Q1,673,955,1,6,Alt,Guido Ivan Justo,Noah Schachter,6-7(7) 6-3 6-3,1.25,2.0%,2.0%,75.2%,72.4%,40.0%,5/8,53.7%,44.4%,2.6%,37.1%,55.3%,6/12,218,2,2,101,76,25,3,2:37
 14-Aug-2023,M15 Belem,3,Hard,R32,715,1915,0,1,,Pedro Rodrigues,Guido Ivan Justo,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Arequipa,3,Clay,F,717,564,0,7,1,Alvaro Guillen Meza,Guido Ivan Justo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Arequipa,3,Clay,SF,717,1123,1,7,,Guido Ivan Justo,Daniel Antonio Nunez,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Arequipa,3,Clay,QF,717,566,1,7,2,Guido Ivan Justo,Tomas Farjat,7-6(1) 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Arequipa,3,Clay,R16,717,1244,1,7,,Guido Ivan Justo,Juan Estevez,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Arequipa,3,Clay,R32,717,901,1,7,,Guido Ivan Justo,Nicolas Buitrago,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Jul-2023,Santa Fe CH,3,Clay,R32,733,248,0,,4,Francisco Comesana,Guido Ivan Justo,6-2 6-4,0.66,0.0%,6.0%,61.2%,68.3%,38.5%,6/9,43.9%,28.6%,10.7%,22.9%,38.1%,0/5,123,0,4,67,41,26,6,1:32
 26-Jun-2023,M25 Rosario-Santa Fe,3,Clay,QF,720,626,0,6,3,Tomas Farjat,Guido Ivan Justo,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Rosario-Santa Fe,3,Clay,R16,720,,1,6,Q,Guido Ivan Justo,Gonzalo Zeitune,6-1 6-2,,,,,,,,,,,,,,,,,,,,,

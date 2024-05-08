@@ -1,6 +1,69 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,493,624,1,3,11,Facundo Mena,Gilbert Soares Klier Junior,6-4 6-3,1.13,3.8%,2.6%,53.8%,76.2%,50.0%,7/7,54.0%,40.7%,1.7%,37.8%,50.0%,3/8,137,3,2,78,42,36,1,1:35
-10-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,493,813,1,3,,Facundo Mena,Alejandro Hoyos Franco,6-4 6-2,1.25,0.0%,3.4%,52.5%,77.4%,46.4%,1/2,54.5%,46.8%,4.8%,38.2%,57.1%,4/10,121,0,2,59,31,28,3,1:36
+29-Apr-2024,Porto Alegre CH,3,Clay,SF,406,464,0,,LL,Daniel Dutra Da Silva,Facundo Mena,6-3 6-4,0.81,1.5%,1.5%,43.9%,41.4%,43.2%,8/14,44.4%,46.7%,1.7%,45.7%,48.0%,4/5,126,1,1,66,29,37,1,1:48
+29-Apr-2024,Porto Alegre CH,3,Clay,QF,406,555,1,,Q,Facundo Mena,Karue Sell,6-7(7) 6-4 6-1,1.20,7.3%,0.0%,53.6%,64.4%,58.8%,5/8,54.4%,45.7%,2.1%,34.5%,61.5%,6/11,204,8,0,110,59,51,2,2:48
+29-Apr-2024,Porto Alegre CH,3,Clay,R16,406,568,1,,Q,Facundo Mena,Kaichi Uchida,7-5 6-2,1.26,10.8%,1.4%,52.7%,76.9%,42.9%,7/9,55.2%,49.3%,4.2%,37.8%,61.8%,5/8,145,8,1,74,39,35,3,1:48
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,406,653,1,,Q,Facundo Mena,Leonardo Aboian,3-6 6-1 6-1,1.32,5.9%,1.5%,54.4%,75.7%,48.4%,1/3,55.8%,48.6%,2.9%,40.0%,60.0%,6/8,138,4,1,68,37,31,2,1:50
+22-Apr-2024,Concepcion CH,3,Clay,QF,406,429,0,,Q,Stefanos Sakellaridis,Facundo Mena,6-4 0-6 6-3,0.94,3.7%,2.5%,64.2%,65.4%,44.8%,4/8,49.3%,39.4%,2.8%,36.8%,42.4%,5/7,152,3,2,81,52,29,2,1:51
+22-Apr-2024,Concepcion CH,3,Clay,R16,406,464,1,,,Facundo Mena,Daniel Dutra Da Silva,7-5 6-4,1.26,1.5%,1.5%,37.3%,80.0%,54.8%,4/6,53.7%,45.1%,0.0%,38.3%,54.3%,4/12,149,1,1,67,25,42,0,2:00
+22-Apr-2024,Concepcion CH,3,Clay,R32,406,869,1,,WC,Facundo Mena,Daniel Antonio Nunez,7-5 6-1,1.60,9.3%,3.7%,59.3%,78.1%,50.0%,1/3,59.6%,53.3%,1.7%,60.0%,46.7%,5/8,114,5,2,54,32,22,1,1:23
+15-Apr-2024,M15 Santiago,3,Clay,QF,401,907,1,1,6,Facundo Mena,Paulo Andre Saraiva Dos Santos,6-2 6-7(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Santiago,3,Clay,R16,401,1651,1,1,Q,Facundo Mena,Miguel Angel Cabrera,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Santiago,3,Clay,R32,401,957,1,1,,Facundo Mena,Kosuke Ogura,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,Cuernavaca CH,3,Hard,R16,419,176,0,Q,,Alexis Galarneau,Facundo Mena,7-6(3) 6-1,0.73,5.1%,6.8%,52.5%,54.8%,50.0%,4/8,42.7%,34.7%,0.0%,21.6%,48.6%,2/10,131,3,4,59,31,28,0,1:36
+8-Apr-2024,Cuernavaca CH,3,Hard,R32,419,385,1,Q,,Facundo Mena,Skander Mansouri,7-6(5) 6-2,1.31,3.9%,2.6%,65.8%,76.0%,53.8%,3/3,55.0%,41.3%,12.0%,16.2%,65.8%,2/10,151,3,2,76,50,26,9,1:35
+8-Apr-2024,Cuernavaca CH,3,Hard,Q2,419,1085,1,2,Alt,Facundo Mena,Matthew Christopher Romios,6-4 6-1,1.97,4.4%,2.2%,71.1%,75.0%,76.9%,0/1,60.6%,48.1%,11.1%,36.4%,66.7%,4/7,99,2,1,45,32,13,6,0:59
+8-Apr-2024,Cuernavaca CH,3,Hard,Q1,419,898,1,2,Alt,Facundo Mena,Arjun Kadhe,6-0 6-2,1.84,14.9%,4.3%,46.8%,81.8%,52.0%,6/7,64.2%,62.5%,4.2%,48.0%,78.3%,6/8,95,7,2,47,22,25,2,0:55
+1-Apr-2024,Mexico City CH,3,Clay,Q1,416,1307,0,10,WC,Juan Alejandro Hernandez Serrano,Facundo Mena,6-4 6-1,0.52,11.8%,13.7%,37.3%,78.9%,37.5%,3/6,39.0%,24.5%,0.0%,13.8%,40.0%,0/0,100,6,7,51,19,32,0,1:13
+25-Mar-2024,San Luis Potosi CH,3,Clay,Q2,445,582,0,8,,Matias Soto,Facundo Mena,6-3 7-6(4),0.80,7.5%,3.0%,65.7%,72.7%,47.8%,2/4,46.0%,28.6%,2.9%,20.8%,45.5%,1/1,137,5,2,67,44,23,2,1:46
+25-Mar-2024,San Luis Potosi CH,3,Clay,Q1,445,577,1,8,,Facundo Mena,Olukayode Alafia Damina Ayeni,6-3 6-3,2.35,4.1%,6.1%,67.3%,87.9%,68.8%,2/2,60.7%,43.1%,5.2%,25.8%,63.0%,3/6,107,2,3,49,33,16,3,1:19
+18-Mar-2024,Merida CH,3,Clay,QF,445,317,0,,,Nick Hardt,Facundo Mena,6-4 6-4,0.76,0.0%,7.0%,63.2%,69.4%,42.9%,3/6,44.3%,30.8%,0.0%,25.0%,40.0%,1/4,122,0,4,57,36,21,0,1:40
+18-Mar-2024,Merida CH,3,Clay,R16,445,497,1,,,Facundo Mena,Gabi Adrian Boitan,7-6(3) 6-3,1.26,9.0%,6.0%,61.2%,82.9%,50.0%,0/1,54.2%,37.5%,7.8%,30.4%,55.6%,2/5,131,6,4,67,41,26,5,1:41
+18-Mar-2024,Merida CH,3,Clay,R32,445,299,1,,7,Facundo Mena,Antoine Bellier,6-4 6-1,1.68,12.5%,0.0%,58.3%,71.4%,75.0%,4/4,58.1%,45.6%,3.5%,27.6%,64.3%,4/6,105,6,0,48,28,20,2,1:18
+11-Mar-2024,Santiago CH,3,Clay,Q1,443,645,0,6,,Mariano Kestelboim,Facundo Mena,7-6(2) 3-0 RET,0.67,1.9%,5.7%,50.9%,63.0%,50.0%,1/4,43.6%,29.2%,2.1%,23.5%,42.9%,1/2,101,1,3,53,27,26,1,1:41
+26-Feb-2024,M25 Tucuman,3,Clay,R16,465,352,0,,5,Federico Agustin Gomez,Facundo Mena,7-6(4) 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R32,465,,1,,,Facundo Mena,Lautaro Midon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villa Maria,3,Clay,SF,473,780,1,5,,Facundo Mena,Alejo Lorenzo Lingua Lavallen,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villa Maria,3,Clay,QF,473,451,1,5,3,Facundo Mena,Pedro Boscardin Dias,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villa Maria,3,Clay,R16,473,1353,1,5,Q,Facundo Mena,Bruno Fernandez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villa Maria,3,Clay,R32,473,1146,1,5,Q,Facundo Mena,Ezequiel Monferrer,6-2 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,QF,479,377,0,,4,Hernan Casanova,Facundo Mena,6-7(4) 7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R16,479,,1,,,Facundo Mena,Lautaro Midon,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R32,479,456,1,,,Facundo Mena,Luciano Emanuel Ambrogi,1-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R16,477,417,0,,7,Juan Bautista Torres,Facundo Mena,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R32,477,863,1,,WC,Facundo Mena,Ignacio Carou,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,,F,570,437,0,5,1,Gonzalo Villanueva,Facundo Mena,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,,SF,570,464,1,5,2,Facundo Mena,Valerio Aboian,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,,QF,570,,1,5,3,Facundo Mena,Lautaro Midon,5-7 7-6(5) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,,R16,570,916,1,5,,Facundo Mena,Noah Schachter,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,,R32,570,,1,5,WC,Facundo Mena,Alejandro Bancalari,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,F,567,540,1,8,5,Facundo Mena,Nicolas Kicker,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,SF,567,466,1,8,3,Facundo Mena,Valerio Aboian,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,QF,567,868,1,8,Q,Facundo Mena,Diego Fernandez Flores,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,R16,567,,1,8,,Facundo Mena,Fernando Cavallo,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,R32,567,1244,1,8,Q,Facundo Mena,Nikos Lehmann,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Temuco CH,3,Hard,R32,582,702,0,Q,WC,Matias Soto,Facundo Mena,6-4 6-3,0.68,7.0%,5.6%,43.7%,64.5%,47.5%,5/9,45.0%,30.6%,10.2%,13.3%,57.9%,1/2,120,5,4,71,31,40,5,1:30
+27-Nov-2023,Temuco CH,3,Hard,Q2,582,771,1,3,9,Facundo Mena,Juan Carlos Aguilar,6-4 6-7(5) 6-4,1.13,2.8%,1.9%,59.8%,67.2%,58.1%,7/10,52.3%,41.3%,2.8%,40.3%,42.6%,5/13,216,3,2,107,64,43,3,2:45
+27-Nov-2023,Temuco CH,3,Hard,Q1,582,1637,1,3,Alt,Facundo Mena,Miguel Angel Cabrera,6-2 6-4,1.27,6.8%,6.8%,54.8%,77.5%,45.5%,8/9,56.5%,47.1%,2.0%,50.0%,40.0%,4/7,124,5,5,73,40,33,1,1:27
+13-Nov-2023,M15 Santo Domingo,3,,SF,672,518,1,3,1,Facundo Mena,Roberto Cid,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Santo Domingo,3,,QF,672,839,1,3,6,Facundo Mena,Alejandro Hoyos Franco,6-1 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Santo Domingo,3,,R16,672,,1,3,Q,Facundo Mena,Ignasi Forcano,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Santo Domingo,3,,R32,672,1852,1,3,Q,Facundo Mena,Leonardo Civita Telles,3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,SF,671,522,1,3,1,Facundo Mena,Roberto Cid,1-6 6-4 10-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,QF,671,1029,1,3,,Facundo Mena,Paulo Andre Saraiva Dos Santos,6-4 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,R16,671,1434,1,3,Q,Facundo Mena,David Saye,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Santo Domingo,3,Hard,R32,671,1768,1,3,,Facundo Mena,Timofei Derepasko,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,Campinas CH,3,Clay,Q2,494,841,0,6,Alt,Igor Gimenez,Facundo Mena,7-6(7) 6-7(2) 7-6(3),1.03,1.3%,3.2%,44.6%,65.7%,48.3%,16/22,50.8%,45.1%,2.1%,39.3%,54.7%,6/12,299,2,5,157,70,87,3,4:15
+2-Oct-2023,Campinas CH,3,Clay,Q1,494,1040,1,6,Alt,Facundo Mena,Rafael Tosetto,6-1 4-6 6-4,1.22,15.3%,5.9%,41.2%,77.1%,60.0%,9/10,53.1%,40.2%,1.1%,36.2%,44.4%,4/9,177,13,5,85,35,50,1,2:16
+25-Sep-2023,Bogota CH,3,Clay,Q1,480,685,0,4,,Arklon Huertas Del Pino,Facundo Mena,6-4 6-4,1.00,8.3%,3.3%,58.3%,71.4%,52.0%,2/4,47.9%,36.6%,3.7%,24.1%,60.7%,0/6,142,5,2,60,35,25,3,1:36
+18-Sep-2023,Antofagasta CH,3,Clay,R16,485,269,0,Q,,Roman Andres Burruchaga,Facundo Mena,6-4 1-6 6-3,1.00,3.3%,2.2%,50.0%,60.9%,43.5%,6/12,50.0%,48.0%,2.9%,45.9%,51.2%,6/15,194,3,2,92,46,46,3,2:54
+18-Sep-2023,Antofagasta CH,3,Clay,R32,485,137,1,Q,4,Facundo Mena,Genaro Alberto Olivieri,6-7(6) 6-4 6-4,1.18,6.0%,2.0%,55.0%,83.6%,55.6%,5/6,52.8%,34.3%,4.0%,29.1%,40.9%,3/4,199,6,2,100,55,45,4,2:49
+18-Sep-2023,Antofagasta CH,3,Clay,Q2,485,431,1,7,4,Facundo Mena,Orlando Luz,W/O,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Antofagasta CH,3,Clay,Q1,485,915,1,7,WC,Facundo Mena,Ignacio Antonio Becerra Otarola,6-0 6-2,2.28,2.9%,0.0%,40.0%,85.7%,61.9%,0/1,67.9%,65.1%,0.0%,53.8%,82.4%,6/8,78,1,0,35,14,21,0,0:54
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,QF,493,235,0,Q,,Andrea Collarini,Facundo Mena,6-3 7-6(6),0.80,5.8%,1.4%,59.4%,65.9%,35.7%,2/7,45.5%,36.9%,1.5%,30.4%,52.6%,3/6,134,4,1,69,41,28,1,1:47
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R16,493,201,1,Q,8,Facundo Mena,Camilo Ugo Carabelli,6-4 7-5,1.20,4.8%,1.2%,45.8%,73.7%,55.6%,4/5,54.1%,43.2%,1.4%,42.6%,44.4%,3/9,157,4,1,83,38,45,1,2:02
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R32,493,479,1,Q,Q,Facundo Mena,Pedro Boscardin Dias,6-4 6-4,1.11,5.6%,4.2%,56.3%,75.0%,32.3%,8/11,52.6%,48.4%,1.6%,44.4%,53.8%,5/9,133,4,3,71,40,31,1,1:41
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q2,493,624,1,3,11,Facundo Mena,Gilbert Soares Klier Junior,6-4 6-3,1.13,3.8%,2.6%,53.8%,76.2%,50.0%,7/7,54.0%,40.7%,1.7%,37.8%,50.0%,3/8,137,3,2,78,42,36,1,1:35
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,Q1,493,813,1,3,,Facundo Mena,Alejandro Hoyos Franco,6-4 6-2,1.25,0.0%,3.4%,52.5%,77.4%,46.4%,1/2,54.5%,46.8%,4.8%,38.2%,57.1%,4/10,121,0,2,59,31,28,3,1:36
 28-Aug-2023,M25 Oviedo,3,Clay,R16,482,828,0,4,,Michiel De Krom,Facundo Mena,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Oviedo,3,Clay,R32,482,692,1,4,,Facundo Mena,Oscar Jose Gutierrez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,Prague CH,3,Clay,R16,484,285,0,,8,Valentin Vacherot,Facundo Mena,6-2 6-4,0.61,3.3%,3.3%,46.7%,71.4%,50.0%,4/7,44.0%,24.5%,2.0%,15.2%,43.8%,0/0,109,2,2,60,28,32,1,1:24

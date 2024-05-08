@@ -1,4 +1,78 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,234,490,0,3,Q,Juan Carlos Prado Angelo,Dmitry Popko,7-6(5) 7-6(8),0.90,6.4%,2.1%,48.9%,73.9%,50.0%,2/4,48.9%,34.5%,2.4%,27.7%,43.2%,2/3,178,6,2,94,46,48,2,2:28
+22-Apr-2024,Savannah CH,3,Clay,SF,234,209,0,,5,Alexander Ritschard,Dmitry Popko,6-4 7-6(4),0.82,4.7%,3.7%,52.3%,58.9%,45.1%,13/18,47.4%,39.1%,3.1%,28.6%,51.7%,4/5,171,5,4,107,56,51,2,2:12
+22-Apr-2024,Savannah CH,3,Clay,QF,234,252,1,,,Dmitry Popko,Gijs Brouwer,7-6(7) 6-4,1.16,1.4%,0.0%,55.4%,73.2%,69.7%,0/0,51.3%,32.9%,1.2%,29.2%,38.2%,1/8,156,1,0,74,41,33,1,1:56
+22-Apr-2024,Savannah CH,3,Clay,R16,234,248,1,,,Dmitry Popko,Ethan Quinn,6-4 5-7 6-3,1.10,3.3%,3.3%,54.3%,68.0%,54.8%,3/7,51.6%,42.0%,4.0%,34.8%,55.9%,5/9,192,3,3,92,50,42,4,2:32
+22-Apr-2024,Savannah CH,3,Clay,R32,234,462,1,,WC,Dmitry Popko,Bruno Kuzuhara,6-3 6-4,1.56,5.6%,1.9%,63.0%,73.5%,60.0%,1/3,58.7%,49.1%,3.6%,36.8%,76.5%,4/6,109,3,1,54,34,20,2,1:24
+15-Apr-2024,Tallahassee CH,3,Clay,R32,233,202,0,,,Oliver Crawford,Dmitry Popko,6-0 7-6(2),0.59,14.1%,4.7%,48.4%,71.0%,24.2%,3/7,39.2%,31.1%,9.8%,21.2%,42.9%,1/4,125,9,3,64,31,33,6,1:31
+8-Apr-2024,Sarasota CH,3,Clay,R16,236,284,0,,Alt,Tennys Sandgren,Dmitry Popko,6-2 1-6 6-2,0.93,7.4%,4.4%,47.1%,71.9%,50.0%,2/6,48.5%,36.8%,10.3%,15.8%,63.3%,2/3,136,5,3,68,32,36,7,1:44
+8-Apr-2024,Sarasota CH,3,Clay,R32,236,102,1,,1,Dmitry Popko,J J Wolf,7-6(5) 6-1,1.60,8.9%,5.4%,51.8%,79.3%,59.3%,0/1,58.3%,48.4%,6.3%,28.9%,76.9%,4/6,120,5,3,56,29,27,4,1:25
+18-Mar-2024,Merida CH,3,Clay,QF,250,230,0,6,3,Tristan Boyer,Dmitry Popko,1-6 6-2 6-3,0.99,11.1%,1.4%,48.6%,77.1%,48.6%,6/9,49.3%,37.2%,5.1%,35.6%,39.4%,2/6,150,8,1,72,35,37,4,2:04
+18-Mar-2024,Merida CH,3,Clay,R16,250,540,1,6,,Dmitry Popko,Alex Rybakov,W/O,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,Merida CH,3,Clay,R32,250,749,1,6,,Dmitry Popko,Thomas Fancutt,6-4 7-5,1.68,3.6%,0.0%,49.1%,85.2%,67.9%,0/1,56.8%,39.7%,7.9%,45.8%,35.9%,3/7,118,2,0,55,27,28,5,1:22
+11-Mar-2024,M25 Feira de Santana,3,Hard,F,276,771,1,1,,Dmitry Popko,Harrison Adams,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Feira de Santana,3,Hard,SF,276,383,1,1,3,Dmitry Popko,Louis Wessels,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Feira de Santana,3,Hard,QF,276,732,1,1,8,Dmitry Popko,Igor Gimenez,7-6(1) 6-7(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Feira de Santana,3,Hard,R16,276,1410,1,1,,Dmitry Popko,Joao Vitor Goncalves Ceolin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Feira de Santana,3,Hard,R32,276,956,1,1,,Dmitry Popko,Paulo Andre Saraiva Dos Santos,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Recife,3,Clay,F,276,250,0,2,1,Juan Pablo Ficovich,Dmitry Popko,6-4 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Recife,3,Clay,SF,276,392,1,2,4,Dmitry Popko,Mateus Alves,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Recife,3,Clay,QF,276,,1,2,Q,Dmitry Popko,Paul Valsecchi,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Recife,3,Clay,R16,276,969,1,2,,Dmitry Popko,Quentin Folliot,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Recife,3,Clay,R32,276,956,1,2,,Dmitry Popko,Paulo Andre Saraiva Dos Santos,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,SF,309,352,1,3,5,Dmitry Popko,Federico Agustin Gomez,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,QF,309,609,1,3,,Dmitry Popko,Juan Carlos Prado Angelo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R16,309,1322,1,3,Q,Dmitry Popko,Petr Iamachkine,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R32,309,1855,1,3,WC,Dmitry Popko,Gonzalo Zeitune,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,F,325,649,1,3,,Dmitry Popko,Andres Andrade,3-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,SF,325,442,1,3,6,Dmitry Popko,Roberto Cid,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,QF,325,495,1,3,7,Dmitry Popko,Gabi Adrian Boitan,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R16,325,1160,1,3,Q,Dmitry Popko,Trey Hilderbrand,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R32,325,730,1,3,,Dmitry Popko,Jacob Brumm,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,F,338,650,1,2,8,Dmitry Popko,Andres Andrade,7-5 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,SF,338,440,1,2,4,Dmitry Popko,Gabi Adrian Boitan,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,QF,338,821,1,2,WC,Dmitry Popko,Axel Nefve,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R16,338,781,1,2,,Dmitry Popko,Felix Corwin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R32,338,1238,1,2,,Dmitry Popko,Alexander Razeghi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,F,339,538,1,2,6,Dmitry Popko,Alex Rybakov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,SF,339,758,1,2,,Dmitry Popko,Peter Bertran,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,QF,339,821,1,2,Q,Dmitry Popko,Axel Nefve,6-7(9) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,R16,339,871,1,2,WC,Dmitry Popko,Henrik Wiersholm,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,R32,339,,1,2,WC,Dmitry Popko,Junior Tavarez,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2024,Davis Cup QLS R1: ARG vs KAZ,3,Clay,RR,338,22,0,,,Francisco Cerundolo,Dmitry Popko,7-5 6-2,0.71,0.0%,4.9%,55.7%,50.0%,33.3%,3/9,41.7%,40.9%,4.5%,38.6%,45.5%,3/6,127,0,3,61,34,27,3,1:37
+3-Feb-2024,Davis Cup QLS R1: ARG vs KAZ,3,Clay,RR,338,25,0,,,Sebastian Baez,Dmitry Popko,6-4 3-6 7-6(6),1.00,2.7%,2.7%,70.0%,64.9%,54.5%,7/10,50.2%,38.1%,2.9%,27.1%,60.0%,3/12,215,3,3,110,77,33,3,2:48
+15-Jan-2024,Buenos Aires CH,3,Clay,SF,358,241,0,SE,8,Facundo Bagnis,Dmitry Popko,6-4 7-5,0.74,1.6%,4.9%,62.3%,57.9%,47.8%,3/8,44.2%,33.9%,0.0%,23.7%,52.4%,3/4,120,1,3,61,38,23,0,1:33
+15-Jan-2024,Buenos Aires CH,3,Clay,QF,358,236,1,SE,4,Dmitry Popko,Andrea Collarini,6-4 6-4,1.23,7.0%,4.2%,50.7%,75.0%,48.6%,5/7,54.9%,46.8%,0.0%,47.2%,46.2%,4/6,133,5,3,71,36,35,0,1:54
+15-Jan-2024,Buenos Aires CH,3,Clay,R16,358,231,1,SE,5,Dmitry Popko,Jozef Kovalik,6-3 5-2 RET,1.33,4.0%,2.0%,58.0%,69.0%,47.6%,1/3,56.1%,53.1%,3.1%,54.1%,51.9%,5/11,114,2,1,50,29,21,2,1:20
+15-Jan-2024,Buenos Aires CH,3,Clay,R32,358,362,1,SE,Q,Dmitry Popko,Carlos Sanchez Jover,6-3 7-6(7),1.39,7.6%,3.0%,53.0%,74.3%,54.8%,0/3,56.5%,48.6%,1.4%,44.9%,56.5%,4/7,138,5,2,66,35,31,1,1:36
+8-Jan-2024,Buenos Aires CH,3,Clay,F,417,415,0,Q,Q,Gonzalo Bueno,Dmitry Popko,6-4 2-6 7-6(4),1.07,3.1%,5.1%,51.0%,64.0%,41.7%,6/12,51.5%,50.0%,1.0%,45.2%,63.0%,7/13,198,3,5,98,50,48,1,2:30
+8-Jan-2024,Buenos Aires CH,3,Clay,SF,417,727,1,Q,,Dmitry Popko,Joao Fonseca,6-2 6-4,1.22,3.4%,6.8%,62.7%,64.9%,45.5%,3/5,54.8%,51.8%,1.8%,38.9%,75.0%,5/8,115,2,4,59,37,22,1,1:25
+8-Jan-2024,Buenos Aires CH,3,Clay,QF,417,268,1,Q,4,Dmitry Popko,Tristan Boyer,7-6(6) 6-3,0.96,1.1%,1.1%,60.0%,64.8%,55.6%,6/7,51.0%,37.3%,0.0%,30.4%,52.4%,2/6,157,1,1,90,54,36,0,2:12
+8-Jan-2024,Buenos Aires CH,3,Clay,R16,417,327,1,Q,,Dmitry Popko,Timo Stodder,7-6(7) 6-4,1.22,5.4%,1.4%,43.2%,81.3%,47.6%,3/6,54.0%,46.1%,0.0%,47.7%,43.8%,4/7,150,4,1,74,32,42,0,2:03
+8-Jan-2024,Buenos Aires CH,3,Clay,R32,417,366,1,Q,Alt,Dmitry Popko,Orlando Luz,5-7 6-4 6-1,1.45,7.5%,0.0%,42.5%,76.5%,60.9%,2/5,55.8%,47.3%,3.6%,37.3%,58.8%,6/15,190,6,0,80,34,46,4,2:25
+8-Jan-2024,Buenos Aires CH,3,Clay,Q2,417,688,1,9,WC,Dmitry Popko,Leonardo Aboian,6-3 6-3,1.71,5.7%,3.8%,67.9%,77.8%,64.7%,3/4,59.6%,45.1%,2.0%,30.8%,60.0%,4/7,104,3,2,53,36,17,1,1:11
+8-Jan-2024,Buenos Aires CH,3,Clay,Q1,417,,1,9,WC,Dmitry Popko,Alexis Gurmendi,6-4 6-7(1) 6-3,1.17,7.7%,6.6%,49.5%,80.0%,47.8%,2/5,52.3%,42.5%,5.7%,43.8%,39.4%,6/16,197,7,6,91,45,46,6,2:17
+18-Dec-2023,M15 Antalya,3,,F,458,743,1,1,7,Dmitry Popko,Max Alcala Gurri,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,,SF,458,783,1,1,8,Dmitry Popko,Evgeny Tyurnev,7-6(2) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,,QF,458,670,1,1,6,Dmitry Popko,Sergey Fomin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,,R16,458,1523,1,1,Q,Dmitry Popko,Ezequiel Monferrer,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,,R32,458,1399,1,1,Q,Dmitry Popko,Jan Kobierski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,,R16,502,1097,0,5,WC,Arda Azkara,Dmitry Popko,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,,R32,502,1670,1,5,Q,Dmitry Popko,Louroi Martinez,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,F,504,728,1,5,,Dmitry Popko,Sergey Fomin,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,SF,504,404,1,5,4,Dmitry Popko,Jay Clarke,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,QF,504,327,1,5,1,Dmitry Popko,Filip Cristian Jianu,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,R16,504,900,1,5,,Dmitry Popko,Joao Eduardo Schiessl,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,,R32,504,1155,1,5,Q,Dmitry Popko,Mihai Razvan Marinescu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,,R16,504,816,0,1,,Calin Manda,Dmitry Popko,1-6 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,,R32,504,1131,1,1,,Dmitry Popko,Dragos Nicolae Cazacu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,,R16,509,677,0,,,Ilya Snitari,Dmitry Popko,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,,R32,509,327,1,,4,Dmitry Popko,Timo Stodder,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,QF,506,758,0,4,6,Kilian Feldbausch,Dmitry Popko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,R16,506,1760,1,4,Q,Dmitry Popko,Maxwell Exsted,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,R32,506,,1,4,Q,Dmitry Popko,Nate Bonetto,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,Knoxville CH,3,Hard,Q2,519,460,0,11,4,Mats Rosenkranz,Dmitry Popko,6-4 5-7 6-3,0.75,6.7%,3.8%,60.0%,68.3%,38.1%,6/11,46.0%,32.9%,13.4%,21.1%,60.0%,3/4,187,7,4,105,63,42,11,2:13
+6-Nov-2023,Knoxville CH,3,Hard,Q1,519,670,1,11,,Dmitry Popko,Stefan Kozlov,6-4 6-3,1.26,3.4%,6.8%,51.1%,62.2%,46.5%,11/15,55.6%,57.4%,0.0%,53.5%,72.7%,6/12,142,3,6,88,45,43,0,
 24-Jul-2023,Astana CH,3,Hard,R16,375,550,0,4,,Khumoyun Sultanov,Dmitry Popko,6-7(4) 6-0 2-1 RET,0.75,8.8%,8.8%,47.5%,71.1%,26.2%,5/11,43.7%,39.4%,5.6%,26.2%,58.6%,3/3,151,7,7,80,38,42,4,1:54
 24-Jul-2023,Astana CH,3,Hard,R32,375,656,1,4,WC,Dmitry Popko,Koray Kirci,6-4 4-6 6-1,1.26,9.2%,3.9%,55.3%,78.6%,55.9%,2/4,53.5%,39.8%,1.2%,26.1%,56.8%,5/12,159,7,3,76,42,34,1,1:35
 17-Jul-2023,Tampere CH,3,Clay,Q1,335,552,0,2,,Matthew Dellavedova,Dmitry Popko,6-7(4) 6-2 7-5,0.86,1.8%,3.6%,54.5%,63.9%,43.1%,9/16,47.2%,39.0%,2.0%,33.9%,47.4%,4/8,212,2,4,112,61,51,2,

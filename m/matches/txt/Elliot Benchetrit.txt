@@ -1,7 +1,33 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Cassis CH,3,Hard,R32,476,427,0,Q,LL,Elmer Moller,Elliot Benchetrit,6-3 6-1,0.75,12.8%,0.0%,71.8%,64.3%,18.2%,0/4,42.4%,36.7%,18.3%,10.0%,63.3%,0/1,99,5,0,39,28,11,11,1:05
-3-Sep-2023,Cassis CH,3,Hard,Q2,476,367,1,10,3,Elliot Benchetrit,Aidan Mchugh,6-2 6-4,1.55,22.2%,1.9%,64.8%,77.1%,63.2%,3/3,56.3%,43.1%,3.1%,31.7%,62.5%,3/9,119,12,1,54,35,19,2,1:38
-3-Sep-2023,Cassis CH,3,Hard,Q1,476,,1,10,WC,Elliot Benchetrit,Pierre Antoine Tailleu,6-0 6-2,2.62,28.9%,2.6%,60.5%,87.0%,66.7%,0/0,65.5%,55.1%,4.1%,43.3%,73.7%,5/8,87,11,1,38,23,15,2,0:55
+15-Apr-2024,M15 Kursumlijska Banja,3,Clay,QF,654,740,0,4,6,Ilya Snitari,Elliot Benchetrit,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Kursumlijska Banja,3,Clay,R16,654,1211,1,4,Q,Elliot Benchetrit,Michal Krajci,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Kursumlijska Banja,3,Clay,R32,654,892,1,4,,Elliot Benchetrit,Luca Fantini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,Marrakech,3,Clay,R32,661,68,0,WC,,Pavel Kotov,Elliot Benchetrit,7-5 6-3,0.69,6.4%,1.3%,57.7%,68.9%,24.2%,6/11,43.2%,34.4%,1.6%,34.1%,35.0%,2/5,139,5,1,78,45,33,1,1:50
+25-Mar-2024,M25 Tarragona,3,Clay,R16,660,420,0,Q,,Svyatoslav Gulin,Elliot Benchetrit,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Tarragona,3,Clay,R32,660,1021,1,Q,Q,Elliot Benchetrit,Noah Lopez,5-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R32,626,385,0,,2,Nick Chappell,Elliot Benchetrit,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Monastir,3,Hard,QF,637,513,0,,3,Fausto Tabacco,Elliot Benchetrit,6-2 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Monastir,3,Hard,R16,637,633,1,,8,Elliot Benchetrit,Diego Augusto Barreto Sanchez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Monastir,3,Hard,R32,637,695,1,,,Elliot Benchetrit,Lorenzo Carboni,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2024,Davis Cup WG2 PO: CYP vs MAR,3,Hard,RR,614,1222,1,,,Elliot Benchetrit,Menelaos Efstathiou,6-3 6-2,1.42,3.9%,3.9%,49.0%,76.0%,65.4%,0/0,56.6%,41.7%,2.1%,28.1%,68.8%,3/5,99,2,2,51,25,26,1,1:18
+15-Jan-2024,M25 Doha,3,Hard,R16,507,1148,0,8,,Masamichi Imamura,Elliot Benchetrit,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,R32,507,882,1,8,,Elliot Benchetrit,Aleksandre Metreveli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Doha,3,Hard,R16,509,745,0,5,,Antoine Ghibaudo,Elliot Benchetrit,6-1 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Doha,3,Hard,R32,509,680,1,5,,Elliot Benchetrit,Marek Gengel,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,QF,491,253,0,8,2,Jules Marie,Elliot Benchetrit,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,R16,491,789,1,8,,Elliot Benchetrit,Matej Vocel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,R32,491,683,1,8,,Elliot Benchetrit,Aleksandr Braynin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,F,556,647,1,1,2,Elliot Benchetrit,Olaf Pieczkowski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,SF,556,811,1,1,,Elliot Benchetrit,Tiago Pereira,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,QF,556,1055,1,1,Q,Elliot Benchetrit,Louis Tessa,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,R16,556,1605,1,1,,Elliot Benchetrit,Vit Kalina,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,R32,556,822,1,1,,Elliot Benchetrit,Andrea Bacaloni,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Ortisei CH,3,Hard,Q1,561,603,0,9,,Mirza Basic,Elliot Benchetrit,3-6 6-0 6-3,0.75,9.2%,0.0%,55.3%,61.9%,50.0%,8/13,44.7%,32.4%,6.8%,27.1%,42.3%,2/4,150,7,0,76,42,34,5,1:28
+2-Oct-2023,M15 Doha,3,Hard,R32,548,1082,0,4,,Paul Woerner,Elliot Benchetrit,4-6 6-3 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Cassis CH,3,Hard,R32,476,427,0,Q,LL,Elmer Moller,Elliot Benchetrit,6-3 6-1,0.75,12.8%,0.0%,71.8%,64.3%,18.2%,0/4,42.4%,36.7%,18.3%,10.0%,63.3%,0/1,99,5,0,39,28,11,11,1:05
+4-Sep-2023,Cassis CH,3,Hard,Q2,476,367,1,10,3,Elliot Benchetrit,Aidan Mchugh,6-2 6-4,1.55,22.2%,1.9%,64.8%,77.1%,63.2%,3/3,56.3%,43.1%,3.1%,31.7%,62.5%,3/9,119,12,1,54,35,19,2,1:38
+4-Sep-2023,Cassis CH,3,Hard,Q1,476,,1,10,WC,Elliot Benchetrit,Pierre Antoine Tailleu,6-0 6-2,2.62,28.9%,2.6%,60.5%,87.0%,66.7%,0/0,65.5%,55.1%,4.1%,43.3%,73.7%,5/8,87,11,1,38,23,15,2,0:55
+21-Aug-2023,M15 Monastir,3,Hard,R32,475,,0,3,Q,Teymuraz Gabashvili,Elliot Benchetrit,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2023,M25 Kursumlijska Banja,3,Clay,R32,443,781,0,5,PR,Evgeny Tyurnev,Elliot Benchetrit,4-4 RET,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,Bordeaux CH,3,Clay,R32,429,72,0,Q,,Albert Ramos,Elliot Benchetrit,4-6 6-3 6-2,0.95,3.6%,3.6%,63.9%,67.9%,50.0%,4/7,47.6%,36.5%,1.9%,32.8%,43.2%,1/11,187,3,3,83,53,30,2,2:35
 15-May-2023,Bordeaux CH,3,Clay,Q2,429,280,1,WC,7,Elliot Benchetrit,Louis Wessels,6-4 6-4,1.34,8.6%,1.7%,63.8%,62.2%,71.4%,3/5,55.1%,46.4%,1.4%,34.8%,69.6%,4/6,127,5,1,58,37,21,1,1:49

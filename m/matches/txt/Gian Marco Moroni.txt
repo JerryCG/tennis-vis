@@ -1,6 +1,33 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Seville CH,3,Clay,Q2,575,538,0,8,6,Imanol Lopez Morillo,Gian Marco Moroni,6-3 6-4,0.53,5.3%,7.0%,63.2%,63.9%,42.9%,4/7,40.4%,23.1%,7.7%,24.2%,21.1%,1/3,109,3,4,57,36,21,4,1:34
-3-Sep-2023,Seville CH,3,Clay,Q1,575,940,1,8,,Gian Marco Moroni,Jesse Flores,7-5 6-3,1.72,1.8%,3.6%,56.4%,77.4%,75.0%,2/3,57.1%,40.6%,3.1%,33.3%,57.9%,3/4,119,1,2,55,31,24,2,1:37
+8-Apr-2024,M25 Hammamet,3,Clay,R16,628,588,0,,,Edas Butvilas,Gian Marco Moroni,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,R32,628,,1,,Q,Gian Marco Moroni,Matteo De Vincentis,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Hammamet,3,Clay,R16,631,1031,0,7,,Gianluca Cadenasso,Gian Marco Moroni,7-6(5) 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Hammamet,3,Clay,R32,631,1650,1,7,Q,Gian Marco Moroni,Ivan Kazakov,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,Murcia CH,3,Clay,Q1,626,352,0,,9,Gabriel Debru,Gian Marco Moroni,7-5 7-6(6),0.85,3.3%,4.4%,63.7%,62.1%,54.5%,5/8,47.4%,34.5%,3.6%,29.0%,50.0%,2/2,175,3,4,91,58,33,3,2:25
+4-Mar-2024,M15 Antalya,3,Clay,QF,643,1072,0,4,,Stijn Slump,Gian Marco Moroni,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Antalya,3,Clay,R16,643,1660,1,4,Q,Gian Marco Moroni,Gian Marco Ortenzi,3-1 RET,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Antalya,3,Clay,R32,643,1921,1,4,,Gian Marco Moroni,Ignacio Parisca,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Hammamet,3,Clay,QF,805,398,0,,4,Jay Clarke,Gian Marco Moroni,1-6 7-6(2) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Hammamet,3,Clay,R16,805,946,1,,Q,Gian Marco Moroni,Oleksandr Ovcharenko,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Hammamet,3,Clay,R32,805,403,1,,5,Gian Marco Moroni,Pol Martin Tiffon,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,F,773,519,1,7,2,Gian Marco Moroni,Corentin Denolly,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,SF,773,595,1,7,6,Gian Marco Moroni,Adrian Oetzbach,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,QF,773,844,1,7,,Gian Marco Moroni,Oscar Jose Gutierrez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,R16,773,865,1,7,,Gian Marco Moroni,Pietro Marino,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M25 Hammamet,3,Clay,R32,773,,1,7,Q,Gian Marco Moroni,Sergi Fita Juan,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,SF,623,342,0,,7,Robert Strombachs,Gian Marco Moroni,6-0 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,QF,623,1329,1,,Q,Gian Marco Moroni,Toby Martin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R16,623,392,1,,8,Gian Marco Moroni,Nick Chappell,6-4 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R32,623,1443,1,,WC,Gian Marco Moroni,Phoenix Weir,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Monastir,3,Hard,R16,623,1286,0,6,Q,Stijn Slump,Gian Marco Moroni,7-6(5) 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Monastir,3,Hard,R32,623,818,1,6,,Gian Marco Moroni,Samir Hamza Reguig,7-5 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,R32,533,589,0,,,Luca Potenza,Gian Marco Moroni,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Seville CH,3,Clay,Q2,575,538,0,8,6,Imanol Lopez Morillo,Gian Marco Moroni,6-3 6-4,0.53,5.3%,7.0%,63.2%,63.9%,42.9%,4/7,40.4%,23.1%,7.7%,24.2%,21.1%,1/3,109,3,4,57,36,21,4,1:34
+4-Sep-2023,Seville CH,3,Clay,Q1,575,940,1,8,,Gian Marco Moroni,Jesse Flores,7-5 6-3,1.72,1.8%,3.6%,56.4%,77.4%,75.0%,2/3,57.1%,40.6%,3.1%,33.3%,57.9%,3/4,119,1,2,55,31,24,2,1:37
+28-Aug-2023,M25 Oviedo,3,Clay,SF,575,564,0,8,7,Ryan Nijboer,Gian Marco Moroni,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Oviedo,3,Clay,QF,575,828,1,8,,Gian Marco Moroni,Michiel De Krom,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Oviedo,3,Clay,R16,575,741,1,8,,Gian Marco Moroni,Diego Augusto Barreto Sanchez,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Oviedo,3,Clay,R32,575,1768,1,8,Q,Gian Marco Moroni,Noah Regas Luis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,Liberec CH,3,Clay,Q1,566,1637,0,10,WC,Matyas Cerny,Gian Marco Moroni,4-0 RET,0.42,0.0%,20.0%,40.0%,0.0%,33.3%,1/3,27.3%,33.3%,0.0%,28.6%,40.0%,0/0,22,0,2,10,4,6,0,0:25
 16-Apr-2023,Roseto Degli Abruzzi CH,3,Clay,R32,388,147,0,Q,2,Franco Agamenone,Gian Marco Moroni,6-3 7-5,0.85,0.0%,7.0%,64.8%,52.2%,32.0%,4/11,46.1%,46.9%,1.2%,40.7%,59.3%,5/12,152,0,5,71,46,25,1,2:01
 16-Apr-2023,Roseto Degli Abruzzi CH,3,Clay,Q2,388,358,1,7,5,Gian Marco Moroni,Filip Peliwo,6-4 6-3,1.58,1.9%,1.9%,71.2%,70.3%,73.3%,2/4,57.9%,45.5%,3.6%,33.3%,60.0%,4/9,107,1,1,52,37,15,2,1:17

@@ -1,6 +1,45 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Cary CH,3,Hard,Q2,607,426,0,11,2,Strong Kirchheimer,Alex Rybakov,6-7(2) 7-5 7-6(3),0.88,9.5%,1.7%,62.9%,69.9%,53.5%,7/11,48.2%,31.8%,5.5%,26.5%,40.5%,3/10,226,11,2,116,73,43,6,3:01
-10-Sep-2023,Cary CH,3,Hard,Q1,607,708,1,11,,Alex Rybakov,Colin Markes,6-3 6-1,1.65,3.7%,1.9%,63.0%,76.5%,55.0%,5/5,60.6%,52.0%,6.0%,40.9%,60.7%,4/7,104,2,1,54,34,20,3,1:19
+22-Apr-2024,Savannah CH,3,Clay,Q1,525,476,0,,11,Gabi Adrian Boitan,Alex Rybakov,6-4 7-6(3),0.88,3.5%,9.3%,55.8%,62.5%,50.0%,9/12,47.4%,37.9%,4.6%,28.8%,57.1%,2/9,173,3,8,86,48,38,4,1:59
+15-Apr-2024,Tallahassee CH,3,Clay,Q2,543,468,0,10,6,Bruno Kuzuhara,Alex Rybakov,7-6(3) 6-3,0.74,3.1%,4.7%,62.5%,72.5%,45.8%,1/3,45.0%,27.7%,7.7%,24.5%,37.5%,1/5,129,2,3,64,40,24,5,1:40
+15-Apr-2024,Tallahassee CH,3,Clay,Q1,543,974,1,10,,Alex Rybakov,Rei Sakamoto,4-6 6-3 6-0,1.42,5.8%,5.8%,60.5%,78.8%,52.9%,7/8,57.6%,44.4%,4.2%,42.5%,46.9%,4/6,158,5,5,86,52,34,3,1:59
+8-Apr-2024,Sarasota CH,3,Clay,Q1,523,463,0,,7,Viktor Durasovic,Alex Rybakov,6-4 6-2,0.80,4.3%,14.9%,53.2%,68.0%,36.4%,3/7,44.1%,37.5%,4.7%,32.4%,43.3%,1/5,111,2,7,47,25,22,3,1:19
+1-Apr-2024,Houston,3,Clay,Q1,518,194,0,Alt,5,Alexander Ritschard,Alex Rybakov,6-4 6-4,0.93,8.8%,10.5%,59.6%,67.6%,47.8%,5/8,47.6%,37.7%,2.9%,36.4%,40.0%,1/4,126,5,6,57,34,23,2,1:31
+18-Mar-2024,Merida CH,3,Clay,R16,540,250,0,,6,Dmitry Popko,Alex Rybakov,W/O,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,Merida CH,3,Clay,R32,540,379,1,,,Alex Rybakov,Louis Wessels,6-2 6-2,2.08,6.8%,4.5%,56.8%,92.0%,57.9%,0/0,60.4%,47.4%,5.3%,46.3%,50.0%,4/8,101,3,2,44,25,19,3,1:21
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q2,537,439,0,8,3,Gonzalo Villanueva,Alex Rybakov,6-1 4-6 0-0 RET,0.76,13.7%,3.9%,56.9%,65.5%,50.0%,3/6,45.8%,31.1%,11.1%,30.0%,33.3%,1/2,96,7,2,51,29,22,5,1:26
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q1,537,862,1,8,,Alex Rybakov,Ignacio Carou,6-1 6-4,1.43,3.4%,12.1%,56.9%,75.8%,56.0%,3/4,58.1%,46.8%,6.4%,40.9%,52.0%,4/6,105,2,7,58,33,25,3,1:16
+19-Feb-2024,M25 Naples FL,3,Clay,QF,557,649,0,,,Andres Andrade,Alex Rybakov,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R16,557,318,1,,1,Alex Rybakov,Blaise Bicknell,2-6 6-4 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Naples FL,3,Clay,R32,557,892,1,,Q,Alex Rybakov,Collin Altamirano,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,SF,601,650,0,6,8,Andres Andrade,Alex Rybakov,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,QF,601,439,1,6,3,Alex Rybakov,Roberto Cid,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R16,601,,1,6,Q,Alex Rybakov,Matthew Forbes,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Palm Coast FL,3,Clay,R32,601,721,1,6,,Alex Rybakov,Jacob Brumm,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,F,538,339,0,6,2,Dmitry Popko,Alex Rybakov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,SF,538,409,1,6,3,Alex Rybakov,Nicolas Mejia,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,QF,538,322,1,6,1,Alex Rybakov,Toby Alex Kodat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,R16,538,789,1,6,WC,Alex Rybakov,William Grant,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sunrise FL,3,Clay,R32,538,1536,1,6,,Alex Rybakov,Maxwell Exsted,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R16,559,1605,0,6,Q,Manas Dhamne,Alex Rybakov,7-6(2) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R32,559,,1,6,WC,Alex Rybakov,Joan Nadal Vives,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Manacor,3,Hard,QF,562,393,0,5,1,Pol Martin Tiffon,Alex Rybakov,6-3 4-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Manacor,3,Hard,R16,562,1174,1,5,Q,Alex Rybakov,Romain Faucon,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Manacor,3,Hard,R32,562,1262,1,5,Q,Alex Rybakov,Sergio Callejon Hernando,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,R32,563,627,0,,,Nikolay Vylegzhanin,Alex Rybakov,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,Champaign CH,3,Hard,R16,604,294,0,Q,,Mitchell Krueger,Alex Rybakov,7-6(5) 6-1,0.68,7.0%,1.8%,70.2%,60.0%,35.3%,5/9,41.6%,32.4%,1.5%,28.0%,44.4%,2/5,125,4,1,57,40,17,1,1:25
+13-Nov-2023,Champaign CH,3,Hard,R32,604,637,1,Q,,Alex Rybakov,Chris Rodesch,5-7 6-4 6-4,0.92,5.5%,0.0%,73.4%,68.8%,55.2%,9/10,49.8%,31.9%,7.4%,23.3%,47.1%,2/6,203,6,0,109,80,29,7,2:21
+13-Nov-2023,Champaign CH,3,Hard,Q2,604,970,1,11,,Alex Rybakov,Murphy Cassone,6-4 7-6(5),0.95,8.3%,0.0%,69.4%,80.0%,59.1%,2/2,51.5%,25.0%,3.3%,20.9%,35.3%,1/1,132,6,0,72,50,22,2,1:26
+13-Nov-2023,Champaign CH,3,Hard,Q1,604,687,1,11,,Alex Rybakov,Joshua Sheehy,6-3 6-4,1.19,6.2%,1.5%,70.8%,78.3%,36.8%,2/3,55.4%,40.4%,4.3%,29.2%,52.2%,3/5,112,4,1,65,46,19,2,1:16
+6-Nov-2023,Knoxville CH,3,Hard,Q2,616,335,0,Alt,1,Sebastian Fanselow,Alex Rybakov,6-7(0) 6-4 6-4,1.10,9.8%,5.4%,72.8%,77.6%,60.0%,3/5,50.0%,29.8%,14.4%,16.7%,47.7%,0/4,196,9,5,92,67,25,15,2:22
+6-Nov-2023,Knoxville CH,3,Hard,Q1,616,485,1,Alt,9,Alex Rybakov,Nathan Ponwith,6-4 6-4,1.37,5.4%,7.1%,58.9%,84.8%,52.2%,0/1,54.2%,39.1%,3.1%,34.9%,47.6%,3/4,120,3,4,56,33,23,2,
+30-Oct-2023,Charlottesville CH,3,Hard,Q1,613,517,0,Alt,10,Inaki Montes De La Torre,Alex Rybakov,6-2 6-3,0.61,10.6%,0.0%,70.2%,66.7%,28.6%,0/4,41.1%,27.1%,2.1%,27.3%,26.7%,0/1,95,5,0,47,33,14,1,1:12
+2-Oct-2023,M15 Ithaca NY,3,Hard,SF,641,485,0,4,1,Liam Draxl,Alex Rybakov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,QF,641,1028,1,4,,Alex Rybakov,Fons Van Sambeek,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,R16,641,1589,1,4,PR,Alex Rybakov,Matt Kuhar,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Ithaca NY,3,Hard,R32,641,1153,1,4,,Alex Rybakov,Joshua Lapadat,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Columbus CH,3,Hard,Q1,635,337,0,,2,Elmar Ejupovic,Alex Rybakov,6-3 4-6 6-3,0.92,12.2%,11.1%,63.3%,68.4%,39.4%,8/12,48.3%,38.6%,8.0%,24.6%,64.5%,2/5,178,11,10,90,57,33,7,2:26
+11-Sep-2023,Cary CH,3,Hard,Q2,607,426,0,11,2,Strong Kirchheimer,Alex Rybakov,6-7(2) 7-5 7-6(3),0.88,9.5%,1.7%,62.9%,69.9%,53.5%,7/11,48.2%,31.8%,5.5%,26.5%,40.5%,3/10,226,11,2,116,73,43,6,3:01
+11-Sep-2023,Cary CH,3,Hard,Q1,607,708,1,11,,Alex Rybakov,Colin Markes,6-3 6-1,1.65,3.7%,1.9%,63.0%,76.5%,55.0%,5/5,60.6%,52.0%,6.0%,40.9%,60.7%,4/7,104,2,1,54,34,20,3,1:19
 14-Aug-2023,Winnipeg CH,3,Hard,Q1,599,403,0,,6,Matija Pecotic,Alex Rybakov,6-2 6-2,0.29,6.5%,6.5%,56.5%,57.7%,35.0%,3/7,32.9%,15.4%,2.6%,14.8%,16.7%,0/2,85,3,3,46,26,20,1,0:55
 7-Aug-2023,M25 Southaven,3,Hard,R16,602,953,0,5,,Andres Martin,Alex Rybakov,7-5 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Southaven,3,Hard,R32,602,716,1,5,,Alex Rybakov,Shunsuke Mitsui,7-5 1-6 7-5,,,,,,,,,,,,,,,,,,,,,

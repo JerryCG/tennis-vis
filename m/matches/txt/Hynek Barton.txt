@@ -1,4 +1,37 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+11-Mar-2024,M25 Vale do Lobo,3,Hard,F,475,347,0,,6,Jaime Faria,Hynek Barton,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,SF,475,382,1,,,Hynek Barton,Daniel Merida Aguilar,7-5 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,QF,475,355,1,,7,Hynek Barton,Frederico Ferreira Silva,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R16,475,1503,1,,Q,Hynek Barton,Andres Fernandez Canovas,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R32,475,325,1,,4,Hynek Barton,Salvatore Caruso,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,QF,480,391,0,,6,Jaime Faria,Hynek Barton,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R16,480,392,1,,3,Hynek Barton,Oleksii Krutykh,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R32,480,735,1,,WC,Hynek Barton,Tiago Pereira,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,478,355,0,,3,Nick Chappell,Hynek Barton,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,Glasgow CH,3,Hard,Q1,480,733,0,6,,Stuart Parker,Hynek Barton,6-2 6-4,0.71,5.1%,2.6%,52.6%,56.1%,48.6%,7/11,44.3%,33.9%,4.8%,32.5%,36.4%,1/5,140,4,2,78,41,37,3,1:31
+5-Feb-2024,Nottingham CH,3,Hard,Q1,478,462,0,,10,Daniel Cox,Hynek Barton,6-2 6-3,0.66,11.8%,0.0%,70.6%,55.6%,40.0%,6/10,41.1%,32.1%,1.8%,25.0%,41.7%,1/4,107,6,0,51,36,15,1,1:05
+29-Jan-2024,M15 Veigy-Foncenex,3,Carpet,R32,480,1763,0,3,Q,Mischa Lanz,Hynek Barton,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,QF,534,436,0,,6,Khumoyun Sultanov,Hynek Barton,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,R16,534,730,1,,,Hynek Barton,Joao Domingues,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,,R32,534,251,1,,1,Hynek Barton,Lucas Poullain,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,F,531,277,0,,4,Henrique Rocha,Hynek Barton,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,SF,531,260,1,,3,Hynek Barton,Michael Geerts,5-7 6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,QF,531,778,1,,,Hynek Barton,Tiago Pereira,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,531,1430,1,,LL,Hynek Barton,Gabriel Elicha Navas,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,531,252,1,,1,Hynek Barton,Jules Marie,7-5 6-7(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Selva Gardena,3,Hard,QF,549,237,0,6,1,Stefano Napolitano,Hynek Barton,3-6 6-2 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Selva Gardena,3,Hard,R16,549,841,1,6,,Hynek Barton,Kai Lemstra,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Selva Gardena,3,Hard,R32,549,1128,1,6,Q,Hynek Barton,Jonas Trinker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Ortisei CH,3,Hard,R16,587,249,0,Q,,Billy Harris,Hynek Barton,6-2 7-6(3),0.71,9.2%,1.5%,60.0%,69.2%,57.7%,6/8,45.6%,25.0%,6.7%,21.2%,29.6%,0/0,125,6,1,65,39,26,4,1:21
+23-Oct-2023,Ortisei CH,3,Hard,R32,587,325,1,Q,,Hynek Barton,David Jorda Sanchis,6-7(5) 7-6(4) 6-3,1.19,8.8%,0.0%,70.6%,68.1%,76.7%,0/1,52.1%,34.9%,5.5%,35.3%,34.1%,3/4,211,9,0,102,72,30,6,2:08
+23-Oct-2023,Ortisei CH,3,Hard,Q2,587,689,1,11,Alt,Hynek Barton,Patrik Rikl,3-6 7-6(5) 6-4,0.77,13.2%,2.6%,67.5%,72.7%,54.1%,11/13,49.0%,25.6%,14.0%,18.0%,36.1%,1/1,200,15,3,114,77,37,12,1:54
+23-Oct-2023,Ortisei CH,3,Hard,Q1,587,887,1,11,,Hynek Barton,Alessandro Pecci,6-7(3) 6-3 6-4,1.32,9.9%,2.0%,65.3%,81.8%,54.3%,1/1,53.2%,36.5%,13.9%,24.7%,57.1%,2/13,216,10,2,101,66,35,16,2:22
+16-Oct-2023,M25 Edgbaston,3,Hard,R32,584,635,0,,WC,Kyle Edmund,Hynek Barton,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,QF,490,389,0,7,3,Max Houkes,Hynek Barton,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R16,490,639,1,7,,Hynek Barton,Jonas Forejtek,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R32,490,,1,7,Q,Hynek Barton,Plamen Milushev,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,R16,491,830,0,5,,Jakub Nicod,Hynek Barton,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Pardubice,3,Clay,R32,491,818,1,5,,Hynek Barton,Liam Gavrielides,7-6(6) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,SF,506,471,0,8,7,Mohamed Safwat,Hynek Barton,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,QF,506,970,1,8,,Hynek Barton,Daniel Siniakov,7-6(0) 7-6(1),,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,R16,506,1371,1,8,,Hynek Barton,Matyas Cerny,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -12,6 +45,8 @@
 7-Aug-2023,M25 Lodz,3,Clay,R16,577,1113,0,6,JE,Jakub Nicod,Hynek Barton,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Lodz,3,Clay,R32,577,966,1,6,,Hynek Barton,Michal Mikula,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,Liberec CH,3,Clay,R32,580,357,0,WC,,Ugo Blanchet,Hynek Barton,6-1 6-3,0.68,6.1%,4.1%,53.1%,65.4%,34.8%,1/5,41.7%,33.3%,3.7%,18.5%,48.1%,0/2,103,3,2,49,26,23,2,1:07
+24-Jul-2023,M25 Kramsach,3,Clay,R16,577,286,0,,1,Oliver Crawford,Hynek Barton,7-6(9) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Kramsach,3,Clay,R32,577,,1,,Q,Hynek Barton,Ivan Kremenchutskyi,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Kamen,3,Clay,F,610,758,0,Q,,Svyatoslav Gulin,Hynek Barton,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Kamen,3,Clay,SF,610,713,1,Q,8,Hynek Barton,Tom Gentzsch,7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Kamen,3,Clay,QF,610,876,1,Q,,Hynek Barton,Francois Musitelli,6-1 6-4,,,,,,,,,,,,,,,,,,,,,

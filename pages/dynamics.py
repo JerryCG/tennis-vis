@@ -6,7 +6,7 @@ dash.register_page(__name__, name = 'Dynamics')
 layout = html.Div(children = [
     html.Div(children=[
         html.Div(children=[
-            html.H2('Dynamic ATP Top10 from 2000-01-10 to 2023-09-11'),
+            html.H2('Dynamic ATP Top10 from 2000-01-10 to 2024-05-06'),
             html.Iframe(
                 src='https://flo.uri.sh/visualisation/11862538/embed',
                 title='Interactive or visual content',
@@ -17,7 +17,7 @@ layout = html.Div(children = [
         ],className='column2'
         ), 
         html.Div(children=[
-            html.H2('GS Counts of Big ATP Players from 1990 to 2023'),
+            html.H2('GS Counts of Big ATP Players from 1990 to 2024'),
             html.Iframe(
                 src='https://flo.uri.sh/visualisation/11883754/embed',
                 title='Interactive or visual content',

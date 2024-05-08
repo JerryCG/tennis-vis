@@ -1,4 +1,45 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+25-Mar-2024,M25 Saint Dizier,3,Hard,R16,560,262,0,,1,Alibek Kachmazov,Adrien Gobat,W/O,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Saint Dizier,3,Hard,R32,560,,1,,LL,Adrien Gobat,Liova Ayite Ajavon,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Creteil,3,Hard,R32,532,264,0,,3,Gauthier Onclin,Adrien Gobat,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,R16,532,801,0,8,PR,Cyril Vandermeersch,Adrien Gobat,7-6(5) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,R32,532,1135,1,8,WC,Adrien Gobat,Loann Massard,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Monastir,3,Hard,R16,554,,0,3,Q,Fred Simonsson,Adrien Gobat,1-6 6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Monastir,3,Hard,R32,554,1061,1,3,,Adrien Gobat,Andrew Fenty,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Monastir,3,Hard,SF,553,1855,0,4,,Federico Cina,Adrien Gobat,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Monastir,3,Hard,QF,553,594,1,4,6,Adrien Gobat,Ezekiel Clark,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Monastir,3,Hard,R16,553,996,1,4,,Adrien Gobat,Keisuke Saitoh,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Monastir,3,Hard,R32,553,,1,4,WC,Adrien Gobat,Josh Roe Flannelly,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,Cherbourg CH,3,Hard,Q2,556,367,0,,2,Hazem Naw,Adrien Gobat,7-6(3) 6-1,0.67,3.8%,7.5%,43.8%,68.6%,42.2%,5/8,43.0%,31.0%,2.8%,25.5%,41.7%,1/4,151,3,6,80,35,45,2,1:47
+12-Feb-2024,Cherbourg CH,3,Hard,Q1,556,487,1,,9,Adrien Gobat,Kenny De Schepper,7-6(7) 7-6(2),0.91,3.7%,2.8%,45.8%,73.5%,53.4%,4/6,50.5%,34.2%,19.0%,28.6%,47.8%,2/5,186,4,3,107,49,58,15,2:09
+5-Feb-2024,M15 Monastir,3,Hard,R32,554,1629,0,8,,Fabio De Michele,Adrien Gobat,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Monastir,3,Hard,R32,571,982,0,8,Q,Igor Kudriashov,Adrien Gobat,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,SF,562,658,0,4,,Evgeny Tyurnev,Adrien Gobat,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,QF,562,706,1,4,,Adrien Gobat,Mili Poljicak,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,R16,562,703,1,4,,Adrien Gobat,Mario Gonzalez Fernandez,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,R32,562,1031,1,4,Q,Adrien Gobat,Taiyo Yamanaka,6-7(6) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Bressuire,3,Hard,R32,562,1279,0,5,,Alexandre Aubriot,Adrien Gobat,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,QF,582,680,0,,,Jonas Forejtek,Adrien Gobat,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R16,582,1871,1,,Q,Adrien Gobat,Simon Reveniau,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R32,582,286,1,,3,Adrien Gobat,Dan Added,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,QF,599,645,0,4,7,Olaf Pieczkowski,Adrien Gobat,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,R16,599,972,1,4,,Adrien Gobat,Nicolas Parizzia,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Monastir,3,Hard,R32,599,763,1,4,,Adrien Gobat,Lorenzo Bocchi,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,SF,612,495,0,5,4,Constantin Bittoun Kouzmine,Adrien Gobat,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,QF,612,338,1,5,2,Adrien Gobat,Skander Mansouri,6-4 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,R16,612,774,1,5,,Adrien Gobat,Nicolas Tepmahc,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,R32,612,903,1,5,,Adrien Gobat,Maik Steiner,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,QF,642,721,0,3,6,Tom Gentzsch,Adrien Gobat,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,R16,642,1104,1,3,Q,Adrien Gobat,Aleksandr Lobanov,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Monastir,3,Hard,R32,642,1168,1,3,Q,Adrien Gobat,Antoine Vincent,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,Mouilleron-Le-Captif CH,3,Hard,R32,642,133,0,Q,,Luca Nardi,Adrien Gobat,6-2 6-3,0.58,1.9%,11.3%,43.4%,69.6%,36.7%,2/6,40.2%,28.6%,6.1%,17.2%,45.0%,0/0,102,1,6,53,23,30,3,1:08
+2-Oct-2023,Mouilleron-Le-Captif CH,3,Hard,Q2,642,336,1,,5,Adrien Gobat,Tristan Lamasine,7-5 7-5,1.20,2.5%,5.0%,63.7%,76.5%,48.3%,2/3,53.5%,40.5%,2.5%,36.2%,46.9%,3/9,159,2,4,80,51,29,2,2:02
+2-Oct-2023,Mouilleron-Le-Captif CH,3,Hard,Q1,642,348,1,,9,Adrien Gobat,Hady Habib,6-4 6-3,1.03,12.9%,4.8%,61.3%,81.6%,58.3%,2/2,53.7%,28.3%,15.2%,15.6%,57.1%,2/4,108,8,3,62,38,24,7,1:10
+25-Sep-2023,M15 Forbach,3,Carpet,R32,633,726,0,4,,Adam Moundir,Adrien Gobat,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Saint-Tropez CH,3,Hard,Q2,658,266,0,Alt,4,Dan Added,Adrien Gobat,6-1 6-2,0.54,0.0%,7.7%,51.9%,55.6%,40.0%,6/10,38.2%,28.0%,2.0%,14.3%,45.5%,0/2,102,0,4,52,27,25,1,1:13
+18-Sep-2023,Saint-Tropez CH,3,Hard,Q1,658,416,1,Alt,11,Adrien Gobat,Kenny De Schepper,6-3 7-5,1.26,6.3%,3.1%,60.9%,76.9%,60.0%,1/2,55.0%,37.5%,7.1%,35.1%,42.1%,3/4,120,4,2,64,39,25,4,1:23
+11-Sep-2023,M25+H Plaisir,3,Hard,R16,651,396,0,,1,Antoine Hoang,Adrien Gobat,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25+H Plaisir,3,Hard,R32,651,1143,1,,Q,Adrien Gobat,Arthur Nagel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25+H Bagneres-de-Bigorre,3,Hard,QF,645,282,0,7,1,Michael Geerts,Adrien Gobat,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25+H Bagneres-de-Bigorre,3,Hard,R16,645,1868,1,7,Q,Adrien Gobat,Ewen Lumsden,2-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25+H Bagneres-de-Bigorre,3,Hard,R32,645,1237,1,7,,Adrien Gobat,Yannick Mertens,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,

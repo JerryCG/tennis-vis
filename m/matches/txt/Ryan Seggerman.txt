@@ -1,9 +1,35 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+15-Apr-2024,Acapulco CH,3,Hard,R32,577,363,0,,Alt,Aidan Mchugh,Ryan Seggerman,6-3 6-2,0.66,6.4%,4.3%,66.0%,48.4%,68.8%,0/3,40.7%,29.5%,1.6%,34.7%,8.3%,0/3,108,3,2,47,31,16,1,1:10
+15-Apr-2024,Acapulco CH,3,Hard,Q2,577,448,1,,8,Ryan Seggerman,Daniil Glinka,4-6 6-4 6-3,1.19,6.4%,2.6%,80.8%,68.3%,60.0%,1/3,52.4%,39.5%,3.5%,32.7%,51.6%,4/8,164,5,2,78,63,15,3,1:47
+15-Apr-2024,Acapulco CH,3,Hard,Q1,577,423,1,,4,Ryan Seggerman,Matias Soto,6-4 6-1,1.74,11.1%,4.4%,53.3%,79.2%,71.4%,3/3,57.6%,42.6%,1.9%,30.0%,58.3%,4/9,99,5,2,45,24,21,1,1:12
+8-Apr-2024,Cuernavaca CH,3,Hard,Q2,587,333,0,,,Nicolas Mejia,Ryan Seggerman,6-3 6-7(3) 6-1,0.77,16.3%,11.3%,56.3%,77.8%,34.3%,3/8,44.4%,31.9%,8.8%,29.0%,37.9%,2/8,171,13,9,80,45,35,8,2:01
+8-Apr-2024,Cuernavaca CH,3,Hard,Q1,587,581,1,,10,Ryan Seggerman,Karue Sell,6-4 6-3,1.31,11.3%,3.2%,72.6%,75.6%,58.8%,1/1,55.0%,37.9%,8.6%,20.0%,57.1%,2/6,120,7,2,62,45,17,5,1:06
+1-Apr-2024,Mexico City CH,3,Clay,Q2,605,356,0,,3,Gerard Campana Lee,Ryan Seggerman,6-3 7-6(9),0.64,16.4%,6.0%,44.8%,83.3%,51.4%,2/3,43.7%,22.1%,7.4%,19.0%,26.9%,0/2,135,11,4,67,30,37,5,1:23
+1-Apr-2024,Mexico City CH,3,Clay,Q1,605,448,1,,11,Ryan Seggerman,Daniil Glinka,6-7(3) 7-6(4) 7-6(4),0.92,12.7%,8.7%,53.2%,88.1%,50.8%,2/2,49.4%,26.9%,7.6%,23.5%,34.2%,0/2,245,16,11,126,67,59,9,2:24
+25-Mar-2024,San Luis Potosi CH,3,Clay,Q1,603,476,0,,9,Elmar Ejupovic,Ryan Seggerman,7-6(1) 7-5,0.49,6.0%,6.0%,64.2%,86.0%,41.7%,1/2,43.8%,14.8%,19.7%,9.5%,26.3%,0/0,128,4,4,67,43,24,12,1:30
+22-Jan-2024,Indian Wells 2 CH,3,Hard,R32,630,244,0,,4,Brandon Holt,Ryan Seggerman,6-3 6-4,0.86,9.4%,0.0%,67.9%,66.7%,58.8%,0/2,45.5%,30.9%,4.4%,31.3%,30.0%,0/6,121,5,0,53,36,17,3,1:09
+15-Jan-2024,Indian Wells 1 CH,3,Hard,R16,630,224,0,,2,Marco Trungelliti,Ryan Seggerman,7-5 3-6 7-6(4),0.87,12.8%,3.7%,62.4%,76.5%,34.1%,1/5,48.7%,34.4%,3.3%,30.8%,39.5%,4/6,199,14,4,109,68,41,3,1:58
+15-Jan-2024,Indian Wells 1 CH,3,Hard,R32,630,424,1,,,Ryan Seggerman,Evan Zhu,7-5 6-2,1.41,9.8%,4.9%,65.6%,70.0%,57.1%,4/6,56.9%,48.4%,1.6%,39.5%,68.4%,5/7,123,6,3,61,40,21,1,1:06
+6-Nov-2023,Calgary CH,3,Hard,R32,637,404,0,,,Toby Samuel,Ryan Seggerman,7-6(6) 7-6(8),1.04,13.6%,3.7%,69.1%,78.6%,64.0%,1/1,48.9%,26.9%,5.4%,13.3%,51.5%,0/6,174,11,3,81,56,25,5,1:34
+6-Nov-2023,Calgary CH,3,Hard,Q2,637,966,1,,,Ryan Seggerman,Ben Jones,6-3 7-6(4),1.46,33.3%,0.0%,66.7%,85.0%,75.0%,0/0,55.2%,26.8%,5.4%,22.0%,40.0%,1/4,116,20,0,60,40,20,3,1:07
+6-Nov-2023,Calgary CH,3,Hard,Q1,637,2004,1,,Alt,Ryan Seggerman,Drew Van Orderlain,6-4 6-4,1.36,12.5%,0.0%,66.1%,83.8%,63.2%,2/2,54.5%,31.5%,1.9%,24.2%,42.9%,2/3,110,7,0,56,37,19,1,
+30-Oct-2023,Sydney CH,3,Hard,R16,711,438,0,,LL,Blake Mott,Ryan Seggerman,6-2 6-3,0.32,15.6%,0.0%,71.9%,63.0%,33.3%,7/10,38.7%,14.3%,4.8%,7.1%,28.6%,0/0,106,10,0,64,46,18,2,0:57
+30-Oct-2023,Sydney CH,3,Hard,R32,711,345,1,,,Ryan Seggerman,Benjamin Lock,6-3 4-6 6-4,1.11,14.9%,1.1%,71.3%,76.1%,51.9%,5/6,51.3%,34.3%,3.0%,32.4%,40.0%,2/10,193,14,1,94,67,27,3,1:53
+30-Oct-2023,Sydney CH,3,Hard,Q2,711,438,1,,1,Ryan Seggerman,Blake Mott,3-6 6-3 6-4,1.22,14.5%,3.6%,77.1%,78.1%,47.4%,0/1,53.3%,35.4%,1.2%,26.4%,51.7%,2/4,165,12,3,83,64,19,1,1:48
+30-Oct-2023,Sydney CH,3,Hard,Q1,711,819,1,,,Ryan Seggerman,Kody Pearson,6-4 7-6(4),1.59,14.1%,1.6%,76.6%,79.6%,73.3%,0/0,53.3%,34.9%,5.8%,29.2%,52.4%,1/8,150,9,1,64,49,15,5,1:29
+23-Oct-2023,Playford CH,3,Hard,Q2,724,466,0,,4,Yusuke Takahashi,Ryan Seggerman,6-3 6-2,0.56,6.4%,2.1%,70.2%,63.6%,28.6%,1/4,38.0%,26.2%,1.6%,24.4%,31.3%,0/4,108,3,1,47,33,14,1,1:06
+23-Oct-2023,Playford CH,3,Hard,Q1,724,869,1,,,Ryan Seggerman,Bang Shuo Yin,7-6(5) 6-3,1.43,11.5%,11.5%,62.3%,86.8%,39.1%,3/5,54.9%,44.4%,0.0%,41.8%,50.0%,4/9,142,7,7,61,38,23,0,1:22
+9-Oct-2023,M25 Zapopan,3,Clay,QF,755,355,0,6,1,Ernesto Escobedo,Ryan Seggerman,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Zapopan,3,Clay,R16,755,1797,1,6,Q,Ryan Seggerman,Rodrigo Alujas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25 Zapopan,3,Clay,R32,755,1145,1,6,,Ryan Seggerman,Juan Sebastian Osorio,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Monastir,3,Hard,F,1193,713,1,,4,Ryan Seggerman,Ilia Simakin,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Monastir,3,Hard,SF,1193,431,1,,2,Ryan Seggerman,Kris Van Wyk,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Monastir,3,Hard,QF,1193,435,1,,3,Ryan Seggerman,Alexander Cozbinov,7-6(11) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Monastir,3,Hard,R16,1193,922,1,,7,Ryan Seggerman,Alan Fernando Rubio Fierros,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Monastir,3,Hard,R32,1193,,1,,Q,Ryan Seggerman,Alberto Bronzetti,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,QF,1198,1295,0,Q,WC,Luca Fantini,Ryan Seggerman,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,R16,1198,,1,Q,Q,Ryan Seggerman,Leo Poupinel,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,R32,1198,427,1,Q,1,Ryan Seggerman,Kris Van Wyk,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Southaven,3,Hard,R32,1186,953,0,,,Andres Martin,Ryan Seggerman,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M15 Lakewood,3,Hard,R16,,,0,Q,,Keshav Chopra,Ryan Seggerman,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M15 Lakewood,3,Hard,R32,,,1,Q,7,Ryan Seggerman,Jack Anthrop,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,36 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+15-Apr-2024,M25 Hammamet,3,Clay,QF,590,421,0,,5,Raphael Collignon,Edas Butvilas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M25 Hammamet,3,Clay,R16,590,722,1,,,Edas Butvilas,Evan Furness,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M25 Hammamet,3,Clay,R32,590,387,1,,4,Edas Butvilas,Alberto Barroso Campos,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,SF,588,228,0,,1,Aziz Dougaz,Edas Butvilas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,QF,588,561,1,,8,Edas Butvilas,Peter Heller,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,R16,588,628,1,,,Edas Butvilas,Gian Marco Moroni,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,R32,588,334,1,,3,Edas Butvilas,Jay Clarke,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Heraklion,3,Hard,F,661,623,0,6,5,Jacob Bradshaw,Edas Butvilas,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Heraklion,3,Hard,SF,661,552,1,6,3,Edas Butvilas,Ryuki Matsuda,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Heraklion,3,Hard,QF,661,1089,1,6,WC,Edas Butvilas,Ioannis Xilas,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Heraklion,3,Hard,R16,661,733,1,6,,Edas Butvilas,Alexandros Skorilas,W/O,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Heraklion,3,Hard,R32,661,1240,1,6,Q,Edas Butvilas,Jean Christian Morandais,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Heraklion,3,Hard,F,661,1312,0,5,Q,Martin Klizan,Edas Butvilas,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Heraklion,3,Hard,SF,661,1439,1,5,WC,Edas Butvilas,Aristotelis Thanos,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Heraklion,3,Hard,QF,661,712,1,5,,Edas Butvilas,Zura Tkemaladze,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Heraklion,3,Hard,R16,661,1429,1,5,,Edas Butvilas,Alexander Frusina,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Heraklion,3,Hard,R32,661,903,1,5,,Edas Butvilas,Emilien Demanet,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,Szekesfehervar CH,3,Clay,Q1,633,315,0,,3,Nino Serdarusic,Edas Butvilas,6-2 4-6 6-3,0.83,4.1%,4.1%,57.5%,78.6%,45.2%,3/6,46.1%,29.6%,7.4%,25.9%,39.1%,1/1,154,3,3,73,42,31,6,1:48
+4-Mar-2024,M25 Quinta Do Lago,3,Hard,R32,633,309,0,Q,4,Hady Habib,Edas Butvilas,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Villena,3,Hard,R32,639,504,0,,5,Alex Knaff,Edas Butvilas,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villena,3,Hard,R16,637,465,0,,4,Daniel Merida Aguilar,Edas Butvilas,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villena,3,Hard,R32,637,856,1,,,Edas Butvilas,Iliyan Radulov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,R32,556,1250,0,,,Darwin Blanch,Edas Butvilas,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R32,543,483,0,,6,Andrey Chepelev,Edas Butvilas,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R16,551,368,0,,4,Javier Barranco Cosano,Edas Butvilas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R32,551,423,1,,,Edas Butvilas,Alex Marti Pujolras,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Hamburg CH,3,Hard,Q1,524,447,0,,13,Sasi Kumar Mukund,Edas Butvilas,6-3 6-7(4) 6-1,0.73,8.0%,4.0%,54.7%,82.9%,35.3%,1/5,42.7%,28.1%,10.4%,19.2%,38.6%,1/7,171,6,3,75,41,34,10,1:50
+2-Oct-2023,Alicante CH,3,Hard,Q1,530,427,0,,9,Daniel Cox,Edas Butvilas,6-3 6-7(3) 6-4,0.85,9.8%,3.6%,52.7%,67.8%,56.6%,9/13,49.0%,31.8%,6.8%,25.5%,39.0%,1/1,200,11,4,112,59,53,6,1:58
+25-Sep-2023,M25 Falun,3,Hard,QF,536,482,0,,5,Tibo Colson,Edas Butvilas,6-1 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R16,536,485,1,,4,Edas Butvilas,Harry Wendelken,1-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R32,536,895,1,,WC,Edas Butvilas,Lucas Renard,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2023,Davis Cup WG1 R1: ARG vs LTU,3,Clay,RR,532,35,0,,,Tomas Martin Etcheverry,Edas Butvilas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,Mallorca CH,3,Hard,Q1,531,359,0,,7,Charles Broom,Edas Butvilas,7-5 4-6 6-2,0.76,6.4%,4.8%,64.0%,68.8%,33.3%,10/15,46.9%,33.3%,7.1%,22.2%,46.2%,3/7,209,8,6,125,80,45,6,2:17
 21-Aug-2023,Prague CH,3,Clay,Q1,529,561,0,11,,Miguel Damas,Edas Butvilas,6-4 6-4,0.60,5.6%,7.0%,57.7%,68.3%,40.0%,7/10,43.8%,26.0%,2.0%,26.5%,25.0%,1/2,121,4,5,71,41,30,1,1:30
 14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,Q1,530,790,0,11,,David Poljak,Edas Butvilas,3-6 7-6(4) 7-6(4),1.00,7.3%,1.6%,62.6%,68.8%,58.7%,7/8,49.8%,34.9%,6.3%,23.9%,64.7%,2/13,249,9,2,123,77,46,8,2:55
@@ -32,7 +64,7 @@
 27-Feb-2023,M25 Torello,3,Hard,R16,798,423,1,JE,7,Edas Butvilas,Oscar Jose Gutierrez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Feb-2023,M25 Torello,3,Hard,R32,798,869,1,JE,Q,Edas Butvilas,Axel Garcian,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 6-Feb-2023,Vilnius CH,3,Hard,R32,786,202,0,WC,,Antoine Escoffier,Edas Butvilas,1-6 7-5 7-6(5),1.17,6.7%,2.2%,61.1%,81.8%,51.4%,3/6,52.5%,35.2%,4.4%,18.9%,57.9%,4/9,181,6,2,90,55,35,4,2:03
-3-Feb-2023,Davis Cup WG1 PO: PAK vs LTU,3,Hard,RR,784,,1,,,Edas Butvilas,Aqeel Khan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2023,Davis Cup WG1 PO: PAK vs LTU,3,,RR,784,,1,,,Edas Butvilas,Aqeel Khan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M25 Nussloch,3,Carpet,R32,1053,421,0,JE,6,Matteo Martineau,Edas Butvilas,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M15 Vilnius,3,Hard,F,1053,707,1,,7,Edas Butvilas,Szymon Kielan,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M15 Vilnius,3,Hard,SF,1053,690,1,,6,Edas Butvilas,Kirill Kivattsev,6-1 6-4,,,,,,,,,,,,,,,,,,,,,

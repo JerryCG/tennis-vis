@@ -10,7 +10,7 @@
 22-Apr-1996,Monte Carlo Masters,3,Clay,R64,74,26,0,,16,Albert Costa,Jordi Arrese,6-2 6-0,0.49,0.0%,2.4%,59.5%,40.0%,29.4%,0/6,33.8%,31.6%,0.0%,28.6%,40.0%,1/2,80,0,1,42,25,17,0,0:49
 15-Apr-1996,Barcelona,3,Clay,R64,71,141,0,,,Galo Blanco,Jordi Arrese,7-5 6-2,0.67,0.0%,1.5%,55.9%,52.6%,56.7%,3/7,42.9%,30.8%,4.6%,23.8%,43.5%,1/8,133,0,1,68,38,30,3,1:26
 8-Apr-1996,Estoril,3,Clay,R32,61,106,0,,Q,Richard Fromberg,Jordi Arrese,6-2 6-2,0.56,0.0%,0.0%,77.8%,54.8%,25.0%,6/11,39.4%,28.9%,13.3%,19.2%,42.1%,1/2,99,0,0,54,42,12,6,1:15
-25-Mar-1996,Casablanca,3,Clay,R32,,,0,8,,Joao Cunha Silva,Jordi Arrese,6-2 6-4,0.68,0.0%,8.1%,67.7%,50.0%,45.0%,7/12,42.9%,34.9%,9.3%,19.0%,50.0%,2/2,105,0,5,62,42,20,4,1:19
+25-Mar-1996,Casablanca,3,Clay,R32,59,119,0,8,,Joao Cunha Silva,Jordi Arrese,6-2 6-4,0.68,0.0%,8.1%,67.7%,50.0%,45.0%,7/12,42.9%,34.9%,9.3%,19.0%,50.0%,2/2,105,0,5,62,42,20,4,1:19
 19-Feb-1996,Antwerp,3,Carpet,R32,58,105,0,,Q,Johan Van Herck,Jordi Arrese,4-2 RET,0.29,2.8%,5.6%,63.9%,60.9%,30.8%,4/5,40.0%,14.3%,14.3%,18.2%,0.0%,0/0,50,1,2,36,23,13,2,0:28
 6-Nov-1995,Buenos Aires,3,Clay,R32,52,34,0,,4,Alberto Berasategui,Jordi Arrese,6-2 6-4,0.75,5.7%,1.9%,73.6%,48.7%,57.1%,3/7,43.2%,36.9%,6.2%,36.4%,40.0%,1/6,118,3,1,53,39,14,4,1:13
 30-Oct-1995,Montevideo,3,Clay,R32,54,40,0,,8,Bohdan Ulihrach,Jordi Arrese,6-4 4-6 7-5,1.03,1.0%,3.0%,74.3%,60.0%,42.3%,6/13,50.8%,45.8%,2.1%,36.4%,58.5%,6/9,197,1,3,101,75,26,2,2:10
@@ -70,7 +70,7 @@
 10-Apr-1995,Barcelona,3,Clay,R32,96,27,1,,16,Jordi Arrese,Guy Forget,2-6 6-2 7-5,1.08,3.8%,2.5%,70.0%,66.1%,58.3%,2/6,51.2%,39.3%,2.4%,30.0%,52.9%,5/12,164,3,2,80,56,24,2,2:14
 10-Apr-1995,Barcelona,3,Clay,R64,96,33,1,,,Jordi Arrese,Francisco Clavet,6-2 4-6 7-6(4),1.12,2.6%,0.9%,66.4%,61.0%,51.3%,11/16,52.2%,47.4%,0.7%,44.7%,51.9%,6/25,253,3,1,116,77,39,1,3:08
 3-Apr-1995,Estoril,3,Clay,R32,80,14,0,Q,2,Andrei Medvedev,Jordi Arrese,4-6 7-6(6) 6-3,0.94,1.5%,2.2%,71.1%,51.0%,61.5%,14/20,49.6%,43.0%,1.1%,35.4%,51.1%,5/9,228,2,3,135,96,39,1,2:35
-20-Mar-1995,Casablanca,3,Clay,R32,,,0,7,,Ronald Agenor,Jordi Arrese,6-3 6-7(5) 6-4,1.06,0.0%,1.1%,76.4%,66.2%,61.9%,8/11,49.0%,36.8%,4.3%,29.3%,50.0%,1/5,206,0,1,89,68,21,5,2:20
+20-Mar-1995,Casablanca,3,Clay,R32,85,107,0,7,,Ronald Agenor,Jordi Arrese,6-3 6-7(5) 6-4,1.06,0.0%,1.1%,76.4%,66.2%,61.9%,8/11,49.0%,36.8%,4.3%,29.3%,50.0%,1/5,206,0,1,89,68,21,5,2:20
 13-Mar-1995,Agadir CH,3,Clay,QF,85,116,0,3,6,Bohdan Ulihrach,Jordi Arrese,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Mar-1995,Agadir CH,3,Clay,R16,85,175,1,3,,Jordi Arrese,Jiri Novak,6-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Mar-1995,Agadir CH,3,Clay,R32,85,162,1,3,,Jordi Arrese,Gerard Solves,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -131,8 +131,8 @@
 28-Mar-1994,Estoril,3,Clay,R32,64,37,0,,7,Renzo Furlan,Jordi Arrese,6-2 6-2,0.61,0.0%,3.5%,70.2%,55.0%,29.4%,7/12,40.0%,32.1%,0.0%,33.3%,30.0%,1/6,110,0,2,57,40,17,0,1:26
 21-Mar-1994,Agadir CH,3,Clay,R16,64,130,0,3,,Dimitri Poliakov,Jordi Arrese,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Mar-1994,Agadir CH,3,Clay,R32,64,106,1,3,,Jordi Arrese,Fabrice Santoro,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
-14-Mar-1994,Casablanca,3,Clay,R16,,,0,5,,Karim Alami,Jordi Arrese,6-2 7-6(5),0.82,0.0%,1.1%,82.0%,54.8%,43.8%,7/11,46.3%,38.7%,9.3%,31.6%,45.9%,2/10,164,0,1,89,73,16,7,2:09
-14-Mar-1994,Casablanca,3,Clay,R32,,,1,5,Q,Jordi Arrese,German Puentes,6-3 6-2,1.44,0.0%,1.7%,69.5%,70.7%,55.6%,6/7,58.5%,48.9%,0.0%,50.0%,47.1%,4/5,106,0,1,59,41,18,0,1:15
+14-Mar-1994,Casablanca,3,Clay,R16,66,137,0,5,,Karim Alami,Jordi Arrese,6-2 7-6(5),0.82,0.0%,1.1%,82.0%,54.8%,43.8%,7/11,46.3%,38.7%,9.3%,31.6%,45.9%,2/10,164,0,1,89,73,16,7,2:09
+14-Mar-1994,Casablanca,3,Clay,R32,66,306,1,5,Q,Jordi Arrese,German Puentes,6-3 6-2,1.44,0.0%,1.7%,69.5%,70.7%,55.6%,6/7,58.5%,48.9%,0.0%,50.0%,47.1%,4/5,106,0,1,59,41,18,0,1:15
 8-Nov-1993,Buenos Aires,3,Clay,SF,81,38,0,,6,Alberto Berasategui,Jordi Arrese,6-4 3-6 6-3,0.91,0.0%,4.1%,74.2%,62.5%,44.0%,3/7,48.6%,38.6%,1.1%,36.5%,50.0%,3/12,185,0,4,97,72,25,1,2:36
 8-Nov-1993,Buenos Aires,3,Clay,QF,81,55,1,,8,Jordi Arrese,Younes El Aynaoui,7-6(7) 5-7 7-5,1.04,0.0%,3.1%,76.6%,61.2%,53.3%,5/10,51.0%,42.3%,4.9%,32.1%,60.0%,5/11,251,0,4,128,98,30,6,3:03
 8-Nov-1993,Buenos Aires,3,Clay,R16,81,102,1,,,Jordi Arrese,Francisco Clavet,3-6 6-4 6-0,1.18,2.7%,1.4%,74.3%,67.3%,47.4%,2/5,52.8%,44.7%,1.2%,32.7%,63.6%,5/13,159,2,1,74,55,19,1,2:21
@@ -185,7 +185,7 @@
 5-Apr-1993,Barcelona,3,Clay,R64,42,93,1,13,,Jordi Arrese,Tomas Carbonell,6-1 4-6 6-4,1.06,1.0%,3.1%,70.8%,60.3%,50.0%,6/10,51.7%,45.1%,2.4%,43.6%,48.1%,7/13,178,1,3,96,68,28,2,2:08
 22-Mar-1993,Agadir CH,3,Clay,R16,33,141,0,1,,Martin Jaite,Jordi Arrese,7-5 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 22-Mar-1993,Agadir CH,3,Clay,R32,33,106,1,1,,Jordi Arrese,Alberto Berasategui,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Mar-1993,Casablanca,3,Clay,R32,,,0,1,,Marc Kevin Goellner,Jordi Arrese,3-6 6-3 7-6(2),1.03,0.0%,1.9%,79.8%,54.2%,57.1%,5/11,50.7%,46.5%,5.9%,34.9%,65.8%,6/9,205,0,2,104,83,21,6,2:33
+15-Mar-1993,Casablanca,3,Clay,R32,34,100,0,1,,Marc Kevin Goellner,Jordi Arrese,3-6 6-3 7-6(2),1.03,0.0%,1.9%,79.8%,54.2%,57.1%,5/11,50.7%,46.5%,5.9%,34.9%,65.8%,6/9,205,0,2,104,83,21,6,2:33
 1-Mar-1993,Indian Wells Masters,3,Hard,R64,37,60,0,,WC,Richey Reneberg,Jordi Arrese,7-5 7-5,0.86,2.1%,7.4%,52.6%,70.0%,37.8%,11/16,47.7%,39.0%,7.8%,31.7%,47.2%,3/8,172,2,7,95,50,45,6,1:51
 22-Feb-1993,Mexico City,3,Clay,R32,38,105,0,3,,Alberto Berasategui,Jordi Arrese,2-6 6-1 6-0,0.83,3.6%,5.4%,42.9%,54.2%,40.6%,3/9,45.1%,44.3%,4.1%,32.3%,65.7%,3/14,153,2,3,56,24,32,4,1:38
 15-Feb-1993,Stuttgart Indoor,3,Carpet,R32,39,6,0,,2,Petr Korda,Jordi Arrese,6-2 6-2,0.38,1.7%,1.7%,66.1%,61.5%,25.0%,3/7,37.0%,19.5%,22.0%,0.0%,36.4%,0/1,100,1,1,59,39,20,9,0:55
@@ -244,21 +244,21 @@
 4-May-1992,Hamburg Masters,3,Clay,R64,37,65,1,,,Jordi Arrese,German Lopez,6-3 6-3,2.32,6.5%,2.2%,73.9%,88.2%,58.3%,1/1,58.7%,45.3%,12.0%,32.5%,60.0%,3/12,121,3,1,46,34,12,9,1:17
 27-Apr-1992,Madrid,3,Clay,QF,32,35,0,8,,Javier Sanchez,Jordi Arrese,6-3 6-4,0.78,0.0%,2.1%,74.5%,45.7%,58.3%,2/6,43.8%,40.0%,4.6%,30.0%,56.0%,2/3,112,0,1,47,35,12,3,1:22
 27-Apr-1992,Madrid,3,Clay,R16,32,44,1,8,,Jordi Arrese,Thierry Champion,6-2 4-6 6-1,1.15,0.0%,2.3%,69.8%,61.7%,53.8%,5/8,53.9%,47.0%,1.5%,43.2%,54.5%,6/10,152,0,2,86,60,26,1,1:59
-27-Apr-1992,Madrid,3,Clay,R32,32,,1,8,WC,Jordi Arrese,Juan Gisbert Jr,6-0 6-2,3.05,5.6%,0.0%,66.7%,79.2%,83.3%,0/0,67.4%,59.3%,0.0%,54.5%,65.4%,5/8,95,2,0,36,24,12,0,1:06
+27-Apr-1992,Madrid,3,Clay,R32,32,474,1,8,WC,Jordi Arrese,Juan Gisbert Jr,6-0 6-2,3.05,5.6%,0.0%,66.7%,79.2%,83.3%,0/0,67.4%,59.3%,0.0%,54.5%,65.4%,5/8,95,2,0,36,24,12,0,1:06
 20-Apr-1992,Monte Carlo Masters,3,Clay,R64,32,34,0,,,Javier Sanchez,Jordi Arrese,7-6(2) 6-2,0.75,0.0%,3.1%,78.5%,58.8%,21.4%,3/8,43.8%,36.9%,6.2%,21.6%,57.1%,3/5,130,0,2,65,51,14,4,1:36
 13-Apr-1992,Nice,3,Clay,R32,32,78,0,5,,Gabriel Markus,Jordi Arrese,6-4 6-2,0.48,0.0%,0.0%,90.6%,54.2%,40.0%,2/6,39.2%,22.7%,2.3%,12.5%,50.0%,1/2,97,0,0,53,48,5,1,1:01
 6-Apr-1992,Barcelona,3,Clay,R32,25,73,0,13,,Jonas Svensson,Jordi Arrese,7-6(5) 6-3,0.85,0.0%,1.4%,73.2%,51.9%,47.4%,3/8,46.1%,42.0%,2.5%,40.9%,46.7%,4/12,152,0,1,71,52,19,2,2:06
 6-Apr-1992,Barcelona,3,Clay,R64,25,103,1,13,Q,Jordi Arrese,Marcos Aurelio Gorriz,6-4 7-6(5),1.27,0.0%,0.0%,70.0%,69.4%,57.1%,3/5,54.1%,43.4%,2.6%,35.6%,54.8%,3/8,146,0,0,70,49,21,2,1:49
-30-Mar-1992,Estoril,3,Clay,SF,,,0,7,4,Sergi Bruguera,Jordi Arrese,6-1 6-1,0.58,0.0%,9.8%,68.3%,50.0%,23.1%,4/9,37.2%,34.0%,1.9%,22.2%,46.2%,0/4,94,0,4,41,28,13,1,1:09
-30-Mar-1992,Estoril,3,Clay,QF,,,1,7,1,Jordi Arrese,Ivan Lendl,6-3 4-6 7-5,1.14,1.0%,1.9%,79.0%,62.7%,59.1%,7/10,52.3%,43.2%,4.5%,24.6%,63.0%,5/17,216,1,2,105,83,22,5,2:40
-30-Mar-1992,Estoril,3,Clay,R16,,,1,7,LL,Jordi Arrese,Udo Riglewski,7-5 6-2,1.26,3.0%,4.5%,68.2%,71.1%,42.9%,5/7,55.0%,47.7%,3.1%,37.5%,64.0%,5/8,131,2,3,66,45,21,2,1:29
-30-Mar-1992,Estoril,3,Clay,R32,,,1,7,,Jordi Arrese,Roberto Azar,6-2 6-3,1.59,0.0%,3.6%,62.5%,60.0%,66.7%,6/8,61.2%,59.5%,4.8%,60.0%,58.8%,5/6,98,0,2,56,35,21,2,1:12
+30-Mar-1992,Estoril,3,Clay,SF,32,13,0,7,4,Sergi Bruguera,Jordi Arrese,6-1 6-1,0.58,0.0%,9.8%,68.3%,50.0%,23.1%,4/9,37.2%,34.0%,1.9%,22.2%,46.2%,0/4,94,0,4,41,28,13,1,1:09
+30-Mar-1992,Estoril,3,Clay,QF,32,9,1,7,1,Jordi Arrese,Ivan Lendl,6-3 4-6 7-5,1.14,1.0%,1.9%,79.0%,62.7%,59.1%,7/10,52.3%,43.2%,4.5%,24.6%,63.0%,5/17,216,1,2,105,83,22,5,2:40
+30-Mar-1992,Estoril,3,Clay,R16,32,226,1,7,LL,Jordi Arrese,Udo Riglewski,7-5 6-2,1.26,3.0%,4.5%,68.2%,71.1%,42.9%,5/7,55.0%,47.7%,3.1%,37.5%,64.0%,5/8,131,2,3,66,45,21,2,1:29
+30-Mar-1992,Estoril,3,Clay,R32,32,84,1,7,,Jordi Arrese,Roberto Azar,6-2 6-3,1.59,0.0%,3.6%,62.5%,60.0%,66.7%,6/8,61.2%,59.5%,4.8%,60.0%,58.8%,5/6,98,0,2,56,35,21,2,1:12
 23-Mar-1992,Agadir CH,3,Clay,SF,32,103,0,1,,Francisco Roig,Jordi Arrese,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Mar-1992,Agadir CH,3,Clay,QF,32,198,1,1,Q,Jordi Arrese,David Rikl,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Mar-1992,Agadir CH,3,Clay,R16,32,137,1,1,,Jordi Arrese,Thierry Guardiola,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Mar-1992,Agadir CH,3,Clay,R32,32,362,1,1,Q,Jordi Arrese,Kenneth Carlsen,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Feb-1992,Stuttgart Indoor,3,Carpet,R32,25,27,0,,,Richard Krajicek,Jordi Arrese,6-3 6-2,0.22,1.8%,5.4%,60.7%,58.8%,50.0%,2/5,36.5%,10.0%,22.5%,7.1%,16.7%,0/0,96,1,3,56,34,22,9,0:47
-3-Feb-1992,Milan,3,Carpet,R32,,,0,,,Stefano Pescosolido,Jordi Arrese,6-3 6-1,0.17,9.1%,0.0%,65.9%,62.1%,26.7%,4/8,31.6%,8.6%,14.3%,5.3%,12.5%,0/0,79,4,0,44,29,15,5,0:47
+3-Feb-1992,Milan,3,Carpet,R32,26,64,0,,,Stefano Pescosolido,Jordi Arrese,6-3 6-1,0.17,9.1%,0.0%,65.9%,62.1%,26.7%,4/8,31.6%,8.6%,14.3%,5.3%,12.5%,0/0,79,4,0,44,29,15,5,0:47
 4-Nov-1991,Sao Paulo,3,Hard,R32,23,143,0,3,,Francisco Roig,Jordi Arrese,6-2 6-2,0.54,1.8%,0.0%,69.6%,48.7%,47.1%,6/11,40.0%,28.2%,7.7%,13.0%,50.0%,1/1,95,1,0,56,39,17,3,0:53
 28-Oct-1991,Buzios,3,Hard,F,25,98,1,2,,Jordi Arrese,Jaime Oncins,1-6 6-4 6-0,1.00,1.1%,4.3%,72.0%,62.7%,30.8%,12/16,50.6%,46.4%,5.8%,31.4%,61.8%,5/10,162,1,4,93,67,26,4,1:46
 28-Oct-1991,Buzios,3,Hard,SF,25,29,1,2,3,Jordi Arrese,Javier Sanchez,6-2 7-6(12),1.20,0.0%,3.6%,72.3%,70.0%,60.9%,5/6,54.6%,39.1%,4.3%,30.0%,51.7%,3/3,152,0,3,83,60,23,3,1:50
@@ -348,6 +348,9 @@
 28-May-1990,Roland Garros,5,Clay,R32,45,10,0,,8,Andrei Chesnokov,Jordi Arrese,7-5 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-May-1990,Roland Garros,5,Clay,R64,45,87,1,,WC,Jordi Arrese,Fabrice Santoro,4-6 6-3 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 28-May-1990,Roland Garros,5,Clay,R128,45,127,1,,LL,Jordi Arrese,Markus Zoecke,6-4 3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+21-May-1990,Dusseldorf,3,Clay,RR,44,4,1,,,Jordi Arrese,Brad Gilbert,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+21-May-1990,Dusseldorf,3,Clay,RR,44,59,1,,,Jordi Arrese,Andrei Cherkasov,6-2 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
+21-May-1990,Dusseldorf,3,Clay,RR,44,3,1,,,Jordi Arrese,Boris Becker,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 14-May-1990,Rome Masters,3,Clay,R64,28,20,0,,14,Magnus Gustafsson,Jordi Arrese,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 7-May-1990,Hamburg Masters,3,Clay,R32,29,73,0,,WC,Henri Leconte,Jordi Arrese,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
 7-May-1990,Hamburg Masters,3,Clay,R64,29,20,1,,13,Jordi Arrese,Horst Skoff,3-1 RET,,,,,,,,,,,,,,,,,,,,,
@@ -359,10 +362,10 @@
 9-Apr-1990,Barcelona,3,Clay,R16,31,8,0,15,1,Jay Berger,Jordi Arrese,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Apr-1990,Barcelona,3,Clay,R32,31,63,1,15,,Jordi Arrese,Michael Stich,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 9-Apr-1990,Barcelona,3,Clay,R64,31,198,1,15,WC,Jordi Arrese,Sergio Casal,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
-2-Apr-1990,Estoril,3,Clay,SF,,,0,,3,Emilio Sanchez,Jordi Arrese,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-2-Apr-1990,Estoril,3,Clay,QF,,,1,,1,Jordi Arrese,Jay Berger,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-2-Apr-1990,Estoril,3,Clay,R16,,,1,,,Jordi Arrese,Andrei Cherkasov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-2-Apr-1990,Estoril,3,Clay,R32,,,1,,Q,Jordi Arrese,Francisco Clavet,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1990,Estoril,3,Clay,SF,42,13,0,,3,Emilio Sanchez,Jordi Arrese,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1990,Estoril,3,Clay,QF,42,8,1,,1,Jordi Arrese,Jay Berger,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1990,Estoril,3,Clay,R16,42,72,1,,,Jordi Arrese,Andrei Cherkasov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1990,Estoril,3,Clay,R32,42,179,1,,Q,Jordi Arrese,Francisco Clavet,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Mar-1990,Estoril CH,3,Clay,R32,42,136,0,1,,Roberto Azar,Jordi Arrese,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Mar-1990,Miami Masters,3,Hard,R32,41,47,0,27,,Jakob Hlasek,Jordi Arrese,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Mar-1990,Miami Masters,3,Hard,R64,41,105,1,27,,Jordi Arrese,Anders Jarryd,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -399,6 +402,10 @@
 10-Jul-1989,Boston,3,Clay,QF,41,6,0,8,2,Mats Wilander,Jordi Arrese,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jul-1989,Boston,3,Clay,R16,41,217,1,8,,Jordi Arrese,Karsten Braasch,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 10-Jul-1989,Boston,3,Clay,R32,41,211,1,8,Q,Jordi Arrese,Brad Pearce,6-2 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
+19-Jun-1989,Hossegor CH,3,Clay,SF,44,129,0,1,6,Thierry Tulasne,Jordi Arrese,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-1989,Hossegor CH,3,Clay,QF,44,276,1,1,,Jordi Arrese,David Engel,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-1989,Hossegor CH,3,Clay,R16,44,171,1,1,,Jordi Arrese,Marcelo Ingaramo,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Jun-1989,Hossegor CH,3,Clay,R32,44,419,1,1,WC,Jordi Arrese,Frederic Fontang,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-1989,Roland Garros,5,Clay,R128,37,8,0,,6,Jakob Hlasek,Jordi Arrese,6-4 1-6 2-6 6-4 9-7,,,,,,,,,,,,,,,,,,,,,
 22-May-1989,Dusseldorf,3,Clay,RR,37,18,0,,,Aaron Krickstein,Jordi Arrese,7-6 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 22-May-1989,Dusseldorf,3,Clay,RR,37,186,1,,,Jordi Arrese,Claudio Mezzadri,2-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
@@ -416,8 +423,20 @@
 24-Apr-1989,Monte Carlo,3,Clay,R32,47,87,1,16,,Jordi Arrese,John Frawley,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Apr-1989,Nice,3,Clay,R16,40,80,0,8,,Fernando Luna,Jordi Arrese,7-6 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Apr-1989,Nice,3,Clay,R32,40,146,1,8,WC,Jordi Arrese,Guillermo Vilas,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1989,Davis Cup WG R1: ESP vs MEX,3,Clay,RR,,,0,,,Leonardo Lavalle,Jordi Arrese,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-3-Feb-1989,Davis Cup WG R1: ESP vs MEX,3,Clay,RR,,,1,,,Jordi Arrese,Francisco Maciel,6-3 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Agadir CH,3,Clay,SF,34,103,0,1,6,Mark Koevermans,Jordi Arrese,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Agadir CH,3,Clay,QF,34,140,1,1,SE,Jordi Arrese,Sergi Bruguera,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Agadir CH,3,Clay,R16,34,183,1,1,,Jordi Arrese,Josef Cihak,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Mar-1989,Agadir CH,3,Clay,R32,34,160,1,1,,Jordi Arrese,Gustavo Giussani,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Mar-1989,Casablanca CH,3,Clay,QF,32,136,0,1,7,Mark Koevermans,Jordi Arrese,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Mar-1989,Casablanca CH,3,Clay,R16,32,213,1,1,Q,Jordi Arrese,Massimo Cierro,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Mar-1989,Casablanca CH,3,Clay,R32,32,161,1,1,,Jordi Arrese,Josef Cihak,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Cairo CH,3,Clay,F,34,349,0,1,Q,Sergi Bruguera,Jordi Arrese,6-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Cairo CH,3,Clay,SF,34,216,1,1,LL,Jordi Arrese,Tomas Carbonell,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Cairo CH,3,Clay,QF,34,196,1,1,Q,Jordi Arrese,Cyril Suk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Cairo CH,3,Clay,R16,34,155,1,1,,Jordi Arrese,Josef Cihak,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Feb-1989,Cairo CH,3,Clay,R32,34,120,1,1,,Jordi Arrese,Mark Koevermans,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1989,Davis Cup WG R1: ESP vs MEX,3,Clay,RR,31,61,0,,,Leonardo Lavalle,Jordi Arrese,6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-1989,Davis Cup WG R1: ESP vs MEX,3,Clay,RR,31,355,1,,,Jordi Arrese,Francisco Maciel,6-3 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Sep-1988,Palermo,3,Clay,R16,32,69,0,5,12,Horacio De La Pena,Jordi Arrese,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Sep-1988,Palermo,3,Clay,R32,32,159,1,5,,Jordi Arrese,Josef Cihak,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Sep-1988,Geneva,3,Clay,QF,36,70,0,3,,Eduardo Bengoechea,Jordi Arrese,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -433,6 +452,10 @@
 25-Jul-1988,Bordeaux,3,Clay,R32,41,103,0,7,,Pablo Arraya,Jordi Arrese,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
 11-Jul-1988,Stuttgart Outdoor,3,Clay,R32,38,29,0,15,,Thomas Muster,Jordi Arrese,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Jul-1988,Gstaad,3,Clay,R32,37,41,0,,,Claudio Mezzadri,Jordi Arrese,6-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Clermont Ferrand CH,3,Clay,SF,42,183,0,1,,Marcelo Ingaramo,Jordi Arrese,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Clermont Ferrand CH,3,Clay,QF,42,168,1,1,,Jordi Arrese,Juan Aguilera,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Clermont Ferrand CH,3,Clay,R16,42,283,1,1,WC,Jordi Arrese,Henrik Sundstrom,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jun-1988,Clermont Ferrand CH,3,Clay,R32,42,157,1,1,,Jordi Arrese,Christer Allgardh,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 23-May-1988,Roland Garros,5,Clay,R64,37,58,0,,,Mark Woodforde,Jordi Arrese,6-4 6-3 5-7 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 23-May-1988,Roland Garros,5,Clay,R128,37,46,1,,,Jordi Arrese,Carl Uwe Steeb,3-6 6-1 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 2-May-1988,Munich,3,Clay,R16,40,25,0,11,6,Guillermo Perez Roldan,Jordi Arrese,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -448,6 +471,22 @@
 11-Apr-1988,Nice,3,Clay,QF,61,122,0,,,Jerome Potier,Jordi Arrese,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-1988,Nice,3,Clay,R16,61,112,1,,,Jordi Arrese,Libor Pimek,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Apr-1988,Nice,3,Clay,R32,61,48,1,,6,Jordi Arrese,Mark Woodforde,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-1988,Agadir CH,3,Clay,F,91,165,1,4,,Jordi Arrese,Franco Davin,1-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+21-Mar-1988,Agadir CH,3,Clay,SF,91,111,1,4,7,Jordi Arrese,Claudio Pistolesi,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+21-Mar-1988,Agadir CH,3,Clay,QF,91,186,1,4,,Jordi Arrese,Markus Rackl,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Mar-1988,Agadir CH,3,Clay,R16,91,127,1,4,,Jordi Arrese,Francisco Yunis,5-7 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Mar-1988,Agadir CH,3,Clay,R32,91,200,1,4,,Jordi Arrese,Massimo Cierro,6-2 5-0 RET,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Marrakech CH,3,Clay,F,91,165,0,,,Franco Davin,Jordi Arrese,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Marrakech CH,3,Clay,SF,91,99,1,,4,Jordi Arrese,Pedro Rebolledo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Marrakech CH,3,Clay,QF,91,132,1,,,Jordi Arrese,Jean Philippe Fleurian,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Marrakech CH,3,Clay,R16,91,153,1,,,Jordi Arrese,Jorgen Windahl,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Mar-1988,Marrakech CH,3,Clay,R32,91,76,1,,2,Jordi Arrese,Josef Cihak,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1988,Cairo CH,3,Clay,F,129,162,1,7,,Jordi Arrese,Carlos Di Laura,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1988,Cairo CH,3,Clay,SF,129,519,1,7,Q,Jordi Arrese,Eduardo Osta,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1988,Cairo CH,3,Clay,QF,129,76,1,7,2,Jordi Arrese,Josef Cihak,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1988,Cairo CH,3,Clay,R16,129,205,1,7,,Jordi Arrese,Jesus Colas,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Mar-1988,Cairo CH,3,Clay,R32,129,633,1,7,WC,Jordi Arrese,Hani Nasser,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Oct-1987,Casablanca CH,3,Clay,R32,122,254,0,5,,Christian Weis,Jordi Arrese,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Sep-1987,Palermo,3,Clay,QF,143,54,0,,7,Karel Novacek,Jordi Arrese,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Sep-1987,Palermo,3,Clay,R16,143,20,1,,2,Jordi Arrese,Guillermo Perez Roldan,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Sep-1987,Palermo,3,Clay,R32,143,367,1,,Q,Jordi Arrese,Alessandro Baldoni,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -460,8 +499,13 @@
 27-Jul-1987,Hilversum,3,Clay,R16,107,38,0,,6,Eduardo Bengoechea,Jordi Arrese,6-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Jul-1987,Hilversum,3,Clay,R32,107,224,1,,Q,Jordi Arrese,Jose Lopez Maeso,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Jul-1987,Boston,3,Clay,R64,93,40,0,,12,Guillermo Perez Roldan,Jordi Arrese,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Clermont Ferrand CH,3,Clay,SF,103,94,0,3,1,Libor Pimek,Jordi Arrese,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Clermont Ferrand CH,3,Clay,QF,103,215,1,3,,Jordi Arrese,Hans Schwaier,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Clermont Ferrand CH,3,Clay,R16,103,194,1,3,,Jordi Arrese,Massimo Cierro,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1987,Clermont Ferrand CH,3,Clay,R32,103,294,1,3,Q,Jordi Arrese,Nevio Devide,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jun-1987,Athens,3,Clay,R16,106,137,0,,,Jaroslav Navratil,Jordi Arrese,2-6 6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 15-Jun-1987,Athens,3,Clay,R32,106,43,1,,3,Jordi Arrese,Eduardo Bengoechea,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1987,Dortmund CH,3,Clay,R32,129,146,0,,,Tore Meinecke,Jordi Arrese,6-1 4-1 DEF,,,,,,,,,,,,,,,,,,,,,
 25-May-1987,Roland Garros,5,Clay,R32,129,39,0,,,Jimmy Arias,Jordi Arrese,4-6 7-6 6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 25-May-1987,Roland Garros,5,Clay,R64,129,16,1,,15,Jordi Arrese,Brad Gilbert,7-5 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 25-May-1987,Roland Garros,5,Clay,R128,129,341,1,,WC,Jordi Arrese,Thierry Van Den Daele,6-3 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -470,6 +514,12 @@
 27-Apr-1987,Hamburg,3,Clay,R32,117,42,0,,12,Eliot Teltscher,Jordi Arrese,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 27-Apr-1987,Hamburg,3,Clay,R64,117,94,1,,,Jordi Arrese,Simone Colombo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Apr-1987,Nice,3,Clay,R32,92,43,0,Q,,Jay Berger,Jordi Arrese,4-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Mar-1987,Agadir CH,3,Clay,SF,94,204,0,5,Q,Lawson Duncan,Jordi Arrese,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Mar-1987,Agadir CH,3,Clay,QF,94,187,1,5,,Jordi Arrese,Jose Lopez Maeso,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-1987,Agadir CH,3,Clay,R16,94,118,1,5,,Jordi Arrese,Paul Vojtischek,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-1987,Agadir CH,3,Clay,R32,94,380,1,5,WC,Jordi Arrese,Arafat Chekrouni,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Mar-1987,Cairo CH,3,Clay,R32,92,168,0,3,,Tore Meinecke,Jordi Arrese,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Oct-1986,Casablanca CH,3,Clay,R32,93,167,0,4,,Hans Schwaier,Jordi Arrese,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
 22-Sep-1986,Barcelona,3,Clay,R32,97,30,0,,10,Milan Srejber,Jordi Arrese,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Sep-1986,Barcelona,3,Clay,R64,97,146,1,,,Jordi Arrese,Hans Schwaier,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Sep-1986,Geneva,3,Clay,R16,102,50,0,,4,Fernando Luna,Jordi Arrese,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -485,6 +535,8 @@
 21-Jul-1986,Boston,3,Clay,R64,146,66,1,Q,15,Jordi Arrese,Christo Steyn,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Jul-1986,Bordeaux,3,Clay,R16,162,28,0,,3,Kent Carlsson,Jordi Arrese,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Jul-1986,Bordeaux,3,Clay,R32,162,170,1,,Q,Jordi Arrese,Simone Colombo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1986,Clermont Ferrand CH,3,Clay,R16,152,171,0,7,,Claudio Panatta,Jordi Arrese,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1986,Clermont Ferrand CH,3,Clay,R32,152,182,1,7,WC,Jordi Arrese,Thierry Pham,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Jun-1986,Athens,3,Clay,R16,171,187,0,,,Claudio Panatta,Jordi Arrese,7-5 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
 16-Jun-1986,Athens,3,Clay,R32,171,107,1,,8,Jordi Arrese,Florin Segarceanu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Jun-1986,Bologna,3,Clay,R32,173,52,0,,7,Horacio De La Pena,Jordi Arrese,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -494,6 +546,13 @@
 14-Apr-1986,Nice,3,Clay,QF,235,135,1,Q,Q,Jordi Arrese,Florin Segarceanu,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Apr-1986,Nice,3,Clay,R16,235,29,1,Q,5,Jordi Arrese,Andreas Maurer,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
 14-Apr-1986,Nice,3,Clay,R32,235,71,1,Q,,Jordi Arrese,Marcelo Ingaramo,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Feb-1986,Cairo CH,3,Clay,R32,145,306,1,8,,Jordi Arrese,Oliver Freund,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Nov-1985,Sao Paulo CH,3,Clay,R16,163,169,0,,3,Cassio Motta,Jordi Arrese,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Nov-1985,Sao Paulo CH,3,Clay,R32,163,214,1,,WC,Jordi Arrese,Carlos Kirmayr,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Nov-1985,Curitiba CH,3,Clay,R32,174,195,0,,WC,Carlos Di Laura,Jordi Arrese,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-1985,Porto Alegre CH,3,Clay,QF,174,279,0,,Q,Mikael Pernfors,Jordi Arrese,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-1985,Porto Alegre CH,3,Clay,R16,174,124,1,,5,Jordi Arrese,Pedro Rebolledo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-1985,Porto Alegre CH,3,Clay,R32,174,,1,,WC,Jordi Arrese,Joao Zwetsch,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Sep-1985,Barcelona,3,Clay,R64,155,36,0,,11,Andreas Maurer,Jordi Arrese,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Sep-1985,Bordeaux,3,Clay,R32,163,209,0,,,Blaine Willenborg,Jordi Arrese,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 22-Jul-1985,Indianapolis,3,Clay,R64,128,107,0,,,Pedro Rebolledo,Jordi Arrese,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -505,6 +564,15 @@
 27-May-1985,Roland Garros,5,Clay,R128,151,109,1,,,Jordi Arrese,Givaldo Barbosa,6-4 3-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 13-May-1985,Rome,3,Clay,R64,136,59,0,Q,WC,Claudio Panatta,Jordi Arrese,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Apr-1985,Bari,3,Clay,R32,137,250,0,Q,,Paolo Cane,Jordi Arrese,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Apr-1985,Marrakech CH,3,Clay,QF,153,229,0,,Q,Goran Prpic,Jordi Arrese,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-1985,Marrakech CH,3,Clay,R16,153,132,1,,4,Jordi Arrese,Marcel Freeman,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Apr-1985,Marrakech CH,3,Clay,R32,153,175,1,,,Jordi Arrese,David Mustard,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-1985,Tunis CH,3,Clay,R16,165,23,0,Q,2,Libor Pimek,Jordi Arrese,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-1985,Tunis CH,3,Clay,R32,165,451,1,Q,WC,Jordi Arrese,Houcine Saber,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1985,Cairo CH,3,Clay,SF,222,75,0,,4,Fernando Luna,Jordi Arrese,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1985,Cairo CH,3,Clay,QF,222,111,1,,8,Jordi Arrese,Peter Elter,2-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1985,Cairo CH,3,Clay,R16,222,129,1,,,Jordi Arrese,Juan Avendano,2-6 7-6 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1985,Cairo CH,3,Clay,R32,222,63,1,,1,Jordi Arrese,Pablo Arraya,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Oct-1984,Barcelona,3,Clay,R32,224,62,0,,16,Thierry Tulasne,Jordi Arrese,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
 1-Oct-1984,Barcelona,3,Clay,R64,224,230,1,,,Jordi Arrese,Lorenzo Fargas,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 10-Sep-1984,Palermo,3,Clay,QF,279,37,0,,4,Francesco Cancellotti,Jordi Arrese,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -513,4 +581,14 @@
 30-Jul-1984,North Conway,3,Clay,R64,282,55,0,,,Cassio Motta,Jordi Arrese,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Jul-1984,Washington,3,Clay,R64,291,48,0,Q,13,Pablo Arraya,Jordi Arrese,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Jul-1984,Boston,3,Clay,R64,292,45,0,Q,12,Fernando Luna,Jordi Arrese,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Jul-1983,Washington,3,Clay,R64,831,66,0,,,Harold Solomon,Jordi Arrese,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Brescia CH,3,Clay,F,,,0,Q,1,Christophe Roger Vasselin,Jordi Arrese,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Brescia CH,3,Clay,SF,,,1,Q,Q,Jordi Arrese,Jorge Bardou,6-0 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Brescia CH,3,Clay,QF,,,1,Q,,Jordi Arrese,Martin Jaite,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Brescia CH,3,Clay,R16,,,1,Q,,Jordi Arrese,Alejandro Ganzabal,6-7 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Jun-1984,Brescia CH,3,Clay,R32,,,1,Q,,Jordi Arrese,Jacques Hervet,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Jun-1984,Bielefeld CH,3,Clay,R16,,,0,,,Jose Lopez Maeso,Jordi Arrese,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jun-1984,Bielefeld CH,3,Clay,R32,,,1,,15,Jordi Arrese,Ferrante Rocchi,6-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Jun-1984,Bielefeld CH,3,Clay,R64,,,1,,,Jordi Arrese,Peter Johnston,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Jul-1983,Washington,3,Clay,R64,,,0,,,Harold Solomon,Jordi Arrese,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-1983,Bari CH,3,Clay,R16,,,0,,,Francesco Cancellotti,Jordi Arrese,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Apr-1983,Bari CH,3,Clay,R32,,,1,,,Jordi Arrese,Ivan Camus,7-6 3-6 6-4,,,,,,,,,,,,,,,,,,,,,

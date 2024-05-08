@@ -1,4 +1,36 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,M25 Sabadell,3,Clay,SF,270,515,0,4,,Miguel Damas,Andrea Collarini,3-0 RET,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Sabadell,3,Clay,QF,270,407,1,4,,Andrea Collarini,Eric Vanshelboim,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Sabadell,3,Clay,R16,270,827,1,4,Q,Andrea Collarini,Iliyan Radulov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Sabadell,3,Clay,R32,270,488,1,4,WC,Andrea Collarini,Imanol Lopez Morillo,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,F,312,384,1,3,5,Andrea Collarini,Hernan Casanova,6-4 7-6(3),1.13,0.0%,5.1%,67.9%,66.0%,52.0%,9/11,52.6%,43.4%,0.0%,31.0%,83.3%,3/8,154,0,4,78,53,25,0,2:15
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,SF,312,,1,3,WC,Andrea Collarini,Lautaro Midon,6-1 7-6(5),1.35,3.4%,5.2%,70.7%,65.9%,58.8%,6/8,54.9%,48.8%,1.2%,50.0%,46.2%,5/11,144,2,3,58,41,17,1,2:05
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,QF,312,430,1,3,6,Andrea Collarini,Gonzalo Villanueva,6-3 6-2,1.50,5.3%,3.5%,78.9%,64.4%,75.0%,3/4,58.7%,50.0%,1.9%,54.8%,42.9%,4/5,109,3,2,57,45,12,1,1:34
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,312,447,1,3,,Andrea Collarini,Lorenzo Joaquin Rodriguez,6-4 4-6 6-4,1.13,1.1%,9.2%,72.4%,69.8%,41.7%,8/12,52.2%,43.0%,9.7%,35.2%,53.8%,5/10,180,1,8,87,63,24,9,2:34
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,312,611,1,3,,Andrea Collarini,Tomas Farjat,6-3 6-3,1.60,5.6%,3.7%,72.2%,71.8%,66.7%,2/3,58.3%,47.5%,6.6%,37.8%,62.5%,4/11,115,3,2,54,39,15,4,1:23
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R16,274,231,0,,,Enzo Couacaud,Andrea Collarini,6-1 3-6 6-4,0.82,2.1%,1.1%,72.3%,52.9%,50.0%,6/12,46.2%,39.2%,3.8%,29.3%,50.0%,4/8,173,2,1,94,68,26,3,2:25
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R32,274,304,1,,,Andrea Collarini,Alexander Weis,6-3 6-4,1.27,3.9%,1.3%,72.4%,70.9%,57.1%,3/3,54.7%,41.7%,4.2%,32.7%,60.9%,2/11,148,3,1,76,55,21,3,2:06
+18-Mar-2024,Asuncion CH,3,Clay,R32,274,161,0,,2,Roman Andres Burruchaga,Andrea Collarini,6-4 6-4,0.84,0.0%,4.1%,63.5%,55.3%,44.4%,6/10,46.2%,40.8%,1.4%,26.5%,54.1%,2/4,145,0,3,74,47,27,1,2:14
+11-Mar-2024,Santiago CH,3,Clay,R16,283,240,0,,,Gustavo Heide,Andrea Collarini,7-5 6-1,0.83,2.0%,3.9%,78.4%,57.5%,45.5%,3/7,44.9%,37.3%,7.5%,28.9%,48.3%,1/6,118,1,2,51,40,11,5,1:38
+11-Mar-2024,Santiago CH,3,Clay,R32,283,241,1,,,Andrea Collarini,Edoardo Lavagno,6-3 6-1,1.86,4.7%,2.3%,81.4%,74.3%,50.0%,2/3,62.2%,56.4%,0.0%,58.3%,52.6%,5/9,98,2,1,43,35,8,0,1:14
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,R32,283,304,0,,,Matheus Pucinelli De Almeida,Andrea Collarini,6-1 6-1,0.65,2.1%,4.2%,64.6%,51.6%,29.4%,2/7,39.6%,36.5%,1.6%,31.6%,44.0%,0/9,111,1,2,48,31,17,1,1:34
+5-Feb-2024,Cordoba,3,Clay,Q2,294,136,0,,2,Luciano Darderi,Andrea Collarini,6-3 7-6(3),0.80,1.7%,5.0%,78.3%,57.4%,53.8%,0/3,44.7%,34.7%,5.6%,22.2%,47.2%,2/3,132,1,3,60,47,13,4,1:53
+5-Feb-2024,Cordoba,3,Clay,Q1,294,172,1,,6,Andrea Collarini,Ivan Gakhov,7-6(5) 6-1,1.31,0.0%,3.1%,60.9%,66.7%,68.0%,1/2,55.0%,43.1%,6.2%,38.5%,50.0%,4/5,129,0,2,64,39,25,4,1:47
+22-Jan-2024,Punta Del Este CH,3,Clay,R32,236,245,0,,Alt,Gustavo Heide,Andrea Collarini,6-3 6-3,0.60,2.9%,4.4%,63.2%,62.8%,44.0%,8/11,43.0%,26.4%,5.7%,13.5%,56.3%,0/1,121,2,3,68,43,25,3,1:42
+15-Jan-2024,Buenos Aires CH,3,Clay,QF,236,358,0,4,SE,Dmitry Popko,Andrea Collarini,6-4 6-4,0.81,0.0%,4.8%,58.1%,52.8%,53.8%,2/6,45.1%,38.0%,7.0%,25.0%,51.4%,2/7,133,0,3,62,36,26,5,1:54
+15-Jan-2024,Buenos Aires CH,3,Clay,R16,236,292,1,4,,Andrea Collarini,Nikolas Sanchez Izquierdo,3-6 6-2 6-3,1.31,0.0%,7.9%,59.2%,73.3%,61.3%,2/4,54.4%,41.5%,0.0%,39.3%,46.2%,4/10,158,0,6,76,45,31,0,2:19
+15-Jan-2024,Buenos Aires CH,3,Clay,R32,236,341,1,4,Q,Andrea Collarini,Hernan Casanova,6-0 6-4,1.35,1.4%,6.9%,50.0%,55.6%,63.9%,7/8,57.3%,54.2%,0.0%,52.4%,58.8%,5/11,131,1,5,72,36,36,0,1:44
+15-Jan-2024,Australian Open,5,Hard,Q1,236,157,0,,,Harold Mayot,Andrea Collarini,7-6(5) 6-3,0.91,3.8%,6.4%,66.7%,75.0%,46.2%,3/4,47.6%,31.4%,4.7%,32.7%,29.4%,0/4,164,3,5,78,52,26,4,1:56
+13-Nov-2023,Montevideo CH,3,Clay,R16,224,106,0,,3,Tomas Barrios Vera,Andrea Collarini,6-3 6-2,0.64,0.0%,7.5%,50.9%,70.4%,42.3%,1/4,42.1%,27.8%,1.9%,22.5%,42.9%,0/4,107,0,4,53,27,26,1,1:32
+13-Nov-2023,Montevideo CH,3,Clay,R32,224,631,1,,WC,Andrea Collarini,Franco Roncadelli,5-7 6-3 6-2,1.08,1.8%,1.8%,67.3%,63.2%,48.6%,5/9,52.9%,44.9%,2.6%,39.7%,60.0%,6/7,191,2,2,113,76,37,2,2:28
+16-Oct-2023,Santa Fe CH,3,Clay,R32,213,238,0,,Alt,Marco Trungelliti,Andrea Collarini,6-3 6-4,1.10,4.3%,4.3%,61.7%,65.5%,77.8%,0/2,47.9%,32.9%,5.7%,21.4%,50.0%,0/5,117,2,2,47,29,18,4,1:32
+9-Oct-2023,Buenos Aires CH,3,Clay,R32,217,102,0,,2,Juan Manuel Cerundolo,Andrea Collarini,6-3 6-3,0.78,0.0%,6.3%,69.8%,47.7%,31.6%,4/10,43.6%,44.4%,0.0%,47.2%,38.9%,3/3,117,0,4,63,44,19,0,1:28
+2-Oct-2023,Campinas CH,3,Clay,R32,217,437,0,,Q,Orlando Luz,Andrea Collarini,6-3 6-2,0.75,1.7%,3.4%,69.5%,56.1%,50.0%,1/4,43.7%,34.3%,10.4%,27.0%,43.3%,0/5,126,1,2,59,41,18,7,1:33
+18-Sep-2023,Antofagasta CH,3,Clay,R32,210,304,0,,,Joao Lucas Reis Da Silva,Andrea Collarini,7-6(5) 6-2,0.94,1.4%,1.4%,72.2%,57.7%,60.0%,6/10,48.1%,39.0%,2.4%,35.8%,44.8%,2/8,154,1,1,72,52,20,2,2:00
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,SF,235,150,0,,5,Francisco Comesana,Andrea Collarini,5-7 6-4 6-4,0.87,0.0%,3.8%,84.8%,59.6%,43.8%,13/18,48.0%,37.4%,3.3%,29.8%,50.0%,4/7,196,0,4,105,89,16,3,2:38
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,QF,235,493,1,,Q,Andrea Collarini,Facundo Mena,6-3 7-6(6),1.26,1.5%,1.5%,70.8%,69.6%,47.4%,3/6,54.5%,46.4%,5.8%,34.1%,64.3%,5/7,134,1,1,65,46,19,4,1:47
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R16,235,630,1,,WC,Andrea Collarini,Juan Ignacio Londero,W/O,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,Santa Cruz De La Sierra CH,3,Clay,R32,235,141,1,,3,Andrea Collarini,Hugo Dellien,7-6(4) 6-4,1.10,1.3%,5.3%,76.0%,68.4%,38.9%,8/11,52.0%,42.7%,4.0%,38.5%,52.2%,4/11,150,1,4,75,57,18,3,1:58
 28-Aug-2023,US Open,5,Hard,Q1,231,144,0,,,Pablo Llamas Ruiz,Andrea Collarini,6-3 6-3,0.54,1.4%,8.7%,69.6%,62.5%,42.9%,7/10,43.1%,23.4%,6.4%,17.6%,38.5%,0/0,116,1,6,69,48,21,3,1:22
 7-Aug-2023,Cordenons CH,3,Clay,R32,224,572,0,6,,Federico Iannaccone,Andrea Collarini,6-2 2-0 RET,0.69,6.3%,6.3%,53.1%,58.8%,40.0%,3/6,41.8%,34.3%,0.0%,29.2%,45.5%,0/3,67,2,2,32,17,15,0,1:04
 31-Jul-2023,San Marino CH,3,Clay,R32,215,124,0,,4,Fabio Fognini,Andrea Collarini,6-0 6-1,0.59,0.0%,5.0%,70.0%,46.4%,16.7%,4/9,37.0%,36.7%,0.0%,36.4%,37.0%,0/6,100,0,2,40,28,12,0,1:15

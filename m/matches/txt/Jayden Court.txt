@@ -1,4 +1,32 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+18-Mar-2024,M25 Swan Hill,3,Grass,R32,889,362,0,,5,Rio Noguchi,Jayden Court,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Mildura,3,Grass,R32,903,294,0,,2,Luke Saville,Jayden Court,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Traralgon,3,Hard,R16,896,520,0,,,Andre Ilagan,Jayden Court,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Traralgon,3,Hard,R32,896,395,1,,7,Jayden Court,Christian Langmo,3-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Traralgon,3,Hard,R32,899,296,0,WC,5,Luke Saville,Jayden Court,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,Burnie 2 CH,3,Hard,Q1,896,529,0,,1,Yuki Mochizuki,Jayden Court,6-2 6-2,0.61,21.4%,0.0%,78.6%,60.6%,33.3%,1/5,40.4%,27.7%,4.3%,29.4%,23.1%,0/0,89,9,0,42,33,9,2,0:54
+29-Jan-2024,Burnie CH,3,Hard,Q1,897,1287,0,10,Alt,Corey Gaal,Jayden Court,6-3 2-6 6-4,1.14,6.9%,4.2%,56.9%,75.6%,54.8%,0/2,50.3%,37.9%,6.3%,29.0%,54.5%,2/5,167,5,3,72,41,31,6,2:02
+18-Dec-2023,M15 Papamoa,3,,R32,960,1177,0,9,,Corban Crowther,Jayden Court,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,,SF,960,1314,0,8,,Matt Kuhar,Jayden Court,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,,QF,960,1590,1,8,Q,Jayden Court,Samuel Brosset,4-6 7-6(5) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,,R16,960,1987,1,8,Q,Jayden Court,Mason Naumovski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,,R32,960,1122,1,8,,Jayden Court,Alexander Klintcharov,5-7 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R16,966,587,0,,7,Makoto Ochi,Jayden Court,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R32,966,1748,1,,WC,Jayden Court,Joshua Charlton,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,,R32,970,1966,0,,Q,Matt Hulme,Jayden Court,4-6 7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Sydney CH,3,Hard,Q1,975,457,0,WC,8,Hiroki Moriya,Jayden Court,6-3 3-6 6-4,0.94,14.9%,11.5%,59.8%,78.8%,42.9%,6/9,49.1%,33.3%,2.4%,27.5%,42.4%,2/5,171,13,10,87,52,35,2,1:59
+23-Oct-2023,Playford CH,3,Hard,R32,1073,223,0,Q,6,Seong Chan Hong,Jayden Court,7-6(7) 6-3,0.80,1.4%,5.8%,68.1%,74.5%,45.5%,0/2,46.1%,27.8%,11.1%,26.4%,31.6%,0/4,141,1,4,69,47,22,8,1:43
+23-Oct-2023,Playford CH,3,Hard,Q2,1073,855,1,,,Jayden Court,Koki Matsuda,7-5 7-6(5),1.05,11.2%,6.7%,61.8%,78.2%,41.2%,3/4,51.5%,37.8%,7.3%,30.0%,59.1%,2/4,171,10,6,89,55,34,6,1:57
+23-Oct-2023,Playford CH,3,Hard,Q1,1073,438,1,,1,Jayden Court,Jose Rubin Statham,7-6(4) 6-2,1.44,18.2%,7.6%,66.7%,70.5%,59.1%,2/4,56.9%,47.9%,1.4%,47.5%,48.4%,4/7,137,12,5,66,44,22,1,1:39
+9-Oct-2023,M25 Cairns,3,Hard,R32,1086,844,0,Q,,Kody Pearson,Jayden Court,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Cairns,3,Hard,R32,1086,403,0,WC,2,Blake Ellis,Jayden Court,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,SF,,714,0,WC,6,Jake Delaney,Jayden Court,7-5 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,QF,,1532,1,WC,Q,Jayden Court,Scott Jones,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,R16,,450,1,WC,3,Jayden Court,Thomas Fancutt,7-6(3) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Darwin,3,Hard,R32,,,1,WC,WC,Jayden Court,Blake Bayldon,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Darwin,3,Hard,R16,,690,0,Q,3,Blake Mott,Jayden Court,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Darwin,3,Hard,R32,,1150,1,Q,,Jayden Court,Alexander Klintcharov,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Jul-2023,M15 Caloundra,3,Hard,R32,,,0,Q,WC,Jeremy Zhang,Jayden Court,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 23-May-2022,M15 Monastir,3,Hard,R32,1683,932,0,LL,,Abhinav Sanjeev Shanmugam,Jayden Court,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 16-May-2022,M25 Monastir,3,Hard,R32,1661,316,0,,2,Aidan Mchugh,Jayden Court,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 9-May-2022,M15 Monastir,3,Hard,R32,1681,,0,LL,WC,Aoran Wang,Jayden Court,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -16,7 +44,7 @@
 19-Aug-2019,M15 Jakarta,3,Hard,R16,1054,468,0,,,Renta Tokuda,Jayden Court,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2019,M15 Jakarta,3,Hard,R32,1054,1269,1,,Q,Jayden Court,Dhruv Sunish,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2019,M15 Jakarta,3,Hard,R32,1048,703,0,Q,,Emiliano Maggioli,Jayden Court,6-1 RET,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2019,M25 Hong Kong,3,Hard,R16,,621,0,,,Yuki Mochiduki,Jayden Court,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2019,M25 Hong Kong,3,Hard,R16,,621,0,,,Yuki Mochizuki,Jayden Court,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
 10-Jun-2019,M25 Hong Kong,3,Hard,R32,,531,1,,8,Jayden Court,Wishaya Trongcharoenchaikul,6-4 RET,,,,,,,,,,,,,,,,,,,,,
 27-May-2019,M25 Nonthaburi,3,Hard,R32,,,0,IR  ,,Jose Fco Vidal Azorin,Jayden Court,6-7(4) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 20-May-2019,M25 Nonthaburi,3,Hard,R16,,422,0,Q,,Shuichi Sekiguchi,Jayden Court,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

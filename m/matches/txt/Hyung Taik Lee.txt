@@ -1,21 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
 27-Apr-2015,An-Ning CH,3,Clay,R32,1422,207,0,Q,3,Jordan Thompson,Hyung Taik Lee,6-3 6-2,0.55,2.1%,6.4%,63.8%,63.3%,47.1%,3/6,39.8%,23.5%,5.9%,16.7%,33.3%,0/1,98,1,3,47,30,17,3,1:08
-28-Apr-2014,Korea F2,3,Hard,QF,UNR,504,0,WC,,Takuto Niki,Hyung Taik Lee,W/O,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2014,Korea F2,3,Hard,QF,UNR,504,0,WC,,Takuto Niki,Hyung Taik Lee,W/O,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2014,Korea F2,3,Hard,R16,UNR,709,1,WC,,Hyung Taik Lee,Masato Shiga,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2014,Korea F2,3,Hard,R16,UNR,709,1,WC,,Hyung Taik Lee,Masato Shiga,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2014,Korea F2,3,Hard,R32,UNR,350,1,WC,3,Hyung Taik Lee,Maximilian Neuchrist,7-6(10) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2014,Korea F2,3,Hard,R32,UNR,350,1,WC,3,Hyung Taik Lee,Maximilian Neuchrist,7-6(10) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Korea F2,3,Hard,QF,,504,0,WC,,Takuto Niki,Hyung Taik Lee,W/O,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Korea F2,3,Hard,R16,,709,1,WC,,Hyung Taik Lee,Masato Shiga,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Apr-2014,Korea F2,3,Hard,R32,,350,1,WC,3,Hyung Taik Lee,Maximilian Neuchrist,7-6(10) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Oct-2009,Seoul CH,3,Hard,R32,211,775,0,6,WC,Soong Jae Cho,Hyung Taik Lee,6-4 0-1 RET,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2009,Davis Cup G1 PO: KOR vs CHN,3,Hard,RR,153,542,1,,,Hyung Taik Lee,Shao Xuan Zeng,6-3 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Mar-2009,Bangkok CH,3,Hard,R16,UNR,UNR,0,2,,Marsel Ilhan,Hyung Taik Lee,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
-16-Mar-2009,Bangkok CH,3,Hard,R32,UNR,UNR,1,2,Q,Hyung Taik Lee,Tim Smyczek,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Bangkok CH,3,Hard,R16,110,223,0,2,,Marsel Ilhan,Hyung Taik Lee,6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,Bangkok CH,3,Hard,R32,110,340,1,2,Q,Hyung Taik Lee,Tim Smyczek,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Mar-2009,Kyoto CH,3,Carpet,R32,110,333,0,2,,Tatsuma Ito,Hyung Taik Lee,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-6-Mar-2009,Davis Cup G1 R2: UZB vs KOR,3,Clay,RR,113,104,0,,,Denis Istomin,Hyung Taik Lee,6-3 1-6 6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2009,Davis Cup G1 R2: UZB vs KOR,3,Clay,RR,113,654,1,,,Hyung Taik Lee,Farrukh Dustov,7-5 7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2009,Carson CH,3,Hard,R16,UNR,UNR,0,3,Q,Cecil Mamiit,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jan-2009,Carson CH,3,Hard,R32,UNR,UNR,1,3,,Hyung Taik Lee,Brendan Evans,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-19-Jan-2009,Australian Open Q,3,Hard,Q1,113,246,0,7,,Marc Lopez,Hyung Taik Lee,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Mar-2009,Davis Cup G1 R2: UZB vs KOR,3,Clay,RR,113,104,0,,,Denis Istomin,Hyung Taik Lee,6-3 1-6 6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,R16,113,461,0,3,Q,Cecil Mamiit,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jan-2009,Carson CH,3,Hard,R32,113,156,1,3,,Hyung Taik Lee,Brendan Evans,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Jan-2009,Australian Open,5,Hard,Q1,113,246,0,7,,Marc Lopez,Hyung Taik Lee,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jan-2009,Chennai,3,Hard,R32,115,55,0,,8,Marcel Granollers,Hyung Taik Lee,6-4 7-5,0.85,0.0%,3.7%,55.6%,60.0%,50.0%,7/11,47.1%,37.8%,9.5%,29.7%,45.9%,2/6,155,0,3,81,45,36,7,1:53
 24-Nov-2008,Toyota CH,3,Carpet,F,118,119,0,2,1,Go Soeda,Hyung Taik Lee,6-2 7-6(7),,,,,,,,,,,,,,,,,,,,,
 24-Nov-2008,Toyota CH,3,Carpet,SF,118,258,1,2,,Hyung Taik Lee,Sebastien De Chaunac,7-6(2) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -38,8 +35,8 @@
 29-Sep-2008,Tokyo,3,Hard,R32,155,35,0,,12,Rainer Schuettler,Hyung Taik Lee,6-3 6-7(3) 6-3,0.93,2.1%,1.1%,69.1%,56.9%,51.7%,4/10,47.6%,41.4%,8.6%,30.9%,56.3%,4/12,210,2,1,94,65,29,10,2:15
 29-Sep-2008,Tokyo,3,Hard,R64,155,339,1,,WC,Hyung Taik Lee,Satoshi Iwabuchi,6-1 6-4,1.68,9.1%,0.0%,65.9%,72.4%,53.3%,1/3,60.7%,57.1%,7.9%,50.0%,73.7%,6/12,107,4,0,44,29,15,5,1:05
 22-Sep-2008,Beijing,3,Hard,R32,154,105,0,,,Ivo Minar,Hyung Taik Lee,6-3 3-6 6-2,0.70,2.4%,3.6%,56.0%,57.4%,48.6%,10/15,44.1%,32.4%,4.4%,26.8%,40.7%,3/5,152,2,3,84,47,37,3,1:31
-19-Sep-2008,Davis Cup WG PO: NED vs KOR,3,Clay,RR,154,181,1,,,Hyung Taik Lee,Jesse Huta Galung,1-6 6-1 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Sep-2008,Davis Cup WG PO: NED vs KOR,3,Clay,RR,154,252,1,,,Hyung Taik Lee,Thiemo De Bakker,6-4 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Sep-2008,Davis Cup WG PO: NED vs KOR,3,Clay,RR,154,181,1,,,Hyung Taik Lee,Jesse Huta Galung,1-6 6-1 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Sep-2008,Bucharest,3,Clay,R32,142,56,0,,,Albert Montanes,Hyung Taik Lee,6-1 7-6(4),0.62,0.0%,3.4%,63.8%,62.2%,47.6%,2/5,41.5%,26.7%,5.0%,19.4%,34.5%,1/2,118,0,2,58,37,21,3,1:15
 25-Aug-2008,US Open,5,Hard,R128,101,31,0,,31,Andreas Seppi,Hyung Taik Lee,6-3 7-5 3-6 3-6 6-3,0.91,4.1%,4.8%,64.8%,61.7%,43.1%,6/15,47.9%,40.7%,7.6%,30.9%,53.1%,8/13,290,6,7,145,94,51,11,2:57
 11-Aug-2008,Beijing Olympics,3,Hard,R64,96,447,0,,WC,Rafael Arevalo,Hyung Taik Lee,4-6 6-3 6-4,0.90,2.2%,1.1%,63.3%,63.2%,63.6%,5/8,48.1%,33.0%,5.5%,28.8%,40.6%,2/7,181,2,1,90,57,33,5,2:09
@@ -53,13 +50,13 @@
 28-Apr-2008,Munich,3,Clay,R32,55,278,1,,Q,Hyung Taik Lee,Rainer Eitzinger,1-6 7-5 6-2,0.96,0.0%,3.0%,65.3%,60.6%,54.3%,10/13,50.0%,40.0%,0.0%,41.0%,37.5%,4/6,186,0,3,101,66,35,0,2:00
 20-Apr-2008,Monte Carlo Masters,3,Clay,R64,53,17,0,,11,Juan Monaco,Hyung Taik Lee,6-0 7-5,0.69,1.6%,8.2%,54.1%,51.5%,35.7%,3/9,41.4%,38.2%,3.6%,40.5%,30.8%,2/6,116,1,5,61,33,28,2,1:15
 27-Mar-2008,Miami Masters,3,Hard,R128,48,61,0,,,Dudi Sela,Hyung Taik Lee,6-4 6-3,0.90,5.6%,5.6%,68.5%,64.9%,58.8%,2/5,46.7%,33.3%,0.0%,29.3%,40.0%,0/5,120,3,3,54,37,17,0,1:16
-13-Mar-2008,Indian Wells Masters,3,Hard,R16,52,35,0,,,Stanislas Wawrinka,Hyung Taik Lee,6-1 5-7 6-4,0.77,1.0%,1.9%,64.8%,64.7%,43.2%,11/16,46.3%,32.9%,4.7%,20.4%,50.0%,3/5,190,1,2,105,68,37,4,2:21
+13-Mar-2008,Indian Wells Masters,3,Hard,R16,52,35,0,,,Stan Wawrinka,Hyung Taik Lee,6-1 5-7 6-4,0.77,1.0%,1.9%,64.8%,64.7%,43.2%,11/16,46.3%,32.9%,4.7%,20.4%,50.0%,3/5,190,1,2,105,68,37,4,2:21
 13-Mar-2008,Indian Wells Masters,3,Hard,R32,52,5,1,,5,Hyung Taik Lee,David Ferrer,7-6(5) 6-7(5) 7-6(3),1.03,3.1%,0.0%,59.8%,65.8%,60.8%,4/8,50.6%,37.3%,3.2%,30.6%,51.2%,4/14,253,4,0,127,76,51,4,2:50
 13-Mar-2008,Indian Wells Masters,3,Hard,R64,52,26,1,,26,Hyung Taik Lee,Jarkko Nieminen,4-6 7-6(5) 6-3,1.09,5.6%,6.5%,63.9%,62.3%,41.0%,9/15,52.1%,49.5%,2.8%,42.0%,62.5%,7/14,217,6,7,108,69,39,3,2:07
 13-Mar-2008,Indian Wells Masters,3,Hard,R128,52,38,1,,,Hyung Taik Lee,Michael Llodra,6-2 6-3,1.34,4.8%,4.8%,60.3%,73.7%,48.0%,2/3,57.5%,48.8%,2.3%,34.6%,70.6%,4/5,106,3,3,63,38,25,1,1:09
 11-Feb-2008,Marseille,3,Hard,R32,46,15,0,,5,Juan Carlos Ferrero,Hyung Taik Lee,6-4 6-1,0.75,2.1%,5.3%,62.1%,59.3%,33.3%,13/18,45.3%,37.7%,13.2%,27.0%,62.5%,1/6,148,2,5,95,59,36,7,1:27
-8-Feb-2008,Davis Cup WG R1: GER vs KOR,3,Clay,RR,44,28,0,,,Philipp Kohlschreiber,Hyung Taik Lee,6-0 4-6 6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
 8-Feb-2008,Davis Cup WG R1: GER vs KOR,3,Clay,RR,44,68,1,,,Hyung Taik Lee,Florian Mayer,7-5 6-3 1-6 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2008,Davis Cup WG R1: GER vs KOR,3,Clay,RR,44,28,0,,,Philipp Kohlschreiber,Hyung Taik Lee,6-0 4-6 6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
 14-Jan-2008,Australian Open,5,Hard,R64,47,7,0,,7,Fernando Gonzalez,Hyung Taik Lee,4-6 6-3 6-2 6-4,0.91,4.3%,3.4%,60.3%,62.9%,45.7%,10/17,47.7%,40.0%,12.0%,36.5%,45.1%,4/12,241,5,4,116,70,46,15,2:36
 14-Jan-2008,Australian Open,5,Hard,R128,47,91,1,,,Hyung Taik Lee,Chris Guccione,7-6(6) 6-3 6-4,1.29,7.7%,0.0%,58.2%,84.9%,63.2%,0/0,53.3%,31.2%,17.2%,22.0%,47.1%,2/9,184,7,0,91,53,38,16,1:54
 7-Jan-2008,Auckland,3,Hard,R32,46,54,0,,,Michael Llodra,Hyung Taik Lee,6-1 6-4,0.41,1.8%,5.4%,58.9%,66.7%,39.1%,2/5,39.0%,18.2%,11.4%,14.3%,25.0%,0/0,100,1,3,56,33,23,5,1:03
@@ -80,7 +77,7 @@
 27-Aug-2007,US Open,5,Hard,R32,43,19,1,,19,Hyung Taik Lee,Andy Murray,6-3 6-3 2-6 7-5,1.21,4.3%,2.6%,64.1%,73.3%,47.6%,3/7,52.7%,43.3%,10.6%,40.0%,47.0%,6/16,258,5,3,117,75,42,15,2:43
 27-Aug-2007,US Open,5,Hard,R64,43,14,1,,14,Hyung Taik Lee,Guillermo Canas,7-5 7-5 6-3,1.25,3.0%,3.0%,62.6%,74.2%,51.4%,3/6,54.3%,43.0%,16.0%,23.4%,60.4%,6/12,199,3,3,99,62,37,16,2:22
 27-Aug-2007,US Open,5,Hard,R128,43,36,1,,,Hyung Taik Lee,Dominik Hrbaty,6-7(4) 6-4 7-5 6-7(6) 6-4,1.06,6.6%,2.7%,59.9%,68.8%,42.5%,8/16,51.1%,44.3%,6.3%,35.1%,56.8%,11/23,374,12,5,182,109,73,12,3:58
-5-Aug-2007,Canada Masters,3,Hard,R64,36,53,0,,,Stanislas Wawrinka,Hyung Taik Lee,6-3 3-6 6-1,0.96,0.0%,3.1%,66.2%,65.1%,68.2%,3/6,47.6%,32.5%,13.8%,15.8%,47.6%,1/5,145,0,2,65,43,22,11,1:38
+5-Aug-2007,Canada Masters,3,Hard,R64,36,53,0,,,Stan Wawrinka,Hyung Taik Lee,6-3 3-6 6-1,0.96,0.0%,3.1%,66.2%,65.1%,68.2%,3/6,47.6%,32.5%,13.8%,15.8%,47.6%,1/5,145,0,2,65,43,22,11,1:38
 29-Jul-2007,Washington,3,Hard,QF,38,5,0,5,1,Andy Roddick,Hyung Taik Lee,7-6(6) 6-2,0.65,6.1%,0.0%,59.1%,66.7%,59.3%,5/7,44.2%,23.8%,25.4%,20.5%,31.6%,0/2,129,4,0,66,39,27,16,1:25
 29-Jul-2007,Washington,3,Hard,R16,38,57,1,5,11,Hyung Taik Lee,Julien Benneteau,2-6 6-2 6-3,1.25,4.1%,1.4%,60.8%,75.6%,51.7%,3/6,54.0%,42.1%,18.4%,25.6%,63.6%,4/8,150,3,1,74,45,29,14,1:40
 29-Jul-2007,Washington,3,Hard,R32,38,95,1,5,,Hyung Taik Lee,Igor Kunitsyn,6-7(7) 6-3 6-1,1.62,10.5%,1.2%,61.6%,79.2%,66.7%,0/0,57.2%,41.5%,1.1%,33.3%,54.1%,4/11,180,9,1,86,53,33,1,2:08
@@ -131,8 +128,8 @@
 2-Oct-2006,Tokyo,3,Hard,R16,57,20,1,9,6,Hyung Taik Lee,Dmitry Tursunov,6-4 2-6 6-4,1.29,9.1%,0.0%,77.3%,80.4%,40.0%,2/5,52.0%,37.2%,7.0%,32.7%,44.1%,3/6,152,6,0,66,51,15,6,1:38
 2-Oct-2006,Tokyo,3,Hard,R32,57,109,1,9,,Hyung Taik Lee,Kristian Pless,7-5 6-1,1.65,9.4%,1.9%,84.9%,77.8%,37.5%,1/1,58.3%,46.8%,8.1%,38.6%,66.7%,4/5,115,5,1,53,45,8,5,1:01
 25-Sep-2006,Bangkok,3,Hard,R32,57,85,0,,,Rainer Schuettler,Hyung Taik Lee,6-1 6-4,0.58,0.0%,3.4%,75.9%,54.5%,35.7%,7/11,40.8%,28.9%,13.3%,28.0%,30.0%,1/1,103,0,2,58,44,14,6,1:02
-22-Sep-2006,Davis Cup WG PO: ROU vs KOR,3,Clay,RR,58,89,0,,,Andrei Pavel,Hyung Taik Lee,4-6 6-4 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Sep-2006,Davis Cup WG PO: ROU vs KOR,3,Clay,RR,58,190,1,,,Hyung Taik Lee,Victor Crivoi,6-1 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Sep-2006,Davis Cup WG PO: ROU vs KOR,3,Clay,RR,58,89,0,,,Andrei Pavel,Hyung Taik Lee,4-6 6-4 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2006,Beijing,3,Hard,SF,63,12,0,8,4,Mario Ancic,Hyung Taik Lee,4-6 6-1 6-1,0.75,3.6%,0.0%,65.5%,52.7%,48.3%,5/11,44.0%,36.6%,3.7%,36.2%,37.1%,2/8,166,3,0,84,55,29,3,2:09
 11-Sep-2006,Beijing,3,Hard,QF,63,3,1,8,1,Hyung Taik Lee,Ivan Ljubicic,6-3 7-6(3),1.33,0.0%,0.0%,70.8%,72.5%,61.9%,1/2,54.2%,40.7%,14.8%,30.2%,60.7%,2/6,153,0,0,72,51,21,12,1:41
 11-Sep-2006,Beijing,3,Hard,R16,63,145,1,8,,Hyung Taik Lee,Michael Berrer,4-6 7-6(4) 7-6(4),1.13,9.5%,0.0%,69.5%,72.6%,59.4%,4/7,51.4%,35.7%,8.7%,21.1%,59.1%,2/5,220,10,0,105,73,32,10,2:24
@@ -155,18 +152,19 @@
 17-Jul-2006,Indianapolis,3,Hard,R64,98,125,1,,,Hyung Taik Lee,Mark Philippoussis,6-4 7-6(3),1.66,10.0%,0.0%,66.7%,80.0%,70.0%,1/2,55.6%,38.7%,16.0%,13.9%,61.5%,2/4,135,6,0,60,40,20,12,1:30
 26-Jun-2006,Wimbledon,5,Grass,R64,102,9,0,,6,Lleyton Hewitt,Hyung Taik Lee,6-7(4) 6-2 7-6(6) 6-7(5) 6-4,0.94,6.7%,2.1%,66.3%,67.2%,52.3%,14/20,49.2%,35.7%,10.3%,24.3%,50.0%,3/11,378,13,4,193,128,65,19,3:57
 26-Jun-2006,Wimbledon,5,Grass,R128,102,112,1,,,Hyung Taik Lee,Flavio Saretta,7-6(10) 6-3 7-5,1.32,4.6%,0.9%,69.7%,72.4%,63.6%,7/9,53.6%,40.0%,9.2%,34.2%,48.1%,5/16,239,5,1,109,76,33,12,2:10
-19-Jun-2006,'s-Hertogenbosch,3,Grass,QF,109,128,0,,,Jan Hernych,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Jun-2006,'s-Hertogenbosch,3,Grass,R16,109,304,1,,LL,Hyung Taik Lee,Mischa Zverev,6-1 6-3,2.10,4.4%,2.2%,62.2%,78.6%,70.6%,4/4,64.3%,51.3%,5.1%,40.0%,71.4%,4/6,84,2,1,45,28,17,2,0:49
-19-Jun-2006,'s-Hertogenbosch,3,Grass,R32,109,56,1,,,Hyung Taik Lee,Arnaud Clement,6-4 6-4,1.38,14.5%,5.5%,70.9%,84.6%,50.0%,0/0,53.9%,35.0%,6.7%,27.3%,56.3%,2/4,115,8,3,55,39,16,4,1:23
+19-Jun-2006,s Hertogenbosch,3,Grass,QF,109,128,0,,,Jan Hernych,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2006,s Hertogenbosch,3,Grass,R16,109,304,1,,LL,Hyung Taik Lee,Mischa Zverev,6-1 6-3,2.10,4.4%,2.2%,62.2%,78.6%,70.6%,4/4,64.3%,51.3%,5.1%,40.0%,71.4%,4/6,84,2,1,45,28,17,2,0:49
+19-Jun-2006,s Hertogenbosch,3,Grass,R32,109,56,1,,,Hyung Taik Lee,Arnaud Clement,6-4 6-4,1.38,14.5%,5.5%,70.9%,84.6%,50.0%,0/0,53.9%,35.0%,6.7%,27.3%,56.3%,2/4,115,8,3,55,39,16,4,1:23
 12-Jun-2006,Queen's Club,3,Grass,R32,109,30,0,,Q,Fernando Verdasco,Hyung Taik Lee,6-2 5-7 6-4,0.84,3.9%,2.9%,73.8%,59.2%,55.6%,7/12,47.6%,34.9%,3.5%,30.4%,52.9%,3/7,189,4,3,103,76,27,3,1:52
 12-Jun-2006,Queen's Club,3,Grass,R64,109,34,1,,14,Hyung Taik Lee,Paul Henri Mathieu,7-6(2) 6-7(3) 6-4,1.17,7.9%,0.9%,80.7%,73.9%,59.1%,4/5,51.2%,33.8%,10.8%,27.7%,44.7%,2/13,244,9,1,114,92,22,14,2:28
-5-Jun-2006,Surbiton CH,3,Grass,R16,UNR,UNR,0,5,,Gilles Elseneer,Hyung Taik Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Jun-2006,Surbiton CH,3,Grass,R32,UNR,UNR,1,5,WC,Hyung Taik Lee,Martin Lee,6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Surbiton CH,3,Grass,R16,106,161,0,5,,Gilles Elseneer,Hyung Taik Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Jun-2006,Surbiton CH,3,Grass,R32,106,257,1,5,WC,Hyung Taik Lee,Martin Lee,6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,F,106,97,1,2,1,Hyung Taik Lee,Danai Udomchoke,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,SF,106,123,1,2,3,Hyung Taik Lee,Yen Hsun Lu,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,QF,106,247,1,2,8,Hyung Taik Lee,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,R16,106,431,1,2,,Hyung Taik Lee,Satoshi Iwabuchi,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,R32,106,840,1,2,Q,Hyung Taik Lee,Dong Hyun Kim,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Roland Garros,5,Clay,Q1,106,185,0,2,,Alex Calatrava,Hyung Taik Lee,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Apr-2006,Dharwad CH,3,Hard,SF,103,139,0,1,4,Lukasz Kubot,Hyung Taik Lee,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Apr-2006,Dharwad CH,3,Hard,QF,103,198,1,1,5,Hyung Taik Lee,Denis Istomin,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
 24-Apr-2006,Dharwad CH,3,Hard,R16,103,439,1,1,,Hyung Taik Lee,Aisam Ul Haq Qureshi,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -175,19 +173,19 @@
 17-Apr-2006,Chikmagalur CH,3,Hard,QF,109,267,1,1,8,Hyung Taik Lee,Go Soeda,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2006,Chikmagalur CH,3,Hard,R16,109,738,1,1,Q,Hyung Taik Lee,Marco Chiudinelli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2006,Chikmagalur CH,3,Hard,R32,109,698,1,1,Q,Hyung Taik Lee,Sergei Bubka,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Apr-2006,Davis Cup G1 R2: TPE vs KOR,3,Hard,RR,108,92,1,,,Hyung Taik Lee,Jimmy Wang,2-6 7-6(7) 7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2006,Davis Cup G1 R2: TPE vs KOR,3,Hard,RR,108,373,1,,,Hyung Taik Lee,Ti Chen,6-1 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
-13-Mar-2006,Ho Chi Minh City CH,3,Hard,R32,UNR,UNR,0,2,WC,Mohammad Ghareeb,Hyung Taik Lee,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2006,Davis Cup G1 R2: TPE vs KOR,3,Hard,RR,108,92,1,,,Hyung Taik Lee,Jimmy Wang,2-6 7-6(7) 7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Ho Chi Minh City CH,3,Hard,R32,101,398,0,2,WC,Mohammad Ghareeb,Hyung Taik Lee,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2006,Besancon CH,3,Hard,R32,89,288,0,1,Q,Stephane Robert,Hyung Taik Lee,6-7(3) 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Feb-2006,Davis Cup G1 R1: KOR vs IND,3,Hard,RR,89,249,1,,,Hyung Taik Lee,Prakash Amritraj,6-2 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 10-Feb-2006,Davis Cup G1 R1: KOR vs IND,3,Hard,RR,89,232,1,,,Hyung Taik Lee,Rohan Bopanna,6-3 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Jan-2006,Delray Beach,3,Hard,QF,100,78,0,,8,Vincent Spadea,Hyung Taik Lee,6-3 6-3,0.56,0.0%,1.6%,55.7%,61.8%,40.7%,3/7,40.4%,26.4%,7.5%,24.3%,31.3%,1/5,114,0,1,61,34,27,4,1:04
 30-Jan-2006,Delray Beach,3,Hard,R16,100,138,1,,,Hyung Taik Lee,Simon Greul,2-6 6-3 6-4,1.01,2.1%,3.2%,60.6%,71.9%,45.9%,6/9,51.1%,38.7%,7.5%,32.7%,48.4%,3/8,174,2,3,94,57,37,6,1:57
 30-Jan-2006,Delray Beach,3,Hard,R32,100,16,1,,2,Hyung Taik Lee,Robby Ginepri,5-7 6-2 6-4,1.01,6.5%,2.2%,61.3%,73.7%,52.8%,3/5,51.8%,34.7%,13.3%,25.6%,46.9%,4/5,168,6,2,93,57,36,10,1:45
-23-Jan-2006,Waikoloa CH,3,Hard,SF,UNR,UNR,0,6,,Yen Hsun Lu,Hyung Taik Lee,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2006,Waikoloa CH,3,Hard,QF,UNR,UNR,1,6,1,Hyung Taik Lee,Paul Goldstein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2006,Waikoloa CH,3,Hard,R16,UNR,UNR,1,6,,Hyung Taik Lee,Glenn Weiner,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2006,Waikoloa CH,3,Hard,R32,UNR,UNR,1,6,Q,Hyung Taik Lee,Tobias Clemens,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,Waikoloa CH,3,Hard,SF,112,161,0,6,,Yen Hsun Lu,Hyung Taik Lee,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,Waikoloa CH,3,Hard,QF,112,68,1,6,1,Hyung Taik Lee,Paul Goldstein,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,Waikoloa CH,3,Hard,R16,112,198,1,6,,Hyung Taik Lee,Glenn Weiner,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jan-2006,Waikoloa CH,3,Hard,R32,112,525,1,6,Q,Hyung Taik Lee,Tobias Clemens,6-2 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2006,Australian Open,5,Hard,R128,112,69,0,,,Florian Mayer,Hyung Taik Lee,6-4 6-1 4-6 6-4,0.81,1.8%,3.5%,62.8%,50.7%,52.4%,5/14,45.5%,39.3%,9.3%,22.2%,56.6%,5/7,220,2,4,113,71,42,10,2:18
 2-Jan-2006,Chennai,3,Hard,R32,107,123,0,,Q,Marc Gicquel,Hyung Taik Lee,7-5 6-4,0.96,1.5%,1.5%,53.8%,51.4%,50.0%,7/13,48.9%,47.2%,8.3%,35.9%,60.6%,4/6,137,1,1,65,35,30,6,1:34
 21-Nov-2005,Luxembourg CH,3,Hard,QF,87,131,0,8,,George Bastl,Hyung Taik Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -233,8 +231,8 @@
 7-Feb-2005,San Jose,3,Hard,R16,58,3,0,,1,Andy Roddick,Hyung Taik Lee,6-3 3-6 6-2,0.74,0.0%,2.4%,47.6%,69.2%,58.1%,5/8,46.7%,27.1%,24.3%,15.4%,41.9%,1/2,152,0,2,82,39,43,17,1:36
 7-Feb-2005,San Jose,3,Hard,R32,58,101,1,,,Hyung Taik Lee,Jan Michael Gambill,6-3 7-6(4),1.17,3.8%,5.1%,48.7%,81.6%,62.5%,3/3,53.0%,32.9%,13.7%,22.0%,46.9%,1/3,151,3,4,78,38,40,10,1:38
 17-Jan-2005,Australian Open,5,Hard,R128,58,86,0,,,Kevin Kim,Hyung Taik Lee,3-6 6-4 6-3 3-6 6-1,0.88,5.0%,1.9%,65.6%,64.8%,47.3%,15/21,48.8%,36.2%,10.2%,26.8%,53.3%,4/8,287,8,3,160,105,55,13,2:53
-3-Jan-2005,Doha,3,Hard,R16,UNR,UNR,0,,3,Sebastien Grosjean,Hyung Taik Lee,6-3 6-0,0.54,0.0%,3.6%,60.0%,45.5%,40.9%,4/9,37.6%,30.4%,6.5%,32.1%,27.8%,1/1,101,0,2,55,33,22,3,1:15
-3-Jan-2005,Doha,3,Hard,R32,UNR,UNR,1,,Q,Hyung Taik Lee,Sergiy Stakhovsky,6-0 6-1,5.60,9.4%,3.1%,93.8%,90.0%,50.0%,0/0,79.0%,70.0%,6.7%,72.0%,60.0%,5/6,62,3,1,32,30,2,2,0:08
+3-Jan-2005,Doha,3,Hard,R16,59,15,0,,3,Sebastien Grosjean,Hyung Taik Lee,6-3 6-0,0.54,0.0%,3.6%,60.0%,45.5%,40.9%,4/9,37.6%,30.4%,6.5%,32.1%,27.8%,1/1,101,0,2,55,33,22,3,1:15
+3-Jan-2005,Doha,3,Hard,R32,59,335,1,,Q,Hyung Taik Lee,Sergiy Stakhovsky,6-0 6-1,5.60,9.4%,3.1%,93.8%,90.0%,50.0%,0/0,79.0%,70.0%,6.7%,72.0%,60.0%,5/6,62,3,1,32,30,2,2,
 29-Nov-2004,Mauritius CH,3,Hard,F,62,20,0,4,1,Andrei Pavel,Hyung Taik Lee,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2004,Mauritius CH,3,Hard,SF,62,94,1,4,,Hyung Taik Lee,Kenneth Carlsen,7-5 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2004,Mauritius CH,3,Hard,QF,62,139,1,4,,Hyung Taik Lee,Bjorn Phau,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -247,16 +245,16 @@
 4-Oct-2004,Tokyo,3,Hard,R16,69,55,0,10,7,Taylor Dent,Hyung Taik Lee,7-6(4) 5-7 6-3,0.91,1.1%,5.3%,76.8%,74.0%,31.8%,3/6,47.3%,32.4%,13.9%,22.6%,45.7%,3/8,203,1,5,95,73,22,15,2:01
 4-Oct-2004,Tokyo,3,Hard,R32,69,98,1,10,,Hyung Taik Lee,Wayne Arthurs,6-2 7-6(2),1.80,3.4%,1.7%,74.6%,84.1%,60.0%,1/1,56.8%,39.7%,15.1%,26.2%,58.1%,2/4,132,2,1,59,44,15,11,1:15
 27-Sep-2004,Shanghai,3,Hard,R32,64,100,0,5,,Wayne Arthurs,Hyung Taik Lee,W/O,,,,,,,,,,,,,,,,,,,,,
-24-Sep-2004,Davis Cup G2 F: CHN vs KOR,3,Hard,RR,67,318,1,,,Hyung Taik Lee,Yu Jr Wang,6-2 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Sep-2004,Davis Cup G2 F: CHN vs KOR,3,Hard,RR,67,593,1,,,Hyung Taik Lee,Ben Qiang Zhu,6-4 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2004,Davis Cup G2 F: CHN vs KOR,3,Hard,RR,67,318,1,,,Hyung Taik Lee,Yu Jr Wang,6-2 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Sep-2004,Beijing,3,Hard,QF,65,20,0,,6,Paradorn Srichaphan,Hyung Taik Lee,6-4 6-3,0.58,6.5%,1.6%,53.2%,63.6%,41.4%,6/10,41.0%,27.3%,20.0%,21.6%,38.9%,2/5,117,4,1,62,33,29,11,1:16
 13-Sep-2004,Beijing,3,Hard,R16,65,209,1,,Q,Hyung Taik Lee,Jo Wilfried Tsonga,7-6(7) 6-3,1.61,2.9%,2.9%,60.3%,73.2%,77.8%,2/3,56.6%,40.3%,6.5%,24.4%,62.5%,2/10,145,2,2,68,41,27,5,1:26
 13-Sep-2004,Beijing,3,Hard,R32,65,124,1,,,Hyung Taik Lee,Glenn Weiner,6-2 6-4,1.57,12.8%,2.1%,68.1%,71.9%,60.0%,2/4,58.9%,50.0%,4.2%,40.0%,66.7%,5/8,95,6,1,47,32,15,2,0:57
-6-Sep-2004,Seoul CH,3,Hard,F,UNR,UNR,1,1,3,Hyung Taik Lee,Jean Rene Lisnard,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Sep-2004,Seoul CH,3,Hard,SF,UNR,UNR,1,1,,Hyung Taik Lee,Florent Serra,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Sep-2004,Seoul CH,3,Hard,QF,UNR,UNR,1,1,,Hyung Taik Lee,Jo Wilfried Tsonga,6-3 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Sep-2004,Seoul CH,3,Hard,R16,UNR,UNR,1,1,,Hyung Taik Lee,Tasuku Iwami,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Sep-2004,Seoul CH,3,Hard,R32,UNR,UNR,1,1,,Hyung Taik Lee,Chris Guccione,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,F,74,127,1,1,3,Hyung Taik Lee,Jean Rene Lisnard,3-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,SF,74,233,1,1,,Hyung Taik Lee,Florent Serra,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,QF,74,225,1,1,,Hyung Taik Lee,Jo Wilfried Tsonga,6-3 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,R16,74,290,1,1,,Hyung Taik Lee,Tasuku Iwami,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Sep-2004,Seoul CH,3,Hard,R32,74,293,1,1,,Hyung Taik Lee,Chris Guccione,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Aug-2004,US Open,5,Hard,R32,74,18,0,,16,Andrei Pavel,Hyung Taik Lee,6-4 6-2 1-6 1-6 6-4,1.16,7.4%,3.3%,57.4%,74.3%,48.1%,8/14,52.8%,43.0%,15.6%,30.7%,60.4%,7/18,250,9,4,122,70,52,20,2:38
 30-Aug-2004,US Open,5,Hard,R64,74,58,1,,,Hyung Taik Lee,Alberto Martin,6-4 7-6(3) 6-1,1.31,3.0%,4.0%,67.3%,67.6%,63.6%,4/5,55.6%,44.2%,2.1%,31.9%,56.3%,4/10,196,3,4,101,68,33,2,2:16
 30-Aug-2004,US Open,5,Hard,R128,74,25,1,,24,Hyung Taik Lee,Ivan Ljubicic,3-6 6-3 1-1 RET,1.03,1.4%,2.7%,65.8%,68.8%,56.0%,2/3,50.3%,36.8%,13.2%,22.2%,58.1%,1/6,149,1,2,73,48,25,10,1:35
@@ -265,28 +263,32 @@
 26-Jul-2004,Canada Masters,3,Hard,R64,78,27,0,Q,,Tommy Robredo,Hyung Taik Lee,7-6(3) 6-1,0.82,0.0%,3.1%,60.9%,59.0%,64.0%,4/7,45.9%,31.9%,4.3%,18.6%,53.8%,0/2,133,0,2,64,39,25,3,1:29
 19-Jul-2004,Indianapolis,3,Hard,R64,77,59,0,,,Fabrice Santoro,Hyung Taik Lee,6-3 4-6 6-4,0.80,4.5%,4.5%,55.7%,69.4%,53.8%,1/5,47.0%,30.0%,6.3%,23.3%,37.8%,2/3,168,4,4,88,49,39,5,1:53
 12-Jul-2004,Los Angeles,3,Hard,R32,78,128,0,WC,Q,Glenn Weiner,Hyung Taik Lee,3-6 7-5 6-3,0.91,3.6%,1.2%,55.4%,71.7%,62.2%,0/2,48.0%,29.5%,9.1%,19.1%,41.5%,1/4,171,3,1,83,46,37,8,1:50
+21-Jun-2004,Wimbledon,5,Grass,Q2,81,228,0,3,,Ivan Navarro,Hyung Taik Lee,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Wimbledon,5,Grass,Q1,81,242,1,3,,Hyung Taik Lee,Tomas Tenconi,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2004,Queen's Club,3,Grass,SF,99,13,0,Q,5,Sebastien Grosjean,Hyung Taik Lee,6-7(4) 7-6(3) 6-2,0.87,1.9%,2.8%,62.6%,62.7%,50.0%,4/9,46.7%,36.4%,8.5%,29.6%,46.8%,3/10,225,2,3,107,67,40,10,2:18
 7-Jun-2004,Queen's Club,3,Grass,QF,99,79,1,Q,,Hyung Taik Lee,Karol Beck,6-3 6-4,1.53,3.8%,1.9%,67.3%,77.1%,47.1%,0/2,58.5%,50.0%,5.6%,30.6%,88.9%,4/5,106,2,1,52,35,17,3,0:57
 7-Jun-2004,Queen's Club,3,Grass,R16,99,16,1,Q,8,Hyung Taik Lee,Sjeng Schalken,7-6(3) 6-7(6) 6-3,1.11,6.1%,1.7%,71.3%,72.0%,54.5%,5/7,52.8%,36.6%,2.0%,30.7%,53.8%,3/4,216,7,2,115,82,33,2,2:22
 7-Jun-2004,Queen's Club,3,Grass,R32,99,35,1,Q,12,Hyung Taik Lee,Robby Ginepri,6-3 6-2,1.88,2.1%,2.1%,60.4%,75.9%,68.4%,2/3,61.4%,50.9%,5.7%,34.3%,83.3%,4/6,101,1,1,48,29,19,3,0:52
 7-Jun-2004,Queen's Club,3,Grass,R64,99,103,1,Q,,Hyung Taik Lee,Greg Rusedski,3-6 6-3 6-4,1.14,4.8%,3.6%,71.4%,78.3%,41.7%,1/3,51.7%,36.7%,8.9%,30.8%,44.7%,3/8,174,4,3,84,60,24,8,1:38
-31-May-2004,Surbiton CH,3,Grass,R16,UNR,UNR,0,,4,Greg Rusedski,Hyung Taik Lee,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-31-May-2004,Surbiton CH,3,Grass,R32,UNR,UNR,1,,Q,Hyung Taik Lee,George Bastl,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+31-May-2004,Surbiton CH,3,Grass,R16,123,103,0,,4,Greg Rusedski,Hyung Taik Lee,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+31-May-2004,Surbiton CH,3,Grass,R32,123,370,1,,Q,Hyung Taik Lee,George Bastl,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
 24-May-2004,Roland Garros,5,Clay,R32,123,25,0,LL,23,Feliciano Lopez,Hyung Taik Lee,7-6(3) 4-6 6-0 6-3,0.77,5.0%,2.5%,67.8%,62.2%,56.4%,9/14,45.9%,30.4%,23.2%,24.6%,38.3%,2/5,233,6,3,121,82,39,26,2:20
 24-May-2004,Roland Garros,5,Clay,R64,123,99,1,LL,WC,Hyung Taik Lee,Olivier Patience,6-4 6-4 6-3,1.54,7.3%,4.9%,65.9%,85.2%,46.4%,5/6,56.4%,43.3%,9.3%,41.8%,45.2%,5/10,179,6,4,82,54,28,9,1:48
 24-May-2004,Roland Garros,5,Clay,R128,123,46,1,LL,,Hyung Taik Lee,Robin Soderling,0-6 3-6 6-3 6-4 7-5,1.05,6.2%,4.1%,69.0%,72.0%,44.4%,14/19,49.7%,38.3%,8.0%,26.9%,54.9%,4/17,320,9,6,145,100,45,14,3:12
+24-May-2004,Roland Garros,5,Clay,Q3,123,149,0,10,28,Ricardo Mello,Hyung Taik Lee,7-5 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q1,123,252,1,10,,Hyung Taik Lee,Stefano Cobolli,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Mar-2004,Miami Masters,3,Hard,R128,91,125,0,,Q,Franco Squillari,Hyung Taik Lee,2-6 6-2 6-3,0.81,2.1%,1.0%,64.9%,54.0%,58.8%,6/11,47.3%,35.7%,8.6%,22.2%,50.0%,3/8,167,2,1,97,63,34,6,1:46
-15-Mar-2004,Boca Raton CH,3,Hard,R32,UNR,UNR,0,,,Stefan Koubek,Hyung Taik Lee,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Mar-2004,Boca Raton CH,3,Hard,R32,87,92,0,,,Stefan Koubek,Hyung Taik Lee,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Mar-2004,Indian Wells Masters,3,Hard,R128,87,51,0,,,Mikhail Youzhny,Hyung Taik Lee,3-6 6-3 6-1,0.68,9.3%,4.7%,70.9%,67.2%,36.0%,6/10,45.1%,28.4%,9.0%,29.4%,27.3%,1/1,153,8,4,86,61,25,6,1:38
 16-Feb-2004,Memphis,3,Hard,R32,68,71,0,,,Joachim Johansson,Hyung Taik Lee,6-4 6-7(5) 6-2,0.64,10.1%,3.4%,61.8%,70.9%,61.8%,3/6,44.6%,20.9%,26.7%,14.3%,33.3%,0/3,175,9,3,89,55,34,23,1:35
 9-Feb-2004,San Jose,3,Hard,QF,72,21,0,,3,Mardy Fish,Hyung Taik Lee,6-2 6-3,0.84,2.4%,4.9%,65.9%,63.0%,71.4%,2/5,44.3%,28.6%,16.1%,26.5%,31.8%,0/1,97,1,2,41,27,14,9,1:03
 9-Feb-2004,San Jose,3,Hard,R16,72,27,1,,6,Hyung Taik Lee,Vincent Spadea,2-6 6-4 6-4,0.90,1.0%,2.0%,66.7%,63.6%,45.5%,4/8,48.9%,38.3%,7.4%,32.7%,50.0%,4/5,180,1,2,99,66,33,6,1:56
 9-Feb-2004,San Jose,3,Hard,R32,72,64,1,,,Hyung Taik Lee,Xavier Malisse,7-6(1) 6-1,1.55,1.7%,0.0%,66.7%,82.5%,50.0%,2/3,58.1%,43.9%,10.5%,39.3%,48.3%,3/6,117,1,0,60,40,20,6,1:15
-6-Feb-2004,Davis Cup G2 R1: MAS vs KOR,3,Hard,RR,73,UNR,1,,,Hyung Taik Lee,Dannio Yahya,6-1 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Feb-2004,Davis Cup G2 R1: MAS vs KOR,3,Hard,RR,73,,1,,,Hyung Taik Lee,Dannio Yahya,6-1 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2004,Australian Open,5,Hard,R128,69,59,0,,WC,Nicolas Escude,Hyung Taik Lee,6-3 7-6(5) 6-2,0.71,2.1%,3.1%,53.1%,62.7%,35.6%,7/13,42.8%,35.7%,15.3%,25.0%,50.0%,3/8,194,2,3,96,51,45,15,2:25
-5-Jan-2004,Doha,3,Hard,QF,UNR,UNR,0,,WC,Nicolas Escude,Hyung Taik Lee,6-4 6-2,0.69,2.1%,2.1%,60.4%,69.0%,36.8%,0/4,42.9%,30.0%,8.0%,27.3%,35.3%,1/1,98,1,1,48,29,19,4,1:10
-5-Jan-2004,Doha,3,Hard,R16,UNR,UNR,1,,,Hyung Taik Lee,Stefan Koubek,6-4 6-4,1.05,1.2%,1.2%,76.8%,68.3%,36.8%,3/4,51.6%,40.8%,4.2%,38.2%,50.0%,3/7,153,1,1,82,63,19,3,1:32
-5-Jan-2004,Doha,3,Hard,R32,UNR,UNR,1,,Q,Hyung Taik Lee,Vladimir Voltchkov,1-2 RET,0.40,0.0%,6.3%,50.0%,50.0%,50.0%,2/3,42.9%,20.0%,0.0%,20.0%,-,0/0,21,0,1,16,8,8,0,0:16
+5-Jan-2004,Doha,3,Hard,QF,56,114,0,,WC,Nicolas Escude,Hyung Taik Lee,6-4 6-2,0.69,2.1%,2.1%,60.4%,69.0%,36.8%,0/4,42.9%,30.0%,8.0%,27.3%,35.3%,1/1,98,1,1,48,29,19,4,1:10
+5-Jan-2004,Doha,3,Hard,R16,56,53,1,,,Hyung Taik Lee,Stefan Koubek,6-4 6-4,1.05,1.2%,1.2%,76.8%,68.3%,36.8%,3/4,51.6%,40.8%,4.2%,38.2%,50.0%,3/7,153,1,1,82,63,19,3,1:32
+5-Jan-2004,Doha,3,Hard,R32,56,120,1,,Q,Hyung Taik Lee,Vladimir Voltchkov,1-2 RET,0.40,0.0%,6.3%,50.0%,50.0%,50.0%,2/3,42.9%,20.0%,0.0%,20.0%,-,0/0,21,0,1,16,8,8,0,0:16
 20-Oct-2003,Basel,3,Carpet,R32,53,139,0,,Q,Gilles Elseneer,Hyung Taik Lee,6-2 6-0,0.45,3.7%,1.9%,70.4%,44.7%,31.3%,6/11,34.7%,26.8%,14.6%,20.0%,45.5%,0/0,95,2,1,54,38,16,6,0:56
 29-Sep-2003,Tokyo,3,Hard,QF,59,11,0,7,3,Paradorn Srichaphan,Hyung Taik Lee,4-6 7-6(5) 6-3,0.79,1.8%,2.8%,51.4%,75.0%,50.9%,7/10,48.2%,29.1%,7.0%,25.0%,35.3%,2/2,195,2,3,109,56,53,6,2:22
 29-Sep-2003,Tokyo,3,Hard,R16,59,66,1,7,9,Hyung Taik Lee,Kenneth Carlsen,6-3 6-4,1.28,4.9%,1.6%,67.2%,80.5%,40.0%,2/3,54.5%,41.9%,14.5%,28.9%,62.5%,3/12,123,3,1,61,41,20,9,1:24
@@ -296,7 +298,7 @@
 15-Sep-2003,Seoul CH,3,Hard,SF,65,165,1,1,,Hyung Taik Lee,Bjorn Phau,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Sep-2003,Seoul CH,3,Hard,QF,65,228,1,1,,Hyung Taik Lee,Takao Suzuki,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Sep-2003,Seoul CH,3,Hard,R16,65,182,1,1,,Hyung Taik Lee,Cecil Mamiit,6-0 RET,,,,,,,,,,,,,,,,,,,,,
-15-Sep-2003,Seoul CH,3,Hard,R32,65,UNR,1,1,Q,Hyung Taik Lee,Yeon Wook Lee,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2003,Seoul CH,3,Hard,R32,65,,1,1,Q,Hyung Taik Lee,Yeon Wook Lee,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Aug-2003,US Open,5,Hard,R64,69,6,0,,6,Lleyton Hewitt,Hyung Taik Lee,5-7 6-2 6-2 6-4,0.86,4.4%,2.6%,56.1%,67.2%,42.0%,10/18,46.6%,37.5%,5.8%,28.8%,45.9%,4/11,234,5,3,114,64,50,7,2:40
 25-Aug-2003,US Open,5,Hard,R128,69,66,1,,,Hyung Taik Lee,Vladimir Voltchkov,6-3 6-4 7-6(3),1.87,5.8%,3.5%,64.0%,74.5%,80.6%,1/2,58.9%,43.4%,12.1%,28.8%,65.0%,3/8,185,5,3,86,55,31,12,1:44
 11-Aug-2003,Cincinnati Masters,3,Hard,R64,69,12,0,,11,Sjeng Schalken,Hyung Taik Lee,6-4 6-3,0.63,0.0%,3.1%,61.5%,57.5%,40.0%,4/8,41.5%,31.0%,5.2%,29.7%,33.3%,1/3,123,0,2,65,40,25,3,1:32
@@ -332,7 +334,7 @@
 6-Jan-2003,Sydney,3,Hard,QF,85,3,1,Q,1,Hyung Taik Lee,Marat Safin,W/O,,,,,,,,,,,,,,,,,,,,,
 6-Jan-2003,Sydney,3,Hard,R16,85,10,1,Q,6,Hyung Taik Lee,Andy Roddick,7-6(5) 7-5,1.18,4.9%,2.4%,67.1%,70.9%,55.6%,3/5,52.6%,40.4%,11.2%,34.0%,50.0%,3/9,171,4,2,82,55,27,10,2:41
 6-Jan-2003,Sydney,3,Hard,R32,85,29,1,Q,,Hyung Taik Lee,Nicolas Lapentti,6-2 6-0,2.29,2.6%,5.1%,61.5%,79.2%,66.7%,2/2,64.9%,58.6%,5.2%,44.1%,79.2%,5/14,97,1,2,39,24,15,3,0:58
-30-Dec-2002,Doha,3,Hard,R32,UNR,UNR,0,,,Vladimir Voltchkov,Hyung Taik Lee,6-4 3-6 7-5,1.32,9.2%,1.1%,67.8%,76.3%,67.9%,2/4,52.6%,35.0%,5.8%,30.0%,45.5%,1/11,190,8,1,87,59,28,6,2:12
+30-Dec-2002,Doha,3,Hard,R32,87,73,0,,,Vladimir Voltchkov,Hyung Taik Lee,6-4 3-6 7-5,1.32,9.2%,1.1%,67.8%,76.3%,67.9%,2/4,52.6%,35.0%,5.8%,30.0%,45.5%,1/11,190,8,1,87,59,28,6,2:12
 2-Dec-2002,Bangkok CH,3,Hard,R32,86,420,0,1,WC,Rohan Bopanna,Hyung Taik Lee,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Nov-2002,Yokohama CH,3,Carpet,F,92,118,1,1,2,Hyung Taik Lee,John Van Lottum,2-6 7-6(2) 7-6(6),,,,,,,,,,,,,,,,,,,,,
 25-Nov-2002,Yokohama CH,3,Carpet,SF,92,294,1,1,,Hyung Taik Lee,Christian Vinck,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -357,7 +359,7 @@
 10-Jun-2002,Queen's Club,3,Grass,R16,117,73,1,,,Hyung Taik Lee,Vincent Spadea,6-4 6-3,1.23,0.0%,1.5%,61.5%,72.5%,52.0%,6/7,54.3%,43.5%,6.5%,39.0%,52.4%,3/12,127,0,1,65,40,25,4,1:10
 10-Jun-2002,Queen's Club,3,Grass,R32,117,213,1,,Q,Hyung Taik Lee,Gouichi Motomura,6-4 6-0,1.30,1.4%,1.4%,58.3%,61.9%,56.7%,11/12,57.0%,52.4%,2.4%,50.0%,53.8%,5/7,114,1,1,72,42,30,1,1:07
 10-Jun-2002,Queen's Club,3,Grass,R64,117,142,1,,,Hyung Taik Lee,Magnus Larsson,6-3 6-7(4) 7-6(1),1.05,6.1%,3.0%,66.7%,68.2%,45.5%,7/11,51.9%,41.3%,6.4%,32.3%,54.5%,5/10,241,8,4,132,88,44,7,2:08
-3-Jun-2002,Furth CH,3,Clay,R32,UNR,UNR,0,6,,Giorgio Galimberti,Hyung Taik Lee,3-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,Furth CH,3,Clay,R32,120,179,0,6,,Giorgio Galimberti,Hyung Taik Lee,3-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 27-May-2002,Roland Garros,5,Clay,R128,120,277,0,,Q,Jens Knippschild,Hyung Taik Lee,6-4 1-6 3-6 7-6(3) 6-1,0.99,5.7%,3.6%,69.3%,68.0%,48.8%,6/11,49.8%,37.6%,7.1%,32.0%,43.9%,6/9,281,8,5,140,97,43,10,3:04
 6-May-2002,Ljubljana CH,3,Clay,R32,118,196,0,2,,Victor Hanescu,Hyung Taik Lee,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2002,Mallorca,3,Clay,R32,91,95,0,,,Galo Blanco,Hyung Taik Lee,6-3 6-3,0.71,0.0%,1.9%,70.4%,44.7%,50.0%,6/11,42.3%,38.0%,8.0%,23.8%,48.3%,2/3,104,0,1,54,38,16,4,1:15
@@ -370,12 +372,12 @@
 4-Mar-2002,Delray Beach,3,Hard,R16,93,13,0,,1,Andy Roddick,Hyung Taik Lee,7-5 6-2,0.68,7.1%,3.6%,53.6%,60.0%,53.8%,4/8,43.2%,29.1%,18.2%,15.6%,47.8%,1/3,111,4,2,56,30,26,10,1:04
 4-Mar-2002,Delray Beach,3,Hard,R32,93,66,1,,,Hyung Taik Lee,David Sanchez,6-2 6-3,1.72,8.0%,2.0%,68.0%,67.6%,75.0%,2/3,60.2%,51.7%,1.7%,47.2%,59.1%,5/10,108,4,1,50,34,16,1,1:01
 25-Feb-2002,San Jose,3,Hard,R32,95,74,0,,,Kristian Pless,Hyung Taik Lee,6-2 6-2,0.59,2.2%,8.9%,64.4%,55.2%,31.3%,3/7,38.4%,31.5%,13.0%,23.5%,45.0%,0/3,99,1,4,45,29,16,7,0:51
-8-Feb-2002,Davis Cup G1 QF: KOR vs JPN,3,Carpet,RR,96,228,0,,,Takao Suzuki,Hyung Taik Lee,7-6(4) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Feb-2002,Davis Cup G1 QF: KOR vs JPN,3,Carpet,RR,96,241,1,,,Hyung Taik Lee,Gouichi Motomura,6-3 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2002,Heilbronn CH,3,Carpet,SF,UNR,UNR,0,7,Q,Jurgen Melzer,Hyung Taik Lee,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2002,Heilbronn CH,3,Carpet,QF,UNR,UNR,1,7,2,Hyung Taik Lee,Nikolay Davydenko,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2002,Heilbronn CH,3,Carpet,R16,UNR,UNR,1,7,,Hyung Taik Lee,Julian Knowle,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-21-Jan-2002,Heilbronn CH,3,Carpet,R32,UNR,UNR,1,7,,Hyung Taik Lee,Ivo Heuberger,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Feb-2002,Davis Cup G1 QF: KOR vs JPN,3,Carpet,RR,96,228,0,,,Takao Suzuki,Hyung Taik Lee,7-6(4) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2002,Heilbronn CH,3,Carpet,SF,102,167,0,7,Q,Jurgen Melzer,Hyung Taik Lee,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2002,Heilbronn CH,3,Carpet,QF,102,71,1,7,2,Hyung Taik Lee,Nikolay Davydenko,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2002,Heilbronn CH,3,Carpet,R16,102,121,1,7,,Hyung Taik Lee,Julian Knowle,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Jan-2002,Heilbronn CH,3,Carpet,R32,102,114,1,7,,Hyung Taik Lee,Ivo Heuberger,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 7-Jan-2002,Sydney,3,Hard,QF,115,15,0,Q,3,Andy Roddick,Hyung Taik Lee,6-7(3) 6-3 7-5,0.91,1.0%,0.0%,76.2%,67.5%,56.0%,9/13,47.9%,32.1%,7.1%,28.6%,38.1%,2/7,217,1,0,105,80,25,8,1:57
 7-Jan-2002,Sydney,3,Hard,R16,115,82,1,Q,,Hyung Taik Lee,Karol Kucera,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Jan-2002,Sydney,3,Hard,R32,115,19,1,Q,7,Hyung Taik Lee,Carlos Moya,7-6(5) 7-6(4),0.93,3.0%,3.0%,60.0%,76.7%,45.0%,6/8,50.0%,33.3%,3.6%,24.0%,47.1%,2/6,184,3,3,100,60,40,3,2:04
@@ -427,8 +429,8 @@
 5-Mar-2001,Scottsdale,3,Hard,R32,80,109,0,,WC,Jose Acasuso,Hyung Taik Lee,6-4 1-6 7-6(2),0.95,2.0%,1.0%,58.0%,72.4%,52.4%,8/10,49.7%,34.1%,7.7%,17.1%,44.6%,3/5,191,2,1,100,58,42,7,1:47
 26-Feb-2001,San Jose,3,Hard,R32,82,4,0,,1,Andre Agassi,Hyung Taik Lee,7-5 3-6 6-3,0.86,6.3%,4.5%,51.8%,67.2%,44.4%,11/16,48.4%,37.5%,8.8%,34.0%,44.4%,4/5,192,7,5,112,58,54,7,1:48
 19-Feb-2001,Memphis,3,Hard,R32,83,256,0,15,Q,Scott Draper,Hyung Taik Lee,7-6(8) 6-2,0.72,1.6%,6.3%,57.8%,67.6%,59.3%,0/3,44.6%,25.8%,10.6%,17.5%,38.5%,1/3,130,1,4,64,37,27,7,1:06
+9-Feb-2001,Davis Cup G1 QF: KOR vs NZL,3,Carpet,RR,80,,1,,,Hyung Taik Lee,Alistair Hunt,7-5 6-2 7-6(9),,,,,,,,,,,,,,,,,,,,,
 9-Feb-2001,Davis Cup G1 QF: KOR vs NZL,3,Carpet,RR,80,261,1,,,Hyung Taik Lee,Mark Nielsen,6-0 6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
-9-Feb-2001,Davis Cup G1 QF: KOR vs NZL,3,Carpet,RR,80,UNR,1,,,Hyung Taik Lee,Alistair Hunt,7-5 6-2 7-6(9),,,,,,,,,,,,,,,,,,,,,
 15-Jan-2001,Australian Open,5,Hard,R128,87,24,0,,,Nicolas Lapentti,Hyung Taik Lee,3-6 6-3 6-4 3-6 8-6,0.97,2.2%,1.6%,57.0%,67.0%,47.5%,14/21,50.0%,40.2%,3.0%,30.5%,57.6%,6/15,350,4,3,186,106,80,5,3:31
 20-Nov-2000,Brighton,3,Hard,SF,99,10,0,,1,Tim Henman,Hyung Taik Lee,6-2 6-1,0.59,0.0%,1.6%,66.1%,48.8%,47.6%,6/11,40.5%,30.6%,14.3%,14.8%,50.0%,0/6,111,0,1,62,41,21,7,1:06
 20-Nov-2000,Brighton,3,Hard,QF,99,300,1,,Q,Hyung Taik Lee,Renzo Furlan,6-1 6-3,2.00,13.0%,2.2%,56.5%,80.8%,70.0%,2/2,62.2%,47.7%,4.5%,29.4%,59.3%,4/6,90,6,1,46,26,20,2,0:57
@@ -456,6 +458,9 @@
 28-Aug-2000,US Open,5,Hard,R32,182,67,1,Q,,Hyung Taik Lee,Rainer Schuettler,6-2 3-6 6-4 6-4,1.17,4.6%,4.6%,55.6%,71.7%,52.1%,4/9,53.3%,43.3%,3.8%,41.8%,45.9%,7/12,212,5,5,108,60,48,4,2:21
 28-Aug-2000,US Open,5,Hard,R64,182,13,1,Q,13,Hyung Taik Lee,Franco Squillari,7-6(3) 7-5 6-2,1.61,6.3%,3.2%,58.9%,83.9%,61.5%,4/5,55.2%,40.6%,3.9%,32.7%,46.1%,4/19,223,6,3,95,56,39,5,2:10
 28-Aug-2000,US Open,5,Hard,R128,182,76,1,Q,,Hyung Taik Lee,Jeff Tarango,6-3 3-6 6-3 7-6(6),1.05,8.5%,3.9%,51.2%,69.7%,49.2%,6/10,50.0%,42.2%,6.2%,33.0%,57.4%,5/20,290,11,5,129,66,63,10,2:42
+28-Aug-2000,US Open,5,Hard,Q3,182,259,1,,,Hyung Taik Lee,Ville Liukko,6-4 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,US Open,5,Hard,Q2,182,321,1,,WC,Hyung Taik Lee,David Wheaton,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2000,US Open,5,Hard,Q1,182,244,1,,,Hyung Taik Lee,Lior Dahan,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2000,Bronx CH,3,Hard,F,222,162,1,LL,,Hyung Taik Lee,Reginald Willems,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2000,Bronx CH,3,Hard,SF,222,114,1,LL,2,Hyung Taik Lee,Olivier Rochus,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2000,Bronx CH,3,Hard,QF,222,229,1,LL,,Hyung Taik Lee,Jamie Delgado,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -471,31 +476,71 @@
 17-Jul-2000,Aptos CH,3,Hard,R16,249,475,0,,Q,Wade Mcguire,Hyung Taik Lee,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2000,Aptos CH,3,Hard,R32,249,149,1,,6,Hyung Taik Lee,Gouichi Motomura,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2000,Granby CH,3,Hard,R32,246,224,0,,4,Mark Nielsen,Hyung Taik Lee,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-7-Apr-2000,Davis Cup G1 SF: IND vs KOR,3,Grass,RR,215,116,0,,,Leander Paes,Hyung Taik Lee,6-1 3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+22-May-2000,Korea F1,3,Clay,SF,256,696,0,1,6,Seung Kyu Park,Hyung Taik Lee,0-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+22-May-2000,Korea F1,3,Clay,QF,256,1050,1,1,,Hyung Taik Lee,Dong Hyun Kim,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-May-2000,Korea F1,3,Clay,R16,256,1315,1,1,LL,Hyung Taik Lee,Nam Hoon Kim,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+22-May-2000,Korea F1,3,Clay,R32,256,,1,1,Q,Hyung Taik Lee,Chang Hoon Lee,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,SF,239,290,0,1,,Yong Il Yoon,Hyung Taik Lee,W/O,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,QF,239,716,1,1,8,Hyung Taik Lee,Michihisa Onoda,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,R16,239,1317,1,1,Q,Hyung Taik Lee,Chia Yen Tsai,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-2000,Japan F5,3,Hard,R32,239,770,1,1,,Hyung Taik Lee,Yoshinobu Tanaka,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2000,Japan F4,3,Hard,SF,207,286,0,1,3,Yong Il Yoon,Hyung Taik Lee,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2000,Japan F4,3,Hard,QF,207,1082,1,1,Q,Hyung Taik Lee,Hans Grobecker,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-May-2000,Japan F4,3,Hard,R16,207,687,1,1,,Hyung Taik Lee,Kotaro Miyachi,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-May-2000,Japan F4,3,Hard,R32,207,825,1,1,,Hyung Taik Lee,Minh Le,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2000,Davis Cup G1 SF: IND vs KOR,3,Grass,RR,215,436,1,,,Hyung Taik Lee,Fazaluddin Syed,6-4 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Apr-2000,Davis Cup G1 SF: IND vs KOR,3,Grass,RR,215,116,0,,,Leander Paes,Hyung Taik Lee,6-1 3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2000,Kyoto CH,3,Carpet,R16,198,261,0,6,,Satoshi Iwabuchi,Hyung Taik Lee,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2000,Kyoto CH,3,Carpet,R32,198,422,1,6,Q,Hyung Taik Lee,Martin Hromec,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Feb-2000,Singapore CH,3,Hard,R32,196,177,0,,7,Olivier Malcor,Hyung Taik Lee,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Feb-2000,Ho Chi Minh CH,3,Hard,R32,197,327,0,,Q,Bjorn Phau,Hyung Taik Lee,6-2 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
 4-Feb-2000,Davis Cup G1 QF: JPN vs KOR,3,Carpet,RR,197,210,1,,,Hyung Taik Lee,Yaoki Ishii,4-6 4-6 6-2 6-1 10-8,,,,,,,,,,,,,,,,,,,,,
 4-Feb-2000,Davis Cup G1 QF: JPN vs KOR,3,Carpet,RR,197,150,1,,,Hyung Taik Lee,Gouichi Motomura,7-5 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Yokohama CH,3,Hard,F,248,114,1,,1,Hyung Taik Lee,Paradorn Srichaphan,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Yokohama CH,3,Hard,SF,248,228,1,,4,Hyung Taik Lee,Ivo Heuberger,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Yokohama CH,3,Hard,QF,248,148,1,,2,Hyung Taik Lee,Gouichi Motomura,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Yokohama CH,3,Hard,R16,248,573,1,,,Hyung Taik Lee,Kotaro Miyachi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Yokohama CH,3,Hard,R32,248,272,1,,8,Hyung Taik Lee,Emanuel Couto,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Oct-1999,Japan F6,3,Carpet,R16,275,764,0,4,,Ashley Fisher,Hyung Taik Lee,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Oct-1999,Japan F6,3,Carpet,R32,275,1244,1,4,Q,Hyung Taik Lee,Kyle Spencer,5-7 7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1999,Japan F5,3,Carpet,F,265,542,1,1,6,Hyung Taik Lee,Oh Hee Kwon,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1999,Japan F5,3,Carpet,SF,265,331,1,1,3,Hyung Taik Lee,Danai Udomchoke,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1999,Japan F5,3,Carpet,QF,265,567,1,1,7,Hyung Taik Lee,Michihisa Onoda,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1999,Japan F5,3,Carpet,R16,265,763,1,1,,Hyung Taik Lee,Wei Jen Cheng,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Oct-1999,Japan F5,3,Carpet,R32,265,866,1,1,,Hyung Taik Lee,Bobby Hrdina,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Oct-1999,Shanghai,3,Hard,R16,288,153,0,Q,LL,Todd Woodbridge,Hyung Taik Lee,5-7 6-2 7-6(8),0.86,1.6%,0.8%,62.3%,60.5%,50.0%,4/9,48.0%,37.4%,1.0%,30.2%,50.0%,4/11,221,2,1,122,76,46,1,2:29
 4-Oct-1999,Shanghai,3,Hard,R32,288,100,1,Q,,Hyung Taik Lee,Ramon Delgado,6-3 4-6 6-1,1.22,2.6%,6.6%,55.3%,73.8%,52.9%,2/4,52.2%,43.3%,7.7%,39.7%,48.8%,5/12,180,2,5,76,42,34,8,1:39
 13-Sep-1999,Bournemouth,3,Clay,R32,299,48,0,WC,5,Stefan Koubek,Hyung Taik Lee,6-4 7-6(4),0.96,0.0%,6.9%,55.6%,57.5%,46.9%,6/11,49.0%,45.5%,1.3%,37.2%,55.9%,4/10,149,0,5,72,40,32,1,1:30
-16-Aug-1999,Bronx CH,3,Hard,R32,303,163,0,,4,Gouichi Motomura,Hyung Taik Lee,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Binghamton CH,3,Hard,R32,302,175,0,,8,Alexander Popp,Hyung Taik Lee,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-2-Aug-1999,Lexington CH,3,Hard,R32,236,285,0,,,Mark Nielsen,Hyung Taik Lee,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
-2-Apr-1999,Davis Cup G1 SF: NZL vs KOR,3,Hard,RR,240,592,1,,,Hyung Taik Lee,Alistair Hunt,6-3 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-1999,Korea F2,3,Clay,F,203,,0,1,WC,Seung Bok Baek,Hyung Taik Lee,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-1999,Korea F2,3,Clay,SF,203,481,1,1,3,Hyung Taik Lee,Steven Randjelovic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-1999,Korea F2,3,Clay,QF,203,1075,1,1,,Hyung Taik Lee,Hyeong Keun Song,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+24-May-1999,Korea F2,3,Clay,R16,203,1297,1,1,WC,Hyung Taik Lee,Min Kyu Han,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-1999,Korea F2,3,Clay,R32,203,1297,1,1,Q,Hyung Taik Lee,Norikazu Sugiyama,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-May-1999,Korea F1,3,Clay,QF,216,881,0,1,7,Seung Kyu Park,Hyung Taik Lee,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+17-May-1999,Korea F1,3,Clay,R16,216,1069,1,1,,Hyung Taik Lee,Hyeong Keun Song,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+17-May-1999,Korea F1,3,Clay,R32,216,,1,1,Q,Hyung Taik Lee,Hyun Joon Kim,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-May-1999,China F2,3,Hard,F,227,559,1,1,7,Hyung Taik Lee,Danai Udomchoke,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+10-May-1999,China F2,3,Hard,SF,227,730,1,1,,Hyung Taik Lee,Zbynek Mlynarik,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-May-1999,China F2,3,Hard,QF,227,1067,1,1,,Hyung Taik Lee,Minh Le,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-May-1999,China F2,3,Hard,R16,227,913,1,1,,Hyung Taik Lee,Wei Jen Cheng,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-May-1999,China F2,3,Hard,R32,227,,1,1,WC,Hyung Taik Lee,Ling Lu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+3-May-1999,China F1,3,Hard,F,228,382,1,1,5,Hyung Taik Lee,Dmitri Tomashevich,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-1999,China F1,3,Hard,SF,228,341,1,1,6,Hyung Taik Lee,Takahiro Terachi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-May-1999,China F1,3,Hard,QF,228,524,1,1,,Hyung Taik Lee,Aisam Ul Haq Qureshi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-1999,China F1,3,Hard,R16,228,785,1,1,,Hyung Taik Lee,Ben Qiang Zhu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+3-May-1999,China F1,3,Hard,R32,228,,1,1,Q,Hyung Taik Lee,Nan Yang,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Apr-1999,Davis Cup G1 SF: NZL vs KOR,3,Hard,RR,240,421,1,,,Hyung Taik Lee,Mark Nielsen,7-5 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Mar-1999,Kyoto CH,3,Carpet,R16,264,216,0,,,Eyal Ran,Hyung Taik Lee,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Mar-1999,Kyoto CH,3,Carpet,R32,264,177,1,,4,Hyung Taik Lee,Oleg Ogorodov,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
-19-Feb-1999,Davis Cup G1 QF: KOR vs IND,3,Hard,RR,261,83,0,,,Leander Paes,Hyung Taik Lee,6-4 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1999,Davis Cup G1 SF: NZL vs KOR,3,Hard,RR,240,592,1,,,Hyung Taik Lee,Alistair Hunt,6-3 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1999,Japan F1,3,Clay,F,257,231,1,1,2,Hyung Taik Lee,Gouichi Motomura,7-6 1-6 5-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1999,Japan F1,3,Clay,SF,257,711,1,1,Q,Hyung Taik Lee,Mitty Arnold,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1999,Japan F1,3,Clay,QF,257,594,1,1,,Hyung Taik Lee,Yasufumi Yamamoto,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1999,Japan F1,3,Clay,R16,257,789,1,1,Q,Hyung Taik Lee,David Sherwood,6-7 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Mar-1999,Japan F1,3,Clay,R32,257,911,1,1,WC,Hyung Taik Lee,Yoshinobu Tanaka,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Mar-1999,Philippines F1,3,Hard,R16,261,1304,0,2,Q,Robert Lindstedt,Hyung Taik Lee,4-6 7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+1-Mar-1999,Philippines F1,3,Hard,R32,261,870,1,2,,Hyung Taik Lee,Andrian Raturandang,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Mar-1999,Philippines F1,3,Hard,R64,261,,1,2,WC,Hyung Taik Lee,Michael John Misa,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Feb-1999,Davis Cup G1 QF: KOR vs IND,3,Hard,RR,261,270,1,,,Hyung Taik Lee,Mahesh Bhupathi,6-1 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-1999,Davis Cup G1 QF: KOR vs IND,3,Hard,RR,261,83,0,,,Leander Paes,Hyung Taik Lee,6-4 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1998,Japan F4,3,Carpet,F,293,349,1,1,2,Hyung Taik Lee,Yong Il Yoon,7-6 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1998,Japan F4,3,Carpet,SF,293,436,1,1,4,Hyung Taik Lee,Akira Matsushita,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1998,Japan F4,3,Carpet,QF,293,,1,1,Q,Hyung Taik Lee,Bing Chao Lin,W/O,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1998,Japan F4,3,Carpet,R16,293,1025,1,1,,Hyung Taik Lee,Yasutomo Nakase,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1998,Japan F4,3,Carpet,R32,293,1147,1,1,Q,Hyung Taik Lee,Mirko Pehar,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Aug-1998,Lexington CH,3,Hard,F,414,306,0,,,Paul Goldstein,Hyung Taik Lee,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Aug-1998,Lexington CH,3,Hard,SF,414,205,1,,6,Hyung Taik Lee,David Caldwell,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
 3-Aug-1998,Lexington CH,3,Hard,QF,414,229,1,,,Hyung Taik Lee,Oren Motevassel,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -503,10 +548,83 @@
 3-Aug-1998,Lexington CH,3,Hard,R32,414,308,1,,,Hyung Taik Lee,Jim Thomas,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,Davis Cup G1 PO: KOR vs CHN,3,Hard,RR,388,636,1,,,Hyung Taik Lee,Yue Wei Wang,6-1 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,Davis Cup G1 PO: KOR vs CHN,3,Hard,RR,388,1160,1,,,Hyung Taik Lee,Ling Lu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Canada F3,3,Hard,F,467,286,1,8,1,Hyung Taik Lee,James Sekulov,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Canada F3,3,Hard,SF,467,,1,8,WC,Hyung Taik Lee,Bobby Mahal,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Canada F3,3,Hard,QF,467,,1,8,,Hyung Taik Lee,Javier Gutierrez Lima,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Canada F3,3,Hard,R16,467,557,1,8,,Hyung Taik Lee,Antonio Prieto,6-0 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Canada F3,3,Hard,R32,467,663,1,8,,Hyung Taik Lee,Tad Berkowitz,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,Canada F2,3,Hard,F,467,293,1,3,2,Hyung Taik Lee,Michael Russell,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,Canada F2,3,Hard,SF,467,435,1,3,7,Hyung Taik Lee,Jocelyn Robichaud,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,Canada F2,3,Hard,QF,467,1369,1,3,Q,Hyung Taik Lee,Jonathan Pastel,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,Canada F2,3,Hard,R16,467,,1,3,Q,Hyung Taik Lee,Dave Abelson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jun-1998,Canada F2,3,Hard,R32,467,557,1,3,,Hyung Taik Lee,Antonio Prieto,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Korea F2,3,Hard,F,401,327,1,3,2,Hyung Taik Lee,Nir Welgreen,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Korea F2,3,Hard,SF,401,249,1,3,1,Hyung Taik Lee,Yong Il Yoon,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Korea F2,3,Hard,QF,401,886,1,3,,Hyung Taik Lee,Hee Sung Chung,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Korea F2,3,Hard,R16,401,,1,3,Q,Hyung Taik Lee,Oh Hee Kwon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Korea F2,3,Hard,R32,401,,1,3,Q,Hyung Taik Lee,Seong Hwan Chung,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,Korea F1,3,Hard,F,401,423,1,3,5,Hyung Taik Lee,Paradorn Srichaphan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,Korea F1,3,Hard,SF,401,929,1,3,,Hyung Taik Lee,Seung Kyu Park,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,Korea F1,3,Hard,QF,401,441,1,3,6,Hyung Taik Lee,Dong Hyun Kim,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,Korea F1,3,Hard,R16,401,1225,1,3,Q,Hyung Taik Lee,Yong Hak Chung,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-May-1998,Korea F1,3,Hard,R32,401,,1,3,Q,Hyung Taik Lee,Ji Hyeob Shin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-1998,China F2,3,Hard,SF,451,299,0,5,1,Yong Il Yoon,Hyung Taik Lee,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+11-May-1998,China F2,3,Hard,QF,451,1362,1,5,Q,Hyung Taik Lee,Naratorn Srichaphan,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-1998,China F2,3,Hard,R16,451,1190,1,5,WC,Hyung Taik Lee,Ben Qiang Zhu,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+11-May-1998,China F2,3,Hard,R32,451,,1,5,WC,Hyung Taik Lee,Hao Shi,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+4-May-1998,China F1,3,Hard,SF,452,324,0,6,2,Hideki Kaneko,Hyung Taik Lee,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-May-1998,China F1,3,Hard,QF,452,368,1,6,4,Hyung Taik Lee,Kentaro Masuda,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-May-1998,China F1,3,Hard,R16,452,1368,1,6,Q,Hyung Taik Lee,Jin Jian Liu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+4-May-1998,China F1,3,Hard,R32,452,,1,6,LL,Hyung Taik Lee,Lei Wang,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 3-Apr-1998,Davis Cup G1 SF: KOR vs UZB,3,Clay,RR,449,159,1,,,Hyung Taik Lee,Oleg Ogorodov,7-5 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-1998,Japan F1,3,Clay,R16,450,211,0,,2,Gouichi Motomura,Hyung Taik Lee,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Mar-1998,Japan F1,3,Clay,R32,450,,1,,WC,Hyung Taik Lee,Ryo Oki,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Mar-1998,Philippines F2,3,Hard,R32,349,1026,0,8,Q,Solon Peppas,Hyung Taik Lee,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Mar-1998,Philippines F1,3,Hard,R16,351,238,0,,2,Cecil Mamiit,Hyung Taik Lee,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Mar-1998,Philippines F1,3,Hard,R32,351,475,1,,,Hyung Taik Lee,Jamie Delgado,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Sep-1997,Davis Cup WG PO: SUI vs KOR,3,Carpet,RR,298,22,0,,,Marc Rosset,Hyung Taik Lee,6-3 7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 19-Sep-1997,Davis Cup WG PO: SUI vs KOR,3,Carpet,RR,298,197,1,,,Hyung Taik Lee,Ivo Heuberger,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 1,3,Hard,F,230,1015,1,,1,Hyung Taik Lee,Dong Hyun Kim,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 1,3,Hard,SF,230,730,1,,3,Hyung Taik Lee,Yue Wei Wang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 1,3,Hard,QF,230,790,1,,,Hyung Taik Lee,Yu Zhang,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 1,3,Hard,R16,230,,1,,Q,Hyung Taik Lee,Yu Jr Wang,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 2,3,Hard,R16,230,339,0,4,,Jia Ping Xia,Hyung Taik Lee,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 3,3,Hard,R16,230,740,0,1,,Bing Pan,Hyung Taik Lee,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 1,3,Hard,R32,230,339,1,,8,Hyung Taik Lee,Jia Ping Xia,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 3,3,Hard,R32,230,888,1,1,,Hyung Taik Lee,Ling Lu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Jun-1997,China Masters 4,3,Hard,R32,230,836,0,1,,Louis Vosloo,Hyung Taik Lee,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 2,3,Clay,F,244,174,1,1,2,Hyung Taik Lee,Yong Il Yoon,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 3,3,Clay,F,244,550,1,2,6,Hyung Taik Lee,Sang Hoon Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 4,3,Clay,F,244,673,1,2,8,Hyung Taik Lee,Nam Hoon Kim,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 2,3,Clay,SF,244,1084,1,1,,Hyung Taik Lee,Seung Kyu Park,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 3,3,Clay,SF,244,966,1,2,,Hyung Taik Lee,Dong Hyun Kim,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 4,3,Clay,SF,244,1266,1,2,WC,Hyung Taik Lee,Hee Sung Chung,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 1,3,Clay,QF,244,174,0,1,7,Yong Il Yoon,Hyung Taik Lee,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 2,3,Clay,QF,244,1266,1,1,8,Hyung Taik Lee,Hee Sung Chung,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 3,3,Clay,QF,244,585,1,2,7,Hyung Taik Lee,Jong Sam Chung,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 4,3,Clay,QF,244,585,1,2,7,Hyung Taik Lee,Jong Sam Chung,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 1,3,Clay,R16,244,1209,1,1,Q,Hyung Taik Lee,Tasuku Iwami,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 2,3,Clay,R16,244,714,1,1,,Hyung Taik Lee,Eui Jong Chang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 3,3,Clay,R16,244,1084,1,2,,Hyung Taik Lee,Seung Kyu Park,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 4,3,Clay,R16,244,,1,2,WC,Hyung Taik Lee,Han Cheol Shin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 1,3,Clay,R32,244,1299,1,1,WC,Hyung Taik Lee,Seong Kon Kim,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 3,3,Clay,R32,244,1209,1,2,,Hyung Taik Lee,Tasuku Iwami,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-May-1997,Korea Masters 4,3,Clay,R32,244,1299,1,2,Q,Hyung Taik Lee,Hyun Cheol Bang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Apr-1997,Davis Cup G1 SF: CHN vs KOR,3,Carpet,RR,242,378,1,,,Hyung Taik Lee,Jia Ping Xia,6-1 2-6 2-6 7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 1,3,Hard,F,285,219,0,2,1,Yong Il Yoon,Hyung Taik Lee,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 2,3,Hard,F,285,219,0,7,1,Yong Il Yoon,Hyung Taik Lee,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 1,3,Hard,SF,285,387,1,2,,Hyung Taik Lee,Jiri Vanek,6-1 6-7 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 2,3,Hard,SF,285,529,1,7,6,Hyung Taik Lee,Pantelis Moschoutis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 3,3,Hard,SF,285,219,0,4,2,Yong Il Yoon,Hyung Taik Lee,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 1,3,Hard,QF,285,601,1,2,8,Hyung Taik Lee,Jong Sam Chung,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 2,3,Hard,QF,285,478,1,7,Q,Hyung Taik Lee,Mathias Hellstrom,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 3,3,Hard,QF,285,327,1,4,5,Hyung Taik Lee,Tomas Zib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 1,3,Hard,R16,285,1005,1,2,,Hyung Taik Lee,Arnaud Di Pasquale,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 2,3,Hard,R16,285,,1,7,WC,Hyung Taik Lee,Michael John Misa,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 3,3,Hard,R16,285,,1,4,Q,Hyung Taik Lee,Seung Hoon Lee,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 2,3,Hard,R32,285,,1,7,WC,Hyung Taik Lee,Adelo Abadia,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 3,3,Hard,R32,285,555,1,4,,Hyung Taik Lee,Gilles Bastie,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+15-Feb-1997,Philippines Masters 4,3,Hard,R32,285,447,0,4,,Steven Randjelovic,Hyung Taik Lee,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Feb-1997,Davis Cup G1 QF: KOR vs JPN,3,Carpet,RR,282,158,0,,,Shuzo Matsuoka,Hyung Taik Lee,7-6(5) 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 7-Feb-1997,Davis Cup G1 QF: KOR vs JPN,3,Carpet,RR,282,481,1,,,Hyung Taik Lee,Takao Suzuki,3-6 6-4 1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Oct-1996,Seoul CH,3,Clay,R32,221,140,0,,4,Tomas Nydahl,Hyung Taik Lee,3-6 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -516,18 +634,119 @@
 23-Sep-1996,Beijing CH,3,Hard,R32,252,747,1,,WC,Hyung Taik Lee,Yu Zheng,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-1996,Alicante CH,3,Clay,R16,257,122,0,,2,Nuno Marques,Hyung Taik Lee,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 12-Aug-1996,Alicante CH,3,Clay,R32,257,267,1,,,Hyung Taik Lee,Juan Antonio Marin,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 1,3,Hard,F,333,301,1,1,2,Hyung Taik Lee,Yong Il Yoon,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 2,3,Hard,F,333,317,1,2,3,Hyung Taik Lee,Michael Sell,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 4,3,Hard,F,333,317,1,2,1,Hyung Taik Lee,Michael Sell,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 1,3,Hard,SF,333,365,1,1,4,Hyung Taik Lee,Bing Chao Lin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 2,3,Hard,SF,333,365,1,2,4,Hyung Taik Lee,Bing Chao Lin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 3,3,Hard,SF,333,301,0,3,1,Yong Il Yoon,Hyung Taik Lee,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 4,3,Hard,SF,333,,1,2,WC,Hyung Taik Lee,Cheng Fong Chang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 1,3,Hard,QF,333,1118,1,1,,Hyung Taik Lee,Chia Yen Tsai,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 2,3,Hard,QF,333,,1,2,,Hyung Taik Lee,David Basile,2-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 3,3,Hard,QF,333,521,1,3,6,Hyung Taik Lee,Bobby Kokavec,2-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 4,3,Hard,QF,333,684,1,2,7,Hyung Taik Lee,Chih Jung Chen,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 1,3,Hard,R16,333,944,1,1,,Hyung Taik Lee,Jean Demeroutis,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 2,3,Hard,R16,333,,1,2,WC,Hyung Taik Lee,Wei Jen Cheng,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 3,3,Hard,R16,333,944,1,3,,Hyung Taik Lee,Jean Demeroutis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 4,3,Hard,R16,333,944,1,2,,Hyung Taik Lee,Jean Demeroutis,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 2,3,Hard,R32,333,853,1,2,,Hyung Taik Lee,Yu Hui Lien,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 3,3,Hard,R32,333,1039,1,3,,Hyung Taik Lee,Surya Wijaya Budi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Chinese Taipei Masters 4,3,Hard,R32,333,,1,2,Q,Hyung Taik Lee,David Basile,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 3,3,Clay,F,331,585,1,3,,Hyung Taik Lee,Nam Hoon Kim,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 4,3,Clay,F,331,486,1,2,8,Hyung Taik Lee,Sang Hoon Lee,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 3,3,Clay,SF,331,486,1,3,8,Hyung Taik Lee,Sang Hoon Lee,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 4,3,Clay,SF,331,420,1,2,5,Hyung Taik Lee,Yong Il Yoon,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 1,3,Clay,QF,331,941,0,1,,Min Kyu Han,Hyung Taik Lee,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 2,3,Clay,QF,331,420,0,1,7,Yong Il Yoon,Hyung Taik Lee,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 3,3,Clay,QF,331,941,1,3,Q,Hyung Taik Lee,Min Kyu Han,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 4,3,Clay,QF,331,832,1,2,,Hyung Taik Lee,Jong Sam Chung,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 1,3,Clay,R16,331,,1,1,,Hyung Taik Lee,Chan Ik Hwang,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 2,3,Clay,R16,331,642,1,1,,Hyung Taik Lee,Vadim Kutsenko,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 3,3,Clay,R16,331,,1,3,Q,Hyung Taik Lee,Seong Yoon Chung,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 4,3,Clay,R16,331,789,1,2,,Hyung Taik Lee,Tae Hee Kong,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 2,3,Clay,R32,331,789,1,1,WC,Hyung Taik Lee,Tae Hee Kong,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 3,3,Clay,R32,331,941,1,3,WC,Hyung Taik Lee,Chi Wan Kim,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-May-1996,Korea Masters 4,3,Clay,R32,331,,1,2,Q,Hyung Taik Lee,Hyo Ik Cho,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Apr-1996,Seoul,3,Hard,R32,305,111,0,WC,,Alex Radulescu,Hyung Taik Lee,6-3 3-6 6-1,0.81,0.0%,4.2%,77.8%,57.1%,37.5%,3/8,44.9%,38.1%,13.1%,25.0%,52.5%,3/7,156,0,3,72,56,16,11,1:29
-5-Apr-1996,Davis Cup G1 SF: KOR vs NZL,3,Clay,RR,296,39,0,,,Brett Steven,Hyung Taik Lee,6-4 3-6 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 5-Apr-1996,Davis Cup G1 SF: KOR vs NZL,3,Clay,RR,296,422,1,,,Hyung Taik Lee,Steven Downs,7-5 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-9-Feb-1996,Davis Cup G1 QF: INA vs KOR,3,Clay,RR,236,424,1,,,Hyung Taik Lee,Suwandi Suwandi,3-6 6-2 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Apr-1996,Davis Cup G1 SF: KOR vs NZL,3,Clay,RR,296,39,0,,,Brett Steven,Hyung Taik Lee,6-4 3-6 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 9-Feb-1996,Davis Cup G1 QF: INA vs KOR,3,Clay,RR,236,753,1,,,Hyung Taik Lee,Andrian Raturandang,6-2 4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Feb-1996,Davis Cup G1 QF: INA vs KOR,3,Clay,RR,236,424,1,,,Hyung Taik Lee,Suwandi Suwandi,3-6 6-2 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 1,3,Hard,SF,247,537,0,6,2,Yong Il Yoon,Hyung Taik Lee,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 2,3,Hard,SF,247,537,0,5,1,Yong Il Yoon,Hyung Taik Lee,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 4,3,Hard,SF,247,317,0,1,3,Yasufumi Yamamoto,Hyung Taik Lee,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 1,3,Hard,QF,247,862,1,6,,Hyung Taik Lee,Michael Shyjan,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 2,3,Hard,QF,247,606,1,5,3,Hyung Taik Lee,Takao Suzuki,6-2 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 4,3,Hard,QF,247,606,1,1,,Hyung Taik Lee,Takao Suzuki,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 1,3,Hard,R16,247,948,1,6,,Hyung Taik Lee,Tetsuya Chaen,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 2,3,Hard,R16,247,991,1,5,,Hyung Taik Lee,Akira Matsushita,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 3,3,Hard,R16,247,785,0,1,,Daiji Morii,Hyung Taik Lee,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 4,3,Hard,R16,247,,1,1,Q,Hyung Taik Lee,Wei Ju Chen,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 1,3,Hard,R32,247,822,1,6,,Hyung Taik Lee,Hidehiko Tanizawa,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 3,3,Hard,R32,247,,1,1,Q,Hyung Taik Lee,Takefumi Sato,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-1995,Japan Masters 4,3,Hard,R32,247,692,1,1,,Hyung Taik Lee,Eui Jong Chang,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
 23-Oct-1995,Seoul CH,3,Clay,SF,284,237,0,,,Vincenzo Santopadre,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Oct-1995,Seoul CH,3,Clay,QF,284,224,1,,,Hyung Taik Lee,Tom Vanhoudt,4-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-1995,Seoul CH,3,Clay,R16,284,257,1,,,Hyung Taik Lee,Tomas Nydahl,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-1995,Seoul CH,3,Clay,R32,284,314,1,,,Hyung Taik Lee,Pietro Pennisi,2-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 2,3,Hard,F,364,372,0,1,3,Han Cheol Shin,Hyung Taik Lee,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 4,3,Hard,F,364,500,1,2,5,Hyung Taik Lee,Seung Ho Ji,1-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 1,3,Hard,SF,364,500,0,2,3,Seung Ho Ji,Hyung Taik Lee,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 2,3,Hard,SF,364,454,1,1,6,Hyung Taik Lee,Sang Hoon Lee,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 4,3,Hard,SF,364,968,1,2,Q,Hyung Taik Lee,Min Kyu Han,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 1,3,Hard,QF,364,1025,1,2,,Hyung Taik Lee,Seung Kyu Park,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 2,3,Hard,QF,364,641,1,1,,Hyung Taik Lee,Ryuso Tsujino,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 3,3,Hard,QF,364,574,0,2,8,Eui Jong Chang,Hyung Taik Lee,6-7 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 4,3,Hard,QF,364,551,1,2,7,Hyung Taik Lee,Nam Ju Bae,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 1,3,Hard,R16,364,747,1,2,,Hyung Taik Lee,Jong Woong Yoon,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 2,3,Hard,R16,364,735,1,1,Q,Hyung Taik Lee,Hyun Cheol Bang,6-3 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 3,3,Hard,R16,364,783,1,2,,Hyung Taik Lee,Jae Sik Kim,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 4,3,Hard,R16,364,1025,1,2,WC,Hyung Taik Lee,Seung Kyu Park,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 2,3,Hard,R32,364,747,1,1,,Hyung Taik Lee,Jong Woong Yoon,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 3,3,Hard,R32,364,,1,2,,Hyung Taik Lee,Kentaro Masuda,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-May-1995,Korea Masters 4,3,Hard,R32,364,735,1,2,,Hyung Taik Lee,Seung Bok Baek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Apr-1995,Seoul,3,Hard,R16,408,82,0,WC,8,Greg Rusedski,Hyung Taik Lee,6-4 6-4,0.77,0.0%,5.1%,61.0%,61.1%,47.8%,3/7,45.2%,33.9%,8.9%,21.7%,42.4%,2/6,115,0,3,59,36,23,5,1:12
-24-Apr-1995,Seoul,3,Hard,R32,408,290,1,WC,WC,Hyung Taik Lee,Yong Il Yoon,7-6(7) 6-3,1.09,2.5%,3.8%,63.7%,60.8%,65.5%,1/2,51.9%,41.0%,1.3%,36.2%,48.4%,2/10,158,2,3,80,51,29,1,0:23
+24-Apr-1995,Seoul,3,Hard,R32,408,290,1,WC,WC,Hyung Taik Lee,Yong Il Yoon,7-6(7) 6-3,1.09,2.5%,3.8%,63.7%,60.8%,65.5%,1/2,51.9%,41.0%,1.3%,36.2%,48.4%,2/10,158,2,3,80,51,29,1,
 31-Mar-1995,Davis Cup G1 SF: NZL vs KOR,3,Grass,RR,409,633,1,,,Hyung Taik Lee,Scott Clark,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 2,3,Hard,F,697,345,0,1,,Herbert Wiltschnig,Hyung Taik Lee,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 4,3,Hard,F,697,595,1,Q,Q,Hyung Taik Lee,Jia Ping Xia,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 1,3,Hard,SF,697,345,0,1,4,Herbert Wiltschnig,Hyung Taik Lee,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 2,3,Hard,SF,697,537,1,1,Q,Hyung Taik Lee,Dmitri Tomashevich,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 4,3,Hard,SF,697,574,1,Q,,Hyung Taik Lee,Simon Touzil,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 1,3,Hard,QF,697,574,1,1,7,Hyung Taik Lee,Simon Touzil,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 2,3,Hard,QF,697,829,1,1,Q,Hyung Taik Lee,Seung Bok Baek,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 3,3,Hard,QF,697,268,0,Q,1,Oleg Ogorodov,Hyung Taik Lee,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 4,3,Hard,QF,697,575,1,Q,,Hyung Taik Lee,Tomas Zib,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 1,3,Hard,R16,697,968,1,1,,Hyung Taik Lee,Sofronio Palahang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 2,3,Hard,R16,697,589,1,1,,Hyung Taik Lee,Ville Liukko,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 3,3,Hard,R16,697,595,1,Q,,Hyung Taik Lee,Jia Ping Xia,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 4,3,Hard,R16,697,363,1,Q,4,Hyung Taik Lee,Ofer Sela,3-6 6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 2,3,Hard,R32,697,363,1,1,,Hyung Taik Lee,Ofer Sela,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 3,3,Hard,R32,697,457,1,Q,8,Hyung Taik Lee,Sang Hoon Lee,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Feb-1995,Philippines 1 Masters 4,3,Hard,R32,697,504,1,Q,,Hyung Taik Lee,Robert Witz,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Feb-1995,Davis Cup G1 QF: KOR vs INA,3,Carpet,RR,695,466,1,,,Hyung Taik Lee,Suwandi Suwandi,6-2 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Feb-1995,Davis Cup G1 QF: KOR vs INA,3,Carpet,RR,695,687,1,,,Hyung Taik Lee,Bonit Wiryawan,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 4,3,Hard,SF,880,215,0,Q,1,Bing Pan,Hyung Taik Lee,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 3,3,Hard,QF,880,215,0,Q,1,Bing Pan,Hyung Taik Lee,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 4,3,Hard,QF,880,310,1,Q,3,Hyung Taik Lee,Danny Sapsford,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 1,3,Hard,R16,880,306,0,4,,Bong Soo Kim,Hyung Taik Lee,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 2,3,Hard,R16,880,310,0,4,,Danny Sapsford,Hyung Taik Lee,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 3,3,Hard,R16,880,946,1,Q,WC,Hyung Taik Lee,Eduardo Furusho,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 4,3,Hard,R16,880,400,1,Q,6,Hyung Taik Lee,Donnie Isaak,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 1,3,Hard,R32,880,1224,1,4,WC,Hyung Taik Lee,Takao Suzuki,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 3,3,Hard,R32,880,470,1,Q,8,Hyung Taik Lee,Helge Capell,6-7 6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+7-Nov-1994,Japan Masters 4,3,Hard,R32,880,588,1,Q,,Hyung Taik Lee,Toshitsugu Mori,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Sep-1994,Seoul CH,3,Hard,R32,907,188,0,WC,7,Louis Gloria,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 3,3,Clay,SF,1171,658,0,WC,,Tae Hee Kong,Hyung Taik Lee,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 3,3,Clay,QF,1171,,1,WC,Q,Hyung Taik Lee,Seung Ri Sohn,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 1,3,Clay,R16,1171,,0,8,,Seung Bok Baek,Hyung Taik Lee,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 2,3,Clay,R16,1171,384,0,6,,Jae Sik Kim,Hyung Taik Lee,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 3,3,Clay,R16,1171,384,1,WC,2,Hyung Taik Lee,Jae Sik Kim,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 4,3,Clay,R16,1171,635,0,WC,,Sang Hoon Lee,Hyung Taik Lee,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 2,3,Clay,R32,1171,1061,1,6,,Hyung Taik Lee,Tae Beom Shin,1-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 3,3,Clay,R32,1171,769,1,WC,,Hyung Taik Lee,Jong Woong Yoon,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-May-1994,Korea Masters 4,3,Clay,R32,1171,384,1,WC,2,Hyung Taik Lee,Jae Sik Kim,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-1993,Korea Masters 3,3,Hard,R16,,,0,Q,Q,Jin Ho Lee,Hyung Taik Lee,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+15-May-1993,Korea Masters 1,3,Hard,R32,,856,0,WC,Q,Frank Ofori,Hyung Taik Lee,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+15-May-1993,Korea Masters 2,3,Hard,R32,,856,0,,,Frank Ofori,Hyung Taik Lee,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+15-May-1993,Korea Masters 3,3,Hard,R32,,288,1,Q,1,Hyung Taik Lee,Yong Il Yoon,3-6 6-4 7-6,,,,,,,,,,,,,,,,,,,,,

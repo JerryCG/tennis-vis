@@ -1,4 +1,31 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Apr-2024,M15 Kashiwa,3,Hard,R32,600,1037,0,8,Q,Keisuke Saitoh,Tsung Hao Huang,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R16,605,786,0,,WC,Kokoro Isomura,Tsung Hao Huang,2-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R32,605,580,1,,6,Tsung Hao Huang,Jake Delaney,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R16,605,878,0,,Q,Leo Vithoontien,Tsung Hao Huang,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R32,605,514,1,,6,Tsung Hao Huang,Yuki Mochizuki,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,619,973,0,8,Q,Maik Steiner,Tsung Hao Huang,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,619,659,1,8,,Tsung Hao Huang,Ye Cong Mo,5-7 5-3 RET,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,633,579,0,,7,Maximus Jones,Tsung Hao Huang,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,633,1274,1,,,Tsung Hao Huang,Matic Kriznik,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,QF,630,732,0,7,,Gabriel Decamps,Tsung Hao Huang,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,630,1040,1,7,Q,Tsung Hao Huang,Nitin Kumar Sinha,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,630,1262,1,7,WC,Tsung Hao Huang,Yuttana Charoenphon,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Bhopal,3,Hard,R16,611,645,0,,,David Pichler,Tsung Hao Huang,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Bhopal,3,Hard,R32,611,833,1,,,Tsung Hao Huang,Ishaque Eqbal,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Mandya,3,Hard,R32,611,794,0,7,,Karan Singh,Tsung Hao Huang,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,,SF,649,261,0,8,2,Evgeny Donskoy,Tsung Hao Huang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,,QF,649,1258,1,8,Q,Tsung Hao Huang,Seon Yong Han,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,,R16,649,1430,1,8,Q,Tsung Hao Huang,Congsup Congcar,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,,R32,649,1992,1,8,LL,Tsung Hao Huang,Natthasith Kunsuwan,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Hua Hin,3,Hard,R32,521,763,0,3,,Linang Xiao,Tsung Hao Huang,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Shenzhen CH,3,Hard,QF,625,477,0,Q,,Coleman Wong,Tsung Hao Huang,4-6 7-5 6-3,0.84,1.6%,3.3%,64.2%,58.2%,54.5%,12/17,47.7%,36.1%,9.3%,17.5%,49.1%,3/9,220,2,4,123,79,44,9,2:11
+16-Oct-2023,Shenzhen CH,3,Hard,R16,625,397,1,Q,Q,Tsung Hao Huang,Egor Gerasimov,6-3 6-2,1.49,2.0%,2.0%,56.9%,72.4%,50.0%,1/3,59.4%,55.6%,0.0%,46.7%,73.3%,5/6,96,1,1,51,29,22,0,1:02
+16-Oct-2023,Shenzhen CH,3,Hard,R32,625,337,1,Q,,Tsung Hao Huang,Benjamin Lock,7-5 6-4,1.03,6.4%,3.8%,65.4%,70.6%,55.6%,7/8,52.6%,35.6%,0.0%,34.3%,37.5%,3/4,137,5,3,78,51,27,0,1:38
+16-Oct-2023,Shenzhen CH,3,Hard,Q2,625,802,1,4,11,Tsung Hao Huang,Ray Ho,6-3 6-2,1.40,6.3%,3.2%,60.3%,73.7%,56.0%,4/5,58.2%,46.8%,4.3%,44.0%,50.0%,4/8,110,4,2,63,38,25,2,1:15
+16-Oct-2023,Shenzhen CH,3,Hard,Q1,625,1461,1,4,Alt,Tsung Hao Huang,Jiayang Dong,6-0 6-0,2.89,5.7%,0.0%,62.9%,77.3%,69.2%,0/0,74.3%,74.3%,0.0%,82.6%,58.3%,6/9,70,2,0,35,22,13,0,0:41
+9-Oct-2023,Shenzhen CH,3,Hard,Q2,586,347,0,,2,Colin Sinclair,Tsung Hao Huang,3-6 6-4 6-2,0.79,4.5%,5.7%,48.9%,69.8%,46.7%,4/8,46.2%,33.3%,13.6%,26.8%,48.0%,3/7,169,4,5,88,43,45,11,1:55
+9-Oct-2023,Shenzhen CH,3,Hard,Q1,586,440,1,,7,Tsung Hao Huang,Jose Rubin Statham,3-6 6-4 7-5,0.89,1.7%,4.3%,41.7%,60.4%,56.7%,4/8,49.0%,37.1%,11.2%,36.2%,38.7%,4/14,204,2,5,115,48,67,10,2:26
 4-Sep-2023,M25 Hong Kong,3,Hard,R32,580,,0,6,WC,Ki Lung Ng,Tsung Hao Huang,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Hong Kong,3,Hard,R16,580,844,0,8,,Takuya Kumasaka,Tsung Hao Huang,1-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Hong Kong,3,Hard,R32,580,822,1,8,,Tsung Hao Huang,Yeongseok Jeong,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,

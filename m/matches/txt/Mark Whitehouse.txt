@@ -1,7 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Cassis CH,3,Hard,Q1,630,446,0,Alt,9,Daniel Cox,Mark Whitehouse,7-6(0) 2-6 6-4,1.06,16.3%,2.3%,76.7%,77.3%,45.0%,3/4,49.7%,32.0%,13.4%,15.8%,55.0%,2/6,183,14,2,86,66,20,13,1:47
-28-Aug-2023,Manacor-Mallorca CH,3,Hard,Q2,630,386,0,Alt,10,Daniel Cukierman,Mark Whitehouse,7-6(5) 6-4,0.95,10.3%,5.9%,63.2%,69.8%,64.0%,2/4,49.6%,30.8%,13.8%,23.9%,47.4%,1/1,133,7,4,68,43,25,9,1:23
-28-Aug-2023,Manacor-Mallorca CH,3,Hard,Q1,630,320,1,Alt,4,Mark Whitehouse,Ugo Blanchet,7-6(2) 6-3,1.26,8.8%,0.0%,67.6%,78.3%,54.5%,3/3,52.3%,37.0%,6.2%,31.0%,43.6%,2/5,149,6,0,68,46,22,5,1:33
+1-Apr-2024,Barletta CH,3,Clay,Q1,854,503,0,Alt,7,Carlos Gimeno Valero,Mark Whitehouse,6-2 6-0,0.40,0.0%,7.1%,54.8%,39.1%,36.8%,2/7,31.7%,25.0%,0.0%,24.2%,28.6%,0/3,82,0,3,42,23,19,0,0:57
+25-Mar-2024,M25 Trnava,3,Hard,R32,858,372,0,,3,Mikalai Haliak,Mark Whitehouse,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R16,843,471,0,,6,Anton Matusevich,Mark Whitehouse,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R32,843,1675,1,,WC,Mark Whitehouse,Andrin Casanova,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,R32,843,533,0,Q,7,Buvaysar Gadamauri,Mark Whitehouse,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sharm ElSheikh,3,Hard,R32,860,1081,0,,PR,Kristjan Tamm,Mark Whitehouse,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Sharm ElSheikh,3,Hard,R16,864,484,0,,3,Martyn Pawelski,Mark Whitehouse,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Sharm ElSheikh,3,Hard,R32,864,1457,1,,Q,Mark Whitehouse,Ioannis Kountourakis,7-6(3) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,,R16,883,677,0,,5,Diego Augusto Barreto Sanchez,Mark Whitehouse,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,,R32,883,,1,,WC,Mark Whitehouse,Roberto Chacon Huertas,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,Champaign CH,3,Hard,R32,802,239,0,Q,7,Patrick Kypson,Mark Whitehouse,6-1 7-6(5),0.52,13.4%,3.0%,58.2%,74.4%,42.9%,5/8,42.6%,20.0%,20.0%,13.9%,31.6%,0/2,122,9,2,67,39,28,11,1:09
+13-Nov-2023,Champaign CH,3,Hard,Q2,802,653,1,Alt,12,Mark Whitehouse,Keegan Smith,7-6(2) 7-6(4),1.40,10.7%,4.0%,57.3%,86.0%,65.6%,1/2,53.9%,31.6%,19.0%,25.8%,52.9%,1/1,154,8,3,75,43,32,15,1:30
+13-Nov-2023,Champaign CH,3,Hard,Q1,802,438,1,Alt,2,Mark Whitehouse,Gabi Adrian Boitan,4-6 6-1 6-4,1.25,14.8%,2.5%,60.5%,77.6%,46.9%,2/4,53.8%,43.2%,2.3%,34.6%,55.6%,4/11,169,12,2,81,49,32,2,1:43
+6-Nov-2023,M25  Austin TX,3,Hard,R16,801,758,0,7,,Colin Markes,Mark Whitehouse,1-6 7-5 10-6,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25  Austin TX,3,Hard,R32,801,1768,1,7,Q,Mark Whitehouse,Marko Mesarovic,5-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,R32,663,1136,0,4,,Olle Wallin,Mark Whitehouse,6-7(2) 7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Norman OK,3,Hard,R32,658,1046,0,3,,Tyler Stice,Mark Whitehouse,6-1 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Las Vegas NV,3,Hard,R32,664,1053,0,,Q,Adit Sinha,Mark Whitehouse,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,Fairfield CH,3,Hard,Q1,647,376,0,,2,Evan Zhu,Mark Whitehouse,6-2 6-2,0.55,0.0%,12.7%,49.1%,59.3%,28.6%,7/12,37.9%,31.3%,6.3%,25.7%,46.2%,1/5,103,0,7,55,27,28,3,0:58
+4-Sep-2023,Cassis CH,3,Hard,Q1,630,446,0,Alt,9,Daniel Cox,Mark Whitehouse,7-6(0) 2-6 6-4,1.06,16.3%,2.3%,76.7%,77.3%,45.0%,3/4,49.7%,32.0%,13.4%,15.8%,55.0%,2/6,183,14,2,86,66,20,13,1:47
+28-Aug-2023,Mallorca CH,3,Hard,Q2,630,386,0,Alt,10,Daniel Cukierman,Mark Whitehouse,7-6(5) 6-4,0.95,10.3%,5.9%,63.2%,69.8%,64.0%,2/4,49.6%,30.8%,13.8%,23.9%,47.4%,1/1,133,7,4,68,43,25,9,1:23
+28-Aug-2023,Mallorca CH,3,Hard,Q1,630,320,1,Alt,4,Mark Whitehouse,Ugo Blanchet,7-6(2) 6-3,1.26,8.8%,0.0%,67.6%,78.3%,54.5%,3/3,52.3%,37.0%,6.2%,31.0%,43.6%,2/5,149,6,0,68,46,22,5,1:33
 14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,Q2,636,413,0,12,3,Akira Santillan,Mark Whitehouse,3-6 6-3 6-0,0.74,3.8%,2.5%,64.6%,64.7%,35.7%,8/13,44.7%,33.8%,1.4%,22.7%,51.9%,2/8,150,3,2,79,51,28,1,1:32
 14-Aug-2023,Grodzisk Mazowiecki CH,3,Hard,Q1,636,1158,1,12,Alt,Mark Whitehouse,Ivan Liutarevich,6-0 6-3,2.20,11.6%,2.3%,60.5%,80.8%,70.6%,2/2,64.0%,51.2%,4.7%,37.5%,68.4%,4/6,86,5,1,43,26,17,2,0:53
 7-Aug-2023,Banja Luka CH,3,Clay,Q1,640,513,0,,6,Kirill Kivattsev,Mark Whitehouse,6-3 6-4,0.62,1.5%,6.1%,51.5%,64.7%,50.0%,10/13,43.1%,26.3%,1.8%,24.4%,31.3%,1/6,123,1,4,66,34,32,1,1:27

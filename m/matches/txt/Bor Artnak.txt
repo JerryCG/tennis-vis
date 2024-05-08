@@ -1,12 +1,64 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Savannah CH,3,Clay,Q1,449,475,0,12,,Andres Andrade,Bor Artnak,6-4 3-1 RET,0.68,0.0%,3.8%,59.6%,54.8%,42.9%,2/5,43.0%,34.1%,4.9%,12.5%,64.7%,1/2,93,0,2,52,31,21,2,1:07
+15-Apr-2024,Acapulco CH,3,Hard,R16,478,77,0,Q,1,Rinky Hijikata,Bor Artnak,7-6(5) 6-3,0.67,2.4%,3.5%,64.7%,63.6%,43.3%,8/10,44.7%,29.2%,7.7%,13.3%,42.9%,1/3,150,2,3,85,55,30,5,2:01
+15-Apr-2024,Acapulco CH,3,Hard,R32,478,279,1,Q,,Bor Artnak,Joao Lucas Reis Da Silva,6-4 6-2,1.49,7.7%,3.8%,69.2%,66.7%,43.8%,3/6,59.8%,60.0%,0.0%,58.3%,62.5%,6/10,112,4,2,52,36,16,0,1:36
+15-Apr-2024,Acapulco CH,3,Hard,Q2,478,390,1,9,1,Bor Artnak,Benjamin Lock,7-5 4-2 RET,1.08,5.7%,9.4%,64.2%,64.7%,31.6%,2/5,51.8%,50.9%,0.0%,35.3%,73.9%,5/8,110,3,5,53,34,19,0,1:39
+15-Apr-2024,Acapulco CH,3,Hard,Q1,478,,1,9,WC,Bor Artnak,Santiago Padilla Cote,6-1 6-2,2.14,2.0%,0.0%,61.2%,83.3%,63.2%,2/2,64.8%,52.4%,0.0%,48.4%,63.6%,4/5,91,1,0,49,30,19,0,1:10
+1-Apr-2024,Mexico City CH,3,Clay,Q2,491,1307,0,,WC,Juan Alejandro Hernandez Serrano,Bor Artnak,6-7(6) 6-4 0-0 RET,0.94,2.9%,11.6%,42.0%,58.6%,45.0%,3/9,48.3%,46.3%,1.2%,38.5%,53.5%,5/9,151,2,8,69,29,40,1,2:09
+1-Apr-2024,Mexico City CH,3,Clay,Q1,491,311,1,,1,Bor Artnak,Blaise Bicknell,6-1 0-0 RET,5.68,22.2%,0.0%,55.6%,90.0%,87.5%,0/0,75.7%,63.2%,0.0%,66.7%,61.5%,2/2,37,4,0,18,10,8,0,0:27
+18-Mar-2024,M25 Calabasas CA,3,Hard,R16,486,288,0,,3,Brandon Holt,Bor Artnak,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M25 Calabasas CA,3,Hard,R32,486,890,1,,WC,Bor Artnak,Collin Altamirano,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,Phoenix CH,3,Hard,Q1,486,136,0,WC,8,Terence Atmane,Bor Artnak,6-3 6-3,0.56,0.0%,4.1%,59.2%,58.6%,45.0%,3/7,40.0%,26.1%,6.5%,11.1%,35.7%,1/1,95,0,2,49,29,20,3,1:05
+22-Jan-2024,Indian Wells 2 CH,3,Hard,QF,527,143,0,Q,1,Zachary Svajda,Bor Artnak,6-2 3-6 6-0,0.60,4.9%,2.5%,56.8%,65.2%,42.9%,2/7,43.8%,26.8%,12.5%,13.8%,40.7%,1/2,137,4,2,81,46,35,7,1:41
+22-Jan-2024,Indian Wells 2 CH,3,Hard,R16,527,286,1,Q,6,Bor Artnak,Mitchell Krueger,6-2 6-3,1.50,3.6%,5.4%,44.6%,72.0%,61.3%,3/4,59.0%,51.0%,4.1%,33.3%,72.7%,4/6,105,2,3,56,25,31,2,1:26
+22-Jan-2024,Indian Wells 2 CH,3,Hard,R32,527,459,1,Q,,Bor Artnak,James Trotter,6-3 7-5,1.36,1.6%,6.5%,54.8%,82.4%,60.7%,2/2,54.3%,37.3%,11.9%,25.0%,51.6%,3/8,129,1,4,62,34,28,8,1:41
+22-Jan-2024,Indian Wells 2 CH,3,Hard,Q2,527,604,1,6,9,Bor Artnak,Ezekiel Clark,6-3 6-4,1.18,11.1%,4.8%,63.5%,72.5%,56.5%,3/4,54.4%,39.2%,2.0%,34.4%,47.4%,3/5,114,7,3,63,40,23,1,1:42
+22-Jan-2024,Indian Wells 2 CH,3,Hard,Q1,527,820,1,6,Alt,Bor Artnak,Patrick Brady,6-3 7-5,1.33,1.6%,4.7%,60.9%,66.7%,52.0%,7/10,56.3%,52.1%,4.2%,45.7%,64.0%,6/8,135,1,3,64,39,25,3,1:56
+15-Jan-2024,Indian Wells 1 CH,3,Hard,Q1,527,1255,0,6,WC,Nicholas Godsick,Bor Artnak,4-6 6-4 7-5,0.99,1.8%,2.7%,58.9%,54.5%,54.3%,12/19,49.8%,45.0%,6.4%,32.8%,60.4%,6/11,221,2,3,112,66,46,7,2:58
+11-Dec-2023,M15 Sharm ElSheikh,3,,QF,526,482,0,5,4,Vadym Ursu,Bor Artnak,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,R16,526,679,1,5,,Bor Artnak,Amr Elsayed Abdou Ahmed Mohamed,6-3 1-2 RET,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,R32,526,1091,1,5,,Bor Artnak,Karol Drzewiecki,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,,F,591,713,0,4,,Vadym Ursu,Bor Artnak,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,,SF,591,821,1,4,,Bor Artnak,Petr Bar Biryukov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,,QF,591,746,1,4,,Bor Artnak,Zura Tkemaladze,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,,R16,591,1026,1,4,,Bor Artnak,Filippo Speziali,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,,R32,591,2011,1,4,Q,Bor Artnak,Grigory Shebekin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Sharm ElSheikh,3,Hard,SF,594,666,0,7,,Yurii Dzhavakian,Bor Artnak,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Sharm ElSheikh,3,Hard,QF,594,612,1,7,,Bor Artnak,Amr Elsayed Abdou Ahmed Mohamed,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R16,594,1931,1,7,Q,Bor Artnak,Pavel Verbin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R32,594,665,1,7,,Bor Artnak,Ilia Simakin,7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Al Zahra,3,Hard,SF,568,742,0,2,4,Petr Nesterov,Bor Artnak,3-6 6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Al Zahra,3,Hard,QF,568,807,1,2,6,Bor Artnak,Viktor Jovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Al Zahra,3,Hard,R16,568,1605,1,2,Q,Bor Artnak,Samuel Puskar,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Al Zahra,3,Hard,R32,568,1128,1,2,,Bor Artnak,Dragos Nicolae Cazacu,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Al Zahra,3,Hard,SF,571,730,0,2,4,Petr Nesterov,Bor Artnak,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Al Zahra,3,Hard,QF,571,1678,1,2,Q,Bor Artnak,Matic Dimic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Al Zahra,3,Hard,R16,571,1097,1,2,,Bor Artnak,Tomas Lanik,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Al Zahra,3,Hard,R32,571,1444,1,2,,Bor Artnak,Igor Dudun,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Bad Waltersdorf,3,Clay,R16,574,774,0,3,,Sebastian Sorger,Bor Artnak,0-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Bad Waltersdorf,3,Clay,R32,574,1893,1,3,WC,Bor Artnak,Syl Gaxherri,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R16,571,446,0,,7,Sebastian Gima,Bor Artnak,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R32,571,1893,1,,WC,Bor Artnak,Marko Maksimovic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,Sibiu CH,3,Clay,R16,599,235,0,WC,Q,Calvin Hemery,Bor Artnak,6-4 6-2,0.64,0.0%,3.3%,62.3%,55.3%,56.5%,5/8,43.0%,28.3%,5.7%,20.6%,42.1%,0/0,114,0,2,61,38,23,3,1:26
+18-Sep-2023,Sibiu CH,3,Clay,R32,599,215,1,WC,7,Bor Artnak,Alessandro Giannessi,3-0 RET,2.85,0.0%,0.0%,54.5%,83.3%,60.0%,0/0,75.0%,77.8%,0.0%,100.0%,50.0%,1/1,20,0,0,11,6,5,0,0:13
+15-Sep-2023,Davis Cup WG2 R1: SLO vs LUX,3,Clay,RR,616,486,0,,,Alex Knaff,Bor Artnak,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Sep-2023,Davis Cup WG2 R1: SLO vs LUX,3,Clay,RR,616,609,0,,,Chris Rodesch,Bor Artnak,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Maribor,3,Clay,QF,606,322,0,,1,Toby Alex Kodat,Bor Artnak,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Maribor,3,Clay,R16,606,377,1,,5,Bor Artnak,Marko Topo,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Maribor,3,Clay,R32,606,600,1,,,Bor Artnak,Stefan Popovic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Maribor,3,Clay,R32,606,572,0,,,David Pichler,Bor Artnak,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,QF,602,511,0,7,2,David Pichler,Bor Artnak,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,R16,602,1915,1,7,Q,Bor Artnak,Mariano Tammaro,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Kottingbrunn,3,Clay,R32,602,1097,1,7,,Bor Artnak,Milos Karol,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Cordenons CH,3,Clay,Q1,622,428,0,,4,Giovanni Oradini,Bor Artnak,7-6(5) 6-3,0.91,1.5%,6.2%,55.4%,63.9%,34.5%,2/7,47.5%,44.6%,4.1%,34.7%,64.0%,3/7,139,1,4,65,36,29,3,1:58
 31-Jul-2023,M25 Pitesti,3,Clay,QF,716,737,0,,,Luca Giacomini,Bor Artnak,6-2 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,R16,716,1956,1,,WC,Bor Artnak,Mihai Alexandru Coman,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,R32,716,1238,1,,Q,Bor Artnak,Simeon Terziev,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Novi Sad,3,Clay,F,712,684,1,,8,Bor Artnak,Andrej Nedic,6-0 7-6(2),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Novi Sad,3,Clay,SF,712,595,1,,4,Bor Artnak,Florent Bax,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Novi Sad,3,Clay,QF,712,461,1,,1,Bor Artnak,Valerio Aboian,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Novi Sad,3,Clay,R16,712,660,1,,7,Bor Artnak,Franco Roncadelli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M15 Novi Sad,3,Clay,R32,712,1445,1,,JR,Bor Artnak,Vuk Radjenovic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Celje,3,Clay,SF,732,545,0,6,3,Enrico Dalla Valle,Bor Artnak,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Celje,3,Clay,QF,732,794,1,6,,Bor Artnak,Matej Dodig,4-6 7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Celje,3,Clay,R16,732,1042,1,6,LL,Bor Artnak,Jonas Trinker,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -38,7 +90,7 @@
 12-Mar-2023,Vina Del Mar CH,3,Clay,Q1,682,304,0,,2,Gonzalo Villanueva,Bor Artnak,6-7(8) 6-4 6-2,0.92,3.8%,4.7%,49.1%,61.5%,42.6%,4/12,48.3%,44.3%,0.0%,35.5%,60.0%,5/10,203,4,5,106,52,54,0,3:05
 6-Mar-2023,Santiago CH,3,Clay,Q1,682,106,0,,1,Hugo Gaston,Bor Artnak,6-7(2) 6-1 6-1,0.65,0.0%,10.5%,48.4%,50.0%,46.9%,7/14,41.8%,33.3%,8.0%,9.4%,51.2%,2/3,170,0,10,95,46,49,6,2:14
 6-Feb-2023,M15 Sharm ElSheikh,3,Hard,R32,672,662,0,,7,Szymon Kielan,Bor Artnak,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Feb-2023,Davis Cup WG1 PO: TUR vs SLO,3,Hard,RR,678,304,0,,,Cem Ilkel,Bor Artnak,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+3-Feb-2023,Davis Cup WG1 PO: TUR vs SLO,3,,RR,678,304,0,,,Cem Ilkel,Bor Artnak,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M25 Al Zahra,3,Hard,R16,681,959,0,JE,Q,Seydina Andre,Bor Artnak,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,M25 Al Zahra,3,Hard,R32,681,397,1,JE,6,Bor Artnak,Sasi Kumar Mukund,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Dec-2022,M15 Sharm ElSheikh,3,Hard,R16,695,1338,0,,Q,Seydina Andre,Bor Artnak,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,

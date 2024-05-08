@@ -1,8 +1,49 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Cary CH,3,Hard,Q2,682,466,1,Alt,5,Garrett Johns,Nathan Ponwith,7-6(2) 6-2,1.58,14.8%,4.9%,52.5%,87.5%,48.3%,4/6,58.2%,49.3%,4.1%,45.9%,52.8%,4/9,134,9,3,61,32,29,3,1:52
-10-Sep-2023,Cary CH,3,Hard,Q1,682,520,1,Alt,9,Garrett Johns,Justin Boulais,7-5 7-6(8),1.27,5.6%,2.8%,69.4%,70.0%,63.6%,1/3,53.2%,40.7%,1.2%,42.5%,30.8%,3/9,158,4,2,72,50,22,1,2:03
+22-Apr-2024,M15 Vero Beach FL,3,Clay,F,481,606,1,2,3,Garrett Johns,Victor Lilov,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Vero Beach FL,3,Clay,SF,481,738,1,2,5,Garrett Johns,William Grant,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Vero Beach FL,3,Clay,QF,481,1652,1,2,WC,Garrett Johns,Rudy Quan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Vero Beach FL,3,Clay,R16,481,1266,1,2,,Garrett Johns,Alexander Razeghi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Vero Beach FL,3,Clay,R32,481,953,1,2,,Garrett Johns,Ben Jones,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,Sarasota CH,3,Clay,Q1,486,741,0,11,WC,Felix Corwin,Garrett Johns,6-3 4-6 7-6(5),1.01,2.0%,3.1%,52.0%,68.6%,53.2%,10/13,48.7%,39.2%,4.6%,27.8%,53.4%,3/12,228,2,3,98,51,47,6,3:05
+8-Jan-2024,M25 Loughborough,3,Hard,R32,471,382,0,,4,Raphael Collignon,Garrett Johns,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q2,476,366,0,11,2,Egor Gerasimov,Garrett Johns,1-6 6-3 7-6(1),1.05,4.9%,1.2%,51.9%,73.8%,51.3%,3/6,50.0%,38.7%,6.5%,32.3%,51.6%,4/8,174,4,1,81,42,39,6,2:07
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,476,932,1,11,WC,Garrett Johns,Francisco Rocha,6-3 7-5,1.18,6.9%,8.6%,51.7%,80.0%,50.0%,0/2,53.0%,40.7%,8.5%,38.5%,45.0%,4/8,117,4,5,58,30,28,5,1:32
+13-Nov-2023,M15 Boca Raton FL,3,,F,562,758,0,5,6,Kilian Feldbausch,Garrett Johns,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,SF,562,497,1,5,3,Garrett Johns,Victor Lilov,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,QF,562,463,1,5,2,Garrett Johns,Matias Franco Descotte,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,R16,562,1852,1,5,WC,Garrett Johns,Daniel Milavsky,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,,R32,562,,1,5,Q,Garrett Johns,Ronan Jachuck,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,F,640,,1,2,WC,Garrett Johns,Dhakshineswar Suresh,2-6 6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,SF,640,1096,1,2,,Garrett Johns,Luciano Tacchi,7-5 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,QF,640,1067,1,2,,Garrett Johns,Emile Hudd,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,R16,640,,1,2,Q,Garrett Johns,Luca Staeheli,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,R32,640,944,1,2,,Garrett Johns,Axel Nefve,6-2 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,F,641,879,1,3,,Garrett Johns,Derek Pham,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,SF,641,745,1,3,8,Garrett Johns,Matias Soto,7-5 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,QF,641,1042,1,3,Q,Garrett Johns,Tyler Stice,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,R16,641,1138,1,3,Q,Garrett Johns,Sebastian Dominko,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Fayetteville AR,3,Hard,R32,641,920,1,3,,Garrett Johns,Lucas Renard,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Harlingen TX,3,Hard,R32,639,1651,0,7,Q,Ivan Marrero Curbelo,Garrett Johns,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,Fairfield CH,3,Hard,Q1,677,495,0,Alt,12,Alfredo Perez,Garrett Johns,6-2 7-6(2),0.74,0.0%,5.1%,67.1%,54.7%,46.2%,4/8,44.9%,35.6%,1.7%,34.3%,37.5%,2/2,138,0,4,79,53,26,1,1:42
+2-Oct-2023,Tiburon CH,3,Hard,R32,677,712,0,Q,WC,Learner Tien,Garrett Johns,6-2 6-4,0.69,3.5%,1.8%,61.4%,57.1%,31.8%,3/8,42.2%,36.5%,0.0%,33.3%,42.1%,2/5,109,2,1,57,35,22,0,1:20
+2-Oct-2023,Tiburon CH,3,Hard,Q2,677,460,1,WC,,Garrett Johns,Alexander Cozbinov,6-4 1-6 6-1,1.21,8.8%,4.4%,50.0%,79.4%,47.1%,2/5,53.0%,44.4%,8.6%,34.0%,58.8%,4/11,149,6,3,68,34,34,7,1:53
+2-Oct-2023,Tiburon CH,3,Hard,Q1,677,359,1,WC,3,Garrett Johns,Omni Kumar,6-1 6-3,1.46,0.0%,5.5%,47.3%,69.2%,55.2%,4/5,58.5%,55.9%,2.9%,42.5%,75.0%,5/14,123,0,3,55,26,29,2,1:28
+25-Sep-2023,Charleston CH,3,Hard,R16,638,173,0,WC,7,Denis Kudla,Garrett Johns,6-3 6-3,0.78,2.6%,2.6%,60.5%,60.9%,40.0%,7/11,45.4%,36.9%,6.2%,25.0%,56.0%,1/7,141,2,2,76,46,30,4,1:41
+25-Sep-2023,Charleston CH,3,Hard,R32,638,219,1,WC,,Garrett Johns,Giovanni Mpetshi Perricard,6-4 7-6(4),1.44,10.9%,4.7%,60.9%,84.6%,68.0%,0/0,53.3%,31.5%,15.1%,25.0%,41.4%,1/4,137,7,3,64,39,25,11,1:35
+11-Sep-2023,Cary CH,3,Hard,R16,682,207,0,Q,8,Zachary Svajda,Garrett Johns,6-3 6-3,0.70,2.1%,0.0%,72.9%,62.9%,23.1%,1/5,41.9%,33.3%,5.3%,24.2%,45.8%,1/5,105,1,0,48,35,13,3,1:20
+11-Sep-2023,Cary CH,3,Hard,R32,682,1184,1,Q,WC,Garrett Johns,Darwin Blanch,6-2 3-6 7-6(2),1.21,9.2%,4.6%,55.2%,79.2%,59.0%,2/3,52.2%,36.1%,9.3%,30.0%,45.9%,2/8,184,8,4,87,48,39,9,2:15
+11-Sep-2023,Cary CH,3,Hard,Q2,682,466,1,Alt,5,Garrett Johns,Nathan Ponwith,7-6(2) 6-2,1.58,14.8%,4.9%,52.5%,87.5%,48.3%,4/6,58.2%,49.3%,4.1%,45.9%,52.8%,4/9,134,9,3,61,32,29,3,1:52
+11-Sep-2023,Cary CH,3,Hard,Q1,682,520,1,Alt,9,Garrett Johns,Justin Boulais,7-5 7-6(8),1.27,5.6%,2.8%,69.4%,70.0%,63.6%,1/3,53.2%,40.7%,1.2%,42.5%,30.8%,3/9,158,4,2,72,50,22,1,2:03
 28-Aug-2023,M15 Monastir,3,Hard,R16,701,803,0,6,,Alexandros Skorilas,Garrett Johns,6-3 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Monastir,3,Hard,R32,701,1009,1,6,,Garrett Johns,Samir Banerjee,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,QF,691,725,0,7,,Martin Landaluce,Garrett Johns,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,R16,691,,1,7,Q,Garrett Johns,Mohammad Alkotop,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Monastir,3,Hard,R32,691,941,1,7,,Garrett Johns,Thomas Braithwaite,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Monastir,3,Hard,F,687,624,1,4,3,Garrett Johns,Lukas Pokorny,6-7(3) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Monastir,3,Hard,SF,687,426,1,4,1,Garrett Johns,Kris Van Wyk,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Monastir,3,Hard,QF,687,2031,1,4,,Garrett Johns,Younes Lalami Laaroussi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Monastir,3,Hard,R16,687,612,1,4,Q,Garrett Johns,Mario Gonzalez Fernandez,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Monastir,3,Hard,R32,687,1287,1,4,,Garrett Johns,Aleksandr Lobanov,6-7(3) 7-6(3) 5-1 RET,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M15 Xativa,3,Clay,R16,676,1621,0,6,PR,Andrea Bolla,Garrett Johns,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M15 Xativa,3,Clay,R32,676,844,1,6,,Garrett Johns,Bruno Pujol Navarro,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M25 Denia,3,Clay,R32,685,542,0,,8,Felix Gill,Garrett Johns,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,

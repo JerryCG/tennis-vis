@@ -1,10 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-6-Mar-2014,Indian Wells Masters Q,3,Hard,Q1,,457,0,,,Michael Shabaz,Robert Kendrick,6-4 1-6 6-3,1.18,17.2%,4.7%,67.2%,90.7%,38.1%,2/4,52.3%,31.3%,3.1%,21.9%,40.6%,2/2,128,11,3,64,43,21,2,1:17
+6-Mar-2014,Indian Wells Masters,3,Hard,Q1,,457,0,,,Michael Shabaz,Robert Kendrick,6-4 1-6 6-3,1.18,17.2%,4.7%,67.2%,90.7%,38.1%,2/4,52.3%,31.3%,3.1%,21.9%,40.6%,2/2,128,11,3,64,43,21,2,1:17
 30-Sep-2013,Sacramento CH,3,Hard,R32,,775,0,WC,Q,Thanasi Kokkinakis,Robert Kendrick,7-6(5) 6-3,0.74,11.5%,1.3%,60.3%,68.1%,48.4%,4/7,45.9%,29.4%,19.1%,15.8%,46.7%,1/4,146,9,1,78,47,31,13,1:34
 3-Jul-2012,Panama City CH,3,Clay,R32,442,114,0,,2,Rogerio Dutra Silva,Robert Kendrick,6-3 3-0 RET,0.39,2.4%,4.8%,45.2%,57.9%,43.5%,2/5,37.0%,19.4%,6.5%,15.8%,25.0%,0/1,73,1,2,42,19,23,2,0:52
-18-Jun-2012,Eastbourne Q,3,Grass,Q3,458,82,0,,2,Marinko Matosevic,Robert Kendrick,6-3 6-2,0.62,3.7%,5.6%,61.1%,60.6%,52.4%,7/10,42.1%,26.4%,18.9%,21.6%,37.5%,0/1,107,2,3,54,33,21,10,0:53
-18-Jun-2012,Eastbourne Q,3,Grass,Q2,458,108,1,,7,Robert Kendrick,Matthias Bachinger,6-2 7-5,1.37,10.6%,0.0%,62.1%,75.6%,52.0%,3/4,56.0%,45.6%,10.3%,28.6%,73.1%,4/9,134,7,0,66,41,25,7,1:05
-18-Jun-2012,Eastbourne Q,3,Grass,Q1,458,398,1,,,Robert Kendrick,Daniel Smethurst,6-3 6-4,2.14,10.6%,4.3%,55.3%,84.6%,76.2%,2/2,58.3%,41.0%,6.6%,37.8%,45.8%,3/7,108,5,2,47,26,21,4,1:07
+18-Jun-2012,Eastbourne,3,Grass,Q3,458,82,0,,2,Marinko Matosevic,Robert Kendrick,6-3 6-2,0.62,3.7%,5.6%,61.1%,60.6%,52.4%,7/10,42.1%,26.4%,18.9%,21.6%,37.5%,0/1,107,2,3,54,33,21,10,0:53
+18-Jun-2012,Eastbourne,3,Grass,Q2,458,108,1,,7,Robert Kendrick,Matthias Bachinger,6-2 7-5,1.37,10.6%,0.0%,62.1%,75.6%,52.0%,3/4,56.0%,45.6%,10.3%,28.6%,73.1%,4/9,134,7,0,66,41,25,7,1:05
+18-Jun-2012,Eastbourne,3,Grass,Q1,458,398,1,,,Robert Kendrick,Daniel Smethurst,6-3 6-4,2.14,10.6%,4.3%,55.3%,84.6%,76.2%,2/2,58.3%,41.0%,6.6%,37.8%,45.8%,3/7,108,5,2,47,26,21,4,1:07
 11-Jun-2012,Nottingham2 CH,3,Grass,R16,495,111,0,,7,Jesse Levine,Robert Kendrick,6-3 6-4,0.80,9.3%,5.6%,57.4%,61.3%,39.1%,2/6,44.2%,38.7%,10.7%,31.4%,54.2%,2/13,129,5,3,54,31,23,8,1:18
 11-Jun-2012,Nottingham2 CH,3,Grass,R32,495,298,1,,Q,Robert Kendrick,Stephane Bohli,6-4 7-5,0.79,7.4%,2.5%,66.7%,75.9%,40.7%,10/10,48.9%,28.3%,10.0%,11.8%,50.0%,2/7,141,6,2,81,54,27,6,1:17
 5-Jun-2012,Nottingham CH,3,Grass,SF,705,157,0,Q,,Benjamin Becker,Robert Kendrick,6-2 4-6 7-6(8),0.81,10.9%,5.4%,53.3%,79.6%,55.8%,7/9,47.8%,25.6%,25.6%,15.7%,40.0%,1/2,178,10,5,92,49,43,22,1:32
@@ -14,11 +14,11 @@
 23-Apr-2012,Savannah CH,3,Clay,R16,689,293,0,WC,Q,Brian Baker,Robert Kendrick,6-3 6-1,0.36,4.1%,4.1%,59.2%,48.3%,35.0%,1/6,33.0%,20.5%,7.7%,19.2%,23.1%,1/3,88,2,2,49,29,20,3,0:51
 23-Apr-2012,Savannah CH,3,Clay,R32,689,231,1,WC,,Robert Kendrick,Pierre Ludovic Duclos,4-6 7-6(3) 6-4,1.29,3.9%,4.9%,63.7%,73.8%,62.2%,1/4,53.8%,39.1%,6.4%,29.5%,51.0%,3/8,212,4,5,102,65,37,7,2:29
 20-Feb-2012,Memphis,3,Hard,R32,546,68,0,Q,,Sergiy Stakhovsky,Robert Kendrick,6-3 7-6(6),0.54,9.4%,1.6%,60.9%,82.1%,40.0%,1/2,43.1%,18.6%,16.9%,7.4%,28.1%,0/0,123,6,1,64,39,25,10,1:11
-20-Feb-2012,Memphis Q,3,Hard,Q2,546,184,1,,WC,Robert Kendrick,Denis Kudla,6-4 6-2,1.44,13.0%,4.3%,58.7%,70.4%,57.9%,0/2,57.3%,50.0%,2.0%,39.3%,63.6%,5/7,96,6,2,46,27,19,1,0:53
-20-Feb-2012,Memphis Q,3,Hard,Q1,546,156,1,,8,Robert Kendrick,James Ward,6-7(6) 6-1 6-3,1.38,18.7%,5.5%,59.3%,77.8%,51.4%,4/7,56.4%,45.5%,11.4%,26.1%,66.7%,7/11,179,17,5,91,54,37,10,1:43
+20-Feb-2012,Memphis,3,Hard,Q2,546,184,1,,WC,Robert Kendrick,Denis Kudla,6-4 6-2,1.44,13.0%,4.3%,58.7%,70.4%,57.9%,0/2,57.3%,50.0%,2.0%,39.3%,63.6%,5/7,96,6,2,46,27,19,1,0:53
+20-Feb-2012,Memphis,3,Hard,Q1,546,156,1,,8,Robert Kendrick,James Ward,6-7(6) 6-1 6-3,1.38,18.7%,5.5%,59.3%,77.8%,51.4%,4/7,56.4%,45.5%,11.4%,26.1%,66.7%,7/11,179,17,5,91,54,37,10,1:43
 6-Feb-2012,Dallas CH,3,Hard,R32,258,321,0,,WC,Jack Sock,Robert Kendrick,2-6 7-6(1) 6-3,0.92,8.3%,9.2%,55.0%,76.7%,40.8%,6/8,49.3%,36.5%,9.4%,32.1%,42.5%,3/8,205,9,10,109,60,49,9,2:05
 23-Jan-2012,Honolulu CH,3,Hard,R32,242,378,0,,,Michael Venus,Robert Kendrick,6-2 4-6 6-3,0.80,10.6%,9.4%,51.8%,72.7%,43.9%,5/9,46.1%,32.9%,8.5%,19.4%,43.5%,2/5,167,9,8,85,44,41,7,1:44
-12-Jun-2011,s-Hertogenbosch,3,Grass,R32,95,70,0,,,Dmitry Tursunov,Robert Kendrick,6-2 7-6(3),0.69,11.9%,5.1%,57.6%,61.8%,56.0%,3/6,44.0%,28.1%,10.5%,14.3%,50.0%,1/1,116,7,3,59,34,25,6,1:10
+12-Jun-2011,s Hertogenbosch,3,Grass,R32,95,70,0,,,Dmitry Tursunov,Robert Kendrick,6-2 7-6(3),0.69,11.9%,5.1%,57.6%,61.8%,56.0%,3/6,44.0%,28.1%,10.5%,14.3%,50.0%,1/1,116,7,3,59,34,25,6,1:10
 22-May-2011,Roland Garros,5,Clay,R128,87,33,0,,30,Guillermo Garcia Lopez,Robert Kendrick,6-1 7-5 4-6 6-3,0.74,8.4%,3.4%,58.8%,67.1%,44.9%,5/11,45.2%,31.2%,3.7%,31.5%,30.9%,2/8,228,10,4,119,70,49,4,2:28
 2-May-2011,Savannah CH,3,Clay,R16,84,282,0,1,Q,Amer Delic,Robert Kendrick,6-3 7-5,0.69,6.6%,4.9%,55.7%,82.4%,40.7%,5/7,44.0%,25.0%,10.9%,20.0%,36.8%,0/2,125,4,3,61,34,27,7,1:15
 2-May-2011,Savannah CH,3,Clay,R32,84,219,1,1,,Robert Kendrick,Victor Estrella,6-7(4) 7-5 7-5,1.06,5.0%,5.0%,56.3%,71.6%,51.9%,4/8,51.5%,39.3%,0.9%,36.5%,44.7%,6/15,231,6,6,119,67,52,1,2:28
@@ -26,18 +26,18 @@
 18-Apr-2011,Barcelona,3,Clay,R64,84,125,0,,Q,Simon Greul,Robert Kendrick,6-4 6-4,0.77,3.6%,1.8%,64.3%,69.4%,40.0%,0/3,44.5%,31.7%,1.6%,19.4%,48.1%,1/3,119,2,1,56,36,20,1,1:13
 4-Apr-2011,Houston,3,Clay,R32,80,71,0,,,Somdev Devvarman,Robert Kendrick,6-2 6-1,0.58,1.8%,7.0%,52.6%,50.0%,33.3%,9/14,38.1%,33.3%,2.1%,31.3%,37.5%,1/4,105,1,4,57,30,27,1,1:02
 23-Mar-2011,Miami Masters,3,Hard,R128,82,92,0,Q,Q,Igor Kunitsyn,Robert Kendrick,5-4 RET,0.93,32.0%,8.0%,56.0%,100.0%,27.3%,0/1,48.1%,29.6%,7.4%,29.4%,30.0%,0/2,52,8,2,25,14,11,2,0:30
-23-Mar-2011,Miami Masters Q,3,Hard,Q2,82,127,1,3,19,Robert Kendrick,Julian Reister,6-7(6) 7-5 6-0,1.27,12.6%,2.9%,53.4%,80.0%,43.8%,8/11,55.4%,46.7%,4.3%,46.7%,46.9%,7/11,195,13,3,103,55,48,4,2:08
-23-Mar-2011,Miami Masters Q,3,Hard,Q1,82,150,1,3,,Robert Kendrick,Franco Skugor,6-2 7-6(3),1.34,18.9%,5.4%,63.5%,85.1%,40.7%,1/2,56.7%,41.7%,10.0%,30.6%,58.3%,3/4,134,14,4,74,47,27,6,1:19
+23-Mar-2011,Miami Masters,3,Hard,Q2,82,127,1,3,19,Robert Kendrick,Julian Reister,6-7(6) 7-5 6-0,1.27,12.6%,2.9%,53.4%,80.0%,43.8%,8/11,55.4%,46.7%,4.3%,46.7%,46.9%,7/11,195,13,3,103,55,48,4,2:08
+23-Mar-2011,Miami Masters,3,Hard,Q1,82,150,1,3,,Robert Kendrick,Franco Skugor,6-2 7-6(3),1.34,18.9%,5.4%,63.5%,85.1%,40.7%,1/2,56.7%,41.7%,10.0%,30.6%,58.3%,3/4,134,14,4,74,47,27,6,1:19
 14-Mar-2011,San Jose CH,3,Hard,QF,86,103,0,2,5,Igor Kunitsyn,Robert Kendrick,2-6 6-3 6-4,1.03,13.5%,6.7%,51.7%,82.6%,44.2%,5/7,50.3%,37.0%,4.3%,37.2%,36.7%,2/6,181,12,6,89,46,43,4,1:56
 14-Mar-2011,San Jose CH,3,Hard,R16,86,184,1,2,,Robert Kendrick,Robert Farah,7-6(3) 5-7 6-2,1.01,11.1%,8.5%,59.8%,75.7%,51.1%,10/12,50.7%,34.5%,13.6%,23.3%,48.0%,3/10,227,13,10,117,70,47,15,2:23
 14-Mar-2011,San Jose CH,3,Hard,R32,86,1604,1,2,,Robert Kendrick,Alexios Halebian,6-4 6-1,1.81,22.2%,8.9%,73.3%,87.9%,33.3%,2/2,59.0%,48.3%,8.3%,42.9%,56.0%,4/8,105,10,4,45,33,12,5,0:49
-10-Mar-2011,Indian Wells Masters Q,3,Hard,Q1,86,238,0,3,,Sebastian Decoud,Robert Kendrick,1-6 6-3 6-4,0.98,16.7%,2.4%,61.9%,71.2%,53.1%,4/6,49.1%,34.8%,3.4%,25.5%,47.4%,2/5,173,14,2,84,52,32,3,1:50
+10-Mar-2011,Indian Wells Masters,3,Hard,Q1,86,238,0,3,,Sebastian Decoud,Robert Kendrick,1-6 6-3 6-4,0.98,16.7%,2.4%,61.9%,71.2%,53.1%,4/6,49.1%,34.8%,3.4%,25.5%,47.4%,2/5,173,14,2,84,52,32,3,1:50
 28-Feb-2011,Dallas CH,3,Hard,R32,85,156,0,1,,Ryan Harrison,Robert Kendrick,3-6 6-4 7-6(1),0.88,6.5%,6.5%,50.5%,80.9%,43.5%,2/4,46.9%,33.0%,4.9%,17.9%,51.1%,3/7,196,6,6,93,47,46,5,2:00
 14-Feb-2011,Memphis,3,Hard,QF,110,59,0,Q,WC,Milos Raonic,Robert Kendrick,6-4 3-6 6-3,1.11,5.1%,1.3%,55.1%,83.7%,51.4%,3/5,50.0%,34.0%,21.3%,22.6%,56.3%,1/9,172,4,1,78,43,35,20,1:53
 14-Feb-2011,Memphis,3,Hard,R16,110,164,1,Q,WC,Robert Kendrick,James Blake,7-6(5) 6-3,1.03,11.0%,5.5%,52.1%,76.3%,51.4%,1/2,51.5%,36.5%,11.1%,28.9%,55.6%,3/6,136,8,4,73,38,35,7,1:09
 14-Feb-2011,Memphis,3,Hard,R32,110,40,1,Q,8,Robert Kendrick,Kevin Anderson,5-7 6-3 7-6(4),1.25,12.1%,2.8%,58.9%,79.4%,56.8%,5/7,52.1%,37.4%,15.3%,27.6%,56.8%,2/18,238,13,3,107,63,44,20,2:34
-14-Feb-2011,Memphis Q,3,Hard,Q2,110,96,1,7,3,Robert Kendrick,Igor Kunitsyn,6-3 6-4,1.25,9.2%,4.6%,61.5%,77.5%,48.0%,6/7,54.3%,42.2%,1.6%,32.4%,55.6%,3/5,129,6,3,65,40,25,1,1:13
-14-Feb-2011,Memphis Q,3,Hard,Q1,110,156,1,7,,Robert Kendrick,Bobby Reynolds,7-6(4) 3-6 6-3,1.18,18.3%,5.4%,53.8%,86.0%,53.5%,3/4,51.8%,34.3%,13.7%,28.2%,48.4%,1/8,195,17,5,93,50,43,14,2:00
+14-Feb-2011,Memphis,3,Hard,Q2,110,96,1,7,3,Robert Kendrick,Igor Kunitsyn,6-3 6-4,1.25,9.2%,4.6%,61.5%,77.5%,48.0%,6/7,54.3%,42.2%,1.6%,32.4%,55.6%,3/5,129,6,3,65,40,25,1,1:13
+14-Feb-2011,Memphis,3,Hard,Q1,110,156,1,7,,Robert Kendrick,Bobby Reynolds,7-6(4) 3-6 6-3,1.18,18.3%,5.4%,53.8%,86.0%,53.5%,3/4,51.8%,34.3%,13.7%,28.2%,48.4%,1/8,195,17,5,93,50,43,14,2:00
 7-Feb-2011,San Jose,3,Hard,R16,115,12,0,,2,Gael Monfils,Robert Kendrick,6-2 5-7 6-4,0.81,4.2%,2.1%,61.5%,69.5%,48.6%,4/8,47.5%,31.3%,18.1%,18.0%,51.5%,2/6,179,4,2,96,59,37,15,1:46
 7-Feb-2011,San Jose,3,Hard,R32,115,97,1,,,Robert Kendrick,Igor Kunitsyn,7-5 3-6 6-4,1.01,8.8%,3.9%,58.8%,68.3%,54.8%,5/8,49.5%,37.7%,2.6%,29.0%,48.1%,3/13,216,9,4,102,60,42,3,2:17
 24-Jan-2011,Honolulu CH,3,Hard,QF,110,224,0,2,8,Jesse Witten,Robert Kendrick,7-5 3-6 6-2,0.97,4.5%,9.1%,51.1%,68.9%,51.2%,3/8,48.7%,38.4%,6.1%,31.5%,46.7%,3/8,187,4,8,88,45,43,6,1:40
@@ -65,9 +65,9 @@
 4-Oct-2010,Sacramento CH,3,Hard,R16,151,265,1,5,,Robert Kendrick,Jesse Witten,6-4 7-5,1.27,17.6%,4.1%,66.2%,81.6%,52.0%,4/4,54.1%,36.1%,5.6%,29.7%,42.9%,2/5,146,13,3,74,49,25,4,1:14
 4-Oct-2010,Sacramento CH,3,Hard,R32,151,259,1,5,,Robert Kendrick,Ryler Deheart,4-6 6-3 7-6(3),1.19,20.2%,4.0%,53.5%,81.1%,60.9%,3/4,51.4%,33.6%,8.0%,28.4%,41.3%,1/9,212,20,4,99,53,46,9,1:59
 30-Aug-2010,US Open,5,Hard,R128,148,19,0,Q,17,Gael Monfils,Robert Kendrick,3-6 6-3 6-4 6-7(5) 6-4,0.84,3.4%,6.3%,43.1%,78.7%,48.5%,10/16,48.3%,32.2%,11.2%,20.7%,50.0%,3/3,317,6,11,174,75,99,16,3:19
-30-Aug-2010,US Open Q,3,Hard,Q3,148,192,1,22,,Robert Kendrick,Tatsuma Ito,6-3 6-3,1.22,15.0%,5.0%,53.3%,71.9%,57.1%,2/3,55.0%,42.9%,6.1%,26.1%,57.7%,4/6,109,9,3,60,32,28,3,1:07
-30-Aug-2010,US Open Q,3,Hard,Q2,148,276,1,22,,Robert Kendrick,Nikola Mektic,6-4 7-5,1.18,14.3%,8.6%,47.1%,84.8%,40.5%,4/6,52.5%,45.6%,5.6%,34.7%,58.5%,4/12,160,10,6,70,33,37,5,1:45
-30-Aug-2010,US Open Q,3,Hard,Q1,148,288,1,22,,Robert Kendrick,Matwe Middelkoop,6-4 6-0,2.75,12.8%,5.1%,43.6%,88.2%,77.3%,0/0,61.1%,49.3%,2.9%,46.9%,51.4%,4/10,108,5,2,39,17,22,2,1:04
+30-Aug-2010,US Open,5,Hard,Q3,148,192,1,22,,Robert Kendrick,Tatsuma Ito,6-3 6-3,1.22,15.0%,5.0%,53.3%,71.9%,57.1%,2/3,55.0%,42.9%,6.1%,26.1%,57.7%,4/6,109,9,3,60,32,28,3,1:07
+30-Aug-2010,US Open,5,Hard,Q2,148,276,1,22,,Robert Kendrick,Nikola Mektic,6-4 7-5,1.18,14.3%,8.6%,47.1%,84.8%,40.5%,4/6,52.5%,45.6%,5.6%,34.7%,58.5%,4/12,160,10,6,70,33,37,5,1:45
+30-Aug-2010,US Open,5,Hard,Q1,148,288,1,22,,Robert Kendrick,Matwe Middelkoop,6-4 6-0,2.75,12.8%,5.1%,43.6%,88.2%,77.3%,0/0,61.1%,49.3%,2.9%,46.9%,51.4%,4/10,108,5,2,39,17,22,2,1:04
 9-Aug-2010,Binghamton CH,3,Hard,F,159,192,0,8,WC,Kei Nishikori,Robert Kendrick,6-3 7-6(4),0.79,15.9%,0.0%,63.5%,72.5%,60.9%,5/6,45.8%,25.0%,2.9%,21.3%,33.3%,0/0,131,10,0,63,40,23,2,1:18
 9-Aug-2010,Binghamton CH,3,Hard,SF,159,320,1,8,Q,Robert Kendrick,Chris Guccione,W/O,,,,,,,,,,,,,,,,,,,,,
 9-Aug-2010,Binghamton CH,3,Hard,QF,159,114,1,8,2,Robert Kendrick,Go Soeda,6-1 6-4,1.65,15.4%,1.9%,59.6%,80.6%,61.9%,3/3,59.8%,44.4%,2.2%,40.7%,50.0%,3/3,97,8,1,52,31,21,1,1:02
@@ -76,9 +76,9 @@
 2-Aug-2010,Vancouver CH,3,Hard,R16,163,224,0,7,,Lester Cook,Robert Kendrick,6-3 6-3,0.87,11.3%,5.7%,50.9%,63.0%,42.3%,2/7,46.6%,41.3%,6.3%,38.5%,45.8%,2/6,116,6,3,53,27,26,4,1:14
 2-Aug-2010,Vancouver CH,3,Hard,R32,163,209,1,7,,Robert Kendrick,Milos Raonic,7-6(3) 6-4,1.38,7.8%,3.1%,42.2%,85.2%,70.3%,3/3,53.3%,32.4%,18.3%,24.4%,43.3%,1/4,135,5,2,64,27,37,13,1:13
 21-Jun-2010,Wimbledon,5,Grass,R128,161,10,0,Q,10,Jo Wilfried Tsonga,Robert Kendrick,7-6(2) 7-6(6) 3-6 6-4,0.73,19.7%,2.8%,68.3%,76.3%,53.3%,7/8,47.5%,22.8%,15.4%,13.4%,41.5%,1/4,265,28,4,142,97,45,19,2:34
-21-Jun-2010,Wimbledon Q,3,Grass,Q3,161,119,1,,12,Robert Kendrick,Ryan Sweeting,6-4 6-7(4) 3-6 7-6(4) 8-6,1.03,17.5%,4.4%,65.0%,73.1%,45.3%,14/21,50.8%,37.9%,7.3%,24.5%,54.4%,7/14,360,32,8,183,119,64,13,3:16
-21-Jun-2010,Wimbledon Q,3,Grass,Q2,161,145,1,,26,Robert Kendrick,Josselin Ouanna,6-3 6-4,1.81,12.2%,0.0%,63.3%,90.3%,66.7%,0/0,56.3%,33.3%,18.5%,7.4%,59.3%,2/4,103,6,0,49,31,18,10,0:56
-21-Jun-2010,Wimbledon Q,3,Grass,Q1,161,170,1,,,Robert Kendrick,Filip Krajinovic,6-4 6-2,2.36,8.9%,6.7%,62.2%,89.3%,64.7%,0/0,59.7%,47.3%,0.0%,42.6%,55.6%,3/7,119,4,3,45,28,17,0,0:58
+21-Jun-2010,Wimbledon,5,Grass,Q3,161,119,1,,12,Robert Kendrick,Ryan Sweeting,6-4 6-7(4) 3-6 7-6(4) 8-6,1.03,17.5%,4.4%,65.0%,73.1%,45.3%,14/21,50.8%,37.9%,7.3%,24.5%,54.4%,7/14,360,32,8,183,119,64,13,3:16
+21-Jun-2010,Wimbledon,5,Grass,Q2,161,145,1,,26,Robert Kendrick,Josselin Ouanna,6-3 6-4,1.81,12.2%,0.0%,63.3%,90.3%,66.7%,0/0,56.3%,33.3%,18.5%,7.4%,59.3%,2/4,103,6,0,49,31,18,10,0:56
+21-Jun-2010,Wimbledon,5,Grass,Q1,161,170,1,,,Robert Kendrick,Filip Krajinovic,6-4 6-2,2.36,8.9%,6.7%,62.2%,89.3%,64.7%,0/0,59.7%,47.3%,0.0%,42.6%,55.6%,3/7,119,4,3,45,28,17,0,0:58
 31-May-2010,Ojai CH,3,Hard,R32,156,572,0,6,Q,Philip Bester,Robert Kendrick,2-6 6-3 7-6(2),1.13,3.4%,3.4%,43.7%,89.5%,46.9%,2/4,49.5%,38.9%,6.1%,33.3%,48.0%,3/19,218,3,3,87,38,49,8,2:16
 24-May-2010,Carson CH,3,Hard,F,156,147,0,5,4,Donald Young,Robert Kendrick,6-4 6-4,0.67,6.5%,3.2%,53.2%,63.6%,44.8%,3/7,43.5%,30.2%,0.0%,26.3%,40.0%,2/3,115,4,2,62,33,29,0,1:09
 24-May-2010,Carson CH,3,Hard,SF,156,191,1,5,8,Robert Kendrick,Peter Polansky,7-6(1) 6-3,1.34,10.8%,5.4%,55.4%,70.7%,63.6%,4/5,54.8%,43.4%,2.4%,37.8%,50.0%,2/8,157,8,4,74,41,33,2,1:41
@@ -94,28 +94,28 @@
 12-Apr-2010,Baton Rouge CH,3,Hard,QF,155,103,0,8,2,Kevin Anderson,Robert Kendrick,7-6(1) 3-6 7-6(4),0.86,7.2%,0.9%,56.8%,71.4%,64.6%,5/6,48.8%,27.0%,9.0%,20.9%,39.4%,2/6,211,8,1,111,63,48,9,2:22
 12-Apr-2010,Baton Rouge CH,3,Hard,R16,155,654,1,8,WC,Robert Kendrick,Alexander Domijan,6-4 6-3,1.35,18.2%,1.5%,57.6%,76.3%,57.1%,3/3,55.7%,43.1%,0.0%,39.5%,48.1%,2/6,131,12,1,66,38,28,0,1:13
 12-Apr-2010,Baton Rouge CH,3,Hard,R32,155,370,1,8,Q,Robert Kendrick,Fritz Wolmarans,6-4 6-4,1.25,14.3%,1.6%,58.7%,75.7%,61.5%,3/3,54.0%,37.7%,6.6%,32.6%,50.0%,2/6,124,9,1,63,37,26,4,1:15
-24-Mar-2010,Miami Masters Q,3,Hard,Q1,141,93,0,,10,Andrey Golubev,Robert Kendrick,6-4 6-4,0.79,7.9%,0.0%,65.1%,70.7%,45.5%,2/4,44.9%,30.1%,19.2%,27.7%,34.6%,0/6,136,5,0,63,41,22,14,1:15
-11-Mar-2010,Indian Wells Masters Q,3,Hard,Q1,133,239,0,15,,Nick Lindahl,Robert Kendrick,2-6 6-4 6-4,0.94,7.8%,6.9%,56.9%,72.4%,47.7%,8/11,50.0%,36.0%,14.0%,24.5%,54.5%,3/8,188,8,7,102,58,44,12,1:41
+24-Mar-2010,Miami Masters,3,Hard,Q1,141,93,0,,10,Andrey Golubev,Robert Kendrick,6-4 6-4,0.79,7.9%,0.0%,65.1%,70.7%,45.5%,2/4,44.9%,30.1%,19.2%,27.7%,34.6%,0/6,136,5,0,63,41,22,14,1:15
+11-Mar-2010,Indian Wells Masters,3,Hard,Q1,133,239,0,15,,Nick Lindahl,Robert Kendrick,2-6 6-4 6-4,0.94,7.8%,6.9%,56.9%,72.4%,47.7%,8/11,50.0%,36.0%,14.0%,24.5%,54.5%,3/8,188,8,7,102,58,44,12,1:41
 22-Feb-2010,Delray Beach,3,Hard,R32,137,364,0,Q,,Robin Haase,Robert Kendrick,7-6(4) 7-6(0),0.76,6.7%,2.2%,65.2%,62.1%,45.2%,6/8,45.3%,33.3%,7.4%,23.4%,47.1%,2/5,170,6,2,89,58,31,6,1:43
-22-Feb-2010,Delray Beach Q,3,Hard,Q3,137,290,1,4,,Robert Kendrick,Jamie Baker,3-6 7-6(2) 6-2,1.12,9.4%,6.3%,50.0%,83.3%,50.0%,8/10,52.7%,37.5%,10.2%,25.9%,55.9%,3/5,184,9,6,96,48,48,9,1:54
-22-Feb-2010,Delray Beach Q,3,Hard,Q2,137,289,1,4,,Robert Kendrick,Tim Smyczek,6-4 6-2,1.57,5.6%,5.6%,50.0%,85.2%,48.1%,4/6,59.1%,52.5%,0.0%,54.1%,50.0%,5/8,115,3,3,54,27,27,0,1:07
-22-Feb-2010,Delray Beach Q,3,Hard,Q1,137,273,1,4,,Robert Kendrick,Michael Mcclune,5-7 6-3 6-4,1.23,16.3%,3.5%,58.1%,78.0%,69.4%,3/4,52.2%,31.5%,16.3%,23.7%,45.5%,2/11,178,14,3,86,50,36,15,1:45
+22-Feb-2010,Delray Beach,3,Hard,Q3,137,290,1,4,,Robert Kendrick,Jamie Baker,3-6 7-6(2) 6-2,1.12,9.4%,6.3%,50.0%,83.3%,50.0%,8/10,52.7%,37.5%,10.2%,25.9%,55.9%,3/5,184,9,6,96,48,48,9,1:54
+22-Feb-2010,Delray Beach,3,Hard,Q2,137,289,1,4,,Robert Kendrick,Tim Smyczek,6-4 6-2,1.57,5.6%,5.6%,50.0%,85.2%,48.1%,4/6,59.1%,52.5%,0.0%,54.1%,50.0%,5/8,115,3,3,54,27,27,0,1:07
+22-Feb-2010,Delray Beach,3,Hard,Q1,137,273,1,4,,Robert Kendrick,Michael Mcclune,5-7 6-3 6-4,1.23,16.3%,3.5%,58.1%,78.0%,69.4%,3/4,52.2%,31.5%,16.3%,23.7%,45.5%,2/11,178,14,3,86,50,36,15,1:45
 15-Feb-2010,Memphis,3,Hard,R32,138,99,0,Q,,Ernests Gulbis,Robert Kendrick,6-4 6-4,0.71,18.8%,6.3%,59.4%,76.3%,46.2%,5/7,45.5%,25.4%,13.6%,20.6%,32.0%,0/2,123,12,4,64,38,26,8,1:08
-15-Feb-2010,Memphis Q,3,Hard,Q2,138,115,1,6,3,Robert Kendrick,Kevin Kim,6-2 6-1,1.45,20.3%,6.3%,64.1%,78.0%,43.5%,5/5,59.4%,50.0%,4.8%,40.0%,55.6%,4/5,106,13,4,64,41,23,2,0:55
-15-Feb-2010,Memphis Q,3,Hard,Q1,138,,1,6,WC,Robert Kendrick,Damien Spizzo,6-2 6-2,4.42,11.1%,2.8%,55.6%,95.0%,81.3%,0/0,64.2%,49.2%,3.4%,25.9%,68.8%,4/8,95,4,1,36,20,16,2,0:51
+15-Feb-2010,Memphis,3,Hard,Q2,138,115,1,6,3,Robert Kendrick,Kevin Kim,6-2 6-1,1.45,20.3%,6.3%,64.1%,78.0%,43.5%,5/5,59.4%,50.0%,4.8%,40.0%,55.6%,4/5,106,13,4,64,41,23,2,0:55
+15-Feb-2010,Memphis,3,Hard,Q1,138,,1,6,WC,Robert Kendrick,Damien Spizzo,6-2 6-2,4.42,11.1%,2.8%,55.6%,95.0%,81.3%,0/0,64.2%,49.2%,3.4%,25.9%,68.8%,4/8,95,4,1,36,20,16,2,0:51
 1-Feb-2010,Dallas CH,3,Hard,QF,136,161,0,3,5,Michael Yani,Robert Kendrick,3-6 7-6(5) 7-6(4),1.14,24.1%,3.7%,56.5%,80.3%,48.9%,6/7,50.8%,37.9%,12.1%,28.6%,50.9%,2/17,240,26,4,108,61,47,16,2:29
 1-Feb-2010,Dallas CH,3,Hard,R16,136,275,1,3,WC,Robert Kendrick,Michael Mcclune,3-6 7-6(1) 6-4,1.07,19.5%,2.3%,66.7%,81.0%,62.1%,2/3,50.6%,27.0%,29.2%,16.9%,46.7%,1/3,176,17,2,87,58,29,26,1:51
 1-Feb-2010,Dallas CH,3,Hard,R32,136,455,1,3,Q,Robert Kendrick,Jean Noel Insausti,6-3 6-4,1.33,10.0%,1.7%,55.0%,72.7%,66.7%,1/1,55.7%,40.0%,5.5%,33.3%,48.0%,2/5,115,6,1,60,33,27,3,1:15
 25-Jan-2010,Honolulu CH,3,Hard,QF,138,195,0,4,,Donald Young,Robert Kendrick,7-6(5) 6-4,0.72,6.9%,2.3%,59.8%,57.7%,57.1%,6/9,45.5%,30.4%,8.7%,23.3%,42.3%,2/4,156,6,2,87,52,35,6,1:34
 25-Jan-2010,Honolulu CH,3,Hard,R16,138,233,1,4,,Robert Kendrick,Andre Begemann,7-5 6-1,1.46,10.9%,3.6%,52.7%,75.9%,57.7%,2/3,56.8%,47.6%,12.7%,35.5%,59.4%,5/9,118,6,2,55,29,26,8,1:17
 25-Jan-2010,Honolulu CH,3,Hard,R32,138,300,1,4,,Robert Kendrick,Alex Bogomolov Jr,3-6 7-6(4) 7-6(2),1.00,8.9%,5.4%,63.4%,76.1%,48.8%,6/9,50.0%,33.9%,0.9%,29.6%,45.2%,2/9,224,10,6,112,71,41,1,2:27
-18-Jan-2010,Australian Open Q,3,Hard,Q2,138,166,0,17,,Ryan Sweeting,Robert Kendrick,7-6(3) 6-4,0.67,0.0%,3.7%,56.8%,60.9%,51.4%,3/6,45.0%,28.8%,5.1%,25.0%,40.0%,2/3,140,0,3,81,46,35,3,1:21
-18-Jan-2010,Australian Open Q,3,Hard,Q1,138,268,1,17,,Robert Kendrick,Grigor Dimitrov,7-6(4) 3-6 6-3,1.13,11.8%,1.1%,63.4%,67.8%,70.6%,1/3,51.6%,35.4%,11.1%,20.6%,61.1%,2/7,192,11,1,93,59,34,11,1:50
-11-Jan-2010,Sydney Q,3,Hard,Q1,139,102,0,,,Martin Vassallo Arguello,Robert Kendrick,6-3 6-4,0.75,3.1%,4.6%,56.9%,70.3%,42.9%,7/10,45.5%,31.0%,3.4%,20.0%,47.8%,1/4,123,2,3,65,37,28,2,1:22
+18-Jan-2010,Australian Open,5,Hard,Q2,138,166,0,17,,Ryan Sweeting,Robert Kendrick,7-6(3) 6-4,0.67,0.0%,3.7%,56.8%,60.9%,51.4%,3/6,45.0%,28.8%,5.1%,25.0%,40.0%,2/3,140,0,3,81,46,35,3,1:21
+18-Jan-2010,Australian Open,5,Hard,Q1,138,268,1,17,,Robert Kendrick,Grigor Dimitrov,7-6(4) 3-6 6-3,1.13,11.8%,1.1%,63.4%,67.8%,70.6%,1/3,51.6%,35.4%,11.1%,20.6%,61.1%,2/7,192,11,1,93,59,34,11,1:50
+11-Jan-2010,Sydney,3,Hard,Q1,139,102,0,,,Martin Vassallo Arguello,Robert Kendrick,6-3 6-4,0.75,3.1%,4.6%,56.9%,70.3%,42.9%,7/10,45.5%,31.0%,3.4%,20.0%,47.8%,1/4,123,2,3,65,37,28,2,1:22
 16-Nov-2009,Champaign CH,3,Hard,R32,143,330,0,8,,Jamie Baker,Robert Kendrick,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-8-Nov-2009,Paris Masters Q,3,Hard,Q1,144,179,0,12,WC,David Guez,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-2-Nov-2009,Valencia Q,3,Hard,Q2,110,315,0,1,,Roberto Bautista Agut,Robert Kendrick,7-6(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-2-Nov-2009,Valencia Q,3,Hard,Q1,110,,1,1,WC,Robert Kendrick,Pablo Garcia Gaitan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Nov-2009,Paris Masters,3,Hard,Q1,144,179,0,12,WC,David Guez,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Valencia,3,Hard,Q2,110,315,0,1,,Roberto Bautista Agut,Robert Kendrick,7-6(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+2-Nov-2009,Valencia,3,Hard,Q1,110,,1,1,WC,Robert Kendrick,Pablo Garcia Gaitan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Oct-2009,Vienna,3,Hard,R32,80,125,0,,,Daniel Brands,Robert Kendrick,7-6(5) 7-5,0.97,25.4%,1.6%,60.3%,81.6%,60.0%,0/2,48.5%,26.1%,18.8%,27.5%,22.2%,1/3,132,16,1,63,38,25,13,1:16
 19-Oct-2009,Stockholm,3,Hard,R16,86,66,0,,,Marcos Baghdatis,Robert Kendrick,6-2 6-2,0.44,7.1%,0.0%,69.0%,55.2%,15.4%,0/5,34.1%,25.0%,17.5%,15.0%,35.0%,1/1,82,3,0,42,29,13,7,0:53
 19-Oct-2009,Stockholm,3,Hard,R32,86,73,1,,,Robert Kendrick,Oscar Hernandez,6-3 6-4,1.43,14.0%,0.0%,59.6%,70.6%,60.9%,5/7,56.8%,47.5%,4.9%,33.3%,64.3%,4/9,118,8,0,57,34,23,3,1:19
@@ -126,8 +126,8 @@
 31-Aug-2009,US Open,5,Hard,R128,77,52,1,,,Robert Kendrick,Martin Vassallo Arguello,6-3 6-2 6-2,1.81,21.1%,1.3%,68.4%,84.6%,45.8%,2/3,62.3%,50.0%,3.2%,38.6%,77.8%,6/8,138,16,1,76,52,24,2,1:23
 23-Aug-2009,New Haven,3,Hard,R32,77,8,0,,1,Nikolay Davydenko,Robert Kendrick,7-6(10) 6-3,0.70,18.2%,3.0%,57.6%,81.6%,39.3%,1/3,44.4%,25.4%,9.0%,27.7%,20.0%,1/3,133,12,2,66,38,28,6,1:22
 23-Aug-2009,New Haven,3,Hard,R64,77,315,1,,Q,Robert Kendrick,Frederik Nielsen,6-3 7-5,1.24,12.1%,6.1%,51.5%,73.5%,56.3%,3/5,54.8%,43.3%,6.7%,25.9%,57.6%,4/8,126,8,4,66,34,32,4,1:09
-16-Aug-2009,Cincinnati Masters Q,3,Hard,Q2,80,124,0,8,,Chris Guccione,Robert Kendrick,7-6(10) 7-5,,,,,,,,,,,,,,,,,,,,,
-16-Aug-2009,Cincinnati Masters Q,3,Hard,Q1,80,109,1,8,WC,Robert Kendrick,Marcos Baghdatis,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2009,Cincinnati Masters,3,Hard,Q2,80,124,0,8,,Chris Guccione,Robert Kendrick,7-6(10) 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Aug-2009,Cincinnati Masters,3,Hard,Q1,80,109,1,8,WC,Robert Kendrick,Marcos Baghdatis,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Aug-2009,Washington,3,Hard,R64,74,65,0,,,Mikhail Youzhny,Robert Kendrick,7-5 3-6 6-1,1.00,10.0%,5.7%,48.6%,79.4%,52.8%,2/6,48.7%,34.1%,13.4%,20.0%,51.4%,2/3,152,7,4,70,34,36,11,1:41
 27-Jul-2009,Los Angeles,3,Hard,R16,80,30,0,,4,Dudi Sela,Robert Kendrick,6-4 3-6 6-1,0.80,9.3%,2.3%,52.3%,66.7%,53.7%,3/6,46.4%,31.7%,2.4%,25.0%,50.0%,1/3,168,8,2,86,45,41,2,1:49
 27-Jul-2009,Los Angeles,3,Hard,R32,80,131,1,,,Robert Kendrick,Vincent Spadea,6-0 6-0,4.02,17.2%,0.0%,62.1%,88.9%,72.7%,0/0,75.0%,69.2%,2.6%,70.0%,68.4%,6/9,68,5,0,29,18,11,1,0:36
@@ -150,20 +150,20 @@
 25-Mar-2009,Miami Masters,3,Hard,R32,85,11,0,Q,10,Jo Wilfried Tsonga,Robert Kendrick,7-5 6-4,0.68,3.8%,5.0%,50.0%,75.0%,50.0%,2/4,46.2%,25.4%,17.5%,14.0%,50.0%,0/0,143,3,4,80,40,40,11,1:32
 25-Mar-2009,Miami Masters,3,Hard,R64,85,24,1,Q,23,Robert Kendrick,Robin Soderling,6-4 6-2,1.59,9.3%,1.9%,51.9%,78.6%,65.4%,2/3,57.5%,44.1%,11.9%,35.3%,56.0%,4/7,113,5,1,54,28,26,7,1:06
 25-Mar-2009,Miami Masters,3,Hard,R128,85,58,1,Q,,Robert Kendrick,Arnaud Clement,6-3 7-6(5),1.25,17.3%,1.3%,53.3%,85.0%,54.3%,3/4,54.1%,36.6%,2.8%,26.8%,50.0%,2/6,146,13,1,75,40,35,2,1:34
-25-Mar-2009,Miami Masters Q,3,Hard,Q2,85,116,1,10,20,Robert Kendrick,Roko Karanusic,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-25-Mar-2009,Miami Masters Q,3,Hard,Q1,85,162,1,10,,Robert Kendrick,Donald Young,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2009,Miami Masters,3,Hard,Q2,85,116,1,10,20,Robert Kendrick,Roko Karanusic,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Mar-2009,Miami Masters,3,Hard,Q1,85,162,1,10,,Robert Kendrick,Donald Young,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2009,Indian Wells Masters,3,Hard,R64,98,14,0,Q,14,David Nalbandian,Robert Kendrick,6-4 6-4,0.54,11.9%,6.8%,49.2%,75.9%,56.7%,0/2,44.4%,18.4%,20.4%,15.6%,23.5%,0/0,108,7,4,59,29,30,10,1:04
 12-Mar-2009,Indian Wells Masters,3,Hard,R128,98,85,1,Q,Q,Robert Kendrick,Bjorn Phau,7-5 6-2,1.21,18.8%,5.8%,55.1%,71.1%,38.7%,5/8,54.6%,52.5%,1.6%,44.4%,58.8%,6/13,130,13,4,69,38,31,1,1:18
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q2,98,178,1,5,22,Robert Kendrick,Ricardo Mello,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q1,98,739,1,5,WC,Robert Kendrick,Alexander Domijan,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters,3,Hard,Q2,98,178,1,5,22,Robert Kendrick,Ricardo Mello,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2009,Indian Wells Masters,3,Hard,Q1,98,739,1,5,WC,Robert Kendrick,Alexander Domijan,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Feb-2009,Delray Beach,3,Hard,R16,91,105,0,,Q,Evgeny Korolev,Robert Kendrick,3-6 6-3 7-5,1.06,12.5%,7.5%,56.3%,77.8%,42.9%,2/7,50.0%,39.6%,3.1%,30.9%,51.2%,4/11,176,10,6,80,45,35,3,1:41
 23-Feb-2009,Delray Beach,3,Hard,R32,91,94,1,,,Robert Kendrick,Paul Capdeville,4-6 6-2 6-1,1.49,24.7%,0.0%,67.5%,73.1%,48.0%,3/6,58.9%,52.2%,1.4%,39.5%,67.7%,6/8,146,19,0,77,52,25,1,1:29
-16-Feb-2009,Memphis Q,3,Hard,Q2,92,86,0,5,2,Dudi Sela,Robert Kendrick,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-16-Feb-2009,Memphis Q,3,Hard,Q1,92,,1,5,WC,Robert Kendrick,Jorge Vazquez Catoira,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-9-Feb-2009,San Jose Q,3,Hard,Q2,98,344,0,1,,Alex Kuznetsov,Robert Kendrick,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
-9-Feb-2009,San Jose Q,3,Hard,Q1,98,423,1,1,,Robert Kendrick,Cecil Mamiit,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Memphis,3,Hard,Q2,92,86,0,5,2,Dudi Sela,Robert Kendrick,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Feb-2009,Memphis,3,Hard,Q1,92,,1,5,WC,Robert Kendrick,Jorge Vazquez Catoira,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,San Jose,3,Hard,Q2,98,344,0,1,,Alex Kuznetsov,Robert Kendrick,7-6(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,San Jose,3,Hard,Q1,98,423,1,1,,Robert Kendrick,Cecil Mamiit,3-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2009,Australian Open,5,Hard,R128,96,17,0,,16,Robin Soderling,Robert Kendrick,5-7 6-4 6-4 7-5,0.62,15.7%,4.7%,61.4%,80.8%,46.9%,4/7,45.2%,20.2%,9.6%,16.7%,27.8%,1/6,241,20,6,127,78,49,11,2:30
-12-Jan-2009,Sydney Q,3,Hard,Q1,96,129,0,,,Adrian Mannarino,Robert Kendrick,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Jan-2009,Sydney,3,Hard,Q1,96,129,0,,,Adrian Mannarino,Robert Kendrick,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Nov-2008,Knoxville CH,3,Hard,R32,83,901,0,3,Q,Filip Krajinovic,Robert Kendrick,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Nov-2008,Champaign CH,3,Hard,R16,84,,0,3,,Taylor Dent,Robert Kendrick,7-6(8) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 10-Nov-2008,Champaign CH,3,Hard,R32,84,144,1,3,,Robert Kendrick,Kristian Pless,6-7(5) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -306,7 +306,6 @@
 19-Mar-2007,Miami Masters Q,3,Hard,Q1,87,165,1,4,,Robert Kendrick,Zack Fleishman,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2007,Sunrise CH,3,Hard,R32,87,125,0,,,Oliver Marach,Robert Kendrick,6-2 3-2 RET,,,,,,,,,,,,,,,,,,,,,
 5-Mar-2007,Indian Wells Masters,3,Hard,R128,87,43,0,WC,,Robby Ginepri,Robert Kendrick,7-5 7-6(3),0.75,8.3%,3.6%,67.9%,66.7%,55.6%,5/7,47.1%,27.5%,0.0%,21.4%,37.0%,1/1,153,7,3,84,57,27,0,1:26
-26-Feb-2007,Las Vegas,3,Hard,R32,87,83,0,,Q,Danai Udomchoke,Robert Kendrick,6-4 7-6(7),0.77,7.3%,7.3%,63.4%,75.0%,26.7%,12/14,46.3%,32.8%,3.0%,9.7%,52.8%,1/1,149,6,6,82,52,30,2,1:27
 19-Feb-2007,Memphis,3,Hard,R32,84,45,0,,,Benjamin Becker,Robert Kendrick,2-6 6-3 6-4,1.01,23.8%,3.6%,63.1%,77.4%,45.2%,8/10,49.7%,34.8%,11.2%,22.9%,48.8%,2/11,173,20,3,84,53,31,10,1:36
 12-Feb-2007,San Jose,3,Hard,R32,82,81,0,,,Simon Greul,Robert Kendrick,6-3 6-2,0.62,26.7%,8.9%,57.8%,73.1%,36.8%,2/5,41.1%,26.0%,14.0%,19.2%,33.3%,0/2,95,12,4,45,26,19,7,0:54
 5-Feb-2007,Dallas CH,3,Hard,F,85,225,1,4,,Robert Kendrick,Benedikt Dorsch,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -350,6 +349,9 @@
 18-Sep-2006,Lubbock CH,3,Hard,R16,141,307,1,1,,Robert Kendrick,Michael Lammer,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2006,Lubbock CH,3,Hard,R32,141,320,1,1,WC,Robert Kendrick,Scoville Jenkins,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2006,US Open,5,Hard,R128,143,19,0,Q,17,Andy Murray,Robert Kendrick,6-2 1-6 6-3 6-3,0.89,7.6%,8.5%,54.2%,65.6%,35.2%,9/17,47.6%,43.1%,7.3%,32.7%,53.7%,5/9,227,9,10,118,64,54,8,2:17
+28-Aug-2006,US Open,5,Hard,Q3,143,117,1,31,12,Robert Kendrick,Evgeny Korolev,7-6(9) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q2,143,148,1,31,,Robert Kendrick,Bobby Reynolds,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,US Open,5,Hard,Q1,143,251,1,31,,Robert Kendrick,Arvind Parmar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2006,Bronx CH,3,Hard,R32,147,97,0,,1,Gilles Muller,Robert Kendrick,7-6(7) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 7-Aug-2006,Canada Masters,3,Hard,R64,156,21,0,Q,,Dominik Hrbaty,Robert Kendrick,6-4 6-4,0.81,11.2%,3.4%,61.8%,63.6%,50.0%,8/10,46.7%,33.8%,7.5%,34.0%,33.3%,0/9,169,10,3,89,55,34,6,1:35
 31-Jul-2006,Vancouver CH,3,Hard,R32,156,205,0,5,Q,Go Soeda,Robert Kendrick,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
@@ -361,6 +363,9 @@
 10-Jul-2006,Newport,3,Grass,R32,186,90,1,WC,5,Robert Kendrick,Vincent Spadea,6-4 3-6 6-3,1.16,8.8%,8.8%,70.0%,80.4%,41.7%,3/4,52.1%,36.1%,2.4%,26.0%,51.5%,2/5,163,7,7,80,56,24,2,1:34
 26-Jun-2006,Wimbledon,5,Grass,R64,237,2,0,Q,2,Rafael Nadal,Robert Kendrick,6-7(4) 3-6 7-6(2) 7-5 6-4,0.77,18.7%,4.7%,64.9%,81.1%,50.0%,7/9,48.0%,23.0%,4.6%,19.1%,35.1%,1/2,323,32,8,171,111,60,7,3:46
 26-Jun-2006,Wimbledon,5,Grass,R128,237,119,1,Q,,Robert Kendrick,Yen Hsun Lu,7-6(5) 6-3 6-0,1.41,14.0%,4.3%,71.0%,78.8%,48.1%,8/9,56.7%,42.4%,4.7%,40.3%,47.8%,5/9,178,13,4,93,66,27,4,1:49
+26-Jun-2006,Wimbledon,5,Grass,Q3,237,199,1,,,Robert Kendrick,Nathan Healey,6-3 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q2,237,254,1,,,Robert Kendrick,Rohan Bopanna,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q1,237,300,1,,,Robert Kendrick,Henry Adjei Darko,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jun-2006,Yuba City CH,3,Hard,R32,247,343,0,,,Bruno Echagaray,Robert Kendrick,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,QF,247,106,0,8,2,Hyung Taik Lee,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Busan CH,3,Hard,R16,247,704,1,8,WC,Robert Kendrick,Hee Seok Chung,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -396,9 +401,11 @@
 17-Oct-2005,Calabasas CH,3,Hard,R16,273,387,0,,WC,Todd Widom,Robert Kendrick,4-0 RET,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2005,Calabasas CH,3,Hard,R32,273,199,1,,,Robert Kendrick,John Paul Fruttero,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Oct-2005,Sacramento CH,3,Hard,R32,265,122,0,,1,Flavio Saretta,Robert Kendrick,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Jun-2005,Forest Hills CH,3,Grass,R32,,,0,7,,Rik De Voest,Robert Kendrick,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Forest Hills CH,3,Grass,R32,198,204,0,7,,Rik De Voest,Robert Kendrick,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Jun-2005,Wimbledon,5,Grass,Q1,198,266,0,,,Jerome Golmard,Robert Kendrick,3-6 7-5 14-12,,,,,,,,,,,,,,,,,,,,,
 30-May-2005,Yuba City CH,3,Hard,R16,196,316,0,5,,Rajeev Ram,Robert Kendrick,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-May-2005,Yuba City CH,3,Hard,R32,196,331,1,5,,Robert Kendrick,John Paul Fruttero,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-May-2005,Roland Garros,5,Clay,Q1,196,190,0,,,Irakli Labadze,Robert Kendrick,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 9-May-2005,Forest Hills CH,3,Clay,R32,198,179,0,,,Brian Baker,Robert Kendrick,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 2-May-2005,Tunica Resorts CH,3,Clay,R16,201,158,0,,5,Amer Delic,Robert Kendrick,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
 2-May-2005,Tunica Resorts CH,3,Clay,R32,201,149,1,,Q,Robert Kendrick,Alex Bogomolov Jr,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -423,24 +430,30 @@
 18-Oct-2004,Burbank CH,3,Hard,F,154,128,0,5,2,Kevin Kim,Robert Kendrick,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Oct-2004,Burbank CH,3,Hard,SF,154,136,1,5,3,Robert Kendrick,Giovanni Lapentti,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Oct-2004,Burbank CH,3,Hard,QF,154,124,1,5,1,Robert Kendrick,Paul Goldstein,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-18-Oct-2004,Burbank CH,3,Hard,R16,154,168,1,5,,Robert Kendrick,KJ Hippensteel,6-7(7) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Oct-2004,Burbank CH,3,Hard,R16,154,168,1,5,,Robert Kendrick,Kj Hippensteel,6-7(7) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 18-Oct-2004,Burbank CH,3,Hard,R32,154,733,1,5,Q,Robert Kendrick,Andrew Piotrowski,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Oct-2004,Tiburon CH,3,Hard,R16,153,348,0,7,Q,Adam Chadaj,Robert Kendrick,1-6 6-2 7-6(9),,,,,,,,,,,,,,,,,,,,,
 11-Oct-2004,Tiburon CH,3,Hard,R32,153,217,1,7,,Robert Kendrick,Dusan Vemic,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
 4-Oct-2004,Austin CH,3,Hard,F,171,294,1,4,,Robert Kendrick,Wesley Whitehouse,7-5 6-7(2) 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Oct-2004,Austin CH,3,Hard,SF,171,213,1,4,,Robert Kendrick,KJ Hippensteel,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Oct-2004,Austin CH,3,Hard,SF,171,213,1,4,,Robert Kendrick,Kj Hippensteel,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Oct-2004,Austin CH,3,Hard,QF,171,261,1,4,,Robert Kendrick,Eric Taino,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Oct-2004,Austin CH,3,Hard,R16,171,598,1,4,Q,Robert Kendrick,Ryan Newport,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Oct-2004,Austin CH,3,Hard,R32,171,209,1,4,,Robert Kendrick,Cecil Mamiit,4-3 RET,,,,,,,,,,,,,,,,,,,,,
 27-Sep-2004,College Station CH,3,Hard,R32,163,242,0,6,,Ladislav Svarc,Robert Kendrick,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 13-Sep-2004,Delray Beach,3,Hard,R32,158,238,0,,Q,Matias Boeker,Robert Kendrick,6-3 6-2,0.60,4.3%,6.4%,61.7%,65.5%,38.9%,1/4,40.4%,26.9%,11.5%,15.6%,45.0%,0/2,99,2,3,47,29,18,6,1:01
+30-Aug-2004,US Open,5,Hard,Q1,156,124,0,,13,Nicolas Mahut,Robert Kendrick,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Aug-2004,Denver CH,3,Hard,R32,145,258,0,1,,Emin Agaev,Robert Kendrick,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2004,Aptos CH,3,Hard,SF,150,166,0,2,3,Kevin Kim,Robert Kendrick,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2004,Aptos CH,3,Hard,QF,150,688,1,2,Q,Robert Kendrick,Phillip King,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2004,Aptos CH,3,Hard,R16,150,424,1,2,,Robert Kendrick,Jan Masik,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jul-2004,Aptos CH,3,Hard,R32,150,294,1,2,,Robert Kendrick,Todd Widom,7-6(5) 6-7(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Jul-2004,Newport,3,Grass,R32,149,112,0,LL,,Davide Sanguinetti,Robert Kendrick,3-6 6-2 6-3,0.86,15.7%,12.0%,41.0%,91.2%,40.8%,6/9,47.1%,33.3%,8.0%,22.0%,43.5%,1/9,170,13,10,83,34,49,7,1:35
+21-Jun-2004,Wimbledon,5,Grass,Q2,148,205,0,30,,Takao Suzuki,Robert Kendrick,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Jun-2004,Wimbledon,5,Grass,Q1,148,286,1,30,,Robert Kendrick,Stefano Cobolli,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 31-May-2004,Tallahassee CH,3,Hard,R32,144,234,0,1,,Matias Boeker,Robert Kendrick,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q3,144,75,0,24,2,Florian Mayer,Robert Kendrick,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q2,144,469,1,24,WC,Robert Kendrick,Nicolas Renavand,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-May-2004,Roland Garros,5,Clay,Q1,144,459,1,24,WC,Robert Kendrick,Gael Monfils,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Apr-2004,Bermuda CH,3,Clay,R16,136,248,0,,Q,Kevin Kim,Robert Kendrick,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Apr-2004,Bermuda CH,3,Clay,R32,136,105,1,,7,Robert Kendrick,Jeff Salzenstein,6-3 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Apr-2004,Houston,3,Clay,R16,142,2,0,,1,Andy Roddick,Robert Kendrick,6-2 6-3,0.50,12.5%,10.7%,58.9%,72.7%,26.1%,2/6,40.4%,23.3%,11.6%,24.1%,21.4%,0/0,99,7,6,56,33,23,5,0:58
@@ -478,6 +491,9 @@
 28-Jul-2003,Washington,3,Hard,R64,126,82,0,,,Lars Burgsmuller,Robert Kendrick,6-3 6-2,0.37,5.6%,9.3%,48.1%,57.7%,39.3%,3/7,35.4%,19.0%,14.3%,7.1%,42.9%,0/1,96,3,5,54,26,28,6,0:59
 7-Jul-2003,Newport,3,Grass,R32,128,172,0,,,Andrei Stoliarov,Robert Kendrick,6-2 6-4,0.66,15.9%,11.6%,47.8%,60.6%,55.6%,13/16,44.1%,27.6%,6.9%,23.5%,33.3%,0/6,127,11,8,69,33,36,4,1:10
 23-Jun-2003,Wimbledon,5,Grass,R128,130,52,0,LL,,Feliciano Lopez,Robert Kendrick,6-3 6-4 7-6(4),0.77,6.1%,3.5%,60.9%,64.3%,57.8%,10/12,45.7%,29.6%,6.1%,20.3%,43.5%,0/8,230,7,4,115,70,45,7,2:02
+23-Jun-2003,Wimbledon,5,Grass,Q3,130,308,0,8,PR,Frederic Niemeyer,Robert Kendrick,6-4 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q2,130,211,1,8,,Robert Kendrick,Oliver Gross,7-6(4) 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q1,130,271,1,8,,Robert Kendrick,Thomas Blake,7-6(1) 7-6(9),,,,,,,,,,,,,,,,,,,,,
 9-Jun-2003,Queen's Club,3,Grass,R64,126,44,0,,11,Taylor Dent,Robert Kendrick,6-2 7-5,0.74,2.6%,10.5%,46.1%,57.1%,46.3%,8/12,44.1%,35.8%,4.5%,23.7%,51.7%,1/5,143,2,8,76,35,41,3,1:17
 5-May-2003,Birmingham CH,3,Clay,QF,131,171,0,5,,Eric Taino,Robert Kendrick,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 5-May-2003,Birmingham CH,3,Clay,R16,131,200,1,5,,Robert Kendrick,Marcos Daniel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -495,6 +511,8 @@
 27-Jan-2003,Dallas CH,3,Hard,R32,171,559,1,,WC,Robert Kendrick,Trace Fielding,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Jan-2003,Waikoloa CH,3,Hard,R16,170,169,0,,WC,Alex Bogomolov Jr,Robert Kendrick,7-6(1) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 20-Jan-2003,Waikoloa CH,3,Hard,R32,170,57,1,,1,Robert Kendrick,Taylor Dent,3-6 6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q2,170,160,0,,27,Julien Varlet,Robert Kendrick,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2003,Australian Open,5,Hard,Q1,170,180,1,,,Robert Kendrick,Paul Goldstein,6-3 3-6 8-6,,,,,,,,,,,,,,,,,,,,,
 6-Jan-2003,Auckland,3,Hard,R32,176,7,0,Q,1,Jiri Novak,Robert Kendrick,6-2 6-3,0.47,15.6%,6.3%,54.7%,77.1%,24.1%,10/14,40.4%,22.2%,0.0%,9.7%,50.0%,0/0,109,10,4,64,35,29,0,0:55
 25-Nov-2002,USA F30,3,Hard,QF,178,655,0,1,Q,Willem Petrus Meyer,Robert Kendrick,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Nov-2002,USA F30,3,Hard,R16,178,580,1,1,LL,Robert Kendrick,Bo Hodge,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -523,16 +541,19 @@
 16-Sep-2002,Waco CH,3,Hard,QF,254,173,0,,2,Michael Russell,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2002,Waco CH,3,Hard,R16,254,195,1,,6,Robert Kendrick,Bjorn Rehnquist,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2002,Waco CH,3,Hard,R32,254,296,1,,,Robert Kendrick,Michael Quintero,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q3,239,128,0,,20,Ivo Heuberger,Robert Kendrick,7-6(9) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q2,239,98,1,,3,Robert Kendrick,Zeljko Krajan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,239,242,1,,,Robert Kendrick,Juan Pablo Guzman,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2002,Binghamton CH,3,Hard,R32,230,642,0,,WC,Brandon Wagner,Robert Kendrick,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2002,Lexington CH,3,Hard,QF,232,132,0,,3,Mardy Fish,Robert Kendrick,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2002,Lexington CH,3,Hard,R16,232,459,1,,,Robert Kendrick,Dmitry Tursunov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2002,Lexington CH,3,Hard,R32,232,189,1,,,Robert Kendrick,Kevin Kim,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2002,Montauban CH,3,Clay,R32,215,165,0,,5,Jean Francois Bachelot,Robert Kendrick,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,USA F13 ,3,Hard,F,,,1,1,4,Robert Kendrick,Zack Fleishman,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,USA F13 ,3,Hard,SF,,,1,1,Q,Robert Kendrick,Hector Almada,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,USA F13 ,3,Hard,QF,,1022,1,1,,Robert Kendrick,Nick Rainey,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,USA F13 ,3,Hard,R16,,1385,1,1,,Robert Kendrick,Kiantki Thomas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,USA F13 ,3,Hard,R32,,1385,1,1,,Robert Kendrick,Parsa Samii,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,USA F13 ,3,Hard,F,220,477,1,1,4,Robert Kendrick,Zack Fleishman,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,USA F13 ,3,Hard,SF,220,,1,1,Q,Robert Kendrick,Hector Almada,6-1 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,USA F13 ,3,Hard,QF,220,1022,1,1,,Robert Kendrick,Nick Rainey,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,USA F13 ,3,Hard,R16,220,1385,1,1,,Robert Kendrick,Kiantki Thomas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2002,USA F13 ,3,Hard,R32,220,1385,1,1,,Robert Kendrick,Parsa Samii,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 13-May-2002,Rocky Mount CH,3,Clay,R32,220,199,0,,,Kevin Kim,Robert Kendrick,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 6-May-2002,Birmingham CH,3,Clay,R32,218,153,0,,,Jack Brasington,Robert Kendrick,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
 8-Apr-2002,Calabasas CH,3,Hard,R16,202,127,0,LL,6,Kenneth Carlsen,Robert Kendrick,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -568,6 +589,7 @@
 10-Sep-2001,Tarzana CH,3,Hard,QF,213,269,1,7,,Robert Kendrick,Robby Ginepri,1-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 10-Sep-2001,Tarzana CH,3,Hard,R16,213,420,1,7,,Robert Kendrick,Alex Kim,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Sep-2001,Tarzana CH,3,Hard,R32,213,285,1,7,,Robert Kendrick,Brandon Hawk,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Aug-2001,US Open,5,Hard,Q1,211,214,0,,,Todd Woodbridge,Robert Kendrick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Bronx CH,3,Hard,R16,214,307,0,5,,Brandon Hawk,Robert Kendrick,W/O,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Bronx CH,3,Hard,R32,214,,1,5,WC,Robert Kendrick,Jonathan Chu,6-3 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
 6-Aug-2001,Binghamton CH,3,Hard,R16,214,396,0,6,,Amir Hadad,Robert Kendrick,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -598,7 +620,7 @@
 9-Apr-2001,USA F9,3,Hard,R16,304,279,1,,8,Robert Kendrick,Matthew Breen,6-7(4) 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
 9-Apr-2001,USA F9,3,Hard,R32,304,522,1,,WC,Robert Kendrick,Geoff Abrams,6-4 3-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 2-Apr-2001,Calabasas CH,3,Hard,R32,306,201,0,WC,,Ota Fukarek,Robert Kendrick,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Mar-2001,USA F7,3,Hard,R32,,,0,7,,Wesley Moodie,Robert Kendrick,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Mar-2001,USA F7,3,Hard,R32,304,325,0,7,,Wesley Moodie,Robert Kendrick,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2001,Waikoloa CH,3,Hard,QF,344,303,0,WC,,Mike Bryan,Robert Kendrick,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2001,Waikoloa CH,3,Hard,R16,344,354,1,WC,Q,Robert Kendrick,Kalle Flygt,3-6 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 22-Jan-2001,Waikoloa CH,3,Hard,R32,344,137,1,WC,5,Robert Kendrick,Ronald Agenor,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -618,7 +640,7 @@
 11-Sep-2000,USA 3,3,Hard,F,459,292,1,4,1,Robert Kendrick,Alexander Waske,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,USA 1,3,Hard,SF,459,678,0,1,5,Jack Brasington,Robert Kendrick,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,USA 2,3,Hard,SF,459,678,1,1,5,Robert Kendrick,Jack Brasington,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Sep-2000,USA 3,3,Hard,SF,459,1018,1,4,SE,Robert Kendrick,KJ Hippensteel,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2000,USA 3,3,Hard,SF,459,1018,1,4,SE,Robert Kendrick,Kj Hippensteel,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,USA 1,3,Hard,QF,459,706,1,1,7,Robert Kendrick,Levar Harper Griffith,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,USA 2,3,Hard,QF,459,,1,1,8,Robert Kendrick,Jesse Walter,6-2 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,USA 3,3,Hard,QF,459,786,1,4,,Robert Kendrick,Philipp Hammer,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -652,26 +674,24 @@
 29-Nov-1999,USA F21,3,Hard,R16,572,446,1,,8,Robert Kendrick,Alexander Waske,4-6 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1999,USA F21,3,Hard,R32,572,716,1,,,Robert Kendrick,Michael Jessup,6-1 7-6,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1999,USA F21,3,Hard,R64,572,1237,1,,LL,Robert Kendrick,Eric Faulk,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Rancho Mirage CH,3,Hard,R16,623,334,0,LL,WC,Taylor Dent,Robert Kendrick,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Rancho Mirage CH,3,Hard,R32,623,855,1,LL,Q,Robert Kendrick,Bobby Hrdina,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 25-Oct-1999,USA F16,3,Hard,R64,621,385,0,,8,Cedric Kauffmann,Robert Kendrick,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R16,627,556,0,12,6,Alexander Waske,Robert Kendrick,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R32,627,1320,1,12,Q,Robert Kendrick,Robert Collins,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1999,USA F15,3,Hard,R64,627,,1,12,Q,Robert Kendrick,Shane Stone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 2,3,Hard,F,,,0,10,12,Matthew Breen,Robert Kendrick,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 1,3,Hard,SF,,,0,,8,Jeff Williams,Robert Kendrick,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 2,3,Hard,SF,,,1,10,,Robert Kendrick,Lee Pearson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 1,3,Hard,QF,,,1,,5,Robert Kendrick,Tomas Jecminek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 2,3,Hard,QF,,,1,10,1,Robert Kendrick,Jordan Kerr,6-7 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 1,3,Hard,R16,,,1,,,Robert Kendrick,Christian Hill,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 2,3,Hard,R16,,1217,1,10,,Robert Kendrick,Brandon Kramer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 1,3,Hard,R32,,1229,1,,WC,Robert Kendrick,Patrick Osnua,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 2,3,Hard,R32,,,1,10,,Robert Kendrick,Aaron Marchetti,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 3,3,Hard,R32,,1075,0,13,Q,Andrew Park,Robert Kendrick,7-6 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 4,3,Hard,R32,,,0,14,Q,Maarten Paas,Robert Kendrick,5-7 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 1,3,Hard,R64,,,1,,,Robert Kendrick,Cory Guy,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 3,3,Hard,R64,,,1,13,Q,Robert Kendrick,Jacques Gley,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-10-Sep-1999,USA 2 Masters 4,3,Hard,R64,,,1,14,,Robert Kendrick,Wei Jen Cheng,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 2,3,Hard,F,687,497,0,10,12,Matthew Breen,Robert Kendrick,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 1,3,Hard,SF,687,875,0,,8,Jeff Williams,Robert Kendrick,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 2,3,Hard,SF,687,452,1,10,,Robert Kendrick,Lee Pearson,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 1,3,Hard,QF,687,642,1,,5,Robert Kendrick,Tomas Jecminek,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 2,3,Hard,QF,687,524,1,10,1,Robert Kendrick,Jordan Kerr,6-7 7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 1,3,Hard,R16,687,718,1,,,Robert Kendrick,Christian Hill,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 2,3,Hard,R16,687,1217,1,10,,Robert Kendrick,Brandon Kramer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 1,3,Hard,R32,687,1229,1,,WC,Robert Kendrick,Patrick Osnua,7-5 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 2,3,Hard,R32,687,894,1,10,,Robert Kendrick,Aaron Marchetti,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 3,3,Hard,R32,687,1075,0,13,Q,Andrew Park,Robert Kendrick,7-6 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 4,3,Hard,R32,687,,0,14,Q,Maarten Paas,Robert Kendrick,5-7 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 1,3,Hard,R64,687,886,1,,,Robert Kendrick,Cory Guy,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 3,3,Hard,R64,687,,1,13,Q,Robert Kendrick,Jacques Gley,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Sep-1999,USA 2 Masters 4,3,Hard,R64,687,729,1,14,,Robert Kendrick,Wei Jen Cheng,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Aug-1999,USA F14,3,Hard,R64,649,598,0,,13,Tom Spinks,Robert Kendrick,5-0 RET,,,,,,,,,,,,,,,,,,,,,
 2-Aug-1999,USA F13,3,Hard,QF,646,706,0,,,Tom Chicoine,Robert Kendrick,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Aug-1999,USA F13,3,Hard,R16,646,1313,1,,Q,Robert Kendrick,Dustin Mauck,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -679,27 +699,26 @@
 2-Aug-1999,USA F13,3,Hard,R64,646,987,1,,Q,Robert Kendrick,Robert Samuelsson,6-3 1-6 7-6,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,USA F12,3,Hard,R32,646,1244,0,,Q,Jeff Williams,Robert Kendrick,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Jul-1999,USA F12,3,Hard,R64,646,,1,,Q,Robert Kendrick,Shawn Brooke,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Aptos CH,3,Hard,R32,659,332,0,WC,WC,Kevin Kim,Robert Kendrick,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Jul-1999,USA F10,3,Hard,R16,666,1047,0,8,WC,Zack Fleishman,Robert Kendrick,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
 5-Jul-1999,USA F10,3,Hard,R32,666,1193,1,8,,Robert Kendrick,Ryan Wolters,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jul-1999,USA F10,3,Hard,R64,666,,1,8,LL,Robert Kendrick,Jaime Fillol,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,USA F9,3,Hard,R16,,,0,12,5,Wade Mcguire,Robert Kendrick,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,USA F9,3,Hard,R32,,,1,12,,Robert Kendrick,Jason Cook,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,USA F9,3,Hard,R64,,1077,1,12,WC,Robert Kendrick,Andrew Park,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jul-1999,USA F10,3,Hard,R64,666,1306,1,8,LL,Robert Kendrick,Jaime Fillol,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Jun-1999,USA F9,3,Hard,R16,666,404,0,12,5,Wade Mcguire,Robert Kendrick,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-1999,USA F9,3,Hard,R32,666,877,1,12,,Robert Kendrick,Jason Cook,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Jun-1999,USA F9,3,Hard,R64,666,1077,1,12,WC,Robert Kendrick,Andrew Park,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Jun-1999,USA F8,3,Hard,R32,666,1301,0,12,LL,Jeff Williams,Robert Kendrick,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Jun-1999,USA F8,3,Hard,R64,666,,1,12,WC,Robert Kendrick,Brian Vahaly,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,F,,,0,,11,Ville Liukko,Robert Kendrick,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,SF,,,0,,,Mike Mather,Robert Kendrick,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,SF,,,1,,5,Robert Kendrick,Emin Agaev,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,QF,,,1,,3,Robert Kendrick,Matthew Breen,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,QF,,,1,,7,Robert Kendrick,Kevin Kim,7-6 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R16,,,1,,LL,Robert Kendrick,Fredrik Giers,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,R16,,,1,,16,Robert Kendrick,Mike Mather,2-6 7-6 6-0,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 2,3,Hard,R32,,,0,2,,Roberto Rodriguez,Robert Kendrick,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R32,,,1,,Q,Robert Kendrick,Bryan Juinio,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,R32,,1056,1,,,Robert Kendrick,Bobbie Altelaar,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 3,3,Hard,R64,,,1,,11,Robert Kendrick,Kyle Rudman,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Sep-1998,USA 3 Masters 4,3,Hard,R64,,,1,,Q,Robert Kendrick,Chris Atzet,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,F,972,686,0,,11,Ville Liukko,Robert Kendrick,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,SF,972,763,0,,,Mike Mather,Robert Kendrick,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,SF,972,522,1,,5,Robert Kendrick,Emin Agaev,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,QF,972,425,1,,3,Robert Kendrick,Matthew Breen,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,QF,972,560,1,,7,Robert Kendrick,Kevin Kim,7-6 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R16,972,,1,,LL,Robert Kendrick,Fredrik Giers,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,R16,972,763,1,,16,Robert Kendrick,Mike Mather,2-6 7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 2,3,Hard,R32,972,,0,2,,Roberto Rodriguez,Robert Kendrick,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R32,972,,1,,Q,Robert Kendrick,Bryan Juinio,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,R32,972,1056,1,,,Robert Kendrick,Bobbie Altelaar,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 3,3,Hard,R64,972,665,1,,11,Robert Kendrick,Kyle Rudman,5-7 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-1998,USA 3 Masters 4,3,Hard,R64,972,,1,,Q,Robert Kendrick,Chris Atzet,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,USA 2 Masters 2,3,Hard,SF,,600,0,WC,4,Bjorn Phau,Robert Kendrick,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,USA 2 Masters 2,3,Hard,QF,,1010,1,WC,,Robert Kendrick,Eric Drew,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1998,USA 2 Masters 2,3,Hard,R16,,,1,WC,Q,Robert Kendrick,Arvid Swan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

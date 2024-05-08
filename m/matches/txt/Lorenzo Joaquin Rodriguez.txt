@@ -1,4 +1,48 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Concepcion CH,3,Clay,R32,439,469,0,,,Juan Bautista Torres,Lorenzo Joaquin Rodriguez,6-0 5-2 RET,0.27,0.0%,5.3%,57.9%,45.5%,25.0%,0/5,28.4%,17.2%,3.4%,20.0%,14.3%,0/0,67,0,2,38,22,16,1,0:57
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,447,312,0,,3,Andrea Collarini,Lorenzo Joaquin Rodriguez,6-4 4-6 6-4,0.88,9.7%,2.2%,58.1%,64.8%,46.2%,5/10,47.8%,37.9%,1.1%,30.2%,58.3%,4/12,180,9,2,93,54,39,1,2:34
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,447,1054,1,,Q,Lorenzo Joaquin Rodriguez,Nikos Lehmann,6-2 6-2,2.01,4.4%,0.0%,51.1%,91.3%,59.1%,1/1,60.8%,49.1%,3.5%,40.0%,70.6%,4/10,102,2,0,45,23,22,2,1:10
+1-Apr-2024,Florianopolis CH,3,Clay,R16,471,217,0,Q,7,Enzo Couacaud,Lorenzo Joaquin Rodriguez,7-5 6-3,0.68,15.2%,10.6%,47.0%,83.9%,40.0%,1/4,44.2%,27.0%,15.9%,17.9%,41.7%,1/4,129,10,7,66,31,35,10,1:36
+1-Apr-2024,Florianopolis CH,3,Clay,R32,471,1488,1,Q,Q,Lorenzo Joaquin Rodriguez,Gabriel Roveri Sidney,6-4 6-2,1.65,3.9%,3.9%,60.8%,87.1%,45.0%,3/4,58.4%,48.4%,3.2%,40.5%,60.0%,4/10,113,2,2,51,31,20,2,1:26
+1-Apr-2024,Florianopolis CH,3,Clay,Q2,471,621,1,4,11,Lorenzo Joaquin Rodriguez,Franco Roncadelli,6-4 7-6(7),1.11,0.0%,0.0%,62.2%,50.0%,53.6%,4/9,52.7%,53.8%,0.0%,47.2%,76.2%,6/22,167,0,0,74,46,28,0,2:17
+1-Apr-2024,Florianopolis CH,3,Clay,Q1,471,985,1,4,Alt,Lorenzo Joaquin Rodriguez,Johannes Ingildsen,6-4 6-2,1.56,2.0%,2.0%,68.6%,62.9%,68.8%,4/7,59.5%,55.0%,1.7%,37.9%,71.0%,6/12,111,1,1,51,35,16,1,1:30
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R16,533,95,0,Q,1,Juan Pablo Varillas,Lorenzo Joaquin Rodriguez,7-6(2) 5-7 6-3,0.84,2.6%,2.6%,58.3%,65.7%,50.0%,7/10,47.3%,34.3%,8.6%,29.2%,42.5%,3/9,220,3,3,115,67,48,9,3:14
+25-Mar-2024,Sao Leopoldo CH,3,Clay,R32,533,326,1,Q,,Lorenzo Joaquin Rodriguez,Gonzalo Bueno,6-2 7-5,1.27,1.5%,4.4%,66.2%,71.1%,43.5%,8/10,55.0%,48.6%,0.0%,44.6%,62.5%,5/11,140,1,3,68,45,23,0,1:45
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q2,533,1018,1,8,Alt,Lorenzo Joaquin Rodriguez,Johannes Ingildsen,W/O,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,Sao Leopoldo CH,3,Clay,Q1,533,960,1,8,Alt,Lorenzo Joaquin Rodriguez,Paulo Andre Saraiva Dos Santos,6-1 6-4,2.32,9.1%,2.3%,56.8%,92.0%,68.4%,0/0,61.8%,42.2%,0.0%,24.1%,75.0%,3/6,89,4,1,44,25,19,0,1:12
+18-Mar-2024,Asuncion CH,3,Clay,R16,533,266,0,Q,,Gianluca Mager,Lorenzo Joaquin Rodriguez,6-2 6-3,0.52,4.4%,2.9%,64.7%,59.1%,37.5%,6/10,41.1%,25.0%,15.9%,12.9%,53.8%,0/0,112,3,2,68,44,24,7,1:23
+18-Mar-2024,Asuncion CH,3,Clay,R32,533,231,1,Q,7,Lorenzo Joaquin Rodriguez,Enzo Couacaud,7-5 4-6 6-3,1.05,3.2%,4.3%,51.6%,60.4%,62.2%,7/10,50.5%,40.8%,7.8%,18.5%,65.3%,5/15,196,3,4,93,48,45,8,2:34
+18-Mar-2024,Asuncion CH,3,Clay,Q2,533,591,1,6,10,Lorenzo Joaquin Rodriguez,Mariano Kestelboim,7-5 6-7(4) 6-2,1.20,7.5%,1.9%,69.8%,66.2%,65.6%,6/8,53.3%,40.7%,4.6%,33.3%,60.0%,5/13,214,8,2,106,74,32,5,3:15
+18-Mar-2024,Asuncion CH,3,Clay,Q1,533,908,1,6,,Lorenzo Joaquin Rodriguez,Daniel Antonio Nunez,6-4 6-4,1.20,6.1%,3.0%,56.1%,59.5%,51.7%,5/8,54.3%,52.8%,0.0%,47.6%,60.0%,5/14,138,4,2,66,37,29,0,1:40
+11-Mar-2024,Santiago CH,3,Clay,Q2,550,364,0,10,3,Gerard Campana Lee,Lorenzo Joaquin Rodriguez,7-5 6-4,0.90,5.2%,1.3%,66.2%,58.8%,53.8%,5/9,48.0%,38.7%,1.3%,22.7%,61.3%,2/8,152,4,1,77,51,26,1,2:14
+11-Mar-2024,Santiago CH,3,Clay,Q1,550,1535,1,10,Alt,Lorenzo Joaquin Rodriguez,Benjamin Ignacio Torres Fernandez,6-1 6-0,2.83,13.9%,5.6%,69.4%,92.0%,45.5%,0/0,69.6%,62.8%,0.0%,57.1%,68.2%,5/7,79,5,2,36,25,11,0,0:54
+26-Feb-2024,M25 Tucuman,3,Clay,R16,535,294,0,,2,Alvaro Guillen Meza,Lorenzo Joaquin Rodriguez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Tucuman,3,Clay,R32,535,1539,1,,LL,Lorenzo Joaquin Rodriguez,Benjamin Ignacio Torres Fernandez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,Buenos Aires CH,3,Clay,Q1,537,415,0,Alt,8,Gonzalo Bueno,Lorenzo Joaquin Rodriguez,2-6 6-3 6-4,1.03,2.8%,0.0%,61.1%,65.9%,64.3%,4/7,49.7%,35.8%,0.0%,28.6%,52.0%,3/12,153,2,0,72,44,28,0,2:01
+11-Dec-2023,M15 Concepcion,3,,R32,541,1366,0,4,WC,Nicolas Bruna,Lorenzo Joaquin Rodriguez,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,QF,536,,0,6,4,Lautaro Midon,Lorenzo Joaquin Rodriguez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,R16,536,911,1,6,,Lorenzo Joaquin Rodriguez,Luciano Carraro,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,,R32,536,1535,1,6,Q,Lorenzo Joaquin Rodriguez,Joel Angel Lucero,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R16,544,918,0,4,,Fermin Tenti,Lorenzo Joaquin Rodriguez,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,,R32,544,,1,4,WC,Lorenzo Joaquin Rodriguez,Luis Andre Oliva Ewel,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,SF,515,402,0,5,1,Alex Barrena,Lorenzo Joaquin Rodriguez,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,QF,515,504,1,5,3,Lorenzo Joaquin Rodriguez,Ignacio Monzon,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,R16,515,1320,1,5,Q,Lorenzo Joaquin Rodriguez,Nikos Lehmann,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,,R32,515,1927,1,5,WC,Lorenzo Joaquin Rodriguez,Elbert Barr,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,F,555,824,0,8,,Juan Carlos Prado Angelo,Lorenzo Joaquin Rodriguez,6-3 4-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,SF,555,848,1,8,WC,Lorenzo Joaquin Rodriguez,Alejo Lorenzo Lingua Lavallen,6-1 4-6 7-6(9),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,QF,555,588,1,8,,Lorenzo Joaquin Rodriguez,Franco Roncadelli,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,R16,555,905,1,8,,Lorenzo Joaquin Rodriguez,Fermin Tenti,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Rosario,3,Clay,R32,555,1768,1,8,Q,Lorenzo Joaquin Rodriguez,Tomas Martinez,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Villa Maria,3,Clay,SF,554,1022,0,6,,Franco Emanuel Egea,Lorenzo Joaquin Rodriguez,3-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Villa Maria,3,Clay,QF,554,450,1,6,2,Lorenzo Joaquin Rodriguez,Matias Franco Descotte,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Villa Maria,3,Clay,R16,554,856,1,6,WC,Lorenzo Joaquin Rodriguez,Alejo Lorenzo Lingua Lavallen,3-6 7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Villa Maria,3,Clay,R32,554,1940,1,6,Q,Lorenzo Joaquin Rodriguez,Esteban Bruna,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Mendoza,3,Clay,R32,559,635,0,7,,Franco Roncadelli,Lorenzo Joaquin Rodriguez,1-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,R16,560,852,0,,,Mateo Barreiros Reyes,Lorenzo Joaquin Rodriguez,6-2 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,R32,560,573,1,,8,Lorenzo Joaquin Rodriguez,Juan Bautista Otegui,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Satu Mare,3,Clay,R16,579,1234,0,4,,Ioan Alexandru Chirita,Lorenzo Joaquin Rodriguez,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M15 Satu Mare,3,Clay,R32,579,,1,4,Q,Lorenzo Joaquin Rodriguez,Michalis Sakellaridis,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Constanta,3,Clay,QF,722,370,0,7,1,Cezar Cretu,Lorenzo Joaquin Rodriguez,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Constanta,3,Clay,R16,722,942,1,7,,Lorenzo Joaquin Rodriguez,Maik Steiner,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Constanta,3,Clay,R32,722,,1,7,WC,Lorenzo Joaquin Rodriguez,Rares Andrei Golescu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -9,7 +53,13 @@
 21-Aug-2023,M25 Poznan,3,Clay,QF,733,501,1,,6,Lorenzo Joaquin Rodriguez,Yshai Oliel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Poznan,3,Clay,R16,733,755,1,,,Lorenzo Joaquin Rodriguez,Aleksandr Braynin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Poznan,3,Clay,R32,733,,1,,LL,Lorenzo Joaquin Rodriguez,Michalis Sakellaridis,6-1 7-6(0),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Targu Jiu,3,Clay,QF,729,564,0,6,2,Ilya Snitari,Lorenzo Joaquin Rodriguez,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Targu Jiu,3,Clay,R16,729,,1,6,Q,Lorenzo Joaquin Rodriguez,Vlad Cristian Breazu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M15 Targu Jiu,3,Clay,R32,729,916,1,6,,Lorenzo Joaquin Rodriguez,Gabriel Donev,6-7(4) 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M15 Curtea de Arges,3,Clay,R32,727,,0,7,WC,Calin Teodor Stirbu,Lorenzo Joaquin Rodriguez,4-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,R32,733,1055,0,,,Stefan Palosi,Lorenzo Joaquin Rodriguez,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R16,732,304,0,,2,Filip Cristian Jianu,Lorenzo Joaquin Rodriguez,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R32,732,1159,1,,,Lorenzo Joaquin Rodriguez,Dragos Nicolae Cazacu,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Jul-2023,Santa Fe CH,3,Clay,R32,755,421,0,,,Gonzalo Lama,Lorenzo Joaquin Rodriguez,6-3 6-7(2) 6-4,0.88,1.9%,0.9%,65.7%,63.4%,43.2%,8/13,47.8%,38.1%,4.1%,25.4%,57.9%,3/6,205,2,1,108,71,37,4,2:36
 26-Jun-2023,M25 Rosario-Santa Fe,3,Clay,QF,743,793,0,7,,Juan Ignacio Londero,Lorenzo Joaquin Rodriguez,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Rosario-Santa Fe,3,Clay,R16,743,,1,7,Q,Lorenzo Joaquin Rodriguez,Rocco Valente,6-1 6-1,,,,,,,,,,,,,,,,,,,,,

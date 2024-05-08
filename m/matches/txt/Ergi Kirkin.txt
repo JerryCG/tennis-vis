@@ -1,4 +1,53 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,Porto Alegre CH,3,Clay,F,299,464,1,8,LL,Ergi Kirkin,Daniel Dutra Da Silva,6-3 7-5,1.24,6.8%,2.7%,53.4%,66.7%,47.1%,3/6,55.2%,52.5%,0.0%,41.2%,66.7%,6/7,134,5,2,73,39,34,0,1:43
+29-Apr-2024,Porto Alegre CH,3,Clay,SF,299,361,1,8,,Ergi Kirkin,Gonzalo Bueno,7-6(5) 3-6 6-3,1.02,2.9%,2.9%,55.9%,68.4%,42.2%,8/12,50.2%,43.8%,0.0%,34.5%,54.0%,4/10,207,3,3,102,57,45,0,2:46
+29-Apr-2024,Porto Alegre CH,3,Clay,QF,299,469,1,8,Alt,Ergi Kirkin,Juan Bautista Torres,6-3 6-7(3) 7-5,0.92,1.6%,1.6%,40.6%,69.2%,50.0%,8/11,50.0%,38.9%,1.1%,29.6%,52.8%,5/7,218,2,2,128,52,76,1,3:13
+29-Apr-2024,Porto Alegre CH,3,Clay,R16,299,462,1,8,Alt,Ergi Kirkin,Bruno Kuzuhara,3-6 6-4 6-2,1.17,5.5%,1.1%,57.1%,80.8%,38.5%,4/6,52.9%,43.8%,1.0%,38.7%,61.9%,4/14,187,5,1,91,52,39,1,2:23
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,299,304,1,8,,Ergi Kirkin,Adolfo Daniel Vallejo,6-1 7-6(3),1.21,4.1%,2.7%,49.3%,66.7%,59.5%,7/8,53.7%,44.7%,0.0%,51.2%,36.4%,4/8,149,3,2,73,36,37,0,1:57
+22-Apr-2024,Concepcion CH,3,Clay,R16,299,429,0,5,Q,Stefanos Sakellaridis,Ergi Kirkin,6-3 3-6 7-5,0.91,3.1%,3.1%,60.8%,76.3%,44.7%,6/9,49.2%,33.0%,2.3%,25.9%,44.1%,2/3,185,3,3,97,59,38,2,2:19
+22-Apr-2024,Concepcion CH,3,Clay,R32,299,434,1,5,,Ergi Kirkin,Luciano Emanuel Ambrogi,6-4 6-2,1.28,1.5%,1.5%,45.6%,67.7%,48.6%,4/7,56.1%,54.5%,1.8%,51.1%,70.0%,6/10,123,1,1,68,31,37,1,1:29
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,QF,302,384,0,4,5,Hernan Casanova,Ergi Kirkin,6-2 6-2,0.69,3.7%,1.9%,59.3%,59.4%,27.3%,4/9,41.9%,37.3%,0.0%,39.1%,20.0%,1/4,105,2,1,54,32,22,0,1:20
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,302,474,1,4,,Ergi Kirkin,Daniel Dutra Da Silva,6-2 1-6 7-6(3),0.99,2.2%,3.3%,58.9%,58.5%,37.8%,5/12,49.7%,49.4%,1.2%,42.9%,58.3%,7/8,175,2,3,90,53,37,1,2:36
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,302,652,1,4,,Ergi Kirkin,Leonardo Aboian,6-3 6-1,1.66,8.5%,0.0%,46.8%,68.2%,68.0%,0/1,60.0%,52.8%,1.9%,50.0%,56.0%,5/8,100,4,0,47,22,25,1,1:22
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,QF,303,874,0,2,,Samuele Pieri,Ergi Kirkin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R16,303,1070,1,2,,Ergi Kirkin,Carlo Alberto Fossati,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,303,,1,2,Q,Ergi Kirkin,Matteo Mura,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Santa Margherita di Pula,3,Clay,QF,305,465,0,3,8,Marcello Serafini,Ergi Kirkin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Santa Margherita di Pula,3,Clay,R16,305,538,1,3,,Ergi Kirkin,Gianmarco Ferrari,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Santa Margherita di Pula,3,Clay,R32,305,,1,3,Q,Ergi Kirkin,Denis Constantin Spiridon,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,Hamburg CH,3,Hard,R16,322,232,0,,,Yuta Shimizu,Ergi Kirkin,6-4 6-4,0.86,1.5%,4.5%,50.0%,72.7%,27.3%,4/9,46.4%,43.1%,0.0%,32.5%,56.3%,3/11,138,1,3,66,33,33,0,1:38
+11-Mar-2024,Hamburg CH,3,Hard,R32,322,228,1,,,Ergi Kirkin,Illya Marchenko,4-6 6-3 6-4,1.02,10.6%,0.0%,63.8%,78.3%,44.1%,6/8,51.1%,34.9%,9.3%,25.5%,51.6%,3/7,180,10,0,94,60,34,8,2:07
+4-Mar-2024,M15 Torello,3,Hard,F,322,576,1,3,,Ergi Kirkin,Adria Soriano Barrera,7-6(8) 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,SF,322,464,1,3,5,Ergi Kirkin,Giles Hussey,6-3 6-7(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,QF,322,918,1,3,WC,Ergi Kirkin,Nikoloz Basilashvili,4-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,R16,322,669,1,3,,Ergi Kirkin,Kazuki Nishiwaki,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,R32,322,1410,1,3,Q,Ergi Kirkin,Albert Pedrico Kravtsov,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Villena,3,Hard,R32,324,708,0,1,Q,Giorgio Tabacco,Ergi Kirkin,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,Manama CH,3,Hard,Q2,325,411,0,6,12,Viktor Durasovic,Ergi Kirkin,7-6(2) 6-3,0.64,5.2%,0.0%,64.9%,62.0%,59.3%,3/5,44.7%,25.0%,4.7%,23.3%,28.6%,0/2,141,4,0,77,50,27,3,1:38
+12-Feb-2024,Manama CH,3,Hard,Q1,325,568,1,6,,Ergi Kirkin,Petr Nesterov,6-2 6-3,1.44,0.0%,3.9%,62.7%,71.9%,52.6%,2/3,56.5%,50.7%,5.5%,35.0%,69.7%,4/9,124,0,2,51,32,19,4,1:34
+22-Jan-2024,M15 Antalya,3,Clay,SF,340,364,0,2,3,Cezar Cretu,Ergi Kirkin,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Antalya,3,Clay,QF,340,536,1,2,5,Ergi Kirkin,Vlad Andrei Dancu,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Antalya,3,Clay,R16,340,761,1,2,,Ergi Kirkin,Simon Anthony Ivanov,6-0 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Antalya,3,Clay,R32,340,913,1,2,,Ergi Kirkin,Branko Djuric,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,F,340,367,1,3,5,Ergi Kirkin,Khumoyun Sultanov,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,SF,340,1357,1,3,Q,Ergi Kirkin,Ali Habib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,QF,340,1148,1,3,,Ergi Kirkin,Masamichi Imamura,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,R16,340,900,1,3,,Ergi Kirkin,Yi Zhou,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,R32,340,,1,3,Q,Ergi Kirkin,Ammar Faleh Alhogbani,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,Nonthaburi 2 CH,3,Hard,Q1,338,443,0,1,,Yusuke Takahashi,Ergi Kirkin,6-3 6-4,0.84,4.8%,7.9%,57.1%,63.9%,48.1%,7/10,46.2%,35.8%,7.5%,35.8%,35.7%,1/4,130,3,5,63,36,27,5,1:23
+1-Jan-2024,Nonthaburi 1 CH,3,Hard,Q1,338,383,0,11,,Marat Sharipov,Ergi Kirkin,4-6 7-6(4) 6-3,0.75,3.8%,3.8%,58.5%,72.4%,37.0%,21/24,46.9%,31.9%,18.1%,21.1%,48.6%,3/6,224,5,5,130,76,54,17,2:45
+13-Nov-2023,M25 Monastir,3,,QF,346,356,0,3,6,Hady Habib,Ergi Kirkin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R16,346,479,1,3,,Ergi Kirkin,Martyn Pawelski,7-5 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R32,346,568,1,3,,Ergi Kirkin,Gabriele Piraino,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,Sofia,3,Hard,Q1,338,210,0,,6,Francesco Passaro,Ergi Kirkin,5-7 6-3 6-1,0.66,4.7%,1.2%,60.0%,64.7%,41.2%,7/12,42.9%,29.5%,7.7%,21.4%,50.0%,2/4,163,4,1,85,51,34,6,1:46
+30-Oct-2023,Bergamo CH,3,Hard,Q1,332,548,0,9,,Jelle Sels,Ergi Kirkin,6-2 6-2,0.53,2.0%,2.0%,62.7%,59.4%,42.1%,1/5,40.0%,25.0%,15.9%,22.2%,29.4%,0/1,95,1,1,51,32,19,7,1:04
+16-Oct-2023,Hamburg CH,3,Hard,R32,327,177,0,Alt,2,Adam Walton,Ergi Kirkin,6-2 6-4,0.56,2.7%,1.4%,45.2%,57.6%,47.5%,9/13,42.1%,27.1%,10.4%,29.4%,21.4%,1/3,121,2,1,73,33,40,5,1:28
+9-Oct-2023,Malaga CH,3,Hard,Q1,329,324,0,,12,Ugo Blanchet,Ergi Kirkin,6-3 4-0 RET,0.48,6.5%,10.9%,50.0%,56.5%,39.1%,4/7,37.2%,25.0%,15.0%,8.0%,53.3%,0/0,86,3,5,46,23,23,6,0:59
+2-Oct-2023,Shanghai Masters,3,Hard,Q1,329,198,0,,12,Seong Chan Hong,Ergi Kirkin,7-5 6-3,0.71,3.1%,1.6%,65.6%,69.0%,27.3%,5/9,43.4%,32.3%,12.3%,33.3%,31.0%,2/5,129,2,1,64,42,22,8,1:34
+18-Sep-2023,Bad Waltersdorf CH,3,Clay,R16,343,201,0,Q,,Jozef Kovalik,Ergi Kirkin,6-1 6-2,0.39,5.1%,2.6%,59.0%,60.9%,18.8%,0/4,32.5%,22.0%,0.0%,26.9%,13.3%,0/0,80,2,1,39,23,16,0,0:59
+18-Sep-2023,Bad Waltersdorf CH,3,Clay,R32,343,209,1,Q,,Ergi Kirkin,Lukas Neumayer,7-5 2-6 6-1,1.10,5.1%,3.0%,73.7%,67.1%,38.5%,5/8,52.4%,44.6%,3.3%,40.0%,53.1%,5/11,191,5,3,99,73,26,3,2:22
+18-Sep-2023,Bad Waltersdorf CH,3,Clay,Q2,343,526,1,4,,Ergi Kirkin,Neil Oberleitner,6-7(4) 6-4 6-2,1.24,4.4%,2.2%,60.4%,80.0%,52.8%,1/2,52.8%,38.2%,5.9%,31.6%,46.7%,4/9,193,4,2,91,55,36,6,2:23
+18-Sep-2023,Bad Waltersdorf CH,3,Clay,Q1,343,1064,1,4,WC,Ergi Kirkin,Matthias Ujvary,6-2 6-2,1.47,1.4%,2.9%,57.1%,62.5%,50.0%,8/10,59.5%,63.0%,2.2%,58.1%,73.3%,6/10,116,1,2,70,40,30,1,1:18
 4-Sep-2023,Istanbul CH,3,Hard,R16,368,155,0,WC,3,Lukas Klein,Ergi Kirkin,6-3 6-4,0.76,5.7%,1.9%,64.2%,67.6%,42.1%,4/7,44.5%,31.6%,3.5%,27.8%,38.1%,1/2,110,3,1,53,34,19,2,1:14
 4-Sep-2023,Istanbul CH,3,Hard,R32,368,327,1,WC,,Ergi Kirkin,Marek Gengel,6-1 6-2,2.28,9.8%,0.0%,61.0%,76.0%,81.3%,0/0,64.6%,50.0%,2.6%,36.4%,68.8%,4/7,79,4,0,41,25,16,1,0:49
 21-Aug-2023,M25 Tainan,3,Clay,SF,421,715,0,1,5,Matyas Fuele,Ergi Kirkin,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -53,12 +102,15 @@
 6-Feb-2023,Vilnius CH,3,Hard,R32,383,418,1,Q,Q,Ergi Kirkin,Mats Rosenkranz,7-5 6-7(4) 7-6(2),0.98,2.3%,0.8%,73.8%,69.8%,58.8%,11/12,51.0%,32.4%,10.8%,26.3%,45.7%,2/4,241,3,1,130,96,34,12,2:41
 6-Feb-2023,Vilnius CH,3,Hard,Q2,383,338,1,7,5,Ergi Kirkin,Vitaliy Sachko,6-2 6-4,1.37,3.0%,6.1%,68.2%,75.6%,42.9%,6/7,56.6%,47.6%,1.6%,46.5%,50.0%,4/10,129,2,4,66,45,21,1,1:41
 6-Feb-2023,Vilnius CH,3,Hard,Q1,383,,1,7,WC,Ergi Kirkin,Julius Tverijonas,6-3 6-4,1.25,1.7%,3.4%,53.4%,67.7%,44.4%,1/4,55.4%,53.7%,1.9%,40.7%,66.7%,5/10,112,1,2,58,31,27,1,1:30
-3-Feb-2023,Davis Cup WG1 PO: TUR vs SLO,3,Hard,RR,378,,1,,,Ergi Kirkin,Matic Kriznik,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2023,Davis Cup WG1 PO: TUR vs SLO,3,,RR,378,,1,,,Ergi Kirkin,Matic Kriznik,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Jan-2023,Ottignies Louvain CH,3,Hard,Q2,381,338,0,,10,Gauthier Onclin,Ergi Kirkin,6-1 7-6(3),0.71,1.2%,7.4%,59.3%,56.3%,39.4%,10/15,43.4%,35.9%,0.0%,22.6%,48.5%,2/5,145,1,6,81,48,33,0,1:38
 23-Jan-2023,Ottignies Louvain CH,3,Hard,Q1,381,312,1,,6,Ergi Kirkin,Louis Wessels,4-6 6-4 4-2 RET,1.22,2.4%,1.2%,51.8%,65.1%,60.0%,2/5,53.2%,45.7%,1.0%,36.8%,62.2%,4/14,188,2,1,83,43,40,1,2:23
 9-Jan-2023,Oeiras 2 CH,3,Hard,Q1,383,336,0,,8,Vitaliy Sachko,Ergi Kirkin,7-5 6-3,0.82,2.3%,3.4%,54.0%,51.1%,52.5%,8/12,45.8%,39.5%,4.9%,29.6%,59.3%,2/12,168,2,3,87,47,40,4,2:09
 2-Jan-2023,Oeiras 1 CH,3,Hard,Q1,383,483,0,9,Alt,August Holmgren,Ergi Kirkin,6-4 6-4,0.76,7.2%,2.9%,55.1%,76.3%,41.9%,6/8,45.6%,29.9%,11.9%,18.4%,44.8%,0/5,136,5,2,69,38,31,8,1:30
 14-Nov-2022,Kobe CH,3,Hard,Q1,387,556,0,6,,Yuki Mochizuki,Ergi Kirkin,3-6 7-5 6-4,0.93,1.7%,2.5%,58.0%,69.6%,42.0%,8/13,49.8%,39.1%,4.3%,35.8%,48.0%,4/12,211,2,3,119,69,50,4,2:06
+7-Nov-2022,Matsuyama CH,3,Hard,R32,396,180,0,Q,6,Damir Dzumhur,Ergi Kirkin,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,Matsuyama CH,3,Hard,Q2,396,442,1,4,7,Ergi Kirkin,Naoki Nakagawa,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Nov-2022,Matsuyama CH,3,Hard,Q1,396,748,1,4,PR,Ergi Kirkin,Renta Tokuda,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 31-Oct-2022,Yokohama CH,3,Hard,R16,406,102,0,,1,Christopher Oconnell,Ergi Kirkin,6-3 6-4,0.60,6.6%,4.9%,49.2%,70.0%,48.4%,6/8,42.4%,24.6%,12.3%,20.0%,29.6%,0/2,118,4,3,61,30,31,7,1:25
 31-Oct-2022,Yokohama CH,3,Hard,R32,406,659,1,,WC,Ergi Kirkin,Shinji Hazawa,6-4 6-2,1.32,12.5%,5.4%,57.1%,81.3%,45.8%,1/2,54.4%,44.9%,2.9%,43.4%,50.0%,4/12,125,7,3,56,32,24,2,1:29
 17-Oct-2022,Hamburg CH,3,Hard,R32,414,291,0,Q,,Robin Haase,Ergi Kirkin,6-2 6-4,0.44,2.2%,6.5%,56.5%,80.8%,40.0%,1/4,40.4%,16.3%,14.0%,16.7%,15.4%,0/0,89,1,3,46,26,20,6,0:53
@@ -119,7 +171,7 @@
 17-Jan-2022,M25 Vilnius,3,Hard,R32,342,720,0,1,,Daniel Cukierman,Ergi Kirkin,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2021,Antalya 3 CH,3,Clay,R32,311,253,0,,6,Nuno Borges,Ergi Kirkin,6-4 6-3,0.80,0.0%,0.0%,66.7%,40.5%,52.4%,6/12,44.4%,44.4%,0.0%,43.4%,50.0%,3/7,126,0,0,63,42,21,0,1:16
 22-Nov-2021,Manama CH,3,Hard,R32,308,145,0,,2,Cem Ilkel,Ergi Kirkin,6-4 6-2,0.73,5.6%,1.4%,52.1%,67.6%,41.2%,6/9,44.2%,32.8%,1.5%,26.8%,42.3%,0/2,138,4,1,71,37,34,1,1:45
-8-Nov-2021,Bratislava 2 CH,3,Hard,Q1,304,1163,0,2,WC,Milos Karol ,Ergi Kirkin,6-1 7-6(2),0.58,7.3%,7.3%,61.8%,73.5%,52.4%,5/7,42.7%,20.0%,12.7%,9.1%,36.4%,0/0,110,4,4,55,34,21,7,1:01
+8-Nov-2021,Bratislava 2 CH,3,Hard,Q1,304,1163,0,2,WC,Milos Karol,Ergi Kirkin,6-1 7-6(2),0.58,7.3%,7.3%,61.8%,73.5%,52.4%,5/7,42.7%,20.0%,12.7%,9.1%,36.4%,0/0,110,4,4,55,34,21,7,1:01
 1-Nov-2021,Tenerife CH,3,Hard,R32,301,88,0,,1,Tallon Griekspoor,Ergi Kirkin,6-2 6-2,0.57,1.9%,9.6%,55.8%,55.2%,43.5%,3/8,39.8%,28.3%,4.3%,26.9%,30.0%,1/2,98,1,5,52,29,23,2,1:08
 18-Oct-2021,Losinj CH,3,Clay,R32,303,319,0,,Alt,Raul Brancaccio,Ergi Kirkin,6-3 3-6 6-2,0.88,1.1%,9.5%,49.5%,44.7%,47.9%,8/16,46.8%,47.3%,0.0%,42.2%,58.6%,6/16,188,1,9,95,47,48,0,2:23
 4-Oct-2021,Napoli CH,3,Clay,R32,306,89,0,,1,Stefano Travaglia,Ergi Kirkin,7-6(3) 6-3,0.71,0.0%,3.9%,44.2%,67.6%,48.8%,4/6,44.8%,30.3%,9.1%,14.7%,46.9%,1/1,143,0,3,77,34,43,6,1:49

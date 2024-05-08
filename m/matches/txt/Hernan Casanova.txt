@@ -1,4 +1,38 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Concepcion CH,3,Clay,R16,336,633,0,7,Q,Jose Pereira,Hernan Casanova,6-7(4) 6-3 6-1,0.82,0.0%,4.4%,73.5%,48.2%,56.7%,13/21,46.1%,40.9%,0.0%,40.6%,41.7%,4/9,206,0,5,113,83,30,0,2:43
+22-Apr-2024,Concepcion CH,3,Clay,R32,336,424,1,7,,Hernan Casanova,Matias Soto,6-3 6-0,1.75,0.0%,3.8%,75.5%,67.5%,46.2%,6/8,63.8%,65.9%,2.4%,62.5%,70.6%,6/12,94,0,2,53,40,13,1,1:07
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,F,384,312,0,5,3,Andrea Collarini,Hernan Casanova,6-4 7-6(3),0.89,0.0%,3.9%,76.3%,69.0%,16.7%,5/8,47.4%,38.5%,0.0%,34.0%,48.0%,2/11,154,0,3,76,58,18,0,2:15
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,SF,384,431,1,5,7,Hernan Casanova,Valerio Aboian,2-6 6-2 7-5,0.95,0.0%,3.4%,79.5%,57.1%,33.3%,4/10,49.1%,45.3%,5.3%,34.1%,61.3%,7/9,163,0,3,88,70,18,4,2:22
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,QF,384,302,1,5,4,Hernan Casanova,Ergi Kirkin,6-2 6-2,1.44,0.0%,0.0%,90.2%,60.9%,80.0%,3/4,58.1%,53.7%,3.7%,40.6%,72.7%,5/9,105,0,0,51,46,5,2,1:20
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R16,384,714,1,5,Q,Hernan Casanova,Felix Corwin,6-3 6-7(8) 6-1,1.37,1.0%,1.0%,82.0%,69.5%,55.6%,6/8,56.5%,45.1%,3.3%,39.1%,51.1%,5/10,191,1,1,100,82,18,3,2:31
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,384,674,1,5,Alt,Hernan Casanova,Igor Gimenez,3-6 6-4 6-2,1.34,2.6%,1.3%,77.6%,67.8%,76.5%,7/9,54.4%,40.5%,2.4%,41.0%,39.1%,3/8,160,2,1,76,59,17,2,2:12
+1-Apr-2024,M25 Reus,3,Clay,QF,389,703,0,1,,Peter Benjamin Privara,Hernan Casanova,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Reus,3,Clay,R16,389,786,1,1,,Hernan Casanova,Michiel De Krom,6-7(6) 7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M25 Reus,3,Clay,R32,389,1982,1,1,Q,Hernan Casanova,Ignasi Forcano,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Tarragona,3,Clay,R16,382,437,0,5,,Ignacio Buse,Hernan Casanova,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Tarragona,3,Clay,R32,382,,1,5,Q,Hernan Casanova,Tristan Mccormick,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M25 Badalona,3,Clay,SF,382,499,0,3,,Alex Marti Pujolras,Hernan Casanova,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M25 Badalona,3,Clay,QF,382,1486,1,3,Q,Hernan Casanova,Kuzey Cekirge,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M25 Badalona,3,Clay,R16,382,483,1,3,,Hernan Casanova,Ryan Nijboer,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M25 Badalona,3,Clay,R32,382,760,1,3,Q,Hernan Casanova,Diego Fernandez Flores,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,Kigali 2 CH,3,Clay,R16,366,225,0,,5,Clement Tabur,Hernan Casanova,6-4 6-3,0.67,0.0%,2.8%,68.1%,53.1%,52.2%,8/11,43.0%,31.7%,4.8%,23.8%,47.6%,1/3,135,0,2,72,49,23,3,1:56
+4-Mar-2024,Kigali 2 CH,3,Clay,R32,366,555,1,,,Hernan Casanova,Florent Bax,6-4 6-4,1.11,1.4%,2.9%,70.0%,69.4%,47.6%,3/4,53.2%,41.1%,8.9%,38.1%,50.0%,3/5,126,1,2,70,49,21,5,1:20
+26-Feb-2024,Kigali 1 CH,3,Clay,R32,366,442,0,,,Corentin Denolly,Hernan Casanova,7-6(2) 7-5,0.82,0.0%,1.2%,78.6%,47.0%,38.9%,7/14,45.1%,44.9%,2.6%,37.5%,56.7%,6/11,162,0,1,84,66,18,2,2:01
+12-Feb-2024,M25 Punta del Este,3,Clay,SF,377,311,0,4,2,Alvaro Guillen Meza,Hernan Casanova,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,QF,377,479,1,4,,Hernan Casanova,Facundo Mena,6-7(4) 7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R16,377,615,1,4,WC,Hernan Casanova,Franco Roncadelli,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Punta del Este,3,Clay,R32,377,1291,1,4,Q,Hernan Casanova,Thiago Cigarran,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,Cordoba,3,Clay,Q1,378,170,0,WC,4,Roman Andres Burruchaga,Hernan Casanova,6-4 6-2,0.73,0.0%,1.7%,81.4%,43.8%,45.5%,5/11,42.6%,41.1%,0.0%,26.7%,57.7%,3/7,115,0,1,59,48,11,0,1:32
+29-Jan-2024,Piracicaba CH,3,Clay,R16,389,263,0,,,Gianluca Mager,Hernan Casanova,2-6 6-1 7-6(4),0.99,1.1%,4.6%,75.9%,66.7%,38.1%,6/10,50.3%,40.0%,7.5%,25.5%,60.6%,4/5,167,1,4,87,66,21,6,2:07
+29-Jan-2024,Piracicaba CH,3,Clay,R32,389,454,1,,Q,Hernan Casanova,Gonzalo Villanueva,6-2 6-4,2.02,0.0%,6.8%,77.3%,88.2%,60.0%,0/0,58.1%,36.7%,4.1%,27.3%,56.3%,3/6,93,0,3,44,34,10,2,1:22
+22-Jan-2024,Punta Del Este CH,3,Clay,Q1,341,327,0,,10,Gianluca Mager,Hernan Casanova,6-4 6-4,0.80,0.0%,0.0%,78.8%,56.1%,45.5%,2/6,45.0%,36.8%,8.8%,29.0%,46.2%,2/2,109,0,0,52,41,11,5,1:17
+15-Jan-2024,Buenos Aires CH,3,Clay,R32,341,236,0,Q,4,Andrea Collarini,Hernan Casanova,6-0 6-4,0.74,0.0%,1.7%,71.2%,47.6%,41.2%,6/11,42.7%,40.3%,1.4%,44.4%,36.1%,1/8,131,0,1,59,42,17,1,1:44
+15-Jan-2024,Buenos Aires CH,3,Clay,Q2,341,472,1,2,WC,Hernan Casanova,Valerio Aboian,6-1 7-5,1.43,0.0%,2.8%,72.2%,69.2%,50.0%,3/4,58.5%,51.7%,3.4%,40.6%,65.4%,4/9,130,0,2,72,52,20,2,1:33
+15-Jan-2024,Buenos Aires CH,3,Clay,Q1,341,461,1,2,Alt,Hernan Casanova,Alex Marti Pujolras,6-1 6-1,1.78,0.0%,0.0%,72.1%,67.7%,58.3%,0/1,63.4%,62.0%,0.0%,57.1%,68.2%,6/7,93,0,0,43,31,12,0,1:18
+8-Jan-2024,Buenos Aires CH,3,Clay,R16,347,268,0,,4,Tristan Boyer,Hernan Casanova,6-3 3-6 6-3,0.89,0.0%,3.9%,61.8%,53.2%,62.1%,4/9,46.7%,38.5%,6.6%,29.3%,54.5%,4/7,167,0,3,76,47,29,6,2:20
+8-Jan-2024,Buenos Aires CH,3,Clay,R32,347,311,1,,,Hernan Casanova,Alexander Weis,6-2 7-6(1),1.64,0.0%,0.0%,81.5%,75.0%,50.0%,4/6,57.9%,48.6%,1.4%,40.5%,57.1%,4/8,126,0,0,54,44,10,1,1:31
+20-Nov-2023,Brasilia CH,3,Hard,R32,341,211,0,,,Roman Andres Burruchaga,Hernan Casanova,1-6 7-5 6-1,0.76,2.2%,6.5%,60.9%,57.1%,47.2%,9/14,45.7%,35.7%,11.4%,25.0%,53.8%,4/9,162,2,6,92,56,36,8,1:57
+9-Oct-2023,Buenos Aires CH,3,Clay,Q1,313,384,0,8,,Gonzalo Lama,Hernan Casanova,6-3 0-2 RET,0.84,0.0%,2.7%,67.6%,52.0%,16.7%,1/4,45.8%,50.0%,6.5%,53.1%,42.9%,3/9,83,0,1,37,25,12,3,1:03
 4-Sep-2023,Seville CH,3,Clay,R32,250,335,0,,,Valentin Royer,Hernan Casanova,3-3 RET,0.89,0.0%,3.8%,73.1%,52.6%,57.1%,4/5,48.8%,41.2%,0.0%,33.3%,60.0%,1/1,43,0,1,26,19,7,0,0:39
 21-Aug-2023,Augsburg CH,3,Clay,R32,242,322,0,1,,Lucas Gerch,Hernan Casanova,5-4 RET,0.92,0.0%,11.4%,65.9%,51.7%,53.3%,8/10,48.2%,43.9%,14.6%,15.8%,68.2%,1/6,85,0,5,44,29,15,6,0:59
 14-Aug-2023,M25 Koksijde,3,Clay,QF,242,580,0,1,8,Luciano Emanuel Ambrogi,Hernan Casanova,5-7 2-0 RET,,,,,,,,,,,,,,,,,,,,,
@@ -10,6 +44,11 @@
 31-Jul-2023,Liberec CH,3,Clay,QF,267,565,0,,,Gerard Campana Lee,Hernan Casanova,6-3 6-7(5) 6-4,0.91,0.0%,1.0%,84.3%,57.0%,62.5%,8/13,47.1%,38.2%,0.0%,31.9%,46.3%,3/9,225,0,1,102,86,16,0,2:59
 31-Jul-2023,Liberec CH,3,Clay,R16,267,195,1,,5,Hernan Casanova,Riccardo Bonadio,6-4 7-6(5),1.09,2.5%,0.0%,81.3%,63.1%,60.0%,6/8,51.2%,40.7%,5.8%,28.0%,58.3%,3/6,166,2,0,80,65,15,5,2:02
 31-Jul-2023,Liberec CH,3,Clay,R32,267,396,1,,,Hernan Casanova,Miljan Zekic,6-3 6-4,1.44,0.0%,1.7%,78.3%,76.6%,46.2%,3/4,57.7%,43.1%,5.9%,35.3%,58.8%,3/5,111,0,1,60,47,13,3,1:20
+24-Jul-2023,M25 Bacau,3,Clay,F,254,372,0,1,3,Marius Copil,Hernan Casanova,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,SF,254,400,1,1,4,Hernan Casanova,Cezar Cretu,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,QF,254,626,1,1,8,Hernan Casanova,Oleg Prihodko,3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R16,254,754,1,1,,Hernan Casanova,Petr Nesterov,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R32,254,,1,1,Q,Hernan Casanova,Eric David Verdes,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,Tampere CH,3,Clay,R16,259,193,0,,5,Dalibor Svrcina,Hernan Casanova,7-5 7-6(5),0.96,0.0%,1.1%,81.6%,54.9%,50.0%,4/9,48.9%,44.3%,4.1%,43.5%,46.4%,4/15,184,0,1,87,71,16,4,2:13
 17-Jul-2023,Tampere CH,3,Clay,R32,259,378,1,,Q,Hernan Casanova,Remy Bertola,4-6 6-3 6-0,1.52,0.0%,0.0%,78.6%,67.3%,73.3%,2/4,56.8%,47.8%,0.0%,41.8%,56.8%,5/13,162,0,0,70,55,15,0,1:52
 10-Jul-2023,San Benedetto Del Tronto CH,3,Clay,R16,259,150,0,Alt,,Flavio Cobolli,Hernan Casanova,6-3 6-4,0.65,0.0%,5.8%,63.5%,48.5%,52.6%,3/8,41.3%,32.7%,0.0%,23.5%,50.0%,2/6,104,0,3,52,33,19,0,1:22

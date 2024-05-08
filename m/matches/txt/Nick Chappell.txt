@@ -1,4 +1,51 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,M25 Xalapa,3,Hard,R16,438,885,0,3,,Alan Fernando Rubio Fierros,Nick Chappell,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Xalapa,3,Hard,R32,438,1099,1,3,,Nick Chappell,Elijah Strode,6-7(17) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,Acapulco CH,3,Hard,Q2,443,782,0,6,,Nathan Ponwith,Nick Chappell,2-6 7-6(2) 6-2,0.91,6.5%,0.0%,68.8%,65.6%,48.3%,2/5,47.7%,36.3%,0.0%,29.5%,46.3%,3/11,195,6,0,93,64,29,0,2:40
+15-Apr-2024,Acapulco CH,3,Hard,Q1,443,,1,6,WC,Nick Chappell,Santiago Ruiz Velasco,6-3 6-2,2.16,4.2%,0.0%,66.7%,84.4%,68.8%,3/3,60.2%,45.0%,1.7%,42.5%,50.0%,3/7,108,2,0,48,32,16,1,1:12
+8-Apr-2024,Cuernavaca CH,3,Hard,R32,440,386,0,Alt,,Dominik Palan,Nick Chappell,6-3 6-4,0.71,0.0%,0.0%,63.5%,67.5%,47.8%,6/8,43.8%,28.4%,13.4%,18.9%,40.0%,0/6,130,0,0,63,40,23,9,1:35
+1-Apr-2024,Mexico City CH,3,Clay,Q2,433,425,0,8,6,Skander Mansouri,Nick Chappell,7-6(5) 3-6 6-3,0.98,3.2%,4.3%,59.6%,75.0%,55.3%,4/6,48.3%,32.4%,13.5%,21.0%,46.9%,2/10,205,3,4,94,56,38,15,2:17
+1-Apr-2024,Mexico City CH,3,Clay,Q1,433,635,1,8,,Nick Chappell,Jose Rubin Statham,6-4 3-6 7-5,1.05,11.5%,4.2%,55.2%,71.7%,55.8%,5/7,50.0%,37.0%,6.5%,28.8%,44.6%,3/9,204,11,4,96,53,43,7,2:29
+25-Mar-2024,San Luis Potosi CH,3,Clay,Q1,428,706,0,5,,Niki Kaliyanda Poonacha,Nick Chappell,7-6(4) 7-6(8),0.90,3.0%,6.0%,60.0%,66.7%,45.0%,5/8,48.7%,37.9%,10.3%,22.4%,57.9%,3/5,187,3,6,100,60,40,9,2:01
+18-Mar-2024,Murcia CH,3,Clay,Q1,428,616,0,12,,Diego Augusto Barreto Sanchez,Nick Chappell,6-2 6-2,0.53,3.8%,1.9%,61.5%,56.3%,45.0%,4/8,40.0%,25.6%,0.0%,36.8%,16.7%,0/0,95,2,1,52,32,20,0,1:16
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R32,424,538,0,,,Federico Iannaccone,Nick Chappell,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Quinta Do Lago,3,Hard,R32,424,347,0,,,Jaime Faria,Nick Chappell,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R16,385,602,0,2,,Keegan Smith,Nick Chappell,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R32,385,626,1,2,,Nick Chappell,Elliot Benchetrit,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R16,355,745,0,3,Q,Julio Cesar Porras,Nick Chappell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,355,478,1,3,,Nick Chappell,Hynek Barton,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R16,355,430,0,5,PR,Carlos Lopez Montagud,Nick Chappell,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,355,,1,5,Q,Nick Chappell,Lars Wagenaar,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,Cleveland CH,3,Hard,R32,381,296,0,,,Thai Son Kwiatkowski,Nick Chappell,6-3 6-2,0.62,1.7%,5.0%,60.0%,47.2%,41.7%,3/8,40.0%,34.0%,12.0%,20.0%,66.7%,2/6,110,1,3,60,36,24,6,1:11
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,F,384,528,0,3,6,Roberto Cid,Nick Chappell,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,SF,384,321,1,3,1,Nick Chappell,Toby Alex Kodat,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,QF,384,672,1,3,8,Nick Chappell,Andres Andrade,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R16,384,,1,3,Q,Nick Chappell,Kyle Overmyer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,384,1763,1,3,LL,Nick Chappell,Jared Thompkins,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Ithaca NY,3,Hard,R32,384,1152,0,1,,Alexander Bernard,Nick Chappell,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,QF,387,605,0,1,8,Matthew Dellavedova,Nick Chappell,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R16,387,,1,1,Q,Nick Chappell,Mason Naumovski,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,,R32,387,1271,1,1,Q,Nick Chappell,Zaharije Zak Talic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,,QF,390,1126,0,4,PR,Shintaro Imai,Nick Chappell,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,,R16,390,571,1,4,,Nick Chappell,Makoto Ochi,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,,R32,390,,1,4,Q,Nick Chappell,Mason Naumovski,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R16,392,623,0,8,,Gian Marco Moroni,Nick Chappell,6-4 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,,R32,392,545,1,8,,Nick Chappell,Tom Paris,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,Helsinki CH,3,Hard,Q1,393,258,0,,9,Maximilian Neuchrist,Nick Chappell,6-4 3-6 6-3,0.95,5.6%,5.6%,53.3%,62.5%,38.1%,5/12,48.5%,46.2%,4.7%,29.0%,78.4%,6/20,196,5,5,90,48,42,5,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R16,417,1325,0,6,Q,Yanis Ghazouani Durand,Nick Chappell,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25+H Mulhouse,3,Hard,R32,417,905,1,6,Q,Nick Chappell,Pierre Delage,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Davangere,3,Hard,F,434,469,0,1,2,Bogdan Bobrov,Nick Chappell,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Davangere,3,Hard,SF,434,692,1,1,8,Nick Chappell,Niki Kaliyanda Poonacha,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Davangere,3,Hard,QF,434,615,1,1,5,Nick Chappell,Sidharth Rawat,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Davangere,3,Hard,R16,434,1651,1,1,PR,Nick Chappell,Dev Javia,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Davangere,3,Hard,R32,434,1429,1,1,WC,Nick Chappell,Ranjeet Virali Murugesan,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Dharwad,3,Hard,SF,431,730,0,1,4,Ramkumar Ramanathan,Nick Chappell,3-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Dharwad,3,Hard,QF,431,642,1,1,7,Nick Chappell,Sidharth Rawat,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Dharwad,3,Hard,R16,431,801,1,1,,Nick Chappell,Karan Singh,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Dharwad,3,Hard,R32,431,940,1,1,,Nick Chappell,Woobin Shin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,Malaga CH,3,Hard,Q1,409,197,0,,1,Raul Brancaccio,Nick Chappell,6-4 6-1,0.62,5.5%,3.6%,47.3%,65.4%,37.9%,5/9,40.5%,30.4%,7.1%,22.9%,42.9%,1/2,111,3,2,55,26,29,4,1:21
+20-Sep-2023,Chengdu,3,Hard,Q1,378,325,0,,7,Philip Sekulic,Nick Chappell,6-3 7-6(4),0.78,7.0%,1.4%,59.2%,64.3%,55.2%,7/10,46.0%,30.9%,8.8%,17.4%,59.1%,2/2,139,5,1,71,42,29,6,1:43
+11-Sep-2023,Guangzhou CH,3,Hard,R32,344,215,0,,8,Li Tu,Nick Chappell,6-1 2-6 6-2,0.74,6.8%,8.2%,50.7%,59.5%,50.0%,8/12,44.1%,33.3%,6.9%,32.3%,34.1%,2/8,145,5,6,73,37,36,5,1:58
 4-Sep-2023,Shanghai CH,3,Hard,R32,356,417,0,Q,Q,Nam Hoang Ly,Nick Chappell,5-7 6-4 6-0,0.75,10.5%,4.2%,66.3%,61.9%,37.5%,11/17,44.8%,34.9%,5.8%,32.7%,38.7%,3/9,181,10,4,95,63,32,5,2:33
 4-Sep-2023,Shanghai CH,3,Hard,Q2,356,472,1,2,8,Nick Chappell,Jose Rubin Statham,7-6(2) 6-4,1.16,7.0%,1.4%,73.2%,73.1%,57.9%,3/4,53.8%,36.1%,6.6%,27.0%,50.0%,2/4,132,5,1,71,52,19,4,1:41
 28-Aug-2023,Zhangjiagang CH,3,Hard,R32,356,417,0,,,Nam Hoang Ly,Nick Chappell,5-7 6-3 6-2,0.84,3.6%,0.0%,56.0%,63.8%,62.2%,3/6,46.8%,31.0%,0.0%,18.2%,53.1%,1/2,171,3,0,84,47,37,0,2:16

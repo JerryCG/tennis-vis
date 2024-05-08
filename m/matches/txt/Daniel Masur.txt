@@ -1,10 +1,61 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Tulln CH,3,Clay,R32,406,189,0,Q,,Sumit Nagal,Daniel Masur,6-1 6-2,0.56,3.5%,5.3%,52.6%,53.3%,25.9%,5/11,37.5%,33.3%,7.7%,30.3%,50.0%,1/2,96,2,3,57,30,27,3,1:04
-3-Sep-2023,Tulln CH,3,Clay,Q2,406,572,1,4,,Daniel Masur,David Pichler,6-2 6-7(4) 6-4,1.23,10.1%,6.1%,70.7%,75.7%,37.9%,0/2,54.4%,43.6%,6.4%,33.9%,57.9%,5/8,193,10,6,99,70,29,6,2:14
-3-Sep-2023,Tulln CH,3,Clay,Q1,406,1768,1,4,WC,Daniel Masur,Syl Gaxherri,6-2 6-1,1.74,5.9%,2.0%,78.4%,80.0%,36.4%,4/4,62.0%,51.2%,0.0%,50.0%,53.8%,4/8,92,3,1,51,40,11,0,0:54
+29-Apr-2024,M25 Nottingham,3,Hard,R32,308,497,0,1,,Daniel Cox,Daniel Masur,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M25 Nottingham,3,Hard,R16,308,1289,0,1,WC,Ewen Lumsden,Daniel Masur,4-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M25 Nottingham,3,Hard,R32,308,497,1,1,,Daniel Masur,Daniel Cox,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,Munich,3,Clay,Q1,309,240,0,Alt,8,Alejandro Moro Canas,Daniel Masur,6-7(5) 6-4 6-1,0.81,4.3%,0.0%,61.3%,61.4%,47.2%,2/8,45.7%,35.8%,8.4%,29.2%,50.0%,3/4,188,4,0,93,57,36,8,
+25-Mar-2024,M25 Saint Dizier,3,Hard,R16,308,536,0,4,,Buvaysar Gadamauri,Daniel Masur,7-5 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Saint Dizier,3,Hard,R32,308,982,1,4,WC,Daniel Masur,Theo Papamalamis,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,QF,379,519,0,2,8,Mats Rosenkranz,Daniel Masur,2-6 7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R16,379,1489,1,2,Q,Daniel Masur,Albano Olivetti,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R32,379,946,1,2,,Daniel Masur,Niklas Schell,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,Lugano CH,3,Hard,F,379,126,0,Q,2,Otto Virtanen,Daniel Masur,6-7(4) 6-4 7-6(3),1.01,1.7%,2.5%,60.5%,70.8%,53.2%,6/9,49.4%,36.4%,12.1%,22.9%,51.6%,2/13,251,2,3,119,72,47,16,2:41
+4-Mar-2024,Lugano CH,3,Hard,SF,379,122,1,Q,1,Daniel Masur,Zizou Bergs,6-2 6-4,1.74,6.3%,10.4%,60.4%,82.8%,57.9%,1/2,59.6%,47.1%,3.9%,35.7%,60.9%,4/7,99,3,5,48,29,19,2,1:09
+4-Mar-2024,Lugano CH,3,Hard,QF,379,152,1,Q,3,Daniel Masur,Radu Albot,7-6(0) 7-6(4),1.15,6.9%,3.4%,60.9%,73.6%,50.0%,1/3,52.5%,41.1%,2.2%,37.0%,47.2%,2/8,177,6,3,87,53,34,2,2:06
+4-Mar-2024,Lugano CH,3,Hard,R16,379,457,1,Q,Q,Daniel Masur,Arthur Gea,6-3 6-3,1.55,9.1%,7.3%,63.6%,85.7%,50.0%,2/2,57.0%,42.4%,1.7%,33.3%,53.8%,3/9,114,5,4,55,35,20,1,1:18
+4-Mar-2024,Lugano CH,3,Hard,R32,379,165,1,Q,7,Daniel Masur,Giovanni Mpetshi Perricard,6-4 6-4,1.61,5.9%,9.8%,43.1%,86.4%,75.9%,0/0,55.2%,31.5%,22.2%,23.3%,41.7%,2/7,105,3,5,51,22,29,12,1:09
+4-Mar-2024,Lugano CH,3,Hard,Q2,379,277,1,,6,Daniel Masur,Riccardo Bonadio,6-3 6-2,1.96,6.3%,2.1%,68.8%,81.8%,66.7%,1/1,60.8%,44.9%,10.2%,35.7%,57.1%,3/8,97,3,1,48,33,15,5,1:00
+4-Mar-2024,Lugano CH,3,Hard,Q1,379,272,1,,7,Daniel Masur,Mathias Bourgue,6-2 6-4,1.63,7.4%,7.4%,61.1%,90.9%,47.6%,1/1,58.5%,42.3%,5.8%,37.9%,47.8%,3/6,106,4,4,54,33,21,3,1:17
+19-Feb-2024,M25 Trento,3,Hard,F,393,395,1,4,2,Daniel Masur,Giovanni Oradini,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,SF,393,444,1,4,,Daniel Masur,Sascha Gueymard Wayenburg,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,QF,393,511,1,4,,Daniel Masur,Antoine Hoang,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,R16,393,506,1,4,,Daniel Masur,Mats Rosenkranz,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,R32,393,,1,4,WC,Daniel Masur,Davide Ferrarolli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R16,398,866,0,1,,Mili Poljicak,Daniel Masur,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R32,398,715,1,1,,Daniel Masur,Jimmy Yang,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,SF,392,511,0,1,3,Clement Chidekh,Daniel Masur,7-6(4) 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,QF,392,674,1,1,SE,Daniel Masur,Arthur Bouquier,6-4 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,R16,392,1017,1,1,LL,Daniel Masur,Axel Garcian,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,R32,392,1322,1,1,Q,Daniel Masur,Luc Fomba,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,F,423,646,1,4,,Daniel Masur,Tom Gentzsch,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,SF,423,492,1,4,8,Daniel Masur,Alastair Gray,6-4 6-7(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,QF,423,1016,1,4,Q,Daniel Masur,Leopold Zima,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R16,423,1560,1,4,WC,Daniel Masur,Vincent Marysko,6-1 2-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M25 Nussloch,3,Carpet,R32,423,1200,1,4,Q,Daniel Masur,Jannik Maute,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,F,423,1117,1,1,,Daniel Masur,Michael Agwi,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,SF,423,577,1,1,3,Daniel Masur,Max Hans Rehberg,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,QF,423,733,1,1,8,Daniel Masur,Niels Visker,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,R16,423,1391,1,1,LL,Daniel Masur,Stepan Baum,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Cadolzburg,3,Carpet,R32,423,1605,1,1,Q,Daniel Masur,Yvo Panak,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Monastir,3,,QF,428,361,0,,4,Guy Den Ouden,Daniel Masur,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Monastir,3,,R16,428,427,1,,8,Daniel Masur,Robin Bertrand,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Monastir,3,,R32,428,1317,1,,Q,Daniel Masur,Giorgio Ricca,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Monastir,3,Hard,R16,428,236,0,,1,Aziz Dougaz,Daniel Masur,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Monastir,3,Hard,R32,428,,1,,WC,Daniel Masur,Gabriele Camilli,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Ismaning CH,3,Carpet,R32,434,219,0,WC,,Rudolf Molleker,Daniel Masur,7-6(4) 4-6 6-3,0.99,22.6%,6.0%,61.9%,73.1%,53.1%,0/3,49.1%,34.1%,17.6%,23.7%,53.1%,3/3,175,19,5,84,52,32,16,1:37
+23-Oct-2023,M25 Sarreguemines,3,Carpet,R16,437,720,0,6,,Adam Moundir,Daniel Masur,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Sarreguemines,3,Carpet,R32,437,1334,1,6,WC,Daniel Masur,Mikail Alimli,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Hamburg CH,3,Hard,R32,444,239,0,Q,,Stefano Napolitano,Daniel Masur,1-6 6-2 6-4,0.96,10.4%,6.5%,74.0%,73.7%,15.0%,3/7,48.8%,39.8%,12.0%,32.8%,59.1%,3/9,160,8,5,77,57,20,10,1:37
+16-Oct-2023,Hamburg CH,3,Hard,Q2,444,418,1,,11,Daniel Masur,Mats Rosenkranz,4-6 6-3 7-6(5),1.26,13.6%,4.5%,69.3%,80.3%,48.1%,5/7,52.3%,37.1%,6.7%,26.7%,51.1%,3/6,193,12,4,88,61,27,7,2:06
+16-Oct-2023,Hamburg CH,3,Hard,Q1,444,307,1,,5,Daniel Masur,Andrew Paulson,6-3 6-2,2.57,11.6%,2.3%,72.1%,90.3%,66.7%,0/0,62.8%,41.9%,9.3%,26.9%,64.7%,3/5,86,5,1,43,31,12,4,0:53
+4-Sep-2023,Tulln CH,3,Clay,R32,406,189,0,Q,,Sumit Nagal,Daniel Masur,6-1 6-2,0.56,3.5%,5.3%,52.6%,53.3%,25.9%,5/11,37.5%,33.3%,7.7%,30.3%,50.0%,1/2,96,2,3,57,30,27,3,1:04
+4-Sep-2023,Tulln CH,3,Clay,Q2,406,572,1,4,,Daniel Masur,David Pichler,6-2 6-7(4) 6-4,1.23,10.1%,6.1%,70.7%,75.7%,37.9%,0/2,54.4%,43.6%,6.4%,33.9%,57.9%,5/8,193,10,6,99,70,29,6,2:14
+4-Sep-2023,Tulln CH,3,Clay,Q1,406,1768,1,4,WC,Daniel Masur,Syl Gaxherri,6-2 6-1,1.74,5.9%,2.0%,78.4%,80.0%,36.4%,4/4,62.0%,51.2%,0.0%,50.0%,53.8%,4/8,92,3,1,51,40,11,0,0:54
 21-Aug-2023,Augsburg CH,3,Clay,R32,415,200,0,Q,2,Benjamin Hassan,Daniel Masur,6-2 7-6(4),0.81,2.4%,6.1%,57.3%,61.7%,51.4%,7/11,47.3%,34.4%,15.6%,14.7%,56.7%,2/3,146,2,5,82,47,35,10,1:33
 21-Aug-2023,Augsburg CH,3,Clay,Q2,415,590,1,5,,Daniel Masur,Mats Moraing,6-1 6-2,1.98,9.4%,11.3%,52.8%,82.1%,60.0%,5/5,64.1%,56.0%,10.0%,37.5%,73.1%,4/9,103,5,6,53,28,25,5,1:04
 21-Aug-2023,Augsburg CH,3,Clay,Q1,415,1505,1,5,WC,Daniel Masur,Constantin Frantzen,6-3 6-4,1.71,3.8%,5.8%,57.7%,83.3%,68.2%,0/0,55.9%,39.4%,18.2%,25.0%,56.7%,2/10,118,2,3,52,30,22,12,1:14
+14-Aug-2023,M25 Muttenz,3,Clay,QF,416,309,0,6,1,Alexander Weis,Daniel Masur,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,R16,416,873,1,6,,Daniel Masur,Nicolas Parizzia,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Muttenz,3,Clay,R32,416,,1,6,Q,Daniel Masur,Pascal Meis,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,Luedenscheid CH,3,Clay,R32,407,165,0,,8,Hugo Dellien,Daniel Masur,6-2 6-3,0.63,2.1%,8.3%,50.0%,70.8%,41.7%,1/5,42.1%,27.7%,6.4%,20.0%,50.0%,0/4,95,1,4,48,24,24,3,1:03
 17-Jul-2023,Pozoblanco CH,3,Hard,R16,352,188,0,,6,Antoine Escoffier,Daniel Masur,6-4 6-4,0.63,5.2%,0.0%,67.2%,66.7%,63.2%,4/6,45.0%,21.6%,7.8%,15.4%,28.0%,0/0,109,3,0,58,39,19,4,1:19
 17-Jul-2023,Pozoblanco CH,3,Hard,R32,352,267,1,,,Daniel Masur,Nicolas Mejia,6-3 7-6(5),1.06,14.0%,9.3%,65.1%,82.1%,40.0%,4/5,53.3%,34.4%,7.8%,29.2%,50.0%,2/3,150,12,8,86,56,30,5,1:44

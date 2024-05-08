@@ -1,5 +1,36 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+5-May-2024,Santos CH,3,Clay,Q2,911,902,1,6,11,Ignacio Carou,Franco Ribero,7-6(4) 6-3,1.04,1.3%,2.6%,44.2%,76.5%,58.1%,2/3,52.6%,35.0%,1.7%,13.5%,69.6%,2/3,137,1,2,77,34,43,1,1:50
+5-May-2024,Santos CH,3,Clay,Q1,911,1469,1,6,PR,Ignacio Carou,Tobias Franco,6-2 6-0,2.10,2.3%,7.0%,41.9%,88.9%,56.0%,2/3,66.7%,63.6%,0.0%,50.0%,83.3%,6/8,87,1,3,43,18,25,0,1:17
+29-Apr-2024,Porto Alegre CH,3,Clay,Q1,895,584,0,,5,Guido Ivan Justo,Ignacio Carou,6-4 6-1,0.70,0.0%,8.2%,55.3%,55.3%,39.5%,12/17,43.7%,36.0%,0.0%,26.5%,56.3%,1/2,135,0,7,85,47,38,0,1:35
+22-Apr-2024,Concepcion CH,3,Clay,Q1,895,429,0,,1,Stefanos Sakellaridis,Ignacio Carou,6-3 4-0 RET,0.36,0.0%,4.2%,70.8%,55.9%,42.9%,4/7,37.3%,17.1%,8.6%,15.8%,18.8%,0/0,83,0,2,48,34,14,3,1:01
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,R32,873,585,0,Q,,Mariano Kestelboim,Ignacio Carou,6-3 6-1,0.58,0.0%,3.4%,55.2%,37.5%,53.8%,3/8,39.0%,31.9%,2.1%,19.4%,56.3%,1/1,105,0,2,58,32,26,1,1:30
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,Q2,873,1461,1,5,PR,Ignacio Carou,Tobias Franco,6-7(5) 7-6(6) 6-3,1.08,3.0%,5.3%,58.3%,61.0%,32.7%,10/18,52.0%,54.7%,0.0%,51.1%,62.8%,10/23,269,4,7,132,77,55,0,3:36
+15-Apr-2024,San Miguel De Tucuman CH,3,Clay,Q1,873,,1,5,WC,Ignacio Carou,Jose Fernandez,6-3 6-2,1.58,1.9%,3.7%,64.8%,77.1%,47.4%,3/4,59.8%,52.8%,0.0%,34.8%,66.7%,4/8,107,1,2,54,35,19,0,1:25
+1-Apr-2024,Florianopolis CH,3,Clay,Q1,871,453,0,Alt,2,Daniel Cukierman,Ignacio Carou,6-1 6-3,0.41,0.0%,7.9%,63.5%,57.5%,39.1%,11/15,38.8%,20.0%,7.5%,5.0%,35.0%,0/0,103,0,5,63,40,23,3,1:14
+18-Mar-2024,Asuncion CH,3,Clay,Q1,882,439,0,,2,Gonzalo Villanueva,Ignacio Carou,6-1 6-1,0.41,0.0%,8.3%,60.4%,44.8%,36.8%,4/9,33.7%,23.7%,0.0%,20.7%,33.3%,0/3,86,0,4,48,29,19,0,1:09
+11-Mar-2024,M15 Punta del Este,3,Clay,QF,862,889,0,7,,Juan Manuel La Serna,Ignacio Carou,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Punta del Este,3,Clay,R16,862,1169,1,7,,Ignacio Carou,Mateo Del Pino,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Punta del Este,3,Clay,R32,862,1272,1,7,,Ignacio Carou,Alberto Odiseo Alvarado Berrospi,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,Santa Cruz De La Sierra CH,3,Clay,Q1,862,537,0,,8,Alex Rybakov,Ignacio Carou,6-1 6-4,0.70,6.4%,12.8%,46.8%,59.1%,48.0%,2/6,41.9%,32.8%,3.4%,24.2%,44.0%,1/4,105,3,6,47,22,25,2,1:16
+12-Feb-2024,M25 Punta del Este,3,Clay,R32,865,615,0,WC,WC,Franco Roncadelli,Ignacio Carou,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M25 Punta del Este,3,Clay,R32,863,477,0,WC,,Facundo Mena,Ignacio Carou,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,Punta Del Este CH,3,Clay,Q1,868,335,0,WC,12,Pedro Sakamoto,Ignacio Carou,6-3 6-1,0.66,2.6%,7.7%,43.6%,29.4%,40.9%,0/6,39.5%,42.6%,8.5%,34.4%,60.0%,2/4,86,1,3,39,17,22,4,1:10
+27-Nov-2023,Temuco CH,3,Hard,Q2,887,471,0,11,,Ignacio Buse,Ignacio Carou,6-4 6-1,0.69,1.8%,9.1%,52.7%,51.7%,23.1%,3/9,40.4%,42.6%,5.6%,23.1%,60.7%,3/4,109,1,5,55,29,26,3,1:13
+20-Nov-2023,Brasilia CH,3,Hard,Q1,861,502,0,Alt,6,Gonzalo Lama,Ignacio Carou,6-3 7-6(3),0.60,8.2%,4.7%,58.8%,72.0%,48.6%,9/10,44.2%,22.5%,12.7%,14.6%,33.3%,0/2,156,7,4,85,50,35,9,1:41
+13-Nov-2023,Montevideo CH,3,Clay,R32,855,270,0,WC,,Gustavo Heide,Ignacio Carou,6-3 7-5,0.77,0.0%,3.4%,67.8%,57.5%,36.8%,1/7,44.4%,37.9%,3.4%,26.5%,54.2%,3/7,117,0,2,59,40,19,2,1:26
+30-Oct-2023,M15 Villa Maria,3,Clay,R16,881,,0,,Q,Joaquin Aguilar Cardozo,Ignacio Carou,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Villa Maria,3,Clay,R32,881,576,1,,8,Ignacio Carou,Franco Roncadelli,7-6(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Curitiba CH,3,Clay,Q1,878,1539,0,,Alt,Vitek Horak,Ignacio Carou,6-4 4-6 6-4,0.98,2.8%,4.7%,58.5%,72.6%,36.4%,5/9,49.5%,41.7%,0.0%,38.0%,48.6%,3/10,214,3,5,106,62,44,0,2:32
+2-Oct-2023,M25 Mendoza,3,Clay,R32,829,581,0,,,Sebastian Prechtel,Ignacio Carou,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Lujan,3,Clay,R32,830,,0,,6,Lautaro Midon,Ignacio Carou,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Punta del Este,3,Clay,R32,835,854,0,7,,Igor Gimenez,Ignacio Carou,6-0 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2023,Davis Cup WG2 R1: URU vs EGY,3,Clay,RR,828,463,0,,,Mohamed Safwat,Ignacio Carou,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,813,651,0,,3,Guido Ivan Justo,Ignacio Carou,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M15 Buenos Aires,3,Clay,R32,813,800,0,,,Matias Zukas,Ignacio Carou,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,Lima CH,3,Clay,Q1,802,807,0,12,,Juan Carlos Prado Angelo,Ignacio Carou,6-3 6-1,0.63,1.7%,3.4%,58.6%,52.9%,25.0%,4/10,39.3%,36.7%,0.0%,37.5%,36.0%,2/4,107,1,2,58,34,24,0,1:16
+14-Aug-2023,M25 Trujillo,3,Clay,QF,803,343,0,Q,3,Gustavo Heide,Ignacio Carou,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Trujillo,3,Clay,R16,803,502,1,Q,8,Ignacio Carou,Gonzalo Villanueva,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Trujillo,3,Clay,R32,803,,1,Q,WC,Ignacio Carou,Luis Jose Nakamine,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Santo Domingo CH,3,Clay,Q2,770,530,0,10,5,Ignacio Monzon,Ignacio Carou,6-4 6-4,0.78,4.0%,4.0%,54.0%,63.0%,52.2%,1/5,44.8%,32.7%,0.0%,25.6%,58.3%,2/5,105,2,2,50,27,23,0,1:28
 3-Jul-2023,Santa Fe CH,3,Clay,R32,773,588,0,LL,,Luciano Emanuel Ambrogi,Ignacio Carou,4-6 6-3 6-1,0.73,3.4%,1.1%,72.4%,55.6%,45.8%,8/13,44.2%,34.2%,1.3%,30.9%,42.9%,2/3,163,3,1,87,63,24,1,2:02
 3-Jul-2023,Santa Fe CH,3,Clay,Q2,773,1850,0,3,,Luciano Tacchi,Ignacio Carou,6-1 6-4,0.69,0.0%,5.1%,55.9%,57.6%,42.3%,6/9,42.1%,33.9%,4.8%,33.3%,34.6%,0/1,121,0,3,59,33,26,3,1:21

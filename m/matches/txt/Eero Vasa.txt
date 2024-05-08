@@ -1,4 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,M25 Angers,3,Clay,R16,915,232,0,,1,Aziz Dougaz,Eero Vasa,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M25 Angers,3,Clay,R32,915,823,1,,,Eero Vasa,Evan Furness,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Antalya,3,Clay,R16,999,572,0,Q,5,Marlon Vankan,Eero Vasa,6-4 3-6 4-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,M15 Antalya,3,Clay,R32,999,1310,1,Q,,Eero Vasa,Nicolai Budkov Kjaer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,SF,1007,650,0,Q,7,Niels Visker,Eero Vasa,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,QF,1007,518,1,Q,3,Eero Vasa,Evgeny Tyurnev,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,R16,1007,1549,1,Q,Q,Eero Vasa,Alen Mujakic,4-1 RET,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Antalya,3,Clay,R32,1007,1010,1,Q,LL,Eero Vasa,Ioan Alexandru Chirita,6-1 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R16,1008,347,0,Q,6,Jaime Faria,Eero Vasa,6-7(7) 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R32,1008,733,1,Q,WC,Eero Vasa,Tiago Pereira,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M25 Quinta Do Lago,3,Hard,R32,1008,427,0,Q,,Viktor Durasovic,Eero Vasa,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Feb-2024,Davis Cup QLS R1: FIN vs POR,3,Hard,RR,1005,243,0,,,Henrique Rocha,Eero Vasa,6-4 7-5,0.75,5.2%,1.3%,71.4%,60.0%,40.9%,4/8,45.3%,33.9%,4.8%,31.4%,37.0%,2/3,139,4,1,77,55,22,3,1:27
+22-Jan-2024,M15+H Bagnoles de l'Orne,3,Clay,R32,1002,600,0,,6,Vladyslav Orlov,Eero Vasa,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Bressuire,3,Hard,R32,1002,840,0,,PR,Cyril Vandermeersch,Eero Vasa,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,R32,1062,592,0,Q,8,John Echeverria,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,SF,1063,658,0,,4,Alastair Gray,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,QF,1063,688,1,,7,Eero Vasa,David Perez Sanz,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,R16,1063,,1,,,Eero Vasa,Rafael Jodar,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,,R32,1063,841,1,,,Eero Vasa,Luke Simkiss,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,Helsinki CH,3,Hard,R32,1063,84,0,WC,4,Alexandre Muller,Eero Vasa,6-4 6-3,0.65,2.9%,13.2%,54.4%,59.5%,38.7%,5/10,42.5%,32.7%,3.8%,16.7%,54.5%,2/4,120,2,9,68,37,31,2,1:08
+16-Oct-2023,M25 Tavira,3,Hard,R32,1023,250,0,Q,1,Clement Tabur,Eero Vasa,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,Charleston CH,3,Hard,Q1,1038,406,0,Alt,7,Elmer Moller,Eero Vasa,7-5 6-7(4) 6-4,0.95,9.2%,3.3%,55.8%,74.6%,49.1%,6/10,50.2%,34.7%,5.9%,27.7%,40.7%,2/5,221,11,4,120,67,53,6,2:17
 4-Sep-2023,Seville CH,3,Clay,Q1,1015,560,0,Alt,7,Miguel Damas,Eero Vasa,6-4 0-6 7-5,1.19,13.2%,7.9%,63.2%,81.3%,46.4%,2/5,52.9%,37.7%,0.0%,32.1%,50.0%,4/6,153,10,6,76,48,28,0,1:54
 14-Aug-2023,M25 Ystad,3,Clay,SF,1371,286,0,,1,Valentin Vacherot,Eero Vasa,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M25 Ystad,3,Clay,QF,1371,1995,1,,Q,Eero Vasa,Stijn Pel,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,

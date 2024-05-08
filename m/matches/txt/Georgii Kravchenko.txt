@@ -1,4 +1,41 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+11-Mar-2024,M15 Les Franqueses del Valles,3,Hard,R16,565,1477,0,5,Q,Kuzey Cekirge,Georgii Kravchenko,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Les Franqueses del Valles,3,Hard,R32,565,1854,1,5,Q,Georgii Kravchenko,Vesa Ahti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,R16,565,576,0,,,Adria Soriano Barrera,Georgii Kravchenko,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Torello,3,Hard,R32,565,519,1,,8,Georgii Kravchenko,Mats Rosenkranz,4-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Villena,3,Hard,R16,565,504,0,,5,Alex Knaff,Georgii Kravchenko,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Villena,3,Hard,R32,565,1016,1,,Q,Georgii Kravchenko,Jack Loge,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Villena,3,Hard,R32,564,,0,6,WC,Stiles Brockett,Georgii Kravchenko,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,QF,555,511,0,,3,Clement Chidekh,Georgii Kravchenko,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,R16,555,619,1,,,Georgii Kravchenko,Andrea Guerrieri,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Grenoble,3,Hard,R32,555,1057,1,,Q,Georgii Kravchenko,Stijn Pel,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,F,640,469,1,,5,Georgii Kravchenko,Ryan Nijboer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,SF,640,496,1,,8,Georgii Kravchenko,Matej Dodig,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,QF,640,1177,1,,,Georgii Kravchenko,Yaroslav Demin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,R16,640,,1,,WC,Georgii Kravchenko,Joan Nadal Vives,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Manacor,3,Hard,R32,640,478,1,,7,Georgii Kravchenko,Imanol Lopez Morillo,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,,R16,648,709,0,3,,Alejo Sanchez Quilez,Georgii Kravchenko,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,,R32,648,,1,3,Q,Georgii Kravchenko,Darius Florin Pop,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,QF,645,782,0,,,Julio Cesar Porras,Georgii Kravchenko,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,R16,645,1015,1,,Q,Georgii Kravchenko,Tomas Curras Abasolo,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,,R32,645,1036,1,,Q,Georgii Kravchenko,Ivan Marrero Curbelo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Maspalomas CH,3,Clay,Q1,637,483,0,,7,Svyatoslav Gulin,Georgii Kravchenko,7-5 7-6(8),0.86,1.1%,1.1%,61.3%,68.4%,52.8%,7/9,47.8%,32.2%,1.1%,32.7%,31.4%,1/5,180,1,1,93,57,36,1,2:11
+13-Nov-2023,M15 Valencia,3,,QF,634,703,0,Q,WC,Diego Augusto Barreto Sanchez,Georgii Kravchenko,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R16,634,1924,1,Q,LL,Georgii Kravchenko,Joris Moret,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R32,634,471,1,Q,5,Georgii Kravchenko,Kenny De Schepper,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R16,628,390,0,Q,7,Carlos Lopez Montagud,Georgii Kravchenko,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R32,628,484,1,Q,,Georgii Kravchenko,Andrey Chepelev,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,SF,660,631,0,,,Guido Ivan Justo,Georgii Kravchenko,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,QF,660,597,1,,8,Georgii Kravchenko,Matyas Fuele,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R16,660,,1,,Q,Georgii Kravchenko,Joris Moret,7-6(3) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R32,660,423,1,,3,Georgii Kravchenko,Alex Marti Pujolras,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Vigo,3,Clay,R16,666,954,0,6,,Michiel De Krom,Georgii Kravchenko,2-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Vigo,3,Clay,R32,666,1443,1,6,Q,Georgii Kravchenko,Petr Iamachkine,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,F,675,733,0,,,Lorenzo Joaquin Rodriguez,Georgii Kravchenko,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,SF,675,672,1,,,Georgii Kravchenko,Kai Wehnelt,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,QF,675,969,1,,,Georgii Kravchenko,Maciej Rajski,6-2 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R16,675,426,1,,4,Georgii Kravchenko,Alex Marti Pujolras,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M25 Poznan,3,Clay,R32,675,1678,1,,Q,Georgii Kravchenko,Martin Zeljenka,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Meerbusch CH,3,Clay,Q2,682,498,0,,,Guy Den Ouden,Georgii Kravchenko,6-2 6-3,0.76,2.0%,4.0%,52.0%,42.3%,54.2%,2/7,43.5%,39.7%,3.4%,30.0%,44.7%,2/5,108,1,2,50,26,24,2,1:22
 7-Aug-2023,Meerbusch CH,3,Clay,Q1,682,645,1,,12,Georgii Kravchenko,Kai Wehnelt,6-4 7-6(6),1.33,4.3%,1.4%,69.6%,70.8%,57.1%,1/4,55.3%,44.4%,2.8%,43.9%,45.2%,4/5,141,3,1,69,48,21,2,1:38
 31-Jul-2023,Luedenscheid CH,3,Clay,R32,726,272,0,Q,,Santiago Fa Rodriguez Taverna,Georgii Kravchenko,6-3 6-2,0.63,9.1%,10.9%,60.0%,63.6%,36.4%,9/13,41.9%,30.0%,10.0%,37.0%,21.7%,1/5,105,5,6,55,33,22,5,1:03
@@ -6,6 +43,7 @@
 31-Jul-2023,Luedenscheid CH,3,Clay,Q1,726,356,1,,2,Georgii Kravchenko,Maxime Chazal,6-2 6-2,2.97,5.1%,0.0%,53.8%,90.5%,77.8%,1/1,63.5%,45.7%,8.7%,27.3%,62.5%,4/5,85,2,0,39,21,18,4,1:20
 24-Jul-2023,M15 Vejle,3,Clay,R16,722,782,0,7,,Christian Sigsgaard,Georgii Kravchenko,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M15 Vejle,3,Clay,R32,722,963,1,7,,Georgii Kravchenko,Michal Mikula,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M15 Sofia,3,Clay,R32,676,805,0,7,,Matej Dodig,Georgii Kravchenko,4-6 6-3 4-1 RET,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Wroclaw,3,Clay,R32,670,1428,0,7,Q,Michael Agwi,Georgii Kravchenko,6-2 7-6(8),,,,,,,,,,,,,,,,,,,,,
 12-Jun-2023,Lyon CH,3,Clay,Q2,630,386,0,Alt,4,Manuel Guinard,Georgii Kravchenko,6-0 6-1,0.50,0.0%,2.6%,52.6%,25.0%,22.2%,5/12,31.3%,37.8%,8.9%,17.9%,70.6%,1/5,83,0,1,38,20,18,4,0:57
 12-Jun-2023,Lyon CH,3,Clay,Q1,630,351,1,Alt,9,Georgii Kravchenko,Marko Topo,6-4 4-6 6-2,1.06,7.6%,3.8%,60.8%,72.9%,45.2%,0/3,50.0%,40.2%,6.2%,21.7%,56.9%,5/12,176,6,3,79,48,31,6,2:16

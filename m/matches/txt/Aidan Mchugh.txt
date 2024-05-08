@@ -1,10 +1,53 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+29-Apr-2024,M25 Xalapa,3,Hard,SF,354,589,0,2,8,Rodrigo Pacheco Mendez,Aidan Mchugh,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Xalapa,3,Hard,QF,354,,1,2,Q,Aidan Mchugh,Oliver Clark Anderson,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Xalapa,3,Hard,R16,354,989,1,2,,Aidan Mchugh,Toby D Boyer,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M25 Xalapa,3,Hard,R32,354,,1,2,LL,Aidan Mchugh,Daniel Vishnick,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,Acapulco CH,3,Hard,R16,363,129,0,Alt,4,Adam Walton,Aidan Mchugh,6-1 6-0,0.30,0.0%,2.6%,78.9%,40.0%,12.5%,4/9,27.4%,20.0%,5.7%,13.0%,33.3%,0/0,73,0,1,38,30,8,2,1:08
+15-Apr-2024,Acapulco CH,3,Hard,R32,363,577,1,Alt,,Aidan Mchugh,Ryan Seggerman,6-3 6-2,1.51,1.6%,0.0%,80.3%,65.3%,91.7%,3/3,59.3%,44.7%,6.4%,51.6%,31.3%,3/3,108,1,0,61,49,12,3,1:10
+8-Apr-2024,Cuernavaca CH,3,Hard,R32,362,239,0,,,Maxime Janvier,Aidan Mchugh,4-6 7-6(1) 7-6(6),0.89,0.0%,1.7%,69.2%,67.9%,55.6%,7/10,48.7%,32.1%,16.5%,21.1%,52.6%,4/7,226,0,2,117,81,36,18,2:51
+18-Mar-2024,M25 Loule,3,Hard,R32,349,554,0,8,,Adria Soriano Barrera,Aidan Mchugh,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,QF,348,469,0,1,5,Daniil Glinka,Aidan Mchugh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R16,348,1064,1,1,Q,Aidan Mchugh,Filippo Romano,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Trimbach,3,Carpet,R32,348,1651,1,1,Q,Aidan Mchugh,Antoine Berger,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,QF,348,1921,0,1,,Theo Papamalamis,Aidan Mchugh,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,R16,348,1260,1,1,,Aidan Mchugh,Charlie Camus,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Poitiers,3,Hard,R32,348,972,1,1,Q,Aidan Mchugh,Toby D Boyer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,Glasgow CH,3,Hard,R32,346,333,0,,8,Charles Broom,Aidan Mchugh,4-6 6-2 7-6(5),0.78,9.3%,3.7%,68.2%,76.7%,32.4%,2/5,47.0%,29.0%,15.1%,21.7%,42.4%,2/9,200,10,4,107,73,34,14,2:29
+5-Feb-2024,Nottingham CH,3,Hard,Q1,346,488,0,5,,Alastair Gray,Aidan Mchugh,6-3 6-2,0.69,3.7%,5.6%,70.4%,57.9%,37.5%,3/7,42.9%,33.3%,13.7%,33.3%,33.3%,1/1,105,2,3,54,38,16,7,1:16
+29-Jan-2024,Koblenz CH,3,Hard,Q1,347,295,0,,6,Tristan Lamasine,Aidan Mchugh,6-3 6-7(4) 6-3,0.78,4.3%,3.3%,58.7%,64.8%,63.2%,5/8,45.5%,27.8%,9.3%,20.3%,42.4%,1/3,189,4,3,92,54,38,9,2:24
+22-Jan-2024,Quimper CH,3,Hard,Q1,346,428,0,10,,Viktor Durasovic,Aidan Mchugh,7-6(1) 7-6(4),0.62,10.8%,1.2%,57.8%,64.6%,62.9%,6/7,44.8%,22.5%,16.9%,14.9%,37.5%,1/3,154,9,1,83,48,35,12,1:58
+15-Jan-2024,Tenerife CH,3,Hard,Q2,346,291,0,12,4,Michael Geerts,Aidan Mchugh,6-3 6-3,0.73,3.5%,1.8%,80.7%,56.5%,63.6%,0/3,43.4%,30.8%,6.2%,28.6%,37.5%,0/4,122,2,1,57,46,11,4,1:34
+15-Jan-2024,Tenerife CH,3,Hard,Q1,346,495,1,12,,Aidan Mchugh,Federico Iannaccone,4-6 7-5 6-2,1.17,0.0%,2.1%,74.5%,62.9%,50.0%,5/9,53.5%,47.3%,3.3%,44.3%,53.3%,6/7,185,0,2,94,70,24,3,2:57
+8-Jan-2024,Oeiras 2 CH,3,Hard,R32,348,320,0,Q,8,Leandro Riedi,Aidan Mchugh,6-2 6-3,0.58,3.3%,5.0%,63.3%,52.6%,36.4%,4/8,39.1%,30.9%,7.3%,27.0%,38.9%,1/6,115,2,3,60,38,22,4,1:24
+8-Jan-2024,Oeiras 2 CH,3,Hard,Q2,348,309,1,12,4,Aidan Mchugh,Altug Celikbilek,6-1 3-6 6-4,1.55,12.9%,1.4%,65.7%,76.1%,66.7%,3/5,56.2%,42.2%,8.4%,33.3%,61.5%,4/6,153,9,1,70,46,24,7,1:43
+8-Jan-2024,Oeiras 2 CH,3,Hard,Q1,348,1194,1,12,WC,Aidan Mchugh,Rodrigo Fernandes,6-0 6-4,2.38,9.5%,0.0%,61.9%,76.9%,81.3%,0/0,63.4%,51.0%,2.0%,50.0%,53.3%,4/6,93,4,0,42,26,16,1,1:08
+13-Nov-2023,Champaign CH,3,Hard,R32,350,328,0,,,Sebastian Fanselow,Aidan Mchugh,6-2 4-6 6-3,0.79,1.1%,3.4%,61.8%,61.8%,44.1%,5/10,46.1%,35.5%,9.2%,28.2%,43.2%,3/3,165,1,3,89,55,34,7,2:20
+6-Nov-2023,Knoxville CH,3,Hard,QF,365,183,0,,,Denis Kudla,Aidan Mchugh,6-3 7-6(5),0.76,12.7%,0.0%,69.6%,63.6%,66.7%,3/4,46.4%,27.0%,9.5%,14.6%,50.0%,0/6,153,10,0,79,55,24,7,2:03
+6-Nov-2023,Knoxville CH,3,Hard,R16,365,355,1,,Q,Aidan Mchugh,Thai Son Kwiatkowski,0-6 6-4 6-3,0.90,4.3%,2.2%,65.2%,65.0%,50.0%,7/10,49.1%,36.0%,8.0%,17.5%,57.1%,2/8,167,4,2,92,60,32,6,2:21
+6-Nov-2023,Knoxville CH,3,Hard,R32,365,499,1,,LL,Aidan Mchugh,Alexander Cozbinov,3-6 7-5 6-3,0.98,8.0%,4.5%,61.6%,63.8%,41.9%,12/16,50.3%,43.7%,12.6%,31.3%,59.0%,5/10,199,9,5,112,69,43,11,3:04
+30-Oct-2023,Charlottesville CH,3,Hard,R32,360,242,0,,,Alexander Ritschard,Aidan Mchugh,6-4 6-4,0.89,10.7%,1.8%,71.4%,65.0%,62.5%,3/5,46.4%,31.9%,13.0%,18.9%,46.9%,0/2,125,6,1,56,40,16,9,1:39
+16-Oct-2023,M25 Edgbaston,3,Hard,QF,330,635,0,1,WC,Kyle Edmund,Aidan Mchugh,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,R16,330,1049,1,1,,Aidan Mchugh,George Houghton,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,R32,330,1352,1,1,WC,Aidan Mchugh,Alexis Canter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25+H Rodez,3,Hard,QF,332,373,0,2,5,Marvin Moeller,Aidan Mchugh,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25+H Rodez,3,Hard,R16,332,709,1,2,,Aidan Mchugh,Antoine Ghibaudo,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M25+H Rodez,3,Hard,R32,332,1165,1,2,WC,Aidan Mchugh,Paul Cayre,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Setubal,3,Hard,SF,369,810,0,4,,Dali Blanch,Aidan Mchugh,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Setubal,3,Hard,QF,369,359,1,4,5,Aidan Mchugh,Henrique Rocha,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Setubal,3,Hard,R16,369,924,1,4,,Aidan Mchugh,Tiago Pereira,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M25 Setubal,3,Hard,R32,369,1120,1,4,Q,Aidan Mchugh,Trey Hilderbrand,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,F,368,595,1,1,6,Aidan Mchugh,Peter Heller,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,SF,368,985,1,1,,Aidan Mchugh,Bruno Pujol Navarro,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,QF,368,490,1,1,5,Aidan Mchugh,Sergi Perez Contri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,R16,368,1429,1,1,SE,Aidan Mchugh,Pablo Masjuan Ginel,2-6 6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,M25 Madrid,3,Hard,R32,368,837,1,1,,Aidan Mchugh,Juan Carlos Aguilar,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,Cassis CH,3,Hard,R32,367,359,0,LL,Q,Charles Broom,Aidan Mchugh,6-2 7-5,0.77,7.1%,7.1%,46.4%,65.4%,40.0%,4/9,43.9%,37.3%,4.5%,35.7%,40.0%,2/4,123,4,4,56,26,30,3,1:39
 4-Sep-2023,Cassis CH,3,Hard,Q2,367,476,0,3,10,Elliot Benchetrit,Aidan Mchugh,6-2 6-4,0.64,3.1%,3.1%,63.1%,68.3%,37.5%,6/9,43.7%,27.8%,22.2%,22.9%,36.8%,0/3,119,2,2,65,41,24,12,1:38
 4-Sep-2023,Cassis CH,3,Hard,Q1,367,788,1,3,,Aidan Mchugh,Alexander Donski,6-2 6-3,3.52,13.5%,2.7%,70.3%,96.2%,63.6%,0/0,62.0%,47.6%,9.5%,35.3%,62.1%,4/11,100,5,1,37,26,11,6,1:14
 7-Aug-2023,M25 Southaven,3,Hard,QF,361,764,0,1,6,Chris Rodesch,Aidan Mchugh,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Southaven,3,Hard,R16,361,1601,1,1,,Aidan Mchugh,Karlis Ozolins,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-7-Aug-2023,M25 Southaven,3,Hard,R32,361,,1,1,Q,Aidan Mchugh,Karol Malirz,6-4 6-7(7) 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Aug-2023,M25 Southaven,3,Hard,R32,361,,1,1,Q,Aidan Mchugh,Nicolas Ian Kotzen,6-4 6-7(7) 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,Lexington CH,3,Hard,R32,388,422,0,,Alt,Ulises Blanch,Aidan Mchugh,7-6(2) 6-4,0.82,4.2%,1.4%,60.6%,67.4%,42.9%,2/5,46.4%,34.8%,15.9%,23.9%,56.5%,2/4,140,3,1,71,43,28,11,1:58
 24-Jul-2023,M25 Edwardsville,3,Hard,F,432,851,0,1,Q,Quinn Vandecasteele,Aidan Mchugh,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M25 Edwardsville,3,Hard,SF,432,798,1,1,,Aidan Mchugh,Shunsuke Mitsui,6-2 6-4,,,,,,,,,,,,,,,,,,,,,

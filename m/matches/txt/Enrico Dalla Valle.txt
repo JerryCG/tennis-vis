@@ -1,5 +1,51 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Szczecin CH,3,Clay,Q1,335,354,0,,,Miljan Zekic,Enrico Dalla Valle,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+5-May-2024,Francavilla Al Mare CH,3,Clay,R32,255,214,0,,,Nick Hardt,Enrico Dalla Valle,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,Ostrava CH,3,Clay,QF,266,145,0,,1,Damir Dzumhur,Enrico Dalla Valle,6-4 5-7 6-3,0.87,1.0%,1.0%,65.4%,63.2%,50.0%,5/10,48.2%,36.0%,0.0%,39.4%,26.1%,3/6,193,1,1,104,68,36,0,2:35
+22-Apr-2024,Ostrava CH,3,Clay,R16,266,251,1,,,Enrico Dalla Valle,Chun Hsin Tseng,6-3 6-1,2.39,0.0%,2.3%,62.8%,81.5%,75.0%,2/2,61.9%,50.0%,3.2%,34.2%,75.0%,4/7,105,0,1,43,27,16,2,1:26
+22-Apr-2024,Ostrava CH,3,Clay,R32,266,,1,,WC,Enrico Dalla Valle,Jan Jermar,6-3 6-1,1.88,4.2%,4.2%,70.8%,76.5%,64.3%,2/2,61.2%,50.9%,1.8%,50.0%,52.9%,4/9,103,2,2,48,34,14,1,1:12
+15-Apr-2024,Oeiras CH,3,Clay,Q2,263,230,0,7,2,Adrian Andreev,Enrico Dalla Valle,6-1 7-5,0.55,8.8%,1.8%,71.9%,68.3%,31.3%,1/5,41.3%,23.1%,0.0%,14.7%,38.9%,0/2,109,5,1,57,41,16,0,1:30
+15-Apr-2024,Oeiras CH,3,Clay,Q1,263,732,1,7,WC,Enrico Dalla Valle,Tiago Pereira,6-3 6-1,1.83,4.7%,9.3%,58.1%,76.0%,55.6%,0/2,63.3%,59.6%,0.0%,56.5%,62.5%,6/10,90,2,4,43,25,18,0,1:13
+1-Apr-2024,Barletta CH,3,Clay,R16,254,305,0,,,Riccardo Bonadio,Enrico Dalla Valle,6-1 6-3,0.60,0.0%,0.0%,66.1%,51.4%,36.8%,7/12,39.8%,31.9%,2.1%,25.0%,42.1%,1/3,103,0,0,56,37,19,1,1:27
+1-Apr-2024,Barletta CH,3,Clay,R32,254,327,1,,,Enrico Dalla Valle,Steven Diez,2-6 6-0 6-3,1.13,4.4%,4.4%,86.8%,49.2%,33.3%,6/12,53.6%,60.0%,0.0%,51.0%,84.2%,9/13,138,3,3,68,59,9,0,1:58
+25-Mar-2024,Naples CH,3,Clay,R32,261,290,0,WC,Q,Samuel Vincent Ruggeri,Enrico Dalla Valle,7-6(5) 6-3,0.86,4.4%,1.5%,67.6%,52.2%,40.9%,5/11,46.4%,44.3%,0.0%,37.5%,59.1%,4/7,138,3,1,68,46,22,0,1:49
+18-Mar-2024,Zadar CH,3,Clay,QF,261,254,0,,,Adrian Andreev,Enrico Dalla Valle,3-6 6-4 6-2,0.84,1.9%,1.9%,69.2%,59.7%,40.6%,12/18,47.7%,38.9%,1.4%,33.3%,50.0%,4/8,176,2,2,104,72,32,1,2:38
+18-Mar-2024,Zadar CH,3,Clay,R16,261,190,1,,6,Enrico Dalla Valle,Stefano Travaglia,6-1 6-4,1.57,4.5%,0.0%,63.6%,64.3%,62.5%,3/5,59.6%,56.9%,3.1%,47.4%,70.4%,6/12,109,2,0,44,28,16,2,1:36
+18-Mar-2024,Zadar CH,3,Clay,R32,261,441,1,,Q,Enrico Dalla Valle,Arthur Gea,6-2 3-6 6-4,1.16,1.1%,1.1%,74.7%,66.2%,50.0%,3/6,53.2%,44.2%,0.0%,36.4%,58.1%,5/7,173,1,1,87,65,22,0,2:37
+11-Mar-2024,Szekesfehervar CH,3,Clay,R32,259,167,0,,7,Titouan Droguet,Enrico Dalla Valle,6-0 6-3,0.48,4.3%,4.3%,78.3%,52.8%,10.0%,1/6,35.6%,27.3%,4.5%,13.0%,42.9%,1/2,90,2,2,46,36,10,2,1:12
+26-Feb-2024,New Delhi CH,3,Hard,QF,271,243,0,,,Yuta Shimizu,Enrico Dalla Valle,7-5 7-5,0.75,5.8%,1.2%,66.3%,63.2%,24.1%,9/14,44.2%,37.7%,2.6%,20.4%,67.9%,3/7,163,5,1,86,57,29,2,1:59
+26-Feb-2024,New Delhi CH,3,Hard,R16,271,215,1,,7,Enrico Dalla Valle,Federico Gaio,7-6(5) 6-1,1.18,4.4%,2.9%,73.5%,68.0%,55.6%,1/3,54.5%,41.5%,5.7%,44.8%,37.5%,4/6,121,3,2,68,50,18,3,1:31
+26-Feb-2024,New Delhi CH,3,Hard,R32,271,555,1,,Q,Enrico Dalla Valle,Fitriadi M Rifqi,6-4 6-2,1.59,4.0%,4.0%,68.0%,73.5%,56.3%,1/3,59.0%,50.9%,0.0%,47.1%,57.1%,5/9,105,2,2,50,34,16,0,1:29
+19-Feb-2024,Pune CH,3,Hard,Q2,276,317,0,2,9,Sebastian Fanselow,Enrico Dalla Valle,4-6 7-6(3) 6-3,1.09,12.2%,1.1%,66.7%,71.7%,60.0%,3/6,50.3%,35.2%,3.8%,24.1%,48.9%,2/6,195,11,1,90,60,30,4,2:52
+19-Feb-2024,Pune CH,3,Hard,Q1,276,357,1,2,,Enrico Dalla Valle,Eric Vanshelboim,6-2 6-7(6) 6-1,1.39,6.8%,1.1%,67.0%,78.0%,62.1%,2/3,56.3%,38.0%,1.3%,32.7%,50.0%,5/8,167,6,1,88,59,29,1,2:16
+12-Feb-2024,Bengaluru CH,3,Hard,R16,266,287,0,Alt,Alt,Moez Echargui,Enrico Dalla Valle,6-2 6-2,0.72,10.3%,2.6%,59.0%,73.9%,25.0%,0/4,42.2%,33.3%,11.8%,12.5%,51.9%,0/1,90,4,1,39,23,16,6,1:18
+12-Feb-2024,Bengaluru CH,3,Hard,R32,266,270,1,Alt,,Enrico Dalla Valle,Evgeny Donskoy,6-2 7-5,1.38,16.1%,3.2%,64.5%,82.5%,50.0%,2/2,54.5%,40.0%,4.3%,25.0%,52.6%,3/10,132,10,2,62,40,22,3,1:33
+5-Feb-2024,Chennai CH,3,Hard,QF,279,307,0,,,Chun Hsin Tseng,Enrico Dalla Valle,7-5 6-2,0.50,6.0%,1.5%,67.2%,55.6%,36.4%,4/9,39.5%,25.5%,14.9%,20.0%,31.8%,2/2,114,4,1,67,45,22,7,1:50
+5-Feb-2024,Chennai CH,3,Hard,R16,279,216,1,,6,Enrico Dalla Valle,Oriol Roca Batalla,6-4 7-6(2),1.28,4.3%,0.0%,60.9%,73.8%,63.0%,5/6,53.4%,39.0%,2.6%,30.0%,55.6%,2/6,146,3,0,69,42,27,2,2:12
+5-Feb-2024,Chennai CH,3,Hard,R32,279,692,1,,Q,Enrico Dalla Valle,Alexey Zakharov,3-6 7-6(2) 6-4,1.08,6.2%,2.1%,63.9%,58.1%,57.1%,5/10,51.2%,45.7%,2.6%,32.9%,67.4%,5/17,213,6,2,97,62,35,3,3:01
+15-Jan-2024,Tenerife CH,3,Hard,Q1,282,379,0,3,,Javier Barranco Cosano,Enrico Dalla Valle,4-5 RET,0.95,0.0%,0.0%,67.7%,47.6%,40.0%,2/5,48.3%,51.9%,7.4%,47.4%,62.5%,3/6,58,0,0,31,21,10,2,0:48
+8-Jan-2024,Oeiras 2 CH,3,Hard,R16,285,397,0,,Q,Elmer Moller,Enrico Dalla Valle,6-2 6-1,0.53,8.0%,2.0%,66.0%,48.5%,41.2%,1/5,37.3%,28.8%,7.7%,25.0%,35.0%,0/2,102,4,1,50,33,17,4,1:07
+8-Jan-2024,Oeiras 2 CH,3,Hard,R32,285,307,1,,LL,Enrico Dalla Valle,Dan Added,4-6 6-3 7-6(5),1.24,9.3%,1.0%,66.0%,76.6%,63.6%,4/5,52.2%,34.5%,6.4%,20.0%,52.0%,1/7,207,9,1,97,64,33,7,2:42
+27-Nov-2023,Maia CH,3,Clay,R16,288,78,0,,1,Nuno Borges,Enrico Dalla Valle,6-2 6-0,0.34,0.0%,0.0%,65.5%,39.5%,50.0%,6/11,34.0%,19.4%,2.8%,15.0%,25.0%,0/0,94,0,0,58,38,20,1,1:11
+27-Nov-2023,Maia CH,3,Clay,R32,288,284,1,,,Enrico Dalla Valle,Michael Geerts,7-6(3) 4-6 6-1,1.11,9.7%,1.8%,73.5%,73.5%,40.0%,5/7,52.9%,39.2%,2.1%,25.9%,55.8%,3/9,210,11,2,113,83,30,2,2:40
+13-Nov-2023,Champaign CH,3,Hard,R32,292,187,0,,6,Beibit Zhukayev,Enrico Dalla Valle,6-1 6-1,0.47,4.3%,2.2%,58.7%,37.0%,36.8%,3/8,33.3%,29.5%,11.4%,25.0%,35.0%,0/3,90,2,1,46,27,19,5,1:01
+6-Nov-2023,M25 Heraklion,3,Hard,R16,303,554,0,1,,Harry Wendelken,Enrico Dalla Valle,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Heraklion,3,Hard,R32,303,965,1,1,,Enrico Dalla Valle,Dax Donders,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,SF,301,418,0,3,7,Guy Den Ouden,Enrico Dalla Valle,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,QF,301,1076,1,3,Q,Enrico Dalla Valle,Guy Den Heijer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R16,301,543,1,3,,Enrico Dalla Valle,Peter Heller,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Heraklion,3,Hard,R32,301,1443,1,3,WC,Enrico Dalla Valle,Ioannis Kountourakis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Ortisei CH,3,Hard,QF,314,181,0,Alt,Q,Lukas Klein,Enrico Dalla Valle,6-3 6-2,0.45,4.8%,3.2%,60.3%,60.5%,48.0%,8/11,40.7%,20.0%,17.8%,17.1%,30.0%,0/0,108,3,2,63,38,25,8,1:08
+23-Oct-2023,Ortisei CH,3,Hard,R16,314,215,1,Alt,1,Enrico Dalla Valle,Abedallah Shelbayh,4-6 6-3 6-4,1.44,21.3%,2.5%,76.3%,80.3%,47.4%,3/5,55.4%,39.5%,2.3%,27.5%,50.0%,3/9,166,17,2,80,61,19,2,1:51
+23-Oct-2023,Ortisei CH,3,Hard,R32,314,1157,1,Alt,,Enrico Dalla Valle,Yaroslav Demin,7-6(3) 6-4,1.33,21.0%,6.2%,66.7%,81.5%,48.1%,5/5,54.5%,39.5%,4.7%,30.4%,56.7%,1/6,167,17,5,81,54,27,4,1:59
+2-Oct-2023,Lisbon CH,3,Clay,R32,342,121,0,Q,2,Flavio Cobolli,Enrico Dalla Valle,6-4 5-7 6-0,0.73,1.1%,3.3%,74.7%,58.8%,30.4%,8/14,43.6%,35.2%,6.8%,34.1%,36.2%,3/4,179,1,3,91,68,23,6,2:17
+2-Oct-2023,Lisbon CH,3,Clay,Q2,342,314,1,8,6,Enrico Dalla Valle,Henri Laaksonen,6-7(5) 6-2 6-3,1.57,3.6%,2.4%,72.6%,78.7%,56.5%,0/1,55.2%,42.9%,1.7%,38.6%,49.0%,4/15,203,3,2,84,61,23,2,2:35
+2-Oct-2023,Lisbon CH,3,Clay,Q1,342,463,1,8,,Enrico Dalla Valle,Tim Handel,6-4 6-2,1.32,0.0%,3.4%,78.0%,65.2%,61.5%,4/5,55.3%,46.9%,1.6%,37.5%,56.3%,4/10,123,0,2,59,46,13,1,1:39
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,F,335,637,0,3,Q,Gilles Arnaud Bailly,Enrico Dalla Valle,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,SF,335,491,1,3,,Enrico Dalla Valle,Kirill Kivattsev,6-7(2) 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,QF,335,664,1,3,,Enrico Dalla Valle,Fabrizio Andaloro,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,R16,335,629,1,3,Q,Enrico Dalla Valle,Sander Jong,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Santa Margherita di Pula,3,Clay,R32,335,1072,1,3,Q,Enrico Dalla Valle,Daniel Bagnolini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,Szczecin CH,3,Clay,Q1,335,354,0,,,Miljan Zekic,Enrico Dalla Valle,6-3 6-3,0.66,1.8%,8.8%,61.4%,62.9%,36.4%,2/6,42.6%,31.4%,3.9%,24.0%,38.5%,1/2,108,1,5,57,35,22,2,1:24
 4-Sep-2023,Genoa CH,3,Clay,R32,340,623,0,WC,Q,Andrea Picchione,Enrico Dalla Valle,6-0 1-6 6-1,0.75,1.3%,7.8%,57.1%,63.6%,36.4%,7/12,44.9%,36.1%,0.0%,25.6%,54.5%,2/5,138,1,6,77,44,33,0,1:59
 28-Aug-2023,Como CH,3,Clay,Q1,340,372,0,12,Alt,Miljan Zekic,Enrico Dalla Valle,7-6(5) 5-7 7-6(5),1.04,8.2%,5.5%,60.0%,80.3%,52.3%,6/9,50.0%,32.2%,6.8%,20.9%,47.1%,4/10,228,9,6,110,66,44,8,2:59
 14-Aug-2023,Todi CH,3,Clay,R16,348,525,0,WC,Q,Felix Gill,Enrico Dalla Valle,5-7 6-4 6-4,1.02,7.8%,1.0%,75.5%,63.6%,56.0%,4/8,49.8%,38.9%,3.5%,26.1%,59.1%,3/19,215,8,1,102,77,25,4,3:01

@@ -1,9 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Tulln CH,3,Clay,R32,395,130,0,Q,3,Maximilian Marterer,Lukas Rosol,6-4 3-6 6-3,0.86,1.2%,6.1%,54.9%,68.9%,37.8%,3/8,47.1%,38.7%,10.7%,31.3%,51.9%,4/4,157,1,5,82,45,37,8,1:43
-3-Sep-2023,Tulln CH,3,Clay,Q2,395,584,1,3,,Lukas Rosol,Mirza Basic,7-6(3) 6-2,1.59,14.5%,1.6%,67.7%,83.3%,55.0%,0/0,56.3%,41.1%,6.8%,27.3%,62.1%,2/8,135,9,1,62,42,20,5,1:19
-3-Sep-2023,Tulln CH,3,Clay,Q1,395,561,1,3,,Lukas Rosol,Yanaki Milev,6-4 6-1,1.43,0.0%,5.2%,50.0%,75.9%,62.1%,0/0,57.3%,44.2%,17.3%,31.0%,60.9%,3/6,110,0,3,58,29,29,9,1:04
+23-Oct-2023,M25 Santa Margherita di Pula,3,Clay,R16,737,350,0,,7,Carlos Sanchez Jover,Lukas Rosol,6-3 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Santa Margherita di Pula,3,Clay,R32,737,,1,,,Lukas Rosol,Tommaso Compagnucci,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Santa Margherita di Pula,3,Clay,R32,659,251,0,,3,Edoardo Lavagno,Lukas Rosol,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Tulln CH,3,Clay,R32,395,130,0,Q,3,Maximilian Marterer,Lukas Rosol,6-4 3-6 6-3,0.86,1.2%,6.1%,54.9%,68.9%,37.8%,3/8,47.1%,38.7%,10.7%,31.3%,51.9%,4/4,157,1,5,82,45,37,8,1:43
+4-Sep-2023,Tulln CH,3,Clay,Q2,395,584,1,3,,Lukas Rosol,Mirza Basic,7-6(3) 6-2,1.59,14.5%,1.6%,67.7%,83.3%,55.0%,0/0,56.3%,41.1%,6.8%,27.3%,62.1%,2/8,135,9,1,62,42,20,5,1:19
+4-Sep-2023,Tulln CH,3,Clay,Q1,395,561,1,3,,Lukas Rosol,Yanaki Milev,6-4 6-1,1.43,0.0%,5.2%,50.0%,75.9%,62.1%,0/0,57.3%,44.2%,17.3%,31.0%,60.9%,3/6,110,0,3,58,29,29,9,1:04
+28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,R16,395,763,0,3,,Martin Krumich,Lukas Rosol,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Jablonec nad Nisou,3,Clay,R32,395,,1,3,Q,Lukas Rosol,Patrik Homola,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,Prague CH,3,Clay,R32,349,263,0,,4,Rudolf Molleker,Lukas Rosol,6-3 6-4,0.56,6.2%,4.6%,55.4%,58.3%,44.8%,4/7,41.0%,26.9%,25.0%,18.8%,40.0%,1/2,117,4,3,65,36,29,13,1:04
+14-Aug-2023,M25 Bielsko Biala,3,Clay,R16,349,871,0,1,,Daniel Paty,Lukas Rosol,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Aug-2023,M25 Bielsko Biala,3,Clay,R32,349,,1,1,WC,Lukas Rosol,Alan Bojarski,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,Kitzbuhel,3,Clay,Q1,349,118,0,Alt,3,Thiago Monteiro,Lukas Rosol,7-5 6-0,0.44,8.3%,6.3%,54.2%,73.1%,31.8%,4/8,37.6%,20.0%,17.8%,12.9%,35.7%,0/0,93,4,3,48,26,22,8,
+24-Jul-2023,M25 Kramsach,3,Clay,QF,354,601,0,3,,Gerard Campana Lee,Lukas Rosol,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Kramsach,3,Clay,R16,354,668,1,3,,Lukas Rosol,Sebastian Prechtel,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Kramsach,3,Clay,R32,354,706,1,3,,Lukas Rosol,Anton Matusevich,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Telfs,3,Clay,QF,351,414,0,1,6,Sandro Kopp,Lukas Rosol,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Telfs,3,Clay,R16,351,1223,1,1,Q,Lukas Rosol,Tomas Lanik,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Telfs,3,Clay,R32,351,,1,1,Q,Lukas Rosol,Edoardo Cherie Ligniere,2-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,

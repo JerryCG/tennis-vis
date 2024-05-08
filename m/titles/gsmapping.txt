@@ -1,4 +1,5 @@
 ﻿Source,Target,Value
+Australian Open,Adrian Quist,3
 Roland Garros,Adriano Panatta,1
 Roland Garros,Albert Costa,1
 Wimbledon,Alejandro Olmedo,1
@@ -18,18 +19,31 @@ Australian Open,Arthur Ashe,1
 Wimbledon,Ashley Cooper,1
 US Open,Ashley Cooper,1
 Australian Open,Ashley Cooper,2
+Wimbledon,Bill Johnston,1
+US Open,Bill Johnston,2
 Wimbledon,Bjorn Borg,5
 Roland Garros,Bjorn Borg,6
+Wimbledon,Bobby Riggs,1
+US Open,Bobby Riggs,2
 Wimbledon,Boris Becker,3
 US Open,Boris Becker,1
 Australian Open,Boris Becker,2
 Australian Open,Brian Teacher,1
+Wimbledon,Budge Patty,1
+Roland Garros,Budge Patty,1
 Wimbledon,Carlos Alcaraz,1
 US Open,Carlos Alcaraz,1
 Roland Garros,Carlos Moya,1
 Wimbledon,Charles Mckinley,1
+Wimbledon,Chuck Mckinley,1
 US Open,Daniil Medvedev,1
+Wimbledon,Dick Savitt,1
+Australian Open,Dick Savitt,1
 US Open,Dominic Thiem,1
+Wimbledon,Don Budge,2
+US Open,Don Budge,2
+Australian Open,Don Budge,1
+Roland Garros,Don Budge,1
 Wimbledon,Frank Arthur Sedgman,1
 US Open,Frank Arthur Sedgman,2
 Australian Open,Frank Arthur Sedgman,2
@@ -46,6 +60,9 @@ US Open,Guillermo Vilas,1
 Australian Open,Guillermo Vilas,2
 Roland Garros,Guillermo Vilas,1
 Roland Garros,Gustavo Kuerten,3
+Wimbledon,Henri Cochet,2
+US Open,Henri Cochet,1
+Roland Garros,Henri Cochet,4
 US Open,Ilie Nastase,1
 Roland Garros,Ilie Nastase,1
 US Open,Ivan Lendl,3
@@ -53,8 +70,12 @@ Australian Open,Ivan Lendl,2
 Roland Garros,Ivan Lendl,3
 Wimbledon,Jan Kodes,1
 Roland Garros,Jan Kodes,2
+Australian Open,Jannik Sinner,1
 Wimbledon,Jaroslav Drobny,1
 Roland Garros,Jaroslav Drobny,2
+Wimbledon,Jean Borotra,2
+Australian Open,Jean Borotra,1
+Roland Garros,Jean Borotra,1
 Australian Open,Jim Courier,2
 Roland Garros,Jim Courier,2
 Wimbledon,Jimmy Connors,2
@@ -84,6 +105,7 @@ US Open,Manuel Santana,1
 Roland Garros,Manuel Santana,2
 US Open,Marat Safin,1
 Australian Open,Marat Safin,1
+Roland Garros,Marcel Bernard,1
 US Open,Marin Cilic,1
 Australian Open,Mark Edmondson,1
 US Open,Mats Wilander,1
@@ -127,17 +149,22 @@ US Open,Roy Emerson,2
 Australian Open,Roy Emerson,6
 Roland Garros,Roy Emerson,2
 Roland Garros,Sergi Bruguera,2
+Wimbledon,Sidney Wood Jr,1
 US Open,Stan Wawrinka,1
 Australian Open,Stan Wawrinka,1
 Roland Garros,Stan Wawrinka,1
 Wimbledon,Stefan Edberg,2
 US Open,Stefan Edberg,2
 Australian Open,Stefan Edberg,2
+Roland Garros,Sven Davidson,1
 Wimbledon,Ted Schroeder,1
 US Open,Ted Schroeder,1
 Australian Open,Thomas Johansson,1
 Roland Garros,Thomas Muster,1
 Roland Garros,Tony Roche,1
+Wimbledon,Tony Trabert,1
+US Open,Tony Trabert,2
+Roland Garros,Tony Trabert,2
 Wimbledon,Vic Seixas,1
 US Open,Vic Seixas,1
 Roland Garros,Yannick Noah,1

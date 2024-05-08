@@ -1,22 +1,61 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Rennes CH,3,Hard,Q2,671,302,0,12,3,Kacper Zuk,Luca Giacomini,6-4 6-1,0.70,0.0%,5.7%,62.3%,60.6%,35.0%,3/7,42.3%,34.5%,8.6%,27.8%,45.5%,1/3,111,0,3,53,33,20,5,1:16
-10-Sep-2023,Rennes CH,3,Hard,Q1,671,,1,12,Alt,Luca Giacomini,Szymon Walkow,7-5 6-1,1.47,0.0%,4.5%,60.6%,67.5%,38.5%,6/10,59.8%,64.7%,3.9%,54.5%,83.3%,7/9,117,0,3,66,40,26,2,1:47
+15-Apr-2024,M25 Hammamet,3,Clay,R16,600,365,0,,2,Sandro Kopp,Luca Giacomini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M25 Hammamet,3,Clay,R32,600,753,1,,,Luca Giacomini,Michiel De Krom,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M25 Hammamet,3,Clay,R32,604,228,0,,1,Aziz Dougaz,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Apr-2024,Barletta CH,3,Clay,Q1,603,535,0,,11,Adrian Oetzbach,Luca Giacomini,6-3 3-6 6-1,0.86,0.0%,4.5%,70.8%,57.1%,46.2%,6/12,47.3%,39.5%,6.6%,27.1%,60.7%,3/7,165,0,4,89,63,26,5,2:11
+18-Mar-2024,Zadar CH,3,Clay,Q1,606,330,0,,1,Mathys Erhard,Luca Giacomini,6-2 6-4,0.85,0.0%,3.7%,66.7%,55.6%,38.9%,1/6,45.6%,42.3%,1.4%,36.2%,54.2%,2/9,125,0,2,54,36,18,1,1:47
+11-Mar-2024,M15 Monastir,3,Hard,R16,636,1081,0,2,,Federico Cina,Luca Giacomini,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Monastir,3,Hard,R32,636,1441,1,2,Q,Luca Giacomini,Federico Salomone,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Monastir,3,Hard,SF,636,472,0,3,2,Jakub Nicod,Luca Giacomini,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Monastir,3,Hard,QF,636,641,1,3,5,Luca Giacomini,Christoph Negritu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Monastir,3,Hard,R16,636,1354,1,3,Q,Luca Giacomini,Mohamed Nazim Makhlouf,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Mar-2024,M15 Monastir,3,Hard,R32,636,1150,1,3,,Luca Giacomini,Romain Faucon,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Oberhaching,3,Hard,R32,631,1325,0,,WC,Vincent Marysko,Luca Giacomini,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,M15 Sharm ElSheikh,3,Hard,R32,613,947,0,4,,Rei Sakamoto,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Sharm ElSheikh,3,Hard,QF,615,784,0,4,8,Marek Gengel,Luca Giacomini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Sharm ElSheikh,3,Hard,R16,615,1153,1,4,,Luca Giacomini,Oliver Ojakaar,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jan-2024,M15 Sharm ElSheikh,3,Hard,R32,615,1343,1,4,Q,Luca Giacomini,Zhenxiong Dong,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,QF,626,1177,0,,,Yaroslav Demin,Luca Giacomini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R16,626,853,1,,,Luca Giacomini,Milos Karol,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Manacor,3,Hard,R32,626,598,1,,8,Luca Giacomini,Tommaso Compagnucci,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Manacor,3,Hard,R32,625,1671,0,,Q,Kenneth Raisma,Luca Giacomini,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,R32,626,345,0,,2,Robert Strombachs,Luca Giacomini,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,,QF,618,761,0,5,,Christoph Negritu,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,,R16,618,1673,1,5,Q,Luca Giacomini,Aaron Gil Garcia,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,,R32,618,1992,1,5,Q,Luca Giacomini,Fryderyk Lechno Wasiutynski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,Ortisei CH,3,Hard,QF,699,213,0,Q,3,Federico Gaio,Luca Giacomini,7-6(3) 7-6(2),0.80,0.0%,10.5%,57.9%,65.9%,46.9%,0/3,46.0%,33.8%,4.1%,28.3%,42.9%,3/10,150,0,8,76,44,32,3,1:53
+23-Oct-2023,Ortisei CH,3,Hard,R16,699,212,1,Q,8,Luca Giacomini,Illya Marchenko,4-6 6-2 7-6(5),1.00,0.0%,7.0%,57.0%,71.9%,51.2%,3/6,50.8%,37.1%,5.6%,27.1%,48.8%,4/6,189,0,7,100,57,43,5,2:38
+23-Oct-2023,Ortisei CH,3,Hard,R32,699,343,1,Q,,Luca Giacomini,Louis Wessels,6-3 6-4,1.80,8.2%,6.1%,61.2%,90.0%,63.2%,2/3,58.2%,36.7%,16.3%,33.3%,43.8%,3/7,98,4,3,49,30,19,8,1:14
+23-Oct-2023,Ortisei CH,3,Hard,Q2,699,572,1,,10,Luca Giacomini,Ryuki Matsuda,7-5 6-3,1.60,10.3%,6.9%,75.9%,86.4%,28.6%,0/1,58.1%,44.1%,1.7%,41.2%,48.0%,3/6,117,6,4,58,44,14,1,1:40
+23-Oct-2023,Ortisei CH,3,Hard,Q1,699,347,1,,2,Luca Giacomini,Hady Habib,7-5 6-3,1.13,7.0%,5.8%,64.0%,70.9%,48.4%,7/8,54.0%,42.2%,10.9%,34.1%,60.0%,3/9,150,6,5,86,55,31,7,1:34
+16-Oct-2023,M15 Monastir,3,Hard,QF,679,495,0,7,4,Constantin Bittoun Kouzmine,Luca Giacomini,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,R16,679,778,1,7,,Luca Giacomini,Sean Cuenin,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Monastir,3,Hard,R32,679,975,1,7,,Luca Giacomini,Nicolas Parizzia,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Sep-2023,Rennes CH,3,Hard,Q2,671,302,0,12,3,Kacper Zuk,Luca Giacomini,6-4 6-1,0.70,0.0%,5.7%,62.3%,60.6%,35.0%,3/7,42.3%,34.5%,8.6%,27.8%,45.5%,1/3,111,0,3,53,33,20,5,1:16
+11-Sep-2023,Rennes CH,3,Hard,Q1,671,,1,12,Alt,Luca Giacomini,Szymon Walkow,7-5 6-1,1.47,0.0%,4.5%,60.6%,67.5%,38.5%,6/10,59.8%,64.7%,3.9%,54.5%,83.3%,7/9,117,0,3,66,40,26,2,1:47
 4-Sep-2023,Genoa CH,3,Clay,Q1,685,385,0,,4,Samuel Vincent Ruggeri,Luca Giacomini,7-6(6) 4-6 6-3,1.17,2.2%,3.3%,58.7%,66.7%,63.2%,2/5,51.2%,40.7%,8.9%,29.6%,55.8%,3/15,215,2,3,92,54,38,11,2:59
 28-Aug-2023,M15 Forli,3,Clay,QF,685,1166,0,7,Q,Daniel Bagnolini,Luca Giacomini,6-7(8) 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Forli,3,Clay,R16,685,747,1,7,,Luca Giacomini,Leonardo Rossi,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Forli,3,Clay,R32,685,1361,1,7,,Luca Giacomini,Andrea Bolla,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Caslano,3,Clay,QF,661,504,0,5,1,Andrey Chepelev,Luca Giacomini,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Caslano,3,Clay,R16,661,1973,1,5,Q,Luca Giacomini,Lorenzo Vatteroni,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Aug-2023,M15 Caslano,3,Clay,R32,661,872,1,5,,Luca Giacomini,Nicolas Parizzia,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Osijek,3,Clay,R16,714,948,0,5,,Dusan Obradovic,Luca Giacomini,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Osijek,3,Clay,R32,714,1340,1,5,,Luca Giacomini,Jan Kupcic,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,SF,737,401,0,,1,Cezar Cretu,Luca Giacomini,7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,QF,737,716,1,,,Luca Giacomini,Bor Artnak,6-2 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,R16,737,1086,1,,,Luca Giacomini,Quentin Folliot,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M25 Pitesti,3,Clay,R32,737,690,1,,8,Luca Giacomini,Dan Alexandru Tomescu,6-7(5) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,QF,735,304,0,,2,Filip Cristian Jianu,Luca Giacomini,6-7(8) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R16,735,1128,1,,,Luca Giacomini,Paulo Andre Saraiva Dos Santos,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2023,M25 Bacau,3,Clay,R32,735,1994,1,,WC,Luca Giacomini,Vlad Andrei Dumitru,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M25 Padova,3,Clay,R16,756,561,0,WC,8,Sergey Fomin,Luca Giacomini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jul-2023,M25 Padova,3,Clay,R32,756,1054,1,WC,Q,Luca Giacomini,Nicolas Bruna,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Ajaccio,3,Hard,R32,756,679,0,,,Nikolay Vylegzhanin,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,QF,824,1534,0,6,Q,Igor Kudriashov,Luca Giacomini,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,R16,824,962,1,6,,Luca Giacomini,Samir Hamza Reguig,6-1 4-0 RET,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Monastir,3,Hard,R32,824,,1,6,,Luca Giacomini,Cesar Bourgois,6-1 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Jun-2023,M15 Monastir,3,Hard,F,821,,0,,3,Coleman Wong,Luca Giacomini,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+19-Jun-2023,M15 Monastir,3,Hard,F,821,670,0,,3,Coleman Wong,Luca Giacomini,6-3 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,SF,821,1059,1,,,Luca Giacomini,Thomas Braithwaite,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,QF,821,1807,1,,Q,Luca Giacomini,Vladislav Melnic,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Monastir,3,Hard,R16,821,729,1,,6,Luca Giacomini,Cyril Vandermeersch,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

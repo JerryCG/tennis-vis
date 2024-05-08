@@ -1,7 +1,31 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Cassis CH,3,Hard,Q1,788,367,0,,3,Aidan Mchugh,Alexander Donski,6-2 6-3,0.28,9.5%,9.5%,54.0%,64.7%,37.9%,7/11,38.0%,13.5%,13.5%,3.8%,36.4%,0/0,100,6,6,63,34,29,5,1:14
+15-Apr-2024,M15 Monastir,3,Hard,R16,970,432,0,Q,2,Robin Bertrand,Alexander Donski,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Monastir,3,Hard,R32,970,852,1,Q,,Alexander Donski,Samir Hamza Reguig,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,M15 Monastir,3,Hard,R32,970,684,0,Q,,Lukas Pokorny,Alexander Donski,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M25 Vale do Lobo,3,Hard,R32,959,347,0,Q,6,Jaime Faria,Alexander Donski,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R16,944,317,0,Q,1,Michael Vrbensky,Alexander Donski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R32,944,1154,1,Q,Q,Alexander Donski,Rodrigo Fernandes,7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,929,363,0,LL,4,Elmer Moller,Alexander Donski,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,QF,955,510,0,Q,3,Jakub Paul,Alexander Donski,4-6 6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,R16,955,684,1,Q,,Alexander Donski,David Perez Sanz,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jan-2024,M15 Monastir,3,Hard,R32,955,579,1,Q,7,Alexander Donski,Duarte Vale,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M15 Monastir,3,Hard,R32,955,1483,0,WC,WC,Chirag Duhan,Alexander Donski,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,,QF,990,392,0,,1,Omni Kumar,Alexander Donski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,,R16,990,649,1,,7,Alexander Donski,Maximus Jones,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,,R32,990,933,1,,,Alexander Donski,Luca Fantini,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,,R32,988,702,0,Q,,Sebastian Sorger,Alexander Donski,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,,R32,935,688,0,WC,,Jakob Schnaitter,Alexander Donski,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,Sofia,3,Hard,Q1,935,152,0,WC,2,Nicolas Moreno De Alboran,Alexander Donski,6-3 6-4,0.30,6.0%,3.0%,56.7%,68.4%,41.4%,7/9,38.9%,13.0%,8.7%,16.7%,6.3%,0/0,113,4,2,67,38,29,4,1:11
+30-Oct-2023,M15 Monastir,3,Hard,SF,939,647,0,,2,Olaf Pieczkowski,Alexander Donski,W/O,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,QF,939,949,1,,Q,Alexander Donski,Max Wiskandt,2-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,R16,939,690,1,,4,Alexander Donski,Fabrizio Andaloro,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M15 Monastir,3,Hard,R32,939,,1,,WC,Alexander Donski,Guelfo Borghini Baldovinetti,5-7 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Pazardzhik,3,Clay,R32,801,423,0,,7,Sandro Kopp,Alexander Donski,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R32,806,601,0,,,Jiri Barnat,Alexander Donski,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Cassis CH,3,Hard,Q1,788,367,0,,3,Aidan Mchugh,Alexander Donski,6-2 6-3,0.28,9.5%,9.5%,54.0%,64.7%,37.9%,7/11,38.0%,13.5%,13.5%,3.8%,36.4%,0/0,100,6,6,63,34,29,5,1:14
 21-Aug-2023,Prague CH,3,Clay,Q2,800,692,0,Alt,,Pawel Cias,Alexander Donski,7-6(1) 7-6(7),0.90,9.4%,9.4%,60.0%,72.5%,50.0%,5/6,47.0%,32.7%,3.1%,30.4%,35.7%,1/14,183,8,8,85,51,34,3,2:20
 21-Aug-2023,Prague CH,3,Clay,Q1,800,536,1,Alt,10,Alexander Donski,Luca Potenza,6-2 6-3,2.09,13.7%,3.9%,51.0%,92.3%,60.0%,3/3,62.3%,49.1%,1.8%,37.9%,61.5%,3/7,106,7,2,51,26,25,1,1:21
+24-Jul-2023,M15 Metzinger,3,Clay,R32,801,661,0,,4,Stefan Popovic,Alexander Donski,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M15 Celje,3,Clay,R32,771,622,0,,4,Pawel Cias,Alexander Donski,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Store,3,Clay,R16,774,679,0,,7,Luca Wiedenmann,Alexander Donski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jun-2023,M15 Store,3,Clay,R32,774,1322,1,,LL,Alexander Donski,Peter Goldsteiner,6-3 2-2 RET,,,,,,,,,,,,,,,,,,,,,

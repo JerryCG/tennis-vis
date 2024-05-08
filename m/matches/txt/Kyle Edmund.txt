@@ -1,4 +1,43 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+22-Apr-2024,Savannah CH,3,Clay,Q2,426,404,0,9,6,Arthur Gea,Kyle Edmund,5-7 6-3 6-3,0.89,1.2%,10.6%,61.2%,57.7%,42.4%,3/10,47.0%,42.9%,3.1%,37.9%,50.0%,5/11,183,1,9,85,52,33,3,2:13
+22-Apr-2024,Savannah CH,3,Clay,Q1,426,1530,1,9,,Kyle Edmund,Keenan Mayo,7-5 6-3,1.36,1.7%,8.3%,63.3%,65.8%,59.1%,2/5,56.6%,50.0%,3.2%,32.4%,71.4%,5/9,122,1,5,60,38,22,2,1:26
+15-Apr-2024,Tallahassee CH,3,Clay,R32,420,563,0,LL,Q,Gerald Melzer,Kyle Edmund,6-4 6-1,0.67,5.4%,7.1%,60.7%,52.9%,36.4%,8/13,41.3%,35.8%,1.9%,35.7%,36.0%,1/3,109,3,4,56,34,22,1,1:20
+15-Apr-2024,Tallahassee CH,3,Clay,Q2,420,563,0,4,11,Gerald Melzer,Kyle Edmund,2-6 6-0 6-3,0.85,6.0%,4.8%,55.4%,54.3%,43.2%,5/11,46.1%,43.2%,5.3%,40.7%,46.3%,3/16,178,5,4,83,46,37,5,2:14
+15-Apr-2024,Tallahassee CH,3,Clay,Q1,420,986,1,4,,Kyle Edmund,Johannes Ingildsen,6-1 6-1,2.11,4.4%,6.7%,64.4%,79.3%,62.5%,1/1,64.5%,56.3%,0.0%,57.7%,54.5%,5/7,93,2,3,45,29,16,0,1:03
+8-Apr-2024,Sarasota CH,3,Clay,Q2,423,304,0,8,1,Giovanni Fonio,Kyle Edmund,6-2 6-3,0.64,0.0%,4.7%,67.2%,55.8%,52.4%,2/6,43.1%,28.8%,13.5%,23.7%,42.9%,0/0,116,0,3,64,43,21,7,1:18
+8-Apr-2024,Sarasota CH,3,Clay,Q1,423,565,1,8,,Kyle Edmund,Gerald Melzer,6-1 6-4,2.11,14.3%,8.2%,61.2%,86.7%,63.2%,1/1,61.5%,47.3%,10.9%,38.5%,55.2%,3/8,104,7,4,49,30,19,6,1:13
+11-Mar-2024,Hamburg CH,3,Hard,R32,401,384,0,Q,WC,Marko Topo,Kyle Edmund,6-4 7-6(8),0.95,8.8%,5.9%,52.9%,86.1%,53.1%,0/1,47.6%,27.8%,11.4%,20.0%,45.8%,0/7,147,6,4,68,36,32,9,1:39
+11-Mar-2024,Hamburg CH,3,Hard,Q2,401,180,1,9,1,Kyle Edmund,Denis Yevseyev,6-1 6-3,1.72,6.7%,4.4%,55.6%,72.0%,60.0%,0/1,62.0%,57.4%,2.1%,50.0%,70.6%,5/6,92,3,2,45,25,20,1,0:55
+11-Mar-2024,Hamburg CH,3,Hard,Q1,401,500,1,9,,Kyle Edmund,Andrea Picchione,6-4 6-1,1.35,9.5%,2.7%,59.5%,77.3%,36.7%,8/9,57.6%,52.9%,7.8%,44.8%,63.6%,4/6,125,7,2,74,44,30,4,1:27
+4-Mar-2024,Lugano CH,3,Hard,Q1,401,318,0,Alt,11,Cem Ilkel,Kyle Edmund,3-6 7-6(5) 6-2,0.94,3.1%,5.1%,55.1%,70.4%,47.7%,4/7,48.5%,37.3%,11.8%,19.6%,58.7%,3/12,200,3,5,98,54,44,12,2:23
+19-Feb-2024,Pau CH,3,Hard,R32,399,170,0,WC,,Titouan Droguet,Kyle Edmund,6-2 6-2,0.53,2.0%,8.0%,48.0%,75.0%,26.9%,1/5,38.4%,26.5%,8.2%,17.9%,38.1%,0/4,99,1,4,50,24,26,4,1:00
+12-Feb-2024,Glasgow CH,3,Hard,R16,406,733,0,WC,Q,Stuart Parker,Kyle Edmund,7-6(4) 7-6(5),0.64,4.3%,3.2%,56.4%,75.5%,56.1%,4/4,45.7%,21.0%,19.8%,8.8%,50.0%,0/0,175,4,3,94,53,41,16,1:59
+12-Feb-2024,Glasgow CH,3,Hard,R32,406,215,1,WC,2,Kyle Edmund,Dimitar Kuzmanov,6-3 2-6 6-2,1.19,12.5%,8.3%,52.8%,76.3%,44.1%,4/7,53.3%,46.3%,3.8%,44.4%,48.6%,5/10,152,9,6,72,38,34,3,1:54
+5-Feb-2024,Nottingham CH,3,Hard,R32,408,194,0,WC,7,Joris De Loore,Kyle Edmund,7-6(4) 6-7(5) 6-4,0.86,13.1%,1.9%,66.4%,71.8%,72.2%,1/2,47.9%,24.1%,16.7%,19.0%,37.9%,0/4,215,14,2,107,71,36,18,2:48
+15-Jan-2024,M25 Sunderland,3,Hard,F,537,655,1,,,Kyle Edmund,Hamish Stewart,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,SF,537,477,1,,,Kyle Edmund,Jonas Forejtek,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,QF,537,433,1,,7,Kyle Edmund,Daniel Cox,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,R16,537,544,1,,,Kyle Edmund,Harry Wendelken,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Sunderland,3,Hard,R32,537,363,1,,3,Kyle Edmund,Clement Chidekh,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,F,539,550,1,,,Kyle Edmund,Martyn Pawelski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,SF,539,328,1,,1,Kyle Edmund,Charles Broom,6-7(10) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,QF,539,528,1,,,Kyle Edmund,Fausto Tabacco,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,R16,539,495,1,,,Kyle Edmund,Daniil Glinka,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M25 Loughborough,3,Hard,R32,539,385,1,,6,Kyle Edmund,Jay Clarke,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 EschAlzette,3,Hard,R32,538,353,0,,4,Raphael Collignon,Kyle Edmund,4-6 7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,527,421,0,,6,Jaime Faria,Kyle Edmund,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,527,817,1,,,Kyle Edmund,Benjamin Winter Lopez,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Sunderland ,3,Hard,R32,546,388,0,,3,Akira Santillan,Kyle Edmund,7-6(3) 6-7(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,QF,628,568,0,,,Anton Matusevich,Kyle Edmund,6-1 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,R16,628,319,1,,2,Kyle Edmund,Marvin Moeller,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,R32,628,474,1,,,Kyle Edmund,Gilles Arnaud Bailly,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,F,635,1782,0,WC,Q,Jacob Fearnley,Kyle Edmund,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,SF,635,420,1,WC,3,Kyle Edmund,Toby Samuel,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,QF,635,330,1,WC,1,Kyle Edmund,Aidan Mchugh,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,R16,635,916,1,WC,,Kyle Edmund,Milos Karol,6-3 6-7(8) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M25 Edgbaston,3,Hard,R32,635,584,1,WC,,Kyle Edmund,Hynek Barton,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Doha,3,Hard,R32,636,1143,0,5,,Quentin Folliot,Kyle Edmund,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M15 Doha,3,Hard,R32,636,882,0,6,,Koray Kirci,Kyle Edmund,4-3 RET,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Reggio Emilia,3,Clay,SF,473,594,0,Q,WC,Julian Ocleppo,Kyle Edmund,3-2 RET,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Reggio Emilia,3,Clay,QF,473,249,1,Q,1,Kyle Edmund,Terence Atmane,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 15-May-2023,M25 Reggio Emilia,3,Clay,R16,473,379,1,Q,5,Kyle Edmund,Remy Bertola,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

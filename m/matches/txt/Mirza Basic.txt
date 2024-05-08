@@ -1,6 +1,32 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-3-Sep-2023,Tulln CH,3,Clay,Q2,584,395,0,,3,Lukas Rosol,Mirza Basic,7-6(3) 6-2,0.63,6.8%,4.1%,60.3%,72.7%,37.9%,6/8,43.7%,25.8%,14.5%,16.7%,45.0%,0/0,135,5,3,73,44,29,9,1:19
-3-Sep-2023,Tulln CH,3,Clay,Q1,584,534,1,,11,Mirza Basic,Constantin Bittoun Kouzmine,6-7(5) 7-6(2) 7-6(3),1.25,4.4%,0.0%,60.2%,76.5%,62.2%,4/7,52.7%,36.5%,4.8%,30.5%,47.7%,3/9,239,5,0,113,68,45,6,2:58
+29-Apr-2024,M15 Osijek,3,Clay,R16,711,1472,0,8,WC,Josip Simundza,Mirza Basic,3-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Apr-2024,M15 Osijek,3,Clay,R32,711,,1,8,Q,Mirza Basic,Marin Bradaric,4-3 RET,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,R16,711,535,0,,4,Luka Mikrut,Mirza Basic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Apr-2024,M15 Split,3,Clay,R32,711,2022,1,,WC,Mirza Basic,Alen Bill,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Dubrovnik,3,Clay,QF,709,969,1,7,,Mirza Basic,Sean Hess,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Dubrovnik,3,Clay,R16,709,751,1,7,,Mirza Basic,Mili Poljicak,7-6(11) 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Apr-2024,M15 Dubrovnik,3,Clay,R32,709,,1,7,Q,Mirza Basic,Marino Jakic,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+8-Apr-2024,Split CH,3,Clay,Q1,706,,0,Alt,11,Jakub Nicod,Mirza Basic,6-2 7-5,0.48,0.0%,4.5%,69.7%,65.2%,45.0%,1/4,41.9%,19.6%,9.8%,15.2%,27.8%,0/0,117,0,3,66,46,20,5,1:26
+25-Mar-2024,M25 Trnava,3,Hard,QF,694,397,0,,4,Jakub Nicod,Mirza Basic,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Trnava,3,Hard,R16,694,,1,,Q,Mirza Basic,Jan Kumstat,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M25 Trnava,3,Hard,R32,694,1039,1,,Q,Mirza Basic,Szymon Kielan,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,Zadar CH,3,Clay,Q1,694,527,0,Alt,10,Sergi Perez Contri,Mirza Basic,3-6 6-1 6-1,0.55,1.5%,1.5%,50.0%,51.5%,48.5%,0/6,39.5%,27.6%,3.4%,25.0%,33.3%,2/4,124,1,1,66,33,33,2,1:29
+19-Feb-2024,M25 Trento,3,Hard,R16,645,444,0,Q,,Sascha Gueymard Wayenburg,Mirza Basic,3-6 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Trento,3,Hard,R32,645,497,1,Q,,Mirza Basic,Andrea Picchione,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+15-Jan-2024,M25 Doha,3,Hard,R32,623,726,0,,,Alexey Zakharov,Mirza Basic,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jan-2024,M15 Doha,3,Hard,R32,622,364,0,,2,Khumoyun Sultanov,Mirza Basic,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Ismaning CH,3,Carpet,Q1,573,406,0,Alt,12,Viktor Durasovic,Mirza Basic,7-6(5) 6-4,0.57,17.4%,4.3%,65.2%,77.8%,54.2%,2/3,45.7%,17.2%,22.4%,5.7%,34.8%,0/0,127,12,3,69,45,24,13,1:10
+23-Oct-2023,Ortisei CH,3,Hard,R16,603,181,0,Q,Q,Lukas Klein,Mirza Basic,7-6(5) 7-6(3),0.98,6.3%,3.8%,59.5%,68.1%,68.8%,1/3,50.0%,31.2%,14.3%,19.6%,53.8%,2/2,156,5,3,79,47,32,11,1:36
+23-Oct-2023,Ortisei CH,3,Hard,R32,603,230,1,Q,6,Mirza Basic,Alejandro Moro Canas,7-6(3) 6-3,1.59,12.7%,0.0%,66.7%,78.6%,81.0%,2/2,55.4%,32.8%,14.9%,20.0%,59.1%,1/5,130,8,0,63,42,21,10,1:28
+23-Oct-2023,Ortisei CH,3,Hard,Q2,603,365,1,,3,Mirza Basic,Daniel Cukierman,6-4 6-2,2.02,13.0%,6.5%,58.7%,88.9%,63.2%,0/0,59.2%,43.9%,5.3%,41.4%,46.4%,3/6,103,6,3,46,27,19,3,1:03
+23-Oct-2023,Ortisei CH,3,Hard,Q1,603,561,1,,9,Mirza Basic,Elliot Benchetrit,3-6 6-0 6-3,1.34,6.8%,5.4%,64.9%,72.9%,57.7%,2/4,55.3%,43.4%,9.2%,38.1%,50.0%,5/13,150,5,4,74,48,26,7,1:28
+16-Oct-2023,Hamburg CH,3,Hard,Q1,613,346,0,Alt,6,Lucas Gerch,Mirza Basic,7-6(5) 5-7 6-4,1.01,2.9%,2.9%,70.2%,72.6%,45.2%,3/6,49.5%,36.0%,19.3%,22.6%,51.9%,3/11,218,3,3,104,73,31,22,2:07
+25-Sep-2023,M25 Zlatibor,3,Clay,R16,578,322,0,,1,Valentin Vacherot,Mirza Basic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Zlatibor,3,Clay,R32,578,1893,1,,Q,Mirza Basic,Niksa Arsic,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,Tulln CH,3,Clay,Q2,584,395,0,,3,Lukas Rosol,Mirza Basic,7-6(3) 6-2,0.63,6.8%,4.1%,60.3%,72.7%,37.9%,6/8,43.7%,25.8%,14.5%,16.7%,45.0%,0/0,135,5,3,73,44,29,9,1:19
+4-Sep-2023,Tulln CH,3,Clay,Q1,584,534,1,,11,Mirza Basic,Constantin Bittoun Kouzmine,6-7(5) 7-6(2) 7-6(3),1.25,4.4%,0.0%,60.2%,76.5%,62.2%,4/7,52.7%,36.5%,4.8%,30.5%,47.7%,3/9,239,5,0,113,68,45,6,2:58
+28-Aug-2023,M25 Maribor,3,Clay,R16,584,436,0,,5,Marcello Serafini,Mirza Basic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Aug-2023,M25 Maribor,3,Clay,R32,584,1361,1,,,Mirza Basic,Jan Kupcic,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,Banja Luka CH,3,Clay,R32,605,160,0,Q,5,Kimmer Coppejans,Mirza Basic,6-3 6-4,1.00,2.4%,2.4%,66.7%,64.3%,78.6%,1/3,45.5%,30.9%,5.9%,23.7%,40.0%,0/9,110,1,1,42,28,14,4,1:20
 7-Aug-2023,Banja Luka CH,3,Clay,Q2,605,513,1,12,6,Mirza Basic,Kirill Kivattsev,7-6(2) 6-4,1.34,1.4%,0.0%,74.3%,75.0%,66.7%,1/1,52.9%,36.5%,1.2%,35.3%,41.2%,1/11,155,1,0,70,52,18,1,1:40
 7-Aug-2023,Banja Luka CH,3,Clay,Q1,605,621,1,12,,Mirza Basic,Lorenzo Bocchi,2-0 RET,2.13,0.0%,0.0%,75.0%,83.3%,0.0%,1/1,69.2%,80.0%,0.0%,100.0%,66.7%,1/1,13,0,0,8,6,2,0,0:11

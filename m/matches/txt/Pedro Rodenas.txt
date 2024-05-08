@@ -1,4 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q2,609,523,0,,Alt,Alastair Gray,Pedro Rodenas,7-5 6-1,0.74,1.6%,1.6%,67.2%,55.8%,42.9%,4/8,43.8%,35.9%,7.8%,21.6%,55.6%,1/5,128,1,1,64,43,21,5,1:26
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,609,420,1,,,Pedro Rodenas,Tibo Colson,6-2 6-2,1.70,0.0%,3.8%,69.2%,75.0%,50.0%,3/4,60.7%,55.7%,0.0%,55.3%,56.5%,5/14,122,0,2,52,36,16,0,1:09
+20-Nov-2023,M15 Alcala de Henares,3,,QF,609,931,0,6,,Jesse Flores,Pedro Rodenas,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,R16,609,994,1,6,,Pedro Rodenas,Aj Catanzariti,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,,R32,609,,1,6,Q,Pedro Rodenas,Martins Rocens,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,SF,613,,0,1,WC,Dhakshineswar Suresh,Pedro Rodenas,6-7(5) 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,QF,613,,1,1,Q,Pedro Rodenas,Ishaan Ravichander,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,R16,613,,1,1,Q,Pedro Rodenas,Martin Borisiouk,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M15 Winston-Salem NC,3,Hard,R32,613,1041,1,1,LL,Pedro Rodenas,Ivan Marrero Curbelo,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Charlottesville CH,3,Hard,Q2,626,655,0,Alt,5,Stefan Kozlov,Pedro Rodenas,6-3 6-1,0.77,3.6%,7.1%,62.5%,51.4%,28.6%,3/9,43.5%,43.9%,0.0%,41.3%,52.6%,2/14,138,2,4,56,35,21,0,1:40
+30-Oct-2023,Charlottesville CH,3,Hard,Q1,626,558,1,Alt,9,Pedro Rodenas,Alfredo Perez,6-0 6-7(3) 6-4,1.14,3.1%,3.1%,60.2%,67.8%,38.5%,2/6,53.2%,50.0%,8.9%,42.3%,60.5%,8/14,188,3,3,98,59,39,8,2:16
+25-Sep-2023,Charleston CH,3,Hard,Q2,628,414,0,Alt,4,Ernesto Escobedo,Pedro Rodenas,4-6 6-1 6-3,0.74,3.5%,3.5%,64.7%,60.0%,46.7%,5/10,44.7%,32.9%,3.9%,24.5%,52.2%,2/3,161,3,3,85,55,30,3,1:52
+25-Sep-2023,Charleston CH,3,Hard,Q1,628,479,1,Alt,12,Pedro Rodenas,Nathan Ponwith,6-7(5) 6-1 7-6(5),1.23,8.9%,5.9%,62.4%,76.2%,50.0%,3/6,54.4%,41.5%,3.2%,31.8%,50.0%,5/10,195,9,6,101,63,38,3,2:28
+11-Sep-2023,Cary CH,3,Hard,R32,631,82,0,WC,1,Rinky Hijikata,Pedro Rodenas,6-3 6-1,0.70,1.6%,6.6%,57.4%,54.3%,42.3%,7/11,42.1%,35.4%,1.5%,28.1%,42.4%,0/5,126,1,4,61,35,26,1,1:34
 31-Jul-2023,M15 Xativa,3,Clay,QF,692,609,0,7,4,Vilius Gaubas,Pedro Rodenas,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M15 Xativa,3,Clay,R16,692,,1,7,Q,Pedro Rodenas,Sam Kydd Baumgartner,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2023,M15 Xativa,3,Clay,R32,692,,1,7,WC,Pedro Rodenas,Mateo Luis Alvarez Sarmiento,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -11,6 +25,8 @@
 17-Jul-2023,M25 Gandia,3,Clay,QF,743,541,1,,6,Pedro Rodenas,Facundo Juarez,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Gandia,3,Clay,R16,743,462,1,,4,Pedro Rodenas,Daniel Merida Aguilar,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 Gandia,3,Clay,R32,743,1285,1,,WC,Pedro Rodenas,Jaime Caldes,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R16,749,340,0,,1,Javier Barranco Cosano,Pedro Rodenas,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R32,749,1760,1,,Q,Pedro Rodenas,Kirill Mishkin,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 12-Jun-2023,M15 Rabat,3,Clay,F,780,319,0,,2,Valentin Royer,Pedro Rodenas,5-7 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Jun-2023,M15 Rabat,3,Clay,SF,780,1582,1,,WC,Pedro Rodenas,Walid Ahouda,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Jun-2023,M15 Rabat,3,Clay,QF,780,1423,1,,Q,Pedro Rodenas,Gerard Planelles Ripoll,6-2 6-1,,,,,,,,,,,,,,,,,,,,,

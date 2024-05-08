@@ -1,5 +1,62 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Rennes CH,3,Hard,Q1,364,884,0,6,,Patrick Brady,Samuel Vincent Ruggeri,7-6(5) 6-4,0.76,8.9%,5.1%,53.2%,69.0%,54.1%,2/4,46.6%,29.0%,1.4%,22.2%,41.7%,1/3,148,7,4,79,42,37,1,1:56
+6-May-2024,Rome,3,Clay,Q1,276,113,0,WC,21,Richard Gasquet,Samuel Vincent Ruggeri,6-1 7-5,0.72,15.0%,8.3%,55.0%,60.6%,29.6%,4/10,42.4%,38.5%,1.5%,31.4%,46.7%,2/6,125,9,5,60,33,27,1,1:44
+22-Apr-2024,Rome CH,3,Clay,R32,258,173,0,WC,8,Hugo Dellien,Samuel Vincent Ruggeri,4-6 6-1 6-4,0.97,8.5%,5.6%,54.9%,71.8%,53.1%,2/5,47.6%,35.5%,3.2%,30.4%,50.0%,1/6,164,6,4,71,39,32,3,2:00
+15-Apr-2024,Oeiras CH,3,Clay,QF,272,115,0,Q,4,Francisco Comesana,Samuel Vincent Ruggeri,6-3 6-4,0.32,3.4%,8.5%,55.9%,66.7%,50.0%,7/9,39.0%,13.0%,4.3%,14.3%,9.1%,0/0,105,2,5,59,33,26,2,1:26
+15-Apr-2024,Oeiras CH,3,Clay,R16,272,398,1,Q,WC,Samuel Vincent Ruggeri,Gastao Elias,6-2 6-3,1.45,7.3%,7.3%,63.6%,77.1%,45.0%,3/4,57.9%,50.0%,3.8%,25.0%,65.6%,5/5,107,4,4,55,35,20,2,1:23
+15-Apr-2024,Oeiras CH,3,Clay,R32,272,140,1,Q,7,Samuel Vincent Ruggeri,Nicolas Moreno De Alboran,7-5 7-5,1.16,3.7%,7.3%,52.4%,69.8%,46.2%,5/8,53.5%,48.1%,7.8%,48.1%,48.0%,5/9,159,3,6,82,43,39,6,2:10
+15-Apr-2024,Oeiras CH,3,Clay,Q2,272,207,1,10,1,Samuel Vincent Ruggeri,Lukas Neumayer,3-3 RET,1.21,0.0%,13.6%,54.5%,58.3%,50.0%,0/1,54.8%,55.0%,0.0%,44.4%,63.6%,1/1,42,0,3,22,12,10,0,0:29
+15-Apr-2024,Oeiras CH,3,Clay,Q1,272,408,1,10,,Samuel Vincent Ruggeri,Dan Added,6-4 7-6(6),1.07,5.9%,9.9%,64.4%,66.2%,30.6%,10/15,52.0%,50.0%,3.9%,41.9%,60.6%,6/7,177,6,10,101,65,36,3,2:14
+1-Apr-2024,Barletta CH,3,Clay,R16,268,129,0,,1,Harold Mayot,Samuel Vincent Ruggeri,6-3 6-0,0.42,4.7%,2.3%,58.1%,48.0%,38.9%,1/5,33.3%,23.4%,0.0%,19.4%,31.3%,0/2,90,2,1,43,25,18,0,1:09
+1-Apr-2024,Barletta CH,3,Clay,R32,268,543,1,,WC,Samuel Vincent Ruggeri,Nikoloz Basilashvili,6-2 5-3 RET,1.29,19.0%,5.2%,56.9%,81.8%,44.0%,3/3,55.4%,44.4%,3.7%,32.4%,70.6%,3/6,112,11,3,58,33,25,2,1:17
+25-Mar-2024,Naples CH,3,Clay,R16,290,149,0,Q,,Matteo Gigante,Samuel Vincent Ruggeri,4-6 6-4 6-3,0.92,4.4%,7.7%,45.1%,63.4%,48.0%,4/10,48.1%,41.3%,2.2%,28.3%,59.0%,5/10,183,4,7,91,41,50,2,2:25
+25-Mar-2024,Naples CH,3,Clay,R32,290,261,1,Q,WC,Samuel Vincent Ruggeri,Enrico Dalla Valle,7-6(5) 6-3,1.16,0.0%,5.7%,68.6%,62.5%,40.9%,3/7,53.6%,51.5%,4.4%,47.8%,59.1%,6/11,138,0,4,70,48,22,3,1:49
+25-Mar-2024,Naples CH,3,Clay,Q2,290,246,1,10,3,Samuel Vincent Ruggeri,Edoardo Lavagno,4-1 RET,1.64,0.0%,8.3%,66.7%,62.5%,75.0%,0/0,58.8%,54.5%,0.0%,64.7%,20.0%,2/4,34,0,1,12,8,4,0,0:27
+25-Mar-2024,Naples CH,3,Clay,Q1,290,935,1,10,Alt,Samuel Vincent Ruggeri,Jacopo Berrettini,6-3 7-6(4),1.04,7.9%,4.5%,52.8%,70.2%,47.6%,5/7,51.9%,42.3%,1.4%,38.9%,45.7%,3/9,160,7,4,89,47,42,1,2:05
+18-Mar-2024,Murcia CH,3,Clay,R16,290,120,0,Q,2,Richard Gasquet,Samuel Vincent Ruggeri,6-3 4-6 6-0,0.66,8.2%,3.5%,51.8%,61.4%,51.2%,8/12,43.0%,28.7%,8.8%,22.7%,36.1%,1/4,165,7,3,85,44,41,7,2:19
+18-Mar-2024,Murcia CH,3,Clay,R32,290,182,1,Q,,Samuel Vincent Ruggeri,Lloyd Harris,7-6(4) 6-2,1.53,3.2%,3.2%,61.3%,78.9%,66.7%,2/2,56.3%,39.4%,12.1%,29.3%,56.0%,2/3,128,2,2,62,38,24,8,1:41
+18-Mar-2024,Murcia CH,3,Clay,Q2,290,316,1,3,,Samuel Vincent Ruggeri,Vilius Gaubas,6-3 7-5,1.23,5.4%,4.1%,78.4%,65.5%,43.8%,6/9,55.3%,48.3%,0.0%,43.2%,57.1%,5/8,132,4,3,74,58,16,0,1:48
+18-Mar-2024,Murcia CH,3,Clay,Q1,290,1254,1,3,Alt,Samuel Vincent Ruggeri,Mircea Alexandru Jecan,7-6(4) 6-3,1.15,7.0%,0.0%,52.1%,64.9%,64.7%,5/6,52.4%,40.5%,2.7%,43.1%,31.3%,3/4,145,5,0,71,37,34,2,1:48
+11-Mar-2024,Szekesfehervar CH,3,Clay,R16,299,328,0,Q,Q,Chun Hsin Tseng,Samuel Vincent Ruggeri,2-6 6-2 6-3,1.03,11.0%,2.7%,60.3%,75.0%,44.8%,5/8,49.4%,38.2%,2.2%,34.7%,42.5%,2/6,162,8,2,73,44,29,2,2:15
+11-Mar-2024,Szekesfehervar CH,3,Clay,R32,299,220,1,Q,,Samuel Vincent Ruggeri,Lukas Neumayer,1-6 6-4 6-3,1.14,8.5%,7.0%,59.2%,71.4%,48.3%,5/9,51.2%,43.4%,3.0%,44.3%,41.4%,4/12,170,6,5,71,42,29,3,2:18
+11-Mar-2024,Szekesfehervar CH,3,Clay,Q2,299,417,1,2,,Samuel Vincent Ruggeri,Filip Krajinovic,6-3 6-4,1.76,19.2%,3.8%,67.3%,91.4%,52.9%,0/0,56.8%,37.3%,1.7%,34.9%,43.8%,2/5,111,10,2,52,35,17,1,1:16
+26-Feb-2024,New Delhi CH,3,Hard,R16,306,177,0,Q,4,Dalibor Svrcina,Samuel Vincent Ruggeri,7-5 6-2,0.64,3.6%,14.3%,48.2%,77.8%,31.0%,4/8,41.6%,29.8%,0.0%,27.9%,35.7%,1/1,113,2,8,56,27,29,0,1:36
+26-Feb-2024,New Delhi CH,3,Hard,R32,306,679,1,Q,Q,Samuel Vincent Ruggeri,Siddharth Vishwakarma,6-4 6-2,1.34,5.9%,3.9%,41.2%,81.0%,50.0%,1/3,56.0%,50.0%,5.2%,36.4%,68.0%,5/7,109,3,2,51,21,30,3,1:20
+26-Feb-2024,New Delhi CH,3,Hard,Q2,306,521,1,4,PR,Samuel Vincent Ruggeri,Alexey Zakharov,5-2 RET,1.92,6.3%,6.3%,37.5%,83.3%,70.0%,0/0,58.5%,48.0%,4.0%,33.3%,70.0%,2/4,41,1,1,16,6,10,1,0:29
+26-Feb-2024,New Delhi CH,3,Hard,Q1,306,570,1,4,,Samuel Vincent Ruggeri,Constantin Bittoun Kouzmine,6-2 6-4,1.38,18.9%,3.8%,47.2%,80.0%,53.6%,1/2,55.5%,47.0%,4.5%,45.7%,50.0%,4/10,119,10,2,53,25,28,3,1:45
+19-Feb-2024,Pune CH,3,Hard,Q1,306,425,0,8,,Vadym Ursu,Samuel Vincent Ruggeri,7-6(3) 1-6 6-0,0.89,12.1%,8.8%,60.4%,63.6%,33.3%,8/14,47.3%,42.9%,4.4%,36.5%,51.3%,5/11,182,11,8,91,55,36,4,2:25
+12-Feb-2024,Bengaluru CH,3,Hard,R32,308,673,0,Q,Q,Alexey Zakharov,Samuel Vincent Ruggeri,6-2 7-5,0.77,6.1%,10.6%,62.1%,58.5%,28.0%,4/10,44.1%,41.0%,1.6%,36.8%,47.8%,3/9,127,4,7,66,41,25,1,1:41
+12-Feb-2024,Bengaluru CH,3,Hard,Q2,308,413,1,4,9,Samuel Vincent Ruggeri,Kris Van Wyk,6-0 6-2,1.85,6.4%,8.5%,53.2%,84.0%,50.0%,2/2,64.0%,59.0%,5.1%,55.6%,61.9%,5/7,86,3,4,47,25,22,2,1:07
+12-Feb-2024,Bengaluru CH,3,Hard,Q1,308,437,1,4,,Samuel Vincent Ruggeri,Sasi Kumar Mukund,6-4 6-3,1.60,11.3%,0.0%,49.1%,84.6%,66.7%,4/4,54.9%,39.1%,4.3%,34.1%,48.0%,3/7,122,6,0,53,26,27,3,2:17
+5-Feb-2024,Chennai CH,3,Hard,R16,312,331,0,Alt,,Dominik Palan,Samuel Vincent Ruggeri,6-2 2-6 6-4,0.80,7.9%,9.2%,57.9%,75.0%,46.9%,5/8,47.2%,29.4%,11.8%,24.4%,39.1%,2/2,144,6,7,76,44,32,8,1:48
+5-Feb-2024,Chennai CH,3,Hard,R32,312,220,1,Alt,7,Samuel Vincent Ruggeri,Aziz Dougaz,6-3 6-3,1.72,19.2%,7.7%,46.2%,87.5%,60.7%,2/2,59.3%,46.4%,7.1%,33.3%,58.6%,3/4,108,10,4,52,24,28,4,1:21
+22-Jan-2024,Quimper CH,3,Hard,R32,337,230,0,Q,Alt,Aziz Dougaz,Samuel Vincent Ruggeri,5-7 7-6(4) 6-4,0.71,12.8%,3.7%,53.2%,77.6%,56.9%,3/5,47.7%,22.7%,19.3%,18.6%,31.0%,2/5,197,14,4,109,58,51,17,2:34
+22-Jan-2024,Quimper CH,3,Hard,Q2,337,248,1,9,1,Samuel Vincent Ruggeri,Lucas Poullain,6-2 6-4,1.52,6.0%,4.0%,54.0%,77.8%,60.9%,3/4,57.0%,45.6%,1.8%,30.3%,66.7%,4/6,107,3,2,50,27,23,1,1:28
+22-Jan-2024,Quimper CH,3,Hard,Q1,337,669,1,9,Alt,Samuel Vincent Ruggeri,Maxence Beauge,6-4 6-4,1.53,24.1%,5.6%,61.1%,78.8%,71.4%,1/1,54.6%,36.9%,7.7%,26.7%,60.0%,2/5,119,13,3,54,33,21,5,1:21
+15-Jan-2024,Tenerife CH,3,Hard,QF,337,184,0,Q,Q,Denis Yevseyev,Samuel Vincent Ruggeri,6-3 6-4,0.76,7.9%,6.3%,63.5%,70.0%,30.4%,4/8,45.4%,33.9%,0.0%,28.9%,44.4%,1/2,119,5,4,63,40,23,0,1:25
+15-Jan-2024,Tenerife CH,3,Hard,R16,337,351,1,Q,,Samuel Vincent Ruggeri,Guy Den Ouden,6-0 6-7(5) 6-2,1.34,10.3%,5.7%,56.3%,85.7%,39.5%,4/6,55.6%,46.2%,4.3%,38.6%,58.3%,7/14,180,9,5,87,49,38,4,2:25
+15-Jan-2024,Tenerife CH,3,Hard,R32,337,256,1,Q,,Samuel Vincent Ruggeri,Maxime Janvier,6-3 6-3,1.38,8.1%,8.1%,59.7%,78.4%,56.0%,6/6,57.0%,42.3%,9.6%,32.3%,57.1%,3/3,114,5,5,62,37,25,5,1:21
+15-Jan-2024,Tenerife CH,3,Hard,Q2,337,300,1,11,5,Samuel Vincent Ruggeri,Lorenzo Giustino,6-2 6-3,1.69,15.2%,4.3%,58.7%,77.8%,57.9%,1/2,58.6%,51.4%,2.9%,44.7%,65.2%,5/17,116,7,2,46,27,19,2,1:33
+15-Jan-2024,Tenerife CH,3,Hard,Q1,337,436,1,11,,Samuel Vincent Ruggeri,Carlos Lopez Montagud,6-2 6-1,2.48,18.9%,8.1%,62.2%,87.0%,57.1%,2/3,67.1%,60.4%,0.0%,53.6%,70.0%,6/12,85,7,3,37,23,14,0,0:59
+8-Jan-2024,Oeiras 2 CH,3,Hard,R32,342,244,0,Q,3,Joao Sousa,Samuel Vincent Ruggeri,7-6(5) 3-6 7-6(5),0.93,14.4%,6.7%,51.9%,79.6%,58.0%,0/2,49.3%,28.7%,1.0%,22.6%,35.4%,3/8,205,15,7,104,54,50,1,2:40
+8-Jan-2024,Oeiras 2 CH,3,Hard,Q2,342,307,1,11,3,Samuel Vincent Ruggeri,Dan Added,6-4 6-2,1.62,11.8%,3.9%,56.9%,82.8%,63.6%,3/3,57.8%,41.2%,0.0%,35.7%,47.8%,3/5,102,6,2,51,29,22,0,1:15
+8-Jan-2024,Oeiras 2 CH,3,Hard,Q1,342,362,1,11,,Samuel Vincent Ruggeri,Karl Friberg,6-3 6-2,1.67,17.3%,5.8%,53.8%,85.7%,58.3%,1/1,58.0%,45.0%,5.0%,33.3%,62.5%,3/9,112,9,3,52,28,24,3,1:16
+1-Jan-2024,Oeiras 1 CH,3,Hard,R32,348,249,0,Q,2,Joao Sousa,Samuel Vincent Ruggeri,6-4 6-2,0.42,3.1%,9.2%,40.0%,80.8%,35.9%,2/5,39.6%,19.6%,0.0%,16.7%,25.0%,0/1,111,2,6,65,26,39,0,1:27
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q2,348,494,1,1,,Samuel Vincent Ruggeri,Federico Iannaccone,3-6 7-5 7-5,0.95,7.0%,7.8%,56.5%,66.2%,42.0%,5/11,49.5%,41.9%,5.4%,33.9%,58.1%,6/14,208,8,9,115,65,50,5,3:05
+1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,348,1194,1,1,WC,Samuel Vincent Ruggeri,Rodrigo Fernandes,6-3 6-3,1.77,10.9%,10.9%,43.5%,100.0%,53.8%,0/1,57.7%,46.2%,1.5%,42.1%,51.9%,4/13,111,5,5,46,20,26,1,1:16
+11-Dec-2023,M15 Sharm ElSheikh,3,,F,363,567,1,2,7,Samuel Vincent Ruggeri,Evgeny Philippov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,SF,363,793,1,2,,Samuel Vincent Ruggeri,Alec Beckley,4-2 RET,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,QF,363,,1,2,WC,Samuel Vincent Ruggeri,Aristarkh Safonov,7-6(8) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,R16,363,731,1,2,,Samuel Vincent Ruggeri,Stuart Parker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,,R32,363,784,1,2,,Samuel Vincent Ruggeri,Boris Butulija,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,,F,364,469,1,1,2,Samuel Vincent Ruggeri,Saba Purtseladze,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,,SF,364,530,1,1,3,Samuel Vincent Ruggeri,Yurii Dzhavakian,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,,QF,364,818,1,1,,Samuel Vincent Ruggeri,Max Wiskandt,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,,R16,364,2033,1,1,Q,Samuel Vincent Ruggeri,Jakub Kroslak,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,,R32,364,1404,1,1,Q,Samuel Vincent Ruggeri,Ivan Nedelko,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,Bergamo CH,3,Hard,R32,362,110,0,WC,5,David Goffin,Samuel Vincent Ruggeri,6-4 7-6(4),0.80,9.1%,6.5%,46.8%,58.3%,56.1%,8/11,45.8%,34.2%,6.6%,31.9%,37.9%,2/5,153,7,5,77,36,41,5,2:00
+25-Sep-2023,Orleans CH,3,Hard,Q1,370,144,0,,1,Mattia Bellucci,Samuel Vincent Ruggeri,6-3 4-6 7-5,0.89,11.8%,7.5%,58.1%,68.5%,51.3%,6/9,47.2%,34.3%,6.9%,25.9%,43.8%,2/11,195,11,7,93,54,39,7,2:41
+18-Sep-2023,Saint-Tropez CH,3,Hard,Q1,365,1998,0,10,WC,Mikail Alimli,Samuel Vincent Ruggeri,3-6 7-6(6) 7-6(8),1.06,9.4%,8.5%,52.1%,73.8%,48.2%,5/9,50.8%,40.8%,4.8%,32.9%,53.1%,5/16,242,11,10,117,61,56,6,3:03
+11-Sep-2023,Rennes CH,3,Hard,Q1,364,884,0,6,,Patrick Brady,Samuel Vincent Ruggeri,7-6(5) 6-4,0.76,8.9%,5.1%,53.2%,69.0%,54.1%,2/4,46.6%,29.0%,1.4%,22.2%,41.7%,1/3,148,7,4,79,42,37,1,1:56
 4-Sep-2023,Genoa CH,3,Clay,Q2,385,623,0,4,,Andrea Picchione,Samuel Vincent Ruggeri,6-3 6-2,0.71,1.7%,6.9%,46.6%,51.9%,48.4%,3/7,42.5%,35.5%,1.6%,27.8%,46.2%,1/5,120,1,4,58,27,31,1,1:39
 4-Sep-2023,Genoa CH,3,Clay,Q1,385,685,1,4,,Samuel Vincent Ruggeri,Luca Giacomini,7-6(6) 4-6 6-3,0.86,8.9%,8.9%,57.7%,70.4%,44.2%,12/15,48.8%,34.8%,2.2%,33.3%,36.8%,3/5,215,11,11,123,71,52,2,2:59
 28-Aug-2023,Como CH,3,Clay,R16,385,132,0,Q,5,Pedro Martinez,Samuel Vincent Ruggeri,6-4 7-6(4),0.95,8.7%,5.8%,62.3%,76.7%,30.8%,1/4,48.0%,38.6%,0.0%,33.3%,52.2%,2/7,152,6,4,69,43,26,0,2:14

@@ -1,6 +1,67 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-10-Sep-2023,Guangzhou CH,3,Hard,Q2,402,1222,0,3,,Arjun Kadhe,Stefanos Sakellaridis,6-3 6-1,0.51,5.1%,6.8%,59.3%,57.1%,37.5%,6/10,39.0%,26.1%,6.5%,20.0%,37.5%,0/2,105,3,4,59,35,24,3,1:13
-10-Sep-2023,Guangzhou CH,3,Hard,Q1,402,964,1,3,,Stefanos Sakellaridis,Matthew Christopher Romios,5-2 RET,2.71,5.3%,0.0%,73.7%,85.7%,80.0%,0/0,62.5%,42.9%,14.3%,30.8%,62.5%,1/2,40,1,0,19,14,5,3,0:29
+5-May-2024,Santos CH,3,Clay,R32,399,601,0,,Q,Leonardo Aboian,Stefanos Sakellaridis,6-3 2-1 RET,0.59,12.1%,9.1%,60.6%,70.0%,38.5%,0/2,41.5%,25.0%,3.1%,20.8%,37.5%,0/0,65,4,3,33,20,13,1,0:58
+29-Apr-2024,Porto Alegre CH,3,Clay,R32,429,458,0,,,Nicolas Zanellato,Stefanos Sakellaridis,6-3 6-7(6) 7-6(5),0.91,8.3%,5.8%,55.8%,73.1%,45.3%,5/8,48.3%,35.8%,0.0%,29.3%,57.1%,2/11,240,10,7,120,67,53,0,2:54
+22-Apr-2024,Concepcion CH,3,Clay,SF,429,246,0,Q,2,Juan Pablo Ficovich,Stefanos Sakellaridis,6-2 7-5,0.74,7.6%,4.5%,59.1%,59.0%,40.7%,4/9,43.8%,35.9%,1.6%,21.2%,51.6%,2/8,130,5,3,66,39,27,1,1:31
+22-Apr-2024,Concepcion CH,3,Clay,QF,429,406,1,Q,,Stefanos Sakellaridis,Facundo Mena,6-4 0-6 6-3,1.06,2.8%,5.6%,53.5%,63.2%,57.6%,2/7,50.7%,42.0%,3.7%,34.6%,55.2%,4/8,152,2,4,71,38,33,3,1:51
+22-Apr-2024,Concepcion CH,3,Clay,R16,429,299,1,Q,5,Stefanos Sakellaridis,Ergi Kirkin,6-3 3-6 7-5,1.09,2.3%,0.0%,61.4%,74.1%,55.9%,1/3,50.8%,36.1%,3.1%,23.7%,55.3%,3/9,185,2,0,88,54,34,3,2:19
+22-Apr-2024,Concepcion CH,3,Clay,R32,429,423,1,Q,,Stefanos Sakellaridis,Gonzalo Villanueva,6-3 6-4,1.52,22.6%,3.8%,62.3%,81.8%,55.0%,0/1,56.8%,43.1%,3.4%,34.3%,56.5%,3/6,111,12,2,53,33,20,2,1:29
+22-Apr-2024,Concepcion CH,3,Clay,Q2,429,661,1,1,7,Stefanos Sakellaridis,Gabriel Decamps,6-4 6-4,1.27,5.5%,2.7%,65.8%,60.4%,44.0%,5/9,56.0%,57.4%,3.3%,55.3%,64.3%,6/11,134,4,2,73,48,25,2,1:38
+22-Apr-2024,Concepcion CH,3,Clay,Q1,429,895,1,1,,Stefanos Sakellaridis,Ignacio Carou,6-3 4-0 RET,2.80,8.6%,0.0%,54.3%,84.2%,81.3%,0/0,62.7%,47.9%,0.0%,44.1%,57.1%,3/7,83,3,0,35,19,16,0,1:01
+15-Apr-2024,Gwangju CH,3,Hard,Q1,427,290,0,,2,Luke Saville,Stefanos Sakellaridis,6-2 4-6 6-2,0.90,9.1%,1.3%,67.5%,75.0%,32.0%,2/6,46.3%,35.0%,1.0%,29.6%,48.3%,1/8,177,7,1,77,52,25,1,1:59
+8-Apr-2024,Busan CH,3,Hard,Q1,429,,0,,10,Yun Seong Chung,Stefanos Sakellaridis,1-6 6-2 6-3,0.78,3.4%,1.1%,64.4%,66.1%,45.2%,8/11,47.1%,32.4%,1.5%,24.4%,47.8%,2/2,155,3,1,87,56,31,1,1:36
+1-Apr-2024,M15 Kashiwa,3,Hard,R32,430,855,0,2,LL,Leo Vithoontien,Stefanos Sakellaridis,4-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,QF,455,786,0,2,WC,Kokoro Isomura,Stefanos Sakellaridis,6-2 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R16,455,746,1,2,Q,Stefanos Sakellaridis,Daisuke Sumizawa,6-3 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Mar-2024,M15 Tsukuba,3,Hard,R32,455,1422,1,2,,Stefanos Sakellaridis,Tianhui Zhang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,SF,455,672,0,3,,Duck Hee Lee,Stefanos Sakellaridis,7-6(5) 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,QF,455,878,1,3,Q,Stefanos Sakellaridis,Leo Vithoontien,6-2 6-7(7) 7-6(3),,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R16,455,2046,1,3,,Stefanos Sakellaridis,Seungmin Park,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Mar-2024,M15 Nishi-Tokyo,3,Hard,R32,455,1016,1,3,Q,Stefanos Sakellaridis,Koki Matsuda,5-7 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Hinode,3,Hard,F,473,363,0,2,1,Yan Bai,Stefanos Sakellaridis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Hinode,3,Hard,SF,473,583,1,2,5,Stefanos Sakellaridis,Hikaru Shiraishi,6-7(2) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Hinode,3,Hard,QF,473,916,1,2,,Stefanos Sakellaridis,Kosuke Ogura,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Hinode,3,Hard,R16,473,778,1,2,,Stefanos Sakellaridis,Kokoro Isomura,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Mar-2024,M15 Hinode,3,Hard,R32,473,715,1,2,,Stefanos Sakellaridis,Jimmy Yang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,F,477,479,0,3,4,Jie Cui,Stefanos Sakellaridis,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,SF,477,973,1,3,Q,Stefanos Sakellaridis,Maik Steiner,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,QF,477,573,1,3,6,Stefanos Sakellaridis,Maximus Jones,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,477,1279,1,3,,Stefanos Sakellaridis,Matic Kriznik,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,477,831,1,3,,Stefanos Sakellaridis,Bang Shuo Yin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,QF,486,997,0,3,Q,Maik Steiner,Stefanos Sakellaridis,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,486,666,1,3,,Stefanos Sakellaridis,Kasidit Samrej,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,486,653,1,3,,Stefanos Sakellaridis,Duck Hee Lee,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,SF,486,503,0,2,3,Jie Cui,Stefanos Sakellaridis,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,QF,486,623,1,2,8,Stefanos Sakellaridis,Luca Castelnuovo,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,486,727,1,2,,Stefanos Sakellaridis,Linang Xiao,7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,486,790,1,2,,Stefanos Sakellaridis,Yeongseok Jeong,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Feb-2024,Burnie 2 CH,3,Hard,R32,458,213,0,,3,Li Tu,Stefanos Sakellaridis,6-3 6-3,0.71,6.3%,3.2%,57.1%,69.4%,37.0%,7/11,44.7%,31.4%,0.0%,25.0%,46.7%,1/3,114,4,2,63,36,27,0,1:23
+29-Jan-2024,Burnie CH,3,Hard,R32,451,291,0,,,Alex Bolt,Stefanos Sakellaridis,6-0 6-3,0.36,8.9%,6.7%,60.0%,48.1%,44.4%,4/8,33.3%,19.0%,9.5%,4.8%,33.3%,0/1,87,4,3,45,27,18,4,1:02
+8-Jan-2024,Nonthaburi 2 CH,3,Hard,Q2,459,443,0,,,Yusuke Takahashi,Stefanos Sakellaridis,7-6(3) 6-3,0.78,15.5%,0.0%,57.7%,78.0%,46.7%,3/4,45.6%,27.6%,3.9%,19.1%,41.4%,0/5,147,11,0,71,41,30,3,2:01
+8-Jan-2024,Nonthaburi 2 CH,3,Hard,Q1,459,400,1,,11,Stefanos Sakellaridis,Matija Pecotic,7-5 0-6 6-2,1.01,8.2%,1.4%,56.2%,70.7%,43.8%,2/6,49.7%,41.5%,3.7%,32.0%,56.3%,4/11,155,6,1,73,41,32,3,2:02
+1-Jan-2024,United Cup,3,Hard,RR,416,19,0,,,Nicolas Jarry,Stefanos Sakellaridis,6-3 3-6 7-5,0.39,3.8%,1.0%,58.7%,70.5%,51.2%,10/12,43.6%,14.7%,11.8%,16.3%,10.5%,1/1,172,4,1,104,61,43,8,2:22
+18-Dec-2023,M15 Monastir,3,,QF,413,544,0,2,5,Alexander Cozbinov,Stefanos Sakellaridis,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,,R16,413,889,1,2,,Stefanos Sakellaridis,Samir Banerjee,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,,R32,413,,1,2,Q,Stefanos Sakellaridis,Miles Groom,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,,R16,407,704,0,3,,Arthur Bouquier,Stefanos Sakellaridis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,,R32,407,764,1,3,,Stefanos Sakellaridis,Tiago Pereira,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,,R16,407,990,0,3,Q,Adit Sinha,Stefanos Sakellaridis,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,,R32,407,1477,1,3,Q,Stefanos Sakellaridis,Nathan Seateun,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,Maia CH,3,Clay,R32,403,197,0,LL,,Denis Yevseyev,Stefanos Sakellaridis,6-2 7-6(5),0.71,2.3%,0.0%,65.1%,69.6%,36.7%,8/11,46.0%,29.7%,1.6%,19.0%,50.0%,1/5,150,2,0,86,56,30,1,1:36
+27-Nov-2023,Maia CH,3,Clay,Q2,403,494,0,2,,Anton Matusevich,Stefanos Sakellaridis,6-1 6-2,0.33,0.0%,0.0%,73.8%,54.8%,45.5%,5/9,35.0%,15.8%,0.0%,30.0%,0.0%,0/0,80,0,0,42,31,11,0,0:58
+27-Nov-2023,Maia CH,3,Clay,Q1,403,1649,1,2,Alt,Stefanos Sakellaridis,Goncalo Falcao,6-2 6-3,1.31,8.2%,3.3%,54.1%,66.7%,50.0%,3/5,57.0%,53.8%,0.0%,54.2%,53.3%,5/7,100,5,2,61,33,28,0,1:19
+20-Nov-2023,M15 Heraklion,3,,R32,404,567,0,1,,Arthur Gea,Stefanos Sakellaridis,6-3 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,Danderyd CH,3,Hard,Q1,408,575,0,10,,Mika Brunold,Stefanos Sakellaridis,6-0 6-3,0.55,5.0%,1.7%,51.7%,54.8%,37.9%,7/12,39.4%,29.5%,9.1%,16.7%,45.0%,0/5,104,3,1,60,31,29,4,1:17
+6-Nov-2023,Helsinki CH,3,Hard,Q1,411,,0,12,Alt,Luke Johnson,Stefanos Sakellaridis,3-6 6-1 7-6(5),0.71,5.1%,8.2%,66.3%,72.3%,33.3%,10/13,45.8%,29.1%,1.3%,25.0%,35.5%,2/6,177,5,8,98,65,33,1,
+30-Oct-2023,M25 Heraklion,3,Hard,R32,402,1076,0,6,Q,Guy Den Heijer,Stefanos Sakellaridis,5-7 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Heraklion,3,Hard,R16,405,671,0,3,,Oleg Prihodko,Stefanos Sakellaridis,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M15 Heraklion,3,Hard,R32,405,1444,1,3,LL,Stefanos Sakellaridis,Alexander Orlov,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Heraklion,3,Hard,R32,403,981,0,1,,Dax Donders,Stefanos Sakellaridis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Pazardzhik,3,Clay,R32,399,758,0,5,,Simon Anthony Ivanov,Stefanos Sakellaridis,7-5 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R16,400,1694,0,4,Q,Nikola Kolyachev,Stefanos Sakellaridis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Pazardzhik,3,Clay,R32,400,,1,4,WC,Stefanos Sakellaridis,Viktor Kirov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Sep-2023,Zhuhai,3,Hard,Q1,396,313,0,,7,Luke Saville,Stefanos Sakellaridis,7-5 6-7(6) 6-4,0.87,4.4%,5.3%,63.2%,73.6%,38.1%,8/12,47.2%,34.5%,5.0%,26.4%,56.3%,2/4,233,5,6,114,72,42,6,3:28
+11-Sep-2023,Guangzhou CH,3,Hard,Q2,402,1222,0,3,,Arjun Kadhe,Stefanos Sakellaridis,6-3 6-1,0.51,5.1%,6.8%,59.3%,57.1%,37.5%,6/10,39.0%,26.1%,6.5%,20.0%,37.5%,0/2,105,3,4,59,35,24,3,1:13
+11-Sep-2023,Guangzhou CH,3,Hard,Q1,402,964,1,3,,Stefanos Sakellaridis,Matthew Christopher Romios,5-2 RET,2.71,5.3%,0.0%,73.7%,85.7%,80.0%,0/0,62.5%,42.9%,14.3%,30.8%,62.5%,1/2,40,1,0,19,14,5,3,0:29
 4-Sep-2023,Shanghai CH,3,Hard,Q1,419,586,0,7,,Tao Mu,Stefanos Sakellaridis,7-5 0-0 RET,0.75,9.1%,0.0%,63.6%,76.2%,33.3%,2/4,44.3%,29.7%,2.7%,28.6%,33.3%,1/7,70,3,0,33,21,12,1,1:14
 28-Aug-2023,Zhangjiagang CH,3,Hard,R16,419,497,0,,LL,Yusuke Takahashi,Stefanos Sakellaridis,6-3 6-1,0.57,9.6%,5.8%,63.5%,60.6%,42.1%,3/7,40.6%,26.5%,2.0%,20.6%,40.0%,0/4,101,5,3,52,33,19,1,1:18
 28-Aug-2023,Zhangjiagang CH,3,Hard,R32,419,371,1,,,Stefanos Sakellaridis,Evan Zhu,7-5 7-6(6),1.27,9.0%,2.6%,59.0%,69.6%,71.9%,6/7,54.2%,37.3%,4.0%,31.4%,42.5%,2/3,153,7,2,78,46,32,3,1:44
@@ -14,9 +75,13 @@
 7-Aug-2023,Meerbusch CH,3,Clay,Q2,458,768,0,2,PR,Martin Krumich,Stefanos Sakellaridis,6-3 7-5,0.87,3.0%,3.0%,54.5%,50.0%,53.3%,6/11,46.5%,42.1%,1.3%,32.6%,54.5%,3/10,142,2,2,66,36,30,1,1:51
 7-Aug-2023,Meerbusch CH,3,Clay,Q1,458,1331,1,2,WC,Stefanos Sakellaridis,Daniel Salazar Martinez,7-6(4) 6-4,1.24,1.4%,4.2%,62.5%,64.4%,59.3%,3/5,53.9%,46.3%,1.2%,42.6%,53.6%,3/12,154,1,3,72,45,27,1,1:42
 31-Jul-2023,Luedenscheid CH,3,Clay,Q1,459,629,0,8,,Hazem Naw,Stefanos Sakellaridis,6-3 6-0,0.58,5.0%,10.0%,47.5%,47.4%,42.9%,3/7,37.5%,32.1%,0.0%,21.6%,52.6%,0/6,96,2,4,40,19,21,0,1:09
+24-Jul-2023,M15 Metzinger,3,Clay,R32,464,958,0,1,,Kai Lemstra,Stefanos Sakellaridis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 EschAlzette,3,Clay,QF,464,591,0,1,6,Alex Knaff,Stefanos Sakellaridis,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 EschAlzette,3,Clay,R16,464,,1,1,Q,Stefanos Sakellaridis,Samuel Brosset,6-3 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M25 EschAlzette,3,Clay,R32,464,1444,1,1,Q,Stefanos Sakellaridis,Brian Bozemoj,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Esch/Alzette,3,Clay,R32,,,0,2,Q,Marlon Vankan,Stefanos Sakellaridis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R16,483,661,0,6,,Imanol Lopez Morillo,Stefanos Sakellaridis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R32,483,1455,1,6,Q,Stefanos Sakellaridis,Vicente Oliver Moratalla,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Bakio,3,Hard,SF,487,362,0,,5,Lucas Poullain,Stefanos Sakellaridis,1-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Bakio,3,Hard,QF,487,,1,,WC,Stefanos Sakellaridis,Antonio Prat,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Bakio,3,Hard,R16,487,554,1,,8,Stefanos Sakellaridis,Oscar Jose Gutierrez,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -51,7 +116,7 @@
 27-Mar-2023,M25 Trento,3,Hard,R16,580,445,0,,6,Jerome Kym,Stefanos Sakellaridis,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Mar-2023,M25 Trento,3,Hard,R32,580,636,1,,,Stefanos Sakellaridis,Daniel Little,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
 20-Mar-2023,M25 Palmanova,3,Clay,R16,580,333,0,,6,Stefano Travaglia,Stefanos Sakellaridis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Mar-2023,M25 Palmanova,3,Clay,R32,580,,1,,,Stefanos Sakellaridis,Coleman Wong,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Mar-2023,M25 Palmanova,3,Clay,R32,580,692,1,,,Stefanos Sakellaridis,Coleman Wong,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Mar-2023,M25 Palmanova,3,Clay,R16,578,310,0,Q,1,Javier Barranco Cosano,Stefanos Sakellaridis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Mar-2023,M25 Palmanova,3,Clay,R32,578,,1,Q,WC,Stefanos Sakellaridis,Ye Hongyu,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2023,M15 Monastir,3,Hard,R16,578,1123,0,5,Q,Hikaru Shiraishi,Stefanos Sakellaridis,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -133,7 +198,7 @@
 10-Jan-2022,M25 Manacor,3,Hard,R32,1377,907,0,Q,,Christian Sigsgaard,Stefanos Sakellaridis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Nov-2021,M15 Torello,3,Hard,QF,2059,974,0,Q,,Marco Brugnerotto,Stefanos Sakellaridis,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
 1-Nov-2021,M15 Torello,3,Hard,R16,2059,579,1,Q,3,Stefanos Sakellaridis,Aleksandre Metreveli,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-1-Nov-2021,M15 Torello,3,Hard,R32,2059,1917,1,Q,Q,Stefanos Sakellaridis,Marc Othman Ktiri ,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Nov-2021,M15 Torello,3,Hard,R32,2059,1917,1,Q,Q,Stefanos Sakellaridis,Marc Othman Ktiri,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 25-Oct-2021,M15 Madrid,3,Clay,R16,2050,1486,0,Q,Q,Lucas Bouquet,Stefanos Sakellaridis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 25-Oct-2021,M15 Madrid,3,Clay,R32,2050,1446,1,Q,Q,Stefanos Sakellaridis,Jaime Caldes,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Sep-2021,M25 Pardubice,3,Clay,R32,1992,1237,0,Q,WC,Daniel Siniakov,Stefanos Sakellaridis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

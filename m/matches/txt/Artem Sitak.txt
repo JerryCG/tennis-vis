@@ -1,21 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+6-Jan-2024,Auckland,3,Hard,Q1,,87,0,Alt,,Luca Van Assche,Artem Sitak,6-1 6-1,0.22,7.0%,7.0%,49.1%,64.3%,24.1%,6/11,32.6%,12.5%,6.3%,5.9%,20.0%,0/0,89,4,4,57,28,29,2,0:53
 6-Nov-2017,Mouilleron-Le-Captif CH,3,Hard,Q1,,478,0,,,Maxime Tabatruong,Artem Sitak,6-4 6-4,0.71,0.0%,9.5%,47.6%,63.3%,48.5%,9/13,44.2%,31.6%,3.5%,33.3%,28.6%,2/4,120,0,6,63,30,33,2,1:15
 9-Jan-2017,Auckland,3,Hard,R32,,71,0,WC,,Jeremy Chardy,Artem Sitak,6-4 6-2,0.50,7.1%,3.6%,55.4%,74.2%,44.0%,3/6,42.2%,19.6%,2.2%,22.2%,15.8%,0/0,102,4,2,56,31,25,1,1:01
 26-Sep-2016,Chengdu,3,Hard,Q1,1161,150,0,,6,Michael Berrer,Artem Sitak,7-5 2-0 RET,0.69,5.5%,9.1%,54.5%,60.0%,32.0%,6/10,42.7%,36.6%,2.4%,32.3%,50.0%,2/4,96,3,5,55,30,25,1,0:59
-19-Sep-2016,Metz,3,Hard,Q1,1168,202,0,Alt,8,Gregoire Barrere,Artem Sitak,6-3 6-4,0.63,12.5%,5.4%,50.0%,85.7%,39.3%,4/6,43.2%,23.6%,5.5%,13.9%,42.1%,0/3,111,7,3,56,28,28,3,0:55
+19-Sep-2016,Metz,3,Hard,Q1,1168,202,0,ALT,8,Gregoire Barrere,Artem Sitak,6-3 6-4,0.63,12.5%,5.4%,50.0%,85.7%,39.3%,4/6,43.2%,23.6%,5.5%,13.9%,42.1%,0/3,111,7,3,56,28,28,3,0:55
 11-Jan-2016,Auckland,3,Hard,Q1,1210,299,0,WC,6,Matthew Barton,Artem Sitak,7-6(8) 6-0,0.70,1.4%,13.7%,56.2%,70.7%,34.4%,2/6,44.1%,31.7%,9.5%,18.4%,52.0%,1/1,136,1,10,73,41,32,6,1:09
-28-Sep-2015,Kuala Lumpur Q,3,Hard,Q3,1382,248,0,,,Mischa Zverev,Artem Sitak,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-28-Sep-2015,Kuala Lumpur Q,3,Hard,Q2,1382,170,1,,6,Artem Sitak,Thomas Fabbiano,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Sep-2015,Kuala Lumpur Q,3,Hard,Q1,1382,232,1,,,Artem Sitak,Jonathan Eysseric,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Jun-2015,s-Hertogenbosch Q,3,Grass,Q1,1112,156,0,,,Jurgen Zopp,Artem Sitak,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Apr-2015,Bucharest Q,3,Clay,Q1,1099,158,0,,3,Jurgen Zopp,Artem Sitak,W/O,,,,,,,,,,,,,,,,,,,,,
-5-Jan-2015,Doha Q,3,Hard,Q2,930,118,0,,5,Farrukh Dustov,Artem Sitak,7-5 6-3,0.57,9.1%,12.7%,56.4%,71.0%,45.8%,2/5,41.7%,22.6%,3.8%,18.9%,31.3%,1/2,108,5,7,55,31,24,2,1:02
-5-Jan-2015,Doha Q,3,Hard,Q1,930,,1,,WC,Artem Sitak,Issa Shanan Al Harrasi,6-1 6-1,3.75,21.2%,3.0%,75.8%,88.0%,75.0%,0/0,67.9%,56.9%,0.0%,50.0%,68.4%,5/9,84,7,1,33,25,8,0,0:39
+28-Sep-2015,Kuala Lumpur,3,Hard,Q3,1382,248,0,,,Mischa Zverev,Artem Sitak,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Kuala Lumpur,3,Hard,Q2,1382,170,1,,6,Artem Sitak,Thomas Fabbiano,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Sep-2015,Kuala Lumpur,3,Hard,Q1,1382,232,1,,,Artem Sitak,Jonathan Eysseric,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jun-2015,s Hertogenbosch,3,Grass,Q1,1112,156,0,,,Jurgen Zopp,Artem Sitak,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Apr-2015,Bucharest,3,Clay,Q1,1099,158,0,,3,Jurgen Zopp,Artem Sitak,W/O,,,,,,,,,,,,,,,,,,,,,
+5-Jan-2015,Doha,3,Hard,Q2,930,118,0,,5,Farrukh Dustov,Artem Sitak,7-5 6-3,0.57,9.1%,12.7%,56.4%,71.0%,45.8%,2/5,41.7%,22.6%,3.8%,18.9%,31.3%,1/2,108,5,7,55,31,24,2,1:02
+5-Jan-2015,Doha,3,Hard,Q1,930,,1,,WC,Artem Sitak,Issa Shanan Al Harrasi,6-1 6-1,3.75,21.2%,3.0%,75.8%,88.0%,75.0%,0/0,67.9%,56.9%,0.0%,50.0%,68.4%,5/9,84,7,1,33,25,8,0,0:39
 3-Nov-2014,Traralgon2 CH,3,Hard,R32,916,172,0,Q,6,Luke Saville,Artem Sitak,6-4 6-2,0.84,1.6%,4.9%,67.2%,43.9%,50.0%,3/9,45.7%,45.6%,5.9%,34.8%,68.2%,3/6,129,1,3,61,41,20,4,1:32
 22-Sep-2014,Orleans CH,3,Hard,R32,877,77,0,Q,3,Jiri Vesely,Artem Sitak,6-2 7-5,0.71,1.4%,7.1%,57.1%,65.0%,26.7%,1/7,43.2%,36.4%,3.6%,25.7%,55.0%,3/5,125,1,5,70,40,30,2,1:20
-6-Jan-2014,Auckland Q,3,Hard,Q3,591,96,0,,3,Donald Young,Artem Sitak,6-1 3-6 6-1,0.82,1.2%,5.9%,64.7%,60.0%,26.7%,4/10,45.1%,42.2%,0.0%,40.6%,46.2%,3/9,175,1,5,85,55,30,0,1:42
-6-Jan-2014,Auckland Q,3,Hard,Q2,591,282,1,,6,Artem Sitak,Hiroki Kondo,6-3 6-4,1.34,6.0%,7.5%,53.7%,75.0%,41.9%,5/8,56.6%,53.9%,0.0%,58.7%,46.7%,6/15,143,4,5,67,36,31,0,1:28
-6-Jan-2014,Auckland Q,3,Hard,Q1,591,,1,,WC,Artem Sitak,Martin Colenbrander,6-0 6-2,2.29,11.6%,7.0%,48.8%,85.7%,59.1%,1/1,68.4%,63.9%,0.0%,57.9%,70.6%,5/7,79,5,3,43,21,22,0,0:46
+6-Jan-2014,Auckland,3,Hard,Q3,591,96,0,,3,Donald Young,Artem Sitak,6-1 3-6 6-1,0.82,1.2%,5.9%,64.7%,60.0%,26.7%,4/10,45.1%,42.2%,0.0%,40.6%,46.2%,3/9,175,1,5,85,55,30,0,1:42
+6-Jan-2014,Auckland,3,Hard,Q2,591,282,1,,6,Artem Sitak,Hiroki Kondo,6-3 6-4,1.34,6.0%,7.5%,53.7%,75.0%,41.9%,5/8,56.6%,53.9%,0.0%,58.7%,46.7%,6/15,143,4,5,67,36,31,0,1:28
+6-Jan-2014,Auckland,3,Hard,Q1,591,,1,,WC,Artem Sitak,Martin Colenbrander,6-0 6-2,2.29,11.6%,7.0%,48.8%,85.7%,59.1%,1/1,68.4%,63.9%,0.0%,57.9%,70.6%,5/7,79,5,3,43,21,22,0,0:46
 18-Nov-2013,Toyota CH,3,Carpet,R32,466,151,0,Q,3,Pierre Hugues Herbert,Artem Sitak,6-3 6-4,0.70,3.6%,3.6%,60.7%,67.6%,50.0%,2/4,43.9%,27.6%,19.0%,18.6%,53.3%,0/0,114,2,2,56,34,22,11,1:04
 30-Sep-2013,Sao Paulo4 CH,3,Clay,R16,443,168,0,Q,,Facundo Arguello,Artem Sitak,6-4 6-2,0.50,7.4%,1.5%,52.9%,66.7%,40.6%,6/9,41.4%,22.9%,2.1%,18.5%,28.6%,0/2,116,5,1,68,36,32,1,1:21
 30-Sep-2013,Sao Paulo4 CH,3,Clay,R32,443,294,1,Q,Q,Artem Sitak,Bjorn Fratangelo,6-7(2) 6-2 6-3,1.24,5.6%,5.6%,57.8%,65.4%,57.9%,2/5,53.8%,46.7%,1.0%,29.6%,64.7%,7/18,195,5,5,90,52,38,1,2:02
@@ -58,9 +59,10 @@
 19-Nov-2012,Cambodia F1,3,Hard,R16,716,986,1,,,Artem Sitak,Wan Gao,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Nov-2012,Cambodia F1,3,Hard,R32,716,839,1,,,Artem Sitak,Filip Veger,7-5 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 5-Nov-2012,USA F31,3,Clay,SF,771,441,0,Q,4,Chase Buchanan,Artem Sitak,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Nov-2012,USA F31,3,Clay,QF,771,1156,1,Q,,Artem Sitak,Phil Whitesell,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,USA F31,3,Clay,QF,771,1156,1,Q,,Artem Sitak,Ryan Thacher,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Nov-2012,USA F31,3,Clay,R16,771,459,1,Q,2,Artem Sitak,Alexandre Folie,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Nov-2012,USA F31,3,Clay,R32,771,,1,Q,Q,Artem Sitak,Mark Oljaca,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Nov-2012,USA F31,3,Clay,Q4,771,,1,1,,Artem Sitak,Dillon Pottish,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Oct-2012,Turkey F39,3,Hard,R16,727,375,0,,4,Norbert Gombos,Artem Sitak,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Oct-2012,Turkey F39,3,Hard,R32,727,612,1,,,Artem Sitak,Andrei Ciumac,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 1-Oct-2012,Turkey F38,3,Hard,R32,806,280,0,,2,Stephane Bohli,Artem Sitak,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -70,9 +72,9 @@
 24-Sep-2012,Turkey F37,3,Hard,R32,700,274,1,,2,Artem Sitak,Stephane Bohli,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Sep-2012,Davis Cup G1 PO: IND vs NZL,3,Hard,RR,705,367,0,,,Sanam Singh,Artem Sitak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 30-Jul-2012,Italy F20,3,Clay,R32,533,331,0,Q,,Andrea Arnaboldi,Artem Sitak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Jul-2012,Stuttgart Q,3,Clay,Q1,499,191,0,,5,Robert Farah,Artem Sitak,6-2 6-0,0.35,4.5%,15.2%,47.0%,64.5%,28.6%,9/14,35.9%,18.9%,2.7%,16.7%,21.1%,0/0,103,3,10,66,31,35,1,1:08
-17-Jun-2012,s-Hertogenbosch Q,3,Grass,Q2,435,295,0,,,Nikola Mektic,Artem Sitak,6-7(4) 6-3 6-2,0.72,10.4%,7.5%,53.8%,75.4%,34.7%,6/10,45.3%,31.4%,2.3%,16.3%,51.4%,0/5,192,11,8,106,57,49,2,2:03
-17-Jun-2012,s-Hertogenbosch Q,3,Grass,Q1,435,209,1,,4,Artem Sitak,Peter Torebko,6-4 7-6(4),1.24,2.9%,7.2%,53.6%,70.3%,50.0%,1/5,53.7%,48.4%,5.4%,30.0%,62.3%,5/14,162,2,5,69,37,32,5,1:52
+9-Jul-2012,Stuttgart,3,Clay,Q1,499,191,0,,5,Robert Farah,Artem Sitak,6-2 6-0,0.35,4.5%,15.2%,47.0%,64.5%,28.6%,9/14,35.9%,18.9%,2.7%,16.7%,21.1%,0/0,103,3,10,66,31,35,1,1:08
+17-Jun-2012,s Hertogenbosch,3,Grass,Q2,435,295,0,,,Nikola Mektic,Artem Sitak,6-7(4) 6-3 6-2,0.72,10.4%,7.5%,53.8%,75.4%,34.7%,6/10,45.3%,31.4%,2.3%,16.3%,51.4%,0/5,192,11,8,106,57,49,2,2:03
+17-Jun-2012,s Hertogenbosch,3,Grass,Q1,435,209,1,,4,Artem Sitak,Peter Torebko,6-4 7-6(4),1.24,2.9%,7.2%,53.6%,70.3%,50.0%,1/5,53.7%,48.4%,5.4%,30.0%,62.3%,5/14,162,2,5,69,37,32,5,1:52
 4-Jun-2012,Italy F12,3,Clay,R32,436,465,0,,,Federico Gaio,Artem Sitak,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-May-2012,Italy F11,3,Clay,R32,436,257,0,,6,Marco Trungelliti,Artem Sitak,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Apr-2012,Tallahassee CH,3,Hard,R32,424,118,0,Q,9,Frank Dancevic,Artem Sitak,6-0 6-4,0.51,3.1%,12.3%,44.6%,72.4%,25.0%,6/11,38.5%,27.3%,9.1%,22.7%,31.8%,1/4,109,2,8,65,29,36,4,1:15
@@ -80,12 +82,12 @@
 19-Mar-2012,USA F8,3,Hard,R16,429,1055,1,8,Q,Artem Sitak,Nicolas Meister,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Mar-2012,USA F8,3,Hard,R32,429,1245,1,8,LL,Artem Sitak,Jason Jung,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2012,USA F7,3,Hard,R32,429,1097,0,6,Q,Daniel Stahl,Artem Sitak,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2012,Delray Beach Q,3,Hard,Q2,427,388,0,,,Nicholas Monroe,Artem Sitak,4-6 6-2 6-2,0.78,6.3%,11.6%,57.9%,63.6%,37.5%,11/17,45.5%,37.0%,4.9%,29.8%,47.1%,3/9,176,6,11,95,55,40,4,1:56
-27-Feb-2012,Delray Beach Q,3,Hard,Q1,427,830,1,,WC,Artem Sitak,Sekou Bangoura,6-2 7-6(8),1.27,9.1%,6.5%,59.7%,76.1%,48.4%,0/1,54.4%,44.4%,0.0%,43.1%,47.8%,3/11,158,7,5,77,46,31,0,2:02
+27-Feb-2012,Delray Beach,3,Hard,Q2,427,388,0,,,Nicholas Monroe,Artem Sitak,4-6 6-2 6-2,0.78,6.3%,11.6%,57.9%,63.6%,37.5%,11/17,45.5%,37.0%,4.9%,29.8%,47.1%,3/9,176,6,11,95,55,40,4,1:56
+27-Feb-2012,Delray Beach,3,Hard,Q1,427,830,1,,WC,Artem Sitak,Sekou Bangoura,6-2 7-6(8),1.27,9.1%,6.5%,59.7%,76.1%,48.4%,0/1,54.4%,44.4%,0.0%,43.1%,47.8%,3/11,158,7,5,77,46,31,0,2:02
 10-Feb-2012,Davis Cup G1 R1: NZL vs UZB,3,Hard,RR,424,524,1,,,Artem Sitak,Murad Inoyatov,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Jan-2012,Auckland Q,3,Hard,Q3,433,87,0,,4,Adrian Mannarino,Artem Sitak,6-1 6-0,0.52,8.9%,8.9%,33.9%,52.6%,35.1%,5/11,36.8%,30.8%,0.0%,24.0%,42.9%,0/3,95,5,5,56,19,37,0,1:08
-9-Jan-2012,Auckland Q,3,Hard,Q2,433,707,1,,,Artem Sitak,Dominik Hrbaty,6-3 6-4,1.34,9.8%,4.9%,67.2%,70.7%,60.0%,3/4,55.9%,43.9%,0.0%,30.0%,59.3%,3/5,118,6,3,61,41,20,0,1:12
-9-Jan-2012,Auckland Q,3,Hard,Q1,433,276,1,,,Artem Sitak,Denis Kudla,6-3 6-7(5) 6-0,1.25,10.4%,10.4%,52.1%,84.0%,39.1%,3/5,54.8%,46.7%,0.0%,45.3%,48.7%,6/12,188,10,10,96,50,46,0,2:00
+9-Jan-2012,Auckland,3,Hard,Q3,433,87,0,,4,Adrian Mannarino,Artem Sitak,6-1 6-0,0.52,8.9%,8.9%,33.9%,52.6%,35.1%,5/11,36.8%,30.8%,0.0%,24.0%,42.9%,0/3,95,5,5,56,19,37,0,1:08
+9-Jan-2012,Auckland,3,Hard,Q2,433,707,1,,,Artem Sitak,Dominik Hrbaty,6-3 6-4,1.34,9.8%,4.9%,67.2%,70.7%,60.0%,3/4,55.9%,43.9%,0.0%,30.0%,59.3%,3/5,118,6,3,61,41,20,0,1:12
+9-Jan-2012,Auckland,3,Hard,Q1,433,276,1,,,Artem Sitak,Denis Kudla,6-3 6-7(5) 6-0,1.25,10.4%,10.4%,52.1%,84.0%,39.1%,3/5,54.8%,46.7%,0.0%,45.3%,48.7%,6/12,188,10,10,96,50,46,0,2:00
 17-Oct-2011,USA F27,3,Hard,R32,403,805,0,,Q,Austin Krajicek,Artem Sitak,6-1 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Oct-2011,Tiburon CH,3,Hard,R32,417,226,0,Q,,Amer Delic,Artem Sitak,4-6 6-4 6-2,0.85,10.4%,9.4%,57.3%,76.4%,29.3%,6/11,46.6%,37.1%,3.1%,36.7%,37.8%,3/10,193,10,9,96,55,41,3,2:11
 26-Sep-2011,USA F25,3,Hard,R32,429,684,0,5,,Andrei Daescu,Artem Sitak,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -106,12 +108,12 @@
 15-Aug-2011,Colombia F3,3,Clay,QF,386,253,1,5,1,Artem Sitak,Sebastian Decoud,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2011,Colombia F3,3,Clay,R16,386,928,1,5,,Artem Sitak,Sebastian Lopez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2011,Colombia F3,3,Clay,R32,386,1131,1,5,,Artem Sitak,Wilson Leite,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-8-Aug-2011,Canada Masters Q,3,Hard,Q1,386,95,0,,4,Tobias Kamke,Artem Sitak,6-7(2) 6-3 6-3,0.91,5.6%,9.0%,47.2%,57.1%,44.7%,5/12,47.4%,45.1%,0.0%,35.6%,54.0%,4/17,211,5,8,89,42,47,0,2:38
+8-Aug-2011,Canada Masters,3,Hard,Q1,386,95,0,,4,Tobias Kamke,Artem Sitak,6-7(2) 6-3 6-3,0.91,5.6%,9.0%,47.2%,57.1%,44.7%,5/12,47.4%,45.1%,0.0%,35.6%,54.0%,4/17,211,5,8,89,42,47,0,2:38
 31-Jul-2011,Washington,3,Hard,R64,387,128,0,Q,,Donald Young,Artem Sitak,6-0 6-3,0.16,3.3%,3.3%,40.0%,50.0%,41.7%,7/11,31.6%,8.6%,8.6%,4.2%,18.2%,0/0,95,2,2,60,24,36,3,1:04
-31-Jul-2011,Washington Q,3,Hard,Q2,387,469,1,11,WC,Artem Sitak,Nicolas Massu,7-6(4) 6-2,1.33,14.7%,7.4%,50.0%,73.5%,50.0%,6/9,56.6%,50.8%,1.6%,42.9%,61.5%,5/8,129,10,5,68,34,34,1,1:53
-31-Jul-2011,Washington Q,3,Hard,Q1,387,,1,11,WC,Artem Sitak,Andrew Adams,6-4 6-4,1.31,8.6%,5.7%,47.1%,81.8%,56.8%,3/3,55.1%,41.2%,2.9%,40.5%,41.9%,2/4,138,6,4,70,33,37,2,1:35
-25-Jul-2011,Los Angeles Q,3,Hard,Q2,389,211,0,,5,Tim Smyczek,Artem Sitak,6-3 6-3,0.77,7.1%,7.1%,48.2%,59.3%,48.3%,4/8,43.9%,35.8%,1.5%,38.5%,32.1%,1/5,123,4,4,56,27,29,1,1:19
-25-Jul-2011,Los Angeles Q,3,Hard,Q1,389,1098,1,,,Artem Sitak,Marcos Giron,0-6 6-4 6-4,0.85,7.5%,5.0%,53.8%,69.8%,54.1%,5/8,47.5%,32.1%,2.6%,34.0%,28.0%,2/5,158,6,4,80,43,37,2,1:38
+31-Jul-2011,Washington,3,Hard,Q2,387,469,1,11,WC,Artem Sitak,Nicolas Massu,7-6(4) 6-2,1.33,14.7%,7.4%,50.0%,73.5%,50.0%,6/9,56.6%,50.8%,1.6%,42.9%,61.5%,5/8,129,10,5,68,34,34,1,1:53
+31-Jul-2011,Washington,3,Hard,Q1,387,,1,11,WC,Artem Sitak,Andrew Adams,6-4 6-4,1.31,8.6%,5.7%,47.1%,81.8%,56.8%,3/3,55.1%,41.2%,2.9%,40.5%,41.9%,2/4,138,6,4,70,33,37,2,1:35
+25-Jul-2011,Los Angeles,3,Hard,Q2,389,211,0,,5,Tim Smyczek,Artem Sitak,6-3 6-3,0.77,7.1%,7.1%,48.2%,59.3%,48.3%,4/8,43.9%,35.8%,1.5%,38.5%,32.1%,1/5,123,4,4,56,27,29,1,1:19
+25-Jul-2011,Los Angeles,3,Hard,Q1,389,1098,1,,,Artem Sitak,Marcos Giron,0-6 6-4 6-4,0.85,7.5%,5.0%,53.8%,69.8%,54.1%,5/8,47.5%,32.1%,2.6%,34.0%,28.0%,2/5,158,6,4,80,43,37,2,1:38
 18-Jul-2011,Lexington CH,3,Hard,R16,398,206,0,,2,Wayne Odesnik,Artem Sitak,6-2 6-1,0.53,4.9%,9.8%,49.2%,56.7%,35.5%,6/11,38.7%,28.9%,4.4%,19.2%,42.1%,1/1,106,3,6,61,30,31,2,1:18
 18-Jul-2011,Lexington CH,3,Hard,R32,398,265,1,,,Artem Sitak,Clement Reix,6-4 6-2,1.34,20.3%,2.9%,68.1%,70.2%,59.1%,4/4,56.8%,44.6%,7.1%,29.0%,64.0%,3/6,125,14,2,69,47,22,4,1:31
 11-Jul-2011,Aptos CH,3,Hard,R32,377,339,0,,,Jamie Baker,Artem Sitak,6-3 7-6(2),0.72,4.7%,5.9%,61.2%,59.6%,36.4%,4/8,43.9%,35.7%,1.4%,35.0%,36.7%,3/6,155,4,5,85,52,33,1,1:51
@@ -145,9 +147,9 @@
 7-Mar-2011,USA F7,3,Hard,R32,347,,1,2,Q,Artem Sitak,Mico Santiago,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Mar-2011,Davis Cup G1 R1: UZB vs NZL,3,Clay,RR,347,284,0,,,Farrukh Dustov,Artem Sitak,6-0 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 4-Mar-2011,Davis Cup G1 R1: UZB vs NZL,3,Clay,RR,347,482,1,,,Artem Sitak,Murad Inoyatov,6-1 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Feb-2011,San Jose Q,3,Hard,Q2,340,791,0,5,,Jimmy Wang,Artem Sitak,6-3 6-3,0.75,3.5%,7.0%,57.9%,54.5%,41.7%,5/10,43.5%,37.9%,6.9%,25.8%,51.9%,2/5,115,2,4,57,33,24,4,1:18
+7-Feb-2011,San Jose,3,Hard,Q2,340,791,0,5,,Jimmy Wang,Artem Sitak,6-3 6-3,0.75,3.5%,7.0%,57.9%,54.5%,41.7%,5/10,43.5%,37.9%,6.9%,25.8%,51.9%,2/5,115,2,4,57,33,24,4,1:18
 24-Jan-2011,Singapore CH,3,Hard,R32,341,292,0,Q,WC,Michael Yani,Artem Sitak,6-1 7-6(4),0.82,2.5%,3.8%,49.4%,59.0%,40.0%,6/12,46.0%,41.4%,3.4%,33.3%,52.0%,3/5,137,2,3,79,39,40,2,1:46
-10-Jan-2011,Auckland Q,3,Hard,Q1,341,325,0,WC,,Ludovic Walter,Artem Sitak,6-3 6-4,0.76,12.5%,8.9%,46.4%,73.1%,33.3%,4/8,44.2%,36.8%,0.0%,34.6%,38.7%,2/4,113,7,5,56,26,30,0,1:21
+10-Jan-2011,Auckland,3,Hard,Q1,341,325,0,WC,,Ludovic Walter,Artem Sitak,6-3 6-4,0.76,12.5%,8.9%,46.4%,73.1%,33.3%,4/8,44.2%,36.8%,0.0%,34.6%,38.7%,2/4,113,7,5,56,26,30,0,1:21
 29-Nov-2010,Australia F13,3,Hard,QF,349,316,0,,8,Samuel Groth,Artem Sitak,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2010,Australia F13,3,Hard,R16,349,1076,1,,Q,Artem Sitak,Isaac Frost,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Nov-2010,Australia F13,3,Hard,R32,349,711,1,,Q,Artem Sitak,Riccardo Sinicropi,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -168,7 +170,7 @@
 30-Aug-2010,Russia F7,3,Clay,QF,302,928,0,2,,Stanislav Poplavskyy,Artem Sitak,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Aug-2010,Russia F7,3,Clay,R16,302,647,1,2,,Artem Sitak,Nikolai Fidirko,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Aug-2010,Russia F7,3,Clay,R32,302,1343,1,2,Q,Artem Sitak,Alexey Golovachev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Aug-2010,Astana CH,3,Hard,R32,300,318,0,6,,Miloslav Mecir,Artem Sitak,7-5 6-0,0.69,1.8%,10.5%,50.9%,62.1%,35.7%,3/8,41.9%,35.0%,0.0%,35.0%,35.0%,1/5,117,1,6,57,29,28,0,1:23
+23-Aug-2010,Astana CH,3,Hard,R32,300,318,0,6,,Miloslav Mecir Jr,Artem Sitak,7-5 6-0,0.69,1.8%,10.5%,50.9%,62.1%,35.7%,3/8,41.9%,35.0%,0.0%,35.0%,35.0%,1/5,117,1,6,57,29,28,0,1:23
 16-Aug-2010,Russia F5,3,Clay,SF,315,439,0,1,3,Alexander Lobkov,Artem Sitak,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Aug-2010,Russia F5,3,Clay,QF,315,,1,1,Q,Artem Sitak,Edoardo Eremin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Aug-2010,Russia F5,3,Clay,R16,315,1673,1,1,Q,Artem Sitak,Sergey Strelkov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -181,10 +183,10 @@
 2-Aug-2010,Beijing CH,3,Hard,R16,313,1520,0,7,WC,Yan Bai,Artem Sitak,7-6(5) 6-0,0.62,1.5%,5.9%,64.7%,45.5%,50.0%,3/8,40.7%,32.7%,5.5%,29.0%,37.5%,2/6,123,1,4,68,44,24,3,1:31
 2-Aug-2010,Beijing CH,3,Hard,R32,313,1052,1,7,Q,Artem Sitak,Peng Gao,5-7 6-0 7-5,1.26,4.5%,1.1%,62.9%,67.9%,48.5%,3/7,54.9%,49.5%,3.2%,40.3%,71.4%,7/11,184,4,1,89,56,33,3,2:23
 26-Jul-2010,Saransk CH,3,Clay,R32,310,179,0,,3,Ivan Sergeyev,Artem Sitak,6-3 1-6 6-3,0.95,9.5%,9.5%,50.0%,75.7%,29.7%,2/8,48.7%,44.9%,5.1%,35.9%,53.8%,5/13,152,7,7,74,37,37,4,1:33
-19-Jul-2010,Atlanta Q,3,Hard,Q1,310,299,0,,,Brendan Evans,Artem Sitak,7-5 6-3,0.58,13.0%,8.7%,47.8%,75.8%,41.7%,1/4,42.9%,24.6%,0.0%,16.7%,33.3%,1/4,126,9,6,69,33,36,0,1:16
+19-Jul-2010,Atlanta,3,Hard,Q1,310,299,0,,,Brendan Evans,Artem Sitak,7-5 6-3,0.58,13.0%,8.7%,47.8%,75.8%,41.7%,1/4,42.9%,24.6%,0.0%,16.7%,33.3%,1/4,126,9,6,69,33,36,0,1:16
 12-Jul-2010,Aptos CH,3,Hard,R16,330,113,0,Q,3,Donald Young,Artem Sitak,1-6 6-4 6-4,1.05,6.9%,3.9%,63.7%,63.1%,29.7%,10/17,51.2%,51.5%,2.0%,44.1%,66.7%,8/18,203,7,4,102,65,37,2,1:58
 12-Jul-2010,Aptos CH,3,Hard,R32,330,296,1,Q,,Artem Sitak,Takao Suzuki,6-4 6-3,1.68,6.1%,2.0%,61.2%,86.7%,47.4%,0/1,57.3%,48.0%,1.3%,41.9%,56.3%,4/10,124,3,1,49,30,19,1,1:20
-5-Jul-2010,Newport Q,3,Grass,Q1,322,552,0,,,Richard Bloomfield,Artem Sitak,7-6(5) 6-7(1) 6-2,0.81,6.4%,3.7%,69.7%,75.0%,45.5%,4/6,47.0%,27.4%,4.7%,21.2%,37.5%,0/1,215,7,4,109,76,33,5,2:09
+5-Jul-2010,Newport,3,Grass,Q1,322,552,0,,,Richard Bloomfield,Artem Sitak,7-6(5) 6-7(1) 6-2,0.81,6.4%,3.7%,69.7%,75.0%,45.5%,4/6,47.0%,27.4%,4.7%,21.2%,37.5%,0/1,215,7,4,109,76,33,5,2:09
 28-Jun-2010,Winnetka CH,3,Hard,R32,350,142,0,Q,8,Kevin Kim,Artem Sitak,6-1 6-2,0.53,2.4%,9.5%,52.4%,50.0%,25.0%,0/5,35.1%,32.7%,0.0%,31.6%,35.3%,1/5,97,1,4,42,22,20,0,0:56
 21-Jun-2010,USA F15,3,Hard,R32,350,739,0,2,,Conor Pollock,Artem Sitak,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Jun-2010,USA F14,3,Hard,F,328,654,0,1,,Fritz Wolmarans,Artem Sitak,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -202,7 +204,7 @@
 26-Apr-2010,Uzbekistan F2,3,Hard,R32,315,941,1,3,Q,Artem Sitak,Victor Kozin,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Apr-2010,Uzbekistan F1,3,Hard,R16,317,1749,0,2,Q,Ilia Starkov,Artem Sitak,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Apr-2010,Uzbekistan F1,3,Hard,R32,317,736,1,2,,Artem Sitak,Sarvar Ikramov,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-29-Mar-2010,USA F8,3,Hard,R32,,,0,6,,Greg Ouellette,Artem Sitak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Mar-2010,USA F8,3,Hard,R32,315,458,0,6,,Greg Ouellette,Artem Sitak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Mar-2010,USA F7,3,Hard,F,350,477,1,3,,Artem Sitak,Mario Ancic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Mar-2010,USA F7,3,Hard,SF,350,,1,3,2,Artem Sitak,Catalin Ionut Gard,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 1-Mar-2010,USA F7,3,Hard,QF,350,432,1,3,,Artem Sitak,Dayne Kelly,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -213,8 +215,8 @@
 1-Feb-2010,USA F4,3,Clay,QF,346,537,0,2,8,Adrians Zguns,Artem Sitak,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 1-Feb-2010,USA F4,3,Clay,R16,346,841,1,2,,Artem Sitak,Haydn Lewis,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 1-Feb-2010,USA F4,3,Clay,R32,346,1710,1,2,Q,Artem Sitak,Bastian Trinker,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Jan-2010,USA F3,3,Clay,R16,,,0,3,,Morgan Phillips,Artem Sitak,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
-25-Jan-2010,USA F3,3,Clay,R32,,,1,3,,Artem Sitak,Soong Jae Cho,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,USA F3,3,Clay,R16,348,427,0,3,,Morgan Phillips,Artem Sitak,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Jan-2010,USA F3,3,Clay,R32,348,531,1,3,,Artem Sitak,Soong Jae Cho,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jan-2010,USA F2,3,Clay,R16,348,555,0,5,Q,Juho Paukku,Artem Sitak,6-3 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
 18-Jan-2010,USA F2,3,Clay,R32,348,,1,5,WC,Artem Sitak,Eric Hechtman,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Jan-2010,USA F1,3,Clay,R16,348,703,0,4,Q,Alexander Domijan,Artem Sitak,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -258,11 +260,11 @@
 3-Aug-2009,Russia F3,3,Clay,R16,486,453,1,,,Artem Sitak,Evgeny Donskoy,7-6(11) 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Aug-2009,Russia F3,3,Clay,R32,486,,1,,WC,Artem Sitak,Alexander Rumyantsev,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Jul-2009,Saransk CH,3,Clay,R32,490,301,0,LL,,Matwe Middelkoop,Artem Sitak,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Jul-2009,Newport Q,3,Grass,Q2,484,231,0,,2,Simon Stadler,Artem Sitak,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-6-Jul-2009,Newport Q,3,Grass,Q1,484,1689,1,,,Artem Sitak,Jamie Gresh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jun-2009,USA F15,3,Clay,QF,,,0,4,7,Gastao Elias,Artem Sitak,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-29-Jun-2009,USA F15,3,Clay,R16,,1519,1,4,Q,Artem Sitak,Steve Johnson,6-7(5) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jun-2009,USA F15,3,Clay,R32,,,1,4,,Artem Sitak,Marcus Fugate,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Newport,3,Grass,Q2,484,231,0,,2,Simon Stadler,Artem Sitak,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Jul-2009,Newport,3,Grass,Q1,484,1689,1,,,Artem Sitak,Jamie Gresh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,USA F15,3,Clay,QF,484,608,0,4,7,Gastao Elias,Artem Sitak,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,USA F15,3,Clay,R16,484,1519,1,4,Q,Artem Sitak,Steve Johnson,6-7(5) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2009,USA F15,3,Clay,R32,484,756,1,4,,Artem Sitak,Marcus Fugate,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 22-Jun-2009,USA F14,3,Hard,R32,484,981,0,,,Ryan Harrison,Artem Sitak,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jun-2009,USA F13,3,Hard,R32,526,272,0,SE,2,Carlos Salamanca,Artem Sitak,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jun-2009,USA F12,3,Hard,F,524,350,0,Q,5,Jesse Witten,Artem Sitak,4-6 7-6(5) 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -273,18 +275,18 @@
 18-May-2009,Fergana CH,3,Hard,QF,595,397,0,Q,Q,Evgeny Kirillov,Artem Sitak,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 18-May-2009,Fergana CH,3,Hard,R16,595,375,1,Q,,Artem Sitak,Woong Sun Jun,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 18-May-2009,Fergana CH,3,Hard,R32,595,299,1,Q,,Artem Sitak,Junn Mitsuhashi,7-5 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Apr-2009,Houston Q,3,Clay,Q1,459,518,0,,,Filip Krajinovic,Artem Sitak,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-30-Mar-2009,USA F7,3,Hard,R16,,,0,,Q,Milos Raonic,Artem Sitak,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-30-Mar-2009,USA F7,3,Hard,R32,,,1,,1,Artem Sitak,Ryler Deheart,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Apr-2009,Houston,3,Clay,Q1,459,518,0,,,Filip Krajinovic,Artem Sitak,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,R16,468,730,0,,Q,Milos Raonic,Artem Sitak,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Mar-2009,USA F7,3,Hard,R32,468,274,1,,1,Artem Sitak,Ryler Deheart,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Mar-2009,New Zealand F3,3,Hard,QF,468,300,0,5,2,Tatsuma Ito,Artem Sitak,7-5 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Mar-2009,New Zealand F3,3,Hard,R16,468,972,1,5,Q,Artem Sitak,Rylan Rizza,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Mar-2009,New Zealand F3,3,Hard,R32,468,675,1,5,,Artem Sitak,Haydn Lewis,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-16-Mar-2009,New Zealand F2,3,Hard,R32,,1066,0,6,Q,Andrew Thomas,Artem Sitak,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Mar-2009,New Zealand F2,3,Hard,R32,406,1066,0,6,Q,Andrew Thomas,Artem Sitak,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Mar-2009,New Zealand F1,3,Hard,SF,406,379,0,4,2,Adam Feeney,Artem Sitak,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
 9-Mar-2009,New Zealand F1,3,Hard,QF,406,433,1,4,5,Artem Sitak,Jose Rubin Statham,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
 9-Mar-2009,New Zealand F1,3,Hard,R16,406,587,1,4,,Artem Sitak,Young Jun Kim,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
 9-Mar-2009,New Zealand F1,3,Hard,R32,406,,1,4,,Artem Sitak,Gd Jones,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-9-Feb-2009,San Jose Q,3,Hard,Q1,394,270,0,,,Todd Widom,Artem Sitak,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Feb-2009,San Jose,3,Hard,Q1,394,270,0,,,Todd Widom,Artem Sitak,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 26-Jan-2009,Carson CH,3,Hard,R32,371,133,0,Q,7,Donald Young,Artem Sitak,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2009,USA F2,3,Clay,R16,371,589,0,3,Q,Aleksander Slovic,Artem Sitak,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Jan-2009,USA F2,3,Clay,R32,371,532,1,3,,Artem Sitak,Milan Pokrajac,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -455,8 +457,8 @@
 18-Apr-2005,Uzbekistan F2,3,Hard,R32,787,,1,,LL,Artem Sitak,Dilshod Saidmukhamedov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2005,Uzbekistan F1,3,Hard,R16,788,494,0,Q,,Evgueni Smirnov,Artem Sitak,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2005,Uzbekistan F1,3,Hard,R32,788,359,1,Q,6,Artem Sitak,Sunil Kumar Sipaeya,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Mar-2005,France F5,3,Hard,R16,,,0,Q,,Lesley Joseph,Artem Sitak,4-6 7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
-14-Mar-2005,France F5,3,Hard,R32,,,1,Q,WC,Artem Sitak,Amaury Auzou,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Mar-2005,France F5,3,Hard,R16,807,391,0,Q,,Lesley Joseph,Artem Sitak,4-6 7-5 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Mar-2005,France F5,3,Hard,R32,807,,1,Q,WC,Artem Sitak,Amaury Auzou,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2005,Spain F3,3,Hard,R16,817,359,0,Q,2,Gorka Fraile,Artem Sitak,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2005,Spain F3,3,Hard,R32,817,1238,1,Q,Q,Artem Sitak,Frank Wintermantel,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Feb-2005,Spain F2,3,Clay,R32,813,373,0,Q,7,Oscar Serrano,Artem Sitak,6-4 7-5,,,,,,,,,,,,,,,,,,,,,

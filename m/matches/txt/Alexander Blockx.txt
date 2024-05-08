@@ -1,8 +1,62 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+15-Apr-2024,Gwangju CH,3,Hard,R32,295,186,0,,5,Bu Yunchaokete,Alexander Blockx,3-2 RET,0.82,0.0%,0.0%,66.7%,50.0%,25.0%,0/1,45.5%,47.6%,0.0%,55.6%,41.7%,1/1,33,0,0,12,8,4,0,0:36
+8-Apr-2024,Busan CH,3,Hard,R32,297,194,0,,8,Coleman Wong,Alexander Blockx,6-3 6-3,0.69,1.8%,5.4%,62.5%,40.0%,52.4%,7/12,41.7%,38.5%,1.9%,27.8%,62.5%,2/2,108,1,3,56,35,21,1,1:12
+18-Mar-2024,Miami Masters,3,Hard,Q1,294,88,0,WC,8,Pedro Martinez,Alexander Blockx,6-2 6-2,0.45,7.7%,3.1%,55.4%,52.8%,37.9%,5/10,37.7%,24.4%,4.9%,6.7%,72.7%,1/1,106,5,2,65,36,29,2,1:23
+11-Mar-2024,Hamburg CH,3,Hard,SF,307,271,0,,,Henri Squire,Alexander Blockx,6-3 7-5,0.53,9.7%,0.0%,69.4%,69.8%,47.4%,3/5,42.4%,19.6%,12.5%,21.1%,16.7%,0/2,118,6,0,62,43,19,7,1:14
+11-Mar-2024,Hamburg CH,3,Hard,QF,307,198,1,,7,Alexander Blockx,Alexander Ritschard,7-5 6-2,1.35,4.5%,3.0%,73.1%,65.3%,61.1%,2/3,56.5%,48.4%,1.6%,50.0%,46.2%,4/8,131,3,2,67,49,18,1,1:35
+11-Mar-2024,Hamburg CH,3,Hard,R16,307,175,1,,3,Alexander Blockx,Bu Yunchaokete,3-6 6-2 6-1,1.29,10.8%,2.7%,59.5%,72.7%,43.3%,6/9,55.2%,50.6%,1.1%,46.0%,56.4%,6/12,163,8,2,74,44,30,1,1:56
+11-Mar-2024,Hamburg CH,3,Hard,R32,307,258,1,,,Alexander Blockx,Maks Kasnikowski,6-4 7-6(4),1.27,4.2%,1.4%,69.4%,72.0%,31.8%,1/4,55.5%,51.4%,2.7%,50.0%,53.1%,4/7,146,3,1,72,50,22,2,1:41
+4-Mar-2024,Lugano CH,3,Hard,R16,307,211,0,,,Gijs Brouwer,Alexander Blockx,6-3 6-1,0.54,9.4%,3.8%,67.9%,55.6%,47.1%,1/5,40.0%,25.5%,0.0%,18.2%,42.9%,0/4,100,5,2,53,36,17,0,0:58
+4-Mar-2024,Lugano CH,3,Hard,R32,307,162,1,,4,Alexander Blockx,Leandro Riedi,3-6 7-6(6) 7-5,0.89,10.2%,5.1%,58.5%,76.8%,46.9%,14/17,50.0%,31.5%,7.6%,25.0%,41.7%,3/3,210,12,6,118,69,49,7,2:15
+26-Feb-2024,Lille CH,3,Hard,R16,313,131,0,,,Otto Virtanen,Alexander Blockx,6-1 6-4,0.65,2.0%,4.0%,48.0%,54.2%,46.2%,3/7,41.0%,32.7%,10.9%,20.6%,52.4%,1/2,105,1,2,50,24,26,6,0:57
+26-Feb-2024,Lille CH,3,Hard,R32,313,110,1,,3,Alexander Blockx,Benoit Paire,6-4 5-7 6-3,1.20,5.6%,2.2%,61.1%,74.5%,60.0%,4/5,52.4%,37.4%,5.1%,29.1%,47.7%,3/6,189,5,2,90,55,35,5,1:48
+12-Feb-2024,Glasgow CH,3,Hard,R32,312,272,0,,4,Manuel Guinard,Alexander Blockx,6-1 5-7 4-1 RET,0.63,5.7%,1.1%,71.3%,62.9%,32.0%,8/12,42.9%,29.0%,8.7%,25.0%,34.5%,1/3,156,5,1,87,62,25,6,1:37
+5-Feb-2024,Nottingham CH,3,Hard,SF,338,198,0,,,Giovanni Mpetshi Perricard,Alexander Blockx,7-6(8) 6-2,0.67,7.7%,0.0%,70.8%,65.2%,78.9%,3/5,45.3%,20.6%,17.5%,14.0%,46.2%,0/1,128,5,0,65,46,19,11,1:17
+5-Feb-2024,Nottingham CH,3,Hard,QF,338,188,1,,4,Alexander Blockx,Abedallah Shelbayh,7-6(0) 6-3,1.39,5.3%,4.0%,66.7%,74.0%,60.0%,7/8,54.9%,42.5%,5.7%,27.3%,68.8%,2/10,162,4,3,75,50,25,5,1:43
+5-Feb-2024,Nottingham CH,3,Hard,R16,338,183,1,,5,Alexander Blockx,Alexander Ritschard,7-6(9) 3-6 6-4,1.06,7.8%,1.0%,68.9%,76.1%,43.8%,7/11,51.2%,36.0%,2.0%,31.8%,44.1%,3/9,203,8,1,103,71,32,2,2:17
+5-Feb-2024,Nottingham CH,3,Hard,R32,338,258,1,,,Alexander Blockx,Valentin Royer,6-7(7) 6-3 7-6(4),1.04,17.9%,1.7%,67.5%,78.5%,57.9%,8/9,52.8%,29.5%,11.6%,19.7%,51.7%,2/4,212,21,2,117,79,38,11,2:29
+29-Jan-2024,Koblenz CH,3,Hard,R16,350,191,0,,7,Rudolf Molleker,Alexander Blockx,6-3 6-0,0.30,10.1%,2.9%,65.2%,57.8%,33.3%,8/13,38.2%,15.2%,6.1%,5.3%,28.6%,0/0,102,7,2,69,45,24,2,1:03
+29-Jan-2024,Koblenz CH,3,Hard,R32,350,196,1,,,Alexander Blockx,Giovanni Mpetshi Perricard,3-6 6-3 7-6(3),1.13,4.3%,4.3%,62.0%,75.4%,60.0%,1/3,52.2%,34.4%,7.8%,22.0%,50.0%,2/2,182,4,4,92,57,35,7,1:58
+22-Jan-2024,Ottignies-Louvain-la-Neuve CH,3,Hard,R32,350,271,0,,LL,Henri Squire,Alexander Blockx,3-6 6-4 7-6(4),1.12,9.1%,2.3%,58.0%,74.5%,54.1%,3/5,50.2%,38.1%,7.1%,27.4%,57.5%,3/11,201,8,2,88,51,37,8,2:03
+15-Jan-2024,Australian Open,5,Hard,Q1,350,143,0,WC,32,Zachary Svajda,Alexander Blockx,4-6 6-3 6-4,0.84,6.7%,3.3%,66.7%,68.3%,40.0%,6/9,46.5%,34.7%,2.1%,32.8%,39.3%,2/7,185,6,3,90,60,30,2,2:03
+1-Jan-2024,Canberra CH,3,Hard,Q1,350,187,0,,5,Daniel Rincon,Alexander Blockx,6-3 6-3,0.62,0.0%,5.5%,67.3%,70.3%,33.3%,0/3,42.9%,26.0%,6.0%,7.4%,47.8%,0/0,105,0,3,55,37,18,3,1:11
+13-Nov-2023,Danderyd CH,3,Hard,SF,412,143,0,Q,8,Brandon Nakashima,Alexander Blockx,6-1 6-2,0.56,4.1%,2.0%,57.1%,39.3%,52.4%,7/12,38.5%,31.0%,2.4%,20.0%,40.9%,1/2,91,2,1,49,28,21,1,1:02
+13-Nov-2023,Danderyd CH,3,Hard,QF,412,152,1,Q,,Alexander Blockx,Jakub Mensik,6-3 6-0,1.81,0.0%,0.0%,67.4%,69.0%,64.3%,5/6,63.2%,59.1%,2.3%,51.9%,70.6%,6/10,87,0,0,43,29,14,1,1:01
+13-Nov-2023,Danderyd CH,3,Hard,R16,412,133,1,Q,,Alexander Blockx,Corentin Moutet,7-6(6) 6-1,1.25,2.8%,2.8%,65.3%,74.5%,44.0%,3/4,55.1%,45.3%,1.6%,42.0%,57.1%,3/7,136,2,2,72,47,25,1,1:41
+13-Nov-2023,Danderyd CH,3,Hard,R32,412,247,1,Q,Q,Alexander Blockx,Maximilian Neuchrist,3-6 6-1 7-6(3),1.35,12.3%,1.2%,67.9%,72.7%,65.4%,1/3,54.8%,40.0%,2.4%,36.0%,45.7%,3/5,166,10,1,81,55,26,2,1:58
+13-Nov-2023,Danderyd CH,3,Hard,Q2,412,204,1,12,1,Alexander Blockx,Billy Harris,7-6(4) 6-7(2) 6-4,1.04,4.7%,4.7%,62.5%,66.3%,45.8%,5/10,51.5%,42.9%,3.8%,31.8%,61.5%,6/8,233,6,6,128,80,48,4,2:50
+13-Nov-2023,Danderyd CH,3,Hard,Q1,412,607,1,12,,Alexander Blockx,Andrea Guerrieri,7-5 7-5,1.19,3.9%,5.3%,59.2%,75.6%,45.2%,2/4,53.6%,44.0%,0.0%,35.3%,62.5%,4/9,151,3,4,76,45,31,0,1:44
+30-Oct-2023,M25 Sunderland ,3,Hard,F,580,449,1,JE,5,Alexander Blockx,Tibo Colson,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Sunderland ,3,Hard,SF,580,763,1,JE,,Alexander Blockx,Hamish Stewart,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Sunderland ,3,Hard,QF,580,297,1,JE,1,Alexander Blockx,Valentin Royer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Sunderland ,3,Hard,R16,580,1211,1,JE,Q,Alexander Blockx,Sean Hodkin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Oct-2023,M25 Sunderland ,3,Hard,R32,580,912,1,JE,WC,Alexander Blockx,Henry Searle,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,F,580,568,1,JE,,Alexander Blockx,Anton Matusevich,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,SF,580,765,1,JE,,Alexander Blockx,Hamish Stewart,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,QF,580,422,1,JE,7,Alexander Blockx,Toby Samuel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,R16,580,390,1,JE,4,Alexander Blockx,Akira Santillan,3-6 7-6(2) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Oct-2023,M25 Glasgow ,3,Hard,R32,580,1094,1,JE,,Alexander Blockx,Joshua Goodger,6-7(2) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,Antwerp,3,Hard,R32,646,56,0,Q,5,Yannick Hanfmann,Alexander Blockx,6-4 7-6(3),0.88,11.6%,1.4%,69.6%,77.1%,47.6%,5/6,47.9%,28.2%,5.6%,25.5%,33.3%,0/3,140,8,1,69,48,21,4,1:38
+16-Oct-2023,Antwerp,3,Hard,Q2,646,492,1,WC,WC,Alexander Blockx,Gilles Arnaud Bailly,6-4 7-5,1.14,16.4%,0.0%,77.6%,69.2%,86.7%,2/2,53.2%,30.5%,1.7%,31.6%,28.6%,2/5,126,11,0,67,52,15,1,1:31
+16-Oct-2023,Antwerp,3,Hard,Q1,646,102,1,WC,2,Alexander Blockx,Hamad Medjedovic,7-6(3) 6-2,1.20,8.7%,1.4%,56.5%,74.4%,63.3%,5/5,54.3%,36.7%,11.7%,28.9%,50.0%,2/3,129,6,1,69,39,30,7,1:25
+2-Oct-2023,M25 Nevers,3,Hard,QF,771,715,0,,,Daniil Glinka,Alexander Blockx,6-1 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Nevers,3,Hard,R16,771,764,1,,,Alexander Blockx,Amaury Raynel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2023,M25 Nevers,3,Hard,R32,771,301,1,,1,Alexander Blockx,Kacper Zuk,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,F,778,482,0,,5,Tibo Colson,Alexander Blockx,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,SF,778,473,1,,6,Alexander Blockx,Evgeny Karlovskiy,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,QF,778,364,1,,1,Alexander Blockx,Leo Borg,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R16,778,432,1,,7,Alexander Blockx,Mats Rosenkranz,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Falun,3,Hard,R32,778,,1,,Q,Alexander Blockx,Henrik Bladelius,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Danderyd,3,Hard,R16,777,392,0,,1,Karl Friberg,Alexander Blockx,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Sep-2023,M15 Danderyd,3,Hard,R32,777,791,1,,,Alexander Blockx,Vito Tonejc,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M25 Koksijde,3,Clay,R16,765,494,0,,3,Guy Den Ouden,Alexander Blockx,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2023,M25 Koksijde,3,Clay,R32,765,1008,1,,,Alexander Blockx,Dax Donders,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M15 Gubbio,3,Clay,R16,856,419,0,,1,Gabriel Debru,Alexander Blockx,6-2 2-0 RET,,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,M15 Gubbio,3,Clay,R32,856,,1,,WC,Alexander Blockx,Daniele Minighini,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Esch/Alzette,3,Clay,SF,,,0,,1,Nikolas Sanchez Izquierdo,Alexander Blockx,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Esch/Alzette,3,Clay,QF,,,1,,,Alexander Blockx,Kai Wehnelt,3-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Esch/Alzette,3,Clay,R16,,,1,,Q,Alexander Blockx,Niels Visker,6-7(7) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jul-2023,M25 Esch/Alzette,3,Clay,R32,,,1,,4,Alexander Blockx,Simon Beaupain,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Arlon,3,Clay,R16,858,306,0,,2,Henri Squire,Alexander Blockx,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2023,M25 Arlon,3,Clay,R32,858,1370,1,,Q,Alexander Blockx,Charlelie Cosnet,6-7(5) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M15 Warmbad Villach,3,Clay,R32,897,1158,0,,Q,Liam Gavrielides,Alexander Blockx,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

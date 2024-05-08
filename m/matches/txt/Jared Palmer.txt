@@ -5,11 +5,6 @@
 19-Jun-2000,Nottingham,3,Grass,R32,519,28,0,Q,3,Fabrice Santoro,Jared Palmer,3-6 7-6(5) 6-4,0.92,4.1%,2.4%,61.0%,68.0%,54.2%,7/9,49.6%,34.3%,3.8%,34.8%,33.3%,2/8,228,5,3,123,75,48,4,2:12
 16-Aug-1999,Indianapolis,3,Hard,R32,242,20,0,Q,11,Nicolas Lapentti,Jared Palmer,6-2 6-2,0.56,9.1%,2.3%,59.1%,53.8%,50.0%,2/6,39.3%,26.7%,11.1%,17.9%,41.2%,0/3,89,4,1,44,26,18,5,0:52
 16-Aug-1999,Indianapolis,3,Hard,R64,242,29,1,Q,,Jared Palmer,Goran Ivanisevic,6-7(6) 6-4 6-3,1.30,9.5%,4.2%,68.4%,80.0%,56.7%,3/4,53.6%,35.6%,14.9%,18.9%,54.2%,4/8,196,9,4,95,65,30,15,1:41
-12-Jul-1999,Aptos CH,3,Hard,R32,231,77,0,,2,Cecil Mamiit,Jared Palmer,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,Bermuda CH,3,Clay,QF,228,103,0,,3,Hernan Gumy,Jared Palmer,6-3 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,Bermuda CH,3,Clay,R16,228,128,1,,5,Jared Palmer,Lucas Arnold Ker,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,Bermuda CH,3,Clay,R32,228,226,1,,Q,Jared Palmer,Paulo Taicher,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-1-Feb-1999,Amarillo CH,3,Hard,R32,173,426,0,,WC,Mike Bryan,Jared Palmer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Nov-1998,Burbank CH,3,Hard,QF,175,151,0,,,Cecil Mamiit,Jared Palmer,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Nov-1998,Burbank CH,3,Hard,R16,175,110,1,,4,Jared Palmer,Geoff Grant,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Nov-1998,Burbank CH,3,Hard,R32,175,159,1,,,Jared Palmer,Maurice Ruah,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -61,21 +56,21 @@
 7-Mar-1998,Mexico 1 Masters 2,3,Hard,R32,496,945,1,2,,Jared Palmer,Walid Jallali,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Mar-1998,Mexico 1 Masters 3,3,Hard,R32,496,757,1,,,Jared Palmer,Manuel Jorquera,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Mar-1998,Mexico 1 Masters 4,3,Hard,R32,496,757,1,,,Jared Palmer,Manuel Jorquera,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 1,3,Clay,F,,,0,2,1,Edwin Kempes,Jared Palmer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 2,3,Clay,F,,,1,2,1,Jared Palmer,Edwin Kempes,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 3,3,Clay,F,,,1,,8,Jared Palmer,Nicolas Massu,6-7 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 1,3,Clay,SF,,,1,2,3,Jared Palmer,Nicolas Massu,4-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 2,3,Clay,SF,,,1,2,5,Jared Palmer,Valentin Sanon,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 3,3,Clay,SF,,,1,,1,Jared Palmer,Edwin Kempes,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 1,3,Clay,QF,,,1,2,,Jared Palmer,Mitty Arnold,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 2,3,Clay,QF,,,1,2,8,Jared Palmer,Thomas Shimada,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 3,3,Clay,QF,,,1,,,Jared Palmer,Bertrand Madsen,3-6 7-6 6-0,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 1,3,Clay,R16,,,1,2,,Jared Palmer,Miguel Miranda,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 2,3,Clay,R16,,,1,2,,Jared Palmer,Keith Brill,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 3,3,Clay,R16,,,1,,4,Jared Palmer,Damian Furmanski,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 2,3,Clay,R32,,1366,1,2,WC,Jared Palmer,Yari Bernardo,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 3,3,Clay,R32,,,1,,Q,Jared Palmer,Sunu Thomas,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-10-Jan-1998,Central America Masters 4,3,Clay,R32,,,0,,7,Valentin Sanon,Jared Palmer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,F,892,269,0,2,1,Edwin Kempes,Jared Palmer,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,F,892,269,1,2,1,Jared Palmer,Edwin Kempes,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,F,892,583,1,,8,Jared Palmer,Nicolas Massu,6-7 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,SF,892,583,1,2,3,Jared Palmer,Nicolas Massu,4-6 6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,SF,892,577,1,2,5,Jared Palmer,Valentin Sanon,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,SF,892,269,1,,1,Jared Palmer,Edwin Kempes,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,QF,892,,1,2,,Jared Palmer,Mitty Arnold,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,QF,892,540,1,2,8,Jared Palmer,Thomas Shimada,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,QF,892,788,1,,,Jared Palmer,Bertrand Madsen,3-6 7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 1,3,Clay,R16,892,670,1,2,,Jared Palmer,Miguel Miranda,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,R16,892,848,1,2,,Jared Palmer,Keith Brill,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,R16,892,412,1,,4,Jared Palmer,Damian Furmanski,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 2,3,Clay,R32,892,1366,1,2,WC,Jared Palmer,Yari Bernardo,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 3,3,Clay,R32,892,,1,,Q,Jared Palmer,Sunu Thomas,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jan-1998,Central America Masters 4,3,Clay,R32,892,577,0,,7,Valentin Sanon,Jared Palmer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 5-May-1997,Bratislava CH,3,Clay,R32,222,168,0,,4,Gabriel Silberstein,Jared Palmer,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Mar-1997,Indian Wells CH,3,Hard,R16,220,80,0,WC,7,Gustavo Kuerten,Jared Palmer,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 3-Mar-1997,Indian Wells CH,3,Hard,R32,220,,1,WC,WC,Jared Palmer,Michael Russell,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -94,7 +89,7 @@
 6-May-1996,Pinehurst,3,Clay,R16,145,86,0,WC,,Patrick Rafter,Jared Palmer,7-5 4-6 6-4,0.75,8.1%,7.3%,57.3%,67.6%,56.6%,13/16,48.8%,27.7%,10.8%,15.4%,38.6%,2/6,207,10,9,124,71,53,9,2:14
 6-May-1996,Pinehurst,3,Clay,R32,145,267,1,WC,WC,Jared Palmer,Bill Behrens,6-4 7-5,1.05,4.7%,8.1%,57.0%,69.4%,59.5%,9/10,53.0%,36.5%,1.6%,32.4%,42.3%,3/6,149,4,7,86,49,37,1,1:24
 29-Apr-1996,Atlanta,3,Clay,R32,138,82,0,,,Fernando Meligeni,Jared Palmer,6-2 7-6(5),0.65,7.4%,11.8%,58.8%,67.5%,42.9%,4/7,43.7%,27.6%,1.7%,24.2%,32.0%,1/1,126,5,8,68,40,28,1,1:21
-25-Mar-1996,Casablanca,3,Clay,R32,,,0,,,Andrei Chesnokov,Jared Palmer,6-1 3-6 6-4,0.86,4.5%,8.0%,48.9%,60.5%,37.8%,10/18,46.5%,43.9%,1.2%,37.3%,60.9%,6/13,170,4,7,88,43,45,1,1:55
+25-Mar-1996,Casablanca,3,Clay,R32,135,86,0,,,Andrei Chesnokov,Jared Palmer,6-1 3-6 6-4,0.86,4.5%,8.0%,48.9%,60.5%,37.8%,10/18,46.5%,43.9%,1.2%,37.3%,60.9%,6/13,170,4,7,88,43,45,1,1:55
 18-Mar-1996,Agadir CH,3,Clay,R16,135,81,0,,1,Christian Ruud,Jared Palmer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Mar-1996,Agadir CH,3,Clay,R32,135,554,1,,WC,Jared Palmer,Mehdi Tahiri,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-1995,Moscow,3,Carpet,R32,87,77,0,,,Marc Kevin Goellner,Jared Palmer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -181,8 +176,8 @@
 17-Jan-1994,Australian Open,5,Hard,R64,106,77,0,,,Stephane Simian,Jared Palmer,3-6 7-6(3) 4-6 6-3 8-6,0.91,1.8%,4.7%,61.5%,72.1%,53.8%,5/9,47.9%,31.7%,7.2%,19.0%,49.3%,4/7,349,3,8,169,104,65,13,
 17-Jan-1994,Australian Open,5,Hard,R128,106,94,1,,,Jared Palmer,David Prinosil,6-7(4) 4-6 6-1 6-1 8-6,1.31,4.4%,1.9%,56.9%,68.1%,55.1%,3/8,55.1%,49.3%,5.0%,27.4%,65.0%,10/22,361,7,3,160,91,69,10,
 10-Jan-1994,Auckland,3,Hard,R32,105,63,0,,6,Fabrice Santoro,Jared Palmer,6-4 6-4,0.87,1.6%,7.9%,46.0%,55.2%,44.1%,1/6,46.4%,44.0%,1.3%,34.0%,60.7%,3/11,138,1,5,63,29,34,1,1:36
-3-Jan-1994,Oahu,3,Hard,R16,,,0,,8,Patrick Mcenroe,Jared Palmer,4-6 6-4 6-2,0.86,11.2%,6.9%,58.6%,70.6%,35.4%,10/15,47.8%,37.6%,0.0%,34.3%,46.2%,3/6,209,13,8,116,68,48,0,2:17
-3-Jan-1994,Oahu,3,Hard,R32,,,1,,,Jared Palmer,Maurice Ruah,6-3 6-4,1.48,8.1%,4.8%,66.1%,80.5%,57.1%,2/2,56.3%,40.6%,4.7%,30.3%,51.6%,2/4,126,5,3,62,41,21,3,1:14
+3-Jan-1994,Oahu,3,Hard,R16,105,73,0,,8,Patrick Mcenroe,Jared Palmer,4-6 6-4 6-2,0.86,11.2%,6.9%,58.6%,70.6%,35.4%,10/15,47.8%,37.6%,0.0%,34.3%,46.2%,3/6,209,13,8,116,68,48,0,2:17
+3-Jan-1994,Oahu,3,Hard,R32,105,135,1,,,Jared Palmer,Maurice Ruah,6-3 6-4,1.48,8.1%,4.8%,66.1%,80.5%,57.1%,2/2,56.3%,40.6%,4.7%,30.3%,51.6%,2/4,126,5,3,62,41,21,3,1:14
 6-Dec-1993,Bermuda CH,3,Clay,R32,104,72,0,,5,Patrick Mcenroe,Jared Palmer,6-4 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1993,Napoli CH,3,Clay,QF,106,83,0,5,4,Gilbert Schaller,Jared Palmer,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Nov-1993,Napoli CH,3,Clay,R16,106,119,1,5,,Jared Palmer,Robbie Weiss,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -266,19 +261,28 @@
 18-Nov-1991,Sao Paulo7 CH,3,Clay,R32,491,346,1,Q,Q,Jared Palmer,Vicente Solves,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 7-Oct-1991,Pembroke Pines CH,3,Clay,QF,643,187,0,WC,,Oliver Fernandez,Jared Palmer,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 7-Oct-1991,Pembroke Pines CH,3,Clay,R16,643,386,1,WC,LL,Jared Palmer,Mark Knowles,6-1 5-7 7-6,,,,,,,,,,,,,,,,,,,,,
-7-Oct-1991,Pembroke Pines CH,3,Clay,R32,643,226,1,WC,,Jared Palmer,T Middleton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-1991,Pembroke Pines CH,3,Clay,R32,643,226,1,WC,,Jared Palmer,Tj Middleton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Aug-1991,US Open,5,Hard,R128,649,88,0,WC,,Rodolphe Gilbert,Jared Palmer,6-1 6-2 5-7 1-6 7-6(5),0.93,2.9%,2.9%,61.4%,64.8%,54.5%,16/21,49.5%,36.3%,4.1%,27.4%,45.2%,4/10,317,5,5,171,105,66,6,3:32
 15-Jul-1991,Washington,3,Hard,R64,503,165,0,WC,,Brian Garrow,Jared Palmer,6-3 6-3,0.77,8.8%,12.3%,52.6%,63.3%,40.7%,3/7,44.2%,36.5%,1.6%,31.7%,45.5%,1/3,120,5,7,57,30,27,1,1:16
 8-Jul-1991,Newport,3,Grass,R16,629,109,0,WC,7,Javier Frana,Jared Palmer,6-1 6-3,0.38,0.0%,4.8%,57.1%,55.6%,40.7%,2/6,37.5%,19.5%,7.3%,19.0%,20.0%,0/0,104,0,3,63,36,27,3,1:02
 8-Jul-1991,Newport,3,Grass,R32,629,196,1,WC,,Jared Palmer,Brett Steven,6-2 7-6(6),1.04,3.7%,7.4%,66.7%,68.5%,44.4%,8/10,52.1%,41.0%,6.6%,35.1%,50.0%,4/8,142,3,6,81,54,27,4,1:37
 16-Jul-1990,Washington,3,Hard,R32,266,71,0,WC,15,Gilad Bloom,Jared Palmer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Jul-1990,Washington,3,Hard,R64,266,106,1,WC,,Jared Palmer,Thomas Hogstedt,6-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-2-Apr-1990,Orlando,3,Hard,R32,,,0,WC,5,Glenn Layendecker,Jared Palmer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Apr-1990,Orlando,3,Hard,R32,261,52,0,WC,5,Glenn Layendecker,Jared Palmer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-1989,US Open,5,Hard,R64,235,34,0,WC,,Jim Courier,Jared Palmer,6-1 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Aug-1989,US Open,5,Hard,R128,235,100,1,WC,,Jared Palmer,Jimmy Arias,7-5 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-1989,Stratton Mountain,3,Hard,R16,377,59,0,WC,14,Jim Pugh,Jared Palmer,3-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-1989,Stratton Mountain,3,Hard,R32,377,15,1,WC,4,Jared Palmer,Kevin Curren,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jul-1989,Stratton Mountain,3,Hard,R64,377,181,1,WC,Q,Jared Palmer,Scott Warner,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-1989,Aptos CH,3,Hard,SF,472,278,0,WC,7,Robbie Weiss,Jared Palmer,5-7 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-1989,Aptos CH,3,Hard,QF,472,387,1,WC,,Jared Palmer,Craig Campbell,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jul-1989,Aptos CH,3,Hard,R16,472,251,1,WC,4,Jared Palmer,Todd Nelson,5-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jul-1989,Aptos CH,3,Hard,R32,472,557,1,WC,WC,Jared Palmer,Tommy Ho,5-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+15-May-1989,Raleigh CH,3,Clay,QF,546,129,0,WC,1,Jimmy Brown,Jared Palmer,6-4 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
+15-May-1989,Raleigh CH,3,Clay,R16,546,201,1,WC,7,Jared Palmer,Miguel Nido,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+15-May-1989,Raleigh CH,3,Clay,R32,546,526,1,WC,Q,Jared Palmer,Howard Herr,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Oct-1988,Las Vegas CH,3,Hard,R16,552,227,0,WC,8,Doug Burke,Jared Palmer,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Oct-1988,Las Vegas CH,3,Hard,R32,552,395,1,WC,SE,Jared Palmer,Jonathan Stark,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Aug-1988,US Open,5,Hard,R64,923,26,0,Q,,Ronald Agenor,Jared Palmer,6-4 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Aug-1988,US Open,5,Hard,R128,923,161,1,Q,WC,Jared Palmer,Jeff Tarango,2-6 4-6 6-2 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 25-Apr-1988,Charleston,3,Clay,R32,,128,0,Q,,Christian Miniussi,Jared Palmer,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,60 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+5-May-2024,Mauthausen CH,3,Clay,R32,285,160,0,,6,Jozef Kovalik,Vilius Gaubas,6-0 7-6(0),0.63,0.0%,9.1%,41.8%,47.8%,28.1%,5/11,38.4%,40.4%,0.0%,34.4%,48.0%,3/4,112,0,5,55,23,32,0,1:23
+22-Apr-2024,Rome CH,3,Clay,F,345,218,0,,Alt,Alejandro Moro Canas,Vilius Gaubas,7-5 6-3,0.80,1.8%,0.0%,58.9%,57.6%,39.1%,5/10,44.1%,40.2%,5.7%,41.0%,38.5%,3/10,143,1,0,56,33,23,5,2:06
+22-Apr-2024,Rome CH,3,Clay,SF,345,173,1,,8,Vilius Gaubas,Hugo Dellien,6-4 7-5,1.25,0.0%,1.7%,55.2%,65.6%,57.7%,1/4,54.7%,47.5%,0.0%,46.2%,50.0%,5/5,117,0,1,58,32,26,0,1:30
+22-Apr-2024,Rome CH,3,Clay,QF,345,138,1,,2,Vilius Gaubas,Nicolas Moreno De Alboran,6-3 6-4,1.43,6.9%,5.2%,69.0%,82.5%,55.6%,1/1,55.0%,37.1%,4.8%,26.8%,57.1%,2/7,120,4,3,58,40,18,3,1:26
+22-Apr-2024,Rome CH,3,Clay,R16,345,186,1,,,Vilius Gaubas,Matteo Martineau,7-5 4-6 6-4,1.08,5.3%,3.2%,70.5%,70.1%,50.0%,5/8,50.7%,38.7%,0.9%,31.8%,50.0%,4/16,201,5,3,95,67,28,1,2:37
+22-Apr-2024,Rome CH,3,Clay,R32,345,166,1,,7,Vilius Gaubas,Andrea Pellegrino,6-4 6-1,1.72,4.1%,0.0%,61.2%,83.3%,52.6%,1/1,59.4%,49.1%,1.8%,53.5%,35.7%,4/7,106,2,0,49,30,19,1,1:17
+22-Apr-2024,Rome CH,3,Clay,Q2,345,403,1,,9,Vilius Gaubas,Daniel Merida Aguilar,7-5 6-4,1.15,2.7%,1.4%,66.2%,71.4%,52.0%,6/7,53.1%,40.6%,0.0%,35.2%,60.0%,3/5,143,2,1,74,49,25,0,1:43
+22-Apr-2024,Rome CH,3,Clay,Q1,345,506,1,,Alt,Vilius Gaubas,Tommaso Compagnucci,6-1 6-2,1.98,0.0%,2.5%,65.0%,76.9%,64.3%,0/0,62.8%,54.3%,2.2%,63.0%,42.1%,5/6,86,0,1,40,26,14,1,1:03
+15-Apr-2024,Oeiras CH,3,Clay,QF,345,255,0,,WC,Jaime Faria,Vilius Gaubas,6-4 7-6(5),1.07,3.4%,3.4%,60.3%,71.4%,60.9%,0/3,49.2%,35.1%,4.1%,22.0%,51.5%,2/6,132,2,2,58,35,23,3,1:44
+15-Apr-2024,Oeiras CH,3,Clay,R16,345,134,1,,6,Vilius Gaubas,Terence Atmane,6-1 6-0,2.31,4.7%,0.0%,69.8%,76.7%,69.2%,1/1,67.1%,59.0%,2.6%,50.0%,76.9%,5/11,82,2,0,43,30,13,1,1:00
+15-Apr-2024,Oeiras CH,3,Clay,R32,345,377,1,,WC,Vilius Gaubas,Frederico Ferreira Silva,7-5 2-6 6-3,1.02,8.0%,2.3%,67.8%,61.0%,46.4%,3/8,50.3%,44.4%,1.1%,36.0%,55.0%,6/10,177,7,2,87,59,28,1,2:43
+8-Apr-2024,Madrid CH,3,Clay,R32,314,158,0,,,Stefano Napolitano,Vilius Gaubas,6-3 6-2,0.56,3.5%,3.5%,66.7%,52.6%,47.4%,3/7,39.8%,27.5%,2.0%,26.5%,29.4%,0/0,108,2,2,57,38,19,1,1:22
+25-Mar-2024,Girona CH,3,Clay,R32,316,88,0,,2,Pedro Martinez,Vilius Gaubas,7-6(9) 6-4,1.02,7.1%,0.0%,67.1%,66.0%,52.2%,0/3,48.5%,39.4%,1.0%,36.7%,50.0%,2/5,169,5,0,70,47,23,1,2:24
+25-Mar-2024,Girona CH,3,Clay,Q2,316,278,1,,5,Vilius Gaubas,Joao Sousa,6-4 6-3,1.33,7.0%,1.8%,57.9%,75.8%,54.2%,0/2,55.9%,44.4%,1.9%,42.4%,47.6%,4/8,111,4,1,57,33,24,1,1:33
+25-Mar-2024,Girona CH,3,Clay,Q1,316,1929,1,,WC,Vilius Gaubas,Nil Regas Luis,6-4 6-3,1.32,5.6%,0.0%,68.5%,70.3%,58.8%,1/2,54.1%,44.1%,1.5%,32.4%,58.1%,4/7,122,3,0,54,37,17,1,1:31
+18-Mar-2024,Murcia CH,3,Clay,Q2,316,290,0,,3,Samuel Vincent Ruggeri,Vilius Gaubas,6-3 7-5,0.81,0.0%,0.0%,63.8%,56.8%,42.9%,3/8,44.7%,39.2%,5.4%,34.5%,56.3%,3/9,132,0,0,58,37,21,4,1:48
+18-Mar-2024,Murcia CH,3,Clay,Q1,316,706,1,,Alt,Vilius Gaubas,Niki Kaliyanda Poonacha,7-6(3) 6-3,1.02,3.7%,1.2%,70.4%,75.4%,45.8%,7/8,52.9%,33.9%,5.1%,32.4%,36.4%,2/3,140,3,1,81,57,24,3,1:44
+4-Mar-2024,M25 Quinta Do Lago,3,Hard,R32,332,447,0,7,,Eliakim Coulibaly,Vilius Gaubas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,F,358,391,0,4,6,Jaime Faria,Vilius Gaubas,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,SF,358,436,1,4,7,Vilius Gaubas,Matthew Dellavedova,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,QF,358,365,1,4,5,Vilius Gaubas,Altug Celikbilek,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R16,358,620,1,4,,Vilius Gaubas,Gabriele Piraino,7-6(3) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Feb-2024,M25 Faro,3,Hard,R32,358,993,1,4,Q,Vilius Gaubas,Johannes Ingildsen,3-6 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Antalya,3,Clay,F,372,644,0,6,,Carlos Gimeno Valero,Vilius Gaubas,1-6 7-6(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Antalya,3,Clay,SF,372,377,1,6,7,Vilius Gaubas,Tim Handel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Antalya,3,Clay,QF,372,424,1,6,,Vilius Gaubas,Lucas Gerch,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Antalya,3,Clay,R16,372,1029,1,6,,Vilius Gaubas,Ioan Alexandru Chirita,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Feb-2024,M25 Antalya,3,Clay,R32,372,891,1,6,,Vilius Gaubas,Bogdan Pavel,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,SF,370,488,0,7,,Daniel Merida Aguilar,Vilius Gaubas,6-0 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,QF,370,307,1,7,3,Vilius Gaubas,Hady Habib,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,R16,370,554,1,7,,Vilius Gaubas,Gerald Melzer,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Feb-2024,M25 Antalya,3,Clay,R32,370,,1,7,WC,Vilius Gaubas,S Mert Ozdemir,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2024,Davis Cup WG1 PO: LTU vs GEO,3,Hard,RR,366,450,0,,,Saba Purtseladze,Vilius Gaubas,6-3 1-6 7-5,1.15,2.6%,6.6%,63.2%,75.0%,46.4%,4/8,52.2%,40.7%,2.5%,34.3%,45.7%,4/9,157,2,5,76,48,28,2,1:55
+3-Feb-2024,Davis Cup WG1 PO: LTU vs GEO,3,Hard,RR,366,721,1,,,Vilius Gaubas,Zura Tkemaladze,7-5 6-3,1.16,2.4%,3.6%,72.3%,70.0%,47.8%,7/8,54.5%,41.9%,0.0%,33.3%,60.0%,3/7,145,2,3,83,60,23,0,1:49
+15-Jan-2024,Tenerife CH,3,Hard,Q2,373,184,0,,1,Denis Yevseyev,Vilius Gaubas,6-3 6-2,0.63,5.1%,3.4%,66.1%,56.4%,40.0%,5/9,41.4%,30.8%,1.9%,29.0%,33.3%,0/0,111,3,2,59,39,20,1,1:15
+15-Jan-2024,Tenerife CH,3,Hard,Q1,373,309,1,,7,Vilius Gaubas,Altug Celikbilek,2-6 6-3 6-3,1.02,5.7%,0.0%,64.8%,64.9%,29.0%,2/7,50.3%,48.5%,2.1%,44.2%,53.3%,6/11,185,5,0,88,57,31,2,2:09
+27-Nov-2023,Maspalomas CH,3,Clay,R16,391,117,0,,1,Pedro Martinez,Vilius Gaubas,6-3 6-1,0.41,0.0%,6.0%,62.0%,58.1%,31.6%,1/5,35.9%,21.4%,2.4%,13.6%,30.0%,0/2,92,0,3,50,31,19,1,1:20
+27-Nov-2023,Maspalomas CH,3,Clay,R32,391,432,1,,PR,Vilius Gaubas,Carlos Lopez Montagud,2-6 7-6(7) 6-4,0.93,0.0%,2.9%,73.3%,58.4%,46.4%,7/13,49.0%,41.6%,1.1%,39.7%,45.2%,5/8,194,0,3,105,77,28,1,2:46
+27-Nov-2023,Maspalomas CH,3,Clay,Q2,391,1217,1,,,Vilius Gaubas,Mircea Alexandru Jecan,6-3 6-3,1.38,5.3%,1.8%,61.4%,71.4%,59.1%,5/6,57.0%,46.0%,0.0%,41.2%,56.3%,4/7,107,3,1,57,35,22,0,1:21
+27-Nov-2023,Maspalomas CH,3,Clay,Q1,391,672,1,,,Vilius Gaubas,Diego Augusto Barreto Sanchez,6-3 6-3,1.24,2.0%,2.0%,65.3%,68.8%,52.9%,2/4,54.7%,45.7%,2.2%,37.0%,57.9%,5/8,95,1,1,49,32,17,1,1:08
+20-Nov-2023,Valencia CH,3,Clay,Q1,400,264,0,,7,Henri Squire,Vilius Gaubas,6-3 3-6 6-4,0.99,1.2%,1.2%,63.9%,56.6%,56.7%,3/8,48.9%,42.9%,3.8%,38.9%,51.5%,4/12,188,1,1,83,53,30,4,2:21
+13-Nov-2023,M15 Valencia,3,,SF,402,241,0,3,1,Marco Trungelliti,Vilius Gaubas,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,QF,402,516,1,3,,Vilius Gaubas,Martin Landaluce,6-2 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R16,402,,1,3,Q,Vilius Gaubas,Jordi Garcia Mestre,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,,R32,402,523,1,3,,Vilius Gaubas,Daniel Merida Aguilar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Benicarlo,3,Clay,R32,405,821,0,8,Q,Carlos Gimeno Valero,Vilius Gaubas,7-6(3) 7-6(10),,,,,,,,,,,,,,,,,,,,,
+16-Oct-2023,M15 Castellon,3,Clay,R32,406,1494,0,5,WC,Vicente Oliver Moratalla,Vilius Gaubas,3-6 7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Vigo,3,Clay,QF,480,725,0,2,,Jorge Martinez Martinez,Vilius Gaubas,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Vigo,3,Clay,R16,480,1595,1,2,Q,Vilius Gaubas,Giacomo Revelli,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Oct-2023,M15 Vigo,3,Clay,R32,480,1496,1,2,Q,Vilius Gaubas,Louroi Martinez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,F,481,516,1,7,,Vilius Gaubas,Felix Gill,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,SF,481,351,1,7,2,Vilius Gaubas,Alvaro Lopez San Martin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,QF,481,952,1,7,,Vilius Gaubas,Michiel De Krom,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,R16,481,694,1,7,,Vilius Gaubas,Max Alcala Gurri,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Sep-2023,M25 Sabadell,3,Clay,R32,481,623,1,7,,Vilius Gaubas,Florent Bax,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2023,Davis Cup WG1 R1: ARG vs LTU,3,Clay,RR,476,21,0,,,Francisco Cerundolo,Vilius Gaubas,6-1 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M25 Oviedo,3,Clay,R32,508,1332,0,5,Q,Kane Bonsach Ganley,Vilius Gaubas,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,F,507,693,0,7,,Svyatoslav Gulin,Vilius Gaubas,6-7(5) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,SF,507,534,1,7,6,Vilius Gaubas,Imanol Lopez Morillo,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -19,6 +75,9 @@
 24-Jul-2023,M25 Denia,3,Clay,R16,604,462,1,,5,Vilius Gaubas,Daniel Merida Aguilar,1-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jul-2023,M25 Denia,3,Clay,R32,604,658,1,,,Vilius Gaubas,Oscar Jose Gutierrez,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
 17-Jul-2023,Pozoblanco CH,3,Hard,Q1,603,424,0,,7,Ulises Blanch,Vilius Gaubas,6-4 6-3,0.56,0.0%,0.0%,54.2%,59.4%,59.3%,5/8,43.0%,22.9%,10.4%,16.1%,35.3%,0/1,107,0,0,59,32,27,5,
+3-Jul-2023,M25 Getxo,3,Clay,QF,539,753,0,8,,Alex Martinez,Vilius Gaubas,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R16,539,563,1,8,,Vilius Gaubas,Max Alcala Gurri,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jul-2023,M25 Getxo,3,Clay,R32,539,2003,1,8,WC,Vilius Gaubas,Alejandro Garcia,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-2023,M25 La Nucia,3,Clay,R32,535,339,0,,3,Daniel Cukierman,Vilius Gaubas,3-6 7-6(6) 4-1 RET,,,,,,,,,,,,,,,,,,,,,
 22-May-2023,M25 Mataro,3,Clay,R32,534,884,0,,Q,Diego Augusto Barreto Sanchez,Vilius Gaubas,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Apr-2023,M15 Telde,3,Clay,QF,598,740,0,,,Alejandro Manzanera Pertusa,Vilius Gaubas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -42,7 +101,7 @@
 27-Feb-2023,M15 Antalya,3,Clay,R32,774,1800,0,Q,,Iliyan Radulov,Vilius Gaubas,6-1 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 20-Feb-2023,M25 Faro,3,Hard,R32,774,494,0,Q,,Timo Legout,Vilius Gaubas,6-3 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 6-Feb-2023,Vilnius CH,3,Hard,R32,760,168,0,,2,Elias Ymer,Vilius Gaubas,4-6 7-6(5) 6-4,0.89,0.0%,2.7%,56.4%,64.5%,60.4%,5/8,48.4%,33.0%,1.9%,33.8%,31.4%,3/4,213,0,3,110,62,48,2,2:39
-3-Feb-2023,Davis Cup WG1 PO: PAK vs LTU,3,Hard,RR,760,,1,,,Vilius Gaubas,Mahammad Abid,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Feb-2023,Davis Cup WG1 PO: PAK vs LTU,3,,RR,760,,1,,,Vilius Gaubas,Mahammad Abid,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 16-Jan-2023,M15 Vilnius,3,Hard,R32,753,439,0,,1,Karl Friberg,Vilius Gaubas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Jan-2023,M15 Manacor,3,Hard,R32,756,612,0,,,Alex Knaff,Vilius Gaubas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Oct-2022,Vilnius CH,3,Hard,R32,716,214,0,,8,Antoine Escoffier,Vilius Gaubas,6-1 6-3,0.65,0.0%,2.2%,67.4%,45.2%,46.7%,3/8,39.8%,35.1%,8.8%,21.1%,63.2%,1/5,103,0,1,46,31,15,5,1:16
