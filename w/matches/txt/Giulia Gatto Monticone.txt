@@ -1,4 +1,14 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+17-Apr-2023,W60 Koper,3,Clay,Q1,531,789,0,4,,Cristina Andreea Mitu,Giulia Gatto Monticone,6-4 6-0,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,R16,485,112,0,Q,2,Oceane Dodin,Giulia Gatto Monticone,6-0 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,R32,485,362,1,Q,,Giulia Gatto Monticone,Lucie Havlickova,7-6(3) 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,Q2,485,792,1,8,WC,Giulia Gatto Monticone,Jenny Lim,6-4 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,Q1,485,608,1,8,,Giulia Gatto Monticone,Stefania Rubini,6-4 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,QF,492,403,0,,6,Eliz Maloney,Giulia Gatto Monticone,6-3 7-5,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,R16,492,354,1,,3,Giulia Gatto Monticone,Anna Siskova,4-6 6-3 6-1,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,R32,492,,1,,,Giulia Gatto Monticone,Johanne Christine Svendsen,6-4 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,R16,440,194,0,,2,Petra Marcinko,Giulia Gatto Monticone,6-3 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,R32,440,430,1,,,Giulia Gatto Monticone,Sofia Costoulas,6-3 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W25 Loule,3,Hard,R32,349,460,0,8,,Kathleen Kanev,Giulia Gatto Monticone,6-7(7) 6-3 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Quinta do Lago,3,Hard,R16,314,310,0,8,,Cagla Buyukakcay,Giulia Gatto Monticone,6-2 6-0,,,,,,,,,,,,,,
 10-Oct-2022,W25 Quinta do Lago,3,Hard,R32,314,417,1,8,,Giulia Gatto Monticone,Sandra Samir,6-3 6-4,,,,,,,,,,,,,,
@@ -133,7 +143,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jul-2019,Lausanne,3,Clay,R32,149,85,0,Q,,Bernarda Pera,Giulia Gatto Monticone,6-0 6-3,0.38,0.0%,8.3%,64.6%,48.4%,35.3%,61.5% (8/13),34.1%,21.6%,10.8%,9.5%,37.5%,- (0/0),0:58
 15-Jul-2019,Lausanne,3,Clay,Q2,149,148,1,7,4,Giulia Gatto Monticone,Kristina Kucova,7-6(4) 6-4,1.12,1.3%,5.1%,70.5%,60.0%,34.8%,50.0% (5/10),52.8%,53.1%,0.0%,42.9%,71.4%,37.5% (6/16),2:00
 15-Jul-2019,Lausanne,3,Clay,Q1,149,394,1,7,,Giulia Gatto Monticone,Alison Bai,6-3 6-2,1.29,0.0%,3.5%,77.2%,61.4%,46.2%,33.3% (1/3),55.9%,54.4%,2.5%,37.5%,71.8%,25.0% (5/20),1:23
-1-Jul-2019,Wimbledon,5,Grass,R128,161,10,0,,11,Serena Williams,Giulia Gatto Monticone,6-2 7-5 (ch),0.66,2.9%,5.8%,58.0%,52.5%,41.4%,50.0% (5/10),41.9%,34.5%,12.7%,30.6%,42.1%,50.0% (2/4),1:20
+1-Jul-2019,Wimbledon,5,Grass,R128,161,10,0,,11,Serena Williams,Giulia Gatto Monticone,6-2 7-5,0.66,2.9%,5.8%,58.0%,52.5%,41.4%,50.0% (5/10),41.9%,34.5%,12.7%,30.6%,42.1%,50.0% (2/4),1:20
 1-Jul-2019,Wimbledon,5,Grass,Q3,161,447,1,,,Giulia Gatto Monticone,Oceane Dodin,3-6 7-5 6-1,1.02,2.0%,4.1%,67.3%,63.6%,43.8%,66.7% (6/9),51.1%,43.9%,7.3%,34.0%,59.4%,41.7% (5/12),1:50
 1-Jul-2019,Wimbledon,5,Grass,Q2,161,130,1,,21,Giulia Gatto Monticone,Xiyu Wang,6-3 6-1,1.34,0.0%,2.1%,68.8%,57.6%,53.3%,50.0% (3/6),57.8%,58.8%,1.5%,48.4%,67.6%,43.8% (7/16),1:15
 1-Jul-2019,Wimbledon,5,Grass,Q1,161,235,1,,,Giulia Gatto Monticone,Raluka Serban,4-6 6-3 6-3,1.28,1.2%,3.7%,72.0%,67.8%,52.2%,63.6% (7/11),55.2%,47.0%,3.6%,43.9%,53.8%,60.0% (6/10),1:47
@@ -152,7 +162,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Apr-2019,Stuttgart,3,Clay,Q3,169,192,0,,,Greet Minnen,Giulia Gatto Monticone,6-1 6-7(3) 6-2,0.80,0.8%,5.7%,78.9%,55.7%,30.8%,70.8% (17/24),45.8%,39.6%,13.2%,34.8%,52.0%,20.0% (2/10),2:15
 22-Apr-2019,Stuttgart,3,Clay,Q2,169,173,1,,,Giulia Gatto Monticone,Magdalena Frech,6-4 6-4,1.14,0.0%,6.5%,69.4%,51.2%,57.9%,63.6% (7/11),53.2%,53.1%,4.7%,40.9%,80.0%,60.0% (6/10),1:33
 22-Apr-2019,Stuttgart,3,Clay,Q1,169,102,1,,4,Giulia Gatto Monticone,Dalila Jakupovic,6-4 6-7(4) 6-0,1.30,0.0%,4.2%,72.6%,56.5%,61.5%,60.0% (6/10),56.4%,54.8%,1.1%,50.8%,62.5%,72.7% (8/11),2:02
-8-Apr-2019,Lugano,3,Clay,R32,173,46,0,Q,3,Viktoria Kuzmova,Giulia Gatto Monticone,6-2 6-2 (ch),0.69,0.0%,8.9%,66.7%,40.0%,40.0%,33.3% (3/9),40.8%,41.5%,1.9%,46.9%,33.3%,22.2% (2/9),1:01
+8-Apr-2019,Lugano,3,Clay,R32,173,46,0,Q,3,Viktoria Kuzmova,Giulia Gatto Monticone,6-2 6-2,0.69,0.0%,8.9%,66.7%,40.0%,40.0%,33.3% (3/9),40.8%,41.5%,1.9%,46.9%,33.3%,22.2% (2/9),1:01
 8-Apr-2019,Lugano,3,Clay,Q2,173,,1,,WC,Giulia Gatto Monticone,Fiona Ganz,6-2 6-2,1.52,0.0%,7.8%,66.7%,70.6%,52.9%,75.0% (3/4),58.9%,53.6%,1.8%,50.0%,56.7%,50.0% (5/10),1:07
 8-Apr-2019,Lugano,3,Clay,Q1,173,181,1,,9,Giulia Gatto Monticone,Kathinka Von Deichmann,6-4 6-4,1.12,0.0%,5.9%,70.6%,55.0%,48.0%,71.4% (10/14),52.9%,52.8%,0.0%,47.1%,66.7%,40.0% (6/15),1:44
 25-Mar-2019,W25 Kofu,3,Hard,F,211,629,1,,IR,Giulia Gatto Monticone,Lara Salden,6-2 6-1,,,,,,,,,,,,,,

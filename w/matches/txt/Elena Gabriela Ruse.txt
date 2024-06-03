@@ -1,4 +1,79 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,Paris 125,3,Clay,SF,148,22,0,Q,1,Emma Navarro,Elena Gabriela Ruse,6-0 6-2,0.41,0.0%,6.3%,54.2%,46.2%,36.4%,50.0% (5/10),33.7%,23.7%,5.3%,21.7%,26.7%,- (0/0),1:00
+13-May-2024,Paris 125,3,Clay,QF,148,99,1,Q,,Elena Gabriela Ruse,Alize Cornet,6-1 6-2,1.62,0.0%,2.5%,70.0%,60.7%,66.7%,60.0% (3/5),61.4%,60.7%,1.6%,61.8%,59.3%,50.0% (7/14),1:19
+13-May-2024,Paris 125,3,Clay,R16,148,220,1,Q,WC,Elena Gabriela Ruse,Kristina Mladenovic,6-1 6-0,1.71,6.5%,2.2%,69.6%,68.8%,50.0%,66.7% (2/3),63.0%,63.0%,0.0%,56.0%,71.4%,54.5% (6/11),1:05
+13-May-2024,Paris 125,3,Clay,R32,148,57,1,Q,5,Elena Gabriela Ruse,Lin Zhu,0-6 6-1 6-1,1.19,8.8%,5.9%,66.2%,62.2%,43.5%,25.0% (1/4),54.2%,52.4%,0.0%,48.6%,57.7%,50.0% (5/10),1:34
+15-Apr-2024,Rouen,3,Clay,QF,162,23,0,Q,2,Caroline Garcia,Elena Gabriela Ruse,6-3 6-4,1.02,5.8%,5.8%,55.8%,72.4%,56.5%,60.0% (3/5),47.3%,35.4%,10.1%,30.4%,47.8%,0.0% (0/8),1:29
+15-Apr-2024,Rouen,3,Clay,R16,162,44,1,Q,7,Elena Gabriela Ruse,Clara Burel,6-0 2-6 6-3,1.17,3.9%,3.9%,59.7%,60.9%,45.2%,60.0% (6/10),53.9%,53.3%,0.0%,50.0%,58.1%,50.0% (7/14),1:54
+15-Apr-2024,Rouen,3,Clay,R32,162,85,1,Q,,Elena Gabriela Ruse,Nao Hibino,6-2 6-1,1.69,9.6%,5.8%,61.5%,81.3%,40.0%,66.7% (2/3),62.4%,58.5%,0.0%,52.0%,68.8%,50.0% (5/10),1:02
+15-Apr-2024,Rouen,3,Clay,Q2,162,356,1,5,,Elena Gabriela Ruse,Martyna Kubka,6-4 6-0,1.55,12.8%,6.4%,57.4%,63.0%,70.0%,0.0% (0/1),58.7%,52.6%,1.8%,48.6%,59.1%,62.5% (5/8),1:11
+15-Apr-2024,Rouen,3,Clay,Q1,162,287,1,5,,Elena Gabriela Ruse,Nuria Brancaccio,7-6(5) 6-4,1.11,3.7%,6.1%,51.2%,64.3%,45.0%,50.0% (4/8),52.4%,50.0%,0.0%,52.5%,44.0%,45.5% (5/11),1:54
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R16,168,128,0,LL,,Olga Danilovic,Elena Gabriela Ruse,6-4 6-3,0.75,0.0%,4.8%,55.6%,68.6%,39.3%,55.6% (5/9),45.3%,33.3%,0.0%,30.6%,38.9%,100.0% (2/2),1:28
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,168,129,1,LL,,Elena Gabriela Ruse,Nuria Parrizas Diaz,6-2 6-1,1.81,9.3%,9.3%,53.5%,73.9%,45.0%,66.7% (4/6),65.9%,71.4%,0.0%,73.1%,68.8%,87.5% (7/8),0:59
+25-Mar-2024,Antalya 125,3,Clay,R32,170,190,0,Q,Q,Katarzyna Kawa,Elena Gabriela Ruse,3-6 7-6(6) 6-2,1.02,3.2%,3.2%,61.3%,57.9%,41.7%,36.4% (4/11),50.5%,49.6%,0.9%,41.2%,61.2%,41.2% (7/17),2:46
+25-Mar-2024,Antalya 125,3,Clay,Q2,170,327,1,1,WC,Elena Gabriela Ruse,Berfu Cengiz,6-0 7-5,1.44,1.6%,6.3%,66.7%,54.8%,47.6%,33.3% (2/6),59.6%,68.6%,0.0%,63.6%,77.8%,80.0% (8/10),1:26
+25-Mar-2024,Antalya 125,3,Clay,Q1,170,214,1,1,,Elena Gabriela Ruse,Cristina Andreea Mitu,6-2 5-7 6-3,1.13,1.2%,7.0%,66.3%,59.6%,37.9%,68.4% (13/19),53.1%,53.7%,0.0%,48.4%,61.4%,56.3% (9/16),2:33
+18-Mar-2024,W75 Maribor,3,Hard,R16,170,290,0,,Q,Elena Pridankina,Elena Gabriela Ruse,6-1 6-1,,,,,,,,,,,,,,
+18-Mar-2024,W75 Maribor,3,Hard,R32,170,277,1,,Q,Elena Gabriela Ruse,Kathinka Von Deichmann,6-3 6-3,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,QF,171,174,0,8,,Jana Fett,Elena Gabriela Ruse,6-2 7-6(11),,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,R16,171,811,1,8,WC,Elena Gabriela Ruse,Renata Jamrichova,7-5 6-4,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,R32,171,169,1,8,,Elena Gabriela Ruse,Valeria Savinykh,6-1 7-6(4),,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R32,158,202,0,5,,Noma Noha Akugue,Elena Gabriela Ruse,6-2 6-1,,,,,,,,,,,,,,
+1-Jan-2024,Auckland,3,Hard,R32,134,301,0,Q,WC,Emma Raducanu,Elena Gabriela Ruse,6-3 4-6 7-5,0.93,2.1%,2.1%,66.3%,58.7%,46.9%,53.8% (7/13),48.4%,41.9%,3.2%,36.1%,53.1%,83.3% (5/6),2:27
+1-Jan-2024,Auckland,3,Hard,Q2,134,169,1,2,7,Elena Gabriela Ruse,Jule Niemeier,6-0 3-6 6-3,1.20,0.0%,7.3%,62.2%,58.8%,51.6%,66.7% (8/12),54.4%,52.6%,1.3%,41.5%,65.7%,58.3% (7/12),1:57
+1-Jan-2024,Auckland,3,Hard,Q1,134,918,1,2,,Elena Gabriela Ruse,Anna Danilina,6-3 6-3,1.22,1.4%,8.2%,65.8%,72.9%,28.0%,77.8% (7/9),55.2%,51.9%,3.8%,50.0%,57.1%,62.5% (5/8),1:32
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,125,353,1,,,Elena Gabriela Ruse,Mia Ristic,7-6(2) 6-3,1.28,4.3%,2.9%,66.7%,65.2%,34.8%,58.3% (7/12),56.3%,57.6%,1.5%,50.0%,69.2%,66.7% (6/9),
+16-Oct-2023,Cluj Napoca,3,Hard,F,188,105,0,WC,,Tamara Korpatsch,Elena Gabriela Ruse,6-3 6-4,0.83,1.8%,5.4%,64.3%,50.0%,30.0%,40.0% (4/10),45.2%,47.1%,0.0%,42.4%,51.4%,50.0% (4/8),1:52
+16-Oct-2023,Cluj Napoca,3,Hard,SF,188,67,1,WC,4,Elena Gabriela Ruse,Rebeka Masarova,6-1 6-4,1.48,2.1%,2.1%,68.8%,54.5%,66.7%,40.0% (2/5),60.2%,61.7%,0.0%,62.9%,60.0%,63.6% (7/11),1:21
+16-Oct-2023,Cluj Napoca,3,Hard,QF,188,118,1,WC,,Elena Gabriela Ruse,Emiliana Arango,6-1 0-6 6-1,1.25,0.0%,1.7%,61.7%,67.6%,39.1%,50.0% (4/8),55.3%,54.2%,0.0%,50.9%,63.2%,46.2% (6/13),1:45
+16-Oct-2023,Cluj Napoca,3,Hard,R16,188,116,1,WC,,Elena Gabriela Ruse,Anna Bondar,7-6(4) 6-2,1.21,2.7%,1.4%,67.6%,76.0%,33.3%,71.4% (5/7),54.2%,45.7%,0.0%,34.9%,63.0%,57.1% (4/7),1:59
+16-Oct-2023,Cluj Napoca,3,Hard,R32,188,54,1,WC,2,Elena Gabriela Ruse,Alycia Parks,6-2 1-6 6-4,1.09,0.0%,6.0%,58.2%,61.5%,42.9%,16.7% (1/6),51.9%,50.5%,6.5%,46.7%,54.2%,50.0% (6/12),2:17
+9-Oct-2023,W40 Quinta do Lago,3,Hard,SF,185,145,0,7,3,Harriet Dart,Elena Gabriela Ruse,6-3 6-4,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,QF,185,133,1,7,2,Elena Gabriela Ruse,Darja Semenistaja,6-2 6-2,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R16,185,237,1,7,,Elena Gabriela Ruse,Berfu Cengiz,6-2 6-4,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R32,185,,1,7,WC,Elena Gabriela Ruse,Carolina Mesquita,6-0 6-3,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,R128,167,25,0,Q,25,Karolina Pliskova,Elena Gabriela Ruse,6-1 6-4,0.66,5.7%,11.3%,62.3%,54.5%,45.0%,55.6% (5/9),41.1%,32.2%,18.6%,17.1%,54.2%,16.7% (1/6),1:18
+28-Aug-2023,US Open,5,Hard,Q3,167,110,1,,12,Elena Gabriela Ruse,Dayana Yastremska,7-6(5) 6-3,1.20,3.8%,3.8%,63.7%,64.7%,37.9%,55.6% (5/9),54.5%,54.1%,6.8%,40.5%,67.6%,71.4% (5/7),1:49
+28-Aug-2023,US Open,5,Hard,Q2,167,116,1,,17,Elena Gabriela Ruse,Dalma Galfi,4-6 6-1 7-5,1.17,0.0%,5.7%,59.1%,73.1%,52.8%,50.0% (2/4),52.8%,41.1%,4.4%,38.7%,46.4%,57.1% (4/7),2:11
+28-Aug-2023,US Open,5,Hard,Q1,167,184,1,,,Elena Gabriela Ruse,Kristina Mladenovic,6-2 6-2,4.60,8.3%,5.6%,58.3%,100.0%,73.3%,- (0/0),67.9%,51.1%,0.0%,53.1%,46.2%,100.0% (4/4),1:05
+14-Aug-2023,Stanford 125,3,Hard,R32,163,95,0,,8,Danka Kovinic,Elena Gabriela Ruse,3-6 7-5 7-5,1.05,1.0%,5.2%,57.3%,70.9%,48.8%,28.6% (2/7),51.1%,40.4%,6.4%,30.0%,58.8%,100.0% (5/5),2:17
+17-Jul-2023,Iasi 125,3,Clay,R32,158,433,0,,LL,Conny Perrin,Elena Gabriela Ruse,6-4 6-1,0.66,0.0%,5.1%,46.2%,55.6%,42.9%,33.3% (2/6),40.0%,33.9%,1.8%,25.0%,45.8%,33.3% (1/3),1:13
+3-Jul-2023,Wimbledon,5,Grass,Q2,161,112,0,,17,Yanina Wickmayer,Elena Gabriela Ruse,4-6 6-3 6-3,0.85,5.0%,3.8%,57.5%,65.2%,41.2%,14.3% (1/7),46.6%,38.3%,3.7%,35.8%,42.9%,50.0% (4/8),1:51
+3-Jul-2023,Wimbledon,5,Grass,Q1,161,595,1,,WC,Elena Gabriela Ruse,Isabelle Lacy,7-5 6-2,1.65,6.7%,1.7%,55.0%,81.8%,63.0%,100.0% (4/4),58.8%,44.1%,3.4%,27.3%,65.4%,42.9% (3/7),1:15
+12-Jun-2023,Nottingham,3,Grass,Q2,151,272,0,8,,Sonay Kartal,Elena Gabriela Ruse,6-2 7-5,0.80,1.4%,11.0%,56.2%,58.5%,40.6%,44.4% (4/9),45.1%,39.4%,1.4%,38.3%,41.7%,22.2% (2/9),1:56
+12-Jun-2023,Nottingham,3,Grass,Q1,151,271,1,8,,Elena Gabriela Ruse,Joanna Garland,6-4 7-6(0),1.33,3.0%,4.5%,56.1%,67.6%,69.0%,33.3% (1/3),55.4%,42.2%,4.7%,42.5%,41.7%,75.0% (3/4),1:41
+29-May-2023,Roland Garros,5,Clay,Q2,157,120,0,,25,Greet Minnen,Elena Gabriela Ruse,6-4 6-1,0.75,1.7%,5.0%,55.0%,27.3%,51.9%,50.0% (7/14),42.2%,46.4%,0.0%,33.3%,65.2%,30.0% (3/10),
+29-May-2023,Roland Garros,5,Clay,Q1,157,129,1,,,Elena Gabriela Ruse,Jaqueline Cristian,6-3 6-4,1.28,1.9%,3.8%,71.7%,57.9%,53.3%,0.0% (0/3),56.1%,55.6%,1.9%,51.4%,64.7%,100.0% (6/6),
+8-May-2023,Rome,3,Clay,R64,152,15,0,Q,12,Beatriz Haddad Maia,Elena Gabriela Ruse,6-2 6-3,0.60,1.9%,1.9%,48.1%,52.0%,44.4%,55.6% (5/9),39.8%,31.4%,5.9%,32.3%,30.0%,33.3% (1/3),1:28
+8-May-2023,Rome,3,Clay,R128,152,55,1,Q,,Elena Gabriela Ruse,Linda Fruhvirtova,6-1 6-0,2.14,5.1%,2.6%,61.5%,66.7%,73.3%,100.0% (6/6),67.5%,65.9%,2.3%,50.0%,88.9%,66.7% (6/9),1:02
+8-May-2023,Rome,3,Clay,Q2,152,90,1,,6,Elena Gabriela Ruse,Kamilla Rakhimova,6-7(6) 6-3 6-3,1.13,4.3%,4.3%,59.0%,63.8%,39.6%,64.3% (9/14),53.1%,52.3%,0.0%,42.2%,66.7%,66.7% (8/12),2:57
+8-May-2023,Rome,3,Clay,Q1,152,133,1,,18,Elena Gabriela Ruse,Laura Pigossi,6-1 6-2,1.72,0.0%,4.0%,50.0%,64.0%,56.0%,71.4% (5/7),64.2%,68.9%,2.2%,63.3%,80.0%,87.5% (7/8),1:13
+24-Apr-2023,Madrid,3,Clay,R128,158,71,0,Q,,Alize Cornet,Elena Gabriela Ruse,6-7(6) 6-4 6-3,1.06,1.0%,5.0%,55.4%,69.6%,51.1%,28.6% (2/7),50.0%,40.9%,2.4%,33.8%,53.2%,16.7% (2/12),2:51
+24-Apr-2023,Madrid,3,Clay,Q2,158,137,1,,22,Elena Gabriela Ruse,Leolia Jeanjean,6-4 6-3,1.36,6.9%,5.2%,60.3%,74.3%,47.8%,66.7% (4/6),56.3%,49.2%,6.6%,39.4%,60.7%,45.5% (5/11),1:33
+24-Apr-2023,Madrid,3,Clay,Q1,158,84,1,,6,Elena Gabriela Ruse,Ysaline Bonaventure,3-6 6-3 6-1,1.08,0.0%,7.0%,58.0%,63.8%,42.9%,77.8% (14/18),51.8%,48.4%,0.0%,32.1%,69.0%,33.3% (6/18),2:02
+10-Apr-2023,W60 Chiasso,3,Clay,R32,160,1344,0,7,WC,Elina Svitolina,Elena Gabriela Ruse,6-4 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,R32,159,790,0,2,Q,Dimitra Pavlou,Elena Gabriela Ruse,7-6(5) 7-5,,,,,,,,,,,,,,
+20-Mar-2023,W40 Maribor,3,Hard,R32,145,276,0,4,Q,Rebecca Sramkova,Elena Gabriela Ruse,7-5 6-1,,,,,,,,,,,,,,
+6-Mar-2023,Indian Wells,3,Hard,Q2,147,90,0,,2,Cristina Bucsa,Elena Gabriela Ruse,7-6(3) 6-4,0.86,4.4%,5.6%,47.8%,67.4%,40.4%,80.0% (16/20),47.3%,40.0%,0.0%,37.8%,43.3%,50.0% (3/6),1:58
+6-Mar-2023,Indian Wells,3,Hard,Q1,147,113,1,,19,Elena Gabriela Ruse,Tereza Martincova,6-1 6-4,1.68,5.8%,1.9%,59.6%,67.7%,57.1%,60.0% (3/5),62.5%,61.4%,4.5%,50.0%,75.0%,100.0% (6/6),1:09
+27-Feb-2023,Monterrey,3,Hard,R16,160,42,0,Q,4,Elise Mertens,Elena Gabriela Ruse,6-3 3-6 6-2,0.85,4.0%,8.0%,58.7%,61.4%,35.5%,57.1% (8/14),45.9%,42.1%,4.2%,32.1%,54.8%,33.3% (4/12),2:28
+27-Feb-2023,Monterrey,3,Hard,R32,160,46,1,Q,,Elena Gabriela Ruse,Camila Giorgi,6-4 7-5,1.22,6.8%,5.4%,64.9%,66.7%,38.5%,60.0% (6/10),54.9%,52.9%,1.4%,48.6%,57.6%,50.0% (6/12),1:51
+27-Feb-2023,Monterrey,3,Hard,Q2,160,355,1,,,Elena Gabriela Ruse,Jesika Maleckova,5-7 6-3 6-1,1.15,2.1%,8.3%,59.4%,70.2%,38.5%,55.6% (5/9),52.8%,49.2%,5.1%,31.7%,69.1%,38.9% (7/18),2:34
+27-Feb-2023,Monterrey,3,Hard,Q1,160,123,1,,4,Elena Gabriela Ruse,Simona Waltert,6-7(4) 6-0 6-2,1.42,4.8%,3.6%,57.1%,70.8%,58.3%,60.0% (3/5),56.1%,49.1%,1.8%,42.3%,63.9%,53.8% (7/13),2:25
+13-Feb-2023,Doha,3,Hard,Q3,143,37,0,,5,Elise Mertens,Elena Gabriela Ruse,6-4 2-6 6-4,0.97,4.8%,5.7%,56.2%,57.6%,41.3%,56.3% (9/16),49.3%,48.2%,1.8%,38.7%,60.0%,50.0% (7/14),2:56
+13-Feb-2023,Doha,3,Hard,Q2,143,28,1,,3,Elena Gabriela Ruse,Jil Teichmann,6-7(5) 7-6(1) 6-4,1.16,3.4%,6.8%,61.5%,65.3%,55.6%,54.5% (6/11),53.0%,44.5%,0.0%,39.7%,52.2%,50.0% (6/12),3:06
+13-Feb-2023,Doha,3,Hard,Q1,143,121,1,,,Elena Gabriela Ruse,Moyuka Uchijima,6-2 6-0,2.36,5.9%,11.8%,41.2%,85.7%,65.0%,0.0% (0/1),67.1%,62.5%,2.1%,60.0%,66.7%,54.5% (6/11),0:53
+6-Feb-2023,Abu Dhabi,3,Hard,R32,148,30,0,Q,,Barbora Krejcikova,Elena Gabriela Ruse,6-1 6-4,0.56,2.0%,10.2%,61.2%,56.7%,26.3%,28.6% (2/7),38.3%,31.1%,8.9%,20.0%,53.3%,66.7% (2/3),1:14
+6-Feb-2023,Abu Dhabi,3,Hard,Q2,148,149,1,,,Elena Gabriela Ruse,Mirjam Bjorklund,6-4 6-1,1.85,0.0%,4.3%,58.7%,77.8%,63.2%,50.0% (1/2),62.0%,52.2%,0.0%,39.1%,65.2%,57.1% (4/7),1:11
+6-Feb-2023,Abu Dhabi,3,Hard,Q1,148,88,1,,7,Elena Gabriela Ruse,Tereza Martincova,6-3 3-0 RET,1.58,8.3%,5.6%,50.0%,77.8%,50.0%,66.7% (2/3),60.9%,57.1%,0.0%,60.0%,50.0%,50.0% (4/8),0:42
+30-Jan-2023,Hua Hin,3,Hard,R32,144,176,0,,,Na Lae Han,Elena Gabriela Ruse,6-4 1-6 6-4,1.25,1.3%,3.8%,67.1%,67.9%,53.8%,50.0% (4/8),53.2%,45.9%,0.0%,42.3%,52.6%,33.3% (5/15),2:12
+16-Jan-2023,Australian Open,5,Hard,Q2,131,185,0,13,,Selena Janicijevic,Elena Gabriela Ruse,7-5 6-3,0.92,0.0%,6.3%,58.7%,62.2%,38.5%,44.4% (4/9),47.0%,43.8%,4.8%,42.6%,45.5%,37.5% (3/8),2:00
+16-Jan-2023,Australian Open,5,Hard,Q1,131,372,1,13,WC,Elena Gabriela Ruse,Seone Mendez,6-1 3-6 6-1,1.65,3.0%,4.5%,56.7%,78.9%,62.1%,75.0% (3/4),58.3%,46.8%,0.0%,43.1%,57.9%,100.0% (4/4),1:44
+2-Jan-2023,Auckland,3,Hard,R16,116,151,0,Q,,Karolina Muchova,Elena Gabriela Ruse,6-4 6-1,0.59,3.2%,11.3%,54.8%,58.8%,46.4%,55.6% (5/9),42.2%,27.7%,4.3%,25.8%,31.3%,- (0/0),1:22
+2-Jan-2023,Auckland,3,Hard,R32,116,855,1,Q,WC,Elena Gabriela Ruse,Erin Routliffe,6-2 4-6 6-4,1.29,10.5%,8.1%,46.5%,77.5%,50.0%,60.0% (6/10),54.8%,48.0%,2.9%,42.2%,57.9%,50.0% (6/12),2:24
+2-Jan-2023,Auckland,3,Hard,Q2,116,117,1,8,3,Elena Gabriela Ruse,Moyuka Uchijima,6-4 6-1,1.39,3.2%,3.2%,61.3%,81.6%,37.5%,75.0% (3/4),57.0%,49.2%,1.7%,50.0%,48.1%,44.4% (4/9),1:30
+2-Jan-2023,Auckland,3,Hard,Q1,116,141,1,8,,Elena Gabriela Ruse,Aliona Bolsova,7-5 6-4,1.17,4.3%,4.3%,60.9%,69.0%,51.9%,81.8% (9/11),51.9%,44.0%,5.5%,34.8%,72.7%,36.4% (4/11),1:51
+31-Oct-2022,W100 Shrewsbury,3,Hard,R32,98,128,0,5,,Jodie Burrage,Elena Gabriela Ruse,6-1 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,R32,96,165,0,5,,Marina Bassols Ribera,Elena Gabriela Ruse,6-2 6-2,,,,,,,,,,,,,,
 10-Oct-2022,Cluj Napoca,3,Hard,R16,104,59,0,WC,7,Xiyu Wang,Elena Gabriela Ruse,6-1 6-7(8) 7-6(6),0.92,5.8%,4.3%,65.9%,61.5%,44.7%,54.5% (6/11),48.3%,40.6%,2.3%,36.2%,51.3%,21.4% (3/14),3:26
 10-Oct-2022,Cluj Napoca,3,Hard,R32,104,122,1,WC,LL,Elena Gabriela Ruse,Harmony Tan,6-7(5) 6-2 6-3,1.19,1.0%,2.0%,66.3%,66.2%,60.6%,60.0% (3/5),53.3%,42.6%,1.0%,33.9%,56.4%,35.7% (5/14),2:34
@@ -7,17 +82,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Sep-2022,Portoroz,3,Hard,R32,96,92,0,Q,,Lesia Tsurenko,Elena Gabriela Ruse,6-1 4-6 6-4,0.84,1.7%,2.5%,60.2%,54.9%,42.6%,61.1% (11/18),46.8%,42.2%,0.0%,29.2%,60.0%,33.3% (4/12),2:58
 12-Sep-2022,Portoroz,3,Hard,Q2,96,596,1,2,WC,Elena Gabriela Ruse,Ziva Falkner,6-3 6-0,1.85,4.4%,13.3%,42.2%,78.9%,61.5%,100.0% (3/3),63.0%,57.4%,0.0%,54.2%,60.9%,71.4% (5/7),1:11
 12-Sep-2022,Portoroz,3,Hard,Q1,96,520,1,2,,Elena Gabriela Ruse,Yana Morderger,6-1 6-4,1.35,7.7%,12.3%,47.7%,58.1%,41.2%,63.6% (7/11),58.4%,68.3%,0.0%,53.8%,79.4%,57.1% (8/14),1:32
-29-Aug-2022,US Open,5,Hard,R64,101,12,0,,12,Cori Gauff,Elena Gabriela Ruse,6-2 7-6(4),0.75,1.5%,10.8%,50.8%,54.5%,46.9%,20.0% (1/5),43.7%,37.1%,8.6%,23.4%,65.2%,33.3% (2/6),1:36
+29-Aug-2022,US Open,5,Hard,R64,101,12,0,,12,Coco Gauff,Elena Gabriela Ruse,6-2 7-6(4),0.75,1.5%,10.8%,50.8%,54.5%,46.9%,20.0% (1/5),43.7%,37.1%,8.6%,23.4%,65.2%,33.3% (2/6),1:36
 29-Aug-2022,US Open,5,Hard,R128,101,58,1,,,Elena Gabriela Ruse,Daria Saville,3-6 6-2 6-4,1.14,0.0%,6.0%,58.3%,59.2%,54.3%,61.5% (8/13),53.0%,48.8%,1.2%,46.6%,53.8%,66.7% (6/9),2:15
 18-Jul-2022,Hamburg,3,Clay,R32,69,81,0,9,,Bernarda Pera,Elena Gabriela Ruse,6-0 6-4,0.74,3.4%,19.0%,43.1%,44.0%,27.3%,30.0% (3/10),41.2%,48.2%,1.8%,34.5%,63.0%,33.3% (3/9),1:27
 11-Jul-2022,Budapest,3,Clay,R32,72,107,0,7,,Kamilla Rakhimova,Elena Gabriela Ruse,6-4 6-7(3) 6-3,0.93,6.8%,5.1%,56.4%,63.6%,43.1%,53.3% (8/15),48.7%,42.3%,0.9%,28.2%,67.5%,38.5% (5/13),3:03
-27-Jun-2022,Wimbledon,5,Grass,R128,54,12,0,,11,Cori Gauff,Elena Gabriela Ruse,2-6 6-3 7-5,0.91,0.8%,8.5%,49.2%,67.2%,48.3%,84.0% (21/25),49.5%,38.4%,3.5%,28.3%,50.0%,66.7% (4/6),2:29
+27-Jun-2022,Wimbledon,5,Grass,R128,54,12,0,,11,Coco Gauff,Elena Gabriela Ruse,2-6 6-3 7-5,0.91,0.8%,8.5%,49.2%,67.2%,48.3%,84.0% (21/25),49.5%,38.4%,3.5%,28.3%,50.0%,66.7% (4/6),2:29
 20-Jun-2022,Eastbourne,3,Grass,R64,55,102,0,,,Lauren Davis,Elena Gabriela Ruse,6-4 6-4,0.88,0.0%,14.9%,52.2%,57.1%,31.3%,33.3% (3/9),46.5%,48.3%,8.3%,30.3%,70.4%,80.0% (4/5),1:39
 13-Jun-2022,Birmingham,3,Grass,R16,55,54,0,,8,Shuai Zhang,Elena Gabriela Ruse,6-2 2-6 7-5,0.90,13.5%,19.1%,46.1%,80.5%,29.2%,40.0% (4/10),48.0%,42.7%,2.4%,29.6%,67.9%,50.0% (5/10),1:58
 13-Jun-2022,Birmingham,3,Grass,R32,55,146,1,,,Elena Gabriela Ruse,Qiang Wang,7-6(6) 7-6(12),1.07,2.2%,7.9%,58.4%,65.4%,45.9%,16.7% (1/6),51.7%,45.8%,3.6%,43.1%,50.0%,55.6% (5/9),2:01
-23-May-2022,Roland Garros,5,Clay,R128,51,32,0,,31,Elise Mertens,Elena Gabriela Ruse,6-3 6-1,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,51,32,0,,31,Elise Mertens,Elena Gabriela Ruse,6-3 6-1,0.63,2.2%,13.0%,52.2%,50.0%,22.7%,33.3% (3/9),38.3%,39.6%,10.4%,20.8%,58.3%,66.7% (2/3),
 16-May-2022,Strasbourg,3,Clay,R32,52,122,0,,,Bernarda Pera,Elena Gabriela Ruse,7-5 6-4,1.02,7.9%,7.9%,58.7%,70.3%,42.3%,20.0% (1/5),49.0%,42.2%,4.4%,32.7%,55.3%,20.0% (2/10),2:08
-9-May-2022,Rome,3,Clay,R32,57,1,0,LL,1,Iga Swiatek,Elena Gabriela Ruse,6-3 6-0 (ch),0.57,2.1%,6.3%,56.3%,40.7%,23.8%,41.7% (5/12),35.3%,37.8%,0.0%,26.1%,57.1%,100.0% (2/2),1:08
+9-May-2022,Rome,3,Clay,R32,57,1,0,LL,1,Iga Swiatek,Elena Gabriela Ruse,6-3 6-0,0.57,2.1%,6.3%,56.3%,40.7%,23.8%,41.7% (5/12),35.3%,37.8%,0.0%,26.1%,57.1%,100.0% (2/2),1:08
 9-May-2022,Rome,3,Clay,R64,57,48,1,LL,,Elena Gabriela Ruse,Shelby Rogers,3-6 6-1 6-4,1.33,9.0%,4.5%,53.7%,77.8%,61.3%,50.0% (2/4),53.3%,39.8%,2.4%,38.3%,41.7%,57.1% (4/7),1:50
 9-May-2022,Rome,3,Clay,Q2,57,102,0,6,13,Lauren Davis,Elena Gabriela Ruse,5-1 RET,0.67,0.0%,11.1%,48.1%,38.5%,28.6%,40.0% (2/5),38.3%,45.0%,5.0%,33.3%,62.5%,50.0% (1/2),0:35
 9-May-2022,Rome,3,Clay,Q1,57,187,1,6,,Elena Gabriela Ruse,Dea Herdzelas,6-4 6-2,1.16,2.9%,8.6%,44.3%,87.1%,41.0%,87.5% (7/8),54.6%,44.9%,2.0%,27.6%,70.0%,50.0% (4/8),1:19
@@ -25,7 +100,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Mar-2022,Miami,3,Hard,R64,57,18,0,,17,Elena Rybakina,Elena Gabriela Ruse,6-4 7-5,0.84,2.4%,7.3%,54.9%,55.6%,37.8%,40.0% (4/10),46.1%,44.3%,10.0%,30.6%,58.8%,57.1% (4/7),1:44
 21-Mar-2022,Miami,3,Hard,R128,57,52,1,,,Elena Gabriela Ruse,Ana Konjuh,6-3 6-4,1.24,6.3%,8.9%,60.8%,68.8%,41.9%,76.9% (10/13),55.5%,51.7%,10.3%,22.6%,85.2%,55.6% (5/9),1:35
 7-Mar-2022,Indian Wells,3,Hard,R128,57,77,0,,,Kristina Kucova,Elena Gabriela Ruse,4-6 6-4 6-1,0.86,3.0%,10.0%,57.0%,61.4%,27.9%,61.1% (11/18),46.3%,45.5%,2.0%,41.1%,57.1%,41.7% (5/12),2:35
-14-Feb-2022,Dubai,3,Hard,R16,59,23,0,Q,,Simona Halep,Elena Gabriela Ruse,6-3 6-2 (ch),0.68,0.0%,2.0%,53.1%,53.8%,34.8%,28.6% (2/7),41.0%,37.3%,11.8%,31.0%,45.5%,50.0% (1/2),1:09
+14-Feb-2022,Dubai,3,Hard,R16,59,23,0,Q,,Simona Halep,Elena Gabriela Ruse,6-3 6-2,0.68,0.0%,2.0%,53.1%,53.8%,34.8%,28.6% (2/7),41.0%,37.3%,11.8%,31.0%,45.5%,50.0% (1/2),1:09
 14-Feb-2022,Dubai,3,Hard,R32,59,5,1,Q,3,Elena Gabriela Ruse,Paula Badosa,6-3 5-7 6-4,1.05,1.0%,7.8%,53.4%,65.5%,56.3%,60.0% (6/10),51.5%,40.9%,8.6%,33.3%,51.3%,50.0% (5/10),2:32
 14-Feb-2022,Dubai,3,Hard,Q3,59,39,1,,6,Elena Gabriela Ruse,Ajla Tomljanovic,6-1 7-5,1.31,3.2%,11.1%,46.0%,79.3%,38.2%,50.0% (3/6),56.6%,56.0%,6.0%,57.6%,52.9%,75.0% (6/8),1:21
 14-Feb-2022,Dubai,3,Hard,Q2,59,46,1,,11,Elena Gabriela Ruse,Jasmine Paolini,6-3 6-1,1.67,6.0%,10.0%,60.0%,66.7%,50.0%,0.0% (0/3),63.5%,66.7%,1.9%,70.4%,63.0%,70.0% (7/10),1:06
@@ -36,13 +111,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Jan-2022,Sydney,3,Hard,R32,82,105,1,Q,Q,Elena Gabriela Ruse,Magdalena Frech,6-2 3-6 6-4,1.11,1.9%,6.7%,52.4%,61.8%,40.0%,41.7% (5/12),52.6%,54.1%,8.2%,44.9%,66.7%,50.0% (8/16),2:19
 10-Jan-2022,Sydney,3,Hard,Q2,82,104,1,3,7,Elena Gabriela Ruse,Fiona Ferro,7-6(5) 6-3,1.08,2.4%,4.8%,66.3%,56.4%,39.3%,54.5% (6/11),52.0%,53.4%,0.0%,52.8%,54.3%,54.5% (6/11),1:54
 10-Jan-2022,Sydney,3,Hard,Q1,82,766,1,3,WC,Elena Gabriela Ruse,Alexandra Osborne,6-3 6-0,1.59,0.0%,2.0%,71.4%,68.6%,50.0%,0.0% (0/1),60.6%,58.3%,1.7%,52.8%,66.7%,40.0% (6/15),1:13
-3-Jan-2022,Melbourne 1,3,Hard,R16,87,20,0,,2,Simona Halep,Elena Gabriela Ruse,6-2 6-1 (ch),0.59,0.0%,9.8%,39.0%,56.3%,12.0%,30.0% (3/10),35.4%,41.5%,7.3%,31.8%,52.6%,50.0% (2/4),1:01
+3-Jan-2022,Melbourne 1,3,Hard,R16,87,20,0,,2,Simona Halep,Elena Gabriela Ruse,6-2 6-1,0.59,0.0%,9.8%,39.0%,56.3%,12.0%,30.0% (3/10),35.4%,41.5%,7.3%,31.8%,52.6%,50.0% (2/4),1:01
 3-Jan-2022,Melbourne 1,3,Hard,R32,87,152,1,,WC,Elena Gabriela Ruse,Arina Rodionova,6-3 6-2,1.44,5.6%,11.1%,53.7%,79.3%,52.0%,75.0% (3/4),57.7%,48.0%,2.0%,37.5%,66.7%,66.7% (4/6),1:07
-25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,85,18,0,,1,Simona Halep,Elena Gabriela Ruse,6-1 6-2 (ch),0.53,0.0%,11.8%,51.0%,53.8%,40.0%,50.0% (4/8),37.6%,28.0%,12.0%,16.7%,45.0%,0.0% (0/1),1:13
+25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,85,18,0,,1,Simona Halep,Elena Gabriela Ruse,6-1 6-2,0.53,0.0%,11.8%,51.0%,53.8%,40.0%,50.0% (4/8),37.6%,28.0%,12.0%,16.7%,45.0%,0.0% (0/1),1:13
 6-Oct-2021,Indian Wells,3,Hard,R128,92,64,0,Q,,Alize Cornet,Elena Gabriela Ruse,6-3 7-6(5),0.90,0.0%,4.8%,47.0%,48.7%,43.2%,62.5% (10/16),47.2%,48.7%,2.6%,33.3%,75.0%,55.6% (5/9),2:09
 6-Oct-2021,Indian Wells,3,Hard,Q2,92,153,1,3,17,Elena Gabriela Ruse,Lesley Pattinama Kerkhove,6-3 6-2,1.28,5.7%,9.4%,62.3%,72.7%,25.0%,57.1% (4/7),56.5%,58.1%,0.0%,41.0%,87.0%,50.0% (7/14),1:15
 6-Oct-2021,Indian Wells,3,Hard,Q1,92,566,1,3,WC,Elena Gabriela Ruse,Ellie Douglas,7-5 6-2,1.23,2.7%,5.4%,54.1%,65.0%,55.9%,80.0% (8/10),55.5%,48.1%,0.0%,26.9%,67.9%,62.5% (5/8),1:42
-27-Sep-2021,Chicago 2,3,Hard,R16,98,6,0,,1,Elina Svitolina,Elena Gabriela Ruse,6-3 6-3 (ch),0.69,4.5%,4.5%,51.1%,62.2%,37.2%,75.0% (12/16),43.6%,34.4%,3.3%,21.9%,48.3%,33.3% (1/3),1:48
+27-Sep-2021,Chicago 2,3,Hard,R16,98,6,0,,1,Elina Svitolina,Elena Gabriela Ruse,6-3 6-3,0.69,4.5%,4.5%,51.1%,62.2%,37.2%,75.0% (12/16),43.6%,34.4%,3.3%,21.9%,48.3%,33.3% (1/3),1:48
 27-Sep-2021,Chicago 2,3,Hard,R32,98,140,1,,Q,Elena Gabriela Ruse,Kateryna Baindl,7-5 6-2,1.25,3.8%,5.1%,50.6%,65.0%,48.7%,78.6% (11/14),55.5%,53.7%,3.0%,46.7%,68.2%,42.9% (6/14),1:54
 27-Sep-2021,Chicago 2,3,Hard,R64,98,37,1,,15,Elena Gabriela Ruse,Camila Giorgi,6-4 6-2,1.23,2.9%,7.2%,53.6%,73.0%,40.6%,77.8% (7/9),55.2%,51.8%,0.0%,48.0%,54.8%,50.0% (5/10),1:33
 30-Aug-2021,US Open,5,Hard,R128,108,38,0,Q,,Marketa Vondrousova,Elena Gabriela Ruse,7-5 6-0,0.69,0.0%,15.6%,39.1%,52.0%,30.8%,36.4% (4/11),40.5%,42.1%,7.0%,35.3%,52.2%,42.9% (3/7),1:28
@@ -52,14 +127,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Aug-2021,Cincinnati,3,Hard,Q2,110,68,0,,13,Leylah Fernandez,Elena Gabriela Ruse,6-2 6-0,0.45,1.8%,12.5%,37.5%,52.4%,37.1%,50.0% (5/10),35.8%,25.6%,7.7%,8.3%,53.3%,0.0% (0/1),1:05
 16-Aug-2021,Cincinnati,3,Hard,Q1,110,60,1,,8,Elena Gabriela Ruse,Tereza Martincova,6-3 7-5,1.38,10.9%,5.5%,49.1%,74.1%,50.0%,25.0% (1/4),56.6%,52.7%,2.7%,40.8%,76.0%,50.0% (6/12),1:25
 2-Aug-2021,Cluj-Napoca 1,3,Clay,R32,107,191,0,5,,Lesia Tsurenko,Elena Gabriela Ruse,6-3 6-3,0.83,1.6%,8.2%,52.5%,46.9%,24.1%,33.3% (4/12),44.6%,53.3%,0.0%,52.8%,54.2%,55.6% (5/9),1:38
-19-Jul-2021,Palermo,3,Clay,F,137,44,0,Q,1,Danielle Collins,Elena Gabriela Ruse,6-4 6-2 (ch),0.80,4.2%,5.6%,54.2%,59.0%,36.4%,68.8% (11/16),45.1%,41.0%,8.2%,30.6%,56.0%,28.6% (2/7),1:50
+19-Jul-2021,Palermo,3,Clay,F,137,44,0,Q,1,Danielle Collins,Elena Gabriela Ruse,6-4 6-2,0.80,4.2%,5.6%,54.2%,59.0%,36.4%,68.8% (11/16),45.1%,41.0%,8.2%,30.6%,56.0%,28.6% (2/7),1:50
 19-Jul-2021,Palermo,3,Clay,SF,137,120,1,Q,6,Elena Gabriela Ruse,Oceane Dodin,6-7(4) 7-6(0) 6-1,1.19,6.2%,5.3%,56.6%,57.8%,53.1%,50.0% (6/12),54.0%,52.6%,5.1%,36.0%,72.6%,30.8% (8/26),2:59
 19-Jul-2021,Palermo,3,Clay,QF,137,190,1,Q,WC,Elena Gabriela Ruse,Lucia Bronzetti,6-4 7-5,1.27,5.8%,2.9%,47.8%,69.7%,47.2%,63.6% (7/11),55.6%,53.3%,5.3%,30.3%,71.4%,60.0% (6/10),1:50
 19-Jul-2021,Palermo,3,Clay,R16,137,55,1,Q,3,Elena Gabriela Ruse,Jil Teichmann,W/O,,,,,,,,,,,,,,
 19-Jul-2021,Palermo,3,Clay,R32,137,227,1,Q,,Elena Gabriela Ruse,Mandy Minella,6-3 6-1,1.41,0.0%,4.4%,55.6%,64.0%,55.0%,50.0% (2/4),57.8%,56.3%,0.0%,51.2%,65.2%,37.5% (6/16),1:19
 19-Jul-2021,Palermo,3,Clay,Q2,137,372,1,1,8,Elena Gabriela Ruse,Camilla Rosatello,6-1 6-0,2.00,5.9%,9.8%,58.8%,73.3%,57.1%,83.3% (5/6),66.7%,66.7%,2.4%,61.1%,70.8%,54.5% (6/11),1:00
 19-Jul-2021,Palermo,3,Clay,Q1,137,733,1,1,,Elena Gabriela Ruse,Jasmin Jebawy,6-1 6-3,1.66,3.8%,11.3%,52.8%,78.6%,44.0%,60.0% (3/5),62.4%,62.5%,2.1%,44.4%,85.7%,60.0% (6/10),1:04
-5-Jul-2021,Hamburg,3,Clay,F,198,130,1,Q,,Elena Gabriela Ruse,Andrea Petkovic,7-6(6) 6-4 (ch),1.07,3.6%,3.6%,53.0%,59.1%,53.8%,57.1% (4/7),51.5%,46.4%,0.0%,43.6%,51.7%,33.3% (4/12),2:12
+5-Jul-2021,Hamburg,3,Clay,F,198,130,1,Q,,Elena Gabriela Ruse,Andrea Petkovic,7-6(6) 6-4,1.07,3.6%,3.6%,53.0%,59.1%,53.8%,57.1% (4/7),51.5%,46.4%,0.0%,43.6%,51.7%,33.3% (4/12),2:12
 5-Jul-2021,Hamburg,3,Clay,SF,198,38,1,Q,1,Elena Gabriela Ruse,Dayana Yastremska,2-6 6-1 6-4,1.11,0.0%,6.4%,53.8%,71.4%,38.9%,42.9% (3/7),52.0%,48.4%,3.2%,36.4%,65.8%,40.0% (6/15),2:03
 5-Jul-2021,Hamburg,3,Clay,QF,198,48,1,Q,4,Elena Gabriela Ruse,Danielle Collins,6-4 1-6 7-5,1.01,3.6%,1.2%,63.9%,66.0%,36.7%,58.3% (7/12),49.7%,45.2%,0.0%,39.0%,53.3%,29.4% (5/17),2:30
 5-Jul-2021,Hamburg,3,Clay,R16,198,372,1,Q,Q,Elena Gabriela Ruse,Anna Zaja,6-2 6-2,2.49,8.1%,2.7%,62.2%,82.6%,71.4%,50.0% (1/2),64.0%,53.8%,1.9%,39.3%,70.8%,50.0% (5/10),1:09
@@ -97,7 +172,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Oct-2020,W25 Istanbul,3,Hard,R32,176,224,1,5,,Elena Gabriela Ruse,Valeria Savinykh,6-2 7-5,,,,,,,,,,,,,,
 28-Sep-2020,Roland Garros,5,Clay,Q3,179,143,0,,17,Barbara Haas,Elena Gabriela Ruse,6-4 7-5,0.88,2.9%,5.8%,66.7%,54.3%,43.5%,44.4% (4/9),46.9%,43.2%,1.4%,29.2%,69.2%,27.3% (3/11),1:38
 28-Sep-2020,Roland Garros,5,Clay,Q2,179,135,1,,10,Elena Gabriela Ruse,Francesca Di Lorenzo,6-2 7-5,1.19,1.2%,6.1%,56.1%,56.5%,58.3%,76.9% (10/13),54.7%,50.9%,0.0%,41.7%,66.7%,60.0% (6/10),1:35
-28-Sep-2020,Roland Garros,5,Clay,Q1,179,223,1,,,Elena Gabriela Ruse,Victoria Kan,7-5 6-0 (ch),1.57,3.2%,6.5%,59.7%,78.4%,48.0%,80.0% (4/5),59.5%,53.1%,1.6%,34.4%,71.9%,71.4% (5/7),1:22
+28-Sep-2020,Roland Garros,5,Clay,Q1,179,223,1,,,Elena Gabriela Ruse,Victoria Kan,7-5 6-0,1.57,3.2%,6.5%,59.7%,78.4%,48.0%,80.0% (4/5),59.5%,53.1%,1.6%,34.4%,71.9%,71.4% (5/7),1:22
 31-Aug-2020,Prague,3,Clay,R64,169,230,0,16,,Ivana Jorovic,Elena Gabriela Ruse,6-3 6-4,0.69,0.0%,5.5%,52.1%,57.9%,34.3%,37.5% (3/8),42.5%,37.0%,5.6%,27.3%,52.4%,66.7% (2/3),1:30
 31-Aug-2020,Prague,3,Clay,R128,169,303,1,16,,Elena Gabriela Ruse,Irina Fetecau,6-2 6-4,1.84,4.7%,4.7%,51.2%,72.7%,76.2%,0.0% (0/1),59.4%,47.2%,1.9%,44.7%,53.3%,66.7% (4/6),1:06
 10-Aug-2020,Prague,3,Clay,R32,173,174,0,Q,LL,Magdalena Frech,Elena Gabriela Ruse,7-6(8) 6-3,0.89,2.5%,15.2%,50.6%,67.5%,20.5%,40.0% (4/10),46.8%,49.3%,2.7%,35.6%,70.0%,44.4% (4/9),2:05
@@ -112,7 +187,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Feb-2020,Fed Cup QLS R1: ROU vs RUS,3,Hard,RR,166,28,0,,,Ekaterina Alexandrova,Elena Gabriela Ruse,6-1 6-4,0.66,11.8%,11.8%,58.8%,56.7%,23.8%,33.3% (3/9),40.2%,37.3%,7.8%,25.8%,55.0%,40.0% (2/5),1:04
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R32,183,93,0,,2,Arantxa Rus,Elena Gabriela Ruse,4-6 6-1 6-1,,,,,,,,,,,,,,
 20-Jan-2020,Australian Open,5,Hard,Q3,183,116,0,,10,Caty Mcnally,Elena Gabriela Ruse,6-1 6-1,0.45,0.0%,12.0%,62.0%,51.6%,21.1%,50.0% (5/10),34.1%,26.8%,2.4%,23.1%,33.3%,0.0% (0/2),1:02
-20-Jan-2020,Australian Open,5,Hard,Q2,183,214,1,,,Elena Gabriela Ruse,Nuria Parrizas Diaz,6-3 7-5 (ch),1.18,5.2%,3.9%,62.3%,64.6%,37.9%,69.2% (9/13),54.1%,53.8%,1.3%,44.9%,67.7%,58.3% (7/12),1:41
+20-Jan-2020,Australian Open,5,Hard,Q2,183,214,1,,,Elena Gabriela Ruse,Nuria Parrizas Diaz,6-3 7-5,1.18,5.2%,3.9%,62.3%,64.6%,37.9%,69.2% (9/13),54.1%,53.8%,1.3%,44.9%,67.7%,58.3% (7/12),1:41
 20-Jan-2020,Australian Open,5,Hard,Q1,183,131,1,,22,Elena Gabriela Ruse,Usue Maitane Arconada,6-7(5) 7-5 6-4,1.08,0.0%,6.6%,54.5%,62.1%,49.1%,60.0% (9/15),52.0%,47.1%,0.0%,43.5%,54.3%,61.5% (8/13),2:27
 9-Dec-2019,W100+H Dubai,3,Hard,R32,185,91,0,WC,7,Vitalia Diatchenko,Elena Gabriela Ruse,6-0 6-3,,,,,,,,,,,,,,
 21-Oct-2019,W25 Istanbul,3,Hard,QF,179,225,0,,7,Pemra Ozgen,Elena Gabriela Ruse,6-1 7-5,,,,,,,,,,,,,,
@@ -127,7 +202,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jul-2019,Karlsruhe,3,Clay,R16,179,223,0,,,Patricia Maria Tig,Elena Gabriela Ruse,7-5 7-5,0.90,1.4%,2.7%,64.9%,52.1%,57.7%,44.4% (4/9),47.7%,41.3%,0.0%,36.5%,52.2%,60.0% (3/5),1:43
 29-Jul-2019,Karlsruhe,3,Clay,R32,179,186,1,,,Elena Gabriela Ruse,Antonia Lottner,6-2 6-2,1.61,2.2%,2.2%,60.9%,71.4%,50.0%,33.3% (1/3),61.2%,59.6%,0.0%,46.9%,80.0%,66.7% (6/9),1:09
 15-Jul-2019,Bucharest,3,Clay,R32,178,132,0,WC,,Barbora Krejcikova,Elena Gabriela Ruse,6-3 0-6 6-2,0.91,2.2%,13.5%,49.4%,70.5%,33.3%,60.0% (6/10),47.9%,43.8%,2.5%,40.0%,55.0%,44.4% (4/9),1:58
-1-Jul-2019,Wimbledon,5,Grass,R128,176,17,0,,18,Julia Goerges,Elena Gabriela Ruse,7-5 6-1 (ch),0.59,2.8%,12.7%,62.0%,52.3%,48.1%,60.0% (6/10),41.3%,29.1%,18.2%,20.6%,42.9%,50.0% (1/2),1:17
+1-Jul-2019,Wimbledon,5,Grass,R128,176,17,0,,18,Julia Goerges,Elena Gabriela Ruse,7-5 6-1,0.59,2.8%,12.7%,62.0%,52.3%,48.1%,60.0% (6/10),41.3%,29.1%,18.2%,20.6%,42.9%,50.0% (1/2),1:17
 1-Jul-2019,Wimbledon,5,Grass,Q3,176,231,1,,,Elena Gabriela Ruse,Katarzyna Kawa,7-5 6-1,1.29,0.0%,5.9%,68.6%,57.1%,62.5%,0.0% (0/2),55.5%,53.2%,1.3%,43.2%,66.7%,66.7% (6/9),1:29
 1-Jul-2019,Wimbledon,5,Grass,Q2,176,188,1,,,Elena Gabriela Ruse,Irina Bara,6-2 5-7 6-4,1.07,0.0%,5.9%,64.4%,52.3%,44.4%,27.3% (3/11),51.7%,54.0%,0.0%,50.7%,64.0%,58.8% (10/17),2:07
 1-Jul-2019,Wimbledon,5,Grass,Q1,176,203,1,,,Elena Gabriela Ruse,Sesil Karatantcheva,6-2 6-2,1.73,8.0%,6.0%,64.0%,71.9%,55.6%,50.0% (1/2),62.5%,58.7%,0.0%,55.6%,63.2%,62.5% (5/8),0:49
@@ -145,7 +220,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Apr-2019,W25 Osprey FL,3,Clay,R16,201,407,1,,,Elena Gabriela Ruse,Katie Volynets,6-3 6-1,,,,,,,,,,,,,,
 22-Apr-2019,W25 Osprey FL,3,Clay,R32,201,,1,,WC,Elena Gabriela Ruse,Alexa Noel,7-6(7) 6-3,,,,,,,,,,,,,,
 15-Apr-2019,W80 Dothan AL,3,Clay,SF,227,162,0,,,Lauren Davis,Elena Gabriela Ruse,6-1 7-6(3),,,,,,,,,,,,,,
-15-Apr-2019,W80 Dothan AL,3,Clay,QF,227,337,1,,WC,Elena Gabriela Ruse,Usue Maitane Arconada,6-3 6-2 (ch),,,,,,,,,,,,,,
+15-Apr-2019,W80 Dothan AL,3,Clay,QF,227,337,1,,WC,Elena Gabriela Ruse,Usue Maitane Arconada,6-3 6-2,,,,,,,,,,,,,,
 15-Apr-2019,W80 Dothan AL,3,Clay,R16,227,135,1,,3,Elena Gabriela Ruse,Anhelina Kalinina,7-6(2) 6-2,,,,,,,,,,,,,,
 15-Apr-2019,W80 Dothan AL,3,Clay,R32,227,215,1,,,Elena Gabriela Ruse,Asia Muhammad,6-1 6-4,,,,,,,,,,,,,,
 1-Apr-2019,Monterrey,3,Hard,R32,230,19,0,LL,2,Garbine Muguruza,Elena Gabriela Ruse,6-4 7-6(4),0.94,3.5%,4.7%,65.1%,60.7%,40.0%,50.0% (5/10),48.8%,43.6%,9.0%,30.0%,67.9%,36.4% (4/11),1:43
@@ -214,7 +289,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Dec-2017,Nules $25K,3,Clay,R16,243,460,1,,Q,Elena Gabriela Ruse,Irene Burillo Escorihuela,6-2 6-2,,,,,,,,,,,,,,
 4-Dec-2017,Nules $25K,3,Clay,R32,243,874,1,,WC,Elena Gabriela Ruse,Paula Arias Manjon,6-2 6-7(5) 6-2,,,,,,,,,,,,,,
 6-Nov-2017,Limoges,3,Hard,R16,265,100,0,Q,5,Monica Niculescu,Elena Gabriela Ruse,6-4 6-3,0.83,0.0%,1.5%,60.3%,46.3%,25.9%,42.9% (6/14),43.7%,51.0%,3.9%,42.4%,66.7%,62.5% (5/8),1:34
-6-Nov-2017,Limoges,3,Hard,R32,265,132,1,Q,,Elena Gabriela Ruse,Viktoria Kuzmova,6-2 6-2,1.51,2.3%,4.7%,53.5%,73.9%,50.0%,50.0% (2/4),59.2%,56.4%,1.8%,50.0%,70.6%,66.7% (6/9),0:59
+6-Nov-2017,Limoges,3,Hard,R32,265,132,1,Q,,Elena Gabriela Ruse,Viktoria Hruncakova,6-2 6-2,1.51,2.3%,4.7%,53.5%,73.9%,50.0%,50.0% (2/4),59.2%,56.4%,1.8%,50.0%,70.6%,66.7% (6/9),0:59
 6-Nov-2017,Limoges,3,Hard,Q2,265,289,1,,,Elena Gabriela Ruse,Tessah Andrianjafitrimo,6-0 6-2,2.62,15.8%,0.0%,65.8%,76.0%,76.9%,- (0/0),69.3%,62.2%,0.0%,63.6%,60.0%,83.3% (5/6),0:51
 6-Nov-2017,Limoges,3,Hard,Q1,265,219,1,,3,Elena Gabriela Ruse,Deborah Chiesa,6-3 6-3,1.39,0.0%,6.5%,54.8%,58.8%,57.1%,72.7% (8/11),58.1%,58.2%,3.6%,47.1%,76.2%,66.7% (6/9),1:16
 30-Oct-2017,Nantes $25K,3,Hard,R16,262,135,0,,6,Anna Blinkova,Elena Gabriela Ruse,6-0 6-3,,,,,,,,,,,,,,
@@ -261,7 +336,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,R32,296,420,1,,JE,Elena Gabriela Ruse,Dayana Yastremska,6-7(6) 6-3 7-5,,,,,,,,,,,,,,
 20-Feb-2017,Moscow $25K,3,Hard,R32,271,455,0,8,Q,Anastasia Frolova,Elena Gabriela Ruse,6-3 6-4,,,,,,,,,,,,,,
 14-Nov-2016,Zawada Near Opole $25K,3,Carpet,R32,253,330,0,,,Tena Lukas,Elena Gabriela Ruse,6-7(7) 6-2 6-2,,,,,,,,,,,,,,
-24-Oct-2016,Poitiers $100K,3,Hard,QF,278,69,0,SE,2,Pauline Parmentier,Elena Gabriela Ruse,6-1 6-3 (ch),,,,,,,,,,,,,,
+24-Oct-2016,Poitiers $100K,3,Hard,QF,278,69,0,SE,2,Pauline Parmentier,Elena Gabriela Ruse,6-1 6-3,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,R16,278,85,1,SE,5,Elena Gabriela Ruse,Nao Hibino,6-2 6-2,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,R32,278,113,1,SE,,Elena Gabriela Ruse,Patricia Maria Tig,6-2 6-3,,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,F,334,153,0,,2,Maryna Zanevska,Elena Gabriela Ruse,6-3 6-3,,,,,,,,,,,,,,
@@ -279,7 +354,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Aug-2016,Koksijde $25K,3,Clay,R32,331,385,1,,Q,Elena Gabriela Ruse,Magdalena Frech,7-6(5) 7-6(5),,,,,,,,,,,,,,
 25-Jul-2016,Horb $25K,3,Clay,R16,340,190,0,,4,Ipek Soylu,Elena Gabriela Ruse,6-4 6-4,,,,,,,,,,,,,,
 25-Jul-2016,Horb $25K,3,Clay,R32,340,347,1,,Q,Elena Gabriela Ruse,Dea Herdzelas,6-3 7-5,,,,,,,,,,,,,,
-11-Jul-2016,Bucharest,3,Clay,R32,321,66,0,WC,7,Anastasija Sevastova,Elena Gabriela Ruse,6-3 6-4 (ch),0.72,0.0%,4.9%,59.3%,58.3%,48.5%,50.0% (4/8),45.6%,32.7%,1.8%,22.2%,42.9%,16.7% (1/6),1:30
+11-Jul-2016,Bucharest,3,Clay,R32,321,66,0,WC,7,Anastasija Sevastova,Elena Gabriela Ruse,6-3 6-4,0.72,0.0%,4.9%,59.3%,58.3%,48.5%,50.0% (4/8),45.6%,32.7%,1.8%,22.2%,42.9%,16.7% (1/6),1:30
 13-Jun-2016,Szeged $50K,3,Clay,R32,315,301,0,,,Dalma Galfi,Elena Gabriela Ruse,5-4 RET,,,,,,,,,,,,,,
 6-Jun-2016,Essen $50K,3,Clay,R16,327,381,0,,Q,Olga Saez Larra,Elena Gabriela Ruse,6-2 6-4,,,,,,,,,,,,,,
 6-Jun-2016,Essen $50K,3,Clay,R32,327,99,1,,1,Elena Gabriela Ruse,Aliaksandra Sasnovich,3-6 6-2 6-2,,,,,,,,,,,,,,

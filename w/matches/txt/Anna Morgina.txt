@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 20-Jun-2022,W15 Colorado Springs CO,3,Hard,R16,670,,0,2,,Hibah Shaikh,Anna Morgina,4-6 6-1 6-4,,,,,,,,,,,,,,
 20-Jun-2022,W15 Colorado Springs CO,3,Hard,R32,670,1432,1,2,,Anna Morgina,Arisha Ladhani,6-1 6-1,,,,,,,,,,,,,,
 6-Sep-2021,W15 Varna,3,Clay,R16,580,,0,3,WC,Katerina Dimitrova,Anna Morgina,6-7(2) 6-3 RET,,,,,,,,,,,,,,
@@ -14,12 +14,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jan-2021,W15 Cairo,3,Clay,R16,515,,1,5,Q,Anna Morgina,Lucie Nguyen Tan,6-4 7-6(5),,,,,,,,,,,,,,
 18-Jan-2021,W15 Cairo,3,Clay,R32,515,,1,5,Q,Anna Morgina,Briana Szabo,6-4 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W15 Cairo,3,Clay,QF,511,344,0,5,2,Sandra Samir,Anna Morgina,6-1 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W15 Cairo,3,Clay,QF,511,344,0,5,2,Sandra Samir,Anna Morgina,6-1 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W15 Cairo,3,Clay,R16,511,,1,5,Q,Anna Morgina,Yasmin Ezzat,6-4 6-4,,,,,,,,,,,,,,
 11-Jan-2021,W15 Cairo,3,Clay,R16,511,,1,5,Q,Anna Morgina,Yasmin Ezzat,6-4 6-4,,,,,,,,,,,,,,
 11-Jan-2021,W15 Cairo,3,Clay,R32,511,1306,1,5,LL,Anna Morgina,Saumya Vig,6-2 6-0,,,,,,,,,,,,,,
-11-Jan-2021,W15 Cairo,3,Clay,R32,511,1306,1,5,LL,Anna Morgina,Saumya Vig,6-2 6-0,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,R32,511,787,0,3,,Barbora Matusova,Anna Morgina,6-4 6-7(1) 6-3,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,R32,511,787,0,3,,Barbora Matusova,Anna Morgina,6-4 6-7(1) 6-3,,,,,,,,,,,,,,
 16-Nov-2020,W15 Sharm El Sheikh,3,Hard,R32,504,720,0,6,,Elina Avanesyan,Anna Morgina,6-1 6-2,,,,,,,,,,,,,,
 9-Nov-2020,W15 Sharm El Sheikh,3,Hard,QF,504,342,0,6,2,Sandra Samir,Anna Morgina,6-3 6-3,,,,,,,,,,,,,,

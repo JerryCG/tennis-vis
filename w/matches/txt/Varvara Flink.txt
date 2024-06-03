@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 24-Oct-2022,Tampico,3,Hard,R32,670,72,0,SR,8,Rebecca Marino,Varvara Flink,6-3 7-5,0.85,3.5%,15.8%,59.6%,64.7%,39.1%,50.0% (4/8),45.5%,38.7%,10.7%,22.5%,57.1%,33.3% (2/6),1:27
 17-Oct-2022,Guadalajara 2,3,Hard,Q1,680,108,0,SR,6,Laura Pigossi,Varvara Flink,6-3 7-6(8),0.95,6.8%,14.9%,45.9%,76.5%,42.5%,50.0% (2/4),48.2%,40.0%,1.1%,37.7%,47.6%,20.0% (1/5),1:52
 10-Oct-2022,San Diego,3,Hard,Q1,690,346,0,,ALT,Ellen Perez,Varvara Flink,6-1 6-1,0.58,0.0%,9.8%,58.5%,33.3%,35.3%,50.0% (6/12),36.1%,38.1%,0.0%,11.1%,58.3%,100.0% (1/1),0:54
@@ -8,7 +8,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jul-2022,Budapest,3,Clay,Q2,1189,195,0,SR,8,Despina Papamichail,Varvara Flink,7-6(4) 6-3,0.91,0.0%,9.0%,62.8%,55.1%,41.4%,45.5% (5/11),47.9%,45.6%,0.0%,40.0%,53.6%,36.4% (4/11),1:55
 11-Jul-2022,Budapest,3,Clay,Q1,1189,175,1,SR,5,Varvara Flink,Grace Min,3-6 6-2 6-4,0.99,5.2%,5.2%,63.9%,61.3%,42.9%,71.4% (10/14),50.3%,45.1%,0.0%,45.5%,44.4%,66.7% (6/9),2:21
 4-Jul-2022,Bastad 125,3,Clay,R32,828,143,0,SR,,Leolia Jeanjean,Varvara Flink,6-2 6-3,0.77,0.0%,9.4%,69.8%,48.6%,43.8%,37.5% (3/8),43.7%,40.9%,1.5%,37.8%,47.6%,25.0% (2/8),1:19
-23-May-2022,Roland Garros,5,Clay,Q1,647,198,0,,,Marina Melnikova,Varvara Flink,6-4 6-4,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,647,198,0,,,Marina Melnikova,Varvara Flink,6-4 6-4,0.91,2.9%,1.5%,64.7%,52.3%,50.0%,44.4% (4/9),47.8%,43.9%,1.5%,41.7%,50.0%,66.7% (4/6),
 18-Apr-2022,W25 Orlando FL,3,Clay,Q2,641,1000,0,2,11,Rachel Gailis,Varvara Flink,W/O,,,,,,,,,,,,,,
 11-Apr-2022,W100 Palm Harbor FL,3,Clay,Q1,639,212,0,,1,Seone Mendez,Varvara Flink,6-1 6-4,,,,,,,,,,,,,,
 19-Jul-2021,Gdynia,3,Clay,Q1,262,223,0,,6,Tereza Mrdeza,Varvara Flink,6-2 7-5,0.79,1.3%,6.7%,70.7%,56.6%,27.3%,0.0% (0/6),45.0%,41.1%,0.0%,36.7%,46.2%,50.0% (3/6),1:43
@@ -21,7 +21,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Apr-2021,Charleston 1,3,Clay,Q1,179,258,0,9,,Katherine Sebov,Varvara Flink,6-2 6-3,0.75,0.0%,10.4%,45.8%,54.5%,26.9%,45.5% (5/11),43.0%,45.2%,0.0%,46.8%,36.4%,25.0% (3/12),1:32
 22-Feb-2021,W25 Boca Raton FL,3,Hard,R32,179,242,0,7,WC,Hailey Baptiste,Varvara Flink,6-1 4-6 7-6(5),,,,,,,,,,,,,,
 15-Feb-2021,W25 Orlando FL,3,Hard,R32,174,194,0,7,,Mariam Bolkvadze,Varvara Flink,6-3 6-0,,,,,,,,,,,,,,
-2-Mar-2020,Monterrey,3,Hard,R32,149,76,0,LL,,Arantxa Rus,Varvara Flink,4-3 RET (ch),0.91,0.0%,10.5%,36.8%,28.6%,75.0%,50.0% (1/2),46.7%,38.5%,3.8%,39.1%,33.3%,50.0% (1/2),0:33
+2-Mar-2020,Monterrey,3,Hard,R32,149,76,0,LL,,Arantxa Rus,Varvara Flink,4-3 RET,0.91,0.0%,10.5%,36.8%,28.6%,75.0%,50.0% (1/2),46.7%,38.5%,3.8%,39.1%,33.3%,50.0% (1/2),0:33
 2-Mar-2020,Monterrey,3,Hard,Q2,149,199,0,7,,Anna Karolina Schmiedlova,Varvara Flink,6-2 6-2,0.62,2.0%,2.0%,64.7%,51.5%,16.7%,40.0% (4/10),38.4%,37.5%,4.2%,29.6%,47.6%,40.0% (2/5),1:06
 2-Mar-2020,Monterrey,3,Hard,Q1,149,456,1,7,WC,Varvara Flink,Fernanda Contreras Gomez,6-0 6-2,1.74,3.8%,11.3%,64.2%,76.5%,42.1%,100.0% (3/3),63.4%,62.5%,0.0%,73.7%,52.4%,83.3% (5/6),1:01
 17-Feb-2020,Dubai,3,Hard,Q1,137,291,0,,,Anna Danilina,Varvara Flink,2-6 6-4 6-4,0.90,1.2%,11.9%,60.7%,60.8%,39.4%,50.0% (6/12),47.8%,42.9%,1.3%,38.2%,54.5%,50.0% (6/12),1:39
@@ -74,7 +74,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Apr-2019,Charleston,3,Clay,Q1,148,,1,4,,Varvara Flink,Alicja Rosolska,6-2 7-6(4),1.38,3.0%,3.0%,57.6%,71.1%,60.7%,60.0% (3/5),55.6%,46.1%,1.3%,42.6%,54.5%,57.1% (4/7),1:41
 4-Mar-2019,W25 Irapuato,3,Hard,R16,148,275,0,,,Jovana Jaksic,Varvara Flink,7-5 5-7 6-2,,,,,,,,,,,,,,
 4-Mar-2019,W25 Irapuato,3,Hard,R32,148,350,1,,WC,Varvara Flink,Ana Sofia Sanchez,6-3 6-2,,,,,,,,,,,,,,
-25-Feb-2019,Acapulco,3,Hard,R16,167,45,0,Q,8,Johanna Konta,Varvara Flink,6-4 6-1 (ch),0.65,1.7%,8.3%,50.0%,63.3%,33.3%,44.4% (4/9),41.4%,33.3%,7.8%,28.1%,42.1%,20.0% (1/5),1:21
+25-Feb-2019,Acapulco,3,Hard,R16,167,45,0,Q,8,Johanna Konta,Varvara Flink,6-4 6-1,0.65,1.7%,8.3%,50.0%,63.3%,33.3%,44.4% (4/9),41.4%,33.3%,7.8%,28.1%,42.1%,20.0% (1/5),1:21
 25-Feb-2019,Acapulco,3,Hard,R32,167,61,1,Q,,Varvara Flink,Amanda Anisimova,3-4 RET,1.18,15.0%,0.0%,65.0%,76.9%,57.1%,- (0/0),49.0%,35.5%,0.0%,42.1%,25.0%,0.0% (0/4),0:29
 25-Feb-2019,Acapulco,3,Hard,Q2,167,158,1,,6,Varvara Flink,Sofya Zhuk,4-6 7-5 6-2,1.06,3.0%,6.1%,52.5%,51.9%,46.8%,61.1% (11/18),51.5%,53.5%,0.0%,47.9%,66.7%,50.0% (9/18),2:15
 25-Feb-2019,Acapulco,3,Hard,Q1,167,160,1,,10,Varvara Flink,Astra Sharma,7-5 4-6 6-3,1.01,3.5%,7.0%,60.5%,61.5%,38.2%,45.5% (5/11),50.0%,48.0%,1.0%,42.4%,58.3%,50.0% (8/16),2:05
@@ -175,7 +175,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2016,Saint Malo $50K,3,Clay,R32,287,168,1,,5,Varvara Flink,Virginie Razzano,3-6 7-5 4-1 RET,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R16,311,106,0,Q,4,Irina Khromacheva,Varvara Flink,6-2 6-4,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R32,311,198,1,Q,,Varvara Flink,Tereza Smitkova,6-3 6-3,,,,,,,,,,,,,,
-15-Aug-2016,Cincinnati,3,Hard,R64,360,70,0,Q,Q,Alison Riske Amritraj,Varvara Flink,6-4 7-6(6) (ch),0.99,7.0%,1.4%,59.2%,54.8%,51.7%,58.3% (7/12),49.4%,46.0%,1.1%,48.4%,39.1%,50.0% (4/8),2:01
+15-Aug-2016,Cincinnati,3,Hard,R64,360,70,0,Q,Q,Alison Riske Amritraj,Varvara Flink,6-4 7-6(6),0.99,7.0%,1.4%,59.2%,54.8%,51.7%,58.3% (7/12),49.4%,46.0%,1.1%,48.4%,39.1%,50.0% (4/8),2:01
 15-Aug-2016,Cincinnati,3,Hard,Q2,360,38,1,WC,1,Varvara Flink,Misaki Doi,0-6 7-6(5) 6-4,0.88,1.7%,0.9%,57.8%,53.7%,49.0%,61.1% (11/18),47.8%,42.7%,6.7%,34.6%,54.1%,45.5% (5/11),2:21
 15-Aug-2016,Cincinnati,3,Hard,Q1,360,69,1,WC,22,Varvara Flink,Cagla Buyukakcay,6-4 6-1,1.35,4.0%,8.0%,64.0%,62.5%,44.4%,40.0% (2/5),57.7%,59.3%,0.0%,51.6%,69.6%,63.6% (7/11),1:27
 18-Jul-2016,Washington,3,Hard,R64,412,45,0,Q,6,Yulia Putintseva,Varvara Flink,7-5 7-5,0.87,3.0%,0.0%,68.7%,73.9%,33.3%,50.0% (3/6),45.5%,33.7%,1.1%,32.7%,35.1%,11.1% (1/9),2:04

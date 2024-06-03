@@ -1,5 +1,82 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
-7-Nov-2022,Colina 125,3,Clay,R32,161,215,0,,,Yuki Naito,Ekaterine Gorgodze,3-6 6-4 6-1,0.86,1.3%,6.5%,68.8%,62.3%,29.2%,62.5% (10/16),46.7%,41.1%,9.6%,47.6%,32.3%,50.0% (4/8),1:50
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W50 Otocec,3,Clay,R16,339,222,0,16,4,Gergana Topalova,Ekaterine Gorgodze,6-1 6-2,,,,,,,,,,,,,,
+20-May-2024,W50 Otocec,3,Clay,R32,339,554,1,16,,Ekaterine Gorgodze,Naiktha Bains,7-5 6-7(8) 6-3,,,,,,,,,,,,,,
+13-May-2024,W75 Zagreb,3,Clay,R32,347,252,0,Q,SE,Gergana Topalova,Ekaterine Gorgodze,6-2 6-1,,,,,,,,,,,,,,
+13-May-2024,W75 Zagreb,3,Clay,Q2,347,950,1,8,15,Ekaterine Gorgodze,Gloria Ceschi,7-5 6-3,,,,,,,,,,,,,,
+13-May-2024,W75 Zagreb,3,Clay,Q1,347,,1,8,,Ekaterine Gorgodze,Korina Roso,6-2 6-0,,,,,,,,,,,,,,
+29-Apr-2024,W50 Lopota,3,Hard,SF,356,461,0,4,7,Kira Pavlova,Ekaterine Gorgodze,6-2 4-6 6-3,,,,,,,,,,,,,,
+29-Apr-2024,W50 Lopota,3,Hard,QF,356,419,1,4,6,Ekaterine Gorgodze,Lina Glushko,7-6(4) 5-7 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W50 Lopota,3,Hard,R16,356,752,1,4,,Ekaterine Gorgodze,Daria Frayman,7-5 6-2,,,,,,,,,,,,,,
+29-Apr-2024,W50 Lopota,3,Hard,R32,356,756,1,4,,Ekaterine Gorgodze,Elysia Bolton,6-3 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W50 Lopota,3,Hard,R32,354,497,0,7,,Alexandra Shubladze,Ekaterine Gorgodze,6-2 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,R16,343,292,0,,8,Hanne Vandewinkel,Ekaterine Gorgodze,4-6 6-0 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,R32,343,315,1,,,Ekaterine Gorgodze,Veronica Miroshnichenko,6-3 6-3,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,Q2,343,408,0,4,9,Ksenia Zaytseva,Ekaterine Gorgodze,7-6(5) 6-1,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,Q1,343,,1,4,,Ekaterine Gorgodze,Olga Danilova,6-0 6-2,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R32,329,399,0,,Q,Vivian Wolff,Ekaterine Gorgodze,6-2 6-3,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,R32,329,425,0,8,,Leonie Kung,Ekaterine Gorgodze,4-6 6-2 7-6(4),,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,QF,333,261,0,5,1,Louisa Chirico,Ekaterine Gorgodze,7-6(3) 3-6 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,R16,333,829,1,5,Q,Ekaterine Gorgodze,Akasha Urhobo,6-0 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,R32,333,588,1,5,LL,Ekaterine Gorgodze,Rasheeda Mcadoo,7-5 6-2,,,,,,,,,,,,,,
+4-Dec-2023,Montevideo 125,3,Clay,R16,341,193,0,,7,Solana Sierra,Ekaterine Gorgodze,6-3 3-6 6-3,0.84,1.2%,0.0%,75.9%,46.0%,75.0%,54.5% (6/11),46.2%,39.5%,1.2%,36.5%,44.1%,40.0% (4/10),1:58
+4-Dec-2023,Montevideo 125,3,Clay,R32,341,1268,1,,WC,Ekaterine Gorgodze,Juliana Rodriguez,6-3 6-4,1.28,0.0%,3.6%,67.3%,70.3%,33.3%,0.0% (0/3),55.8%,53.4%,0.0%,51.4%,57.1%,62.5% (5/8),1:14
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,344,94,0,Q,1,Diane Parry,Ekaterine Gorgodze,6-1 6-2,0.62,2.1%,2.1%,74.5%,42.9%,25.0%,40.0% (4/10),38.2%,38.1%,2.4%,36.7%,41.7%,100.0% (2/2),1:04
+13-Nov-2023,Colina 125,3,Clay,R16,379,194,0,Q,,Sara Bejlek,Ekaterine Gorgodze,6-1 6-2,0.67,0.0%,5.9%,84.3%,46.5%,25.0%,37.5% (3/8),40.6%,38.2%,1.8%,42.4%,31.8%,16.7% (1/6),1:07
+13-Nov-2023,Colina 125,3,Clay,R32,379,193,1,Q,,Ekaterine Gorgodze,Martina Capurro Taborda,6-2 6-1,1.68,0.0%,0.0%,85.7%,60.0%,40.0%,81.8% (9/11),62.4%,71.8%,2.6%,59.1%,88.2%,85.7% (6/7),1:13
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,386,199,0,,2,Miriam Bianca Bulgaru,Ekaterine Gorgodze,6-3 6-4,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R16,381,340,0,,7,Nikola Bartunkova,Ekaterine Gorgodze,6-3 6-1,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R32,381,519,1,,WC,Ekaterine Gorgodze,Diletta Cherubini,6-2 4-2 RET,,,,,,,,,,,,,,
+4-Sep-2023,W40 Saint-Palais-sur-Mer,3,Clay,R32,396,293,0,,5,Gergana Topalova,Ekaterine Gorgodze,6-2 3-6 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,R32,396,290,0,,10,Sapfo Sakellaridi,Ekaterine Gorgodze,1-6 6-3 6-2,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,R64,396,,1,,WC,Ekaterine Gorgodze,Tereza Krejcova,6-1 6-1,,,,,,,,,,,,,,
+21-Aug-2023,W25 Braunschweig,3,Clay,QF,397,385,0,7,4,Julia Middendorf,Ekaterine Gorgodze,6-4 7-6(3),,,,,,,,,,,,,,
+21-Aug-2023,W25 Braunschweig,3,Clay,R16,397,444,1,7,,Ekaterine Gorgodze,Luisa Meyer Auf Der Heide,6-2 6-3,,,,,,,,,,,,,,
+21-Aug-2023,W25 Braunschweig,3,Clay,R32,397,,1,7,WC,Ekaterine Gorgodze,Tea Lukic,7-6(0) 6-2,,,,,,,,,,,,,,
+14-Aug-2023,W40 Wroclaw,3,Clay,R16,404,313,0,,4,Gergana Topalova,Ekaterine Gorgodze,6-3 0-6 7-5,,,,,,,,,,,,,,
+14-Aug-2023,W40 Wroclaw,3,Clay,R32,404,584,1,,Q,Ekaterine Gorgodze,Tatiana Pieri,6-2 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W25 Koksijde,3,Clay,R32,363,660,0,8,Q,Yasmine Kabbaj,Ekaterine Gorgodze,5-7 6-3 6-2,,,,,,,,,,,,,,
+31-Jul-2023,W60 Hechingen,3,Clay,R32,363,278,0,,,Sapfo Sakellaridi,Ekaterine Gorgodze,7-6(2) 4-0 RET,,,,,,,,,,,,,,
+24-Jul-2023,W25 Horb,3,Clay,QF,368,241,0,,3,Veronika Erjavec,Ekaterine Gorgodze,6-3 6-3,,,,,,,,,,,,,,
+24-Jul-2023,W25 Horb,3,Clay,R16,368,413,1,,,Ekaterine Gorgodze,Yuki Naito,6-1 6-1,,,,,,,,,,,,,,
+24-Jul-2023,W25 Horb,3,Clay,R32,368,276,1,,6,Ekaterine Gorgodze,Sapfo Sakellaridi,3-6 6-4 6-1,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R16,334,97,0,Q,3,Panna Udvardy,Ekaterine Gorgodze,5-7 6-0 6-1,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,334,174,1,Q,,Ekaterine Gorgodze,Jessica Bouzas Maneiro,6-2 6-3,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R16,334,222,0,,7,Rebecca Sramkova,Ekaterine Gorgodze,6-3 6-2,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R32,334,261,1,,9,Ekaterine Gorgodze,Sada Nahimana,6-3 2-6 6-1,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R64,334,,1,,WC,Ekaterine Gorgodze,Marija Djurasic,6-0 6-0,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,F,397,338,1,7,6,Ekaterine Gorgodze,Anna Brogan,6-2 6-2,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,SF,397,631,1,7,,Ekaterine Gorgodze,Dejana Radanovic,7-5 6-4,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,QF,397,507,1,7,14,Ekaterine Gorgodze,Sofia Shapatava,6-3 7-5,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,R16,397,462,1,7,11,Ekaterine Gorgodze,Zongyu Li,6-0 3-6 6-3,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,R32,397,656,1,7,,Ekaterine Gorgodze,Maria Kozyreva,6-3 6-3,,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,R32,397,544,0,9,,Elena Pridankina,Ekaterine Gorgodze,6-1 6-4,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,QF,346,224,0,,3,Ankita Raina,Ekaterine Gorgodze,7-6(5) 6-3,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R16,346,299,1,,8,Ekaterine Gorgodze,Berfu Cengiz,6-0 6-2,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R32,346,674,1,,Q,Ekaterine Gorgodze,Darya Shauha,6-4 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R64,346,404,0,,,Ylona Georgiana Ghioroaie,Ekaterine Gorgodze,3-6 7-6(3) 7-6(4),,,,,,,,,,,,,,
+15-Apr-2023,BJK Cup G2 PPO: POR vs GEO,3,Clay,RR,295,314,0,,,Francisca Jorge,Ekaterine Gorgodze,7-5 6-3,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G2 RR: EST vs GEO,3,Clay,RR,295,374,0,,,Elena Malygina,Ekaterine Gorgodze,6-3 RET,,,,,,,,,,,,,,
+13-Apr-2023,BJK Cup G2 RR: GEO vs KOS,3,Clay,RR,295,470,1,,,Ekaterine Gorgodze,Arlinda Rushiti,6-1 6-2,,,,,,,,,,,,,,
+12-Apr-2023,BJK Cup G2 RR: LTU vs GEO,3,Clay,RR,295,326,1,,,Ekaterine Gorgodze,Justina Mikulskyte,7-5 4-6 6-1,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G2 RR: GEO vs RSA,3,Clay,RR,295,365,1,,,Ekaterine Gorgodze,Isabella Kruger,6-3 2-6 6-2,,,,,,,,,,,,,,
+10-Apr-2023,BJK Cup G2 RR: GEO vs IRL,3,Clay,RR,295,1083,1,,,Ekaterine Gorgodze,Celine Simunyu,6-3 6-7(1) 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,R32,274,220,0,,,Eudice Wong Chong,Ekaterine Gorgodze,2-6 7-6(6) 7-6(6),,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,QF,250,443,0,,Q,Andreea Prisacariu,Ekaterine Gorgodze,0-6 6-4 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R16,250,259,1,,,Ekaterine Gorgodze,Carlota Martinez Cirez,6-4 4-6 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R32,250,174,1,,2,Ekaterine Gorgodze,Tara Wurth,6-4 6-4,,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,R32,244,267,0,8,,Sada Nahimana,Ekaterine Gorgodze,6-3 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R32,244,256,0,,Q,Zeynep Sonmez,Ekaterine Gorgodze,7-6(4) 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,238,549,0,,Q,Ella Seidel,Ekaterine Gorgodze,7-6(2) 6-1,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R16,243,173,0,,7,Polina Kudermetova,Ekaterine Gorgodze,6-4 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,243,582,1,,Q,Ekaterine Gorgodze,Maileen Nuudi,6-2 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,R32,232,347,0,,,Urszula Radwanska,Ekaterine Gorgodze,6-3 3-6 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,QF,239,335,0,,Q,Susan Bandecchi,Ekaterine Gorgodze,3-6 6-1 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R16,239,131,1,,1,Ekaterine Gorgodze,Ylena In Albon,7-5 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,239,,1,,WC,Ekaterine Gorgodze,Maria Garcia,6-1 6-1,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,220,113,0,,11,Katie Volynets,Ekaterine Gorgodze,6-7(7) 6-1 6-1,0.68,0.9%,5.7%,66.0%,58.6%,30.6%,41.7% (5/12),42.6%,34.8%,2.2%,32.3%,40.7%,33.3% (2/6),2:15
+21-Nov-2022,Montevideo 125,3,Clay,R32,221,187,0,,,Irina Bara,Ekaterine Gorgodze,1-6 6-4 6-0,0.93,0.0%,2.7%,81.1%,56.7%,35.7%,37.5% (3/8),47.9%,44.0%,0.0%,41.2%,52.2%,25.0% (3/12),1:49
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,183,115,0,,8,Laura Pigossi,Ekaterine Gorgodze,6-3 6-4,0.75,1.5%,1.5%,80.3%,52.8%,38.5%,37.5% (3/8),44.5%,37.7%,3.8%,33.3%,47.1%,66.7% (2/3),1:22
+7-Nov-2022,Colina 125,3,Clay,R32,168,220,0,,,Yuki Naito,Ekaterine Gorgodze,3-6 6-4 6-1,0.86,1.3%,6.5%,68.8%,62.3%,29.2%,62.5% (10/16),46.7%,41.1%,9.6%,47.6%,32.3%,50.0% (4/8),1:50
 17-Oct-2022,W60 Hamburg,3,Hard,R32,161,656,0,5,WC,Ella Seidel,Ekaterine Gorgodze,7-5 6-2,,,,,,,,,,,,,,
 10-Oct-2022,Cluj Napoca,3,Hard,Q1,161,132,0,,12,Mirjam Bjorklund,Ekaterine Gorgodze,6-3 4-6 6-0,0.62,0.0%,7.9%,48.5%,69.4%,38.5%,66.7% (10/15),43.5%,29.0%,7.2%,12.5%,51.7%,25.0% (1/4),1:51
 3-Oct-2022,W60 Trnava,3,Hard,R32,158,312,0,4,,Mariam Bolkvadze,Ekaterine Gorgodze,4-6 6-2 6-3,,,,,,,,,,,,,,
@@ -17,8 +94,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2022,Valencia 125,3,Clay,R16,112,77,0,,4,Arantxa Rus,Ekaterine Gorgodze,6-2 7-5,0.74,1.2%,4.7%,69.8%,48.3%,42.3%,57.1% (8/14),43.8%,39.7%,1.7%,37.2%,46.7%,30.0% (3/10),1:56
 6-Jun-2022,Valencia 125,3,Clay,R32,112,82,1,,,Ekaterine Gorgodze,Diane Parry,7-6(4) 7-6(3),1.10,0.0%,0.0%,83.1%,65.2%,50.0%,0.0% (0/3),50.8%,41.2%,2.9%,37.2%,54.2%,21.4% (3/14),2:23
 30-May-2022,Makarska 125,3,Clay,R32,,,0,8,,Linda Noskova,Ekaterine Gorgodze,7-5 3-0 RET,0.77,0.0%,4.3%,74.5%,51.4%,58.3%,25.0% (1/4),44.0%,35.8%,5.7%,31.6%,46.7%,33.3% (1/3),1:17
-23-May-2022,Roland Garros,5,Clay,Q2,108,648,0,8,,Oceane Babel,Ekaterine Gorgodze,1-6 6-4 6-4,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,108,574,1,8,WC,Ekaterine Gorgodze,Lois Boisson,6-2 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,108,648,0,8,,Oceane Babel,Ekaterine Gorgodze,1-6 6-4 6-4,1.10,0.0%,0.9%,94.4%,48.0%,50.0%,55.6% (10/18),51.9%,57.1%,1.3%,53.6%,87.5%,57.1% (8/14),
+23-May-2022,Roland Garros,5,Clay,Q1,108,574,1,8,WC,Ekaterine Gorgodze,Lois Boisson,6-2 6-2,1.73,2.1%,4.3%,89.4%,76.2%,40.0%,100.0% (1/1),60.0%,47.9%,4.2%,37.0%,61.9%,66.7% (4/6),
 9-May-2022,Karlsruhe 125,3,Clay,R32,111,251,0,,WC,Eva Lys,Ekaterine Gorgodze,2-6 6-1 6-1,0.74,1.5%,1.5%,74.6%,48.0%,41.2%,40.0% (4/10),43.1%,40.0%,4.3%,40.0%,40.0%,50.0% (3/6),1:34
 2-May-2022,W60 Prague,3,Clay,F,118,268,0,1,,Maja Chwalinska,Ekaterine Gorgodze,7-5 6-3,,,,,,,,,,,,,,
 2-May-2022,W60 Prague,3,Clay,SF,118,220,1,1,,Ekaterine Gorgodze,Fernanda Contreras Gomez,6-4 6-3,,,,,,,,,,,,,,
@@ -74,7 +151,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,QF,185,227,1,3,5,Ekaterine Gorgodze,Despina Papamichail,6-3 6-0,,,,,,,,,,,,,,
 26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,R16,185,368,1,3,Q,Ekaterine Gorgodze,Daniela Vismane,6-2 7-6(6),,,,,,,,,,,,,,
 26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,R32,185,247,1,3,,Ekaterine Gorgodze,Irina Fetecau,6-2 6-2,,,,,,,,,,,,,,
-19-Jul-2021,Gdynia,3,Clay,QF,208,150,0,Q,,Kristina Kucova,Ekaterine Gorgodze,6-7(4) 7-6(7) 7-6(3) (ch),0.94,1.4%,2.8%,82.3%,50.9%,32.0%,55.0% (11/20),48.5%,49.4%,0.0%,44.6%,60.9%,39.1% (9/23),3:55
+19-Jul-2021,Gdynia,3,Clay,QF,208,150,0,Q,,Kristina Kucova,Ekaterine Gorgodze,6-7(4) 7-6(7) 7-6(3),0.94,1.4%,2.8%,82.3%,50.9%,32.0%,55.0% (11/20),48.5%,49.4%,0.0%,44.6%,60.9%,39.1% (9/23),3:55
 19-Jul-2021,Gdynia,3,Clay,R16,208,154,1,Q,,Ekaterine Gorgodze,Varvara Lepchenko,7-6(5) 6-2,1.55,1.8%,3.6%,82.1%,73.9%,50.0%,33.3% (1/3),57.4%,47.0%,0.0%,48.0%,43.8%,66.7% (4/6),1:33
 19-Jul-2021,Gdynia,3,Clay,R32,208,256,1,Q,LL,Ekaterine Gorgodze,Anastasia Zakharova,6-7(5) 6-3 6-1,1.26,2.2%,2.2%,81.5%,52.0%,47.1%,36.4% (4/11),56.5%,61.7%,0.0%,54.9%,82.6%,61.1% (11/18),2:13
 19-Jul-2021,Gdynia,3,Clay,Q2,208,325,1,5,,Ekaterine Gorgodze,Amina Anshba,6-0 6-2,1.59,0.0%,3.9%,78.4%,57.5%,63.6%,60.0% (3/5),62.3%,65.5%,0.0%,57.9%,82.4%,50.0% (7/14),1:12
@@ -163,7 +240,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jul-2019,Karlsruhe,3,Clay,QF,194,223,0,,,Patricia Maria Tig,Ekaterine Gorgodze,7-5 6-0,0.59,0.0%,5.0%,70.0%,52.4%,38.9%,44.4% (4/9),40.4%,30.6%,4.1%,26.7%,36.8%,100.0% (1/1),1:12
 29-Jul-2019,Karlsruhe,3,Clay,R16,194,156,1,,,Ekaterine Gorgodze,Bibiane Schoofs,7-5 7-5,1.14,0.0%,8.0%,77.3%,63.8%,23.5%,44.4% (4/9),53.2%,51.8%,1.2%,53.6%,48.1%,53.8% (7/13),1:52
 29-Jul-2019,Karlsruhe,3,Clay,R32,194,60,1,,1,Ekaterine Gorgodze,Tamara Zidansek,7-5 3-4 RET,1.11,1.6%,4.8%,61.3%,63.2%,20.8%,37.5% (3/8),52.8%,59.0%,0.0%,55.6%,64.0%,85.7% (6/7),1:38
-22-Jul-2019,Palermo,3,Clay,R32,193,5,0,,1,Kiki Bertens,Ekaterine Gorgodze,6-0 6-1 (ch),0.57,0.0%,6.6%,50.8%,48.4%,36.7%,62.5% (10/16),38.8%,32.4%,10.8%,27.8%,36.8%,0.0% (0/2),1:12
+22-Jul-2019,Palermo,3,Clay,R32,193,5,0,,1,Kiki Bertens,Ekaterine Gorgodze,6-0 6-1,0.57,0.0%,6.6%,50.8%,48.4%,36.7%,62.5% (10/16),38.8%,32.4%,10.8%,27.8%,36.8%,0.0% (0/2),1:12
 15-Jul-2019,Bucharest,3,Clay,Q1,144,474,0,2,,Cristina Dinu,Ekaterine Gorgodze,6-4 6-3,0.82,1.4%,4.2%,45.1%,50.0%,56.4%,55.6% (5/9),46.8%,38.2%,3.6%,26.9%,48.3%,66.7% (2/3),1:32
 8-Jul-2019,Bastad,3,Clay,R16,150,105,0,,6,Natalia Vikhlyantseva,Ekaterine Gorgodze,6-3 6-0,0.56,2.3%,9.1%,43.2%,57.9%,32.0%,28.6% (2/7),37.4%,31.9%,6.4%,23.3%,47.1%,50.0% (1/2),0:56
 8-Jul-2019,Bastad,3,Clay,R32,150,538,1,,WC,Ekaterine Gorgodze,Cornelia Lister,6-3 6-2,1.56,3.4%,1.7%,69.5%,75.6%,66.7%,100.0% (5/5),58.6%,42.3%,3.8%,37.5%,50.0%,50.0% (3/6),1:14
@@ -211,7 +288,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Sep-2018,Saint Malo $60K,3,Clay,R32,166,773,1,,WC,Ekaterine Gorgodze,Lucie Wargnier,6-3 0-6 6-3,,,,,,,,,,,,,,
 10-Sep-2018,Biarritz $80K,3,Clay,R16,168,325,0,,SE,Paula Ormaechea,Ekaterine Gorgodze,7-5 6-4,,,,,,,,,,,,,,
 10-Sep-2018,Biarritz $80K,3,Clay,R32,168,154,1,,8,Ekaterine Gorgodze,Irina Khromacheva,6-3 6-7(8) 6-0,,,,,,,,,,,,,,
-27-Aug-2018,US Open,5,Hard,Q2,167,137,0,,16,Eugenie Bouchard,Ekaterine Gorgodze,6-1 6-2 (ch),0.58,2.2%,0.0%,67.4%,51.6%,20.0%,37.5% (3/8),37.5%,34.0%,10.0%,24.1%,47.6%,33.3% (1/3),0:58
+27-Aug-2018,US Open,5,Hard,Q2,167,137,0,,16,Eugenie Bouchard,Ekaterine Gorgodze,6-1 6-2,0.58,2.2%,0.0%,67.4%,51.6%,20.0%,37.5% (3/8),37.5%,34.0%,10.0%,24.1%,47.6%,33.3% (1/3),0:58
 27-Aug-2018,US Open,5,Hard,Q1,167,709,1,,,Ekaterine Gorgodze,Caty Mcnally,0-6 7-5 6-2,0.98,2.3%,0.0%,84.1%,55.4%,28.6%,53.8% (7/13),49.4%,47.8%,1.1%,35.1%,69.7%,42.9% (6/14),2:03
 6-Aug-2018,Hechingen $60K,3,Clay,F,195,182,1,6,,Ekaterine Gorgodze,Laura Siegemund,6-2 6-1,,,,,,,,,,,,,,
 6-Aug-2018,Hechingen $60K,3,Clay,SF,195,206,1,6,8,Ekaterine Gorgodze,Anna Zaja,7-6(6) 6-1,,,,,,,,,,,,,,
@@ -493,7 +570,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Mar-2014,Antalya 10K,3,Hard,R32,378,598,0,3,,Linda Prenkovic,Ekaterine Gorgodze,7-6(3) 6-0,,,,,,,,,,,,,,
 24-Mar-2014,Antalya 10K,3,Hard,R32,382,402,0,8,,Chantal Skamlova,Ekaterine Gorgodze,0-6 6-4 6-3,,,,,,,,,,,,,,
 17-Mar-2014,Antalya 10K,3,Hard,R32,382,680,0,5,,Ksenia Lykina,Ekaterine Gorgodze,6-2 6-3,,,,,,,,,,,,,,
-3-Mar-2014,Antalya 10K,3,Clay,R16,396,1145,0,1,Q,Viktoria Kuzmova,Ekaterine Gorgodze,7-6(4) 1-0 RET,,,,,,,,,,,,,,
+3-Mar-2014,Antalya 10K,3,Clay,R16,396,1145,0,1,Q,Viktoria Hruncakova,Ekaterine Gorgodze,7-6(4) 1-0 RET,,,,,,,,,,,,,,
 3-Mar-2014,Antalya 10K,3,Clay,R32,396,1145,1,1,Q,Ekaterine Gorgodze,Jil Nora Engelmann,6-3 6-3,,,,,,,,,,,,,,
 24-Feb-2014,Antalya 10K,3,Clay,F,400,763,0,3,,Sofia Kvatsabaia,Ekaterine Gorgodze,2-6 6-0 6-4,,,,,,,,,,,,,,
 24-Feb-2014,Antalya 10K,3,Clay,SF,400,814,1,3,,Ekaterine Gorgodze,Nicoleta Catalina Dascalu,6-1 6-1,,,,,,,,,,,,,,
@@ -521,7 +598,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Nov-2013,Antalya 10K,3,Clay,F,493,317,0,3,1,Ana Bogdan,Ekaterine Gorgodze,7-6(5) 7-6(5),,,,,,,,,,,,,,
 11-Nov-2013,Antalya 10K,3,Clay,SF,493,770,1,3,,Ekaterine Gorgodze,Monique Zuur,6-2 6-2,,,,,,,,,,,,,,
 11-Nov-2013,Antalya 10K,3,Clay,QF,493,,1,3,,Ekaterine Gorgodze,Yoshimi Kawasaki,6-3 6-4,,,,,,,,,,,,,,
-11-Nov-2013,Antalya 10K,3,Clay,R16,493,,1,3,Q,Ekaterine Gorgodze,Viktoria Kuzmova,7-5 2-6 6-1,,,,,,,,,,,,,,
+11-Nov-2013,Antalya 10K,3,Clay,R16,493,,1,3,Q,Ekaterine Gorgodze,Viktoria Hruncakova,7-5 2-6 6-1,,,,,,,,,,,,,,
 11-Nov-2013,Antalya 10K,3,Clay,R32,493,,1,3,WC,Ekaterine Gorgodze,Gizem Melisa Ates,6-2 6-4,,,,,,,,,,,,,,
 4-Nov-2013,Antalya 10K,3,Clay,SF,523,400,0,4,2,Martina Kubicikova,Ekaterine Gorgodze,4-6 6-2 7-5,,,,,,,,,,,,,,
 4-Nov-2013,Antalya 10K,3,Clay,QF,523,779,1,4,7,Ekaterine Gorgodze,Diana Buzean,6-0 6-4,,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 21-Oct-2019,W80 Macon GA,3,Hard,Q1,,542,0,WC,,Suzan Lamens,Alla Kudryavtseva,6-2 6-1,,,,,,,,,,,,,,
 25-Jun-2018,Eastbourne,3,Grass,Q1,365,107,0,,11,Arantxa Rus,Alla Kudryavtseva,6-2 6-2,0.47,0.0%,9.1%,59.1%,38.5%,50.0%,16.7% (1/6),35.3%,26.8%,2.4%,20.6%,57.1%,100.0% (1/1),0:56
 11-Jun-2018,Nottingham,3,Grass,Q1,366,128,0,,1,Saisai Zheng,Alla Kudryavtseva,3-6 6-2 6-1,0.80,1.1%,5.4%,69.6%,56.3%,39.3%,64.7% (11/17),45.8%,39.2%,5.4%,25.0%,60.0%,27.3% (3/11),1:34
@@ -167,7 +167,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jan-2014,Pattaya,3,Hard,R32,123,68,1,Q,,Alla Kudryavtseva,Ajla Tomljanovic,6-4 7-5,1.12,0.0%,6.9%,59.7%,55.8%,44.8%,44.4% (4/9),53.1%,54.7%,0.0%,37.1%,70.0%,53.8% (7/13),
 27-Jan-2014,Pattaya,3,Hard,Q2,123,146,1,,,Alla Kudryavtseva,Belinda Bencic,6-3 6-3,1.31,6.8%,4.1%,60.3%,77.3%,41.4%,80.0% (4/5),56.0%,48.5%,2.9%,38.1%,65.4%,33.3% (4/12),
 27-Jan-2014,Pattaya,3,Hard,Q1,123,222,1,,,Alla Kudryavtseva,Noppawan Lertcheewakarn,6-1 6-2,1.95,5.1%,2.6%,71.8%,78.6%,54.5%,- (0/0),62.5%,55.1%,0.0%,42.9%,64.3%,55.6% (5/9),
-13-Jan-2014,Australian Open,5,Hard,R64,162,9,0,Q,9,Angelique Kerber,Alla Kudryavtseva,6-4 6-2 (ch),0.60,6.3%,3.2%,63.5%,62.5%,34.8%,69.2% (9/13),42.0%,28.6%,6.1%,17.2%,45.0%,50.0% (1/2),
+13-Jan-2014,Australian Open,5,Hard,R64,162,9,0,Q,9,Angelique Kerber,Alla Kudryavtseva,6-4 6-2,0.60,6.3%,3.2%,63.5%,62.5%,34.8%,69.2% (9/13),42.0%,28.6%,6.1%,17.2%,45.0%,50.0% (1/2),
 13-Jan-2014,Australian Open,5,Hard,R128,162,76,1,Q,,Alla Kudryavtseva,Caroline Garcia,6-2 7-6(7),1.21,3.3%,4.4%,58.2%,69.8%,36.8%,33.3% (2/6),54.7%,53.2%,3.8%,52.2%,54.5%,60.0% (6/10),
 13-Jan-2014,Australian Open,5,Hard,Q3,162,171,1,,,Alla Kudryavtseva,Danka Kovinic,7-6(4) 6-1,1.33,1.5%,9.2%,60.0%,71.8%,50.0%,50.0% (2/4),56.3%,49.2%,0.0%,45.9%,54.2%,80.0% (4/5),
 13-Jan-2014,Australian Open,5,Hard,Q2,162,131,1,,,Alla Kudryavtseva,Andrea Hlavackova,6-3 6-4,1.36,3.0%,9.1%,63.6%,71.4%,33.3%,66.7% (6/9),57.7%,57.9%,5.3%,48.4%,69.2%,75.0% (6/8),

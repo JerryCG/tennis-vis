@@ -1,5 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
-28-Jun-2021,Wimbledon,5,Grass,R128,40,174,0,,Q,Lesley Pattinama Kerkhove,Svetlana Kuznetsova,6-3 6-3 (ch),0.75,9.1%,9.1%,47.3%,65.4%,44.8%,63.6% (7/11),44.8%,34.0%,0.0%,20.7%,52.4%,50.0% (1/2),1:05
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Jun-2021,Wimbledon,5,Grass,R128,40,174,0,,Q,Lesley Pattinama Kerkhove,Svetlana Kuznetsova,6-3 6-3,0.75,9.1%,9.1%,47.3%,65.4%,44.8%,63.6% (7/11),44.8%,34.0%,0.0%,20.7%,52.4%,50.0% (1/2),1:05
 21-Jun-2021,Eastbourne,3,Grass,R32,38,27,0,,,Anett Kontaveit,Svetlana Kuznetsova,6-4 3-6 6-3,0.91,8.4%,7.4%,56.8%,72.2%,43.9%,63.6% (7/11),48.4%,36.3%,6.6%,28.6%,48.6%,30.0% (3/10),1:55
 31-May-2021,Roland Garros,5,Clay,R128,40,16,0,,15,Victoria Azarenka,Svetlana Kuznetsova,6-4 2-6 6-3,0.96,0.0%,5.7%,69.0%,51.7%,37.0%,56.3% (9/16),48.8%,50.6%,0.0%,44.1%,65.4%,77.8% (7/9),2:00
 22-Mar-2021,Miami,3,Hard,R128,35,61,0,,,Alize Cornet,Svetlana Kuznetsova,2-6 6-2 6-1,0.80,0.0%,3.8%,67.5%,55.6%,38.5%,50.0% (5/10),44.8%,39.8%,1.2%,29.4%,56.3%,33.3% (3/9),2:11
@@ -11,45 +11,45 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Mar-2021,Dubai,3,Hard,R64,41,35,1,,,Svetlana Kuznetsova,Qiang Wang,6-4 1-6 7-5,0.98,1.2%,3.6%,64.3%,64.8%,36.7%,44.4% (4/9),49.2%,44.6%,5.0%,45.0%,43.9%,35.7% (5/14),2:21
 1-Mar-2021,Doha,3,Hard,R32,39,14,0,,8,Victoria Azarenka,Svetlana Kuznetsova,6-2 6-3,0.78,1.7%,3.4%,72.9%,46.5%,37.5%,53.8% (7/13),43.9%,43.8%,1.3%,44.4%,42.3%,22.2% (2/9),1:51
 8-Feb-2021,Australian Open,5,Hard,R64,37,12,0,,11,Belinda Bencic,Svetlana Kuznetsova,7-5 2-6 6-4,0.94,4.9%,1.9%,65.0%,59.7%,50.0%,61.5% (8/13),49.0%,40.9%,1.1%,31.3%,51.1%,50.0% (5/10),2:39
-8-Feb-2021,Australian Open,5,Hard,R128,37,38,1,,,Svetlana Kuznetsova,Barbora Strycova,6-2 6-2 (ch),1.42,0.0%,8.9%,66.1%,78.4%,42.1%,100.0% (6/6),57.3%,48.1%,0.0%,35.5%,65.2%,57.1% (4/7),1:25
+8-Feb-2021,Australian Open,5,Hard,R128,37,38,1,,,Svetlana Kuznetsova,Barbora Strycova,6-2 6-2,1.42,0.0%,8.9%,66.1%,78.4%,42.1%,100.0% (6/6),57.3%,48.1%,0.0%,35.5%,65.2%,57.1% (4/7),1:25
 3-Feb-2021,Grampians Trophy,3,Hard,R32,37,24,0,,7,Jennifer Brady,Svetlana Kuznetsova,6-3 6-0,0.49,7.3%,4.9%,58.5%,45.8%,35.3%,54.5% (6/11),34.9%,28.6%,7.1%,17.4%,42.1%,25.0% (1/4),1:00
 28-Sep-2020,Roland Garros,5,Clay,R128,33,38,0,28,,Anastasia Pavlyuchenkova,Svetlana Kuznetsova,6-1 2-6 6-1,0.86,1.6%,4.8%,63.5%,57.5%,26.1%,30.0% (3/10),46.2%,46.3%,2.4%,37.9%,81.3%,66.7% (4/6),1:34
 14-Sep-2020,Rome,3,Clay,R16,38,6,0,,4,Elina Svitolina,Svetlana Kuznetsova,7-6(6) 6-4,0.86,2.4%,0.0%,69.9%,65.5%,40.0%,62.5% (5/8),47.7%,36.1%,0.0%,30.6%,41.7%,33.3% (2/6),1:54
 14-Sep-2020,Rome,3,Clay,R32,38,21,1,,14,Svetlana Kuznetsova,Anett Kontaveit,4-6 7-5 6-3,1.07,6.6%,1.6%,69.7%,65.9%,40.5%,71.4% (10/14),51.7%,44.6%,3.6%,40.8%,52.8%,60.0% (6/10),2:45
 14-Sep-2020,Rome,3,Clay,R64,38,60,1,,,Svetlana Kuznetsova,Bernarda Pera,3-6 7-6(3) 6-3,1.08,1.1%,6.6%,54.9%,64.0%,36.6%,46.2% (6/13),51.9%,52.1%,2.1%,45.5%,61.5%,50.0% (8/16),2:15
 7-Sep-2020,Istanbul,3,Clay,R16,34,272,0,1,Q,Eugenie Bouchard,Svetlana Kuznetsova,7-6(3) 6-7(5) 6-2,0.81,3.5%,4.3%,60.9%,62.9%,48.9%,54.5% (6/11),46.8%,34.7%,3.0%,32.9%,38.7%,60.0% (3/5),2:50
-24-Feb-2020,Doha,3,Hard,SF,46,13,0,,9,Aryna Sabalenka,Svetlana Kuznetsova,6-4 6-3 (ch),0.68,1.8%,0.0%,78.9%,51.1%,50.0%,20.0% (1/5),42.1%,33.3%,0.0%,27.9%,50.0%,66.7% (2/3),1:13
-24-Feb-2020,Doha,3,Hard,QF,46,9,1,,4,Svetlana Kuznetsova,Belinda Bencic,6-4 6-4 (ch),1.41,11.1%,4.8%,57.1%,75.0%,59.3%,75.0% (3/4),55.4%,44.7%,6.6%,31.4%,72.0%,25.0% (3/12),1:35
+24-Feb-2020,Doha,3,Hard,SF,46,13,0,,9,Aryna Sabalenka,Svetlana Kuznetsova,6-4 6-3,0.68,1.8%,0.0%,78.9%,51.1%,50.0%,20.0% (1/5),42.1%,33.3%,0.0%,27.9%,50.0%,66.7% (2/3),1:13
+24-Feb-2020,Doha,3,Hard,QF,46,9,1,,4,Svetlana Kuznetsova,Belinda Bencic,6-4 6-4,1.41,11.1%,4.8%,57.1%,75.0%,59.3%,75.0% (3/4),55.4%,44.7%,6.6%,31.4%,72.0%,25.0% (3/12),1:35
 24-Feb-2020,Doha,3,Hard,R16,46,29,1,,,Svetlana Kuznetsova,Amanda Anisimova,W/O,,,,,,,,,,,,,,
 24-Feb-2020,Doha,3,Hard,R32,46,50,1,,,Svetlana Kuznetsova,Iga Swiatek,6-2 6-2,2.00,8.9%,2.2%,64.4%,79.3%,68.8%,100.0% (2/2),62.0%,48.9%,2.1%,47.8%,50.0%,80.0% (4/5),1:05
 24-Feb-2020,Doha,3,Hard,R64,46,172,1,,WC,Svetlana Kuznetsova,Cagla Buyukakcay,6-2 6-2,1.70,7.3%,4.9%,58.5%,66.7%,70.6%,0.0% (0/1),59.0%,53.9%,0.0%,50.0%,66.7%,41.7% (5/12),1:21
 10-Feb-2020,St. Petersburg,3,Hard,R16,49,5,0,WC,1,Belinda Bencic,Svetlana Kuznetsova,7-6(4) 6-4,0.91,4.8%,6.0%,67.9%,70.2%,29.6%,50.0% (4/8),49.0%,39.1%,2.9%,31.6%,48.4%,50.0% (3/6),1:44
 10-Feb-2020,St. Petersburg,3,Hard,R32,49,52,1,WC,,Svetlana Kuznetsova,Jennifer Brady,6-3 6-1,1.33,1.5%,5.9%,63.2%,74.4%,36.0%,91.7% (11/12),56.8%,52.6%,12.3%,35.7%,69.0%,71.4% (5/7),1:27
 20-Jan-2020,Australian Open,5,Hard,R64,53,102,0,,,Camila Giorgi,Svetlana Kuznetsova,6-3 6-1,0.60,3.7%,1.9%,70.4%,52.6%,37.5%,58.3% (7/12),40.4%,31.1%,2.2%,24.1%,43.8%,25.0% (1/4),1:03
-20-Jan-2020,Australian Open,5,Hard,R128,53,16,1,,15,Svetlana Kuznetsova,Marketa Vondrousova,6-2 4-6 6-4 (ch),1.27,2.5%,2.5%,69.6%,63.6%,33.3%,30.0% (3/10),56.2%,57.8%,0.0%,55.8%,61.3%,75.0% (9/12),1:52
+20-Jan-2020,Australian Open,5,Hard,R128,53,16,1,,15,Svetlana Kuznetsova,Marketa Vondrousova,6-2 4-6 6-4,1.27,2.5%,2.5%,69.6%,63.6%,33.3%,30.0% (3/10),56.2%,57.8%,0.0%,55.8%,61.3%,75.0% (9/12),1:52
 13-Jan-2020,Hobart,3,Hard,R32,53,43,0,,6,Magda Linette,Svetlana Kuznetsova,7-6(2) 7-6(9),0.85,2.9%,1.9%,77.7%,60.0%,52.2%,66.7% (6/9),47.9%,35.3%,2.4%,30.4%,44.8%,75.0% (3/4),2:06
 14-Oct-2019,Moscow,3,Hard,R32,57,35,0,,,Karolina Muchova,Svetlana Kuznetsova,6-2 6-3,0.76,2.0%,4.1%,65.3%,50.0%,41.2%,44.4% (4/9),43.2%,40.3%,4.8%,31.7%,57.1%,25.0% (2/8),1:16
 30-Sep-2019,Beijing,3,Hard,R64,56,90,0,WC,Q,Christina Mchale,Svetlana Kuznetsova,6-0 1-6 6-3,0.84,2.5%,4.9%,67.9%,56.4%,38.5%,37.5% (3/8),46.2%,41.3%,5.3%,37.8%,46.7%,27.3% (3/11),1:50
-23-Sep-2019,Wuhan,3,Hard,R16,69,3,0,Q,3,Elina Svitolina,Svetlana Kuznetsova,6-4 6-2 (ch),0.63,0.0%,7.7%,56.9%,62.2%,32.1%,50.0% (5/10),42.0%,31.9%,4.3%,23.3%,47.1%,66.7% (2/3),1:16
+23-Sep-2019,Wuhan,3,Hard,R16,69,3,0,Q,3,Elina Svitolina,Svetlana Kuznetsova,6-4 6-2,0.63,0.0%,7.7%,56.9%,62.2%,32.1%,50.0% (5/10),42.0%,31.9%,4.3%,23.3%,47.1%,66.7% (2/3),1:16
 23-Sep-2019,Wuhan,3,Hard,R32,69,32,1,Q,,Svetlana Kuznetsova,Su Wei Hsieh,6-2 7-6(5),1.39,4.8%,0.0%,64.5%,57.5%,72.7%,50.0% (2/4),56.9%,51.5%,0.0%,39.5%,72.0%,50.0% (4/8),1:30
 23-Sep-2019,Wuhan,3,Hard,R64,69,38,1,Q,,Svetlana Kuznetsova,Yulia Putintseva,6-1 1-0 RET,2.17,13.6%,9.1%,50.0%,90.9%,54.5%,- (0/0),65.9%,59.1%,0.0%,40.0%,100.0%,100.0% (3/3),0:36
 23-Sep-2019,Wuhan,3,Hard,Q2,69,444,1,6,Alt,Svetlana Kuznetsova,Bethanie Mattek Sands,6-2 6-2,2.14,4.9%,4.9%,65.9%,77.8%,64.3%,50.0% (1/2),64.8%,57.4%,2.1%,60.7%,52.6%,71.4% (5/7),0:56
 23-Sep-2019,Wuhan,3,Hard,Q1,69,697,1,6,WC,Svetlana Kuznetsova,Qinwen Zheng,6-2 6-4,1.47,1.9%,3.8%,73.1%,84.2%,21.4%,66.7% (2/3),55.8%,48.1%,5.2%,33.3%,65.7%,40.0% (4/10),1:35
 26-Aug-2019,US Open,5,Hard,R128,63,141,0,,,Kristie Ahn,Svetlana Kuznetsova,7-5 6-2,0.66,6.1%,6.1%,62.1%,65.9%,40.0%,66.7% (6/9),43.0%,29.0%,1.6%,24.5%,46.2%,0.0% (0/2),1:35
-12-Aug-2019,Cincinnati,3,Hard,F,153,18,0,WC,16,Madison Keys,Svetlana Kuznetsova,7-5 7-6(5) (ch),0.92,2.5%,1.3%,72.2%,68.4%,45.5%,57.1% (4/7),48.1%,34.9%,15.7%,24.1%,55.2%,28.6% (2/7),1:44
-12-Aug-2019,Cincinnati,3,Hard,SF,153,2,1,WC,1,Svetlana Kuznetsova,Ashleigh Barty,6-2 6-4 (ch),1.80,2.3%,2.3%,72.7%,78.1%,66.7%,50.0% (1/2),58.9%,45.1%,5.9%,42.3%,48.0%,80.0% (4/5),1:08
+12-Aug-2019,Cincinnati,3,Hard,F,153,18,0,WC,16,Madison Keys,Svetlana Kuznetsova,7-5 7-6(5),0.92,2.5%,1.3%,72.2%,68.4%,45.5%,57.1% (4/7),48.1%,34.9%,15.7%,24.1%,55.2%,28.6% (2/7),1:44
+12-Aug-2019,Cincinnati,3,Hard,SF,153,2,1,WC,1,Svetlana Kuznetsova,Ashleigh Barty,6-2 6-4,1.80,2.3%,2.3%,72.7%,78.1%,66.7%,50.0% (1/2),58.9%,45.1%,5.9%,42.3%,48.0%,80.0% (4/5),1:08
 12-Aug-2019,Cincinnati,3,Hard,QF,153,3,1,WC,3,Svetlana Kuznetsova,Karolina Pliskova,3-6 7-6(2) 6-3,1.04,6.1%,6.1%,60.6%,73.3%,43.6%,66.7% (4/6),50.5%,40.0%,8.6%,33.8%,52.9%,27.3% (3/11),2:18
 12-Aug-2019,Cincinnati,3,Hard,R16,153,10,1,WC,8,Svetlana Kuznetsova,Sloane Stephens,6-1 6-2,1.85,5.7%,2.9%,68.6%,79.2%,36.4%,33.3% (1/3),64.4%,63.5%,1.9%,59.4%,70.0%,70.0% (7/10),0:52
 12-Aug-2019,Cincinnati,3,Hard,R32,153,32,1,WC,,Svetlana Kuznetsova,Dayana Yastremska,4-6 7-6(7) 6-2,1.25,5.1%,0.0%,65.7%,69.2%,50.0%,60.0% (6/10),53.9%,46.7%,1.7%,45.5%,48.1%,35.7% (5/14),2:34
 12-Aug-2019,Cincinnati,3,Hard,R64,153,11,1,WC,11,Svetlana Kuznetsova,Anastasija Sevastova,7-6(3) 6-7(4) 6-4,1.24,2.1%,2.1%,63.5%,62.3%,48.6%,38.5% (5/13),54.8%,52.9%,0.8%,49.4%,60.0%,64.3% (9/14),2:35
-5-Aug-2019,Toronto ,3,Hard,R16,198,4,0,WC,4,Simona Halep,Svetlana Kuznetsova,6-2 6-1 (ch),0.65,0.0%,1.9%,71.2%,48.6%,46.7%,60.0% (6/10),41.0%,34.0%,0.0%,30.0%,46.2%,0.0% (0/2),1:07
+5-Aug-2019,Toronto ,3,Hard,R16,198,4,0,WC,4,Simona Halep,Svetlana Kuznetsova,6-2 6-1,0.65,0.0%,1.9%,71.2%,48.6%,46.7%,60.0% (6/10),41.0%,34.0%,0.0%,30.0%,46.2%,0.0% (0/2),1:07
 5-Aug-2019,Toronto ,3,Hard,R32,198,24,1,WC,,Svetlana Kuznetsova,Donna Vekic,7-6(4) 6-3,1.14,1.2%,3.7%,75.6%,59.7%,55.0%,50.0% (3/6),53.1%,47.4%,1.3%,38.1%,58.3%,44.4% (4/9),1:46
 5-Aug-2019,Toronto ,3,Hard,R64,198,122,1,WC,Q,Svetlana Kuznetsova,Xiyu Wang,6-2 6-4,1.92,0.0%,2.0%,63.3%,83.9%,66.7%,100.0% (1/1),60.0%,43.1%,0.0%,42.9%,43.5%,100.0% (3/3),1:09
 1-Jul-2019,Wimbledon,5,Grass,R128,104,58,0,,,Alison Van Uytvanck,Svetlana Kuznetsova,6-4 4-6 6-2,0.95,3.8%,2.5%,78.5%,50.0%,64.7%,50.0% (7/14),48.3%,44.3%,0.0%,38.0%,51.1%,29.4% (5/17),1:45
 27-May-2019,Roland Garros,5,Clay,R128,101,203,0,Q,Q,Kristina Kucova,Svetlana Kuznetsova,6-4 6-2,0.86,4.2%,4.2%,68.8%,63.6%,53.3%,50.0% (3/6),45.5%,33.9%,0.0%,35.7%,30.0%,0.0% (0/4),1:07
 20-May-2019,Nurnberg,3,Clay,R32,102,111,0,WC,,Johanna Larsson,Svetlana Kuznetsova,7-5 6-4,0.95,1.5%,1.5%,63.2%,62.8%,60.0%,72.7% (8/11),47.7%,36.5%,2.4%,35.1%,39.3%,12.5% (1/8),1:40
 6-May-2019,Madrid,3,Clay,R32,101,18,0,WC,,Belinda Bencic,Svetlana Kuznetsova,7-6(4) 2-6 6-3,0.94,9.1%,2.3%,63.6%,58.9%,50.0%,50.0% (5/10),48.4%,41.8%,4.1%,38.5%,48.5%,46.2% (6/13),2:06
-6-May-2019,Madrid,3,Clay,R64,101,10,1,WC,10,Svetlana Kuznetsova,Aryna Sabalenka,7-5 6-4 (ch),1.18,3.7%,0.0%,69.1%,66.1%,52.0%,81.8% (9/11),53.3%,45.3%,2.3%,30.8%,67.6%,40.0% (4/10),1:53
+6-May-2019,Madrid,3,Clay,R64,101,10,1,WC,10,Svetlana Kuznetsova,Aryna Sabalenka,7-5 6-4,1.18,3.7%,0.0%,69.1%,66.1%,52.0%,81.8% (9/11),53.3%,45.3%,2.3%,30.8%,67.6%,40.0% (4/10),1:53
 29-Apr-2019,Prague,3,Clay,R16,109,146,0,WC,Q,Jil Teichmann,Svetlana Kuznetsova,2-6 6-3 6-2,1.01,1.4%,1.4%,84.9%,58.1%,54.5%,44.4% (4/9),50.0%,42.9%,1.3%,33.3%,61.5%,57.1% (4/7),1:39
 29-Apr-2019,Prague,3,Clay,R32,109,29,1,WC,4,Svetlana Kuznetsova,Mihaela Buzarnescu,6-4 6-2,1.55,1.9%,3.7%,70.4%,76.3%,50.0%,75.0% (3/4),57.0%,48.6%,1.4%,51.1%,44.4%,36.4% (4/11),1:25
 22-Apr-2019,Istanbul,3,Clay,R16,98,46,0,WC,,Marketa Vondrousova,Svetlana Kuznetsova,6-4 6-3,0.80,0.0%,5.7%,67.1%,38.3%,43.5%,30.0% (3/10),43.2%,47.9%,2.1%,38.7%,64.7%,100.0% (4/4),1:18
@@ -59,10 +59,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Apr-2019,Lugano,3,Clay,R32,109,57,1,WC,6,Svetlana Kuznetsova,Ekaterina Alexandrova,3-6 6-2 7-6(6),1.06,1.8%,3.7%,61.5%,53.7%,50.0%,50.0% (7/14),51.5%,50.8%,4.8%,36.6%,69.8%,35.0% (7/20),2:22
 17-Sep-2018,Guangzhou,3,Hard,R16,110,41,0,WC,3,Qiang Wang,Svetlana Kuznetsova,6-2 6-2,0.61,0.0%,3.6%,62.5%,54.3%,38.1%,61.5% (8/13),41.0%,31.8%,2.3%,12.0%,57.9%,100.0% (1/1),1:06
 17-Sep-2018,Guangzhou,3,Hard,R32,110,210,1,WC,Q,Svetlana Kuznetsova,Karman Thandi,3-6 6-3 6-2,1.15,2.2%,4.4%,71.4%,64.6%,46.2%,57.1% (4/7),52.9%,46.9%,4.1%,25.5%,70.2%,38.5% (5/13),2:06
-27-Aug-2018,US Open,5,Hard,R128,102,16,0,,16,Venus Williams,Svetlana Kuznetsova,6-3 5-7 6-3 (ch),0.93,7.3%,5.7%,63.4%,60.3%,31.1%,66.7% (16/24),48.3%,46.9%,0.0%,36.9%,60.4%,40.0% (6/15),2:55
+27-Aug-2018,US Open,5,Hard,R128,102,16,0,,16,Venus Williams,Svetlana Kuznetsova,6-3 5-7 6-3,0.93,7.3%,5.7%,63.4%,60.3%,31.1%,66.7% (16/24),48.3%,46.9%,0.0%,36.9%,60.4%,40.0% (6/15),2:55
 13-Aug-2018,Cincinnati,3,Hard,R32,88,7,0,WC,5,Elina Svitolina,Svetlana Kuznetsova,7-6(1) 4-6 6-4,0.93,3.7%,7.3%,65.1%,57.7%,34.2%,52.9% (9/17),48.2%,47.0%,1.7%,44.7%,51.2%,47.1% (8/17),2:41
 13-Aug-2018,Cincinnati,3,Hard,R64,88,77,1,WC,Q,Svetlana Kuznetsova,Stefanie Voegele,6-4 2-6 7-6(5),0.99,4.3%,9.8%,65.2%,73.3%,40.6%,40.0% (2/5),49.5%,37.8%,1.0%,35.6%,41.0%,40.0% (2/5),2:13
-30-Jul-2018,Washington,3,Hard,F,128,44,1,,7,Svetlana Kuznetsova,Donna Vekic,4-6 7-6(7) 6-2 (ch),,,,,,,,,,,,,,
+30-Jul-2018,Washington,3,Hard,F,128,44,1,,7,Svetlana Kuznetsova,Donna Vekic,4-6 7-6(7) 6-2,,,,,,,,,,,,,,
 30-Jul-2018,Washington,3,Hard,SF,128,91,1,,,Svetlana Kuznetsova,Andrea Petkovic,6-2 6-2,1.37,4.8%,0.0%,66.1%,61.0%,57.1%,75.0% (3/4),57.6%,55.4%,0.0%,55.3%,55.6%,55.6% (5/9),1:23
 30-Jul-2018,Washington,3,Hard,QF,128,52,1,,8,Svetlana Kuznetsova,Yulia Putintseva,6-2 6-2,1.65,5.6%,3.7%,55.6%,70.0%,62.5%,66.7% (2/3),61.0%,54.9%,0.0%,53.7%,60.0%,100.0% (5/5),1:21
 30-Jul-2018,Washington,3,Hard,R16,128,87,1,,,Svetlana Kuznetsova,Ana Bogdan,6-2 6-1,1.75,8.0%,4.0%,70.0%,77.1%,53.3%,100.0% (1/1),62.0%,52.4%,0.0%,52.0%,52.9%,66.7% (4/6),1:09
@@ -80,7 +80,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Apr-2018,Istanbul,3,Clay,R32,28,64,1,2,,Svetlana Kuznetsova,Qiang Wang,6-3 6-3,1.19,0.0%,8.8%,73.5%,62.0%,33.3%,70.0% (7/10),54.2%,54.1%,1.4%,45.0%,64.7%,37.5% (6/16),1:40
 9-Apr-2018,Lugano,3,Clay,R32,29,68,0,5,,Mona Barthel,Svetlana Kuznetsova,4-6 6-3 6-4,0.88,0.0%,4.6%,63.2%,69.1%,34.4%,37.5% (3/8),47.0%,38.3%,4.3%,29.6%,50.0%,33.3% (4/12),2:11
 19-Mar-2018,Miami,3,Hard,R64,27,56,0,18,,Zarina Diyas,Svetlana Kuznetsova,6-1 6-3,0.54,0.0%,8.2%,73.5%,58.3%,38.5%,50.0% (4/8),40.2%,25.6%,2.3%,29.6%,18.8%,- (0/0),1:00
-5-Mar-2018,Indian Wells,3,Hard,R64,18,63,0,19,,Aryna Sabalenka,Svetlana Kuznetsova,6-4 6-3 (ch),0.76,0.0%,5.8%,78.8%,56.1%,45.5%,33.3% (2/6),43.5%,34.9%,3.2%,27.5%,47.8%,40.0% (2/5),1:13
+5-Mar-2018,Indian Wells,3,Hard,R64,18,63,0,19,,Aryna Sabalenka,Svetlana Kuznetsova,6-4 6-3,0.76,0.0%,5.8%,78.8%,56.1%,45.5%,33.3% (2/6),43.5%,34.9%,3.2%,27.5%,47.8%,40.0% (2/5),1:13
 2-Oct-2017,Beijing ,3,Hard,R64,9,90,0,7,Q,Lara Arruabarrena,Svetlana Kuznetsova,6-7(2) 7-5 6-1,0.96,7.4%,7.4%,58.5%,67.3%,41.0%,53.8% (7/13),48.1%,41.8%,0.0%,39.3%,47.4%,18.8% (3/16),2:23
 25-Sep-2017,Wuhan,3,Hard,R32,8,42,0,6,,Alize Cornet,Svetlana Kuznetsova,6-3 6-3,0.74,2.0%,7.8%,54.9%,50.0%,26.1%,0.0% (0/6),42.2%,45.1%,2.0%,42.4%,50.0%,60.0% (3/5),1:18
 28-Aug-2017,US Open,5,Hard,R64,8,116,0,8,,Kurumi Nara,Svetlana Kuznetsova,6-3 3-6 6-3,0.96,3.1%,2.1%,76.3%,59.5%,30.4%,25.0% (2/8),49.2%,45.6%,1.1%,41.8%,56.5%,55.6% (5/9),2:07
@@ -88,8 +88,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Aug-2017,Cincinnati,3,Hard,QF,8,6,0,8,4,Garbine Muguruza,Svetlana Kuznetsova,6-2 5-7 7-5,0.89,2.8%,4.7%,70.8%,60.0%,32.3%,41.7% (5/12),46.8%,42.7%,3.1%,38.1%,51.1%,33.3% (5/15),2:45
 14-Aug-2017,Cincinnati,3,Hard,R16,8,32,1,8,,Svetlana Kuznetsova,Carla Suarez Navarro,6-2 6-4,1.38,1.8%,1.8%,70.9%,59.0%,68.8%,50.0% (2/4),57.0%,52.5%,1.7%,50.0%,57.1%,55.6% (5/9),1:17
 14-Aug-2017,Cincinnati,3,Hard,R32,8,52,1,8,,Svetlana Kuznetsova,Yulia Putintseva,6-3 6-4,1.20,3.3%,13.3%,60.0%,69.4%,41.7%,0.0% (0/3),54.1%,50.0%,0.0%,52.6%,45.8%,41.7% (5/12),1:20
-7-Aug-2017,Toronto,3,Hard,R32,8,36,0,8,,Catherine Cartan Bellis,Svetlana Kuznetsova,6-4 7-5 (ch),0.78,4.2%,5.6%,54.9%,64.1%,50.0%,57.1% (4/7),45.4%,32.9%,0.0%,26.4%,52.9%,33.3% (1/3),1:28
-3-Jul-2017,Wimbledon,5,Grass,QF,8,15,0,7,14,Garbine Muguruza,Svetlana Kuznetsova,6-3 6-4 (ch),0.65,1.8%,12.3%,42.1%,62.5%,48.5%,50.0% (4/8),43.3%,29.8%,2.1%,22.2%,40.0%,100.0% (1/1),1:14
+7-Aug-2017,Toronto,3,Hard,R32,8,36,0,8,,Catherine Cartan Bellis,Svetlana Kuznetsova,6-4 7-5,0.78,4.2%,5.6%,54.9%,64.1%,50.0%,57.1% (4/7),45.4%,32.9%,0.0%,26.4%,52.9%,33.3% (1/3),1:28
+3-Jul-2017,Wimbledon,5,Grass,QF,8,15,0,7,14,Garbine Muguruza,Svetlana Kuznetsova,6-3 6-4,0.65,1.8%,12.3%,42.1%,62.5%,48.5%,50.0% (4/8),43.3%,29.8%,2.1%,22.2%,40.0%,100.0% (1/1),1:14
 3-Jul-2017,Wimbledon,5,Grass,R16,8,10,1,7,9,Svetlana Kuznetsova,Agnieszka Radwanska,6-2 6-4,1.57,3.6%,1.8%,67.9%,73.7%,66.7%,100.0% (3/3),56.0%,44.9%,0.0%,31.4%,70.4%,33.3% (3/9),1:29
 3-Jul-2017,Wimbledon,5,Grass,R32,8,265,1,7,,Svetlana Kuznetsova,Polona Hercog,6-4 6-0,1.55,0.0%,1.9%,74.1%,67.5%,71.4%,100.0% (2/2),59.6%,48.9%,4.4%,33.3%,72.2%,66.7% (4/6),1:04
 3-Jul-2017,Wimbledon,5,Grass,R64,8,47,1,7,,Svetlana Kuznetsova,Kate Makarova,6-0 7-5,1.41,8.1%,4.8%,67.7%,61.9%,55.0%,66.7% (4/6),58.4%,56.9%,3.9%,47.4%,84.6%,54.5% (6/11),1:09
@@ -97,9 +97,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Jun-2017,Eastbourne,3,Grass,QF,8,3,0,7,3,Karolina Pliskova,Svetlana Kuznetsova,6-7(7) 6-2 6-4,0.93,7.6%,2.5%,74.8%,66.3%,30.0%,53.8% (7/13),48.5%,39.7%,10.3%,34.7%,47.7%,42.9% (3/7),2:16
 26-Jun-2017,Eastbourne,3,Grass,R16,8,13,1,7,9,Svetlana Kuznetsova,Kristina Mladenovic,6-4 2-6 6-3,0.87,1.1%,5.7%,69.0%,61.7%,44.4%,42.9% (3/7),47.6%,38.0%,16.5%,14.9%,71.9%,45.5% (5/11),1:41
 26-Jun-2017,Eastbourne,3,Grass,R32,8,50,1,7,Q,Svetlana Kuznetsova,Mona Barthel,4-6 7-5 6-2,0.96,2.2%,5.4%,60.2%,67.9%,37.8%,55.6% (5/9),48.9%,42.1%,13.7%,31.8%,65.5%,46.2% (6/13),
-29-May-2017,Roland Garros,5,Clay,R16,9,12,0,8,11,Caroline Wozniacki,Svetlana Kuznetsova,6-1 4-6 6-2 (ch),0.80,1.3%,2.6%,69.7%,47.2%,56.5%,40.0% (4/10),44.7%,39.8%,1.2%,34.5%,52.0%,50.0% (3/6),2:01
+29-May-2017,Roland Garros,5,Clay,R16,9,12,0,8,11,Caroline Wozniacki,Svetlana Kuznetsova,6-1 4-6 6-2,0.80,1.3%,2.6%,69.7%,47.2%,56.5%,40.0% (4/10),44.7%,39.8%,1.2%,34.5%,52.0%,50.0% (3/6),2:01
 29-May-2017,Roland Garros,5,Clay,R32,9,34,1,8,32,Svetlana Kuznetsova,Shuai Zhang,7-6(5) 4-6 7-5,0.95,0.8%,3.1%,75.2%,60.8%,43.8%,61.5% (8/13),49.2%,41.0%,0.9%,36.9%,51.5%,55.6% (5/9),3:09
-29-May-2017,Roland Garros,5,Clay,R64,9,56,1,8,,Svetlana Kuznetsova,Oceane Dodin,7-6(5) 5-7 6-3 (ch),1.03,5.3%,0.9%,61.9%,52.9%,44.2%,43.8% (7/16),50.7%,51.8%,2.7%,47.0%,59.1%,69.2% (9/13),2:27
+29-May-2017,Roland Garros,5,Clay,R64,9,56,1,8,,Svetlana Kuznetsova,Oceane Dodin,7-6(5) 5-7 6-3,1.03,5.3%,0.9%,61.9%,52.9%,44.2%,43.8% (7/16),50.7%,51.8%,2.7%,47.0%,59.1%,69.2% (9/13),2:27
 29-May-2017,Roland Garros,5,Clay,R128,9,61,1,8,,Svetlana Kuznetsova,Christina Mchale,7-5 6-4,1.10,5.0%,5.0%,76.3%,59.0%,42.1%,63.6% (7/11),52.1%,49.4%,0.0%,49.0%,50.0%,42.9% (6/14),2:05
 15-May-2017,Rome,3,Clay,R16,8,33,0,7,Q,Daria Saville,Svetlana Kuznetsova,2-6 7-5 6-4,0.93,4.5%,4.5%,67.4%,56.7%,44.8%,40.0% (4/10),48.3%,43.8%,0.0%,36.8%,66.7%,60.0% (6/10),2:23
 15-May-2017,Rome,3,Clay,R32,8,37,1,7,,Svetlana Kuznetsova,Katerina Siniakova,6-1 7-6(3),1.23,4.6%,4.6%,64.4%,55.4%,58.1%,75.0% (9/12),55.1%,53.5%,1.4%,45.2%,65.5%,66.7% (6/9),1:51
@@ -108,13 +108,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-May-2017,Madrid,3,Clay,R16,9,64,1,8,Q,Svetlana Kuznetsova,Qiang Wang,6-4 7-5,1.05,1.5%,1.5%,75.4%,69.4%,50.0%,50.0% (2/4),51.2%,37.1%,0.0%,42.9%,25.0%,40.0% (4/10),1:28
 8-May-2017,Madrid,3,Clay,R32,9,39,1,8,,Svetlana Kuznetsova,Alison Riske Amritraj,2-6 7-6(9) 6-2,1.13,5.3%,5.3%,68.4%,72.3%,46.7%,33.3% (2/6),52.0%,40.6%,1.0%,32.4%,60.0%,30.8% (4/13),2:24
 8-May-2017,Madrid,3,Clay,R64,9,50,1,8,,Svetlana Kuznetsova,Yaroslava Shvedova,6-4 6-3,1.39,1.9%,1.9%,71.7%,68.4%,60.0%,0.0% (0/2),56.6%,47.2%,1.9%,46.2%,50.0%,57.1% (4/7),1:12
-24-Apr-2017,Stuttgart,3,Clay,R16,9,49,0,8,WC,Laura Siegemund,Svetlana Kuznetsova,6-4 6-3 (ch),0.85,1.0%,5.2%,70.8%,57.4%,25.0%,57.1% (8/14),46.3%,44.4%,1.2%,40.4%,51.7%,23.1% (3/13),2:03
+24-Apr-2017,Stuttgart,3,Clay,R16,9,49,0,8,WC,Laura Siegemund,Svetlana Kuznetsova,6-4 6-3,0.85,1.0%,5.2%,70.8%,57.4%,25.0%,57.1% (8/14),46.3%,44.4%,1.2%,40.4%,51.7%,23.1% (3/13),2:03
 24-Apr-2017,Stuttgart,3,Clay,R32,9,20,1,8,,Svetlana Kuznetsova,Kiki Bertens,6-3 5-7 6-3,1.11,3.2%,3.2%,70.5%,70.1%,50.0%,60.0% (3/5),51.5%,39.6%,5.9%,26.6%,62.2%,50.0% (4/8),2:33
 20-Mar-2017,Miami,3,Hard,R16,7,12,0,7,11,Venus Williams,Svetlana Kuznetsova,6-3 7-6(4),0.87,3.1%,4.7%,67.2%,74.4%,42.9%,66.7% (4/6),47.0%,31.4%,1.4%,22.0%,44.8%,25.0% (1/4),1:35
 20-Mar-2017,Miami,3,Hard,R32,7,111,1,7,Q,Svetlana Kuznetsova,Taylor Townsend,6-4 6-2,1.42,0.0%,1.8%,71.9%,65.9%,68.8%,66.7% (2/3),56.9%,47.5%,1.7%,38.5%,65.0%,57.1% (4/7),1:18
-20-Mar-2017,Miami,3,Hard,R64,7,74,1,7,,Svetlana Kuznetsova,Mandy Minella,6-2 6-2 (ch),1.55,1.8%,7.0%,66.7%,63.2%,57.9%,66.7% (4/6),60.8%,60.0%,4.4%,61.8%,54.5%,75.0% (6/8),1:06
-6-Mar-2017,Indian Wells,3,Hard,F,8,15,0,8,14,Elena Vesnina,Svetlana Kuznetsova,6-7(6) 7-5 6-4 (ch),0.96,7.2%,6.4%,65.6%,57.3%,34.9%,50.0% (9/18),49.0%,48.4%,2.5%,35.7%,65.4%,38.9% (7/18),3:01
-6-Mar-2017,Indian Wells,3,Hard,SF,8,3,1,8,3,Svetlana Kuznetsova,Karolina Pliskova,7-6(5) 7-6(2) (ch),1.08,6.0%,2.4%,64.3%,66.7%,56.7%,25.0% (1/4),51.1%,40.0%,11.1%,27.7%,53.5%,37.5% (3/8),1:55
+20-Mar-2017,Miami,3,Hard,R64,7,74,1,7,,Svetlana Kuznetsova,Mandy Minella,6-2 6-2,1.55,1.8%,7.0%,66.7%,63.2%,57.9%,66.7% (4/6),60.8%,60.0%,4.4%,61.8%,54.5%,75.0% (6/8),1:06
+6-Mar-2017,Indian Wells,3,Hard,F,8,15,0,8,14,Elena Vesnina,Svetlana Kuznetsova,6-7(6) 7-5 6-4,0.96,7.2%,6.4%,65.6%,57.3%,34.9%,50.0% (9/18),49.0%,48.4%,2.5%,35.7%,65.4%,38.9% (7/18),3:01
+6-Mar-2017,Indian Wells,3,Hard,SF,8,3,1,8,3,Svetlana Kuznetsova,Karolina Pliskova,7-6(5) 7-6(2),1.08,6.0%,2.4%,64.3%,66.7%,56.7%,25.0% (1/4),51.1%,40.0%,11.1%,27.7%,53.5%,37.5% (3/8),1:55
 6-Mar-2017,Indian Wells,3,Hard,QF,8,21,1,8,19,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,6-3 6-2,1.95,9.5%,7.1%,64.3%,81.5%,60.0%,50.0% (1/2),61.3%,51.0%,3.9%,50.0%,52.6%,83.3% (5/6),1:03
 6-Mar-2017,Indian Wells,3,Hard,R16,8,25,1,8,21,Svetlana Kuznetsova,Caroline Garcia,6-1 6-4,1.62,3.9%,11.8%,60.8%,64.5%,55.0%,62.5% (5/8),62.1%,63.5%,0.0%,66.7%,57.9%,77.8% (7/9),1:11
 6-Mar-2017,Indian Wells,3,Hard,R32,8,29,1,8,26,Svetlana Kuznetsova,Roberta Vinci,6-2 2-6 6-1,1.15,4.7%,2.3%,73.3%,63.5%,60.9%,77.8% (7/9),53.8%,42.9%,2.9%,42.3%,44.4%,50.0% (4/8),1:36
@@ -133,7 +133,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Oct-2016,Singapore,3,Hard,SF,9,8,0,8,7,Dominika Cibulkova,Svetlana Kuznetsova,1-6 7-6(2) 6-4,1.05,5.3%,5.3%,68.1%,60.9%,40.0%,40.0% (4/10),51.1%,47.9%,0.0%,39.7%,61.1%,53.3% (8/15),2:27
 24-Oct-2016,Singapore,3,Hard,RR,9,6,0,8,5,Garbine Muguruza,Svetlana Kuznetsova,3-6 6-0 6-1,0.76,0.0%,3.1%,60.0%,53.8%,46.2%,45.5% (5/11),43.0%,37.2%,3.5%,26.0%,52.8%,15.4% (2/13),1:34
 24-Oct-2016,Singapore,3,Hard,RR,9,5,1,8,4,Svetlana Kuznetsova,Karolina Pliskova,3-6 6-2 7-6(6),1.04,7.1%,5.9%,58.8%,58.0%,48.6%,46.2% (6/13),50.5%,47.6%,1.9%,47.8%,47.5%,53.3% (8/15),2:17
-24-Oct-2016,Singapore,3,Hard,RR,9,3,1,8,2,Svetlana Kuznetsova,Agnieszka Radwanska,7-5 1-6 7-5 (ch),0.98,3.2%,4.3%,67.7%,55.6%,46.7%,41.7% (5/12),49.1%,46.2%,4.2%,43.0%,52.5%,43.8% (7/16),2:48
+24-Oct-2016,Singapore,3,Hard,RR,9,3,1,8,2,Svetlana Kuznetsova,Agnieszka Radwanska,7-5 1-6 7-5,0.98,3.2%,4.3%,67.7%,55.6%,46.7%,41.7% (5/12),49.1%,46.2%,4.2%,43.0%,52.5%,43.8% (7/16),2:48
 17-Oct-2016,Moscow,3,Hard,F,9,37,1,1,,Svetlana Kuznetsova,Daria Saville,6-2 6-1,1.62,2.2%,2.2%,73.9%,67.6%,50.0%,85.7% (6/7),61.4%,60.0%,0.0%,55.3%,70.6%,75.0% (6/8),1:12
 17-Oct-2016,Moscow,3,Hard,SF,9,15,1,1,4,Svetlana Kuznetsova,Elina Svitolina,6-1 6-7(2) 6-4,1.08,0.0%,1.0%,79.0%,61.4%,54.5%,80.0% (8/10),52.0%,43.3%,0.0%,41.8%,46.7%,60.0% (6/10),2:32
 17-Oct-2016,Moscow,3,Hard,QF,9,26,1,1,9,Svetlana Kuznetsova,Timea Babos,7-5 6-7(2) 6-2,1.34,3.5%,1.2%,72.9%,69.4%,60.9%,0.0% (0/3),53.7%,44.1%,0.8%,41.3%,50.0%,54.5% (6/11),2:32
@@ -144,8 +144,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Oct-2016,Tianjin,3,Hard,R32,8,67,1,2,,Svetlana Kuznetsova,Pauline Parmentier,6-1 6-3,1.49,10.2%,6.1%,57.1%,64.3%,52.4%,33.3% (1/3),60.0%,60.9%,0.0%,57.7%,65.0%,60.0% (6/10),1:05
 3-Oct-2016,Beijing,3,Hard,R16,7,9,0,9,8,Madison Keys,Svetlana Kuznetsova,7-6(2) 6-2,0.80,1.4%,9.5%,70.3%,63.5%,18.2%,44.4% (4/9),45.0%,40.0%,2.7%,34.2%,45.9%,37.5% (3/8),1:36
 3-Oct-2016,Beijing,3,Hard,R32,7,31,1,9,,Svetlana Kuznetsova,Misaki Doi,6-1 7-5,1.32,7.4%,5.9%,69.1%,68.1%,52.4%,91.7% (11/12),56.0%,48.5%,1.5%,51.4%,45.2%,50.0% (5/10),1:26
-26-Sep-2016,Wuhan,3,Hard,SF,10,12,0,9,10,Dominika Cibulkova,Svetlana Kuznetsova,3-6 6-3 6-4 (ch),0.96,4.9%,7.8%,65.0%,62.7%,44.4%,58.3% (7/12),49.0%,41.9%,1.0%,33.8%,58.8%,40.0% (4/10),2:35
-26-Sep-2016,Wuhan,3,Hard,QF,10,4,1,9,3,Svetlana Kuznetsova,Agnieszka Radwanska,1-6 7-6(9) 6-4 (ch),0.93,3.9%,3.9%,69.9%,61.1%,35.5%,36.4% (4/11),48.1%,43.4%,1.8%,40.0%,48.8%,42.9% (6/14),2:50
+26-Sep-2016,Wuhan,3,Hard,SF,10,12,0,9,10,Dominika Cibulkova,Svetlana Kuznetsova,3-6 6-3 6-4,0.96,4.9%,7.8%,65.0%,62.7%,44.4%,58.3% (7/12),49.0%,41.9%,1.0%,33.8%,58.8%,40.0% (4/10),2:35
+26-Sep-2016,Wuhan,3,Hard,QF,10,4,1,9,3,Svetlana Kuznetsova,Agnieszka Radwanska,1-6 7-6(9) 6-4,0.93,3.9%,3.9%,69.9%,61.1%,35.5%,36.4% (4/11),48.1%,43.4%,1.8%,40.0%,48.8%,42.9% (6/14),2:50
 26-Sep-2016,Wuhan,3,Hard,R16,10,7,1,9,6,Svetlana Kuznetsova,Venus Williams,6-2 6-2,1.60,8.0%,8.0%,66.0%,75.8%,47.1%,83.3% (5/6),59.8%,54.4%,1.8%,51.4%,60.0%,55.6% (5/9),1:10
 26-Sep-2016,Wuhan,3,Hard,R32,10,72,1,9,,Svetlana Kuznetsova,Madison Brengle,6-0 6-4,1.78,11.9%,2.4%,69.0%,79.3%,53.8%,0.0% (0/1),59.8%,50.9%,0.0%,40.0%,70.0%,71.4% (5/7),1:03
 26-Sep-2016,Wuhan,3,Hard,R64,10,40,1,9,,Svetlana Kuznetsova,Belinda Bencic,6-3 3-4 RET,1.11,14.8%,3.7%,64.8%,74.3%,47.4%,66.7% (2/3),52.4%,39.2%,2.0%,20.0%,66.7%,40.0% (2/5),1:18
@@ -157,7 +157,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Aug-2016,Olympics,3,Hard,R16,10,13,0,8,10,Johanna Konta,Svetlana Kuznetsova,3-6 7-5 7-5,1.03,2.8%,5.6%,65.7%,53.5%,56.8%,42.9% (6/14),50.7%,46.8%,2.8%,43.9%,51.2%,36.8% (7/19),3:07
 8-Aug-2016,Olympics,3,Hard,R32,10,58,1,8,,Svetlana Kuznetsova,Monica Niculescu,W/O,,,,,,,,,,,,,,
 8-Aug-2016,Olympics,3,Hard,R64,10,65,1,8,,Svetlana Kuznetsova,Qiang Wang,6-1 4-6 6-0,1.53,2.4%,2.4%,65.9%,66.1%,41.4%,63.6% (7/11),60.6%,64.9%,1.8%,61.8%,69.6%,88.9% (8/9),1:43
-25-Jul-2016,Montreal,3,Hard,QF,11,5,0,9,5,Simona Halep,Svetlana Kuznetsova,3-6 6-1 6-1 (ch),0.72,3.1%,4.6%,64.6%,47.6%,43.5%,25.0% (2/8),42.1%,38.7%,2.7%,37.5%,42.1%,50.0% (3/6),1:36
+25-Jul-2016,Montreal,3,Hard,QF,11,5,0,9,5,Simona Halep,Svetlana Kuznetsova,3-6 6-1 6-1,0.72,3.1%,4.6%,64.6%,47.6%,43.5%,25.0% (2/8),42.1%,38.7%,2.7%,37.5%,42.1%,50.0% (3/6),1:36
 25-Jul-2016,Montreal,3,Hard,R16,11,13,1,9,12,Svetlana Kuznetsova,Petra Kvitova,7-6(2) 6-3,1.05,1.2%,7.0%,57.0%,63.3%,43.2%,63.6% (7/11),51.7%,47.5%,5.1%,25.0%,67.7%,55.6% (5/9),1:44
 25-Jul-2016,Montreal,3,Hard,R32,11,160,1,9,Q,Svetlana Kuznetsova,Alla Kudryavtseva,7-5 6-0,1.61,6.9%,5.2%,69.0%,72.5%,55.6%,80.0% (4/5),59.2%,52.8%,2.8%,39.0%,71.0%,35.7% (5/14),1:18
 27-Jun-2016,Wimbledon,5,Grass,R16,14,1,0,13,1,Serena Williams,Svetlana Kuznetsova,7-5 6-0,0.58,0.0%,9.1%,60.0%,48.5%,31.8%,40.0% (4/10),37.8%,33.9%,25.0%,26.3%,50.0%,33.3% (2/6),1:15
@@ -175,10 +175,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-May-2016,Rome,3,Clay,R64,19,53,1,9,,Svetlana Kuznetsova,Caroline Garcia,7-5 6-4,1.25,10.1%,4.3%,59.4%,65.9%,60.7%,33.3% (1/3),53.5%,45.5%,6.8%,46.9%,41.7%,28.6% (4/14),1:56
 2-May-2016,Madrid,3,Clay,R64,12,44,0,9,Q,Laura Siegemund,Svetlana Kuznetsova,6-0 3-6 6-3,0.79,3.1%,1.5%,61.5%,65.0%,40.0%,50.0% (5/10),44.9%,35.2%,1.4%,39.6%,26.1%,50.0% (2/4),1:44
 25-Apr-2016,Prague,3,Clay,SF,13,25,0,1,4,Samantha Stosur,Svetlana Kuznetsova,W/O,,,,,,,,,,,,,,
-25-Apr-2016,Prague,3,Clay,QF,13,63,1,1,,Svetlana Kuznetsova,Monica Puig,4-6 7-5 6-4 (ch),1.11,11.3%,2.1%,64.9%,58.7%,61.8%,44.4% (4/9),52.0%,44.7%,3.9%,37.7%,58.8%,85.7% (6/7),2:15
+25-Apr-2016,Prague,3,Clay,QF,13,63,1,1,,Svetlana Kuznetsova,Monica Puig,4-6 7-5 6-4,1.11,11.3%,2.1%,64.9%,58.7%,61.8%,44.4% (4/9),52.0%,44.7%,3.9%,37.7%,58.8%,85.7% (6/7),2:15
 25-Apr-2016,Prague,3,Clay,R16,13,71,1,1,,Svetlana Kuznetsova,Madison Brengle,5-7 6-4 6-3,1.12,0.0%,2.0%,72.0%,66.7%,32.1%,53.8% (7/13),52.5%,48.0%,0.0%,48.1%,47.6%,58.3% (7/12),2:08
 25-Apr-2016,Prague,3,Clay,R32,13,99,1,1,,Svetlana Kuznetsova,Aliaksandra Sasnovich,6-0 5-7 6-1,1.45,2.4%,1.2%,69.0%,60.3%,61.5%,76.9% (10/13),59.0%,57.1%,0.0%,49.1%,75.0%,88.9% (8/9),1:50
-21-Mar-2016,Miami,3,Hard,F,19,8,0,15,13,Victoria Azarenka,Svetlana Kuznetsova,6-3 6-2 (ch),0.71,3.6%,3.6%,75.0%,45.2%,14.3%,41.7% (5/12),40.6%,44.4%,4.4%,34.6%,57.9%,75.0% (3/4),1:17
+21-Mar-2016,Miami,3,Hard,F,19,8,0,15,13,Victoria Azarenka,Svetlana Kuznetsova,6-3 6-2,0.71,3.6%,3.6%,75.0%,45.2%,14.3%,41.7% (5/12),40.6%,44.4%,4.4%,34.6%,57.9%,75.0% (3/4),1:17
 21-Mar-2016,Miami,3,Hard,SF,19,20,1,15,19,Svetlana Kuznetsova,Timea Bacsinszky,7-5 6-3,1.09,3.6%,2.4%,65.1%,63.0%,48.3%,85.7% (12/14),52.8%,45.8%,0.0%,36.4%,73.3%,57.1% (4/7),1:56
 21-Mar-2016,Miami,3,Hard,QF,19,31,1,15,30,Svetlana Kuznetsova,Kate Makarova,6-7(3) 6-4 6-3,1.05,5.7%,3.8%,65.7%,58.0%,41.7%,41.7% (5/12),51.2%,50.0%,4.5%,46.4%,56.1%,52.9% (9/17),2:43
 21-Mar-2016,Miami,3,Hard,R16,19,1,1,15,1,Svetlana Kuznetsova,Serena Williams,6-7(3) 6-1 6-2,1.60,9.5%,1.2%,66.7%,75.0%,60.7%,60.0% (3/5),57.8%,47.6%,12.6%,40.0%,60.5%,40.0% (6/15),2:02
@@ -189,11 +189,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Feb-2016,Doha,3,Hard,R64,21,53,1,12,,Svetlana Kuznetsova,Julia Goerges,6-3 6-3,1.30,2.9%,2.9%,64.3%,73.3%,44.0%,75.0% (3/4),56.3%,48.3%,6.9%,33.3%,68.0%,50.0% (4/8),1:22
 15-Feb-2016,Dubai,3,Hard,R32,18,54,0,8,,Julia Goerges,Svetlana Kuznetsova,6-0 6-1,0.50,3.1%,3.1%,78.1%,40.0%,14.3%,28.6% (2/7),33.3%,32.6%,13.0%,31.8%,33.3%,0.0% (0/3),0:55
 6-Feb-2016,Fed Cup WG R1: NED vs RUS,3,Hard,RR,17,106,0,,,Kiki Bertens,Svetlana Kuznetsova,6-1 6-4,0.65,1.7%,0.0%,70.7%,61.0%,41.2%,57.1% (4/7),42.2%,29.3%,12.1%,21.9%,38.5%,- (0/0),1:26
-6-Feb-2016,Fed Cup WG R1: NED vs RUS,3,Hard,RR,17,141,0,,,Richel Hogenkamp,Svetlana Kuznetsova,7-6(4) 5-7 10-8 (ch),0.99,4.1%,5.5%,67.8%,64.6%,36.2%,58.8% (10/17),49.8%,44.1%,0.0%,42.7%,45.7%,43.8% (7/16),4:00
+6-Feb-2016,Fed Cup WG R1: NED vs RUS,3,Hard,RR,17,141,0,,,Richel Hogenkamp,Svetlana Kuznetsova,7-6(4) 5-7 10-8,0.99,4.1%,5.5%,67.8%,64.6%,36.2%,58.8% (10/17),49.8%,44.1%,0.0%,42.7%,45.7%,43.8% (7/16),4:00
 18-Jan-2016,Australian Open,5,Hard,R64,20,92,0,23,,Kateryna Bondarenko,Svetlana Kuznetsova,6-1 7-5,0.72,3.0%,4.5%,66.7%,63.6%,22.7%,64.3% (9/14),43.5%,36.2%,0.0%,34.0%,50.0%,50.0% (2/4),1:25
 18-Jan-2016,Australian Open,5,Hard,R128,20,89,1,23,,Svetlana Kuznetsova,Daniela Hantuchova,6-0 6-2,3.82,30.3%,0.0%,72.7%,87.5%,77.8%,- (0/0),67.8%,57.9%,0.0%,50.0%,69.6%,41.7% (5/12),1:01
 11-Jan-2016,Sydney,3,Hard,F,25,94,1,,Q,Svetlana Kuznetsova,Monica Puig,6-0 6-2,,,,,,,,,,,,,,
-11-Jan-2016,Sydney,3,Hard,SF,25,2,1,,1,Svetlana Kuznetsova,Simona Halep,7-6(5) 4-6 6-3 (ch),,,,,,,,,,,,,,
+11-Jan-2016,Sydney,3,Hard,SF,25,2,1,,1,Svetlana Kuznetsova,Simona Halep,7-6(5) 4-6 6-3,,,,,,,,,,,,,,
 11-Jan-2016,Sydney,3,Hard,QF,25,19,1,,,Svetlana Kuznetsova,Sara Errani,7-6(1) 6-0,1.44,7.5%,11.3%,69.8%,70.3%,43.8%,0.0% (0/3),57.6%,54.2%,0.0%,50.0%,68.8%,50.0% (6/12),1:26
 11-Jan-2016,Sydney,3,Hard,R16,25,32,1,,,Svetlana Kuznetsova,Sabine Lisicki,6-3 3-6 6-2,1.33,6.4%,5.1%,69.2%,77.8%,33.3%,40.0% (2/5),55.5%,47.7%,3.5%,39.6%,57.9%,71.4% (5/7),1:43
 11-Jan-2016,Sydney,3,Hard,R32,25,462,1,,WC,Svetlana Kuznetsova,Tammi Patterson,6-2 6-0,1.87,11.1%,8.9%,51.1%,95.7%,40.9%,100.0% (2/2),63.0%,58.2%,5.5%,54.1%,66.7%,50.0% (5/10),1:02
@@ -201,9 +201,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jan-2016,Auckland,3,Hard,R32,25,45,1,4,,Svetlana Kuznetsova,Mona Barthel,6-2 1-1 RET,1.47,8.6%,14.3%,45.7%,93.8%,47.4%,100.0% (4/4),56.8%,46.2%,0.0%,46.2%,46.2%,66.7% (2/3),0:49
 2-Nov-2015,Zhuhai,3,Hard,RR,26,15,0,11,4,Roberta Vinci,Svetlana Kuznetsova,6-4 6-4,,,,,,,,,,,,,,
 2-Nov-2015,Zhuhai,3,Hard,RR,26,17,1,11,5,Svetlana Kuznetsova,Caroline Wozniacki,7-5 2-2 RET,,,,,,,,,,,,,,
-19-Oct-2015,Moscow,3,Hard,F,32,31,1,,,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,6-2 6-1 (ch),,,,,,,,,,,,,,
-19-Oct-2015,Moscow,3,Hard,SF,32,37,1,,,Svetlana Kuznetsova,Lesia Tsurenko,6-2 6-4 (ch),,,,,,,,,,,,,,
-19-Oct-2015,Moscow,3,Hard,QF,32,134,1,,Q,Svetlana Kuznetsova,Anastasija Sevastova,5-7 6-1 6-3 (ch),,,,,,,,,,,,,,
+19-Oct-2015,Moscow,3,Hard,F,32,31,1,,,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,6-2 6-1,,,,,,,,,,,,,,
+19-Oct-2015,Moscow,3,Hard,SF,32,37,1,,,Svetlana Kuznetsova,Lesia Tsurenko,6-2 6-4,,,,,,,,,,,,,,
+19-Oct-2015,Moscow,3,Hard,QF,32,134,1,,Q,Svetlana Kuznetsova,Anastasija Sevastova,5-7 6-1 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,R16,32,107,1,,Q,Svetlana Kuznetsova,Klara Koukalova,6-4 6-2,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,R32,32,95,1,,,Svetlana Kuznetsova,Katerina Siniakova,6-0 6-3,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R16,33,15,0,,6,Ana Ivanovic,Svetlana Kuznetsova,7-5 4-6 6-2,,,,,,,,,,,,,,
@@ -219,15 +219,15 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jun-2015,Wimbledon,5,Grass,R64,25,134,0,26,,Kristyna Pliskova,Svetlana Kuznetsova,3-6 6-3 6-4,0.87,5.8%,4.7%,66.3%,71.9%,41.4%,42.9% (3/7),48.2%,33.3%,10.3%,18.4%,58.6%,60.0% (3/5),
 29-Jun-2015,Wimbledon,5,Grass,R128,25,128,1,26,Q,Svetlana Kuznetsova,Laura Siegemund,6-3 6-4,1.20,0.0%,6.7%,66.7%,65.0%,30.0%,42.9% (3/7),54.8%,56.1%,3.0%,55.6%,57.1%,63.6% (7/11),
 22-Jun-2015,Eastbourne,3,Grass,R16,27,5,0,,2,Caroline Wozniacki,Svetlana Kuznetsova,6-7(3) 6-3 6-1,0.85,7.1%,3.0%,64.6%,57.8%,45.7%,46.2% (6/13),46.5%,39.4%,8.1%,33.8%,56.0%,33.3% (3/9),
-22-Jun-2015,Eastbourne,3,Grass,R32,27,24,1,,15,Svetlana Kuznetsova,Flavia Pennetta,6-3 6-4 (ch),1.59,19.3%,5.3%,59.6%,85.3%,65.2%,100.0% (3/3),56.5%,36.2%,3.4%,33.3%,40.0%,40.0% (2/5),
+22-Jun-2015,Eastbourne,3,Grass,R32,27,24,1,,15,Svetlana Kuznetsova,Flavia Pennetta,6-3 6-4,1.59,19.3%,5.3%,59.6%,85.3%,65.2%,100.0% (3/3),56.5%,36.2%,3.4%,33.3%,40.0%,40.0% (2/5),
 22-Jun-2015,Eastbourne,3,Grass,R64,27,66,1,,Q,Svetlana Kuznetsova,Magdalena Rybarikova,7-6(5) 6-4,1.35,0.0%,6.0%,67.2%,66.7%,72.7%,0.0% (0/3),55.6%,42.4%,6.1%,33.3%,61.9%,100.0% (4/4),
 15-Jun-2015,Birmingham,3,Grass,R16,27,9,0,13,3,Carla Suarez Navarro,Svetlana Kuznetsova,6-3 6-4,0.72,1.7%,6.7%,75.0%,51.1%,80.0%,57.1% (4/7),44.4%,29.8%,7.0%,33.3%,23.8%,33.3% (1/3),
 15-Jun-2015,Birmingham,3,Grass,R32,27,87,1,13,Q,Svetlana Kuznetsova,Aleksandra Krunic,6-2 6-1,1.89,4.3%,2.1%,68.1%,75.0%,66.7%,100.0% (3/3),62.9%,52.4%,4.8%,48.3%,61.5%,71.4% (5/7),
 15-Jun-2015,Birmingham,3,Grass,R64,27,40,1,13,,Svetlana Kuznetsova,Karin Knapp,7-6(4) 5-7 6-2,1.08,1.0%,8.1%,71.7%,71.8%,60.7%,71.4% (5/7),51.5%,33.7%,10.5%,29.6%,45.8%,50.0% (3/6),
-25-May-2015,Roland Garros,5,Clay,R64,18,92,0,18,,Francesca Schiavone,Svetlana Kuznetsova,6-7(11) 7-5 10-8 (ch),0.90,1.2%,6.2%,68.5%,57.7%,33.3%,56.5% (13/23),47.7%,45.1%,1.4%,37.3%,55.7%,42.1% (8/19),3:50
+25-May-2015,Roland Garros,5,Clay,R64,18,92,0,18,,Francesca Schiavone,Svetlana Kuznetsova,6-7(11) 7-5 10-8,0.90,1.2%,6.2%,68.5%,57.7%,33.3%,56.5% (13/23),47.7%,45.1%,1.4%,37.3%,55.7%,42.1% (8/19),3:50
 25-May-2015,Roland Garros,5,Clay,R128,18,84,1,18,,Svetlana Kuznetsova,Kiki Bertens,6-1 4-6 6-2,1.35,3.9%,2.6%,72.4%,67.3%,61.9%,0.0% (0/2),56.7%,46.2%,0.0%,39.0%,58.3%,71.4% (5/7),
-4-May-2015,Madrid,3,Clay,F,29,4,0,,4,Petra Kvitova,Svetlana Kuznetsova,6-1 6-2 (ch),0.40,2.1%,2.1%,66.0%,54.8%,43.8%,63.6% (7/11),36.4%,19.5%,9.8%,14.3%,30.8%,- (0/0),
-4-May-2015,Madrid,3,Clay,SF,29,3,1,,3,Svetlana Kuznetsova,Maria Sharapova,6-2 6-4 (ch),1.30,5.9%,3.9%,68.6%,74.3%,68.8%,100.0% (1/1),53.3%,35.7%,5.4%,32.5%,43.8%,50.0% (3/6),
+4-May-2015,Madrid,3,Clay,F,29,4,0,,4,Petra Kvitova,Svetlana Kuznetsova,6-1 6-2,0.40,2.1%,2.1%,66.0%,54.8%,43.8%,63.6% (7/11),36.4%,19.5%,9.8%,14.3%,30.8%,- (0/0),
+4-May-2015,Madrid,3,Clay,SF,29,3,1,,3,Svetlana Kuznetsova,Maria Sharapova,6-2 6-4,1.30,5.9%,3.9%,68.6%,74.3%,68.8%,100.0% (1/1),53.3%,35.7%,5.4%,32.5%,43.8%,50.0% (3/6),
 4-May-2015,Madrid,3,Clay,QF,29,14,1,,13,Svetlana Kuznetsova,Lucie Safarova,5-7 7-6(5) 7-6(3),0.94,6.8%,0.9%,70.1%,64.6%,45.7%,58.3% (7/12),48.2%,38.6%,7.6%,32.0%,57.1%,33.3% (4/12),
 4-May-2015,Madrid,3,Clay,R16,29,26,1,,,Svetlana Kuznetsova,Samantha Stosur,5-7 6-2 7-6(5),1.21,4.0%,9.1%,77.8%,72.7%,36.4%,44.4% (4/9),53.4%,42.9%,2.9%,37.3%,52.6%,66.7% (6/9),
 4-May-2015,Madrid,3,Clay,R32,29,20,1,,,Svetlana Kuznetsova,Garbine Muguruza,6-3 5-7 7-5,1.11,8.3%,5.2%,67.7%,69.2%,54.8%,42.9% (3/7),51.8%,39.2%,6.2%,33.8%,50.0%,31.3% (5/16),
@@ -240,10 +240,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Mar-2015,Miami,3,Hard,R64,29,43,1,24,,Svetlana Kuznetsova,Alison Riske Amritraj,6-2 6-2,1.59,8.2%,0.0%,61.2%,76.7%,52.6%,75.0% (3/4),59.4%,51.9%,0.0%,51.3%,53.8%,45.5% (5/11),
 9-Mar-2015,Indian Wells,3,Hard,R32,27,42,0,22,,Sloane Stephens,Svetlana Kuznetsova,7-6(4) 1-6 6-4,1.11,2.1%,4.3%,61.7%,63.8%,50.0%,28.6% (2/7),52.5%,46.1%,2.2%,45.1%,47.4%,54.5% (6/11),
 9-Mar-2015,Indian Wells,3,Hard,R64,27,78,1,22,,Svetlana Kuznetsova,Katerina Siniakova,7-6(2) 6-2,1.24,5.6%,4.2%,73.2%,67.3%,52.6%,70.0% (7/10),54.0%,45.6%,0.0%,42.0%,51.7%,50.0% (5/10),
-23-Feb-2015,Doha,3,Hard,R32,26,16,0,,,Flavia Pennetta,Svetlana Kuznetsova,3-6 6-4 6-2 (ch),0.93,1.2%,7.2%,57.8%,52.1%,62.9%,28.6% (2/7),48.3%,40.4%,3.4%,29.2%,53.7%,40.0% (4/10),
+23-Feb-2015,Doha,3,Hard,R32,26,16,0,,,Flavia Pennetta,Svetlana Kuznetsova,3-6 6-4 6-2,0.93,1.2%,7.2%,57.8%,52.1%,62.9%,28.6% (2/7),48.3%,40.4%,3.4%,29.2%,53.7%,40.0% (4/10),
 16-Feb-2015,Dubai,3,Hard,R32,27,12,0,,7,Angelique Kerber,Svetlana Kuznetsova,7-6(9) 6-4,0.86,1.2%,8.3%,54.8%,52.2%,42.1%,44.4% (4/9),46.3%,45.2%,1.1%,35.0%,63.6%,44.4% (4/9),
 16-Feb-2015,Dubai,3,Hard,R64,27,48,1,,,Svetlana Kuznetsova,Kaia Kanepi,4-1 RET,1.93,33.3%,0.0%,73.3%,72.7%,50.0%,0.0% (0/1),65.5%,64.3%,0.0%,42.9%,85.7%,50.0% (2/4),
-7-Feb-2015,Fed Cup WG R1: POL vs RUS,3,Hard,RR,27,8,1,,,Svetlana Kuznetsova,Agnieszka Radwanska,6-4 2-6 6-2 (ch),,,,,,,,,,,,,,
+7-Feb-2015,Fed Cup WG R1: POL vs RUS,3,Hard,RR,27,8,1,,,Svetlana Kuznetsova,Agnieszka Radwanska,6-4 2-6 6-2,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,R128,27,36,0,27,,Caroline Garcia,Svetlana Kuznetsova,6-4 6-2,0.78,4.8%,3.2%,56.5%,51.4%,44.4%,37.5% (3/8),44.1%,40.0%,6.2%,32.5%,52.0%,22.2% (2/9),
 12-Jan-2015,Sydney,3,Hard,R32,27,33,0,,,Madison Keys,Svetlana Kuznetsova,6-4 6-4,0.79,3.4%,6.9%,62.1%,61.1%,45.5%,60.0% (6/10),45.3%,35.6%,5.1%,27.8%,47.8%,50.0% (2/4),
 5-Jan-2015,Auckland,3,Hard,R32,25,153,0,5,Q,Lucie Hradecka,Svetlana Kuznetsova,3-6 7-6(6) 6-4,0.98,3.4%,5.9%,69.7%,65.1%,38.9%,73.3% (11/15),49.8%,42.0%,5.4%,27.0%,61.2%,40.0% (4/10),
@@ -256,7 +256,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Sep-2014,Beijing,3,Hard,R64,27,57,1,,,Svetlana Kuznetsova,Daniela Hantuchova,6-2 1-1 RET,1.59,3.1%,6.3%,50.0%,75.0%,56.3%,50.0% (1/2),60.0%,54.5%,0.0%,57.9%,50.0%,50.0% (3/6),
 22-Sep-2014,Wuhan,3,Hard,R32,25,4,0,,4,Maria Sharapova,Svetlana Kuznetsova,3-6 6-2 6-2,0.83,1.4%,11.3%,64.8%,54.3%,40.0%,45.5% (5/11),45.1%,41.9%,4.3%,32.0%,53.5%,36.4% (4/11),
 22-Sep-2014,Wuhan,3,Hard,R64,25,36,1,,,Svetlana Kuznetsova,Kurumi Nara,6-3 6-2,1.38,6.1%,6.1%,69.7%,58.7%,50.0%,66.7% (4/6),58.2%,60.7%,1.8%,55.0%,75.0%,54.5% (6/11),
-15-Sep-2014,Tokyo,3,Hard,R32,23,34,0,,WC,Belinda Bencic,Svetlana Kuznetsova,6-3 6-0 (ch),0.61,2.0%,12.0%,56.0%,64.3%,27.3%,44.4% (4/9),40.2%,31.9%,4.3%,26.5%,46.2%,0.0% (0/2),
+15-Sep-2014,Tokyo,3,Hard,R32,23,34,0,,WC,Belinda Bencic,Svetlana Kuznetsova,6-3 6-0,0.61,2.0%,12.0%,56.0%,64.3%,27.3%,44.4% (4/9),40.2%,31.9%,4.3%,26.5%,46.2%,0.0% (0/2),
 25-Aug-2014,US Open,5,Hard,R128,22,82,0,20,,Marina Erakovic,Svetlana Kuznetsova,3-6 6-2 7-6(3),0.90,6.6%,5.7%,66.0%,61.4%,38.9%,53.8% (7/13),48.4%,41.7%,2.4%,36.0%,50.0%,55.6% (5/9),
 11-Aug-2014,Cincinnati,3,Hard,R16,24,11,0,,9,Ana Ivanovic,Svetlana Kuznetsova,6-2 2-6 6-3,0.92,5.6%,5.6%,54.4%,51.0%,48.8%,45.5% (5/11),48.0%,45.8%,4.8%,42.9%,48.8%,38.5% (5/13),
 11-Aug-2014,Cincinnati,3,Hard,R32,24,8,1,,7,Svetlana Kuznetsova,Eugenie Bouchard,6-4 3-6 6-2,1.18,2.5%,4.9%,63.0%,70.6%,56.7%,50.0% (2/4),52.3%,40.7%,4.4%,35.1%,50.0%,44.4% (4/9),
@@ -268,7 +268,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Jul-2014,Washington,3,Hard,R16,26,47,1,6,,Svetlana Kuznetsova,Kirsten Flipkens,6-4 7-5,1.12,2.7%,0.0%,64.4%,57.4%,57.7%,70.0% (7/10),53.0%,47.5%,6.8%,37.9%,56.7%,71.4% (5/7),
 28-Jul-2014,Washington,3,Hard,R32,26,72,1,6,,Svetlana Kuznetsova,Polona Hercog,6-3 6-2,1.50,8.5%,6.8%,62.7%,64.9%,63.6%,80.0% (4/5),59.8%,53.5%,2.3%,47.1%,57.7%,57.1% (4/7),
 23-Jun-2014,Wimbledon,5,Grass,R128,27,102,0,28,Q,Michelle Larcher De Brito,Svetlana Kuznetsova,3-6 6-3 6-1,,,,,,,,,,,,,,
-26-May-2014,Roland Garros,5,Clay,QF,28,4,0,27,4,Simona Halep,Svetlana Kuznetsova,6-2 6-2 (ch),0.74,0.0%,4.2%,58.3%,42.9%,35.0%,25.0% (2/8),42.6%,45.0%,1.7%,43.2%,50.0%,22.2% (2/9),
+26-May-2014,Roland Garros,5,Clay,QF,28,4,0,27,4,Simona Halep,Svetlana Kuznetsova,6-2 6-2,0.74,0.0%,4.2%,58.3%,42.9%,35.0%,25.0% (2/8),42.6%,45.0%,1.7%,43.2%,50.0%,22.2% (2/9),
 26-May-2014,Roland Garros,5,Clay,R16,28,24,1,27,23,Svetlana Kuznetsova,Lucie Safarova,6-3 6-4,1.13,5.5%,3.6%,65.5%,58.3%,47.4%,0.0% (0/3),52.9%,51.6%,7.8%,47.8%,61.1%,50.0% (6/12),
 26-May-2014,Roland Garros,5,Clay,R32,28,6,1,27,5,Svetlana Kuznetsova,Petra Kvitova,6-7(3) 6-1 9-7,1.27,3.6%,3.6%,67.0%,69.3%,45.9%,66.7% (8/12),54.7%,48.9%,3.0%,42.5%,58.2%,32.0% (8/25),
 26-May-2014,Roland Garros,5,Clay,R64,28,50,1,27,,Svetlana Kuznetsova,Camila Giorgi,7-6(5) 6-3,1.15,3.6%,3.6%,54.2%,62.2%,55.3%,70.0% (7/10),53.0%,46.9%,1.2%,35.4%,63.6%,57.1% (4/7),
@@ -335,7 +335,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Feb-2013,Doha,3,Hard,R16,51,9,0,,8,Samantha Stosur,Svetlana Kuznetsova,6-4 7-5,0.81,4.2%,5.6%,66.2%,51.1%,41.7%,50.0% (6/12),45.3%,42.4%,3.0%,44.7%,36.8%,36.4% (4/11),
 11-Feb-2013,Doha,3,Hard,R32,51,11,1,,9,Svetlana Kuznetsova,Marion Bartoli,6-4 6-4,1.14,3.0%,4.5%,50.7%,76.5%,51.5%,66.7% (2/3),53.2%,40.7%,0.0%,32.4%,52.0%,42.9% (3/7),
 11-Feb-2013,Doha,3,Hard,R64,51,205,1,,Q,Svetlana Kuznetsova,Bethanie Mattek Sands,7-6(1) 6-4,1.14,1.3%,9.2%,55.3%,66.7%,38.2%,44.4% (4/9),53.2%,52.6%,1.3%,46.2%,59.0%,60.0% (6/10),
-14-Jan-2013,Australian Open,5,Hard,QF,75,1,0,,1,Victoria Azarenka,Svetlana Kuznetsova,7-5 6-1 (ch) (wp),0.75,4.8%,7.2%,59.0%,49.0%,38.2%,40.0% (4/10),43.1%,41.7%,3.6%,38.1%,52.4%,50.0% (2/4),
+14-Jan-2013,Australian Open,5,Hard,QF,75,1,0,,1,Victoria Azarenka,Svetlana Kuznetsova,7-5 6-1 (wp),0.75,4.8%,7.2%,59.0%,49.0%,38.2%,40.0% (4/10),43.1%,41.7%,3.6%,38.1%,52.4%,50.0% (2/4),
 14-Jan-2013,Australian Open,5,Hard,R16,75,10,1,,10,Svetlana Kuznetsova,Caroline Wozniacki,6-2 2-6 7-5 (wp),1.09,2.1%,2.1%,60.4%,63.8%,52.6%,73.3% (11/15),51.8%,44.2%,2.1%,38.7%,54.5%,38.5% (5/13),
 14-Jan-2013,Australian Open,5,Hard,R32,75,33,1,,,Svetlana Kuznetsova,Carla Suarez Navarro,6-2 4-6 6-3 (wp),1.22,3.4%,1.1%,69.7%,59.7%,51.9%,54.5% (6/11),54.4%,51.9%,2.9%,48.4%,57.5%,46.7% (7/15),
 14-Jan-2013,Australian Open,5,Hard,R64,75,27,1,,26,Svetlana Kuznetsova,Su Wei Hsieh,6-2 6-1 (wp),2.15,20.6%,0.0%,61.8%,76.2%,69.2%,0.0% (0/1),63.0%,56.9%,1.7%,44.1%,75.0%,66.7% (6/9),
@@ -414,7 +414,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Mar-2011,Miami,3,Hard,R64,15,66,1,11,,Svetlana Kuznetsova,Simona Halep,6-0 6-4,1.37,0.0%,1.9%,55.6%,53.3%,62.5%,60.0% (3/5),57.8%,58.3%,0.0%,56.7%,61.1%,85.7% (6/7),
 7-Mar-2011,Indian Wells,3,Hard,R64,13,112,0,11,WC,Christina Mchale,Svetlana Kuznetsova,7-6(4) 7-6(7),0.93,0.0%,0.0%,72.4%,51.2%,46.9%,68.8% (11/16),48.5%,46.6%,1.1%,34.9%,57.8%,55.6% (5/9),
 21-Feb-2011,Doha,3,Hard,R32,13,12,0,,8,Shahar Peer,Svetlana Kuznetsova,6-2 6-4,0.79,0.0%,2.0%,72.0%,52.8%,21.4%,25.0% (2/8),44.1%,44.3%,0.0%,32.4%,62.5%,50.0% (3/6),
-14-Feb-2011,Dubai,3,Hard,F,23,2,0,16,1,Caroline Wozniacki,Svetlana Kuznetsova,6-1 6-3 (ch),0.68,0.0%,2.1%,76.6%,27.8%,45.5%,30.0% (3/10),39.8%,46.4%,3.6%,44.2%,53.8%,42.9% (3/7),
+14-Feb-2011,Dubai,3,Hard,F,23,2,0,16,1,Caroline Wozniacki,Svetlana Kuznetsova,6-1 6-3,0.68,0.0%,2.1%,76.6%,27.8%,45.5%,30.0% (3/10),39.8%,46.4%,3.6%,44.2%,53.8%,42.9% (3/7),
 14-Feb-2011,Dubai,3,Hard,SF,23,18,1,16,11,Svetlana Kuznetsova,Flavia Pennetta,6-4 6-4,1.18,3.4%,5.1%,78.0%,60.9%,30.8%,33.3% (2/6),54.0%,53.8%,1.5%,51.4%,56.7%,46.2% (6/13),
 14-Feb-2011,Dubai,3,Hard,QF,23,10,1,16,8,Svetlana Kuznetsova,Agnieszka Radwanska,7-6(7) 6-3,1.24,2.4%,1.2%,64.7%,63.6%,46.7%,63.6% (7/11),55.3%,52.6%,1.3%,52.5%,52.9%,55.6% (5/9),
 14-Feb-2011,Dubai,3,Hard,R16,23,4,1,16,3,Svetlana Kuznetsova,Francesca Schiavone,1-6 6-0 7-5,1.18,2.2%,1.1%,68.9%,59.7%,50.0%,63.6% (7/11),53.8%,51.1%,2.2%,49.0%,53.7%,40.0% (6/15),
@@ -422,7 +422,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Feb-2011,Dubai,3,Hard,R64,23,127,1,16,Q,Svetlana Kuznetsova,Nuria Llagostera Vives,6-4 6-2,1.38,1.8%,1.8%,66.1%,70.3%,52.6%,50.0% (1/2),56.5%,49.2%,1.7%,38.5%,57.6%,80.0% (4/5),
 5-Feb-2011,Fed Cup WG R1: RUS vs FRA,3,Hard,RR,23,67,0,,,Alize Cornet,Svetlana Kuznetsova,3-6 6-3 6-4,,,,,,,,,,,,,,
 5-Feb-2011,Fed Cup WG R1: RUS vs FRA,3,Hard,RR,23,83,1,,,Svetlana Kuznetsova,Virginie Razzano,6-4 6-4,,,,,,,,,,,,,,
-17-Jan-2011,Australian Open,5,Hard,R16,26,7,0,23,6,Francesca Schiavone,Svetlana Kuznetsova,6-4 1-6 16-14 (ch) (wp),1.05,3.1%,1.8%,69.3%,63.7%,42.0%,65.2% (15/23),50.6%,45.1%,1.5%,41.1%,50.6%,33.3% (9/27),4:44
+17-Jan-2011,Australian Open,5,Hard,R16,26,7,0,23,6,Francesca Schiavone,Svetlana Kuznetsova,6-4 1-6 16-14 (wp),1.05,3.1%,1.8%,69.3%,63.7%,42.0%,65.2% (15/23),50.6%,45.1%,1.5%,41.1%,50.6%,33.3% (9/27),4:44
 17-Jan-2011,Australian Open,5,Hard,R32,26,13,1,23,11,Svetlana Kuznetsova,Justine Henin,6-4 7-6(8) (wp),1.12,1.2%,3.7%,61.7%,70.0%,48.4%,66.7% (4/6),52.5%,43.0%,1.3%,31.1%,58.8%,60.0% (3/5),
 17-Jan-2011,Australian Open,5,Hard,R64,26,139,1,23,Q,Svetlana Kuznetsova,Arantxa Rus,6-1 6-4 (wp),1.49,4.3%,4.3%,60.9%,60.7%,66.7%,33.3% (1/3),58.3%,55.1%,1.4%,46.2%,82.4%,50.0% (6/12),
 17-Jan-2011,Australian Open,5,Hard,R128,26,115,1,23,,Svetlana Kuznetsova,Alison Riske Amritraj,6-3 6-2 (wp),1.44,3.8%,9.6%,38.5%,85.0%,43.8%,40.0% (2/5),58.9%,58.3%,0.0%,55.3%,69.2%,54.5% (6/11),
@@ -478,7 +478,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Oct-2009,WTA Tour Championships,3,Hard,RR,3,7,0,3,7,Venus Williams,Svetlana Kuznetsova,6-2 6-7(3) 6-4,0.80,2.9%,1.0%,68.3%,54.9%,60.6%,64.3% (9/14),45.7%,34.6%,10.6%,23.3%,50.0%,22.2% (2/9),
 26-Oct-2009,WTA Tour Championships,3,Hard,RR,3,2,0,3,2,Serena Williams,Svetlana Kuznetsova,7-6(6) 7-5,0.80,4.9%,4.9%,61.7%,66.0%,41.9%,42.9% (3/7),46.2%,34.7%,14.7%,21.4%,51.5%,37.5% (3/8),
 26-Oct-2009,WTA Tour Championships,3,Hard,RR,3,5,1,3,5,Svetlana Kuznetsova,Elena Dementieva,6-3 6-2,1.92,15.2%,2.2%,69.6%,81.3%,71.4%,- (0/0),58.4%,41.8%,0.0%,36.0%,46.7%,37.5% (3/8),
-5-Oct-2009,Beijing,3,Hard,F,6,11,1,6,12,Svetlana Kuznetsova,Agnieszka Radwanska,6-2 6-4 (ch),1.39,10.5%,3.5%,63.2%,72.2%,57.1%,83.3% (5/6),55.6%,46.4%,2.9%,44.0%,52.6%,40.0% (4/10),
+5-Oct-2009,Beijing,3,Hard,F,6,11,1,6,12,Svetlana Kuznetsova,Agnieszka Radwanska,6-2 6-4,1.39,10.5%,3.5%,63.2%,72.2%,57.1%,83.3% (5/6),55.6%,46.4%,2.9%,44.0%,52.6%,40.0% (4/10),
 5-Oct-2009,Beijing,3,Hard,SF,6,17,1,6,13,Svetlana Kuznetsova,Nadia Petrova,6-1 6-3,1.52,3.6%,3.6%,70.9%,69.2%,56.3%,83.3% (5/6),58.5%,52.4%,4.8%,50.0%,57.9%,50.0% (5/10),
 5-Oct-2009,Beijing,3,Hard,QF,6,39,1,6,,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,6-3 6-3,1.38,3.6%,1.8%,61.8%,70.6%,47.6%,0.0% (0/2),56.7%,52.8%,2.8%,47.5%,59.4%,45.5% (5/11),
 5-Oct-2009,Beijing,3,Hard,R16,6,37,1,6,,Svetlana Kuznetsova,Alona Bondarenko,6-3 4-6 6-0,1.20,3.0%,3.0%,53.0%,66.0%,55.3%,86.7% (13/15),54.2%,46.7%,0.0%,40.0%,64.0%,41.7% (5/12),
@@ -493,21 +493,21 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Aug-2009,New Haven,3,Hard,R16,6,53,1,1,Q,Svetlana Kuznetsova,Yanina Wickmayer,6-4 5-7 7-6(2),1.13,4.2%,4.2%,56.8%,70.1%,51.0%,50.0% (4/8),52.3%,43.1%,3.3%,40.5%,48.7%,30.8% (4/13),
 24-Aug-2009,New Haven,3,Hard,R32,6,22,1,1,,Svetlana Kuznetsova,Jie Zheng,6-1 6-7(5) 6-4,1.25,4.8%,2.9%,63.5%,66.7%,55.3%,50.0% (4/8),54.9%,47.0%,0.0%,42.7%,60.0%,58.3% (7/12),
 17-Aug-2009,Toronto,3,Hard,R32,6,17,0,6,,Samantha Stosur,Svetlana Kuznetsova,6-4 6-3,0.73,3.6%,3.6%,58.2%,56.3%,56.5%,0.0% (0/3),43.5%,31.7%,5.0%,19.5%,57.9%,0.0% (0/2),
-10-Aug-2009,Cincinnati,3,Hard,R16,6,,0,6,WC,Kim Clijsters,Svetlana Kuznetsova,6-4 4-6 6-2 (ch),0.80,3.4%,3.4%,59.1%,61.5%,44.4%,58.3% (7/12),45.9%,36.6%,2.4%,29.3%,43.9%,100.0% (3/3),
+10-Aug-2009,Cincinnati,3,Hard,R16,6,,0,6,WC,Kim Clijsters,Svetlana Kuznetsova,6-4 4-6 6-2,0.80,3.4%,3.4%,59.1%,61.5%,44.4%,58.3% (7/12),45.9%,36.6%,2.4%,29.3%,43.9%,100.0% (3/3),
 10-Aug-2009,Cincinnati,3,Hard,R32,6,45,1,6,,Svetlana Kuznetsova,Lucie Safarova,6-3 6-7(2) 7-6(4),1.08,9.7%,2.9%,61.2%,77.8%,47.5%,33.3% (2/6),51.2%,36.8%,3.8%,27.3%,47.1%,50.0% (5/10),
 22-Jun-2009,Wimbledon,5,Grass,R32,5,41,0,5,,Sabine Lisicki,Svetlana Kuznetsova,6-2 7-5,0.80,1.3%,5.3%,57.3%,55.8%,43.8%,58.3% (7/12),45.5%,39.7%,5.9%,20.0%,60.6%,40.0% (2/5),
 22-Jun-2009,Wimbledon,5,Grass,R64,5,78,1,5,,Svetlana Kuznetsova,Pauline Parmentier,6-1 6-3,2.32,2.3%,7.0%,53.5%,87.0%,70.0%,- (0/0),60.6%,48.5%,1.5%,42.9%,54.8%,33.3% (4/12),
 22-Jun-2009,Wimbledon,5,Grass,R128,5,715,1,5,,Svetlana Kuznetsova,Akiko Morigami,6-3 7-6(1),1.21,3.9%,6.5%,59.7%,58.7%,51.6%,60.0% (6/10),54.7%,53.4%,1.4%,50.0%,59.3%,55.6% (5/9),
 15-Jun-2009,Eastbourne,3,Grass,R32,5,23,0,2,,Aleksandra Wozniak,Svetlana Kuznetsova,6-0 6-3,0.59,2.2%,6.7%,55.6%,48.0%,30.0%,25.0% (2/8),37.6%,35.4%,6.3%,33.3%,40.0%,25.0% (2/8),
-25-May-2009,Roland Garros,5,Clay,F,7,1,1,7,1,Svetlana Kuznetsova,Dinara Safina,6-4 6-2 (ch),1.31,1.5%,6.1%,65.2%,79.1%,52.2%,100.0% (5/5),56.3%,39.6%,5.7%,32.4%,56.3%,50.0% (2/4),
-25-May-2009,Roland Garros,5,Clay,SF,7,32,1,7,30,Svetlana Kuznetsova,Samantha Stosur,6-4 6-7(5) 6-3 (ch),1.07,5.5%,1.8%,71.8%,59.5%,61.3%,62.5% (5/8),51.9%,42.7%,4.2%,38.5%,51.6%,83.3% (5/6),
-25-May-2009,Roland Garros,5,Clay,QF,7,2,1,7,2,Svetlana Kuznetsova,Serena Williams,7-6(3) 5-7 7-5 (ch),1.07,2.5%,2.5%,69.2%,62.7%,48.6%,40.0% (4/10),51.5%,44.5%,8.4%,29.2%,68.1%,60.0% (6/10),
+25-May-2009,Roland Garros,5,Clay,F,7,1,1,7,1,Svetlana Kuznetsova,Dinara Safina,6-4 6-2,1.31,1.5%,6.1%,65.2%,79.1%,52.2%,100.0% (5/5),56.3%,39.6%,5.7%,32.4%,56.3%,50.0% (2/4),
+25-May-2009,Roland Garros,5,Clay,SF,7,32,1,7,30,Svetlana Kuznetsova,Samantha Stosur,6-4 6-7(5) 6-3,1.07,5.5%,1.8%,71.8%,59.5%,61.3%,62.5% (5/8),51.9%,42.7%,4.2%,38.5%,51.6%,83.3% (5/6),
+25-May-2009,Roland Garros,5,Clay,QF,7,2,1,7,2,Svetlana Kuznetsova,Serena Williams,7-6(3) 5-7 7-5,1.07,2.5%,2.5%,69.2%,62.7%,48.6%,40.0% (4/10),51.5%,44.5%,8.4%,29.2%,68.1%,60.0% (6/10),
 25-May-2009,Roland Garros,5,Clay,R16,7,12,1,7,12,Svetlana Kuznetsova,Agnieszka Radwanska,6-4 1-6 6-1,1.11,3.8%,6.3%,62.5%,64.0%,56.7%,57.1% (4/7),52.6%,43.1%,2.8%,40.0%,45.9%,66.7% (4/6),
 25-May-2009,Roland Garros,5,Clay,R32,7,62,1,7,,Svetlana Kuznetsova,Melinda Czink,6-1 6-3,1.58,4.3%,0.0%,66.0%,74.2%,62.5%,- (0/0),58.0%,47.2%,0.0%,38.5%,55.6%,57.1% (4/7),
 25-May-2009,Roland Garros,5,Clay,R64,7,81,1,7,,Svetlana Kuznetsova,Galina Voskoboeva,6-0 6-2,2.15,7.3%,0.0%,56.1%,78.3%,66.7%,100.0% (2/2),65.1%,57.8%,0.0%,54.8%,64.3%,62.5% (5/8),
 25-May-2009,Roland Garros,5,Clay,R128,7,236,1,7,WC,Svetlana Kuznetsova,Claire Feuerstein,6-1 6-4,1.85,6.3%,0.0%,52.1%,68.0%,78.3%,75.0% (3/4),60.6%,50.0%,0.0%,41.0%,70.6%,30.8% (4/13),
 11-May-2009,Madrid,3,Clay,R32,7,46,0,6,,Alona Bondarenko,Svetlana Kuznetsova,6-3 6-2,0.66,0.0%,3.6%,67.9%,47.4%,50.0%,37.5% (3/8),41.5%,34.0%,0.0%,31.7%,44.4%,33.3% (1/3),
-4-May-2009,Rome,3,Clay,F,8,1,0,7,1,Dinara Safina,Svetlana Kuznetsova,6-3 6-2 (ch),0.77,1.4%,4.3%,69.6%,54.2%,28.6%,50.0% (5/10),44.0%,41.5%,0.0%,42.6%,38.9%,25.0% (2/8),
+4-May-2009,Rome,3,Clay,F,8,1,0,7,1,Dinara Safina,Svetlana Kuznetsova,6-3 6-2,0.77,1.4%,4.3%,69.6%,54.2%,28.6%,50.0% (5/10),44.0%,41.5%,0.0%,42.6%,38.9%,25.0% (2/8),
 4-May-2009,Rome,3,Clay,SF,8,9,1,7,6,Svetlana Kuznetsova,Victoria Azarenka,6-2 6-4,1.32,3.2%,6.3%,52.4%,69.7%,43.3%,75.0% (9/12),56.8%,56.5%,1.4%,54.5%,64.3%,40.0% (6/15),
 4-May-2009,Rome,3,Clay,QF,8,4,1,7,3,Svetlana Kuznetsova,Jelena Jankovic,6-1 7-6(3),1.28,2.9%,0.0%,61.4%,60.5%,63.0%,60.0% (3/5),55.4%,49.3%,2.9%,50.0%,47.4%,44.4% (4/9),
 4-May-2009,Rome,3,Clay,R16,8,14,1,7,12,Svetlana Kuznetsova,Flavia Pennetta,6-3 3-6 6-0,1.33,8.2%,6.8%,58.9%,79.1%,43.3%,33.3% (1/3),54.0%,47.4%,4.4%,36.1%,60.4%,22.7% (5/22),
@@ -546,7 +546,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Sep-2008,Beijing,3,Hard,SF,7,30,1,4,,Svetlana Kuznetsova,Jie Zheng,7-6(3) 7-5,,,,,,,,,,,,,,
 22-Sep-2008,Beijing,3,Hard,QF,7,20,1,4,,Svetlana Kuznetsova,Dominika Cibulkova,6-2 6-4,,,,,,,,,,,,,,
 22-Sep-2008,Beijing,3,Hard,R16,7,82,1,4,Q,Svetlana Kuznetsova,Alla Kudryavtseva,6-2 6-3,,,,,,,,,,,,,,
-15-Sep-2008,Tokyo,3,Hard,F,7,5,0,5,4,Dinara Safina,Svetlana Kuznetsova,6-1 6-3 (ch),0.73,3.4%,6.8%,55.9%,60.6%,30.8%,37.5% (3/8),43.1%,38.6%,12.3%,18.8%,64.0%,33.3% (1/3),
+15-Sep-2008,Tokyo,3,Hard,F,7,5,0,5,4,Dinara Safina,Svetlana Kuznetsova,6-1 6-3,0.73,3.4%,6.8%,55.9%,60.6%,30.8%,37.5% (3/8),43.1%,38.6%,12.3%,18.8%,64.0%,33.3% (1/3),
 15-Sep-2008,Tokyo,3,Hard,SF,7,25,1,5,Q,Svetlana Kuznetsova,Katarina Srebotnik,7-6(5) 6-2,1.01,6.7%,6.7%,58.4%,71.2%,29.7%,72.7% (8/11),50.6%,46.4%,11.6%,33.3%,58.3%,45.5% (5/11),
 15-Sep-2008,Tokyo,3,Hard,QF,7,2,1,5,1,Svetlana Kuznetsova,Jelena Jankovic,2-6 7-5 7-5,1.07,2.8%,2.8%,60.7%,66.2%,33.3%,56.3% (9/16),51.7%,50.0%,6.0%,46.0%,56.8%,36.8% (7/19),
 15-Sep-2008,Tokyo,3,Hard,R16,7,162,1,5,WC,Svetlana Kuznetsova,Ayumi Morita,6-1 6-1,3.84,15.2%,0.0%,78.8%,92.3%,57.1%,- (0/0),69.7%,58.1%,0.0%,60.0%,55.6%,55.6% (5/9),
@@ -565,7 +565,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Jun-2008,Wimbledon,5,Grass,R64,4,47,1,4,,Svetlana Kuznetsova,Kateryna Bondarenko,6-2 6-3,1.50,1.9%,14.8%,50.0%,74.1%,44.4%,50.0% (2/4),60.2%,61.2%,0.0%,50.0%,72.0%,66.7% (6/9),
 23-Jun-2008,Wimbledon,5,Grass,R128,4,124,1,4,Q,Svetlana Kuznetsova,Mathilde Johansson,6-7(5) 7-5 6-3,1.14,7.2%,6.2%,51.5%,70.0%,51.1%,33.3% (2/6),52.5%,44.7%,1.9%,43.3%,46.5%,50.0% (6/12),
 16-Jun-2008,Eastbourne,3,Grass,R16,4,32,0,1,,Caroline Wozniacki,Svetlana Kuznetsova,6-2 6-2,0.69,1.9%,15.1%,47.2%,64.0%,28.6%,37.5% (3/8),41.3%,37.5%,1.8%,27.3%,52.2%,14.3% (1/7),
-26-May-2008,Roland Garros,5,Clay,SF,4,14,0,4,13,Dinara Safina,Svetlana Kuznetsova,6-3 6-2 (ch),0.79,2.0%,4.1%,59.2%,51.7%,25.0%,45.5% (5/11),44.3%,46.6%,1.4%,40.8%,58.3%,33.3% (3/9),
+26-May-2008,Roland Garros,5,Clay,SF,4,14,0,4,13,Dinara Safina,Svetlana Kuznetsova,6-3 6-2,0.79,2.0%,4.1%,59.2%,51.7%,25.0%,45.5% (5/11),44.3%,46.6%,1.4%,40.8%,58.3%,33.3% (3/9),
 26-May-2008,Roland Garros,5,Clay,QF,4,49,1,4,,Svetlana Kuznetsova,Kaia Kanepi,7-5 6-2,1.64,5.1%,5.1%,50.8%,80.0%,58.6%,80.0% (4/5),59.3%,50.0%,3.1%,40.0%,66.7%,50.0% (4/8),
 26-May-2008,Roland Garros,5,Clay,R16,4,17,1,4,16,Svetlana Kuznetsova,Victoria Azarenka,6-2 6-3,1.29,14.9%,4.5%,64.2%,69.8%,58.3%,100.0% (7/7),56.3%,44.2%,0.0%,41.9%,47.6%,42.9% (3/7),
 26-May-2008,Roland Garros,5,Clay,R32,4,25,1,4,25,Svetlana Kuznetsova,Nadia Petrova,6-2 6-1,1.76,11.6%,2.3%,51.2%,77.3%,57.1%,0.0% (0/1),61.9%,57.4%,3.7%,53.6%,61.5%,66.7% (6/9),
@@ -581,7 +581,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Mar-2008,Miami,3,Hard,R16,4,19,1,3,16,Svetlana Kuznetsova,Shahar Peer,7-6(4) 6-3,1.16,1.2%,6.0%,64.3%,68.5%,40.0%,63.6% (7/11),54.1%,48.4%,0.0%,40.0%,70.6%,83.3% (5/6),
 24-Mar-2008,Miami,3,Hard,R32,4,27,1,3,25,Svetlana Kuznetsova,Victoria Azarenka,1-6 7-5 6-0,1.18,3.8%,2.6%,56.4%,79.5%,29.4%,37.5% (3/8),53.7%,50.0%,0.0%,40.4%,64.7%,46.2% (6/13),
 24-Mar-2008,Miami,3,Hard,R64,4,58,1,3,,Svetlana Kuznetsova,Yung Jan Chan,6-1 3-6 6-0,1.32,2.9%,0.0%,71.0%,59.2%,60.0%,25.0% (1/4),56.4%,53.5%,0.0%,48.8%,60.0%,53.8% (7/13),
-10-Mar-2008,Indian Wells,3,Hard,F,3,2,0,2,1,Ana Ivanovic,Svetlana Kuznetsova,6-4 6-3 (ch),0.68,0.0%,4.8%,62.9%,66.7%,34.8%,42.9% (3/7),43.6%,30.9%,9.1%,30.8%,31.3%,33.3% (1/3),
+10-Mar-2008,Indian Wells,3,Hard,F,3,2,0,2,1,Ana Ivanovic,Svetlana Kuznetsova,6-4 6-3,0.68,0.0%,4.8%,62.9%,66.7%,34.8%,42.9% (3/7),43.6%,30.9%,9.1%,30.8%,31.3%,33.3% (1/3),
 10-Mar-2008,Indian Wells,3,Hard,SF,3,5,1,2,4,Svetlana Kuznetsova,Maria Sharapova,6-3 5-7 6-2,1.24,2.2%,6.7%,61.1%,72.7%,51.4%,62.5% (5/8),54.1%,44.0%,1.1%,36.1%,60.0%,41.7% (5/12),
 10-Mar-2008,Indian Wells,3,Hard,QF,3,19,1,2,10,Svetlana Kuznetsova,Agnieszka Radwanska,6-2 6-4,1.24,4.7%,0.0%,54.7%,57.1%,69.0%,80.0% (4/5),54.9%,46.6%,3.4%,43.6%,52.6%,80.0% (4/5),
 10-Mar-2008,Indian Wells,3,Hard,R16,3,47,1,2,,Svetlana Kuznetsova,Caroline Wozniacki,6-2 6-3,1.26,4.6%,0.0%,55.4%,69.4%,44.8%,66.7% (4/6),55.9%,52.2%,2.2%,52.9%,50.0%,62.5% (5/8),
@@ -611,10 +611,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Oct-2007,Stuttgart,3,Hard,SF,2,19,0,2,,Tatiana Golovin,Svetlana Kuznetsova,6-2 6-4,0.62,10.5%,0.0%,61.4%,57.1%,63.6%,70.0% (7/10),42.5%,25.0%,14.3%,18.4%,38.9%,0.0% (0/4),
 1-Oct-2007,Stuttgart,3,Hard,QF,2,7,1,2,6,Svetlana Kuznetsova,Serena Williams,6-3 6-3,1.76,13.5%,3.8%,67.3%,85.7%,41.2%,66.7% (2/3),60.6%,50.9%,7.0%,34.4%,72.0%,66.7% (4/6),
 1-Oct-2007,Stuttgart,3,Hard,R16,2,36,1,2,,Svetlana Kuznetsova,Agnieszka Radwanska,6-4 6-7(5) 6-3,1.20,16.0%,3.0%,57.0%,78.9%,55.8%,85.7% (6/7),53.3%,37.1%,5.2%,30.3%,51.6%,27.3% (3/11),
-15-Sep-2007,Fed Cup WG F: RUS vs ITA,3,Hard,RR,2,25,1,,,Svetlana Kuznetsova,Francesca Schiavone,4-6 7-6(7) 7-5 (ch),,,,,,,,,,,,,,
+15-Sep-2007,Fed Cup WG F: RUS vs ITA,3,Hard,RR,2,25,1,,,Svetlana Kuznetsova,Francesca Schiavone,4-6 7-6(7) 7-5,,,,,,,,,,,,,,
 15-Sep-2007,Fed Cup WG F: RUS vs ITA,3,Hard,RR,2,34,1,,,Svetlana Kuznetsova,Mara Santangelo,6-1 6-2,1.33,9.8%,3.3%,65.6%,67.5%,33.3%,57.1% (4/7),57.0%,58.7%,2.2%,42.9%,72.0%,85.7% (6/7),
-27-Aug-2007,US Open,5,Hard,F,4,1,0,4,1,Justine Henin,Svetlana Kuznetsova,6-1 6-3 (ch),0.71,1.6%,0.0%,75.0%,54.2%,50.0%,50.0% (4/8),43.5%,33.3%,6.7%,17.6%,53.8%,0.0% (0/6),
-27-Aug-2007,US Open,5,Hard,SF,4,6,1,4,6,Svetlana Kuznetsova,Anna Chakvetadze,3-6 6-1 6-1 (ch),1.31,1.2%,1.2%,64.2%,53.8%,55.2%,68.8% (11/16),56.8%,59.7%,0.0%,58.3%,61.3%,72.7% (8/11),
+27-Aug-2007,US Open,5,Hard,F,4,1,0,4,1,Justine Henin,Svetlana Kuznetsova,6-1 6-3,0.71,1.6%,0.0%,75.0%,54.2%,50.0%,50.0% (4/8),43.5%,33.3%,6.7%,17.6%,53.8%,0.0% (0/6),
+27-Aug-2007,US Open,5,Hard,SF,4,6,1,4,6,Svetlana Kuznetsova,Anna Chakvetadze,3-6 6-1 6-1,1.31,1.2%,1.2%,64.2%,53.8%,55.2%,68.8% (11/16),56.8%,59.7%,0.0%,58.3%,61.3%,72.7% (8/11),
 27-Aug-2007,US Open,5,Hard,QF,4,31,1,4,,Svetlana Kuznetsova,Agnes Szavay,6-1 6-4,1.70,3.9%,2.0%,60.8%,80.6%,65.0%,100.0% (2/2),58.7%,43.4%,9.4%,40.6%,47.6%,42.9% (3/7),
 27-Aug-2007,US Open,5,Hard,R16,4,41,1,4,,Svetlana Kuznetsova,Victoria Azarenka,6-2 6-3,1.50,5.1%,3.4%,52.5%,71.0%,53.6%,60.0% (3/5),59.3%,55.9%,3.4%,60.0%,47.4%,45.5% (5/11),
 27-Aug-2007,US Open,5,Hard,R32,4,34,1,4,31,Svetlana Kuznetsova,Anabel Medina Garrigues,6-3 6-1,1.67,13.6%,4.5%,63.6%,82.1%,43.8%,50.0% (1/2),60.2%,53.1%,0.0%,46.4%,61.9%,83.3% (5/6),
@@ -627,7 +627,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Aug-2007,Toronto,3,Hard,QF,5,19,0,3,12,Tatiana Golovin,Svetlana Kuznetsova,2-6 7-5 6-1,0.93,6.0%,2.0%,75.0%,42.7%,44.0%,62.5% (15/24),47.5%,53.1%,1.2%,49.1%,62.5%,63.6% (7/11),
 13-Aug-2007,Toronto,3,Hard,R16,5,43,1,3,,Svetlana Kuznetsova,Meghann Shaughnessy,6-3 6-2,1.81,13.2%,1.9%,69.8%,81.1%,56.3%,66.7% (2/3),61.6%,47.8%,2.2%,30.4%,65.2%,57.1% (4/7),
 13-Aug-2007,Toronto,3,Hard,R32,5,53,1,3,,Svetlana Kuznetsova,Roberta Vinci,6-2 7-6(7),1.31,4.5%,1.5%,59.1%,71.8%,59.3%,75.0% (3/4),54.2%,43.6%,3.8%,38.8%,51.7%,42.9% (3/7),
-25-Jun-2007,Wimbledon,5,Grass,QF,5,31,0,5,23,Venus Williams,Svetlana Kuznetsova,6-3 6-4 (ch),0.78,3.2%,3.2%,67.7%,59.5%,45.0%,72.7% (8/11),44.6%,35.3%,4.4%,24.4%,56.5%,14.3% (1/7),
+25-Jun-2007,Wimbledon,5,Grass,QF,5,31,0,5,23,Venus Williams,Svetlana Kuznetsova,6-3 6-4,0.78,3.2%,3.2%,67.7%,59.5%,45.0%,72.7% (8/11),44.6%,35.3%,4.4%,24.4%,56.5%,14.3% (1/7),
 25-Jun-2007,Wimbledon,5,Grass,R16,5,54,1,5,,Svetlana Kuznetsova,Tamira Paszek,6-3 6-2,2.27,8.7%,0.0%,73.9%,85.3%,66.7%,- (0/0),62.6%,44.4%,0.0%,20.7%,87.5%,60.0% (3/5),
 25-Jun-2007,Wimbledon,5,Grass,R32,5,35,1,5,,Svetlana Kuznetsova,Agnieszka Radwanska,6-2 6-3,1.38,3.7%,5.6%,70.4%,63.2%,50.0%,66.7% (4/6),57.6%,56.3%,3.1%,48.6%,65.5%,54.5% (6/11),
 25-Jun-2007,Wimbledon,5,Grass,R64,5,116,1,5,,Svetlana Kuznetsova,Bethanie Mattek Sands,7-6(2) 6-4,1.07,5.1%,2.6%,65.4%,74.5%,44.4%,75.0% (6/8),52.1%,38.2%,2.9%,40.9%,33.3%,60.0% (3/5),
@@ -642,7 +642,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-May-2007,Rome,3,Clay,QF,3,9,1,2,6,Svetlana Kuznetsova,Dinara Safina,6-1 6-3,1.57,7.7%,5.8%,61.5%,78.1%,55.0%,100.0% (2/2),57.8%,48.4%,4.7%,46.7%,52.6%,30.8% (4/13),
 14-May-2007,Rome,3,Clay,R16,3,138,1,2,LL,Svetlana Kuznetsova,Yuliana Fedak,7-6(4) 6-1,1.21,1.6%,3.2%,87.1%,53.7%,50.0%,44.4% (4/9),55.0%,56.7%,0.0%,52.5%,87.5%,63.6% (7/11),
 14-May-2007,Rome,3,Clay,R32,3,30,1,2,,Svetlana Kuznetsova,Mara Santangelo,6-3 6-3,1.33,9.8%,3.3%,65.6%,67.5%,33.3%,57.1% (4/7),57.0%,58.7%,2.2%,42.9%,72.0%,85.7% (6/7),
-7-May-2007,Berlin,3,Clay,F,4,16,0,3,12,Ana Ivanovic,Svetlana Kuznetsova,3-6 6-4 7-6(4) (ch),0.94,0.0%,1.8%,77.0%,57.5%,46.2%,50.0% (6/12),49.3%,42.2%,3.3%,27.3%,56.5%,54.5% (6/11),
+7-May-2007,Berlin,3,Clay,F,4,16,0,3,12,Ana Ivanovic,Svetlana Kuznetsova,3-6 6-4 7-6(4),0.94,0.0%,1.8%,77.0%,57.5%,46.2%,50.0% (6/12),49.3%,42.2%,3.3%,27.3%,56.5%,54.5% (6/11),
 7-May-2007,Berlin,3,Clay,SF,4,1,1,3,1,Svetlana Kuznetsova,Justine Henin,6-4 5-7 6-4,0.97,0.0%,3.6%,69.4%,53.2%,50.0%,45.5% (5/11),49.1%,46.2%,5.0%,31.3%,63.6%,33.3% (7/21),
 7-May-2007,Berlin,3,Clay,QF,4,9,1,3,7,Svetlana Kuznetsova,Nadia Petrova,7-6(5) 6-4,1.14,6.4%,0.0%,60.3%,76.6%,54.8%,83.3% (5/6),52.6%,36.5%,2.7%,28.9%,44.4%,40.0% (2/5),
 7-May-2007,Berlin,3,Clay,R16,4,39,1,3,,Svetlana Kuznetsova,Martina Muller,6-3 6-2,1.42,1.9%,0.0%,71.7%,68.4%,46.7%,60.0% (3/5),57.8%,53.6%,0.0%,51.4%,57.9%,55.6% (5/9),
@@ -655,7 +655,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Mar-2007,Miami,3,Hard,R16,3,16,0,3,14,Shahar Peer,Svetlana Kuznetsova,6-4 4-6 6-3,0.86,0.9%,0.9%,70.8%,55.0%,42.4%,50.0% (7/14),47.4%,42.0%,2.5%,37.3%,50.0%,83.3% (5/6),
 19-Mar-2007,Miami,3,Hard,R32,3,98,1,3,,Svetlana Kuznetsova,Jelena Kostanic Tosic,6-4 6-2,1.28,6.5%,6.5%,72.6%,75.6%,35.3%,80.0% (4/5),55.7%,45.3%,1.9%,35.9%,71.4%,57.1% (4/7),
 19-Mar-2007,Miami,3,Hard,R64,3,91,1,3,Q,Svetlana Kuznetsova,Kateryna Bondarenko,7-6(4) 6-7(5) 6-3,1.06,4.1%,4.9%,67.2%,62.2%,40.0%,56.3% (9/16),51.4%,48.0%,1.6%,45.3%,52.0%,56.3% (9/16),
-5-Mar-2007,Indian Wells,3,Hard,F,4,18,0,2,14,Daniela Hantuchova,Svetlana Kuznetsova,6-3 6-4 (ch),0.67,13.6%,1.7%,69.5%,61.0%,55.6%,25.0% (1/4),43.9%,27.3%,1.8%,16.2%,50.0%,50.0% (1/2),
+5-Mar-2007,Indian Wells,3,Hard,F,4,18,0,2,14,Daniela Hantuchova,Svetlana Kuznetsova,6-3 6-4,0.67,13.6%,1.7%,69.5%,61.0%,55.6%,25.0% (1/4),43.9%,27.3%,1.8%,16.2%,50.0%,50.0% (1/2),
 5-Mar-2007,Indian Wells,3,Hard,SF,4,46,1,2,33,Svetlana Kuznetsova,Sybille Bammer,6-7(5) 6-4 6-1,1.14,2.1%,6.2%,74.2%,66.7%,44.0%,50.0% (2/4),52.2%,44.5%,2.7%,43.1%,46.7%,54.5% (6/11),
 5-Mar-2007,Indian Wells,3,Hard,QF,4,10,1,2,6,Svetlana Kuznetsova,Nicole Vaidisova,4-6 6-3 6-4,0.99,3.4%,1.1%,70.8%,74.6%,46.2%,60.0% (3/5),50.0%,33.3%,8.0%,22.2%,45.2%,30.0% (3/10),
 5-Mar-2007,Indian Wells,3,Hard,R16,4,24,1,2,16,Svetlana Kuznetsova,Ai Sugiyama,6-2 6-2,1.33,5.1%,3.4%,72.9%,62.8%,43.8%,71.4% (5/7),56.9%,56.3%,1.6%,51.1%,68.4%,46.2% (6/13),
@@ -710,8 +710,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Jun-2006,Eastbourne,3,Grass,SF,7,11,0,4,5,Anastasia Myskina,Svetlana Kuznetsova,6-4 2-6 6-4,1.01,8.0%,6.8%,62.5%,56.4%,54.5%,44.4% (4/9),50.0%,44.6%,3.3%,39.3%,52.8%,45.5% (5/11),
 19-Jun-2006,Eastbourne,3,Grass,QF,7,16,1,4,7,Svetlana Kuznetsova,Anna Lena Groenefeld,5-7 7-5 7-6(4),0.93,6.2%,7.7%,56.9%,64.9%,50.0%,55.6% (5/9),49.0%,38.7%,2.5%,33.3%,46.8%,44.4% (4/9),
 19-Jun-2006,Eastbourne,3,Grass,R16,7,21,1,4,,Svetlana Kuznetsova,Ai Sugiyama,1-6 6-1 6-2,1.25,11.0%,4.1%,58.9%,72.1%,40.0%,42.9% (3/7),55.0%,51.3%,1.3%,48.2%,59.1%,50.0% (6/12),
-29-May-2006,Roland Garros,5,Clay,F,10,5,0,8,5,Justine Henin,Svetlana Kuznetsova,6-4 6-4 (ch),0.91,0.0%,4.4%,70.6%,60.4%,45.0%,42.9% (3/7),48.1%,40.0%,6.2%,24.2%,56.3%,50.0% (2/4),
-29-May-2006,Roland Garros,5,Clay,SF,10,16,1,8,16,Svetlana Kuznetsova,Nicole Vaidisova,5-7 7-6(5) 6-2 (ch),1.05,6.9%,3.4%,51.7%,70.0%,55.4%,70.0% (7/10),51.3%,38.9%,4.6%,32.4%,50.0%,33.3% (4/12),
+29-May-2006,Roland Garros,5,Clay,F,10,5,0,8,5,Justine Henin,Svetlana Kuznetsova,6-4 6-4,0.91,0.0%,4.4%,70.6%,60.4%,45.0%,42.9% (3/7),48.1%,40.0%,6.2%,24.2%,56.3%,50.0% (2/4),
+29-May-2006,Roland Garros,5,Clay,SF,10,16,1,8,16,Svetlana Kuznetsova,Nicole Vaidisova,5-7 7-6(5) 6-2,1.05,6.9%,3.4%,51.7%,70.0%,55.4%,70.0% (7/10),51.3%,38.9%,4.6%,32.4%,50.0%,33.3% (4/12),
 29-May-2006,Roland Garros,5,Clay,QF,10,17,1,8,14,Svetlana Kuznetsova,Dinara Safina,7-6(5) 6-0,1.43,6.6%,6.6%,57.9%,65.9%,40.6%,66.7% (8/12),58.9%,64.2%,1.9%,54.8%,77.3%,87.5% (7/8),
 29-May-2006,Roland Garros,5,Clay,R16,10,12,1,8,9,Svetlana Kuznetsova,Francesca Schiavone,1-6 6-4 6-4,0.99,1.3%,1.3%,82.7%,51.6%,38.5%,41.7% (5/12),49.7%,50.0%,0.0%,44.3%,62.5%,36.8% (7/19),
 29-May-2006,Roland Garros,5,Clay,R32,10,38,1,8,,Svetlana Kuznetsova,Na Li,6-3 7-6(4),1.08,1.3%,1.3%,69.7%,54.7%,34.8%,40.0% (4/10),52.2%,55.4%,0.0%,51.7%,65.2%,61.5% (8/13),
@@ -735,7 +735,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Apr-2006,Amelia Island,3,Clay,QF,10,9,1,5,2,Svetlana Kuznetsova,Patty Schnyder,6-3 6-1,1.83,4.4%,0.0%,66.7%,76.7%,53.3%,75.0% (3/4),62.5%,56.9%,5.9%,54.1%,64.3%,55.6% (5/9),
 3-Apr-2006,Amelia Island,3,Clay,R16,10,26,1,5,11,Svetlana Kuznetsova,Anabel Medina Garrigues,6-3 6-4,1.50,5.7%,1.9%,56.6%,70.0%,60.9%,0.0% (0/2),57.8%,50.8%,0.0%,45.2%,61.9%,44.4% (4/9),
 3-Apr-2006,Amelia Island,3,Clay,R32,10,32,1,5,,Svetlana Kuznetsova,Sofia Arvidsson,6-1 5-7 6-2,1.12,4.3%,1.1%,59.8%,67.3%,51.4%,75.0% (6/8),52.5%,43.7%,1.1%,33.9%,61.3%,55.6% (5/9),
-20-Mar-2006,Miami,3,Hard,F,14,4,1,12,4,Svetlana Kuznetsova,Maria Sharapova,6-4 6-3 (ch),1.24,6.9%,0.0%,63.8%,62.2%,61.9%,50.0% (2/4),54.0%,47.1%,2.9%,38.6%,62.5%,50.0% (4/8),
+20-Mar-2006,Miami,3,Hard,F,14,4,1,12,4,Svetlana Kuznetsova,Maria Sharapova,6-4 6-3,1.24,6.9%,0.0%,63.8%,62.2%,61.9%,50.0% (2/4),54.0%,47.1%,2.9%,38.6%,62.5%,50.0% (4/8),
 20-Mar-2006,Miami,3,Hard,SF,14,1,1,12,1,Svetlana Kuznetsova,Amelie Mauresmo,6-1 6-4,1.47,0.0%,0.0%,59.3%,74.3%,58.3%,100.0% (3/3),57.8%,47.4%,3.5%,38.9%,61.9%,37.5% (3/8),
 20-Mar-2006,Miami,3,Hard,QF,14,23,1,12,21,Svetlana Kuznetsova,Ai Sugiyama,6-0 7-6(4),1.34,4.1%,1.4%,66.2%,59.2%,52.0%,60.0% (3/5),57.3%,57.9%,0.0%,46.4%,69.0%,71.4% (5/7),
 20-Mar-2006,Miami,3,Hard,R16,14,9,1,12,7,Svetlana Kuznetsova,Patty Schnyder,W/O,,,,,,,,,,,,,,
@@ -814,7 +814,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Oct-2004,Filderstadt,3,Hard,SF,5,1,0,4,1,Amelie Mauresmo,Svetlana Kuznetsova,7-5 6-4,,,,,,,,,,,,,,
 4-Oct-2004,Filderstadt,3,Hard,QF,5,25,1,4,Q,Svetlana Kuznetsova,Fabiola Zuluaga,6-4 6-1,,,,,,,,,,,,,,
 4-Oct-2004,Filderstadt,3,Hard,R16,5,17,1,4,,Svetlana Kuznetsova,Elena Bovina,7-5 6-4,,,,,,,,,,,,,,
-20-Sep-2004,Beijing,3,Hard,F,5,10,0,2,1,Serena Williams,Svetlana Kuznetsova,4-6 7-5 6-4 (ch),,,,,,,,,,,,,,
+20-Sep-2004,Beijing,3,Hard,F,5,10,0,2,1,Serena Williams,Svetlana Kuznetsova,4-6 7-5 6-4,,,,,,,,,,,,,,
 20-Sep-2004,Beijing,3,Hard,SF,5,9,1,2,3,Svetlana Kuznetsova,Maria Sharapova,6-2 6-2,,,,,,,,,,,,,,
 20-Sep-2004,Beijing,3,Hard,QF,5,34,1,2,6,Svetlana Kuznetsova,Gisela Dulko,6-4 6-2,,,,,,,,,,,,,,
 20-Sep-2004,Beijing,3,Hard,R16,5,193,1,2,Q,Svetlana Kuznetsova,Na Li,6-3 6-7(6) 7-6(3),,,,,,,,,,,,,,
@@ -822,7 +822,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Sep-2004,Bali,3,Hard,SF,6,13,1,2,4,Svetlana Kuznetsova,Nadia Petrova,6-7(1) 6-1 6-2,,,,,,,,,,,,,,
 13-Sep-2004,Bali,3,Hard,QF,6,144,1,2,WC,Svetlana Kuznetsova,Angelique Widjaja,7-5 6-1,,,,,,,,,,,,,,
 13-Sep-2004,Bali,3,Hard,R16,6,86,1,2,Q,Svetlana Kuznetsova,Samantha Stosur,6-4 6-4,,,,,,,,,,,,,,
-30-Aug-2004,US Open,5,Hard,F,9,6,1,9,6,Svetlana Kuznetsova,Elena Dementieva,6-3 7-5 (ch),1.37,5.6%,0.0%,55.6%,63.3%,62.5%,0.0% (0/3),56.0%,50.7%,0.0%,45.1%,65.0%,50.0% (5/10),
+30-Aug-2004,US Open,5,Hard,F,9,6,1,9,6,Svetlana Kuznetsova,Elena Dementieva,6-3 7-5,1.37,5.6%,0.0%,55.6%,63.3%,62.5%,0.0% (0/3),56.0%,50.7%,0.0%,45.1%,65.0%,50.0% (5/10),
 30-Aug-2004,US Open,5,Hard,SF,9,4,1,9,5,Svetlana Kuznetsova,Lindsay Davenport,1-6 6-2 6-4,1.06,10.3%,4.4%,58.8%,72.5%,46.4%,20.0% (1/5),50.7%,40.5%,9.5%,32.7%,59.1%,66.7% (4/6),
 30-Aug-2004,US Open,5,Hard,QF,9,14,1,9,14,Svetlana Kuznetsova,Nadia Petrova,7-6(4) 6-3,1.01,4.9%,3.7%,61.7%,64.0%,61.3%,75.0% (3/4),51.7%,37.5%,4.7%,31.4%,44.8%,100.0% (2/2),
 30-Aug-2004,US Open,5,Hard,R16,9,29,1,9,27,Svetlana Kuznetsova,Mary Pierce,7-6(5) 6-2,1.82,20.6%,1.6%,65.1%,82.9%,72.7%,100.0% (1/1),57.0%,37.5%,5.6%,29.8%,52.0%,33.3% (2/6),

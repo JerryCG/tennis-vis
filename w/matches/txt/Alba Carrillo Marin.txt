@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 31-Jan-2022,W25 Manacor,3,Hard,R32,629,194,0,WC,4,Kurumi Nara,Alba Carrillo Marin,6-2 6-1,,,,,,,,,,,,,,
 1-Nov-2021,W15 Castellon,3,Clay,R16,619,810,0,3,,Emily Seibold,Alba Carrillo Marin,6-7(6) 7-6(4) 6-2,,,,,,,,,,,,,,
 1-Nov-2021,W15 Castellon,3,Clay,R32,619,,1,3,Q,Alba Carrillo Marin,Naia Mercadier,6-2 6-2,,,,,,,,,,,,,,
@@ -41,7 +41,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Mar-2021,W25 Manacor,3,Hard,Q2,548,,1,13,,Alba Carrillo Marin,Nataly Miroslavova Ninova,6-2 6-0,,,,,,,,,,,,,,
 8-Feb-2021,W15 Villena,3,Hard,R32,543,1027,0,7,Q,Leolia Jeanjean,Alba Carrillo Marin,7-5 6-1,,,,,,,,,,,,,,
 1-Feb-2021,W15 Manacor,3,Hard,R32,542,999,0,,,Victoria Jimenez Kasintseva,Alba Carrillo Marin,6-2 6-2,,,,,,,,,,,,,,
-25-Jan-2021,W15 Manacor,3,Hard,R16,547,1190,0,,,Alexandra Eala,Alba Carrillo Marin,6-2 6-3 (ch),,,,,,,,,,,,,,
+25-Jan-2021,W15 Manacor,3,Hard,R16,547,1190,0,,,Alexandra Eala,Alba Carrillo Marin,6-2 6-3,,,,,,,,,,,,,,
 25-Jan-2021,W15 Manacor,3,Hard,R32,547,1332,1,,Q,Alba Carrillo Marin,Lena Rueffer,6-3 3-6 6-4,,,,,,,,,,,,,,
 18-Jan-2021,W15 Manacor,3,Hard,R16,547,403,0,,5,Carole Monnet,Alba Carrillo Marin,6-3 6-1,,,,,,,,,,,,,,
 18-Jan-2021,W15 Manacor,3,Hard,R32,547,452,1,,,Alba Carrillo Marin,Miriam Kolodziejova,7-5 6-4,,,,,,,,,,,,,,

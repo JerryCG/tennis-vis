@@ -1,4 +1,84 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W75 Grado,3,Clay,R16,345,,0,,4,Anastasiya Konstantinovna Soboleva,Susan Bandecchi,7-6(5) 6-4,,,,,,,,,,,,,,
+20-May-2024,W75 Grado,3,Clay,R32,345,446,1,,SE,Susan Bandecchi,Tatiana Pieri,6-3 6-3,,,,,,,,,,,,,,
+13-May-2024,Parma 125,3,Clay,R16,371,80,0,Q,8,Mayar Sherif,Susan Bandecchi,6-3 7-5,0.74,0.0%,0.0%,60.3%,58.5%,55.6%,33.3% (2/6),45.6%,31.6%,5.3%,27.7%,50.0%,25.0% (1/4),1:36
+13-May-2024,Parma 125,3,Clay,R32,371,172,1,Q,,Susan Bandecchi,Ekaterina Makarova,6-4 6-1,1.31,1.4%,1.4%,65.7%,56.5%,62.5%,77.8% (7/9),56.5%,54.1%,0.0%,46.8%,78.6%,62.5% (5/8),1:28
+29-Apr-2024,W35 Hammamet,3,Clay,R16,,492,0,4,,Zhibek Kulambayeva,Susan Bandecchi,6-3 1-6 7-6(4),,,,,,,,,,,,,,
+29-Apr-2024,W35 Hammamet,3,Clay,R32,,557,1,4,,Susan Bandecchi,Fiona Ganz,6-2 5-7 6-0,,,,,,,,,,,,,,
+15-Apr-2024,W75 Chiasso,3,Clay,R16,376,86,0,WC,1,Kayla Day,Susan Bandecchi,7-6(5) 5-7 7-5,,,,,,,,,,,,,,
+15-Apr-2024,W75 Chiasso,3,Clay,R32,376,384,1,WC,,Susan Bandecchi,Nika Radisic,6-1 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,QF,405,114,0,WC,3,Anna Bondar,Susan Bandecchi,6-4 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R16,405,153,1,WC,6,Susan Bandecchi,Panna Udvardy,2-6 6-3 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R32,405,205,1,WC,,Susan Bandecchi,Julia Avdeeva,6-4 6-0,,,,,,,,,,,,,,
+1-Apr-2024,W35 Hammamet,3,Clay,R16,406,512,0,8,,Ekaterina Reyngold,Susan Bandecchi,6-2 3-6 6-3,,,,,,,,,,,,,,
+1-Apr-2024,W35 Hammamet,3,Clay,R32,406,956,1,8,,Susan Bandecchi,Elena Korokozidi,6-3 3-6 6-4,,,,,,,,,,,,,,
+11-Mar-2024,W35 Santo Domingo,3,Hard,R32,378,290,0,,10,Leyre Romero Gormaz,Susan Bandecchi,6-4 6-2,,,,,,,,,,,,,,
+11-Mar-2024,W35 Santo Domingo,3,Hard,R64,378,697,1,,,Susan Bandecchi,Yuliana Monroy,4-6 6-2 6-3,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R16,378,331,0,,16,Maya Joint,Susan Bandecchi,6-3 7-5,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R32,378,697,1,,LL,Susan Bandecchi,Yuliana Monroy,6-2 6-0,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R64,378,705,1,,Q,Susan Bandecchi,Victoria Osuigwe,6-4 5-7 6-3,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R32,378,177,0,Q,,Celine Naef,Susan Bandecchi,6-1 6-2,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,Q2,378,285,1,10,5,Susan Bandecchi,Mona Barthel,6-3 3-6 6-0,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R32,379,421,0,LL,Q,Kathleen Kanev,Susan Bandecchi,6-1 7-6(3),,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,Q2,379,499,0,5,14,Iva Primorac,Susan Bandecchi,6-7(6) 6-2 7-5,,,,,,,,,,,,,,
+11-Dec-2023,Limoges 125,3,Hard,R32,334,221,0,Q,,Nigina Abduraimova,Susan Bandecchi,6-4 3-1 RET,0.77,0.0%,3.3%,63.3%,60.5%,50.0%,77.8% (7/9),45.6%,33.3%,3.7%,33.3%,33.3%,0.0% (0/7),1:21
+4-Dec-2023,Angers 125,3,Hard,R32,331,48,0,,1,Elisabetta Cocciaretto,Susan Bandecchi,6-1 3-6 6-1,0.70,1.3%,6.3%,61.3%,59.2%,41.9%,37.5% (3/8),43.6%,33.3%,2.9%,26.1%,47.8%,50.0% (2/4),1:51
+27-Nov-2023,Andorra 125,3,Hard,R32,331,140,0,,,Erika Andreeva,Susan Bandecchi,6-3 6-4,0.77,1.9%,1.9%,62.3%,45.5%,45.0%,37.5% (3/8),43.6%,42.2%,1.6%,33.3%,68.8%,37.5% (3/8),1:31
+20-Nov-2023,W25 Ortisei,3,Hard,R32,329,521,0,7,,Caijsa Wilda Hennemann,Susan Bandecchi,3-6 6-3 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,SF,365,347,0,,7,Maria Bondarenko,Susan Bandecchi,6-4 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,QF,365,696,1,,Q,Susan Bandecchi,Eliessa Vanlangendonck,6-3 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,R16,365,518,1,,,Susan Bandecchi,Zhibek Kulambayeva,6-1 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,R32,365,492,1,,,Susan Bandecchi,Yasmine Mansouri,6-2 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R16,365,154,0,WC,,Dalma Galfi,Susan Bandecchi,6-2 2-6 6-2,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,365,122,1,WC,8,Susan Bandecchi,Alize Cornet,3-6 6-1 6-4,,,,,,,,,,,,,,
+16-Oct-2023,Cluj Napoca,3,Hard,Q2,392,213,0,,3,Ekaterina Makarova,Susan Bandecchi,7-5 7-5,0.86,1.1%,0.0%,69.0%,55.0%,44.4%,57.1% (8/14),47.4%,41.5%,3.1%,28.9%,70.0%,80.0% (4/5),1:54
+16-Oct-2023,Cluj Napoca,3,Hard,Q1,392,237,1,,5,Susan Bandecchi,Valentini Grammatikopoulou,6-3 4-6 7-5,1.07,2.5%,1.7%,74.2%,55.1%,61.3%,73.7% (14/19),52.0%,46.5%,1.0%,37.3%,64.7%,66.7% (6/9),2:46
+2-Oct-2023,W25 Baza,3,Hard,QF,402,300,0,,7,Lea Boskovic,Susan Bandecchi,7-6(5) 6-3,,,,,,,,,,,,,,
+2-Oct-2023,W25 Baza,3,Hard,R16,402,875,1,,Q,Susan Bandecchi,Gyeong Seo Lee,7-5 2-6 7-5,,,,,,,,,,,,,,
+2-Oct-2023,W25 Baza,3,Hard,R32,402,165,1,,2,Susan Bandecchi,Arina Rodionova,6-3 5-7 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R32,413,135,0,Q,2,Nuria Parrizas Diaz,Susan Bandecchi,6-4 5-7 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,Q2,413,443,1,7,9,Susan Bandecchi,Eva Guerrero Alvarez,6-4 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W25 Leiria,3,Hard,R16,418,698,0,,Q,Marina Melnikova,Susan Bandecchi,1-6 7-6(3) 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W25 Leiria,3,Hard,R32,418,291,1,,5,Susan Bandecchi,Lea Boskovic,6-3 6-3,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,QF,429,263,0,,3,Lesley Pattinama Kerkhove,Susan Bandecchi,7-5 2-6 7-5,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,R16,429,307,1,,5,Susan Bandecchi,Alexandra Bozovic,6-1 7-6(1),,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,R32,429,353,1,,,Susan Bandecchi,Lina Glushko,6-2 6-3,,,,,,,,,,,,,,
+7-Aug-2023,Kozerki 125,3,Hard,R16,453,112,0,,4,Greet Minnen,Susan Bandecchi,6-2 6-2,0.71,3.1%,6.3%,53.1%,58.8%,33.3%,58.3% (7/12),42.6%,37.9%,5.2%,43.2%,28.6%,25.0% (1/4),1:27
+7-Aug-2023,Kozerki 125,3,Hard,R32,453,228,1,,,Susan Bandecchi,Lucie Havlickova,7-6(4) 7-5,1.05,4.8%,2.4%,67.9%,63.2%,40.7%,55.6% (5/9),51.2%,46.3%,5.0%,43.1%,51.7%,41.7% (5/12),1:56
+31-Jul-2023,W60 Barcelona,3,Hard,R32,453,659,0,,Q,Emilie Lindh Gallagher,Susan Bandecchi,6-3 6-4,,,,,,,,,,,,,,
+24-Jul-2023,Lausanne,3,Clay,R32,454,87,0,WC,,Sara Sorribes Tormo,Susan Bandecchi,6-2 6-1,0.61,0.0%,0.0%,74.4%,37.5%,54.5%,37.5% (3/8),38.1%,35.2%,0.0%,25.6%,60.0%,100.0% (1/1),1:19
+3-Jul-2023,Wimbledon,5,Grass,Q1,371,142,0,,31,Maria Lourdes Carle,Susan Bandecchi,4-6 6-1 6-2,0.78,0.0%,1.1%,74.7%,44.6%,36.4%,50.0% (9/18),43.6%,44.9%,0.0%,44.7%,45.5%,71.4% (5/7),1:56
+19-Jun-2023,Berlin,3,Grass,Q2,388,139,0,,8,Polina Kudermetova,Susan Bandecchi,5-7 6-2 6-4,0.87,9.8%,6.5%,75.0%,63.8%,56.5%,60.0% (6/10),47.1%,33.0%,7.2%,25.4%,47.1%,22.2% (2/9),1:58
+19-Jun-2023,Berlin,3,Grass,Q1,388,121,1,,4,Susan Bandecchi,Katie Volynets,6-3 6-4,1.28,10.3%,0.0%,86.8%,67.8%,44.4%,80.0% (4/5),55.3%,45.3%,1.6%,40.8%,60.0%,50.0% (3/6),1:28
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,388,144,0,Q,,Viktoria Hruncakova,Susan Bandecchi,6-4 6-2,0.81,1.3%,3.9%,56.6%,62.8%,39.4%,63.6% (7/11),45.9%,38.6%,11.4%,26.1%,62.5%,33.3% (1/3),1:37
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,388,173,1,,6,Susan Bandecchi,Mai Hontama,6-3 3-6 7-5,1.15,2.4%,4.8%,52.4%,65.9%,47.5%,45.5% (5/11),53.1%,49.5%,0.0%,47.5%,52.8%,46.7% (7/15),2:17
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,388,198,1,,7,Susan Bandecchi,Magali Kempen,6-7(5) 7-6(1) 6-4,1.07,5.7%,3.3%,55.3%,64.7%,43.6%,52.9% (9/17),51.7%,47.9%,1.7%,46.3%,51.4%,47.4% (9/19),2:41
+29-May-2023,W40 Otocec,3,Clay,R16,358,621,0,,Q,Oleksandra Oliynykova,Susan Bandecchi,6-4 6-2,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R32,358,298,1,,13,Susan Bandecchi,Dominika Salkova,6-2 6-2,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R64,358,500,1,,,Susan Bandecchi,Ya Yi Yang,6-2 7-5,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,358,226,0,,20,Kaja Juvan,Susan Bandecchi,6-4 6-4,0.76,0.0%,4.8%,53.2%,60.6%,55.2%,50.0% (3/6),45.1%,31.7%,3.3%,28.2%,38.1%,25.0% (1/4),
+15-May-2023,Florence 125,3,Clay,Q2,328,218,0,6,3,Ankita Raina,Susan Bandecchi,7-6(3) 6-2,0.81,1.3%,3.9%,68.8%,47.2%,33.3%,56.3% (9/16),44.5%,46.4%,1.4%,44.7%,50.0%,62.5% (5/8),2:00
+15-May-2023,Florence 125,3,Clay,Q1,328,441,1,6,,Susan Bandecchi,Yuliana Lizarazo,7-5 6-4,1.21,1.3%,5.0%,65.0%,69.2%,46.4%,77.8% (7/9),54.9%,46.8%,6.5%,40.0%,55.6%,66.7% (4/6),1:52
+8-May-2023,W25 Platja D'Aro,3,Clay,R32,328,224,0,,4,Carolina Alves,Susan Bandecchi,6-3 1-6 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,Q1,325,894,0,5,,Allie Kiick,Susan Bandecchi,6-2 7-5,,,,,,,,,,,,,,
+17-Apr-2023,W25 Zephyrhills FL,3,Clay,QF,320,387,0,3,5,Hanna Chang,Susan Bandecchi,6-3 6-0,,,,,,,,,,,,,,
+17-Apr-2023,W25 Zephyrhills FL,3,Clay,R16,320,,1,3,WC,Susan Bandecchi,Shannon Lam,6-2 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W25 Zephyrhills FL,3,Clay,R32,320,593,1,3,,Susan Bandecchi,Katarina Jokic,6-3 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,Q1,310,986,0,2,WC,Katherine Hui,Susan Bandecchi,6-2 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W40 Murska Sobota,3,Hard,R32,310,148,0,SR,2,Harriet Dart,Susan Bandecchi,6-1 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,Q2,320,369,0,4,12,Hina Inoue,Susan Bandecchi,6-2 3-6 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W25 Joue les Tours,3,Hard,SF,319,331,0,,,Zhuoxuan Bai,Susan Bandecchi,6-4 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W25 Joue les Tours,3,Hard,QF,319,211,1,,2,Susan Bandecchi,Katharina Hobgarski,4-6 6-2 6-1,,,,,,,,,,,,,,
+27-Feb-2023,W25 Joue les Tours,3,Hard,R16,319,246,1,,6,Susan Bandecchi,Yuki Naito,7-6(5) 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W25 Joue les Tours,3,Hard,R32,319,444,1,,Q,Susan Bandecchi,Oceane Babel,6-1 6-4,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,304,129,0,SR,3,Viktoria Hruncakova,Susan Bandecchi,7-5 6-4,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,SF,335,323,0,Q,JE,Celine Naef,Susan Bandecchi,6-1 7-6(4),,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,QF,335,239,1,Q,,Susan Bandecchi,Ekaterine Gorgodze,3-6 6-1 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R16,335,179,1,Q,8,Susan Bandecchi,Alexandra Cadantu Ignatik,W/O,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,335,190,1,Q,,Susan Bandecchi,Tara Wurth,2-6 6-4 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,Q2,335,804,1,4,,Susan Bandecchi,Marie Villet,6-4 6-1,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R16,,,0,,6,Daria Snigur,Susan Bandecchi,6-3 6-3,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R32,,804,1,,Q,Susan Bandecchi,Chloe Noel,6-2 6-2,,,,,,,,,,,,,,
 18-Jul-2022,W60 Vitoria-Gasteiz,3,Hard,QF,205,341,0,5,,Eva Guerrero Alvarez,Susan Bandecchi,3-2 RET,,,,,,,,,,,,,,
 18-Jul-2022,W60 Vitoria-Gasteiz,3,Hard,R16,205,,1,5,WC,Susan Bandecchi,Carolina Gomez,6-1 7-6(1),,,,,,,,,,,,,,
 18-Jul-2022,W60 Vitoria-Gasteiz,3,Hard,R32,205,515,1,5,Q,Susan Bandecchi,Celia Cervino Ruiz,7-6(4) 7-5,,,,,,,,,,,,,,
@@ -9,8 +89,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jun-2022,Gaiba 125,3,Grass,R32,223,969,1,,WC,Susan Bandecchi,Matilde Paoletti,6-3 6-7(5) 6-4,1.13,1.9%,9.6%,54.8%,63.2%,48.9%,37.5% (3/8),52.8%,49.1%,2.7%,50.7%,46.3%,29.2% (7/24),2:35
 6-Jun-2022,s Hertogenbosch,3,Grass,Q2,219,227,0,,12,Jamie Loeb,Susan Bandecchi,6-3 4-6 6-4,0.82,6.2%,7.2%,67.0%,61.5%,53.1%,33.3% (2/6),46.8%,33.7%,4.5%,30.4%,37.2%,22.2% (2/9),2:18
 6-Jun-2022,s Hertogenbosch,3,Grass,Q1,219,168,1,,2,Susan Bandecchi,Mariam Bolkvadze,6-3 7-6(3),1.09,7.8%,6.7%,63.3%,59.6%,48.5%,66.7% (8/12),52.6%,48.5%,0.0%,50.0%,44.4%,62.5% (5/8),1:47
-23-May-2022,Roland Garros,5,Clay,Q2,218,120,0,,15,Mihaela Buzarnescu,Susan Bandecchi,6-3 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,218,222,1,,,Susan Bandecchi,Ellen Perez,6-4 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,218,120,0,,15,Mihaela Buzarnescu,Susan Bandecchi,6-3 6-3,0.64,1.5%,7.4%,73.5%,56.0%,33.3%,60.0% (6/10),42.1%,32.1%,1.9%,26.8%,50.0%,50.0% (1/2),
+23-May-2022,Roland Garros,5,Clay,Q1,218,222,1,,,Susan Bandecchi,Ellen Perez,6-4 6-2,1.29,3.4%,5.1%,89.8%,60.4%,50.0%,33.3% (1/3),55.7%,52.4%,6.3%,45.5%,100.0%,38.5% (5/13),
 9-May-2022,Rome,3,Clay,Q2,198,47,0,,7,Petra Martic,Susan Bandecchi,6-4 6-3,0.68,1.8%,1.8%,76.4%,52.4%,30.8%,16.7% (1/6),41.9%,36.0%,6.0%,25.0%,55.6%,66.7% (2/3),1:22
 9-May-2022,Rome,3,Clay,Q1,198,97,1,,14,Susan Bandecchi,Misaki Doi,6-4 3-6 6-3,1.00,2.2%,1.1%,77.2%,57.7%,57.1%,54.5% (6/11),50.6%,42.5%,1.3%,37.7%,51.9%,50.0% (6/12),2:16
 2-May-2022,W60 Prague,3,Clay,R16,194,277,0,,WC,Miriam Kolodziejova,Susan Bandecchi,7-5 6-3,,,,,,,,,,,,,,
@@ -61,17 +141,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-May-2021,W25 Grado,3,Clay,QF,220,179,0,8,4,Cagla Buyukakcay,Susan Bandecchi,W/O,,,,,,,,,,,,,,
 31-May-2021,W25 Grado,3,Clay,R16,220,428,1,8,Q,Susan Bandecchi,Cristiana Ferrando,6-0 7-5,,,,,,,,,,,,,,
 31-May-2021,W25 Grado,3,Clay,R32,220,565,1,8,Q,Susan Bandecchi,Elena Malygina,6-4 6-2,,,,,,,,,,,,,,
-31-May-2021,Roland Garros,5,Clay,Q3,220,161,0,,,Storm Sanders,Susan Bandecchi,7-5 7-5,0.82,2.4%,4.7%,67.1%,57.9%,39.3%,58.3% (7/12),45.8%,39.5%,3.7%,29.6%,59.3%,42.9% (3/7),1:48
-31-May-2021,Roland Garros,5,Clay,Q2,220,116,1,,10,Susan Bandecchi,Tsvetana Pironkova,6-4 2-6 6-3 (ch),1.04,0.0%,4.8%,64.3%,70.4%,33.3%,66.7% (8/12),50.3%,44.6%,3.0%,28.8%,61.2%,33.3% (5/15),2:07
+31-May-2021,Roland Garros,5,Clay,Q3,220,161,0,,,Storm Hunter,Susan Bandecchi,7-5 7-5,0.82,2.4%,4.7%,67.1%,57.9%,39.3%,58.3% (7/12),45.8%,39.5%,3.7%,29.6%,59.3%,42.9% (3/7),1:48
+31-May-2021,Roland Garros,5,Clay,Q2,220,116,1,,10,Susan Bandecchi,Tsvetana Pironkova,6-4 2-6 6-3,1.04,0.0%,4.8%,64.3%,70.4%,33.3%,66.7% (8/12),50.3%,44.6%,3.0%,28.8%,61.2%,33.3% (5/15),2:07
 31-May-2021,Roland Garros,5,Clay,Q1,220,177,1,,,Susan Bandecchi,Lesley Pattinama Kerkhove,7-6(5) 6-3,1.20,4.2%,2.8%,69.4%,62.0%,50.0%,63.6% (7/11),54.0%,50.0%,1.3%,42.9%,58.3%,42.9% (6/14),1:35
 10-May-2021,W25 Salinas,3,Hard,F,238,327,0,1,,Lucrezia Stefanini,Susan Bandecchi,6-1 6-3,,,,,,,,,,,,,,
 10-May-2021,W25 Salinas,3,Hard,SF,238,284,1,1,3,Susan Bandecchi,Conny Perrin,6-2 6-3,,,,,,,,,,,,,,
 10-May-2021,W25 Salinas,3,Hard,QF,238,338,1,1,,Susan Bandecchi,Mai Hontama,6-3 6-2,,,,,,,,,,,,,,
-10-May-2021,W25 Salinas,3,Hard,R16,238,398,1,1,,Susan Bandecchi,Maria Carle,3-6 6-3 6-4,,,,,,,,,,,,,,
+10-May-2021,W25 Salinas,3,Hard,R16,238,398,1,1,,Susan Bandecchi,Maria Lourdes Carle,3-6 6-3 6-4,,,,,,,,,,,,,,
 10-May-2021,W25 Salinas,3,Hard,R32,238,941,1,1,Q,Susan Bandecchi,Rasheeda Mcadoo,6-1 6-1,,,,,,,,,,,,,,
 3-May-2021,W25 Salinas,3,Hard,R16,236,343,0,2,,Mai Hontama,Susan Bandecchi,6-2 2-6 6-1,,,,,,,,,,,,,,
 3-May-2021,W25 Salinas,3,Hard,R32,236,426,1,2,,Susan Bandecchi,Magali Kempen,6-3 6-4,,,,,,,,,,,,,,
-12-Apr-2021,W25+H Calvi,3,Hard,F,261,226,0,3,1,Valeria Savinykh,Susan Bandecchi,6-1 6-4 (ch),,,,,,,,,,,,,,
+12-Apr-2021,W25+H Calvi,3,Hard,F,261,226,0,3,1,Valeria Savinykh,Susan Bandecchi,6-1 6-4,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,SF,261,358,1,3,,Susan Bandecchi,Lucrezia Stefanini,6-4 6-0,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,QF,261,292,1,3,5,Susan Bandecchi,Jessica Pieri,6-2 6-2,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,R16,261,596,1,3,LL,Susan Bandecchi,Tess Sugnaux,6-3 6-4,,,,,,,,,,,,,,
@@ -93,7 +173,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,R32,284,107,0,Q,1,Oceane Dodin,Susan Bandecchi,6-3 6-3,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q2,284,209,1,15,4,Susan Bandecchi,Jana Fett,6-4 7-5,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q1,284,364,1,15,,Susan Bandecchi,Marina Bassols Ribera,6-2 6-1,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,279,630,0,,Q,Ekaterina Yashina,Susan Bandecchi,7-5 7-6(9),,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,279,630,0,,Q,Ekaterina Yashina,Susan Bandecchi,7-5 7-6(9),,,,,,,,,,,,,,
 14-Dec-2020,W25 Selva Gardena,3,Hard,SF,288,325,0,,Q,Qinwen Zheng,Susan Bandecchi,6-2 6-4,,,,,,,,,,,,,,
 14-Dec-2020,W25 Selva Gardena,3,Hard,QF,288,260,1,,,Susan Bandecchi,Tena Lukas,6-3 7-5,,,,,,,,,,,,,,

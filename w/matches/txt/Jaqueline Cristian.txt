@@ -1,8 +1,130 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,Rome,3,Clay,R32,68,3,0,LL,3,Coco Gauff,Jaqueline Cristian,6-1 0-6 6-3,0.93,3.8%,5.1%,44.9%,57.1%,51.2%,69.2% (9/13),48.2%,43.0%,1.2%,27.3%,59.5%,30.0% (3/10),2:04
+6-May-2024,Rome,3,Clay,R64,68,72,1,LL,,Jaqueline Cristian,Elina Avanesyan,5-7 6-2 6-2,1.28,3.9%,2.9%,60.8%,67.7%,47.5%,76.5% (13/17),55.4%,51.4%,0.9%,48.6%,56.8%,43.8% (7/16),2:50
+6-May-2024,Rome,3,Clay,Q2,68,88,0,1,13,Varvara Gracheva,Jaqueline Cristian,3-6 6-2 6-3,0.85,4.4%,4.4%,47.8%,67.4%,38.3%,44.4% (4/9),46.2%,40.6%,0.0%,39.3%,42.9%,23.1% (3/13),2:31
+6-May-2024,Rome,3,Clay,Q1,68,106,1,1,,Jaqueline Cristian,Hailey Baptiste,4-6 7-5 6-3,1.03,1.0%,2.9%,55.9%,66.7%,51.1%,75.0% (9/12),51.3%,41.4%,5.7%,32.7%,52.6%,71.4% (5/7),2:33
+22-Apr-2024,Madrid,3,Clay,R32,73,15,0,Q,13,Danielle Collins,Jaqueline Cristian,3-6 6-4 6-1,0.91,5.1%,2.5%,65.8%,73.1%,44.4%,50.0% (3/6),48.4%,33.3%,10.3%,24.0%,50.0%,50.0% (1/2),2:01
+22-Apr-2024,Madrid,3,Clay,R64,73,27,1,Q,22,Jaqueline Cristian,Barbora Krejcikova,2-6 6-0 6-2,1.15,4.4%,5.9%,61.8%,64.3%,42.3%,55.6% (5/9),53.1%,50.7%,2.7%,27.8%,71.8%,53.8% (7/13),2:06
+22-Apr-2024,Madrid,3,Clay,R128,73,51,1,Q,,Jaqueline Cristian,Magdalena Frech,7-5 6-2,1.33,3.1%,6.2%,44.6%,82.8%,41.7%,70.0% (7/10),56.6%,53.1%,1.6%,48.7%,60.0%,60.0% (6/10),1:40
+22-Apr-2024,Madrid,3,Clay,Q2,73,96,1,4,16,Jaqueline Cristian,Daria Saville,6-4 2-6 6-2,1.06,3.7%,4.9%,50.6%,63.4%,45.0%,44.4% (4/9),51.1%,48.4%,0.0%,43.9%,58.6%,46.2% (6/13),2:31
+22-Apr-2024,Madrid,3,Clay,Q1,73,119,1,4,,Jaqueline Cristian,Mccartney Kessler,7-6(4) 6-4,1.15,4.6%,3.1%,66.2%,72.1%,59.1%,85.7% (6/7),51.9%,37.1%,0.0%,21.2%,51.4%,40.0% (2/5),1:46
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,75,18,0,,,Elina Svitolina,Jaqueline Cristian,6-3 7-5,0.84,1.4%,1.4%,53.5%,57.9%,39.4%,50.0% (6/12),46.2%,42.6%,0.0%,36.1%,52.0%,23.1% (3/13),
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,75,42,1,,,Jaqueline Cristian,Lesia Tsurenko,2-6 6-4 6-4,0.95,2.0%,6.9%,63.7%,56.9%,43.2%,64.7% (11/17),49.2%,45.8%,0.0%,38.2%,60.7%,54.5% (6/11),
+1-Apr-2024,Charleston,3,Clay,QF,83,11,0,,4,Daria Kasatkina,Jaqueline Cristian,6-7(4) 6-2 6-3,0.89,0.0%,3.7%,52.8%,59.6%,33.3%,50.0% (10/20),47.1%,46.9%,2.1%,43.5%,52.9%,46.2% (6/13),2:42
+1-Apr-2024,Charleston,3,Clay,R16,83,20,1,,10,Jaqueline Cristian,Emma Navarro,6-3 5-7 6-1,1.30,3.5%,8.1%,58.1%,74.0%,52.8%,66.7% (4/6),54.1%,45.4%,0.9%,41.1%,54.3%,38.5% (5/13),2:27
+1-Apr-2024,Charleston,3,Clay,R32,83,18,1,,8,Jaqueline Cristian,Madison Keys,3-6 6-3 6-3,1.07,0.0%,5.8%,52.3%,66.7%,48.8%,50.0% (4/8),51.5%,44.7%,9.4%,41.1%,51.7%,40.0% (6/15),2:02
+1-Apr-2024,Charleston,3,Clay,R64,83,132,1,,Q,Jaqueline Cristian,Sachia Vickery,6-1 6-4,1.31,2.8%,1.4%,63.9%,60.9%,57.7%,80.0% (8/10),56.6%,52.6%,1.8%,48.1%,56.7%,45.5% (5/11),1:35
+18-Mar-2024,Miami,3,Hard,R128,82,54,0,,,Diane Parry,Jaqueline Cristian,7-6(2) 6-2,0.74,4.6%,1.5%,56.9%,64.9%,42.9%,57.1% (4/7),43.9%,32.8%,4.5%,25.0%,40.0%,33.3% (1/3),1:45
+11-Mar-2024,Charleston 125,3,Hard,R16,82,74,0,,7,Diana Shnaider,Jaqueline Cristian,6-1 7-5,0.64,3.4%,8.5%,54.2%,65.6%,33.3%,33.3% (2/6),41.2%,31.7%,1.7%,19.0%,61.1%,20.0% (1/5),1:14
+11-Mar-2024,Charleston 125,3,Hard,R32,82,140,1,,Q,Jaqueline Cristian,Olivia Gadecki,6-2 3-6 6-3,1.21,2.3%,5.7%,48.9%,69.8%,51.1%,62.5% (5/8),54.7%,47.9%,2.7%,45.2%,51.6%,83.3% (5/6),1:50
+6-Mar-2024,Indian Wells,3,Hard,Q1,82,124,0,1,,Storm Hunter,Jaqueline Cristian,6-3 7-5,0.65,6.0%,8.3%,54.8%,69.6%,34.2%,44.4% (4/9),44.5%,30.2%,1.9%,21.2%,45.0%,33.3% (2/6),1:33
+19-Feb-2024,Dubai,3,Hard,Q1,75,151,0,12,,Eva Lys,Jaqueline Cristian,3-6 7-6(3) 6-2,0.93,5.3%,5.3%,61.1%,60.3%,35.1%,50.0% (7/14),48.0%,45.9%,0.9%,41.7%,54.1%,50.0% (7/14),2:21
+5-Feb-2024,Cluj-Napoca,3,Hard,SF,81,65,0,,8,Ana Bogdan,Jaqueline Cristian,6-3 3-6 6-4,1.02,5.3%,4.3%,53.2%,76.0%,45.5%,69.2% (9/13),50.5%,39.1%,6.5%,34.5%,47.1%,27.3% (3/11),2:53
+5-Feb-2024,Cluj-Napoca,3,Hard,QF,81,656,1,,,Jaqueline Cristian,Anastasija Sevastova,6-3 7-5,1.16,8.8%,5.9%,69.1%,66.0%,33.3%,70.0% (7/10),53.5%,51.4%,0.0%,50.0%,57.1%,75.0% (6/8),1:38
+5-Feb-2024,Cluj-Napoca,3,Hard,R16,81,80,1,,,Jaqueline Cristian,Clara Tauson,6-4 6-0,1.85,8.2%,4.1%,65.3%,84.4%,52.9%,100.0% (2/2),60.6%,49.1%,3.6%,36.7%,64.0%,40.0% (4/10),1:21
+5-Feb-2024,Cluj-Napoca,3,Hard,R32,81,105,1,,LL,Jaqueline Cristian,Marina Bassols Ribera,6-3 6-2,2.22,7.8%,3.9%,54.9%,82.1%,73.9%,100.0% (4/4),63.6%,47.9%,2.1%,47.6%,48.1%,42.9% (3/7),1:18
+29-Jan-2024,Linz,3,Hard,R16,89,102,0,LL,Q,Jodie Burrage,Jaqueline Cristian,6-3 7-6(5),0.86,3.2%,3.2%,68.3%,76.7%,30.0%,40.0% (2/5),46.6%,32.9%,10.0%,22.9%,54.5%,25.0% (1/4),1:34
+29-Jan-2024,Linz,3,Hard,R32,89,67,1,LL,,Jaqueline Cristian,Nadia Podoroska,6-3 6-4,1.53,1.9%,0.0%,64.2%,73.5%,57.9%,33.3% (1/3),58.0%,49.2%,1.7%,39.0%,72.2%,66.7% (4/6),1:28
+29-Jan-2024,Linz,3,Hard,Q2,89,91,0,5,7,Clara Tauson,Jaqueline Cristian,6-2 6-0,0.43,5.1%,12.8%,66.7%,42.3%,30.8%,37.5% (3/8),32.1%,26.7%,20.0%,15.4%,42.1%,- (0/0),0:56
+29-Jan-2024,Linz,3,Hard,Q1,89,171,1,5,,Jaqueline Cristian,Caty Mcnally,6-3 6-3,1.20,2.9%,2.9%,59.4%,58.5%,53.6%,81.8% (9/11),54.7%,52.1%,0.0%,46.7%,61.1%,100.0% (5/5),1:29
+15-Jan-2024,Australian Open,5,Hard,R128,83,49,0,,,Katerina Siniakova,Jaqueline Cristian,6-2 7-5,0.71,3.4%,5.2%,55.2%,53.1%,26.9%,33.3% (3/9),41.6%,41.8%,6.0%,26.2%,68.0%,37.5% (3/8),1:27
+8-Jan-2024,Hobart,3,Hard,Q1,84,117,0,11,,Kimberly Birrell,Jaqueline Cristian,6-4 6-4,0.68,5.4%,3.6%,60.7%,52.9%,54.5%,42.9% (3/7),42.2%,31.7%,1.7%,20.5%,52.4%,33.3% (2/6),1:23
+1-Jan-2024,Auckland,3,Hard,R32,87,71,0,,,Xiyu Wang,Jaqueline Cristian,6-1 5-7 7-6(3),0.83,1.9%,9.7%,48.5%,80.0%,39.6%,60.0% (6/10),46.8%,34.0%,5.0%,30.1%,44.4%,25.0% (2/8),2:47
+20-Nov-2023,W100 Valencia,3,Clay,F,101,98,0,3,2,Viktoriya Tomova,Jaqueline Cristian,7-5 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,SF,101,205,1,3,,Jaqueline Cristian,Katarzyna Kawa,6-0 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,QF,101,130,1,3,6,Jaqueline Cristian,Rebecca Sramkova,6-1 3-0 RET,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R16,101,615,1,3,SR,Jaqueline Cristian,Irina Fetecau,6-2 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R32,101,643,1,3,Q,Jaqueline Cristian,Maria Jose Portillo Ramirez,6-1 6-1,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R32,98,244,0,2,,Julia Avdeeva,Jaqueline Cristian,7-6(3) 4-6 6-3,,,,,,,,,,,,,,
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,98,276,1,,,Jaqueline Cristian,Lola Radivojevic,7-5 4-6 7-5,,,,,,,,,,,,,,
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,98,689,1,,,Jaqueline Cristian,Aleksandra Krunic,7-5 6-4,0.99,6.3%,7.6%,48.1%,84.2%,34.1%,66.7% (4/6),50.7%,41.3%,3.2%,30.6%,55.6%,50.0% (4/8),
+16-Oct-2023,Cluj Napoca,3,Hard,R16,97,133,0,,,Eva Lys,Jaqueline Cristian,2-6 7-5 6-2,1.02,5.7%,3.8%,66.7%,60.0%,42.9%,50.0% (6/12),50.5%,46.6%,0.0%,43.2%,55.2%,41.7% (5/12),2:38
+16-Oct-2023,Cluj Napoca,3,Hard,R32,97,121,1,,,Jaqueline Cristian,Celine Naef,6-4 6-4,1.10,1.4%,4.2%,53.5%,78.9%,51.5%,100.0% (2/2),53.1%,37.3%,0.0%,27.8%,52.2%,100.0% (2/2),1:38
+9-Oct-2023,Rouen 125,3,Hard,SF,100,105,0,7,9,Viktorija Golubic,Jaqueline Cristian,7-5 6-4,0.87,7.7%,3.1%,61.5%,65.0%,44.0%,55.6% (5/9),47.0%,37.7%,0.0%,38.6%,36.0%,33.3% (2/6),1:35
+9-Oct-2023,Rouen 125,3,Hard,QF,100,62,1,7,1,Jaqueline Cristian,Greet Minnen,6-4 6-3,1.24,10.2%,1.7%,61.0%,63.9%,56.5%,66.7% (6/9),54.6%,48.3%,5.0%,46.5%,52.9%,50.0% (5/10),1:21
+9-Oct-2023,Rouen 125,3,Hard,R16,100,122,1,7,,Jaqueline Cristian,Celine Naef,6-4 4-6 6-3,1.04,5.5%,5.5%,58.2%,66.0%,36.8%,33.3% (3/9),50.8%,47.9%,2.1%,38.5%,59.1%,43.8% (7/16),2:21
+9-Oct-2023,Rouen 125,3,Hard,R32,100,127,1,7,,Jaqueline Cristian,Lucrezia Stefanini,7-6(5) 6-1,1.35,1.7%,3.4%,57.6%,67.6%,60.0%,0.0% (0/2),55.0%,48.1%,0.0%,45.3%,53.6%,44.4% (4/9),1:45
+18-Sep-2023,Parma 125,3,Clay,QF,107,71,0,5,2,Ana Bogdan,Jaqueline Cristian,4-6 6-1 7-6(1),0.98,8.2%,0.0%,49.3%,69.4%,62.2%,25.0% (1/4),47.6%,33.7%,3.2%,25.0%,48.6%,28.6% (2/7),2:26
+18-Sep-2023,Parma 125,3,Clay,R16,107,309,1,5,Q,Jaqueline Cristian,Eva Vedder,6-4 6-3,1.24,8.6%,3.7%,63.0%,70.6%,50.0%,92.3% (12/13),54.2%,45.9%,1.2%,30.9%,73.3%,17.6% (3/17),1:54
+18-Sep-2023,Parma 125,3,Clay,R32,107,104,1,5,,Jaqueline Cristian,Sara Errani,6-2 6-4,1.60,6.5%,4.3%,58.7%,70.4%,57.9%,33.3% (1/3),60.0%,55.6%,0.0%,54.3%,62.5%,50.0% (5/10),1:14
+11-Sep-2023,Bucharest 125,3,Clay,SF,98,216,0,3,,Astra Sharma,Jaqueline Cristian,6-2 2-6 6-2,0.81,1.2%,3.6%,53.6%,60.0%,43.6%,50.0% (5/10),45.7%,38.7%,1.3%,37.7%,40.7%,42.9% (3/7),2:03
+11-Sep-2023,Bucharest 125,3,Clay,QF,98,173,1,3,,Jaqueline Cristian,Maria Lourdes Carle,7-6(4) 6-4,1.10,1.2%,3.7%,61.0%,72.0%,34.4%,60.0% (6/10),52.2%,46.8%,0.0%,38.0%,62.1%,45.5% (5/11),2:20
+11-Sep-2023,Bucharest 125,3,Clay,R16,98,309,1,3,WC,Jaqueline Cristian,Cristina Andreea Mitu,6-1 6-2,1.54,5.1%,5.1%,47.5%,64.3%,51.6%,66.7% (4/6),61.0%,65.2%,0.0%,55.2%,82.4%,66.7% (6/9),1:17
+11-Sep-2023,Bucharest 125,3,Clay,R32,98,200,1,3,,Jaqueline Cristian,Lulu Sun,6-1 6-3,1.61,7.8%,9.8%,49.0%,96.0%,38.5%,75.0% (3/4),59.8%,53.6%,0.0%,44.0%,61.3%,45.5% (5/11),1:14
+4-Sep-2023,Bari 125,3,Clay,QF,99,153,0,2,,Rebecca Sramkova,Jaqueline Cristian,6-2 7-5,0.86,7.7%,5.1%,51.3%,60.0%,42.1%,61.5% (8/13),46.3%,41.7%,1.2%,36.8%,51.9%,22.2% (2/9),1:50
+4-Sep-2023,Bari 125,3,Clay,R16,99,168,1,2,,Jaqueline Cristian,Nuria Brancaccio,6-3 6-4,1.27,1.4%,4.1%,63.5%,59.6%,51.9%,76.9% (10/13),55.9%,54.8%,0.0%,41.5%,81.0%,55.6% (5/9),1:35
+4-Sep-2023,Bari 125,3,Clay,R32,99,513,1,2,Q,Jaqueline Cristian,Angelica Moratelli,7-5 6-4,1.07,1.4%,2.9%,61.4%,53.5%,59.3%,55.6% (5/9),52.0%,47.3%,0.0%,35.7%,59.3%,66.7% (6/9),1:43
+28-Aug-2023,US Open,5,Hard,Q1,99,164,0,6,,Iryna Shymanovich,Jaqueline Cristian,6-3 6-1,0.41,6.1%,10.2%,49.0%,58.3%,36.0%,50.0% (4/8),35.6%,22.0%,4.9%,10.0%,33.3%,- (0/0),1:01
+31-Jul-2023,Prague,3,Hard,SF,122,136,0,,LL,Nao Hibino,Jaqueline Cristian,6-4 6-7(2) 6-3,0.96,3.7%,5.6%,55.1%,69.5%,43.8%,44.4% (4/9),48.5%,40.3%,1.6%,37.8%,47.1%,25.0% (3/12),2:42
+31-Jul-2023,Prague,3,Hard,QF,122,98,1,,8,Jaqueline Cristian,Kateryna Baindl,6-4 1-6 6-2,1.05,4.6%,4.6%,65.5%,57.9%,40.0%,33.3% (3/9),51.2%,50.6%,0.0%,48.3%,58.8%,46.2% (6/13),2:04
+31-Jul-2023,Prague,3,Hard,R16,122,181,1,,Q,Jaqueline Cristian,Emiliana Arango,6-4 6-3,1.21,0.0%,1.6%,62.3%,63.2%,47.8%,62.5% (5/8),54.7%,51.8%,0.0%,54.1%,47.4%,83.3% (5/6),1:31
+31-Jul-2023,Prague,3,Hard,R32,122,39,1,,1,Jaqueline Cristian,Marie Bouzkova,6-4 4-6 6-4,1.06,1.0%,4.1%,51.0%,66.0%,37.5%,36.4% (4/11),51.5%,51.0%,1.0%,46.2%,60.6%,57.1% (8/14),2:47
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R32,121,596,0,1,WC,Matilde Jorge,Jaqueline Cristian,6-2 6-7(2) 7-6(7),,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,123,258,0,5,,Alexandra Eala,Jaqueline Cristian,7-6(5) 6-7(1) 6-2,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,R64,133,13,0,,13,Beatriz Haddad Maia,Jaqueline Cristian,4-6 6-2 6-4,0.76,8.2%,3.1%,59.2%,70.7%,40.0%,66.7% (8/12),45.9%,31.8%,4.7%,30.5%,34.6%,22.2% (2/9),2:29
+3-Jul-2023,Wimbledon,5,Grass,R128,133,47,1,,,Jaqueline Cristian,Lucia Bronzetti,6-3 6-4,1.11,10.4%,0.0%,70.1%,70.2%,30.0%,70.0% (7/10),52.8%,46.6%,0.0%,50.0%,40.0%,62.5% (5/8),1:21
+26-Jun-2023,Bad Homburg,3,Grass,R32,133,43,0,,8,Varvara Gracheva,Jaqueline Cristian,6-2 6-1,0.44,2.4%,7.3%,63.4%,42.3%,33.3%,37.5% (3/8),32.9%,26.8%,7.3%,22.2%,35.7%,100.0% (1/1),0:55
+19-Jun-2023,Gaiba 125,3,Grass,R32,131,171,0,,,Sinja Kraus,Jaqueline Cristian,7-5 6-3,0.83,11.8%,11.8%,45.9%,79.5%,32.6%,42.9% (3/7),47.1%,38.2%,2.9%,23.3%,64.0%,14.3% (1/7),1:31
+12-Jun-2023,Valencia 125,3,Clay,R32,129,93,0,,,Clara Tauson,Jaqueline Cristian,6-4 7-5,0.78,3.1%,3.1%,56.9%,54.1%,39.3%,16.7% (1/6),44.3%,40.9%,1.5%,34.3%,48.4%,42.9% (3/7),1:41
+29-May-2023,Roland Garros,5,Clay,Q1,129,157,0,,,Elena Gabriela Ruse,Jaqueline Cristian,6-3 6-4,0.78,1.9%,7.4%,68.5%,48.6%,35.3%,0.0% (0/6),43.9%,43.4%,1.9%,42.1%,46.7%,100.0% (3/3),
+15-May-2023,W100 Madrid,3,Clay,QF,159,155,0,,,Sara Sorribes Tormo,Jaqueline Cristian,6-3 6-7(3) 6-2,,,,,,,,,,,,,,
+15-May-2023,W100 Madrid,3,Clay,R16,159,183,1,,,Jaqueline Cristian,Mai Hontama,6-1 6-0,,,,,,,,,,,,,,
+15-May-2023,W100 Madrid,3,Clay,R32,159,101,1,,4,Jaqueline Cristian,Nadia Podoroska,6-1 6-4,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,F,159,482,1,3,Q,Jaqueline Cristian,Ella Seidel,6-1 3-6 7-6(0),,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,SF,159,203,1,3,7,Jaqueline Cristian,Carole Monnet,6-4 6-3,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,QF,159,277,1,3,WC,Jaqueline Cristian,Jana Fett,7-5 6-4,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,R16,159,208,1,3,,Jaqueline Cristian,Emiliana Arango,6-4 6-2,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,R32,159,219,1,3,Q,Jaqueline Cristian,Arina Rodionova,6-3 6-4,,,,,,,,,,,,,,
+24-Apr-2023,Madrid,3,Clay,R64,168,25,0,,21,Anastasia Potapova,Jaqueline Cristian,7-5 3-6 6-2,0.93,6.1%,4.1%,68.4%,55.2%,25.8%,25.0% (3/12),48.2%,50.5%,2.1%,44.0%,57.8%,38.9% (7/18),2:10
+24-Apr-2023,Madrid,3,Clay,R128,168,48,1,,,Jaqueline Cristian,Sloane Stephens,5-7 6-4 6-4,1.18,1.1%,0.0%,70.7%,66.2%,59.3%,20.0% (1/5),52.9%,42.3%,0.0%,38.6%,51.9%,71.4% (5/7),2:24
+17-Apr-2023,W60 Koper,3,Clay,SF,180,148,0,10,7,Aliona Bolsova,Jaqueline Cristian,6-2 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,QF,180,228,1,10,15,Jaqueline Cristian,Kristina Dmitruk,6-2 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,R16,180,293,1,10,,Jaqueline Cristian,Veronika Erjavec,7-6(4) 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,R32,180,246,1,10,,Jaqueline Cristian,Lea Boskovic,6-7(3) 4-0 RET,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup QLS R1: ROU vs SLO,3,Clay,RR,180,121,0,,,Kaja Juvan,Jaqueline Cristian,6-2 6-4,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup QLS R1: ROU vs SLO,3,Clay,RR,180,102,1,,,Jaqueline Cristian,Tamara Zidansek,6-1 4-6 6-3,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,Q1,176,200,0,10,,Iryna Shymanovich,Jaqueline Cristian,6-1 6-3,0.67,1.6%,6.3%,62.5%,50.0%,37.5%,50.0% (5/10),41.4%,36.5%,7.7%,26.5%,55.6%,33.3% (1/3),1:06
+20-Mar-2023,W25 Palmanova,3,Clay,F,204,221,1,5,,Jaqueline Cristian,Iryna Shymanovich,6-4 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,SF,204,443,1,5,Q,Jaqueline Cristian,Andreea Prisacariu,6-3 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,QF,204,199,1,5,4,Jaqueline Cristian,Marie Benoit,7-6(2) 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R16,204,315,1,5,,Jaqueline Cristian,Irene Burillo Escorihuela,3-6 6-4 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R32,204,,1,5,WC,Jaqueline Cristian,Noelia Zeballos Melgar,4-6 6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,F,266,101,1,,3,Jaqueline Cristian,Oceane Dodin,7-6(7) 7-6(4),,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,SF,266,364,1,,WC,Jaqueline Cristian,Kristina Kucova,6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,QF,266,115,1,,6,Jaqueline Cristian,Tamara Zidansek,7-5 1-6 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R16,266,126,1,,4,Jaqueline Cristian,Clara Tauson,6-7(9) 7-5 6-0,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R32,266,367,1,,Q,Jaqueline Cristian,Elena Malygina,6-3 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,QF,212,162,0,,6,Jessika Ponchet,Jaqueline Cristian,6-7(5) 6-3 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,R16,212,493,1,,Q,Jaqueline Cristian,Jessica Pieri,6-3 6-1,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,R32,212,132,1,,4,Jaqueline Cristian,Ylena In Albon,7-6(0) 7-5,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,SF,232,128,0,,5,Clara Tauson,Jaqueline Cristian,6-3 7-6(3),,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,QF,232,259,1,,,Jaqueline Cristian,Yanina Wickmayer,6-3 3-6 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R16,232,118,1,,1,Jaqueline Cristian,Tamara Zidansek,5-7 6-3 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,232,546,1,,WC,Jaqueline Cristian,Joelle Lilly Sophie Steur,0-6 6-1 6-1,,,,,,,,,,,,,,
+6-Feb-2023,Linz,3,Hard,R32,193,73,0,,,Camila Giorgi,Jaqueline Cristian,6-1 6-2,0.49,2.1%,6.3%,58.3%,42.9%,55.0%,50.0% (4/8),37.4%,25.6%,9.3%,14.8%,43.8%,- (0/0),1:04
+30-Jan-2023,W40 Porto,3,Hard,QF,201,165,0,5,3,Harmony Tan,Jaqueline Cristian,6-4 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R16,201,284,1,5,,Jaqueline Cristian,Daniela Vismane,7-5 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,201,459,1,5,Q,Jaqueline Cristian,Emeline Dartron,6-1 7-5,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,R128,161,3,0,,3,Jessica Pegula,Jaqueline Cristian,6-0 6-1,0.48,6.3%,2.1%,62.5%,46.7%,27.8%,37.5% (3/8),34.4%,28.9%,4.4%,16.7%,53.3%,0.0% (0/3),0:59
+9-Jan-2023,Hobart,3,Hard,R32,143,26,0,SR,1,Marie Bouzkova,Jaqueline Cristian,7-6(2) 6-3,0.82,0.0%,0.0%,71.1%,48.1%,54.5%,60.0% (6/10),45.4%,40.8%,1.3%,34.0%,53.8%,50.0% (3/6),2:07
+2-Jan-2023,Auckland,3,Hard,Q2,146,138,0,,,Nao Hibino,Jaqueline Cristian,6-3 4-6 6-2,0.73,2.9%,4.8%,64.4%,58.2%,37.8%,53.8% (7/13),44.3%,35.8%,2.5%,37.5%,33.3%,42.9% (3/7),2:03
+2-Jan-2023,Auckland,3,Hard,Q1,146,109,1,,5,Jaqueline Cristian,Diana Shnaider,6-4 3-6 6-3,1.00,6.2%,2.1%,60.8%,62.7%,31.6%,33.3% (3/9),50.0%,49.5%,2.0%,47.8%,53.3%,58.3% (7/12),2:08
+5-Dec-2022,Angers 125,3,Hard,R16,151,100,0,,,Alycia Parks,Jaqueline Cristian,6-4 6-4,1.24,10.2%,4.1%,63.3%,83.9%,55.6%,33.3% (1/3),48.4%,32.9%,10.1%,31.9%,34.4%,0.0% (0/7),1:35
+5-Dec-2022,Angers 125,3,Hard,R32,151,358,1,,LL,Jaqueline Cristian,Hina Inoue,6-4 7-6(5),1.26,8.6%,4.3%,62.9%,81.8%,46.2%,33.3% (1/3),53.4%,39.7%,3.8%,44.0%,32.1%,42.9% (3/7),1:50
+28-Nov-2022,Andorra 125,3,Hard,R32,150,266,0,,ALT,Weronika Falkowska,Jaqueline Cristian,6-4 3-6 6-3,0.91,2.6%,3.8%,64.1%,66.0%,46.4%,42.9% (3/7),47.3%,37.4%,5.5%,30.6%,45.2%,75.0% (3/4),1:58
+14-Nov-2022,W60 Bratislava,3,Hard,R16,151,880,0,6,WC,Renata Jamrichova,Jaqueline Cristian,7-6(1) 3-6 7-6(8),,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,R32,151,655,1,6,Q,Jaqueline Cristian,Denisa Hindova,6-1 6-2,,,,,,,,,,,,,,
+12-Nov-2022,BJK Cup Playoffs: ROU vs HUN,3,Hard,RR,148,71,1,,,Jaqueline Cristian,Anna Bondar,6-2 4-6 7-6(3),,,,,,,,,,,,,,
+24-Oct-2022,W80 Poitiers,3,Hard,R32,143,541,0,4,Q,Alice Tubello,Jaqueline Cristian,6-3 4-6 6-4,,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,R32,82,122,0,6,WC,Kristina Mladenovic,Jaqueline Cristian,6-4 6-3,0.62,3.6%,3.6%,71.4%,55.0%,31.3%,0.0% (0/5),40.8%,31.9%,2.1%,22.2%,45.0%,100.0% (2/2),1:21
 10-Oct-2022,Cluj Napoca,3,Hard,R32,83,59,0,,7,Xiyu Wang,Jaqueline Cristian,6-3 6-3,0.46,3.0%,3.0%,58.2%,61.5%,42.9%,62.5% (5/8),40.4%,21.3%,12.8%,15.6%,33.3%,- (0/0),1:20
 3-Oct-2022,Monastir,3,Hard,R32,82,42,0,,5,Elise Mertens,Jaqueline Cristian,6-1 6-1,0.49,0.0%,10.5%,55.3%,33.3%,23.5%,25.0% (2/8),32.0%,35.1%,8.1%,16.7%,52.6%,100.0% (1/1),0:56
 26-Sep-2022,Tallinn,3,Hard,R32,68,145,0,,Q,Katie Boulter,Jaqueline Cristian,6-3 6-1,0.54,0.0%,11.6%,48.8%,42.9%,40.9%,28.6% (2/7),36.4%,31.1%,8.9%,21.4%,47.1%,33.3% (1/3),1:03
+12-Sep-2022,W80+H Le Neubourg,3,Hard,F,87,327,1,1,,Jaqueline Cristian,Magali Kempen,6-4 6-4,,,,,,,,,,,,,,
+12-Sep-2022,W80+H Le Neubourg,3,Hard,SF,87,111,1,1,4,Jaqueline Cristian,Harmony Tan,3-6 6-4 3-0 RET,,,,,,,,,,,,,,
+12-Sep-2022,W80+H Le Neubourg,3,Hard,QF,87,145,1,1,8,Jaqueline Cristian,Ysaline Bonaventure,6-4 1-6 6-4,,,,,,,,,,,,,,
+12-Sep-2022,W80+H Le Neubourg,3,Hard,R16,87,429,1,1,Q,Jaqueline Cristian,Marine Partaud,4-6 6-3 6-1,,,,,,,,,,,,,,
+12-Sep-2022,W80+H Le Neubourg,3,Hard,R32,87,210,1,1,,Jaqueline Cristian,Sonay Kartal,6-2 2-6 6-3,,,,,,,,,,,,,,
 29-Aug-2022,US Open,5,Hard,R128,77,2,0,,2,Anett Kontaveit,Jaqueline Cristian,6-3 6-0,0.64,0.0%,13.0%,45.7%,66.7%,24.0%,28.6% (2/7),39.6%,36.0%,6.0%,14.8%,60.9%,25.0% (1/4),1:06
 21-Feb-2022,Doha,3,Hard,R32,71,28,0,LL,,Daria Kasatkina,Jaqueline Cristian,2-6 2-2 RET,1.32,0.0%,2.2%,65.2%,60.0%,37.5%,55.6% (5/9),57.1%,63.2%,0.0%,58.6%,77.8%,83.3% (5/6),1:08
 21-Feb-2022,Doha,3,Hard,R64,71,20,1,LL,11,Jaqueline Cristian,Elena Rybakina,6-4 6-3,1.94,7.7%,1.9%,71.2%,83.8%,66.7%,100.0% (3/3),56.8%,41.1%,11.0%,31.7%,53.1%,20.0% (2/10),1:22
@@ -16,16 +138,16 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Jan-2022,Sydney,3,Hard,R16,73,4,0,,3,Barbora Krejcikova,Jaqueline Cristian,6-1 7-5,0.74,1.9%,5.6%,50.0%,40.7%,44.4%,14.3% (1/7),42.6%,42.7%,10.7%,30.6%,65.4%,40.0% (2/5),1:35
 10-Jan-2022,Sydney,3,Hard,R32,73,223,1,,WC,Jaqueline Cristian,Priscilla Hon,7-6(5) 7-5,1.21,4.1%,2.7%,56.8%,73.8%,59.4%,50.0% (2/4),52.9%,39.2%,3.8%,32.6%,47.2%,75.0% (3/4),1:55
 3-Jan-2022,Melbourne 1,3,Hard,R32,71,73,0,,,Kaia Kanepi,Jaqueline Cristian,6-7(2) 7-6(7) 6-2,0.76,3.3%,5.0%,52.9%,64.1%,47.4%,54.5% (6/11),45.9%,33.3%,11.1%,34.5%,31.7%,50.0% (3/6),2:45
-8-Nov-2021,Linz,3,Hard,F,100,73,0,LL,8,Alison Riske Amritraj,Jaqueline Cristian,2-6 6-2 7-5 (ch),0.94,4.3%,4.3%,60.2%,50.0%,56.8%,62.5% (10/16),48.7%,44.7%,7.4%,43.8%,46.7%,83.3% (5/6),2:24
+8-Nov-2021,Linz,3,Hard,F,100,73,0,LL,8,Alison Riske Amritraj,Jaqueline Cristian,2-6 6-2 7-5,0.94,4.3%,4.3%,60.2%,50.0%,56.8%,62.5% (10/16),48.7%,44.7%,7.4%,43.8%,46.7%,83.3% (5/6),2:24
 8-Nov-2021,Linz,3,Hard,SF,100,22,1,LL,2,Jaqueline Cristian,Simona Halep,W/O,,,,,,,,,,,,,,
 8-Nov-2021,Linz,3,Hard,QF,100,32,1,LL,4,Jaqueline Cristian,Veronika Kudermetova,6-3 7-6(5),1.05,2.3%,4.5%,68.2%,73.3%,35.7%,86.7% (13/15),51.9%,40.5%,5.4%,35.4%,50.0%,25.0% (3/12),1:54
 8-Nov-2021,Linz,3,Hard,R16,100,84,1,LL,,Jaqueline Cristian,Rebecca Peterson,5-2 RET,1.50,9.5%,0.0%,66.7%,85.7%,57.1%,- (0/0),60.0%,35.7%,7.1%,27.3%,66.7%,100.0% (1/1),0:26
-8-Nov-2021,Linz,3,Hard,R32,100,117,1,LL,,Jaqueline Cristian,Kamilla Rakhimova,2-6 6-2 7-5 (ch),1.13,4.7%,3.5%,67.1%,68.4%,50.0%,60.0% (6/10),52.7%,42.5%,1.3%,39.0%,52.4%,45.5% (5/11),2:06
+8-Nov-2021,Linz,3,Hard,R32,100,117,1,LL,,Jaqueline Cristian,Kamilla Rakhimova,2-6 6-2 7-5,1.13,4.7%,3.5%,67.1%,68.4%,50.0%,60.0% (6/10),52.7%,42.5%,1.3%,39.0%,52.4%,45.5% (5/11),2:06
 8-Nov-2021,Linz,3,Hard,Q2,100,132,0,1,7,Lesia Tsurenko,Jaqueline Cristian,5-7 6-4 6-1,0.87,0.0%,8.0%,48.3%,50.0%,44.4%,30.8% (4/13),46.4%,45.7%,0.0%,43.1%,51.7%,60.0% (6/10),2:13
 8-Nov-2021,Linz,3,Hard,Q1,100,352,1,1,SR,Jaqueline Cristian,Irina Khromacheva,6-3 6-2,1.75,10.9%,1.8%,56.4%,93.5%,50.0%,100.0% (3/3),59.6%,44.4%,0.0%,40.6%,50.0%,37.5% (3/8),1:15
-25-Oct-2021,Cluj-Napoca 2,3,Hard,QF,105,18,0,WC,1,Simona Halep,Jaqueline Cristian,6-1 6-1 (ch),0.52,10.0%,8.0%,60.0%,56.7%,25.0%,58.3% (7/12),36.8%,28.9%,4.4%,19.2%,42.1%,0.0% (0/3),1:07
+25-Oct-2021,Cluj-Napoca 2,3,Hard,QF,105,18,0,WC,1,Simona Halep,Jaqueline Cristian,6-1 6-1,0.52,10.0%,8.0%,60.0%,56.7%,25.0%,58.3% (7/12),36.8%,28.9%,4.4%,19.2%,42.1%,0.0% (0/3),1:07
 25-Oct-2021,Cluj-Napoca 2,3,Hard,R16,105,43,1,WC,5,Jaqueline Cristian,Ajla Tomljanovic,7-6(5) 7-5,1.11,4.9%,2.5%,59.3%,66.7%,42.4%,20.0% (1/5),52.0%,47.9%,2.1%,42.4%,56.8%,41.7% (5/12),2:11
-25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,105,98,1,WC,,Jaqueline Cristian,Kaja Juvan,3-6 7-6(8) 7-6(3) (ch),1.13,2.7%,2.7%,63.4%,66.2%,68.3%,40.0% (2/5),51.0%,37.4%,6.1%,29.0%,46.8%,20.0% (2/10),2:46
+25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,105,98,1,WC,,Jaqueline Cristian,Kaja Juvan,3-6 7-6(8) 7-6(3),1.13,2.7%,2.7%,63.4%,66.2%,68.3%,40.0% (2/5),51.0%,37.4%,6.1%,29.0%,46.8%,20.0% (2/10),2:46
 18-Oct-2021,Tenerife,3,Hard,R16,108,90,0,Q,,Anna Karolina Schmiedlova,Jaqueline Cristian,6-2 7-5,0.74,0.0%,1.7%,45.8%,51.9%,56.3%,0.0% (0/4),43.8%,33.9%,4.8%,27.5%,45.5%,33.3% (1/3),1:40
 18-Oct-2021,Tenerife,3,Hard,R32,108,33,1,Q,2,Jaqueline Cristian,Tamara Zidansek,7-5 4-6 6-1,1.32,3.7%,3.7%,64.6%,71.7%,58.6%,57.1% (4/7),54.7%,43.3%,1.1%,39.0%,51.6%,50.0% (5/10),2:09
 18-Oct-2021,Tenerife,3,Hard,Q2,108,151,1,3,10,Jaqueline Cristian,Lesley Pattinama Kerkhove,6-3 6-2,1.41,4.2%,7.0%,53.5%,68.4%,48.5%,77.8% (7/9),58.5%,57.4%,0.0%,46.7%,76.5%,62.5% (5/8),1:23
@@ -68,7 +190,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Apr-2021,Istanbul,3,Clay,Q2,147,169,0,3,8,Cristina Bucsa,Jaqueline Cristian,6-1 6-3,0.58,0.0%,5.8%,48.1%,48.0%,29.6%,33.3% (3/9),37.1%,35.6%,0.0%,34.2%,42.9%,50.0% (2/4),1:08
 19-Apr-2021,Istanbul,3,Clay,Q1,147,223,1,3,,Jaqueline Cristian,Pemra Ozgen,6-4 6-3,1.20,2.5%,2.5%,66.3%,60.4%,48.1%,66.7% (6/9),54.6%,52.5%,0.0%,53.3%,50.0%,55.6% (5/9),1:31
 15-Mar-2021,St. Petersburg,3,Hard,QF,160,39,0,Q,4,Svetlana Kuznetsova,Jaqueline Cristian,6-7(5) 6-3 6-3,0.76,5.6%,4.5%,66.3%,66.1%,40.0%,37.5% (3/8),44.5%,32.3%,5.4%,18.0%,59.4%,33.3% (2/6),2:15
-15-Mar-2021,St. Petersburg,3,Hard,R16,160,53,1,Q,6,Jaqueline Cristian,Jelena Ostapenko,6-3 7-6(9) (ch),1.15,4.8%,1.2%,65.5%,60.0%,62.1%,57.1% (4/7),52.9%,45.3%,3.5%,38.2%,58.1%,33.3% (4/12),1:59
+15-Mar-2021,St. Petersburg,3,Hard,R16,160,53,1,Q,6,Jaqueline Cristian,Jelena Ostapenko,6-3 7-6(9),1.15,4.8%,1.2%,65.5%,60.0%,62.1%,57.1% (4/7),52.9%,45.3%,3.5%,38.2%,58.1%,33.3% (4/12),1:59
 15-Mar-2021,St. Petersburg,3,Hard,R32,160,281,1,Q,,Jaqueline Cristian,Vera Lapko,6-7(3) 6-4 2-1 RET,1.14,8.9%,3.8%,55.7%,75.0%,60.0%,100.0% (3/3),50.3%,36.0%,9.0%,20.8%,53.2%,20.0% (2/10),2:12
 15-Mar-2021,St. Petersburg,3,Hard,Q2,160,540,1,7,WC,Jaqueline Cristian,Alina Charaeva,4-6 6-1 6-2,1.30,4.9%,3.7%,58.5%,68.8%,58.8%,71.4% (5/7),55.8%,45.8%,1.4%,31.1%,70.4%,71.4% (5/7),1:53
 15-Mar-2021,St. Petersburg,3,Hard,Q1,160,201,1,7,,Jaqueline Cristian,Natalija Stevanovic,6-1 6-3,1.77,7.7%,0.0%,57.7%,73.3%,68.2%,100.0% (4/4),61.0%,50.9%,3.8%,40.6%,66.7%,80.0% (4/5),1:08
@@ -97,7 +219,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Aug-2020,Prague,3,Clay,R64,164,263,1,11,,Jaqueline Cristian,Diana Marcinkevica,6-2 6-2,1.53,3.7%,5.6%,57.4%,74.2%,43.5%,71.4% (5/7),60.4%,59.6%,3.8%,51.7%,69.6%,54.5% (6/11),1:05
 31-Aug-2020,Prague,3,Clay,R128,164,258,1,11,,Jaqueline Cristian,Tessah Andrianjafitrimo,6-2 6-2,1.49,3.6%,1.8%,63.6%,74.3%,50.0%,66.7% (2/3),58.1%,51.6%,0.0%,48.9%,60.0%,50.0% (5/10),1:29
 10-Aug-2020,Prague,3,Clay,Q1,163,113,0,,3,Tamara Korpatsch,Jaqueline Cristian,6-1 7-6(6),0.87,1.1%,4.6%,59.8%,38.5%,42.9%,50.0% (9/18),45.7%,52.0%,1.3%,43.2%,64.5%,50.0% (6/12),1:57
-2-Mar-2020,Lyon,3,Hard,R16,174,5,0,Q,1,Sofia Kenin,Jaqueline Cristian,6-7(5) 7-5 6-4 (ch),0.96,10.1%,3.7%,57.8%,69.8%,45.7%,57.1% (8/14),48.7%,38.7%,3.4%,32.2%,56.3%,33.3% (4/12),2:31
+2-Mar-2020,Lyon,3,Hard,R16,174,5,0,Q,1,Sofia Kenin,Jaqueline Cristian,6-7(5) 7-5 6-4,0.96,10.1%,3.7%,57.8%,69.8%,45.7%,57.1% (8/14),48.7%,38.7%,3.4%,32.2%,56.3%,33.3% (4/12),2:31
 2-Mar-2020,Lyon,3,Hard,R32,174,129,1,Q,,Jaqueline Cristian,Priscilla Hon,6-2 6-0,1.75,13.3%,6.7%,55.0%,81.8%,48.1%,100.0% (4/4),62.8%,58.5%,3.8%,44.8%,75.0%,41.7% (5/12),1:14
 2-Mar-2020,Lyon,3,Hard,Q2,174,290,1,8,,Jaqueline Cristian,Lara Salden,6-3 6-0,1.78,9.3%,4.7%,58.1%,80.0%,55.6%,0.0% (0/1),62.2%,53.8%,0.0%,38.1%,72.2%,55.6% (5/9),0:55
 2-Mar-2020,Lyon,3,Hard,Q1,174,212,1,8,,Jaqueline Cristian,Nuria Parrizas Diaz,7-5 6-0,1.77,7.0%,3.5%,43.9%,84.0%,65.6%,100.0% (1/1),58.5%,46.6%,0.0%,45.1%,50.0%,22.2% (4/18),1:31
@@ -253,7 +375,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Jul-2017,Targu Jiu $15K,3,Clay,QF,324,768,0,1,,Nastassja Burnett,Jaqueline Cristian,6-3 1-6 6-4,,,,,,,,,,,,,,
 31-Jul-2017,Targu Jiu $15K,3,Clay,R16,324,1226,1,1,LL,Jaqueline Cristian,Camelia Elena Hristea,6-1 6-1,,,,,,,,,,,,,,
 31-Jul-2017,Targu Jiu $15K,3,Clay,R32,324,878,1,1,Q,Jaqueline Cristian,Michele Alexandra Zmau,6-4 6-3,,,,,,,,,,,,,,
-17-Jul-2017,Bucharest,3,Clay,R16,341,58,0,WC,7,Irina Camelia Begu,Jaqueline Cristian,6-4 6-0 (ch),0.69,1.8%,8.8%,47.4%,51.9%,40.0%,54.5% (6/11),41.6%,37.5%,3.6%,29.7%,52.6%,16.7% (1/6),1:24
+17-Jul-2017,Bucharest,3,Clay,R16,341,58,0,WC,7,Irina Camelia Begu,Jaqueline Cristian,6-4 6-0,0.69,1.8%,8.8%,47.4%,51.9%,40.0%,54.5% (6/11),41.6%,37.5%,3.6%,29.7%,52.6%,16.7% (1/6),1:24
 17-Jul-2017,Bucharest,3,Clay,R32,341,124,1,WC,,Jaqueline Cristian,Kateryna Baindl,4-6 6-4 6-2,1.19,9.1%,7.1%,55.6%,78.2%,47.7%,66.7% (4/6),53.6%,42.1%,2.1%,34.3%,64.0%,26.7% (4/15),2:11
 26-Jun-2017,Bucharest $15K,3,Clay,R32,354,553,0,2,,Giorgia Marchetti,Jaqueline Cristian,1-4 RET,,,,,,,,,,,,,,
 19-Jun-2017,Baja $25K,3,Clay,R16,334,505,0,3,Q,Tereza Mihalikova,Jaqueline Cristian,6-0 6-3,,,,,,,,,,,,,,

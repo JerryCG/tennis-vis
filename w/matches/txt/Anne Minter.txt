@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 29-Mar-1993,Hilton Head,3,Clay,R64,494,38,0,,,Larisa Savchenko,Anne Minter,6-0 6-4,,,,,,,,,,,,,,
 22-Mar-1993,Houston,3,Clay,R32,,54,0,,,Debbie Graham,Anne Minter,6-3 6-1,,,,,,,,,,,,,,
 12-Mar-1993,Key Biscayne,3,Hard,R128,,80,0,,,Nadin Ercegovic,Anne Minter,6-4 6-3,,,,,,,,,,,,,,
@@ -143,7 +143,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Dec-1988,Fed Cup WG R2: AUS vs ITA,3,,RR,26,63,1,,,Anne Minter,Laura Garrone,7-6(0) 6-3,,,,,,,,,,,,,,
 24-Oct-1988,Indianapolis,3,Hard,R32,27,137,0,6,Q,Stacey Martin,Anne Minter,6-3 6-4,,,,,,,,,,,,,,
 17-Oct-1988,Nashville,3,Hard,R16,27,62,0,5,,Ann Grossman,Anne Minter,6-3 6-3,,,,,,,,,,,,,,
-17-Oct-1988,Nashville,3,Hard,R32,27,72,1,5,,Anne Minter,Wendy Prausa,6-2 6-4,,,,,,,,,,,,,,
+17-Oct-1988,Nashville,3,Hard,R32,27,72,1,5,,Anne Minter,Wendy White,6-2 6-4,,,,,,,,,,,,,,
 10-Oct-1988,San Juan,3,Hard,F,27,52,1,4,3,Anne Minter,Mercedes Paz,2-6 6-4 6-3,,,,,,,,,,,,,,
 10-Oct-1988,San Juan,3,Hard,SF,27,56,1,4,8,Anne Minter,Gigi Fernandez,6-2 2-0 RET,,,,,,,,,,,,,,
 10-Oct-1988,San Juan,3,Hard,QF,27,42,1,4,6,Anne Minter,Gretchen Magers,6-4 6-2,,,,,,,,,,,,,,
@@ -524,7 +524,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Sep-1981,Tokyo Sillook,3,Carpet,R32,,,0,,4,Dianne Fromholtz,Anne Minter,6-3 7-6,,,,,,,,,,,,,,
 14-Sep-1981,Tokyo Sillook,3,Carpet,Q2,,,0,,,Lele Forood,Anne Minter,6-2 1-6 6-2,,,,,,,,,,,,,,
 14-Sep-1981,Tokyo Sillook,3,Carpet,Q1,,,1,,,Anne Minter,Katerina Bohmova,6-2 4-6 7-5,,,,,,,,,,,,,,
-1-Sep-1981,US Open,5,Hard,R128,,,0,,,Dianne Morrison,Anne Minter,0-6 6-3 6-3,,,,,,,,,,,,,,
+1-Sep-1981,US Open,5,Hard,R128,,,0,,,Diane Morrison,Anne Minter,0-6 6-3 6-3,,,,,,,,,,,,,,
 22-Jun-1981,Wimbledon,5,Grass,Q1,,,0,6,,Brenda Remilton,Anne Minter,7-5 6-3,,,,,,,,,,,,,,
 8-Jun-1981,Surbiton,3,Grass,R32,,,0,,,Diane Desfor,Anne Minter,6-4 6-1,,,,,,,,,,,,,,
 8-Jun-1981,Surbiton,3,Grass,R64,,,1,,10,Anne Minter,Virginia Wade,6-4 1-6 6-1,,,,,,,,,,,,,,

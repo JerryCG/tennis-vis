@@ -1,4 +1,56 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Aug-2023,W25 Valladolid,3,Hard,QF,312,449,0,6,,Olga Helmi,Georgina Garcia Perez,6-2 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W25 Valladolid,3,Hard,R16,312,629,1,6,Q,Georgina Garcia Perez,Bianca Jolie Fernandez,6-3 6-4,,,,,,,,,,,,,,
+28-Aug-2023,W25 Valladolid,3,Hard,R32,312,1313,1,6,Q,Georgina Garcia Perez,Carmen Lopez Martinez,6-3 7-5,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,R32,328,421,0,7,,Eva Guerrero Alvarez,Georgina Garcia Perez,6-3 7-6(5),,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,SF,369,197,0,WC,5,Arina Rodionova,Georgina Garcia Perez,4-6 6-1 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,QF,369,248,1,WC,,Georgina Garcia Perez,Alexandra Eala,6-4 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R16,369,339,1,WC,,Georgina Garcia Perez,Anastasia Kulikova,3-6 6-0 6-2,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R32,369,243,1,WC,8,Georgina Garcia Perez,Anastasia Tikhonova,7-6(4) 6-2,,,,,,,,,,,,,,
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R32,384,324,0,Q,WC,Francisca Jorge,Georgina Garcia Perez,6-2 6-1,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,400,155,0,,6,Daria Snigur,Georgina Garcia Perez,6-3 7-6(4),,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,400,442,1,,,Georgina Garcia Perez,Luksika Kumkhum,3-6 6-3 6-4,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R16,404,323,0,WC,,Makenna Jones,Georgina Garcia Perez,6-4 6-2,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R32,404,298,1,WC,,Georgina Garcia Perez,Robin Anderson,6-4 7-6(5),,,,,,,,,,,,,,
+12-Jun-2023,W25 Guimaraes,3,Hard,QF,417,254,0,,3,Gabriela Andrea Knutson,Georgina Garcia Perez,3-6 7-5 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W25 Guimaraes,3,Hard,R16,417,283,1,,5,Georgina Garcia Perez,Alexandra Bozovic,7-5 6-7(5) 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W25 Guimaraes,3,Hard,R32,417,826,1,,Q,Georgina Garcia Perez,Matilda Mutavdzic,6-2 7-5,,,,,,,,,,,,,,
+5-Jun-2023,W25 Setubal,3,Hard,R32,412,293,0,,5,Eudice Wong Chong,Georgina Garcia Perez,6-3 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 Yecla,3,Hard,R32,412,637,0,6,,Victoria Rodriguez,Georgina Garcia Perez,6-4 4-6 7-5,,,,,,,,,,,,,,
+15-May-2023,W25 Monzon,3,Hard,QF,517,400,0,,6,Ellen Perez,Georgina Garcia Perez,6-4 6-1,,,,,,,,,,,,,,
+15-May-2023,W25 Monzon,3,Hard,R16,517,,1,,WC,Georgina Garcia Perez,Ruth Roura Llaverias,6-4 6-4,,,,,,,,,,,,,,
+15-May-2023,W25 Monzon,3,Hard,R32,517,287,1,,3,Georgina Garcia Perez,Adithya Karunaratne,4-6 6-3 6-3,,,,,,,,,,,,,,
+8-May-2023,W25 Platja D'Aro,3,Clay,R32,517,176,0,SE,3,Jessica Bouzas Maneiro,Georgina Garcia Perez,6-1 RET,,,,,,,,,,,,,,
+1-May-2023,W25+H Tossa de Mar,3,Carpet,F,509,392,0,,,Francesca Curmi,Georgina Garcia Perez,6-2 7-6(2),,,,,,,,,,,,,,
+1-May-2023,W25+H Tossa de Mar,3,Carpet,SF,509,165,1,,1,Georgina Garcia Perez,Daria Snigur,2-6 7-6(2) 7-5,,,,,,,,,,,,,,
+1-May-2023,W25+H Tossa de Mar,3,Carpet,QF,509,626,1,,Q,Georgina Garcia Perez,Nahia Berecoechea,6-4 6-2,,,,,,,,,,,,,,
+1-May-2023,W25+H Tossa de Mar,3,Carpet,R16,509,624,1,,WC,Georgina Garcia Perez,Alba Rey Garcia,6-3 6-2,,,,,,,,,,,,,,
+1-May-2023,W25+H Tossa de Mar,3,Carpet,R32,509,565,1,,,Georgina Garcia Perez,Adrienn Nagy,6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,QF,546,298,0,Q,7,Xiaodi You,Georgina Garcia Perez,6-3 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R16,546,237,1,Q,4,Georgina Garcia Perez,Arianne Hartono,7-6(6) 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R16,546,484,1,9,4,Georgina Garcia Perez,Pei Chi Lee,6-4 7-6(5),,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R32,546,343,1,Q,,Georgina Garcia Perez,Momoko Kobori,6-4 6-1,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R32,546,,1,9,,Georgina Garcia Perez,Rinon Okuwaki,6-4 4-6 10-6,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R64,546,,1,9,,Georgina Garcia Perez,Kisa Yoshioka,6-2 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R32,551,321,0,Q,,Luksika Kumkhum,Georgina Garcia Perez,6-4 6-3,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,Q2,551,465,1,11,4,Georgina Garcia Perez,Pei Chi Lee,7-5 6-3,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,Q1,551,,1,11,WC,Georgina Garcia Perez,Rinon Okuwaki,6-3 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R32,531,183,0,Q,2,Na Lae Han,Georgina Garcia Perez,6-3 7-6(2),,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,Q3,531,651,1,6,10,Georgina Garcia Perez,Mei Yamaguchi,6-3 5-7 11-9,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,Q2,531,786,1,6,,Georgina Garcia Perez,Funa Kozaki,6-3 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,Q1,531,,1,6,,Georgina Garcia Perez,Hiromi Sekiguchi,6-2 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,R16,598,191,0,Q,4,Sachia Vickery,Georgina Garcia Perez,6-0 7-5,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,R32,598,340,1,Q,,Georgina Garcia Perez,Ashley Lahey,6-4 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,Q2,598,500,1,11,6,Georgina Garcia Perez,Maria Jose Portillo Ramirez,6-3 4-6 6-2,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,Q1,598,,1,11,,Georgina Garcia Perez,Lauryn John Baptiste,6-3 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W25 Pretoria,3,Hard,R16,598,325,0,Q,8,Emina Bektas,Georgina Garcia Perez,5-7 7-6(4) 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W25 Pretoria,3,Hard,R32,598,340,1,Q,,Georgina Garcia Perez,Ashley Lahey,7-6(6) 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W25 Pretoria,3,Hard,Q2,598,,1,5,15,Georgina Garcia Perez,Ofer Kivity,6-0 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W25 Pretoria,3,Hard,Q1,598,,1,5,,Georgina Garcia Perez,Natasha Fourouclas  De Castro,6-3 6-1,,,,,,,,,,,,,,
+6-Feb-2023,Linz,3,Hard,Q1,568,99,0,,6,Rebeka Masarova,Georgina Garcia Perez,6-0 6-3,0.50,4.9%,0.0%,53.7%,40.9%,31.6%,16.7% (1/6),34.1%,31.9%,4.3%,24.2%,50.0%,100.0% (1/1),0:59
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R32,566,,0,SR,5,Elsa Jacquemot,Georgina Garcia Perez,6-3 7-5,,,,,,,,,,,,,,
+5-Dec-2022,Angers 125,3,Hard,Q1,558,224,0,SR,3,Magali Kempen,Georgina Garcia Perez,6-4 6-3,0.77,10.8%,0.0%,72.3%,55.3%,22.2%,28.6% (2/7),43.8%,41.3%,3.2%,28.2%,62.5%,42.9% (3/7),1:24
+28-Nov-2022,Andorra 125,3,Hard,R32,564,146,0,WC,7,Daria Snigur,Georgina Garcia Perez,6-1 6-2,0.50,12.2%,9.8%,39.0%,62.5%,40.0%,33.3% (2/6),36.4%,25.5%,0.0%,23.1%,37.5%,0.0% (0/3),0:52
 3-Oct-2022,Ostrava,3,Hard,Q2,343,34,0,,1,Ajla Tomljanovic,Georgina Garcia Perez,6-3 6-3,0.66,7.5%,1.9%,54.7%,72.4%,33.3%,42.9% (3/7),42.7%,30.0%,2.0%,13.8%,52.4%,100.0% (1/1),1:11
 3-Oct-2022,Ostrava,3,Hard,Q1,343,115,1,,9,Georgina Garcia Perez,Daria Snigur,4-6 7-6(5) 6-4,1.13,10.9%,2.2%,52.2%,68.8%,59.1%,0.0% (0/4),52.1%,40.6%,0.0%,32.4%,68.2%,57.1% (4/7),2:12
 26-Sep-2022,Tallinn,3,Hard,Q1,344,138,0,SR,8,Ysaline Bonaventure,Georgina Garcia Perez,6-2 6-2,0.58,0.0%,5.7%,49.1%,61.5%,29.6%,50.0% (5/10),39.4%,31.7%,2.4%,20.0%,42.9%,100.0% (1/1),0:54
@@ -6,7 +58,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Aug-2022,US Open,5,Hard,Q3,311,149,0,,,Leolia Jeanjean,Georgina Garcia Perez,6-2 6-0,0.49,4.4%,6.7%,44.4%,65.0%,24.0%,37.5% (3/8),35.6%,28.6%,4.8%,28.0%,29.4%,- (0/0),1:01
 29-Aug-2022,US Open,5,Hard,Q2,311,211,1,,,Georgina Garcia Perez,Kayla Day,6-4 1-6 6-4,0.96,8.4%,0.0%,60.2%,68.0%,54.5%,57.1% (4/7),49.1%,35.7%,2.4%,30.6%,42.9%,28.6% (2/7),2:07
 29-Aug-2022,US Open,5,Hard,Q1,311,202,1,,,Georgina Garcia Perez,Yuriko Miyazaki,7-5 6-3,1.31,8.2%,3.3%,67.2%,70.7%,45.0%,50.0% (3/6),55.1%,49.3%,2.7%,42.0%,64.0%,50.0% (5/10),1:24
-23-May-2022,Roland Garros,5,Clay,Q1,268,232,0,,,Natalia Vikhlyantseva,Georgina Garcia Perez,6-3 7-6(4),,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,268,232,0,,,Natalia Vikhlyantseva,Georgina Garcia Perez,6-3 7-6(4),0.88,1.4%,0.0%,67.1%,53.1%,50.0%,50.0% (4/8),46.6%,42.0%,2.3%,40.0%,45.5%,27.3% (3/11),
 4-Apr-2022,W80 Oeiras,3,Clay,Q1,230,733,0,5,,Cristina Andreea Mitu,Georgina Garcia Perez,2-6 7-6(2) 10-7,,,,,,,,,,,,,,
 21-Mar-2022,W25 Le Havre,3,Clay,R32,223,173,0,,6,Elina Avanesyan,Georgina Garcia Perez,6-2 3-6 6-2,,,,,,,,,,,,,,
 14-Mar-2022,W25 Antalya,3,Clay,R16,222,612,0,,Q,Nicole Khirin,Georgina Garcia Perez,7-6(5) 4-1 RET,,,,,,,,,,,,,,
@@ -115,7 +167,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Apr-2019,W25 Obidos,3,Carpet,R32,165,359,1,,,Georgina Garcia Perez,Estrella Cabeza Candela,2-6 6-4 6-1,,,,,,,,,,,,,,
 25-Mar-2019,W60 Croissy Beaubourg,3,Hard,R16,173,229,0,,,Myrtille Georges,Georgina Garcia Perez,2-6 6-3 6-3,,,,,,,,,,,,,,
 25-Mar-2019,W60 Croissy Beaubourg,3,Hard,R32,173,224,1,,,Georgina Garcia Perez,Isabella Shinikova,6-4 6-4,,,,,,,,,,,,,,
-18-Feb-2019,Budapest,3,Hard,R32,170,81,0,Q,8,Marketa Vondrousova,Georgina Garcia Perez,6-0 7-6(6) (ch),0.70,3.1%,3.1%,49.2%,65.6%,42.4%,44.4% (4/9),43.8%,32.1%,3.6%,22.5%,56.3%,50.0% (2/4),1:20
+18-Feb-2019,Budapest,3,Hard,R32,170,81,0,Q,8,Marketa Vondrousova,Georgina Garcia Perez,6-0 7-6(6),0.70,3.1%,3.1%,49.2%,65.6%,42.4%,44.4% (4/9),43.8%,32.1%,3.6%,22.5%,56.3%,50.0% (2/4),1:20
 18-Feb-2019,Budapest,3,Hard,Q2,170,204,1,,,Georgina Garcia Perez,Jasmine Paolini,6-3 3-6 6-3,1.19,8.8%,1.1%,58.2%,69.8%,44.7%,73.3% (11/15),53.1%,48.3%,0.0%,50.6%,44.2%,23.1% (6/26),2:08
 18-Feb-2019,Budapest,3,Hard,Q1,170,143,1,,6,Georgina Garcia Perez,Priscilla Hon,6-2 6-3,1.33,14.5%,3.2%,61.3%,78.9%,50.0%,100.0% (7/7),56.8%,42.9%,2.0%,39.3%,47.6%,80.0% (4/5),1:09
 9-Feb-2019,Fed Cup WG2 R1: ESP vs JPN,3,Hard,RR,161,121,1,,,Georgina Garcia Perez,Misaki Doi,6-2 4-6 7-6(2),1.09,15.7%,5.9%,60.8%,80.6%,32.5%,66.7% (6/9),52.4%,41.6%,1.1%,32.8%,68.2%,100.0% (4/4),2:07
@@ -250,7 +302,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Oct-2016,Casablanca $10K,3,Clay,QF,298,847,1,1,7,Georgina Garcia Perez,Marie Temin,6-1 6-1,,,,,,,,,,,,,,
 31-Oct-2016,Casablanca $10K,3,Clay,R16,298,,1,1,,Georgina Garcia Perez,Diae El Jardi,6-3 6-1,,,,,,,,,,,,,,
 31-Oct-2016,Casablanca $10K,3,Clay,R32,298,,1,1,Q,Georgina Garcia Perez,Sada Nahimana,6-2 6-4,,,,,,,,,,,,,,
-17-Oct-2016,Sharm El Sheikh $100K,3,Hard,R32,290,122,0,,3,Ana Bogdan,Georgina Garcia Perez,6-4 6-4 (ch),,,,,,,,,,,,,,
+17-Oct-2016,Sharm El Sheikh $100K,3,Hard,R32,290,122,0,,3,Ana Bogdan,Georgina Garcia Perez,6-4 6-4,,,,,,,,,,,,,,
 26-Sep-2016,Clermont Ferrand $25K,3,Hard,R32,286,198,0,,,Daniela Seguel,Georgina Garcia Perez,6-1 6-1,,,,,,,,,,,,,,
 29-Aug-2016,Barcelona $25K,3,Clay,R32,321,287,0,,7,Katarzyna Piter,Georgina Garcia Perez,3-6 6-3 6-2,,,,,,,,,,,,,,
 22-Aug-2016,Bukfurdo $25K,3,Clay,F,317,332,1,,,Georgina Garcia Perez,Gabriela Pantuckova,6-3 6-0,,,,,,,,,,,,,,

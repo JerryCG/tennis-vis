@@ -1,4 +1,92 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,W75 Prague ,3,Clay,R16,199,520,0,7,Q,Jesika Maleckova,Priscilla Hon,6-4 6-2,,,,,,,,,,,,,,
+6-May-2024,W75 Prague ,3,Clay,R32,199,317,1,7,WC,Priscilla Hon,Barbora Palicova,6-2 6-7(9) 7-6(3),,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q2,192,239,0,3,13,Cristina Andreea Mitu,Priscilla Hon,6-4 6-2,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q1,192,324,1,3,,Priscilla Hon,Berfu Cengiz,1-6 6-4 6-3,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,R32,192,168,0,,7,Irina Bara,Priscilla Hon,7-6(5) 2-6 6-3,,,,,,,,,,,,,,
+1-Apr-2024,W50 Kashiwa,3,Hard,R16,189,285,0,2,,Sofia Costoulas,Priscilla Hon,6-2 6-2,,,,,,,,,,,,,,
+1-Apr-2024,W50 Kashiwa,3,Hard,R32,189,367,1,2,Q,Priscilla Hon,Elena Malygina,6-4 4-6 7-5,,,,,,,,,,,,,,
+25-Mar-2024,W50 Kofu,3,Hard,R16,192,269,0,2,,Haruka Kaji,Priscilla Hon,6-3 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W50 Kofu,3,Hard,R32,192,294,1,2,,Priscilla Hon,Sohyun Park,7-6(5) 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,SF,170,210,0,1,3,Ye Xin Ma,Priscilla Hon,7-6(6) 6-0,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,QF,170,305,1,1,7,Priscilla Hon,Amarni Banks,7-5 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,R16,170,354,1,1,,Priscilla Hon,Jia Jing Lu,6-3 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,R32,170,913,1,1,WC,Priscilla Hon,Tenika Mcgiffin,6-1 6-0,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,SF,172,396,0,1,,Naho Sato,Priscilla Hon,6-1 6-3,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,QF,172,353,1,1,8,Priscilla Hon,Jia Jing Lu,6-3 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,R16,172,438,1,1,,Priscilla Hon,Sakura Hosogi,4-6 6-3 6-3,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,R32,172,546,1,1,,Priscilla Hon,Alana Parnaby,6-1 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W75 Burnie,3,Hard,R16,171,266,0,2,,Haruka Kaji,Priscilla Hon,3-6 6-3 6-3,,,,,,,,,,,,,,
+5-Feb-2024,W75 Burnie,3,Hard,R32,171,388,1,2,Q,Priscilla Hon,Miho Kuramochi,6-1 7-5,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,F,201,300,1,2,,Priscilla Hon,Sara Saito,6-3 6-0,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,SF,201,487,1,2,Q,Priscilla Hon,Ena Shibahara,7-6(3) 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,QF,201,260,1,2,8,Priscilla Hon,Mananchaya Sawangkaew,4-6 6-0 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,R16,201,397,1,2,,Priscilla Hon,Petra Hule,6-3 6-3,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,R32,201,396,1,2,,Priscilla Hon,Kaylah Mcphee,6-1 5-7 6-2,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q3,205,170,0,,,Maria Timofeeva,Priscilla Hon,6-2 4-6 6-1,0.73,0.0%,3.4%,59.6%,52.8%,41.7%,46.2% (6/13),43.6%,37.8%,0.0%,42.6%,25.0%,33.3% (3/9),2:08
+15-Jan-2024,Australian Open,5,Hard,Q2,205,138,1,,29,Priscilla Hon,Dalma Galfi,4-6 6-3 6-4,1.30,0.0%,2.4%,62.2%,72.5%,67.7%,33.3% (1/3),53.8%,37.9%,3.4%,38.9%,36.4%,42.9% (3/7),1:55
+15-Jan-2024,Australian Open,5,Hard,Q1,205,797,1,,WC,Priscilla Hon,Emerson Jones,6-2 7-5,1.17,7.5%,3.0%,58.2%,64.1%,42.9%,70.0% (7/10),53.9%,52.5%,0.0%,51.2%,55.0%,100.0% (6/6),1:21
+1-Jan-2024,Brisbane,3,Hard,Q1,204,137,0,,8,Julia Riera,Priscilla Hon,3-6 7-6(3) 6-3,0.92,3.5%,2.7%,62.8%,66.2%,54.8%,71.4% (10/14),49.5%,35.1%,7.2%,32.7%,38.1%,23.1% (3/13),2:21
+20-Nov-2023,W60 Brisbane,3,Hard,QF,208,259,0,6,,Joanna Garland,Priscilla Hon,6-3 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W60 Brisbane,3,Hard,R16,208,474,1,6,Q,Priscilla Hon,Fangzhou Liu,4-6 7-5 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W60 Brisbane,3,Hard,R32,208,678,1,6,Q,Priscilla Hon,Hikaru Sato,6-1 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W60 Sydney,3,Hard,R32,202,1208,0,4,WC,Maya Joint,Priscilla Hon,6-3 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W60 Playford,3,Hard,R16,202,268,0,5,,Taylah Preston,Priscilla Hon,4-6 6-3 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W60 Playford,3,Hard,R32,202,451,1,5,,Priscilla Hon,Kaylah Mcphee,6-4 6-2,,,,,,,,,,,,,,
+9-Oct-2023,Hong Kong,3,Hard,R16,183,37,0,,5,Anna Blinkova,Priscilla Hon,6-1 6-3,0.56,0.0%,0.0%,66.7%,46.7%,46.7%,20.0% (1/5),37.9%,30.0%,4.0%,28.1%,33.3%,0.0% (0/2),1:05
+9-Oct-2023,Hong Kong,3,Hard,R32,183,242,1,,WC,Priscilla Hon,Eudice Wong Chong,7-5 7-5,1.20,9.1%,3.9%,55.8%,65.1%,50.0%,55.6% (5/9),54.1%,50.0%,0.0%,47.5%,57.1%,60.0% (6/10),2:10
+18-Sep-2023,W25 Perth,3,Hard,SF,215,436,0,1,7,Taylah Preston,Priscilla Hon,7-6(2) 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W25 Perth,3,Hard,QF,215,449,1,1,8,Priscilla Hon,Ikumi Yamazaki,6-1 4-6 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W25 Perth,3,Hard,R16,215,621,1,1,,Priscilla Hon,Monique Barry,3-6 6-1 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W25 Perth,3,Hard,R32,215,1049,1,1,WC,Priscilla Hon,Elena Micic,5-7 6-1 6-1,,,,,,,,,,,,,,
+11-Sep-2023,W25 Perth,3,Hard,F,212,331,1,1,6,Priscilla Hon,Talia Gibson,6-1 3-6 6-3,,,,,,,,,,,,,,
+11-Sep-2023,W25 Perth,3,Hard,SF,212,250,1,1,3,Priscilla Hon,Destanee Aiava,6-4 6-1,,,,,,,,,,,,,,
+11-Sep-2023,W25 Perth,3,Hard,QF,212,1109,1,1,Q,Priscilla Hon,Mia Horvit,6-3 7-6(5),,,,,,,,,,,,,,
+11-Sep-2023,W25 Perth,3,Hard,R16,212,536,1,1,,Priscilla Hon,Alana Parnaby,6-3 6-4,,,,,,,,,,,,,,
+11-Sep-2023,W25 Perth,3,Hard,R32,212,1190,1,1,Q,Priscilla Hon,Mei Hasegawa,6-1 6-0,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q2,207,199,0,,,Himeno Sakatsume,Priscilla Hon,6-3 6-1,0.63,0.0%,2.0%,52.9%,48.1%,33.3%,25.0% (2/8),39.2%,37.0%,4.3%,38.7%,33.3%,40.0% (2/5),1:14
+28-Aug-2023,US Open,5,Hard,Q1,207,108,1,,11,Priscilla Hon,Olga Danilovic,5-7 6-4 6-1,1.12,3.9%,3.9%,57.8%,67.8%,48.8%,76.9% (10/13),52.5%,45.1%,5.9%,40.3%,52.5%,54.5% (6/11),2:35
+7-Aug-2023,W25 Roehampton,3,Hard,QF,180,248,0,1,6,Alexandra Eala,Priscilla Hon,6-2 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W25 Roehampton,3,Hard,R16,180,568,1,1,Q,Priscilla Hon,Sarah Beth Grey,6-3 3-6 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W25 Roehampton,3,Hard,R32,180,361,1,1,,Priscilla Hon,Talia Gibson,7-5 6-7(3) 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Hechingen,3,Clay,R32,180,496,0,5,Q,Denislava Glushkova,Priscilla Hon,6-4 6-1,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q2,179,111,0,,18,Lucrezia Stefanini,Priscilla Hon,6-2 7-6(4),0.80,4.2%,6.9%,61.1%,52.3%,42.9%,44.4% (4/9),44.9%,41.3%,0.0%,34.9%,75.0%,27.3% (3/11),1:44
+3-Jul-2023,Wimbledon,5,Grass,Q1,179,589,1,,,Priscilla Hon,Amandine Hesse,6-2 6-3,1.54,9.3%,0.0%,63.0%,70.6%,55.0%,50.0% (2/4),60.0%,54.3%,4.3%,56.5%,52.2%,71.4% (5/7),1:02
+19-Jun-2023,Gaiba 125,3,Grass,R32,180,117,0,,8,Yanina Wickmayer,Priscilla Hon,7-5 6-4,0.76,23.2%,7.1%,58.9%,78.8%,43.5%,0.0% (0/2),44.5%,27.0%,3.2%,17.4%,52.9%,0.0% (0/3),1:21
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,176,179,0,LL,LL,Sachia Vickery,Priscilla Hon,6-3 6-0,0.47,4.3%,8.7%,63.0%,51.7%,35.3%,50.0% (4/8),36.0%,25.6%,9.3%,22.6%,33.3%,- (0/0),0:51
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,176,231,0,1,10,Natalija Stevanovic,Priscilla Hon,4-6 6-2 7-6(4),0.94,6.1%,5.1%,56.6%,60.7%,44.2%,45.5% (5/11),48.7%,43.8%,1.0%,43.1%,44.7%,41.7% (5/12),2:26
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,176,728,1,1,WC,Priscilla Hon,Anouk Koevermans,6-0 6-3,1.78,4.3%,4.3%,60.9%,75.0%,61.1%,100.0% (4/4),61.7%,54.2%,2.1%,36.0%,73.9%,62.5% (5/8),0:56
+5-Jun-2023,W100 Surbiton,3,Grass,R32,154,225,0,,Q,Zeynep Sonmez,Priscilla Hon,7-6(1) 6-3,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,154,193,0,,,Alice Robbe,Priscilla Hon,6-2 7-6(6),0.87,1.4%,4.3%,60.0%,50.0%,46.4%,16.7% (1/6),46.5%,44.7%,1.2%,35.8%,59.4%,30.0% (3/10),
+15-May-2023,Florence 125,3,Clay,QF,164,98,0,,8,Lucia Bronzetti,Priscilla Hon,7-5 6-3,0.67,0.0%,2.8%,66.7%,50.0%,50.0%,37.5% (3/8),42.9%,33.3%,3.7%,30.8%,40.0%,50.0% (2/4),1:39
+15-May-2023,Florence 125,3,Clay,R16,164,209,1,,Q,Priscilla Hon,Celine Naef,7-5 6-3,1.34,3.4%,1.7%,58.6%,61.8%,58.3%,50.0% (3/6),55.9%,52.9%,0.0%,50.0%,60.0%,37.5% (6/16),1:44
+15-May-2023,Florence 125,3,Clay,R32,164,105,1,,9,Priscilla Hon,Lucrezia Stefanini,6-4 6-2,1.20,0.0%,3.0%,62.7%,69.0%,40.0%,75.0% (6/8),54.3%,50.0%,0.0%,49.0%,54.5%,35.7% (5/14),1:37
+8-May-2023,Rome,3,Clay,Q2,164,86,0,,3,Ysaline Bonaventure,Priscilla Hon,6-4 6-4,0.85,2.9%,5.8%,44.9%,51.6%,44.7%,50.0% (6/12),46.2%,44.3%,0.0%,37.2%,61.1%,33.3% (4/12),1:30
+8-May-2023,Rome,3,Clay,Q1,164,139,1,,24,Priscilla Hon,Harriet Dart,1-6 6-2 6-2,1.22,4.7%,2.4%,61.2%,61.5%,57.6%,78.6% (11/14),54.7%,48.6%,4.1%,42.5%,55.9%,55.6% (5/9),2:07
+1-May-2023,W60 Prague,3,Clay,QF,163,371,0,2,SE,Nikola Bartunkova,Priscilla Hon,6-3 6-4,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R16,163,298,1,2,Q,Priscilla Hon,Anastasia Kulikova,6-4 6-4,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R32,163,,1,2,WC,Priscilla Hon,Victoria Bervid,6-0 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W60 Istanbul,3,Clay,R32,163,256,0,3,,Irina Khromacheva,Priscilla Hon,6-3 5-7 6-0,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R16,160,373,0,3,,Hong Yi Cody Wong,Priscilla Hon,6-3 7-6(3),,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R32,160,341,1,3,,Priscilla Hon,Petra Hule,6-4 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,R32,158,312,0,3,,Maddison Inglis,Priscilla Hon,6-7(2) 7-6(5) 7-6(5),,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,F,189,144,1,3,1,Priscilla Hon,Olivia Gadecki,4-6 6-2 6-4,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,SF,189,322,1,3,,Priscilla Hon,Haruka Kaji,6-3 6-2,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,QF,189,269,1,3,6,Priscilla Hon,Joanna Garland,6-3 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,R16,189,433,1,3,,Priscilla Hon,Chihiro Muramatsu,7-5 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,R32,189,521,1,3,,Priscilla Hon,Punnin Kovapitukted,6-3 6-2,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R32,186,431,0,2,,Yafan Wang,Priscilla Hon,7-5 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W25 Burnie,3,Hard,R16,168,415,0,3,,Erika Sema,Priscilla Hon,6-3 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W25 Burnie,3,Hard,R32,168,612,1,3,WC,Priscilla Hon,Tina Nadine Smith,7-5 7-5,,,,,,,,,,,,,,
+30-Jan-2023,W60 Burnie,3,Hard,QF,174,159,0,3,5,Olivia Gadecki,Priscilla Hon,6-2 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W60 Burnie,3,Hard,R16,174,606,1,3,,Priscilla Hon,Ena Shibahara,6-1 7-5,,,,,,,,,,,,,,
+30-Jan-2023,W60 Burnie,3,Hard,R32,174,907,1,3,Q,Priscilla Hon,Yaroslava Bartashevich,6-3 6-0,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q2,170,190,0,,,Katherine Sebov,Priscilla Hon,6-2 6-2,0.54,0.0%,2.0%,53.1%,42.3%,43.5%,28.6% (2/7),37.2%,31.1%,2.2%,30.8%,33.3%,50.0% (1/2),1:02
+16-Jan-2023,Australian Open,5,Hard,Q1,170,153,1,,,Priscilla Hon,Katrina Scott,6-3 6-7(2) 6-1,1.14,5.0%,7.5%,62.5%,72.0%,42.2%,83.3% (10/12),53.7%,44.7%,4.3%,36.7%,53.3%,55.6% (5/9),2:27
+2-Jan-2023,Adelaide 1,3,Hard,R32,154,59,0,WC,Q,Claire Liu,Priscilla Hon,4-6 6-3 6-3,0.79,1.0%,5.2%,61.5%,67.8%,43.2%,50.0% (4/8),46.6%,32.9%,6.1%,26.4%,44.8%,40.0% (2/5),2:10
+21-Nov-2022,W25 Traralgon,3,Hard,QF,154,401,0,1,8,Destanee Aiava,Priscilla Hon,W/O,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R16,154,744,1,1,,Priscilla Hon,Tina Nadine Smith,6-4 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R32,154,505,1,1,,Priscilla Hon,Jessica Failla,6-1 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,QF,152,241,0,1,7,Lizette Cabrera,Priscilla Hon,6-0 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,R16,152,874,1,1,Q,Priscilla Hon,Natsuho Arakawa,6-3 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,R32,152,747,1,1,,Priscilla Hon,Junri Namigata,6-1 7-6(2),,,,,,,,,,,,,,
@@ -40,8 +128,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-May-2022,W25 Netanya (previously Kiryat Gat),3,Hard,QF,240,384,1,2,7,Priscilla Hon,Joanna Garland,7-5 6-0,,,,,,,,,,,,,,
 23-May-2022,W25 Netanya (previously Kiryat Gat),3,Hard,R16,240,,1,2,WC,Priscilla Hon,Mika Buchnik,6-2 6-1,,,,,,,,,,,,,,
 23-May-2022,W25 Netanya (previously Kiryat Gat),3,Hard,R32,240,978,1,2,Q,Priscilla Hon,Anastasia Kovaleva,7-6(3) 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,240,154,0,,,Anastasia Gasanova,Priscilla Hon,6-4 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,240,236,1,,,Priscilla Hon,Francesca Di Lorenzo,6-4 6-4,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,240,154,0,,,Anastasia Gasanova,Priscilla Hon,6-4 6-3,0.85,3.2%,6.3%,58.7%,59.5%,34.6%,53.8% (7/13),46.3%,43.1%,0.0%,35.0%,61.1%,33.3% (3/9),
+23-May-2022,Roland Garros,5,Clay,Q1,240,236,1,,,Priscilla Hon,Francesca Di Lorenzo,6-4 6-4,1.52,4.8%,1.6%,93.7%,76.3%,50.0%,100.0% (4/4),56.8%,38.7%,6.5%,35.2%,62.5%,33.3% (2/6),
 9-May-2022,Karlsruhe 125,3,Clay,R16,250,251,0,SR,WC,Eva Lys,Priscilla Hon,6-1 6-1,0.49,6.1%,8.2%,69.4%,50.0%,26.7%,16.7% (1/6),35.8%,28.3%,0.0%,22.6%,40.0%,0.0% (0/4),1:01
 9-May-2022,Karlsruhe 125,3,Clay,R32,250,83,1,SR,6,Priscilla Hon,Clara Burel,3-6 6-2 7-6(6),1.12,0.0%,5.8%,59.2%,67.2%,45.2%,61.5% (8/13),52.8%,46.9%,0.0%,45.8%,48.6%,45.5% (5/11),2:21
 2-May-2022,W60 Prague,3,Clay,R16,254,220,0,SR,,Fernanda Contreras Gomez,Priscilla Hon,3-6 6-4 7-5,,,,,,,,,,,,,,
@@ -102,14 +190,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Sep-2019,W25 Brisbane,3,Hard,QF,120,267,0,,6,Asia Muhammad,Priscilla Hon,6-2 6-4,,,,,,,,,,,,,,
 30-Sep-2019,W25 Brisbane,3,Hard,R16,120,418,1,,Q,Priscilla Hon,Magali Kempen,7-5 6-7(7) 4-0 RET,,,,,,,,,,,,,,
 30-Sep-2019,W25 Brisbane,3,Hard,R32,120,936,1,,WC,Priscilla Hon,Amber Marshall,6-1 6-2,,,,,,,,,,,,,,
-16-Sep-2019,Seoul,3,Hard,QF,119,45,0,Q,3,Karolina Muchova,Priscilla Hon,6-3 6-3 (ch),0.70,3.4%,6.9%,56.9%,63.6%,40.0%,57.1% (4/7),42.6%,32.8%,6.3%,24.2%,41.9%,0.0% (0/8),1:22
+16-Sep-2019,Seoul,3,Hard,QF,119,45,0,Q,3,Karolina Muchova,Priscilla Hon,6-3 6-3,0.70,3.4%,6.9%,56.9%,63.6%,40.0%,57.1% (4/7),42.6%,32.8%,6.3%,24.2%,41.9%,0.0% (0/8),1:22
 16-Sep-2019,Seoul,3,Hard,R16,119,42,1,Q,5,Priscilla Hon,Ajla Tomljanovic,6-3 5-7 6-1,1.11,7.6%,2.9%,61.9%,63.1%,50.0%,69.2% (9/13),52.8%,46.6%,4.5%,27.7%,68.3%,43.8% (7/16),2:06
 16-Sep-2019,Seoul,3,Hard,R32,119,101,1,Q,SE,Priscilla Hon,Mihaela Buzarnescu,6-3 6-4,1.18,7.4%,4.4%,54.4%,78.4%,48.4%,75.0% (3/4),53.9%,41.7%,5.0%,34.1%,57.9%,75.0% (3/4),1:28
 16-Sep-2019,Seoul,3,Hard,Q2,119,190,1,4,9,Priscilla Hon,Destanee Aiava,7-6(3) 6-2,1.33,11.4%,2.9%,60.0%,76.2%,42.9%,0.0% (0/2),55.3%,49.4%,3.4%,44.8%,58.1%,30.8% (4/13),1:36
 16-Sep-2019,Seoul,3,Hard,Q1,119,,1,4,WC,Priscilla Hon,Yu Jin Ahn,6-3 6-1,1.53,4.0%,4.0%,60.0%,60.0%,55.0%,40.0% (2/5),61.3%,64.3%,0.0%,62.9%,66.7%,77.8% (7/9),1:04
-9-Sep-2019,Hiroshima,3,Hard,R16,123,29,0,,1,Su Wei Hsieh,Priscilla Hon,1-6 7-6(2) 7-5 (ch),1.02,8.3%,4.6%,62.0%,70.1%,26.8%,61.1% (11/18),50.5%,47.2%,0.0%,38.6%,63.2%,47.1% (8/17),2:10
+9-Sep-2019,Hiroshima,3,Hard,R16,123,29,0,,1,Su Wei Hsieh,Priscilla Hon,1-6 7-6(2) 7-5,1.02,8.3%,4.6%,62.0%,70.1%,26.8%,61.1% (11/18),50.5%,47.2%,0.0%,38.6%,63.2%,47.1% (8/17),2:10
 9-Sep-2019,Hiroshima,3,Hard,R32,123,129,1,,,Priscilla Hon,Katarzyna Kawa,6-0 1-6 6-4,1.13,2.5%,1.3%,57.0%,62.2%,55.9%,40.0% (2/5),52.5%,45.8%,0.0%,41.2%,53.1%,40.0% (4/10),2:03
-26-Aug-2019,US Open,5,Hard,R128,130,61,0,,,Margarita Gasparyan,Priscilla Hon,7-6(4) 6-4 (ch),0.94,0.0%,5.7%,61.4%,58.1%,40.7%,14.3% (1/7),48.3%,45.5%,1.3%,40.0%,55.6%,83.3% (5/6),1:34
+26-Aug-2019,US Open,5,Hard,R128,130,61,0,,,Margarita Gasparyan,Priscilla Hon,7-6(4) 6-4,0.94,0.0%,5.7%,61.4%,58.1%,40.7%,14.3% (1/7),48.3%,45.5%,1.3%,40.0%,55.6%,83.3% (5/6),1:34
 26-Aug-2019,US Open,5,Hard,Q3,130,280,0,25,,Denisa Allertova,Priscilla Hon,6-3 7-5,0.82,1.6%,4.8%,58.1%,55.6%,30.8%,36.4% (4/11),45.0%,44.8%,1.5%,42.3%,53.3%,62.5% (5/8),1:13
 26-Aug-2019,US Open,5,Hard,Q2,130,210,1,25,,Priscilla Hon,Katharina Hobgarski,5-7 6-4 6-2,1.05,5.3%,9.2%,60.3%,67.1%,40.4%,80.0% (16/20),52.0%,45.7%,2.1%,44.6%,48.3%,42.9% (6/14),2:20
 26-Aug-2019,US Open,5,Hard,Q1,130,217,1,25,,Priscilla Hon,Harmony Tan,6-4 7-5,1.53,1.9%,0.0%,57.7%,73.3%,63.6%,50.0% (3/6),56.7%,47.1%,2.9%,42.9%,50.0%,62.5% (5/8),1:18
@@ -144,7 +232,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Jan-2019,Hua Hin,3,Hard,R32,142,98,0,Q,,Magda Linette,Priscilla Hon,6-1 2-6 6-2,0.87,1.5%,2.9%,54.4%,64.9%,35.5%,33.3% (3/9),46.5%,42.1%,5.3%,27.3%,62.5%,42.9% (3/7),1:41
 28-Jan-2019,Hua Hin,3,Hard,Q2,142,214,1,4,10,Priscilla Hon,Ayano Shimizu,6-2 6-3,1.42,11.3%,4.8%,56.5%,77.1%,51.9%,50.0% (1/2),57.6%,48.2%,0.0%,37.5%,62.5%,57.1% (4/7),1:06
 28-Jan-2019,Hua Hin,3,Hard,Q1,142,264,1,4,,Priscilla Hon,Naomi Broady,6-3 6-2,1.47,7.5%,10.0%,52.5%,71.4%,47.4%,0.0% (0/3),59.2%,58.7%,6.3%,56.7%,60.6%,70.0% (7/10),1:07
-14-Jan-2019,Australian Open,5,Hard,R128,140,232,0,WC,Q,Astra Sharma,Priscilla Hon,7-5 4-6 6-1 (ch),0.87,6.6%,8.5%,56.6%,61.7%,47.8%,44.4% (4/9),47.2%,38.7%,11.3%,26.4%,64.7%,23.1% (3/13),2:09
+14-Jan-2019,Australian Open,5,Hard,R128,140,232,0,WC,Q,Astra Sharma,Priscilla Hon,7-5 4-6 6-1,0.87,6.6%,8.5%,56.6%,61.7%,47.8%,44.4% (4/9),47.2%,38.7%,11.3%,26.4%,64.7%,23.1% (3/13),2:09
 7-Jan-2019,Sydney,3,Hard,R16,161,33,0,Q,Q,Aliaksandra Sasnovich,Priscilla Hon,0-6 6-3 6-3,1.00,5.1%,4.1%,67.3%,62.1%,40.6%,68.8% (11/16),50.9%,45.1%,5.6%,34.1%,60.0%,83.3% (5/6),1:46
 7-Jan-2019,Sydney,3,Hard,R32,161,71,1,Q,LL,Priscilla Hon,Tatjana Maria,6-3 7-6(4),1.33,6.3%,3.1%,56.3%,83.3%,53.6%,0.0% (0/1),53.6%,39.5%,11.8%,30.4%,53.3%,40.0% (2/5),1:31
 7-Jan-2019,Sydney,3,Hard,Q2,161,249,1,,WC,Priscilla Hon,Kimberly Birrell,6-7(2) 6-4 6-3,1.11,9.2%,1.0%,63.3%,62.9%,55.6%,57.1% (4/7),52.3%,44.3%,7.2%,31.6%,62.5%,66.7% (6/9),2:16
@@ -178,7 +266,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jun-2018,Surbiton $100K,3,Grass,R16,183,101,1,,3,Priscilla Hon,Madison Brengle,W/O,,,,,,,,,,,,,,
 4-Jun-2018,Surbiton $100K,3,Grass,R32,183,160,1,,,Priscilla Hon,Jamie Loeb,4-6 7-5 6-2,,,,,,,,,,,,,,
 28-May-2018,Roland Garros,5,Clay,Q1,183,161,0,,,Deborah Chiesa,Priscilla Hon,0-6 6-2 6-4,,,,,,,,,,,,,,
-7-May-2018,Cagnes Sur Mer $100K,3,Clay,R32,189,109,0,LL,,Viktoria Kuzmova,Priscilla Hon,6-3 6-2,,,,,,,,,,,,,,
+7-May-2018,Cagnes Sur Mer $100K,3,Clay,R32,189,109,0,LL,,Viktoria Hruncakova,Priscilla Hon,6-3 6-2,,,,,,,,,,,,,,
 30-Apr-2018,Prague,3,Clay,Q2,188,299,0,,,Anastasia Zarytska,Priscilla Hon,6-4 6-4,0.65,4.1%,1.4%,60.3%,59.1%,44.8%,73.3% (11/15),43.7%,30.2%,0.0%,25.0%,46.2%,66.7% (2/3),1:25
 30-Apr-2018,Prague,3,Clay,Q1,188,532,1,,,Priscilla Hon,Reka Luca Jani,6-2 6-3,1.78,7.7%,0.0%,63.5%,78.8%,68.4%,100.0% (1/1),59.4%,44.4%,1.9%,45.7%,42.1%,50.0% (3/6),1:04
 16-Apr-2018,Dothan AL $80K,3,Clay,R16,187,159,0,,8,Lizette Cabrera,Priscilla Hon,6-2 6-7(5) 6-1,,,,,,,,,,,,,,
@@ -209,7 +297,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Oct-2017,Hong Kong,3,Hard,Q2,240,225,1,9,6,Priscilla Hon,Danielle Lao,7-5 6-2,1.11,7.8%,5.2%,49.4%,71.1%,53.8%,90.9% (10/11),53.3%,41.7%,0.0%,38.1%,50.0%,57.1% (4/7),1:37
 9-Oct-2017,Hong Kong,3,Hard,Q1,240,294,1,9,,Priscilla Hon,Julia Glushko,6-2 6-4,1.49,1.9%,0.0%,64.8%,74.3%,57.9%,75.0% (3/4),56.9%,46.8%,1.6%,44.4%,50.0%,44.4% (4/9),1:11
 18-Sep-2017,Seoul,3,Hard,QF,308,119,0,Q,,Richel Hogenkamp,Priscilla Hon,6-3 6-4,0.92,5.6%,5.6%,53.7%,58.6%,56.0%,42.9% (3/7),47.5%,39.4%,7.6%,29.7%,51.7%,33.3% (2/6),1:13
-18-Sep-2017,Seoul,3,Hard,R16,308,143,1,Q,Q,Priscilla Hon,Arantxa Rus,7-5 6-4 (ch),1.13,7.1%,2.4%,51.2%,65.1%,53.7%,75.0% (6/8),53.2%,45.8%,4.2%,33.3%,63.3%,50.0% (4/8),1:45
+18-Sep-2017,Seoul,3,Hard,R16,308,143,1,Q,Q,Priscilla Hon,Arantxa Rus,7-5 6-4,1.13,7.1%,2.4%,51.2%,65.1%,53.7%,75.0% (6/8),53.2%,45.8%,4.2%,33.3%,63.3%,50.0% (4/8),1:45
 18-Sep-2017,Seoul,3,Hard,R32,308,262,1,Q,Q,Priscilla Hon,Karolina Muchova,6-1 4-6 6-4,1.13,5.2%,2.1%,57.3%,65.5%,46.3%,63.6% (7/11),53.0%,48.3%,3.4%,40.7%,60.6%,63.6% (7/11),1:55
 18-Sep-2017,Seoul,3,Hard,Q2,308,140,1,10,1,Priscilla Hon,Tereza Martincova,6-1 6-2,1.80,8.7%,0.0%,58.7%,77.8%,63.2%,100.0% (1/1),60.4%,50.9%,7.3%,48.5%,54.5%,40.0% (4/10),1:02
 18-Sep-2017,Seoul,3,Hard,Q1,308,419,1,10,,Priscilla Hon,Olivia Tjandramulia,6-1 6-1,4.19,6.1%,3.0%,54.5%,100.0%,66.7%,- (0/0),73.0%,63.4%,0.0%,56.0%,75.0%,71.4% (5/7),0:46
@@ -271,7 +359,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jan-2016,Australian Open,5,Hard,R128,335,55,0,,,Annika Beck,Priscilla Hon,6-0 6-3,0.62,4.0%,2.0%,58.0%,41.4%,38.1%,45.5% (5/11),38.5%,37.0%,0.0%,27.3%,61.5%,50.0% (1/2),1:04
 4-Jan-2016,Brisbane,3,Hard,R32,336,142,0,WC,Q,Samantha Crawford,Priscilla Hon,6-4 6-4,0.88,3.0%,0.0%,65.2%,69.8%,30.4%,20.0% (1/5),47.7%,38.7%,16.1%,28.6%,51.9%,33.3% (2/6),1:17
 9-Nov-2015,Bendigo $50K,3,Hard,R16,346,181,0,,3,Misa Eguchi,Priscilla Hon,6-1 1-6 6-4,,,,,,,,,,,,,,
-9-Nov-2015,Bendigo $50K,3,Hard,R32,346,371,1,,,Priscilla Hon,Storm Sanders,4-6 6-3 7-5,,,,,,,,,,,,,,
+9-Nov-2015,Bendigo $50K,3,Hard,R32,346,371,1,,,Priscilla Hon,Storm Hunter,4-6 6-3 7-5,,,,,,,,,,,,,,
 2-Nov-2015,Canberra $50K,3,Hard,R16,358,578,0,,Q,Jennifer Elie,Priscilla Hon,6-4 3-6 7-5,,,,,,,,,,,,,,
 2-Nov-2015,Canberra $50K,3,Hard,R32,358,319,1,,,Priscilla Hon,Manon Arcangioli,6-3 6-2,,,,,,,,,,,,,,
 19-Oct-2015,Brisbane $25K,3,Hard,F,504,553,1,WC,WC,Priscilla Hon,Kimberly Birrell,6-4 6-3,,,,,,,,,,,,,,

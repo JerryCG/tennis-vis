@@ -1,5 +1,83 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
-17-Oct-2022,Guadalajara 2,3,Hard,R16,28,7,0,,5,Cori Gauff,Martina Trevisan,6-0 6-3,0.61,0.0%,10.0%,65.0%,50.0%,21.4%,16.7% (1/6),38.0%,36.7%,3.3%,24.3%,56.5%,11.1% (1/9),1:01
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Rabat,3,Clay,R16,88,48,0,,4,Lucia Bronzetti,Martina Trevisan,6-2 6-3,0.75,0.0%,7.5%,56.6%,50.0%,39.1%,61.5% (8/13),43.1%,41.3%,3.2%,27.0%,61.5%,40.0% (2/5),1:37
+20-May-2024,Rabat,3,Clay,R32,88,96,1,,,Martina Trevisan,Nao Hibino,7-5 4-6 6-3,1.06,1.1%,9.7%,65.6%,57.4%,43.8%,50.0% (7/14),51.3%,50.0%,0.0%,45.3%,58.3%,60.0% (9/15),2:36
+13-May-2024,Parma 125,3,Clay,R32,87,98,0,,,Kamilla Rakhimova,Martina Trevisan,6-2 6-4,0.72,3.1%,3.1%,75.4%,55.1%,43.8%,42.9% (3/7),44.2%,34.5%,1.8%,35.3%,33.3%,50.0% (1/2),1:31
+6-May-2024,Rome,3,Clay,R128,87,41,0,WC,,Yulia Putintseva,Martina Trevisan,6-3 6-4,0.82,1.8%,5.5%,63.6%,65.7%,25.0%,50.0% (4/8),44.9%,40.3%,5.6%,36.7%,47.8%,25.0% (2/8),1:42
+22-Apr-2024,Madrid,3,Clay,R128,76,33,0,,,Sloane Stephens,Martina Trevisan,6-3 5-7 6-4,0.83,0.0%,3.7%,73.1%,55.1%,38.9%,71.4% (15/21),46.5%,41.1%,1.9%,36.3%,55.6%,45.5% (5/11),3:16
+15-Apr-2024,Rouen,3,Clay,R16,78,32,0,,3,Anhelina Kalinina,Martina Trevisan,6-2 6-3,0.70,0.0%,7.4%,72.2%,41.0%,33.3%,12.5% (1/8),40.9%,42.9%,3.6%,45.0%,37.5%,40.0% (4/10),1:33
+15-Apr-2024,Rouen,3,Clay,R32,78,192,1,,WC,Martina Trevisan,Naomi Osaka,6-4 6-2,1.34,4.8%,1.6%,66.7%,73.8%,47.6%,87.5% (7/8),56.1%,46.7%,8.3%,34.4%,60.7%,66.7% (4/6),1:32
+8-Apr-2024,W100 Zaragoza,3,Clay,QF,81,102,0,2,6,Jessica Bouzas Maneiro,Martina Trevisan,6-2 7-5,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R16,81,167,1,2,,Martina Trevisan,Tereza Martincova,6-1 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,81,592,1,2,WC,Martina Trevisan,Kaitlin Quevedo,6-4 7-5,,,,,,,,,,,,,,
+18-Mar-2024,Miami,3,Hard,R128,61,122,0,,Q,Storm Hunter,Martina Trevisan,6-3 3-0 RET,0.51,2.9%,8.6%,74.3%,57.7%,33.3%,40.0% (2/5),38.8%,25.0%,0.0%,20.0%,33.3%,- (0/0),0:46
+11-Mar-2024,Charleston 125,3,Hard,R16,59,85,0,3,,Oceane Dodin,Martina Trevisan,7-5 4-6 7-6(9),0.92,2.3%,10.6%,60.6%,63.7%,42.3%,61.5% (8/13),48.4%,41.0%,3.3%,22.7%,62.5%,50.0% (5/10),3:01
+11-Mar-2024,Charleston 125,3,Hard,R32,59,101,1,3,,Martina Trevisan,Renata Zarazua,3-6 6-3 6-1,1.12,0.0%,4.3%,71.0%,57.1%,45.0%,37.5% (3/8),52.6%,51.8%,1.2%,51.5%,52.9%,66.7% (8/12),2:10
+6-Mar-2024,Indian Wells,3,Hard,R128,59,61,0,,,Diane Parry,Martina Trevisan,7-5 6-3,0.70,2.5%,4.9%,60.5%,61.2%,46.9%,78.6% (11/14),44.8%,31.3%,3.1%,39.4%,22.6%,50.0% (1/2),2:01
+19-Feb-2024,Dubai,3,Hard,Q1,59,128,0,7,,Storm Hunter,Martina Trevisan,7-5 6-4,0.81,1.7%,5.0%,51.7%,71.0%,31.0%,28.6% (2/7),45.5%,39.3%,9.8%,29.3%,60.0%,60.0% (3/5),1:29
+12-Feb-2024,Doha,3,Hard,R64,58,34,0,LL,,Anastasia Potapova,Martina Trevisan,6-4 6-4,0.85,0.0%,5.6%,67.6%,52.1%,52.2%,66.7% (8/12),46.0%,40.5%,1.3%,34.0%,50.0%,25.0% (2/8),1:43
+12-Feb-2024,Doha,3,Hard,Q2,58,85,0,4,13,Greet Minnen,Martina Trevisan,6-0 7-6(5),0.75,6.6%,1.6%,63.9%,56.4%,54.5%,20.0% (1/5),44.4%,33.3%,1.6%,26.3%,44.0%,50.0% (1/2),1:41
+12-Feb-2024,Doha,3,Hard,Q1,58,151,1,4,ALT,Martina Trevisan,Anna Lena Friedsam,6-2 7-6(3),1.20,4.4%,4.4%,64.8%,66.1%,46.9%,80.0% (8/10),54.5%,48.6%,4.1%,47.8%,50.0%,50.0% (4/8),2:08
+29-Jan-2024,Linz,3,Hard,R32,57,42,0,,,Anastasia Pavlyuchenkova,Martina Trevisan,6-4 6-0,0.33,5.9%,7.8%,72.5%,59.5%,14.3%,55.6% (5/9),34.1%,17.5%,5.0%,17.4%,17.6%,0.0% (0/3),1:06
+15-Jan-2024,Australian Open,5,Hard,R64,59,95,0,,,Oceane Dodin,Martina Trevisan,6-4 6-4,0.81,0.0%,4.8%,74.6%,61.7%,31.3%,55.6% (5/9),45.6%,37.1%,8.1%,17.2%,54.5%,28.6% (2/7),1:35
+15-Jan-2024,Australian Open,5,Hard,R128,59,97,1,,Q,Martina Trevisan,Renata Zarazua,4-6 6-4 6-2,1.15,1.0%,3.0%,70.7%,62.9%,51.7%,69.2% (9/13),53.5%,46.5%,1.2%,45.6%,50.0%,54.5% (6/11),2:52
+8-Jan-2024,Hobart,3,Hard,R32,60,77,0,,LL,Viktoriya Tomova,Martina Trevisan,6-3 6-3,0.80,1.6%,6.3%,65.1%,61.0%,31.8%,33.3% (2/6),44.6%,39.5%,0.0%,36.1%,53.3%,8.3% (1/12),1:44
+1-Jan-2024,Brisbane,3,Hard,R64,46,113,0,,WC,Arina Rodionova,Martina Trevisan,6-3 6-2,0.65,3.3%,8.2%,60.7%,62.2%,20.8%,64.3% (9/14),41.1%,35.3%,2.0%,29.7%,50.0%,66.7% (2/3),1:27
+7-Nov-2023,BJK Cup Finals,3,Hard,F,43,258,0,,,Marina Stakusic,Martina Trevisan,7-5 6-3,0.78,1.3%,6.5%,67.5%,57.7%,24.0%,53.8% (7/13),44.3%,41.3%,3.2%,39.0%,45.5%,66.7% (4/6),
+7-Nov-2023,BJK Cup Finals,3,Hard,SF,43,104,1,,,Martina Trevisan,Kaja Juvan,7-6(6) 6-3,1.11,1.1%,5.5%,61.5%,66.1%,54.3%,80.0% (8/10),53.5%,42.6%,0.0%,39.4%,45.7%,37.5% (3/8),
+7-Nov-2023,BJK Cup Finals,3,Hard,RR,43,118,1,,,Martina Trevisan,Alize Cornet,2-6 6-2 6-2,1.05,0.0%,8.7%,71.0%,51.0%,30.0%,41.7% (5/12),52.0%,57.8%,0.0%,57.4%,58.6%,50.0% (9/18),
+7-Nov-2023,BJK Cup Finals,3,Hard,RR,43,130,1,,,Martina Trevisan,Eva Lys,7-6(6) 6-1,1.16,1.4%,5.4%,59.5%,63.6%,36.7%,42.9% (3/7),53.8%,54.7%,0.0%,50.0%,64.3%,40.0% (6/15),
+16-Oct-2023,Monastir,3,Hard,R32,38,217,0,3,WC,Katarzyna Kawa,Martina Trevisan,6-3 3-6 7-5,0.93,1.9%,1.9%,70.2%,56.2%,61.3%,44.4% (4/9),49.5%,39.5%,4.7%,32.7%,50.0%,44.4% (4/9),2:16
+9-Oct-2023,Hong Kong,3,Hard,SF,42,85,0,6,,Katerina Siniakova,Martina Trevisan,6-4 6-2,0.79,0.0%,4.3%,72.5%,54.0%,31.6%,66.7% (12/18),45.2%,41.3%,8.7%,35.5%,53.3%,75.0% (3/4),1:33
+9-Oct-2023,Hong Kong,3,Hard,QF,42,41,1,6,3,Martina Trevisan,Elise Mertens,6-4 6-3,1.35,4.6%,3.1%,67.7%,63.6%,52.4%,62.5% (5/8),57.4%,54.0%,6.0%,35.7%,77.3%,100.0% (6/6),1:28
+9-Oct-2023,Hong Kong,3,Hard,R16,42,70,1,6,,Martina Trevisan,Magdalena Frech,6-3 6-7(4) 6-3,0.97,2.5%,3.4%,68.9%,64.6%,43.2%,72.7% (8/11),51.0%,41.0%,4.8%,43.1%,37.5%,55.6% (5/9),2:46
+9-Oct-2023,Hong Kong,3,Hard,R32,42,78,1,6,,Martina Trevisan,Cristina Bucsa,7-5 6-2,1.62,1.8%,3.6%,64.3%,72.2%,60.0%,50.0% (2/4),59.1%,52.1%,0.0%,46.5%,60.7%,50.0% (5/10),1:34
+2-Oct-2023,Beijing,3,Hard,R64,40,53,0,,,Tatjana Maria,Martina Trevisan,6-3 7-6(2),0.77,0.0%,5.6%,63.4%,48.9%,46.2%,37.5% (3/8),44.1%,40.3%,5.6%,34.2%,47.1%,50.0% (4/8),1:46
+18-Sep-2023,Guadalajara,3,Hard,QF,54,111,0,,,Caroline Dolehide,Martina Trevisan,3-6 7-6(9) 6-3,0.99,0.0%,4.9%,75.7%,60.3%,56.0%,66.7% (6/9),49.1%,40.5%,3.3%,29.6%,62.5%,33.3% (4/12),2:47
+18-Sep-2023,Guadalajara,3,Hard,R16,54,7,1,,1,Martina Trevisan,Ons Jabeur,6-7(4) 7-5 6-3,1.00,0.7%,0.7%,70.4%,63.2%,47.5%,76.5% (13/17),51.0%,41.5%,3.8%,33.8%,55.3%,54.5% (6/11),3:02
+18-Sep-2023,Guadalajara,3,Hard,R32,54,35,1,,15,Martina Trevisan,Jasmine Paolini,7-5 6-2,1.21,4.9%,1.6%,60.7%,70.3%,45.8%,71.4% (5/7),54.1%,47.5%,1.6%,42.1%,56.5%,71.4% (5/7),1:44
+18-Sep-2023,Guadalajara,3,Hard,R64,54,,1,,Q,Martina Trevisan,Demi Schuurs,6-2 6-0,2.54,0.0%,2.9%,51.4%,83.3%,64.7%,0.0% (0/1),69.1%,65.2%,0.0%,57.7%,75.0%,54.5% (6/11),0:57
+28-Aug-2023,US Open,5,Hard,R64,58,9,0,,9,Marketa Vondrousova,Martina Trevisan,6-2 6-2,0.57,0.0%,8.1%,61.3%,57.9%,33.3%,50.0% (5/10),40.0%,29.2%,4.2%,30.3%,26.7%,20.0% (1/5),1:20
+28-Aug-2023,US Open,5,Hard,R128,58,78,1,,,Martina Trevisan,Yulia Putintseva,0-6 7-6(0) 7-6(8),0.91,0.0%,5.7%,65.1%,46.4%,48.6%,55.6% (10/18),47.6%,47.9%,0.8%,45.6%,55.2%,55.6% (5/9),3:19
+21-Aug-2023,Cleveland,3,Hard,R32,53,58,0,LL,,Peyton Stearns,Martina Trevisan,6-1 4-5 RET,0.78,1.9%,9.4%,54.7%,51.7%,25.0%,14.3% (1/7),43.5%,47.3%,1.8%,39.4%,59.1%,33.3% (4/12),1:21
+21-Aug-2023,Cleveland,3,Hard,Q2,53,84,0,3,9,Xiyu Wang,Martina Trevisan,6-1 3-6 6-3,0.74,0.0%,9.4%,55.3%,61.7%,47.4%,50.0% (4/8),44.5%,32.9%,7.6%,15.1%,69.2%,28.6% (2/7),2:06
+21-Aug-2023,Cleveland,3,Hard,Q1,53,503,1,3,,Martina Trevisan,Alana Smith,6-1 7-6(1),1.41,0.0%,8.3%,56.7%,67.6%,57.7%,40.0% (2/5),56.7%,51.9%,6.2%,34.1%,70.0%,46.2% (6/13),1:43
+14-Aug-2023,Cincinnati,3,Hard,R32,63,3,0,Q,3,Jessica Pegula,Martina Trevisan,6-7(2) 6-2 6-3,0.89,0.0%,8.2%,65.3%,59.4%,35.3%,38.5% (5/13),47.4%,43.5%,1.1%,45.3%,41.0%,57.1% (4/7),2:24
+14-Aug-2023,Cincinnati,3,Hard,R64,63,61,1,Q,,Martina Trevisan,Bernarda Pera,3-6 6-1 6-2,1.28,0.0%,5.0%,68.8%,67.3%,52.0%,60.0% (3/5),55.3%,48.1%,7.6%,39.2%,64.3%,62.5% (5/8),1:47
+14-Aug-2023,Cincinnati,3,Hard,Q2,63,130,1,14,,Martina Trevisan,Taylor Townsend,6-4 4-6 7-5,0.96,2.8%,4.6%,71.3%,61.0%,54.8%,63.6% (7/11),50.3%,39.1%,5.7%,37.5%,41.9%,71.4% (5/7),2:31
+14-Aug-2023,Cincinnati,3,Hard,Q1,63,695,1,14,,Martina Trevisan,Su Wei Hsieh,6-1 6-0,2.08,0.0%,10.4%,64.6%,74.2%,58.8%,100.0% (3/3),67.1%,64.9%,2.7%,50.0%,76.2%,71.4% (5/7),0:57
+23-Jul-2023,Hamburg,3,Clay,QF,76,207,0,,WC,Noma Noha Akugue,Martina Trevisan,5-7 6-4 7-5,0.93,0.0%,0.9%,75.4%,53.5%,35.7%,50.0% (9/18),48.2%,47.3%,1.8%,36.7%,59.6%,53.3% (8/15),2:42
+23-Jul-2023,Hamburg,3,Clay,R16,76,67,1,,8,Martina Trevisan,Camila Osorio,6-1 6-3,1.44,0.0%,1.6%,64.1%,63.4%,60.9%,88.9% (8/9),58.6%,53.8%,0.0%,50.0%,60.0%,55.6% (5/9),1:24
+23-Jul-2023,Hamburg,3,Clay,R32,76,173,1,,,Martina Trevisan,Elvina Kalieva,6-1 6-0,2.46,2.9%,8.6%,42.9%,53.3%,85.0%,0.0% (0/1),70.8%,70.3%,2.7%,64.3%,73.9%,60.0% (6/10),0:59
+17-Jul-2023,Palermo,3,Clay,R32,75,11,0,,1,Daria Kasatkina,Martina Trevisan,6-3 6-7(2) 6-0,0.80,0.0%,4.4%,63.7%,46.6%,51.5%,50.0% (7/14),44.8%,41.1%,3.3%,33.8%,68.4%,42.9% (3/7),2:36
+3-Jul-2023,Wimbledon,5,Grass,R128,64,84,0,,,Sara Sorribes Tormo,Martina Trevisan,6-3 6-1,0.66,0.0%,7.5%,58.5%,48.4%,50.0%,20.0% (1/5),40.7%,33.8%,0.0%,28.9%,45.0%,0.0% (0/6),1:40
+26-Jun-2023,Bad Homburg,3,Grass,R32,62,74,0,,,Alize Cornet,Martina Trevisan,6-4 6-2,0.66,0.0%,5.8%,63.5%,42.4%,36.8%,14.3% (1/7),39.8%,39.1%,6.5%,30.3%,61.5%,75.0% (3/4),1:25
+29-May-2023,Roland Garros,5,Clay,R128,24,192,0,26,,Elina Svitolina,Martina Trevisan,6-2 6-2,0.58,0.0%,8.9%,60.0%,63.0%,33.3%,33.3% (2/6),39.4%,28.6%,4.1%,25.7%,35.7%,- (0/0),1:11
+22-May-2023,Rabat,3,Clay,QF,26,74,0,1,,Julia Grabher,Martina Trevisan,6-3 RET,0.69,0.0%,5.3%,42.1%,75.0%,27.3%,0.0% (0/2),40.4%,36.4%,3.0%,34.8%,40.0%,33.3% (1/3),0:40
+22-May-2023,Rabat,3,Clay,R16,26,266,1,1,Q,Martina Trevisan,Jana Fett,7-5 7-5,1.15,1.2%,6.2%,64.2%,63.5%,48.3%,66.7% (6/9),52.3%,48.2%,0.9%,43.1%,57.5%,23.8% (5/21),2:34
+22-May-2023,Rabat,3,Clay,R32,26,93,1,1,,Martina Trevisan,Nuria Parrizas Diaz,6-2 RET,1.52,2.6%,2.6%,66.7%,50.0%,76.9%,85.7% (6/7),60.3%,62.5%,0.0%,58.3%,66.7%,60.0% (3/5),0:59
+8-May-2023,Rome,3,Clay,R64,18,52,0,18,,Karolina Muchova,Martina Trevisan,3-6 6-3 7-5,0.93,0.0%,2.3%,61.6%,56.6%,48.5%,45.5% (5/11),47.7%,43.1%,4.6%,35.8%,54.8%,26.3% (5/19),2:53
+24-Apr-2023,Madrid,3,Clay,R16,20,3,0,18,3,Jessica Pegula,Martina Trevisan,6-3 2-6 6-3,0.92,0.0%,6.5%,59.8%,56.4%,37.8%,36.4% (4/11),48.0%,46.8%,5.1%,40.8%,56.7%,54.5% (6/11),2:05
+24-Apr-2023,Madrid,3,Clay,R32,20,54,1,18,,Martina Trevisan,Alycia Parks,7-6(3) 6-1,1.31,2.9%,2.9%,54.3%,55.3%,62.5%,50.0% (3/6),56.5%,54.1%,6.6%,27.3%,69.2%,41.7% (5/12),1:50
+24-Apr-2023,Madrid,3,Clay,R64,20,285,1,18,Q,Martina Trevisan,Eugenie Bouchard,6-2 7-5,1.25,0.0%,0.0%,68.8%,56.8%,60.0%,0.0% (0/3),55.3%,52.9%,0.0%,46.0%,72.2%,60.0% (6/10),1:45
+17-Apr-2023,Stuttgart,3,Clay,R32,20,14,0,,,Beatriz Haddad Maia,Martina Trevisan,7-5 1-1 RET,0.70,1.3%,3.9%,64.5%,57.1%,44.4%,75.0% (9/12),46.4%,33.3%,2.8%,34.6%,30.0%,50.0% (2/4),1:33
+14-Apr-2023,BJK Cup QLS R1: SVK vs ITA,3,Hard,RR,20,127,1,,,Martina Trevisan,Viktoria Hruncakova,7-6(9) 6-3,,,,,,,,,,,,,,
+20-Mar-2023,Miami,3,Hard,QF,24,7,0,25,10,Elena Rybakina,Martina Trevisan,6-3 6-0,0.66,0.0%,4.4%,64.4%,48.3%,31.3%,44.4% (4/9),40.0%,38.2%,18.2%,33.3%,44.0%,25.0% (1/4),1:09
+20-Mar-2023,Miami,3,Hard,R16,24,22,1,25,24,Martina Trevisan,Jelena Ostapenko,6-3 6-3,1.29,1.4%,0.0%,69.4%,58.0%,63.6%,77.8% (7/9),56.5%,51.9%,5.8%,43.3%,63.6%,55.6% (5/9),1:30
+20-Mar-2023,Miami,3,Hard,R32,24,59,1,25,,Martina Trevisan,Claire Liu,4-6 7-5 6-4,1.05,0.0%,4.3%,68.1%,58.2%,56.8%,73.7% (14/19),51.1%,44.2%,1.8%,41.2%,48.9%,54.5% (6/11),3:17
+20-Mar-2023,Miami,3,Hard,R64,24,137,1,25,Q,Martina Trevisan,Nao Hibino,6-4 6-3,1.22,3.3%,1.6%,72.1%,63.6%,52.9%,60.0% (3/5),55.0%,48.0%,2.0%,44.1%,56.3%,57.1% (4/7),1:22
+6-Mar-2023,Indian Wells,3,Hard,R32,26,76,0,23,,Karolina Muchova,Martina Trevisan,6-4 3-6 6-4,0.90,0.0%,4.1%,67.0%,63.1%,53.1%,76.9% (10/13),47.9%,36.1%,7.2%,25.9%,51.3%,37.5% (3/8),2:41
+6-Mar-2023,Indian Wells,3,Hard,R64,26,87,1,23,,Martina Trevisan,Madison Brengle,5-7 6-1 6-2,1.23,0.0%,4.7%,63.5%,61.1%,41.9%,40.0% (4/10),55.2%,56.3%,0.0%,54.9%,60.0%,50.0% (9/18),2:17
+20-Feb-2023,Dubai,3,Hard,R64,25,15,0,,12,Petra Kvitova,Martina Trevisan,6-2 6-1,0.57,0.0%,13.2%,65.8%,44.0%,7.7%,25.0% (2/8),36.2%,39.3%,7.1%,32.4%,52.6%,33.3% (2/6),1:08
+13-Feb-2023,Doha,3,Hard,R32,25,123,0,,SR,Karolina Muchova,Martina Trevisan,6-2 6-2,0.52,0.0%,6.1%,67.3%,57.6%,37.5%,60.0% (6/10),38.5%,25.5%,12.8%,23.3%,29.4%,0.0% (0/2),1:19
+6-Feb-2023,Abu Dhabi,3,Hard,R32,25,32,0,,,Elise Mertens,Martina Trevisan,6-0 6-2,0.41,2.3%,6.8%,63.6%,42.9%,31.3%,16.7% (1/6),32.1%,25.0%,7.5%,20.0%,33.3%,0.0% (0/2),1:15
+16-Jan-2023,Australian Open,5,Hard,R128,21,105,0,21,Q,Anna Karolina Schmiedlova,Martina Trevisan,6-3 6-2,0.71,2.3%,7.0%,55.8%,66.7%,26.3%,0.0% (0/5),42.2%,36.2%,4.3%,25.9%,50.0%,100.0% (2/2),1:11
+2-Jan-2023,United Cup,3,Hard,F,27,3,0,,,Jessica Pegula,Martina Trevisan,6-4 6-2,0.74,0.0%,0.0%,62.3%,46.5%,46.2%,33.3% (3/9),43.6%,39.6%,4.2%,29.2%,50.0%,100.0% (3/3),1:29
+2-Jan-2023,United Cup,3,Hard,SF,27,6,1,,,Martina Trevisan,Maria Sakkari,6-3 6-7(4) 7-5,1.08,0.9%,1.8%,68.2%,66.7%,42.9%,55.6% (5/9),51.9%,44.3%,4.7%,30.2%,58.5%,77.8% (7/9),3:14
+2-Jan-2023,United Cup,3,Hard,RR,27,15,0,,,Beatriz Haddad Maia,Martina Trevisan,6-2 6-0,0.59,0.0%,8.2%,71.4%,42.9%,21.4%,33.3% (3/9),37.1%,37.5%,4.2%,26.7%,55.6%,25.0% (1/4),1:18
+2-Jan-2023,United Cup,3,Hard,RR,27,1,0,,,Iga Swiatek,Martina Trevisan,6-2 6-4,0.67,0.0%,5.2%,64.9%,58.0%,40.7%,63.6% (7/11),43.4%,32.2%,1.7%,29.5%,40.0%,25.0% (1/4),1:51
+2-Jan-2023,United Cup,3,Hard,RR,27,321,1,,,Martina Trevisan,Malene Helgo,7-5 3-6 6-4,1.03,4.8%,6.7%,69.5%,61.6%,40.6%,68.8% (11/16),50.2%,45.9%,0.0%,39.4%,54.9%,33.3% (6/18),3:02
+10-Nov-2022,BJK Cup Finals RR: CAN vs ITA,3,Hard,RR,28,40,0,,,Leylah Fernandez,Martina Trevisan,6-0 6-0,,,,,,,,,,,,,,
+17-Oct-2022,Guadalajara 2,3,Hard,R16,28,7,0,,5,Coco Gauff,Martina Trevisan,6-0 6-3,0.61,0.0%,10.0%,65.0%,50.0%,21.4%,16.7% (1/6),38.0%,36.7%,3.3%,24.3%,56.5%,11.1% (1/9),1:01
 17-Oct-2022,Guadalajara 2,3,Hard,R32,28,54,1,,,Martina Trevisan,Katerina Siniakova,6-0 4-6 6-3,1.23,0.0%,9.9%,57.7%,68.3%,40.0%,0.0% (0/4),55.0%,53.8%,1.3%,50.0%,60.7%,72.7% (8/11),1:58
 17-Oct-2022,Guadalajara 2,3,Hard,R64,28,148,1,,LL,Martina Trevisan,Nao Hibino,6-4 6-3,1.48,0.0%,1.8%,57.9%,69.7%,54.2%,50.0% (3/6),58.8%,54.4%,0.0%,47.6%,73.3%,71.4% (5/7),1:17
 10-Oct-2022,San Diego,3,Hard,R16,31,19,0,,,Danielle Collins,Martina Trevisan,6-2 6-4,0.76,0.0%,0.0%,58.5%,41.9%,36.4%,30.0% (3/10),43.2%,46.2%,6.2%,37.8%,57.1%,30.8% (4/13),1:27
@@ -11,19 +89,19 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Aug-2022,Cleveland,3,Hard,R32,27,61,1,2,,Martina Trevisan,Mayar Sherif,2-6 6-2 6-4,1.02,0.0%,10.5%,62.8%,66.7%,37.5%,60.0% (6/10),50.6%,45.0%,3.8%,42.0%,50.0%,55.6% (5/9),2:08
 15-Aug-2022,Cincinnati,3,Hard,R64,26,69,0,,Q,Anna Kalinskaya,Martina Trevisan,7-6(2) 7-5,0.84,1.0%,8.3%,63.5%,52.5%,45.7%,54.5% (6/11),46.2%,42.2%,2.2%,32.1%,56.8%,33.3% (4/12),2:26
 8-Aug-2022,Toronto,3,Hard,R64,26,24,0,,,Beatriz Haddad Maia,Martina Trevisan,6-2 2-6 6-2,0.83,0.0%,4.9%,65.9%,59.3%,46.4%,66.7% (10/15),47.0%,37.3%,4.5%,25.7%,50.0%,60.0% (3/5),2:06
-11-Jul-2022,Budapest,3,Clay,QF,26,53,0,2,9,Anna Bondar,Martina Trevisan,6-4 6-1 (ch),0.81,1.5%,6.0%,67.2%,48.9%,40.9%,64.7% (11/17),45.0%,43.4%,0.0%,28.6%,60.0%,40.0% (2/5),1:42
+11-Jul-2022,Budapest,3,Clay,QF,26,53,0,2,9,Anna Bondar,Martina Trevisan,6-4 6-1,0.81,1.5%,6.0%,67.2%,48.9%,40.9%,64.7% (11/17),45.0%,43.4%,0.0%,28.6%,60.0%,40.0% (2/5),1:42
 11-Jul-2022,Budapest,3,Clay,R16,26,138,1,2,Q,Martina Trevisan,Kateryna Baindl,6-4 7-5,1.03,0.0%,4.3%,72.9%,60.8%,31.6%,50.0% (4/8),50.7%,48.6%,0.0%,34.6%,81.8%,60.0% (6/10),2:12
-11-Jul-2022,Budapest,3,Clay,R32,26,386,1,2,WC,Martina Trevisan,Natalia Szabanin,2-6 6-2 6-0 (ch),1.42,4.6%,7.7%,69.2%,64.4%,45.0%,20.0% (1/5),58.7%,59.0%,3.3%,55.9%,63.0%,77.8% (7/9),1:38
+11-Jul-2022,Budapest,3,Clay,R32,26,386,1,2,WC,Martina Trevisan,Natalia Szabanin,2-6 6-2 6-0,1.42,4.6%,7.7%,69.2%,64.4%,45.0%,20.0% (1/5),58.7%,59.0%,3.3%,55.9%,63.0%,77.8% (7/9),1:38
 27-Jun-2022,Wimbledon,5,Grass,R128,29,119,0,22,,Elisabetta Cocciaretto,Martina Trevisan,6-2 6-0,0.55,0.0%,5.5%,76.4%,54.8%,15.4%,58.3% (7/12),38.2%,29.8%,2.1%,25.0%,36.8%,0.0% (0/3),1:07
-20-Jun-2022,Bad Homburg,3,Grass,R32,27,64,0,7,,Bianca Andreescu,Martina Trevisan,6-3 6-1 (ch),0.64,0.0%,6.8%,57.6%,38.2%,44.0%,33.3% (3/9),39.4%,37.8%,2.2%,35.5%,42.9%,100.0% (2/2),1:15
-23-May-2022,Roland Garros,5,Clay,SF,59,23,0,,18,Cori Gauff,Martina Trevisan,6-3 6-1,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
-23-May-2022,Roland Garros,5,Clay,QF,59,18,1,,17,Martina Trevisan,Leylah Fernandez,6-2 6-7(3) 6-3,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
-23-May-2022,Roland Garros,5,Clay,R16,59,47,1,,,Martina Trevisan,Aliaksandra Sasnovich,7-6(10) 7-5,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
-23-May-2022,Roland Garros,5,Clay,R32,59,127,1,,,Martina Trevisan,Daria Saville,6-3 6-4,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
-23-May-2022,Roland Garros,5,Clay,R64,59,52,1,,,Martina Trevisan,Magda Linette,6-3 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R128,59,111,1,,,Martina Trevisan,Harriet Dart,6-0 6-2,,,,,,,,,,,,,,
-16-May-2022,Rabat,3,Clay,F,85,92,1,,,Martina Trevisan,Claire Liu,6-2 6-1 (ch),1.51,0.0%,4.3%,65.7%,63.0%,50.0%,90.0% (9/10),60.3%,62.7%,2.0%,61.3%,65.0%,54.5% (6/11),1:32
-16-May-2022,Rabat,3,Clay,SF,85,83,1,,,Martina Trevisan,Lucia Bronzetti,6-3 6-3 (ch),1.43,2.0%,0.0%,78.0%,76.9%,36.4%,0.0% (0/1),55.9%,45.9%,0.0%,44.7%,50.0%,57.1% (4/7),1:29
+20-Jun-2022,Bad Homburg,3,Grass,R32,27,64,0,7,,Bianca Andreescu,Martina Trevisan,6-3 6-1,0.64,0.0%,6.8%,57.6%,38.2%,44.0%,33.3% (3/9),39.4%,37.8%,2.2%,35.5%,42.9%,100.0% (2/2),1:15
+23-May-2022,Roland Garros,5,Clay,SF,59,23,0,,18,Coco Gauff,Martina Trevisan,6-3 6-1,0.61,0.0%,6.6%,63.9%,46.2%,31.8%,45.5% (5/11),38.7%,36.0%,2.0%,25.8%,52.6%,40.0% (2/5),
+23-May-2022,Roland Garros,5,Clay,QF,59,18,1,,17,Martina Trevisan,Leylah Fernandez,6-2 6-7(3) 6-3,1.20,0.9%,6.5%,70.1%,70.7%,31.3%,60.0% (6/10),54.5%,49.5%,0.0%,44.3%,59.4%,50.0% (7/14),
+23-May-2022,Roland Garros,5,Clay,R16,59,47,1,,,Martina Trevisan,Aliaksandra Sasnovich,7-6(10) 7-5,1.17,0.0%,2.8%,69.0%,65.3%,31.8%,28.6% (2/7),53.8%,52.9%,0.0%,49.2%,63.6%,42.9% (6/14),
+23-May-2022,Roland Garros,5,Clay,R32,59,127,1,,,Martina Trevisan,Daria Saville,6-3 6-4,1.24,0.0%,3.0%,78.8%,65.4%,42.9%,80.0% (8/10),55.9%,48.9%,2.2%,35.5%,78.6%,100.0% (4/4),
+23-May-2022,Roland Garros,5,Clay,R64,59,52,1,,,Martina Trevisan,Magda Linette,6-3 6-2,1.30,1.9%,5.6%,70.4%,60.5%,50.0%,66.7% (4/6),56.4%,55.4%,1.8%,54.1%,57.9%,60.0% (6/10),
+23-May-2022,Roland Garros,5,Clay,R128,59,111,1,,,Martina Trevisan,Harriet Dart,6-0 6-2,1.89,0.0%,2.3%,67.4%,69.0%,71.4%,- (0/0),62.6%,57.1%,0.0%,60.0%,50.0%,45.5% (5/11),
+16-May-2022,Rabat,3,Clay,F,85,92,1,,,Martina Trevisan,Claire Liu,6-2 6-1,1.51,0.0%,4.3%,65.7%,63.0%,50.0%,90.0% (9/10),60.3%,62.7%,2.0%,61.3%,65.0%,54.5% (6/11),1:32
+16-May-2022,Rabat,3,Clay,SF,85,83,1,,,Martina Trevisan,Lucia Bronzetti,6-3 6-3,1.43,2.0%,0.0%,78.0%,76.9%,36.4%,0.0% (0/1),55.9%,45.9%,0.0%,44.7%,50.0%,57.1% (4/7),1:29
 16-May-2022,Rabat,3,Clay,QF,85,76,1,,7,Martina Trevisan,Arantxa Rus,7-6(4) 6-3,1.14,1.7%,3.4%,72.4%,57.1%,31.3%,16.7% (1/6),54.4%,57.1%,1.1%,50.0%,76.0%,53.8% (7/13),2:02
 16-May-2022,Rabat,3,Clay,R16,85,10,1,,1,Martina Trevisan,Garbine Muguruza,2-6 6-4 6-1,1.16,1.3%,6.6%,65.8%,62.0%,50.0%,37.5% (3/8),53.2%,48.8%,1.3%,42.2%,57.1%,66.7% (6/9),2:12
 16-May-2022,Rabat,3,Clay,R32,85,295,1,,Q,Martina Trevisan,Xiaodi You,6-0 6-4,1.70,0.0%,0.0%,81.6%,77.5%,33.3%,66.7% (2/3),61.1%,52.2%,0.0%,54.8%,46.7%,45.5% (5/11),1:20
@@ -59,7 +137,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Nov-2021,W60 Nantes,3,Hard,R32,114,480,1,4,Q,Martina Trevisan,Sara Cakarevic,6-0 6-3,,,,,,,,,,,,,,
 25-Oct-2021,Courmayeur,3,Hard,R32,113,114,0,,,Anna Kalinskaya,Martina Trevisan,6-2 6-4,0.69,1.3%,5.3%,66.7%,60.0%,36.0%,66.7% (8/12),44.4%,33.3%,3.9%,32.1%,34.8%,50.0% (1/2),1:23
 6-Oct-2021,Indian Wells,3,Hard,R64,66,20,0,Q,18,Anett Kontaveit,Martina Trevisan,6-3 5-2 RET,0.69,0.0%,1.6%,59.4%,52.6%,46.2%,50.0% (4/8),43.1%,34.6%,3.8%,38.7%,28.6%,12.5% (1/8),1:31
-6-Oct-2021,Indian Wells,3,Hard,R128,66,93,1,Q,,Martina Trevisan,Marie Bouzkova,6-4 6-7(8) 6-4 (ch),1.05,2.3%,4.5%,74.4%,57.6%,29.4%,57.9% (11/19),51.1%,51.9%,0.8%,45.7%,67.6%,58.8% (10/17),3:52
+6-Oct-2021,Indian Wells,3,Hard,R128,66,93,1,Q,,Martina Trevisan,Marie Bouzkova,6-4 6-7(8) 6-4,1.05,2.3%,4.5%,74.4%,57.6%,29.4%,57.9% (11/19),51.1%,51.9%,0.8%,45.7%,67.6%,58.8% (10/17),3:52
 6-Oct-2021,Indian Wells,3,Hard,Q2,66,695,1,2,WC,Martina Trevisan,Reese Brantmeier,6-1 6-2,2.02,0.0%,4.7%,79.1%,73.5%,77.8%,- (0/0),60.7%,51.6%,3.1%,43.2%,63.0%,50.0% (4/8),1:16
 6-Oct-2021,Indian Wells,3,Hard,Q1,66,168,1,2,,Martina Trevisan,Hailey Baptiste,6-2 6-4,1.32,1.6%,6.5%,75.8%,72.3%,53.3%,100.0% (5/5),55.3%,42.6%,8.2%,27.3%,60.7%,30.0% (3/10),1:25
 13-Sep-2021,W80 Valencia,3,Clay,F,79,138,1,2,7,Martina Trevisan,Dalma Galfi,4-6 6-4 6-0,,,,,,,,,,,,,,
@@ -85,12 +163,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Jun-2021,Bol,3,Clay,QF,97,122,0,4,,Irina Bara,Martina Trevisan,2-6 7-5 6-0,0.92,1.3%,1.3%,65.4%,41.2%,44.4%,18.2% (2/11),47.8%,53.0%,1.2%,53.7%,51.7%,77.8% (7/9),2:15
 7-Jun-2021,Bol,3,Clay,R16,97,121,1,4,,Martina Trevisan,Anna Karolina Schmiedlova,6-4 6-1,1.33,0.0%,3.5%,66.7%,60.5%,63.2%,80.0% (4/5),55.9%,51.4%,0.0%,48.8%,55.6%,31.3% (5/16),1:43
 7-Jun-2021,Bol,3,Clay,R32,97,141,1,4,,Martina Trevisan,Renata Zarazua,6-2 6-0,1.85,0.0%,2.4%,61.9%,76.9%,56.3%,- (0/0),62.5%,57.4%,0.0%,45.7%,78.9%,50.0% (5/10),1:18
-31-May-2021,Roland Garros,5,Clay,R64,97,54,0,,,Sorana Cirstea,Martina Trevisan,6-4 3-6 6-4 (ch),0.92,0.0%,8.7%,65.2%,56.0%,40.0%,46.2% (6/13),48.3%,45.7%,3.3%,40.7%,54.5%,53.8% (7/13),2:37
+31-May-2021,Roland Garros,5,Clay,R64,97,54,0,,,Sorana Cirstea,Martina Trevisan,6-4 3-6 6-4,0.92,0.0%,8.7%,65.2%,56.0%,40.0%,46.2% (6/13),48.3%,45.7%,3.3%,40.7%,54.5%,53.8% (7/13),2:37
 31-May-2021,Roland Garros,5,Clay,R128,97,67,1,,,Martina Trevisan,Alison Van Uytvanck,7-5 4-6 6-4,1.12,0.0%,5.1%,69.4%,66.2%,40.0%,64.3% (9/14),51.5%,46.7%,4.4%,45.0%,49.1%,31.6% (6/19),2:53
 10-May-2021,Rome,3,Clay,R64,97,665,0,WC,SR,Yaroslava Shvedova,Martina Trevisan,0-6 7-6(4) 7-6(6),1.07,0.0%,5.3%,60.2%,64.7%,42.2%,61.5% (8/13),51.9%,47.4%,0.0%,44.2%,51.2%,80.0% (8/10),2:34
 3-May-2021,Saint-Malo,3,Clay,R32,100,105,0,,,Aliona Bolsova,Martina Trevisan,6-2 6-4,0.80,0.0%,2.9%,69.1%,59.6%,38.1%,55.6% (5/9),45.5%,37.9%,0.0%,39.5%,34.8%,12.5% (1/8),1:46
 29-Apr-2021,Madrid,3,Clay,Q1,100,89,0,,23,Zarina Diyas,Martina Trevisan,6-2 6-4,0.73,0.0%,5.3%,66.7%,57.9%,47.4%,50.0% (4/8),43.6%,33.3%,0.0%,29.6%,66.7%,14.3% (1/7),1:24
-17-Apr-2021,BJK Cup Playoffs: ROU vs ITA,3,Hard,RR,99,137,1,,,Martina Trevisan,Mihaela Buzarnescu,6-2 2-6 7-6(5) (ch),1.01,1.0%,2.9%,68.0%,55.7%,42.4%,50.0% (7/14),50.2%,49.0%,1.0%,50.7%,44.8%,46.7% (7/15),3:07
+17-Apr-2021,BJK Cup Playoffs: ROU vs ITA,3,Hard,RR,99,137,1,,,Martina Trevisan,Mihaela Buzarnescu,6-2 2-6 7-6(5),1.01,1.0%,2.9%,68.0%,55.7%,42.4%,50.0% (7/14),50.2%,49.0%,1.0%,50.7%,44.8%,46.7% (7/15),3:07
 5-Apr-2021,Charleston 1,3,Clay,R64,99,28,0,,12,Ons Jabeur,Martina Trevisan,6-2 6-2,0.58,0.0%,4.7%,58.1%,40.0%,27.8%,25.0% (2/8),36.3%,37.5%,4.2%,32.1%,45.0%,66.7% (2/3),0:58
 22-Mar-2021,Miami,3,Hard,Q1,92,143,0,3,,Olga Govortsova,Martina Trevisan,4-6 6-1 7-6(4),0.88,0.0%,1.9%,81.3%,49.4%,55.0%,53.3% (8/15),47.0%,43.8%,2.7%,39.8%,58.3%,50.0% (5/10),2:32
 15-Mar-2021,Monterrey,3,Hard,R32,89,95,0,,,Nina Stojanovic,Martina Trevisan,6-3 6-2,0.63,0.0%,0.0%,69.8%,43.2%,50.0%,42.9% (3/7),40.7%,34.2%,18.4%,14.3%,58.8%,100.0% (1/1),1:26
@@ -104,7 +182,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2020,Roland Garros,5,Clay,QF,159,54,0,Q,,Iga Swiatek,Martina Trevisan,6-3 6-1,0.69,1.9%,1.9%,67.9%,41.7%,47.1%,45.5% (5/11),41.3%,39.3%,1.8%,37.8%,42.1%,22.2% (2/9),1:18
 28-Sep-2020,Roland Garros,5,Clay,R16,159,8,1,Q,5,Martina Trevisan,Kiki Bertens,6-4 6-4,1.21,1.5%,3.0%,69.7%,54.3%,55.0%,55.6% (5/9),54.9%,55.2%,3.0%,51.2%,61.5%,46.2% (6/13),1:35
 28-Sep-2020,Roland Garros,5,Clay,R32,159,24,1,Q,20,Martina Trevisan,Maria Sakkari,1-6 7-6(6) 6-3,1.02,0.0%,0.8%,67.5%,50.6%,46.2%,55.0% (11/20),50.2%,51.8%,2.4%,43.2%,61.5%,77.8% (7/9),2:39
-28-Sep-2020,Roland Garros,5,Clay,R64,159,51,1,Q,,Martina Trevisan,Cori Gauff,4-6 6-2 7-5,1.09,0.0%,2.2%,72.2%,52.3%,52.0%,41.7% (5/12),52.2%,52.1%,3.1%,34.6%,72.7%,64.3% (9/14),2:11
+28-Sep-2020,Roland Garros,5,Clay,R64,159,51,1,Q,,Martina Trevisan,Coco Gauff,4-6 6-2 7-5,1.09,0.0%,2.2%,72.2%,52.3%,52.0%,41.7% (5/12),52.2%,52.1%,3.1%,34.6%,72.7%,64.3% (9/14),2:11
 28-Sep-2020,Roland Garros,5,Clay,R128,159,75,1,Q,,Martina Trevisan,Camila Giorgi,7-5 3-0 RET,1.22,0.0%,12.0%,66.0%,72.7%,29.4%,60.0% (3/5),54.8%,51.2%,2.3%,55.0%,47.8%,50.0% (4/8),1:01
 28-Sep-2020,Roland Garros,5,Clay,Q3,159,134,1,,9,Martina Trevisan,Astra Sharma,6-1 6-1,1.59,0.0%,1.9%,64.8%,62.9%,57.9%,87.5% (7/8),61.4%,61.7%,0.0%,54.2%,69.6%,66.7% (6/9),1:09
 28-Sep-2020,Roland Garros,5,Clay,Q2,159,205,1,,,Martina Trevisan,Asia Muhammad,6-3 6-4,1.40,0.0%,6.2%,67.7%,72.7%,57.1%,85.7% (6/7),57.6%,45.3%,5.7%,32.3%,63.6%,75.0% (3/4),1:21
@@ -121,7 +199,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2020,W100 Cairo,3,Hard,QF,152,111,0,7,2,Aliona Bolsova,Martina Trevisan,6-3 6-4,,,,,,,,,,,,,,
 10-Feb-2020,W100 Cairo,3,Hard,R16,152,410,1,7,Q,Martina Trevisan,Anna Zaja,6-0 6-3,,,,,,,,,,,,,,
 10-Feb-2020,W100 Cairo,3,Hard,R32,152,160,1,7,,Martina Trevisan,Irina Bara,6-3 6-2,,,,,,,,,,,,,,
-20-Jan-2020,Australian Open,5,Hard,R128,154,15,0,Q,14,Sofia Kenin,Martina Trevisan,6-2 6-4 (ch),0.62,1.5%,2.9%,76.5%,51.9%,37.5%,58.3% (7/12),41.7%,31.9%,4.3%,31.4%,33.3%,66.7% (2/3),1:18
+20-Jan-2020,Australian Open,5,Hard,R128,154,15,0,Q,14,Sofia Kenin,Martina Trevisan,6-2 6-4,0.62,1.5%,2.9%,76.5%,51.9%,37.5%,58.3% (7/12),41.7%,31.9%,4.3%,31.4%,33.3%,66.7% (2/3),1:18
 20-Jan-2020,Australian Open,5,Hard,Q3,154,212,1,,,Martina Trevisan,Eugenie Bouchard,6-4 6-3,1.26,6.1%,1.5%,63.6%,76.2%,45.8%,80.0% (4/5),54.6%,43.8%,3.1%,45.1%,38.5%,42.9% (3/7),1:28
 20-Jan-2020,Australian Open,5,Hard,Q2,154,115,1,,9,Martina Trevisan,Ysaline Bonaventure,6-0 6-2,1.54,0.0%,5.1%,72.9%,65.1%,37.5%,90.0% (9/10),60.8%,65.1%,2.3%,61.5%,70.6%,75.0% (6/8),1:07
 20-Jan-2020,Australian Open,5,Hard,Q1,154,209,1,,,Martina Trevisan,Jaqueline Cristian,6-2 6-2,1.61,0.0%,4.2%,54.2%,73.1%,54.5%,75.0% (3/4),60.4%,56.9%,5.2%,43.8%,73.1%,55.6% (5/9),1:19
@@ -175,7 +253,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Apr-2019,Fed Cup WG2 R1: RUS vs ITA,3,Clay,RR,146,74,0,,,Anastasia Potapova,Martina Trevisan,2-6 6-3 6-1,0.84,0.0%,5.1%,57.0%,60.0%,35.3%,25.0% (2/8),45.9%,42.3%,3.8%,20.6%,59.1%,40.0% (4/10),1:42
 20-Apr-2019,Fed Cup WG2 R1: RUS vs ITA,3,Clay,RR,146,34,0,,,Anastasia Pavlyuchenkova,Martina Trevisan,6-4 6-3,0.82,0.0%,5.4%,67.9%,44.7%,50.0%,40.0% (4/10),45.0%,43.8%,4.7%,31.0%,68.2%,33.3% (3/9),1:26
 8-Apr-2019,Bogota,3,Clay,Q1,147,248,0,4,,Hiroko Kuwata,Martina Trevisan,6-1 4-6 7-5,0.88,0.9%,13.8%,58.7%,64.1%,35.6%,58.8% (10/17),47.5%,42.1%,0.0%,36.9%,53.3%,44.4% (4/9),2:19
-1-Apr-2019,Charleston,3,Clay,R32,159,6,0,Q,2,Kiki Bertens,Martina Trevisan,6-2 6-1 (ch),0.47,0.0%,4.3%,71.7%,36.4%,38.5%,14.3% (1/7),33.7%,29.7%,5.4%,20.0%,50.0%,100.0% (1/1),0:59
+1-Apr-2019,Charleston,3,Clay,R32,159,6,0,Q,2,Kiki Bertens,Martina Trevisan,6-2 6-1,0.47,0.0%,4.3%,71.7%,36.4%,38.5%,14.3% (1/7),33.7%,29.7%,5.4%,20.0%,50.0%,100.0% (1/1),0:59
 1-Apr-2019,Charleston,3,Clay,R64,159,,1,Q,Q,Martina Trevisan,Nadiya Kichenok,6-2 6-1,1.61,0.0%,0.0%,81.4%,62.9%,37.5%,60.0% (3/5),62.9%,67.4%,2.2%,73.3%,56.3%,63.6% (7/11),0:58
 1-Apr-2019,Charleston,3,Clay,Q2,159,197,1,8,15,Martina Trevisan,Sesil Karatantcheva,6-2 6-3,1.48,3.3%,6.6%,75.4%,76.1%,53.3%,100.0% (6/6),57.8%,43.6%,1.8%,41.2%,47.6%,50.0% (3/6),1:17
 1-Apr-2019,Charleston,3,Clay,Q1,159,214,1,8,,Martina Trevisan,Caty Mcnally,6-3 7-5,1.24,0.0%,2.7%,71.2%,63.5%,57.1%,66.7% (4/6),55.2%,47.5%,3.3%,38.2%,59.3%,57.1% (4/7),1:41
@@ -211,7 +289,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Jul-2018,Moscow,3,Clay,R32,190,82,0,Q,,Kateryna Baindl,Martina Trevisan,6-3 6-4,0.78,0.0%,1.8%,73.7%,47.6%,46.7%,44.4% (4/9),44.2%,41.3%,6.3%,30.3%,53.3%,75.0% (3/4),1:27
 23-Jul-2018,Moscow,3,Clay,Q2,190,390,1,10,,Martina Trevisan,Yana Sizikova,3-6 6-2 6-2,1.19,0.0%,6.1%,54.9%,62.2%,54.1%,57.1% (4/7),53.9%,49.4%,3.5%,46.3%,54.8%,45.5% (5/11),1:47
 23-Jul-2018,Moscow,3,Clay,Q1,190,315,1,10,,Martina Trevisan,Polina Monova,6-1 3-6 6-2,1.19,1.1%,6.9%,55.2%,58.3%,48.7%,50.0% (5/10),54.4%,54.8%,0.0%,49.0%,63.6%,47.1% (8/17),1:50
-16-Jul-2018,Gstaad,3,Clay,R32,189,54,0,Q,3,Viktoria Kuzmova,Martina Trevisan,6-2 7-5,0.76,3.0%,9.0%,67.2%,53.3%,36.4%,53.8% (7/13),43.8%,39.7%,9.5%,35.9%,45.8%,75.0% (3/4),1:19
+16-Jul-2018,Gstaad,3,Clay,R32,189,54,0,Q,3,Viktoria Hruncakova,Martina Trevisan,6-2 7-5,0.76,3.0%,9.0%,67.2%,53.3%,36.4%,53.8% (7/13),43.8%,39.7%,9.5%,35.9%,45.8%,75.0% (3/4),1:19
 16-Jul-2018,Gstaad,3,Clay,Q2,189,227,1,5,10,Martina Trevisan,Amandine Hesse,6-3 6-4,1.22,1.8%,3.5%,64.9%,67.6%,55.0%,33.3% (1/3),54.6%,45.1%,9.8%,33.3%,61.9%,80.0% (4/5),1:10
 16-Jul-2018,Gstaad,3,Clay,Q1,189,363,1,5,,Martina Trevisan,Katarzyna Piter,4-6 7-6(6) 6-3,1.12,4.1%,4.1%,62.2%,63.9%,48.6%,44.4% (4/9),52.2%,46.7%,0.9%,41.9%,53.3%,60.0% (6/10),2:42
 2-Jul-2018,Rome $60K,3,Clay,R32,190,376,0,6,,Liudmila Samsonova,Martina Trevisan,7-5 6-0,,,,,,,,,,,,,,
@@ -280,7 +358,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Apr-2017,Fed Cup WG2 R1: ITA vs TPE,3,Clay,RR,221,298,1,,,Martina Trevisan,Ya Hsuan Lee,2-6 6-3 12-10,1.05,1.7%,7.6%,61.9%,54.8%,40.0%,38.9% (7/18),51.4%,53.6%,0.8%,54.8%,51.2%,61.1% (11/18),2:55
 10-Apr-2017,Santa Margherita Di Pula $25K,3,Clay,R32,219,271,0,3,,Georgina Garcia Perez,Martina Trevisan,7-5 6-4,,,,,,,,,,,,,,
 27-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,R32,225,323,0,8,Q,Bernarda Pera,Martina Trevisan,7-6(5) 6-2,,,,,,,,,,,,,,
-20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,QF,225,234,0,,,Bianca Andreescu,Martina Trevisan,6-3 6-3 (ch),,,,,,,,,,,,,,
+20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,QF,225,234,0,,,Bianca Andreescu,Martina Trevisan,6-3 6-3,,,,,,,,,,,,,,
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,R16,225,308,1,,WC,Martina Trevisan,Camilla Rosatello,6-7(5) 6-0 6-1,,,,,,,,,,,,,,
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,R32,225,266,1,,,Martina Trevisan,Cristina Dinu,7-6(4) 6-4,,,,,,,,,,,,,,
 30-Jan-2017,Grenoble $25K,3,Hard,R32,231,169,0,,5,Amra Sadikovic,Martina Trevisan,6-4 6-3,,,,,,,,,,,,,,
@@ -302,7 +380,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Aug-2016,Bagnatica $25K,3,Clay,F,581,285,1,WC,5,Martina Trevisan,Katarzyna Piter,6-1 5-7 7-5,,,,,,,,,,,,,,
 22-Aug-2016,Bagnatica $25K,3,Clay,SF,581,482,1,WC,Q,Martina Trevisan,Claudia Giovine,6-4 3-6 7-6(4),,,,,,,,,,,,,,
 22-Aug-2016,Bagnatica $25K,3,Clay,QF,581,431,1,WC,WC,Martina Trevisan,Alberta Brianti,7-5 6-2,,,,,,,,,,,,,,
-22-Aug-2016,Bagnatica $25K,3,Clay,R16,581,308,1,WC,8,Martina Trevisan,Anna Zaja,7-5 6-0 (ch),,,,,,,,,,,,,,
+22-Aug-2016,Bagnatica $25K,3,Clay,R16,581,308,1,WC,8,Martina Trevisan,Anna Zaja,7-5 6-0,,,,,,,,,,,,,,
 22-Aug-2016,Bagnatica $25K,3,Clay,R32,581,360,1,WC,WC,Martina Trevisan,Nastassja Burnett,4-1 RET,,,,,,,,,,,,,,
 8-Aug-2016,Hechingen $25K,3,Clay,R32,590,427,0,Q,LL,Katharina Lehnert,Martina Trevisan,6-3 4-6 6-4,,,,,,,,,,,,,,
 1-Aug-2016,Vienna $10K,3,Clay,SF,397,870,0,1,,Petra Krejsova,Martina Trevisan,6-4 6-2,,,,,,,,,,,,,,

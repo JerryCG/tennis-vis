@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+30-Jan-2023,W60 Rome GA,3,Hard,R32,267,199,0,,6,Robin Anderson,Danielle Lao,6-7(4) 6-4 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W25 Orlando FL,3,Hard,R16,265,217,0,,7,Sophie Chang,Danielle Lao,7-6(4) 7-5,,,,,,,,,,,,,,
+23-Jan-2023,W25 Orlando FL,3,Hard,R32,265,581,1,,Q,Danielle Lao,Olivia Lincer,6-3 6-3,,,,,,,,,,,,,,
+7-Nov-2022,W60 Calgary,3,Hard,R32,253,,0,1,Q,Johanne Christine Svendsen,Danielle Lao,5-7 7-6(4) 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W80 Tyler TX,3,Hard,QF,206,232,0,,,Storm Sanders,Danielle Lao,6-1 6-7(4) 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W80 Tyler TX,3,Hard,R16,206,,1,,Q,Danielle Lao,Allura Zamarripa,7-6(5) 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W80 Tyler TX,3,Hard,R32,206,159,1,,7,Danielle Lao,Marcela Zacarias,1-6 6-4 7-5,,,,,,,,,,,,,,
@@ -212,7 +216,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Aug-2017,US Open,5,Hard,Q3,219,131,1,,20,Danielle Lao,Jana Fett,1-6 6-1 6-2,,,,,,,,,,,,,,
 28-Aug-2017,US Open,5,Hard,Q2,219,251,1,,,Danielle Lao,Camilla Rosatello,6-3 6-1,,,,,,,,,,,,,,
 28-Aug-2017,US Open,5,Hard,Q1,219,454,1,,,Danielle Lao,Shilin Xu,6-3 2-6 6-0,,,,,,,,,,,,,,
-31-Jul-2017,Stanford,3,Hard,R32,230,65,0,Q,,Natalia Vikhlyantseva,Danielle Lao,6-4 6-3 (ch),0.81,0.0%,5.8%,58.0%,62.5%,48.3%,70.0% (7/10),46.3%,35.4%,4.6%,25.8%,44.1%,33.3% (1/3),1:38
+31-Jul-2017,Stanford,3,Hard,R32,230,65,0,Q,,Natalia Vikhlyantseva,Danielle Lao,6-4 6-3,0.81,0.0%,5.8%,58.0%,62.5%,48.3%,70.0% (7/10),46.3%,35.4%,4.6%,25.8%,44.1%,33.3% (1/3),1:38
 31-Jul-2017,Stanford,3,Hard,Q2,230,141,1,,3,Danielle Lao,Asia Muhammad,7-5 6-3,1.21,1.2%,2.5%,61.7%,62.0%,54.8%,85.7% (12/14),54.5%,49.3%,9.3%,38.3%,67.9%,50.0% (5/10),1:47
 31-Jul-2017,Stanford,3,Hard,Q1,230,165,1,,5,Danielle Lao,Miyu Kato,6-1 6-2,1.71,3.6%,3.6%,66.1%,67.6%,63.2%,50.0% (1/2),62.2%,58.2%,1.8%,45.2%,75.0%,55.6% (5/9),1:16
 24-Jul-2017,Sacramento CA $60K,3,Hard,R16,242,160,0,,7,Danielle Collins,Danielle Lao,6-4 6-3,,,,,,,,,,,,,,

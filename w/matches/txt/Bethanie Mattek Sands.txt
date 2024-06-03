@@ -1,4 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+1-Jan-2024,Auckland,3,Hard,Q1,1361,140,0,WC,4,Viktoria Kuzmova,Bethanie Mattek Sands,6-1 6-3,0.65,2.4%,4.8%,47.6%,35.0%,22.7%,22.2% (2/9),39.4%,46.3%,11.9%,38.5%,51.2%,33.3% (3/9),1:13
+9-Oct-2023,Seoul,3,Hard,Q1,1182,411,0,,7,Ksenia Zaytseva,Bethanie Mattek Sands,2-6 7-5 6-4,1.03,1.0%,2.0%,55.1%,53.7%,52.3%,53.3% (8/15),50.8%,48.2%,0.0%,47.6%,50.0%,63.6% (7/11),2:12
+13-Feb-2023,Doha,3,Hard,Q1,1119,44,0,ALT,6,Aliaksandra Sasnovich,Bethanie Mattek Sands,6-2 6-4,0.79,4.9%,6.6%,70.5%,67.4%,38.9%,50.0% (3/6),45.5%,32.3%,3.2%,28.6%,40.0%,0.0% (0/3),1:19
+30-Jan-2023,Hua Hin,3,Hard,R32,,51,0,WC,8,Linda Fruhvirtova,Bethanie Mattek Sands,6-3 6-1,0.69,2.2%,4.3%,58.7%,40.7%,21.1%,22.2% (2/9),39.1%,46.3%,9.8%,40.0%,56.3%,75.0% (3/4),1:03
 7-Nov-2022,Colina 125,3,Clay,R32,,79,0,Q,2,Danka Kovinic,Bethanie Mattek Sands,6-0 6-3,0.60,1.8%,0.0%,54.5%,43.3%,36.0%,60.0% (9/15),38.2%,36.2%,8.5%,22.6%,62.5%,66.7% (2/3),1:17
 17-Oct-2022,Guadalajara 2,3,Hard,Q1,,89,0,,3,Lauren Davis,Bethanie Mattek Sands,6-2 6-4,0.66,1.6%,6.5%,59.7%,67.6%,28.0%,42.9% (3/7),42.9%,32.0%,6.0%,24.1%,42.9%,25.0% (1/4),1:14
 27-Sep-2021,Chicago 2,3,Hard,Q2,366,108,0,,1,Magdalena Frech,Bethanie Mattek Sands,6-2 6-2,0.47,3.7%,3.7%,61.1%,60.6%,33.3%,33.3% (2/6),38.1%,23.3%,7.0%,19.2%,29.4%,0.0% (0/1),1:03
@@ -62,10 +66,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-May-2017,Rome,3,Clay,Q2,123,33,0,,,Daria Saville,Bethanie Mattek Sands,6-2 6-4,0.78,3.2%,6.5%,33.9%,47.6%,34.1%,46.2% (6/13),43.3%,47.7%,1.5%,38.9%,58.6%,36.4% (4/11),1:27
 15-May-2017,Rome,3,Clay,Q1,123,76,1,,,Bethanie Mattek Sands,Tsvetana Pironkova,7-6(6) 6-4,1.08,3.0%,4.0%,45.5%,68.9%,50.0%,86.7% (13/15),51.8%,44.6%,6.5%,44.0%,45.2%,42.9% (3/7),2:11
 8-May-2017,Madrid,3,Clay,Q1,117,52,0,Alt,1,Shelby Rogers,Bethanie Mattek Sands,6-3 6-2,0.42,1.6%,1.6%,52.4%,57.6%,50.0%,55.6% (5/9),40.4%,19.5%,4.9%,17.4%,22.2%,- (0/0),1:12
-3-Apr-2017,Charleston,3,Clay,R32,122,28,0,WC,15,Lucie Safarova,Bethanie Mattek Sands,6-3 6-3 (ch),0.77,0.0%,6.1%,63.6%,57.1%,45.8%,66.7% (8/12),44.6%,35.9%,4.7%,27.0%,48.1%,25.0% (1/4),1:26
+3-Apr-2017,Charleston,3,Clay,R32,122,28,0,WC,15,Lucie Safarova,Bethanie Mattek Sands,6-3 6-3,0.77,0.0%,6.1%,63.6%,57.1%,45.8%,66.7% (8/12),44.6%,35.9%,4.7%,27.0%,48.1%,25.0% (1/4),1:26
 3-Apr-2017,Charleston,3,Clay,R64,122,210,1,WC,Q,Bethanie Mattek Sands,Sofia Kenin,6-4 6-4,1.15,1.5%,2.9%,63.2%,65.1%,48.0%,50.0% (3/6),53.7%,47.3%,0.0%,33.3%,68.2%,55.6% (5/9),1:31
 20-Mar-2017,Miami,3,Hard,R16,158,29,0,WC,26,Mirjana Lucic,Bethanie Mattek Sands,7-5 6-4,0.86,0.0%,5.3%,61.3%,50.0%,41.4%,50.0% (6/12),46.4%,46.1%,1.3%,30.2%,66.7%,44.4% (4/9),1:34
-20-Mar-2017,Miami,3,Hard,R32,158,17,1,WC,17,Bethanie Mattek Sands,Anastasia Pavlyuchenkova,4-6 6-0 6-3 (ch),1.18,1.1%,0.0%,59.3%,51.9%,67.6%,66.7% (6/9),53.8%,49.5%,1.1%,42.1%,61.8%,40.0% (6/15),2:06
+20-Mar-2017,Miami,3,Hard,R32,158,17,1,WC,17,Bethanie Mattek Sands,Anastasia Pavlyuchenkova,4-6 6-0 6-3,1.18,1.1%,0.0%,59.3%,51.9%,67.6%,66.7% (6/9),53.8%,49.5%,1.1%,42.1%,61.8%,40.0% (6/15),2:06
 20-Mar-2017,Miami,3,Hard,R64,158,10,1,WC,9,Bethanie Mattek Sands,Elina Svitolina,7-5 6-4,1.10,3.7%,3.7%,63.4%,57.7%,56.7%,80.0% (12/15),52.6%,47.1%,2.9%,33.3%,64.5%,35.7% (5/14),1:48
 20-Mar-2017,Miami,3,Hard,R128,158,37,1,WC,,Bethanie Mattek Sands,Katerina Siniakova,6-3 4-6 6-4,1.10,1.0%,5.1%,55.1%,66.7%,43.2%,61.5% (8/13),52.5%,48.1%,6.2%,35.6%,63.9%,75.0% (6/8),2:26
 6-Mar-2017,Indian Wells,3,Hard,R128,160,54,0,WC,,Kristyna Pliskova,Bethanie Mattek Sands,6-0 6-3,0.55,3.2%,3.2%,55.6%,48.6%,46.4%,58.3% (7/12),39.8%,28.9%,11.1%,8.7%,50.0%,0.0% (0/2),1:09
@@ -100,7 +104,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-May-2016,Madrid,3,Clay,Q2,87,121,0,14,,Katerina Siniakova,Bethanie Mattek Sands,6-2 1-6 6-3,0.97,0.0%,4.0%,56.0%,61.9%,45.5%,54.5% (6/11),48.8%,43.8%,3.4%,33.9%,60.6%,50.0% (4/8),1:51
 2-May-2016,Madrid,3,Clay,Q1,87,95,1,14,,Bethanie Mattek Sands,Donna Vekic,6-1 6-2,1.56,1.7%,5.2%,46.6%,85.2%,48.4%,100.0% (2/2),60.0%,53.8%,5.8%,53.5%,55.6%,33.3% (4/12),1:04
 4-Apr-2016,Charleston,3,Clay,R32,89,34,0,,,Irina Camelia Begu,Bethanie Mattek Sands,6-4 4-6 6-2,0.96,1.1%,4.5%,61.8%,67.3%,35.3%,33.3% (3/9),48.7%,43.3%,2.9%,40.8%,48.5%,28.6% (4/14),2:27
-4-Apr-2016,Charleston,3,Clay,R64,89,49,1,,,Bethanie Mattek Sands,Teliana Pereira,5-7 6-3 6-2 (ch),1.26,1.9%,1.9%,57.1%,55.0%,64.4%,54.5% (6/11),55.4%,51.5%,1.0%,48.6%,59.3%,41.2% (7/17),2:27
+4-Apr-2016,Charleston,3,Clay,R64,89,49,1,,,Bethanie Mattek Sands,Teliana Pereira,5-7 6-3 6-2,1.26,1.9%,1.9%,57.1%,55.0%,64.4%,54.5% (6/11),55.4%,51.5%,1.0%,48.6%,59.3%,41.2% (7/17),2:27
 21-Mar-2016,Miami,3,Hard,R128,87,110,0,,Q,Magda Linette,Bethanie Mattek Sands,6-4 6-7(7) 6-3,0.88,2.5%,5.7%,54.9%,53.7%,40.0%,57.9% (11/19),46.9%,46.3%,0.8%,42.5%,53.5%,28.6% (6/21),2:55
 7-Mar-2016,Indian Wells,3,Hard,R128,88,43,0,,,Annika Beck,Bethanie Mattek Sands,6-2 6-2,0.54,2.2%,4.3%,56.5%,38.5%,35.0%,0.0% (0/6),35.6%,34.1%,4.5%,24.2%,63.6%,66.7% (2/3),1:03
 22-Feb-2016,Doha,3,Hard,R64,80,15,0,,11,Timea Bacsinszky,Bethanie Mattek Sands,6-7(7) 6-1 6-3,0.80,0.9%,4.3%,60.9%,50.0%,35.6%,55.0% (11/20),44.3%,44.2%,1.8%,40.3%,51.2%,33.3% (5/15),2:46
@@ -108,20 +112,20 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Feb-2016,Dubai,3,Hard,Q2,76,86,1,,,Bethanie Mattek Sands,Jelena Ostapenko,6-3 6-3,1.24,0.0%,0.0%,48.1%,56.0%,51.9%,55.6% (5/9),55.8%,57.4%,1.5%,51.2%,68.0%,58.3% (7/12),1:13
 15-Feb-2016,Dubai,3,Hard,Q1,76,80,1,,,Bethanie Mattek Sands,Ana Konjuh,6-2 6-3,1.21,1.8%,5.4%,33.9%,89.5%,59.5%,100.0% (2/2),56.4%,36.8%,2.6%,33.3%,45.5%,50.0% (3/6),1:17
 18-Jan-2016,Australian Open,5,Hard,R128,63,66,0,,,Denisa Allertova,Bethanie Mattek Sands,6-4 6-7 6-3,0.90,2.7%,3.6%,57.3%,65.1%,51.1%,58.3% (7/12),48.1%,36.8%,2.8%,30.6%,50.0%,37.5% (3/8),2:14
-11-Jan-2016,Hobart,3,Hard,R32,64,47,0,,,Eugenie Bouchard,Bethanie Mattek Sands,6-2 6-1 (ch),0.51,2.0%,8.2%,59.2%,41.4%,30.0%,40.0% (4/10),34.8%,32.6%,0.0%,28.6%,40.0%,25.0% (1/4),0:57
+11-Jan-2016,Hobart,3,Hard,R32,64,47,0,,,Eugenie Bouchard,Bethanie Mattek Sands,6-2 6-1,0.51,2.0%,8.2%,59.2%,41.4%,30.0%,40.0% (4/10),34.8%,32.6%,0.0%,28.6%,40.0%,25.0% (1/4),0:57
 4-Jan-2016,Auckland,3,Hard,R32,60,85,0,,Q,Kirsten Flipkens,Bethanie Mattek Sands,3-6 6-4 6-3,1.06,1.2%,3.5%,60.0%,58.8%,61.8%,55.6% (5/9),49.8%,42.2%,0.9%,35.4%,56.8%,21.4% (3/14),1:54
-5-Oct-2015,Beijing,3,Hard,QF,90,5,0,Q,5,Garbine Muguruza,Bethanie Mattek Sands,6-1 7-5 (ch),,,,,,,,,,,,,,
-5-Oct-2015,Beijing,3,Hard,R16,90,16,1,Q,15,Bethanie Mattek Sands,Roberta Vinci,6-1 3-6 6-2 (ch),,,,,,,,,,,,,,
+5-Oct-2015,Beijing,3,Hard,QF,90,5,0,Q,5,Garbine Muguruza,Bethanie Mattek Sands,6-1 7-5,,,,,,,,,,,,,,
+5-Oct-2015,Beijing,3,Hard,R16,90,16,1,Q,15,Bethanie Mattek Sands,Roberta Vinci,6-1 3-6 6-2,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R32,90,98,1,Q,Q,Bethanie Mattek Sands,Lara Arruabarrena,0-6 6-2 6-0,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R64,90,44,1,Q,,Bethanie Mattek Sands,Alize Cornet,6-3 6-3,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,Q2,90,55,1,16,1,Bethanie Mattek Sands,Lucie Hradecka,3-6 6-2 7-6(6),,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,Q1,90,110,1,16,,Bethanie Mattek Sands,Patricia Maria Tig,6-3 7-6(5),,,,,,,,,,,,,,
-31-Aug-2015,US Open,5,Hard,R32,101,1,0,WC,1,Serena Williams,Bethanie Mattek Sands,3-6 7-5 6-0 (ch),,,,,,,,,,,,,,
+31-Aug-2015,US Open,5,Hard,R32,101,1,0,WC,1,Serena Williams,Bethanie Mattek Sands,3-6 7-5 6-0,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R64,101,45,1,WC,,Bethanie Mattek Sands,Coco Vandeweghe,6-2 6-1,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,101,209,1,WC,Q,Bethanie Mattek Sands,Kateryna Baindl,6-4 6-3,1.26,7.6%,7.6%,60.6%,72.5%,50.0%,80.0% (4/5),55.2%,45.8%,1.7%,53.1%,37.0%,42.9% (3/7),
 17-Aug-2015,Vancouver BC $100K,3,Hard,R32,99,124,0,5,,Nao Hibino,Bethanie Mattek Sands,6-2 2-6 6-0,,,,,,,,,,,,,,
 10-Aug-2015,Toronto,3,Hard,Q1,99,60,0,,8,Julia Goerges,Bethanie Mattek Sands,6-3 7-6(3),,,,,,,,,,,,,,
-27-Jul-2015,Florianopolis,3,Clay,SF,115,68,0,5,3,Annika Beck,Bethanie Mattek Sands,7-6(8) 4-6 6-3 (ch),0.90,0.0%,11.0%,61.0%,56.0%,59.4%,50.0% (6/12),47.0%,38.4%,0.0%,42.5%,21.1%,60.0% (6/10),
+27-Jul-2015,Florianopolis,3,Clay,SF,115,68,0,5,3,Annika Beck,Bethanie Mattek Sands,7-6(8) 4-6 6-3,0.90,0.0%,11.0%,61.0%,56.0%,59.4%,50.0% (6/12),47.0%,38.4%,0.0%,42.5%,21.1%,60.0% (6/10),
 27-Jul-2015,Florianopolis,3,Clay,QF,115,199,1,5,,Bethanie Mattek Sands,Tereza Martincova,7-6(2) 4-6 6-1,1.21,0.9%,4.5%,59.1%,61.5%,48.9%,50.0% (6/12),54.5%,52.7%,0.9%,52.3%,54.2%,38.1% (8/21),
 27-Jul-2015,Florianopolis,3,Clay,R16,115,189,1,5,,Bethanie Mattek Sands,Ana Bogdan,6-2 6-3,1.67,0.0%,2.2%,54.3%,68.0%,71.4%,0.0% (0/2),59.6%,50.9%,0.0%,50.0%,55.6%,50.0% (5/10),
 27-Jul-2015,Florianopolis,3,Clay,R32,115,216,1,5,,Bethanie Mattek Sands,Mandy Minella,5-7 6-3 6-4,1.21,2.1%,6.4%,66.0%,58.1%,59.4%,45.5% (5/11),54.4%,50.0%,0.0%,47.7%,56.5%,50.0% (7/14),
@@ -134,7 +138,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-May-2015,Roland Garros,5,Clay,R128,164,30,0,,30,Irina Camelia Begu,Bethanie Mattek Sands,6-4 7-6(6),0.86,0.0%,1.5%,58.8%,57.5%,46.4%,42.9% (3/7),46.1%,40.7%,5.8%,31.1%,64.0%,42.9% (3/7),
 18-May-2015,Nuremberg,3,Clay,Q1,164,237,0,9,,Arantxa Rus,Bethanie Mattek Sands,4-6 6-3 6-2,,,,,,,,,,,,,,
 4-May-2015,Madrid,3,Clay,R64,166,38,0,,,Sloane Stephens,Bethanie Mattek Sands,3-6 6-1 6-4,0.74,0.0%,0.0%,64.0%,67.3%,48.4%,66.7% (8/12),45.5%,29.1%,1.3%,23.5%,39.3%,22.2% (2/9),
-20-Apr-2015,Stuttgart,3,Clay,R32,182,8,0,Q,6,Kate Makarova,Bethanie Mattek Sands,6-4 7-6(3) (ch),0.79,4.3%,1.4%,64.3%,71.1%,44.0%,33.3% (1/3),46.0%,30.4%,4.3%,23.9%,43.5%,25.0% (1/4),
+20-Apr-2015,Stuttgart,3,Clay,R32,182,8,0,Q,6,Kate Makarova,Bethanie Mattek Sands,6-4 7-6(3),0.79,4.3%,1.4%,64.3%,71.1%,44.0%,33.3% (1/3),46.0%,30.4%,4.3%,23.9%,43.5%,25.0% (1/4),
 20-Apr-2015,Stuttgart,3,Clay,Q3,182,188,1,,,Bethanie Mattek Sands,Alberta Brianti,6-1 6-2,,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q2,182,104,1,,,Bethanie Mattek Sands,Anna Lena Friedsam,6-2 7-6(4),,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q1,182,52,1,,1,Bethanie Mattek Sands,Tsvetana Pironkova,6-3 6-4,,,,,,,,,,,,,,
@@ -148,7 +152,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Feb-2015,Acapulco,3,Hard,R32,206,317,1,,WC,Bethanie Mattek Sands,Marcela Zacarias,6-2 6-1,1.51,5.7%,1.9%,66.0%,65.7%,55.6%,33.3% (1/3),60.0%,57.1%,0.0%,53.3%,66.7%,60.0% (6/10),
 16-Feb-2015,Rio de Janeiro,3,Clay,R16,214,34,0,,2,Irina Camelia Begu,Bethanie Mattek Sands,6-2 6-4,0.67,1.7%,5.1%,55.9%,57.6%,50.0%,33.3% (2/6),43.2%,30.8%,1.9%,28.6%,33.3%,100.0% (1/1),
 16-Feb-2015,Rio de Janeiro,3,Clay,R32,214,118,1,,,Bethanie Mattek Sands,Danka Kovinic,6-4 6-3,1.19,2.6%,1.3%,57.7%,62.2%,48.5%,83.3% (10/12),54.5%,51.8%,5.4%,48.1%,55.2%,62.5% (5/8),
-19-Jan-2015,Australian Open,5,Hard,R32,258,3,0,,3,Simona Halep,Bethanie Mattek Sands,6-4 7-5 (ch),0.78,2.7%,4.1%,58.1%,62.8%,45.2%,55.6% (5/9),45.7%,34.8%,4.5%,21.4%,44.7%,50.0% (2/4),
+19-Jan-2015,Australian Open,5,Hard,R32,258,3,0,,3,Simona Halep,Bethanie Mattek Sands,6-4 7-5,0.78,2.7%,4.1%,58.1%,62.8%,45.2%,55.6% (5/9),45.7%,34.8%,4.5%,21.4%,44.7%,50.0% (2/4),
 19-Jan-2015,Australian Open,5,Hard,R64,258,71,1,,,Bethanie Mattek Sands,Kristina Mladenovic,7-6(3) 7-6(6),1.15,4.0%,2.0%,74.0%,60.8%,61.5%,72.7% (8/11),53.5%,44.7%,4.7%,38.3%,52.6%,60.0% (3/5),
 19-Jan-2015,Australian Open,5,Hard,R128,258,119,1,,WC,Bethanie Mattek Sands,Ying Ying Duan,6-4 3-6 6-3,0.98,3.6%,2.7%,68.2%,72.0%,28.6%,72.7% (8/11),50.0%,40.8%,3.1%,28.6%,53.1%,25.0% (4/16),
 5-Jan-2015,Brisbane,3,Hard,R32,177,100,0,,LL,Alla Kudryavtseva,Bethanie Mattek Sands,6-4 6-2,,,,,,,,,,,,,,
@@ -169,7 +173,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jan-2014,Australian Open,5,Hard,R128,41,3,0,,3,Maria Sharapova,Bethanie Mattek Sands,6-3 6-4,0.82,5.7%,11.4%,57.1%,67.5%,33.3%,50.0% (4/8),45.8%,38.9%,6.9%,18.4%,61.8%,33.3% (2/6),
 6-Jan-2014,Sydney,3,Hard,QF,48,36,0,Q,,Madison Keys,Bethanie Mattek Sands,3-2 RET,0.72,0.0%,0.0%,53.8%,57.1%,50.0%,66.7% (2/3),47.4%,33.3%,8.3%,25.0%,50.0%,- (0/0),
 6-Jan-2014,Sydney,3,Hard,R16,48,5,1,Q,1,Bethanie Mattek Sands,Agnieszka Radwanska,7-5 6-2,1.19,9.8%,1.6%,57.4%,62.9%,38.5%,42.9% (3/7),54.8%,56.8%,0.0%,60.0%,50.0%,63.6% (7/11),
-6-Jan-2014,Sydney,3,Hard,R32,48,31,1,Q,,Bethanie Mattek Sands,Eugenie Bouchard,6-4 6-3 (ch),1.27,0.0%,0.0%,61.8%,67.6%,42.9%,62.5% (5/8),55.6%,53.2%,3.2%,45.5%,62.1%,46.2% (6/13),
+6-Jan-2014,Sydney,3,Hard,R32,48,31,1,Q,,Bethanie Mattek Sands,Eugenie Bouchard,6-4 6-3,1.27,0.0%,0.0%,61.8%,67.6%,42.9%,62.5% (5/8),55.6%,53.2%,3.2%,45.5%,62.1%,46.2% (6/13),
 6-Jan-2014,Sydney,3,Hard,Q3,48,73,1,,,Bethanie Mattek Sands,Julia Goerges,3-2 RET,1.36,6.7%,0.0%,60.0%,100.0%,50.0%,- (0/0),57.7%,27.3%,9.1%,20.0%,33.3%,- (0/0),
 6-Jan-2014,Sydney,3,Hard,Q2,48,120,1,,,Bethanie Mattek Sands,Heather Watson,6-2 6-3,1.32,5.0%,3.3%,63.3%,63.2%,54.5%,71.4% (5/7),56.1%,52.8%,1.4%,42.9%,66.7%,41.7% (5/12),
 6-Jan-2014,Sydney,3,Hard,Q1,48,87,1,,,Bethanie Mattek Sands,Luksika Kumkhum,7-5 6-4,1.40,3.0%,1.5%,63.6%,76.2%,50.0%,60.0% (3/5),55.2%,46.6%,1.1%,44.4%,48.8%,30.8% (4/13),
@@ -184,7 +188,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Aug-2013,Toronto,3,Hard,Q1,54,952,1,4,,Bethanie Mattek Sands,Alicja Rosolska,6-1 6-2,2.10,2.4%,2.4%,56.1%,78.3%,66.7%,0.0% (0/1),64.0%,56.3%,2.1%,59.4%,50.0%,50.0% (5/10),
 29-Jul-2013,Carlsbad,3,Hard,R16,56,11,0,,4,Roberta Vinci,Bethanie Mattek Sands,6-4 6-2,0.62,3.3%,6.6%,50.8%,64.5%,43.3%,70.0% (7/10),42.1%,28.3%,7.5%,18.2%,45.0%,0.0% (0/1),
 29-Jul-2013,Carlsbad,3,Hard,R32,56,51,1,,,Bethanie Mattek Sands,Monica Puig,2-6 6-1 6-2,1.44,7.2%,10.1%,43.5%,83.3%,51.3%,25.0% (1/4),57.2%,50.0%,3.9%,37.8%,67.7%,45.5% (5/11),
-24-Jun-2013,Wimbledon,5,Grass,R128,58,7,0,,7,Angelique Kerber,Bethanie Mattek Sands,6-3 6-4 (ch) (wp),0.69,5.1%,1.3%,55.1%,67.4%,28.6%,50.0% (5/10),43.8%,34.6%,1.9%,30.0%,40.9%,66.7% (2/3),
+24-Jun-2013,Wimbledon,5,Grass,R128,58,7,0,,7,Angelique Kerber,Bethanie Mattek Sands,6-3 6-4 (wp),0.69,5.1%,1.3%,55.1%,67.4%,28.6%,50.0% (5/10),43.8%,34.6%,1.9%,30.0%,40.9%,66.7% (2/3),
 27-May-2013,Roland Garros,5,Clay,R16,67,12,0,,12,Maria Kirilenko,Bethanie Mattek Sands,7-5 6-4 (wp),0.90,0.0%,2.4%,56.1%,63.0%,50.0%,63.6% (7/11),48.4%,38.4%,1.4%,34.0%,46.2%,40.0% (2/5),
 27-May-2013,Roland Garros,5,Clay,R32,67,118,1,,Q,Bethanie Mattek Sands,Paula Ormaechea,4-6 6-1 6-3 (wp),1.54,2.9%,2.9%,71.0%,69.4%,60.0%,25.0% (1/4),58.3%,51.2%,3.7%,28.9%,78.4%,66.7% (6/9),
 27-May-2013,Roland Garros,5,Clay,R64,67,6,1,,6,Bethanie Mattek Sands,Na Li,5-7 6-3 6-2 (wp),1.13,3.3%,3.3%,54.4%,71.4%,43.9%,44.4% (4/9),52.4%,46.3%,3.2%,43.3%,51.4%,50.0% (7/14),

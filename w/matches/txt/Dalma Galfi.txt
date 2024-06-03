@@ -1,4 +1,87 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,Parma 125,3,Clay,R32,141,67,0,,4,Anna Karolina Schmiedlova,Dalma Galfi,6-3 7-6(5),0.78,2.7%,0.0%,71.2%,63.5%,47.6%,75.0% (9/12),45.8%,31.9%,0.0%,24.0%,52.6%,33.3% (2/6),1:46
+6-May-2024,Rome,3,Clay,Q1,141,73,0,,2,Oceane Dodin,Dalma Galfi,5-7 6-0 6-3,0.83,4.4%,3.3%,62.6%,50.9%,44.1%,33.3% (4/12),45.7%,42.9%,3.6%,25.5%,64.9%,40.0% (4/10),1:56
+29-Apr-2024,W100 Wiesbaden,3,Clay,R32,137,94,0,,1,Julia Riera,Dalma Galfi,6-1 7-5,,,,,,,,,,,,,,
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,SF,148,98,0,,6,Maria Lourdes Carle,Dalma Galfi,6-1 1-1 RET,0.69,0.0%,16.7%,58.3%,50.0%,30.0%,25.0% (1/4),40.6%,40.0%,0.0%,32.3%,57.1%,25.0% (1/4),0:56
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,QF,148,167,1,,Q,Dalma Galfi,Zeynep Sonmez,6-1 7-6(4),1.21,3.2%,4.8%,65.1%,61.0%,54.5%,0.0% (0/3),54.6%,50.0%,0.0%,51.2%,46.2%,55.6% (5/9),1:19
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R16,148,107,1,,7,Dalma Galfi,Marina Bassols Ribera,1-0 RET,2.67,37.5%,12.5%,75.0%,83.3%,0.0%,100.0% (3/3),70.0%,100.0%,0.0%,-,100.0%,- (0/0),0:15
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,148,150,1,,,Dalma Galfi,Ella Seidel,7-6(0) 6-3,1.40,3.0%,1.5%,56.1%,75.7%,55.2%,50.0% (3/6),55.9%,46.8%,2.6%,34.1%,63.6%,33.3% (4/12),1:29
+25-Mar-2024,Antalya 125,3,Clay,R32,144,181,0,9,,Simona Waltert,Dalma Galfi,6-4 6-3,0.76,4.5%,4.5%,72.7%,53.1%,58.3%,20.0% (1/5),43.1%,34.5%,0.0%,20.5%,63.2%,66.7% (2/3),1:13
+11-Mar-2024,Charleston 125,3,Hard,Q1,133,140,0,,ALT,Olivia Gadecki,Dalma Galfi,6-1 7-6(1),0.74,2.9%,2.9%,58.0%,62.5%,24.1%,44.4% (4/9),42.8%,39.5%,1.3%,31.5%,59.1%,25.0% (3/12),1:46
+6-Mar-2024,Indian Wells,3,Hard,Q1,133,104,0,,17,Arina Rodionova,Dalma Galfi,6-2 7-5,0.72,4.2%,6.9%,61.1%,52.3%,46.4%,58.3% (7/12),43.3%,36.2%,0.0%,28.9%,50.0%,33.3% (2/6),1:37
+26-Feb-2024,San Diego,3,Hard,Q2,133,119,0,9,5,Mai Hontama,Dalma Galfi,7-6(4) 6-4,0.91,2.5%,3.7%,55.6%,62.2%,36.1%,61.5% (8/13),47.7%,45.1%,0.0%,40.6%,59.1%,36.4% (4/11),1:59
+26-Feb-2024,San Diego,3,Hard,Q1,133,263,1,9,,Dalma Galfi,Lesley Pattinama Kerkhove,6-3 7-5,1.24,6.3%,6.3%,60.3%,76.3%,36.0%,66.7% (4/6),54.5%,49.3%,1.4%,40.4%,68.2%,62.5% (5/8),1:25
+5-Feb-2024,Mumbai 125,3,Hard,R16,120,151,0,,,Moyuka Uchijima,Dalma Galfi,6-2 6-1,0.57,6.8%,2.3%,50.0%,59.1%,18.2%,44.4% (4/9),36.7%,34.8%,2.2%,24.0%,47.6%,100.0% (1/1),1:13
+5-Feb-2024,Mumbai 125,3,Hard,R32,120,123,1,,7,Dalma Galfi,Kimberly Birrell,6-2 4-6 7-5,1.11,5.3%,2.1%,63.8%,60.0%,50.0%,37.5% (3/8),52.4%,48.5%,0.0%,35.2%,65.1%,53.8% (7/13),2:35
+29-Jan-2024,Hua Hin,3,Hard,QF,137,108,0,Q,,Diana Shnaider,Dalma Galfi,6-2 6-1,0.55,0.0%,4.8%,59.5%,60.0%,23.5%,55.6% (5/9),36.8%,30.2%,1.9%,22.6%,40.9%,0.0% (0/4),1:15
+29-Jan-2024,Hua Hin,3,Hard,R16,137,63,1,Q,5,Dalma Galfi,Xiyu Wang,6-4 3-6 7-5,1.12,5.7%,4.6%,66.7%,77.6%,37.9%,25.0% (1/4),50.8%,40.0%,4.5%,35.8%,46.5%,57.1% (4/7),2:50
+29-Jan-2024,Hua Hin,3,Hard,R32,137,227,1,Q,WC,Dalma Galfi,Ajla Tomljanovic,6-3 6-0,1.61,3.8%,5.8%,50.0%,69.2%,57.7%,66.7% (2/3),61.5%,59.0%,2.6%,45.0%,73.7%,71.4% (5/7),1:08
+29-Jan-2024,Hua Hin,3,Hard,Q2,137,179,1,4,12,Dalma Galfi,Himeno Sakatsume,7-5 6-4,1.29,5.6%,5.6%,57.7%,75.6%,50.0%,50.0% (2/4),54.1%,45.5%,0.0%,45.1%,45.9%,40.0% (4/10),1:56
+29-Jan-2024,Hua Hin,3,Hard,Q1,137,241,1,4,,Dalma Galfi,Nigina Abduraimova,7-5 5-7 6-4,1.09,8.7%,1.9%,66.0%,73.5%,48.6%,70.0% (7/10),51.4%,38.1%,1.9%,30.0%,48.9%,36.4% (4/11),2:36
+15-Jan-2024,Australian Open,5,Hard,Q2,138,205,0,29,,Priscilla Hon,Dalma Galfi,4-6 6-3 6-4,0.77,3.4%,5.7%,62.1%,61.1%,63.6%,57.1% (4/7),46.2%,29.3%,0.0%,27.5%,32.3%,66.7% (2/3),1:55
+15-Jan-2024,Australian Open,5,Hard,Q1,138,203,1,29,,Dalma Galfi,Sofya Lansere,3-6 6-4 6-2,1.05,8.5%,2.1%,71.3%,68.7%,37.0%,57.1% (4/7),51.1%,42.4%,5.4%,32.8%,64.3%,45.5% (5/11),2:02
+20-Nov-2023,W100 Takasaki,3,Hard,R32,137,163,0,7,,Su Jeong Jang,Dalma Galfi,6-4 6-1,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,138,323,0,8,Q,Kyoka Okamura,Dalma Galfi,7-5 4-6 6-4,,,,,,,,,,,,,,
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,136,74,0,,,Yanina Wickmayer,Dalma Galfi,6-2 6-7(4) 6-1,0.71,14.9%,4.6%,67.8%,69.5%,35.7%,60.0% (6/10),44.4%,29.3%,7.3%,22.2%,52.6%,- (0/0),
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,136,62,1,,,Dalma Galfi,Greet Minnen,6-3 6-3,1.31,5.8%,0.0%,67.3%,62.9%,70.6%,50.0% (1/2),55.1%,45.5%,1.8%,42.4%,50.0%,50.0% (4/8),
+30-Oct-2023,W60 Bratislava,3,Hard,QF,154,221,0,3,6,Sofya Lansere,Dalma Galfi,4-6 6-3 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,R16,154,262,1,3,,Dalma Galfi,Nikola Bartunkova,6-4 7-5,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,R32,154,582,1,3,Q,Dalma Galfi,Radka Zelnickova,6-4 7-5,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,SF,154,107,0,,6,Sara Errani,Dalma Galfi,6-4 2-6 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,QF,154,52,1,,1,Dalma Galfi,Arantxa Rus,6-2 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R16,154,365,1,,WC,Dalma Galfi,Susan Bandecchi,6-2 2-6 6-2,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,154,744,1,,Q,Dalma Galfi,Paula Arias Manjon,6-1 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,R32,156,282,0,5,,Katie Swan,Dalma Galfi,6-2 6-2,,,,,,,,,,,,,,
+9-Oct-2023,Rouen 125,3,Hard,R16,149,121,0,,5,Alize Cornet,Dalma Galfi,6-4 6-3,0.85,0.0%,0.0%,70.0%,52.4%,50.0%,63.6% (7/11),45.7%,41.0%,0.0%,38.9%,45.8%,16.7% (2/12),1:47
+9-Oct-2023,Rouen 125,3,Hard,R32,149,167,1,,,Dalma Galfi,Kaia Kanepi,6-7(7) 6-1 6-4,1.25,10.3%,0.9%,73.8%,72.2%,35.7%,66.7% (6/9),55.2%,46.9%,4.2%,26.3%,76.9%,54.5% (6/11),2:03
+18-Sep-2023,Parma 125,3,Clay,R16,139,133,0,,,Jessica Bouzas Maneiro,Dalma Galfi,6-1 6-0,0.55,0.0%,4.7%,67.4%,37.9%,42.9%,14.3% (1/7),36.4%,33.3%,0.0%,26.5%,54.5%,0.0% (0/2),0:58
+18-Sep-2023,Parma 125,3,Clay,R32,139,65,1,,3,Dalma Galfi,Clara Burel,6-2 6-1,1.65,4.0%,4.0%,68.0%,61.8%,56.3%,66.7% (4/6),62.6%,65.9%,0.0%,56.5%,77.8%,66.7% (6/9),1:00
+11-Sep-2023,Ljubljana 125,3,Clay,QF,141,201,0,3,,Miriam Bianca Bulgaru,Dalma Galfi,6-2 6-3,0.72,6.5%,4.3%,67.4%,51.6%,40.0%,28.6% (2/7),42.4%,37.7%,1.9%,37.1%,38.9%,100.0% (2/2),1:11
+11-Sep-2023,Ljubljana 125,3,Clay,R16,141,249,1,3,LL,Dalma Galfi,Reka Luca Jani,6-1 7-6(3),1.19,4.4%,5.9%,58.8%,62.5%,42.9%,66.7% (6/9),54.3%,54.2%,0.0%,54.2%,53.8%,66.7% (6/9),1:40
+11-Sep-2023,Ljubljana 125,3,Clay,R32,141,1057,1,3,WC,Dalma Galfi,Ela Nala Milic,6-1 4-6 6-1,1.32,5.1%,5.1%,72.2%,66.7%,54.5%,66.7% (4/6),55.2%,48.4%,1.1%,40.4%,61.1%,66.7% (6/9),2:00
+4-Sep-2023,W60 Vienna,3,Clay,R32,116,485,0,1,Q,Ylona Georgiana Ghioroaie,Dalma Galfi,6-4 6-2,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,R32,116,508,0,1,,Pia Lovric,Dalma Galfi,6-3 6-1,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q2,116,167,0,17,,Elena Gabriela Ruse,Dalma Galfi,4-6 6-1 7-5,0.86,4.4%,1.1%,68.9%,61.3%,53.6%,42.9% (3/7),47.2%,35.2%,0.0%,26.9%,47.2%,50.0% (2/4),2:11
+28-Aug-2023,US Open,5,Hard,Q1,116,140,1,17,,Dalma Galfi,Jessika Ponchet,6-4 6-4,1.36,6.6%,6.6%,60.7%,83.8%,41.7%,50.0% (1/2),54.8%,44.6%,0.0%,34.5%,51.1%,50.0% (3/6),1:31
+3-Jul-2023,Wimbledon,5,Grass,R32,126,22,0,,21,Ekaterina Alexandrova,Dalma Galfi,6-0 6-4,0.40,10.0%,4.0%,60.0%,56.7%,40.0%,20.0% (1/5),36.7%,20.0%,7.5%,20.0%,20.0%,- (0/0),0:58
+3-Jul-2023,Wimbledon,5,Grass,R64,126,103,1,,,Dalma Galfi,Jule Niemeier,4-6 7-6(5) 6-1,1.11,2.9%,6.7%,55.2%,69.0%,53.2%,75.0% (6/8),52.2%,42.3%,1.0%,38.0%,51.5%,44.4% (4/9),2:38
+3-Jul-2023,Wimbledon,5,Grass,R128,126,45,1,,,Dalma Galfi,Linda Noskova,6-7(6) 6-2 6-2,1.36,15.4%,2.2%,64.8%,78.0%,59.4%,100.0% (4/4),54.1%,38.8%,1.9%,33.3%,50.0%,33.3% (4/12),1:54
+26-Jun-2023,Eastbourne,3,Grass,Q1,124,73,0,,11,Xiyu Wang,Dalma Galfi,6-1 1-0 RET,0.37,0.0%,4.3%,65.2%,40.0%,25.0%,40.0% (2/5),29.5%,23.8%,0.0%,13.3%,50.0%,- (0/0),0:31
+19-Jun-2023,W100 Ilkley,3,Grass,SF,132,175,0,3,,Mirjam Bjorklund,Dalma Galfi,7-6(5) 2-6 6-3,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,QF,132,200,1,3,Q,Dalma Galfi,Emiliana Arango,2-6 6-3 7-6(5),,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,R16,132,198,1,3,Q,Dalma Galfi,Katrina Scott,6-3 3-6 6-4,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,R32,132,149,1,3,,Dalma Galfi,Moyuka Uchijima,6-3 6-3,,,,,,,,,,,,,,
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,98,186,0,,Q,Emina Bektas,Dalma Galfi,7-5 7-6(1),0.75,8.2%,3.5%,63.5%,55.6%,54.8%,60.0% (6/10),44.8%,33.3%,5.1%,22.6%,56.0%,42.9% (3/7),1:45
+5-Jun-2023,Makarska 125,3,Clay,R32,98,116,0,8,,Yue Yuan,Dalma Galfi,3-6 6-3 6-0,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,98,41,0,,,Varvara Gracheva,Dalma Galfi,6-4 2-6 6-1,0.87,3.9%,5.2%,63.6%,61.2%,42.9%,33.3% (2/6),46.2%,39.6%,1.0%,33.9%,47.5%,37.5% (3/8),1:57
+15-May-2023,W100 Madrid,3,Clay,R16,91,305,0,3,Q,Suzan Lamens,Dalma Galfi,5-1 RET,,,,,,,,,,,,,,
+15-May-2023,W100 Madrid,3,Clay,R32,91,219,1,3,,Dalma Galfi,Arina Rodionova,6-1 1-6 6-2,,,,,,,,,,,,,,
+8-May-2023,Rome,3,Clay,Q2,91,168,0,7,17,Taylor Townsend,Dalma Galfi,7-5 6-4,0.88,1.4%,2.8%,49.3%,65.7%,50.0%,62.5% (5/8),46.3%,37.1%,1.1%,30.4%,48.5%,14.3% (1/7),2:01
+8-May-2023,Rome,3,Clay,Q1,91,233,1,7,,Dalma Galfi,Eugenie Bouchard,7-6(4) 6-3,1.11,8.4%,4.8%,57.8%,68.8%,62.9%,75.0% (3/4),53.3%,37.3%,0.0%,37.2%,37.5%,66.7% (2/3),1:46
+1-May-2023,Reus 125,3,Clay,R32,93,107,0,,,Arantxa Rus,Dalma Galfi,1-6 6-4 6-4,1.05,1.3%,7.5%,61.3%,71.4%,35.5%,20.0% (1/5),50.9%,44.8%,3.4%,40.3%,60.0%,50.0% (5/10),2:14
+24-Apr-2023,Madrid,3,Clay,R128,93,69,0,,,Caty Mcnally,Dalma Galfi,4-6 6-0 6-3,0.84,3.9%,2.6%,64.9%,60.0%,51.9%,54.5% (6/11),46.7%,36.0%,1.3%,26.2%,48.5%,66.7% (2/3),2:06
+14-Apr-2023,BJK Cup G1 RR: HUN vs NED,3,Clay,RR,95,283,1,,,Dalma Galfi,Suzan Lamens,6-4 6-3,,,,,,,,,,,,,,
+12-Apr-2023,BJK Cup G1 RR: HUN vs TUR,3,Clay,RR,95,242,0,,,Zeynep Sonmez,Dalma Galfi,6-3 6-4,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: HUN vs EGY,3,Clay,RR,95,940,1,,,Dalma Galfi,Lamis Alhussein Abdel Aziz,6-1 6-3,,,,,,,,,,,,,,
+3-Apr-2023,Charleston,3,Clay,R64,87,37,0,,15,Irina Camelia Begu,Dalma Galfi,6-1 7-5,0.64,3.9%,2.6%,64.5%,49.0%,44.4%,70.6% (12/17),41.7%,33.9%,1.8%,28.9%,44.4%,50.0% (2/4),1:38
+27-Mar-2023,San Luis Potosi 125,3,Clay,R16,79,143,0,3,,Kaja Juvan,Dalma Galfi,6-3 6-3,0.70,2.6%,9.2%,44.7%,64.7%,40.5%,61.5% (8/13),44.7%,34.0%,4.3%,13.6%,52.0%,66.7% (2/3),1:22
+20-Mar-2023,Miami,3,Hard,R128,79,45,0,,,Aliaksandra Sasnovich,Dalma Galfi,6-3 7-6(5),0.82,7.0%,4.2%,66.2%,74.5%,37.5%,33.3% (1/3),46.2%,31.1%,5.4%,28.8%,36.4%,20.0% (1/5),1:35
+6-Mar-2023,Indian Wells,3,Hard,R64,80,5,0,LL,5,Caroline Garcia,Dalma Galfi,6-1 6-7(4) 6-4,0.64,13.6%,5.8%,72.8%,64.0%,50.0%,66.7% (6/9),44.2%,25.3%,8.0%,12.7%,46.9%,0.0% (0/4),2:07
+6-Mar-2023,Indian Wells,3,Hard,R128,80,31,1,LL,,Dalma Galfi,Danielle Collins,6-4 6-4,1.22,9.8%,3.3%,68.9%,64.3%,52.6%,25.0% (1/4),53.7%,48.0%,1.3%,31.7%,67.6%,71.4% (5/7),1:39
+6-Mar-2023,Indian Wells,3,Hard,Q2,80,156,0,1,,Katie Swan,Dalma Galfi,6-4 7-6(6),0.95,10.0%,2.9%,58.6%,61.0%,58.6%,50.0% (3/6),48.1%,38.1%,3.6%,34.6%,43.8%,25.0% (2/8),1:51
+6-Mar-2023,Indian Wells,3,Hard,Q1,80,157,1,1,,Dalma Galfi,Ana Konjuh,6-3 6-2,2.50,9.1%,0.0%,59.1%,84.6%,77.8%,- (0/0),61.6%,45.5%,0.0%,40.0%,52.0%,33.3% (3/9),1:02
+27-Feb-2023,Austin,3,Hard,R32,83,52,0,,8,Marta Kostyuk,Dalma Galfi,7-5 6-1,0.73,3.0%,4.5%,61.2%,58.5%,30.8%,44.4% (4/9),43.3%,38.3%,1.7%,34.4%,42.9%,66.7% (2/3),1:23
+6-Feb-2023,Linz,3,Hard,QF,92,89,0,Q,,Marketa Vondrousova,Dalma Galfi,4-1 RET,0.50,0.0%,0.0%,60.0%,66.7%,0.0%,0.0% (0/1),33.3%,30.0%,10.0%,12.5%,41.7%,0.0% (0/1),0:23
+6-Feb-2023,Linz,3,Hard,R16,92,126,1,Q,WC,Dalma Galfi,Eva Lys,6-4 3-6 6-3,1.15,10.3%,0.0%,66.7%,75.0%,50.0%,33.3% (1/3),51.5%,38.2%,0.0%,37.5%,41.2%,27.3% (3/11),1:54
+6-Feb-2023,Linz,3,Hard,R32,92,43,1,Q,7,Dalma Galfi,Bernarda Pera,6-2 7-6(5),1.28,7.9%,0.0%,63.5%,65.0%,60.9%,60.0% (3/5),55.4%,46.6%,3.4%,37.5%,57.7%,57.1% (4/7),1:20
+6-Feb-2023,Linz,3,Hard,Q2,92,115,1,4,8,Dalma Galfi,Kamilla Rakhimova,6-4 4-6 7-5,0.98,0.0%,0.0%,73.8%,60.8%,46.4%,53.8% (7/13),49.8%,42.2%,10.8%,37.5%,59.1%,50.0% (5/10),2:26
+6-Feb-2023,Linz,3,Hard,Q1,92,932,1,4,WC,Dalma Galfi,Melanie Klaffner,7-6(5) 6-4,1.10,3.6%,1.2%,71.1%,61.0%,45.8%,50.0% (4/8),52.1%,47.5%,1.3%,44.4%,53.8%,62.5% (5/8),1:58
+30-Jan-2023,Lyon,3,Hard,R32,91,93,0,,,Maryna Zanevska,Dalma Galfi,6-1 7-6(3),0.78,3.4%,8.5%,54.2%,78.1%,33.3%,50.0% (3/6),44.2%,32.9%,1.4%,27.0%,39.4%,16.7% (1/6),1:29
+16-Jan-2023,Australian Open,5,Hard,R128,88,28,0,,29,Qinwen Zheng,Dalma Galfi,6-0 6-2,0.58,0.0%,7.3%,53.7%,50.0%,21.1%,33.3% (3/9),36.6%,36.6%,7.3%,21.7%,55.6%,25.0% (1/4),0:56
+9-Jan-2023,Adelaide 2,3,Hard,Q1,86,45,0,,9,Anastasia Potapova,Dalma Galfi,3-6 7-5 1-0 RET,0.92,6.3%,6.3%,71.3%,71.9%,39.1%,75.0% (6/8),49.7%,34.3%,7.5%,32.4%,36.4%,28.6% (2/7),1:40
+2-Jan-2023,Auckland,3,Hard,R32,83,63,0,,8,Rebecca Marino,Dalma Galfi,6-3 7-6(3),0.79,8.3%,0.0%,75.0%,61.1%,55.6%,70.0% (7/10),46.1%,31.9%,5.8%,26.9%,47.1%,28.6% (2/7),1:26
+12-Nov-2022,BJK Cup Playoffs: ROU vs HUN,3,Hard,RR,85,48,0,,,Ana Bogdan,Dalma Galfi,6-1 6-4,,,,,,,,,,,,,,
+31-Oct-2022,W100 Shrewsbury,3,Hard,R32,85,155,0,3,,Ana Konjuh,Dalma Galfi,6-7(3) 7-5 7-6(3),,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,R32,84,102,0,8,,Varvara Gracheva,Dalma Galfi,6-0 6-2,0.56,2.1%,8.3%,62.5%,60.0%,11.1%,44.4% (4/9),37.0%,32.7%,0.0%,33.3%,31.6%,0.0% (0/2),1:07
 10-Oct-2022,Cluj Napoca,3,Hard,R16,89,75,0,,,Nuria Parrizas Diaz,Dalma Galfi,6-1 6-4,0.59,5.7%,0.0%,54.7%,62.1%,33.3%,66.7% (8/12),39.6%,30.2%,3.8%,17.6%,52.6%,50.0% (1/2),1:10
 10-Oct-2022,Cluj Napoca,3,Hard,R32,89,63,1,,9,Dalma Galfi,Lucia Bronzetti,4-6 6-2 6-4,1.23,9.9%,1.4%,67.6%,81.3%,52.2%,33.3% (1/3),52.7%,34.7%,1.3%,29.4%,45.8%,50.0% (4/8),1:48
@@ -20,11 +103,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2022,Contrexeville 125,3,Clay,R32,89,120,1,6,,Dalma Galfi,Kristina Mladenovic,6-7(5) 6-4 6-3,1.08,3.8%,4.8%,53.8%,57.1%,47.9%,50.0% (6/12),51.9%,51.0%,0.0%,39.7%,65.9%,47.1% (8/17),2:36
 27-Jun-2022,Wimbledon,5,Grass,R64,89,62,0,,,Kaja Juvan,Dalma Galfi,7-5 6-3,0.63,2.5%,2.5%,65.4%,54.7%,53.6%,66.7% (8/12),43.8%,28.6%,3.6%,17.6%,45.5%,100.0% (2/2),1:22
 27-Jun-2022,Wimbledon,5,Grass,R128,89,129,1,,,Dalma Galfi,Maddison Inglis,5-7 6-3 6-4,1.06,8.8%,3.3%,63.7%,70.7%,45.5%,33.3% (2/6),50.8%,40.6%,3.1%,31.0%,55.3%,38.5% (5/13),2:15
+13-Jun-2022,W100 Ilkley,3,Grass,F,98,216,1,1,WC,Dalma Galfi,Jodie Burrage,7-5 4-6 6-3,,,,,,,,,,,,,,
+13-Jun-2022,W100 Ilkley,3,Grass,SF,98,121,1,1,3,Dalma Galfi,Katie Volynets,6-3 3-6 7-6(4),,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,QF,98,271,1,1,Q,Dalma Galfi,Mandy Minella,7-6(3) 5-7 6-4,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,R16,98,670,1,1,SR,Dalma Galfi,Yanina Wickmayer,6-4 6-3,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,R32,98,176,1,1,,Dalma Galfi,Caroline Dolehide,6-3 6-4,,,,,,,,,,,,,,
 6-Jun-2022,Valencia 125,3,Clay,R32,99,138,0,8,,Reka Luca Jani,Dalma Galfi,6-3 6-2,0.67,6.7%,2.2%,55.6%,44.0%,30.0%,33.3% (3/9),39.8%,41.5%,0.0%,42.9%,36.4%,42.9% (3/7),1:05
-23-May-2022,Roland Garros,5,Clay,R128,96,172,0,,Q,Olga Danilovic,Dalma Galfi,3-6 7-6(4) 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,96,172,0,,Q,Olga Danilovic,Dalma Galfi,3-6 7-6(4) 6-2,0.89,3.4%,2.6%,63.2%,56.8%,46.5%,62.5% (10/16),47.9%,41.7%,2.1%,38.9%,45.2%,71.4% (5/7),
 16-May-2022,Rabat,3,Clay,R16,98,76,0,,7,Arantxa Rus,Dalma Galfi,6-4 6-2,0.79,0.0%,3.6%,78.6%,45.5%,16.7%,22.2% (2/9),43.8%,47.7%,1.5%,41.7%,64.7%,30.8% (4/13),1:29
 16-May-2022,Rabat,3,Clay,R32,98,275,1,,,Dalma Galfi,Ulrikke Eikeri,6-2 7-5,1.38,3.7%,3.7%,68.5%,62.2%,58.8%,0.0% (0/3),57.1%,53.8%,3.1%,38.7%,67.6%,54.5% (6/11),1:37
 9-May-2022,Karlsruhe 125,3,Clay,QF,92,249,0,7,,Anna Lena Friedsam,Dalma Galfi,6-3 7-6(1),0.77,4.8%,1.6%,62.9%,66.7%,30.4%,42.9% (3/7),43.8%,36.0%,0.0%,31.8%,41.9%,42.9% (3/7),1:34
@@ -54,7 +139,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Jan-2022,W25 Manacor,3,Hard,R32,117,327,1,1,,Dalma Galfi,Pemra Ozgen,6-3 6-1,,,,,,,,,,,,,,
 24-Jan-2022,W25 Manacor,3,Hard,R16,124,342,0,1,WC,Ivonne Cavalle Reimers,Dalma Galfi,6-7(3) 7-6(2) 6-1,,,,,,,,,,,,,,
 24-Jan-2022,W25 Manacor,3,Hard,R32,124,,1,1,WC,Dalma Galfi,Noemi Basiletti,6-0 7-5,,,,,,,,,,,,,,
-17-Jan-2022,Australian Open,5,Hard,Q2,124,251,0,12,,Indy De Vroome,Dalma Galfi,6-4 6-7(9) 7-6(6) (ch),0.96,3.1%,1.6%,73.4%,61.7%,41.2%,46.2% (6/13),49.2%,41.9%,1.6%,31.5%,56.9%,54.5% (6/11),2:59
+17-Jan-2022,Australian Open,5,Hard,Q2,124,251,0,12,,Indy De Vroome,Dalma Galfi,6-4 6-7(9) 7-6(6),0.96,3.1%,1.6%,73.4%,61.7%,41.2%,46.2% (6/13),49.2%,41.9%,1.6%,31.5%,56.9%,54.5% (6/11),2:59
 17-Jan-2022,Australian Open,5,Hard,Q1,124,253,1,12,,Dalma Galfi,Carolina Alves,6-2 7-5,1.51,13.6%,1.7%,67.8%,77.5%,52.6%,83.3% (5/6),56.2%,46.2%,2.6%,45.1%,48.1%,50.0% (4/8),1:27
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,QF,125,103,0,5,2,Maryna Zanevska,Dalma Galfi,6-0 6-2,,,,,,,,,,,,,,
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,R16,125,263,1,5,,Dalma Galfi,Anastasia Tikhonova,6-1 7-6(5),,,,,,,,,,,,,,
@@ -75,7 +160,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Aug-2021,US Open,5,Hard,Q2,152,229,1,,,Dalma Galfi,Despina Papamichail,7-6(6) 6-1,1.55,1.6%,3.2%,61.9%,76.9%,62.5%,50.0% (1/2),56.4%,44.2%,1.3%,36.7%,57.1%,27.3% (3/11),1:35
 30-Aug-2021,US Open,5,Hard,Q1,152,438,1,,,Dalma Galfi,Louisa Chirico,3-6 6-1 6-2,1.22,6.1%,2.4%,72.0%,71.2%,52.2%,90.0% (9/10),55.0%,41.8%,0.0%,34.2%,51.7%,66.7% (4/6),1:33
 26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,QF,154,226,0,1,7,Tessah Andrianjafitrimo,Dalma Galfi,6-4 6-1,,,,,,,,,,,,,,
-26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,R16,154,328,1,1,Q,Dalma Galfi,Maria Carle,6-2 6-7(5) 6-0,,,,,,,,,,,,,,
+26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,R16,154,328,1,1,Q,Dalma Galfi,Maria Lourdes Carle,6-2 6-7(5) 6-0,,,,,,,,,,,,,,
 26-Jul-2021,W60 Grodzisk Mazowiecki,3,Clay,R32,154,1146,1,1,WC,Dalma Galfi,Weronika Baszak,6-3 6-0,,,,,,,,,,,,,,
 12-Jul-2021,Budapest,3,Clay,SF,176,42,0,WC,1,Yulia Putintseva,Dalma Galfi,6-2 3-6 6-2,0.92,0.0%,2.5%,58.2%,60.9%,42.4%,45.5% (5/11),47.9%,43.0%,1.2%,34.7%,54.1%,75.0% (3/4),2:25
 12-Jul-2021,Budapest,3,Clay,QF,176,164,1,WC,Q,Dalma Galfi,Olga Danilovic,6-4 6-2,1.30,2.9%,4.4%,75.0%,58.8%,64.7%,60.0% (3/5),55.9%,51.5%,2.9%,33.3%,71.9%,33.3% (5/15),1:37
@@ -95,10 +180,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Jun-2021,Bol,3,Clay,R32,239,129,0,Q,,Katarina Zavatska,Dalma Galfi,6-2 6-3,0.78,0.0%,3.4%,65.5%,57.9%,45.0%,60.0% (6/10),44.6%,36.5%,0.0%,34.0%,50.0%,16.7% (1/6),1:19
 31-May-2021,Roland Garros,5,Clay,Q1,239,206,0,,,Jana Fett,Dalma Galfi,6-3 1-6 6-4,0.99,0.0%,2.5%,70.0%,53.6%,66.7%,50.0% (4/8),49.4%,42.0%,0.0%,34.0%,52.6%,44.4% (4/9),2:02
 17-May-2021,Belgrade,3,Clay,Q1,236,115,0,,1,Camila Osorio,Dalma Galfi,6-3 6-7(7) 6-4,0.89,3.1%,2.0%,59.2%,65.5%,27.5%,33.3% (4/12),47.2%,44.4%,0.0%,37.9%,57.6%,66.7% (6/9),2:15
-3-May-2021,W25 Prague,3,Clay,F,234,263,0,,Q,Jule Niemeier,Dalma Galfi,6-4 6-2 (ch),,,,,,,,,,,,,,
+3-May-2021,W25 Prague,3,Clay,F,234,263,0,,Q,Jule Niemeier,Dalma Galfi,6-4 6-2,,,,,,,,,,,,,,
 3-May-2021,W25 Prague,3,Clay,SF,234,175,1,,4,Dalma Galfi,Elena Gabriela Ruse,6-4 6-4,,,,,,,,,,,,,,
 3-May-2021,W25 Prague,3,Clay,QF,234,205,1,,WC,Dalma Galfi,Ana Konjuh,6-1 6-4,,,,,,,,,,,,,,
-3-May-2021,W25 Prague,3,Clay,R16,234,106,1,,1,Dalma Galfi,Viktoria Kuzmova,6-3 6-3,,,,,,,,,,,,,,
+3-May-2021,W25 Prague,3,Clay,R16,234,106,1,,1,Dalma Galfi,Viktoria Hruncakova,6-3 6-3,,,,,,,,,,,,,,
 3-May-2021,W25 Prague,3,Clay,R32,234,522,1,,Q,Dalma Galfi,Chantal Skamlova,7-6(1) 6-4,,,,,,,,,,,,,,
 19-Apr-2021,Istanbul,3,Clay,Q1,235,158,0,,6,Harmony Tan,Dalma Galfi,6-7(1) 6-3 6-1,0.87,2.1%,3.1%,67.0%,46.2%,31.3%,38.9% (7/18),46.3%,50.9%,0.0%,47.5%,55.1%,52.9% (9/17),2:10
 5-Apr-2021,W60 Bellinzona,3,Clay,R64,232,345,0,,Q,Lucia Bronzetti,Dalma Galfi,7-6(3) RET,,,,,,,,,,,,,,
@@ -299,7 +384,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Nov-2016,Toyota $50K,3,Carpet,QF,182,388,1,,,Dalma Galfi,Makoto Ninomiya,6-3 6-2,,,,,,,,,,,,,,
 14-Nov-2016,Toyota $50K,3,Carpet,R16,182,168,1,,4,Dalma Galfi,Nigina Abduraimova,6-3 4-6 7-6(4),,,,,,,,,,,,,,
 14-Nov-2016,Toyota $50K,3,Carpet,R32,182,365,1,,,Dalma Galfi,Ayaka Okuno,6-1 6-2,,,,,,,,,,,,,,
-7-Nov-2016,Tokyo $100K,3,Hard,F,272,24,0,JE,1,Shuai Zhang,Dalma Galfi,4-6 7-6(2) 6-2 (ch),,,,,,,,,,,,,,
+7-Nov-2016,Tokyo $100K,3,Hard,F,272,24,0,JE,1,Shuai Zhang,Dalma Galfi,4-6 7-6(2) 6-2,,,,,,,,,,,,,,
 7-Nov-2016,Tokyo $100K,3,Hard,SF,272,126,1,JE,,Dalma Galfi,Tatjana Maria,6-1 6-4,,,,,,,,,,,,,,
 7-Nov-2016,Tokyo $100K,3,Hard,QF,272,196,1,JE,SR,Dalma Galfi,Jana Fett,6-3 6-4,,,,,,,,,,,,,,
 7-Nov-2016,Tokyo $100K,3,Hard,R16,272,84,1,JE,3,Dalma Galfi,Nao Hibino,6-3 6-4,,,,,,,,,,,,,,
@@ -313,7 +398,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Oct-2016,Toowoomba $25K,3,Hard,F,251,347,1,7,,Dalma Galfi,Katy Dunne,6-2 6-4,,,,,,,,,,,,,,
 3-Oct-2016,Toowoomba $25K,3,Hard,SF,251,175,1,7,2,Dalma Galfi,Asia Muhammad,4-6 6-4 6-3,,,,,,,,,,,,,,
 3-Oct-2016,Toowoomba $25K,3,Hard,QF,251,185,1,7,4,Dalma Galfi,Miyu Kato,6-4 6-3,,,,,,,,,,,,,,
-3-Oct-2016,Toowoomba $25K,3,Hard,R16,251,279,1,7,,Dalma Galfi,Storm Sanders,6-4 7-5,,,,,,,,,,,,,,
+3-Oct-2016,Toowoomba $25K,3,Hard,R16,251,279,1,7,,Dalma Galfi,Storm Hunter,6-4 7-5,,,,,,,,,,,,,,
 3-Oct-2016,Toowoomba $25K,3,Hard,R32,251,309,1,7,,Dalma Galfi,Katarzyna Kawa,6-2 6-2,,,,,,,,,,,,,,
 26-Sep-2016,Brisbane $25K,3,Hard,R16,256,484,0,5,SE,Lizette Cabrera,Dalma Galfi,7-6(4) 7-5,,,,,,,,,,,,,,
 26-Sep-2016,Brisbane $25K,3,Hard,R32,256,376,1,5,,Dalma Galfi,Olivia Tjandramulia,6-2 6-4,,,,,,,,,,,,,,
@@ -360,7 +445,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Oct-2015,Cairns $25K,3,Hard,QF,447,295,1,,,Dalma Galfi,Katy Dunne,6-3 6-4,,,,,,,,,,,,,,
 5-Oct-2015,Cairns $25K,3,Hard,R16,447,391,1,,,Dalma Galfi,Asia Muhammad,6-7(1) 6-3 6-0,,,,,,,,,,,,,,
 5-Oct-2015,Cairns $25K,3,Hard,R32,447,533,1,,,Dalma Galfi,Zuzana Zlochova,6-2 6-3,,,,,,,,,,,,,,
-28-Sep-2015,Tweed Heads 15K,3,Hard,F,443,406,1,,8,Dalma Galfi,Storm Sanders,6-2 3-6 6-1,,,,,,,,,,,,,,
+28-Sep-2015,Tweed Heads 15K,3,Hard,F,443,406,1,,8,Dalma Galfi,Storm Hunter,6-2 3-6 6-1,,,,,,,,,,,,,,
 28-Sep-2015,Tweed Heads 15K,3,Hard,SF,443,296,1,,3,Dalma Galfi,Katy Dunne,6-4 6-2,,,,,,,,,,,,,,
 28-Sep-2015,Tweed Heads 15K,3,Hard,QF,443,1252,1,,Q,Dalma Galfi,Tammi Patterson,6-0 6-0,,,,,,,,,,,,,,
 28-Sep-2015,Tweed Heads 15K,3,Hard,R16,443,332,1,,5,Dalma Galfi,Alison Bai,6-4 4-6 6-3,,,,,,,,,,,,,,

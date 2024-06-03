@@ -1,4 +1,114 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+29-Apr-2024,W100 Gifu,3,Hard,R32,157,405,0,7,Q,Miho Kuramochi,Valeria Savinykh,7-5 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,R16,157,353,0,7,WC,Ena Shibahara,Valeria Savinykh,6-3 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,R32,157,819,1,7,WC,Valeria Savinykh,Kayo Nishimura,6-3 6-2,,,,,,,,,,,,,,
+15-Apr-2024,W50 Shenzhen,3,Hard,R32,156,468,0,2,,Xinxin Yao,Valeria Savinykh,6-3 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,SF,160,204,0,2,6,Sijia Wei,Valeria Savinykh,6-3 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,QF,160,567,1,2,Q,Valeria Savinykh,Wushuang Zheng,6-7(3) 6-1 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R16,160,446,1,2,,Valeria Savinykh,Peangtarn Plipuech,4-6 7-5 6-0,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R32,160,784,1,2,Q,Valeria Savinykh,Shuo Feng,5-7 6-3 3-0 RET,,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,F,168,175,0,1,2,Viktoria Hruncakova,Valeria Savinykh,6-0 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,SF,168,250,1,1,8,Valeria Savinykh,Nigina Abduraimova,6-4 5-7 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,QF,168,244,1,1,7,Valeria Savinykh,Nikola Bartunkova,7-6(4) 6-4,,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,R16,168,638,1,1,JE,Valeria Savinykh,Hannah Klugman,6-3 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,R32,168,307,1,1,,Valeria Savinykh,Jamie Loeb,7-6(3) 6-2,,,,,,,,,,,,,,
+18-Mar-2024,W75 Maribor,3,Hard,R16,167,206,0,7,,Talia Gibson,Valeria Savinykh,6-1 7-6(7),,,,,,,,,,,,,,
+18-Mar-2024,W75 Maribor,3,Hard,R32,167,683,1,7,Q,Valeria Savinykh,Anna Sinclair Rogers,6-2 7-5,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,R32,169,146,0,,3,Eva Lys,Valeria Savinykh,6-4 6-3,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,R32,169,171,0,,8,Elena Gabriela Ruse,Valeria Savinykh,6-1 7-6(4),,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R32,174,120,0,,2,Anna Bondar,Valeria Savinykh,6-0 6-1,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,157,222,0,,,Carol Zhao,Valeria Savinykh,6-3 7-6(7),0.87,2.7%,4.0%,70.7%,52.8%,59.1%,44.4% (4/9),47.3%,39.4%,8.5%,37.3%,45.0%,37.5% (3/8),1:54
+1-Jan-2024,Brisbane,3,Hard,Q2,150,124,0,9,4,Olivia Gadecki,Valeria Savinykh,6-3 6-2,0.50,0.0%,4.0%,52.0%,50.0%,41.7%,60.0% (6/10),36.3%,26.9%,15.4%,20.6%,38.9%,16.7% (1/6),1:13
+1-Jan-2024,Brisbane,3,Hard,Q1,150,216,1,9,WC,Valeria Savinykh,Jaimee Fourlis,6-7(8) 7-5 6-2,1.22,2.8%,6.5%,64.5%,73.9%,57.9%,100.0% (1/1),52.7%,38.7%,8.4%,32.4%,48.9%,18.8% (3/16),3:03
+13-Nov-2023,W100 Takasaki,3,Hard,R16,142,294,0,,Q,En Shuo Liang,Valeria Savinykh,6-0 7-5,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,142,222,1,,,Valeria Savinykh,Anastasia Tikhonova,4-6 6-1 7-5,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R16,140,52,0,,1,Arantxa Rus,Valeria Savinykh,6-7(5) 6-3 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,140,302,1,,,Valeria Savinykh,Camilla Rosatello,6-4 6-4,,,,,,,,,,,,,,
+16-Oct-2023,Nanchang,3,Hard,R16,146,90,0,,,Aliaksandra Sasnovich,Valeria Savinykh,6-3 6-2,0.72,0.0%,11.3%,60.4%,50.0%,28.6%,40.0% (4/10),41.8%,42.1%,7.0%,45.2%,33.3%,28.6% (2/7),1:22
+16-Oct-2023,Nanchang,3,Hard,R32,146,23,1,,2,Valeria Savinykh,Magda Linette,7-5 3-6 7-6(3),1.04,0.0%,5.6%,67.6%,60.3%,48.6%,53.8% (7/13),50.9%,45.5%,5.5%,46.8%,42.4%,42.9% (6/14),3:02
+9-Oct-2023,Hong Kong,3,Hard,R32,143,179,0,,Q,Alina Korneeva,Valeria Savinykh,6-4 2-6 6-3,0.90,2.3%,4.6%,69.0%,65.0%,40.7%,42.9% (3/7),48.2%,38.3%,7.4%,34.8%,42.9%,44.4% (4/9),2:01
+25-Sep-2023,Ningbo,3,Hard,R16,164,87,0,Q,,Nadia Podoroska,Valeria Savinykh,4-6 6-0 6-2,0.81,1.4%,4.3%,63.8%,52.3%,32.0%,33.3% (4/12),44.9%,44.8%,1.1%,35.8%,58.8%,33.3% (4/12),2:04
+25-Sep-2023,Ningbo,3,Hard,R32,164,48,1,Q,5,Valeria Savinykh,Varvara Gracheva,7-5 7-5,1.12,2.1%,5.3%,48.9%,67.4%,50.0%,72.7% (8/11),53.4%,46.4%,2.9%,41.5%,53.6%,50.0% (5/10),2:05
+25-Sep-2023,Ningbo,3,Hard,Q2,164,140,1,8,5,Valeria Savinykh,Rebecca Marino,3-6 7-5 7-5,1.09,1.1%,5.4%,52.7%,73.5%,50.0%,33.3% (2/6),51.0%,41.1%,17.8%,23.3%,63.8%,55.6% (5/9),2:20
+25-Sep-2023,Ningbo,3,Hard,Q1,164,269,1,8,,Valeria Savinykh,Sijia Wei,2-6 6-3 6-2,1.18,1.3%,9.1%,50.6%,61.5%,44.7%,16.7% (1/6),54.1%,55.0%,3.8%,45.5%,66.7%,33.3% (6/18),2:00
+18-Sep-2023,Guangzhou,3,Hard,Q2,161,155,0,7,5,Harriet Dart,Valeria Savinykh,6-3 6-4,0.81,1.6%,4.8%,57.1%,61.1%,33.3%,54.5% (6/11),45.2%,41.0%,8.2%,24.1%,56.3%,60.0% (3/5),1:34
+18-Sep-2023,Guangzhou,3,Hard,Q1,161,284,1,7,,Valeria Savinykh,Xinyu Gao,7-5 4-2 RET,1.18,10.4%,4.5%,70.1%,63.8%,40.0%,71.4% (5/7),54.4%,51.1%,14.9%,50.0%,52.6%,57.1% (4/7),1:32
+11-Sep-2023,Osaka,3,Hard,R16,171,88,0,Q,6,Yulia Putintseva,Valeria Savinykh,6-1 6-2,0.58,2.2%,6.7%,53.3%,54.2%,28.6%,28.6% (2/7),37.6%,33.3%,2.1%,25.8%,47.1%,0.0% (0/5),1:18
+11-Sep-2023,Osaka,3,Hard,R32,171,94,1,Q,,Valeria Savinykh,Anna Lena Friedsam,6-4 1-6 6-3,0.96,7.2%,1.2%,66.3%,63.6%,60.7%,66.7% (6/9),50.0%,36.0%,10.7%,27.5%,54.2%,25.0% (3/12),2:10
+11-Sep-2023,Osaka,3,Hard,Q2,171,230,1,2,,Valeria Savinykh,Carol Zhao,6-2 6-3,2.77,9.3%,4.7%,62.8%,85.2%,81.3%,- (0/0),61.0%,45.2%,11.3%,29.5%,83.3%,37.5% (3/8),1:13
+11-Sep-2023,Osaka,3,Hard,Q1,171,399,1,2,WC,Valeria Savinykh,Aoi Ito,7-6(6) 6-1,1.35,6.3%,3.2%,55.6%,71.4%,50.0%,57.1% (4/7),56.3%,51.4%,4.2%,49.0%,56.5%,50.0% (5/10),1:41
+4-Sep-2023,W100 Tokyo,3,Hard,R32,180,111,0,,5,Kimberly Birrell,Valeria Savinykh,7-5 6-4,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q2,180,198,0,,,Yuriko Miyazaki,Valeria Savinykh,6-4 6-4,0.82,6.3%,6.3%,54.0%,58.8%,44.8%,37.5% (3/8),46.2%,38.9%,9.3%,25.0%,66.7%,42.9% (3/7),1:56
+28-Aug-2023,US Open,5,Hard,Q1,180,166,1,,,Valeria Savinykh,Carole Monnet,6-3 6-3,1.30,1.9%,3.8%,73.1%,55.3%,42.9%,42.9% (3/7),57.5%,62.3%,4.9%,61.1%,64.0%,87.5% (7/8),1:20
+14-Aug-2023,Stanford 125,3,Hard,R32,179,81,0,Q,4,Nao Hibino,Valeria Savinykh,7-5 6-2,0.73,5.3%,8.8%,54.4%,61.3%,15.4%,36.4% (4/11),41.9%,43.3%,9.0%,31.1%,68.2%,33.3% (4/12),1:21
+14-Aug-2023,Stanford 125,3,Hard,Q2,179,,1,5,WC,Valeria Savinykh,Alexandra Yepifanova,6-4 7-6(3),1.10,4.9%,3.7%,56.8%,67.4%,45.7%,70.0% (7/10),51.8%,46.0%,2.3%,42.6%,51.5%,36.4% (4/11),2:07
+14-Aug-2023,Stanford 125,3,Hard,Q1,179,417,1,5,,Valeria Savinykh,Madison Sieg,6-3 6-2,1.47,3.6%,0.0%,61.8%,73.5%,42.9%,33.3% (1/3),58.8%,56.3%,3.1%,37.9%,71.4%,46.2% (6/13),1:27
+31-Jul-2023,W60 Barcelona,3,Hard,F,193,197,0,3,5,Arina Rodionova,Valeria Savinykh,6-4 5-7 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,SF,193,249,1,3,,Valeria Savinykh,Eudice Wong Chong,6-3 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,QF,193,213,1,3,6,Valeria Savinykh,Despina Papamichail,3-6 7-6(6) 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R16,193,654,1,3,Q,Valeria Savinykh,Anastasiia Gureva,6-1 2-6 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R32,193,465,1,3,Q,Valeria Savinykh,Olga Helmi,7-6(3) 6-3,,,,,,,,,,,,,,
+24-Jul-2023,Warsaw,3,Hard,Q2,191,240,0,4,7,Yuliya Hatouka,Valeria Savinykh,4-6 6-4 6-2,0.77,8.3%,3.7%,60.6%,65.2%,44.2%,50.0% (4/8),46.6%,33.3%,9.5%,22.2%,46.2%,25.0% (2/8),2:13
+24-Jul-2023,Warsaw,3,Hard,Q1,191,877,1,4,WC,Valeria Savinykh,Stefania Rogozinska Dzik,6-0 6-1,2.24,8.1%,2.7%,67.6%,72.0%,66.7%,100.0% (2/2),68.4%,66.7%,0.0%,68.0%,64.3%,85.7% (6/7),1:01
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,QF,209,137,0,,3,Jessika Ponchet,Valeria Savinykh,6-4 6-7(4) 6-0,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,209,199,1,,8,Valeria Savinykh,Ankita Raina,6-7(6) 6-3 6-4,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,209,,1,,LL,Valeria Savinykh,Noelia Zeballos Melgar,3-6 6-2 6-0,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,SF,220,431,0,3,Q,Xinyu Gao,Valeria Savinykh,6-3 1-6 6-3,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,QF,220,336,1,3,,Valeria Savinykh,Sohyun Park,6-4 6-7(6) 6-3,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,R16,220,263,1,3,,Valeria Savinykh,Lulu Sun,6-4 4-6 6-4,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,R32,220,690,1,3,Q,Valeria Savinykh,Darya Shauha,6-7(2) 7-6(5) 6-3,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,F,243,282,1,3,8,Valeria Savinykh,Harmony Tan,7-5 6-3,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,SF,243,485,1,3,Q,Valeria Savinykh,Tamira Paszek,6-4 2-6 6-1,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,QF,243,261,1,3,6,Valeria Savinykh,Alexandra Eala,6-4 6-2,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R16,243,424,1,3,Q,Valeria Savinykh,Andrea Gamiz,6-0 2-6 6-4,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R32,243,544,1,3,Q,Valeria Savinykh,Naho Sato,7-5 6-0,,,,,,,,,,,,,,
+19-Jun-2023,W25+H Tauste-Zaragoza,3,Hard,R16,240,376,0,4,,Talia Gibson,Valeria Savinykh,5-7 6-4 6-3,,,,,,,,,,,,,,
+19-Jun-2023,W25+H Tauste-Zaragoza,3,Hard,R32,240,,1,4,WC,Valeria Savinykh,Andrea Palazon,6-0 6-0,,,,,,,,,,,,,,
+22-May-2023,Rabat,3,Clay,Q1,234,310,0,2,,Francesca Di Lorenzo,Valeria Savinykh,6-2 6-1,0.62,0.0%,6.3%,52.1%,32.0%,39.1%,45.5% (5/11),37.8%,40.0%,2.0%,25.0%,59.1%,40.0% (2/5),1:17
+15-May-2023,W25 Kachreti,3,Hard,R16,252,500,0,1,13,Polina Iatcenko,Valeria Savinykh,7-6(3) 6-4,,,,,,,,,,,,,,
+15-May-2023,W25 Kachreti,3,Hard,R32,252,643,1,1,,Valeria Savinykh,Daria Khomutsianskaya,6-3 6-4,,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,F,252,236,0,5,2,Zhuoxuan Bai,Valeria Savinykh,6-4 7-5,,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,SF,252,188,1,5,1,Valeria Savinykh,Anastasia Zakharova,4-6 6-3 6-2,,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,QF,252,402,1,5,13,Valeria Savinykh,Ekaterina Maklakova,7-6(5) 7-6(4),,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,R16,252,507,1,5,,Valeria Savinykh,Sofia Shapatava,6-3 6-1,,,,,,,,,,,,,,
+8-May-2023,W25 Kachreti,3,Hard,R32,252,656,1,5,,Valeria Savinykh,Maria Kozyreva,2-6 6-3 6-1,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,QF,270,836,0,7,Q,Dejana Radanovic,Valeria Savinykh,2-1 RET,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R16,270,978,1,7,WC,Valeria Savinykh,Aysegul Mert,1-6 6-4 6-1,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R32,270,502,1,7,,Valeria Savinykh,Sofia Shapatava,7-5 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,QF,270,124,0,,1,Jessika Ponchet,Valeria Savinykh,6-1 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R16,270,683,1,,WC,Valeria Savinykh,Amandine Monnot,6-4 7-6(3),,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R32,270,342,1,,,Valeria Savinykh,Peangtarn Plipuech,7-6(4) 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R16,270,597,0,8,Q,Martyna Kubka,Valeria Savinykh,4-6 6-4 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R32,270,737,1,8,Q,Valeria Savinykh,Meiling Wang,2-6 7-5 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,R32,239,421,0,6,Q,Mananchaya Sawangkaew,Valeria Savinykh,6-1 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R32,239,397,0,4,,Hong Yi Cody Wong,Valeria Savinykh,6-1 6-4,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R16,234,159,0,,6,Elsa Jacquemot,Valeria Savinykh,6-2 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R32,234,235,1,,,Valeria Savinykh,Katarzyna Kawa,6-1 6-3,,,,,,,,,,,,,,
+30-Jan-2023,Hua Hin,3,Hard,R32,230,139,0,Q,,Nao Hibino,Valeria Savinykh,6-0 6-2,0.63,0.0%,2.0%,84.0%,47.6%,25.0%,61.5% (8/13),39.8%,35.4%,2.1%,29.6%,42.9%,0.0% (0/3),1:08
+30-Jan-2023,Hua Hin,3,Hard,Q2,230,220,1,11,5,Valeria Savinykh,Natalija Stevanovic,7-5 6-0,1.47,1.4%,1.4%,50.7%,61.1%,60.0%,81.8% (9/11),59.4%,57.9%,1.8%,45.2%,73.1%,66.7% (6/9),1:52
+30-Jan-2023,Hua Hin,3,Hard,Q1,230,328,1,11,,Valeria Savinykh,Xinyu Gao,7-5 2-6 6-4,1.01,0.0%,3.1%,80.4%,47.4%,31.6%,23.1% (3/13),50.9%,56.3%,2.5%,52.8%,61.7%,58.8% (10/17),2:58
+23-Jan-2023,W40 Pune,3,Hard,SF,245,,0,7,2,Nigina Abduraimova,Valeria Savinykh,6-4 2-6 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,QF,245,227,1,7,4,Valeria Savinykh,Anastasia Tikhonova,6-4 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R16,245,707,1,7,Q,Valeria Savinykh,Emily Welker,6-3 7-5,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R32,245,,1,7,,Valeria Savinykh,Ekaterina Yashina,6-1 6-3,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,SF,245,195,0,7,2,Joanne Zuger,Valeria Savinykh,7-5 6-2,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,QF,245,1290,1,7,Q,Valeria Savinykh,Mana Kawamura,4-6 6-2 6-1,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R16,245,483,1,7,,Valeria Savinykh,Zhibek Kulambayeva,6-4 6-1,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R32,245,652,1,7,WC,Valeria Savinykh,Zeel Desai,6-0 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,R32,241,395,0,7,,Chihiro Muramatsu,Valeria Savinykh,6-4 6-3,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,F,278,320,0,,8,Kateryna Bondarenko,Valeria Savinykh,6-2 6-3,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,SF,278,345,1,,,Valeria Savinykh,Peangtarn Plipuech,6-4 6-3,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,QF,278,271,1,,5,Valeria Savinykh,Cagla Buyukakcay,6-4 6-2,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R16,278,547,1,,Q,Valeria Savinykh,Zongyu Li,6-0 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R32,278,250,1,,3,Valeria Savinykh,Lina Glushko,6-2 6-2,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,F,321,391,1,6,,Valeria Savinykh,Priska Madelyn Nugroho,6-2 7-6(4),,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,SF,321,300,1,6,3,Valeria Savinykh,Ankita Raina,6-1 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,QF,321,492,1,6,,Valeria Savinykh,Daria Kudashova,6-3 7-6(5),,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,R16,321,479,1,6,,Valeria Savinykh,Rutuja Bhosale,6-4 6-3,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,R32,321,766,1,6,Q,Valeria Savinykh,Jennifer Luikham,6-3 7-5,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,QF,327,257,0,,2,Lea Boskovic,Valeria Savinykh,6-4 5-1 RET,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,R16,327,538,1,,Q,Valeria Savinykh,Fiona Ganz,6-1 5-7 6-2,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,R32,327,288,1,,6,Valeria Savinykh,Nefisa Berberovic,6-1 6-4,,,,,,,,,,,,,,
 29-Aug-2022,W25 Leiria,3,Hard,R32,336,516,0,,Q,Kathleen Kanev,Valeria Savinykh,6-2 6-0,,,,,,,,,,,,,,
 1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,R32,312,187,0,,9,Nigina Abduraimova,Valeria Savinykh,6-3 6-4,,,,,,,,,,,,,,
 1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,R64,312,779,1,,WC,Valeria Savinykh,Ania Hertel,6-4 6-2,,,,,,,,,,,,,,
@@ -6,7 +116,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jul-2022,Prague,3,Hard,Q1,324,202,1,,8,Valeria Savinykh,Yuriko Miyazaki,7-5 6-2,1.31,1.5%,0.0%,81.8%,66.7%,33.3%,70.0% (7/10),55.9%,51.4%,1.4%,45.0%,60.0%,66.7% (6/9),1:33
 18-Jul-2022,W60 Nur-Sultan,3,Hard,R16,334,486,0,6,,Mariia Tkacheva,Valeria Savinykh,6-1 1-6 6-2,,,,,,,,,,,,,,
 18-Jul-2022,W60 Nur-Sultan,3,Hard,R32,334,391,1,6,,Valeria Savinykh,Berfu Cengiz,1-6 6-0 6-1,,,,,,,,,,,,,,
-11-Jul-2022,W25 Nur-Sultan,3,Hard,R16,272,771,0,6,LL,Tatiana Barkova,Valeria Savinykh,6-1 6-4,,,,,,,,,,,,,,
+11-Jul-2022,W25 Nur-Sultan,3,Hard,R16,272,771,0,6,LL,Tatiana Prozorova,Valeria Savinykh,6-1 6-4,,,,,,,,,,,,,,
 11-Jul-2022,W25 Nur-Sultan,3,Hard,R32,272,499,1,6,Q,Valeria Savinykh,Hong Yi Cody Wong,6-3 6-2,,,,,,,,,,,,,,
 27-Jun-2022,W25+H Palma del Rio,3,Hard,R32,289,222,0,,2,Jessika Ponchet,Valeria Savinykh,6-2 7-6(9),,,,,,,,,,,,,,
 20-Jun-2022,W25 Raanana,3,Hard,F,292,501,0,2,,Maria Timofeeva,Valeria Savinykh,6-1 6-2,,,,,,,,,,,,,,
@@ -16,7 +126,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jun-2022,W25 Raanana,3,Hard,R32,292,963,1,2,,Valeria Savinykh,Maria Fernanda Morales,6-2 6-1,,,,,,,,,,,,,,
 13-Jun-2022,W60 Madrid,3,Hard,R32,294,462,0,8,,Adithya Karunaratne,Valeria Savinykh,1-6 7-6(6) 6-2,,,,,,,,,,,,,,
 6-Jun-2022,W25 Madrid,3,Hard,R32,282,964,0,3,Q,Lia Karatancheva,Valeria Savinykh,6-4 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,278,187,0,,,Valentini Grammatikopoulou,Valeria Savinykh,6-4 6-1,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,278,187,0,,,Valentini Grammatikopoulou,Valeria Savinykh,6-4 6-1,0.73,0.0%,7.1%,62.5%,62.9%,38.1%,42.9% (3/7),43.8%,33.9%,7.1%,35.1%,31.6%,50.0% (1/2),
 9-May-2022,Rome,3,Clay,Q1,254,130,0,,15,Cristina Bucsa,Valeria Savinykh,6-1 6-2,0.59,0.0%,6.7%,71.1%,34.4%,30.8%,22.2% (2/9),36.0%,39.0%,7.3%,37.5%,44.4%,40.0% (2/5),0:58
 25-Apr-2022,W25 Monastir,3,Hard,R32,235,672,0,3,Q,Adithya Karunaratne,Valeria Savinykh,6-4 6-3,,,,,,,,,,,,,,
 18-Apr-2022,W25 Monastir,3,Hard,QF,179,429,0,4,,Rosa Vicens Mas,Valeria Savinykh,6-3 7-6(4),,,,,,,,,,,,,,
@@ -69,7 +179,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-May-2021,W25 Salinas,3,Hard,QF,186,459,1,1,,Valeria Savinykh,Francisca Jorge,6-3 3-6 6-3,,,,,,,,,,,,,,
 3-May-2021,W25 Salinas,3,Hard,R16,186,1176,1,1,Q,Valeria Savinykh,Lia Karatancheva,6-4 6-3,,,,,,,,,,,,,,
 3-May-2021,W25 Salinas,3,Hard,R32,186,935,1,1,Q,Valeria Savinykh,Rasheeda Mcadoo,1-6 6-4 6-1,,,,,,,,,,,,,,
-12-Apr-2021,W25+H Calvi,3,Hard,F,226,261,1,1,3,Valeria Savinykh,Susan Bandecchi,6-1 6-4 (ch),,,,,,,,,,,,,,
+12-Apr-2021,W25+H Calvi,3,Hard,F,226,261,1,1,3,Valeria Savinykh,Susan Bandecchi,6-1 6-4,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,SF,226,282,1,1,4,Valeria Savinykh,Amandine Hesse,6-3 6-2,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,QF,226,533,1,1,,Valeria Savinykh,Viktoria Morvayova,6-2 6-0,,,,,,,,,,,,,,
 12-Apr-2021,W25+H Calvi,3,Hard,R16,226,508,1,1,,Valeria Savinykh,Mallaurie Noel,6-3 6-0,,,,,,,,,,,,,,
@@ -368,7 +478,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Mar-2013,Miami,3,Hard,Q1,132,84,1,,9,Valeria Savinykh,Maria Teresa Torro Flor,6-3 6-2,1.45,6.9%,1.7%,60.3%,77.1%,39.1%,60.0% (3/5),58.6%,55.2%,0.0%,43.3%,67.9%,85.7% (6/7),
 25-Feb-2013,Florianopolis,3,Hard,R32,129,133,0,,,Timea Babos,Valeria Savinykh,7-6(5) 6-7(3) 6-2,0.85,5.0%,3.3%,64.2%,66.2%,41.9%,71.4% (10/14),47.6%,36.2%,11.4%,27.8%,54.5%,33.3% (2/6),
 18-Feb-2013,Memphis,3,Hard,Q1,123,497,0,7,WC,Taylor Townsend,Valeria Savinykh,6-2 2-6 6-1,0.82,4.2%,9.9%,63.4%,64.4%,30.8%,50.0% (5/10),45.7%,39.1%,5.8%,40.5%,37.5%,60.0% (3/5),
-14-Jan-2013,Australian Open,5,Hard,R32,159,43,0,Q,,Kirsten Flipkens,Valeria Savinykh,6-2 4-6 6-3 (ch) (wp),0.80,2.6%,2.6%,59.7%,60.9%,41.9%,25.0% (2/8),44.8%,37.2%,7.0%,19.5%,53.3%,44.4% (4/9),
+14-Jan-2013,Australian Open,5,Hard,R32,159,43,0,Q,,Kirsten Flipkens,Valeria Savinykh,6-2 4-6 6-3 (wp),0.80,2.6%,2.6%,59.7%,60.9%,41.9%,25.0% (2/8),44.8%,37.2%,7.0%,19.5%,53.3%,44.4% (4/9),
 14-Jan-2013,Australian Open,5,Hard,R64,159,14,1,Q,15,Valeria Savinykh,Dominika Cibulkova,7-6(6) 6-4 (wp),1.06,2.3%,2.3%,71.6%,58.7%,40.0%,50.0% (5/10),51.5%,49.4%,0.0%,39.2%,65.6%,46.2% (6/13),
 14-Jan-2013,Australian Open,5,Hard,R128,159,78,1,Q,,Valeria Savinykh,Mandy Minella,7-6(4) 6-1,1.51,3.8%,3.8%,61.5%,75.0%,55.0%,33.3% (1/3),56.9%,49.3%,4.2%,50.0%,48.1%,62.5% (5/8),
 14-Jan-2013,Australian Open,5,Hard,Q3,159,185,1,,,Valeria Savinykh,Valeria Solovieva,6-1 6-2 (wp),2.65,2.9%,2.9%,57.1%,85.0%,73.3%,- (0/0),64.3%,53.1%,0.0%,59.0%,30.0%,71.4% (5/7),

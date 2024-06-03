@@ -1,4 +1,20 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+8-Jan-2024,W50 Nonthaburi,3,Hard,Q2,445,451,0,6,12,Sayaka Ishii,Evgeniya Rodina,6-3 6-4,,,,,,,,,,,,,,
+8-Jan-2024,W50 Nonthaburi,3,Hard,Q1,445,628,1,6,,Evgeniya Rodina,Momoko Kobori,4-6 6-4 6-0,,,,,,,,,,,,,,
+1-Jan-2024,W50 Nonthaburi,3,Hard,Q1,447,1146,0,9,WC,Watsachol Sawasdee,Evgeniya Rodina,6-3 6-2,,,,,,,,,,,,,,
+24-Jul-2023,Lausanne,3,Clay,R32,289,68,0,,8,Elina Avanesyan,Evgeniya Rodina,6-2 2-0 RET,0.62,0.0%,16.7%,76.7%,34.8%,0.0%,16.7% (1/6),36.9%,45.7%,5.7%,40.9%,53.8%,33.3% (2/6),0:38
+17-Jul-2023,Budapest,3,Clay,R32,290,377,0,,Q,Anna Siskova,Evgeniya Rodina,6-3 6-0,0.48,0.0%,13.8%,63.8%,51.4%,33.3%,66.7% (10/15),37.5%,26.3%,0.0%,16.1%,71.4%,100.0% (1/1),1:04
+26-Jun-2023,Bad Homburg,3,Grass,R16,314,52,0,,,Katerina Siniakova,Evgeniya Rodina,6-2 6-4,0.61,0.0%,2.5%,69.1%,62.5%,36.0%,72.7% (8/11),43.7%,27.8%,5.6%,21.9%,36.4%,0.0% (0/3),1:34
+26-Jun-2023,Bad Homburg,3,Grass,R32,314,123,1,,LL,Evgeniya Rodina,Katie Volynets,6-0 6-4,1.26,2.0%,13.7%,62.7%,62.5%,31.6%,25.0% (1/4),57.0%,61.9%,4.8%,53.2%,87.5%,70.0% (7/10),1:15
+19-Jun-2023,Gaiba 125,3,Grass,R16,328,118,0,,7,Lucrezia Stefanini,Evgeniya Rodina,6-2 6-4,0.72,0.0%,9.1%,70.9%,35.9%,50.0%,14.3% (1/7),41.6%,43.1%,3.4%,44.2%,40.0%,50.0% (3/6),1:11
+19-Jun-2023,Gaiba 125,3,Grass,R32,328,417,1,,WC,Evgeniya Rodina,Georgia Pedone,4-6 6-3 7-5,1.14,1.1%,5.3%,74.5%,58.6%,45.8%,0.0% (0/6),53.2%,51.0%,3.1%,43.1%,67.7%,72.7% (8/11),2:14
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,327,26,0,,4,Ekaterina Alexandrova,Evgeniya Rodina,6-3 6-4,0.72,1.3%,5.0%,72.5%,56.9%,45.5%,72.7% (8/11),44.8%,33.3%,11.1%,20.0%,50.0%,20.0% (1/5),1:22
+3-Apr-2023,Charleston,3,Clay,R64,330,51,0,,,Leylah Fernandez,Evgeniya Rodina,6-3 6-2,0.59,2.0%,6.0%,68.0%,52.9%,43.8%,42.9% (3/7),39.6%,29.4%,5.9%,36.4%,24.1%,33.3% (1/3),1:14
+20-Mar-2023,Miami,3,Hard,R64,369,19,0,,20,Magda Linette,Evgeniya Rodina,6-3 6-4,0.74,0.0%,3.0%,81.8%,53.7%,50.0%,50.0% (4/8),44.2%,34.9%,15.9%,22.2%,66.7%,40.0% (2/5),1:25
+20-Mar-2023,Miami,3,Hard,R128,369,37,1,,,Evgeniya Rodina,Bernarda Pera,6-3 6-4,1.42,0.0%,0.0%,67.9%,69.4%,52.9%,0.0% (0/3),57.4%,50.9%,5.5%,43.8%,60.9%,71.4% (5/7),1:12
+6-Mar-2023,Indian Wells,3,Hard,R64,427,2,0,,2,Aryna Sabalenka,Evgeniya Rodina,6-2 6-0,0.57,0.0%,5.8%,63.5%,42.4%,36.8%,58.3% (7/12),37.3%,34.0%,10.0%,20.0%,55.0%,0.0% (0/4),1:05
+6-Mar-2023,Indian Wells,3,Hard,R128,427,68,1,,,Evgeniya Rodina,Alize Cornet,6-2 7-5,1.30,0.0%,5.7%,78.6%,67.3%,40.0%,66.7% (4/6),56.1%,50.0%,0.0%,38.7%,61.3%,71.4% (5/7),1:41
+16-Jan-2023,Australian Open,5,Hard,R128,445,113,0,,Q,Katie Volynets,Evgeniya Rodina,6-3 6-2,0.70,0.0%,1.6%,80.3%,42.9%,58.3%,33.3% (3/9),42.1%,37.7%,7.5%,37.8%,37.5%,28.6% (2/7),1:25
 10-Oct-2022,W60 Monastir,3,Hard,R32,454,113,0,WC,4,Moyuka Uchijima,Evgeniya Rodina,6-1 6-2,,,,,,,,,,,,,,
 3-Oct-2022,Monastir,3,Hard,R16,556,2,0,SR,1,Ons Jabeur,Evgeniya Rodina,6-1 6-3,0.55,0.0%,4.4%,77.8%,57.1%,20.0%,42.9% (3/7),38.5%,28.3%,13.0%,22.2%,36.8%,- (0/0),0:55
 3-Oct-2022,Monastir,3,Hard,R32,556,104,1,SR,,Evgeniya Rodina,Elena Gabriela Ruse,6-1 6-3,1.37,0.0%,6.7%,71.1%,56.3%,38.5%,0.0% (0/4),60.6%,67.2%,1.6%,55.9%,80.0%,44.4% (8/18),1:18
@@ -14,7 +30,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-May-2019,W100 Trnava,3,Clay,R32,68,152,0,,,Greet Minnen,Evgeniya Rodina,6-4 7-5,,,,,,,,,,,,,,
 22-Apr-2019,Istanbul,3,Clay,R32,69,52,0,,,Pauline Parmentier,Evgeniya Rodina,6-1 6-1,0.44,0.0%,4.1%,57.1%,46.4%,33.3%,37.5% (3/8),34.1%,26.2%,4.8%,19.0%,33.3%,0.0% (0/2),0:56
 8-Apr-2019,Lugano,3,Clay,R16,69,65,0,,8,Vera Lapko,Evgeniya Rodina,6-2 6-0,0.54,0.0%,6.7%,75.6%,47.1%,9.1%,33.3% (3/9),35.7%,33.3%,5.1%,21.7%,50.0%,50.0% (1/2),0:51
-8-Apr-2019,Lugano,3,Clay,R32,69,413,1,,Q,Evgeniya Rodina,Clara Tauson,6-7(2) 6-2 7-5 (ch),1.12,0.0%,4.9%,70.9%,67.1%,40.0%,50.0% (5/10),52.5%,45.5%,4.0%,42.0%,53.1%,53.3% (8/15),2:13
+8-Apr-2019,Lugano,3,Clay,R32,69,413,1,,Q,Evgeniya Rodina,Clara Tauson,6-7(2) 6-2 7-5,1.12,0.0%,4.9%,70.9%,67.1%,40.0%,50.0% (5/10),52.5%,45.5%,4.0%,42.0%,53.1%,53.3% (8/15),2:13
 1-Apr-2019,Charleston,3,Clay,R64,68,,0,,WC,Shelby Rogers,Evgeniya Rodina,6-4 6-2,0.64,0.0%,1.9%,75.0%,41.0%,38.5%,14.3% (1/7),39.2%,38.0%,12.0%,31.3%,50.0%,60.0% (3/5),1:09
 18-Mar-2019,Miami,3,Hard,R128,69,83,0,,,Samantha Stosur,Evgeniya Rodina,6-4 6-2,0.85,1.7%,5.0%,80.0%,47.9%,41.7%,40.0% (4/10),46.0%,45.5%,11.7%,29.7%,60.0%,20.0% (3/15),1:31
 11-Mar-2019,Guadalajara,3,Hard,R32,71,104,0,5,,Anna Blinkova,Evgeniya Rodina,6-2 6-4,0.64,0.0%,8.1%,61.3%,60.5%,25.0%,61.5% (8/13),41.1%,34.0%,2.0%,23.5%,56.3%,100.0% (2/2),1:06
@@ -27,11 +43,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Jan-2019,Hobart,3,Hard,R32,68,77,0,,,Anna Karolina Schmiedlova,Evgeniya Rodina,7-5 6-7(5) 6-3,0.93,0.9%,4.4%,74.6%,56.5%,37.9%,25.0% (3/12),48.6%,45.0%,5.0%,39.7%,52.4%,66.7% (6/9),2:32
 31-Dec-2018,Shenzhen,3,Hard,R16,71,62,0,,,Alison Riske Amritraj,Evgeniya Rodina,4-6 6-2 6-3,0.90,2.7%,1.4%,60.3%,52.3%,44.8%,20.0% (2/10),47.3%,45.7%,3.3%,42.9%,51.7%,45.5% (5/11),1:46
 31-Dec-2018,Shenzhen,3,Hard,R32,71,89,1,,,Evgeniya Rodina,Zarina Diyas,3-6 6-3 7-6(7),1.02,1.0%,4.1%,72.2%,64.3%,44.4%,60.0% (6/10),50.0%,41.9%,2.9%,35.1%,58.1%,57.1% (4/7),2:07
-10-Dec-2018,Dubai $100K,3,Hard,SF,76,54,0,4,2,Viktoria Kuzmova,Evgeniya Rodina,6-1 6-2 (ch),,,,,,,,,,,,,,
+10-Dec-2018,Dubai $100K,3,Hard,SF,76,54,0,4,2,Viktoria Hruncakova,Evgeniya Rodina,6-1 6-2,,,,,,,,,,,,,,
 10-Dec-2018,Dubai $100K,3,Hard,QF,76,80,1,4,,Evgeniya Rodina,Tamara Zidansek,4-6 7-5 7-5,,,,,,,,,,,,,,
 10-Dec-2018,Dubai $100K,3,Hard,R16,76,152,1,4,,Evgeniya Rodina,Viktoriya Tomova,6-4 6-2,,,,,,,,,,,,,,
 10-Dec-2018,Dubai $100K,3,Hard,R32,76,243,1,4,,Evgeniya Rodina,Amandine Hesse,6-7(2) 6-1 6-2,,,,,,,,,,,,,,
-5-Nov-2018,Limoges,3,Hard,F,88,93,0,7,8,Ekaterina Alexandrova,Evgeniya Rodina,6-2 6-2 (ch),0.29,0.0%,3.8%,69.2%,52.8%,56.3%,50.0% (4/8),37.1%,13.5%,32.4%,16.0%,8.3%,- (0/0),0:50
+5-Nov-2018,Limoges,3,Hard,F,88,93,0,7,8,Ekaterina Alexandrova,Evgeniya Rodina,6-2 6-2,0.29,0.0%,3.8%,69.2%,52.8%,56.3%,50.0% (4/8),37.1%,13.5%,32.4%,16.0%,8.3%,- (0/0),0:50
 5-Nov-2018,Limoges,3,Hard,SF,88,105,1,7,,Evgeniya Rodina,Margarita Gasparyan,3-0 RET,5.00,0.0%,0.0%,100.0%,80.0%,-,- (0/0),85.7%,100.0%,0.0%,-,100.0%,100.0% (1/1),0:07
 5-Nov-2018,Limoges,3,Hard,QF,88,71,1,7,4,Evgeniya Rodina,Ana Bogdan,6-3 6-4,1.20,0.0%,5.0%,75.0%,64.4%,60.0%,75.0% (3/4),52.6%,44.2%,3.9%,37.0%,54.8%,57.1% (4/7),1:26
 5-Nov-2018,Limoges,3,Hard,R16,88,393,1,7,Q,Evgeniya Rodina,Audrey Albie,6-1 6-4,1.28,0.0%,5.4%,71.4%,67.5%,50.0%,83.3% (5/6),55.7%,48.0%,16.0%,15.4%,83.3%,55.6% (5/9),1:10
@@ -55,8 +71,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jul-2018,Gstaad,3,Clay,R16,92,115,1,,,Evgeniya Rodina,Mona Barthel,6-4 2-6 7-5,0.90,0.9%,6.5%,60.2%,53.8%,60.5%,68.8% (11/16),48.5%,39.1%,10.9%,28.8%,52.5%,83.3% (5/6),1:55
 16-Jul-2018,Gstaad,3,Clay,R32,92,96,1,,4,Evgeniya Rodina,Carina Witthoeft,6-7(3) 6-4 7-6(11),0.95,4.9%,7.0%,60.1%,68.6%,36.8%,71.4% (15/21),49.6%,42.0%,5.9%,33.3%,58.5%,53.8% (7/13),2:34
 2-Jul-2018,Wimbledon,5,Grass,R16,120,181,0,,25,Serena Williams,Evgeniya Rodina,6-2 6-2,0.61,0.0%,9.8%,56.1%,47.8%,33.3%,16.7% (1/6),38.3%,35.8%,18.9%,26.5%,52.6%,50.0% (1/2),1:02
-2-Jul-2018,Wimbledon,5,Grass,R32,120,11,1,,10,Evgeniya Rodina,Madison Keys,7-5 5-7 6-4 (ch),1.04,1.8%,4.6%,64.2%,62.9%,46.2%,57.1% (8/14),50.9%,45.0%,13.5%,33.8%,67.6%,50.0% (7/14),2:10
-2-Jul-2018,Wimbledon,5,Grass,R64,120,51,1,,,Evgeniya Rodina,Sorana Cirstea,1-6 6-3 6-3 (ch),1.03,0.0%,1.2%,67.9%,56.4%,50.0%,50.0% (5/10),50.6%,47.2%,6.7%,40.0%,58.8%,42.9% (6/14),1:39
+2-Jul-2018,Wimbledon,5,Grass,R32,120,11,1,,10,Evgeniya Rodina,Madison Keys,7-5 5-7 6-4,1.04,1.8%,4.6%,64.2%,62.9%,46.2%,57.1% (8/14),50.9%,45.0%,13.5%,33.8%,67.6%,50.0% (7/14),2:10
+2-Jul-2018,Wimbledon,5,Grass,R64,120,51,1,,,Evgeniya Rodina,Sorana Cirstea,1-6 6-3 6-3,1.03,0.0%,1.2%,67.9%,56.4%,50.0%,50.0% (5/10),50.6%,47.2%,6.7%,40.0%,58.8%,42.9% (6/14),1:39
 2-Jul-2018,Wimbledon,5,Grass,R128,120,128,1,,,Evgeniya Rodina,Antonia Lottner,3-6 7-5 6-4,0.92,0.9%,4.5%,71.2%,64.6%,40.6%,63.6% (7/11),49.5%,38.8%,3.5%,34.5%,46.7%,80.0% (4/5),2:08
 2-Jul-2018,Wimbledon,5,Grass,Q3,120,197,1,9,,Evgeniya Rodina,Mayo Hibi,6-2 6-4,,,,,,,,,,,,,,
 2-Jul-2018,Wimbledon,5,Grass,Q2,120,140,1,9,,Evgeniya Rodina,Irina Khromacheva,7-6(7) 6-2,,,,,,,,,,,,,,
@@ -104,7 +120,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Nov-2017,Hua Hin,3,Hard,R32,83,191,1,2,,Evgeniya Rodina,Sabina Sharipova,6-4 3-6 6-3,1.10,2.3%,5.7%,59.8%,65.4%,48.6%,37.5% (3/8),52.0%,45.3%,4.7%,42.0%,50.0%,46.2% (6/13),2:08
 16-Oct-2017,Luxembourg,3,Hard,R16,86,73,0,,,Carina Witthoeft,Evgeniya Rodina,6-2 6-3,0.60,2.1%,8.5%,63.8%,36.7%,35.3%,25.0% (2/8),37.1%,38.0%,2.0%,21.7%,51.9%,42.9% (3/7),1:07
 16-Oct-2017,Luxembourg,3,Hard,R32,86,98,1,,Q,Evgeniya Rodina,Jana Fett,7-5 6-3,1.31,3.5%,1.8%,54.4%,61.3%,69.2%,75.0% (6/8),55.0%,46.0%,4.8%,29.0%,62.5%,62.5% (5/8),1:29
-25-Sep-2017,Tashkent,3,Hard,R32,84,119,0,,,Aryna Sabalenka,Evgeniya Rodina,6-2 6-2 (ch),0.68,4.4%,8.9%,55.6%,60.0%,40.0%,20.0% (1/5),41.0%,33.3%,16.7%,21.4%,61.1%,0.0% (0/6),1:01
+25-Sep-2017,Tashkent,3,Hard,R32,84,119,0,,,Aryna Sabalenka,Evgeniya Rodina,6-2 6-2,0.68,4.4%,8.9%,55.6%,60.0%,40.0%,20.0% (1/5),41.0%,33.3%,16.7%,21.4%,61.1%,0.0% (0/6),1:01
 18-Sep-2017,Guangzhou,3,Hard,SF,94,30,0,,2,Shuai Zhang,Evgeniya Rodina,7-6(7) 6-3,0.88,0.0%,3.5%,69.4%,55.9%,34.6%,60.0% (9/15),47.1%,44.4%,12.5%,34.1%,60.7%,33.3% (4/12),1:42
 18-Sep-2017,Guangzhou,3,Hard,QF,94,153,1,,Q,Evgeniya Rodina,Lizette Cabrera,6-1 7-6(4),1.30,0.0%,4.3%,75.7%,58.5%,35.3%,63.6% (7/11),57.1%,61.4%,0.0%,55.8%,70.4%,70.0% (7/10),1:44
 18-Sep-2017,Guangzhou,3,Hard,R16,94,147,1,,,Evgeniya Rodina,Yafan Wang,6-1 6-2,1.83,4.3%,8.5%,72.3%,79.4%,46.2%,100.0% (3/3),61.5%,54.4%,1.8%,44.1%,69.6%,45.5% (5/11),1:15
@@ -120,9 +136,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Jul-2017,Contrexeville $100K,3,Clay,R16,80,153,1,3,,Evgeniya Rodina,Anna Kalinskaya,6-3 7-6(3),,,,,,,,,,,,,,
 10-Jul-2017,Contrexeville $100K,3,Clay,R32,80,337,1,3,WC,Evgeniya Rodina,Virginie Razzano,6-1 RET,,,,,,,,,,,,,,
 3-Jul-2017,Wimbledon,5,Grass,R128,80,3,0,,3,Karolina Pliskova,Evgeniya Rodina,6-1 6-4,0.71,0.0%,3.1%,78.5%,60.8%,28.6%,63.6% (7/11),44.2%,32.7%,16.4%,30.6%,36.8%,50.0% (1/2),1:10
-26-Jun-2017,Southsea 16 Main Draw Friday Final No Qualifying $10000K,3,Grass,SF,83,93,0,,,Tatjana Maria,Evgeniya Rodina,6-2 6-3,,,,,,,,,,,,,,
-26-Jun-2017,Southsea 16 Main Draw Friday Final No Qualifying $10000K,3,Grass,QF,83,92,1,,,Evgeniya Rodina,Kurumi Nara,6-4 6-4,,,,,,,,,,,,,,
-26-Jun-2017,Southsea 16 Main Draw Friday Final No Qualifying $10000K,3,Grass,R16,83,81,1,,,Evgeniya Rodina,Pauline Parmentier,6-2 6-0,,,,,,,,,,,,,,
+26-Jun-2017,Southsea $100K,3,Grass,SF,83,93,0,,,Tatjana Maria,Evgeniya Rodina,6-2 6-3,,,,,,,,,,,,,,
+26-Jun-2017,Southsea $100K,3,Grass,QF,83,92,1,,,Evgeniya Rodina,Kurumi Nara,6-4 6-4,,,,,,,,,,,,,,
+26-Jun-2017,Southsea $100K,3,Grass,R16,83,81,1,,,Evgeniya Rodina,Pauline Parmentier,6-2 6-0,,,,,,,,,,,,,,
 19-Jun-2017,Ilkley $100K,3,Grass,R32,84,105,0,4,,Denisa Allertova,Evgeniya Rodina,7-6(4) 6-4,,,,,,,,,,,,,,
 12-Jun-2017,'s Hertogenbosch,3,Grass,QF,80,33,0,,5,Ana Konjuh,Evgeniya Rodina,6-3 6-7(4) 7-6(10),0.91,0.8%,6.3%,75.0%,55.2%,40.6%,63.6% (14/22),48.0%,44.1%,8.5%,33.8%,61.4%,87.5% (7/8),2:35
 12-Jun-2017,'s Hertogenbosch,3,Grass,R16,80,161,1,,Q,Evgeniya Rodina,Antonia Lottner,7-5 6-3,1.24,2.9%,4.3%,79.7%,65.5%,21.4%,25.0% (1/4),55.1%,54.0%,4.6%,51.7%,58.6%,46.2% (6/13),1:44
@@ -145,7 +161,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Apr-2017,Charleston,3,Clay,R64,80,92,0,,,Kateryna Bondarenko,Evgeniya Rodina,6-4 7-5,0.84,0.0%,7.0%,66.2%,51.1%,41.7%,41.7% (5/12),46.1%,43.9%,8.8%,43.2%,45.0%,71.4% (5/7),1:26
 20-Mar-2017,Miami,3,Hard,Q2,79,95,0,4,16,Patricia Maria Tig,Evgeniya Rodina,3-6 6-3 6-2,0.87,2.3%,5.7%,67.8%,52.5%,25.0%,33.3% (4/12),46.5%,49.0%,2.0%,47.1%,53.6%,40.0% (6/15),2:15
 20-Mar-2017,Miami,3,Hard,Q1,79,159,1,4,,Evgeniya Rodina,Lucie Hradecka,6-3 6-2,1.33,1.5%,10.6%,65.2%,62.8%,39.1%,62.5% (5/8),57.0%,60.4%,2.1%,47.8%,72.0%,54.5% (6/11),1:07
-6-Mar-2017,Indian Wells,3,Hard,R64,83,25,0,LL,21,Caroline Garcia,Evgeniya Rodina,6-3 6-3 (ch),0.64,4.2%,16.7%,41.7%,70.0%,50.0%,40.0% (2/5),42.3%,26.5%,10.2%,25.0%,28.6%,- (0/0),1:03
+6-Mar-2017,Indian Wells,3,Hard,R64,83,25,0,LL,21,Caroline Garcia,Evgeniya Rodina,6-3 6-3,0.64,4.2%,16.7%,41.7%,70.0%,50.0%,40.0% (2/5),42.3%,26.5%,10.2%,25.0%,28.6%,- (0/0),1:03
 6-Mar-2017,Indian Wells,3,Hard,R128,83,44,1,LL,,Evgeniya Rodina,Christina Mchale,6-1 6-0,1.72,0.0%,8.3%,62.5%,63.3%,55.6%,87.5% (7/8),64.1%,68.2%,2.3%,57.7%,83.3%,70.0% (7/10),1:02
 6-Mar-2017,Indian Wells,3,Hard,Q2,83,95,0,7,13,Mona Barthel,Evgeniya Rodina,6-4 6-4,0.84,0.0%,9.8%,55.7%,41.2%,40.7%,50.0% (7/14),45.5%,49.3%,4.2%,47.7%,51.9%,45.5% (5/11),1:25
 6-Mar-2017,Indian Wells,3,Hard,Q1,83,172,1,7,,Evgeniya Rodina,Francoise Abanda,7-6(2) 6-3,1.16,3.9%,11.8%,44.7%,55.9%,45.2%,40.0% (4/10),54.0%,58.1%,4.1%,53.7%,63.6%,46.7% (7/15),1:34
@@ -255,7 +271,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jun-2015,Wimbledon,5,Grass,R128,101,,1,,WC,Evgeniya Rodina,Laura Robson,6-4 6-4,1.18,4.4%,2.2%,78.0%,63.4%,45.0%,81.8% (9/11),54.1%,48.1%,3.8%,34.0%,72.4%,30.8% (4/13),
 8-Jun-2015,'s Hertogenbosch,3,Grass,R32,99,46,0,,,Alison Van Uytvanck,Evgeniya Rodina,7-5 6-3,0.78,0.0%,5.3%,68.0%,62.7%,33.3%,66.7% (10/15),45.4%,36.4%,12.1%,32.5%,42.3%,60.0% (3/5),
 1-Jun-2015,Marseille $100K,3,Clay,R32,90,149,0,7,,Alexandra Panova,Evgeniya Rodina,6-4 6-2,,,,,,,,,,,,,,
-25-May-2015,Roland Garros,5,Clay,R128,90,3,0,,3,Simona Halep,Evgeniya Rodina,7-5 6-4 (ch),0.71,0.0%,5.6%,76.1%,51.9%,41.2%,28.6% (2/7),43.4%,36.2%,3.4%,26.3%,55.0%,100.0% (3/3),
+25-May-2015,Roland Garros,5,Clay,R128,90,3,0,,3,Simona Halep,Evgeniya Rodina,7-5 6-4,0.71,0.0%,5.6%,76.1%,51.9%,41.2%,28.6% (2/7),43.4%,36.2%,3.4%,26.3%,55.0%,100.0% (3/3),
 18-May-2015,Nuremberg,3,Clay,R16,91,61,0,,8,Carina Witthoeft,Evgeniya Rodina,6-1 6-2,0.68,0.0%,1.8%,81.8%,42.2%,60.0%,70.6% (12/17),41.0%,37.3%,4.5%,20.5%,69.6%,10.0% (1/10),
 18-May-2015,Nuremberg,3,Clay,R32,91,79,1,,,Evgeniya Rodina,Yanina Wickmayer,4-6 6-3 7-5,1.06,0.7%,2.9%,72.1%,57.1%,50.0%,75.0% (18/24),51.9%,47.6%,3.9%,40.3%,61.1%,40.0% (8/20),
 4-May-2015,Trnava $100K,3,Clay,R32,94,318,0,5,Q,Rebecca Sramkova,Evgeniya Rodina,6-4 6-3,,,,,,,,,,,,,,
@@ -282,7 +298,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Feb-2015,Pattaya,3,Hard,QF,109,68,0,,,Ajla Tomljanovic,Evgeniya Rodina,7-6(4) 6-2,0.83,4.2%,8.3%,48.6%,68.6%,43.2%,55.6% (5/9),46.7%,36.9%,13.8%,22.9%,53.3%,50.0% (2/4),
 9-Feb-2015,Pattaya,3,Hard,R16,109,44,1,,4,Evgeniya Rodina,Kurumi Nara,6-2 6-4,1.25,7.1%,8.9%,64.3%,66.7%,45.0%,50.0% (2/4),54.7%,51.4%,0.0%,44.2%,70.0%,35.7% (5/14),
 9-Feb-2015,Pattaya,3,Hard,R32,109,111,1,,,Evgeniya Rodina,Yulia Putintseva,7-6(2) 6-4,1.32,1.5%,4.6%,50.8%,66.7%,53.1%,33.3% (2/6),56.1%,52.7%,0.0%,52.8%,52.6%,62.5% (5/8),
-19-Jan-2015,Australian Open,5,Hard,R128,116,20,0,Q,22,Karolina Pliskova,Evgeniya Rodina,7-5 6-1 (ch),0.63,5.6%,7.4%,66.7%,50.0%,38.9%,50.0% (5/10),40.0%,33.9%,12.5%,18.4%,66.7%,100.0% (2/2),
+19-Jan-2015,Australian Open,5,Hard,R128,116,20,0,Q,22,Karolina Pliskova,Evgeniya Rodina,7-5 6-1,0.63,5.6%,7.4%,66.7%,50.0%,38.9%,50.0% (5/10),40.0%,33.9%,12.5%,18.4%,66.7%,100.0% (2/2),
 19-Jan-2015,Australian Open,5,Hard,Q3,116,125,1,10,14,Evgeniya Rodina,Maryna Zanevska,7-5 6-4,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,Q2,116,173,1,10,,Evgeniya Rodina,Anett Kontaveit,2-6 6-2 6-4,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,Q1,116,721,1,10,WC,Evgeniya Rodina,Priscilla Hon,7-6(6) 6-2,,,,,,,,,,,,,,

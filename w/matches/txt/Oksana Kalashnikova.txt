@@ -1,10 +1,13 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+25-Sep-2023,Tokyo,3,Hard,Q2,,149,0,WC,3,Harriet Dart,Oksana Kalashnikova,6-0 6-4,0.55,0.0%,8.2%,71.4%,48.6%,28.6%,50.0% (5/10),37.1%,31.3%,6.3%,25.0%,40.0%,20.0% (1/5),0:59
+25-Sep-2023,Tokyo,3,Hard,Q1,,409,1,WC,10,Oksana Kalashnikova,Yuki Naito,2-6 6-3 7-6(4),1.10,2.2%,8.7%,63.0%,65.5%,47.1%,60.0% (6/10),51.5%,45.4%,4.6%,50.0%,38.1%,36.4% (4/11),2:07
+18-Sep-2023,Guadalajara,3,Hard,Q1,,328,0,WC,11,Raveena Kingsley,Oksana Kalashnikova,6-4 6-4,0.87,5.5%,14.5%,56.4%,71.0%,37.5%,20.0% (1/5),46.3%,37.9%,1.5%,34.1%,44.0%,28.6% (2/7),1:20
 25-Oct-2021,Courmayeur,3,Hard,Q2,1508,193,0,WC,5,Giulia Gatto Monticone,Oksana Kalashnikova,6-1 6-4,0.61,4.1%,5.5%,68.5%,48.0%,34.8%,62.5% (10/16),40.4%,34.1%,2.4%,25.0%,66.7%,100.0% (2/2),1:06
 20-Sep-2021,Ostrava,3,Hard,Q1,,85,0,WC,6,Fiona Ferro,Oksana Kalashnikova,3-6 7-6(3) 6-1,0.90,0.0%,7.1%,58.3%,51.0%,51.4%,25.0% (2/8),47.3%,44.1%,3.9%,30.2%,66.7%,66.7% (6/9),1:54
 5-Apr-2021,Charleston 1,3,Clay,Q1,,151,0,WC,4,Natalia Vikhlyantseva,Oksana Kalashnikova,6-0 6-0,0.38,0.0%,8.3%,69.4%,36.0%,18.2%,40.0% (4/10),28.4%,26.3%,2.6%,13.0%,46.7%,0.0% (0/2),0:42
-3-Feb-2021,Grampians Trophy,3,Hard,R32,,72,0,ALT,,Sorana Cirstea,Oksana Kalashnikova,6-1 6-1 (ch),0.56,7.8%,21.6%,51.0%,61.5%,20.0%,28.6% (2/7),36.9%,32.7%,17.3%,22.2%,56.3%,0.0% (0/4),0:48
+3-Feb-2021,Grampians Trophy,3,Hard,R32,,72,0,ALT,,Sorana Cirstea,Oksana Kalashnikova,6-1 6-1,0.56,7.8%,21.6%,51.0%,61.5%,20.0%,28.6% (2/7),36.9%,32.7%,17.3%,22.2%,56.3%,0.0% (0/4),0:48
 19-Aug-2019,New York,3,Hard,Q1,,338,0,WC,,Ying Ying Duan,Oksana Kalashnikova,6-2 6-1,0.48,9.4%,5.7%,58.5%,48.4%,40.9%,54.5% (6/11),36.8%,26.2%,11.9%,28.6%,21.4%,- (0/0),0:55
-11-Mar-2019,Guadalajara,3,Hard,Q1,,284,0,Alt,,Natalija Kostic,Oksana Kalashnikova,6-4 6-1,0.69,4.8%,8.1%,56.5%,40.0%,37.0%,56.3% (9/16),40.2%,42.2%,2.2%,32.0%,55.0%,100.0% (3/3),1:01
+11-Mar-2019,Guadalajara,3,Hard,Q1,,284,0,Alt,,Natalija Stevanovic,Oksana Kalashnikova,6-4 6-1,0.69,4.8%,8.1%,56.5%,40.0%,37.0%,56.3% (9/16),40.2%,42.2%,2.2%,32.0%,55.0%,100.0% (3/3),1:01
 29-Oct-2018,Mumbai,3,Hard,Q2,,288,0,,3,Pranjala Yadlapalli,Oksana Kalashnikova,6-3 6-3,0.76,2.1%,10.4%,54.2%,46.2%,36.4%,45.5% (5/11),43.3%,44.4%,4.2%,33.3%,57.6%,27.3% (3/11),1:14
 29-Oct-2018,Mumbai,3,Hard,Q1,,509,1,,8,Oksana Kalashnikova,Ksenia Palkina,6-2 6-1,1.36,6.1%,4.5%,72.7%,70.8%,27.8%,85.7% (6/7),57.7%,55.6%,0.0%,54.2%,57.1%,50.0% (5/10),1:02
 11-Jun-2018,s-Hertogenbosch,3,Grass,Q1,,207,0,,10,Victoria Duval,Oksana Kalashnikova,6-4 6-1,0.61,2.4%,3.7%,68.3%,57.1%,30.8%,76.2% (16/21),42.5%,31.1%,8.9%,32.1%,29.4%,66.7% (2/3),1:08
@@ -13,7 +16,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2016,Seoul,3,Hard,Q3,1084,275,0,WC,,Katarzyna Piter,Oksana Kalashnikova,6-3 7-5,0.79,1.6%,4.8%,62.9%,51.3%,56.5%,60.0% (6/10),44.4%,37.0%,0.0%,38.8%,33.3%,28.6% (2/7),1:15
 19-Sep-2016,Seoul,3,Hard,Q2,1084,608,1,WC,,Oksana Kalashnikova,Seung Yeon Hong,6-1 6-3,1.40,0.0%,7.1%,58.9%,72.7%,47.8%,50.0% (1/2),57.5%,52.6%,0.0%,48.8%,64.3%,55.6% (5/9),1:05
 19-Sep-2016,Seoul,3,Hard,Q1,1084,252,1,WC,,Oksana Kalashnikova,Aleksandrina Naydenova,6-2 5-7 7-6(6),1.05,5.6%,7.4%,59.3%,62.5%,50.0%,54.5% (6/11),50.9%,44.8%,1.7%,37.9%,51.7%,35.3% (6/17),2:36
-9-Nov-2015,Limoges,3,Hard,Q1,653,165,0,,3,Kateryna Kozlova,Oksana Kalashnikova,4-6 6-0 7-5,,,,,,,,,,,,,,
+9-Nov-2015,Limoges,3,Hard,Q1,653,165,0,,3,Kateryna Baindl,Oksana Kalashnikova,4-6 6-0 7-5,,,,,,,,,,,,,,
 28-Sep-2015,Tashkent,3,Hard,Q1,685,142,0,,4,Paula Kania,Oksana Kalashnikova,6-2 6-1,,,,,,,,,,,,,,
 21-Sep-2015,Guangzhou,3,Hard,Q1,684,206,0,,9,Kai Lin Zhang,Oksana Kalashnikova,6-2 6-2,,,,,,,,,,,,,,
 27-Jul-2015,Baku,3,Hard,Q2,601,154,0,,1,Patricia Maria Tig,Oksana Kalashnikova,6-1 6-3,,,,,,,,,,,,,,
@@ -49,7 +52,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Jul-2013,Baku,3,Hard,R32,310,389,0,Q,Q,Tereza Martincova,Oksana Kalashnikova,6-3 6-7(1) 6-1,0.79,2.3%,7.0%,67.4%,51.7%,53.6%,22.2% (2/9),45.2%,37.8%,2.4%,30.5%,56.5%,100.0% (4/4),
 22-Jul-2013,Baku,3,Hard,Q2,310,675,1,11,WC,Oksana Kalashnikova,Oleksandra Korashvili,6-2 6-1,1.70,1.9%,1.9%,79.2%,61.9%,90.9%,80.0% (4/5),61.1%,54.5%,3.6%,46.9%,65.2%,45.5% (5/11),
 22-Jul-2013,Baku,3,Hard,Q1,310,,1,11,WC,Oksana Kalashnikova,Tamari Chalaganidze,6-0 6-0,6.36,14.3%,3.6%,75.0%,95.2%,71.4%,- (0/0),76.4%,68.2%,0.0%,67.9%,68.8%,66.7% (6/9),
-8-Jul-2013,Istanbul 25K,3,Hard,QF,320,228,0,,4,Kateryna Kozlova,Oksana Kalashnikova,6-4 6-3,,,,,,,,,,,,,,
+8-Jul-2013,Istanbul 25K,3,Hard,QF,320,228,0,,4,Kateryna Baindl,Oksana Kalashnikova,6-4 6-3,,,,,,,,,,,,,,
 8-Jul-2013,Istanbul 25K,3,Hard,R16,320,263,1,,8,Oksana Kalashnikova,Zuzana Zlochova,6-4 6-3,,,,,,,,,,,,,,
 8-Jul-2013,Istanbul 25K,3,Hard,R32,320,585,1,,WC,Oksana Kalashnikova,Ipek Soylu,6-4 6-3,,,,,,,,,,,,,,
 20-May-2013,Brussels,3,Clay,Q2,320,103,0,,6,Maria Joao Koehler,Oksana Kalashnikova,6-1 6-3,0.55,0.0%,9.8%,43.9%,55.6%,47.8%,0.0% (0/4),38.4%,26.7%,4.4%,11.5%,47.4%,0.0% (0/1),

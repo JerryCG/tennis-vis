@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 23-Oct-2017,Macon GA $80K,3,Hard,R32,,130,0,WC,,Kayla Day,Alona Bondarenko,6-3 6-2,,,,,,,,,,,,,,
 25-Sep-2017,Stillwater OK $25K,3,Hard,R32,,340,0,Q,,Victoria Duval,Alona Bondarenko,3-6 7-5 6-3,,,,,,,,,,,,,,
 18-Sep-2017,Albuquerque NM $80K,3,Hard,Q1,,,0,,WC,Alona Smith,Alona Bondarenko,2-6 7-6(5) 6-2,,,,,,,,,,,,,,
@@ -241,7 +241,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-May-2007,Berlin,3,Clay,R16,29,16,0,,12,Ana Ivanovic,Alona Bondarenko,6-3 5-0 RET,0.62,0.0%,11.6%,65.1%,42.9%,20.0%,14.3% (1/7),37.6%,40.5%,7.1%,39.3%,42.9%,100.0% (2/2),
 7-May-2007,Berlin,3,Clay,R32,29,23,1,,17,Alona Bondarenko,Tathiana Garbin,6-4 6-3,1.17,0.0%,3.3%,82.0%,60.0%,54.5%,50.0% (2/4),53.9%,48.1%,0.0%,40.7%,55.6%,55.6% (5/9),
 7-May-2007,Berlin,3,Clay,R64,29,27,1,,,Alona Bondarenko,Francesca Schiavone,5-7 6-2 7-5,1.11,1.1%,1.1%,62.1%,61.0%,50.0%,16.7% (1/6),52.0%,47.7%,3.7%,36.4%,59.3%,41.2% (7/17),
-30-Apr-2007,Warsaw,3,Clay,F,40,1,0,,1,Justine Henin,Alona Bondarenko,6-1 6-3 (ch),0.50,0.0%,7.3%,53.7%,45.5%,26.3%,16.7% (1/6),34.1%,31.9%,2.1%,21.7%,41.7%,20.0% (1/5),
+30-Apr-2007,Warsaw,3,Clay,F,40,1,0,,1,Justine Henin,Alona Bondarenko,6-1 6-3,0.50,0.0%,7.3%,53.7%,45.5%,26.3%,16.7% (1/6),34.1%,31.9%,2.1%,21.7%,41.7%,20.0% (1/5),
 30-Apr-2007,Warsaw,3,Clay,SF,40,5,1,,3,Alona Bondarenko,Svetlana Kuznetsova,6-2 7-6(4),1.13,1.4%,0.0%,72.2%,69.2%,60.0%,83.3% (5/6),53.4%,37.7%,11.5%,31.4%,46.2%,75.0% (3/4),
 30-Apr-2007,Warsaw,3,Clay,QF,40,61,1,,Q,Alona Bondarenko,Julia Vakulenko,6-2 3-1 RET,1.59,0.0%,5.0%,55.0%,63.6%,61.1%,50.0% (1/2),61.0%,59.5%,4.8%,45.5%,75.0%,44.4% (4/9),
 30-Apr-2007,Warsaw,3,Clay,R16,40,43,1,,,Alona Bondarenko,Agnieszka Radwanska,0-6 6-4 6-3,0.94,1.5%,3.0%,67.2%,51.1%,45.5%,25.0% (2/8),48.4%,47.8%,0.0%,49.1%,45.7%,40.0% (6/15),

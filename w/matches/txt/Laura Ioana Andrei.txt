@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 27-Jun-2022,Wimbledon,5,Grass,Q1,,261,0,,,Christina Mchale,Laura Ioana Andrei,2-6 6-4 6-4,0.93,2.1%,5.3%,64.9%,59.0%,42.4%,54.5% (6/11),48.6%,43.7%,1.1%,36.4%,56.3%,62.5% (5/8),2:16
 6-Jun-2022,W60 Poertschach,3,Clay,R32,628,262,0,SR,8,Timea Babos,Laura Ioana Andrei,6-2 6-2,,,,,,,,,,,,,,
 31-May-2021,Roland Garros,5,Clay,Q1,246,165,0,,,Nuria Parrizas Diaz,Laura Ioana Andrei,6-2 6-1,0.66,0.0%,10.0%,61.7%,56.8%,26.1%,25.0% (2/8),41.3%,36.4%,0.0%,33.3%,50.0%,25.0% (1/4),1:12
@@ -72,7 +72,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jun-2019,W60 Stare Splavy,3,Clay,R16,267,273,1,,8,Laura Ioana Andrei,Dejana Radanovic,6-4 6-2,,,,,,,,,,,,,,
 17-Jun-2019,W60 Stare Splavy,3,Clay,R32,267,608,1,,,Laura Ioana Andrei,Magdalena Pantuckova,5-7 6-2 6-2,,,,,,,,,,,,,,
 10-Jun-2019,W100 Manchester,3,Grass,Q1,261,647,0,,,Qianhui Tang,Laura Ioana Andrei,2-6 7-5 [10-7],,,,,,,,,,,,,,
-20-May-2019,Nurnberg,3,Clay,R16,301,93,0,Q,,Sorana Cirstea,Laura Ioana Andrei,6-4 6-7(6) 6-0 (ch),0.78,0.0%,4.5%,71.6%,42.9%,36.0%,41.2% (7/17),43.7%,46.1%,4.9%,33.9%,65.0%,50.0% (6/12),2:09
+20-May-2019,Nurnberg,3,Clay,R16,301,93,0,Q,,Sorana Cirstea,Laura Ioana Andrei,6-4 6-7(6) 6-0,0.78,0.0%,4.5%,71.6%,42.9%,36.0%,41.2% (7/17),43.7%,46.1%,4.9%,33.9%,65.0%,50.0% (6/12),2:09
 20-May-2019,Nurnberg,3,Clay,R32,301,262,1,Q,Q,Laura Ioana Andrei,Quirine Lemoine,6-1 6-3,1.62,2.0%,11.8%,64.7%,72.7%,44.4%,60.0% (3/5),61.5%,60.4%,1.9%,54.1%,75.0%,85.7% (6/7),1:00
 20-May-2019,Nurnberg,3,Clay,Q2,301,235,1,,5,Laura Ioana Andrei,Raluca Georgiana Serban,3-6 7-5 6-2,1.15,0.0%,5.9%,62.4%,57.1%,42.1%,69.6% (16/23),53.4%,55.6%,1.1%,52.4%,63.0%,53.3% (8/15),2:17
 20-May-2019,Nurnberg,3,Clay,Q1,301,234,1,,12,Laura Ioana Andrei,Nadia Podoroska,6-4 6-2,1.40,1.8%,5.4%,67.9%,63.2%,55.6%,50.0% (3/6),57.5%,54.9%,1.4%,42.9%,66.7%,50.0% (6/12),1:26

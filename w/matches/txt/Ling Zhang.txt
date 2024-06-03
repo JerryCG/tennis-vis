@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 24-Feb-2020,W15 Monastir,3,Hard,Q2,1143,775,0,10,1,Margaux Orange,Ling Zhang,6-1 7-5,,,,,,,,,,,,,,
 24-Feb-2020,W15 Monastir,3,Hard,Q1,1143,,1,10,,Ling Zhang,Klaudia Wira,6-3 6-1,,,,,,,,,,,,,,
 17-Feb-2020,W15 Monastir,3,Hard,Q1,1007,1223,0,12,,Katsiaryna Skachkova,Ling Zhang,7-5 6-2,,,,,,,,,,,,,,
@@ -125,7 +125,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Jan-2017,Fort de France Martinique $15K,3,Hard,QF,636,720,0,,,Giuliana Olmos,Ling Zhang,6-3 6-3,,,,,,,,,,,,,,
 9-Jan-2017,Fort de France Martinique $15K,3,Hard,R16,636,502,1,,8,Ling Zhang,Sara Cakarevic,6-3 7-5,,,,,,,,,,,,,,
 9-Jan-2017,Fort de France Martinique $15K,3,Hard,R32,636,787,1,,,Ling Zhang,Emmanuelle Salas,7-5 6-1,,,,,,,,,,,,,,
-2-Jan-2017,Hong Kong $25K,3,Hard,R32,660,250,0,WC,,Chang Liu,Ling Zhang,6-4 6-4 (ch),,,,,,,,,,,,,,
+2-Jan-2017,Hong Kong $25K,3,Hard,R32,660,250,0,WC,,Chang Liu,Ling Zhang,6-4 6-4,,,,,,,,,,,,,,
 28-Nov-2016,Hua Hin $10K,3,Hard,R16,657,733,0,8,,Mai Hontama,Ling Zhang,7-5 6-1,,,,,,,,,,,,,,
 28-Nov-2016,Hua Hin $10K,3,Hard,R32,657,1069,1,8,Q,Ling Zhang,Yu Jin Ahn,3-6 6-1 6-4,,,,,,,,,,,,,,
 21-Nov-2016,Hua Hin $10K,3,Hard,R32,660,509,0,,5,Mizuno Kijima,Ling Zhang,5-7 7-6(4) 7-6(1),,,,,,,,,,,,,,

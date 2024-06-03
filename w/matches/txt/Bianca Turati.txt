@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 8-Aug-2022,W25 Koksijde,3,Clay,R32,,,0,,,Misaki Matsuda,Bianca Turati,6-4 6-3,,,,,,,,,,,,,,
 1-Aug-2022,W25 Eupen,3,Clay,R32,,,0,,,Julia Riera,Bianca Turati,6-2 6-3,,,,,,,,,,,,,,
 25-Jul-2022,W60 Cordenons,3,Clay,R32,457,437,0,Q,Q,Angelica Moratelli,Bianca Turati,6-4 6-0,,,,,,,,,,,,,,
@@ -63,7 +63,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,W25 Grenoble,3,Hard,Q1,280,489,0,7,,Sina Herrmann,Bianca Turati,6-4 1-6 10-7,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q2,278,627,0,14,WC,Salma Djoubri,Bianca Turati,6-7(4) 6-4 10-6,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q1,278,,1,14,WC,Bianca Turati,Emma Semenenko,6-0 6-0,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,318,264,0,,5,Conny Perrin,Bianca Turati,7-5 3-6 6-4,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,318,264,0,,5,Conny Perrin,Bianca Turati,7-5 3-6 6-4,,,,,,,,,,,,,,
 6-Jan-2021,Abu Dhabi,3,Hard,R32,318,46,0,Q,,Veronika Kudermetova,Bianca Turati,6-2 6-1,0.59,0.0%,12.9%,66.1%,61.0%,19.0%,50.0% (5/10),40.0%,31.3%,4.2%,25.0%,40.0%,0.0% (0/1),1:16
 6-Jan-2021,Abu Dhabi,3,Hard,R64,318,,1,Q,,Bianca Turati,Yaroslava Shvedova,6-1 6-2,0.58,0.0%,4.2%,70.8%,44.1%,35.7%,28.6% (2/7),37.6%,34.0%,3.8%,29.0%,40.9%,0.0% (0/6),1:19

@@ -1,4 +1,103 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W100 Madrid,3,Clay,R32,231,221,0,Q,Q,Xiaodi You,Despina Papamichail,7-6(4) 6-2,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q2,231,351,1,8,15,Despina Papamichail,Martyna Kubka,7-6(2) 6-3,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q1,231,732,1,8,WC,Despina Papamichail,Paula Arias Manjon,6-2 6-7(2) 6-2,,,,,,,,,,,,,,
+6-May-2024,W75 Prague ,3,Clay,R32,231,305,0,,,Jaimee Fourlis,Despina Papamichail,6-4 7-6(6),,,,,,,,,,,,,,
+29-Apr-2024,Lleida 125,3,Clay,R32,237,51,0,Q,4,Magdalena Frech,Despina Papamichail,6-2 6-4,0.72,1.6%,4.7%,60.9%,46.2%,44.0%,57.1% (8/14),42.6%,39.2%,3.9%,37.9%,40.9%,75.0% (3/4),1:36
+15-Apr-2024,W75 Chiasso,3,Clay,R32,235,432,0,,Q,Maria Sara Popa,Despina Papamichail,5-7 7-5 7-6(3),,,,,,,,,,,,,,
+1-Apr-2024,W35 Santa Margherita di Pula,3,Clay,R32,245,524,0,1,Q,Diletta Cherubini,Despina Papamichail,6-2 6-7(3) 6-4,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,SF,260,293,0,4,,Lois Boisson,Despina Papamichail,6-3 0-6 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,QF,260,467,1,4,SE,Despina Papamichail,Caijsa Wilda Hennemann,6-1 3-6 6-4,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,R16,260,385,1,4,,Despina Papamichail,Ylona Georgiana Ghioroaie,6-4 7-5,,,,,,,,,,,,,,
+25-Mar-2024,W35 Terrassa,3,Clay,R32,260,1357,1,4,Q,Despina Papamichail,Sara Dols,6-2 6-3,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,F,260,293,0,,,Lois Boisson,Despina Papamichail,6-2 6-0,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,SF,260,586,1,,Q,Despina Papamichail,Deborah Chiesa,4-6 6-3 6-3,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,QF,260,214,1,,6,Despina Papamichail,Cristina Andreea Mitu,6-2 6-0,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,R16,260,203,1,,4,Despina Papamichail,Tena Lukas,4-6 6-2 6-1,,,,,,,,,,,,,,
+18-Mar-2024,W35 Alaminos-Larnaca,3,Clay,R32,260,370,1,,Q,Despina Papamichail,Julia Middendorf,6-1 6-3,,,,,,,,,,,,,,
+11-Mar-2024,W35 Alaminos-Larnaca,3,Clay,R32,267,181,0,,1,Noma Noha Akugue,Despina Papamichail,7-5 3-6 6-1,,,,,,,,,,,,,,
+26-Feb-2024,San Diego,3,Hard,Q1,254,119,0,,5,Mai Hontama,Despina Papamichail,6-3 6-4,0.84,1.4%,2.7%,68.9%,41.2%,47.8%,50.0% (7/14),45.1%,47.5%,0.0%,43.5%,61.5%,57.1% (4/7),1:42
+19-Feb-2024,W50 Mexico City,3,Hard,R32,254,329,0,5,,Victoria Hu,Despina Papamichail,6-1 5-7 6-4,,,,,,,,,,,,,,
+12-Feb-2024,W50 Morelia,3,Hard,R16,250,146,0,,4,Rebecca Marino,Despina Papamichail,6-2 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W50 Morelia,3,Hard,R32,250,226,1,,,Despina Papamichail,Elvina Kalieva,7-5 4-6 6-4,,,,,,,,,,,,,,
+5-Feb-2024,Abu Dhabi,3,Hard,Q1,241,71,0,,8,Danielle Collins,Despina Papamichail,6-2 6-3,0.72,0.0%,5.6%,61.1%,48.5%,47.6%,50.0% (5/10),42.9%,37.3%,2.0%,25.8%,55.0%,40.0% (2/5),1:19
+15-Jan-2024,Australian Open,5,Hard,Q1,218,177,0,,,Raluka Serban,Despina Papamichail,7-5 6-2,0.73,1.8%,1.8%,60.0%,48.5%,50.0%,54.5% (6/11),42.7%,37.1%,0.0%,21.6%,60.0%,50.0% (2/4),1:30
+4-Dec-2023,Montevideo 125,3,Clay,R16,221,94,0,,1,Diane Parry,Despina Papamichail,6-1 6-2,0.66,0.0%,0.0%,73.2%,41.5%,40.0%,45.5% (5/11),40.2%,39.1%,6.5%,23.1%,60.0%,50.0% (1/2),1:18
+4-Dec-2023,Montevideo 125,3,Clay,R32,221,332,1,,,Despina Papamichail,Victoria Hu,6-4 6-2,1.29,0.0%,1.9%,72.2%,61.5%,53.3%,75.0% (6/8),55.8%,52.5%,1.7%,52.0%,52.9%,71.4% (5/7),1:31
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,222,302,0,,,Jamie Loeb,Despina Papamichail,6-3 6-2,0.68,0.0%,5.9%,51.0%,53.8%,44.0%,37.5% (3/8),42.0%,34.7%,10.2%,21.4%,52.4%,16.7% (1/6),1:12
+20-Nov-2023,Florianopolis 125,3,Clay,R16,224,151,0,,,Renata Zarazua,Despina Papamichail,6-4 6-2,0.87,0.0%,5.7%,54.3%,55.3%,34.4%,60.0% (9/15),46.4%,47.3%,0.0%,46.3%,50.0%,50.0% (3/6),2:02
+20-Nov-2023,Florianopolis 125,3,Clay,R32,224,156,1,,,Despina Papamichail,Julia Riera,6-4 7-6(2),1.32,0.0%,1.5%,61.8%,59.5%,61.5%,61.5% (8/13),56.2%,52.6%,0.0%,44.7%,60.0%,40.0% (6/15),2:02
+13-Nov-2023,Colina 125,3,Clay,R16,228,131,0,,8,Leolia Jeanjean,Despina Papamichail,2-6 6-4 6-2,0.91,1.4%,2.7%,62.2%,58.7%,46.4%,33.3% (3/9),47.7%,41.8%,2.5%,37.8%,47.1%,45.5% (5/11),2:09
+13-Nov-2023,Colina 125,3,Clay,R32,228,212,1,,,Despina Papamichail,Solana Sierra,6-3 6-2,1.41,7.5%,3.8%,67.9%,69.4%,47.1%,66.7% (2/3),57.5%,53.3%,0.0%,47.2%,62.5%,55.6% (5/9),1:21
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,219,535,0,,Q,Nahia Berecoechea,Despina Papamichail,1-6 6-2 6-2,,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,Q1,216,171,0,,2,Katarina Zavatska,Despina Papamichail,3-6 6-2 6-4,0.75,2.1%,2.1%,70.5%,61.2%,42.9%,61.5% (8/13),46.1%,33.3%,0.0%,27.5%,47.6%,42.9% (3/7),2:31
+25-Sep-2023,Tokyo,3,Hard,R16,220,13,0,Q,6,Daria Kasatkina,Despina Papamichail,6-4 6-4,0.90,0.0%,4.5%,59.1%,59.0%,33.3%,53.8% (7/13),47.4%,46.5%,0.0%,39.4%,70.0%,25.0% (4/16),2:00
+25-Sep-2023,Tokyo,3,Hard,R32,220,256,1,Q,LL,Despina Papamichail,Sakura Hosogi,7-6(3) 7-5,1.07,2.2%,1.1%,64.8%,62.7%,46.9%,60.0% (6/10),51.7%,45.7%,0.0%,46.8%,42.1%,62.5% (5/8),2:19
+25-Sep-2023,Tokyo,3,Hard,Q2,220,480,1,5,11,Despina Papamichail,Ellen Perez,6-4 6-3,1.16,2.8%,2.8%,63.4%,66.7%,61.5%,87.5% (7/8),53.8%,41.0%,1.6%,27.0%,62.5%,33.3% (3/9),1:28
+25-Sep-2023,Tokyo,3,Hard,Q1,220,,1,5,WC,Despina Papamichail,Lidziya Marozava,6-1 6-1,2.06,2.2%,0.0%,78.3%,83.3%,30.0%,100.0% (6/6),65.2%,58.1%,2.3%,38.1%,77.3%,71.4% (5/7),0:57
+18-Sep-2023,Guangzhou,3,Hard,R32,190,129,0,Q,WC,Zhuoxuan Bai,Despina Papamichail,6-3 7-5,0.78,3.8%,0.0%,70.9%,53.6%,47.8%,58.3% (7/12),45.3%,37.7%,4.3%,36.2%,40.9%,40.0% (2/5),1:57
+18-Sep-2023,Guangzhou,3,Hard,Q2,190,270,1,9,,Despina Papamichail,Ye Xin Ma,6-3 6-3,1.42,5.3%,7.0%,59.6%,73.5%,56.5%,80.0% (4/5),57.0%,47.4%,0.0%,34.3%,68.2%,66.7% (4/6),1:36
+18-Sep-2023,Guangzhou,3,Hard,Q1,190,561,1,9,,Despina Papamichail,Maia Lumsden,7-6(4) 6-1,1.25,0.0%,3.0%,60.6%,60.0%,61.5%,71.4% (5/7),54.4%,49.4%,2.4%,40.7%,65.5%,35.7% (5/14),1:51
+11-Sep-2023,Osaka,3,Hard,Q2,190,191,0,4,7,Arianne Hartono,Despina Papamichail,6-1 7-5,0.72,1.6%,7.9%,58.7%,51.4%,38.5%,40.0% (4/10),42.5%,38.6%,5.3%,42.1%,31.6%,33.3% (2/6),1:31
+11-Sep-2023,Osaka,3,Hard,Q1,190,289,1,4,,Despina Papamichail,Naiktha Bains,6-4 6-7(4) 6-0,1.11,0.0%,3.3%,65.0%,64.1%,42.9%,75.0% (9/12),52.7%,48.1%,1.9%,42.9%,58.8%,41.2% (7/17),3:03
+28-Aug-2023,US Open,5,Hard,Q2,191,677,0,,,Vera Zvonareva,Despina Papamichail,7-5 7-5,0.97,2.6%,3.9%,73.7%,60.7%,50.0%,50.0% (4/8),47.8%,40.7%,0.9%,41.1%,40.0%,13.3% (2/15),2:45
+28-Aug-2023,US Open,5,Hard,Q1,191,91,1,,4,Despina Papamichail,Jule Niemeier,6-3 6-4,1.12,7.5%,3.0%,56.7%,73.7%,51.7%,75.0% (3/4),53.8%,40.0%,6.0%,32.0%,48.0%,60.0% (3/5),1:29
+14-Aug-2023,Barranquilla 125,3,Hard,R32,193,144,0,,,Leolia Jeanjean,Despina Papamichail,6-4 6-3,0.75,1.8%,7.1%,62.5%,57.1%,42.9%,20.0% (1/5),43.4%,36.4%,3.0%,33.3%,40.0%,33.3% (2/6),1:38
+7-Aug-2023,W80 Brasilia,3,Hard,QF,213,168,0,7,4,Laura Pigossi,Despina Papamichail,6-2 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R16,213,678,1,7,WC,Despina Papamichail,Ana Candiotto,6-4 6-3,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R32,213,541,1,7,Q,Despina Papamichail,Miriana Tona,6-3 5-7 7-5,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,QF,213,193,0,6,3,Valeria Savinykh,Despina Papamichail,3-6 7-6(6) 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R16,213,659,1,6,Q,Despina Papamichail,Emilie Lindh Gallagher,6-3 3-6 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Barcelona,3,Hard,R32,213,519,1,6,Q,Despina Papamichail,Nahia Berecoechea,6-3 6-3,,,,,,,,,,,,,,
+23-Jul-2023,Hamburg,3,Clay,Q2,211,149,0,7,2,Kaja Juvan,Despina Papamichail,6-1 6-2,0.54,0.0%,0.0%,76.0%,44.7%,41.7%,28.6% (2/7),37.6%,30.2%,0.0%,26.7%,38.5%,50.0% (1/2),1:08
+23-Jul-2023,Hamburg,3,Clay,Q1,211,310,1,7,,Despina Papamichail,Katharina Hobgarski,6-4 6-3,1.22,1.4%,1.4%,75.0%,55.6%,44.4%,75.0% (12/16),55.1%,57.6%,0.0%,58.8%,56.3%,63.6% (7/11),1:47
+17-Jul-2023,Iasi 125,3,Clay,R32,201,472,0,,WC,Anca Alexia Todoni,Despina Papamichail,6-4 6-4,0.80,0.0%,7.0%,59.6%,58.8%,34.8%,44.4% (4/9),44.8%,40.7%,0.0%,36.4%,46.2%,50.0% (3/6),1:35
+3-Jul-2023,Wimbledon,5,Grass,Q3,188,139,0,,29,Viktorija Golubic,Despina Papamichail,6-2 7-6(5),0.78,1.4%,2.7%,68.9%,54.9%,43.5%,71.4% (10/14),44.6%,37.8%,1.4%,29.4%,56.5%,50.0% (2/4),1:42
+3-Jul-2023,Wimbledon,5,Grass,Q2,188,113,1,,10,Despina Papamichail,Oceane Dodin,7-6(8) 7-6(3),0.99,5.2%,2.1%,69.8%,65.7%,51.7%,66.7% (6/9),50.0%,38.0%,2.2%,25.0%,55.0%,50.0% (3/6),2:06
+3-Jul-2023,Wimbledon,5,Grass,Q1,188,208,1,,,Despina Papamichail,Zeynep Sonmez,6-3 3-6 6-4,1.31,4.0%,4.0%,77.3%,72.4%,47.1%,33.3% (2/6),53.8%,43.6%,0.0%,33.3%,61.8%,71.4% (5/7),1:52
+19-Jun-2023,W40 Ystad,3,Clay,R32,189,437,0,3,Q,Julia Middendorf,Despina Papamichail,7-5 4-6 7-6(0),,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R16,175,369,0,3,14,Seone Mendez,Despina Papamichail,6-2 5-7 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R32,175,389,1,3,,Despina Papamichail,Amina Anshba,6-2 6-3,,,,,,,,,,,,,,
+5-Jun-2023,W60 Caserta,3,Clay,R32,158,493,0,3,Q,Vivian Wolff,Despina Papamichail,6-2 6-3,,,,,,,,,,,,,,
+29-May-2023,W60 Brescia,3,Clay,R16,158,263,0,3,,Yuliya Hatouka,Despina Papamichail,6-4 6-2,,,,,,,,,,,,,,
+29-May-2023,W60 Brescia,3,Clay,R32,158,616,1,3,Q,Despina Papamichail,Claudia Hoste Ferrer,6-2 6-3,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,158,145,0,,30,Moyuka Uchijima,Despina Papamichail,6-2 6-2,0.65,0.0%,2.4%,71.4%,43.3%,33.3%,25.0% (2/8),39.4%,38.6%,0.0%,33.3%,44.4%,40.0% (2/5),
+15-May-2023,W100 Madrid,3,Clay,R32,157,183,0,,,Mai Hontama,Despina Papamichail,6-4 6-1,,,,,,,,,,,,,,
+8-May-2023,Rome,3,Clay,Q1,157,107,0,,11,Arantxa Rus,Despina Papamichail,6-2 6-1,0.53,0.0%,5.3%,71.1%,40.7%,63.6%,33.3% (2/6),36.4%,28.0%,0.0%,19.4%,42.1%,0.0% (0/2),1:09
+1-May-2023,Saint Malo 125,3,Clay,R32,152,1088,0,,WC,Elina Svitolina,Despina Papamichail,7-5 6-1,0.75,0.0%,4.5%,65.7%,54.5%,39.1%,50.0% (5/10),43.4%,38.2%,0.0%,34.7%,44.4%,22.2% (2/9),1:44
+24-Apr-2023,Madrid,3,Clay,Q1,152,76,0,,3,Nuria Parrizas Diaz,Despina Papamichail,7-6(2) 6-2,0.82,3.2%,0.0%,66.1%,63.4%,47.6%,25.0% (1/4),45.7%,34.3%,0.0%,33.3%,38.5%,20.0% (1/5),1:42
+15-Apr-2023,BJK Cup G2 PPO: EST vs GRE,3,Clay,RR,151,69,1,,,Despina Papamichail,Anett Kontaveit,6-2 6-4,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G2 RR: GRE vs POR,3,Clay,RR,151,314,0,,,Francisca Jorge,Despina Papamichail,7-5 7-6(3),,,,,,,,,,,,,,
+13-Apr-2023,BJK Cup G2 RR: GRE vs BIH,3,Clay,RR,151,319,0,,,Nefisa Berberovic,Despina Papamichail,6-4 6-4,,,,,,,,,,,,,,
+12-Apr-2023,BJK Cup G2 RR: GRE vs MLT,3,Clay,RR,151,391,0,,,Francesca Curmi,Despina Papamichail,4-6 7-6(6) 6-4,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G2 RR: GRE vs ISR,3,Clay,RR,151,271,1,,,Despina Papamichail,Lina Glushko,6-1 6-1,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,R32,152,206,0,,Q,Nuria Brancaccio,Despina Papamichail,6-2 6-2,0.71,0.0%,0.0%,68.5%,40.5%,41.2%,40.0% (4/10),41.5%,42.2%,0.0%,31.0%,63.6%,20.0% (2/10),1:24
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,151,152,0,,,Aliona Bolsova,Despina Papamichail,6-1 3-6 6-4,0.90,0.0%,2.1%,70.5%,49.3%,60.7%,64.3% (9/14),47.8%,42.9%,0.0%,38.2%,50.0%,33.3% (3/9),2:29
+27-Feb-2023,Monterrey,3,Hard,R32,150,96,0,Q,,Ysaline Bonaventure,Despina Papamichail,7-6(5) 4-6 6-1,0.92,2.0%,2.0%,57.4%,55.2%,44.2%,45.5% (5/11),48.0%,45.5%,0.0%,33.3%,59.6%,55.6% (5/9),2:19
+27-Feb-2023,Monterrey,3,Hard,Q2,150,124,1,11,5,Despina Papamichail,Marina Bassols Ribera,6-4 6-4,1.26,1.7%,0.0%,67.2%,61.5%,73.7%,0.0% (0/2),54.2%,43.3%,1.7%,37.8%,52.2%,50.0% (4/8),1:29
+27-Feb-2023,Monterrey,3,Hard,Q1,150,739,1,11,WC,Despina Papamichail,Lya Fernandez,6-1 6-1,2.05,0.0%,2.3%,63.6%,85.7%,50.0%,100.0% (1/1),63.1%,55.9%,0.0%,57.5%,52.6%,50.0% (5/10),1:17
+20-Feb-2023,Merida,3,Hard,Q1,151,108,0,,5,Leolia Jeanjean,Despina Papamichail,7-5 1-6 6-3,0.98,2.4%,1.2%,69.0%,69.0%,42.3%,42.9% (3/7),50.3%,38.4%,5.5%,27.3%,55.2%,80.0% (4/5),2:01
+13-Feb-2023,W60+H Irapuato,3,Hard,R16,155,67,0,,1,Xin Yu Wang,Despina Papamichail,4-6 6-4 7-6(6),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,R32,155,362,1,,WC,Despina Papamichail,Ana Sofia Sanchez,6-3 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,QF,154,368,0,3,Q,Jana Kolodynska,Despina Papamichail,6-3 7-6(3),,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R16,154,507,1,3,LL,Despina Papamichail,Sofia Sewing,6-2 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R32,154,364,1,3,Q,Despina Papamichail,Sofia Costoulas,7-6(4) 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,SF,151,346,0,2,,Berfu Cengiz,Despina Papamichail,6-7(5) 6-4 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,QF,151,337,1,2,,Despina Papamichail,Emina Bektas,2-6 6-4 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,R16,151,373,1,2,,Despina Papamichail,Jana Kolodynska,2-6 6-3 7-6(6),,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,R32,151,,1,2,Q,Despina Papamichail,Mao Mushika,6-2 4-6 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R16,,211,0,3,,Magali Kempen,Despina Papamichail,6-4 6-0,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R32,,255,1,3,,Despina Papamichail,Lena Rueffer,6-4 7-6(2),,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q2,157,152,0,,,Olga Danilovic,Despina Papamichail,6-3 6-1,0.58,2.1%,2.1%,59.6%,53.6%,57.9%,50.0% (4/8),40.9%,26.1%,2.2%,22.6%,33.3%,0.0% (0/1),1:07
+16-Jan-2023,Australian Open,5,Hard,Q1,157,111,1,,10,Despina Papamichail,Reka Luca Jani,6-1 6-0,1.74,1.9%,1.9%,75.0%,69.2%,53.8%,100.0% (4/4),62.7%,60.3%,0.0%,51.2%,86.7%,42.9% (6/14),1:19
+2-Jan-2023,United Cup,3,Hard,RR,158,67,0,,,Donna Vekic,Despina Papamichail,6-2 6-0,0.51,0.0%,4.1%,67.3%,51.5%,25.0%,50.0% (5/10),36.7%,29.3%,2.4%,18.5%,50.0%,- (0/0),1:04
+2-Jan-2023,United Cup,3,Hard,RR,158,72,0,,,Alison Van Uytvanck,Despina Papamichail,7-5 2-6 6-3,1.05,0.0%,2.1%,65.6%,58.7%,48.5%,53.8% (7/13),51.0%,47.0%,3.0%,37.1%,63.2%,50.0% (6/12),2:30
+2-Jan-2023,United Cup,3,Hard,RR,158,379,1,,,Despina Papamichail,Isabella Shinikova,3-6 6-4 6-1,1.21,2.2%,3.3%,67.0%,62.3%,46.7%,16.7% (1/6),54.4%,51.7%,1.1%,44.0%,61.5%,58.3% (7/12),2:19
+21-Nov-2022,W80+H Valencia,3,Clay,R32,159,265,0,,Q,Sada Nahimana,Despina Papamichail,6-4 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,155,279,0,8,Q,Marie Benoit,Despina Papamichail,6-3 7-6(5),,,,,,,,,,,,,,
+7-Nov-2022,Colina 125,3,Clay,R16,156,129,0,,7,Victoria Jimenez Kasintseva,Despina Papamichail,6-1 6-2,0.68,0.0%,5.8%,55.8%,41.4%,13.0%,20.0% (2/10),39.3%,48.3%,1.7%,45.7%,52.0%,30.0% (3/10),1:24
+7-Nov-2022,Colina 125,3,Clay,R32,156,221,1,,,Despina Papamichail,Darya Astakhova,6-3 6-3,1.54,3.9%,2.0%,70.6%,69.4%,53.3%,33.3% (1/3),59.8%,54.3%,2.2%,40.0%,81.3%,62.5% (5/8),1:13
+31-Oct-2022,W60 Barranquilla,3,Hard,R32,148,623,0,4,,Raveena Kingsley,Despina Papamichail,6-3 3-6 6-2,,,,,,,,,,,,,,
 17-Oct-2022,W60 Hamburg,3,Hard,R16,143,404,0,4,Q,Julia Middendorf,Despina Papamichail,7-6(3) 3-6 6-4,,,,,,,,,,,,,,
 17-Oct-2022,W60 Hamburg,3,Hard,R32,143,390,1,4,,Despina Papamichail,Veronika Erjavec,3-6 6-2 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W60 Monastir,3,Hard,SF,152,136,0,6,5,Kristina Mladenovic,Despina Papamichail,6-2 6-4,,,,,,,,,,,,,,
@@ -30,6 +129,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jun-2022,W100 Charleston SC,3,Clay,R32,196,331,1,2,,Despina Papamichail,Ellie Douglas,6-7(5) 6-3 6-4,,,,,,,,,,,,,,
 27-Jun-2022,Wimbledon,5,Grass,Q2,196,254,0,22,,Natalija Stevanovic,Despina Papamichail,6-2 6-4,0.79,3.4%,0.0%,65.5%,52.6%,55.0%,55.6% (5/9),44.3%,37.0%,0.0%,32.5%,42.4%,20.0% (1/5),1:34
 27-Jun-2022,Wimbledon,5,Grass,Q1,196,223,1,22,,Despina Papamichail,Eva Lys,3-6 6-3 6-2,1.09,0.0%,0.0%,67.1%,59.6%,42.9%,37.5% (3/8),52.0%,50.0%,2.2%,45.6%,63.6%,38.9% (7/18),1:53
+13-Jun-2022,W60 Ceska Lipa,3,Clay,SF,156,249,0,3,10,Jesika Maleckova,Despina Papamichail,6-3 6-1,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,QF,156,302,1,3,11,Despina Papamichail,Conny Perrin,7-6(4) 6-3,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,R16,156,279,1,3,15,Despina Papamichail,Tereza Smitkova,6-2 6-0,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,R32,156,435,1,3,,Despina Papamichail,Barbora Palicova,4-6 6-1 6-1,,,,,,,,,,,,,,
@@ -39,7 +139,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2022,W60 Brescia,3,Clay,QF,,463,1,5,Q,Despina Papamichail,Jazmin Ortenzi,5-7 6-3 6-2,,,,,,,,,,,,,,
 30-May-2022,W60 Brescia,3,Clay,R16,,221,1,5,,Despina Papamichail,Katarina Zavatska,0-6 7-5 6-4,,,,,,,,,,,,,,
 30-May-2022,W60 Brescia,3,Clay,R32,,320,1,5,,Despina Papamichail,Malene Helgo,6-2 3-6 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,170,168,0,,,Ysaline Bonaventure,Despina Papamichail,6-1 3-6 7-6(4),,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,170,168,0,,,Ysaline Bonaventure,Despina Papamichail,6-1 3-6 7-6(4),0.94,0.9%,1.9%,66.7%,48.6%,47.2%,61.1% (11/18),48.5%,48.9%,1.1%,44.4%,59.3%,66.7% (6/9),
 9-May-2022,W100+H La Bisbal D'Emporda,3,Clay,R16,173,318,0,,WC,Marina Bassols Ribera,Despina Papamichail,4-6 7-5 6-3,,,,,,,,,,,,,,
 9-May-2022,W100+H La Bisbal D'Emporda,3,Clay,R32,173,224,1,,,Despina Papamichail,Aliona Bolsova,6-1 6-2,,,,,,,,,,,,,,
 2-May-2022,W60 Prague,3,Clay,R32,172,268,0,4,,Maja Chwalinska,Despina Papamichail,7-6(2) 6-1,,,,,,,,,,,,,,
@@ -55,7 +155,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Mar-2022,W25 Le Havre,3,Clay,R32,171,,1,5,WC,Despina Papamichail,Astrid Lew Yan Foon,6-0 6-0,,,,,,,,,,,,,,
 14-Mar-2022,W25 Antalya,3,Clay,R32,167,612,0,4,Q,Nicole Khirin,Despina Papamichail,7-6(3) 6-1,,,,,,,,,,,,,,
 28-Feb-2022,Lyon,3,Hard,Q1,170,156,0,,12,Mariam Bolkvadze,Despina Papamichail,3-6 6-4 6-1,0.88,0.0%,1.1%,71.3%,40.3%,48.0%,43.8% (7/16),46.7%,50.5%,0.0%,39.3%,70.6%,38.9% (7/18),2:21
-21-Feb-2022,Guadalajara,3,Hard,Q1,176,140,0,,4,Viktoria Kuzmova,Despina Papamichail,6-4 6-3,0.70,1.2%,4.9%,67.1%,49.1%,59.3%,69.2% (9/13),44.4%,33.3%,5.0%,11.1%,51.5%,12.5% (1/8),1:42
+21-Feb-2022,Guadalajara,3,Hard,Q1,176,140,0,,4,Viktoria Hruncakova,Despina Papamichail,6-4 6-3,0.70,1.2%,4.9%,67.1%,49.1%,59.3%,69.2% (9/13),44.4%,33.3%,5.0%,11.1%,51.5%,12.5% (1/8),1:42
 7-Feb-2022,W25 Cancun,3,Hard,R32,176,653,0,4,WC,Stacey Fung,Despina Papamichail,6-2 6-4,,,,,,,,,,,,,,
 31-Jan-2022,W60 Rome GA,3,Hard,R16,175,203,0,,,Francesca Di Lorenzo,Despina Papamichail,6-1 6-3,,,,,,,,,,,,,,
 31-Jan-2022,W60 Rome GA,3,Hard,R32,175,209,1,,,Despina Papamichail,Jodie Burrage,6-7(7) 7-6(3) 6-0,,,,,,,,,,,,,,
@@ -66,7 +166,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Jan-2022,Adelaide 1,3,Hard,Q1,182,151,1,,9,Despina Papamichail,Francesca Jones,3-6 6-2 6-1,1.33,0.0%,4.7%,57.8%,64.9%,63.0%,25.0% (1/4),55.7%,47.8%,1.5%,40.0%,59.3%,75.0% (6/8),1:43
 1-Nov-2021,Buenos Aires,3,Clay,QF,199,135,0,8,3,Anna Bondar,Despina Papamichail,6-4 7-5,0.83,1.6%,4.7%,76.6%,51.0%,33.3%,25.0% (2/8),45.4%,43.9%,1.5%,40.8%,52.9%,66.7% (4/6),1:47
 1-Nov-2021,Buenos Aires,3,Clay,R16,199,1019,1,8,WC,Despina Papamichail,Solana Sierra,7-6(6) 6-4,1.09,0.0%,0.0%,68.0%,49.0%,50.0%,22.2% (2/9),52.4%,55.1%,1.1%,49.1%,65.6%,80.0% (8/10),2:10
-1-Nov-2021,Buenos Aires,3,Clay,R32,199,261,1,8,,Despina Papamichail,Maria Carle,3-6 6-2 6-2,1.11,0.0%,2.5%,81.3%,50.8%,40.0%,33.3% (3/9),52.9%,57.1%,0.0%,50.9%,70.8%,53.3% (8/15),2:16
+1-Nov-2021,Buenos Aires,3,Clay,R32,199,261,1,8,,Despina Papamichail,Maria Lourdes Carle,3-6 6-2 6-2,1.11,0.0%,2.5%,81.3%,50.8%,40.0%,33.3% (3/9),52.9%,57.1%,0.0%,50.9%,70.8%,53.3% (8/15),2:16
 18-Oct-2021,W25 Seville,3,Clay,R32,205,358,0,2,,Ivonne Cavalle Reimers,Despina Papamichail,6-2 6-4,,,,,,,,,,,,,,
 11-Oct-2021,W25 Lagos,3,Hard,SF,210,729,0,1,Q,Antonia Ruzic,Despina Papamichail,6-1 6-1,,,,,,,,,,,,,,
 11-Oct-2021,W25 Lagos,3,Hard,QF,210,264,1,1,,Despina Papamichail,Naiktha Bains,6-1 6-1,,,,,,,,,,,,,,
@@ -94,7 +194,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Jul-2021,W60 Amstelveen,3,Clay,R32,227,255,1,8,,Despina Papamichail,Chloe Paquet,2-6 6-4 6-3,,,,,,,,,,,,,,
 28-Jun-2021,W25 Wroclaw,3,Clay,R16,227,539,0,5,WC,Weronika Falkowska,Despina Papamichail,4-6 6-3 6-4,,,,,,,,,,,,,,
 28-Jun-2021,W25 Wroclaw,3,Clay,R32,227,759,1,5,Q,Despina Papamichail,Nikola Tomanova,6-3 6-3,,,,,,,,,,,,,,
-21-Jun-2021,W60 Charleston SC,3,Clay,F,261,284,1,2,6,Despina Papamichail,Gabriela Ce,1-6 6-3 6-3 (ch),,,,,,,,,,,,,,
+21-Jun-2021,W60 Charleston SC,3,Clay,F,261,284,1,2,6,Despina Papamichail,Gabriela Ce,1-6 6-3 6-3,,,,,,,,,,,,,,
 21-Jun-2021,W60 Charleston SC,3,Clay,QF,261,300,1,2,8,Despina Papamichail,Alexa Glatch,4-6 6-0 6-4,,,,,,,,,,,,,,
 21-Jun-2021,W60 Charleston SC,3,Clay,R16,261,651,1,2,Q,Despina Papamichail,Charlotte Chavatipon,6-3 6-3,,,,,,,,,,,,,,
 21-Jun-2021,W60 Charleston SC,3,Clay,R32,261,368,1,2,,Despina Papamichail,Aldila Sutjiadi,2-6 6-3 6-1,,,,,,,,,,,,,,
@@ -128,7 +228,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Feb-2021,W25 Orlando FL,3,Hard,Q1,276,358,0,4,,Lucrezia Stefanini,Despina Papamichail,6-2 6-3,,,,,,,,,,,,,,
 25-Jan-2021,W60 Rome GA,3,Hard,R16,277,331,0,,Q,Irene Burillo Escorihuela,Despina Papamichail,6-2 6-1,,,,,,,,,,,,,,
 25-Jan-2021,W60 Rome GA,3,Hard,R32,277,143,1,,3,Despina Papamichail,Francesca Di Lorenzo,6-3 6-1,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,278,371,0,,Q,Marina Bassols Ribera,Despina Papamichail,6-2 6-7(2) 6-1,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,278,371,0,,Q,Marina Bassols Ribera,Despina Papamichail,6-2 6-7(2) 6-1,,,,,,,,,,,,,,
 6-Jan-2021,Abu Dhabi,3,Hard,R64,278,6,0,LL,,Karolina Pliskova,Despina Papamichail,6-2 7-6(4),0.73,0.0%,3.3%,70.5%,67.4%,27.8%,50.0% (3/6),43.7%,32.3%,6.2%,13.9%,55.2%,20.0% (1/5),1:21
 6-Jan-2021,Abu Dhabi,3,Hard,Q2,278,789,0,,,Zhaoxuan Yang,Despina Papamichail,6-2 6-2,0.58,4.4%,7.4%,61.8%,66.7%,23.1%,60.0% (6/10),40.8%,28.8%,1.9%,20.5%,53.8%,0.0% (0/3),1:16

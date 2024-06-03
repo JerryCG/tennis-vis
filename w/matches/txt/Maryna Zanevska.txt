@@ -1,4 +1,29 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Aug-2023,US Open,5,Hard,R128,112,2,0,,2,Aryna Sabalenka,Maryna Zanevska,6-3 6-2,0.71,5.6%,11.1%,55.6%,50.0%,25.0%,14.3% (1/7),41.1%,43.1%,15.5%,27.9%,86.7%,75.0% (3/4),1:18
+14-Aug-2023,Stanford 125,3,Hard,R32,115,78,0,,1,Tamara Korpatsch,Maryna Zanevska,6-3 6-2,0.47,0.0%,11.8%,43.1%,63.6%,41.4%,63.6% (7/11),38.3%,23.3%,11.6%,18.2%,28.6%,100.0% (1/1),1:04
+3-Jul-2023,Wimbledon,5,Grass,R128,88,623,0,,,Barbora Strycova,Maryna Zanevska,6-1 7-5,0.62,3.6%,12.5%,58.9%,66.7%,26.1%,33.3% (2/6),40.2%,31.1%,8.2%,20.0%,46.2%,50.0% (1/2),1:24
+26-Jun-2023,Bad Homburg,3,Grass,R32,92,80,0,Q,,Sara Errani,Maryna Zanevska,6-2 6-3,0.65,2.3%,14.0%,58.1%,64.0%,16.7%,0.0% (0/5),39.8%,36.4%,0.0%,32.6%,50.0%,33.3% (2/6),1:03
+29-May-2023,Roland Garros,5,Clay,R128,89,58,0,,,Yulia Putintseva,Maryna Zanevska,7-5 7-6(3),0.91,3.1%,5.2%,55.7%,57.4%,44.2%,68.8% (11/16),48.1%,44.2%,0.0%,36.5%,65.2%,36.4% (4/11),2:17
+22-May-2023,Strasbourg,3,Clay,R32,88,75,0,,8,Jil Teichmann,Maryna Zanevska,4-6 6-3 6-4,0.99,8.2%,8.2%,59.2%,70.7%,45.0%,71.4% (10/14),49.5%,39.2%,2.0%,27.9%,56.1%,23.1% (3/13),2:33
+8-May-2023,Rome,3,Clay,R128,77,1103,0,,,Barbora Strycova,Maryna Zanevska,6-1 3-6 6-3,0.85,0.0%,1.6%,48.4%,38.7%,45.5%,11.1% (1/9),46.2%,49.4%,2.5%,45.0%,61.9%,54.5% (6/11),1:57
+1-May-2023,Saint Malo 125,3,Clay,R16,75,103,0,3,,Katie Volynets,Maryna Zanevska,2-6 6-4 7-5,0.99,0.0%,5.3%,63.8%,58.3%,47.1%,40.0% (4/10),50.0%,45.3%,3.5%,41.3%,56.5%,60.0% (6/10),2:18
+1-May-2023,Saint Malo 125,3,Clay,R32,75,125,1,3,,Maryna Zanevska,Laura Pigossi,6-2 6-0,1.70,2.2%,6.7%,60.0%,74.1%,50.0%,83.3% (5/6),62.2%,60.4%,0.0%,63.2%,53.3%,66.7% (6/9),1:12
+24-Apr-2023,Madrid,3,Clay,R64,75,18,0,,14,Liudmila Samsonova,Maryna Zanevska,6-2 6-3,0.62,1.5%,6.1%,53.0%,40.0%,51.6%,25.0% (2/8),40.7%,34.0%,6.4%,21.4%,52.6%,28.6% (2/7),1:26
+24-Apr-2023,Madrid,3,Clay,R128,75,138,1,,,Maryna Zanevska,Sofia Kenin,6-0 6-3,1.89,5.4%,10.8%,67.6%,80.0%,50.0%,50.0% (1/2),62.4%,56.3%,4.2%,55.3%,60.0%,66.7% (6/9),0:58
+20-Mar-2023,Miami,3,Hard,R128,78,54,0,,Q,Varvara Gracheva,Maryna Zanevska,6-1 7-5,0.73,4.3%,2.1%,68.1%,50.0%,46.7%,16.7% (1/6),42.2%,37.1%,3.2%,24.4%,70.6%,50.0% (2/4),1:26
+6-Mar-2023,Indian Wells,3,Hard,R128,78,106,0,,LL,Magdalena Frech,Maryna Zanevska,4-6 6-4 6-2,0.90,0.0%,10.7%,56.0%,53.2%,45.9%,56.3% (9/16),47.3%,45.2%,0.0%,41.9%,53.3%,29.4% (5/17),2:28
+20-Feb-2023,Dubai,3,Hard,Q1,78,149,0,8,,Kristina Mladenovic,Maryna Zanevska,3-6 6-3 6-2,0.92,7.4%,9.3%,63.0%,61.8%,37.5%,64.7% (11/17),48.7%,43.2%,2.5%,33.3%,53.8%,44.4% (4/9),2:20
+13-Feb-2023,Doha,3,Hard,Q1,78,100,0,,,Viktoriya Tomova,Maryna Zanevska,7-5 RET,0.81,6.5%,4.3%,58.7%,48.1%,63.2%,75.0% (6/8),46.9%,37.1%,0.0%,31.8%,46.2%,100.0% (1/1),1:01
+30-Jan-2023,Lyon,3,Hard,SF,93,79,0,,,Alycia Parks,Maryna Zanevska,6-3 7-6(4),0.85,1.4%,2.7%,65.8%,58.3%,44.0%,50.0% (4/8),45.8%,39.8%,14.0%,31.6%,52.8%,25.0% (3/12),1:53
+30-Jan-2023,Lyon,3,Hard,QF,93,43,1,,5,Maryna Zanevska,Anastasia Potapova,3-6 6-1 6-2,1.21,4.3%,3.2%,60.2%,62.5%,45.9%,81.8% (18/22),54.7%,53.5%,0.0%,50.0%,60.0%,38.9% (7/18),2:07
+30-Jan-2023,Lyon,3,Hard,R16,93,23,1,,2,Maryna Zanevska,Shuai Zhang,6-2 6-0,1.59,11.8%,11.8%,54.9%,67.9%,60.9%,100.0% (1/1),60.2%,56.1%,3.5%,45.7%,72.7%,50.0% (5/10),1:08
+30-Jan-2023,Lyon,3,Hard,R32,93,91,1,,,Maryna Zanevska,Dalma Galfi,6-1 7-6(3),1.29,1.4%,2.9%,52.9%,73.0%,60.6%,83.3% (5/6),55.8%,42.4%,3.4%,21.9%,66.7%,50.0% (3/6),1:29
+16-Jan-2023,Australian Open,5,Hard,R128,80,9,0,,9,Veronika Kudermetova,Maryna Zanevska,6-2 7-6(4),0.66,4.5%,6.1%,66.7%,68.2%,27.3%,25.0% (1/4),42.6%,30.2%,9.5%,18.4%,48.0%,16.7% (1/6),1:37
+9-Jan-2023,Hobart,3,Hard,R16,87,280,0,Q,WC,Sofia Kenin,Maryna Zanevska,6-2 6-3,0.63,2.0%,6.0%,74.0%,51.4%,30.8%,50.0% (5/10),40.0%,34.0%,4.0%,28.6%,62.5%,50.0% (2/4),1:08
+9-Jan-2023,Hobart,3,Hard,R32,87,27,1,Q,2,Maryna Zanevska,Elise Mertens,6-4 6-4,1.18,2.7%,6.8%,63.5%,53.2%,66.7%,72.7% (8/11),53.8%,49.3%,4.2%,40.0%,65.4%,41.7% (5/12),1:55
+9-Jan-2023,Hobart,3,Hard,Q2,87,269,1,7,,Maryna Zanevska,Kristina Kucova,6-4 6-1,1.50,15.9%,6.8%,61.4%,66.7%,58.8%,0.0% (0/2),58.8%,54.7%,0.0%,51.9%,57.7%,66.7% (6/9),1:13
+9-Jan-2023,Hobart,3,Hard,Q1,87,318,1,7,,Maryna Zanevska,Malene Helgo,6-4 6-2,1.27,7.1%,16.1%,64.3%,75.0%,35.0%,50.0% (2/4),55.5%,50.0%,3.7%,40.7%,59.3%,62.5% (5/8),1:23
+9-Nov-2022,BJK Cup Finals RR: SVK vs BEL,3,Hard,RR,81,100,0,,,Anna Karolina Schmiedlova,Maryna Zanevska,5-7 6-2 6-3,,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,F,85,90,1,7,5,Maryna Zanevska,Viktorija Golubic,7-6(6) 6-1,1.31,1.6%,4.7%,68.8%,70.5%,40.0%,33.3% (1/3),55.8%,51.4%,0.0%,41.2%,73.9%,50.0% (5/10),1:41
 17-Oct-2022,Rouen 125,3,Hard,SF,85,121,1,7,ALT,Maryna Zanevska,Kamilla Rakhimova,4-6 7-6(4) 6-1,1.24,5.1%,1.3%,60.3%,68.1%,54.8%,16.7% (1/6),53.3%,46.1%,2.0%,40.6%,57.6%,42.9% (6/14),2:21
 17-Oct-2022,Rouen 125,3,Hard,QF,85,117,1,7,Q,Maryna Zanevska,Caty Mcnally,7-5 2-6 6-3,1.13,2.5%,1.2%,69.1%,67.9%,60.0%,50.0% (3/6),51.1%,38.9%,4.2%,35.3%,48.1%,27.3% (3/11),2:03
@@ -23,7 +48,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jun-2022,Wimbledon,5,Grass,R128,68,14,0,,13,Barbora Krejcikova,Maryna Zanevska,7-6(4) 6-3,0.71,5.2%,6.5%,64.9%,58.0%,48.1%,25.0% (1/4),44.1%,32.4%,7.4%,22.4%,57.9%,100.0% (2/2),1:40
 20-Jun-2022,Eastbourne,3,Grass,R64,68,257,0,,Q,Kirsten Flipkens,Maryna Zanevska,6-2 6-3,0.77,4.0%,10.0%,62.0%,54.8%,21.1%,25.0% (2/8),43.4%,44.4%,0.0%,35.6%,66.7%,60.0% (3/5),1:12
 13-Jun-2022,Berlin,3,Grass,R32,67,27,0,,,Ekaterina Alexandrova,Maryna Zanevska,6-3 6-4,0.71,7.7%,7.7%,65.4%,76.5%,38.9%,0.0% (0/3),45.1%,26.0%,10.0%,13.0%,37.0%,- (0/0),1:06
-23-May-2022,Roland Garros,5,Clay,R128,62,74,0,,,Qinwen Zheng,Maryna Zanevska,6-3 6-1,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,62,74,0,,,Qinwen Zheng,Maryna Zanevska,6-3 6-1,0.50,0.0%,3.6%,64.3%,47.2%,45.0%,42.9% (3/7),37.6%,26.7%,13.3%,4.5%,47.8%,0.0% (0/1),
 16-May-2022,Strasbourg,3,Clay,QF,65,8,0,,1,Karolina Pliskova,Maryna Zanevska,6-4 7-6(6),0.85,0.0%,8.2%,65.8%,60.4%,44.0%,42.9% (3/7),46.2%,38.6%,7.2%,30.6%,50.0%,33.3% (3/9),1:52
 16-May-2022,Strasbourg,3,Clay,R16,65,112,1,,,Maryna Zanevska,Harmony Tan,4-6 7-5 6-1,1.14,0.0%,3.3%,62.2%,64.3%,44.1%,58.3% (7/12),52.7%,49.5%,1.8%,43.8%,57.4%,44.4% (8/18),2:30
 16-May-2022,Strasbourg,3,Clay,R32,65,41,1,,5,Maryna Zanevska,Shuai Zhang,6-2 6-3,1.32,4.3%,6.4%,66.0%,54.8%,50.0%,50.0% (3/6),57.8%,61.8%,3.6%,60.0%,65.0%,100.0% (7/7),1:05
@@ -32,7 +57,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-May-2022,Saint Malo 125,3,Clay,R16,70,146,1,5,,Maryna Zanevska,Fiona Ferro,6-4 7-5,1.14,0.0%,5.7%,58.6%,51.2%,51.7%,37.5% (3/8),53.4%,55.3%,0.0%,59.6%,48.3%,43.8% (7/16),1:45
 2-May-2022,Saint Malo 125,3,Clay,R32,70,237,1,5,Q,Maryna Zanevska,Jaimee Fourlis,2-6 7-5 7-6(4),1.02,3.7%,10.2%,53.7%,65.5%,44.0%,50.0% (6/12),50.2%,45.2%,0.0%,46.3%,42.9%,50.0% (5/10),2:50
 21-Mar-2022,Miami,3,Hard,R128,68,61,0,,,Kaia Kanepi,Maryna Zanevska,6-2 RET,0.73,0.0%,4.2%,54.2%,46.2%,27.3%,25.0% (1/4),42.4%,45.7%,0.0%,36.8%,56.3%,20.0% (1/5),0:43
-7-Mar-2022,Indian Wells,3,Hard,R128,68,54,0,,,Marta Kostyuk,Maryna Zanevska,6-7(5) 7-6(6) 7-5 (ch),0.90,0.8%,5.3%,57.3%,64.0%,32.1%,53.3% (8/15),47.5%,44.6%,2.3%,37.0%,57.1%,46.2% (6/13),3:09
+7-Mar-2022,Indian Wells,3,Hard,R128,68,54,0,,,Marta Kostyuk,Maryna Zanevska,6-7(5) 7-6(6) 7-5,0.90,0.8%,5.3%,57.3%,64.0%,32.1%,53.3% (8/15),47.5%,44.6%,2.3%,37.0%,57.1%,46.2% (6/13),3:09
 21-Feb-2022,Doha,3,Hard,Q2,69,90,0,7,14,Kaja Juvan,Maryna Zanevska,2-6 6-1 7-5,0.87,2.2%,7.8%,46.7%,64.3%,37.5%,50.0% (6/12),46.9%,43.7%,10.3%,35.7%,51.1%,62.5% (5/8),2:00
 21-Feb-2022,Doha,3,Hard,Q1,69,98,1,7,,Maryna Zanevska,Bernarda Pera,6-3 3-0 RET,1.94,8.8%,8.8%,50.0%,64.7%,70.6%,0.0% (0/1),65.2%,62.9%,5.7%,43.8%,78.9%,57.1% (4/7),0:49
 14-Feb-2022,Dubai,3,Hard,Q3,69,80,0,,,Varvara Gracheva,Maryna Zanevska,6-1 6-7(4) 6-3,0.86,5.9%,4.7%,56.5%,64.6%,45.9%,45.5% (5/11),46.0%,37.3%,2.9%,38.3%,35.7%,50.0% (3/6),2:17
@@ -54,10 +79,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Aug-2021,US Open,5,Hard,Q2,113,243,0,9,,En Shuo Liang,Maryna Zanevska,7-6(5) 6-4,0.99,8.1%,9.5%,55.4%,80.5%,27.3%,44.4% (4/9),49.4%,43.0%,3.5%,35.7%,56.7%,44.4% (4/9),1:39
 30-Aug-2021,US Open,5,Hard,Q1,113,182,1,9,,Maryna Zanevska,Asia Muhammad,6-4 6-3,1.30,5.1%,3.4%,59.3%,82.9%,41.7%,50.0% (1/2),54.3%,44.1%,4.4%,43.2%,45.2%,50.0% (4/8),1:24
 16-Aug-2021,Chicago 125,3,Hard,R32,115,128,0,Q,,Kateryna Baindl,Maryna Zanevska,5-7 6-4 7-6(2),0.96,4.2%,7.5%,60.0%,61.1%,35.4%,58.8% (10/17),49.0%,47.2%,1.6%,42.3%,53.7%,53.8% (7/13),3:06
-19-Jul-2021,Gdynia,3,Clay,F,165,150,1,,,Maryna Zanevska,Kristina Kucova,6-4 7-6(4) (ch),1.16,1.3%,2.7%,58.7%,59.1%,54.8%,61.5% (8/13),53.3%,49.4%,0.0%,40.0%,66.7%,30.0% (6/20),1:51
+19-Jul-2021,Gdynia,3,Clay,F,165,150,1,,,Maryna Zanevska,Kristina Kucova,6-4 7-6(4),1.16,1.3%,2.7%,58.7%,59.1%,54.8%,61.5% (8/13),53.3%,49.4%,0.0%,40.0%,66.7%,30.0% (6/20),1:51
 19-Jul-2021,Gdynia,3,Clay,SF,165,141,1,,,Maryna Zanevska,Kateryna Baindl,6-2 4-6 6-3,1.21,2.4%,3.5%,67.1%,64.9%,46.4%,50.0% (4/8),54.5%,50.0%,0.0%,48.1%,53.6%,60.0% (6/10),2:00
 19-Jul-2021,Gdynia,3,Clay,QF,165,112,1,,9,Maryna Zanevska,Nuria Parrizas Diaz,6-3 6-2,1.82,1.9%,0.0%,64.2%,73.5%,73.7%,100.0% (2/2),61.2%,48.0%,2.0%,41.0%,72.7%,37.5% (3/8),1:17
-19-Jul-2021,Gdynia,3,Clay,R16,165,156,1,,,Maryna Zanevska,Viktoria Kuzmova,6-2 6-1,1.73,5.8%,3.8%,57.7%,80.0%,54.5%,100.0% (1/1),61.9%,53.3%,4.4%,42.3%,68.4%,50.0% (4/8),1:05
+19-Jul-2021,Gdynia,3,Clay,R16,165,156,1,,,Maryna Zanevska,Viktoria Hruncakova,6-2 6-1,1.73,5.8%,3.8%,57.7%,80.0%,54.5%,100.0% (1/1),61.9%,53.3%,4.4%,42.3%,68.4%,50.0% (4/8),1:05
 19-Jul-2021,Gdynia,3,Clay,R32,165,228,1,,LL,Maryna Zanevska,Jamie Loeb,6-2 6-0,1.98,2.2%,6.7%,66.7%,76.7%,53.3%,100.0% (3/3),65.5%,61.5%,5.1%,65.0%,57.9%,55.6% (5/9),1:01
 12-Jul-2021,Lausanne,3,Clay,SF,193,50,0,,1,Tamara Zidansek,Maryna Zanevska,7-5 6-3,0.78,0.0%,6.8%,69.5%,53.7%,33.3%,44.4% (4/9),43.9%,41.1%,2.7%,39.6%,44.0%,33.3% (3/9),1:35
 12-Jul-2021,Lausanne,3,Clay,QF,193,175,1,,,Maryna Zanevska,Natalia Vikhlyantseva,7-5 6-4,1.12,3.1%,7.7%,41.5%,44.4%,60.5%,42.9% (3/7),52.8%,51.7%,1.7%,39.4%,68.0%,66.7% (6/9),1:37
@@ -71,7 +96,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-May-2021,W25 Otocec,3,Clay,QF,227,797,1,,SE,Maryna Zanevska,Leolia Jeanjean,6-2 6-0,,,,,,,,,,,,,,
 31-May-2021,W25 Otocec,3,Clay,R16,227,222,1,,7,Maryna Zanevska,Maja Chwalinska,6-0 RET,,,,,,,,,,,,,,
 31-May-2021,W25 Otocec,3,Clay,R32,227,457,1,,Q,Maryna Zanevska,Monika Kilnarova,6-3 6-0,,,,,,,,,,,,,,
-24-May-2021,Strasbourg,3,Clay,R16,259,7,0,Q,1,Bianca Andreescu,Maryna Zanevska,6-1 6-4 (ch),0.64,4.4%,13.3%,60.0%,66.7%,16.7%,0.0% (0/5),40.2%,34.0%,4.3%,31.3%,40.0%,66.7% (2/3),1:05
+24-May-2021,Strasbourg,3,Clay,R16,259,7,0,Q,1,Bianca Andreescu,Maryna Zanevska,6-1 6-4,0.64,4.4%,13.3%,60.0%,66.7%,16.7%,0.0% (0/5),40.2%,34.0%,4.3%,31.3%,40.0%,66.7% (2/3),1:05
 24-May-2021,Strasbourg,3,Clay,R32,259,280,1,Q,Q,Maryna Zanevska,Yuliya Hatouka,6-2 6-1,2.35,0.0%,0.0%,69.4%,80.0%,54.5%,0.0% (0/1),68.2%,65.3%,2.0%,51.6%,88.9%,54.5% (6/11),0:57
 24-May-2021,Strasbourg,3,Clay,Q2,259,271,1,12,,Maryna Zanevska,Despina Papamichail,4-6 6-2 7-5,1.18,1.0%,9.4%,64.6%,62.9%,41.2%,40.0% (4/10),54.1%,53.0%,3.0%,45.2%,65.8%,66.7% (8/12),2:35
 24-May-2021,Strasbourg,3,Clay,Q1,259,493,1,12,WC,Maryna Zanevska,Elsa Jacquemot,7-5 7-6(3),1.17,2.4%,9.6%,51.8%,65.1%,52.5%,57.1% (4/7),53.2%,47.7%,10.2%,40.7%,62.1%,44.4% (4/9),2:02
@@ -211,7 +236,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Mar-2018,Shenzhen $60K,3,Hard,R32,183,586,1,SE,,Maryna Zanevska,Xin Yu Wang,5-7 6-4 6-4,,,,,,,,,,,,,,
 5-Mar-2018,Zhuhai $60K,3,Hard,F,183,185,1,,,Maryna Zanevska,Marta Kostyuk,6-2 6-4,,,,,,,,,,,,,,
 5-Mar-2018,Zhuhai $60K,3,Hard,SF,183,173,1,,,Maryna Zanevska,Anna Kalinskaya,7-5 6-4,,,,,,,,,,,,,,
-5-Mar-2018,Zhuhai $60K,3,Hard,QF,183,113,1,,4,Maryna Zanevska,Viktoria Kuzmova,4-6 7-6(5) 6-0,,,,,,,,,,,,,,
+5-Mar-2018,Zhuhai $60K,3,Hard,QF,183,113,1,,4,Maryna Zanevska,Viktoria Hruncakova,4-6 7-6(5) 6-0,,,,,,,,,,,,,,
 5-Mar-2018,Zhuhai $60K,3,Hard,R16,183,156,1,,,Maryna Zanevska,Lizette Cabrera,6-3 6-3,,,,,,,,,,,,,,
 5-Mar-2018,Zhuhai $60K,3,Hard,R32,183,220,1,,,Maryna Zanevska,Jessica Pieri,6-4 1-0 RET,,,,,,,,,,,,,,
 19-Feb-2018,Altenkirchen $25K,3,Carpet,SF,189,265,0,,,Karolina Muchova,Maryna Zanevska,3-1 RET,,,,,,,,,,,,,,
@@ -254,7 +279,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Mar-2017,Croissy Beaubourg $60K,3,Hard,R16,116,177,1,5,,Maryna Zanevska,Anastasiya Komardina,6-2 6-2,,,,,,,,,,,,,,
 27-Mar-2017,Croissy Beaubourg $60K,3,Hard,R32,116,231,1,5,,Maryna Zanevska,Marie Bouzkova,6-2 6-3,,,,,,,,,,,,,,
 13-Mar-2017,Shenzhen $60K,3,Hard,R32,121,159,0,7,,Anna Kalinskaya,Maryna Zanevska,7-5 4-1 RET,,,,,,,,,,,,,,
-6-Mar-2017,Zhuhai $60K,3,Hard,SF,121,113,0,7,6,Denisa Allertova,Maryna Zanevska,7-5 6-3 (ch),,,,,,,,,,,,,,
+6-Mar-2017,Zhuhai $60K,3,Hard,SF,121,113,0,7,6,Denisa Allertova,Maryna Zanevska,7-5 6-3,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,QF,121,100,1,7,1,Maryna Zanevska,Su Wei Hsieh,6-2 6-4,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,R16,121,333,1,7,Q,Maryna Zanevska,Patty Schnyder,5-7 6-1 6-3,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,R32,121,119,1,7,,Maryna Zanevska,Xinyun Han,6-2 5-7 7-5,,,,,,,,,,,,,,
@@ -270,12 +295,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jan-2017,Australian Open,5,Hard,Q1,122,159,1,8,,Maryna Zanevska,Anastasia Pivovarova,5-7 7-6(2) 6-3,,,,,,,,,,,,,,
 14-Nov-2016,Limoges,3,Hard,QF,128,133,0,,,Ekaterina Alexandrova,Maryna Zanevska,7-6(5) 7-5,0.84,1.2%,6.0%,59.5%,66.0%,47.1%,50.0% (4/8),47.2%,35.1%,10.4%,19.6%,58.1%,60.0% (3/5),1:34
 14-Nov-2016,Limoges,3,Hard,R16,128,105,1,,7,Maryna Zanevska,Mandy Minella,6-2 7-5,1.36,1.5%,4.4%,60.3%,78.0%,40.7%,75.0% (6/8),57.0%,50.0%,3.3%,35.3%,69.2%,50.0% (5/10),1:20
-14-Nov-2016,Limoges,3,Hard,R32,128,205,1,,LL,Maryna Zanevska,Lina Gjorcheska,6-1 6-3 (ch),1.53,1.7%,5.0%,60.0%,66.7%,45.8%,75.0% (6/8),60.7%,63.8%,2.1%,42.9%,94.7%,75.0% (6/8),1:02
+14-Nov-2016,Limoges,3,Hard,R32,128,205,1,,LL,Maryna Zanevska,Lina Gjorcheska,6-1 6-3,1.53,1.7%,5.0%,60.0%,66.7%,45.8%,75.0% (6/8),60.7%,63.8%,2.1%,42.9%,94.7%,75.0% (6/8),1:02
 24-Oct-2016,Poitiers $100K,3,Hard,R16,128,83,0,SE,4,Oceane Dodin,Maryna Zanevska,5-0 RET,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,R32,128,107,1,SE,,Maryna Zanevska,Sara Sorribes Tormo,7-6(3) 6-2,,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,F,153,334,1,2,,Maryna Zanevska,Elena Gabriela Ruse,6-3 6-3,,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,SF,153,187,1,2,4,Maryna Zanevska,Lesley Pattinama Kerkhove,6-1 6-0,,,,,,,,,,,,,,
-17-Oct-2016,Joue Les Tours $50K,3,Hard,QF,153,197,1,2,5,Maryna Zanevska,Ons Jabeur,6-4 7-6(5) (ch),,,,,,,,,,,,,,
+17-Oct-2016,Joue Les Tours $50K,3,Hard,QF,153,197,1,2,5,Maryna Zanevska,Ons Jabeur,6-4 7-6(5),,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,R16,153,382,1,2,,Maryna Zanevska,Marie Benoit,6-2 6-4,,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,R32,153,303,1,2,,Maryna Zanevska,Patty Schnyder,3-6 6-1 6-3,,,,,,,,,,,,,,
 10-Oct-2016,Equeurdreville $25K,3,Hard,F,149,203,0,2,8,Arantxa Rus,Maryna Zanevska,6-2 6-1,,,,,,,,,,,,,,
@@ -287,7 +312,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2016,Saint Malo $50K,3,Clay,SF,192,132,1,8,1,Maryna Zanevska,Silvia Soler Espinosa,6-2 6-2,,,,,,,,,,,,,,
 19-Sep-2016,Saint Malo $50K,3,Clay,QF,192,205,1,8,,Maryna Zanevska,Viktoria Kamenskaya,7-6(5) 6-2,,,,,,,,,,,,,,
 19-Sep-2016,Saint Malo $50K,3,Clay,R16,192,458,1,8,Q,Maryna Zanevska,Alice Matteucci,4-6 6-1 6-1,,,,,,,,,,,,,,
-19-Sep-2016,Saint Malo $50K,3,Clay,R32,192,222,1,8,,Maryna Zanevska,Lina Gjorcheska,6-4 6-0 (ch),,,,,,,,,,,,,,
+19-Sep-2016,Saint Malo $50K,3,Clay,R32,192,222,1,8,,Maryna Zanevska,Lina Gjorcheska,6-4 6-0,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R16,194,267,0,,,Veronika Kudermetova,Maryna Zanevska,4-6 6-4 6-2,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R32,194,170,1,,,Maryna Zanevska,Tamara Korpatsch,7-6(2) 6-3,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,R32,167,237,0,,,Cristina Dinu,Maryna Zanevska,2-6 7-6(5) 6-3,,,,,,,,,,,,,,

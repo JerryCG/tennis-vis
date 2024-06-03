@@ -1,4 +1,94 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,Parma 125,3,Clay,F,67,80,1,4,8,Anna Karolina Schmiedlova,Mayar Sherif,7-5 2-6 6-4,1.02,2.4%,4.7%,56.5%,47.9%,56.8%,53.3% (8/15),50.3%,49.1%,2.7%,47.8%,54.5%,63.6% (7/11),2:53
+13-May-2024,Parma 125,3,Clay,SF,67,105,1,4,,Anna Karolina Schmiedlova,Jule Niemeier,6-4 6-7(11) 7-5,1.07,0.8%,7.0%,62.8%,58.0%,37.5%,52.6% (10/19),51.7%,52.9%,2.9%,48.6%,57.1%,50.0% (11/22),3:38
+13-May-2024,Parma 125,3,Clay,QF,67,520,1,4,Q,Anna Karolina Schmiedlova,Jesika Maleckova,6-0 7-5,1.40,3.4%,1.7%,74.6%,70.5%,13.3%,62.5% (5/8),59.0%,61.9%,0.0%,61.9%,61.9%,43.8% (7/16),1:45
+13-May-2024,Parma 125,3,Clay,R16,67,270,1,4,WC,Anna Karolina Schmiedlova,Georgia Pedone,6-3 6-0,2.33,7.5%,0.0%,60.0%,75.0%,75.0%,50.0% (1/2),66.3%,58.1%,0.0%,50.0%,70.6%,71.4% (5/7),1:11
+13-May-2024,Parma 125,3,Clay,R32,67,141,1,4,,Anna Karolina Schmiedlova,Dalma Galfi,6-3 7-6(5),1.29,0.0%,1.4%,72.5%,76.0%,47.4%,66.7% (4/6),54.2%,41.1%,2.7%,36.5%,52.4%,25.0% (3/12),1:46
+6-May-2024,Rome,3,Clay,R128,67,113,0,,Q,Aliaksandra Sasnovich,Anna Karolina Schmiedlova,6-2 7-6(6),0.85,1.2%,12.3%,64.2%,61.5%,31.0%,77.8% (14/18),46.5%,42.1%,1.3%,47.2%,30.4%,40.0% (2/5),1:59
+22-Apr-2024,Madrid,3,Clay,R64,68,9,0,,8,Ons Jabeur,Anna Karolina Schmiedlova,6-4 5-7 6-3,0.93,0.0%,5.8%,58.3%,58.3%,41.9%,38.5% (5/13),48.3%,45.2%,3.8%,43.5%,47.6%,40.0% (6/15),2:28
+22-Apr-2024,Madrid,3,Clay,R128,68,60,1,,,Anna Karolina Schmiedlova,Sofia Kenin,6-3 6-4,1.38,6.7%,3.3%,66.7%,70.0%,60.0%,83.3% (5/6),57.4%,45.8%,0.0%,43.3%,50.0%,75.0% (3/4),1:18
+15-Apr-2024,Rouen,3,Clay,R16,68,23,0,,2,Caroline Garcia,Anna Karolina Schmiedlova,6-1 6-0,0.29,2.2%,6.7%,62.2%,42.9%,35.3%,45.5% (5/11),31.1%,17.2%,27.6%,0.0%,55.6%,- (0/0),0:48
+15-Apr-2024,Rouen,3,Clay,R32,68,49,1,,,Anna Karolina Schmiedlova,Diane Parry,3-6 3-1 RET,1.01,6.5%,6.5%,63.0%,58.6%,29.4%,33.3% (2/6),50.0%,52.6%,0.0%,45.5%,62.5%,75.0% (3/4),1:08
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,68,812,1,,,Anna Karolina Schmiedlova,Ela Nala Milic,6-4 6-3,1.14,1.7%,10.3%,62.1%,61.1%,27.3%,28.6% (2/7),54.5%,59.2%,0.0%,56.0%,65.4%,50.0% (8/16),
+18-Mar-2024,Miami,3,Hard,R128,69,56,0,Q,,Xiyu Wang,Anna Karolina Schmiedlova,6-1 6-3,0.66,0.0%,5.0%,58.3%,45.7%,32.0%,40.0% (4/10),39.8%,39.6%,5.7%,24.1%,58.3%,25.0% (2/8),1:31
+18-Mar-2024,Miami,3,Hard,Q2,69,117,1,1,,Anna Karolina Schmiedlova,Rebecca Sramkova,6-3 3-6 6-3,1.11,7.6%,3.8%,57.0%,68.9%,55.9%,40.0% (2/5),52.3%,40.8%,10.5%,31.4%,60.0%,57.1% (4/7),2:07
+18-Mar-2024,Miami,3,Hard,Q1,69,110,1,1,,Anna Karolina Schmiedlova,Anna Bondar,6-3 6-2,1.61,0.0%,1.8%,77.2%,75.0%,53.8%,100.0% (1/1),60.0%,47.9%,14.6%,40.0%,61.1%,42.9% (3/7),1:20
+6-Mar-2024,Indian Wells,3,Hard,R128,69,42,0,,,Xin Yu Wang,Anna Karolina Schmiedlova,6-0 6-4,0.63,2.1%,2.1%,52.1%,60.0%,30.4%,28.6% (2/7),39.6%,34.0%,5.7%,31.3%,38.1%,33.3% (1/3),1:10
+26-Feb-2024,Austin,3,Hard,SF,76,68,0,,8,Yue Yuan,Anna Karolina Schmiedlova,6-0 6-3,0.63,0.0%,8.5%,61.7%,55.2%,16.7%,45.5% (5/11),38.8%,37.3%,13.7%,34.4%,42.1%,25.0% (1/4),1:10
+26-Feb-2024,Austin,3,Hard,QF,76,485,1,,,Anna Karolina Schmiedlova,Anastasija Sevastova,4-6 1-2 RET,0.81,0.0%,7.5%,50.0%,65.0%,35.0%,20.0% (1/5),44.8%,40.4%,4.3%,31.4%,66.7%,33.3% (2/6),1:10
+26-Feb-2024,Austin,3,Hard,R16,76,134,1,,Q,Anna Karolina Schmiedlova,Sachia Vickery,5-7 7-6(5) 7-5,1.01,0.9%,5.6%,67.6%,63.0%,37.1%,33.3% (4/12),50.2%,45.9%,0.9%,39.0%,53.8%,61.5% (8/13),2:50
+26-Feb-2024,Austin,3,Hard,R32,76,61,1,,7,Anna Karolina Schmiedlova,Peyton Stearns,6-2 4-6 7-5,1.13,6.7%,2.9%,55.8%,70.7%,50.0%,25.0% (1/4),53.1%,43.5%,4.3%,40.3%,50.0%,41.7% (5/12),2:38
+19-Feb-2024,Puerto Vallarta 125,3,Hard,R32,78,137,0,1,,Sachia Vickery,Anna Karolina Schmiedlova,6-2 6-0,0.56,0.0%,2.4%,59.5%,48.0%,29.4%,44.4% (4/9),36.5%,33.3%,3.7%,37.5%,27.3%,0.0% (0/4),1:11
+29-Jan-2024,Hua Hin,3,Hard,R16,79,78,0,8,,Yafan Wang,Anna Karolina Schmiedlova,6-2 6-4,0.72,1.6%,7.9%,55.6%,54.3%,53.6%,55.6% (5/9),44.4%,33.3%,5.6%,20.0%,57.9%,20.0% (1/5),1:32
+29-Jan-2024,Hua Hin,3,Hard,R32,79,117,1,8,Q,Anna Karolina Schmiedlova,Mai Hontama,7-6(5) 7-6(8),1.03,1.1%,5.6%,58.9%,52.8%,48.6%,16.7% (1/6),50.7%,50.4%,3.4%,34.7%,75.6%,35.7% (5/14),2:45
+15-Jan-2024,Australian Open,5,Hard,R128,68,4,0,,4,Coco Gauff,Anna Karolina Schmiedlova,6-3 6-0,0.44,0.0%,8.1%,43.2%,31.3%,14.3%,22.2% (2/9),28.0%,34.2%,7.9%,28.6%,41.2%,60.0% (3/5),1:00
+8-Jan-2024,Hobart,3,Hard,R16,67,29,0,Q,1,Elise Mertens,Anna Karolina Schmiedlova,6-2 6-3,0.45,1.9%,5.7%,62.3%,63.6%,15.0%,37.5% (3/8),36.2%,24.4%,12.2%,15.4%,40.0%,50.0% (1/2),1:16
+8-Jan-2024,Hobart,3,Hard,R32,67,79,1,Q,Q,Anna Karolina Schmiedlova,Camila Osorio,1-6 7-6(4) 7-5,1.05,0.0%,5.4%,57.6%,62.3%,46.2%,36.4% (4/11),50.7%,47.0%,2.6%,40.0%,70.4%,35.3% (6/17),2:32
+8-Jan-2024,Hobart,3,Hard,Q2,67,85,1,6,12,Anna Karolina Schmiedlova,Linda Fruhvirtova,6-4 6-2,1.36,4.8%,3.2%,61.9%,66.7%,54.2%,71.4% (5/7),57.4%,51.9%,3.8%,45.7%,64.7%,71.4% (5/7),1:25
+8-Jan-2024,Hobart,3,Hard,Q1,67,99,1,6,,Anna Karolina Schmiedlova,Tamara Zidansek,6-1 6-3,1.48,3.9%,5.9%,52.9%,70.4%,58.3%,75.0% (3/4),57.9%,52.4%,3.2%,32.3%,71.9%,45.5% (5/11),1:29
+1-Jan-2024,Brisbane,3,Hard,R32,73,16,0,,6,Veronika Kudermetova,Anna Karolina Schmiedlova,6-2 6-3,0.46,2.1%,4.3%,59.6%,67.9%,36.8%,42.9% (3/7),38.5%,20.5%,27.3%,13.3%,35.7%,- (0/0),1:14
+1-Jan-2024,Brisbane,3,Hard,R64,73,45,1,,,Anna Karolina Schmiedlova,Caroline Dolehide,3-6 6-4 6-2,1.09,3.4%,3.4%,61.8%,67.3%,47.1%,42.9% (3/7),51.6%,44.2%,7.4%,44.9%,42.3%,38.5% (5/13),2:25
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,71,158,0,,,Julia Riera,Anna Karolina Schmiedlova,7-5 7-5,0.80,2.4%,5.9%,54.1%,45.7%,61.5%,54.5% (6/11),45.7%,37.7%,3.9%,26.4%,62.5%,60.0% (3/5),
+16-Oct-2023,Monastir,3,Hard,R32,61,77,0,5,,Nadia Podoroska,Anna Karolina Schmiedlova,3-6 6-4 7-5,0.97,2.3%,7.0%,56.6%,58.9%,46.4%,65.0% (13/20),50.0%,44.9%,4.5%,44.3%,46.4%,50.0% (6/12),2:54
+9-Oct-2023,Seoul,3,Hard,R32,59,119,0,,,Eva Lys,Anna Karolina Schmiedlova,6-2 6-4,0.85,3.4%,6.8%,50.8%,53.3%,37.9%,45.5% (5/11),46.0%,46.2%,0.0%,38.6%,61.9%,25.0% (3/12),1:40
+18-Sep-2023,Parma 125,3,Clay,F,58,71,0,1,2,Ana Bogdan,Anna Karolina Schmiedlova,7-5 6-1,0.82,1.3%,5.2%,48.1%,48.6%,47.5%,66.7% (12/18),45.6%,42.4%,1.7%,43.9%,38.9%,28.6% (2/7),1:53
+18-Sep-2023,Parma 125,3,Clay,SF,58,246,1,1,Q,Anna Karolina Schmiedlova,Katarzyna Kawa,7-5 7-5,1.18,1.4%,5.5%,58.9%,58.1%,46.7%,50.0% (5/10),54.1%,54.8%,1.4%,54.0%,56.5%,77.8% (7/9),1:48
+18-Sep-2023,Parma 125,3,Clay,QF,58,108,1,1,6,Anna Karolina Schmiedlova,Kaja Juvan,6-1 6-7(4) 6-4,1.15,0.0%,7.0%,67.0%,61.2%,33.3%,57.1% (8/14),53.7%,55.3%,1.8%,53.6%,57.8%,58.8% (10/17),2:41
+18-Sep-2023,Parma 125,3,Clay,R16,58,298,1,1,,Anna Karolina Schmiedlova,Reka Luca Jani,6-3 6-2,1.59,7.5%,1.9%,56.6%,60.0%,73.9%,66.7% (4/6),60.0%,53.8%,0.0%,55.3%,50.0%,45.5% (5/11),1:22
+18-Sep-2023,Parma 125,3,Clay,R32,58,168,1,1,,Anna Karolina Schmiedlova,Carole Monnet,6-3 6-4,1.31,4.8%,0.0%,58.7%,67.6%,50.0%,50.0% (3/6),56.4%,51.9%,0.0%,44.4%,66.7%,45.5% (5/11),1:39
+11-Sep-2023,Ljubljana 125,3,Clay,R16,58,251,0,1,,Katarzyna Kawa,Anna Karolina Schmiedlova,7-5 6-2,0.73,1.6%,1.6%,59.0%,58.3%,44.0%,54.5% (6/11),43.5%,34.9%,3.2%,39.4%,30.0%,28.6% (2/7),1:35
+11-Sep-2023,Ljubljana 125,3,Clay,R32,58,192,1,1,,Anna Karolina Schmiedlova,Nigina Abduraimova,6-3 6-2,1.26,4.0%,6.0%,68.0%,64.7%,31.3%,50.0% (3/6),56.1%,57.8%,0.0%,59.0%,56.0%,70.0% (7/10),1:26
+28-Aug-2023,US Open,5,Hard,R32,64,53,0,,,Xin Yu Wang,Anna Karolina Schmiedlova,4-6 6-3 6-2,0.81,4.6%,3.4%,58.6%,66.7%,41.7%,50.0% (5/10),45.9%,35.3%,1.2%,32.7%,38.9%,18.2% (2/11),2:08
+28-Aug-2023,US Open,5,Hard,R64,64,71,1,,,Anna Karolina Schmiedlova,Rebeka Masarova,7-6(0) 6-2,1.39,4.6%,4.6%,66.2%,79.1%,50.0%,80.0% (4/5),55.6%,42.6%,1.5%,33.3%,60.9%,42.9% (3/7),1:35
+28-Aug-2023,US Open,5,Hard,R128,64,83,1,,,Anna Karolina Schmiedlova,Kateryna Baindl,6-4 3-6 6-3,1.07,11.0%,6.6%,52.7%,75.0%,39.5%,60.0% (6/10),51.4%,44.6%,2.2%,42.3%,52.4%,45.5% (5/11),2:35
+14-Aug-2023,Barranquilla 125,3,Hard,SF,70,252,0,2,,Fiona Ferro,Anna Karolina Schmiedlova,4-6 6-4 6-2,0.90,0.0%,9.9%,53.5%,61.1%,31.9%,63.6% (14/22),47.3%,47.1%,2.4%,44.1%,53.8%,54.5% (6/11),2:25
+14-Aug-2023,Barranquilla 125,3,Hard,QF,70,135,1,2,8,Anna Karolina Schmiedlova,Laura Pigossi,6-3 2-6 6-2,1.07,1.3%,7.6%,49.4%,79.5%,42.5%,33.3% (2/6),52.0%,42.0%,0.0%,36.5%,58.8%,55.6% (5/9),2:03
+14-Aug-2023,Barranquilla 125,3,Hard,R16,70,168,1,2,,Anna Karolina Schmiedlova,Emiliana Arango,6-0 6-2,1.41,0.0%,8.7%,60.9%,67.9%,38.9%,50.0% (2/4),59.5%,61.4%,0.0%,48.8%,79.3%,70.0% (7/10),1:29
+14-Aug-2023,Barranquilla 125,3,Hard,R32,70,925,1,2,WC,Anna Karolina Schmiedlova,Maria Paulina Perez Garcia,4-6 7-6(4) 6-3,1.09,0.9%,3.8%,59.4%,61.9%,44.2%,46.2% (6/13),51.8%,49.1%,1.7%,36.8%,66.7%,53.3% (8/15),3:13
+31-Jul-2023,Prague,3,Hard,QF,82,71,0,,4,Linda Noskova,Anna Karolina Schmiedlova,6-0 6-2,0.41,3.0%,9.1%,54.5%,27.8%,20.0%,14.3% (1/7),27.8%,30.8%,10.3%,29.4%,31.8%,33.3% (1/3),0:54
+31-Jul-2023,Prague,3,Hard,R16,82,81,1,,9,Anna Karolina Schmiedlova,Xiyu Wang,4-6 6-2 7-6(6),1.09,1.0%,2.9%,57.8%,61.0%,53.5%,61.5% (8/13),52.0%,45.9%,7.1%,31.3%,73.5%,54.5% (6/11),2:49
+31-Jul-2023,Prague,3,Hard,R32,82,698,1,,,Anna Karolina Schmiedlova,Patricia Maria Tig,6-2 6-2,1.33,0.0%,4.2%,62.0%,54.5%,40.7%,75.0% (12/16),57.1%,67.3%,0.0%,63.6%,72.7%,50.0% (8/16),1:52
+23-Jul-2023,Hamburg,3,Clay,R32,81,96,0,,,Panna Udvardy,Anna Karolina Schmiedlova,3-6 6-3 6-1,0.80,2.2%,5.6%,53.3%,64.6%,40.5%,53.8% (7/13),46.3%,37.5%,4.2%,34.9%,41.4%,33.3% (3/9),2:08
+17-Jul-2023,Budapest,3,Clay,QF,83,88,0,8,,Claire Liu,Anna Karolina Schmiedlova,7-5 6-4,0.84,3.5%,4.7%,58.8%,68.0%,25.7%,50.0% (5/10),46.3%,41.6%,6.5%,36.0%,51.9%,25.0% (3/12),2:11
+17-Jul-2023,Budapest,3,Clay,R16,83,99,1,8,,Anna Karolina Schmiedlova,Tamara Korpatsch,4-6 6-2 6-3,1.12,3.3%,6.7%,66.7%,66.7%,53.3%,66.7% (6/9),53.4%,42.5%,0.0%,39.5%,45.7%,50.0% (5/10),2:26
+17-Jul-2023,Budapest,3,Clay,R32,83,151,1,8,,Anna Karolina Schmiedlova,Polina Kudermetova,6-2 6-0,1.79,2.6%,5.1%,48.7%,68.4%,60.0%,33.3% (1/3),64.1%,64.2%,0.0%,40.9%,80.6%,53.8% (7/13),1:11
+3-Jul-2023,Wimbledon,5,Grass,R128,77,139,0,,Q,Viktorija Golubic,Anna Karolina Schmiedlova,6-3 7-6(4),0.82,0.0%,2.6%,57.1%,63.6%,39.4%,50.0% (4/8),46.3%,38.6%,4.3%,33.3%,50.0%,40.0% (2/5),1:41
+19-Jun-2023,W100 Ilkley,3,Grass,R32,74,152,0,2,,Daria Snigur,Anna Karolina Schmiedlova,6-3 6-1,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R16,100,6,0,,6,Coco Gauff,Anna Karolina Schmiedlova,7-5 6-2,0.73,1.4%,4.3%,56.5%,56.4%,36.7%,40.0% (4/10),43.2%,38.1%,0.0%,25.0%,60.9%,60.0% (3/5),1:32
+29-May-2023,Roland Garros,5,Clay,R32,100,138,1,,Q,Anna Karolina Schmiedlova,Kayla Day,6-1 6-3,1.49,1.9%,7.4%,57.4%,71.0%,47.8%,75.0% (3/4),59.6%,58.0%,0.0%,58.1%,57.9%,62.5% (5/8),1:21
+29-May-2023,Roland Garros,5,Clay,R64,100,131,1,,LL,Anna Karolina Schmiedlova,Aliona Bolsova,6-3 6-4,1.23,1.4%,4.2%,66.7%,58.3%,54.2%,75.0% (9/12),55.1%,53.1%,1.6%,46.8%,70.6%,50.0% (5/10),1:44
+29-May-2023,Roland Garros,5,Clay,R128,100,11,1,,11,Anna Karolina Schmiedlova,Veronika Kudermetova,6-3 6-1,1.48,2.2%,2.2%,58.7%,66.7%,47.4%,0.0% (0/3),60.0%,61.1%,3.7%,53.6%,69.2%,70.0% (7/10),1:19
+15-May-2023,Florence 125,3,Clay,R32,97,132,0,7,,Ylena In Albon,Anna Karolina Schmiedlova,7-6(11) 6-3,0.99,4.1%,4.1%,62.2%,69.6%,46.4%,40.0% (2/5),48.5%,38.9%,2.1%,34.4%,47.1%,28.6% (2/7),2:12
+8-May-2023,W100 Trnava,3,Clay,R16,97,270,0,1,JE,Lucie Havlickova,Anna Karolina Schmiedlova,7-5 6-2,,,,,,,,,,,,,,
+8-May-2023,W100 Trnava,3,Clay,R32,97,1045,1,1,WC,Anna Karolina Schmiedlova,Ela Platenikova,6-0 6-1,,,,,,,,,,,,,,
+1-May-2023,Reus 125,3,Clay,R16,96,44,0,,2,Sorana Cirstea,Anna Karolina Schmiedlova,7-5 6-4,0.86,3.8%,3.8%,65.4%,54.9%,40.7%,60.0% (9/15),46.8%,42.9%,1.6%,45.5%,40.0%,36.4% (4/11),1:42
+1-May-2023,Reus 125,3,Clay,R32,96,141,1,,,Anna Karolina Schmiedlova,Mirjam Bjorklund,6-4 2-6 7-6(1),1.03,4.6%,3.7%,63.9%,55.1%,41.0%,60.0% (12/20),50.7%,51.4%,0.0%,49.3%,55.3%,38.9% (7/18),2:46
+24-Apr-2023,Madrid,3,Clay,R128,96,54,0,Q,,Alycia Parks,Anna Karolina Schmiedlova,6-2 6-7(5) 6-2,0.75,2.1%,6.4%,53.2%,62.0%,47.7%,50.0% (6/12),45.3%,33.3%,17.9%,30.6%,35.7%,100.0% (2/2),2:12
+24-Apr-2023,Madrid,3,Clay,Q2,96,113,1,9,21,Anna Karolina Schmiedlova,Kimberly Birrell,4-6 6-2 6-3,1.10,4.5%,5.6%,49.4%,65.9%,48.9%,60.0% (6/10),51.8%,47.1%,2.9%,40.3%,57.1%,35.3% (6/17),2:43
+24-Apr-2023,Madrid,3,Clay,Q1,96,125,1,9,,Anna Karolina Schmiedlova,Laura Pigossi,6-2 6-4,1.10,5.1%,3.4%,59.3%,60.0%,41.7%,40.0% (2/5),52.4%,52.3%,0.0%,46.8%,66.7%,46.2% (6/13),1:38
+14-Apr-2023,BJK Cup QLS R1: SVK vs ITA,3,Hard,RR,96,43,0,,,Camila Giorgi,Anna Karolina Schmiedlova,6-2 6-3,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup QLS R1: SVK vs ITA,3,Hard,RR,96,66,1,,,Anna Karolina Schmiedlova,Jasmine Paolini,6-1 4-6 6-4,,,,,,,,,,,,,,
+20-Mar-2023,Miami,3,Hard,R128,100,96,0,Q,LL,Viktoriya Tomova,Anna Karolina Schmiedlova,7-5 6-2,0.71,1.7%,6.8%,55.9%,48.5%,57.7%,37.5% (3/8),43.2%,33.9%,5.1%,25.0%,47.8%,50.0% (2/4),1:28
+20-Mar-2023,Miami,3,Hard,Q2,100,122,1,16,,Anna Karolina Schmiedlova,Emma Navarro,7-5 2-6 6-1,0.85,3.0%,3.0%,61.6%,63.9%,55.3%,66.7% (4/6),49.1%,33.3%,4.2%,25.0%,43.8%,60.0% (3/5),2:06
+20-Mar-2023,Miami,3,Hard,Q1,100,284,1,16,WC,Anna Karolina Schmiedlova,Whitney Osuigwe,6-3 6-4,1.21,3.2%,6.3%,61.9%,66.7%,33.3%,55.6% (5/9),54.8%,55.6%,0.0%,51.0%,66.7%,58.3% (7/12),1:40
+6-Mar-2023,Indian Wells,3,Hard,R128,101,56,0,LL,,Claire Liu,Anna Karolina Schmiedlova,7-6(5) 6-3,0.95,1.4%,6.8%,58.1%,67.4%,45.2%,50.0% (3/6),48.7%,39.7%,2.6%,32.7%,53.8%,40.0% (2/5),1:56
+6-Mar-2023,Indian Wells,3,Hard,Q2,101,124,0,11,24,Laura Siegemund,Anna Karolina Schmiedlova,6-4 4-6 6-2,0.88,1.3%,6.3%,50.0%,60.0%,42.5%,12.5% (1/8),46.6%,42.9%,1.0%,39.7%,48.6%,35.7% (5/14),2:37
+6-Mar-2023,Indian Wells,3,Hard,Q1,101,,1,11,WC,Anna Karolina Schmiedlova,Stephanie Yakoff,6-1 6-0,2.05,0.0%,6.0%,58.0%,75.9%,57.1%,100.0% (2/2),67.1%,65.7%,0.0%,62.5%,72.7%,83.3% (5/6),1:00
+27-Feb-2023,Monterrey,3,Hard,R16,100,206,0,,Q,Caroline Dolehide,Anna Karolina Schmiedlova,6-2 6-4,0.67,7.3%,7.3%,58.2%,62.5%,47.8%,57.1% (4/7),42.5%,29.3%,6.9%,19.5%,52.9%,0.0% (0/2),1:17
+27-Feb-2023,Monterrey,3,Hard,R32,100,30,1,,2,Anna Karolina Schmiedlova,Marie Bouzkova,6-4 6-2,1.31,4.5%,6.1%,59.1%,74.4%,40.7%,71.4% (5/7),56.2%,51.6%,1.6%,45.7%,66.7%,50.0% (5/10),1:44
+20-Feb-2023,Merida,3,Hard,Q1,88,146,0,2,,Aliona Bolsova,Anna Karolina Schmiedlova,6-1 6-2,0.52,2.1%,6.3%,52.1%,36.0%,43.5%,14.3% (1/7),36.0%,31.7%,4.9%,25.7%,66.7%,100.0% (1/1),1:11
+30-Jan-2023,Hua Hin,3,Hard,R32,92,186,0,,,Anastasia Zakharova,Anna Karolina Schmiedlova,3-6 7-5 6-3,0.95,4.9%,3.9%,56.9%,67.2%,36.4%,57.1% (8/14),48.6%,43.9%,3.5%,35.4%,55.1%,41.7% (5/12),3:05
+16-Jan-2023,Australian Open,5,Hard,R64,105,70,0,Q,,Camila Giorgi,Anna Karolina Schmiedlova,6-4 6-3,0.78,3.2%,6.3%,60.3%,57.9%,28.0%,33.3% (3/9),44.1%,42.2%,3.1%,21.9%,62.5%,30.0% (3/10),1:29
+16-Jan-2023,Australian Open,5,Hard,R128,105,21,1,Q,21,Anna Karolina Schmiedlova,Martina Trevisan,6-3 6-2,1.41,4.3%,4.3%,57.4%,74.1%,50.0%,0.0% (0/2),57.8%,51.2%,2.3%,33.3%,73.7%,100.0% (5/5),1:11
+16-Jan-2023,Australian Open,5,Hard,Q3,105,129,1,3,21,Anna Karolina Schmiedlova,Elizabeth Mandlik,6-4 6-4,1.09,1.6%,3.1%,56.3%,58.3%,35.7%,44.4% (4/9),52.8%,56.3%,1.3%,47.8%,67.6%,41.2% (7/17),1:41
+16-Jan-2023,Australian Open,5,Hard,Q2,105,164,1,3,,Anna Karolina Schmiedlova,Jessika Ponchet,6-1 6-1,1.86,0.0%,6.7%,60.0%,70.4%,61.1%,100.0% (3/3),64.6%,62.2%,2.7%,46.7%,72.7%,83.3% (5/6),0:58
+16-Jan-2023,Australian Open,5,Hard,Q1,105,244,1,3,,Anna Karolina Schmiedlova,Irina Khromacheva,6-2 6-3,1.71,4.3%,2.1%,61.7%,69.0%,72.2%,50.0% (1/2),60.0%,50.9%,1.9%,37.9%,66.7%,66.7% (4/6),1:10
+2-Jan-2023,W60 Canberra,3,Hard,R32,103,137,0,2,,Lesia Tsurenko,Anna Karolina Schmiedlova,7-6(4) 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,QF,100,880,0,1,WC,Renata Jamrichova,Anna Karolina Schmiedlova,6-4 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,R16,100,641,1,1,Q,Anna Karolina Schmiedlova,Katarina Kuzmova,6-3 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,R32,100,307,1,1,,Anna Karolina Schmiedlova,Cristina Dinu,6-2 6-3,,,,,,,,,,,,,,
+9-Nov-2022,BJK Cup Finals RR: SVK vs BEL,3,Hard,RR,100,81,1,,,Anna Karolina Schmiedlova,Maryna Zanevska,5-7 6-2 6-3,,,,,,,,,,,,,,
+8-Nov-2022,BJK Cup Finals RR: AUS vs SVK,3,Hard,RR,100,33,0,,,Ajla Tomljanovic,Anna Karolina Schmiedlova,6-1 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,SF,106,173,0,4,,Kateryna Baindl,Anna Karolina Schmiedlova,6-4 7-6(2),,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,QF,106,102,1,4,6,Anna Karolina Schmiedlova,Sara Errani,7-6(4) 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,R16,106,229,1,4,WC,Anna Karolina Schmiedlova,Rosa Vicens Mas,6-1 6-1,,,,,,,,,,,,,,
@@ -36,12 +126,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2022,Makarska 125,3,Clay,QF,,,1,5,,Anna Karolina Schmiedlova,Olga Danilovic,7-5 6-1,1.27,3.7%,1.2%,68.3%,64.3%,46.2%,66.7% (4/6),56.3%,52.8%,3.8%,48.4%,59.1%,50.0% (5/10),1:42
 30-May-2022,Makarska 125,3,Clay,R16,,305,1,5,WC,Anna Karolina Schmiedlova,Antonia Ruzic,6-3 7-5,1.22,2.7%,2.7%,64.4%,66.0%,65.4%,75.0% (3/4),54.9%,41.7%,0.0%,41.0%,42.9%,50.0% (3/6),1:41
 30-May-2022,Makarska 125,3,Clay,R32,,,1,5,,Anna Karolina Schmiedlova,Aleksandra Krunic,6-3 7-6(5),1.30,8.5%,0.0%,63.4%,73.3%,42.3%,40.0% (2/5),55.6%,49.3%,4.1%,47.5%,51.5%,66.7% (4/6),1:55
-23-May-2022,Roland Garros,5,Clay,R64,92,95,0,,,Danka Kovinic,Anna Karolina Schmiedlova,6-3 7-5,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R128,92,88,1,,,Anna Karolina Schmiedlova,Kristina Kucova,4-6 7-6(1) 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R64,92,95,0,,,Danka Kovinic,Anna Karolina Schmiedlova,6-3 7-5,0.96,0.0%,4.9%,50.8%,58.1%,60.0%,42.9% (3/7),47.9%,39.5%,9.9%,26.5%,59.4%,10.0% (1/10),
+23-May-2022,Roland Garros,5,Clay,R128,92,88,1,,,Anna Karolina Schmiedlova,Kristina Kucova,4-6 7-6(1) 6-2,1.13,4.7%,2.8%,56.6%,60.0%,52.2%,50.0% (6/12),52.9%,49.0%,0.0%,44.1%,60.0%,46.7% (7/15),
 16-May-2022,Rabat,3,Clay,R16,89,44,0,,2,Ajla Tomljanovic,Anna Karolina Schmiedlova,7-5 6-2,0.83,5.6%,8.5%,50.7%,63.9%,34.3%,57.1% (8/14),45.6%,42.1%,1.3%,22.0%,65.7%,25.0% (3/12),1:57
-16-May-2022,Rabat,3,Clay,R32,89,333,1,,Q,Anna Karolina Schmiedlova,Ekaterina Reyngold,6-1 6-2 (ch),1.43,1.9%,5.8%,75.0%,61.5%,53.8%,66.7% (2/3),58.9%,57.9%,0.0%,44.0%,84.6%,62.5% (5/8),1:06
+16-May-2022,Rabat,3,Clay,R32,89,333,1,,Q,Anna Karolina Schmiedlova,Ekaterina Reyngold,6-1 6-2,1.43,1.9%,5.8%,75.0%,61.5%,53.8%,66.7% (2/3),58.9%,57.9%,0.0%,44.0%,84.6%,62.5% (5/8),1:06
 2-May-2022,Saint Malo 125,3,Clay,R32,89,109,0,,,Tamara Korpatsch,Anna Karolina Schmiedlova,3-6 6-2 6-4,0.83,0.0%,7.2%,45.8%,42.1%,48.9%,38.5% (5/13),45.5%,45.1%,0.0%,32.4%,58.8%,77.8% (7/9),2:16
-28-Apr-2022,Madrid,3,Clay,R64,89,16,0,Q,14,Cori Gauff,Anna Karolina Schmiedlova,6-0 6-2,0.53,0.0%,5.6%,50.0%,38.9%,33.3%,16.7% (1/6),34.8%,33.9%,8.9%,23.3%,69.2%,0.0% (0/3),1:00
+28-Apr-2022,Madrid,3,Clay,R64,89,16,0,Q,14,Coco Gauff,Anna Karolina Schmiedlova,6-0 6-2,0.53,0.0%,5.6%,50.0%,38.9%,33.3%,16.7% (1/6),34.8%,33.9%,8.9%,23.3%,69.2%,0.0% (0/3),1:00
 28-Apr-2022,Madrid,3,Clay,Q2,89,56,1,23,5,Anna Karolina Schmiedlova,Magda Linette,6-2 1-6 7-6(4),0.96,4.3%,0.0%,52.2%,60.4%,52.3%,37.5% (3/8),49.4%,41.7%,1.2%,46.0%,35.3%,66.7% (4/6),2:30
 28-Apr-2022,Madrid,3,Clay,Q1,89,323,1,23,WC,Anna Karolina Schmiedlova,Jessica Bouzas Maneiro,6-4 6-1,1.37,6.8%,1.7%,67.8%,65.0%,52.6%,71.4% (5/7),57.4%,53.6%,1.8%,45.7%,66.7%,71.4% (5/7),1:13
 18-Apr-2022,Istanbul,3,Clay,R32,87,135,0,,Q,Lesia Tsurenko,Anna Karolina Schmiedlova,6-0 6-2,0.63,0.0%,4.1%,51.0%,36.0%,29.2%,36.4% (4/11),37.2%,42.2%,0.0%,37.8%,62.5%,100.0% (2/2),1:16
@@ -73,7 +163,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Aug-2021,US Open,5,Hard,Q1,93,204,1,2,,Anna Karolina Schmiedlova,Tessah Andrianjafitrimo,6-3 4-6 6-3,1.13,2.9%,7.7%,51.9%,59.3%,50.0%,66.7% (10/15),52.8%,50.9%,0.0%,48.6%,55.6%,31.8% (7/22),3:00
 2-Aug-2021,Cluj-Napoca 1,3,Clay,QF,99,268,0,,Q,Aleksandra Krunic,Anna Karolina Schmiedlova,6-3 6-0,0.67,0.0%,5.2%,60.3%,60.0%,21.7%,0.0% (0/5),40.8%,37.1%,3.2%,30.0%,50.0%,0.0% (0/5),1:24
 2-Aug-2021,Cluj-Napoca 1,3,Clay,R16,99,114,1,,6,Anna Karolina Schmiedlova,Kaja Juvan,7-6(7) 6-0,1.55,7.3%,0.0%,56.4%,71.0%,62.5%,0.0% (0/1),58.3%,50.8%,1.5%,52.6%,48.1%,50.0% (4/8),1:35
-2-Aug-2021,Cluj-Napoca 1,3,Clay,R32,99,156,1,,,Anna Karolina Schmiedlova,Viktoria Kuzmova,6-4 6-2,1.48,4.2%,2.1%,52.1%,80.0%,43.5%,0.0% (0/3),58.8%,55.6%,1.9%,46.2%,64.3%,54.5% (6/11),1:14
+2-Aug-2021,Cluj-Napoca 1,3,Clay,R32,99,156,1,,,Anna Karolina Schmiedlova,Viktoria Hruncakova,6-4 6-2,1.48,4.2%,2.1%,52.1%,80.0%,43.5%,0.0% (0/3),58.8%,55.6%,1.9%,46.2%,64.3%,54.5% (6/11),1:14
 26-Jul-2021,Belgrade 125K,3,Clay,F,122,85,1,,2,Anna Karolina Schmiedlova,Arantxa Rus,6-3 6-3,1.60,6.3%,6.3%,69.8%,81.8%,36.8%,83.3% (5/6),59.7%,50.8%,0.0%,41.5%,70.0%,66.7% (4/6),1:46
 26-Jul-2021,Belgrade 125K,3,Clay,SF,122,203,1,,,Anna Karolina Schmiedlova,Rebecca Sramkova,7-6(4) 6-1,1.32,1.4%,5.6%,68.1%,65.3%,60.9%,87.5% (7/8),56.1%,47.8%,1.5%,50.0%,44.8%,36.4% (4/11),1:49
 26-Jul-2021,Belgrade 125K,3,Clay,QF,122,81,1,,1,Anna Karolina Schmiedlova,Anna Blinkova,4-6 6-3 6-1,1.35,0.0%,5.6%,56.9%,78.0%,45.2%,50.0% (3/6),55.9%,48.8%,5.0%,47.6%,50.0%,66.7% (6/9),2:14
@@ -159,7 +249,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-May-2019,Madrid,3,Clay,Q2,109,71,1,,15,Anna Karolina Schmiedlova,Jessica Pegula,4-6 7-6(4) 7-5,1.02,2.9%,5.9%,63.2%,57.0%,46.0%,53.3% (8/15),50.5%,48.2%,1.4%,50.0%,45.5%,41.2% (7/17),3:16
 6-May-2019,Madrid,3,Clay,Q1,109,62,1,,4,Anna Karolina Schmiedlova,Monica Puig,7-6(2) 6-2,1.29,2.9%,1.4%,53.6%,62.2%,62.5%,57.1% (4/7),55.6%,48.5%,1.5%,45.7%,51.6%,62.5% (5/8),1:39
 29-Apr-2019,Prague,3,Clay,R16,103,151,0,,LL,Tamara Korpatsch,Anna Karolina Schmiedlova,4-6 6-3 6-0,0.80,1.3%,9.0%,55.1%,51.2%,25.7%,43.8% (7/16),44.2%,48.3%,0.0%,44.1%,57.1%,50.0% (6/12),2:21
-29-Apr-2019,Prague,3,Clay,R32,103,45,1,,7,Anna Karolina Schmiedlova,Viktoria Kuzmova,6-3 6-3,1.45,3.2%,1.6%,66.7%,66.7%,52.4%,66.7% (4/6),58.7%,55.2%,3.4%,46.7%,64.3%,35.7% (5/14),1:22
+29-Apr-2019,Prague,3,Clay,R32,103,45,1,,7,Anna Karolina Schmiedlova,Viktoria Hruncakova,6-3 6-3,1.45,3.2%,1.6%,66.7%,66.7%,52.4%,66.7% (4/6),58.7%,55.2%,3.4%,46.7%,64.3%,35.7% (5/14),1:22
 8-Apr-2019,Bogota,3,Clay,R16,66,165,0,4,Q,Beatriz Haddad Maia,Anna Karolina Schmiedlova,7-6(3) 7-6(6),0.96,0.0%,6.0%,64.3%,64.8%,43.3%,70.0% (7/10),48.6%,41.2%,1.0%,39.7%,45.8%,33.3% (3/9),2:32
 8-Apr-2019,Bogota,3,Clay,R32,66,122,1,4,,Anna Karolina Schmiedlova,Ysaline Bonaventure,6-2 6-4,1.19,0.0%,1.4%,66.2%,55.1%,44.0%,66.7% (8/12),54.4%,58.1%,0.0%,48.5%,69.0%,58.3% (7/12),1:33
 1-Apr-2019,Charleston,3,Clay,R64,64,103,0,,,Mandy Minella,Anna Karolina Schmiedlova,3-6 7-5 6-0,0.91,1.0%,6.7%,64.4%,50.7%,32.4%,47.4% (9/19),47.2%,50.6%,1.1%,44.8%,61.3%,33.3% (7/21),2:23
@@ -169,7 +259,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Mar-2019,Indian Wells,3,Hard,R128,63,199,0,,WC,Lauren Davis,Anna Karolina Schmiedlova,7-6(2) 6-2,0.84,0.0%,8.6%,60.0%,54.8%,39.3%,44.4% (4/9),45.6%,43.2%,1.1%,29.5%,56.8%,30.0% (3/10),2:03
 9-Feb-2019,Fed Cup WG2 R1: SVK vs LAT,3,Hard,RR,61,12,0,,,Anastasija Sevastova,Anna Karolina Schmiedlova,6-4 6-0,0.70,0.0%,8.3%,75.0%,50.0%,8.3%,14.3% (1/7),40.8%,42.0%,2.0%,38.5%,45.8%,66.7% (2/3),1:18
 14-Jan-2019,Australian Open,5,Hard,R128,59,14,0,,12,Elise Mertens,Anna Karolina Schmiedlova,6-2 7-5,0.78,1.5%,9.1%,68.2%,60.0%,42.9%,60.0% (6/10),44.8%,35.3%,5.9%,32.6%,40.9%,20.0% (1/5),1:40
-7-Jan-2019,Hobart,3,Hard,F,77,56,0,,,Sofia Kenin,Anna Karolina Schmiedlova,6-3 6-0 (ch),0.62,6.5%,10.9%,65.2%,43.3%,31.3%,33.3% (3/9),38.2%,37.5%,3.6%,39.6%,25.0%,11.1% (1/9),1:11
+7-Jan-2019,Hobart,3,Hard,F,77,56,0,,,Sofia Kenin,Anna Karolina Schmiedlova,6-3 6-0,0.62,6.5%,10.9%,65.2%,43.3%,31.3%,33.3% (3/9),38.2%,37.5%,3.6%,39.6%,25.0%,11.1% (1/9),1:11
 7-Jan-2019,Hobart,3,Hard,SF,77,55,1,,,Anna Karolina Schmiedlova,Belinda Bencic,7-6(2) 4-6 6-2,1.16,6.7%,4.8%,61.9%,70.8%,40.0%,54.5% (6/11),53.4%,47.5%,5.0%,41.4%,61.3%,50.0% (6/12),2:30
 7-Jan-2019,Hobart,3,Hard,QF,77,76,1,,,Anna Karolina Schmiedlova,Irina Camelia Begu,7-5 7-5,1.14,0.0%,7.1%,54.3%,65.8%,43.8%,37.5% (3/8),53.1%,50.7%,1.4%,49.1%,55.0%,58.3% (7/12),1:47
 7-Jan-2019,Hobart,3,Hard,R16,77,51,1,,8,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-3 6-2,1.36,0.0%,1.5%,66.2%,66.7%,56.5%,85.7% (6/7),57.6%,50.0%,0.0%,46.4%,54.5%,100.0% (4/4),1:27
@@ -195,7 +285,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Jul-2018,Moscow,3,Clay,R32,83,187,0,,LL,Olga Danilovic,Anna Karolina Schmiedlova,6-2 6-4,0.78,0.0%,1.8%,71.4%,50.0%,37.5%,45.5% (5/11),44.0%,41.7%,3.3%,33.3%,50.0%,60.0% (3/5),1:15
 16-Jul-2018,Bucharest,3,Clay,R16,85,264,0,,,Laura Siegemund,Anna Karolina Schmiedlova,6-4 3-6 6-2,0.78,0.0%,2.8%,74.5%,50.6%,44.4%,57.1% (8/14),44.9%,39.5%,0.0%,37.0%,44.4%,50.0% (4/8),2:39
 16-Jul-2018,Bucharest,3,Clay,R32,85,66,1,,6,Anna Karolina Schmiedlova,Ana Bogdan,4-6 7-6(4) 7-5,1.01,0.0%,3.9%,74.2%,49.5%,45.5%,47.1% (8/17),50.2%,52.2%,1.8%,49.4%,59.4%,45.0% (9/20),3:18
-9-Jul-2018,Budapest $100K,3,Clay,SF,89,69,0,,,Viktoria Kuzmova,Anna Karolina Schmiedlova,6-2 6-0,,,,,,,,,,,,,,
+9-Jul-2018,Budapest $100K,3,Clay,SF,89,69,0,,,Viktoria Hruncakova,Anna Karolina Schmiedlova,6-2 6-0,,,,,,,,,,,,,,
 9-Jul-2018,Budapest $100K,3,Clay,QF,89,94,1,,5,Anna Karolina Schmiedlova,Tamara Zidansek,6-4 6-2,,,,,,,,,,,,,,
 9-Jul-2018,Budapest $100K,3,Clay,R16,89,206,1,,,Anna Karolina Schmiedlova,Sesil Karatantcheva,6-4 6-3,,,,,,,,,,,,,,
 9-Jul-2018,Budapest $100K,3,Clay,R32,89,520,1,,Q,Anna Karolina Schmiedlova,Magdalena Pantuckova,6-2 6-4,,,,,,,,,,,,,,
@@ -212,8 +302,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-May-2018,Madrid,3,Clay,Q1,84,535,1,16,Alt,Anna Karolina Schmiedlova,Gabriela Dabrowski,6-3 7-5,1.26,0.0%,1.4%,74.0%,57.4%,57.9%,69.2% (9/13),55.6%,53.3%,0.0%,51.3%,57.1%,60.0% (6/10),1:29
 30-Apr-2018,Prague,3,Clay,R16,86,144,0,WC,LL,Jasmine Paolini,Anna Karolina Schmiedlova,6-4 6-1,0.73,2.3%,4.7%,53.5%,52.2%,30.0%,28.6% (2/7),42.2%,42.4%,1.7%,33.3%,64.7%,33.3% (2/6),1:12
 30-Apr-2018,Prague,3,Clay,R32,86,79,1,WC,,Anna Karolina Schmiedlova,Heather Watson,6-1 6-3,1.38,3.0%,4.5%,57.6%,63.2%,39.3%,50.0% (3/6),58.5%,64.9%,1.8%,54.8%,76.9%,50.0% (7/14),1:26
-21-Apr-2018,Fed Cup WG R1: BLR vs SVK,3,Hard,RR,84,47,0,,,Aryna Sabalenka,Anna Karolina Schmiedlova,6-3 6-4 (ch),0.84,1.7%,1.7%,68.3%,65.9%,31.6%,42.9% (3/7),45.7%,37.7%,8.7%,28.9%,54.2%,33.3% (2/6),1:31
-9-Apr-2018,Bogota,3,Clay,F,132,79,1,,5,Anna Karolina Schmiedlova,Lara Arruabarrena,6-2 6-4 (ch),1.23,1.8%,5.4%,55.4%,58.1%,28.0%,16.7% (1/6),56.3%,67.9%,0.0%,76.5%,54.5%,66.7% (8/12),1:20
+21-Apr-2018,Fed Cup WG R1: BLR vs SVK,3,Hard,RR,84,47,0,,,Aryna Sabalenka,Anna Karolina Schmiedlova,6-3 6-4,0.84,1.7%,1.7%,68.3%,65.9%,31.6%,42.9% (3/7),45.7%,37.7%,8.7%,28.9%,54.2%,33.3% (2/6),1:31
+9-Apr-2018,Bogota,3,Clay,F,132,79,1,,5,Anna Karolina Schmiedlova,Lara Arruabarrena,6-2 6-4,1.23,1.8%,5.4%,55.4%,58.1%,28.0%,16.7% (1/6),56.3%,67.9%,0.0%,76.5%,54.5%,66.7% (8/12),1:20
 9-Apr-2018,Bogota,3,Clay,SF,132,76,1,,7,Anna Karolina Schmiedlova,Ana Bogdan,6-3 6-2,1.31,0.0%,7.5%,68.7%,63.0%,47.6%,71.4% (5/7),56.8%,54.9%,2.0%,41.4%,72.7%,55.6% (5/9),1:26
 9-Apr-2018,Bogota,3,Clay,QF,132,510,1,,WC,Anna Karolina Schmiedlova,Emiliana Arango,6-1 1-0 RET,1.99,0.0%,13.0%,39.1%,77.8%,57.1%,50.0% (1/2),67.3%,69.2%,0.0%,65.0%,83.3%,57.1% (4/7),0:38
 9-Apr-2018,Bogota,3,Clay,R16,132,220,1,,Q,Anna Karolina Schmiedlova,Renata Zarazua,6-1 6-4,1.78,2.0%,8.2%,59.2%,82.8%,60.0%,0.0% (0/1),59.8%,47.2%,0.0%,41.2%,57.9%,66.7% (4/6),1:21
@@ -266,7 +356,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Jun-2017,Hodmezovasarhely $60K,3,Clay,R16,215,725,0,,WC,Olga Danilovic,Anna Karolina Schmiedlova,6-7(4) 6-0 6-1,,,,,,,,,,,,,,
 12-Jun-2017,Hodmezovasarhely $60K,3,Clay,R32,215,142,1,,3,Anna Karolina Schmiedlova,Viktoriya Tomova,5-7 6-4 6-4,,,,,,,,,,,,,,
 5-Jun-2017,Stare Splavy $25K,3,Clay,F,250,243,1,3,2,Anna Karolina Schmiedlova,Vera Lapko,6-4 7-5,,,,,,,,,,,,,,
-5-Jun-2017,Stare Splavy $25K,3,Clay,SF,250,167,1,3,1,Anna Karolina Schmiedlova,Viktoria Kuzmova,6-1 6-4,,,,,,,,,,,,,,
+5-Jun-2017,Stare Splavy $25K,3,Clay,SF,250,167,1,3,1,Anna Karolina Schmiedlova,Viktoria Hruncakova,6-1 6-4,,,,,,,,,,,,,,
 5-Jun-2017,Stare Splavy $25K,3,Clay,QF,250,393,1,3,,Anna Karolina Schmiedlova,Anastasia Zarytska,6-4 6-3,,,,,,,,,,,,,,
 5-Jun-2017,Stare Splavy $25K,3,Clay,R16,250,383,1,3,,Anna Karolina Schmiedlova,Pemra Ozgen,6-0 6-4,,,,,,,,,,,,,,
 5-Jun-2017,Stare Splavy $25K,3,Clay,R32,250,460,1,3,Q,Anna Karolina Schmiedlova,Jade Suvrijn,7-5 6-0,,,,,,,,,,,,,,
@@ -320,22 +410,22 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jun-2016,Eastbourne,3,Grass,R64,40,51,0,,,Daria Saville,Anna Karolina Schmiedlova,6-1 7-5,0.77,3.6%,16.1%,50.0%,53.6%,42.9%,37.5% (3/8),43.7%,40.0%,2.9%,35.6%,48.0%,16.7% (2/12),1:22
 30-May-2016,Bol,3,Clay,R32,38,124,0,1,,Kristina Kucova,Anna Karolina Schmiedlova,6-4 6-0,0.67,0.0%,8.3%,70.8%,41.2%,28.6%,14.3% (1/7),40.0%,41.9%,0.0%,47.4%,33.3%,28.6% (2/7),1:22
 23-May-2016,Roland Garros,5,Clay,R128,38,4,0,,4,Garbine Muguruza,Anna Karolina Schmiedlova,3-6 6-3 6-3,0.95,0.0%,4.3%,66.7%,56.5%,45.2%,50.0% (6/12),48.3%,44.9%,3.4%,29.4%,66.0%,19.0% (4/21),2:24
-9-May-2016,Rome,3,Clay,R64,37,50,0,,,Anna Lena Friedsam,Anna Karolina Schmiedlova,6-4 7-5 (ch),0.66,0.0%,6.2%,67.7%,63.6%,47.6%,25.0% (1/4),43.3%,27.4%,8.1%,23.8%,35.0%,50.0% (1/2),1:29
+9-May-2016,Rome,3,Clay,R64,37,50,0,,,Anna Lena Friedsam,Anna Karolina Schmiedlova,6-4 7-5,0.66,0.0%,6.2%,67.7%,63.6%,47.6%,25.0% (1/4),43.3%,27.4%,8.1%,23.8%,35.0%,50.0% (1/2),1:29
 2-May-2016,Madrid,3,Clay,R64,35,4,0,,3,Garbine Muguruza,Anna Karolina Schmiedlova,6-2 7-5,0.71,1.4%,9.9%,63.4%,51.1%,42.3%,40.0% (4/10),42.9%,37.1%,3.2%,25.8%,48.4%,33.3% (3/9),1:38
 25-Apr-2016,Rabat,3,Clay,R32,34,97,0,3,,Kiki Bertens,Anna Karolina Schmiedlova,6-0 6-1,0.50,0.0%,9.4%,46.9%,33.3%,17.6%,33.3% (3/9),32.5%,37.3%,5.9%,24.0%,50.0%,16.7% (1/6),1:02
 18-Apr-2016,Istanbul,3,Clay,R32,34,127,0,1,Q,Maria Sakkari,Anna Karolina Schmiedlova,6-2 6-3,0.76,2.0%,8.2%,61.2%,56.7%,15.8%,25.0% (2/8),43.3%,45.1%,0.0%,44.0%,47.6%,30.0% (3/10),1:37
 16-Apr-2016,Fed Cup WG2 R1: CAN vs SVK,3,Clay,RR,34,511,1,,,Anna Karolina Schmiedlova,Aleksandra Wozniak,6-4 4-6 6-4,1.06,0.8%,6.8%,66.1%,60.3%,32.5%,72.0% (18/25),51.4%,52.2%,0.0%,47.6%,62.1%,66.7% (8/12),2:47
 4-Apr-2016,Katowice,3,Hard,R32,31,113,0,2,,Pauline Parmentier,Anna Karolina Schmiedlova,6-2 6-0,0.46,2.3%,11.6%,67.4%,51.7%,14.3%,54.5% (6/11),33.7%,27.9%,2.3%,21.9%,45.5%,0.0% (0/2),0:59
 21-Mar-2016,Miami,3,Hard,R64,30,60,0,28,,Madison Brengle,Anna Karolina Schmiedlova,7-5 6-4,0.78,3.2%,9.5%,57.1%,41.7%,33.3%,38.5% (5/13),43.6%,48.6%,0.0%,46.9%,52.4%,60.0% (6/10),1:37
-7-Mar-2016,Indian Wells,3,Hard,R64,30,67,0,28,,Monica Puig,Anna Karolina Schmiedlova,6-1 6-2 (ch),0.63,0.0%,13.5%,61.5%,40.6%,25.0%,50.0% (7/14),38.0%,41.1%,5.4%,44.4%,35.0%,50.0% (2/4),1:16
+7-Mar-2016,Indian Wells,3,Hard,R64,30,67,0,28,,Monica Puig,Anna Karolina Schmiedlova,6-1 6-2,0.63,0.0%,13.5%,61.5%,40.6%,25.0%,50.0% (7/14),38.0%,41.1%,5.4%,44.4%,35.0%,50.0% (2/4),1:16
 22-Feb-2016,Doha,3,Hard,R64,30,56,0,,,Yulia Putintseva,Anna Karolina Schmiedlova,6-2 6-4,0.77,3.3%,9.8%,62.3%,50.0%,34.8%,40.0% (4/10),43.6%,42.9%,6.1%,43.8%,41.2%,100.0% (3/3),1:24
 15-Feb-2016,Dubai,3,Hard,R32,29,38,0,,,Caroline Garcia,Anna Karolina Schmiedlova,6-4 6-1,0.73,1.5%,16.4%,50.7%,55.9%,36.4%,40.0% (4/10),43.0%,39.3%,8.2%,38.9%,40.0%,28.6% (2/7),1:24
 6-Feb-2016,Fed Cup WG2 R1: AUS vs SVK,3,Hard,RR,29,27,0,,,Samantha Stosur,Anna Karolina Schmiedlova,7-6(5) 7-5,0.78,1.2%,6.1%,70.7%,60.3%,37.5%,50.0% (5/10),45.9%,36.4%,1.5%,34.8%,40.0%,80.0% (4/5),1:57
 6-Feb-2016,Fed Cup WG2 R1: AUS vs SVK,3,Hard,RR,29,275,1,,,Anna Karolina Schmiedlova,Arina Rodionova,5-7 7-5 6-0,1.28,1.7%,5.0%,68.1%,64.2%,44.7%,72.2% (13/18),56.1%,53.8%,0.0%,52.9%,56.0%,53.3% (8/15),3:02
 18-Jan-2016,Australian Open,5,Hard,R128,29,69,0,27,,Daria Kasatkina,Anna Karolina Schmiedlova,6-3 6-3,0.80,5.5%,16.4%,52.7%,62.1%,34.6%,37.5% (3/8),44.4%,40.8%,4.2%,28.6%,58.6%,28.6% (2/7),1:19
 11-Jan-2016,Sydney,3,Hard,R16,29,94,0,,Q,Monica Puig,Anna Karolina Schmiedlova,6-1 6-0,0.39,3.7%,3.7%,70.4%,50.0%,12.5%,45.5% (5/11),33.0%,23.5%,5.9%,24.0%,22.2%,0.0% (0/1),1:00
-11-Jan-2016,Sydney,3,Hard,R32,29,13,1,,6,Anna Karolina Schmiedlova,Timea Bacsinszky,1-6 6-1 6-3 (ch),1.04,0.0%,11.8%,67.1%,56.1%,39.3%,61.5% (8/13),51.0%,51.6%,0.0%,41.0%,68.0%,60.0% (6/10),2:01
-4-Jan-2016,Brisbane,3,Hard,R32,26,47,0,,,Varvara Lepchenko,Anna Karolina Schmiedlova,6-2 6-1 (ch),0.61,1.6%,16.4%,62.3%,60.5%,13.0%,25.0% (2/8),39.4%,34.9%,0.0%,17.9%,66.7%,25.0% (1/4),1:13
+11-Jan-2016,Sydney,3,Hard,R32,29,13,1,,6,Anna Karolina Schmiedlova,Timea Bacsinszky,1-6 6-1 6-3,1.04,0.0%,11.8%,67.1%,56.1%,39.3%,61.5% (8/13),51.0%,51.6%,0.0%,41.0%,68.0%,60.0% (6/10),2:01
+4-Jan-2016,Brisbane,3,Hard,R32,26,47,0,,,Varvara Lepchenko,Anna Karolina Schmiedlova,6-2 6-1,0.61,1.6%,16.4%,62.3%,60.5%,13.0%,25.0% (2/8),39.4%,34.9%,0.0%,17.9%,66.7%,25.0% (1/4),1:13
 2-Nov-2015,Zhuhai,3,Hard,RR,28,15,1,ALT,4,Anna Karolina Schmiedlova,Roberta Vinci,6-1 6-0,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,R16,26,37,0,8,,Lesia Tsurenko,Anna Karolina Schmiedlova,7-6(5) 4-6 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,R32,26,103,1,8,Q,Anna Karolina Schmiedlova,Aliaksandra Sasnovich,6-4 6-3,,,,,,,,,,,,,,
@@ -357,11 +447,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Aug-2015,Cincinnati,3,Hard,R64,41,15,1,Q,13,Anna Karolina Schmiedlova,Agnieszka Radwanska,4-6 6-3 6-1,1.47,6.2%,6.2%,60.5%,65.3%,75.0%,71.4% (5/7),56.2%,45.4%,3.1%,36.1%,61.1%,35.7% (5/14),
 17-Aug-2015,Cincinnati,3,Hard,Q2,41,70,1,2,24,Anna Karolina Schmiedlova,Olga Govortsova,6-4 6-2,,,,,,,,,,,,,,
 17-Aug-2015,Cincinnati,3,Hard,Q1,41,270,1,2,WC,Anna Karolina Schmiedlova,Taylor Townsend,1-6 6-0 6-2,,,,,,,,,,,,,,
-20-Jul-2015,Bad Gastein,3,Clay,SF,44,23,0,7,2,Samantha Stosur,Anna Karolina Schmiedlova,6-1 7-5 (ch),0.57,3.9%,3.9%,67.1%,58.8%,40.0%,71.4% (10/14),42.2%,26.9%,11.5%,25.9%,28.0%,100.0% (1/1),
+20-Jul-2015,Bad Gastein,3,Clay,SF,44,23,0,7,2,Samantha Stosur,Anna Karolina Schmiedlova,6-1 7-5,0.57,3.9%,3.9%,67.1%,58.8%,40.0%,71.4% (10/14),42.2%,26.9%,11.5%,25.9%,28.0%,100.0% (1/1),
 20-Jul-2015,Bad Gastein,3,Clay,QF,44,77,1,7,,Anna Karolina Schmiedlova,Annika Beck,6-2 6-3,1.85,4.2%,4.2%,62.5%,76.7%,66.7%,75.0% (3/4),60.0%,50.0%,0.0%,40.9%,72.2%,26.7% (4/15),
 20-Jul-2015,Bad Gastein,3,Clay,R16,44,72,1,7,,Anna Karolina Schmiedlova,Cristina Andreea Mitu,6-1 0-0 RET,3.17,10.5%,0.0%,68.4%,84.6%,83.3%,- (0/0),64.4%,50.0%,3.8%,56.3%,40.0%,28.6% (2/7),
 20-Jul-2015,Bad Gastein,3,Clay,R32,44,205,1,7,WC,Anna Karolina Schmiedlova,Patricia Mayr Achleitner,3-6 6-2 6-0,1.36,6.2%,4.9%,64.2%,67.3%,62.1%,75.0% (6/8),56.1%,47.0%,0.0%,42.4%,64.7%,35.7% (5/14),
-13-Jul-2015,Bucharest,3,Clay,F,60,20,1,7,1,Anna Karolina Schmiedlova,Sara Errani,7-6(3) 6-3 (ch),1.19,1.1%,5.7%,71.3%,62.9%,48.0%,57.1% (4/7),54.2%,49.4%,0.0%,52.7%,14.3%,71.4% (5/7),
+13-Jul-2015,Bucharest,3,Clay,F,60,20,1,7,1,Anna Karolina Schmiedlova,Sara Errani,7-6(3) 6-3,1.19,1.1%,5.7%,71.3%,62.9%,48.0%,57.1% (4/7),54.2%,49.4%,0.0%,52.7%,14.3%,71.4% (5/7),
 13-Jul-2015,Bucharest,3,Clay,SF,60,87,1,7,,Anna Karolina Schmiedlova,Polona Hercog,6-4 6-3,1.56,0.0%,1.9%,64.8%,68.6%,68.4%,60.0% (3/5),58.7%,49.1%,3.6%,46.7%,52.0%,57.1% (4/7),
 13-Jul-2015,Bucharest,3,Clay,QF,60,90,1,7,,Anna Karolina Schmiedlova,Danka Kovinic,6-2 6-2,1.56,2.0%,2.0%,56.0%,71.4%,63.6%,80.0% (4/5),59.8%,50.0%,7.1%,45.8%,55.6%,55.6% (5/9),
 13-Jul-2015,Bucharest,3,Clay,R16,60,79,1,7,,Anna Karolina Schmiedlova,Denisa Allertova,6-1 6-2,5.99,2.9%,11.4%,60.0%,90.5%,92.9%,- (0/0),70.8%,51.4%,2.7%,50.0%,53.3%,57.1% (4/7),
@@ -376,22 +466,22 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-May-2015,Rome,3,Clay,Q2,46,91,0,1,,Elena Vesnina,Anna Karolina Schmiedlova,4-6 6-2 7-5,,,,,,,,,,,,,,
 11-May-2015,Rome,3,Clay,Q1,46,82,1,1,,Anna Karolina Schmiedlova,Klara Koukalova,4-6 6-2 6-4,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,SF,46,25,0,7,4,Elina Svitolina,Anna Karolina Schmiedlova,6-0 6-3,0.59,0.0%,8.3%,62.5%,46.7%,50.0%,50.0% (6/12),40.5%,30.6%,5.6%,24.0%,45.5%,100.0% (1/1),
-27-Apr-2015,Marrakech,3,Clay,QF,46,21,1,7,2,Anna Karolina Schmiedlova,Timea Bacsinszky,6-3 3-6 7-5 (ch),1.00,0.0%,4.4%,65.6%,59.3%,48.4%,40.0% (4/10),50.6%,44.6%,2.7%,37.0%,57.1%,70.0% (7/10),
+27-Apr-2015,Marrakech,3,Clay,QF,46,21,1,7,2,Anna Karolina Schmiedlova,Timea Bacsinszky,6-3 3-6 7-5,1.00,0.0%,4.4%,65.6%,59.3%,48.4%,40.0% (4/10),50.6%,44.6%,2.7%,37.0%,57.1%,70.0% (7/10),
 27-Apr-2015,Marrakech,3,Clay,R16,46,223,1,7,Q,Anna Karolina Schmiedlova,Maria Irigoyen,3-6 6-1 6-3,1.58,0.0%,14.0%,63.2%,69.4%,66.7%,66.7% (8/12),57.6%,50.0%,0.0%,49.1%,51.9%,41.2% (7/17),
 27-Apr-2015,Marrakech,3,Clay,R32,46,67,1,7,,Anna Karolina Schmiedlova,Silvia Soler Espinosa,6-4 6-4,1.11,0.0%,2.7%,77.0%,57.9%,64.7%,77.8% (7/9),51.9%,45.0%,2.5%,47.9%,40.6%,30.8% (4/13),
 18-Apr-2015,Fed Cup WG PO: SVK vs SWE,3,Clay,RR,46,366,1,,,Anna Karolina Schmiedlova,Ellen Allgurin,6-1 6-4,,,,,,,,,,,,,,
 18-Apr-2015,Fed Cup WG PO: SVK vs SWE,3,Clay,RR,46,235,1,,,Anna Karolina Schmiedlova,Rebecca Peterson,6-3 6-3,,,,,,,,,,,,,,
-6-Apr-2015,Katowice,3,Hard,F,67,34,1,8,3,Anna Karolina Schmiedlova,Camila Giorgi,6-4 6-3 (ch),1.15,4.4%,1.5%,70.6%,60.4%,45.0%,63.6% (7/11),53.6%,50.9%,1.8%,46.3%,62.5%,50.0% (6/12),
-6-Apr-2015,Katowice,3,Hard,SF,67,105,1,8,,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-4 6-1 (ch),1.53,2.0%,2.0%,63.3%,67.7%,66.7%,50.0% (1/2),58.8%,50.0%,4.2%,48.3%,52.6%,45.5% (5/11),
-6-Apr-2015,Katowice,3,Hard,QF,67,24,1,8,2,Anna Karolina Schmiedlova,Alize Cornet,6-2 6-0 (ch),2.11,0.0%,10.0%,80.0%,75.0%,62.5%,50.0% (1/2),66.2%,58.1%,3.2%,45.0%,81.8%,100.0% (6/6),
-6-Apr-2015,Katowice,3,Hard,R16,67,77,1,8,,Anna Karolina Schmiedlova,Katerina Siniakova,6-1 3-6 6-3 (ch),1.15,0.0%,2.6%,80.5%,59.7%,53.3%,33.3% (2/6),52.8%,47.6%,1.2%,48.4%,45.5%,43.8% (7/16),
+6-Apr-2015,Katowice,3,Hard,F,67,34,1,8,3,Anna Karolina Schmiedlova,Camila Giorgi,6-4 6-3,1.15,4.4%,1.5%,70.6%,60.4%,45.0%,63.6% (7/11),53.6%,50.9%,1.8%,46.3%,62.5%,50.0% (6/12),
+6-Apr-2015,Katowice,3,Hard,SF,67,105,1,8,,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-4 6-1,1.53,2.0%,2.0%,63.3%,67.7%,66.7%,50.0% (1/2),58.8%,50.0%,4.2%,48.3%,52.6%,45.5% (5/11),
+6-Apr-2015,Katowice,3,Hard,QF,67,24,1,8,2,Anna Karolina Schmiedlova,Alize Cornet,6-2 6-0,2.11,0.0%,10.0%,80.0%,75.0%,62.5%,50.0% (1/2),66.2%,58.1%,3.2%,45.0%,81.8%,100.0% (6/6),
+6-Apr-2015,Katowice,3,Hard,R16,67,77,1,8,,Anna Karolina Schmiedlova,Katerina Siniakova,6-1 3-6 6-3,1.15,0.0%,2.6%,80.5%,59.7%,53.3%,33.3% (2/6),52.8%,47.6%,1.2%,48.4%,45.5%,43.8% (7/16),
 6-Apr-2015,Katowice,3,Hard,R32,67,159,1,8,Q,Anna Karolina Schmiedlova,Nigina Abduraimova,6-1 4-6 6-1,1.19,6.0%,2.4%,67.5%,67.9%,55.6%,66.7% (4/6),55.4%,42.9%,12.5%,29.7%,68.4%,75.0% (6/8),
 23-Mar-2015,Miami,3,Hard,R64,58,8,0,,7,Agnieszka Radwanska,Anna Karolina Schmiedlova,6-4 7-5,0.86,4.7%,6.3%,64.1%,61.0%,43.5%,50.0% (5/10),46.6%,39.1%,0.0%,35.9%,43.3%,50.0% (3/6),
 23-Mar-2015,Miami,3,Hard,R128,58,69,1,,,Anna Karolina Schmiedlova,Polona Hercog,6-3 6-2,1.51,0.0%,2.1%,70.8%,73.5%,42.9%,0.0% (0/2),59.3%,53.5%,0.0%,52.9%,55.6%,45.5% (5/11),
-9-Mar-2015,Indian Wells,3,Hard,R128,57,55,0,,,Lauren Davis,Anna Karolina Schmiedlova,6-2 6-2 (ch),0.66,1.8%,8.8%,75.4%,41.9%,35.7%,53.3% (8/15),39.8%,39.4%,3.0%,30.8%,51.9%,17.6% (3/17),
+9-Mar-2015,Indian Wells,3,Hard,R128,57,55,0,,,Lauren Davis,Anna Karolina Schmiedlova,6-2 6-2,0.66,1.8%,8.8%,75.4%,41.9%,35.7%,53.3% (8/15),39.8%,39.4%,3.0%,30.8%,51.9%,17.6% (3/17),
 2-Mar-2015,Monterrey,3,Hard,R32,56,41,0,,5,Anastasia Pavlyuchenkova,Anna Karolina Schmiedlova,4-6 6-3 6-0,0.75,1.1%,12.5%,71.6%,49.2%,52.0%,52.6% (10/19),44.5%,37.3%,4.5%,24.2%,50.0%,55.6% (5/9),
 23-Feb-2015,Acapulco,3,Hard,R32,59,79,0,,,Aleksandra Krunic,Anna Karolina Schmiedlova,6-2 6-1,0.51,0.0%,7.5%,71.7%,44.7%,40.0%,50.0% (6/12),37.4%,28.9%,13.2%,28.6%,29.4%,50.0% (1/2),
-16-Feb-2015,Rio de Janeiro,3,Clay,F,75,16,0,6,1,Sara Errani,Anna Karolina Schmiedlova,7-6(2) 6-1 (ch),0.80,3.9%,5.3%,55.3%,50.0%,29.4%,56.3% (9/16),44.1%,47.4%,0.0%,45.5%,60.0%,55.6% (5/9),
+16-Feb-2015,Rio de Janeiro,3,Clay,F,75,16,0,6,1,Sara Errani,Anna Karolina Schmiedlova,7-6(2) 6-1,0.80,3.9%,5.3%,55.3%,50.0%,29.4%,56.3% (9/16),44.1%,47.4%,0.0%,45.5%,60.0%,55.6% (5/9),
 16-Feb-2015,Rio de Janeiro,3,Clay,SF,75,34,1,6,2,Anna Karolina Schmiedlova,Irina Camelia Begu,6-3 4-6 6-2,1.17,1.1%,8.4%,78.9%,58.7%,35.0%,57.1% (8/14),54.0%,54.4%,2.9%,53.3%,57.1%,38.1% (8/21),
 16-Feb-2015,Rio de Janeiro,3,Clay,QF,75,168,1,6,Q,Anna Karolina Schmiedlova,Veronica Cepede Royg,6-3 6-1,1.56,0.0%,4.2%,79.2%,65.8%,40.0%,0.0% (0/2),61.1%,61.7%,2.1%,48.0%,77.3%,75.0% (6/8),
 16-Feb-2015,Rio de Janeiro,3,Clay,R16,75,124,1,6,,Anna Karolina Schmiedlova,Paula Ormaechea,6-0 6-2,2.59,2.9%,2.9%,71.4%,84.0%,50.0%,0.0% (0/1),70.3%,66.7%,0.0%,68.0%,64.3%,66.7% (6/9),
@@ -427,8 +517,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jun-2014,Eastbourne,3,Grass,Q2,56,72,0,,,Belinda Bencic,Anna Karolina Schmiedlova,6-3 6-2,0.70,6.0%,2.0%,72.0%,52.8%,35.7%,16.7% (1/6),42.3%,36.2%,2.1%,32.4%,46.2%,50.0% (1/2),
 16-Jun-2014,Eastbourne,3,Grass,Q1,56,103,1,,,Anna Karolina Schmiedlova,Katarzyna Piter,6-3 6-3,1.68,4.3%,0.0%,63.0%,75.9%,64.7%,50.0% (1/2),56.2%,47.6%,3.6%,40.4%,63.0%,26.7% (4/15),
 9-Jun-2014,Birmingham,3,Grass,R64,55,49,0,,,Christina Mchale,Anna Karolina Schmiedlova,7-6(5) 6-4,0.87,2.6%,5.2%,58.4%,53.3%,34.4%,57.1% (8/14),46.5%,47.6%,8.5%,36.5%,66.7%,62.5% (5/8),
-26-May-2014,Roland Garros,5,Clay,R32,56,35,0,,,Garbine Muguruza,Anna Karolina Schmiedlova,6-2 6-4 (ch),0.75,0.0%,7.1%,53.6%,50.0%,50.0%,55.6% (5/9),43.0%,37.5%,1.4%,26.5%,47.4%,12.5% (1/8),
-26-May-2014,Roland Garros,5,Clay,R64,56,29,1,,29,Anna Karolina Schmiedlova,Venus Williams,2-6 6-3 6-4 (ch),1.05,1.0%,0.0%,67.7%,64.6%,41.9%,50.0% (4/8),51.4%,44.9%,2.2%,30.0%,64.1%,44.4% (4/9),
+26-May-2014,Roland Garros,5,Clay,R32,56,35,0,,,Garbine Muguruza,Anna Karolina Schmiedlova,6-2 6-4,0.75,0.0%,7.1%,53.6%,50.0%,50.0%,55.6% (5/9),43.0%,37.5%,1.4%,26.5%,47.4%,12.5% (1/8),
+26-May-2014,Roland Garros,5,Clay,R64,56,29,1,,29,Anna Karolina Schmiedlova,Venus Williams,2-6 6-3 6-4,1.05,1.0%,0.0%,67.7%,64.6%,41.9%,50.0% (4/8),51.4%,44.9%,2.2%,30.0%,64.1%,44.4% (4/9),
 26-May-2014,Roland Garros,5,Clay,R128,56,70,1,,,Anna Karolina Schmiedlova,Jie Zheng,6-7(2) 6-3 6-4,,,,,,,,,,,,,,
 12-May-2014,Prague 100K,3,Clay,F,66,112,0,6,,Heather Watson,Anna Karolina Schmiedlova,7-6(5) 6-0,,,,,,,,,,,,,,
 12-May-2014,Prague 100K,3,Clay,SF,66,167,1,6,SE,Anna Karolina Schmiedlova,Aleksandra Krunic,7-6(6) 1-6 6-3,,,,,,,,,,,,,,

@@ -1,4 +1,25 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+22-Apr-2024,W35 Hammamet,3,Clay,R32,1307,607,0,,4,Denislava Glushkova,Melanie Klaffner,6-3 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W15 Antalya,3,Clay,R16,1293,1274,1,9,7,Melanie Klaffner,Agustina Chlpac,6-4 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W15 Antalya,3,Clay,R32,1293,630,0,Q,5,Jana Bojovic,Melanie Klaffner,6-2 7-5,,,,,,,,,,,,,,
+25-Mar-2024,W15 Antalya,3,Clay,R32,1293,,1,9,WC,Melanie Klaffner,Anastasia Goncharova,6-3 6-2,,,,,,,,,,,,,,
+25-Mar-2024,W15 Antalya,3,Clay,R64,1293,,1,9,WC,Melanie Klaffner,Vlada Kozak,6-3 6-4,,,,,,,,,,,,,,
+4-Mar-2024,W15 Sharm ElSheikh,3,Hard,R32,1292,895,0,,,Danielle Daley,Melanie Klaffner,6-3 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W15 Sharm ElSheikh,3,Hard,R32,1303,,0,6,,Olga Danilova,Melanie Klaffner,6-3 3-6 10-3,,,,,,,,,,,,,,
+19-Feb-2024,W15 Sharm ElSheikh,3,Hard,R32,1304,970,0,WC,Q,Annelin Bakker,Melanie Klaffner,6-1 7-5,,,,,,,,,,,,,,
+30-Oct-2023,W40 Heraklion,3,Clay,R32,1257,636,0,,16,Lara Salden,Melanie Klaffner,7-5 6-7(4) 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W40 Heraklion,3,Clay,R64,1257,829,1,,,Melanie Klaffner,Tiantsoa Sarah Rakotomanga Rajaonah,5-7 6-1 6-2,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,Q2,1277,527,0,16,4,Angelica Moratelli,Melanie Klaffner,6-2 6-1,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,Q1,1277,,1,16,,Melanie Klaffner,Gaia Greco,6-1 6-1,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,R32,1316,194,0,WC,3,Nigina Abduraimova,Melanie Klaffner,6-4 6-7(6) 6-4,,,,,,,,,,,,,,
+23-Jul-2023,Hamburg,3,Clay,Q1,,192,0,WC,9,Ekaterina Makarova,Melanie Klaffner,6-3 6-1,0.76,0.0%,1.9%,70.4%,36.8%,31.3%,36.4% (4/11),41.6%,48.9%,0.0%,47.4%,55.6%,100.0% (3/3),1:15
+10-Jul-2023,W60 Amstelveen,3,Clay,Q2,,528,0,,9,Michaela Laki,Melanie Klaffner,6-2 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,Q1,,507,1,,8,Melanie Klaffner,Adrienn Nagy,6-3 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Sopo,3,Clay,Q2,912,562,0,13,4,Dalayna Hewitt,Melanie Klaffner,6-3 7-5,,,,,,,,,,,,,,
+27-Mar-2023,W25 Sopo,3,Clay,Q1,912,,1,13,,Melanie Klaffner,Sara Sofia Sanchez Molano,6-0 6-3,,,,,,,,,,,,,,
+20-Mar-2023,W25 Mosquera,3,Clay,Q1,912,582,0,,8,Katarina Jokic,Melanie Klaffner,6-1 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W40 Anapoima,3,Clay,Q1,912,485,0,,10,Emma Lene,Melanie Klaffner,6-4 6-1,,,,,,,,,,,,,,
+6-Feb-2023,Linz,3,Hard,Q1,932,92,0,WC,4,Dalma Galfi,Melanie Klaffner,7-6(5) 6-4,0.91,1.3%,1.3%,67.5%,55.6%,46.2%,37.5% (3/8),47.9%,43.4%,3.6%,39.0%,54.2%,50.0% (4/8),1:58
 24-Oct-2022,W25 Istanbul,3,Hard,Q1,652,,0,9,,Leyla Nilufer Elmas,Melanie Klaffner,6-4 6-4,,,,,,,,,,,,,,
 26-Sep-2022,W25 Lisbon,3,Clay,R32,654,427,0,,,Luisa Meyer Auf Der Heide,Melanie Klaffner,7-5 6-3,,,,,,,,,,,,,,
 22-Aug-2022,W25 Braunschweig,3,Clay,Q2,590,,0,2,13,Helena Buchwald,Melanie Klaffner,6-3 4-6 10-4,,,,,,,,,,,,,,
@@ -19,7 +40,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-May-2022,W15 Cairo,3,Clay,R16,583,1256,1,3,,Melanie Klaffner,Maria Vittoria Viviani,6-3 6-1,,,,,,,,,,,,,,
 2-May-2022,W15 Cairo,3,Clay,R32,583,1113,1,3,,Melanie Klaffner,Petra Csabi,6-0 6-1,,,,,,,,,,,,,,
 25-Apr-2022,W25 Cairo,3,Clay,R32,583,183,0,,2,Valentini Grammatikopoulou,Melanie Klaffner,6-2 4-6 6-4,,,,,,,,,,,,,,
-16-Apr-2022,BJK Cup G1 PM: AUT vs TUR,3,Clay,RR,585,551,1,,,Melanie Klaffner,Zeynep Sonmez,6-3 5-7 6-2,1.27,1.1%,2.3%,77.3%,58.8%,60.0%,44.4% (4/9),55.1%,51.9%,0.9%,46.5%,62.2%,61.5% (8/13),2:07
 7-Feb-2022,W25 Sharm ElSheikh,3,Hard,R32,565,186,0,WC,3,Tessah Andrianjafitrimo,Melanie Klaffner,6-2 6-2,,,,,,,,,,,,,,
 31-Jan-2022,W25 Sharm ElSheikh,3,Hard,R32,588,197,0,WC,7,Alexandra Cadantu Ignatik,Melanie Klaffner,6-2 6-0,,,,,,,,,,,,,,
 24-Jan-2022,W25 Cairo,3,Clay,R16,590,566,0,Q,,Selena Janicijevic,Melanie Klaffner,6-4 6-3,,,,,,,,,,,,,,

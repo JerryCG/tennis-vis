@@ -1,10 +1,13 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+16-Oct-2023,Nanchang,3,Hard,Q2,,229,0,,2,Ye Xin Ma,Tereza Mihalikova,5-7 6-2 6-0,0.76,1.1%,12.1%,44.0%,67.5%,35.3%,53.8% (7/13),43.8%,38.3%,2.1%,25.0%,57.9%,16.7% (2/12),2:10
+16-Oct-2023,Nanchang,3,Hard,Q1,,867,1,,7,Tereza Mihalikova,Fang Ying Xun,6-2 6-3,1.66,7.0%,1.8%,73.7%,78.6%,60.0%,100.0% (2/2),60.0%,43.8%,4.2%,45.2%,41.2%,37.5% (3/8),1:08
+22-May-2023,Strasbourg,3,Clay,Q1,,259,0,,4,Sophie Chang,Tereza Mihalikova,6-3 7-5,0.85,5.3%,6.7%,53.3%,52.5%,42.9%,57.1% (8/14),46.2%,44.4%,2.5%,34.4%,75.0%,40.0% (4/10),1:49
 24-Oct-2022,Tampico,3,Hard,Q1,946,380,0,,6,Andrea Gamiz,Tereza Mihalikova,6-7(3) 7-5,0.92,5.2%,3.1%,60.4%,65.5%,42.1%,54.5% (6/11),49.4%,40.3%,2.8%,35.6%,61.5%,66.7% (4/6),2:09
 22-Aug-2022,Granby,3,Hard,Q1,,1162,0,ALT,WC,Kayla Cross,Tereza Mihalikova,6-4 6-2,0.69,2.6%,5.1%,67.9%,52.8%,40.0%,61.5% (8/13),43.4%,35.3%,0.0%,28.1%,47.4%,66.7% (2/3),1:25
 4-Apr-2022,Charleston,3,Clay,Q1,622,199,0,WC,8,Francesca Di Lorenzo,Tereza Mihalikova,6-2 6-0,0.50,0.0%,14.6%,56.1%,39.1%,22.2%,33.3% (3/9),32.9%,34.1%,2.3%,25.0%,58.3%,16.7% (1/6),0:58
 28-Feb-2022,W60 Arcadia CA,3,Hard,Q2,615,552,0,10,8,Reese Brantmeier,Tereza Mihalikova,6-2 0-6 10-4,,,,,,,,,,,,,,
 28-Feb-2022,W60 Arcadia CA,3,Hard,Q1,615,1093,1,10,,Tereza Mihalikova,Ayaka Okuno,6-2 6-1,,,,,,,,,,,,,,
-7-Feb-2022,W15 Villena,3,Hard,R32,610,1276,0,2,Q,Tatiana Barkova,Tereza Mihalikova,6-1 6-3,,,,,,,,,,,,,,
+7-Feb-2022,W15 Villena,3,Hard,R32,610,1276,0,2,Q,Tatiana Prozorova,Tereza Mihalikova,6-1 6-3,,,,,,,,,,,,,,
 31-Jan-2022,W25 Manacor,3,Hard,Q1,607,736,0,13,,Himari Sato,Tereza Mihalikova,6-4 6-2,,,,,,,,,,,,,,
 24-Jan-2022,W25 Manacor,3,Hard,Q2,613,375,0,,3,Alice Rame,Tereza Mihalikova,6-7(4) 6-0 11-9,,,,,,,,,,,,,,
 24-Jan-2022,W25 Manacor,3,Hard,Q1,613,,1,,WC,Tereza Mihalikova,Kaia Kruus,6-2 6-2,,,,,,,,,,,,,,
@@ -34,7 +37,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Mar-2021,W15 Manacor,3,Hard,R16,560,279,0,,2,Diana Marcinkevica,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 8-Mar-2021,W15 Manacor,3,Hard,R32,560,1098,1,,LL,Tereza Mihalikova,Marie Villet,6-4 4-6 7-6(0),,,,,,,,,,,,,,
 1-Mar-2021,W25 Manacor,3,Hard,Q1,560,1071,0,14,,Emily Seibold,Tereza Mihalikova,6-2 6-0,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,Q1,552,371,0,,5,Marina Bassols Ribera,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,Q1,552,371,0,,5,Marina Bassols Ribera,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 7-Dec-2020,W100+H Dubai,3,Hard,Q2,561,134,0,,2,Elisabetta Cocciaretto,Tereza Mihalikova,0-6 6-1 10-7,,,,,,,,,,,,,,
 7-Dec-2020,W100+H Dubai,3,Hard,Q1,561,197,1,,14,Tereza Mihalikova,Indy De Vroome,6-2 6-1,,,,,,,,,,,,,,
@@ -202,7 +204,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Apr-2017,Cairo $15K,3,Clay,R16,538,692,0,4,,Despina Papamichail,Tereza Mihalikova,6-4 6-2,,,,,,,,,,,,,,
 24-Apr-2017,Cairo $15K,3,Clay,R32,538,,1,4,WC,Tereza Mihalikova,Valeria Prosperi,6-1 6-4,,,,,,,,,,,,,,
 17-Apr-2017,Cairo $15K,3,Clay,R16,536,733,0,4,,Sowjanya Bavisetti,Tereza Mihalikova,2-6 6-3 6-2,,,,,,,,,,,,,,
-17-Apr-2017,Cairo $15K,3,Clay,R32,536,1122,1,4,Q,Tereza Mihalikova,Yulia Starodubtsewa,6-3 6-1,,,,,,,,,,,,,,
+17-Apr-2017,Cairo $15K,3,Clay,R32,536,,1,4,Q,Tereza Mihalikova,Yuliia Starodubtseva,6-3 6-1,,,,,,,,,,,,,,
 27-Mar-2017,Sharm El Sheikh $15K,3,Hard,QF,490,693,0,5,,Emilie Francati,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 27-Mar-2017,Sharm El Sheikh $15K,3,Hard,R16,490,637,1,5,,Tereza Mihalikova,Melanie Klaffner,6-3 6-3,,,,,,,,,,,,,,
 27-Mar-2017,Sharm El Sheikh $15K,3,Hard,R32,490,1041,1,5,Q,Tereza Mihalikova,Anna Maria Procacci,6-1 6-3,,,,,,,,,,,,,,
@@ -215,7 +217,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jan-2017,Petit Bourg Guadeloupe $15K,3,Hard,R16,439,873,0,5,SE,Monika Kilnarova,Tereza Mihalikova,6-4 6-3,,,,,,,,,,,,,,
 16-Jan-2017,Petit Bourg Guadeloupe $15K,3,Hard,R32,439,922,1,5,Q,Tereza Mihalikova,Mara Schmidt,6-2 5-7 6-1,,,,,,,,,,,,,,
 9-Jan-2017,Fort de France Martinique $15K,3,Hard,R32,440,720,0,4,,Giuliana Olmos,Tereza Mihalikova,6-1 6-4,,,,,,,,,,,,,,
-3-Oct-2016,Toowoomba $25K,3,Hard,R32,433,279,0,,,Storm Sanders,Tereza Mihalikova,6-4 7-6(1),,,,,,,,,,,,,,
+3-Oct-2016,Toowoomba $25K,3,Hard,R32,433,279,0,,,Storm Hunter,Tereza Mihalikova,6-4 7-6(1),,,,,,,,,,,,,,
 19-Sep-2016,Tweed Heads $25K,3,Hard,QF,453,299,0,8,1,Jennifer Elie,Tereza Mihalikova,6-1 2-6 7-6(4),,,,,,,,,,,,,,
 19-Sep-2016,Tweed Heads $25K,3,Hard,R16,453,617,1,8,,Tereza Mihalikova,Stefanie Tan,7-5 6-3,,,,,,,,,,,,,,
 19-Sep-2016,Tweed Heads $25K,3,Hard,R32,453,469,1,8,,Tereza Mihalikova,Georgia Brescia,6-2 2-6 6-3,,,,,,,,,,,,,,

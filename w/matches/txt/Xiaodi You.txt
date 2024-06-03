@@ -1,4 +1,106 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W100 Madrid,3,Clay,R16,221,95,0,Q,4,Anna Bondar,Xiaodi You,6-4 6-2,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,R32,221,231,1,Q,Q,Xiaodi You,Despina Papamichail,7-6(4) 6-2,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q2,221,278,1,6,10,Xiaodi You,Nigina Abduraimova,2-6 6-1 6-0,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q1,221,397,1,6,,Xiaodi You,Eva Guerrero Alvarez,6-3 7-6(5),,,,,,,,,,,,,,
+6-May-2024,W75+H Saint-Gaudens,3,Clay,R32,221,180,0,,,Katarina Zavatska,Xiaodi You,6-2 6-7(10) 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,SF,224,827,0,1,WC,Qiang Wang,Xiaodi You,2-6 6-4 7-5,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,QF,224,421,1,1,8,Xiaodi You,Alevtina Ibragimova,6-1 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,R16,224,523,1,1,,Xiaodi You,Chia Yi Tsao,6-4 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,R32,224,773,1,1,WC,Xiaodi You,Shuo Feng,6-4 6-3,,,,,,,,,,,,,,
+15-Apr-2024,W50 Shenzhen,3,Hard,R32,214,555,0,4,Q,Evialina Laskevich,Xiaodi You,6-0 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R16,209,500,0,4,,Han Shi,Xiaodi You,6-4 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R32,209,533,1,4,,Xiaodi You,Anastasia Gasanova,6-7(2) 6-1 7-5,,,,,,,,,,,,,,
+1-Apr-2024,Bogota,3,Clay,R32,211,75,0,Q,4,Cristina Bucsa,Xiaodi You,6-1 7-5,0.64,1.8%,7.3%,52.7%,44.8%,38.5%,25.0% (2/8),39.5%,37.3%,0.0%,31.0%,52.9%,33.3% (2/6),1:32
+1-Apr-2024,Bogota,3,Clay,Q2,211,177,1,10,2,Xiaodi You,Natalija Stevanovic,6-1 6-4,1.23,7.1%,8.9%,51.8%,72.4%,33.3%,50.0% (3/6),55.5%,56.9%,0.0%,44.9%,82.6%,46.7% (7/15),1:41
+1-Apr-2024,Bogota,3,Clay,Q1,211,,1,10,WC,Xiaodi You,Maria Jose Sanchez Uribe,6-1 6-1,1.83,4.8%,0.0%,54.8%,65.2%,63.2%,50.0% (1/2),64.8%,65.2%,0.0%,63.3%,68.8%,75.0% (6/8),1:07
+25-Mar-2024,San Luis Potosi 125,3,Clay,R16,224,116,0,Q,,Laura Pigossi,Xiaodi You,5-7 6-2 7-5,0.90,0.0%,10.6%,66.0%,51.6%,43.8%,42.9% (6/14),47.2%,45.8%,0.8%,39.3%,61.1%,33.3% (6/18),3:18
+25-Mar-2024,San Luis Potosi 125,3,Clay,R32,224,99,1,Q,7,Xiaodi You,Alize Cornet,6-4 4-2 RET,1.24,0.0%,3.8%,53.8%,60.7%,50.0%,50.0% (3/6),55.3%,54.9%,0.0%,46.7%,66.7%,55.6% (5/9),1:28
+26-Feb-2024,W50 Pretoria,3,Hard,R16,224,402,0,3,,Clervie Ngounoue,Xiaodi You,7-6(8) 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W50 Pretoria,3,Hard,R32,224,846,1,3,Q,Xiaodi You,Yukina Saigo,6-1 6-1,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,R16,227,433,0,3,,Lina Glushko,Xiaodi You,6-3 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,R32,227,464,1,3,,Xiaodi You,Nahia Berecoechea,6-0 4-6 7-6(3),,,,,,,,,,,,,,
+5-Feb-2024,W75 Burnie,3,Hard,R32,226,309,0,7,,Katie Swan,Xiaodi You,6-2 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,R16,224,408,0,6,Q,Yuki Naito,Xiaodi You,6-4 0-6 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W75 Burnie,3,Hard,R32,224,319,1,6,,Xiaodi You,Ayano Shimizu,6-3 6-2,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,225,160,0,,,Zeynep Sonmez,Xiaodi You,7-5 6-2,0.85,1.8%,7.3%,52.7%,62.1%,38.5%,16.7% (1/6),45.3%,41.7%,0.0%,30.8%,59.4%,18.2% (2/11),1:36
+27-Nov-2023,W40 Yokohama,3,Hard,R32,219,368,0,4,,Ayano Shimizu,Xiaodi You,1-6 6-2 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R16,214,106,0,,3,Zhuoxuan Bai,Xiaodi You,6-2 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R32,214,420,1,,Q,Xiaodi You,Hanyu Guo,6-3 7-5,,,,,,,,,,,,,,
+16-Oct-2023,Nanchang,3,Hard,R16,233,43,0,Q,,Leylah Fernandez,Xiaodi You,6-4 6-1,0.81,3.8%,5.8%,63.5%,51.5%,36.8%,40.0% (4/10),44.8%,43.4%,3.8%,31.4%,66.7%,40.0% (2/5),1:24
+16-Oct-2023,Nanchang,3,Hard,R32,233,52,1,Q,6,Xiaodi You,Anna Blinkova,6-1 6-1,2.00,12.5%,2.5%,47.5%,84.2%,42.9%,0.0% (0/2),68.8%,75.0%,2.5%,70.6%,78.3%,87.5% (7/8),0:56
+16-Oct-2023,Nanchang,3,Hard,Q2,233,,1,1,WC,Xiaodi You,Jessy Rompies,6-3 6-1,1.95,2.0%,4.1%,55.1%,81.5%,63.6%,100.0% (5/5),61.7%,51.7%,1.7%,42.9%,65.2%,66.7% (4/6),1:11
+9-Oct-2023,Zhengzhou,3,Hard,Q2,219,267,0,10,,Kateryna Bondarenko,Xiaodi You,6-4 3-6 6-2,0.84,6.5%,1.9%,63.0%,55.9%,37.5%,64.7% (11/17),46.4%,42.9%,0.0%,28.6%,71.4%,36.4% (4/11),2:24
+9-Oct-2023,Zhengzhou,3,Hard,Q1,219,278,1,10,,Xiaodi You,Sijia Wei,6-1 4-6 6-2,1.21,0.0%,3.5%,60.5%,59.6%,55.9%,60.0% (6/10),54.8%,50.7%,0.0%,47.3%,64.3%,87.5% (7/8),2:03
+2-Oct-2023,Beijing,3,Hard,Q1,220,83,0,WC,15,Anna Kalinskaya,Xiaodi You,4-6 6-4 7-5,0.91,8.4%,3.2%,56.8%,66.7%,31.7%,50.0% (7/14),47.5%,43.9%,0.9%,37.0%,58.8%,60.0% (6/10),2:32
+25-Sep-2023,Ningbo,3,Hard,Q2,218,113,0,10,3,Viktoria Hruncakova,Xiaodi You,6-4 6-2,0.58,3.8%,3.8%,57.7%,63.3%,31.8%,0.0% (0/4),40.0%,29.2%,2.1%,26.7%,33.3%,100.0% (1/1),1:27
+25-Sep-2023,Ningbo,3,Hard,Q1,218,337,1,10,,Xiaodi You,Zongyu Li,6-3 7-5,1.19,0.0%,0.0%,62.9%,59.1%,57.7%,62.5% (5/8),54.2%,49.2%,6.6%,47.4%,52.2%,83.3% (5/6),1:43
+18-Sep-2023,Guangzhou,3,Hard,R32,213,81,0,WC,,Yulia Putintseva,Xiaodi You,6-4 6-0,0.65,1.4%,5.4%,63.5%,48.9%,40.7%,54.5% (6/11),41.4%,35.2%,0.0%,32.6%,50.0%,25.0% (1/4),1:46
+11-Sep-2023,Osaka,3,Hard,Q1,211,294,0,8,,Sohyun Park,Xiaodi You,6-3 5-1 RET,0.69,1.9%,0.0%,65.4%,47.1%,33.3%,37.5% (3/8),41.0%,39.6%,2.1%,29.2%,50.0%,66.7% (2/3),1:29
+4-Sep-2023,W100 Tokyo,3,Hard,QF,223,135,0,Q,7,Viktorija Golubic,Xiaodi You,6-7(3) 6-0 6-1,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,R16,223,226,1,Q,,Xiaodi You,Eudice Wong Chong,6-1 3-6 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,R32,223,81,1,Q,1,Xiaodi You,Nao Hibino,0-6 6-4 6-2,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,Q2,223,471,1,2,15,Xiaodi You,Haruna Arakawa,6-0 6-2,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,Q1,223,611,1,2,,Xiaodi You,Catherine Harrison,6-3 7-6(4),,,,,,,,,,,,,,
+21-Aug-2023,W40 Hong Kong,3,Hard,R32,226,472,0,4,JE,Sara Saito,Xiaodi You,1-1 RET,,,,,,,,,,,,,,
+14-Aug-2023,W40 Nanchang,3,Clay,F,246,309,0,1,5,Lanlana Tararudee,Xiaodi You,6-2 6-3,,,,,,,,,,,,,,
+14-Aug-2023,W40 Nanchang,3,Clay,SF,246,304,1,1,4,Xiaodi You,Ye Xin Ma,6-4 1-6 6-4,,,,,,,,,,,,,,
+14-Aug-2023,W40 Nanchang,3,Clay,QF,246,509,1,1,,Xiaodi You,Jia Jing Lu,5-7 6-1 7-5,,,,,,,,,,,,,,
+14-Aug-2023,W40 Nanchang,3,Clay,R16,246,1117,1,1,Q,Xiaodi You,Jiayou Li,6-2 6-4,,,,,,,,,,,,,,
+14-Aug-2023,W40 Nanchang,3,Clay,R32,246,558,1,1,,Xiaodi You,Xinxin Yao,6-3 4-6 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W40 Anning,3,Clay,QF,253,331,0,1,6,Xinyu Gao,Xiaodi You,6-2 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W40 Anning,3,Clay,R16,253,526,1,1,,Xiaodi You,Jia Jing Lu,6-3 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W40 Anning,3,Clay,R32,253,571,1,1,,Xiaodi You,Hanyu Guo,1-6 6-2 2-0 RET,,,,,,,,,,,,,,
+10-Jul-2023,W25 Naiman,3,Hard,F,264,445,0,1,3,Zongyu Li,Xiaodi You,6-4 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W25 Naiman,3,Hard,SF,264,568,1,1,4,Xiaodi You,Xinxin Yao,6-4 6-4,,,,,,,,,,,,,,
+10-Jul-2023,W25 Naiman,3,Hard,QF,264,1269,1,1,WC,Xiaodi You,Shuo Feng,6-1 6-1,,,,,,,,,,,,,,
+10-Jul-2023,W25 Naiman,3,Hard,R16,264,1214,1,1,,Xiaodi You,Meiqi Guo,6-4 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W25 Naiman,3,Hard,R32,264,,1,1,Q,Xiaodi You,Xichen Zhao,6-0 6-0,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,R32,264,,0,1,Q,Gyeong Seo Lee,Xiaodi You,6-4 3-1 RET,,,,,,,,,,,,,,
+26-Jun-2023,W25 Hong Kong,3,Hard,R32,262,363,0,2,,Lanlana Tararudee,Xiaodi You,6-4 6-4,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,F,288,355,0,1,2,Yafan Wang,Xiaodi You,7-5 6-2,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,SF,288,,1,1,Q,Xiaodi You,Jiaqi Huang,6-2 6-4,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,QF,288,778,1,1,,Xiaodi You,Fang Ying Xun,5-0 RET,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,R16,288,,1,1,Q,Xiaodi You,Aitiyaguli Aixirefu,4-6 6-4 3-1 RET,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,R32,288,,1,1,Q,Xiaodi You,Chenting Zhu,6-4 6-1,,,,,,,,,,,,,,
+29-May-2023,W25 Changwon,3,Hard,SF,288,290,0,2,3,En Shuo Liang,Xiaodi You,6-4 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 Changwon,3,Hard,QF,288,540,1,2,,Xiaodi You,Kaylah Mcphee,6-1 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Changwon,3,Hard,R16,288,484,1,2,,Xiaodi You,Yeon Woo Ku,6-1 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 Changwon,3,Hard,R32,288,,1,2,Q,Xiaodi You,Haram Kim,6-2 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W25 Guayaquil,3,Clay,R16,284,480,0,2,13,Sofia Sewing,Xiaodi You,6-0 1-0 RET,,,,,,,,,,,,,,
+24-Apr-2023,W25 Guayaquil,3,Clay,R32,284,681,1,2,,Xiaodi You,Kaitlin Quevedo,6-3 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Guayaquil,3,Clay,SF,289,385,0,3,9,Francesca Jones,Xiaodi You,6-2 4-6 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W25 Guayaquil,3,Clay,QF,289,425,1,3,11,Xiaodi You,Marine Partaud,6-1 6-0,,,,,,,,,,,,,,
+17-Apr-2023,W25 Guayaquil,3,Clay,R16,289,,1,3,13,Xiaodi You,Noelia Zeballos Melgar,6-2 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W25 Guayaquil,3,Clay,R32,289,853,1,3,,Xiaodi You,Sabastiani Leon,6-2 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,SF,298,181,0,7,2,Na Lae Han,Xiaodi You,6-2 6-0,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,QF,298,546,1,7,Q,Xiaodi You,Georgina Garcia Perez,6-3 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R16,298,430,1,7,,Xiaodi You,Haruna Arakawa,6-1 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R32,298,675,1,7,Q,Xiaodi You,Riko Sawayanagi,6-1 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,SF,289,144,0,,1,Su Jeong Jang,Xiaodi You,6-4 5-7 6-0,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,QF,289,190,1,,4,Xiaodi You,Na Lae Han,6-4 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R16,289,294,1,,8,Xiaodi You,Alexandra Bozovic,6-1 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R32,289,493,1,,Q,Xiaodi You,Katarina Kozarov,6-4 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W40 Anapoima,3,Clay,QF,295,219,0,,,Sinja Kraus,Xiaodi You,2-6 6-2 6-2,,,,,,,,,,,,,,
+13-Mar-2023,W40 Anapoima,3,Clay,R16,295,211,1,,8,Xiaodi You,Suzan Lamens,3-6 7-6(2) 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W40 Anapoima,3,Clay,R32,295,455,1,,Q,Xiaodi You,Sofia Sewing,6-4 6-4,,,,,,,,,,,,,,
+6-Mar-2023,W25 Boca Raton FL,3,Clay,R16,295,194,0,,5,Victoria Jimenez Kasintseva,Xiaodi You,6-2 7-5,,,,,,,,,,,,,,
+6-Mar-2023,W25 Boca Raton FL,3,Clay,R32,295,405,1,,Q,Xiaodi You,Conny Perrin,6-1 6-4,,,,,,,,,,,,,,
+27-Feb-2023,Austin,3,Hard,Q1,293,135,0,,3,Erika Andreeva,Xiaodi You,2-6 6-2 7-6(1),0.93,2.3%,3.4%,56.8%,54.0%,36.8%,50.0% (8/16),48.0%,49.5%,0.0%,45.8%,53.5%,40.0% (8/20),2:39
+13-Feb-2023,W25 Santo Domingo,3,Hard,R32,291,711,0,12,Q,Sara Daavettila,Xiaodi You,6-2 7-6(3),,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R32,292,425,0,,LL,Rina Saigo,Xiaodi You,6-4 6-0,,,,,,,,,,,,,,
+30-Jan-2023,Cali 125,3,Clay,R16,297,183,0,,8,Fernanda Contreras Gomez,Xiaodi You,6-2 6-0,0.54,0.0%,4.4%,82.2%,40.5%,25.0%,50.0% (6/12),35.8%,33.3%,8.3%,23.1%,39.1%,100.0% (1/1),1:10
+30-Jan-2023,Cali 125,3,Clay,R32,297,712,1,,WC,Xiaodi You,Maria Paulina Perez Garcia,6-0 6-4,1.43,3.9%,5.9%,45.1%,65.2%,60.7%,75.0% (3/4),57.8%,53.4%,0.0%,48.0%,57.6%,45.5% (5/11),1:32
+9-Jan-2023,W40 Nonthaburi,3,Hard,R32,281,353,0,8,,En Shuo Liang,Xiaodi You,6-1 6-2,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R32,287,282,0,Q,Q,Anastasia Kulikova,Xiaodi You,6-3 7-5,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,Q2,287,343,1,3,11,Xiaodi You,Tatiana Prozorova,6-3 3-6 10-8,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,Q1,287,602,1,3,,Xiaodi You,Laura Hietaranta,6-2 6-1,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R16,289,237,0,,6,Irina Khromacheva,Xiaodi You,6-0 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R32,289,484,1,,,Xiaodi You,Thaisa Grana Pedretti,6-3 6-2,,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R16,291,187,0,Q,,Irina Bara,Xiaodi You,6-4 6-2,0.77,3.2%,4.8%,51.6%,46.9%,50.0%,16.7% (1/6),43.8%,39.7%,0.0%,34.7%,52.6%,33.3% (2/6),2:04
+21-Nov-2022,Montevideo 125,3,Clay,R32,291,110,1,Q,5,Xiaodi You,Reka Luca Jani,6-1 6-4,1.32,4.8%,4.8%,54.8%,70.6%,39.3%,57.1% (4/7),56.9%,57.4%,0.0%,59.0%,53.3%,60.0% (6/10),1:49
+31-Oct-2022,W60 Barranquilla,3,Hard,R16,254,227,0,9,7,Carole Monnet,Xiaodi You,7-6(4) 6-4,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,R32,254,469,1,9,,Xiaodi You,Thaisa Grana Pedretti,6-2 6-4,,,,,,,,,,,,,,
 24-Oct-2022,Tampico,3,Hard,R16,271,40,0,,3,Leylah Fernandez,Xiaodi You,6-3 6-2,0.62,0.0%,1.9%,53.7%,55.2%,40.0%,44.4% (4/9),40.4%,32.0%,4.0%,26.5%,43.8%,33.3% (1/3),1:30
 24-Oct-2022,Tampico,3,Hard,R32,271,189,1,,,Xiaodi You,Anna Lena Friedsam,7-6(4) 6-4,1.33,4.5%,3.0%,69.7%,80.4%,40.0%,50.0% (2/4),54.2%,42.3%,5.1%,34.5%,65.0%,37.5% (3/8),1:52
 10-Oct-2022,W25 Hua Hin,3,Hard,R32,305,503,0,4,,Daria Kudashova,Xiaodi You,6-7(5) 6-3 6-3,,,,,,,,,,,,,,
@@ -22,7 +124,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Aug-2022,W25 Ourense,3,Hard,R32,300,442,1,4,,Xiaodi You,Yeon Woo Ku,1-6 6-2 7-5,,,,,,,,,,,,,,
 8-Aug-2022,W25 Radom,3,Clay,R16,,,0,3,,Veronika Erjavec,Xiaodi You,7-6(7) 7-5,,,,,,,,,,,,,,
 8-Aug-2022,W25 Radom,3,Clay,R32,,,1,3,Q,Xiaodi You,Alicja Formella,6-0 6-1,,,,,,,,,,,,,,
-1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,R32,303,189,0,,10,Viktoria Kuzmova,Xiaodi You,6-3 6-1,,,,,,,,,,,,,,
+1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,R32,303,189,0,,10,Viktoria Hruncakova,Xiaodi You,6-3 6-1,,,,,,,,,,,,,,
 1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,R64,303,333,1,,,Xiaodi You,Ankita Raina,3-6 6-1 7-6(5),,,,,,,,,,,,,,
 25-Jul-2022,W25 Horb,3,Clay,R32,302,361,0,6,,Nina Potocnik,Xiaodi You,1-6 7-6(7) 6-3,,,,,,,,,,,,,,
 18-Jul-2022,Hamburg,3,Clay,Q1,305,150,0,,2,Anastasia Gasanova,Xiaodi You,6-4 6-2,0.81,0.0%,0.0%,58.6%,35.3%,37.5%,33.3% (4/12),44.4%,51.5%,0.0%,44.7%,68.4%,41.7% (5/12),1:41
@@ -99,7 +201,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Feb-2020,W25 Rancho Santa Fe CA,3,Hard,R16,192,273,1,3,,Xiaodi You,Seone Mendez,7-6(5) 7-6(3),,,,,,,,,,,,,,
 24-Feb-2020,W25 Rancho Santa Fe CA,3,Hard,R32,192,504,1,3,Q,Xiaodi You,Maegan Manasse,6-1 6-3,,,,,,,,,,,,,,
 17-Feb-2020,Dubai,3,Hard,Q1,191,43,0,,7,Polona Hercog,Xiaodi You,6-3 6-3,0.72,1.6%,7.9%,52.4%,48.5%,40.0%,45.5% (5/11),42.3%,40.0%,1.7%,16.0%,57.1%,100.0% (3/3),1:26
-10-Feb-2020,Hua Hin,3,Hard,R16,210,105,0,,,Patricia Maria Tig,Xiaodi You,6-1 6-3 (ch),0.72,7.4%,3.7%,50.0%,48.1%,37.0%,25.0% (2/8),42.0%,41.3%,2.2%,24.0%,61.9%,66.7% (2/3),1:14
+10-Feb-2020,Hua Hin,3,Hard,R16,210,105,0,,,Patricia Maria Tig,Xiaodi You,6-1 6-3,0.72,7.4%,3.7%,50.0%,48.1%,37.0%,25.0% (2/8),42.0%,41.3%,2.2%,24.0%,61.9%,66.7% (2/3),1:14
 10-Feb-2020,Hua Hin,3,Hard,R32,210,251,1,,Q,Xiaodi You,Ellen Perez,7-6(4) 6-2,1.16,1.3%,6.7%,48.0%,66.7%,53.8%,71.4% (5/7),52.9%,46.3%,2.5%,47.5%,45.0%,44.4% (4/9),1:43
 3-Feb-2020,W25 Nonthaburi,3,Hard,R32,210,105,0,,1,Patricia Maria Tig,Xiaodi You,5-7 6-3 6-2,,,,,,,,,,,,,,
 27-Jan-2020,W25 Nonthaburi,3,Hard,R16,211,456,0,7,Q,Akgul Amanmuradova,Xiaodi You,7-6(7) 6-1,,,,,,,,,,,,,,
@@ -123,7 +225,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Oct-2019,Tianjin,3,Hard,Q1,225,211,1,,,Xiaodi You,Shilin Xu,6-0 6-1,2.63,11.4%,2.9%,71.4%,80.0%,60.0%,100.0% (1/1),70.8%,67.6%,0.0%,64.0%,75.0%,66.7% (6/9),0:44
 30-Sep-2019,Beijing,3,Hard,Q1,223,90,0,,,Christina Mchale,Xiaodi You,6-3 6-0,0.68,2.2%,6.7%,60.0%,51.9%,27.8%,14.3% (1/7),40.7%,39.1%,2.2%,25.8%,66.7%,33.3% (1/3),1:10
 16-Sep-2019,Seoul,3,Hard,Q1,220,701,0,12,WC,Sohyun Park,Xiaodi You,7-5 6-3,0.83,2.2%,0.0%,58.2%,60.4%,31.6%,64.7% (11/17),46.0%,43.1%,4.2%,27.5%,62.5%,66.7% (4/6),2:01
-9-Sep-2019,Zhengzhou,3,Hard,R32,246,75,0,Q,,Jelena Ostapenko,Xiaodi You,6-3 0-6 6-2 (ch),0.89,1.3%,3.8%,51.9%,53.7%,42.1%,50.0% (6/12),47.3%,46.3%,0.0%,48.6%,43.3%,45.5% (5/11),1:49
+9-Sep-2019,Zhengzhou,3,Hard,R32,246,75,0,Q,,Jelena Ostapenko,Xiaodi You,6-3 0-6 6-2,0.89,1.3%,3.8%,51.9%,53.7%,42.1%,50.0% (6/12),47.3%,46.3%,0.0%,48.6%,43.3%,45.5% (5/11),1:49
 9-Sep-2019,Zhengzhou,3,Hard,Q3,246,296,1,,,Xiaodi You,Samantha Murray,5-7 6-0 6-3,1.25,6.9%,3.4%,60.9%,77.4%,50.0%,71.4% (5/7),54.8%,41.8%,1.3%,33.3%,57.1%,45.5% (5/11),1:58
 9-Sep-2019,Zhengzhou,3,Hard,Q2,246,342,1,,,Xiaodi You,Zuzana Zlochova,6-3 7-6(7),1.15,0.0%,1.3%,70.5%,61.8%,34.8%,28.6% (2/7),53.5%,53.2%,0.0%,46.7%,73.7%,75.0% (6/8),1:38
 9-Sep-2019,Zhengzhou,3,Hard,Q1,246,164,1,,3,Xiaodi You,Ellen Perez,7-6(5) 6-2,1.34,4.7%,3.1%,67.2%,72.1%,47.6%,50.0% (2/4),55.4%,48.0%,1.3%,37.1%,57.5%,40.0% (4/10),1:26

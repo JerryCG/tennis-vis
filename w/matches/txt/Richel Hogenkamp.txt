@@ -1,7 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 13-Jun-2022,W60 Madrid,3,Hard,R32,233,335,0,4,,Guiomar Maristany Zuleta De Reales,Richel Hogenkamp,7-6(8) 6-2,,,,,,,,,,,,,,
 6-Jun-2022,s Hertogenbosch,3,Grass,Q1,222,166,0,,3,Olivia Gadecki,Richel Hogenkamp,6-3 6-4,0.57,1.9%,3.7%,59.3%,65.6%,59.1%,50.0% (2/4),42.5%,21.2%,13.5%,22.2%,18.8%,0.0% (0/1),1:04
-23-May-2022,Roland Garros,5,Clay,Q1,210,219,0,,,Yuki Naito,Richel Hogenkamp,6-4 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,210,219,0,,,Yuki Naito,Richel Hogenkamp,6-4 6-2,0.64,1.8%,1.8%,81.8%,60.0%,50.0%,62.5% (5/8),43.0%,26.9%,3.8%,25.6%,30.8%,0.0% (0/1),
 28-Mar-2022,W60 Pretoria,3,Hard,QF,,,0,4,6,Anastasia Tikhonova,Richel Hogenkamp,6-2 6-3,,,,,,,,,,,,,,
 28-Mar-2022,W60 Pretoria,3,Hard,R16,,,1,4,,Richel Hogenkamp,Ekaterina Reyngold,6-4 4-6 6-1,,,,,,,,,,,,,,
 28-Mar-2022,W60 Pretoria,3,Hard,R32,,,1,4,,Richel Hogenkamp,Ekaterina Kazionova,6-4 6-4,,,,,,,,,,,,,,
@@ -24,7 +24,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Sep-2021,W25 Johannesburg Ellispark,3,Hard,QF,294,557,1,4,,Richel Hogenkamp,Jacqueline Cabaj Awad,6-1 6-1,,,,,,,,,,,,,,
 20-Sep-2021,W25 Johannesburg Ellispark,3,Hard,R16,294,419,1,4,,Richel Hogenkamp,Shiho Akita,6-1 6-3,,,,,,,,,,,,,,
 20-Sep-2021,W25 Johannesburg Ellispark,3,Hard,R32,294,586,1,4,Q,Richel Hogenkamp,Polina Kudermetova,6-4 6-2,,,,,,,,,,,,,,
-13-Sep-2021,W25 Johannesburg Markspark,3,Hard,F,289,860,1,4,Q,Richel Hogenkamp,Valeria Bhunu,6-3 4-6 6-3 (ch),,,,,,,,,,,,,,
+13-Sep-2021,W25 Johannesburg Markspark,3,Hard,F,289,860,1,4,Q,Richel Hogenkamp,Valeria Bhunu,6-3 4-6 6-3,,,,,,,,,,,,,,
 13-Sep-2021,W25 Johannesburg Markspark,3,Hard,SF,289,362,1,4,,Richel Hogenkamp,Joanne Zuger,6-3 6-1,,,,,,,,,,,,,,
 13-Sep-2021,W25 Johannesburg Markspark,3,Hard,QF,289,862,1,4,Q,Richel Hogenkamp,Nicole Khirin,6-4 6-4,,,,,,,,,,,,,,
 13-Sep-2021,W25 Johannesburg Markspark,3,Hard,R16,289,607,1,4,,Richel Hogenkamp,Shavit Kimchi,6-4 7-5,,,,,,,,,,,,,,
@@ -84,7 +84,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Sep-2019,W25 Santa Margherita Di Pula,3,Clay,R32,186,464,0,,,Estelle Cascino,Richel Hogenkamp,7-6(6) 6-1,,,,,,,,,,,,,,
 2-Sep-2019,W25 Trieste,3,Clay,R16,207,444,0,,,Julia Terziyska,Richel Hogenkamp,7-5 6-0,,,,,,,,,,,,,,
 2-Sep-2019,W25 Trieste,3,Clay,R32,207,464,1,,,Richel Hogenkamp,Gergana Topalova,6-2 6-4,,,,,,,,,,,,,,
-26-Aug-2019,US Open,5,Hard,R128,207,23,0,,23,Donna Vekic,Richel Hogenkamp,7-6(4) 6-3 (ch),0.87,0.0%,5.1%,61.5%,54.2%,43.3%,50.0% (5/10),46.4%,43.3%,4.4%,25.6%,59.6%,42.9% (3/7),1:49
+26-Aug-2019,US Open,5,Hard,R128,207,23,0,,23,Donna Vekic,Richel Hogenkamp,7-6(4) 6-3,0.87,0.0%,5.1%,61.5%,54.2%,43.3%,50.0% (5/10),46.4%,43.3%,4.4%,25.6%,59.6%,42.9% (3/7),1:49
 26-Aug-2019,US Open,5,Hard,Q3,207,183,1,,,Richel Hogenkamp,Varvara Gracheva,6-4 7-6(6),1.04,0.0%,4.4%,68.9%,64.5%,50.0%,75.0% (6/8),51.9%,41.7%,2.8%,27.0%,57.1%,33.3% (3/9),1:38
 26-Aug-2019,US Open,5,Hard,Q2,207,178,1,,,Richel Hogenkamp,Valeria Savinykh,6-4 6-3,1.26,2.0%,13.7%,54.9%,64.3%,39.1%,50.0% (4/8),56.4%,59.1%,0.0%,52.4%,70.8%,53.8% (7/13),1:12
 26-Aug-2019,US Open,5,Hard,Q1,207,235,1,,,Richel Hogenkamp,Ylena In Albon,6-4 7-6(5),1.15,2.6%,2.6%,66.2%,72.5%,42.3%,80.0% (8/10),52.5%,43.4%,6.0%,33.3%,57.1%,30.0% (3/10),1:40
@@ -121,7 +121,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Apr-2019,W25 Santa Margherita Di Pula,3,Clay,QF,160,523,0,,Q,Lisa Matviyenko,Richel Hogenkamp,4-6 6-4 6-4,,,,,,,,,,,,,,
 1-Apr-2019,W25 Santa Margherita Di Pula,3,Clay,R16,160,271,1,,,Richel Hogenkamp,Tena Lukas,6-4 6-3,,,,,,,,,,,,,,
 1-Apr-2019,W25 Santa Margherita Di Pula,3,Clay,R32,160,680,1,,IR,Richel Hogenkamp,Ekaterina Makarova,6-2 6-1,,,,,,,,,,,,,,
-9-Feb-2019,Fed Cup WG2 R1: CAN vs NED,3,Clay,RR,150,70,0,,,Bianca Andreescu,Richel Hogenkamp,6-4 6-1 (ch),0.76,2.1%,4.3%,61.7%,62.1%,44.4%,42.9% (3/7),43.4%,33.9%,8.5%,30.8%,40.0%,25.0% (1/4),1:06
+9-Feb-2019,Fed Cup WG2 R1: CAN vs NED,3,Clay,RR,150,70,0,,,Bianca Andreescu,Richel Hogenkamp,6-4 6-1,0.76,2.1%,4.3%,61.7%,62.1%,44.4%,42.9% (3/7),43.4%,33.9%,8.5%,30.8%,40.0%,25.0% (1/4),1:06
 21-Jan-2019,W25 Singapore,3,Hard,QF,168,219,0,,,Na Lae Han,Richel Hogenkamp,6-4 7-6(3),,,,,,,,,,,,,,
 21-Jan-2019,W25 Singapore,3,Hard,R16,168,691,1,,,Richel Hogenkamp,Aldila Sutjiadi,6-3 6-1,,,,,,,,,,,,,,
 21-Jan-2019,W25 Singapore,3,Hard,R32,168,710,1,,Q,Richel Hogenkamp,Ana Veselinovic,6-0 6-3,,,,,,,,,,,,,,
@@ -281,7 +281,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Apr-2016,Rabat,3,Clay,R32,139,35,1,LL,4,Richel Hogenkamp,Irina Camelia Begu,6-3 6-4,1.24,0.0%,14.8%,46.3%,76.0%,48.3%,60.0% (3/5),54.3%,48.4%,1.6%,38.9%,61.5%,55.6% (5/9),1:20
 25-Apr-2016,Rabat,3,Clay,Q3,139,179,0,4,8,Kaia Kanepi,Richel Hogenkamp,6-3 6-0,0.62,0.0%,12.5%,35.0%,28.6%,34.6%,0.0% (0/6),38.1%,42.1%,3.5%,37.8%,50.0%,28.6% (2/7),0:55
 25-Apr-2016,Rabat,3,Clay,Q2,139,263,1,4,,Richel Hogenkamp,Aryna Sabalenka,2-6 6-1 6-2,1.11,6.5%,11.7%,42.9%,75.8%,40.9%,42.9% (3/7),52.9%,49.2%,3.2%,32.1%,62.9%,54.5% (6/11),1:26
-16-Apr-2016,Fed Cup WG SF: FRA vs NED,3,Clay,RR,139,28,0,,,Kristina Mladenovic,Richel Hogenkamp,6-2 6-4 (ch),0.72,1.5%,5.9%,57.4%,61.5%,31.0%,50.0% (5/10),43.4%,37.0%,7.4%,25.0%,54.5%,33.3% (2/6),1:22
+16-Apr-2016,Fed Cup WG SF: FRA vs NED,3,Clay,RR,139,28,0,,,Kristina Mladenovic,Richel Hogenkamp,6-2 6-4,0.72,1.5%,5.9%,57.4%,61.5%,31.0%,50.0% (5/10),43.4%,37.0%,7.4%,25.0%,54.5%,33.3% (2/6),1:22
 14-Mar-2016,Irapuato $25K,3,Hard,R32,144,203,0,2,,Kristie Ahn,Richel Hogenkamp,7-6(3) RET,,,,,,,,,,,,,,
 7-Mar-2016,Puebla $25K,3,Hard,F,144,172,0,1,5,Irina Khromacheva,Richel Hogenkamp,6-3 6-2,,,,,,,,,,,,,,
 7-Mar-2016,Puebla $25K,3,Hard,SF,144,163,1,1,3,Richel Hogenkamp,Oceane Dodin,3-6 6-3 6-4,,,,,,,,,,,,,,
@@ -292,7 +292,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Feb-2016,Monterrey,3,Hard,Q1,142,219,1,,,Richel Hogenkamp,Maria Irigoyen,5-7 6-1 7-5,1.14,4.9%,7.8%,55.3%,66.7%,45.7%,55.6% (5/9),52.9%,48.6%,0.9%,40.8%,63.9%,38.9% (7/18),2:15
 22-Feb-2016,Acapulco,3,Hard,Q2,137,109,0,,3,Urszula Radwanska,Richel Hogenkamp,6-4 4-6 6-3,0.94,1.1%,4.3%,60.6%,57.9%,56.8%,55.6% (5/9),48.4%,39.8%,7.1%,26.3%,58.5%,25.0% (3/12),2:10
 22-Feb-2016,Acapulco,3,Hard,Q1,137,135,1,,11,Richel Hogenkamp,Rebecca Peterson,5-7 6-3 6-3,1.09,2.9%,6.9%,58.8%,60.0%,38.1%,41.7% (5/12),52.1%,53.2%,2.8%,45.7%,75.0%,69.2% (9/13),2:28
-6-Feb-2016,Fed Cup WG R1: NED vs RUS,3,Hard,RR,141,17,1,,,Richel Hogenkamp,Svetlana Kuznetsova,7-6(4) 5-7 10-8 (ch),1.01,0.0%,1.4%,51.7%,57.3%,54.3%,56.3% (9/16),50.2%,44.5%,4.1%,35.4%,63.8%,41.2% (7/17),4:00
+6-Feb-2016,Fed Cup WG R1: NED vs RUS,3,Hard,RR,141,17,1,,,Richel Hogenkamp,Svetlana Kuznetsova,7-6(4) 5-7 10-8,1.01,0.0%,1.4%,51.7%,57.3%,54.3%,56.3% (9/16),50.2%,44.5%,4.1%,35.4%,63.8%,41.2% (7/17),4:00
 18-Jan-2016,Australian Open,5,Hard,Q3,139,102,0,23,1,Qiang Wang,Richel Hogenkamp,6-2 6-3,,,,,,,,,,,,,,
 18-Jan-2016,Australian Open,5,Hard,Q2,139,202,1,23,,Richel Hogenkamp,Stephanie Foretz Gacon,6-1 6-3,,,,,,,,,,,,,,
 18-Jan-2016,Australian Open,5,Hard,Q1,139,200,1,23,,Richel Hogenkamp,Maria Irigoyen,6-2 6-1,,,,,,,,,,,,,,
@@ -365,7 +365,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Feb-2015,Acapulco,3,Hard,Q3,125,627,1,6,,Richel Hogenkamp,Makoto Ninomiya,3-6 6-1 7-6(4),,,,,,,,,,,,,,
 23-Feb-2015,Acapulco,3,Hard,Q2,125,177,1,6,,Richel Hogenkamp,Kateryna Bondarenko,6-3 6-3,,,,,,,,,,,,,,
 23-Feb-2015,Acapulco,3,Hard,Q1,125,595,1,6,,Richel Hogenkamp,Nicole Melichar,6-2 6-2,,,,,,,,,,,,,,
-19-Jan-2015,Australian Open,5,Hard,R128,138,4,0,Q,4,Petra Kvitova,Richel Hogenkamp,6-1 6-4 (ch),0.55,0.0%,3.8%,60.4%,59.4%,38.1%,50.0% (4/8),39.6%,27.1%,14.6%,17.2%,42.1%,100.0% (1/1),
+19-Jan-2015,Australian Open,5,Hard,R128,138,4,0,Q,4,Petra Kvitova,Richel Hogenkamp,6-1 6-4,0.55,0.0%,3.8%,60.4%,59.4%,38.1%,50.0% (4/8),39.6%,27.1%,14.6%,17.2%,42.1%,100.0% (1/1),
 19-Jan-2015,Australian Open,5,Hard,Q3,138,118,1,23,9,Richel Hogenkamp,Shahar Peer,6-7(2) 6-3 6-4,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,Q2,138,185,1,23,,Richel Hogenkamp,Louisa Chirico,6-4 3-6 8-6,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,Q1,138,187,1,23,,Richel Hogenkamp,Shuko Aoyama,7-5 5-7 6-3,,,,,,,,,,,,,,

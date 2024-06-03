@@ -1,4 +1,100 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W50 Otocec,3,Clay,R16,292,384,0,5,,Angela Fita Boluda,Ylena In Albon,6-4 6-4,,,,,,,,,,,,,,
+20-May-2024,W50 Otocec,3,Clay,R32,292,688,1,5,Q,Ylena In Albon,Yaroslava Bartashevich,7-5 2-6 6-3,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,Q2,236,188,0,15,5,Veronika Erjavec,Ylena In Albon,4-6 7-6(2) 6-1,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,Q1,236,519,1,15,WC,Ylena In Albon,Ana Konjuh,4-6 6-4 6-1,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,SF,233,235,0,2,4,Polona Hercog,Ylena In Albon,7-6(2) 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,QF,233,269,1,2,8,Ylena In Albon,Isabella Shinikova,7-6(7) 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R16,233,661,1,2,Q,Ylena In Albon,Tianmi Mi,2-0 RET,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R32,233,712,1,2,Q,Ylena In Albon,Diana Demidova,6-3 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W35 Buenos Aires,3,Clay,SF,257,531,0,2,12,Alice Rame,Ylena In Albon,6-0 6-4,,,,,,,,,,,,,,
+22-Jan-2024,W35 Buenos Aires,3,Clay,QF,257,385,1,2,7,Ylena In Albon,Gabriela Ce,6-4 6-2,,,,,,,,,,,,,,
+22-Jan-2024,W35 Buenos Aires,3,Clay,R16,257,641,1,2,16,Ylena In Albon,Luisina Giovannini,6-3 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W35 Buenos Aires,3,Clay,R32,257,993,1,2,Q,Ylena In Albon,Camila Romero,6-3 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W35 Buenos Aires,3,Clay,F,257,603,0,1,15,Maria Sara Popa,Ylena In Albon,6-2 6-0,,,,,,,,,,,,,,
+15-Jan-2024,W35 Buenos Aires,3,Clay,SF,257,467,1,1,9,Ylena In Albon,Sara Cakarevic,4-6 7-5 7-5,,,,,,,,,,,,,,
+15-Jan-2024,W35 Buenos Aires,3,Clay,QF,257,670,1,1,,Ylena In Albon,Daniela Seguel,3-6 7-5 6-4,,,,,,,,,,,,,,
+15-Jan-2024,W35 Buenos Aires,3,Clay,R16,257,,1,1,,Ylena In Albon,Maria Fernanda Navarro,6-1 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W35 Buenos Aires,3,Clay,R32,257,927,1,1,Q,Ylena In Albon,Julia Konishi Camargo Silva,6-3 6-0,,,,,,,,,,,,,,
+8-Jan-2024,W35 Antalya,3,Clay,QF,260,358,0,2,6,Ilinca Dalina Amariei,Ylena In Albon,7-6(5) 6-2,,,,,,,,,,,,,,
+8-Jan-2024,W35 Antalya,3,Clay,R16,260,634,1,2,,Ylena In Albon,Claudia Hoste Ferrer,6-3 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W35 Antalya,3,Clay,R32,260,724,1,2,,Ylena In Albon,Mio Mushika,6-4 6-3,,,,,,,,,,,,,,
+4-Dec-2023,Montevideo 125,3,Clay,QF,275,218,0,,,Robin Montgomery,Ylena In Albon,6-2 6-1,0.59,0.0%,5.0%,63.3%,50.0%,31.8%,28.6% (2/7),38.9%,33.3%,0.0%,28.1%,43.8%,0.0% (0/5),1:15
+4-Dec-2023,Montevideo 125,3,Clay,R16,275,364,1,,,Ylena In Albon,Daria Lodikova,6-2 7-6(4),1.44,1.4%,1.4%,72.9%,70.6%,52.6%,75.0% (6/8),57.6%,49.3%,2.9%,37.5%,59.5%,57.1% (4/7),1:50
+4-Dec-2023,Montevideo 125,3,Clay,R32,275,325,1,,,Ylena In Albon,Raveena Kingsley,6-3 6-3,1.46,9.8%,0.0%,77.0%,63.8%,57.1%,33.3% (1/3),58.8%,55.2%,1.7%,56.8%,50.0%,50.0% (5/10),1:27
+20-Nov-2023,W100 Valencia,3,Clay,R32,220,59,0,,1,Mayar Sherif,Ylena In Albon,7-5 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W25 Solarino,3,Carpet,QF,189,652,0,1,Q,Emilie Lindh Gallagher,Ylena In Albon,5-7 7-5 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W25 Solarino,3,Carpet,R16,189,663,1,1,SE,Ylena In Albon,Anastasia Abbagnato,6-2 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W25 Solarino,3,Carpet,R32,189,498,1,1,,Ylena In Albon,Diletta Cherubini,6-0 3-1 RET,,,,,,,,,,,,,,
+23-Oct-2023,W25 Santa Margherita di Pula,3,Clay,QF,189,406,0,2,8,Martina Colmegna,Ylena In Albon,6-4 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R16,189,718,1,2,Q,Ylena In Albon,Alessandra Mazzola,6-4 7-5,,,,,,,,,,,,,,
+23-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,189,976,1,2,Q,Ylena In Albon,Irene Lavino,4-0 RET,,,,,,,,,,,,,,
+9-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R16,184,477,0,1,Q,Federica Bilardo,Ylena In Albon,6-4 6-3,,,,,,,,,,,,,,
+9-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,184,458,1,1,,Ylena In Albon,Jennifer Ruggeri,6-2 6-1,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,SF,172,,0,1,Q,Ane Mintegi Del Olmo,Ylena In Albon,7-6(8) 6-1,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,QF,172,419,1,1,,Ylena In Albon,Aurora Zantedeschi,6-4 6-1,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R16,172,718,1,1,Q,Ylena In Albon,Nina Vargova,3-6 6-4 7-5,,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,172,660,1,1,Q,Ylena In Albon,Martina Spigarelli,6-4 6-1,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R32,170,184,0,Q,1,Miriam Bianca Bulgaru,Ylena In Albon,6-3 6-2,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,Q2,170,859,1,1,,Ylena In Albon,Dia Evtimova,6-0 6-0,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,Q1,170,1367,1,1,WC,Ylena In Albon,Gaia Parravicini,6-3 6-2,,,,,,,,,,,,,,
+18-Sep-2023,Parma 125,3,Clay,R32,167,298,0,,,Reka Luca Jani,Ylena In Albon,4-6 6-1 6-1,0.59,1.4%,2.8%,58.3%,54.8%,40.0%,46.2% (6/13),40.5%,30.5%,1.7%,29.8%,33.3%,75.0% (3/4),1:45
+11-Sep-2023,Bucharest 125,3,Clay,R32,160,216,0,,,Astra Sharma,Ylena In Albon,6-2 6-1,0.59,2.4%,2.4%,68.3%,42.9%,38.5%,16.7% (1/6),37.9%,34.8%,2.2%,24.1%,52.9%,100.0% (1/1),1:04
+4-Sep-2023,Bari 125,3,Clay,R32,159,177,0,,,Zeynep Sonmez,Ylena In Albon,6-4 7-6(4),0.84,2.4%,8.5%,74.4%,49.2%,38.1%,57.1% (8/14),45.6%,44.9%,2.6%,42.0%,50.0%,62.5% (5/8),1:58
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R16,159,407,0,3,,Ekaterina Maklakova,Ylena In Albon,7-5 6-1,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R32,159,454,1,3,,Ylena In Albon,Jenny Duerst,7-6(10) 6-4,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,159,102,0,,8,Lucrezia Stefanini,Ylena In Albon,6-2 6-1,0.54,0.0%,6.8%,59.1%,38.5%,38.9%,44.4% (4/9),35.8%,33.3%,2.0%,23.7%,61.5%,20.0% (1/5),1:10
+24-Jul-2023,W100 Figueira De Foz,3,Hard,QF,162,326,0,5,Q,Alina Korneeva,Ylena In Albon,6-3 6-4,,,,,,,,,,,,,,
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R16,162,199,1,5,,Ylena In Albon,Arina Rodionova,2-6 6-3 7-5,,,,,,,,,,,,,,
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R32,162,234,1,5,,Ylena In Albon,Sakura Hosogi,7-5 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,QF,160,278,0,4,,Lola Radivojevic,Ylena In Albon,6-4 6-3,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,R16,160,443,1,4,Q,Ylena In Albon,Chi Chi Scholl,2-6 7-6(4) 6-4,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,R32,160,441,1,4,WC,Ylena In Albon,Lexie Stevens,4-6 7-6(5) 6-0,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,160,156,0,,,Ana Konjuh,Ylena In Albon,6-4 6-4,0.85,0.0%,3.9%,56.9%,62.1%,54.5%,0.0% (0/3),45.6%,34.9%,9.5%,27.8%,44.4%,20.0% (1/5),1:09
+19-Jun-2023,Gaiba 125,3,Grass,R32,159,66,0,,1,Tatjana Maria,Ylena In Albon,6-3 6-4,0.57,1.4%,5.7%,57.1%,62.5%,50.0%,60.0% (3/5),42.0%,24.6%,13.1%,15.6%,34.5%,- (0/0),1:29
+12-Jun-2023,Valencia 125,3,Clay,R32,149,124,0,,,Tamara Korpatsch,Ylena In Albon,6-1 6-2,0.64,0.0%,0.0%,55.0%,36.4%,44.4%,28.6% (2/7),39.2%,38.6%,7.0%,18.5%,56.7%,20.0% (1/5),1:18
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R16,149,71,0,,1,Rebeka Masarova,Ylena In Albon,6-1 6-1,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,149,307,1,,WC,Ylena In Albon,Irina Khromacheva,6-2 6-3,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,149,102,0,Q,,Claire Liu,Ylena In Albon,6-1 6-4,0.56,2.0%,3.9%,70.6%,55.6%,26.7%,44.4% (4/9),38.8%,29.8%,2.1%,18.2%,57.1%,100.0% (2/2),1:13
+29-May-2023,Roland Garros,5,Clay,Q3,149,113,1,21,11,Ylena In Albon,Nao Hibino,1-6 6-2 6-4,1.05,0.0%,8.1%,62.8%,59.3%,40.6%,57.1% (8/14),51.2%,50.0%,1.3%,44.4%,61.5%,60.0% (6/10),
+29-May-2023,Roland Garros,5,Clay,Q2,149,321,1,21,,Ylena In Albon,Francesca Jones,4-1 RET,1.50,16.7%,8.3%,66.7%,87.5%,25.0%,- (0/0),55.3%,50.0%,0.0%,44.4%,62.5%,25.0% (2/8),
+29-May-2023,Roland Garros,5,Clay,Q1,149,188,1,21,,Ylena In Albon,Marcela Zacarias,6-3 6-0,1.59,3.4%,0.0%,98.3%,63.8%,0.0%,80.0% (4/5),61.5%,59.5%,0.0%,55.9%,100.0%,45.5% (5/11),
+15-May-2023,Florence 125,3,Clay,QF,132,65,0,,4,Jasmine Paolini,Ylena In Albon,4-6 6-4 6-4,1.00,0.0%,3.3%,71.4%,60.0%,50.0%,44.4% (4/9),49.0%,42.9%,0.8%,41.6%,46.7%,30.8% (4/13),2:24
+15-May-2023,Florence 125,3,Clay,R16,132,194,1,,,Ylena In Albon,Magali Kempen,6-7(4) 6-3 6-1,1.24,1.1%,4.2%,75.8%,63.9%,43.5%,63.6% (7/11),54.7%,50.9%,0.9%,42.7%,69.7%,50.0% (8/16),2:17
+15-May-2023,Florence 125,3,Clay,R32,132,97,1,,7,Ylena In Albon,Anna Karolina Schmiedlova,7-6(11) 6-3,1.01,2.1%,2.1%,64.2%,65.6%,52.9%,71.4% (5/7),51.5%,39.2%,4.1%,30.4%,53.6%,60.0% (3/5),2:12
+1-May-2023,Reus 125,3,Clay,R32,135,30,0,,1,Jil Teichmann,Ylena In Albon,6-1 6-3,0.56,1.4%,7.2%,69.6%,56.3%,33.3%,42.9% (3/7),40.7%,28.6%,2.0%,27.3%,31.3%,0.0% (0/1),1:27
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,F,135,371,0,1,,Nikola Bartunkova,Ylena In Albon,6-0 7-5,,,,,,,,,,,,,,
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,SF,135,835,1,1,Q,Ylena In Albon,Anne Schaefer,6-2 7-6(3),,,,,,,,,,,,,,
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,QF,135,400,1,1,,Ylena In Albon,Dea Herdzelas,6-3 7-6(3),,,,,,,,,,,,,,
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,135,1096,1,1,Q,Ylena In Albon,Jennifer Ruggeri,6-4 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,135,521,1,1,SE,Ylena In Albon,Sara Cakarevic,6-1 6-3,,,,,,,,,,,,,,
+17-Apr-2023,Stuttgart,3,Clay,R32,138,71,0,Q,WC,Tatjana Maria,Ylena In Albon,6-2 4-6 7-6(4),0.90,0.9%,0.9%,65.5%,60.8%,64.1%,75.0% (6/8),48.8%,34.3%,7.8%,24.1%,47.7%,14.3% (1/7),2:45
+17-Apr-2023,Stuttgart,3,Clay,Q2,138,58,1,8,3,Ylena In Albon,Linda Fruhvirtova,7-5 6-4,1.03,1.5%,3.1%,60.0%,59.0%,26.9%,45.5% (5/11),51.4%,55.7%,3.8%,41.3%,75.8%,61.5% (8/13),1:43
+17-Apr-2023,Stuttgart,3,Clay,Q1,138,201,1,8,,Ylena In Albon,Mona Barthel,6-3 6-7(2) 7-5,1.33,6.0%,2.4%,72.6%,62.3%,73.9%,0.0% (0/3),54.0%,45.8%,6.8%,40.3%,52.9%,46.2% (6/13),2:04
+10-Apr-2023,W60 Chiasso,3,Clay,R32,137,232,0,3,,Tena Lukas,Ylena In Albon,6-2 6-0,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,R32,137,327,0,,WC,Eugenie Bouchard,Ylena In Albon,6-3 6-2,0.73,0.0%,7.7%,57.7%,50.0%,36.4%,40.0% (4/10),42.5%,40.7%,3.7%,31.3%,54.5%,28.6% (2/7),1:17
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,133,99,0,,7,Sara Errani,Ylena In Albon,6-3 6-2,0.82,0.0%,3.2%,61.3%,47.4%,29.2%,36.4% (4/11),43.9%,48.9%,0.0%,42.9%,70.0%,50.0% (3/6),1:24
+20-Mar-2023,Miami,3,Hard,Q1,133,105,0,,19,Magdalena Frech,Ylena In Albon,6-2 6-3,0.63,1.8%,5.3%,75.4%,55.8%,42.9%,55.6% (5/9),42.1%,30.0%,4.0%,28.6%,31.8%,0.0% (0/1),1:24
+6-Mar-2023,Indian Wells,3,Hard,Q1,134,97,0,,14,Sara Errani,Ylena In Albon,6-4 6-2,0.64,1.7%,1.7%,72.9%,60.5%,31.3%,20.0% (1/5),42.0%,30.2%,0.0%,28.2%,35.7%,25.0% (1/4),1:17
+20-Feb-2023,W40 Macon,3,Hard,R32,132,212,0,4,,Jaqueline Cristian,Ylena In Albon,7-6(0) 7-5,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,QF,133,128,0,4,5,Clara Tauson,Ylena In Albon,6-1 6-0,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R16,133,201,1,4,,Ylena In Albon,Irina Bara,6-4 7-5,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,133,219,1,4,,Ylena In Albon,Natalija Stevanovic,6-3 7-6(4),,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,R16,134,263,0,1,,Anastasia Gasanova,Ylena In Albon,4-6 6-0 6-1,,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,R32,134,286,1,1,,Ylena In Albon,Daniela Vismane,3-6 6-4 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R16,131,239,0,1,,Ekaterine Gorgodze,Ylena In Albon,7-5 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,131,640,1,1,WC,Ylena In Albon,Matilde Jorge,6-4 6-1,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R32,,,0,2,,Urszula Radwanska,Ylena In Albon,6-4 4-6 6-2,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,123,240,0,19,,Arianne Hartono,Ylena In Albon,6-4 6-4,0.77,0.0%,0.0%,73.1%,63.3%,44.4%,70.0% (7/10),46.0%,32.2%,1.7%,30.0%,36.8%,50.0% (1/2),1:24
+21-Nov-2022,W80+H Valencia,3,Clay,F,141,162,0,,,Marina Bassols Ribera,Ylena In Albon,6-4 6-0,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,SF,141,150,1,,7,Ylena In Albon,Alycia Parks,7-5 7-6(4),,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,QF,141,390,1,,Q,Ylena In Albon,Veronika Erjavec,6-3 7-5,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R16,141,265,1,,Q,Ylena In Albon,Sada Nahimana,6-4 2-0 RET,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,141,108,1,,2,Ylena In Albon,Cristina Bucsa,6-2 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,SF,150,193,0,7,,Aliona Bolsova,Ylena In Albon,6-2 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,QF,150,159,1,7,,Ylena In Albon,Marina Bassols Ribera,6-2 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R16,150,278,1,7,WC,Ylena In Albon,Andrea Lazaro Garcia,6-3 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,150,263,1,7,Q,Ylena In Albon,Sada Nahimana,6-7(4) 6-4 6-2,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,F,138,159,0,1,2,Brenda Fruhvirtova,Ylena In Albon,6-0 6-1,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,SF,138,293,1,1,,Ylena In Albon,Nuria Brancaccio,6-1 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,QF,138,263,1,1,6,Ylena In Albon,Darja Semenistaja,7-5 6-3,,,,,,,,,,,,,,
@@ -38,7 +134,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-May-2022,W60 Grado,3,Clay,QF,117,245,1,1,,Ylena In Albon,Marcela Zacarias,6-1 6-1,,,,,,,,,,,,,,
 23-May-2022,W60 Grado,3,Clay,R16,117,357,1,1,Q,Ylena In Albon,Tara Wurth,5-7 6-3 7-5,,,,,,,,,,,,,,
 23-May-2022,W60 Grado,3,Clay,R32,117,234,1,1,,Ylena In Albon,Katharina Gerlach,6-1 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,117,244,0,26,,Yuriko Miyazaki,Ylena In Albon,6-3 6-3,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,117,244,0,26,,Yuriko Miyazaki,Ylena In Albon,6-3 6-3,0.69,1.7%,5.2%,58.6%,50.0%,58.3%,33.3% (2/6),43.8%,31.9%,14.9%,15.4%,52.4%,100.0% (1/1),
 9-May-2022,W60 Saint-Gaudens,3,Clay,F,136,236,1,1,,Ylena In Albon,Carolina Alves,4-6 6-4 6-3,,,,,,,,,,,,,,
 9-May-2022,W60 Saint-Gaudens,3,Clay,SF,136,143,1,1,3,Ylena In Albon,Daria Snigur,7-5 6-1,,,,,,,,,,,,,,
 9-May-2022,W60 Saint-Gaudens,3,Clay,QF,136,266,1,1,,Ylena In Albon,Carole Monnet,6-4 6-4,,,,,,,,,,,,,,
@@ -55,7 +151,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Apr-2022,Bogota,3,Clay,R32,142,33,0,,1,Camila Osorio,Ylena In Albon,7-6(4) 2-6 2-2 RET,1.05,0.0%,6.4%,56.4%,73.6%,39.0%,81.3% (13/16),51.1%,43.5%,1.1%,34.3%,68.0%,35.7% (5/14),2:06
 21-Mar-2022,W25 Medellin,3,Clay,F,147,258,0,2,12,Suzan Lamens,Ylena In Albon,6-4 6-2,,,,,,,,,,,,,,
 21-Mar-2022,W25 Medellin,3,Clay,SF,147,275,1,2,11,Ylena In Albon,Daniela Vismane,2-6 6-3 6-1,,,,,,,,,,,,,,
-21-Mar-2022,W25 Medellin,3,Clay,QF,147,248,1,2,10,Ylena In Albon,Maria Carle,3-6 7-5 7-5,,,,,,,,,,,,,,
+21-Mar-2022,W25 Medellin,3,Clay,QF,147,248,1,2,10,Ylena In Albon,Maria Lourdes Carle,3-6 7-5 7-5,,,,,,,,,,,,,,
 21-Mar-2022,W25 Medellin,3,Clay,R16,147,327,1,2,15,Ylena In Albon,Andrea Gamiz,3-6 6-4 6-4,,,,,,,,,,,,,,
 21-Mar-2022,W25 Medellin,3,Clay,R32,147,558,1,2,,Ylena In Albon,Nicole Fossa Huergo,6-3 6-7(2) 6-1,,,,,,,,,,,,,,
 14-Mar-2022,W25 Anapoima,3,Clay,QF,144,382,0,3,,Eva Vedder,Ylena In Albon,7-5 7-5,,,,,,,,,,,,,,
@@ -130,7 +226,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-May-2021,W15 Antalya,3,Clay,R32,456,834,0,6,Q,Antonia Ruzic,Ylena In Albon,6-3 3-6 6-4,,,,,,,,,,,,,,
 26-Apr-2021,W15 Antalya,3,Clay,R16,456,1223,0,5,,Kristina Dmitruk,Ylena In Albon,6-2 6-2,,,,,,,,,,,,,,
 26-Apr-2021,W15 Antalya,3,Clay,R32,456,857,1,5,Q,Ylena In Albon,Daria Krasnova,6-2 3-0 RET,,,,,,,,,,,,,,
-19-Apr-2021,W15 Antalya,3,Clay,SF,458,,0,4,SE,Anastasiya Konstantinovna Soboleva,Ylena In Albon,4-6 6-1 6-3,,,,,,,,,,,,,,
+19-Apr-2021,W15 Antalya,3,Clay,SF,458,,0,4,SE,Anastasiya Soboleva,Ylena In Albon,4-6 6-1 6-3,,,,,,,,,,,,,,
 19-Apr-2021,W15 Antalya,3,Clay,QF,458,645,1,4,,Ylena In Albon,Erika Andreeva,7-5 4-6 6-2,,,,,,,,,,,,,,
 19-Apr-2021,W15 Antalya,3,Clay,R16,458,620,1,4,,Ylena In Albon,Manca Pislak,6-4 6-1,,,,,,,,,,,,,,
 19-Apr-2021,W15 Antalya,3,Clay,R32,458,980,1,4,Q,Ylena In Albon,Ilay Yoruk,6-0 6-3,,,,,,,,,,,,,,
@@ -152,8 +248,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jan-2021,W15 Manacor,3,Hard,R32,432,452,1,7,,Ylena In Albon,Miriam Kolodziejova,6-4 6-2,,,,,,,,,,,,,,
 18-Jan-2021,W15 Manacor,3,Hard,R32,432,621,0,8,Q,Oksana Selekhmeteva,Ylena In Albon,6-4 6-7(5) 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,Q2,431,375,0,15,6,Ioana Loredana Rosca,Ylena In Albon,7-6(1) 6-1,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,Q2,431,375,0,15,6,Ioana Loredana Rosca,Ylena In Albon,7-6(1) 6-1,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,Q1,431,634,1,15,SR,Ylena In Albon,Lisa Matviyenko,7-6(4) 6-1,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,Q1,431,634,1,15,SR,Ylena In Albon,Lisa Matviyenko,7-6(4) 6-1,,,,,,,,,,,,,,
 7-Dec-2020,W15 Madrid,3,Clay,R32,429,937,0,5,,Jessica Bouzas Maneiro,Ylena In Albon,6-2 6-3,,,,,,,,,,,,,,
 28-Sep-2020,W25 Porto,3,Hard,Q2,425,379,0,,10,Marina Bassols Ribera,Ylena In Albon,6-1 6-2,,,,,,,,,,,,,,
@@ -195,7 +289,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-May-2019,W80 Cagnes Sur Mer,3,Clay,Q2,182,480,1,,,Ylena In Albon,Manon Arcangioli,6-1 6-1,,,,,,,,,,,,,,
 6-May-2019,W80 Cagnes Sur Mer,3,Clay,Q1,182,504,1,,,Ylena In Albon,Akgul Amanmuradova,6-4 6-2,,,,,,,,,,,,,,
 22-Apr-2019,W25 Chiasso,3,Clay,R32,181,302,0,3,,Dalma Galfi,Ylena In Albon,7-5 6-3,,,,,,,,,,,,,,
-8-Apr-2019,Lugano,3,Clay,R32,183,101,0,WC,,Kristyna Pliskova,Ylena In Albon,6-4 7-5 (ch),0.71,1.5%,10.3%,67.6%,65.2%,36.4%,50.0% (4/8),44.2%,31.1%,11.5%,18.2%,46.4%,40.0% (2/5),1:25
+8-Apr-2019,Lugano,3,Clay,R32,183,101,0,WC,,Kristyna Pliskova,Ylena In Albon,6-4 7-5,0.71,1.5%,10.3%,67.6%,65.2%,36.4%,50.0% (4/8),44.2%,31.1%,11.5%,18.2%,46.4%,40.0% (2/5),1:25
 25-Mar-2019,W60 Croissy Beaubourg,3,Hard,R32,179,297,0,,,Cristina Bucsa,Ylena In Albon,6-4 6-4,,,,,,,,,,,,,,
 4-Mar-2019,W25 Yokohama,3,Hard,QF,184,198,0,4,,Na Lae Han,Ylena In Albon,6-4 4-6 6-3,,,,,,,,,,,,,,
 4-Mar-2019,W25 Yokohama,3,Hard,R16,184,609,1,4,IR,Ylena In Albon,Anna Morgina,6-2 6-4,,,,,,,,,,,,,,

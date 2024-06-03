@@ -1,4 +1,73 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Rabat,3,Clay,R16,294,105,0,Q,,Kamilla Rakhimova,Camilla Rosatello,4-0 RET,0.52,0.0%,7.1%,35.7%,20.0%,44.4%,0.0% (0/2),34.4%,33.3%,0.0%,18.2%,57.1%,- (0/0),0:30
+20-May-2024,Rabat,3,Clay,R32,294,36,1,Q,1,Camilla Rosatello,Yue Yuan,7-6(7) 1-6 6-4,0.84,0.0%,3.3%,60.7%,55.4%,39.6%,56.3% (9/16),46.4%,42.5%,2.3%,33.9%,58.1%,62.5% (5/8),2:35
+20-May-2024,Rabat,3,Clay,Q2,294,326,1,,,Camilla Rosatello,Dalila Spiteri,6-4 6-1,1.26,0.0%,2.9%,47.8%,72.7%,50.0%,87.5% (7/8),55.4%,49.2%,4.9%,35.9%,72.7%,38.5% (5/13),1:29
+20-May-2024,Rabat,3,Clay,Q1,294,346,1,,ALT,Camilla Rosatello,Martyna Kubka,6-4 6-7(4) 6-4,0.98,2.8%,4.6%,49.5%,77.8%,38.2%,63.6% (7/11),49.3%,41.4%,3.4%,40.3%,43.6%,28.6% (6/21),2:48
+29-Apr-2024,Saint Malo 125,3,Clay,Q1,317,528,0,6,,Diana Martynov,Camilla Rosatello,7-6(3) 0-0 RET,0.94,0.0%,2.2%,60.0%,70.4%,16.7%,50.0% (3/6),48.4%,48.0%,2.0%,41.7%,64.3%,42.9% (3/7),1:09
+22-Apr-2024,W100 Oeiras,3,Clay,QF,311,151,0,Q,4,Panna Udvardy,Camilla Rosatello,6-0 3-6 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,R16,311,156,1,Q,8,Camilla Rosatello,Simona Waltert,5-7 7-6(5) 7-6(2),,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,R32,311,163,1,Q,,Camilla Rosatello,Olivia Gadecki,6-7(3) 6-4 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,Q2,311,181,1,13,1,Camilla Rosatello,Katarina Zavatska,7-5 6-3,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,Q1,311,482,1,13,,Camilla Rosatello,Stephanie Wagner,6-3 5-7 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,317,102,0,Q,6,Jessica Bouzas Maneiro,Camilla Rosatello,6-1 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q2,317,522,1,4,10,Camilla Rosatello,Diletta Cherubini,4-6 6-0 6-0,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q1,317,,1,4,,Camilla Rosatello,Celia Anson Sanchez,6-1 6-0,,,,,,,,,,,,,,
+25-Mar-2024,Antalya 125,3,Clay,Q1,316,203,0,,7,Tena Lukas,Camilla Rosatello,7-6(0) 6-7(5) 6-4,0.91,0.9%,3.7%,51.4%,55.4%,52.8%,30.0% (3/10),47.7%,41.6%,1.8%,30.9%,57.8%,60.0% (6/10),2:27
+4-Mar-2024,W35 Santo Domingo,3,Hard,R32,318,494,0,13,,Hina Inoue,Camilla Rosatello,4-6 6-3 6-0,,,,,,,,,,,,,,
+5-Feb-2024,Mumbai 125,3,Hard,R16,325,306,0,LL,LL,Sohyun Park,Camilla Rosatello,6-3 5-7 6-3,0.81,2.9%,4.9%,52.4%,64.8%,44.9%,68.8% (11/16),45.8%,36.0%,1.0%,21.3%,59.0%,42.9% (3/7),1:34
+5-Feb-2024,Mumbai 125,3,Hard,R32,325,190,1,LL,,Camilla Rosatello,Anastasia Tikhonova,7-5 3-6 6-2,1.26,6.1%,1.2%,51.2%,66.7%,67.5%,50.0% (2/4),52.7%,41.5%,0.9%,30.6%,50.9%,44.4% (4/9),1:26
+5-Feb-2024,Mumbai 125,3,Hard,Q2,325,376,0,11,,Lina Glushko,Camilla Rosatello,6-3 6-3,0.74,3.9%,6.5%,49.4%,55.3%,43.6%,54.5% (6/11),44.2%,37.7%,4.9%,23.5%,55.6%,33.3% (2/6),1:28
+5-Feb-2024,Mumbai 125,3,Hard,Q1,325,488,1,11,,Camilla Rosatello,Zhibek Kulambayeva,4-6 6-4 6-3,1.14,4.9%,2.4%,67.1%,72.7%,33.3%,42.9% (3/7),52.2%,46.0%,1.0%,48.6%,39.3%,46.2% (6/13),2:01
+22-Jan-2024,W50 Pune,3,Hard,R32,321,243,0,,,Anca Alexia Todoni,Camilla Rosatello,7-6(0) 6-1,,,,,,,,,,,,,,
+15-Jan-2024,W50 Bengaluru,3,Hard,R32,321,317,0,,,Sakura Hosogi,Camilla Rosatello,6-3 6-7(5) 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,302,140,0,,,Valeria Savinykh,Camilla Rosatello,6-4 6-4,,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,R32,305,125,0,Q,,Lucrezia Stefanini,Camilla Rosatello,5-7 6-3 6-1,0.88,2.3%,6.9%,58.6%,54.9%,30.6%,30.8% (4/13),46.6%,48.3%,1.1%,45.2%,56.0%,54.5% (6/11),2:14
+16-Oct-2023,Monastir,3,Hard,Q2,305,184,1,,5,Camilla Rosatello,Carole Monnet,4-6 6-4 6-1,1.18,5.1%,5.1%,50.0%,59.0%,59.0%,42.9% (3/7),53.1%,48.5%,1.0%,43.7%,60.0%,46.7% (7/15),2:02
+16-Oct-2023,Monastir,3,Hard,Q1,305,338,1,,ALT,Camilla Rosatello,Conny Perrin,6-2 3-6 6-1,1.30,5.9%,8.2%,52.9%,77.8%,45.0%,81.8% (9/11),55.7%,48.8%,1.2%,44.4%,63.2%,41.7% (5/12),1:31
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R32,303,168,0,,6,Raluka Serban,Camilla Rosatello,7-5 4-6 6-2,,,,,,,,,,,,,,
+2-Oct-2023,W25 Baza,3,Hard,R16,302,357,0,5,,Lina Glushko,Camilla Rosatello,6-0 6-3,,,,,,,,,,,,,,
+2-Oct-2023,W25 Baza,3,Hard,R32,302,629,1,5,Q,Camilla Rosatello,Victoria Muntean,6-0 4-6 6-3,,,,,,,,,,,,,,
+11-Sep-2023,Bucharest 125,3,Clay,R32,279,185,0,Q,,Irina Bara,Camilla Rosatello,7-5 6-1,0.70,0.0%,3.4%,66.1%,48.7%,40.0%,50.0% (6/12),41.9%,37.9%,0.0%,38.3%,36.4%,42.9% (3/7),1:17
+11-Sep-2023,Bucharest 125,3,Clay,Q2,279,325,1,,ALT,Camilla Rosatello,Andreea Prisacariu,6-3 7-6(0),1.14,1.7%,10.0%,50.0%,63.3%,33.3%,0.0% (0/6),53.9%,58.8%,0.0%,54.0%,72.2%,61.5% (8/13),1:26
+11-Sep-2023,Bucharest 125,3,Clay,Q1,279,280,1,,7,Camilla Rosatello,Valeriya Strakhova,6-4 1-6 6-4,1.00,0.0%,3.6%,45.2%,60.5%,50.0%,25.0% (2/8),50.0%,45.3%,0.0%,41.0%,56.0%,45.5% (5/11),2:04
+4-Sep-2023,Bari 125,3,Clay,R32,305,113,0,WC,3,Aliona Bolsova,Camilla Rosatello,3-6 6-0 6-4,0.89,0.0%,1.4%,67.1%,53.2%,60.9%,28.6% (2/7),47.3%,39.5%,0.0%,38.9%,40.9%,60.0% (3/5),1:47
+28-Aug-2023,W60 Prague,3,Clay,SF,305,450,0,12,,Cristina Andreea Mitu,Camilla Rosatello,6-3 6-2,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,QF,305,291,1,12,,Camilla Rosatello,Anca Alexia Todoni,6-2 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,R16,305,782,1,12,Q,Camilla Rosatello,Luca Udvardy,6-4 6-4,,,,,,,,,,,,,,
+28-Aug-2023,W60 Prague,3,Clay,R32,305,389,1,12,Q,Camilla Rosatello,Maja Chwalinska,6-3 7-6(4),,,,,,,,,,,,,,
+21-Aug-2023,W60 Prerov,3,Clay,QF,321,521,0,,Q,Aurora Zantedeschi,Camilla Rosatello,7-6(4) 6-4,,,,,,,,,,,,,,
+21-Aug-2023,W60 Prerov,3,Clay,R16,321,336,1,,,Camilla Rosatello,Julie Struplova,6-2 6-1,,,,,,,,,,,,,,
+21-Aug-2023,W60 Prerov,3,Clay,R32,321,261,1,,7,Camilla Rosatello,Sada Nahimana,6-2 4-6 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Cordenons,3,Clay,QF,334,250,0,,5,Veronika Erjavec,Camilla Rosatello,6-1 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Cordenons,3,Clay,R16,334,592,1,,Q,Camilla Rosatello,Ines Ibbou,6-4 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Cordenons,3,Clay,R32,334,188,1,,3,Camilla Rosatello,Leyre Romero Gormaz,2-6 6-4 6-2,,,,,,,,,,,,,,
+17-Jul-2023,Palermo,3,Clay,R16,363,57,0,WC,7,Emma Navarro,Camilla Rosatello,6-2 6-1,0.60,2.2%,0.0%,66.7%,50.0%,53.3%,42.9% (3/7),39.6%,29.4%,2.0%,14.7%,58.8%,0.0% (0/1),1:04
+17-Jul-2023,Palermo,3,Clay,R32,363,120,1,WC,,Camilla Rosatello,Viktorija Golubic,6-1 6-1,1.85,4.7%,2.3%,62.8%,66.7%,62.5%,75.0% (3/4),64.8%,64.4%,0.0%,56.5%,72.7%,60.0% (6/10),1:11
+10-Jul-2023,W60 Rome,3,Clay,R32,308,788,0,,Q,Jennifer Ruggeri,Camilla Rosatello,6-4 6-4,,,,,,,,,,,,,,
+3-Jul-2023,W25 Stuttgart-Vaihingen,3,Clay,R16,308,223,0,,2,Miriam Bianca Bulgaru,Camilla Rosatello,6-3 7-6(7),,,,,,,,,,,,,,
+3-Jul-2023,W25 Stuttgart-Vaihingen,3,Clay,R32,308,339,1,,,Camilla Rosatello,Andreea Prisacariu,6-0 6-2,,,,,,,,,,,,,,
+19-Jun-2023,Gaiba 125,3,Grass,R32,311,123,0,WC,,Su Jeong Jang,Camilla Rosatello,6-3 6-4,0.79,7.7%,5.8%,61.5%,46.9%,65.0%,42.9% (3/7),44.3%,36.5%,1.6%,27.7%,62.5%,50.0% (2/4),1:24
+12-Jun-2023,W60 Rome,3,Clay,R32,308,382,0,,,Silvia Ambrosio,Camilla Rosatello,6-0 6-0,,,,,,,,,,,,,,
+5-Jun-2023,W60 Caserta,3,Clay,SF,284,194,0,,6,Raluka Serban,Camilla Rosatello,6-3 6-2,,,,,,,,,,,,,,
+5-Jun-2023,W60 Caserta,3,Clay,QF,284,619,1,,WC,Camilla Rosatello,Georgia Pedone,7-6(3) 6-4,,,,,,,,,,,,,,
+5-Jun-2023,W60 Caserta,3,Clay,R16,284,195,1,,7,Camilla Rosatello,Katrina Scott,6-3 6-3,,,,,,,,,,,,,,
+5-Jun-2023,W60 Caserta,3,Clay,R32,284,261,1,,,Camilla Rosatello,Sada Nahimana,6-2 6-4,,,,,,,,,,,,,,
+22-May-2023,W60 Grado,3,Clay,SF,294,229,0,7,6,Lucie Havlickova,Camilla Rosatello,6-2 6-4,,,,,,,,,,,,,,
+22-May-2023,W60 Grado,3,Clay,QF,294,223,1,7,3,Camilla Rosatello,Zeynep Sonmez,6-3 6-3,,,,,,,,,,,,,,
+22-May-2023,W60 Grado,3,Clay,R16,294,1182,1,7,Q,Camilla Rosatello,Martina Caregaro,6-7(1) 6-0 4-0 RET,,,,,,,,,,,,,,
+22-May-2023,W60 Grado,3,Clay,R32,294,321,1,7,,Camilla Rosatello,Sapfo Sakellaridi,6-3 6-3,,,,,,,,,,,,,,
+15-May-2023,Florence 125,3,Clay,R32,296,158,0,WC,,Dayana Yastremska,Camilla Rosatello,6-3 7-5,0.79,0.0%,2.9%,63.8%,59.1%,36.0%,55.6% (5/9),44.5%,39.0%,5.2%,34.0%,48.1%,25.0% (2/8),1:42
+8-May-2023,Rome,3,Clay,R128,296,56,0,WC,,Claire Liu,Camilla Rosatello,6-7(9) 6-2 6-2,0.85,0.0%,2.4%,63.9%,60.4%,43.3%,14.3% (1/7),45.7%,39.0%,1.0%,31.0%,55.9%,18.2% (2/11),2:34
+24-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,259,835,0,4,Q,Anne Schaefer,Camilla Rosatello,6-2 7-6(3),,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,255,388,0,4,,Kajsa Rinaldo Persson,Camilla Rosatello,6-2 6-7(3) 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,255,490,1,4,Q,Camilla Rosatello,Alice Rame,6-0 6-4,,,,,,,,,,,,,,
+27-Feb-2023,Monterrey,3,Hard,Q1,242,98,0,,2,Lesia Tsurenko,Camilla Rosatello,6-4 6-2,0.65,1.7%,10.3%,56.9%,51.5%,36.0%,28.6% (2/7),40.7%,36.0%,0.0%,32.1%,40.9%,50.0% (2/4),1:09
+20-Feb-2023,W25 Santo Domingo,3,Hard,R32,239,417,0,4,,Stacey Fung,Camilla Rosatello,6-1 6-1,,,,,,,,,,,,,,
+13-Feb-2023,W25 Santo Domingo,3,Hard,R32,242,482,0,5,,Jessica Failla,Camilla Rosatello,6-3 6-3,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R16,233,263,0,5,,Audrey Albie,Camilla Rosatello,6-1 6-0,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R32,233,1158,1,5,WC,Camilla Rosatello,Katriin Saar,7-6(5) 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,229,425,0,,Q,Francesca Curmi,Camilla Rosatello,6-2 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,230,107,0,,2,Cristina Bucsa,Camilla Rosatello,7-5 6-1,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,QF,236,206,0,5,4,Katharina Hobgarski,Camilla Rosatello,6-4 4-6 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,R16,236,755,1,5,Q,Camilla Rosatello,Martina Spigarelli,6-4 6-2,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,R32,236,1111,1,5,WC,Camilla Rosatello,Samira De Stefano,6-2 6-4,,,,,,,,,,,,,,

@@ -1,4 +1,12 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Nov-2022,Andorra 125,3,Hard,R32,439,24,0,WC,1,Shuai Zhang,Nina Stojanovic,6-1 6-4,0.70,4.0%,12.0%,68.0%,50.0%,25.0%,50.0% (5/10),41.3%,40.7%,5.1%,30.6%,56.5%,50.0% (2/4),1:07
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,F,637,386,1,,,Nina Stojanovic,Tatiana Barkova,7-6(10) 5-7 6-1,,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,SF,637,764,1,,WC,Nina Stojanovic,Alina Korneeva,6-2 2-6 7-6(4),,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,QF,637,241,1,,3,Nina Stojanovic,Magali Kempen,4-6 6-4 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,R16,637,282,1,,5,Nina Stojanovic,Yuliya Hatouka,7-6(6) 3-6 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W25 Sharm ElSheikh,3,Hard,R32,637,519,1,,Q,Nina Stojanovic,Ya Yi Yang,6-3 6-7(4) 6-3,,,,,,,,,,,,,,
+7-Nov-2022,W25 Sharm ElSheikh,3,Hard,R16,637,117,0,,2,Arantxa Rus,Nina Stojanovic,7-5 6-3,,,,,,,,,,,,,,
+7-Nov-2022,W25 Sharm ElSheikh,3,Hard,R32,637,513,1,,,Nina Stojanovic,Sowjanya Bavisetti,6-1 6-3,,,,,,,,,,,,,,
 17-Jan-2022,Australian Open,5,Hard,Q2,117,165,0,4,,Hailey Baptiste,Nina Stojanovic,6-3 6-4,0.85,6.5%,4.3%,69.6%,65.6%,57.1%,0.0% (0/2),44.0%,31.4%,5.7%,32.4%,30.3%,0.0% (0/3),1:14
 17-Jan-2022,Australian Open,5,Hard,Q1,117,195,1,4,,Nina Stojanovic,Laura Pigossi,6-1 6-2,2.55,5.6%,2.8%,44.4%,87.5%,65.0%,0.0% (0/1),68.8%,63.6%,0.0%,57.6%,81.8%,100.0% (6/6),0:59
 3-Jan-2022,Melbourne 2,3,Hard,Q2,116,94,0,9,2,Claire Liu,Nina Stojanovic,5-7 6-2 6-3,0.90,1.1%,7.7%,63.7%,55.2%,45.5%,57.1% (8/14),47.0%,43.5%,10.5%,33.3%,62.8%,30.8% (4/13),2:26
@@ -10,7 +18,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,QF,111,249,1,3,,Nina Stojanovic,Andrea Lazaro Garcia,7-5 6-3,,,,,,,,,,,,,,
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,R16,111,649,1,3,LL,Nina Stojanovic,Nicole Fossa Huergo,6-2 6-3,,,,,,,,,,,,,,
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,R32,111,218,1,3,,Nina Stojanovic,Irene Burillo Escorihuela,6-3 6-2,,,,,,,,,,,,,,
-30-Aug-2021,US Open,5,Hard,R128,94,2,0,,2,Aryna Sabalenka,Nina Stojanovic,6-4 6-7(4) 6-0 (ch),0.74,1.0%,4.0%,59.6%,50.8%,45.0%,36.4% (4/11),43.5%,38.3%,13.8%,13.7%,67.4%,37.5% (3/8),2:24
+30-Aug-2021,US Open,5,Hard,R128,94,2,0,,2,Aryna Sabalenka,Nina Stojanovic,6-4 6-7(4) 6-0,0.74,1.0%,4.0%,59.6%,50.8%,45.0%,36.4% (4/11),43.5%,38.3%,13.8%,13.7%,67.4%,37.5% (3/8),2:24
 24-Jul-2021,Tokyo Olympics,3,Hard,R32,90,19,0,,14,Maria Sakkari,Nina Stojanovic,6-1 6-2,,,,,,,,,,,,,,
 24-Jul-2021,Tokyo Olympics,3,Hard,R64,90,77,1,,,Nina Stojanovic,Nao Hibino,6-3 6-3,,,,,,,,,,,,,,
 12-Jul-2021,Prague,3,Hard,R16,90,181,0,7,,Grace Min,Nina Stojanovic,3-6 6-1 6-4,0.90,10.8%,7.5%,59.1%,70.9%,44.7%,72.7% (8/11),48.3%,35.6%,3.4%,29.0%,52.0%,20.0% (1/5),2:09
@@ -28,7 +36,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Apr-2021,Madrid,3,Clay,R64,88,29,0,Q,,Anett Kontaveit,Nina Stojanovic,7-6(4) 7-5,0.88,5.0%,6.3%,53.8%,48.8%,35.1%,41.7% (5/12),47.0%,50.5%,1.0%,44.8%,58.1%,50.0% (6/12),2:01
 29-Apr-2021,Madrid,3,Clay,Q2,88,205,1,22,WC,Nina Stojanovic,Ana Konjuh,6-4 6-2,1.61,8.2%,0.0%,57.1%,82.1%,52.4%,66.7% (2/3),58.0%,49.2%,3.2%,34.1%,77.3%,33.3% (4/12),1:19
 29-Apr-2021,Madrid,3,Clay,Q1,88,103,1,22,,Nina Stojanovic,Jasmine Paolini,6-4 6-7(5) 6-4,1.05,5.3%,5.3%,60.5%,62.3%,42.2%,50.0% (5/10),51.1%,47.9%,0.9%,40.2%,65.7%,43.8% (7/16),1:18
-17-Apr-2021,BJK Cup Playoffs: CAN vs SRB,3,Hard,RR,87,72,0,,,Leylah Fernandez,Nina Stojanovic,3-6 6-3 6-4 (ch),0.96,7.1%,0.0%,69.9%,59.5%,41.2%,70.0% (14/20),49.5%,44.3%,0.0%,35.5%,60.0%,38.5% (5/13),2:46
+17-Apr-2021,BJK Cup Playoffs: CAN vs SRB,3,Hard,RR,87,72,0,,,Leylah Fernandez,Nina Stojanovic,3-6 6-3 6-4,0.96,7.1%,0.0%,69.9%,59.5%,41.2%,70.0% (14/20),49.5%,44.3%,0.0%,35.5%,60.0%,38.5% (5/13),2:46
 17-Apr-2021,BJK Cup Playoffs: CAN vs SRB,3,Hard,RR,87,230,0,,,Rebecca Marino,Nina Stojanovic,6-4 7-6(6),0.72,3.6%,4.8%,57.8%,52.1%,48.6%,58.3% (7/12),44.1%,35.5%,16.1%,30.2%,47.4%,57.1% (4/7),1:43
 22-Mar-2021,Miami,3,Hard,R32,95,2,0,Q,2,Naomi Osaka,Nina Stojanovic,W/O,,,,,,,,,,,,,,
 22-Mar-2021,Miami,3,Hard,R64,95,28,1,Q,26,Nina Stojanovic,Yulia Putintseva,5-7 7-5 6-2,1.07,1.7%,4.2%,63.6%,68.0%,44.2%,58.3% (7/12),52.7%,43.5%,1.2%,37.3%,66.7%,77.8% (7/9),2:45
@@ -58,7 +66,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,QF,85,192,0,1,,Olga Govortsova,Nina Stojanovic,6-3 6-2,,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R16,85,194,1,1,,Nina Stojanovic,Richel Hogenkamp,6-4 4-6 6-3,,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R32,85,278,1,1,SE,Nina Stojanovic,Dejana Radanovic,2-6 6-3 6-4,,,,,,,,,,,,,,
-20-Jan-2020,Australian Open,5,Hard,R128,85,30,0,,30,Anastasia Pavlyuchenkova,Nina Stojanovic,6-1 7-5 (ch),0.66,3.7%,13.0%,53.7%,48.3%,44.0%,28.6% (2/7),40.7%,35.6%,11.9%,26.2%,58.8%,100.0% (2/2),1:12
+20-Jan-2020,Australian Open,5,Hard,R128,85,30,0,,30,Anastasia Pavlyuchenkova,Nina Stojanovic,6-1 7-5,0.66,3.7%,13.0%,53.7%,48.3%,44.0%,28.6% (2/7),40.7%,35.6%,11.9%,26.2%,58.8%,100.0% (2/2),1:12
 13-Jan-2020,Hobart,3,Hard,R32,84,62,0,LL,,Kristyna Pliskova,Nina Stojanovic,1-6 6-4 6-3,1.10,1.4%,5.7%,67.1%,76.6%,47.8%,25.0% (1/4),50.7%,36.3%,13.8%,30.0%,46.7%,60.0% (3/5),1:34
 13-Jan-2020,Hobart,3,Hard,Q2,84,101,0,3,12,Heather Watson,Nina Stojanovic,6-4 6-3,0.95,0.0%,0.0%,74.1%,55.8%,60.0%,33.3% (2/6),48.1%,41.1%,6.8%,27.0%,55.6%,20.0% (2/10),1:24
 13-Jan-2020,Hobart,3,Hard,Q1,84,202,1,3,,Nina Stojanovic,Anna Karolina Schmiedlova,7-6(6) 6-1,1.29,7.6%,6.1%,59.1%,69.2%,48.1%,50.0% (3/6),55.8%,50.8%,3.2%,47.9%,60.0%,83.3% (5/6),1:32
@@ -80,7 +88,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Sep-2019,Guangzhou,3,Hard,QF,110,129,0,SE,WC,Samantha Stosur,Nina Stojanovic,6-2 7-6(1),0.77,4.5%,7.5%,50.7%,55.9%,48.5%,50.0% (4/8),44.3%,37.0%,4.1%,25.0%,51.5%,16.7% (2/12),1:35
 16-Sep-2019,Guangzhou,3,Hard,R16,110,109,1,SE,WC,Nina Stojanovic,Shuai Peng,7-6(4) 2-6 6-0,1.20,8.0%,3.4%,64.4%,64.3%,48.4%,44.4% (4/9),53.7%,49.5%,1.0%,42.5%,67.9%,46.2% (6/13),2:03
 16-Sep-2019,Guangzhou,3,Hard,R32,110,197,1,SE,Q,Nina Stojanovic,Magdalena Frech,7-5 7-6(4),1.21,3.7%,6.1%,52.4%,67.4%,56.4%,66.7% (6/9),53.5%,45.6%,2.2%,36.5%,57.9%,33.3% (4/12),1:53
-9-Sep-2019,Nanchang,3,Hard,SF,134,78,0,,5,Rebecca Peterson,Nina Stojanovic,6-3 6-1 (ch),0.62,3.9%,11.8%,54.9%,60.7%,21.7%,16.7% (1/6),38.9%,35.5%,9.7%,30.2%,47.4%,16.7% (1/6),1:19
+9-Sep-2019,Nanchang,3,Hard,SF,134,78,0,,5,Rebecca Peterson,Nina Stojanovic,6-3 6-1,0.62,3.9%,11.8%,54.9%,60.7%,21.7%,16.7% (1/6),38.9%,35.5%,9.7%,30.2%,47.4%,16.7% (1/6),1:19
 9-Sep-2019,Nanchang,3,Hard,QF,134,74,1,,7,Nina Stojanovic,Kateryna Baindl,6-7(5) 6-4 6-4,1.10,3.4%,1.7%,51.3%,65.6%,53.4%,73.3% (11/15),52.7%,44.6%,5.0%,33.3%,61.0%,60.0% (6/10),2:51
 9-Sep-2019,Nanchang,3,Hard,R16,134,139,1,,,Nina Stojanovic,Samantha Stosur,6-4 6-3,1.38,8.8%,8.8%,43.9%,72.0%,59.4%,60.0% (3/5),56.3%,48.4%,4.8%,35.7%,58.8%,100.0% (5/5),1:26
 9-Sep-2019,Nanchang,3,Hard,R32,134,55,1,,2,Nina Stojanovic,Yafan Wang,6-2 6-4,1.32,5.0%,6.7%,58.3%,65.7%,44.0%,70.0% (7/10),56.9%,57.1%,3.6%,39.3%,75.0%,66.7% (6/9),1:20
@@ -236,7 +244,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2016,Saint Malo $50K,3,Clay,R16,191,226,1,7,,Nina Stojanovic,Jesika Maleckova,6-2 3-6 6-4,,,,,,,,,,,,,,
 19-Sep-2016,Saint Malo $50K,3,Clay,R32,191,296,1,7,,Nina Stojanovic,Julia Grabher,6-3 6-3,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R16,193,156,0,,8,Rebecca Sramkova,Nina Stojanovic,6-4 7-6(4),,,,,,,,,,,,,,
-12-Sep-2016,Biarritz $100K,3,Clay,R32,193,515,1,,WC,Nina Stojanovic,Sara Cakarevic,6-2 4-6 6-2 (ch),,,,,,,,,,,,,,
+12-Sep-2016,Biarritz $100K,3,Clay,R32,193,515,1,,WC,Nina Stojanovic,Sara Cakarevic,6-2 4-6 6-2,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,R32,193,164,0,,8,Dalila Jakupovic,Nina Stojanovic,7-6(3) 6-0,,,,,,,,,,,,,,
 29-Aug-2016,US Open,5,Hard,Q1,193,162,0,,,Ysaline Bonaventure,Nina Stojanovic,4-6 6-3 6-1,,,,,,,,,,,,,,
 4-Jul-2016,Versmold $50K,3,Clay,QF,228,229,0,,,Karolina Muchova,Nina Stojanovic,6-3 6-1,,,,,,,,,,,,,,

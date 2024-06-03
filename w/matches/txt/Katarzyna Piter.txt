@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 10-Jan-2022,Adelaide 2,3,Hard,Q1,520,314,0,ALT,,Kirsten Flipkens,Katarzyna Piter,6-2 6-0,0.47,1.7%,6.7%,58.3%,62.9%,32.0%,55.6% (5/9),38.8%,23.3%,0.0%,18.5%,31.3%,0.0% (0/2),1:08
 20-Sep-2021,Ostrava,3,Hard,Q1,453,88,0,,8,Bernarda Pera,Katarzyna Piter,6-0 6-1,0.46,2.8%,8.3%,61.1%,45.5%,21.4%,28.6% (2/7),32.5%,29.5%,13.6%,15.0%,41.7%,0.0% (0/1),0:58
 5-Jul-2021,Hamburg,3,Clay,Q1,373,225,0,,6,Katharina Gerlach,Katarzyna Piter,6-2 7-5,0.76,0.0%,4.8%,58.1%,50.0%,42.3%,50.0% (6/12),43.4%,40.3%,10.4%,38.6%,43.5%,33.3% (3/9),2:00
@@ -307,7 +307,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Feb-2014,Rio de Janeiro,3,Clay,QF,110,35,0,,1,Klara Koukalova,Katarzyna Piter,6-4 6-0,,,,,,,,,,,,,,
 17-Feb-2014,Rio de Janeiro,3,Clay,R16,110,88,1,,,Katarzyna Piter,Dinah Pfizenmaier,5-7 6-3 6-1,1.20,1.1%,2.3%,59.8%,65.4%,51.4%,60.0% (6/10),53.9%,48.4%,2.2%,48.9%,47.8%,41.2% (7/17),
 17-Feb-2014,Rio de Janeiro,3,Clay,R32,110,287,1,,WC,Katarzyna Piter,Beatriz Haddad Maia,6-3 6-3,1.60,7.3%,3.6%,70.9%,74.4%,43.8%,50.0% (2/4),59.8%,55.2%,1.5%,44.4%,77.3%,35.7% (5/14),
-13-Jan-2014,Australian Open,5,Hard,R128,119,11,0,Q,11,Simona Halep,Katarzyna Piter,6-0 6-1 (ch),0.43,2.9%,8.6%,77.1%,44.4%,12.5%,44.4% (4/9),31.6%,26.8%,7.3%,16.0%,43.8%,0.0% (0/2),
+13-Jan-2014,Australian Open,5,Hard,R128,119,11,0,Q,11,Simona Halep,Katarzyna Piter,6-0 6-1,0.43,2.9%,8.6%,77.1%,44.4%,12.5%,44.4% (4/9),31.6%,26.8%,7.3%,16.0%,43.8%,0.0% (0/2),
 13-Jan-2014,Australian Open,5,Hard,Q3,119,128,1,,,Katarzyna Piter,Claire Feuerstein,4-6 6-2 6-3,1.26,1.1%,1.1%,68.1%,75.8%,41.4%,80.0% (8/10),54.8%,44.2%,7.0%,41.2%,48.6%,25.0% (4/16),
 13-Jan-2014,Australian Open,5,Hard,Q2,119,208,1,,,Katarzyna Piter,Yurika Sema,7-6(4) 6-4,1.17,1.4%,1.4%,66.2%,59.6%,54.2%,44.4% (4/9),53.2%,49.4%,0.0%,46.2%,60.0%,40.0% (6/15),
 13-Jan-2014,Australian Open,5,Hard,Q1,119,166,1,,,Katarzyna Piter,Eva Birnerova,6-3 7-6(2),1.29,4.1%,5.4%,67.6%,60.0%,58.3%,50.0% (4/8),56.1%,52.3%,0.0%,45.5%,59.4%,71.4% (5/7),

@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 7-Feb-2022,W15 Antalya,3,Clay,R32,810,492,0,,4,Angelica Moratelli,Chantal Skamlova,6-4 6-3,,,,,,,,,,,,,,
 31-Jan-2022,W15 Antalya,3,Clay,QF,705,652,0,4,6,Ilay Yoruk,Chantal Skamlova,3-0 RET,,,,,,,,,,,,,,
 31-Jan-2022,W15 Antalya,3,Clay,R16,705,1145,1,4,,Chantal Skamlova,Yuka Hosoki,6-4 6-1,,,,,,,,,,,,,,
@@ -26,16 +26,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jan-2021,W15 Cairo,3,Clay,R16,554,715,1,8,,Chantal Skamlova,Anastasia Zolotareva,6-7(5) 6-3 6-4,,,,,,,,,,,,,,
 18-Jan-2021,W15 Cairo,3,Clay,R32,554,782,1,8,,Chantal Skamlova,Anita Husaric,6-2 6-3,,,,,,,,,,,,,,
 11-Jan-2021,W15 Cairo,3,Clay,R32,582,641,0,,,Elina Avanesyan,Chantal Skamlova,6-2 7-5,,,,,,,,,,,,,,
-11-Jan-2021,W15 Cairo,3,Clay,R32,582,641,0,,,Elina Avanesyan,Chantal Skamlova,6-2 7-5,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,F,582,855,0,7,,Jessica Bouzas Maneiro,Chantal Skamlova,2-6 7-5 6-3,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,F,582,855,0,7,,Jessica Bouzas Maneiro,Chantal Skamlova,2-6 7-5 6-3,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,SF,582,574,1,7,6,Chantal Skamlova,Vanda Lukacs,6-2 6-1,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,SF,582,574,1,7,6,Chantal Skamlova,Vanda Lukacs,6-2 6-1,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,QF,582,344,1,7,2,Chantal Skamlova,Sandra Samir,6-3 6-0,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,QF,582,344,1,7,2,Chantal Skamlova,Sandra Samir,6-3 6-0,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,R16,582,1081,1,7,,Chantal Skamlova,Aya El Sayed,6-2 6-2,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,R16,582,1081,1,7,,Chantal Skamlova,Aya El Sayed,6-2 6-2,,,,,,,,,,,,,,
-4-Jan-2021,W15 Cairo,3,Clay,R32,582,712,1,7,,Chantal Skamlova,Lamis Alhussein Abdel Aziz,6-3 4-6 6-1,,,,,,,,,,,,,,
 4-Jan-2021,W15 Cairo,3,Clay,R32,582,712,1,7,,Chantal Skamlova,Lamis Alhussein Abdel Aziz,6-3 4-6 6-1,,,,,,,,,,,,,,
 21-Sep-2020,W25 Prerov,3,Clay,R32,579,506,0,Q,Q,Suzan Lamens,Chantal Skamlova,6-4 6-4,,,,,,,,,,,,,,
 21-Sep-2020,W25 Prerov,3,Clay,Q2,579,344,1,15,2,Chantal Skamlova,Raluka Serban,6-4 4-6 11-9,,,,,,,,,,,,,,

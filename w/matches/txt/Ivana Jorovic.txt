@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 19-Sep-2022,W60 Vrnjacka Banja,3,Clay,R16,533,207,0,WC,,Aliona Bolsova,Ivana Jorovic,6-1 6-0,,,,,,,,,,,,,,
 19-Sep-2022,W60 Vrnjacka Banja,3,Clay,R32,533,236,1,WC,,Ivana Jorovic,Lina Gjorcheska,6-4 6-4,,,,,,,,,,,,,,
 29-Aug-2022,W25 Vienna,3,Clay,R16,525,324,0,,4,Cristina Dinu,Ivana Jorovic,2-6 6-2 6-2,,,,,,,,,,,,,,
@@ -9,6 +9,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jul-2022,W60 Liepaja,3,Clay,Q2,459,564,0,3,10,Veronika Erjavec,Ivana Jorovic,7-5 6-2,,,,,,,,,,,,,,
 11-Jul-2022,W60 Liepaja,3,Clay,Q1,459,1251,1,3,,Ivana Jorovic,Nadiya Kolb,6-1 6-0,,,,,,,,,,,,,,
 20-Jun-2022,W25 Prokuplje,3,Clay,R32,531,377,0,,7,Andreea Amalia Rosca,Ivana Jorovic,6-1 6-3,,,,,,,,,,,,,,
+13-Jun-2022,W25 Poertschach,3,Clay,F,528,286,0,,5,Sinja Kraus,Ivana Jorovic,6-1 1-6 6-2,,,,,,,,,,,,,,
+13-Jun-2022,W25 Poertschach,3,Clay,SF,528,152,1,,2,Ivana Jorovic,Paula Ormaechea,7-5 7-5,,,,,,,,,,,,,,
 13-Jun-2022,W25 Poertschach,3,Clay,QF,528,378,1,,,Ivana Jorovic,Andreea Amalia Rosca,6-0 6-2,,,,,,,,,,,,,,
 13-Jun-2022,W25 Poertschach,3,Clay,R16,528,415,1,,,Ivana Jorovic,Miriam Bianca Bulgaru,1-6 6-1 6-3,,,,,,,,,,,,,,
 13-Jun-2022,W25 Poertschach,3,Clay,R32,528,309,1,,4,Ivana Jorovic,Barbara Haas,6-1 6-2,,,,,,,,,,,,,,
@@ -48,8 +50,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Aug-2020,Prague,3,Clay,R64,230,169,1,,16,Ivana Jorovic,Elena Gabriela Ruse,6-3 6-4,1.44,5.6%,5.6%,61.1%,72.7%,47.6%,33.3% (1/3),57.5%,53.4%,0.0%,42.1%,65.7%,62.5% (5/8),1:30
 31-Aug-2020,Prague,3,Clay,R128,230,305,1,,,Ivana Jorovic,Lea Boskovic,6-1 7-5,1.49,4.8%,3.2%,66.7%,71.4%,61.9%,50.0% (1/2),58.3%,47.4%,3.5%,44.7%,60.0%,57.1% (4/7),1:24
 26-Aug-2019,US Open,5,Hard,R128,93,49,0,,,Iga Swiatek,Ivana Jorovic,6-0 6-1,0.37,3.0%,12.1%,51.5%,29.4%,31.3%,28.6% (2/7),27.6%,25.6%,11.6%,20.7%,35.7%,0.0% (0/2),0:51
-1-Jul-2019,Wimbledon,5,Grass,R64,99,55,0,,,Alison Riske Amritraj,Ivana Jorovic,6-2 6-7(3) 9-7 (ch),0.95,10.5%,3.0%,55.6%,66.2%,37.3%,46.2% (6/13),48.8%,44.1%,3.9%,34.2%,60.4%,36.4% (4/11),2:50
-1-Jul-2019,Wimbledon,5,Grass,R128,99,201,1,,,Ivana Jorovic,Lesley Pattinama Kerkhove,7-6(5) 6-4 (ch),1.02,8.9%,5.6%,57.8%,69.2%,44.7%,72.7% (8/11),51.6%,42.0%,0.0%,32.6%,60.9%,50.0% (4/8),1:34
+1-Jul-2019,Wimbledon,5,Grass,R64,99,55,0,,,Alison Riske Amritraj,Ivana Jorovic,6-2 6-7(3) 9-7,0.95,10.5%,3.0%,55.6%,66.2%,37.3%,46.2% (6/13),48.8%,44.1%,3.9%,34.2%,60.4%,36.4% (4/11),2:50
+1-Jul-2019,Wimbledon,5,Grass,R128,99,201,1,,,Ivana Jorovic,Lesley Pattinama Kerkhove,7-6(5) 6-4,1.02,8.9%,5.6%,57.8%,69.2%,44.7%,72.7% (8/11),51.6%,42.0%,0.0%,32.6%,60.9%,50.0% (4/8),1:34
 17-Jun-2019,W100 Ilkley,3,Grass,R32,101,189,0,,Q,Jana Cepelova,Ivana Jorovic,6-4 6-4,,,,,,,,,,,,,,
 10-Jun-2019,Nottingham,3,Grass,R16,104,33,0,,4,Maria Sakkari,Ivana Jorovic,6-2 6-4,0.68,4.7%,6.3%,60.9%,51.3%,52.0%,50.0% (4/8),42.4%,32.8%,11.5%,29.4%,37.0%,20.0% (1/5),1:23
 10-Jun-2019,Nottingham,3,Grass,R32,104,202,1,,Q,Ivana Jorovic,Ellen Perez,6-3 6-4,1.38,6.3%,4.8%,60.3%,71.1%,44.0%,57.1% (4/7),57.2%,54.7%,2.7%,47.6%,63.6%,41.7% (5/12),1:19
@@ -70,7 +72,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Feb-2019,W25 Osaka,3,Hard,QF,108,343,1,,,Ivana Jorovic,Abigail Tere Apisah,3-6 6-3 6-3,,,,,,,,,,,,,,
 25-Feb-2019,W25 Osaka,3,Hard,R16,108,288,1,,,Ivana Jorovic,Su Jeong Jang,6-2 2-6 6-3,,,,,,,,,,,,,,
 25-Feb-2019,W25 Osaka,3,Hard,R32,108,413,1,,Q,Ivana Jorovic,Ling Zhang,6-1 6-2,,,,,,,,,,,,,,
-18-Feb-2019,Dubai,3,Hard,R32,118,9,0,Q,8,Aryna Sabalenka,Ivana Jorovic,6-4 6-0 (ch),0.55,10.2%,10.2%,64.4%,60.5%,33.3%,50.0% (4/8),39.6%,26.9%,9.6%,23.1%,38.5%,0.0% (0/3),1:09
+18-Feb-2019,Dubai,3,Hard,R32,118,9,0,Q,8,Aryna Sabalenka,Ivana Jorovic,6-4 6-0,0.55,10.2%,10.2%,64.4%,60.5%,33.3%,50.0% (4/8),39.6%,26.9%,9.6%,23.1%,38.5%,0.0% (0/3),1:09
 18-Feb-2019,Dubai,3,Hard,R64,118,125,1,Q,WC,Ivana Jorovic,Sara Errani,4-6 6-4 6-2,1.08,7.1%,7.1%,57.6%,63.3%,47.2%,44.4% (4/9),51.7%,47.2%,0.0%,40.3%,63.0%,63.6% (7/11),2:14
 18-Feb-2019,Dubai,3,Hard,Q2,118,83,1,12,2,Ivana Jorovic,Stefanie Voegele,6-4 6-4,1.29,11.1%,7.4%,59.3%,81.3%,36.4%,40.0% (2/5),54.4%,47.9%,1.4%,32.5%,67.7%,55.6% (5/9),1:19
 18-Feb-2019,Dubai,3,Hard,Q1,118,291,1,12,,Ivana Jorovic,Valeriya Strakhova,6-0 6-0,2.16,5.3%,13.2%,65.8%,80.0%,46.2%,100.0% (3/3),68.4%,68.3%,0.0%,69.0%,66.7%,75.0% (6/8),0:53
@@ -103,7 +105,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Sep-2018,Tashkent,3,Hard,R32,194,117,1,Q,,Ivana Jorovic,Ekaterina Alexandrova,6-3 6-2,1.30,6.8%,3.4%,71.2%,71.4%,41.2%,66.7% (2/3),55.5%,48.3%,11.7%,38.9%,62.5%,57.1% (4/7),1:12
 24-Sep-2018,Tashkent,3,Hard,Q2,194,179,1,,8,Ivana Jorovic,Bibiane Schoofs,7-6(1) 6-3,1.14,7.4%,3.2%,56.8%,57.4%,56.1%,75.0% (9/12),53.5%,49.4%,3.9%,45.7%,54.8%,41.7% (5/12),1:50
 24-Sep-2018,Tashkent,3,Hard,Q1,194,146,1,,2,Ivana Jorovic,Conny Perrin,1-6 7-6(4) 6-4,0.92,5.3%,3.2%,56.4%,64.2%,48.8%,54.5% (6/11),48.6%,39.1%,6.9%,38.3%,40.7%,66.7% (4/6),2:05
-17-Sep-2018,Guangzhou,3,Hard,R32,200,59,0,Q,6,Viktoria Kuzmova,Ivana Jorovic,6-2 6-3,0.66,2.0%,16.3%,42.9%,42.9%,35.7%,14.3% (1/7),39.6%,40.3%,4.8%,34.5%,45.5%,33.3% (2/6),1:18
+17-Sep-2018,Guangzhou,3,Hard,R32,200,59,0,Q,6,Viktoria Hruncakova,Ivana Jorovic,6-2 6-3,0.66,2.0%,16.3%,42.9%,42.9%,35.7%,14.3% (1/7),39.6%,40.3%,4.8%,34.5%,45.5%,33.3% (2/6),1:18
 17-Sep-2018,Guangzhou,3,Hard,Q2,200,109,1,7,1,Ivana Jorovic,Lin Zhu,6-2 6-1,1.45,6.2%,9.2%,50.8%,75.8%,50.0%,100.0% (7/7),59.4%,53.7%,0.0%,61.9%,45.0%,80.0% (4/5),1:14
 17-Sep-2018,Guangzhou,3,Hard,Q1,200,280,1,7,,Ivana Jorovic,En Shuo Liang,6-1 6-1,2.00,4.5%,4.5%,63.6%,82.1%,56.3%,100.0% (2/2),63.6%,54.5%,0.0%,52.4%,56.5%,71.4% (5/7),0:56
 27-Aug-2018,Budapest $60K,3,Clay,QF,196,237,0,,,Barbara Haas,Ivana Jorovic,6-4 3-6 7-5,,,,,,,,,,,,,,
@@ -267,7 +269,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Sep-2015,Alphen A D Rijn $25K,3,Clay,R32,270,559,1,6,Q,Ivana Jorovic,Natalia Vajdova,7-5 6-3,,,,,,,,,,,,,,
 10-Aug-2015,Landisville PA $25K,3,Hard,R16,270,,0,,WC,Victoria Duval,Ivana Jorovic,3-6 7-5 6-1,,,,,,,,,,,,,,
 10-Aug-2015,Landisville PA $25K,3,Hard,R32,270,172,1,,4,Ivana Jorovic,Maria Sanchez,6-1 6-1,,,,,,,,,,,,,,
-27-Jul-2015,Lexington KY $50K,3,Hard,R32,265,178,0,,6,Jennifer Brady,Ivana Jorovic,1-6 6-3 6-4 (ch),,,,,,,,,,,,,,
+27-Jul-2015,Lexington KY $50K,3,Hard,R32,265,178,0,,6,Jennifer Brady,Ivana Jorovic,1-6 6-3 6-4,,,,,,,,,,,,,,
 22-Jun-2015,Perigueux $25K,3,Clay,R32,267,265,0,,4,Paula Cristina Goncalves,Ivana Jorovic,7-6(2) 7-5,,,,,,,,,,,,,,
 15-Jun-2015,Montpellier $50K,3,Clay,R32,272,195,0,Q,,Laura Pous Tio,Ivana Jorovic,6-3 6-2,,,,,,,,,,,,,,
 27-Apr-2015,Gifu $75K,3,Hard,QF,293,153,0,Q,,Yi Fan Xu,Ivana Jorovic,6-2 6-3,,,,,,,,,,,,,,

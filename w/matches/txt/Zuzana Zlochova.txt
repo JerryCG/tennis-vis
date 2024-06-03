@@ -1,4 +1,16 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-Mar-2023,W15 Jakarta,3,Hard,R32,603,983,0,,,Yu Jin Ahn,Zuzana Zlochova,6-3 3-6 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W25 Tauranga,3,Hard,SF,673,223,0,4,1,Katherine Sebov,Zuzana Zlochova,5-2 RET,,,,,,,,,,,,,,
+19-Dec-2022,W25 Tauranga,3,Hard,QF,673,1051,1,4,,Zuzana Zlochova,Alicia Smith,6-2 6-1,,,,,,,,,,,,,,
+19-Dec-2022,W25 Tauranga,3,Hard,R16,673,,1,4,SE,Zuzana Zlochova,Jade Otway,5-7 6-3 4-0 RET,,,,,,,,,,,,,,
+19-Dec-2022,W25 Tauranga,3,Hard,R32,673,,1,4,,Zuzana Zlochova,Shona Nakano,6-2 6-3,,,,,,,,,,,,,,
+12-Dec-2022,W15 Wellington,3,Hard,QF,676,1196,0,1,,Mia Repac,Zuzana Zlochova,7-5 6-1,,,,,,,,,,,,,,
+12-Dec-2022,W15 Wellington,3,Hard,R16,676,,1,1,Q,Zuzana Zlochova,Renee Zhang,6-1 6-4,,,,,,,,,,,,,,
+12-Dec-2022,W15 Wellington,3,Hard,R32,676,,1,1,Q,Zuzana Zlochova,Leah Patuwairua,6-0 6-1,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,R32,675,502,0,,,Petra Hule,Zuzana Zlochova,7-5 2-2 RET,,,,,,,,,,,,,,
+31-Oct-2022,W60 Sydney,3,Hard,R32,710,702,0,Q,Q,Michika Ozeki,Zuzana Zlochova,6-4 2-6 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W60 Sydney,3,Hard,Q2,710,715,1,4,10,Zuzana Zlochova,Natsuho Arakawa,6-2 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W60 Sydney,3,Hard,Q1,710,,1,4,,Zuzana Zlochova,Cara Korhonen,6-3 6-0,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,R32,714,874,0,,Q,Natsuho Arakawa,Zuzana Zlochova,6-2 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Cairns,3,Hard,R16,752,282,0,,5,Kimberly Birrell,Zuzana Zlochova,6-1 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W25 Cairns,3,Hard,R32,752,561,1,,,Zuzana Zlochova,Alana Parnaby,6-7(2) 6-1 6-2,,,,,,,,,,,,,,

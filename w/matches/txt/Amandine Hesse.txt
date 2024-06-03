@@ -1,4 +1,107 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Strasbourg,3,Clay,Q1,273,85,0,WC,7,Daria Saville,Amandine Hesse,6-1 6-1,0.43,2.0%,2.0%,67.3%,42.4%,43.8%,54.5% (6/11),34.4%,24.4%,0.0%,22.2%,28.6%,0.0% (0/3),1:03
+13-May-2024,W100 Madrid,3,Clay,R32,296,115,0,Q,,Mai Hontama,Amandine Hesse,6-2 6-3,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q2,296,434,1,12,,Amandine Hesse,Eva Vedder,7-5 6-1,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q1,296,473,1,12,,Amandine Hesse,Kathleen Kanev,6-2 2-6 6-4,,,,,,,,,,,,,,
+6-May-2024,W75+H Saint-Gaudens,3,Clay,R32,296,168,0,,5,Olivia Gadecki,Amandine Hesse,2-6 6-1 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W35 Yecla,3,Hard,F,297,674,1,2,,Amandine Hesse,Tamara Kostic,6-4 3-6 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W35 Yecla,3,Hard,SF,297,800,1,2,,Amandine Hesse,Lara Pfeifer,5-0 RET,,,,,,,,,,,,,,
+29-Apr-2024,W35 Yecla,3,Hard,QF,297,550,1,2,8,Amandine Hesse,Sebastianna Scilipoti,6-3 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W35 Yecla,3,Hard,R16,297,1293,1,2,Q,Amandine Hesse,Xenia Bandurowska,6-1 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W35 Yecla,3,Hard,R32,297,845,1,2,,Amandine Hesse,Anastasia Iamachkine,1-6 6-4 6-2,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,R16,299,264,0,,7,Valentina Ryser,Amandine Hesse,6-4 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,R32,299,988,1,,WC,Amandine Hesse,Mallaurie Noel,6-2 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,298,224,0,Q,,Iryna Shymanovich,Amandine Hesse,6-3 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q2,298,664,1,1,14,Amandine Hesse,Freya Christie,7-6(3) 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q1,298,,1,1,WC,Amandine Hesse,Andrea Palazon,6-1 6-2,,,,,,,,,,,,,,
+1-Apr-2024,W75 Florianopolis,3,Clay,R16,301,488,0,,,Michaela Bayerlova,Amandine Hesse,6-3 2-6 6-3,,,,,,,,,,,,,,
+1-Apr-2024,W75 Florianopolis,3,Clay,R32,301,695,1,,Q,Amandine Hesse,Fernanda Labrana,6-1 7-5,,,,,,,,,,,,,,
+25-Mar-2024,W50 Sao Paulo,3,Clay,R16,301,369,0,8,,Daria Lodikova,Amandine Hesse,6-1 1-6 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W50 Sao Paulo,3,Clay,R32,301,579,1,8,WC,Amandine Hesse,Ana Candiotto,6-3 6-2,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,R32,304,192,0,Q,,Anastasia Tikhonova,Amandine Hesse,6-1 6-0,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,Q2,304,276,1,13,7,Amandine Hesse,Fanny Stollar,4-6 6-2 6-3,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,Q1,304,,1,13,WC,Amandine Hesse,Tereza Krejcova,6-2 6-4,,,,,,,,,,,,,,
+4-Mar-2024,W35 Solarino,3,Carpet,R32,304,275,0,,8,Manon Leonard,Amandine Hesse,6-3 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W50 Macon,3,Hard,R32,299,182,0,,4,Jana Fett,Amandine Hesse,6-3 7-6(5),,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R16,298,203,0,LL,,Suzan Lamens,Amandine Hesse,6-1 6-7(7) 6-2,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R32,298,160,1,LL,7,Amandine Hesse,Panna Udvardy,1-6 7-6(7) 7-5,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,Q2,298,342,0,7,9,Mia Ristic,Amandine Hesse,4-6 6-4 6-0,,,,,,,,,,,,,,
+5-Feb-2024,Mumbai 125,3,Hard,R16,305,121,0,Q,6,Darja Semenistaja,Amandine Hesse,2-6 6-4 6-4,0.99,2.2%,9.7%,55.9%,57.7%,46.3%,45.5% (5/11),49.7%,46.7%,1.1%,39.0%,61.3%,75.0% (6/8),1:27
+5-Feb-2024,Mumbai 125,3,Hard,R32,305,376,1,Q,Q,Amandine Hesse,Lina Glushko,6-1 6-1,2.52,5.6%,0.0%,38.9%,78.6%,77.3%,- (0/0),66.2%,56.1%,0.0%,57.1%,55.6%,100.0% (5/5),1:00
+5-Feb-2024,Mumbai 125,3,Hard,Q2,305,475,1,9,,Amandine Hesse,Vaidehi Chaudhari,6-3 6-1,1.44,8.3%,6.3%,43.8%,76.2%,48.1%,50.0% (2/4),58.4%,56.9%,1.5%,56.4%,57.7%,60.0% (6/10),1:20
+5-Feb-2024,Mumbai 125,3,Hard,Q1,305,,1,9,WC,Amandine Hesse,Sameeksha Shroff,6-1 6-0,1.71,8.8%,0.0%,50.0%,70.6%,52.9%,50.0% (1/2),63.9%,65.3%,2.0%,54.5%,74.1%,58.3% (7/12),0:54
+29-Jan-2024,Hua Hin,3,Hard,Q1,308,148,0,,8,Daria Saville,Amandine Hesse,6-3 7-6(4),0.78,4.3%,7.1%,41.4%,65.5%,39.0%,42.9% (3/7),44.3%,39.2%,8.9%,31.1%,50.0%,27.3% (3/11),1:53
+15-Jan-2024,W50 Bengaluru,3,Hard,R32,308,504,0,,Q,Lena Rueffer,Amandine Hesse,6-2 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W50 Nonthaburi,3,Hard,R16,314,804,0,,SR,Catherine Harrison,Amandine Hesse,6-2 RET,,,,,,,,,,,,,,
+8-Jan-2024,W50 Nonthaburi,3,Hard,R32,314,270,1,,6,Amandine Hesse,En Shuo Liang,6-4 2-6 6-4,,,,,,,,,,,,,,
+11-Dec-2023,Limoges 125,3,Hard,R32,311,46,0,WC,1,Elisabetta Cocciaretto,Amandine Hesse,1-6 6-2 6-3,0.86,2.2%,8.6%,44.1%,56.1%,36.5%,53.3% (8/15),46.0%,47.1%,1.5%,37.1%,57.6%,66.7% (6/9),1:59
+4-Dec-2023,Angers 125,3,Hard,R32,310,121,0,,,Jessika Ponchet,Amandine Hesse,6-4 5-7 6-4,0.90,4.8%,6.4%,56.0%,62.9%,25.5%,50.0% (9/18),47.2%,48.4%,7.7%,39.2%,60.0%,57.1% (8/14),2:30
+27-Nov-2023,W60 Trnava,3,Hard,R32,312,243,0,,4,Yuliya Hatouka,Amandine Hesse,7-5 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W25 Lousada,3,Hard,R16,311,133,0,,1,Arina Rodionova,Amandine Hesse,6-4 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W25 Lousada,3,Hard,R32,311,,1,,WC,Amandine Hesse,Ana Filipa Santos,6-0 6-1,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,SF,342,256,0,Q,,Dominika Salkova,Amandine Hesse,2-6 6-1 6-2,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,QF,342,464,1,Q,Q,Amandine Hesse,Anastasia Kovaleva,6-2 6-0,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,R16,342,296,1,Q,Q,Amandine Hesse,Valentina Ryser,6-3 6-2,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,R32,342,917,1,Q,LL,Amandine Hesse,Marcelina Podlinska,6-1 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,Q2,342,985,1,1,16,Amandine Hesse,Celine Simunyu,6-0 6-0,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,R32,388,193,0,WC,,Alexandra Eala,Amandine Hesse,6-3 6-2,,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R16,388,135,0,,4,Leolia Jeanjean,Amandine Hesse,6-1 7-6(5),,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R32,388,433,1,,Q,Amandine Hesse,Ekaterina Maklakova,6-4 6-1,,,,,,,,,,,,,,
+16-Oct-2023,W25+H Cherbourg En Cotentin,3,Hard,SF,395,911,0,6,Q,Veronika Podrez,Amandine Hesse,6-7(5) 7-6(4) 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W25+H Cherbourg En Cotentin,3,Hard,QF,395,528,1,6,,Amandine Hesse,Alice Rame,6-1 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W25+H Cherbourg En Cotentin,3,Hard,R16,395,,1,6,Q,Amandine Hesse,Schena Benamar,4-6 6-1 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W25+H Cherbourg En Cotentin,3,Hard,R32,395,883,1,6,Q,Amandine Hesse,Marine Szostak,6-3 6-4,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R16,408,257,0,Q,,Ella Seidel,Amandine Hesse,7-5 6-0,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R32,408,,1,Q,WC,Amandine Hesse,Ana Filipa Santos,6-1 6-0,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,Q2,408,268,1,10,1,Amandine Hesse,Antonia Ruzic,7-6(6) 6-1,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,Q1,408,1238,1,10,,Amandine Hesse,Eva Garkusha,6-4 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,R32,407,387,0,,,Valentina Ryser,Amandine Hesse,3-6 6-3 7-6(8),,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,QF,455,186,0,Q,,Alina Korneeva,Amandine Hesse,6-3 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R16,455,179,1,Q,8,Amandine Hesse,Fiona Ferro,7-6(4) 5-7 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R32,455,267,1,Q,,Amandine Hesse,Francisca Jorge,7-5 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,Q2,455,925,1,11,A,Amandine Hesse,Riya Bhatia,6-0 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,Q1,455,948,1,11,,Amandine Hesse,Gyeong Seo Lee,7-5 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W25 Leiria,3,Hard,R16,456,259,0,,2,Sonay Kartal,Amandine Hesse,6-1 6-3,,,,,,,,,,,,,,
+11-Sep-2023,W25 Leiria,3,Hard,R32,456,902,1,,Q,Amandine Hesse,Kimmi Hance,1-6 6-1 6-3,,,,,,,,,,,,,,
+4-Sep-2023,W40 Saint-Palais-sur-Mer,3,Clay,SF,548,331,0,WC,8,Justina Mikulskyte,Amandine Hesse,6-3 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W40 Saint-Palais-sur-Mer,3,Clay,QF,548,370,1,WC,,Amandine Hesse,Maria Mateas,6-3 4-6 RET,,,,,,,,,,,,,,
+4-Sep-2023,W40 Saint-Palais-sur-Mer,3,Clay,R16,548,409,1,WC,,Amandine Hesse,Miriana Tona,5-7 6-2 6-0,,,,,,,,,,,,,,
+4-Sep-2023,W40 Saint-Palais-sur-Mer,3,Clay,R32,548,527,1,WC,Q,Amandine Hesse,Jessica Pieri,7-6(4) 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R16,548,102,0,Q,1,Lucrezia Stefanini,Amandine Hesse,6-0 4-1 RET,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R32,548,304,1,Q,,Amandine Hesse,Maria Bondarenko,7-5 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,Q2,548,518,1,9,5,Amandine Hesse,Nina Radovanovic,6-2 7-5,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,548,154,0,,,Elizabeth Mandlik,Amandine Hesse,6-3 6-4,0.71,2.0%,4.0%,40.0%,65.0%,36.7%,55.6% (5/9),42.0%,37.1%,3.2%,35.3%,39.3%,28.6% (2/7),1:20
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,Q1,548,,1,9,,Amandine Hesse,Mariia Kostiuk,6-1 6-0,,,,,,,,,,,,,,
+14-Aug-2023,Barranquilla 125,3,Hard,R32,546,135,0,,8,Laura Pigossi,Amandine Hesse,6-2 6-1,0.76,0.0%,9.1%,65.2%,51.2%,17.4%,36.4% (4/11),42.1%,46.3%,0.0%,50.0%,41.2%,75.0% (3/4),1:16
+17-Jul-2023,Budapest,3,Clay,Q1,546,202,0,,5,Louisa Chirico,Amandine Hesse,6-1 6-1,0.61,3.8%,5.7%,54.7%,34.5%,41.7%,50.0% (6/12),37.8%,37.9%,5.2%,38.9%,36.4%,25.0% (1/4),1:18
+3-Jul-2023,W25 Getxo,3,Clay,QF,589,356,0,,3,Angela Fita Boluda,Amandine Hesse,7-5 5-7 7-5,,,,,,,,,,,,,,
+3-Jul-2023,W25 Getxo,3,Clay,R16,589,489,1,,,Amandine Hesse,Sofia Sewing,6-1 7-5,,,,,,,,,,,,,,
+3-Jul-2023,W25 Getxo,3,Clay,R32,589,740,1,,Q,Amandine Hesse,Eleni Christofi,6-3 6-4,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,589,179,0,,,Priscilla Hon,Amandine Hesse,6-2 6-3,0.65,4.3%,2.2%,50.0%,43.5%,47.8%,28.6% (2/7),40.0%,35.2%,9.3%,29.4%,45.0%,50.0% (2/4),1:02
+12-Jun-2023,W60 Biarritz,3,Clay,QF,674,207,0,Q,4,Timea Babos,Amandine Hesse,1-6 6-3 6-1,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,R16,674,241,1,Q,5,Amandine Hesse,Irene Burillo Escorihuela,7-5 5-7 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,R32,674,401,1,Q,WC,Amandine Hesse,Emma Lene,6-4 6-2,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,Q2,674,554,1,15,7,Amandine Hesse,Ines Ibbou,6-1 7-6(3),,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,Q1,674,,1,15,WC,Amandine Hesse,Pauline Dore,7-5 6-0,,,,,,,,,,,,,,
+29-May-2023,W40 Montemor-O-Novo,3,Hard,R32,690,268,0,,4,Karman Thandi,Amandine Hesse,7-6(2) 6-4,,,,,,,,,,,,,,
+22-May-2023,Strasbourg,3,Clay,R32,691,66,0,,,Anna Blinkova,Amandine Hesse,4-6 6-0 6-4,0.80,1.0%,5.8%,57.3%,54.2%,45.5%,46.2% (6/13),46.0%,39.4%,2.8%,34.9%,46.4%,66.7% (4/6),2:09
+8-May-2023,Rome,3,Clay,Q1,707,93,0,,5,Anna Bondar,Amandine Hesse,6-1 6-3,0.39,0.0%,1.9%,52.8%,42.9%,56.0%,63.6% (7/11),36.6%,20.0%,22.5%,6.9%,54.5%,- (0/0),1:01
+1-May-2023,Saint Malo 125,3,Clay,R16,830,101,0,,8,Emma Navarro,Amandine Hesse,6-1 6-0,0.29,2.1%,6.3%,56.3%,37.0%,47.6%,64.3% (9/14),31.0%,16.7%,11.1%,13.0%,23.1%,0.0% (0/3),0:57
+1-May-2023,Saint Malo 125,3,Clay,R32,830,117,1,,,Amandine Hesse,Lucrezia Stefanini,6-3 4-6 6-2,1.15,0.0%,9.3%,47.7%,61.0%,46.7%,50.0% (5/10),53.4%,53.4%,1.1%,53.2%,53.8%,44.4% (8/18),2:15
+24-Apr-2023,W40+H Calvi,3,Hard,R32,830,382,0,WC,,Olga Helmi,Amandine Hesse,6-3 3-6 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W100 Oeiras,3,Clay,R32,842,64,0,SR,4,Anna Blinkova,Amandine Hesse,6-2 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,898,134,0,Q,5,Jessika Ponchet,Amandine Hesse,6-3 6-0,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,Q2,898,464,1,WC,15,Amandine Hesse,Jessica Pieri,6-3 7-5,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,Q1,898,342,1,WC,4,Amandine Hesse,Ashley Lahey,3-6 6-4 7-6(5),,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,Q2,898,437,0,,13,Fiona Ferro,Amandine Hesse,7-5 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,Q1,898,,1,,,Amandine Hesse,Emiliia Margolina,6-1 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,R32,911,356,0,SR,,Lanlana Tararudee,Amandine Hesse,6-4 7-6(6),,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,QF,,119,0,Q,3,Tamara Zidansek,Amandine Hesse,6-2 6-3,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,R16,,277,1,Q,WC,Amandine Hesse,Alice Robbe,6-2 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,R32,,163,1,Q,7,Amandine Hesse,Chloe Paquet,6-4 7-5,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,Q2,,708,1,WC,,Amandine Hesse,Flavie Brugnone,7-5 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,Q1,,459,1,WC,15,Amandine Hesse,Lucia Cortez Llorca,6-0 6-2,,,,,,,,,,,,,,
+30-Jan-2023,Lyon,3,Hard,Q1,,100,0,WC,4,Rebeka Masarova,Amandine Hesse,6-2 6-2,0.66,6.3%,8.3%,39.6%,63.2%,24.1%,33.3% (3/9),39.6%,39.6%,6.3%,35.5%,47.1%,66.7% (2/3),1:10
 24-Jan-2022,W60 Andrezieux-Boutheon,3,Hard,R32,172,138,0,,4,Anna Lena Friedsam,Amandine Hesse,6-2 6-3,,,,,,,,,,,,,,
 17-Jan-2022,Australian Open,5,Hard,Q1,172,142,0,,26,Lucia Bronzetti,Amandine Hesse,6-0 6-2,0.58,0.0%,8.2%,51.0%,56.0%,29.2%,50.0% (5/10),38.1%,33.3%,4.2%,24.0%,43.5%,0.0% (0/5),1:04
 3-Jan-2022,Melbourne 2,3,Hard,Q1,167,94,0,,2,Claire Liu,Amandine Hesse,6-3 6-3,0.66,0.0%,11.5%,46.2%,54.2%,35.7%,37.5% (3/8),40.6%,36.7%,16.3%,43.8%,23.5%,100.0% (2/2),1:15
@@ -68,10 +171,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,W25 Grenoble,3,Hard,Q1,283,384,1,8,,Amandine Hesse,Sofia Shapatava,6-4 6-1,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,R32,279,139,0,WC,7,Viktoriya Tomova,Amandine Hesse,6-3 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,QF,289,303,0,,,Jesika Maleckova,Amandine Hesse,6-4 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,QF,289,303,0,,,Jesika Maleckova,Amandine Hesse,6-4 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R16,289,320,1,,Q,Amandine Hesse,Federica Di Sarra,6-1 7-5,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R16,289,320,1,,Q,Amandine Hesse,Federica Di Sarra,6-1 7-5,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,289,263,1,,4,Amandine Hesse,Jodie Burrage,2-6 6-4 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,289,263,1,,4,Amandine Hesse,Jodie Burrage,2-6 6-4 6-2,,,,,,,,,,,,,,
 6-Jan-2021,Abu Dhabi,3,Hard,R64,289,164,0,Q,,Vera Zvonareva,Amandine Hesse,6-3 6-4,1.31,0.0%,7.0%,64.9%,70.3%,45.0%,50.0% (2/4),55.0%,50.6%,4.8%,39.1%,64.9%,55.6% (5/9),1:40
 6-Jan-2021,Abu Dhabi,3,Hard,Q2,289,263,1,,,Amandine Hesse,Jodie Burrage,6-3 6-2,1.44,6.9%,8.6%,56.9%,72.7%,52.0%,88.9% (8/9),57.7%,52.3%,6.2%,55.8%,45.5%,41.7% (5/12),1:20
@@ -131,7 +231,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Aug-2019,W25 Las Palmas de Gran Canaria,3,Clay,QF,253,494,1,2,,Amandine Hesse,Rosa Vicens Mas,6-2 6-4,,,,,,,,,,,,,,
 5-Aug-2019,W25 Las Palmas de Gran Canaria,3,Clay,R16,253,520,1,2,,Amandine Hesse,Victoria Rodriguez,6-2 3-6 6-3,,,,,,,,,,,,,,
 5-Aug-2019,W25 Las Palmas de Gran Canaria,3,Clay,R32,253,476,1,2,,Amandine Hesse,Ivonne Cavalle Reimers,6-2 7-5,,,,,,,,,,,,,,
-22-Jul-2019,Palermo,3,Clay,R32,259,130,0,Q,,Arantxa Rus,Amandine Hesse,6-1 6-3 (ch),0.64,4.8%,7.9%,52.4%,48.5%,46.7%,58.3% (7/12),41.4%,33.3%,4.2%,35.3%,28.6%,33.3% (1/3),1:29
+22-Jul-2019,Palermo,3,Clay,R32,259,130,0,Q,,Arantxa Rus,Amandine Hesse,6-1 6-3,0.64,4.8%,7.9%,52.4%,48.5%,46.7%,58.3% (7/12),41.4%,33.3%,4.2%,35.3%,28.6%,33.3% (1/3),1:29
 22-Jul-2019,Palermo,3,Clay,Q2,259,144,1,10,2,Amandine Hesse,Liudmila Samsonova,6-4 7-6(10),1.07,6.3%,6.3%,52.5%,64.3%,55.3%,50.0% (3/6),51.6%,42.7%,6.7%,36.1%,48.7%,66.7% (4/6),1:49
 22-Jul-2019,Palermo,3,Clay,Q1,259,329,1,10,,Amandine Hesse,Deborah Chiesa,1-6 6-4 7-5,1.01,2.5%,5.1%,49.4%,61.5%,35.0%,20.0% (2/10),50.3%,52.3%,1.2%,50.0%,56.3%,57.1% (8/14),2:12
 15-Jul-2019,W80 Biarritz,3,Clay,R32,251,297,0,,,Nadia Podoroska,Amandine Hesse,7-6(4) 5-7 7-6(4),,,,,,,,,,,,,,
@@ -338,7 +438,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Jun-2015,Marseille $100K,3,Clay,R16,272,95,0,WC,8,Pauline Parmentier,Amandine Hesse,6-1 6-2,,,,,,,,,,,,,,
 1-Jun-2015,Marseille $100K,3,Clay,R32,272,520,1,WC,WC,Amandine Hesse,Caroline Romeo,6-1 3-6 6-2,,,,,,,,,,,,,,
 25-May-2015,Roland Garros,5,Clay,R64,272,22,0,WC,26,Samantha Stosur,Amandine Hesse,6-0 6-1,0.44,5.4%,8.1%,43.2%,43.8%,33.3%,37.5% (3/8),32.1%,27.3%,6.8%,22.6%,38.5%,0.0% (0/6),
-25-May-2015,Roland Garros,5,Clay,R128,272,53,1,WC,,Amandine Hesse,Jarmila Gajdosova,2-6 6-3 6-2 (ch),1.03,11.0%,7.3%,45.1%,64.9%,40.0%,68.8% (11/16),50.6%,50.0%,1.4%,50.0%,50.0%,53.8% (7/13),
+25-May-2015,Roland Garros,5,Clay,R128,272,53,1,WC,,Amandine Hesse,Jarmila Gajdosova,2-6 6-3 6-2,1.03,11.0%,7.3%,45.1%,64.9%,40.0%,68.8% (11/16),50.6%,50.0%,1.4%,50.0%,50.0%,53.8% (7/13),
 11-May-2015,Saint Gaudens $50K,3,Clay,QF,278,105,0,WC,3,Magda Linette,Amandine Hesse,7-6(5) 6-3,,,,,,,,,,,,,,
 11-May-2015,Saint Gaudens $50K,3,Clay,R16,278,110,1,WC,6,Amandine Hesse,Elizaveta Kulichkova,6-3 7-5,,,,,,,,,,,,,,
 11-May-2015,Saint Gaudens $50K,3,Clay,R32,278,178,1,WC,,Amandine Hesse,Nigina Abduraimova,4-6 6-4 7-5,,,,,,,,,,,,,,

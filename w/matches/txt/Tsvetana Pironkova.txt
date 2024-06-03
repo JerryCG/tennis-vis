@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 30-Aug-2021,US Open,5,Hard,R128,107,27,0,,25,Daria Kasatkina,Tsvetana Pironkova,6-2 6-1,0.54,1.8%,1.8%,64.3%,41.7%,40.0%,40.0% (4/10),37.2%,31.6%,10.5%,17.4%,53.3%,100.0% (1/1),1:04
 28-Jun-2021,Wimbledon,5,Grass,R128,103,43,0,LL,,Yulia Putintseva,Tsvetana Pironkova,6-3 6-1,0.51,1.9%,0.0%,46.3%,52.0%,41.4%,58.3% (7/12),37.8%,27.3%,6.8%,18.2%,54.5%,33.3% (1/3),1:07
 28-Jun-2021,Wimbledon,5,Grass,Q3,103,129,0,8,23,Ana Konjuh,Tsvetana Pironkova,6-2 4-6 6-2,0.77,0.0%,2.4%,60.0%,66.7%,44.1%,63.6% (7/11),45.0%,32.6%,10.5%,26.4%,42.4%,33.3% (1/3),1:43
@@ -8,15 +8,15 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jun-2021,W100+H Nottingham,3,Grass,QF,113,361,1,,WC,Tsvetana Pironkova,Emma Raducanu,7-5 7-6(2),,,,,,,,,,,,,,
 14-Jun-2021,W100+H Nottingham,3,Grass,R16,113,175,1,,Q,Tsvetana Pironkova,Monica Niculescu,2-6 6-3 6-3,,,,,,,,,,,,,,
 14-Jun-2021,W100+H Nottingham,3,Grass,R32,113,84,1,,2,Tsvetana Pironkova,Nao Hibino,6-3 6-7(13) 6-3,,,,,,,,,,,,,,
-31-May-2021,Roland Garros,5,Clay,Q2,116,220,0,10,,Susan Bandecchi,Tsvetana Pironkova,6-4 2-6 6-3 (ch),0.96,3.0%,2.0%,51.5%,71.2%,38.8%,66.7% (10/15),49.7%,42.9%,0.0%,29.6%,66.7%,33.3% (4/12),2:07
+31-May-2021,Roland Garros,5,Clay,Q2,116,220,0,10,,Susan Bandecchi,Tsvetana Pironkova,6-4 2-6 6-3,0.96,3.0%,2.0%,51.5%,71.2%,38.8%,66.7% (10/15),49.7%,42.9%,0.0%,29.6%,66.7%,33.3% (4/12),2:07
 31-May-2021,Roland Garros,5,Clay,Q1,116,164,1,10,,Tsvetana Pironkova,Caroline Dolehide,6-7(7) 6-2 6-4,1.33,4.6%,3.4%,57.5%,70.0%,48.6%,37.5% (3/8),55.8%,52.1%,1.7%,44.9%,71.9%,47.1% (8/17),2:16
 29-Apr-2021,Madrid,3,Clay,Q1,116,54,0,,1,Anastasija Sevastova,Tsvetana Pironkova,3-6 6-4 6-3,0.92,3.2%,5.3%,43.2%,63.4%,44.4%,50.0% (6/12),47.9%,43.4%,0.0%,39.6%,47.8%,33.3% (5/15),1:42
 5-Apr-2021,Charleston 1,3,Clay,R64,113,36,0,,14,Cori Gauff,Tsvetana Pironkova,6-3 6-0,0.62,0.0%,1.7%,51.7%,46.7%,32.1%,53.8% (7/13),38.7%,37.5%,8.3%,21.7%,52.0%,14.3% (1/7),1:12
-22-Mar-2021,Miami,3,Hard,R64,131,8,0,Q,7,Aryna Sabalenka,Tsvetana Pironkova,0-6 6-3 7-6(9) (ch),1.05,2.2%,2.2%,61.1%,65.5%,40.0%,50.0% (4/8),50.8%,46.5%,5.9%,35.1%,61.4%,60.0% (6/10),2:29
+22-Mar-2021,Miami,3,Hard,R64,131,8,0,Q,7,Aryna Sabalenka,Tsvetana Pironkova,0-6 6-3 7-6(9),1.05,2.2%,2.2%,61.1%,65.5%,40.0%,50.0% (4/8),50.8%,46.5%,5.9%,35.1%,61.4%,60.0% (6/10),2:29
 22-Mar-2021,Miami,3,Hard,R128,131,85,1,Q,,Tsvetana Pironkova,Marta Kostyuk,7-6(4) 3-6 6-3,1.07,0.9%,0.0%,63.4%,56.3%,39.0%,61.9% (13/21),51.5%,53.6%,6.0%,46.3%,66.7%,80.0% (8/10),2:28
 22-Mar-2021,Miami,3,Hard,Q2,131,143,1,,,Tsvetana Pironkova,Olga Govortsova,6-0 6-3,1.60,3.9%,2.0%,56.9%,69.0%,54.5%,75.0% (3/4),61.3%,59.5%,0.0%,42.9%,92.9%,71.4% (5/7),1:04
 22-Mar-2021,Miami,3,Hard,Q1,131,119,1,,19,Tsvetana Pironkova,Caty Mcnally,7-6(0) 7-6(4),1.22,1.2%,1.2%,51.8%,69.8%,55.0%,66.7% (8/12),54.3%,45.6%,0.0%,36.2%,71.4%,80.0% (4/5),2:00
-8-Feb-2021,Australian Open,5,Hard,R128,125,71,0,Q,,Su Wei Hsieh,Tsvetana Pironkova,7-5 6-2 (ch),0.79,5.0%,1.7%,46.7%,75.0%,37.5%,61.5% (8/13),45.1%,35.5%,1.6%,28.9%,52.9%,33.3% (2/6),1:16
+8-Feb-2021,Australian Open,5,Hard,R128,125,71,0,Q,,Su Wei Hsieh,Tsvetana Pironkova,7-5 6-2,0.79,5.0%,1.7%,46.7%,75.0%,37.5%,61.5% (8/13),45.1%,35.5%,1.6%,28.9%,52.9%,33.3% (2/6),1:16
 31-Jan-2021,Yarra Valley Classic,3,Hard,R16,137,11,0,,5,Serena Williams,Tsvetana Pironkova,6-1 6-4,0.45,1.5%,0.0%,58.5%,65.8%,29.6%,55.6% (5/9),39.6%,22.0%,14.6%,20.0%,25.0%,- (0/0),1:14
 31-Jan-2021,Yarra Valley Classic,3,Hard,R32,137,32,1,,9,Tsvetana Pironkova,Donna Vekic,1-6 6-4 6-2,1.03,1.3%,1.3%,59.0%,54.3%,62.5%,33.3% (2/6),50.6%,43.8%,7.5%,43.1%,44.8%,50.0% (4/8),1:50
 31-Jan-2021,Yarra Valley Classic,3,Hard,R64,137,127,1,,,Tsvetana Pironkova,Liudmila Samsonova,6-2 6-1,1.48,10.4%,2.1%,54.2%,73.1%,50.0%,75.0% (3/4),59.1%,55.6%,2.2%,52.0%,60.0%,45.5% (5/11),1:02
@@ -29,21 +29,21 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2020,Roland Garros,5,Clay,R32,157,114,0,WC,,Barbora Krejcikova,Tsvetana Pironkova,5-7 6-4 6-3,0.92,0.9%,4.7%,54.2%,69.0%,49.0%,69.2% (9/13),48.6%,36.9%,1.0%,27.1%,57.6%,28.6% (2/7),2:38
 28-Sep-2020,Roland Garros,5,Clay,R64,157,9,1,WC,6,Tsvetana Pironkova,Serena Williams,W/O,,,,,,,,,,,,,,
 28-Sep-2020,Roland Garros,5,Clay,R128,157,95,1,WC,,Tsvetana Pironkova,Andrea Petkovic,6-3 6-3,1.50,1.7%,0.0%,55.2%,59.4%,61.5%,50.0% (3/6),60.0%,59.6%,3.8%,45.5%,84.2%,85.7% (6/7),1:13
-31-Aug-2020,US Open,5,Hard,QF,,8,0,,3,Serena Williams,Tsvetana Pironkova,4-6 6-3 6-2 (ch),0.84,4.3%,1.1%,58.7%,66.7%,47.4%,55.6% (5/9),46.7%,34.8%,21.7%,26.2%,51.6%,40.0% (2/5),2:12
-31-Aug-2020,US Open,5,Hard,R16,,56,1,,,Tsvetana Pironkova,Alize Cornet,6-4 6-7(5) 6-3 (ch),1.13,1.0%,2.1%,62.9%,68.9%,38.9%,50.0% (6/12),52.4%,47.8%,0.0%,37.2%,70.3%,50.0% (8/16),2:49
+31-Aug-2020,US Open,5,Hard,QF,,8,0,,3,Serena Williams,Tsvetana Pironkova,4-6 6-3 6-2,0.84,4.3%,1.1%,58.7%,66.7%,47.4%,55.6% (5/9),46.7%,34.8%,21.7%,26.2%,51.6%,40.0% (2/5),2:12
+31-Aug-2020,US Open,5,Hard,R16,,56,1,,,Tsvetana Pironkova,Alize Cornet,6-4 6-7(5) 6-3,1.13,1.0%,2.1%,62.9%,68.9%,38.9%,50.0% (6/12),52.4%,47.8%,0.0%,37.2%,70.3%,50.0% (8/16),2:49
 31-Aug-2020,US Open,5,Hard,R32,,24,1,,18,Tsvetana Pironkova,Donna Vekic,6-4 6-1,1.53,4.1%,0.0%,51.0%,76.0%,58.3%,75.0% (3/4),58.8%,50.0%,14.6%,35.7%,70.0%,100.0% (5/5),1:04
-31-Aug-2020,US Open,5,Hard,R64,,16,1,,10,Tsvetana Pironkova,Garbine Muguruza,7-5 6-3 (ch),1.61,7.3%,0.0%,52.7%,93.1%,57.7%,75.0% (3/4),55.9%,38.1%,7.9%,35.7%,42.9%,27.3% (3/11),1:21
+31-Aug-2020,US Open,5,Hard,R64,,16,1,,10,Tsvetana Pironkova,Garbine Muguruza,7-5 6-3,1.61,7.3%,0.0%,52.7%,93.1%,57.7%,75.0% (3/4),55.9%,38.1%,7.9%,35.7%,42.9%,27.3% (3/11),1:21
 31-Aug-2020,US Open,5,Hard,R128,,120,1,,,Tsvetana Pironkova,Liudmila Samsonova,6-2 6-3,1.42,4.8%,0.0%,60.3%,73.7%,48.0%,66.7% (2/3),57.9%,51.7%,6.9%,47.4%,60.0%,57.1% (4/7),1:20
 3-Jul-2017,Wimbledon,5,Grass,R64,131,6,0,,5,Caroline Wozniacki,Tsvetana Pironkova,6-3 6-4,0.67,1.5%,4.5%,57.6%,55.3%,39.3%,28.6% (2/7),42.1%,34.5%,5.5%,25.0%,52.6%,40.0% (2/5),1:22
 3-Jul-2017,Wimbledon,5,Grass,R128,131,76,1,,,Tsvetana Pironkova,Sara Errani,6-1 6-4,1.65,5.5%,0.0%,50.9%,71.4%,66.7%,75.0% (3/4),60.0%,50.9%,0.0%,50.0%,57.1%,57.1% (4/7),1:08
-26-Jun-2017,Eastbourne,3,Grass,R16,149,2,0,LL,2,Simona Halep,Tsvetana Pironkova,6-7(6) 7-6(4) 7-5 (ch),0.88,2.1%,2.1%,66.2%,67.0%,37.5%,68.4% (13/19),48.1%,37.7%,1.6%,33.7%,48.5%,45.5% (5/11),2:40
-26-Jun-2017,Eastbourne,3,Grass,R32,149,51,1,LL,,Tsvetana Pironkova,Monica Niculescu,6-0 6-4 (ch),1.80,0.0%,0.0%,66.0%,72.7%,58.8%,75.0% (3/4),63.3%,57.5%,0.0%,58.8%,50.0%,55.6% (5/9),1:02
+26-Jun-2017,Eastbourne,3,Grass,R16,149,2,0,LL,2,Simona Halep,Tsvetana Pironkova,6-7(6) 7-6(4) 7-5,0.88,2.1%,2.1%,66.2%,67.0%,37.5%,68.4% (13/19),48.1%,37.7%,1.6%,33.7%,48.5%,45.5% (5/11),2:40
+26-Jun-2017,Eastbourne,3,Grass,R32,149,51,1,LL,,Tsvetana Pironkova,Monica Niculescu,6-0 6-4,1.80,0.0%,0.0%,66.0%,72.7%,58.8%,75.0% (3/4),63.3%,57.5%,0.0%,58.8%,50.0%,55.6% (5/9),1:02
 26-Jun-2017,Eastbourne,3,Grass,Q2,149,60,0,,3,Lara Arruabarrena,Tsvetana Pironkova,3-6 6-2 6-2,0.82,0.0%,0.0%,76.2%,55.8%,45.8%,61.5% (8/13),46.7%,38.0%,3.8%,27.7%,53.1%,33.3% (2/6),1:59
 26-Jun-2017,Eastbourne,3,Grass,Q1,149,77,1,,10,Tsvetana Pironkova,Marketa Vondrousova,6-2 6-2,1.61,0.0%,0.0%,54.0%,70.4%,60.9%,75.0% (3/4),60.4%,54.9%,0.0%,53.6%,56.5%,83.3% (5/6),1:06
-12-Jun-2017,Nottingham,3,Grass,QF,126,44,0,,5,Lucie Safarova,Tsvetana Pironkova,6-3 0-6 6-4 (ch),1.05,4.4%,5.5%,62.6%,59.6%,47.1%,58.3% (7/12),51.5%,47.4%,3.8%,32.7%,76.9%,35.7% (5/14),1:49
+12-Jun-2017,Nottingham,3,Grass,QF,126,44,0,,5,Lucie Safarova,Tsvetana Pironkova,6-3 0-6 6-4,1.05,4.4%,5.5%,62.6%,59.6%,47.1%,58.3% (7/12),51.5%,47.4%,3.8%,32.7%,76.9%,35.7% (5/14),1:49
 12-Jun-2017,Nottingham,3,Grass,R16,126,91,1,,,Tsvetana Pironkova,Kurumi Nara,6-3 6-2,1.58,5.4%,1.8%,69.6%,82.1%,35.3%,66.7% (2/3),59.6%,50.9%,0.0%,51.3%,50.0%,80.0% (4/5),1:17
 12-Jun-2017,Nottingham,3,Grass,R32,126,139,1,,Q,Tsvetana Pironkova,Tereza Martincova,6-2 6-2,1.37,1.7%,6.8%,52.5%,64.5%,57.1%,66.7% (2/3),57.1%,53.3%,1.7%,48.9%,69.2%,50.0% (5/10),1:14
-29-May-2017,Roland Garros,5,Clay,R64,77,6,0,,5,Elina Svitolina,Tsvetana Pironkova,3-6 6-3 6-2 (ch),0.83,2.5%,1.3%,58.8%,59.6%,36.4%,30.0% (3/10),46.1%,41.7%,1.4%,32.6%,55.2%,71.4% (5/7),1:50
+29-May-2017,Roland Garros,5,Clay,R64,77,6,0,,5,Elina Svitolina,Tsvetana Pironkova,3-6 6-3 6-2,0.83,2.5%,1.3%,58.8%,59.6%,36.4%,30.0% (3/10),46.1%,41.7%,1.4%,32.6%,55.2%,71.4% (5/7),1:50
 29-May-2017,Roland Garros,5,Clay,R128,77,50,1,,,Tsvetana Pironkova,Mona Barthel,6-0 6-4,1.41,1.8%,3.5%,64.9%,78.4%,35.0%,83.3% (5/6),57.5%,51.8%,1.8%,47.4%,61.1%,62.5% (5/8),1:12
 15-May-2017,Rome,3,Clay,Q1,76,123,0,,,Bethanie Mattek Sands,Tsvetana Pironkova,7-6(6) 6-4,0.93,6.5%,3.3%,54.3%,56.0%,54.8%,57.1% (4/7),48.2%,41.4%,3.0%,31.1%,50.0%,13.3% (2/15),2:11
 8-May-2017,Madrid,3,Clay,Q1,74,88,0,10,,Ekaterina Alexandrova,Tsvetana Pironkova,6-2 7-5,0.78,4.0%,2.7%,61.3%,54.3%,37.9%,53.8% (7/13),44.6%,40.6%,6.3%,30.6%,53.6%,42.9% (3/7),1:25
@@ -54,7 +54,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Feb-2017,Doha,3,Hard,Q3,65,50,0,8,2,Jelena Jankovic,Tsvetana Pironkova,6-1 6-7(6) 6-4,0.83,0.0%,1.8%,67.0%,60.3%,38.9%,50.0% (7/14),46.6%,38.9%,5.3%,27.6%,56.8%,80.0% (4/5),2:34
 13-Feb-2017,Doha,3,Hard,Q2,65,83,1,8,,Tsvetana Pironkova,Evgeniya Rodina,7-5 6-3,1.13,7.9%,1.3%,55.3%,64.3%,50.0%,72.7% (8/11),53.1%,47.8%,3.0%,48.7%,46.4%,45.5% (5/11),1:39
 13-Feb-2017,Doha,3,Hard,Q1,65,91,1,8,,Tsvetana Pironkova,Vania King,6-3 6-3,1.29,0.0%,1.7%,63.3%,63.2%,54.5%,50.0% (2/4),56.0%,51.8%,0.0%,57.1%,42.9%,62.5% (5/8),1:18
-16-Jan-2017,Australian Open,5,Hard,R128,64,3,0,,3,Agnieszka Radwanska,Tsvetana Pironkova,6-1 4-6 6-1 (ch),0.72,4.3%,7.2%,60.9%,52.4%,25.9%,33.3% (4/12),41.9%,41.8%,3.0%,42.5%,40.7%,66.7% (4/6),1:44
+16-Jan-2017,Australian Open,5,Hard,R128,64,3,0,,3,Agnieszka Radwanska,Tsvetana Pironkova,6-1 4-6 6-1,0.72,4.3%,7.2%,60.9%,52.4%,25.9%,33.3% (4/12),41.9%,41.8%,3.0%,42.5%,40.7%,66.7% (4/6),1:44
 9-Jan-2017,Sydney,3,Hard,Q2,63,94,0,3,,Maria Sakkari,Tsvetana Pironkova,6-3 2-0 RET,0.49,0.0%,0.0%,48.6%,41.2%,50.0%,50.0% (3/6),36.9%,26.7%,6.7%,20.0%,40.0%,100.0% (1/1),0:53
 9-Jan-2017,Sydney,3,Hard,Q1,63,106,1,3,,Tsvetana Pironkova,Patricia Maria Tig,7-6(4) 6-3,1.26,1.6%,8.1%,53.2%,75.8%,48.3%,50.0% (3/6),54.8%,46.9%,0.0%,32.4%,66.7%,50.0% (4/8),1:28
 2-Jan-2017,Shenzhen,3,Hard,R16,63,39,0,,8,Alison Riske Amritraj,Tsvetana Pironkova,6-1 6-1,0.37,3.2%,0.0%,56.5%,42.9%,51.9%,70.6% (12/17),36.7%,19.4%,0.0%,10.0%,31.3%,- (0/0),1:09
@@ -77,9 +77,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jun-2016,Birmingham,3,Grass,Q2,72,108,1,5,,Tsvetana Pironkova,Kristyna Pliskova,6-3 7-6(8),1.18,0.0%,2.4%,50.6%,66.7%,68.3%,80.0% (4/5),53.8%,38.4%,9.6%,16.3%,70.0%,40.0% (2/5),1:32
 13-Jun-2016,Birmingham,3,Grass,Q1,72,602,1,5,WC,Tsvetana Pironkova,Katie Boulter,6-1 6-2,2.64,10.5%,0.0%,68.4%,80.8%,75.0%,50.0% (1/2),65.2%,55.6%,0.0%,41.9%,73.9%,55.6% (5/9),0:56
 23-May-2016,Roland Garros,5,Clay,QF,102,24,0,,21,Samantha Stosur,Tsvetana Pironkova,6-4 7-6(6),1.00,1.4%,1.4%,63.8%,65.9%,44.0%,33.3% (2/6),49.0%,41.9%,0.0%,40.0%,46.2%,23.1% (3/13),1:46
-23-May-2016,Roland Garros,5,Clay,R16,102,2,1,,2,Tsvetana Pironkova,Agnieszka Radwanska,2-6 6-3 6-3 (ch),1.07,0.0%,2.9%,56.2%,55.9%,47.8%,57.1% (8/14),51.8%,51.1%,5.6%,44.3%,65.5%,58.3% (7/12),2:12
+23-May-2016,Roland Garros,5,Clay,R16,102,2,1,,2,Tsvetana Pironkova,Agnieszka Radwanska,2-6 6-3 6-3,1.07,0.0%,2.9%,56.2%,55.9%,47.8%,57.1% (8/14),51.8%,51.1%,5.6%,44.3%,65.5%,58.3% (7/12),2:12
 23-May-2016,Roland Garros,5,Clay,R32,102,22,1,,19,Tsvetana Pironkova,Sloane Stephens,6-2 6-1,2.88,5.4%,2.7%,51.4%,78.9%,77.8%,0.0% (0/1),69.5%,62.2%,2.2%,61.3%,64.3%,71.4% (5/7),0:51
-23-May-2016,Roland Garros,5,Clay,R64,102,62,1,,,Tsvetana Pironkova,Johanna Larsson,7-5 7-6(6) (ch),1.12,5.5%,2.7%,61.6%,66.7%,57.1%,0.0% (0/3),51.2%,41.4%,3.4%,39.7%,44.8%,40.0% (4/10),1:46
+23-May-2016,Roland Garros,5,Clay,R64,102,62,1,,,Tsvetana Pironkova,Johanna Larsson,7-5 7-6(6),1.12,5.5%,2.7%,61.6%,66.7%,57.1%,0.0% (0/3),51.2%,41.4%,3.4%,39.7%,44.8%,40.0% (4/10),1:46
 23-May-2016,Roland Garros,5,Clay,R128,102,18,1,,16,Tsvetana Pironkova,Sara Errani,6-3 6-2,1.36,3.1%,4.7%,57.8%,73.0%,44.4%,50.0% (2/4),57.7%,53.2%,0.0%,55.8%,25.0%,55.6% (5/9),1:20
 9-May-2016,Rome,3,Clay,Q1,107,70,0,,8,Varvara Lepchenko,Tsvetana Pironkova,6-3 6-0,0.73,1.8%,1.8%,52.6%,43.3%,22.2%,38.5% (5/13),40.2%,48.9%,0.0%,41.7%,57.1%,42.9% (3/7),1:18
 2-May-2016,Madrid,3,Clay,Q1,97,60,0,,5,Monica Puig,Tsvetana Pironkova,6-2 4-6 6-2,0.84,1.1%,2.1%,64.2%,57.4%,47.1%,45.5% (5/11),46.5%,39.1%,5.4%,39.1%,39.1%,25.0% (3/12),2:05
@@ -103,9 +103,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Feb-2016,Fed Cup G1 RR: HUN vs BUL,3,Hard,RR,93,234,1,,,Tsvetana Pironkova,Reka Luca Jani,6-1 6-1,,,,,,,,,,,,,,
 18-Jan-2016,Australian Open,5,Hard,R128,78,70,0,,,Yaroslava Shvedova,Tsvetana Pironkova,6-4 6-4,0.61,0.0%,2.3%,70.1%,63.9%,34.6%,72.7% (8/11),44.4%,27.3%,20.0%,30.3%,22.7%,33.3% (1/3),1:30
 11-Jan-2016,Sydney,3,Hard,R16,61,14,0,WC,8,Belinda Bencic,Tsvetana Pironkova,6-3 6-3,0.82,3.5%,5.3%,54.4%,74.2%,26.9%,50.0% (4/8),45.0%,38.9%,0.0%,35.3%,47.6%,9.1% (1/11),1:21
-11-Jan-2016,Sydney,3,Hard,R32,61,33,1,WC,,Tsvetana Pironkova,Lesia Tsurenko,7-6(6) 6-2 (ch),1.30,3.9%,1.3%,59.2%,73.3%,48.4%,50.0% (2/4),54.8%,47.8%,3.3%,45.1%,51.2%,40.0% (4/10),1:58
+11-Jan-2016,Sydney,3,Hard,R32,61,33,1,WC,,Tsvetana Pironkova,Lesia Tsurenko,7-6(6) 6-2,1.30,3.9%,1.3%,59.2%,73.3%,48.4%,50.0% (2/4),54.8%,47.8%,3.3%,45.1%,51.2%,40.0% (4/10),1:58
 4-Jan-2016,Brisbane,3,Hard,Q1,59,142,0,1,,Samantha Crawford,Tsvetana Pironkova,7-6(1) 6-4,0.85,2.8%,0.0%,53.5%,71.1%,48.5%,50.0% (3/6),47.1%,33.3%,14.5%,21.6%,46.9%,100.0% (2/2),1:24
-19-Oct-2015,Moscow,3,Hard,R32,52,29,0,,7,Irina Camelia Begu,Tsvetana Pironkova,1-6 7-6(2) 6-2 (ch),,,,,,,,,,,,,,
+19-Oct-2015,Moscow,3,Hard,R32,52,29,0,,7,Irina Camelia Begu,Tsvetana Pironkova,1-6 7-6(2) 6-2,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R64,48,77,0,,Q,Mariana Duque Marino,Tsvetana Pironkova,6-3 6-3,,,,,,,,,,,,,,
 28-Sep-2015,Wuhan,3,Hard,R64,44,33,0,,,Camila Giorgi,Tsvetana Pironkova,2-6 6-2 7-5,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,44,53,0,,,Mona Barthel,Tsvetana Pironkova,5-7 7-6(4) 6-1,,,,,,,,,,,,,,
@@ -116,12 +116,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jul-2015,Istanbul,3,Hard,R16,42,60,1,8,,Tsvetana Pironkova,Kurumi Nara,6-3 1-6 6-1,1.02,1.6%,3.3%,57.4%,45.7%,50.0%,33.3% (3/9),50.7%,53.2%,0.0%,50.8%,61.1%,61.5% (8/13),
 20-Jul-2015,Istanbul,3,Hard,R32,42,110,1,8,Q,Tsvetana Pironkova,Margarita Gasparyan,0-6 7-6(4) 7-6(3),0.75,1.9%,2.9%,60.2%,66.1%,61.0%,42.9% (3/7),46.2%,27.1%,7.3%,13.7%,42.2%,14.3% (1/7),
 29-Jun-2015,Wimbledon,5,Grass,R128,41,22,0,,30,Belinda Bencic,Tsvetana Pironkova,3-6 6-1 6-3,0.86,3.2%,1.1%,57.4%,57.4%,42.5%,62.5% (10/16),47.0%,41.9%,8.1%,32.0%,62.5%,100.0% (3/3),
-22-Jun-2015,Eastbourne,3,Grass,QF,44,13,0,,9,Agnieszka Radwanska,Tsvetana Pironkova,6-2 6-2 (ch),0.34,3.6%,0.0%,64.3%,58.3%,30.0%,60.0% (6/10),35.4%,17.5%,10.0%,12.1%,42.9%,- (0/0),
+22-Jun-2015,Eastbourne,3,Grass,QF,44,13,0,,9,Agnieszka Radwanska,Tsvetana Pironkova,6-2 6-2,0.34,3.6%,0.0%,64.3%,58.3%,30.0%,60.0% (6/10),35.4%,17.5%,10.0%,12.1%,42.9%,- (0/0),
 22-Jun-2015,Eastbourne,3,Grass,R16,44,49,1,,,Tsvetana Pironkova,Dominika Cibulkova,6-7(4) 6-4 6-1,1.19,8.0%,5.7%,71.3%,66.1%,44.0%,45.5% (5/11),53.6%,47.9%,1.1%,45.6%,53.8%,50.0% (9/18),
 22-Jun-2015,Eastbourne,3,Grass,R32,44,22,1,,16,Tsvetana Pironkova,Samantha Stosur,7-5 7-6(0),1.13,7.6%,4.5%,57.6%,63.2%,50.0%,16.7% (1/6),52.6%,47.9%,4.2%,45.1%,55.0%,75.0% (6/8),
 22-Jun-2015,Eastbourne,3,Grass,R64,44,86,1,,Q,Tsvetana Pironkova,Marina Erakovic,6-2 6-2,2.02,4.9%,0.0%,70.7%,82.8%,66.7%,- (0/0),60.5%,44.4%,4.4%,36.4%,66.7%,80.0% (4/5),
 15-Jun-2015,Birmingham,3,Grass,R32,48,10,0,,4,Angelique Kerber,Tsvetana Pironkova,6-4 2-6 6-4,1.08,6.6%,1.3%,61.8%,74.5%,48.3%,50.0% (4/8),50.6%,38.4%,0.0%,37.0%,46.2%,57.1% (4/7),
-15-Jun-2015,Birmingham,3,Grass,R64,48,891,1,,WC,Tsvetana Pironkova,Katie Swan,6-2 6-2 (ch),1.58,0.0%,0.0%,60.4%,78.1%,57.1%,100.0% (1/1),59.8%,47.7%,2.3%,34.6%,66.7%,50.0% (4/8),
+15-Jun-2015,Birmingham,3,Grass,R64,48,891,1,,WC,Tsvetana Pironkova,Katie Swan,6-2 6-2,1.58,0.0%,0.0%,60.4%,78.1%,57.1%,100.0% (1/1),59.8%,47.7%,2.3%,34.6%,66.7%,50.0% (4/8),
 25-May-2015,Roland Garros,5,Clay,R32,49,40,0,,,Sloane Stephens,Tsvetana Pironkova,6-4 6-1,0.70,1.7%,1.7%,44.1%,42.3%,30.3%,36.4% (4/11),39.8%,44.9%,2.0%,44.1%,46.7%,60.0% (3/5),
 25-May-2015,Roland Garros,5,Clay,R64,49,88,1,,,Tsvetana Pironkova,Denisa Allertova,6-3 7-6(2),1.40,4.4%,1.5%,60.3%,75.6%,55.6%,0.0% (0/2),55.9%,45.3%,0.0%,41.8%,55.0%,33.3% (3/9),
 25-May-2015,Roland Garros,5,Clay,R128,49,23,1,,22,Tsvetana Pironkova,Barbora Strycova,7-6(5) 6-2,1.22,2.9%,4.3%,60.9%,57.1%,40.7%,55.6% (5/9),55.1%,60.3%,1.7%,54.1%,71.4%,100.0% (6/6),
@@ -134,7 +134,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Mar-2015,Miami,3,Hard,R64,50,28,0,,15,Flavia Pennetta,Tsvetana Pironkova,6-7(1) 6-3 6-3,0.86,4.1%,4.1%,62.2%,52.5%,35.1%,28.6% (4/14),46.2%,46.5%,2.0%,39.3%,57.5%,58.3% (7/12),
 23-Mar-2015,Miami,3,Hard,R128,50,106,1,,Q,Tsvetana Pironkova,Kateryna Baindl,6-4 6-3,1.28,7.1%,0.0%,41.1%,73.9%,48.5%,50.0% (3/6),55.9%,52.7%,1.8%,56.4%,43.8%,45.5% (5/11),
 9-Mar-2015,Indian Wells,3,Hard,R128,50,131,0,,Q,Sesil Karatantcheva,Tsvetana Pironkova,7-5 6-1,0.61,1.4%,2.8%,50.0%,47.2%,41.7%,36.4% (4/11),40.2%,34.0%,0.0%,29.7%,46.2%,75.0% (3/4),
-16-Feb-2015,Dubai,3,Hard,R16,57,4,0,,1,Simona Halep,Tsvetana Pironkova,6-4 6-3 (ch),0.79,3.3%,5.0%,55.0%,60.6%,44.4%,55.6% (5/9),45.3%,36.8%,5.3%,30.6%,47.6%,50.0% (2/4),
+16-Feb-2015,Dubai,3,Hard,R16,57,4,0,,1,Simona Halep,Tsvetana Pironkova,6-4 6-3,0.79,3.3%,5.0%,55.0%,60.6%,44.4%,55.6% (5/9),45.3%,36.8%,5.3%,30.6%,47.6%,50.0% (2/4),
 16-Feb-2015,Dubai,3,Hard,R32,57,23,1,,16,Tsvetana Pironkova,Shuai Peng,3-6 6-4 7-6(5),0.94,4.0%,2.7%,55.7%,66.3%,37.9%,70.0% (14/20),49.8%,43.6%,2.1%,37.9%,52.8%,71.4% (5/7),
 16-Feb-2015,Dubai,3,Hard,R64,57,46,1,,,Tsvetana Pironkova,Klara Koukalova,6-3 4-6 6-3,1.17,5.6%,4.7%,55.1%,64.4%,35.4%,61.1% (11/18),53.9%,57.0%,1.2%,33.3%,79.5%,64.3% (9/14),
 9-Feb-2015,Antwerp,3,Hard,R32,50,247,0,,Q,Indy De Vroome,Tsvetana Pironkova,5-7 6-3 6-3,0.93,1.0%,2.9%,57.7%,60.0%,40.9%,50.0% (7/14),48.3%,44.8%,1.0%,36.4%,59.0%,50.0% (5/10),
@@ -148,7 +148,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Jan-2015,Sydney,3,Hard,Q2,67,86,1,1,,Tsvetana Pironkova,Donna Vekic,6-1 6-0,,,,,,,,,,,,,,
 12-Jan-2015,Sydney,3,Hard,Q1,67,81,1,1,,Tsvetana Pironkova,Chanelle Scheepers,7-6(5) 4-6 6-2,,,,,,,,,,,,,,
 5-Jan-2015,Brisbane,3,Hard,R32,37,17,0,,7,Carla Suarez Navarro,Tsvetana Pironkova,3-6 6-2 6-1,0.88,3.0%,3.0%,52.2%,65.7%,43.8%,50.0% (5/10),46.4%,39.3%,1.2%,33.9%,50.0%,50.0% (2/4),
-27-Oct-2014,Tournament of Champions,3,Hard,RR,41,12,0,8,2,Dominika Cibulkova,Tsvetana Pironkova,6-3 7-6(6) (ch),,,,,,,,,,,,,,
+27-Oct-2014,Tournament of Champions,3,Hard,RR,41,12,0,8,2,Dominika Cibulkova,Tsvetana Pironkova,6-3 7-6(6),,,,,,,,,,,,,,
 27-Oct-2014,Tournament of Champions,3,Hard,RR,41,17,0,8,4,Andrea Petkovic,Tsvetana Pironkova,7-5 6-2,,,,,,,,,,,,,,
 27-Oct-2014,Tournament of Champions,3,Hard,RR,41,18,0,8,5,Carla Suarez Navarro,Tsvetana Pironkova,7-6(2) 6-1,,,,,,,,,,,,,,
 13-Oct-2014,Moscow,3,Hard,QF,43,61,0,,,Irina Camelia Begu,Tsvetana Pironkova,1-6 6-3 6-2,0.95,3.6%,3.6%,63.9%,60.4%,36.7%,57.1% (8/14),48.8%,45.7%,3.7%,38.3%,55.9%,31.3% (5/16),
@@ -188,8 +188,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2014,Doha,3,Hard,Q1,52,487,1,,,Tsvetana Pironkova,Vitalia Diatchenko,6-2 6-3,1.39,1.6%,6.3%,57.1%,69.4%,51.9%,75.0% (6/8),57.8%,52.8%,5.7%,45.9%,68.8%,41.7% (5/12),
 13-Jan-2014,Australian Open,5,Hard,R64,57,17,0,,17,Samantha Stosur,Tsvetana Pironkova,6-2 6-0,0.45,2.1%,4.3%,57.4%,55.6%,20.0%,61.5% (8/13),34.1%,26.8%,9.8%,16.7%,41.2%,0.0% (0/1),
 13-Jan-2014,Australian Open,5,Hard,R128,57,78,1,,,Tsvetana Pironkova,Silvia Soler Espinosa,6-3 6-2,2.02,9.6%,0.0%,61.5%,87.5%,60.0%,100.0% (3/3),60.7%,46.7%,5.0%,40.0%,53.3%,60.0% (3/5),
-6-Jan-2014,Sydney,3,Hard,F,107,9,1,Q,,Tsvetana Pironkova,Angelique Kerber,6-4 6-4 (ch),1.11,5.9%,1.5%,67.6%,71.7%,13.6%,33.3% (2/6),52.6%,52.3%,0.0%,48.3%,60.0%,28.6% (6/21),
-6-Jan-2014,Sydney,3,Hard,SF,107,6,1,Q,,Tsvetana Pironkova,Petra Kvitova,6-4 6-3 (ch),1.23,3.4%,0.0%,60.3%,71.4%,30.4%,57.1% (4/7),55.2%,55.2%,10.3%,47.2%,68.2%,66.7% (6/9),
+6-Jan-2014,Sydney,3,Hard,F,107,9,1,Q,,Tsvetana Pironkova,Angelique Kerber,6-4 6-4,1.11,5.9%,1.5%,67.6%,71.7%,13.6%,33.3% (2/6),52.6%,52.3%,0.0%,48.3%,60.0%,28.6% (6/21),
+6-Jan-2014,Sydney,3,Hard,SF,107,6,1,Q,,Tsvetana Pironkova,Petra Kvitova,6-4 6-3,1.23,3.4%,0.0%,60.3%,71.4%,30.4%,57.1% (4/7),55.2%,55.2%,10.3%,47.2%,68.2%,66.7% (6/9),
 6-Jan-2014,Sydney,3,Hard,QF,107,7,1,Q,,Tsvetana Pironkova,Sara Errani,7-6(2) 6-3,1.14,5.4%,4.1%,59.5%,68.2%,30.0%,58.3% (7/12),53.2%,53.8%,0.0%,50.0%,71.4%,43.8% (7/16),
 6-Jan-2014,Sydney,3,Hard,R16,107,52,1,Q,LL,Tsvetana Pironkova,Varvara Lepchenko,6-3 6-2,1.28,4.8%,1.6%,67.7%,61.9%,45.0%,50.0% (3/6),56.1%,55.7%,0.0%,50.0%,75.0%,46.2% (6/13),
 6-Jan-2014,Sydney,3,Hard,R32,107,22,1,Q,,Tsvetana Pironkova,Sorana Cirstea,6-4 6-1,1.45,3.8%,1.9%,65.4%,73.5%,44.4%,50.0% (2/4),58.3%,52.9%,3.9%,34.8%,67.9%,71.4% (5/7),
@@ -237,7 +237,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Jan-2013,Paris,3,Carpet,R32,41,100,0,,Q,Stefanie Voegele,Tsvetana Pironkova,6-4 6-2,0.57,8.6%,4.3%,58.6%,63.4%,31.0%,66.7% (8/12),41.2%,28.6%,12.2%,18.2%,50.0%,100.0% (1/1),
 14-Jan-2013,Australian Open,5,Hard,R128,37,61,0,,,Romina Oprandi,Tsvetana Pironkova,4-6 7-5 6-2,0.88,4.9%,2.9%,62.7%,50.0%,44.7%,46.7% (7/15),47.0%,45.9%,2.0%,41.7%,52.6%,66.7% (6/9),
 7-Jan-2013,Hobart,3,Hard,QF,39,32,0,,9,Mona Barthel,Tsvetana Pironkova,6-3 6-3,0.58,0.0%,0.0%,67.8%,52.5%,36.8%,44.4% (4/9),40.0%,30.4%,2.2%,22.6%,46.7%,50.0% (2/4),
-7-Jan-2013,Hobart,3,Hard,R16,39,23,1,,3,Tsvetana Pironkova,Klara Koukalova,3-6 6-4 6-2 (ch),,,,,,,,,,,,,,
+7-Jan-2013,Hobart,3,Hard,R16,39,23,1,,3,Tsvetana Pironkova,Klara Koukalova,3-6 6-4 6-2,,,,,,,,,,,,,,
 7-Jan-2013,Hobart,3,Hard,R32,39,53,1,,,Tsvetana Pironkova,Irina Camelia Begu,6-3 6-4,1.32,6.1%,4.5%,56.1%,73.0%,58.6%,87.5% (7/8),56.1%,43.9%,1.8%,34.3%,59.1%,42.9% (3/7),
 29-Oct-2012,Tournament of Champions,3,Hard,SF,44,11,0,8,1,Caroline Wozniacki,Tsvetana Pironkova,6-4 6-1,,,,,,,,,,,,,,
 29-Oct-2012,Tournament of Champions,3,Hard,RR,44,13,0,8,2,Nadia Petrova,Tsvetana Pironkova,5-7 6-1 6-3,,,,,,,,,,,,,,
@@ -340,8 +340,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Jul-2010,Istanbul,3,Hard,R32,33,125,1,5,,Tsvetana Pironkova,Tatjana Maria,7-6(4) 6-2,,,,,,,,,,,,,,
 12-Jul-2010,Palermo,3,Clay,R16,35,110,0,4,,Jill Craybas,Tsvetana Pironkova,2-6 6-2 6-2,0.92,4.3%,8.6%,54.3%,60.5%,43.8%,25.0% (2/8),48.0%,43.6%,0.0%,43.5%,43.8%,57.1% (4/7),
 12-Jul-2010,Palermo,3,Clay,R32,35,146,1,4,WC,Tsvetana Pironkova,Anna Floris,6-4 7-6(4),1.16,8.6%,1.4%,58.6%,65.9%,48.3%,42.9% (3/7),53.1%,47.9%,0.0%,43.2%,55.2%,45.5% (5/11),
-21-Jun-2010,Wimbledon,5,Grass,SF,82,21,0,,21,Vera Zvonareva,Tsvetana Pironkova,3-6 6-3 6-2 (ch),0.78,3.6%,1.2%,66.7%,69.6%,46.4%,40.0% (2/5),47.1%,29.6%,2.8%,28.3%,32.0%,25.0% (1/4),
-21-Jun-2010,Wimbledon,5,Grass,QF,82,2,1,,2,Tsvetana Pironkova,Venus Williams,6-2 6-3 (ch),1.38,5.8%,1.9%,59.6%,74.2%,52.4%,66.7% (2/3),55.7%,47.6%,4.8%,41.7%,55.6%,33.3% (4/12),
+21-Jun-2010,Wimbledon,5,Grass,SF,82,21,0,,21,Vera Zvonareva,Tsvetana Pironkova,3-6 6-3 6-2,0.78,3.6%,1.2%,66.7%,69.6%,46.4%,40.0% (2/5),47.1%,29.6%,2.8%,28.3%,32.0%,25.0% (1/4),
+21-Jun-2010,Wimbledon,5,Grass,QF,82,2,1,,2,Tsvetana Pironkova,Venus Williams,6-2 6-3,1.38,5.8%,1.9%,59.6%,74.2%,52.4%,66.7% (2/3),55.7%,47.6%,4.8%,41.7%,55.6%,33.3% (4/12),
 21-Jun-2010,Wimbledon,5,Grass,R16,82,13,1,,11,Tsvetana Pironkova,Marion Bartoli,6-4 6-4,1.17,3.2%,3.2%,57.1%,69.4%,48.1%,50.0% (2/4),51.9%,46.3%,4.2%,44.9%,50.0%,33.3% (4/12),
 21-Jun-2010,Wimbledon,5,Grass,R32,82,69,1,,,Tsvetana Pironkova,Regina Kulikova,6-4 2-0 RET,1.18,11.1%,6.7%,51.1%,78.3%,40.9%,83.3% (5/6),54.2%,47.4%,5.3%,44.4%,54.5%,33.3% (3/9),
 21-Jun-2010,Wimbledon,5,Grass,R64,82,56,1,,,Tsvetana Pironkova,Vera Dushevina,6-3 6-4,1.32,6.2%,1.5%,60.0%,71.8%,57.7%,66.7% (2/3),55.4%,44.6%,3.1%,45.7%,42.1%,37.5% (3/8),
@@ -514,7 +514,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Sep-2007,Bordeaux 100K,3,Clay,QF,97,121,1,,,Tsvetana Pironkova,Mathilde Johansson,6-1 6-4,,,,,,,,,,,,,,
 10-Sep-2007,Bordeaux 100K,3,Clay,R16,97,92,1,,5,Tsvetana Pironkova,Timea Bacsinszky,6-4 2-6 6-4,,,,,,,,,,,,,,
 10-Sep-2007,Bordeaux 100K,3,Clay,R32,97,138,1,,,Tsvetana Pironkova,Maret Ani,6-1 6-3,,,,,,,,,,,,,,
-27-Aug-2007,US Open,5,Hard,R64,130,1,0,Q,1,Justine Henin,Tsvetana Pironkova,6-4 6-0 (ch),0.57,0.0%,6.5%,54.3%,56.0%,33.3%,16.7% (1/6),38.6%,31.0%,7.1%,31.8%,30.0%,50.0% (1/2),
+27-Aug-2007,US Open,5,Hard,R64,130,1,0,Q,1,Justine Henin,Tsvetana Pironkova,6-4 6-0,0.57,0.0%,6.5%,54.3%,56.0%,33.3%,16.7% (1/6),38.6%,31.0%,7.1%,31.8%,30.0%,50.0% (1/2),
 27-Aug-2007,US Open,5,Hard,R128,130,46,1,Q,,Tsvetana Pironkova,Olga Puchkova,6-3 6-4,1.27,8.0%,1.3%,54.7%,73.2%,55.9%,87.5% (7/8),56.1%,43.9%,0.0%,32.4%,60.9%,42.9% (3/7),
 27-Aug-2007,US Open,5,Hard,Q3,130,120,1,24,16,Tsvetana Pironkova,Stephanie Dubois,7-6(5) 1-6 6-2,,,,,,,,,,,,,,
 27-Aug-2007,US Open,5,Hard,Q2,130,197,1,24,,Tsvetana Pironkova,Marta Domachowska,6-0 4-6 6-4,,,,,,,,,,,,,,

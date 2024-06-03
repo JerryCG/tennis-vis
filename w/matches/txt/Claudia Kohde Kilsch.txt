@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 5-Dec-1994,ITF Cergy-Pontois,3,Hard,R32,,84,0,,2,Linda Ferrando,Claudia Kohde Kilsch,7-6(3) 6-3,,,,,,,,,,,,,,
 14-Nov-1994,ITF Eastbourne,3,Carpet,R32,,162,0,,4,Yvette Basting,Claudia Kohde Kilsch,6-3 4-6 6-0,,,,,,,,,,,,,,
 11-Jan-1993,Melbourne,3,Hard,Q1,100,104,0,,7,Joannette Kruger,Claudia Kohde Kilsch,7-6(6) 7-6(3),,,,,,,,,,,,,,
@@ -8,13 +8,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Jun-1992,Wimbledon,5,Grass,R64,79,141,0,,,Kristin Godridge,Claudia Kohde Kilsch,6-4 7-5,,,,,,,,,,,,,,
 22-Jun-1992,Wimbledon,5,Grass,R128,79,42,1,,,Claudia Kohde Kilsch,Rachel Mcquillan,2-6 6-2 6-4,,,,,,,,,,,,,,
 15-Jun-1992,Eastbourne,3,Grass,R64,73,7,0,,2,Mary Joe Fernandez,Claudia Kohde Kilsch,6-3 6-1,,,,,,,,,,,,,,
-25-May-1992,French Open,3,Clay,R128,73,28,0,,,Natalia Zvereva,Claudia Kohde Kilsch,6-2 6-3,,,,,,,,,,,,,,
+25-May-1992,Roland Garros,5,Clay,R128,73,28,0,,,Natalia Zvereva,Claudia Kohde Kilsch,6-2 6-3,,,,,,,,,,,,,,
 11-May-1992,Berlin,3,Clay,R64,66,52,0,,,Larisa Savchenko,Claudia Kohde Kilsch,6-2 7-5,,,,,,,,,,,,,,
 4-May-1992,Rome,3,Clay,R64,64,72,0,,,Isabelle Demongeot,Claudia Kohde Kilsch,6-3 6-3,,,,,,,,,,,,,,
 6-Apr-1992,Amelia Island,3,Clay,R32,66,5,0,,3,Arantxa Sanchez Vicario,Claudia Kohde Kilsch,6-2 6-2,,,,,,,,,,,,,,
 6-Apr-1992,Amelia Island,3,Clay,R64,66,129,1,,,Claudia Kohde Kilsch,Shaun Stafford,6-4 7-6,,,,,,,,,,,,,,
 30-Mar-1992,Hilton Head,3,Clay,R32,65,31,0,,13,Sandra Cecchini,Claudia Kohde Kilsch,6-4 6-1,,,,,,,,,,,,,,
-30-Mar-1992,Hilton Head,3,Clay,R64,65,84,1,,,Claudia Kohde Kilsch,Bettina Fulco Villella,6-4 6-4,,,,,,,,,,,,,,
+30-Mar-1992,Hilton Head,3,Clay,R64,65,84,1,,,Claudia Kohde Kilsch,Bettina Fulco,6-4 6-4,,,,,,,,,,,,,,
 24-Feb-1992,Indian Wells,3,Hard,R32,69,35,0,,10,Pam Shriver,Claudia Kohde Kilsch,6-3 5-7 6-3,,,,,,,,,,,,,,
 24-Feb-1992,Indian Wells,3,Hard,R64,69,155,1,,LL,Claudia Kohde Kilsch,Heather Ludloff,4-6 6-3 7-5,,,,,,,,,,,,,,
 10-Feb-1992,Linz,3,Carpet,R16,58,19,0,,3,Mary Pierce,Claudia Kohde Kilsch,6-1 7-6,,,,,,,,,,,,,,

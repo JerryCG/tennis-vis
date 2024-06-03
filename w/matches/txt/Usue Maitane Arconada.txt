@@ -1,4 +1,14 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W35 Bethany Beach DE,3,Clay,R32,888,,0,,Q,Kira Matushkina,Usue Maitane Arconada,6-4 1-0 RET,,,,,,,,,,,,,,
+6-May-2024,W75 Zephyrhills FL,3,Clay,R32,888,364,0,SR,Q,Sophie Chang,Usue Maitane Arconada,3-6 7-6(2) 6-2,,,,,,,,,,,,,,
+29-Apr-2024,W100 Bonita Springs FL,3,Clay,R32,901,214,0,SR,6,Elvina Kalieva,Usue Maitane Arconada,6-2 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W35 Boca Raton FL,3,Clay,R32,897,275,0,WC,5,Liv Hovde,Usue Maitane Arconada,6-4 6-4,,,,,,,,,,,,,,
+1-Apr-2024,Charleston,3,Clay,Q2,1100,100,0,WC,1,Varvara Gracheva,Usue Maitane Arconada,6-2 6-4,0.57,1.5%,13.2%,66.2%,51.1%,34.8%,58.3% (7/12),39.7%,31.3%,6.3%,29.6%,33.3%,50.0% (2/4),1:20
+1-Apr-2024,Charleston,3,Clay,Q1,1100,125,1,WC,7,Usue Maitane Arconada,Elizabeth Mandlik,7-5 7-6(5),1.09,2.5%,6.2%,59.3%,56.3%,45.5%,37.5% (3/8),52.2%,52.5%,1.3%,42.1%,61.9%,75.0% (6/8),1:55
+11-Mar-2024,Charleston 125,3,Hard,Q2,,140,0,WC,ALT,Olivia Gadecki,Usue Maitane Arconada,6-2 6-1,0.54,0.0%,9.3%,65.1%,57.1%,33.3%,42.9% (3/7),37.8%,27.7%,2.1%,20.0%,50.0%,0.0% (0/1),1:04
+11-Mar-2024,Charleston 125,3,Hard,Q1,,,1,WC,ALT,Usue Maitane Arconada,Ingrid Gamarra Martins,7-5 6-4,1.22,2.9%,7.2%,60.9%,59.5%,44.4%,54.5% (6/11),55.2%,56.6%,0.0%,54.0%,61.5%,50.0% (7/14),1:32
+12-Jun-2023,W60 Sumter SC,3,Hard,R16,,413,0,WC,6,Grace Min,Usue Maitane Arconada,1-6 6-1 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Sumter SC,3,Hard,R32,,701,1,WC,,Usue Maitane Arconada,Jaeda Daniel,6-2 7-5,,,,,,,,,,,,,,
 21-Feb-2022,Guadalajara,3,Hard,Q1,173,142,0,,5,Rebeka Masarova,Usue Maitane Arconada,6-7(4) 6-4 6-4,0.88,0.0%,9.5%,67.4%,64.1%,45.2%,0.0% (0/5),47.6%,37.2%,5.3%,37.1%,37.5%,75.0% (3/4),2:09
 31-Jan-2022,W60 Rome GA,3,Hard,R32,173,311,0,,Q,Tatjana Maria,Usue Maitane Arconada,6-2 6-1,,,,,,,,,,,,,,
 24-Jan-2022,W60 Orlando FL,3,Hard,QF,182,207,0,,,Irene Burillo Escorihuela,Usue Maitane Arconada,6-1 6-4,,,,,,,,,,,,,,
@@ -83,7 +93,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Sep-2019,New Haven,3,Hard,R32,179,79,1,,4,Usue Maitane Arconada,Tatjana Maria,6-2 6-2,1.48,3.5%,3.5%,56.1%,68.8%,60.0%,50.0% (1/2),58.9%,52.0%,2.0%,37.9%,71.4%,71.4% (5/7),1:10
 2-Sep-2019,New Haven,3,Hard,R64,179,388,1,,,Usue Maitane Arconada,Naomi Broady,6-3 6-1,1.56,3.8%,13.5%,57.7%,83.3%,45.5%,100.0% (3/3),60.0%,51.2%,2.3%,45.8%,57.9%,66.7% (4/6),1:17
 26-Aug-2019,US Open,5,Hard,Q1,179,117,0,,14,Jasmine Paolini,Usue Maitane Arconada,6-1 3-6 6-1,0.74,0.0%,5.4%,64.9%,56.3%,38.5%,53.8% (7/13),43.3%,36.8%,1.3%,32.6%,43.3%,25.0% (3/12),1:35
-12-Aug-2019,W60 Concord MA,3,Hard,SF,191,178,0,,,Ann Li,Usue Maitane Arconada,2-6 6-1 6-4 (ch),,,,,,,,,,,,,,
+12-Aug-2019,W60 Concord MA,3,Hard,SF,191,178,0,,,Ann Li,Usue Maitane Arconada,2-6 6-1 6-4,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,QF,191,158,1,,,Usue Maitane Arconada,Jana Cepelova,7-5 6-3,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,R16,191,133,1,,,Usue Maitane Arconada,Anhelina Kalinina,6-1 6-2,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,R32,191,,1,,WC,Usue Maitane Arconada,Brittany Collens,6-0 6-0,,,,,,,,,,,,,,
@@ -114,7 +124,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Apr-2019,W25 Osprey FL,3,Clay,QF,319,,1,,,Usue Maitane Arconada,Alexa Glatch,6-3 6-3,,,,,,,,,,,,,,
 22-Apr-2019,W25 Osprey FL,3,Clay,R16,319,294,1,,,Usue Maitane Arconada,Katarzyna Piter,6-2 6-4,,,,,,,,,,,,,,
 22-Apr-2019,W25 Osprey FL,3,Clay,R32,319,337,1,,,Usue Maitane Arconada,Camila Osorio,6-3 3-6 6-3,,,,,,,,,,,,,,
-15-Apr-2019,W80 Dothan AL,3,Clay,QF,337,227,0,WC,,Elena Gabriela Ruse,Usue Maitane Arconada,6-3 6-2 (ch),,,,,,,,,,,,,,
+15-Apr-2019,W80 Dothan AL,3,Clay,QF,337,227,0,WC,,Elena Gabriela Ruse,Usue Maitane Arconada,6-3 6-2,,,,,,,,,,,,,,
 15-Apr-2019,W80 Dothan AL,3,Clay,R16,337,167,1,WC,,Usue Maitane Arconada,Claire Liu,2-6 6-2 7-6(1),,,,,,,,,,,,,,
 15-Apr-2019,W80 Dothan AL,3,Clay,R32,337,210,1,WC,,Usue Maitane Arconada,Zoe Hives,6-2 4-6 6-2,,,,,,,,,,,,,,
 8-Apr-2019,W25 Pelham AL,3,Clay,R32,337,270,0,,,Kristina Kucova,Usue Maitane Arconada,6-4 5-7 6-1,,,,,,,,,,,,,,
@@ -190,7 +200,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Sep-2017,Tampico $100K,3,Hard,R32,252,176,1,,7,Usue Maitane Arconada,Ajla Tomljanovic,3-6 6-3 6-3,,,,,,,,,,,,,,
 11-Sep-2017,Quebec City,3,Hard,Q2,263,464,0,6,,Andrea Hlavackova,Usue Maitane Arconada,6-1 6-2,0.64,1.9%,3.8%,75.5%,35.0%,38.5%,25.0% (2/8),38.6%,41.0%,9.8%,34.5%,46.9%,40.0% (2/5),1:12
 11-Sep-2017,Quebec City,3,Hard,Q1,263,331,1,6,,Usue Maitane Arconada,Tara Moore,7-5 5-7 6-3,1.05,1.9%,7.5%,70.1%,56.0%,46.9%,53.8% (7/13),51.1%,49.2%,3.2%,35.4%,63.9%,44.4% (8/18),2:12
-28-Aug-2017,US Open,5,Hard,Q1,246,135,0,,23,Viktoria Kuzmova,Usue Maitane Arconada,6-1 6-1,,,,,,,,,,,,,,
+28-Aug-2017,US Open,5,Hard,Q1,246,135,0,,23,Viktoria Hruncakova,Usue Maitane Arconada,6-1 6-1,,,,,,,,,,,,,,
 31-Jul-2017,Washington,3,Hard,Q1,239,317,0,6,,Shuko Aoyama,Usue Maitane Arconada,6-2 6-2,0.72,0.0%,13.6%,51.5%,50.0%,46.9%,61.5% (8/13),43.3%,37.0%,0.0%,21.6%,70.6%,11.1% (1/9),1:14
 24-Jul-2017,Sacramento CA $60K,3,Hard,R16,237,165,0,,8,Sofia Kenin,Usue Maitane Arconada,6-3 6-7(4) 6-1,,,,,,,,,,,,,,
 24-Jul-2017,Sacramento CA $60K,3,Hard,R32,237,215,1,,,Usue Maitane Arconada,Grace Min,6-4 3-6 6-4,,,,,,,,,,,,,,

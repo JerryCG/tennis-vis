@@ -1,4 +1,74 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+15-Apr-2024,Oeiras 125,3,Clay,Q2,296,372,1,8,,Gabriela Lee,Anna Siskova,6-1 3-6 6-1,1.15,0.0%,7.0%,65.1%,51.8%,50.0%,50.0% (4/8),53.5%,56.2%,1.4%,57.4%,52.6%,72.7% (8/11),1:58
+15-Apr-2024,Oeiras 125,3,Clay,Q1,296,,1,8,WC,Gabriela Lee,Amalia Suciu,6-1 6-1,2.72,5.6%,19.4%,55.6%,95.0%,56.3%,- (0/0),68.9%,60.5%,2.6%,50.0%,66.7%,83.3% (5/6),0:55
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,296,251,0,Q,WC,Irene Burillo Escorihuela,Gabriela Lee,1-6 6-2 7-6(2),,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q2,296,962,1,2,WC,Gabriela Lee,Charo Esquiva Banuls,6-1 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q1,296,,1,2,,Gabriela Lee,Maryna Kolb,6-3 6-0,,,,,,,,,,,,,,
+1-Apr-2024,Charleston,3,Clay,R64,312,73,0,Q,,Ashlyn Krueger,Gabriela Lee,7-6(0) 6-3,0.74,1.4%,5.6%,63.9%,54.3%,34.6%,50.0% (5/10),43.3%,39.1%,2.9%,31.9%,54.5%,50.0% (4/8),1:43
+1-Apr-2024,Charleston,3,Clay,Q2,312,135,1,,9,Gabriela Lee,Astra Sharma,6-2 6-3,1.39,1.5%,1.5%,71.2%,63.8%,57.9%,75.0% (3/4),57.9%,52.7%,1.8%,50.0%,55.6%,50.0% (4/8),1:23
+1-Apr-2024,Charleston,3,Clay,Q1,312,120,1,,2,Gabriela Lee,Mai Hontama,5-7 6-3 6-4,1.17,3.3%,5.4%,54.3%,66.0%,45.2%,25.0% (2/8),53.5%,50.9%,0.0%,46.8%,61.3%,58.3% (7/12),2:25
+26-Feb-2024,Austin,3,Hard,Q2,320,147,0,,8,Rebecca Marino,Gabriela Lee,1-6 6-3 6-4,0.93,0.0%,1.1%,73.9%,64.6%,52.2%,78.6% (11/14),49.7%,36.0%,6.7%,34.1%,38.7%,42.9% (3/7),1:43
+26-Feb-2024,Austin,3,Hard,Q1,320,129,1,,1,Gabriela Lee,Nuria Parrizas Diaz,5-7 6-3 6-4,1.13,2.9%,1.0%,68.6%,60.0%,50.0%,37.5% (3/8),53.0%,49.0%,0.0%,50.0%,46.9%,54.5% (6/11),2:27
+29-Jan-2024,W75 Rome GA,3,Hard,R32,315,352,0,,JE,Madison Sieg,Gabriela Lee,3-6 6-4 6-4,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,F,389,124,0,Q,2,Maria Lourdes Carle,Gabriela Lee,6-4 7-6(4),,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,SF,389,130,1,Q,3,Gabriela Lee,Hailey Baptiste,6-3 6-2,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,QF,389,97,1,Q,1,Gabriela Lee,Renata Zarazua,6-4 7-6(5),,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R16,389,425,1,Q,SE,Gabriela Lee,Leonie Kung,7-5 7-6(1),,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R32,389,194,1,Q,6,Gabriela Lee,Robin Montgomery,6-2 6-0,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,Q2,389,811,1,3,,Gabriela Lee,Adriana Reami,6-2 7-5,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,Q1,389,828,1,3,,Gabriela Lee,Akasha Urhobo,6-1 3-6 6-4,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,QF,389,690,0,,Q,Jessica Pieri,Gabriela Lee,6-3 6-4,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,R16,389,286,1,,7,Gabriela Lee,Varvara Lepchenko,7-6(2) 1-6 7-5,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,R32,389,613,1,,Q,Gabriela Lee,Mayuka Aikawa,7-5 6-4,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,R32,390,502,0,,,Maria Kozyreva,Gabriela Lee,6-3 2-6 7-5,,,,,,,,,,,,,,
+4-Dec-2023,Montevideo 125,3,Clay,R16,424,128,0,Q,2,Renata Zarazua,Gabriela Lee,6-0 6-0,0.39,0.0%,4.9%,65.9%,37.0%,21.4%,33.3% (3/9),29.3%,26.5%,0.0%,25.0%,30.0%,- (0/0),0:57
+4-Dec-2023,Montevideo 125,3,Clay,R32,424,1306,1,Q,WC,Gabriela Lee,Lucia De Santa Ana,6-0 6-1,2.73,2.4%,2.4%,70.7%,75.9%,66.7%,- (0/0),73.2%,73.3%,0.0%,80.0%,66.7%,100.0% (5/5),0:50
+27-Nov-2023,W40 Veracruz,3,Hard,R32,421,551,0,,,Melany Solange Krywoj,Gabriela Lee,6-3 4-6 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W40 Guadalajara,3,Clay,QF,443,119,0,8,1,Brenda Fruhvirtova,Gabriela Lee,6-3 6-1,,,,,,,,,,,,,,
+20-Nov-2023,W40 Guadalajara,3,Clay,R16,443,939,1,8,Q,Gabriela Lee,Dasha Plekhanova,6-2 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W40 Guadalajara,3,Clay,R32,443,1224,1,8,Q,Gabriela Lee,Emma Van Poppel,4-6 7-6(4) 6-2,,,,,,,,,,,,,,
+13-Nov-2023,W25 Austin TX,3,Hard,R32,445,274,0,,3,Grace Min,Gabriela Lee,6-3 6-0,,,,,,,,,,,,,,
+23-Oct-2023,W80 Tyler TX,3,Hard,R32,445,534,0,,Q,Maria Kozyreva,Gabriela Lee,6-1 3-6 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W80 Macon GA,3,Hard,R32,463,162,0,Q,8,Renata Zarazua,Gabriela Lee,6-0 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W80 Macon GA,3,Hard,Q2,463,523,1,7,10,Gabriela Lee,Fangran Tian,6-0 6-0,,,,,,,,,,,,,,
+16-Oct-2023,W80 Macon GA,3,Hard,Q1,463,788,1,7,,Gabriela Lee,D J Bennett,4-6 6-3 6-4,,,,,,,,,,,,,,
+9-Oct-2023,W25 Florence SC,3,Hard,R16,461,403,0,,,Alexandra Vecic,Gabriela Lee,5-7 6-3 6-3,,,,,,,,,,,,,,
+9-Oct-2023,W25 Florence SC,3,Hard,R32,461,266,1,,4,Gabriela Lee,Grace Min,6-7(7) 6-3 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R32,440,171,0,,1,Maria Lourdes Carle,Gabriela Lee,6-1 6-1,,,,,,,,,,,,,,
+11-Sep-2023,W40 Skopje,3,Clay,R16,443,440,0,,,Ayla Aksu,Gabriela Lee,6-0 7-6(4),,,,,,,,,,,,,,
+11-Sep-2023,W40 Skopje,3,Clay,R32,443,321,1,,11,Gabriela Lee,Martha Matoula,6-3 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W40 Skopje,3,Clay,R64,443,398,1,,,Gabriela Lee,Miriana Tona,3-6 7-5 6-4,,,,,,,,,,,,,,
+19-Jun-2023,W25 Wichita,3,Hard,SF,338,259,0,6,2,Stacey Fung,Gabriela Lee,6-3 6-1,,,,,,,,,,,,,,
+19-Jun-2023,W25 Wichita,3,Hard,QF,338,715,1,6,,Gabriela Lee,Rasheeda Mcadoo,6-4 6-2,,,,,,,,,,,,,,
+19-Jun-2023,W25 Wichita,3,Hard,R16,338,1171,1,6,Q,Gabriela Lee,Alina Shcherbinina,6-2 6-2,,,,,,,,,,,,,,
+19-Jun-2023,W25 Wichita,3,Hard,R32,338,,1,6,WC,Gabriela Lee,Joelle Kissell,6-1 6-1,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,SF,384,315,0,,11,Misaki Doi,Gabriela Lee,7-5 7-5,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,QF,384,249,1,,7,Gabriela Lee,Veronika Erjavec,7-6(6) 6-2,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R16,384,232,1,,4,Gabriela Lee,Lina Gjorcheska,7-6(4) 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R32,384,343,1,,16,Gabriela Lee,Nikola Bartunkova,6-2 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R64,384,636,1,,SR,Gabriela Lee,Alina Charaeva,6-2 6-7(4) 6-3,,,,,,,,,,,,,,
+5-Jun-2023,W25 Poertschach,3,Clay,SF,388,264,0,8,3,Alexandra Cadantu Ignatik,Gabriela Lee,7-5 7-6(3),,,,,,,,,,,,,,
+5-Jun-2023,W25 Poertschach,3,Clay,QF,388,229,1,8,2,Gabriela Lee,Ekaterina Makarova,6-4 6-2,,,,,,,,,,,,,,
+5-Jun-2023,W25 Poertschach,3,Clay,R16,388,1167,1,8,LL,Gabriela Lee,Alina Michalitsch,6-2 6-0,,,,,,,,,,,,,,
+5-Jun-2023,W25 Poertschach,3,Clay,R32,388,1322,1,8,LL,Gabriela Lee,Natalia Orlova,5-0 RET,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R64,388,617,0,,JE,Victoria Mboko,Gabriela Lee,7-5 5-7 7-5,,,,,,,,,,,,,,
+22-May-2023,Rabat,3,Clay,R32,376,129,0,,,Leolia Jeanjean,Gabriela Lee,7-6(4) 5-7 6-3,0.98,0.8%,4.1%,66.9%,55.6%,47.5%,52.9% (9/17),49.6%,45.9%,1.8%,39.1%,57.1%,53.3% (8/15),2:58
+8-May-2023,W60 Naples FL,3,Clay,R32,372,415,0,4,,Marine Partaud,Gabriela Lee,7-5 6-0,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,R32,240,197,0,,,Marcela Zacarias,Gabriela Lee,6-4 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R16,240,155,0,,6,Ashlyn Krueger,Gabriela Lee,6-2 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R32,240,248,1,,,Gabriela Lee,Jamie Loeb,6-3 7-6(2),,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,Q2,247,414,0,2,10,Grace Min,Gabriela Lee,6-2 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,Q1,247,,1,2,WC,Gabriela Lee,Cherysh Endurance Henry,6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,SF,219,152,0,,5,Caroline Dolehide,Gabriela Lee,6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,QF,219,164,1,,3,Gabriela Lee,Katrina Scott,6-7(7) 4-2 RET,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,R16,219,307,1,,,Gabriela Lee,Francesca Di Lorenzo,6-3 6-1,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,R32,219,621,1,,Q,Gabriela Lee,Kayla Cross,6-1 7-5,,,,,,,,,,,,,,
+3-Apr-2023,Charleston,3,Clay,Q1,203,184,0,,16,Kayla Day,Gabriela Lee,6-2 7-6(5),0.65,2.4%,4.8%,61.4%,64.7%,50.0%,84.6% (11/13),44.9%,26.6%,4.7%,20.9%,38.1%,0.0% (0/3),1:49
+6-Mar-2023,W25 Boca Raton FL,3,Clay,R16,201,302,0,7,,Whitney Osuigwe,Gabriela Lee,6-2 3-6 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W25 Boca Raton FL,3,Clay,R32,201,372,1,7,,Gabriela Lee,Seone Mendez,6-4 6-4,,,,,,,,,,,,,,
+27-Feb-2023,Austin,3,Hard,Q1,201,153,0,,7,Maria Lourdes Carle,Gabriela Lee,6-3 6-1,0.50,0.0%,10.9%,45.7%,66.7%,32.0%,33.3% (2/6),37.0%,26.1%,0.0%,15.6%,50.0%,0.0% (0/1),1:07
+16-Jan-2023,Australian Open,5,Hard,Q1,197,93,0,,25,Rebeka Masarova,Gabriela Lee,7-5 6-3,0.74,0.0%,1.6%,72.6%,57.8%,64.7%,50.0% (3/6),44.4%,29.7%,7.8%,27.0%,33.3%,33.3% (1/3),1:19
+2-Jan-2023,W60 Canberra,3,Hard,Q1,200,580,0,10,WC,Kaylah Mcphee,Gabriela Lee,7-5 2-6 7-6(2),,,,,,,,,,,,,,
 31-Oct-2022,Midland 125,3,Hard,R32,160,122,0,,,Elizabeth Mandlik,Gabriela Lee,6-4 7-5,0.82,5.4%,2.7%,74.3%,52.7%,47.4%,54.5% (6/11),46.0%,40.0%,4.6%,38.9%,41.4%,33.3% (3/9),1:25
 24-Oct-2022,W80 Tyler TX,3,Hard,R32,157,398,0,6,Q,Ellen Perez,Gabriela Lee,7-6(6) 7-5,,,,,,,,,,,,,,
 17-Oct-2022,Guadalajara 2,3,Hard,Q1,147,279,0,13,,Renata Zarazua,Gabriela Lee,6-4 6-4,0.92,3.3%,10.0%,43.3%,61.5%,58.8%,50.0% (3/6),47.4%,37.0%,4.1%,32.1%,50.0%,25.0% (1/4),1:30
@@ -22,7 +92,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jun-2022,Birmingham,3,Grass,Q2,154,92,0,11,1,Donna Vekic,Gabriela Lee,6-3 6-1,0.63,0.0%,8.9%,64.3%,50.0%,45.0%,37.5% (3/8),41.0%,32.7%,8.2%,30.0%,36.8%,33.3% (1/3),1:09
 13-Jun-2022,Birmingham,3,Grass,Q1,154,542,1,11,WC,Gabriela Lee,Freya Christie,6-4 3-6 6-2,1.12,3.4%,3.4%,66.3%,64.4%,53.3%,50.0% (4/8),52.2%,44.0%,2.2%,30.2%,63.2%,33.3% (5/15),2:11
 6-Jun-2022,Nottingham,3,Grass,Q1,156,234,0,10,,Yuriko Miyazaki,Gabriela Lee,6-7(5) 6-4 6-2,0.84,0.9%,3.7%,68.5%,55.4%,44.1%,56.3% (9/16),46.2%,40.4%,1.0%,38.5%,43.6%,44.4% (4/9),2:19
-23-May-2022,Roland Garros,5,Clay,Q1,149,114,0,,13,Aleksandra Krunic,Gabriela Lee,6-7(4) 6-3 6-1,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,149,114,0,,13,Aleksandra Krunic,Gabriela Lee,6-7(4) 6-3 6-1,0.69,1.0%,5.2%,85.4%,50.0%,42.9%,50.0% (7/14),42.7%,35.4%,1.2%,32.9%,66.7%,50.0% (3/6),
 2-May-2022,W100 Bonita Springs FL,3,Clay,F,234,158,1,Q,7,Gabriela Lee,Katarzyna Kawa,6-1 6-3,,,,,,,,,,,,,,
 2-May-2022,W100 Bonita Springs FL,3,Clay,SF,234,121,1,Q,3,Gabriela Lee,Katie Volynets,2-6 7-6(5) 1-0 RET,,,,,,,,,,,,,,
 2-May-2022,W100 Bonita Springs FL,3,Clay,QF,234,105,1,Q,1,Gabriela Lee,Irina Bara,2-6 6-1 6-1,,,,,,,,,,,,,,
@@ -70,7 +140,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-May-2021,Roland Garros,5,Clay,Q2,211,143,0,,31,Harriet Dart,Gabriela Lee,6-3 2-6 6-3,0.84,1.2%,3.6%,63.9%,50.9%,40.0%,46.2% (6/13),45.9%,44.6%,2.7%,28.2%,62.9%,46.2% (6/13),1:51
 31-May-2021,Roland Garros,5,Clay,Q1,211,265,1,,,Gabriela Lee,Yue Yuan,6-3 6-4,1.13,0.0%,4.1%,61.6%,73.3%,46.4%,90.0% (9/10),53.9%,41.8%,1.8%,39.5%,47.1%,50.0% (3/6),1:21
 10-May-2021,W100 Bonita Springs FL,3,Clay,Q1,209,305,0,1,,Catherine Harrison,Gabriela Lee,6-4 6-1,,,,,,,,,,,,,,
-3-May-2021,W100 Charleston SC,3,Clay,R32,208,166,0,,,Storm Sanders,Gabriela Lee,6-0 6-1,,,,,,,,,,,,,,
+3-May-2021,W100 Charleston SC,3,Clay,R32,208,166,0,,,Storm Hunter,Gabriela Lee,6-0 6-1,,,,,,,,,,,,,,
 26-Apr-2021,W60 Charlottesville VA,3,Clay,R32,208,133,0,,4,Irina Bara,Gabriela Lee,7-5 7-5,,,,,,,,,,,,,,
 5-Apr-2021,Charleston 1,3,Clay,R64,214,91,0,Q,,Danka Kovinic,Gabriela Lee,7-6(2) 6-4,0.83,3.9%,3.9%,50.0%,52.6%,60.5%,42.9% (3/7),47.1%,35.9%,3.1%,32.4%,40.7%,42.9% (3/7),1:47
 5-Apr-2021,Charleston 1,3,Clay,Q2,214,147,1,13,3,Gabriela Lee,Xin Yu Wang,4-6 6-1 6-3,1.10,2.0%,11.2%,53.1%,61.5%,50.0%,50.0% (4/8),52.4%,48.3%,4.6%,42.6%,55.0%,42.9% (6/14),1:57
@@ -115,7 +185,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2020,W100 Nicholasville KY,3,Hard,Q1,247,478,1,6,,Gabriela Lee,Emily Webley Smith,7-5 6-3,,,,,,,,,,,,,,
 3-Feb-2020,W100 Midland MI,3,Hard,QF,276,138,0,Q,6,Shelby Rogers,Gabriela Lee,6-4 6-4,,,,,,,,,,,,,,
 3-Feb-2020,W100 Midland MI,3,Hard,R16,276,313,1,Q,Q,Gabriela Lee,Shilin Xu,7-5 6-2,,,,,,,,,,,,,,
-3-Feb-2020,W100 Midland MI,3,Hard,R32,276,79,1,Q,1,Gabriela Lee,Madison Brengle,6-2 7-6(4) (ch),,,,,,,,,,,,,,
+3-Feb-2020,W100 Midland MI,3,Hard,R32,276,79,1,Q,1,Gabriela Lee,Madison Brengle,6-2 7-6(4),,,,,,,,,,,,,,
 3-Feb-2020,W100 Midland MI,3,Hard,Q2,276,375,1,1,9,Gabriela Lee,Panna Udvardy,6-1 1-6 10-6,,,,,,,,,,,,,,
 20-Jan-2020,W25 Vero Beach FL,3,Clay,R32,301,348,0,,Q,Irene Burillo Escorihuela,Gabriela Lee,6-0 6-3,,,,,,,,,,,,,,
 13-Jan-2020,W25 Daytona Beach FL,3,Clay,SF,301,290,0,,,Marie Benoit,Gabriela Lee,6-2 6-1,,,,,,,,,,,,,,

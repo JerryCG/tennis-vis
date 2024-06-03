@@ -1,7 +1,78 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+22-Apr-2024,W100 Oeiras,3,Clay,R16,177,150,0,,3,Jana Fett,Polona Hercog,6-0 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,R32,177,280,1,,Q,Polona Hercog,Mirjam Bjorklund,6-1 6-1,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,SF,200,154,1,7,2,Polona Hercog,Chloe Paquet,2-6 6-1 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,QF,200,529,1,7,WC,Polona Hercog,Pia Lovric,6-3 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R16,200,661,1,7,WC,Polona Hercog,Nina Potocnik,6-4 6-0,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R32,200,418,1,7,Q,Polona Hercog,Aneta Kladivova,6-4 6-0,,,,,,,,,,,,,,
+1-Apr-2024,W75 Split,3,Clay,R16,198,321,0,8,Q,Barbora Palicova,Polona Hercog,7-6(3) 7-5,,,,,,,,,,,,,,
+1-Apr-2024,W75 Split,3,Clay,R32,198,509,1,8,Q,Polona Hercog,Lena Rueffer,6-2 6-3,,,,,,,,,,,,,,
+25-Mar-2024,Antalya 125,3,Clay,QF,213,126,0,,4,Irina Camelia Begu,Polona Hercog,6-4 6-4,0.91,1.6%,4.8%,63.5%,62.5%,43.5%,0.0% (0/4),47.7%,40.6%,0.0%,37.0%,53.3%,50.0% (2/4),1:50
+25-Mar-2024,Antalya 125,3,Clay,R16,213,182,1,,,Polona Hercog,Timea Babos,6-1 7-6(5),1.33,2.9%,0.0%,68.1%,68.1%,50.0%,66.7% (4/6),55.7%,50.0%,0.0%,50.0%,50.0%,22.2% (4/18),1:59
+25-Mar-2024,Antalya 125,3,Clay,R32,213,130,1,,6,Polona Hercog,Sara Bejlek,7-6 6-3,1.18,4.0%,1.3%,58.7%,52.3%,67.7%,57.1% (4/7),53.3%,48.9%,0.0%,45.8%,54.8%,33.3% (4/12),1:52
+18-Mar-2024,W75 Maribor,3,Hard,R32,213,182,0,WC,3,Timea Babos,Polona Hercog,6-3 6-2,,,,,,,,,,,,,,
+26-Feb-2024,W50 Trnava,3,Hard,R32,219,149,0,,4,Moyuka Uchijima,Polona Hercog,6-4 4-2 RET,,,,,,,,,,,,,,
+12-Feb-2024,W35 Antalya,3,Clay,QF,233,257,0,2,8,Cristina Dinu,Polona Hercog,6-1 6-1,,,,,,,,,,,,,,
+12-Feb-2024,W35 Antalya,3,Clay,R16,233,293,1,2,,Polona Hercog,Julie Struplova,6-2 6-1,,,,,,,,,,,,,,
+12-Feb-2024,W35 Antalya,3,Clay,R32,233,380,1,2,,Polona Hercog,Oleksandra Oliynykova,6-4 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,F,235,220,0,4,1,Tena Lukas,Polona Hercog,2-6 6-3 6-1,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,SF,235,233,1,4,2,Polona Hercog,Ylena In Albon,7-6(2) 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,QF,235,246,1,4,5,Polona Hercog,Gergana Topalova,6-1 RET,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R16,235,374,1,4,,Polona Hercog,Oleksandra Oliynykova,6-2 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R32,235,622,1,4,Q,Polona Hercog,Carson Branstine,6-2 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,QF,244,151,0,,2,Jessica Bouzas Maneiro,Polona Hercog,6-1 6-3,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R16,244,834,1,,SR,Polona Hercog,Nastasja Schunk,3-6 6-1 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R32,244,189,1,,5,Polona Hercog,Noma Noha Akugue,7-5 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W50 Antalya,3,Clay,F,267,294,0,3,7,Guiomar Maristany Zuleta De Reales,Polona Hercog,6-4 6-1,,,,,,,,,,,,,,
+15-Jan-2024,W50 Antalya,3,Clay,SF,267,1033,1,3,Q,Polona Hercog,Ela Nala Milic,1-6 6-0 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W50 Antalya,3,Clay,QF,267,471,1,3,,Polona Hercog,Andrea Lazaro Garcia,6-2 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W50 Antalya,3,Clay,R16,267,431,1,3,15,Polona Hercog,Tara Wurth,6-4 6-4,,,,,,,,,,,,,,
+15-Jan-2024,W50 Antalya,3,Clay,R32,267,644,1,3,,Polona Hercog,Jana Bojovic,6-4 6-4,,,,,,,,,,,,,,
+8-Jan-2024,W35 Loughborough,3,Hard,R32,271,380,0,2,,Manon Leonard,Polona Hercog,7-6(5) 3-6 6-3,,,,,,,,,,,,,,
+4-Dec-2023,Montevideo 125,3,Clay,R16,272,140,0,,5,Maria Lourdes Carle,Polona Hercog,6-0 6-1,0.56,0.0%,21.4%,45.2%,42.1%,21.7%,36.4% (4/11),34.6%,38.5%,0.0%,41.4%,30.0%,50.0% (1/2),1:02
+4-Dec-2023,Montevideo 125,3,Clay,R32,272,291,1,,Q,Polona Hercog,Varvara Lepchenko,7-6(2) 6-2,1.11,2.1%,4.2%,68.4%,64.6%,50.0%,91.7% (11/12),52.8%,44.4%,0.0%,43.9%,45.8%,33.3% (3/9),2:17
+27-Nov-2023,Buenos Aires 125,3,Clay,QF,292,163,0,,7,Julia Riera,Polona Hercog,6-3 6-4,0.77,3.1%,6.2%,60.0%,53.8%,42.3%,61.5% (8/13),44.6%,39.3%,5.4%,33.3%,46.2%,75.0% (3/4),1:29
+27-Nov-2023,Buenos Aires 125,3,Clay,R16,292,280,1,,,Polona Hercog,Valeriya Strakhova,6-1 1-6 6-3,1.13,1.4%,4.2%,63.9%,65.2%,53.8%,57.1% (4/7),52.4%,43.8%,0.0%,40.4%,50.0%,50.0% (4/8),1:48
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,292,174,1,,9,Polona Hercog,Carole Monnet,6-4 0-2 RET,1.03,0.0%,5.7%,66.0%,54.3%,38.9%,57.1% (4/7),50.5%,52.4%,0.0%,50.0%,60.0%,75.0% (3/4),1:10
+20-Nov-2023,Florianopolis 125,3,Clay,R16,301,75,0,,3,Nadia Podoroska,Polona Hercog,6-2 6-3,0.75,1.9%,5.8%,50.0%,50.0%,50.0%,42.9% (3/7),43.0%,37.7%,0.0%,33.3%,47.6%,16.7% (1/6),1:35
+20-Nov-2023,Florianopolis 125,3,Clay,R32,301,173,1,,,Polona Hercog,Maria Lourdes Carle,6-2 2-6 6-3,1.12,0.0%,8.9%,62.2%,71.4%,32.4%,60.0% (6/10),53.2%,48.4%,1.6%,39.5%,61.5%,100.0% (5/5),2:06
+13-Nov-2023,Colina 125,3,Clay,QF,332,104,0,,5,Diane Parry,Polona Hercog,6-7(7) 6-3 6-1,0.89,3.1%,3.1%,57.7%,67.9%,46.3%,40.0% (4/10),46.7%,36.5%,3.5%,31.3%,50.0%,16.7% (2/12),2:47
+13-Nov-2023,Colina 125,3,Clay,R16,332,59,1,,1,Polona Hercog,Mayar Sherif,7-6(11) 4-6 6-1,1.16,5.0%,8.0%,59.0%,81.4%,51.2%,87.5% (7/8),52.8%,36.1%,2.1%,36.4%,35.5%,40.0% (2/5),2:40
+13-Nov-2023,Colina 125,3,Clay,R32,332,200,1,,,Polona Hercog,Miriam Bianca Bulgaru,6-4 4-6 6-2,1.12,6.9%,5.9%,55.4%,71.4%,48.9%,57.1% (4/7),52.6%,43.2%,2.1%,29.2%,57.4%,50.0% (5/10),2:58
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R16,330,184,0,,1,Miriam Bianca Bulgaru,Polona Hercog,6-1 6-2,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R32,330,389,1,,,Polona Hercog,Martina Colmegna,6-0 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,SF,378,171,0,,1,Maria Lourdes Carle,Polona Hercog,7-5 7-6(5),,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,QF,378,281,1,,5,Polona Hercog,Sapfo Sakellaridi,6-0 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R16,378,251,1,,3,Polona Hercog,Gergana Topalova,6-4 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R32,378,719,1,,Q,Polona Hercog,Sofia Milatova,6-3 7-5,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,SF,444,219,0,Q,7,Miriam Bianca Bulgaru,Polona Hercog,2-6 6-4 7-6(8),,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,QF,444,302,1,Q,,Polona Hercog,Cristina Dinu,6-4 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,R16,444,485,1,Q,Q,Polona Hercog,Ylona Georgiana Ghioroaie,3-6 6-2 6-0,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,R32,444,290,1,Q,,Polona Hercog,Sapfo Sakellaridi,3-6 6-1 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,Q2,444,636,1,3,16,Polona Hercog,Adrienn Nagy,6-1 7-6(0),,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,Q1,444,654,1,3,,Polona Hercog,Elena Milovanovic,6-1 6-1,,,,,,,,,,,,,,
+21-Aug-2023,W25 Braunschweig,3,Clay,R16,583,172,0,SE,1,Polina Kudermetova,Polona Hercog,6-4 6-4,,,,,,,,,,,,,,
+21-Aug-2023,W25 Braunschweig,3,Clay,R32,583,690,1,SE,Q,Polona Hercog,Mana Kawamura,6-7(3) 6-4 6-0,,,,,,,,,,,,,,
+14-Aug-2023,W25 Vrnjacka Banja,3,Clay,F,580,294,1,Q,4,Polona Hercog,Isabella Shinikova,6-2 6-4,,,,,,,,,,,,,,
+14-Aug-2023,W25 Vrnjacka Banja,3,Clay,SF,580,411,1,Q,7,Polona Hercog,Mia Ristic,6-4 6-7(10) 6-1,,,,,,,,,,,,,,
+14-Aug-2023,W25 Vrnjacka Banja,3,Clay,QF,580,710,1,Q,Q,Polona Hercog,Fangran Tian,6-4 6-2,,,,,,,,,,,,,,
+14-Aug-2023,W25 Vrnjacka Banja,3,Clay,R16,580,524,1,Q,,Polona Hercog,Laura Hietaranta,6-2 6-1,,,,,,,,,,,,,,
+14-Aug-2023,W25 Vrnjacka Banja,3,Clay,R32,580,287,1,Q,3,Polona Hercog,Antonia Ruzic,6-4 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,QF,697,42,0,WC,1,Arantxa Rus,Polona Hercog,6-3 1-6 6-0,,,,,,,,,,,,,,
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,R16,697,132,1,WC,6,Polona Hercog,Anna Bondar,7-6(2) 5-7 6-3,,,,,,,,,,,,,,
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,R32,697,386,1,WC,Q,Polona Hercog,Amina Anshba,6-2 6-4,,,,,,,,,,,,,,
+17-Jul-2023,Iasi 125,3,Clay,R32,702,167,0,,,Reka Luca Jani,Polona Hercog,6-4 7-5,0.86,1.4%,4.2%,62.5%,55.6%,37.0%,57.1% (8/14),46.5%,44.4%,0.0%,41.4%,57.1%,50.0% (4/8),1:44
+10-Jul-2023,Bastad 125,3,Clay,R16,858,118,0,,,Aliona Bolsova,Polona Hercog,6-3 6-3,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,858,,1,,WC,Polona Hercog,Bella Bergkvist Larsson,6-2 6-2,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,858,169,0,,,Jaimee Fourlis,Polona Hercog,6-3 4-6 6-3,0.82,9.1%,9.1%,59.1%,71.2%,36.1%,54.5% (6/11),46.2%,35.3%,2.4%,28.3%,52.0%,50.0% (3/6),2:07
+29-May-2023,W40 Otocec,3,Clay,R64,,343,0,WC,,Seone Mendez,Polona Hercog,6-2 6-1,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,,160,0,,,Mirjam Bjorklund,Polona Hercog,6-0 6-1,0.55,2.4%,2.4%,53.7%,40.9%,36.8%,50.0% (5/10),35.8%,33.3%,1.9%,31.6%,37.5%,0.0% (0/11),
+29-May-2023,Roland Garros,5,Clay,Q1,,237,1,,,Polona Hercog,Harmony Tan,5-7 6-0 7-6(4),1.13,3.0%,4.4%,54.1%,64.4%,43.5%,70.0% (14/20),53.4%,51.2%,1.2%,48.2%,57.1%,61.5% (8/13),
+15-May-2023,W25 Feld am See,3,Clay,R16,,345,0,WC,6,Maja Chwalinska,Polona Hercog,6-7(5) 7-5 6-2,,,,,,,,,,,,,,
+15-May-2023,W25 Feld am See,3,Clay,R32,,422,1,WC,,Polona Hercog,Chi Chi Scholl,6-4 6-4,,,,,,,,,,,,,,
 9-May-2022,Karlsruhe 125,3,Clay,R32,166,125,0,,,Laura Pigossi,Polona Hercog,6-4 1-0 RET,0.76,0.0%,7.1%,67.9%,47.4%,33.3%,40.0% (2/5),43.3%,43.6%,0.0%,41.4%,50.0%,50.0% (2/4),1:05
-2-May-2022,W100 Wiesbaden,3,Clay,R16,164,110,0,,8,Jule Niemeier,Polona Hercog,6-2 6-2,,,,,,,,,,,,,,
-2-May-2022,W100 Wiesbaden,3,Clay,R32,164,136,1,,,Polona Hercog,Kateryna Baindl,6-1 6-3,,,,,,,,,,,,,,
+2-May-2022,W100 Wiesbaden,3,Clay,R16,164,110,0,,8,Jule Niemeier,Polona Hercog,6-2 6-2,0.54,0.0%,5.9%,64.7%,45.5%,44.4%,50.0% (5/10),37.8%,29.8%,2.1%,26.1%,33.3%,50.0% (1/2),
+2-May-2022,W100 Wiesbaden,3,Clay,R32,164,136,1,,,Polona Hercog,Kateryna Baindl,6-1 6-3,1.46,3.4%,8.6%,65.5%,71.1%,45.0%,85.7% (6/7),58.4%,55.2%,0.0%,51.2%,62.5%,33.3% (5/15),
 25-Apr-2022,W60 Zagreb,3,Clay,R32,164,338,0,5,Q,Antonia Ruzic,Polona Hercog,7-5 6-3,,,,,,,,,,,,,,
 18-Apr-2022,W60 Chiasso,3,Clay,R32,164,255,0,5,Q,Irene Burillo Escorihuela,Polona Hercog,3-6 6-4 6-3,,,,,,,,,,,,,,
 11-Apr-2022,W60 Bellinzona,3,Clay,QF,137,209,0,3,8,Dea Herdzelas,Polona Hercog,6-3 1-6 6-4,,,,,,,,,,,,,,
@@ -14,7 +85,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Nov-2021,W100+H Dubai,3,Hard,R16,136,171,0,8,SR,Vitalia Diatchenko,Polona Hercog,6-3 6-3,,,,,,,,,,,,,,
 22-Nov-2021,W100+H Dubai,3,Hard,R32,136,425,1,8,WC,Polona Hercog,Sandra Samir,1-6 6-3 6-1,,,,,,,,,,,,,,
 1-Nov-2021,W60 Nantes,3,Hard,R32,127,204,0,6,,Urszula Radwanska,Polona Hercog,6-3 6-4,,,,,,,,,,,,,,
-25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,124,23,0,,3,Emma Raducanu,Polona Hercog,4-6 7-5 6-1 (ch),0.78,1.0%,5.8%,66.3%,65.2%,40.0%,76.5% (13/17),46.1%,33.7%,4.5%,24.6%,53.6%,40.0% (2/5),2:27
+25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,124,23,0,,3,Emma Raducanu,Polona Hercog,4-6 7-5 6-1,0.78,1.0%,5.8%,66.3%,65.2%,40.0%,76.5% (13/17),46.1%,33.7%,4.5%,24.6%,53.6%,40.0% (2/5),2:27
 11-Oct-2021,W60 Rancho Santa Fe CA,3,Hard,QF,123,639,0,8,Q,Elvina Kalieva,Polona Hercog,6-4 6-3,,,,,,,,,,,,,,
 11-Oct-2021,W60 Rancho Santa Fe CA,3,Hard,R16,123,566,1,8,Q,Polona Hercog,Ellie Douglas,6-4 6-2,,,,,,,,,,,,,,
 11-Oct-2021,W60 Rancho Santa Fe CA,3,Hard,R32,123,535,1,8,WC,Polona Hercog,Jessica Failla,6-7(5) 6-3 7-5,,,,,,,,,,,,,,
@@ -30,7 +101,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jun-2021,Birmingham,3,Grass,R32,73,35,0,,4,Daria Kasatkina,Polona Hercog,4-6 6-3 6-3,0.87,3.7%,3.7%,51.2%,54.8%,40.0%,11.1% (1/9),46.6%,45.9%,0.0%,41.0%,52.1%,37.5% (6/16),2:12
 31-May-2021,Roland Garros,5,Clay,R32,73,21,0,,20,Marketa Vondrousova,Polona Hercog,6-3 6-3,0.76,2.1%,4.3%,55.3%,57.7%,57.1%,50.0% (3/6),43.1%,32.3%,4.8%,27.5%,40.9%,0.0% (0/6),1:11
 31-May-2021,Roland Garros,5,Clay,R64,73,58,1,,,Polona Hercog,Caroline Garcia,7-5 6-4,1.23,2.9%,4.3%,49.3%,61.8%,65.7%,33.3% (1/3),53.8%,44.6%,0.0%,37.3%,60.9%,28.6% (4/14),1:40
-31-May-2021,Roland Garros,5,Clay,R128,73,17,1,,16,Polona Hercog,Kiki Bertens,6-1 3-6 6-4 (ch),1.11,2.4%,7.2%,39.8%,60.6%,46.0%,40.0% (4/10),52.7%,53.6%,0.0%,53.6%,53.6%,50.0% (8/16),1:54
+31-May-2021,Roland Garros,5,Clay,R128,73,17,1,,16,Polona Hercog,Kiki Bertens,6-1 3-6 6-4,1.11,2.4%,7.2%,39.8%,60.6%,46.0%,40.0% (4/10),52.7%,53.6%,0.0%,53.6%,53.6%,50.0% (8/16),1:54
 17-May-2021,Belgrade,3,Clay,R32,73,69,0,,,Leylah Fernandez,Polona Hercog,7-5 6-1,0.75,3.5%,3.5%,73.7%,50.0%,13.3%,41.7% (5/12),42.9%,44.9%,0.0%,38.1%,55.6%,33.3% (3/9),1:29
 10-May-2021,Rome,3,Clay,R64,74,19,0,Q,17,Maria Sakkari,Polona Hercog,7-6(6) 3-6 6-2,0.97,2.6%,4.3%,43.1%,66.0%,48.5%,73.3% (11/15),49.6%,42.9%,3.6%,37.3%,49.1%,40.0% (4/10),2:48
 10-May-2021,Rome,3,Clay,Q2,74,112,1,10,,Polona Hercog,Sara Errani,6-2 6-3,1.86,0.0%,4.5%,45.5%,75.0%,70.8%,0.0% (0/1),59.8%,50.8%,0.0%,48.8%,55.0%,71.4% (5/7),1:17
@@ -48,48 +119,48 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,Australian Open,5,Hard,R128,51,43,0,,,Caroline Garcia,Polona Hercog,7-6(6) 6-3,0.79,6.3%,5.1%,41.8%,72.7%,43.5%,57.1% (4/7),45.5%,35.1%,10.4%,33.9%,38.9%,20.0% (1/5),1:43
 31-Jan-2021,Gippsland Trophy,3,Hard,R32,49,71,0,15,,Daria Kasatkina,Polona Hercog,6-4 6-3,0.68,10.3%,7.4%,63.2%,62.8%,36.0%,42.9% (3/7),43.5%,32.1%,5.4%,23.1%,52.9%,33.3% (1/3),1:23
 31-Jan-2021,Gippsland Trophy,3,Hard,R64,49,125,1,15,,Polona Hercog,Margarita Gasparyan,2-6 6-3 6-3,1.11,3.9%,1.3%,51.3%,66.7%,59.5%,25.0% (1/4),51.6%,40.7%,2.5%,35.6%,47.2%,50.0% (4/8),1:51
-6-Jan-2021,Abu Dhabi,3,Hard,R64,49,10,0,,,Aryna Sabalenka,Polona Hercog,7-6(5) 6-2 (ch),1.29,5.1%,7.6%,55.7%,72.7%,45.7%,66.7% (6/9),55.8%,50.7%,4.0%,48.5%,52.4%,41.7% (5/12),1:47
+6-Jan-2021,Abu Dhabi,3,Hard,R64,49,10,0,,,Aryna Sabalenka,Polona Hercog,7-6(5) 6-2,1.29,5.1%,7.6%,55.7%,72.7%,45.7%,66.7% (6/9),55.8%,50.7%,4.0%,48.5%,52.4%,41.7% (5/12),1:47
 7-Dec-2020,W100+H Dubai,3,Hard,SF,52,86,0,2,,Sorana Cirstea,Polona Hercog,7-5 4-6 7-5,,,,,,,,,,,,,,
 7-Dec-2020,W100+H Dubai,3,Hard,QF,52,73,1,2,7,Polona Hercog,Arantxa Rus,6-2 6-4,,,,,,,,,,,,,,
 7-Dec-2020,W100+H Dubai,3,Hard,R16,52,103,1,2,,Polona Hercog,Aliona Bolsova,6-2 7-6(3),,,,,,,,,,,,,,
-7-Dec-2020,W100+H Dubai,3,Hard,R32,52,97,1,2,,Polona Hercog,Viktoria Kuzmova,7-5 6-3,,,,,,,,,,,,,,
+7-Dec-2020,W100+H Dubai,3,Hard,R32,52,97,1,2,,Polona Hercog,Viktoria Hruncakova,7-5 6-3,,,,,,,,,,,,,,
 28-Sep-2020,Roland Garros,5,Clay,R64,47,100,0,,,Leylah Fernandez,Polona Hercog,6-4 3-6 6-1,0.86,2.0%,2.0%,50.0%,59.2%,34.7%,50.0% (7/14),46.2%,45.5%,1.1%,38.0%,55.3%,50.0% (5/10),2:24
 28-Sep-2020,Roland Garros,5,Clay,R128,47,305,1,,WC,Polona Hercog,Diane Parry,6-4 6-2,1.38,5.5%,7.3%,52.7%,69.0%,53.8%,33.3% (1/3),57.0%,52.5%,5.1%,40.6%,66.7%,55.6% (5/9),1:28
 21-Sep-2020,Strasbourg,3,Clay,R32,47,52,0,,,Alize Cornet,Polona Hercog,6-3 6-4,0.81,0.0%,4.5%,68.2%,46.7%,38.1%,66.7% (12/18),44.6%,45.5%,3.6%,31.6%,76.5%,80.0% (4/5),1:39
 14-Sep-2020,Rome,3,Clay,R16,50,19,0,,12,Marketa Vondrousova,Polona Hercog,1-6 6-1 7-6(5),0.96,1.1%,2.1%,53.2%,56.0%,50.0%,50.0% (5/10),49.4%,44.7%,0.0%,45.8%,42.9%,83.3% (5/6),2:23
-14-Sep-2020,Rome,3,Clay,R32,50,8,1,,5,Polona Hercog,Kiki Bertens,6-4 6-4 (ch),1.35,1.7%,6.7%,58.3%,71.4%,48.0%,40.0% (2/5),56.6%,51.6%,0.0%,52.9%,50.0%,50.0% (5/10),1:36
+14-Sep-2020,Rome,3,Clay,R32,50,8,1,,5,Polona Hercog,Kiki Bertens,6-4 6-4,1.35,1.7%,6.7%,58.3%,71.4%,48.0%,40.0% (2/5),56.6%,51.6%,0.0%,52.9%,50.0%,50.0% (5/10),1:36
 14-Sep-2020,Rome,3,Clay,R64,50,102,1,,Q,Polona Hercog,Kaja Juvan,4-6 6-4 6-1,1.17,3.1%,8.3%,41.7%,77.5%,41.1%,73.3% (11/15),53.9%,51.2%,1.2%,47.2%,58.1%,50.0% (7/14),2:20
 7-Sep-2020,Istanbul,3,Clay,QF,49,94,0,3,,Paula Badosa,Polona Hercog,4-6 6-3 6-4,0.91,4.6%,2.8%,61.1%,60.6%,35.7%,61.1% (11/18),48.0%,44.7%,0.0%,45.2%,43.8%,50.0% (6/12),2:39
 7-Sep-2020,Istanbul,3,Clay,R16,49,97,1,3,,Polona Hercog,Jasmine Paolini,7-5 6-4,1.28,2.9%,4.3%,50.7%,80.0%,50.0%,60.0% (3/5),54.5%,44.6%,0.0%,39.3%,61.1%,40.0% (4/10),1:46
 7-Sep-2020,Istanbul,3,Clay,R32,49,387,1,3,WC,Polona Hercog,Berfu Cengiz,6-2 6-3,1.50,9.6%,1.9%,63.5%,81.8%,57.9%,- (0/0),57.6%,40.4%,0.0%,31.3%,60.0%,60.0% (3/5),1:12
-10-Aug-2020,Prague,3,Clay,R32,46,2,0,,1,Simona Halep,Polona Hercog,6-1 1-6 7-6(3) (ch),0.96,0.9%,3.4%,67.2%,50.0%,47.4%,68.4% (13/19),49.1%,49.0%,1.0%,45.6%,56.7%,54.5% (6/11),2:30
+10-Aug-2020,Prague,3,Clay,R32,46,2,0,,1,Simona Halep,Polona Hercog,6-1 1-6 7-6(3),0.96,0.9%,3.4%,67.2%,50.0%,47.4%,68.4% (13/19),49.1%,49.0%,1.0%,45.6%,56.7%,54.5% (6/11),2:30
 3-Aug-2020,Palermo,3,Clay,R32,45,156,0,,WC,Elisabetta Cocciaretto,Polona Hercog,7-6(1) 6-3,0.74,3.0%,7.5%,52.2%,51.4%,46.9%,37.5% (3/8),43.4%,37.7%,0.0%,34.9%,42.3%,37.5% (3/8),1:53
 24-Feb-2020,Doha,3,Hard,R64,42,62,0,,,Alison Van Uytvanck,Polona Hercog,6-2 6-2,0.56,0.0%,4.0%,70.0%,51.4%,53.3%,0.0% (0/4),40.0%,26.7%,2.2%,10.7%,52.9%,- (0/0),1:03
 17-Feb-2020,Dubai,3,Hard,Q3,43,38,0,7,4,Kristina Mladenovic,Polona Hercog,6-3 6-1,0.76,1.9%,7.5%,52.8%,57.1%,28.0%,50.0% (6/12),43.1%,42.9%,1.6%,35.9%,54.2%,40.0% (2/5),1:25
 17-Feb-2020,Dubai,3,Hard,Q2,43,190,1,7,,Polona Hercog,Xinyun Han,6-2 6-4,1.85,2.4%,4.8%,54.8%,82.6%,57.9%,33.3% (1/3),60.8%,52.7%,0.0%,48.6%,61.1%,62.5% (5/8),1:10
 17-Feb-2020,Dubai,3,Hard,Q1,43,191,1,7,,Polona Hercog,Xiaodi You,6-3 6-3,1.39,1.7%,16.7%,41.7%,84.0%,42.9%,0.0% (0/3),57.7%,55.6%,1.6%,51.5%,60.0%,54.5% (6/11),1:26
 20-Jan-2020,Australian Open,5,Hard,R64,48,1,0,,1,Ashleigh Barty,Polona Hercog,6-1 6-4,0.68,1.9%,7.7%,51.9%,63.0%,44.0%,57.1% (4/7),42.2%,31.6%,8.8%,20.6%,47.8%,0.0% (0/6),1:06
-20-Jan-2020,Australian Open,5,Hard,R128,48,44,1,,,Polona Hercog,Rebecca Peterson,6-3 6-3 (ch),1.30,4.1%,2.7%,54.1%,67.5%,52.9%,83.3% (5/6),56.9%,51.0%,0.0%,51.5%,50.0%,80.0% (4/5),1:25
+20-Jan-2020,Australian Open,5,Hard,R128,48,44,1,,,Polona Hercog,Rebecca Peterson,6-3 6-3,1.30,4.1%,2.7%,54.1%,67.5%,52.9%,83.3% (5/6),56.9%,51.0%,0.0%,51.5%,50.0%,80.0% (4/5),1:25
 14-Oct-2019,Moscow,3,Hard,R16,49,10,0,,3,Belinda Bencic,Polona Hercog,1-6 6-3 6-4,1.00,8.1%,7.0%,54.7%,76.6%,43.6%,76.9% (10/13),50.3%,38.3%,6.2%,34.0%,44.1%,60.0% (3/5),1:57
-14-Oct-2019,Moscow,3,Hard,R32,49,60,1,,,Polona Hercog,Katerina Siniakova,6-4 6-2 (ch),1.20,6.1%,7.6%,53.0%,68.6%,58.1%,85.7% (6/7),55.3%,43.8%,4.2%,45.8%,41.7%,80.0% (4/5),1:16
+14-Oct-2019,Moscow,3,Hard,R32,49,60,1,,,Polona Hercog,Katerina Siniakova,6-4 6-2,1.20,6.1%,7.6%,53.0%,68.6%,58.1%,85.7% (6/7),55.3%,43.8%,4.2%,45.8%,41.7%,80.0% (4/5),1:16
 7-Oct-2019,Linz,3,Hard,R32,48,21,0,,4,Donna Vekic,Polona Hercog,6-1 6-1,0.27,7.0%,9.3%,51.2%,54.5%,33.3%,16.7% (1/6),31.6%,15.2%,0.0%,5.0%,30.8%,- (0/0),0:50
-30-Sep-2019,Beijing,3,Hard,R16,51,8,0,,8,Kiki Bertens,Polona Hercog,7-6(6) 2-6 6-3 (ch),1.00,0.0%,7.1%,48.8%,75.6%,46.5%,28.6% (2/7),49.4%,39.4%,2.1%,28.3%,58.8%,50.0% (5/10),2:17
-30-Sep-2019,Beijing,3,Hard,R32,51,13,1,,10,Polona Hercog,Angelique Kerber,6-4 6-2 (ch),1.56,8.9%,8.9%,39.3%,81.8%,64.7%,100.0% (2/2),57.0%,44.6%,1.5%,40.5%,52.2%,42.9% (3/7),1:16
+30-Sep-2019,Beijing,3,Hard,R16,51,8,0,,8,Kiki Bertens,Polona Hercog,7-6(6) 2-6 6-3,1.00,0.0%,7.1%,48.8%,75.6%,46.5%,28.6% (2/7),49.4%,39.4%,2.1%,28.3%,58.8%,50.0% (5/10),2:17
+30-Sep-2019,Beijing,3,Hard,R32,51,13,1,,10,Polona Hercog,Angelique Kerber,6-4 6-2,1.56,8.9%,8.9%,39.3%,81.8%,64.7%,100.0% (2/2),57.0%,44.6%,1.5%,40.5%,52.2%,42.9% (3/7),1:16
 30-Sep-2019,Beijing,3,Hard,R64,51,27,1,,,Polona Hercog,Julia Goerges,6-7(4) 7-6(5) 6-4,1.07,4.0%,9.7%,48.4%,81.7%,46.9%,78.6% (11/14),51.4%,38.7%,2.5%,22.8%,53.2%,40.0% (4/10),2:53
 23-Sep-2019,Wuhan,3,Hard,R32,52,7,0,,5,Petra Kvitova,Polona Hercog,7-6(6) 6-3,0.87,5.7%,7.1%,64.3%,73.3%,36.0%,66.7% (2/3),46.9%,34.7%,1.3%,25.0%,45.7%,0.0% (0/2),1:42
 23-Sep-2019,Wuhan,3,Hard,R64,52,76,1,,,Polona Hercog,Jessica Pegula,6-0 6-1,2.29,2.6%,7.7%,56.4%,81.8%,64.7%,100.0% (3/3),67.1%,58.8%,0.0%,57.1%,61.5%,62.5% (5/8),0:51
 16-Sep-2019,Seoul,3,Hard,R32,51,143,0,6,Q,Ana Bogdan,Polona Hercog,6-3 3-6 6-1,0.68,9.3%,5.3%,50.7%,71.1%,54.1%,62.5% (5/8),45.1%,25.4%,7.5%,17.1%,34.4%,33.3% (1/3),1:45
-9-Sep-2019,Zhengzhou,3,Hard,R16,53,2,0,,1,Karolina Pliskova,Polona Hercog,6-3 7-5 (ch),0.89,2.8%,4.2%,50.7%,50.0%,54.3%,28.6% (2/7),47.4%,42.4%,1.5%,32.4%,55.2%,50.0% (3/6),1:46
+9-Sep-2019,Zhengzhou,3,Hard,R16,53,2,0,,1,Karolina Pliskova,Polona Hercog,6-3 7-5,0.89,2.8%,4.2%,50.7%,50.0%,54.3%,28.6% (2/7),47.4%,42.4%,1.5%,32.4%,55.2%,50.0% (3/6),1:46
 9-Sep-2019,Zhengzhou,3,Hard,R32,53,650,1,,Q,Polona Hercog,Meiling Wang,6-3 6-4,1.25,9.5%,9.5%,50.8%,87.5%,38.7%,83.3% (5/6),55.0%,45.6%,1.8%,48.7%,38.9%,66.7% (4/6),1:22
 26-Aug-2019,US Open,5,Hard,R128,57,35,0,,,Danielle Collins,Polona Hercog,6-3 4-6 6-4,0.98,5.7%,4.5%,51.1%,66.7%,60.5%,25.0% (1/4),48.2%,35.5%,3.7%,20.9%,60.0%,20.0% (2/10),2:27
 19-Aug-2019,New York,3,Hard,R32,56,45,0,,9,Aliaksandra Sasnovich,Polona Hercog,6-3 6-2,0.68,4.9%,8.2%,60.7%,48.6%,33.3%,28.6% (2/7),40.9%,38.9%,1.9%,37.1%,42.1%,50.0% (2/4),1:21
 5-Aug-2019,Toronto ,3,Hard,R64,54,25,0,Q,,Julia Goerges,Polona Hercog,6-3 1-6 7-6(5),1.12,5.8%,8.1%,51.2%,88.6%,52.4%,83.3% (5/6),51.4%,32.6%,4.5%,25.0%,43.2%,40.0% (2/5),2:09
 5-Aug-2019,Toronto ,3,Hard,Q2,54,87,1,6,16,Polona Hercog,Andrea Petkovic,6-4 6-3,1.17,12.5%,6.9%,54.2%,76.9%,48.5%,100.0% (9/9),53.1%,42.3%,2.8%,38.8%,50.0%,37.5% (3/8),1:36
 5-Aug-2019,Toronto ,3,Hard,Q1,54,150,1,6,,Polona Hercog,Allie Kiick,6-3 6-0,1.88,8.7%,4.3%,67.4%,77.4%,66.7%,100.0% (1/1),60.8%,49.0%,3.9%,40.6%,63.2%,40.0% (4/10),1:01
-1-Jul-2019,Wimbledon,5,Grass,R32,60,313,0,,,Cori Gauff,Polona Hercog,3-6 7-6(7) 7-5 (ch),1.09,3.8%,3.8%,47.1%,71.4%,60.0%,40.0% (2/5),51.4%,37.7%,2.8%,33.3%,48.4%,50.0% (4/8),2:47
+1-Jul-2019,Wimbledon,5,Grass,R32,60,313,0,,,Coco Gauff,Polona Hercog,3-6 7-6(7) 7-5,1.09,3.8%,3.8%,47.1%,71.4%,60.0%,40.0% (2/5),51.4%,37.7%,2.8%,33.3%,48.4%,50.0% (4/8),2:47
 1-Jul-2019,Wimbledon,5,Grass,R64,60,16,1,,17,Polona Hercog,Madison Keys,6-2 6-4,1.45,0.0%,5.5%,56.4%,67.7%,66.7%,83.3% (5/6),57.0%,47.5%,3.4%,39.5%,61.9%,36.4% (4/11),1:12
-1-Jul-2019,Wimbledon,5,Grass,R128,60,47,1,,,Polona Hercog,Viktoria Kuzmova,4-6 7-6(5) 7-5,1.05,5.7%,4.7%,50.0%,73.6%,52.8%,20.0% (1/5),50.0%,38.7%,8.9%,29.6%,50.9%,33.3% (4/12),2:30
-24-Jun-2019,Eastbourne,3,Grass,R16,60,7,0,Q,6,Simona Halep,Polona Hercog,6-1 4-6 6-3 (ch),0.73,1.1%,4.3%,62.0%,59.6%,40.0%,60.0% (9/15),44.9%,34.8%,3.0%,34.0%,37.5%,100.0% (3/3),1:48
+1-Jul-2019,Wimbledon,5,Grass,R128,60,47,1,,,Polona Hercog,Viktoria Hruncakova,4-6 7-6(5) 7-5,1.05,5.7%,4.7%,50.0%,73.6%,52.8%,20.0% (1/5),50.0%,38.7%,8.9%,29.6%,50.9%,33.3% (4/12),2:30
+24-Jun-2019,Eastbourne,3,Grass,R16,60,7,0,Q,6,Simona Halep,Polona Hercog,6-1 4-6 6-3,0.73,1.1%,4.3%,62.0%,59.6%,40.0%,60.0% (9/15),44.9%,34.8%,3.0%,34.0%,37.5%,100.0% (3/3),1:48
 24-Jun-2019,Eastbourne,3,Grass,R32,60,82,1,Q,LL,Polona Hercog,Pauline Parmentier,2-6 6-2 7-6(4),,,,,,,,,,,,,,
 24-Jun-2019,Eastbourne,3,Grass,R64,60,50,1,Q,,Polona Hercog,Barbora Strycova,7-6(3) 0-1 RET,0.98,7.4%,3.7%,59.3%,53.1%,59.1%,40.0% (2/5),50.0%,43.8%,0.0%,40.0%,50.0%,25.0% (2/8),1:25
 24-Jun-2019,Eastbourne,3,Grass,Q2,60,82,1,3,9,Polona Hercog,Pauline Parmentier,4-6 6-1 6-4,1.35,10.4%,10.4%,53.2%,80.5%,50.0%,40.0% (2/5),54.5%,45.5%,5.0%,31.3%,70.3%,50.0% (5/10),1:57
@@ -107,12 +178,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-May-2019,Madrid,3,Clay,Q1,70,77,1,10,,Polona Hercog,Viktorija Golubic,6-4 6-1,1.58,0.0%,0.0%,77.8%,71.4%,60.0%,50.0% (1/2),57.7%,49.2%,0.0%,45.2%,58.8%,50.0% (5/10),1:11
 29-Apr-2019,Rabat,3,Clay,R16,71,62,0,,,Rebecca Peterson,Polona Hercog,7-5 3-6 6-1,0.91,1.0%,5.7%,68.6%,54.2%,57.6%,68.8% (11/16),48.7%,40.9%,0.0%,35.1%,51.6%,42.9% (3/7),2:25
 29-Apr-2019,Rabat,3,Clay,R32,71,178,1,,LL,Polona Hercog,Irina Bara,7-6(1) 6-4,1.25,7.5%,7.5%,43.3%,79.3%,42.1%,54.5% (6/11),55.3%,52.3%,0.0%,45.7%,68.4%,54.5% (6/11),1:45
-8-Apr-2019,Lugano,3,Clay,F,89,115,1,,,Polona Hercog,Iga Swiatek,6-3 3-6 6-3 (ch),1.23,6.0%,4.8%,54.2%,60.0%,52.6%,62.5% (10/16),54.9%,53.3%,1.1%,51.1%,55.6%,66.7% (8/12),2:16
-8-Apr-2019,Lugano,3,Clay,SF,89,108,1,,,Polona Hercog,Fiona Ferro,7-5 6-4 (ch),1.32,4.7%,4.7%,59.4%,71.1%,46.2%,33.3% (2/6),56.5%,51.7%,0.0%,59.5%,39.1%,100.0% (6/6),1:31
+8-Apr-2019,Lugano,3,Clay,F,89,115,1,,,Polona Hercog,Iga Swiatek,6-3 3-6 6-3,1.23,6.0%,4.8%,54.2%,60.0%,52.6%,62.5% (10/16),54.9%,53.3%,1.1%,51.1%,55.6%,66.7% (8/12),2:16
+8-Apr-2019,Lugano,3,Clay,SF,89,108,1,,,Polona Hercog,Fiona Ferro,7-5 6-4,1.32,4.7%,4.7%,59.4%,71.1%,46.2%,33.3% (2/6),56.5%,51.7%,0.0%,59.5%,39.1%,100.0% (6/6),1:31
 8-Apr-2019,Lugano,3,Clay,QF,89,83,1,,,Polona Hercog,Veronika Kudermetova,6-4 6-1,1.54,0.0%,8.3%,47.9%,78.3%,52.0%,50.0% (2/4),58.8%,54.5%,1.5%,47.1%,62.5%,38.5% (5/13),1:26
-8-Apr-2019,Lugano,3,Clay,R16,89,103,1,,,Polona Hercog,Sorana Cirstea,3-6 7-6(0) 6-4 (ch),1.07,4.8%,4.8%,70.5%,56.8%,38.7%,52.9% (9/17),51.8%,52.2%,1.1%,49.1%,56.8%,57.1% (8/14),2:22
-8-Apr-2019,Lugano,3,Clay,R32,89,27,1,,2,Polona Hercog,Carla Suarez Navarro,3-6 6-3 6-4 (ch),1.18,3.3%,3.3%,63.7%,72.4%,45.5%,62.5% (5/8),53.3%,44.1%,1.1%,37.3%,55.9%,40.0% (4/10),2:10
-18-Mar-2019,Miami,3,Hard,R32,93,3,0,,2,Simona Halep,Polona Hercog,5-7 7-6(1) 6-2 (ch),0.87,5.2%,2.6%,50.9%,69.5%,47.4%,69.2% (9/13),47.7%,35.8%,0.9%,33.3%,42.9%,42.9% (3/7),2:49
+8-Apr-2019,Lugano,3,Clay,R16,89,103,1,,,Polona Hercog,Sorana Cirstea,3-6 7-6(0) 6-4,1.07,4.8%,4.8%,70.5%,56.8%,38.7%,52.9% (9/17),51.8%,52.2%,1.1%,49.1%,56.8%,57.1% (8/14),2:22
+8-Apr-2019,Lugano,3,Clay,R32,89,27,1,,2,Polona Hercog,Carla Suarez Navarro,3-6 6-3 6-4,1.18,3.3%,3.3%,63.7%,72.4%,45.5%,62.5% (5/8),53.3%,44.1%,1.1%,37.3%,55.9%,40.0% (4/10),2:10
+18-Mar-2019,Miami,3,Hard,R32,93,3,0,,2,Simona Halep,Polona Hercog,5-7 7-6(1) 6-2,0.87,5.2%,2.6%,50.9%,69.5%,47.4%,69.2% (9/13),47.7%,35.8%,0.9%,33.3%,42.9%,42.9% (3/7),2:49
 18-Mar-2019,Miami,3,Hard,R64,93,112,1,,Q,Polona Hercog,Misaki Doi,7-6(4) 6-4,1.26,2.8%,1.4%,48.6%,60.0%,67.6%,62.5% (5/8),54.3%,45.6%,0.0%,36.0%,62.1%,40.0% (4/10),1:52
 18-Mar-2019,Miami,3,Hard,Q2,93,108,0,12,,Laura Siegemund,Polona Hercog,3-6 6-2 6-2,0.83,2.0%,3.0%,46.0%,60.9%,44.4%,57.1% (8/14),46.5%,40.0%,2.4%,37.5%,44.8%,33.3% (4/12),2:37
 18-Mar-2019,Miami,3,Hard,Q1,93,124,1,12,,Polona Hercog,Fanny Stollar,6-2 6-2,2.44,20.9%,0.0%,58.1%,92.0%,61.1%,100.0% (2/2),64.4%,51.1%,4.3%,27.3%,72.0%,57.1% (4/7),0:56
@@ -149,7 +220,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jul-2018,Bucharest,3,Clay,R32,90,182,1,8,WC,Polona Hercog,Elena Gabriela Ruse,2-6 6-2 6-3,1.09,5.0%,10.0%,47.0%,59.6%,41.5%,64.7% (11/17),51.8%,54.5%,1.5%,47.5%,65.4%,70.0% (7/10),2:02
 2-Jul-2018,Wimbledon,5,Grass,R128,64,47,0,,,Alison Van Uytvanck,Polona Hercog,6-2 6-2,0.61,5.3%,3.5%,66.7%,50.0%,52.6%,69.2% (9/13),41.1%,30.0%,4.0%,22.6%,42.1%,0.0% (0/2),1:06
 18-Jun-2018,Mallorca,3,Grass,R16,64,61,0,,Q,Alison Riske Amritraj,Polona Hercog,3-6 7-5 6-3,0.93,7.3%,5.6%,49.2%,65.6%,38.1%,72.7% (16/22),48.6%,44.9%,2.0%,44.8%,45.0%,45.5% (5/11),2:44
-18-Jun-2018,Mallorca,3,Grass,R32,64,66,1,,LL,Polona Hercog,Viktoria Kuzmova,7-6(3) 6-2,1.32,11.3%,16.1%,53.2%,90.9%,41.4%,60.0% (3/5),54.7%,42.4%,6.1%,39.5%,46.4%,50.0% (4/8),1:16
+18-Jun-2018,Mallorca,3,Grass,R32,64,66,1,,LL,Polona Hercog,Viktoria Hruncakova,7-6(3) 6-2,1.32,11.3%,16.1%,53.2%,90.9%,41.4%,60.0% (3/5),54.7%,42.4%,6.1%,39.5%,46.4%,50.0% (4/8),1:16
 11-Jun-2018,s-Hertogenbosch,3,Grass,R32,64,15,0,,2,Elise Mertens,Polona Hercog,6-2 6-4,0.72,2.1%,14.9%,48.9%,73.9%,33.3%,20.0% (1/5),42.7%,33.9%,3.6%,33.3%,35.0%,20.0% (1/5),1:11
 28-May-2018,Roland Garros,5,Clay,R128,58,28,0,,30,Anastasia Pavlyuchenkova,Polona Hercog,6-4 7-6(1),0.88,4.5%,6.8%,48.9%,69.8%,37.8%,71.4% (10/14),47.0%,40.9%,0.0%,31.8%,63.0%,20.0% (3/15),2:06
 14-May-2018,Rome,3,Clay,R64,62,39,0,Q,,Svetlana Kuznetsova,Polona Hercog,6-2 6-4,0.74,0.0%,3.4%,57.6%,50.0%,48.0%,44.4% (4/9),43.3%,37.7%,3.3%,36.6%,40.0%,22.2% (2/9),1:29
@@ -158,12 +229,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-May-2018,Madrid,3,Clay,Q1,62,97,0,4,,Bernarda Pera,Polona Hercog,6-2 6-0,0.47,0.0%,8.9%,51.1%,60.9%,22.7%,16.7% (1/6),34.8%,27.3%,4.5%,25.8%,30.8%,0.0% (0/1),0:55
 30-Apr-2018,Rabat,3,Clay,R16,62,212,0,,Q,Paula Badosa,Polona Hercog,6-7(5) 6-1 6-2,0.81,1.1%,3.3%,57.1%,50.0%,51.3%,41.7% (5/12),45.2%,40.2%,2.1%,30.8%,51.1%,30.0% (3/10),2:16
 30-Apr-2018,Rabat,3,Clay,R32,62,33,1,,2,Polona Hercog,Dominika Cibulkova,2-6 7-5 6-4,1.05,5.4%,4.3%,54.8%,58.8%,61.9%,55.6% (5/9),49.8%,41.9%,0.0%,41.0%,43.9%,26.7% (4/15),2:44
-23-Apr-2018,Istanbul,3,Clay,F,75,122,0,,,Pauline Parmentier,Polona Hercog,6-4 3-6 6-3 (ch),0.97,1.3%,1.3%,61.8%,48.9%,55.2%,41.7% (5/12),49.1%,47.0%,0.0%,39.5%,55.0%,54.5% (6/11),2:13
+23-Apr-2018,Istanbul,3,Clay,F,75,122,0,,,Pauline Parmentier,Polona Hercog,6-4 3-6 6-3,0.97,1.3%,1.3%,61.8%,48.9%,55.2%,41.7% (5/12),49.1%,47.0%,0.0%,39.5%,55.0%,54.5% (6/11),2:13
 23-Apr-2018,Istanbul,3,Clay,SF,75,48,1,,,Polona Hercog,Maria Sakkari,6-4 6-2,1.27,7.9%,3.2%,65.1%,75.6%,50.0%,100.0% (4/4),54.9%,42.4%,1.7%,48.3%,36.7%,37.5% (3/8),1:29
 23-Apr-2018,Istanbul,3,Clay,QF,75,28,1,,2,Polona Hercog,Svetlana Kuznetsova,6-1 1-6 7-5,1.10,3.4%,4.5%,55.7%,65.3%,41.0%,54.5% (6/11),52.2%,50.0%,0.0%,46.2%,59.3%,42.9% (6/14),2:19
 23-Apr-2018,Istanbul,3,Clay,R16,75,78,1,,,Polona Hercog,Kateryna Bondarenko,6-2 1-1 RET,2.38,4.0%,4.0%,60.0%,80.0%,80.0%,- (0/0),60.0%,47.5%,0.0%,54.5%,38.9%,40.0% (2/5),0:58
-23-Apr-2018,Istanbul,3,Clay,R32,75,47,1,,8,Polona Hercog,Aryna Sabalenka,6-2 7-5 (ch),1.43,4.9%,8.2%,59.0%,80.6%,52.0%,87.5% (7/8),56.3%,44.6%,4.6%,32.4%,60.7%,30.8% (4/13),1:24
-9-Apr-2018,Lugano,3,Clay,R16,80,61,0,,,Aryna Sabalenka,Polona Hercog,6-3 6-1 (ch),0.68,6.4%,6.4%,68.1%,56.3%,26.7%,37.5% (3/8),41.2%,36.4%,0.0%,28.1%,47.8%,16.7% (1/6),1:03
+23-Apr-2018,Istanbul,3,Clay,R32,75,47,1,,8,Polona Hercog,Aryna Sabalenka,6-2 7-5,1.43,4.9%,8.2%,59.0%,80.6%,52.0%,87.5% (7/8),56.3%,44.6%,4.6%,32.4%,60.7%,30.8% (4/13),1:24
+9-Apr-2018,Lugano,3,Clay,R16,80,61,0,,,Aryna Sabalenka,Polona Hercog,6-3 6-1,0.68,6.4%,6.4%,68.1%,56.3%,26.7%,37.5% (3/8),41.2%,36.4%,0.0%,28.1%,47.8%,16.7% (1/6),1:03
 9-Apr-2018,Lugano,3,Clay,R32,80,60,1,,,Polona Hercog,Su Wei Hsieh,7-5 6-0,1.36,4.0%,2.7%,56.0%,71.4%,57.6%,100.0% (9/9),57.9%,47.1%,0.0%,41.7%,60.0%,57.1% (4/7),1:27
 2-Apr-2018,Charleston,3,Clay,R32,83,37,0,,14,Alize Cornet,Polona Hercog,6-2 6-3,0.65,1.9%,3.7%,51.9%,57.1%,46.2%,69.2% (9/13),41.7%,31.5%,0.0%,23.5%,45.0%,50.0% (1/2),1:21
 2-Apr-2018,Charleston,3,Clay,R64,83,166,1,,Q,Polona Hercog,Maryna Zanevska,6-1 6-4,1.45,1.8%,1.8%,67.3%,67.6%,50.0%,75.0% (6/8),58.2%,55.2%,0.0%,51.2%,62.5%,45.5% (5/11),1:31
@@ -203,7 +274,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Sep-2017,Saint Malo $60K,3,Clay,QF,150,342,1,6,Q,Polona Hercog,Kimberley Zimmermann,6-1 6-1,,,,,,,,,,,,,,
 18-Sep-2017,Saint Malo $60K,3,Clay,R16,150,385,1,6,WC,Polona Hercog,Audrey Albie,6-2 6-1,,,,,,,,,,,,,,
 18-Sep-2017,Saint Malo $60K,3,Clay,R32,150,254,1,6,,Polona Hercog,Bibiane Schoofs,6-1 7-6(4),,,,,,,,,,,,,,
-11-Sep-2017,Biarritz $80K,3,Clay,QF,183,181,0,,8,Jil Teichmann,Polona Hercog,6-4 5-7 6-4 (ch),,,,,,,,,,,,,,
+11-Sep-2017,Biarritz $80K,3,Clay,QF,183,181,0,,8,Jil Teichmann,Polona Hercog,6-4 5-7 6-4,,,,,,,,,,,,,,
 11-Sep-2017,Biarritz $80K,3,Clay,R16,183,233,1,,,Polona Hercog,Daniela Seguel,6-4 6-2,,,,,,,,,,,,,,
 11-Sep-2017,Biarritz $80K,3,Clay,R32,183,139,1,,3,Polona Hercog,Tamara Korpatsch,6-3 6-3,,,,,,,,,,,,,,
 4-Sep-2017,Balatonboglar $25K,3,Clay,F,192,731,1,5,Q,Polona Hercog,Greta Arn,6-1 6-2,,,,,,,,,,,,,,
@@ -270,12 +341,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jan-2016,Sydney,3,Hard,Q3,73,94,0,7,,Monica Puig,Polona Hercog,2-6 6-1 6-1,0.69,1.5%,9.0%,50.7%,58.8%,45.5%,58.3% (7/12),43.2%,32.8%,1.7%,25.7%,43.5%,66.7% (2/3),1:30
 11-Jan-2016,Sydney,3,Hard,Q2,73,92,1,7,,Polona Hercog,Su Wei Hsieh,6-1 7-5,1.80,5.8%,7.7%,53.8%,89.3%,58.3%,100.0% (1/1),57.9%,44.9%,1.4%,38.5%,53.3%,50.0% (4/8),1:11
 11-Jan-2016,Sydney,3,Hard,Q1,73,274,1,7,WC,Polona Hercog,Olivia Rogowska,6-3 6-4,1.21,8.1%,3.2%,61.3%,73.7%,41.7%,50.0% (2/4),55.0%,46.9%,4.1%,42.4%,56.3%,50.0% (4/8),1:12
-4-Jan-2016,Auckland,3,Hard,R32,73,30,0,,5,Sloane Stephens,Polona Hercog,6-3 6-3 (ch),0.65,0.0%,4.1%,59.2%,51.7%,20.0%,33.3% (3/9),39.4%,40.0%,0.0%,37.1%,45.0%,50.0% (3/6),1:11
+4-Jan-2016,Auckland,3,Hard,R32,73,30,0,,5,Sloane Stephens,Polona Hercog,6-3 6-3,0.65,0.0%,4.1%,59.2%,51.7%,20.0%,33.3% (3/9),39.4%,40.0%,0.0%,37.1%,45.0%,50.0% (3/6),1:11
 28-Sep-2015,Tashkent,3,Hard,R32,63,102,0,3,,Aliaksandra Sasnovich,Polona Hercog,4-6 6-3 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,R16,60,29,0,,1,Irina Camelia Begu,Polona Hercog,6-2 6-7(6) 6-2,,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,R32,60,72,1,,,Polona Hercog,Lauren Davis,6-1 6-3,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,R32,59,113,0,8,,Su Wei Hsieh,Polona Hercog,6-1 5-7 7-5,,,,,,,,,,,,,,
-31-Aug-2015,US Open,5,Hard,R64,64,25,0,,25,Eugenie Bouchard,Polona Hercog,6-3 6-7(2) 6-3 (ch),,,,,,,,,,,,,,
+31-Aug-2015,US Open,5,Hard,R64,64,25,0,,25,Eugenie Bouchard,Polona Hercog,6-3 6-7(2) 6-3,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,64,35,1,,,Polona Hercog,Zarina Diyas,6-2 7-5,1.24,10.3%,4.4%,58.8%,67.5%,57.1%,87.5% (7/8),54.3%,45.7%,0.0%,41.7%,70.0%,36.4% (4/11),
 24-Aug-2015,New Haven,3,Hard,R32,64,8,0,Q,5,Karolina Pliskova,Polona Hercog,2-6 7-6(5) 6-2,1.05,2.4%,7.2%,60.2%,66.0%,63.6%,50.0% (4/8),50.0%,36.8%,5.3%,33.3%,40.9%,44.4% (4/9),
 24-Aug-2015,New Haven,3,Hard,Q3,64,63,1,15,14,Polona Hercog,Annika Beck,6-3 6-1,,,,,,,,,,,,,,
@@ -290,7 +361,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Aug-2015,Toronto,3,Hard,Q1,71,,1,14,WC,Polona Hercog,Natasha Irani,6-2 6-1,,,,,,,,,,,,,,
 3-Aug-2015,Washington,3,Hard,R16,72,29,0,,6,Irina Camelia Begu,Polona Hercog,3-6 7-5 6-4,1.07,3.0%,6.0%,61.0%,63.9%,56.4%,61.5% (8/13),50.7%,41.9%,0.9%,41.1%,43.2%,20.0% (4/20),
 3-Aug-2015,Washington,3,Hard,R32,72,172,1,,Q,Polona Hercog,Julia Glushko,6-2 7-5,1.38,5.1%,3.4%,54.2%,68.8%,59.3%,33.3% (1/3),56.6%,49.2%,1.6%,41.9%,65.0%,71.4% (5/7),
-20-Jul-2015,Bad Gastein,3,Clay,QF,78,43,0,,3,Karin Knapp,Polona Hercog,7-6(5) 7-5 (ch),0.89,3.3%,3.3%,52.2%,57.4%,48.8%,58.3% (7/12),47.7%,41.7%,0.0%,33.3%,72.2%,44.4% (4/9),
+20-Jul-2015,Bad Gastein,3,Clay,QF,78,43,0,,3,Karin Knapp,Polona Hercog,7-6(5) 7-5,0.89,3.3%,3.3%,52.2%,57.4%,48.8%,58.3% (7/12),47.7%,41.7%,0.0%,33.3%,72.2%,44.4% (4/9),
 20-Jul-2015,Bad Gastein,3,Clay,R16,78,55,1,,5,Polona Hercog,Lucie Hradecka,6-3 6-2,1.31,0.0%,2.1%,66.7%,65.6%,75.0%,83.3% (5/6),55.4%,40.9%,2.3%,37.5%,45.0%,83.3% (5/6),
 20-Jul-2015,Bad Gastein,3,Clay,R32,78,82,1,,,Polona Hercog,Timea Babos,6-4 6-2,1.56,9.6%,7.7%,51.9%,77.8%,64.0%,75.0% (3/4),58.4%,44.9%,4.1%,36.1%,69.2%,50.0% (4/8),
 13-Jul-2015,Bucharest,3,Clay,SF,87,60,0,,7,Anna Karolina Schmiedlova,Polona Hercog,6-4 6-3,0.64,3.6%,3.6%,54.5%,53.3%,48.0%,42.9% (3/7),41.3%,31.5%,0.0%,31.4%,31.6%,40.0% (2/5),
@@ -372,7 +443,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Oct-2013,Osaka,3,Hard,QF,79,87,0,,WC,Kurumi Nara,Polona Hercog,7-6(4) 2-6 6-1,0.87,9.3%,5.8%,51.2%,59.1%,50.0%,44.4% (4/9),47.3%,39.5%,1.2%,35.7%,48.0%,50.0% (4/8),
 7-Oct-2013,Osaka,3,Hard,R16,79,14,1,,2,Polona Hercog,Sabine Lisicki,W/O,,,,,,,,,,,,,,
 7-Oct-2013,Osaka,3,Hard,R32,79,128,1,,,Polona Hercog,Petra Cetkovska,6-4 5-7 6-1,1.22,4.3%,3.2%,61.7%,69.0%,50.0%,70.0% (7/10),54.3%,46.8%,3.2%,45.8%,48.6%,42.9% (6/14),
-30-Sep-2013,Beijing,3,Hard,R16,76,4,0,Q,3,Agnieszka Radwanska,Polona Hercog,6-0 6-2 (ch),0.69,2.0%,6.0%,58.0%,44.8%,33.3%,25.0% (2/8),40.9%,41.5%,0.0%,36.6%,50.0%,20.0% (1/5),
+30-Sep-2013,Beijing,3,Hard,R16,76,4,0,Q,3,Agnieszka Radwanska,Polona Hercog,6-0 6-2,0.69,2.0%,6.0%,58.0%,44.8%,33.3%,25.0% (2/8),40.9%,41.5%,0.0%,36.6%,50.0%,20.0% (1/5),
 30-Sep-2013,Beijing,3,Hard,R32,76,14,1,Q,14,Polona Hercog,Ana Ivanovic,6-4 6-4,1.89,7.7%,0.0%,76.9%,77.5%,83.3%,- (0/0),57.3%,40.0%,3.1%,39.0%,41.7%,50.0% (2/4),
 30-Sep-2013,Beijing,3,Hard,R64,76,45,1,Q,,Polona Hercog,Monica Puig,6-1 6-4,3.35,7.1%,0.0%,73.8%,87.1%,81.8%,- (0/0),65.6%,47.9%,0.0%,46.9%,50.0%,75.0% (3/4),
 30-Sep-2013,Beijing,3,Hard,Q2,76,61,1,13,4,Polona Hercog,Lourdes Dominguez Lino,6-4 6-3,,,,,,,,,,,,,,

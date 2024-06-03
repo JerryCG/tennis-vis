@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+3-Jul-2023,Wimbledon,5,Grass,Q1,,128,0,,23,Sofia Kenin,Irina Falconi,6-3 6-2,,,,,,,,,,,,,,
 2-Mar-2020,Indian Wells 125K,3,Hard,R64,312,135,0,,,Barbara Haas,Irina Falconi,6-4 1-6 6-3,0.97,0.0%,6.5%,55.4%,54.9%,36.6%,46.2% (6/13),49.2%,51.6%,1.1%,45.3%,60.5%,58.3% (7/12),2:19
 10-Feb-2020,W100 Nicholasville KY,3,Hard,R32,313,79,0,WC,3,Madison Brengle,Irina Falconi,4-6 6-0 2-1 RET,,,,,,,,,,,,,,
 3-Feb-2020,W100 Midland MI,3,Hard,SF,385,138,0,WC,6,Shelby Rogers,Irina Falconi,7-5 7-6(4),,,,,,,,,,,,,,
@@ -123,7 +124,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Apr-2016,Bogota,3,Clay,R16,92,233,1,5,,Irina Falconi,Sherazad Reix,6-3 7-6(2),1.15,2.3%,4.5%,69.3%,67.2%,44.4%,40.0% (2/5),53.8%,45.8%,2.8%,42.6%,52.0%,33.3% (4/12),1:49
 11-Apr-2016,Bogota,3,Clay,R32,92,,1,5,WC,Irina Falconi,Emiliana Arango,6-0 6-1,2.39,7.5%,2.5%,77.5%,67.7%,88.9%,100.0% (1/1),69.3%,65.7%,2.9%,47.6%,92.9%,71.4% (5/7),0:45
 4-Apr-2016,Charleston,3,Clay,R64,91,51,0,,15,Sabine Lisicki,Irina Falconi,6-4 6-3,0.85,2.0%,8.0%,58.0%,58.6%,42.9%,0.0% (0/4),45.2%,40.8%,2.6%,30.3%,48.8%,50.0% (2/4),1:19
-21-Mar-2016,Miami,3,Hard,R64,83,7,0,,8,Petra Kvitova,Irina Falconi,6-1 6-4 (ch),0.64,0.0%,3.3%,72.1%,56.8%,35.3%,66.7% (8/12),42.0%,31.4%,7.8%,11.1%,54.2%,100.0% (1/1),1:14
+21-Mar-2016,Miami,3,Hard,R64,83,7,0,,8,Petra Kvitova,Irina Falconi,6-1 6-4,0.64,0.0%,3.3%,72.1%,56.8%,35.3%,66.7% (8/12),42.0%,31.4%,7.8%,11.1%,54.2%,100.0% (1/1),1:14
 21-Mar-2016,Miami,3,Hard,R128,83,105,1,,Q,Irina Falconi,Francesca Schiavone,7-5 6-1,1.29,0.0%,6.1%,56.1%,70.3%,41.4%,75.0% (9/12),56.3%,54.7%,1.9%,51.5%,60.0%,54.5% (6/11),1:25
 14-Mar-2016,San Antonio,3,Hard,R32,80,122,0,,,Xinyun Han,Irina Falconi,6-4 1-6 6-3,0.99,2.4%,5.9%,61.2%,57.7%,45.5%,64.3% (9/14),49.5%,46.7%,0.0%,37.3%,63.2%,27.8% (5/18),2:09
 7-Mar-2016,Indian Wells,3,Hard,R128,80,83,0,,,Carina Witthoeft,Irina Falconi,0-6 6-4 6-4,1.10,1.1%,2.2%,67.8%,60.7%,41.4%,53.8% (7/13),52.2%,50.0%,2.1%,45.5%,56.1%,41.2% (7/17),2:13
@@ -148,7 +149,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2015,Wuhan,3,Hard,Q1,72,101,1,11,,Irina Falconi,Monica Puig,6-2 6-7(4) 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,R32,70,69,0,,,Katerina Siniakova,Irina Falconi,6-3 2-6 6-0,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,R16,64,70,0,,,Saisai Zheng,Irina Falconi,6-4 6-2,,,,,,,,,,,,,,
-14-Sep-2015,Tokyo,3,Hard,R32,64,190,1,,Q,Irina Falconi,Naomi Osaka,5-7 7-5 6-3 (ch),,,,,,,,,,,,,,
+14-Sep-2015,Tokyo,3,Hard,R32,64,190,1,,Q,Irina Falconi,Naomi Osaka,5-7 7-5 6-3,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R64,73,23,0,,23,Venus Williams,Irina Falconi,6-3 6-7(2) 6-2,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,73,221,1,,WC,Irina Falconi,Samantha Crawford,6-4 6-2,1.45,1.9%,11.1%,66.7%,66.7%,55.6%,50.0% (2/4),58.3%,53.7%,3.7%,48.3%,60.0%,62.5% (5/8),
 24-Aug-2015,New Haven,3,Hard,Q2,72,63,0,,14,Annika Beck,Irina Falconi,6-3 6-2,,,,,,,,,,,,,,
@@ -184,7 +185,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Mar-2015,Miami,3,Hard,Q2,100,90,1,18,10,Irina Falconi,Denisa Allertova,7-6(6) 1-6 7-5,,,,,,,,,,,,,,
 23-Mar-2015,Miami,3,Hard,Q1,100,1037,1,18,WC,Irina Falconi,Fanny Stollar,6-0 7-6(0),,,,,,,,,,,,,,
 9-Mar-2015,Indian Wells,3,Hard,R64,103,22,0,WC,19,Garbine Muguruza,Irina Falconi,4-6 6-2 6-3,0.79,0.0%,7.9%,66.3%,54.2%,40.0%,61.1% (11/18),45.0%,40.0%,1.3%,39.6%,40.6%,55.6% (5/9),
-9-Mar-2015,Indian Wells,3,Hard,R128,103,53,1,WC,,Irina Falconi,Ajla Tomljanovic,7-6(6) 6-4 (ch),1.18,1.4%,9.9%,60.6%,60.5%,60.7%,50.0% (5/10),53.6%,46.4%,2.9%,48.7%,43.3%,50.0% (6/12),
+9-Mar-2015,Indian Wells,3,Hard,R128,103,53,1,WC,,Irina Falconi,Ajla Tomljanovic,7-6(6) 6-4,1.18,1.4%,9.9%,60.6%,60.5%,60.7%,50.0% (5/10),53.6%,46.4%,2.9%,48.7%,43.3%,50.0% (6/12),
 2-Mar-2015,Monterrey,3,Hard,Q3,102,187,0,7,,Bethanie Mattek Sands,Irina Falconi,6-4 2-6 6-2,,,,,,,,,,,,,,
 2-Mar-2015,Monterrey,3,Hard,Q2,102,154,1,7,,Irina Falconi,Paula Kania,7-5 7-5,,,,,,,,,,,,,,
 2-Mar-2015,Monterrey,3,Hard,Q1,102,313,1,7,WC,Irina Falconi,Victoria Rodriguez,6-1 6-3,,,,,,,,,,,,,,
@@ -212,7 +213,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Oct-2014,New Braunfels TX 50K,3,Hard,R16,132,691,1,6,LL,Irina Falconi,Nicole Vaidisova,6-4 6-4,,,,,,,,,,,,,,
 27-Oct-2014,New Braunfels TX 50K,3,Hard,R32,132,,1,6,WC,Irina Falconi,Robin Anderson,5-7 6-4 7-5,,,,,,,,,,,,,,
 20-Oct-2014,Macon GA 50K,3,Hard,SF,132,117,0,8,4,Grace Min,Irina Falconi,7-5 6-3,,,,,,,,,,,,,,
-20-Oct-2014,Macon GA 50K,3,Hard,QF,132,89,1,8,2,Irina Falconi,Madison Brengle,6-2 7-5 (ch),,,,,,,,,,,,,,
+20-Oct-2014,Macon GA 50K,3,Hard,QF,132,89,1,8,2,Irina Falconi,Madison Brengle,6-2 7-5,,,,,,,,,,,,,,
 20-Oct-2014,Macon GA 50K,3,Hard,R16,132,376,1,8,Q,Irina Falconi,Jasmine Paolini,6-3 6-0,,,,,,,,,,,,,,
 20-Oct-2014,Macon GA 50K,3,Hard,R32,132,229,1,8,,Irina Falconi,Gabriela Ce,6-3 6-0,,,,,,,,,,,,,,
 13-Oct-2014,Tampico 50K,3,Hard,SF,130,139,0,2,3,An Sophie Mestach,Irina Falconi,6-4 6-1,,,,,,,,,,,,,,

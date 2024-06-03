@@ -1,4 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+15-May-2023,W25 Bethany Beach DE,3,Clay,R32,669,,0,SR,Q,Mia Horvit,Alexa Glatch,1-6 6-2 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,Q1,651,572,0,,15,Dalayna Hewitt,Alexa Glatch,3-6 7-6(1) 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R32,642,,0,,Q,Jelena Cvijanovic,Alexa Glatch,2-1 RET,,,,,,,,,,,,,,
 24-Oct-2022,W80 Tyler TX,3,Hard,Q1,404,1344,0,3,,Abigail Rencheli,Alexa Glatch,2-6 7-5 10-7,,,,,,,,,,,,,,
 10-Oct-2022,W60 Las Vegas NV,3,Hard,R16,433,119,0,,4,Katie Volynets,Alexa Glatch,3-6 6-3 7-6(8),,,,,,,,,,,,,,
 10-Oct-2022,W60 Las Vegas NV,3,Hard,R32,433,1195,1,,Q,Alexa Glatch,Carmen Corley,6-3 6-4,,,,,,,,,,,,,,
@@ -119,7 +122,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2015,Las Vegas NV $50K,3,Hard,R16,136,215,1,5,,Alexa Glatch,Ana Vrljic,6-3 RET,,,,,,,,,,,,,,
 28-Sep-2015,Las Vegas NV $50K,3,Hard,R32,136,371,1,5,Q,Alexa Glatch,Robin Anderson,6-3 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Albuquerque NM $75K,3,Hard,R16,139,781,0,6,,Vania King,Alexa Glatch,0-6 6-4 7-5,,,,,,,,,,,,,,
-21-Sep-2015,Albuquerque NM $75K,3,Hard,R32,139,431,1,6,,Alexa Glatch,Lauren Albanese,6-3 6-3 (ch),,,,,,,,,,,,,,
+21-Sep-2015,Albuquerque NM $75K,3,Hard,R32,139,431,1,6,,Alexa Glatch,Lauren Albanese,6-3 6-3,,,,,,,,,,,,,,
 14-Sep-2015,Quebec City,3,Hard,R16,144,157,0,,LL,Naomi Broady,Alexa Glatch,6-4 6-2,,,,,,,,,,,,,,
 14-Sep-2015,Quebec City,3,Hard,R32,144,66,1,,6,Alexa Glatch,Tatjana Maria,1-6 6-4 6-1,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,Q1,145,120,0,,15,Alla Kudryavtseva,Alexa Glatch,7-5 2-6 6-2,,,,,,,,,,,,,,
@@ -143,7 +146,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Apr-2015,Marrakech,3,Clay,Q3,194,145,0,,,Laura Siegemund,Alexa Glatch,6-1 RET,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q2,194,195,1,,,Alexa Glatch,Ysaline Bonaventure,6-3 6-2,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q1,194,,1,,WC,Alexa Glatch,Zaineb El Houari,6-1 6-0,,,,,,,,,,,,,,
-20-Apr-2015,Stuttgart,3,Clay,R32,201,14,0,LL,,Angelique Kerber,Alexa Glatch,6-2 7-5 (ch),0.78,1.5%,4.4%,51.5%,62.9%,42.4%,50.0% (5/10),45.1%,36.9%,6.2%,23.7%,55.6%,50.0% (2/4),
+20-Apr-2015,Stuttgart,3,Clay,R32,201,14,0,LL,,Angelique Kerber,Alexa Glatch,6-2 7-5,0.78,1.5%,4.4%,51.5%,62.9%,42.4%,50.0% (5/10),45.1%,36.9%,6.2%,23.7%,55.6%,50.0% (2/4),
 20-Apr-2015,Stuttgart,3,Clay,Q3,201,148,0,,,Kateryna Bondarenko,Alexa Glatch,0-6 6-4 6-4,,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q2,201,98,1,,7,Alexa Glatch,Ana Konjuh,6-3 3-6 6-2,,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q1,201,107,1,,,Alexa Glatch,Yulia Putintseva,7-6(1) 6-4,,,,,,,,,,,,,,

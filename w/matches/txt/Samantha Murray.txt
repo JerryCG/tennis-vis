@@ -1,4 +1,5 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+8-Jan-2024,Adelaide,3,Hard,Q1,,609,0,ALT,ALT,Ulrikke Eikeri,Samantha Murray,6-3 5-7 7-5,0.85,2.9%,7.8%,63.1%,58.5%,34.2%,52.9% (9/17),46.3%,43.1%,7.8%,31.0%,71.0%,50.0% (7/14),2:14
 28-Feb-2022,Lyon,3,Hard,Q1,277,126,0,SR,1,Ekaterine Gorgodze,Samantha Murray,7-5 6-1,0.73,2.2%,3.3%,66.7%,55.0%,40.0%,72.7% (16/22),44.7%,36.7%,0.0%,27.5%,55.0%,33.3% (2/6),1:43
 7-Feb-2022,W25 Birmingham,3,Hard,R16,282,820,0,Q,WC,Sonay Kartal,Samantha Murray,6-2 6-0,,,,,,,,,,,,,,
 7-Feb-2022,W25 Birmingham,3,Hard,R32,282,402,1,Q,,Samantha Murray,Tara Moore,6-1 7-6(5),,,,,,,,,,,,,,
@@ -179,7 +180,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Apr-2016,Sharm El Sheikh $10K,3,Hard,R32,,522,1,Q,7,Samantha Murray,Rishika Sunkara,4-6 6-1 6-2,,,,,,,,,,,,,,
 21-Jul-2014,Lexington KY 50K,3,Hard,R32,239,158,0,,6,An Sophie Mestach,Samantha Murray,6-3 1-0 RET,,,,,,,,,,,,,,
 14-Jul-2014,Granby 25K,3,Hard,R32,239,339,0,6,,Riko Sawayanagi,Samantha Murray,3-6 6-4 6-4,,,,,,,,,,,,,,
-23-Jun-2014,Wimbledon,5,Grass,R128,247,5,0,WC,5,Maria Sharapova,Samantha Murray,6-1 6-0 (ch),0.51,11.1%,16.7%,44.4%,43.8%,25.0%,0.0% (0/5),33.7%,34.0%,5.7%,18.8%,57.1%,0.0% (0/3),
+23-Jun-2014,Wimbledon,5,Grass,R128,247,5,0,WC,5,Maria Sharapova,Samantha Murray,6-1 6-0,0.51,11.1%,16.7%,44.4%,43.8%,25.0%,0.0% (0/5),33.7%,34.0%,5.7%,18.8%,57.1%,0.0% (0/3),
 16-Jun-2014,Eastbourne,3,Grass,Q1,242,49,0,,,Christina Mchale,Samantha Murray,6-1 6-3,0.70,1.6%,19.0%,50.8%,62.5%,25.8%,54.5% (6/11),41.8%,39.0%,6.8%,24.4%,72.2%,16.7% (1/6),
 9-Jun-2014,Nottingham 50K,3,Grass,R32,238,147,0,WC,,Lesia Tsurenko,Samantha Murray,2-6 6-4 6-4,,,,,,,,,,,,,,
 19-May-2014,Karuizawa 25K,3,Grass,R16,239,393,0,2,,Chiaki Okadaue,Samantha Murray,6-1 3-6 6-3,,,,,,,,,,,,,,

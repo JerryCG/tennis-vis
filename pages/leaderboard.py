@@ -4,8 +4,7 @@
 import dash
 from dash import html
 
-
-# create app
+# create page
 dash.register_page(__name__, name = 'Leaderboard')
 
 layout = html.Div(children=[

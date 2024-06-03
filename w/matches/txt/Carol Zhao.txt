@@ -1,4 +1,85 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W75 Kurume,3,Carpet,QF,223,505,0,4,Q,Mei Yamaguchi,Carol Zhao,6-4 6-4,,,,,,,,,,,,,,
+13-May-2024,W75 Kurume,3,Carpet,R16,223,354,1,4,,Carol Zhao,Naho Sato,7-5 6-7(2) 6-4,,,,,,,,,,,,,,
+13-May-2024,W75 Kurume,3,Carpet,R32,223,,1,4,WC,Carol Zhao,Mina Miyahara,6-3 6-0,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,QF,223,97,0,6,2,Emina Bektas,Carol Zhao,7-6(8) 4-6 7-6(5),,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,R16,223,430,1,6,Q,Carol Zhao,Miho Kuramochi,6-2 7-5,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,R32,223,363,1,6,Q,Carol Zhao,Sarah Beth Grey,6-3 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Gifu,3,Hard,R32,233,240,0,,,Sara Saito,Carol Zhao,6-3 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,R16,233,160,0,,8,Rebecca Marino,Carol Zhao,6-3 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,R32,233,217,1,,,Carol Zhao,Ya Yi Yang,4-6 6-0 6-2,,,,,,,,,,,,,,
+1-Apr-2024,Bogota,3,Clay,Q1,208,269,0,6,,Varvara Lepchenko,Carol Zhao,6-3 7-6(5),0.87,0.0%,13.0%,59.4%,73.2%,39.3%,50.0% (3/6),46.9%,35.1%,1.4%,30.2%,63.6%,28.6% (2/7),1:46
+11-Mar-2024,W35 Santo Domingo,3,Hard,R16,217,658,0,3,,Maria Jose Portillo Ramirez,Carol Zhao,6-2 6-3,,,,,,,,,,,,,,
+11-Mar-2024,W35 Santo Domingo,3,Hard,R32,217,642,1,3,,Carol Zhao,Lea Ma,6-2 6-2,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R32,217,356,0,3,,Victoria Rodriguez,Carol Zhao,6-3 3-1 RET,,,,,,,,,,,,,,
+26-Feb-2024,Austin,3,Hard,Q1,218,134,0,,5,Sachia Vickery,Carol Zhao,5-7 7-6(4) 6-1,0.94,0.0%,9.9%,63.6%,62.3%,22.7%,52.6% (10/19),48.5%,49.2%,0.8%,41.7%,56.7%,46.7% (7/15),3:00
+12-Feb-2024,W50 Morelia,3,Hard,R32,208,508,0,,WC,Jessica Failla,Carol Zhao,6-3 0-6 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,QF,213,140,0,,4,Jule Niemeier,Carol Zhao,7-6(6) 6-7(4) 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R16,213,168,1,,7,Carol Zhao,Solana Sierra,6-2 6-3,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R32,213,225,1,,,Carol Zhao,Elvina Kalieva,3-6 6-3 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W75 Rome GA,3,Hard,R32,216,366,0,7,,Robin Anderson,Carol Zhao,6-1 0-6 6-4,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R16,222,150,0,,5,Yuliia Starodubtseva,Carol Zhao,6-4 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R32,222,244,1,,,Carol Zhao,Valeriya Strakhova,1-6 6-1 6-4,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q2,222,103,0,,3,Katie Volynets,Carol Zhao,6-3 6-1,0.69,0.0%,5.5%,67.3%,27.0%,50.0%,22.2% (2/9),40.2%,45.2%,0.0%,40.4%,60.0%,27.3% (3/11),1:31
+15-Jan-2024,Australian Open,5,Hard,Q1,222,157,1,,,Carol Zhao,Valeria Savinykh,6-3 7-6(7),1.15,8.5%,7.0%,71.8%,62.7%,55.0%,62.5% (5/8),52.7%,45.3%,2.7%,47.2%,40.9%,55.6% (5/9),1:54
+1-Jan-2024,Auckland,3,Hard,Q1,226,186,0,,8,Himeno Sakatsume,Carol Zhao,6-1 6-3,0.65,0.0%,1.8%,78.2%,46.5%,16.7%,50.0% (6/12),39.4%,38.9%,3.7%,33.3%,58.3%,33.3% (2/6),1:19
+20-Nov-2023,W100 Takasaki,3,Hard,R32,199,350,0,,WC,Sara Saito,Carol Zhao,6-0 5-2 RET,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,198,140,0,,,Harriet Dart,Carol Zhao,6-2 6-2,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shenzhen,3,Hard,SF,219,119,0,6,1,Zhuoxuan Bai,Carol Zhao,6-3 4-6 6-2,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shenzhen,3,Hard,QF,219,181,1,6,3,Carol Zhao,Timea Babos,2-6 6-3 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shenzhen,3,Hard,R16,219,347,1,6,,Carol Zhao,Hong Yi Cody Wong,6-1 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shenzhen,3,Hard,R32,219,916,1,6,Q,Carol Zhao,Meiqi Guo,6-4 6-4,,,,,,,,,,,,,,
+9-Oct-2023,Zhengzhou,3,Hard,Q2,230,92,0,12,5,Nao Hibino,Carol Zhao,6-3 6-2,0.58,1.8%,5.4%,64.3%,52.8%,45.0%,16.7% (1/6),40.6%,28.9%,2.2%,25.8%,35.7%,50.0% (1/2),1:08
+9-Oct-2023,Zhengzhou,3,Hard,Q1,230,515,1,12,WC,Carol Zhao,Xinyu Jiang,6-3 4-6 7-6(8),1.08,2.6%,7.8%,64.7%,65.3%,46.3%,61.5% (8/13),51.7%,44.7%,1.8%,42.3%,50.0%,46.2% (6/13),2:34
+18-Sep-2023,Guadalajara,3,Hard,R64,242,53,0,Q,,Sofia Kenin,Carol Zhao,6-4 6-3,0.79,5.6%,5.6%,76.4%,60.0%,41.2%,60.0% (6/10),45.9%,34.9%,1.6%,36.6%,31.8%,20.0% (1/5),1:22
+18-Sep-2023,Guadalajara,3,Hard,Q2,242,328,1,7,11,Carol Zhao,Raveena Kingsley,7-5 6-3,1.50,4.1%,10.2%,75.5%,81.1%,33.3%,0.0% (0/2),55.4%,45.8%,2.8%,46.9%,43.5%,55.6% (5/9),1:20
+18-Sep-2023,Guadalajara,3,Hard,Q1,242,431,1,7,,Carol Zhao,Ellen Perez,6-4 6-4,1.22,3.2%,9.5%,58.7%,81.1%,53.8%,100.0% (4/4),53.7%,36.7%,5.0%,31.4%,44.0%,40.0% (2/5),1:07
+11-Sep-2023,Osaka,3,Hard,Q2,230,171,0,,2,Valeria Savinykh,Carol Zhao,6-2 6-3,0.36,11.3%,0.0%,71.0%,70.5%,16.7%,62.5% (5/8),39.0%,16.3%,9.3%,14.8%,18.8%,- (0/0),1:13
+11-Sep-2023,Osaka,3,Hard,Q1,230,215,1,,12,Carol Zhao,Na Lae Han,7-5 6-2,1.50,1.8%,5.4%,71.4%,70.0%,62.5%,50.0% (2/4),57.9%,48.3%,6.9%,48.6%,47.6%,100.0% (5/5),1:19
+4-Sep-2023,W100 Tokyo,3,Hard,R16,243,435,0,Q,WC,Yuki Naito,Carol Zhao,6-4 6-3,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,R32,243,152,1,Q,,Carol Zhao,Su Jeong Jang,6-3 1-6 6-2,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,Q2,243,347,1,3,10,Carol Zhao,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,Q1,243,1231,1,3,,Carol Zhao,Erina Hayashi,6-3 6-1,,,,,,,,,,,,,,
+14-Aug-2023,Stanford 125,3,Hard,R32,242,96,0,WC,,Kayla Day,Carol Zhao,6-2 6-4,0.60,1.8%,3.6%,69.1%,57.9%,35.3%,50.0% (4/8),40.4%,29.6%,3.7%,28.6%,31.6%,16.7% (1/6),1:20
+7-Aug-2023,Montreal,3,Hard,Q1,245,84,0,,10,Cristina Bucsa,Carol Zhao,6-3 6-3,0.66,1.6%,6.3%,73.0%,58.7%,29.4%,60.0% (6/10),42.6%,32.7%,1.9%,30.6%,37.5%,50.0% (1/2),1:21
+17-Jul-2023,Iasi 125,3,Clay,R32,233,131,0,,5,Simona Waltert,Carol Zhao,6-4 6-2,0.78,3.6%,3.6%,58.2%,56.3%,34.8%,54.5% (6/11),44.1%,41.3%,3.2%,22.2%,66.7%,28.6% (2/7),1:23
+3-Jul-2023,Wimbledon,5,Grass,R128,166,122,0,Q,LL,Tamara Korpatsch,Carol Zhao,1-6 6-4 6-2,0.96,0.0%,11.1%,68.3%,60.5%,45.0%,16.7% (1/6),48.3%,42.7%,4.9%,39.7%,50.0%,71.4% (5/7),1:45
+3-Jul-2023,Wimbledon,5,Grass,Q3,166,192,1,,,Carol Zhao,Coco Vandeweghe,7-6(4) 6-4,1.51,16.2%,4.4%,77.9%,86.8%,46.7%,- (0/0),54.1%,33.3%,11.5%,29.3%,37.8%,14.3% (1/7),1:28
+3-Jul-2023,Wimbledon,5,Grass,Q2,166,86,1,,2,Carol Zhao,Arantxa Rus,3-6 6-4 6-2,1.16,1.2%,4.9%,79.3%,69.2%,47.1%,66.7% (4/6),52.4%,40.9%,11.4%,41.7%,39.3%,50.0% (4/8),1:55
+3-Jul-2023,Wimbledon,5,Grass,Q1,166,396,1,,WC,Carol Zhao,Emily Appleton,4-6 7-6(4) 6-4,1.06,5.8%,8.7%,76.9%,71.3%,29.2%,50.0% (4/8),50.7%,40.9%,7.8%,29.7%,61.0%,40.0% (4/10),2:16
+19-Jun-2023,Berlin,3,Grass,Q1,168,203,0,10,,Coco Vandeweghe,Carol Zhao,6-3 6-1,0.45,2.1%,2.1%,66.7%,50.0%,56.3%,55.6% (5/9),37.8%,21.4%,21.4%,4.3%,42.1%,0.0% (0/2),0:56
+12-Jun-2023,s Hertogenbosch,3,Grass,R16,163,14,0,Q,1,Veronika Kudermetova,Carol Zhao,6-1 6-3,0.61,0.0%,11.1%,68.5%,56.8%,23.5%,44.4% (4/9),40.0%,32.6%,13.0%,16.7%,62.5%,50.0% (1/2),1:10
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,163,92,1,Q,,Carol Zhao,Ysaline Bonaventure,7-6(3) 7-6(4),1.07,5.5%,9.2%,70.6%,72.7%,28.1%,80.0% (12/15),52.0%,43.2%,5.3%,34.5%,55.0%,25.0% (3/12),2:13
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,163,234,1,4,11,Carol Zhao,Kristina Dmitruk,6-1 6-3,1.64,2.0%,3.9%,66.7%,70.6%,58.8%,66.7% (2/3),60.4%,54.5%,1.8%,53.1%,56.5%,50.0% (5/10),0:59
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,163,430,1,4,,Carol Zhao,Lexie Stevens,6-1 6-4,1.35,3.1%,6.2%,66.2%,65.1%,59.1%,66.7% (2/3),56.7%,50.0%,4.8%,52.0%,41.7%,33.3% (4/12),1:20
+5-Jun-2023,W100 Surbiton,3,Grass,R32,178,162,0,,,Katie Swan,Carol Zhao,6-2 6-0,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,178,182,0,,,Sara Bejlek,Carol Zhao,6-4 6-1,0.67,0.0%,6.3%,70.8%,55.9%,42.9%,33.3% (2/6),41.6%,32.1%,0.0%,26.8%,50.0%,50.0% (1/2),
+29-May-2023,Roland Garros,5,Clay,Q1,178,285,1,,,Carol Zhao,Katarzyna Kawa,6-4 5-7 6-1,1.15,2.0%,5.1%,89.9%,52.8%,20.0%,45.5% (5/11),53.7%,58.2%,1.1%,54.8%,100.0%,81.8% (9/11),
+15-May-2023,Paris 125,3,Clay,R32,180,102,0,Q,,Katie Volynets,Carol Zhao,6-0 7-6(9),0.76,0.0%,5.6%,64.8%,45.7%,40.0%,50.0% (6/12),43.2%,42.6%,2.9%,39.5%,48.0%,50.0% (3/6),1:51
+8-May-2023,W60 Fukuoka,3,Carpet,SF,180,637,0,2,Q,Natsumi Kawaguchi,Carol Zhao,6-1 7-6(6),,,,,,,,,,,,,,
+8-May-2023,W60 Fukuoka,3,Carpet,QF,180,447,1,2,,Carol Zhao,Ye Xin Ma,6-4 6-2,,,,,,,,,,,,,,
+8-May-2023,W60 Fukuoka,3,Carpet,R16,180,542,1,2,,Carol Zhao,Erika Sema,6-2 5-7 6-3,,,,,,,,,,,,,,
+8-May-2023,W60 Fukuoka,3,Carpet,R32,180,1134,1,2,WC,Carol Zhao,Anri Nagata,6-2 6-1,,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,R32,176,499,0,4,Q,Ya Hsuan Lee,Carol Zhao,7-6(4) 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,R32,173,125,0,,5,Yue Yuan,Carol Zhao,6-3 6-2,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,R16,174,817,0,,,Francesca Jones,Carol Zhao,6-2 6-1,0.64,3.8%,21.2%,61.5%,43.8%,15.0%,30.0% (3/10),37.2%,42.9%,4.8%,29.2%,61.1%,75.0% (3/4),1:11
+3-Apr-2023,Bogota,3,Clay,R32,174,154,1,,,Carol Zhao,Maria Lourdes Carle,4-6 7-5 7-6(6),1.04,0.0%,18.9%,63.9%,65.4%,27.3%,38.5% (5/13),51.1%,50.4%,0.0%,39.4%,68.2%,57.1% (8/14),3:26
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,173,161,0,,,Raluka Serban,Carol Zhao,4-6 7-5 7-5,0.90,2.5%,10.8%,60.0%,61.1%,35.4%,55.6% (10/18),47.8%,44.2%,6.7%,32.2%,60.0%,46.7% (7/15),3:13
+20-Mar-2023,Miami,3,Hard,Q1,173,116,0,ALT,14,Viktorija Golubic,Carol Zhao,6-3 6-3,0.63,9.5%,6.3%,66.7%,54.8%,42.9%,50.0% (4/8),41.5%,30.9%,1.8%,23.8%,53.8%,16.7% (1/6),1:13
+27-Feb-2023,Austin,3,Hard,Q1,168,235,0,10,,Elvina Kalieva,Carol Zhao,7-6(3) 6-4,0.90,2.8%,6.9%,58.3%,64.3%,40.0%,37.5% (3/8),47.9%,41.2%,4.4%,28.6%,54.5%,100.0% (4/4),1:42
+20-Feb-2023,Merida,3,Hard,Q2,166,140,0,ALT,,Rebecca Peterson,Carol Zhao,7-6(5) 4-6 6-4,0.80,4.4%,2.9%,67.6%,53.3%,56.8%,58.3% (7/12),47.1%,36.3%,4.4%,32.1%,42.9%,55.6% (5/9),2:57
+20-Feb-2023,Merida,3,Hard,Q1,166,135,1,ALT,11,Carol Zhao,Coco Vandeweghe,7-6(6) 3-0 RET,1.16,7.8%,7.8%,67.2%,65.1%,47.6%,60.0% (3/5),53.9%,47.1%,13.7%,23.8%,63.3%,42.9% (3/7),1:29
+13-Feb-2023,W60+H Irapuato,3,Hard,R16,167,114,0,,4,Kamilla Rakhimova,Carol Zhao,7-5 7-6(3),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,R32,167,170,1,,,Carol Zhao,Fernanda Contreras Gomez,7-6(2) 4-6 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R16,169,250,0,6,,Lina Glushko,Carol Zhao,6-2 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R32,169,358,1,6,WC,Carol Zhao,Ana Sofia Sanchez,6-3 6-0,,,,,,,,,,,,,,
+30-Jan-2023,Cali 125,3,Clay,R32,163,350,0,7,WC,Emiliana Arango,Carol Zhao,6-4 6-3,0.74,1.3%,7.5%,67.5%,48.1%,38.5%,60.0% (9/15),43.5%,40.9%,2.3%,32.0%,52.6%,75.0% (3/4),1:35
+16-Jan-2023,Australian Open,5,Hard,Q2,169,130,0,,17,Clara Burel,Carol Zhao,6-7(4) 6-4 7-6(2),0.91,0.0%,5.4%,74.4%,51.0%,39.4%,46.7% (7/15),47.8%,47.5%,2.5%,42.9%,54.0%,50.0% (7/14),2:43
+16-Jan-2023,Australian Open,5,Hard,Q1,169,225,1,,,Carol Zhao,Eudice Wong Chong,6-3 6-2,1.43,1.8%,9.1%,65.5%,83.3%,36.8%,100.0% (6/6),56.5%,46.7%,0.0%,43.9%,52.6%,33.3% (4/12),1:19
+19-Dec-2022,W60 Kyoto,3,Hard,SF,190,663,0,3,Q,Miyu Kato,Carol Zhao,6-4 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,QF,190,331,1,3,8,Carol Zhao,Luksika Kumkhum,6-2 7-6(2),,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,R16,190,780,1,3,Q,Carol Zhao,Ramu Ueda,6-0 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,R32,190,446,1,3,,Carol Zhao,Hiroko Kuwata,7-5 3-6 6-2,,,,,,,,,,,,,,
 31-Oct-2022,Midland 125,3,Hard,R32,169,52,0,,2,Madison Brengle,Carol Zhao,6-4 6-1,0.66,2.3%,2.3%,61.4%,44.4%,17.6%,25.0% (2/8),39.8%,43.8%,0.0%,41.9%,100.0%,50.0% (3/6),1:08
 24-Oct-2022,Tampico,3,Hard,R32,170,79,0,,,Elisabetta Cocciaretto,Carol Zhao,6-0 6-3,0.47,0.0%,1.8%,83.9%,46.8%,22.2%,58.3% (7/12),36.1%,26.8%,0.0%,27.3%,25.0%,100.0% (1/1),1:07
 17-Oct-2022,Guadalajara 2,3,Hard,Q1,174,92,0,,5,Elisabetta Cocciaretto,Carol Zhao,6-3 6-1,0.83,0.0%,11.9%,59.5%,72.0%,29.4%,33.3% (2/6),44.1%,37.7%,2.9%,36.4%,40.0%,0.0% (0/7),1:09
@@ -54,7 +135,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Jan-2022,W25 Vero Beach FL,3,Clay,R32,292,,0,2,LL,Anastasiya Antal,Carol Zhao,4-6 6-4 6-4,,,,,,,,,,,,,,
 20-Dec-2021,Seoul,3,Hard,R32,289,197,0,,5,Arianne Hartono,Carol Zhao,6-2 6-3,0.62,3.8%,3.8%,59.6%,45.2%,52.4%,44.4% (4/9),40.2%,32.0%,4.0%,24.2%,47.1%,20.0% (1/5),1:03
 22-Nov-2021,W60 Brasilia,3,Clay,QF,295,231,0,,4,Gabriela Lee,Carol Zhao,5-7 7-6(9) 7-5,,,,,,,,,,,,,,
-22-Nov-2021,W60 Brasilia,3,Clay,R16,295,259,1,,7,Carol Zhao,Maria Carle,6-0 4-6 6-2,,,,,,,,,,,,,,
+22-Nov-2021,W60 Brasilia,3,Clay,R16,295,259,1,,7,Carol Zhao,Maria Lourdes Carle,6-0 4-6 6-2,,,,,,,,,,,,,,
 22-Nov-2021,W60 Brasilia,3,Clay,R32,295,505,1,,,Carol Zhao,Chanelle Van Nguyen,2-6 6-1 6-1,,,,,,,,,,,,,,
 15-Nov-2021,Montevideo,3,Clay,R16,325,218,0,,8,Laura Pigossi,Carol Zhao,6-1 6-4,0.73,0.0%,5.9%,76.5%,30.8%,50.0%,36.4% (4/11),41.3%,47.2%,0.0%,45.2%,54.5%,27.3% (3/11),1:26
 15-Nov-2021,Montevideo,3,Clay,R32,325,434,1,,,Carol Zhao,Valeriya Strakhova,2-6 6-3 6-0,1.10,1.3%,6.5%,68.8%,49.1%,29.2%,36.4% (4/11),52.1%,62.7%,0.0%,60.4%,68.4%,60.0% (9/15),2:04
@@ -73,7 +154,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jun-2021,W25 Jonkoping,3,Clay,R16,298,396,1,6,,Carol Zhao,Anna Zaja,6-4 4-6 6-2,,,,,,,,,,,,,,
 14-Jun-2021,W25 Jonkoping,3,Clay,R32,298,1063,1,6,Q,Carol Zhao,Irene Lavino,4-6 6-2 6-2,,,,,,,,,,,,,,
 31-May-2021,Roland Garros,5,Clay,Q3,324,192,0,WC,,Lara Arruabarrena,Carol Zhao,6-4 6-2,0.72,0.0%,4.9%,59.0%,47.2%,40.0%,64.3% (9/14),42.1%,40.0%,1.7%,33.3%,55.6%,40.0% (2/5),1:25
-31-May-2021,Roland Garros,5,Clay,Q2,324,134,1,WC,23,Carol Zhao,Viktoria Kuzmova,7-5 6-2,1.13,0.0%,2.8%,66.7%,64.6%,45.8%,60.0% (3/5),52.8%,47.1%,4.3%,37.1%,57.1%,50.0% (5/10),1:28
+31-May-2021,Roland Garros,5,Clay,Q2,324,134,1,WC,23,Carol Zhao,Viktoria Hruncakova,7-5 6-2,1.13,0.0%,2.8%,66.7%,64.6%,45.8%,60.0% (3/5),52.8%,47.1%,4.3%,37.1%,57.1%,50.0% (5/10),1:28
 31-May-2021,Roland Garros,5,Clay,Q1,324,196,1,WC,,Carol Zhao,Valeria Savinykh,2-6 6-2 6-0,1.20,1.5%,7.4%,67.6%,63.0%,50.0%,40.0% (2/5),53.8%,49.3%,0.0%,42.9%,61.5%,50.0% (6/12),1:39
 10-May-2021,W25 Salinas,3,Hard,R16,364,322,0,,8,Laura Pigossi,Carol Zhao,6-2 6-7(6) 7-5,,,,,,,,,,,,,,
 10-May-2021,W25 Salinas,3,Hard,R32,364,406,1,,,Carol Zhao,Marianna Zakarlyuk,6-7(6) 6-3 6-3,,,,,,,,,,,,,,
@@ -88,7 +169,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Apr-2021,W25 Oeiras,3,Clay,R32,421,257,1,,7,Carol Zhao,Tessah Andrianjafitrimo,6-7(6) 6-4 7-5,,,,,,,,,,,,,,
 26-Apr-2021,W25 Oeiras,3,Clay,R64,421,654,1,,Q,Carol Zhao,Oleksandra Oliynykova,7-5 6-2,,,,,,,,,,,,,,
 5-Apr-2021,Bogota,3,Clay,Q1,426,167,0,,2,Lara Arruabarrena,Carol Zhao,6-0 6-0,0.36,0.0%,35.5%,45.2%,28.6%,17.6%,40.0% (4/10),25.4%,27.8%,0.0%,25.0%,37.5%,- (0/0),0:45
-15-Feb-2021,W25 Potchefstroom,3,Hard,F,513,229,0,SR,6,Nuria Parrizas Diaz,Carol Zhao,6-3 6-0 (ch),,,,,,,,,,,,,,
+15-Feb-2021,W25 Potchefstroom,3,Hard,F,513,229,0,SR,6,Nuria Parrizas Diaz,Carol Zhao,6-3 6-0,,,,,,,,,,,,,,
 15-Feb-2021,W25 Potchefstroom,3,Hard,SF,513,338,1,SR,,Carol Zhao,Chanel Simmonds,6-4 6-4,,,,,,,,,,,,,,
 15-Feb-2021,W25 Potchefstroom,3,Hard,QF,513,208,1,SR,4,Carol Zhao,Reka Luca Jani,6-4 0-6 6-3,,,,,,,,,,,,,,
 15-Feb-2021,W25 Potchefstroom,3,Hard,R16,513,979,1,SR,WC,Carol Zhao,Isabella Kruger,4-6 6-3 7-5,,,,,,,,,,,,,,
@@ -146,7 +227,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Mar-2018,Indian Wells,3,Hard,Q1,137,109,0,,22,Kristie Ahn,Carol Zhao,4-6 7-6(2) 6-2,0.95,10.5%,10.5%,56.8%,75.9%,43.9%,50.0% (4/8),49.2%,35.9%,2.2%,35.1%,37.1%,60.0% (3/5),2:09
 26-Feb-2018,Acapulco,3,Hard,Q2,140,166,0,5,10,Dayana Yastremska,Carol Zhao,6-0 6-2,0.50,2.0%,3.9%,66.7%,55.9%,17.6%,58.3% (7/12),36.6%,28.6%,4.8%,20.7%,46.2%,0.0% (0/2),0:55
 26-Feb-2018,Acapulco,3,Hard,Q1,140,400,1,5,WC,Carol Zhao,Giuliana Olmos,5-7 6-0 6-1,1.37,6.7%,7.8%,62.2%,64.3%,47.1%,60.0% (6/10),57.9%,58.0%,0.0%,56.1%,66.7%,64.3% (9/14),1:49
-10-Feb-2018,Fed Cup WG2 R1: CAN vs ROU,3,Hard,RR,138,38,0,,,Sorana Cirstea,Carol Zhao,6-2 6-2 (ch),0.40,2.2%,2.2%,57.8%,61.5%,21.1%,28.6% (2/7),34.1%,22.5%,5.0%,15.4%,35.7%,25.0% (1/4),0:54
+10-Feb-2018,Fed Cup WG2 R1: CAN vs ROU,3,Hard,RR,138,38,0,,,Sorana Cirstea,Carol Zhao,6-2 6-2,0.40,2.2%,2.2%,57.8%,61.5%,21.1%,28.6% (2/7),34.1%,22.5%,5.0%,15.4%,35.7%,25.0% (1/4),0:54
 29-Jan-2018,Midland MI $100K,3,Hard,QF,143,153,0,,,Jamie Loeb,Carol Zhao,6-2 6-0,,,,,,,,,,,,,,
 29-Jan-2018,Midland MI $100K,3,Hard,R16,143,175,1,,,Carol Zhao,Irina Bara,6-2 6-1,,,,,,,,,,,,,,
 29-Jan-2018,Midland MI $100K,3,Hard,R32,143,107,1,,,Carol Zhao,Richel Hogenkamp,6-0 6-1,,,,,,,,,,,,,,
@@ -228,7 +309,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Aug-2016,Granby $50K,3,Hard,R16,352,167,0,,6,Olga Govortsova,Carol Zhao,6-1 6-1,,,,,,,,,,,,,,
 1-Aug-2016,Granby $50K,3,Hard,R32,352,401,1,,,Carol Zhao,Caroline Romeo,3-6 6-3 7-5,,,,,,,,,,,,,,
 25-Jul-2016,Montreal,3,Hard,Q1,351,63,0,,5,Christina Mchale,Carol Zhao,6-2 6-3,0.71,6.5%,9.7%,48.4%,56.7%,40.6%,60.0% (6/10),42.4%,36.5%,3.2%,30.2%,50.0%,33.3% (1/3),1:25
-18-Jul-2016,Stanford,3,Hard,R32,346,71,0,WC,,Nicole Gibbs,Carol Zhao,6-2 4-6 6-3 (ch),0.87,2.5%,7.6%,51.9%,63.4%,44.7%,53.8% (7/13),46.3%,39.6%,3.1%,30.2%,51.2%,33.3% (4/12),2:03
+18-Jul-2016,Stanford,3,Hard,R32,346,71,0,WC,,Nicole Gibbs,Carol Zhao,6-2 4-6 6-3,0.87,2.5%,7.6%,51.9%,63.4%,44.7%,53.8% (7/13),46.3%,39.6%,3.1%,30.2%,51.2%,33.3% (4/12),2:03
 11-Jul-2016,Winnipeg $25K,3,Hard,R16,343,624,0,4,,Michika Ozeki,Carol Zhao,6-2 7-5,,,,,,,,,,,,,,
 11-Jul-2016,Winnipeg $25K,3,Hard,R32,343,544,1,4,,Carol Zhao,Emily Webley Smith,6-0 6-3,,,,,,,,,,,,,,
 27-Jun-2016,El Paso TX $25K,3,Hard,QF,334,406,0,8,,Valeria Solovieva,Carol Zhao,6-4 6-4,,,,,,,,,,,,,,

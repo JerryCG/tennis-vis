@@ -1,4 +1,109 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Rabat,3,Clay,SF,84,81,0,,,Peyton Stearns,Viktoriya Tomova,6-7(6) 7-5 7-6(4),0.90,0.7%,4.5%,63.4%,56.5%,44.9%,33.3% (4/12),47.5%,42.7%,1.5%,39.4%,51.4%,58.3% (7/12),3:15
+20-May-2024,Rabat,3,Clay,QF,84,78,1,,,Viktoriya Tomova,Laura Siegemund,6-4 6-3,1.26,0.0%,3.4%,66.1%,61.5%,45.0%,57.1% (4/7),55.7%,55.6%,0.0%,50.9%,68.4%,42.9% (6/14),1:55
+20-May-2024,Rabat,3,Clay,R16,84,68,1,,,Viktoriya Tomova,Yafan Wang,7-6(4) 6-0,1.27,1.4%,1.4%,70.4%,62.0%,42.9%,57.1% (4/7),55.9%,55.4%,1.8%,48.7%,70.6%,54.5% (6/11),1:41
+20-May-2024,Rabat,3,Clay,R32,84,347,1,,Q,Viktoriya Tomova,Berfu Cengiz,6-2 6-1,1.59,8.0%,4.0%,70.0%,77.1%,40.0%,100.0% (3/3),60.2%,54.2%,0.0%,48.5%,66.7%,62.5% (5/8),0:58
+13-May-2024,Paris 125,3,Clay,R16,79,28,0,,2,Katie Boulter,Viktoriya Tomova,6-2 6-4,0.75,1.9%,5.8%,63.5%,63.6%,31.6%,54.5% (6/11),43.6%,36.2%,5.2%,34.2%,40.0%,50.0% (2/4),1:17
+13-May-2024,Paris 125,3,Clay,R32,79,133,1,,WC,Viktoriya Tomova,Chloe Paquet,3-6 6-3 6-1,1.21,2.7%,4.0%,57.3%,67.4%,50.0%,66.7% (6/9),53.7%,48.3%,1.1%,37.8%,59.5%,50.0% (6/12),2:09
+6-May-2024,Rome,3,Clay,Q2,79,103,0,6,20,Renata Zarazua,Viktoriya Tomova,6-4 2-6 7-6(5),1.03,1.0%,2.0%,61.8%,60.3%,48.7%,58.3% (7/12),50.5%,45.3%,0.9%,43.9%,50.0%,40.0% (6/15),3:07
+6-May-2024,Rome,3,Clay,Q1,79,507,1,6,WC,Viktoriya Tomova,Anastasia Abbagnato,6-3 6-1,1.76,0.0%,0.0%,65.9%,69.0%,73.3%,0.0% (0/1),60.4%,51.9%,1.9%,38.9%,58.8%,50.0% (5/10),1:18
+22-Apr-2024,Madrid,3,Clay,R128,81,42,0,,,Xin Yu Wang,Viktoriya Tomova,5-7 7-5 6-4,1.01,0.8%,3.8%,66.7%,56.8%,47.7%,60.0% (12/20),50.4%,46.8%,4.0%,44.0%,52.4%,33.3% (7/21),2:49
+15-Apr-2024,Rouen,3,Clay,R32,81,94,0,,,Varvara Gracheva,Viktoriya Tomova,6-2 3-6 7-5,0.87,2.1%,5.2%,65.6%,52.4%,45.5%,46.2% (6/13),46.8%,43.5%,1.1%,43.4%,43.6%,50.0% (6/12),2:20
+1-Apr-2024,Charleston,3,Clay,R32,74,7,0,,3,Maria Sakkari,Viktoriya Tomova,6-3 6-3,0.59,3.0%,3.0%,60.6%,45.0%,57.7%,50.0% (4/8),41.0%,29.4%,7.8%,24.2%,38.9%,25.0% (1/4),1:20
+1-Apr-2024,Charleston,3,Clay,R64,74,72,1,,,Viktoriya Tomova,Mayar Sherif,6-4 3-6 6-2,1.24,2.5%,3.7%,72.8%,69.5%,50.0%,60.0% (3/5),52.6%,44.3%,1.7%,42.5%,50.0%,30.8% (4/13),2:36
+18-Mar-2024,Miami,3,Hard,R64,73,27,0,,23,Caroline Garcia,Viktoriya Tomova,6-1 5-2 RET,0.61,0.0%,0.0%,76.2%,43.8%,50.0%,50.0% (4/8),38.9%,33.3%,6.3%,16.7%,50.0%,0.0% (0/4),1:00
+18-Mar-2024,Miami,3,Hard,R128,73,77,1,,LL,Viktoriya Tomova,Tamara Korpatsch,6-2 6-4,1.33,0.0%,1.8%,72.7%,62.5%,60.0%,60.0% (3/5),55.9%,50.8%,1.6%,53.5%,45.0%,45.5% (5/11),1:39
+6-Mar-2024,Indian Wells,3,Hard,R64,75,26,0,,20,Caroline Garcia,Viktoriya Tomova,6-1 3-6 6-3,0.77,4.5%,11.9%,56.7%,71.1%,34.5%,20.0% (1/5),43.9%,34.6%,11.1%,23.3%,47.4%,33.3% (2/6),1:36
+6-Mar-2024,Indian Wells,3,Hard,R128,75,55,1,,,Viktoriya Tomova,Sofia Kenin,6-4 7-6(5),1.02,0.0%,4.3%,62.9%,56.8%,50.0%,33.3% (2/6),50.3%,46.8%,0.0%,43.5%,51.6%,45.5% (5/11),1:39
+19-Feb-2024,Dubai,3,Hard,R64,68,15,0,Q,12,Liudmila Samsonova,Viktoriya Tomova,7-6(2) 6-3,0.77,1.4%,1.4%,72.2%,57.7%,65.0%,75.0% (6/8),45.5%,31.0%,18.3%,16.2%,47.1%,25.0% (1/4),1:37
+19-Feb-2024,Dubai,3,Hard,Q2,68,171,1,11,ALT,Viktoriya Tomova,Timea Babos,6-4 6-3,1.37,12.3%,3.5%,68.4%,69.2%,55.6%,66.7% (4/6),57.1%,47.9%,2.1%,40.0%,61.1%,66.7% (4/6),1:17
+19-Feb-2024,Dubai,3,Hard,Q1,68,225,1,11,WC,Viktoriya Tomova,Ankita Raina,6-4 6-0,1.70,7.5%,5.7%,58.5%,77.4%,50.0%,83.3% (5/6),61.3%,57.6%,0.0%,52.9%,73.3%,38.5% (5/13),1:33
+12-Feb-2024,Doha,3,Hard,R64,68,19,0,LL,14,Ekaterina Alexandrova,Viktoriya Tomova,7-6(5) 6-3,0.88,0.0%,3.3%,75.4%,54.3%,60.0%,50.0% (4/8),46.9%,39.1%,7.2%,22.9%,76.2%,37.5% (3/8),1:29
+12-Feb-2024,Doha,3,Hard,Q2,68,83,0,7,,Bernarda Pera,Viktoriya Tomova,6-4 7-6(5),0.92,2.9%,7.1%,70.0%,55.1%,57.1%,33.3% (2/6),47.7%,41.0%,0.0%,38.7%,47.6%,33.3% (3/9),1:43
+12-Feb-2024,Doha,3,Hard,Q1,68,125,1,7,,Viktoriya Tomova,Laura Pigossi,6-4 6-0,1.44,1.9%,1.9%,80.8%,59.5%,50.0%,71.4% (5/7),59.2%,60.8%,0.0%,60.5%,61.5%,66.7% (6/9),1:23
+5-Feb-2024,Cluj-Napoca,3,Hard,R32,64,101,0,7,,Camila Osorio,Viktoriya Tomova,6-2 6-4,0.67,0.0%,5.3%,68.4%,48.7%,27.8%,45.5% (5/11),40.5%,38.9%,3.7%,44.1%,30.0%,60.0% (3/5),1:18
+15-Jan-2024,Australian Open,5,Hard,R64,70,23,0,,19,Elina Svitolina,Viktoriya Tomova,6-1 6-3,0.58,1.8%,3.6%,67.3%,37.8%,44.4%,14.3% (1/7),37.8%,34.9%,2.3%,31.0%,42.9%,50.0% (2/4),1:05
+15-Jan-2024,Australian Open,5,Hard,R128,70,86,1,,,Viktoriya Tomova,Kayla Day,6-4 6-2,1.32,3.0%,6.1%,69.7%,71.7%,35.0%,66.7% (4/6),55.9%,51.9%,2.5%,50.0%,54.8%,33.3% (5/15),1:52
+8-Jan-2024,Hobart,3,Hard,QF,77,31,0,LL,2,Emma Navarro,Viktoriya Tomova,4-6 6-3 6-2,0.85,1.1%,1.1%,72.4%,54.0%,37.5%,53.3% (8/15),46.2%,43.2%,1.1%,33.9%,60.6%,41.7% (5/12),1:55
+8-Jan-2024,Hobart,3,Hard,R16,77,42,1,LL,9,Viktoriya Tomova,Tatjana Maria,6-0 6-1,2.08,2.3%,2.3%,75.0%,69.7%,54.5%,100.0% (2/2),68.3%,71.1%,0.0%,61.1%,80.0%,85.7% (6/7),0:59
+8-Jan-2024,Hobart,3,Hard,R32,77,60,1,LL,,Viktoriya Tomova,Martina Trevisan,6-3 6-3,1.25,0.0%,1.3%,80.3%,63.9%,46.7%,91.7% (11/12),55.4%,49.2%,1.6%,39.0%,68.2%,66.7% (4/6),1:44
+8-Jan-2024,Hobart,3,Hard,Q2,77,72,0,7,4,Magdalena Frech,Viktoriya Tomova,6-1 6-3,0.61,0.0%,4.2%,64.6%,51.6%,29.4%,37.5% (3/8),38.5%,34.4%,3.3%,34.0%,37.5%,33.3% (1/3),1:10
+8-Jan-2024,Hobart,3,Hard,Q1,77,86,1,7,,Viktoriya Tomova,Kayla Day,3-6 6-0 6-3,1.25,1.4%,2.7%,80.8%,62.7%,50.0%,25.0% (1/4),54.2%,49.5%,3.2%,47.2%,56.5%,46.2% (6/13),2:15
+1-Jan-2024,Brisbane,3,Hard,R64,75,137,0,,Q,Julia Riera,Viktoriya Tomova,6-2 6-4,0.64,0.0%,3.7%,57.4%,54.8%,56.5%,25.0% (1/4),42.1%,28.3%,5.7%,18.2%,45.0%,0.0% (0/1),1:18
+20-Nov-2023,W100 Valencia,3,Clay,F,98,101,1,2,3,Viktoriya Tomova,Jaqueline Cristian,7-5 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,SF,98,258,1,2,,Viktoriya Tomova,Cristina Andreea Mitu,6-2 6-1,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,QF,98,175,1,2,8,Viktoriya Tomova,Aliona Bolsova,6-0 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R16,98,293,1,2,WC,Viktoriya Tomova,Leyre Romero Gormaz,6-3 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R32,98,226,1,2,,Viktoriya Tomova,Tena Lukas,6-3 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,SF,99,79,0,5,2,Magdalena Frech,Viktoriya Tomova,6-2 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,QF,99,535,1,5,Q,Viktoriya Tomova,Nahia Berecoechea,6-2 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R16,99,142,1,5,,Viktoriya Tomova,Jil Teichmann,6-4 2-6 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,99,363,1,5,Q,Viktoriya Tomova,Ekaterina Reyngold,7-5 6-1,,,,,,,,,,,,,,
+16-Oct-2023,Cluj Napoca,3,Hard,R32,98,73,0,,5,Ana Bogdan,Viktoriya Tomova,6-4 6-1,0.72,0.0%,6.5%,56.5%,53.8%,40.0%,16.7% (1/6),42.4%,37.7%,1.9%,17.9%,60.0%,50.0% (2/4),1:25
+9-Oct-2023,Rouen 125,3,Hard,R32,95,175,0,6,WC,Fiona Ferro,Viktoriya Tomova,6-2 2-6 6-3,0.89,0.0%,2.3%,65.5%,57.9%,30.0%,56.3% (9/16),47.2%,45.8%,1.4%,40.4%,56.0%,71.4% (5/7),1:55
+18-Sep-2023,Parma 125,3,Clay,QF,85,105,0,4,7,Anna Bondar,Viktoriya Tomova,7-5 6-4,0.80,4.1%,1.4%,74.0%,53.7%,42.1%,37.5% (3/8),45.0%,39.5%,10.5%,28.0%,61.5%,25.0% (3/12),1:44
+18-Sep-2023,Parma 125,3,Clay,R16,85,166,1,4,,Viktoriya Tomova,Erika Andreeva,6-4 6-4,1.03,0.0%,3.1%,69.2%,66.7%,45.0%,66.7% (4/6),51.2%,41.4%,0.0%,37.1%,47.8%,57.1% (4/7),1:30
+18-Sep-2023,Parma 125,3,Clay,R32,85,985,1,4,WC,Viktoriya Tomova,Eleonora Alvisi,7-5 1-6 6-0,1.04,1.0%,5.2%,67.0%,60.0%,31.3%,64.7% (11/17),50.8%,51.2%,2.5%,44.1%,71.4%,53.8% (7/13),2:11
+11-Sep-2023,Bucharest 125,3,Clay,R16,86,281,0,2,WC,Anca Alexia Todoni,Viktoriya Tomova,4-6 6-4 6-1,0.80,2.5%,2.5%,61.7%,62.0%,41.9%,61.5% (8/13),45.4%,36.6%,3.7%,37.8%,35.1%,75.0% (3/4),2:17
+11-Sep-2023,Bucharest 125,3,Clay,R32,86,187,1,2,Q,Viktoriya Tomova,Darya Astakhova,6-1 6-2,2.02,2.6%,2.6%,73.7%,78.6%,40.0%,50.0% (1/2),65.9%,63.6%,0.0%,64.3%,62.5%,75.0% (6/8),1:08
+28-Aug-2023,US Open,5,Hard,R128,82,59,0,,,Peyton Stearns,Viktoriya Tomova,6-3 6-4,0.81,0.0%,5.0%,68.3%,51.2%,26.3%,57.1% (8/14),44.6%,45.7%,4.3%,40.0%,60.0%,40.0% (4/10),1:36
+21-Aug-2023,Chicago 125,3,Hard,F,104,81,1,,,Viktoriya Tomova,Claire Liu,6-1 6-4,1.60,0.0%,0.0%,80.5%,57.6%,75.0%,0.0% (0/3),61.9%,62.5%,0.0%,56.4%,76.5%,70.0% (7/10),1:15
+21-Aug-2023,Chicago 125,3,Hard,SF,104,82,1,,5,Viktoriya Tomova,Lucia Bronzetti,7-6(3) 3-6 6-1,1.05,1.0%,3.8%,69.2%,61.1%,40.6%,54.5% (6/11),51.6%,47.5%,2.5%,41.2%,58.6%,54.5% (6/11),2:16
+21-Aug-2023,Chicago 125,3,Hard,QF,104,78,1,,8,Viktoriya Tomova,Kamilla Rakhimova,7-5 4-6 6-3,1.06,2.2%,7.6%,60.9%,55.4%,44.4%,22.2% (2/9),51.4%,51.7%,0.0%,45.8%,60.4%,40.9% (9/22),2:45
+21-Aug-2023,Chicago 125,3,Hard,R16,104,65,1,,4,Viktoriya Tomova,Alize Cornet,6-4 7-6(5),1.05,0.0%,4.5%,74.2%,59.2%,35.3%,50.0% (5/10),51.1%,49.3%,1.5%,37.1%,62.5%,75.0% (6/8),2:15
+21-Aug-2023,Chicago 125,3,Hard,R32,104,,1,,LL,Viktoriya Tomova,Adesuwa Osabuohien,6-0 6-0,2.56,2.8%,16.7%,55.6%,85.0%,56.3%,- (0/0),71.6%,71.1%,2.6%,60.0%,83.3%,60.0% (6/10),0:51
+31-Jul-2023,Prague,3,Hard,R32,103,99,0,,Q,Tamara Korpatsch,Viktoriya Tomova,6-2 6-4,0.78,1.6%,3.2%,67.7%,50.0%,30.0%,40.0% (4/10),43.8%,44.1%,0.0%,35.7%,51.6%,60.0% (3/5),1:42
+23-Jul-2023,Hamburg,3,Clay,R32,99,66,0,,,Nadia Podoroska,Viktoriya Tomova,6-1 7-5,0.62,0.0%,7.2%,65.2%,60.0%,45.8%,62.5% (5/8),42.9%,28.1%,8.8%,21.4%,34.5%,0.0% (0/2),1:32
+10-Jul-2023,Bastad 125,3,Clay,QF,99,94,0,,8,Olga Danilovic,Viktoriya Tomova,6-3 6-3,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R16,99,178,1,,,Viktoriya Tomova,Chloe Paquet,7-6(12) 6-4,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,99,209,1,,,Viktoriya Tomova,Darja Semenistaja,6-1 6-4,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,R64,99,89,0,,WC,Katie Boulter,Viktoriya Tomova,6-0 3-6 6-3,0.83,3.6%,2.4%,62.7%,59.6%,48.4%,66.7% (10/15),46.8%,37.0%,5.5%,30.4%,48.1%,100.0% (2/2),1:43
+3-Jul-2023,Wimbledon,5,Grass,R128,99,27,1,,27,Viktoriya Tomova,Bernarda Pera,6-7(3) 6-3 6-3,1.14,3.3%,7.8%,64.4%,67.2%,40.6%,42.9% (3/7),52.1%,48.1%,4.7%,39.0%,63.8%,20.6% (7/34),2:18
+26-Jun-2023,Bad Homburg,3,Grass,R32,99,15,0,,2,Liudmila Samsonova,Viktoriya Tomova,6-1 6-4,0.65,0.0%,6.1%,55.1%,55.6%,59.1%,40.0% (2/5),41.7%,27.8%,14.8%,19.4%,39.1%,0.0% (0/4),1:16
+19-Jun-2023,Birmingham,3,Grass,R32,80,122,0,LL,Q,Tereza Martincova,Viktoriya Tomova,6-1 6-3,0.66,3.0%,4.5%,59.1%,53.8%,25.9%,60.0% (9/15),40.5%,37.8%,4.4%,37.9%,37.5%,100.0% (2/2),1:20
+19-Jun-2023,Birmingham,3,Grass,Q2,80,75,0,7,4,Xiyu Wang,Viktoriya Tomova,6-3 6-3,0.77,3.2%,6.5%,40.3%,52.0%,43.2%,54.5% (6/11),43.8%,40.9%,9.1%,32.7%,64.7%,28.6% (2/7),1:27
+19-Jun-2023,Birmingham,3,Grass,Q1,80,389,1,7,WC,Viktoriya Tomova,Eden Silva,3-6 6-2 6-4,1.30,6.9%,6.9%,48.6%,85.7%,45.9%,25.0% (1/4),53.5%,45.0%,5.0%,42.9%,48.6%,33.3% (5/15),1:47
+12-Jun-2023,Nottingham,3,Grass,R32,79,110,0,,Q,Elizabeth Mandlik,Viktoriya Tomova,6-2 3-6 7-6(5),0.97,4.8%,2.4%,61.9%,51.9%,43.8%,22.2% (2/9),49.2%,49.5%,2.2%,48.1%,51.2%,70.0% (7/10),1:59
+29-May-2023,Roland Garros,5,Clay,R128,72,23,0,,23,Ekaterina Alexandrova,Viktoriya Tomova,6-1 2-6 6-1,0.80,0.0%,8.6%,67.1%,55.3%,21.7%,36.4% (4/11),44.4%,44.4%,6.2%,52.0%,32.3%,40.0% (4/10),1:33
+22-May-2023,Strasbourg,3,Clay,R16,71,58,0,,7,Lauren Davis,Viktoriya Tomova,6-4 3-6 6-1,0.82,2.4%,4.8%,62.7%,55.8%,61.3%,50.0% (4/8),46.6%,34.6%,1.3%,25.0%,53.8%,40.0% (2/5),2:02
+22-May-2023,Strasbourg,3,Clay,R32,71,59,1,,,Viktoriya Tomova,Alize Cornet,3-6 6-4 7-5,1.07,1.1%,5.6%,70.0%,55.6%,44.4%,41.7% (5/12),51.7%,51.2%,0.8%,44.9%,62.8%,47.1% (8/17),3:01
+8-May-2023,Rome,3,Clay,R128,76,51,0,Q,,Yulia Putintseva,Viktoriya Tomova,6-7(5) 7-6(3) 6-0,0.85,0.0%,2.5%,71.2%,51.2%,41.2%,55.6% (10/18),46.0%,43.7%,1.7%,43.0%,46.2%,35.7% (5/14),2:59
+8-May-2023,Rome,3,Clay,Q2,76,128,1,1,19,Viktoriya Tomova,Aliona Bolsova,6-4 6-1,1.45,0.0%,1.7%,72.4%,57.1%,68.8%,66.7% (4/6),58.9%,57.4%,3.7%,56.4%,60.0%,60.0% (6/10),1:25
+8-May-2023,Rome,3,Clay,Q1,76,172,1,1,,Viktoriya Tomova,Sachia Vickery,7-5 6-4,1.20,1.4%,4.1%,70.3%,65.4%,45.5%,72.7% (8/11),54.3%,48.5%,0.0%,51.2%,44.0%,71.4% (5/7),1:39
+1-May-2023,Reus 125,3,Clay,R16,73,56,0,,3,Lauren Davis,Viktoriya Tomova,6-2 2-6 7-5,0.94,0.9%,2.7%,54.9%,48.4%,49.0%,68.2% (15/22),48.5%,48.4%,1.1%,41.7%,55.8%,54.5% (6/11),2:29
+1-May-2023,Reus 125,3,Clay,R32,73,121,1,,,Viktoriya Tomova,Clara Tauson,4-6 7-6(4) 6-4,1.01,0.9%,1.8%,72.6%,57.3%,32.3%,57.9% (11/19),50.2%,50.0%,0.8%,48.0%,53.3%,53.3% (8/15),2:52
+24-Apr-2023,Madrid,3,Clay,R128,73,92,0,LL,LL,Julia Grabher,Viktoriya Tomova,6-1 7-6(5),0.76,3.0%,9.1%,69.7%,63.0%,25.0%,33.3% (2/6),43.9%,37.0%,2.7%,26.9%,61.9%,66.7% (2/3),1:23
+24-Apr-2023,Madrid,3,Clay,Q2,73,109,0,1,19,Clara Burel,Viktoriya Tomova,1-6 6-3 6-0,0.82,0.0%,3.3%,60.7%,54.1%,37.5%,25.0% (2/8),45.2%,42.9%,4.8%,29.3%,68.2%,66.7% (4/6),1:28
+24-Apr-2023,Madrid,3,Clay,Q1,73,156,1,1,,Viktoriya Tomova,Leyre Romero Gormaz,4-6 6-2 6-2,1.12,0.0%,3.5%,68.1%,63.6%,38.9%,66.7% (8/12),53.1%,49.4%,2.5%,46.8%,53.1%,77.8% (7/9),2:17
+10-Apr-2023,W80 Zaragoza,3,Clay,F,98,103,1,2,4,Viktoriya Tomova,Tereza Martincova,4-6 6-2 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,SF,98,174,1,2,,Viktoriya Tomova,Leyre Romero Gormaz,6-4 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,QF,98,321,1,2,WC,Viktoriya Tomova,Irene Burillo Escorihuela,6-3 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R16,98,166,1,2,,Viktoriya Tomova,Ana Konjuh,6-4 7-5,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R32,98,465,1,2,Q,Viktoriya Tomova,Lucia Cortez Llorca,6-4 6-1,,,,,,,,,,,,,,
+20-Mar-2023,Miami,3,Hard,R64,96,30,0,LL,30,Danielle Collins,Viktoriya Tomova,7-6(3) 6-2,0.79,4.5%,3.0%,61.2%,61.0%,38.5%,33.3% (2/6),44.6%,37.5%,6.9%,32.6%,44.8%,33.3% (2/6),1:31
+20-Mar-2023,Miami,3,Hard,R128,96,100,1,LL,Q,Viktoriya Tomova,Anna Karolina Schmiedlova,7-5 6-2,1.40,5.1%,1.7%,61.0%,75.0%,52.2%,50.0% (2/4),56.8%,47.5%,1.7%,51.5%,42.3%,62.5% (5/8),1:28
+20-Mar-2023,Miami,3,Hard,Q2,96,116,0,8,14,Viktorija Golubic,Viktoriya Tomova,6-2 6-3,0.60,4.3%,2.1%,61.7%,62.1%,22.2%,37.5% (3/8),39.4%,31.9%,4.3%,27.0%,50.0%,50.0% (1/2),0:57
+20-Mar-2023,Miami,3,Hard,Q1,96,162,1,8,,Viktoriya Tomova,Katrina Scott,6-2 7-5,1.22,9.0%,4.5%,64.2%,62.8%,58.3%,75.0% (6/8),53.8%,47.4%,2.6%,44.4%,50.0%,71.4% (5/7),1:38
+6-Mar-2023,W60 Trnava,3,Hard,QF,91,183,0,1,8,Greet Minnen,Viktoriya Tomova,7-5 6-1,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R16,91,257,1,1,Q,Viktoriya Tomova,Lea Boskovic,7-6(5) 4-6 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R32,91,235,1,1,,Viktoriya Tomova,Katarzyna Kawa,6-0 6-2,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,R32,99,3,0,Q,3,Jessica Pegula,Viktoriya Tomova,6-2 5-7 6-1,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,R64,99,48,1,Q,,Viktoriya Tomova,Kaia Kanepi,6-3 6-1,1.48,7.5%,3.8%,60.4%,71.9%,52.4%,50.0% (1/2),58.3%,53.2%,3.2%,50.0%,57.1%,41.7% (5/12),1:19
+20-Feb-2023,Dubai,3,Hard,Q2,99,145,1,15,,Viktoriya Tomova,Su Jeong Jang,6-3 7-5,1.30,1.4%,4.3%,70.0%,67.3%,47.6%,0.0% (0/3),56.1%,50.0%,0.0%,50.0%,50.0%,83.3% (5/6),1:48
+20-Feb-2023,Dubai,3,Hard,Q1,99,245,1,15,WC,Viktoriya Tomova,Ankita Raina,3-6 6-1 6-4,1.11,3.0%,5.0%,63.4%,59.4%,48.6%,71.4% (10/14),52.7%,49.4%,0.0%,45.5%,61.9%,75.0% (6/8),2:20
+13-Feb-2023,Doha,3,Hard,R32,100,9,0,Q,7,Belinda Bencic,Viktoriya Tomova,6-0 6-1,0.48,0.0%,7.0%,58.1%,52.0%,11.1%,44.4% (4/9),33.0%,31.1%,8.9%,25.0%,46.2%,0.0% (0/3),0:58
+13-Feb-2023,Doha,3,Hard,Q3,100,81,1,,,Viktoriya Tomova,Madison Brengle,6-3 6-3,1.24,1.4%,4.2%,62.0%,63.6%,51.9%,66.7% (4/6),55.1%,50.8%,0.0%,48.1%,63.6%,38.5% (5/13),1:29
+13-Feb-2023,Doha,3,Hard,Q2,100,49,1,,,Viktoriya Tomova,Lauren Davis,3-6 7-6(4) 2-1 RET,1.00,3.6%,3.6%,73.5%,65.6%,40.9%,42.9% (3/7),49.4%,40.9%,1.1%,31.7%,57.6%,36.4% (4/11),2:01
+13-Feb-2023,Doha,3,Hard,Q1,100,78,1,,,Viktoriya Tomova,Maryna Zanevska,7-5 RET,1.23,0.0%,14.3%,62.9%,68.2%,53.8%,0.0% (0/1),53.1%,45.7%,6.5%,51.9%,36.8%,25.0% (2/8),1:01
+6-Feb-2023,Linz,3,Hard,R32,101,89,0,Q,,Marketa Vondrousova,Viktoriya Tomova,6-3 6-3,0.79,1.7%,1.7%,70.7%,48.8%,52.9%,50.0% (5/10),44.5%,39.3%,6.6%,35.7%,47.4%,50.0% (2/4),1:16
+6-Feb-2023,Linz,3,Hard,Q2,101,844,1,5,WC,Viktoriya Tomova,Anastasia Pavlyuchenkova,6-3 4-6 6-3,1.09,0.0%,3.7%,72.0%,57.6%,39.1%,40.0% (4/10),52.2%,52.0%,6.9%,38.2%,79.4%,42.1% (8/19),2:00
+6-Feb-2023,Linz,3,Hard,Q1,101,477,1,5,,Viktoriya Tomova,Barbara Haas,6-2 6-1,1.95,2.1%,6.4%,74.5%,71.4%,58.3%,50.0% (1/2),65.5%,62.2%,0.0%,55.0%,70.6%,71.4% (5/7),0:57
+30-Jan-2023,Lyon,3,Hard,Q1,99,134,0,3,,Erika Andreeva,Viktoriya Tomova,2-6 6-3 6-4,0.99,1.4%,2.9%,65.7%,63.0%,37.5%,16.7% (1/6),48.9%,45.2%,0.0%,40.7%,51.1%,29.4% (5/17),2:12
+16-Jan-2023,Australian Open,5,Hard,R128,91,10,0,,12,Belinda Bencic,Viktoriya Tomova,6-1 6-2,0.36,0.0%,3.4%,57.6%,52.9%,32.0%,50.0% (5/10),35.1%,20.0%,14.3%,13.6%,30.8%,- (0/0),1:07
+2-Jan-2023,United Cup,3,Hard,RR,90,6,0,,,Maria Sakkari,Viktoriya Tomova,6-3 6-2,0.61,1.8%,5.4%,58.9%,60.6%,26.1%,50.0% (4/8),39.6%,32.7%,5.5%,15.6%,56.5%,50.0% (1/2),1:27
+5-Dec-2022,Angers 125,3,Hard,R16,90,97,0,7,,Marketa Vondrousova,Viktoriya Tomova,6-2 6-2,0.62,0.0%,7.1%,64.3%,29.6%,26.7%,12.5% (1/8),37.0%,44.0%,2.0%,35.5%,57.9%,50.0% (3/6),1:04
+5-Dec-2022,Angers 125,3,Hard,R32,90,261,1,7,Q,Viktoriya Tomova,Joanna Garland,1-6 6-3 6-0,1.27,0.0%,0.0%,72.9%,60.5%,50.0%,42.9% (3/7),55.5%,53.6%,4.3%,45.0%,65.5%,50.0% (6/12),1:41
+31-Oct-2022,W100 Shrewsbury,3,Hard,R32,89,226,0,4,Q,Barbora Palicova,Viktoriya Tomova,6-1 6-4,,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,R16,94,170,0,10,LL,Ana Konjuh,Viktoriya Tomova,7-5 4-6 7-5,0.98,0.0%,2.9%,61.8%,60.3%,46.2%,41.7% (5/12),49.5%,44.0%,12.0%,33.3%,55.1%,66.7% (6/9),2:12
 17-Oct-2022,Rouen 125,3,Hard,R32,94,113,1,10,,Viktoriya Tomova,Simona Waltert,6-3 6-4,1.24,2.9%,0.0%,70.6%,64.6%,55.0%,60.0% (3/5),55.3%,47.3%,1.8%,36.7%,60.0%,50.0% (4/8),1:24
 10-Oct-2022,Cluj Napoca,3,Hard,Q1,93,357,0,1,WC,Cristina Dinu,Viktoriya Tomova,6-4 6-1,0.53,4.4%,8.9%,46.7%,42.9%,45.8%,50.0% (5/10),37.1%,29.5%,6.8%,26.7%,35.7%,66.7% (2/3),0:59
@@ -10,7 +115,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2022,Budapest 125,3,Clay,R32,109,75,1,,3,Viktoriya Tomova,Jasmine Paolini,4-6 6-0 6-2,1.23,0.9%,2.7%,63.1%,62.9%,41.5%,77.8% (14/18),55.2%,55.6%,1.2%,57.4%,51.9%,61.5% (8/13),2:02
 12-Sep-2022,Bucharest 125,3,Clay,R16,98,76,0,,6,Panna Udvardy,Viktoriya Tomova,2-6 6-1 6-4,0.90,0.0%,3.3%,66.3%,50.8%,45.2%,64.7% (11/17),47.5%,46.0%,1.1%,45.6%,46.7%,45.5% (5/11),2:16
 12-Sep-2022,Bucharest 125,3,Clay,R32,98,358,1,,WC,Viktoriya Tomova,Ylona Georgiana Ghioroaie,6-1 6-3,1.52,2.0%,2.0%,60.0%,56.7%,75.0%,50.0% (1/2),59.2%,54.7%,1.9%,56.3%,52.4%,100.0% (5/5),1:14
-29-Aug-2022,US Open,5,Hard,Q3,94,183,0,8,,Viktoria Kuzmova,Viktoriya Tomova,6-4 6-4,0.85,3.6%,9.1%,60.0%,60.6%,36.4%,16.7% (1/6),45.5%,41.6%,7.8%,34.1%,51.5%,23.1% (3/13),1:35
+29-Aug-2022,US Open,5,Hard,Q3,94,183,0,8,,Viktoria Hruncakova,Viktoriya Tomova,6-4 6-4,0.85,3.6%,9.1%,60.0%,60.6%,36.4%,16.7% (1/6),45.5%,41.6%,7.8%,34.1%,51.5%,23.1% (3/13),1:35
 29-Aug-2022,US Open,5,Hard,Q2,94,163,1,8,,Viktoriya Tomova,Joanne Zuger,6-3 7-6(8),1.22,3.6%,6.0%,59.0%,51.0%,35.3%,58.8% (10/17),54.5%,67.7%,0.0%,70.0%,63.6%,66.7% (8/12),1:42
 29-Aug-2022,US Open,5,Hard,Q1,94,210,1,8,,Viktoriya Tomova,Aliona Bolsova,6-1 6-2,1.58,4.3%,10.9%,52.2%,79.2%,45.5%,50.0% (1/2),60.4%,58.3%,1.7%,48.8%,82.4%,50.0% (6/12),1:08
 1-Aug-2022,W100 Grodzisk Mazowiecki,3,Hard,SF,108,66,0,4,1,Magda Linette,Viktoriya Tomova,6-3 6-1,,,,,,,,,,,,,,
@@ -36,13 +141,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2022,Valencia 125,3,Clay,R32,131,181,1,,,Viktoriya Tomova,Sara Errani,6-4 6-3,1.23,1.5%,10.4%,68.7%,67.4%,38.1%,83.3% (10/12),54.4%,51.2%,0.0%,50.0%,56.3%,31.3% (5/16),1:43
 30-May-2022,Makarska 125,3,Clay,R16,,,0,,,Linda Noskova,Viktoriya Tomova,6-3 6-3,0.67,0.0%,3.4%,57.6%,38.2%,52.0%,50.0% (5/10),41.1%,37.5%,2.1%,19.2%,59.1%,50.0% (2/4),1:13
 30-May-2022,Makarska 125,3,Clay,R32,,,1,,,Viktoriya Tomova,Oksana Selekhmeteva,7-6(5) 4-6 7-5,1.01,0.9%,6.0%,62.1%,56.9%,38.6%,65.2% (15/23),50.2%,50.4%,0.0%,50.6%,50.0%,47.1% (8/17),2:46
-23-May-2022,Roland Garros,5,Clay,R128,140,9,0,LL,9,Danielle Collins,Viktoriya Tomova,6-0 6-4,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,140,172,0,10,,Olga Danilovic,Viktoriya Tomova,6-2 1-6 7-6(3),,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,140,198,1,10,,Viktoriya Tomova,Marina Melnikova,2-6 7-5 6-0,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,140,220,1,10,,Viktoriya Tomova,Katie Swan,6-3 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,140,9,0,LL,9,Danielle Collins,Viktoriya Tomova,6-0 6-4,0.74,1.9%,1.9%,75.5%,42.5%,38.5%,40.0% (4/10),42.4%,43.1%,4.6%,40.0%,48.0%,28.6% (2/7),
+23-May-2022,Roland Garros,5,Clay,Q3,140,172,0,10,,Olga Danilovic,Viktoriya Tomova,6-2 1-6 7-6(3),0.85,2.0%,3.0%,60.0%,65.0%,47.5%,60.0% (6/10),48.1%,35.8%,7.4%,34.0%,38.7%,57.1% (4/7),
+23-May-2022,Roland Garros,5,Clay,Q2,140,198,1,10,,Viktoriya Tomova,Marina Melnikova,2-6 7-5 6-0,1.10,4.5%,3.4%,83.0%,60.3%,20.0%,61.5% (8/13),52.2%,51.0%,1.0%,44.6%,64.5%,38.9% (7/18),
+23-May-2022,Roland Garros,5,Clay,Q1,140,220,1,10,,Viktoriya Tomova,Katie Swan,6-3 6-2,1.46,2.1%,6.3%,66.7%,62.5%,50.0%,57.1% (4/7),59.8%,61.0%,5.1%,61.9%,58.8%,63.6% (7/11),
 9-May-2022,Karlsruhe 125,3,Clay,R32,119,114,0,,,Rebecca Marino,Viktoriya Tomova,6-3 6-3,0.74,1.6%,3.1%,71.9%,54.3%,44.4%,55.6% (5/9),44.2%,35.7%,14.3%,22.9%,57.1%,33.3% (1/3),1:11
-2-May-2022,W100 Wiesbaden,3,Clay,R16,115,283,0,,WC,Eva Lys,Viktoriya Tomova,7-6(3) 6-4,,,,,,,,,,,,,,
-2-May-2022,W100 Wiesbaden,3,Clay,R32,115,1434,1,,Q,Viktoriya Tomova,Joelle Lilly Sophie Steur,6-4 6-1,,,,,,,,,,,,,,
+2-May-2022,W100 Wiesbaden,3,Clay,R16,115,283,0,,WC,Eva Lys,Viktoriya Tomova,7-6(3) 6-4,0.91,3.7%,6.1%,72.0%,52.5%,39.1%,50.0% (5/10),47.8%,46.7%,0.0%,45.9%,50.0%,57.1% (4/7),
+2-May-2022,W100 Wiesbaden,3,Clay,R32,115,1434,1,,Q,Viktoriya Tomova,Joelle Lilly Sophie Steur,6-4 6-1,1.48,2.0%,0.0%,69.4%,55.9%,80.0%,50.0% (2/4),58.3%,54.5%,0.0%,60.0%,42.9%,41.7% (5/12),
 25-Apr-2022,W60 Istanbul,3,Clay,R16,115,471,0,1,JE,Diana Shnaider,Viktoriya Tomova,6-1 6-0,,,,,,,,,,,,,,
 25-Apr-2022,W60 Istanbul,3,Clay,R32,115,651,1,1,Q,Viktoriya Tomova,Oana Gavrila,6-4 6-1,,,,,,,,,,,,,,
 15-Apr-2022,BJK Cup G1 RR: BUL vs GEO,3,Clay,RR,112,157,1,,,Viktoriya Tomova,Mariam Bolkvadze,6-3 RET,1.17,3.8%,3.8%,69.2%,50.0%,50.0%,33.3% (1/3),54.8%,58.3%,2.8%,47.4%,70.6%,50.0% (4/8),2:51
@@ -70,7 +175,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jan-2022,Australian Open,5,Hard,Q1,118,181,1,5,,Viktoriya Tomova,Despina Papamichail,6-2 4-6 6-1,1.37,1.2%,2.5%,65.4%,69.8%,42.9%,57.1% (4/7),57.3%,54.2%,1.2%,42.3%,74.2%,63.6% (7/11),2:05
 3-Jan-2022,Melbourne 1,3,Hard,Q1,117,150,0,9,,Mai Hontama,Viktoriya Tomova,7-5 7-5,0.85,0.0%,2.7%,74.0%,57.4%,42.1%,40.0% (4/10),46.8%,39.7%,0.0%,36.2%,47.6%,80.0% (4/5),1:38
 13-Dec-2021,Limoges,3,Hard,R32,115,148,0,,,Stefanie Voegele,Viktoriya Tomova,6-3 6-4,0.90,1.8%,7.3%,58.2%,71.9%,43.5%,25.0% (1/4),46.5%,36.1%,5.6%,30.4%,46.2%,14.3% (1/7),1:23
-22-Nov-2021,W100+H Dubai,3,Hard,R16,117,174,0,6,,Viktoria Kuzmova,Viktoriya Tomova,6-2 4-6 7-5,,,,,,,,,,,,,,
+22-Nov-2021,W100+H Dubai,3,Hard,R16,117,174,0,6,,Viktoria Hruncakova,Viktoriya Tomova,6-2 4-6 7-5,,,,,,,,,,,,,,
 22-Nov-2021,W100+H Dubai,3,Hard,R32,117,157,1,6,,Viktoriya Tomova,Lesley Pattinama Kerkhove,6-4 4-6 6-1,,,,,,,,,,,,,,
 8-Nov-2021,Linz,3,Hard,Q1,114,145,0,6,SR,Kateryna Baindl,Viktoriya Tomova,6-1 2-6 6-2,0.87,2.8%,1.4%,76.4%,61.8%,35.3%,55.6% (5/9),46.5%,38.8%,3.5%,33.3%,50.0%,28.6% (2/7),1:49
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,R32,112,336,0,4,Q,Linda Fruhvirtova,Viktoriya Tomova,6-1 6-7(4) 6-4,,,,,,,,,,,,,,
@@ -165,7 +270,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Sep-2019,W60 Caldas da Rainha,3,Hard,QF,150,196,0,,7,Jessika Ponchet,Viktoriya Tomova,6-3 3-6 7-6(3),,,,,,,,,,,,,,
 23-Sep-2019,W60 Caldas da Rainha,3,Hard,R16,150,632,1,,Q,Viktoriya Tomova,Sarah Beth Grey,7-5 6-4,,,,,,,,,,,,,,
 23-Sep-2019,W60 Caldas da Rainha,3,Hard,R32,150,370,1,,,Viktoriya Tomova,Anna Danilina,3-6 6-1 6-2,,,,,,,,,,,,,,
-16-Sep-2019,Osaka,3,Hard,R16,181,4,0,Q,1,Naomi Osaka,Viktoriya Tomova,7-5 6-3 (ch),0.81,0.0%,5.5%,61.8%,52.9%,42.9%,37.5% (3/8),44.3%,41.2%,15.3%,27.0%,52.1%,37.5% (3/8),1:30
+16-Sep-2019,Osaka,3,Hard,R16,181,4,0,Q,1,Naomi Osaka,Viktoriya Tomova,7-5 6-3,0.81,0.0%,5.5%,61.8%,52.9%,42.9%,37.5% (3/8),44.3%,41.2%,15.3%,27.0%,52.1%,37.5% (3/8),1:30
 16-Sep-2019,Osaka,3,Hard,R32,181,57,1,Q,Q,Viktoriya Tomova,Alize Cornet,4-6 6-3 6-2,1.18,0.0%,2.8%,75.7%,53.1%,38.5%,53.3% (8/15),53.9%,59.3%,1.2%,55.0%,69.2%,43.5% (10/23),2:48
 16-Sep-2019,Osaka,3,Hard,Q2,181,133,1,,6,Viktoriya Tomova,Liudmila Samsonova,3-6 6-0 6-4,1.28,1.4%,4.2%,61.1%,68.2%,53.6%,25.0% (1/4),55.1%,48.0%,5.3%,42.5%,54.3%,62.5% (5/8),1:36
 16-Sep-2019,Osaka,3,Hard,Q1,181,141,1,,8,Viktoriya Tomova,Francesca Di Lorenzo,3-6 6-3 6-1,1.20,5.9%,3.5%,71.8%,54.1%,50.0%,50.0% (6/12),54.4%,56.5%,0.0%,48.6%,66.7%,66.7% (8/12),1:44
@@ -254,7 +359,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Apr-2018,Prague,3,Clay,Q2,143,220,0,,,Elena Gabriela Ruse,Viktoriya Tomova,6-2 7-6(6),0.89,1.4%,4.2%,68.1%,57.1%,60.9%,60.0% (6/10),47.3%,37.2%,6.4%,26.5%,55.2%,25.0% (2/8),1:33
 30-Apr-2018,Prague,3,Clay,Q1,143,832,1,,WC,Viktoriya Tomova,Karolina Berankova,7-5 6-1,1.56,1.9%,0.0%,74.1%,70.0%,42.9%,60.0% (3/5),60.2%,57.6%,0.0%,58.1%,57.1%,60.0% (6/10),1:10
 23-Apr-2018,Istanbul,3,Clay,R16,165,28,0,Q,2,Svetlana Kuznetsova,Viktoriya Tomova,7-5 4-6 6-1,0.89,1.0%,6.3%,58.3%,50.0%,35.0%,44.4% (8/18),47.0%,50.0%,2.0%,46.8%,60.0%,43.8% (7/16),2:30
-23-Apr-2018,Istanbul,3,Clay,R32,165,172,1,Q,Q,Viktoriya Tomova,Valentyna Ivakhnenko,7-5 6-4 (ch),1.19,0.0%,1.3%,77.9%,41.7%,35.3%,42.9% (6/14),54.0%,71.0%,0.0%,70.0%,75.0%,66.7% (10/15),1:39
+23-Apr-2018,Istanbul,3,Clay,R32,165,172,1,Q,Q,Viktoriya Tomova,Valentyna Ivakhnenko,7-5 6-4,1.19,0.0%,1.3%,77.9%,41.7%,35.3%,42.9% (6/14),54.0%,71.0%,0.0%,70.0%,75.0%,66.7% (10/15),1:39
 23-Apr-2018,Istanbul,3,Clay,Q2,165,110,1,10,1,Viktoriya Tomova,Richel Hogenkamp,6-1 6-2,1.77,2.3%,0.0%,70.5%,71.0%,53.8%,80.0% (4/5),63.0%,60.4%,0.0%,44.0%,78.3%,60.0% (6/10),0:58
 23-Apr-2018,Istanbul,3,Clay,Q1,165,390,1,10,WC,Viktoriya Tomova,Sara Tomic,6-2 6-2,1.57,2.1%,0.0%,75.0%,55.6%,50.0%,50.0% (3/6),62.8%,71.7%,0.0%,60.7%,88.9%,77.8% (7/9),1:00
 9-Apr-2018,Istanbul $60K,3,Hard,R32,142,255,0,3,,Elena Rybakina,Viktoriya Tomova,6-4 6-3,,,,,,,,,,,,,,
@@ -317,7 +422,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-May-2017,Trnava $100K,3,Clay,R32,136,127,0,,7,Heather Watson,Viktoriya Tomova,6-1 6-3,,,,,,,,,,,,,,
 8-May-2017,Cagnes Sur Mer $100K,3,Clay,R32,130,124,0,,,Anna Blinkova,Viktoriya Tomova,6-2 6-3,,,,,,,,,,,,,,
 10-Apr-2017,Istanbul $60K,3,Hard,R32,151,202,0,4,,Valentini Grammatikopoulou,Viktoriya Tomova,4-0 RET,,,,,,,,,,,,,,
-3-Apr-2017,Istanbul $25K,3,Hard,F,150,171,1,3,5,Viktoriya Tomova,Viktoria Kuzmova,6-4 4-6 6-2,,,,,,,,,,,,,,
+3-Apr-2017,Istanbul $25K,3,Hard,F,150,171,1,3,5,Viktoriya Tomova,Viktoria Hruncakova,6-4 4-6 6-2,,,,,,,,,,,,,,
 3-Apr-2017,Istanbul $25K,3,Hard,SF,150,428,1,3,,Viktoriya Tomova,Magdalena Rybarikova,6-3 7-6(3),,,,,,,,,,,,,,
 3-Apr-2017,Istanbul $25K,3,Hard,QF,150,208,1,3,7,Viktoriya Tomova,Laura Robson,6-3 6-3,,,,,,,,,,,,,,
 3-Apr-2017,Istanbul $25K,3,Hard,R16,150,346,1,3,,Viktoriya Tomova,Freya Christie,6-4 6-3,,,,,,,,,,,,,,
@@ -347,7 +452,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Sep-2016,Sofia $25K,3,Clay,SF,177,308,1,2,,Viktoriya Tomova,Marie Benoit,6-1 6-1,,,,,,,,,,,,,,
 5-Sep-2016,Sofia $25K,3,Clay,QF,177,285,1,2,8,Viktoriya Tomova,Tereza Mrdeza,7-5 7-6(3),,,,,,,,,,,,,,
 5-Sep-2016,Sofia $25K,3,Clay,R16,177,522,1,2,Q,Viktoriya Tomova,Camilla Rosatello,6-3 6-1,,,,,,,,,,,,,,
-5-Sep-2016,Sofia $25K,3,Clay,R32,177,427,1,2,,Viktoriya Tomova,Sofiya Kovalets,6-2 7-5 (ch),,,,,,,,,,,,,,
+5-Sep-2016,Sofia $25K,3,Clay,R32,177,427,1,2,,Viktoriya Tomova,Sofiya Kovalets,6-2 7-5,,,,,,,,,,,,,,
 29-Aug-2016,US Open,5,Hard,Q3,177,192,0,,,Montserrat Gonzalez,Viktoriya Tomova,6-1 2-6 7-5,,,,,,,,,,,,,,
 29-Aug-2016,US Open,5,Hard,Q2,177,149,1,,,Viktoriya Tomova,Ekaterina Alexandrova,4-6 6-3 7-5,,,,,,,,,,,,,,
 29-Aug-2016,US Open,5,Hard,Q1,177,104,1,,3,Viktoriya Tomova,Tamira Paszek,6-4 6-2,,,,,,,,,,,,,,
@@ -380,14 +485,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Apr-2016,Antalya $10K,3,Hard,QF,402,728,1,2,,Viktoriya Tomova,Emily Arbuthnott,7-5 6-1,,,,,,,,,,,,,,
 11-Apr-2016,Antalya $10K,3,Hard,R16,402,640,1,2,,Viktoriya Tomova,Cristina Adamescu,6-0 6-1,,,,,,,,,,,,,,
 11-Apr-2016,Antalya $10K,3,Hard,R32,402,694,1,2,,Viktoriya Tomova,Simona Ionescu,6-1 6-1,,,,,,,,,,,,,,
-4-Apr-2016,Antalya $10K,3,Hard,F,433,400,1,5,2,Viktoriya Tomova,Viktoria Kuzmova,7-6(5) 6-2,,,,,,,,,,,,,,
+4-Apr-2016,Antalya $10K,3,Hard,F,433,400,1,5,2,Viktoriya Tomova,Viktoria Hruncakova,7-6(5) 6-2,,,,,,,,,,,,,,
 4-Apr-2016,Antalya $10K,3,Hard,SF,433,397,1,5,1,Viktoriya Tomova,Ivonne Cavalle Reimers,6-1 6-1,,,,,,,,,,,,,,
 4-Apr-2016,Antalya $10K,3,Hard,QF,433,,1,5,Q,Viktoriya Tomova,Elena Rybakina,3-6 6-4 7-6(8),,,,,,,,,,,,,,
 4-Apr-2016,Antalya $10K,3,Hard,R16,433,906,1,5,,Viktoriya Tomova,Gozal Ainitdinova,6-2 6-1,,,,,,,,,,,,,,
 4-Apr-2016,Antalya $10K,3,Hard,R32,433,1241,1,5,Q,Viktoriya Tomova,Emma Ek,6-0 6-2,,,,,,,,,,,,,,
 28-Mar-2016,Antalya $10K,3,Hard,F,426,414,1,8,7,Viktoriya Tomova,Caroline Romeo,6-0 6-4,,,,,,,,,,,,,,
 28-Mar-2016,Antalya $10K,3,Hard,SF,426,407,1,8,6,Viktoriya Tomova,Michaela Honcova,6-1 6-1,,,,,,,,,,,,,,
-28-Mar-2016,Antalya $10K,3,Hard,QF,426,399,1,8,4,Viktoriya Tomova,Viktoria Kuzmova,2-6 6-3 6-0,,,,,,,,,,,,,,
+28-Mar-2016,Antalya $10K,3,Hard,QF,426,399,1,8,4,Viktoriya Tomova,Viktoria Hruncakova,2-6 6-3 6-0,,,,,,,,,,,,,,
 28-Mar-2016,Antalya $10K,3,Hard,R16,426,645,1,8,,Viktoriya Tomova,Agnes Bukta,6-2 6-0,,,,,,,,,,,,,,
 28-Mar-2016,Antalya $10K,3,Hard,R32,426,649,1,8,,Viktoriya Tomova,Luisa Marie Huber,3-0 RET,,,,,,,,,,,,,,
 29-Feb-2016,Antalya $10K,3,Clay,F,465,320,1,5,1,Viktoriya Tomova,Susanne Celik,4-6 6-2 7-5,,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 9-Aug-2021,W15 Monastir,3,Hard,R32,603,,0,7,Q,Raveena Kingsley,Miyabi Inoue,6-2 6-1,,,,,,,,,,,,,,
 2-Aug-2021,W15 Monastir,3,Hard,R32,610,1004,0,5,,Alba Rey Garcia,Miyabi Inoue,6-3 6-3,,,,,,,,,,,,,,
 26-Jul-2021,W15 Monastir,3,Hard,QF,613,696,0,4,8,Eliessa Vanlangendonck,Miyabi Inoue,7-6(3) 6-3,,,,,,,,,,,,,,
@@ -165,7 +165,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Sep-2016,Hua Hin $25K,3,Hard,R32,498,309,1,,2,Miyabi Inoue,Ran Tian,6-4 3-6 6-4,,,,,,,,,,,,,,
 29-Aug-2016,Noto $25K,3,Carpet,R32,459,203,0,,1,Ya Hsuan Lee,Miyabi Inoue,6-2 6-4,,,,,,,,,,,,,,
 22-Aug-2016,Tsukuba $25K,3,Hard,QF,455,289,0,,5,Greet Minnen,Miyabi Inoue,6-4 6-7(5) 6-2,,,,,,,,,,,,,,
-22-Aug-2016,Tsukuba $25K,3,Hard,R16,455,249,1,,2,Miyabi Inoue,Jia Jing Lu,7-6(2) 6-3 (ch),,,,,,,,,,,,,,
+22-Aug-2016,Tsukuba $25K,3,Hard,R16,455,249,1,,2,Miyabi Inoue,Jia Jing Lu,7-6(2) 6-3,,,,,,,,,,,,,,
 22-Aug-2016,Tsukuba $25K,3,Hard,R32,455,354,1,,,Miyabi Inoue,Ching Wen Hsu,6-4 3-6 6-0,,,,,,,,,,,,,,
 1-Aug-2016,Nonthaburi $25K,3,Hard,R16,453,393,0,,8,Shiho Akita,Miyabi Inoue,6-3 RET,,,,,,,,,,,,,,
 1-Aug-2016,Nonthaburi $25K,3,Hard,R32,453,603,1,,Q,Miyabi Inoue,Mai Minokoshi,6-3 2-6 6-2,,,,,,,,,,,,,,

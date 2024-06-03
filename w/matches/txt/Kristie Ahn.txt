@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 30-Aug-2021,US Open,5,Hard,Q1,140,222,0,25,,Yuki Naito,Kristie Ahn,6-4 3-6 6-3,0.98,0.0%,8.6%,64.5%,61.7%,42.4%,45.5% (5/11),49.7%,44.3%,4.5%,32.7%,63.6%,41.7% (5/12),2:11
 16-Aug-2021,Cincinnati,3,Hard,Q1,138,97,0,ALT,,Lauren Davis,Kristie Ahn,4-6 6-2 6-2,0.63,5.6%,4.5%,62.9%,64.3%,45.5%,71.4% (10/14),43.6%,27.0%,9.5%,18.4%,44.0%,25.0% (1/4),1:59
 9-Aug-2021,Montreal,3,Hard,Q2,140,63,0,15,6,Caroline Garcia,Kristie Ahn,7-6(3) 6-3,0.67,3.7%,6.2%,66.7%,70.4%,37.0%,72.7% (8/11),45.5%,27.4%,16.1%,21.2%,34.5%,50.0% (1/2),1:42
@@ -25,7 +25,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Oct-2020,W80 Tyler TX,3,Hard,R32,106,245,0,5,WC,Hailey Baptiste,Kristie Ahn,6-2 6-2,,,,,,,,,,,,,,
 19-Oct-2020,W80 Macon GA,3,Hard,R16,105,137,0,4,,Sara Errani,Kristie Ahn,6-3 6-4,,,,,,,,,,,,,,
 19-Oct-2020,W80 Macon GA,3,Hard,R32,105,253,1,4,Q,Kristie Ahn,Tessah Andrianjafitrimo,6-3 6-3,,,,,,,,,,,,,,
-28-Sep-2020,Roland Garros,5,Clay,R128,102,9,0,,6,Serena Williams,Kristie Ahn,7-6(2) 6-0 (ch),0.71,1.4%,5.6%,59.2%,52.4%,41.4%,64.3% (9/14),42.4%,37.0%,15.1%,30.4%,48.1%,25.0% (2/8),1:41
+28-Sep-2020,Roland Garros,5,Clay,R128,102,9,0,,6,Serena Williams,Kristie Ahn,7-6(2) 6-0,0.71,1.4%,5.6%,59.2%,52.4%,41.4%,64.3% (9/14),42.4%,37.0%,15.1%,30.4%,48.1%,25.0% (2/8),1:41
 31-Aug-2020,US Open,5,Hard,R128,96,8,0,,3,Serena Williams,Kristie Ahn,7-5 6-3,0.71,3.3%,10.0%,56.7%,55.9%,50.0%,33.3% (2/6),43.1%,33.3%,20.6%,15.4%,62.5%,66.7% (2/3),1:21
 24-Aug-2020,Cincinnati,3,Hard,Q2,97,111,0,24,,Leylah Fernandez,Kristie Ahn,6-4 6-1,0.72,2.1%,4.3%,57.4%,40.7%,45.0%,37.5% (3/8),41.7%,41.1%,2.7%,33.3%,51.6%,33.3% (2/6),1:24
 24-Aug-2020,Cincinnati,3,Hard,Q1,97,108,1,24,,Kristie Ahn,Anna Lena Friedsam,7-5 6-0,1.43,3.2%,3.2%,46.8%,65.5%,57.6%,71.4% (5/7),58.5%,55.4%,5.4%,45.5%,69.6%,85.7% (6/7),1:19
@@ -39,7 +39,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2020,St. Petersburg,3,Hard,R32,97,23,0,Q,7,Donna Vekic,Kristie Ahn,6-4 6-1,0.50,1.9%,1.9%,59.6%,48.4%,52.4%,44.4% (4/9),39.1%,25.0%,12.5%,29.2%,18.8%,100.0% (1/1),1:10
 10-Feb-2020,St. Petersburg,3,Hard,Q2,97,153,1,4,12,Kristie Ahn,Tereza Martincova,7-6(1) 6-4,1.36,0.0%,2.9%,62.9%,75.0%,53.8%,71.4% (5/7),55.5%,44.7%,2.6%,37.5%,57.1%,60.0% (3/5),1:42
 10-Feb-2020,St. Petersburg,3,Hard,Q1,97,367,1,4,,Kristie Ahn,Valeriya Strakhova,6-2 4-6 6-3,1.28,2.4%,2.4%,55.3%,66.0%,60.5%,70.0% (7/10),55.7%,46.6%,2.7%,50.0%,41.9%,45.5% (5/11),1:56
-20-Jan-2020,Australian Open,5,Hard,R128,92,36,0,,,Caroline Wozniacki,Kristie Ahn,6-1 6-3 (ch),0.59,0.0%,3.3%,55.7%,61.8%,25.9%,66.7% (10/15),40.0%,31.8%,2.3%,29.6%,35.3%,50.0% (1/2),1:25
+20-Jan-2020,Australian Open,5,Hard,R128,92,36,0,,,Caroline Wozniacki,Kristie Ahn,6-1 6-3,0.59,0.0%,3.3%,55.7%,61.8%,25.9%,66.7% (10/15),40.0%,31.8%,2.3%,29.6%,35.3%,50.0% (1/2),1:25
 13-Jan-2020,Hobart,3,Hard,Q2,92,88,0,8,6,Sara Sorribes Tormo,Kristie Ahn,6-4 7-5,0.76,0.0%,1.7%,60.3%,31.4%,34.8%,38.5% (5/13),43.3%,51.3%,0.0%,49.1%,56.5%,37.5% (6/16),1:50
 6-Jan-2020,Auckland,3,Hard,Q1,92,118,0,1,,Caty Mcnally,Kristie Ahn,6-7(0) 6-3 6-3,0.97,0.0%,7.8%,65.6%,57.6%,48.4%,58.8% (10/17),49.2%,44.3%,6.2%,40.0%,51.4%,44.4% (4/9),2:30
 7-Oct-2019,Tianjin,3,Hard,R32,87,154,0,,Q,Xiyu Wang,Kristie Ahn,6-2 7-6(2),0.69,0.0%,1.5%,56.9%,51.4%,42.9%,61.5% (8/13),41.9%,35.9%,6.3%,35.6%,36.8%,42.9% (3/7),1:36
@@ -47,15 +47,15 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Sep-2019,Seoul,3,Hard,QF,93,39,0,WC,2,Ekaterina Alexandrova,Kristie Ahn,6-7(0) 6-4 6-4,0.79,1.9%,1.9%,53.8%,64.3%,56.3%,55.6% (5/9),46.9%,31.1%,24.4%,15.7%,51.3%,25.0% (2/8),2:33
 16-Sep-2019,Seoul,3,Hard,R16,93,143,1,WC,Q,Kristie Ahn,Ana Bogdan,0-6 6-4 7-6(2),0.93,1.1%,2.3%,65.9%,75.9%,36.7%,33.3% (2/6),48.9%,34.9%,8.1%,27.1%,44.7%,25.0% (2/8),2:15
 16-Sep-2019,Seoul,3,Hard,R32,93,94,1,WC,,Kristie Ahn,Timea Bacsinszky,6-0 6-0,2.28,0.0%,5.0%,55.0%,63.6%,77.8%,100.0% (1/1),69.2%,68.4%,2.6%,65.2%,73.3%,66.7% (6/9),0:55
-26-Aug-2019,US Open,5,Hard,R16,141,26,0,,25,Elise Mertens,Kristie Ahn,6-1 6-1 (ch),0.47,0.0%,2.3%,50.0%,45.5%,36.4%,58.3% (7/12),34.5%,27.9%,4.7%,20.8%,36.8%,0.0% (0/3),1:07
-26-Aug-2019,US Open,5,Hard,R32,141,77,1,,,Kristie Ahn,Jelena Ostapenko,6-3 7-5 (ch),1.11,2.9%,4.3%,55.7%,59.0%,61.3%,66.7% (4/6),52.1%,44.4%,11.1%,40.5%,48.6%,40.0% (4/10),1:48
+26-Aug-2019,US Open,5,Hard,R16,141,26,0,,25,Elise Mertens,Kristie Ahn,6-1 6-1,0.47,0.0%,2.3%,50.0%,45.5%,36.4%,58.3% (7/12),34.5%,27.9%,4.7%,20.8%,36.8%,0.0% (0/3),1:07
+26-Aug-2019,US Open,5,Hard,R32,141,77,1,,,Kristie Ahn,Jelena Ostapenko,6-3 7-5,1.11,2.9%,4.3%,55.7%,59.0%,61.3%,66.7% (4/6),52.1%,44.4%,11.1%,40.5%,48.6%,40.0% (4/10),1:48
 26-Aug-2019,US Open,5,Hard,R64,141,127,1,,,Kristie Ahn,Anna Kalinskaya,6-2 6-3,1.26,4.7%,6.3%,54.7%,60.0%,48.3%,57.1% (4/7),56.0%,57.1%,3.9%,55.1%,60.7%,46.7% (7/15),1:34
 26-Aug-2019,US Open,5,Hard,R128,141,63,1,,,Kristie Ahn,Svetlana Kuznetsova,7-5 6-2,1.51,1.6%,3.2%,79.0%,75.5%,53.8%,100.0% (2/2),57.0%,43.9%,6.1%,34.1%,60.0%,33.3% (3/9),1:35
 19-Aug-2019,New York,3,Hard,R16,152,47,0,WC,10,Karolina Muchova,Kristie Ahn,6-3 6-1,0.49,3.2%,6.5%,69.4%,51.2%,36.8%,61.5% (8/13),38.5%,26.2%,16.7%,19.2%,37.5%,100.0% (1/1),1:14
 19-Aug-2019,New York,3,Hard,R32,152,59,1,WC,Q,Kristie Ahn,Jil Teichmann,6-3 6-4,1.26,3.6%,7.1%,69.6%,74.4%,41.2%,0.0% (0/1),53.6%,44.9%,5.8%,35.1%,56.3%,44.4% (4/9),1:35
 12-Aug-2019,Cincinnati,3,Hard,Q1,152,69,0,WC,16,Lauren Davis,Kristie Ahn,2-6 7-6(7) 6-2,0.97,3.4%,4.6%,50.6%,65.9%,41.9%,40.0% (4/10),49.2%,44.8%,2.1%,36.7%,58.3%,37.5% (6/16),2:19
 29-Jul-2019,San Jose,3,Hard,QF,178,25,0,Q,5,Donna Vekic,Kristie Ahn,7-5 6-0,0.43,1.4%,5.4%,56.8%,54.8%,43.8%,66.7% (10/15),39.7%,21.4%,14.3%,12.0%,35.3%,100.0% (1/1),1:25
-29-Jul-2019,San Jose,3,Hard,R16,178,20,1,Q,3,Kristie Ahn,Elise Mertens,6-3 6-3 (ch),1.23,0.0%,0.0%,56.9%,51.4%,53.6%,60.0% (6/10),55.5%,58.7%,4.8%,40.0%,75.8%,70.0% (7/10),1:34
+29-Jul-2019,San Jose,3,Hard,R16,178,20,1,Q,3,Kristie Ahn,Elise Mertens,6-3 6-3,1.23,0.0%,0.0%,56.9%,51.4%,53.6%,60.0% (6/10),55.5%,58.7%,4.8%,40.0%,75.8%,70.0% (7/10),1:34
 29-Jul-2019,San Jose,3,Hard,R32,178,42,1,Q,,Kristie Ahn,Ajla Tomljanovic,6-3 4-6 6-4,1.08,0.0%,3.3%,58.9%,58.5%,40.5%,25.0% (2/8),52.0%,52.8%,6.7%,42.9%,61.7%,58.3% (7/12),2:18
 29-Jul-2019,San Jose,3,Hard,Q2,178,166,1,5,4,Kristie Ahn,Danielle Lao,6-1 6-4,1.35,7.3%,5.5%,58.2%,65.6%,52.2%,33.3% (1/3),56.9%,54.1%,0.0%,39.0%,85.0%,45.5% (5/11),1:37
 29-Jul-2019,San Jose,3,Hard,Q1,178,387,1,5,WC,Kristie Ahn,Katie Volynets,7-5 6-0,1.59,0.0%,1.8%,48.2%,81.5%,51.7%,50.0% (1/2),59.2%,54.1%,2.7%,48.6%,59.5%,41.7% (5/12),1:34
@@ -125,7 +125,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jun-2018,Surbiton $100K,3,Grass,QF,127,83,0,,2,Alison Riske Amritraj,Kristie Ahn,6-0 6-4,,,,,,,,,,,,,,
 4-Jun-2018,Surbiton $100K,3,Grass,R16,127,249,1,,,Kristie Ahn,Danielle Lao,4-6 6-2 6-2,,,,,,,,,,,,,,
 4-Jun-2018,Surbiton $100K,3,Grass,R32,127,145,1,,,Kristie Ahn,Dayana Yastremska,7-5 6-4,,,,,,,,,,,,,,
-28-May-2018,Roland Garros,5,Clay,Q1,127,179,0,19,,Bibiane Schoofs,Kristie Ahn,7-6(2) 2-6 6-3 (ch),,,,,,,,,,,,,,
+28-May-2018,Roland Garros,5,Clay,Q1,127,179,0,19,,Bibiane Schoofs,Kristie Ahn,7-6(2) 2-6 6-3,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,R32,123,88,0,,3,Veronica Cepede Royg,Kristie Ahn,5-7 6-4 6-1,,,,,,,,,,,,,,
 30-Apr-2018,Charleston SC $80K,3,Clay,R32,123,473,0,,JE,Whitney Osuigwe,Kristie Ahn,6-1 6-1,,,,,,,,,,,,,,
 16-Apr-2018,Dothan AL $80K,3,Clay,R32,114,189,0,3,,Barbara Haas,Kristie Ahn,6-1 6-3,,,,,,,,,,,,,,
@@ -147,7 +147,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Jan-2018,Brisbane,3,Hard,Q2,112,221,1,8,,Kristie Ahn,Priscilla Hon,6-3 6-4,1.21,2.7%,5.3%,68.0%,54.9%,54.2%,76.9% (10/13),54.7%,54.7%,7.8%,48.6%,62.1%,85.7% (6/7),1:28
 1-Jan-2018,Brisbane,3,Hard,Q1,112,154,1,8,,Kristie Ahn,Antonia Lottner,7-5 6-1,1.82,4.0%,2.0%,66.0%,84.8%,58.8%,100.0% (2/2),57.9%,43.8%,6.3%,38.6%,55.0%,50.0% (4/8),1:15
 6-Nov-2017,Waco TX $80K,3,Hard,R32,106,350,0,4,,An Sophie Mestach,Kristie Ahn,0-5 RET,,,,,,,,,,,,,,
-30-Oct-2017,Tyler TX $80K,3,Hard,F,115,206,1,4,,Kristie Ahn,Danielle Collins,6-4 6-4 (ch),,,,,,,,,,,,,,
+30-Oct-2017,Tyler TX $80K,3,Hard,F,115,206,1,4,,Kristie Ahn,Danielle Collins,6-4 6-4,,,,,,,,,,,,,,
 30-Oct-2017,Tyler TX $80K,3,Hard,SF,115,133,1,4,,Kristie Ahn,Irina Falconi,7-5 6-3,,,,,,,,,,,,,,
 30-Oct-2017,Tyler TX $80K,3,Hard,QF,115,209,1,4,,Kristie Ahn,Elitsa Kostova,4-6 6-4 6-2,,,,,,,,,,,,,,
 30-Oct-2017,Tyler TX $80K,3,Hard,R16,115,704,1,4,WC,Kristie Ahn,Jessica Pegula,6-4 6-3,,,,,,,,,,,,,,
@@ -157,7 +157,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Oct-2017,Beijing ,3,Hard,Q1,122,92,0,,17,Sara Sorribes Tormo,Kristie Ahn,6-7(3) 6-4 7-5,1.00,2.3%,8.4%,65.6%,51.2%,37.8%,42.9% (9/21),50.0%,53.2%,1.4%,41.4%,72.2%,41.7% (10/24),3:16
 25-Sep-2017,Wuhan,3,Hard,Q1,118,76,0,,9,Varvara Lepchenko,Kristie Ahn,6-0 6-2,0.44,0.0%,2.7%,73.0%,44.4%,20.0%,28.6% (2/7),32.1%,27.3%,9.1%,21.2%,45.5%,0.0% (0/2),0:49
 18-Sep-2017,Seoul,3,Hard,R16,124,77,0,,,Veronica Cepede Royg,Kristie Ahn,4-6 6-4 6-3,1.01,2.2%,5.5%,57.1%,59.6%,43.6%,41.7% (5/12),50.0%,47.8%,3.5%,40.3%,58.7%,42.9% (6/14),2:33
-18-Sep-2017,Seoul,3,Hard,R32,124,54,1,,6,Kristie Ahn,Tatjana Maria,7-5 7-5 (ch),1.42,1.6%,0.0%,68.3%,74.4%,50.0%,40.0% (2/5),55.9%,47.5%,3.8%,29.7%,62.8%,50.0% (5/10),1:44
+18-Sep-2017,Seoul,3,Hard,R32,124,54,1,,6,Kristie Ahn,Tatjana Maria,7-5 7-5,1.42,1.6%,0.0%,68.3%,74.4%,50.0%,40.0% (2/5),55.9%,47.5%,3.8%,29.7%,62.8%,50.0% (5/10),1:44
 11-Sep-2017,Tokyo ,3,Hard,Q1,121,171,0,3,,Miyu Kato,Kristie Ahn,7-6(1) 4-6 6-4,0.93,0.0%,7.4%,57.0%,65.2%,44.2%,66.7% (10/15),49.3%,40.6%,3.1%,36.8%,46.2%,50.0% (5/10),2:36
 28-Aug-2017,US Open,5,Hard,Q2,114,162,0,9,,Fangzhou Liu,Kristie Ahn,6-3 7-5,,,,,,,,,,,,,,
 28-Aug-2017,US Open,5,Hard,Q1,114,504,1,9,,Kristie Ahn,Katerina Stewart,6-4 7-5,,,,,,,,,,,,,,
@@ -285,7 +285,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jul-2015,Lexington KY $50K,3,Hard,R32,307,254,0,WC,,Jessica Pegula,Kristie Ahn,6-2 6-3,,,,,,,,,,,,,,
 20-Jul-2015,Sacramento CA $50K,3,Hard,R16,319,140,0,,4,Nao Hibino,Kristie Ahn,2-6 6-3 6-0,,,,,,,,,,,,,,
 20-Jul-2015,Sacramento CA $50K,3,Hard,R32,319,321,1,,,Kristie Ahn,Chanel Simmonds,7-5 6-2,,,,,,,,,,,,,,
-13-Jul-2015,Stockton CA $50K,3,Hard,R16,320,198,0,Q,,Kimiko Date Krumm,Kristie Ahn,6-3 6-2 (ch),,,,,,,,,,,,,,
+13-Jul-2015,Stockton CA $50K,3,Hard,R16,320,198,0,Q,,Kimiko Date Krumm,Kristie Ahn,6-3 6-2,,,,,,,,,,,,,,
 13-Jul-2015,Stockton CA $50K,3,Hard,R32,320,232,1,Q,,Kristie Ahn,Lauren Embree,1-6 6-1 6-2,,,,,,,,,,,,,,
 15-Jun-2015,Incheon $25K,3,Hard,R16,342,212,0,Q,3,Kai Chen Chang,Kristie Ahn,6-1 6-1,,,,,,,,,,,,,,
 15-Jun-2015,Incheon $25K,3,Hard,R32,342,319,1,Q,,Kristie Ahn,Miyabi Inoue,6-3 6-3,,,,,,,,,,,,,,

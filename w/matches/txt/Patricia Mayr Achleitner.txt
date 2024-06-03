@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 12-Oct-2015,Linz,3,Hard,Q1,315,158,0,WC,,Amandine Hesse,Patricia Mayr Achleitner,6-3 6-2,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,Q1,225,153,0,,,Rebecca Peterson,Patricia Mayr Achleitner,6-4 7-6(6),,,,,,,,,,,,,,
 27-Jul-2015,Baku,3,Hard,Q1,201,601,0,7,,Oksana Kalashnikova,Patricia Mayr Achleitner,2-6 6-3 6-2,,,,,,,,,,,,,,
@@ -203,7 +203,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Oct-2011,Ismaning 50K,3,Carpet,R32,102,462,0,5,Q,Carina Witthoeft,Patricia Mayr Achleitner,1-6 6-1 6-4,,,,,,,,,,,,,,
 17-Oct-2011,Seville 25K,3,Clay,R16,99,283,0,1,,Ines Ferrer Suarez,Patricia Mayr Achleitner,4-6 7-5 3-0 RET,,,,,,,,,,,,,,
 17-Oct-2011,Seville 25K,3,Clay,R32,99,517,1,1,WC,Patricia Mayr Achleitner,Lucia Cervera Vazquez,6-1 6-4,,,,,,,,,,,,,,
-10-Oct-2011,Linz,3,Hard,R16,105,4,0,WC,1,Petra Kvitova,Patricia Mayr Achleitner,6-2 6-3 (ch),,,,,,,,,,,,,,
+10-Oct-2011,Linz,3,Hard,R16,105,4,0,WC,1,Petra Kvitova,Patricia Mayr Achleitner,6-2 6-3,,,,,,,,,,,,,,
 10-Oct-2011,Linz,3,Hard,R32,105,97,1,WC,Q,Patricia Mayr Achleitner,Stephanie Foretz Gacon,3-6 6-2 6-2,,,,,,,,,,,,,,
 19-Sep-2011,Saint Malo 100K,3,Clay,R32,97,167,0,6,,Sharon Fichman,Patricia Mayr Achleitner,6-3 3-0 RET,,,,,,,,,,,,,,
 5-Sep-2011,Biella 100K,3,Clay,QF,93,263,0,3,Q,Mariana Duque Marino,Patricia Mayr Achleitner,6-4 5-7 6-3,,,,,,,,,,,,,,

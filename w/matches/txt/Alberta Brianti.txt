@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 28-Aug-2017,Bagnatica $25K,3,Clay,R16,647,299,0,Q,7,Melanie Stokke,Alberta Brianti,6-1 6-1,,,,,,,,,,,,,,
 28-Aug-2017,Bagnatica $25K,3,Clay,R32,647,427,1,Q,,Alberta Brianti,Camilla Scala,6-4 7-5,,,,,,,,,,,,,,
 21-Aug-2017,Caslano $15K,3,Clay,F,642,520,0,5,2,Karin Kennel,Alberta Brianti,6-3 6-0,,,,,,,,,,,,,,
@@ -71,7 +71,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Apr-2015,Marrakech,3,Clay,Q3,182,223,0,,,Maria Irigoyen,Alberta Brianti,6-2 6-4,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q2,182,264,1,,,Alberta Brianti,Olga Savchuk,3-6 6-4 6-4,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q1,182,235,1,,,Alberta Brianti,Ankita Raina,7-5 6-1,,,,,,,,,,,,,,
-20-Apr-2015,Stuttgart,3,Clay,R32,188,43,0,LL,,Madison Brengle,Alberta Brianti,6-4 6-4 (ch),0.62,3.3%,1.7%,61.7%,45.9%,52.2%,28.6% (2/7),40.9%,32.0%,4.0%,36.7%,25.0%,60.0% (3/5),
+20-Apr-2015,Stuttgart,3,Clay,R32,188,43,0,LL,,Madison Brengle,Alberta Brianti,6-4 6-4,0.62,3.3%,1.7%,61.7%,45.9%,52.2%,28.6% (2/7),40.9%,32.0%,4.0%,36.7%,25.0%,60.0% (3/5),
 20-Apr-2015,Stuttgart,3,Clay,Q3,188,182,0,,,Bethanie Mattek Sands,Alberta Brianti,6-1 6-2,,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q2,188,110,1,,8,Alberta Brianti,Magda Linette,0-6 7-6(4) 7-5,,,,,,,,,,,,,,
 20-Apr-2015,Stuttgart,3,Clay,Q1,188,170,1,,,Alberta Brianti,Risa Ozaki,6-0 6-4,,,,,,,,,,,,,,

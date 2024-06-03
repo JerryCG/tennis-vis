@@ -1,4 +1,11 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+19-Jun-2023,W15 Bucharest,3,Clay,R32,498,,0,2,Q,Alexia Iulia Marginean,Andreea Amalia Rosca,7-5 RET,,,,,,,,,,,,,,
+29-May-2023,W25 Yecla,3,Hard,R16,503,637,0,,,Victoria Rodriguez,Andreea Amalia Rosca,6-4 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Yecla,3,Hard,R32,503,1007,1,,WC,Andreea Amalia Rosca,Victoria Gomez,6-3 3-6 6-4,,,,,,,,,,,,,,
+22-May-2023,W15 Kursumlijska Banja,3,Clay,R16,493,1280,0,2,Q,Anja Stankovic,Andreea Amalia Rosca,6-4 6-0,,,,,,,,,,,,,,
+22-May-2023,W15 Kursumlijska Banja,3,Clay,R32,493,770,1,2,,Andreea Amalia Rosca,Julia Stamatova,6-2 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W25 Trnava,3,Hard,R16,358,344,0,,,Alice Robbe,Andreea Amalia Rosca,6-1 7-5,,,,,,,,,,,,,,
+31-Oct-2022,W25 Trnava,3,Hard,R32,358,259,1,,2,Andreea Amalia Rosca,Ekaterina Makarova,3-6 6-4 6-2,,,,,,,,,,,,,,
 12-Sep-2022,Bucharest 125,3,Clay,R32,307,97,0,WC,,Julia Grabher,Andreea Amalia Rosca,6-0 6-3,0.60,0.0%,5.1%,54.2%,53.1%,33.3%,50.0% (5/10),39.1%,33.3%,3.9%,22.2%,45.8%,33.3% (1/3),1:16
 5-Sep-2022,Bari 125,3,Clay,R32,314,240,0,Q,Q,Paula Ormaechea,Andreea Amalia Rosca,3-6 6-2 6-2,0.85,3.4%,6.8%,59.1%,57.7%,44.4%,60.0% (9/15),47.0%,40.8%,0.0%,43.8%,35.7%,66.7% (4/6),2:15
 8-Aug-2022,W25 Brasov,3,Clay,F,,575,1,3,7,Andreea Amalia Rosca,Julia Avdeeva,6-1 6-7(5) 7-6(1),,,,,,,,,,,,,,
@@ -18,7 +25,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2022,W60 Brasov,3,Clay,R32,374,443,0,,Q,Miriam Bianca Bulgaru,Andreea Amalia Rosca,6-3 6-2,,,,,,,,,,,,,,
 16-May-2022,W25 Platja D'Aro,3,Clay,R16,369,363,0,6,,Ioana Loredana Rosca,Andreea Amalia Rosca,6-3 0-6 6-3,,,,,,,,,,,,,,
 16-May-2022,W25 Platja D'Aro,3,Clay,R32,369,,1,6,WC,Andreea Amalia Rosca,Judith Perello Saavedra,6-2 6-3,,,,,,,,,,,,,,
-2-May-2022,W100 Wiesbaden,3,Clay,R32,363,286,0,Q,Q,Justina Mikulskyte,Andreea Amalia Rosca,5-7 6-1 6-4,,,,,,,,,,,,,,
+2-May-2022,W100 Wiesbaden,3,Clay,R32,363,286,0,Q,Q,Justina Mikulskyte,Andreea Amalia Rosca,5-7 6-1 6-4,0.86,1.9%,2.8%,78.5%,51.2%,43.5%,66.7% (16/24),46.7%,43.3%,4.4%,37.9%,53.1%,55.6% (5/9),
 2-May-2022,W100 Wiesbaden,3,Clay,Q2,363,344,1,9,8,Andreea Amalia Rosca,Andrea Gamiz,6-7(8) 6-3 10-7,,,,,,,,,,,,,,
 2-May-2022,W100 Wiesbaden,3,Clay,Q1,363,762,1,9,WC,Andreea Amalia Rosca,Angelina Wirges,7-5 6-1,,,,,,,,,,,,,,
 25-Apr-2022,W60 Istanbul,3,Clay,Q1,363,787,0,9,,Kristina Dmitruk,Andreea Amalia Rosca,3-6 6-3 10-4,,,,,,,,,,,,,,

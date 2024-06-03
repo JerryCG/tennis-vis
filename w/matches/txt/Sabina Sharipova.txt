@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 7-Mar-2022,W25 Antalya,3,Clay,Q1,539,421,0,,15,Anna Turati,Sabina Sharipova,6-4 7-6(0),,,,,,,,,,,,,,
 17-Jan-2022,W25 Monastir,3,Hard,Q1,519,662,0,12,,Ho Ching Wu,Sabina Sharipova,6-1 6-4,,,,,,,,,,,,,,
 10-Jan-2022,W25 Monastir,3,Hard,R32,487,581,0,LL,Q,Aurora Zantedeschi,Sabina Sharipova,7-6(5) 7-6(2),,,,,,,,,,,,,,
@@ -226,7 +226,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Sep-2016,Japan Open Tokyo,3,Hard,Q3,163,186,0,,8,Su Jeong Jang,Sabina Sharipova,6-4 6-4,0.80,0.0%,11.1%,58.7%,54.1%,34.6%,50.0% (5/10),44.6%,43.3%,0.0%,38.6%,52.2%,60.0% (3/5),1:31
 12-Sep-2016,Japan Open Tokyo,3,Hard,Q2,163,247,1,,,Sabina Sharipova,Aleksandrina Naydenova,6-3 6-0,1.92,2.6%,10.3%,53.8%,81.0%,55.6%,66.7% (2/3),63.0%,59.0%,1.6%,61.8%,55.6%,42.9% (6/14),1:12
 12-Sep-2016,Japan Open Tokyo,3,Hard,Q1,163,171,1,,5,Sabina Sharipova,Julia Glushko,7-6(5) 2-6 6-1,1.07,0.0%,10.5%,56.8%,57.4%,46.3%,50.0% (6/12),51.6%,50.5%,1.1%,48.5%,55.6%,46.2% (6/13),2:08
-29-Aug-2016,Guiyang $25K,3,Hard,F,187,748,1,2,WC,Sabina Sharipova,Hanyu Guo,6-7(1) 7-6(0) 6-4 (ch),,,,,,,,,,,,,,
+29-Aug-2016,Guiyang $25K,3,Hard,F,187,748,1,2,WC,Sabina Sharipova,Hanyu Guo,6-7(1) 7-6(0) 6-4,,,,,,,,,,,,,,
 29-Aug-2016,Guiyang $25K,3,Hard,SF,187,231,1,2,3,Sabina Sharipova,Chang Liu,6-3 6-1,,,,,,,,,,,,,,
 29-Aug-2016,Guiyang $25K,3,Hard,QF,187,511,1,2,,Sabina Sharipova,Xinyu Gao,7-5 6-1,,,,,,,,,,,,,,
 29-Aug-2016,Guiyang $25K,3,Hard,R16,187,474,1,2,,Sabina Sharipova,Chieh Yu Hsu,6-3 6-4,,,,,,,,,,,,,,

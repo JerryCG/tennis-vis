@@ -1,4 +1,84 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W75 Grado,3,Clay,R16,473,274,0,Q,2,Kathinka Von Deichmann,Cagla Buyukakcay,7-5 6-2,,,,,,,,,,,,,,
+20-May-2024,W75 Grado,3,Clay,R32,473,327,1,Q,,Cagla Buyukakcay,Kaylah Mcphee,7-5 0-6 6-3,,,,,,,,,,,,,,
+20-May-2024,W75 Grado,3,Clay,Q2,473,947,1,3,,Cagla Buyukakcay,Melania Delai,6-0 6-7(3) 7-6(4),,,,,,,,,,,,,,
+20-May-2024,W75 Grado,3,Clay,Q1,473,,1,3,WC,Cagla Buyukakcay,Sophie Parente,6-0 6-0,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q2,447,386,0,,,Andrea Lazaro Garcia,Cagla Buyukakcay,6-0 1-0 RET,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q1,447,627,1,,A,Cagla Buyukakcay,Nadiia Kolb,6-1 6-4,,,,,,,,,,,,,,
+6-May-2024,W35 Platja D'Aro,3,Clay,R32,447,545,0,,Q,Chantal Sauvant,Cagla Buyukakcay,6-4 6-3,,,,,,,,,,,,,,
+15-Apr-2024,W35 Santa Margherita di Pula,3,Clay,R16,435,354,0,,5,Lucie Havlickova,Cagla Buyukakcay,6-3 7-6(5),,,,,,,,,,,,,,
+15-Apr-2024,W35 Santa Margherita di Pula,3,Clay,R32,435,861,1,,Q,Cagla Buyukakcay,Denise Valente,7-5 7-6(3),,,,,,,,,,,,,,
+1-Apr-2024,W35 Santa Margherita di Pula,3,Clay,QF,440,590,0,,Q,Jessica Pieri,Cagla Buyukakcay,6-7(5) 6-3 7-6(4),,,,,,,,,,,,,,
+1-Apr-2024,W35 Santa Margherita di Pula,3,Clay,R16,440,475,1,,,Cagla Buyukakcay,Federica Bilardo,3-6 6-2 6-4,,,,,,,,,,,,,,
+1-Apr-2024,W35 Santa Margherita di Pula,3,Clay,R32,440,344,1,,6,Cagla Buyukakcay,Leonie Kung,7-6(5) 6-0,,,,,,,,,,,,,,
+25-Mar-2024,Antalya 125,3,Clay,R32,428,493,0,WC,,Tara Wurth,Cagla Buyukakcay,6-3 6-1,0.58,0.0%,4.3%,80.9%,47.4%,22.2%,16.7% (1/6),37.8%,33.3%,2.0%,33.3%,33.3%,25.0% (1/4),1:23
+18-Mar-2024,W15 Antalya,3,Clay,R32,428,706,0,3,,Anastasia Zolotareva,Cagla Buyukakcay,7-5 7-6(3),,,,,,,,,,,,,,
+19-Feb-2024,W35 Antalya,3,Clay,R32,419,416,0,,,Dimitra Pavlou,Cagla Buyukakcay,6-3 7-6(2),,,,,,,,,,,,,,
+12-Feb-2024,W35 Antalya,3,Clay,R32,422,384,0,,,Daniela Vismane,Cagla Buyukakcay,6-4 5-7 6-2,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R16,420,269,0,WC,8,Isabella Shinikova,Cagla Buyukakcay,5-7 6-2 6-4,,,,,,,,,,,,,,
+5-Feb-2024,W35 Antalya,3,Clay,R32,420,592,1,WC,Q,Cagla Buyukakcay,Mayuka Aikawa,6-2 7-6(5),,,,,,,,,,,,,,
+11-Dec-2023,W25 Sharm ElSheikh,3,Hard,R32,324,656,0,1,,Mariam Bolkvadze,Cagla Buyukakcay,6-0 6-2,,,,,,,,,,,,,,
+4-Dec-2023,W25 Monastir,3,Hard,R16,321,398,0,6,,Ayla Aksu,Cagla Buyukakcay,6-3 6-4,,,,,,,,,,,,,,
+4-Dec-2023,W25 Monastir,3,Hard,R32,321,478,1,6,,Cagla Buyukakcay,Amelie Van Impe,7-6(3) 6-0,,,,,,,,,,,,,,
+27-Nov-2023,Andorra 125,3,Hard,R32,319,118,0,,8,Alize Cornet,Cagla Buyukakcay,1-6 7-6(4) 6-3,1.01,0.0%,1.1%,85.7%,55.1%,30.8%,40.0% (4/10),50.3%,49.0%,3.9%,44.8%,54.5%,50.0% (8/16),2:58
+20-Nov-2023,W100 Valencia,3,Clay,R32,313,615,0,,SR,Irina Fetecau,Cagla Buyukakcay,6-4 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,R32,274,376,0,2,,Veronica Miroshnichenko,Cagla Buyukakcay,3-6 6-4 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W25 Istanbul,3,Hard,R32,274,443,0,6,,Martyna Kubka,Cagla Buyukakcay,6-3 6-3,,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,Q1,266,187,0,,6,Chloe Paquet,Cagla Buyukakcay,6-4 6-4,0.81,0.0%,0.0%,74.1%,55.0%,19.0%,57.1% (8/14),45.0%,44.1%,1.7%,29.7%,68.2%,50.0% (4/8),2:03
+2-Oct-2023,W25 Baza,3,Hard,R32,260,1275,0,4,Q,Carmen Lopez Martinez,Cagla Buyukakcay,4-6 6-3 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,F,285,171,0,4,1,Maria Lourdes Carle,Cagla Buyukakcay,6-1 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,SF,285,301,1,4,6,Cagla Buyukakcay,Cristina Dinu,4-6 6-3 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,QF,285,471,1,4,Q,Cagla Buyukakcay,Nika Radisic,6-2 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R16,285,776,1,4,Q,Cagla Buyukakcay,Jana Bojovic,6-3 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R32,285,768,1,4,Q,Cagla Buyukakcay,Lian Tran,7-5 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W40 Skopje,3,Clay,R32,276,475,0,7,,Sara Cakarevic,Cagla Buyukakcay,6-3 6-3,,,,,,,,,,,,,,
+21-Aug-2023,W60 Prerov,3,Clay,R32,269,366,0,5,,Grace Min,Cagla Buyukakcay,7-6(5) 6-3,,,,,,,,,,,,,,
+14-Aug-2023,W40 Wroclaw,3,Clay,QF,253,271,0,1,5,Sada Nahimana,Cagla Buyukakcay,6-3 6-1,,,,,,,,,,,,,,
+14-Aug-2023,W40 Wroclaw,3,Clay,R16,253,339,1,1,,Cagla Buyukakcay,Martha Matoula,6-1 6-7(3) 6-3,,,,,,,,,,,,,,
+14-Aug-2023,W40 Wroclaw,3,Clay,R32,253,415,1,1,,Cagla Buyukakcay,Chi Chi Scholl,6-2 7-5,,,,,,,,,,,,,,
+17-Jul-2023,Palermo,3,Clay,Q1,247,443,0,5,,Mia Ristic,Cagla Buyukakcay,6-7(4) 7-6(8) 7-5,1.04,0.8%,1.6%,81.6%,60.8%,39.1%,45.5% (5/11),50.6%,45.0%,1.4%,45.7%,43.5%,33.3% (5/15),4:12
+10-Jul-2023,W60 Rome,3,Clay,R32,256,424,0,7,,Georgia Pedone,Cagla Buyukakcay,6-4 6-0,,,,,,,,,,,,,,
+3-Jul-2023,W60 Liepaja,3,Clay,R16,256,209,0,12,8,Darja Semenistaja,Cagla Buyukakcay,6-0 4-6 6-4,,,,,,,,,,,,,,
+3-Jul-2023,W60 Liepaja,3,Clay,R32,256,586,1,12,Q,Cagla Buyukakcay,Nika Radisic,6-1 6-2,,,,,,,,,,,,,,
+26-Jun-2023,W25 Prokuplje (MOVED to Kursumlijska Banja),3,Clay,R32,254,443,0,1,Q,Martha Matoula,Cagla Buyukakcay,6-3 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W25 Guimaraes,3,Hard,R32,248,405,0,2,,Hina Inoue,Cagla Buyukakcay,6-3 5-7 6-3,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,248,71,0,,1,Rebeka Masarova,Cagla Buyukakcay,6-3 3-6 6-3,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R32,248,343,0,10,,Seone Mendez,Cagla Buyukakcay,6-4 6-4,,,,,,,,,,,,,,
+22-May-2023,Rabat,3,Clay,R16,263,74,0,,,Julia Grabher,Cagla Buyukakcay,6-1 7-6(4),0.74,1.3%,3.8%,78.5%,54.8%,35.3%,55.6% (5/9),44.4%,36.5%,0.0%,22.7%,68.4%,50.0% (2/4),1:48
+22-May-2023,Rabat,3,Clay,R32,263,56,1,,7,Cagla Buyukakcay,Linda Fruhvirtova,7-5 6-4,1.12,0.0%,1.4%,77.5%,54.5%,37.5%,33.3% (3/9),53.2%,55.0%,0.0%,45.0%,70.0%,40.0% (8/20),2:33
+15-May-2023,W60 Bodrum,3,Clay,R16,267,163,0,,3,Maria Lourdes Carle,Cagla Buyukakcay,0-6 6-3 6-3,,,,,,,,,,,,,,
+15-May-2023,W60 Bodrum,3,Clay,R32,267,463,1,,WC,Cagla Buyukakcay,Ilay Yoruk,7-5 6-4,,,,,,,,,,,,,,
+8-May-2023,W25 Bastad,3,Clay,R16,267,374,0,4,,Kajsa Rinaldo Persson,Cagla Buyukakcay,6-1 1-6 6-1,,,,,,,,,,,,,,
+8-May-2023,W25 Bastad,3,Clay,R32,267,,1,4,Q,Cagla Buyukakcay,Daria Yesypchuk,6-2 3-6 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W60 Istanbul,3,Clay,R32,261,157,0,,2,Sara Bejlek,Cagla Buyukakcay,6-4 2-6 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R32,261,199,0,,10,Carole Monnet,Cagla Buyukakcay,3-6 6-3 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R64,261,796,1,,LL,Cagla Buyukakcay,Chiara Girelli,7-5 6-4,,,,,,,,,,,,,,
+15-Apr-2023,BJK Cup G1 PM: TUR vs BUL,3,Clay,RR,260,387,0,,,Isabella Shinikova,Cagla Buyukakcay,6-3 1-6 6-1,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G1 RR: LAT vs TUR,3,Clay,RR,260,,1,,,Cagla Buyukakcay,Beatrise Zeltina,7-6(5) 6-3,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: TUR vs NED,3,Clay,RR,260,283,0,,,Suzan Lamens,Cagla Buyukakcay,6-4 2-6 6-0,,,,,,,,,,,,,,
+10-Apr-2023,BJK Cup G1 RR: TUR vs EGY,3,Clay,RR,260,792,1,,,Cagla Buyukakcay,Merna Refaat,6-3 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,256,208,0,,3,Katharina Hobgarski,Cagla Buyukakcay,7-6(5) 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,256,477,1,,Q,Cagla Buyukakcay,Nadine Keller,6-3 6-3,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R16,266,252,0,,,Miriam Bianca Bulgaru,Cagla Buyukakcay,6-0 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R32,266,203,1,,3,Cagla Buyukakcay,Harmony Tan,6-4 7-6(1),,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,R16,261,178,0,,1,Tara Wurth,Cagla Buyukakcay,6-0 6-3,,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,R32,261,351,1,,Q,Cagla Buyukakcay,Ivonne Cavalle Reimers,1-6 6-4 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,QF,255,568,0,5,Q,Mananchaya Sawangkaew,Cagla Buyukakcay,6-1 6-1,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,R16,255,331,1,5,,Cagla Buyukakcay,Zhuoxuan Bai,3-6 6-2 6-3,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,R32,255,323,1,5,,Cagla Buyukakcay,Peangtarn Plipuech,6-3 4-6 7-5,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,QF,271,278,0,5,,Valeria Savinykh,Cagla Buyukakcay,6-4 6-2,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R16,271,451,1,5,Q,Cagla Buyukakcay,Rutuja Bhosale,6-7(5) 6-1 6-3,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R32,271,385,1,5,,Cagla Buyukakcay,Chihiro Muramatsu,6-0 6-4,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,F,325,257,1,,2,Cagla Buyukakcay,Lea Boskovic,7-5 0-6 6-2,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,SF,325,378,1,,,Cagla Buyukakcay,Zhuoxuan Bai,6-1 6-3,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,QF,325,232,1,,3,Cagla Buyukakcay,Ekaterina Makarova,3-6 6-4 6-0,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,R16,325,290,1,,5,Cagla Buyukakcay,Misaki Matsuda,3-6 6-3 6-2,,,,,,,,,,,,,,
+5-Dec-2022,W25 Monastir,3,Hard,R32,325,920,1,,WC,Cagla Buyukakcay,Chiraz Bechri,6-2 4-0 RET,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,324,82,0,LL,1,Tamara Korpatsch,Cagla Buyukakcay,6-4 7-5,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,Q2,324,390,0,7,13,Veronika Erjavec,Cagla Buyukakcay,6-4 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,Q1,324,497,1,7,,Cagla Buyukakcay,Amanda Carreras,6-4 7-6(4),,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,Q2,322,377,0,6,11,Lucie Nguyen Tan,Cagla Buyukakcay,7-5 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,Q1,322,895,1,6,,Cagla Buyukakcay,Olga Parres Azcoitia,6-1 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W25 Istanbul,3,Hard,SF,330,242,0,,3,Polina Kudermetova,Cagla Buyukakcay,6-4 7-5,,,,,,,,,,,,,,
 24-Oct-2022,W25 Istanbul,3,Hard,QF,330,223,1,,2,Cagla Buyukakcay,Raluka Serban,6-4 7-5,,,,,,,,,,,,,,
 24-Oct-2022,W25 Istanbul,3,Hard,R16,330,284,1,,8,Cagla Buyukakcay,Anastasia Zolotareva,6-1 6-3,,,,,,,,,,,,,,
@@ -64,7 +144,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-May-2021,W25 Grado,3,Clay,QF,179,220,1,4,8,Cagla Buyukakcay,Susan Bandecchi,W/O,,,,,,,,,,,,,,
 31-May-2021,W25 Grado,3,Clay,R16,179,518,1,4,Q,Cagla Buyukakcay,Dalila Spiteri,7-5 7-5,,,,,,,,,,,,,,
 31-May-2021,W25 Grado,3,Clay,R32,179,268,1,4,,Cagla Buyukakcay,Bianca Turati,6-4 6-2,,,,,,,,,,,,,,
-31-May-2021,Roland Garros,5,Clay,Q2,179,161,0,,,Storm Sanders,Cagla Buyukakcay,6-2 6-4,0.76,0.0%,2.1%,79.2%,52.6%,20.0%,16.7% (1/6),43.1%,41.0%,1.6%,29.3%,65.0%,22.2% (2/9),1:10
+31-May-2021,Roland Garros,5,Clay,Q2,179,161,0,,,Storm Hunter,Cagla Buyukakcay,6-2 6-4,0.76,0.0%,2.1%,79.2%,52.6%,20.0%,16.7% (1/6),43.1%,41.0%,1.6%,29.3%,65.0%,22.2% (2/9),1:10
 31-May-2021,Roland Garros,5,Clay,Q1,179,210,1,,,Cagla Buyukakcay,Jia Jing Lu,6-4 6-3,1.44,0.0%,2.2%,91.3%,66.7%,50.0%,33.3% (1/3),56.5%,50.0%,0.0%,39.0%,71.4%,71.4% (5/7),1:14
 10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,R32,178,86,0,,1,Arantxa Rus,Cagla Buyukakcay,6-2 6-2,,,,,,,,,,,,,,
 3-May-2021,W25 Prague,3,Clay,QF,177,175,0,5,4,Elena Gabriela Ruse,Cagla Buyukakcay,6-2 6-3,,,,,,,,,,,,,,
@@ -247,7 +327,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jul-2017,Bucharest,3,Clay,R16,165,108,0,,,Ana Bogdan,Cagla Buyukakcay,6-4 7-5,0.79,1.5%,1.5%,73.8%,60.4%,29.4%,42.9% (3/7),44.5%,37.5%,0.0%,33.3%,41.7%,33.3% (2/6),2:05
 17-Jul-2017,Bucharest,3,Clay,R32,165,190,1,,,Cagla Buyukakcay,Polona Hercog,4-6 6-3 7-6(3),1.03,0.0%,2.6%,84.6%,59.6%,50.0%,44.4% (4/9),51.7%,43.0%,4.7%,37.5%,53.3%,71.4% (5/7),2:54
 10-Jul-2017,Budapest $100K,3,Clay,QF,176,160,0,,,Kateryna Baindl,Cagla Buyukakcay,7-5 3-6 6-2,,,,,,,,,,,,,,
-10-Jul-2017,Budapest $100K,3,Clay,R16,176,158,1,,,Cagla Buyukakcay,Viktoria Kuzmova,7-6(5) 7-5,,,,,,,,,,,,,,
+10-Jul-2017,Budapest $100K,3,Clay,R16,176,158,1,,,Cagla Buyukakcay,Viktoria Hruncakova,7-6(5) 7-5,,,,,,,,,,,,,,
 10-Jul-2017,Budapest $100K,3,Clay,R32,176,155,1,,,Cagla Buyukakcay,Nina Stojanovic,6-3 6-4,,,,,,,,,,,,,,
 3-Jul-2017,Wimbledon,5,Grass,Q2,176,300,0,,,Anastasia Potapova,Cagla Buyukakcay,6-4 6-4,,,,,,,,,,,,,,
 3-Jul-2017,Wimbledon,5,Grass,Q1,176,282,1,,,Cagla Buyukakcay,Harriet Dart,4-6 6-3 9-7,,,,,,,,,,,,,,
@@ -278,7 +358,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Dec-2016,Dubai $100K,3,Hard,R32,77,,0,1,SR,Ksenia Pervak,Cagla Buyukakcay,6-0 7-6(1),,,,,,,,,,,,,,
 17-Oct-2016,Moscow,3,Hard,Q2,67,246,0,4,WC,Anna Blinkova,Cagla Buyukakcay,6-2 6-3,0.66,3.3%,10.0%,65.0%,51.3%,28.6%,40.0% (4/10),40.5%,37.3%,2.0%,39.3%,34.8%,28.6% (2/7),1:17
 17-Oct-2016,Moscow,3,Hard,Q1,67,239,1,4,,Cagla Buyukakcay,Valeria Solovieva,1-6 7-6(2) 6-1,1.00,1.1%,6.7%,61.8%,60.0%,32.4%,66.7% (12/18),50.0%,50.5%,0.0%,50.7%,50.0%,53.8% (7/13),2:44
-10-Oct-2016,Linz,3,Hard,R32,69,6,0,,1,Garbine Muguruza,Cagla Buyukakcay,6-4 6-4 (ch),0.94,0.0%,3.8%,66.0%,62.9%,44.4%,20.0% (1/5),47.0%,40.7%,2.5%,37.7%,46.4%,25.0% (2/8),1:37
+10-Oct-2016,Linz,3,Hard,R32,69,6,0,,1,Garbine Muguruza,Cagla Buyukakcay,6-4 6-4,0.94,0.0%,3.8%,66.0%,62.9%,44.4%,20.0% (1/5),47.0%,40.7%,2.5%,37.7%,46.4%,25.0% (2/8),1:37
 26-Sep-2016,Tashkent,3,Hard,R32,69,206,0,3,LL,Sofia Shapatava,Cagla Buyukakcay,6-1 6-4,0.74,2.1%,12.5%,68.8%,51.5%,26.7%,50.0% (5/10),42.5%,41.4%,1.7%,29.4%,58.3%,33.3% (2/6),1:10
 19-Sep-2016,Saint Petersburg $100K,3,Hard,R16,64,227,0,1,,Valentini Grammatikopoulou,Cagla Buyukakcay,6-3 6-2,,,,,,,,,,,,,,
 19-Sep-2016,Saint Petersburg $100K,3,Hard,R32,64,,1,1,WC,Cagla Buyukakcay,Ksenia Pervak,6-2 6-3,,,,,,,,,,,,,,
@@ -303,9 +383,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-May-2016,Trnava $100K,3,Clay,R16,85,124,0,2,,Katerina Siniakova,Cagla Buyukakcay,6-3 6-2,,,,,,,,,,,,,,
 9-May-2016,Trnava $100K,3,Clay,R32,85,238,1,2,,Cagla Buyukakcay,Olga Fridman,6-4 6-4,,,,,,,,,,,,,,
 18-Apr-2016,Istanbul,3,Clay,F,118,60,1,,5,Cagla Buyukakcay,Danka Kovinic,3-6 6-2 6-3,1.14,2.1%,4.2%,79.2%,65.8%,50.0%,83.3% (10/12),52.6%,42.7%,1.0%,30.9%,58.5%,33.3% (4/12),2:23
-18-Apr-2016,Istanbul,3,Clay,SF,118,116,1,,,Cagla Buyukakcay,Stefanie Voegele,6-0 7-5 (ch),1.47,2.0%,0.0%,94.1%,62.5%,33.3%,0.0% (0/2),59.1%,57.8%,1.6%,57.5%,58.3%,54.5% (6/11),1:23
+18-Apr-2016,Istanbul,3,Clay,SF,118,116,1,,,Cagla Buyukakcay,Stefanie Voegele,6-0 7-5,1.47,2.0%,0.0%,94.1%,62.5%,33.3%,0.0% (0/2),59.1%,57.8%,1.6%,57.5%,58.3%,54.5% (6/11),1:23
 18-Apr-2016,Istanbul,3,Clay,QF,118,65,1,,6,Cagla Buyukakcay,Nao Hibino,6-1 6-2,2.09,2.3%,0.0%,84.1%,75.7%,42.9%,66.7% (2/3),65.9%,61.7%,2.1%,58.3%,72.7%,71.4% (5/7),1:04
-18-Apr-2016,Istanbul,3,Clay,R16,118,138,1,,Q,Cagla Buyukakcay,Sorana Cirstea,6-4 6-2 (ch),1.28,0.0%,1.4%,79.5%,62.1%,46.7%,77.8% (7/9),56.3%,52.7%,0.0%,61.5%,44.8%,62.5% (5/8),1:34
+18-Apr-2016,Istanbul,3,Clay,R16,118,138,1,,Q,Cagla Buyukakcay,Sorana Cirstea,6-4 6-2,1.28,0.0%,1.4%,79.5%,62.1%,46.7%,77.8% (7/9),56.3%,52.7%,0.0%,61.5%,44.8%,62.5% (5/8),1:34
 18-Apr-2016,Istanbul,3,Clay,R32,118,218,1,,Q,Cagla Buyukakcay,Marina Melnikova,6-3 6-3,1.34,1.7%,1.7%,76.3%,71.1%,50.0%,66.7% (2/3),56.1%,45.5%,0.0%,45.0%,46.7%,44.4% (4/9),1:26
 4-Apr-2016,Charleston,3,Clay,R64,120,50,0,Q,,Danka Kovinic,Cagla Buyukakcay,6-1 6-3,0.58,0.0%,5.4%,67.9%,47.4%,44.4%,44.4% (4/9),39.6%,31.1%,4.4%,23.5%,35.7%,50.0% (1/2),1:09
 4-Apr-2016,Charleston,3,Clay,Q2,120,149,1,7,16,Cagla Buyukakcay,Ysaline Bonaventure,7-5 6-1,1.32,0.0%,0.0%,84.8%,60.7%,80.0%,75.0% (3/4),56.9%,48.0%,0.0%,48.6%,46.2%,80.0% (4/5),1:22
@@ -334,7 +414,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Nov-2015,Dubai $75K,3,Hard,R16,158,226,1,6,,Cagla Buyukakcay,Amra Sadikovic,6-2 6-3,,,,,,,,,,,,,,
 9-Nov-2015,Dubai $75K,3,Hard,R32,158,326,1,6,,Cagla Buyukakcay,Lyudmyla Kichenok,6-0 6-4,,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,QF,168,275,0,8,,Lesley Pattinama Kerkhove,Cagla Buyukakcay,2-6 6-3 6-2,,,,,,,,,,,,,,
-26-Oct-2015,Macon GA $50K,3,Hard,R16,168,212,1,8,,Cagla Buyukakcay,Viktorija Golubic,6-3 3-6 6-2 (ch),,,,,,,,,,,,,,
+26-Oct-2015,Macon GA $50K,3,Hard,R16,168,212,1,8,,Cagla Buyukakcay,Viktorija Golubic,6-3 3-6 6-2,,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,R32,168,355,1,8,WC,Cagla Buyukakcay,Alexa Guarachi,6-2 6-0,,,,,,,,,,,,,,
 19-Oct-2015,Florence SC $25K,3,Hard,R16,166,363,0,2,,Robin Anderson,Cagla Buyukakcay,6-4 6-1,,,,,,,,,,,,,,
 19-Oct-2015,Florence SC $25K,3,Hard,R32,166,354,1,2,,Cagla Buyukakcay,Diana Marcinkevica,7-6(6) 6-4,,,,,,,,,,,,,,
@@ -358,7 +438,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Aug-2015,Landisville PA $25K,3,Hard,R32,192,768,1,8,Q,Cagla Buyukakcay,Ema Burgic,6-4 6-4,,,,,,,,,,,,,,
 27-Jul-2015,Baku,3,Hard,R32,186,86,0,,,Kirsten Flipkens,Cagla Buyukakcay,6-1 6-7(3) 6-4,0.72,1.0%,0.0%,69.8%,53.7%,69.0%,44.4% (4/9),44.6%,30.0%,4.4%,25.5%,34.9%,20.0% (2/10),
 20-Jul-2015,Istanbul,3,Hard,R32,146,65,0,WC,,Daniela Hantuchova,Cagla Buyukakcay,4-6 6-3 6-2,0.77,2.2%,4.5%,73.0%,55.4%,58.3%,54.5% (6/11),45.3%,33.7%,2.4%,33.3%,34.5%,33.3% (3/9),
-13-Jul-2015,Bucharest,3,Clay,R32,145,20,0,,1,Sara Errani,Cagla Buyukakcay,6-2 7-6(2) (ch),0.85,1.6%,1.6%,67.2%,56.1%,30.0%,25.0% (2/8),46.0%,44.7%,0.0%,43.3%,55.6%,66.7% (4/6),
+13-Jul-2015,Bucharest,3,Clay,R32,145,20,0,,1,Sara Errani,Cagla Buyukakcay,6-2 7-6(2),0.85,1.6%,1.6%,67.2%,56.1%,30.0%,25.0% (2/8),46.0%,44.7%,0.0%,43.3%,55.6%,66.7% (4/6),
 6-Jul-2015,Bursa $50K,3,Clay,R32,140,273,0,2,,Anastasia Pivovarova,Cagla Buyukakcay,2-6 6-4 6-2,,,,,,,,,,,,,,
 29-Jun-2015,Stuttgart Vaihingen $25K,3,Clay,R16,140,234,0,1,,Reka Luca Jani,Cagla Buyukakcay,2-6 6-3 6-2,,,,,,,,,,,,,,
 29-Jun-2015,Stuttgart Vaihingen $25K,3,Clay,R32,140,,1,1,WC,Cagla Buyukakcay,Anna Gabric,6-1 6-4,,,,,,,,,,,,,,

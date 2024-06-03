@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 2-Apr-2018,Jackson MS $25K,3,Clay,R16,321,571,0,,Q,Whitney Osuigwe,Aleksandra Wozniak,6-4 6-2,,,,,,,,,,,,,,
 2-Apr-2018,Jackson MS $25K,3,Clay,R32,321,,1,,WC,Aleksandra Wozniak,Emma Roberts,6-1 6-1,,,,,,,,,,,,,,
 12-Mar-2018,Irapuato $25K,3,Hard,R32,325,254,0,,8,Usue Maitane Arconada,Aleksandra Wozniak,7-5 4-6 6-3,,,,,,,,,,,,,,
@@ -78,7 +78,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Aug-2014,US Open,5,Hard,R128,97,33,0,,31,Kurumi Nara,Aleksandra Wozniak,6-2 6-1,,,,,,,,,,,,,,
 18-Aug-2014,New Haven,3,Hard,Q2,97,71,0,,,Silvia Soler Espinosa,Aleksandra Wozniak,6-2 7-6(1),0.78,1.8%,7.0%,57.9%,60.6%,54.2%,40.0% (2/5),43.8%,32.9%,4.1%,26.3%,40.0%,16.7% (1/6),
 18-Aug-2014,New Haven,3,Hard,Q1,97,52,1,,,Aleksandra Wozniak,Varvara Lepchenko,6-2 3-6 7-6(5),1.08,0.9%,8.3%,67.0%,63.0%,44.4%,37.5% (3/8),51.9%,46.4%,0.0%,45.3%,48.5%,50.0% (5/10),
-4-Aug-2014,Montreal,3,Hard,R64,97,20,0,WC,,Sloane Stephens,Aleksandra Wozniak,6-3 6-0 (ch),0.68,2.3%,11.4%,56.8%,60.0%,31.6%,42.9% (3/7),41.0%,35.7%,8.9%,26.3%,55.6%,0.0% (0/3),
+4-Aug-2014,Montreal,3,Hard,R64,97,20,0,WC,,Sloane Stephens,Aleksandra Wozniak,6-3 6-0,0.68,2.3%,11.4%,56.8%,60.0%,31.6%,42.9% (3/7),41.0%,35.7%,8.9%,26.3%,55.6%,0.0% (0/3),
 28-Jul-2014,Stanford,3,Hard,Q2,101,193,0,,,Sachia Vickery,Aleksandra Wozniak,6-4 6-1,0.63,0.0%,16.0%,48.0%,54.2%,26.9%,14.3% (1/7),38.9%,37.8%,4.4%,40.0%,33.3%,33.3% (2/6),
 28-Jul-2014,Stanford,3,Hard,Q1,101,,1,,,Aleksandra Wozniak,Caroline Doyle,7-5 6-3,1.38,3.3%,6.7%,53.3%,68.8%,57.1%,40.0% (2/5),56.6%,50.7%,2.9%,39.1%,73.9%,50.0% (5/10),
 23-Jun-2014,Wimbledon,5,Grass,R128,117,10,0,Q,10,Dominika Cibulkova,Aleksandra Wozniak,6-1 6-2,0.59,10.0%,6.0%,60.0%,56.7%,35.0%,55.6% (5/9),39.4%,30.6%,4.1%,24.4%,62.5%,- (0/0),
@@ -133,7 +133,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Aug-2012,Montreal,3,Hard,R16,55,26,1,WC,,Aleksandra Wozniak,Christina Mchale,7-6(5) 6-3,1.19,2.8%,4.2%,65.3%,61.7%,56.0%,70.0% (7/10),53.8%,47.9%,11.0%,40.4%,61.5%,62.5% (5/8),
 6-Aug-2012,Montreal,3,Hard,R32,55,18,1,WC,13,Aleksandra Wozniak,Jelena Jankovic,6-2 6-3,1.42,0.0%,3.3%,53.3%,71.9%,53.6%,80.0% (4/5),57.3%,52.1%,1.4%,43.9%,63.3%,40.0% (4/10),
 6-Aug-2012,Montreal,3,Hard,R64,55,35,1,WC,,Aleksandra Wozniak,Daniela Hantuchova,7-5 7-6(5),1.16,2.3%,9.2%,69.0%,55.0%,44.4%,33.3% (3/9),53.6%,56.1%,0.0%,52.5%,61.5%,87.5% (7/8),
-30-Jul-2012,Olympics,3,Grass,R32,52,72,0,,,Venus Williams,Aleksandra Wozniak,6-1 6-3 (ch),0.62,3.6%,8.9%,55.4%,45.2%,36.0%,25.0% (2/8),39.0%,36.4%,11.4%,26.7%,57.1%,50.0% (2/4),
+30-Jul-2012,Olympics,3,Grass,R32,52,72,0,,,Venus Williams,Aleksandra Wozniak,6-1 6-3,0.62,3.6%,8.9%,55.4%,45.2%,36.0%,25.0% (2/8),39.0%,36.4%,11.4%,26.7%,57.1%,50.0% (2/4),
 30-Jul-2012,Olympics,3,Grass,R64,52,53,1,,,Aleksandra Wozniak,Marina Erakovic,6-2 6-1,1.58,3.4%,8.6%,62.1%,80.6%,50.0%,100.0% (4/4),59.6%,49.0%,7.8%,33.3%,60.0%,50.0% (4/8),
 25-Jun-2012,Wimbledon,5,Grass,R64,56,27,0,,25,Jie Zheng,Aleksandra Wozniak,6-4 6-2,0.76,3.0%,6.0%,64.2%,51.2%,41.7%,66.7% (10/15),44.0%,39.7%,1.7%,39.5%,40.0%,50.0% (2/4),
 25-Jun-2012,Wimbledon,5,Grass,R128,56,94,1,,,Aleksandra Wozniak,Vera Dushevina,6-2 7-5,1.33,3.1%,0.0%,65.6%,76.2%,36.4%,60.0% (3/5),56.0%,50.0%,7.1%,42.9%,66.7%,62.5% (5/8),

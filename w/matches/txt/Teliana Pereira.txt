@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 7-Feb-2020,Fed Cup QLS R1: GER vs BRA,3,Clay,RR,359,73,0,,,Laura Siegemund,Teliana Pereira,6-3 6-3,0.63,1.8%,8.9%,60.7%,44.1%,40.9%,28.6% (2/7),39.6%,36.0%,4.0%,29.7%,53.8%,66.7% (2/3),1:36
 20-Jan-2020,W25 Vero Beach FL,3,Clay,Q1,374,,0,11,WC,Ashlyn Krueger,Teliana Pereira,4-6 6-4 RET,,,,,,,,,,,,,,
 13-Jan-2020,W25 Daytona Beach FL,3,Clay,R32,373,390,0,Q,Q,Andrea Lazaro Garcia,Teliana Pereira,7-6(0) 7-5,,,,,,,,,,,,,,
@@ -93,7 +93,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Apr-2017,Charleston,3,Clay,Q1,204,282,0,13,,Fanny Stollar,Teliana Pereira,6-1 6-0,0.60,0.0%,7.9%,55.3%,42.9%,29.4%,37.5% (3/8),37.6%,38.1%,14.3%,31.3%,45.2%,0.0% (0/5),1:07
 6-Mar-2017,Sao Paulo $25K,3,Clay,R16,184,374,0,2,,Vanda Lukacs,Teliana Pereira,1-6 6-2 6-2,,,,,,,,,,,,,,
 6-Mar-2017,Sao Paulo $25K,3,Clay,R32,184,1236,1,2,Q,Teliana Pereira,Mariana Correa,6-2 6-2,,,,,,,,,,,,,,
-27-Feb-2017,Curitiba $25K,3,Clay,R32,183,853,0,2,JE,Anastasia Potapova,Teliana Pereira,7-6(5) 6-2 (ch),,,,,,,,,,,,,,
+27-Feb-2017,Curitiba $25K,3,Clay,R32,183,853,0,2,JE,Anastasia Potapova,Teliana Pereira,7-6(5) 6-2,,,,,,,,,,,,,,
 10-Feb-2017,Fed Cup G1 RR: ARG vs BRA,3,Hard,RR,189,208,1,,,Teliana Pereira,Catalina Pella,3-6 6-4 6-2,1.22,0.0%,6.9%,69.0%,71.7%,40.7%,33.3% (2/6),53.9%,46.2%,0.0%,32.6%,59.6%,45.5% (5/11),1:58
 10-Feb-2017,Fed Cup G1 RR: BRA vs CHI,3,Hard,RR,189,234,0,,,Daniela Seguel,Teliana Pereira,7-5 7-5,0.92,0.0%,7.8%,68.8%,54.7%,37.5%,33.3% (3/9),47.9%,46.6%,0.0%,44.6%,52.2%,23.5% (4/17),1:54
 10-Feb-2017,Fed Cup G1 RR: BRA vs COL,3,Hard,RR,189,113,0,,,Mariana Duque Marino,Teliana Pereira,6-4 6-1,0.77,1.8%,12.3%,50.9%,55.2%,21.4%,30.0% (3/10),43.3%,47.1%,0.0%,45.8%,50.0%,23.1% (3/13),1:19
@@ -115,7 +115,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2016,Contrexeville $100K,3,Clay,R16,88,147,0,1,,Oceane Dodin,Teliana Pereira,5-7 6-2 7-6(4),,,,,,,,,,,,,,
 4-Jul-2016,Contrexeville $100K,3,Clay,R32,88,319,1,1,,Teliana Pereira,Irina Ramialison,7-5 6-4,,,,,,,,,,,,,,
 27-Jun-2016,Wimbledon,5,Grass,R128,88,64,0,,,Varvara Lepchenko,Teliana Pereira,5-7 7-6(3) 6-2,0.88,0.9%,1.9%,59.3%,68.8%,43.2%,54.5% (6/11),47.1%,36.5%,4.3%,32.9%,43.6%,30.8% (4/13),2:28
-23-May-2016,Roland Garros,5,Clay,R64,81,1,0,,1,Serena Williams,Teliana Pereira,6-2 6-1 (ch),0.44,1.6%,0.0%,72.6%,46.7%,35.3%,45.5% (5/11),36.7%,25.0%,13.9%,12.5%,50.0%,100.0% (1/1),1:06
+23-May-2016,Roland Garros,5,Clay,R64,81,1,0,,1,Serena Williams,Teliana Pereira,6-2 6-1,0.44,1.6%,0.0%,72.6%,46.7%,35.3%,45.5% (5/11),36.7%,25.0%,13.9%,12.5%,50.0%,100.0% (1/1),1:06
 23-May-2016,Roland Garros,5,Clay,R128,81,109,1,,,Teliana Pereira,Kristyna Pliskova,7-5 3-6 9-7,1.03,1.7%,1.7%,78.5%,63.2%,53.8%,61.5% (8/13),51.3%,40.2%,14.0%,31.1%,52.2%,62.5% (5/8),2:26
 16-May-2016,Nurnberg,3,Clay,R32,81,42,0,,3,Annika Beck,Teliana Pereira,6-0 6-4,0.70,0.0%,0.0%,73.5%,47.2%,23.1%,14.3% (1/7),41.3%,41.6%,0.0%,39.7%,55.6%,16.7% (2/12),1:36
 9-May-2016,Rome,3,Clay,R32,90,11,0,,8,Carla Suarez Navarro,Teliana Pereira,6-1 7-5,0.67,0.0%,0.0%,74.1%,44.2%,40.0%,33.3% (3/9),40.5%,37.9%,0.0%,28.6%,52.2%,42.9% (3/7),1:28
@@ -124,7 +124,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Apr-2016,Rabat,3,Clay,R16,84,69,0,,,Johanna Larsson,Teliana Pereira,6-4 6-4,0.82,1.4%,4.1%,65.8%,50.0%,44.0%,50.0% (6/12),45.4%,42.6%,0.0%,27.9%,68.0%,44.4% (4/9),1:52
 25-Apr-2016,Rabat,3,Clay,R32,84,41,1,,6,Teliana Pereira,Annika Beck,6-3 6-1,1.47,2.2%,0.0%,78.3%,50.0%,80.0%,40.0% (2/5),60.6%,63.8%,0.0%,63.0%,66.7%,43.8% (7/16),1:10
 11-Apr-2016,Bogota,3,Clay,R32,55,274,0,2,Q,Catalina Pella,Teliana Pereira,3-6 6-3 7-6(3),0.93,1.0%,5.0%,68.3%,62.3%,40.6%,50.0% (5/10),48.3%,41.3%,4.8%,31.3%,57.5%,41.7% (5/12),2:20
-4-Apr-2016,Charleston,3,Clay,R64,49,89,0,,,Bethanie Mattek Sands,Teliana Pereira,5-7 6-3 6-2 (ch),0.79,1.0%,2.0%,72.7%,51.4%,40.7%,58.8% (10/17),44.6%,41.0%,1.9%,45.0%,35.6%,45.5% (5/11),2:27
+4-Apr-2016,Charleston,3,Clay,R64,49,89,0,,,Bethanie Mattek Sands,Teliana Pereira,5-7 6-3 6-2,0.79,1.0%,2.0%,72.7%,51.4%,40.7%,58.8% (10/17),44.6%,41.0%,1.9%,45.0%,35.6%,45.5% (5/11),2:27
 21-Mar-2016,Miami,3,Hard,R64,50,17,0,,16,Ana Ivanovic,Teliana Pereira,6-3 6-0,0.57,0.0%,5.8%,59.6%,41.9%,23.8%,41.7% (5/12),35.9%,37.5%,2.5%,33.3%,50.0%,66.7% (2/3),1:01
 21-Mar-2016,Miami,3,Hard,R128,50,264,1,,WC,Teliana Pereira,Beatriz Haddad Maia,7-6(2) 6-1,1.48,1.4%,1.4%,62.9%,65.9%,65.4%,83.3% (5/6),58.8%,50.8%,1.6%,44.7%,60.9%,57.1% (4/7),1:35
 14-Mar-2016,San Antonio,3,Hard,R32,50,110,0,5,,Kiki Bertens,Teliana Pereira,6-3 6-3,0.65,1.6%,4.9%,70.5%,58.1%,33.3%,50.0% (4/8),42.3%,32.0%,8.0%,32.0%,32.0%,33.3% (1/3),1:11
@@ -133,11 +133,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Feb-2016,Fed Cup G1 RR: ARG vs BRA,3,Clay,RR,44,199,1,,,Teliana Pereira,Maria Irigoyen,6-0 6-0,,,,,,,,,,,,,,
 3-Feb-2016,Fed Cup G1 RR: BRA vs PER,3,Clay,RR,44,,1,,,Teliana Pereira,Dominique Schaefer,6-1 6-2,,,,,,,,,,,,,,
 18-Jan-2016,Australian Open,5,Hard,R128,46,40,0,,,Monica Niculescu,Teliana Pereira,6-2 6-1,0.59,0.0%,2.6%,55.3%,47.6%,23.5%,0.0% (0/5),37.0%,37.0%,11.1%,28.0%,44.8%,50.0% (1/2),1:15
-11-Jan-2016,Hobart,3,Hard,R32,46,53,0,,,Heather Watson,Teliana Pereira,6-3 6-0 (ch),0.66,0.0%,2.4%,68.3%,50.0%,23.1%,0.0% (0/5),39.6%,38.6%,10.0%,28.9%,56.0%,8.3% (1/12),1:13
-4-Jan-2016,Brisbane,3,Hard,R32,46,24,0,,,Andrea Petkovic,Teliana Pereira,6-1 6-2 (ch),0.68,0.0%,2.3%,67.4%,48.3%,21.4%,28.6% (2/7),40.7%,41.3%,5.3%,32.1%,68.4%,9.1% (1/11),1:18
+11-Jan-2016,Hobart,3,Hard,R32,46,53,0,,,Heather Watson,Teliana Pereira,6-3 6-0,0.66,0.0%,2.4%,68.3%,50.0%,23.1%,0.0% (0/5),39.6%,38.6%,10.0%,28.9%,56.0%,8.3% (1/12),1:13
+4-Jan-2016,Brisbane,3,Hard,R32,46,24,0,,,Andrea Petkovic,Teliana Pereira,6-1 6-2,0.68,0.0%,2.3%,67.4%,48.3%,21.4%,28.6% (2/7),40.7%,41.3%,5.3%,32.1%,68.4%,9.1% (1/11),1:18
 12-Oct-2015,Tianjin,3,Hard,R16,46,75,0,6,,Danka Kovinic,Teliana Pereira,6-2 5-7 6-1,,,,,,,,,,,,,,
 12-Oct-2015,Tianjin,3,Hard,R32,46,78,1,6,,Teliana Pereira,Nao Hibino,7-5 6-2,,,,,,,,,,,,,,
-5-Oct-2015,Beijing,3,Hard,R32,52,7,0,,3,Flavia Pennetta,Teliana Pereira,3-6 6-0 6-4 (ch),,,,,,,,,,,,,,
+5-Oct-2015,Beijing,3,Hard,R32,52,7,0,,3,Flavia Pennetta,Teliana Pereira,3-6 6-0 6-4,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R64,52,57,1,,,Teliana Pereira,Alexandra Dulgheru,7-5 6-2,,,,,,,,,,,,,,
 28-Sep-2015,Wuhan,3,Hard,R64,51,37,0,,,Daria Saville,Teliana Pereira,6-2 7-6(7),,,,,,,,,,,,,,
 14-Sep-2015,Saint Malo $50K,3,Clay,QF,49,100,0,1,5,Laura Siegemund,Teliana Pereira,7-6(4) 6-4,,,,,,,,,,,,,,
@@ -148,13 +148,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Sep-2015,Biarritz $100K,3,Clay,R16,54,212,1,2,,Teliana Pereira,Reka Luca Jani,3-6 6-4 6-4,,,,,,,,,,,,,,
 7-Sep-2015,Biarritz $100K,3,Clay,R32,54,247,1,2,,Teliana Pereira,Natalia Vikhlyantseva,6-7(5) 6-1 6-1,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,54,13,0,,13,Kate Makarova,Teliana Pereira,6-3 6-3,0.73,3.7%,3.7%,64.8%,48.6%,36.8%,28.6% (2/7),42.2%,40.3%,3.2%,27.5%,63.6%,40.0% (2/5),
-27-Jul-2015,Florianopolis,3,Clay,F,78,68,1,4,3,Teliana Pereira,Annika Beck,6-4 4-6 6-1 (ch),1.07,0.9%,0.0%,82.0%,60.4%,45.0%,71.4% (10/14),52.3%,45.5%,1.1%,47.9%,35.3%,66.7% (6/9),
-27-Jul-2015,Florianopolis,3,Clay,SF,78,188,1,4,,Teliana Pereira,Anastasija Sevastova,6-3 7-5 (ch),1.33,1.7%,1.7%,75.9%,61.4%,57.1%,33.3% (2/6),56.6%,52.7%,0.0%,54.1%,50.0%,60.0% (6/10),
+27-Jul-2015,Florianopolis,3,Clay,F,78,68,1,4,3,Teliana Pereira,Annika Beck,6-4 4-6 6-1,1.07,0.9%,0.0%,82.0%,60.4%,45.0%,71.4% (10/14),52.3%,45.5%,1.1%,47.9%,35.3%,66.7% (6/9),
+27-Jul-2015,Florianopolis,3,Clay,SF,78,188,1,4,,Teliana Pereira,Anastasija Sevastova,6-3 7-5,1.33,1.7%,1.7%,75.9%,61.4%,57.1%,33.3% (2/6),56.6%,52.7%,0.0%,54.1%,50.0%,60.0% (6/10),
 27-Jul-2015,Florianopolis,3,Clay,QF,78,128,1,4,7,Teliana Pereira,Laura Siegemund,6-3 7-5,1.23,0.0%,0.0%,77.1%,64.8%,50.0%,50.0% (3/6),54.1%,47.4%,1.3%,50.0%,40.0%,38.5% (5/13),
 27-Jul-2015,Florianopolis,3,Clay,R16,78,135,1,4,,Teliana Pereira,Risa Ozaki,6-4 6-1,1.60,0.0%,0.0%,92.7%,65.8%,66.7%,0.0% (0/2),59.4%,54.5%,0.0%,59.5%,38.5%,66.7% (6/9),
 27-Jul-2015,Florianopolis,3,Clay,R32,78,147,1,4,,Teliana Pereira,Maria Irigoyen,6-7(3) 6-3 7-5,1.15,0.8%,5.5%,81.9%,56.7%,56.5%,66.7% (12/18),53.9%,50.0%,0.0%,49.3%,52.2%,100.0% (8/8),
 20-Jul-2015,Bad Gastein,3,Clay,R32,80,77,0,,,Annika Beck,Teliana Pereira,5-2 RET,0.96,0.0%,9.7%,80.6%,40.0%,50.0%,55.6% (5/9),48.2%,56.0%,0.0%,55.0%,60.0%,66.7% (2/3),
-13-Jul-2015,Bucharest,3,Clay,R16,83,41,0,,3,Monica Niculescu,Teliana Pereira,6-2 6-3 (ch),0.73,0.0%,1.8%,80.7%,54.3%,63.6%,62.5% (5/8),42.9%,31.9%,1.4%,31.4%,33.3%,0.0% (0/9),
+13-Jul-2015,Bucharest,3,Clay,R16,83,41,0,,3,Monica Niculescu,Teliana Pereira,6-2 6-3,0.73,0.0%,1.8%,80.7%,54.3%,63.6%,62.5% (5/8),42.9%,31.9%,1.4%,31.4%,33.3%,0.0% (0/9),
 13-Jul-2015,Bucharest,3,Clay,R32,83,133,1,,,Teliana Pereira,Kristina Kucova,6-3 6-7(4) 7-6(6),1.04,0.0%,1.4%,84.8%,56.1%,54.5%,68.4% (13/19),51.8%,46.0%,0.0%,45.0%,47.5%,63.6% (7/11),
 6-Jul-2015,Contrexeville $100K,3,Clay,SF,77,60,0,5,1,Alexandra Dulgheru,Teliana Pereira,6-0 6-3,,,,,,,,,,,,,,
 6-Jul-2015,Contrexeville $100K,3,Clay,QF,77,104,1,5,,Teliana Pereira,Stefanie Voegele,7-6(4) 6-4,,,,,,,,,,,,,,
@@ -176,7 +176,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Apr-2015,Marrakech,3,Clay,Q3,81,112,1,2,5,Teliana Pereira,Urszula Radwanska,6-3 6-2,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q2,81,171,1,2,,Teliana Pereira,Marina Melnikova,6-2 6-2,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q1,81,275,1,2,,Teliana Pereira,Sanaz Marand,6-2 6-0,,,,,,,,,,,,,,
-13-Apr-2015,Bogota,3,Clay,F,130,75,1,,5,Teliana Pereira,Yaroslava Shvedova,7-6(2) 6-1 (ch),1.46,5.4%,3.6%,78.6%,65.9%,58.3%,62.5% (5/8),57.9%,52.3%,3.1%,51.2%,54.5%,60.0% (6/10),
+13-Apr-2015,Bogota,3,Clay,F,130,75,1,,5,Teliana Pereira,Yaroslava Shvedova,7-6(2) 6-1,1.46,5.4%,3.6%,78.6%,65.9%,58.3%,62.5% (5/8),57.9%,52.3%,3.1%,51.2%,54.5%,60.0% (6/10),
 13-Apr-2015,Bogota,3,Clay,SF,130,27,1,,1,Teliana Pereira,Elina Svitolina,7-6(7) 6-3,0.97,3.6%,1.2%,81.0%,61.8%,87.5%,83.3% (5/6),51.7%,32.3%,1.5%,27.3%,37.5%,40.0% (2/5),
 13-Apr-2015,Bogota,3,Clay,QF,130,120,1,,,Teliana Pereira,Lourdes Dominguez Lino,6-0 6-4,1.55,1.9%,1.9%,77.4%,61.0%,50.0%,66.7% (6/9),61.1%,64.3%,0.0%,64.5%,63.6%,70.0% (7/10),
 13-Apr-2015,Bogota,3,Clay,R16,130,195,1,,Q,Teliana Pereira,Mandy Minella,7-5 7-5,1.14,1.1%,3.4%,75.0%,59.1%,50.0%,55.6% (5/9),53.3%,49.4%,0.0%,46.9%,58.8%,54.5% (6/11),
@@ -215,7 +215,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Jul-2014,Biarritz 100K,3,Clay,R32,102,391,1,2,SR,Teliana Pereira,Ana Savic,3-6 7-6(4) 6-3,,,,,,,,,,,,,,
 30-Jun-2014,Contrexeville 100K,3,Clay,R16,88,192,0,7,,Melanie Oudin,Teliana Pereira,5-7 6-4 7-6(2),,,,,,,,,,,,,,
 30-Jun-2014,Contrexeville 100K,3,Clay,R32,88,132,1,7,,Teliana Pereira,Maryna Zanevska,6-1 6-4,,,,,,,,,,,,,,
-23-Jun-2014,Wimbledon,5,Grass,R128,88,3,0,,3,Simona Halep,Teliana Pereira,6-2 6-2 (ch),0.42,2.9%,1.5%,70.6%,50.0%,50.0%,69.2% (9/13),38.7%,20.9%,7.0%,15.4%,29.4%,- (0/0),
+23-Jun-2014,Wimbledon,5,Grass,R128,88,3,0,,3,Simona Halep,Teliana Pereira,6-2 6-2,0.42,2.9%,1.5%,70.6%,50.0%,50.0%,69.2% (9/13),38.7%,20.9%,7.0%,15.4%,29.4%,- (0/0),
 16-Jun-2014,Eastbourne,3,Grass,Q1,91,50,0,,,Karolina Pliskova,Teliana Pereira,7-5 6-7(5) 6-3,0.87,15.1%,4.7%,60.4%,68.8%,45.2%,69.2% (9/13),47.2%,35.5%,12.7%,30.3%,47.1%,22.2% (2/9),
 9-Jun-2014,Birmingham,3,Grass,R64,91,42,0,,11,Madison Keys,Teliana Pereira,6-3 6-3,0.65,0.0%,4.0%,70.0%,62.9%,46.7%,57.1% (4/7),41.9%,27.3%,7.3%,15.2%,45.5%,0.0% (0/1),
 2-Jun-2014,Marseille 100K,3,Clay,R16,94,412,0,2,SR,Evgeniya Rodina,Teliana Pereira,6-3 6-3,,,,,,,,,,,,,,

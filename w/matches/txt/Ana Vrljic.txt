@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 13-May-2019,W25 Obidos,3,Carpet,R32,479,339,0,,,Maria Sanchez,Ana Vrljic,6-4 6-0,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,R32,470,237,0,Q,,Olga Doroshina,Ana Vrljic,5-7 6-4 6-2,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,Q2,470,,1,,,Ana Vrljic,Selin Ovunc,6-4 5-7 [10-2],,,,,,,,,,,,,,
@@ -146,7 +146,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Feb-2015,Saint Petersburg $50K,3,Hard,QF,223,220,0,,,Patricia Maria Tig,Ana Vrljic,6-1 6-1,,,,,,,,,,,,,,
 23-Feb-2015,Saint Petersburg $50K,3,Hard,R16,223,123,1,,4,Ana Vrljic,Kristyna Pliskova,7-6(5) 6-7(7) 3-0 RET,,,,,,,,,,,,,,
 23-Feb-2015,Saint Petersburg $50K,3,Hard,R32,223,184,1,,,Ana Vrljic,Margarita Gasparyan,7-5 5-7 7-6(0),,,,,,,,,,,,,,
-16-Feb-2015,Altenkirchen $25K,3,Carpet,QF,220,146,0,7,3,Oceane Dodin,Ana Vrljic,6-3 6-2 (ch),,,,,,,,,,,,,,
+16-Feb-2015,Altenkirchen $25K,3,Carpet,QF,220,146,0,7,3,Oceane Dodin,Ana Vrljic,6-3 6-2,,,,,,,,,,,,,,
 16-Feb-2015,Altenkirchen $25K,3,Carpet,R16,220,448,1,7,Q,Ana Vrljic,Anna Klasen,0-6 6-1 7-5,,,,,,,,,,,,,,
 16-Feb-2015,Altenkirchen $25K,3,Carpet,R32,220,243,1,7,,Ana Vrljic,Tereza Martincova,2-6 6-3 6-4,,,,,,,,,,,,,,
 26-Jan-2015,Andrezieux Boutheon $25K,3,Hard,SF,222,207,0,,,Elitsa Kostova,Ana Vrljic,6-1 6-1,,,,,,,,,,,,,,

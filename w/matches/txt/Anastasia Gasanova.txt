@@ -1,4 +1,58 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W50 Goyang,3,Hard,R32,511,348,0,Q,,Naho Sato,Anastasia Gasanova,6-2 6-4,,,,,,,,,,,,,,
+20-May-2024,W50 Goyang,3,Hard,Q2,511,387,1,9,3,Anastasia Gasanova,Peangtarn Plipuech,6-0 6-2,,,,,,,,,,,,,,
+20-May-2024,W50 Goyang,3,Hard,Q1,511,731,1,9,,Anastasia Gasanova,Meiqi Guo,4-6 6-2 6-4,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,SF,541,226,0,,2,Lanlana Tararudee,Anastasia Gasanova,7-5 0-6 6-4,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,QF,541,446,1,,,Anastasia Gasanova,Xinxin Yao,6-4 7-6(4),,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,R16,541,451,1,,,Anastasia Gasanova,Anastasia Kovaleva,7-5 6-3,,,,,,,,,,,,,,
+22-Apr-2024,W50 Wuning,3,Hard,R32,541,304,1,,3,Anastasia Gasanova,Sohyun Park,6-1 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R32,533,209,0,,4,Xiaodi You,Anastasia Gasanova,6-7(2) 6-1 7-5,,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,R16,473,914,0,8,Q,Ekaterina Kazionova,Anastasia Gasanova,3-6 7-5 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,R32,473,,1,8,Q,Anastasia Gasanova,Abhilasha Bista,6-3 6-0,,,,,,,,,,,,,,
+29-Jan-2024,W35 Sharm ElSheikh,3,Hard,QF,468,452,0,,,Mariam Bolkvadze,Anastasia Gasanova,6-2 7-5,,,,,,,,,,,,,,
+29-Jan-2024,W35 Sharm ElSheikh,3,Hard,R16,468,324,1,,5,Anastasia Gasanova,Linda Klimovicova,6-4 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W35 Sharm ElSheikh,3,Hard,R32,468,1189,1,,Q,Anastasia Gasanova,Maria Kalyakina,6-2 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W35 Monastir,3,Hard,QF,464,301,0,,8,Leyre Romero Gormaz,Anastasia Gasanova,6-2 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W35 Monastir,3,Hard,R16,464,266,1,,4,Anastasia Gasanova,Xinyu Gao,6-3 6-2,,,,,,,,,,,,,,
+22-Jan-2024,W35 Monastir,3,Hard,R32,464,344,1,,,Anastasia Gasanova,Lisa Pigato,7-5 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,R16,464,784,0,,Q,Anastasia Sukhotina,Anastasia Gasanova,5-5 RET,,,,,,,,,,,,,,
+30-Oct-2023,W25 Monastir,3,Hard,R32,464,349,1,,8,Anastasia Gasanova,Polina Iatcenko,6-3 7-6(2),,,,,,,,,,,,,,
+23-Oct-2023,W25 Istanbul,3,Hard,R16,464,591,0,,LL,Ekaterina Ovcharenko,Anastasia Gasanova,2-6 6-2 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W25 Istanbul,3,Hard,R32,464,226,1,,3,Anastasia Gasanova,Dalila Jakupovic,6-2 6-7(5) 7-6(5),,,,,,,,,,,,,,
+25-Sep-2023,W40 Kursumlijska Banja,3,Clay,R64,450,352,0,,,Dominika Salkova,Anastasia Gasanova,4-6 6-4 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W40 Pazardzhik,3,Clay,R32,394,307,0,,8,Mia Ristic,Anastasia Gasanova,3-6 6-2 6-4,,,,,,,,,,,,,,
+28-Aug-2023,W25 Trieste,3,Clay,R32,338,546,0,3,Q,Jennifer Ruggeri,Anastasia Gasanova,7-5 6-1,,,,,,,,,,,,,,
+26-Jun-2023,W25 Hong Kong,3,Hard,QF,310,414,0,7,,Ya Yi Yang,Anastasia Gasanova,3-5 RET,,,,,,,,,,,,,,
+26-Jun-2023,W25 Hong Kong,3,Hard,R16,310,901,1,7,Q,Anastasia Gasanova,Akiko Omae,3-6 6-2 6-0,,,,,,,,,,,,,,
+26-Jun-2023,W25 Hong Kong,3,Hard,R32,310,460,1,7,,Anastasia Gasanova,Polina Iatcenko,6-2 6-4,,,,,,,,,,,,,,
+5-Jun-2023,W40 La Marsa,3,Hard,QF,267,352,0,2,7,Jana Kolodynska,Anastasia Gasanova,6-4 6-3,,,,,,,,,,,,,,
+5-Jun-2023,W40 La Marsa,3,Hard,R16,267,384,1,2,,Anastasia Gasanova,Angelica Moratelli,6-3 3-1 RET,,,,,,,,,,,,,,
+5-Jun-2023,W40 La Marsa,3,Hard,R32,267,371,1,2,,Anastasia Gasanova,Isabella Shinikova,7-5 6-2,,,,,,,,,,,,,,
+29-May-2023,W25 La Marsa,3,Hard,F,267,386,0,1,,Rutuja Bhosale,Anastasia Gasanova,0-6 6-3 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 La Marsa,3,Hard,SF,267,326,1,1,4,Anastasia Gasanova,Sijia Wei,6-2 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 La Marsa,3,Hard,QF,267,563,1,1,SE,Anastasia Gasanova,Taylah Preston,6-4 6-2,,,,,,,,,,,,,,
+29-May-2023,W25 La Marsa,3,Hard,R16,267,409,1,1,,Anastasia Gasanova,Emeline Dartron,6-3 6-1,,,,,,,,,,,,,,
+29-May-2023,W25 La Marsa,3,Hard,R32,267,640,1,1,Q,Anastasia Gasanova,Maria Kozyreva,6-3 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,QF,253,216,0,2,6,Sonay Kartal,Anastasia Gasanova,6-4 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,253,703,1,2,Q,Anastasia Gasanova,Georgia Pedone,6-0 7-6(2),,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,253,953,1,2,WC,Anastasia Gasanova,Federica Urgesi,6-3 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,250,247,0,,5,Miriam Bianca Bulgaru,Anastasia Gasanova,6-3 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,SF,273,169,0,,3,Sara Bejlek,Anastasia Gasanova,4-6 6-3 6-4,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,QF,273,276,1,,,Anastasia Gasanova,Dominika Salkova,6-1 6-3,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,R16,273,180,1,,6,Anastasia Gasanova,Nigina Abduraimova,6-0 6-0,,,,,,,,,,,,,,
+3-Apr-2023,W40 Split,3,Clay,R32,273,262,1,,,Anastasia Gasanova,Nina Potocnik,6-1 6-4,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,Q2,252,512,0,1,,Ella Seidel,Anastasia Gasanova,6-3 1-6 7-5,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,Q1,252,546,1,1,,Anastasia Gasanova,Jasmijn Gimbrere,5-7 6-3 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,Q2,250,371,0,1,11,Sofya Lansere,Anastasia Gasanova,6-2 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,Q1,250,,1,1,WC,Anastasia Gasanova,Dana Baidaulet,6-0 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,QF,263,390,0,,Q,Maria Bondarenko,Anastasia Gasanova,6-4 6-3,,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,R16,263,134,1,,1,Anastasia Gasanova,Ylena In Albon,4-6 6-0 6-1,,,,,,,,,,,,,,
+6-Feb-2023,W40 Porto,3,Hard,R32,263,211,1,,,Anastasia Gasanova,Sakura Hosogi,6-3 4-6 7-6(5),,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,262,323,0,,JE,Celine Naef,Anastasia Gasanova,4-6 6-4 6-3,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,254,182,0,,,Polina Kudermetova,Anastasia Gasanova,6-1 4-6 6-2,0.84,1.1%,4.6%,69.0%,53.3%,40.7%,30.0% (3/10),46.1%,42.5%,3.8%,27.3%,61.1%,75.0% (3/4),2:08
+2-Jan-2023,W60 Canberra,3,Hard,R32,218,186,0,Q,Q,Yuriko Miyazaki,Anastasia Gasanova,6-3 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,Q2,218,311,1,,WC,Anastasia Gasanova,Destanee Aiava,3-6 6-3 7-6(4),,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,Q1,218,207,1,,15,Anastasia Gasanova,Sonay Kartal,7-5 6-4,,,,,,,,,,,,,,
 10-Oct-2022,Cluj Napoca,3,Hard,Q1,154,98,0,,4,Tamara Korpatsch,Anastasia Gasanova,1-6 6-2 6-3,0.94,0.0%,10.4%,68.7%,41.3%,47.6%,27.3% (3/11),48.6%,53.1%,2.5%,45.1%,66.7%,43.8% (7/16),1:54
 19-Sep-2022,Seoul,3,Hard,R16,141,19,0,,1,Jelena Ostapenko,Anastasia Gasanova,6-3 5-7 7-5,0.95,5.8%,10.6%,62.5%,58.5%,43.6%,53.3% (8/15),48.5%,44.8%,2.4%,36.2%,55.4%,42.9% (6/14),2:35
 19-Sep-2022,Seoul,3,Hard,R32,141,206,1,,Q,Anastasia Gasanova,Astra Sharma,7-5 7-5,1.16,0.0%,5.3%,68.4%,71.2%,50.0%,71.4% (5/7),53.0%,41.1%,4.1%,36.4%,48.3%,50.0% (4/8),1:56
@@ -8,7 +62,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Aug-2022,W60 Bronx NY,3,Hard,QF,156,123,0,Q,,Mirjam Bjorklund,Anastasia Gasanova,7-5 RET,,,,,,,,,,,,,,
 15-Aug-2022,W60 Bronx NY,3,Hard,R16,156,344,1,Q,Q,Anastasia Gasanova,Kimberly Birrell,6-2 7-5,,,,,,,,,,,,,,
 15-Aug-2022,W60 Bronx NY,3,Hard,R32,156,259,1,Q,WC,Anastasia Gasanova,Jamie Loeb,6-3 6-3,,,,,,,,,,,,,,
-15-Aug-2022,W60 Bronx NY,3,Hard,Q2,156,181,1,6,13,Anastasia Gasanova,Viktoria Kuzmova,6-3 6-2,,,,,,,,,,,,,,
+15-Aug-2022,W60 Bronx NY,3,Hard,Q2,156,181,1,6,13,Anastasia Gasanova,Viktoria Hruncakova,6-3 6-2,,,,,,,,,,,,,,
 15-Aug-2022,W60 Bronx NY,3,Hard,Q1,156,372,1,6,,Anastasia Gasanova,Barbara Haas,6-3 5-7 10-5,,,,,,,,,,,,,,
 8-Aug-2022,Concord 125,3,Hard,R32,153,170,0,,,Caty Mcnally,Anastasia Gasanova,4-6 6-2 6-3,0.83,1.4%,16.9%,60.6%,58.1%,39.3%,33.3% (3/9),45.6%,40.8%,3.9%,30.9%,66.7%,66.7% (4/6),2:00
 18-Jul-2022,Hamburg,3,Clay,Q2,150,165,0,2,8,Joanne Zuger,Anastasia Gasanova,7-6(6) 6-2,0.76,1.3%,6.3%,63.3%,58.0%,34.5%,61.5% (8/13),44.7%,38.7%,1.6%,34.9%,47.4%,60.0% (3/5),1:47
@@ -20,10 +74,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2022,Makarska 125,3,Clay,QF,,,0,,7,Jule Niemeier,Anastasia Gasanova,6-2 7-5,0.76,1.5%,10.3%,64.7%,45.5%,33.3%,58.8% (10/17),43.0%,45.0%,1.7%,28.6%,68.0%,44.4% (4/9),1:40
 30-May-2022,Makarska 125,3,Clay,R16,,,1,,,Anastasia Gasanova,Anastasia Tikhonova,6-7(12) 6-3 6-0,1.16,1.0%,17.5%,48.5%,61.7%,36.0%,58.3% (7/12),54.3%,60.0%,1.0%,50.0%,68.5%,62.5% (10/16),2:36
 30-May-2022,Makarska 125,3,Clay,R32,,,1,,2,Anastasia Gasanova,Lucia Bronzetti,1-6 6-4 7-5,0.97,0.0%,17.9%,56.8%,63.0%,29.3%,58.8% (10/17),49.2%,50.0%,3.3%,35.1%,74.3%,77.8% (7/9),2:38
-23-May-2022,Roland Garros,5,Clay,R128,154,69,0,LL,,Marie Bouzkova,Anastasia Gasanova,6-2 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,154,100,0,,6,Donna Vekic,Anastasia Gasanova,4-6 6-2 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,154,240,1,,,Anastasia Gasanova,Priscilla Hon,6-4 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,154,128,1,,24,Anastasia Gasanova,Zarina Diyas,6-3 6-4,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,154,69,0,LL,,Marie Bouzkova,Anastasia Gasanova,6-2 6-1,0.50,0.0%,6.3%,77.1%,43.2%,45.5%,50.0% (5/10),36.3%,27.9%,2.3%,32.1%,20.0%,50.0% (1/2),
+23-May-2022,Roland Garros,5,Clay,Q3,154,100,0,,6,Donna Vekic,Anastasia Gasanova,4-6 6-2 6-2,0.83,0.0%,9.5%,69.5%,50.7%,46.9%,50.0% (7/14),46.0%,42.1%,5.3%,25.0%,62.8%,26.7% (4/15),
+23-May-2022,Roland Garros,5,Clay,Q2,154,240,1,,,Anastasia Gasanova,Priscilla Hon,6-4 6-3,1.18,0.0%,12.1%,69.0%,65.0%,38.9%,66.7% (6/9),53.7%,50.8%,3.2%,40.5%,65.4%,46.2% (6/13),
+23-May-2022,Roland Garros,5,Clay,Q1,154,128,1,,24,Anastasia Gasanova,Zarina Diyas,6-3 6-4,1.38,1.9%,5.8%,86.5%,66.7%,28.6%,50.0% (3/6),56.2%,52.9%,2.4%,50.8%,60.0%,46.2% (6/13),
 9-May-2022,Paris 125,3,Clay,R16,156,118,0,,7,Claire Liu,Anastasia Gasanova,6-4 6-4,0.84,0.0%,5.9%,70.6%,54.2%,45.0%,37.5% (3/8),46.5%,41.0%,8.2%,30.6%,56.0%,60.0% (3/5),1:43
 9-May-2022,Paris 125,3,Clay,R32,156,144,1,,,Anastasia Gasanova,Tessah Andrianjafitrimo,6-3 6-4,1.29,0.0%,6.6%,72.1%,68.2%,41.2%,57.1% (4/7),55.1%,50.7%,2.7%,44.7%,56.8%,41.7% (5/12),2:05
 11-Apr-2022,W100 Palm Harbor FL,3,Clay,R32,152,196,0,7,,Grace Min,Anastasia Gasanova,6-2 5-7 6-4,,,,,,,,,,,,,,
@@ -35,9 +89,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Feb-2022,Doha,3,Hard,Q1,160,91,0,,15,Claire Liu,Anastasia Gasanova,6-4 6-1,0.79,0.0%,12.1%,72.4%,50.0%,31.3%,45.5% (5/11),44.1%,43.4%,9.4%,27.3%,70.0%,75.0% (3/4),1:23
 14-Feb-2022,Dubai,3,Hard,Q1,155,59,0,,,Elena Gabriela Ruse,Anastasia Gasanova,6-2 7-5,0.79,0.0%,6.3%,67.1%,50.9%,38.5%,60.0% (9/15),44.7%,41.9%,6.5%,27.3%,58.6%,33.3% (3/9),1:44
 7-Feb-2022,St. Petersburg,3,Hard,Q1,126,306,0,,,Ekaterina Kazionova,Anastasia Gasanova,6-4 7-6(7),0.90,1.3%,12.0%,69.3%,67.3%,39.1%,70.0% (7/10),47.7%,37.2%,2.6%,33.3%,43.3%,33.3% (2/6),1:58
-17-Jan-2022,Australian Open,5,Hard,Q1,136,160,0,16,,Viktoria Kuzmova,Anastasia Gasanova,6-2 6-4,0.72,0.0%,14.3%,58.9%,48.5%,34.8%,33.3% (3/9),42.0%,41.1%,7.1%,28.6%,61.9%,42.9% (3/7),1:21
+17-Jan-2022,Australian Open,5,Hard,Q1,136,160,0,16,,Viktoria Hruncakova,Anastasia Gasanova,6-2 6-4,0.72,0.0%,14.3%,58.9%,48.5%,34.8%,33.3% (3/9),42.0%,41.1%,7.1%,28.6%,61.9%,42.9% (3/7),1:21
 3-Jan-2022,Adelaide 1,3,Hard,R16,130,105,0,,,Misaki Doi,Anastasia Gasanova,7-6(4) 6-3,0.82,1.1%,14.9%,62.1%,55.6%,33.3%,50.0% (6/12),45.3%,43.2%,4.1%,36.0%,58.3%,30.8% (4/13),2:02
-3-Jan-2022,Adelaide 1,3,Hard,R32,130,15,1,,8,Anastasia Gasanova,Elina Svitolina,5-7 6-4 6-3 (ch),1.12,4.0%,1.0%,72.7%,59.7%,51.9%,44.4% (4/9),52.4%,47.7%,4.7%,34.9%,65.9%,53.8% (7/13),2:34
+3-Jan-2022,Adelaide 1,3,Hard,R32,130,15,1,,8,Anastasia Gasanova,Elina Svitolina,5-7 6-4 6-3,1.12,4.0%,1.0%,72.7%,59.7%,51.9%,44.4% (4/9),52.4%,47.7%,4.7%,34.9%,65.9%,53.8% (7/13),2:34
 22-Nov-2021,W100+H Dubai,3,Hard,SF,139,183,0,,,Daria Snigur,Anastasia Gasanova,4-6 6-1 6-3,,,,,,,,,,,,,,
 22-Nov-2021,W100+H Dubai,3,Hard,QF,139,144,1,,,Anastasia Gasanova,Qinwen Zheng,6-1 6-3,,,,,,,,,,,,,,
 22-Nov-2021,W100+H Dubai,3,Hard,R16,139,120,1,,7,Anastasia Gasanova,Lesia Tsurenko,4-6 6-4 4-0 RET,,,,,,,,,,,,,,
@@ -57,7 +111,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Jul-2021,Prague,3,Hard,R16,171,122,0,LL,9,Greet Minnen,Anastasia Gasanova,6-3 7-6(3),0.82,0.0%,7.0%,64.8%,58.7%,48.0%,60.0% (6/10),45.8%,37.0%,8.2%,23.1%,52.9%,50.0% (3/6),1:45
 12-Jul-2021,Prague,3,Hard,R32,171,825,1,LL,WC,Anastasia Gasanova,Lucie Havlickova,6-2 4-6 6-4,1.09,1.1%,12.2%,64.4%,62.1%,43.8%,54.5% (6/11),51.9%,48.4%,1.1%,38.9%,61.5%,70.0% (7/10),2:13
 12-Jul-2021,Prague,3,Hard,Q2,171,266,0,1,10,Jodie Burrage,Anastasia Gasanova,6-1 6-1,0.62,0.0%,10.2%,57.1%,50.0%,38.1%,37.5% (3/8),39.4%,34.0%,14.0%,22.6%,52.6%,0.0% (0/2),1:08
-12-Jul-2021,Prague,3,Hard,Q1,171,331,1,1,,Anastasia Gasanova,Maria Carle,6-1 6-3,1.29,2.9%,13.2%,60.3%,61.0%,40.7%,66.7% (6/9),56.3%,60.8%,0.0%,59.3%,62.5%,53.8% (7/13),1:30
+12-Jul-2021,Prague,3,Hard,Q1,171,331,1,1,,Anastasia Gasanova,Maria Lourdes Carle,6-1 6-3,1.29,2.9%,13.2%,60.3%,61.0%,40.7%,66.7% (6/9),56.3%,60.8%,0.0%,59.3%,62.5%,53.8% (7/13),1:30
 28-Jun-2021,Wimbledon,5,Grass,Q2,170,125,0,,14,Anhelina Kalinina,Anastasia Gasanova,3-6 6-1 6-2,0.74,0.0%,11.8%,72.1%,46.9%,36.8%,22.2% (2/9),42.5%,41.2%,2.4%,39.3%,44.8%,50.0% (4/8),1:46
 28-Jun-2021,Wimbledon,5,Grass,Q1,170,195,1,,,Anastasia Gasanova,Valeria Savinykh,6-4 6-3,1.23,2.8%,4.2%,70.4%,66.0%,57.1%,85.7% (6/7),55.7%,45.1%,3.9%,42.9%,47.8%,100.0% (3/3),1:23
 14-Jun-2021,W100+H Nottingham,3,Grass,Q1,169,207,0,8,,Daria Snigur,Anastasia Gasanova,6-2 6-0,,,,,,,,,,,,,,
@@ -73,7 +127,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Apr-2021,Istanbul,3,Clay,Q2,182,,1,10,WC,Anastasia Gasanova,Nikola Bartunkova,6-4 5-7 6-3,1.07,0.0%,8.3%,70.6%,51.9%,34.4%,55.0% (11/20),51.8%,56.9%,0.9%,48.7%,75.8%,78.6% (11/14),2:42
 19-Apr-2021,Istanbul,3,Clay,Q1,182,309,1,10,,Anastasia Gasanova,Irina Fetecau,6-2 6-3,1.60,3.1%,4.7%,65.6%,50.0%,59.1%,55.6% (5/9),61.5%,75.0%,0.0%,60.9%,94.1%,100.0% (7/7),1:10
 15-Mar-2021,St. Petersburg,3,Hard,QF,241,145,0,Q,WC,Vera Zvonareva,Anastasia Gasanova,6-3 6-1,0.73,2.0%,6.1%,59.2%,41.4%,50.0%,37.5% (3/8),42.2%,40.3%,0.0%,35.7%,48.0%,14.3% (1/7),1:22
-15-Mar-2021,St. Petersburg,3,Hard,R16,241,45,1,Q,5,Anastasia Gasanova,Anastasia Pavlyuchenkova,1-6 7-6(8) 7-6(4) (ch),0.93,0.0%,6.3%,67.0%,58.7%,43.2%,36.4% (4/11),48.0%,43.4%,2.9%,37.2%,54.0%,29.4% (5/17),3:08
+15-Mar-2021,St. Petersburg,3,Hard,R16,241,45,1,Q,5,Anastasia Gasanova,Anastasia Pavlyuchenkova,1-6 7-6(8) 7-6(4),0.93,0.0%,6.3%,67.0%,58.7%,43.2%,36.4% (4/11),48.0%,43.4%,2.9%,37.2%,54.0%,29.4% (5/17),3:08
 15-Mar-2021,St. Petersburg,3,Hard,R32,241,125,1,Q,,Anastasia Gasanova,Katarina Zavatska,6-2 6-7(6) 7-5,1.15,1.7%,10.3%,68.1%,64.6%,32.4%,41.7% (5/12),53.4%,52.5%,0.0%,54.2%,48.6%,58.8% (10/17),3:04
 15-Mar-2021,St. Petersburg,3,Hard,Q2,241,350,1,,WC,Anastasia Gasanova,Ana Konjuh,6-4 6-3,1.24,1.4%,7.2%,73.9%,56.9%,38.9%,50.0% (4/8),55.3%,59.3%,1.9%,57.6%,61.9%,66.7% (6/9),1:21
 15-Mar-2021,St. Petersburg,3,Hard,Q1,241,200,1,,12,Anastasia Gasanova,Laura Ioana Andrei,6-4 6-3,1.28,1.5%,10.3%,72.1%,71.4%,31.6%,60.0% (3/5),55.7%,50.8%,0.0%,46.3%,59.1%,41.7% (5/12),1:27
@@ -206,7 +260,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Nov-2017,Shenzhen $100K,3,Hard,R16,454,156,0,,,Fangzhou Liu,Anastasia Gasanova,6-3 6-1,,,,,,,,,,,,,,
 6-Nov-2017,Shenzhen $100K,3,Hard,R32,454,367,1,,,Anastasia Gasanova,Zhaoxuan Yang,6-4 6-1,,,,,,,,,,,,,,
 18-Sep-2017,Saint Petersburg $100K,3,Hard,R32,473,312,0,Q,,Belinda Bencic,Anastasia Gasanova,6-0 6-0,,,,,,,,,,,,,,
-11-Sep-2017,Batumi $25K,3,Hard,R16,475,131,0,,1,Viktoria Kuzmova,Anastasia Gasanova,6-3 4-6 6-3,,,,,,,,,,,,,,
+11-Sep-2017,Batumi $25K,3,Hard,R16,475,131,0,,1,Viktoria Hruncakova,Anastasia Gasanova,6-3 4-6 6-3,,,,,,,,,,,,,,
 11-Sep-2017,Batumi $25K,3,Hard,R32,475,246,1,,WC,Anastasia Gasanova,Sofia Shapatava,6-3 6-2,,,,,,,,,,,,,,
 28-Aug-2017,Almaty $25K,3,Clay,R32,446,333,0,,4,Valeriya Strakhova,Anastasia Gasanova,6-4 5-7 7-6(4),,,,,,,,,,,,,,
 14-Aug-2017,Moscow $15K,3,Clay,R16,454,902,0,3,SE,Iryna Shymanovich,Anastasia Gasanova,6-3 5-7 6-3,,,,,,,,,,,,,,

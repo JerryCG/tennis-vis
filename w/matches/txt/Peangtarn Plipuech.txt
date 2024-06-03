@@ -1,4 +1,82 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W50 Goyang,3,Hard,Q2,387,511,0,3,9,Anastasia Gasanova,Peangtarn Plipuech,6-0 6-2,,,,,,,,,,,,,,
+20-May-2024,W50 Goyang,3,Hard,Q1,387,,1,3,WC,Peangtarn Plipuech,Eunji Lee,6-3 6-0,,,,,,,,,,,,,,
+6-May-2024,W75 Luan,3,Hard,SF,450,646,0,,,Meiling Wang,Peangtarn Plipuech,6-4 4-6 6-3,,,,,,,,,,,,,,
+6-May-2024,W75 Luan,3,Hard,QF,450,594,1,,,Peangtarn Plipuech,Viktoria Morvayova,7-6(6) 6-0,,,,,,,,,,,,,,
+6-May-2024,W75 Luan,3,Hard,R16,450,372,1,,4,Peangtarn Plipuech,Thasaporn Naklo,4-6 6-3 6-3,,,,,,,,,,,,,,
+6-May-2024,W75 Luan,3,Hard,R32,450,743,1,,WC,Peangtarn Plipuech,Meiqi Guo,6-2 6-3,,,,,,,,,,,,,,
+29-Apr-2024,W100 Gifu,3,Hard,Q1,440,398,0,,13,Thasaporn Naklo,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,Q1,440,552,0,16,,Na Lae Han,Peangtarn Plipuech,6-0 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R16,446,160,0,,2,Valeria Savinykh,Peangtarn Plipuech,4-6 7-5 6-0,,,,,,,,,,,,,,
+8-Apr-2024,W50 Shenzhen,3,Hard,R32,446,531,1,,Q,Peangtarn Plipuech,Ana Konjuh,3-6 6-4 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W35 Nakhon Si Thammarat,3,Hard,F,496,536,1,,,Peangtarn Plipuech,Irina Fetecau,2-6 6-3 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W35 Nakhon Si Thammarat,3,Hard,SF,496,567,1,,Q,Peangtarn Plipuech,Antonia Schmidt,7-6(2) 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W35 Nakhon Si Thammarat,3,Hard,QF,496,491,1,,,Peangtarn Plipuech,Eri Shimizu,6-4 4-6 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W35 Nakhon Si Thammarat,3,Hard,R16,496,303,1,,4,Peangtarn Plipuech,Lanlana Tararudee,7-6(4) 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W35 Nakhon Si Thammarat,3,Hard,R32,496,689,1,,Q,Peangtarn Plipuech,Nagi Hanatani,3-6 7-5 6-2,,,,,,,,,,,,,,
+5-Feb-2024,Mumbai 125,3,Hard,R32,503,346,0,Q,WC,Rutuja Bhosale,Peangtarn Plipuech,6-4 7-5,0.84,5.1%,2.6%,48.7%,57.9%,47.5%,64.3% (9/14),46.6%,39.7%,1.5%,33.3%,55.0%,75.0% (3/4),1:46
+5-Feb-2024,Mumbai 125,3,Hard,Q2,503,509,1,,,Peangtarn Plipuech,Chia Yi Tsao,6-3 6-3,1.79,6.5%,4.3%,52.2%,70.8%,77.3%,0.0% (0/1),58.3%,46.8%,1.6%,35.3%,60.7%,40.0% (4/10),1:31
+5-Feb-2024,Mumbai 125,3,Hard,Q1,503,303,1,,8,Peangtarn Plipuech,Diana Marcinkevica,6-2 6-0,1.63,18.6%,2.3%,53.5%,87.0%,35.0%,50.0% (1/2),61.7%,60.8%,0.0%,66.7%,54.2%,66.7% (6/9),0:59
+8-Jan-2024,W50 Nonthaburi,3,Hard,Q2,474,463,0,7,11,Zhibek Kulambayeva,Peangtarn Plipuech,6-0 0-6 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W50 Nonthaburi,3,Hard,Q1,474,874,1,7,,Peangtarn Plipuech,Salakthip Ounmuang,2-6 6-4 7-6(3),,,,,,,,,,,,,,
+1-Jan-2024,W50 Nonthaburi,3,Hard,R16,448,900,0,Q,SR,Catherine Harrison,Peangtarn Plipuech,6-2 2-6 6-4,,,,,,,,,,,,,,
+1-Jan-2024,W50 Nonthaburi,3,Hard,R32,448,339,1,Q,,Peangtarn Plipuech,Kyoka Okamura,7-6(1) 6-2,,,,,,,,,,,,,,
+1-Jan-2024,W50 Nonthaburi,3,Hard,Q2,448,384,1,10,3,Peangtarn Plipuech,Rina Saigo,6-3 4-6 6-4,,,,,,,,,,,,,,
+1-Jan-2024,W50 Nonthaburi,3,Hard,Q1,448,576,1,10,,Peangtarn Plipuech,Daria Kudashova,6-1 6-0,,,,,,,,,,,,,,
+4-Dec-2023,W100 Dubai,3,Hard,R16,446,129,0,Q,3,Rebecca Sramkova,Peangtarn Plipuech,6-1 6-3,,,,,,,,,,,,,,
+4-Dec-2023,W100 Dubai,3,Hard,R32,446,623,1,Q,Q,Peangtarn Plipuech,Ekaterina Yashina,6-3 6-2,,,,,,,,,,,,,,
+4-Dec-2023,W100 Dubai,3,Hard,Q2,446,671,1,8,16,Peangtarn Plipuech,Stefania Bojica,6-1 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,Q1,439,273,0,,6,Kateryna Bondarenko,Peangtarn Plipuech,6-3 6-7(4) 7-5,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,Q1,440,430,0,,16,Hanyu Guo,Peangtarn Plipuech,4-6 6-4 6-1,,,,,,,,,,,,,,
+9-Oct-2023,Seoul,3,Hard,Q1,413,561,0,8,,Mei Yamaguchi,Peangtarn Plipuech,6-4 6-3,0.83,1.7%,1.7%,63.3%,50.0%,31.8%,25.0% (2/8),45.1%,46.8%,1.6%,34.5%,57.6%,44.4% (4/9),1:25
+4-Sep-2023,W100 Tokyo,3,Hard,Q2,347,243,0,10,3,Carol Zhao,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,Q1,347,568,1,10,,Peangtarn Plipuech,Ayumi Koshiishi,6-4 6-0,,,,,,,,,,,,,,
+28-Aug-2023,W25 Nakhon Si Thammarat,3,Hard,R32,347,486,0,,,Daria Kudashova,Peangtarn Plipuech,4-6 7-6(6) 6-2,,,,,,,,,,,,,,
+7-Aug-2023,Kozerki 125,3,Hard,Q1,341,436,0,6,,Luksika Kumkhum,Peangtarn Plipuech,6-3 6-1,0.60,7.7%,7.7%,57.7%,66.7%,13.6%,28.6% (2/7),38.7%,33.3%,3.7%,33.3%,33.3%,33.3% (1/3),1:12
+24-Jul-2023,Warsaw,3,Hard,Q1,334,166,0,,1,Natalija Stevanovic,Peangtarn Plipuech,2-6 6-4 6-2,0.91,2.7%,4.0%,62.7%,53.2%,53.6%,44.4% (4/9),47.5%,42.4%,1.2%,37.9%,51.9%,40.0% (4/10),2:10
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,327,150,0,,7,Zhuoxuan Bai,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,347,82,0,,5,Panna Udvardy,Peangtarn Plipuech,6-7(7) 6-0 6-1,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,SF,347,394,0,4,7,Sahaja Yamalapalli,Peangtarn Plipuech,6-2 6-1,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,QF,347,491,1,4,,Peangtarn Plipuech,Erika Sema,6-0 3-6 6-4,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,R16,347,,1,4,Q,Peangtarn Plipuech,Watsachol Sawasdee,6-3 6-2,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,R32,347,671,1,4,,Peangtarn Plipuech,Patcharin Cheapchandej,6-1 1-6 7-5,,,,,,,,,,,,,,
+29-May-2023,W25 Nakhon Si Thammarat,3,Hard,SF,338,439,0,1,3,Haruna Arakawa,Peangtarn Plipuech,6-3 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 Nakhon Si Thammarat,3,Hard,QF,338,,1,1,7,Peangtarn Plipuech,Anchisa Chanta,6-1 1-6 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 Nakhon Si Thammarat,3,Hard,R16,338,,1,1,WC,Peangtarn Plipuech,Salakthip Ounmuang,7-5 5-7 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 Nakhon Si Thammarat,3,Hard,R32,338,,1,1,WC,Peangtarn Plipuech,Pimmada Thongkum,6-2 6-2,,,,,,,,,,,,,,
+22-May-2023,W25 Goyang,3,Hard,R16,340,667,0,4,Q,Hanyu Guo,Peangtarn Plipuech,7-6(4) 7-6(5),,,,,,,,,,,,,,
+22-May-2023,W25 Goyang,3,Hard,R32,340,1087,1,4,Q,Peangtarn Plipuech,Yi Tsen Cho,6-2 6-0,,,,,,,,,,,,,,
+15-May-2023,W25 Incheon,3,Hard,QF,339,,0,4,Q,Xinyu Jiang,Peangtarn Plipuech,4-6 6-1 7-6(3),,,,,,,,,,,,,,
+15-May-2023,W25 Incheon,3,Hard,R16,339,427,1,4,,Peangtarn Plipuech,Sohyun Park,7-5 6-3,,,,,,,,,,,,,,
+15-May-2023,W25 Incheon,3,Hard,R32,339,,1,4,WC,Peangtarn Plipuech,Soo Ha Jang,6-3 6-1,,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,R32,342,167,0,,3,Na Lae Han,Peangtarn Plipuech,6-2 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R32,342,270,0,,,Valeria Savinykh,Peangtarn Plipuech,7-6(4) 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,R64,316,789,0,,Q,Cristina Andreea Mitu,Peangtarn Plipuech,6-3 7-5,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G1 RR: CHN vs THA,3,Hard,RR,315,123,0,,,Yue Yuan,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: IND vs THA,3,Hard,RR,315,221,0,,,Ankita Raina,Peangtarn Plipuech,5-7 6-1 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,R32,314,226,0,,4,Ankita Raina,Peangtarn Plipuech,6-0 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R32,314,344,0,,,Dea Herdzelas,Peangtarn Plipuech,7-5 7-6(5),,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,R16,311,163,0,,1,Brenda Fruhvirtova,Peangtarn Plipuech,6-4 3-6 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,R32,311,628,1,,Q,Peangtarn Plipuech,Anastasia Kovaleva,7-5 6-0,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,311,177,0,Q,8,Nigina Abduraimova,Peangtarn Plipuech,6-7(6) 6-4 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,Q2,311,552,1,4,,Peangtarn Plipuech,Ksenia Zaytseva,6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,Q1,311,506,1,4,,Peangtarn Plipuech,Victoria Kan,6-4 7-5,,,,,,,,,,,,,,
+30-Jan-2023,Hua Hin,3,Hard,Q2,321,180,0,,3,Joanne Zuger,Peangtarn Plipuech,7-5 6-3,0.79,0.0%,6.8%,64.4%,59.6%,23.1%,45.5% (5/11),44.2%,42.0%,0.0%,41.4%,43.5%,27.3% (3/11),1:53
+30-Jan-2023,Hua Hin,3,Hard,Q1,321,177,1,,7,Peangtarn Plipuech,Anastasia Tikhonova,6-3 4-6 7-6(7),1.06,0.0%,2.7%,65.5%,54.1%,48.7%,58.8% (10/17),51.4%,50.5%,0.9%,46.7%,55.1%,57.1% (8/14),3:00
+9-Jan-2023,W40 Nonthaburi,3,Hard,R32,323,255,0,,5,Cagla Buyukakcay,Peangtarn Plipuech,6-3 4-6 7-5,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,SF,345,278,0,,,Valeria Savinykh,Peangtarn Plipuech,6-4 6-3,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,QF,345,470,1,,Q,Peangtarn Plipuech,Gabriela Andrea Knutson,6-1 6-1,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R16,345,660,1,,Q,Peangtarn Plipuech,Patcharin Cheapchandej,6-1 6-2,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R32,345,347,1,,,Peangtarn Plipuech,Urszula Radwanska,6-3 RET,,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,R32,326,362,0,7,,Momoko Kobori,Peangtarn Plipuech,6-2 5-7 6-4,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R16,341,115,0,Q,2,Kristina Mladenovic,Peangtarn Plipuech,6-4 6-4,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R32,341,263,1,Q,,Peangtarn Plipuech,Karman Thandi,2-6 6-2 6-2,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,Q2,341,304,1,10,4,Peangtarn Plipuech,Emina Bektas,6-3 6-7(2) 10-8,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,Q1,341,595,1,10,,Peangtarn Plipuech,Anastasia Kovaleva,3-6 6-2 10-3,,,,,,,,,,,,,,
+14-Nov-2022,W60 Tokyo,3,Hard,R32,334,836,0,,Q,Eri Shimizu,Peangtarn Plipuech,6-1 6-3,,,,,,,,,,,,,,
+7-Nov-2022,W60 Calgary,3,Hard,R32,335,360,0,,,Emina Bektas,Peangtarn Plipuech,6-1 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W100 Shrewsbury,3,Hard,Q2,336,1111,0,7,WC,Ella Mcdonald,Peangtarn Plipuech,7-6(3) 7-5,,,,,,,,,,,,,,
+31-Oct-2022,W100 Shrewsbury,3,Hard,Q1,336,862,1,7,,Peangtarn Plipuech,Humera Baharmus,6-3 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,353,105,0,Q,,Ysaline Bonaventure,Peangtarn Plipuech,6-1 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,Q2,353,723,1,5,,Peangtarn Plipuech,Flavie Brugnone,6-1 7-5,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,Q1,353,,1,5,WC,Peangtarn Plipuech,Alicia Martial,6-2 6-1,,,,,,,,,,,,,,
@@ -51,8 +129,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Jul-2021,W25 Nur-Sultan,3,Hard,R32,321,506,1,6,,Peangtarn Plipuech,Gozal Ainitdinova,6-2 6-4,,,,,,,,,,,,,,
 17-Feb-2020,W60 Kyoto,3,Hard,R32,257,450,0,7,,Tara Moore,Peangtarn Plipuech,7-6(4) 6-2,,,,,,,,,,,,,,
 10-Feb-2020,Hua Hin,3,Hard,R16,286,84,0,LL,8,Nao Hibino,Peangtarn Plipuech,6-0 6-1,0.40,0.0%,2.4%,69.0%,41.4%,38.5%,50.0% (5/10),32.5%,23.7%,7.9%,14.8%,45.5%,- (0/0),0:53
-10-Feb-2020,Hua Hin,3,Hard,R32,286,165,1,LL,,Peangtarn Plipuech,Chloe Paquet,7-6(3) 3-6 6-4 (ch),1.02,0.0%,0.9%,57.0%,55.4%,42.9%,46.7% (7/15),50.5%,51.1%,2.1%,45.3%,58.5%,53.8% (7/13),2:48
-10-Feb-2020,Hua Hin,3,Hard,Q2,286,319,0,6,8,Storm Sanders,Peangtarn Plipuech,5-7 6-3 6-2,0.87,4.4%,2.6%,66.7%,60.5%,34.2%,71.4% (15/21),47.3%,41.8%,3.3%,35.8%,50.0%,50.0% (4/8),2:11
+10-Feb-2020,Hua Hin,3,Hard,R32,286,165,1,LL,,Peangtarn Plipuech,Chloe Paquet,7-6(3) 3-6 6-4,1.02,0.0%,0.9%,57.0%,55.4%,42.9%,46.7% (7/15),50.5%,51.1%,2.1%,45.3%,58.5%,53.8% (7/13),2:48
+10-Feb-2020,Hua Hin,3,Hard,Q2,286,319,0,6,8,Storm Hunter,Peangtarn Plipuech,5-7 6-3 6-2,0.87,4.4%,2.6%,66.7%,60.5%,34.2%,71.4% (15/21),47.3%,41.8%,3.3%,35.8%,50.0%,50.0% (4/8),2:11
 10-Feb-2020,Hua Hin,3,Hard,Q1,286,379,1,6,,Peangtarn Plipuech,Nagi Hanatani,3-6 6-0 6-3,1.26,2.6%,2.6%,63.2%,62.5%,50.0%,66.7% (8/12),55.6%,52.9%,1.5%,51.4%,54.8%,63.6% (7/11),1:47
 3-Feb-2020,W25 Nonthaburi,3,Hard,QF,285,105,0,,1,Patricia Maria Tig,Peangtarn Plipuech,6-1 6-7(5) 7-6(7),,,,,,,,,,,,,,
 3-Feb-2020,W25 Nonthaburi,3,Hard,R16,285,811,1,,WC,Peangtarn Plipuech,Patcharin Cheapchandej,6-3 6-3,,,,,,,,,,,,,,
@@ -211,7 +289,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-May-2017,Gifu $80K,3,Hard,R32,271,346,0,,WC,Ayano Shimizu,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
 24-Apr-2017,Anning $100K,3,Clay,R16,272,221,0,,,Jana Fett,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
 24-Apr-2017,Anning $100K,3,Clay,R32,272,412,1,,WC,Peangtarn Plipuech,Jia Qi Kang,6-3 7-6(2),,,,,,,,,,,,,,
-17-Apr-2017,Zhengzhou,3,Hard,R32,279,63,0,Q,3,Ying Ying Duan,Peangtarn Plipuech,6-1 6-1 (ch),0.37,0.0%,0.0%,63.6%,46.4%,6.3%,25.0% (2/8),28.7%,25.0%,22.2%,18.2%,35.7%,33.3% (1/3),0:45
+17-Apr-2017,Zhengzhou,3,Hard,R32,279,63,0,Q,3,Ying Ying Duan,Peangtarn Plipuech,6-1 6-1,0.37,0.0%,0.0%,63.6%,46.4%,6.3%,25.0% (2/8),28.7%,25.0%,22.2%,18.2%,35.7%,33.3% (1/3),0:45
 17-Apr-2017,Zhengzhou,3,Hard,Q2,279,290,1,4,6,Peangtarn Plipuech,Xinyu Gao,6-1 2-6 6-1,1.20,1.2%,1.2%,67.1%,49.1%,60.7%,60.0% (6/10),54.3%,56.4%,7.3%,43.8%,73.9%,87.5% (7/8),1:44
 17-Apr-2017,Zhengzhou,3,Hard,Q1,279,946,1,4,WC,Peangtarn Plipuech,Xiyu Wang,6-4 4-6 6-4,1.04,1.0%,0.0%,73.0%,57.5%,44.4%,45.5% (5/11),51.0%,48.0%,3.0%,43.3%,57.6%,50.0% (7/14),2:31
 3-Apr-2017,Kashiwa $25K,3,Hard,R32,283,514,0,,WC,Haruna Arakawa,Peangtarn Plipuech,6-3 7-5,,,,,,,,,,,,,,
@@ -378,10 +456,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Feb-2013,Muzaffarnagar 25K,3,Grass,QF,423,363,0,,,Melanie Klaffner,Peangtarn Plipuech,6-3 6-2,,,,,,,,,,,,,,
 18-Feb-2013,Muzaffarnagar 25K,3,Grass,R16,423,464,1,,,Peangtarn Plipuech,Tamara Curovic,6-3 6-3,,,,,,,,,,,,,,
 18-Feb-2013,Muzaffarnagar 25K,3,Grass,R32,423,982,1,,Q,Peangtarn Plipuech,Napatsakorn Sankaew,6-0 7-5,,,,,,,,,,,,,,
-29-Oct-2012,Bendigo 25K,3,Hard,R16,398,735,0,,Q,Storm Sanders,Peangtarn Plipuech,6-1 6-0,,,,,,,,,,,,,,
+29-Oct-2012,Bendigo 25K,3,Hard,R16,398,735,0,,Q,Storm Hunter,Peangtarn Plipuech,6-1 6-0,,,,,,,,,,,,,,
 29-Oct-2012,Bendigo 25K,3,Hard,R32,398,774,1,,,Peangtarn Plipuech,Julia Moriarty,6-1 6-2,,,,,,,,,,,,,,
 22-Oct-2012,Traralgon 25K,3,Hard,R16,405,265,0,,4,Bojana Bobusic,Peangtarn Plipuech,6-1 6-3,,,,,,,,,,,,,,
-22-Oct-2012,Traralgon 25K,3,Hard,R32,405,740,1,,WC,Peangtarn Plipuech,Storm Sanders,6-3 6-1,,,,,,,,,,,,,,
+22-Oct-2012,Traralgon 25K,3,Hard,R32,405,740,1,,WC,Peangtarn Plipuech,Storm Hunter,6-3 6-1,,,,,,,,,,,,,,
 8-Oct-2012,Margaret River 25K,3,Hard,R32,423,407,0,,,Mari Tanaka,Peangtarn Plipuech,6-1 0-6 6-2,,,,,,,,,,,,,,
 1-Oct-2012,Esperance 25K,3,Hard,R16,423,278,0,Q,7,Zuzana Zlochova,Peangtarn Plipuech,6-3 5-7 6-2,,,,,,,,,,,,,,
 1-Oct-2012,Esperance 25K,3,Hard,R32,423,566,1,Q,,Peangtarn Plipuech,Tammi Patterson,5-7 6-4 6-2,,,,,,,,,,,,,,

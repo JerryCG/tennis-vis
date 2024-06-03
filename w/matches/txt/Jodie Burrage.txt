@@ -1,4 +1,74 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+26-Feb-2024,San Diego,3,Hard,Q1,86,440,0,1,,Marina Melnikova,Jodie Burrage,6-1 7-6(2),0.78,3.1%,1.5%,56.9%,59.5%,28.6%,61.5% (8/13),44.1%,42.3%,2.8%,26.1%,72.0%,33.3% (3/9),1:32
+29-Jan-2024,Linz,3,Hard,QF,102,12,0,Q,1,Jelena Ostapenko,Jodie Burrage,6-1 6-2,0.58,2.2%,8.7%,43.5%,45.0%,34.6%,44.4% (4/9),37.0%,35.2%,7.4%,24.1%,48.0%,25.0% (1/4),1:10
+29-Jan-2024,Linz,3,Hard,R16,102,89,1,Q,LL,Jodie Burrage,Jaqueline Cristian,6-3 7-6(5),1.16,10.0%,1.4%,68.6%,77.1%,45.5%,75.0% (3/4),53.4%,38.1%,3.2%,23.3%,70.0%,60.0% (3/5),1:34
+29-Jan-2024,Linz,3,Hard,R32,102,46,1,Q,7,Jodie Burrage,Varvara Gracheva,6-4 6-0,1.69,11.3%,1.9%,69.8%,73.0%,50.0%,80.0% (4/5),62.0%,57.4%,0.0%,51.7%,66.7%,83.3% (5/6),1:07
+29-Jan-2024,Linz,3,Hard,Q2,102,132,1,9,,Jodie Burrage,Anna Lena Friedsam,5-7 6-3 6-2,1.07,11.6%,1.2%,57.0%,75.5%,48.6%,71.4% (5/7),50.8%,38.7%,3.2%,31.8%,55.6%,41.7% (5/12),2:17
+29-Jan-2024,Linz,3,Hard,Q1,102,112,1,9,,Jodie Burrage,Emiliana Arango,6-1 6-4,1.39,6.9%,5.2%,67.2%,74.4%,31.6%,77.8% (7/9),57.8%,55.2%,0.0%,48.9%,76.9%,45.5% (5/11),1:16
+15-Jan-2024,Australian Open,5,Hard,R128,102,80,0,,,Tamara Korpatsch,Jodie Burrage,2-6 6-3 6-0,0.92,6.0%,6.0%,76.1%,56.9%,43.8%,44.4% (4/9),47.7%,42.7%,0.0%,41.7%,44.1%,50.0% (3/6),1:48
+8-Jan-2024,Hobart,3,Hard,Q1,102,79,0,,9,Camila Osorio,Jodie Burrage,6-3 6-4,0.67,3.6%,7.1%,55.4%,58.1%,32.0%,37.5% (3/8),41.3%,35.8%,0.0%,21.9%,57.1%,60.0% (3/5),1:25
+1-Jan-2024,Canberra 125,3,Hard,R16,99,118,0,4,,Anna Bondar,Jodie Burrage,6-4 3-6 6-3,1.15,8.2%,4.1%,69.9%,70.6%,54.5%,40.0% (2/5),50.0%,39.4%,8.3%,21.3%,62.5%,15.4% (2/13),2:06
+1-Jan-2024,Canberra 125,3,Hard,R32,99,126,1,4,,Jodie Burrage,Astra Sharma,6-2 6-4,1.90,6.1%,4.1%,53.1%,88.5%,65.2%,100.0% (1/1),59.2%,42.6%,7.4%,37.9%,48.0%,75.0% (3/4),1:12
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,93,372,0,,,Kajsa Rinaldo Persson,Jodie Burrage,6-4 6-1,0.74,3.4%,1.7%,61.0%,41.7%,47.8%,33.3% (3/9),42.7%,41.2%,0.0%,32.3%,55.0%,100.0% (2/2),
+16-Oct-2023,Cluj Napoca,3,Hard,R16,89,105,0,8,,Tamara Korpatsch,Jodie Burrage,2-6 6-2 7-6(5),0.97,5.7%,2.3%,56.3%,49.0%,44.7%,46.2% (6/13),49.2%,51.1%,1.1%,45.0%,62.5%,63.6% (7/11),2:10
+16-Oct-2023,Cluj Napoca,3,Hard,R32,89,200,1,8,,Jodie Burrage,Ankita Raina,6-0 6-2,1.81,9.5%,2.4%,50.0%,71.4%,52.4%,71.4% (5/7),65.5%,69.0%,0.0%,74.1%,60.0%,63.6% (7/11),1:02
+9-Oct-2023,Rouen 125,3,Hard,QF,91,166,0,4,Q,Erika Andreeva,Jodie Burrage,6-4 6-2,0.58,1.6%,3.2%,46.8%,69.0%,39.4%,50.0% (4/8),41.8%,27.1%,2.1%,17.2%,42.1%,50.0% (1/2),1:26
+9-Oct-2023,Rouen 125,3,Hard,R16,91,213,1,4,WC,Jodie Burrage,Alice Robbe,6-1 6-3,2.14,4.4%,2.2%,64.4%,75.9%,68.8%,50.0% (1/2),64.4%,57.1%,0.0%,59.0%,52.9%,41.7% (5/12),1:06
+9-Oct-2023,Rouen 125,3,Hard,R32,91,152,1,4,,Jodie Burrage,Daria Snigur,6-3 6-3,1.63,21.2%,3.8%,69.2%,80.6%,43.8%,50.0% (1/2),58.5%,50.0%,1.5%,49.0%,53.3%,44.4% (4/9),1:11
+2-Oct-2023,Beijing,3,Hard,Q1,92,75,0,,10,Yulia Putintseva,Jodie Burrage,6-3 6-3,0.81,3.0%,10.4%,50.7%,61.8%,36.4%,61.5% (8/13),44.8%,41.0%,1.3%,40.0%,43.5%,33.3% (2/6),1:42
+25-Sep-2023,Ningbo,3,Hard,R32,91,107,0,Q,,Tamara Korpatsch,Jodie Burrage,6-2 7-6(1),0.74,1.3%,9.3%,60.0%,55.6%,30.0%,53.8% (7/13),43.3%,40.7%,1.7%,34.4%,48.1%,100.0% (4/4),1:38
+25-Sep-2023,Ningbo,3,Hard,Q2,91,215,1,1,11,Jodie Burrage,Jana Kolodynska,3-6 6-1 6-4,1.11,1.2%,9.3%,55.8%,64.6%,52.6%,57.1% (4/7),52.8%,45.2%,5.5%,34.4%,53.7%,71.4% (5/7),1:56
+25-Sep-2023,Ningbo,3,Hard,Q1,91,463,1,1,,Jodie Burrage,Jia Jing Lu,6-4 6-1,1.19,6.7%,5.0%,58.3%,71.4%,52.0%,100.0% (6/6),53.9%,43.6%,3.6%,28.6%,59.3%,42.9% (3/7),1:27
+18-Sep-2023,Guangzhou,3,Hard,R32,91,27,0,,1,Magda Linette,Jodie Burrage,6-7(3) 6-0 6-2,0.76,6.2%,0.0%,63.0%,60.8%,40.0%,41.7% (5/12),44.0%,35.6%,4.6%,37.1%,29.4%,40.0% (2/5),2:20
+28-Aug-2023,US Open,5,Hard,R64,96,2,0,,2,Aryna Sabalenka,Jodie Burrage,6-3 6-2,0.75,2.2%,2.2%,55.6%,68.0%,50.0%,25.0% (1/4),43.1%,29.8%,12.3%,6.9%,53.6%,0.0% (0/2),1:14
+28-Aug-2023,US Open,5,Hard,R128,96,38,1,,,Jodie Burrage,Anna Blinkova,6-3 6-4,1.38,16.1%,3.6%,57.1%,81.3%,62.5%,- (0/0),55.5%,37.0%,13.0%,29.2%,43.3%,66.7% (2/3),1:16
+21-Aug-2023,Chicago 125,3,Hard,R32,96,782,0,,Q,Quinn Gleason,Jodie Burrage,5-7 6-3 7-6(4),0.96,4.8%,7.6%,53.3%,55.4%,46.9%,33.3% (4/12),49.1%,46.8%,3.7%,41.9%,57.1%,46.7% (7/15),2:55
+14-Aug-2023,Stanford 125,3,Hard,QF,101,191,0,,,Moyuka Uchijima,Jodie Burrage,6-4 4-6 6-4,0.94,3.7%,7.3%,61.0%,72.0%,46.9%,20.0% (1/5),48.5%,35.6%,5.7%,25.5%,50.0%,50.0% (3/6),1:50
+14-Aug-2023,Stanford 125,3,Hard,R16,101,96,1,,,Jodie Burrage,Kayla Day,2-6 7-6(3) 6-3,1.03,9.4%,7.3%,56.3%,75.9%,38.1%,50.0% (5/10),50.8%,41.9%,6.5%,30.2%,57.5%,33.3% (4/12),2:14
+14-Aug-2023,Stanford 125,3,Hard,R32,101,87,1,,5,Jodie Burrage,Diana Shnaider,6-4 6-2,1.47,12.3%,3.5%,61.4%,77.1%,45.5%,33.3% (1/3),58.1%,51.7%,0.0%,45.7%,60.0%,33.3% (5/15),1:14
+7-Aug-2023,Montreal,3,Hard,Q1,94,140,0,11,,Marina Bassols Ribera,Jodie Burrage,7-5 6-4,0.83,7.6%,9.1%,50.0%,60.6%,36.4%,33.3% (3/9),45.5%,42.9%,1.3%,40.7%,47.8%,40.0% (4/10),1:35
+24-Jul-2023,Warsaw,3,Hard,R16,95,108,0,,,Lucrezia Stefanini,Jodie Burrage,6-4 6-1,0.69,5.7%,9.4%,54.7%,55.2%,41.7%,44.4% (4/9),42.3%,35.3%,0.0%,28.6%,66.7%,50.0% (2/4),1:10
+24-Jul-2023,Warsaw,3,Hard,R32,95,200,1,,Q,Jodie Burrage,Ankita Raina,4-6 6-4 7-6(4),0.98,8.0%,6.0%,53.0%,47.2%,31.9%,33.3% (6/18),49.2%,58.6%,0.0%,56.2%,65.4%,54.5% (12/22),2:37
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,QF,98,150,0,1,7,Zhuoxuan Bai,Jodie Burrage,6-4 6-2,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,98,362,1,1,,Jodie Burrage,Eva Guerrero Alvarez,7-5 6-4,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,98,678,1,1,Q,Jodie Burrage,Emilie Lindh Gallagher,6-1 6-3,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,R64,108,10,0,WC,11,Daria Kasatkina,Jodie Burrage,6-0 6-2,0.55,0.0%,12.5%,68.8%,42.4%,20.0%,14.3% (1/7),35.6%,35.7%,2.4%,35.3%,37.5%,20.0% (1/5),1:00
+3-Jul-2023,Wimbledon,5,Grass,R128,108,67,1,WC,,Jodie Burrage,Caty Mcnally,6-1 6-3,1.70,4.1%,0.0%,69.4%,70.6%,66.7%,75.0% (3/4),60.8%,52.1%,0.0%,50.0%,62.5%,55.6% (5/9),1:04
+26-Jun-2023,Eastbourne,3,Grass,R16,128,7,0,LL,5,Coco Gauff,Jodie Burrage,6-1 6-1,0.53,0.0%,7.7%,63.5%,42.4%,36.8%,33.3% (3/9),36.8%,31.4%,14.3%,22.2%,41.2%,100.0% (1/1),0:59
+26-Jun-2023,Eastbourne,3,Grass,R32,128,44,1,LL,Q,Jodie Burrage,Lauren Davis,4-6 6-4 6-3,1.05,5.3%,5.3%,68.4%,69.2%,45.8%,40.0% (2/5),50.3%,40.2%,2.3%,28.1%,63.3%,83.3% (5/6),2:03
+26-Jun-2023,Eastbourne,3,Grass,Q2,128,42,0,WC,2,Jasmine Paolini,Jodie Burrage,7-5 6-4,0.92,7.7%,9.0%,61.5%,45.8%,43.3%,30.0% (3/10),47.7%,50.7%,2.8%,40.0%,69.2%,55.6% (5/9),1:34
+26-Jun-2023,Eastbourne,3,Grass,Q1,128,70,1,WC,9,Jodie Burrage,Kamilla Rakhimova,6-7(5) 7-5 7-6(4),1.05,4.2%,4.2%,61.0%,68.1%,54.3%,60.0% (6/10),50.4%,39.2%,0.0%,38.4%,40.9%,50.0% (5/10),2:47
+19-Jun-2023,Birmingham,3,Grass,R32,108,134,0,WC,WC,Harriet Dart,Jodie Burrage,4-6 6-2 7-5,0.73,4.6%,1.9%,65.7%,63.4%,48.6%,73.3% (11/15),45.7%,30.3%,1.1%,24.5%,37.5%,50.0% (2/4),2:18
+12-Jun-2023,Nottingham,3,Grass,F,131,126,0,,WC,Katie Boulter,Jodie Burrage,6-3 6-3,0.69,4.1%,6.1%,57.1%,67.9%,23.8%,20.0% (1/5),41.5%,35.1%,1.8%,24.3%,55.0%,50.0% (1/2),1:13
+12-Jun-2023,Nottingham,3,Grass,SF,131,72,1,,,Jodie Burrage,Alize Cornet,7-5 7-5,1.12,4.3%,1.4%,62.3%,62.8%,53.8%,55.6% (5/9),52.6%,45.5%,1.5%,33.3%,66.7%,66.7% (6/9),1:44
+12-Jun-2023,Nottingham,3,Grass,QF,131,77,1,,,Jodie Burrage,Magdalena Frech,6-2 3-6 7-5,1.12,4.3%,3.3%,57.6%,69.8%,48.7%,76.9% (10/13),51.8%,43.8%,5.7%,34.4%,56.8%,38.5% (5/13),2:21
+12-Jun-2023,Nottingham,3,Grass,R16,131,21,1,,3,Jodie Burrage,Magda Linette,7-5 6-3,1.20,6.5%,8.1%,62.9%,74.4%,43.5%,33.3% (1/3),53.0%,44.4%,2.8%,34.1%,60.7%,41.7% (5/12),1:34
+12-Jun-2023,Nottingham,3,Grass,R32,131,121,1,,,Jodie Burrage,Tereza Martincova,7-6(5) 3-6 7-6(4),0.82,4.1%,8.3%,64.1%,63.4%,50.0%,80.0% (12/15),47.9%,33.9%,0.0%,34.1%,33.3%,16.7% (1/6),3:00
+5-Jun-2023,W100 Surbiton,3,Grass,R32,111,209,0,5,WC,Yuriko Miyazaki,Jodie Burrage,3-6 6-2 6-4,,,,,,,,,,,,,,
+1-May-2023,Saint Malo 125,3,Clay,R16,110,173,0,,,Greet Minnen,Jodie Burrage,6-4 6-3,0.85,0.0%,8.6%,56.9%,48.5%,48.0%,45.5% (5/11),46.1%,43.9%,0.0%,27.0%,75.0%,60.0% (3/5),1:23
+1-May-2023,Saint Malo 125,3,Clay,R32,110,199,1,,Q,Jodie Burrage,Carole Monnet,2-6 6-2 7-5,1.22,1.3%,1.3%,67.5%,57.7%,72.0%,20.0% (1/5),53.1%,45.9%,2.0%,36.8%,58.5%,55.6% (5/9),2:18
+24-Apr-2023,Madrid,3,Clay,Q2,110,83,0,17,5,Sara Errani,Jodie Burrage,6-7(7) 7-5 6-2,0.87,8.2%,5.5%,57.3%,66.7%,34.0%,50.0% (7/14),47.0%,41.3%,0.9%,34.2%,60.0%,44.4% (4/9),2:33
+24-Apr-2023,Madrid,3,Clay,Q1,110,178,1,17,,Jodie Burrage,Rosa Vicens Mas,6-3 6-1,1.41,6.9%,6.9%,50.0%,61.1%,61.1%,80.0% (4/5),58.5%,54.9%,0.0%,57.9%,46.2%,45.5% (5/11),1:27
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,F,132,73,1,4,1,Jodie Burrage,Lucia Bronzetti,3-6 6-4 6-0,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,SF,132,211,1,4,,Jodie Burrage,Yanina Wickmayer,5-7 6-3 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,QF,132,167,1,4,,Jodie Burrage,Greet Minnen,3-6 7-5 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R16,132,248,1,4,,Jodie Burrage,Vitalia Diatchenko,6-3 6-1,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,132,283,1,4,,Jodie Burrage,Yuliya Hatouka,7-5 6-1,,,,,,,,,,,,,,
+20-Mar-2023,Miami,3,Hard,Q2,132,172,0,,WC,Katherine Sebov,Jodie Burrage,6-7(2) 7-5 6-3,0.84,6.4%,3.6%,55.5%,63.9%,42.9%,30.0% (3/10),47.0%,38.0%,0.0%,31.9%,60.0%,50.0% (4/8),2:27
+20-Mar-2023,Miami,3,Hard,Q1,132,99,1,,13,Jodie Burrage,Sara Errani,6-1 6-3,1.43,11.7%,1.7%,71.7%,62.8%,47.1%,50.0% (2/4),59.0%,59.7%,0.0%,55.1%,76.9%,46.2% (6/13),1:19
+6-Mar-2023,Indian Wells,3,Hard,Q1,133,115,0,,20,Kimberly Birrell,Jodie Burrage,6-2 6-4,0.68,3.6%,0.0%,63.6%,54.3%,45.0%,33.3% (2/6),42.5%,33.3%,0.0%,20.7%,50.0%,50.0% (1/2),1:16
+27-Feb-2023,Austin,3,Hard,Q1,129,189,0,1,,Robin Montgomery,Jodie Burrage,6-4 7-5,0.92,6.3%,3.2%,54.0%,73.5%,34.5%,55.6% (5/9),47.5%,41.0%,6.4%,27.3%,58.8%,37.5% (3/8),1:39
+16-Jan-2023,Australian Open,5,Hard,Q3,127,185,0,26,,Selena Janicijevic,Jodie Burrage,6-3 1-6 6-2,0.74,2.2%,5.5%,60.4%,69.1%,33.3%,60.0% (6/10),46.1%,33.3%,3.2%,35.9%,29.2%,60.0% (3/5),1:43
+16-Jan-2023,Australian Open,5,Hard,Q2,127,205,1,26,,Jodie Burrage,Barbora Palicova,6-1 6-2,2.08,21.4%,0.0%,61.9%,84.6%,56.3%,100.0% (1/1),62.6%,54.4%,1.8%,43.3%,66.7%,50.0% (5/10),0:58
+16-Jan-2023,Australian Open,5,Hard,Q1,127,684,1,26,WC,Jodie Burrage,Elysia Bolton,6-2 6-4,1.71,6.1%,8.2%,49.0%,83.3%,64.0%,0.0% (0/1),58.7%,45.5%,3.6%,34.3%,65.0%,50.0% (4/8),1:08
+2-Jan-2023,W60 Canberra,3,Hard,F,131,136,0,6,8,Katie Boulter,Jodie Burrage,3-6 6-3 6-2,,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,SF,131,137,1,6,,Jodie Burrage,Lesia Tsurenko,W/O,,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,QF,131,204,1,6,Q,Jodie Burrage,Mai Hontama,6-4 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,R16,131,205,1,6,Q,Jodie Burrage,Darya Astakhova,6-3 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W60 Canberra,3,Hard,R32,131,143,1,6,,Jodie Burrage,Su Jeong Jang,6-4 6-7(7) 6-3,,,,,,,,,,,,,,
+12-Dec-2022,Limoges 125,3,Hard,R32,133,57,0,,6,Lucia Bronzetti,Jodie Burrage,6-4 6-4,0.81,4.3%,11.4%,58.6%,63.4%,31.0%,54.5% (6/11),45.0%,40.5%,2.5%,38.5%,44.4%,25.0% (3/12),1:40
+31-Oct-2022,W100 Shrewsbury,3,Hard,R16,128,126,0,,,Eva Lys,Jodie Burrage,2-6 7-6(2) 6-4,,,,,,,,,,,,,,
+31-Oct-2022,W100 Shrewsbury,3,Hard,R32,128,98,1,,5,Jodie Burrage,Elena Gabriela Ruse,6-1 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,QF,138,140,0,,6,Clara Tauson,Jodie Burrage,7-6(2) 7-6(5),,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R16,138,308,1,,WC,Jodie Burrage,Audrey Albie,6-3 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,138,184,1,,WC,Jodie Burrage,Elsa Jacquemot,6-4 6-1,,,,,,,,,,,,,,
@@ -7,7 +77,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Oct-2022,W60 Glasgow,3,Hard,R16,141,570,1,3,WC,Jodie Burrage,Amarni Banks,6-4 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W60 Glasgow,3,Hard,R32,141,380,1,3,,Jodie Burrage,Elena Malygina,6-2 6-2,,,,,,,,,,,,,,
 26-Sep-2022,Tallinn,3,Hard,Q1,137,174,0,7,,Jessika Ponchet,Jodie Burrage,2-6 6-3 6-4,0.99,0.0%,5.8%,55.8%,58.3%,55.3%,58.3% (7/12),49.4%,42.4%,5.4%,28.0%,59.5%,55.6% (5/9),2:02
-12-Sep-2022,Portoroz,3,Hard,R16,151,82,0,Q,,Katerina Siniakova,Jodie Burrage,7-5 6-1 (ch),0.66,1.4%,4.3%,66.7%,52.2%,30.4%,33.3% (3/9),41.3%,36.5%,7.7%,22.2%,68.8%,100.0% (2/2),1:29
+12-Sep-2022,Portoroz,3,Hard,R16,151,82,0,Q,,Katerina Siniakova,Jodie Burrage,7-5 6-1,0.66,1.4%,4.3%,66.7%,52.2%,30.4%,33.3% (3/9),41.3%,36.5%,7.7%,22.2%,68.8%,100.0% (2/2),1:29
 12-Sep-2022,Portoroz,3,Hard,R32,151,75,1,Q,,Jodie Burrage,Aleksandra Krunic,6-4 6-4,1.12,8.1%,1.6%,59.7%,81.1%,48.0%,66.7% (2/3),53.6%,36.0%,4.0%,38.5%,33.3%,60.0% (3/5),1:16
 12-Sep-2022,Portoroz,3,Hard,Q2,151,237,1,6,12,Jodie Burrage,Stefanie Voegele,6-4 4-6 7-6(1),1.09,5.4%,1.8%,63.1%,57.1%,53.7%,40.0% (4/10),52.0%,48.3%,1.7%,41.2%,58.3%,42.9% (6/14),2:36
 12-Sep-2022,Portoroz,3,Hard,Q1,151,518,1,6,,Jodie Burrage,Nika Radisic,6-4 6-2,2.05,10.6%,4.3%,68.1%,90.6%,53.3%,- (0/0),58.7%,43.5%,1.6%,34.2%,58.3%,60.0% (3/5),1:07
@@ -24,6 +94,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jun-2022,Eastbourne,3,Grass,R16,169,29,0,WC,15,Beatriz Haddad Maia,Jodie Burrage,6-1 6-2,0.48,0.0%,0.0%,58.7%,59.3%,36.8%,20.0% (1/5),37.0%,23.9%,10.9%,11.5%,40.0%,0.0% (0/2),1:10
 20-Jun-2022,Eastbourne,3,Grass,R32,169,4,1,WC,1,Jodie Burrage,Paula Badosa,6-4 6-3,1.31,6.1%,8.2%,61.2%,80.0%,47.4%,66.7% (2/3),53.6%,42.9%,3.2%,43.2%,42.3%,30.8% (4/13),1:13
 20-Jun-2022,Eastbourne,3,Grass,R64,169,80,1,WC,,Jodie Burrage,Petra Martic,3-6 7-5 6-3,1.12,9.0%,3.4%,64.0%,61.4%,56.3%,64.3% (9/14),52.2%,45.2%,8.6%,34.6%,58.5%,60.0% (6/10),2:13
+13-Jun-2022,W100 Ilkley,3,Grass,F,216,98,0,WC,1,Dalma Galfi,Jodie Burrage,7-5 4-6 6-3,,,,,,,,,,,,,,
+13-Jun-2022,W100 Ilkley,3,Grass,SF,216,268,1,WC,WC,Jodie Burrage,Sonay Kartal,7-6(4) 7-6(1),,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,QF,216,132,1,WC,4,Jodie Burrage,Daria Snigur,6-2 6-3,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,R16,216,136,1,WC,5,Jodie Burrage,Mai Hontama,6-3 6-2,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,R32,216,149,1,WC,,Jodie Burrage,Arina Rodionova,6-3 7-5,,,,,,,,,,,,,,
@@ -99,8 +171,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,W25 Potchefstroom,3,Hard,R16,259,531,1,,Q,Jodie Burrage,Ekaterina Makarova,6-1 6-3,,,,,,,,,,,,,,
 8-Feb-2021,W25 Potchefstroom,3,Hard,R32,259,198,1,,2,Jodie Burrage,Marina Melnikova,7-6(5) 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,263,289,0,4,,Amandine Hesse,Jodie Burrage,2-6 6-4 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,263,289,0,4,,Amandine Hesse,Jodie Burrage,2-6 6-4 6-2,,,,,,,,,,,,,,
-6-Jan-2021,Abu Dhabi,3,Hard,R64,263,58,0,LL,,Heather Watson,Jodie Burrage,4-6 6-2 7-5 (ch),1.21,6.3%,3.6%,54.1%,63.3%,52.9%,60.0% (6/10),54.5%,50.0%,2.0%,40.6%,66.7%,42.9% (6/14),2:22
+6-Jan-2021,Abu Dhabi,3,Hard,R64,263,58,0,LL,,Heather Watson,Jodie Burrage,4-6 6-2 7-5,1.21,6.3%,3.6%,54.1%,63.3%,52.9%,60.0% (6/10),54.5%,50.0%,2.0%,40.6%,66.7%,42.9% (6/14),2:22
 6-Jan-2021,Abu Dhabi,3,Hard,Q2,263,289,0,,,Amandine Hesse,Jodie Burrage,6-3 6-2,0.69,6.2%,0.0%,66.2%,44.2%,54.5%,58.3% (7/12),42.3%,36.2%,6.9%,27.3%,48.0%,11.1% (1/9),1:20
 6-Jan-2021,Abu Dhabi,3,Hard,Q2,263,289,0,,,Amandine Hesse,Jodie Burrage,6-3 6-2,0.69,6.2%,0.0%,66.2%,44.2%,54.5%,58.3% (7/12),42.3%,36.2%,6.9%,27.3%,48.0%,11.1% (1/9),1:20
 6-Jan-2021,Abu Dhabi,3,Hard,Q1,263,658,1,,,Jodie Burrage,Nadiya Kichenok,6-2 6-3,1.54,0.0%,3.8%,58.5%,74.2%,50.0%,66.7% (4/6),59.8%,55.1%,2.0%,55.2%,55.0%,66.7% (6/9),1:03

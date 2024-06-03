@@ -1,4 +1,110 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Strasbourg,3,Clay,Q2,139,101,0,,8,Erika Andreeva,Chloe Paquet,6-3 7-5,0.72,1.4%,5.4%,58.1%,60.5%,41.9%,63.6% (7/11),43.5%,34.2%,1.4%,28.3%,44.4%,25.0% (2/8),2:02
+20-May-2024,Strasbourg,3,Clay,Q1,139,55,1,,4,Chloe Paquet,Sofia Kenin,6-4 7-6(4),1.10,17.5%,10.3%,48.5%,74.5%,36.0%,60.0% (6/10),52.5%,50.0%,2.4%,46.3%,56.7%,45.5% (5/11),1:58
+13-May-2024,Paris 125,3,Clay,R32,133,79,0,WC,,Viktoriya Tomova,Chloe Paquet,3-6 6-3 6-1,0.83,1.1%,8.0%,51.7%,62.2%,40.5%,50.0% (6/12),46.3%,40.0%,2.7%,32.6%,50.0%,33.3% (3/9),2:09
+29-Apr-2024,Saint Malo 125,3,Clay,F,149,191,0,,WC,Lois Boisson,Chloe Paquet,4-6 7-6(3) 6-3,0.99,3.0%,1.0%,65.0%,56.9%,45.7%,36.4% (4/11),49.5%,46.6%,0.8%,37.7%,59.2%,40.0% (6/15),2:53
+29-Apr-2024,Saint Malo 125,3,Clay,SF,149,167,1,,,Chloe Paquet,Celine Naef,6-3 6-4,1.22,1.8%,8.8%,54.4%,71.0%,42.3%,40.0% (2/5),54.4%,51.5%,2.9%,45.8%,65.0%,50.0% (6/12),1:34
+29-Apr-2024,Saint Malo 125,3,Clay,QF,149,87,1,,3,Chloe Paquet,Peyton Stearns,7-5 2-6 6-0,1.09,10.6%,8.2%,58.8%,66.0%,42.9%,66.7% (8/12),52.1%,47.5%,6.3%,41.2%,58.6%,75.0% (6/8),2:03
+29-Apr-2024,Saint Malo 125,3,Clay,R16,149,210,1,,Q,Chloe Paquet,Iryna Shymanovich,6-4 6-3,1.29,6.9%,6.9%,62.1%,72.2%,45.5%,66.7% (4/6),56.0%,49.0%,0.0%,48.6%,50.0%,83.3% (5/6),1:23
+29-Apr-2024,Saint Malo 125,3,Clay,R32,149,103,1,,6,Chloe Paquet,Renata Zarazua,3-6 6-0 6-4,1.30,6.2%,3.1%,55.4%,69.4%,55.2%,20.0% (1/5),54.8%,48.1%,1.2%,40.7%,63.0%,46.2% (6/13),2:17
+22-Apr-2024,W100 Oeiras,3,Clay,R32,149,228,0,6,WC,Kristina Mladenovic,Chloe Paquet,6-4 3-6 6-1,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,SF,154,200,0,2,7,Polona Hercog,Chloe Paquet,2-6 6-1 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,QF,154,227,1,2,,Chloe Paquet,Justina Mikulskyte,3-6 6-1 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R16,154,222,1,2,,Chloe Paquet,Cristina Andreea Mitu,6-3 6-1,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R32,154,397,1,2,Q,Chloe Paquet,Aurora Zantedeschi,6-7(4) 6-2 6-0,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,SF,157,246,0,5,,Lois Boisson,Chloe Paquet,6-2 3-6 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,QF,157,150,1,5,4,Chloe Paquet,Lucrezia Stefanini,6-4 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R16,157,226,1,5,,Chloe Paquet,Nikola Bartunkova,2-6 6-3 7-6(7),,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R32,157,1018,1,5,Q,Chloe Paquet,Jessica Bertoldo,6-4 6-2,,,,,,,,,,,,,,
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,154,379,0,,Q,Victoria Jimenez Kasintseva,Chloe Paquet,6-3 7-6(5),0.88,1.2%,19.3%,49.4%,56.1%,42.9%,73.3% (11/15),46.8%,44.4%,0.0%,48.2%,38.2%,23.1% (3/13),2:29
+25-Mar-2024,Antalya 125,3,Clay,R32,154,157,0,,,Elsa Jacquemot,Chloe Paquet,1-6 6-3 6-1,0.84,1.2%,4.8%,57.1%,52.1%,44.4%,50.0% (6/12),46.3%,43.1%,4.6%,37.8%,55.0%,44.4% (4/9),2:15
+26-Feb-2024,Austin,3,Hard,Q1,150,292,0,11,WC,Liv Hovde,Chloe Paquet,6-4 6-1,0.68,0.0%,10.3%,58.6%,47.1%,45.8%,28.6% (2/7),41.6%,36.4%,0.0%,32.4%,42.9%,40.0% (2/5),1:18
+19-Feb-2024,Puerto Vallarta 125,3,Hard,R32,154,106,0,,5,Maria Lourdes Carle,Chloe Paquet,6-3 6-2,0.72,3.2%,11.1%,54.0%,55.9%,20.7%,50.0% (7/14),41.2%,43.1%,0.0%,38.9%,53.3%,42.9% (3/7),1:33
+5-Feb-2024,Mumbai 125,3,Hard,R32,154,134,0,,,Alina Korneeva,Chloe Paquet,6-1 6-3,0.74,4.4%,11.1%,55.6%,72.0%,25.0%,33.3% (2/6),42.2%,35.9%,6.3%,12.9%,57.6%,0.0% (0/8),1:15
+29-Jan-2024,Hua Hin,3,Hard,R32,152,90,0,Q,,Zhuoxuan Bai,Chloe Paquet,7-6(5) 6-3,0.81,6.5%,2.6%,58.4%,60.0%,34.4%,45.5% (5/11),45.5%,41.2%,4.4%,34.8%,54.5%,57.1% (4/7),1:55
+29-Jan-2024,Hua Hin,3,Hard,Q2,152,162,1,5,10,Chloe Paquet,Panna Udvardy,6-4 6-4,1.20,1.6%,4.7%,65.6%,64.3%,59.1%,0.0% (0/2),52.8%,45.0%,1.3%,34.3%,53.3%,33.3% (4/12),1:52
+29-Jan-2024,Hua Hin,3,Hard,Q1,152,176,1,5,,Chloe Paquet,Irina Bara,6-1 6-0,2.04,8.5%,12.8%,53.2%,88.0%,45.5%,100.0% (5/5),66.7%,65.0%,0.0%,69.6%,58.8%,62.5% (5/8),1:07
+15-Jan-2024,W50 Bengaluru,3,Hard,QF,147,189,0,2,6,Carole Monnet,Chloe Paquet,6-4 6-1,,,,,,,,,,,,,,
+15-Jan-2024,W50 Bengaluru,3,Hard,R16,147,317,1,2,,Chloe Paquet,Sakura Hosogi,6-4 6-0,,,,,,,,,,,,,,
+15-Jan-2024,W50 Bengaluru,3,Hard,R32,147,1242,1,2,WC,Chloe Paquet,Suhitha Maruri,6-2 6-1,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,147,208,0,,,Destanee Aiava,Chloe Paquet,6-3 7-6(5),0.91,2.8%,6.9%,68.1%,59.2%,52.2%,40.0% (2/5),47.7%,39.2%,5.1%,37.5%,43.5%,22.2% (2/9),1:42
+1-Jan-2024,Brisbane,3,Hard,Q1,151,119,0,,3,Mai Hontama,Chloe Paquet,7-5 6-3,0.87,3.1%,4.6%,52.3%,67.6%,51.6%,66.7% (4/6),45.9%,34.9%,2.4%,23.1%,54.8%,0.0% (0/8),1:59
+4-Dec-2023,Angers 125,3,Hard,F,186,60,0,,2,Clara Burel,Chloe Paquet,3-6 6-4 6-2,0.96,0.0%,2.5%,64.2%,61.5%,37.9%,12.5% (1/8),48.6%,45.0%,2.0%,30.6%,58.8%,45.5% (5/11),2:07
+4-Dec-2023,Angers 125,3,Hard,SF,186,90,1,,3,Chloe Paquet,Cristina Bucsa,7-6(3) 6-2,1.52,11.3%,3.2%,62.9%,76.9%,60.9%,66.7% (2/3),56.9%,44.1%,2.9%,32.6%,68.2%,42.9% (3/7),1:30
+4-Dec-2023,Angers 125,3,Hard,QF,186,48,1,,1,Chloe Paquet,Elisabetta Cocciaretto,7-5 6-3,1.55,12.7%,3.6%,65.5%,75.0%,52.6%,33.3% (1/3),57.8%,50.7%,1.4%,46.8%,57.7%,55.6% (5/9),1:38
+4-Dec-2023,Angers 125,3,Hard,R16,186,116,1,,8,Chloe Paquet,Alize Cornet,6-3 7-6(5),1.14,1.3%,6.7%,56.0%,52.4%,60.6%,70.0% (7/10),53.1%,50.0%,2.9%,44.1%,55.6%,62.5% (5/8),2:01
+4-Dec-2023,Angers 125,3,Hard,R32,186,167,1,,,Chloe Paquet,Kaia Kanepi,6-4 6-2,1.51,11.3%,5.7%,64.2%,88.2%,36.8%,0.0% (0/1),57.3%,45.6%,3.5%,40.0%,54.5%,57.1% (4/7),1:14
+20-Nov-2023,W25 Ortisei,3,Hard,R16,188,375,0,1,,Diana Marcinkevica,Chloe Paquet,6-3 3-6 7-5,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,R32,188,382,1,1,,Chloe Paquet,Tamira Paszek,6-0 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W40 Funchal,3,Hard,R32,188,270,0,2,,Xinyu Gao,Chloe Paquet,6-1 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,QF,186,757,0,5,WC,Renata Jamrichova,Chloe Paquet,7-5 6-7(5) 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,R16,186,411,1,5,,Chloe Paquet,Aneta Kladivova,6-1 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,R32,186,594,1,5,Q,Chloe Paquet,Valeriya Olyanovskaya,7-6(7) 6-2,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,R32,186,396,0,7,Q,Tamira Paszek,Chloe Paquet,6-1 2-6 7-6(3),,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,R32,187,34,0,Q,4,Lesia Tsurenko,Chloe Paquet,6-2 6-3,0.65,3.5%,7.0%,63.2%,38.9%,61.9%,16.7% (1/6),41.1%,34.0%,0.0%,23.5%,56.3%,33.3% (1/3),1:18
+16-Oct-2023,Monastir,3,Hard,Q2,187,145,1,6,1,Chloe Paquet,Sachia Vickery,6-7(4) 6-3 2-0 RET,1.39,9.1%,10.6%,54.5%,80.6%,46.7%,0.0% (0/2),55.6%,48.3%,1.1%,36.7%,63.2%,55.6% (5/9),2:02
+16-Oct-2023,Monastir,3,Hard,Q1,187,266,1,6,,Chloe Paquet,Cagla Buyukakcay,6-4 6-4,1.23,1.7%,8.5%,62.7%,70.3%,31.8%,50.0% (4/8),55.0%,54.3%,0.0%,45.0%,81.0%,42.9% (6/14),2:03
+9-Oct-2023,Rouen 125,3,Hard,R32,187,178,0,WC,,Simona Waltert,Chloe Paquet,6-0 5-7 6-2,0.78,4.0%,6.7%,56.0%,52.4%,36.4%,42.9% (6/14),44.0%,42.7%,1.3%,43.9%,41.2%,66.7% (4/6),2:01
+18-Sep-2023,Parma 125,3,Clay,R16,188,108,0,,6,Kaja Juvan,Chloe Paquet,3-6 6-4 6-1,0.88,6.3%,6.3%,59.5%,66.0%,40.6%,33.3% (3/9),48.0%,39.1%,2.9%,39.5%,38.5%,80.0% (4/5),2:02
+18-Sep-2023,Parma 125,3,Clay,R32,188,453,1,,WC,Chloe Paquet,Jennifer Ruggeri,6-3 6-4,1.53,3.8%,0.0%,66.0%,74.3%,72.2%,50.0% (1/2),57.1%,40.4%,0.0%,41.2%,38.9%,75.0% (3/4),1:23
+11-Sep-2023,Bucharest 125,3,Clay,R32,183,244,0,,Q,Marie Benoit,Chloe Paquet,3-6 6-2 6-4,0.93,5.1%,8.2%,57.1%,51.8%,35.7%,50.0% (9/18),47.8%,51.2%,0.0%,47.7%,63.2%,50.0% (7/14),2:37
+4-Sep-2023,W60 Montreux,3,Clay,R16,209,447,0,5,WC,Conny Perrin,Chloe Paquet,1-6 6-3 6-3,,,,,,,,,,,,,,
+4-Sep-2023,W60 Montreux,3,Clay,R32,209,317,1,5,,Chloe Paquet,Ella Seidel,1-6 7-6(3) 6-4,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,F,209,102,1,6,1,Chloe Paquet,Lucrezia Stefanini,6-2 6-1,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,SF,209,216,1,6,7,Chloe Paquet,Ipek Oz,6-1 4-6 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,QF,209,172,1,6,4,Chloe Paquet,Polina Kudermetova,6-2 6-1,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R16,209,335,1,6,,Chloe Paquet,Gabriela Ce,6-3 3-6 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W60 Collonge-Bellerive,3,Clay,R32,209,875,1,6,WC,Chloe Paquet,Karolina Kozakova,6-2 6-4,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,209,144,0,,,Harriet Dart,Chloe Paquet,3-6 6-4 6-1,0.91,3.3%,7.8%,63.3%,64.9%,36.4%,37.5% (3/8),47.6%,41.6%,3.0%,30.6%,51.9%,21.4% (3/14),2:26
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,R16,207,63,0,,2,Julia Grabher,Chloe Paquet,4-6 6-4 6-0,,,,,,,,,,,,,,
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,R32,207,172,1,,,Chloe Paquet,Reka Luca Jani,0-6 6-4 6-1,,,,,,,,,,,,,,
+31-Jul-2023,Prague,3,Hard,Q2,207,117,0,12,3,Viktoria Hruncakova,Chloe Paquet,6-2 6-4,0.68,7.0%,8.8%,57.9%,57.6%,29.2%,44.4% (4/9),41.2%,36.8%,5.3%,27.6%,46.4%,40.0% (2/5),1:21
+31-Jul-2023,Prague,3,Hard,Q1,207,345,1,12,,Chloe Paquet,Jessie Aney,7-6(2) 6-2,1.26,1.3%,2.7%,61.3%,60.9%,44.8%,73.3% (11/15),56.1%,57.3%,1.2%,51.4%,61.7%,54.5% (6/11),1:56
+24-Jul-2023,Lausanne,3,Clay,R16,217,68,0,Q,8,Elina Avanesyan,Chloe Paquet,2-6 7-5 6-1,0.91,2.1%,3.1%,60.4%,65.5%,39.5%,66.7% (10/15),48.6%,41.0%,1.2%,36.5%,55.0%,57.1% (4/7),2:15
+24-Jul-2023,Lausanne,3,Clay,R32,217,169,1,Q,Q,Chloe Paquet,Reka Luca Jani,7-5 6-2,1.26,7.1%,5.4%,62.5%,68.6%,47.6%,33.3% (1/3),54.2%,49.3%,0.0%,44.2%,56.3%,45.5% (5/11),1:48
+17-Jul-2023,Iasi 125,3,Clay,R32,213,31,0,,1,Irina Camelia Begu,Chloe Paquet,7-6(4) 6-1,0.77,3.2%,11.1%,57.1%,61.1%,25.9%,54.5% (6/11),43.8%,41.8%,4.5%,19.6%,90.5%,50.0% (3/6),1:48
+10-Jul-2023,Bastad 125,3,Clay,R16,178,99,0,,,Viktoriya Tomova,Chloe Paquet,7-6(12) 6-4,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,178,172,1,,,Chloe Paquet,Nigina Abduraimova,6-1 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W40 The Hague,3,Clay,R32,178,454,0,3,Q,Anastasiya Soboleva,Chloe Paquet,7-6(4) 6-3,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q2,178,102,0,,7,Mirra Andreeva,Chloe Paquet,6-1 6-2,0.56,4.3%,4.3%,61.7%,48.3%,33.3%,54.5% (6/11),37.2%,31.9%,4.3%,23.3%,47.1%,100.0% (1/1),0:59
+3-Jul-2023,Wimbledon,5,Grass,Q1,178,190,1,,,Chloe Paquet,Marcela Zacarias,7-5 6-0,1.37,5.6%,4.2%,61.1%,56.8%,53.6%,72.7% (8/11),58.1%,60.9%,0.0%,56.5%,72.2%,63.6% (7/11),1:42
+12-Jun-2023,W60 Rome,3,Clay,R16,181,1020,0,4,Q,Guillermina Naya,Chloe Paquet,6-2 7-6(3),,,,,,,,,,,,,,
+12-Jun-2023,W60 Rome,3,Clay,R32,181,563,1,4,Q,Chloe Paquet,Anastasia Kovaleva,6-1 7-6(1),,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R32,183,238,0,,Q,Miriam Bianca Bulgaru,Chloe Paquet,6-3 4-6 6-4,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,183,131,0,,18,Aliona Bolsova,Chloe Paquet,6-4 6-7(2) 6-4,0.99,1.8%,7.1%,60.7%,57.4%,47.7%,63.6% (14/22),49.6%,45.8%,0.0%,41.8%,63.6%,50.0% (6/12),
+29-May-2023,Roland Garros,5,Clay,Q1,183,223,1,,,Chloe Paquet,Rosa Vicens Mas,3-6 6-2 6-2,1.20,3.5%,4.7%,61.2%,61.5%,42.4%,58.3% (7/12),54.5%,55.0%,0.0%,59.0%,42.1%,70.0% (7/10),
+15-May-2023,Paris 125,3,Clay,R32,201,99,0,Q,,Oceane Dodin,Chloe Paquet,2-6 6-4 6-3,0.98,7.1%,15.3%,63.5%,66.7%,22.6%,57.1% (8/14),49.4%,48.3%,5.7%,22.5%,70.2%,46.2% (6/13),1:51
+8-May-2023,W100 Trnava,3,Clay,SF,201,191,0,8,7,Yanina Wickmayer,Chloe Paquet,6-2 4-6 6-4,,,,,,,,,,,,,,
+8-May-2023,W100 Trnava,3,Clay,QF,201,229,1,8,,Chloe Paquet,Kristina Dmitruk,6-4 6-4,,,,,,,,,,,,,,
+8-May-2023,W100 Trnava,3,Clay,R16,201,653,1,8,Q,Chloe Paquet,Ivana Sebestova,4-6 6-3 6-2,,,,,,,,,,,,,,
+8-May-2023,W100 Trnava,3,Clay,R32,201,485,1,8,WC,Chloe Paquet,Radka Zelnickova,6-4 6-2,,,,,,,,,,,,,,
+1-May-2023,Saint Malo 125,3,Clay,R32,192,100,0,,7,Magdalena Frech,Chloe Paquet,6-1 6-3,0.71,0.0%,9.1%,52.7%,51.7%,34.6%,54.5% (6/11),41.8%,40.3%,3.0%,36.7%,50.0%,11.1% (1/9),1:34
+17-Apr-2023,W100 Charleston SC,3,Clay,R32,186,378,0,,Q,Liv Hovde,Chloe Paquet,6-7(0) 6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,QF,189,133,0,,8,Jessika Ponchet,Chloe Paquet,7-5 3-6 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R16,189,73,1,,1,Chloe Paquet,Danka Kovinic,3-6 6-4 7-5,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R32,189,268,1,,,Chloe Paquet,Asia Muhammad,5-7 7-5 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,175,444,0,,WC,Manon Leonard,Chloe Paquet,6-1 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,R16,172,570,0,2,Q,Alina Korneeva,Chloe Paquet,6-4 6-4,,,,,,,,,,,,,,
+13-Mar-2023,W60 Pretoria,3,Hard,R32,172,353,1,2,,Chloe Paquet,Isabella Kruger,6-4 7-6(6),,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,QF,172,195,0,6,,Anastasia Zakharova,Chloe Paquet,3-6 6-2 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R16,172,184,1,6,,Chloe Paquet,Darya Astakhova,6-1 7-5,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R32,172,445,1,6,WC,Chloe Paquet,Zhibek Kulambayeva,6-3 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,SF,170,167,0,4,5,Polina Kudermetova,Chloe Paquet,6-0 7-5,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,QF,170,371,1,4,Q,Chloe Paquet,Sofya Lansere,6-4 7-5,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R16,170,505,1,4,WC,Chloe Paquet,Gozal Ainitdinova,7-6(3) 6-0,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,170,282,1,4,Q,Chloe Paquet,Kyoka Okamura,7-5 6-4,,,,,,,,,,,,,,
+20-Feb-2023,W40 Macon,3,Hard,R32,163,,0,7,Q,Amandine Hesse,Chloe Paquet,6-4 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,R32,161,418,0,6,Q,Eliz Maloney,Chloe Paquet,7-6(5) 4-2 RET,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,QF,157,115,0,7,2,Lucrezia Stefanini,Chloe Paquet,3-6 7-6(11) 6-4,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R16,157,473,1,7,LL,Chloe Paquet,Lucia Cortez Llorca,6-2 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Porto,3,Hard,R32,157,252,1,7,,Chloe Paquet,Tessah Andrianjafitrimo,3-6 7-6(10) 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R32,,,0,7,,Oksana Selekhmeteva,Chloe Paquet,7-5 6-4,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,SF,163,326,0,2,Q,Zeynep Sonmez,Chloe Paquet,6-1 6-0,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,QF,163,312,1,2,Q,Chloe Paquet,Dominika Salkova,6-2 3-6 6-2,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R16,163,309,1,2,Q,Chloe Paquet,Eden Silva,6-4 7-6(0),,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R32,163,1092,1,2,WC,Chloe Paquet,Patricija Paukstyte,4-6 6-0 6-3,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,163,205,0,,,Barbora Palicova,Chloe Paquet,6-4 7-6(3),0.89,3.4%,1.1%,65.5%,52.6%,46.7%,66.7% (10/15),47.4%,44.0%,1.2%,41.7%,47.2%,44.4% (4/9),1:55
+2-Jan-2023,Auckland,3,Hard,Q1,164,117,0,WC,3,Moyuka Uchijima,Chloe Paquet,6-3 6-4,0.73,5.5%,9.1%,52.7%,65.5%,34.6%,50.0% (4/8),42.9%,35.9%,3.1%,31.4%,41.4%,28.6% (2/7),1:34
 24-Oct-2022,W80 Poitiers,3,Hard,R16,113,105,0,,,Ysaline Bonaventure,Chloe Paquet,7-6(3) 6-7(8) 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,113,58,1,,1,Chloe Paquet,Diane Parry,6-4 6-4,,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,R16,115,121,0,,ALT,Kamilla Rakhimova,Chloe Paquet,7-6(3) 2-6 6-4,1.01,6.9%,2.0%,57.8%,69.5%,48.8%,76.9% (10/13),50.5%,39.6%,5.2%,29.0%,58.8%,44.4% (4/9),2:45
@@ -32,7 +138,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2022,W60 Biarritz,3,Clay,QF,101,1208,0,1,Q,Mina Hodzic,Chloe Paquet,7-6(2) 4-6 7-6(4),,,,,,,,,,,,,,
 6-Jun-2022,W60 Biarritz,3,Clay,R16,101,368,1,1,,Chloe Paquet,Magali Kempen,4-6 6-3 7-5,,,,,,,,,,,,,,
 6-Jun-2022,W60 Biarritz,3,Clay,R32,101,462,1,1,WC,Chloe Paquet,Maria Timofeeva,6-4 7-6(4),,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R128,101,7,0,,7,Aryna Sabalenka,Chloe Paquet,2-6 6-3 6-4,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
+23-May-2022,Roland Garros,5,Clay,R128,101,7,0,,7,Aryna Sabalenka,Chloe Paquet,2-6 6-3 6-4,0.94,3.8%,5.1%,61.5%,64.6%,43.3%,33.3% (2/6),48.0%,41.1%,3.2%,33.8%,56.7%,66.7% (4/6),
 16-May-2022,Rabat,3,Clay,R32,102,50,0,,4,Mayar Sherif,Chloe Paquet,6-0 6-2,0.57,2.0%,7.8%,45.1%,26.1%,35.7%,36.4% (4/11),34.5%,38.9%,2.8%,39.1%,38.5%,100.0% (2/2),1:12
 9-May-2022,Paris 125,3,Clay,R32,101,157,0,,,Su Jeong Jang,Chloe Paquet,6-4 6-1,0.67,0.0%,1.9%,71.2%,45.9%,26.7%,25.0% (2/8),40.2%,40.0%,0.0%,34.1%,57.1%,40.0% (2/5),1:28
 2-May-2022,W60 Koper,3,Clay,QF,101,212,0,1,6,Andrea Lazaro Garcia,Chloe Paquet,6-3 6-2,,,,,,,,,,,,,,
@@ -132,7 +238,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Apr-2021,Bogota,3,Clay,Q1,186,1009,1,6,WC,Chloe Paquet,Antonia Samudio,6-2 6-3,1.53,8.2%,14.3%,42.9%,85.7%,53.6%,0.0% (0/1),57.9%,50.0%,0.0%,33.3%,67.9%,36.4% (4/11),1:13
 1-Mar-2021,Lyon,3,Hard,Q1,183,131,0,,2,Margarita Gasparyan,Chloe Paquet,6-3 6-4,0.86,0.0%,7.1%,58.9%,66.7%,47.8%,40.0% (2/5),45.7%,35.2%,0.0%,28.9%,42.4%,33.3% (1/3),1:31
 13-Feb-2021,Phillip Island Trophy,3,Hard,Q1,187,138,0,,1,Mihaela Buzarnescu,Chloe Paquet,6-2 6-4,1.75,5.9%,5.9%,62.7%,84.4%,63.2%,100.0% (1/1),57.9%,41.1%,8.9%,32.4%,57.9%,33.3% (3/9),
-8-Feb-2021,Australian Open,5,Hard,R128,187,131,0,Q,Q,Mayar Sherif,Chloe Paquet,7-5 7-5 (ch),0.69,7.0%,7.0%,52.1%,70.3%,55.9%,33.3% (1/3),44.9%,25.4%,3.0%,16.7%,47.4%,0.0% (0/1),1:41
+8-Feb-2021,Australian Open,5,Hard,R128,187,131,0,Q,Q,Mayar Sherif,Chloe Paquet,7-5 7-5,0.69,7.0%,7.0%,52.1%,70.3%,55.9%,33.3% (1/3),44.9%,25.4%,3.0%,16.7%,47.4%,0.0% (0/1),1:41
 31-Jan-2021,Gippsland Trophy,3,Hard,R64,187,218,0,,WC,Destanee Aiava,Chloe Paquet,6-1 4-6 6-4,0.95,4.0%,7.0%,59.0%,69.5%,43.9%,71.4% (10/14),48.6%,38.9%,2.8%,26.7%,54.2%,6.7% (1/15),2:20
 10-Jan-2021,Dubai Aus Open Qualies,3,Hard,Q3,187,230,1,,,Chloe Paquet,Yue Yuan,7-6(3) 6-3,1.18,7.7%,10.3%,67.9%,64.2%,40.0%,60.0% (6/10),53.9%,51.3%,0.0%,44.0%,65.4%,60.0% (6/10),1:39
 10-Jan-2021,Dubai Aus Open Qualies,3,Hard,Q3,187,230,1,,,Chloe Paquet,Yue Yuan,7-6(3) 6-3,1.18,7.7%,10.3%,67.9%,64.2%,40.0%,60.0% (6/10),53.9%,51.3%,0.0%,44.0%,65.4%,60.0% (6/10),1:39
@@ -149,7 +255,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Aug-2020,Palermo,3,Clay,Q1,170,194,0,,,Martina Di Giuseppe,Chloe Paquet,0-6 6-2 6-4,1.06,5.9%,10.3%,63.2%,62.8%,32.0%,25.0% (2/8),51.4%,51.2%,2.5%,48.7%,53.7%,46.2% (6/13),1:48
 2-Mar-2020,Lyon,3,Hard,R32,166,42,0,WC,2,Kristina Mladenovic,Chloe Paquet,1-6 6-2 6-4,0.93,2.1%,3.1%,50.5%,57.1%,35.4%,36.4% (4/11),48.1%,50.0%,4.4%,34.5%,74.3%,50.0% (6/12),2:12
 17-Feb-2020,Dubai,3,Hard,Q1,166,40,0,,6,Su Wei Hsieh,Chloe Paquet,6-2 6-2,0.50,1.8%,1.8%,63.6%,51.4%,35.0%,50.0% (5/10),37.4%,27.3%,2.3%,15.0%,37.5%,50.0% (1/2),1:03
-10-Feb-2020,Hua Hin,3,Hard,R32,165,286,0,,LL,Peangtarn Plipuech,Chloe Paquet,7-6(3) 3-6 6-4 (ch),0.98,2.1%,8.5%,56.4%,54.7%,41.5%,46.2% (6/13),49.5%,50.0%,0.0%,44.6%,57.1%,53.3% (8/15),2:48
+10-Feb-2020,Hua Hin,3,Hard,R32,165,286,0,,LL,Peangtarn Plipuech,Chloe Paquet,7-6(3) 3-6 6-4,0.98,2.1%,8.5%,56.4%,54.7%,41.5%,46.2% (6/13),49.5%,50.0%,0.0%,44.6%,57.1%,53.3% (8/15),2:48
 27-Jan-2020,W25 Nonthaburi,3,Hard,F,178,171,0,4,3,Ankita Raina,Chloe Paquet,6-3 7-5,,,,,,,,,,,,,,
 27-Jan-2020,W25 Nonthaburi,3,Hard,SF,178,153,1,4,2,Chloe Paquet,Xin Yu Wang,6-3 1-6 6-4,,,,,,,,,,,,,,
 27-Jan-2020,W25 Nonthaburi,3,Hard,QF,178,456,1,4,Q,Chloe Paquet,Akgul Amanmuradova,6-1 6-4,,,,,,,,,,,,,,
@@ -188,7 +294,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-May-2019,Strasbourg,3,Clay,SF,223,24,0,,4,Caroline Garcia,Chloe Paquet,6-3 6-4,0.66,5.9%,7.8%,66.7%,67.6%,52.9%,60.0% (3/5),42.6%,24.6%,19.3%,20.5%,38.5%,- (0/0),1:13
 20-May-2019,Strasbourg,3,Clay,QF,223,63,1,,,Chloe Paquet,Daria Saville,6-3 7-6(1),1.06,14.5%,6.0%,57.8%,83.3%,42.9%,83.3% (5/6),53.5%,35.6%,1.7%,38.6%,26.7%,28.6% (2/7),1:42
 20-May-2019,Strasbourg,3,Clay,R16,223,180,1,,Q,Chloe Paquet,Xinyun Han,6-3 6-3,1.88,14.3%,10.2%,63.3%,80.6%,61.1%,50.0% (1/2),60.6%,50.0%,0.0%,40.9%,75.0%,44.4% (4/9),1:16
-20-May-2019,Strasbourg,3,Clay,R32,223,34,1,,5,Chloe Paquet,Sofia Kenin,6-3 6-3 (ch),1.33,13.2%,5.7%,58.5%,67.7%,59.1%,60.0% (3/5),55.1%,47.7%,0.0%,41.7%,64.7%,41.7% (5/12),1:19
+20-May-2019,Strasbourg,3,Clay,R32,223,34,1,,5,Chloe Paquet,Sofia Kenin,6-3 6-3,1.33,13.2%,5.7%,58.5%,67.7%,59.1%,60.0% (3/5),55.1%,47.7%,0.0%,41.7%,64.7%,41.7% (5/12),1:19
 13-May-2019,W60 Saint Gaudens,3,Clay,QF,229,365,0,,,Jana Fett,Chloe Paquet,5-7 6-2 7-5,,,,,,,,,,,,,,
 13-May-2019,W60 Saint Gaudens,3,Clay,R16,229,129,1,,,Chloe Paquet,Arantxa Rus,4-6 7-5 7-6(5),,,,,,,,,,,,,,
 13-May-2019,W60 Saint Gaudens,3,Clay,R32,229,250,1,,,Chloe Paquet,Nina Stojanovic,6-2 6-3,,,,,,,,,,,,,,
@@ -319,7 +425,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Apr-2017,Irapuato $25K,3,Hard,R32,246,627,0,2,,Marcela Zacarias,Chloe Paquet,6-4 6-4,,,,,,,,,,,,,,
 3-Apr-2017,Monterrey,3,Hard,Q2,254,191,0,,8,Nadia Podoroska,Chloe Paquet,6-4 4-6 3-1 RET,1.02,1.2%,6.0%,61.4%,64.7%,46.9%,66.7% (8/12),50.3%,42.9%,1.2%,34.0%,54.1%,50.0% (3/6),1:54
 3-Apr-2017,Monterrey,3,Hard,Q1,254,243,1,,,Chloe Paquet,Catalina Pella,6-4 6-4,1.31,9.8%,4.9%,50.8%,74.2%,63.3%,66.7% (2/3),55.0%,40.7%,6.8%,29.7%,59.1%,37.5% (3/8),1:19
-20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,F,278,533,0,,Q,Katarina Zavatska,Chloe Paquet,6-1 6-3 (ch),,,,,,,,,,,,,,
+20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,F,278,533,0,,Q,Katarina Zavatska,Chloe Paquet,6-1 6-3,,,,,,,,,,,,,,
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,SF,278,235,1,,,Chloe Paquet,Fiona Ferro,5-7 6-4 6-2,,,,,,,,,,,,,,
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,QF,278,460,1,,Q,Chloe Paquet,Dea Herdzelas,6-1 1-6 6-4,,,,,,,,,,,,,,
 20-Mar-2017,Santa Margherita Di Pula $25K,3,Clay,R16,278,202,1,,4,Chloe Paquet,Conny Perrin,6-3 2-6 7-5,,,,,,,,,,,,,,

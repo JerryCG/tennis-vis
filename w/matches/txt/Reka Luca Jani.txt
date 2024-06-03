@@ -1,4 +1,69 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W35 Annenheim,3,Clay,R32,385,1202,0,6,Q,Katherine Barnes,Reka Luca Jani,6-4 5-7 6-4,,,,,,,,,,,,,,
+13-May-2024,W35 Villach,3,Clay,R32,384,562,0,,Q,Fiona Ganz,Reka Luca Jani,7-5 3-6 6-0,,,,,,,,,,,,,,
+6-May-2024,W75 Trnava,3,Clay,Q1,384,,0,5,,Adela Polakovicova,Reka Luca Jani,7-5 6-1,,,,,,,,,,,,,,
+16-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,313,703,0,,WC,Anastasia Abbagnato,Reka Luca Jani,6-1 6-3,,,,,,,,,,,,,,
+9-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,305,782,0,8,Q,Alessandra Mazzola,Reka Luca Jani,6-2 6-2,,,,,,,,,,,,,,
+2-Oct-2023,W40 Lisbon,3,Clay,R32,303,330,0,,,Eva Vedder,Reka Luca Jani,6-2 6-4,,,,,,,,,,,,,,
+25-Sep-2023,W40 Kursumlijska Banja,3,Clay,R32,288,216,0,,5,Lina Gjorcheska,Reka Luca Jani,6-7(5) 6-4 7-6(3),,,,,,,,,,,,,,
+25-Sep-2023,W40 Kursumlijska Banja,3,Clay,R64,288,323,1,,,Reka Luca Jani,Andreea Prisacariu,6-4 4-6 6-2,,,,,,,,,,,,,,
+18-Sep-2023,Parma 125,3,Clay,R16,298,58,0,,1,Anna Karolina Schmiedlova,Reka Luca Jani,6-3 6-2,0.63,0.0%,3.8%,73.1%,44.7%,50.0%,54.5% (6/11),40.0%,34.0%,7.5%,40.0%,26.1%,33.3% (2/6),1:22
+18-Sep-2023,Parma 125,3,Clay,R32,298,167,1,,,Reka Luca Jani,Ylena In Albon,4-6 6-1 6-1,1.68,1.7%,1.7%,79.7%,70.2%,66.7%,25.0% (1/4),59.5%,51.4%,1.4%,45.2%,60.0%,53.8% (7/13),1:45
+11-Sep-2023,Ljubljana 125,3,Clay,R16,249,141,0,LL,3,Dalma Galfi,Reka Luca Jani,6-1 7-6(3),0.84,0.0%,1.4%,81.9%,45.8%,46.2%,33.3% (3/9),45.7%,45.6%,4.4%,37.5%,57.1%,33.3% (3/9),1:40
+11-Sep-2023,Ljubljana 125,3,Clay,R32,249,397,1,LL,WC,Reka Luca Jani,Ziva Falkner,4-6 6-2 6-2,1.12,2.0%,5.0%,75.2%,64.5%,40.0%,76.9% (10/13),52.8%,46.7%,1.1%,36.1%,67.7%,31.6% (6/19),2:31
+4-Sep-2023,Bari 125,3,Clay,R32,170,79,0,,1,Alize Cornet,Reka Luca Jani,7-5 6-4,0.88,0.0%,5.9%,72.1%,51.0%,42.1%,50.0% (6/12),46.8%,45.5%,2.3%,41.7%,53.6%,28.6% (4/14),2:17
+28-Aug-2023,W60 Prague,3,Clay,R32,170,291,0,2,,Anca Alexia Todoni,Reka Luca Jani,2-6 6-4 6-1,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,170,729,0,,WC,Fiona Crawley,Reka Luca Jani,6-1 6-7(5) 7-6(6),0.83,0.0%,6.1%,76.5%,55.7%,33.3%,52.9% (9/17),46.0%,41.0%,1.0%,36.5%,48.6%,55.6% (5/9),2:55
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,R32,172,207,0,,,Chloe Paquet,Reka Luca Jani,0-6 6-4 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Cordenons,3,Clay,R16,172,336,0,2,WC,Fanny Stollar,Reka Luca Jani,6-4 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Cordenons,3,Clay,R32,172,462,1,2,,Reka Luca Jani,Angelica Moratelli,6-4 6-2,,,,,,,,,,,,,,
+24-Jul-2023,Lausanne,3,Clay,R32,169,217,0,Q,Q,Chloe Paquet,Reka Luca Jani,7-5 6-2,0.80,0.0%,6.7%,57.3%,55.8%,43.8%,54.5% (6/11),45.8%,39.3%,7.1%,31.4%,52.4%,66.7% (2/3),1:48
+17-Jul-2023,Iasi 125,3,Clay,R16,167,31,0,,1,Irina Camelia Begu,Reka Luca Jani,6-3 6-1,0.68,0.0%,0.0%,75.5%,40.0%,46.2%,45.5% (5/11),40.7%,40.0%,1.8%,37.1%,45.0%,40.0% (2/5),1:30
+17-Jul-2023,Iasi 125,3,Clay,R32,167,702,1,,,Reka Luca Jani,Polona Hercog,6-4 7-5,1.16,0.0%,4.2%,80.6%,58.6%,42.9%,50.0% (4/8),53.5%,51.4%,1.4%,44.4%,63.0%,42.9% (6/14),1:44
+10-Jul-2023,Bastad 125,3,Clay,R32,155,94,0,,8,Olga Danilovic,Reka Luca Jani,0-6 6-3 6-0,,,,,,,,,,,,,,
+3-Jul-2023,W60 Liepaja,3,Clay,R32,155,536,0,3,,Eszter Meri,Reka Luca Jani,1-6 6-2 7-5,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q2,155,127,0,,22,Nao Hibino,Reka Luca Jani,6-3 6-3,0.85,0.0%,1.6%,68.3%,60.5%,25.0%,44.4% (4/9),46.3%,43.3%,5.0%,44.4%,40.0%,18.2% (2/11),1:20
+3-Jul-2023,Wimbledon,5,Grass,Q1,155,,1,,WC,Reka Luca Jani,Hannah Klugman,6-1 7-6(6),1.14,0.0%,6.7%,72.0%,61.1%,42.9%,62.5% (5/8),53.2%,50.0%,4.7%,34.3%,69.0%,55.6% (5/9),1:32
+19-Jun-2023,W40 Ystad,3,Clay,QF,157,178,0,2,7,Elvina Kalieva,Reka Luca Jani,5-7 6-4 6-2,,,,,,,,,,,,,,
+19-Jun-2023,W40 Ystad,3,Clay,R16,157,664,1,2,Q,Reka Luca Jani,Stephanie Wagner,6-4 6-4,,,,,,,,,,,,,,
+19-Jun-2023,W40 Ystad,3,Clay,R32,157,405,1,2,LL,Reka Luca Jani,Emma Lene,7-6(5) 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R16,158,392,0,2,,Aneta Kladivova,Reka Luca Jani,6-1 6-0,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R32,158,724,1,2,Q,Reka Luca Jani,Sofia Milatova,6-4 7-5,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R32,148,69,0,,4,Peyton Stearns,Reka Luca Jani,2-6 6-4 6-2,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,148,193,0,,,Alice Robbe,Reka Luca Jani,7-6(4) 7-5,0.95,0.0%,6.6%,71.4%,55.4%,38.5%,61.5% (8/13),48.9%,47.1%,2.3%,46.8%,47.5%,40.0% (4/10),
+29-May-2023,Roland Garros,5,Clay,Q1,148,117,1,,7,Reka Luca Jani,Su Jeong Jang,6-4 6-3,1.28,0.0%,0.0%,75.4%,60.5%,57.1%,0.0% (0/3),55.6%,51.7%,6.7%,44.2%,70.6%,55.6% (5/9),
+15-May-2023,W25 Feld am See,3,Clay,SF,147,762,0,1,SE,Lara Salden,Reka Luca Jani,2-6 6-3 7-5,,,,,,,,,,,,,,
+15-May-2023,W25 Feld am See,3,Clay,QF,147,496,1,1,,Reka Luca Jani,Mara Guth,6-3 6-3,,,,,,,,,,,,,,
+15-May-2023,W25 Feld am See,3,Clay,R16,147,466,1,1,,Reka Luca Jani,Emily Seibold,6-2 7-6(4),,,,,,,,,,,,,,
+15-May-2023,W25 Feld am See,3,Clay,R32,147,388,1,1,,Reka Luca Jani,Diana Marcinkevica,6-4 6-7(6) 6-2,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,R32,147,234,0,2,,Petra Marcinko,Reka Luca Jani,6-3 4-6 7-5,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R16,131,244,0,1,,Sada Nahimana,Reka Luca Jani,6-3 6-4,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R32,131,391,1,1,Q,Reka Luca Jani,Ylona Georgiana Ghioroaie,7-5 4-6 6-1,,,,,,,,,,,,,,
+24-Apr-2023,Madrid,3,Clay,Q1,131,113,0,,21,Kimberly Birrell,Reka Luca Jani,6-0 6-1,0.32,0.0%,3.6%,87.3%,39.6%,42.9%,33.3% (3/9),32.6%,19.4%,9.7%,13.0%,37.5%,0.0% (0/2),0:57
+17-Apr-2023,W60 Koper,3,Clay,QF,131,148,0,3,7,Aliona Bolsova,Reka Luca Jani,6-0 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,R16,131,224,1,3,16,Reka Luca Jani,Tena Lukas,2-6 6-1 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Koper,3,Clay,R32,131,292,1,3,,Reka Luca Jani,Berfu Cengiz,6-3 6-3,,,,,,,,,,,,,,
+15-Apr-2023,BJK Cup G1 PO: HUN vs SWE,3,Clay,RR,129,390,0,,,Kajsa Rinaldo Persson,Reka Luca Jani,7-5 6-4,,,,,,,,,,,,,,
+13-Apr-2023,BJK Cup G1 RR: LAT vs HUN,3,Clay,RR,129,299,0,,,Daniela Vismane,Reka Luca Jani,6-2 6-3,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,R32,130,110,0,,,Tamara Zidansek,Reka Luca Jani,6-0 6-1,0.54,2.4%,9.8%,68.3%,35.7%,30.8%,33.3% (3/9),34.9%,35.6%,0.0%,31.4%,50.0%,0.0% (0/4),1:00
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,130,92,0,,5,Kamilla Rakhimova,Reka Luca Jani,3-6 7-5 6-2,0.92,0.0%,7.5%,66.7%,61.3%,32.3%,41.7% (5/12),48.1%,44.6%,4.3%,35.6%,53.2%,83.3% (5/6),2:27
+20-Mar-2023,Miami,3,Hard,Q1,130,54,0,,1,Varvara Gracheva,Reka Luca Jani,7-6(5) 6-2,0.75,1.3%,1.3%,80.0%,56.7%,33.3%,60.0% (6/10),44.9%,36.1%,1.6%,27.3%,46.4%,66.7% (2/3),1:37
+13-Mar-2023,W40 Anapoima,3,Clay,R32,131,266,0,2,,Julia Riera,Reka Luca Jani,6-3 7-6(8),,,,,,,,,,,,,,
+6-Mar-2023,Indian Wells,3,Hard,Q1,131,408,0,21,WC,Liv Hovde,Reka Luca Jani,6-3 6-2,0.75,0.0%,3.3%,72.1%,38.6%,47.1%,53.3% (8/15),42.6%,44.3%,1.6%,44.2%,44.4%,42.9% (3/7),1:22
+27-Feb-2023,W60 Trnava,3,Hard,R32,117,213,0,5,,Yanina Wickmayer,Reka Luca Jani,6-2 6-1,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,Q1,118,101,0,,16,Oceane Dodin,Reka Luca Jani,3-6 6-2 6-2,0.77,0.0%,2.8%,73.6%,56.6%,21.1%,25.0% (2/8),44.0%,40.6%,4.3%,31.3%,48.6%,66.7% (4/6),1:34
+30-Jan-2023,Cali 125,3,Clay,R32,111,156,0,1,,Nadia Podoroska,Reka Luca Jani,6-0 6-2,0.64,0.0%,10.6%,76.6%,36.1%,27.3%,50.0% (7/14),38.5%,42.1%,0.0%,44.2%,35.7%,28.6% (2/7),1:23
+23-Jan-2023,W25 Orlando FL,3,Hard,R16,,,0,1,,Emina Bektas,Reka Luca Jani,2-6 6-3 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W25 Orlando FL,3,Hard,R32,,,1,1,,Reka Luca Jani,Hina Inoue,6-4 6-4,,,,,,,,,,,,,,
+16-Jan-2023,W60 Vero Beach FL,3,Clay,R32,111,573,0,1,Q,Lia Karatancheva,Reka Luca Jani,3-6 6-4 7-6(2),,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,111,157,0,10,,Despina Papamichail,Reka Luca Jani,6-1 6-0,0.57,0.0%,5.2%,74.1%,48.8%,13.3%,57.1% (8/14),37.3%,34.6%,1.9%,30.8%,46.2%,0.0% (0/4),1:19
+2-Jan-2023,W40 Nonthaburi,3,Hard,R32,112,319,0,1,,Anastasia Kulikova,Reka Luca Jani,6-1 6-1,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,QF,110,489,0,1,,Amina Anshba,Reka Luca Jani,7-5 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R16,110,,1,1,,Reka Luca Jani,Noelia Zeballos Melgar,7-6(9) 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R32,110,715,1,1,Q,Reka Luca Jani,Anna Sinclair Rogers,6-3 6-3,,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R32,110,291,0,5,Q,Xiaodi You,Reka Luca Jani,6-1 6-4,0.76,0.0%,3.7%,72.2%,41.0%,46.7%,40.0% (4/10),43.1%,43.5%,4.8%,29.4%,60.7%,42.9% (3/7),1:49
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,110,138,0,7,,Ann Li,Reka Luca Jani,7-5 6-0,0.78,0.0%,4.8%,79.0%,49.0%,30.8%,50.0% (6/12),43.7%,42.5%,3.8%,31.9%,57.6%,14.3% (2/14),1:37
+31-Oct-2022,W60 Barranquilla,3,Hard,R32,110,377,0,3,,Viktoria Morvayova,Reka Luca Jani,6-4 6-4,,,,,,,,,,,,,,
 24-Oct-2022,Tampico,3,Hard,R32,110,243,0,,,Eva Vedder,Reka Luca Jani,3-6 6-1 6-3,0.77,1.1%,4.4%,72.2%,56.9%,52.0%,44.4% (4/9),46.3%,34.3%,1.4%,31.8%,38.5%,28.6% (2/7),2:07
 3-Oct-2022,W25 Sibenik,3,Clay,QF,105,207,0,1,6,Tara Wurth,Reka Luca Jani,6-2 6-4,,,,,,,,,,,,,,
 3-Oct-2022,W25 Sibenik,3,Clay,R16,105,526,1,1,,Reka Luca Jani,Christina Rosca,6-0 6-3,,,,,,,,,,,,,,
@@ -39,10 +104,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2022,Valencia 125,3,Clay,R16,138,410,1,,Q,Reka Luca Jani,Leyre Romero Gormaz,6-3 6-7(6) 6-4,1.11,0.0%,7.9%,66.7%,53.9%,31.6%,43.8% (7/16),52.7%,59.4%,0.0%,50.8%,70.2%,52.4% (11/21),2:46
 6-Jun-2022,Valencia 125,3,Clay,R32,138,99,1,,8,Reka Luca Jani,Dalma Galfi,6-3 6-2,1.50,0.0%,1.9%,79.2%,57.1%,63.6%,57.1% (4/7),60.2%,62.2%,6.7%,56.0%,70.0%,66.7% (6/9),1:05
 30-May-2022,Makarska 125,3,Clay,R32,,357,0,,WC,Tara Wurth,Reka Luca Jani,6-2 6-4,0.76,4.8%,4.8%,74.2%,43.5%,37.5%,57.1% (8/14),43.1%,44.3%,0.0%,47.9%,30.8%,42.9% (3/7),1:25
-23-May-2022,Roland Garros,5,Clay,R128,145,14,0,LL,14,Belinda Bencic,Reka Luca Jani,6-1 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,145,114,0,20,13,Aleksandra Krunic,Reka Luca Jani,7-5 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,145,237,1,20,,Reka Luca Jani,Jaimee Fourlis,6-7(3) 7-5 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,145,446,1,20,WC,Reka Luca Jani,Audrey Albie,6-4 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,145,14,0,LL,14,Belinda Bencic,Reka Luca Jani,6-1 6-1,0.59,0.0%,4.9%,68.3%,39.3%,23.1%,14.3% (1/7),36.7%,38.8%,4.1%,23.3%,63.2%,25.0% (1/4),
+23-May-2022,Roland Garros,5,Clay,Q3,145,114,0,20,13,Aleksandra Krunic,Reka Luca Jani,7-5 6-2,0.84,0.0%,6.5%,80.6%,52.0%,25.0%,33.3% (3/9),45.8%,44.6%,8.9%,40.0%,52.4%,100.0% (3/3),
+23-May-2022,Roland Garros,5,Clay,Q2,145,237,1,20,,Reka Luca Jani,Jaimee Fourlis,6-7(3) 7-5 6-3,1.12,0.9%,0.0%,83.3%,57.9%,63.2%,61.5% (8/13),52.4%,46.2%,0.9%,42.2%,59.3%,36.4% (8/22),
+23-May-2022,Roland Garros,5,Clay,Q1,145,446,1,20,WC,Reka Luca Jani,Audrey Albie,6-4 6-2,1.34,0.0%,0.0%,90.3%,66.1%,16.7%,77.8% (7/9),57.0%,51.9%,7.7%,53.2%,40.0%,45.5% (5/11),
 9-May-2022,W100+H La Bisbal D'Emporda,3,Clay,R16,129,184,0,5,,Victoria Jimenez Kasintseva,Reka Luca Jani,7-6(9) 6-2,,,,,,,,,,,,,,
 9-May-2022,W100+H La Bisbal D'Emporda,3,Clay,R32,129,193,1,5,,Reka Luca Jani,Caty Mcnally,6-3 6-3,,,,,,,,,,,,,,
 2-May-2022,W60 Prague,3,Clay,QF,139,277,0,2,WC,Miriam Kolodziejova,Reka Luca Jani,4-6 7-5 6-2,,,,,,,,,,,,,,
@@ -271,7 +336,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Jul-2018,Baja $25K,3,Clay,R16,350,402,1,,,Reka Luca Jani,Miriam Bianca Bulgaru,6-0 6-2,,,,,,,,,,,,,,
 23-Jul-2018,Baja $25K,3,Clay,R32,350,639,1,,Q,Reka Luca Jani,Satsuki Takamura,6-0 6-4,,,,,,,,,,,,,,
 16-Jul-2018,Bucharest,3,Clay,Q1,341,195,0,,5,Cagla Buyukakcay,Reka Luca Jani,6-4 6-4,0.73,2.3%,5.8%,69.8%,63.3%,42.3%,88.2% (15/17),45.8%,31.3%,0.0%,28.8%,40.0%,0.0% (0/5),1:51
-9-Jul-2018,Budapest $100K,3,Clay,R16,390,69,0,,,Viktoria Kuzmova,Reka Luca Jani,6-3 6-1,,,,,,,,,,,,,,
+9-Jul-2018,Budapest $100K,3,Clay,R16,390,69,0,,,Viktoria Hruncakova,Reka Luca Jani,6-3 6-1,,,,,,,,,,,,,,
 9-Jul-2018,Budapest $100K,3,Clay,R32,390,136,1,,,Reka Luca Jani,Jana Cepelova,6-3 6-1,,,,,,,,,,,,,,
 2-Jul-2018,Rome $60K,3,Clay,R16,390,127,0,,2,Dayana Yastremska,Reka Luca Jani,6-3 6-2,,,,,,,,,,,,,,
 2-Jul-2018,Rome $60K,3,Clay,R32,390,208,1,,,Reka Luca Jani,Jaqueline Cristian,4-6 6-3 6-2,,,,,,,,,,,,,,
@@ -364,7 +429,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Apr-2016,Chiasso $25K,3,Clay,R16,230,218,1,,3,Reka Luca Jani,Cristina Dinu,6-4 7-6(4),,,,,,,,,,,,,,
 25-Apr-2016,Chiasso $25K,3,Clay,R32,230,438,1,,LL,Reka Luca Jani,Clothilde De Bernardi,4-6 6-4 6-0,,,,,,,,,,,,,,
 18-Apr-2016,Istanbul,3,Clay,R16,266,65,0,Q,6,Nao Hibino,Reka Luca Jani,2-6 6-2 6-3,0.92,2.2%,6.6%,76.9%,50.0%,33.3%,55.6% (10/18),47.5%,49.3%,0.0%,44.4%,64.7%,66.7% (6/9),1:58
-18-Apr-2016,Istanbul,3,Clay,R32,266,388,1,Q,WC,Reka Luca Jani,Ayla Aksu,6-3 6-4 (ch),1.45,3.4%,6.9%,62.1%,72.2%,63.6%,66.7% (2/3),56.8%,45.0%,1.7%,31.0%,58.1%,42.9% (3/7),1:09
+18-Apr-2016,Istanbul,3,Clay,R32,266,388,1,Q,WC,Reka Luca Jani,Ayla Aksu,6-3 6-4,1.45,3.4%,6.9%,62.1%,72.2%,63.6%,66.7% (2/3),56.8%,45.0%,1.7%,31.0%,58.1%,42.9% (3/7),1:09
 18-Apr-2016,Istanbul,3,Clay,Q2,266,207,1,,10,Reka Luca Jani,Jia Jing Lu,7-5 6-3,1.28,1.4%,8.7%,60.9%,71.4%,48.1%,66.7% (4/6),54.5%,48.2%,0.0%,46.3%,51.6%,28.6% (4/14),1:39
 18-Apr-2016,Istanbul,3,Clay,Q1,266,136,1,,3,Reka Luca Jani,Romina Oprandi,6-3 6-1,1.46,3.9%,3.9%,58.8%,56.7%,52.4%,50.0% (3/6),60.6%,66.0%,0.0%,65.0%,69.2%,58.3% (7/12),1:06
 11-Apr-2016,Istanbul $50K,3,Hard,R32,223,292,0,8,Q,Viktoria Kamenskaya,Reka Luca Jani,6-2 6-3,,,,,,,,,,,,,,

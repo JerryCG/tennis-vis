@@ -1,4 +1,42 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+5-Feb-2024,Cluj-Napoca,3,Hard,Q2,593,112,0,ALT,4,Erika Andreeva,Irina Khromacheva,5-7 6-1 1-0 RET,0.93,3.1%,4.7%,56.3%,72.2%,46.4%,72.7% (8/11),48.5%,36.4%,6.1%,29.3%,48.0%,33.3% (1/3),1:35
+5-Feb-2024,Cluj-Napoca,3,Hard,Q1,593,910,1,ALT,WC,Irina Khromacheva,Briana Szabo,6-1 6-1,2.74,7.5%,12.5%,52.5%,95.2%,52.6%,100.0% (1/1),72.0%,68.6%,2.9%,65.0%,73.3%,71.4% (5/7),0:55
+8-Jan-2024,Hobart,3,Hard,Q1,530,87,0,ALT,,Zhuoxuan Bai,Irina Khromacheva,6-2 6-3,0.69,4.0%,12.0%,44.0%,63.6%,35.7%,50.0% (4/8),41.4%,36.1%,3.3%,20.0%,57.7%,50.0% (1/2),1:16
+9-Oct-2023,Seoul,3,Hard,R32,401,343,0,LL,,Kathinka Von Deichmann,Irina Khromacheva,5-7 6-4 3-0 RET,0.85,6.8%,12.5%,51.1%,60.0%,41.9%,40.0% (4/10),46.5%,41.5%,4.9%,41.7%,40.9%,57.1% (4/7),2:09
+9-Oct-2023,Seoul,3,Hard,Q2,401,165,0,5,2,Arianne Hartono,Irina Khromacheva,7-5 6-4,0.79,3.4%,9.1%,59.1%,63.5%,50.0%,70.0% (7/10),46.9%,33.3%,4.2%,33.3%,33.3%,25.0% (1/4),1:48
+9-Oct-2023,Seoul,3,Hard,Q1,401,651,1,5,,Irina Khromacheva,Dabin Kim,6-2 6-3,1.70,8.5%,8.5%,40.4%,84.2%,53.6%,50.0% (1/2),62.0%,57.8%,0.0%,46.7%,80.0%,71.4% (5/7),1:07
+21-Aug-2023,Chicago 125,3,Hard,R32,378,97,0,Q,,Madison Brengle,Irina Khromacheva,6-1 6-0,0.52,0.0%,4.1%,57.1%,42.9%,33.3%,33.3% (3/9),35.6%,31.7%,0.0%,30.3%,37.5%,0.0% (0/3),1:05
+10-Jul-2023,Bastad 125,3,Clay,R16,314,93,0,,7,Claire Liu,Irina Khromacheva,6-2 6-4,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,314,367,1,,,Irina Khromacheva,Kajsa Rinaldo Persson,6-3 2-6 6-0,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,307,149,0,WC,,Ylena In Albon,Irina Khromacheva,6-2 6-3,,,,,,,,,,,,,,
+22-May-2023,Rabat,3,Clay,R32,297,237,0,,,Timea Babos,Irina Khromacheva,6-4 6-1,0.67,1.9%,9.4%,49.1%,46.2%,44.4%,40.0% (4/10),41.2%,36.7%,8.2%,31.3%,47.1%,33.3% (2/6),1:20
+24-Apr-2023,W60 Istanbul,3,Clay,R16,256,299,0,,,Berfu Cengiz,Irina Khromacheva,7-6(0) 2-6 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W60 Istanbul,3,Clay,R32,256,163,1,,3,Irina Khromacheva,Priscilla Hon,6-3 5-7 6-0,,,,,,,,,,,,,,
+17-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,256,518,0,3,Q,Sara Cakarevic,Irina Khromacheva,6-2 4-6 6-2,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,Q2,264,224,0,,,Natalija Stevanovic,Irina Khromacheva,2-6 6-4 7-6(5),0.99,5.0%,9.2%,59.2%,67.6%,36.7%,66.7% (8/12),49.8%,44.6%,1.7%,42.5%,48.8%,35.7% (5/14),3:01
+3-Apr-2023,Bogota,3,Clay,Q1,264,452,1,,ALT,Irina Khromacheva,Mariia Tkacheva,6-3 6-0,1.59,6.3%,12.5%,47.9%,69.6%,52.0%,50.0% (1/2),61.6%,62.7%,0.0%,54.8%,75.0%,60.0% (6/10),1:09
+27-Mar-2023,W25 Sopo,3,Clay,QF,264,230,0,,6,Suzan Lamens,Irina Khromacheva,6-1 1-0 RET,,,,,,,,,,,,,,
+27-Mar-2023,W25 Sopo,3,Clay,R16,264,313,1,,,Irina Khromacheva,Kathinka Von Deichmann,6-4 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Sopo,3,Clay,R32,264,396,1,,,Irina Khromacheva,Maria Fernanda Herazo Gonzalez,6-4 4-6 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Mosquera,3,Clay,R16,264,366,0,8,,Margaux Rouvroy,Irina Khromacheva,6-3 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W25 Mosquera,3,Clay,R32,264,377,1,8,,Irina Khromacheva,Martina Capurro Taborda,6-4 1-6 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W40 Anapoima,3,Clay,R32,240,219,0,,,Sinja Kraus,Irina Khromacheva,6-2 6-2,,,,,,,,,,,,,,
+30-Jan-2023,Hua Hin,3,Hard,Q1,241,342,0,10,,Ellen Perez,Irina Khromacheva,6-1 RET,0.49,0.0%,0.0%,75.0%,47.6%,42.9%,71.4% (5/7),37.3%,26.1%,8.7%,14.3%,44.4%,- (0/0),0:35
+23-Jan-2023,W40 Pune,3,Hard,QF,244,,0,6,1,Tatjana Maria,Irina Khromacheva,6-2 6-3,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R16,244,717,1,6,Q,Irina Khromacheva,Tina Nadine Smith,6-4 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R32,244,1110,1,6,WC,Irina Khromacheva,Akanksha Dileep Nitture,6-1 6-1,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R16,244,612,0,4,Q,Eri Shimizu,Irina Khromacheva,6-1 6-4,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R32,244,981,1,4,LL,Irina Khromacheva,Sravya Shivani Chilakalapudi,6-1 6-2,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,244,105,0,,3,Anna Karolina Schmiedlova,Irina Khromacheva,6-2 6-3,0.58,1.9%,9.4%,54.7%,62.1%,33.3%,33.3% (2/6),40.0%,29.8%,4.3%,31.0%,27.8%,50.0% (1/2),1:10
+2-Jan-2023,W60 Canberra,3,Hard,Q1,213,194,0,,8,Robin Anderson,Irina Khromacheva,5-7 6-3 6-4,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,F,237,316,0,6,,Iryna Shymanovich,Irina Khromacheva,6-2 5-7 6-4,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,SF,237,489,1,6,,Irina Khromacheva,Amina Anshba,6-2 2-6 6-4,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,QF,237,174,1,6,3,Irina Khromacheva,Hailey Baptiste,4-6 6-4 6-1,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R16,237,289,1,6,,Irina Khromacheva,Xiaodi You,6-0 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R32,237,361,1,6,,Irina Khromacheva,Ana Sofia Sanchez,6-2 4-0 RET,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,239,116,0,,5,Magdalena Frech,Irina Khromacheva,6-1 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R16,240,116,0,,5,Magdalena Frech,Irina Khromacheva,6-2 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,240,226,1,,,Irina Khromacheva,Carole Monnet,2-6 7-6(5) 6-0,,,,,,,,,,,,,,
 17-Oct-2022,W25 Sozopol,3,Hard,R32,235,567,0,2,,Sebastianna Scilipoti,Irina Khromacheva,6-1 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Sozopol,3,Hard,R16,240,580,0,3,Q,Gabriela Andrea Knutson,Irina Khromacheva,6-2 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Sozopol,3,Hard,R32,240,1085,1,3,SE,Irina Khromacheva,Denislava Glushkova,7-5 6-0,,,,,,,,,,,,,,
@@ -58,7 +96,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Jan-2022,W25 Monastir,3,Hard,QF,345,513,1,4,,Irina Khromacheva,Fanny Ostlund,6-2 6-1,,,,,,,,,,,,,,
 3-Jan-2022,W25 Monastir,3,Hard,R16,345,410,1,4,,Irina Khromacheva,Nagi Hanatani,6-2 6-3,,,,,,,,,,,,,,
 3-Jan-2022,W25 Monastir,3,Hard,R32,345,745,1,4,Q,Irina Khromacheva,Ksenia Laskutova,2-6 6-4 6-3,,,,,,,,,,,,,,
-29-Nov-2021,W25 Jablonec nad Nisou,3,Carpet,QF,354,163,0,,1,Viktoria Kuzmova,Irina Khromacheva,1-6 6-3 7-6(3),,,,,,,,,,,,,,
+29-Nov-2021,W25 Jablonec nad Nisou,3,Carpet,QF,354,163,0,,1,Viktoria Hruncakova,Irina Khromacheva,1-6 6-3 7-6(3),,,,,,,,,,,,,,
 29-Nov-2021,W25 Jablonec nad Nisou,3,Carpet,R16,354,344,1,,,Irina Khromacheva,Maja Chwalinska,6-0 6-3,,,,,,,,,,,,,,
 29-Nov-2021,W25 Jablonec nad Nisou,3,Carpet,R32,354,234,1,,5,Irina Khromacheva,Isabella Shinikova,6-4 6-4,,,,,,,,,,,,,,
 8-Nov-2021,Linz,3,Hard,Q1,352,100,0,SR,1,Jaqueline Cristian,Irina Khromacheva,6-3 6-2,0.57,0.0%,5.6%,59.3%,59.4%,50.0%,62.5% (5/8),40.4%,25.5%,10.9%,6.5%,50.0%,0.0% (0/3),1:15
@@ -67,7 +105,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Oct-2021,W25 Lagos,3,Hard,R16,359,264,0,SR,,Naiktha Bains,Irina Khromacheva,6-1 6-4,,,,,,,,,,,,,,
 11-Oct-2021,W25 Lagos,3,Hard,R32,359,249,1,SR,5,Irina Khromacheva,Xiaodi You,6-4 6-3,,,,,,,,,,,,,,
 27-Sep-2021,W25 Budapest,3,Clay,R32,360,1280,0,SR,WC,Natalia Szabanin,Irina Khromacheva,6-3 6-4,,,,,,,,,,,,,,
-10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,F,568,86,1,SR,1,Irina Khromacheva,Arantxa Rus,6-4 1-6 7-6(8) (ch),,,,,,,,,,,,,,
+10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,F,568,86,1,SR,1,Irina Khromacheva,Arantxa Rus,6-4 1-6 7-6(8),,,,,,,,,,,,,,
 10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,SF,568,164,1,SR,,Irina Khromacheva,Olga Danilovic,3-6 7-5 6-0,,,,,,,,,,,,,,
 10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,QF,568,125,1,SR,7,Irina Khromacheva,Greet Minnen,6-3 6-3,,,,,,,,,,,,,,
 10-May-2021,W60+H La Bisbal D'Emporda,3,Clay,R16,568,197,1,SR,,Irina Khromacheva,Lara Arruabarrena,1-6 6-3 6-3,,,,,,,,,,,,,,
@@ -124,7 +162,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jan-2019,Australian Open,5,Hard,Q2,135,234,1,25,WC,Irina Khromacheva,Olivia Rogowska,6-3 6-2,1.75,8.2%,6.1%,51.0%,80.0%,62.5%,50.0% (1/2),61.1%,50.0%,4.3%,41.4%,64.7%,57.1% (4/7),0:58
 14-Jan-2019,Australian Open,5,Hard,Q1,135,187,1,25,,Irina Khromacheva,Barbara Haas,6-4 6-4,1.17,10.6%,4.5%,53.0%,71.4%,58.1%,75.0% (3/4),53.6%,40.7%,1.7%,30.0%,63.2%,60.0% (3/5),1:25
 31-Dec-2018,Shenzhen,3,Hard,Q1,135,99,0,,2,Monica Niculescu,Irina Khromacheva,6-0 6-3,0.56,4.3%,12.8%,36.2%,41.2%,30.0%,36.4% (4/11),35.3%,36.8%,0.0%,32.4%,75.0%,66.7% (2/3),0:58
-29-Oct-2018,Mumbai,3,Hard,F,165,103,0,,5,Luksika Kumkhum,Irina Khromacheva,1-6 6-2 6-3 (ch),0.77,1.2%,8.2%,60.0%,66.7%,38.2%,58.3% (7/12),46.3%,34.4%,4.7%,28.2%,44.0%,66.7% (4/6),1:47
+29-Oct-2018,Mumbai,3,Hard,F,165,103,0,,5,Luksika Kumkhum,Irina Khromacheva,1-6 6-2 6-3,0.77,1.2%,8.2%,60.0%,66.7%,38.2%,58.3% (7/12),46.3%,34.4%,4.7%,28.2%,44.0%,66.7% (4/6),1:47
 29-Oct-2018,Mumbai,3,Hard,SF,165,73,1,,2,Irina Khromacheva,Dalila Jakupovic,6-4 7-5,1.10,2.9%,10.3%,61.8%,76.2%,30.8%,50.0% (3/6),51.7%,45.5%,1.3%,35.4%,62.1%,62.5% (5/8),1:30
 29-Oct-2018,Mumbai,3,Hard,QF,165,171,1,,,Irina Khromacheva,Valentini Grammatikopoulou,7-5 4-6 6-1,1.20,1.3%,5.1%,51.9%,70.7%,52.6%,55.6% (5/9),52.8%,45.5%,0.0%,43.1%,51.7%,50.0% (7/14),1:52
 29-Oct-2018,Mumbai,3,Hard,R16,165,363,1,,Q,Irina Khromacheva,Urszula Radwanska,2-6 6-1 6-2,1.21,6.8%,5.5%,53.4%,69.2%,61.8%,50.0% (2/4),53.8%,41.4%,0.0%,36.0%,55.0%,40.0% (4/10),1:43
@@ -146,7 +184,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Jul-2018,Wimbledon,5,Grass,Q2,140,120,0,,9,Evgeniya Rodina,Irina Khromacheva,7-6(7) 6-2,,,,,,,,,,,,,,
 2-Jul-2018,Wimbledon,5,Grass,Q1,140,176,1,,,Irina Khromacheva,Valentyna Ivakhnenko,3-6 6-3 10-8,,,,,,,,,,,,,,
 18-Jun-2018,Ilkley $100K,3,Grass,R32,138,122,0,,,Arina Rodionova,Irina Khromacheva,6-0 6-3,,,,,,,,,,,,,,
-30-Apr-2018,Anning,3,Clay,F,210,133,1,,4,Irina Khromacheva,Saisai Zheng,3-6 6-4 7-6(5) (ch),0.95,1.0%,6.9%,56.9%,51.7%,45.5%,38.5% (5/13),48.8%,48.5%,3.0%,52.2%,40.6%,58.3% (7/12),2:35
+30-Apr-2018,Anning,3,Clay,F,210,133,1,,4,Irina Khromacheva,Saisai Zheng,3-6 6-4 7-6(5),0.95,1.0%,6.9%,56.9%,51.7%,45.5%,38.5% (5/13),48.8%,48.5%,3.0%,52.2%,40.6%,58.3% (7/12),2:35
 30-Apr-2018,Anning,3,Clay,SF,210,157,1,,7,Irina Khromacheva,Xinyun Han,6-1 6-3,1.37,8.2%,13.1%,59.0%,61.1%,52.0%,71.4% (5/7),57.9%,58.3%,0.0%,51.4%,69.6%,50.0% (6/12),1:26
 30-Apr-2018,Anning,3,Clay,QF,210,100,1,,3,Irina Khromacheva,Yanina Wickmayer,2-6 6-3 6-3,1.09,6.3%,17.7%,45.6%,72.2%,37.2%,40.0% (4/10),52.1%,51.1%,0.0%,43.1%,62.2%,50.0% (7/14),1:47
 30-Apr-2018,Anning,3,Clay,R16,210,393,1,,,Irina Khromacheva,Olivia Tjandramulia,3-6 6-0 6-2,1.30,3.0%,19.4%,53.7%,69.4%,45.2%,20.0% (1/5),56.0%,54.2%,0.0%,54.4%,53.8%,72.7% (8/11),1:45
@@ -241,7 +279,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Sep-2016,Biarritz $100K,3,Clay,R16,106,311,1,4,Q,Irina Khromacheva,Varvara Flink,6-2 6-4,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R32,106,440,1,4,WC,Irina Khromacheva,Harmony Tan,6-0 1-6 6-2,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,F,118,147,1,2,6,Irina Khromacheva,Cindy Burger,6-1 6-2,,,,,,,,,,,,,,
-5-Sep-2016,Budapest $50K,3,Clay,SF,118,261,1,2,,Irina Khromacheva,Alexandra Cadantu Ignatik,6-2 6-2 (ch),,,,,,,,,,,,,,
+5-Sep-2016,Budapest $50K,3,Clay,SF,118,261,1,2,,Irina Khromacheva,Alexandra Cadantu Ignatik,6-2 6-2,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,QF,118,273,1,2,,Irina Khromacheva,Dalma Galfi,6-3 2-6 6-2,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,R16,118,168,1,2,,Irina Khromacheva,Tamara Korpatsch,7-5 7-6(3),,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,R32,118,183,1,2,,Irina Khromacheva,Myrtille Georges,6-3 6-4,,,,,,,,,,,,,,
@@ -336,7 +374,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Jun-2015,Minsk $25K,3,Clay,R16,267,420,1,8,,Irina Khromacheva,Anastasia Pribylova,6-4 6-2,,,,,,,,,,,,,,
 8-Jun-2015,Minsk $25K,3,Clay,R32,267,444,1,8,,Irina Khromacheva,Polina Monova,7-5 6-3,,,,,,,,,,,,,,
 25-May-2015,Moscow $25K,3,Clay,R32,273,531,0,6,Q,Olga Fridman,Irina Khromacheva,7-6(5) 6-0,,,,,,,,,,,,,,
-4-May-2015,Indian Harbour Beach FL $50K,3,Clay,R32,267,201,0,,7,Katerina Stewart,Irina Khromacheva,6-0 7-6(4) (ch),,,,,,,,,,,,,,
+4-May-2015,Indian Harbour Beach FL $50K,3,Clay,R32,267,201,0,,7,Katerina Stewart,Irina Khromacheva,6-0 7-6(4),,,,,,,,,,,,,,
 27-Apr-2015,Charlottesville VA $50K,3,Clay,QF,269,295,0,,,Allie Kiick,Irina Khromacheva,6-2 6-1,,,,,,,,,,,,,,
 27-Apr-2015,Charlottesville VA $50K,3,Clay,R16,269,261,1,,,Irina Khromacheva,Gabriela Ce,6-2 3-6 6-2,,,,,,,,,,,,,,
 27-Apr-2015,Charlottesville VA $50K,3,Clay,R32,269,277,1,,,Irina Khromacheva,Sofia Arvidsson,4-6 6-2 6-2,,,,,,,,,,,,,,

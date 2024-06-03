@@ -1,11 +1,13 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Aug-2023,US Open,5,Hard,R128,,198,0,,Q,Yuriko Miyazaki,Margarita Gasparyan,6-3 6-3,0.74,4.8%,8.1%,59.7%,51.4%,48.0%,55.6% (5/9),43.7%,36.8%,3.5%,29.7%,50.0%,25.0% (1/4),1:20
+3-Jul-2023,Wimbledon,5,Grass,R128,,244,0,,Q,Kaja Juvan,Margarita Gasparyan,6-0 6-3,0.65,1.8%,7.3%,50.9%,53.6%,29.6%,60.0% (9/15),40.0%,37.8%,6.7%,31.3%,53.8%,50.0% (2/4),1:08
 31-May-2021,Roland Garros,5,Clay,R128,100,75,0,,,Ann Li,Margarita Gasparyan,6-0 6-1,0.39,0.0%,14.6%,53.7%,36.4%,26.3%,50.0% (5/10),29.1%,26.3%,10.5%,38.1%,11.8%,- (0/0),0:46
 10-May-2021,Rome,3,Clay,Q1,100,78,0,,12,Anastasia Potapova,Margarita Gasparyan,6-4 7-6(1),0.83,0.0%,7.9%,60.5%,45.7%,40.0%,33.3% (3/9),45.3%,47.2%,5.6%,37.8%,57.1%,62.5% (5/8),1:40
 3-May-2021,Saint-Malo,3,Clay,R32,98,85,0,,6,Arantxa Rus,Margarita Gasparyan,6-7(4) 6-1 6-4,0.90,0.0%,6.8%,66.7%,48.7%,46.2%,37.5% (6/16),47.4%,46.9%,1.0%,47.4%,44.4%,54.5% (6/11),2:39
 29-Apr-2021,Madrid,3,Clay,Q1,98,77,0,,16,Marta Kostyuk,Margarita Gasparyan,6-4 6-1,0.75,1.6%,7.8%,65.6%,59.5%,27.3%,55.6% (5/9),43.5%,38.8%,3.0%,32.6%,50.0%,11.1% (1/9),1:15
 19-Apr-2021,Stuttgart,3,Clay,Q1,89,788,0,1,WC,Noma Noha Akugue,Margarita Gasparyan,6-3 6-4,0.74,0.0%,9.2%,66.2%,69.8%,18.2%,50.0% (4/8),44.1%,35.5%,0.0%,28.6%,44.4%,66.7% (2/3),1:27
 15-Mar-2021,St. Petersburg,3,Hard,F,126,61,0,WC,8,Daria Kasatkina,Margarita Gasparyan,6-3 2-1 RET,0.79,0.0%,7.7%,66.7%,50.0%,38.5%,33.3% (2/6),44.4%,42.4%,3.0%,31.8%,63.6%,50.0% (2/4),0:55
-15-Mar-2021,St. Petersburg,3,Hard,SF,126,145,1,WC,WC,Margarita Gasparyan,Vera Zvonareva,6-3 7-6(9) (ch),1.06,3.6%,4.8%,64.3%,55.6%,46.7%,55.6% (5/9),51.5%,50.6%,1.2%,43.1%,68.0%,54.5% (6/11),1:59
+15-Mar-2021,St. Petersburg,3,Hard,SF,126,145,1,WC,WC,Margarita Gasparyan,Vera Zvonareva,6-3 7-6(9),1.06,3.6%,4.8%,64.3%,55.6%,46.7%,55.6% (5/9),51.5%,50.6%,1.2%,43.1%,68.0%,54.5% (6/11),1:59
 15-Mar-2021,St. Petersburg,3,Hard,QF,126,34,1,WC,1,Margarita Gasparyan,Ekaterina Alexandrova,6-2 7-5,1.29,0.0%,4.8%,66.1%,70.7%,33.3%,50.0% (3/6),56.3%,54.0%,4.0%,50.0%,57.7%,85.7% (6/7),1:20
 15-Mar-2021,St. Petersburg,3,Hard,R16,126,69,1,WC,,Margarita Gasparyan,Katerina Siniakova,6-4 6-4,1.24,0.0%,0.0%,62.9%,66.7%,47.8%,50.0% (3/6),54.8%,50.0%,1.6%,50.0%,50.0%,83.3% (5/6),1:33
 15-Mar-2021,St. Petersburg,3,Hard,R32,126,55,1,WC,7,Margarita Gasparyan,Kristina Mladenovic,6-7(1) 6-1 6-1,1.25,3.3%,5.5%,67.0%,63.9%,53.3%,77.8% (7/9),54.6%,49.5%,1.9%,40.3%,65.8%,38.9% (7/18),2:35
@@ -35,7 +37,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R16,100,168,0,3,,Magdalena Frech,Margarita Gasparyan,3-1 RET,,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R32,100,167,1,3,,Margarita Gasparyan,Lesley Pattinama Kerkhove,6-4 6-2,,,,,,,,,,,,,,
 20-Jan-2020,Australian Open,5,Hard,R128,100,23,0,,22,Maria Sakkari,Margarita Gasparyan,6-2 6-2,0.46,0.0%,3.8%,73.1%,50.0%,42.9%,60.0% (6/10),37.2%,23.8%,2.4%,8.3%,44.4%,- (0/0),1:03
-6-Jan-2020,Shenzhen,3,Hard,R32,103,11,0,Q,2,Aryna Sabalenka,Margarita Gasparyan,6-3 6-0 (ch),0.60,1.8%,7.3%,63.6%,51.4%,30.0%,54.5% (6/11),38.7%,33.9%,3.6%,29.7%,42.1%,25.0% (1/4),1:11
+6-Jan-2020,Shenzhen,3,Hard,R32,103,11,0,Q,2,Aryna Sabalenka,Margarita Gasparyan,6-3 6-0,0.60,1.8%,7.3%,63.6%,51.4%,30.0%,54.5% (6/11),38.7%,33.9%,3.6%,29.7%,42.1%,25.0% (1/4),1:11
 6-Jan-2020,Shenzhen,3,Hard,Q2,103,87,1,6,3,Margarita Gasparyan,Timea Babos,6-3 6-7(3) 6-3,1.17,2.9%,4.9%,70.6%,77.8%,36.7%,66.7% (4/6),53.3%,40.0%,2.1%,37.5%,45.2%,57.1% (4/7),2:12
 6-Jan-2020,Shenzhen,3,Hard,Q1,103,237,1,6,WC,Margarita Gasparyan,Shuyue Ma,6-2 6-1,1.77,3.8%,5.8%,59.6%,77.4%,57.1%,100.0% (4/4),60.8%,54.4%,2.9%,58.7%,45.5%,50.0% (5/10),1:16
 14-Oct-2019,Luxembourg,3,Hard,QF,81,66,0,,8,Anna Blinkova,Margarita Gasparyan,6-3 1-0 RET,0.74,8.3%,4.2%,58.3%,71.4%,40.0%,0.0% (0/2),41.3%,30.8%,10.3%,19.2%,53.8%,0.0% (0/4),0:53
@@ -48,21 +50,21 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Sep-2019,Seoul,3,Hard,R32,56,86,1,7,,Margarita Gasparyan,Tatjana Maria,7-5 6-4,1.42,4.7%,1.6%,59.4%,76.3%,61.5%,66.7% (2/3),53.9%,42.2%,2.2%,33.3%,51.1%,20.0% (3/15),1:49
 2-Sep-2019,New Haven,3,Hard,R32,61,174,0,1,,Danielle Lao,Margarita Gasparyan,4-2 RET,0.59,0.0%,9.1%,63.6%,50.0%,12.5%,33.3% (1/3),36.8%,37.5%,6.3%,28.6%,44.4%,100.0% (1/1),0:34
 26-Aug-2019,US Open,5,Hard,R64,61,16,0,,16,Johanna Konta,Margarita Gasparyan,6-1 6-0,0.43,0.0%,11.9%,57.1%,50.0%,11.1%,40.0% (4/10),31.3%,28.9%,7.9%,28.0%,30.8%,0.0% (0/1),0:54
-26-Aug-2019,US Open,5,Hard,R128,61,130,1,,,Margarita Gasparyan,Priscilla Hon,7-6(4) 6-4 (ch),1.07,1.3%,7.8%,64.9%,60.0%,44.4%,16.7% (1/6),51.7%,48.6%,0.0%,41.9%,59.3%,85.7% (6/7),1:34
+26-Aug-2019,US Open,5,Hard,R128,61,130,1,,,Margarita Gasparyan,Priscilla Hon,7-6(4) 6-4,1.07,1.3%,7.8%,64.9%,60.0%,44.4%,16.7% (1/6),51.7%,48.6%,0.0%,41.9%,59.3%,85.7% (6/7),1:34
 19-Aug-2019,New York,3,Hard,R32,60,58,0,,,Camila Giorgi,Margarita Gasparyan,6-3 6-2,0.68,4.0%,10.0%,64.0%,59.4%,33.3%,50.0% (4/8),42.0%,34.0%,8.0%,30.0%,40.0%,100.0% (1/1),1:07
 12-Aug-2019,Cincinnati,3,Hard,Q1,59,74,0,12,,Rebecca Peterson,Margarita Gasparyan,6-1 7-5,0.74,3.2%,11.1%,50.8%,56.3%,38.7%,54.5% (6/11),42.9%,38.6%,2.9%,35.4%,45.5%,25.0% (2/8),1:39
 22-Jul-2019,Jurmala,3,Clay,R32,57,213,0,5,,Irina Bara,Margarita Gasparyan,6-4 4-6 4-0 RET,0.83,3.5%,5.9%,63.5%,53.7%,41.9%,50.0% (6/12),45.8%,42.2%,0.0%,40.6%,47.4%,30.8% (4/13),2:07
-1-Jul-2019,Wimbledon,5,Grass,R64,62,8,0,,8,Elina Svitolina,Margarita Gasparyan,5-7 6-5 RET (ch),1.07,5.6%,4.2%,61.1%,68.2%,50.0%,40.0% (2/5),50.3%,41.8%,2.2%,36.6%,60.0%,60.0% (3/5),1:53
+1-Jul-2019,Wimbledon,5,Grass,R64,62,8,0,,8,Elina Svitolina,Margarita Gasparyan,5-7 6-5 RET,1.07,5.6%,4.2%,61.1%,68.2%,50.0%,40.0% (2/5),50.3%,41.8%,2.2%,36.6%,60.0%,60.0% (3/5),1:53
 1-Jul-2019,Wimbledon,5,Grass,R128,62,286,1,,,Margarita Gasparyan,Anna Lena Friedsam,6-4 6-4,1.17,7.9%,0.0%,77.8%,63.3%,71.4%,80.0% (4/5),53.2%,41.0%,0.0%,34.9%,55.6%,75.0% (3/4),1:16
 24-Jun-2019,Eastbourne,3,Grass,R32,61,3,0,,2,Karolina Pliskova,Margarita Gasparyan,6-3 6-3,0.76,3.6%,1.8%,65.5%,55.6%,52.6%,63.6% (7/11),44.9%,34.6%,11.5%,23.5%,55.6%,50.0% (1/2),1:06
 24-Jun-2019,Eastbourne,3,Grass,R64,61,38,1,,,Margarita Gasparyan,Katerina Siniakova,6-3 6-3,1.37,2.0%,2.0%,54.9%,57.1%,69.6%,60.0% (3/5),56.9%,51.0%,2.0%,44.1%,64.7%,83.3% (5/6),1:10
-17-Jun-2019,Birmingham,3,Grass,R16,62,25,0,,,Petra Martic,Margarita Gasparyan,6-3 7-6(4) (ch),0.70,4.1%,5.4%,64.9%,68.8%,34.6%,57.1% (4/7),44.3%,30.3%,4.5%,27.1%,38.9%,50.0% (2/4),1:40
-17-Jun-2019,Birmingham,3,Grass,R32,62,7,1,,4,Margarita Gasparyan,Elina Svitolina,6-3 3-6 6-4 (ch),1.06,4.6%,6.9%,64.4%,66.1%,41.9%,58.3% (7/12),51.5%,45.2%,2.4%,36.5%,59.4%,50.0% (6/12),1:53
+17-Jun-2019,Birmingham,3,Grass,R16,62,25,0,,,Petra Martic,Margarita Gasparyan,6-3 7-6(4),0.70,4.1%,5.4%,64.9%,68.8%,34.6%,57.1% (4/7),44.3%,30.3%,4.5%,27.1%,38.9%,50.0% (2/4),1:40
+17-Jun-2019,Birmingham,3,Grass,R32,62,7,1,,4,Margarita Gasparyan,Elina Svitolina,6-3 3-6 6-4,1.06,4.6%,6.9%,64.4%,66.1%,41.9%,58.3% (7/12),51.5%,45.2%,2.4%,36.5%,59.4%,50.0% (6/12),1:53
 10-Jun-2019,S-Hertogenbosch,3,Grass,R16,63,139,0,,Q,Greet Minnen,Margarita Gasparyan,6-4 6-4,0.79,2.8%,1.4%,63.9%,56.5%,38.5%,44.4% (4/9),45.3%,39.3%,7.1%,19.4%,75.0%,37.5% (3/8),1:24
 10-Jun-2019,S-Hertogenbosch,3,Grass,R32,63,44,1,,7,Margarita Gasparyan,Viktoria Kuzmova,2-6 7-6(5) 6-4,1.00,6.5%,5.6%,63.9%,76.8%,35.9%,60.0% (6/10),50.5%,38.0%,8.0%,28.8%,51.2%,30.0% (3/10),2:23
 27-May-2019,Roland Garros,5,Clay,R128,65,117,0,,Q,Anna Blinkova,Margarita Gasparyan,6-3 4-6 8-6,0.92,5.1%,6.1%,66.7%,60.6%,36.4%,55.6% (10/18),48.0%,43.6%,1.0%,36.9%,55.6%,53.8% (7/13),2:17
 13-May-2019,Rome,3,Clay,Q1,62,94,0,12,,Samantha Stosur,Margarita Gasparyan,3-1 RET,0.79,11.1%,22.2%,50.0%,77.8%,22.2%,66.7% (2/3),43.5%,39.3%,3.6%,33.3%,57.1%,0.0% (0/5),0:34
-6-May-2019,Madrid,3,Clay,R64,64,3,0,Q,3,Simona Halep,Margarita Gasparyan,6-0 6-4 (ch),0.69,0.0%,7.3%,63.6%,37.1%,45.0%,14.3% (1/7),40.8%,41.7%,2.1%,29.0%,64.7%,66.7% (2/3),1:14
+6-May-2019,Madrid,3,Clay,R64,64,3,0,Q,3,Simona Halep,Margarita Gasparyan,6-0 6-4,0.69,0.0%,7.3%,63.6%,37.1%,45.0%,14.3% (1/7),40.8%,41.7%,2.1%,29.0%,64.7%,66.7% (2/3),1:14
 6-May-2019,Madrid,3,Clay,Q2,64,79,1,7,,Margarita Gasparyan,Jennifer Brady,6-4 7-6(5),1.09,3.7%,3.7%,65.4%,64.2%,60.7%,75.0% (6/8),52.3%,40.5%,1.4%,31.0%,53.1%,100.0% (3/3),1:45
 6-May-2019,Madrid,3,Clay,Q1,64,88,1,7,,Margarita Gasparyan,Mona Barthel,3-6 6-1 6-1,1.43,3.0%,6.0%,74.6%,68.0%,52.9%,50.0% (2/4),57.0%,51.2%,0.0%,48.8%,53.5%,50.0% (6/12),1:44
 29-Apr-2019,Prague,3,Clay,R32,65,16,0,,3,Qiang Wang,Margarita Gasparyan,6-3 3-6 6-2,0.87,0.0%,4.4%,69.2%,54.0%,42.9%,53.8% (7/13),46.7%,42.9%,0.0%,35.0%,58.1%,26.7% (4/15),2:15
@@ -77,25 +79,25 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Jan-2019,St. Petersburg,3,Hard,Q3,81,108,1,8,,Margarita Gasparyan,Veronika Kudermetova,6-1 6-0,1.92,5.4%,2.7%,78.4%,69.0%,75.0%,100.0% (2/2),61.4%,57.1%,2.6%,44.4%,75.0%,28.6% (6/21),1:12
 28-Jan-2019,St. Petersburg,3,Hard,Q2,81,179,1,8,,Margarita Gasparyan,Liudmila Samsonova,6-3 6-3,1.38,16.7%,6.7%,68.3%,73.2%,52.6%,85.7% (6/7),56.0%,46.2%,4.6%,25.8%,64.7%,57.1% (4/7),1:17
 28-Jan-2019,St. Petersburg,3,Hard,Q1,81,120,1,8,,Margarita Gasparyan,Misaki Doi,6-4 6-2,1.27,3.2%,6.5%,62.9%,76.9%,39.1%,66.7% (2/3),54.5%,47.1%,0.0%,37.2%,63.0%,40.0% (4/10),1:27
-14-Jan-2019,Australian Open,5,Hard,R64,91,14,0,,12,Elise Mertens,Margarita Gasparyan,6-1 7-5 (ch),0.65,8.0%,1.3%,68.0%,47.1%,45.8%,53.8% (7/13),41.7%,34.6%,3.8%,21.2%,57.9%,28.6% (2/7),1:31
+14-Jan-2019,Australian Open,5,Hard,R64,91,14,0,,12,Elise Mertens,Margarita Gasparyan,6-1 7-5,0.65,8.0%,1.3%,68.0%,47.1%,45.8%,53.8% (7/13),41.7%,34.6%,3.8%,21.2%,57.9%,28.6% (2/7),1:31
 14-Jan-2019,Australian Open,5,Hard,R128,91,118,1,,Q,Margarita Gasparyan,Lin Zhu,4-6 6-2 6-2,1.24,7.6%,3.3%,66.3%,77.0%,41.9%,80.0% (4/5),55.4%,43.2%,1.4%,36.0%,58.3%,100.0% (4/4),1:51
 5-Nov-2018,Limoges,3,Hard,SF,105,88,0,,7,Evgeniya Rodina,Margarita Gasparyan,3-0 RET,0.20,0.0%,25.0%,0.0%,-,0.0%,0.0% (0/1),14.3%,20.0%,0.0%,20.0%,-,- (0/0),0:07
 5-Nov-2018,Limoges,3,Hard,QF,105,98,1,,,Margarita Gasparyan,Anna Blinkova,6-4 6-2,1.25,1.6%,4.7%,64.1%,68.3%,39.1%,60.0% (3/5),55.5%,52.7%,0.0%,47.1%,61.9%,62.5% (5/8),1:20
 5-Nov-2018,Limoges,3,Hard,R16,105,78,1,,5,Margarita Gasparyan,Monica Niculescu,6-7(2) 6-2 6-3,1.11,5.7%,1.1%,62.1%,55.6%,54.5%,42.9% (3/7),52.0%,49.5%,0.9%,46.9%,57.1%,38.1% (8/21),2:37
 5-Nov-2018,Limoges,3,Hard,R32,105,325,1,,Q,Margarita Gasparyan,Marina Melnikova,6-3 6-3,1.38,7.9%,1.6%,71.4%,71.1%,55.6%,80.0% (4/5),56.5%,45.9%,0.0%,45.9%,45.8%,40.0% (4/10),1:23
-29-Oct-2018,Mumbai,3,Hard,SF,110,103,0,6,5,Luksika Kumkhum,Margarita Gasparyan,6-2 6-4 (ch),0.75,1.7%,5.0%,56.7%,52.9%,30.8%,33.3% (3/9),42.9%,42.2%,2.2%,31.0%,62.5%,75.0% (3/4),1:10
+29-Oct-2018,Mumbai,3,Hard,SF,110,103,0,6,5,Luksika Kumkhum,Margarita Gasparyan,6-2 6-4,0.75,1.7%,5.0%,56.7%,52.9%,30.8%,33.3% (3/9),42.9%,42.2%,2.2%,31.0%,62.5%,75.0% (3/4),1:10
 29-Oct-2018,Mumbai,3,Hard,QF,110,194,1,6,,Margarita Gasparyan,Danka Kovinic,7-6(4) 4-6 6-1,1.21,3.2%,1.1%,69.5%,69.7%,55.2%,66.7% (6/9),52.9%,42.2%,1.8%,36.2%,52.5%,30.8% (4/13),2:29
 29-Oct-2018,Mumbai,3,Hard,R16,110,160,1,6,,Margarita Gasparyan,Ekaterine Gorgodze,6-4 6-2,1.39,3.1%,3.1%,68.8%,65.9%,60.0%,81.8% (9/11),56.8%,50.0%,2.9%,31.7%,77.8%,33.3% (5/15),1:34
 29-Oct-2018,Mumbai,3,Hard,R32,110,207,1,6,,Margarita Gasparyan,Tereza Mrdeza,6-3 6-2,1.62,6.8%,6.8%,56.8%,76.0%,47.4%,60.0% (3/5),61.0%,58.9%,0.0%,63.9%,50.0%,66.7% (6/9),1:22
-15-Oct-2018,Luxembourg,3,Hard,QF,124,66,0,,SE,Dayana Yastremska,Margarita Gasparyan,6-1 6-4 (ch),0.54,6.5%,8.7%,63.0%,58.6%,17.6%,44.4% (4/9),37.0%,30.4%,2.2%,18.5%,47.4%,66.7% (2/3),1:01
+15-Oct-2018,Luxembourg,3,Hard,QF,124,66,0,,SE,Dayana Yastremska,Margarita Gasparyan,6-1 6-4,0.54,6.5%,8.7%,63.0%,58.6%,17.6%,44.4% (4/9),37.0%,30.4%,2.2%,18.5%,47.4%,66.7% (2/3),1:01
 15-Oct-2018,Luxembourg,3,Hard,R16,124,79,1,,,Margarita Gasparyan,Dalila Jakupovic,6-4 6-0,1.30,1.6%,1.6%,60.7%,75.7%,29.2%,60.0% (3/5),56.4%,55.4%,1.8%,43.3%,69.2%,60.0% (6/10),1:21
 15-Oct-2018,Luxembourg,3,Hard,R32,124,45,1,,7,Margarita Gasparyan,Maria Sakkari,6-1 7-6(4),1.57,1.6%,4.9%,63.9%,74.4%,54.5%,71.4% (5/7),59.1%,51.5%,0.0%,56.0%,48.8%,62.5% (5/8),1:38
-8-Oct-2018,Linz,3,Hard,QF,137,32,0,,5,Camila Giorgi,Margarita Gasparyan,6-3 3-6 6-2 (ch),0.80,2.6%,6.5%,58.4%,55.6%,50.0%,44.4% (4/9),45.2%,37.2%,3.8%,26.1%,53.1%,37.5% (3/8),1:55
-8-Oct-2018,Linz,3,Hard,R16,137,10,1,,2,Margarita Gasparyan,Kiki Bertens,7-5 2-6 7-6(3) (ch),1.02,4.3%,6.5%,60.2%,66.1%,48.6%,58.3% (7/12),50.5%,41.8%,4.4%,32.7%,53.8%,57.1% (4/7),2:19
+8-Oct-2018,Linz,3,Hard,QF,137,32,0,,5,Camila Giorgi,Margarita Gasparyan,6-3 3-6 6-2,0.80,2.6%,6.5%,58.4%,55.6%,50.0%,44.4% (4/9),45.2%,37.2%,3.8%,26.1%,53.1%,37.5% (3/8),1:55
+8-Oct-2018,Linz,3,Hard,R16,137,10,1,,2,Margarita Gasparyan,Kiki Bertens,7-5 2-6 7-6(3),1.02,4.3%,6.5%,60.2%,66.1%,48.6%,58.3% (7/12),50.5%,41.8%,4.4%,32.7%,53.8%,57.1% (4/7),2:19
 8-Oct-2018,Linz,3,Hard,R32,137,43,1,,,Margarita Gasparyan,Monica Puig,6-2 0-0 RET,1.56,4.2%,0.0%,79.2%,57.9%,60.0%,0.0% (0/1),61.4%,65.0%,0.0%,44.4%,81.8%,60.0% (3/5),0:36
-24-Sep-2018,Tashkent,3,Hard,F,299,132,1,,Q,Margarita Gasparyan,Anastasia Potapova,6-2 6-1 (ch),1.97,6.8%,6.8%,61.4%,88.9%,47.1%,100.0% (1/1),62.5%,53.8%,1.9%,43.5%,62.1%,71.4% (5/7),1:01
+24-Sep-2018,Tashkent,3,Hard,F,299,132,1,,Q,Margarita Gasparyan,Anastasia Potapova,6-2 6-1,1.97,6.8%,6.8%,61.4%,88.9%,47.1%,100.0% (1/1),62.5%,53.8%,1.9%,43.5%,62.1%,71.4% (5/7),1:01
 24-Sep-2018,Tashkent,3,Hard,SF,299,94,1,,,Margarita Gasparyan,Mona Barthel,4-6 6-1 7-5,1.25,3.4%,2.3%,73.6%,65.6%,60.9%,40.0% (2/5),54.2%,44.4%,5.6%,38.6%,50.0%,60.0% (6/10),1:59
-24-Sep-2018,Tashkent,3,Hard,QF,299,158,1,,Q,Margarita Gasparyan,Fanny Stollar,3-6 6-2 6-1 (ch),1.11,10.4%,6.3%,69.8%,67.2%,37.9%,71.4% (5/7),52.4%,46.2%,8.6%,34.9%,56.0%,33.3% (5/15),1:56
+24-Sep-2018,Tashkent,3,Hard,QF,299,158,1,,Q,Margarita Gasparyan,Fanny Stollar,3-6 6-2 6-1,1.11,10.4%,6.3%,69.8%,67.2%,37.9%,71.4% (5/7),52.4%,46.2%,8.6%,34.9%,56.0%,33.3% (5/15),1:56
 24-Sep-2018,Tashkent,3,Hard,R16,299,77,1,,5,Margarita Gasparyan,Tatjana Maria,6-2 3-6 7-6(2),1.20,0.0%,3.4%,63.6%,75.0%,50.0%,25.0% (1/4),53.0%,40.9%,4.3%,34.5%,50.0%,66.7% (4/6),2:08
 24-Sep-2018,Tashkent,3,Hard,R32,299,135,1,,,Margarita Gasparyan,Sabina Sharipova,6-2 6-2,1.54,3.8%,3.8%,69.2%,75.0%,43.8%,80.0% (4/5),58.9%,53.3%,1.7%,42.9%,68.0%,45.5% (5/11),1:17
 17-Sep-2018,Seoul,3,Hard,R16,354,32,0,,3,Maria Sakkari,Margarita Gasparyan,6-2 6-2,0.67,0.0%,3.6%,56.4%,51.6%,37.5%,44.4% (4/9),41.1%,36.5%,5.8%,32.4%,44.4%,33.3% (1/3),1:17
@@ -125,23 +127,23 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-May-2016,Rome,3,Clay,R64,52,35,0,,,Irina Camelia Begu,Margarita Gasparyan,6-3 6-0,0.59,1.9%,3.8%,71.2%,45.9%,20.0%,45.5% (5/11),37.5%,36.4%,4.5%,20.7%,66.7%,66.7% (2/3),1:04
 2-May-2016,Madrid,3,Clay,R64,47,75,0,,,Karin Knapp,Margarita Gasparyan,4-6 6-3 6-2,0.80,1.1%,2.3%,60.9%,52.8%,58.8%,50.0% (5/10),45.7%,36.0%,3.5%,27.7%,46.2%,30.0% (3/10),2:02
 25-Apr-2016,Prague,3,Clay,R32,48,128,0,,WC,Jana Cepelova,Margarita Gasparyan,7-6(7) 7-5,0.89,4.0%,7.9%,58.4%,62.7%,50.0%,75.0% (12/16),48.0%,37.9%,0.0%,31.7%,48.6%,30.0% (3/10),2:13
-16-Apr-2016,Fed Cup WG R1: RUS vs BLR,3,Clay,RR,47,100,0,,,Aliaksandra Sasnovich,Margarita Gasparyan,4-6 6-1 7-5 (ch),0.84,3.0%,6.9%,61.4%,59.7%,43.6%,58.3% (7/12),45.7%,39.2%,2.5%,32.9%,48.0%,25.0% (3/12),2:45
+16-Apr-2016,Fed Cup WG R1: RUS vs BLR,3,Clay,RR,47,100,0,,,Aliaksandra Sasnovich,Margarita Gasparyan,4-6 6-1 7-5,0.84,3.0%,6.9%,61.4%,59.7%,43.6%,58.3% (7/12),45.7%,39.2%,2.5%,32.9%,48.0%,25.0% (3/12),2:45
 16-Apr-2016,Fed Cup WG R1: RUS vs BLR,3,Clay,RR,47,5,0,,,Victoria Azarenka,Margarita Gasparyan,6-2 6-3,0.65,3.5%,0.0%,64.9%,54.1%,35.0%,54.5% (6/11),41.1%,34.0%,4.0%,25.6%,63.6%,50.0% (2/4),1:14
 21-Mar-2016,Miami,3,Hard,R64,41,20,0,,19,Timea Bacsinszky,Margarita Gasparyan,6-3 6-1,0.42,0.0%,10.4%,47.9%,52.2%,32.0%,44.4% (4/9),33.7%,24.4%,4.9%,17.9%,38.5%,20.0% (1/5),0:56
 21-Mar-2016,Miami,3,Hard,R128,41,40,1,,,Margarita Gasparyan,Annika Beck,6-3 7-5,1.33,3.4%,1.7%,57.6%,64.7%,56.0%,25.0% (1/4),56.4%,51.7%,1.7%,41.5%,76.5%,62.5% (5/8),1:24
 7-Mar-2016,Indian Wells,3,Hard,R64,44,10,0,,9,Roberta Vinci,Margarita Gasparyan,6-3 6-7(7) 7-6(5),0.94,4.5%,6.4%,60.9%,70.1%,37.2%,44.4% (4/9),48.3%,40.2%,2.5%,38.9%,42.0%,40.0% (4/10),2:46
-7-Mar-2016,Indian Wells,3,Hard,R128,44,84,1,,,Margarita Gasparyan,Olga Govortsova,6-1 6-3 (ch),1.65,6.7%,11.7%,60.0%,77.8%,41.7%,85.7% (6/7),62.1%,60.5%,0.0%,57.1%,63.6%,55.6% (5/9),1:11
+7-Mar-2016,Indian Wells,3,Hard,R128,44,84,1,,,Margarita Gasparyan,Olga Govortsova,6-1 6-3,1.65,6.7%,11.7%,60.0%,77.8%,41.7%,85.7% (6/7),62.1%,60.5%,0.0%,57.1%,63.6%,55.6% (5/9),1:11
 22-Feb-2016,Doha,3,Hard,R32,41,27,0,,,Andrea Petkovic,Margarita Gasparyan,6-3 6-3,0.76,0.0%,8.1%,50.0%,51.6%,35.5%,50.0% (6/12),43.1%,42.6%,0.0%,41.2%,44.4%,30.0% (3/10),1:30
 22-Feb-2016,Doha,3,Hard,R64,41,19,1,,10,Margarita Gasparyan,Karolina Pliskova,6-1 6-1,2.19,10.5%,0.0%,63.2%,79.2%,50.0%,50.0% (1/2),68.8%,69.2%,2.6%,52.9%,81.8%,75.0% (6/8),0:49
-8-Feb-2016,St. Petersburg,3,Hard,R16,43,20,0,,4,Ana Ivanovic,Margarita Gasparyan,7-5 6-2 (ch),0.83,7.5%,6.0%,61.2%,63.4%,34.6%,50.0% (5/10),46.2%,39.7%,4.8%,25.0%,54.8%,33.3% (2/6),1:21
+8-Feb-2016,St. Petersburg,3,Hard,R16,43,20,0,,4,Ana Ivanovic,Margarita Gasparyan,7-5 6-2,0.83,7.5%,6.0%,61.2%,63.4%,34.6%,50.0% (5/10),46.2%,39.7%,4.8%,25.0%,54.8%,33.3% (2/6),1:21
 8-Feb-2016,St. Petersburg,3,Hard,R32,43,86,1,,,Margarita Gasparyan,Bojana Jovanovski,6-1 6-2,1.90,7.4%,13.0%,55.6%,76.7%,37.5%,50.0% (2/4),65.9%,77.4%,0.0%,70.0%,90.9%,85.7% (6/7),0:56
-18-Jan-2016,Australian Open,5,Hard,R16,58,1,0,,1,Serena Williams,Margarita Gasparyan,6-2 6-1 (ch),0.55,8.7%,8.7%,65.2%,56.7%,18.8%,58.3% (7/12),37.5%,31.0%,7.1%,25.0%,38.9%,50.0% (1/2),0:55
+18-Jan-2016,Australian Open,5,Hard,R16,58,1,0,,1,Serena Williams,Margarita Gasparyan,6-2 6-1,0.55,8.7%,8.7%,65.2%,56.7%,18.8%,58.3% (7/12),37.5%,31.0%,7.1%,25.0%,38.9%,50.0% (1/2),0:55
 18-Jan-2016,Australian Open,5,Hard,R32,58,76,1,,,Margarita Gasparyan,Yulia Putintseva,6-3 6-4,1.21,4.9%,3.3%,67.2%,63.4%,45.0%,25.0% (1/4),54.6%,51.7%,1.7%,46.3%,64.7%,62.5% (5/8),1:31
 18-Jan-2016,Australian Open,5,Hard,R64,58,94,1,,,Margarita Gasparyan,Kurumi Nara,6-4 6-4,1.34,15.1%,3.8%,58.5%,83.9%,40.9%,50.0% (2/4),53.8%,45.6%,0.0%,31.4%,71.4%,40.0% (4/10),1:25
 18-Jan-2016,Australian Open,5,Hard,R128,58,19,1,,17,Margarita Gasparyan,Sara Errani,1-6 7-5 6-1,1.03,2.2%,4.3%,62.4%,60.3%,51.4%,55.6% (5/9),51.2%,44.2%,1.3%,36.9%,83.3%,33.3% (5/15),2:12
-11-Jan-2016,Hobart,3,Hard,R16,60,54,0,,,Johanna Larsson,Margarita Gasparyan,6-3 3-6 6-3 (ch),0.94,0.0%,5.5%,59.3%,63.0%,37.8%,60.0% (9/15),48.6%,44.6%,1.1%,36.9%,63.0%,62.5% (5/8),2:00
-11-Jan-2016,Hobart,3,Hard,R32,60,780,1,,WC,Margarita Gasparyan,Maddison Inglis,6-4 6-3 (ch),1.32,10.7%,3.6%,66.1%,73.0%,31.6%,50.0% (3/6),56.6%,54.4%,1.8%,51.5%,58.3%,75.0% (6/8),1:17
-4-Jan-2016,Brisbane,3,Hard,R32,61,23,0,LL,,Kate Makarova,Margarita Gasparyan,6-4 2-6 6-3 (ch),1.04,7.2%,4.8%,61.4%,70.6%,53.1%,70.0% (7/10),50.0%,37.6%,5.4%,33.9%,43.2%,27.3% (3/11),2:15
+11-Jan-2016,Hobart,3,Hard,R16,60,54,0,,,Johanna Larsson,Margarita Gasparyan,6-3 3-6 6-3,0.94,0.0%,5.5%,59.3%,63.0%,37.8%,60.0% (9/15),48.6%,44.6%,1.1%,36.9%,63.0%,62.5% (5/8),2:00
+11-Jan-2016,Hobart,3,Hard,R32,60,780,1,,WC,Margarita Gasparyan,Maddison Inglis,6-4 6-3,1.32,10.7%,3.6%,66.1%,73.0%,31.6%,50.0% (3/6),56.6%,54.4%,1.8%,51.5%,58.3%,75.0% (6/8),1:17
+4-Jan-2016,Brisbane,3,Hard,R32,61,23,0,LL,,Kate Makarova,Margarita Gasparyan,6-4 2-6 6-3,1.04,7.2%,4.8%,61.4%,70.6%,53.1%,70.0% (7/10),50.0%,37.6%,5.4%,33.9%,43.2%,27.3% (3/11),2:15
 4-Jan-2016,Brisbane,3,Hard,Q3,61,147,0,2,,Jana Cepelova,Margarita Gasparyan,6-1 6-4,0.71,1.6%,6.3%,60.3%,63.2%,32.0%,55.6% (5/9),42.9%,34.9%,0.0%,22.9%,50.0%,16.7% (1/6),1:25
 4-Jan-2016,Brisbane,3,Hard,Q2,61,152,1,2,,Margarita Gasparyan,Jana Fett,7-6(3) 6-2,1.18,7.8%,1.3%,64.9%,68.0%,48.1%,77.8% (7/9),53.6%,46.1%,1.3%,30.4%,70.0%,33.3% (4/12),0:59
 4-Jan-2016,Brisbane,3,Hard,Q1,61,183,1,2,,Margarita Gasparyan,Sara Sorribes Tormo,6-1 6-3,1.77,11.6%,2.3%,60.5%,80.8%,52.9%,50.0% (1/2),59.5%,53.4%,1.4%,46.8%,65.4%,38.5% (5/13),1:23
@@ -149,7 +151,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Nov-2015,Limoges,3,Hard,R16,62,140,1,6,,Margarita Gasparyan,Maryna Zanevska,6-2 6-4,,,,,,,,,,,,,,
 9-Nov-2015,Limoges,3,Hard,R32,62,265,1,6,Q,Margarita Gasparyan,Andrea Gamiz,6-2 7-5,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,QF,66,31,0,,,Anastasia Pavlyuchenkova,Margarita Gasparyan,6-1 6-3,,,,,,,,,,,,,,
-19-Oct-2015,Moscow,3,Hard,R16,66,27,1,,9,Margarita Gasparyan,Kristina Mladenovic,6-2 6-3 (ch),,,,,,,,,,,,,,
+19-Oct-2015,Moscow,3,Hard,R16,66,27,1,,9,Margarita Gasparyan,Kristina Mladenovic,6-2 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Moscow,3,Hard,R32,66,44,1,,,Margarita Gasparyan,Varvara Lepchenko,7-5 7-6(4),,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,QF,73,118,0,,,Anna Lena Friedsam,Margarita Gasparyan,6-3 6-4,,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,R16,73,33,1,,6,Margarita Gasparyan,Camila Giorgi,6-3 2-6 6-3,,,,,,,,,,,,,,
@@ -159,7 +161,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Aug-2015,US Open,5,Hard,Q2,72,260,0,1,WC,Jessica Pegula,Margarita Gasparyan,6-3 6-3,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,Q1,72,173,1,1,,Margarita Gasparyan,Marina Melnikova,6-1 6-1,,,,,,,,,,,,,,
 24-Aug-2015,New Haven,3,Hard,Q1,71,59,0,,13,Christina Mchale,Margarita Gasparyan,7-5 6-1,,,,,,,,,,,,,,
-27-Jul-2015,Baku,3,Hard,F,112,154,1,,Q,Margarita Gasparyan,Patricia Maria Tig,6-3 5-7 6-0 (ch),1.24,4.3%,2.2%,65.2%,63.3%,50.0%,33.3% (2/6),55.0%,51.1%,0.0%,47.3%,57.6%,36.8% (7/19),
+27-Jul-2015,Baku,3,Hard,F,112,154,1,,Q,Margarita Gasparyan,Patricia Maria Tig,6-3 5-7 6-0,1.24,4.3%,2.2%,65.2%,63.3%,50.0%,33.3% (2/6),55.0%,51.1%,0.0%,47.3%,57.6%,36.8% (7/19),
 27-Jul-2015,Baku,3,Hard,SF,112,38,1,,2,Margarita Gasparyan,Karin Knapp,6-3 5-7 6-3,1.11,3.0%,6.1%,60.6%,63.3%,48.7%,50.0% (5/10),52.7%,47.1%,0.0%,41.4%,58.6%,58.3% (7/12),
 27-Jul-2015,Baku,3,Hard,QF,112,98,1,,,Margarita Gasparyan,Evgeniya Rodina,6-3 6-2,1.53,13.2%,9.4%,69.8%,81.1%,37.5%,80.0% (4/5),59.0%,48.9%,2.1%,46.2%,52.4%,50.0% (5/10),
 27-Jul-2015,Baku,3,Hard,R16,112,169,1,,Q,Margarita Gasparyan,Zhaoxuan Yang,6-4 6-4,1.15,5.2%,12.1%,55.2%,68.8%,38.5%,50.0% (5/10),53.3%,51.6%,0.0%,55.6%,41.2%,77.8% (7/9),
@@ -167,7 +169,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jul-2015,Istanbul,3,Hard,R32,110,42,0,Q,8,Tsvetana Pironkova,Margarita Gasparyan,0-6 7-6(4) 7-6(3),1.33,7.3%,6.3%,53.1%,86.3%,57.8%,85.7% (6/7),53.8%,35.9%,1.9%,33.9%,39.0%,57.1% (4/7),
 20-Jul-2015,Istanbul,3,Hard,Q2,110,160,1,3,10,Margarita Gasparyan,Andrea Hlavackova,7-5 6-1,,,,,,,,,,,,,,
 20-Jul-2015,Istanbul,3,Hard,Q1,110,182,1,3,,Margarita Gasparyan,Tereza Mrdeza,6-1 6-3,,,,,,,,,,,,,,
-29-Jun-2015,Wimbledon,5,Grass,R128,113,1,0,Q,1,Serena Williams,Margarita Gasparyan,6-4 6-1 (ch),0.64,3.2%,8.1%,56.5%,68.6%,25.9%,33.3% (2/6),41.3%,32.2%,5.1%,29.0%,35.7%,12.5% (1/8),
+29-Jun-2015,Wimbledon,5,Grass,R128,113,1,0,Q,1,Serena Williams,Margarita Gasparyan,6-4 6-1,0.64,3.2%,8.1%,56.5%,68.6%,25.9%,33.3% (2/6),41.3%,32.2%,5.1%,29.0%,35.7%,12.5% (1/8),
 29-Jun-2015,Wimbledon,5,Grass,Q3,113,152,1,5,,Margarita Gasparyan,Veronica Cepede Royg,6-4 6-2,,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,Q2,113,179,1,5,,Margarita Gasparyan,Elitsa Kostova,6-2 6-3,,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,Q1,113,185,1,5,,Margarita Gasparyan,Alberta Brianti,6-2 6-0,,,,,,,,,,,,,,

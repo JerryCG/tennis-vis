@@ -1,4 +1,20 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+1-May-2023,W40 Tbilisi,3,Hard,F,250,321,0,5,,Stacey Fung,Vitalia Diatchenko,6-4 RET,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,SF,250,836,1,5,Q,Vitalia Diatchenko,Dejana Radanovic,7-5 7-5,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,QF,250,602,1,5,Q,Vitalia Diatchenko,Elena Pridankina,6-2 6-4,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R16,250,496,1,5,,Vitalia Diatchenko,Gozal Ainitdinova,6-4 7-5,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R32,250,420,1,5,,Vitalia Diatchenko,Ekaterina Maklakova,7-6(3) 7-5,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R16,249,449,0,7,,Elena Teodora Cadar,Vitalia Diatchenko,6-2 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R32,249,370,1,7,,Vitalia Diatchenko,Viktoria Morvayova,6-2 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R16,248,132,0,,4,Jodie Burrage,Vitalia Diatchenko,6-3 6-1,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,248,273,1,,,Vitalia Diatchenko,Alice Robbe,6-2 3-6 6-4,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R16,258,137,0,,2,Su Jeong Jang,Vitalia Diatchenko,6-4 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R32,258,357,1,,Q,Vitalia Diatchenko,Anna Brogan,6-4 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,209,314,0,,Q,Tatiana Prozorova,Vitalia Diatchenko,6-4 6-4,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,174,179,0,,,Oksana Selekhmeteva,Vitalia Diatchenko,6-0 6-2,0.56,0.0%,5.8%,60.9%,47.6%,40.7%,64.3% (9/14),39.5%,31.1%,11.1%,23.1%,42.1%,0.0% (0/2),1:21
+31-Oct-2022,W60 Nantes,3,Hard,QF,108,102,0,6,4,Xin Yu Wang,Vitalia Diatchenko,6-4 1-6 7-5,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R16,108,503,1,6,Q,Vitalia Diatchenko,Alice Tubello,1-6 6-4 7-5,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R32,108,401,1,6,Q,Vitalia Diatchenko,Veronika Erjavec,6-2 7-6(6),,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R16,107,248,0,8,Q,Alexandra Eala,Vitalia Diatchenko,6-4 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,107,410,1,8,WC,Vitalia Diatchenko,Marine Partaud,6-3 4-6 6-4,,,,,,,,,,,,,,
 17-Oct-2022,Rouen 125,3,Hard,R32,109,110,0,,,Cristina Bucsa,Vitalia Diatchenko,6-4 6-2,0.77,6.8%,6.8%,67.8%,45.0%,47.4%,37.5% (3/8),43.6%,42.0%,2.5%,38.3%,52.4%,14.3% (2/14),1:32
@@ -42,7 +58,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-May-2022,W25 Tbilisi,3,Hard,QF,113,366,1,1,6,Vitalia Diatchenko,Anastasia Zolotareva,4-6 6-4 6-3,,,,,,,,,,,,,,
 23-May-2022,W25 Tbilisi,3,Hard,R16,113,468,1,1,13,Vitalia Diatchenko,Polina Kudermetova,6-3 4-6 7-6(4),,,,,,,,,,,,,,
 23-May-2022,W25 Tbilisi,3,Hard,R32,113,1042,1,1,,Vitalia Diatchenko,Aliona Falei,7-5 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,113,231,0,12,,Isabella Shinikova,Vitalia Diatchenko,7-5 6-3,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,113,231,0,12,,Isabella Shinikova,Vitalia Diatchenko,7-5 6-3,0.83,0.0%,21.2%,51.5%,44.1%,40.6%,30.0% (3/10),45.2%,47.5%,2.5%,41.4%,63.6%,44.4% (4/9),
 18-Apr-2022,W25 Monastir,3,Hard,R16,116,651,0,2,SE,Angelica Raggi,Vitalia Diatchenko,6-2 6-2,,,,,,,,,,,,,,
 18-Apr-2022,W25 Monastir,3,Hard,R32,116,,1,2,Q,Vitalia Diatchenko,Ayumi Koshiishi,6-7(5) 6-3 6-2,,,,,,,,,,,,,,
 11-Apr-2022,W25+H Calvi,3,Hard,R32,116,341,0,1,,Ekaterina Makarova,Vitalia Diatchenko,7-6(3) 4-1 RET,,,,,,,,,,,,,,
@@ -88,7 +104,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Jul-2021,Palermo,3,Clay,R16,145,120,0,,6,Oceane Dodin,Vitalia Diatchenko,7-6(7) 6-4,0.94,5.3%,21.1%,50.0%,63.2%,28.9%,30.0% (3/10),48.3%,50.7%,5.3%,37.5%,65.7%,46.2% (6/13),1:54
 19-Jul-2021,Palermo,3,Clay,R32,145,201,1,,,Vitalia Diatchenko,Julia Grabher,6-3 7-6(5),1.16,0.0%,10.7%,60.7%,68.6%,30.3%,63.6% (7/11),53.6%,53.7%,1.9%,40.0%,70.8%,83.3% (5/6),1:52
 12-Jul-2021,Prague,3,Hard,R32,145,90,0,SR,7,Nina Stojanovic,Vitalia Diatchenko,6-7(5) 6-1 6-3,0.84,2.2%,12.0%,63.0%,67.2%,41.2%,16.7% (1/6),45.5%,35.5%,5.5%,27.3%,43.6%,11.1% (1/9),2:30
-28-Jun-2021,Wimbledon,5,Grass,R128,150,338,0,Q,WC,Emma Raducanu,Vitalia Diatchenko,7-6(4) 6-0 (ch),0.77,0.0%,7.1%,67.1%,50.9%,35.7%,64.7% (11/17),43.8%,41.7%,7.1%,27.7%,59.5%,25.0% (3/12),1:57
+28-Jun-2021,Wimbledon,5,Grass,R128,150,338,0,Q,WC,Emma Raducanu,Vitalia Diatchenko,7-6(4) 6-0,0.77,0.0%,7.1%,67.1%,50.9%,35.7%,64.7% (11/17),43.8%,41.7%,7.1%,27.7%,59.5%,25.0% (3/12),1:57
 28-Jun-2021,Wimbledon,5,Grass,Q3,150,125,1,,14,Vitalia Diatchenko,Anhelina Kalinina,6-4 6-3,1.25,2.9%,10.3%,60.3%,63.4%,44.4%,63.6% (7/11),55.5%,55.1%,0.0%,44.7%,71.0%,37.5% (6/16),1:45
 28-Jun-2021,Wimbledon,5,Grass,Q2,150,132,1,,25,Vitalia Diatchenko,Katarzyna Kawa,7-5 6-1,1.31,1.4%,4.2%,62.5%,73.3%,44.4%,90.0% (9/10),56.7%,49.1%,0.0%,48.6%,50.0%,66.7% (4/6),1:30
 28-Jun-2021,Wimbledon,5,Grass,Q1,150,256,1,,,Vitalia Diatchenko,Na Lae Han,6-4 6-4,1.39,0.0%,9.8%,65.6%,77.5%,47.6%,50.0% (1/2),55.9%,45.5%,1.5%,39.6%,61.1%,50.0% (3/6),1:22
@@ -146,7 +162,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-May-2019,W60 Saint Gaudens,3,Clay,R16,83,180,0,,,Anna Kalinskaya,Vitalia Diatchenko,2-6 6-3 4-0 RET,,,,,,,,,,,,,,
 13-May-2019,W60 Saint Gaudens,3,Clay,R32,83,205,1,,,Vitalia Diatchenko,Paula Ormaechea,7-5 4-6 6-2,,,,,,,,,,,,,,
 6-May-2019,W80 Cagnes Sur Mer,3,Clay,R32,80,138,0,,,Priscilla Hon,Vitalia Diatchenko,6-3 7-6(2),,,,,,,,,,,,,,
-8-Apr-2019,W60 Istanbul,3,Hard,F,95,203,1,,,Vitalia Diatchenko,Ankita Raina,6-4 6-0 (ch),,,,,,,,,,,,,,
+8-Apr-2019,W60 Istanbul,3,Hard,F,95,203,1,,,Vitalia Diatchenko,Ankita Raina,6-4 6-0,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,SF,95,250,1,,,Vitalia Diatchenko,Jana Cepelova,6-0 6-2,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,QF,95,208,1,,8,Vitalia Diatchenko,Raluka Serban,6-0 6-2,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,R16,95,345,1,,,Vitalia Diatchenko,Ganna Poznikhirenko,6-0 6-0,,,,,,,,,,,,,,
@@ -228,7 +244,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Mar-2018,Zhuhai $60K,3,Hard,R32,179,87,1,,,Vitalia Diatchenko,Denisa Allertova,3-6 6-1 6-3,,,,,,,,,,,,,,
 22-Jan-2018,Andrezieux Boutheon $60K,3,Hard,QF,186,163,0,,,Magdalena Frech,Vitalia Diatchenko,6-3 2-2 RET,,,,,,,,,,,,,,
 22-Jan-2018,Andrezieux Boutheon $60K,3,Hard,R16,186,266,1,,,Vitalia Diatchenko,Sherazad Reix,6-4 6-3,,,,,,,,,,,,,,
-22-Jan-2018,Andrezieux Boutheon $60K,3,Hard,R32,186,125,1,,3,Vitalia Diatchenko,Viktoria Kuzmova,6-2 3-6 6-3,,,,,,,,,,,,,,
+22-Jan-2018,Andrezieux Boutheon $60K,3,Hard,R32,186,125,1,,3,Vitalia Diatchenko,Viktoria Hruncakova,6-2 3-6 6-3,,,,,,,,,,,,,,
 11-Dec-2017,Dubai 100K,3,Hard,R32,176,98,0,,5,Belinda Bencic,Vitalia Diatchenko,6-4 6-4,,,,,,,,,,,,,,
 20-Nov-2017,Honolulu,3,Hard,QF,176,36,0,,1,Shuai Zhang,Vitalia Diatchenko,6-2 4-1 RET,0.60,6.7%,11.1%,48.9%,50.0%,39.1%,44.4% (4/9),39.7%,33.3%,6.1%,35.3%,31.3%,50.0% (1/2),1:06
 20-Nov-2017,Honolulu,3,Hard,R16,176,187,1,,,Vitalia Diatchenko,Jacqueline Cako,6-2 4-6 6-1,1.23,2.3%,4.6%,66.7%,63.8%,55.2%,70.0% (7/10),54.7%,48.2%,4.8%,44.3%,59.1%,40.0% (6/15),1:57
@@ -257,14 +273,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Aug-2017,Artvin $60K,3,Hard,QF,282,266,1,SR,5,Vitalia Diatchenko,Anastasia Potapova,2-6 6-3 7-6(4),,,,,,,,,,,,,,
 21-Aug-2017,Artvin $60K,3,Hard,R16,282,236,1,SR,3,Vitalia Diatchenko,Elitsa Kostova,6-3 6-3,,,,,,,,,,,,,,
 21-Aug-2017,Artvin $60K,3,Hard,R32,282,480,1,SR,WC,Vitalia Diatchenko,Berfu Cengiz,6-3 7-5,,,,,,,,,,,,,,
-7-Aug-2017,Chiswick $25K,3,Hard,F,354,138,1,,2,Vitalia Diatchenko,Viktoria Kuzmova,6-3 6-4,,,,,,,,,,,,,,
+7-Aug-2017,Chiswick $25K,3,Hard,F,354,138,1,,2,Vitalia Diatchenko,Viktoria Hruncakova,6-3 6-4,,,,,,,,,,,,,,
 7-Aug-2017,Chiswick $25K,3,Hard,SF,354,180,1,,4,Vitalia Diatchenko,Lesley Pattinama Kerkhove,6-3 6-2,,,,,,,,,,,,,,
 7-Aug-2017,Chiswick $25K,3,Hard,QF,354,244,1,,6,Vitalia Diatchenko,Elitsa Kostova,6-3 6-2,,,,,,,,,,,,,,
 7-Aug-2017,Chiswick $25K,3,Hard,R16,354,116,1,,1,Vitalia Diatchenko,Kateryna Baindl,6-3 6-3,,,,,,,,,,,,,,
 7-Aug-2017,Chiswick $25K,3,Hard,R32,354,280,1,,,Vitalia Diatchenko,Katy Dunne,6-3 1-6 7-5,,,,,,,,,,,,,,
 31-Jul-2017,Woking $25K,3,Hard,SF,356,133,0,,1,Jasmine Paolini,Vitalia Diatchenko,6-2 7-5,,,,,,,,,,,,,,
 31-Jul-2017,Woking $25K,3,Hard,QF,356,260,1,,7,Vitalia Diatchenko,Maria Teresa Torro Flor,6-4 6-4,,,,,,,,,,,,,,
-31-Jul-2017,Woking $25K,3,Hard,R16,356,140,1,,3,Vitalia Diatchenko,Viktoria Kuzmova,7-6(3) 6-1,,,,,,,,,,,,,,
+31-Jul-2017,Woking $25K,3,Hard,R16,356,140,1,,3,Vitalia Diatchenko,Viktoria Hruncakova,7-6(3) 6-1,,,,,,,,,,,,,,
 31-Jul-2017,Woking $25K,3,Hard,R32,356,465,1,,Q,Vitalia Diatchenko,Mariam Bolkvadze,6-2 2-6 6-2,,,,,,,,,,,,,,
 17-Jul-2017,Astana $100K,3,Hard,R32,347,265,0,SR,8,Varvara Flink,Vitalia Diatchenko,6-1 5-7 6-2,,,,,,,,,,,,,,
 20-Feb-2017,Moscow $25K,3,Hard,QF,329,242,0,,5,An Sophie Mestach,Vitalia Diatchenko,6-1 6-0,,,,,,,,,,,,,,
@@ -302,7 +318,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Jun-2015,Brescia $50K,3,Clay,QF,91,191,0,1,,Stephanie Vogt,Vitalia Diatchenko,6-4 6-2,,,,,,,,,,,,,,
 1-Jun-2015,Brescia $50K,3,Clay,R16,91,217,1,1,,Vitalia Diatchenko,Katarzyna Piter,3-6 6-3 6-4,,,,,,,,,,,,,,
 1-Jun-2015,Brescia $50K,3,Clay,R32,91,206,1,1,,Vitalia Diatchenko,Allie Kiick,6-3 5-7 6-3,,,,,,,,,,,,,,
-25-May-2015,Roland Garros,5,Clay,R64,91,2,0,,2,Maria Sharapova,Vitalia Diatchenko,6-3 6-1 (ch),0.63,3.2%,6.5%,59.7%,56.8%,32.0%,61.5% (8/13),40.9%,33.3%,8.3%,31.0%,36.8%,20.0% (1/5),
+25-May-2015,Roland Garros,5,Clay,R64,91,2,0,,2,Maria Sharapova,Vitalia Diatchenko,6-3 6-1,0.63,3.2%,6.5%,59.7%,56.8%,32.0%,61.5% (8/13),40.9%,33.3%,8.3%,31.0%,36.8%,20.0% (1/5),
 25-May-2015,Roland Garros,5,Clay,R128,91,96,1,,,Vitalia Diatchenko,Stefanie Voegele,4-6 6-3 6-2,1.11,2.9%,3.8%,65.7%,62.3%,47.2%,69.2% (9/13),52.9%,47.6%,3.7%,40.0%,59.4%,46.2% (6/13),
 18-May-2015,Nuremberg,3,Clay,R32,89,42,0,,4,Roberta Vinci,Vitalia Diatchenko,6-1 6-1,0.64,1.6%,4.9%,75.4%,47.8%,46.7%,54.5% (6/11),40.7%,33.3%,5.3%,31.4%,36.4%,0.0% (0/9),
 23-Feb-2015,Saint Petersburg $50K,3,Hard,R16,81,308,0,1,Q,Ivana Jorovic,Vitalia Diatchenko,6-4 2-1 RET,,,,,,,,,,,,,,
@@ -319,7 +335,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Nov-2014,Dubai 75K,3,Hard,R32,77,138,1,7,,Vitalia Diatchenko,Kristina Kucova,7-6(5) 6-3,,,,,,,,,,,,,,
 3-Nov-2014,Taipei,3,Carpet,F,108,212,1,6,WC,Vitalia Diatchenko,Yung Jan Chan,1-6 6-2 6-4,1.07,1.0%,2.1%,68.0%,68.2%,32.3%,61.5% (8/13),52.4%,46.3%,0.0%,36.4%,65.2%,71.4% (5/7),
 3-Nov-2014,Taipei,3,Carpet,SF,108,241,1,6,Q,Vitalia Diatchenko,Ana Bogdan,6-4 3-6 6-3,1.13,2.9%,3.8%,65.7%,56.5%,52.8%,53.8% (7/13),52.9%,50.5%,3.8%,47.5%,60.0%,87.5% (7/8),
-3-Nov-2014,Taipei,3,Carpet,QF,108,85,1,6,2,Vitalia Diatchenko,Luksika Kumkhum,6-2 6-3 (ch),1.30,8.0%,6.0%,60.0%,73.3%,30.0%,50.0% (3/6),56.6%,57.1%,0.0%,52.4%,66.7%,40.0% (6/15),
+3-Nov-2014,Taipei,3,Carpet,QF,108,85,1,6,2,Vitalia Diatchenko,Luksika Kumkhum,6-2 6-3,1.30,8.0%,6.0%,60.0%,73.3%,30.0%,50.0% (3/6),56.6%,57.1%,0.0%,52.4%,66.7%,40.0% (6/15),
 3-Nov-2014,Taipei,3,Carpet,R16,108,124,1,6,,Vitalia Diatchenko,Ying Ying Duan,6-3 6-1,2.18,14.3%,0.0%,66.7%,75.0%,78.6%,- (0/0),63.0%,52.0%,0.0%,52.6%,50.0%,57.1% (4/7),
 3-Nov-2014,Taipei,3,Carpet,R32,108,352,1,6,,Vitalia Diatchenko,Melinda Czink,6-3 6-2,1.56,7.4%,1.9%,66.7%,72.2%,66.7%,100.0% (3/3),57.0%,46.3%,3.0%,42.3%,60.0%,40.0% (4/10),
 27-Oct-2014,Ningbo,3,Hard,R32,107,298,0,5,WC,Zhaoxuan Yang,Vitalia Diatchenko,6-4 3-6 7-6(3),1.05,1.0%,2.0%,67.7%,53.7%,43.8%,27.3% (3/11),51.2%,51.9%,1.0%,42.9%,65.9%,45.0% (9/20),

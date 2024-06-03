@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 3-Feb-2020,W25 Nonthaburi,3,Hard,Q3,775,399,0,9,2,Lucrezia Stefanini,Kai Chen Chang,7-6(5) 6-4,,,,,,,,,,,,,,
 3-Feb-2020,W25 Nonthaburi,3,Hard,Q2,775,,1,9,,Kai Chen Chang,Yatawee Chimcham,6-1 6-0,,,,,,,,,,,,,,
 3-Feb-2020,W25 Nonthaburi,3,Hard,Q1,775,,1,9,,Kai Chen Chang,Humera Baharmus,6-1 6-0,,,,,,,,,,,,,,
@@ -51,7 +51,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Mar-2018,Yokohama $25K,3,Hard,R32,274,180,0,,,Eri Hozumi,Kai Chen Chang,7-6(3) 5-7 6-4,,,,,,,,,,,,,,
 29-Jan-2018,Taipei,3,Hard,R16,273,51,0,WC,5,Yulia Putintseva,Kai Chen Chang,6-3 7-6(3),0.81,0.0%,4.1%,65.8%,54.2%,40.0%,70.6% (12/17),45.0%,41.0%,3.8%,42.1%,38.1%,50.0% (4/8),1:46
 29-Jan-2018,Taipei,3,Hard,R32,273,384,1,WC,WC,Kai Chen Chang,Ya Hsuan Lee,7-5 6-2,1.35,3.4%,13.8%,62.1%,66.7%,36.4%,42.9% (3/7),57.9%,60.7%,0.0%,42.4%,87.0%,70.0% (7/10),1:12
-9-Oct-2017,Hong Kong,3,Hard,R32,125,48,0,,,Qiang Wang,Kai Chen Chang,6-3 6-0 (ch),0.55,2.1%,21.3%,51.1%,50.0%,21.7%,33.3% (3/9),35.6%,34.9%,7.0%,25.0%,43.5%,25.0% (1/4),0:53
+9-Oct-2017,Hong Kong,3,Hard,R32,125,48,0,,,Qiang Wang,Kai Chen Chang,6-3 6-0,0.55,2.1%,21.3%,51.1%,50.0%,21.7%,33.3% (3/9),35.6%,34.9%,7.0%,25.0%,43.5%,25.0% (1/4),0:53
 2-Oct-2017,Beijing ,3,Hard,Q1,120,70,0,,14,Magda Linette,Kai Chen Chang,6-2 6-2,0.70,4.8%,11.9%,54.8%,47.8%,36.8%,0.0% (0/5),41.2%,40.0%,5.0%,35.1%,47.8%,25.0% (1/4),1:07
 25-Sep-2017,Wuhan,3,Hard,Q2,117,77,0,,5,Monica Puig,Kai Chen Chang,7-6(2) 6-2,0.83,2.9%,7.1%,54.3%,60.5%,53.1%,40.0% (2/5),46.4%,35.7%,4.3%,25.6%,48.4%,50.0% (1/2),1:39
 25-Sep-2017,Wuhan,3,Hard,Q1,117,81,1,,12,Kai Chen Chang,Madison Brengle,4-6 6-4 6-2,1.10,0.0%,11.0%,55.0%,58.2%,40.0%,53.3% (8/15),52.4%,54.9%,0.0%,50.7%,72.2%,52.9% (9/17),2:09
@@ -75,7 +75,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-May-2017,Cagnes Sur Mer $100K,3,Clay,R32,106,115,0,8,,Beatriz Haddad Maia,Kai Chen Chang,6-0 6-3,,,,,,,,,,,,,,
 1-May-2017,Prague,3,Clay,Q1,112,177,0,,,Antonia Lottner,Kai Chen Chang,6-3 7-6(4),0.82,2.7%,4.1%,66.2%,59.2%,40.0%,50.0% (4/8),46.1%,38.8%,1.5%,31.1%,54.5%,100.0% (3/3),1:24
 24-Apr-2017,Istanbul,3,Clay,R32,113,145,0,,LL,Anna Kalinskaya,Kai Chen Chang,6-1 6-3,0.63,0.0%,10.7%,57.1%,43.8%,37.5%,60.0% (9/15),39.2%,37.0%,2.2%,29.6%,47.4%,66.7% (2/3),1:04
-27-Mar-2017,Quanzhou $60K,3,Hard,R16,114,287,0,2,,Xinyu Gao,Kai Chen Chang,7-5 2-6 6-4 (ch),,,,,,,,,,,,,,
+27-Mar-2017,Quanzhou $60K,3,Hard,R16,114,287,0,2,,Xinyu Gao,Kai Chen Chang,7-5 2-6 6-4,,,,,,,,,,,,,,
 27-Mar-2017,Quanzhou $60K,3,Hard,R32,114,641,1,2,Q,Kai Chen Chang,Mai Minokoshi,6-1 6-4,,,,,,,,,,,,,,
 13-Mar-2017,Shenzhen $60K,3,Hard,R16,118,142,0,5,,Aryna Sabalenka,Kai Chen Chang,6-1 7-6(4),,,,,,,,,,,,,,
 13-Mar-2017,Shenzhen $60K,3,Hard,R32,118,354,1,5,WC,Kai Chen Chang,Yuxuan Zhang,6-3 7-6(6),,,,,,,,,,,,,,
@@ -103,7 +103,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Oct-2016,Liuzhou $50K,3,Hard,QF,156,155,0,,6,Ipek Soylu,Kai Chen Chang,6-2 1-0 RET,,,,,,,,,,,,,,
 24-Oct-2016,Liuzhou $50K,3,Hard,R16,156,112,1,,2,Kai Chen Chang,Tatjana Maria,2-6 7-5 6-2,,,,,,,,,,,,,,
 24-Oct-2016,Liuzhou $50K,3,Hard,R32,156,237,1,,,Kai Chen Chang,Riko Sawayanagi,4-6 6-2 6-1,,,,,,,,,,,,,,
-17-Oct-2016,Suzhou $50K,3,Hard,F,193,127,1,,4,Kai Chen Chang,Yafan Wang,4-6 6-2 6-1 (ch),,,,,,,,,,,,,,
+17-Oct-2016,Suzhou $50K,3,Hard,F,193,127,1,,4,Kai Chen Chang,Yafan Wang,4-6 6-2 6-1,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,SF,193,441,1,,WC,Kai Chen Chang,Yi Fan Xu,6-3 6-0,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,QF,193,110,1,,2,Kai Chen Chang,Tatjana Maria,7-5 6-2,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,R16,193,247,1,,,Kai Chen Chang,Aleksandrina Naydenova,6-2 6-4,,,,,,,,,,,,,,

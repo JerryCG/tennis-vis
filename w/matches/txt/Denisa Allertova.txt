@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 31-Aug-2020,Prague,3,Clay,R128,239,240,0,,,Katharina Gerlach,Denisa Allertova,6-2 6-1,0.43,0.0%,0.0%,70.0%,46.4%,16.7%,16.7% (1/6),31.8%,26.7%,11.1%,14.8%,44.4%,33.3% (1/3),0:53
 10-Feb-2020,W25 Grenoble,3,Hard,R32,211,298,0,1,,Susan Bandecchi,Denisa Allertova,6-4 6-1,,,,,,,,,,,,,,
 20-Jan-2020,Australian Open,5,Hard,Q2,223,117,0,,11,Stefanie Voegele,Denisa Allertova,3-6 6-1 6-2,0.82,6.8%,6.8%,60.8%,64.4%,37.9%,50.0% (5/10),45.5%,37.8%,8.5%,22.9%,58.8%,28.6% (2/7),1:39
@@ -99,7 +99,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Mar-2017,Shenzhen $60K,3,Hard,R16,113,158,1,4,,Denisa Allertova,Dalma Galfi,7-6(5) 0-6 6-2,,,,,,,,,,,,,,
 13-Mar-2017,Shenzhen $60K,3,Hard,R32,113,156,1,4,,Denisa Allertova,Tara Moore,6-2 6-1,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,F,113,103,1,6,4,Denisa Allertova,Saisai Zheng,6-3 2-6 6-4,,,,,,,,,,,,,,
-6-Mar-2017,Zhuhai $60K,3,Hard,SF,113,121,1,6,7,Denisa Allertova,Maryna Zanevska,7-5 6-3 (ch),,,,,,,,,,,,,,
+6-Mar-2017,Zhuhai $60K,3,Hard,SF,113,121,1,6,7,Denisa Allertova,Maryna Zanevska,7-5 6-3,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,QF,113,191,1,6,,Denisa Allertova,Arantxa Rus,6-4 6-3,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,R16,113,144,1,6,,Denisa Allertova,Dalila Jakupovic,6-4 6-2,,,,,,,,,,,,,,
 6-Mar-2017,Zhuhai $60K,3,Hard,R32,113,187,1,6,,Denisa Allertova,Zarina Diyas,6-4 6-3,,,,,,,,,,,,,,
@@ -139,18 +139,18 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2016,'s Hertogenbosch,3,Grass,R32,80,254,0,,Q,Natalia Vikhlyantseva,Denisa Allertova,6-2 6-1,0.49,3.9%,9.8%,64.7%,60.6%,16.7%,42.9% (3/7),36.5%,26.7%,11.1%,20.0%,40.0%,- (0/0),0:51
 23-May-2016,Roland Garros,5,Clay,R128,70,91,0,,,Kurumi Nara,Denisa Allertova,5-7 6-3 2-0 RET,0.86,1.3%,2.6%,66.2%,54.9%,42.3%,0.0% (0/5),46.6%,42.3%,2.8%,46.0%,33.3%,60.0% (3/5),1:40
 21-Mar-2016,Miami,3,Hard,R128,55,51,0,,,Danka Kovinic,Denisa Allertova,7-6(5) 6-4,0.93,1.5%,0.0%,66.7%,61.4%,45.5%,0.0% (0/5),47.7%,41.0%,8.4%,34.1%,47.6%,30.8% (4/13),1:28
-7-Mar-2016,Indian Wells,3,Hard,R32,64,26,0,,25,Johanna Konta,Denisa Allertova,6-4 6-1 (ch),0.69,0.0%,10.4%,43.3%,34.5%,44.7%,41.7% (5/12),40.5%,40.9%,13.6%,37.0%,47.1%,75.0% (3/4),1:17
-7-Mar-2016,Indian Wells,3,Hard,R64,64,2,1,,2,Denisa Allertova,Angelique Kerber,7-5 7-5 (ch),1.20,1.4%,4.2%,66.2%,68.1%,54.2%,50.0% (2/4),52.9%,44.0%,0.0%,38.5%,53.1%,50.0% (4/8),1:38
+7-Mar-2016,Indian Wells,3,Hard,R32,64,26,0,,25,Johanna Konta,Denisa Allertova,6-4 6-1,0.69,0.0%,10.4%,43.3%,34.5%,44.7%,41.7% (5/12),40.5%,40.9%,13.6%,37.0%,47.1%,75.0% (3/4),1:17
+7-Mar-2016,Indian Wells,3,Hard,R64,64,2,1,,2,Denisa Allertova,Angelique Kerber,7-5 7-5,1.20,1.4%,4.2%,66.2%,68.1%,54.2%,50.0% (2/4),52.9%,44.0%,0.0%,38.5%,53.1%,50.0% (4/8),1:38
 7-Mar-2016,Indian Wells,3,Hard,R128,64,133,1,,,Denisa Allertova,Petra Cetkovska,6-0 6-1,2.90,2.6%,0.0%,65.8%,80.0%,69.2%,- (0/0),72.9%,68.8%,0.0%,68.8%,68.8%,100.0% (5/5),0:41
 22-Feb-2016,Doha,3,Hard,R32,62,61,0,,WC,Eugenie Bouchard,Denisa Allertova,7-6(0) 7-5,0.95,2.7%,8.1%,64.9%,58.3%,26.9%,36.4% (4/11),48.7%,50.0%,4.9%,48.0%,53.1%,54.5% (6/11),1:30
 22-Feb-2016,Doha,3,Hard,R64,62,18,1,,15,Denisa Allertova,Elina Svitolina,7-5 6-4,1.18,1.4%,4.2%,70.4%,62.0%,42.9%,69.2% (9/13),54.0%,51.5%,4.4%,50.0%,54.5%,60.0% (6/10),1:20
 15-Feb-2016,Dubai,3,Hard,Q3,62,82,0,4,,Yaroslava Shvedova,Denisa Allertova,6-4 4-6 7-6(6),1.05,2.8%,9.3%,57.9%,71.0%,44.4%,63.6% (7/11),50.2%,42.2%,2.3%,40.7%,44.7%,30.8% (4/13),2:18
 15-Feb-2016,Dubai,3,Hard,Q2,62,109,1,4,,Denisa Allertova,Katerina Siniakova,6-4 6-3,1.37,4.8%,4.8%,58.7%,73.0%,46.2%,75.0% (6/8),56.9%,52.2%,1.5%,55.0%,48.1%,41.7% (5/12),1:22
 15-Feb-2016,Dubai,3,Hard,Q1,62,344,1,4,Alt,Denisa Allertova,Gabriela Dabrowski,6-2 6-3,1.40,2.0%,5.9%,54.9%,71.4%,52.2%,75.0% (3/4),56.6%,52.1%,2.8%,50.0%,54.5%,45.5% (5/11),1:08
-18-Jan-2016,Australian Open,5,Hard,R32,66,47,0,,,Johanna Konta,Denisa Allertova,6-2 6-2 (ch),0.58,1.7%,3.3%,71.7%,53.5%,41.2%,66.7% (8/12),41.0%,28.9%,11.1%,26.7%,33.3%,- (0/0),1:04
+18-Jan-2016,Australian Open,5,Hard,R32,66,47,0,,,Johanna Konta,Denisa Allertova,6-2 6-2,0.58,1.7%,3.3%,71.7%,53.5%,41.2%,66.7% (8/12),41.0%,28.9%,11.1%,26.7%,33.3%,- (0/0),1:04
 18-Jan-2016,Australian Open,5,Hard,R64,66,32,1,,30,Denisa Allertova,Sabine Lisicki,6-3 2-6 6-4,1.03,2.1%,5.3%,62.1%,66.1%,44.4%,42.9% (3/7),50.5%,43.4%,6.1%,41.3%,47.2%,26.7% (4/15),2:02
 18-Jan-2016,Australian Open,5,Hard,R128,66,63,1,,,Denisa Allertova,Bethanie Mattek Sands,6-4 6-7 6-3,1.11,2.8%,5.7%,67.9%,69.4%,50.0%,62.5% (5/8),51.9%,40.9%,2.7%,34.9%,48.9%,41.7% (5/12),2:14
-11-Jan-2016,Hobart,3,Hard,R32,67,42,0,,7,Alize Cornet,Denisa Allertova,6-4 7-5 (ch),0.87,0.0%,5.0%,68.3%,48.8%,57.9%,0.0% (0/6),46.3%,41.9%,1.4%,31.3%,61.5%,44.4% (4/9),1:30
+11-Jan-2016,Hobart,3,Hard,R32,67,42,0,,7,Alize Cornet,Denisa Allertova,6-4 7-5,0.87,0.0%,5.0%,68.3%,48.8%,57.9%,0.0% (0/6),46.3%,41.9%,1.4%,31.3%,61.5%,44.4% (4/9),1:30
 19-Oct-2015,Luxembourg,3,Hard,R16,64,92,0,,,Misaki Doi,Denisa Allertova,7-5 6-2,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R32,64,150,1,,Q,Denisa Allertova,Jana Cepelova,6-3 4-6 6-1,,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,QF,58,110,0,,,Kirsten Flipkens,Denisa Allertova,6-3 6-4,,,,,,,,,,,,,,
@@ -158,7 +158,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Oct-2015,Linz,3,Hard,R32,58,105,1,,Q,Denisa Allertova,Klara Koukalova,6-2 4-6 6-1,,,,,,,,,,,,,,
 21-Sep-2015,Guangzhou,3,Hard,F,74,25,0,,4,Jelena Jankovic,Denisa Allertova,6-2 6-0,,,,,,,,,,,,,,
 21-Sep-2015,Guangzhou,3,Hard,SF,74,21,1,,3,Denisa Allertova,Sara Errani,7-5 6-2,,,,,,,,,,,,,,
-21-Sep-2015,Guangzhou,3,Hard,QF,74,2,1,,1,Denisa Allertova,Simona Halep,6-4 6-3 (ch),,,,,,,,,,,,,,
+21-Sep-2015,Guangzhou,3,Hard,QF,74,2,1,,1,Denisa Allertova,Simona Halep,6-4 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Guangzhou,3,Hard,R16,74,113,1,,,Denisa Allertova,Bojana Jovanovski,6-3 7-6(5),,,,,,,,,,,,,,
 21-Sep-2015,Guangzhou,3,Hard,R32,74,108,1,,,Denisa Allertova,Anna Lena Friedsam,6-3 7-6(3),,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R64,77,43,0,,,Roberta Vinci,Denisa Allertova,2-6 6-3 6-1,,,,,,,,,,,,,,
@@ -204,8 +204,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Jan-2015,Australian Open,5,Hard,Q1,107,194,1,1,,Denisa Allertova,Ysaline Bonaventure,6-3 7-5,,,,,,,,,,,,,,
 12-Jan-2015,Hobart,3,Hard,Q1,107,70,0,,2,Kiki Bertens,Denisa Allertova,6-3 6-4,,,,,,,,,,,,,,
 13-Oct-2014,Luxembourg,3,Hard,SF,145,60,0,Q,,Annika Beck,Denisa Allertova,6-0 6-1,0.46,0.0%,9.4%,65.6%,42.9%,9.1%,16.7% (1/6),31.6%,31.8%,0.0%,23.1%,100.0%,0.0% (0/1),
-13-Oct-2014,Luxembourg,3,Hard,QF,145,37,1,Q,5,Denisa Allertova,Varvara Lepchenko,4-6 6-3 7-5 (ch),1.13,2.0%,6.0%,65.0%,64.6%,51.4%,54.5% (6/11),52.8%,45.3%,3.2%,35.7%,59.0%,50.0% (6/12),
-13-Oct-2014,Luxembourg,3,Hard,R16,145,25,1,Q,3,Denisa Allertova,Sabine Lisicki,7-5 6-2 (ch),1.40,0.0%,1.6%,68.9%,69.0%,42.1%,25.0% (1/4),57.9%,55.0%,6.7%,42.3%,64.7%,85.7% (6/7),
+13-Oct-2014,Luxembourg,3,Hard,QF,145,37,1,Q,5,Denisa Allertova,Varvara Lepchenko,4-6 6-3 7-5,1.13,2.0%,6.0%,65.0%,64.6%,51.4%,54.5% (6/11),52.8%,45.3%,3.2%,35.7%,59.0%,50.0% (6/12),
+13-Oct-2014,Luxembourg,3,Hard,R16,145,25,1,Q,3,Denisa Allertova,Sabine Lisicki,7-5 6-2,1.40,0.0%,1.6%,68.9%,69.0%,42.1%,25.0% (1/4),57.9%,55.0%,6.7%,42.3%,64.7%,85.7% (6/7),
 13-Oct-2014,Luxembourg,3,Hard,R32,145,147,1,Q,Q,Denisa Allertova,Ons Jabeur,6-1 3-6 6-2,1.21,1.2%,7.3%,69.5%,59.6%,60.0%,66.7% (6/9),54.2%,48.8%,6.0%,50.0%,47.2%,31.6% (6/19),
 13-Oct-2014,Luxembourg,3,Hard,Q3,145,181,1,,,Denisa Allertova,Sesil Karatantcheva,7-5 1-6 6-4,1.00,1.3%,10.3%,56.4%,52.3%,50.0%,12.5% (1/8),50.0%,48.7%,1.3%,40.0%,58.3%,66.7% (6/9),
 13-Oct-2014,Luxembourg,3,Hard,Q2,145,262,1,,,Denisa Allertova,Katerina Vankova,7-6(4) 6-4,1.18,10.1%,6.3%,68.4%,68.5%,40.0%,57.1% (4/7),53.9%,47.9%,0.0%,44.2%,53.3%,50.0% (4/8),

@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 29-Aug-2022,US Open,5,Hard,Q1,,527,0,,,Yanina Wickmayer,Anastasiya Komardina,6-2 6-2,,,,,,,,,,,,,,
 23-May-2022,Roland Garros,5,Clay,Q1,,281,0,,,Conny Perrin,Anastasiya Komardina,4-6 6-3 6-4,,,,,,,,,,,,,,
 10-Jan-2021,Dubai Aus Open Qualies,3,Hard,Q1,216,142,0,,26,Renata Zarazua,Anastasiya Komardina,6-3 6-4,0.73,3.3%,6.7%,63.3%,47.4%,36.4%,37.5% (3/8),42.3%,41.4%,0.0%,39.1%,45.8%,60.0% (3/5),1:35
@@ -150,7 +150,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Jan-2017,St. Petersburg,3,Hard,Q2,183,143,1,,,Anastasiya Komardina,Sabina Sharipova,6-3 6-4,1.24,5.0%,10.0%,61.7%,73.0%,52.2%,66.7% (2/3),54.2%,43.3%,0.0%,29.6%,54.5%,75.0% (3/4),1:22
 30-Jan-2017,St. Petersburg,3,Hard,Q1,183,184,1,,,Anastasiya Komardina,Ksenia Lykina,6-1 6-3,1.60,13.1%,9.8%,55.7%,70.6%,37.0%,72.7% (8/11),62.4%,70.8%,2.1%,59.4%,93.8%,58.3% (7/12),1:09
 16-Jan-2017,Australian Open,5,Hard,Q3,201,189,0,,,Anna Blinkova,Anastasiya Komardina,6-4 6-2,,,,,,,,,,,,,,
-16-Jan-2017,Australian Open,5,Hard,Q2,201,113,1,,2,Anastasiya Komardina,Tatjana Maria,6-2 7-5 (ch),,,,,,,,,,,,,,
+16-Jan-2017,Australian Open,5,Hard,Q2,201,113,1,,2,Anastasiya Komardina,Tatjana Maria,6-2 7-5,,,,,,,,,,,,,,
 16-Jan-2017,Australian Open,5,Hard,Q1,201,209,1,,,Anastasiya Komardina,Jil Teichmann,6-1 6-4,,,,,,,,,,,,,,
 2-Jan-2017,Shenzhen,3,Hard,Q2,200,113,0,,6,Stefanie Voegele,Anastasiya Komardina,6-3 6-2,0.68,3.4%,8.6%,53.4%,61.3%,33.3%,50.0% (5/10),42.0%,35.2%,3.7%,25.8%,47.8%,33.3% (2/6),1:26
 2-Jan-2017,Shenzhen,3,Hard,Q1,200,108,1,,4,Anastasiya Komardina,Ekaterina Alexandrova,6-3 3-6 6-3,0.90,4.0%,5.0%,62.0%,69.4%,50.0%,71.4% (5/7),50.3%,34.2%,15.1%,16.7%,51.4%,60.0% (3/5),2:02

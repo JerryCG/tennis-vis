@@ -1,4 +1,104 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,W75 Prague ,3,Clay,R32,209,136,0,,2,Panna Udvardy,Miriam Bianca Bulgaru,7-6(4) 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q1,209,300,0,9,,Leyre Romero Gormaz,Miriam Bianca Bulgaru,6-2 6-1,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R16,195,210,0,4,,Antonia Ruzic,Miriam Bianca Bulgaru,6-3 7-5,,,,,,,,,,,,,,
+15-Apr-2024,W75 Koper,3,Clay,R32,195,233,1,4,,Miriam Bianca Bulgaru,Cristina Dinu,5-7 6-4 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,184,167,0,,,Tereza Martincova,Miriam Bianca Bulgaru,2-6 7-5 6-3,,,,,,,,,,,,,,
+25-Mar-2024,Antalya 125,3,Clay,Q2,188,276,0,3,,Leyre Romero Gormaz,Miriam Bianca Bulgaru,6-4 6-7(1) 6-3,0.93,0.0%,5.0%,67.8%,61.0%,53.8%,66.7% (8/12),48.7%,38.5%,3.4%,36.4%,42.5%,18.2% (2/11),3:14
+25-Mar-2024,Antalya 125,3,Clay,Q1,188,607,1,3,,Miriam Bianca Bulgaru,Nastasja Schunk,7-6(4) 2-6 7-5,0.94,0.9%,6.1%,66.7%,56.6%,36.8%,59.1% (13/22),48.6%,47.1%,1.0%,43.8%,58.3%,66.7% (8/12),3:09
+11-Mar-2024,W35 Alaminos-Larnaca,3,Clay,QF,193,443,0,3,WC,Andrea Lazaro Garcia,Miriam Bianca Bulgaru,7-6(3) 6-4,,,,,,,,,,,,,,
+11-Mar-2024,W35 Alaminos-Larnaca,3,Clay,R16,193,314,1,3,,Miriam Bianca Bulgaru,Francesca Curmi,6-4 7-6(3),,,,,,,,,,,,,,
+11-Mar-2024,W35 Alaminos-Larnaca,3,Clay,R32,193,402,1,3,SR,Miriam Bianca Bulgaru,Marina Melnikova,6-2 6-2,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,Q1,193,244,0,7,,Nikola Bartunkova,Miriam Bianca Bulgaru,6-1 6-1,,,,,,,,,,,,,,
+26-Feb-2024,W50 Trnava,3,Hard,R32,194,136,0,,3,Anastasia Zakharova,Miriam Bianca Bulgaru,6-2 2-6 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R16,195,209,0,8,,Dominika Salkova,Miriam Bianca Bulgaru,W/O,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R32,195,598,1,8,Q,Miriam Bianca Bulgaru,Radka Zelnickova,6-0 7-6(4),,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R16,191,192,0,,,Veronika Erjavec,Miriam Bianca Bulgaru,7-5 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R32,191,,1,,WC,Miriam Bianca Bulgaru,Ana Filipa Santos,6-0 6-0,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,191,220,0,,,Ye Xin Ma,Miriam Bianca Bulgaru,7-5 6-2,0.75,4.5%,7.5%,61.2%,51.2%,42.3%,28.6% (2/7),43.4%,39.1%,2.9%,33.3%,43.6%,28.6% (2/7),1:47
+4-Dec-2023,Montevideo 125,3,Clay,QF,199,128,0,6,2,Renata Zarazua,Miriam Bianca Bulgaru,6-2 6-2,0.67,1.9%,1.9%,72.2%,51.3%,53.3%,50.0% (4/8),41.6%,32.2%,0.0%,29.3%,38.9%,0.0% (0/6),1:31
+4-Dec-2023,Montevideo 125,3,Clay,R16,199,375,1,6,,Miriam Bianca Bulgaru,Eva Vedder,3-6 6-2 6-2,1.22,2.7%,2.7%,73.3%,70.9%,45.0%,71.4% (5/7),53.5%,43.8%,1.3%,37.2%,51.4%,45.5% (5/11),1:53
+4-Dec-2023,Montevideo 125,3,Clay,R32,199,606,1,6,Q,Miriam Bianca Bulgaru,Anna Sinclair Rogers,6-1 6-1,1.60,0.0%,4.1%,73.5%,58.3%,61.5%,50.0% (1/2),62.1%,65.2%,2.2%,58.8%,83.3%,66.7% (6/9),1:04
+27-Nov-2023,Buenos Aires 125,3,Clay,R16,201,163,0,,7,Julia Riera,Miriam Bianca Bulgaru,6-2 6-3,0.66,0.0%,5.6%,48.1%,50.0%,60.7%,57.1% (4/7),42.0%,29.3%,6.9%,25.7%,34.8%,0.0% (0/5),1:27
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,201,377,1,,Q,Miriam Bianca Bulgaru,Amina Anshba,6-3 6-4,1.29,0.0%,7.1%,44.6%,68.0%,51.6%,57.1% (4/7),55.6%,53.2%,3.8%,42.6%,88.9%,40.0% (6/15),1:55
+20-Nov-2023,Florianopolis 125,3,Clay,QF,200,543,0,,WC,Ajla Tomljanovic,Miriam Bianca Bulgaru,7-6(5) 6-2,0.81,4.3%,10.0%,54.3%,55.3%,37.5%,54.5% (6/11),45.0%,43.0%,2.5%,39.3%,52.2%,33.3% (3/9),1:53
+20-Nov-2023,Florianopolis 125,3,Clay,R16,200,210,1,,,Miriam Bianca Bulgaru,Solana Sierra,1-6 6-2 6-3,1.09,1.1%,6.9%,56.3%,49.0%,31.6%,50.0% (9/18),51.8%,63.6%,0.0%,57.7%,76.0%,50.0% (10/20),2:09
+20-Nov-2023,Florianopolis 125,3,Clay,R32,200,138,1,,,Miriam Bianca Bulgaru,Laura Pigossi,6-7(4) 7-6(4) 6-0,1.17,1.8%,3.6%,59.8%,59.7%,57.8%,60.0% (6/10),53.2%,48.0%,1.6%,44.7%,55.0%,36.8% (7/19),3:23
+13-Nov-2023,Colina 125,3,Clay,R32,200,332,0,,,Polona Hercog,Miriam Bianca Bulgaru,6-4 4-6 6-2,0.89,2.1%,4.2%,50.5%,70.8%,42.6%,50.0% (5/10),47.4%,38.6%,6.9%,28.6%,51.1%,42.9% (3/7),2:58
+16-Oct-2023,Cluj Napoca,3,Hard,R16,208,67,0,WC,4,Rebeka Masarova,Miriam Bianca Bulgaru,3-6 7-6(8) 6-0,0.93,0.0%,2.9%,63.7%,46.2%,51.4%,55.6% (10/18),48.3%,48.6%,2.9%,43.6%,63.0%,42.9% (6/14),2:39
+16-Oct-2023,Cluj Napoca,3,Hard,R32,208,210,1,WC,LL,Miriam Bianca Bulgaru,Ipek Oz,7-5 6-3,1.19,1.4%,2.8%,58.3%,61.9%,56.7%,57.1% (4/7),53.8%,47.9%,1.4%,45.8%,52.2%,45.5% (5/11),1:56
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R16,199,383,0,2,,Dalila Spiteri,Miriam Bianca Bulgaru,2-6 6-2 7-6(4),,,,,,,,,,,,,,
+2-Oct-2023,W25 Santa Margherita di Pula,3,Clay,R32,199,386,1,2,,Miriam Bianca Bulgaru,Ekaterine Gorgodze,6-3 6-4,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,SF,184,333,0,1,6,Katharina Hobgarski,Miriam Bianca Bulgaru,2-6 7-6(3) 7-6(4),,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,QF,184,540,1,1,Q,Miriam Bianca Bulgaru,Ivonne Cavalle Reimers,6-1 6-0,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R16,184,330,1,1,,Miriam Bianca Bulgaru,Polona Hercog,6-1 6-2,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santa Margherita di Pula,3,Clay,R32,184,170,1,1,Q,Miriam Bianca Bulgaru,Ylena In Albon,6-3 6-2,,,,,,,,,,,,,,
+11-Sep-2023,Ljubljana 125,3,Clay,SF,201,132,0,,5,Marina Bassols Ribera,Miriam Bianca Bulgaru,7-5 7-5,0.87,2.2%,2.2%,62.9%,53.6%,51.5%,53.8% (7/13),47.5%,41.1%,0.0%,26.9%,76.2%,50.0% (4/8),2:09
+11-Sep-2023,Ljubljana 125,3,Clay,QF,201,141,1,,3,Miriam Bianca Bulgaru,Dalma Galfi,6-2 6-3,1.38,1.9%,1.9%,66.0%,62.9%,61.1%,0.0% (0/2),57.6%,52.2%,6.5%,48.4%,60.0%,71.4% (5/7),1:11
+11-Sep-2023,Ljubljana 125,3,Clay,R16,201,106,1,,6,Miriam Bianca Bulgaru,Kaja Juvan,6-4 6-3,1.28,0.0%,3.0%,68.7%,60.9%,66.7%,80.0% (4/5),55.4%,47.6%,0.0%,40.9%,63.2%,57.1% (4/7),1:38
+11-Sep-2023,Ljubljana 125,3,Clay,R32,201,361,1,,Q,Miriam Bianca Bulgaru,Ashley Lahey,3-6 6-3 6-4,1.00,3.0%,4.0%,71.7%,64.8%,50.0%,62.5% (5/8),51.1%,39.5%,1.2%,39.0%,40.9%,44.4% (4/9),2:35
+4-Sep-2023,W60 Vienna,3,Clay,F,219,252,0,7,,Tena Lukas,Miriam Bianca Bulgaru,7-5 6-1,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,SF,219,444,1,7,Q,Miriam Bianca Bulgaru,Polona Hercog,2-6 6-4 7-6(8),,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,QF,219,194,1,7,3,Miriam Bianca Bulgaru,Nigina Abduraimova,6-4 4-6 6-0,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,R16,219,401,1,7,,Miriam Bianca Bulgaru,Julia Avdeeva,6-0 6-3,,,,,,,,,,,,,,
+4-Sep-2023,W60 Vienna,3,Clay,R32,219,450,1,7,SE,Miriam Bianca Bulgaru,Cristina Andreea Mitu,6-1 1-0 RET,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,219,189,0,,,Ankita Raina,Miriam Bianca Bulgaru,6-3 7-5,0.89,4.3%,7.1%,57.1%,60.0%,43.3%,33.3% (2/6),46.3%,41.9%,1.0%,37.5%,56.0%,14.3% (2/14),2:15
+7-Aug-2023,Montreal,3,Hard,Q1,222,76,0,,8,Katie Boulter,Miriam Bianca Bulgaru,6-3 6-3,0.71,4.1%,4.1%,59.5%,45.5%,53.3%,54.5% (6/11),43.4%,36.4%,14.5%,19.4%,58.3%,33.3% (2/6),1:28
+23-Jul-2023,Hamburg,3,Clay,R32,224,61,0,Q,5,Julia Grabher,Miriam Bianca Bulgaru,6-4 6-4,0.87,0.0%,0.0%,67.2%,66.7%,45.5%,40.0% (2/5),48.0%,35.0%,3.3%,30.2%,47.1%,16.7% (1/6),1:30
+23-Jul-2023,Hamburg,3,Clay,Q2,224,177,1,12,3,Miriam Bianca Bulgaru,Emiliana Arango,7-6(5) 7-5,1.05,1.8%,0.9%,62.3%,63.4%,53.5%,80.0% (12/15),51.7%,42.3%,2.1%,36.1%,60.0%,23.5% (4/17),2:29
+23-Jul-2023,Hamburg,3,Clay,Q1,224,364,1,12,WC,Miriam Bianca Bulgaru,Lena Rueffer,6-3 6-1,1.60,1.8%,5.4%,57.1%,81.3%,50.0%,100.0% (3/3),59.0%,51.5%,0.0%,40.9%,72.7%,33.3% (4/12),1:30
+17-Jul-2023,Iasi 125,3,Clay,R32,215,138,0,,7,Laura Pigossi,Miriam Bianca Bulgaru,5-7 6-0 6-1,0.79,2.7%,6.8%,52.7%,48.7%,40.0%,42.9% (6/14),44.0%,43.6%,1.1%,38.8%,55.6%,33.3% (4/12),2:40
+3-Jul-2023,W25 Stuttgart-Vaihingen,3,Clay,QF,223,253,0,2,7,Alexandra Cadantu Ignatik,Miriam Bianca Bulgaru,7-6(2) 7-5,,,,,,,,,,,,,,
+3-Jul-2023,W25 Stuttgart-Vaihingen,3,Clay,R16,223,308,1,2,,Miriam Bianca Bulgaru,Camilla Rosatello,6-3 7-6(7),,,,,,,,,,,,,,
+3-Jul-2023,W25 Stuttgart-Vaihingen,3,Clay,R32,223,1359,1,2,WC,Miriam Bianca Bulgaru,Anna Gabric,6-1 3-6 6-1,,,,,,,,,,,,,,
+26-Jun-2023,W25 Tarvisio,3,Clay,R32,220,302,0,2,,Dominika Salkova,Miriam Bianca Bulgaru,6-4 6-1,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R16,238,79,0,Q,5,Diane Parry,Miriam Bianca Bulgaru,6-2 4-6 6-3,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R32,238,183,1,Q,,Miriam Bianca Bulgaru,Chloe Paquet,6-3 4-6 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 Annenheim,3,Clay,F,238,328,0,2,6,Jesika Maleckova,Miriam Bianca Bulgaru,6-2 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Annenheim,3,Clay,SF,238,264,1,2,3,Miriam Bianca Bulgaru,Alexandra Cadantu Ignatik,6-1 4-6 5-1 RET,,,,,,,,,,,,,,
+29-May-2023,W25 Annenheim,3,Clay,QF,238,803,1,2,Q,Miriam Bianca Bulgaru,Alina Granwehr,6-1 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 Annenheim,3,Clay,R16,238,596,1,2,,Miriam Bianca Bulgaru,Fiona Ganz,7-5 6-3,,,,,,,,,,,,,,
+29-May-2023,W25 Annenheim,3,Clay,R32,238,587,1,2,,Miriam Bianca Bulgaru,Sina Herrmann,6-2 7-6(5),,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,238,138,0,,26,Kayla Day,Miriam Bianca Bulgaru,6-4 6-1,0.70,1.7%,5.0%,51.7%,38.7%,31.0%,41.7% (5/12),40.2%,45.6%,3.5%,36.4%,58.3%,57.1% (4/7),
+29-May-2023,Roland Garros,5,Clay,Q1,238,229,1,,,Miriam Bianca Bulgaru,Ekaterina Makarova,1-6 6-3 6-2,1.14,0.0%,6.5%,44.2%,61.8%,48.8%,58.3% (7/12),53.0%,51.7%,0.0%,46.6%,78.6%,50.0% (6/12),
+8-May-2023,W60 Zagreb,3,Clay,R32,230,482,0,,Q,Ella Seidel,Miriam Bianca Bulgaru,3-6 7-5 7-5,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R32,223,170,0,,3,Nuria Brancaccio,Miriam Bianca Bulgaru,6-3 6-7(3) 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,F,247,411,0,5,Q,Andreea Prisacariu,Miriam Bianca Bulgaru,3-6 6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,SF,247,433,1,5,,Miriam Bianca Bulgaru,Alice Rame,7-6(4) 2-6 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,QF,247,505,1,5,Q,Miriam Bianca Bulgaru,Lisa Pigato,6-4 0-6 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,247,733,1,5,WC,Miriam Bianca Bulgaru,Georgia Pedone,6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,247,250,1,5,,Miriam Bianca Bulgaru,Anastasia Gasanova,6-3 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,SF,247,255,0,8,7,Sonay Kartal,Miriam Bianca Bulgaru,4-6 6-4 7-6(3),,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,QF,247,208,1,8,3,Miriam Bianca Bulgaru,Katharina Hobgarski,6-2 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,247,263,1,8,,Miriam Bianca Bulgaru,Carlota Martinez Cirez,7-5 7-5,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,247,413,1,8,Q,Miriam Bianca Bulgaru,Deborah Chiesa,6-3 0-6 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,QF,252,221,0,,,Iryna Shymanovich,Miriam Bianca Bulgaru,6-1 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R16,252,266,1,,,Miriam Bianca Bulgaru,Cagla Buyukakcay,6-0 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R32,252,289,1,,,Miriam Bianca Bulgaru,Angela Fita Boluda,6-3 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W25 Fredericton,3,Hard,R32,255,1015,0,4,LL,Martyna Ostrzygalo,Miriam Bianca Bulgaru,6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W25 Toronto,3,Hard,QF,254,383,0,4,8,Gabriela Andrea Knutson,Miriam Bianca Bulgaru,7-6(4) 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W25 Toronto,3,Hard,R16,254,402,1,4,,Miriam Bianca Bulgaru,Viktoria Morvayova,6-2 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W25 Toronto,3,Hard,R32,254,548,1,4,,Miriam Bianca Bulgaru,Ziva Falkner,7-6(3) 7-6(6),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,R32,254,239,0,Q,Q,Lina Glushko,Miriam Bianca Bulgaru,6-2 6-4,,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,Q2,254,387,1,4,12,Miriam Bianca Bulgaru,Maria Fernanda Herazo Gonzalez,6-3 7-6(4),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,Q1,254,,1,4,,Miriam Bianca Bulgaru,Regina Herrera,6-0 6-0,,,,,,,,,,,,,,
+6-Feb-2023,W40 Mexico City,3,Hard,R32,252,536,0,,Q,Maria Jose Portillo Ramirez,Miriam Bianca Bulgaru,6-3 4-6 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,R16,253,327,0,5,,Taylor Ng,Miriam Bianca Bulgaru,6-0 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W40 Mexico City,3,Hard,R32,253,725,1,5,WC,Miriam Bianca Bulgaru,Jessica Hinojosa Gomez,6-2 6-0,,,,,,,,,,,,,,
+16-Jan-2023,W40 Monastir,3,Hard,R16,246,313,0,5,,Sapfo Sakellaridi,Miriam Bianca Bulgaru,W/O,,,,,,,,,,,,,,
+16-Jan-2023,W40 Monastir,3,Hard,R32,246,480,1,5,SR,Miriam Bianca Bulgaru,Barbara Haas,6-2 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,SF,285,295,0,6,8,Lina Gjorcheska,Miriam Bianca Bulgaru,6-4 7-6(5),,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,QF,285,598,1,6,,Miriam Bianca Bulgaru,Martha Matoula,6-1 7-5,,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,R16,285,749,1,6,WC,Miriam Bianca Bulgaru,Eleni Christofi,7-5 0-6 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,R32,285,584,1,6,Q,Miriam Bianca Bulgaru,Lia Karatancheva,6-2 7-5,,,,,,,,,,,,,,
+14-Nov-2022,W25 Heraklion,3,Clay,F,281,295,0,4,5,Lina Gjorcheska,Miriam Bianca Bulgaru,6-3 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Heraklion,3,Clay,SF,281,532,1,4,,Miriam Bianca Bulgaru,Julia Terziyska,5-2 RET,,,,,,,,,,,,,,
+14-Nov-2022,W25 Heraklion,3,Clay,QF,281,650,1,4,SE,Miriam Bianca Bulgaru,Michaela Laki,7-6(4) 7-6(2),,,,,,,,,,,,,,
+14-Nov-2022,W25 Heraklion,3,Clay,R16,281,560,1,4,,Miriam Bianca Bulgaru,Denislava Glushkova,6-0 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W25 Heraklion,3,Clay,R32,281,826,1,4,Q,Miriam Bianca Bulgaru,Simona Ogescu,6-4 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W25 Trnava,3,Hard,QF,288,276,0,,7,Jana Fett,Miriam Bianca Bulgaru,W/O,,,,,,,,,,,,,,
+31-Oct-2022,W25 Trnava,3,Hard,R16,288,397,1,,,Miriam Bianca Bulgaru,Conny Perrin,4-6 6-3 6-2,,,,,,,,,,,,,,
+31-Oct-2022,W25 Trnava,3,Hard,R32,288,,1,,WC,Miriam Bianca Bulgaru,Yelyzaveta Kotliar,6-3 6-4,,,,,,,,,,,,,,
 17-Oct-2022,W25 Sozopol,3,Hard,R16,296,438,0,4,,Ye Xin Ma,Miriam Bianca Bulgaru,6-4 7-6(6),,,,,,,,,,,,,,
 17-Oct-2022,W25 Sozopol,3,Hard,R32,296,564,1,4,,Miriam Bianca Bulgaru,Ayla Aksu,6-3 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W25 Sozopol,3,Hard,QF,300,292,0,5,4,Kristina Dmitruk,Miriam Bianca Bulgaru,2-6 6-1 6-2,,,,,,,,,,,,,,
@@ -64,7 +164,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jan-2022,W25 Monastir,3,Hard,Q2,406,507,1,3,,Miriam Bianca Bulgaru,Haruna Arakawa,4-6 6-4 10-6,,,,,,,,,,,,,,
 10-Jan-2022,W25 Monastir,3,Hard,R16,409,220,0,,1,Isabella Shinikova,Miriam Bianca Bulgaru,6-3 6-3,,,,,,,,,,,,,,
 10-Jan-2022,W25 Monastir,3,Hard,R32,409,377,1,,,Miriam Bianca Bulgaru,Andreea Amalia Rosca,6-3 6-7(2) 6-4,,,,,,,,,,,,,,
-29-Nov-2021,W15 Lousada,3,Hard,R16,407,,0,2,,Tatiana Barkova,Miriam Bianca Bulgaru,6-4 7-5,,,,,,,,,,,,,,
+29-Nov-2021,W15 Lousada,3,Hard,R16,407,,0,2,,Tatiana Prozorova,Miriam Bianca Bulgaru,6-4 7-5,,,,,,,,,,,,,,
 29-Nov-2021,W15 Lousada,3,Hard,R32,407,822,1,2,,Miriam Bianca Bulgaru,Matilde Jorge,5-7 7-6(5) 6-2,,,,,,,,,,,,,,
 22-Nov-2021,W15 Lousada,3,Hard,R32,405,1136,0,2,,Amandine Monnot,Miriam Bianca Bulgaru,6-2 6-1,,,,,,,,,,,,,,
 15-Nov-2021,W25 Funchal,3,Hard,Q2,405,689,0,2,13,Yeon Woo Ku,Miriam Bianca Bulgaru,6-1 6-4,,,,,,,,,,,,,,

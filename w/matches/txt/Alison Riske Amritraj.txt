@@ -1,52 +1,64 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+3-Jul-2023,Wimbledon,5,Grass,R128,141,35,0,,,Paula Badosa,Alison Riske Amritraj,6-3 6-3,0.71,5.9%,2.0%,68.6%,62.9%,37.5%,33.3% (2/6),43.3%,32.1%,11.3%,8.0%,53.6%,25.0% (1/4),1:09
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,137,14,0,,1,Veronika Kudermetova,Alison Riske Amritraj,6-3 3-0 RET,0.49,0.0%,5.4%,64.9%,50.0%,38.5%,63.6% (7/11),37.3%,26.7%,16.7%,11.1%,50.0%,100.0% (1/1),0:52
+5-Jun-2023,W100 Surbiton,3,Grass,R32,85,126,0,2,,Viktorija Golubic,Alison Riske Amritraj,6-7(4) 6-2 6-4,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,85,143,0,,Q,Mirra Andreeva,Alison Riske Amritraj,6-2 6-1,0.38,2.8%,2.8%,69.4%,36.0%,36.4%,16.7% (1/6),29.9%,24.4%,2.4%,34.8%,11.1%,25.0% (1/4),0:57
+6-Mar-2023,Indian Wells,3,Hard,R128,58,155,0,,WC,Elizabeth Mandlik,Alison Riske Amritraj,6-3 5-7 7-6(1),0.94,2.1%,4.1%,61.9%,63.3%,48.6%,28.6% (2/7),48.1%,39.8%,7.1%,22.6%,60.8%,55.6% (5/9),2:26
+27-Feb-2023,Austin,3,Hard,R32,58,92,0,,,Katie Volynets,Alison Riske Amritraj,6-3 3-6 6-0,0.79,1.4%,11.4%,65.7%,56.5%,37.5%,40.0% (4/10),44.8%,39.7%,2.7%,38.5%,42.9%,75.0% (3/4),1:51
+20-Feb-2023,Merida,3,Hard,R32,58,62,0,8,,Xiyu Wang,Alison Riske Amritraj,7-5 4-6 7-6(1),0.90,0.0%,4.0%,54.4%,67.6%,43.9%,66.7% (10/15),48.1%,38.8%,4.3%,34.2%,46.5%,45.5% (5/11),3:22
+16-Jan-2023,Australian Open,5,Hard,R128,49,86,0,,,Marketa Vondrousova,Alison Riske Amritraj,5-7 6-1 6-4,0.77,0.0%,8.3%,72.6%,54.1%,34.8%,20.0% (2/10),44.3%,39.2%,5.4%,41.3%,35.7%,71.4% (5/7),1:59
+9-Jan-2023,Adelaide 2,3,Hard,R32,41,21,0,LL,,Barbora Krejcikova,Alison Riske Amritraj,6-2 7-6(3),0.76,2.5%,2.5%,67.5%,66.7%,34.6%,66.7% (6/9),45.4%,33.3%,4.2%,28.6%,40.0%,20.0% (1/5),2:03
+9-Jan-2023,Adelaide 2,3,Hard,Q2,41,64,0,8,,Anna Kalinskaya,Alison Riske Amritraj,6-3 7-5,0.74,7.4%,2.9%,69.1%,57.4%,47.6%,42.9% (3/7),43.9%,33.8%,1.4%,31.5%,41.2%,22.2% (2/9),1:38
+9-Jan-2023,Adelaide 2,3,Hard,Q1,41,489,1,8,WC,Alison Riske Amritraj,Alana Parnaby,6-3 6-1,1.76,2.1%,8.5%,61.7%,79.3%,50.0%,80.0% (4/5),62.5%,56.1%,2.4%,39.1%,77.8%,83.3% (5/6),1:03
+2-Jan-2023,Adelaide 1,3,Hard,Q1,41,76,0,2,,Viktorija Golubic,Alison Riske Amritraj,6-2 6-4,0.52,0.0%,5.1%,57.6%,61.8%,40.0%,60.0% (6/10),40.4%,24.4%,0.0%,32.1%,11.8%,100.0% (1/1),1:21
 10-Oct-2022,San Diego,3,Hard,R32,30,196,0,,Q,Louisa Chirico,Alison Riske Amritraj,1-6 7-5 7-6(5),1.03,3.4%,5.0%,79.0%,57.4%,56.0%,58.3% (7/12),50.6%,44.1%,1.7%,40.3%,51.2%,35.3% (6/17),2:53
 19-Sep-2022,Tokyo,3,Hard,R32,26,84,0,7,,Claire Liu,Alison Riske Amritraj,6-2 6-3,0.64,3.6%,1.8%,66.1%,48.6%,36.8%,54.5% (6/11),40.2%,35.3%,11.8%,27.3%,50.0%,100.0% (2/2),1:20
 12-Sep-2022,Chennai,3,Hard,R32,23,147,0,1,,Anastasia Gasanova,Alison Riske Amritraj,6-2 6-3,0.74,3.3%,9.8%,67.2%,48.8%,30.0%,45.5% (5/11),42.6%,42.6%,1.9%,32.4%,60.0%,100.0% (3/3),1:29
 29-Aug-2022,US Open,5,Hard,R16,29,17,0,29,17,Caroline Garcia,Alison Riske Amritraj,6-4 6-1,0.81,0.0%,4.3%,65.2%,63.3%,43.8%,25.0% (1/4),43.6%,35.2%,11.3%,25.0%,51.9%,0.0% (0/4),1:22
 29-Aug-2022,US Open,5,Hard,R32,29,75,1,29,,Alison Riske Amritraj,Xiyu Wang,6-4 3-6 6-4,1.01,1.1%,5.4%,67.7%,58.7%,53.3%,50.0% (5/10),50.6%,43.4%,3.6%,39.3%,51.9%,60.0% (6/10),2:21
 29-Aug-2022,US Open,5,Hard,R64,29,70,1,29,,Alison Riske Amritraj,Camila Osorio,6-4 6-7(5) 7-6(5),1.12,3.3%,5.0%,65.0%,69.2%,47.6%,50.0% (4/8),51.5%,42.9%,2.1%,42.7%,43.2%,33.3% (5/15),3:10
-29-Aug-2022,US Open,5,Hard,R128,29,763,1,29,,Alison Riske Amritraj,Eleana Yu,6-2 6-4 (ch),2.00,0.0%,4.3%,72.3%,82.4%,69.2%,- (0/0),58.3%,42.6%,3.3%,40.9%,47.1%,50.0% (3/6),1:23
+29-Aug-2022,US Open,5,Hard,R128,29,763,1,29,,Alison Riske Amritraj,Eleana Yu,6-2 6-4,2.00,0.0%,4.3%,72.3%,82.4%,69.2%,- (0/0),58.3%,42.6%,3.3%,40.9%,47.1%,50.0% (3/6),1:23
 15-Aug-2022,Cincinnati,3,Hard,R16,29,25,0,,,Elena Rybakina,Alison Riske Amritraj,6-2 6-4,0.48,1.3%,2.7%,70.7%,56.6%,36.4%,69.2% (9/13),40.5%,23.9%,19.6%,12.1%,53.8%,100.0% (1/1),1:28
 15-Aug-2022,Cincinnati,3,Hard,R32,29,46,1,,Q,Alison Riske Amritraj,Marie Bouzkova,W/O,,,,,,,,,,,,,,
 15-Aug-2022,Cincinnati,3,Hard,R64,29,48,1,,,Alison Riske Amritraj,Sara Sorribes Tormo,6-1 7-6(2),1.29,0.0%,5.3%,76.3%,69.0%,33.3%,71.4% (5/7),55.9%,50.7%,3.0%,47.2%,64.3%,40.0% (4/10),2:02
 8-Aug-2022,Toronto,3,Hard,R16,35,46,0,,,Yulia Putintseva,Alison Riske Amritraj,6-3 7-5,0.85,3.4%,5.1%,71.2%,47.6%,41.2%,25.0% (2/8),45.8%,45.9%,0.0%,42.9%,54.5%,40.0% (4/10),1:37
 8-Aug-2022,Toronto,3,Hard,R32,35,16,1,,16,Alison Riske Amritraj,Jelena Ostapenko,7-6(2) 0-6 7-5,1.08,3.2%,1.1%,63.2%,56.7%,57.1%,45.5% (5/11),51.2%,46.4%,2.7%,39.1%,56.3%,40.0% (4/10),2:21
 8-Aug-2022,Toronto,3,Hard,R64,35,23,1,,,Alison Riske Amritraj,Petra Kvitova,6-2 4-6 6-3,1.33,1.4%,4.3%,62.9%,65.9%,50.0%,20.0% (1/5),56.2%,53.0%,7.2%,37.5%,74.3%,53.8% (7/13),1:56
-1-Aug-2022,San Jose,3,Hard,R32,33,240,0,,Q,Elizabeth Mandlik,Alison Riske Amritraj,6-3 6-3 (ch),0.78,3.0%,1.5%,79.1%,49.1%,57.1%,64.3% (9/14),45.1%,38.2%,7.3%,31.4%,50.0%,66.7% (2/3),1:21
+1-Aug-2022,San Jose,3,Hard,R32,33,240,0,,Q,Elizabeth Mandlik,Alison Riske Amritraj,6-3 6-3,0.78,3.0%,1.5%,79.1%,49.1%,57.1%,64.3% (9/14),45.1%,38.2%,7.3%,31.4%,50.0%,66.7% (2/3),1:21
 27-Jun-2022,Wimbledon,5,Grass,R32,36,66,0,28,,Marie Bouzkova,Alison Riske Amritraj,6-2 6-3,0.67,0.0%,3.8%,57.7%,60.0%,40.9%,57.1% (4/7),41.4%,32.2%,1.7%,32.4%,31.8%,0.0% (0/4),1:27
 27-Jun-2022,Wimbledon,5,Grass,R64,36,170,1,28,,Alison Riske Amritraj,Maja Chwalinska,3-6 6-1 6-0,1.48,4.4%,0.0%,60.3%,65.9%,66.7%,75.0% (6/8),57.2%,50.0%,0.0%,42.6%,63.3%,46.2% (6/13),2:02
 27-Jun-2022,Wimbledon,5,Grass,R128,36,113,1,28,,Alison Riske Amritraj,Ylena In Albon,6-2 6-4,1.78,4.3%,0.0%,68.1%,68.8%,73.3%,0.0% (0/1),61.2%,52.9%,0.0%,51.4%,57.1%,57.1% (4/7),1:06
 20-Jun-2022,Eastbourne,3,Grass,R32,35,66,0,17,,Magda Linette,Alison Riske Amritraj,6-7(3) 6-3 7-6(4),1.07,4.6%,3.7%,72.2%,71.8%,36.7%,33.3% (2/6),50.0%,40.7%,7.9%,29.6%,55.9%,15.4% (2/13),3:09
 13-Jun-2022,Birmingham,3,Grass,R32,35,141,0,7,WC,Katie Boulter,Alison Riske Amritraj,6-4 6-3,0.73,3.7%,5.6%,64.8%,68.6%,47.4%,40.0% (2/5),44.5%,28.6%,8.9%,23.3%,34.6%,0.0% (0/3),1:19
-6-Jun-2022,Nottingham,3,Grass,F,40,48,0,6,7,Beatriz Haddad Maia,Alison Riske Amritraj,6-4 1-6 6-3 (ch),0.93,5.4%,3.3%,68.5%,68.3%,44.8%,81.3% (13/16),48.9%,36.4%,2.3%,27.3%,51.5%,33.3% (3/9),2:18
+6-Jun-2022,Nottingham,3,Grass,F,40,48,0,6,7,Beatriz Haddad Maia,Alison Riske Amritraj,6-4 1-6 6-3,0.93,5.4%,3.3%,68.5%,68.3%,44.8%,81.3% (13/16),48.9%,36.4%,2.3%,27.3%,51.5%,33.3% (3/9),2:18
 6-Jun-2022,Nottingham,3,Grass,SF,40,55,1,6,,Alison Riske Amritraj,Viktorija Golubic,6-3 4-6 6-3,1.08,2.8%,3.8%,71.7%,59.2%,50.0%,64.3% (9/14),52.4%,46.9%,0.0%,34.5%,73.1%,58.3% (7/12),2:23
 6-Jun-2022,Nottingham,3,Grass,QF,40,114,1,6,,Alison Riske Amritraj,Harriet Dart,4-6 6-2 6-1,1.23,0.0%,7.8%,66.7%,66.7%,43.3%,62.5% (5/8),54.6%,50.5%,2.2%,44.4%,56.3%,43.8% (7/16),2:26
 6-Jun-2022,Nottingham,3,Grass,R16,40,75,1,6,,Alison Riske Amritraj,Caroline Garcia,6-4 7-5,1.47,6.8%,0.0%,69.5%,70.7%,66.7%,33.3% (1/3),55.5%,44.9%,11.5%,39.3%,59.1%,26.7% (4/15),1:36
 6-Jun-2022,Nottingham,3,Grass,R32,40,130,1,6,Q,Alison Riske Amritraj,Daria Snigur,7-5 6-3,1.32,2.9%,1.5%,63.2%,72.1%,52.0%,50.0% (2/4),56.3%,46.7%,1.7%,40.0%,66.7%,36.4% (4/11),1:26
-23-May-2022,Roland Garros,5,Clay,R64,43,1,0,,1,Iga Swiatek,Alison Riske Amritraj,6-0 6-2,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
-23-May-2022,Roland Garros,5,Clay,R128,43,82,1,,,Alison Riske Amritraj,Dayana Yastremska,6-3 6-3,,,,,,,,,,,,,,
-28-Apr-2022,Madrid,3,Clay,R64,42,111,0,,,Bianca Andreescu,Alison Riske Amritraj,6-4 3-6 6-0 (ch),0.87,1.3%,5.1%,72.2%,54.4%,45.5%,45.5% (5/11),46.8%,41.8%,1.3%,43.5%,39.4%,37.5% (3/8),1:56
-15-Apr-2022,BJK Cup QLS R1: USA vs UKR,3,Hard,RR,43,93,1,,,Alison Riske Amritraj,Dayana Yastremska,7-6(16) 7-5 (ch),1.09,1.1%,3.3%,66.7%,66.7%,53.3%,57.1% (4/7),51.4%,41.1%,6.3%,33.3%,51.2%,50.0% (4/8),2:19
-4-Apr-2022,Charleston,3,Clay,R32,43,5,0,,1,Aryna Sabalenka,Alison Riske Amritraj,7-6(3) 6-4 (ch),0.84,1.3%,4.0%,65.3%,57.1%,46.2%,25.0% (1/4),45.9%,39.0%,8.5%,25.0%,58.8%,22.2% (2/9),1:49
+23-May-2022,Roland Garros,5,Clay,R64,43,1,0,,1,Iga Swiatek,Alison Riske Amritraj,6-0 6-2,0.43,4.1%,4.1%,67.3%,39.4%,43.8%,44.4% (4/9),34.1%,25.6%,2.6%,15.4%,46.2%,- (0/0),
+23-May-2022,Roland Garros,5,Clay,R128,43,82,1,,,Alison Riske Amritraj,Dayana Yastremska,6-3 6-3,1.30,0.0%,1.7%,70.7%,61.0%,64.7%,60.0% (3/5),55.5%,49.2%,1.6%,45.7%,53.8%,45.5% (5/11),
+28-Apr-2022,Madrid,3,Clay,R64,42,111,0,,,Bianca Andreescu,Alison Riske Amritraj,6-4 3-6 6-0,0.87,1.3%,5.1%,72.2%,54.4%,45.5%,45.5% (5/11),46.8%,41.8%,1.3%,43.5%,39.4%,37.5% (3/8),1:56
+15-Apr-2022,BJK Cup QLS R1: USA vs UKR,3,Hard,RR,43,93,1,,,Alison Riske Amritraj,Dayana Yastremska,7-6(16) 7-5,1.09,1.1%,3.3%,66.7%,66.7%,53.3%,57.1% (4/7),51.4%,41.1%,6.3%,33.3%,51.2%,50.0% (4/8),2:19
+4-Apr-2022,Charleston,3,Clay,R32,43,5,0,,1,Aryna Sabalenka,Alison Riske Amritraj,7-6(3) 6-4,0.84,1.3%,4.0%,65.3%,57.1%,46.2%,25.0% (1/4),45.9%,39.0%,8.5%,25.0%,58.8%,22.2% (2/9),1:49
 4-Apr-2022,Charleston,3,Clay,R64,43,164,1,,WC,Alison Riske Amritraj,Caty Mcnally,7-5 6-3,1.27,1.6%,6.6%,67.2%,65.9%,50.0%,33.3% (1/3),55.0%,50.0%,1.4%,41.0%,61.3%,50.0% (5/10),1:37
 21-Mar-2022,Miami,3,Hard,R16,50,77,0,,,Naomi Osaka,Alison Riske Amritraj,6-3 6-4,0.82,11.3%,4.2%,67.6%,58.3%,47.8%,75.0% (9/12),45.8%,37.0%,9.6%,29.5%,48.3%,12.5% (1/8),1:32
 21-Mar-2022,Miami,3,Hard,R32,50,65,1,,,Alison Riske Amritraj,Ann Li,6-2 3-6 6-3,1.12,1.2%,1.2%,70.6%,58.3%,48.0%,44.4% (4/9),52.6%,50.0%,0.0%,50.0%,50.0%,41.2% (7/17),2:09
 21-Mar-2022,Miami,3,Hard,R64,50,36,1,,31,Alison Riske Amritraj,Alize Cornet,6-2 6-2,1.39,0.0%,1.7%,65.0%,61.5%,66.7%,100.0% (5/5),57.9%,51.1%,4.3%,45.8%,56.5%,50.0% (4/8),1:26
 21-Mar-2022,Miami,3,Hard,R128,50,37,1,,,Alison Riske Amritraj,Jil Teichmann,7-6(5) 6-3,1.26,2.7%,4.0%,66.7%,72.0%,52.0%,71.4% (5/7),55.4%,43.8%,3.1%,33.3%,63.6%,60.0% (3/5),1:50
 7-Mar-2022,Indian Wells,3,Hard,R32,53,29,0,,25,Madison Keys,Alison Riske Amritraj,7-6(4) 6-1,0.64,1.6%,7.8%,62.5%,55.0%,33.3%,0.0% (0/5),40.8%,33.9%,5.4%,22.5%,62.5%,66.7% (2/3),1:21
-7-Mar-2022,Indian Wells,3,Hard,R64,53,9,1,,8,Alison Riske Amritraj,Garbine Muguruza,0-6 6-3 6-1 (ch),1.27,1.8%,5.3%,59.6%,67.6%,43.5%,16.7% (1/6),55.5%,53.5%,4.2%,46.5%,64.3%,66.7% (6/9),1:33
+7-Mar-2022,Indian Wells,3,Hard,R64,53,9,1,,8,Alison Riske Amritraj,Garbine Muguruza,0-6 6-3 6-1,1.27,1.8%,5.3%,59.6%,67.6%,43.5%,16.7% (1/6),55.5%,53.5%,4.2%,46.5%,64.3%,66.7% (6/9),1:33
 7-Mar-2022,Indian Wells,3,Hard,R128,53,172,1,,Q,Alison Riske Amritraj,Caty Mcnally,6-0 6-3,1.57,3.5%,5.3%,59.6%,67.6%,60.9%,87.5% (7/8),60.0%,55.2%,0.0%,48.8%,70.6%,50.0% (5/10),1:20
 21-Feb-2022,Doha,3,Hard,R64,52,67,0,,,Magda Linette,Alison Riske Amritraj,2-6 7-6(5) 6-1,1.04,4.7%,0.0%,65.9%,53.6%,62.1%,25.0% (2/8),50.6%,45.1%,0.0%,42.6%,52.2%,41.7% (5/12),2:10
-14-Feb-2022,Dubai,3,Hard,R32,53,23,0,WC,,Simona Halep,Alison Riske Amritraj,6-2 6-4 (ch),0.55,1.8%,7.1%,67.9%,73.7%,22.2%,72.7% (8/11),41.1%,23.5%,11.8%,20.5%,33.3%,0.0% (0/2),1:11
+14-Feb-2022,Dubai,3,Hard,R32,53,23,0,WC,,Simona Halep,Alison Riske Amritraj,6-2 6-4,0.55,1.8%,7.1%,67.9%,73.7%,22.2%,72.7% (8/11),41.1%,23.5%,11.8%,20.5%,33.3%,0.0% (0/2),1:11
 17-Jan-2022,Australian Open,5,Hard,R64,46,27,0,,26,Jelena Ostapenko,Alison Riske Amritraj,4-6 6-2 6-4,0.90,6.3%,3.8%,67.5%,66.7%,34.6%,44.4% (4/9),47.1%,39.4%,3.2%,34.5%,47.2%,27.3% (3/11),1:55
 17-Jan-2022,Australian Open,5,Hard,R128,46,79,1,,,Alison Riske Amritraj,Donna Vekic,6-2 6-2,2.74,15.4%,0.0%,64.1%,84.0%,78.6%,- (0/0),61.8%,49.2%,4.8%,35.7%,60.0%,36.4% (4/11),1:11
-10-Jan-2022,Adelaide 2,3,Hard,F,57,87,0,,,Madison Keys,Alison Riske Amritraj,6-1 6-2 (ch),0.32,9.1%,14.5%,60.0%,60.6%,36.4%,33.3% (2/6),36.6%,15.8%,10.5%,9.1%,25.0%,- (0/0),1:06
+10-Jan-2022,Adelaide 2,3,Hard,F,57,87,0,,,Madison Keys,Alison Riske Amritraj,6-1 6-2,0.32,9.1%,14.5%,60.0%,60.6%,36.4%,33.3% (2/6),36.6%,15.8%,10.5%,9.1%,25.0%,- (0/0),1:06
 10-Jan-2022,Adelaide 2,3,Hard,SF,57,31,1,,4,Alison Riske Amritraj,Tamara Zidansek,W/O,,,,,,,,,,,,,,
 10-Jan-2022,Adelaide 2,3,Hard,QF,57,59,1,,,Alison Riske Amritraj,Madison Brengle,3-3 RET,1.74,0.0%,10.5%,57.9%,72.7%,50.0%,0.0% (0/2),63.6%,64.1%,5.1%,45.5%,88.2%,83.3% (5/6),0:27
 10-Jan-2022,Adelaide 2,3,Hard,R16,57,51,1,,,Alison Riske Amritraj,Anhelina Kalinina,6-1 6-3,1.48,7.4%,5.6%,44.4%,79.2%,60.0%,100.0% (2/2),58.8%,46.5%,0.0%,40.0%,55.6%,66.7% (4/6),1:11
 10-Jan-2022,Adelaide 2,3,Hard,R32,57,55,1,,,Alison Riske Amritraj,Magda Linette,6-4 6-4,1.02,2.8%,3.7%,69.4%,65.3%,54.5%,70.0% (7/10),50.5%,38.9%,7.4%,32.9%,53.1%,30.8% (4/13),1:36
 3-Jan-2022,Melbourne 1,3,Hard,R32,51,81,0,9,,Vera Zvonareva,Alison Riske Amritraj,7-5 6-3,0.71,5.1%,1.3%,74.7%,57.6%,50.0%,66.7% (6/9),44.3%,31.4%,0.0%,29.4%,36.8%,25.0% (1/4),1:44
-8-Nov-2021,Linz,3,Hard,F,73,100,1,8,LL,Alison Riske Amritraj,Jaqueline Cristian,2-6 6-2 7-5 (ch),1.06,7.4%,2.1%,68.1%,56.3%,53.3%,16.7% (1/6),51.3%,47.3%,4.3%,50.0%,43.2%,37.5% (6/16),2:24
+8-Nov-2021,Linz,3,Hard,F,73,100,1,8,LL,Alison Riske Amritraj,Jaqueline Cristian,2-6 6-2 7-5,1.06,7.4%,2.1%,68.1%,56.3%,53.3%,16.7% (1/6),51.3%,47.3%,4.3%,50.0%,43.2%,37.5% (6/16),2:24
 8-Nov-2021,Linz,3,Hard,SF,73,29,1,8,3,Alison Riske Amritraj,Danielle Collins,7-5 RET,1.56,9.7%,3.2%,77.4%,75.0%,57.1%,0.0% (0/1),56.2%,45.2%,2.4%,50.0%,38.9%,50.0% (2/4),0:51
 8-Nov-2021,Linz,3,Hard,QF,73,106,1,8,Q,Alison Riske Amritraj,Xin Yu Wang,6-3 7-5,1.39,7.4%,2.9%,73.5%,74.0%,50.0%,60.0% (3/5),57.1%,44.8%,8.6%,37.1%,56.5%,80.0% (4/5),1:28
 8-Nov-2021,Linz,3,Hard,R16,73,59,1,8,,Alison Riske Amritraj,Alize Cornet,6-4 6-4,1.10,2.6%,2.6%,70.5%,60.0%,47.8%,66.7% (6/9),52.4%,47.8%,1.4%,47.5%,48.3%,45.5% (5/11),1:53
@@ -54,14 +66,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2021,Courmayeur,3,Hard,R16,50,114,0,6,,Anna Kalinskaya,Alison Riske Amritraj,6-3 0-6 6-3,1.03,11.4%,0.0%,67.1%,59.6%,56.5%,50.0% (4/8),50.3%,42.9%,1.3%,35.6%,53.1%,44.4% (4/9),1:45
 25-Oct-2021,Courmayeur,3,Hard,R32,50,195,1,6,LL,Alison Riske Amritraj,Ankita Raina,6-1 6-1,2.58,0.0%,2.7%,67.6%,84.0%,66.7%,100.0% (1/1),66.3%,55.8%,0.0%,57.1%,53.3%,50.0% (5/10),1:01
 18-Oct-2021,Tenerife,3,Hard,R32,49,101,0,8,Q,Donna Vekic,Alison Riske Amritraj,6-1 6-4,0.62,2.3%,0.0%,65.1%,60.7%,40.0%,0.0% (0/4),40.0%,28.8%,11.5%,19.4%,42.9%,100.0% (1/1),1:13
-6-Oct-2021,Indian Wells,3,Hard,R64,51,21,0,,16,Bianca Andreescu,Alison Riske Amritraj,7-6(2) 5-7 6-2 (ch),0.69,0.0%,5.1%,66.7%,59.8%,41.3%,70.6% (12/17),45.5%,32.1%,2.4%,26.5%,40.0%,80.0% (4/5),2:48
+6-Oct-2021,Indian Wells,3,Hard,R64,51,21,0,,16,Bianca Andreescu,Alison Riske Amritraj,7-6(2) 5-7 6-2,0.69,0.0%,5.1%,66.7%,59.8%,41.3%,70.6% (12/17),45.5%,32.1%,2.4%,26.5%,40.0%,80.0% (4/5),2:48
 6-Oct-2021,Indian Wells,3,Hard,R128,51,224,1,,Q,Alison Riske Amritraj,En Shuo Liang,6-2 6-2,1.58,4.3%,4.3%,54.3%,68.0%,47.6%,25.0% (1/4),62.4%,65.5%,0.0%,62.9%,70.0%,53.8% (7/13),1:13
 20-Sep-2021,Ostrava,3,Hard,R16,32,42,0,,,Jil Teichmann,Alison Riske Amritraj,6-3 1-6 6-4,,,,,,,,,,,,,,
 20-Sep-2021,Ostrava,3,Hard,R32,32,85,1,,Q,Alison Riske Amritraj,Fiona Ferro,6-4 1-6 6-4,0.91,1.3%,3.8%,75.6%,52.5%,42.1%,40.0% (4/10),47.5%,45.5%,2.0%,39.1%,57.1%,54.5% (6/11),2:15
-13-Sep-2021,Portoroz,3,Hard,F,38,87,0,3,,Jasmine Paolini,Alison Riske Amritraj,7-6(4) 6-2 (ch),0.81,3.1%,3.1%,57.8%,48.6%,33.3%,40.0% (4/10),44.7%,47.1%,0.0%,48.9%,42.9%,57.1% (4/7),1:45
+13-Sep-2021,Portoroz,3,Hard,F,38,87,0,3,,Jasmine Paolini,Alison Riske Amritraj,7-6(4) 6-2,0.81,3.1%,3.1%,57.8%,48.6%,33.3%,40.0% (4/10),44.7%,47.1%,0.0%,48.9%,42.9%,57.1% (4/7),1:45
 13-Sep-2021,Portoroz,3,Hard,SF,38,103,1,3,,Alison Riske Amritraj,Kaja Juvan,6-0 6-4,1.54,1.6%,6.5%,62.9%,71.8%,39.1%,71.4% (5/7),60.7%,62.2%,0.0%,65.5%,56.3%,66.7% (6/9),1:27
 13-Sep-2021,Portoroz,3,Hard,QF,38,68,1,3,,Alison Riske Amritraj,Kristina Mladenovic,6-4 6-1,1.37,3.8%,3.8%,71.7%,63.2%,46.7%,62.5% (5/8),57.7%,56.9%,0.0%,51.7%,63.6%,66.7% (6/9),1:30
-13-Sep-2021,Portoroz,3,Hard,R16,38,149,1,3,Q,Alison Riske Amritraj,Viktoria Kuzmova,3-6 6-3 6-3,1.21,4.7%,3.5%,61.6%,73.6%,45.5%,75.0% (9/12),52.8%,44.9%,4.7%,33.8%,61.9%,41.7% (5/12),2:17
+13-Sep-2021,Portoroz,3,Hard,R16,38,149,1,3,Q,Alison Riske Amritraj,Viktoria Hruncakova,3-6 6-3 6-3,1.21,4.7%,3.5%,61.6%,73.6%,45.5%,75.0% (9/12),52.8%,44.9%,4.7%,33.8%,61.9%,41.7% (5/12),2:17
 13-Sep-2021,Portoroz,3,Hard,R32,38,632,1,3,WC,Alison Riske Amritraj,Pia Lovric,7-5 6-3,1.50,7.5%,7.5%,71.7%,60.5%,66.7%,42.9% (3/7),59.0%,56.5%,2.9%,52.6%,61.3%,87.5% (7/8),1:39
 30-Aug-2021,US Open,5,Hard,R128,35,15,0,,14,Anastasia Pavlyuchenkova,Alison Riske Amritraj,6-4 6-2,0.67,3.8%,5.7%,64.2%,58.8%,36.8%,50.0% (4/8),42.2%,32.7%,12.2%,28.1%,41.2%,100.0% (1/1),1:18
 16-Aug-2021,Cincinnati,3,Hard,R32,39,13,0,,14,Victoria Azarenka,Alison Riske Amritraj,6-2 7-5,0.74,5.1%,5.1%,61.0%,52.8%,43.5%,50.0% (5/10),43.3%,37.7%,1.6%,28.6%,57.9%,50.0% (2/4),1:36
@@ -71,34 +83,34 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Aug-2021,San Jose,3,Hard,R32,37,162,1,9,,Alison Riske Amritraj,Coco Vandeweghe,6-3 6-4,1.27,3.3%,11.5%,70.5%,65.1%,44.4%,75.0% (9/12),55.7%,51.9%,7.4%,41.9%,65.2%,55.6% (5/9),1:28
 24-Jul-2021,Tokyo Olympics,3,Hard,R64,36,168,0,,,Mihaela Buzarnescu,Alison Riske Amritraj,6-7(0) 7-5 6-4,,,,,,,,,,,,,,
 28-Jun-2021,Wimbledon,5,Grass,R128,29,87,0,28,,Tereza Martincova,Alison Riske Amritraj,6-2 4-6 6-1,0.73,3.5%,5.9%,60.0%,54.9%,47.1%,68.8% (11/16),43.5%,35.3%,0.0%,32.8%,41.7%,25.0% (2/8),2:01
-21-Jun-2021,Eastbourne,3,Grass,R16,31,4,0,,1,Aryna Sabalenka,Alison Riske Amritraj,6-1 6-4 (ch),0.57,0.0%,6.3%,62.5%,50.0%,55.6%,25.0% (1/4),38.8%,27.3%,18.2%,14.8%,39.3%,0.0% (0/2),1:07
+21-Jun-2021,Eastbourne,3,Grass,R16,31,4,0,,1,Aryna Sabalenka,Alison Riske Amritraj,6-1 6-4,0.57,0.0%,6.3%,62.5%,50.0%,55.6%,25.0% (1/4),38.8%,27.3%,18.2%,14.8%,39.3%,0.0% (0/2),1:07
 21-Jun-2021,Eastbourne,3,Grass,R32,31,32,1,,,Alison Riske Amritraj,Veronika Kudermetova,6-3 6-4,1.17,4.4%,5.9%,67.6%,58.7%,50.0%,62.5% (5/8),53.7%,51.5%,6.1%,37.8%,81.0%,46.2% (6/13),1:25
 7-Jun-2021,Nottingham,3,Grass,R16,28,86,0,2,14,Lauren Davis,Alison Riske Amritraj,6-7(3) 6-4 6-4,0.96,4.2%,5.3%,69.5%,74.2%,58.6%,50.0% (2/4),49.0%,29.3%,0.0%,24.6%,35.7%,0.0% (0/5),2:35
 7-Jun-2021,Nottingham,3,Grass,R32,28,145,1,2,,Alison Riske Amritraj,Xiyu Wang,3-6 7-5 7-6(3),1.06,1.0%,7.0%,69.0%,71.0%,38.7%,44.4% (16/36),50.5%,41.4%,3.4%,36.3%,52.8%,33.3% (20/60),2:42
 10-May-2021,Rome,3,Clay,R64,27,15,0,,15,Iga Swiatek,Alison Riske Amritraj,5-4 RET,0.94,3.7%,14.8%,48.1%,53.8%,42.9%,33.3% (1/3),48.4%,48.6%,0.0%,38.1%,64.3%,50.0% (2/4),0:52
-29-Apr-2021,Madrid,3,Clay,R64,27,17,0,,14,Iga Swiatek,Alison Riske Amritraj,6-1 6-1 (ch),0.64,0.0%,8.0%,72.0%,52.8%,28.6%,64.3% (9/14),40.2%,34.6%,9.6%,25.8%,47.6%,0.0% (0/4),1:07
+29-Apr-2021,Madrid,3,Clay,R64,27,17,0,,14,Iga Swiatek,Alison Riske Amritraj,6-1 6-1,0.64,0.0%,8.0%,72.0%,52.8%,28.6%,64.3% (9/14),40.2%,34.6%,9.6%,25.8%,47.6%,0.0% (0/4),1:07
 8-Feb-2021,Australian Open,5,Hard,R128,26,101,0,24,,Anastasia Potapova,Alison Riske Amritraj,6-2 6-1,0.65,5.1%,12.8%,66.7%,50.0%,7.7%,25.0% (2/8),39.1%,41.7%,6.3%,28.0%,56.5%,100.0% (2/2),0:51
-28-Sep-2020,Roland Garros,5,Clay,R128,23,41,0,19,,Julia Goerges,Alison Riske Amritraj,6-3 6-7(4) 6-1 (ch),0.79,0.0%,8.5%,62.3%,53.0%,42.5%,55.0% (11/20),45.1%,40.4%,3.4%,38.0%,43.6%,40.0% (4/10),2:17
+28-Sep-2020,Roland Garros,5,Clay,R128,23,41,0,19,,Julia Goerges,Alison Riske Amritraj,6-3 6-7(4) 6-1,0.79,0.0%,8.5%,62.3%,53.0%,42.5%,55.0% (11/20),45.1%,40.4%,3.4%,38.0%,43.6%,40.0% (4/10),2:17
 14-Sep-2020,Rome,3,Clay,R64,23,107,0,13,Q,Aliona Bolsova,Alison Riske Amritraj,5-7 7-6(4) 6-3,0.95,4.8%,6.7%,58.7%,60.7%,44.2%,57.1% (8/14),48.3%,43.8%,0.8%,39.7%,50.0%,54.5% (6/11),2:52
 31-Aug-2020,US Open,5,Hard,R64,20,128,0,13,,Ann Li,Alison Riske Amritraj,6-0 6-3,0.67,4.4%,7.4%,72.1%,51.0%,26.3%,58.3% (7/12),41.4%,37.5%,4.2%,31.8%,42.3%,100.0% (1/1),1:15
 31-Aug-2020,US Open,5,Hard,R128,20,95,1,13,,Alison Riske Amritraj,Tatjana Maria,6-3 6-2,1.35,8.0%,16.0%,68.0%,76.5%,25.0%,71.4% (5/7),56.8%,54.1%,3.3%,43.3%,64.5%,66.7% (6/9),1:02
 24-Aug-2020,Cincinnati,3,Hard,R64,19,28,0,11,,Amanda Anisimova,Alison Riske Amritraj,6-3 6-3,0.69,1.7%,8.6%,56.9%,63.6%,28.0%,44.4% (4/9),42.7%,35.6%,2.2%,31.3%,46.2%,100.0% (2/2),1:10
 24-Feb-2020,Doha,3,Hard,R64,19,45,0,13,,Jennifer Brady,Alison Riske Amritraj,7-6(10) 1-6 7-6(3),1.06,3.1%,6.3%,70.3%,68.9%,47.4%,90.9% (10/11),51.6%,39.8%,4.2%,38.4%,42.2%,33.3% (3/9),2:47
 17-Feb-2020,Dubai,3,Hard,R32,18,45,0,,WC,Ons Jabeur,Alison Riske Amritraj,7-6(3) 1-6 6-3,0.99,1.0%,11.1%,59.6%,71.2%,50.0%,66.7% (4/6),50.0%,36.8%,5.3%,20.0%,52.0%,27.3% (3/11),2:12
-20-Jan-2020,Australian Open,5,Hard,R16,19,1,0,18,1,Ashleigh Barty,Alison Riske Amritraj,6-3 1-6 6-4 (ch),0.96,2.8%,2.8%,70.4%,60.0%,61.9%,33.3% (2/6),49.3%,38.0%,5.6%,19.6%,72.0%,80.0% (4/5),1:36
+20-Jan-2020,Australian Open,5,Hard,R16,19,1,0,18,1,Ashleigh Barty,Alison Riske Amritraj,6-3 1-6 6-4,0.96,2.8%,2.8%,70.4%,60.0%,61.9%,33.3% (2/6),49.3%,38.0%,5.6%,19.6%,72.0%,80.0% (4/5),1:36
 20-Jan-2020,Australian Open,5,Hard,R32,19,39,1,18,,Alison Riske Amritraj,Julia Goerges,1-6 7-6(4) 6-2,1.09,3.2%,10.6%,59.6%,71.4%,44.7%,42.9% (3/7),51.3%,42.9%,9.5%,35.2%,51.0%,30.0% (3/10),2:16
 20-Jan-2020,Australian Open,5,Hard,R64,19,71,1,18,,Alison Riske Amritraj,Lin Zhu,6-3 6-1,1.82,2.1%,2.1%,60.4%,69.0%,68.4%,66.7% (2/3),63.0%,56.8%,0.0%,51.6%,69.2%,62.5% (5/8),1:01
 20-Jan-2020,Australian Open,5,Hard,R128,19,51,1,18,,Alison Riske Amritraj,Yafan Wang,7-6(5) 2-6 6-3,1.02,4.7%,4.7%,68.9%,53.4%,51.5%,46.2% (6/13),50.4%,48.3%,0.8%,41.8%,56.9%,50.0% (6/12),3:00
 6-Jan-2020,Brisbane,3,Hard,QF,19,2,0,,2,Karolina Pliskova,Alison Riske Amritraj,7-6(6) 6-3,0.94,1.2%,13.6%,59.3%,62.5%,42.4%,58.3% (7/12),48.5%,42.9%,9.5%,38.8%,48.6%,30.0% (3/10),1:53
 6-Jan-2020,Brisbane,3,Hard,R16,19,31,1,,,Alison Riske Amritraj,Barbora Strycova,6-3 6-4,1.37,10.9%,4.3%,65.2%,70.0%,50.0%,0.0% (0/2),55.7%,50.7%,1.4%,45.5%,60.0%,71.4% (5/7),1:33
 6-Jan-2020,Brisbane,3,Hard,R32,19,21,1,,,Alison Riske Amritraj,Karolina Muchova,6-4 6-2,1.43,1.7%,5.2%,70.7%,73.2%,47.1%,83.3% (5/6),56.9%,49.2%,7.7%,43.5%,63.2%,33.3% (4/12),1:18
-22-Oct-2019,Zhuhai,3,Hard,RR,19,26,0,7,11,Karolina Muchova,Alison Riske Amritraj,2-6 6-2 7-5 (ch),0.93,4.0%,4.0%,76.0%,63.2%,27.8%,53.8% (7/13),47.9%,42.2%,8.9%,35.0%,56.7%,45.5% (5/11),1:58
+22-Oct-2019,Zhuhai,3,Hard,RR,19,26,0,7,11,Karolina Muchova,Alison Riske Amritraj,2-6 6-2 7-5,0.93,4.0%,4.0%,76.0%,63.2%,27.8%,53.8% (7/13),47.9%,42.2%,8.9%,35.0%,56.7%,45.5% (5/11),1:58
 22-Oct-2019,Zhuhai,3,Hard,RR,19,12,0,7,2,Sofia Kenin,Alison Riske Amritraj,6-4 6-4,0.60,12.7%,5.5%,72.7%,65.0%,53.3%,0.0% (0/2),43.0%,23.1%,7.7%,15.6%,35.0%,- (0/0),1:14
-30-Sep-2019,Beijing,3,Hard,R16,24,4,0,,4,Naomi Osaka,Alison Riske Amritraj,6-4 6-0 (ch),0.69,0.0%,8.9%,60.0%,51.9%,33.3%,37.5% (3/8),41.2%,38.6%,12.3%,32.4%,47.8%,100.0% (1/1),1:13
+30-Sep-2019,Beijing,3,Hard,R16,24,4,0,,4,Naomi Osaka,Alison Riske Amritraj,6-4 6-0,0.69,0.0%,8.9%,60.0%,51.9%,33.3%,37.5% (3/8),41.2%,38.6%,12.3%,32.4%,47.8%,100.0% (1/1),1:13
 30-Sep-2019,Beijing,3,Hard,R32,24,52,1,,,Alison Riske Amritraj,Ajla Tomljanovic,6-3 3-6 6-4,1.27,5.7%,4.5%,64.8%,70.2%,54.8%,50.0% (3/6),53.4%,44.8%,10.3%,29.2%,64.7%,22.2% (4/18),2:19
-23-Sep-2019,Wuhan,3,Hard,F,35,14,0,,9,Aryna Sabalenka,Alison Riske Amritraj,6-3 3-6 6-1 (ch),0.86,2.7%,5.5%,64.4%,57.4%,57.7%,60.0% (6/10),45.8%,36.6%,19.4%,20.8%,57.5%,40.0% (2/5),1:54
-23-Sep-2019,Wuhan,3,Hard,SF,35,7,1,,5,Alison Riske Amritraj,Petra Kvitova,7-5 7-5 (ch),1.09,2.5%,3.8%,53.2%,59.5%,62.2%,71.4% (5/7),51.2%,42.9%,9.9%,38.3%,51.6%,26.7% (4/15),2:05
-23-Sep-2019,Wuhan,3,Hard,QF,35,3,1,,3,Alison Riske Amritraj,Elina Svitolina,6-1 6-3 (ch),1.43,0.0%,3.6%,83.6%,63.0%,66.7%,80.0% (4/5),57.3%,52.2%,1.4%,46.2%,60.0%,38.5% (5/13),1:24
+23-Sep-2019,Wuhan,3,Hard,F,35,14,0,,9,Aryna Sabalenka,Alison Riske Amritraj,6-3 3-6 6-1,0.86,2.7%,5.5%,64.4%,57.4%,57.7%,60.0% (6/10),45.8%,36.6%,19.4%,20.8%,57.5%,40.0% (2/5),1:54
+23-Sep-2019,Wuhan,3,Hard,SF,35,7,1,,5,Alison Riske Amritraj,Petra Kvitova,7-5 7-5,1.09,2.5%,3.8%,53.2%,59.5%,62.2%,71.4% (5/7),51.2%,42.9%,9.9%,38.3%,51.6%,26.7% (4/15),2:05
+23-Sep-2019,Wuhan,3,Hard,QF,35,3,1,,3,Alison Riske Amritraj,Elina Svitolina,6-1 6-3,1.43,0.0%,3.6%,83.6%,63.0%,66.7%,80.0% (4/5),57.3%,52.2%,1.4%,46.2%,60.0%,38.5% (5/13),1:24
 23-Sep-2019,Wuhan,3,Hard,R16,35,16,1,,8,Alison Riske Amritraj,Qiang Wang,6-2 6-1,1.48,1.9%,0.0%,73.1%,63.2%,64.3%,0.0% (0/1),58.8%,54.0%,6.0%,61.8%,37.5%,41.7% (5/12),1:10
 23-Sep-2019,Wuhan,3,Hard,R32,35,71,1,,,Alison Riske Amritraj,Monica Puig,2-6 7-6(5) 6-3,1.05,6.7%,2.9%,68.6%,66.7%,45.5%,60.0% (6/10),51.5%,42.1%,4.2%,39.3%,46.2%,33.3% (3/9),2:30
 23-Sep-2019,Wuhan,3,Hard,R64,35,77,1,,Q,Alison Riske Amritraj,Kateryna Baindl,4-6 6-3 6-3,1.04,5.9%,7.9%,64.4%,66.2%,38.9%,69.2% (9/13),51.3%,45.3%,1.2%,40.4%,55.2%,60.0% (6/10),2:25
@@ -113,16 +125,16 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Aug-2019,Toronto ,3,Hard,Q2,37,115,1,2,23,Alison Riske Amritraj,Varvara Lepchenko,6-4 6-4,1.36,1.7%,3.4%,58.6%,67.6%,58.3%,33.3% (1/3),56.1%,49.2%,6.2%,45.2%,56.5%,40.0% (4/10),1:28
 5-Aug-2019,Toronto ,3,Hard,Q1,37,456,1,2,WC,Alison Riske Amritraj,Carol Zhao,6-2 6-1,1.71,7.3%,4.9%,65.9%,66.7%,50.0%,50.0% (2/4),64.0%,66.7%,0.0%,40.9%,91.3%,70.0% (7/10),0:57
 1-Jul-2019,Wimbledon,5,Grass,QF,55,10,0,,11,Serena Williams,Alison Riske Amritraj,6-4 4-6 6-3,0.91,1.1%,6.5%,62.4%,58.6%,48.6%,62.5% (10/16),48.1%,41.3%,20.7%,35.8%,48.7%,100.0% (5/5),2:01
-1-Jul-2019,Wimbledon,5,Grass,R16,55,1,1,,1,Alison Riske Amritraj,Ashleigh Barty,3-6 6-2 6-3 (ch),1.16,3.8%,0.0%,66.7%,65.4%,65.4%,60.0% (3/5),52.9%,40.3%,15.6%,17.9%,63.2%,100.0% (4/4),1:37
+1-Jul-2019,Wimbledon,5,Grass,R16,55,1,1,,1,Alison Riske Amritraj,Ashleigh Barty,3-6 6-2 6-3,1.16,3.8%,0.0%,66.7%,65.4%,65.4%,60.0% (3/5),52.9%,40.3%,15.6%,17.9%,63.2%,100.0% (4/4),1:37
 1-Jul-2019,Wimbledon,5,Grass,R32,55,13,1,,13,Alison Riske Amritraj,Belinda Bencic,4-6 6-4 6-4,1.01,3.2%,4.3%,76.6%,61.1%,63.6%,66.7% (6/9),49.7%,38.8%,3.9%,26.9%,61.1%,50.0% (4/8),2:09
-1-Jul-2019,Wimbledon,5,Grass,R64,55,99,1,,,Alison Riske Amritraj,Ivana Jorovic,6-2 6-7(3) 9-7 (ch),1.06,3.9%,9.4%,62.2%,65.8%,39.6%,63.6% (7/11),51.2%,46.6%,10.5%,33.8%,62.7%,53.8% (7/13),2:50
+1-Jul-2019,Wimbledon,5,Grass,R64,55,99,1,,,Alison Riske Amritraj,Ivana Jorovic,6-2 6-7(3) 9-7,1.06,3.9%,9.4%,62.2%,65.8%,39.6%,63.6% (7/11),51.2%,46.6%,10.5%,33.8%,62.7%,53.8% (7/13),2:50
 1-Jul-2019,Wimbledon,5,Grass,R128,55,22,1,,22,Alison Riske Amritraj,Donna Vekic,3-6 6-3 7-5,1.22,4.2%,3.2%,67.4%,65.6%,58.1%,40.0% (2/5),52.3%,45.0%,7.1%,36.4%,55.6%,22.2% (4/18),2:29
 17-Jun-2019,Mallorca,3,Grass,R32,49,132,0,,WC,Paula Badosa,Alison Riske Amritraj,6-7(2) 7-5 7-5,0.97,2.5%,6.6%,62.3%,59.2%,34.8%,25.0% (3/12),49.2%,48.3%,3.4%,36.2%,60.0%,41.2% (7/17),2:38
-10-Jun-2019,S-Hertogenbosch,3,Grass,F,61,4,1,,1,Alison Riske Amritraj,Kiki Bertens,0-6 7-6(3) 7-5 (ch),0.94,0.0%,2.1%,64.2%,59.0%,64.7%,58.3% (7/12),48.7%,36.5%,14.6%,26.7%,52.8%,50.0% (3/6),2:19
+10-Jun-2019,S-Hertogenbosch,3,Grass,F,61,4,1,,1,Alison Riske Amritraj,Kiki Bertens,0-6 7-6(3) 7-5,0.94,0.0%,2.1%,64.2%,59.0%,64.7%,58.3% (7/12),48.7%,36.5%,14.6%,26.7%,52.8%,50.0% (3/6),2:19
 10-Jun-2019,S-Hertogenbosch,3,Grass,SF,61,60,1,,,Alison Riske Amritraj,Veronika Kudermetova,6-4 3-6 7-6(5),1.10,2.5%,1.2%,72.8%,64.4%,45.5%,0.0% (0/6),51.1%,44.8%,9.5%,28.8%,71.8%,40.0% (6/15),2:09
 10-Jun-2019,S-Hertogenbosch,3,Grass,QF,61,52,1,,,Alison Riske Amritraj,Ekaterina Alexandrova,7-5 6-3,1.36,1.6%,1.6%,68.9%,71.4%,63.2%,0.0% (0/1),54.0%,42.3%,12.8%,34.6%,57.7%,33.3% (3/9),1:22
 10-Jun-2019,S-Hertogenbosch,3,Grass,R16,61,62,1,,,Alison Riske Amritraj,Polona Hercog,6-4 7-6(5),1.13,2.4%,3.7%,64.6%,67.9%,55.2%,71.4% (5/7),53.3%,41.4%,8.6%,22.9%,60.0%,75.0% (3/4),1:47
-10-Jun-2019,S-Hertogenbosch,3,Grass,R32,61,68,1,,,Alison Riske Amritraj,Karolina Muchova,6-7(4) 6-3 6-2 (ch),1.13,3.3%,6.5%,75.0%,75.4%,30.4%,66.7% (4/6),52.5%,40.4%,5.6%,32.7%,52.9%,54.5% (6/11),2:01
+10-Jun-2019,S-Hertogenbosch,3,Grass,R32,61,68,1,,,Alison Riske Amritraj,Karolina Muchova,6-7(4) 6-3 6-2,1.13,3.3%,6.5%,75.0%,75.4%,30.4%,66.7% (4/6),52.5%,40.4%,5.6%,32.7%,52.9%,54.5% (6/11),2:01
 3-Jun-2019,W100 Surbiton,3,Grass,F,62,74,1,,,Alison Riske Amritraj,Magdalena Rybarikova,6-7(5) 6-2 6-2,,,,,,,,,,,,,,
 3-Jun-2019,W100 Surbiton,3,Grass,SF,62,192,1,,,Alison Riske Amritraj,Caty Mcnally,6-0 6-4,,,,,,,,,,,,,,
 3-Jun-2019,W100 Surbiton,3,Grass,QF,62,262,1,,,Alison Riske Amritraj,Katy Dunne,6-7(7) 6-4 6-1,,,,,,,,,,,,,,
@@ -146,8 +158,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Feb-2019,Doha,3,Hard,Q3,52,108,0,2,,Lin Zhu,Alison Riske Amritraj,6-2 6-1,0.63,2.1%,4.3%,70.2%,36.4%,35.7%,33.3% (3/9),38.4%,40.4%,0.0%,34.2%,57.1%,40.0% (2/5),1:00
 11-Feb-2019,Doha,3,Hard,Q2,52,119,1,2,,Alison Riske Amritraj,Jennifer Brady,6-2 6-4,1.46,2.0%,3.9%,58.8%,76.7%,57.1%,75.0% (3/4),56.3%,45.9%,6.6%,29.7%,70.8%,50.0% (4/8),1:08
 11-Feb-2019,Doha,3,Hard,Q1,52,144,1,2,,Alison Riske Amritraj,Anna Kalinskaya,6-2 6-2,2.09,4.4%,8.9%,68.9%,83.9%,57.1%,100.0% (1/1),63.6%,51.2%,4.7%,39.1%,65.0%,80.0% (4/5),0:51
-14-Jan-2019,Australian Open,5,Hard,R128,56,9,0,,9,Kiki Bertens,Alison Riske Amritraj,6-3 6-3 (ch),0.67,0.0%,4.0%,72.0%,72.2%,35.7%,25.0% (1/4),43.6%,25.5%,19.6%,20.0%,33.3%,0.0% (0/1),1:06
-31-Dec-2018,Shenzhen,3,Hard,F,62,13,0,,1,Aryna Sabalenka,Alison Riske Amritraj,4-6 7-6(2) 6-3 (ch),0.83,4.6%,5.5%,62.4%,67.6%,48.8%,73.3% (11/15),48.2%,32.6%,7.0%,32.8%,32.0%,60.0% (3/5),2:09
+14-Jan-2019,Australian Open,5,Hard,R128,56,9,0,,9,Kiki Bertens,Alison Riske Amritraj,6-3 6-3,0.67,0.0%,4.0%,72.0%,72.2%,35.7%,25.0% (1/4),43.6%,25.5%,19.6%,20.0%,33.3%,0.0% (0/1),1:06
+31-Dec-2018,Shenzhen,3,Hard,F,62,13,0,,1,Aryna Sabalenka,Alison Riske Amritraj,4-6 7-6(2) 6-3,0.83,4.6%,5.5%,62.4%,67.6%,48.8%,73.3% (11/15),48.2%,32.6%,7.0%,32.8%,32.0%,60.0% (3/5),2:09
 31-Dec-2018,Shenzhen,3,Hard,SF,62,109,1,,WC,Alison Riske Amritraj,Vera Zvonareva,6-0 1-0 RET,2.58,4.8%,0.0%,61.9%,76.9%,75.0%,- (0/0),68.1%,61.5%,0.0%,55.6%,75.0%,42.9% (3/7),0:37
 31-Dec-2018,Shenzhen,3,Hard,QF,62,84,1,,,Alison Riske Amritraj,Sorana Cirstea,7-5 6-1,1.46,4.3%,8.5%,66.0%,67.7%,56.3%,0.0% (0/2),57.4%,52.9%,2.9%,43.2%,64.5%,60.0% (6/10),1:35
 31-Dec-2018,Shenzhen,3,Hard,R16,62,71,1,,,Alison Riske Amritraj,Evgeniya Rodina,4-6 6-2 6-3,1.11,3.3%,7.6%,68.5%,57.1%,48.3%,54.5% (6/11),52.7%,50.7%,2.7%,47.7%,55.2%,80.0% (8/10),1:46
@@ -181,8 +193,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jun-2018,Surbiton $100K,3,Grass,QF,83,127,1,2,,Alison Riske Amritraj,Kristie Ahn,6-0 6-4,,,,,,,,,,,,,,
 4-Jun-2018,Surbiton $100K,3,Grass,R16,83,212,1,2,,Alison Riske Amritraj,Katy Dunne,7-5 6-0,,,,,,,,,,,,,,
 4-Jun-2018,Surbiton $100K,3,Grass,R32,83,155,1,2,,Alison Riske Amritraj,Irina Falconi,7-5 6-1,,,,,,,,,,,,,,
-28-May-2018,Roland Garros,5,Clay,R128,83,1,0,,1,Simona Halep,Alison Riske Amritraj,2-6 6-1 6-1 (ch),0.72,1.5%,4.5%,60.6%,45.0%,34.6%,36.4% (4/11),41.6%,42.3%,0.0%,31.6%,54.5%,57.1% (4/7),1:34
-21-May-2018,Nurnberg,3,Clay,F,105,97,0,,,Johanna Larsson,Alison Riske Amritraj,7-6(4) 6-4 (ch),0.83,0.0%,3.6%,69.9%,62.1%,32.0%,50.0% (4/8),46.5%,39.2%,2.7%,33.3%,50.0%,60.0% (3/5),1:46
+28-May-2018,Roland Garros,5,Clay,R128,83,1,0,,1,Simona Halep,Alison Riske Amritraj,2-6 6-1 6-1,0.72,1.5%,4.5%,60.6%,45.0%,34.6%,36.4% (4/11),41.6%,42.3%,0.0%,31.6%,54.5%,57.1% (4/7),1:34
+21-May-2018,Nurnberg,3,Clay,F,105,97,0,,,Johanna Larsson,Alison Riske Amritraj,7-6(4) 6-4,0.83,0.0%,3.6%,69.9%,62.1%,32.0%,50.0% (4/8),46.5%,39.2%,2.7%,33.3%,50.0%,60.0% (3/5),1:46
 21-May-2018,Nurnberg,3,Clay,SF,105,69,1,,,Alison Riske Amritraj,Kirsten Flipkens,6-3 6-1,1.92,0.0%,0.0%,60.5%,80.8%,64.7%,- (0/0),60.4%,49.1%,3.8%,45.7%,55.6%,57.1% (4/7),1:02
 21-May-2018,Nurnberg,3,Clay,QF,105,45,1,,6,Alison Riske Amritraj,Sorana Cirstea,2-6 7-5 1-0 RET,0.95,2.5%,7.4%,65.4%,54.7%,35.7%,61.5% (8/13),48.8%,49.4%,3.8%,37.2%,63.9%,50.0% (5/10),1:58
 21-May-2018,Nurnberg,3,Clay,R16,105,93,1,,,Alison Riske Amritraj,Yulia Putintseva,3-6 6-4 6-4,0.96,2.5%,3.3%,68.6%,57.8%,42.1%,72.2% (13/18),49.8%,45.2%,1.2%,45.2%,45.5%,60.0% (6/10),2:41
@@ -207,7 +219,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Jan-2018,Shenzhen,3,Hard,R16,70,59,0,,,Maria Sharapova,Alison Riske Amritraj,4-6 6-3 6-2,0.89,1.0%,5.2%,64.9%,58.7%,47.1%,70.6% (12/17),47.6%,40.4%,11.7%,31.0%,55.6%,30.0% (3/10),2:22
 1-Jan-2018,Shenzhen,3,Hard,R32,70,45,1,,5,Alison Riske Amritraj,Qiang Wang,7-5 6-0,1.46,0.0%,5.6%,75.9%,63.4%,46.2%,71.4% (5/7),59.4%,59.6%,5.8%,60.6%,57.9%,85.7% (6/7),1:14
 9-Oct-2017,Tianjin,3,Hard,R32,56,169,0,8,,Yafan Wang,Alison Riske Amritraj,6-3 6-3,0.71,3.5%,5.3%,70.2%,52.5%,29.4%,37.5% (3/8),42.1%,38.6%,0.0%,32.4%,50.0%,40.0% (2/5),1:21
-2-Oct-2017,Beijing ,3,Hard,R64,53,2,0,,2,Simona Halep,Alison Riske Amritraj,6-3 3-6 6-2 (ch),0.84,1.3%,10.0%,57.5%,67.4%,32.4%,44.4% (4/9),45.7%,39.8%,3.2%,32.1%,50.0%,30.0% (3/10),2:12
+2-Oct-2017,Beijing,3,Hard,R64,53,2,0,,2,Simona Halep,Alison Riske Amritraj,6-3 3-6 6-2,0.84,1.3%,10.0%,57.5%,67.4%,32.4%,44.4% (4/9),45.7%,39.8%,3.2%,32.1%,50.0%,30.0% (3/10),2:12
 25-Sep-2017,Wuhan,3,Hard,R64,51,31,0,,,Daria Kasatkina,Alison Riske Amritraj,6-1 2-6 6-3,0.84,1.4%,8.6%,67.1%,53.2%,30.4%,12.5% (1/8),45.5%,45.3%,1.3%,36.0%,64.0%,62.5% (5/8),1:49
 18-Sep-2017,Guangzhou,3,Hard,R32,49,226,0,8,,Rebecca Peterson,Alison Riske Amritraj,6-3 6-2,0.66,1.7%,16.9%,57.6%,64.7%,28.0%,33.3% (2/6),41.4%,33.3%,7.0%,31.7%,37.5%,20.0% (1/5),1:29
 11-Sep-2017,Tokyo ,3,Hard,R16,50,67,0,7,,Aleksandra Krunic,Alison Riske Amritraj,6-3 6-4,0.77,3.1%,0.0%,64.6%,69.0%,34.8%,70.0% (7/10),45.3%,33.3%,7.9%,25.6%,45.8%,100.0% (1/1),1:27
@@ -270,7 +282,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Aug-2016,US Open,5,Hard,R128,60,9,0,,8,Madison Keys,Alison Riske Amritraj,4-6 7-6(5) 6-2,0.82,0.0%,4.1%,64.8%,60.8%,53.5%,75.0% (9/12),47.5%,34.3%,13.1%,30.0%,41.0%,22.2% (2/9),2:25
 22-Aug-2016,New Haven,3,Hard,Q1,59,69,0,,7,Varvara Lepchenko,Alison Riske Amritraj,6-2 6-3,0.65,0.0%,19.1%,55.3%,61.5%,23.8%,28.6% (2/7),40.2%,36.0%,8.0%,25.0%,50.0%,33.3% (2/6),1:05
 15-Aug-2016,Cincinnati,3,Hard,R32,70,10,0,Q,7,Svetlana Kuznetsova,Alison Riske Amritraj,3-6 6-3 6-1,0.87,2.6%,7.9%,73.7%,64.3%,30.0%,44.4% (4/9),46.8%,38.7%,6.3%,22.6%,70.4%,30.0% (3/10),1:44
-15-Aug-2016,Cincinnati,3,Hard,R64,70,360,1,Q,Q,Alison Riske Amritraj,Varvara Flink,6-4 7-6(6) (ch),1.01,1.1%,2.3%,73.6%,51.6%,60.9%,50.0% (4/8),50.6%,46.5%,7.0%,45.2%,48.3%,41.7% (5/12),2:01
+15-Aug-2016,Cincinnati,3,Hard,R64,70,360,1,Q,Q,Alison Riske Amritraj,Varvara Flink,6-4 7-6(6),1.01,1.1%,2.3%,73.6%,51.6%,60.9%,50.0% (4/8),50.6%,46.5%,7.0%,45.2%,48.3%,41.7% (5/12),2:01
 15-Aug-2016,Cincinnati,3,Hard,Q2,70,98,1,19,,Alison Riske Amritraj,Ana Konjuh,6-7(6) 6-2 6-2,1.33,2.0%,5.0%,68.0%,75.0%,56.3%,100.0% (5/5),55.3%,41.2%,8.2%,18.2%,71.4%,44.4% (4/9),2:37
 15-Aug-2016,Cincinnati,3,Hard,Q1,70,83,1,19,,Alison Riske Amritraj,Magda Linette,1-6 6-4 6-4,0.98,1.3%,7.6%,60.8%,66.7%,45.2%,37.5% (3/8),50.0%,40.8%,4.2%,38.8%,45.5%,80.0% (4/5),1:52
 18-Jul-2016,Stanford,3,Hard,SF,78,7,0,,1,Venus Williams,Alison Riske Amritraj,6-1 7-6(2),0.83,0.0%,8.2%,60.7%,56.8%,41.7%,20.0% (1/5),45.0%,40.9%,4.5%,35.2%,50.0%,18.2% (2/11),1:39
@@ -279,7 +291,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jul-2016,Stanford,3,Hard,R32,78,52,1,,8,Alison Riske Amritraj,Varvara Lepchenko,2-6 6-3 7-6(4),0.95,0.0%,10.1%,62.9%,66.1%,39.4%,33.3% (3/9),48.9%,41.8%,6.6%,39.3%,46.7%,55.6% (5/9),2:05
 27-Jun-2016,Wimbledon,5,Grass,R128,80,7,0,,6,Roberta Vinci,Alison Riske Amritraj,6-2 5-7 6-3,0.84,2.2%,3.3%,61.1%,54.5%,51.4%,45.5% (5/11),46.2%,39.4%,1.1%,31.8%,57.1%,50.0% (4/8),2:02
 20-Jun-2016,Eastbourne,3,Grass,Q1,80,56,0,,3,Mirjana Lucic,Alison Riske Amritraj,7-5 7-6(3),0.87,2.7%,8.1%,63.5%,59.6%,33.3%,0.0% (0/5),46.3%,43.3%,10.0%,33.3%,56.4%,44.4% (4/9),1:43
-6-Jun-2016,Nottingham,3,Grass,F,89,17,0,,1,Karolina Pliskova,Alison Riske Amritraj,7-6(8) 7-5 (ch),0.92,2.4%,6.1%,63.4%,59.6%,53.3%,50.0% (4/8),47.9%,39.1%,16.1%,16.3%,68.4%,25.0% (3/12),1:54
+6-Jun-2016,Nottingham,3,Grass,F,89,17,0,,1,Karolina Pliskova,Alison Riske Amritraj,7-6(8) 7-5,0.92,2.4%,6.1%,63.4%,59.6%,53.3%,50.0% (4/8),47.9%,39.1%,16.1%,16.3%,68.4%,25.0% (3/12),1:54
 6-Jun-2016,Nottingham,3,Grass,SF,89,86,1,,,Alison Riske Amritraj,Saisai Zheng,6-1 7-5,1.55,5.1%,6.8%,78.0%,67.4%,46.2%,62.5% (5/8),60.2%,57.6%,1.7%,48.7%,75.0%,42.9% (6/14),1:26
 6-Jun-2016,Nottingham,3,Grass,QF,89,97,1,,,Alison Riske Amritraj,Anett Kontaveit,6-3 6-3,1.33,2.9%,2.9%,75.0%,70.6%,52.9%,100.0% (5/5),55.5%,44.9%,5.8%,36.6%,57.1%,33.3% (3/9),1:22
 6-Jun-2016,Nottingham,3,Grass,R16,89,72,1,,,Alison Riske Amritraj,Su Wei Hsieh,6-2 6-4,1.29,0.0%,6.2%,64.6%,59.5%,52.2%,60.0% (3/5),56.3%,55.7%,3.3%,56.4%,54.5%,50.0% (5/10),1:17
@@ -311,7 +323,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Feb-2016,Dubai,3,Hard,Q1,92,98,1,,,Alison Riske Amritraj,Aliaksandra Sasnovich,6-3 6-2,1.39,4.7%,7.0%,60.5%,65.4%,47.1%,0.0% (0/2),58.1%,58.0%,6.0%,30.4%,81.5%,66.7% (6/9),1:03
 8-Feb-2016,Kaohsiung,3,Hard,R32,92,108,0,8,,Donna Vekic,Alison Riske Amritraj,4-6 7-6(5) 6-3,0.97,0.7%,8.8%,62.8%,64.0%,45.1%,66.7% (10/15),50.0%,41.7%,7.8%,31.7%,53.8%,25.0% (4/16),2:40
 18-Jan-2016,Australian Open,5,Hard,R128,88,13,0,,12,Belinda Bencic,Alison Riske Amritraj,6-4 6-3,0.70,5.4%,5.4%,66.1%,70.3%,52.6%,50.0% (3/6),45.4%,25.0%,9.6%,23.1%,30.8%,0.0% (0/1),1:09
-4-Jan-2016,Shenzhen,3,Hard,F,97,5,0,,1,Agnieszka Radwanska,Alison Riske Amritraj,6-3 6-2 (ch),0.69,1.9%,0.0%,57.7%,53.3%,54.5%,57.1% (4/7),41.7%,31.7%,14.3%,22.2%,55.6%,0.0% (0/2),1:16
+4-Jan-2016,Shenzhen,3,Hard,F,97,5,0,,1,Agnieszka Radwanska,Alison Riske Amritraj,6-3 6-2,0.69,1.9%,0.0%,57.7%,53.3%,54.5%,57.1% (4/7),41.7%,31.7%,14.3%,22.2%,55.6%,0.0% (0/2),1:16
 4-Jan-2016,Shenzhen,3,Hard,SF,97,70,1,,,Alison Riske Amritraj,Timea Babos,6-2 6-4,1.36,0.0%,3.5%,63.2%,69.4%,52.4%,66.7% (4/6),56.2%,50.0%,9.4%,43.6%,60.0%,41.7% (5/12),1:18
 4-Jan-2016,Shenzhen,3,Hard,QF,97,91,1,,,Alison Riske Amritraj,Anett Kontaveit,6-1 3-6 6-3,1.47,4.5%,3.0%,79.1%,77.4%,42.9%,25.0% (1/4),55.7%,43.9%,8.5%,33.3%,61.3%,45.5% (5/11),1:27
 4-Jan-2016,Shenzhen,3,Hard,R16,97,93,1,,,Alison Riske Amritraj,Su Wei Hsieh,3-6 7-5 6-1,1.18,2.6%,5.1%,60.3%,66.0%,48.4%,42.9% (3/7),53.1%,48.5%,2.1%,41.4%,59.0%,54.5% (6/11),1:53
@@ -322,9 +334,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2015,Wuhan,3,Hard,R64,59,30,0,,,Sloane Stephens,Alison Riske Amritraj,7-6(4) 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Tokyo,3,Hard,R32,51,22,0,,,Samantha Stosur,Alison Riske Amritraj,4-6 6-1 6-3,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,R32,50,70,0,4,,Saisai Zheng,Alison Riske Amritraj,0-6 6-4 6-1,,,,,,,,,,,,,,
-31-Aug-2015,US Open,5,Hard,R128,57,25,0,,25,Eugenie Bouchard,Alison Riske Amritraj,6-4 6-3 (ch),0.80,0.0%,7.1%,64.3%,55.6%,36.7%,66.7% (10/15),45.4%,41.2%,5.9%,34.1%,54.2%,37.5% (3/8),
+31-Aug-2015,US Open,5,Hard,R128,57,25,0,,25,Eugenie Bouchard,Alison Riske Amritraj,6-4 6-3,0.80,0.0%,7.1%,64.3%,55.6%,36.7%,66.7% (10/15),45.4%,41.2%,5.9%,34.1%,54.2%,37.5% (3/8),
 24-Aug-2015,New Haven,3,Hard,R32,56,4,0,WC,3,Caroline Wozniacki,Alison Riske Amritraj,6-0 6-2,0.27,0.0%,12.1%,72.7%,37.5%,33.3%,16.7% (1/6),26.5%,17.1%,2.9%,14.3%,21.4%,- (0/0),
-17-Aug-2015,Cincinnati,3,Hard,R64,51,20,0,WC,14,Elina Svitolina,Alison Riske Amritraj,6-2 4-6 6-0 (ch),0.74,1.2%,3.7%,51.9%,50.0%,51.3%,30.0% (3/10),43.9%,36.5%,1.4%,31.3%,46.2%,30.0% (3/10),
+17-Aug-2015,Cincinnati,3,Hard,R64,51,20,0,WC,14,Elina Svitolina,Alison Riske Amritraj,6-2 4-6 6-0,0.74,1.2%,3.7%,51.9%,50.0%,51.3%,30.0% (3/10),43.9%,36.5%,1.4%,31.3%,46.2%,30.0% (3/10),
 10-Aug-2015,Toronto,3,Hard,R32,48,56,0,,Q,Carina Witthoeft,Alison Riske Amritraj,6-4 5-7 6-3,0.92,3.0%,9.9%,66.3%,52.2%,50.0%,60.9% (14/23),47.9%,44.5%,1.8%,31.6%,73.5%,40.0% (8/20),
 10-Aug-2015,Toronto,3,Hard,R64,48,13,1,,12,Alison Riske Amritraj,Timea Bacsinszky,3-6 7-6(4) 7-6(3),1.01,1.0%,2.0%,63.0%,65.1%,54.1%,16.7% (1/6),48.3%,39.4%,0.7%,38.1%,42.2%,33.3% (4/12),
 3-Aug-2015,Stanford,3,Hard,QF,59,20,0,,8,Elina Svitolina,Alison Riske Amritraj,4-6 7-5 6-1,0.89,0.0%,5.3%,61.3%,47.8%,44.8%,40.0% (6/15),47.1%,47.3%,3.6%,42.5%,56.4%,50.0% (7/14),
@@ -341,31 +353,31 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-May-2015,Roland Garros,5,Clay,R128,47,17,0,,17,Sara Errani,Alison Riske Amritraj,7-6(1) 2-6 6-0,0.80,0.0%,2.4%,69.0%,55.2%,38.5%,50.0% (5/10),44.6%,39.8%,0.0%,34.2%,64.7%,33.3% (4/12),
 18-May-2015,Strasbourg,3,Clay,R16,46,54,0,,,Kristina Mladenovic,Alison Riske Amritraj,7-6(4) 6-2,0.79,0.0%,5.5%,71.4%,60.0%,65.4%,81.8% (9/11),48.1%,30.4%,1.4%,25.0%,37.9%,0.0% (0/1),
 18-May-2015,Strasbourg,3,Clay,R32,46,32,1,,5,Alison Riske Amritraj,Zarina Diyas,7-5 4-6 6-1,1.15,2.2%,7.7%,72.5%,59.1%,48.0%,64.7% (11/17),53.2%,50.5%,1.0%,48.6%,56.5%,47.4% (9/19),
-11-May-2015,Rome,3,Clay,R32,45,2,0,,2,Simona Halep,Alison Riske Amritraj,6-3 6-0 (ch),0.46,0.0%,12.1%,63.6%,38.1%,41.7%,16.7% (1/6),32.5%,27.7%,6.4%,13.3%,52.9%,33.3% (1/3),
+11-May-2015,Rome,3,Clay,R32,45,2,0,,2,Simona Halep,Alison Riske Amritraj,6-3 6-0,0.46,0.0%,12.1%,63.6%,38.1%,41.7%,16.7% (1/6),32.5%,27.7%,6.4%,13.3%,52.9%,33.3% (1/3),
 11-May-2015,Rome,3,Clay,R64,45,32,1,,,Alison Riske Amritraj,Varvara Lepchenko,6-4 6-3,1.33,1.9%,0.0%,72.2%,74.4%,53.3%,75.0% (3/4),53.7%,41.8%,3.0%,37.8%,50.0%,33.3% (4/12),
 4-May-2015,Madrid,3,Clay,R64,45,14,0,,13,Lucie Safarova,Alison Riske Amritraj,6-4 6-2,0.54,1.7%,3.4%,77.6%,57.8%,61.5%,63.6% (7/11),42.7%,22.2%,11.1%,12.5%,46.2%,20.0% (1/5),
 27-Apr-2015,Marrakech,3,Clay,Q1,45,145,0,1,,Laura Siegemund,Alison Riske Amritraj,6-4 6-3,,,,,,,,,,,,,,
 6-Apr-2015,Charleston,3,Clay,R64,45,166,0,,Q,Kateryna Bondarenko,Alison Riske Amritraj,6-4 4-6 6-1,0.79,0.0%,0.0%,60.9%,49.1%,52.9%,46.2% (6/13),44.8%,38.8%,2.4%,33.3%,54.5%,33.3% (5/15),
 23-Mar-2015,Miami,3,Hard,R64,43,29,0,,24,Svetlana Kuznetsova,Alison Riske Amritraj,6-2 6-2,0.63,0.0%,1.9%,75.0%,48.7%,46.2%,54.5% (6/11),40.6%,32.7%,8.2%,23.3%,47.4%,25.0% (1/4),
 23-Mar-2015,Miami,3,Hard,R128,43,59,1,,,Alison Riske Amritraj,Mirjana Lucic,6-4 6-0,1.63,2.4%,4.9%,70.7%,72.4%,66.7%,0.0% (0/1),59.0%,47.6%,7.1%,40.0%,54.5%,62.5% (5/8),
-9-Mar-2015,Indian Wells,3,Hard,R64,44,8,0,,7,Agnieszka Radwanska,Alison Riske Amritraj,6-3 6-1 (ch),0.62,2.1%,8.3%,75.0%,52.8%,41.7%,58.3% (7/12),40.9%,31.1%,8.9%,30.8%,31.6%,50.0% (1/2),
-9-Mar-2015,Indian Wells,3,Hard,R128,44,59,1,,,Alison Riske Amritraj,Mirjana Lucic,6-2 6-3 (ch),1.33,1.4%,5.7%,60.0%,71.4%,60.7%,87.5% (7/8),58.7%,43.6%,5.1%,47.6%,38.9%,100.0% (4/4),
+9-Mar-2015,Indian Wells,3,Hard,R64,44,8,0,,7,Agnieszka Radwanska,Alison Riske Amritraj,6-3 6-1,0.62,2.1%,8.3%,75.0%,52.8%,41.7%,58.3% (7/12),40.9%,31.1%,8.9%,30.8%,31.6%,50.0% (1/2),
+9-Mar-2015,Indian Wells,3,Hard,R128,44,59,1,,,Alison Riske Amritraj,Mirjana Lucic,6-2 6-3,1.33,1.4%,5.7%,60.0%,71.4%,60.7%,87.5% (7/8),58.7%,43.6%,5.1%,47.6%,38.9%,100.0% (4/4),
 2-Mar-2015,Monterrey,3,Hard,R32,44,155,0,6,,Vera Zvonareva,Alison Riske Amritraj,6-4 6-0,0.43,0.0%,4.3%,81.2%,48.2%,76.9%,50.0% (4/8),40.4%,20.0%,4.4%,11.1%,33.3%,0.0% (0/2),
 19-Jan-2015,Australian Open,5,Hard,R128,40,183,0,,WC,Oceane Dodin,Alison Riske Amritraj,7-6(5) 3-6 6-3,1.00,6.1%,3.1%,77.6%,61.8%,45.5%,61.5% (8/13),49.8%,41.9%,6.7%,32.0%,50.9%,62.5% (5/8),
-12-Jan-2015,Hobart,3,Hard,SF,42,49,0,8,,Heather Watson,Alison Riske Amritraj,6-3 7-5 (ch),0.86,1.5%,6.1%,71.2%,59.6%,36.8%,50.0% (5/10),46.7%,40.6%,2.9%,32.5%,51.7%,42.9% (3/7),
-12-Jan-2015,Hobart,3,Hard,QF,42,31,1,8,2,Alison Riske Amritraj,Zarina Diyas,6-3 6-0 (ch),1.77,2.4%,0.0%,70.7%,65.5%,58.3%,0.0% (0/2),64.2%,64.8%,3.7%,51.6%,82.6%,58.3% (7/12),
+12-Jan-2015,Hobart,3,Hard,SF,42,49,0,8,,Heather Watson,Alison Riske Amritraj,6-3 7-5,0.86,1.5%,6.1%,71.2%,59.6%,36.8%,50.0% (5/10),46.7%,40.6%,2.9%,32.5%,51.7%,42.9% (3/7),
+12-Jan-2015,Hobart,3,Hard,QF,42,31,1,8,2,Alison Riske Amritraj,Zarina Diyas,6-3 6-0,1.77,2.4%,0.0%,70.7%,65.5%,58.3%,0.0% (0/2),64.2%,64.8%,3.7%,51.6%,82.6%,58.3% (7/12),
 12-Jan-2015,Hobart,3,Hard,R16,42,58,1,8,,Alison Riske Amritraj,Bojana Jovanovski,6-2 4-6 6-1,1.24,5.9%,2.4%,71.8%,65.6%,45.8%,62.5% (5/8),54.3%,49.5%,5.8%,37.9%,70.3%,33.3% (7/21),
 12-Jan-2015,Hobart,3,Hard,R32,42,53,1,8,,Alison Riske Amritraj,Christina Mchale,6-4 RET,1.18,5.1%,0.0%,82.1%,65.6%,57.1%,100.0% (4/4),52.4%,42.2%,6.7%,32.0%,55.0%,14.3% (1/7),
 5-Jan-2015,Brisbane,3,Hard,R32,43,231,0,,Q,Daria Saville,Alison Riske Amritraj,7-5 6-3,0.89,1.7%,10.0%,68.3%,58.5%,47.4%,42.9% (3/7),46.3%,40.2%,3.4%,31.4%,52.8%,40.0% (2/5),
 13-Oct-2014,Moscow,3,Hard,R16,44,30,0,,6,Anastasia Pavlyuchenkova,Alison Riske Amritraj,6-2 6-2,0.47,0.0%,11.5%,63.5%,42.4%,31.6%,50.0% (6/12),34.4%,28.9%,23.7%,12.5%,57.1%,66.7% (2/3),
 13-Oct-2014,Moscow,3,Hard,R32,44,381,1,,WC,Alison Riske Amritraj,Daria Kasatkina,6-1 6-2,1.39,2.4%,8.2%,67.1%,57.9%,50.0%,80.0% (8/10),57.7%,62.2%,2.2%,62.5%,61.9%,60.0% (6/10),
-6-Oct-2014,Tianjin,3,Hard,F,62,35,1,6,3,Alison Riske Amritraj,Belinda Bencic,6-3 6-4 (ch),,,,,,,,,,,,,,
-6-Oct-2014,Tianjin,3,Hard,SF,62,112,1,6,,Alison Riske Amritraj,Saisai Zheng,6-0 6-1 (ch),,,,,,,,,,,,,,
-6-Oct-2014,Tianjin,3,Hard,QF,62,39,1,6,4,Alison Riske Amritraj,Varvara Lepchenko,7-6(5) 6-3 (ch),,,,,,,,,,,,,,
+6-Oct-2014,Tianjin,3,Hard,F,62,35,1,6,3,Alison Riske Amritraj,Belinda Bencic,6-3 6-4,,,,,,,,,,,,,,
+6-Oct-2014,Tianjin,3,Hard,SF,62,112,1,6,,Alison Riske Amritraj,Saisai Zheng,6-0 6-1,,,,,,,,,,,,,,
+6-Oct-2014,Tianjin,3,Hard,QF,62,39,1,6,4,Alison Riske Amritraj,Varvara Lepchenko,7-6(5) 6-3,,,,,,,,,,,,,,
 6-Oct-2014,Tianjin,3,Hard,R16,62,157,1,6,,Alison Riske Amritraj,Olga Govortsova,6-4 7-6(3),,,,,,,,,,,,,,
 6-Oct-2014,Tianjin,3,Hard,R32,62,141,1,6,,Alison Riske Amritraj,Cagla Buyukakcay,6-2 7-5,,,,,,,,,,,,,,
 29-Sep-2014,Beijing,3,Hard,R64,60,32,0,,,Madison Keys,Alison Riske Amritraj,6-3 6-7(3) 7-5,0.88,0.9%,10.8%,64.9%,61.1%,46.2%,62.5% (10/16),47.5%,38.7%,8.5%,26.5%,60.5%,57.1% (4/7),
-22-Sep-2014,Wuhan,3,Hard,R16,67,9,0,,6,Eugenie Bouchard,Alison Riske Amritraj,6-2 6-3 (ch),0.78,0.0%,5.4%,62.5%,51.4%,42.9%,37.5% (3/8),44.1%,40.3%,3.2%,27.5%,63.6%,40.0% (2/5),
+22-Sep-2014,Wuhan,3,Hard,R16,67,9,0,,6,Eugenie Bouchard,Alison Riske Amritraj,6-2 6-3,0.78,0.0%,5.4%,62.5%,51.4%,42.9%,37.5% (3/8),44.1%,40.3%,3.2%,27.5%,63.6%,40.0% (2/5),
 22-Sep-2014,Wuhan,3,Hard,R32,67,12,1,,11,Alison Riske Amritraj,Sara Errani,6-4 6-4,1.18,3.3%,6.7%,68.3%,65.9%,52.6%,33.3% (1/3),53.2%,45.3%,0.0%,45.1%,46.2%,44.4% (4/9),
 22-Sep-2014,Wuhan,3,Hard,R64,67,496,1,,WC,Alison Riske Amritraj,Shilin Xu,4-6 6-4 6-6 RET,1.11,9.7%,8.0%,62.8%,67.6%,40.5%,70.6% (12/17),52.4%,47.3%,0.0%,38.8%,60.0%,38.5% (5/13),
 15-Sep-2014,Guangzhou,3,Hard,R16,66,259,0,,Q,Kai Lin Zhang,Alison Riske Amritraj,6-2 7-5,0.75,1.3%,16.3%,51.2%,63.4%,30.8%,68.8% (11/16),43.7%,39.4%,1.4%,39.5%,39.4%,25.0% (2/8),
@@ -377,7 +389,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Aug-2014,Cincinnati,3,Hard,Q1,43,125,0,,,Taylor Townsend,Alison Riske Amritraj,6-3 6-4,0.88,0.0%,12.7%,52.4%,57.6%,46.7%,60.0% (6/10),46.1%,41.8%,1.1%,41.0%,43.3%,15.4% (2/13),
 4-Aug-2014,Montreal,3,Hard,R64,45,44,0,,,Magdalena Rybarikova,Alison Riske Amritraj,6-1 6-3,0.62,1.6%,4.8%,60.3%,50.0%,36.0%,64.3% (9/14),40.0%,34.6%,5.8%,25.7%,52.9%,25.0% (1/4),
 28-Jul-2014,Washington,3,Hard,R32,46,200,0,,Q,Hiroko Kuwata,Alison Riske Amritraj,6-0 7-5,0.68,4.9%,9.8%,59.0%,52.8%,44.0%,50.0% (5/10),42.0%,34.5%,0.0%,29.2%,38.2%,20.0% (1/5),
-23-Jun-2014,Wimbledon,5,Grass,R32,44,5,0,,5,Maria Sharapova,Alison Riske Amritraj,6-3 6-0 (ch),0.62,0.0%,3.8%,61.5%,62.5%,20.0%,28.6% (2/7),40.2%,33.3%,6.7%,19.2%,52.6%,100.0% (1/1),
+23-Jun-2014,Wimbledon,5,Grass,R32,44,5,0,,5,Maria Sharapova,Alison Riske Amritraj,6-3 6-0,0.62,0.0%,3.8%,61.5%,62.5%,20.0%,28.6% (2/7),40.2%,33.3%,6.7%,19.2%,52.6%,100.0% (1/1),
 23-Jun-2014,Wimbledon,5,Grass,R64,44,39,1,,,Alison Riske Amritraj,Camila Giorgi,7-5 6-2,1.32,7.5%,7.5%,66.3%,75.5%,44.4%,87.5% (7/8),57.5%,46.3%,5.6%,36.8%,51.4%,57.1% (4/7),
 23-Jun-2014,Wimbledon,5,Grass,R128,44,25,1,,26,Alison Riske Amritraj,Anastasia Pavlyuchenkova,4-6 7-5 6-1,,,,,,,,,,,,,,
 16-Jun-2014,Eastbourne,3,Grass,R32,44,9,0,,5,Angelique Kerber,Alison Riske Amritraj,7-6(6) 6-4,0.78,2.9%,4.8%,71.4%,57.3%,46.7%,82.4% (14/17),47.1%,35.8%,4.5%,25.6%,54.2%,50.0% (2/4),
@@ -395,11 +407,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Mar-2014,Miami,3,Hard,R64,48,35,0,,32,Elena Vesnina,Alison Riske Amritraj,6-2 6-2,0.64,2.2%,15.6%,55.6%,44.0%,20.0%,22.2% (2/9),38.0%,42.6%,2.1%,32.1%,57.9%,75.0% (3/4),
 17-Mar-2014,Miami,3,Hard,R128,48,102,1,,Q,Alison Riske Amritraj,Nadiya Kichenok,1-6 7-5 6-2,1.50,11.5%,3.3%,67.2%,80.5%,40.0%,0.0% (0/2),58.3%,49.2%,3.4%,41.9%,68.8%,80.0% (4/5),
 3-Mar-2014,Indian Wells,3,Hard,R128,45,41,0,,,Bojana Jovanovski,Alison Riske Amritraj,3-6 6-3 6-3,0.93,2.5%,6.3%,63.7%,62.7%,41.4%,54.5% (6/11),48.2%,41.7%,0.0%,36.8%,51.9%,66.7% (4/6),
-8-Feb-2014,Fed Cup WG R1: USA vs ITA,3,Hard,RR,46,40,0,,,Karin Knapp,Alison Riske Amritraj,6-3 7-5 (ch),,,,,,,,,,,,,,
+8-Feb-2014,Fed Cup WG R1: USA vs ITA,3,Hard,RR,46,40,0,,,Karin Knapp,Alison Riske Amritraj,6-3 7-5,,,,,,,,,,,,,,
 27-Jan-2014,Pattaya,3,Hard,R16,47,23,0,,,Sorana Cirstea,Alison Riske Amritraj,6-3 6-4,0.75,3.9%,5.9%,60.8%,54.8%,45.0%,0.0% (0/4),42.9%,36.8%,2.9%,19.4%,56.3%,33.3% (2/6),
 27-Jan-2014,Pattaya,3,Hard,R32,47,93,1,,,Alison Riske Amritraj,Anabel Medina Garrigues,6-0 6-0,2.10,2.3%,2.3%,54.5%,87.5%,45.0%,100.0% (9/9),67.4%,66.7%,0.0%,53.6%,92.9%,42.9% (6/14),
 13-Jan-2014,Australian Open,5,Hard,R32,53,9,0,,9,Angelique Kerber,Alison Riske Amritraj,6-3 6-4,0.78,0.0%,9.8%,62.3%,42.1%,34.8%,46.2% (6/13),42.9%,47.1%,7.8%,34.4%,68.4%,80.0% (4/5),
-13-Jan-2014,Australian Open,5,Hard,R64,53,63,1,,,Alison Riske Amritraj,Yanina Wickmayer,6-1 6-1 (ch),1.73,8.0%,4.0%,78.0%,69.2%,54.5%,100.0% (2/2),62.5%,58.7%,6.5%,55.2%,64.7%,50.0% (5/10),
+13-Jan-2014,Australian Open,5,Hard,R64,53,63,1,,,Alison Riske Amritraj,Yanina Wickmayer,6-1 6-1,1.73,8.0%,4.0%,78.0%,69.2%,54.5%,100.0% (2/2),62.5%,58.7%,6.5%,55.2%,64.7%,50.0% (5/10),
 13-Jan-2014,Australian Open,5,Hard,R128,53,28,1,,23,Alison Riske Amritraj,Elena Vesnina,6-2 6-2,2.68,10.3%,7.7%,64.1%,96.0%,57.1%,- (0/0),62.6%,48.1%,3.8%,46.9%,50.0%,50.0% (4/8),
 6-Jan-2014,Hobart,3,Hard,QF,55,37,0,4,,Klara Koukalova,Alison Riske Amritraj,6-4 7-5,,,,,,,,,,,,,,
 6-Jan-2014,Hobart,3,Hard,R16,55,125,1,4,WC,Alison Riske Amritraj,Casey Dellacqua,7-5 4-6 6-3,1.06,0.9%,9.1%,63.6%,58.6%,40.0%,41.7% (5/12),51.4%,50.9%,0.9%,45.3%,63.6%,40.0% (8/20),

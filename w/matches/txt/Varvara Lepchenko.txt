@@ -1,4 +1,83 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,Parma 125,3,Clay,R32,233,81,0,ALT,9,Petra Martic,Varvara Lepchenko,4-6 7-6(3) 6-2,0.97,5.0%,4.0%,64.0%,53.1%,47.2%,50.0% (7/14),49.2%,47.3%,5.4%,38.2%,60.5%,60.0% (6/10),2:26
+29-Apr-2024,W100 Bonita Springs FL,3,Clay,R32,244,564,0,8,WC,Akasha Urhobo,Varvara Lepchenko,6-4 3-6 6-4,,,,,,,,,,,,,,
+22-Apr-2024,W75 Charlottesville VA,3,Clay,QF,244,84,0,8,1,Kayla Day,Varvara Lepchenko,7-6(6) 7-5,,,,,,,,,,,,,,
+22-Apr-2024,W75 Charlottesville VA,3,Clay,R16,244,534,1,8,Q,Varvara Lepchenko,Martina Okalova,6-4 7-6(3),,,,,,,,,,,,,,
+22-Apr-2024,W75 Charlottesville VA,3,Clay,R32,244,261,1,8,,Varvara Lepchenko,Liv Hovde,6-2 6-7(5) 7-5,,,,,,,,,,,,,,
+15-Apr-2024,Oeiras 125,3,Clay,QF,258,252,0,LL,WC,Kristina Mladenovic,Varvara Lepchenko,6-3 6-4,0.83,5.2%,3.4%,69.0%,42.5%,50.0%,40.0% (4/10),45.5%,46.1%,0.0%,46.2%,45.8%,44.4% (4/9),1:58
+15-Apr-2024,Oeiras 125,3,Clay,R16,258,225,1,LL,,Varvara Lepchenko,Sinja Kraus,7-6(4) 6-3,1.12,3.1%,1.0%,72.9%,55.7%,50.0%,69.2% (9/13),52.8%,51.2%,0.0%,54.2%,46.9%,45.5% (5/11),2:08
+15-Apr-2024,Oeiras 125,3,Clay,R32,258,117,1,LL,8,Varvara Lepchenko,Rebecca Sramkova,7-6(5) 7-5,1.11,1.2%,3.6%,75.9%,66.7%,40.0%,40.0% (2/5),51.7%,44.1%,2.2%,38.6%,52.8%,40.0% (4/10),2:19
+15-Apr-2024,Oeiras 125,3,Clay,Q2,258,381,0,6,,Anouk Koevermans,Varvara Lepchenko,6-4 3-6 6-3,1.02,3.5%,4.7%,70.9%,68.9%,36.0%,60.0% (6/10),49.5%,41.3%,1.0%,30.4%,62.9%,27.3% (3/11),2:38
+15-Apr-2024,Oeiras 125,3,Clay,Q1,258,1123,1,6,WC,Varvara Lepchenko,Sara Lanca,6-2 6-0,1.82,0.0%,2.7%,67.6%,72.0%,50.0%,0.0% (0/1),64.3%,63.8%,4.3%,47.8%,79.2%,66.7% (6/9),1:09
+8-Apr-2024,W35 Boca Raton FL,3,Clay,QF,263,297,0,4,8,Maya Joint,Varvara Lepchenko,4-6 6-4 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W35 Boca Raton FL,3,Clay,R16,263,327,1,4,,Varvara Lepchenko,Victoria Rodriguez,6-4 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W35 Boca Raton FL,3,Clay,R32,263,332,1,4,,Varvara Lepchenko,Allie Kiick,6-4 6-0,,,,,,,,,,,,,,
+1-Apr-2024,Bogota,3,Clay,Q2,269,217,0,,11,Anca Alexia Todoni,Varvara Lepchenko,7-6(4) 6-4,0.86,2.3%,4.7%,69.8%,55.0%,42.3%,71.4% (10/14),46.7%,42.0%,2.5%,29.5%,56.8%,42.9% (3/7),1:58
+1-Apr-2024,Bogota,3,Clay,Q1,269,208,1,,6,Varvara Lepchenko,Carol Zhao,6-3 7-6(5),1.15,1.4%,2.7%,85.1%,69.8%,36.4%,71.4% (5/7),53.1%,40.6%,0.0%,26.8%,60.7%,50.0% (3/6),1:46
+11-Mar-2024,W35 Santo Domingo,3,Hard,R32,278,763,0,8,Q,Sara Daavettila,Varvara Lepchenko,6-2 2-0 RET,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R16,278,279,0,9,8,Sofia Costoulas,Varvara Lepchenko,7-6(7) 6-4,,,,,,,,,,,,,,
+4-Mar-2024,W35 Santo Domingo,3,Hard,R32,278,589,1,9,,Varvara Lepchenko,Rasheeda Mcadoo,2-6 7-6(4) 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Spring TX,3,Hard,SF,280,664,0,2,LL,Iva Jovic,Varvara Lepchenko,6-1 7-5,,,,,,,,,,,,,,
+26-Feb-2024,W35 Spring TX,3,Hard,QF,280,723,1,2,Q,Varvara Lepchenko,Allura Zamarripa,7-5 6-0,,,,,,,,,,,,,,
+26-Feb-2024,W35 Spring TX,3,Hard,R16,280,1151,1,2,WC,Varvara Lepchenko,Shannon Lam,6-2 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Spring TX,3,Hard,R32,280,1077,1,2,WC,Varvara Lepchenko,Elizabeth Ionescu,6-3 6-1,,,,,,,,,,,,,,
+19-Feb-2024,Puerto Vallarta 125,3,Hard,R32,279,109,0,Q,6,Claire Liu,Varvara Lepchenko,6-3 1-6 7-5,0.99,5.9%,1.2%,65.9%,71.4%,44.8%,40.0% (2/5),49.7%,37.2%,4.7%,35.4%,42.9%,50.0% (3/6),2:16
+12-Feb-2024,W50 Morelia,3,Hard,R32,277,164,0,,6,Solana Sierra,Varvara Lepchenko,7-5 6-4,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R16,284,214,0,,,Iryna Shymanovich,Varvara Lepchenko,7-6(2) 7-6(4),,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R32,284,785,1,,WC,Varvara Lepchenko,Jessica Hinojosa Gomez,4-6 6-1 6-0,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Vero Beach FL,3,Clay,R32,286,527,0,,Q,Tatiana Pieri,Varvara Lepchenko,1-6 6-3 6-3,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,R16,286,389,0,7,,Gabriela Lee,Varvara Lepchenko,7-6(2) 1-6 7-5,,,,,,,,,,,,,,
+15-Jan-2024,W35 Naples FL,3,Clay,R32,286,497,1,7,,Varvara Lepchenko,Lia Karatancheva,6-0 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,QF,289,492,0,4,,Clervie Ngounoue,Varvara Lepchenko,6-3 7-5,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,R16,289,509,1,4,,Varvara Lepchenko,Tiphanie Fiquet,2-6 6-1 6-3,,,,,,,,,,,,,,
+8-Jan-2024,W35 Naples FL,3,Clay,R32,289,400,1,4,,Varvara Lepchenko,Whitney Osuigwe,7-6(6) 2-0 RET,,,,,,,,,,,,,,
+4-Dec-2023,Montevideo 125,3,Clay,R32,291,272,0,Q,,Polona Hercog,Varvara Lepchenko,7-6(2) 6-2,0.90,0.0%,1.2%,70.4%,56.1%,54.2%,66.7% (6/9),47.2%,40.0%,2.1%,35.4%,50.0%,8.3% (1/12),2:17
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,290,209,0,Q,,Solana Sierra,Varvara Lepchenko,6-2 6-2,0.75,2.1%,4.3%,68.1%,53.1%,40.0%,28.6% (2/7),43.1%,38.2%,0.0%,37.5%,40.0%,33.3% (1/3),1:09
+13-Nov-2023,W25 Santo Domingo,3,Hard,R16,288,438,0,5,9,Ana Sofia Sanchez,Varvara Lepchenko,6-2 6-4,,,,,,,,,,,,,,
+13-Nov-2023,W25 Santo Domingo,3,Hard,R32,288,672,1,5,,Varvara Lepchenko,Katarina Jokic,7-5 6-4,,,,,,,,,,,,,,
+6-Nov-2023,W100 Charleston SC,3,Clay,QF,318,140,0,Q,3,Panna Udvardy,Varvara Lepchenko,6-3 2-6 7-5,,,,,,,,,,,,,,
+6-Nov-2023,W100 Charleston SC,3,Clay,R16,318,153,1,Q,7,Varvara Lepchenko,Maria Lourdes Carle,1-6 6-4 6-2,,,,,,,,,,,,,,
+6-Nov-2023,W100 Charleston SC,3,Clay,R32,318,248,1,Q,,Varvara Lepchenko,Louisa Chirico,6-2 4-1 RET,,,,,,,,,,,,,,
+6-Nov-2023,W100 Charleston SC,3,Clay,Q2,318,998,1,2,,Varvara Lepchenko,Danielle Willson,6-2 6-3,,,,,,,,,,,,,,
+6-Nov-2023,W100 Charleston SC,3,Clay,Q1,318,,1,2,,Varvara Lepchenko,Kalli Minor,6-0 6-1,,,,,,,,,,,,,,
+30-Oct-2023,Midland 125,3,Hard,R32,341,80,0,Q,5,Ashlyn Krueger,Varvara Lepchenko,6-1 1-0 RET,0.52,8.0%,0.0%,68.0%,41.2%,25.0%,25.0% (1/4),34.5%,33.3%,3.3%,27.3%,50.0%,0.0% (0/2),0:35
+30-Oct-2023,Midland 125,3,Hard,Q2,341,217,1,,2,Varvara Lepchenko,Jana Kolodynska,6-7(2) 6-3 6-3,1.18,1.1%,2.2%,62.6%,75.4%,58.8%,50.0% (1/2),52.1%,36.4%,0.0%,31.4%,48.3%,40.0% (4/10),1:56
+30-Oct-2023,Midland 125,3,Hard,Q1,341,276,1,,6,Varvara Lepchenko,Grace Min,6-2 6-3,1.55,7.5%,1.9%,64.2%,70.6%,57.9%,66.7% (4/6),58.9%,52.5%,0.0%,47.5%,63.2%,55.6% (5/9),1:20
+23-Oct-2023,Tampico 125,3,Hard,R16,341,115,0,,4,Anna Kalinskaya,Varvara Lepchenko,6-1 6-2,0.51,0.0%,4.9%,56.1%,43.5%,38.9%,0.0% (0/5),35.2%,29.8%,6.4%,27.8%,36.4%,0.0% (0/3),0:59
+23-Oct-2023,Tampico 125,3,Hard,R32,341,217,1,,,Varvara Lepchenko,Jana Kolodynska,6-4 7-6(0),1.07,2.2%,2.2%,72.0%,65.7%,57.7%,94.1% (16/17),52.3%,39.2%,10.1%,31.6%,59.1%,18.2% (2/11),2:03
+16-Oct-2023,W80 Macon GA,3,Hard,Q1,342,,0,2,WC,Salma Ewing,Varvara Lepchenko,3-6 7-5 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W60 Rome GA,3,Hard,R32,343,509,0,,WC,Dalayna Hewitt,Varvara Lepchenko,6-7(5) 6-2 6-2,,,,,,,,,,,,,,
+25-Sep-2023,W60 Templeton CA,3,Hard,Q2,345,368,0,7,12,Veronica Miroshnichenko,Varvara Lepchenko,7-6(2) 6-4,,,,,,,,,,,,,,
+25-Sep-2023,W60 Templeton CA,3,Hard,Q1,345,665,1,7,,Varvara Lepchenko,Elysia Bolton,7-6(7) 6-2,,,,,,,,,,,,,,
+18-Sep-2023,Guadalajara,3,Hard,Q2,381,349,0,,14,Asia Muhammad,Varvara Lepchenko,6-1 3-6 7-5,0.80,0.8%,3.3%,72.5%,58.6%,45.5%,79.2% (19/24),47.3%,35.8%,7.4%,29.5%,43.2%,60.0% (3/5),2:33
+18-Sep-2023,Guadalajara,3,Hard,Q1,381,170,1,,2,Varvara Lepchenko,Polina Kudermetova,6-1 6-3,1.73,6.3%,4.2%,62.5%,76.7%,66.7%,100.0% (1/1),59.8%,46.9%,0.0%,14.3%,71.4%,66.7% (4/6),1:07
+11-Sep-2023,San Diego,3,Hard,Q2,409,102,0,,6,Aliaksandra Sasnovich,Varvara Lepchenko,6-3 6-2,0.64,1.9%,5.8%,73.1%,57.9%,28.6%,50.0% (4/8),41.2%,32.0%,4.0%,17.9%,50.0%,33.3% (1/3),1:08
+11-Sep-2023,San Diego,3,Hard,Q1,409,101,1,,8,Varvara Lepchenko,Madison Brengle,2-6 6-4 7-5,0.99,3.6%,3.6%,63.1%,50.9%,45.2%,46.7% (7/15),49.7%,50.5%,0.0%,47.1%,57.1%,44.4% (8/18),2:08
+21-Aug-2023,Chicago 125,3,Hard,R16,434,70,0,WC,,Cristina Bucsa,Varvara Lepchenko,W/O,,,,,,,,,,,,,,
+21-Aug-2023,Chicago 125,3,Hard,R32,434,64,1,WC,2,Varvara Lepchenko,Elina Avanesyan,6-2 6-4,1.32,1.5%,1.5%,59.7%,77.5%,48.1%,100.0% (2/2),55.8%,45.2%,1.6%,47.5%,40.9%,30.0% (3/10),1:45
+14-Aug-2023,Barranquilla 125,3,Hard,SF,603,58,0,Q,1,Tatjana Maria,Varvara Lepchenko,6-0 6-2,0.38,0.0%,2.4%,51.2%,52.4%,20.0%,37.5% (3/8),30.8%,24.3%,5.4%,21.7%,28.6%,- (0/0),1:07
+14-Aug-2023,Barranquilla 125,3,Hard,QF,603,171,1,Q,,Varvara Lepchenko,Carole Monnet,6-2 6-4,1.24,4.2%,2.1%,62.5%,56.7%,55.6%,25.0% (1/4),55.0%,54.3%,4.9%,44.4%,62.2%,50.0% (6/12),1:43
+14-Aug-2023,Barranquilla 125,3,Hard,R16,603,108,1,Q,3,Varvara Lepchenko,Caroline Dolehide,6-3 6-4,1.57,1.9%,0.0%,64.2%,88.2%,52.6%,66.7% (2/3),57.1%,38.5%,1.9%,25.0%,60.0%,75.0% (3/4),1:22
+14-Aug-2023,Barranquilla 125,3,Hard,R32,603,200,1,Q,,Varvara Lepchenko,Timea Babos,6-1 6-4,1.39,15.4%,1.5%,66.2%,79.1%,36.4%,50.0% (1/2),57.4%,49.1%,5.3%,35.3%,69.6%,57.1% (4/7),1:36
+7-Aug-2023,W80 Brasilia,3,Hard,R16,809,263,0,Q,,Lulu Sun,Varvara Lepchenko,6-7(2) 7-5 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R32,809,265,1,Q,,Varvara Lepchenko,Asia Muhammad,6-0 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,QF,809,627,0,Q,,Haley Giavara,Varvara Lepchenko,7-5 6-2,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,R16,809,265,1,Q,7,Varvara Lepchenko,Asia Muhammad,6-4 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,R32,809,396,1,Q,,Varvara Lepchenko,Maria Fernanda Herazo Gonzalez,6-2 6-3,,,,,,,,,,,,,,
+17-Jul-2023,W60 Evansville,3,Hard,R16,1100,102,0,Q,1,Madison Brengle,Varvara Lepchenko,7-5 4-6 6-3,,,,,,,,,,,,,,
+17-Jul-2023,W60 Evansville,3,Hard,R32,1100,354,1,Q,,Varvara Lepchenko,Katarina Kozarov,6-4 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,R16,1104,336,0,Q,,Sohyun Park,Varvara Lepchenko,6-4 3-6 6-3,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,R32,1104,333,1,Q,,Varvara Lepchenko,Anna Kubareva,6-4 6-1,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,Q2,1104,,1,16,A,Varvara Lepchenko,Miroslava Medvedeva,6-2 6-1,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,Q1,1104,,1,16,,Varvara Lepchenko,Anna Semenova,6-1 6-1,,,,,,,,,,,,,,
+3-Jul-2023,W25 Cantanhede,3,Carpet,R32,1104,332,0,WC,6,Petra Hule,Varvara Lepchenko,1-6 6-4 6-1,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R16,,357,0,WC,,Eva Guerrero Alvarez,Varvara Lepchenko,3-6 7-5 6-2,,,,,,,,,,,,,,
+26-Jun-2023,W40 Palma del Rio,3,Hard,R32,,252,1,WC,4,Varvara Lepchenko,Berfu Cengiz,7-5 3-0 RET,,,,,,,,,,,,,,
+29-May-2023,W25 Yecla,3,Hard,R32,,247,0,WC,1,Sakura Hosogi,Varvara Lepchenko,7-5 6-7(4) 6-4,,,,,,,,,,,,,,
+22-May-2023,W15 Malaga,3,Hard,SF,,664,0,WC,6,Katarina Stresnakova,Varvara Lepchenko,7-6(1) 6-3,,,,,,,,,,,,,,
+22-May-2023,W15 Malaga,3,Hard,QF,,482,1,WC,2,Varvara Lepchenko,Jessica Failla,7-6(4) 6-3,,,,,,,,,,,,,,
+22-May-2023,W15 Malaga,3,Hard,R16,,641,1,WC,7,Varvara Lepchenko,Amelie Van Impe,7-6(4) 6-1,,,,,,,,,,,,,,
+22-May-2023,W15 Malaga,3,Hard,R32,,,1,WC,Q,Varvara Lepchenko,Isabella Barrera Aguirre,3-6 6-2 6-1,,,,,,,,,,,,,,
 2-Aug-2021,Concord,3,Hard,R16,126,86,0,,4,Vera Zvonareva,Varvara Lepchenko,6-3 6-4,0.83,0.0%,3.7%,63.0%,50.0%,55.0%,20.0% (1/5),44.9%,39.7%,0.0%,31.1%,53.6%,28.6% (2/7),1:30
 2-Aug-2021,Concord,3,Hard,R32,126,178,1,,,Varvara Lepchenko,Tatjana Maria,6-0 6-3,2.54,5.4%,8.1%,56.8%,85.7%,68.8%,- (0/0),64.8%,54.9%,2.0%,51.6%,60.0%,45.5% (5/11),0:54
 26-Jul-2021,Charleston 125K,3,Clay,F,152,229,1,4,,Varvara Lepchenko,Jamie Loeb,7-6(4) 4-6 6-4,1.02,5.2%,2.6%,72.2%,57.8%,50.0%,45.5% (5/11),50.7%,45.3%,5.7%,33.3%,56.4%,66.7% (6/9),2:59
@@ -166,7 +245,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Apr-2018,Charleston,3,Clay,R64,72,99,1,,,Varvara Lepchenko,Andrea Petkovic,6-4 7-5,1.20,1.3%,0.0%,79.2%,60.7%,50.0%,70.0% (7/10),54.5%,50.0%,3.0%,44.4%,61.9%,62.5% (5/8),1:42
 19-Mar-2018,Miami,3,Hard,R64,69,29,0,,29,Kiki Bertens,Varvara Lepchenko,5-7 7-6(5) 6-1,0.95,0.0%,2.8%,65.1%,56.3%,52.6%,53.3% (8/15),49.3%,42.7%,2.1%,35.4%,58.1%,55.6% (5/9),2:21
 19-Mar-2018,Miami,3,Hard,R128,69,107,1,,Q,Varvara Lepchenko,Viktorija Golubic,6-4 5-7 7-5,0.97,1.1%,2.1%,64.9%,52.5%,21.2%,21.4% (3/14),50.0%,56.9%,0.0%,53.7%,64.7%,66.7% (12/18),2:39
-5-Mar-2018,Indian Wells,3,Hard,R128,66,63,0,,,Aryna Sabalenka,Varvara Lepchenko,7-5 6-1 (ch),0.74,1.8%,10.5%,59.6%,50.0%,39.1%,50.0% (5/10),42.5%,40.0%,1.4%,30.6%,50.0%,25.0% (1/4),1:24
+5-Mar-2018,Indian Wells,3,Hard,R128,66,63,0,,,Aryna Sabalenka,Varvara Lepchenko,7-5 6-1,0.74,1.8%,10.5%,59.6%,50.0%,39.1%,50.0% (5/10),42.5%,40.0%,1.4%,30.6%,50.0%,25.0% (1/4),1:24
 26-Feb-2018,Indian Wells 125K,3,Hard,R16,68,96,0,2,,Ajla Tomljanovic,Varvara Lepchenko,4-6 6-1 0-0 RET,0.82,1.7%,6.9%,74.1%,48.8%,33.3%,40.0% (4/10),45.1%,45.5%,3.6%,32.4%,66.7%,57.1% (4/7),1:17
 26-Feb-2018,Indian Wells 125K,3,Hard,R32,68,164,1,2,Q,Varvara Lepchenko,Misaki Doi,7-6(5) 5-7 7-6(2),1.06,3.2%,4.8%,69.4%,62.8%,42.1%,50.0% (7/14),50.9%,46.2%,2.1%,42.4%,54.5%,54.5% (6/11),2:58
 15-Jan-2018,Australian Open,5,Hard,R128,64,15,0,,14,Anastasija Sevastova,Varvara Lepchenko,3-6 6-3 6-2,0.80,4.4%,1.1%,73.3%,59.1%,45.8%,55.6% (5/9),45.9%,35.4%,2.4%,35.4%,35.3%,50.0% (2/4),1:45
@@ -177,10 +256,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Oct-2017,Luxembourg,3,Hard,R32,61,73,0,8,,Carina Witthoeft,Varvara Lepchenko,7-6(1) 2-6 7-6(1),1.03,10.4%,5.2%,61.5%,62.7%,59.5%,25.0% (1/4),50.3%,39.8%,1.9%,32.8%,50.0%,50.0% (5/10),2:22
 9-Oct-2017,Linz,3,Hard,R16,60,89,0,,,Johanna Larsson,Varvara Lepchenko,6-2 6-3,0.67,1.6%,1.6%,71.0%,45.5%,22.2%,36.4% (4/11),39.8%,41.3%,0.0%,37.5%,50.0%,50.0% (3/6),1:17
 9-Oct-2017,Linz,3,Hard,R32,60,30,1,,3,Varvara Lepchenko,Kiki Bertens,6-3 7-6(4),1.02,0.0%,1.1%,72.6%,55.1%,50.0%,78.6% (11/14),50.9%,47.3%,1.4%,31.8%,70.0%,45.5% (5/11),1:48
-2-Oct-2017,Beijing ,3,Hard,R32,67,18,0,Q,12,Petra Kvitova,Varvara Lepchenko,6-4 6-4,0.66,0.0%,4.8%,67.7%,64.3%,30.0%,50.0% (4/8),42.7%,30.9%,7.3%,12.5%,56.5%,100.0% (2/2),1:17
-2-Oct-2017,Beijing ,3,Hard,R64,67,51,1,Q,,Varvara Lepchenko,Lesia Tsurenko,5-7 6-4 6-2,1.09,0.0%,1.9%,62.3%,56.1%,47.5%,40.0% (4/10),52.3%,51.6%,1.1%,54.0%,46.7%,50.0% (8/16),2:39
-2-Oct-2017,Beijing ,3,Hard,Q2,67,97,1,9,19,Varvara Lepchenko,Aliaksandra Sasnovich,0-6 6-3 6-4,1.01,0.0%,1.1%,58.9%,54.7%,40.5%,60.0% (9/15),50.3%,51.8%,6.0%,47.3%,60.7%,50.0% (6/12),1:59
-2-Oct-2017,Beijing ,3,Hard,Q1,67,154,1,9,,Varvara Lepchenko,Fangzhou Liu,4-6 6-4 6-4,1.04,5.6%,2.2%,64.0%,66.7%,56.3%,40.0% (2/5),50.3%,38.5%,0.0%,26.0%,52.2%,28.6% (4/14),2:14
+2-Oct-2017,Beijing,3,Hard,R32,67,18,0,Q,12,Petra Kvitova,Varvara Lepchenko,6-4 6-4,0.66,0.0%,4.8%,67.7%,64.3%,30.0%,50.0% (4/8),42.7%,30.9%,7.3%,12.5%,56.5%,100.0% (2/2),1:17
+2-Oct-2017,Beijing,3,Hard,R64,67,51,1,Q,,Varvara Lepchenko,Lesia Tsurenko,5-7 6-4 6-2,1.09,0.0%,1.9%,62.3%,56.1%,47.5%,40.0% (4/10),52.3%,51.6%,1.1%,54.0%,46.7%,50.0% (8/16),2:39
+2-Oct-2017,Beijing,3,Hard,Q2,67,97,1,9,19,Varvara Lepchenko,Aliaksandra Sasnovich,0-6 6-3 6-4,1.01,0.0%,1.1%,58.9%,54.7%,40.5%,60.0% (9/15),50.3%,51.8%,6.0%,47.3%,60.7%,50.0% (6/12),1:59
+2-Oct-2017,Beijing,3,Hard,Q1,67,154,1,9,,Varvara Lepchenko,Fangzhou Liu,4-6 6-4 6-4,1.04,5.6%,2.2%,64.0%,66.7%,56.3%,40.0% (2/5),50.3%,38.5%,0.0%,26.0%,52.2%,28.6% (4/14),2:14
 25-Sep-2017,Wuhan,3,Hard,R16,76,42,0,Q,,Alize Cornet,Varvara Lepchenko,3-6 6-4 6-2,0.94,1.0%,1.0%,74.0%,56.8%,42.3%,33.3% (3/9),48.9%,44.2%,0.0%,39.4%,60.0%,57.1% (4/7),2:31
 25-Sep-2017,Wuhan,3,Hard,R32,76,30,1,Q,,Varvara Lepchenko,Kiki Bertens,6-4 6-4,1.33,8.3%,0.0%,75.0%,71.1%,60.0%,66.7% (2/3),53.1%,42.2%,4.8%,25.0%,61.5%,37.5% (3/8),1:56
 25-Sep-2017,Wuhan,3,Hard,R64,76,11,1,Q,10,Varvara Lepchenko,Madison Keys,6-2 7-6(4),1.34,0.0%,2.6%,66.2%,62.7%,69.2%,80.0% (8/10),56.6%,47.1%,7.4%,37.8%,58.1%,57.1% (4/7),1:48
@@ -258,7 +337,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jul-2016,Stanford,3,Hard,R32,52,78,0,8,,Alison Riske Amritraj,Varvara Lepchenko,2-6 6-3 7-6(4),1.05,6.6%,3.3%,67.0%,60.7%,53.3%,44.4% (4/9),51.1%,43.8%,0.0%,33.9%,60.6%,66.7% (6/9),2:05
 27-Jun-2016,Wimbledon,5,Grass,R64,64,4,0,,4,Angelique Kerber,Varvara Lepchenko,6-1 6-4,0.51,8.3%,6.3%,77.1%,62.2%,45.5%,40.0% (2/5),40.0%,21.3%,6.4%,12.5%,40.0%,0.0% (0/2),0:51
 27-Jun-2016,Wimbledon,5,Grass,R128,64,88,1,,,Varvara Lepchenko,Teliana Pereira,5-7 7-6(3) 6-2,1.14,4.3%,2.6%,66.1%,67.1%,56.4%,69.2% (9/13),52.9%,41.7%,0.9%,31.3%,56.8%,45.5% (5/11),2:28
-20-Jun-2016,Eastbourne,3,Grass,R64,64,48,0,Q,,Eugenie Bouchard,Varvara Lepchenko,6-1 6-2 (ch),0.56,0.0%,7.5%,52.5%,47.6%,36.8%,37.5% (3/8),36.8%,31.9%,2.1%,26.9%,38.1%,33.3% (1/3),0:58
+20-Jun-2016,Eastbourne,3,Grass,R64,64,48,0,Q,,Eugenie Bouchard,Varvara Lepchenko,6-1 6-2,0.56,0.0%,7.5%,52.5%,47.6%,36.8%,37.5% (3/8),36.8%,31.9%,2.1%,26.9%,38.1%,33.3% (1/3),0:58
 20-Jun-2016,Eastbourne,3,Grass,Q2,64,79,1,7,14,Varvara Lepchenko,Saisai Zheng,6-1 1-6 6-0,1.62,0.0%,3.8%,65.4%,73.5%,50.0%,0.0% (0/3),60.4%,55.9%,3.4%,48.4%,64.3%,75.0% (6/8),1:18
 20-Jun-2016,Eastbourne,3,Grass,Q1,64,86,1,7,,Varvara Lepchenko,Sorana Cirstea,5-4 RET,1.27,3.4%,6.9%,55.2%,68.8%,53.8%,50.0% (1/2),55.4%,48.1%,3.7%,37.5%,63.6%,100.0% (2/2),0:41
 13-Jun-2016,Birmingham,3,Grass,Q1,63,308,0,3,,Laura Robson,Varvara Lepchenko,6-4 6-1,0.69,1.9%,3.7%,55.6%,56.7%,41.7%,42.9% (3/7),42.2%,34.5%,5.5%,20.6%,57.1%,100.0% (1/1),1:11
@@ -279,9 +358,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jan-2016,Australian Open,5,Hard,R32,51,133,0,,,Shuai Zhang,Varvara Lepchenko,6-1 6-3,0.62,2.2%,6.7%,64.4%,44.8%,18.8%,25.0% (2/8),37.9%,40.0%,2.0%,39.5%,42.9%,66.7% (2/3),1:04
 18-Jan-2016,Australian Open,5,Hard,R64,51,86,1,,,Varvara Lepchenko,Lara Arruabarrena,7-6 6-4,1.35,8.7%,0.0%,76.8%,71.7%,56.3%,66.7% (4/6),54.2%,43.0%,2.3%,32.6%,53.5%,50.0% (3/6),1:37
 18-Jan-2016,Australian Open,5,Hard,R128,51,35,1,,31,Varvara Lepchenko,Lesia Tsurenko,6-7 6-2 6-3,1.16,2.7%,0.9%,64.5%,64.8%,59.0%,75.0% (6/8),53.2%,43.4%,3.8%,39.7%,51.5%,38.5% (5/13),2:39
-4-Jan-2016,Brisbane,3,Hard,QF,47,13,0,,6,Carla Suarez Navarro,Varvara Lepchenko,4-6 6-4 7-5 (ch),0.93,4.5%,6.1%,65.2%,57.0%,39.1%,70.8% (17/24),48.7%,45.9%,1.0%,38.3%,57.9%,37.5% (6/16),2:42
+4-Jan-2016,Brisbane,3,Hard,QF,47,13,0,,6,Carla Suarez Navarro,Varvara Lepchenko,4-6 6-4 7-5,0.93,4.5%,6.1%,65.2%,57.0%,39.1%,70.8% (17/24),48.7%,45.9%,1.0%,38.3%,57.9%,37.5% (6/16),2:42
 4-Jan-2016,Brisbane,3,Hard,R16,47,3,1,,2,Varvara Lepchenko,Garbine Muguruza,7-6(9) 1-0 RET,1.14,3.8%,7.5%,54.7%,79.3%,45.8%,50.0% (1/2),52.9%,40.8%,2.0%,46.4%,33.3%,25.0% (1/4),1:26
-4-Jan-2016,Brisbane,3,Hard,R32,47,26,1,,,Varvara Lepchenko,Anna Karolina Schmiedlova,6-2 6-1 (ch),1.64,0.0%,0.0%,65.1%,82.1%,33.3%,75.0% (3/4),60.6%,57.4%,1.6%,39.5%,87.0%,75.0% (6/8),1:13
+4-Jan-2016,Brisbane,3,Hard,R32,47,26,1,,,Varvara Lepchenko,Anna Karolina Schmiedlova,6-2 6-1,1.64,0.0%,0.0%,65.1%,82.1%,33.3%,75.0% (3/4),60.6%,57.4%,1.6%,39.5%,87.0%,75.0% (6/8),1:13
 19-Oct-2015,Moscow,3,Hard,R32,44,66,0,,,Margarita Gasparyan,Varvara Lepchenko,7-5 7-6(4),,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,R32,44,110,0,,,Kirsten Flipkens,Varvara Lepchenko,6-3 7-6(3),,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R64,43,113,0,,WC,Qiang Wang,Varvara Lepchenko,6-2 3-6 6-2,,,,,,,,,,,,,,
@@ -302,10 +381,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Aug-2015,Stanford,3,Hard,R16,60,5,1,,1,Varvara Lepchenko,Caroline Wozniacki,6-4 6-2,1.72,8.0%,6.0%,66.0%,78.8%,64.7%,50.0% (1/2),59.8%,44.7%,2.1%,50.0%,30.8%,57.1% (4/7),
 3-Aug-2015,Stanford,3,Hard,R32,60,49,1,,,Varvara Lepchenko,Mirjana Lucic,3-6 6-2 7-6(4),1.02,6.7%,2.2%,66.3%,69.5%,46.7%,72.7% (8/11),49.5%,38.8%,2.9%,34.3%,48.5%,28.6% (4/14),
 29-Jun-2015,Wimbledon,5,Grass,R128,40,20,0,,20,Garbine Muguruza,Varvara Lepchenko,6-4 6-1,0.67,4.9%,4.9%,65.6%,52.5%,23.8%,40.0% (4/10),40.7%,38.5%,7.7%,30.3%,52.6%,25.0% (2/8),
-22-Jun-2015,Eastbourne,3,Grass,R64,38,64,0,,,Heather Watson,Varvara Lepchenko,7-6(5) 6-2 (ch),0.81,3.4%,3.4%,74.6%,52.3%,33.3%,14.3% (1/7),44.9%,42.6%,4.4%,36.6%,51.9%,40.0% (4/10),
-15-Jun-2015,Birmingham,3,Grass,R64,38,25,0,,12,Victoria Azarenka,Varvara Lepchenko,7-6(7) 6-4 (ch),0.70,6.5%,3.9%,68.8%,54.7%,66.7%,20.0% (1/5),45.3%,29.0%,11.3%,14.3%,60.0%,50.0% (3/6),
+22-Jun-2015,Eastbourne,3,Grass,R64,38,64,0,,,Heather Watson,Varvara Lepchenko,7-6(5) 6-2,0.81,3.4%,3.4%,74.6%,52.3%,33.3%,14.3% (1/7),44.9%,42.6%,4.4%,36.6%,51.9%,40.0% (4/10),
+15-Jun-2015,Birmingham,3,Grass,R64,38,25,0,,12,Victoria Azarenka,Varvara Lepchenko,7-6(7) 6-4,0.70,6.5%,3.9%,68.8%,54.7%,66.7%,20.0% (1/5),45.3%,29.0%,11.3%,14.3%,60.0%,50.0% (3/6),
 8-Jun-2015,Nottingham,3,Grass,R32,37,61,0,3,,Monica Niculescu,Varvara Lepchenko,4-6 6-3 6-1,0.81,1.2%,2.4%,70.6%,48.3%,48.0%,42.9% (6/14),45.2%,42.2%,2.4%,39.3%,48.1%,41.7% (5/12),
-25-May-2015,Roland Garros,5,Clay,R128,34,16,0,,16,Madison Keys,Varvara Lepchenko,7-6(3) 6-3 (ch),0.79,1.5%,4.5%,71.6%,58.3%,36.8%,20.0% (1/5),44.9%,37.7%,11.6%,31.8%,48.0%,75.0% (3/4),
+25-May-2015,Roland Garros,5,Clay,R128,34,16,0,,16,Madison Keys,Varvara Lepchenko,7-6(3) 6-3,0.79,1.5%,4.5%,71.6%,58.3%,36.8%,20.0% (1/5),44.9%,37.7%,11.6%,31.8%,48.0%,75.0% (3/4),
 18-May-2015,Strasbourg,3,Clay,R32,34,67,0,Q,,Lesia Tsurenko,Varvara Lepchenko,6-4 7-6(4),0.91,5.3%,5.3%,71.1%,51.9%,59.1%,54.5% (6/11),47.7%,41.8%,3.8%,38.3%,46.9%,36.4% (4/11),
 18-May-2015,Strasbourg,3,Clay,Q2,34,320,1,1,,Varvara Lepchenko,Constance Sibille,6-3 6-0,,,,,,,,,,,,,,
 11-May-2015,Rome,3,Clay,R64,32,45,0,,,Alison Riske Amritraj,Varvara Lepchenko,6-4 6-3,0.75,3.0%,4.5%,67.2%,62.2%,50.0%,66.7% (8/12),46.3%,31.5%,1.9%,25.6%,46.7%,25.0% (1/4),
@@ -313,8 +392,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-May-2015,Madrid,3,Clay,R64,30,102,1,,Q,Varvara Lepchenko,Cristina Andreea Mitu,7-6(3) 6-4,1.13,2.6%,6.5%,79.2%,60.7%,62.5%,72.7% (8/11),52.6%,44.0%,1.3%,51.8%,21.1%,36.4% (4/11),
 6-Apr-2015,Charleston,3,Clay,R64,30,107,0,10,,Cristina Andreea Mitu,Varvara Lepchenko,6-2 2-1 RET,0.65,4.2%,12.5%,83.3%,50.0%,25.0%,0.0% (0/3),39.1%,35.0%,0.0%,26.9%,50.0%,20.0% (1/5),
 23-Mar-2015,Miami,3,Hard,R64,31,51,0,28,,Kaia Kanepi,Varvara Lepchenko,6-2 6-4,0.68,1.9%,3.8%,67.9%,61.1%,41.2%,33.3% (2/6),42.6%,30.9%,5.5%,33.3%,28.6%,14.3% (1/7),
-9-Mar-2015,Indian Wells,3,Hard,R32,31,3,0,26,3,Simona Halep,Varvara Lepchenko,6-1 3-6 6-1 (ch),0.72,0.0%,2.3%,65.5%,54.4%,46.7%,64.3% (9/14),43.2%,34.8%,1.1%,35.8%,33.3%,14.3% (2/14),
-9-Mar-2015,Indian Wells,3,Hard,R64,31,152,1,26,WC,Varvara Lepchenko,Sachia Vickery,6-4 6-1 (ch),1.66,0.0%,4.8%,76.2%,68.8%,80.0%,0.0% (0/1),57.6%,47.4%,3.5%,42.4%,54.2%,41.7% (5/12),
+9-Mar-2015,Indian Wells,3,Hard,R32,31,3,0,26,3,Simona Halep,Varvara Lepchenko,6-1 3-6 6-1,0.72,0.0%,2.3%,65.5%,54.4%,46.7%,64.3% (9/14),43.2%,34.8%,1.1%,35.8%,33.3%,14.3% (2/14),
+9-Mar-2015,Indian Wells,3,Hard,R64,31,152,1,26,WC,Varvara Lepchenko,Sachia Vickery,6-4 6-1,1.66,0.0%,4.8%,76.2%,68.8%,80.0%,0.0% (0/1),57.6%,47.4%,3.5%,42.4%,54.2%,41.7% (5/12),
 2-Mar-2015,Monterrey,3,Hard,Q1,30,120,0,1,,Michelle Larcher De Brito,Varvara Lepchenko,6-0 6-1,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,R32,30,6,0,30,6,Agnieszka Radwanska,Varvara Lepchenko,6-0 7-5,0.51,1.6%,4.8%,57.1%,58.3%,37.0%,44.4% (4/9),38.9%,26.0%,10.0%,16.7%,40.0%,33.3% (1/3),
 19-Jan-2015,Australian Open,5,Hard,R64,30,67,1,30,,Varvara Lepchenko,Ajla Tomljanovic,6-1 7-6(1),1.39,6.3%,3.1%,64.1%,68.3%,60.9%,0.0% (0/1),56.2%,47.9%,4.1%,42.2%,57.1%,50.0% (3/6),
@@ -323,10 +402,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Jan-2015,Brisbane,3,Hard,QF,34,100,1,,LL,Varvara Lepchenko,Alla Kudryavtseva,7-5 7-5,1.24,4.3%,2.9%,68.6%,66.7%,59.1%,50.0% (2/4),53.7%,44.2%,1.3%,39.3%,62.5%,57.1% (4/7),
 5-Jan-2015,Brisbane,3,Hard,R16,34,30,1,,,Varvara Lepchenko,Madison Keys,6-4 6-4,1.48,8.0%,4.0%,56.0%,71.4%,68.2%,60.0% (3/5),55.8%,44.4%,4.8%,41.2%,48.3%,44.4% (4/9),
 5-Jan-2015,Brisbane,3,Hard,R32,34,21,1,,,Varvara Lepchenko,Samantha Stosur,4-6 6-4 7-5,1.00,1.0%,4.1%,70.4%,60.9%,41.4%,25.0% (2/8),50.3%,45.1%,1.1%,32.1%,63.2%,53.8% (7/13),
-13-Oct-2014,Luxembourg,3,Hard,QF,37,145,0,5,Q,Denisa Allertova,Varvara Lepchenko,4-6 6-3 7-5 (ch),0.88,3.2%,4.2%,58.9%,64.3%,41.0%,50.0% (6/12),47.2%,40.0%,2.0%,35.4%,48.6%,45.5% (5/11),
+13-Oct-2014,Luxembourg,3,Hard,QF,37,145,0,5,Q,Denisa Allertova,Varvara Lepchenko,4-6 6-3 7-5,0.88,3.2%,4.2%,58.9%,64.3%,41.0%,50.0% (6/12),47.2%,40.0%,2.0%,35.4%,48.6%,45.5% (5/11),
 13-Oct-2014,Luxembourg,3,Hard,R16,37,52,1,5,,Varvara Lepchenko,Jana Cepelova,6-2 6-2,1.53,1.8%,1.8%,66.7%,71.1%,57.9%,100.0% (8/8),58.8%,50.9%,0.0%,41.9%,61.5%,57.1% (4/7),
 13-Oct-2014,Luxembourg,3,Hard,R32,37,74,1,5,WC,Varvara Lepchenko,Julia Goerges,6-3 5-7 6-2,1.16,1.1%,6.5%,65.2%,61.7%,46.9%,37.5% (3/8),53.4%,50.5%,3.0%,43.6%,58.7%,61.5% (8/13),
-6-Oct-2014,Tianjin,3,Hard,QF,39,62,0,4,6,Alison Riske Amritraj,Varvara Lepchenko,7-6(5) 6-3 (ch),,,,,,,,,,,,,,
+6-Oct-2014,Tianjin,3,Hard,QF,39,62,0,4,6,Alison Riske Amritraj,Varvara Lepchenko,7-6(5) 6-3,,,,,,,,,,,,,,
 6-Oct-2014,Tianjin,3,Hard,R16,39,273,1,4,WC,Varvara Lepchenko,Fangzhou Liu,7-6(3) 7-5,,,,,,,,,,,,,,
 6-Oct-2014,Tianjin,3,Hard,R32,39,186,1,4,Q,Varvara Lepchenko,Lyudmyla Kichenok,6-1 6-0,,,,,,,,,,,,,,
 29-Sep-2014,Beijing,3,Hard,Q2,35,70,0,,,Silvia Soler Espinosa,Varvara Lepchenko,1-6 7-5 6-2,0.97,2.5%,3.8%,75.9%,53.3%,36.8%,36.4% (4/11),49.1%,48.9%,0.0%,40.7%,60.5%,63.6% (7/11),
@@ -355,7 +434,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Jun-2014,Birmingham,3,Grass,R64,59,92,1,,,Varvara Lepchenko,Alison Van Uytvanck,6-4 6-0,1.84,8.7%,4.3%,60.9%,75.0%,61.1%,80.0% (4/5),62.5%,56.0%,2.0%,57.1%,54.5%,50.0% (5/10),
 26-May-2014,Roland Garros,5,Clay,R64,58,9,0,,8,Angelique Kerber,Varvara Lepchenko,6-2 7-5,0.79,0.0%,1.7%,74.6%,56.8%,26.7%,44.4% (4/9),43.8%,40.2%,1.1%,38.5%,45.5%,20.0% (2/10),
 26-May-2014,Roland Garros,5,Clay,R128,58,59,1,,,Varvara Lepchenko,Petra Cetkovska,6-4 6-1,1.45,1.9%,3.8%,67.3%,74.3%,41.2%,80.0% (4/5),58.1%,52.8%,0.0%,33.3%,69.0%,83.3% (5/6),
-12-May-2014,Rome,3,Clay,R16,49,1,0,,1,Serena Williams,Varvara Lepchenko,6-1 6-2 (ch),0.55,4.5%,2.3%,59.1%,42.3%,38.9%,37.5% (3/8),36.5%,32.7%,5.8%,21.9%,50.0%,16.7% (1/6),
+12-May-2014,Rome,3,Clay,R16,49,1,0,,1,Serena Williams,Varvara Lepchenko,6-1 6-2,0.55,4.5%,2.3%,59.1%,42.3%,38.9%,37.5% (3/8),36.5%,32.7%,5.8%,21.9%,50.0%,16.7% (1/6),
 12-May-2014,Rome,3,Clay,R32,49,16,1,,16,Varvara Lepchenko,Sloane Stephens,6-2 6-2,1.67,0.0%,2.1%,68.1%,68.8%,66.7%,83.3% (5/6),59.8%,53.3%,1.7%,48.7%,61.9%,38.5% (5/13),
 12-May-2014,Rome,3,Clay,R64,49,39,1,,,Varvara Lepchenko,Shuai Peng,6-1 6-0,1.89,5.1%,2.6%,76.9%,73.3%,44.4%,100.0% (1/1),64.7%,63.0%,2.2%,51.7%,82.4%,75.0% (6/8),
 5-May-2014,Madrid,3,Clay,R32,48,6,0,,5,Petra Kvitova,Varvara Lepchenko,2-6 6-2 6-1,0.97,3.3%,8.3%,80.0%,64.6%,33.3%,20.0% (1/5),47.7%,40.4%,6.7%,32.3%,62.5%,25.0% (2/8),
@@ -376,7 +455,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jan-2014,Sydney,3,Hard,Q3,52,165,0,,,Victoria Duval,Varvara Lepchenko,7-5 7-5,0.86,4.1%,2.7%,68.5%,58.0%,34.8%,50.0% (6/12),46.6%,42.5%,1.4%,35.4%,56.0%,40.0% (4/10),
 6-Jan-2014,Sydney,3,Hard,Q2,52,94,1,,,Varvara Lepchenko,Kiki Bertens,6-4 6-4,1.30,7.4%,5.6%,63.0%,70.6%,55.0%,33.3% (1/3),54.0%,45.7%,0.0%,37.5%,52.6%,40.0% (4/10),
 6-Jan-2014,Sydney,3,Hard,Q1,52,128,1,,,Varvara Lepchenko,Claire Feuerstein,6-1 6-0,2.82,6.1%,3.0%,66.7%,72.7%,81.8%,- (0/0),71.8%,68.4%,0.0%,68.2%,68.8%,54.5% (6/11),
-30-Dec-2013,Brisbane,3,Hard,R32,54,45,0,,,Elina Svitolina,Varvara Lepchenko,6-3 6-3 (ch),0.73,12.3%,8.8%,54.4%,58.1%,26.9%,45.5% (5/11),42.5%,41.1%,1.8%,34.4%,50.0%,60.0% (3/5),
+30-Dec-2013,Brisbane,3,Hard,R32,54,45,0,,,Elina Svitolina,Varvara Lepchenko,6-3 6-3,0.73,12.3%,8.8%,54.4%,58.1%,26.9%,45.5% (5/11),42.5%,41.1%,1.8%,34.4%,50.0%,60.0% (3/5),
 14-Oct-2013,Moscow,3,Hard,R32,56,254,0,,WC,Alisa Kleybanova,Varvara Lepchenko,6-7(6) 6-4 6-4,0.86,2.2%,1.5%,69.4%,57.0%,29.3%,70.4% (19/27),46.6%,44.4%,5.1%,36.2%,56.3%,30.0% (6/20),
 7-Oct-2013,Osaka,3,Hard,R32,55,35,0,,5,Eugenie Bouchard,Varvara Lepchenko,6-3 6-0,0.60,1.9%,1.9%,76.9%,47.5%,33.3%,44.4% (4/9),38.8%,33.3%,2.0%,35.5%,30.0%,16.7% (1/6),
 30-Sep-2013,Beijing,3,Hard,R32,56,7,0,,9,Petra Kvitova,Varvara Lepchenko,2-6 6-2 6-0,0.79,1.3%,6.6%,63.2%,50.0%,39.3%,30.0% (3/10),44.4%,42.9%,1.3%,36.0%,55.6%,30.8% (4/13),
@@ -440,7 +519,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jul-2012,San Diego,3,Hard,QF,44,21,0,,4,Nadia Petrova,Varvara Lepchenko,6-4 2-6 7-6(5),0.95,4.1%,4.1%,60.8%,64.4%,63.2%,0.0% (0/2),49.5%,34.4%,9.7%,23.2%,51.4%,50.0% (3/6),
 16-Jul-2012,San Diego,3,Hard,R16,44,42,1,,8,Varvara Lepchenko,Chanelle Scheepers,6-4 6-2,1.42,5.9%,5.9%,54.9%,78.6%,65.2%,- (0/0),55.2%,38.9%,1.9%,30.3%,52.4%,75.0% (3/4),
 16-Jul-2012,San Diego,3,Hard,R32,44,324,1,,WC,Varvara Lepchenko,Nicole Gibbs,6-3 6-1,1.74,4.3%,2.1%,61.7%,82.8%,55.6%,100.0% (2/2),59.4%,48.1%,1.9%,34.5%,64.0%,44.4% (4/9),
-25-Jun-2012,Wimbledon,5,Grass,R32,53,4,0,,4,Petra Kvitova,Varvara Lepchenko,6-1 6-0 (ch) (wp),0.52,0.0%,17.1%,54.3%,36.8%,37.5%,28.6% (2/7),34.6%,32.6%,2.2%,28.1%,42.9%,0.0% (0/2),
+25-Jun-2012,Wimbledon,5,Grass,R32,53,4,0,,4,Petra Kvitova,Varvara Lepchenko,6-1 6-0 (wp),0.52,0.0%,17.1%,54.3%,36.8%,37.5%,28.6% (2/7),34.6%,32.6%,2.2%,28.1%,42.9%,0.0% (0/2),
 25-Jun-2012,Wimbledon,5,Grass,R64,53,30,1,,31,Varvara Lepchenko,Anastasia Pavlyuchenkova,7-6(4) 6-4,0.98,0.0%,3.5%,61.6%,66.0%,57.6%,88.9% (8/9),50.6%,36.5%,4.1%,27.9%,48.4%,100.0% (2/2),
 25-Jun-2012,Wimbledon,5,Grass,R128,53,93,1,,,Varvara Lepchenko,Patricia Mayr Achleitner,6-2 6-3,,,,,,,,,,,,,,
 18-Jun-2012,Eastbourne,3,Grass,Q2,51,116,0,1,,Bojana Jovanovski,Varvara Lepchenko,7-6(3) 6-3,0.83,0.0%,4.1%,57.5%,64.3%,54.8%,62.5% (5/8),46.6%,32.9%,1.4%,19.6%,76.5%,25.0% (1/4),

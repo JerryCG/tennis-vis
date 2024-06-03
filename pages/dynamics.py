@@ -1,6 +1,7 @@
 import dash
 from dash import html
 
+# create page
 dash.register_page(__name__, name = 'Dynamics')
 
 layout = html.Div(children = [

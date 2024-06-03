@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 24-Jul-1962,Haverford,3,Grass,QF,,,0,,1,Karen Susman,Margaret Osborne Dupont,6-1 9-7,,,,,,,,,,,,,,
 24-Jul-1962,Haverford,3,Grass,R16,,,1,,,Margaret Osborne Dupont,Kaye Dening,6-0 2-6 6-3,,,,,,,,,,,,,,
 24-Jul-1962,Haverford,3,Grass,R32,,,1,,,Margaret Osborne Dupont,Mary Habicht,6-1 6-4,,,,,,,,,,,,,,
@@ -30,6 +30,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jul-1960,Philadelphia,3,Grass,SF,,,1,,,Margaret Osborne Dupont,Bonnie Mencher,6-2 4-6 6-2,,,,,,,,,,,,,,
 17-Jul-1960,Philadelphia,3,Grass,QF,,,1,,,Margaret Osborne Dupont,Carole Wright,9-7 6-4,,,,,,,,,,,,,,
 17-Jul-1960,Philadelphia,3,Grass,R16,,,1,,,Margaret Osborne Dupont,Chris Safford,6-1 6-4,,,,,,,,,,,,,,
+10-Jun-1960,Sears Cup,3,,RR,,,1,,,Margaret Osborne Dupont,Donna Floyd,3-2 RET,,,,,,,,,,,,,,
+10-Jun-1960,Sears Cup,3,,RR,,,1,,,Margaret Osborne Dupont,Kay Hubbell,6-3 6-4,,,,,,,,,,,,,,
+12-Jun-1959,Sears Cup,3,,RR,,,1,,,Margaret Osborne Dupont,Lois Felix,12-10 6-3,,,,,,,,,,,,,,
+12-Jun-1959,Sears Cup,3,,RR,,,1,,,Margaret Osborne Dupont,Isabelle Troccole,6-2 6-1,,,,,,,,,,,,,,
 29-Aug-1958,US National Championships,3,Grass,R16,,,0,,8,Beverly Baker Fleitz,Margaret Osborne Dupont,6-1 6-2,,,,,,,,,,,,,,
 29-Aug-1958,US National Championships,3,Grass,R32,,,1,,,Margaret Osborne Dupont,Pat Shaffer,6-3 6-3,,,,,,,,,,,,,,
 29-Aug-1958,US National Championships,3,Grass,R64,,,1,,,Margaret Osborne Dupont,Adrienne Ayares,6-1 6-2,,,,,,,,,,,,,,
@@ -59,6 +63,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jul-1957,Philadelphia Middle States,3,Grass,SF,,,0,,,Mimi Wheeler,Margaret Osborne Dupont,4-6 8-6 6-3,,,,,,,,,,,,,,
 15-Jul-1957,Philadelphia Middle States,3,Grass,QF,,,1,,,Margaret Osborne Dupont,Margaret Varner,7-5 2-6 6-1,,,,,,,,,,,,,,
 15-Jul-1957,Philadelphia Middle States,3,Grass,R16,,,1,,,Margaret Osborne Dupont,Sylvia Knowles,6-0 6-0,,,,,,,,,,,,,,
+15-Jul-1957,Philadelphia Middle States,3,Grass,R32,,,1,,,Margaret Osborne Dupont,Alice Gottshall,6-0 6-0,,,,,,,,,,,,,,
+7-Jun-1957,Sears Cup,3,,RR,,,1,,,Margaret Osborne Dupont,Lois Felix,6-0 6-1,,,,,,,,,,,,,,
 1-Sep-1956,US National Championships,3,Grass,QF,,,0,5,1,Shirley Fry,Margaret Osborne Dupont,6-2 4-6 6-3,,,,,,,,,,,,,,
 1-Sep-1956,US National Championships,3,Grass,R16,,,1,5,,Margaret Osborne Dupont,Donna Floyd,6-3 6-2,,,,,,,,,,,,,,
 1-Sep-1956,US National Championships,3,Grass,R32,,,1,5,,Margaret Osborne Dupont,Barbara Green,4-6 6-4 6-4,,,,,,,,,,,,,,

@@ -1,5 +1,98 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
-24-Oct-2022,W80 Tyler TX,3,Hard,R32,160,172,0,,8,Maria Carle,Caroline Dolehide,0-6 6-2 7-5,,,,,,,,,,,,,,
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,Rome,3,Clay,R128,54,77,0,,Q,Bernarda Pera,Caroline Dolehide,7-6(6) 6-3,0.82,2.9%,2.9%,73.5%,62.0%,61.1%,33.3% (1/3),44.8%,31.4%,2.3%,22.4%,50.0%,11.1% (1/9),1:42
+22-Apr-2024,Madrid,3,Clay,R32,56,50,0,,,Yulia Putintseva,Caroline Dolehide,6-2 6-2,0.49,0.0%,2.1%,80.9%,50.0%,44.4%,20.0% (1/5),37.4%,25.0%,0.0%,25.7%,22.2%,0.0% (0/1),1:07
+22-Apr-2024,Madrid,3,Clay,R64,56,32,1,,30,Caroline Dolehide,Anhelina Kalinina,6-7(6) 6-2 6-3,1.17,0.8%,1.7%,78.5%,63.2%,50.0%,77.8% (7/9),53.3%,46.2%,2.5%,46.8%,44.0%,50.0% (6/12),2:49
+22-Apr-2024,Madrid,3,Clay,R128,56,90,1,,LL,Caroline Dolehide,Zhuoxuan Bai,6-3 6-3,1.43,5.2%,1.7%,75.9%,61.4%,78.6%,85.7% (6/7),56.8%,49.3%,10.4%,44.4%,69.2%,40.0% (4/10),1:18
+1-Apr-2024,Charleston,3,Clay,R32,47,13,0,,5,Beatriz Haddad Maia,Caroline Dolehide,6-2 7-5,0.75,3.2%,1.6%,75.8%,44.7%,46.7%,33.3% (3/9),43.1%,41.0%,4.9%,26.3%,65.2%,100.0% (3/3),1:40
+1-Apr-2024,Charleston,3,Clay,R64,47,84,1,,,Caroline Dolehide,Kayla Day,6-3 0-6 6-4,0.97,0.0%,5.2%,74.0%,57.9%,35.0%,40.0% (4/10),49.4%,46.8%,6.5%,42.9%,53.6%,66.7% (6/9),2:01
+18-Mar-2024,Miami,3,Hard,R128,50,91,0,,Q,Clara Tauson,Caroline Dolehide,6-3 3-6 6-2,0.99,8.1%,5.4%,70.3%,71.2%,31.8%,54.5% (6/11),49.4%,40.0%,3.8%,28.3%,55.9%,42.9% (3/7),2:00
+6-Mar-2024,Indian Wells,3,Hard,R32,51,49,0,,,Yue Yuan,Caroline Dolehide,1-6 6-4 7-6(2),1.05,0.0%,5.4%,78.6%,58.0%,41.7%,73.7% (14/19),51.5%,47.6%,0.0%,46.0%,50.0%,87.5% (7/8),2:26
+6-Mar-2024,Indian Wells,3,Hard,R64,51,30,1,,27,Caroline Dolehide,Victoria Azarenka,7-5 2-6 6-3,0.94,1.9%,3.8%,79.8%,54.2%,42.9%,53.8% (7/13),48.8%,45.4%,1.0%,41.7%,51.4%,58.3% (7/12),2:25
+6-Mar-2024,Indian Wells,3,Hard,R128,51,67,1,,,Caroline Dolehide,Cristina Bucsa,6-2 6-0,1.70,0.0%,2.2%,86.7%,69.2%,33.3%,50.0% (1/2),62.2%,60.4%,3.8%,57.6%,65.0%,50.0% (6/12),0:57
+26-Feb-2024,San Diego,3,Hard,R32,45,33,0,,5,Dayana Yastremska,Caroline Dolehide,6-4 5-7 6-1,0.79,3.6%,7.2%,63.9%,52.8%,36.7%,12.5% (1/8),44.3%,41.8%,3.3%,23.5%,65.0%,50.0% (5/10),2:08
+19-Feb-2024,Dubai,3,Hard,R64,45,61,0,,,Petra Martic,Caroline Dolehide,6-4 7-6(4),0.88,5.4%,4.1%,66.2%,69.4%,52.0%,50.0% (2/4),47.7%,32.0%,8.0%,26.8%,38.2%,50.0% (1/2),1:54
+12-Feb-2024,Doha,3,Hard,R64,44,29,0,,,Marta Kostyuk,Caroline Dolehide,6-3 7-5,0.77,0.0%,0.0%,68.3%,53.5%,45.0%,0.0% (0/5),44.2%,37.9%,6.1%,25.6%,55.6%,33.3% (2/6),1:26
+5-Feb-2024,Abu Dhabi,3,Hard,Q1,43,126,0,3,,Linda Fruhvirtova,Caroline Dolehide,6-2 6-3,0.81,3.9%,3.9%,70.6%,63.9%,40.0%,55.6% (5/9),45.0%,35.0%,1.7%,29.3%,47.4%,0.0% (0/7),1:12
+15-Jan-2024,Australian Open,5,Hard,R64,43,4,0,,4,Coco Gauff,Caroline Dolehide,7-6(2) 6-2,0.77,1.5%,3.0%,71.2%,61.7%,31.6%,42.9% (3/7),44.1%,36.4%,3.9%,20.8%,62.1%,25.0% (2/8),1:44
+15-Jan-2024,Australian Open,5,Hard,R128,43,143,1,,Q,Caroline Dolehide,Leolia Jeanjean,6-2 6-4,2.05,2.1%,0.0%,91.7%,81.8%,50.0%,100.0% (1/1),58.7%,42.6%,3.3%,32.4%,58.3%,33.3% (3/9),1:12
+8-Jan-2024,Hobart,3,Hard,R16,44,33,0,,3,Lin Zhu,Caroline Dolehide,5-7 6-3 6-4,0.92,2.1%,2.1%,72.9%,62.9%,61.5%,58.3% (7/12),49.4%,34.5%,3.6%,26.3%,51.9%,37.5% (3/8),2:13
+8-Jan-2024,Hobart,3,Hard,R32,44,58,1,,,Caroline Dolehide,Mayar Sherif,6-1 6-4,1.37,7.3%,3.6%,76.4%,71.4%,53.8%,75.0% (3/4),56.9%,44.7%,0.0%,34.2%,88.9%,57.1% (4/7),1:15
+1-Jan-2024,Brisbane,3,Hard,R64,45,73,0,,,Anna Karolina Schmiedlova,Caroline Dolehide,3-6 6-4 6-2,0.91,7.4%,2.1%,72.6%,55.1%,57.7%,61.5% (8/13),48.4%,40.4%,3.4%,32.7%,52.9%,57.1% (4/7),2:25
+23-Oct-2023,Tampico 125,3,Hard,QF,43,104,0,1,6,Emina Bektas,Caroline Dolehide,6-1 6-2,0.56,4.5%,6.8%,70.5%,58.1%,15.4%,28.6% (2/7),37.8%,30.4%,8.7%,25.0%,42.9%,0.0% (0/2),1:01
+23-Oct-2023,Tampico 125,3,Hard,R16,43,550,1,1,WC,Caroline Dolehide,Victoria Rodriguez,7-6(6) 0-6 6-2,0.92,2.0%,11.9%,60.4%,59.0%,30.0%,56.3% (9/16),48.0%,48.5%,2.0%,45.9%,55.6%,40.0% (6/15),2:29
+23-Oct-2023,Tampico 125,3,Hard,R32,43,334,1,1,,Caroline Dolehide,Ashley Lahey,7-6(6) 6-2,1.21,1.4%,5.6%,66.7%,66.7%,58.3%,66.7% (4/6),53.3%,43.6%,1.3%,40.4%,48.4%,44.4% (4/9),1:46
+18-Sep-2023,Guadalajara,3,Hard,F,111,9,0,,2,Maria Sakkari,Caroline Dolehide,7-5 6-3,0.79,1.4%,8.2%,61.6%,57.8%,50.0%,63.6% (7/11),46.0%,35.9%,4.7%,30.0%,45.8%,50.0% (1/2),1:43
+18-Sep-2023,Guadalajara,3,Hard,SF,111,53,1,,,Caroline Dolehide,Sofia Kenin,7-5 6-3,1.38,4.3%,10.1%,73.9%,78.4%,33.3%,75.0% (6/8),56.8%,46.0%,0.0%,45.5%,47.4%,80.0% (4/5),1:25
+18-Sep-2023,Guadalajara,3,Hard,QF,111,54,1,,,Caroline Dolehide,Martina Trevisan,3-6 7-6(9) 6-3,1.01,3.3%,9.1%,66.9%,70.4%,37.5%,66.7% (8/12),50.9%,40.8%,0.0%,39.7%,44.0%,33.3% (3/9),2:47
+18-Sep-2023,Guadalajara,3,Hard,R16,111,20,1,,8,Caroline Dolehide,Ekaterina Alexandrova,6-1 6-2,2.20,7.0%,2.3%,65.1%,85.7%,60.0%,100.0% (1/1),63.6%,51.1%,0.0%,23.8%,75.0%,44.4% (4/9),1:00
+18-Sep-2023,Guadalajara,3,Hard,R32,111,175,1,,LL,Caroline Dolehide,Sachia Vickery,6-3 4-6 6-1,1.07,10.7%,8.0%,71.4%,66.3%,37.5%,84.6% (11/13),52.3%,44.7%,3.5%,46.8%,42.1%,83.3% (5/6),1:57
+18-Sep-2023,Guadalajara,3,Hard,R64,111,43,1,,,Caroline Dolehide,Peyton Stearns,6-7(1) 7-6(5) 7-6(2),0.96,5.2%,5.2%,65.9%,66.3%,41.3%,54.5% (6/11),49.8%,40.7%,1.7%,35.8%,51.4%,50.0% (5/10),2:59
+11-Sep-2023,San Diego,3,Hard,Q1,111,213,0,9,,Louisa Chirico,Caroline Dolehide,7-6(4) 6-2,0.85,6.5%,5.4%,60.2%,64.3%,37.8%,69.2% (9/13),47.6%,39.4%,4.2%,21.6%,58.8%,100.0% (2/2),1:55
+28-Aug-2023,US Open,5,Hard,R128,106,62,0,,,Clara Burel,Caroline Dolehide,6-4 6-3,0.85,1.6%,6.6%,63.9%,38.5%,45.5%,53.3% (8/15),45.7%,50.0%,1.5%,44.7%,56.7%,55.6% (5/9),1:24
+14-Aug-2023,Barranquilla 125,3,Hard,R16,108,603,0,3,Q,Varvara Lepchenko,Caroline Dolehide,6-3 6-4,0.64,1.9%,1.9%,61.5%,75.0%,40.0%,25.0% (1/4),42.9%,24.5%,1.9%,11.8%,47.4%,33.3% (1/3),1:22
+14-Aug-2023,Barranquilla 125,3,Hard,R32,108,517,1,3,Q,Caroline Dolehide,Alana Smith,7-6(2) 6-3,1.36,3.2%,4.8%,61.9%,79.5%,54.2%,0.0% (0/1),52.9%,41.1%,2.2%,38.3%,44.2%,15.4% (2/13),1:54
+7-Aug-2023,W100 Landisville,3,Hard,QF,105,299,0,3,WC,Makenna Jones,Caroline Dolehide,7-6(6) 4-6 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W100 Landisville,3,Hard,R16,105,184,1,3,,Caroline Dolehide,Elsa Jacquemot,6-4 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W100 Landisville,3,Hard,R32,105,200,1,3,,Caroline Dolehide,Marcela Zacarias,6-4 1-6 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,F,105,235,0,1,,Renata Zarazua,Caroline Dolehide,1-6 7-6(4) 7-5,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,SF,105,175,1,1,8,Caroline Dolehide,Yafan Wang,7-6(1) 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,QF,105,299,1,1,,Caroline Dolehide,Makenna Jones,6-4 7-6(4),,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R16,105,418,1,1,Q,Caroline Dolehide,Victoria Hu,6-4 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R32,105,500,1,1,WC,Caroline Dolehide,Dalayna Hewitt,4-6 7-6(3) 6-1,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,R128,100,10,0,,11,Daria Kasatkina,Caroline Dolehide,6-1 6-4,0.73,3.7%,3.7%,61.1%,39.4%,57.1%,44.4% (4/9),42.6%,39.3%,0.0%,30.4%,66.7%,12.5% (1/8),1:15
+26-Jun-2023,Eastbourne,3,Grass,Q1,100,114,0,ALT,,Madison Brengle,Caroline Dolehide,7-6(2) 5-7 7-6(3),1.00,3.7%,5.9%,64.4%,66.7%,37.5%,61.5% (8/13),50.0%,43.6%,0.0%,42.9%,46.4%,35.3% (6/17),2:45
+19-Jun-2023,Birmingham,3,Grass,Q1,100,150,0,9,,Emina Bektas,Caroline Dolehide,6-3 7-5,0.81,18.5%,4.6%,63.1%,63.4%,50.0%,62.5% (5/8),45.1%,33.8%,5.2%,22.4%,68.4%,25.0% (1/4),1:23
+12-Jun-2023,Valencia 125,3,Clay,R16,99,124,0,7,,Tamara Korpatsch,Caroline Dolehide,6-1 6-3,0.75,2.0%,3.9%,52.9%,48.1%,33.3%,40.0% (4/10),42.9%,44.3%,1.6%,40.7%,47.1%,28.6% (2/7),1:21
+12-Jun-2023,Valencia 125,3,Clay,R32,99,189,1,7,Q,Caroline Dolehide,Elsa Jacquemot,6-2 6-2,1.62,3.8%,3.8%,77.4%,73.2%,41.7%,50.0% (1/2),60.8%,55.1%,2.0%,48.4%,66.7%,71.4% (5/7),1:08
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,QF,101,114,0,4,7,Arantxa Rus,Caroline Dolehide,2-6 6-2 6-4,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R16,101,130,1,4,,Caroline Dolehide,Marina Bassols Ribera,6-4 6-3,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,101,215,1,4,,Caroline Dolehide,Ankita Raina,6-3 7-6(5),,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,101,151,0,5,,Maria Lourdes Carle,Caroline Dolehide,6-1 6-2,0.51,0.0%,0.0%,72.7%,50.0%,40.0%,60.0% (6/10),37.9%,27.1%,2.1%,27.8%,25.0%,0.0% (0/3),
+8-May-2023,W60 Naples FL,3,Clay,F,112,,1,1,Q,Caroline Dolehide,Yuliia Starodubtseva,7-5 7-5,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,SF,112,280,1,1,,Caroline Dolehide,Sophie Chang,6-2 7-5,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,QF,112,244,1,1,8,Caroline Dolehide,Renata Zarazua,7-5 6-1,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,R16,112,927,1,1,Q,Caroline Dolehide,Haley Giavara,6-1 6-4,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,R32,112,300,1,1,,Caroline Dolehide,Yuki Naito,6-2 6-1,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,SF,123,183,0,3,7,Kayla Day,Caroline Dolehide,7-6(5) 1-6 6-0,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,QF,123,681,1,3,Q,Caroline Dolehide,Kaitlin Quevedo,6-0 6-0,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,R16,123,239,1,3,,Caroline Dolehide,Louisa Chirico,6-4 6-4,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,R32,123,,1,3,Q,Caroline Dolehide,Yuliia Starodubtseva,6-4 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,SF,123,155,0,5,6,Ashlyn Krueger,Caroline Dolehide,6-4 7-5,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,QF,123,265,1,5,Q,Caroline Dolehide,Renata Zarazua,6-3 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R16,123,197,1,5,,Caroline Dolehide,Marcela Zacarias,6-0 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R32,123,353,1,5,JE,Caroline Dolehide,Liv Hovde,3-6 6-4 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,SF,152,89,0,7,1,Peyton Stearns,Caroline Dolehide,6-2 7-5,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,QF,152,114,1,7,4,Caroline Dolehide,Nao Hibino,6-2 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,R16,152,310,1,7,Q,Caroline Dolehide,Taylor Ng,7-5 3-6 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,R32,152,269,1,7,WC,Caroline Dolehide,Whitney Osuigwe,7-6(1) 6-0,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,F,152,248,1,5,,Caroline Dolehide,Hailey Baptiste,6-4 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,SF,152,219,1,5,,Caroline Dolehide,Gabriela Lee,6-2 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,QF,152,120,1,5,1,Caroline Dolehide,Emma Navarro,6-2 3-6 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,R16,152,245,1,5,,Caroline Dolehide,Sophie Chang,6-3 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Boca Raton FL,3,Clay,R32,152,256,1,5,,Caroline Dolehide,Gabriela Ce,6-1 6-0,,,,,,,,,,,,,,
+3-Apr-2023,Charleston,3,Clay,R16,172,5,0,WC,2,Ons Jabeur,Caroline Dolehide,6-3 7-5,0.73,1.4%,2.9%,71.4%,58.0%,40.0%,44.4% (4/9),44.5%,34.5%,3.4%,34.3%,34.8%,50.0% (3/6),1:21
+3-Apr-2023,Charleston,3,Clay,R32,172,60,1,WC,,Caroline Dolehide,Linda Fruhvirtova,6-2 5-7 6-3,1.18,7.5%,7.5%,59.1%,67.3%,47.4%,58.3% (7/12),53.2%,48.1%,6.5%,39.2%,67.6%,44.4% (8/18),2:29
+3-Apr-2023,Charleston,3,Clay,R64,172,305,1,WC,Q,Caroline Dolehide,Sabine Lisicki,6-4 6-4,1.16,6.1%,3.0%,71.2%,70.2%,42.1%,80.0% (8/10),53.6%,44.1%,3.4%,44.1%,44.0%,44.4% (4/9),1:18
+6-Mar-2023,Indian Wells,3,Hard,Q2,167,103,0,WC,10,Rebecca Peterson,Caroline Dolehide,7-5 7-6(2),0.90,3.9%,3.9%,65.0%,62.7%,36.1%,70.6% (12/17),48.1%,41.9%,4.7%,25.0%,59.5%,44.4% (4/9),2:17
+6-Mar-2023,Indian Wells,3,Hard,Q1,167,109,1,WC,16,Caroline Dolehide,Harriet Dart,6-1 6-2,1.98,0.0%,0.0%,72.1%,71.0%,75.0%,0.0% (0/1),63.3%,55.3%,0.0%,51.9%,60.0%,45.5% (5/11),1:08
+27-Feb-2023,Monterrey,3,Hard,QF,206,41,0,Q,5,Lin Zhu,Caroline Dolehide,6-3 6-2,0.57,8.9%,3.6%,64.3%,66.7%,30.0%,42.9% (3/7),41.0%,26.5%,0.0%,18.9%,50.0%,0.0% (0/1),1:16
+27-Feb-2023,Monterrey,3,Hard,R16,206,100,1,Q,,Caroline Dolehide,Anna Karolina Schmiedlova,6-2 6-4,1.49,6.9%,1.7%,70.7%,80.5%,47.1%,100.0% (2/2),57.5%,43.6%,7.3%,37.5%,52.2%,42.9% (3/7),1:17
+27-Feb-2023,Monterrey,3,Hard,R32,206,69,1,Q,,Caroline Dolehide,Jule Niemeier,6-1 6-0,2.30,5.9%,0.0%,79.4%,81.5%,42.9%,100.0% (3/3),66.3%,60.9%,0.0%,40.0%,85.7%,60.0% (6/10),0:51
+27-Feb-2023,Monterrey,3,Hard,Q2,206,183,1,,,Caroline Dolehide,Marcela Zacarias,6-4 7-5,1.12,5.3%,5.3%,72.0%,64.8%,23.8%,50.0% (4/8),52.9%,52.4%,0.0%,43.5%,80.0%,60.0% (6/10),1:52
+27-Feb-2023,Monterrey,3,Hard,Q1,206,102,1,,3,Caroline Dolehide,Laura Pigossi,6-2 6-4,1.38,6.7%,1.7%,76.7%,73.9%,57.1%,100.0% (4/4),55.2%,41.5%,0.0%,43.5%,36.8%,30.0% (3/10),1:22
+20-Feb-2023,Merida,3,Hard,Q1,183,100,0,WC,3,Lesia Tsurenko,Caroline Dolehide,6-2 6-4,0.77,3.1%,1.6%,67.2%,53.5%,57.1%,50.0% (3/6),44.4%,34.8%,0.0%,27.5%,55.6%,0.0% (0/4),1:29
+6-Feb-2023,W60 Orlando FL,3,Hard,QF,188,145,0,7,3,Rebecca Peterson,Caroline Dolehide,6-4 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W60 Orlando FL,3,Hard,R16,188,179,1,7,,Caroline Dolehide,Petra Marcinko,6-3 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W60 Orlando FL,3,Hard,R32,188,238,1,7,,Caroline Dolehide,Sophie Chang,7-6(4) 6-0,,,,,,,,,,,,,,
+30-Jan-2023,Cali 125,3,Clay,R32,168,216,0,5,Q,Carolina Alves,Caroline Dolehide,7-6(5) 3-6 7-6(4),1.02,5.1%,5.1%,70.1%,65.9%,42.9%,58.3% (7/12),50.2%,41.7%,0.0%,35.2%,51.0%,46.2% (6/13),2:49
+16-Jan-2023,Australian Open,5,Hard,Q1,149,120,0,,30,Katie Boulter,Caroline Dolehide,6-2 3-6 7-6(5),0.89,6.2%,3.1%,69.1%,67.2%,60.0%,66.7% (4/6),48.2%,31.3%,3.1%,25.0%,43.8%,20.0% (1/5),2:10
+2-Jan-2023,Auckland,3,Hard,Q1,150,100,0,,2,Varvara Gracheva,Caroline Dolehide,7-5 5-7 6-2,0.90,3.8%,0.9%,67.9%,58.3%,52.9%,33.3% (3/9),48.5%,38.9%,3.3%,38.7%,39.3%,50.0% (4/8),2:10
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,147,125,0,,,Leolia Jeanjean,Caroline Dolehide,2-6 7-6(2) 6-3,1.05,2.3%,4.7%,69.8%,61.7%,42.3%,28.6% (2/7),50.5%,46.5%,5.3%,38.1%,56.9%,45.5% (5/11),2:25
+7-Nov-2022,Colina 125,3,Clay,SF,172,63,0,,1,Mayar Sherif,Caroline Dolehide,7-6(6) 4-6 7-6(3),0.89,1.4%,2.1%,85.2%,57.0%,42.9%,73.3% (11/15),48.3%,40.3%,1.7%,37.2%,48.5%,33.3% (5/15),2:59
+7-Nov-2022,Colina 125,3,Clay,QF,172,84,1,,3,Caroline Dolehide,Julia Grabher,6-2 6-1,2.30,0.0%,0.0%,91.4%,71.9%,66.7%,0.0% (0/1),68.4%,65.9%,0.0%,60.0%,75.0%,85.7% (6/7),0:49
+7-Nov-2022,Colina 125,3,Clay,R16,172,377,1,,SR,Caroline Dolehide,Emiliana Arango,6-4 6-4,1.20,0.0%,5.7%,87.1%,59.0%,44.4%,66.7% (6/9),54.2%,51.4%,1.4%,45.1%,65.2%,50.0% (5/10),1:33
+7-Nov-2022,Colina 125,3,Clay,R32,172,115,1,,6,Caroline Dolehide,Su Jeong Jang,6-2 6-2,1.91,2.1%,0.0%,93.6%,75.0%,33.3%,80.0% (4/5),62.0%,52.8%,0.0%,51.2%,60.0%,62.5% (5/8),1:10
+24-Oct-2022,W80 Tyler TX,3,Hard,R32,160,172,0,,8,Maria Lourdes Carle,Caroline Dolehide,0-6 6-2 7-5,,,,,,,,,,,,,,
 17-Oct-2022,Guadalajara 2,3,Hard,R64,175,16,0,Q,14,Danielle Collins,Caroline Dolehide,6-4 6-1,0.64,4.7%,6.3%,64.1%,58.5%,34.8%,69.2% (9/13),41.7%,32.1%,3.6%,18.5%,44.8%,25.0% (1/4),1:13
 17-Oct-2022,Guadalajara 2,3,Hard,Q2,175,181,1,,16,Caroline Dolehide,Carolina Alves,6-4 6-2,1.65,1.8%,3.6%,80.4%,66.7%,81.8%,87.5% (7/8),59.6%,50.0%,1.7%,45.7%,56.5%,40.0% (4/10),1:07
 17-Oct-2022,Guadalajara 2,3,Hard,Q1,175,124,1,,7,Caroline Dolehide,Alycia Parks,6-4 3-6 6-4,1.36,3.8%,1.3%,60.8%,75.0%,74.2%,75.0% (3/4),52.2%,34.3%,10.1%,18.6%,57.5%,28.6% (2/7),1:57
@@ -12,17 +105,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Aug-2022,W100 Landisville PA,3,Hard,QF,144,247,0,,,Na Lae Han,Caroline Dolehide,6-4 7-6(3),,,,,,,,,,,,,,
 8-Aug-2022,W100 Landisville PA,3,Hard,R16,144,1162,1,,Q,Caroline Dolehide,Hibah Shaikh,6-4 6-3,,,,,,,,,,,,,,
 8-Aug-2022,W100 Landisville PA,3,Hard,R32,144,,1,,Q,Caroline Dolehide,Hiroko Kuwata,6-1 5-7 7-5,,,,,,,,,,,,,,
-1-Aug-2022,San Jose,3,Hard,R16,168,6,0,LL,4,Aryna Sabalenka,Caroline Dolehide,5-7 6-1 7-5 (ch),0.93,0.0%,11.3%,62.9%,60.7%,38.9%,58.8% (10/17),47.9%,44.3%,4.1%,25.8%,63.3%,35.7% (5/14),2:37
+1-Aug-2022,San Jose,3,Hard,R16,168,6,0,LL,4,Aryna Sabalenka,Caroline Dolehide,5-7 6-1 7-5,0.93,0.0%,11.3%,62.9%,60.7%,38.9%,58.8% (10/17),47.9%,44.3%,4.1%,25.8%,63.3%,35.7% (5/14),2:37
 1-Aug-2022,San Jose,3,Hard,R32,168,230,1,LL,Q,Caroline Dolehide,Kayla Day,7-6(5) 6-4,1.06,7.2%,8.4%,62.7%,69.2%,51.6%,50.0% (2/4),51.2%,39.8%,3.6%,30.9%,57.1%,30.0% (3/10),1:59
-1-Aug-2022,San Jose,3,Hard,Q2,168,279,0,5,,Storm Sanders,Caroline Dolehide,6-4 6-1,0.76,7.5%,7.5%,54.7%,65.5%,25.0%,57.1% (8/14),43.9%,40.0%,2.2%,26.9%,57.9%,66.7% (2/3),1:20
+1-Aug-2022,San Jose,3,Hard,Q2,168,279,0,5,,Storm Hunter,Caroline Dolehide,6-4 6-1,0.76,7.5%,7.5%,54.7%,65.5%,25.0%,57.1% (8/14),43.9%,40.0%,2.2%,26.9%,57.9%,66.7% (2/3),1:20
 1-Aug-2022,San Jose,3,Hard,Q1,168,254,1,5,,Caroline Dolehide,Francesca Di Lorenzo,6-3 6-4,1.37,3.2%,11.1%,71.4%,75.6%,27.8%,60.0% (3/5),56.9%,52.2%,1.5%,48.9%,59.1%,55.6% (5/9),1:32
 18-Jul-2022,W60 Evansville IN,3,Hard,R32,162,314,0,3,,Ashlyn Krueger,Caroline Dolehide,6-4 6-4,,,,,,,,,,,,,,
 27-Jun-2022,W100 Charleston SC,3,Clay,R16,173,323,0,4,,Elizabeth Mandlik,Caroline Dolehide,4-6 6-3 6-3,,,,,,,,,,,,,,
 27-Jun-2022,W100 Charleston SC,3,Clay,R32,173,400,1,4,,Caroline Dolehide,Ellie Halbauer,6-2 3-6 6-4,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,R32,176,98,0,,1,Dalma Galfi,Caroline Dolehide,6-3 6-4,,,,,,,,,,,,,,
 6-Jun-2022,Nottingham,3,Grass,Q1,171,267,0,11,,Jana Fett,Caroline Dolehide,6-2 6-4,0.68,4.5%,3.0%,68.2%,64.4%,33.3%,66.7% (6/9),42.7%,30.8%,6.2%,35.1%,25.0%,0.0% (0/4),1:24
-23-May-2022,Roland Garros,5,Clay,Q2,171,223,0,,,Seone Mendez,Caroline Dolehide,7-6(7) 7-5,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,171,138,1,,32,Caroline Dolehide,Elina Avanesyan,7-6(2) 4-6 7-5,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,171,223,0,,,Seone Mendez,Caroline Dolehide,7-6(7) 7-5,0.92,0.0%,11.3%,70.0%,66.1%,41.7%,50.0% (3/6),48.2%,38.1%,6.0%,27.8%,56.7%,18.2% (2/11),
+23-May-2022,Roland Garros,5,Clay,Q1,171,138,1,,32,Caroline Dolehide,Elina Avanesyan,7-6(2) 4-6 7-5,1.08,1.7%,6.8%,86.3%,61.4%,18.8%,64.7% (11/17),51.7%,48.0%,0.0%,48.1%,46.7%,42.9% (6/14),
 2-May-2022,W100 Bonita Springs FL,3,Clay,R16,173,121,0,,3,Katie Volynets,Caroline Dolehide,6-2 1-6 7-6(7),,,,,,,,,,,,,,
 2-May-2022,W100 Bonita Springs FL,3,Clay,R32,173,260,1,,,Caroline Dolehide,Allie Kiick,6-2 4-6 6-1,,,,,,,,,,,,,,
 25-Apr-2022,W100 Charleston SC,3,Clay,R16,173,123,0,,5,Xiyu Wang,Caroline Dolehide,3-6 6-4 6-1,,,,,,,,,,,,,,
@@ -43,10 +136,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Jan-2022,W60 Rome GA,3,Hard,QF,191,708,1,,Q,Caroline Dolehide,Katarina Jokic,2-6 6-0 6-1,,,,,,,,,,,,,,
 31-Jan-2022,W60 Rome GA,3,Hard,R16,191,149,1,,,Caroline Dolehide,Christina Mchale,6-3 3-6 6-3,,,,,,,,,,,,,,
 31-Jan-2022,W60 Rome GA,3,Hard,R32,191,170,1,,5,Caroline Dolehide,Coco Vandeweghe,4-0 RET,,,,,,,,,,,,,,
-17-Jan-2022,Australian Open,5,Hard,R128,200,30,0,Q,27,Danielle Collins,Caroline Dolehide,6-1 6-3 (ch),0.57,1.9%,5.7%,62.3%,57.6%,25.0%,44.4% (4/9),38.5%,31.4%,5.9%,28.1%,36.8%,16.7% (1/6),1:06
+17-Jan-2022,Australian Open,5,Hard,R128,200,30,0,Q,27,Danielle Collins,Caroline Dolehide,6-1 6-3,0.57,1.9%,5.7%,62.3%,57.6%,25.0%,44.4% (4/9),38.5%,31.4%,5.9%,28.1%,36.8%,16.7% (1/6),1:06
 17-Jan-2022,Australian Open,5,Hard,Q3,200,185,1,,,Caroline Dolehide,Julia Grabher,7-6(5) 6-2,1.32,4.3%,5.8%,66.7%,67.4%,65.2%,80.0% (4/5),54.8%,44.2%,2.6%,35.2%,65.2%,60.0% (3/5),1:38
 17-Jan-2022,Australian Open,5,Hard,Q2,200,248,1,,,Caroline Dolehide,Xiaodi You,6-3 6-2,1.69,2.2%,2.2%,60.0%,70.4%,66.7%,75.0% (3/4),59.4%,52.5%,4.9%,41.7%,68.0%,62.5% (5/8),1:26
-17-Jan-2022,Australian Open,5,Hard,Q1,200,183,1,,,Caroline Dolehide,Yuliya Hatouka,6-4 6-2 (ch),1.92,16.3%,2.0%,75.5%,83.8%,58.3%,- (0/0),58.9%,43.1%,5.2%,35.1%,57.1%,42.9% (3/7),1:04
+17-Jan-2022,Australian Open,5,Hard,Q1,200,183,1,,,Caroline Dolehide,Yuliya Hatouka,6-4 6-2,1.92,16.3%,2.0%,75.5%,83.8%,58.3%,- (0/0),58.9%,43.1%,5.2%,35.1%,57.1%,42.9% (3/7),1:04
 18-Oct-2021,W80 Macon GA,3,Hard,R16,190,272,0,,WC,Catherine Harrison,Caroline Dolehide,7-5 6-1,,,,,,,,,,,,,,
 18-Oct-2021,W80 Macon GA,3,Hard,R32,190,179,1,,,Caroline Dolehide,Kurumi Nara,7-6(2) 6-4,,,,,,,,,,,,,,
 11-Oct-2021,W60 Rancho Santa Fe CA,3,Hard,R32,201,83,0,,2,Fiona Ferro,Caroline Dolehide,6-2 5-7 6-2,,,,,,,,,,,,,,
@@ -57,7 +150,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Aug-2021,US Open,5,Hard,Q3,188,145,0,,29,Olga Danilovic,Caroline Dolehide,6-4 0-6 6-2,0.97,4.7%,2.4%,63.5%,66.7%,38.7%,73.3% (11/15),50.3%,42.4%,7.6%,26.1%,80.0%,57.1% (4/7),1:44
 30-Aug-2021,US Open,5,Hard,Q2,188,460,1,,WC,Caroline Dolehide,Victoria Duval,5-7 6-4 6-3,1.08,7.4%,4.2%,65.3%,69.4%,57.6%,62.5% (5/8),51.9%,37.5%,1.1%,34.4%,45.8%,80.0% (4/5),2:07
 30-Aug-2021,US Open,5,Hard,Q1,188,118,1,,13,Caroline Dolehide,Irina Bara,6-4 6-1,1.34,5.6%,4.2%,70.4%,62.0%,52.4%,75.0% (6/8),57.0%,54.7%,1.6%,48.9%,68.4%,41.7% (5/12),1:27
-16-Aug-2021,Chicago 125,3,Hard,R32,185,136,0,Q,,Storm Sanders,Caroline Dolehide,6-3 4-6 6-2,0.75,1.4%,7.2%,71.0%,67.3%,40.0%,42.9% (3/7),44.1%,30.3%,5.3%,34.8%,23.3%,40.0% (2/5),1:41
+16-Aug-2021,Chicago 125,3,Hard,R32,185,136,0,Q,,Storm Hunter,Caroline Dolehide,6-3 4-6 6-2,0.75,1.4%,7.2%,71.0%,67.3%,40.0%,42.9% (3/7),44.1%,30.3%,5.3%,34.8%,23.3%,40.0% (2/5),1:41
 9-Aug-2021,W100 Landisville PA,3,Hard,R32,171,215,0,,Q,Mayo Hibi,Caroline Dolehide,6-4 6-4,,,,,,,,,,,,,,
 2-Aug-2021,Concord,3,Hard,R16,171,372,0,,WC,Katrina Scott,Caroline Dolehide,1-6 6-0 7-5,0.74,2.0%,3.1%,68.4%,65.7%,25.8%,50.0% (5/10),45.7%,34.8%,1.5%,28.3%,50.0%,75.0% (3/4),2:04
 2-Aug-2021,Concord,3,Hard,R32,171,218,1,,Q,Caroline Dolehide,Robin Anderson,6-3 6-4,1.25,5.6%,5.6%,72.2%,67.3%,55.0%,85.7% (6/7),55.2%,45.2%,8.1%,41.4%,48.5%,33.3% (4/12),1:28
@@ -69,10 +162,10 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-May-2021,W100 Charleston SC,3,Clay,R32,161,401,0,,Q,Aldila Sutjiadi,Caroline Dolehide,6-1 2-6 6-4,,,,,,,,,,,,,,
 12-Apr-2021,Charleston 2,3,Clay,Q1,156,203,0,5,ALT,Grace Min,Caroline Dolehide,7-6(4) 2-6 7-5,1.09,4.8%,5.7%,78.1%,69.5%,56.5%,77.8% (7/9),51.4%,36.2%,0.0%,39.1%,30.6%,33.3% (3/9),2:17
 5-Apr-2021,Charleston 1,3,Clay,R64,155,216,0,LL,WC,Hailey Baptiste,Caroline Dolehide,6-3 6-3,0.70,0.0%,12.3%,55.4%,55.6%,34.5%,33.3% (3/9),42.4%,37.7%,3.8%,24.1%,54.2%,75.0% (3/4),1:17
-5-Apr-2021,Charleston 1,3,Clay,Q2,155,187,0,5,11,Storm Sanders,Caroline Dolehide,2-6 6-4 7-6(4),0.91,2.6%,5.2%,74.1%,68.6%,43.3%,84.6% (11/13),49.3%,34.3%,3.0%,28.1%,42.9%,50.0% (3/6),2:16
+5-Apr-2021,Charleston 1,3,Clay,Q2,155,187,0,5,11,Storm Hunter,Caroline Dolehide,2-6 6-4 7-6(4),0.91,2.6%,5.2%,74.1%,68.6%,43.3%,84.6% (11/13),49.3%,34.3%,3.0%,28.1%,42.9%,50.0% (3/6),2:16
 5-Apr-2021,Charleston 1,3,Clay,Q1,155,315,1,5,,Caroline Dolehide,Mirjam Bjorklund,6-4 6-3,1.22,0.0%,6.3%,82.8%,60.4%,45.5%,57.1% (4/7),54.5%,51.5%,1.5%,44.7%,66.7%,45.5% (5/11),1:26
 22-Mar-2021,Miami,3,Hard,Q1,157,108,0,,12,Timea Babos,Caroline Dolehide,4-6 6-2 6-2,0.84,2.1%,9.3%,62.9%,57.4%,38.9%,57.1% (8/14),45.9%,41.4%,3.0%,29.4%,54.2%,33.3% (3/9),2:13
-15-Mar-2021,Monterrey,3,Hard,R32,155,104,0,WC,,Viktoria Kuzmova,Caroline Dolehide,6-3 6-1,0.72,4.8%,4.8%,61.9%,57.7%,50.0%,33.3% (2/6),42.3%,32.7%,9.1%,23.3%,44.0%,0.0% (0/2),1:06
+15-Mar-2021,Monterrey,3,Hard,R32,155,104,0,WC,,Viktoria Hruncakova,Caroline Dolehide,6-3 6-1,0.72,4.8%,4.8%,61.9%,57.7%,50.0%,33.3% (2/6),42.3%,32.7%,9.1%,23.3%,44.0%,0.0% (0/2),1:06
 8-Mar-2021,Guadalajara,3,Hard,R32,154,144,0,Q,WC,Eugenie Bouchard,Caroline Dolehide,3-6 6-1 6-3,0.81,1.3%,8.9%,68.4%,48.1%,48.0%,46.2% (6/13),45.1%,41.9%,0.0%,29.5%,60.0%,80.0% (4/5),1:44
 8-Mar-2021,Guadalajara,3,Hard,Q2,154,139,1,9,6,Caroline Dolehide,Olga Govortsova,7-6(4) 5-7 7-6(2),1.08,0.8%,8.1%,78.0%,62.5%,37.0%,30.0% (3/10),51.6%,46.4%,0.0%,39.3%,61.0%,40.0% (6/15),2:40
 8-Mar-2021,Guadalajara,3,Hard,Q1,154,229,1,9,,Caroline Dolehide,Ellen Perez,6-3 5-7 6-4,0.99,0.0%,4.7%,71.0%,69.7%,54.8%,75.0% (6/8),51.3%,34.1%,4.5%,28.3%,40.5%,50.0% (3/6),1:55
@@ -90,7 +183,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Aug-2020,US Open,5,Hard,R128,135,109,0,,,Anna Lena Friedsam,Caroline Dolehide,6-2 6-2,0.60,4.5%,12.1%,62.1%,61.0%,24.0%,66.7% (10/15),40.7%,31.9%,4.3%,24.2%,50.0%,100.0% (1/1),1:13
 24-Aug-2020,Cincinnati,3,Hard,Q2,136,67,0,WC,5,Laura Siegemund,Caroline Dolehide,6-3 6-3,0.81,2.9%,10.3%,58.8%,57.5%,42.9%,63.6% (7/11),45.3%,39.4%,1.4%,26.7%,61.5%,14.3% (1/7),1:39
 24-Aug-2020,Cincinnati,3,Hard,Q1,136,96,1,WC,23,Caroline Dolehide,Jasmine Paolini,6-3 2-6 6-4,1.01,6.3%,6.3%,71.3%,57.9%,56.5%,28.6% (2/7),50.3%,43.0%,2.5%,46.2%,40.0%,50.0% (5/10),1:36
-10-Aug-2020,Lexington,3,Hard,R32,134,53,0,Q,,Cori Gauff,Caroline Dolehide,7-5 7-5,0.82,2.8%,7.0%,69.0%,59.2%,50.0%,33.3% (2/6),45.9%,36.0%,10.7%,19.5%,55.9%,28.6% (2/7),1:42
+10-Aug-2020,Lexington,3,Hard,R32,134,53,0,Q,,Coco Gauff,Caroline Dolehide,7-5 7-5,0.82,2.8%,7.0%,69.0%,59.2%,50.0%,33.3% (2/6),45.9%,36.0%,10.7%,19.5%,55.9%,28.6% (2/7),1:42
 10-Aug-2020,Lexington,3,Hard,Q2,134,277,1,7,WC,Caroline Dolehide,Jamie Loeb,6-2 7-5,1.33,1.4%,2.9%,72.9%,58.8%,68.4%,71.4% (5/7),56.3%,51.4%,5.6%,42.1%,61.8%,83.3% (5/6),1:31
 10-Aug-2020,Lexington,3,Hard,Q1,134,349,1,7,,Caroline Dolehide,Kateryna Bondarenko,6-3 4-6 6-2,1.27,7.7%,7.7%,61.5%,66.1%,57.1%,72.7% (8/11),54.9%,47.3%,0.0%,36.8%,63.9%,41.7% (5/12),1:54
 2-Mar-2020,Monterrey,3,Hard,R32,131,142,0,LL,Q,Olga Govortsova,Caroline Dolehide,3-6 6-2 6-1,0.76,6.7%,12.0%,54.7%,63.4%,38.2%,54.5% (6/11),43.9%,36.3%,0.0%,30.6%,55.6%,25.0% (2/8),1:39
@@ -127,7 +220,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Aug-2019,US Open,5,Hard,Q3,214,232,1,,,Caroline Dolehide,Anna Lena Friedsam,6-4 6-3,1.45,8.2%,3.3%,63.9%,79.5%,59.1%,100.0% (4/4),54.9%,40.3%,1.4%,37.5%,45.8%,22.2% (2/9),1:28
 26-Aug-2019,US Open,5,Hard,Q2,214,166,1,,,Caroline Dolehide,Zoe Hives,6-1 7-6(2),1.54,6.5%,8.1%,69.4%,76.7%,52.6%,66.7% (2/3),57.7%,47.1%,0.0%,43.1%,58.8%,42.9% (3/7),1:28
 26-Aug-2019,US Open,5,Hard,Q1,214,299,1,,,Caroline Dolehide,Shelby Rogers,7-6(3) 1-0 RE,1.28,0.0%,7.5%,65.0%,65.4%,50.0%,33.3% (1/3),55.2%,51.1%,6.4%,51.4%,50.0%,75.0% (3/4),1:02
-12-Aug-2019,W60 Concord MA,3,Hard,F,283,178,1,WC,,Caroline Dolehide,Ann Li,6-3 7-5 (ch),,,,,,,,,,,,,,
+12-Aug-2019,W60 Concord MA,3,Hard,F,283,178,1,WC,,Caroline Dolehide,Ann Li,6-3 7-5,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,SF,283,202,1,WC,Q,Caroline Dolehide,Olga Govortsova,7-6(2) 6-4,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,QF,283,141,1,WC,5,Caroline Dolehide,Ana Bogdan,6-4 6-3,,,,,,,,,,,,,,
 12-Aug-2019,W60 Concord MA,3,Hard,R16,283,129,1,WC,,Caroline Dolehide,Lin Zhu,6-1 6-1,,,,,,,,,,,,,,
@@ -175,7 +268,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Oct-2018,Beijing,3,Hard,Q1,133,73,0,,11,Lara Arruabarrena,Caroline Dolehide,4-6 6-4 6-4,0.86,1.9%,6.5%,60.7%,66.2%,38.1%,54.5% (6/11),47.5%,38.5%,1.1%,40.6%,31.8%,50.0% (4/8),2:10
 24-Sep-2018,Wuhan,3,Hard,Q1,133,73,0,,10,Marketa Vondrousova,Caroline Dolehide,3-6 6-1 6-1,0.74,3.9%,6.6%,69.7%,50.9%,34.8%,41.7% (5/12),43.2%,39.7%,4.8%,28.2%,58.3%,50.0% (3/6),1:31
 27-Aug-2018,US Open,5,Hard,R128,119,101,0,,,Carina Witthoeft,Caroline Dolehide,6-3 7-6(6),0.81,1.4%,2.7%,72.6%,64.2%,40.0%,57.1% (4/7),46.4%,34.3%,1.5%,24.4%,50.0%,100.0% (2/2),1:29
-13-Aug-2018,Cincinnati,3,Hard,Q1,122,56,0,WC,13,Viktoria Kuzmova,Caroline Dolehide,6-4 6-4,0.55,1.7%,3.3%,55.0%,75.8%,51.9%,80.0% (8/10),43.8%,19.2%,7.7%,16.1%,23.8%,- (0/0),1:31
+13-Aug-2018,Cincinnati,3,Hard,Q1,122,56,0,WC,13,Viktoria Hruncakova,Caroline Dolehide,6-4 6-4,0.55,1.7%,3.3%,55.0%,75.8%,51.9%,80.0% (8/10),43.8%,19.2%,7.7%,16.1%,23.8%,- (0/0),1:31
 6-Aug-2018,Montreal,3,Hard,R64,124,14,0,Q,13,Venus Williams,Caroline Dolehide,7-5 6-1,0.58,4.8%,8.1%,66.1%,58.5%,33.3%,60.0% (6/10),40.4%,28.8%,0.0%,14.8%,44.0%,100.0% (1/1),1:17
 6-Aug-2018,Montreal,3,Hard,Q2,124,70,1,,10,Caroline Dolehide,Monica Puig,6-3 4-6 6-3,1.12,7.8%,4.9%,58.8%,71.7%,50.0%,84.6% (11/13),52.2%,41.7%,4.9%,42.4%,40.5%,28.6% (4/14),2:08
 6-Aug-2018,Montreal,3,Hard,Q1,124,94,1,,23,Caroline Dolehide,Yanina Wickmayer,6-3 6-4,1.49,9.1%,0.0%,78.2%,72.1%,75.0%,75.0% (3/4),56.9%,40.7%,0.0%,40.0%,42.1%,75.0% (3/4),1:04
@@ -204,7 +297,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Apr-2018,Charleston,3,Clay,R64,142,73,1,Q,,Caroline Dolehide,Johanna Larsson,5-7 6-0 6-4,1.20,5.2%,9.4%,51.0%,75.5%,46.8%,75.0% (9/12),53.5%,46.1%,3.9%,42.4%,51.2%,37.5% (6/16),2:15
 2-Apr-2018,Charleston,3,Clay,Q2,142,172,1,5,10,Caroline Dolehide,Misaki Doi,7-6(7) 6-3,1.31,13.2%,3.9%,50.0%,68.4%,71.1%,83.3% (5/6),55.0%,39.7%,2.7%,31.4%,59.1%,66.7% (2/3),1:47
 2-Apr-2018,Charleston,3,Clay,Q1,142,265,1,5,,Caroline Dolehide,Maria Sanchez,6-3 7-6(5),1.12,5.5%,6.8%,61.6%,73.3%,46.4%,71.4% (5/7),52.0%,41.6%,3.9%,35.6%,50.0%,37.5% (3/8),1:49
-5-Mar-2018,Indian Wells,3,Hard,R32,165,1,0,WC,1,Simona Halep,Caroline Dolehide,1-6 7-6(3) 6-2 (ch),0.99,2.0%,3.9%,64.7%,60.6%,50.0%,58.3% (7/12),50.0%,42.6%,2.1%,35.9%,56.7%,35.7% (5/14),2:05
+5-Mar-2018,Indian Wells,3,Hard,R32,165,1,0,WC,1,Simona Halep,Caroline Dolehide,1-6 7-6(3) 6-2,0.99,2.0%,3.9%,64.7%,60.6%,50.0%,58.3% (7/12),50.0%,42.6%,2.1%,35.9%,56.7%,35.7% (5/14),2:05
 5-Mar-2018,Indian Wells,3,Hard,R64,165,30,1,WC,30,Caroline Dolehide,Dominika Cibulkova,5-7 6-3 6-4,1.07,9.0%,4.0%,62.0%,69.4%,44.7%,66.7% (8/12),51.5%,42.7%,2.1%,41.4%,44.7%,45.5% (5/11),2:20
 5-Mar-2018,Indian Wells,3,Hard,R128,165,78,1,WC,,Caroline Dolehide,Shelby Rogers,3-6 7-6(6) 6-3,1.11,11.2%,3.1%,61.2%,65.0%,63.2%,42.9% (3/7),51.7%,39.8%,4.9%,33.3%,47.8%,37.5% (3/8),2:34
 26-Feb-2018,Indian Wells 125K,3,Hard,QF,173,175,0,WC,Q,Amanda Anisimova,Caroline Dolehide,6-3 6-3,0.75,1.8%,3.6%,56.4%,58.1%,37.5%,16.7% (1/6),43.8%,38.0%,4.0%,31.7%,66.7%,50.0% (2/4),1:04
@@ -215,7 +308,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Feb-2018,Surprise AZ $25K,3,Hard,R32,154,254,0,6,,Usue Maitane Arconada,Caroline Dolehide,7-6(6) 6-4,,,,,,,,,,,,,,
 22-Jan-2018,Newport Beach,3,Hard,Q2,153,217,0,1,9,Elitsa Kostova,Caroline Dolehide,6-4 6-4,0.79,1.5%,10.6%,59.1%,56.4%,44.4%,42.9% (3/7),44.4%,38.5%,1.3%,34.6%,46.2%,22.2% (2/9),1:33
 22-Jan-2018,Newport Beach,3,Hard,Q1,153,305,1,1,,Caroline Dolehide,Ashley Kratzer,2-6 6-3 6-4,1.14,7.5%,6.3%,62.5%,64.0%,53.3%,42.9% (3/7),52.8%,45.6%,2.5%,43.4%,50.0%,100.0% (5/5),2:00
-15-Jan-2018,Australian Open,5,Hard,Q2,153,125,0,,16,Viktoria Kuzmova,Caroline Dolehide,6-2 6-4,0.57,10.5%,5.3%,63.2%,75.0%,23.8%,57.1% (4/7),41.3%,25.0%,7.7%,11.5%,38.5%,0.0% (0/1),1:04
+15-Jan-2018,Australian Open,5,Hard,Q2,153,125,0,,16,Viktoria Hruncakova,Caroline Dolehide,6-2 6-4,0.57,10.5%,5.3%,63.2%,75.0%,23.8%,57.1% (4/7),41.3%,25.0%,7.7%,11.5%,38.5%,0.0% (0/1),1:04
 15-Jan-2018,Australian Open,5,Hard,Q1,153,195,1,,,Caroline Dolehide,Conny Perrin,5-7 6-3 7-6(7),1.02,3.6%,2.7%,56.4%,67.7%,66.7%,60.0% (3/5),51.2%,33.3%,6.1%,26.6%,45.7%,50.0% (2/4),2:16
 1-Jan-2018,Brisbane,3,Hard,Q1,155,130,0,,,Irina Falconi,Caroline Dolehide,4-6 6-2 6-4,0.90,3.1%,5.1%,55.1%,55.6%,59.1%,63.6% (7/11),47.7%,38.4%,1.0%,30.4%,56.7%,25.0% (2/8),2:10
 16-Oct-2017,Luxembourg,3,Hard,Q1,150,111,0,,7,Ana Bogdan,Caroline Dolehide,6-2 4-6 6-4,0.80,5.1%,2.5%,72.2%,71.9%,27.3%,42.9% (3/7),45.9%,32.5%,3.8%,24.6%,52.2%,66.7% (2/3),1:48
@@ -249,7 +342,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Apr-2017,Charlottesville VA $60K,3,Clay,F,252,98,0,,1,Madison Brengle,Caroline Dolehide,6-4 6-3,,,,,,,,,,,,,,
 24-Apr-2017,Charlottesville VA $60K,3,Clay,SF,252,359,1,,WC,Caroline Dolehide,Ajla Tomljanovic,6-1 7-6(7),,,,,,,,,,,,,,
 24-Apr-2017,Charlottesville VA $60K,3,Clay,QF,252,324,1,,,Caroline Dolehide,Catalina Pella,6-4 4-6 6-4,,,,,,,,,,,,,,
-24-Apr-2017,Charlottesville VA $60K,3,Clay,R16,252,143,1,,2,Caroline Dolehide,Elitsa Kostova,6-1 6-3 (ch),,,,,,,,,,,,,,
+24-Apr-2017,Charlottesville VA $60K,3,Clay,R16,252,143,1,,2,Caroline Dolehide,Elitsa Kostova,6-1 6-3,,,,,,,,,,,,,,
 24-Apr-2017,Charlottesville VA $60K,3,Clay,R32,252,251,1,,,Caroline Dolehide,Usue Maitane Arconada,2-6 6-2 6-4,,,,,,,,,,,,,,
 10-Apr-2017,Indian Harbour Beach FL $80K,3,Clay,R32,252,322,0,,,Renata Zarazua,Caroline Dolehide,2-6 7-6(5) 7-5,,,,,,,,,,,,,,
 3-Apr-2017,Charleston,3,Clay,Q1,249,117,0,,7,Veronica Cepede Royg,Caroline Dolehide,6-3 6-3,0.66,4.0%,6.0%,58.0%,65.5%,33.3%,42.9% (3/7),41.3%,31.5%,1.9%,25.6%,46.7%,25.0% (1/4),1:09

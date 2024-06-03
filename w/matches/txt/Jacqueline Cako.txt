@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 9-Mar-2020,W25+H Irapuato,3,Hard,R32,749,126,0,Q,1,Astra Sharma,Jacqueline Cako,6-2 7-6(6),,,,,,,,,,,,,,
 9-Mar-2020,W25+H Irapuato,3,Hard,Q2,749,515,1,9,5,Jacqueline Cako,Pamela Montez,3-6 6-4 10-5,,,,,,,,,,,,,,
 2-Mar-2020,W25 Las Vegas NV,3,Hard,Q1,745,518,0,,13,Elizabeth Mandlik,Jacqueline Cako,6-3 6-3,,,,,,,,,,,,,,
@@ -122,7 +122,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Nov-2016,Honolulu,3,Hard,QF,329,93,1,,5,Jacqueline Cako,Sabine Lisicki,3-6 7-5 2-0 RET,1.05,1.6%,0.0%,68.3%,69.8%,30.0%,42.9% (3/7),50.0%,44.8%,3.4%,35.4%,56.4%,55.6% (5/9),
 21-Nov-2016,Honolulu,3,Hard,R16,329,200,1,,,Jacqueline Cako,Jamie Loeb,3-6 6-1 7-5,1.11,3.1%,1.0%,62.9%,63.9%,52.8%,69.2% (9/13),52.4%,44.4%,1.1%,45.5%,43.5%,66.7% (6/9),2:14
 21-Nov-2016,Honolulu,3,Hard,R32,329,75,1,,2,Jacqueline Cako,Nicole Gibbs,6-3 7-5,1.36,3.1%,1.5%,53.8%,80.0%,46.7%,75.0% (3/4),55.6%,48.1%,2.6%,40.4%,64.0%,66.7% (4/6),1:39
-14-Nov-2016,Shenzhen $100K,3,Hard,QF,371,135,0,,6,Lin Zhu,Jacqueline Cako,4-6 6-2 6-2 (ch),,,,,,,,,,,,,,
+14-Nov-2016,Shenzhen $100K,3,Hard,QF,371,135,0,,6,Lin Zhu,Jacqueline Cako,4-6 6-2 6-2,,,,,,,,,,,,,,
 14-Nov-2016,Shenzhen $100K,3,Hard,R16,371,427,1,,Q,Jacqueline Cako,Hanyu Guo,6-2 7-5,,,,,,,,,,,,,,
 14-Nov-2016,Shenzhen $100K,3,Hard,R32,371,102,1,,2,Jacqueline Cako,Ying Ying Duan,6-4 6-2,,,,,,,,,,,,,,
 31-Oct-2016,Chenzhou $25K,3,Hard,R32,351,211,0,,3,Veronika Kudermetova,Jacqueline Cako,6-0 6-4,,,,,,,,,,,,,,

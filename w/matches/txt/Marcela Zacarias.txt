@@ -1,4 +1,52 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,562,94,0,,,Daria Saville,Marcela Zacarias,6-1 6-0,0.29,0.0%,8.3%,66.7%,37.5%,41.7%,16.7% (1/6),28.6%,17.6%,8.8%,8.7%,36.4%,- (0/0),
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,562,136,0,,,Taylah Preston,Marcela Zacarias,6-1 6-1,0.58,0.0%,9.1%,75.0%,39.4%,27.3%,40.0% (4/10),36.6%,36.7%,6.1%,29.7%,58.3%,25.0% (1/4),
+16-Oct-2023,W80 Macon GA,3,Hard,R32,391,175,0,,,Yuliia Starodubtseva,Marcela Zacarias,6-3 6-1,,,,,,,,,,,,,,
+18-Sep-2023,W60 Berkeley CA,3,Hard,R32,230,402,0,7,,Victoria Mboko,Marcela Zacarias,6-2 6-2,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,236,125,0,,26,Emina Bektas,Marcela Zacarias,6-2 6-1,0.35,0.0%,8.7%,69.6%,46.9%,35.7%,33.3% (2/6),32.2%,19.5%,9.8%,14.3%,30.8%,0.0% (0/2),1:04
+7-Aug-2023,W100 Landisville,3,Hard,R32,200,105,0,,3,Caroline Dolehide,Marcela Zacarias,6-4 1-6 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R16,200,148,0,,5,Olivia Gadecki,Marcela Zacarias,6-4 3-6 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R32,200,607,1,,Q,Marcela Zacarias,Christina Rosca,6-1 6-7(0) 6-3,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,R32,196,338,0,4,,Ye Xin Ma,Marcela Zacarias,6-7(7) 6-1 6-2,,,,,,,,,,,,,,
+17-Jul-2023,W100 Granby,3,Hard,R32,192,405,0,8,,Cadence Brace,Marcela Zacarias,6-1 6-3,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,190,178,0,,,Chloe Paquet,Marcela Zacarias,7-5 6-0,0.73,0.0%,9.4%,71.9%,43.5%,27.8%,36.4% (4/11),41.9%,44.4%,5.6%,43.2%,46.4%,27.3% (3/11),1:42
+19-Jun-2023,Birmingham,3,Grass,Q2,196,150,0,,,Emina Bektas,Marcela Zacarias,6-3 6-0,0.52,0.0%,2.3%,74.4%,53.1%,36.4%,20.0% (1/5),37.5%,26.7%,8.9%,23.5%,36.4%,- (0/0),1:01
+19-Jun-2023,Birmingham,3,Grass,Q1,196,65,1,,3,Marcela Zacarias,Kamilla Rakhimova,6-1 6-2,1.73,4.3%,10.9%,65.2%,70.0%,37.5%,60.0% (3/5),64.8%,71.4%,4.8%,63.6%,80.0%,70.0% (7/10),1:03
+12-Jun-2023,Nottingham,3,Grass,Q1,194,381,0,11,WC,Eden Silva,Marcela Zacarias,6-2 1-6 6-1,0.88,1.3%,9.2%,64.5%,46.9%,22.2%,50.0% (9/18),46.4%,54.5%,0.0%,47.5%,62.2%,53.8% (7/13),2:01
+5-Jun-2023,W100 Surbiton,3,Grass,R32,188,372,0,,WC,Eden Silva,Marcela Zacarias,6-4 6-4,,,,,,,,,,,,,,
+29-May-2023,W60 Brescia,3,Clay,R32,188,771,0,4,Q,Tatiana Pieri,Marcela Zacarias,7-5 6-3,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,188,149,0,,21,Ylena In Albon,Marcela Zacarias,6-3 6-0,0.63,0.0%,5.4%,91.9%,44.1%,0.0%,54.5% (6/11),38.5%,37.3%,3.4%,36.2%,100.0%,20.0% (1/5),
+8-May-2023,W60 Naples FL,3,Clay,QF,190,,0,3,Q,Yuliia Starodubtseva,Marcela Zacarias,6-1 6-2,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,R16,190,764,1,3,Q,Marcela Zacarias,Maria Kononova,6-3 6-1,,,,,,,,,,,,,,
+8-May-2023,W60 Naples FL,3,Clay,R32,190,,1,3,WC,Marcela Zacarias,Sophia Cisse Ignatiev,6-2 6-0,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,QF,197,183,0,,7,Kayla Day,Marcela Zacarias,7-5 6-3,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,R16,197,228,1,,,Marcela Zacarias,Hailey Baptiste,7-5 RET,,,,,,,,,,,,,,
+1-May-2023,W100 Bonita Springs,3,Clay,R32,197,240,1,,,Marcela Zacarias,Gabriela Lee,6-4 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R16,197,123,0,,5,Caroline Dolehide,Marcela Zacarias,6-0 6-2,,,,,,,,,,,,,,
+24-Apr-2023,W60 Charlottesville VA,3,Clay,R32,197,263,1,,Q,Marcela Zacarias,Astra Sharma,6-3 6-7(3) 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W100 Charleston SC,3,Clay,R32,196,89,0,,1,Peyton Stearns,Marcela Zacarias,6-2 6-3,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup QLS R1: ESP vs MEX,3,Clay,RR,196,80,0,,,Nuria Parrizas Diaz,Marcela Zacarias,6-3 6-0,,,,,,,,,,,,,,
+3-Apr-2023,Charleston,3,Clay,Q1,194,275,0,,ALT,Hailey Baptiste,Marcela Zacarias,6-2 6-1,0.44,0.0%,0.0%,63.8%,53.3%,35.3%,42.9% (3/7),35.6%,23.3%,2.3%,14.3%,40.0%,0.0% (0/1),1:06
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,196,49,0,,1,Elisabetta Cocciaretto,Marcela Zacarias,6-3 6-0,0.52,0.0%,14.6%,68.3%,42.9%,15.4%,0.0% (0/6),34.1%,34.1%,0.0%,28.0%,42.1%,100.0% (2/2),1:10
+27-Feb-2023,Monterrey,3,Hard,Q2,183,206,0,,,Caroline Dolehide,Marcela Zacarias,6-4 7-5,0.89,0.0%,3.7%,75.6%,56.5%,20.0%,40.0% (4/10),47.1%,46.7%,5.3%,35.2%,76.2%,50.0% (4/8),1:52
+27-Feb-2023,Monterrey,3,Hard,Q1,183,417,1,,ALT,Marcela Zacarias,Andrea Gamiz,6-4 6-0,1.38,0.0%,5.3%,78.9%,62.2%,58.3%,83.3% (5/6),57.1%,53.2%,1.6%,47.6%,65.0%,55.6% (5/9),1:31
+13-Feb-2023,W60+H Irapuato,3,Hard,SF,208,114,0,,4,Kamilla Rakhimova,Marcela Zacarias,7-6(5) 7-6(5),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,QF,208,67,1,,1,Marcela Zacarias,Xin Yu Wang,6-4 7-6(7),,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,R16,208,310,1,,Q,Marcela Zacarias,Justina Mikulskyte,6-4 6-0,,,,,,,,,,,,,,
+13-Feb-2023,W60+H Irapuato,3,Hard,R32,208,438,1,,LL,Marcela Zacarias,Olivia Tjandramulia,7-5 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W60 Orlando FL,3,Hard,R16,212,157,0,,5,Kimberly Birrell,Marcela Zacarias,6-1 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W60 Orlando FL,3,Hard,R32,212,366,1,,WC,Marcela Zacarias,Hina Inoue,7-6(4) 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W60 Rome GA,3,Hard,QF,209,303,0,8,,Francesca Di Lorenzo,Marcela Zacarias,6-4 1-6 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W60 Rome GA,3,Hard,R16,209,835,1,8,Q,Marcela Zacarias,Sara Daavettila,6-2 7-5,,,,,,,,,,,,,,
+30-Jan-2023,W60 Rome GA,3,Hard,R32,209,246,1,8,,Marcela Zacarias,Arianne Hartono,6-4 6-1,,,,,,,,,,,,,,
+23-Jan-2023,W25 Orlando FL,3,Hard,R16,207,429,0,5,,Gabriela Andrea Knutson,Marcela Zacarias,6-4 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W25 Orlando FL,3,Hard,R32,207,546,1,5,WC,Marcela Zacarias,Samantha Crawford,6-4 6-2,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,207,194,0,,,Mai Hontama,Marcela Zacarias,7-6(6) 6-3,0.87,0.0%,5.6%,70.4%,40.0%,28.6%,18.2% (2/11),46.4%,55.0%,0.0%,53.4%,59.1%,46.7% (7/15),1:59
+2-Jan-2023,W60 Canberra,3,Hard,Q1,208,215,0,16,,Alexandra Eala,Marcela Zacarias,6-3 7-6(0),,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R32,198,231,0,,Q,Eva Vedder,Marcela Zacarias,2-6 6-3 6-4,1.02,1.1%,5.3%,70.2%,53.0%,42.9%,60.0% (12/20),50.5%,51.1%,2.1%,36.5%,69.0%,53.8% (7/13),2:34
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,197,83,0,,3,Panna Udvardy,Marcela Zacarias,6-2 6-0,0.50,0.0%,0.0%,81.1%,23.3%,42.9%,14.3% (1/7),32.6%,36.7%,2.0%,35.5%,38.9%,20.0% (1/5),1:08
+12-Nov-2022,BJK Cup Playoffs: SRB vs MEX,3,Clay,RR,196,349,1,,,Marcela Zacarias,Lola Radivojevic,5-7 6-3 6-2,,,,,,,,,,,,,,
+12-Nov-2022,BJK Cup Playoffs: SRB vs MEX,3,Clay,RR,196,211,1,,,Marcela Zacarias,Natalija Stevanovic,6-0 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W80 Tyler TX,3,Hard,R32,159,206,0,7,,Danielle Lao,Marcela Zacarias,1-6 6-4 7-5,,,,,,,,,,,,,,
 10-Oct-2022,W60 Las Vegas NV,3,Hard,SF,166,209,0,,,Diana Shnaider,Marcela Zacarias,2-6 7-5 6-1,,,,,,,,,,,,,,
 10-Oct-2022,W60 Las Vegas NV,3,Hard,QF,166,119,1,,4,Marcela Zacarias,Katie Volynets,7-5 6-4,,,,,,,,,,,,,,
@@ -48,7 +96,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Apr-2022,Charleston,3,Clay,Q1,240,1572,0,9,,Lyudmyla Kichenok,Marcela Zacarias,6-7(4) 7-6(3) 6-2,0.88,0.9%,0.9%,81.1%,57.0%,55.0%,46.2% (6/13),46.9%,38.1%,4.2%,30.0%,46.6%,41.7% (5/12),2:48
 7-Mar-2022,W60+H Irapuato,3,Hard,R32,230,513,0,,Q,Dalayna Hewitt,Marcela Zacarias,2-6 7-6(4) 6-4,,,,,,,,,,,,,,
 28-Feb-2022,Monterrey,3,Hard,R16,262,44,0,WC,5,Camila Osorio,Marcela Zacarias,7-6(2) 6-3,0.72,0.0%,0.0%,77.9%,50.0%,47.1%,37.5% (3/8),43.9%,36.4%,1.8%,33.3%,43.8%,60.0% (3/5),1:39
-28-Feb-2022,Monterrey,3,Hard,R32,262,202,1,WC,WC,Marcela Zacarias,Emma Navarro,6-1 6-7(3) 6-3 (ch),1.15,1.1%,1.1%,78.7%,62.2%,25.0%,63.6% (7/11),53.4%,52.7%,1.8%,48.6%,60.0%,56.3% (9/16),2:30
+28-Feb-2022,Monterrey,3,Hard,R32,262,202,1,WC,WC,Marcela Zacarias,Emma Navarro,6-1 6-7(3) 6-3,1.15,1.1%,1.1%,78.7%,62.2%,25.0%,63.6% (7/11),53.4%,52.7%,1.8%,48.6%,60.0%,56.3% (9/16),2:30
 21-Feb-2022,Guadalajara,3,Hard,Q1,254,131,0,WC,3,Hailey Baptiste,Marcela Zacarias,6-1 6-3,0.72,0.0%,8.2%,63.3%,58.1%,22.2%,28.6% (2/7),42.0%,39.7%,3.2%,37.0%,47.1%,9.1% (1/11),1:14
 31-Jan-2022,W60 Rome GA,3,Hard,R16,258,231,0,Q,WC,Emma Navarro,Marcela Zacarias,4-6 6-1 7-6(2),,,,,,,,,,,,,,
 31-Jan-2022,W60 Rome GA,3,Hard,R32,258,322,1,Q,Q,Marcela Zacarias,Louisa Chirico,6-2 6-2,,,,,,,,,,,,,,
@@ -99,7 +147,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2020,W100 Nicholasville KY,3,Hard,R32,257,119,0,Q,5,Caty Mcnally,Marcela Zacarias,6-4 6-3,,,,,,,,,,,,,,
 10-Feb-2020,W100 Nicholasville KY,3,Hard,Q2,257,297,1,3,12,Marcela Zacarias,Shilin Xu,6-3 3-0 RET,,,,,,,,,,,,,,
 10-Feb-2020,W100 Nicholasville KY,3,Hard,Q1,257,435,1,3,,Marcela Zacarias,Olivia Tjandramulia,4-6 6-3 10-8,,,,,,,,,,,,,,
-3-Feb-2020,W100 Midland MI,3,Hard,R32,256,118,0,,3,Francesca Di Lorenzo,Marcela Zacarias,6-2 6-3 (ch),,,,,,,,,,,,,,
+3-Feb-2020,W100 Midland MI,3,Hard,R32,256,118,0,,3,Francesca Di Lorenzo,Marcela Zacarias,6-2 6-3,,,,,,,,,,,,,,
 27-Jan-2020,Newport Beach,3,Hard,R64,264,191,0,,,Sara Errani,Marcela Zacarias,6-1 6-2,0.73,1.5%,4.4%,72.1%,51.0%,15.8%,22.2% (2/9),41.9%,42.9%,0.0%,37.5%,66.7%,50.0% (2/4),1:17
 2-Dec-2019,W15 Cancun,3,Hard,F,272,1136,1,1,,Marcela Zacarias,Aubane Droguet,6-2 6-3,,,,,,,,,,,,,,
 2-Dec-2019,W15 Cancun,3,Hard,SF,272,900,1,1,8,Marcela Zacarias,Natsumi Kawaguchi,6-2 7-5,,,,,,,,,,,,,,
@@ -129,7 +177,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Sep-2019,W60 Charleston SC,3,Clay,R32,402,640,0,,,Marine Partaud,Marcela Zacarias,6-3 6-3,,,,,,,,,,,,,,
 23-Sep-2019,W60 Templeton CA,3,Hard,R32,397,261,0,,8,Hailey Baptiste,Marcela Zacarias,7-5 6-7(2) 6-2,,,,,,,,,,,,,,
 19-Aug-2019,W25 Guayaquil,3,Clay,QF,455,347,0,,3,Gabriela Lee,Marcela Zacarias,7-6(6) 2-6 6-3,,,,,,,,,,,,,,
-19-Aug-2019,W25 Guayaquil,3,Clay,R16,455,873,1,,,Marcela Zacarias,Maria Carle,6-0 6-1,,,,,,,,,,,,,,
+19-Aug-2019,W25 Guayaquil,3,Clay,R16,455,873,1,,,Marcela Zacarias,Maria Lourdes Carle,6-0 6-1,,,,,,,,,,,,,,
 19-Aug-2019,W25 Guayaquil,3,Clay,R32,455,917,1,,Q,Marcela Zacarias,Eduarda Piai,6-4 6-4,,,,,,,,,,,,,,
 12-Aug-2019,W25 Guayaquil,3,Clay,SF,453,329,0,5,,Camila Osorio,Marcela Zacarias,6-4 2-6 6-3,,,,,,,,,,,,,,
 12-Aug-2019,W25 Guayaquil,3,Clay,QF,453,305,1,5,,Marcela Zacarias,Renata Zarazua,6-1 6-3,,,,,,,,,,,,,,

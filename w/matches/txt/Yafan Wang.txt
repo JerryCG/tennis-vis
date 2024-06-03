@@ -1,4 +1,100 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Rabat,3,Clay,R16,68,84,0,,,Viktoriya Tomova,Yafan Wang,7-6(4) 6-0,0.79,1.8%,0.0%,69.6%,51.3%,29.4%,45.5% (5/11),44.1%,43.7%,1.4%,38.0%,57.1%,42.9% (3/7),1:41
+20-May-2024,Rabat,3,Clay,R32,68,58,1,,8,Yafan Wang,Lin Zhu,4-6 6-0 6-2,1.30,2.3%,3.4%,56.3%,63.3%,60.5%,77.8% (7/9),56.3%,49.3%,0.0%,51.2%,46.7%,66.7% (6/9),2:08
+13-May-2024,Parma 125,3,Clay,R32,69,520,0,5,Q,Jesika Maleckova,Yafan Wang,3-6 6-4 6-3,1.02,9.1%,4.5%,71.6%,65.1%,36.0%,44.4% (4/9),50.0%,44.0%,3.0%,41.9%,47.4%,44.4% (4/9),2:38
+6-May-2024,Rome,3,Clay,R128,69,109,0,,Q,Katie Volynets,Yafan Wang,7-6(6) 6-1,0.73,1.3%,5.1%,64.1%,60.0%,32.1%,63.6% (7/11),43.4%,36.5%,1.4%,38.1%,27.3%,25.0% (2/8),2:03
+18-Mar-2024,Miami,3,Hard,R128,64,67,0,,,Peyton Stearns,Yafan Wang,6-2 6-3,0.79,6.7%,4.4%,60.0%,55.6%,27.8%,54.5% (6/11),44.0%,43.7%,4.2%,33.3%,65.2%,18.2% (2/11),1:26
+11-Mar-2024,Charleston 125,3,Hard,SF,66,74,0,6,7,Diana Shnaider,Yafan Wang,3-6 6-3 6-3,1.01,1.1%,4.6%,55.2%,56.3%,53.8%,50.0% (5/10),49.3%,45.1%,2.5%,39.2%,54.2%,26.7% (4/15),2:30
+11-Mar-2024,Charleston 125,3,Hard,QF,66,98,1,6,Q,Yafan Wang,Erika Andreeva,6-2 6-4,1.33,2.0%,3.9%,54.9%,60.7%,47.8%,42.9% (3/7),57.7%,60.0%,1.7%,51.4%,73.9%,63.6% (7/11),1:30
+11-Mar-2024,Charleston 125,3,Hard,R16,66,100,1,6,,Yafan Wang,Sara Errani,6-4 6-4,1.19,5.6%,7.0%,63.4%,75.6%,34.6%,71.4% (5/7),54.1%,46.9%,0.0%,40.4%,64.7%,44.4% (4/9),1:38
+11-Mar-2024,Charleston 125,3,Hard,R32,66,120,1,6,LL,Yafan Wang,Mai Hontama,7-6(6) 6-4,1.02,2.7%,8.0%,61.3%,56.5%,41.4%,16.7% (1/6),50.6%,50.5%,0.0%,44.1%,66.7%,31.6% (6/19),2:08
+6-Mar-2024,Indian Wells,3,Hard,R128,66,127,0,,Q,Rebecca Sramkova,Yafan Wang,6-4 6-0,0.68,3.3%,6.6%,54.1%,48.5%,42.9%,61.5% (8/13),41.6%,36.5%,3.8%,39.1%,34.5%,25.0% (1/4),1:27
+26-Feb-2024,Austin,3,Hard,QF,69,68,0,,8,Yue Yuan,Yafan Wang,6-3 7-5,0.77,0.0%,3.8%,73.8%,59.3%,28.6%,66.7% (8/12),44.5%,37.3%,1.3%,39.5%,34.4%,33.3% (2/6),1:59
+26-Feb-2024,Austin,3,Hard,R16,69,121,1,,,Yafan Wang,Emiliana Arango,6-2 6-2,1.43,0.0%,3.2%,67.7%,64.3%,60.0%,90.0% (9/10),58.4%,52.9%,2.0%,39.4%,77.8%,55.6% (5/9),1:23
+26-Feb-2024,Austin,3,Hard,R32,69,52,1,,4,Yafan Wang,Lucia Bronzetti,7-6(5) 6-4,1.26,11.5%,5.1%,61.5%,81.3%,46.7%,80.0% (4/5),53.8%,40.2%,6.1%,28.6%,52.5%,16.7% (2/12),1:54
+29-Jan-2024,Hua Hin,3,Hard,SF,78,45,0,,2,Lin Zhu,Yafan Wang,6-3 6-2,0.73,3.3%,6.7%,60.0%,47.2%,54.2%,37.5% (3/8),43.8%,36.5%,3.8%,29.6%,44.0%,20.0% (1/5),1:24
+29-Jan-2024,Hua Hin,3,Hard,QF,78,125,1,,,Yafan Wang,Katie Volynets,1-6 6-3 7-6(4),0.93,2.2%,4.3%,58.1%,64.8%,51.3%,33.3% (2/6),48.4%,38.1%,3.1%,35.4%,43.8%,42.9% (3/7),2:40
+29-Jan-2024,Hua Hin,3,Hard,R16,78,79,1,,8,Yafan Wang,Anna Karolina Schmiedlova,6-2 6-4,1.38,5.6%,7.4%,64.8%,80.0%,42.1%,80.0% (4/5),55.6%,46.0%,1.6%,45.7%,46.4%,44.4% (4/9),1:32
+29-Jan-2024,Hua Hin,3,Hard,R32,78,141,1,,Q,Yafan Wang,Alina Korneeva,6-2 6-4,1.29,3.1%,3.1%,56.3%,75.0%,50.0%,83.3% (5/6),55.8%,46.4%,3.6%,41.7%,50.0%,66.7% (4/6),1:32
+15-Jan-2024,Australian Open,5,Hard,R32,94,15,0,,12,Qinwen Zheng,Yafan Wang,6-4 2-6 7-6(8),0.94,0.9%,1.9%,66.0%,61.4%,63.9%,57.1% (4/7),49.7%,35.5%,10.8%,20.0%,53.5%,80.0% (4/5),2:40
+15-Jan-2024,Australian Open,5,Hard,R64,94,296,1,,,Yafan Wang,Emma Raducanu,6-4 4-6 6-4,1.08,5.3%,3.5%,60.5%,66.7%,51.1%,78.9% (15/19),52.1%,42.7%,5.8%,41.6%,46.2%,41.7% (5/12),2:54
+15-Jan-2024,Australian Open,5,Hard,R128,94,27,1,,22,Yafan Wang,Sorana Cirstea,0-6 7-5 6-2,0.99,3.8%,2.6%,59.0%,67.4%,34.4%,37.5% (3/8),49.7%,45.9%,2.4%,40.7%,54.8%,71.4% (5/7),1:57
+8-Jan-2024,Adelaide,3,Hard,Q1,97,49,0,,2,Katerina Siniakova,Yafan Wang,6-3 7-6(3),0.98,4.8%,3.2%,58.1%,61.1%,42.3%,50.0% (5/10),49.0%,46.1%,3.4%,41.8%,52.9%,30.8% (4/13),1:54
+1-Jan-2024,Canberra 125,3,Hard,R16,102,120,0,6,,Harriet Dart,Yafan Wang,6-3 1-6 6-1,0.92,1.3%,6.4%,62.8%,65.3%,41.4%,55.6% (5/9),48.1%,40.0%,1.3%,34.7%,48.4%,42.9% (3/7),1:55
+1-Jan-2024,Canberra 125,3,Hard,R32,102,797,1,6,WC,Yafan Wang,Emerson Jones,6-4 6-2,1.37,10.9%,3.1%,54.7%,68.6%,58.6%,75.0% (3/4),56.1%,49.3%,4.0%,40.0%,63.3%,28.6% (4/14),1:23
+27-Nov-2023,W40 Yokohama,3,Hard,R16,101,301,0,1,,Aliona Falei,Yafan Wang,3-6 7-5 6-3,,,,,,,,,,,,,,
+27-Nov-2023,W40 Yokohama,3,Hard,R32,101,466,1,1,WC,Yafan Wang,Naho Sato,6-4 7-5,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R16,100,225,0,2,,Suzan Lamens,Yafan Wang,6-3 6-0,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R32,100,180,1,2,,Yafan Wang,Arianne Hartono,4-6 7-6(5) 6-4,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,97,260,0,3,WC,Haruka Kaji,Yafan Wang,6-3 6-4,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,R64,114,61,0,Q,,Katie Boulter,Yafan Wang,5-7 6-1 6-4,0.92,4.8%,7.2%,57.8%,68.8%,40.0%,44.4% (4/9),47.3%,39.8%,2.9%,29.6%,51.0%,27.3% (3/11),2:21
+28-Aug-2023,US Open,5,Hard,R128,114,7,1,Q,7,Yafan Wang,Caroline Garcia,6-4 6-1,1.43,4.0%,4.0%,56.0%,82.1%,54.5%,100.0% (3/3),55.7%,42.9%,12.5%,34.4%,54.2%,40.0% (4/10),1:10
+28-Aug-2023,US Open,5,Hard,Q3,114,136,1,15,32,Yafan Wang,Marina Bassols Ribera,6-2 6-2,2.10,21.4%,4.8%,64.3%,85.2%,46.7%,66.7% (2/3),65.9%,60.0%,2.5%,54.2%,68.8%,83.3% (5/6),1:01
+28-Aug-2023,US Open,5,Hard,Q2,114,163,1,15,,Yafan Wang,Ann Li,6-2 6-4,1.30,1.7%,8.5%,57.6%,70.6%,48.0%,66.7% (4/6),55.6%,50.8%,0.0%,48.7%,53.8%,55.6% (5/9),1:28
+28-Aug-2023,US Open,5,Hard,Q1,114,213,1,15,,Yafan Wang,Sara Bejlek,6-0 6-0,2.44,2.2%,11.1%,57.8%,69.2%,68.4%,100.0% (5/5),71.8%,75.8%,0.0%,72.7%,81.8%,75.0% (6/8),0:53
+14-Aug-2023,Stanford 125,3,Hard,F,158,80,1,Q,2,Yafan Wang,Kamilla Rakhimova,6-2 6-0,2.15,9.3%,0.0%,67.4%,75.9%,64.3%,100.0% (1/1),65.9%,60.0%,2.2%,64.0%,55.0%,83.3% (5/6),1:07
+14-Aug-2023,Stanford 125,3,Hard,SF,158,191,1,Q,,Yafan Wang,Moyuka Uchijima,6-3 5-7 7-5,1.15,3.9%,4.9%,64.1%,66.7%,51.4%,61.5% (8/13),52.6%,44.5%,3.6%,29.2%,66.7%,42.9% (6/14),2:35
+14-Aug-2023,Stanford 125,3,Hard,QF,158,183,1,Q,Q,Yafan Wang,Mai Hontama,6-3 6-3,1.14,4.6%,1.5%,63.1%,80.5%,45.8%,100.0% (5/5),54.4%,36.7%,0.0%,37.5%,35.3%,100.0% (3/3),1:21
+14-Aug-2023,Stanford 125,3,Hard,R16,158,78,1,Q,1,Yafan Wang,Tamara Korpatsch,6-1 7-5,1.61,1.8%,7.1%,55.4%,74.2%,52.0%,60.0% (3/5),60.7%,57.4%,0.0%,40.0%,74.2%,100.0% (6/6),1:25
+14-Aug-2023,Stanford 125,3,Hard,R32,158,125,1,Q,,Yafan Wang,Daria Snigur,1-6 6-2 6-1,1.18,12.5%,6.3%,68.8%,63.6%,40.0%,55.6% (5/9),54.0%,51.6%,1.6%,44.7%,62.5%,75.0% (6/8),1:19
+14-Aug-2023,Stanford 125,3,Hard,Q2,158,508,1,2,,Yafan Wang,Dalayna Hewitt,3-6 7-6(6) 6-0,1.00,1.1%,8.6%,58.1%,64.8%,43.6%,66.7% (6/9),50.3%,44.2%,15.1%,27.3%,61.9%,55.6% (5/9),2:12
+14-Aug-2023,Stanford 125,3,Hard,Q1,158,221,1,2,,Yafan Wang,Louisa Chirico,7-5 6-1,1.39,3.7%,11.1%,68.5%,73.0%,35.3%,66.7% (4/6),57.0%,54.1%,5.4%,42.9%,68.8%,60.0% (6/10),1:27
+7-Aug-2023,W100 Landisville,3,Hard,R32,175,235,0,,SE,Renata Zarazua,Yafan Wang,7-6(4) 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,SF,175,105,0,8,1,Caroline Dolehide,Yafan Wang,7-6(1) 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,QF,175,114,1,8,3,Yafan Wang,Kimberly Birrell,7-5 1-6 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R16,175,190,1,8,,Yafan Wang,Moyuka Uchijima,6-2 6-2,,,,,,,,,,,,,,
+31-Jul-2023,W60 Lexington,3,Hard,R32,175,314,1,8,,Yafan Wang,Sophie Chang,6-4 6-2,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,F,182,260,0,2,,Yuliia Starodubtseva,Yafan Wang,3-6 6-2 6-2,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,SF,182,1085,1,2,Q,Yafan Wang,Mary Stoiana,3-6 7-6(2) 6-4,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,QF,182,308,1,2,,Yafan Wang,Makenna Jones,6-4 6-1,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,R16,182,435,1,2,Q,Yafan Wang,Mccartney Kessler,6-2 6-4,,,,,,,,,,,,,,
+24-Jul-2023,W60 Dallas,3,Hard,R32,182,512,1,2,Q,Yafan Wang,Dalayna Hewitt,7-6(5) 7-6(5),,,,,,,,,,,,,,
+3-Jul-2023,W40 Hong Kong,3,Hard,F,232,289,1,2,7,Yafan Wang,Eudice Wong Chong,6-2 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W40 Hong Kong,3,Hard,SF,232,354,1,2,,Yafan Wang,Ye Xin Ma,6-4 6-7(5) 6-1,,,,,,,,,,,,,,
+3-Jul-2023,W40 Hong Kong,3,Hard,QF,232,307,1,2,8,Yafan Wang,Sijia Wei,6-4 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W40 Hong Kong,3,Hard,R16,232,849,1,2,Q,Yafan Wang,Mio Mushika,6-1 6-1,,,,,,,,,,,,,,
+3-Jul-2023,W40 Hong Kong,3,Hard,R32,232,,1,2,WC,Yafan Wang,Man Ying Maggie Ng,6-2 6-1,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,F,355,288,1,2,1,Yafan Wang,Xiaodi You,7-5 6-2,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,SF,355,,1,2,Q,Yafan Wang,Wushuang Zheng,6-4 6-4,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,QF,355,1050,1,2,,Yafan Wang,Jiaqi Wang,6-1 6-3,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,R16,355,,1,2,WC,Yafan Wang,Xi Luo,6-4 6-2,,,,,,,,,,,,,,
+5-Jun-2023,W25 Luzhou,3,Hard,R32,355,,1,2,Q,Yafan Wang,Zixuan Zeng,6-1 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,F,355,,1,3,7,Yafan Wang,Johanne Christine Svendsen,6-1 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,SF,355,613,1,3,Q,Yafan Wang,Ayano Shimizu,6-4 1-6 6-1,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,QF,355,554,1,3,,Yafan Wang,Aoi Ito,3-6 6-0 6-2,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,R16,355,524,1,3,,Yafan Wang,Naho Sato,6-1 6-4,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,R32,355,761,1,3,WC,Yafan Wang,Honoka Kobayashi,6-1 6-1,,,,,,,,,,,,,,
+22-May-2023,W25 Karuizawa,3,Grass,F,348,250,1,3,1,Yafan Wang,Haruka Kaji,6-0 6-1,,,,,,,,,,,,,,
+22-May-2023,W25 Karuizawa,3,Grass,SF,348,832,1,3,Q,Yafan Wang,Mio Mushika,6-2 6-2,,,,,,,,,,,,,,
+22-May-2023,W25 Karuizawa,3,Grass,QF,348,550,1,3,,Yafan Wang,Miho Kuramochi,6-0 2-0 RET,,,,,,,,,,,,,,
+22-May-2023,W25 Karuizawa,3,Grass,R16,348,518,1,3,,Yafan Wang,Erika Sema,3-6 6-3 6-4,,,,,,,,,,,,,,
+22-May-2023,W25 Karuizawa,3,Grass,R32,348,612,1,3,,Yafan Wang,Mei Yamaguchi,6-4 6-1,,,,,,,,,,,,,,
+15-May-2023,W60 Kurume,3,Grass,QF,355,279,0,8,4,Lizette Cabrera,Yafan Wang,7-5 4-6 6-4,,,,,,,,,,,,,,
+15-May-2023,W60 Kurume,3,Grass,R16,355,457,1,8,,Yafan Wang,Eri Shimizu,6-2 6-0,,,,,,,,,,,,,,
+15-May-2023,W60 Kurume,3,Grass,R32,355,596,1,8,Q,Yafan Wang,Mei Yamaguchi,6-1 7-5,,,,,,,,,,,,,,
+8-May-2023,W60 Fukuoka,3,Carpet,R32,355,279,0,,5,Lizette Cabrera,Yafan Wang,6-0 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R16,363,181,0,SR,2,Na Lae Han,Yafan Wang,7-6(6) 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R32,363,490,1,SR,Q,Yafan Wang,Mayuka Aikawa,6-1 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,SF,557,119,0,SE,1,Su Jeong Jang,Yafan Wang,7-5 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,QF,557,375,1,SE,,Yafan Wang,Rina Saigo,6-2 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R16,557,513,1,SE,Q,Yafan Wang,Mayuka Aikawa,6-3 6-1,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R32,557,287,1,SE,5,Yafan Wang,Alexandra Bozovic,6-3 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,F,557,144,1,Q,1,Yafan Wang,Olivia Gadecki,3-6 6-2 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,SF,557,374,1,Q,,Yafan Wang,Petra Hule,7-5 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,QF,557,487,1,Q,,Yafan Wang,Alana Parnaby,6-1 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,R16,557,169,1,Q,2,Yafan Wang,Jaimee Fourlis,4-6 7-5 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,R32,557,445,1,Q,,Yafan Wang,Chihiro Muramatsu,6-2 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,Q2,557,1012,1,5,12,Yafan Wang,Milan Krish,6-3 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,Q1,557,,1,5,WC,Yafan Wang,Natalie Gaft,6-0 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,R32,696,294,0,,7,Alexandra Bozovic,Yafan Wang,6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,F,584,269,0,,2,Joanna Garland,Yafan Wang,6-3 4-6 7-6(7),,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,SF,584,146,1,,1,Yafan Wang,Olivia Gadecki,6-2 2-6 7-6(8),,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,QF,584,350,1,,5,Yafan Wang,Arina Rodionova,7-6(4) 6-1,,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,R16,584,297,1,,3,Yafan Wang,Alexandra Bozovic,3-6 6-3 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,R32,584,636,1,,,Yafan Wang,Elysia Bolton,5-7 6-4 4-0 RET,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,QF,431,319,0,,6,Arina Rodionova,Yafan Wang,6-4 6-0,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R16,431,432,1,,,Yafan Wang,Ye Xin Ma,7-5 6-2,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R32,431,186,1,,2,Yafan Wang,Priscilla Hon,7-5 6-4,,,,,,,,,,,,,,
 9-May-2022,W25 Nottingham,3,Hard,R16,329,442,0,,,Viktoria Morvayova,Yafan Wang,6-3 7-5,,,,,,,,,,,,,,
 9-May-2022,W25 Nottingham,3,Hard,R32,329,286,1,,2,Yafan Wang,Giulia Gatto Monticone,6-0 4-3 RET,,,,,,,,,,,,,,
 2-May-2022,W25 Nottingham,3,Hard,R16,327,1063,0,5,Q,Katarina Stresnakova,Yafan Wang,7-5 3-6 6-0,,,,,,,,,,,,,,
@@ -23,7 +119,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Feb-2022,W25 Antalya,3,Clay,SF,340,334,1,,Q,Yafan Wang,Andreea Prisacariu,7-6(6) 6-3,,,,,,,,,,,,,,
 14-Feb-2022,W25 Antalya,3,Clay,QF,340,404,1,,Q,Yafan Wang,Camilla Rosatello,5-7 7-5 6-0,,,,,,,,,,,,,,
 14-Feb-2022,W25 Antalya,3,Clay,R16,340,285,1,,6,Yafan Wang,Martina Di Giuseppe,6-2 7-6(8),,,,,,,,,,,,,,
-14-Feb-2022,W25 Antalya,3,Clay,R32,340,547,1,,Q,Yafan Wang,Anastasiya Konstantinovna Soboleva,2-6 6-1 1-0 RET,,,,,,,,,,,,,,
+14-Feb-2022,W25 Antalya,3,Clay,R32,340,547,1,,Q,Yafan Wang,Anastasiya Soboleva,2-6 6-1 1-0 RET,,,,,,,,,,,,,,
 7-Feb-2022,W25 Sharm ElSheikh,3,Hard,R32,346,181,0,,2,Yuliya Hatouka,Yafan Wang,6-4 6-3,,,,,,,,,,,,,,
 31-Jan-2022,W25 Sharm ElSheikh,3,Hard,R16,345,161,0,,2,Reka Luca Jani,Yafan Wang,1-6 6-3 6-4,,,,,,,,,,,,,,
 31-Jan-2022,W25 Sharm ElSheikh,3,Hard,R32,345,447,1,,Q,Yafan Wang,Eudice Wong Chong,6-3 7-6(4),,,,,,,,,,,,,,
@@ -50,7 +146,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,Australian Open,5,Hard,R128,98,33,0,,28,Donna Vekic,Yafan Wang,4-6 6-3 6-4,0.97,1.7%,5.0%,59.5%,54.2%,49.0%,58.8% (10/17),49.8%,46.7%,3.3%,44.7%,48.8%,50.0% (5/10),2:38
 31-Jan-2021,Gippsland Trophy,3,Hard,R64,96,104,0,,,Kaja Juvan,Yafan Wang,4-6 6-1 6-4,0.79,3.3%,2.2%,56.5%,61.5%,37.5%,25.0% (2/8),45.2%,38.8%,4.7%,26.7%,52.5%,50.0% (4/8),2:09
 6-Jan-2021,Abu Dhabi,3,Hard,R64,95,285,0,,Q,Kateryna Bondarenko,Yafan Wang,6-3 3-6 7-5,1.00,4.9%,3.9%,68.6%,51.4%,50.0%,53.8% (7/13),50.0%,49.1%,4.6%,45.6%,55.0%,46.7% (7/15),2:21
-2-Mar-2020,Monterrey,3,Hard,QF,84,57,0,8,9,Marie Bouzkova,Yafan Wang,6-2 7-5 (ch),0.77,1.4%,4.1%,58.9%,55.8%,33.3%,50.0% (6/12),44.0%,41.0%,4.9%,31.7%,60.0%,75.0% (3/4),1:51
+2-Mar-2020,Monterrey,3,Hard,QF,84,57,0,8,9,Marie Bouzkova,Yafan Wang,6-2 7-5,0.77,1.4%,4.1%,58.9%,55.8%,33.3%,50.0% (6/12),44.0%,41.0%,4.9%,31.7%,60.0%,75.0% (3/4),1:51
 2-Mar-2020,Monterrey,3,Hard,R16,84,127,1,8,LL,Yafan Wang,Astra Sharma,7-6(5) 4-6 6-3,1.15,1.8%,4.5%,64.3%,66.7%,55.0%,69.2% (9/13),52.0%,43.3%,3.7%,33.3%,68.4%,26.7% (4/15),2:52
 2-Mar-2020,Monterrey,3,Hard,R32,84,159,1,8,Q,Yafan Wang,Lara Arruabarrena,6-4 6-4,1.14,6.2%,6.2%,46.2%,76.7%,48.6%,33.3% (1/3),53.3%,43.9%,5.3%,33.3%,58.3%,44.4% (4/9),1:26
 24-Feb-2020,Acapulco,3,Hard,R32,56,127,0,2,Q,Xiyu Wang,Yafan Wang,6-4 7-6(8),0.95,0.0%,3.0%,49.3%,54.5%,50.0%,37.5% (3/8),48.6%,45.6%,0.0%,38.5%,59.3%,33.3% (4/12),1:50
@@ -58,7 +154,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jan-2020,Australian Open,5,Hard,R128,51,19,0,,18,Alison Riske Amritraj,Yafan Wang,7-6(5) 2-6 6-3,0.98,0.8%,5.1%,56.8%,58.2%,43.1%,50.0% (6/12),49.6%,47.2%,4.7%,46.6%,48.5%,53.8% (7/13),3:00
 13-Jan-2020,Hobart,3,Hard,R32,51,34,0,,2,Garbine Muguruza,Yafan Wang,6-1 7-5,0.79,3.2%,6.5%,51.6%,40.6%,46.7%,36.4% (4/11),44.2%,44.8%,6.0%,41.3%,52.4%,42.9% (3/7),1:35
 6-Jan-2020,Shenzhen,3,Hard,R16,50,36,0,,7,Elena Rybakina,Yafan Wang,6-3 6-4,0.64,1.5%,1.5%,53.8%,68.6%,50.0%,75.0% (6/8),43.5%,25.4%,11.9%,21.6%,31.8%,0.0% (0/5),1:27
-6-Jan-2020,Shenzhen,3,Hard,R32,50,90,1,,,Yafan Wang,Sara Sorribes Tormo,1-6 6-1 6-3 (ch),1.12,3.6%,3.6%,63.9%,60.4%,43.3%,44.4% (4/9),53.0%,51.5%,0.0%,47.6%,57.7%,66.7% (6/9),2:00
+6-Jan-2020,Shenzhen,3,Hard,R32,50,90,1,,,Yafan Wang,Sara Sorribes Tormo,1-6 6-1 6-3,1.12,3.6%,3.6%,63.9%,60.4%,43.3%,44.4% (4/9),53.0%,51.5%,0.0%,47.6%,57.7%,66.7% (6/9),2:00
 14-Oct-2019,W100 Suzhou,3,Hard,SF,47,106,0,,,Lin Zhu,Yafan Wang,6-3 6-3,,,,,,,,,,,,,,
 14-Oct-2019,W100 Suzhou,3,Hard,QF,47,183,1,,,Yafan Wang,Natalija Stevanovic,6-1 6-4,,,,,,,,,,,,,,
 14-Oct-2019,W100 Suzhou,3,Hard,R16,47,230,1,,,Yafan Wang,Aleksandrina Naydenova,6-1 6-0,,,,,,,,,,,,,,
@@ -66,11 +162,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Oct-2019,Tianjin,3,Hard,QF,47,59,0,,,Rebecca Peterson,Yafan Wang,6-7(5) 6-4 6-2,0.91,4.0%,2.0%,61.6%,62.3%,44.7%,45.5% (5/11),47.2%,40.3%,2.5%,41.6%,36.7%,25.0% (3/12),2:44
 7-Oct-2019,Tianjin,3,Hard,R16,47,31,1,,4,Yafan Wang,Caroline Garcia,6-4 6-2,1.78,8.3%,6.3%,58.3%,78.6%,65.0%,75.0% (3/4),59.3%,48.3%,3.3%,44.2%,58.8%,30.8% (4/13),1:20
 7-Oct-2019,Tianjin,3,Hard,R32,47,62,1,,,Yafan Wang,Lauren Davis,6-0 6-4,1.85,4.8%,0.0%,47.6%,80.0%,63.6%,0.0% (0/1),60.8%,52.7%,3.6%,59.3%,46.4%,62.5% (5/8),1:10
-30-Sep-2019,Beijing,3,Hard,R32,49,3,0,,3,Elina Svitolina,Yafan Wang,7-6(5) 7-6(1) (ch),0.80,0.0%,7.1%,60.6%,61.7%,35.9%,60.0% (6/10),45.7%,38.8%,7.1%,32.7%,48.5%,66.7% (4/6),2:09
+30-Sep-2019,Beijing,3,Hard,R32,49,3,0,,3,Elina Svitolina,Yafan Wang,7-6(5) 7-6(1),0.80,0.0%,7.1%,60.6%,61.7%,35.9%,60.0% (6/10),45.7%,38.8%,7.1%,32.7%,48.5%,66.7% (4/6),2:09
 30-Sep-2019,Beijing,3,Hard,R64,49,162,1,,WC,Yafan Wang,Xin Yu Wang,6-1 6-2,2.01,2.2%,8.7%,58.7%,85.2%,57.9%,100.0% (3/3),64.0%,52.5%,5.0%,47.8%,58.8%,57.1% (4/7),0:52
 23-Sep-2019,Wuhan,3,Hard,R32,48,15,0,,10,Sloane Stephens,Yafan Wang,6-2 3-6 6-1,0.81,3.7%,2.4%,53.7%,54.5%,39.5%,22.2% (2/9),45.1%,42.7%,0.0%,41.9%,45.0%,36.4% (4/11),2:01
 23-Sep-2019,Wuhan,3,Hard,R64,48,62,1,,Q,Yafan Wang,Lauren Davis,4-6 6-4 4-0 RET,1.16,4.8%,8.3%,57.1%,68.8%,52.8%,71.4% (5/7),52.9%,44.2%,2.3%,47.1%,40.0%,57.1% (4/7),2:14
-16-Sep-2019,Seoul,3,Hard,SF,58,45,0,8,3,Karolina Muchova,Yafan Wang,7-6(5) 6-4 (ch),0.73,2.4%,6.1%,46.3%,65.8%,52.3%,70.0% (7/10),45.9%,30.3%,6.1%,17.0%,63.2%,50.0% (2/4),2:02
+16-Sep-2019,Seoul,3,Hard,SF,58,45,0,8,3,Karolina Muchova,Yafan Wang,7-6(5) 6-4,0.73,2.4%,6.1%,46.3%,65.8%,52.3%,70.0% (7/10),45.9%,30.3%,6.1%,17.0%,63.2%,50.0% (2/4),2:02
 16-Sep-2019,Seoul,3,Hard,QF,58,88,1,8,,Yafan Wang,Paula Badosa,6-1 6-3,2.35,4.3%,4.3%,54.3%,84.0%,71.4%,100.0% (1/1),64.8%,51.1%,6.7%,27.3%,73.9%,66.7% (4/6),1:03
 16-Sep-2019,Seoul,3,Hard,R16,58,125,1,8,,Yafan Wang,Ysaline Bonaventure,4-6 6-3 6-0,1.30,5.0%,7.5%,50.0%,67.5%,50.0%,42.9% (3/7),56.2%,53.7%,0.0%,44.4%,71.4%,41.2% (7/17),1:47
 16-Sep-2019,Seoul,3,Hard,R32,58,184,1,8,Q,Yafan Wang,Danielle Lao,6-4 7-6(2),1.51,15.6%,0.0%,64.1%,80.5%,52.2%,33.3% (1/3),54.4%,44.9%,0.9%,42.9%,50.0%,20.0% (3/15),2:01
@@ -88,27 +184,27 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jun-2019,Mallorca,3,Grass,R16,58,57,1,,,Yafan Wang,Alison Van Uytvanck,7-6(3) 6-3,1.25,5.1%,2.5%,48.1%,65.8%,58.5%,66.7% (6/9),54.8%,47.4%,10.5%,42.3%,58.3%,50.0% (4/8),1:44
 17-Jun-2019,Mallorca,3,Grass,R32,58,358,1,,,Yafan Wang,Anna Lena Friedsam,7-5 6-3,1.15,2.8%,4.2%,54.2%,61.5%,57.6%,50.0% (2/4),53.2%,46.4%,1.4%,34.1%,64.3%,41.7% (5/12),1:31
 10-Jun-2019,S-Hertogenbosch,3,Grass,R32,57,55,0,,9,Alison Van Uytvanck,Yafan Wang,7-6(4) 6-3,0.87,0.0%,4.3%,48.9%,58.7%,35.4%,62.5% (10/16),46.6%,46.4%,7.1%,37.5%,58.3%,66.7% (4/6),2:01
-27-May-2019,Roland Garros,5,Clay,R128,56,38,0,,,Marketa Vondrousova,Yafan Wang,6-4 6-3 (ch),0.83,0.0%,1.6%,57.8%,59.5%,40.7%,54.5% (6/11),46.2%,40.0%,0.0%,25.8%,58.3%,28.6% (2/7),1:21
+27-May-2019,Roland Garros,5,Clay,R128,56,38,0,,,Marketa Vondrousova,Yafan Wang,6-4 6-3,0.83,0.0%,1.6%,57.8%,59.5%,40.7%,54.5% (6/11),46.2%,40.0%,0.0%,25.8%,58.3%,28.6% (2/7),1:21
 20-May-2019,Strasbourg,3,Clay,R32,57,256,0,,WC,Amandine Hesse,Yafan Wang,6-1 6-4,0.63,1.5%,4.5%,60.6%,47.5%,42.3%,28.6% (2/7),40.7%,34.6%,9.6%,30.8%,38.5%,33.3% (1/3),1:27
 13-May-2019,Rome,3,Clay,Q1,57,71,0,5,,Polona Hercog,Yafan Wang,6-2 6-4,0.59,0.0%,7.5%,58.5%,61.3%,50.0%,40.0% (2/5),41.3%,25.5%,7.8%,22.9%,31.3%,0.0% (0/1),1:14
 6-May-2019,Madrid,3,Clay,R64,56,49,0,,,Saisai Zheng,Yafan Wang,7-5 7-6(3),0.87,1.1%,3.2%,63.8%,55.0%,41.2%,66.7% (10/15),46.6%,43.3%,0.0%,40.0%,54.5%,40.0% (4/10),2:24
 29-Apr-2019,Rabat,3,Clay,R32,56,47,0,,7,Johanna Konta,Yafan Wang,4-6 7-6(0) 6-4,0.90,2.0%,6.9%,65.3%,63.6%,20.0%,46.7% (7/15),47.4%,46.3%,2.8%,38.7%,56.5%,50.0% (8/16),2:37
-18-Mar-2019,Miami,3,Hard,R16,50,18,0,,18,Qiang Wang,Yafan Wang,7-5 6-4 (ch),0.88,0.0%,2.8%,54.9%,69.2%,50.0%,42.9% (3/7),48.2%,34.8%,1.5%,24.3%,48.3%,50.0% (2/4),1:45
+18-Mar-2019,Miami,3,Hard,R16,50,18,0,,18,Qiang Wang,Yafan Wang,7-5 6-4,0.88,0.0%,2.8%,54.9%,69.2%,50.0%,42.9% (3/7),48.2%,34.8%,1.5%,24.3%,48.3%,50.0% (2/4),1:45
 18-Mar-2019,Miami,3,Hard,R32,50,26,1,,25,Yafan Wang,Danielle Collins,7-5 6-1,1.52,10.5%,7.0%,66.7%,76.3%,42.1%,66.7% (4/6),58.1%,53.2%,0.0%,53.3%,52.9%,46.2% (6/13),1:37
-18-Mar-2019,Miami,3,Hard,R64,50,5,1,,6,Yafan Wang,Elina Svitolina,6-2 6-4 (ch),1.30,7.0%,1.8%,64.9%,67.6%,50.0%,0.0% (0/2),55.0%,50.0%,4.2%,35.0%,68.8%,38.5% (5/13),1:22
+18-Mar-2019,Miami,3,Hard,R64,50,5,1,,6,Yafan Wang,Elina Svitolina,6-2 6-4,1.30,7.0%,1.8%,64.9%,67.6%,50.0%,0.0% (0/2),55.0%,50.0%,4.2%,35.0%,68.8%,38.5% (5/13),1:22
 18-Mar-2019,Miami,3,Hard,R128,50,68,1,,,Yafan Wang,Kristina Mladenovic,6-3 6-3,1.20,1.4%,7.0%,56.3%,52.5%,45.2%,37.5% (3/8),55.2%,60.8%,2.7%,47.5%,76.5%,57.1% (8/14),1:36
-4-Mar-2019,Indian Wells,3,Hard,R128,49,33,0,,,Sofia Kenin,Yafan Wang,1-6 7-5 6-4 (ch),1.07,3.0%,5.1%,58.6%,65.5%,41.5%,66.7% (10/15),51.2%,47.4%,2.6%,38.2%,65.8%,37.5% (6/16),2:35
-25-Feb-2019,Acapulco,3,Hard,F,65,35,1,,5,Yafan Wang,Sofia Kenin,2-6 6-3 7-5 (ch),1.06,2.4%,4.7%,63.5%,64.8%,51.6%,44.4% (4/9),50.8%,42.4%,4.3%,34.9%,58.6%,55.6% (5/9),2:10
-25-Feb-2019,Acapulco,3,Hard,SF,65,28,1,,3,Yafan Wang,Donna Vekic,2-6 6-3 6-1 (ch),1.11,3.0%,7.5%,62.7%,52.4%,44.0%,0.0% (0/6),53.1%,56.4%,7.7%,43.6%,69.2%,53.3% (8/15),1:50
-25-Feb-2019,Acapulco,3,Hard,QF,65,172,1,,Q,Yafan Wang,Beatriz Haddad Maia,6-3 6-4 (ch),1.51,5.1%,0.0%,62.7%,67.6%,59.1%,50.0% (3/6),58.6%,53.6%,0.0%,50.9%,64.3%,45.5% (5/11),1:42
+4-Mar-2019,Indian Wells,3,Hard,R128,49,33,0,,,Sofia Kenin,Yafan Wang,1-6 7-5 6-4,1.07,3.0%,5.1%,58.6%,65.5%,41.5%,66.7% (10/15),51.2%,47.4%,2.6%,38.2%,65.8%,37.5% (6/16),2:35
+25-Feb-2019,Acapulco,3,Hard,F,65,35,1,,5,Yafan Wang,Sofia Kenin,2-6 6-3 7-5,1.06,2.4%,4.7%,63.5%,64.8%,51.6%,44.4% (4/9),50.8%,42.4%,4.3%,34.9%,58.6%,55.6% (5/9),2:10
+25-Feb-2019,Acapulco,3,Hard,SF,65,28,1,,3,Yafan Wang,Donna Vekic,2-6 6-3 6-1,1.11,3.0%,7.5%,62.7%,52.4%,44.0%,0.0% (0/6),53.1%,56.4%,7.7%,43.6%,69.2%,53.3% (8/15),1:50
+25-Feb-2019,Acapulco,3,Hard,QF,65,172,1,,Q,Yafan Wang,Beatriz Haddad Maia,6-3 6-4,1.51,5.1%,0.0%,62.7%,67.6%,59.1%,50.0% (3/6),58.6%,53.6%,0.0%,50.9%,64.3%,45.5% (5/11),1:42
 25-Feb-2019,Acapulco,3,Hard,R16,65,58,1,,,Yafan Wang,Monica Puig,4-1 RET,1.67,8.3%,0.0%,62.5%,80.0%,44.4%,100.0% (3/3),61.9%,55.6%,16.7%,45.5%,71.4%,33.3% (1/3),0:30
 25-Feb-2019,Acapulco,3,Hard,R32,65,129,1,,,Yafan Wang,Marie Bouzkova,6-2 6-2,1.66,0.0%,2.2%,57.8%,76.9%,52.6%,0.0% (0/1),60.2%,55.2%,0.0%,60.6%,48.0%,45.5% (5/11),1:30
-28-Jan-2019,Hua Hin,3,Hard,QF,60,98,0,,,Magda Linette,Yafan Wang,6-2 6-3 (ch),0.75,0.0%,6.8%,58.1%,55.8%,45.2%,73.7% (14/19),44.5%,36.5%,3.2%,33.3%,42.9%,16.7% (1/6),1:42
+28-Jan-2019,Hua Hin,3,Hard,QF,60,98,0,,,Magda Linette,Yafan Wang,6-2 6-3,0.75,0.0%,6.8%,58.1%,55.8%,45.2%,73.7% (14/19),44.5%,36.5%,3.2%,33.3%,42.9%,16.7% (1/6),1:42
 28-Jan-2019,Hua Hin,3,Hard,R16,60,40,1,,5,Yafan Wang,Shuai Zhang,4-1 RET,2.92,10.0%,0.0%,80.0%,87.5%,50.0%,- (0/0),64.7%,58.3%,4.2%,61.5%,54.5%,100.0% (2/2),0:22
 28-Jan-2019,Hua Hin,3,Hard,R32,60,94,1,,,Yafan Wang,Anna Blinkova,5-7 6-2 6-1,1.18,1.7%,4.3%,53.0%,58.1%,43.6%,75.0% (18/24),54.0%,57.4%,3.2%,54.1%,63.6%,60.0% (9/15),2:29
 14-Jan-2019,Australian Open,5,Hard,R64,65,15,0,,15,Ashleigh Barty,Yafan Wang,6-2 6-3,0.52,0.0%,1.8%,69.6%,43.6%,64.7%,60.0% (6/10),39.2%,26.1%,15.2%,17.9%,38.9%,33.3% (1/3),1:05
 14-Jan-2019,Australian Open,5,Hard,R128,65,209,1,,WC,Yafan Wang,Ellen Perez,6-4 6-0,2.15,7.1%,4.8%,57.1%,83.3%,61.1%,50.0% (1/2),64.4%,56.3%,6.3%,41.4%,78.9%,62.5% (5/8),0:53
-31-Dec-2018,Shenzhen,3,Hard,SF,70,13,0,,1,Aryna Sabalenka,Yafan Wang,6-2 6-1 (ch),0.54,2.3%,7.0%,65.1%,53.6%,40.0%,20.0% (1/5),37.2%,27.5%,11.8%,16.7%,53.3%,0.0% (0/4),1:02
+31-Dec-2018,Shenzhen,3,Hard,SF,70,13,0,,1,Aryna Sabalenka,Yafan Wang,6-2 6-1,0.54,2.3%,7.0%,65.1%,53.6%,40.0%,20.0% (1/5),37.2%,27.5%,11.8%,16.7%,53.3%,0.0% (0/4),1:02
 31-Dec-2018,Shenzhen,3,Hard,QF,70,99,1,,Q,Yafan Wang,Monica Niculescu,2-6 7-6(4) 6-1,1.19,2.2%,7.9%,68.5%,65.6%,57.1%,50.0% (4/8),53.3%,44.1%,0.0%,42.7%,50.0%,25.0% (4/16),2:19
 31-Dec-2018,Shenzhen,3,Hard,R16,70,60,1,,,Yafan Wang,Ons Jabeur,3-6 6-4 6-4,1.12,1.0%,3.9%,57.3%,67.8%,54.5%,75.0% (12/16),52.8%,42.6%,5.3%,33.3%,56.8%,50.0% (4/8),2:01
 31-Dec-2018,Shenzhen,3,Hard,R32,70,78,1,,,Yafan Wang,Anna Karolina Schmiedlova,6-1 6-0,1.97,5.3%,5.3%,52.6%,85.0%,38.9%,66.7% (2/3),68.3%,72.7%,2.3%,74.1%,70.6%,70.0% (7/10),0:59
@@ -149,7 +245,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Apr-2018,Anning,3,Clay,QF,87,157,0,2,7,Xinyun Han,Yafan Wang,6-3 2-6 6-4,0.93,1.0%,3.0%,61.0%,54.1%,38.5%,41.7% (5/12),48.3%,48.6%,0.0%,39.6%,66.7%,85.7% (6/7),2:20
 30-Apr-2018,Anning,3,Clay,R16,87,193,1,2,,Yafan Wang,Ankita Raina,7-6(4) 7-5,1.13,2.1%,5.3%,63.8%,68.3%,47.1%,75.0% (9/12),52.7%,44.6%,0.0%,39.1%,57.1%,30.8% (4/13),2:02
 30-Apr-2018,Anning,3,Clay,R32,87,204,1,2,,Yafan Wang,Danielle Lao,5-7 7-6(6) 6-4,1.09,2.6%,7.0%,62.6%,63.9%,46.5%,58.8% (10/17),52.0%,46.5%,0.0%,36.8%,60.9%,53.8% (7/13),2:51
-16-Apr-2018,Zhengzhou,3,Hard,F,98,139,0,4,,Saisai Zheng,Yafan Wang,5-7 6-2 6-1 (ch),0.83,2.0%,5.0%,71.0%,49.3%,41.4%,63.6% (14/22),45.7%,44.0%,3.6%,41.5%,52.6%,36.4% (4/11),2:25
+16-Apr-2018,Zhengzhou,3,Hard,F,98,139,0,4,,Saisai Zheng,Yafan Wang,5-7 6-2 6-1,0.83,2.0%,5.0%,71.0%,49.3%,41.4%,63.6% (14/22),45.7%,44.0%,3.6%,41.5%,52.6%,36.4% (4/11),2:25
 16-Apr-2018,Zhengzhou,3,Hard,SF,98,107,1,4,6,Yafan Wang,Yanina Wickmayer,6-2 3-6 6-2,1.14,4.5%,4.5%,69.7%,66.1%,37.0%,80.0% (12/15),53.2%,48.8%,0.0%,51.0%,45.5%,50.0% (6/12),2:13
 16-Apr-2018,Zhengzhou,3,Hard,QF,98,129,1,4,8,Yafan Wang,Lin Zhu,6-4 7-6(5),1.01,0.0%,3.2%,59.1%,65.5%,57.9%,87.5% (7/8),51.5%,38.2%,0.0%,28.6%,50.0%,50.0% (2/4),1:51
 16-Apr-2018,Zhengzhou,3,Hard,R16,98,184,1,4,,Yafan Wang,Sabina Sharipova,6-1 6-2,1.73,3.9%,3.9%,62.7%,59.4%,68.4%,60.0% (3/5),63.5%,64.4%,0.0%,48.0%,85.0%,60.0% (6/10),0:55
@@ -185,7 +281,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Oct-2017,Liuzhou $60K,3,Hard,R32,196,,1,,Q,Yafan Wang,Yidi Yang,6-2 6-1,,,,,,,,,,,,,,
 9-Oct-2017,Tianjin,3,Hard,R16,169,94,0,,,Sara Sorribes Tormo,Yafan Wang,6-4 2-6 6-3,0.95,0.0%,0.0%,65.9%,41.7%,48.4%,38.5% (5/13),49.0%,53.3%,0.0%,48.8%,66.7%,44.4% (8/18),2:37
 9-Oct-2017,Tianjin,3,Hard,R32,169,56,1,,8,Yafan Wang,Alison Riske Amritraj,6-3 6-3,1.41,0.0%,5.3%,64.9%,67.6%,50.0%,60.0% (3/5),57.9%,54.4%,3.5%,47.5%,70.6%,62.5% (5/8),1:21
-2-Oct-2017,Beijing ,3,Hard,R64,139,37,0,WC,,Alize Cornet,Yafan Wang,6-3 7-5,0.80,0.0%,4.7%,50.0%,46.9%,31.3%,27.3% (3/11),44.2%,48.6%,1.4%,40.4%,68.2%,54.5% (6/11),1:49
+2-Oct-2017,Beijing,3,Hard,R64,139,37,0,WC,,Alize Cornet,Yafan Wang,6-3 7-5,0.80,0.0%,4.7%,50.0%,46.9%,31.3%,27.3% (3/11),44.2%,48.6%,1.4%,40.4%,68.2%,54.5% (6/11),1:49
 25-Sep-2017,Wuhan,3,Hard,R64,141,46,0,WC,,Sorana Cirstea,Yafan Wang,6-3 6-3,0.75,0.0%,5.0%,66.7%,47.5%,55.0%,50.0% (4/8),43.5%,37.5%,3.1%,35.9%,40.0%,50.0% (1/2),1:27
 18-Sep-2017,Guangzhou,3,Hard,R16,147,94,0,,,Evgeniya Rodina,Yafan Wang,6-1 6-2,0.55,1.8%,7.0%,59.6%,55.9%,30.4%,54.5% (6/11),38.5%,29.8%,4.3%,20.6%,53.8%,0.0% (0/3),1:15
 18-Sep-2017,Guangzhou,3,Hard,R32,147,40,1,,5,Yafan Wang,Elise Mertens,6-2 7-6(5),1.11,2.7%,4.0%,58.7%,63.6%,45.2%,40.0% (2/5),52.2%,48.8%,1.2%,39.6%,61.1%,50.0% (5/10),1:53
@@ -208,7 +304,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Oct-2016,Liuzhou $50K,3,Hard,QF,121,152,1,3,5,Yafan Wang,Sabina Sharipova,7-6(6) 6-1,,,,,,,,,,,,,,
 24-Oct-2016,Liuzhou $50K,3,Hard,R16,121,196,1,3,,Yafan Wang,Sofia Shapatava,2-6 7-6(6) 6-4,,,,,,,,,,,,,,
 24-Oct-2016,Liuzhou $50K,3,Hard,R32,121,331,1,3,,Yafan Wang,Jacqueline Cako,6-2 6-4,,,,,,,,,,,,,,
-17-Oct-2016,Suzhou $50K,3,Hard,F,127,193,0,4,,Kai Chen Chang,Yafan Wang,4-6 6-2 6-1 (ch),,,,,,,,,,,,,,
+17-Oct-2016,Suzhou $50K,3,Hard,F,127,193,0,4,,Kai Chen Chang,Yafan Wang,4-6 6-2 6-1,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,SF,127,260,1,4,,Yafan Wang,Katarzyna Piter,7-5 6-4,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,QF,127,335,1,4,,Yafan Wang,Ya Hsuan Lee,7-5 6-3,,,,,,,,,,,,,,
 17-Oct-2016,Suzhou $50K,3,Hard,R16,127,471,1,4,Q,Yafan Wang,Xu Liu Sun,6-3 6-2,,,,,,,,,,,,,,
@@ -336,7 +432,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Oct-2014,Ningbo,3,Hard,R16,182,502,0,,Q,Yan Wang,Yafan Wang,6-1 3-6 6-1,0.84,0.0%,5.9%,76.5%,50.8%,30.0%,38.5% (5/13),45.6%,45.2%,0.0%,44.4%,47.4%,44.4% (4/9),
 27-Oct-2014,Ningbo,3,Hard,R32,182,355,1,,,Yafan Wang,Melinda Czink,4-6 6-3 6-1,1.08,0.0%,4.4%,71.1%,54.7%,46.2%,61.5% (8/13),52.0%,51.8%,1.2%,45.1%,62.5%,50.0% (8/16),
 22-Sep-2014,Wuhan,3,Hard,Q1,187,71,0,,,Anna Karolina Schmiedlova,Yafan Wang,1-6 6-3 6-3,0.97,3.6%,1.2%,75.0%,52.4%,42.9%,50.0% (6/12),49.1%,48.3%,0.0%,40.0%,70.8%,46.2% (6/13),
-15-Sep-2014,Guangzhou,3,Hard,SF,251,60,0,WC,,Monica Niculescu,Yafan Wang,6-0 6-2 (ch),0.51,0.0%,10.6%,55.3%,46.2%,28.6%,25.0% (2/8),35.3%,31.6%,5.3%,28.0%,38.5%,100.0% (1/1),
+15-Sep-2014,Guangzhou,3,Hard,SF,251,60,0,WC,,Monica Niculescu,Yafan Wang,6-0 6-2,0.51,0.0%,10.6%,55.3%,46.2%,28.6%,25.0% (2/8),35.3%,31.6%,5.3%,28.0%,38.5%,100.0% (1/1),
 15-Sep-2014,Guangzhou,3,Hard,QF,251,259,1,WC,Q,Yafan Wang,Kai Lin Zhang,3-6 6-2 6-2,1.14,1.1%,8.0%,60.2%,66.0%,37.1%,69.2% (9/13),53.1%,51.7%,1.1%,44.7%,57.1%,50.0% (7/14),
 15-Sep-2014,Guangzhou,3,Hard,R16,251,226,1,WC,Q,Yafan Wang,Petra Martic,7-6(5) 6-3,1.31,2.8%,2.8%,63.4%,73.3%,61.5%,50.0% (2/4),54.5%,40.5%,5.4%,37.5%,44.1%,50.0% (3/6),
 15-Sep-2014,Guangzhou,3,Hard,R32,251,20,1,WC,1,Yafan Wang,Samantha Stosur,2-6 6-2 6-2,1.09,5.4%,4.3%,59.8%,72.7%,45.9%,81.8% (9/11),53.1%,41.4%,4.3%,32.5%,53.3%,66.7% (4/6),

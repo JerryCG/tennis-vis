@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 14-Jun-2021,Birmingham,3,Grass,Q1,635,170,0,WC,7,Kurumi Nara,Naomi Broady,6-3 6-4,0.66,9.1%,16.4%,56.4%,83.9%,37.5%,50.0% (2/4),44.0%,24.1%,1.9%,23.7%,25.0%,- (0/0),1:09
 22-Feb-2021,W15 Sharm El Sheikh,3,Hard,R16,524,736,0,8,,Svenja Ochsner,Naomi Broady,6-3 2-6 6-3,,,,,,,,,,,,,,
 22-Feb-2021,W15 Sharm El Sheikh,3,Hard,R32,524,,1,8,WC,Naomi Broady,Dasha Plekhanova,7-5 6-4,,,,,,,,,,,,,,
@@ -205,7 +205,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jan-2016,Maui HI $50K,3,Hard,R32,111,341,1,3,,Naomi Broady,Lyudmyla Kichenok,7-6(4) 6-4,,,,,,,,,,,,,,
 18-Jan-2016,Australian Open,5,Hard,Q1,111,167,0,3,,Alize Lim,Naomi Broady,6-3 2-6 6-3,,,,,,,,,,,,,,
 4-Jan-2016,Auckland,3,Hard,QF,122,30,0,Q,5,Sloane Stephens,Naomi Broady,7-6(6) 6-3,0.92,4.2%,4.2%,50.7%,75.0%,51.4%,75.0% (6/8),47.4%,33.7%,3.6%,26.5%,44.1%,14.3% (1/7),1:36
-4-Jan-2016,Auckland,3,Hard,R16,122,84,1,Q,WC,Naomi Broady,Jelena Ostapenko,4-6 7-6(4) 7-5 (ch),0.99,17.4%,6.6%,57.0%,71.0%,38.5%,62.5% (10/16),49.8%,42.4%,3.4%,27.8%,54.7%,46.2% (6/13),2:29
+4-Jan-2016,Auckland,3,Hard,R16,122,84,1,Q,WC,Naomi Broady,Jelena Ostapenko,4-6 7-6(4) 7-5,0.99,17.4%,6.6%,57.0%,71.0%,38.5%,62.5% (10/16),49.8%,42.4%,3.4%,27.8%,54.7%,46.2% (6/13),2:29
 4-Jan-2016,Auckland,3,Hard,R32,122,16,1,Q,2,Naomi Broady,Ana Ivanovic,7-5 6-4,1.37,22.2%,0.0%,68.3%,74.4%,50.0%,60.0% (3/5),54.8%,45.8%,7.2%,30.4%,64.9%,40.0% (4/10),1:22
 4-Jan-2016,Auckland,3,Hard,Q3,122,80,1,,1,Naomi Broady,Magdalena Rybarikova,6-3 1-6 7-6(6),0.89,6.0%,4.8%,52.4%,75.0%,42.5%,20.0% (1/5),47.9%,36.1%,2.4%,27.8%,51.7%,60.0% (3/5),1:47
 4-Jan-2016,Auckland,3,Hard,Q2,122,162,1,,,Naomi Broady,Kateryna Baindl,6-2 6-4,1.53,16.3%,2.0%,63.3%,80.6%,55.6%,50.0% (1/2),56.7%,43.6%,0.0%,31.4%,65.0%,66.7% (4/6),1:09
@@ -220,7 +220,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Oct-2015,Luxembourg,3,Hard,Q1,116,131,0,6,,Richel Hogenkamp,Naomi Broady,6-4 3-6 6-3,,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,Q1,116,108,0,,,Sesil Karatantcheva,Naomi Broady,6-2 4-6 6-4,,,,,,,,,,,,,,
 21-Sep-2015,Albuquerque NM $75K,3,Hard,F,127,435,0,7,Q,Michaella Krajicek,Naomi Broady,6-7(2) 7-6(3) 7-5,,,,,,,,,,,,,,
-21-Sep-2015,Albuquerque NM $75K,3,Hard,SF,127,394,1,7,Q,Naomi Broady,Amra Sadikovic,6-4 5-7 6-4 (ch),,,,,,,,,,,,,,
+21-Sep-2015,Albuquerque NM $75K,3,Hard,SF,127,394,1,7,Q,Naomi Broady,Amra Sadikovic,6-4 5-7 6-4,,,,,,,,,,,,,,
 21-Sep-2015,Albuquerque NM $75K,3,Hard,QF,127,105,1,7,1,Naomi Broady,An Sophie Mestach,6-3 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Albuquerque NM $75K,3,Hard,R16,127,563,1,7,WC,Naomi Broady,Julia Jones,6-1 7-6(7),,,,,,,,,,,,,,
 21-Sep-2015,Albuquerque NM $75K,3,Hard,R32,127,619,1,7,Q,Naomi Broady,Ulrikke Eikeri,6-2 6-2,,,,,,,,,,,,,,
@@ -250,7 +250,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jul-2015,Stockton CA $50K,3,Hard,R32,225,370,1,8,Q,Naomi Broady,Heidi El Tabakh,6-3 6-2,,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,R128,200,99,0,WC,,Mariana Duque Marino,Naomi Broady,7-6(5) 6-3,0.99,8.8%,2.9%,57.4%,79.5%,51.7%,75.0% (6/8),48.3%,32.1%,2.5%,26.7%,38.9%,20.0% (1/5),
 22-Jun-2015,Eastbourne,3,Grass,R64,197,43,0,WC,,Sloane Stephens,Naomi Broady,3-6 6-3 7-6(4),1.04,8.3%,8.3%,57.1%,75.0%,52.8%,20.0% (1/5),49.7%,35.8%,7.4%,30.2%,46.9%,36.4% (4/11),
-15-Jun-2015,Birmingham,3,Grass,R32,208,3,0,WC,1,Simona Halep,Naomi Broady,6-4 6-2 (ch),0.63,7.1%,0.0%,66.1%,64.9%,26.3%,33.3% (2/6),41.3%,30.2%,9.4%,22.6%,40.9%,50.0% (1/2),
+15-Jun-2015,Birmingham,3,Grass,R32,208,3,0,WC,1,Simona Halep,Naomi Broady,6-4 6-2,0.63,7.1%,0.0%,66.1%,64.9%,26.3%,33.3% (2/6),41.3%,30.2%,9.4%,22.6%,40.9%,50.0% (1/2),
 15-Jun-2015,Birmingham,3,Grass,R64,208,81,1,WC,,Naomi Broady,Ajla Tomljanovic,6-3 6-4,1.61,25.0%,8.3%,64.6%,90.3%,47.1%,50.0% (1/2),55.5%,40.3%,8.1%,32.5%,54.5%,44.4% (4/9),
 8-Jun-2015,Surbiton $50K,3,Grass,SF,224,86,0,,1,Vitalia Diatchenko,Naomi Broady,6-1 6-3,,,,,,,,,,,,,,
 8-Jun-2015,Surbiton $50K,3,Grass,QF,224,319,1,,,Naomi Broady,Amanda Carreras,6-1 6-4,,,,,,,,,,,,,,

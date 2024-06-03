@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 26-Nov-1984,Australian Open,5,Grass,Q1,,101,0,,8,Kim Steinmetz,Sue Barker,7-6(4) 6-2,,,,,,,,,,,,,,
 19-Nov-1984,Sydney,3,Grass,R64,,32,0,,,Rosalyn Fairbank,Sue Barker,7-5 6-3,,,,,,,,,,,,,,
 23-Oct-1984,Brighton,3,Carpet,R32,,32,0,,,Virginia Ruzici,Sue Barker,6-4 7-5,,,,,,,,,,,,,,
@@ -534,7 +534,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Sep-1975,Atlanta,3,Hard,R16,,,0,,2,Virginia Wade,Sue Barker,6-2 6-2,,,,,,,,,,,,,,
 15-Sep-1975,Atlanta,3,Hard,R32,,,1,,,Sue Barker,Betsy Nagelsen,6-2 6-4,,,,,,,,,,,,,,
 15-Sep-1975,Atlanta,3,Hard,R64,,,1,,,Sue Barker,Roberta Stark,6-4 6-4,,,,,,,,,,,,,,
-12-Sep-1975,Wightman Cup,3,,RR,,,1,,,Sue Barker,Janet Newberry,6-4 7-5,,,,,,,,,,,,,,
+12-Sep-1975,Wightman Cup,3,Hard,RR,,,1,,,Sue Barker,Janet Newberry,6-4 7-5,,,,,,,,,,,,,,
 27-Aug-1975,US Open,5,Clay,R32,,,0,,,Greer Stevens,Sue Barker,6-0 6-7 6-4,,,,,,,,,,,,,,
 27-Aug-1975,US Open,5,Clay,R64,,,1,,,Sue Barker,Sandy Stap,3-6 6-1 6-3,,,,,,,,,,,,,,
 14-Jul-1975,Kitzbuhel,3,Clay,F,,,1,,,Sue Barker,Pam Teeguarden,6-4 6-4,,,,,,,,,,,,,,
@@ -668,3 +668,4 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Nov-1970,Torquay,3,Carpet,R16,,,0,,5,Winnie Shaw,Sue Barker,6-1 6-2,,,,,,,,,,,,,,
 2-Nov-1970,Torquay,3,Carpet,R32,,,1,,,Sue Barker,J Lloyd,6-0 6-1,,,,,,,,,,,,,,
 2-Nov-1970,Torquay,3,Carpet,Q1,,,1,,,Sue Barker,Jane Plackett,6-2 6-1,,,,,,,,,,,,,,
+17-Aug-1970,Exmouth,3,Grass,R16,,,0,,,Denise Staniszewski,Sue Barker,4-6 6-4 6-4,,,,,,,,,,,,,,

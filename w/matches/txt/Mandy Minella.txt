@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 27-Jun-2022,Wimbledon,5,Grass,Q2,259,129,0,,5,Maddison Inglis,Mandy Minella,7-6(3) 3-6 6-2,0.98,0.9%,1.9%,62.3%,56.1%,50.0%,60.0% (9/15),49.7%,45.2%,3.2%,38.2%,64.0%,54.5% (6/11),2:18
 27-Jun-2022,Wimbledon,5,Grass,Q1,259,241,1,,,Mandy Minella,Na Lae Han,6-2 0-6 6-2,1.11,2.6%,5.3%,67.1%,60.8%,56.0%,57.1% (4/7),52.8%,45.5%,0.0%,45.5%,45.5%,50.0% (4/8),1:25
 13-Jun-2022,W100 Ilkley,3,Grass,QF,271,98,0,Q,1,Dalma Galfi,Mandy Minella,7-6(3) 5-7 6-4,,,,,,,,,,,,,,
@@ -7,8 +7,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jun-2022,W100 Ilkley,3,Grass,Q2,271,261,1,9,8,Mandy Minella,Lulu Sun,6-4 6-7(3) 12-10,,,,,,,,,,,,,,
 13-Jun-2022,W100 Ilkley,3,Grass,Q1,271,,1,9,,Mandy Minella,Brooke Black,6-3 6-2,,,,,,,,,,,,,,
 9-May-2022,Karlsruhe 125,3,Clay,R32,258,94,0,ALT,,Jule Niemeier,Mandy Minella,6-4 6-3,0.68,7.0%,7.0%,54.4%,67.7%,38.5%,0.0% (0/3),42.6%,31.0%,15.5%,22.7%,57.1%,20.0% (1/5),1:10
-2-May-2022,W100 Wiesbaden,3,Clay,R16,256,114,0,,,Danka Kovinic,Mandy Minella,3-6 6-4 6-1,,,,,,,,,,,,,,
-2-May-2022,W100 Wiesbaden,3,Clay,R32,256,315,1,,Q,Mandy Minella,Eva Vedder,6-4 6-2,,,,,,,,,,,,,,
+2-May-2022,W100 Wiesbaden,3,Clay,R16,256,114,0,,,Danka Kovinic,Mandy Minella,3-6 6-4 6-1,0.90,0.0%,1.2%,51.2%,50.0%,40.0%,38.5% (5/13),47.4%,49.4%,0.0%,44.2%,56.8%,54.5% (6/11),
+2-May-2022,W100 Wiesbaden,3,Clay,R32,256,315,1,,Q,Mandy Minella,Eva Vedder,6-4 6-2,1.41,0.0%,0.0%,73.5%,58.3%,53.8%,40.0% (2/5),58.8%,60.4%,3.8%,51.5%,75.0%,75.0% (6/8),
 25-Apr-2022,W60 Istanbul,3,Clay,R32,256,427,0,,Q,Nikola Bartunkova,Mandy Minella,6-2 6-4,,,,,,,,,,,,,,
 18-Apr-2022,Stuttgart,3,Clay,Q1,253,118,0,,3,Tamara Korpatsch,Mandy Minella,6-4 6-3,0.71,1.7%,5.1%,61.0%,50.0%,47.8%,37.5% (3/8),42.7%,36.2%,3.4%,16.7%,57.1%,100.0% (3/3),1:12
 15-Apr-2022,BJK Cup G2 REL: GRE vs LUX,3,Hard,RR,251,172,1,,,Mandy Minella,Despina Papamichail,6-1 6-0,3.20,11.1%,0.0%,66.7%,87.5%,41.7%,50.0% (1/2),79.4%,88.9%,0.0%,90.0%,85.7%,100.0% (6/6),0:44
@@ -84,7 +84,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Aug-2019,US Open,5,Hard,R128,142,12,0,,13,Belinda Bencic,Mandy Minella,6-3 6-2,0.59,0.0%,5.4%,67.9%,55.3%,38.9%,42.9% (3/7),40.2%,29.4%,9.8%,25.9%,33.3%,33.3% (1/3),1:07
 8-Jul-2019,W100 Contrexeville,3,Clay,R16,98,196,0,3,,Katarina Zavatska,Mandy Minella,6-3 6-1,,,,,,,,,,,,,,
 8-Jul-2019,W100 Contrexeville,3,Clay,R32,98,266,1,3,,Mandy Minella,Harmony Tan,6-4 2-6 6-1,,,,,,,,,,,,,,
-1-Jul-2019,Wimbledon,5,Grass,R128,98,4,0,,4,Kiki Bertens,Mandy Minella,6-3 6-2 (ch),0.67,5.8%,5.8%,69.2%,52.8%,50.0%,55.6% (5/9),41.9%,32.1%,3.8%,32.1%,32.0%,50.0% (1/2),1:07
+1-Jul-2019,Wimbledon,5,Grass,R128,98,4,0,,4,Kiki Bertens,Mandy Minella,6-3 6-2,0.67,5.8%,5.8%,69.2%,52.8%,50.0%,55.6% (5/9),41.9%,32.1%,3.8%,32.1%,32.0%,50.0% (1/2),1:07
 24-Jun-2019,Eastbourne,3,Grass,R32,98,62,0,LL,,Ons Jabeur,Mandy Minella,2-6 6-2 6-1,0.83,6.3%,1.6%,61.9%,69.2%,41.7%,20.0% (1/5),46.2%,34.3%,6.0%,35.6%,31.8%,50.0% (2/4),1:17
 24-Jun-2019,Eastbourne,3,Grass,Q2,98,74,0,,6,Jessica Pegula,Mandy Minella,6-2 0-0 RET,0.37,4.2%,0.0%,87.5%,52.4%,0.0%,71.4% (5/7),34.1%,20.0%,10.0%,21.4%,16.7%,- (0/0),0:26
 24-Jun-2019,Eastbourne,3,Grass,Q1,98,85,1,,11,Mandy Minella,Astra Sharma,2-6 7-5 6-2,1.04,1.1%,3.4%,69.7%,59.7%,40.7%,28.6% (2/7),50.5%,47.8%,6.2%,47.1%,48.8%,40.0% (6/15),2:05
@@ -134,14 +134,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Oct-2018,Linz,3,Hard,Q2,113,119,0,11,,Ekaterina Alexandrova,Mandy Minella,6-1 6-0,0.47,2.3%,2.3%,72.1%,45.2%,16.7%,45.5% (5/11),33.8%,29.7%,8.1%,20.0%,41.2%,0.0% (0/1),0:45
 8-Oct-2018,Linz,3,Hard,Q1,113,,1,11,WC,Mandy Minella,Mavie Osterreicher,6-3 6-1,2.32,0.0%,0.0%,58.5%,75.0%,82.4%,- (0/0),62.0%,50.8%,0.0%,51.3%,50.0%,33.3% (4/12),1:05
 1-Oct-2018,Beijing,3,Hard,Q1,114,46,0,,1,Ajla Tomljanovic,Mandy Minella,6-2 6-2,0.68,0.0%,7.8%,54.7%,54.3%,34.5%,50.0% (5/10),41.7%,37.3%,5.9%,41.4%,31.8%,33.3% (1/3),1:14
-17-Sep-2018,Seoul,3,Hard,QF,132,53,0,,,Ajla Tomljanovic,Mandy Minella,6-2 4-6 7-5 (ch),0.92,4.1%,7.1%,60.2%,52.5%,41.0%,42.9% (6/14),47.8%,47.7%,3.7%,37.3%,60.0%,37.5% (6/16),2:24
+17-Sep-2018,Seoul,3,Hard,QF,132,53,0,,,Ajla Tomljanovic,Mandy Minella,6-2 4-6 7-5,0.92,4.1%,7.1%,60.2%,52.5%,41.0%,42.9% (6/14),47.8%,47.7%,3.7%,37.3%,60.0%,37.5% (6/16),2:24
 17-Sep-2018,Seoul,3,Hard,R16,132,173,1,,Q,Mandy Minella,Priscilla Hon,6-4 6-3,1.27,0.0%,1.8%,68.4%,61.5%,50.0%,50.0% (3/6),55.6%,53.6%,1.4%,42.5%,69.0%,54.5% (6/11),1:29
 17-Sep-2018,Seoul,3,Hard,R32,132,35,1,,4,Mandy Minella,Magdalena Rybarikova,6-3 3-2 RET,1.21,5.5%,5.5%,56.4%,74.2%,45.8%,87.5% (7/8),55.3%,46.2%,5.1%,26.1%,75.0%,100.0% (3/3),1:07
 10-Sep-2018,Hiroshima,3,Hard,R16,139,40,0,,2,Su Wei Hsieh,Mandy Minella,6-3 6-2,0.64,1.7%,0.0%,67.8%,50.0%,52.6%,33.3% (2/6),41.6%,31.5%,0.0%,25.0%,38.5%,16.7% (1/6),1:13
 10-Sep-2018,Hiroshima,3,Hard,R32,139,118,1,,,Mandy Minella,Kurumi Nara,6-3 6-4,1.19,4.7%,3.1%,59.4%,63.2%,42.3%,57.1% (4/7),54.3%,53.9%,0.0%,52.2%,56.7%,60.0% (6/10),1:32
 27-Aug-2018,US Open,5,Hard,Q2,144,143,0,,32,Anna Kalinskaya,Mandy Minella,6-1 6-3,0.75,7.5%,7.5%,64.2%,52.9%,42.1%,28.6% (2/7),43.8%,38.5%,3.8%,34.4%,45.0%,20.0% (1/5),1:04
 27-Aug-2018,US Open,5,Hard,Q1,144,195,1,,,Mandy Minella,Dejana Radanovic,6-1 6-3,1.71,6.4%,4.3%,59.6%,82.1%,52.6%,66.7% (2/3),60.6%,51.1%,0.0%,50.0%,52.2%,83.3% (5/6),1:04
-16-Jul-2018,Gstaad,3,Clay,F,226,48,0,,1,Alize Cornet,Mandy Minella,6-4 7-6(6) (ch),0.88,1.9%,1.9%,68.3%,50.7%,54.5%,75.0% (15/20),48.0%,42.5%,0.0%,36.5%,57.1%,50.0% (4/8),2:00
+16-Jul-2018,Gstaad,3,Clay,F,226,48,0,,1,Alize Cornet,Mandy Minella,6-4 7-6(6),0.88,1.9%,1.9%,68.3%,50.7%,54.5%,75.0% (15/20),48.0%,42.5%,0.0%,36.5%,57.1%,50.0% (4/8),2:00
 16-Jul-2018,Gstaad,3,Clay,SF,226,104,1,,,Mandy Minella,Marketa Vondrousova,4-6 6-2 6-2,1.13,1.2%,1.2%,64.7%,72.7%,53.3%,75.0% (3/4),53.1%,38.7%,5.3%,40.4%,35.7%,80.0% (4/5),1:37
 16-Jul-2018,Gstaad,3,Clay,QF,226,83,1,,,Mandy Minella,Sara Sorribes Tormo,6-1 6-2,1.64,3.1%,1.6%,67.2%,58.1%,52.4%,66.7% (6/9),62.7%,71.7%,0.0%,68.0%,76.2%,58.3% (7/12),1:15
 16-Jul-2018,Gstaad,3,Clay,R16,226,77,1,,2,Mandy Minella,Johanna Larsson,6-3 6-4,1.24,3.1%,3.1%,68.8%,75.0%,60.0%,100.0% (3/3),55.8%,36.7%,12.2%,32.4%,46.7%,100.0% (2/2),1:11
@@ -202,8 +202,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Apr-2017,Fed Cup G2 RR: LTU vs LUX,3,Hard,RR,67,714,1,,,Mandy Minella,Joana Eidukonyte,6-0 6-3,2.20,13.6%,2.3%,75.0%,72.7%,72.7%,75.0% (3/4),66.3%,60.0%,2.2%,54.2%,66.7%,83.3% (5/6),1:00
 3-Apr-2017,Monterrey,3,Hard,R16,68,1,0,,1,Angelique Kerber,Mandy Minella,6-1 6-3,0.41,7.7%,1.9%,63.5%,42.4%,57.9%,50.0% (4/8),36.2%,21.4%,4.8%,12.5%,33.3%,- (0/0),0:58
 3-Apr-2017,Monterrey,3,Hard,R32,68,149,1,,,Mandy Minella,Elitsa Kostova,7-6(3) 6-3,1.42,6.5%,4.8%,53.2%,78.8%,55.2%,25.0% (1/4),55.9%,45.9%,1.4%,50.9%,29.4%,40.0% (4/10),1:32
-20-Mar-2017,Miami,3,Hard,R64,74,7,0,,7,Svetlana Kuznetsova,Mandy Minella,6-2 6-2 (ch),0.64,4.4%,0.0%,75.6%,38.2%,45.5%,25.0% (2/8),39.2%,38.6%,1.8%,36.8%,42.1%,33.3% (2/6),1:06
-20-Mar-2017,Miami,3,Hard,R128,74,52,1,,,Mandy Minella,Kristyna Pliskova,7-6(4) 5-7 7-5 (ch),0.98,1.6%,5.6%,59.7%,60.8%,50.0%,33.3% (3/9),50.0%,42.9%,4.5%,35.6%,50.9%,46.2% (6/13),2:38
+20-Mar-2017,Miami,3,Hard,R64,74,7,0,,7,Svetlana Kuznetsova,Mandy Minella,6-2 6-2,0.64,4.4%,0.0%,75.6%,38.2%,45.5%,25.0% (2/8),39.2%,38.6%,1.8%,36.8%,42.1%,33.3% (2/6),1:06
+20-Mar-2017,Miami,3,Hard,R128,74,52,1,,,Mandy Minella,Kristyna Pliskova,7-6(4) 5-7 7-5,0.98,1.6%,5.6%,59.7%,60.8%,50.0%,33.3% (3/9),50.0%,42.9%,4.5%,35.6%,50.9%,46.2% (6/13),2:38
 6-Mar-2017,Indian Wells,3,Hard,R128,76,104,0,Q,,Sara Errani,Mandy Minella,1-6 6-4 7-5,1.02,4.5%,4.5%,60.9%,55.2%,46.5%,33.3% (3/9),50.5%,49.1%,0.9%,50.7%,45.7%,31.6% (6/19),2:44
 6-Mar-2017,Indian Wells,3,Hard,Q2,76,165,1,5,,Mandy Minella,Tereza Martincova,4-6 6-4 6-3,1.15,2.4%,6.0%,60.7%,66.7%,51.5%,33.3% (2/6),52.5%,45.4%,2.1%,38.5%,59.4%,40.0% (6/15),2:11
 6-Mar-2017,Indian Wells,3,Hard,Q1,76,222,1,5,WC,Mandy Minella,Daniela Hantuchova,6-2 6-4,1.35,4.6%,7.7%,56.9%,73.0%,53.6%,87.5% (7/8),56.2%,47.7%,3.1%,41.2%,54.8%,40.0% (4/10),1:32
@@ -226,7 +226,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Nov-2016,Limoges,3,Hard,R16,105,128,0,7,,Maryna Zanevska,Mandy Minella,6-2 7-5,0.74,3.3%,5.0%,56.7%,64.7%,30.8%,50.0% (5/10),43.0%,36.8%,1.5%,22.0%,59.3%,25.0% (2/8),1:20
 14-Nov-2016,Limoges,3,Hard,R32,105,342,1,7,WC,Mandy Minella,Dayana Yastremska,6-4 7-5,1.12,1.2%,3.6%,65.1%,66.7%,51.7%,71.4% (5/7),52.9%,43.2%,1.4%,40.0%,48.3%,44.4% (4/9),1:57
 24-Oct-2016,Poitiers $100K,3,Hard,R32,102,69,0,,2,Pauline Parmentier,Mandy Minella,6-1 6-4,,,,,,,,,,,,,,
-17-Oct-2016,Luxembourg,3,Hard,R32,103,57,0,WC,,Andrea Petkovic,Mandy Minella,1-6 7-5 6-4 (ch),1.00,2.2%,2.2%,65.9%,55.0%,58.1%,50.0% (5/10),49.5%,44.1%,0.9%,38.6%,65.2%,40.0% (6/15),2:19
+17-Oct-2016,Luxembourg,3,Hard,R32,103,57,0,WC,,Andrea Petkovic,Mandy Minella,1-6 7-5 6-4,1.00,2.2%,2.2%,65.9%,55.0%,58.1%,50.0% (5/10),49.5%,44.1%,0.9%,38.6%,65.2%,40.0% (6/15),2:19
 10-Oct-2016,Linz,3,Hard,R32,106,59,0,Q,,Kirsten Flipkens,Mandy Minella,6-4 0-0 RET,0.79,2.6%,0.0%,76.3%,41.4%,22.2%,33.3% (2/6),43.4%,50.0%,2.6%,47.8%,53.3%,50.0% (3/6),0:51
 10-Oct-2016,Linz,3,Hard,Q3,106,241,1,6,WC,Mandy Minella,Daniela Hantuchova,6-3 6-7(5) 6-4,1.23,4.3%,1.1%,73.4%,68.1%,52.0%,25.0% (1/4),53.8%,44.6%,3.0%,40.9%,51.4%,75.0% (6/8),2:17
 10-Oct-2016,Linz,3,Hard,Q2,106,146,1,6,,Mandy Minella,Amra Sadikovic,4-6 7-5 3-0 RET,1.12,2.3%,1.1%,71.6%,61.9%,60.0%,85.7% (12/14),52.2%,43.3%,5.6%,32.7%,56.1%,40.0% (4/10),1:50
@@ -335,7 +335,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Jan-2015,Auckland,3,Hard,Q3,180,144,0,,,Anna Tatishvili,Mandy Minella,4-6 6-0 6-0,,,,,,,,,,,,,,
 5-Jan-2015,Auckland,3,Hard,Q2,180,134,1,,6,Mandy Minella,Sharon Fichman,7-6(3) 6-3,,,,,,,,,,,,,,
 5-Jan-2015,Auckland,3,Hard,Q1,180,173,1,,,Mandy Minella,Barbora Krejcikova,3-6 6-3 7-5,,,,,,,,,,,,,,
-13-Oct-2014,Luxembourg,3,Hard,R32,149,46,0,WC,,Mona Barthel,Mandy Minella,6-3 6-4 (ch),,,,,,,,,,,,,,
+13-Oct-2014,Luxembourg,3,Hard,R32,149,46,0,WC,,Mona Barthel,Mandy Minella,6-3 6-4,,,,,,,,,,,,,,
 6-Oct-2014,Linz,3,Hard,Q2,149,152,0,,,Alexandra Panova,Mandy Minella,7-6(0) 6-4,0.89,4.7%,4.7%,57.0%,63.3%,40.5%,42.9% (3/7),47.2%,41.5%,4.3%,28.3%,64.7%,23.1% (3/13),
 6-Oct-2014,Linz,3,Hard,Q1,149,104,1,,,Mandy Minella,Aleksandra Krunic,5-7 7-5 3-0 RET,1.09,6.3%,0.0%,70.0%,58.9%,37.5%,57.1% (8/14),52.1%,51.7%,1.1%,42.0%,64.9%,66.7% (8/12),
 29-Sep-2014,Beijing,3,Hard,Q1,146,66,0,,,Stefanie Voegele,Mandy Minella,6-1 6-2,0.61,0.0%,0.0%,67.2%,44.4%,40.9%,58.3% (7/12),39.7%,34.7%,8.2%,29.2%,40.0%,50.0% (1/2),
@@ -453,7 +453,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Jul-2012,Vancouver 100K,3,Hard,R32,76,214,0,1,,Jessica Pegula,Mandy Minella,6-3 7-5,,,,,,,,,,,,,,
 23-Jul-2012,Baku,3,Hard,QF,82,174,0,3,,Olga Puchkova,Mandy Minella,2-6 6-1 6-2,0.80,1.5%,3.0%,53.7%,69.4%,38.7%,42.9% (3/7),45.1%,36.0%,4.0%,25.0%,46.2%,28.6% (2/7),
 23-Jul-2012,Baku,3,Hard,R16,82,177,1,3,,Mandy Minella,Marta Domachowska,6-4 7-5,1.16,2.3%,5.7%,57.5%,64.0%,59.5%,88.9% (8/9),53.7%,44.2%,1.3%,38.8%,53.6%,42.9% (3/7),
-23-Jul-2012,Baku,3,Hard,R32,82,259,1,3,Q,Mandy Minella,Qiang Wang,6-2 5-7 6-3 (ch),1.15,0.0%,3.0%,52.5%,61.5%,53.2%,66.7% (8/12),52.8%,48.7%,0.0%,42.5%,60.0%,53.8% (7/13),
+23-Jul-2012,Baku,3,Hard,R32,82,259,1,3,Q,Mandy Minella,Qiang Wang,6-2 5-7 6-3,1.15,0.0%,3.0%,52.5%,61.5%,53.2%,66.7% (8/12),52.8%,48.7%,0.0%,42.5%,60.0%,53.8% (7/13),
 9-Jul-2012,Biarritz 100K,3,Clay,F,87,66,0,4,5,Romina Oprandi,Mandy Minella,7-5 7-5,,,,,,,,,,,,,,
 9-Jul-2012,Biarritz 100K,3,Clay,SF,87,97,1,4,1,Mandy Minella,Pauline Parmentier,6-2 6-3,,,,,,,,,,,,,,
 9-Jul-2012,Biarritz 100K,3,Clay,QF,87,104,1,4,6,Mandy Minella,Virginie Razzano,6-3 3-6 7-5,,,,,,,,,,,,,,

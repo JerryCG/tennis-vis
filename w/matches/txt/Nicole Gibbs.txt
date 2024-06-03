@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 2-Mar-2020,Indian Wells 125K,3,Hard,R64,146,114,0,,,Shelby Rogers,Nicole Gibbs,6-3 6-4,0.79,0.0%,5.2%,58.6%,50.0%,33.3%,14.3% (1/7),44.2%,45.1%,1.4%,37.2%,57.1%,30.0% (3/10),1:31
 24-Feb-2020,Acapulco,3,Hard,Q2,128,185,0,7,WC,Sara Errani,Nicole Gibbs,6-3 6-0,0.73,1.7%,5.0%,60.0%,36.1%,41.7%,53.3% (8/15),41.7%,44.8%,0.0%,40.0%,58.8%,20.0% (2/10),1:25
 24-Feb-2020,Acapulco,3,Hard,Q1,128,459,1,7,WC,Nicole Gibbs,Fernanda Contreras Gomez,6-2 6-3,1.45,1.6%,3.3%,60.7%,62.2%,54.2%,50.0% (2/4),59.1%,59.3%,0.0%,56.8%,64.7%,50.0% (5/10),1:16
@@ -23,7 +23,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Sep-2019,New Haven,3,Hard,R16,135,67,0,,2,Jennifer Brady,Nicole Gibbs,6-4 6-3,0.81,0.0%,6.5%,71.0%,59.1%,38.9%,60.0% (6/10),44.9%,37.8%,4.1%,24.4%,54.5%,20.0% (2/10),1:33
 2-Sep-2019,New Haven,3,Hard,R32,135,109,1,,14,Nicole Gibbs,Whitney Osuigwe,6-1 6-3,1.46,4.2%,8.3%,66.7%,68.8%,43.8%,33.3% (1/3),58.9%,57.6%,0.0%,48.8%,77.8%,54.5% (6/11),1:01
 2-Sep-2019,New Haven,3,Hard,R64,135,424,1,,WC,Nicole Gibbs,Jennifer Elie,6-3 6-2,1.41,0.0%,4.3%,51.1%,75.0%,47.8%,71.4% (5/7),57.6%,53.8%,0.0%,45.2%,66.7%,60.0% (6/10),1:14
-26-Aug-2019,US Open,5,Hard,R128,135,4,0,,4,Simona Halep,Nicole Gibbs,6-3 3-6 6-2 (ch),0.90,0.0%,2.2%,65.2%,56.9%,32.3%,46.2% (6/13),47.6%,46.7%,1.3%,49.0%,41.7%,41.7% (5/12),1:51
+26-Aug-2019,US Open,5,Hard,R128,135,4,0,,4,Simona Halep,Nicole Gibbs,6-3 3-6 6-2,0.90,0.0%,2.2%,65.2%,56.9%,32.3%,46.2% (6/13),47.6%,46.7%,1.3%,49.0%,41.7%,41.7% (5/12),1:51
 26-Aug-2019,US Open,5,Hard,Q3,135,167,0,24,,Shuai Peng,Nicole Gibbs,6-3 4-6 6-3,0.79,2.0%,3.1%,68.4%,46.3%,51.6%,58.8% (10/17),44.6%,40.9%,0.0%,40.9%,40.9%,55.6% (5/9),2:14
 26-Aug-2019,US Open,5,Hard,Q1,135,244,1,24,,Nicole Gibbs,Kaylah Mcphee,6-2 3-6 6-1,1.88,1.7%,1.7%,61.0%,77.8%,73.9%,0.0% (0/1),57.7%,44.6%,4.8%,41.1%,51.9%,57.1% (4/7),1:38
 12-Aug-2019,W100 Vancouver,3,Hard,R32,135,515,0,,Q,Ena Shibahara,Nicole Gibbs,6-4 4-6 6-3,,,,,,,,,,,,,,
@@ -80,7 +80,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Aug-2018,US Open,5,Hard,Q1,115,232,1,10,,Nicole Gibbs,Tereza Mrdeza,6-1 6-1,1.74,2.0%,2.0%,72.0%,69.4%,35.7%,33.3% (1/3),64.6%,69.6%,0.0%,69.0%,70.6%,63.6% (7/11),1:01
 13-Aug-2018,Cincinnati,3,Hard,Q1,115,33,0,,1,Alize Cornet,Nicole Gibbs,6-2 6-1,0.68,2.1%,6.3%,54.2%,38.5%,36.4%,62.5% (10/16),40.5%,42.6%,2.9%,36.4%,54.2%,28.6% (2/7),1:22
 30-Jul-2018,San Jose,3,Hard,Q1,110,234,0,3,,Danielle Lao,Nicole Gibbs,3-6 6-2 6-2,0.87,4.8%,4.8%,57.1%,58.3%,40.7%,40.0% (4/10),46.2%,42.7%,1.2%,41.8%,44.4%,57.1% (4/7),1:42
-16-Jul-2018,Berkeley CA $60K,3,Hard,F,116,64,0,2,,Sofia Kenin,Nicole Gibbs,6-0 6-4 (ch),,,,,,,,,,,,,,
+16-Jul-2018,Berkeley CA $60K,3,Hard,F,116,64,0,2,,Sofia Kenin,Nicole Gibbs,6-0 6-4,,,,,,,,,,,,,,
 16-Jul-2018,Berkeley CA $60K,3,Hard,SF,116,231,1,2,,Nicole Gibbs,Ashley Kratzer,6-4 6-2,,,,,,,,,,,,,,
 16-Jul-2018,Berkeley CA $60K,3,Hard,QF,116,154,1,2,,Nicole Gibbs,Jamie Loeb,6-3 6-2,,,,,,,,,,,,,,
 16-Jul-2018,Berkeley CA $60K,3,Hard,R16,116,271,1,2,,Nicole Gibbs,Maria Sanchez,6-1 6-1,,,,,,,,,,,,,,
@@ -96,7 +96,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-May-2018,Naples FL $25K,3,Clay,QF,113,649,1,,Q,Nicole Gibbs,Paula Cristina Goncalves,6-2 6-1,,,,,,,,,,,,,,
 28-May-2018,Naples FL $25K,3,Clay,R16,113,593,1,,,Nicole Gibbs,Amanda Rodgers,6-3 6-0,,,,,,,,,,,,,,
 28-May-2018,Naples FL $25K,3,Clay,R32,113,612,1,,,Nicole Gibbs,Emily Appleton,6-2 6-4,,,,,,,,,,,,,,
-28-May-2018,Roland Garros,5,Clay,Q2,113,167,0,8,,Veronika Kudermetova,Nicole Gibbs,6-0 5-7 6-1 (ch),,,,,,,,,,,,,,
+28-May-2018,Roland Garros,5,Clay,Q2,113,167,0,8,,Veronika Kudermetova,Nicole Gibbs,6-0 5-7 6-1,,,,,,,,,,,,,,
 28-May-2018,Roland Garros,5,Clay,Q1,113,137,1,8,,Nicole Gibbs,Xinyun Han,6-1 6-4,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,R16,115,101,0,,8,Ekaterina Alexandrova,Nicole Gibbs,6-4 6-4,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,R32,115,109,1,,,Nicole Gibbs,Jana Fett,3-6 7-6(2) 6-2,,,,,,,,,,,,,,
@@ -116,7 +116,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Jan-2018,Newport Beach,3,Hard,R32,113,136,1,,,Nicole Gibbs,Julia Boserup,6-4 4-6 6-0,1.17,6.3%,8.8%,58.8%,57.4%,45.5%,40.0% (4/10),54.1%,55.4%,1.1%,48.2%,66.7%,56.3% (9/16),1:44
 15-Jan-2018,Australian Open,5,Hard,R64,113,32,0,,30,Kiki Bertens,Nicole Gibbs,7-6(3) 6-0,0.71,0.0%,3.4%,70.7%,61.0%,47.1%,62.5% (5/8),43.3%,30.6%,11.3%,24.4%,42.9%,0.0% (0/3),1:16
 15-Jan-2018,Australian Open,5,Hard,R128,113,139,1,,,Nicole Gibbs,Viktoriya Tomova,6-1 6-1,1.75,0.0%,2.4%,57.1%,66.7%,55.6%,60.0% (3/5),64.4%,66.7%,0.0%,59.4%,84.6%,63.6% (7/11),0:48
-1-Jan-2018,Shenzhen,3,Hard,R32,110,1,0,,1,Simona Halep,Nicole Gibbs,6-4 6-1 (ch),0.53,0.0%,7.8%,54.7%,65.7%,24.1%,44.4% (4/9),39.3%,27.9%,7.0%,13.8%,57.1%,100.0% (1/1),1:08
+1-Jan-2018,Shenzhen,3,Hard,R32,110,1,0,,1,Simona Halep,Nicole Gibbs,6-4 6-1,0.53,0.0%,7.8%,54.7%,65.7%,24.1%,44.4% (4/9),39.3%,27.9%,7.0%,13.8%,57.1%,100.0% (1/1),1:08
 6-Nov-2017,Waco TX $80K,3,Hard,R16,108,151,0,2,,Ajla Tomljanovic,Nicole Gibbs,6-7(5) 6-1 6-4,,,,,,,,,,,,,,
 6-Nov-2017,Waco TX $80K,3,Hard,R32,108,205,1,2,,Nicole Gibbs,Elitsa Kostova,6-2 7-5,,,,,,,,,,,,,,
 30-Oct-2017,Tyler TX $80K,3,Hard,R16,108,338,0,,,Ashley Kratzer,Nicole Gibbs,2-6 7-5 6-3,,,,,,,,,,,,,,
@@ -124,7 +124,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Oct-2017,Macon GA $80K,3,Hard,R32,106,189,0,3,,Danielle Collins,Nicole Gibbs,3-6 6-3 6-2,,,,,,,,,,,,,,
 9-Oct-2017,Hong Kong,3,Hard,QF,114,70,0,,,Jennifer Brady,Nicole Gibbs,7-5 6-4,0.80,0.0%,1.6%,55.6%,60.0%,50.0%,33.3% (2/6),44.9%,35.6%,9.6%,35.9%,35.3%,33.3% (2/6),1:24
 9-Oct-2017,Hong Kong,3,Hard,R16,114,4,1,,1,Nicole Gibbs,Elina Svitolina,W/O,,,,,,,,,,,,,,
-9-Oct-2017,Hong Kong,3,Hard,R32,114,207,1,,Q,Nicole Gibbs,Valentini Grammatikopoulou,4-6 6-2 7-5 (ch),1.16,0.0%,3.8%,70.8%,61.3%,51.6%,66.7% (10/15),53.3%,48.1%,0.0%,37.3%,66.7%,43.8% (7/16),2:12
+9-Oct-2017,Hong Kong,3,Hard,R32,114,207,1,,Q,Nicole Gibbs,Valentini Grammatikopoulou,4-6 6-2 7-5,1.16,0.0%,3.8%,70.8%,61.3%,51.6%,66.7% (10/15),53.3%,48.1%,0.0%,37.3%,66.7%,43.8% (7/16),2:12
 2-Oct-2017,Beijing ,3,Hard,Q2,113,71,0,,11,Christina Mchale,Nicole Gibbs,6-4 3-6 6-4,0.95,2.0%,4.1%,59.2%,53.4%,45.0%,56.3% (9/16),48.7%,47.4%,4.2%,42.0%,53.3%,37.5% (6/16),2:10
 2-Oct-2017,Beijing ,3,Hard,Q1,113,77,1,,7,Nicole Gibbs,Heather Watson,6-7(3) 6-4 6-4,1.06,3.0%,6.1%,56.6%,80.4%,41.9%,57.1% (4/7),51.0%,38.4%,6.1%,28.9%,46.3%,55.6% (5/9),2:03
 25-Sep-2017,Wuhan,3,Hard,Q1,112,79,0,,10,Christina Mchale,Nicole Gibbs,6-1 3-6 6-3,0.86,1.3%,3.8%,61.3%,59.2%,51.6%,42.9% (3/7),46.7%,37.6%,3.5%,29.4%,50.0%,40.0% (2/5),20:11
@@ -137,7 +137,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Aug-2017,US Open,5,Hard,Q1,127,364,1,14,,Nicole Gibbs,Francesca Di Lorenzo,7-6(0) 7-5,,,,,,,,,,,,,,
 14-Aug-2017,Cincinnati,3,Hard,Q1,118,76,0,WC,18,Francesca Schiavone,Nicole Gibbs,6-7(1) 6-2 6-1,0.78,1.1%,2.2%,64.1%,44.1%,45.5%,35.7% (5/14),43.9%,43.0%,3.8%,34.1%,54.3%,57.1% (4/7),1:50
 31-Jul-2017,Stanford,3,Hard,R16,128,24,0,,6,Coco Vandeweghe,Nicole Gibbs,6-0 6-2,0.53,1.7%,1.7%,74.6%,47.7%,40.0%,61.5% (8/13),38.5%,28.9%,8.9%,23.8%,33.3%,0.0% (0/3),1:04
-31-Jul-2017,Stanford,3,Hard,R32,128,295,1,,WC,Nicole Gibbs,Claire Liu,4-6 6-2 7-6(5) (ch),1.08,1.0%,4.0%,70.0%,55.7%,40.0%,46.2% (6/13),52.0%,52.9%,1.0%,52.5%,53.3%,47.1% (8/17),2:18
+31-Jul-2017,Stanford,3,Hard,R32,128,295,1,,WC,Nicole Gibbs,Claire Liu,4-6 6-2 7-6(5),1.08,1.0%,4.0%,70.0%,55.7%,40.0%,46.2% (6/13),52.0%,52.9%,1.0%,52.5%,53.3%,47.1% (8/17),2:18
 10-Jul-2017,Winnipeg $25K,3,Hard,SF,117,250,0,1,5,Mayo Hibi,Nicole Gibbs,6-1 2-6 6-3,,,,,,,,,,,,,,
 10-Jul-2017,Winnipeg $25K,3,Hard,QF,117,406,1,1,,Nicole Gibbs,Jessika Ponchet,5-7 6-1 6-3,,,,,,,,,,,,,,
 10-Jul-2017,Winnipeg $25K,3,Hard,R16,117,376,1,1,,Nicole Gibbs,Ronit Yurovsky,7-5 7-5,,,,,,,,,,,,,,
@@ -158,11 +158,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-May-2017,Roland Garros,5,Clay,Q1,129,158,1,20,,Nicole Gibbs,Tamara Zidansek,6-3 7-5,,,,,,,,,,,,,,
 15-May-2017,Trnava $100K,3,Clay,R32,117,219,0,,Q,Viktoria Kamenskaya,Nicole Gibbs,6-2 6-4,,,,,,,,,,,,,,
 8-May-2017,Cagnes Sur Mer $100K,3,Clay,R32,119,211,0,,,Teliana Pereira,Nicole Gibbs,6-4 7-5,,,,,,,,,,,,,,
-20-Mar-2017,Miami,3,Hard,R128,119,71,0,WC,,Carina Witthoeft,Nicole Gibbs,6-3 6-3 (ch),0.74,0.0%,2.8%,56.3%,45.0%,51.6%,68.8% (11/16),43.9%,38.5%,0.0%,42.9%,29.4%,33.3% (2/6),1:19
+20-Mar-2017,Miami,3,Hard,R128,119,71,0,WC,,Carina Witthoeft,Nicole Gibbs,6-3 6-3,0.74,0.0%,2.8%,56.3%,45.0%,51.6%,68.8% (11/16),43.9%,38.5%,0.0%,42.9%,29.4%,33.3% (2/6),1:19
 6-Mar-2017,Indian Wells,3,Hard,R128,94,108,0,WC,,Heather Watson,Nicole Gibbs,4-6 6-2 6-2,0.81,0.0%,2.4%,67.9%,56.1%,44.4%,53.8% (7/13),45.9%,38.7%,2.7%,32.7%,50.0%,37.5% (3/8),1:50
 27-Feb-2017,Acapulco,3,Hard,R32,84,59,0,,,Pauline Parmentier,Nicole Gibbs,7-5 6-7(6) 6-2,0.89,0.0%,4.1%,60.3%,46.6%,43.1%,56.0% (14/25),47.0%,48.9%,1.5%,46.8%,51.9%,57.1% (8/14),3:08
 30-Jan-2017,Taipei,3,Hard,R32,89,181,0,,Q,Ons Jabeur,Nicole Gibbs,6-4 4-6 6-1,0.89,0.0%,5.0%,55.0%,63.6%,47.2%,50.0% (5/10),46.9%,38.9%,3.2%,28.6%,50.0%,23.1% (3/13),1:41
-16-Jan-2017,Australian Open,5,Hard,R32,92,2,0,,2,Serena Williams,Nicole Gibbs,6-1 6-3 (ch),0.57,3.7%,9.3%,50.0%,51.9%,40.7%,37.5% (3/8),39.0%,30.4%,8.7%,17.4%,43.5%,50.0% (1/2),1:03
+16-Jan-2017,Australian Open,5,Hard,R32,92,2,0,,2,Serena Williams,Nicole Gibbs,6-1 6-3,0.57,3.7%,9.3%,50.0%,51.9%,40.7%,37.5% (3/8),39.0%,30.4%,8.7%,17.4%,43.5%,50.0% (1/2),1:03
 16-Jan-2017,Australian Open,5,Hard,R64,92,104,1,,,Nicole Gibbs,Irina Falconi,6-4 6-1,1.39,6.0%,2.0%,68.0%,64.7%,50.0%,60.0% (3/5),57.4%,55.7%,1.3%,50.0%,60.5%,33.3% (6/18),1:17
 16-Jan-2017,Australian Open,5,Hard,R128,92,28,1,,25,Nicole Gibbs,Timea Babos,7-6(3) 6-4,1.31,6.7%,2.7%,42.7%,81.3%,53.5%,60.0% (3/5),54.5%,45.6%,1.1%,28.0%,67.5%,21.4% (3/14),1:42
 9-Jan-2017,Hobart,3,Hard,R32,90,55,0,LL,,Andrea Petkovic,Nicole Gibbs,6-4 6-0,0.54,0.0%,4.1%,57.1%,60.7%,23.8%,28.6% (2/7),37.6%,29.5%,2.3%,29.0%,30.8%,100.0% (1/1),1:00
@@ -171,12 +171,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Jan-2017,Auckland,3,Hard,R32,88,19,0,,3,Caroline Wozniacki,Nicole Gibbs,6-1 6-0,0.32,0.0%,10.5%,55.3%,47.6%,29.4%,37.5% (3/8),29.7%,19.4%,2.8%,12.0%,36.4%,- (0/0),0:50
 21-Nov-2016,Honolulu,3,Hard,R32,75,329,0,2,,Jacqueline Cako,Nicole Gibbs,6-3 7-5,0.74,2.6%,6.5%,67.5%,59.6%,36.0%,33.3% (2/6),44.4%,35.4%,3.1%,20.0%,53.3%,25.0% (1/4),1:39
 31-Oct-2016,Scottsdale AZ $50K,3,Hard,R16,76,271,0,1,,Beatriz Haddad Maia,Nicole Gibbs,6-4 6-1,,,,,,,,,,,,,,
-31-Oct-2016,Scottsdale AZ $50K,3,Hard,R32,76,168,1,1,,Nicole Gibbs,Anastasia Pivovarova,6-3 6-2 (ch),,,,,,,,,,,,,,
+31-Oct-2016,Scottsdale AZ $50K,3,Hard,R32,76,168,1,1,,Nicole Gibbs,Anastasia Pivovarova,6-3 6-2,,,,,,,,,,,,,,
 17-Oct-2016,Moscow,3,Hard,R32,74,35,0,Q,,Kate Makarova,Nicole Gibbs,7-5 6-1,0.73,0.0%,8.2%,55.1%,33.3%,22.7%,11.1% (1/9),42.5%,52.1%,0.0%,45.2%,62.1%,45.5% (5/11),1:22
 17-Oct-2016,Moscow,3,Hard,Q3,74,58,1,5,3,Nicole Gibbs,Ana Konjuh,7-5 5-7 7-6(1),1.06,0.0%,1.0%,67.6%,56.3%,52.9%,22.2% (2/9),51.1%,47.7%,2.3%,30.1%,70.9%,43.8% (7/16),2:18
 17-Oct-2016,Moscow,3,Hard,Q2,74,245,1,5,,Nicole Gibbs,Paula Kania,6-4 6-1,1.59,0.0%,2.0%,71.4%,68.6%,42.9%,40.0% (2/5),61.5%,61.8%,1.8%,64.7%,57.1%,50.0% (6/12),1:05
 17-Oct-2016,Moscow,3,Hard,Q1,74,163,1,5,,Nicole Gibbs,Natalia Vikhlyantseva,6-4 4-6 6-3,1.01,1.1%,3.3%,72.8%,55.2%,36.0%,62.5% (10/16),50.3%,50.5%,0.9%,53.8%,45.2%,53.3% (8/15),2:03
-10-Oct-2016,Hong Kong,3,Hard,R32,74,51,0,,,Katerina Siniakova,Nicole Gibbs,6-3 4-6 6-2 (ch),0.84,1.2%,5.8%,65.1%,48.2%,33.3%,35.7% (5/14),45.7%,48.0%,4.1%,39.6%,57.8%,58.3% (7/12),2:00
+10-Oct-2016,Hong Kong,3,Hard,R32,74,51,0,,,Katerina Siniakova,Nicole Gibbs,6-3 4-6 6-2,0.84,1.2%,5.8%,65.1%,48.2%,33.3%,35.7% (5/14),45.7%,48.0%,4.1%,39.6%,57.8%,58.3% (7/12),2:00
 3-Oct-2016,Beijing,3,Hard,R64,75,31,0,Q,,Misaki Doi,Nicole Gibbs,7-5 6-2,0.71,1.9%,16.7%,63.0%,47.1%,30.0%,0.0% (0/6),41.3%,41.8%,4.5%,28.6%,64.0%,100.0% (3/3),1:18
 3-Oct-2016,Beijing,3,Hard,Q2,75,117,1,11,,Nicole Gibbs,Xinyun Han,6-2 6-4,1.28,0.0%,0.0%,65.5%,72.2%,57.9%,0.0% (0/1),55.2%,42.0%,0.0%,31.0%,57.1%,44.4% (4/9),1:08
 3-Oct-2016,Beijing,3,Hard,Q1,75,97,1,11,,Nicole Gibbs,Magda Linette,6-1 6-2,1.56,2.2%,10.9%,50.0%,65.2%,56.5%,60.0% (3/5),61.0%,61.0%,0.0%,63.6%,57.7%,63.6% (7/11),1:14
@@ -191,12 +191,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jul-2016,Montreal,3,Hard,Q2,68,84,0,7,13,Naomi Broady,Nicole Gibbs,6-7(4) 6-3 6-3,0.96,4.2%,1.1%,58.9%,64.3%,51.3%,28.6% (2/7),48.3%,39.5%,13.2%,15.3%,65.5%,20.0% (2/10),2:02
 25-Jul-2016,Montreal,3,Hard,Q1,68,161,1,7,,Nicole Gibbs,Sachia Vickery,6-2 6-4,1.66,0.0%,4.3%,69.6%,81.3%,50.0%,0.0% (0/1),57.3%,46.9%,1.6%,41.0%,56.0%,50.0% (4/8),1:06
 18-Jul-2016,Stanford,3,Hard,R16,71,35,0,,4,Coco Vandeweghe,Nicole Gibbs,2-6 6-4 6-2,0.95,2.4%,4.9%,61.0%,58.0%,46.9%,37.5% (3/8),48.3%,43.9%,9.2%,26.9%,63.0%,50.0% (4/8),1:54
-18-Jul-2016,Stanford,3,Hard,R32,71,346,1,,WC,Nicole Gibbs,Carol Zhao,6-2 4-6 6-3 (ch),1.15,3.1%,1.0%,55.2%,69.8%,48.8%,66.7% (8/12),53.7%,45.6%,2.5%,36.6%,55.3%,46.2% (6/13),2:03
+18-Jul-2016,Stanford,3,Hard,R32,71,346,1,,WC,Nicole Gibbs,Carol Zhao,6-2 4-6 6-3,1.15,3.1%,1.0%,55.2%,69.8%,48.8%,66.7% (8/12),53.7%,45.6%,2.5%,36.6%,55.3%,46.2% (6/13),2:03
 11-Jul-2016,Stockton CA $50K,3,Hard,R16,72,244,0,1,,Arina Rodionova,Nicole Gibbs,7-6(3) 7-6(6),,,,,,,,,,,,,,
 11-Jul-2016,Stockton CA $50K,3,Hard,R32,72,471,1,1,SR,Nicole Gibbs,Aleksandra Wozniak,5-7 6-4 7-5,,,,,,,,,,,,,,
 27-Jun-2016,Wimbledon,5,Grass,R128,76,51,0,,,Kirsten Flipkens,Nicole Gibbs,6-3 6-1,0.54,0.0%,6.0%,72.0%,61.1%,28.6%,60.0% (6/10),39.6%,26.1%,4.3%,20.6%,41.7%,0.0% (0/1),0:50
 20-Jun-2016,Eastbourne,3,Grass,Q1,76,199,0,12,,Olga Savchuk,Nicole Gibbs,7-6(5) 6-2,0.81,1.6%,6.3%,65.1%,53.7%,45.5%,16.7% (1/6),45.3%,40.0%,0.0%,37.8%,45.0%,60.0% (3/5),1:16
-23-May-2016,Roland Garros,5,Clay,R128,72,56,0,,,Heather Watson,Nicole Gibbs,5-7 6-2 6-2 (ch),0.80,1.0%,1.9%,53.8%,64.3%,31.3%,50.0% (7/14),45.0%,40.6%,2.1%,32.0%,50.0%,36.4% (4/11),2:19
+23-May-2016,Roland Garros,5,Clay,R128,72,56,0,,,Heather Watson,Nicole Gibbs,5-7 6-2 6-2,0.80,1.0%,1.9%,53.8%,64.3%,31.3%,50.0% (7/14),45.0%,40.6%,2.1%,32.0%,50.0%,36.4% (4/11),2:19
 16-May-2016,Nurnberg,3,Clay,R16,72,42,0,,3,Annika Beck,Nicole Gibbs,6-2 6-1,0.63,0.0%,5.3%,61.4%,48.6%,45.5%,42.9% (3/7),39.8%,33.3%,1.5%,31.6%,44.4%,0.0% (0/7),1:21
 16-May-2016,Nurnberg,3,Clay,R32,72,110,1,,,Nicole Gibbs,Kristyna Pliskova,6-4 6-3,1.22,3.8%,8.8%,61.3%,67.3%,38.7%,83.3% (10/12),54.9%,53.2%,6.5%,41.9%,64.5%,50.0% (5/10),1:18
 9-May-2016,Rome,3,Clay,Q1,74,86,0,12,,Kiki Bertens,Nicole Gibbs,6-2 6-4,0.54,0.0%,3.1%,62.5%,52.5%,58.3%,70.0% (7/10),41.6%,24.5%,2.0%,22.6%,27.8%,- (0/0),1:19
@@ -205,7 +205,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Mar-2016,Miami,3,Hard,R64,74,29,1,WC,27,Nicole Gibbs,Kristina Mladenovic,6-2 6-4,1.63,0.0%,1.8%,67.3%,78.4%,61.1%,100.0% (1/1),57.6%,44.4%,3.2%,29.0%,59.4%,60.0% (3/5),1:19
 21-Mar-2016,Miami,3,Hard,R128,74,58,1,WC,,Nicole Gibbs,Yulia Putintseva,6-4 6-2,1.22,1.5%,6.1%,59.1%,61.5%,44.4%,62.5% (5/8),55.0%,55.4%,4.6%,51.1%,65.0%,54.5% (6/11),1:33
 7-Mar-2016,Indian Wells,3,Hard,R16,95,9,0,Q,8,Petra Kvitova,Nicole Gibbs,4-6 6-3 6-4,0.82,2.2%,3.4%,53.9%,66.7%,43.9%,28.6% (2/7),46.2%,35.7%,2.4%,28.8%,46.9%,44.4% (4/9),2:02
-7-Mar-2016,Indian Wells,3,Hard,R32,95,72,1,Q,,Nicole Gibbs,Yaroslava Shvedova,6-0 6-4 (ch),1.44,2.0%,2.0%,64.0%,75.0%,44.4%,75.0% (3/4),57.3%,51.7%,5.0%,41.7%,66.7%,38.5% (5/13),1:09
+7-Mar-2016,Indian Wells,3,Hard,R32,95,72,1,Q,,Nicole Gibbs,Yaroslava Shvedova,6-0 6-4,1.44,2.0%,2.0%,64.0%,75.0%,44.4%,75.0% (3/4),57.3%,51.7%,5.0%,41.7%,66.7%,38.5% (5/13),1:09
 7-Mar-2016,Indian Wells,3,Hard,R64,95,24,1,Q,23,Nicole Gibbs,Madison Keys,6-3 6-3,1.32,1.8%,5.4%,67.9%,71.1%,50.0%,0.0% (0/1),55.9%,47.3%,1.8%,40.0%,60.0%,57.1% (4/7),1:11
 7-Mar-2016,Indian Wells,3,Hard,R128,95,93,1,Q,,Nicole Gibbs,Alexandra Dulgheru,6-1 6-0,1.82,0.0%,0.0%,67.4%,58.1%,66.7%,80.0% (4/5),65.9%,71.1%,0.0%,60.0%,85.0%,70.0% (7/10),1:02
 7-Mar-2016,Indian Wells,3,Hard,Q2,95,61,1,16,1,Nicole Gibbs,Anna Lena Friedsam,6-4 5-7 7-5,1.05,0.9%,1.8%,55.5%,65.6%,38.8%,53.3% (8/15),51.0%,48.9%,5.3%,43.0%,62.5%,50.0% (8/16),2:30
@@ -270,7 +270,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Apr-2015,Bogota,3,Clay,R32,100,171,1,,Q,Nicole Gibbs,Anastasia Rodionova,6-3 7-5,1.29,1.4%,8.1%,51.4%,78.9%,55.6%,81.8% (9/11),55.3%,41.8%,1.5%,31.6%,55.2%,66.7% (4/6),
 6-Apr-2015,Charleston,3,Clay,R64,97,84,0,,,Shuai Zhang,Nicole Gibbs,6-4 7-5,0.86,0.0%,6.9%,69.0%,55.0%,55.6%,28.6% (2/7),46.3%,38.5%,0.0%,37.5%,41.2%,33.3% (3/9),
 23-Mar-2015,Miami,3,Hard,Q1,88,133,0,9,,Julia Glushko,Nicole Gibbs,6-4 6-3,,,,,,,,,,,,,,
-9-Mar-2015,Indian Wells,3,Hard,R128,87,49,0,WC,,Monica Puig,Nicole Gibbs,6-3 7-5 (ch),0.81,3.2%,11.1%,60.3%,68.4%,52.0%,63.6% (7/11),47.1%,31.0%,12.1%,18.4%,55.0%,66.7% (2/3),
+9-Mar-2015,Indian Wells,3,Hard,R128,87,49,0,WC,,Monica Puig,Nicole Gibbs,6-3 7-5,0.81,3.2%,11.1%,60.3%,68.4%,52.0%,63.6% (7/11),47.1%,31.0%,12.1%,18.4%,55.0%,66.7% (2/3),
 2-Feb-2015,Midland MI $100K,3,Hard,R16,87,243,0,1,,Naomi Osaka,Nicole Gibbs,1-6 6-2 6-4,,,,,,,,,,,,,,
 2-Feb-2015,Midland MI $100K,3,Hard,R32,87,252,1,1,,Nicole Gibbs,Mayo Hibi,2-6 6-1 6-4,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,R64,96,26,0,,26,Elina Svitolina,Nicole Gibbs,7-6(3) 7-6(6),0.96,0.0%,6.9%,56.9%,53.4%,47.7%,53.8% (7/13),49.0%,46.9%,8.2%,29.6%,68.2%,54.5% (6/11),
@@ -308,7 +308,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jul-2014,Carson CA 50K,3,Hard,R16,167,,1,2,WC,Nicole Gibbs,Kristie Ahn,6-4 6-3,,,,,,,,,,,,,,
 14-Jul-2014,Carson CA 50K,3,Hard,R32,167,443,1,2,Q,Nicole Gibbs,Jennifer Elie,6-1 6-1,,,,,,,,,,,,,,
 7-Jul-2014,Sacramento CA 50K,3,Hard,R16,145,250,0,4,,Louisa Chirico,Nicole Gibbs,7-6(2) 4-6 6-1,,,,,,,,,,,,,,
-7-Jul-2014,Sacramento CA 50K,3,Hard,R32,145,496,1,4,,Nicole Gibbs,Alexandra Stevenson,6-3 6-2 (ch),,,,,,,,,,,,,,
+7-Jul-2014,Sacramento CA 50K,3,Hard,R32,145,496,1,4,,Nicole Gibbs,Alexandra Stevenson,6-3 6-2,,,,,,,,,,,,,,
 9-Jun-2014,Nottingham 50K,3,Grass,SF,159,95,0,,3,Timea Bacsinszky,Nicole Gibbs,6-4 6-1,,,,,,,,,,,,,,
 9-Jun-2014,Nottingham 50K,3,Grass,QF,159,147,1,,,Nicole Gibbs,Lesia Tsurenko,6-4 6-4,,,,,,,,,,,,,,
 9-Jun-2014,Nottingham 50K,3,Grass,R16,159,98,1,,1,Nicole Gibbs,Misaki Doi,7-5 3-6 7-5,,,,,,,,,,,,,,

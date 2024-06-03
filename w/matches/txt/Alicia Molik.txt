@@ -1,7 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 17-Jan-2011,Australian Open,5,Hard,R64,134,15,0,WC,13,Nadia Petrova,Alicia Molik,6-4 6-1 (wp),0.70,2.0%,6.1%,55.1%,55.6%,50.0%,42.9% (3/7),42.3%,32.7%,12.7%,34.5%,30.8%,25.0% (1/4),
 17-Jan-2011,Australian Open,5,Hard,R128,134,37,1,WC,,Alicia Molik,Roberta Vinci,1-6 6-3 8-6 (wp),0.93,4.8%,3.8%,56.7%,64.4%,42.2%,54.5% (6/11),48.5%,42.0%,2.0%,34.8%,55.9%,41.7% (5/12),
-10-Jan-2011,Hobart,3,Hard,R16,135,43,0,WC,7,Sara Errani,Alicia Molik,6-1 6-0 (ch),0.27,0.0%,2.4%,61.0%,36.0%,37.5%,40.0% (4/10),28.6%,17.2%,0.0%,17.4%,16.7%,- (0/0),
+10-Jan-2011,Hobart,3,Hard,R16,135,43,0,WC,7,Sara Errani,Alicia Molik,6-1 6-0,0.27,0.0%,2.4%,61.0%,36.0%,37.5%,40.0% (4/10),28.6%,17.2%,0.0%,17.4%,16.7%,- (0/0),
 10-Jan-2011,Hobart,3,Hard,R32,135,51,1,WC,,Alicia Molik,Sofia Arvidsson,7-5 6-3,1.28,4.5%,3.0%,62.1%,68.3%,52.0%,25.0% (1/4),55.3%,48.5%,3.0%,48.8%,48.0%,62.5% (5/8),
 29-Nov-2010,Bendigo 25K,3,Hard,R16,115,332,0,1,,Timea Babos,Alicia Molik,6-0 3-6 7-5,,,,,,,,,,,,,,
 29-Nov-2010,Bendigo 25K,3,Hard,R32,115,,1,1,Q,Alicia Molik,Molly Polak,6-4 6-1,,,,,,,,,,,,,,
@@ -210,7 +210,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2004,Luxembourg,3,Hard,SF,14,23,1,2,3,Alicia Molik,Silvia Farina Elia,6-2 6-2,,,,,,,,,,,,,,
 25-Oct-2004,Luxembourg,3,Hard,QF,14,28,1,2,6,Alicia Molik,Tatiana Golovin,3-6 6-4 6-4,,,,,,,,,,,,,,
 25-Oct-2004,Luxembourg,3,Hard,R16,14,54,1,2,,Alicia Molik,Maria Sanchez Lorenzo,7-6(3) 7-6(2),,,,,,,,,,,,,,
-18-Oct-2004,Zurich,3,Hard,F,20,7,1,,4,Alicia Molik,Maria Sharapova,4-6 6-2 6-3 (ch),,,,,,,,,,,,,,
+18-Oct-2004,Zurich,3,Hard,F,20,7,1,,4,Alicia Molik,Maria Sharapova,4-6 6-2 6-3,,,,,,,,,,,,,,
 18-Oct-2004,Zurich,3,Hard,SF,20,15,1,,10,Alicia Molik,Patty Schnyder,4-6 6-1 6-4,,,,,,,,,,,,,,
 18-Oct-2004,Zurich,3,Hard,QF,20,13,1,,8,Alicia Molik,Nadia Petrova,6-3 6-1,,,,,,,,,,,,,,
 18-Oct-2004,Zurich,3,Hard,R16,20,12,1,,6,Alicia Molik,Vera Zvonareva,6-3 5-7 6-2,,,,,,,,,,,,,,
@@ -219,7 +219,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Oct-2004,Filderstadt,3,Hard,R32,20,22,1,,,Alicia Molik,Francesca Schiavone,6-2 6-3,,,,,,,,,,,,,,
 30-Aug-2004,US Open,5,Hard,R64,18,32,0,17,,Daniela Hantuchova,Alicia Molik,6-4 6-3,0.83,10.4%,0.0%,52.1%,56.0%,52.2%,42.9% (3/7),45.0%,38.1%,1.6%,23.1%,62.5%,50.0% (2/4),
 30-Aug-2004,US Open,5,Hard,R128,18,113,1,17,,Alicia Molik,Stephanie Cohen Aloro,6-0 6-2,1.94,17.8%,2.2%,60.0%,70.4%,72.2%,100.0% (3/3),63.2%,56.0%,2.0%,50.0%,68.8%,45.5% (5/11),
-15-Aug-2004,Olympics,3,Hard,SF,23,2,0,,2,Amelie Mauresmo,Alicia Molik,7-6(8) 6-3 (ch),,,,,,,,,,,,,,
+15-Aug-2004,Olympics,3,Hard,SF,23,2,0,,2,Amelie Mauresmo,Alicia Molik,7-6(8) 6-3,,,,,,,,,,,,,,
 15-Aug-2004,Olympics,3,Hard,QF,23,13,1,,8,Alicia Molik,Ai Sugiyama,6-3 6-4,,,,,,,,,,,,,,
 15-Aug-2004,Olympics,3,Hard,R16,23,40,1,,,Alicia Molik,Lisa Raymond,6-4 6-4,,,,,,,,,,,,,,
 15-Aug-2004,Olympics,3,Hard,R32,23,81,1,,,Alicia Molik,Katarina Srebotnik,7-5 6-4,,,,,,,,,,,,,,

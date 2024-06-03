@@ -84,7 +84,7 @@ def mlr(y, x):
     )
     return fig
 
-# create app
+# create page
 dash.register_page(__name__, name = 'DSTennis')
 
 layout = html.Div(children=[

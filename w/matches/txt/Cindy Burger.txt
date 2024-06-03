@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 28-Jun-2021,W25 The Hague,3,Clay,Q1,391,1408,0,3,,Demi Tran,Cindy Burger,W/O,,,,,,,,,,,,,,
 21-Jun-2021,W15 Alkmaar,3,Clay,R16,384,,0,3,,Natalia Szabanin,Cindy Burger,6-4 6-4,,,,,,,,,,,,,,
 21-Jun-2021,W15 Alkmaar,3,Clay,R32,384,662,1,3,,Cindy Burger,Sinja Kraus,7-6(1) 6-1,,,,,,,,,,,,,,
@@ -175,7 +175,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Aug-2016,US Open,5,Hard,Q1,147,140,1,,30,Cindy Burger,Lourdes Dominguez Lino,4-6 6-4 7-5,,,,,,,,,,,,,,
 8-Aug-2016,Hechingen $25K,3,Clay,F,152,199,0,2,3,Dalila Jakupovic,Cindy Burger,6-3 4-6 7-6(5),,,,,,,,,,,,,,
 8-Aug-2016,Hechingen $25K,3,Clay,SF,152,655,1,2,Q,Cindy Burger,Camilla Rosatello,6-3 6-4,,,,,,,,,,,,,,
-8-Aug-2016,Hechingen $25K,3,Clay,QF,152,391,1,2,SE,Cindy Burger,Jasmine Paolini,6-4 7-6(5) (ch),,,,,,,,,,,,,,
+8-Aug-2016,Hechingen $25K,3,Clay,QF,152,391,1,2,SE,Cindy Burger,Jasmine Paolini,6-4 7-6(5),,,,,,,,,,,,,,
 8-Aug-2016,Hechingen $25K,3,Clay,R16,152,361,1,2,WC,Cindy Burger,Laura Schaeder,6-2 3-6 6-2,,,,,,,,,,,,,,
 8-Aug-2016,Hechingen $25K,3,Clay,R32,152,324,1,2,,Cindy Burger,Olga Ianchuk,6-7(1) 6-4 6-2,,,,,,,,,,,,,,
 1-Aug-2016,Plzen $25K,3,Clay,R16,150,390,0,1,,Nastassja Burnett,Cindy Burger,6-4 2-6 7-6(5),,,,,,,,,,,,,,

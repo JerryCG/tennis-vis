@@ -1,4 +1,71 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W50 Otocec,3,Clay,R32,554,339,0,,16,Ekaterine Gorgodze,Naiktha Bains,7-5 6-7(8) 6-3,,,,,,,,,,,,,,
+20-May-2024,W50 Otocec,3,Clay,R64,554,1137,1,,WC,Naiktha Bains,Magdalena Stoilkovska,6-1 6-3,,,,,,,,,,,,,,
+29-Apr-2024,W35 Nottingham,3,Hard,QF,522,298,0,5,1,Sonay Kartal,Naiktha Bains,6-2 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W35 Nottingham,3,Hard,R16,522,1064,1,5,Q,Naiktha Bains,Sarah Tatu,4-6 6-2 6-3,,,,,,,,,,,,,,
+29-Apr-2024,W35 Nottingham,3,Hard,R32,522,,1,5,Q,Naiktha Bains,Francesca Simpson,6-2 6-0,,,,,,,,,,,,,,
+22-Apr-2024,W35 Nottingham,3,Hard,R16,522,698,0,8,,Marie Weckerle,Naiktha Bains,7-6(3) 4-6 6-4,,,,,,,,,,,,,,
+22-Apr-2024,W35 Nottingham,3,Hard,R32,522,560,1,8,,Naiktha Bains,Katarina Stresnakova,4-6 6-4 6-1,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,521,83,0,Q,4,Rebeka Masarova,Naiktha Bains,7-5 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q2,521,376,1,9,5,Naiktha Bains,Anna Siskova,7-6(4) 6-4,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,Q1,521,,1,9,,Naiktha Bains,Maria Martinez Vaquero,6-0 6-4,,,,,,,,,,,,,,
+25-Mar-2024,W50 Sao Paulo,3,Clay,R32,491,435,0,Q,,Maria Kozyreva,Naiktha Bains,6-1 6-7(14) 6-2,,,,,,,,,,,,,,
+25-Mar-2024,W50 Sao Paulo,3,Clay,Q2,491,767,1,3,14,Naiktha Bains,Fernanda Labrana,6-2 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W50 Sao Paulo,3,Clay,Q1,491,946,1,3,,Naiktha Bains,Emily Seibold,7-5 1-6 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,R16,453,201,0,,2,Destanee Aiava,Naiktha Bains,6-3 6-2,,,,,,,,,,,,,,
+26-Feb-2024,W35 Traralgon,3,Hard,R32,453,391,1,,,Naiktha Bains,Yuki Naito,6-2 6-3,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,R16,452,385,0,,,Sayaka Ishii,Naiktha Bains,6-3 6-2,,,,,,,,,,,,,,
+19-Feb-2024,W35 Traralgon,3,Hard,R32,452,912,1,,Q,Naiktha Bains,Tenika Mcgiffin,6-4 6-2,,,,,,,,,,,,,,
+5-Feb-2024,Mumbai 125,3,Hard,Q1,449,274,0,,6,Fanny Stollar,Naiktha Bains,5-7 7-5 6-1,0.84,2.9%,2.9%,70.5%,52.7%,35.5%,56.3% (9/16),45.7%,43.8%,7.6%,39.4%,51.3%,41.7% (5/12),2:17
+29-Jan-2024,W50 Indore,3,Hard,R16,446,174,0,,4,Carole Monnet,Naiktha Bains,6-1 1-6 7-5,,,,,,,,,,,,,,
+29-Jan-2024,W50 Indore,3,Hard,R32,446,499,1,,Q,Naiktha Bains,Lena Rueffer,4-6 6-3 6-4,,,,,,,,,,,,,,
+22-Jan-2024,W50 Pune,3,Hard,R32,449,242,0,Q,,Dalila Jakupovic,Naiktha Bains,6-3 7-6(6),,,,,,,,,,,,,,
+22-Jan-2024,W50 Pune,3,Hard,Q2,449,871,1,6,15,Naiktha Bains,Yukina Saigo,6-0 6-4,,,,,,,,,,,,,,
+22-Jan-2024,W50 Pune,3,Hard,Q1,449,1296,1,6,,Naiktha Bains,Soha Sadiq,5-7 6-2 6-2,,,,,,,,,,,,,,
+11-Sep-2023,Osaka,3,Hard,Q1,289,190,0,,4,Despina Papamichail,Naiktha Bains,6-4 6-7(4) 6-0,0.90,1.9%,1.9%,67.3%,57.1%,41.2%,58.8% (10/17),47.3%,43.3%,0.0%,35.9%,57.1%,25.0% (3/12),3:03
+7-Aug-2023,Kozerki 125,3,Hard,R32,298,154,0,LL,,Darja Semenistaja,Naiktha Bains,6-4 6-4,0.90,2.9%,5.7%,65.7%,50.0%,37.5%,53.8% (7/13),47.3%,48.8%,2.5%,46.6%,54.5%,33.3% (4/12),1:41
+7-Aug-2023,Kozerki 125,3,Hard,Q2,298,326,0,4,5,Anna Siskova,Naiktha Bains,6-4 6-4,0.89,1.4%,4.2%,63.9%,41.3%,46.2%,50.0% (7/14),46.6%,50.8%,0.0%,44.7%,71.4%,50.0% (5/10),1:34
+7-Aug-2023,Kozerki 125,3,Hard,Q1,298,612,1,4,,Naiktha Bains,Sarah Rebecca Sekulic,6-1 6-3,2.50,2.5%,5.0%,67.5%,96.3%,46.2%,- (0/0),61.5%,50.0%,3.1%,50.0%,50.0%,44.4% (4/9),1:17
+31-Jul-2023,Prague,3,Hard,Q2,298,240,0,,,Gabriela Andrea Knutson,Naiktha Bains,6-3 6-2,0.59,3.9%,3.9%,56.9%,55.2%,31.8%,44.4% (4/9),39.2%,32.6%,0.0%,20.0%,47.6%,66.7% (2/3),1:09
+31-Jul-2023,Prague,3,Hard,Q1,298,201,1,,11,Naiktha Bains,Sinja Kraus,6-4 6-2,1.40,8.5%,8.5%,49.2%,75.9%,56.7%,80.0% (4/5),56.7%,47.5%,0.0%,37.8%,62.5%,57.1% (4/7),1:25
+24-Jul-2023,Warsaw,3,Hard,Q1,297,174,0,,2,Rebecca Sramkova,Naiktha Bains,4-6 6-2 6-4,0.86,5.5%,5.5%,57.5%,61.6%,42.6%,75.0% (15/20),47.7%,40.0%,3.2%,23.8%,52.8%,60.0% (3/5),2:36
+3-Jul-2023,Wimbledon,5,Grass,Q2,312,139,0,WC,29,Viktorija Golubic,Naiktha Bains,3-6 6-3 6-2,0.71,5.7%,6.8%,60.2%,67.9%,34.3%,55.6% (5/9),44.0%,32.5%,1.3%,27.4%,50.0%,50.0% (2/4),1:59
+3-Jul-2023,Wimbledon,5,Grass,Q1,312,183,1,WC,,Naiktha Bains,Katarina Zavatska,4-6 6-2 6-3,1.44,9.5%,5.4%,64.9%,85.4%,50.0%,50.0% (2/4),56.7%,38.8%,3.0%,30.4%,57.1%,100.0% (4/4),1:44
+19-Jun-2023,Birmingham,3,Grass,Q1,314,61,0,WC,2,Ana Bogdan,Naiktha Bains,6-1 6-3,0.48,4.7%,9.3%,58.1%,52.0%,33.3%,0.0% (0/5),35.7%,26.8%,4.9%,13.0%,44.4%,50.0% (1/2),0:58
+12-Jun-2023,Nottingham,3,Grass,Q1,311,157,0,WC,9,Daria Snigur,Naiktha Bains,6-2 6-4,0.67,5.3%,5.3%,64.5%,55.1%,40.7%,64.3% (9/14),43.3%,33.3%,0.0%,31.8%,42.9%,100.0% (2/2),1:15
+5-Jun-2023,W100 Surbiton,3,Grass,R32,304,140,0,WC,Q,Yanina Wickmayer,Naiktha Bains,6-3 6-4,,,,,,,,,,,,,,
+22-May-2023,Rabat,3,Clay,Q2,301,237,0,,3,Timea Babos,Naiktha Bains,6-3 6-0,0.56,2.9%,2.9%,62.9%,31.8%,38.5%,0.0% (0/5),35.8%,36.7%,5.0%,22.5%,65.0%,16.7% (1/6),1:11
+22-May-2023,Rabat,3,Clay,Q1,301,285,1,,5,Naiktha Bains,Eudice Wong Chong,6-4 6-2,1.27,1.5%,4.6%,53.8%,68.6%,43.3%,72.7% (8/11),55.9%,54.8%,0.0%,59.1%,44.4%,60.0% (6/10),1:43
+15-May-2023,W60 Bodrum,3,Clay,R32,314,235,0,,,Anastasia Tikhonova,Naiktha Bains,6-2 7-6(4),,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,Q2,314,705,0,6,10,Sofia Rocchetti,Naiktha Bains,6-4 4-6 6-4,,,,,,,,,,,,,,
+8-May-2023,W60 Zagreb,3,Clay,Q1,314,,1,6,,Naiktha Bains,Isabelle Haverlag,3-6 6-0 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,QF,338,117,0,,2,Lucrezia Stefanini,Naiktha Bains,6-1 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R16,338,382,1,,,Naiktha Bains,Olga Helmi,2-6 6-3 6-4,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R32,338,224,1,,8,Naiktha Bains,Ankita Raina,7-6(5) 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Nottingham,3,Hard,QF,338,226,0,6,3,Arianne Hartono,Naiktha Bains,6-1 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Nottingham,3,Hard,R16,338,,1,6,WC,Naiktha Bains,Mika Stojsavljevic,6-1 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W25 Nottingham,3,Hard,R32,338,,1,6,,Naiktha Bains,Johanne Christine Svendsen,2-6 6-1 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,QF,341,144,0,,1,Olivia Gadecki,Naiktha Bains,6-1 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,R16,341,471,1,,LL,Naiktha Bains,Ya Yi Yang,4-6 7-6(6) 6-4,,,,,,,,,,,,,,
+20-Mar-2023,W60 Canberra,3,Clay,R32,341,827,1,,Q,Naiktha Bains,Sara Nayar,6-2 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W60 Canberra,3,Clay,R32,339,297,0,,8,Destanee Aiava,Naiktha Bains,4-6 6-4 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,R16,358,517,0,,,Ya Yi Yang,Naiktha Bains,6-2 6-1,,,,,,,,,,,,,,
+27-Feb-2023,W25 Swan Hill,3,Grass,R32,358,,1,,LL,Naiktha Bains,Anastasia Berezov,6-1 6-0,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,SF,359,335,0,,7,Maddison Inglis,Naiktha Bains,7-5 6-2,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,QF,359,268,1,,3,Naiktha Bains,Joanna Garland,7-6(5) 6-3,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R16,359,347,1,,8,Naiktha Bains,Talia Gibson,6-4 5-7 6-1,,,,,,,,,,,,,,
+20-Feb-2023,W25 Swan Hill,3,Grass,R32,359,1092,1,,Q,Naiktha Bains,Milan Krish,6-0 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W25 Burnie,3,Hard,R32,350,152,0,,1,Olivia Gadecki,Naiktha Bains,6-0 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W60 Burnie,3,Hard,R16,359,281,0,,7,Lizette Cabrera,Naiktha Bains,6-3 6-2,,,,,,,,,,,,,,
+30-Jan-2023,W60 Burnie,3,Hard,R32,359,862,1,,Q,Naiktha Bains,Roopa Bains,6-1 6-0,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R16,358,501,0,7,,Petra Hule,Naiktha Bains,6-4 6-4,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R32,358,698,1,7,,Naiktha Bains,Lisa Mays,7-5 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,F,358,517,0,3,,Priska Madelyn Nugroho,Naiktha Bains,6-4 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,SF,358,402,1,3,5,Naiktha Bains,Destanee Aiava,6-4 6-1,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,QF,358,424,1,3,6,Naiktha Bains,Haruna Arakawa,6-3 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,R16,358,1131,1,3,Q,Naiktha Bains,Vivian Yang,6-3 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,R32,358,886,1,3,,Naiktha Bains,Monique Barry,6-1 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W60 Sydney,3,Hard,R32,345,260,0,,7,Mai Hontama,Naiktha Bains,6-2 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,R16,347,195,0,,3,Maddison Inglis,Naiktha Bains,6-4 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W60 Playford,3,Hard,R32,347,292,1,,,Naiktha Bains,Kyoka Okamura,6-3 3-6 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Cairns,3,Hard,F,370,266,0,7,4,Lizette Cabrera,Naiktha Bains,5-7 6-3 6-2,,,,,,,,,,,,,,
@@ -69,7 +136,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-May-2021,W25 Naples FL,3,Clay,R32,271,1098,0,8,WC,Alexandra Yepifanova,Naiktha Bains,6-3 2-6 6-3,,,,,,,,,,,,,,
 26-Apr-2021,W60 Charlottesville VA,3,Clay,Q2,271,309,0,7,14,Hanna Chang,Naiktha Bains,7-5 6-7(3) 10-6,,,,,,,,,,,,,,
 26-Apr-2021,W60 Charlottesville VA,3,Clay,Q1,271,778,1,7,WC,Naiktha Bains,Gabriella Price,6-2 7-5,,,,,,,,,,,,,,
-5-Apr-2021,W25 Cordoba,3,Clay,R16,266,435,0,4,,Maria Carle,Naiktha Bains,6-3 6-3,,,,,,,,,,,,,,
+5-Apr-2021,W25 Cordoba,3,Clay,R16,266,435,0,4,,Maria Lourdes Carle,Naiktha Bains,6-3 6-3,,,,,,,,,,,,,,
 5-Apr-2021,W25 Cordoba,3,Clay,R32,266,551,1,4,WC,Naiktha Bains,Guillermina Naya,6-3 3-6 7-5,,,,,,,,,,,,,,
 29-Mar-2021,W25 Villa Maria,3,Clay,QF,252,213,0,5,2,Francesca Jones,Naiktha Bains,6-0 6-2,,,,,,,,,,,,,,
 29-Mar-2021,W25 Villa Maria,3,Clay,R16,252,665,1,5,Q,Naiktha Bains,Aurora Zantedeschi,6-3 5-7 6-0,,,,,,,,,,,,,,
@@ -100,14 +167,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Dec-2019,W25 Solapur,3,Hard,QF,249,231,1,5,3,Naiktha Bains,Yue Yuan,6-4 6-0,,,,,,,,,,,,,,
 2-Dec-2019,W25 Solapur,3,Hard,R16,249,,1,5,Q,Naiktha Bains,Vaidehi Chaudhari,6-7(5) 6-3 6-1,,,,,,,,,,,,,,
 2-Dec-2019,W25 Solapur,3,Hard,R32,249,1167,1,5,Q,Naiktha Bains,Ramya Natarajan,6-0 6-4,,,,,,,,,,,,,,
-11-Nov-2019,Taipei,3,Hard,QF,291,104,0,,2,Timea Babos,Naiktha Bains,6-4 4-6 6-3 (ch),0.88,3.7%,1.2%,58.0%,57.4%,55.9%,37.5% (3/8),46.4%,38.2%,2.0%,32.3%,48.6%,66.7% (4/6),2:20
+11-Nov-2019,Taipei,3,Hard,QF,291,104,0,,2,Timea Babos,Naiktha Bains,6-4 4-6 6-3,0.88,3.7%,1.2%,58.0%,57.4%,55.9%,37.5% (3/8),46.4%,38.2%,2.0%,32.3%,48.6%,66.7% (4/6),2:20
 11-Nov-2019,Taipei,3,Hard,R16,291,129,1,,6,Naiktha Bains,Kaja Juvan,1-6 6-2 3-4 RET,0.87,0.0%,2.6%,69.2%,48.1%,54.2%,37.5% (3/8),47.1%,43.5%,0.0%,35.1%,56.0%,40.0% (4/10),1:43
 11-Nov-2019,Taipei,3,Hard,R32,291,207,1,,,Naiktha Bains,Arina Rodionova,6-3 6-7(3) 7-5,1.16,1.0%,2.9%,68.6%,61.4%,56.3%,50.0% (4/8),53.1%,46.7%,1.0%,43.5%,52.8%,70.0% (7/10),2:21
 4-Nov-2019,W25 Hua Hin,3,Hard,SF,292,225,0,,,Lesley Pattinama Kerkhove,Naiktha Bains,6-2 5-7 6-1,,,,,,,,,,,,,,
 4-Nov-2019,W25 Hua Hin,3,Hard,QF,292,1224,1,,,Naiktha Bains,Hurricane Tyra Black,6-3 6-4,,,,,,,,,,,,,,
 4-Nov-2019,W25 Hua Hin,3,Hard,R16,292,201,1,,7,Naiktha Bains,Kamilla Rakhimova,2-6 6-4 6-1,,,,,,,,,,,,,,
 4-Nov-2019,W25 Hua Hin,3,Hard,R32,292,281,1,,,Naiktha Bains,Su Jeong Jang,4-6 6-3 6-4,,,,,,,,,,,,,,
-28-Oct-2019,W60 Playford,3,Hard,QF,278,,0,8,WC,Storm Sanders,Naiktha Bains,6-3 7-5,,,,,,,,,,,,,,
+28-Oct-2019,W60 Playford,3,Hard,QF,278,,0,8,WC,Storm Hunter,Naiktha Bains,6-3 7-5,,,,,,,,,,,,,,
 28-Oct-2019,W60 Playford,3,Hard,R16,278,371,1,8,,Naiktha Bains,Haruna Arakawa,6-3 6-0,,,,,,,,,,,,,,
 28-Oct-2019,W60 Playford,3,Hard,R32,278,305,1,8,,Naiktha Bains,Mari Osaka,6-1 6-2,,,,,,,,,,,,,,
 21-Oct-2019,W60 Bendigo,3,Hard,R32,278,309,0,,,Risa Ozaki,Naiktha Bains,7-6(4) 6-4,,,,,,,,,,,,,,

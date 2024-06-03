@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 29-Aug-2022,W60 Prague,3,Clay,R32,417,120,0,,1,Julia Grabher,Ellie Halbauer,6-3 6-4,,,,,,,,,,,,,,
 29-Aug-2022,W60 Prague,3,Clay,R64,417,,1,,Q,Ellie Halbauer,Barbora Michalkova,5-7 7-5 6-1,,,,,,,,,,,,,,
 22-Aug-2022,W25 Braunschweig,3,Clay,R16,416,340,0,,7,Mona Barthel,Ellie Halbauer,6-3 6-1,,,,,,,,,,,,,,
@@ -40,8 +40,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jun-2021,W60 Stare Splavy,3,Clay,Q2,337,473,0,5,16,Ipek Oz,Ellie Halbauer,5-1 RET,,,,,,,,,,,,,,
 14-Jun-2021,W60 Stare Splavy,3,Clay,Q1,337,527,1,5,,Ellie Halbauer,Chantal Skamlova,2-6 6-1 11-9,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R16,311,749,0,,JE,Linda Fruhvirtova,Ellie Halbauer,6-1 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R16,311,749,0,,JE,Linda Fruhvirtova,Ellie Halbauer,6-1 6-2,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,311,506,1,,Q,Ellie Halbauer,Marine Partaud,4-6 6-2 5-2 RET,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,311,506,1,,Q,Ellie Halbauer,Marine Partaud,4-6 6-2 5-2 RET,,,,,,,,,,,,,,
 21-Sep-2020,W25 Prerov,3,Clay,R16,313,274,0,,,Valentini Grammatikopoulou,Ellie Halbauer,6-0 6-3,,,,,,,,,,,,,,
 21-Sep-2020,W25 Prerov,3,Clay,R32,313,249,1,,3,Ellie Halbauer,Valentyna Ivakhnenko,6-2 5-7 7-6(7),,,,,,,,,,,,,,
@@ -166,7 +164,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-May-2017,Charleston SC $60K,3,Clay,R16,283,242,0,,,Danielle Collins,Ellie Halbauer,2-6 6-1 6-1,,,,,,,,,,,,,,
 1-May-2017,Charleston SC $60K,3,Clay,R32,283,254,1,,,Ellie Halbauer,Usue Maitane Arconada,3-6 6-4 6-4,,,,,,,,,,,,,,
 24-Apr-2017,Charlottesville VA $60K,3,Clay,R32,277,162,0,,5,Barbara Haas,Ellie Halbauer,6-0 3-6 7-6(2),,,,,,,,,,,,,,
-17-Apr-2017,Dothan AL $60K,3,Clay,R32,277,159,0,WC,6,Jamie Loeb,Ellie Halbauer,6-4 6-3 (ch),,,,,,,,,,,,,,
+17-Apr-2017,Dothan AL $60K,3,Clay,R32,277,159,0,WC,6,Jamie Loeb,Ellie Halbauer,6-4 6-3,,,,,,,,,,,,,,
 10-Apr-2017,Indian Harbour Beach FL $80K,3,Clay,R32,277,119,0,,5,Ons Jabeur,Ellie Halbauer,6-4 6-2,,,,,,,,,,,,,,
 3-Apr-2017,Charleston,3,Clay,Q1,276,132,0,,4,Aleksandra Krunic,Ellie Halbauer,6-2 6-2,0.57,4.1%,8.2%,63.3%,51.6%,38.9%,28.6% (2/7),39.1%,30.2%,2.3%,18.2%,42.9%,100.0% (1/1),1:04
 30-Jan-2017,Midland MI $100K,3,Hard,R32,260,322,0,,,Danielle Lao,Ellie Halbauer,4-6 6-3 6-3,,,,,,,,,,,,,,

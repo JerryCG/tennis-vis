@@ -1,4 +1,122 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W75 Zagreb,3,Clay,R16,125,501,0,1,WC,Iva Primorac,Laura Pigossi,6-3 6-0,,,,,,,,,,,,,,
+13-May-2024,W75 Zagreb,3,Clay,R32,125,254,1,1,Q,Laura Pigossi,Sapfo Sakellaridi,6-2 6-2,,,,,,,,,,,,,,
+6-May-2024,Rome,3,Clay,Q2,125,104,0,,11,Rebeka Masarova,Laura Pigossi,6-7(3) 6-3 7-5,0.93,0.0%,2.8%,83.2%,60.7%,50.0%,54.5% (6/11),48.2%,38.3%,1.7%,33.8%,46.3%,37.5% (3/8),2:51
+6-May-2024,Rome,3,Clay,Q1,125,100,1,,19,Laura Pigossi,Erika Andreeva,6-3 6-3,1.31,0.0%,4.0%,70.0%,54.3%,46.7%,42.9% (3/7),57.8%,62.7%,1.7%,46.7%,79.3%,63.6% (7/11),1:33
+29-Apr-2024,W100 Wiesbaden,3,Clay,R16,124,193,0,5,,Tereza Martincova,Laura Pigossi,6-3 7-5,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,R32,124,372,1,5,WC,Laura Pigossi,Julia Middendorf,6-1 6-1,,,,,,,,,,,,,,
+22-Apr-2024,Madrid,3,Clay,Q1,124,79,0,,7,Bernarda Pera,Laura Pigossi,6-4 6-2,0.70,3.1%,3.1%,82.8%,45.3%,9.1%,53.3% (8/15),40.5%,42.6%,8.5%,37.1%,58.3%,100.0% (4/4),1:18
+12-Apr-2024,BJK Cup Qualifiers,3,,RR,125,66,0,,,Tatjana Maria,Laura Pigossi,2-6 6-4 6-4,0.92,0.0%,2.0%,75.0%,57.3%,36.0%,53.8% (7/13),48.6%,44.3%,5.1%,35.4%,58.1%,75.0% (6/8),
+1-Apr-2024,Bogota,3,Clay,R16,119,178,0,,,Irina Bara,Laura Pigossi,3-6 7-6(3) 6-4,1.02,0.0%,4.2%,70.8%,52.9%,54.3%,58.8% (10/17),50.6%,47.7%,0.0%,42.3%,60.6%,46.7% (7/15),3:22
+1-Apr-2024,Bogota,3,Clay,R32,119,67,1,,5,Laura Pigossi,Nadia Podoroska,6-4 6-1,1.42,0.0%,5.5%,60.0%,81.8%,40.9%,75.0% (3/4),57.8%,48.9%,2.1%,42.9%,57.9%,40.0% (4/10),1:15
+25-Mar-2024,San Luis Potosi 125,3,Clay,QF,116,51,0,,2,Elisabetta Cocciaretto,Laura Pigossi,6-0 6-2,0.52,0.0%,7.3%,53.7%,45.5%,31.6%,28.6% (2/7),35.2%,31.9%,0.0%,23.3%,47.1%,0.0% (0/2),1:03
+25-Mar-2024,San Luis Potosi 125,3,Clay,R16,116,224,1,,Q,Laura Pigossi,Xiaodi You,5-7 6-2 7-5,1.11,0.8%,4.2%,70.0%,60.7%,38.9%,66.7% (12/18),52.8%,51.1%,0.0%,48.4%,56.3%,57.1% (8/14),3:18
+25-Mar-2024,San Luis Potosi 125,3,Clay,R32,116,211,1,,,Laura Pigossi,Dalila Jakupovic,7-5 6-3,1.16,0.0%,6.0%,71.6%,54.2%,47.4%,42.9% (3/7),53.9%,55.4%,0.0%,52.5%,66.7%,53.8% (7/13),1:51
+18-Mar-2024,Miami,3,Hard,Q1,116,72,0,,3,Taylor Townsend,Laura Pigossi,6-4 6-4,0.61,0.0%,0.0%,77.3%,51.7%,52.9%,55.6% (5/9),43.1%,29.2%,14.6%,32.3%,23.5%,66.7% (2/3),1:37
+6-Mar-2024,Indian Wells,3,Hard,Q1,115,91,0,,16,Camila Osorio,Laura Pigossi,4-6 6-3 6-4,0.69,0.0%,0.0%,79.6%,59.5%,26.3%,61.5% (8/13),43.7%,32.4%,1.4%,20.4%,56.0%,80.0% (4/5),2:01
+26-Feb-2024,W50 Pretoria,3,Hard,F,123,315,1,1,8,Laura Pigossi,Hanne Vandewinkel,6-2 4-6 7-5,,,,,,,,,,,,,,
+26-Feb-2024,W50 Pretoria,3,Hard,SF,123,291,1,1,6,Laura Pigossi,Manon Leonard,6-2 6-1,,,,,,,,,,,,,,
+26-Feb-2024,W50 Pretoria,3,Hard,QF,123,735,1,1,,Laura Pigossi,Jaeda Daniel,6-0 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W50 Pretoria,3,Hard,R16,123,690,1,1,,Laura Pigossi,Ekaterina Shalimova,6-3 6-0,,,,,,,,,,,,,,
+26-Feb-2024,W50 Pretoria,3,Hard,R32,123,421,1,1,,Laura Pigossi,Anastasia Kovaleva,6-4 6-2,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,SF,124,433,0,1,,Lina Glushko,Laura Pigossi,6-3 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,QF,124,743,1,1,WC,Laura Pigossi,Isabella Kruger,6-1 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,R16,124,401,1,1,,Laura Pigossi,Clervie Ngounoue,6-3 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W50 Pretoria,3,Hard,R32,124,476,1,1,,Laura Pigossi,Amelie Van Impe,4-6 6-0 6-2,,,,,,,,,,,,,,
+12-Feb-2024,Doha,3,Hard,Q1,125,68,0,,7,Viktoriya Tomova,Laura Pigossi,6-4 6-0,0.70,0.0%,3.9%,74.5%,39.5%,38.5%,33.3% (3/9),40.8%,42.3%,1.9%,40.5%,50.0%,28.6% (2/7),1:23
+5-Feb-2024,Mumbai 125,3,Hard,R16,128,150,0,5,,Storm Hunter,Laura Pigossi,6-3 6-3,0.79,0.0%,9.6%,67.3%,62.9%,35.3%,33.3% (2/6),44.9%,36.4%,7.3%,29.0%,45.8%,50.0% (1/2),1:21
+5-Feb-2024,Mumbai 125,3,Hard,R32,128,164,1,5,,Laura Pigossi,Ekaterina Makarova,6-1 3-0 RET,3.47,3.8%,0.0%,84.6%,81.8%,75.0%,- (0/0),72.9%,66.7%,0.0%,43.8%,88.2%,57.1% (4/7),0:42
+29-Jan-2024,Hua Hin,3,Hard,R32,114,71,0,,,Viktorija Golubic,Laura Pigossi,6-1 6-2,0.60,0.0%,0.0%,76.6%,33.3%,36.4%,33.3% (3/9),37.0%,39.6%,1.9%,41.5%,33.3%,40.0% (2/5),1:14
+15-Jan-2024,Australian Open,5,Hard,Q1,118,210,0,6,,Nigina Abduraimova,Laura Pigossi,5-7 7-5 6-0,0.80,0.0%,0.0%,81.0%,48.1%,63.2%,58.8% (10/17),45.4%,39.4%,5.3%,27.9%,60.6%,50.0% (4/8),2:28
+1-Jan-2024,Canberra 125,3,Hard,R32,112,164,0,,Q,Fiona Ferro,Laura Pigossi,7-6(5) 6-2,0.57,1.1%,1.1%,69.2%,65.1%,42.9%,80.0% (8/10),44.7%,23.7%,6.8%,6.5%,42.9%,- (0/0),1:43
+27-Nov-2023,Buenos Aires 125,3,Clay,F,137,175,1,5,8,Laura Pigossi,Maria Lourdes Carle,6-3 6-2,1.36,0.0%,0.0%,76.4%,50.0%,76.9%,62.5% (5/8),57.8%,59.3%,0.0%,54.8%,75.0%,66.7% (6/9),1:32
+27-Nov-2023,Buenos Aires 125,3,Clay,SF,137,135,1,5,6,Laura Pigossi,Renata Zarazua,6-4 1-6 7-6(2),0.97,0.0%,3.3%,64.1%,57.6%,57.6%,58.3% (7/12),48.7%,41.0%,0.0%,40.7%,42.1%,36.4% (4/11),2:50
+27-Nov-2023,Buenos Aires 125,3,Clay,QF,137,209,1,5,,Laura Pigossi,Solana Sierra,2-6 7-5 6-3,1.12,1.3%,2.5%,70.9%,66.1%,47.8%,37.5% (3/8),51.8%,43.8%,2.2%,30.8%,62.2%,71.4% (5/7),2:18
+27-Nov-2023,Buenos Aires 125,3,Clay,R16,137,364,1,5,,Laura Pigossi,Conny Perrin,6-2 6-3,1.31,0.0%,11.3%,61.3%,68.4%,37.5%,72.7% (8/11),56.8%,57.1%,5.4%,42.9%,71.4%,60.0% (6/10),1:28
+27-Nov-2023,Buenos Aires 125,3,Clay,R32,137,303,1,5,,Laura Pigossi,Leyre Romero Gormaz,6-4 4-6 6-4,1.09,1.0%,4.0%,70.0%,55.7%,56.7%,45.5% (5/11),52.1%,47.8%,1.1%,39.0%,63.6%,63.6% (7/11),2:35
+20-Nov-2023,Florianopolis 125,3,Clay,R32,138,200,0,,,Miriam Bianca Bulgaru,Laura Pigossi,6-7(4) 7-6(4) 6-0,0.86,1.6%,3.2%,68.0%,55.3%,45.0%,63.2% (12/19),46.8%,41.1%,1.8%,40.3%,42.2%,40.0% (4/10),3:23
+13-Nov-2023,Colina 125,3,Clay,R16,136,125,0,,7,Elizabeth Mandlik,Laura Pigossi,3-6 6-4 6-0,0.82,0.0%,4.3%,66.7%,60.9%,26.1%,40.0% (4/10),45.3%,41.8%,1.3%,31.8%,54.3%,40.0% (4/10),1:56
+13-Nov-2023,Colina 125,3,Clay,R32,136,184,1,,,Laura Pigossi,Carole Monnet,4-6 6-0 6-3,1.33,0.0%,2.6%,78.2%,63.9%,41.2%,33.3% (2/6),56.5%,54.4%,1.1%,49.3%,71.4%,72.7% (8/11),2:18
+10-Nov-2023,BJK Cup Playoffs,3,Hard,RR,134,295,1,,,Laura Pigossi,Sohyun Park,6-1 6-1,1.98,2.4%,4.8%,76.2%,78.1%,50.0%,100.0% (2/2),62.5%,56.5%,0.0%,53.1%,60.0%,45.5% (5/11),
+16-Oct-2023,Monastir,3,Hard,R32,120,176,0,,,Iryna Shymanovich,Laura Pigossi,6-3 6-2,0.85,0.0%,3.6%,62.5%,60.0%,38.1%,50.0% (4/8),45.7%,40.8%,0.0%,39.6%,43.5%,10.0% (1/10),1:43
+9-Oct-2023,Seoul,3,Hard,R32,118,116,0,,,Emina Bektas,Laura Pigossi,6-7(5) 6-4 7-5,0.78,3.2%,4.8%,68.0%,62.4%,45.0%,66.7% (10/15),46.3%,33.7%,5.8%,24.6%,51.4%,60.0% (3/5),3:08
+2-Oct-2023,Beijing,3,Hard,Q2,122,46,0,ALT,1,Peyton Stearns,Laura Pigossi,6-1 6-1,0.44,0.0%,10.0%,70.0%,42.9%,33.3%,37.5% (3/8),33.3%,26.3%,13.2%,9.1%,50.0%,- (0/0),0:54
+2-Oct-2023,Beijing,3,Hard,Q1,122,86,1,ALT,16,Laura Pigossi,Aliaksandra Sasnovich,0-6 7-6(4) 6-4,0.91,1.9%,2.9%,68.9%,53.5%,34.4%,52.9% (9/17),47.7%,47.7%,2.7%,43.8%,55.3%,42.9% (6/14),2:41
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,SF,130,151,0,1,3,Leolia Jeanjean,Laura Pigossi,6-4 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,QF,130,187,1,1,,Laura Pigossi,Timea Babos,6-2 1-0 RET,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R16,130,565,1,1,Q,Laura Pigossi,Dalayna Hewitt,6-2 7-5,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R32,130,579,1,1,WC,Laura Pigossi,Fangran Tian,6-3 6-0,,,,,,,,,,,,,,
+4-Sep-2023,Bari 125,3,Clay,R32,131,153,0,6,,Rebecca Sramkova,Laura Pigossi,6-3 6-1,0.53,0.0%,8.3%,60.4%,41.4%,42.1%,33.3% (3/9),36.7%,31.0%,0.0%,20.7%,53.8%,40.0% (2/5),1:10
+28-Aug-2023,US Open,5,Hard,Q1,131,145,0,29,,Kaja Juvan,Laura Pigossi,7-6(4) 6-2,0.69,0.0%,7.5%,61.2%,58.5%,26.9%,44.4% (4/9),41.9%,37.1%,1.6%,33.3%,43.5%,50.0% (3/6),1:29
+14-Aug-2023,Barranquilla 125,3,Hard,QF,135,70,0,8,2,Anna Karolina Schmiedlova,Laura Pigossi,6-3 2-6 6-2,0.93,0.0%,7.2%,75.4%,63.5%,41.2%,44.4% (4/9),48.0%,39.2%,1.3%,20.5%,57.5%,66.7% (4/6),2:03
+14-Aug-2023,Barranquilla 125,3,Hard,R16,135,190,1,8,,Laura Pigossi,Kristina Mladenovic,6-2 1-0 RET,1.39,7.0%,0.0%,72.1%,64.5%,58.3%,100.0% (5/5),58.1%,51.6%,0.0%,44.4%,61.5%,40.0% (2/5),1:02
+14-Aug-2023,Barranquilla 125,3,Hard,R32,135,546,1,8,,Laura Pigossi,Amandine Hesse,6-2 6-1,1.31,0.0%,4.9%,58.5%,50.0%,58.8%,25.0% (1/4),57.9%,60.6%,0.0%,48.8%,82.6%,63.6% (7/11),1:16
+7-Aug-2023,W80 Brasilia,3,Hard,SF,168,170,0,4,5,Leolia Jeanjean,Laura Pigossi,4-6 6-3 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,QF,168,213,1,4,7,Laura Pigossi,Despina Papamichail,6-2 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R16,168,431,1,4,,Laura Pigossi,Eden Silva,6-4 6-0,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R32,168,,1,4,WC,Laura Pigossi,Olivia Carneiro,6-0 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,F,168,325,1,1,8,Laura Pigossi,Jana Kolodynska,6-1 6-4,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,SF,168,627,1,1,,Laura Pigossi,Haley Giavara,6-4 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,QF,168,303,1,1,6,Laura Pigossi,Valeriya Strakhova,6-4 6-3,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,R16,168,680,1,1,,Laura Pigossi,Yuliana Monroy,6-1 6-1,,,,,,,,,,,,,,
+31-Jul-2023,W60 Feira De Santana,3,Hard,R32,168,599,1,1,,Laura Pigossi,Jasmin Jebawy,6-1 6-1,,,,,,,,,,,,,,
+23-Jul-2023,Hamburg,3,Clay,R32,142,207,0,,WC,Noma Noha Akugue,Laura Pigossi,7-5 6-4,0.89,0.0%,0.0%,80.0%,51.8%,50.0%,61.5% (8/13),47.2%,43.2%,2.7%,38.1%,50.0%,50.0% (3/6),1:53
+17-Jul-2023,Iasi 125,3,Clay,QF,138,166,0,7,,Raluka Serban,Laura Pigossi,7-6(8) 7-5,0.96,0.0%,3.5%,76.5%,64.6%,30.0%,63.6% (7/11),48.6%,41.7%,0.0%,36.5%,51.5%,25.0% (3/12),2:41
+17-Jul-2023,Iasi 125,3,Clay,R16,138,186,1,7,,Laura Pigossi,Elsa Jacquemot,4-6 7-6(3) 7-5,1.05,0.0%,2.6%,76.9%,48.9%,40.7%,26.7% (4/15),51.5%,55.7%,1.6%,44.6%,72.9%,64.7% (11/17),3:40
+17-Jul-2023,Iasi 125,3,Clay,R32,138,215,1,7,,Laura Pigossi,Miriam Bianca Bulgaru,5-7 6-0 6-1,1.27,1.1%,3.2%,71.3%,61.2%,44.4%,66.7% (8/12),56.0%,55.4%,2.7%,51.3%,60.0%,57.1% (8/14),2:40
+3-Jul-2023,Wimbledon,5,Grass,Q1,134,797,0,26,,Vera Zvonareva,Laura Pigossi,5-7 7-6(5) 6-2,0.88,1.7%,4.1%,70.2%,61.2%,38.9%,60.0% (9/15),47.6%,40.0%,0.0%,40.5%,38.9%,55.6% (5/9),2:46
+19-Jun-2023,Gaiba 125,3,Grass,R16,133,162,0,,,Robin Montgomery,Laura Pigossi,6-0 6-7(3) 6-0,1.43,8.2%,14.1%,60.0%,80.4%,41.2%,83.3% (5/6),57.1%,50.5%,1.0%,46.9%,57.1%,33.3% (7/21),2:13
+19-Jun-2023,Gaiba 125,3,Grass,R32,133,,1,,,Laura Pigossi,Jana Cepelova,3-6 6-3 6-1,1.16,2.5%,2.5%,63.7%,62.7%,51.7%,57.1% (4/7),52.9%,47.8%,0.0%,46.2%,52.0%,66.7% (6/9),2:03
+12-Jun-2023,W60 Ricany,3,Clay,QF,132,1118,0,1,WC,Tereza Valentova,Laura Pigossi,6-3 6-2,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R16,132,577,1,1,Q,Laura Pigossi,Amarissa Kiara Toth,7-5 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Ricany,3,Clay,R32,132,527,1,1,,Laura Pigossi,Sandra Samir,7-5 6-0,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R32,139,218,0,,Q,Katarina Zavatska,Laura Pigossi,6-3 6-4,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q3,139,119,0,22,10,Elizabeth Mandlik,Laura Pigossi,6-2 2-6 7-5,0.95,1.2%,1.2%,76.8%,44.4%,52.6%,27.3% (3/11),48.9%,51.0%,2.0%,53.9%,41.7%,43.8% (7/16),
+29-May-2023,Roland Garros,5,Clay,Q2,139,224,1,22,,Laura Pigossi,Noma Noha Akugue,7-6(2) 6-3,1.24,0.0%,0.0%,82.3%,62.7%,45.5%,0.0% (0/3),54.5%,50.0%,0.0%,35.9%,67.7%,36.4% (4/11),
+29-May-2023,Roland Garros,5,Clay,Q1,139,,1,22,,Laura Pigossi,Olga Govortsova,6-1 6-3,1.58,3.6%,1.8%,76.8%,65.1%,61.5%,75.0% (3/4),60.0%,56.3%,0.0%,43.9%,78.3%,38.5% (5/13),
+15-May-2023,W60 Saint-Gaudens,3,Clay,R16,133,354,0,3,,Anna Siskova,Laura Pigossi,6-4 6-4,,,,,,,,,,,,,,
+15-May-2023,W60 Saint-Gaudens,3,Clay,R32,133,530,1,3,WC,Laura Pigossi,Sarah Beth Grey,6-1 6-7(4) 6-2,,,,,,,,,,,,,,
+8-May-2023,Rome,3,Clay,Q1,133,152,0,18,,Elena Gabriela Ruse,Laura Pigossi,6-1 6-2,0.58,2.2%,6.7%,66.7%,36.7%,20.0%,12.5% (1/8),35.8%,40.0%,0.0%,36.0%,44.0%,28.6% (2/7),1:13
+1-May-2023,Saint Malo 125,3,Clay,R32,125,75,0,,3,Maryna Zanevska,Laura Pigossi,6-2 6-0,0.59,0.0%,1.9%,71.7%,36.8%,46.7%,33.3% (3/9),37.8%,35.6%,2.2%,25.9%,50.0%,16.7% (1/6),1:12
+24-Apr-2023,Madrid,3,Clay,Q1,125,96,0,,9,Anna Karolina Schmiedlova,Laura Pigossi,6-2 6-4,0.91,0.0%,3.1%,72.3%,53.2%,33.3%,53.8% (7/13),47.6%,47.5%,5.1%,40.0%,58.3%,60.0% (3/5),1:38
+14-Apr-2023,BJK Cup QLS R1: GER vs BRA,3,Clay,RR,124,91,0,,,Anna Lena Friedsam,Laura Pigossi,6-1 6-0,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup QLS R1: GER vs BRA,3,Clay,RR,124,71,0,,,Tatjana Maria,Laura Pigossi,6-3 3-6 7-5,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,QF,101,817,0,6,,Francesca Jones,Laura Pigossi,6-4 6-2,0.76,7.4%,7.4%,68.5%,48.6%,29.4%,33.3% (3/9),43.2%,43.9%,0.0%,26.9%,58.1%,75.0% (3/4),1:33
+3-Apr-2023,Bogota,3,Clay,R16,101,224,1,6,Q,Laura Pigossi,Natalija Stevanovic,7-5 5-7 6-4,1.08,0.9%,1.8%,68.8%,61.3%,58.8%,50.0% (4/8),51.4%,42.5%,0.9%,36.1%,60.0%,45.5% (5/11),3:16
+3-Apr-2023,Bogota,3,Clay,R32,101,1077,1,6,WC,Laura Pigossi,Antonia Samudio,6-1 6-0,1.86,2.4%,4.9%,65.9%,63.0%,57.1%,75.0% (3/4),66.7%,72.5%,0.0%,66.7%,78.9%,100.0% (7/7),1:03
+27-Mar-2023,San Luis Potosi 125,3,Clay,QF,102,143,0,8,,Kaja Juvan,Laura Pigossi,4-6 6-3 6-4,1.03,0.0%,1.1%,80.4%,47.3%,66.7%,52.9% (9/17),50.7%,50.5%,4.5%,44.6%,58.7%,50.0% (7/14),2:54
+27-Mar-2023,San Luis Potosi 125,3,Clay,R16,102,162,1,8,,Laura Pigossi,Katrina Scott,6-3 6-1,1.49,0.0%,2.0%,67.3%,45.5%,56.3%,20.0% (1/5),61.5%,76.2%,7.1%,67.9%,92.9%,66.7% (8/12),1:14
+27-Mar-2023,San Luis Potosi 125,3,Clay,R32,102,406,1,8,Q,Laura Pigossi,Andrea Gamiz,4-6 6-1 6-2,1.23,3.8%,5.0%,72.5%,62.1%,40.9%,42.9% (3/7),54.9%,53.8%,0.0%,48.3%,86.7%,50.0% (8/16),2:24
+20-Mar-2023,Miami,3,Hard,Q1,102,383,0,18,,Kristina Kucova,Laura Pigossi,7-5 6-1,0.80,0.0%,5.6%,61.1%,57.6%,42.9%,50.0% (5/10),44.2%,38.7%,2.7%,20.7%,50.0%,28.6% (2/7),1:48
+6-Mar-2023,Indian Wells,3,Hard,Q1,104,154,0,12,WC,Ashlyn Krueger,Laura Pigossi,6-4 6-4,0.80,0.0%,3.0%,74.6%,54.0%,52.9%,50.0% (4/8),45.7%,37.1%,4.8%,24.3%,56.0%,40.0% (2/5),1:32
+27-Feb-2023,Monterrey,3,Hard,Q1,102,206,0,3,,Caroline Dolehide,Laura Pigossi,6-2 6-4,0.72,0.0%,1.5%,70.8%,56.5%,63.2%,70.0% (7/10),44.8%,30.0%,6.7%,26.1%,42.9%,0.0% (0/4),1:22
+20-Feb-2023,Merida,3,Hard,Q2,102,170,0,4,ALT,Elina Avanesyan,Laura Pigossi,2-6 6-1 6-3,0.81,0.0%,1.1%,79.3%,60.9%,38.9%,63.6% (7/11),46.8%,35.2%,5.6%,34.7%,36.4%,40.0% (2/5),1:57
+20-Feb-2023,Merida,3,Hard,Q1,102,664,1,4,WC,Laura Pigossi,Maria Fernanda Navarro Oliva,6-4 6-3,1.23,1.6%,6.5%,77.4%,64.6%,50.0%,75.0% (6/8),54.5%,47.5%,0.0%,39.1%,76.9%,71.4% (5/7),1:41
+30-Jan-2023,Cali 125,3,Clay,SF,110,206,0,2,,Paula Ormaechea,Laura Pigossi,7-5 6-3,0.63,0.0%,7.4%,54.4%,56.8%,54.8%,50.0% (4/8),42.6%,27.9%,6.6%,28.9%,25.0%,14.3% (1/7),1:55
+30-Jan-2023,Cali 125,3,Clay,QF,110,389,1,2,,Laura Pigossi,Valeriya Strakhova,6-3 3-6 6-3,1.10,0.0%,5.0%,73.8%,57.6%,33.3%,36.4% (4/11),52.6%,53.8%,0.0%,46.2%,64.1%,56.3% (9/16),2:43
+30-Jan-2023,Cali 125,3,Clay,R16,110,215,1,2,,Laura Pigossi,Raluka Serban,6-2 6-3,1.25,1.8%,3.5%,70.2%,55.0%,52.9%,50.0% (3/6),56.1%,57.1%,0.0%,56.1%,60.0%,29.2% (7/24),2:04
+30-Jan-2023,Cali 125,3,Clay,R32,110,263,1,2,,Laura Pigossi,Gabriela Ce,6-1 6-1,1.73,6.8%,0.0%,72.7%,71.9%,58.3%,- (0/0),61.3%,55.1%,4.1%,40.7%,72.7%,71.4% (5/7),1:29
+16-Jan-2023,Australian Open,5,Hard,R128,112,94,0,LL,,Caty Mcnally,Laura Pigossi,7-5 6-1,0.77,0.0%,7.0%,71.9%,46.3%,31.3%,30.0% (3/10),43.5%,44.8%,0.0%,44.2%,45.8%,30.0% (3/10),1:35
+16-Jan-2023,Australian Open,5,Hard,Q3,112,240,0,14,,Arianne Hartono,Laura Pigossi,3-6 6-2 6-4,0.87,1.0%,1.0%,75.0%,54.2%,54.2%,58.3% (7/12),47.3%,40.0%,0.0%,37.3%,45.2%,37.5% (3/8),2:22
+16-Jan-2023,Australian Open,5,Hard,Q2,112,310,1,14,,Laura Pigossi,Misaki Doi,W/O,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,112,211,1,14,,Laura Pigossi,Magali Kempen,6-2 6-2,1.36,3.0%,0.0%,63.6%,57.1%,62.5%,50.0% (2/4),57.5%,55.6%,1.9%,37.1%,89.5%,60.0% (6/10),1:41
+2-Jan-2023,United Cup,3,Hard,RR,118,54,0,,,Lucia Bronzetti,Laura Pigossi,6-0 6-2,0.55,0.0%,2.3%,81.8%,33.3%,37.5%,14.3% (1/7),35.2%,36.2%,8.5%,31.0%,44.4%,50.0% (1/2),1:17
+2-Jan-2023,United Cup,3,Hard,RR,118,388,1,,,Laura Pigossi,Ulrikke Eikeri,6-3 6-4,1.18,1.4%,7.0%,59.2%,64.3%,44.8%,50.0% (3/6),53.9%,51.4%,4.3%,38.5%,67.7%,46.2% (6/13),1:50
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,SF,120,316,0,2,,Iryna Shymanovich,Laura Pigossi,7-6(4) 4-6 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,QF,120,293,1,2,,Laura Pigossi,Whitney Osuigwe,6-7(1) 6-1 6-2,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R16,120,,1,2,WC,Laura Pigossi,Paola Ueno Dalmonico,6-1 6-0,,,,,,,,,,,,,,
+28-Nov-2022,W60 Rio de Janeiro,3,Clay,R32,120,,1,2,Q,Laura Pigossi,Maria Luisa Oliveira,6-0 6-1,,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R32,118,176,0,7,,Hailey Baptiste,Laura Pigossi,3-6 7-6(1) 6-1,0.93,0.0%,2.6%,78.2%,54.1%,41.2%,25.0% (2/8),47.8%,45.5%,1.6%,34.7%,62.5%,30.0% (6/20),2:40
+14-Nov-2022,Buenos Aires 125,3,Clay,QF,115,185,0,8,WC,Paula Ormaechea,Laura Pigossi,6-2 6-4,0.76,0.0%,4.3%,67.1%,55.3%,39.1%,50.0% (5/10),44.5%,37.9%,3.4%,35.0%,44.4%,66.7% (2/3),1:48
+14-Nov-2022,Buenos Aires 125,3,Clay,R16,115,125,1,8,,Laura Pigossi,Leolia Jeanjean,6-4 3-6 6-4,1.08,3.4%,2.3%,69.3%,62.3%,51.9%,50.0% (5/10),51.1%,44.0%,2.0%,36.7%,55.0%,54.5% (6/11),2:55
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,115,183,1,8,,Laura Pigossi,Ekaterine Gorgodze,6-3 6-4,1.33,3.8%,5.7%,67.9%,66.7%,52.9%,33.3% (1/3),55.5%,50.0%,1.5%,47.2%,61.5%,62.5% (5/8),1:22
+12-Nov-2022,BJK Cup Playoffs: BRA vs ARG,3,Clay,RR,114,184,0,,,Paula Ormaechea,Laura Pigossi,6-2 7-5,,,,,,,,,,,,,,
+12-Nov-2022,BJK Cup Playoffs: BRA vs ARG,3,Clay,RR,114,464,1,,,Laura Pigossi,Solana Sierra,6-2 6-0,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,F,106,86,0,2,1,Panna Udvardy,Laura Pigossi,6-2 7-5,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,SF,106,339,1,2,16,Laura Pigossi,Kateryna Bondarenko,7-5 6-2,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,QF,106,227,1,2,7,Laura Pigossi,Carole Monnet,7-5 RET,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,R16,106,711,1,2,Q,Laura Pigossi,Angelina Wirges,6-4 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W60 Barranquilla,3,Hard,R32,106,430,1,2,,Laura Pigossi,Yuliana Lizarazo,6-3 6-1,,,,,,,,,,,,,,
 24-Oct-2022,Tampico,3,Hard,R32,103,94,0,,,Varvara Gracheva,Laura Pigossi,6-4 6-1,0.67,0.0%,0.0%,76.7%,48.5%,30.0%,0.0% (0/5),40.4%,37.5%,1.8%,43.2%,26.3%,100.0% (2/2),1:09
 17-Oct-2022,Guadalajara 2,3,Hard,R64,108,47,0,LL,WC,Donna Vekic,Laura Pigossi,6-4 6-1,0.52,0.0%,8.2%,69.4%,50.0%,46.7%,33.3% (2/6),37.8%,26.5%,4.1%,20.0%,36.8%,0.0% (0/2),1:23
 17-Oct-2022,Guadalajara 2,3,Hard,Q2,108,185,0,6,,Asia Muhammad,Laura Pigossi,6-2 6-4,0.71,1.8%,7.3%,70.9%,48.7%,50.0%,42.9% (3/7),42.0%,35.9%,4.7%,23.3%,47.1%,16.7% (1/6),1:41
@@ -23,7 +141,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jul-2022,Budapest,3,Clay,Q1,125,347,1,2,,Laura Pigossi,Amina Anshba,6-4 6-3,1.14,0.0%,2.9%,80.0%,58.9%,28.6%,55.6% (5/9),53.4%,53.8%,1.3%,51.8%,59.1%,35.3% (6/17),2:21
 4-Jul-2022,Contrexeville 125,3,Clay,R32,124,64,0,,1,Anna Bondar,Laura Pigossi,6-4 6-2,0.70,1.5%,3.1%,69.2%,51.1%,40.0%,44.4% (4/9),42.6%,36.8%,8.8%,32.4%,45.0%,50.0% (2/4),1:30
 27-Jun-2022,Wimbledon,5,Grass,R128,124,91,0,,,Kristina Kucova,Laura Pigossi,7-5 6-0,0.68,0.0%,5.3%,56.1%,43.8%,36.0%,22.2% (2/9),40.4%,40.4%,3.8%,35.1%,53.3%,50.0% (3/6),1:17
-23-May-2022,Roland Garros,5,Clay,Q1,122,165,0,16,,Nastasja Schunk,Laura Pigossi,7-5 3-6 6-3,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,122,165,0,16,,Nastasja Schunk,Laura Pigossi,7-5 3-6 6-3,0.99,0.0%,0.0%,74.0%,60.6%,48.0%,58.3% (7/12),49.7%,42.1%,2.1%,43.6%,40.0%,28.6% (4/14),
 9-May-2022,Karlsruhe 125,3,Clay,R16,125,62,0,,2,Mayar Sherif,Laura Pigossi,6-2 6-2,0.62,0.0%,1.8%,70.9%,35.9%,50.0%,25.0% (2/8),38.7%,37.3%,2.0%,35.9%,41.7%,40.0% (2/5),1:22
 9-May-2022,Karlsruhe 125,3,Clay,R32,125,166,1,,,Laura Pigossi,Polona Hercog,6-4 1-0 RET,1.31,0.0%,0.0%,74.4%,58.6%,50.0%,50.0% (2/4),56.7%,57.1%,0.0%,52.6%,66.7%,60.0% (3/5),1:05
 2-May-2022,Saint Malo 125,3,Clay,R16,128,65,0,Q,4,Beatriz Haddad Maia,Laura Pigossi,6-4 7-6(5),0.86,0.0%,0.0%,74.4%,57.4%,52.4%,70.0% (7/10),47.4%,37.8%,0.0%,30.4%,61.1%,66.7% (2/3),2:11
@@ -32,8 +150,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Apr-2022,BJK Cup G1 PPO: BRA vs CHI,3,Hard,RR,126,242,1,,,Laura Pigossi,Barbara Gatica,6-4 6-2,1.38,0.0%,1.9%,69.2%,66.7%,37.5%,25.0% (1/4),57.9%,58.2%,0.0%,54.5%,72.7%,75.0% (6/8),1:27
 15-Apr-2022,BJK Cup G1 RR: BRA vs COL,3,Hard,RR,126,450,1,,,Laura Pigossi,Maria Fernanda Herazo Gonzalez,6-0 6-4,1.90,2.4%,0.0%,81.0%,70.6%,75.0%,0.0% (0/1),62.2%,54.2%,0.0%,58.8%,42.9%,55.6% (5/9),1:09
 14-Apr-2022,BJK Cup G1 RR: BRA vs ARG,3,Hard,RR,126,648,0,,,Solana Sierra,Laura Pigossi,7-6(1) 4-6 7-6(12),1.00,0.8%,2.4%,77.0%,50.5%,44.8%,27.3% (3/11),50.0%,50.8%,1.7%,50.0%,52.3%,64.3% (9/14),3:05
-4-Apr-2022,Bogota,3,Clay,F,212,237,0,Q,Q,Tatjana Maria,Laura Pigossi,6-3 4-6 6-2 (ch),0.84,0.0%,1.0%,77.1%,56.8%,59.1%,66.7% (8/12),46.8%,35.9%,6.5%,22.2%,55.3%,40.0% (2/5),2:30
-4-Apr-2022,Bogota,3,Clay,SF,212,33,1,Q,1,Laura Pigossi,Camila Osorio,7-5 7-6(2) (ch),1.14,0.0%,5.9%,73.3%,54.1%,40.7%,66.7% (12/18),53.1%,56.6%,0.0%,48.2%,80.0%,63.6% (7/11),2:11
+4-Apr-2022,Bogota,3,Clay,F,212,237,0,Q,Q,Tatjana Maria,Laura Pigossi,6-3 4-6 6-2,0.84,0.0%,1.0%,77.1%,56.8%,59.1%,66.7% (8/12),46.8%,35.9%,6.5%,22.2%,55.3%,40.0% (2/5),2:30
+4-Apr-2022,Bogota,3,Clay,SF,212,33,1,Q,1,Laura Pigossi,Camila Osorio,7-5 7-6(2),1.14,0.0%,5.9%,73.3%,54.1%,40.7%,66.7% (12/18),53.1%,56.6%,0.0%,48.2%,80.0%,63.6% (7/11),2:11
 4-Apr-2022,Bogota,3,Clay,QF,212,102,1,Q,,Laura Pigossi,Dayana Yastremska,6-2 4-6 7-6(3),1.12,0.0%,7.3%,73.6%,66.7%,37.9%,64.3% (9/14),52.5%,45.8%,4.7%,31.8%,55.6%,46.2% (6/13),2:33
 4-Apr-2022,Bogota,3,Clay,R16,212,120,1,Q,,Laura Pigossi,Ekaterine Gorgodze,6-3 6-2,1.45,0.0%,2.0%,82.0%,63.4%,66.7%,60.0% (3/5),58.2%,52.1%,0.0%,50.0%,58.3%,83.3% (5/6),1:13
 4-Apr-2022,Bogota,3,Clay,R32,212,90,1,Q,5,Laura Pigossi,Harmony Tan,6-4 6-3,1.27,1.3%,3.8%,80.8%,60.3%,46.7%,77.8% (7/9),55.9%,53.8%,3.1%,35.7%,67.6%,45.5% (5/11),1:43
@@ -48,7 +166,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Mar-2022,W25 Salinas,3,Hard,R16,186,413,1,2,16,Laura Pigossi,Sinja Kraus,6-1 6-2,,,,,,,,,,,,,,
 7-Mar-2022,W25 Salinas,3,Hard,R32,186,634,1,2,,Laura Pigossi,Oleksandra Oliynykova,6-4 6-4,,,,,,,,,,,,,,
 28-Feb-2022,Monterrey,3,Hard,Q1,188,102,0,,6,Lucia Bronzetti,Laura Pigossi,4-6 6-4 6-3,0.85,0.0%,7.5%,73.1%,44.1%,48.0%,47.1% (8/17),46.0%,46.9%,6.3%,37.9%,60.5%,35.0% (7/20),2:18
-21-Feb-2022,Guadalajara,3,Hard,Q1,187,163,0,,11,Storm Sanders,Laura Pigossi,6-3 6-3,0.67,0.0%,12.2%,61.2%,46.7%,31.6%,25.0% (2/8),40.2%,39.6%,5.7%,36.7%,43.5%,60.0% (3/5),1:08
+21-Feb-2022,Guadalajara,3,Hard,Q1,187,163,0,,11,Storm Hunter,Laura Pigossi,6-3 6-3,0.67,0.0%,12.2%,61.2%,46.7%,31.6%,25.0% (2/8),40.2%,39.6%,5.7%,36.7%,43.5%,60.0% (3/5),1:08
 7-Feb-2022,W25 Porto,3,Hard,R32,187,512,0,2,,Nika Radisic,Laura Pigossi,6-1 1-6 6-4,,,,,,,,,,,,,,
 17-Jan-2022,Australian Open,5,Hard,Q1,195,117,0,,4,Nina Stojanovic,Laura Pigossi,6-1 6-2,0.39,0.0%,2.3%,75.0%,42.4%,18.2%,0.0% (0/6),31.3%,25.0%,5.6%,12.5%,35.0%,100.0% (1/1),0:59
 3-Jan-2022,W60+H Traralgon,3,Hard,R32,191,236,0,7,Q,Marina Melnikova,Laura Pigossi,6-2 6-0,,,,,,,,,,,,,,
@@ -67,7 +185,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2021,W25 Guayaquil,3,Clay,R16,282,918,1,2,,Laura Pigossi,Jana Kolodynska,6-0 3-0 RET,,,,,,,,,,,,,,
 25-Oct-2021,W25 Guayaquil,3,Clay,R32,282,667,1,2,,Laura Pigossi,Maria Paulina Perez Garcia,6-3 6-2,,,,,,,,,,,,,,
 18-Oct-2021,W25 Rio do Sul,3,Clay,SF,287,234,0,4,2,Daniela Seguel,Laura Pigossi,6-2 6-1,,,,,,,,,,,,,,
-18-Oct-2021,W25 Rio do Sul,3,Clay,QF,287,267,1,4,5,Laura Pigossi,Maria Carle,6-1 6-3,,,,,,,,,,,,,,
+18-Oct-2021,W25 Rio do Sul,3,Clay,QF,287,267,1,4,5,Laura Pigossi,Maria Lourdes Carle,6-1 6-3,,,,,,,,,,,,,,
 18-Oct-2021,W25 Rio do Sul,3,Clay,R16,287,455,1,4,SR,Laura Pigossi,Thaisa Grana Pedretti,6-2 2-6 6-1,,,,,,,,,,,,,,
 18-Oct-2021,W25 Rio do Sul,3,Clay,R32,287,,1,4,,Laura Pigossi,Julia Konishi Camargo Silva,6-2 6-0,,,,,,,,,,,,,,
 11-Oct-2021,W25 Lima,3,Clay,QF,275,180,0,8,2,Amandine Hesse,Laura Pigossi,6-3 6-2,,,,,,,,,,,,,,
@@ -102,7 +220,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-May-2021,W25 Salinas,3,Hard,R32,326,408,1,,,Laura Pigossi,Marianna Zakarlyuk,6-4 6-2,,,,,,,,,,,,,,
 26-Apr-2021,W25 Oeiras,3,Clay,R16,326,584,0,15,,Malene Helgo,Laura Pigossi,3-6 6-4 7-6(5),,,,,,,,,,,,,,
 26-Apr-2021,W25 Oeiras,3,Clay,R32,326,593,1,15,,Laura Pigossi,Jacqueline Cabaj Awad,6-2 6-3,,,,,,,,,,,,,,
-17-Apr-2021,BJK Cup Playoffs: BRA vs POL,3,Hard,RR,326,157,0,,,Magdalena Frech,Laura Pigossi,4-6 6-3 7-6(4) (ch),0.89,0.8%,2.5%,74.2%,62.9%,35.5%,64.3% (9/14),48.0%,39.4%,5.5%,36.1%,45.9%,50.0% (5/10),3:04
+17-Apr-2021,BJK Cup Playoffs: BRA vs POL,3,Hard,RR,326,157,0,,,Magdalena Frech,Laura Pigossi,4-6 6-3 7-6(4),0.89,0.8%,2.5%,74.2%,62.9%,35.5%,64.3% (9/14),48.0%,39.4%,5.5%,36.1%,45.9%,50.0% (5/10),3:04
 17-Apr-2021,BJK Cup Playoffs: BRA vs POL,3,Hard,RR,326,227,1,,,Laura Pigossi,Urszula Radwanska,7-6(9) 3-6 6-2,1.06,0.0%,5.4%,65.8%,56.2%,50.0%,36.4% (4/11),51.4%,48.6%,1.0%,42.3%,61.8%,46.7% (7/15),2:51
 5-Apr-2021,W25 Cordoba,3,Clay,R32,326,335,0,,,Amina Anshba,Laura Pigossi,7-5 3-6 7-5,,,,,,,,,,,,,,
 29-Mar-2021,W25 Villa Maria,3,Clay,R32,324,274,0,,8,Valentini Grammatikopoulou,Laura Pigossi,6-3 7-5,,,,,,,,,,,,,,
@@ -217,7 +335,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Feb-2018,Sao Paulo $25K,3,Clay,R16,397,205,0,,5,Tamara Zidansek,Laura Pigossi,6-2 6-2,,,,,,,,,,,,,,
 26-Feb-2018,Sao Paulo $25K,3,Clay,R32,397,268,1,,,Laura Pigossi,Melanie Stokke,1-6 6-3 6-2,,,,,,,,,,,,,,
 19-Feb-2018,Curitiba $25K,3,Clay,R16,389,248,0,,,Fiona Ferro,Laura Pigossi,6-0 6-1,,,,,,,,,,,,,,
-19-Feb-2018,Curitiba $25K,3,Clay,R32,389,736,1,,,Laura Pigossi,Maria Carle,6-2 6-4,,,,,,,,,,,,,,
+19-Feb-2018,Curitiba $25K,3,Clay,R32,389,736,1,,,Laura Pigossi,Maria Lourdes Carle,6-2 6-4,,,,,,,,,,,,,,
 5-Feb-2018,Hammamet $15K,3,Clay,SF,398,800,0,,,Angelica Moratelli,Laura Pigossi,6-3 6-3,,,,,,,,,,,,,,
 5-Feb-2018,Hammamet $15K,3,Clay,QF,398,923,1,,,Laura Pigossi,Guadalupe Perez Rojas,4-6 7-6(5) 6-3,,,,,,,,,,,,,,
 5-Feb-2018,Hammamet $15K,3,Clay,R16,398,,1,,Q,Laura Pigossi,Melania Delai,6-2 6-4,,,,,,,,,,,,,,

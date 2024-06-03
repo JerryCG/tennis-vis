@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 5-Oct-2015,Kirkland WA $50K,3,Hard,R32,298,206,0,,,Mandy Minella,Sofia Arvidsson,3-6 6-1 6-4,,,,,,,,,,,,,,
 28-Sep-2015,Clermont Ferrand $25K,3,Hard,R32,298,233,0,,,Anastasiya Komardina,Sofia Arvidsson,6-2 6-1,,,,,,,,,,,,,,
 24-Aug-2015,Woking $25K,3,Hard,R32,288,238,0,,1,Ana Vrljic,Sofia Arvidsson,6-3 7-5,,,,,,,,,,,,,,
@@ -122,7 +122,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Aug-2012,Cincinnati,3,Hard,R32,50,3,0,,1,Agnieszka Radwanska,Sofia Arvidsson,6-4 6-3,0.85,1.7%,6.7%,56.7%,50.0%,34.6%,30.0% (3/10),45.8%,47.9%,2.8%,41.5%,56.7%,38.5% (5/13),
 13-Aug-2012,Cincinnati,3,Hard,R64,50,36,1,,,Sofia Arvidsson,Tamira Paszek,6-1 2-1 RET,1.85,6.9%,3.4%,55.2%,68.8%,69.2%,75.0% (3/4),61.8%,57.4%,2.1%,57.7%,57.1%,44.4% (4/9),
 6-Aug-2012,Montreal,3,Hard,R64,50,117,0,,Q,Jana Cepelova,Sofia Arvidsson,6-3 6-3,0.79,1.5%,6.2%,64.6%,50.0%,39.1%,40.0% (4/10),44.4%,42.6%,0.0%,34.9%,61.1%,50.0% (3/6),
-30-Jul-2012,Olympics,3,Grass,R64,49,13,0,,13,Vera Zvonareva,Sofia Arvidsson,7-6(5) 6-4 (ch),0.69,8.2%,9.4%,74.1%,66.7%,36.4%,77.8% (7/9),45.2%,28.6%,4.3%,24.5%,38.1%,20.0% (1/5),
+30-Jul-2012,Olympics,3,Grass,R64,49,13,0,,13,Vera Zvonareva,Sofia Arvidsson,7-6(5) 6-4,0.69,8.2%,9.4%,74.1%,66.7%,36.4%,77.8% (7/9),45.2%,28.6%,4.3%,24.5%,38.1%,20.0% (1/5),
 16-Jul-2012,Bastad,3,Clay,QF,55,41,0,,7,Mona Barthel,Sofia Arvidsson,6-3 6-4,0.75,1.0%,7.2%,59.8%,62.1%,41.0%,85.0% (17/20),46.0%,34.8%,4.5%,35.5%,34.3%,20.0% (1/5),
 16-Jul-2012,Bastad,3,Clay,R16,55,64,1,,,Sofia Arvidsson,Arantxa Rus,6-4 7-5,1.15,0.0%,3.0%,67.2%,60.0%,40.9%,55.6% (5/9),53.3%,53.0%,2.4%,50.9%,56.7%,50.0% (6/12),
 16-Jul-2012,Bastad,3,Clay,R32,55,26,1,,4,Sofia Arvidsson,Roberta Vinci,6-4 7-5,1.21,3.7%,1.2%,64.6%,66.0%,27.6%,61.5% (8/13),54.6%,57.6%,0.0%,50.0%,71.4%,77.8% (7/9),

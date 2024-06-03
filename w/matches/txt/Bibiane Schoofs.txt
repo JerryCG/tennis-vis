@@ -1,4 +1,26 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+29-Apr-2024,Saint Malo 125,3,Clay,Q2,1231,439,0,,7,Eden Silva,Bibiane Schoofs,4-6 6-3 7-6(5),0.97,1.0%,6.1%,71.7%,60.6%,39.3%,53.8% (7/13),48.8%,44.0%,1.7%,36.9%,62.5%,33.3% (6/18),2:12
+29-Apr-2024,Saint Malo 125,3,Clay,Q1,1231,284,1,,4,Bibiane Schoofs,Manon Leonard,4-6 6-4 6-0,1.34,0.0%,5.2%,59.7%,63.0%,51.6%,50.0% (5/10),56.9%,55.6%,1.1%,50.0%,61.9%,53.3% (8/15),1:52
+25-Sep-2023,Tokyo,3,Hard,Q1,926,388,0,WC,9,Natsumi Kawaguchi,Bibiane Schoofs,6-4 6-3,0.72,3.1%,4.6%,67.7%,61.4%,42.9%,62.5% (5/8),43.8%,32.3%,4.6%,25.6%,45.5%,25.0% (1/4),1:17
+4-Sep-2023,W100 Tokyo,3,Hard,Q1,925,466,0,,14,Nagi Hanatani,Bibiane Schoofs,7-5 6-2,,,,,,,,,,,,,,
+7-Aug-2023,W100 Maspalomas Gran Canaria,3,Clay,Q1,933,498,0,,8,Natalia Siedliska,Bibiane Schoofs,6-2 6-4,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,963,106,0,,11,Yue Yuan,Bibiane Schoofs,6-2 6-0,0.44,5.6%,8.3%,61.1%,36.4%,14.3%,25.0% (2/8),29.7%,31.6%,2.6%,28.6%,35.3%,100.0% (1/1),0:48
+1-May-2023,Saint Malo 125,3,Clay,Q1,869,489,0,,6,Yana Morderger,Bibiane Schoofs,1-6 6-2 6-4,1.04,0.0%,13.8%,63.2%,45.5%,43.8%,38.5% (5/13),51.1%,57.3%,1.1%,44.4%,70.5%,47.1% (8/17),2:01
+24-Apr-2023,W60 Oeiras,3,Clay,Q2,869,738,0,,,Ulrikke Eikeri,Bibiane Schoofs,W/O,,,,,,,,,,,,,,
+24-Apr-2023,W60 Oeiras,3,Clay,Q1,869,485,1,,6,Bibiane Schoofs,Jacqueline Cabaj Awad,7-5 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,Q1,820,323,0,,6,Luksika Kumkhum,Bibiane Schoofs,6-2 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R32,900,223,0,SR,,Greet Minnen,Bibiane Schoofs,4-6 6-2 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,QF,902,440,0,Q,,Kajsa Rinaldo Persson,Bibiane Schoofs,6-1 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,R16,902,462,1,Q,,Bibiane Schoofs,Emeline Dartron,6-4 7-6(2),,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,R32,902,549,1,Q,,Bibiane Schoofs,Ziva Falkner,6-4 6-0,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,Q2,902,619,1,12,2,Bibiane Schoofs,Verena Meliss,7-5 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W25 Loughborough,3,Hard,Q1,902,,1,12,,Bibiane Schoofs,Jamie Lau,6-0 6-0,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R32,935,118,0,SR,3,Magdalena Frech,Bibiane Schoofs,6-2 6-4,,,,,,,,,,,,,,
+28-Nov-2022,Andorra 125,3,Hard,R32,967,234,0,SR,,Sophie Chang,Bibiane Schoofs,6-3 7-5,0.83,2.8%,6.9%,65.3%,59.6%,56.0%,25.0% (1/4),46.0%,34.6%,3.8%,25.0%,59.1%,16.7% (1/6),1:33
+21-Nov-2022,W25 Petange,3,Hard,R32,968,608,0,Q,,Maileen Nuudi,Bibiane Schoofs,6-0 3-6 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,Q3,968,806,1,9,4,Bibiane Schoofs,Amandine Monnot,1-6 6-4 10-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,Q2,968,,1,9,,Bibiane Schoofs,Marlene Foerster,6-0 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,R32,962,287,0,,5,Caijsa Wilda Hennemann,Bibiane Schoofs,6-4 7-5,,,,,,,,,,,,,,
 9-May-2022,Karlsruhe 125,3,Clay,R32,413,81,0,SR,4,Greet Minnen,Bibiane Schoofs,6-1 6-4,0.79,0.0%,9.7%,69.4%,37.2%,52.6%,41.7% (5/12),43.9%,45.9%,3.3%,40.0%,53.8%,30.0% (3/10),1:22
 2-May-2022,W25 Split,3,Clay,R32,412,330,0,,8,Lea Boskovic,Bibiane Schoofs,6-4 6-1,,,,,,,,,,,,,,
 25-Apr-2022,W25 Santa Margherita di Pula,3,Clay,R16,412,329,0,,5,Sara Bejlek,Bibiane Schoofs,7-5 6-2,,,,,,,,,,,,,,
@@ -24,7 +46,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Oct-2021,W25 Lima,3,Clay,R32,313,591,1,6,,Bibiane Schoofs,Maria Fernanda Herazo Gonzalez,6-0 6-1,,,,,,,,,,,,,,
 6-Sep-2021,W25 Saint Palais sur Mer,3,Clay,R32,285,671,0,4,Q,Alice Robbe,Bibiane Schoofs,6-2 6-3,,,,,,,,,,,,,,
 30-Aug-2021,W25 Vienna,3,Clay,R32,285,385,0,6,,Ellie Halbauer,Bibiane Schoofs,7-6(5) 6-0,,,,,,,,,,,,,,
-30-Aug-2021,US Open,5,Hard,Q1,285,150,0,,31,Emma Raducanu,Bibiane Schoofs,6-1 6-2 (ch),0.44,3.9%,5.9%,47.1%,45.8%,37.0%,58.3% (7/12),34.4%,25.6%,5.1%,19.2%,38.5%,100.0% (1/1),1:01
+30-Aug-2021,US Open,5,Hard,Q1,285,150,0,,31,Emma Raducanu,Bibiane Schoofs,6-1 6-2,0.44,3.9%,5.9%,47.1%,45.8%,37.0%,58.3% (7/12),34.4%,25.6%,5.1%,19.2%,38.5%,100.0% (1/1),1:01
 15-Feb-2021,W25 Potchefstroom,3,Hard,R16,200,260,0,3,,Anastasia Zakharova,Bibiane Schoofs,6-1 6-3,,,,,,,,,,,,,,
 15-Feb-2021,W25 Potchefstroom,3,Hard,R32,200,484,1,3,WC,Bibiane Schoofs,Sada Nahimana,7-6(1) 6-2,,,,,,,,,,,,,,
 8-Feb-2021,W25 Potchefstroom,3,Hard,R16,200,880,0,3,WC,Zoe Kruger,Bibiane Schoofs,6-4 6-1,,,,,,,,,,,,,,
@@ -70,7 +92,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Oct-2019,Luxembourg,3,Hard,Q1,157,208,1,8,,Bibiane Schoofs,Diana Marcinkevica,7-6(4) 7-5,1.06,2.3%,3.4%,67.0%,64.4%,44.8%,63.6% (7/11),51.4%,44.7%,4.7%,35.3%,58.8%,45.5% (5/11),1:51
 7-Oct-2019,W25 Cherbourg en Cotentin,3,Hard,R32,150,368,0,2,,Indy De Vroome,Bibiane Schoofs,6-3 6-1,,,,,,,,,,,,,,
 16-Sep-2019,Guangzhou,3,Hard,Q1,155,179,0,9,,Jia Jing Lu,Bibiane Schoofs,6-3 6-2,0.74,0.0%,6.7%,56.7%,55.9%,42.3%,63.6% (7/11),43.2%,36.9%,10.8%,31.0%,47.8%,14.3% (1/7),1:24
-9-Sep-2019,Zhengzhou,3,Hard,R32,155,38,0,,,Saisai Zheng,Bibiane Schoofs,7-6(4) 6-1 (ch),0.72,0.0%,9.2%,68.4%,55.8%,37.5%,69.2% (9/13),43.2%,36.1%,2.8%,38.6%,32.1%,33.3% (2/6),2:06
+9-Sep-2019,Zhengzhou,3,Hard,R32,155,38,0,,,Saisai Zheng,Bibiane Schoofs,7-6(4) 6-1,0.72,0.0%,9.2%,68.4%,55.8%,37.5%,69.2% (9/13),43.2%,36.1%,2.8%,38.6%,32.1%,33.3% (2/6),2:06
 26-Aug-2019,US Open,5,Hard,Q2,158,149,0,,,Kristina Kucova,Bibiane Schoofs,6-7(1) 6-2 6-3,0.85,4.3%,6.4%,67.0%,49.2%,32.3%,37.5% (6/16),45.7%,47.8%,3.3%,41.2%,56.4%,46.2% (6/13),2:16
 26-Aug-2019,US Open,5,Hard,Q1,158,241,1,,,Bibiane Schoofs,Ulrikke Eikeri,6-4 6-3,1.12,1.7%,3.3%,68.3%,58.5%,52.6%,66.7% (4/6),52.4%,48.4%,0.0%,42.9%,59.1%,62.5% (5/8),1:19
 12-Aug-2019,W60 Concord MA,3,Hard,R32,160,200,0,,,Jessika Ponchet,Bibiane Schoofs,6-3 7-5,,,,,,,,,,,,,,
@@ -90,15 +112,15 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Jun-2019,W100 Ilkley,3,Grass,QF,177,92,1,,,Bibiane Schoofs,Anna Blinkova,4-6 7-6(4) 6-4,,,,,,,,,,,,,,
 17-Jun-2019,W100 Ilkley,3,Grass,R16,177,155,1,,,Bibiane Schoofs,Yanina Wickmayer,6-2 7-6(6),,,,,,,,,,,,,,
 17-Jun-2019,W100 Ilkley,3,Grass,R32,177,87,1,,5,Bibiane Schoofs,Madison Brengle,1-6 7-6(5) 6-3,,,,,,,,,,,,,,
-10-Jun-2019,S-Hertogenbosch,3,Grass,R32,169,132,0,WC,WC,Arantxa Rus,Bibiane Schoofs,7-5 6-4 (ch),0.83,4.0%,2.7%,66.7%,56.0%,44.0%,37.5% (3/8),46.4%,40.0%,3.1%,38.5%,42.3%,50.0% (3/6),1:39
+10-Jun-2019,S-Hertogenbosch,3,Grass,R32,169,132,0,WC,WC,Arantxa Rus,Bibiane Schoofs,7-5 6-4,0.83,4.0%,2.7%,66.7%,56.0%,44.0%,37.5% (3/8),46.4%,40.0%,3.1%,38.5%,42.3%,50.0% (3/6),1:39
 3-Jun-2019,Bol,3,Clay,R32,161,90,0,,4,Anna Karolina Schmiedlova,Bibiane Schoofs,6-1 6-1,0.60,0.0%,4.7%,60.5%,38.5%,41.2%,16.7% (1/6),37.7%,36.5%,1.6%,27.5%,52.2%,0.0% (0/8),1:20
 27-May-2019,Roland Garros,5,Clay,Q1,161,110,0,,5,Heather Watson,Bibiane Schoofs,6-2 4-6 6-4,0.81,5.0%,5.9%,62.4%,60.3%,50.0%,66.7% (8/12),46.4%,35.2%,0.0%,31.7%,41.9%,33.3% (2/6),2:10
 29-Apr-2019,Rabat,3,Clay,Q2,153,128,0,,6,Monica Niculescu,Bibiane Schoofs,6-0 6-4,0.67,0.0%,11.8%,70.6%,36.1%,13.3%,41.7% (5/12),39.1%,47.5%,0.0%,44.2%,71.4%,33.3% (3/9),1:19
 29-Apr-2019,Rabat,3,Clay,Q1,153,298,1,,,Bibiane Schoofs,Sabine Lisicki,6-3 1-6 6-1,1.14,1.2%,6.0%,66.7%,57.1%,46.4%,50.0% (5/10),53.3%,53.0%,4.5%,36.4%,86.4%,66.7% (6/9),1:32
 20-Apr-2019,Fed Cup WG2 R1: JPN vs NED,3,Hard,RR,149,112,0,,,Nao Hibino,Bibiane Schoofs,6-1 6-2,0.52,0.0%,6.8%,59.1%,42.3%,38.9%,44.4% (4/9),35.6%,30.4%,6.5%,25.7%,45.5%,20.0% (1/5),0:54
 20-Apr-2019,Fed Cup WG2 R1: JPN vs NED,3,Hard,RR,149,104,0,,,Misaki Doi,Bibiane Schoofs,6-3 6-2,0.71,5.9%,5.9%,58.8%,43.3%,42.9%,54.5% (6/11),41.5%,40.3%,0.0%,39.0%,42.3%,33.3% (2/6),1:13
-8-Apr-2019,Bogota,3,Clay,R16,162,243,0,Q,LL,Sara Errani,Bibiane Schoofs,6-2 6-1 (ch),0.59,0.0%,16.7%,54.8%,26.1%,31.6%,22.2% (2/9),36.1%,41.8%,0.0%,37.5%,45.2%,37.5% (3/8),1:05
-8-Apr-2019,Bogota,3,Clay,R32,162,426,1,Q,WC,Bibiane Schoofs,Emiliana Arango,6-2 6-4 (ch),1.23,0.0%,10.3%,64.7%,65.9%,37.5%,66.7% (6/9),55.1%,54.2%,1.7%,48.6%,62.5%,40.0% (6/15),1:32
+8-Apr-2019,Bogota,3,Clay,R16,162,243,0,Q,LL,Sara Errani,Bibiane Schoofs,6-2 6-1,0.59,0.0%,16.7%,54.8%,26.1%,31.6%,22.2% (2/9),36.1%,41.8%,0.0%,37.5%,45.2%,37.5% (3/8),1:05
+8-Apr-2019,Bogota,3,Clay,R32,162,426,1,Q,WC,Bibiane Schoofs,Emiliana Arango,6-2 6-4,1.23,0.0%,10.3%,64.7%,65.9%,37.5%,66.7% (6/9),55.1%,54.2%,1.7%,48.6%,62.5%,40.0% (6/15),1:32
 8-Apr-2019,Bogota,3,Clay,Q2,162,205,1,3,10,Bibiane Schoofs,Kristie Ahn,7-5 6-3,1.22,2.7%,10.7%,57.3%,72.1%,43.8%,77.8% (7/9),54.4%,48.6%,0.0%,43.2%,57.1%,55.6% (5/9),1:40
 8-Apr-2019,Bogota,3,Clay,Q1,162,417,1,3,Alt,Bibiane Schoofs,Alexa Guarachi,6-1 6-0,1.82,4.0%,16.0%,52.0%,84.6%,45.8%,100.0% (3/3),64.1%,61.9%,2.4%,47.4%,73.9%,50.0% (5/10),0:58
 1-Apr-2019,Charleston,3,Clay,Q1,158,367,0,7,,Kayla Day,Bibiane Schoofs,7-5 6-7(1) 6-3,0.93,0.9%,4.5%,59.1%,53.8%,53.3%,63.2% (12/19),48.1%,43.3%,0.8%,38.8%,52.4%,29.4% (5/17),2:58
@@ -148,7 +170,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jun-2018,s-Hertogenbosch,3,Grass,R16,174,55,0,WC,7,Aleksandra Krunic,Bibiane Schoofs,7-5 6-2,0.82,0.0%,2.5%,76.3%,54.1%,26.3%,60.0% (9/15),45.3%,42.9%,1.4%,39.6%,50.0%,30.0% (3/10),1:38
 11-Jun-2018,s-Hertogenbosch,3,Grass,R32,174,75,1,WC,,Bibiane Schoofs,Carina Witthoeft,6-4 7-5,1.27,0.0%,9.0%,71.6%,68.8%,42.1%,50.0% (3/6),54.9%,49.4%,0.0%,36.4%,66.7%,50.0% (5/10),1:28
 28-May-2018,Roland Garros,5,Clay,Q2,179,144,0,,,Tamara Korpatsch,Bibiane Schoofs,6-4 7-6(5),,,,,,,,,,,,,,
-28-May-2018,Roland Garros,5,Clay,Q1,179,127,1,,19,Bibiane Schoofs,Kristie Ahn,7-6(2) 2-6 6-3 (ch),,,,,,,,,,,,,,
+28-May-2018,Roland Garros,5,Clay,Q1,179,127,1,,19,Bibiane Schoofs,Kristie Ahn,7-6(2) 2-6 6-3,,,,,,,,,,,,,,
 7-May-2018,Cagnes Sur Mer $100K,3,Clay,QF,198,154,0,Q,,Ons Jabeur,Bibiane Schoofs,6-2 6-2,,,,,,,,,,,,,,
 7-May-2018,Cagnes Sur Mer $100K,3,Clay,R16,198,114,1,Q,,Bibiane Schoofs,Danka Kovinic,6-4 6-4,,,,,,,,,,,,,,
 7-May-2018,Cagnes Sur Mer $100K,3,Clay,R32,198,59,1,Q,,Bibiane Schoofs,Carina Witthoeft,6-3 6-4,,,,,,,,,,,,,,
@@ -234,7 +256,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Jan-2017,Andrezieux Boutheon $60K,3,Hard,R32,483,386,0,Q,LL,Akgul Amanmuradova,Bibiane Schoofs,6-3 6-7(4) 6-3,,,,,,,,,,,,,,
 21-Nov-2016,Valencia $25K,3,Clay,R32,488,246,0,Q,8,Irina Bara,Bibiane Schoofs,7-5 6-2,,,,,,,,,,,,,,
 7-Nov-2016,Bratislava $25K,3,Hard,SF,574,246,0,Q,7,Cristina Andreea Mitu,Bibiane Schoofs,6-1 6-4,,,,,,,,,,,,,,
-7-Nov-2016,Bratislava $25K,3,Hard,QF,574,225,1,Q,,Bibiane Schoofs,Viktoria Kuzmova,6-2 6-2,,,,,,,,,,,,,,
+7-Nov-2016,Bratislava $25K,3,Hard,QF,574,225,1,Q,,Bibiane Schoofs,Viktoria Hruncakova,6-2 6-2,,,,,,,,,,,,,,
 7-Nov-2016,Bratislava $25K,3,Hard,R16,574,322,1,Q,,Bibiane Schoofs,Rebeka Masarova,7-6(5) 3-6 6-0,,,,,,,,,,,,,,
 7-Nov-2016,Bratislava $25K,3,Hard,R32,574,390,1,Q,WC,Bibiane Schoofs,Chantal Skamlova,6-2 6-1,,,,,,,,,,,,,,
 24-Oct-2016,Loughborough $10K,3,Hard,SF,597,545,0,,7,Petra Krejsova,Bibiane Schoofs,6-3 7-5,,,,,,,,,,,,,,

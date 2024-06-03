@@ -4,14 +4,18 @@
 from dash import Dash, html, dcc
 import dash
 
+# create app
 app = Dash(__name__, use_pages=True, meta_tags=[
         {"name": "viewport", "content": "width=device-width, initial-scale=1"}
     ])
 
+# set server
 server = app.server
 
+# set app title
 app.title = "TennisVis"
 
+# design app layout
 app.layout = html.Div([
     # section for head
     html.Div(children=[

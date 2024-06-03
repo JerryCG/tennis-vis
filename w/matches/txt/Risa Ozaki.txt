@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 2-Mar-2020,W25 Yokohama,3,Hard,R32,315,657,0,6,Q,Himeno Sakatsume,Risa Ozaki,6-4 6-0,,,,,,,,,,,,,,
 6-Jan-2020,W25 Hong Kong,3,Hard,R16,311,535,0,8,Q,Moyuka Uchijima,Risa Ozaki,6-4 6-2,,,,,,,,,,,,,,
 6-Jan-2020,W25 Hong Kong,3,Hard,R32,311,1081,1,8,WC,Risa Ozaki,Kwan Yau Ng,6-2 6-2,,,,,,,,,,,,,,
@@ -13,7 +13,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Sep-2019,W25 Brisbane,3,Hard,R32,307,320,1,,,Risa Ozaki,Haruka Kaji,4-6 7-6(4) 6-4,,,,,,,,,,,,,,
 23-Sep-2019,W60 Darwin,3,Hard,R32,310,320,0,,,Chihiro Muramatsu,Risa Ozaki,6-2 6-4,,,,,,,,,,,,,,
 16-Sep-2019,Osaka,3,Hard,Q1,297,178,0,,11,Xinyun Han,Risa Ozaki,6-2 6-3,0.77,0.0%,1.6%,67.2%,51.2%,35.0%,25.0% (2/8),44.0%,41.7%,0.0%,35.5%,52.9%,100.0% (2/2),1:22
-9-Sep-2019,Hiroshima,3,Hard,R32,292,29,0,WC,1,Su Wei Hsieh,Risa Ozaki,6-1 3-6 6-3 (ch),0.85,1.2%,1.2%,63.9%,54.7%,36.7%,30.0% (3/10),46.1%,43.9%,2.4%,37.0%,52.8%,30.8% (4/13),1:56
+9-Sep-2019,Hiroshima,3,Hard,R32,292,29,0,WC,1,Su Wei Hsieh,Risa Ozaki,6-1 3-6 6-3,0.85,1.2%,1.2%,63.9%,54.7%,36.7%,30.0% (3/10),46.1%,43.9%,2.4%,37.0%,52.8%,30.8% (4/13),1:56
 26-Aug-2019,W60 Jinan,3,Hard,R32,291,244,0,,3,Kaylah Mcphee,Risa Ozaki,4-6 6-1 7-5,,,,,,,,,,,,,,
 19-Aug-2019,W25 Tsukuba,3,Hard,R32,288,463,0,2,,Carol Zhao,Risa Ozaki,6-2 6-3,,,,,,,,,,,,,,
 15-Jul-2019,W25 Gatineau,3,Hard,R32,253,485,0,5,,Carol Zhao,Risa Ozaki,6-3 1-6 6-2,,,,,,,,,,,,,,
@@ -135,7 +135,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-May-2017,Prague,3,Clay,Q1,72,173,0,1,,Lucie Hradecka,Risa Ozaki,6-4 5-7 6-2,0.91,0.0%,0.0%,86.5%,55.4%,38.5%,53.3% (8/15),47.9%,42.9%,4.1%,31.4%,55.3%,33.3% (5/15),2:11
 24-Apr-2017,Stuttgart,3,Clay,Q1,70,294,0,5,WC,Katharina Hobgarski,Risa Ozaki,3-6 6-3 6-4,1.01,1.1%,2.1%,77.7%,58.9%,57.1%,66.7% (8/12),49.3%,41.7%,0.0%,39.8%,46.9%,25.0% (3/12),2:27
 20-Mar-2017,Miami,3,Hard,R16,87,1,0,Q,1,Angelique Kerber,Risa Ozaki,6-2 6-2,0.67,0.0%,4.3%,60.9%,42.9%,38.9%,53.8% (7/13),40.2%,39.1%,0.0%,36.0%,42.9%,40.0% (2/5),1:02
-20-Mar-2017,Miami,3,Hard,R32,87,47,1,Q,,Risa Ozaki,Julia Goerges,7-6(5) 6-3 (ch),1.16,0.0%,1.5%,70.1%,66.0%,50.0%,40.0% (2/5),52.9%,45.1%,2.8%,35.9%,56.3%,50.0% (5/10),1:49
+20-Mar-2017,Miami,3,Hard,R32,87,47,1,Q,,Risa Ozaki,Julia Goerges,7-6(5) 6-3,1.16,0.0%,1.5%,70.1%,66.0%,50.0%,40.0% (2/5),52.9%,45.1%,2.8%,35.9%,56.3%,50.0% (5/10),1:49
 20-Mar-2017,Miami,3,Hard,R64,87,21,1,Q,16,Risa Ozaki,Kiki Bertens,6-4 4-6 6-1,1.17,1.1%,4.2%,71.6%,61.8%,40.7%,58.3% (7/12),54.0%,51.9%,3.7%,50.0%,53.1%,77.8% (7/9),2:19
 20-Mar-2017,Miami,3,Hard,R128,87,63,1,Q,,Risa Ozaki,Louisa Chirico,3-6 7-5 6-1,1.31,2.4%,3.6%,71.4%,75.0%,45.8%,62.5% (5/8),54.0%,43.8%,1.0%,32.8%,61.0%,27.8% (5/18),2:06
 20-Mar-2017,Miami,3,Hard,Q2,87,97,1,10,14,Risa Ozaki,Julia Boserup,7-5 6-0,2.12,6.8%,0.0%,61.4%,77.8%,76.5%,50.0% (1/2),60.8%,48.3%,1.7%,41.2%,58.3%,50.0% (5/10),1:14
@@ -197,7 +197,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2016,Brescia $50K,3,Clay,R32,128,225,0,2,,Jesika Maleckova,Risa Ozaki,6-4 6-2,,,,,,,,,,,,,,
 23-May-2016,Grado $25K,3,Clay,R32,128,301,0,2,Q,Marie Benoit,Risa Ozaki,7-6(6) 6-4,,,,,,,,,,,,,,
 23-May-2016,Roland Garros,5,Clay,Q1,128,144,0,19,,Julia Glushko,Risa Ozaki,6-1 6-4,,,,,,,,,,,,,,
-7-Mar-2016,Indian Wells,3,Hard,R128,125,42,0,Q,,Eugenie Bouchard,Risa Ozaki,2-6 6-4 6-2 (ch),0.96,0.0%,2.7%,69.3%,59.6%,34.8%,25.0% (2/8),48.8%,46.0%,6.9%,45.3%,47.1%,62.5% (5/8),1:58
+7-Mar-2016,Indian Wells,3,Hard,R128,125,42,0,Q,,Eugenie Bouchard,Risa Ozaki,2-6 6-4 6-2,0.96,0.0%,2.7%,69.3%,59.6%,34.8%,25.0% (2/8),48.8%,46.0%,6.9%,45.3%,47.1%,62.5% (5/8),1:58
 7-Mar-2016,Indian Wells,3,Hard,Q2,125,73,1,,10,Risa Ozaki,Anett Kontaveit,7-6(5) 6-4,1.03,2.0%,2.9%,77.5%,67.1%,34.8%,77.8% (7/9),52.3%,41.4%,5.7%,27.0%,57.6%,75.0% (3/4),1:53
 7-Mar-2016,Indian Wells,3,Hard,Q1,125,109,1,,18,Risa Ozaki,Magda Linette,2-6 7-6(3) 6-4,1.08,0.0%,3.4%,64.4%,53.6%,54.8%,41.7% (5/12),51.6%,49.5%,0.0%,46.4%,63.2%,50.0% (6/12),2:36
 29-Feb-2016,Kuala Lumpur,3,Hard,R16,133,19,0,Q,2,Elina Svitolina,Risa Ozaki,6-1 3-6 6-0,0.73,0.0%,1.4%,59.2%,47.6%,41.4%,61.1% (11/18),42.6%,40.3%,5.2%,35.4%,48.3%,30.0% (3/10),1:57
@@ -232,7 +232,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Sep-2015,Tokyo,3,Hard,Q3,133,68,0,8,1,Ana Konjuh,Risa Ozaki,6-4 6-0,,,,,,,,,,,,,,
 21-Sep-2015,Tokyo,3,Hard,Q2,133,282,1,8,,Risa Ozaki,Miyabi Inoue,7-5 6-3,,,,,,,,,,,,,,
 21-Sep-2015,Tokyo,3,Hard,Q1,133,167,1,8,,Risa Ozaki,Eri Hozumi,6-3 6-3,,,,,,,,,,,,,,
-14-Sep-2015,Tokyo,3,Hard,R16,142,60,0,Q,6,Christina Mchale,Risa Ozaki,6-1 7-5 (ch),,,,,,,,,,,,,,
+14-Sep-2015,Tokyo,3,Hard,R16,142,60,0,Q,6,Christina Mchale,Risa Ozaki,6-1 7-5,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,R32,142,114,1,Q,,Risa Ozaki,Bojana Jovanovski,6-1 6-1,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,Q3,142,123,1,7,3,Risa Ozaki,Maria Teresa Torro Flor,2-0 RET,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,Q2,142,151,1,7,,Risa Ozaki,Zhaoxuan Yang,7-6(3) 6-2,,,,,,,,,,,,,,

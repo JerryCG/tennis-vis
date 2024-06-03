@@ -1,12 +1,107 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Strasbourg,3,Clay,R16,142,56,0,WC,,Anhelina Kalinina,Fiona Ferro,6-3 3-6 6-0,0.77,1.2%,4.7%,65.9%,50.0%,41.4%,50.0% (7/14),44.2%,41.0%,1.3%,36.0%,50.0%,44.4% (4/9),2:13
+20-May-2024,Strasbourg,3,Clay,R32,142,101,1,WC,Q,Fiona Ferro,Erika Andreeva,6-2 6-2,1.62,1.9%,0.0%,62.3%,63.6%,70.0%,85.7% (6/7),60.2%,55.0%,0.0%,50.0%,62.5%,35.7% (5/14),1:28
+13-May-2024,Paris 125,3,Clay,QF,149,22,0,,1,Emma Navarro,Fiona Ferro,6-3 6-2,0.76,0.0%,4.4%,53.3%,50.0%,47.6%,50.0% (5/10),42.9%,38.8%,0.0%,31.1%,54.5%,50.0% (2/4),1:16
+13-May-2024,Paris 125,3,Clay,R16,149,70,1,,8,Fiona Ferro,Cristina Bucsa,6-3 7-6(6),1.14,4.2%,2.8%,56.3%,47.5%,58.1%,37.5% (3/8),53.5%,54.7%,1.2%,43.6%,74.2%,42.9% (6/14),1:39
+13-May-2024,Paris 125,3,Clay,R32,149,152,1,,WC,Fiona Ferro,Lois Boisson,3-6 6-4 0-1 RET,0.91,1.4%,2.9%,76.8%,58.5%,62.5%,70.0% (7/10),48.5%,36.9%,0.0%,34.0%,44.4%,33.3% (2/6),1:48
+6-May-2024,Rome,3,Clay,Q1,149,138,0,ALT,,Yuliia Starodubtseva,Fiona Ferro,6-3 7-5,0.90,0.0%,2.6%,65.8%,60.0%,34.6%,45.5% (5/11),47.7%,44.0%,0.0%,37.5%,63.2%,23.1% (3/13),1:50
+29-Apr-2024,Saint Malo 125,3,Clay,R16,154,107,0,,8,Alize Cornet,Fiona Ferro,6-4 5-7 6-3,0.88,0.0%,3.2%,62.1%,52.5%,44.4%,56.3% (9/16),47.0%,44.4%,2.2%,33.3%,70.4%,100.0% (6/6),2:20
+29-Apr-2024,Saint Malo 125,3,Clay,R32,154,166,1,,,Fiona Ferro,Lauren Davis,6-1 6-2,1.49,2.1%,2.1%,74.5%,62.9%,50.0%,50.0% (2/4),60.0%,60.3%,1.7%,55.8%,73.3%,37.5% (6/16),1:12
+22-Apr-2024,Madrid,3,Clay,Q1,154,99,0,,17,Maria Timofeeva,Fiona Ferro,7-5 3-6 6-2,0.84,0.0%,1.1%,75.3%,53.7%,59.1%,25.0% (2/8),46.6%,37.9%,4.6%,36.8%,40.0%,57.1% (4/7),2:08
+15-Apr-2024,Rouen,3,Clay,R32,144,67,0,Q,,Elina Avanesyan,Fiona Ferro,6-2 1-6 7-5,0.98,0.0%,2.0%,70.3%,52.1%,63.3%,61.5% (8/13),50.0%,43.8%,0.0%,37.9%,54.8%,40.0% (4/10),2:13
+15-Apr-2024,Rouen,3,Clay,Q2,144,180,1,2,7,Fiona Ferro,Timea Babos,6-4 6-1,1.41,2.7%,2.7%,74.0%,59.3%,68.4%,84.6% (11/13),58.5%,54.0%,4.0%,41.7%,85.7%,62.5% (5/8),1:19
+15-Apr-2024,Rouen,3,Clay,Q1,144,289,1,2,WC,Fiona Ferro,Manon Leonard,6-4 6-0,1.58,0.0%,0.0%,70.0%,60.0%,46.7%,40.0% (2/5),62.6%,69.4%,0.0%,69.0%,70.0%,58.3% (7/12),1:08
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,140,91,0,,5,Rebeka Masarova,Fiona Ferro,2-6 6-1 6-1,0.75,0.0%,5.2%,57.1%,50.0%,42.4%,45.5% (5/11),43.7%,40.0%,4.6%,22.2%,62.1%,42.9% (3/7),1:36
+25-Mar-2024,Antalya 125,3,Clay,R32,138,172,0,8,,Zeynep Sonmez,Fiona Ferro,6-1 6-7(8) 6-2,0.83,0.0%,2.1%,69.8%,52.2%,41.4%,38.5% (5/13),45.6%,42.4%,0.0%,43.2%,40.0%,42.9% (3/7),2:18
+11-Mar-2024,W75 Ricany,3,Hard,R16,144,285,0,2,Q,Mona Barthel,Fiona Ferro,4-6 6-1 6-1,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,R32,144,166,1,2,,Fiona Ferro,Panna Udvardy,6-4 6-1,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,R32,144,190,0,4,,Polina Kudermetova,Fiona Ferro,7-5 6-3,,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,R16,142,434,0,5,Q,Emily Appleton,Fiona Ferro,5-7 7-6(4) 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,R32,142,316,1,5,Q,Fiona Ferro,Alina Charaeva,6-4 7-6(1),,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,R128,153,206,0,Q,WC,Mccartney Kessler,Fiona Ferro,3-6 6-3 6-2,0.76,0.0%,0.0%,64.6%,62.3%,48.3%,63.6% (7/11),45.8%,32.4%,4.2%,24.0%,52.4%,50.0% (2/4),1:43
+15-Jan-2024,Australian Open,5,Hard,Q3,153,186,1,,,Fiona Ferro,Polina Kudermetova,6-3 3-6 6-3,1.07,0.0%,1.3%,74.7%,54.2%,45.0%,25.0% (2/8),51.6%,51.2%,1.3%,47.6%,55.3%,58.3% (7/12),1:43
+15-Jan-2024,Australian Open,5,Hard,Q2,153,171,1,,,Fiona Ferro,Moyuka Uchijima,6-4 6-1,1.37,0.0%,0.0%,71.7%,65.8%,40.0%,50.0% (3/6),57.7%,56.9%,2.0%,41.7%,70.4%,54.5% (6/11),1:13
+15-Jan-2024,Australian Open,5,Hard,Q1,153,129,1,,21,Fiona Ferro,Rebecca Sramkova,3-6 6-4 6-1,1.12,0.0%,1.2%,72.6%,62.3%,56.5%,62.5% (5/8),52.8%,44.0%,8.0%,34.8%,58.6%,71.4% (5/7),1:47
+1-Jan-2024,Canberra 125,3,Hard,R16,164,107,0,Q,,Clara Tauson,Fiona Ferro,6-3 4-6 6-3,0.90,2.0%,4.9%,61.8%,60.3%,41.0%,50.0% (6/12),48.0%,42.6%,7.4%,39.0%,48.6%,40.0% (4/10),2:19
+1-Jan-2024,Canberra 125,3,Hard,R32,164,112,1,Q,,Fiona Ferro,Laura Pigossi,7-6(5) 6-2,1.76,6.8%,5.1%,52.5%,93.5%,57.1%,- (0/0),55.3%,41.8%,1.1%,34.9%,57.1%,20.0% (2/10),1:43
+1-Jan-2024,Canberra 125,3,Hard,Q2,164,130,1,11,8,Fiona Ferro,Jil Teichmann,6-1 6-3,1.79,2.0%,0.0%,69.4%,76.5%,60.0%,- (0/0),61.7%,51.1%,6.7%,45.2%,64.3%,57.1% (4/7),1:03
+1-Jan-2024,Canberra 125,3,Hard,Q1,164,198,1,11,,Fiona Ferro,Elvina Kalieva,7-5 6-1,1.62,9.3%,0.0%,63.0%,79.4%,55.0%,50.0% (1/2),57.6%,47.9%,2.8%,41.5%,56.7%,36.4% (4/11),1:29
+20-Nov-2023,Florianopolis 125,3,Clay,R32,154,543,0,,WC,Ajla Tomljanovic,Fiona Ferro,6-7(5) 7-5 6-3,0.97,0.8%,0.8%,72.4%,51.7%,44.1%,52.4% (11/21),49.3%,49.0%,0.0%,46.3%,54.1%,50.0% (7/14),2:48
+13-Nov-2023,Colina 125,3,Clay,R16,160,104,0,,5,Diane Parry,Fiona Ferro,6-4 6-1,0.68,1.8%,1.8%,65.5%,47.2%,52.6%,50.0% (5/10),41.8%,34.5%,3.6%,34.5%,34.6%,16.7% (1/6),1:29
+13-Nov-2023,Colina 125,3,Clay,R32,160,302,1,,,Fiona Ferro,Carolina Alves,6-4 6-1,1.41,2.9%,5.9%,55.9%,71.1%,53.3%,80.0% (4/5),58.2%,51.9%,0.0%,42.9%,68.4%,33.3% (4/12),1:21
+6-Nov-2023,W100 Charleston SC,3,Clay,R32,161,47,0,,2,Alycia Parks,Fiona Ferro,6-0 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,R32,167,340,0,7,,Elena Malygina,Fiona Ferro,6-4 6-1,,,,,,,,,,,,,,
+9-Oct-2023,Rouen 125,3,Hard,QF,175,105,0,WC,9,Viktorija Golubic,Fiona Ferro,6-3 6-2,0.69,0.0%,3.1%,61.5%,52.5%,36.0%,50.0% (6/12),42.3%,37.0%,0.0%,34.5%,41.2%,66.7% (2/3),1:20
+9-Oct-2023,Rouen 125,3,Hard,R16,175,135,1,WC,,Fiona Ferro,Aliona Bolsova,7-6(6) 3-6 6-3,0.96,0.0%,2.0%,63.4%,59.4%,43.2%,46.2% (6/13),49.0%,44.7%,1.0%,45.1%,42.9%,63.6% (7/11),2:24
+9-Oct-2023,Rouen 125,3,Hard,R32,175,95,1,WC,6,Fiona Ferro,Viktoriya Tomova,6-2 2-6 6-3,1.13,1.4%,2.8%,65.3%,59.6%,44.0%,28.6% (2/7),52.8%,51.7%,0.0%,42.1%,70.0%,43.8% (7/16),1:55
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R16,179,455,0,8,Q,Amandine Hesse,Fiona Ferro,7-6(4) 5-7 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R32,179,925,1,8,LL,Fiona Ferro,Riya Bhatia,6-1 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,SF,186,217,0,5,7,Alina Korneeva,Fiona Ferro,7-5 7-5,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,QF,186,100,1,5,1,Fiona Ferro,Lucrezia Stefanini,6-2 6-3,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R16,186,455,1,5,Q,Fiona Ferro,Manon Leonard,6-0 6-7(5) 7-6(2),,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R32,186,,1,5,WC,Fiona Ferro,Manon Arcangioli,6-0 6-0,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,R128,190,18,0,WC,18,Victoria Azarenka,Fiona Ferro,6-1 6-2,0.65,0.0%,0.0%,66.0%,35.5%,25.0%,36.4% (4/11),38.1%,44.0%,4.0%,31.4%,73.3%,28.6% (2/7),1:16
+14-Aug-2023,Barranquilla 125,3,Hard,F,252,58,0,,1,Tatjana Maria,Fiona Ferro,6-1 6-2,0.60,2.0%,3.9%,66.7%,47.1%,35.3%,40.0% (4/10),39.1%,34.1%,9.8%,20.0%,56.3%,20.0% (1/5),1:08
+14-Aug-2023,Barranquilla 125,3,Hard,SF,252,70,1,,2,Fiona Ferro,Anna Karolina Schmiedlova,4-6 6-4 6-2,1.12,2.4%,3.5%,69.4%,55.9%,46.2%,45.5% (5/11),52.7%,52.5%,0.0%,38.9%,68.1%,36.4% (8/22),2:25
+14-Aug-2023,Barranquilla 125,3,Hard,QF,252,846,1,,,Fiona Ferro,Irina Fetecau,6-4 6-0,1.34,1.7%,3.4%,60.3%,62.9%,39.1%,40.0% (2/5),58.0%,62.3%,0.0%,59.5%,68.4%,63.6% (7/11),1:29
+14-Aug-2023,Barranquilla 125,3,Hard,R16,252,184,1,,,Fiona Ferro,Elsa Jacquemot,6-3 4-6 6-3,1.14,4.4%,2.2%,66.7%,65.0%,46.7%,60.0% (6/10),52.7%,46.8%,3.2%,32.1%,65.9%,75.0% (6/8),2:24
+14-Aug-2023,Barranquilla 125,3,Hard,R32,252,116,1,,4,Fiona Ferro,Aliona Bolsova,6-2 6-1,1.86,2.0%,0.0%,70.0%,74.3%,66.7%,100.0% (2/2),62.0%,52.0%,4.0%,48.3%,57.1%,33.3% (4/12),1:12
+24-Jul-2023,Lausanne,3,Clay,R32,257,90,0,WC,9,Diane Parry,Fiona Ferro,7-5 2-6 6-2,0.92,0.0%,2.4%,64.7%,47.3%,46.7%,20.0% (2/10),48.0%,48.9%,2.2%,34.7%,65.1%,50.0% (7/14),2:10
+17-Jul-2023,Palermo,3,Clay,R32,256,74,0,WC,,Camila Osorio,Fiona Ferro,7-6(2) 6-1,0.78,0.0%,3.1%,81.3%,48.1%,25.0%,33.3% (3/9),43.7%,43.7%,0.0%,36.2%,58.3%,37.5% (3/8),1:41
+3-Jul-2023,W60 Montpellier,3,Clay,R16,301,119,0,,3,Anastasia Pavlyuchenkova,Fiona Ferro,2-6 6-2 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W60 Montpellier,3,Clay,R32,301,461,1,,WC,Fiona Ferro,Lois Boisson,6-3 6-4,,,,,,,,,,,,,,
+19-Jun-2023,W40 Ystad,3,Clay,R32,302,295,0,SE,,Katarzyna Kawa,Fiona Ferro,6-4 6-4,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,F,398,291,1,WC,6,Fiona Ferro,Ipek Oz,7-5 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,SF,398,207,1,WC,4,Fiona Ferro,Timea Babos,5-7 6-3 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,QF,398,275,1,WC,,Fiona Ferro,Margaux Rouvroy,7-6(3) 3-6 6-1,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,R16,398,84,1,WC,1,Fiona Ferro,Diane Parry,7-5 6-3,,,,,,,,,,,,,,
+12-Jun-2023,W60 Biarritz,3,Clay,R32,398,326,1,WC,,Fiona Ferro,Jenny Duerst,6-3 1-6 7-5,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R128,465,87,0,Q,,Rebecca Peterson,Fiona Ferro,6-2 6-0,0.47,0.0%,3.4%,81.4%,47.9%,36.4%,44.4% (4/9),37.3%,25.6%,4.7%,17.6%,55.6%,0.0% (0/1),1:09
+29-May-2023,Roland Garros,5,Clay,Q3,465,152,1,WC,,Fiona Ferro,Jaimee Fourlis,6-3 2-6 6-4,1.07,3.5%,2.4%,74.1%,58.7%,59.1%,50.0% (4/8),51.5%,43.9%,0.0%,34.5%,66.7%,44.4% (4/9),
+29-May-2023,Roland Garros,5,Clay,Q2,465,228,1,WC,,Fiona Ferro,Carolina Alves,6-0 7-6(5),1.32,0.0%,0.0%,70.8%,54.3%,63.2%,62.5% (5/8),56.8%,56.7%,3.3%,54.1%,60.9%,66.7% (6/9),
+29-May-2023,Roland Garros,5,Clay,Q1,465,174,1,WC,,Fiona Ferro,Jessica Bouzas Maneiro,6-3 1-6 6-1,1.08,0.0%,0.0%,74.3%,53.3%,34.6%,68.4% (13/19),51.6%,55.6%,0.0%,54.4%,58.3%,53.8% (7/13),
+15-May-2023,Paris 125,3,Clay,R32,392,114,0,WC,,Su Jeong Jang,Fiona Ferro,6-3 6-1,0.67,0.0%,8.3%,66.7%,50.0%,37.5%,37.5% (3/8),40.8%,36.4%,0.0%,27.5%,60.0%,25.0% (1/4),1:17
+17-Apr-2023,W60 Bellinzona,3,Clay,F,455,243,0,Q,,Mirra Andreeva,Fiona Ferro,2-6 6-1 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,SF,455,203,1,Q,13,Fiona Ferro,Natalija Stevanovic,6-3 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,QF,455,204,1,Q,12,Fiona Ferro,Barbora Palicova,6-3 7-6(6),,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R16,455,404,1,Q,,Fiona Ferro,Ylona Georgiana Ghioroaie,5-7 6-2 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R32,455,111,1,Q,2,Fiona Ferro,Clara Burel,6-4 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R64,455,596,1,Q,Q,Fiona Ferro,Estelle Cascino,6-3 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,Q2,455,782,1,5,16,Fiona Ferro,Marine Szostak,6-3 6-1,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,Q1,455,860,1,5,,Fiona Ferro,Ana Grubor,6-2 6-1,,,,,,,,,,,,,,
+10-Apr-2023,W60 Chiasso,3,Clay,R16,493,265,0,Q,WC,Celine Naef,Fiona Ferro,1-6 6-3 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W60 Chiasso,3,Clay,R32,493,208,1,Q,,Fiona Ferro,Dalila Jakupovic,6-4 3-6 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W60 Chiasso,3,Clay,Q2,493,354,1,,8,Fiona Ferro,Anna Siskova,6-3 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W60 Chiasso,3,Clay,Q1,493,405,1,,15,Fiona Ferro,Julia Middendorf,6-4 6-3,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R16,434,248,0,Q,,Weronika Falkowska,Fiona Ferro,6-3 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,R32,434,333,1,Q,,Fiona Ferro,Caijsa Wilda Hennemann,6-3 6-2,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,Q2,434,455,1,9,8,Fiona Ferro,Sandra Samir,6-3 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Santa Margherita di Pula,3,Clay,Q1,434,,1,9,,Fiona Ferro,Yana Klimchuk,6-0 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,R32,437,303,0,Q,,Francisca Jorge,Fiona Ferro,6-3 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,Q3,437,461,1,13,,Fiona Ferro,Lisa Pigato,7-5 7-5,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,Q2,437,898,1,13,,Fiona Ferro,Amandine Hesse,7-5 6-0,,,,,,,,,,,,,,
+20-Mar-2023,W25 Palmanova,3,Clay,Q1,437,555,1,13,,Fiona Ferro,Joelle Lilly Sophie Steur,6-3 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,Q3,436,351,0,9,1,Ivonne Cavalle Reimers,Fiona Ferro,6-1 7-6(5),,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,Q2,436,,1,9,,Fiona Ferro,Ida Johansson,6-1 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W25 Palmanova,3,Clay,Q1,436,869,1,9,,Fiona Ferro,Katerina Tsygourova,6-3 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W25 Joue les Tours,3,Hard,R32,437,138,0,WC,1,Jessika Ponchet,Fiona Ferro,6-0 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,R16,455,151,0,Q,1,Heather Watson,Fiona Ferro,6-2 6-1,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,R32,455,566,1,Q,Q,Fiona Ferro,Katarina Stresnakova,6-7(6) 6-4 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,Q2,455,1002,1,7,,Fiona Ferro,Lauryn John Baptiste,6-4 6-0,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,Q1,455,,1,7,WC,Fiona Ferro,Allegra Korpanec Davies,6-2 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W15 Monastir,3,Hard,F,471,466,1,1,2,Fiona Ferro,Cristiana Ferrando,6-4 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W15 Monastir,3,Hard,SF,471,566,1,1,8,Fiona Ferro,Manon Leonard,7-6(4) 6-3,,,,,,,,,,,,,,
+30-Jan-2023,W15 Monastir,3,Hard,QF,471,557,1,1,5,Fiona Ferro,Valentina Ryser,6-1 6-0,,,,,,,,,,,,,,
+30-Jan-2023,W15 Monastir,3,Hard,R16,471,813,1,1,,Fiona Ferro,Gloria Ceschi,6-3 6-1,,,,,,,,,,,,,,
+30-Jan-2023,W15 Monastir,3,Hard,R32,471,1055,1,1,WC,Fiona Ferro,Naima Karamoko,6-0 6-2,,,,,,,,,,,,,,
 29-Aug-2022,US Open,5,Hard,Q1,259,128,0,,25,Katie Boulter,Fiona Ferro,6-2 6-3,0.68,0.0%,13.3%,60.0%,44.4%,37.5%,45.5% (5/11),40.7%,39.6%,13.2%,33.3%,46.2%,50.0% (2/4),1:15
 11-Jul-2022,W60+H Rome,3,Clay,R32,151,234,0,4,,Federica Di Sarra,Fiona Ferro,6-3 3-6 6-2,,,,,,,,,,,,,,
 27-Jun-2022,Wimbledon,5,Grass,Q3,148,224,0,16,,Emina Bektas,Fiona Ferro,6-4 6-4,0.77,6.8%,2.7%,52.1%,60.5%,45.7%,73.3% (11/15),45.5%,36.1%,6.6%,25.0%,57.1%,50.0% (2/4),1:20
 27-Jun-2022,Wimbledon,5,Grass,Q2,148,248,1,16,,Fiona Ferro,Hanna Chang,6-3 6-1,1.83,1.9%,5.7%,56.6%,73.3%,60.9%,66.7% (2/3),63.6%,58.7%,4.3%,57.1%,60.0%,71.4% (5/7),0:58
 27-Jun-2022,Wimbledon,5,Grass,Q1,148,177,1,16,,Fiona Ferro,Moyuka Uchijima,7-5 6-7(5) 7-5,1.14,6.1%,3.5%,61.7%,73.2%,45.5%,55.6% (5/9),51.8%,42.8%,2.9%,38.8%,54.3%,42.9% (6/14),2:35
-23-May-2022,Roland Garros,5,Clay,R128,130,4,0,WC,3,Paula Badosa,Fiona Ferro,6-2 6-0,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,130,4,0,WC,3,Paula Badosa,Fiona Ferro,6-2 6-0,0.34,0.0%,2.5%,55.0%,36.4%,38.9%,16.7% (1/6),29.5%,21.1%,13.2%,7.1%,60.0%,- (0/0),
 16-May-2022,Strasbourg,3,Clay,R16,139,60,0,,9,Viktorija Golubic,Fiona Ferro,6-4 6-2,0.80,1.4%,0.0%,72.5%,56.0%,31.6%,44.4% (4/9),45.3%,40.7%,0.0%,33.3%,52.2%,33.3% (2/6),1:36
-16-May-2022,Strasbourg,3,Clay,R32,139,594,1,,LL,Fiona Ferro,Angelina Gabueva,6-3 6-4 (ch),1.31,3.2%,3.2%,59.7%,59.5%,60.0%,50.0% (3/6),56.3%,52.6%,0.0%,50.0%,56.0%,55.6% (5/9),0:01
+16-May-2022,Strasbourg,3,Clay,R32,139,594,1,,LL,Fiona Ferro,Angelina Gabueva,6-3 6-4,1.31,3.2%,3.2%,59.7%,59.5%,60.0%,50.0% (3/6),56.3%,52.6%,0.0%,50.0%,56.0%,55.6% (5/9),0:01
 9-May-2022,Paris 125,3,Clay,R32,139,95,0,WC,,Ana Bogdan,Fiona Ferro,6-3 7-5,0.80,1.2%,0.0%,64.2%,51.9%,44.8%,33.3% (3/9),45.7%,40.7%,10.2%,25.7%,62.5%,75.0% (3/4),1:40
 2-May-2022,Saint Malo 125,3,Clay,R16,146,70,0,,5,Maryna Zanevska,Fiona Ferro,6-4 7-5,0.88,0.0%,0.0%,61.8%,40.4%,51.7%,56.3% (9/16),46.6%,48.6%,0.0%,48.8%,48.3%,62.5% (5/8),1:45
 2-May-2022,Saint Malo 125,3,Clay,R32,146,,1,,WC,Fiona Ferro,Monica Puig,2-1 RET,1.27,0.0%,4.5%,50.0%,54.5%,45.5%,75.0% (3/4),54.5%,63.6%,0.0%,42.9%,100.0%,50.0% (1/2),0:26
@@ -39,7 +134,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Aug-2021,Chicago 1,3,Hard,R32,80,366,1,,Q,Fiona Ferro,Aldila Sutjiadi,4-6 7-5 6-1,1.16,0.8%,1.7%,59.3%,60.0%,43.8%,71.4% (15/21),53.6%,53.8%,1.3%,55.6%,51.5%,100.0% (8/8),2:37
 16-Aug-2021,Cincinnati,3,Hard,Q2,73,61,0,,9,Caroline Garcia,Fiona Ferro,3-6 6-3 6-0,0.58,0.0%,3.8%,68.4%,57.4%,48.0%,33.3% (2/6),41.5%,26.5%,4.4%,23.8%,30.8%,50.0% (1/2),1:42
 16-Aug-2021,Cincinnati,3,Hard,Q1,73,47,1,,1,Fiona Ferro,Viktorija Golubic,6-2 2-6 6-0,1.30,1.4%,2.8%,75.0%,66.7%,55.6%,77.8% (7/9),55.0%,46.8%,0.0%,38.2%,66.7%,55.6% (5/9),1:39
-9-Aug-2021,Montreal,3,Hard,R32,84,12,0,,7,Petra Kvitova,Fiona Ferro,6-4 6-4 (ch),0.78,6.5%,9.7%,54.8%,61.8%,46.4%,57.1% (4/7),44.9%,35.4%,12.3%,28.9%,44.4%,25.0% (1/4),1:29
+9-Aug-2021,Montreal,3,Hard,R32,84,12,0,,7,Petra Kvitova,Fiona Ferro,6-4 6-4,0.78,6.5%,9.7%,54.8%,61.8%,46.4%,57.1% (4/7),44.9%,35.4%,12.3%,28.9%,44.4%,25.0% (1/4),1:29
 9-Aug-2021,Montreal,3,Hard,R64,84,49,1,,,Fiona Ferro,Ajla Tomljanovic,2-6 6-2,1.33,2.0%,2.0%,58.0%,69.0%,66.7%,33.3% (1/3),54.1%,42.6%,1.6%,27.6%,56.3%,20.0% (2/10),1:24
 24-Jul-2021,Tokyo Olympics,3,Hard,R32,64,48,0,,,Sara Sorribes Tormo,Fiona Ferro,6-1 6-4,,,,,,,,,,,,,,
 24-Jul-2021,Tokyo Olympics,3,Hard,R64,64,53,1,,,Fiona Ferro,Anastasija Sevastova,2-6 6-4 6-2,,,,,,,,,,,,,,
@@ -69,11 +164,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2020,Roland Garros,5,Clay,R32,49,59,1,,,Fiona Ferro,Patricia Maria Tig,7-6(7) 4-6 6-0,1.15,1.0%,0.0%,56.1%,52.7%,62.8%,55.6% (5/9),52.8%,49.2%,2.5%,45.5%,59.4%,31.6% (6/19),2:48
 28-Sep-2020,Roland Garros,5,Clay,R64,49,18,1,,14,Fiona Ferro,Elena Rybakina,6-3 4-6 6-2,1.15,2.3%,2.3%,54.7%,53.2%,53.8%,64.3% (9/14),53.5%,53.5%,2.3%,45.3%,66.7%,53.3% (8/15),2:03
 28-Sep-2020,Roland Garros,5,Clay,R128,49,56,1,,,Fiona Ferro,Heather Watson,7-6(4) 6-4,1.12,8.2%,1.4%,60.3%,65.9%,55.2%,50.0% (2/4),52.0%,43.0%,1.3%,33.3%,52.5%,30.0% (3/10),1:51
-3-Aug-2020,Palermo,3,Clay,F,53,22,1,,4,Fiona Ferro,Anett Kontaveit,6-2 7-5 (ch),1.26,3.9%,2.6%,51.9%,65.0%,54.1%,66.7% (4/6),55.2%,50.6%,2.6%,37.2%,67.6%,71.4% (5/7),1:43
+3-Aug-2020,Palermo,3,Clay,F,53,22,1,,4,Fiona Ferro,Anett Kontaveit,6-2 7-5,1.26,3.9%,2.6%,51.9%,65.0%,54.1%,66.7% (4/6),55.2%,50.6%,2.6%,37.2%,67.6%,71.4% (5/7),1:43
 3-Aug-2020,Palermo,3,Clay,SF,53,89,1,,,Fiona Ferro,Camila Giorgi,2-6 6-2 7-5,1.00,1.1%,4.4%,61.1%,61.8%,42.9%,50.0% (5/10),50.0%,45.3%,3.5%,34.0%,61.1%,50.0% (6/12),2:06
-3-Aug-2020,Palermo,3,Clay,QF,53,167,1,,WC,Fiona Ferro,Sara Errani,6-4 6-1 (ch),1.40,4.4%,2.9%,60.3%,61.0%,48.1%,57.1% (4/7),58.5%,61.8%,0.0%,61.5%,62.5%,60.0% (6/10),1:28
+3-Aug-2020,Palermo,3,Clay,QF,53,167,1,,WC,Fiona Ferro,Sara Errani,6-4 6-1,1.40,4.4%,2.9%,60.3%,61.0%,48.1%,57.1% (4/7),58.5%,61.8%,0.0%,61.5%,62.5%,60.0% (6/10),1:28
 3-Aug-2020,Palermo,3,Clay,R16,53,27,1,,8,Fiona Ferro,Ekaterina Alexandrova,7-5 6-2,1.31,5.7%,7.1%,57.1%,77.5%,40.0%,75.0% (6/8),55.4%,50.6%,4.6%,48.9%,52.5%,41.7% (5/12),1:49
-3-Aug-2020,Palermo,3,Clay,R32,53,175,1,,Q,Fiona Ferro,Nadia Podoroska,6-2 6-1 (ch),1.57,4.4%,4.4%,64.4%,65.5%,56.3%,33.3% (1/3),60.6%,59.2%,0.0%,54.1%,75.0%,50.0% (6/12),1:07
+3-Aug-2020,Palermo,3,Clay,R32,53,175,1,,Q,Fiona Ferro,Nadia Podoroska,6-2 6-1,1.57,4.4%,4.4%,64.4%,65.5%,56.3%,33.3% (1/3),60.6%,59.2%,0.0%,54.1%,75.0%,50.0% (6/12),1:07
 10-Feb-2020,St. Petersburg,3,Hard,R16,58,25,0,LL,8,Elena Rybakina,Fiona Ferro,6-3 6-4,0.54,1.6%,4.9%,65.6%,57.5%,42.9%,50.0% (4/8),40.7%,25.5%,19.1%,20.0%,35.3%,66.7% (2/3),1:12
 10-Feb-2020,St. Petersburg,3,Hard,R32,58,46,1,LL,,Fiona Ferro,Caroline Garcia,7-5 3-6 6-3,1.02,2.8%,4.7%,64.2%,63.2%,52.6%,73.3% (11/15),50.7%,41.4%,9.1%,33.3%,53.8%,41.7% (5/12),2:29
 10-Feb-2020,St. Petersburg,3,Hard,Q2,58,159,0,1,,Oceane Dodin,Fiona Ferro,7-6(7) 7-6(5),0.95,6.3%,1.3%,71.3%,63.2%,34.8%,14.3% (1/7),48.5%,42.5%,9.2%,27.7%,60.0%,66.7% (6/9),1:54
@@ -89,19 +184,19 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Sep-2019,Guangzhou,3,Hard,R32,61,139,0,,Q,Katarina Zavatska,Fiona Ferro,5-7 7-6(6) 6-4,0.97,1.5%,3.8%,56.4%,70.7%,36.2%,66.7% (12/18),49.6%,42.9%,0.8%,40.0%,47.7%,60.0% (6/10),3:27
 9-Sep-2019,Zhengzhou,3,Hard,R16,61,23,0,,7,Petra Martic,Fiona Ferro,3-6 6-1 6-2,0.74,2.7%,0.0%,55.4%,51.2%,57.6%,64.3% (9/14),44.4%,33.8%,2.9%,20.5%,58.3%,40.0% (2/5),1:44
 9-Sep-2019,Zhengzhou,3,Hard,R32,61,638,1,,WC,Fiona Ferro,Zhaoxuan Yang,6-2 6-3,1.22,3.4%,3.4%,65.5%,63.2%,30.0%,25.0% (1/4),55.4%,58.7%,1.6%,52.4%,71.4%,58.3% (7/12),1:23
-26-Aug-2019,US Open,5,Hard,R32,74,18,0,,18,Qiang Wang,Fiona Ferro,7-6(1) 6-3 (ch),0.80,0.0%,0.0%,62.0%,52.3%,63.0%,57.1% (4/7),45.5%,34.7%,6.9%,30.9%,47.1%,33.3% (2/6),1:40
+26-Aug-2019,US Open,5,Hard,R32,74,18,0,,18,Qiang Wang,Fiona Ferro,7-6(1) 6-3,0.80,0.0%,0.0%,62.0%,52.3%,63.0%,57.1% (4/7),45.5%,34.7%,6.9%,30.9%,47.1%,33.3% (2/6),1:40
 26-Aug-2019,US Open,5,Hard,R64,74,54,1,,,Fiona Ferro,Kristina Mladenovic,6-4 6-7(3) 6-3,0.97,1.1%,4.5%,67.4%,48.3%,27.6%,25.0% (3/12),50.0%,56.6%,1.8%,42.9%,79.1%,60.0% (12/20),2:30
 26-Aug-2019,US Open,5,Hard,R128,74,95,1,,,Fiona Ferro,Daria Saville,6-3 6-4,1.16,1.5%,6.1%,50.0%,66.7%,51.5%,60.0% (3/5),53.7%,47.4%,0.0%,47.5%,47.1%,80.0% (4/5),1:26
 19-Aug-2019,New York,3,Hard,R16,72,18,0,Q,1,Qiang Wang,Fiona Ferro,6-1 6-4,0.63,0.0%,8.2%,49.0%,50.0%,40.0%,25.0% (2/8),40.2%,34.9%,4.7%,34.8%,35.0%,50.0% (2/4),1:08
 19-Aug-2019,New York,3,Hard,R32,72,73,1,Q,LL,Fiona Ferro,Viktorija Golubic,6-0 6-1,1.94,4.8%,2.4%,50.0%,76.2%,57.1%,0.0% (0/1),65.6%,64.6%,0.0%,53.1%,87.5%,50.0% (6/12),1:00
-19-Aug-2019,New York,3,Hard,Q3,72,592,1,2,,Fiona Ferro,Elizabeth Mandlik,4-6 6-4 6-3 (ch),1.15,7.9%,4.5%,68.5%,67.2%,46.4%,55.6% (5/9),53.2%,45.2%,3.6%,32.6%,60.5%,45.5% (5/11),1:55
+19-Aug-2019,New York,3,Hard,Q3,72,592,1,2,,Fiona Ferro,Elizabeth Mandlik,4-6 6-4 6-3,1.15,7.9%,4.5%,68.5%,67.2%,46.4%,55.6% (5/9),53.2%,45.2%,3.6%,32.6%,60.5%,45.5% (5/11),1:55
 19-Aug-2019,New York,3,Hard,Q2,72,301,1,2,,Fiona Ferro,Jana Fett,6-4 6-0,1.56,4.0%,2.0%,58.0%,58.6%,66.7%,60.0% (3/5),60.6%,59.3%,1.9%,46.2%,71.4%,85.7% (6/7),1:17
 19-Aug-2019,New York,3,Hard,Q1,72,359,1,2,,Fiona Ferro,Grace Min,6-2 6-4,1.23,7.0%,7.0%,50.9%,79.3%,50.0%,50.0% (1/2),54.6%,43.1%,0.0%,38.9%,53.3%,44.4% (4/9),1:14
 22-Jul-2019,Palermo,3,Clay,QF,75,144,0,,LL,Liudmila Samsonova,Fiona Ferro,6-7(4) 6-3 6-4,1.01,6.0%,0.0%,62.0%,67.7%,57.9%,70.0% (7/10),49.3%,36.5%,5.2%,29.3%,43.9%,20.0% (1/5),2:37
 22-Jul-2019,Palermo,3,Clay,R16,75,163,1,,WC,Fiona Ferro,Giulia Gatto Monticone,6-3 6-2,1.45,0.0%,0.0%,73.6%,64.1%,71.4%,0.0% (0/1),57.4%,49.1%,0.0%,38.7%,62.5%,50.0% (4/8),1:16
 22-Jul-2019,Palermo,3,Clay,R32,75,98,1,,7,Fiona Ferro,Sara Sorribes Tormo,6-4 7-5,1.42,1.8%,0.0%,67.9%,76.3%,50.0%,50.0% (2/4),54.8%,45.6%,0.0%,46.0%,43.8%,50.0% (4/8),1:38
-15-Jul-2019,Lausanne,3,Clay,F,98,48,1,,3,Fiona Ferro,Alize Cornet,6-1 2-6 6-1 (ch),1.18,0.0%,0.0%,63.8%,54.5%,52.0%,33.3% (2/6),54.2%,54.7%,4.0%,39.0%,73.5%,77.8% (7/9),1:40
-15-Jul-2019,Lausanne,3,Clay,SF,98,85,1,,,Fiona Ferro,Bernarda Pera,6-1 6-4 (ch),1.53,5.2%,1.7%,62.1%,72.2%,63.6%,100.0% (2/2),56.6%,47.4%,2.6%,39.2%,63.0%,20.0% (3/15),1:29
+15-Jul-2019,Lausanne,3,Clay,F,98,48,1,,3,Fiona Ferro,Alize Cornet,6-1 2-6 6-1,1.18,0.0%,0.0%,63.8%,54.5%,52.0%,33.3% (2/6),54.2%,54.7%,4.0%,39.0%,73.5%,77.8% (7/9),1:40
+15-Jul-2019,Lausanne,3,Clay,SF,98,85,1,,,Fiona Ferro,Bernarda Pera,6-1 6-4,1.53,5.2%,1.7%,62.1%,72.2%,63.6%,100.0% (2/2),56.6%,47.4%,2.6%,39.2%,63.0%,20.0% (3/15),1:29
 15-Jul-2019,Lausanne,3,Clay,QF,98,134,1,,,Fiona Ferro,Samantha Stosur,6-4 6-2,1.53,1.8%,1.8%,55.4%,80.6%,52.0%,66.7% (2/3),58.3%,49.2%,3.4%,50.0%,48.3%,44.4% (4/9),1:20
 15-Jul-2019,Lausanne,3,Clay,R16,98,55,1,,4,Fiona Ferro,Mihaela Buzarnescu,1-6 7-6(2) 7-5,0.97,4.0%,9.0%,57.0%,59.6%,51.2%,33.3% (3/9),48.8%,42.5%,0.9%,36.8%,51.1%,44.4% (4/9),2:21
 15-Jul-2019,Lausanne,3,Clay,R32,98,97,1,,,Fiona Ferro,Mona Barthel,7-6(3) 6-2,1.51,1.8%,0.0%,60.7%,73.5%,68.2%,33.3% (1/3),55.5%,43.1%,4.2%,35.6%,55.6%,44.4% (4/9),1:17
@@ -126,7 +221,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Apr-2019,Rabat,3,Clay,Q3,90,154,1,1,,Fiona Ferro,Greet Minnen,7-6(3) 0-6 6-3,0.89,1.0%,1.0%,67.0%,59.4%,55.9%,71.4% (10/14),48.9%,37.3%,6.0%,27.5%,53.1%,42.9% (3/7),2:09
 29-Apr-2019,Rabat,3,Clay,Q2,90,229,1,1,,Fiona Ferro,Sara Errani,1-6 6-3 6-4,1.03,0.0%,3.8%,61.3%,51.0%,32.3%,38.5% (5/13),50.6%,58.1%,0.0%,54.2%,73.3%,57.1% (8/14),1:51
 29-Apr-2019,Rabat,3,Clay,Q1,90,180,1,1,,Fiona Ferro,Arina Rodionova,6-4 4-6 7-5,0.99,2.0%,3.9%,67.6%,53.6%,42.4%,46.7% (7/15),49.8%,49.6%,2.7%,50.0%,48.6%,52.9% (9/17),2:34
-8-Apr-2019,Lugano,3,Clay,SF,108,89,0,,,Polona Hercog,Fiona Ferro,7-5 6-4 (ch),0.76,0.0%,0.0%,61.7%,40.5%,60.9%,0.0% (0/6),43.5%,39.1%,4.7%,28.9%,53.8%,66.7% (4/6),1:31
+8-Apr-2019,Lugano,3,Clay,SF,108,89,0,,,Polona Hercog,Fiona Ferro,7-5 6-4,0.76,0.0%,0.0%,61.7%,40.5%,60.9%,0.0% (0/6),43.5%,39.1%,4.7%,28.9%,53.8%,66.7% (4/6),1:31
 8-Apr-2019,Lugano,3,Clay,QF,108,97,1,,,Fiona Ferro,Stefanie Voegele,7-5 7-6(5),1.07,0.0%,0.0%,70.6%,58.3%,60.0%,72.7% (8/11),51.9%,44.2%,2.6%,37.3%,57.7%,50.0% (4/8),1:54
 8-Apr-2019,Lugano,3,Clay,R16,108,52,1,,4,Fiona Ferro,Alison Van Uytvanck,6-4 7-5,1.14,0.0%,1.2%,72.1%,62.9%,54.2%,77.8% (7/9),53.5%,45.1%,11.3%,35.4%,65.2%,44.4% (4/9),1:39
 8-Apr-2019,Lugano,3,Clay,R32,108,105,1,,,Fiona Ferro,Mandy Minella,6-2 7-5,1.26,0.0%,1.5%,76.1%,66.7%,56.3%,75.0% (3/4),55.0%,45.2%,1.6%,43.5%,50.0%,80.0% (4/5),1:31
@@ -137,7 +232,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Mar-2019,Guadalajara,3,Hard,R32,116,343,1,,WC,Fiona Ferro,Giuliana Olmos,7-5 6-1,1.55,0.0%,1.9%,77.8%,69.0%,66.7%,0.0% (0/2),59.4%,48.9%,0.0%,42.9%,66.7%,55.6% (5/9),1:11
 4-Mar-2019,Indian Wells,3,Hard,Q1,116,123,0,16,,Nicole Gibbs,Fiona Ferro,6-2 6-1,0.57,1.6%,4.9%,59.0%,41.7%,44.0%,40.0% (4/10),38.5%,32.6%,2.3%,30.0%,38.5%,33.3% (1/3),1:06
 25-Feb-2019,Indian Wells 125K,3,Hard,R64,111,127,0,,,Yanina Wickmayer,Fiona Ferro,1-6 6-3 6-3,0.98,1.3%,1.3%,62.0%,55.1%,40.0%,50.0% (6/12),49.4%,49.4%,2.5%,40.8%,62.5%,46.2% (6/13),1:51
-18-Feb-2019,Budapest,3,Hard,R32,109,128,0,,,Arantxa Rus,Fiona Ferro,7-5 6-3 (ch),0.78,1.4%,4.3%,45.7%,43.8%,55.3%,44.4% (4/9),44.2%,39.0%,7.8%,37.0%,41.9%,28.6% (2/7),1:41
+18-Feb-2019,Budapest,3,Hard,R32,109,128,0,,,Arantxa Rus,Fiona Ferro,7-5 6-3,0.78,1.4%,4.3%,45.7%,43.8%,55.3%,44.4% (4/9),44.2%,39.0%,7.8%,37.0%,41.9%,28.6% (2/7),1:41
 28-Jan-2019,Hua Hin,3,Hard,R32,103,84,0,,,Mona Barthel,Fiona Ferro,6-1 1-6 6-4,0.93,0.0%,3.4%,56.8%,66.0%,47.4%,63.6% (7/11),48.8%,39.0%,11.0%,21.7%,61.1%,37.5% (3/8),1:45
 14-Jan-2019,Australian Open,5,Hard,R128,98,21,0,,21,Qiang Wang,Fiona Ferro,6-4 6-3,0.75,3.0%,1.5%,61.2%,61.0%,50.0%,62.5% (5/8),44.4%,32.4%,4.4%,20.9%,52.0%,0.0% (0/6),1:24
 7-Jan-2019,Hobart,3,Hard,Q2,102,346,0,,,Greet Minnen,Fiona Ferro,6-4 6-4,0.68,1.8%,0.0%,62.5%,51.4%,38.1%,28.6% (2/7),41.2%,36.2%,13.8%,25.7%,52.2%,42.9% (3/7),1:12
@@ -226,7 +321,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 31-Jul-2017,Bad Saulgau $25K,3,Clay,R16,273,429,1,7,Q,Fiona Ferro,Elyne Boeykens,6-1 6-4,,,,,,,,,,,,,,
 31-Jul-2017,Bad Saulgau $25K,3,Clay,R32,273,369,1,7,,Fiona Ferro,Cristina Dinu,6-3 6-3,,,,,,,,,,,,,,
 24-Jul-2017,Prague $80K,3,Clay,R32,241,121,0,,4,Irina Khromacheva,Fiona Ferro,2-6 6-1 6-1,,,,,,,,,,,,,,
-29-May-2017,Roland Garros,5,Clay,R128,208,10,0,,9,Agnieszka Radwanska,Fiona Ferro,6-1 6-1 (ch),0.62,0.0%,3.9%,58.8%,43.3%,42.9%,37.5% (3/8),39.2%,35.3%,7.8%,17.9%,56.5%,0.0% (0/3),1:07
+29-May-2017,Roland Garros,5,Clay,R128,208,10,0,,9,Agnieszka Radwanska,Fiona Ferro,6-1 6-1,0.62,0.0%,3.9%,58.8%,43.3%,42.9%,37.5% (3/8),39.2%,35.3%,7.8%,17.9%,56.5%,0.0% (0/3),1:07
 22-May-2017,Nurnberg,3,Clay,Q1,201,265,0,7,,Anna Zaja,Fiona Ferro,7-5 6-2,0.83,1.4%,4.3%,56.5%,51.3%,46.7%,50.0% (5/10),45.3%,42.0%,6.2%,29.6%,66.7%,25.0% (2/8),1:44
 8-May-2017,Cagnes Sur Mer $100K,3,Clay,R32,199,109,0,WC,5,Danka Kovinic,Fiona Ferro,6-0 6-0,,,,,,,,,,,,,,
 24-Apr-2017,Istanbul,3,Clay,R32,208,66,0,Q,5,Sorana Cirstea,Fiona Ferro,6-3 6-1,0.46,0.0%,1.9%,75.5%,57.5%,30.8%,55.6% (5/9),38.1%,22.7%,4.5%,10.0%,33.3%,0.0% (0/3),1:06
@@ -289,7 +384,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2016,Marseille $100K,3,Clay,R16,279,587,1,,,Fiona Ferro,Claire Feuerstein,6-4 4-6 6-4,,,,,,,,,,,,,,
 30-May-2016,Marseille $100K,3,Clay,R32,279,127,1,,8,Fiona Ferro,Alexandra Dulgheru,4-6 6-2 3-1 RET,,,,,,,,,,,,,,
 23-May-2016,Roland Garros,5,Clay,Q3,279,165,0,,,Sachia Vickery,Fiona Ferro,6-0 6-1,,,,,,,,,,,,,,
-23-May-2016,Roland Garros,5,Clay,Q2,279,167,1,,,Fiona Ferro,Vania King,2-6 6-3 6-4 (ch),,,,,,,,,,,,,,
+23-May-2016,Roland Garros,5,Clay,Q2,279,167,1,,,Fiona Ferro,Vania King,2-6 6-3 6-4,,,,,,,,,,,,,,
 23-May-2016,Roland Garros,5,Clay,Q1,279,194,1,,,Fiona Ferro,Chang Liu,7-5 6-3,,,,,,,,,,,,,,
 9-May-2016,Saint Gaudens $50K,3,Clay,R32,268,307,0,,WC,Deniz Khazaniuk,Fiona Ferro,6-4 6-1,,,,,,,,,,,,,,
 2-May-2016,Cagnes Sur Mer $100K,3,Clay,R32,264,156,0,,,Amandine Hesse,Fiona Ferro,6-4 6-3,,,,,,,,,,,,,,

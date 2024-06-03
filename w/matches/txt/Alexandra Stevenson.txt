@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 24-Sep-2018,Obidos $25K,3,Carpet,R16,813,371,0,,WC,Urszula Radwanska,Alexandra Stevenson,6-2 6-1,,,,,,,,,,,,,,
 24-Sep-2018,Obidos $25K,3,Carpet,R32,813,1199,1,,Q,Alexandra Stevenson,Oliwia Szymczuch,4-6 6-2 3-0 RET,,,,,,,,,,,,,,
 16-Apr-2018,Dothan AL $80K,3,Clay,Q1,797,596,0,,,Amanda Rodgers,Alexandra Stevenson,6-3 2-0 RET,,,,,,,,,,,,,,
@@ -53,7 +53,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Aug-2014,Winnipeg 25K,3,Hard,R32,567,770,1,7,,Alexandra Stevenson,Alexandra Riley,6-2 6-1,,,,,,,,,,,,,,
 4-Aug-2014,Landisville PA 25K,3,Hard,R32,579,176,0,Q,6,Ons Jabeur,Alexandra Stevenson,6-2 6-2,,,,,,,,,,,,,,
 14-Jul-2014,Carson CA 50K,3,Hard,R32,508,200,0,Q,,Julia Boserup,Alexandra Stevenson,6-4 6-2,,,,,,,,,,,,,,
-7-Jul-2014,Sacramento CA 50K,3,Hard,R32,496,145,0,,4,Nicole Gibbs,Alexandra Stevenson,6-3 6-2 (ch),,,,,,,,,,,,,,
+7-Jul-2014,Sacramento CA 50K,3,Hard,R32,496,145,0,,4,Nicole Gibbs,Alexandra Stevenson,6-3 6-2,,,,,,,,,,,,,,
 2-Jun-2014,El Paso TX 25K,3,Hard,R32,431,434,0,7,,Elise Mertens,Alexandra Stevenson,6-0 6-2,,,,,,,,,,,,,,
 5-May-2014,Raleigh NC 25K,3,Clay,R32,440,207,0,,1,Mayo Hibi,Alexandra Stevenson,6-3 3-6 6-3,,,,,,,,,,,,,,
 31-Mar-2014,Monterrey,3,Hard,Q2,431,248,0,,,Heidi El Tabakh,Alexandra Stevenson,4-6 6-4 6-4,0.86,5.7%,13.3%,49.5%,71.2%,49.1%,76.9% (10/13),47.8%,34.4%,4.2%,24.6%,54.8%,25.0% (2/8),
@@ -394,7 +394,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jan-2003,Australian Open,5,Hard,R128,21,157,1,15,WC,Alexandra Stevenson,Elena Baltacha,6-1 6-4,,,,,,,,,,,,,,
 6-Jan-2003,Sydney,3,Hard,R16,18,13,0,,7,Chanda Rubin,Alexandra Stevenson,6-1 6-3,,,,,,,,,,,,,,
 6-Jan-2003,Sydney,3,Hard,R32,18,112,1,,LL,Alexandra Stevenson,Lubomira Kurhajcova,7-6(5) 6-4,,,,,,,,,,,,,,
-21-Oct-2002,Linz,3,Hard,F,22,6,0,,4,Justine Henin,Alexandra Stevenson,6-3 6-0 (ch),,,,,,,,,,,,,,
+21-Oct-2002,Linz,3,Hard,F,22,6,0,,4,Justine Henin,Alexandra Stevenson,6-3 6-0,,,,,,,,,,,,,,
 21-Oct-2002,Linz,3,Hard,SF,22,9,1,,5,Alexandra Stevenson,Daniela Hantuchova,6-4 7-6(6),,,,,,,,,,,,,,
 21-Oct-2002,Linz,3,Hard,QF,22,3,1,,1,Alexandra Stevenson,Jennifer Capriati,6-1 6-1,,,,,,,,,,,,,,
 21-Oct-2002,Linz,3,Hard,R16,22,12,1,,6,Alexandra Stevenson,Anastasia Myskina,6-3 7-6(5),,,,,,,,,,,,,,

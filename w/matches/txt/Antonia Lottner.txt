@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 25-Jul-2022,Prague,3,Hard,Q1,993,160,0,SR,3,Anastasia Zakharova,Antonia Lottner,6-3 6-2,0.61,8.1%,6.5%,71.0%,47.7%,38.9%,37.5% (3/8),39.8%,33.3%,5.9%,30.0%,38.1%,50.0% (2/4),1:15
 18-Jul-2022,W60 Olomouc,3,Clay,R64,1028,390,0,SR,,Michaela Bayerlova,Antonia Lottner,6-1 6-2,,,,,,,,,,,,,,
 27-Jun-2022,Wimbledon,5,Grass,Q1,1049,272,0,,,Cristiana Ferrando,Antonia Lottner,4-6 6-1 6-1,0.63,8.5%,12.2%,59.8%,57.1%,39.4%,45.5% (5/11),41.4%,31.4%,8.6%,23.3%,44.4%,33.3% (2/6),1:30
@@ -17,7 +17,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Mar-2020,Lyon,3,Hard,Q1,162,374,1,3,WC,Antonia Lottner,Lou Brouleau,6-3 6-2,1.72,8.5%,2.1%,63.8%,83.3%,52.9%,100.0% (2/2),58.0%,47.7%,1.5%,41.9%,59.1%,36.4% (4/11),1:11
 20-Jan-2020,Australian Open,5,Hard,R128,156,102,0,Q,,Camila Giorgi,Antonia Lottner,6-3 6-3,0.70,4.6%,6.2%,56.9%,56.8%,42.9%,0.0% (0/4),43.3%,34.5%,1.8%,24.2%,50.0%,100.0% (1/1),1:20
 20-Jan-2020,Australian Open,5,Hard,Q3,156,266,1,,,Antonia Lottner,Destanee Aiava,6-4 6-2,1.57,1.9%,3.8%,62.3%,75.8%,60.0%,80.0% (4/5),58.0%,47.5%,1.7%,47.6%,47.1%,40.0% (4/10),1:14
-20-Jan-2020,Australian Open,5,Hard,Q2,156,227,1,,,Antonia Lottner,Chihiro Muramatsu,6-3 5-7 6-2 (ch),1.39,1.2%,3.5%,68.2%,70.7%,63.0%,50.0% (2/4),56.1%,44.2%,0.0%,42.6%,48.0%,40.0% (4/10),2:10
+20-Jan-2020,Australian Open,5,Hard,Q2,156,227,1,,,Antonia Lottner,Chihiro Muramatsu,6-3 5-7 6-2,1.39,1.2%,3.5%,68.2%,70.7%,63.0%,50.0% (2/4),56.1%,44.2%,0.0%,42.6%,48.0%,40.0% (4/10),2:10
 20-Jan-2020,Australian Open,5,Hard,Q1,156,126,1,,17,Antonia Lottner,Katarzyna Kawa,6-2 6-1,1.75,2.4%,7.1%,52.4%,63.6%,60.0%,0.0% (0/2),64.4%,66.7%,0.0%,65.5%,68.8%,75.0% (6/8),1:01
 6-Jan-2020,W25 Canberra (Bendigo),3,Hard,R32,157,191,0,4,,Kamilla Rakhimova,Antonia Lottner,7-5 6-3,,,,,,,,,,,,,,
 28-Oct-2019,W25 Petange,3,Hard,R16,165,351,0,3,,Sofya Lansere,Antonia Lottner,6-4 6-4,,,,,,,,,,,,,,
@@ -112,7 +112,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Mar-2018,Croissy Beaubourg $60K,3,Hard,R32,150,240,0,,Q,Karolina Muchova,Antonia Lottner,6-3 7-5,,,,,,,,,,,,,,
 19-Mar-2018,Miami,3,Hard,Q1,150,70,0,,1,Monica Niculescu,Antonia Lottner,6-4 6-0,0.58,1.6%,3.2%,64.5%,57.5%,31.8%,33.3% (2/6),40.0%,30.2%,1.9%,27.9%,40.0%,- (0/0),1:21
 19-Feb-2018,Budapest,3,Hard,R32,149,56,0,WC,,Petra Martic,Antonia Lottner,6-4 6-2,0.69,4.8%,3.2%,61.3%,63.2%,50.0%,66.7% (6/9),44.4%,29.1%,5.5%,27.8%,31.6%,0.0% (0/4),1:18
-10-Feb-2018,Fed Cup WG R1: BLR vs GER,3,Hard,RR,149,63,0,,,Aryna Sabalenka,Antonia Lottner,6-3 5-7 6-2 (ch),0.85,4.1%,4.1%,67.3%,68.2%,43.8%,33.3% (2/6),47.8%,33.7%,10.5%,27.4%,50.0%,22.2% (2/9),2:02
+10-Feb-2018,Fed Cup WG R1: BLR vs GER,3,Hard,RR,149,63,0,,,Aryna Sabalenka,Antonia Lottner,6-3 5-7 6-2,0.85,4.1%,4.1%,67.3%,68.2%,43.8%,33.3% (2/6),47.8%,33.7%,10.5%,27.4%,50.0%,22.2% (2/9),2:02
 10-Feb-2018,Fed Cup WG R1: BLR vs GER,3,Hard,RR,149,46,1,,,Antonia Lottner,Aliaksandra Sasnovich,7-5 6-4,1.26,13.6%,0.0%,83.3%,72.7%,45.5%,0.0% (0/1),52.7%,40.0%,3.8%,22.4%,67.7%,33.3% (3/9),1:36
 22-Jan-2018,Andrezieux Boutheon $60K,3,Hard,R32,152,325,0,,Q,Audrey Albie,Antonia Lottner,6-3 6-2,,,,,,,,,,,,,,
 15-Jan-2018,Australian Open,5,Hard,Q2,152,138,0,,,Anna Blinkova,Antonia Lottner,5-7 6-4 7-5,0.99,2.9%,3.9%,70.9%,65.8%,46.7%,16.7% (1/6),49.8%,39.4%,7.7%,30.4%,57.1%,36.4% (4/11),2:54
@@ -174,7 +174,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Aug-2016,US Open,5,Hard,Q1,184,131,1,,23,Antonia Lottner,Amra Sadikovic,6-2 6-1,,,,,,,,,,,,,,
 15-Aug-2016,Westende $25K,3,Hard,R32,178,318,0,1,,Pemra Ozgen,Antonia Lottner,6-1 6-4,,,,,,,,,,,,,,
 25-Jul-2016,Prague $75K,3,Clay,F,259,93,1,Q,4,Antonia Lottner,Carina Witthoeft,7-6(6) 1-6 7-5,,,,,,,,,,,,,,
-25-Jul-2016,Prague $75K,3,Clay,SF,259,139,1,Q,,Antonia Lottner,Rebecca Peterson,6-3 3-6 6-2 (ch),,,,,,,,,,,,,,
+25-Jul-2016,Prague $75K,3,Clay,SF,259,139,1,Q,,Antonia Lottner,Rebecca Peterson,6-3 3-6 6-2,,,,,,,,,,,,,,
 25-Jul-2016,Prague $75K,3,Clay,QF,259,82,1,Q,1,Antonia Lottner,Mona Barthel,6-2 RET,,,,,,,,,,,,,,
 25-Jul-2016,Prague $75K,3,Clay,R16,259,130,1,Q,8,Antonia Lottner,Silvia Soler Espinosa,6-1 6-1,,,,,,,,,,,,,,
 25-Jul-2016,Prague $75K,3,Clay,R32,259,132,1,Q,,Antonia Lottner,Sara Sorribes Tormo,6-4 6-3,,,,,,,,,,,,,,

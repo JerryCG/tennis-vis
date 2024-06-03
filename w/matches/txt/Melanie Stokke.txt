@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 18-Jul-2022,W25 Perugia,3,Clay,R32,713,538,0,Q,,Anastasia Grymalska,Melanie Stokke,6-2 6-3,,,,,,,,,,,,,,
 18-Jul-2022,W25 Perugia,3,Clay,Q3,713,904,1,11,,Melanie Stokke,Lucija Ciric Bagaric,6-4 5-7 11-9,,,,,,,,,,,,,,
 18-Jul-2022,W25 Perugia,3,Clay,Q2,713,853,1,11,,Melanie Stokke,Beatrice Ricci,2-6 7-6(2) 10-5,,,,,,,,,,,,,,
@@ -204,7 +204,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Aug-2016,Bad Saulgau $25K,3,Clay,R16,431,335,1,Q,,Melanie Stokke,Irina Bara,6-1 6-2,,,,,,,,,,,,,,
 1-Aug-2016,Bad Saulgau $25K,3,Clay,R32,431,246,1,Q,7,Melanie Stokke,Maria Teresa Torro Flor,6-4 6-4,,,,,,,,,,,,,,
 27-Jun-2016,Middelburg $25K,3,Clay,R16,426,593,0,,,Sviatlana Pirazhenka,Melanie Stokke,6-4 4-6 6-2,,,,,,,,,,,,,,
-27-Jun-2016,Middelburg $25K,3,Clay,R32,426,176,1,,2,Melanie Stokke,Lesley Pattinama Kerkhove,6-3 3-6 6-2 (ch),,,,,,,,,,,,,,
+27-Jun-2016,Middelburg $25K,3,Clay,R32,426,176,1,,2,Melanie Stokke,Lesley Pattinama Kerkhove,6-3 3-6 6-2,,,,,,,,,,,,,,
 6-Jun-2016,Essen $50K,3,Clay,R32,430,183,0,WC,,Sara Sorribes Tormo,Melanie Stokke,3-6 6-3 6-1,,,,,,,,,,,,,,
 30-May-2016,Madrid $10K,3,Clay,F,458,649,0,3,8,Tess Sugnaux,Melanie Stokke,6-4 7-5,,,,,,,,,,,,,,
 30-May-2016,Madrid $10K,3,Clay,SF,458,,1,3,Q,Melanie Stokke,Ksenia Kuznetsova,6-2 6-4,,,,,,,,,,,,,,

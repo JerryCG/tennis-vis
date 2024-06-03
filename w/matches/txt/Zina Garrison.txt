@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 11-Nov-1996,Philadelphia,3,Carpet,R16,604,12,0,,8,Barbara Paulus,Zina Garrison,W/O,,,,,,,,,,,,,,
 11-Nov-1996,Philadelphia,3,Carpet,R32,604,25,1,,,Zina Garrison,Nathalie Tauziat,2-6 6-3 6-4,,,,,,,,,,,,,,
 4-Nov-1996,Oakland,3,Carpet,R32,100,71,0,,,Patricia Hy Boulais,Zina Garrison,6-4 6-7 6-4,,,,,,,,,,,,,,
@@ -213,7 +213,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Nov-1991,Philadelphia,3,Carpet,QF,12,1,0,8,1,Monica Seles,Zina Garrison,7-6 6-0,,,,,,,,,,,,,,
 11-Nov-1991,Philadelphia,3,Carpet,R16,12,45,1,8,,Zina Garrison,Nicole Bradtke,6-4 6-4,,,,,,,,,,,,,,
 11-Nov-1991,Philadelphia,3,Carpet,R32,12,,1,8,,Zina Garrison,Joanne Moore,6-0 6-0,,,,,,,,,,,,,,
-4-Nov-1991,Oakland,3,Carpet,R16,12,146,0,4,,Stephanie Rehe,Zina Garrison,6-2 6-3,,,,,,,,,,,,,,
 4-Nov-1991,Oakland,3,Carpet,R16,12,146,0,4,,Stephanie Rehe,Zina Garrison,6-2 6-3,,,,,,,,,,,,,,
 22-Oct-1991,Brighton,3,Carpet,F,12,2,0,3,1,Steffi Graf,Zina Garrison,5-7 6-4 6-1,-,-,-,-,-,-,- (/),-,-,-,-,-,- (0/),
 22-Oct-1991,Brighton,3,Carpet,SF,12,46,1,3,,Zina Garrison,Catarina Lindqvist Ryan,6-1 1-0 RET,,,,,,,,,,,,,,
@@ -447,7 +446,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jun-1988,Wimbledon,5,Grass,R16,13,5,1,12,5,Zina Garrison,Gabriela Sabatini,6-1 3-6 6-2,,,,,,,,,,,,,,
 20-Jun-1988,Wimbledon,5,Grass,R32,13,110,1,12,,Zina Garrison,Elizabeth Minter,7-6 6-0,,,,,,,,,,,,,,
 20-Jun-1988,Wimbledon,5,Grass,R64,13,27,1,12,,Zina Garrison,Dianne Fromholtz,6-4 6-3,,,,,,,,,,,,,,
-20-Jun-1988,Wimbledon,5,Grass,R128,13,56,1,12,,Zina Garrison,Wendy Prausa,6-3 6-1,,,,,,,,,,,,,,
+20-Jun-1988,Wimbledon,5,Grass,R128,13,56,1,12,,Zina Garrison,Wendy White,6-3 6-1,,,,,,,,,,,,,,
 13-Jun-1988,Eastbourne,3,Grass,R16,12,16,0,9,11,Mary Joe Fernandez,Zina Garrison,6-3 3-6 6-0,,,,,,,,,,,,,,
 13-Jun-1988,Eastbourne,3,Grass,R32,12,74,1,9,,Zina Garrison,Jo Durie,6-4 7-6,,,,,,,,,,,,,,
 13-Jun-1988,Eastbourne,3,Grass,R64,12,89,1,9,,Zina Garrison,Hester Witvoet,6-4 7-5,,,,,,,,,,,,,,
@@ -479,7 +478,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Feb-1988,Washington,3,Hard,R32,10,48,1,6,,Zina Garrison,Isabelle Demongeot,6-2 5-0 RET,,,,,,,,,,,,,,
 15-Feb-1988,Oakland,3,Hard,SF,10,2,0,4,1,Martina Navratilova,Zina Garrison,6-2 6-0,,,,,,,,,,,,,,
 15-Feb-1988,Oakland,3,Hard,QF,10,59,1,4,,Zina Garrison,Hu Na,6-2 6-0,,,,,,,,,,,,,,
-15-Feb-1988,Oakland,3,Hard,R16,10,43,1,4,,Zina Garrison,Wendy Prausa,6-2 6-2,,,,,,,,,,,,,,
+15-Feb-1988,Oakland,3,Hard,R16,10,43,1,4,,Zina Garrison,Wendy White,6-2 6-2,,,,,,,,,,,,,,
 15-Feb-1988,Oakland,3,Hard,R32,10,78,1,4,,Zina Garrison,Heather Ludloff,6-4 6-2,,,,,,,,,,,,,,
 8-Feb-1988,Dallas,3,Hard,SF,10,2,0,4,1,Martina Navratilova,Zina Garrison,1-6 6-3 6-2,,,,,,,,,,,,,,
 8-Feb-1988,Dallas,3,Hard,QF,10,13,1,4,7,Zina Garrison,Katerina Maleeva,6-2 6-2,,,,,,,,,,,,,,

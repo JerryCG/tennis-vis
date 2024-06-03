@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 14-Aug-2017,Moscow $15K,3,Clay,R16,530,1170,0,8,Q,Varvara Gracheva,Olga Puchkova,6-2 4-6 6-2,,,,,,,,,,,,,,
 14-Aug-2017,Moscow $15K,3,Clay,R32,530,1012,1,8,Q,Olga Puchkova,Ksenia Laskutova,6-2 6-1,,,,,,,,,,,,,,
 7-Aug-2017,Moscow $15K,3,Clay,R16,525,903,0,5,Q,Valeriya Yushchenko,Olga Puchkova,6-0 6-3,,,,,,,,,,,,,,
@@ -372,7 +372,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Feb-2008,Doha,3,Hard,Q1,100,170,0,5,,Elena Baltacha,Olga Puchkova,6-1 3-0 RET,,,,,,,,,,,,,,
 4-Feb-2008,Pattaya,3,Hard,R16,97,105,0,,,Tamarine Tanasugarn,Olga Puchkova,4-6 6-4 6-4,,,,,,,,,,,,,,
 4-Feb-2008,Pattaya,3,Hard,R32,97,107,1,,,Olga Puchkova,Alla Kudryavtseva,6-2 6-3,,,,,,,,,,,,,,
-14-Jan-2008,Australian Open,5,Hard,R64,97,1,0,,1,Justine Henin,Olga Puchkova,6-1 7-5 (ch),0.71,0.0%,12.5%,59.4%,52.6%,26.9%,46.2% (6/13),41.7%,41.1%,5.4%,39.4%,43.5%,27.3% (3/11),
+14-Jan-2008,Australian Open,5,Hard,R64,97,1,0,,1,Justine Henin,Olga Puchkova,6-1 7-5,0.71,0.0%,12.5%,59.4%,52.6%,26.9%,46.2% (6/13),41.7%,41.1%,5.4%,39.4%,43.5%,27.3% (3/11),
 14-Jan-2008,Australian Open,5,Hard,R128,97,149,1,,WC,Olga Puchkova,Monique Adamczak,6-4 6-0,1.48,0.0%,11.3%,66.0%,60.0%,38.9%,62.5% (5/8),60.4%,69.8%,2.3%,68.0%,72.2%,77.8% (7/9),
 7-Jan-2008,Hobart,3,Hard,R32,92,23,0,,2,Vera Zvonareva,Olga Puchkova,6-3 6-0,0.56,0.0%,17.8%,55.6%,40.0%,25.0%,33.3% (3/9),35.5%,37.5%,4.2%,28.6%,50.0%,50.0% (2/4),
 31-Dec-2007,Gold Coast,3,Hard,Q2,83,123,0,3,,Yuliana Fedak,Olga Puchkova,7-5 6-3,,,,,,,,,,,,,,

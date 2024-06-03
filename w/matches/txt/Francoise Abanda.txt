@@ -1,4 +1,9 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+23-Jan-2023,W25 Orlando FL,3,Hard,Q1,779,639,0,,8,Dasha Ivanova,Francoise Abanda,6-0 RET,,,,,,,,,,,,,,
+16-Jan-2023,W25 Boca Raton FL,3,Clay,R32,779,381,0,Q,5,Chi Chi Scholl,Francoise Abanda,6-2 6-2,,,,,,,,,,,,,,
+16-Jan-2023,W25 Boca Raton FL,3,Clay,Q2,779,1040,1,3,14,Francoise Abanda,Madison Bourguignon,6-1 7-6(4),,,,,,,,,,,,,,
+16-Jan-2023,W25 Boca Raton FL,3,Clay,Q1,779,,1,3,,Francoise Abanda,Brianda Rebeca Navarro,6-1 6-1,,,,,,,,,,,,,,
+9-Jan-2023,W25 Naples FL,3,Clay,Q1,773,394,0,,1,Emiliana Arango,Francoise Abanda,6-1 7-5,,,,,,,,,,,,,,
 2-May-2022,W25 Daytona Beach FL,3,Clay,SF,470,393,0,8,3,Katrina Scott,Francoise Abanda,6-2 7-5,,,,,,,,,,,,,,
 2-May-2022,W25 Daytona Beach FL,3,Clay,QF,470,1062,1,8,Q,Francoise Abanda,Eleana Yu,6-0 2-6 7-6(5),,,,,,,,,,,,,,
 2-May-2022,W25 Daytona Beach FL,3,Clay,R16,470,530,1,8,,Francoise Abanda,Anastasia Evgenyevna Nefedova,6-2 6-2,,,,,,,,,,,,,,
@@ -59,7 +64,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jul-2019,W25 Gatineau,3,Hard,R16,262,576,1,6,,Francoise Abanda,Anna Morgina,6-2 3-0 RET,,,,,,,,,,,,,,
 15-Jul-2019,W25 Gatineau,3,Hard,R32,262,623,1,6,,Francoise Abanda,Dasha Ivanova,6-1 7-6(3),,,,,,,,,,,,,,
 4-Mar-2019,W25 Irapuato,3,Hard,R32,225,365,0,,Q,Maria Sanchez,Francoise Abanda,1-6 6-3 6-0,,,,,,,,,,,,,,
-9-Feb-2019,Fed Cup WG2 R1: CAN vs NED,3,Clay,RR,223,129,1,,,Francoise Abanda,Arantxa Rus,7-6(8) 4-6 6-4 (ch),1.05,1.0%,1.9%,67.0%,63.8%,35.3%,33.3% (3/9),50.9%,47.8%,0.9%,35.7%,67.4%,50.0% (6/12),2:37
+9-Feb-2019,Fed Cup WG2 R1: CAN vs NED,3,Clay,RR,223,129,1,,,Francoise Abanda,Arantxa Rus,7-6(8) 4-6 6-4,1.05,1.0%,1.9%,67.0%,63.8%,35.3%,33.3% (3/9),50.9%,47.8%,0.9%,35.7%,67.4%,50.0% (6/12),2:37
 28-Jan-2019,W100 Midland MI,3,Hard,R32,219,104,0,,4,Jessica Pegula,Francoise Abanda,7-5 6-2,,,,,,,,,,,,,,
 21-Jan-2019,W25 Plantation FL,3,Clay,R32,221,396,0,2,,Nastja Kolar,Francoise Abanda,6-2 6-3,,,,,,,,,,,,,,
 14-Jan-2019,W25 Daytona Beach FL,3,Clay,F,221,272,0,,,Anna Bondar,Francoise Abanda,6-7(3) 7-6(5) 7-5,,,,,,,,,,,,,,
@@ -164,7 +169,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-Aug-2016,Granby $50K,3,Hard,QF,230,167,0,,6,Olga Govortsova,Francoise Abanda,6-0 6-1,,,,,,,,,,,,,,
 1-Aug-2016,Granby $50K,3,Hard,R16,230,498,1,,WC,Francoise Abanda,Bianca Andreescu,7-5 7-6(5),,,,,,,,,,,,,,
 1-Aug-2016,Granby $50K,3,Hard,R32,230,152,1,,4,Francoise Abanda,Hiroko Kuwata,6-3 6-3,,,,,,,,,,,,,,
-25-Jul-2016,Montreal,3,Hard,R32,272,20,0,WC,17,Elina Svitolina,Francoise Abanda,7-6(2) 7-6(3) (ch),0.91,2.9%,2.9%,56.3%,58.6%,35.6%,64.7% (11/17),47.8%,46.8%,3.9%,38.1%,57.1%,100.0% (6/6),1:59
+25-Jul-2016,Montreal,3,Hard,R32,272,20,0,WC,17,Elina Svitolina,Francoise Abanda,7-6(2) 7-6(3),0.91,2.9%,2.9%,56.3%,58.6%,35.6%,64.7% (11/17),47.8%,46.8%,3.9%,38.1%,57.1%,100.0% (6/6),1:59
 25-Jul-2016,Montreal,3,Hard,R64,272,66,1,WC,Q,Francoise Abanda,Saisai Zheng,6-1 7-5,1.33,2.8%,4.2%,69.4%,68.0%,40.9%,75.0% (6/8),57.0%,53.6%,0.0%,48.6%,63.2%,50.0% (5/10),1:38
 18-Jul-2016,Washington,3,Hard,R64,274,620,0,WC,WC,Usue Maitane Arconada,Francoise Abanda,7-6(3) 6-4,0.86,3.8%,5.1%,60.3%,53.2%,41.9%,37.5% (3/8),46.3%,43.9%,1.2%,36.2%,54.3%,33.3% (4/12),1:34
 20-Jun-2016,Baton Rouge LA $25K,3,Hard,QF,278,254,0,7,1,Riko Sawayanagi,Francoise Abanda,6-4 6-1,,,,,,,,,,,,,,

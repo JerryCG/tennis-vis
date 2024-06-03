@@ -1,4 +1,47 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+22-Apr-2024,W100 Tokyo,3,Hard,R32,679,160,0,Q,8,Rebecca Marino,Luksika Kumkhum,6-3 7-6(3),,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,Q2,679,318,1,,5,Luksika Kumkhum,Ya Hsuan Lee,6-3 6-3,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,Q1,679,411,1,,14,Luksika Kumkhum,Sakura Hosogi,6-2 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R32,555,127,0,Q,6,Mai Hontama,Luksika Kumkhum,6-4 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,Q2,555,273,1,,6,Luksika Kumkhum,Kateryna Bondarenko,1-6 6-3 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,Q1,555,360,1,,11,Luksika Kumkhum,Natsumi Kawaguchi,6-3 4-6 7-5,,,,,,,,,,,,,,
+9-Oct-2023,Seoul,3,Hard,Q1,499,291,0,,3,En Shuo Liang,Luksika Kumkhum,6-2 3-6 7-6(5),1.00,4.8%,1.9%,60.0%,54.0%,50.0%,45.5% (5/11),50.0%,47.5%,2.0%,43.9%,54.3%,54.5% (6/11),2:09
+28-Aug-2023,W25 Nakhon Si Thammarat,3,Hard,QF,437,231,0,,1,Anastasia Zakharova,Luksika Kumkhum,6-3 6-3,,,,,,,,,,,,,,
+28-Aug-2023,W25 Nakhon Si Thammarat,3,Hard,R16,437,425,1,,,Luksika Kumkhum,Sahaja Yamalapalli,4-6 7-6(5) 6-1,,,,,,,,,,,,,,
+28-Aug-2023,W25 Nakhon Si Thammarat,3,Hard,R32,437,572,1,,WC,Luksika Kumkhum,Punnin Kovapitukted,6-4 6-2,,,,,,,,,,,,,,
+7-Aug-2023,Kozerki 125,3,Hard,R32,436,257,0,Q,LL,Katarzyna Kawa,Luksika Kumkhum,7-5 7-6(1),0.87,1.2%,2.4%,62.4%,50.9%,50.0%,25.0% (2/8),46.8%,43.0%,4.7%,40.7%,48.1%,62.5% (5/8),2:02
+7-Aug-2023,Kozerki 125,3,Hard,Q2,436,257,1,,3,Luksika Kumkhum,Katarzyna Kawa,6-3 7-5,1.06,0.0%,1.5%,79.1%,43.4%,64.3%,54.5% (6/11),52.2%,55.3%,0.0%,49.0%,62.8%,50.0% (8/16),1:53
+7-Aug-2023,Kozerki 125,3,Hard,Q1,436,341,1,,6,Luksika Kumkhum,Peangtarn Plipuech,6-3 6-1,1.67,3.7%,3.7%,61.1%,66.7%,66.7%,66.7% (2/3),61.3%,55.8%,7.7%,33.3%,86.4%,71.4% (5/7),1:12
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,442,400,0,,,Georgina Garcia Perez,Luksika Kumkhum,3-6 6-3 6-4,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,SF,473,370,0,WC,6,Mananchaya Sawangkaew,Luksika Kumkhum,3-6 6-4 6-0,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,QF,473,336,1,WC,3,Luksika Kumkhum,Sohyun Park,6-2 6-2,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,R16,473,637,1,WC,,Luksika Kumkhum,Monique Barry,7-5 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W25 Nakhon Si Thammarat,3,Hard,R32,473,,1,WC,WC,Luksika Kumkhum,Tyra Lithiby,6-1 6-0,,,,,,,,,,,,,,
+29-May-2023,W25 Tokyo,3,Hard,R32,449,273,0,,2,Kyoka Okamura,Luksika Kumkhum,6-4 5-7 6-4,,,,,,,,,,,,,,
+22-May-2023,W25 Goyang,3,Hard,QF,450,667,0,,Q,Hanyu Guo,Luksika Kumkhum,6-4 6-4,,,,,,,,,,,,,,
+22-May-2023,W25 Goyang,3,Hard,R16,450,1182,1,,Q,Luksika Kumkhum,I Hsuan Cho,6-4 6-0,,,,,,,,,,,,,,
+22-May-2023,W25 Goyang,3,Hard,R32,450,354,1,,,Luksika Kumkhum,Ye Xin Ma,6-0 6-3,,,,,,,,,,,,,,
+15-May-2023,W25 Incheon,3,Hard,R16,439,382,0,,8,Hong Yi Cody Wong,Luksika Kumkhum,0-6 6-4 6-2,,,,,,,,,,,,,,
+15-May-2023,W25 Incheon,3,Hard,R32,439,529,1,,SR,Luksika Kumkhum,Kaylah Mcphee,6-4 6-7(5) 6-0,,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,R32,418,730,0,,Q,Miho Kuramochi,Luksika Kumkhum,6-4 6-4,,,,,,,,,,,,,,
+15-Apr-2023,BJK Cup G1 RR: UZB vs THA,3,Hard,RR,322,,1,,,Luksika Kumkhum,Ominahon Valihanova,6-4 6-1,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: IND vs THA,3,Hard,RR,322,400,1,,,Luksika Kumkhum,Rutuja Bhosale,6-2 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R16,321,235,0,,6,Arianne Hartono,Luksika Kumkhum,6-2 1-6 6-4,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R32,321,551,1,,Q,Luksika Kumkhum,Georgina Garcia Perez,6-4 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R32,327,375,0,7,,Rina Saigo,Luksika Kumkhum,6-4 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,QF,327,397,0,,,Hong Yi Cody Wong,Luksika Kumkhum,3-6 6-4 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R16,327,242,1,,6,Luksika Kumkhum,Zeynep Sonmez,6-2 6-3,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R32,327,1236,1,,WC,Luksika Kumkhum,Beatrice Gumulya,6-2 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,Q2,323,444,0,6,14,Ekaterina Maklakova,Luksika Kumkhum,6-4 4-6 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,Q1,323,820,1,6,,Luksika Kumkhum,Bibiane Schoofs,6-2 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,Q1,322,549,0,6,,Ella Seidel,Luksika Kumkhum,6-4 6-4,,,,,,,,,,,,,,
+30-Jan-2023,Hua Hin,3,Hard,Q1,320,396,0,,ALT,Miyu Kato,Luksika Kumkhum,6-4 6-1,0.77,0.0%,10.9%,65.2%,53.3%,43.8%,20.0% (1/5),43.4%,38.3%,0.0%,43.3%,33.3%,33.3% (1/3),1:14
+19-Dec-2022,W60 Kyoto,3,Hard,QF,331,190,0,8,3,Carol Zhao,Luksika Kumkhum,6-2 7-6(2),,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,R16,331,759,1,8,Q,Luksika Kumkhum,Sara Saito,6-1 3-6 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W60 Kyoto,3,Hard,R32,331,456,1,8,,Luksika Kumkhum,Pei Chi Lee,6-1 6-1,,,,,,,,,,,,,,
+14-Nov-2022,W60 Tokyo,3,Hard,R32,333,140,0,,3,Nao Hibino,Luksika Kumkhum,6-3 6-2,,,,,,,,,,,,,,
+7-Nov-2022,W25 Yokohama,3,Hard,R32,327,406,0,6,,Momoko Kobori,Luksika Kumkhum,3-6 7-6(2) 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W60 Sydney,3,Hard,R32,330,681,0,,Q,Kaylah Mcphee,Luksika Kumkhum,6-1 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W25 Hua Hin,3,Hard,QF,352,1077,0,7,WC,Lanlana Tararudee,Luksika Kumkhum,6-4 4-6 6-2,,,,,,,,,,,,,,
 10-Oct-2022,W25 Hua Hin,3,Hard,R16,352,436,1,7,,Luksika Kumkhum,Ekaterina Maklakova,6-4 3-6 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W25 Hua Hin,3,Hard,R32,352,430,1,7,,Luksika Kumkhum,Zhibek Kulambayeva,6-3 6-2,,,,,,,,,,,,,,
@@ -50,7 +93,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Oct-2021,W15 Monastir,3,Hard,R32,1259,822,1,,5,Luksika Kumkhum,Kelia Le Bihan,6-0 6-1,,,,,,,,,,,,,,
 11-Oct-2021,W15 Monastir,3,Hard,R32,1252,1163,0,,,Naima Karamoko,Luksika Kumkhum,7-6(3) 2-6 7-5,,,,,,,,,,,,,,
 4-Nov-2019,W25 Hua Hin,3,Hard,R32,254,689,0,,WC,Chompoothip Jandakate,Luksika Kumkhum,6-2 4-1 RET,,,,,,,,,,,,,,
-1-Jul-2019,Wimbledon,5,Grass,R128,107,16,0,,17,Madison Keys,Luksika Kumkhum,6-3 6-2 (ch),0.67,1.9%,9.3%,66.7%,61.1%,27.8%,33.3% (2/6),41.7%,33.3%,11.1%,16.1%,56.5%,33.3% (1/3),1:02
+1-Jul-2019,Wimbledon,5,Grass,R128,107,16,0,,17,Madison Keys,Luksika Kumkhum,6-3 6-2,0.67,1.9%,9.3%,66.7%,61.1%,27.8%,33.3% (2/6),41.7%,33.3%,11.1%,16.1%,56.5%,33.3% (1/3),1:02
 17-Jun-2019,W100 Ilkley,3,Grass,R32,108,142,0,,,Monica Niculescu,Luksika Kumkhum,1-6 6-3 6-3,,,,,,,,,,,,,,
 27-May-2019,Roland Garros,5,Clay,R128,107,12,0,,12,Anastasija Sevastova,Luksika Kumkhum,6-1 6-4,0.74,0.0%,12.9%,59.7%,54.1%,28.0%,50.0% (6/12),42.9%,42.0%,0.0%,22.6%,73.7%,40.0% (2/5),1:05
 20-May-2019,Strasbourg,3,Clay,R32,104,88,0,,,Fiona Ferro,Luksika Kumkhum,6-3 6-1,0.62,0.0%,4.0%,74.0%,43.2%,46.2%,37.5% (3/8),39.6%,34.8%,4.3%,38.2%,25.0%,33.3% (1/3),1:08
@@ -61,7 +104,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Jan-2019,Hua Hin,3,Hard,R32,83,40,0,,5,Shuai Zhang,Luksika Kumkhum,6-2 6-1,0.67,2.1%,10.6%,59.6%,50.0%,21.1%,40.0% (4/10),39.8%,41.2%,0.0%,38.2%,47.1%,50.0% (2/4),1:08
 14-Jan-2019,Australian Open,5,Hard,R128,67,15,0,,15,Ashleigh Barty,Luksika Kumkhum,6-2 6-2,0.60,2.3%,9.1%,65.9%,48.3%,20.0%,40.0% (4/10),37.8%,37.0%,8.7%,23.3%,62.5%,66.7% (2/3),0:57
 31-Dec-2018,Shenzhen,3,Hard,R32,66,109,0,,WC,Vera Zvonareva,Luksika Kumkhum,6-3 6-3,0.74,0.0%,5.3%,53.9%,53.7%,42.9%,61.5% (8/13),44.4%,38.0%,2.0%,27.6%,52.4%,50.0% (2/4),1:29
-12-Nov-2018,Taipei,3,Hard,F,81,262,1,2,WC,Luksika Kumkhum,Sabine Lisicki,6-1 6-3 (ch),,,,,,,,,,,,,,
+12-Nov-2018,Taipei,3,Hard,F,81,262,1,2,WC,Luksika Kumkhum,Sabine Lisicki,6-1 6-3,,,,,,,,,,,,,,
 12-Nov-2018,Taipei,3,Hard,SF,81,211,1,2,,Luksika Kumkhum,Bibiane Schoofs,7-5 6-3,1.19,1.2%,6.0%,60.7%,64.7%,45.5%,76.9% (10/13),54.5%,50.8%,1.6%,43.2%,70.6%,45.5% (5/11),1:30
 12-Nov-2018,Taipei,3,Hard,QF,81,119,1,2,5,Luksika Kumkhum,Nao Hibino,6-3 6-1,2.30,2.6%,7.9%,60.5%,82.6%,66.7%,0.0% (0/1),63.2%,54.4%,1.8%,50.0%,61.9%,45.5% (5/11),0:57
 12-Nov-2018,Taipei,3,Hard,R16,81,228,1,2,LL,Luksika Kumkhum,Lizette Cabrera,6-3 6-4,1.55,7.3%,1.8%,80.0%,81.8%,36.4%,80.0% (4/5),57.0%,42.4%,1.7%,41.9%,43.8%,50.0% (3/6),1:05
@@ -69,17 +112,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Nov-2018,Shenzhen $100K,3,Hard,QF,80,139,0,,7,Misaki Doi,Luksika Kumkhum,6-3 6-2,,,,,,,,,,,,,,
 5-Nov-2018,Shenzhen $100K,3,Hard,R16,80,306,1,,WC,Luksika Kumkhum,Xin Yu Wang,6-3 6-4,,,,,,,,,,,,,,
 5-Nov-2018,Shenzhen $100K,3,Hard,R32,80,280,1,,Q,Luksika Kumkhum,Jing Jing Lu,6-3 RET,,,,,,,,,,,,,,
-29-Oct-2018,Mumbai,3,Hard,F,103,165,1,5,,Luksika Kumkhum,Irina Khromacheva,1-6 6-2 6-3 (ch),1.30,4.7%,4.7%,60.9%,71.8%,56.0%,33.3% (2/6),53.7%,44.7%,1.2%,33.3%,61.8%,41.7% (5/12),1:47
-29-Oct-2018,Mumbai,3,Hard,SF,103,110,1,5,6,Luksika Kumkhum,Margarita Gasparyan,6-2 6-4 (ch),1.34,2.2%,6.7%,64.4%,69.0%,37.5%,25.0% (1/4),57.1%,56.7%,1.7%,47.1%,69.2%,66.7% (6/9),1:10
+29-Oct-2018,Mumbai,3,Hard,F,103,165,1,5,,Luksika Kumkhum,Irina Khromacheva,1-6 6-2 6-3,1.30,4.7%,4.7%,60.9%,71.8%,56.0%,33.3% (2/6),53.7%,44.7%,1.2%,33.3%,61.8%,41.7% (5/12),1:47
+29-Oct-2018,Mumbai,3,Hard,SF,103,110,1,5,6,Luksika Kumkhum,Margarita Gasparyan,6-2 6-4,1.34,2.2%,6.7%,64.4%,69.0%,37.5%,25.0% (1/4),57.1%,56.7%,1.7%,47.1%,69.2%,66.7% (6/9),1:10
 29-Oct-2018,Mumbai,3,Hard,QF,103,47,1,5,1,Luksika Kumkhum,Saisai Zheng,3-6 6-4 6-4,1.05,1.1%,3.4%,65.5%,57.9%,46.7%,45.5% (5/11),51.1%,48.4%,2.2%,45.9%,53.3%,50.0% (6/12),2:16
 29-Oct-2018,Mumbai,3,Hard,R16,103,318,1,5,,Luksika Kumkhum,Barbora Stefkova,6-3 6-4,1.37,1.6%,4.9%,65.6%,75.0%,52.4%,50.0% (1/2),55.4%,44.9%,2.9%,35.7%,59.3%,42.9% (3/7),1:26
 29-Oct-2018,Mumbai,3,Hard,R32,103,288,1,5,Q,Luksika Kumkhum,Pranjala Yadlapalli,3-6 7-5 6-1,1.24,1.1%,4.5%,61.4%,70.4%,47.1%,63.6% (7/11),54.5%,47.7%,3.4%,34.6%,66.7%,46.2% (6/13),2:13
 15-Oct-2018,Suzhou $100K,3,Hard,R16,102,243,0,,Q,Jana Cepelova,Luksika Kumkhum,6-3 6-3,,,,,,,,,,,,,,
 15-Oct-2018,Suzhou $100K,3,Hard,R32,102,400,1,,Q,Luksika Kumkhum,Fatma Al Nabhani,4-6 6-2 6-4,,,,,,,,,,,,,,
-8-Oct-2018,Hong Kong,3,Hard,QF,105,13,0,,4,Garbine Muguruza,Luksika Kumkhum,6-2 7-5 (ch),0.76,0.0%,6.5%,67.5%,50.0%,52.0%,28.6% (2/7),44.9%,37.7%,4.9%,31.6%,47.8%,66.7% (2/3),1:45
+8-Oct-2018,Hong Kong,3,Hard,QF,105,13,0,,4,Garbine Muguruza,Luksika Kumkhum,6-2 7-5,0.76,0.0%,6.5%,67.5%,50.0%,52.0%,28.6% (2/7),44.9%,37.7%,4.9%,31.6%,47.8%,66.7% (2/3),1:45
 8-Oct-2018,Hong Kong,3,Hard,R16,105,44,1,,8,Luksika Kumkhum,Alize Cornet,6-4 4-6 7-6(5),0.98,0.9%,0.9%,63.9%,59.4%,51.3%,53.8% (7/13),49.8%,42.9%,1.0%,40.3%,48.5%,54.5% (6/11),2:43
 8-Oct-2018,Hong Kong,3,Hard,R32,105,99,1,,,Luksika Kumkhum,Jennifer Brady,6-1 7-6(5),0.98,2.6%,5.1%,66.7%,73.1%,53.8%,100.0% (3/3),53.1%,32.7%,15.4%,21.4%,45.8%,100.0% (2/2),1:23
-17-Sep-2018,Seoul,3,Hard,R32,90,12,0,,2,Kiki Bertens,Luksika Kumkhum,7-6(7) 6-2 (ch),0.82,0.0%,9.0%,56.4%,56.8%,47.1%,42.9% (3/7),45.8%,39.0%,5.2%,32.4%,45.0%,66.7% (2/3),1:51
+17-Sep-2018,Seoul,3,Hard,R32,90,12,0,,2,Kiki Bertens,Luksika Kumkhum,7-6(7) 6-2,0.82,0.0%,9.0%,56.4%,56.8%,47.1%,42.9% (3/7),45.8%,39.0%,5.2%,32.4%,45.0%,66.7% (2/3),1:51
 10-Sep-2018,Hiroshima,3,Hard,R16,93,44,0,,4,Qiang Wang,Luksika Kumkhum,7-5 6-3,0.78,1.5%,4.4%,70.6%,62.5%,45.0%,55.6% (5/9),46.4%,33.3%,3.5%,26.5%,43.5%,25.0% (1/4),1:47
 10-Sep-2018,Hiroshima,3,Hard,R32,93,120,1,,,Luksika Kumkhum,Ying Ying Duan,5-7 6-2 6-2,1.27,3.5%,7.0%,72.1%,64.5%,33.3%,62.5% (10/16),55.9%,55.9%,0.0%,47.3%,68.4%,45.0% (9/20),2:07
 6-Aug-2018,Jinan $60K,3,Hard,SF,91,133,0,,,Lin Zhu,Luksika Kumkhum,4-6 7-6(3) 7-6(6),,,,,,,,,,,,,,
@@ -100,7 +143,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Apr-2018,Quanzhou $60K,3,Hard,R16,92,300,1,,,Luksika Kumkhum,Erika Sema,5-7 6-2 6-3,,,,,,,,,,,,,,
 23-Apr-2018,Quanzhou $60K,3,Hard,R32,92,173,1,,,Luksika Kumkhum,Vitalia Diatchenko,6-2 6-3,,,,,,,,,,,,,,
 16-Apr-2018,Zhengzhou,3,Hard,R32,90,241,0,3,,Danielle Lao,Luksika Kumkhum,7-6(0) 7-6(10),0.89,4.7%,8.2%,61.2%,61.5%,39.4%,16.7% (1/6),47.2%,41.8%,4.4%,30.5%,62.5%,62.5% (5/8),1:59
-2-Apr-2018,Kashiwa $25K,3,Hard,F,103,206,1,2,,Luksika Kumkhum,Bianca Andreescu,6-3 7-6(4) (ch),,,,,,,,,,,,,,
+2-Apr-2018,Kashiwa $25K,3,Hard,F,103,206,1,2,,Luksika Kumkhum,Bianca Andreescu,6-3 7-6(4),,,,,,,,,,,,,,
 2-Apr-2018,Kashiwa $25K,3,Hard,SF,103,147,1,2,3,Luksika Kumkhum,Saisai Zheng,7-6(6) 6-3,,,,,,,,,,,,,,
 2-Apr-2018,Kashiwa $25K,3,Hard,QF,103,212,1,2,,Luksika Kumkhum,Ankita Raina,6-0 6-3,,,,,,,,,,,,,,
 2-Apr-2018,Kashiwa $25K,3,Hard,R16,103,572,1,2,JE,Luksika Kumkhum,Xin Yu Wang,6-3 7-5,,,,,,,,,,,,,,
@@ -213,7 +256,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jun-2016,Nottingham,3,Grass,Q1,166,252,0,4,,Shuko Aoyama,Luksika Kumkhum,7-6(5) 6-3,0.85,0.0%,6.0%,62.7%,48.1%,45.2%,57.1% (8/14),46.1%,45.1%,0.0%,40.5%,51.7%,57.1% (4/7),1:44
 23-May-2016,Roland Garros,5,Clay,Q1,142,192,0,,,Kristie Ahn,Luksika Kumkhum,1-6 7-6(3) 6-2,,,,,,,,,,,,,,
 2-May-2016,Gifu $75K,3,Hard,R16,143,198,0,3,,Riko Sawayanagi,Luksika Kumkhum,7-6(6) 4-6 7-6(5),,,,,,,,,,,,,,
-2-May-2016,Gifu $75K,3,Hard,R32,143,306,1,3,,Luksika Kumkhum,Storm Sanders,6-4 6-4,,,,,,,,,,,,,,
+2-May-2016,Gifu $75K,3,Hard,R32,143,306,1,3,,Luksika Kumkhum,Storm Hunter,6-4 6-4,,,,,,,,,,,,,,
 11-Apr-2016,Shenzhen $50K,3,Hard,R32,140,200,0,3,,Hiroko Kuwata,Luksika Kumkhum,7-5 0-6 6-2,,,,,,,,,,,,,,
 4-Apr-2016,Kashiwa $25K,3,Hard,R16,139,211,0,4,,Riko Sawayanagi,Luksika Kumkhum,7-6(8) 6-2,,,,,,,,,,,,,,
 4-Apr-2016,Kashiwa $25K,3,Hard,R32,139,535,1,4,Q,Luksika Kumkhum,Pei Chi Lee,6-0 6-2,,,,,,,,,,,,,,
@@ -281,7 +324,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Nov-2014,Toyota 75K,3,Carpet,QF,97,300,0,1,,Tamarine Tanasugarn,Luksika Kumkhum,6-4 3-6 6-4,,,,,,,,,,,,,,
 17-Nov-2014,Toyota 75K,3,Carpet,R16,97,446,1,1,Q,Luksika Kumkhum,Ayaka Okuno,6-2 6-2,,,,,,,,,,,,,,
 17-Nov-2014,Toyota 75K,3,Carpet,R32,97,561,1,1,WC,Luksika Kumkhum,Ksenia Lykina,6-3 6-0,,,,,,,,,,,,,,
-3-Nov-2014,Taipei,3,Carpet,QF,85,108,0,2,6,Vitalia Diatchenko,Luksika Kumkhum,6-2 6-3 (ch),0.77,0.0%,6.3%,66.7%,47.6%,33.3%,60.0% (9/15),43.4%,44.0%,8.0%,26.7%,70.0%,50.0% (3/6),
+3-Nov-2014,Taipei,3,Carpet,QF,85,108,0,2,6,Vitalia Diatchenko,Luksika Kumkhum,6-2 6-3,0.77,0.0%,6.3%,66.7%,47.6%,33.3%,60.0% (9/15),43.4%,44.0%,8.0%,26.7%,70.0%,50.0% (3/6),
 3-Nov-2014,Taipei,3,Carpet,R16,85,147,1,2,,Luksika Kumkhum,Elizaveta Kulichkova,6-4 6-4,1.14,5.7%,4.3%,64.3%,60.0%,56.0%,25.0% (1/4),53.5%,47.4%,12.3%,34.4%,64.0%,83.3% (5/6),
 3-Nov-2014,Taipei,3,Carpet,R32,85,1237,1,2,WC,Luksika Kumkhum,Hao Ching Chan,6-4 6-1,1.56,11.8%,3.9%,74.5%,76.3%,46.2%,80.0% (4/5),59.0%,49.0%,6.1%,48.3%,50.0%,62.5% (5/8),
 27-Oct-2014,Ningbo,3,Hard,R32,85,136,0,1,,Ying Ying Duan,Luksika Kumkhum,6-2 6-2,0.76,0.0%,8.7%,66.7%,50.0%,43.5%,44.4% (4/9),43.9%,39.7%,6.3%,33.3%,55.6%,33.3% (1/3),

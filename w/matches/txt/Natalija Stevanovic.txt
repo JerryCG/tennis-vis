@@ -1,4 +1,83 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+22-Apr-2024,W100 Oeiras,3,Clay,R16,189,168,0,,7,Irina Bara,Natalija Stevanovic,6-1 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W100 Oeiras,3,Clay,R32,189,162,1,,,Natalija Stevanovic,Martina Capurro Taborda,6-3 6-2,,,,,,,,,,,,,,
+15-Apr-2024,Rouen,3,Clay,R16,204,60,0,Q,,Magda Linette,Natalija Stevanovic,6-2 6-1,0.49,0.0%,2.6%,74.4%,55.2%,30.0%,20.0% (1/5),36.1%,25.0%,6.8%,14.3%,34.8%,0.0% (0/1),1:08
+15-Apr-2024,Rouen,3,Clay,R32,204,45,1,Q,8,Natalija Stevanovic,Anna Blinkova,7-6(2) 3-6 7-6(2),1.10,0.0%,1.6%,57.7%,67.6%,42.3%,53.3% (8/15),52.0%,47.3%,0.8%,39.0%,59.6%,66.7% (6/9),3:17
+15-Apr-2024,Rouen,3,Clay,Q2,204,511,1,12,WC,Natalija Stevanovic,Tiphanie Fiquet,6-3 6-3,1.64,3.4%,0.0%,69.0%,72.5%,66.7%,- (0/0),60.0%,48.1%,1.9%,39.3%,58.3%,60.0% (3/5),1:27
+15-Apr-2024,Rouen,3,Clay,Q1,204,443,1,12,,Natalija Stevanovic,Irina Fetecau,6-1 6-2,1.69,3.8%,5.8%,65.4%,73.5%,55.6%,87.5% (7/8),60.9%,55.2%,0.0%,47.8%,83.3%,50.0% (5/10),1:22
+8-Apr-2024,W100 Zaragoza,3,Clay,R16,195,102,0,,6,Jessica Bouzas Maneiro,Natalija Stevanovic,6-1 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W100 Zaragoza,3,Clay,R32,195,409,1,,LL,Natalija Stevanovic,Lucia Cortez Llorca,6-1 5-7 6-1,,,,,,,,,,,,,,
+1-Apr-2024,Bogota,3,Clay,Q2,177,211,0,2,10,Xiaodi You,Natalija Stevanovic,6-1 6-4,0.82,0.0%,13.9%,68.1%,55.1%,17.4%,53.3% (8/15),44.5%,46.4%,7.1%,27.6%,66.7%,50.0% (3/6),1:41
+1-Apr-2024,Bogota,3,Clay,Q1,177,310,1,2,,Natalija Stevanovic,Victoria Hu,6-0 6-1,3.24,0.0%,5.7%,54.3%,89.5%,68.8%,- (0/0),72.5%,64.7%,0.0%,60.0%,71.4%,83.3% (5/6),0:53
+25-Mar-2024,San Luis Potosi 125,3,Clay,R32,176,153,0,,,Lucrezia Stefanini,Natalija Stevanovic,6-4 6-4,0.86,0.0%,7.6%,70.9%,55.4%,26.1%,57.1% (8/14),46.4%,45.9%,0.0%,41.1%,61.1%,36.4% (4/11),2:19
+26-Feb-2024,San Diego,3,Hard,Q1,185,126,0,,7,Jule Niemeier,Natalija Stevanovic,7-6(5) 3-6 6-4,1.02,0.9%,9.1%,62.7%,53.6%,36.6%,50.0% (8/16),50.2%,53.8%,4.4%,40.7%,73.0%,72.7% (8/11),2:34
+19-Feb-2024,Puerto Vallarta 125,3,Hard,R32,187,153,0,,LL,Mccartney Kessler,Natalija Stevanovic,6-3 6-1,0.56,0.0%,6.7%,62.2%,53.6%,29.4%,16.7% (1/6),37.8%,31.1%,2.2%,20.0%,53.3%,25.0% (1/4),1:10
+12-Feb-2024,W50 Morelia,3,Hard,QF,190,115,0,8,1,Hailey Baptiste,Natalija Stevanovic,4-6 6-4 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W50 Morelia,3,Hard,R16,190,294,1,8,,Natalija Stevanovic,Ana Sofia Sanchez,6-1 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W50 Morelia,3,Hard,R32,190,676,1,8,Q,Natalija Stevanovic,Kayla Cross,6-3 6-1,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R32,193,228,0,8,,Jana Kolodynska,Natalija Stevanovic,6-1 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R16,186,559,0,6,Q,Anastasia Abbagnato,Natalija Stevanovic,7-5 3-6 6-3,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R32,186,354,1,6,Q,Natalija Stevanovic,Nefisa Berberovic,6-2 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R32,185,111,0,,1,Marina Bassols Ribera,Natalija Stevanovic,6-4 6-1,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,185,565,0,,WC,Maya Joint,Natalija Stevanovic,6-3 1-6 7-5,1.04,0.0%,1.2%,63.4%,59.6%,60.0%,55.6% (5/9),50.9%,41.8%,0.0%,35.3%,53.6%,44.4% (4/9),2:13
+1-Jan-2024,United Cup,3,Hard,QF,184,292,0,,,Ajla Tomljanovic,Natalija Stevanovic,6-1 6-1,0.49,2.4%,4.8%,71.4%,36.7%,25.0%,33.3% (3/9),32.9%,32.4%,0.0%,15.8%,50.0%,50.0% (1/2),1:04
+4-Dec-2023,W100 Dubai,3,Hard,R32,181,129,0,,3,Rebecca Sramkova,Natalija Stevanovic,6-1 2-0 RET,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,QF,186,107,0,,5,Yue Yuan,Natalija Stevanovic,6-0 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R16,186,262,1,,,Natalija Stevanovic,Na Lae Han,6-3 5-7 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,186,106,1,,4,Natalija Stevanovic,Zhuoxuan Bai,3-6 6-2 7-6(7),,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,R16,185,179,0,,,Gabriela Andrea Knutson,Natalija Stevanovic,2-6 6-2 7-5,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,R32,185,296,1,,JE,Natalija Stevanovic,Sofia Costoulas,6-2 6-7(4) 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R16,185,121,0,,3,Mai Hontama,Natalija Stevanovic,6-1 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R32,185,,1,,Q,Natalija Stevanovic,Nadiia Kolb,6-3 6-2,,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,Q2,190,171,0,7,2,Katarina Zavatska,Natalija Stevanovic,6-4 6-4,0.83,3.4%,5.1%,69.5%,68.3%,44.4%,66.7% (6/9),46.6%,32.2%,0.0%,32.5%,31.6%,50.0% (1/2),1:33
+16-Oct-2023,Monastir,3,Hard,Q1,190,901,1,7,WC,Natalija Stevanovic,Chiraz Bechri,6-0 6-1,2.89,7.7%,5.1%,66.7%,80.8%,61.5%,100.0% (1/1),74.3%,74.2%,0.0%,80.0%,68.8%,62.5% (5/8),0:48
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R32,189,257,0,8,,Ella Seidel,Natalija Stevanovic,6-4 6-3,,,,,,,,,,,,,,
+18-Sep-2023,Guadalajara,3,Hard,Q2,198,348,0,6,13,Maria Mateas,Natalija Stevanovic,6-3 7-5,0.79,2.4%,8.5%,56.1%,71.7%,22.2%,64.3% (9/14),45.0%,39.7%,5.1%,37.3%,44.4%,25.0% (3/12),2:12
+18-Sep-2023,Guadalajara,3,Hard,Q1,198,497,1,6,,Natalija Stevanovic,Sofia Sewing,6-2 7-5,1.71,0.0%,8.3%,62.5%,73.3%,66.7%,0.0% (0/2),58.6%,50.0%,1.5%,34.9%,76.0%,62.5% (5/8),1:32
+28-Aug-2023,US Open,5,Hard,Q1,175,325,0,,WC,Katrina Scott,Natalija Stevanovic,6-2 3-3 RET,0.63,2.5%,7.5%,60.0%,54.2%,25.0%,42.9% (3/7),39.3%,36.4%,11.4%,32.3%,46.2%,66.7% (2/3),1:15
+7-Aug-2023,W80 Brasilia,3,Hard,QF,166,191,0,3,6,Kristina Mladenovic,Natalija Stevanovic,6-4 7-5,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R16,166,362,1,3,,Natalija Stevanovic,Cadence Brace,6-3 6-1,,,,,,,,,,,,,,
+7-Aug-2023,W80 Brasilia,3,Hard,R32,166,360,1,3,,Natalija Stevanovic,Katarina Kozarov,3-6 6-3 6-2,,,,,,,,,,,,,,
+24-Jul-2023,Warsaw,3,Hard,R32,166,65,0,LL,,Tatjana Maria,Natalija Stevanovic,6-3 6-1,0.61,0.0%,5.9%,66.7%,44.1%,29.4%,14.3% (1/7),38.3%,37.2%,9.3%,29.6%,50.0%,100.0% (2/2),1:14
+24-Jul-2023,Warsaw,3,Hard,Q2,166,248,0,1,8,Jana Fett,Natalija Stevanovic,6-2 6-7(4) 7-6(5),0.95,3.3%,8.1%,59.3%,46.6%,42.0%,33.3% (5/15),48.3%,52.3%,0.9%,38.6%,67.3%,47.1% (8/17),3:04
+24-Jul-2023,Warsaw,3,Hard,Q1,166,334,1,1,,Natalija Stevanovic,Peangtarn Plipuech,2-6 6-4 6-2,1.10,1.2%,3.5%,68.2%,62.1%,48.1%,60.0% (6/10),52.5%,46.7%,2.7%,46.8%,46.4%,55.6% (5/9),2:10
+3-Jul-2023,Wimbledon,5,Grass,R32,225,9,0,Q,9,Petra Kvitova,Natalija Stevanovic,6-3 7-5,0.75,1.5%,3.0%,60.6%,52.5%,38.5%,50.0% (5/10),43.2%,40.0%,6.3%,36.7%,45.2%,30.0% (3/10),1:50
+3-Jul-2023,Wimbledon,5,Grass,R64,225,122,1,Q,LL,Natalija Stevanovic,Tamara Korpatsch,7-5 7-5,1.11,1.1%,8.0%,55.7%,75.5%,35.9%,72.7% (8/11),51.8%,46.8%,1.8%,34.7%,72.2%,27.8% (5/18),2:43
+3-Jul-2023,Wimbledon,5,Grass,R128,225,19,1,Q,18,Natalija Stevanovic,Karolina Pliskova,6-2 6-3,1.76,8.0%,4.0%,58.0%,79.3%,66.7%,100.0% (1/1),60.4%,45.7%,10.9%,36.7%,62.5%,33.3% (3/9),1:05
+3-Jul-2023,Wimbledon,5,Grass,Q3,225,131,1,,25,Natalija Stevanovic,Marina Bassols Ribera,7-5 7-5,1.11,7.9%,3.9%,55.3%,64.3%,38.2%,54.5% (6/11),52.5%,52.4%,1.2%,56.9%,45.5%,43.8% (7/16),2:05
+3-Jul-2023,Wimbledon,5,Grass,Q2,225,97,1,,4,Natalija Stevanovic,Elizabeth Mandlik,6-2 6-2,1.50,5.5%,5.5%,63.6%,80.0%,45.0%,100.0% (2/2),58.7%,49.0%,0.0%,42.3%,56.5%,57.1% (4/7),1:16
+3-Jul-2023,Wimbledon,5,Grass,Q1,225,164,1,,,Natalija Stevanovic,Valentini Grammatikopoulou,6-2 6-1,2.33,7.1%,0.0%,54.8%,69.6%,73.7%,50.0% (1/2),69.2%,66.7%,0.0%,66.7%,66.7%,100.0% (5/5),0:49
+19-Jun-2023,W100 Ilkley,3,Grass,Q2,224,210,0,14,6,Carole Monnet,Natalija Stevanovic,3-0 RET,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,Q1,224,1120,1,14,WC,Natalija Stevanovic,Ella Mcdonald,6-3 6-4,,,,,,,,,,,,,,
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,231,19,0,Q,3,Victoria Azarenka,Natalija Stevanovic,7-6(5) 6-3,0.78,1.4%,8.7%,59.4%,61.0%,50.0%,50.0% (2/4),44.3%,33.8%,5.0%,32.3%,38.9%,14.3% (1/7),2:00
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,231,176,1,10,1,Natalija Stevanovic,Priscilla Hon,4-6 6-2 7-6(4),1.06,1.0%,4.2%,60.4%,56.9%,55.3%,58.3% (7/12),51.3%,46.5%,6.1%,39.3%,55.8%,54.5% (6/11),2:26
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,231,314,1,10,,Natalija Stevanovic,Eva Vedder,5-7 6-2 6-3,1.22,2.4%,8.2%,55.3%,68.1%,52.6%,55.6% (5/9),53.8%,47.5%,3.0%,42.4%,55.0%,33.3% (6/18),2:18
+5-Jun-2023,W100 Surbiton,3,Grass,Q1,217,852,0,7,WC,Isabelle Lacy,Natalija Stevanovic,6-4 7-5,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,217,109,0,,,Taylor Townsend,Natalija Stevanovic,7-6(1) 6-2,0.57,0.0%,5.6%,75.0%,57.4%,38.9%,62.5% (5/8),41.4%,26.8%,3.6%,23.8%,35.7%,100.0% (1/1),
+8-May-2023,W100 Trnava,3,Clay,R32,199,305,0,6,,Suzan Lamens,Natalija Stevanovic,4-6 7-6(3) 6-0,,,,,,,,,,,,,,
+1-May-2023,W100 Wiesbaden,3,Clay,R32,186,133,0,,3,Simona Waltert,Natalija Stevanovic,6-4 5-7 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,SF,203,455,0,13,Q,Fiona Ferro,Natalija Stevanovic,6-3 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,QF,203,190,1,13,6,Natalija Stevanovic,Raluka Serban,6-4 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R16,203,118,1,13,4,Natalija Stevanovic,Simona Waltert,6-4 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W60 Bellinzona,3,Clay,R32,203,233,1,13,,Natalija Stevanovic,Audrey Albie,6-4 6-1,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,QF,206,174,0,,,Leyre Romero Gormaz,Natalija Stevanovic,4-6 7-5 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R16,206,323,1,,Q,Natalija Stevanovic,Margaux Rouvroy,7-5 7-6(3),,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R32,206,273,1,,JE,Natalija Stevanovic,Lucie Havlickova,6-3 6-2,,,,,,,,,,,,,,
+3-Apr-2023,Bogota,3,Clay,R16,224,101,0,Q,6,Laura Pigossi,Natalija Stevanovic,7-5 5-7 6-4,0.93,0.9%,3.5%,73.5%,63.9%,40.0%,54.5% (6/11),48.6%,39.4%,0.9%,38.7%,41.2%,50.0% (4/8),3:16
+3-Apr-2023,Bogota,3,Clay,R32,224,122,1,Q,,Natalija Stevanovic,Marina Bassols Ribera,7-6(1) 7-5,1.17,3.4%,14.6%,57.3%,64.7%,47.4%,55.6% (5/9),53.8%,50.0%,1.2%,39.2%,67.7%,83.3% (5/6),2:12
+3-Apr-2023,Bogota,3,Clay,Q2,224,264,1,,,Natalija Stevanovic,Irina Khromacheva,2-6 6-4 7-6(5),1.01,1.7%,1.7%,66.1%,57.5%,51.2%,64.3% (9/14),50.2%,45.0%,5.0%,32.4%,63.3%,33.3% (4/12),3:01
+3-Apr-2023,Bogota,3,Clay,Q1,224,201,1,,8,Natalija Stevanovic,Ipek Oz,6-4 6-1,1.29,1.6%,3.2%,69.4%,58.1%,52.6%,40.0% (2/5),56.4%,56.4%,1.8%,48.8%,78.6%,42.9% (6/14),1:30
+6-Mar-2023,W60 Astana,3,Hard,R32,225,136,0,,1,Moyuka Uchijima,Natalija Stevanovic,3-6 7-5 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,222,141,0,,2,Su Jeong Jang,Natalija Stevanovic,6-4 5-7 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,219,133,0,,4,Ylena In Albon,Natalija Stevanovic,6-3 7-6(4),,,,,,,,,,,,,,
+30-Jan-2023,Hua Hin,3,Hard,Q2,220,230,0,5,11,Valeria Savinykh,Natalija Stevanovic,7-5 6-0,0.68,1.8%,5.3%,54.4%,54.8%,26.9%,33.3% (3/9),40.6%,39.4%,1.4%,38.9%,40.0%,18.2% (2/11),1:52
+30-Jan-2023,Hua Hin,3,Hard,Q1,220,559,1,5,SR,Natalija Stevanovic,Kaylah Mcphee,6-2 7-6(3),1.37,0.0%,11.1%,55.6%,77.1%,46.4%,40.0% (2/5),56.8%,50.0%,0.0%,47.7%,55.6%,62.5% (5/8),1:47
+16-Jan-2023,Australian Open,5,Hard,Q1,215,136,0,,27,Brenda Fruhvirtova,Natalija Stevanovic,6-0 7-6(0),0.67,1.5%,10.6%,59.1%,51.3%,25.9%,25.0% (2/8),40.3%,39.7%,2.7%,41.1%,35.3%,33.3% (3/9),1:51
+2-Jan-2023,W60 Canberra,3,Hard,Q1,216,171,0,,1,Anastasia Zakharova,Natalija Stevanovic,6-1 6-1,,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R32,199,133,0,,,Ann Li,Natalija Stevanovic,6-4 6-3,0.86,1.6%,4.8%,60.3%,60.5%,24.0%,33.3% (3/9),46.3%,46.7%,1.7%,35.3%,61.5%,50.0% (3/6),1:35
+14-Nov-2022,Buenos Aires 125,3,Clay,R16,210,185,0,Q,WC,Paula Ormaechea,Natalija Stevanovic,7-5 6-2,0.81,1.5%,1.5%,73.1%,53.1%,33.3%,45.5% (5/11),45.2%,42.4%,0.0%,33.3%,64.7%,100.0% (3/3),1:44
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,210,133,1,Q,,Natalija Stevanovic,Brenda Fruhvirtova,7-6(3) 6-1,1.34,0.0%,3.1%,66.2%,72.1%,45.5%,33.3% (1/3),55.4%,49.4%,0.0%,47.1%,53.1%,33.3% (4/12),1:57
+12-Nov-2022,BJK Cup Playoffs: SRB vs MEX,3,Clay,RR,211,196,0,,,Marcela Zacarias,Natalija Stevanovic,6-0 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,R32,198,78,0,Q,2,Jasmine Paolini,Natalija Stevanovic,6-1 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,Q2,198,594,1,2,10,Natalija Stevanovic,Joelle Lilly Sophie Steur,6-1 6-2,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,Q1,198,1424,1,2,,Natalija Stevanovic,Valeria Koussenkova,6-1 6-1,,,,,,,,,,,,,,
@@ -112,7 +191,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Feb-2020,W25 Nonthaburi,3,Hard,R32,181,399,0,6,Q,Lucrezia Stefanini,Natalija Stevanovic,2-6 6-4 6-4,,,,,,,,,,,,,,
 27-Jan-2020,W25 Nonthaburi,3,Hard,R16,181,324,0,5,,Leonie Kung,Natalija Stevanovic,6-4 6-1,,,,,,,,,,,,,,
 27-Jan-2020,W25 Nonthaburi,3,Hard,R32,181,344,1,5,,Natalija Stevanovic,Irina Fetecau,6-3 7-5,,,,,,,,,,,,,,
-20-Jan-2020,Australian Open,5,Hard,Q1,181,204,0,,,Camila Osorio,Natalija Stevanovic,2-6 6-1 6-1 (ch),0.90,4.2%,5.6%,59.2%,50.0%,48.3%,30.0% (3/10),47.4%,45.7%,6.2%,40.4%,55.2%,40.0% (4/10),1:43
+20-Jan-2020,Australian Open,5,Hard,Q1,181,204,0,,,Camila Osorio,Natalija Stevanovic,2-6 6-1 6-1,0.90,4.2%,5.6%,59.2%,50.0%,48.3%,30.0% (3/10),47.4%,45.7%,6.2%,40.4%,55.2%,40.0% (4/10),1:43
 6-Jan-2020,W25 Canberra (Bendigo),3,Hard,R32,180,217,0,,Q,Laura Ioana Andrei,Natalija Stevanovic,6-3 6-4,,,,,,,,,,,,,,
 11-Nov-2019,W100 Tokyo,3,Hard,R16,164,198,0,,,Xinyun Han,Natalija Stevanovic,7-5 6-3,,,,,,,,,,,,,,
 11-Nov-2019,W100 Tokyo,3,Hard,R32,164,413,1,,LL,Natalija Stevanovic,Risa Ushijima,6-2 6-4,,,,,,,,,,,,,,
@@ -370,7 +449,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Feb-2014,Palmanova Mallorca 10K,3,Clay,R32,,,1,5,,Natalija Stevanovic,Olga Parres Azcoitia,6-4 1-6 6-3,,,,,,,,,,,,,,
 2-Dec-2013,Antalya 10K,3,Clay,R32,449,,0,2,Q,Lisa Matviyenko,Natalija Stevanovic,7-6(5) 3-6 6-0,,,,,,,,,,,,,,
 25-Nov-2013,Antalya 10K,3,Clay,R32,434,1043,0,2,,Catherine Chantraine,Natalija Stevanovic,6-3 6-4,,,,,,,,,,,,,,
-18-Nov-2013,Antalya 10K,3,Clay,R16,426,,0,1,Q,Viktoria Kuzmova,Natalija Stevanovic,7-6(1) 6-3,,,,,,,,,,,,,,
+18-Nov-2013,Antalya 10K,3,Clay,R16,426,,0,1,Q,Viktoria Hruncakova,Natalija Stevanovic,7-6(1) 6-3,,,,,,,,,,,,,,
 18-Nov-2013,Antalya 10K,3,Clay,R32,426,,1,1,WC,Natalija Stevanovic,Gizem Melisa Ates,6-0 6-3,,,,,,,,,,,,,,
 28-Oct-2013,Sharm El Sheikh 10K,3,Hard,QF,437,665,0,3,8,Valeriya Strakhova,Natalija Stevanovic,6-1 6-4,,,,,,,,,,,,,,
 28-Oct-2013,Sharm El Sheikh 10K,3,Hard,R16,437,939,1,3,WC,Natalija Stevanovic,Tanya Samodelok,6-1 6-2,,,,,,,,,,,,,,

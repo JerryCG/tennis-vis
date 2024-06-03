@@ -1,5 +1,107 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
-24-Oct-2022,W25 Trnava,3,Hard,R16,331,147,0,,1,Viktoria Kuzmova,Rebecca Sramkova,6-4 1-6 6-3,,,,,,,,,,,,,,
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,Rome,3,Clay,R16,120,10,0,Q,9,Jelena Ostapenko,Rebecca Sramkova,4-6 6-4 7-6(3),0.98,3.4%,5.2%,70.7%,52.4%,52.9%,50.0% (6/12),49.6%,46.3%,6.5%,41.9%,52.2%,40.0% (6/15),2:46
+6-May-2024,Rome,3,Clay,R32,120,58,1,Q,,Rebecca Sramkova,Sofia Kenin,6-4 4-6 6-4,0.97,1.0%,1.0%,66.7%,60.3%,50.0%,28.6% (2/7),49.7%,41.8%,2.2%,35.5%,55.2%,46.2% (6/13),2:19
+6-May-2024,Rome,3,Clay,R64,120,28,1,Q,26,Rebecca Sramkova,Katie Boulter,6-4 7-6(8),1.12,2.0%,1.0%,60.4%,62.3%,55.0%,84.2% (16/19),53.4%,45.3%,5.3%,29.7%,60.5%,100.0% (4/4),2:07
+6-May-2024,Rome,3,Clay,R128,120,270,1,Q,WC,Rebecca Sramkova,Georgia Pedone,6-4 6-1,1.93,0.0%,2.4%,66.7%,71.4%,71.4%,50.0% (1/2),61.5%,55.2%,0.0%,50.0%,68.4%,45.5% (5/11),1:23
+6-May-2024,Rome,3,Clay,Q2,120,122,1,,,Rebecca Sramkova,Darja Semenistaja,6-3 6-4,1.25,1.5%,0.0%,76.5%,55.8%,43.8%,33.3% (2/6),55.6%,58.6%,0.0%,53.7%,70.6%,54.5% (6/11),1:18
+6-May-2024,Rome,3,Clay,Q1,120,85,1,,10,Rebecca Sramkova,Harriet Dart,6-2 6-3,1.42,5.9%,7.4%,57.4%,64.1%,51.7%,71.4% (5/7),58.7%,58.5%,0.0%,52.6%,63.6%,83.3% (5/6),1:22
+22-Apr-2024,Madrid,3,Clay,Q2,116,110,0,,22,Hailey Baptiste,Rebecca Sramkova,6-2 6-0,0.41,1.8%,3.5%,57.9%,57.6%,29.2%,44.4% (4/9),36.6%,22.2%,2.8%,20.0%,23.8%,- (0/0),1:01
+22-Apr-2024,Madrid,3,Clay,Q1,116,80,1,,10,Rebecca Sramkova,Clara Tauson,7-6(6) 0-0 RET,1.05,2.4%,4.9%,48.8%,60.0%,38.1%,0.0% (0/4),51.6%,54.0%,2.0%,45.2%,68.4%,50.0% (4/8),1:07
+15-Apr-2024,Oeiras 125,3,Clay,R32,117,258,0,8,LL,Varvara Lepchenko,Rebecca Sramkova,7-6(5) 7-5,0.90,2.2%,0.0%,61.3%,61.4%,47.2%,60.0% (6/10),48.3%,39.8%,1.2%,33.3%,60.0%,60.0% (3/5),2:19
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,QF,121,91,0,,5,Rebeka Masarova,Rebecca Sramkova,6-2 4-6 6-2,0.89,0.0%,4.6%,63.2%,50.9%,46.9%,41.7% (5/12),47.1%,45.0%,3.0%,31.0%,55.2%,66.7% (4/6),2:10
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R16,121,268,1,,WC,Rebecca Sramkova,Kristina Mladenovic,7-5 4-6 6-4,1.01,1.8%,3.6%,63.4%,62.0%,41.5%,66.7% (12/18),50.7%,46.2%,1.1%,35.0%,67.7%,53.8% (7/13),2:34
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,121,137,1,,,Rebecca Sramkova,Leolia Jeanjean,6-0 7-5,1.52,1.6%,6.5%,53.2%,75.8%,48.3%,71.4% (5/7),59.7%,56.5%,1.6%,42.4%,72.4%,50.0% (6/12),1:22
+18-Mar-2024,Miami,3,Hard,Q2,117,69,0,,1,Anna Karolina Schmiedlova,Rebecca Sramkova,6-3 3-6 6-3,0.90,10.5%,3.9%,67.1%,68.6%,40.0%,42.9% (3/7),47.7%,36.7%,7.6%,31.1%,44.1%,60.0% (3/5),2:07
+18-Mar-2024,Miami,3,Hard,Q1,117,93,1,,17,Rebecca Sramkova,Rebeka Masarova,6-4 6-4,1.52,7.4%,3.7%,74.1%,75.0%,64.3%,50.0% (1/2),55.9%,42.2%,9.4%,32.4%,55.6%,75.0% (3/4),1:23
+6-Mar-2024,Indian Wells,3,Hard,R64,127,13,0,Q,12,Beatriz Haddad Maia,Rebecca Sramkova,7-5 6-2,0.82,2.7%,0.0%,58.1%,46.5%,58.1%,68.8% (11/16),45.6%,39.7%,0.0%,29.5%,55.2%,25.0% (2/8),1:55
+6-Mar-2024,Indian Wells,3,Hard,R128,127,66,1,Q,,Rebecca Sramkova,Yafan Wang,6-4 6-0,1.48,3.8%,1.9%,44.2%,60.9%,65.5%,75.0% (3/4),58.4%,54.1%,3.3%,51.5%,57.1%,38.5% (5/13),1:27
+6-Mar-2024,Indian Wells,3,Hard,Q2,127,141,1,,,Rebecca Sramkova,Jessika Ponchet,2-6 6-2 7-6(5),0.93,3.7%,4.6%,61.1%,59.1%,45.2%,64.3% (9/14),48.8%,43.2%,6.3%,29.2%,57.4%,38.5% (5/13),2:13
+6-Mar-2024,Indian Wells,3,Hard,Q1,127,89,1,,6,Rebecca Sramkova,Yanina Wickmayer,6-0 6-1,2.25,0.0%,0.0%,61.9%,69.2%,81.3%,100.0% (1/1),66.7%,59.0%,0.0%,56.3%,71.4%,71.4% (5/7),0:53
+26-Feb-2024,San Diego,3,Hard,Q2,127,440,0,8,,Marina Melnikova,Rebecca Sramkova,4-6 6-2 6-4,0.95,1.1%,2.1%,63.2%,60.0%,37.1%,41.7% (5/12),48.7%,46.0%,0.0%,35.8%,66.7%,35.7% (5/14),2:19
+26-Feb-2024,San Diego,3,Hard,Q1,127,168,1,8,,Rebecca Sramkova,Ekaterina Makarova,6-3 6-2,1.35,3.6%,5.4%,57.1%,62.5%,45.8%,25.0% (1/4),57.8%,60.4%,0.0%,56.3%,66.7%,66.7% (6/9),1:15
+29-Jan-2024,W50 Porto,3,Hard,F,128,151,1,1,2,Rebecca Sramkova,Jessica Bouzas Maneiro,6-7(4) 7-5 6-1,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,SF,128,264,1,1,,Rebecca Sramkova,Aliona Falei,3-6 6-3 7-6(4),,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,QF,128,559,1,1,Q,Rebecca Sramkova,Anastasia Abbagnato,6-3 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R16,128,290,1,1,,Rebecca Sramkova,Julie Struplova,6-4 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W50 Porto,3,Hard,R32,128,538,1,1,Q,Rebecca Sramkova,Matilde Jorge,6-3 7-6(7),,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R16,129,176,0,7,,Elsa Jacquemot,Rebecca Sramkova,7-5 7-5,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R32,129,276,1,7,Q,Rebecca Sramkova,Silvia Ambrosio,7-5 6-2,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q1,129,153,0,21,,Fiona Ferro,Rebecca Sramkova,3-6 6-4 6-1,0.89,8.0%,4.0%,61.3%,65.2%,41.4%,28.6% (2/7),47.2%,39.3%,0.0%,37.7%,43.5%,37.5% (3/8),1:47
+1-Jan-2024,Brisbane,3,Hard,Q1,131,192,0,5,,Timea Babos,Rebecca Sramkova,7-6(1) 6-4,0.88,6.8%,2.7%,71.2%,55.8%,38.1%,50.0% (5/10),46.7%,43.6%,4.3%,40.0%,50.0%,28.6% (4/14),2:14
+4-Dec-2023,W100 Dubai,3,Hard,QF,129,149,0,3,7,Heather Watson,Rebecca Sramkova,6-1 6-3,,,,,,,,,,,,,,
+4-Dec-2023,W100 Dubai,3,Hard,R16,129,446,1,3,Q,Rebecca Sramkova,Peangtarn Plipuech,6-1 6-3,,,,,,,,,,,,,,
+4-Dec-2023,W100 Dubai,3,Hard,R32,129,181,1,3,,Rebecca Sramkova,Natalija Stevanovic,6-1 2-0 RET,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,QF,130,101,0,6,3,Jaqueline Cristian,Rebecca Sramkova,6-1 3-0 RET,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R16,130,639,1,6,Q,Rebecca Sramkova,Sebastianna Scilipoti,6-2 3-6 7-6(3),,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R32,130,386,1,6,Q,Rebecca Sramkova,Alina Charaeva,6-1 6-2,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R32,132,453,0,6,Q,Anouk Koevermans,Rebecca Sramkova,6-3 1-6 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W60 Bratislava,3,Hard,R32,129,522,0,2,Q,Alevtina Ibragimova,Rebecca Sramkova,6-1 6-3,,,,,,,,,,,,,,
+4-Sep-2023,Bari 125,3,Clay,F,153,118,0,,5,Tamara Zidansek,Rebecca Sramkova,3-6 7-5 6-1,0.88,4.0%,0.0%,51.0%,52.9%,40.8%,60.0% (12/20),46.9%,46.8%,0.0%,41.9%,56.3%,42.9% (6/14),2:43
+4-Sep-2023,Bari 125,3,Clay,SF,153,251,1,,,Rebecca Sramkova,Jana Fett,7-5 6-3,1.15,1.3%,2.6%,57.7%,48.9%,51.5%,66.7% (10/15),53.5%,57.6%,1.5%,48.6%,69.0%,66.7% (8/12),1:48
+4-Sep-2023,Bari 125,3,Clay,QF,153,99,1,,2,Rebecca Sramkova,Jaqueline Cristian,6-2 7-5,1.17,1.2%,4.8%,67.9%,63.2%,48.1%,77.8% (7/9),53.7%,48.7%,7.7%,40.0%,57.9%,38.5% (5/13),1:50
+4-Sep-2023,Bari 125,3,Clay,R16,153,172,1,,,Rebecca Sramkova,Polina Kudermetova,7-6(2) 3-6 6-3,1.11,4.0%,3.0%,64.4%,56.9%,55.6%,46.2% (6/13),52.5%,48.5%,0.0%,49.1%,47.8%,41.2% (7/17),2:22
+4-Sep-2023,Bari 125,3,Clay,R32,153,131,1,,6,Rebecca Sramkova,Laura Pigossi,6-3 6-1,1.88,0.0%,0.0%,69.0%,79.3%,46.2%,60.0% (3/5),63.3%,58.3%,0.0%,58.6%,57.9%,66.7% (6/9),1:10
+28-Aug-2023,US Open,5,Hard,Q2,153,118,0,,19,Tamara Zidansek,Rebecca Sramkova,4-6 6-4 6-2,0.88,7.9%,5.9%,57.4%,63.8%,44.2%,50.0% (5/10),47.3%,39.4%,4.8%,25.8%,63.2%,25.0% (3/12),2:26
+28-Aug-2023,US Open,5,Hard,Q1,153,194,1,,,Rebecca Sramkova,Nigina Abduraimova,6-4 6-4,1.08,3.1%,1.5%,52.3%,70.6%,48.4%,50.0% (2/4),52.0%,43.1%,8.6%,31.3%,57.7%,66.7% (4/6),1:20
+7-Aug-2023,Kozerki 125,3,Hard,R16,156,194,0,,,Zeynep Sonmez,Rebecca Sramkova,1-6 6-4 6-1,0.91,3.8%,1.3%,51.3%,57.5%,47.4%,37.5% (3/8),48.0%,43.2%,1.4%,36.5%,59.1%,44.4% (4/9),1:43
+7-Aug-2023,Kozerki 125,3,Hard,R32,156,102,1,,2,Rebecca Sramkova,Lucrezia Stefanini,6-4 5-7 6-2,1.12,4.8%,0.0%,66.3%,68.1%,42.9%,75.0% (12/16),52.7%,45.4%,0.0%,43.7%,50.0%,54.5% (6/11),2:38
+31-Jul-2023,Prague,3,Hard,Q1,156,356,0,7,,Dominika Salkova,Rebecca Sramkova,6-1 6-4,0.65,3.4%,3.4%,62.1%,61.1%,31.8%,50.0% (4/8),41.6%,32.7%,3.6%,24.2%,45.5%,25.0% (1/4),1:16
+24-Jul-2023,Warsaw,3,Hard,QF,174,65,0,Q,,Tatjana Maria,Rebecca Sramkova,6-3 1-6 6-1,0.92,1.2%,8.4%,47.0%,66.7%,43.2%,58.3% (7/12),48.7%,42.3%,7.0%,43.3%,41.5%,50.0% (4/8),2:05
+24-Jul-2023,Warsaw,3,Hard,R16,174,18,1,Q,2,Rebecca Sramkova,Karolina Muchova,7-5 3-6 7-5,1.01,1.7%,7.6%,52.5%,54.8%,46.4%,50.0% (8/16),50.2%,49.5%,2.1%,41.9%,62.9%,66.7% (8/12),3:01
+24-Jul-2023,Warsaw,3,Hard,R32,174,1076,1,Q,WC,Rebecca Sramkova,Weronika Ewald,6-2 6-2,1.75,8.5%,6.4%,61.7%,82.8%,44.4%,50.0% (1/2),61.9%,56.0%,6.0%,50.0%,66.7%,50.0% (5/10),1:10
+24-Jul-2023,Warsaw,3,Hard,Q2,174,232,1,2,6,Rebecca Sramkova,Maddison Inglis,6-1 6-0,2.35,12.2%,2.4%,58.5%,83.3%,58.8%,100.0% (3/3),68.4%,63.2%,0.0%,72.2%,55.0%,71.4% (5/7),0:54
+24-Jul-2023,Warsaw,3,Hard,Q1,174,297,1,2,,Rebecca Sramkova,Naiktha Bains,4-6 6-2 6-4,1.16,3.2%,6.3%,44.2%,76.2%,47.2%,40.0% (2/5),52.3%,46.5%,5.5%,38.4%,57.4%,25.0% (5/20),2:36
+17-Jul-2023,Budapest,3,Clay,R32,171,69,0,,6,Elina Avanesyan,Rebecca Sramkova,2-6 6-4 6-3,1.01,3.5%,5.9%,55.3%,61.7%,47.4%,64.3% (9/14),49.5%,45.1%,0.0%,37.2%,62.9%,41.7% (5/12),2:25
+3-Jul-2023,W60 Montpellier,3,Clay,R16,174,203,0,6,,Carole Monnet,Rebecca Sramkova,7-6(2) 7-6(2),,,,,,,,,,,,,,
+3-Jul-2023,W60 Montpellier,3,Clay,R32,174,845,1,6,Q,Rebecca Sramkova,Daniela Seguel,2-6 6-3 6-3,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q2,174,92,0,,3,Clara Tauson,Rebecca Sramkova,6-4 6-2,0.51,2.7%,1.3%,52.0%,66.7%,33.3%,63.6% (7/11),40.7%,25.0%,10.4%,27.3%,23.1%,50.0% (1/2),1:26
+3-Jul-2023,Wimbledon,5,Grass,Q1,174,158,1,,,Rebecca Sramkova,Iryna Shymanovich,6-3 5-7 7-5,1.05,4.5%,2.7%,66.4%,63.0%,48.6%,66.7% (10/15),50.9%,43.9%,1.8%,39.6%,47.5%,25.0% (6/24),2:36
+5-Jun-2023,Makarska 125,3,Clay,SF,222,53,0,Q,2,Jasmine Paolini,Rebecca Sramkova,6-3 6-4,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,QF,222,83,1,Q,6,Rebecca Sramkova,Kateryna Baindl,7-6(8) 5-7 7-5,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R16,222,69,1,Q,4,Rebecca Sramkova,Peyton Stearns,6-3 7-5,,,,,,,,,,,,,,
+5-Jun-2023,Makarska 125,3,Clay,R32,222,203,1,Q,,Rebecca Sramkova,Dalila Jakupovic,2-6 6-1 6-2,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,F,222,189,0,7,2,Valentini Grammatikopoulou,Rebecca Sramkova,6-4 6-4,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,SF,222,270,1,7,12,Rebecca Sramkova,Elvina Kalieva,7-6(5) 6-1,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,QF,222,186,1,7,3,Rebecca Sramkova,Irina Bara,6-4 6-4,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R16,222,334,1,7,,Rebecca Sramkova,Ekaterine Gorgodze,6-3 6-2,,,,,,,,,,,,,,
+29-May-2023,W40 Otocec,3,Clay,R32,222,497,1,7,,Rebecca Sramkova,Denislava Glushkova,6-0 6-4,,,,,,,,,,,,,,
+22-May-2023,W40 Otocec,3,Clay,F,238,397,1,2,,Rebecca Sramkova,Seone Mendez,6-3 7-6(2),,,,,,,,,,,,,,
+22-May-2023,W40 Otocec,3,Clay,SF,238,258,1,2,5,Rebecca Sramkova,Veronika Erjavec,6-3 4-6 7-6(4),,,,,,,,,,,,,,
+22-May-2023,W40 Otocec,3,Clay,QF,238,342,1,2,,Rebecca Sramkova,Andreea Prisacariu,6-0 6-2,,,,,,,,,,,,,,
+22-May-2023,W40 Otocec,3,Clay,R16,238,305,1,2,15,Rebecca Sramkova,Misaki Doi,6-2 6-3,,,,,,,,,,,,,,
+22-May-2023,W40 Otocec,3,Clay,R32,238,471,1,2,,Rebecca Sramkova,Ilinca Dalina Amariei,6-3 7-5,,,,,,,,,,,,,,
+8-May-2023,W100 Trnava,3,Clay,R32,237,248,0,,,Katarina Zavatska,Rebecca Sramkova,6-2 6-2,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,QF,245,233,0,,,Tena Lukas,Rebecca Sramkova,6-2 6-2,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R16,245,170,1,,3,Rebecca Sramkova,Nuria Brancaccio,6-2 7-5,,,,,,,,,,,,,,
+1-May-2023,W60 Prague,3,Clay,R32,245,324,1,,Q,Rebecca Sramkova,Valeriya Strakhova,7-6(7) 5-7 6-3,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,QF,244,283,0,6,,Timea Babos,Rebecca Sramkova,7-5 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R16,244,652,1,6,Q,Rebecca Sramkova,Daria Khomutsianskaya,6-2 6-2,,,,,,,,,,,,,,
+17-Apr-2023,W25 Sharm ElSheikh,3,Hard,R32,244,322,1,6,,Rebecca Sramkova,Xinyu Gao,7-6(4) 6-3,,,,,,,,,,,,,,
+10-Apr-2023,W25 Sharm ElSheikh,3,Hard,R32,240,501,0,5,,Marina Melnikova,Rebecca Sramkova,7-6(2) 3-6 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W40 Murska Sobota,3,Hard,SF,276,244,0,,,Magali Kempen,Rebecca Sramkova,7-5 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W40 Murska Sobota,3,Hard,QF,276,733,1,,Q,Rebecca Sramkova,Cristina Andreea Mitu,6-3 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W40 Murska Sobota,3,Hard,R16,276,352,1,,WC,Rebecca Sramkova,Veronika Erjavec,6-3 5-7 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W40 Murska Sobota,3,Hard,R32,276,542,1,,Q,Rebecca Sramkova,Linda Klimovicova,6-1 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W40 Maribor,3,Hard,R16,276,267,0,Q,Q,Katarina Zavatska,Rebecca Sramkova,6-4 5-7 7-5,,,,,,,,,,,,,,
+20-Mar-2023,W40 Maribor,3,Hard,R32,276,145,1,Q,4,Rebecca Sramkova,Elena Gabriela Ruse,7-5 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W40 Maribor,3,Hard,Q2,276,391,1,2,10,Rebecca Sramkova,Aneta Kladivova,6-3 2-6 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R32,271,157,0,,4,Ana Konjuh,Rebecca Sramkova,6-4 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R16,275,213,0,WC,,Yanina Wickmayer,Rebecca Sramkova,6-2 6-4,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R32,275,400,1,WC,Q,Rebecca Sramkova,Ylona Georgiana Ghioroaie,6-4 6-7(3) 6-2,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,R32,319,151,0,,1,Heather Watson,Rebecca Sramkova,6-4 6-3,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,F,317,443,1,,,Rebecca Sramkova,Tereza Smitkova,6-2 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,SF,317,293,1,,5,Rebecca Sramkova,Alice Robbe,6-2 3-6 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,QF,317,295,1,,6,Rebecca Sramkova,Dominika Salkova,2-6 7-5 7-6(1),,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,R16,317,203,1,,1,Rebecca Sramkova,Sonay Kartal,7-6(8) 3-6 7-6(6),,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,R32,317,725,1,,Q,Rebecca Sramkova,Alice Gillan,6-2 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W40 Tallinn,3,Hard,R32,286,250,0,,6,Lena Rueffer,Rebecca Sramkova,6-4 6-4,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,QF,318,204,0,WC,,Elsa Jacquemot,Rebecca Sramkova,6-1 6-4,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R16,318,262,1,WC,WC,Rebecca Sramkova,Lina Glushko,7-6(4) 6-3,,,,,,,,,,,,,,
+5-Dec-2022,W100+H Dubai,3,Hard,R32,318,138,1,WC,4,Rebecca Sramkova,Daria Snigur,6-4 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Ortisei,3,Hard,R32,313,144,0,,2,Viktoria Hruncakova,Rebecca Sramkova,7-6(2) 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,R16,317,192,0,,8,Nigina Abduraimova,Rebecca Sramkova,6-2 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W60 Bratislava,3,Hard,R32,317,597,1,,Q,Rebecca Sramkova,Bojana Klincov,0-6 6-3 6-3,,,,,,,,,,,,,,
+24-Oct-2022,W25 Trnava,3,Hard,R16,331,147,0,,1,Viktoria Hruncakova,Rebecca Sramkova,6-4 1-6 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W25 Trnava,3,Hard,R32,331,788,1,,WC,Rebecca Sramkova,Timea Jaruskova,5-7 7-5 6-0,,,,,,,,,,,,,,
 10-Oct-2022,W60 Trnava,3,Hard,QF,349,107,0,Q,2,Anna Karolina Schmiedlova,Rebecca Sramkova,6-4 6-7(6) 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W60 Trnava,3,Hard,R16,349,135,1,Q,6,Rebecca Sramkova,Leolia Jeanjean,7-6(5) 6-2,,,,,,,,,,,,,,
@@ -27,13 +129,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2022,W100 Versmold,3,Clay,R32,218,640,1,,Q,Rebecca Sramkova,Adrienn Nagy,6-0 6-3,,,,,,,,,,,,,,
 27-Jun-2022,Wimbledon,5,Grass,Q2,218,155,0,,23,Su Jeong Jang,Rebecca Sramkova,3-6 6-4 6-3,0.79,10.0%,6.7%,50.0%,73.3%,48.9%,66.7% (6/9),46.8%,30.9%,6.2%,27.3%,38.5%,66.7% (2/3),2:04
 27-Jun-2022,Wimbledon,5,Grass,Q1,218,277,1,,,Rebecca Sramkova,Ulrikke Eikeri,6-3 3-6 6-4,1.09,6.8%,5.7%,45.5%,80.0%,50.0%,75.0% (6/8),50.5%,39.6%,5.7%,28.0%,50.0%,20.0% (3/15),2:13
+13-Jun-2022,W60 Ceska Lipa,3,Clay,SF,238,269,0,8,12,Sara Bejlek,Rebecca Sramkova,6-1 6-1,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,QF,238,139,1,8,2,Rebecca Sramkova,Linda Noskova,3-6 6-4 6-4,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,R16,238,248,1,8,9,Rebecca Sramkova,Francesca Di Lorenzo,6-3 3-6 6-2,,,,,,,,,,,,,,
 13-Jun-2022,W60 Ceska Lipa,3,Clay,R32,238,916,1,8,WC,Rebecca Sramkova,Linda Klimovicova,6-1 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R128,176,20,0,LL,20,Daria Kasatkina,Rebecca Sramkova,6-2 6-0,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,176,184,0,,,Linda Noskova,Rebecca Sramkova,6-3 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,176,167,1,,,Rebecca Sramkova,Suzan Lamens,4-6 7-5 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,176,162,1,,,Rebecca Sramkova,Alycia Parks,6-7(9) 6-4 6-4,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,176,20,0,LL,20,Daria Kasatkina,Rebecca Sramkova,6-2 6-0,0.50,0.0%,0.0%,64.3%,40.7%,40.0%,16.7% (1/6),34.9%,29.5%,2.3%,25.0%,50.0%,0.0% (0/1),
+23-May-2022,Roland Garros,5,Clay,Q3,176,184,0,,,Linda Noskova,Rebecca Sramkova,6-3 6-2,0.57,10.4%,2.1%,64.6%,51.6%,47.1%,28.6% (2/7),40.0%,28.6%,7.1%,25.8%,36.4%,100.0% (1/1),
+23-May-2022,Roland Garros,5,Clay,Q2,176,167,1,,,Rebecca Sramkova,Suzan Lamens,4-6 7-5 6-2,1.22,6.6%,5.5%,58.2%,67.9%,47.4%,44.4% (4/9),54.3%,49.5%,0.0%,47.6%,52.9%,53.8% (7/13),
+23-May-2022,Roland Garros,5,Clay,Q1,176,162,1,,,Rebecca Sramkova,Alycia Parks,6-7(9) 6-4 6-4,1.17,1.9%,4.8%,47.6%,72.0%,60.0%,71.4% (5/7),52.0%,40.2%,5.7%,35.8%,48.8%,33.3% (4/12),
 2-May-2022,W60 Prague,3,Clay,R32,179,254,0,5,SR,Priscilla Hon,Rebecca Sramkova,6-2 6-1,,,,,,,,,,,,,,
 24-Jan-2022,W60 Andrezieux-Boutheon,3,Hard,R16,166,153,0,,6,Anna Blinkova,Rebecca Sramkova,6-4 6-4,,,,,,,,,,,,,,
 24-Jan-2022,W60 Andrezieux-Boutheon,3,Hard,R32,166,232,1,,,Rebecca Sramkova,Urszula Radwanska,6-3 7-6(6),,,,,,,,,,,,,,
@@ -54,7 +157,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Jul-2021,Belgrade 125K,3,Clay,QF,203,132,1,,,Rebecca Sramkova,Kristyna Pliskova,4-6 6-4 7-6(5),1.02,2.4%,1.6%,52.0%,62.5%,55.9%,69.2% (9/13),50.6%,41.4%,6.9%,29.8%,52.5%,36.4% (4/11),2:55
 26-Jul-2021,Belgrade 125K,3,Clay,R16,203,148,1,,,Rebecca Sramkova,Jaqueline Cristian,6-3 3-6 6-4,1.13,2.2%,0.0%,77.5%,60.9%,45.0%,54.5% (6/11),53.0%,48.1%,5.1%,42.2%,55.9%,50.0% (6/12),2:04
 26-Jul-2021,Belgrade 125K,3,Clay,R32,203,221,1,,,Rebecca Sramkova,Tereza Mrdeza,6-3 2-6 6-4,0.94,5.1%,4.0%,55.6%,47.3%,54.5%,50.0% (6/12),48.9%,46.8%,0.0%,40.9%,54.5%,54.5% (6/11),2:25
-12-Jul-2021,Prague,3,Hard,R16,226,156,0,Q,WC,Viktoria Kuzmova,Rebecca Sramkova,6-4 7-5,0.85,4.2%,8.5%,50.7%,69.4%,45.7%,62.5% (5/8),47.1%,35.8%,11.9%,23.1%,53.6%,50.0% (1/2),1:35
+12-Jul-2021,Prague,3,Hard,R16,226,156,0,Q,WC,Viktoria Hruncakova,Rebecca Sramkova,6-4 7-5,0.85,4.2%,8.5%,50.7%,69.4%,45.7%,62.5% (5/8),47.1%,35.8%,11.9%,23.1%,53.6%,50.0% (1/2),1:35
 12-Jul-2021,Prague,3,Hard,R32,226,12,1,Q,1,Rebecca Sramkova,Petra Kvitova,7-6(5) 3-6 6-4,0.86,0.9%,6.5%,56.5%,63.9%,44.7%,66.7% (10/15),47.5%,38.3%,6.4%,32.1%,47.4%,55.6% (5/9),2:36
 12-Jul-2021,Prague,3,Hard,Q2,226,269,1,5,11,Rebecca Sramkova,Yue Yuan,6-3 6-2,1.43,7.4%,3.7%,59.3%,65.6%,59.1%,50.0% (2/4),57.4%,52.9%,0.0%,39.0%,74.1%,31.3% (5/16),1:13
 12-Jul-2021,Prague,3,Hard,Q1,226,917,1,5,WC,Rebecca Sramkova,DUPE Barbora Palicova,6-1 6-4,1.55,5.1%,3.4%,62.7%,73.0%,59.1%,87.5% (7/8),60.2%,50.0%,2.3%,47.6%,52.2%,57.1% (4/7),1:00
@@ -112,7 +215,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,QF,174,113,0,,6,Natalia Vikhlyantseva,Rebecca Sramkova,6-4 6-2,,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R16,174,107,1,,4,Rebecca Sramkova,Katarina Zavatska,6-1 6-4,,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R32,174,170,1,,,Rebecca Sramkova,Cristina Bucsa,6-3 6-3,,,,,,,,,,,,,,
-20-Jan-2020,Australian Open,5,Hard,Q1,174,130,0,,21,Maddison Inglis,Rebecca Sramkova,6-3 0-6 7-6(17) (ch),0.95,3.3%,1.6%,65.9%,60.5%,50.0%,54.5% (6/11),50.2%,40.9%,10.2%,41.2%,40.5%,75.0% (6/8),2:42
+20-Jan-2020,Australian Open,5,Hard,Q1,174,130,0,,21,Maddison Inglis,Rebecca Sramkova,6-3 0-6 7-6(17),0.95,3.3%,1.6%,65.9%,60.5%,50.0%,54.5% (6/11),50.2%,40.9%,10.2%,41.2%,40.5%,75.0% (6/8),2:42
 6-Jan-2020,Brisbane,3,Hard,Q1,172,79,0,,,Viktorija Golubic,Rebecca Sramkova,6-2 6-2,0.63,3.0%,7.6%,53.0%,65.7%,29.0%,44.4% (4/9),42.0%,32.6%,2.2%,18.8%,64.3%,16.7% (1/6),1:06
 21-Oct-2019,W100 Szekesfehervar,3,Clay,R32,170,108,0,,,Danka Kovinic,Rebecca Sramkova,6-3 6-0,,,,,,,,,,,,,,
 14-Oct-2019,W60 Szekesfehervar,3,Clay,QF,173,115,0,,2,Irina Camelia Begu,Rebecca Sramkova,6-1 6-3,,,,,,,,,,,,,,
@@ -158,7 +261,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Mar-2019,W25 Yokohama,3,Hard,R32,183,243,0,,,Greet Minnen,Rebecca Sramkova,7-5 6-1,,,,,,,,,,,,,,
 18-Feb-2019,Budapest,3,Hard,Q1,183,153,0,,10,Tereza Martincova,Rebecca Sramkova,4-6 6-2 6-2,0.74,2.0%,4.0%,61.0%,63.9%,28.2%,62.5% (10/16),44.2%,37.0%,1.2%,25.0%,58.6%,30.0% (3/10),1:58
 9-Feb-2019,Fed Cup WG2 R1: SVK vs LAT,3,Hard,RR,188,12,0,,,Anastasija Sevastova,Rebecca Sramkova,6-3 6-2,0.60,0.0%,5.7%,58.5%,51.6%,31.8%,33.3% (3/9),39.2%,34.1%,6.8%,33.3%,35.7%,66.7% (2/3),1:01
-9-Feb-2019,Fed Cup WG2 R1: SVK vs LAT,3,Hard,RR,188,22,0,,,Jelena Ostapenko,Rebecca Sramkova,7-5 6-7(5) 6-1 (ch),0.81,6.3%,4.7%,49.6%,63.5%,42.2%,62.5% (10/16),46.0%,38.2%,2.7%,31.0%,46.2%,33.3% (3/9),2:41
+9-Feb-2019,Fed Cup WG2 R1: SVK vs LAT,3,Hard,RR,188,22,0,,,Jelena Ostapenko,Rebecca Sramkova,7-5 6-7(5) 6-1,0.81,6.3%,4.7%,49.6%,63.5%,42.2%,62.5% (10/16),46.0%,38.2%,2.7%,31.0%,46.2%,33.3% (3/9),2:41
 21-Jan-2019,W60 Andrezieux Boutheon,3,Hard,F,242,341,1,,Q,Rebecca Sramkova,Audrey Albie,6-2 6-7(4) 6-2,,,,,,,,,,,,,,
 21-Jan-2019,W60 Andrezieux Boutheon,3,Hard,SF,242,92,1,,,Rebecca Sramkova,Polona Hercog,6-2 RET,,,,,,,,,,,,,,
 21-Jan-2019,W60 Andrezieux Boutheon,3,Hard,QF,242,442,1,,,Rebecca Sramkova,Julie Gervais,6-3 6-2,,,,,,,,,,,,,,
@@ -205,7 +308,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-May-2018,Trnava $100K,3,Clay,R32,364,79,1,,2,Rebecca Sramkova,Anna Karolina Schmiedlova,7-6(5) 7-6(5),,,,,,,,,,,,,,
 30-Apr-2018,Prague,3,Clay,Q2,363,151,0,,,Tamara Korpatsch,Rebecca Sramkova,6-4 3-6 6-4,0.98,1.0%,1.0%,71.0%,52.1%,58.6%,45.5% (5/11),49.5%,45.3%,0.9%,31.7%,65.1%,35.7% (5/14),2:08
 30-Apr-2018,Prague,3,Clay,Q1,363,305,1,,,Rebecca Sramkova,Tessah Andrianjafitrimo,6-3 6-2,1.52,5.6%,3.7%,79.6%,74.4%,36.4%,0.0% (0/1),57.0%,50.6%,2.5%,43.8%,60.6%,28.6% (4/14),1:24
-9-Apr-2018,Istanbul $60K,3,Hard,R16,372,104,0,SR,2,Viktoria Kuzmova,Rebecca Sramkova,7-6(6) 6-3,,,,,,,,,,,,,,
+9-Apr-2018,Istanbul $60K,3,Hard,R16,372,104,0,SR,2,Viktoria Hruncakova,Rebecca Sramkova,7-6(6) 6-3,,,,,,,,,,,,,,
 9-Apr-2018,Istanbul $60K,3,Hard,R32,372,482,1,SR,,Rebecca Sramkova,Berfu Cengiz,6-2 6-1,,,,,,,,,,,,,,
 19-Mar-2018,Antalya $15K,3,Clay,F,424,436,1,,4,Rebecca Sramkova,Cornelia Lister,6-1 7-5,,,,,,,,,,,,,,
 19-Mar-2018,Antalya $15K,3,Clay,SF,424,407,1,,5,Rebecca Sramkova,Andreea Amalia Rosca,7-5 4-6 6-4,,,,,,,,,,,,,,
@@ -249,7 +352,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 26-Sep-2016,Tashkent,3,Hard,Q1,127,206,0,1,,Sofia Shapatava,Rebecca Sramkova,6-1 7-6(4),0.70,9.3%,5.6%,44.4%,66.7%,43.3%,20.0% (1/5),42.0%,32.3%,3.1%,31.4%,35.7%,66.7% (2/3),1:07
 12-Sep-2016,Biarritz $100K,3,Clay,F,156,388,1,8,Q,Rebecca Sramkova,Martina Trevisan,6-3 4-6 6-1,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,SF,156,87,1,8,2,Rebecca Sramkova,Sorana Cirstea,6-3 7-5,,,,,,,,,,,,,,
-12-Sep-2016,Biarritz $100K,3,Clay,QF,156,85,1,8,3,Rebecca Sramkova,Carina Witthoeft,6-2 6-3 (ch),,,,,,,,,,,,,,
+12-Sep-2016,Biarritz $100K,3,Clay,QF,156,85,1,8,3,Rebecca Sramkova,Carina Witthoeft,6-2 6-3,,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R16,156,193,1,8,,Rebecca Sramkova,Nina Stojanovic,6-4 7-6(4),,,,,,,,,,,,,,
 12-Sep-2016,Biarritz $100K,3,Clay,R32,156,237,1,8,,Rebecca Sramkova,Laura Pous Tio,6-3 6-2,,,,,,,,,,,,,,
 5-Sep-2016,Budapest $50K,3,Clay,R16,157,305,0,7,WC,Patty Schnyder,Rebecca Sramkova,6-2 6-1,,,,,,,,,,,,,,
@@ -285,7 +388,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-May-2016,Caserta $25K,3,Clay,R16,259,163,1,,1,Rebecca Sramkova,Ana Bogdan,6-2 3-6 6-3,,,,,,,,,,,,,,
 16-May-2016,Caserta $25K,3,Clay,R32,259,326,1,,,Rebecca Sramkova,Ana Sofia Sanchez,6-4 6-4,,,,,,,,,,,,,,
 9-May-2016,Trnava $100K,3,Clay,SF,304,94,0,WC,3,Anastasija Sevastova,Rebecca Sramkova,6-1 6-3,,,,,,,,,,,,,,
-9-May-2016,Trnava $100K,3,Clay,QF,304,395,1,WC,WC,Rebecca Sramkova,Viktoria Kuzmova,6-3 6-4,,,,,,,,,,,,,,
+9-May-2016,Trnava $100K,3,Clay,QF,304,395,1,WC,WC,Rebecca Sramkova,Viktoria Hruncakova,6-3 6-4,,,,,,,,,,,,,,
 9-May-2016,Trnava $100K,3,Clay,R16,304,125,1,WC,,Rebecca Sramkova,Jana Cepelova,7-5 4-6 6-3,,,,,,,,,,,,,,
 9-May-2016,Trnava $100K,3,Clay,R32,304,190,1,WC,,Rebecca Sramkova,Barbora Krejcikova,4-6 7-6(6) 6-4,,,,,,,,,,,,,,
 4-Apr-2016,Karshi $25K,3,Hard,F,349,369,1,,,Rebecca Sramkova,Nina Stojanovic,6-1 6-3,,,,,,,,,,,,,,

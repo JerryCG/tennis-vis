@@ -197,7 +197,7 @@ def records(name, date, oppo, surface, match, round, result, streak, layout):
     else:
         return df.to_dict('records')
 
-# create app
+# create page
 dash.register_page(__name__, name = 'Records Search')
 
 layout = html.Div(children=[

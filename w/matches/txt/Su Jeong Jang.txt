@@ -1,4 +1,86 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W75 Kurume,3,Carpet,QF,286,97,0,8,1,Emina Bektas,Su Jeong Jang,6-1 6-3,,,,,,,,,,,,,,
+13-May-2024,W75 Kurume,3,Carpet,R16,286,472,1,8,Q,Su Jeong Jang,Haruna Arakawa,7-6(3) 6-1,,,,,,,,,,,,,,
+13-May-2024,W75 Kurume,3,Carpet,R32,286,390,1,8,,Su Jeong Jang,Yuki Naito,6-1 6-4,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,SF,286,97,0,8,2,Emina Bektas,Su Jeong Jang,7-6(6) 4-6 7-5,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,QF,286,177,1,8,4,Su Jeong Jang,Ye Xin Ma,6-4 6-4,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,R16,286,,1,8,SR,Su Jeong Jang,Zarina Diyas,6-4 6-4,,,,,,,,,,,,,,
+6-May-2024,W75 Fukuoka,3,Carpet,R32,286,358,1,8,,Su Jeong Jang,Lizette Cabrera,2-6 6-3 6-1,,,,,,,,,,,,,,
+29-Apr-2024,W100 Gifu,3,Hard,QF,268,104,0,,1,Arina Rodionova,Su Jeong Jang,6-2 4-6 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Gifu,3,Hard,R16,268,140,1,,5,Su Jeong Jang,Yuriko Miyazaki,6-3 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Gifu,3,Hard,R32,268,351,1,,SE,Su Jeong Jang,Ena Shibahara,6-4 7-5,,,,,,,,,,,,,,
+22-Apr-2024,W100 Tokyo,3,Hard,R32,268,108,0,,1,Emina Bektas,Su Jeong Jang,6-3 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W50 Shenzhen,3,Hard,R16,267,452,0,6,,Zongyu Li,Su Jeong Jang,6-3 6-2,,,,,,,,,,,,,,
+15-Apr-2024,W50 Shenzhen,3,Hard,R32,267,374,1,6,,Su Jeong Jang,Anastasiia Gureva,6-2 6-1,,,,,,,,,,,,,,
+1-Apr-2024,W50 Kashiwa,3,Hard,R16,213,290,0,6,,Aoi Ito,Su Jeong Jang,6-2 6-3,,,,,,,,,,,,,,
+1-Apr-2024,W50 Kashiwa,3,Hard,R32,213,446,1,6,WC,Su Jeong Jang,Haruna Arakawa,7-6(5) 6-2,,,,,,,,,,,,,,
+25-Mar-2024,W50 Kofu,3,Hard,R32,215,247,0,6,,Mananchaya Sawangkaew,Su Jeong Jang,7-5 6-4,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q2,156,193,0,,,Lulu Sun,Su Jeong Jang,6-1 1-6 6-4,0.94,6.4%,2.6%,71.8%,57.1%,59.1%,44.4% (4/9),49.0%,39.7%,4.1%,31.0%,51.6%,57.1% (4/7),1:46
+15-Jan-2024,Australian Open,5,Hard,Q1,156,184,1,,,Su Jeong Jang,Noma Noha Akugue,6-1 6-4,1.30,0.0%,4.3%,68.1%,56.3%,33.3%,20.0% (1/5),58.7%,66.1%,0.0%,61.9%,75.0%,66.7% (8/12),1:19
+20-Nov-2023,W100 Takasaki,3,Hard,QF,163,87,0,,4,Yue Yuan,Su Jeong Jang,6-4 5-7 6-3,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R16,163,427,1,,Q,Su Jeong Jang,Aoi Ito,6-3 7-5,,,,,,,,,,,,,,
+20-Nov-2023,W100 Takasaki,3,Hard,R32,163,137,1,,7,Su Jeong Jang,Dalma Galfi,6-4 6-1,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R16,169,107,0,,5,Yue Yuan,Su Jeong Jang,6-3 6-4,,,,,,,,,,,,,,
+13-Nov-2023,W100 Takasaki,3,Hard,R32,169,182,1,,,Su Jeong Jang,Arianne Hartono,6-2 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W60 Sydney,3,Hard,QF,152,218,0,1,6,Destanee Aiava,Su Jeong Jang,6-3 6-7(5) 7-6(7),,,,,,,,,,,,,,
+30-Oct-2023,W60 Sydney,3,Hard,R16,152,268,1,1,,Su Jeong Jang,Taylah Preston,6-1 6-3,,,,,,,,,,,,,,
+30-Oct-2023,W60 Sydney,3,Hard,R32,152,301,1,1,,Su Jeong Jang,Talia Gibson,6-4 6-2,,,,,,,,,,,,,,
+23-Oct-2023,W60 Playford,3,Hard,R32,152,247,0,2,,Seone Mendez,Su Jeong Jang,6-4 6-3,,,,,,,,,,,,,,
+9-Oct-2023,Seoul,3,Hard,R16,162,116,0,,,Emina Bektas,Su Jeong Jang,6-3 6-4,0.87,5.6%,5.6%,68.5%,73.0%,35.3%,50.0% (3/6),46.6%,33.9%,4.8%,37.8%,28.0%,20.0% (1/5),1:37
+9-Oct-2023,Seoul,3,Hard,R32,162,30,1,,5,Su Jeong Jang,Sofia Kenin,6-1 6-4,1.38,1.7%,8.5%,59.3%,71.4%,54.2%,50.0% (1/2),57.0%,49.1%,1.8%,32.3%,70.8%,80.0% (4/5),1:31
+11-Sep-2023,Osaka,3,Hard,R32,155,176,0,,WC,Mai Hontama,Su Jeong Jang,7-5 0-6 6-2,0.94,0.0%,0.0%,78.7%,51.4%,63.2%,54.5% (6/11),49.1%,43.2%,0.0%,43.1%,43.8%,71.4% (5/7),2:19
+4-Sep-2023,W100 Tokyo,3,Hard,R32,152,243,0,,Q,Carol Zhao,Su Jeong Jang,6-3 1-6 6-2,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q2,152,365,0,,WC,Mccartney Kessler,Su Jeong Jang,6-2 6-4,0.82,0.0%,9.6%,59.6%,41.9%,38.1%,41.7% (5/12),45.0%,49.1%,0.0%,42.9%,59.1%,36.4% (4/11),1:35
+28-Aug-2023,US Open,5,Hard,Q1,152,220,1,,,Su Jeong Jang,Lucie Havlickova,6-1 7-6(5),1.56,7.4%,0.0%,66.7%,66.7%,77.8%,50.0% (1/2),57.1%,46.2%,6.2%,30.6%,65.5%,57.1% (4/7),1:31
+7-Aug-2023,W100 Landisville,3,Hard,SF,169,106,0,8,4,Madison Brengle,Su Jeong Jang,6-3 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W100 Landisville,3,Hard,QF,169,235,1,8,SE,Su Jeong Jang,Renata Zarazua,6-2 6-1,,,,,,,,,,,,,,
+7-Aug-2023,W100 Landisville,3,Hard,R16,169,585,1,8,Q,Su Jeong Jang,Allie Kiick,6-4 6-3,,,,,,,,,,,,,,
+7-Aug-2023,W100 Landisville,3,Hard,R32,169,534,1,8,Q,Su Jeong Jang,Alana Smith,6-3 6-0,,,,,,,,,,,,,,
+10-Jul-2023,Bastad 125,3,Clay,R32,124,75,0,,4,Rebecca Peterson,Su Jeong Jang,7-6(2) 6-4,,,,,,,,,,,,,,
+3-Jul-2023,W60 Liepaja,3,Clay,R16,124,283,0,2,14,Cristina Dinu,Su Jeong Jang,7-5 6-2,,,,,,,,,,,,,,
+3-Jul-2023,W60 Liepaja,3,Clay,R32,124,557,1,2,Q,Su Jeong Jang,Natalia Siedliska,6-1 6-2,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,124,192,0,20,,Coco Vandeweghe,Su Jeong Jang,6-3 2-6 6-3,0.96,9.8%,3.3%,75.0%,58.0%,60.9%,66.7% (8/12),49.4%,39.5%,3.5%,28.6%,50.0%,50.0% (3/6),2:10
+19-Jun-2023,Gaiba 125,3,Grass,R16,123,109,0,,6,Yue Yuan,Su Jeong Jang,6-1 6-0,0.54,2.9%,11.8%,70.6%,33.3%,20.0%,14.3% (1/7),34.6%,38.3%,4.3%,33.3%,47.1%,20.0% (1/5),1:02
+19-Jun-2023,Gaiba 125,3,Grass,R32,123,311,1,,WC,Su Jeong Jang,Camilla Rosatello,6-3 6-4,1.26,1.6%,4.8%,74.6%,72.3%,37.5%,50.0% (2/4),55.7%,46.2%,7.7%,53.1%,35.0%,57.1% (4/7),1:24
+29-May-2023,Roland Garros,5,Clay,Q1,117,148,0,7,,Reka Luca Jani,Su Jeong Jang,6-4 6-3,0.78,6.7%,1.7%,71.7%,55.8%,29.4%,44.4% (4/9),44.4%,40.4%,0.0%,39.5%,42.9%,100.0% (3/3),
+15-May-2023,Paris 125,3,Clay,R16,114,64,0,,7,Alize Cornet,Su Jeong Jang,6-1 7-5,0.44,0.0%,7.3%,65.5%,44.4%,52.6%,28.6% (2/7),36.3%,23.4%,0.0%,13.3%,41.2%,66.7% (2/3),1:27
+15-May-2023,Paris 125,3,Clay,R32,114,392,1,,WC,Su Jeong Jang,Fiona Ferro,6-3 6-1,1.49,0.0%,1.8%,72.7%,72.5%,40.0%,75.0% (3/4),59.2%,54.2%,0.0%,50.0%,62.5%,62.5% (5/8),1:17
+1-May-2023,W80 Gifu,3,Hard,SF,118,219,0,1,7,Himeno Sakatsume,Su Jeong Jang,6-4 6-3,,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,QF,118,367,1,1,,Su Jeong Jang,Rina Saigo,6-0 6-0,,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,R16,118,730,1,1,Q,Su Jeong Jang,Miho Kuramochi,6-4 7-6(2),,,,,,,,,,,,,,
+1-May-2023,W80 Gifu,3,Hard,R32,118,449,1,1,Q,Su Jeong Jang,Alana Parnaby,6-1 7-5,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,QF,132,297,0,1,,Maddison Inglis,Su Jeong Jang,7-6(3) 7-6(4),,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R16,132,303,1,1,,Su Jeong Jang,Arina Rodionova,6-1 4-6 6-4,,,,,,,,,,,,,,
+10-Apr-2023,W25 Osaka,3,Hard,R32,132,366,1,1,,Su Jeong Jang,Rina Saigo,6-1 6-1,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,F,144,124,0,1,2,Nao Hibino,Su Jeong Jang,6-4 6-3,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,SF,144,289,1,1,,Su Jeong Jang,Xiaodi You,6-4 5-7 6-0,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,QF,144,311,1,1,,Su Jeong Jang,Arina Rodionova,7-6(4) 3-6 6-0,,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R16,144,351,1,1,,Su Jeong Jang,Momoko Kobori,6-3 7-6(4),,,,,,,,,,,,,,
+3-Apr-2023,W25 Kashiwa,3,Hard,R32,144,360,1,1,,Su Jeong Jang,Talia Gibson,6-2 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,F,119,183,1,1,2,Su Jeong Jang,Na Lae Han,2-6 6-3 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,SF,119,557,1,1,SE,Su Jeong Jang,Yafan Wang,7-5 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,QF,119,298,1,1,6,Su Jeong Jang,Haruka Kaji,6-1 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R16,119,527,1,1,Q,Su Jeong Jang,Naho Sato,6-1 6-1,,,,,,,,,,,,,,
+27-Mar-2023,W25 Kofu,3,Hard,R32,119,767,1,1,Q,Su Jeong Jang,Natsumi Kawaguchi,6-7(2) 7-6(3) 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,F,137,136,1,2,1,Su Jeong Jang,Moyuka Uchijima,6-1 6-4,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,SF,137,146,1,2,5,Su Jeong Jang,Polina Kudermetova,6-2 6-7(5) 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,QF,137,236,1,2,,Su Jeong Jang,Tena Lukas,6-4 6-7(5) 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R16,137,258,1,2,,Su Jeong Jang,Vitalia Diatchenko,6-4 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W60 Astana,3,Hard,R32,137,1161,1,2,WC,Su Jeong Jang,Aruzhan Sagandikova,6-1 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,QF,141,167,0,2,5,Polina Kudermetova,Su Jeong Jang,7-5 7-6(2),,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R16,141,239,1,2,,Su Jeong Jang,Tena Lukas,4-6 6-4 7-5,,,,,,,,,,,,,,
+27-Feb-2023,W40 Astana,3,Hard,R32,141,222,1,2,,Su Jeong Jang,Natalija Stevanovic,6-4 5-7 6-3,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,Q2,145,99,0,,15,Viktoriya Tomova,Su Jeong Jang,6-3 7-5,0.77,0.0%,1.6%,77.4%,50.0%,50.0%,16.7% (1/6),43.9%,38.6%,1.4%,32.7%,52.4%,100.0% (3/3),1:48
+20-Feb-2023,Dubai,3,Hard,Q1,145,56,1,,2,Su Jeong Jang,Anna Kalinskaya,3-6 7-6(6) 6-2,0.97,1.1%,1.1%,71.9%,75.0%,60.0%,0.0% (0/1),49.7%,28.4%,0.0%,27.3%,30.3%,28.6% (2/7),2:24
+6-Feb-2023,Abu Dhabi,3,Hard,Q1,143,104,0,,9,Magdalena Frech,Su Jeong Jang,4-6 7-5 6-2,0.90,0.0%,0.0%,75.3%,62.9%,47.8%,64.3% (9/14),47.6%,36.7%,2.0%,24.2%,58.3%,30.0% (3/10),2:38
+30-Jan-2023,Hua Hin,3,Hard,R16,149,54,0,,,Lin Zhu,Su Jeong Jang,6-4 7-6(6),0.94,3.2%,4.3%,69.1%,52.3%,41.4%,60.0% (9/15),48.5%,47.9%,0.0%,35.1%,61.8%,100.0% (5/5),2:21
+30-Jan-2023,Hua Hin,3,Hard,R32,149,121,1,,,Su Jeong Jang,Katie Boulter,6-3 4-6 6-3,1.13,1.0%,3.1%,68.8%,56.1%,53.3%,64.3% (9/14),52.8%,50.5%,3.1%,33.3%,75.0%,63.6% (7/11),2:39
+16-Jan-2023,Australian Open,5,Hard,Q2,143,178,0,,,Yuriko Miyazaki,Su Jeong Jang,6-4 7-6(2),0.87,4.3%,6.5%,73.1%,51.5%,52.0%,50.0% (5/10),47.3%,41.9%,0.0%,31.0%,56.3%,57.1% (4/7),1:57
+16-Jan-2023,Australian Open,5,Hard,Q1,143,103,1,,7,Su Jeong Jang,Sara Errani,7-6(5) 6-4,1.22,10.1%,0.0%,75.9%,66.7%,42.1%,57.1% (4/7),53.9%,47.7%,0.0%,46.2%,52.2%,33.3% (4/12),2:11
+2-Jan-2023,W60 Canberra,3,Hard,R32,143,131,0,,6,Jodie Burrage,Su Jeong Jang,6-4 6-7(7) 6-3,,,,,,,,,,,,,,
+21-Nov-2022,Montevideo 125,3,Clay,R32,124,226,0,8,,Rosa Vicens Mas,Su Jeong Jang,6-1 2-6 7-6(6),1.08,0.0%,0.0%,72.8%,64.2%,60.0%,75.0% (9/12),51.0%,40.0%,0.0%,37.7%,43.6%,50.0% (3/6),3:16
+14-Nov-2022,Buenos Aires 125,3,Clay,R32,118,160,0,9,,Maria Lourdes Carle,Su Jeong Jang,6-4 7-6(6),0.98,0.0%,3.6%,77.1%,62.5%,31.6%,50.0% (4/8),49.4%,43.8%,4.5%,36.0%,53.8%,27.3% (3/11),2:36
+7-Nov-2022,Colina 125,3,Clay,R32,115,172,0,6,,Caroline Dolehide,Su Jeong Jang,6-2 6-2,0.52,0.0%,0.0%,81.1%,48.8%,40.0%,37.5% (3/8),38.0%,27.7%,2.1%,25.0%,66.7%,20.0% (1/5),1:10
 31-Oct-2022,Midland 125,3,Hard,R16,116,111,0,,7,Caty Mcnally,Su Jeong Jang,6-3 6-2,0.67,3.3%,1.6%,82.0%,54.0%,36.4%,42.9% (3/7),42.2%,32.7%,0.0%,21.2%,50.0%,50.0% (1/2),1:31
 31-Oct-2022,Midland 125,3,Hard,R32,116,176,1,,Q,Su Jeong Jang,Kayla Day,6-3 3-6 6-3,1.26,2.5%,2.5%,78.8%,71.4%,52.9%,71.4% (5/7),53.6%,40.9%,2.3%,39.3%,43.8%,30.0% (3/10),2:21
 24-Oct-2022,W60 Toronto,3,Hard,F,127,180,0,1,4,Robin Anderson,Su Jeong Jang,6-2 6-4,,,,,,,,,,,,,,
@@ -26,7 +108,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jun-2022,Wimbledon,5,Grass,Q2,155,218,1,23,,Su Jeong Jang,Rebecca Sramkova,3-6 6-4 6-3,1.26,6.2%,3.7%,67.9%,72.7%,61.5%,33.3% (1/3),53.2%,38.9%,10.0%,26.7%,51.1%,33.3% (3/9),2:04
 27-Jun-2022,Wimbledon,5,Grass,Q1,155,247,1,23,,Su Jeong Jang,Veronica Cepede Royg,7-6(4) 6-1,1.42,5.1%,2.6%,64.1%,62.0%,71.4%,80.0% (8/10),58.4%,49.2%,0.0%,40.0%,68.4%,57.1% (4/7),1:43
 13-Jun-2022,W100 Ilkley,3,Grass,R32,157,430,0,,Q,Aldila Sutjiadi,Su Jeong Jang,4-6 6-2 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,155,194,0,,,Sara Errani,Su Jeong Jang,6-1 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,155,194,0,,,Sara Errani,Su Jeong Jang,6-1 6-2,0.63,2.1%,10.4%,64.6%,32.3%,17.6%,46.7% (7/15),37.3%,46.3%,0.0%,43.9%,53.8%,50.0% (3/6),
 9-May-2022,Paris 125,3,Clay,R16,157,72,0,,4,Varvara Gracheva,Su Jeong Jang,6-4 5-7 7-5,0.97,1.5%,3.8%,76.5%,52.5%,35.5%,62.5% (15/24),49.2%,50.0%,0.0%,43.8%,70.4%,44.4% (8/18),3:16
 9-May-2022,Paris 125,3,Clay,R32,157,101,1,,,Su Jeong Jang,Chloe Paquet,6-4 6-1,1.49,0.0%,3.6%,74.5%,65.9%,42.9%,60.0% (3/5),59.8%,59.6%,0.0%,54.1%,73.3%,75.0% (6/8),1:28
 15-Apr-2022,BJK Cup G1 RR: JPN vs KOR,3,Clay,RR,145,129,1,,,Su Jeong Jang,Mai Hontama,6-3 6-2,1.30,0.0%,2.9%,66.7%,58.7%,52.2%,50.0% (3/6),56.6%,56.7%,0.0%,54.0%,70.0%,42.9% (6/14),1:43

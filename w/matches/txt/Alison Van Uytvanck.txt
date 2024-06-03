@@ -1,6 +1,42 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+13-May-2024,W100 Madrid,3,Clay,R32,407,159,0,SR,,Robin Montgomery,Alison Van Uytvanck,6-4 6-1,,,,,,,,,,,,,,
+6-May-2024,W35 BÃ¥stad,3,Clay,R16,407,356,0,,4,Berfu Cengiz,Alison Van Uytvanck,7-5 6-4,,,,,,,,,,,,,,
+6-May-2024,W35 BÃ¥stad,3,Clay,R32,407,981,1,,Q,Alison Van Uytvanck,Anouck Vrancken Peeters,6-4 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q2,493,201,0,,5,Julia Avdeeva,Alison Van Uytvanck,2-6 7-5 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q1,493,,1,,16,Alison Van Uytvanck,Anastasiya Konstantinovna Soboleva,6-3 6-7(4) 3-0 RET,,,,,,,,,,,,,,
+15-Apr-2024,W35 Hammamet,3,Clay,R16,491,1163,1,,Q,Alison Van Uytvanck,Viola Turini,3-6 6-3 6-4,,,,,,,,,,,,,,
+15-Apr-2024,W35 Hammamet,3,Clay,R32,491,364,1,,8,Alison Van Uytvanck,Audrey Albie,7-6(5) 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,R16,502,147,0,WC,6,Celine Naef,Alison Van Uytvanck,6-2 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,R32,502,401,1,WC,Q,Alison Van Uytvanck,Sarah Beth Grey,6-3 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W50 Macon,3,Hard,R16,513,447,0,WC,WC,Audrey Albie,Alison Van Uytvanck,4-2 RET,,,,,,,,,,,,,,
+26-Feb-2024,W50 Macon,3,Hard,R32,513,352,1,WC,,Alison Van Uytvanck,Ayla Aksu,6-3 2-6 6-4,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,F,706,246,0,WC,,Julia Avdeeva,Alison Van Uytvanck,6-4 6-4,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,SF,706,792,1,WC,WC,Alison Van Uytvanck,Nastasja Schunk,6-4 5-7 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,QF,706,284,1,WC,,Alison Van Uytvanck,Kathinka Von Deichmann,6-1 7-5,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R16,706,371,1,WC,Q,Alison Van Uytvanck,Vivian Wolff,2-6 6-4 6-0,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R32,706,86,1,WC,2,Alison Van Uytvanck,Clara Tauson,6-2 5-7 7-6(1),,,,,,,,,,,,,,
+16-Oct-2023,W60 Hamburg,3,Hard,R32,296,562,0,8,,Lara Schmidt,Alison Van Uytvanck,2-1 RET,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,F,368,353,1,,7,Alison Van Uytvanck,Julia Avdeeva,6-4 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,SF,368,500,1,,Q,Alison Van Uytvanck,Martyna Kubka,7-6(5) 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,QF,368,418,1,,,Alison Van Uytvanck,Emeline Dartron,6-2 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,R16,368,643,1,,Q,Alison Van Uytvanck,Marina Melnikova,6-1 6-1,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,R32,368,478,1,,,Alison Van Uytvanck,Anouk Koevermans,6-3 7-5,,,,,,,,,,,,,,
+6-Feb-2023,Linz,3,Hard,R16,76,34,0,,6,Petra Martic,Alison Van Uytvanck,6-4 6-7(5) 7-6(3),0.82,2.5%,0.8%,61.9%,68.5%,40.0%,42.9% (3/7),46.7%,34.6%,6.5%,28.4%,45.0%,60.0% (3/5),2:44
+6-Feb-2023,Linz,3,Hard,R32,76,50,1,,,Alison Van Uytvanck,Linda Noskova,7-6(3) 6-2,1.18,9.3%,4.0%,61.3%,69.6%,31.0%,50.0% (4/8),54.0%,53.5%,2.3%,52.8%,54.5%,60.0% (6/10),1:36
+30-Jan-2023,Lyon,3,Hard,R16,76,5,0,,1,Caroline Garcia,Alison Van Uytvanck,2-6 6-0 6-1,0.71,3.2%,7.9%,49.2%,51.6%,43.8%,57.1% (8/14),42.1%,37.1%,10.0%,27.0%,48.5%,75.0% (3/4),1:38
+30-Jan-2023,Lyon,3,Hard,R32,76,78,1,,,Alison Van Uytvanck,Tamara Korpatsch,6-2 6-4,1.28,10.0%,2.0%,54.0%,70.4%,34.8%,42.9% (3/7),56.9%,59.1%,0.0%,34.5%,78.4%,50.0% (7/14),1:30
+16-Jan-2023,Australian Open,5,Hard,R128,68,15,0,,15,Petra Kvitova,Alison Van Uytvanck,7-6(3) 6-2,0.54,4.0%,4.0%,69.3%,65.4%,43.5%,71.4% (5/7),42.9%,22.4%,8.6%,15.2%,32.0%,- (0/0),1:32
+9-Jan-2023,Hobart,3,Hard,R16,70,89,0,,LL,Xin Yu Wang,Alison Van Uytvanck,7-5 4-6 6-3,0.83,11.8%,1.0%,67.6%,68.1%,51.5%,84.2% (16/19),47.0%,31.0%,3.0%,30.6%,31.6%,33.3% (2/6),2:20
+9-Jan-2023,Hobart,3,Hard,R32,70,46,1,,7,Alison Van Uytvanck,Magda Linette,6-4 1-6 6-4,1.04,2.4%,1.2%,62.4%,66.0%,37.5%,64.3% (9/14),51.2%,46.7%,1.3%,42.9%,53.8%,83.3% (5/6),2:04
+2-Jan-2023,United Cup,3,Hard,RR,72,379,1,,,Alison Van Uytvanck,Isabella Shinikova,6-1 3-6 6-3,1.35,4.0%,0.0%,62.7%,70.2%,60.7%,66.7% (4/6),55.4%,45.1%,3.7%,38.8%,54.5%,57.1% (4/7),1:43
+2-Jan-2023,United Cup,3,Hard,RR,72,158,1,,,Alison Van Uytvanck,Despina Papamichail,7-5 2-6 6-3,0.95,3.0%,5.0%,62.0%,62.9%,36.8%,50.0% (6/12),49.0%,44.8%,0.0%,41.3%,51.5%,46.2% (6/13),2:30
+5-Dec-2022,Angers 125,3,Hard,R32,55,224,0,3,Q,Magali Kempen,Alison Van Uytvanck,6-2 3-6 6-3,0.96,0.0%,6.4%,64.1%,64.0%,28.6%,36.4% (4/11),48.9%,46.9%,2.1%,46.3%,48.3%,35.7% (5/14),2:03
+28-Nov-2022,Andorra 125,3,Hard,QF,55,108,0,2,8,Cristina Bucsa,Alison Van Uytvanck,3-6 6-3 6-4,0.88,4.5%,2.3%,62.5%,70.9%,27.3%,58.3% (7/12),46.8%,39.8%,0.0%,33.8%,51.5%,30.8% (4/13),2:06
+28-Nov-2022,Andorra 125,3,Hard,R16,55,166,1,2,,Alison Van Uytvanck,Katrina Scott,7-5 6-2,1.40,5.3%,3.5%,52.6%,80.0%,51.9%,33.3% (1/3),56.4%,46.7%,1.7%,39.4%,55.6%,71.4% (5/7),1:26
+28-Nov-2022,Andorra 125,3,Hard,R32,55,334,1,2,SR,Alison Van Uytvanck,Yanina Wickmayer,6-4 6-4,1.55,8.8%,3.5%,63.2%,80.6%,61.9%,- (0/0),54.9%,40.8%,3.9%,39.2%,44.0%,25.0% (2/8),1:28
+10-Nov-2022,BJK Cup Finals RR: AUS vs BEL,3,Hard,RR,54,237,0,,,Storm Hunter,Alison Van Uytvanck,6-2 6-2,,,,,,,,,,,,,,
 29-Aug-2022,US Open,5,Hard,R64,43,131,0,,,Clara Burel,Alison Van Uytvanck,6-4 4-6 6-4,0.95,1.1%,2.2%,63.3%,54.4%,48.5%,46.2% (6/13),48.6%,45.3%,2.1%,39.6%,51.1%,46.2% (6/13),1:55
-29-Aug-2022,US Open,5,Hard,R128,43,1504,1,,,Alison Van Uytvanck,Venus Williams,6-1 7-6(5) (ch),1.52,5.5%,7.3%,63.6%,77.1%,55.0%,66.7% (2/3),55.6%,47.1%,3.4%,35.3%,63.9%,33.3% (4/12),1:47
+29-Aug-2022,US Open,5,Hard,R128,43,1504,1,,,Alison Van Uytvanck,Venus Williams,6-1 7-6(5),1.52,5.5%,7.3%,63.6%,77.1%,55.0%,66.7% (2/3),55.6%,47.1%,3.4%,35.3%,63.9%,33.3% (4/12),1:47
 25-Jul-2022,Prague,3,Hard,R32,42,259,0,6,Q,Dalila Jakupovic,Alison Van Uytvanck,5-2 RET,0.77,3.7%,11.1%,33.3%,55.6%,38.9%,60.0% (3/5),43.5%,42.9%,2.9%,47.4%,37.5%,33.3% (1/3),0:51
 27-Jun-2022,Wimbledon,5,Grass,R128,46,11,0,,10,Emma Raducanu,Alison Van Uytvanck,6-4 6-4,0.81,4.3%,7.1%,58.6%,61.0%,41.4%,66.7% (8/12),45.7%,38.2%,4.4%,35.4%,45.0%,28.6% (2/7),1:41
 20-Jun-2022,Bad Homburg,3,Grass,R32,46,25,0,,6,Amanda Anisimova,Alison Van Uytvanck,3-6 6-3 7-6(4),0.98,3.1%,4.2%,64.6%,67.7%,50.0%,60.0% (6/10),49.5%,37.8%,2.0%,36.7%,42.1%,57.1% (4/7),1:57
@@ -9,7 +45,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jun-2022,Gaiba 125,3,Grass,QF,47,111,1,1,,Alison Van Uytvanck,Ylena In Albon,6-4 6-2,1.58,9.6%,3.8%,57.7%,76.7%,50.0%,50.0% (2/4),59.8%,54.5%,0.0%,54.3%,55.0%,83.3% (5/6),1:09
 13-Jun-2022,Gaiba 125,3,Grass,R16,47,151,1,1,,Alison Van Uytvanck,Ysaline Bonaventure,6-2 6-2,1.71,7.0%,4.7%,44.2%,68.4%,66.7%,0.0% (0/1),61.6%,55.8%,2.3%,50.0%,66.7%,55.6% (5/9),0:45
 13-Jun-2022,Gaiba 125,3,Grass,R32,47,254,1,1,WC,Alison Van Uytvanck,Cristiana Ferrando,6-4 6-1,1.35,2.0%,5.9%,45.1%,73.9%,50.0%,33.3% (1/3),56.5%,53.1%,7.8%,37.5%,68.8%,85.7% (6/7),1:11
-6-Jun-2022,s Hertogenbosch,3,Grass,QF,46,6,0,,1,Aryna Sabalenka,Alison Van Uytvanck,6-3 3-6 7-6(5) (ch),0.89,3.0%,1.0%,72.3%,72.6%,35.7%,60.0% (3/5),48.7%,33.3%,4.4%,27.1%,45.2%,50.0% (2/4),2:05
+6-Jun-2022,s Hertogenbosch,3,Grass,QF,46,6,0,,1,Aryna Sabalenka,Alison Van Uytvanck,6-3 3-6 7-6(5),0.89,3.0%,1.0%,72.3%,72.6%,35.7%,60.0% (3/5),48.7%,33.3%,4.4%,27.1%,45.2%,50.0% (2/4),2:05
 6-Jun-2022,s Hertogenbosch,3,Grass,R16,46,29,1,,8,Alison Van Uytvanck,Elise Mertens,6-2 6-3,1.53,2.0%,2.0%,52.9%,81.5%,50.0%,71.4% (5/7),59.2%,51.1%,4.3%,45.7%,66.7%,50.0% (5/10),1:11
 6-Jun-2022,s Hertogenbosch,3,Grass,R32,46,105,1,,,Alison Van Uytvanck,Tamara Korpatsch,6-4 7-5,1.12,4.1%,3.1%,64.3%,63.5%,54.3%,77.8% (7/9),53.5%,44.4%,1.4%,41.0%,48.5%,40.0% (4/10),1:51
 30-May-2022,W100 Surbiton,3,Grass,F,,,1,2,,Alison Van Uytvanck,Arina Rodionova,7-6(3) 6-2,,,,,,,,,,,,,,
@@ -17,8 +53,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-May-2022,W100 Surbiton,3,Grass,QF,,264,1,2,Q,Alison Van Uytvanck,Natalija Stevanovic,6-0 6-3,,,,,,,,,,,,,,
 30-May-2022,W100 Surbiton,3,Grass,R16,,,1,2,,Alison Van Uytvanck,Alycia Parks,2-6 7-5 7-5,,,,,,,,,,,,,,
 30-May-2022,W100 Surbiton,3,Grass,R32,,,1,2,,Alison Van Uytvanck,Lesley Pattinama Kerkhove,6-3 6-4,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R64,60,23,0,,18,Cori Gauff,Alison Van Uytvanck,6-1 7-6(4),,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,R128,60,67,1,,,Alison Van Uytvanck,Ann Li,3-6 2-3 RET,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R64,60,23,0,,18,Coco Gauff,Alison Van Uytvanck,6-1 7-6(4),0.78,3.1%,4.7%,64.1%,53.7%,26.1%,50.0% (6/12),43.8%,43.8%,6.3%,33.3%,63.6%,44.4% (4/9),
+23-May-2022,Roland Garros,5,Clay,R128,60,67,1,,,Alison Van Uytvanck,Ann Li,3-6 2-3 RET,0.88,0.0%,4.9%,53.7%,54.5%,42.1%,20.0% (1/5),46.4%,44.9%,1.4%,41.3%,52.2%,28.6% (2/7),
 9-May-2022,Karlsruhe 125,3,Clay,R16,60,249,0,1,,Anna Lena Friedsam,Alison Van Uytvanck,7-6(2) 6-7(5) 6-3,0.90,1.7%,1.7%,58.3%,61.2%,52.1%,50.0% (4/8),47.5%,38.2%,1.6%,34.6%,45.2%,30.0% (3/10),2:49
 9-May-2022,Karlsruhe 125,3,Clay,R32,60,108,1,1,,Alison Van Uytvanck,Tamara Korpatsch,6-4 6-1,1.30,0.0%,4.8%,57.1%,75.0%,48.1%,100.0% (4/4),55.6%,47.5%,3.3%,41.7%,56.0%,36.4% (4/11),1:33
 21-Mar-2022,Miami,3,Hard,R128,56,55,0,,,Marta Kostyuk,Alison Van Uytvanck,4-6 6-2 6-1,0.76,0.0%,2.5%,60.0%,58.3%,34.4%,53.8% (7/13),43.6%,38.8%,2.4%,30.2%,63.6%,42.9% (3/7),1:56
@@ -46,7 +82,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2021,Cluj-Napoca 2,3,Hard,R16,61,14,0,,2,Anett Kontaveit,Alison Van Uytvanck,6-3 6-4,0.71,5.5%,1.8%,56.4%,64.5%,33.3%,50.0% (4/8),42.6%,35.0%,5.0%,28.9%,45.5%,66.7% (2/3),1:10
 25-Oct-2021,Cluj-Napoca 2,3,Hard,R32,61,76,1,,,Alison Van Uytvanck,Danka Kovinic,6-4 6-4,1.25,4.2%,2.8%,60.6%,67.4%,50.0%,62.5% (5/8),54.9%,49.3%,1.4%,50.0%,48.7%,38.5% (5/13),1:37
 18-Oct-2021,Tenerife,3,Hard,R32,58,74,0,,,Danka Kovinic,Alison Van Uytvanck,6-3 6-3,0.59,1.8%,0.0%,54.4%,51.6%,46.2%,50.0% (4/8),40.2%,30.0%,0.0%,24.3%,46.2%,100.0% (1/1),1:21
-27-Sep-2021,Nur-Sultan,3,Hard,F,89,47,1,2,1,Alison Van Uytvanck,Yulia Putintseva,1-6 6-4 6-3 (ch),0.91,2.5%,1.3%,67.5%,50.0%,46.2%,45.5% (5/11),47.7%,46.9%,1.0%,45.6%,50.0%,42.9% (6/14),2:20
+27-Sep-2021,Nur-Sultan,3,Hard,F,89,47,1,2,1,Alison Van Uytvanck,Yulia Putintseva,1-6 6-4 6-3,0.91,2.5%,1.3%,67.5%,50.0%,46.2%,45.5% (5/11),47.7%,46.9%,1.0%,45.6%,50.0%,42.9% (6/14),2:20
 27-Sep-2021,Nur-Sultan,3,Hard,SF,89,126,1,2,,Alison Van Uytvanck,Jaqueline Cristian,6-3 6-3,1.41,5.0%,6.7%,60.0%,72.2%,41.7%,50.0% (2/4),58.3%,56.4%,1.8%,63.3%,48.0%,55.6% (5/9),1:16
 27-Sep-2021,Nur-Sultan,3,Hard,QF,89,88,1,2,7,Alison Van Uytvanck,Varvara Gracheva,6-4 6-4,1.53,5.7%,3.8%,56.6%,76.7%,56.5%,0.0% (0/2),57.9%,49.2%,3.3%,44.7%,56.5%,50.0% (4/8),1:20
 27-Sep-2021,Nur-Sultan,3,Hard,R16,89,131,1,2,,Alison Van Uytvanck,Anna Lena Friedsam,6-4 3-6 6-4,1.11,9.8%,0.0%,62.2%,74.5%,48.4%,40.0% (2/5),51.5%,39.3%,5.6%,30.9%,52.9%,50.0% (4/8),1:56
@@ -84,7 +120,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2020,Roland Garros,5,Clay,R128,65,50,1,,,Alison Van Uytvanck,Rebecca Peterson,2-6 6-3 6-1,1.38,0.0%,0.0%,58.6%,70.6%,54.2%,0.0% (0/4),55.8%,50.0%,1.3%,45.8%,56.3%,46.2% (6/13),1:44
 21-Sep-2020,Strasbourg,3,Clay,R32,65,38,0,,,Anastasia Pavlyuchenkova,Alison Van Uytvanck,6-3 7-5,0.81,1.3%,3.9%,67.5%,59.6%,56.0%,66.7% (6/9),46.9%,33.8%,0.0%,28.8%,50.0%,12.5% (1/8),1:37
 7-Sep-2020,Istanbul,3,Clay,R16,60,92,0,6,,Danka Kovinic,Alison Van Uytvanck,6-3 6-4,0.81,0.0%,2.0%,47.1%,79.2%,51.9%,33.3% (1/3),44.7%,28.6%,1.6%,27.3%,30.0%,0.0% (0/5),1:30
-7-Sep-2020,Istanbul,3,Clay,R32,60,85,1,6,,Alison Van Uytvanck,Viktoria Kuzmova,6-3 6-4,1.87,6.7%,0.0%,62.2%,85.7%,58.8%,0.0% (0/1),58.7%,45.8%,8.5%,29.4%,68.0%,66.7% (4/6),1:12
+7-Sep-2020,Istanbul,3,Clay,R32,60,85,1,6,,Alison Van Uytvanck,Viktoria Hruncakova,6-3 6-4,1.87,6.7%,0.0%,62.2%,85.7%,58.8%,0.0% (0/1),58.7%,45.8%,8.5%,29.4%,68.0%,66.7% (4/6),1:12
 31-Aug-2020,US Open,5,Hard,R128,60,74,0,,,Camila Giorgi,Alison Van Uytvanck,2-6 6-1 7-5,0.90,5.6%,5.6%,55.1%,49.0%,55.0%,50.0% (6/12),47.7%,43.4%,0.0%,39.0%,47.6%,55.6% (5/9),1:52
 24-Aug-2020,Cincinnati,3,Hard,R64,58,72,0,,Q,Arantxa Rus,Alison Van Uytvanck,6-2 6-3,0.71,7.8%,2.0%,70.6%,55.6%,40.0%,42.9% (3/7),42.1%,34.9%,0.0%,26.2%,52.4%,25.0% (1/4),1:26
 3-Aug-2020,Palermo,3,Clay,R32,57,15,0,,1,Petra Martic,Alison Van Uytvanck,6-0 6-3,0.60,0.0%,4.7%,48.8%,71.4%,31.8%,50.0% (4/8),39.4%,29.4%,3.9%,21.9%,42.1%,0.0% (0/4),1:05
@@ -103,9 +139,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Jan-2020,Hobart,3,Hard,R32,47,60,0,,,Alize Cornet,Alison Van Uytvanck,7-5 1-6 6-2,1.02,0.0%,4.8%,61.4%,60.8%,37.5%,25.0% (2/8),50.3%,49.0%,2.0%,41.8%,58.1%,42.9% (6/14),2:13
 16-Dec-2019,Limoges,3,Hard,R32,47,84,0,3,,Sara Sorribes Tormo,Alison Van Uytvanck,6-4 6-4,0.87,2.7%,1.4%,54.8%,70.0%,33.3%,55.6% (5/9),47.1%,40.3%,1.5%,31.9%,60.0%,33.3% (2/6),1:42
 14-Oct-2019,Luxembourg,3,Hard,R32,48,111,0,4,Q,Monica Niculescu,Alison Van Uytvanck,2-4 RET,1.29,3.8%,0.0%,80.8%,61.9%,40.0%,75.0% (3/4),56.3%,54.5%,0.0%,52.6%,66.7%,100.0% (2/2),0:41
-7-Oct-2019,Linz,3,Hard,R16,44,8,0,,1,Kiki Bertens,Alison Van Uytvanck,4-6 6-3 6-3 (ch),0.82,2.5%,2.5%,65.0%,67.3%,53.6%,62.5% (5/8),46.1%,30.6%,1.2%,16.4%,56.7%,16.7% (1/6),1:57
+7-Oct-2019,Linz,3,Hard,R16,44,8,0,,1,Kiki Bertens,Alison Van Uytvanck,4-6 6-3 6-3,0.82,2.5%,2.5%,65.0%,67.3%,53.6%,62.5% (5/8),46.1%,30.6%,1.2%,16.4%,56.7%,16.7% (1/6),1:57
 7-Oct-2019,Linz,3,Hard,R32,44,113,1,,LL,Alison Van Uytvanck,Ysaline Bonaventure,6-3 6-2,1.63,10.2%,2.0%,63.3%,77.4%,55.6%,100.0% (1/1),58.4%,50.0%,4.7%,43.2%,65.0%,40.0% (4/10),1:04
-23-Sep-2019,Tashkent,3,Hard,F,61,96,1,3,8,Alison Van Uytvanck,Sorana Cirstea,6-2 4-6 6-4 (ch),1.14,3.5%,2.7%,60.2%,66.2%,57.8%,80.0% (8/10),53.3%,42.4%,3.0%,34.5%,53.7%,33.3% (4/12),2:24
+23-Sep-2019,Tashkent,3,Hard,F,61,96,1,3,8,Alison Van Uytvanck,Sorana Cirstea,6-2 4-6 6-4,1.14,3.5%,2.7%,60.2%,66.2%,57.8%,80.0% (8/10),53.3%,42.4%,3.0%,34.5%,53.7%,33.3% (4/12),2:24
 23-Sep-2019,Tashkent,3,Hard,SF,61,80,1,3,5,Alison Van Uytvanck,Kristyna Pliskova,6-3 7-5,1.20,8.7%,2.9%,59.4%,75.6%,50.0%,66.7% (2/3),53.2%,41.7%,8.3%,30.6%,65.2%,57.1% (4/7),1:25
 23-Sep-2019,Tashkent,3,Hard,QF,61,127,1,3,,Alison Van Uytvanck,Pauline Parmentier,6-2 6-4,1.25,3.5%,0.0%,70.2%,60.0%,41.2%,25.0% (1/4),55.7%,56.9%,0.0%,37.5%,70.6%,60.0% (6/10),1:17
 23-Sep-2019,Tashkent,3,Hard,R16,61,106,1,3,,Alison Van Uytvanck,Monica Niculescu,6-2 6-1,1.55,1.8%,1.8%,58.9%,57.6%,73.9%,87.5% (7/8),60.2%,55.3%,0.0%,55.0%,57.1%,45.5% (5/11),1:11
@@ -115,7 +151,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Sep-2019,Hiroshima,3,Hard,R16,63,114,1,3,,Alison Van Uytvanck,Kirsten Flipkens,6-2 3-6 6-3,1.11,6.0%,4.8%,60.7%,56.9%,57.6%,60.0% (6/10),52.3%,47.7%,4.5%,47.2%,48.6%,60.0% (6/10),1:55
 9-Sep-2019,Hiroshima,3,Hard,R32,63,118,1,3,,Alison Van Uytvanck,Ysaline Bonaventure,6-4 6-2,1.56,8.6%,6.9%,53.4%,74.2%,55.6%,75.0% (6/8),59.8%,53.7%,1.9%,52.8%,55.6%,45.5% (5/11),1:10
 26-Aug-2019,US Open,5,Hard,R64,68,18,0,,18,Qiang Wang,Alison Van Uytvanck,7-5 6-4,0.77,1.4%,0.0%,68.1%,67.3%,43.5%,50.0% (3/6),45.5%,31.0%,5.6%,28.0%,38.1%,25.0% (1/4),1:39
-26-Aug-2019,US Open,5,Hard,R128,68,55,1,,,Alison Van Uytvanck,Viktoria Kuzmova,6-4 6-4,1.13,4.6%,1.5%,61.5%,67.5%,40.0%,62.5% (5/8),52.7%,48.5%,6.1%,42.5%,57.7%,50.0% (5/10),1:22
+26-Aug-2019,US Open,5,Hard,R128,68,55,1,,,Alison Van Uytvanck,Viktoria Hruncakova,6-4 6-4,1.13,4.6%,1.5%,61.5%,67.5%,40.0%,62.5% (5/8),52.7%,48.5%,6.1%,42.5%,57.7%,50.0% (5/10),1:22
 19-Aug-2019,New York,3,Hard,R32,66,76,0,,Q,Anastasia Potapova,Alison Van Uytvanck,4-6 6-4 6-2,0.91,3.4%,5.6%,60.7%,63.0%,40.0%,33.3% (3/9),47.8%,42.1%,0.0%,30.8%,55.8%,40.0% (4/10),1:58
 12-Aug-2019,W100 Vancouver,3,Hard,R32,63,206,0,,,Maddison Inglis,Alison Van Uytvanck,6-2 2-2 RET,,,,,,,,,,,,,,
 29-Jul-2019,Karlsruhe,3,Clay,F,65,223,0,2,,Patricia Maria Tig,Alison Van Uytvanck,3-6 6-1 6-2,0.73,1.4%,7.1%,71.4%,48.0%,50.0%,25.0% (2/8),43.0%,37.5%,1.4%,36.6%,38.7%,42.9% (3/7),1:38
@@ -123,7 +159,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jul-2019,Karlsruhe,3,Clay,QF,65,204,1,2,,Alison Van Uytvanck,Tereza Mrdeza,6-1 6-3,1.64,3.8%,1.9%,51.9%,74.1%,52.0%,50.0% (2/4),61.8%,60.0%,0.0%,51.6%,73.7%,60.0% (6/10),1:09
 29-Jul-2019,Karlsruhe,3,Clay,R16,65,253,1,2,Q,Alison Van Uytvanck,Laura Ioana Andrei,6-2 6-3,2.03,11.4%,0.0%,52.3%,78.3%,71.4%,100.0% (1/1),60.2%,50.7%,0.0%,47.1%,61.1%,33.3% (4/12),1:09
 29-Jul-2019,Karlsruhe,3,Clay,R32,65,123,1,2,,Alison Van Uytvanck,Greet Minnen,6-4 1-6 6-1,1.16,4.6%,3.4%,48.3%,73.8%,48.9%,57.1% (4/7),53.7%,45.3%,4.0%,36.4%,58.1%,57.1% (4/7),1:46
-1-Jul-2019,Wimbledon,5,Grass,R64,58,1,0,,1,Ashleigh Barty,Alison Van Uytvanck,6-1 6-3 (ch),0.54,2.2%,4.4%,68.9%,48.4%,35.7%,28.6% (2/7),37.5%,30.2%,4.7%,20.8%,42.1%,100.0% (1/1),0:55
+1-Jul-2019,Wimbledon,5,Grass,R64,58,1,0,,1,Ashleigh Barty,Alison Van Uytvanck,6-1 6-3,0.54,2.2%,4.4%,68.9%,48.4%,35.7%,28.6% (2/7),37.5%,30.2%,4.7%,20.8%,42.1%,100.0% (1/1),0:55
 1-Jul-2019,Wimbledon,5,Grass,R128,58,104,1,,,Alison Van Uytvanck,Svetlana Kuznetsova,6-4 4-6 6-2,1.06,0.0%,3.1%,51.5%,62.0%,48.9%,70.6% (12/17),51.7%,46.8%,3.8%,50.0%,35.3%,50.0% (7/14),1:45
 17-Jun-2019,Mallorca,3,Grass,R16,57,58,0,,,Yafan Wang,Alison Van Uytvanck,7-6(3) 6-3,0.80,10.5%,3.9%,68.4%,57.7%,41.7%,50.0% (4/8),45.2%,38.0%,5.1%,34.2%,41.5%,33.3% (3/9),1:44
 17-Jun-2019,Mallorca,3,Grass,R32,57,38,1,,8,Alison Van Uytvanck,Katerina Siniakova,6-2 3-6 6-3,1.25,8.5%,2.4%,72.0%,66.1%,56.5%,62.5% (5/8),54.5%,45.8%,1.2%,39.2%,56.3%,41.7% (5/12),1:49
@@ -143,13 +179,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Apr-2019,Lugano,3,Clay,R32,52,121,1,4,,Alison Van Uytvanck,Tereza Smitkova,6-2 0-6 6-4,0.99,2.3%,3.4%,67.0%,61.0%,44.8%,73.3% (11/15),50.6%,43.9%,1.5%,45.2%,42.9%,66.7% (4/6),1:47
 4-Mar-2019,Indian Wells,3,Hard,R64,51,23,0,,23,Belinda Bencic,Alison Van Uytvanck,6-4 6-1,0.69,5.4%,1.8%,66.1%,54.1%,26.3%,14.3% (1/7),41.7%,38.5%,1.9%,19.4%,81.3%,28.6% (2/7),1:13
 4-Mar-2019,Indian Wells,3,Hard,R128,51,46,1,,,Alison Van Uytvanck,Alison Riske Amritraj,7-6(1) 6-4,1.16,1.1%,3.4%,66.7%,69.0%,37.9%,66.7% (6/9),52.9%,48.0%,1.0%,43.9%,55.9%,36.4% (4/11),2:09
-18-Feb-2019,Budapest,3,Hard,F,50,81,1,1,8,Alison Van Uytvanck,Marketa Vondrousova,1-6 7-5 6-2 (ch),1.03,1.2%,4.8%,63.9%,60.4%,43.3%,45.5% (5/11),50.6%,47.2%,2.2%,42.6%,52.4%,46.2% (6/13),2:00
-18-Feb-2019,Budapest,3,Hard,SF,50,64,1,1,5,Alison Van Uytvanck,Ekaterina Alexandrova,3-6 6-4 7-6(7) (ch),0.86,1.9%,0.0%,75.2%,60.8%,38.5%,44.4% (4/9),47.1%,38.4%,7.1%,35.1%,42.9%,50.0% (4/8),2:15
+18-Feb-2019,Budapest,3,Hard,F,50,81,1,1,8,Alison Van Uytvanck,Marketa Vondrousova,1-6 7-5 6-2,1.03,1.2%,4.8%,63.9%,60.4%,43.3%,45.5% (5/11),50.6%,47.2%,2.2%,42.6%,52.4%,46.2% (6/13),2:00
+18-Feb-2019,Budapest,3,Hard,SF,50,64,1,1,5,Alison Van Uytvanck,Ekaterina Alexandrova,3-6 6-4 7-6(7),0.86,1.9%,0.0%,75.2%,60.8%,38.5%,44.4% (4/9),47.1%,38.4%,7.1%,35.1%,42.9%,50.0% (4/8),2:15
 18-Feb-2019,Budapest,3,Hard,QF,50,126,1,1,,Alison Van Uytvanck,Kateryna Baindl,3-6 6-1 6-4,1.09,6.5%,1.9%,61.1%,65.2%,38.1%,71.4% (10/14),52.3%,49.4%,2.4%,50.0%,47.6%,42.9% (6/14),2:03
-18-Feb-2019,Budapest,3,Hard,R16,50,140,1,1,Q,Alison Van Uytvanck,Iga Swiatek,6-4 7-5 (ch),0.98,3.8%,1.3%,66.3%,66.0%,51.9%,83.3% (5/6),50.7%,37.9%,6.1%,24.2%,51.5%,37.5% (3/8),1:42
+18-Feb-2019,Budapest,3,Hard,R16,50,140,1,1,Q,Alison Van Uytvanck,Iga Swiatek,6-4 7-5,0.98,3.8%,1.3%,66.3%,66.0%,51.9%,83.3% (5/6),50.7%,37.9%,6.1%,24.2%,51.5%,37.5% (3/8),1:42
 18-Feb-2019,Budapest,3,Hard,R32,50,77,1,1,,Alison Van Uytvanck,Vera Zvonareva,7-5 7-5,1.17,5.9%,2.4%,58.8%,66.0%,54.3%,62.5% (5/8),53.8%,45.3%,5.3%,45.1%,45.8%,55.6% (5/9),1:55
 9-Feb-2019,Fed Cup WG R1: FRA vs BEL,3,Hard,RR,50,19,0,,,Caroline Garcia,Alison Van Uytvanck,7-6(2) 4-6 6-2,0.86,5.9%,5.9%,57.6%,69.4%,61.1%,62.5% (5/8),47.6%,29.4%,1.2%,31.6%,25.0%,100.0% (2/2),2:05
-28-Jan-2019,St. Petersburg,3,Hard,R16,52,10,0,,4,Aryna Sabalenka,Alison Van Uytvanck,6-1 6-4 (ch),0.81,7.5%,2.5%,57.5%,65.2%,41.2%,50.0% (4/8),43.7%,36.5%,4.8%,34.2%,40.0%,20.0% (1/5),1:10
+28-Jan-2019,St. Petersburg,3,Hard,R16,52,10,0,,4,Aryna Sabalenka,Alison Van Uytvanck,6-1 6-4,0.81,7.5%,2.5%,57.5%,65.2%,41.2%,50.0% (4/8),43.7%,36.5%,4.8%,34.2%,40.0%,20.0% (1/5),1:10
 28-Jan-2019,St. Petersburg,3,Hard,R32,52,55,1,,,Alison Van Uytvanck,Kirsten Flipkens,6-2 6-4,1.40,2.0%,4.0%,70.0%,68.6%,46.7%,33.3% (1/3),57.3%,53.3%,1.7%,48.7%,61.9%,62.5% (5/8),1:19
 14-Jan-2019,Australian Open,5,Hard,R128,52,3,0,,3,Caroline Wozniacki,Alison Van Uytvanck,6-3 6-4,0.70,10.1%,2.9%,65.2%,66.7%,45.8%,71.4% (5/7),44.7%,28.6%,6.3%,32.5%,21.7%,0.0% (0/2),1:33
 7-Jan-2019,Hobart,3,Hard,R16,51,77,0,8,,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-3 6-2,0.74,0.0%,2.0%,56.0%,53.6%,45.5%,0.0% (0/4),42.4%,36.8%,0.0%,33.3%,43.5%,14.3% (1/7),1:27
@@ -175,8 +211,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jun-2018,Eastbourne,3,Grass,R32,46,14,0,,7,Daria Kasatkina,Alison Van Uytvanck,5-7 6-4 6-1,0.90,2.1%,0.0%,60.4%,46.6%,47.4%,50.0% (9/18),47.4%,48.0%,3.1%,41.9%,58.3%,42.9% (6/14),2:05
 25-Jun-2018,Eastbourne,3,Grass,R64,46,86,1,,WC,Alison Van Uytvanck,Samantha Stosur,5-7 7-6(3) 6-3,1.04,8.0%,6.3%,55.4%,74.2%,44.0%,60.0% (6/10),50.7%,41.0%,3.4%,23.9%,64.0%,40.0% (4/10),2:40
 18-Jun-2018,Mallorca,3,Grass,R16,44,91,0,,Q,Sofia Kenin,Alison Van Uytvanck,2-6 6-4 6-4,0.94,10.7%,7.1%,56.0%,72.3%,40.5%,20.0% (1/5),48.5%,39.1%,3.4%,32.7%,50.0%,30.8% (4/13),2:01
-18-Jun-2018,Mallorca,3,Grass,R32,44,43,1,,8,Alison Van Uytvanck,Aryna Sabalenka,3-6 6-4 6-2 (ch),1.08,5.7%,4.6%,69.0%,66.7%,51.9%,71.4% (5/7),50.8%,40.8%,2.0%,38.5%,45.5%,40.0% (4/10),1:51
-11-Jun-2018,s-Hertogenbosch,3,Grass,R16,47,81,0,6,,Viktoria Kuzmova,Alison Van Uytvanck,3-6 7-6(4) 6-2,0.97,9.1%,5.7%,68.2%,66.7%,50.0%,20.0% (1/5),48.7%,37.6%,5.0%,28.1%,54.1%,37.5% (3/8),1:59
+18-Jun-2018,Mallorca,3,Grass,R32,44,43,1,,8,Alison Van Uytvanck,Aryna Sabalenka,3-6 6-4 6-2,1.08,5.7%,4.6%,69.0%,66.7%,51.9%,71.4% (5/7),50.8%,40.8%,2.0%,38.5%,45.5%,40.0% (4/10),1:51
+11-Jun-2018,s-Hertogenbosch,3,Grass,R16,47,81,0,6,,Viktoria Hruncakova,Alison Van Uytvanck,3-6 7-6(4) 6-2,0.97,9.1%,5.7%,68.2%,66.7%,50.0%,20.0% (1/5),48.7%,37.6%,5.0%,28.1%,54.1%,37.5% (3/8),1:59
 11-Jun-2018,s-Hertogenbosch,3,Grass,R32,47,151,1,6,WC,Alison Van Uytvanck,Richel Hogenkamp,6-1 6-2,1.54,8.1%,1.6%,72.6%,71.1%,52.9%,100.0% (3/3),59.8%,52.0%,2.0%,50.0%,55.6%,50.0% (4/8),1:04
 28-May-2018,Roland Garros,5,Clay,R64,46,11,0,,11,Julia Goerges,Alison Van Uytvanck,7-5 7-6(5),0.86,1.1%,3.4%,64.8%,70.2%,41.9%,66.7% (6/9),47.9%,34.2%,0.0%,30.6%,40.0%,33.3% (2/6),1:49
 28-May-2018,Roland Garros,5,Clay,R128,46,245,1,,,Alison Van Uytvanck,Isabelle Wallace,6-1 6-0,3.60,6.9%,0.0%,69.0%,90.0%,66.7%,- (0/0),69.6%,62.0%,0.0%,53.3%,75.0%,46.2% (6/13),0:52
@@ -193,8 +229,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Mar-2018,Miami,3,Hard,R64,51,32,0,,30,Agnieszka Radwanska,Alison Van Uytvanck,6-3 7-6(4),0.86,0.0%,7.9%,67.1%,52.9%,36.0%,50.0% (6/12),46.3%,45.1%,4.2%,40.0%,50.0%,66.7% (4/6),1:49
 19-Mar-2018,Miami,3,Hard,R128,51,73,1,,,Alison Van Uytvanck,Kateryna Bondarenko,6-7(3) 7-5 6-1,1.11,6.8%,2.6%,64.1%,65.3%,40.5%,55.6% (5/9),52.8%,48.5%,4.0%,45.8%,52.4%,46.7% (7/15),2:23
 5-Mar-2018,Indian Wells,3,Hard,R128,50,81,0,,,Yulia Putintseva,Alison Van Uytvanck,6-0 2-6 6-2,0.70,1.5%,1.5%,50.0%,61.8%,38.2%,28.6% (2/7),43.0%,35.0%,3.3%,20.9%,70.6%,100.0% (2/2),1:46
-19-Feb-2018,Budapest,3,Hard,F,80,33,1,,1,Alison Van Uytvanck,Dominika Cibulkova,6-3 3-6 7-5 (ch),1.06,5.8%,1.9%,75.7%,73.1%,40.0%,85.7% (12/14),52.4%,37.2%,2.3%,33.8%,47.6%,60.0% (3/5),2:11
-19-Feb-2018,Budapest,3,Hard,SF,80,121,1,,LL,Alison Van Uytvanck,Viktoria Kuzmova,6-4 6-2,1.46,14.5%,3.6%,74.5%,78.0%,42.9%,85.7% (6/7),56.5%,45.0%,6.7%,30.0%,75.0%,66.7% (4/6),1:08
+19-Feb-2018,Budapest,3,Hard,F,80,33,1,,1,Alison Van Uytvanck,Dominika Cibulkova,6-3 3-6 7-5,1.06,5.8%,1.9%,75.7%,73.1%,40.0%,85.7% (12/14),52.4%,37.2%,2.3%,33.8%,47.6%,60.0% (3/5),2:11
+19-Feb-2018,Budapest,3,Hard,SF,80,121,1,,LL,Alison Van Uytvanck,Viktoria Hruncakova,6-4 6-2,1.46,14.5%,3.6%,74.5%,78.0%,42.9%,85.7% (6/7),56.5%,45.0%,6.7%,30.0%,75.0%,66.7% (4/6),1:08
 19-Feb-2018,Budapest,3,Hard,QF,80,34,1,,2,Alison Van Uytvanck,Shuai Zhang,6-2 6-4,2.13,8.3%,0.0%,79.2%,84.2%,60.0%,100.0% (2/2),58.3%,44.4%,0.0%,44.2%,45.0%,42.9% (3/7),1:09
 19-Feb-2018,Budapest,3,Hard,R16,80,39,1,,5,Alison Van Uytvanck,Mihaela Buzarnescu,6-1 6-0,1.81,7.0%,0.0%,69.8%,73.3%,53.8%,100.0% (3/3),62.6%,58.9%,5.4%,52.9%,68.2%,46.2% (6/13),1:09
 19-Feb-2018,Budapest,3,Hard,R32,80,95,1,,,Alison Van Uytvanck,Oceane Dodin,6-3 6-2,1.41,10.2%,0.0%,55.9%,63.6%,61.5%,60.0% (3/5),57.5%,52.5%,4.9%,31.3%,75.9%,45.5% (5/11),1:16
@@ -302,12 +338,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Feb-2016,Fed Cup G1 RR: BEL vs BUL,3,Hard,RR,43,93,1,,,Alison Van Uytvanck,Tsvetana Pironkova,6-4 6-2,,,,,,,,,,,,,,
 4-Feb-2016,Fed Cup G1 RR: HUN vs BEL,3,Hard,RR,43,371,1,,,Alison Van Uytvanck,Anna Bondar,6-1 6-3,,,,,,,,,,,,,,
 3-Feb-2016,Fed Cup G1 RR: BEL vs LAT,3,Hard,RR,43,86,1,,,Alison Van Uytvanck,Jelena Ostapenko,6-2 3-6 6-1,,,,,,,,,,,,,,
-18-Jan-2016,Australian Open,5,Hard,R128,43,16,0,,14,Victoria Azarenka,Alison Van Uytvanck,6-0 6-0 (ch),0.26,4.7%,2.3%,55.8%,50.0%,10.5%,33.3% (3/9),26.4%,17.2%,0.0%,9.1%,42.9%,- (0/0),0:53
-11-Jan-2016,Hobart,3,Hard,R16,44,47,0,8,,Eugenie Bouchard,Alison Van Uytvanck,6-4 7-5 (ch),0.84,1.2%,4.7%,50.6%,53.5%,50.0%,58.3% (7/12),46.5%,40.5%,1.4%,31.6%,50.0%,33.3% (3/9),1:46
+18-Jan-2016,Australian Open,5,Hard,R128,43,16,0,,14,Victoria Azarenka,Alison Van Uytvanck,6-0 6-0,0.26,4.7%,2.3%,55.8%,50.0%,10.5%,33.3% (3/9),26.4%,17.2%,0.0%,9.1%,42.9%,- (0/0),0:53
+11-Jan-2016,Hobart,3,Hard,R16,44,47,0,8,,Eugenie Bouchard,Alison Van Uytvanck,6-4 7-5,0.84,1.2%,4.7%,50.6%,53.5%,50.0%,58.3% (7/12),46.5%,40.5%,1.4%,31.6%,50.0%,33.3% (3/9),1:46
 11-Jan-2016,Hobart,3,Hard,R32,44,63,1,8,,Alison Van Uytvanck,Carina Witthoeft,6-2 7-6(5),1.40,11.4%,4.3%,58.6%,78.0%,55.2%,66.7% (2/3),56.5%,44.1%,1.5%,41.7%,46.9%,60.0% (3/5),1:28
 4-Jan-2016,Auckland,3,Hard,R32,44,69,0,8,,Alexandra Dulgheru,Alison Van Uytvanck,1-6 6-2 6-4,0.92,4.1%,4.1%,66.2%,67.3%,48.0%,42.9% (3/7),48.6%,36.1%,1.4%,28.9%,48.1%,100.0% (3/3),1:41
 19-Oct-2015,Luxembourg,3,Hard,SF,47,92,0,,,Misaki Doi,Alison Van Uytvanck,6-4 RET,,,,,,,,,,,,,,
-19-Oct-2015,Luxembourg,3,Hard,QF,47,42,1,,7,Alison Van Uytvanck,Barbora Strycova,6-4 6-4 (ch),,,,,,,,,,,,,,
+19-Oct-2015,Luxembourg,3,Hard,QF,47,42,1,,7,Alison Van Uytvanck,Barbora Strycova,6-4 6-4,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R16,47,12,1,,2,Alison Van Uytvanck,Ana Ivanovic,6-4 6-7(5) 7-5,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R32,47,131,1,,Q,Alison Van Uytvanck,Richel Hogenkamp,6-2 7-6(4),,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,R16,50,59,0,,,Johanna Larsson,Alison Van Uytvanck,6-4 7-6(2),,,,,,,,,,,,,,
@@ -318,17 +354,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Sep-2015,Seoul,3,Hard,QF,58,102,1,8,,Alison Van Uytvanck,Elizaveta Kulichkova,6-1 4-6 6-2,,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,R16,58,69,1,8,,Alison Van Uytvanck,Katerina Siniakova,6-3 1-6 7-6(3),,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,R32,58,84,1,8,,Alison Van Uytvanck,Cristina Andreea Mitu,3-6 6-1 7-6(2),,,,,,,,,,,,,,
-31-Aug-2015,US Open,5,Hard,R128,55,260,0,,Q,Jessica Pegula,Alison Van Uytvanck,7-5 6-3 (ch),0.71,7.0%,4.2%,42.3%,80.0%,46.3%,62.5% (5/8),46.1%,28.1%,3.5%,15.6%,44.0%,- (0/0),
+31-Aug-2015,US Open,5,Hard,R128,55,260,0,,Q,Jessica Pegula,Alison Van Uytvanck,7-5 6-3,0.71,7.0%,4.2%,42.3%,80.0%,46.3%,62.5% (5/8),46.1%,28.1%,3.5%,15.6%,44.0%,- (0/0),
 24-Aug-2015,New Haven,3,Hard,Q1,54,107,0,8,,Elizaveta Kulichkova,Alison Van Uytvanck,2-1 RET,,,,,,,,,,,,,,
 10-Aug-2015,Toronto,3,Hard,R64,52,71,0,,Q,Polona Hercog,Alison Van Uytvanck,6-4 1-6 6-3,0.79,4.1%,1.4%,51.4%,63.2%,66.7%,25.0% (1/4),47.5%,27.7%,1.5%,24.4%,33.3%,50.0% (3/6),
 3-Aug-2015,Washington,3,Hard,R32,50,12,0,,1,Kate Makarova,Alison Van Uytvanck,7-5 7-5,0.88,12.0%,5.3%,60.0%,75.6%,43.3%,55.6% (5/9),48.9%,32.8%,4.7%,26.3%,42.3%,66.7% (2/3),
 29-Jun-2015,Wimbledon,5,Grass,R128,46,158,0,,Q,Bethanie Mattek Sands,Alison Van Uytvanck,6-3 6-2,0.79,8.7%,0.0%,58.7%,63.0%,63.2%,25.0% (1/4),44.2%,29.3%,1.7%,17.6%,45.8%,0.0% (0/3),
 8-Jun-2015,'s Hertogenbosch,3,Grass,R16,46,33,0,,4,Belinda Bencic,Alison Van Uytvanck,6-3 6-2,0.64,7.5%,3.8%,52.8%,42.9%,44.0%,25.0% (2/8),40.0%,36.2%,2.1%,19.4%,68.8%,100.0% (2/2),
 8-Jun-2015,'s Hertogenbosch,3,Grass,R32,46,99,1,,,Alison Van Uytvanck,Evgeniya Rodina,7-5 6-3,1.28,12.1%,6.1%,60.6%,67.5%,57.7%,40.0% (2/5),54.6%,46.7%,0.0%,37.3%,66.7%,33.3% (5/15),
-25-May-2015,Roland Garros,5,Clay,QF,93,24,0,,23,Timea Bacsinszky,Alison Van Uytvanck,6-4 7-5 (ch),0.78,6.4%,3.8%,62.8%,61.2%,41.4%,71.4% (10/14),45.1%,36.0%,4.0%,36.8%,33.3%,33.3% (2/6),
-25-May-2015,Roland Garros,5,Clay,R16,93,100,1,,,Alison Van Uytvanck,Cristina Andreea Mitu,6-1 6-3 (ch),1.37,13.3%,0.0%,58.3%,71.4%,56.0%,100.0% (7/7),57.4%,47.9%,6.3%,44.8%,52.6%,80.0% (4/5),
-25-May-2015,Roland Garros,5,Clay,R32,93,44,1,,,Alison Van Uytvanck,Kristina Mladenovic,6-4 6-1 (ch),1.38,3.4%,1.7%,67.2%,64.1%,63.2%,0.0% (0/1),57.0%,50.0%,1.8%,53.8%,41.2%,66.7% (4/6),
-25-May-2015,Roland Garros,5,Clay,R64,93,32,1,,32,Alison Van Uytvanck,Zarina Diyas,0-6 6-1 6-4 (ch),0.93,0.0%,3.0%,56.1%,59.5%,51.7%,42.9% (3/7),48.8%,41.0%,1.6%,31.9%,71.4%,62.5% (5/8),
+25-May-2015,Roland Garros,5,Clay,QF,93,24,0,,23,Timea Bacsinszky,Alison Van Uytvanck,6-4 7-5,0.78,6.4%,3.8%,62.8%,61.2%,41.4%,71.4% (10/14),45.1%,36.0%,4.0%,36.8%,33.3%,33.3% (2/6),
+25-May-2015,Roland Garros,5,Clay,R16,93,100,1,,,Alison Van Uytvanck,Cristina Andreea Mitu,6-1 6-3,1.37,13.3%,0.0%,58.3%,71.4%,56.0%,100.0% (7/7),57.4%,47.9%,6.3%,44.8%,52.6%,80.0% (4/5),
+25-May-2015,Roland Garros,5,Clay,R32,93,44,1,,,Alison Van Uytvanck,Kristina Mladenovic,6-4 6-1,1.38,3.4%,1.7%,67.2%,64.1%,63.2%,0.0% (0/1),57.0%,50.0%,1.8%,53.8%,41.2%,66.7% (4/6),
+25-May-2015,Roland Garros,5,Clay,R64,93,32,1,,32,Alison Van Uytvanck,Zarina Diyas,0-6 6-1 6-4,0.93,0.0%,3.0%,56.1%,59.5%,51.7%,42.9% (3/7),48.8%,41.0%,1.6%,31.9%,71.4%,62.5% (5/8),
 25-May-2015,Roland Garros,5,Clay,R128,93,52,1,,,Alison Van Uytvanck,Anna Karolina Schmiedlova,7-6(4) 7-6(7),0.97,3.8%,0.0%,70.2%,68.5%,38.7%,78.6% (11/14),50.5%,39.3%,2.4%,36.4%,44.8%,75.0% (3/4),
 18-May-2015,Nuremberg,3,Clay,R32,88,61,0,Q,8,Carina Witthoeft,Alison Van Uytvanck,6-7(2) 6-3 6-3,0.86,10.5%,2.1%,51.6%,73.5%,39.1%,57.1% (8/14),46.7%,37.0%,4.0%,34.6%,39.6%,30.0% (3/10),
 18-May-2015,Nuremberg,3,Clay,Q2,88,279,1,2,,Alison Van Uytvanck,Arina Rodionova,6-3 6-4,,,,,,,,,,,,,,
@@ -339,9 +375,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Apr-2015,Marrakech,3,Clay,Q3,91,196,1,3,,Alison Van Uytvanck,Olivia Rogowska,6-4 6-4,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q2,91,157,1,3,,Alison Van Uytvanck,Sara Sorribes Tormo,7-6(2) 6-4,,,,,,,,,,,,,,
 27-Apr-2015,Marrakech,3,Clay,Q1,91,291,1,3,,Alison Van Uytvanck,Beatriz Garcia Vidagany,2-0 RET,,,,,,,,,,,,,,
-6-Apr-2015,Katowice,3,Hard,SF,105,67,0,,8,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-4 6-1 (ch),0.65,4.2%,4.2%,60.4%,51.7%,47.4%,54.5% (6/11),41.2%,32.7%,2.0%,32.3%,33.3%,50.0% (1/2),
+6-Apr-2015,Katowice,3,Hard,SF,105,67,0,,8,Anna Karolina Schmiedlova,Alison Van Uytvanck,6-4 6-1,0.65,4.2%,4.2%,60.4%,51.7%,47.4%,54.5% (6/11),41.2%,32.7%,2.0%,32.3%,33.3%,50.0% (1/2),
 6-Apr-2015,Katowice,3,Hard,QF,105,70,1,,7,Alison Van Uytvanck,Kirsten Flipkens,6-2 6-4,1.29,3.3%,1.7%,70.0%,73.8%,50.0%,100.0% (3/3),55.2%,42.9%,3.6%,44.7%,38.9%,75.0% (3/4),
-6-Apr-2015,Katowice,3,Hard,R16,105,74,1,,,Alison Van Uytvanck,Carina Witthoeft,6-3 6-3 (ch),1.11,6.2%,1.5%,55.4%,75.0%,55.2%,87.5% (7/8),54.0%,37.5%,8.3%,33.3%,44.4%,50.0% (4/8),
+6-Apr-2015,Katowice,3,Hard,R16,105,74,1,,,Alison Van Uytvanck,Carina Witthoeft,6-3 6-3,1.11,6.2%,1.5%,55.4%,75.0%,55.2%,87.5% (7/8),54.0%,37.5%,8.3%,33.3%,44.4%,50.0% (4/8),
 6-Apr-2015,Katowice,3,Hard,R32,105,49,1,,4,Alison Van Uytvanck,Magdalena Rybarikova,6-2 6-3,,,,,,,,,,,,,,
 23-Mar-2015,Miami,3,Hard,R64,115,37,0,Q,30,Camila Giorgi,Alison Van Uytvanck,6-3 6-2,0.35,7.1%,0.0%,61.9%,50.0%,56.3%,50.0% (3/6),33.3%,16.7%,8.3%,10.0%,27.8%,0.0% (0/2),
 23-Mar-2015,Miami,3,Hard,R128,115,47,1,Q,,Alison Van Uytvanck,Magdalena Rybarikova,7-5 2-6 6-0,1.01,2.3%,1.2%,65.1%,64.3%,46.7%,71.4% (10/14),49.7%,42.4%,6.1%,40.6%,45.7%,46.2% (6/13),
@@ -358,7 +394,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Feb-2015,Antwerp,3,Hard,R16,103,12,0,WC,3,Andrea Petkovic,Alison Van Uytvanck,6-7(7) 7-6(5) 6-2,0.95,3.4%,5.0%,53.8%,60.9%,38.2%,53.3% (8/15),48.5%,46.9%,2.1%,45.8%,48.9%,27.8% (5/18),
 9-Feb-2015,Antwerp,3,Hard,R32,103,47,1,WC,,Alison Van Uytvanck,Magdalena Rybarikova,6-2 6-3,,,,,,,,,,,,,,
 7-Feb-2015,Fed Cup G1 PO: HUN vs BEL,3,Hard,RR,102,651,0,,,Anna Bondar,Alison Van Uytvanck,W/O,,,,,,,,,,,,,,
-19-Jan-2015,Australian Open,5,Hard,R128,106,1,0,,1,Serena Williams,Alison Van Uytvanck,6-0 6-4 (ch),0.55,4.1%,6.1%,55.1%,66.7%,31.8%,33.3% (2/6),39.2%,27.1%,22.9%,14.3%,45.0%,0.0% (0/1),
+19-Jan-2015,Australian Open,5,Hard,R128,106,1,0,,1,Serena Williams,Alison Van Uytvanck,6-0 6-4,0.55,4.1%,6.1%,55.1%,66.7%,31.8%,33.3% (2/6),39.2%,27.1%,22.9%,14.3%,45.0%,0.0% (0/1),
 12-Jan-2015,Hobart,3,Hard,Q1,106,177,0,,,Barbora Krejcikova,Alison Van Uytvanck,6-2 4-6 6-2,,,,,,,,,,,,,,
 5-Jan-2015,Auckland,3,Hard,Q2,106,153,0,4,,Lucie Hradecka,Alison Van Uytvanck,2-6 6-3 7-5,,,,,,,,,,,,,,
 5-Jan-2015,Auckland,3,Hard,Q1,106,166,1,4,,Alison Van Uytvanck,Renata Voracova,7-6(7) 7-6(6),,,,,,,,,,,,,,

@@ -1,4 +1,111 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,Strasbourg,3,Clay,Q1,276,37,0,,2,Yulia Putintseva,Ankita Raina,6-1 6-0,0.48,0.0%,2.3%,59.1%,34.6%,33.3%,25.0% (2/8),32.9%,31.7%,0.0%,26.7%,45.5%,0.0% (0/5),1:05
+13-May-2024,Parma 125,3,Clay,R16,269,105,0,,,Jule Niemeier,Ankita Raina,6-1 6-3,0.67,0.0%,2.0%,61.2%,43.3%,21.1%,41.7% (5/12),39.6%,43.9%,3.5%,32.3%,57.7%,37.5% (3/8),1:18
+13-May-2024,Parma 125,3,Clay,R32,269,130,1,,,Ankita Raina,Astra Sharma,3-6 6-4 6-1,1.14,0.0%,1.8%,73.7%,57.1%,60.0%,76.9% (10/13),53.2%,48.1%,4.6%,42.6%,55.3%,29.4% (5/17),2:42
+29-Apr-2024,W50 Lopota,3,Hard,R32,258,600,0,2,,Daria Kudashova,Ankita Raina,6-4 4-6 7-6(5),,,,,,,,,,,,,,
+22-Apr-2024,W50 Lopota,3,Hard,R32,258,490,0,4,SR,Catherine Harrison,Ankita Raina,6-2 6-0,,,,,,,,,,,,,,
+1-Apr-2024,W50 Kashiwa,3,Hard,R32,239,356,0,8,SE,Ya Hsuan Lee,Ankita Raina,7-6(1) 4-6 7-6(1),,,,,,,,,,,,,,
+25-Mar-2024,W50 Kofu,3,Hard,R16,242,278,0,8,,Lanlana Tararudee,Ankita Raina,6-3 7-6(6),,,,,,,,,,,,,,
+25-Mar-2024,W50 Kofu,3,Hard,R32,242,331,1,8,WC,Ankita Raina,Kyoka Okamura,7-6(1) 6-2,,,,,,,,,,,,,,
+11-Mar-2024,W35 Indore,3,Hard,QF,225,301,0,3,7,Polina Iatcenko,Ankita Raina,6-3 7-6(4),,,,,,,,,,,,,,
+11-Mar-2024,W35 Indore,3,Hard,R16,225,591,1,3,Q,Ankita Raina,Ekaterina Yashina,6-3 6-2,,,,,,,,,,,,,,
+11-Mar-2024,W35 Indore,3,Hard,R32,225,407,1,3,,Ankita Raina,Ya Hsuan Lee,6-1 7-6(7),,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,SF,226,527,0,2,,Yeon Woo Ku,Ankita Raina,7-6(4) 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,QF,226,455,1,2,7,Ankita Raina,Jacqueline Cabaj Awad,4-6 6-2 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,R16,226,550,1,2,,Ankita Raina,Zeel Desai,7-6(4) 6-3,,,,,,,,,,,,,,
+26-Feb-2024,W35 Gurugram,3,Hard,R32,226,1323,1,2,WC,Ankita Raina,Akanksha Dileep Nitture,6-2 6-1,,,,,,,,,,,,,,
+19-Feb-2024,Dubai,3,Hard,Q1,225,68,0,WC,11,Viktoriya Tomova,Ankita Raina,6-4 6-0,0.59,0.0%,3.0%,77.3%,47.1%,26.7%,61.5% (8/13),38.7%,34.0%,7.5%,22.6%,50.0%,16.7% (1/6),1:33
+5-Feb-2024,Mumbai 125,3,Hard,R32,223,113,0,WC,8,Katie Volynets,Ankita Raina,6-4 6-2,0.78,0.0%,0.0%,67.3%,36.4%,50.0%,14.3% (1/7),44.0%,46.3%,1.5%,36.5%,80.0%,33.3% (3/9),1:33
+22-Jan-2024,W50 Pune,3,Hard,R32,223,274,0,7,,Sapfo Sakellaridi,Ankita Raina,3-6 6-3 6-2,,,,,,,,,,,,,,
+15-Jan-2024,W50 Bengaluru,3,Hard,R16,223,357,0,8,WC,Rutuja Bhosale,Ankita Raina,2-1 RET,,,,,,,,,,,,,,
+15-Jan-2024,W50 Bengaluru,3,Hard,R32,223,485,1,8,Q,Ankita Raina,Viktoria Morvayova,1-6 7-5 6-1,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q2,223,133,0,,22,Sara Bejlek,Ankita Raina,6-1 7-5,0.75,1.8%,7.1%,66.1%,64.9%,15.8%,16.7% (1/6),43.3%,39.1%,0.0%,34.0%,52.9%,28.6% (2/7),1:14
+15-Jan-2024,Australian Open,5,Hard,Q1,223,164,1,,,Ankita Raina,Jessica Bouzas Maneiro,6-4 5-7 7-6(4),0.96,0.0%,0.8%,69.7%,55.3%,43.2%,38.5% (5/13),49.3%,46.6%,0.0%,39.7%,60.0%,66.7% (8/12),2:49
+4-Dec-2023,W100 Dubai,3,Hard,R32,206,468,0,,Q,Emily Appleton,Ankita Raina,6-2 6-2,,,,,,,,,,,,,,
+27-Nov-2023,W60 Gold Coast,3,Hard,R32,203,329,0,5,,Talia Gibson,Ankita Raina,6-1 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W60 Brisbane,3,Hard,R32,201,278,0,3,,Sakura Hosogi,Ankita Raina,6-1 6-3,,,,,,,,,,,,,,
+16-Oct-2023,Cluj Napoca,3,Hard,R32,200,89,0,,8,Jodie Burrage,Ankita Raina,6-0 6-2,0.55,0.0%,2.4%,64.3%,25.9%,40.0%,36.4% (4/11),34.5%,38.1%,9.5%,28.6%,47.6%,28.6% (2/7),1:02
+11-Sep-2023,Osaka,3,Hard,R32,181,174,0,Q,WC,Moyuka Uchijima,Ankita Raina,6-4 6-2,0.37,1.7%,3.4%,66.1%,53.8%,60.0%,25.0% (1/4),39.2%,16.3%,16.3%,10.0%,21.7%,- (0/0),1:20
+11-Sep-2023,Osaka,3,Hard,Q2,181,262,1,3,,Ankita Raina,Kateryna Bondarenko,2-1 RET,2.50,20.0%,0.0%,60.0%,66.7%,100.0%,- (0/0),56.5%,50.0%,5.6%,33.3%,66.7%,50.0% (1/2),0:21
+11-Sep-2023,Osaka,3,Hard,Q1,181,393,1,3,WC,Ankita Raina,Yuki Naito,6-3 7-5,1.53,1.6%,1.6%,70.5%,76.7%,44.4%,60.0% (3/5),57.4%,50.0%,1.3%,45.2%,55.3%,33.3% (4/12),1:46
+4-Sep-2023,W100 Tokyo,3,Hard,R16,189,91,0,,2,Jule Niemeier,Ankita Raina,6-2 5-7 7-6(8),,,,,,,,,,,,,,
+4-Sep-2023,W100 Tokyo,3,Hard,R32,189,321,1,,Q,Ankita Raina,Sofya Lansere,6-3 6-2,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q3,189,155,0,,,Mirjam Bjorklund,Ankita Raina,6-2 6-2,0.63,1.5%,1.5%,66.7%,50.0%,45.5%,61.5% (8/13),41.7%,32.7%,6.1%,27.3%,43.8%,20.0% (1/5),1:37
+28-Aug-2023,US Open,5,Hard,Q2,189,113,1,,14,Ankita Raina,Aliona Bolsova,6-4 6-3,1.32,0.0%,3.4%,75.9%,68.2%,35.7%,57.1% (4/7),56.2%,52.4%,0.0%,51.1%,56.3%,62.5% (5/8),1:40
+28-Aug-2023,US Open,5,Hard,Q1,189,219,1,,,Ankita Raina,Miriam Bianca Bulgaru,6-3 7-5,1.13,1.0%,2.9%,76.2%,62.5%,44.0%,85.7% (12/14),53.7%,47.1%,4.3%,40.0%,56.7%,66.7% (4/6),2:15
+7-Aug-2023,Kozerki 125,3,Hard,R32,196,240,0,,Q,Gabriela Andrea Knutson,Ankita Raina,6-2 6-3,0.70,0.0%,1.6%,75.0%,39.6%,50.0%,45.5% (5/11),41.3%,40.4%,5.3%,34.4%,48.0%,60.0% (3/5),1:26
+31-Jul-2023,Prague,3,Hard,R16,196,71,0,LL,4,Linda Noskova,Ankita Raina,1-6 7-5 6-1,0.96,1.3%,3.9%,73.7%,46.4%,55.0%,52.9% (9/17),49.1%,49.4%,2.3%,46.0%,54.1%,77.8% (7/9),1:57
+31-Jul-2023,Prague,3,Hard,R32,196,427,1,LL,,Ankita Raina,Barbora Strycova,3-6 6-3 6-4,0.89,0.0%,1.9%,74.3%,60.3%,51.9%,75.0% (9/12),48.9%,37.3%,3.6%,30.4%,51.9%,44.4% (4/9),2:25
+31-Jul-2023,Prague,3,Hard,Q2,196,149,0,10,5,Dayana Yastremska,Ankita Raina,6-0 6-0,0.34,0.0%,6.1%,75.8%,20.0%,25.0%,33.3% (3/9),23.9%,26.5%,0.0%,28.0%,22.2%,- (0/0),0:44
+31-Jul-2023,Prague,3,Hard,Q1,196,,1,10,WC,Ankita Raina,Amelie Smejkalova,6-3 6-2,1.62,0.0%,2.0%,87.8%,69.8%,16.7%,50.0% (3/6),61.5%,59.6%,0.0%,57.1%,63.2%,100.0% (6/6),1:15
+24-Jul-2023,Warsaw,3,Hard,R32,200,95,0,Q,,Jodie Burrage,Ankita Raina,4-6 6-4 7-6(4),1.02,0.0%,0.0%,73.7%,43.8%,34.6%,45.5% (10/22),50.8%,60.0%,8.0%,52.8%,68.1%,66.7% (12/18),2:37
+24-Jul-2023,Warsaw,3,Hard,Q2,200,266,1,3,,Ankita Raina,Joanna Garland,4-6 6-3 6-1,1.30,0.0%,0.0%,74.7%,64.6%,50.0%,42.9% (3/7),56.2%,50.7%,2.7%,47.6%,54.5%,58.3% (7/12),2:15
+24-Jul-2023,Warsaw,3,Hard,Q1,200,531,1,3,,Ankita Raina,Olivia Lincer,6-3 6-1,1.36,0.0%,3.6%,61.8%,67.6%,42.9%,75.0% (6/8),57.4%,56.7%,1.5%,50.0%,65.5%,50.0% (6/12),1:35
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,199,209,0,8,,Valeria Savinykh,Ankita Raina,6-7(6) 6-3 6-4,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,199,971,1,8,WC,Ankita Raina,Carolina Gomez,6-1 6-2,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,197,167,0,,,Jessica Bouzas Maneiro,Ankita Raina,3-6 7-6(5) 6-1,0.84,0.0%,0.0%,87.0%,48.9%,42.9%,41.7% (5/12),46.1%,43.5%,1.2%,40.6%,52.4%,55.6% (5/9),2:26
+19-Jun-2023,W100 Ilkley,3,Grass,R16,206,175,0,Q,,Mirjam Bjorklund,Ankita Raina,6-2 6-1,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,R32,206,119,1,Q,8,Ankita Raina,Tamara Korpatsch,6-3 7-5,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,Q2,206,,1,8,WC,Ankita Raina,Mingge Xu,6-3 6-7(3) 6-1,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,Q1,206,564,1,8,,Ankita Raina,Olivia Tjandramulia,6-1 4-6 6-2,,,,,,,,,,,,,,
+12-Jun-2023,s Hertogenbosch,3,Grass,Q2,209,186,0,9,5,Emina Bektas,Ankita Raina,6-3 5-7 6-3,0.80,2.0%,2.0%,74.7%,59.5%,44.0%,64.3% (9/14),45.8%,35.5%,3.2%,23.7%,55.9%,50.0% (3/6),2:13
+12-Jun-2023,s Hertogenbosch,3,Grass,Q1,209,371,1,9,,Ankita Raina,Ellen Perez,6-3 7-5,1.51,0.0%,0.0%,76.8%,72.1%,46.2%,75.0% (6/8),57.8%,51.4%,2.8%,43.9%,61.3%,55.6% (5/9),1:20
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,215,101,0,,4,Caroline Dolehide,Ankita Raina,6-3 7-6(5),,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,215,145,0,,30,Moyuka Uchijima,Ankita Raina,7-6(1) 6-1,0.80,0.0%,2.6%,77.9%,45.0%,35.3%,62.5% (10/16),44.4%,45.9%,2.7%,40.0%,55.2%,36.4% (4/11),
+29-May-2023,Roland Garros,5,Clay,Q1,215,409,1,,WC,Ankita Raina,Emeline Dartron,7-5 5-7 6-2,1.03,0.0%,0.9%,80.2%,55.9%,47.8%,61.5% (8/13),50.9%,47.0%,0.0%,39.1%,61.1%,50.0% (7/14),
+15-May-2023,Florence 125,3,Clay,R16,218,78,0,Q,6,Sara Errani,Ankita Raina,3-6 6-3 6-3,0.94,1.1%,1.1%,84.0%,41.8%,46.7%,41.2% (7/17),48.5%,53.8%,0.0%,50.6%,65.2%,44.4% (8/18),2:30
+15-May-2023,Florence 125,3,Clay,R32,218,123,1,Q,,Ankita Raina,Elina Avanesyan,7-5 4-6 6-1,1.08,0.0%,0.0%,81.1%,53.4%,52.9%,57.1% (8/14),51.9%,50.5%,0.0%,53.2%,38.9%,42.1% (8/19),2:22
+15-May-2023,Florence 125,3,Clay,Q2,218,328,1,3,6,Ankita Raina,Susan Bandecchi,7-6(3) 6-2,1.23,1.4%,1.4%,68.1%,55.3%,50.0%,37.5% (3/8),55.5%,57.1%,1.3%,52.8%,66.7%,43.8% (7/16),2:00
+1-May-2023,W40 Tbilisi,3,Hard,SF,224,321,0,3,,Stacey Fung,Ankita Raina,6-2 6-2,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,QF,224,346,1,3,,Ankita Raina,Ekaterine Gorgodze,7-6(5) 6-3,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R16,224,359,1,3,,Ankita Raina,Anna Brogan,2-6 7-6(9) 6-0,,,,,,,,,,,,,,
+1-May-2023,W40 Tbilisi,3,Hard,R32,224,653,1,3,,Ankita Raina,Daria Khomutsianskaya,6-3 5-7 6-1,,,,,,,,,,,,,,
+24-Apr-2023,W40+H Calvi,3,Hard,R32,224,338,0,8,,Naiktha Bains,Ankita Raina,7-6(5) 6-4,,,,,,,,,,,,,,
+17-Apr-2023,W25 Nottingham,3,Hard,R32,221,479,0,2,,Amarni Banks,Ankita Raina,6-4 6-3,,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G1 RR: JPN vs IND,3,Hard,RR,221,144,0,,,Moyuka Uchijima,Ankita Raina,6-2 5-7 6-3,,,,,,,,,,,,,,
+13-Apr-2023,BJK Cup G1 RR: CHN vs IND,3,Hard,RR,221,123,0,,,Yue Yuan,Ankita Raina,7-5 6-1,,,,,,,,,,,,,,
+12-Apr-2023,BJK Cup G1 RR: IND vs UZB,3,Hard,RR,221,991,1,,,Ankita Raina,Sevil Yuldasheva,6-4 6-2,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: IND vs THA,3,Hard,RR,221,315,1,,,Ankita Raina,Peangtarn Plipuech,5-7 6-1 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,F,226,301,0,4,,Zhuoxuan Bai,Ankita Raina,3-6 6-0 6-2,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,SF,226,915,1,4,Q,Ankita Raina,Hanyu Guo,7-6(3) 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,QF,226,330,1,4,,Ankita Raina,Xinyu Gao,3-6 6-3 7-5,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,R16,226,,1,4,WC,Ankita Raina,Fitriani Sabatini,6-4 6-1,,,,,,,,,,,,,,
+27-Mar-2023,W25 Jakarta,3,Hard,R32,226,314,1,4,,Ankita Raina,Peangtarn Plipuech,6-0 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R16,226,413,0,5,Q,Ye Xin Ma,Ankita Raina,6-3 3-6 6-1,,,,,,,,,,,,,,
+20-Mar-2023,W25 Jakarta,3,Hard,R32,226,363,1,5,,Ankita Raina,Jia Jing Lu,6-4 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,F,241,163,0,4,1,Brenda Fruhvirtova,Ankita Raina,0-6 6-4 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,SF,241,419,1,4,,Ankita Raina,Rutuja Bhosale,6-1 6-1,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,QF,241,370,1,4,,Ankita Raina,Dea Herdzelas,6-1 6-7(7) 7-5,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,R16,241,356,1,4,,Ankita Raina,Lanlana Tararudee,6-2 6-1,,,,,,,,,,,,,,
+6-Mar-2023,W40 Bengaluru,3,Hard,R32,241,,1,4,WC,Ankita Raina,Vanshita Pathania,6-3 6-0,,,,,,,,,,,,,,
+27-Feb-2023,W25 Bengaluru,3,Hard,R16,241,306,0,3,,Misaki Doi,Ankita Raina,6-1 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W25 Bengaluru,3,Hard,R32,241,401,1,3,,Ankita Raina,Erika Sema,6-4 6-1,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,Q1,245,99,0,WC,15,Viktoriya Tomova,Ankita Raina,3-6 6-1 6-4,0.90,0.0%,4.6%,75.9%,54.5%,38.1%,25.0% (2/8),47.3%,44.6%,3.0%,40.6%,51.4%,28.6% (4/14),2:20
+23-Jan-2023,W40 Pune,3,Hard,SF,258,,0,8,1,Tatjana Maria,Ankita Raina,6-3 6-1,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,QF,258,270,1,8,,Ankita Raina,Karman Thandi,4-6 7-5 7-6(4),,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R16,258,585,1,8,Q,Ankita Raina,Gozal Ainitdinova,6-4 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W40 Pune,3,Hard,R32,258,743,1,8,WC,Ankita Raina,Shrivalli Rashmikaa Bhamidipaty,3-0 RET,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R16,258,195,0,,2,Joanne Zuger,Ankita Raina,6-4 6-3,,,,,,,,,,,,,,
+16-Jan-2023,W40 Bhopal,3,Hard,R32,258,479,1,,,Ankita Raina,Ekaterina Maklakova,4-6 7-6(3) 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,R16,260,333,0,3,,Haruka Kaji,Ankita Raina,7-5 6-3,,,,,,,,,,,,,,
+9-Jan-2023,W40 Nonthaburi,3,Hard,R32,260,450,1,3,Q,Ankita Raina,Hiroko Kuwata,0-6 6-1 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R16,266,,0,7,WC,Anchisa Chanta,Ankita Raina,6-7(1) 6-0 6-4,,,,,,,,,,,,,,
+2-Jan-2023,W40 Nonthaburi,3,Hard,R32,266,328,1,7,,Ankita Raina,Xinyu Gao,3-6 7-6(5) 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,SF,300,321,0,3,6,Valeria Savinykh,Ankita Raina,6-1 6-4,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,QF,300,572,1,3,,Ankita Raina,Vaidehi Chaudhari,6-2 6-7(4) 6-2,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,R16,300,1265,1,3,Q,Ankita Raina,Haine Ogata,6-1 6-2,,,,,,,,,,,,,,
+19-Dec-2022,W25 Navi Mumbai,3,Hard,R32,300,560,1,3,,Ankita Raina,Clara Vlasselaer,7-6(3) 6-1,,,,,,,,,,,,,,
+12-Dec-2022,W25 Solapur,3,Hard,SF,300,306,0,1,3,Anastasia Kulikova,Ankita Raina,5-7 7-5 6-3,,,,,,,,,,,,,,
+12-Dec-2022,W25 Solapur,3,Hard,QF,300,380,1,1,6,Ankita Raina,Ekaterina Yashina,7-6(0) 6-3,,,,,,,,,,,,,,
+12-Dec-2022,W25 Solapur,3,Hard,R16,300,582,1,1,,Ankita Raina,Zeel Desai,6-2 4-6 6-4,,,,,,,,,,,,,,
+12-Dec-2022,W25 Solapur,3,Hard,R32,300,637,1,1,Q,Ankita Raina,Lanlana Tararudee,7-5 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,SF,302,401,0,5,8,Destanee Aiava,Ankita Raina,6-3 3-6 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,QF,302,182,1,5,3,Ankita Raina,Maddison Inglis,0-6 6-3 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R16,302,632,1,5,,Ankita Raina,Michika Ozeki,6-0 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Traralgon,3,Hard,R32,302,422,1,5,,Ankita Raina,Haruna Arakawa,6-3 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,QF,302,402,0,1,5,Destanee Aiava,Ankita Raina,6-4 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,R16,302,502,1,1,,Ankita Raina,Petra Hule,6-3 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W25 Traralgon,3,Hard,R32,302,1168,1,1,,Ankita Raina,Lily Fairclough,6-3 6-1,,,,,,,,,,,,,,
 10-Oct-2022,W25+H Cherbourg En Cotentin,3,Hard,R32,279,722,0,,SE,Manon Leonard,Ankita Raina,6-1 6-3,,,,,,,,,,,,,,
 19-Sep-2022,Seoul,3,Hard,R16,329,70,0,Q,4,Lin Zhu,Ankita Raina,6-1 6-3,0.73,0.0%,1.8%,63.6%,42.9%,35.0%,45.5% (5/11),41.9%,44.0%,0.0%,30.0%,65.0%,50.0% (2/4),1:25
 19-Sep-2022,Seoul,3,Hard,R32,329,137,1,Q,,Ankita Raina,Maddison Inglis,4-6 7-5 6-1,1.14,1.3%,3.8%,76.9%,60.0%,55.6%,0.0% (0/4),52.3%,46.9%,2.0%,46.2%,47.8%,40.0% (6/15),2:19
@@ -157,7 +264,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Jun-2019,W100 Surbiton,3,Grass,R32,170,262,0,Q,,Katy Dunne,Ankita Raina,6-3 6-3,,,,,,,,,,,,,,
 3-Jun-2019,W100 Surbiton,3,Grass,Q2,170,297,1,,,Ankita Raina,Sabine Lisicki,6-3 6-1,,,,,,,,,,,,,,
 3-Jun-2019,W100 Surbiton,3,Grass,Q1,170,234,1,,,Ankita Raina,Myrtille Georges,7-6(6) 6-1,,,,,,,,,,,,,,
-27-May-2019,Roland Garros,5,Clay,Q1,170,324,0,WC,WC,Cori Gauff,Ankita Raina,6-4 6-4,0.77,0.0%,0.0%,69.7%,47.8%,55.0%,37.5% (3/8),44.5%,38.7%,1.6%,26.3%,58.3%,60.0% (3/5),1:24
+27-May-2019,Roland Garros,5,Clay,Q1,170,324,0,WC,WC,Coco Gauff,Ankita Raina,6-4 6-4,0.77,0.0%,0.0%,69.7%,47.8%,55.0%,37.5% (3/8),44.5%,38.7%,1.6%,26.3%,58.3%,60.0% (3/5),1:24
 6-May-2019,W60 Luan,3,Hard,SF,175,293,0,2,,Ying Ying Duan,Ankita Raina,6-3 1-6 6-2,,,,,,,,,,,,,,
 6-May-2019,W60 Luan,3,Hard,QF,175,497,1,2,SE,Ankita Raina,Eudice Wong Chong,2-6 6-4 7-5,,,,,,,,,,,,,,
 6-May-2019,W60 Luan,3,Hard,R16,175,342,1,2,,Ankita Raina,Yue Yuan,6-2 6-3,,,,,,,,,,,,,,
@@ -165,7 +272,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Apr-2019,W80 Gifu,3,Hard,R32,173,168,0,,,Kurumi Nara,Ankita Raina,6-0 6-3,,,,,,,,,,,,,,
 22-Apr-2019,Anning,3,Clay,R16,178,209,0,,,Kai Lin Zhang,Ankita Raina,1-6 7-6(2) 7-6(7),1.02,0.8%,4.0%,49.2%,49.2%,52.4%,61.1% (11/18),50.4%,50.0%,2.5%,38.9%,66.7%,37.5% (9/24),2:55
 22-Apr-2019,Anning,3,Clay,R32,178,77,1,,3,Ankita Raina,Samantha Stosur,7-5 2-6 7-5,1.01,2.5%,4.9%,70.5%,57.0%,38.9%,61.1% (11/18),50.2%,48.7%,6.0%,38.5%,69.2%,43.8% (7/16),2:49
-8-Apr-2019,W60 Istanbul,3,Hard,F,203,95,0,,,Vitalia Diatchenko,Ankita Raina,6-4 6-0 (ch),,,,,,,,,,,,,,
+8-Apr-2019,W60 Istanbul,3,Hard,F,203,95,0,,,Vitalia Diatchenko,Ankita Raina,6-4 6-0,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,SF,203,117,1,,2,Ankita Raina,Marie Bouzkova,6-4 7-6(9),,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,QF,203,258,1,,,Ankita Raina,Cagla Buyukakcay,&nbsp;,,,,,,,,,,,,,,
 8-Apr-2019,W60 Istanbul,3,Hard,R16,203,403,1,,,Ankita Raina,Sofya Lansere,6-4 6-1,,,,,,,,,,,,,,
@@ -178,7 +285,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Mar-2019,W60 Shenzhen,3,Hard,R32,166,558,1,,Q,Ankita Raina,Shuo Feng,6-4 3-6 6-3,,,,,,,,,,,,,,
 18-Feb-2019,Dubai,3,Hard,Q1,164,136,0,,10,Monica Niculescu,Ankita Raina,6-1 6-1,0.60,0.0%,0.0%,63.9%,43.5%,46.2%,0.0% (0/5),37.6%,33.3%,3.5%,33.3%,33.3%,0.0% (0/4),1:12
 9-Feb-2019,Fed Cup G1 PM: IND vs KOR,3,Hard,RR,165,582,1,,,Ankita Raina,Sunam Jeong,6-3 6-3,1.37,0.0%,1.8%,71.4%,62.5%,56.3%,60.0% (3/5),57.0%,53.8%,1.5%,43.6%,69.2%,71.4% (5/7),1:18
-8-Feb-2019,Fed Cup G1 RR: KAZ vs IND,3,Hard,RR,165,43,0,,,Yulia Putintseva,Ankita Raina,6-1 7-6(4) (ch),0.71,0.0%,0.0%,64.9%,45.8%,53.8%,54.5% (6/11),42.8%,36.6%,1.4%,31.9%,45.8%,50.0% (3/6),1:56
+8-Feb-2019,Fed Cup G1 RR: KAZ vs IND,3,Hard,RR,165,43,0,,,Yulia Putintseva,Ankita Raina,6-1 7-6(4),0.71,0.0%,0.0%,64.9%,45.8%,53.8%,54.5% (6/11),42.8%,36.6%,1.4%,31.9%,45.8%,50.0% (3/6),1:56
 7-Feb-2019,Fed Cup G1 RR: IND vs THA,3,Hard,RR,165,297,1,,,Ankita Raina,Peangtarn Plipuech,6-7(3) 6-2 6-4,1.13,0.0%,1.0%,60.2%,59.7%,51.2%,50.0% (5/10),53.0%,49.5%,1.0%,40.0%,68.8%,72.7% (8/11),2:32
 28-Jan-2019,Hua Hin,3,Hard,Q2,168,144,0,11,5,Conny Perrin,Ankita Raina,7-6(1) 6-3,0.71,0.0%,1.4%,67.6%,60.4%,60.9%,71.4% (5/7),44.6%,27.9%,2.9%,20.8%,45.0%,50.0% (1/2),1:42
 28-Jan-2019,Hua Hin,3,Hard,Q1,168,759,1,11,WC,Ankita Raina,Kwan Yau Ng,6-0 6-0,2.20,0.0%,0.0%,64.3%,59.3%,86.7%,100.0% (5/5),68.6%,68.2%,2.3%,60.9%,76.2%,75.0% (6/8),0:56
@@ -298,7 +405,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Apr-2017,Karshi $25K,3,Hard,R32,309,441,1,3,,Ankita Raina,Vlada Ekshibarova,6-0 6-2,,,,,,,,,,,,,,
 17-Apr-2017,Santa Margherita Di Pula $25K,3,Clay,R32,295,401,0,8,,Kimberley Zimmermann,Ankita Raina,6-4 6-1,,,,,,,,,,,,,,
 10-Apr-2017,Istanbul $60K,3,Hard,R32,285,224,0,,,Polina Monova,Ankita Raina,6-1 6-2,,,,,,,,,,,,,,
-27-Mar-2017,Quanzhou $60K,3,Hard,R16,289,100,0,,1,Saisai Zheng,Ankita Raina,6-3 6-2 (ch),,,,,,,,,,,,,,
+27-Mar-2017,Quanzhou $60K,3,Hard,R16,289,100,0,,1,Saisai Zheng,Ankita Raina,6-3 6-2,,,,,,,,,,,,,,
 27-Mar-2017,Quanzhou $60K,3,Hard,R32,289,355,1,,,Ankita Raina,Hanyu Guo,5-7 6-2 7-5,,,,,,,,,,,,,,
 10-Feb-2017,Fed Cup G1 RR: CHN vs IND,3,Hard,RR,270,118,0,,,Lin Zhu,Ankita Raina,6-3 3-6 6-4,1.01,0.0%,1.1%,69.1%,66.2%,41.4%,61.5% (8/13),50.3%,41.8%,0.0%,34.7%,50.0%,28.6% (4/14),2:01
 10-Feb-2017,Fed Cup G1 RR: IND vs PHI,3,Hard,RR,270,548,0,,,Katharina Lehnert,Ankita Raina,6-3 6-4,0.85,0.0%,0.0%,68.8%,56.8%,45.0%,55.6% (5/9),46.3%,40.0%,1.4%,31.1%,56.0%,28.6% (2/7),1:29

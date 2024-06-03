@@ -1,4 +1,111 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,W75 Trnava,3,Clay,F,240,110,0,,2,Moyuka Uchijima,Mona Barthel,7-6(3) 6-3,,,,,,,,,,,,,,
+6-May-2024,W75 Trnava,3,Clay,SF,240,176,1,,8,Mona Barthel,Veronika Erjavec,4-6 6-3 6-4,,,,,,,,,,,,,,
+6-May-2024,W75 Trnava,3,Clay,QF,240,615,1,,WC,Mona Barthel,Renata Jamrichova,6-3 6-2,,,,,,,,,,,,,,
+6-May-2024,W75 Trnava,3,Clay,R16,240,193,1,,,Mona Barthel,Julia Avdeeva,6-4 6-0,,,,,,,,,,,,,,
+6-May-2024,W75 Trnava,3,Clay,R32,240,314,1,,WC,Mona Barthel,Lucie Havlickova,6-3 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q2,236,609,0,12,A,Gina Feistel,Mona Barthel,1-6 7-6(6) 6-4,,,,,,,,,,,,,,
+29-Apr-2024,W100 Wiesbaden,3,Clay,Q1,236,336,1,12,,Mona Barthel,Tina Nadine Smith,6-1 6-3,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,QF,248,965,1,4,Q,Mona Barthel,Irina Ramialison,6-1 6-2,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,R16,248,703,1,4,WC,Mona Barthel,Julie Belgraver,6-2 6-2,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,R32,248,597,1,4,,Mona Barthel,Jenny Lim,7-6(3) 7-5,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R32,249,240,0,,,Nigina Abduraimova,Mona Barthel,1-6 6-4 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,F,284,164,0,,8,Yuriko Miyazaki,Mona Barthel,6-4 7-5,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,SF,284,258,1,,,Mona Barthel,Margaux Rouvroy,4-6 6-3 6-2,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,QF,284,147,1,,6,Mona Barthel,Celine Naef,6-3 6-7(4) 6-3,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,R16,284,171,1,,,Mona Barthel,Alexandra Eala,4-6 6-4 6-1,,,,,,,,,,,,,,
+25-Mar-2024,W75 Croissy-Beaubourg,3,Hard,R32,284,131,1,,4,Mona Barthel,Sachia Vickery,7-5 6-4,,,,,,,,,,,,,,
+18-Mar-2024,W75 Maribor,3,Hard,Q2,284,409,0,6,11,Ekaterina Maklakova,Mona Barthel,W/O,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,QF,285,235,0,Q,Q,Ipek Oz,Mona Barthel,6-2 6-1,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,R16,285,144,1,Q,2,Mona Barthel,Fiona Ferro,4-6 6-1 6-1,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,R32,285,925,1,Q,WC,Mona Barthel,Laura Samson,7-5 6-3,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,Q2,285,245,1,10,5,Mona Barthel,Tatiana Prozorova,4-6 6-4 6-2,,,,,,,,,,,,,,
+11-Mar-2024,W75 Ricany,3,Hard,Q1,285,420,1,10,,Mona Barthel,Aneta Kladivova,6-4 6-1,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,Q2,285,182,0,,3,Antonia Ruzic,Mona Barthel,7-6(2) 6-3,,,,,,,,,,,,,,
+4-Mar-2024,W75 Trnava,3,Hard,Q1,285,235,1,,14,Mona Barthel,Ipek Oz,6-3 6-4,,,,,,,,,,,,,,
+26-Feb-2024,W35 Helsinki,3,Hard,R16,286,519,0,,Q,Malene Helgo,Mona Barthel,3-6 7-6(4) 7-5,,,,,,,,,,,,,,
+26-Feb-2024,W35 Helsinki,3,Hard,R32,286,213,1,,4,Mona Barthel,Valentini Grammatikopoulou,7-5 6-3,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,Q2,285,378,0,5,10,Susan Bandecchi,Mona Barthel,6-3 3-6 6-0,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R16,285,110,0,,3,Marina Bassols Ribera,Mona Barthel,6-4 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R32,285,430,1,,WC,Mona Barthel,Carolina Kuhl,1-6 7-6(2) 6-0,,,,,,,,,,,,,,
+5-Feb-2024,W50 Edgbaston,3,Hard,R32,283,767,0,,WC,Alice Gillan,Mona Barthel,6-4 4-0 RET,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,Q2,249,,0,3,,Nastasja Schunk,Mona Barthel,6-3 4-6 6-3,,,,,,,,,,,,,,
+11-Dec-2023,Limoges 125,3,Hard,R32,243,130,0,,8,Rebecca Peterson,Mona Barthel,7-6(3) 7-5,0.98,6.3%,13.8%,50.0%,70.0%,40.0%,44.4% (4/9),49.1%,44.1%,2.2%,39.1%,48.9%,44.4% (4/9),1:59
+4-Dec-2023,Angers 125,3,Hard,R16,255,60,0,Q,2,Clara Burel,Mona Barthel,6-2 7-6(5),0.79,2.6%,7.8%,57.1%,61.4%,27.3%,50.0% (5/10),44.6%,42.3%,4.2%,35.6%,53.8%,60.0% (3/5),1:25
+4-Dec-2023,Angers 125,3,Hard,R32,255,299,1,Q,,Mona Barthel,Kathinka Von Deichmann,6-3 7-6(5),1.18,2.3%,4.7%,60.5%,71.2%,38.2%,75.0% (9/12),53.8%,49.4%,2.4%,48.4%,52.4%,28.6% (4/14),1:50
+27-Nov-2023,W60 Trnava,3,Hard,SF,270,251,0,8,7,Kristina Mladenovic,Mona Barthel,6-4 6-4,,,,,,,,,,,,,,
+27-Nov-2023,W60 Trnava,3,Hard,QF,270,273,1,8,,Mona Barthel,Kateryna Bondarenko,W/O,,,,,,,,,,,,,,
+27-Nov-2023,W60 Trnava,3,Hard,R16,270,459,1,8,Q,Mona Barthel,Sarah Beth Grey,6-2 4-6 6-2,,,,,,,,,,,,,,
+27-Nov-2023,W60 Trnava,3,Hard,R32,270,1374,1,8,WC,Mona Barthel,Natalia Krockova,6-1 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,F,250,375,1,3,,Mona Barthel,Diana Marcinkevica,6-2 6-7(6) 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,SF,250,238,1,3,2,Mona Barthel,Yuliya Hatouka,3-6 6-3 6-4,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,QF,250,521,1,3,,Mona Barthel,Caijsa Wilda Hennemann,6-2 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,R16,250,1156,1,3,JE,Mona Barthel,Nikola Daubnerova,6-4 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W25 Ortisei,3,Hard,R32,250,389,1,3,SE,Mona Barthel,Lisa Pigato,6-2 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R16,247,101,0,,3,Oceane Dodin,Mona Barthel,6-2 6-4,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R32,247,370,1,,,Mona Barthel,Julia Middendorf,W/O,,,,,,,,,,,,,,
+30-Oct-2023,W25 Sunderland,3,Hard,R32,277,,0,3,WC,Mika Stojsavljevic,Mona Barthel,7-6(2) 3-0 RET,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,F,277,133,0,,3,Daria Snigur,Mona Barthel,6-4 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,SF,277,1228,1,,Q,Mona Barthel,Mingge Xu,3-6 7-6(4) 6-4,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,QF,277,191,1,,4,Mona Barthel,Yuriko Miyazaki,6-2 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,R16,277,216,1,,,Mona Barthel,Suzan Lamens,7-6(7) 3-6 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W60 Glasgow,3,Hard,R32,277,343,1,,,Mona Barthel,Anna Siskova,6-0 6-7(6) 6-3,,,,,,,,,,,,,,
+16-Oct-2023,W60 Hamburg,3,Hard,QF,290,253,0,5,2,Ella Seidel,Mona Barthel,6-4 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W60 Hamburg,3,Hard,R16,290,687,1,5,SR,Mona Barthel,Stephanie Wagner,4-6 7-6(0) 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W60 Hamburg,3,Hard,R32,290,425,1,5,,Mona Barthel,Aneta Kladivova,6-4 7-5,,,,,,,,,,,,,,
+9-Oct-2023,W40 Quinta do Lago,3,Hard,R32,297,288,0,,,Xinyu Gao,Mona Barthel,6-3 7-5,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,QF,285,353,0,3,7,Julia Avdeeva,Mona Barthel,6-4 6-4,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,R16,285,,1,3,WC,Mona Barthel,Lucie Safarova,W/O,,,,,,,,,,,,,,
+2-Oct-2023,W25 Reims,3,Hard,R32,285,433,1,3,,Mona Barthel,Ayla Aksu,6-1 3-6 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W60+H Caldas da Rainha,3,Hard,R32,283,151,0,,3,Leolia Jeanjean,Mona Barthel,6-7(1) 6-2 7-6(5),,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R32,256,100,0,,1,Lucrezia Stefanini,Mona Barthel,6-2 6-1,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q1,249,150,0,,,Simona Waltert,Mona Barthel,6-2 6-4,0.68,4.8%,6.3%,61.9%,59.0%,41.7%,42.9% (3/7),42.6%,32.2%,3.4%,24.1%,40.0%,25.0% (1/4),1:16
+7-Aug-2023,Kozerki 125,3,Hard,R32,226,195,0,,,Katarina Zavatska,Mona Barthel,6-2 7-5,0.79,3.1%,9.4%,65.6%,50.0%,31.8%,57.1% (8/14),44.1%,44.4%,0.0%,43.5%,47.1%,50.0% (3/6),1:30
+31-Jul-2023,Prague,3,Hard,Q1,226,181,0,,8,Emiliana Arango,Mona Barthel,7-5 6-7(3) 7-5,0.92,1.7%,6.0%,60.3%,64.3%,32.6%,55.6% (10/18),48.1%,44.5%,0.8%,36.4%,59.5%,40.0% (6/15),2:23
+23-Jul-2023,Hamburg,3,Clay,Q1,220,404,0,11,WC,Kathleen Kanev,Mona Barthel,6-3 4-6 6-4,0.88,4.9%,8.7%,51.5%,73.6%,36.0%,50.0% (5/10),47.7%,39.1%,0.0%,32.3%,53.3%,33.3% (3/9),2:01
+3-Jul-2023,W60 Liepaja,3,Clay,R32,201,675,0,6,Q,Klaudija Bubelyte,Mona Barthel,7-6(2) 6-0,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,201,113,0,,10,Oceane Dodin,Mona Barthel,6-4 6-4,0.94,9.8%,8.2%,62.3%,68.4%,47.8%,40.0% (2/5),47.4%,36.8%,13.2%,26.8%,48.6%,12.5% (1/8),1:13
+12-Jun-2023,Valencia 125,3,Clay,Q2,200,210,0,6,4,Darja Semenistaja,Mona Barthel,6-1 3-1 RET,0.39,6.3%,15.6%,46.9%,46.7%,17.6%,16.7% (1/6),29.3%,26.9%,7.7%,31.3%,20.0%,100.0% (1/1),0:34
+12-Jun-2023,Valencia 125,3,Clay,Q1,200,,1,6,ALT,Mona Barthel,Alena Fomina,6-3 6-1,1.49,2.0%,2.0%,66.7%,70.6%,52.9%,66.7% (2/3),57.6%,52.7%,0.0%,47.9%,61.5%,41.7% (5/12),1:00
+5-Jun-2023,Makarska 125,3,Clay,R32,207,176,0,,,Elsa Jacquemot,Mona Barthel,6-4 4-6 6-2,,,,,,,,,,,,,,
+29-May-2023,W60 Brescia,3,Clay,R32,207,243,0,8,,Hailey Baptiste,Mona Barthel,7-6(4) 2-6 6-4,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q2,207,204,0,,,Storm Hunter,Mona Barthel,6-3 6-2,0.66,4.3%,10.9%,76.1%,54.3%,27.3%,28.6% (2/7),41.1%,34.7%,4.1%,27.8%,53.8%,25.0% (1/4),
+29-May-2023,Roland Garros,5,Clay,Q1,207,329,1,,WC,Mona Barthel,Alice Tubello,6-4 1-6 6-2,1.14,5.6%,4.2%,64.8%,65.2%,60.0%,57.1% (4/7),52.4%,41.9%,0.0%,40.0%,44.8%,50.0% (4/8),
+1-May-2023,W100 Wiesbaden,3,Clay,R16,200,179,0,,8,Jaimee Fourlis,Mona Barthel,6-4 6-2,,,,,,,,,,,,,,
+1-May-2023,W100 Wiesbaden,3,Clay,R32,200,667,1,,Q,Mona Barthel,Anna Klasen,6-4 3-6 6-3,,,,,,,,,,,,,,
+24-Apr-2023,W60 Oeiras,3,Clay,R32,200,244,0,8,,Sada Nahimana,Mona Barthel,4-6 6-2 7-5,,,,,,,,,,,,,,
+17-Apr-2023,Stuttgart,3,Clay,Q1,201,138,0,,8,Ylena In Albon,Mona Barthel,6-3 6-7(2) 7-5,0.75,6.8%,4.2%,56.8%,59.7%,47.1%,53.8% (7/13),46.0%,34.5%,6.0%,37.7%,26.1%,100.0% (3/3),2:04
+10-Apr-2023,W60 Chiasso,3,Clay,R32,201,186,0,,8,Nigina Abduraimova,Mona Barthel,6-3 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,191,366,0,,Q,Margaux Rouvroy,Mona Barthel,6-2 6-2,,,,,,,,,,,,,,
+20-Mar-2023,W40 Maribor,3,Hard,R32,191,139,0,,2,Clara Tauson,Mona Barthel,6-3 2-6 7-6(2),,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,SF,204,292,0,,Q,Antonia Ruzic,Mona Barthel,6-4 7-6(0),,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,QF,204,257,1,,,Mona Barthel,Lea Boskovic,2-6 7-6(5) RET,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R16,204,157,1,,4,Mona Barthel,Ana Konjuh,6-4 7-5,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R32,204,369,1,,Q,Mona Barthel,Hina Inoue,6-0 2-6 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R16,204,102,0,,3,Oceane Dodin,Mona Barthel,5-7 6-3 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R32,204,260,1,,,Mona Barthel,Nina Potocnik,6-2 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R32,203,281,0,,Q,Dominika Salkova,Mona Barthel,7-6(4) 4-6 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R16,199,259,0,,,Yanina Wickmayer,Mona Barthel,6-3 7-5,,,,,,,,,,,,,,
+13-Feb-2023,W60 Altenkirchen,3,Carpet,R32,199,175,1,,8,Mona Barthel,Yuriko Miyazaki,6-0 4-6 6-3,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,F,222,223,0,,,Greet Minnen,Mona Barthel,6-2 1-6 6-0,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,SF,222,211,1,,,Mona Barthel,Magali Kempen,6-3 6-3,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,QF,222,206,1,,8,Mona Barthel,Sonay Kartal,6-1 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R16,222,,1,,Q,Mona Barthel,Elena Malygina,4-6 6-2 7-5,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R32,222,427,1,,WC,Mona Barthel,Freya Christie,6-3 7-5,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R32,222,279,0,4,SE,Yanina Wickmayer,Mona Barthel,4-6 5-1 RET,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q1,222,187,0,,,Petra Marcinko,Mona Barthel,6-2 6-4,0.83,6.1%,4.1%,46.9%,60.9%,65.4%,57.1% (4/7),45.7%,30.4%,5.4%,23.1%,47.1%,0.0% (0/1),1:01
+2-Jan-2023,W60 Canberra,3,Hard,Q1,224,205,0,,13,Darya Astakhova,Mona Barthel,6-3 6-3,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,F,282,107,1,7,2,Mona Barthel,Daria Snigur,7-6(2) 6-2,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,SF,282,473,1,7,,Mona Barthel,Celine Naef,4-6 6-2 6-1,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,QF,282,91,1,7,1,Mona Barthel,Linda Noskova,4-6 6-3 4-1 RET,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,R16,282,626,1,7,LL,Mona Barthel,Angelina Wirges,6-2 6-4,,,,,,,,,,,,,,
+21-Nov-2022,W25 Petange,3,Hard,R32,282,659,1,7,,Mona Barthel,Nina Radovanovic,6-2 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,F,277,421,0,4,,Taylor Ng,Mona Barthel,6-4 2-6 7-6(5),,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,SF,277,373,1,4,,Mona Barthel,Elena Malygina,4-6 7-6(5) 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,QF,277,1014,1,4,Q,Mona Barthel,Julia Stusek,6-1 7-5,,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,R16,277,656,1,4,Q,Mona Barthel,Anna Klasen,6-2 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Helsinki,3,Hard,R32,277,740,1,4,Q,Mona Barthel,Nadiya Kolb,2-6 6-3 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R32,279,365,0,,Q,Isabella Kruger,Mona Barthel,6-3 4-6 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W60 Hamburg,3,Hard,R32,254,602,0,,Q,Tayisiya Morderger,Mona Barthel,7-6(9) 7-6(5),,,,,,,,,,,,,,
 10-Oct-2022,W60 Trnava,3,Hard,R32,260,207,0,,,Valentini Grammatikopoulou,Mona Barthel,6-4 7-6(1),,,,,,,,,,,,,,
 3-Oct-2022,W60 Trnava,3,Hard,R16,262,116,0,Q,2,Vitalia Diatchenko,Mona Barthel,7-6(6) 7-6(2),,,,,,,,,,,,,,
@@ -35,7 +142,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-May-2022,W25 Varberg,3,Clay,QF,418,351,0,,2,Malene Helgo,Mona Barthel,6-1 7-5,,,,,,,,,,,,,,
 9-May-2022,W25 Varberg,3,Clay,R16,418,,1,,Q,Mona Barthel,Yoana Konstantinova,6-1 6-1,,,,,,,,,,,,,,
 9-May-2022,W25 Varberg,3,Clay,R32,418,1058,1,,,Mona Barthel,Louise Brunskog,6-3 6-1,,,,,,,,,,,,,,
-2-May-2022,W25 Bastad,3,Clay,R32,411,579,0,8,,Anastasiya Konstantinovna Soboleva,Mona Barthel,7-6(5) 3-6 6-4,,,,,,,,,,,,,,
+2-May-2022,W25 Bastad,3,Clay,R32,411,579,0,8,,Anastasiya Soboleva,Mona Barthel,7-6(5) 3-6 6-4,,,,,,,,,,,,,,
 18-Apr-2022,W25 Nottingham,3,Hard,R32,370,645,0,,Q,Sofia Sewing,Mona Barthel,0-6 6-3 6-1,,,,,,,,,,,,,,
 11-Apr-2022,W25 Nottingham,3,Hard,R16,368,391,0,7,,Eudice Wong Chong,Mona Barthel,4-6 6-1 7-6(1),,,,,,,,,,,,,,
 11-Apr-2022,W25 Nottingham,3,Hard,R32,368,633,1,7,WC,Mona Barthel,Eliz Maloney,7-5 7-5,,,,,,,,,,,,,,
@@ -66,7 +173,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Aug-2021,W100 Landisville PA,3,Hard,Q1,213,521,1,12,WC,Mona Barthel,Elysia Bolton,6-4 6-3,,,,,,,,,,,,,,
 2-Aug-2021,Concord,3,Hard,Q1,212,415,0,5,,Sophie Chang,Mona Barthel,6-2 6-3,0.67,9.1%,20.0%,40.0%,59.1%,33.3%,54.5% (6/11),40.7%,37.7%,7.5%,26.7%,52.2%,66.7% (2/3),1:12
 24-Jul-2021,Tokyo Olympics,3,Hard,R64,210,8,0,,6,Iga Swiatek,Mona Barthel,6-2 6-2,,,,,,,,,,,,,,
-12-Jul-2021,Prague,3,Hard,R32,207,156,0,,WC,Viktoria Kuzmova,Mona Barthel,2-6 6-4 6-3,0.89,11.4%,13.6%,48.9%,72.1%,42.2%,60.0% (6/10),47.9%,38.3%,6.2%,28.2%,47.6%,30.0% (3/10),1:46
+12-Jul-2021,Prague,3,Hard,R32,207,156,0,,WC,Viktoria Hruncakova,Mona Barthel,2-6 6-4 6-3,0.89,11.4%,13.6%,48.9%,72.1%,42.2%,60.0% (6/10),47.9%,38.3%,6.2%,28.2%,47.6%,30.0% (3/10),1:46
 5-Jul-2021,Hamburg,3,Clay,R32,190,161,0,WC,LL,Kristina Kucova,Mona Barthel,6-3 7-6(4),0.84,7.1%,6.0%,56.0%,68.1%,43.2%,66.7% (6/9),47.2%,36.0%,0.0%,35.4%,37.0%,20.0% (1/5),1:46
 28-Jun-2021,Wimbledon,5,Grass,R128,190,99,0,,,Lin Zhu,Mona Barthel,6-7(2) 6-3 6-3,0.77,6.0%,9.4%,51.3%,68.3%,42.1%,53.8% (7/13),46.0%,34.4%,0.0%,25.8%,53.3%,50.0% (3/6),2:12
 21-Jun-2021,Bad Homburg,3,Grass,R32,192,62,0,WC,,Patricia Maria Tig,Mona Barthel,7-6(4) 6-3,0.97,7.5%,7.5%,61.2%,75.6%,46.2%,60.0% (3/5),48.0%,34.6%,0.0%,29.5%,40.5%,20.0% (1/5),1:49
@@ -123,7 +230,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 14-Jan-2019,Australian Open,5,Hard,R128,76,12,0,,13,Anastasija Sevastova,Mona Barthel,6-3 6-1,0.58,1.6%,11.1%,58.7%,54.1%,34.6%,61.5% (8/13),39.5%,31.4%,7.8%,33.3%,27.8%,16.7% (1/6),1:02
 31-Dec-2018,Auckland,3,Hard,R16,77,14,0,,2,Julia Goerges,Mona Barthel,6-4 6-4,0.75,5.0%,8.3%,55.0%,75.8%,25.9%,50.0% (4/8),44.2%,35.0%,5.0%,40.7%,30.3%,28.6% (2/7),1:23
 31-Dec-2018,Auckland,3,Hard,R32,77,190,1,,Q,Mona Barthel,Silvia Soler Espinosa,6-2 7-6(1),1.81,15.8%,3.5%,57.9%,84.8%,62.5%,75.0% (3/4),58.1%,44.4%,0.0%,34.0%,64.0%,42.9% (3/7),1:25
-10-Dec-2018,Dubai $100K,3,Hard,QF,78,54,0,,2,Viktoria Kuzmova,Mona Barthel,4-6 6-4 6-4,,,,,,,,,,,,,,
+10-Dec-2018,Dubai $100K,3,Hard,QF,78,54,0,,2,Viktoria Hruncakova,Mona Barthel,4-6 6-4 6-4,,,,,,,,,,,,,,
 10-Dec-2018,Dubai $100K,3,Hard,R16,78,248,1,,SR,Mona Barthel,Quirine Lemoine,6-2 6-4,,,,,,,,,,,,,,
 10-Dec-2018,Dubai $100K,3,Hard,R32,78,454,1,,WC,Mona Barthel,Alexandra Panova,6-4 6-2,,,,,,,,,,,,,,
 8-Oct-2018,Linz,3,Hard,Q1,83,119,0,2,,Ekaterina Alexandrova,Mona Barthel,6-2 6-1,0.39,9.1%,10.9%,50.9%,57.1%,22.2%,33.3% (3/9),33.7%,23.5%,8.8%,18.2%,33.3%,100.0% (1/1),0:47
@@ -135,7 +242,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Sep-2018,Seoul,3,Hard,Q2,93,181,1,1,7,Mona Barthel,Silvia Soler Espinosa,6-3 6-4,1.57,19.2%,11.5%,69.2%,83.3%,37.5%,50.0% (2/4),58.3%,48.2%,0.0%,39.4%,60.9%,50.0% (4/8),0:59
 17-Sep-2018,Seoul,3,Hard,Q1,93,495,1,1,WC,Mona Barthel,Hanna Chang,6-1 6-3,1.54,5.6%,3.7%,66.7%,75.0%,44.4%,80.0% (4/5),58.7%,54.2%,0.0%,45.0%,65.6%,35.7% (5/14),1:18
 10-Sep-2018,Quebec City,3,Hard,R32,94,67,0,,5,Sofia Kenin,Mona Barthel,6-3 6-4,0.73,5.2%,13.8%,53.4%,64.5%,29.6%,28.6% (2/7),43.1%,37.9%,3.4%,29.4%,50.0%,100.0% (2/2),1:04
-3-Sep-2018,Chicago,3,Hard,F,111,47,0,,2,Petra Martic,Mona Barthel,6-4 6-1 (ch),0.59,0.0%,8.1%,58.1%,41.7%,50.0%,61.5% (8/13),39.8%,32.6%,4.3%,30.3%,38.5%,50.0% (1/2),1:07
+3-Sep-2018,Chicago,3,Hard,F,111,47,0,,2,Petra Martic,Mona Barthel,6-4 6-1,0.59,0.0%,8.1%,58.1%,41.7%,50.0%,61.5% (8/13),39.8%,32.6%,4.3%,30.3%,38.5%,50.0% (1/2),1:07
 3-Sep-2018,Chicago,3,Hard,SF,111,78,1,,6,Mona Barthel,Sachia Vickery,W/O,,,,,,,,,,,,,,
 3-Sep-2018,Chicago,3,Hard,QF,111,98,1,,,Mona Barthel,Dayana Yastremska,6-2 7-6(5),1.22,0.0%,6.0%,46.3%,61.3%,58.3%,62.5% (5/8),54.8%,49.2%,3.4%,38.9%,65.2%,55.6% (5/9),1:27
 3-Sep-2018,Chicago,3,Hard,R16,111,60,1,,3,Mona Barthel,Zarina Diyas,6-2 3-6 6-3,1.23,4.8%,7.2%,53.0%,77.3%,48.7%,50.0% (2/4),52.9%,44.4%,3.7%,35.6%,62.9%,28.6% (4/14),2:02
@@ -144,7 +251,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Aug-2018,US Open,5,Hard,Q3,111,193,0,8,,Francesca Di Lorenzo,Mona Barthel,6-4 6-2,0.74,6.0%,14.0%,46.0%,73.9%,33.3%,50.0% (5/10),43.4%,35.7%,1.8%,32.4%,42.1%,50.0% (2/4),1:06
 27-Aug-2018,US Open,5,Hard,Q2,111,190,1,8,,Mona Barthel,Silvia Soler Espinosa,4-6 7-6(6) 6-0,1.28,12.1%,9.9%,54.9%,76.0%,48.8%,60.0% (6/10),55.3%,46.6%,1.1%,47.4%,45.2%,60.0% (6/10),1:49
 27-Aug-2018,US Open,5,Hard,Q1,111,391,1,8,,Mona Barthel,Lucie Hradecka,7-5 2-6 6-1,1.08,4.0%,10.0%,63.0%,76.2%,29.7%,50.0% (4/8),52.2%,44.2%,2.3%,37.7%,54.5%,83.3% (5/6),1:46
-23-Jul-2018,Prague $80K,3,Clay,QF,114,342,0,,,Iga Swiatek,Mona Barthel,6-2 6-3 (ch),,,,,,,,,,,,,,
+23-Jul-2018,Prague $80K,3,Clay,QF,114,342,0,,,Iga Swiatek,Mona Barthel,6-2 6-3,,,,,,,,,,,,,,
 23-Jul-2018,Prague $80K,3,Clay,R16,114,222,1,,,Mona Barthel,Nina Stojanovic,6-3 6-4,,,,,,,,,,,,,,
 23-Jul-2018,Prague $80K,3,Clay,R32,114,446,1,,WC,Mona Barthel,Barbora Stefkova,6-3 6-2,,,,,,,,,,,,,,
 16-Jul-2018,Gstaad,3,Clay,R16,115,92,0,,,Evgeniya Rodina,Mona Barthel,6-4 2-6 7-5,1.11,10.9%,10.9%,56.5%,71.2%,47.5%,16.7% (1/6),51.5%,43.5%,0.9%,46.2%,39.5%,31.3% (5/16),1:55
@@ -186,7 +293,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jan-2018,Australian Open,5,Hard,R128,53,99,1,,,Mona Barthel,Monica Niculescu,6-4 7-5,1.23,2.5%,6.3%,58.2%,76.1%,48.5%,83.3% (5/6),54.1%,43.6%,1.3%,28.8%,73.1%,42.9% (3/7),1:49
 8-Jan-2018,Hobart,3,Hard,R32,52,64,0,,,Varvara Lepchenko,Mona Barthel,6-0 7-6(4),0.76,7.6%,4.5%,60.6%,55.0%,46.2%,63.6% (7/11),43.5%,37.0%,0.0%,30.0%,57.1%,12.5% (1/8),1:26
 1-Jan-2018,Auckland,3,Hard,R32,52,63,0,7,,Varvara Lepchenko,Mona Barthel,6-2 6-2,0.59,1.7%,6.9%,58.6%,52.9%,50.0%,50.0% (4/8),40.5%,28.3%,3.8%,31.4%,22.2%,0.0% (0/5),1:11
-2-Oct-2017,Beijing ,3,Hard,R64,48,44,0,,,Sorana Cirstea,Mona Barthel,7-6(4) 6-1,0.70,4.1%,2.7%,64.9%,60.4%,34.6%,50.0% (4/8),43.8%,33.9%,3.6%,31.0%,37.0%,100.0% (2/2),1:22
+2-Oct-2017,Beijing,3,Hard,R64,48,44,0,,,Sorana Cirstea,Mona Barthel,7-6(4) 6-1,0.70,4.1%,2.7%,64.9%,60.4%,34.6%,50.0% (4/8),43.8%,33.9%,3.6%,31.0%,37.0%,100.0% (2/2),1:22
 25-Sep-2017,Wuhan,3,Hard,R64,49,77,0,,Q,Monica Puig,Mona Barthel,6-0 6-7(0) 6-4,0.82,10.8%,10.8%,60.2%,64.0%,48.5%,45.5% (5/11),46.6%,34.6%,2.6%,30.8%,38.5%,100.0% (2/2),1:46
 18-Sep-2017,Guangzhou,3,Hard,R16,51,65,0,,,Aleksandra Krunic,Mona Barthel,6-4 6-0,0.55,5.3%,12.3%,54.4%,54.8%,30.8%,50.0% (5/10),38.4%,31.0%,11.9%,29.2%,33.3%,50.0% (1/2),0:59
 18-Sep-2017,Guangzhou,3,Hard,R32,51,202,1,,Q,Mona Barthel,Jing Jing Lu,6-0 4-6 6-3,1.32,2.8%,14.1%,54.9%,76.9%,40.6%,50.0% (3/6),55.7%,52.1%,3.1%,34.6%,72.7%,43.8% (7/16),1:51
@@ -219,7 +326,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 1-May-2017,Prague,3,Clay,Q3,82,105,1,3,8,Mona Barthel,Denisa Allertova,6-0 6-3,1.67,1.9%,1.9%,67.3%,71.4%,64.7%,100.0% (1/1),58.9%,51.4%,1.4%,52.2%,50.0%,40.0% (4/10),1:09
 1-May-2017,Prague,3,Clay,Q2,82,196,1,3,,Mona Barthel,Jasmine Paolini,6-2 4-6 7-6(3),1.12,6.5%,3.3%,68.5%,52.4%,55.2%,50.0% (7/14),52.7%,52.3%,1.5%,51.5%,54.5%,27.6% (8/29),2:12
 1-May-2017,Prague,3,Clay,Q1,82,137,1,3,,Mona Barthel,Sachia Vickery,6-3 6-2,1.82,0.0%,2.0%,71.4%,71.4%,57.1%,33.3% (1/3),63.7%,59.5%,2.4%,44.4%,70.8%,62.5% (5/8),0:57
-10-Apr-2017,Biel,3,Hard,R16,80,68,0,,,Elise Mertens,Mona Barthel,6-2 6-4 (ch),0.77,1.7%,0.0%,56.9%,48.5%,48.0%,44.4% (4/9),44.1%,39.6%,0.0%,16.7%,69.6%,40.0% (2/5),1:11
+10-Apr-2017,Biel,3,Hard,R16,80,68,0,,,Elise Mertens,Mona Barthel,6-2 6-4,0.77,1.7%,0.0%,56.9%,48.5%,48.0%,44.4% (4/9),44.1%,39.6%,0.0%,16.7%,69.6%,40.0% (2/5),1:11
 10-Apr-2017,Biel,3,Hard,R32,80,96,1,,,Mona Barthel,Jana Cepelova,6-3 6-4,1.27,7.9%,4.8%,58.7%,75.7%,53.8%,85.7% (6/7),54.9%,42.4%,3.4%,22.6%,64.3%,37.5% (3/8),1:09
 3-Apr-2017,Charleston,3,Clay,R32,88,23,0,,11,Mirjana Lucic,Mona Barthel,6-3 6-2,0.69,5.9%,7.8%,52.9%,70.4%,25.0%,0.0% (0/4),41.7%,35.1%,3.5%,19.4%,53.8%,25.0% (1/4),1:00
 3-Apr-2017,Charleston,3,Clay,R64,88,77,1,,,Mona Barthel,Jennifer Brady,7-5 6-4,1.07,6.6%,5.3%,61.8%,70.2%,44.8%,66.7% (4/6),52.1%,42.4%,3.0%,37.1%,48.4%,50.0% (4/8),1:31
@@ -232,7 +339,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Feb-2017,Dubai,3,Hard,R64,109,51,1,WC,,Mona Barthel,Jelena Jankovic,6-1 6-3,2.01,7.3%,0.0%,63.4%,73.1%,73.3%,0.0% (0/1),62.6%,54.0%,2.0%,54.8%,52.6%,62.5% (5/8),0:59
 13-Feb-2017,Doha,3,Hard,Q1,112,58,0,WC,4,Kristyna Pliskova,Mona Barthel,1-6 6-3 6-2,1.05,2.8%,5.6%,64.8%,73.9%,36.0%,33.3% (2/6),50.7%,41.6%,3.9%,31.8%,54.5%,60.0% (3/5),1:30
 16-Jan-2017,Australian Open,5,Hard,R16,181,17,0,,13,Venus Williams,Mona Barthel,6-3 7-5,0.75,1.4%,1.4%,69.6%,50.0%,61.9%,60.0% (6/10),43.8%,34.7%,5.3%,26.5%,50.0%,20.0% (2/10),1:36
-16-Jan-2017,Australian Open,5,Hard,R32,181,223,1,,,Mona Barthel,Ashleigh Barty,6-4 3-6 6-3 (ch),,,,,,,,,,,,,,
+16-Jan-2017,Australian Open,5,Hard,R32,181,223,1,,,Mona Barthel,Ashleigh Barty,6-4 3-6 6-3,,,,,,,,,,,,,,
 16-Jan-2017,Australian Open,5,Hard,R64,181,46,1,,29,Mona Barthel,Monica Puig,6-4 6-4,1.13,9.5%,6.3%,58.7%,56.8%,38.5%,61.5% (8/13),53.2%,57.4%,1.6%,54.1%,62.5%,58.3% (7/12),1:20
 16-Jan-2017,Australian Open,5,Hard,R128,181,273,1,,,Mona Barthel,Destanee Aiava,6-3 7-6(4),1.06,6.6%,5.3%,65.8%,76.0%,50.0%,75.0% (3/4),51.7%,34.8%,4.3%,26.3%,45.2%,66.7% (2/3),1:31
 16-Jan-2017,Australian Open,5,Hard,Q3,181,122,1,,8,Mona Barthel,Maryna Zanevska,6-4 6-3,,,,,,,,,,,,,,
@@ -275,14 +382,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Jan-2016,Hobart,3,Hard,R16,45,145,1,9,Q,Mona Barthel,Naomi Osaka,7-6(2) 6-2,1.02,3.8%,3.8%,56.3%,75.6%,45.7%,75.0% (3/4),52.1%,38.3%,6.7%,32.3%,44.8%,100.0% (3/3),1:20
 11-Jan-2016,Hobart,3,Hard,R32,45,65,1,9,,Mona Barthel,Misaki Doi,6-4 6-4,1.27,9.7%,9.7%,58.1%,75.0%,50.0%,66.7% (2/3),54.2%,44.9%,0.0%,47.2%,42.4%,50.0% (3/6),1:16
 4-Jan-2016,Auckland,3,Hard,R32,45,25,0,,4,Svetlana Kuznetsova,Mona Barthel,6-2 1-1 RET,0.68,0.0%,15.4%,33.3%,53.8%,53.8%,33.3% (1/3),43.2%,31.4%,8.6%,6.3%,52.6%,0.0% (0/4),0:49
-19-Oct-2015,Luxembourg,3,Hard,F,55,92,0,,,Misaki Doi,Mona Barthel,6-4 6-7(7) 6-0 (ch),,,,,,,,,,,,,,
+19-Oct-2015,Luxembourg,3,Hard,F,55,92,0,,,Misaki Doi,Mona Barthel,6-4 6-7(7) 6-0,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,SF,55,148,1,,WC,Mona Barthel,Stefanie Voegele,6-2 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,QF,55,69,1,,,Mona Barthel,Mirjana Lucic,6-3 6-4,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R16,55,73,1,,,Mona Barthel,Tatjana Maria,6-3 2-6 6-2,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R32,55,28,1,,6,Mona Barthel,Sloane Stephens,6-4 7-5,,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,R16,49,99,0,,Q,Aleksandra Krunic,Mona Barthel,7-6(6) 6-3,,,,,,,,,,,,,,
 12-Oct-2015,Linz,3,Hard,R32,49,97,1,,Q,Mona Barthel,Kiki Bertens,7-5 3-6 6-2,,,,,,,,,,,,,,
-5-Oct-2015,Beijing,3,Hard,R32,53,8,0,,4,Agnieszka Radwanska,Mona Barthel,4-6 6-1 6-4 (ch),,,,,,,,,,,,,,
+5-Oct-2015,Beijing,3,Hard,R32,53,8,0,,4,Agnieszka Radwanska,Mona Barthel,4-6 6-1 6-4,,,,,,,,,,,,,,
 5-Oct-2015,Beijing,3,Hard,R64,53,191,1,,WC,Mona Barthel,Shuai Zhang,6-3 6-2,,,,,,,,,,,,,,
 28-Sep-2015,Wuhan,3,Hard,Q1,48,115,0,1,,Patricia Maria Tig,Mona Barthel,6-4 6-2,,,,,,,,,,,,,,
 21-Sep-2015,Seoul,3,Hard,QF,47,31,0,5,2,Anna Karolina Schmiedlova,Mona Barthel,6-4 3-6 6-1,,,,,,,,,,,,,,
@@ -303,9 +410,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Aug-2015,Stanford,3,Hard,R32,63,371,1,,WC,Mona Barthel,Carol Zhao,6-3 6-0,1.47,10.4%,4.2%,58.3%,71.4%,55.0%,80.0% (4/5),57.3%,52.2%,5.8%,50.0%,54.5%,33.3% (6/18),
 20-Jul-2015,Istanbul,3,Hard,R16,61,119,0,,Q,Kateryna Bondarenko,Mona Barthel,6-3 4-6 6-2,0.74,7.3%,11.0%,65.9%,70.4%,46.4%,44.4% (4/9),46.7%,27.9%,1.5%,27.3%,30.8%,25.0% (2/8),
 20-Jul-2015,Istanbul,3,Hard,R32,61,283,1,,Q,Mona Barthel,Olga Savchuk,6-3 7-5,1.09,2.8%,0.0%,62.5%,60.0%,51.9%,50.0% (4/8),52.2%,46.9%,3.1%,46.2%,48.0%,100.0% (6/6),
-13-Jul-2015,Bastad,3,Clay,F,52,72,0,4,7,Johanna Larsson,Mona Barthel,6-3 7-6(2) (ch),0.80,0.0%,2.6%,60.5%,50.0%,60.0%,50.0% (5/10),45.0%,36.9%,2.4%,37.1%,36.4%,33.3% (3/9),
+13-Jul-2015,Bastad,3,Clay,F,52,72,0,4,7,Johanna Larsson,Mona Barthel,6-3 7-6(2),0.80,0.0%,2.6%,60.5%,50.0%,60.0%,50.0% (5/10),45.0%,36.9%,2.4%,37.1%,36.4%,33.3% (3/9),
 13-Jul-2015,Bastad,3,Clay,SF,52,80,1,4,,Mona Barthel,Lara Arruabarrena,6-3 6-2,1.29,0.0%,0.0%,70.3%,60.0%,47.4%,50.0% (3/6),56.3%,56.4%,0.0%,63.4%,35.7%,60.0% (6/10),
-13-Jul-2015,Bastad,3,Clay,QF,52,164,1,4,WC,Mona Barthel,Rebecca Peterson,6-1 7-6(3) (ch),1.35,1.4%,5.4%,68.9%,70.6%,60.9%,85.7% (6/7),58.2%,43.8%,0.0%,42.4%,46.7%,100.0% (3/3),
+13-Jul-2015,Bastad,3,Clay,QF,52,164,1,4,WC,Mona Barthel,Rebecca Peterson,6-1 7-6(3),1.35,1.4%,5.4%,68.9%,70.6%,60.9%,85.7% (6/7),58.2%,43.8%,0.0%,42.4%,46.7%,100.0% (3/3),
 13-Jul-2015,Bastad,3,Clay,R16,52,139,1,4,Q,Mona Barthel,Maryna Zanevska,6-0 6-0,2.75,6.1%,0.0%,48.5%,68.8%,82.4%,- (0/0),71.4%,66.7%,0.0%,55.0%,90.0%,50.0% (6/12),
 13-Jul-2015,Bastad,3,Clay,R32,52,117,1,4,,Mona Barthel,Kiki Bertens,6-7(4) 6-2 6-3,1.11,2.5%,5.9%,58.5%,59.4%,46.9%,60.0% (9/15),52.7%,51.0%,1.0%,49.3%,54.5%,40.0% (10/25),
 29-Jun-2015,Wimbledon,5,Grass,R128,49,42,0,,,Anastasia Pavlyuchenkova,Mona Barthel,6-7(3) 7-6(4) 6-2,0.91,7.7%,9.6%,60.6%,79.4%,29.3%,33.3% (2/6),47.9%,36.7%,0.0%,34.2%,43.3%,33.3% (2/6),
@@ -324,7 +431,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Mar-2015,Indian Wells,3,Hard,R128,41,63,1,,,Mona Barthel,Kristina Mladenovic,6-3 5-7 6-4,0.86,1.9%,3.8%,69.2%,61.1%,59.4%,71.4% (10/14),48.9%,33.8%,1.3%,28.3%,41.2%,55.6% (5/9),
 23-Feb-2015,Doha,3,Hard,Q1,39,109,0,2,,Kateryna Baindl,Mona Barthel,6-2 6-2,,,,,,,,,,,,,,
 16-Feb-2015,Dubai,3,Hard,R64,39,47,0,,WC,Daniela Hantuchova,Mona Barthel,7-6(5) 3-6 6-3,0.99,7.1%,4.0%,53.5%,77.4%,41.3%,50.0% (3/6),49.3%,38.9%,0.9%,31.3%,50.0%,21.4% (3/14),
-9-Feb-2015,Antwerp,3,Hard,QF,42,23,0,,,Barbora Strycova,Mona Barthel,6-2 6-2 (ch),0.71,0.0%,8.2%,55.1%,48.1%,45.5%,28.6% (2/7),41.9%,37.5%,0.0%,33.3%,42.3%,33.3% (1/3),
+9-Feb-2015,Antwerp,3,Hard,QF,42,23,0,,,Barbora Strycova,Mona Barthel,6-2 6-2,0.71,0.0%,8.2%,55.1%,48.1%,45.5%,28.6% (2/7),41.9%,37.5%,0.0%,33.3%,42.3%,33.3% (1/3),
 9-Feb-2015,Antwerp,3,Hard,R16,42,7,1,,1,Mona Barthel,Eugenie Bouchard,4-6 6-1 6-2,1.30,0.0%,6.5%,57.1%,72.7%,42.4%,60.0% (6/10),56.2%,52.2%,0.0%,35.3%,68.6%,70.0% (7/10),
 9-Feb-2015,Antwerp,3,Hard,R32,42,327,1,,Q,Mona Barthel,Klaartje Liebens,6-2 6-0,2.80,17.1%,0.0%,62.9%,86.4%,69.2%,- (0/0),64.9%,55.9%,1.7%,50.0%,62.1%,45.5% (5/11),
 19-Jan-2015,Australian Open,5,Hard,R64,43,4,0,,4,Petra Kvitova,Mona Barthel,6-2 6-4,0.87,8.2%,8.2%,49.0%,70.8%,52.0%,57.1% (4/7),45.3%,33.8%,14.7%,25.0%,50.0%,0.0% (0/5),
@@ -334,7 +441,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Oct-2014,Luxembourg,3,Hard,SF,46,31,0,,4,Barbora Strycova,Mona Barthel,6-3 6-2,0.65,1.6%,1.6%,59.0%,58.3%,44.0%,55.6% (5/9),42.5%,30.8%,1.9%,29.0%,33.3%,0.0% (0/1),
 13-Oct-2014,Luxembourg,3,Hard,QF,46,73,1,,,Mona Barthel,Kiki Bertens,6-3 6-0,1.48,12.1%,1.7%,65.5%,73.7%,40.0%,85.7% (6/7),59.1%,56.1%,0.0%,44.1%,73.9%,50.0% (5/10),
 13-Oct-2014,Luxembourg,3,Hard,R16,46,47,1,,8,Mona Barthel,Monica Niculescu,0-6 7-5 6-3,0.99,4.4%,1.1%,63.3%,56.1%,45.5%,46.2% (6/13),49.7%,47.3%,0.0%,47.9%,45.0%,60.0% (6/10),
-13-Oct-2014,Luxembourg,3,Hard,R32,46,149,1,,WC,Mona Barthel,Mandy Minella,6-3 6-4 (ch),,,,,,,,,,,,,,
+13-Oct-2014,Luxembourg,3,Hard,R32,46,149,1,,WC,Mona Barthel,Mandy Minella,6-3 6-4,,,,,,,,,,,,,,
 6-Oct-2014,Linz,3,Hard,R16,47,30,0,,7,Karolina Pliskova,Mona Barthel,6-4 6-2,0.75,2.8%,12.7%,46.5%,51.5%,44.7%,68.8% (11/16),43.9%,39.3%,8.2%,25.7%,57.7%,25.0% (2/8),
 6-Oct-2014,Linz,3,Hard,R32,47,74,1,,LL,Mona Barthel,Kiki Bertens,6-3 6-1,1.72,3.6%,7.3%,49.1%,88.9%,53.6%,100.0% (6/6),61.0%,50.0%,4.0%,33.3%,65.4%,57.1% (4/7),
 29-Sep-2014,Beijing,3,Hard,R32,54,15,0,Q,13,Lucie Safarova,Mona Barthel,6-3 6-3,0.79,3.9%,9.8%,58.8%,73.3%,33.3%,0.0% (0/3),43.3%,34.2%,1.3%,27.5%,48.0%,0.0% (0/10),
@@ -354,11 +461,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Aug-2014,Cincinnati,3,Hard,Q1,44,132,1,,,Mona Barthel,Yulia Putintseva,6-4 6-2,1.49,10.6%,7.6%,65.2%,76.7%,56.5%,100.0% (7/7),59.0%,45.1%,0.0%,45.2%,45.0%,100.0% (3/3),
 14-Jul-2014,Bastad,3,Clay,F,61,91,1,,,Mona Barthel,Chanelle Scheepers,6-3 7-6(3),1.22,2.7%,5.4%,73.0%,66.7%,60.0%,66.7% (2/3),53.6%,43.0%,0.0%,41.1%,47.8%,30.0% (3/10),
 14-Jul-2014,Bastad,3,Clay,SF,61,84,1,,,Mona Barthel,Silvia Soler Espinosa,6-2 4-6 7-5,1.10,0.9%,5.3%,62.8%,64.8%,42.9%,64.3% (9/14),52.3%,47.7%,0.0%,42.2%,55.8%,70.0% (7/10),
-14-Jul-2014,Bastad,3,Clay,QF,61,54,1,,,Mona Barthel,Kaia Kanepi,6-2 7-6(4) (ch),1.28,3.1%,12.5%,56.3%,75.0%,39.3%,40.0% (2/5),55.2%,51.9%,3.8%,40.4%,68.8%,38.5% (5/13),
+14-Jul-2014,Bastad,3,Clay,QF,61,54,1,,,Mona Barthel,Kaia Kanepi,6-2 7-6(4),1.28,3.1%,12.5%,56.3%,75.0%,39.3%,40.0% (2/5),55.2%,51.9%,3.8%,40.4%,68.8%,38.5% (5/13),
 14-Jul-2014,Bastad,3,Clay,R16,61,236,1,,Q,Mona Barthel,Gabriela Dabrowski,6-4 3-6 6-4,1.01,1.8%,8.2%,61.8%,52.9%,38.1%,61.9% (13/21),50.6%,53.3%,0.7%,51.5%,58.8%,37.5% (9/24),
 14-Jul-2014,Bastad,3,Clay,R32,61,267,1,,Q,Mona Barthel,Tereza Martincova,6-4 6-4,1.15,0.0%,3.6%,69.1%,63.2%,35.3%,33.3% (2/6),53.2%,52.4%,1.2%,54.7%,48.4%,35.3% (6/17),
 7-Jul-2014,Bad Gastein,3,Clay,R32,62,48,0,,8,Karolina Pliskova,Mona Barthel,6-4 6-4,0.84,3.1%,9.2%,43.1%,67.9%,45.9%,40.0% (2/5),46.0%,37.5%,9.7%,29.8%,52.0%,20.0% (1/5),
-23-Jun-2014,Wimbledon,5,Grass,R64,59,6,0,,6,Petra Kvitova,Mona Barthel,6-2 6-0 (ch),0.58,2.1%,8.3%,77.1%,51.4%,18.2%,50.0% (5/10),38.0%,32.7%,13.5%,28.6%,41.2%,0.0% (0/5),
+23-Jun-2014,Wimbledon,5,Grass,R64,59,6,0,,6,Petra Kvitova,Mona Barthel,6-2 6-0,0.58,2.1%,8.3%,77.1%,51.4%,18.2%,50.0% (5/10),38.0%,32.7%,13.5%,28.6%,41.2%,0.0% (0/5),
 23-Jun-2014,Wimbledon,5,Grass,R128,59,184,1,,,Mona Barthel,Romina Oprandi,7-5 6-0,1.52,5.8%,0.0%,75.0%,66.7%,53.8%,60.0% (3/5),59.4%,55.6%,1.9%,48.4%,65.2%,66.7% (6/9),
 16-Jun-2014,s Hertogenbosch,3,Grass,R16,59,31,0,Q,8,Klara Koukalova,Mona Barthel,6-2 7-6(6),0.76,2.7%,2.7%,68.5%,56.0%,47.8%,42.9% (3/7),44.7%,35.3%,2.9%,23.3%,56.0%,33.3% (2/6),
 16-Jun-2014,s Hertogenbosch,3,Grass,R32,59,87,1,Q,,Mona Barthel,Maria Kirilenko,6-3 6-2,1.81,5.9%,7.8%,43.1%,86.4%,58.6%,50.0% (1/2),62.5%,53.3%,4.4%,50.0%,61.5%,80.0% (4/5),
@@ -390,7 +497,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-Feb-2014,Dubai,3,Hard,Q1,76,212,1,,,Mona Barthel,Anastasia Rodionova,6-3 6-7(4) 6-3,1.12,2.0%,6.9%,66.3%,73.1%,58.8%,66.7% (2/3),53.2%,35.6%,1.1%,36.7%,33.3%,42.9% (3/7),
 10-Feb-2014,Doha,3,Hard,R64,63,55,0,,,Annika Beck,Mona Barthel,7-6(5) 6-2,0.79,5.8%,5.8%,59.4%,56.1%,50.0%,60.0% (6/10),45.5%,36.5%,4.8%,22.5%,60.9%,50.0% (2/4),
 27-Jan-2014,Paris,3,Carpet,R32,36,21,0,,,Kirsten Flipkens,Mona Barthel,6-3 4-6 6-2,0.89,2.2%,8.7%,54.3%,62.0%,40.5%,53.8% (7/13),47.3%,42.6%,7.4%,37.3%,48.8%,44.4% (4/9),
-13-Jan-2014,Australian Open,5,Hard,R32,39,29,0,,28,Flavia Pennetta,Mona Barthel,6-1 7-5 (ch),0.74,5.5%,8.2%,60.3%,50.0%,44.8%,60.0% (9/15),44.0%,38.5%,5.8%,26.1%,48.3%,50.0% (2/4),
+13-Jan-2014,Australian Open,5,Hard,R32,39,29,0,,28,Flavia Pennetta,Mona Barthel,6-1 7-5,0.74,5.5%,8.2%,60.3%,50.0%,44.8%,60.0% (9/15),44.0%,38.5%,5.8%,26.1%,48.3%,50.0% (2/4),
 13-Jan-2014,Australian Open,5,Hard,R64,39,88,1,,,Mona Barthel,Luksika Kumkhum,4-6 6-3 6-4,0.90,2.9%,5.7%,62.9%,66.7%,46.2%,57.1% (4/7),49.5%,37.0%,4.9%,19.1%,61.8%,80.0% (4/5),
 13-Jan-2014,Australian Open,5,Hard,R128,39,51,1,,,Mona Barthel,Shuai Zhang,7-6(4) 6-3,1.10,2.5%,3.8%,68.8%,74.5%,40.0%,66.7% (4/6),53.1%,40.0%,3.1%,36.7%,50.0%,50.0% (3/6),
 6-Jan-2014,Hobart,3,Hard,R16,35,60,0,6,,Monica Niculescu,Mona Barthel,7-6(5) 6-1,0.82,0.0%,2.6%,63.2%,47.9%,46.4%,28.6% (2/7),45.3%,43.2%,1.4%,37.0%,53.6%,37.5% (3/8),
@@ -439,7 +546,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Jan-2013,Hobart,3,Hard,SF,32,51,1,9,,Mona Barthel,Kirsten Flipkens,6-4 6-4,1.20,6.6%,3.3%,72.1%,63.6%,52.9%,25.0% (1/4),53.3%,47.4%,0.0%,48.9%,45.2%,38.5% (5/13),
 7-Jan-2013,Hobart,3,Hard,QF,32,39,1,9,,Mona Barthel,Tsvetana Pironkova,6-3 6-3,1.73,2.2%,6.5%,67.4%,77.4%,53.3%,50.0% (2/4),60.0%,52.5%,0.0%,47.5%,63.2%,55.6% (5/9),
 7-Jan-2013,Hobart,3,Hard,R16,32,62,1,9,,Mona Barthel,Chanelle Scheepers,7-6(3) 7-5,1.06,8.6%,2.5%,63.0%,64.7%,40.0%,50.0% (5/10),51.2%,47.0%,0.0%,38.1%,56.1%,75.0% (6/8),
-7-Jan-2013,Hobart,3,Hard,R32,32,176,1,9,WC,Mona Barthel,Ashleigh Barty,2-6 6-0 6-1 (ch),1.24,4.3%,7.1%,51.4%,66.7%,58.8%,33.3% (1/3),54.8%,46.2%,3.1%,39.0%,58.3%,38.5% (5/13),
+7-Jan-2013,Hobart,3,Hard,R32,32,176,1,9,WC,Mona Barthel,Ashleigh Barty,2-6 6-0 6-1,1.24,4.3%,7.1%,51.4%,66.7%,58.8%,33.3% (1/3),54.8%,46.2%,3.1%,39.0%,58.3%,38.5% (5/13),
 31-Dec-2012,Auckland,3,Hard,SF,39,23,0,8,3,Yanina Wickmayer,Mona Barthel,6-4 1-6 7-6(3),0.99,12.6%,8.4%,56.8%,70.4%,53.7%,71.4% (5/7),50.3%,36.4%,1.1%,32.2%,44.8%,80.0% (4/5),
 31-Dec-2012,Auckland,3,Hard,QF,39,73,1,8,,Mona Barthel,Johanna Larsson,6-2 6-1,1.98,8.5%,2.1%,68.1%,81.3%,46.7%,66.7% (2/3),65.1%,59.0%,0.0%,60.9%,56.3%,71.4% (5/7),
 31-Dec-2012,Auckland,3,Hard,R16,39,100,1,8,WC,Mona Barthel,Eleni Daniilidou,7-6(6) 6-2,1.30,5.6%,6.9%,66.7%,68.8%,41.7%,50.0% (3/6),56.1%,52.2%,0.0%,47.9%,63.2%,50.0% (5/10),
@@ -496,8 +603,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Jan-2012,Australian Open,5,Hard,R32,44,3,0,,3,Victoria Azarenka,Mona Barthel,6-2 6-4 (wp),0.78,3.8%,7.7%,53.8%,67.9%,45.8%,50.0% (3/6),43.7%,32.8%,0.0%,27.7%,45.0%,0.0% (0/3),
 16-Jan-2012,Australian Open,5,Hard,R64,44,33,1,,32,Mona Barthel,Petra Cetkovska,7-5 6-3 (wp),1.37,0.0%,4.9%,55.7%,82.4%,48.1%,75.0% (3/4),55.5%,44.8%,1.5%,43.6%,46.4%,44.4% (4/9),
 16-Jan-2012,Australian Open,5,Hard,R128,44,73,1,,,Mona Barthel,Anne Keothavong,6-0 RET,4.08,12.5%,0.0%,62.5%,70.0%,100.0%,100.0% (1/1),78.8%,76.5%,0.0%,83.3%,72.7%,100.0% (3/3),
-9-Jan-2012,Hobart,3,Hard,F,64,29,1,Q,1,Mona Barthel,Yanina Wickmayer,6-1 6-2 (ch),1.82,9.1%,2.3%,81.8%,72.2%,37.5%,50.0% (2/4),63.8%,62.0%,0.0%,63.9%,57.1%,54.5% (6/11),
-9-Jan-2012,Hobart,3,Hard,SF,64,31,1,Q,4,Mona Barthel,Angelique Kerber,6-0 7-6(6) (ch),1.34,4.8%,3.2%,66.1%,68.3%,57.1%,75.0% (3/4),56.1%,47.5%,0.0%,50.0%,42.9%,57.1% (4/7),
+9-Jan-2012,Hobart,3,Hard,F,64,29,1,Q,1,Mona Barthel,Yanina Wickmayer,6-1 6-2,1.82,9.1%,2.3%,81.8%,72.2%,37.5%,50.0% (2/4),63.8%,62.0%,0.0%,63.9%,57.1%,54.5% (6/11),
+9-Jan-2012,Hobart,3,Hard,SF,64,31,1,Q,4,Mona Barthel,Angelique Kerber,6-0 7-6(6),1.34,4.8%,3.2%,66.1%,68.3%,57.1%,75.0% (3/4),56.1%,47.5%,0.0%,50.0%,42.9%,57.1% (4/7),
 9-Jan-2012,Hobart,3,Hard,QF,64,34,1,Q,5,Mona Barthel,Jarmila Gajdosova,2-6 6-3 6-2,,,,,,,,,,,,,,
 9-Jan-2012,Hobart,3,Hard,R16,64,27,1,Q,2,Mona Barthel,Anabel Medina Garrigues,6-1 6-4,1.42,1.9%,5.6%,63.0%,70.6%,55.0%,83.3% (5/6),57.0%,50.0%,1.7%,40.0%,80.0%,50.0% (4/8),
 9-Jan-2012,Hobart,3,Hard,R32,64,82,1,Q,Q,Mona Barthel,Romina Oprandi,6-1 6-4,1.41,1.8%,3.6%,62.5%,65.7%,52.4%,60.0% (3/5),58.3%,55.3%,0.0%,54.5%,57.1%,55.6% (5/9),

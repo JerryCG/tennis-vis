@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 27-Aug-2007,US Open,5,Hard,Q1,226,178,0,,,Yuliya Beygelzimer,Paola Suarez,1-6 6-3 6-2,,,,,,,,,,,,,,
 25-Jun-2007,Wimbledon,5,Grass,Q3,199,174,0,,,Ayumi Morita,Paola Suarez,7-5 7-5,,,,,,,,,,,,,,
 25-Jun-2007,Wimbledon,5,Grass,Q2,199,191,1,,,Paola Suarez,Giulia Gabba,6-0 2-0 RET,,,,,,,,,,,,,,
@@ -178,8 +178,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Jul-2002,Palermo,3,Clay,R32,30,149,1,1,,Paola Suarez,Maja Palaversic Cooper Smith,6-2 6-2,,,,,,,,,,,,,,
 24-Jun-2002,Wimbledon,5,Grass,R128,32,91,0,28,,Jill Craybas,Paola Suarez,6-4 5-7 7-5,,,,,,,,,,,,,,
 27-May-2002,Roland Garros,5,Clay,QF,47,87,0,,,Clarisa Fernandez,Paola Suarez,2-6 7-6(5) 6-1,,,,,,,,,,,,,,
-27-May-2002,Roland Garros,5,Clay,R16,47,12,1,,10,Paola Suarez,Amelie Mauresmo,6-2 2-6 6-4 (ch),,,,,,,,,,,,,,
-27-May-2002,Roland Garros,5,Clay,R32,47,28,1,,27,Paola Suarez,Nathalie Dechy,6-4 4-6 7-5 (ch),,,,,,,,,,,,,,
+27-May-2002,Roland Garros,5,Clay,R16,47,12,1,,10,Paola Suarez,Amelie Mauresmo,6-2 2-6 6-4,,,,,,,,,,,,,,
+27-May-2002,Roland Garros,5,Clay,R32,47,28,1,,27,Paola Suarez,Nathalie Dechy,6-4 4-6 7-5,,,,,,,,,,,,,,
 27-May-2002,Roland Garros,5,Clay,R64,47,222,1,,Q,Paola Suarez,Maria Goloviznina,6-4 6-4,,,,,,,,,,,,,,
 27-May-2002,Roland Garros,5,Clay,R128,47,10,1,,8,Paola Suarez,Sandrine Testud,2-6 7-5 6-1,,,,,,,,,,,,,,
 20-May-2002,Madrid,3,Clay,SF,54,6,0,,1,Monica Seles,Paola Suarez,4-6 6-1 6-3,,,,,,,,,,,,,,

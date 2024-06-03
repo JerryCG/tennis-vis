@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 10-Jun-2019,W60 Rome,3,Clay,R32,741,301,0,,,Anastasia Grymalska,Anna Tatishvili,6-0 6-1,,,,,,,,,,,,,,
 3-Jun-2019,Bol,3,Clay,R32,,94,0,,7,Timea Bacsinszky,Anna Tatishvili,6-2 6-2,0.48,0.0%,5.6%,61.1%,48.5%,33.3%,16.7% (1/6),35.6%,27.7%,4.3%,28.0%,27.3%,25.0% (1/4),1:06
 27-May-2019,Roland Garros,5,Clay,R128,,30,0,,29,Maria Sakkari,Anna Tatishvili,6-0 6-1,0.53,0.0%,9.8%,58.5%,33.3%,17.6%,14.3% (1/7),33.3%,38.5%,17.3%,17.2%,65.2%,20.0% (1/5),0:55
@@ -41,7 +41,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 11-Apr-2016,Bogota,3,Clay,R16,115,170,0,8,,Silvia Soler Espinosa,Anna Tatishvili,6-7(5) 6-4 6-1,0.76,4.6%,9.2%,66.7%,65.5%,37.9%,54.5% (6/11),43.9%,33.3%,8.8%,25.7%,50.0%,50.0% (2/4),2:06
 11-Apr-2016,Bogota,3,Clay,R32,115,174,1,8,,Anna Tatishvili,Ipek Soylu,6-4 6-3,1.26,5.6%,9.3%,68.5%,56.8%,47.1%,50.0% (4/8),56.3%,58.1%,4.1%,51.0%,73.9%,53.8% (7/13),1:19
 4-Apr-2016,Charleston,3,Clay,Q1,116,227,0,5,,Michelle Larcher De Brito,Anna Tatishvili,2-6 6-0 7-5,0.93,8.4%,9.3%,68.2%,57.5%,23.5%,46.7% (7/15),48.0%,49.5%,3.3%,40.7%,65.6%,42.9% (6/14),2:01
-21-Mar-2016,Miami,3,Hard,R128,117,49,0,Q,,Timea Babos,Anna Tatishvili,7-6(2) 6-2 (ch),0.75,1.3%,7.9%,56.6%,65.1%,33.3%,63.6% (7/11),44.6%,36.5%,6.3%,25.0%,63.2%,66.7% (2/3),1:30
+21-Mar-2016,Miami,3,Hard,R128,117,49,0,Q,,Timea Babos,Anna Tatishvili,7-6(2) 6-2,0.75,1.3%,7.9%,56.6%,65.1%,33.3%,63.6% (7/11),44.6%,36.5%,6.3%,25.0%,63.2%,66.7% (2/3),1:30
 21-Mar-2016,Miami,3,Hard,Q2,117,138,1,,,Anna Tatishvili,Sesil Karatantcheva,6-2 6-2,1.41,1.8%,5.4%,58.9%,75.8%,34.8%,60.0% (3/5),58.4%,57.9%,1.8%,48.0%,65.6%,60.0% (6/10),1:10
 21-Mar-2016,Miami,3,Hard,Q1,117,75,1,,8,Anna Tatishvili,Laura Siegemund,7-5 6-2,1.23,0.0%,6.6%,63.9%,74.4%,54.5%,66.7% (2/3),54.2%,40.4%,1.8%,36.8%,47.4%,44.4% (4/9),1:28
 14-Mar-2016,San Antonio,3,Hard,R32,117,109,0,,,Magda Linette,Anna Tatishvili,6-4 6-4,0.79,0.0%,6.3%,61.9%,66.7%,62.5%,71.4% (5/7),47.1%,27.6%,8.6%,28.1%,26.9%,0.0% (0/1),1:22
@@ -62,13 +62,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jan-2016,Auckland,3,Hard,Q1,101,182,0,7,,Tereza Martincova,Anna Tatishvili,6-3 6-2,0.74,4.1%,10.2%,61.2%,50.0%,42.1%,16.7% (1/6),42.7%,39.3%,6.6%,47.6%,21.1%,20.0% (2/10),1:26
 9-Nov-2015,Scottsdale AZ $50K,3,Hard,R32,100,252,0,2,,Elitsa Kostova,Anna Tatishvili,6-2 5-7 7-6(6),,,,,,,,,,,,,,
 2-Nov-2015,Waco TX $50K,3,Hard,QF,100,166,0,1,8,Veronica Cepede Royg,Anna Tatishvili,6-0 4-6 7-6(5),,,,,,,,,,,,,,
-2-Nov-2015,Waco TX $50K,3,Hard,R16,100,214,1,1,,Anna Tatishvili,Grace Min,6-1 6-2 (ch),,,,,,,,,,,,,,
+2-Nov-2015,Waco TX $50K,3,Hard,R16,100,214,1,1,,Anna Tatishvili,Grace Min,6-1 6-2,,,,,,,,,,,,,,
 2-Nov-2015,Waco TX $50K,3,Hard,R32,100,475,1,1,WC,Anna Tatishvili,Vania King,6-3 6-4,,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,F,108,141,0,1,5,Rebecca Peterson,Anna Tatishvili,6-3 4-6 6-1,,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,SF,108,190,1,1,,Anna Tatishvili,Julia Boserup,6-4 6-0,,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,QF,108,142,1,1,6,Anna Tatishvili,Julia Glushko,6-1 7-6(2),,,,,,,,,,,,,,
 26-Oct-2015,Macon GA $50K,3,Hard,R16,108,426,1,1,WC,Anna Tatishvili,Nicole Frenkel,6-2 6-3,,,,,,,,,,,,,,
-26-Oct-2015,Macon GA $50K,3,Hard,R32,108,249,1,1,,Anna Tatishvili,Barbara Haas,6-3 6-3 (ch),,,,,,,,,,,,,,
+26-Oct-2015,Macon GA $50K,3,Hard,R32,108,249,1,1,,Anna Tatishvili,Barbara Haas,6-3 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R16,110,22,0,Q,5,Jelena Jankovic,Anna Tatishvili,6-4 6-2,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,R32,110,122,1,Q,LL,Anna Tatishvili,Oceane Dodin,7-6(5) 6-3,,,,,,,,,,,,,,
 19-Oct-2015,Luxembourg,3,Hard,Q3,110,162,1,5,,Anna Tatishvili,Stephanie Vogt,6-3 6-4,,,,,,,,,,,,,,
@@ -101,7 +101,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 20-Jul-2015,Istanbul,3,Hard,Q1,124,208,1,7,,Anna Tatishvili,Grace Min,6-3 6-2,,,,,,,,,,,,,,
 13-Jul-2015,Bucharest,3,Clay,QF,134,20,0,,1,Sara Errani,Anna Tatishvili,6-2 6-3,0.74,3.6%,7.3%,72.7%,50.0%,26.7%,53.8% (7/13),42.6%,41.7%,0.0%,46.0%,20.0%,40.0% (2/5),
 13-Jul-2015,Bucharest,3,Clay,R16,134,46,1,,5,Anna Tatishvili,Alexandra Dulgheru,5-2 RET,1.44,0.0%,0.0%,73.9%,70.6%,50.0%,66.7% (2/3),59.0%,50.0%,0.0%,50.0%,50.0%,66.7% (2/3),
-13-Jul-2015,Bucharest,3,Clay,R32,134,107,1,,,Anna Tatishvili,Stefanie Voegele,6-4 7-5 (ch),1.20,1.4%,0.0%,62.5%,64.4%,63.0%,33.3% (1/3),53.4%,43.4%,3.9%,38.6%,50.0%,40.0% (4/10),
+13-Jul-2015,Bucharest,3,Clay,R32,134,107,1,,,Anna Tatishvili,Stefanie Voegele,6-4 7-5,1.20,1.4%,0.0%,62.5%,64.4%,63.0%,33.3% (1/3),53.4%,43.4%,3.9%,38.6%,50.0%,40.0% (4/10),
 6-Jul-2015,Contrexeville $100K,3,Clay,R32,136,127,0,,,Donna Vekic,Anna Tatishvili,2-6 7-6(5) 7-6(2),,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,Q3,136,117,0,18,8,Ying Ying Duan,Anna Tatishvili,6-2 6-4,,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,Q2,136,170,1,18,,Anna Tatishvili,Nao Hibino,6-3 6-3,,,,,,,,,,,,,,

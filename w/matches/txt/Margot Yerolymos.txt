@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 24-Oct-2022,W80 Poitiers,3,Hard,Q1,619,723,0,16,,Flavie Brugnone,Margot Yerolymos,6-2 6-7(6) 10-4,,,,,,,,,,,,,,
 10-Oct-2022,W25+H Cherbourg En Cotentin,3,Hard,R16,653,438,0,Q,,Mallaurie Noel,Margot Yerolymos,6-3 6-4,,,,,,,,,,,,,,
 10-Oct-2022,W25+H Cherbourg En Cotentin,3,Hard,R32,653,298,1,Q,,Margot Yerolymos,Ivonne Cavalle Reimers,6-4 6-2,,,,,,,,,,,,,,
@@ -58,7 +58,6 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,W25 Grenoble,3,Hard,Q1,321,444,0,14,,Camilla Rosatello,Margot Yerolymos,6-1 1-6 10-7,,,,,,,,,,,,,,
 1-Feb-2021,W15 Manacor,3,Hard,R32,319,1125,0,1,Q,Silvia Ambrosio,Margot Yerolymos,6-4 6-3,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q1,316,271,0,,12,Diana Marcinkevica,Margot Yerolymos,6-2 5-7 10-4,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,315,271,0,,7,Kathinka Von Deichmann,Margot Yerolymos,6-1 6-3,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,315,271,0,,7,Kathinka Von Deichmann,Margot Yerolymos,6-1 6-3,,,,,,,,,,,,,,
 26-Oct-2020,W25 Istanbul,3,Hard,Q2,315,863,0,6,,Lucie Havlickova,Margot Yerolymos,3-6 6-2 10-3,,,,,,,,,,,,,,
 26-Oct-2020,W25 Istanbul,3,Hard,Q1,315,,1,6,,Margot Yerolymos,Ceylin Ipek,6-0 6-0,,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 15-Oct-2018,Luxembourg,3,Hard,Q1,236,168,0,,,Varvara Lepchenko,Patty Schnyder,6-4 6-2,0.60,3.6%,1.8%,67.9%,63.2%,50.0%,50.0% (3/6),42.9%,24.5%,8.2%,19.4%,38.5%,0.0% (0/3),1:01
 27-Aug-2018,US Open,5,Hard,R128,186,22,0,,22,Maria Sharapova,Patty Schnyder,6-2 7-6(6),0.80,0.0%,2.5%,61.3%,51.0%,35.5%,40.0% (4/10),44.5%,44.0%,2.7%,31.8%,61.3%,40.0% (4/10),1:51
 27-Aug-2018,US Open,5,Hard,Q3,186,248,1,,,Patty Schnyder,Jessica Pegula,6-3 6-2,1.33,3.4%,3.4%,52.5%,67.7%,67.9%,100.0% (2/2),56.5%,42.9%,4.1%,32.0%,54.2%,37.5% (3/8),1:02
@@ -20,7 +20,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Apr-2018,Prague,3,Clay,Q3,147,151,1,,,Patty Schnyder,Tamara Korpatsch,6-1 7-5,1.44,3.7%,0.0%,68.5%,64.9%,64.7%,60.0% (3/5),57.1%,50.8%,1.5%,47.5%,56.0%,85.7% (6/7),1:22
 30-Apr-2018,Prague,3,Clay,Q2,147,308,1,,,Patty Schnyder,Marina Melnikova,6-3 7-5,1.39,4.7%,0.0%,73.4%,66.0%,70.6%,50.0% (2/4),56.0%,45.7%,1.4%,36.7%,66.7%,33.3% (4/12),1:30
 30-Apr-2018,Prague,3,Clay,Q1,147,169,1,,,Patty Schnyder,Marie Bouzkova,6-2 6-1,1.71,7.4%,1.9%,66.7%,66.7%,66.7%,85.7% (6/7),61.1%,56.9%,0.0%,51.1%,68.0%,29.4% (5/17),1:17
-21-Apr-2018,Fed Cup WG R1: SUI vs ROU,3,Clay,RR,149,1,0,,,Simona Halep,Patty Schnyder,6-2 6-1 (ch),0.57,1.9%,3.8%,58.5%,32.3%,45.5%,40.0% (4/10),36.5%,35.3%,0.0%,31.0%,40.9%,33.3% (1/3),1:05
+21-Apr-2018,Fed Cup WG R1: SUI vs ROU,3,Clay,RR,149,1,0,,,Simona Halep,Patty Schnyder,6-2 6-1,0.57,1.9%,3.8%,58.5%,32.3%,45.5%,40.0% (4/10),36.5%,35.3%,0.0%,31.0%,40.9%,33.3% (1/3),1:05
 2-Apr-2018,Charleston,3,Clay,Q1,150,202,0,6,,Claire Liu,Patty Schnyder,7-6(2) 6-4,0.84,0.0%,2.8%,63.9%,50.0%,46.2%,28.6% (2/7),45.8%,43.2%,3.7%,41.4%,47.8%,36.4% (4/11),1:34
 19-Mar-2018,Santa Margherita Di Pula $25K,3,Clay,SF,151,296,0,3,,Olga Danilovic,Patty Schnyder,6-3 3-6 10-3,,,,,,,,,,,,,,
 19-Mar-2018,Santa Margherita Di Pula $25K,3,Clay,QF,151,185,1,3,,Patty Schnyder,Kathinka Von Deichmann,6-4 6-2,,,,,,,,,,,,,,
@@ -236,7 +236,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jul-2009,Budapest,3,Clay,R32,21,97,1,1,,Patty Schnyder,Andrea Petkovic,7-6(3) 6-3,1.11,6.3%,3.8%,62.5%,62.0%,50.0%,62.5% (5/8),52.6%,47.3%,1.4%,47.3%,47.4%,50.0% (4/8),
 22-Jun-2009,Wimbledon,5,Grass,R128,22,38,0,21,,Ai Sugiyama,Patty Schnyder,6-4 6-4,0.83,1.8%,7.0%,50.9%,62.1%,50.0%,20.0% (1/5),45.8%,36.5%,1.6%,36.2%,37.5%,40.0% (2/5),
 25-May-2009,Roland Garros,5,Clay,R128,17,60,0,17,,Kateryna Bondarenko,Patty Schnyder,6-4 6-3,0.88,1.7%,1.7%,56.7%,47.1%,61.5%,42.9% (3/7),46.2%,41.0%,2.4%,28.0%,60.6%,16.7% (2/12),
-11-May-2009,Madrid,3,Clay,SF,20,1,0,,1,Dinara Safina,Patty Schnyder,6-4 6-2 (ch),0.72,1.6%,1.6%,63.9%,56.4%,36.4%,42.9% (3/7),42.7%,36.5%,1.6%,23.3%,65.0%,20.0% (1/5),
+11-May-2009,Madrid,3,Clay,SF,20,1,0,,1,Dinara Safina,Patty Schnyder,6-4 6-2,0.72,1.6%,1.6%,63.9%,56.4%,36.4%,42.9% (3/7),42.7%,36.5%,1.6%,23.3%,65.0%,20.0% (1/5),
 11-May-2009,Madrid,3,Clay,QF,20,4,1,,4,Patty Schnyder,Jelena Jankovic,7-6(6) 6-3,1.10,2.9%,5.9%,70.6%,60.4%,40.0%,55.6% (5/9),52.0%,50.0%,2.5%,40.0%,72.0%,50.0% (6/12),
 11-May-2009,Madrid,3,Clay,R16,20,10,1,,8,Patty Schnyder,Nadia Petrova,6-4 6-7(2) 7-6(5),0.97,7.2%,0.9%,66.7%,66.2%,48.6%,42.9% (3/7),49.3%,38.6%,7.9%,30.0%,52.3%,55.6% (5/9),
 11-May-2009,Madrid,3,Clay,R32,20,25,1,,,Patty Schnyder,Aleksandra Wozniak,6-2 6-4,1.53,5.5%,1.8%,69.1%,68.4%,64.7%,60.0% (3/5),58.4%,50.0%,0.0%,38.9%,68.2%,55.6% (5/9),
@@ -341,7 +341,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 13-Aug-2007,Toronto,3,Hard,R16,16,9,0,10,6,Nadia Petrova,Patty Schnyder,6-4 6-1,0.62,5.7%,3.8%,67.9%,58.3%,47.1%,50.0% (4/8),42.4%,28.3%,6.5%,21.9%,42.9%,0.0% (0/3),
 13-Aug-2007,Toronto,3,Hard,R32,16,82,1,10,Q,Patty Schnyder,Flavia Pennetta,6-3 6-2,1.38,6.0%,3.0%,65.7%,77.3%,39.1%,83.3% (5/6),56.4%,49.3%,0.0%,46.3%,53.1%,50.0% (4/8),
 13-Aug-2007,Toronto,3,Hard,R64,16,32,1,10,,Patty Schnyder,Anabel Medina Garrigues,6-3 6-2,1.48,3.4%,1.7%,69.5%,63.4%,55.6%,33.3% (1/3),59.6%,57.8%,0.0%,52.0%,65.0%,83.3% (5/6),
-30-Jul-2007,San Diego,3,Hard,F,17,2,0,11,1,Maria Sharapova,Patty Schnyder,6-2 3-6 6-0 (ch),0.83,1.3%,2.6%,76.6%,55.9%,33.3%,40.0% (4/10),45.6%,41.0%,2.4%,35.3%,50.0%,20.0% (2/10),
+30-Jul-2007,San Diego,3,Hard,F,17,2,0,11,1,Maria Sharapova,Patty Schnyder,6-2 3-6 6-0,0.83,1.3%,2.6%,76.6%,55.9%,33.3%,40.0% (4/10),45.6%,41.0%,2.4%,35.3%,50.0%,20.0% (2/10),
 30-Jul-2007,San Diego,3,Hard,SF,17,15,1,11,9,Patty Schnyder,Elena Dementieva,7-6(4) 6-0,1.28,3.8%,2.5%,65.0%,59.6%,53.6%,70.0% (7/10),56.1%,54.4%,1.5%,45.2%,62.2%,50.0% (6/12),
 30-Jul-2007,San Diego,3,Hard,QF,17,9,1,11,4,Patty Schnyder,Nadia Petrova,6-4 6-4,1.13,3.2%,11.1%,58.7%,75.7%,50.0%,80.0% (4/5),52.9%,39.3%,7.1%,25.0%,53.6%,60.0% (3/5),
 30-Jul-2007,San Diego,3,Hard,R16,17,13,1,11,7,Patty Schnyder,Martina Hingis,6-1 6-7(4) 6-3,1.21,2.0%,3.0%,66.7%,59.1%,51.5%,50.0% (5/10),54.6%,52.4%,2.4%,50.0%,59.1%,57.1% (8/14),
@@ -473,7 +473,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Oct-2005,Linz,3,Hard,SF,9,17,1,4,8,Patty Schnyder,Ana Ivanovic,7-5 6-2,,,,,,,,,,,,,,
 24-Oct-2005,Linz,3,Hard,QF,9,20,1,4,6,Patty Schnyder,Daniela Hantuchova,6-2 6-1,,,,,,,,,,,,,,
 24-Oct-2005,Linz,3,Hard,R16,9,57,1,4,,Patty Schnyder,Iveta Benesova,6-2 6-2,,,,,,,,,,,,,,
-17-Oct-2005,Zurich,3,Hard,F,10,3,0,6,1,Lindsay Davenport,Patty Schnyder,7-6(5) 6-3 (ch),,,,,,,,,,,,,,
+17-Oct-2005,Zurich,3,Hard,F,10,3,0,6,1,Lindsay Davenport,Patty Schnyder,7-6(5) 6-3,,,,,,,,,,,,,,
 17-Oct-2005,Zurich,3,Hard,SF,10,22,1,6,,Patty Schnyder,Ana Ivanovic,6-2 6-1,,,,,,,,,,,,,,
 17-Oct-2005,Zurich,3,Hard,QF,10,25,1,6,LL,Patty Schnyder,Flavia Pennetta,2-6 6-4 6-2,,,,,,,,,,,,,,
 17-Oct-2005,Zurich,3,Hard,R16,10,61,1,6,WC,Patty Schnyder,Magdalena Maleeva,6-3 6-2,,,,,,,,,,,,,,
@@ -508,7 +508,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-May-2005,Roland Garros,5,Clay,R32,10,36,1,8,32,Patty Schnyder,Flavia Pennetta,4-6 6-0 6-1,1.67,8.3%,0.0%,59.7%,76.7%,51.7%,66.7% (4/6),60.5%,55.6%,0.0%,40.5%,66.0%,60.0% (6/10),
 23-May-2005,Roland Garros,5,Clay,R64,10,138,1,8,Q,Patty Schnyder,Sandra Kloesel,6-2 6-3,1.54,13.1%,0.0%,55.7%,76.5%,59.3%,100.0% (5/5),59.5%,48.0%,0.0%,48.5%,47.1%,75.0% (3/4),
 23-May-2005,Roland Garros,5,Clay,R128,10,82,1,8,,Patty Schnyder,Yoon Jeong Cho,6-3 6-4,1.09,2.2%,4.3%,51.6%,60.4%,35.6%,71.4% (10/14),51.6%,56.5%,1.6%,53.3%,64.7%,75.0% (6/8),
-9-May-2005,Rome,3,Clay,F,13,3,0,8,2,Amelie Mauresmo,Patty Schnyder,2-6 6-3 6-4 (ch),,,,,,,,,,,,,,
+9-May-2005,Rome,3,Clay,F,13,3,0,8,2,Amelie Mauresmo,Patty Schnyder,2-6 6-3 6-4,,,,,,,,,,,,,,
 9-May-2005,Rome,3,Clay,SF,13,2,1,8,1,Patty Schnyder,Maria Sharapova,3-6 6-3 6-1,,,,,,,,,,,,,,
 9-May-2005,Rome,3,Clay,QF,13,50,1,8,,Patty Schnyder,Evgenia Linetskaya,6-1 6-0,,,,,,,,,,,,,,
 9-May-2005,Rome,3,Clay,R16,13,36,1,8,,Patty Schnyder,Ana Ivanovic,6-3 6-2,,,,,,,,,,,,,,
@@ -598,7 +598,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Feb-2004,Antwerp,3,Hard,QF,16,19,0,5,8,Silvia Farina Elia,Patty Schnyder,7-6(6) 1-0 RET,,,,,,,,,,,,,,
 16-Feb-2004,Antwerp,3,Hard,R16,16,73,1,5,LL,Patty Schnyder,Julia Vakulenko,6-7(5) 6-4 7-5,,,,,,,,,,,,,,
 9-Feb-2004,Paris,3,Carpet,R16,16,40,0,3,Q,Dinara Safina,Patty Schnyder,4-6 6-2 6-1,,,,,,,,,,,,,,
-19-Jan-2004,Australian Open,5,Hard,SF,26,2,0,22,2,Kim Clijsters,Patty Schnyder,6-2 7-6(2) (ch),0.70,3.1%,4.6%,56.9%,56.8%,42.9%,0.0% (0/4),42.0%,34.2%,1.4%,30.2%,40.0%,40.0% (2/5),
+19-Jan-2004,Australian Open,5,Hard,SF,26,2,0,22,2,Kim Clijsters,Patty Schnyder,6-2 7-6(2),0.70,3.1%,4.6%,56.9%,56.8%,42.9%,0.0% (0/4),42.0%,34.2%,1.4%,30.2%,40.0%,40.0% (2/5),
 19-Jan-2004,Australian Open,5,Hard,QF,26,30,1,22,25,Patty Schnyder,Lisa Raymond,7-6(2) 6-3,1.30,5.6%,4.2%,54.9%,61.5%,65.6%,77.8% (7/9),55.8%,47.8%,4.5%,39.0%,61.5%,57.1% (4/7),
 19-Jan-2004,Australian Open,5,Hard,R16,26,28,1,22,29,Patty Schnyder,Nathalie Dechy,6-2 6-4,1.60,4.1%,6.1%,57.1%,82.1%,38.1%,0.0% (0/3),60.7%,58.6%,0.0%,56.1%,64.7%,66.7% (6/9),
 19-Jan-2004,Australian Open,5,Hard,R32,26,14,1,22,12,Patty Schnyder,Paola Suarez,7-5 6-3,1.48,6.5%,1.6%,62.9%,74.4%,60.9%,60.0% (3/5),57.1%,45.3%,1.6%,38.6%,60.0%,44.4% (4/9),
@@ -663,7 +663,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 30-Dec-2002,Gold Coast,3,Hard,QF,15,30,1,1,6,Patty Schnyder,Meghann Shaughnessy,W/O,,,,,,,,,,,,,,
 30-Dec-2002,Gold Coast,3,Hard,R16,15,41,1,1,,Patty Schnyder,Francesca Schiavone,6-3 6-4,,,,,,,,,,,,,,
 6-Nov-2002,WTA Tour Championships,3,Hard,R16,13,2,0,,2,Venus Williams,Patty Schnyder,6-2 7-6(7),,,,,,,,,,,,,,
-14-Oct-2002,Zurich,3,Hard,F,19,10,1,,2,Patty Schnyder,Lindsay Davenport,6-7(5) 7-6(8) 6-3 (ch),,,,,,,,,,,,,,
+14-Oct-2002,Zurich,3,Hard,F,19,10,1,,2,Patty Schnyder,Lindsay Davenport,6-7(5) 7-6(8) 6-3,,,,,,,,,,,,,,
 14-Oct-2002,Zurich,3,Hard,SF,19,47,1,,,Patty Schnyder,Conchita Martinez,6-0 6-3,,,,,,,,,,,,,,
 14-Oct-2002,Zurich,3,Hard,QF,19,9,1,,7,Patty Schnyder,Daniela Hantuchova,6-7(5) 6-3 7-6(5),,,,,,,,,,,,,,
 14-Oct-2002,Zurich,3,Hard,R16,19,30,1,,LL,Patty Schnyder,Elena Bovina,2-6 6-4 6-3,,,,,,,,,,,,,,

@@ -1,7 +1,7 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 27-Jun-2022,Wimbledon,5,Grass,Q1,247,155,0,,23,Su Jeong Jang,Veronica Cepede Royg,7-6(4) 6-1,0.70,0.0%,5.1%,67.8%,60.0%,31.6%,42.9% (3/7),41.6%,34.6%,5.1%,38.0%,28.6%,20.0% (2/10),1:43
-23-May-2022,Roland Garros,5,Clay,Q2,239,165,0,,,Nastasja Schunk,Veronica Cepede Royg,6-3 6-1,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,239,175,1,,,Veronica Cepede Royg,Anastasia Tikhonova,7-5 4-6 7-6(7) (ch),,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q2,239,165,0,,,Nastasja Schunk,Veronica Cepede Royg,6-3 6-1,0.68,1.9%,5.7%,75.5%,47.5%,23.1%,45.5% (5/11),40.6%,39.5%,4.7%,36.0%,44.4%,66.7% (2/3),
+23-May-2022,Roland Garros,5,Clay,Q1,239,175,1,,,Veronica Cepede Royg,Anastasia Tikhonova,7-5 4-6 7-6(7),1.02,0.8%,3.2%,67.2%,56.0%,51.2%,41.7% (5/12),50.9%,46.7%,2.9%,36.5%,61.9%,77.8% (7/9),
 17-Jan-2022,Australian Open,5,Hard,Q1,197,151,0,,31,Daria Snigur,Veronica Cepede Royg,6-3 3-6 6-2,0.89,2.0%,4.1%,56.1%,52.7%,44.2%,50.0% (7/14),46.9%,45.2%,2.6%,41.3%,52.5%,31.3% (5/16),2:13
 3-Jan-2022,W60+H Bendigo,3,Hard,R32,194,286,0,,Q,Fernanda Contreras Gomez,Veronica Cepede Royg,0-6 6-4 6-3,,,,,,,,,,,,,,
 22-Nov-2021,W60 Brasilia,3,Clay,SF,205,265,0,2,6,Elina Avanesyan,Veronica Cepede Royg,6-2 6-3,,,,,,,,,,,,,,
@@ -160,14 +160,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-May-2018,Roland Garros,5,Clay,R128,89,8,0,,8,Petra Kvitova,Veronica Cepede Royg,3-6 6-1 7-5,0.84,1.2%,2.4%,61.9%,63.5%,65.6%,25.0% (1/4),47.3%,30.1%,7.2%,20.8%,42.9%,25.0% (1/4),2:07
 21-May-2018,Nurnberg,3,Clay,R16,87,57,0,,8,Katerina Siniakova,Veronica Cepede Royg,7-5 6-4,0.88,0.0%,2.9%,72.9%,52.9%,57.9%,44.4% (4/9),47.2%,40.3%,9.7%,40.0%,40.7%,50.0% (3/6),1:39
 21-May-2018,Nurnberg,3,Clay,R32,87,66,1,,,Veronica Cepede Royg,Kateryna Baindl,6-3 6-4,1.38,4.5%,3.0%,71.2%,66.0%,52.6%,60.0% (3/5),58.0%,52.2%,0.0%,50.0%,56.3%,100.0% (4/4),1:14
-14-May-2018,Trnava $100K,3,Clay,F,88,106,0,3,,Viktoria Kuzmova,Veronica Cepede Royg,6-4 1-6 6-1 (ch),,,,,,,,,,,,,,
+14-May-2018,Trnava $100K,3,Clay,F,88,106,0,3,,Viktoria Kuzmova,Veronica Cepede Royg,6-4 1-6 6-1,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,SF,88,114,1,3,,Veronica Cepede Royg,Anna Blinkova,6-3 6-0,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,QF,88,161,1,3,,Veronica Cepede Royg,Tereza Martincova,6-1 3-0 RET,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,R16,88,602,1,3,,Veronica Cepede Royg,Maja Chwalinska,7-6(4) 6-0,,,,,,,,,,,,,,
 14-May-2018,Trnava $100K,3,Clay,R32,88,123,1,3,,Veronica Cepede Royg,Kristie Ahn,5-7 6-4 6-1,,,,,,,,,,,,,,
 21-Apr-2018,Fed Cup WG2 R1: ESP vs PAR,3,Clay,RR,86,25,0,,,Carla Suarez Navarro,Veronica Cepede Royg,6-2 6-2,0.66,0.0%,7.0%,51.2%,36.4%,52.4%,16.7% (1/6),40.2%,37.0%,0.0%,24.2%,57.1%,100.0% (1/1),1:10
 21-Apr-2018,Fed Cup WG2 R1: ESP vs PAR,3,Clay,RR,86,3,0,,,Garbine Muguruza,Veronica Cepede Royg,7-6(2) 6-0,0.60,0.0%,1.4%,62.0%,50.0%,48.1%,50.0% (5/10),41.1%,30.2%,5.7%,19.4%,45.5%,66.7% (2/3),1:31
-9-Apr-2018,Bogota,3,Clay,R32,84,510,0,4,WC,Emiliana Arango,Veronica Cepede Royg,6-0 2-6 6-4 (ch),0.83,0.0%,7.1%,61.4%,51.2%,37.0%,53.3% (8/15),45.3%,44.9%,0.0%,39.3%,59.1%,38.5% (5/13),1:49
+9-Apr-2018,Bogota,3,Clay,R32,84,510,0,4,WC,Emiliana Arango,Veronica Cepede Royg,6-0 2-6 6-4,0.83,0.0%,7.1%,61.4%,51.2%,37.0%,53.3% (8/15),45.3%,44.9%,0.0%,39.3%,59.1%,38.5% (5/13),1:49
 2-Apr-2018,Charleston,3,Clay,R64,81,27,0,,12,Kiki Bertens,Veronica Cepede Royg,6-4 6-1,0.64,0.0%,0.0%,57.4%,48.1%,50.0%,0.0% (0/5),41.1%,32.6%,14.0%,12.5%,57.9%,100.0% (1/1),1:03
 19-Mar-2018,Miami,3,Hard,R128,78,98,0,,LL,Oceane Dodin,Veronica Cepede Royg,6-4 6-7(3) 6-3,0.82,6.9%,6.9%,50.0%,66.7%,47.1%,61.5% (8/13),46.5%,35.4%,7.3%,18.8%,52.1%,42.9% (3/7),2:13
 5-Mar-2018,Indian Wells,3,Hard,R128,75,65,0,,,Mona Barthel,Veronica Cepede Royg,6-2 6-1,0.65,0.0%,9.1%,60.6%,50.0%,30.8%,33.3% (3/9),40.4%,37.5%,8.3%,14.3%,55.6%,20.0% (1/5),1:11
@@ -188,7 +188,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Oct-2017,Luxembourg,3,Hard,R32,78,37,1,,4,Veronica Cepede Royg,Sorana Cirstea,7-5 3-2 RET,1.10,3.3%,5.0%,68.3%,70.7%,31.6%,60.0% (3/5),52.1%,45.9%,1.6%,26.5%,70.4%,50.0% (4/8),1:30
 9-Oct-2017,Linz,3,Hard,R32,76,69,0,,,Natalia Vikhlyantseva,Veronica Cepede Royg,6-0 6-2,0.61,0.0%,4.9%,56.1%,47.8%,16.7%,25.0% (2/8),37.5%,40.0%,7.3%,38.5%,43.8%,16.7% (1/6),0:56
 2-Oct-2017,Beijing ,3,Hard,Q1,76,207,0,8,WC,Xinyu Gao,Veronica Cepede Royg,6-4 2-6 6-1,0.81,6.2%,3.1%,64.6%,54.8%,47.8%,16.7% (1/6),45.0%,38.7%,5.3%,33.3%,50.0%,66.7% (4/6),1:38
-18-Sep-2017,Seoul,3,Hard,QF,77,10,0,,1,Jelena Ostapenko,Veronica Cepede Royg,6-3 6-1 (ch),,,,,,,,,,,,,,
+18-Sep-2017,Seoul,3,Hard,QF,77,10,0,,1,Jelena Ostapenko,Veronica Cepede Royg,6-3 6-1,,,,,,,,,,,,,,
 18-Sep-2017,Seoul,3,Hard,R16,77,124,1,,,Veronica Cepede Royg,Kristie Ahn,4-6 6-4 6-3,0.99,3.5%,3.5%,59.3%,59.7%,41.3%,57.1% (8/14),50.0%,47.3%,2.2%,40.4%,56.4%,58.3% (7/12),2:33
 18-Sep-2017,Seoul,3,Hard,R32,77,260,1,,Q,Veronica Cepede Royg,Peangtarn Plipuech,6-3 6-2,1.44,7.0%,8.8%,49.1%,71.4%,48.3%,60.0% (3/5),59.0%,58.1%,2.3%,50.0%,73.3%,83.3% (5/6),1:10
 28-Aug-2017,US Open,5,Hard,R128,75,127,0,,,Nicole Gibbs,Veronica Cepede Royg,6-0 1-6 6-1,0.83,0.0%,5.1%,50.8%,53.3%,44.8%,37.5% (3/8),44.9%,42.0%,3.4%,36.2%,48.8%,16.7% (2/12),1:56
@@ -208,7 +208,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Jun-2017,Calvia,3,Grass,R32,90,67,0,Q,,Varvara Lepchenko,Veronica Cepede Royg,3-6 6-3 7-6(4),0.90,0.0%,3.0%,72.0%,62.5%,53.6%,33.3% (2/6),48.9%,36.0%,3.5%,28.6%,50.0%,100.0% (4/4),2:00
 19-Jun-2017,Calvia,3,Grass,Q2,90,135,1,4,12,Veronica Cepede Royg,Tereza Martincova,3-6 6-4 6-3,1.01,0.0%,5.8%,58.3%,68.3%,44.2%,76.5% (13/17),51.1%,42.4%,4.7%,35.7%,55.2%,55.6% (5/9),2:04
 19-Jun-2017,Calvia,3,Grass,Q1,90,143,1,4,,Veronica Cepede Royg,Jamie Loeb,5-7 7-5 6-4,1.01,1.7%,4.3%,56.9%,54.5%,56.0%,70.0% (14/20),50.5%,45.1%,6.9%,33.3%,58.3%,77.8% (7/9),2:22
-29-May-2017,Roland Garros,5,Clay,R16,97,3,0,,2,Karolina Pliskova,Veronica Cepede Royg,2-6 6-3 6-4 (ch),1.03,2.9%,8.6%,65.7%,65.2%,45.8%,42.9% (3/7),49.4%,42.9%,4.1%,28.3%,60.0%,40.0% (4/10),1:51
+29-May-2017,Roland Garros,5,Clay,R16,97,3,0,,2,Karolina Pliskova,Veronica Cepede Royg,2-6 6-3 6-4,1.03,2.9%,8.6%,65.7%,65.2%,45.8%,42.9% (3/7),49.4%,42.9%,4.1%,28.3%,60.0%,40.0% (4/10),1:51
 29-May-2017,Roland Garros,5,Clay,R32,97,115,1,,,Veronica Cepede Royg,Mariana Duque Marino,3-6 7-6(2) 6-3,1.01,0.0%,3.1%,66.7%,51.2%,53.5%,53.3% (8/15),50.4%,48.4%,0.0%,47.3%,50.0%,60.0% (6/10),2:28
 29-May-2017,Roland Garros,5,Clay,R64,97,17,1,,16,Veronica Cepede Royg,Anastasia Pavlyuchenkova,7-6(4) 2-6 6-4,0.89,1.8%,3.5%,66.7%,59.2%,34.2%,68.2% (15/22),47.6%,43.5%,4.3%,42.6%,45.8%,60.0% (6/10),2:20
 29-May-2017,Roland Garros,5,Clay,R128,97,39,1,,,Veronica Cepede Royg,Lucie Safarova,6-1 6-4,1.81,2.4%,2.4%,69.0%,79.3%,53.8%,33.3% (1/3),60.0%,51.7%,1.7%,38.7%,66.7%,45.5% (5/11),1:03
@@ -222,7 +222,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Apr-2017,Charleston,3,Clay,R64,117,52,0,Q,,Shelby Rogers,Veronica Cepede Royg,6-7(1) 6-3 7-6(6),1.03,1.9%,1.0%,73.8%,59.2%,55.6%,46.2% (6/13),50.2%,42.9%,7.1%,38.2%,52.8%,66.7% (6/9),2:42
 3-Apr-2017,Charleston,3,Clay,Q2,117,255,1,7,,Veronica Cepede Royg,Amanda Carreras,2-6 7-6(9) 6-4,0.95,0.0%,0.0%,66.0%,52.9%,57.1%,33.3% (3/9),48.4%,43.4%,0.8%,40.4%,51.5%,29.4% (5/17),2:41
 3-Apr-2017,Charleston,3,Clay,Q1,117,249,1,7,,Veronica Cepede Royg,Caroline Dolehide,6-3 6-3,1.52,1.9%,1.9%,72.2%,74.4%,53.3%,75.0% (3/4),58.7%,48.0%,4.0%,34.5%,66.7%,57.1% (4/7),1:09
-20-Mar-2017,Miami,3,Hard,R64,131,4,0,Q,4,Dominika Cibulkova,Veronica Cepede Royg,6-3 6-2 (ch),0.65,1.4%,8.2%,54.8%,55.0%,42.4%,55.6% (5/9),42.2%,32.7%,1.8%,32.1%,33.3%,0.0% (0/2),1:33
+20-Mar-2017,Miami,3,Hard,R64,131,4,0,Q,4,Dominika Cibulkova,Veronica Cepede Royg,6-3 6-2,0.65,1.4%,8.2%,54.8%,55.0%,42.4%,55.6% (5/9),42.2%,32.7%,1.8%,32.1%,33.3%,0.0% (0/2),1:33
 20-Mar-2017,Miami,3,Hard,R128,131,51,1,Q,,Veronica Cepede Royg,Misaki Doi,6-2 6-4,1.36,1.7%,5.2%,62.1%,66.7%,45.5%,40.0% (2/5),57.4%,56.3%,0.0%,56.3%,56.3%,50.0% (6/12),1:23
 20-Mar-2017,Miami,3,Hard,Q2,131,96,1,,13,Veronica Cepede Royg,Irina Falconi,6-3 6-3,1.27,1.5%,7.7%,70.8%,67.4%,42.1%,77.8% (7/9),55.2%,50.7%,0.0%,43.6%,60.0%,33.3% (5/15),1:31
 20-Mar-2017,Miami,3,Hard,Q1,131,90,1,,11,Veronica Cepede Royg,Irina Khromacheva,6-4 6-2,1.64,0.0%,7.8%,62.7%,75.0%,52.6%,60.0% (3/5),59.8%,54.5%,0.0%,43.2%,69.0%,41.7% (5/12),1:16
@@ -324,7 +324,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Jun-2015,Surbiton $50K,3,Grass,R32,156,239,0,5,,Tamira Paszek,Veronica Cepede Royg,6-3 6-3,,,,,,,,,,,,,,
 1-Jun-2015,Marseille $100K,3,Clay,R16,173,274,0,,Q,Anastasija Sevastova,Veronica Cepede Royg,1-6 6-4 6-3,,,,,,,,,,,,,,
 1-Jun-2015,Marseille $100K,3,Clay,R32,173,250,1,,,Veronica Cepede Royg,Asia Muhammad,1-6 6-2 6-4,,,,,,,,,,,,,,
-25-May-2015,Roland Garros,5,Clay,R128,173,182,0,Q,WC,Virginie Razzano,Veronica Cepede Royg,2-6 6-4 6-2 (ch),0.98,3.4%,8.0%,57.5%,56.0%,48.6%,54.5% (6/11),49.7%,46.3%,0.0%,43.4%,51.9%,66.7% (4/6),
+25-May-2015,Roland Garros,5,Clay,R128,173,182,0,Q,WC,Virginie Razzano,Veronica Cepede Royg,2-6 6-4 6-2,0.98,3.4%,8.0%,57.5%,56.0%,48.6%,54.5% (6/11),49.7%,46.3%,0.0%,43.4%,51.9%,66.7% (4/6),
 25-May-2015,Roland Garros,5,Clay,Q3,173,144,1,,,Veronica Cepede Royg,Sorana Cirstea,6-1 6-3,,,,,,,,,,,,,,
 25-May-2015,Roland Garros,5,Clay,Q2,173,132,1,,23,Veronica Cepede Royg,Laura Siegemund,6-3 7-5,,,,,,,,,,,,,,
 25-May-2015,Roland Garros,5,Clay,Q1,173,169,1,,,Veronica Cepede Royg,Catherine Cartan Bellis,6-4 6-0,,,,,,,,,,,,,,

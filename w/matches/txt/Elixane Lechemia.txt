@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 3-Oct-2022,Monastir,3,Hard,Q1,,187,0,WC,11,Nigina Abduraimova,Elixane Lechemia,6-1 6-4,0.72,0.0%,1.9%,78.8%,48.8%,45.5%,37.5% (3/8),42.6%,37.5%,3.6%,25.8%,52.0%,25.0% (2/8),1:17
 22-Feb-2021,W25 Poitiers,3,Hard,Q1,1008,413,0,,7,Arianne Hartono,Elixane Lechemia,6-4 6-2,,,,,,,,,,,,,,
 4-Nov-2019,W25 St Etienne,3,Hard,Q1,939,376,0,WC,,Andrea Lazaro Garcia,Elixane Lechemia,6-3 6-1,,,,,,,,,,,,,,
@@ -102,7 +102,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Oct-2016,Loughborough $10K,3,Hard,R16,376,,1,2,Q,Elixane Lechemia,Alicia Barnett,7-5 6-3,,,,,,,,,,,,,,
 24-Oct-2016,Loughborough $10K,3,Hard,R32,376,674,1,2,,Elixane Lechemia,Luisa Marie Huber,6-3 6-2,,,,,,,,,,,,,,
 17-Oct-2016,Joue Les Tours $50K,3,Hard,R16,408,318,0,WC,,Chloe Paquet,Elixane Lechemia,7-6(5) 7-6(1),,,,,,,,,,,,,,
-17-Oct-2016,Joue Les Tours $50K,3,Hard,R32,408,170,1,WC,3,Elixane Lechemia,Barbora Stefkova,6-4 6-4 (ch),,,,,,,,,,,,,,
+17-Oct-2016,Joue Les Tours $50K,3,Hard,R32,408,170,1,WC,3,Elixane Lechemia,Barbora Stefkova,6-4 6-4,,,,,,,,,,,,,,
 10-Oct-2016,Equeurdreville $25K,3,Hard,R16,410,203,0,WC,8,Arantxa Rus,Elixane Lechemia,6-2 4-6 6-1,,,,,,,,,,,,,,
 10-Oct-2016,Equeurdreville $25K,3,Hard,R32,410,476,1,WC,Q,Elixane Lechemia,Silvia Njiric,6-0 6-0,,,,,,,,,,,,,,
 26-Sep-2016,Clermont Ferrand $25K,3,Hard,R32,398,319,0,WC,,Beatriz Haddad Maia,Elixane Lechemia,4-6 6-4 6-2,,,,,,,,,,,,,,

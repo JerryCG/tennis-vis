@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 26-May-2014,Roland Garros,5,Clay,R128,786,91,0,,,Coco Vandeweghe,Iveta Benesova,7-6(6) 6-2,0.73,0.0%,5.8%,59.4%,61.0%,53.6%,25.0% (1/4),44.5%,30.9%,10.3%,21.1%,43.3%,33.3% (1/3),
 19-May-2014,Nuremberg,3,Clay,R32,802,38,0,,4,Elina Svitolina,Iveta Benesova,7-5 6-4,0.82,0.0%,8.0%,60.0%,48.9%,33.3%,41.7% (5/12),44.8%,46.8%,3.8%,29.8%,71.9%,55.6% (5/9),
 17-Mar-2014,Miami,3,Hard,R128,1004,112,0,,,Alisa Kleybanova,Iveta Benesova,7-6(3) 6-1,0.84,1.5%,1.5%,52.2%,51.4%,50.0%,44.4% (4/9),45.8%,41.3%,6.7%,26.8%,58.8%,28.6% (2/7),
@@ -126,7 +126,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-May-2010,Madrid,3,Clay,R64,55,27,0,Q,,Dominika Cibulkova,Iveta Benesova,6-2 6-2,,,,,,,,,,,,,,
 10-May-2010,Madrid,3,Clay,Q2,55,72,1,2,12,Iveta Benesova,Alberta Brianti,6-4 7-5,,,,,,,,,,,,,,
 10-May-2010,Madrid,3,Clay,Q1,55,110,1,2,,Iveta Benesova,Varvara Lepchenko,6-4 6-7(5) 6-1,,,,,,,,,,,,,,
-26-Apr-2010,Fes,3,Clay,F,67,144,1,7,Q,Iveta Benesova,Simona Halep,6-4 6-2 (ch),,,,,,,,,,,,,,
+26-Apr-2010,Fes,3,Clay,F,67,144,1,7,Q,Iveta Benesova,Simona Halep,6-4 6-2,,,,,,,,,,,,,,
 26-Apr-2010,Fes,3,Clay,SF,67,84,1,7,,Iveta Benesova,Alize Cornet,6-3 4-6 7-5,,,,,,,,,,,,,,
 26-Apr-2010,Fes,3,Clay,QF,67,192,1,7,Q,Iveta Benesova,Laura Pous Tio,2-6 6-1 6-0,,,,,,,,,,,,,,
 26-Apr-2010,Fes,3,Clay,R16,67,296,1,7,Q,Iveta Benesova,Claire De Gubernatis,6-2 6-4,,,,,,,,,,,,,,

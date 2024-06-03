@@ -1,4 +1,108 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+20-May-2024,W75 Grado,3,Clay,R32,277,573,0,6,WC,Arianna Zucchini,Lesley Pattinama Kerkhove,6-3 7-6(3),,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q2,281,222,0,11,7,Louisa Chirico,Lesley Pattinama Kerkhove,6-4 6-4,,,,,,,,,,,,,,
+13-May-2024,W100 Madrid,3,Clay,Q1,281,,1,11,WC,Lesley Pattinama Kerkhove,Cristina Ramos Sierra,6-3 6-1,,,,,,,,,,,,,,
+6-May-2024,W35 Platja D'Aro,3,Clay,R32,281,928,0,5,JE,Charo Esquiva Banuls,Lesley Pattinama Kerkhove,6-1 6-1,,,,,,,,,,,,,,
+22-Apr-2024,W50 Lopota,3,Hard,R32,287,600,0,6,,Daria Kudashova,Lesley Pattinama Kerkhove,6-3 7-5,,,,,,,,,,,,,,
+15-Apr-2024,W50+H Calvi,3,Hard,R32,292,239,0,,3,Nigina Abduraimova,Lesley Pattinama Kerkhove,6-4 7-6(4),,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,QF,300,86,0,,1,Kayla Day,Lesley Pattinama Kerkhove,6-0 6-7(3) 6-3,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R16,300,156,1,,8,Lesley Pattinama Kerkhove,Irina Bara,2-6 6-4 6-2,,,,,,,,,,,,,,
+8-Apr-2024,W75 Bellinzona,3,Clay,R32,300,417,1,,Q,Lesley Pattinama Kerkhove,Martina Colmegna,6-2 6-7(7) 6-2,,,,,,,,,,,,,,
+1-Apr-2024,W75 Split,3,Clay,R32,296,303,0,,,Rebecca Peterson,Lesley Pattinama Kerkhove,6-2 7-6(6),,,,,,,,,,,,,,
+25-Mar-2024,W50 Murska Sobota,3,Hard,R32,282,175,0,,2,Viktoria Hruncakova,Lesley Pattinama Kerkhove,6-0 7-6(5),,,,,,,,,,,,,,
+11-Mar-2024,W35 Solarino,3,Carpet,R32,262,347,0,3,,Robin Anderson,Lesley Pattinama Kerkhove,3-6 7-5 6-4,,,,,,,,,,,,,,
+4-Mar-2024,W35 Solarino,3,Carpet,QF,262,337,0,5,,Barbora Palicova,Lesley Pattinama Kerkhove,6-1 7-5,,,,,,,,,,,,,,
+4-Mar-2024,W35 Solarino,3,Carpet,R16,262,501,1,5,Q,Lesley Pattinama Kerkhove,Federica Di Sarra,3-6 6-4 7-5,,,,,,,,,,,,,,
+4-Mar-2024,W35 Solarino,3,Carpet,R32,262,322,1,5,,Lesley Pattinama Kerkhove,Katarina Kozarov,6-2 6-2,,,,,,,,,,,,,,
+26-Feb-2024,San Diego,3,Hard,Q1,263,133,0,,9,Dalma Galfi,Lesley Pattinama Kerkhove,6-3 7-5,0.81,1.4%,7.2%,68.1%,59.6%,31.8%,37.5% (3/8),45.5%,39.7%,6.3%,23.7%,64.0%,33.3% (2/6),1:25
+19-Feb-2024,W50 Mexico City,3,Hard,R32,260,706,0,2,Q,Thaisa Grana Pedretti,Lesley Pattinama Kerkhove,7-5 4-6 6-3,,,,,,,,,,,,,,
+12-Feb-2024,W50 Morelia,3,Hard,R32,242,131,0,,2,Jule Niemeier,Lesley Pattinama Kerkhove,6-1 7-5,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R16,256,145,0,,3,Sachia Vickery,Lesley Pattinama Kerkhove,7-5 7-5,,,,,,,,,,,,,,
+5-Feb-2024,W100 Irapuato,3,Hard,R32,256,370,1,,Q,Lesley Pattinama Kerkhove,Victoria Rodriguez,6-3 6-2,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,Q2,237,354,0,2,12,Nefisa Berberovic,Lesley Pattinama Kerkhove,2-6 6-1 6-4,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q3,237,133,0,,22,Sara Bejlek,Lesley Pattinama Kerkhove,6-3 6-4,0.69,1.6%,8.1%,56.5%,54.3%,48.1%,50.0% (4/8),42.9%,33.3%,0.0%,28.9%,42.1%,66.7% (2/3),1:14
+15-Jan-2024,Australian Open,5,Hard,Q2,237,195,1,,,Lesley Pattinama Kerkhove,Katarzyna Kawa,6-4 6-1,1.32,0.0%,5.8%,66.7%,65.2%,60.9%,85.7% (6/7),57.1%,48.0%,2.0%,46.2%,50.0%,50.0% (4/8),1:19
+15-Jan-2024,Australian Open,5,Hard,Q1,237,126,1,,15,Lesley Pattinama Kerkhove,Lucrezia Stefanini,6-3 6-3,1.44,7.5%,9.4%,64.2%,70.6%,47.4%,33.3% (1/3),58.2%,54.4%,1.8%,43.9%,81.3%,55.6% (5/9),1:15
+4-Dec-2023,W100 Dubai,3,Hard,R32,231,178,0,,,Arianne Hartono,Lesley Pattinama Kerkhove,6-1 6-1,,,,,,,,,,,,,,
+27-Nov-2023,W25 Lousada,3,Hard,R32,229,648,0,2,,Natalia Szabanin,Lesley Pattinama Kerkhove,6-1 7-6(4),,,,,,,,,,,,,,
+20-Nov-2023,W25 Lousada,3,Hard,R32,221,720,0,2,Q,Mariam Bolkvadze,Lesley Pattinama Kerkhove,3-6 7-5 6-1,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R32,220,85,0,,1,Clara Tauson,Lesley Pattinama Kerkhove,6-1 6-1,,,,,,,,,,,,,,
+6-Nov-2023,W60+H Calgary,3,Hard,R16,233,376,0,4,,Sabine Lisicki,Lesley Pattinama Kerkhove,6-3 3-6 6-2,,,,,,,,,,,,,,
+6-Nov-2023,W60+H Calgary,3,Hard,R32,233,305,1,4,,Lesley Pattinama Kerkhove,Martha Matoula,6-2 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W25 Edmonton,3,Hard,F,234,148,0,2,1,Arina Rodionova,Lesley Pattinama Kerkhove,6-3 7-5,,,,,,,,,,,,,,
+30-Oct-2023,W25 Edmonton,3,Hard,SF,234,629,1,2,,Lesley Pattinama Kerkhove,Mana Kawamura,6-2 6-0,,,,,,,,,,,,,,
+30-Oct-2023,W25 Edmonton,3,Hard,QF,234,290,1,2,5,Lesley Pattinama Kerkhove,Liv Hovde,6-4 0-6 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W25 Edmonton,3,Hard,R16,234,578,1,2,,Lesley Pattinama Kerkhove,Yasmine Kabbaj,6-2 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W25 Edmonton,3,Hard,R32,234,603,1,2,,Lesley Pattinama Kerkhove,Marine Partaud,6-4 1-6 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W60 Toronto,3,Hard,R32,234,345,0,5,,Eden Silva,Lesley Pattinama Kerkhove,7-5 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W60 Saguenay,3,Hard,R32,231,359,0,3,,Robin Anderson,Lesley Pattinama Kerkhove,6-4 4-6 6-3,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santarem,3,Hard,R16,236,264,0,7,,Margaux Rouvroy,Lesley Pattinama Kerkhove,6-0 5-7 6-3,,,,,,,,,,,,,,
+25-Sep-2023,W25 Santarem,3,Hard,R32,236,,1,7,WC,Lesley Pattinama Kerkhove,Patricia Gui,6-4 6-0,,,,,,,,,,,,,,
+18-Sep-2023,W25 Ceuta,3,Hard,SF,234,345,0,1,4,Katarina Kozarov,Lesley Pattinama Kerkhove,6-0 6-4,,,,,,,,,,,,,,
+18-Sep-2023,W25 Ceuta,3,Hard,QF,234,369,1,1,5,Lesley Pattinama Kerkhove,Lina Glushko,7-6(3) 6-2,,,,,,,,,,,,,,
+18-Sep-2023,W25 Ceuta,3,Hard,R16,234,650,1,1,,Lesley Pattinama Kerkhove,Victoria Muntean,6-2 6-3,,,,,,,,,,,,,,
+18-Sep-2023,W25 Ceuta,3,Hard,R32,234,447,1,1,,Lesley Pattinama Kerkhove,Eliz Maloney,2-6 6-3 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R32,239,401,0,,,Valentina Ryser,Lesley Pattinama Kerkhove,4-6 6-3 6-4,,,,,,,,,,,,,,
+28-Aug-2023,W25 Valladolid,3,Hard,R16,239,671,0,3,Q,Fangran Tian,Lesley Pattinama Kerkhove,6-3 4-6 6-1,,,,,,,,,,,,,,
+28-Aug-2023,W25 Valladolid,3,Hard,R32,239,1118,1,3,Q,Lesley Pattinama Kerkhove,Tenika Mcgiffin,1-6 6-3 6-2,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,F,263,249,0,3,2,Jana Fett,Lesley Pattinama Kerkhove,6-7(5) 6-3 6-1,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,SF,263,313,1,3,6,Lesley Pattinama Kerkhove,Anna Brogan,3-6 6-3 6-2,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,QF,263,429,1,3,,Lesley Pattinama Kerkhove,Susan Bandecchi,7-5 2-6 7-5,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,R16,263,,1,3,WC,Lesley Pattinama Kerkhove,Maria Garcia Cid,6-3 6-0,,,,,,,,,,,,,,
+21-Aug-2023,W25 Vigo,3,Hard,R32,263,502,1,3,Q,Lesley Pattinama Kerkhove,Yeon Woo Ku,6-2 6-4,,,,,,,,,,,,,,
+7-Aug-2023,W25 Roehampton,3,Hard,R16,252,337,0,7,,Rutuja Bhosale,Lesley Pattinama Kerkhove,6-2 6-1,,,,,,,,,,,,,,
+7-Aug-2023,W25 Roehampton,3,Hard,R32,252,507,1,7,Q,Lesley Pattinama Kerkhove,Saki Imamura,6-7(6) 6-4 7-6(2),,,,,,,,,,,,,,
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R32,249,138,0,,4,Zhuoxuan Bai,Lesley Pattinama Kerkhove,7-5 6-1,,,,,,,,,,,,,,
+17-Jul-2023,W40 Porto,3,Hard,R16,235,434,0,2,SE,Xinyu Gao,Lesley Pattinama Kerkhove,6-3 6-1,,,,,,,,,,,,,,
+17-Jul-2023,W40 Porto,3,Hard,R32,235,635,1,2,,Lesley Pattinama Kerkhove,Matilde Jorge,6-4 1-6 6-0,,,,,,,,,,,,,,
+10-Jul-2023,W25 Corroios-Seixal,3,Hard,R32,202,431,0,2,Q,Xinyu Gao,Lesley Pattinama Kerkhove,6-4 6-4,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q1,202,120,0,,16,Kayla Day,Lesley Pattinama Kerkhove,7-5 2-6 7-6(4),0.91,2.3%,3.8%,75.9%,59.4%,50.0%,69.2% (9/13),49.2%,38.8%,6.8%,32.9%,51.5%,55.6% (5/9),2:35
+19-Jun-2023,W100 Ilkley,3,Grass,R32,204,200,0,Q,Q,Emiliana Arango,Lesley Pattinama Kerkhove,6-4 7-5,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,Q2,204,282,1,4,15,Lesley Pattinama Kerkhove,Harmony Tan,7-6(4) 6-3,,,,,,,,,,,,,,
+19-Jun-2023,W100 Ilkley,3,Grass,Q1,204,,1,4,WC,Lesley Pattinama Kerkhove,Hannah Klugman,6-2 6-7(4) 6-4,,,,,,,,,,,,,,
+12-Jun-2023,s Hertogenbosch,3,Grass,R32,203,117,0,WC,,Kimberly Birrell,Lesley Pattinama Kerkhove,6-1 6-4,0.74,3.2%,3.2%,71.0%,52.3%,55.6%,57.1% (4/7),43.5%,34.8%,7.2%,23.7%,48.4%,0.0% (0/2),1:27
+29-May-2023,Roland Garros,5,Clay,Q2,210,134,0,,15,Elina Avanesyan,Lesley Pattinama Kerkhove,6-3 4-6 6-3,0.85,0.0%,3.8%,67.5%,53.7%,42.3%,30.0% (3/10),46.0%,42.7%,0.0%,42.9%,42.4%,38.5% (5/13),
+29-May-2023,Roland Garros,5,Clay,Q1,210,161,1,,,Lesley Pattinama Kerkhove,Leyre Romero Gormaz,3-6 7-6(5) 6-4,0.99,0.9%,2.6%,82.5%,57.4%,50.0%,70.6% (12/17),49.4%,43.3%,1.6%,37.1%,57.9%,29.4% (5/17),
+24-Apr-2023,W40+H Calvi,3,Hard,R32,198,683,0,6,WC,Amandine Monnot,Lesley Pattinama Kerkhove,5-7 6-3 6-1,,,,,,,,,,,,,,
+15-Apr-2023,BJK Cup G1 PPO: NED vs SRB,3,Clay,RR,198,135,0,,,Olga Danilovic,Lesley Pattinama Kerkhove,6-2 7-6(5),,,,,,,,,,,,,,
+14-Apr-2023,BJK Cup G1 RR: HUN vs NED,3,Clay,RR,198,87,0,,,Anna Bondar,Lesley Pattinama Kerkhove,6-3 6-3,,,,,,,,,,,,,,
+13-Apr-2023,BJK Cup G1 RR: NED vs EGY,3,Clay,RR,198,455,1,,,Lesley Pattinama Kerkhove,Sandra Samir,7-6(2) 3-6 6-1,,,,,,,,,,,,,,
+11-Apr-2023,BJK Cup G1 RR: TUR vs NED,3,Clay,RR,198,242,0,,,Zeynep Sonmez,Lesley Pattinama Kerkhove,6-3 6-3,,,,,,,,,,,,,,
+10-Apr-2023,BJK Cup G1 RR: LAT vs NED,3,Clay,RR,198,299,1,,,Lesley Pattinama Kerkhove,Daniela Vismane,6-3 6-7(2) 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,QF,201,211,0,,,Yanina Wickmayer,Lesley Pattinama Kerkhove,6-2 6-3,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R16,201,134,1,,5,Lesley Pattinama Kerkhove,Jessika Ponchet,4-6 7-6(4) 6-4,,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,201,551,1,,Q,Lesley Pattinama Kerkhove,Ksenia Zaytseva,3-6 6-3 6-0,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,F,229,292,0,,Q,Antonia Ruzic,Lesley Pattinama Kerkhove,6-4 6-1,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,SF,229,139,1,,3,Lesley Pattinama Kerkhove,Jessika Ponchet,3-6 6-3 6-4,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,QF,229,159,1,,6,Lesley Pattinama Kerkhove,Elsa Jacquemot,6-3 6-2,,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R16,229,116,1,,1,Lesley Pattinama Kerkhove,Yue Yuan,7-6(8) 7-6(3),,,,,,,,,,,,,,
+13-Mar-2023,W40 Ricany,3,Hard,R32,229,349,1,,LL,Lesley Pattinama Kerkhove,Veronika Erjavec,6-3 6-1,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R32,229,213,0,,,Barbora Palicova,Lesley Pattinama Kerkhove,6-1 6-2,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R32,219,126,0,,4,Clara Tauson,Lesley Pattinama Kerkhove,6-0 6-2,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,R16,229,373,0,3,,Elena Malygina,Lesley Pattinama Kerkhove,2-6 6-4 6-3,,,,,,,,,,,,,,
+13-Feb-2023,W25 Glasgow,3,Hard,R32,229,331,1,3,,Lesley Pattinama Kerkhove,Michaela Bayerlova,6-0 6-1,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,SF,226,443,0,2,,Tereza Smitkova,Lesley Pattinama Kerkhove,6-3 6-4,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,QF,226,595,1,2,Q,Lesley Pattinama Kerkhove,Hanne Vandewinkel,6-1 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,R16,226,501,1,2,Q,Lesley Pattinama Kerkhove,Amarni Banks,6-4 3-6 6-1,,,,,,,,,,,,,,
+6-Feb-2023,W25 Bath,3,Hard,R32,226,401,1,2,,Lesley Pattinama Kerkhove,Deborah Chiesa,7-5 4-6 6-1,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,SF,260,223,0,,,Greet Minnen,Lesley Pattinama Kerkhove,7-6(6) 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,QF,260,557,1,,LL,Lesley Pattinama Kerkhove,Jasmijn Gimbrere,5-7 7-5 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R16,260,,1,,4,Lesley Pattinama Kerkhove,Yuriko Miyazaki,5-7 6-2 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Sunderland,3,Hard,R32,260,433,1,,Q,Lesley Pattinama Kerkhove,Kathleen Kanev,6-2 6-7(4) 6-1,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,SF,260,119,0,,1,Viktoria Hruncakova,Lesley Pattinama Kerkhove,7-5 7-6(5),,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,QF,260,263,1,,,Lesley Pattinama Kerkhove,Audrey Albie,6-7(3) 6-3 6-3,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R16,260,262,1,,,Lesley Pattinama Kerkhove,Lea Boskovic,7-6(3) 6-1,,,,,,,,,,,,,,
+16-Jan-2023,W40 Tallinn,3,Hard,R32,260,192,1,,3,Lesley Pattinama Kerkhove,Sinja Kraus,6-0 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W40 Tallinn,3,Hard,QF,266,348,0,1,,Zeynep Sonmez,Lesley Pattinama Kerkhove,7-5 3-6 6-4,,,,,,,,,,,,,,
+9-Jan-2023,W40 Tallinn,3,Hard,R16,266,748,1,1,Q,Lesley Pattinama Kerkhove,Lois Boisson,6-2 6-1,,,,,,,,,,,,,,
+9-Jan-2023,W40 Tallinn,3,Hard,R32,266,273,1,1,,Lesley Pattinama Kerkhove,Nina Potocnik,6-4 6-0,,,,,,,,,,,,,,
+14-Nov-2022,W25 Saint Etienne,3,Hard,SF,222,816,0,1,Q,Emeline Dartron,Lesley Pattinama Kerkhove,7-5 5-7 6-4,,,,,,,,,,,,,,
+14-Nov-2022,W25 Saint Etienne,3,Hard,QF,222,306,1,1,6,Lesley Pattinama Kerkhove,Eden Silva,7-6(3) 6-1,,,,,,,,,,,,,,
+14-Nov-2022,W25 Saint Etienne,3,Hard,R16,222,660,1,1,WC,Lesley Pattinama Kerkhove,Nina Radovanovic,6-1 7-5,,,,,,,,,,,,,,
+14-Nov-2022,W25 Saint Etienne,3,Hard,R32,222,686,1,1,,Lesley Pattinama Kerkhove,Marine Szostak,6-0 4-6 7-6(9),,,,,,,,,,,,,,
+12-Nov-2022,BJK Cup Playoffs: FRA vs NED,3,Hard,RR,207,36,0,,,Alize Cornet,Lesley Pattinama Kerkhove,6-2 6-0,,,,,,,,,,,,,,
+12-Nov-2022,BJK Cup Playoffs: FRA vs NED,3,Hard,RR,207,4,0,,,Caroline Garcia,Lesley Pattinama Kerkhove,6-2 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R32,197,315,0,,,Audrey Albie,Lesley Pattinama Kerkhove,6-1 7-6(5),,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,200,149,0,,,Lucrezia Stefanini,Lesley Pattinama Kerkhove,6-4 6-3,,,,,,,,,,,,,,
 17-Oct-2022,W60 Glasgow,3,Hard,QF,193,141,0,7,3,Jodie Burrage,Lesley Pattinama Kerkhove,6-3 6-1,,,,,,,,,,,,,,
 17-Oct-2022,W60 Glasgow,3,Hard,R16,193,661,1,7,Q,Lesley Pattinama Kerkhove,Fiona Ganz,6-2 7-5,,,,,,,,,,,,,,
@@ -30,17 +134,17 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2022,W25 Corroios-Seixal,3,Hard,QF,138,264,1,3,,Lesley Pattinama Kerkhove,Lulu Sun,6-3 6-2,,,,,,,,,,,,,,
 4-Jul-2022,W25 Corroios-Seixal,3,Hard,R16,138,,1,3,WC,Lesley Pattinama Kerkhove,Ines Oliveira,6-2 6-0,,,,,,,,,,,,,,
 4-Jul-2022,W25 Corroios-Seixal,3,Hard,R32,138,365,1,3,,Lesley Pattinama Kerkhove,Ya Hsuan Lee,6-1 6-1,,,,,,,,,,,,,,
-27-Jun-2022,Wimbledon,5,Grass,R64,138,1,0,,1,Iga Swiatek,Lesley Pattinama Kerkhove,6-4 4-6 6-3 (ch),0.83,2.2%,8.6%,67.7%,69.8%,26.7%,42.9% (3/7),46.7%,36.8%,5.7%,31.7%,48.1%,60.0% (3/5),2:04
-27-Jun-2022,Wimbledon,5,Grass,R128,138,226,1,,,Lesley Pattinama Kerkhove,Sonay Kartal,6-4 3-6 6-1 (ch),1.17,1.2%,3.7%,63.0%,60.8%,53.3%,33.3% (2/6),53.9%,49.3%,0.0%,50.9%,45.0%,75.0% (6/8),1:33
+27-Jun-2022,Wimbledon,5,Grass,R64,138,1,0,,1,Iga Swiatek,Lesley Pattinama Kerkhove,6-4 4-6 6-3,0.83,2.2%,8.6%,67.7%,69.8%,26.7%,42.9% (3/7),46.7%,36.8%,5.7%,31.7%,48.1%,60.0% (3/5),2:04
+27-Jun-2022,Wimbledon,5,Grass,R128,138,226,1,,,Lesley Pattinama Kerkhove,Sonay Kartal,6-4 3-6 6-1,1.17,1.2%,3.7%,63.0%,60.8%,53.3%,33.3% (2/6),53.9%,49.3%,0.0%,50.9%,45.0%,75.0% (6/8),1:33
 27-Jun-2022,Wimbledon,5,Grass,Q3,138,261,0,14,,Christina Mchale,Lesley Pattinama Kerkhove,7-6(3) 7-5,0.82,0.0%,6.9%,63.2%,58.2%,34.4%,53.8% (7/13),45.6%,41.5%,3.7%,32.1%,58.6%,41.7% (5/12),1:55
 27-Jun-2022,Wimbledon,5,Grass,Q2,138,213,1,14,,Lesley Pattinama Kerkhove,Andrea Lazaro Garcia,7-5 2-6 6-4,0.95,0.0%,4.9%,67.0%,65.2%,44.1%,44.4% (4/9),49.7%,39.5%,3.5%,30.9%,54.8%,45.5% (5/11),1:53
 27-Jun-2022,Wimbledon,5,Grass,Q1,138,346,1,14,,Lesley Pattinama Kerkhove,Lea Boskovic,6-3 6-2,1.65,8.9%,4.4%,68.9%,71.0%,57.1%,0.0% (0/2),59.6%,55.1%,1.4%,45.8%,76.2%,46.2% (6/13),1:04
 13-Jun-2022,Gaiba 125,3,Grass,R32,143,109,0,,,Tatjana Maria,Lesley Pattinama Kerkhove,6-4 4-6 6-4,0.92,0.0%,4.9%,58.3%,68.3%,46.5%,69.2% (9/13),49.2%,37.5%,6.8%,34.0%,42.1%,42.9% (3/7),1:46
 6-Jun-2022,s Hertogenbosch,3,Grass,Q1,135,213,0,1,,Raluka Serban,Lesley Pattinama Kerkhove,7-5 5-7 7-5,0.94,0.9%,8.0%,65.5%,56.8%,51.3%,50.0% (7/14),48.9%,42.6%,2.8%,37.8%,52.9%,54.5% (6/11),2:29
 30-May-2022,W100 Surbiton,3,Grass,R32,,,0,,2,Alison Van Uytvanck,Lesley Pattinama Kerkhove,6-3 6-4,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,137,261,0,27,,Christina Mchale,Lesley Pattinama Kerkhove,6-3 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q1,137,261,0,27,,Christina Mchale,Lesley Pattinama Kerkhove,6-3 6-2,0.77,1.6%,3.2%,63.5%,47.5%,39.1%,68.8% (11/16),43.6%,42.9%,1.3%,38.8%,50.0%,12.5% (2/16),
 18-Apr-2022,W25 Nottingham,3,Hard,R32,141,,0,1,,Yeon Woo Ku,Lesley Pattinama Kerkhove,7-5 6-4,,,,,,,,,,,,,,
-15-Apr-2022,BJK Cup QLS R1: ESP vs NED,3,Clay,RR,141,49,0,,,Sara Sorribes Tormo,Lesley Pattinama Kerkhove,6-4 6-3 (ch),0.77,0.0%,7.0%,66.2%,55.3%,29.2%,45.5% (5/11),44.2%,41.4%,3.4%,36.8%,50.0%,80.0% (4/5),1:43
+15-Apr-2022,BJK Cup QLS R1: ESP vs NED,3,Clay,RR,141,49,0,,,Sara Sorribes Tormo,Lesley Pattinama Kerkhove,6-4 6-3,0.77,0.0%,7.0%,66.2%,55.3%,29.2%,45.5% (5/11),44.2%,41.4%,3.4%,36.8%,50.0%,80.0% (4/5),1:43
 28-Mar-2022,W60 Croissy-Beaubourg,3,Hard,R16,138,,0,3,,Linda Noskova,Lesley Pattinama Kerkhove,6-4 6-3,,,,,,,,,,,,,,
 28-Mar-2022,W60 Croissy-Beaubourg,3,Hard,R32,138,,1,3,,Lesley Pattinama Kerkhove,Justina Mikulskyte,4-6 6-4 6-3,,,,,,,,,,,,,,
 21-Mar-2022,Miami,3,Hard,Q1,138,102,0,,12,Lucia Bronzetti,Lesley Pattinama Kerkhove,4-6 6-2 6-3,0.82,1.1%,4.3%,65.2%,63.3%,25.0%,64.7% (11/17),45.4%,41.2%,3.9%,29.0%,60.0%,28.6% (4/14),2:07
@@ -82,11 +186,11 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Jul-2021,W60 Vitoria-Gasteiz,3,Hard,R16,159,1239,1,1,LL,Lesley Pattinama Kerkhove,Olivia Gram,6-2 6-2,,,,,,,,,,,,,,
 12-Jul-2021,W60 Vitoria-Gasteiz,3,Hard,R32,159,,1,1,WC,Lesley Pattinama Kerkhove,Mercedes Aristegui,6-3 6-0,,,,,,,,,,,,,,
 28-Jun-2021,Wimbledon,5,Grass,R64,174,12,0,Q,11,Garbine Muguruza,Lesley Pattinama Kerkhove,6-1 6-4,0.43,0.0%,8.2%,62.3%,60.5%,26.1%,66.7% (8/12),37.1%,22.7%,15.9%,18.5%,29.4%,25.0% (1/4),1:08
-28-Jun-2021,Wimbledon,5,Grass,R128,174,40,1,Q,,Lesley Pattinama Kerkhove,Svetlana Kuznetsova,6-3 6-3 (ch),1.34,0.0%,6.0%,58.0%,79.3%,47.6%,50.0% (1/2),55.2%,45.5%,9.1%,34.6%,55.2%,36.4% (4/11),1:05
+28-Jun-2021,Wimbledon,5,Grass,R128,174,40,1,Q,,Lesley Pattinama Kerkhove,Svetlana Kuznetsova,6-3 6-3,1.34,0.0%,6.0%,58.0%,79.3%,47.6%,50.0% (1/2),55.2%,45.5%,9.1%,34.6%,55.2%,36.4% (4/11),1:05
 28-Jun-2021,Wimbledon,5,Grass,Q3,174,167,1,,,Lesley Pattinama Kerkhove,Jule Niemeier,6-4 2-6 9-7,1.03,3.3%,4.1%,66.9%,64.2%,52.5%,55.6% (5/9),50.9%,40.7%,15.0%,29.2%,61.0%,33.3% (4/12),2:35
 28-Jun-2021,Wimbledon,5,Grass,Q2,174,140,1,,28,Lesley Pattinama Kerkhove,Maddison Inglis,7-6(0) 6-7(4) 6-1,1.20,6.7%,6.7%,62.5%,75.4%,53.8%,33.3% (1/3),53.1%,39.3%,7.5%,35.6%,47.1%,71.4% (5/7),2:24
 28-Jun-2021,Wimbledon,5,Grass,Q1,174,215,1,,,Lesley Pattinama Kerkhove,Daniela Seguel,6-4 6-2,1.56,1.9%,0.0%,57.7%,70.0%,68.2%,75.0% (3/4),56.6%,48.1%,2.6%,41.3%,58.1%,50.0% (4/8),1:25
-14-Jun-2021,W100+H Nottingham,3,Grass,Q2,173,148,0,11,3,Storm Sanders,Lesley Pattinama Kerkhove,6-1 7-5,,,,,,,,,,,,,,
+14-Jun-2021,W100+H Nottingham,3,Grass,Q2,173,148,0,11,3,Storm Hunter,Lesley Pattinama Kerkhove,6-1 7-5,,,,,,,,,,,,,,
 14-Jun-2021,W100+H Nottingham,3,Grass,Q1,173,193,1,11,,Lesley Pattinama Kerkhove,Xiaodi You,6-2 6-4,,,,,,,,,,,,,,
 7-Jun-2021,Nottingham,3,Grass,R32,177,20,0,Q,1,Johanna Konta,Lesley Pattinama Kerkhove,6-1 6-3,0.59,2.2%,8.7%,60.9%,53.6%,33.3%,28.6% (2/7),38.7%,31.9%,17.0%,10.3%,66.7%,100.0% (1/1),1:04
 7-Jun-2021,Nottingham,3,Grass,R64,177,135,1,Q,,Lesley Pattinama Kerkhove,Maddison Inglis,6-1 6-4,1.41,5.5%,7.3%,60.0%,87.9%,40.9%,100.0% (2/2),57.4%,43.5%,0.0%,48.1%,36.8%,60.0% (3/5),1:11
@@ -95,7 +199,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 17-May-2021,Parma,3,Clay,Q1,175,196,1,12,,Lesley Pattinama Kerkhove,Julia Grabher,7-5 6-3,1.30,4.8%,3.2%,65.1%,56.1%,45.5%,28.6% (2/7),57.1%,61.9%,0.0%,57.1%,67.9%,50.0% (7/14),1:20
 3-May-2021,W25 Prague,3,Clay,R32,179,527,0,6,Q,Ipek Oz,Lesley Pattinama Kerkhove,7-5 7-6(3),,,,,,,,,,,,,,
 26-Apr-2021,W60 Zagreb,3,Clay,R32,179,139,0,,4,Kamilla Rakhimova,Lesley Pattinama Kerkhove,6-1 4-6 6-0,,,,,,,,,,,,,,
-17-Apr-2021,BJK Cup Playoffs: NED vs CHN,3,Clay,RR,179,134,0,,,Xiyu Wang,Lesley Pattinama Kerkhove,6-3 5-7 6-4 (ch),0.79,4.1%,7.2%,70.1%,69.1%,37.9%,69.2% (9/13),46.9%,31.7%,9.8%,23.1%,46.7%,42.9% (3/7),2:06
+17-Apr-2021,BJK Cup Playoffs: NED vs CHN,3,Clay,RR,179,134,0,,,Xiyu Wang,Lesley Pattinama Kerkhove,6-3 5-7 6-4,0.79,4.1%,7.2%,70.1%,69.1%,37.9%,69.2% (9/13),46.9%,31.7%,9.8%,23.1%,46.7%,42.9% (3/7),2:06
 29-Mar-2021,W25 Dubai,3,Hard,R16,175,228,0,3,,Elitsa Kostova,Lesley Pattinama Kerkhove,6-2 7-5,,,,,,,,,,,,,,
 29-Mar-2021,W25 Dubai,3,Hard,R32,175,353,1,3,WC,Lesley Pattinama Kerkhove,Sandra Samir,4-6 6-3 5-0 RET,,,,,,,,,,,,,,
 15-Mar-2021,St. Petersburg,3,Hard,Q2,176,96,0,11,1,Clara Tauson,Lesley Pattinama Kerkhove,7-5 6-2,0.73,3.2%,3.2%,61.3%,44.7%,45.8%,14.3% (1/7),42.5%,40.0%,12.3%,31.0%,56.5%,27.3% (3/11),1:17
@@ -131,7 +235,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Sep-2020,W25 Prague,3,Clay,R16,168,196,0,4,,Yuki Naito,Lesley Pattinama Kerkhove,6-2 5-7 6-4,,,,,,,,,,,,,,
 7-Sep-2020,W25 Prague,3,Clay,R32,168,826,1,4,LL,Lesley Pattinama Kerkhove,Arina Gabriela Vasilescu,3-6 6-2 6-1,,,,,,,,,,,,,,
 31-Aug-2020,Prague,3,Clay,R128,168,277,0,15,,Anna Danilina,Lesley Pattinama Kerkhove,6-7(5) 7-5 6-1,0.91,1.7%,13.3%,51.7%,56.5%,27.6%,38.9% (7/18),46.8%,52.0%,1.0%,40.7%,65.9%,53.3% (8/15),2:15
-2-Mar-2020,Lyon,3,Hard,R32,164,85,0,LL,8,Viktoria Kuzmova,Lesley Pattinama Kerkhove,6-2 2-6 6-2,0.75,1.3%,11.4%,62.0%,59.2%,50.0%,60.0% (6/10),45.3%,33.3%,15.9%,13.2%,58.1%,50.0% (2/4),1:38
+2-Mar-2020,Lyon,3,Hard,R32,164,85,0,LL,8,Viktoria Hruncakova,Lesley Pattinama Kerkhove,6-2 2-6 6-2,0.75,1.3%,11.4%,62.0%,59.2%,50.0%,60.0% (6/10),45.3%,33.3%,15.9%,13.2%,58.1%,50.0% (2/4),1:38
 2-Mar-2020,Lyon,3,Hard,Q2,164,208,0,4,,Anastasiya Komardina,Lesley Pattinama Kerkhove,6-2 6-3,0.70,0.0%,7.1%,51.8%,58.6%,37.0%,50.0% (5/10),42.5%,36.0%,6.0%,30.6%,50.0%,33.3% (1/3),1:09
 2-Mar-2020,Lyon,3,Hard,Q1,164,653,1,4,WC,Lesley Pattinama Kerkhove,Elsa Jacquemot,6-7(6) 7-6(3) 7-5,1.08,5.7%,6.6%,70.5%,67.4%,30.6%,45.5% (5/11),51.3%,46.9%,6.1%,41.6%,55.2%,50.0% (7/14),3:12
 17-Feb-2020,W60 Cairo,3,Hard,R32,160,197,0,5,,Aleksandra Krunic,Lesley Pattinama Kerkhove,6-3 6-2,,,,,,,,,,,,,,
@@ -139,7 +243,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 10-Feb-2020,W100 Cairo,3,Hard,R32,157,369,1,,WC,Lesley Pattinama Kerkhove,Sandra Samir,4-6 6-1 7-6(3),,,,,,,,,,,,,,
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R32,167,100,0,,3,Margarita Gasparyan,Lesley Pattinama Kerkhove,6-4 6-2,,,,,,,,,,,,,,
 20-Jan-2020,Australian Open,5,Hard,Q2,167,143,0,,32,Barbara Haas,Lesley Pattinama Kerkhove,6-4 4-6 6-1,0.89,1.4%,1.4%,58.3%,61.9%,40.0%,0.0% (0/6),46.9%,42.2%,3.3%,36.8%,51.5%,44.4% (4/9),1:54
-20-Jan-2020,Australian Open,5,Hard,Q1,167,236,1,,,Lesley Pattinama Kerkhove,Eva Guerrero Alvarez,6-1 7-6(5) (ch),1.38,3.3%,3.3%,60.7%,83.8%,41.7%,33.3% (1/3),56.1%,45.2%,4.8%,43.2%,50.0%,80.0% (4/5),1:24
+20-Jan-2020,Australian Open,5,Hard,Q1,167,236,1,,,Lesley Pattinama Kerkhove,Eva Guerrero Alvarez,6-1 7-6(5),1.38,3.3%,3.3%,60.7%,83.8%,41.7%,33.3% (1/3),56.1%,45.2%,4.8%,43.2%,50.0%,80.0% (4/5),1:24
 6-Jan-2020,Auckland,3,Hard,Q1,165,135,0,,,Usue Maitane Arconada,Lesley Pattinama Kerkhove,6-2 7-6(7),0.87,0.0%,4.9%,63.4%,50.0%,53.3%,58.3% (7/12),47.1%,42.3%,1.4%,37.5%,52.2%,42.9% (3/7),1:44
 11-Nov-2019,W25 Hua Hin,3,Hard,F,221,1217,1,2,Q,Lesley Pattinama Kerkhove,Hurricane Tyra Black,6-3 6-4,,,,,,,,,,,,,,
 11-Nov-2019,W25 Hua Hin,3,Hard,SF,221,234,1,2,,Lesley Pattinama Kerkhove,Eva Guerrero Alvarez,6-3 6-4,,,,,,,,,,,,,,
@@ -160,7 +264,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Oct-2019,W25 Cherbourg en Cotentin,3,Hard,R16,196,514,1,3,,Lesley Pattinama Kerkhove,Yuriko Miyazaki,6-3 6-4,,,,,,,,,,,,,,
 7-Oct-2019,W25 Cherbourg en Cotentin,3,Hard,R32,196,731,1,3,,Lesley Pattinama Kerkhove,Arlinda Rushiti,7-6(6) 7-6(4),,,,,,,,,,,,,,
 23-Sep-2019,Wuhan,3,Hard,Q1,152,62,0,,5,Lauren Davis,Lesley Pattinama Kerkhove,6-2 6-2,0.54,1.8%,1.8%,66.1%,56.8%,42.1%,33.3% (2/6),40.2%,26.1%,13.0%,5.6%,39.3%,0.0% (0/1),1:05
-16-Sep-2019,Guangzhou,3,Hard,R32,158,77,0,Q,,Andrea Petkovic,Lesley Pattinama Kerkhove,7-5 6-7(4) 6-3 (ch),0.89,1.8%,13.2%,56.1%,51.6%,36.0%,44.4% (8/18),47.0%,49.2%,9.3%,43.2%,59.1%,53.8% (7/13),2:34
+16-Sep-2019,Guangzhou,3,Hard,R32,158,77,0,Q,,Andrea Petkovic,Lesley Pattinama Kerkhove,7-5 6-7(4) 6-3,0.89,1.8%,13.2%,56.1%,51.6%,36.0%,44.4% (8/18),47.0%,49.2%,9.3%,43.2%,59.1%,53.8% (7/13),2:34
 16-Sep-2019,Guangzhou,3,Hard,Q2,158,231,1,12,WC,Lesley Pattinama Kerkhove,Shuyue Ma,6-2 6-4,1.57,13.0%,7.4%,59.3%,84.4%,40.9%,66.7% (2/3),60.2%,52.3%,6.8%,50.0%,54.5%,100.0% (4/4),1:00
 16-Sep-2019,Guangzhou,3,Hard,Q1,158,257,1,12,Alt,Lesley Pattinama Kerkhove,Jaimee Fourlis,6-4 6-3,1.37,5.6%,5.6%,68.5%,59.5%,64.7%,40.0% (2/5),56.8%,53.1%,3.1%,48.9%,63.2%,62.5% (5/8),1:15
 9-Sep-2019,Zhengzhou,3,Hard,R32,168,46,0,Q,,Ajla Tomljanovic,Lesley Pattinama Kerkhove,6-2 6-0,0.62,2.4%,12.2%,68.3%,35.7%,46.2%,25.0% (2/8),38.6%,38.1%,7.1%,25.0%,50.0%,50.0% (1/2),0:58
@@ -177,8 +281,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 29-Jul-2019,W25 Woking,3,Hard,QF,182,527,1,,,Lesley Pattinama Kerkhove,Sarah Beth Grey,6-3 6-3,,,,,,,,,,,,,,
 29-Jul-2019,W25 Woking,3,Hard,R16,182,,1,,WC,Lesley Pattinama Kerkhove,Angelica Blake,6-1 6-4,,,,,,,,,,,,,,
 29-Jul-2019,W25 Woking,3,Hard,R32,182,500,1,,,Lesley Pattinama Kerkhove,Yuriko Miyazaki,6-1 6-4,,,,,,,,,,,,,,
-1-Jul-2019,Wimbledon,5,Grass,R128,201,99,0,,,Ivana Jorovic,Lesley Pattinama Kerkhove,7-6(5) 6-4 (ch),0.98,0.0%,2.9%,66.7%,67.4%,39.1%,50.0% (4/8),48.4%,41.1%,8.9%,30.8%,55.3%,27.3% (3/11),1:34
-1-Jul-2019,Wimbledon,5,Grass,Q3,201,284,1,,,Lesley Pattinama Kerkhove,Sabine Lisicki,0-6 6-4 6-4 (ch),0.90,1.1%,3.2%,67.0%,66.7%,35.5%,66.7% (8/12),48.8%,39.2%,12.2%,40.0%,38.2%,50.0% (3/6),1:44
+1-Jul-2019,Wimbledon,5,Grass,R128,201,99,0,,,Ivana Jorovic,Lesley Pattinama Kerkhove,7-6(5) 6-4,0.98,0.0%,2.9%,66.7%,67.4%,39.1%,50.0% (4/8),48.4%,41.1%,8.9%,30.8%,55.3%,27.3% (3/11),1:34
+1-Jul-2019,Wimbledon,5,Grass,Q3,201,284,1,,,Lesley Pattinama Kerkhove,Sabine Lisicki,0-6 6-4 6-4,0.90,1.1%,3.2%,67.0%,66.7%,35.5%,66.7% (8/12),48.8%,39.2%,12.2%,40.0%,38.2%,50.0% (3/6),1:44
 1-Jul-2019,Wimbledon,5,Grass,Q2,201,124,1,,15,Lesley Pattinama Kerkhove,Varvara Lepchenko,4-6 6-1 6-2,1.49,1.3%,2.6%,71.1%,75.9%,59.1%,75.0% (3/4),56.7%,43.2%,1.2%,39.3%,52.0%,33.3% (4/12),1:52
 1-Jul-2019,Wimbledon,5,Grass,Q1,201,184,1,,,Lesley Pattinama Kerkhove,Fang Ying Xun,6-3 6-3,1.35,0.0%,7.7%,61.5%,75.0%,40.0%,0.0% (0/2),56.7%,51.9%,3.8%,38.2%,77.8%,71.4% (5/7),0:56
 17-Jun-2019,W100 Ilkley,3,Grass,R32,202,139,0,Q,,Timea Babos,Lesley Pattinama Kerkhove,6-3 7-6(4),,,,,,,,,,,,,,
@@ -350,7 +454,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2016,Versmold $50K,3,Clay,QF,176,85,0,8,2,Sorana Cirstea,Lesley Pattinama Kerkhove,7-6(6) 6-3,,,,,,,,,,,,,,
 4-Jul-2016,Versmold $50K,3,Clay,R16,176,270,1,8,,Lesley Pattinama Kerkhove,Valentyna Ivakhnenko,6-3 7-6(3),,,,,,,,,,,,,,
 4-Jul-2016,Versmold $50K,3,Clay,R32,176,211,1,8,,Lesley Pattinama Kerkhove,Anne Schaefer,2-6 6-3 7-6(5),,,,,,,,,,,,,,
-27-Jun-2016,Middelburg $25K,3,Clay,R32,176,426,0,2,,Melanie Stokke,Lesley Pattinama Kerkhove,6-3 3-6 6-2 (ch),,,,,,,,,,,,,,
+27-Jun-2016,Middelburg $25K,3,Clay,R32,176,426,0,2,,Melanie Stokke,Lesley Pattinama Kerkhove,6-3 3-6 6-2,,,,,,,,,,,,,,
 27-Jun-2016,Wimbledon,5,Grass,Q1,176,119,0,,6,Lauren Davis,Lesley Pattinama Kerkhove,6-3 6-3,,,,,,,,,,,,,,
 13-Jun-2016,Ilkley $50K,3,Grass,R32,180,664,0,,WC,Samantha Murray,Lesley Pattinama Kerkhove,5-7 6-3 7-5,,,,,,,,,,,,,,
 6-Jun-2016,Surbiton $50K,3,Grass,R16,176,210,0,3,,Catalina Pella,Lesley Pattinama Kerkhove,4-6 6-2 6-0,,,,,,,,,,,,,,

@@ -1,4 +1,133 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+6-May-2024,Rome,3,Clay,R64,73,161,0,LL,,Irina Camelia Begu,Oceane Dodin,5-2 RET,0.67,0.0%,9.5%,52.4%,45.5%,30.0%,25.0% (1/4),39.5%,41.2%,5.9%,33.3%,60.0%,50.0% (1/2),0:26
+6-May-2024,Rome,3,Clay,Q2,73,102,0,2,22,Brenda Fruhvirtova,Oceane Dodin,6-4 6-3,0.86,1.9%,9.3%,66.7%,58.3%,38.9%,33.3% (2/6),46.0%,41.4%,2.9%,44.0%,35.0%,50.0% (2/4),1:15
+6-May-2024,Rome,3,Clay,Q1,73,141,1,2,,Oceane Dodin,Dalma Galfi,5-7 6-0 6-3,1.21,3.6%,6.0%,56.0%,74.5%,35.1%,60.0% (6/10),54.3%,51.6%,4.4%,49.1%,55.9%,66.7% (8/12),1:56
+29-Apr-2024,Lleida 125,3,Clay,R32,74,202,0,,,Lucija Ciric Bagaric,Oceane Dodin,6-4 6-4,0.81,2.7%,8.0%,57.3%,72.1%,28.1%,60.0% (6/10),46.6%,37.9%,6.9%,25.0%,66.7%,66.7% (2/3),1:18
+22-Apr-2024,Madrid,3,Clay,Q1,74,300,0,5,WC,Leyre Romero Gormaz,Oceane Dodin,6-3 6-1,0.67,4.4%,8.9%,64.4%,48.3%,56.3%,50.0% (4/8),40.2%,32.8%,13.4%,26.2%,44.0%,0.0% (0/9),1:13
+15-Apr-2024,Stuttgart,3,Clay,Q2,76,110,0,4,6,Aliaksandra Sasnovich,Oceane Dodin,6-2 3-6 6-4,0.85,5.8%,2.9%,64.1%,60.6%,37.8%,60.0% (9/15),47.0%,40.2%,9.8%,35.8%,48.3%,44.4% (4/9),1:50
+15-Apr-2024,Stuttgart,3,Clay,Q1,76,151,1,4,,Oceane Dodin,Ella Seidel,6-4 6-1,1.35,14.8%,9.8%,59.0%,75.0%,44.0%,80.0% (4/5),56.8%,50.9%,1.8%,44.7%,63.2%,71.4% (5/7),1:13
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,77,149,0,2,,Eva Lys,Oceane Dodin,6-4 6-1,0.67,1.9%,11.3%,37.7%,45.0%,48.5%,60.0% (6/10),41.1%,35.2%,3.7%,33.3%,38.9%,20.0% (1/5),1:04
+18-Mar-2024,Miami,3,Hard,R32,84,3,0,LL,3,Coco Gauff,Oceane Dodin,6-4 6-0,0.60,3.4%,15.5%,62.1%,61.1%,22.7%,54.5% (6/11),40.2%,31.8%,13.6%,25.0%,40.0%,33.3% (1/3),1:04
+18-Mar-2024,Miami,3,Hard,R64,84,57,1,LL,,Oceane Dodin,Arantxa Rus,6-4 3-6 6-3,1.20,3.8%,7.7%,60.3%,72.3%,48.4%,50.0% (4/8),53.4%,44.6%,3.6%,40.3%,57.1%,45.5% (5/11),1:45
+18-Mar-2024,Miami,3,Hard,Q2,84,91,0,8,15,Clara Tauson,Oceane Dodin,6-4 7-6(1),0.58,10.8%,9.2%,67.7%,70.5%,42.9%,0.0% (0/2),43.1%,22.4%,43.1%,15.6%,30.8%,33.3% (1/3),1:17
+18-Mar-2024,Miami,3,Hard,Q1,84,143,1,8,WC,Oceane Dodin,Heather Watson,6-4 1-6 6-3,1.00,11.1%,12.5%,52.8%,68.4%,44.1%,44.4% (4/9),49.7%,43.0%,13.9%,32.7%,63.0%,62.5% (5/8),1:43
+11-Mar-2024,Charleston 125,3,Hard,QF,85,74,0,,7,Diana Shnaider,Oceane Dodin,6-3 6-2,0.59,2.1%,12.8%,42.6%,65.0%,48.1%,57.1% (4/7),40.0%,26.4%,20.8%,21.4%,45.5%,0.0% (0/2),0:59
+11-Mar-2024,Charleston 125,3,Hard,R16,85,59,1,,3,Oceane Dodin,Martina Trevisan,7-5 4-6 7-6(9),1.09,3.3%,12.3%,54.1%,77.3%,37.5%,50.0% (5/10),51.6%,44.7%,2.3%,36.3%,57.7%,38.5% (5/13),3:01
+11-Mar-2024,Charleston 125,3,Hard,R32,85,343,1,,WC,Oceane Dodin,Madison Sieg,6-3 6-2,1.70,8.5%,12.8%,55.3%,80.8%,52.4%,80.0% (4/5),60.4%,54.2%,1.7%,59.0%,45.0%,71.4% (5/7),1:03
+6-Mar-2024,Indian Wells,3,Hard,R64,85,12,0,,11,Daria Kasatkina,Oceane Dodin,6-3 7-6(5),0.84,2.8%,11.1%,48.6%,74.3%,37.8%,25.0% (1/4),46.5%,37.1%,4.3%,29.4%,57.9%,25.0% (1/4),1:26
+6-Mar-2024,Indian Wells,3,Hard,R128,85,63,1,,,Oceane Dodin,Elina Avanesyan,1-6 6-3 7-6(4),0.93,2.0%,9.1%,58.6%,69.0%,39.0%,37.5% (3/8),48.7%,40.4%,2.1%,35.7%,54.2%,50.0% (4/8),1:59
+12-Feb-2024,W75 Altenkirchen,3,Carpet,SF,82,246,0,1,,Julia Avdeeva,Oceane Dodin,1-6 6-3 6-4,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,QF,82,318,1,1,SE,Oceane Dodin,Magali Kempen,0-6 6-3 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R16,82,421,1,1,Q,Oceane Dodin,Kathleen Kanev,6-4 6-1,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R32,82,922,1,1,WC,Oceane Dodin,Julia Stusek,6-3 7-6(5),,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,SF,75,213,0,1,,Yuriko Miyazaki,Oceane Dodin,3-6 7-5 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,QF,75,167,1,1,8,Oceane Dodin,Elsa Jacquemot,6-3 6-2,,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,R16,75,251,1,1,,Oceane Dodin,Julia Avdeeva,4-6 6-0 6-4,,,,,,,,,,,,,,
+29-Jan-2024,W75 Andrezieux-Boutheon,3,Hard,R32,75,313,1,1,,Oceane Dodin,Lois Boisson,6-4 6-4,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,R16,95,15,0,,12,Qinwen Zheng,Oceane Dodin,6-0 6-3,0.63,2.7%,8.1%,59.5%,50.0%,33.3%,28.6% (2/7),39.1%,36.0%,10.0%,13.6%,53.6%,50.0% (1/2),0:59
+15-Jan-2024,Australian Open,5,Hard,R32,95,51,1,,,Oceane Dodin,Clara Burel,6-2 6-4,1.37,7.3%,1.8%,50.9%,67.9%,55.6%,0.0% (0/2),56.9%,52.5%,13.1%,46.9%,58.6%,45.5% (5/11),1:14
+15-Jan-2024,Australian Open,5,Hard,R64,95,59,1,,,Oceane Dodin,Martina Trevisan,6-4 6-4,1.24,8.1%,11.3%,46.8%,82.8%,45.5%,71.4% (5/7),54.4%,46.0%,0.0%,38.3%,68.8%,44.4% (4/9),1:35
+15-Jan-2024,Australian Open,5,Hard,R128,95,32,1,,29,Oceane Dodin,Lin Zhu,6-4 6-3,1.22,6.0%,11.9%,55.2%,86.5%,40.0%,100.0% (8/8),53.7%,42.0%,5.8%,43.2%,40.6%,37.5% (3/8),1:30
+1-Jan-2024,Canberra 125,3,Hard,QF,94,123,0,3,,Nuria Parrizas Diaz,Oceane Dodin,6-2 3-1 RET,0.33,4.2%,8.3%,54.2%,65.4%,27.3%,72.7% (8/11),36.4%,17.2%,10.3%,5.0%,44.4%,- (0/0),0:47
+1-Jan-2024,Canberra 125,3,Hard,R16,94,111,1,3,,Oceane Dodin,Erika Andreeva,7-6(5) 6-7(6) 6-4,0.95,6.7%,8.2%,55.2%,73.0%,40.0%,77.8% (14/18),49.2%,39.8%,14.1%,33.0%,55.0%,45.5% (5/11),3:09
+1-Jan-2024,Canberra 125,3,Hard,R32,94,136,1,3,Q,Oceane Dodin,Daria Snigur,7-6(2) 6-3,1.20,20.8%,1.4%,63.9%,84.8%,53.8%,100.0% (1/1),55.0%,31.6%,10.5%,30.6%,33.3%,100.0% (1/1),1:20
+4-Dec-2023,Angers 125,3,Hard,R32,97,349,0,5,WC,Audrey Albie,Oceane Dodin,7-6(4) 6-3,0.85,5.4%,6.8%,62.2%,63.0%,50.0%,60.0% (3/5),46.2%,35.7%,11.9%,29.8%,43.2%,20.0% (1/5),1:30
+27-Nov-2023,Andorra 125,3,Hard,R32,97,392,0,3,WC,Alina Charaeva,Oceane Dodin,3-6 6-2 6-2,0.78,6.4%,7.7%,59.0%,69.6%,37.5%,28.6% (2/7),45.4%,33.8%,6.8%,24.5%,57.1%,33.3% (2/6),1:44
+20-Nov-2023,W100 Valencia,3,Clay,R16,93,258,0,4,,Cristina Andreea Mitu,Oceane Dodin,7-6(12) 6-2,,,,,,,,,,,,,,
+20-Nov-2023,W100 Valencia,3,Clay,R32,93,373,1,4,Q,Oceane Dodin,Daniela Vismane,5-7 6-2 6-2,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,F,101,204,1,3,9,Oceane Dodin,Alexandra Eala,6-1 7-5,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,SF,101,371,1,3,,Oceane Dodin,Hanne Vandewinkel,6-1 6-3,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,QF,101,297,1,3,,Oceane Dodin,Sofia Costoulas,6-2 7-5,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R16,101,247,1,3,,Oceane Dodin,Mona Barthel,6-2 6-4,,,,,,,,,,,,,,
+13-Nov-2023,W40 Petange,3,Hard,R32,101,1178,1,3,JE,Oceane Dodin,Nikola Daubnerova,6-2 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,F,110,179,1,1,,Oceane Dodin,Gabriela Andrea Knutson,6-7(2) 6-3 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,SF,110,176,1,1,8,Oceane Dodin,Elsa Jacquemot,6-7(4) 7-6(4) 6-1,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,QF,110,279,1,1,,Oceane Dodin,Harmony Tan,6-4 6-4,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,R16,110,535,1,1,Q,Oceane Dodin,Nahia Berecoechea,6-3 6-2,,,,,,,,,,,,,,
+30-Oct-2023,W60 Nantes,3,Hard,R32,110,914,1,1,Q,Oceane Dodin,Veronika Podrez,7-6(5) 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,QF,110,159,0,2,6,Jessika Ponchet,Oceane Dodin,7-6(6) 7-6(4),,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R16,110,295,1,2,,Oceane Dodin,Audrey Albie,6-1 4-6 6-1,,,,,,,,,,,,,,
+23-Oct-2023,W80 Poitiers,3,Hard,R32,110,635,1,2,WC,Oceane Dodin,Jenny Lim,6-0 6-2,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,SF,115,432,0,2,WC,Amarni Banks,Oceane Dodin,7-6(8) 6-4,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,QF,115,1101,1,2,Q,Oceane Dodin,Hannah Klugman,7-5 3-6 6-2,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,R16,115,619,1,2,SR,Oceane Dodin,Marina Melnikova,4-6 7-5 6-2,,,,,,,,,,,,,,
+16-Oct-2023,W100 Shrewsbury,3,Hard,R32,115,539,1,2,Q,Oceane Dodin,Katarina Stresnakova,6-0 6-3,,,,,,,,,,,,,,
+9-Oct-2023,Rouen 125,3,Hard,R16,114,166,0,,Q,Erika Andreeva,Oceane Dodin,6-3 6-1,0.58,6.2%,7.7%,49.2%,65.6%,36.4%,50.0% (4/8),40.5%,28.6%,19.6%,18.4%,50.0%,0.0% (0/6),1:23
+9-Oct-2023,Rouen 125,3,Hard,R32,114,104,1,,8,Oceane Dodin,Anna Bondar,6-3 6-7(5) 6-4,1.60,16.7%,2.4%,58.3%,83.7%,60.0%,0.0% (0/1),53.8%,41.8%,15.6%,30.2%,60.0%,23.5% (4/17),2:21
+11-Sep-2023,W80 Le Neubourg,3,Hard,SF,113,152,0,2,4,Celine Naef,Oceane Dodin,W/O,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,QF,113,193,1,2,6,Oceane Dodin,Timea Babos,7-6(5) 6-4,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R16,113,,1,2,,Oceane Dodin,Johanne Christine Svendsen,6-1 4-6 6-2,,,,,,,,,,,,,,
+11-Sep-2023,W80 Le Neubourg,3,Hard,R32,113,689,1,2,LL,Oceane Dodin,Nadiya Kolb,6-3 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W60 Montreux,3,Clay,SF,117,684,0,2,Q,Anna Gabric,Oceane Dodin,6-2 6-0,,,,,,,,,,,,,,
+4-Sep-2023,W60 Montreux,3,Clay,QF,117,592,1,2,Q,Oceane Dodin,Fiona Ganz,7-6(7) 6-3,,,,,,,,,,,,,,
+4-Sep-2023,W60 Montreux,3,Clay,R16,117,411,1,2,,Oceane Dodin,Ziva Falkner,7-5 6-4,,,,,,,,,,,,,,
+4-Sep-2023,W60 Montreux,3,Clay,R32,117,387,1,2,,Oceane Dodin,Julia Middendorf,6-3 7-5,,,,,,,,,,,,,,
+28-Aug-2023,US Open,5,Hard,Q3,117,121,0,18,10,Laura Siegemund,Oceane Dodin,1-6 6-0 6-3,0.74,1.6%,7.9%,54.0%,61.8%,31.0%,50.0% (6/12),43.2%,38.7%,9.7%,35.7%,45.0%,44.4% (4/9),1:41
+28-Aug-2023,US Open,5,Hard,Q2,117,819,1,18,,Oceane Dodin,Marina Melnikova,1-6 6-2 6-3,1.13,3.8%,17.9%,44.9%,71.4%,37.2%,53.8% (7/13),53.1%,53.7%,0.0%,51.2%,58.3%,58.3% (7/12),1:38
+28-Aug-2023,US Open,5,Hard,Q1,117,211,1,18,,Oceane Dodin,Karman Thandi,3-6 7-5 6-3,1.24,9.0%,7.7%,53.8%,83.3%,47.2%,25.0% (1/4),52.9%,41.3%,14.1%,31.3%,52.3%,30.8% (4/13),1:55
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,117,406,0,2,,Lucia Cortez Llorca,Oceane Dodin,6-2 6-4,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,117,980,1,2,WC,Oceane Dodin,Mercedes Aristegui,6-1 5-7 6-2,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,QF,113,216,0,2,7,Noma Noha Akugue,Oceane Dodin,7-6(1) 6-4,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,R16,113,270,1,2,,Oceane Dodin,Suzan Lamens,6-4 6-4,,,,,,,,,,,,,,
+10-Jul-2023,W60 Amstelveen,3,Clay,R32,113,545,1,2,Q,Oceane Dodin,Stephanie Judith Visscher,7-6(4) 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W60 Montpellier,3,Clay,R16,113,799,0,2,Q,Jenny Lim,Oceane Dodin,1-6 6-3 6-3,,,,,,,,,,,,,,
+3-Jul-2023,W60 Montpellier,3,Clay,R32,113,342,1,2,,Oceane Dodin,Anastasia Zolotareva,6-4 6-1,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q2,113,188,0,10,,Despina Papamichail,Oceane Dodin,7-6(8) 7-6(3),1.01,2.2%,5.4%,56.5%,75.0%,45.0%,50.0% (3/6),50.0%,38.5%,5.2%,34.3%,48.3%,33.3% (3/9),2:06
+3-Jul-2023,Wimbledon,5,Grass,Q1,113,201,1,10,,Oceane Dodin,Mona Barthel,6-4 6-4,1.07,13.2%,3.9%,53.9%,73.2%,51.4%,87.5% (7/8),52.6%,39.3%,9.8%,31.6%,52.2%,60.0% (3/5),1:13
+5-Jun-2023,W100 Surbiton,3,Grass,R16,122,162,0,7,,Katie Swan,Oceane Dodin,5-3 RET,,,,,,,,,,,,,,
+5-Jun-2023,W100 Surbiton,3,Grass,R32,122,448,1,7,Q,Oceane Dodin,Maia Lumsden,7-5 3-6 6-3,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,R64,122,7,0,,7,Ons Jabeur,Oceane Dodin,6-2 6-3,0.71,1.7%,8.6%,56.9%,54.5%,36.0%,58.3% (7/12),42.2%,37.9%,10.3%,22.2%,51.6%,66.7% (2/3),1:11
+29-May-2023,Roland Garros,5,Clay,R128,122,179,1,,WC,Oceane Dodin,Selena Janicijevic,0-6 6-2 6-1,1.20,3.1%,9.2%,61.5%,70.0%,40.0%,50.0% (3/6),53.6%,50.0%,5.7%,40.9%,59.1%,33.3% (5/15),1:46
+22-May-2023,Strasbourg,3,Clay,R32,121,188,0,,,Selena Janicijevic,Oceane Dodin,2-6 6-1 6-4,0.88,7.0%,9.3%,55.8%,66.7%,36.8%,61.5% (8/13),47.8%,40.8%,8.5%,27.5%,58.1%,44.4% (4/9),1:56
+15-May-2023,Paris 125,3,Clay,R16,99,118,0,,,Nao Hibino,Oceane Dodin,6-1 6-4,0.70,6.3%,12.5%,54.2%,53.8%,40.9%,42.9% (3/7),41.0%,36.2%,11.6%,23.4%,63.6%,16.7% (1/6),1:06
+15-May-2023,Paris 125,3,Clay,R32,99,201,1,,Q,Oceane Dodin,Chloe Paquet,2-6 6-4 6-3,1.02,5.7%,16.1%,46.0%,77.5%,29.8%,53.8% (7/13),50.6%,49.4%,7.1%,33.3%,77.4%,42.9% (6/14),1:51
+8-May-2023,Rome,3,Clay,Q2,99,100,0,9,15,Camila Osorio,Oceane Dodin,6-3 6-4,0.83,2.6%,14.1%,60.3%,57.4%,32.3%,72.2% (13/18),45.6%,43.8%,6.3%,40.4%,48.5%,33.3% (3/9),1:27
+8-May-2023,Rome,3,Clay,Q1,99,416,1,9,WC,Oceane Dodin,Anna Turati,6-2 6-2,1.71,2.0%,7.8%,60.8%,74.2%,55.0%,66.7% (2/3),61.7%,57.1%,0.0%,40.6%,79.2%,50.0% (5/10),1:17
+24-Apr-2023,Madrid,3,Clay,Q1,99,147,0,11,,Elizabeth Mandlik,Oceane Dodin,6-1 6-1,0.56,0.0%,6.8%,50.0%,40.9%,31.8%,33.3% (3/9),36.0%,35.6%,6.7%,33.3%,41.7%,50.0% (1/2),0:52
+17-Apr-2023,W100 Oeiras,3,Clay,R32,99,72,0,,5,Danka Kovinic,Oceane Dodin,7-5 6-2,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R16,99,174,0,3,,Leyre Romero Gormaz,Oceane Dodin,7-5 6-0,,,,,,,,,,,,,,
+10-Apr-2023,W80 Zaragoza,3,Clay,R32,99,362,1,3,Q,Oceane Dodin,Jesika Maleckova,6-7(6) 6-2 7-6(4),,,,,,,,,,,,,,
+27-Mar-2023,W60 Croissy-Beaubourg,3,Hard,R32,93,611,0,3,Q,Federica Di Sarra,Oceane Dodin,1-6 6-4 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,F,102,345,0,3,Q,Lucie Havlickova,Oceane Dodin,3-6 7-6(4) 7-5,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,SF,102,183,1,3,8,Oceane Dodin,Greet Minnen,6-2 6-3,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,QF,102,213,1,3,,Oceane Dodin,Barbora Palicova,7-6(1) 6-0,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R16,102,204,1,3,,Oceane Dodin,Mona Barthel,5-7 6-3 6-2,,,,,,,,,,,,,,
+6-Mar-2023,W60 Trnava,3,Hard,R32,102,238,1,3,,Oceane Dodin,Maja Chwalinska,6-2 6-1,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,F,101,266,0,3,,Jaqueline Cristian,Oceane Dodin,7-6(7) 7-6(4),,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,SF,101,192,1,3,7,Oceane Dodin,Greet Minnen,7-5 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,QF,101,213,1,3,,Oceane Dodin,Yanina Wickmayer,4-6 6-1 7-6(3),,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R16,101,249,1,3,JE,Oceane Dodin,Celine Naef,6-1 4-6 6-3,,,,,,,,,,,,,,
+27-Feb-2023,W60 Trnava,3,Hard,R32,101,563,1,3,Q,Oceane Dodin,Radka Zelnickova,7-6(4) 6-1,,,,,,,,,,,,,,
+20-Feb-2023,Dubai,3,Hard,Q2,101,64,0,16,5,Jasmine Paolini,Oceane Dodin,6-1 7-5,0.68,6.9%,10.3%,55.2%,59.4%,34.6%,50.0% (5/10),41.5%,35.0%,5.0%,26.5%,46.2%,66.7% (2/3),1:14
+20-Feb-2023,Dubai,3,Hard,Q1,101,118,1,16,,Oceane Dodin,Reka Luca Jani,3-6 6-2 6-2,1.30,4.3%,8.7%,46.4%,68.8%,51.4%,33.3% (2/6),56.0%,52.8%,0.0%,43.4%,78.9%,75.0% (6/8),1:34
+6-Feb-2023,W60 Grenoble,3,Hard,F,112,132,1,2,3,Oceane Dodin,Simona Waltert,6-2 7-5,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,SF,112,170,1,2,7,Oceane Dodin,Jessika Ponchet,6-4 4-6 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,QF,112,229,1,2,,Oceane Dodin,Audrey Albie,6-2 6-1,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,R16,112,485,1,2,Q,Oceane Dodin,Giulia Gatto Monticone,6-0 6-2,,,,,,,,,,,,,,
+6-Feb-2023,W60 Grenoble,3,Hard,R32,112,445,1,2,Q,Oceane Dodin,Kathleen Kanev,6-2 6-4,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,F,,263,1,1,,Oceane Dodin,Audrey Albie,3-6 6-2 7-5,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,SF,,,1,1,6,Oceane Dodin,Daria Snigur,6-3 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,QF,,,1,1,8,Oceane Dodin,Jessika Ponchet,4-6 6-1 7-5,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R16,,443,1,1,SR,Oceane Dodin,Sofya Lansere,7-6(4) 6-2,,,,,,,,,,,,,,
+23-Jan-2023,W60 Andrezieux-Boutheon,3,Hard,R32,,,1,1,,Oceane Dodin,Lucie Nguyen Tan,6-4 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W40 Monastir,3,Hard,SF,123,302,0,1,8,Sakura Hosogi,Oceane Dodin,5-7 6-2 7-5,,,,,,,,,,,,,,
+9-Jan-2023,W40 Monastir,3,Hard,QF,123,458,1,1,,Oceane Dodin,Alice Tubello,6-1 5-7 6-1,,,,,,,,,,,,,,
+9-Jan-2023,W40 Monastir,3,Hard,R16,123,782,1,1,Q,Oceane Dodin,Himari Sato,6-3 6-2,,,,,,,,,,,,,,
+9-Jan-2023,W40 Monastir,3,Hard,R32,123,935,1,1,WC,Oceane Dodin,Chiraz Bechri,6-4 6-0,,,,,,,,,,,,,,
+2-Jan-2023,W25 Monastir,3,Hard,F,121,257,1,1,5,Oceane Dodin,Kristina Dmitruk,6-1 6-1,,,,,,,,,,,,,,
+2-Jan-2023,W25 Monastir,3,Hard,SF,121,264,1,1,6,Oceane Dodin,Sada Nahimana,6-0 7-5,,,,,,,,,,,,,,
+2-Jan-2023,W25 Monastir,3,Hard,QF,121,456,1,1,,Oceane Dodin,Alice Tubello,6-2 6-1,,,,,,,,,,,,,,
+2-Jan-2023,W25 Monastir,3,Hard,R16,121,512,1,1,,Oceane Dodin,Yasmine Mansouri,2-6 6-3 6-0,,,,,,,,,,,,,,
+2-Jan-2023,W25 Monastir,3,Hard,R32,121,461,1,1,,Oceane Dodin,Alice Rame,6-1 6-0,,,,,,,,,,,,,,
+28-Nov-2022,Andorra 125,3,Hard,R16,118,134,0,,,Alycia Parks,Oceane Dodin,6-3 7-6(6),0.77,9.7%,9.7%,59.7%,70.3%,36.0%,20.0% (1/5),44.5%,33.3%,21.2%,17.9%,55.6%,50.0% (3/6),1:24
+28-Nov-2022,Andorra 125,3,Hard,R32,118,183,1,,,Oceane Dodin,Anastasia Zakharova,6-3 6-7(6) 6-2,1.33,6.4%,5.3%,53.2%,80.0%,52.3%,66.7% (2/3),55.2%,44.0%,4.0%,41.1%,47.7%,62.5% (5/8),2:26
+21-Nov-2022,W80+H Valencia,3,Clay,QF,109,150,0,3,7,Alycia Parks,Oceane Dodin,6-0 3-0 RET,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R16,109,140,1,3,,Oceane Dodin,Aliona Bolsova,6-3 6-4,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,109,354,1,3,LL,Oceane Dodin,Ylona Georgiana Ghioroaie,6-3 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R16,109,484,0,3,Q,Francesca Curmi,Oceane Dodin,6-3 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,109,325,1,3,WC,Oceane Dodin,Guiomar Maristany Zuleta De Reales,6-3 5-7 6-3,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R16,101,295,0,2,,Yuliya Hatouka,Oceane Dodin,7-6(0) 6-4,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R32,101,364,1,2,Q,Oceane Dodin,Maria Timofeeva,6-4 6-1,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,QF,95,105,0,7,,Ysaline Bonaventure,Oceane Dodin,6-1 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R16,95,135,1,7,,Oceane Dodin,Katie Boulter,6-7(5) 6-1 6-4,,,,,,,,,,,,,,
 24-Oct-2022,W80 Poitiers,3,Hard,R32,95,758,1,7,WC,Oceane Dodin,Lois Boisson,6-3 6-3,,,,,,,,,,,,,,
@@ -26,7 +155,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 4-Jul-2022,Contrexeville 125,3,Clay,R32,85,162,0,4,Q,Erika Andreeva,Oceane Dodin,6-3 7-6(5),0.80,2.7%,13.3%,52.0%,71.8%,30.6%,50.0% (4/8),45.3%,38.4%,9.6%,25.0%,58.6%,42.9% (3/7),1:42
 27-Jun-2022,Wimbledon,5,Grass,R128,85,17,0,,12,Jelena Ostapenko,Oceane Dodin,6-4 6-4,0.81,1.6%,4.7%,54.7%,62.9%,37.9%,37.5% (3/8),45.8%,39.3%,16.1%,30.0%,50.0%,60.0% (3/5),1:11
 6-Jun-2022,Nottingham,3,Grass,R32,85,60,0,,,Tereza Martincova,Oceane Dodin,7-6(1) 7-5,0.68,7.6%,6.1%,68.2%,75.6%,61.9%,66.7% (2/3),45.5%,19.7%,21.2%,15.7%,33.3%,- (0/0),1:22
-23-May-2022,Roland Garros,5,Clay,R128,84,65,0,,,Andrea Petkovic,Oceane Dodin,6-4 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,R128,84,65,0,,,Andrea Petkovic,Oceane Dodin,6-4 6-2,0.74,4.7%,12.5%,57.8%,62.2%,29.6%,44.4% (4/9),43.2%,38.2%,11.8%,30.2%,52.0%,22.2% (2/9),
 16-May-2022,Strasbourg,3,Clay,SF,94,22,0,,2,Angelique Kerber,Oceane Dodin,7-6(2) 1-0 RET,0.75,4.9%,4.9%,56.1%,56.5%,44.4%,25.0% (1/4),43.5%,36.4%,4.5%,28.6%,50.0%,50.0% (2/4),0:58
 16-May-2022,Strasbourg,3,Clay,QF,94,60,1,,9,Oceane Dodin,Viktorija Golubic,6-3 6-0,2.30,5.4%,5.4%,64.9%,75.0%,76.9%,- (0/0),64.4%,56.0%,0.0%,50.0%,66.7%,62.5% (5/8),1:01
 16-May-2022,Strasbourg,3,Clay,R16,94,348,1,,Q,Oceane Dodin,Ekaterina Makarova,6-2 6-1,1.45,7.7%,7.7%,60.0%,76.9%,38.5%,100.0% (4/4),58.7%,55.7%,0.0%,52.9%,59.3%,71.4% (5/7),1:28
@@ -141,14 +270,14 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 19-Oct-2020,W25 Reims,3,Hard,QF,124,560,1,2,JE,Oceane Dodin,Robin Montgomery,6-3 6-7(3) 6-2,,,,,,,,,,,,,,
 19-Oct-2020,W25 Reims,3,Hard,R16,124,243,1,2,Q,Oceane Dodin,Jessika Ponchet,6-3 6-1,,,,,,,,,,,,,,
 19-Oct-2020,W25 Reims,3,Hard,R32,124,326,1,2,Q,Oceane Dodin,Qinwen Zheng,6-3 2-6 6-4,,,,,,,,,,,,,,
-28-Sep-2020,Roland Garros,5,Clay,R128,118,11,0,,7,Petra Kvitova,Oceane Dodin,6-3 7-5 (ch),0.53,4.4%,7.4%,64.7%,72.7%,33.3%,62.5% (5/8),42.3%,21.8%,14.5%,13.5%,38.9%,100.0% (1/1),1:17
+28-Sep-2020,Roland Garros,5,Clay,R128,118,11,0,,7,Petra Kvitova,Oceane Dodin,6-3 7-5,0.53,4.4%,7.4%,64.7%,72.7%,33.3%,62.5% (5/8),42.3%,21.8%,14.5%,13.5%,38.9%,100.0% (1/1),1:17
 14-Sep-2020,W80 Cagnes-sur-Mer,3,Clay,QF,117,94,0,6,3,Varvara Gracheva,Oceane Dodin,6-3 1-0 RET,,,,,,,,,,,,,,
 14-Sep-2020,W80 Cagnes-sur-Mer,3,Clay,R16,117,134,1,6,,Oceane Dodin,Francesca Di Lorenzo,6-2 6-3,,,,,,,,,,,,,,
 14-Sep-2020,W80 Cagnes-sur-Mer,3,Clay,R32,117,902,1,6,Q,Oceane Dodin,Selena Janicijevic,6-3 4-6 6-1,,,,,,,,,,,,,,
 7-Sep-2020,W60+H Saint-Malo,3,Clay,QF,115,165,0,1,8,Nadia Podoroska,Oceane Dodin,7-6(1) 6-3,,,,,,,,,,,,,,
 7-Sep-2020,W60+H Saint-Malo,3,Clay,R16,115,197,1,1,,Oceane Dodin,Natalija Stevanovic,6-0 2-6 6-0,,,,,,,,,,,,,,
 7-Sep-2020,W60+H Saint-Malo,3,Clay,R32,115,1013,1,1,Q,Oceane Dodin,Aubane Droguet,6-3 7-6(6),,,,,,,,,,,,,,
-31-Aug-2020,US Open,5,Hard,R128,115,11,0,,5,Aryna Sabalenka,Oceane Dodin,7-6(1) 6-4 (ch),0.57,4.9%,12.3%,51.9%,73.8%,43.6%,71.4% (5/7),44.0%,23.3%,18.3%,5.7%,48.0%,50.0% (1/2),1:30
+31-Aug-2020,US Open,5,Hard,R128,115,11,0,,5,Aryna Sabalenka,Oceane Dodin,7-6(1) 6-4,0.57,4.9%,12.3%,51.9%,73.8%,43.6%,71.4% (5/7),44.0%,23.3%,18.3%,5.7%,48.0%,50.0% (1/2),1:30
 24-Aug-2020,Cincinnati,3,Hard,R64,118,249,0,Q,Q,Catherine Cartan Bellis,Oceane Dodin,6-2 3-6 7-6(1),0.86,11.1%,8.1%,56.6%,66.1%,46.5%,60.0% (6/10),47.8%,36.5%,8.2%,34.0%,40.6%,100.0% (3/3),2:00
 24-Aug-2020,Cincinnati,3,Hard,Q2,118,94,1,,21,Oceane Dodin,Paula Badosa,6-4 6-1,1.19,4.8%,15.9%,50.8%,75.0%,38.7%,83.3% (10/12),54.4%,51.0%,13.7%,41.9%,65.0%,50.0% (5/10),1:05
 24-Aug-2020,Cincinnati,3,Hard,Q1,118,78,1,,11,Oceane Dodin,Misaki Doi,6-1 6-3,1.79,12.2%,8.2%,49.0%,87.5%,60.0%,100.0% (1/1),61.8%,47.5%,5.0%,50.0%,43.8%,80.0% (4/5),1:01
@@ -168,7 +297,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Feb-2020,W25 Macon,3,Hard,R32,129,405,1,1,WC,Oceane Dodin,Julie Gervais,6-1 6-4,,,,,,,,,,,,,,
 10-Feb-2020,St. Petersburg,3,Hard,QF,159,25,0,Q,8,Elena Rybakina,Oceane Dodin,6-7(5) 7-5 6-2,0.85,6.1%,5.3%,50.0%,71.9%,45.6%,64.3% (9/14),47.1%,34.9%,13.8%,25.0%,45.3%,25.0% (2/8),2:27
 10-Feb-2020,St. Petersburg,3,Hard,R16,159,14,1,Q,4,Oceane Dodin,Johanna Konta,6-3 6-4,1.24,10.4%,10.4%,52.2%,88.6%,46.9%,100.0% (2/2),55.4%,38.9%,1.9%,36.7%,41.7%,50.0% (2/4),1:27
-10-Feb-2020,St. Petersburg,3,Hard,R32,159,65,1,Q,,Oceane Dodin,Viktoria Kuzmova,6-2 6-2,1.49,14.0%,6.0%,56.0%,75.0%,50.0%,66.7% (2/3),58.7%,53.7%,11.1%,39.3%,69.2%,71.4% (5/7),1:08
+10-Feb-2020,St. Petersburg,3,Hard,R32,159,65,1,Q,,Oceane Dodin,Viktoria Hruncakova,6-2 6-2,1.49,14.0%,6.0%,56.0%,75.0%,50.0%,66.7% (2/3),58.7%,53.7%,11.1%,39.3%,69.2%,71.4% (5/7),1:08
 10-Feb-2020,St. Petersburg,3,Hard,Q2,159,58,1,,1,Oceane Dodin,Fiona Ferro,7-6(7) 7-6(5),1.06,9.2%,9.2%,54.0%,72.3%,40.0%,33.3% (3/9),51.5%,45.0%,6.3%,36.8%,65.2%,85.7% (6/7),1:54
 10-Feb-2020,St. Petersburg,3,Hard,Q1,159,102,1,,7,Oceane Dodin,Varvara Gracheva,6-4 6-2,1.98,6.5%,2.2%,78.3%,86.1%,50.0%,- (0/0),58.7%,43.1%,5.2%,23.3%,64.3%,50.0% (3/6),1:03
 27-Jan-2020,W60 Andrezieux-Boutheon,3,Hard,R16,158,135,0,,8,Anna Lena Friedsam,Oceane Dodin,6-4 6-4,,,,,,,,,,,,,,
@@ -237,7 +366,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Jun-2019,W60 Brescia,3,Clay,R32,447,160,1,,5,Oceane Dodin,Xinyun Han,6-4 6-2,,,,,,,,,,,,,,
 3-Jun-2019,W60 Brescia,3,Clay,Q2,447,405,1,,9,Oceane Dodin,Nina Potocnik,6-0 2-6 [11-9],,,,,,,,,,,,,,
 3-Jun-2019,W60 Brescia,3,Clay,Q1,447,282,1,,,Oceane Dodin,Anastasia Grymalska,7-6(3) 7-5,,,,,,,,,,,,,,
-27-May-2019,Roland Garros,5,Clay,Q1,447,150,0,,,Allie Kiick,Oceane Dodin,6-0 6-4 (ch),0.54,4.1%,14.3%,51.0%,48.0%,41.7%,60.0% (6/10),37.4%,30.0%,8.0%,24.2%,41.2%,0.0% (0/3),1:00
+27-May-2019,Roland Garros,5,Clay,Q1,447,150,0,,,Allie Kiick,Oceane Dodin,6-0 6-4,0.54,4.1%,14.3%,51.0%,48.0%,41.7%,60.0% (6/10),37.4%,30.0%,8.0%,24.2%,41.2%,0.0% (0/3),1:00
 29-Apr-2019,W60 Les Franqueses del Valles,3,Hard,R32,409,221,0,SR,,Mariam Bolkvadze,Oceane Dodin,6-3 6-2,,,,,,,,,,,,,,
 22-Apr-2019,Stuttgart,3,Clay,Q1,393,200,0,,,Jessika Ponchet,Oceane Dodin,6-2 7-5,0.77,5.0%,13.3%,46.7%,64.3%,40.6%,28.6% (2/7),44.1%,37.3%,11.9%,20.0%,51.4%,50.0% (2/4),1:20
 8-Apr-2019,W25 Sunderland,3,Hard,QF,402,479,0,,WC,Tara Moore,Oceane Dodin,6-4 6-4,,,,,,,,,,,,,,
@@ -258,7 +387,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Apr-2018,Stuttgart,3,Clay,Q2,104,73,0,,6,Marketa Vondrousova,Oceane Dodin,6-3 1-6 6-1,1.04,3.4%,8.6%,55.2%,68.8%,53.8%,33.3% (2/6),49.3%,39.5%,2.6%,30.4%,53.3%,75.0% (3/4),1:16
 23-Apr-2018,Stuttgart,3,Clay,Q1,104,264,1,,,Oceane Dodin,Fiona Ferro,7-5 6-1,1.30,8.9%,5.4%,58.9%,66.7%,43.5%,62.5% (5/8),56.3%,55.6%,1.6%,51.6%,59.4%,63.6% (7/11),1:12
 9-Apr-2018,Lugano,3,Clay,R32,95,51,0,,9,Alison Van Uytvanck,Oceane Dodin,6-4 6-2,0.72,0.0%,5.4%,51.8%,51.7%,44.4%,55.6% (5/9),42.3%,37.3%,14.9%,31.6%,44.8%,16.7% (1/6),41:15
-19-Mar-2018,Miami,3,Hard,R64,98,1,0,LL,1,Simona Halep,Oceane Dodin,3-6 6-3 7-5 (ch),0.81,4.5%,14.3%,42.9%,66.7%,37.5%,56.3% (9/16),46.2%,40.5%,5.4%,36.0%,50.0%,85.7% (6/7),2:06
+19-Mar-2018,Miami,3,Hard,R64,98,1,0,LL,1,Simona Halep,Oceane Dodin,3-6 6-3 7-5,0.81,4.5%,14.3%,42.9%,66.7%,37.5%,56.3% (9/16),46.2%,40.5%,5.4%,36.0%,50.0%,85.7% (6/7),2:06
 19-Mar-2018,Miami,3,Hard,R128,98,78,1,LL,,Oceane Dodin,Veronica Cepede Royg,6-4 6-7(3) 6-3,1.22,7.3%,7.3%,50.0%,81.3%,47.9%,57.1% (4/7),53.5%,43.1%,6.9%,33.3%,52.9%,38.5% (5/13),2:13
 19-Mar-2018,Miami,3,Hard,Q2,98,104,0,7,14,Alison Riske Amritraj,Oceane Dodin,6-1 0-0 RET,0.76,2.5%,17.5%,57.5%,39.1%,35.3%,50.0% (4/8),40.7%,47.4%,0.0%,54.5%,37.5%,50.0% (1/2),0:37
 19-Mar-2018,Miami,3,Hard,Q1,98,134,1,7,,Oceane Dodin,Naomi Broady,4-6 7-5 6-3,1.10,9.8%,10.8%,46.1%,70.2%,43.6%,53.8% (7/13),52.2%,48.6%,16.2%,19.1%,72.4%,57.1% (8/14),2:25
@@ -268,29 +397,29 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jan-2018,Australian Open,5,Hard,R128,85,112,0,,,Eugenie Bouchard,Oceane Dodin,6-3 7-6(5),0.81,3.6%,10.7%,48.8%,70.7%,44.2%,75.0% (6/8),46.1%,34.6%,14.8%,25.5%,50.0%,16.7% (1/6),1:40
 11-Sep-2017,Quebec City,3,Hard,R16,48,161,0,2,Q,Caroline Dolehide,Oceane Dodin,W/O,,,,,,,,,,,,,,
 11-Sep-2017,Quebec City,3,Hard,R32,48,301,1,2,Q,Oceane Dodin,Gabriela Dabrowski,5-7 7-5 6-4,1.00,3.8%,7.7%,57.7%,68.3%,38.6%,53.8% (7/13),50.5%,44.4%,15.6%,37.5%,55.9%,63.6% (7/11),1:54
-28-Aug-2017,US Open,5,Hard,R64,48,9,0,,9,Venus Williams,Oceane Dodin,7-5 6-4 (ch),0.57,5.2%,7.8%,44.2%,73.5%,37.2%,66.7% (8/12),42.1%,26.8%,10.7%,20.0%,38.1%,40.0% (2/5),1:27
+28-Aug-2017,US Open,5,Hard,R64,48,9,0,,9,Venus Williams,Oceane Dodin,7-5 6-4,0.57,5.2%,7.8%,44.2%,73.5%,37.2%,66.7% (8/12),42.1%,26.8%,10.7%,20.0%,38.1%,40.0% (2/5),1:27
 28-Aug-2017,US Open,5,Hard,R128,48,98,1,,,Oceane Dodin,Pauline Parmentier,3-6 6-0 7-6(6),1.01,0.9%,9.9%,50.5%,69.6%,43.6%,69.2% (9/13),50.7%,43.5%,5.4%,22.0%,60.8%,55.6% (5/9),2:10
 14-Aug-2017,Cincinnati,3,Hard,R64,49,27,0,WC,,Kiki Bertens,Oceane Dodin,6-3 6-0,0.44,0.0%,11.9%,42.9%,50.0%,25.0%,44.4% (4/9),32.1%,28.6%,26.2%,12.5%,50.0%,100.0% (1/1),0:49
 7-Aug-2017,Toronto,3,Hard,R64,47,58,0,,Q,Ashleigh Barty,Oceane Dodin,5-0 RET,0.21,7.7%,15.4%,38.5%,60.0%,12.5%,50.0% (2/4),22.2%,14.3%,14.3%,0.0%,25.0%,- (0/0),0:22
-31-Jul-2017,Washington,3,Hard,SF,55,58,0,5,7,Kate Makarova,Oceane Dodin,3-6 6-3 6-4 (ch),0.82,7.3%,7.3%,49.0%,74.5%,44.9%,66.7% (8/12),47.5%,33.3%,8.6%,26.9%,44.8%,50.0% (3/6),1:58
+31-Jul-2017,Washington,3,Hard,SF,55,58,0,5,7,Kate Makarova,Oceane Dodin,3-6 6-3 6-4,0.82,7.3%,7.3%,49.0%,74.5%,44.9%,66.7% (8/12),47.5%,33.3%,8.6%,26.9%,44.8%,50.0% (3/6),1:58
 31-Jul-2017,Washington,3,Hard,QF,55,190,1,5,,Oceane Dodin,Sabine Lisicki,5-7 6-4 7-6(4),1.01,5.7%,13.2%,50.0%,75.5%,41.5%,33.3% (3/9),50.0%,41.8%,16.4%,27.1%,58.8%,60.0% (6/10),2:20
 31-Jul-2017,Washington,3,Hard,R16,55,103,1,5,,Oceane Dodin,Sara Errani,3-6 7-5 6-1,1.08,6.1%,10.2%,53.1%,57.7%,43.5%,45.5% (5/11),52.0%,52.9%,0.0%,48.0%,65.5%,61.5% (8/13),2:10
 31-Jul-2017,Washington,3,Hard,R32,55,69,1,5,,Oceane Dodin,Jelena Jankovic,4-6 6-3 2-0 RET,1.21,2.9%,7.4%,50.0%,70.6%,50.0%,57.1% (4/7),53.7%,48.1%,10.1%,39.0%,57.9%,36.4% (4/11),1:39
-3-Jul-2017,Wimbledon,5,Grass,R128,49,34,0,,32,Lucie Safarova,Oceane Dodin,6-2 6-2 (ch),0.49,2.4%,11.9%,38.1%,43.8%,46.2%,20.0% (1/5),35.6%,26.7%,17.8%,13.3%,53.3%,- (0/0),0:51
+3-Jul-2017,Wimbledon,5,Grass,R128,49,34,0,,32,Lucie Safarova,Oceane Dodin,6-2 6-2,0.49,2.4%,11.9%,38.1%,43.8%,46.2%,20.0% (1/5),35.6%,26.7%,17.8%,13.3%,53.3%,- (0/0),0:51
 19-Jun-2017,Ilkley $100K,3,Grass,R32,47,133,0,1,SE,Zarina Diyas,Oceane Dodin,2-6 6-4 7-6(3),,,,,,,,,,,,,,
 12-Jun-2017,Nottingham,3,Grass,R32,46,77,0,,,Magda Linette,Oceane Dodin,6-4 7-6(5),0.78,5.8%,7.0%,61.6%,66.0%,54.5%,80.0% (8/10),47.7%,29.9%,9.0%,27.3%,34.8%,100.0% (1/1),1:30
 5-Jun-2017,Surbiton $100K,3,Grass,SF,56,192,0,1,SR,Magdalena Rybarikova,Oceane Dodin,6-3 6-2,,,,,,,,,,,,,,
 5-Jun-2017,Surbiton $100K,3,Grass,QF,56,123,1,1,8,Oceane Dodin,Naomi Broady,7-5 7-6(1),,,,,,,,,,,,,,
 5-Jun-2017,Surbiton $100K,3,Grass,R16,56,139,1,1,,Oceane Dodin,Kristie Ahn,6-3 6-4,,,,,,,,,,,,,,
 5-Jun-2017,Surbiton $100K,3,Grass,R32,56,325,1,1,Q,Oceane Dodin,Dayana Yastremska,7-5 6-4,,,,,,,,,,,,,,
-29-May-2017,Roland Garros,5,Clay,R64,56,9,0,,8,Svetlana Kuznetsova,Oceane Dodin,7-6(5) 5-7 6-3 (ch),0.97,2.7%,10.9%,60.0%,53.0%,40.9%,30.8% (4/13),49.3%,50.4%,5.3%,47.1%,55.8%,56.3% (9/16),2:27
+29-May-2017,Roland Garros,5,Clay,R64,56,9,0,,8,Svetlana Kuznetsova,Oceane Dodin,7-6(5) 5-7 6-3,0.97,2.7%,10.9%,60.0%,53.0%,40.9%,30.8% (4/13),49.3%,50.4%,5.3%,47.1%,55.8%,56.3% (9/16),2:27
 29-May-2017,Roland Garros,5,Clay,R128,56,93,1,,,Oceane Dodin,Camila Giorgi,6-2 6-3,1.33,13.4%,10.4%,55.2%,75.7%,40.0%,90.9% (10/11),57.3%,53.5%,4.7%,57.1%,50.0%,100.0% (5/5),1:05
 22-May-2017,Nurnberg,3,Clay,R16,57,64,0,,,Misaki Doi,Oceane Dodin,3-6 6-0 6-3,0.85,4.4%,13.2%,49.5%,62.2%,30.4%,68.2% (15/22),45.9%,45.7%,3.7%,41.3%,51.4%,50.0% (4/8),1:41
 22-May-2017,Nurnberg,3,Clay,R32,57,34,1,,3,Oceane Dodin,Shuai Zhang,6-7(11) 6-3 6-4,1.21,5.1%,7.1%,59.2%,77.6%,55.0%,71.4% (5/7),53.6%,38.3%,14.9%,27.9%,65.4%,80.0% (4/5),1:58
 15-May-2017,Rome,3,Clay,Q2,55,78,0,,,Andrea Petkovic,Oceane Dodin,3-6 7-6(6) 6-2,0.95,7.5%,8.6%,51.6%,66.7%,42.2%,33.3% (3/9),48.7%,42.9%,2.0%,38.7%,56.5%,46.2% (6/13),2:16
 15-May-2017,Rome,3,Clay,Q1,55,366,1,,WC,Oceane Dodin,Cristiana Ferrando,3-6 6-1 6-3,1.19,5.2%,9.1%,49.4%,73.7%,43.6%,62.5% (5/8),53.2%,49.5%,4.5%,45.2%,57.9%,30.0% (6/20),2:09
 8-May-2017,Madrid,3,Clay,R16,63,17,0,Q,14,Kristina Mladenovic,Oceane Dodin,6-2 6-1,0.51,1.8%,12.7%,56.4%,58.1%,33.3%,55.6% (5/9),37.9%,27.1%,22.9%,20.6%,42.9%,0.0% (0/3),0:58
-8-May-2017,Madrid,3,Clay,R32,63,5,1,Q,4,Oceane Dodin,Dominika Cibulkova,6-2 6-4 (ch),1.42,14.0%,7.0%,66.7%,68.4%,47.4%,80.0% (8/10),58.0%,54.8%,1.6%,56.4%,52.2%,62.5% (5/8),1:20
+8-May-2017,Madrid,3,Clay,R32,63,5,1,Q,4,Oceane Dodin,Dominika Cibulkova,6-2 6-4,1.42,14.0%,7.0%,66.7%,68.4%,47.4%,80.0% (8/10),58.0%,54.8%,1.6%,56.4%,52.2%,62.5% (5/8),1:20
 8-May-2017,Madrid,3,Clay,R64,63,75,1,Q,Q,Oceane Dodin,Andrea Petkovic,6-3 6-4,1.12,9.1%,7.8%,48.1%,70.3%,37.5%,72.7% (8/11),52.8%,52.4%,1.2%,49.2%,61.9%,40.0% (6/15),1:42
 8-May-2017,Madrid,3,Clay,Q2,63,152,1,5,WC,Oceane Dodin,Silvia Soler Espinosa,2-6 6-3 6-2,1.10,2.8%,12.7%,54.9%,56.4%,53.1%,28.6% (2/7),51.9%,49.4%,0.0%,47.8%,57.1%,87.5% (7/8),1:39
 8-May-2017,Madrid,3,Clay,Q1,63,91,1,5,,Oceane Dodin,Kateryna Bondarenko,7-6(1) 7-5,1.31,8.2%,10.6%,54.1%,76.1%,56.4%,75.0% (6/8),54.4%,43.3%,8.2%,30.4%,61.0%,25.0% (3/12),1:42
@@ -313,13 +442,13 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Jan-2017,Brisbane,3,Hard,Q1,73,141,0,2,,Aleksandra Krunic,Oceane Dodin,7-5 7-5,0.86,7.3%,8.5%,58.5%,72.9%,32.4%,73.3% (11/15),46.7%,37.9%,19.5%,26.4%,55.9%,28.6% (2/7),1:38
 14-Nov-2016,Limoges,3,Hard,R16,69,166,0,3,,Natalia Vikhlyantseva,Oceane Dodin,7-5 6-3,0.82,5.5%,6.8%,61.6%,66.7%,39.3%,75.0% (9/12),46.2%,36.1%,15.3%,22.2%,59.3%,33.3% (1/3),1:17
 14-Nov-2016,Limoges,3,Hard,R32,69,275,1,3,Q,Oceane Dodin,Alexandra Cadantu Ignatik,2-6 6-4 6-2,1.20,11.4%,2.3%,56.8%,74.0%,44.7%,66.7% (8/12),54.2%,46.3%,3.8%,39.2%,58.6%,71.4% (5/7),2:04
-24-Oct-2016,Poitiers $100K,3,Hard,F,83,72,1,4,6,Oceane Dodin,Lauren Davis,6-4 6-2 (ch),,,,,,,,,,,,,,
+24-Oct-2016,Poitiers $100K,3,Hard,F,83,72,1,4,6,Oceane Dodin,Lauren Davis,6-4 6-2,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,SF,83,69,1,4,2,Oceane Dodin,Pauline Parmentier,7-6(2) 6-3,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,QF,83,136,1,4,,Oceane Dodin,Ekaterina Alexandrova,1-6 6-4 6-2,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,R16,83,128,1,4,SE,Oceane Dodin,Maryna Zanevska,5-0 RET,,,,,,,,,,,,,,
 24-Oct-2016,Poitiers $100K,3,Hard,R32,83,141,1,4,WC,Oceane Dodin,Elizaveta Kulichkova,6-2 6-2,,,,,,,,,,,,,,
 17-Oct-2016,Luxembourg,3,Hard,R32,83,62,0,WC,Q,Kristyna Pliskova,Oceane Dodin,3-6 6-3 6-4,1.03,9.7%,3.2%,68.8%,73.4%,37.9%,66.7% (6/9),49.7%,38.7%,17.9%,24.6%,57.8%,20.0% (2/10),1:53
-10-Oct-2016,Linz,3,Hard,QF,89,7,0,Q,3,Madison Keys,Oceane Dodin,6-3 6-3 (ch),0.71,6.0%,10.0%,52.0%,73.1%,45.8%,0.0% (0/3),43.4%,28.6%,10.7%,28.6%,28.6%,0.0% (0/3),0:56
+10-Oct-2016,Linz,3,Hard,QF,89,7,0,Q,3,Madison Keys,Oceane Dodin,6-3 6-3,0.71,6.0%,10.0%,52.0%,73.1%,45.8%,0.0% (0/3),43.4%,28.6%,10.7%,28.6%,28.6%,0.0% (0/3),0:56
 10-Oct-2016,Linz,3,Hard,R16,89,83,1,Q,,Oceane Dodin,Sorana Cirstea,6-2 6-4,1.75,16.0%,0.0%,62.0%,83.9%,57.9%,- (0/0),59.0%,45.5%,5.5%,27.8%,78.9%,75.0% (3/4),1:05
 10-Oct-2016,Linz,3,Hard,R32,89,64,1,Q,Q,Oceane Dodin,Kristyna Pliskova,6-7(2) 7-5 6-3,1.31,14.0%,3.2%,65.6%,80.3%,43.8%,0.0% (0/2),53.2%,42.4%,18.4%,25.8%,61.0%,27.8% (5/18),2:04
 10-Oct-2016,Linz,3,Hard,Q3,89,95,1,4,5,Oceane Dodin,Stefanie Voegele,6-4 3-6 6-3,1.14,9.6%,1.4%,58.9%,81.4%,43.3%,25.0% (1/4),52.0%,39.0%,16.9%,26.4%,66.7%,100.0% (4/4),1:33
@@ -414,7 +543,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Sep-2015,Clermont Ferrand $25K,3,Hard,R32,124,517,0,1,Q,Aliona Bolsova,Oceane Dodin,6-3 6-4,,,,,,,,,,,,,,
 7-Sep-2015,Biarritz $100K,3,Clay,R16,128,205,0,8,,Cindy Burger,Oceane Dodin,5-7 7-5 6-4,,,,,,,,,,,,,,
 7-Sep-2015,Biarritz $100K,3,Clay,R32,128,519,1,8,WC,Oceane Dodin,Harmony Tan,6-1 6-1,,,,,,,,,,,,,,
-31-Aug-2015,US Open,5,Hard,R64,128,96,0,WC,,Mariana Duque Marino,Oceane Dodin,6-1 5-7 6-2 (ch),,,,,,,,,,,,,,
+31-Aug-2015,US Open,5,Hard,R64,128,96,0,WC,,Mariana Duque Marino,Oceane Dodin,6-1 5-7 6-2,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,128,21,1,WC,21,Oceane Dodin,Jelena Jankovic,2-6 7-5 6-3,1.00,3.0%,13.0%,52.0%,73.1%,39.6%,64.3% (9/14),50.5%,43.2%,9.1%,40.7%,47.1%,45.5% (5/11),
 10-Aug-2015,Westende $25K,3,Hard,F,133,344,0,1,SR,Mihaela Buzarnescu,Oceane Dodin,6-1 6-1,,,,,,,,,,,,,,
 10-Aug-2015,Westende $25K,3,Hard,SF,133,229,1,1,4,Oceane Dodin,Lesley Pattinama Kerkhove,6-2 7-5,,,,,,,,,,,,,,
@@ -429,7 +558,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Jul-2015,Contrexeville $100K,3,Clay,R32,133,299,1,,,Oceane Dodin,Irina Ramialison,6-4 6-7(6) 6-1,,,,,,,,,,,,,,
 29-Jun-2015,Wimbledon,5,Grass,Q1,133,184,0,19,,Stephanie Foretz Gacon,Oceane Dodin,6-3 6-2,,,,,,,,,,,,,,
 15-Jun-2015,Ilkley $50K,3,Grass,R32,131,201,0,,,Kimiko Date Krumm,Oceane Dodin,4-6 6-4 6-2,,,,,,,,,,,,,,
-8-Jun-2015,'s Hertogenbosch,3,Grass,R32,133,403,0,WC,WC,Michaella Krajicek,Oceane Dodin,7-5 6-4 (ch),1.04,12.0%,10.0%,68.0%,67.6%,81.3%,0.0% (0/3),48.2%,29.0%,25.8%,26.2%,35.0%,25.0% (1/4),
+8-Jun-2015,'s Hertogenbosch,3,Grass,R32,133,403,0,WC,WC,Michaella Krajicek,Oceane Dodin,7-5 6-4,1.04,12.0%,10.0%,68.0%,67.6%,81.3%,0.0% (0/3),48.2%,29.0%,25.8%,26.2%,35.0%,25.0% (1/4),
 1-Jun-2015,Eastbourne $50K,3,Grass,QF,142,185,0,8,,Anett Kontaveit,Oceane Dodin,6-3 6-2,,,,,,,,,,,,,,
 1-Jun-2015,Eastbourne $50K,3,Grass,R16,142,238,1,8,,Oceane Dodin,Naomi Broady,2-6 6-2 7-6(4),,,,,,,,,,,,,,
 1-Jun-2015,Eastbourne $50K,3,Grass,R32,142,307,1,8,WC,Oceane Dodin,Emily Webley Smith,6-3 4-6 6-2,,,,,,,,,,,,,,
@@ -442,7 +571,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Mar-2015,Miami,3,Hard,Q1,141,72,0,,2,Alexandra Dulgheru,Oceane Dodin,6-4 4-6 6-1,,,,,,,,,,,,,,
 23-Feb-2015,Beinasco $25K,3,Clay,R32,147,242,0,3,,Irina Khromacheva,Oceane Dodin,6-3 7-5,,,,,,,,,,,,,,
 16-Feb-2015,Altenkirchen $25K,3,Carpet,SF,146,88,0,3,1,Carina Witthoeft,Oceane Dodin,6-4 6-4,,,,,,,,,,,,,,
-16-Feb-2015,Altenkirchen $25K,3,Carpet,QF,146,220,1,3,7,Oceane Dodin,Ana Vrljic,6-3 6-2 (ch),,,,,,,,,,,,,,
+16-Feb-2015,Altenkirchen $25K,3,Carpet,QF,146,220,1,3,7,Oceane Dodin,Ana Vrljic,6-3 6-2,,,,,,,,,,,,,,
 16-Feb-2015,Altenkirchen $25K,3,Carpet,R16,146,341,1,3,,Oceane Dodin,Sandra Zaniewska,7-6(4) 6-3,,,,,,,,,,,,,,
 16-Feb-2015,Altenkirchen $25K,3,Carpet,R32,146,351,1,3,Q,Oceane Dodin,Martina Borecka,6-1 6-4,,,,,,,,,,,,,,
 9-Feb-2015,Antwerp,3,Hard,Q2,151,81,0,,2,Francesca Schiavone,Oceane Dodin,6-4 6-2,,,,,,,,,,,,,,

@@ -1,8 +1,8 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 26-Aug-2019,US Open,5,Hard,Q1,163,162,0,,,Na Lae Han,Magdalena Rybarikova,4-6 6-3 6-3,0.90,8.7%,6.8%,55.3%,54.4%,45.7%,65.0% (13/20),47.5%,44.4%,1.0%,41.2%,51.6%,35.7% (5/14),2:21
 12-Aug-2019,W100 Vancouver,3,Hard,R32,148,186,0,,,Kurumi Nara,Magdalena Rybarikova,6-3 6-3,,,,,,,,,,,,,,
-1-Jul-2019,Wimbledon,5,Grass,R64,139,313,0,,,Cori Gauff,Magdalena Rybarikova,6-3 6-3 (ch),0.55,7.5%,3.8%,58.5%,71.0%,36.4%,50.0% (2/4),40.8%,24.0%,4.0%,15.2%,41.2%,- (0/0),1:09
-1-Jul-2019,Wimbledon,5,Grass,R128,139,11,1,,10,Magdalena Rybarikova,Aryna Sabalenka,6-2 6-4 (ch),1.51,8.0%,4.0%,56.0%,82.1%,50.0%,66.7% (2/3),57.3%,48.3%,0.0%,35.1%,69.6%,66.7% (4/6),1:10
+1-Jul-2019,Wimbledon,5,Grass,R64,139,313,0,,,Cori Gauff,Magdalena Rybarikova,6-3 6-3,0.55,7.5%,3.8%,58.5%,71.0%,36.4%,50.0% (2/4),40.8%,24.0%,4.0%,15.2%,41.2%,- (0/0),1:09
+1-Jul-2019,Wimbledon,5,Grass,R128,139,11,1,,10,Magdalena Rybarikova,Aryna Sabalenka,6-2 6-4,1.51,8.0%,4.0%,56.0%,82.1%,50.0%,66.7% (2/3),57.3%,48.3%,0.0%,35.1%,69.6%,66.7% (4/6),1:10
 17-Jun-2019,W100 Ilkley,3,Grass,R16,84,125,0,,,Beatriz Haddad Maia,Magdalena Rybarikova,7-5 7-5,,,,,,,,,,,,,,
 17-Jun-2019,W100 Ilkley,3,Grass,R32,84,153,1,,,Magdalena Rybarikova,Conny Perrin,7-6(5) 6-2,,,,,,,,,,,,,,
 10-Jun-2019,Nottingham,3,Grass,R32,81,94,0,,,Astra Sharma,Magdalena Rybarikova,6-1 0-0 RET,0.52,0.0%,4.8%,57.1%,58.3%,33.3%,33.3% (1/3),37.2%,27.3%,4.5%,15.4%,44.4%,- (0/0),0:29
@@ -15,7 +15,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-May-2019,Madrid,3,Clay,Q1,72,168,0,11,WC,Irina Bara,Magdalena Rybarikova,7-5 0-0 RET,0.78,6.9%,10.3%,44.8%,61.5%,43.8%,0.0% (0/3),44.3%,37.5%,0.0%,43.5%,22.2%,50.0% (2/4),0:46
 29-Apr-2019,Rabat,3,Clay,R32,72,122,0,,Q,Ysaline Bonaventure,Magdalena Rybarikova,2-6 6-1 7-6(7),0.96,2.2%,5.6%,51.7%,58.7%,41.9%,36.4% (4/11),48.9%,47.4%,0.0%,48.3%,46.2%,54.5% (6/11),2:01
 1-Apr-2019,Monterrey,3,Hard,SF,71,19,0,8,2,Garbine Muguruza,Magdalena Rybarikova,6-2 6-3,0.70,8.9%,6.7%,57.8%,61.5%,31.6%,50.0% (4/8),41.8%,35.8%,7.5%,28.6%,63.6%,50.0% (1/2),1:15
-1-Apr-2019,Monterrey,3,Hard,QF,71,134,1,8,,Magdalena Rybarikova,Sachia Vickery,6-4 6-4 (ch),1.01,10.5%,5.3%,61.8%,78.7%,48.3%,100.0% (4/4),53.1%,33.3%,1.9%,22.6%,47.8%,40.0% (2/5),1:33
+1-Apr-2019,Monterrey,3,Hard,QF,71,134,1,8,,Magdalena Rybarikova,Sachia Vickery,6-4 6-4,1.01,10.5%,5.3%,61.8%,78.7%,48.3%,100.0% (4/4),53.1%,33.3%,1.9%,22.6%,47.8%,40.0% (2/5),1:33
 1-Apr-2019,Monterrey,3,Hard,R16,71,98,1,8,,Magdalena Rybarikova,Stefanie Voegele,5-7 6-2 6-3,1.08,13.0%,0.9%,67.8%,67.9%,45.9%,81.8% (9/11),52.4%,42.1%,8.4%,26.1%,57.1%,50.0% (4/8),2:31
 1-Apr-2019,Monterrey,3,Hard,R32,71,101,1,8,,Magdalena Rybarikova,Misaki Doi,2-6 7-6(5) 6-4,1.00,1.9%,5.7%,51.4%,75.9%,45.1%,69.2% (9/13),50.5%,39.2%,0.0%,30.2%,50.0%,50.0% (3/6),2:20
 18-Mar-2019,Miami,3,Hard,R64,74,15,0,,15,Julia Goerges,Magdalena Rybarikova,6-4 7-5,0.91,3.4%,1.7%,55.9%,66.7%,50.0%,42.9% (3/7),46.7%,36.8%,13.2%,24.2%,46.5%,40.0% (2/5),1:35
@@ -35,9 +35,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Aug-2018,Montreal,3,Hard,R64,29,21,1,,,Magdalena Rybarikova,Barbora Strycova,3-6 7-6(6) 6-2,1.04,6.5%,4.7%,52.3%,73.2%,43.1%,69.2% (9/13),50.7%,42.6%,0.9%,38.0%,55.2%,38.5% (5/13),2:40
 2-Jul-2018,Wimbledon,5,Grass,R128,19,51,0,19,,Sorana Cirstea,Magdalena Rybarikova,7-5 6-3,0.91,0.0%,1.6%,50.0%,71.0%,41.9%,33.3% (2/6),47.1%,39.5%,1.3%,36.5%,45.8%,20.0% (2/10),1:30
 25-Jun-2018,Eastbourne,3,Grass,R32,19,52,0,10,,Su Wei Hsieh,Magdalena Rybarikova,6-1 0-0 RET,0.50,18.8%,0.0%,62.5%,60.0%,33.3%,0.0% (0/2),35.0%,25.0%,8.3%,7.7%,45.5%,- (0/0),0:27
-18-Jun-2018,Birmingham,3,Grass,F,19,8,0,,4,Petra Kvitova,Magdalena Rybarikova,4-6 6-1 6-2 (ch),0.78,4.3%,4.3%,51.1%,66.7%,30.4%,57.1% (8/14),44.8%,39.7%,1.3%,36.4%,47.8%,50.0% (3/6),2:05
+18-Jun-2018,Birmingham,3,Grass,F,19,8,0,,4,Petra Kvitova,Magdalena Rybarikova,4-6 6-1 6-2,0.78,4.3%,4.3%,51.1%,66.7%,30.4%,57.1% (8/14),44.8%,39.7%,1.3%,36.4%,47.8%,50.0% (3/6),2:05
 18-Jun-2018,Birmingham,3,Grass,SF,19,24,1,,,Magdalena Rybarikova,Barbora Strycova,7-6(1) 6-4,1.19,2.9%,2.9%,58.0%,67.5%,58.6%,25.0% (1/4),53.1%,43.2%,2.7%,40.4%,48.1%,50.0% (4/8),1:47
-18-Jun-2018,Birmingham,3,Grass,QF,19,113,1,,Q,Magdalena Rybarikova,Dalila Jakupovic,6-2 6-4 (ch),1.71,13.2%,0.0%,64.2%,76.5%,63.2%,85.7% (6/7),59.5%,48.3%,5.2%,45.7%,52.2%,44.4% (4/9),1:09
+18-Jun-2018,Birmingham,3,Grass,QF,19,113,1,,Q,Magdalena Rybarikova,Dalila Jakupovic,6-2 6-4,1.71,13.2%,0.0%,64.2%,76.5%,63.2%,85.7% (6/7),59.5%,48.3%,5.2%,45.7%,52.2%,44.4% (4/9),1:09
 18-Jun-2018,Birmingham,3,Grass,R16,19,56,1,,,Magdalena Rybarikova,Kristina Mladenovic,3-6 6-2 6-1,1.33,6.3%,3.8%,58.8%,72.3%,54.5%,66.7% (4/6),55.3%,46.7%,3.3%,46.0%,48.1%,33.3% (5/15),1:56
 18-Jun-2018,Birmingham,3,Grass,R32,19,7,1,,3,Magdalena Rybarikova,Karolina Pliskova,6-2 6-3,2.13,19.0%,2.4%,64.3%,81.5%,73.3%,100.0% (2/2),59.6%,45.6%,8.8%,44.4%,47.6%,66.7% (4/6),1:03
 11-Jun-2018,Nottingham,3,Grass,R16,19,117,0,2,,Mona Barthel,Magdalena Rybarikova,6-3 1-6 7-5,1.06,3.3%,5.4%,59.8%,74.5%,45.9%,57.1% (4/7),50.3%,39.3%,4.7%,34.5%,44.2%,25.0% (3/12),2:12
@@ -47,7 +47,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-May-2018,Roland Garros,5,Clay,R128,18,100,1,19,,Magdalena Rybarikova,Luksika Kumkhum,6-3 6-0,1.59,9.3%,0.0%,51.9%,64.3%,61.5%,66.7% (2/3),60.9%,58.9%,0.0%,50.0%,75.0%,54.5% (6/11),1:10
 14-May-2018,Rome,3,Clay,R64,19,22,0,17,,Johanna Konta,Magdalena Rybarikova,6-4 6-3,0.85,2.4%,1.2%,50.0%,51.2%,46.3%,68.8% (11/16),46.3%,43.3%,3.0%,34.1%,60.9%,37.5% (3/8),1:50
 7-May-2018,Madrid,3,Clay,R64,19,23,0,16,,Johanna Konta,Magdalena Rybarikova,6-3 7-5,0.84,2.5%,1.2%,56.8%,63.0%,51.4%,72.7% (8/11),46.2%,35.2%,3.4%,30.0%,46.4%,14.3% (1/7),1:59
-23-Apr-2018,Stuttgart,3,Clay,R16,18,1,0,,1,Simona Halep,Magdalena Rybarikova,4-6 6-2 6-3 (ch),0.81,2.6%,0.0%,57.7%,53.3%,48.5%,40.0% (4/10),44.9%,39.3%,4.5%,29.7%,64.0%,44.4% (4/9),1:52
+23-Apr-2018,Stuttgart,3,Clay,R16,18,1,0,,1,Simona Halep,Magdalena Rybarikova,4-6 6-2 6-3,0.81,2.6%,0.0%,57.7%,53.3%,48.5%,40.0% (4/10),44.9%,39.3%,4.5%,29.7%,64.0%,44.4% (4/9),1:52
 23-Apr-2018,Stuttgart,3,Clay,R32,18,14,1,,,Magdalena Rybarikova,Daria Kasatkina,6-2 6-2,1.84,0.0%,4.2%,56.3%,77.8%,61.9%,66.7% (2/3),61.5%,53.6%,0.0%,48.6%,63.2%,50.0% (5/10),1:15
 2-Apr-2018,Monterrey,3,Hard,QF,17,91,0,2,7,Sachia Vickery,Magdalena Rybarikova,6-0 6-3,0.62,5.8%,3.8%,57.7%,63.3%,27.3%,60.0% (6/10),39.6%,32.2%,1.7%,26.3%,42.9%,0.0% (0/4),1:13
 2-Apr-2018,Monterrey,3,Hard,R16,17,109,1,2,,Magdalena Rybarikova,Jana Fett,7-5 6-2,1.43,4.7%,1.6%,60.9%,69.2%,72.0%,100.0% (5/5),54.9%,42.3%,2.6%,31.4%,51.2%,23.1% (3/13),1:43
@@ -62,18 +62,18 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 15-Jan-2018,Australian Open,5,Hard,R64,21,75,1,19,,Magdalena Rybarikova,Kirsten Flipkens,6-4 0-6 6-2,0.95,0.0%,1.4%,54.8%,47.5%,57.6%,44.4% (4/9),48.7%,45.7%,4.9%,39.6%,54.5%,55.6% (5/9),1:49
 15-Jan-2018,Australian Open,5,Hard,R128,21,89,1,19,,Magdalena Rybarikova,Taylor Townsend,6-0 7-5,1.95,4.1%,0.0%,75.5%,75.7%,58.3%,66.7% (2/3),63.4%,55.8%,0.0%,46.9%,70.0%,50.0% (5/10),1:10
 8-Jan-2018,Sydney,3,Hard,R32,20,56,0,,Q,Catherine Cartan Bellis,Magdalena Rybarikova,7-6(2) 6-0,0.66,7.6%,7.6%,57.6%,76.3%,28.6%,55.6% (5/9),43.2%,28.8%,5.1%,23.8%,41.2%,25.0% (1/4),1:23
-31-Oct-2017,Zhuhai,3,Hard,RR,22,18,0,10,7,Julia Goerges,Magdalena Rybarikova,6-1 7-6(5) (ch),0.85,0.0%,1.4%,60.3%,65.9%,51.7%,62.5% (5/8),47.8%,33.8%,3.1%,30.8%,38.5%,0.0% (0/1),1:39
+31-Oct-2017,Zhuhai,3,Hard,RR,22,18,0,10,7,Julia Goerges,Magdalena Rybarikova,6-1 7-6(5),0.85,0.0%,1.4%,60.3%,65.9%,51.7%,62.5% (5/8),47.8%,33.8%,3.1%,30.8%,38.5%,0.0% (0/1),1:39
 31-Oct-2017,Zhuhai,3,Hard,RR,22,10,1,10,1,Magdalena Rybarikova,Kristina Mladenovic,7-5 1-6 7-6(5),0.96,1.9%,2.8%,53.3%,57.9%,46.0%,46.2% (6/13),49.1%,45.8%,0.9%,39.3%,52.9%,42.9% (6/14),2:48
 16-Oct-2017,Moscow,3,Hard,R16,26,39,0,8,,Alize Cornet,Magdalena Rybarikova,6-1 0-0 RET,0.55,5.9%,0.0%,41.2%,42.9%,10.0%,0.0% (0/3),34.9%,42.3%,0.0%,38.9%,50.0%,50.0% (1/2),0:32
 16-Oct-2017,Moscow,3,Hard,R32,26,57,1,8,WC,Magdalena Rybarikova,Maria Sharapova,7-6(3) 6-4,1.24,4.3%,1.4%,55.7%,74.4%,61.3%,66.7% (2/3),52.6%,39.0%,8.5%,30.4%,50.0%,22.2% (2/9),1:55
-9-Oct-2017,Linz,3,Hard,F,28,26,0,1,2,Barbora Strycova,Magdalena Rybarikova,6-4 6-1 (ch),0.72,1.5%,0.0%,56.9%,54.1%,39.3%,16.7% (1/6),43.4%,37.5%,4.2%,17.6%,85.7%,100.0% (1/1),1:27
+9-Oct-2017,Linz,3,Hard,F,28,26,0,1,2,Barbora Strycova,Magdalena Rybarikova,6-4 6-1,0.72,1.5%,0.0%,56.9%,54.1%,39.3%,16.7% (1/6),43.4%,37.5%,4.2%,17.6%,85.7%,100.0% (1/1),1:27
 9-Oct-2017,Linz,3,Hard,SF,28,117,1,1,,Magdalena Rybarikova,Viktorija Golubic,6-4 6-4,1.19,4.2%,0.0%,63.9%,67.4%,50.0%,50.0% (2/4),53.9%,46.4%,4.3%,35.4%,71.4%,57.1% (4/7),1:49
 9-Oct-2017,Linz,3,Hard,QF,28,37,1,1,5,Magdalena Rybarikova,Sorana Cirstea,5-7 6-2 6-1,1.21,3.8%,1.3%,66.3%,64.2%,33.3%,44.4% (4/9),54.9%,55.8%,0.0%,47.1%,77.8%,90.0% (9/10),2:03
 9-Oct-2017,Linz,3,Hard,R16,28,73,1,1,,Magdalena Rybarikova,Carina Witthoeft,7-6(4) 6-3,1.19,9.2%,1.3%,61.8%,74.5%,51.7%,66.7% (4/6),53.3%,40.5%,1.4%,42.0%,37.5%,33.3% (3/9),1:41
 9-Oct-2017,Linz,3,Hard,R32,28,107,1,1,,Magdalena Rybarikova,Richel Hogenkamp,7-5 6-3,1.22,2.8%,1.4%,66.7%,68.8%,45.8%,83.3% (10/12),53.9%,47.5%,0.0%,46.2%,50.0%,50.0% (5/10),1:30
 2-Oct-2017,Beijing ,3,Hard,R32,28,2,0,,2,Simona Halep,Magdalena Rybarikova,6-1 2-1 RET,0.63,11.1%,4.4%,46.7%,61.9%,33.3%,57.1% (4/7),41.0%,33.3%,9.1%,26.1%,50.0%,0.0% (0/1),0:58
 2-Oct-2017,Beijing ,3,Hard,R64,28,79,1,,WC,Magdalena Rybarikova,Eugenie Bouchard,6-4 6-3,1.31,3.7%,1.9%,57.4%,71.0%,43.5%,40.0% (2/5),55.8%,53.3%,1.3%,41.0%,66.7%,42.9% (6/14),1:34
-25-Sep-2017,Wuhan,3,Hard,R64,28,13,0,,9,Agnieszka Radwanska,Magdalena Rybarikova,6-4 7-5 (ch),0.81,5.1%,12.7%,43.0%,70.6%,37.8%,66.7% (10/15),45.8%,39.2%,0.0%,27.5%,52.9%,30.0% (3/10),2:04
+25-Sep-2017,Wuhan,3,Hard,R64,28,13,0,,9,Agnieszka Radwanska,Magdalena Rybarikova,6-4 7-5,0.81,5.1%,12.7%,43.0%,70.6%,37.8%,66.7% (10/15),45.8%,39.2%,0.0%,27.5%,52.9%,30.0% (3/10),2:04
 18-Sep-2017,Tokyo,3,Hard,R32,27,25,0,,,Barbora Strycova,Magdalena Rybarikova,7-6(4) 7-6(2),0.89,2.2%,4.4%,55.6%,60.0%,50.0%,33.3% (2/6),48.2%,39.7%,1.3%,37.7%,44.0%,66.7% (4/6),2:15
 28-Aug-2017,US Open,5,Hard,R32,32,3,0,31,3,Garbine Muguruza,Magdalena Rybarikova,6-1 6-1,0.54,5.3%,0.0%,52.6%,35.0%,33.3%,33.3% (3/9),34.9%,35.4%,4.2%,36.4%,33.3%,25.0% (1/4),1:01
 28-Aug-2017,US Open,5,Hard,R64,32,41,1,31,,Magdalena Rybarikova,Kristyna Pliskova,7-6(4) 7-6(3),1.21,6.8%,1.1%,55.7%,61.2%,66.7%,62.5% (5/8),53.6%,44.0%,4.4%,36.7%,52.4%,50.0% (3/6),1:58
@@ -83,12 +83,12 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Aug-2017,New Haven,3,Hard,Q1,33,,1,1,WC,Magdalena Rybarikova,Brienne Minor,6-1 6-1,2.22,8.1%,2.7%,48.6%,66.7%,73.7%,66.7% (2/3),67.9%,65.9%,2.4%,57.9%,72.7%,85.7% (6/7),0:45
 14-Aug-2017,Cincinnati,3,Hard,Q2,33,82,0,1,22,Camila Giorgi,Magdalena Rybarikova,6-3 6-4,0.89,5.4%,7.1%,53.6%,80.0%,23.1%,33.3% (2/6),45.9%,41.3%,4.3%,41.5%,41.0%,16.7% (2/12),1:42
 14-Aug-2017,Cincinnati,3,Hard,Q1,33,88,1,1,,Magdalena Rybarikova,Andrea Petkovic,6-4 6-1,1.32,3.4%,1.7%,62.7%,62.2%,50.0%,75.0% (6/8),56.7%,55.7%,1.6%,45.7%,69.2%,75.0% (6/8),1:24
-7-Aug-2017,Toronto,3,Hard,R32,33,2,0,LL,2,Simona Halep,Magdalena Rybarikova,6-3 6-4 (ch),0.84,4.4%,7.4%,47.1%,68.8%,36.1%,66.7% (8/12),45.6%,40.7%,1.2%,37.9%,47.8%,22.2% (2/9),
-7-Aug-2017,Toronto,3,Hard,R64,33,31,1,LL,,Magdalena Rybarikova,Mirjana Lucic,7-5 6-0 (ch),1.80,14.9%,6.4%,57.4%,88.9%,40.0%,50.0% (2/4),62.0%,57.4%,0.0%,55.2%,59.4%,66.7% (6/9),1:04
+7-Aug-2017,Toronto,3,Hard,R32,33,2,0,LL,2,Simona Halep,Magdalena Rybarikova,6-3 6-4,0.84,4.4%,7.4%,47.1%,68.8%,36.1%,66.7% (8/12),45.6%,40.7%,1.2%,37.9%,47.8%,22.2% (2/9),
+7-Aug-2017,Toronto,3,Hard,R64,33,31,1,LL,,Magdalena Rybarikova,Mirjana Lucic,7-5 6-0,1.80,14.9%,6.4%,57.4%,88.9%,40.0%,50.0% (2/4),62.0%,57.4%,0.0%,55.2%,59.4%,66.7% (6/9),1:04
 7-Aug-2017,Toronto,3,Hard,Q2,33,68,0,1,14,Varvara Lepchenko,Magdalena Rybarikova,7-5 6-0,0.62,3.6%,5.5%,49.1%,44.4%,28.6%,22.2% (2/9),38.1%,39.7%,0.0%,50.0%,25.9%,37.5% (3/8),1:20
 7-Aug-2017,Toronto,3,Hard,Q1,33,105,1,1,,Magdalena Rybarikova,Kurumi Nara,6-2 5-7 7-6(6),1.06,4.7%,2.8%,61.7%,56.1%,51.2%,46.2% (6/13),51.4%,48.6%,0.0%,41.1%,56.9%,100.0% (8/8),2:42
-3-Jul-2017,Wimbledon,5,Grass,SF,87,15,0,,14,Garbine Muguruza,Magdalena Rybarikova,6-1 6-1 (ch),0.56,10.8%,6.2%,67.7%,63.6%,33.3%,62.5% (5/8),41.7%,26.0%,2.0%,21.2%,35.3%,0.0% (0/2),1:13
-3-Jul-2017,Wimbledon,5,Grass,QF,87,25,1,,24,Magdalena Rybarikova,Coco Vandeweghe,6-3 6-3 (ch),1.33,12.9%,6.5%,66.1%,78.0%,47.6%,50.0% (1/2),55.9%,42.9%,1.8%,28.1%,62.5%,100.0% (3/3),1:13
+3-Jul-2017,Wimbledon,5,Grass,SF,87,15,0,,14,Garbine Muguruza,Magdalena Rybarikova,6-1 6-1,0.56,10.8%,6.2%,67.7%,63.6%,33.3%,62.5% (5/8),41.7%,26.0%,2.0%,21.2%,35.3%,0.0% (0/2),1:13
+3-Jul-2017,Wimbledon,5,Grass,QF,87,25,1,,24,Magdalena Rybarikova,Coco Vandeweghe,6-3 6-3,1.33,12.9%,6.5%,66.1%,78.0%,47.6%,50.0% (1/2),55.9%,42.9%,1.8%,28.1%,62.5%,100.0% (3/3),1:13
 3-Jul-2017,Wimbledon,5,Grass,R16,87,135,1,,,Magdalena Rybarikova,Petra Martic,6-4 2-6 6-3,1.07,2.5%,5.1%,65.8%,67.3%,33.3%,37.5% (3/8),51.5%,47.6%,1.2%,41.0%,65.2%,41.7% (5/12),1:49
 3-Jul-2017,Wimbledon,5,Grass,R32,87,35,1,,,Magdalena Rybarikova,Lesia Tsurenko,6-2 6-1,1.64,7.4%,0.0%,61.1%,72.7%,47.6%,66.7% (4/6),61.8%,60.7%,3.6%,45.9%,89.5%,60.0% (6/10),1:06
 3-Jul-2017,Wimbledon,5,Grass,R64,87,3,1,,3,Magdalena Rybarikova,Karolina Pliskova,3-6 7-5 6-2,1.03,5.8%,1.0%,51.5%,66.0%,56.0%,72.7% (8/11),51.3%,40.0%,6.7%,37.5%,44.1%,83.3% (5/6),2:17
@@ -175,7 +175,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 22-Jun-2015,Eastbourne,3,Grass,Q1,66,91,1,8,,Magdalena Rybarikova,Monica Puig,6-2 6-2,,,,,,,,,,,,,,
 15-Jun-2015,Birmingham,3,Grass,R16,59,19,0,,8,Sabine Lisicki,Magdalena Rybarikova,7-6(7) 6-4,0.78,3.5%,2.3%,62.8%,64.8%,53.1%,71.4% (5/7),47.7%,30.8%,12.3%,29.5%,33.3%,100.0% (1/1),
 15-Jun-2015,Birmingham,3,Grass,R32,59,64,1,,,Magdalena Rybarikova,Anna Karolina Schmiedlova,7-6(0) 6-1,1.36,8.7%,2.9%,68.1%,76.6%,54.5%,88.9% (8/9),57.4%,41.5%,0.0%,36.6%,58.3%,37.5% (3/8),
-15-Jun-2015,Birmingham,3,Grass,R64,59,21,1,,9,Magdalena Rybarikova,Garbine Muguruza,6-3 6-1 (ch),1.65,14.6%,4.9%,63.4%,76.9%,46.7%,0.0% (0/2),60.4%,56.4%,1.8%,53.8%,62.5%,60.0% (6/10),
+15-Jun-2015,Birmingham,3,Grass,R64,59,21,1,,9,Magdalena Rybarikova,Garbine Muguruza,6-3 6-1,1.65,14.6%,4.9%,63.4%,76.9%,46.7%,0.0% (0/2),60.4%,56.4%,1.8%,53.8%,62.5%,60.0% (6/10),
 8-Jun-2015,Nottingham,3,Grass,R32,59,147,0,7,WC,Johanna Konta,Magdalena Rybarikova,6-3 6-3,0.64,3.4%,0.0%,72.4%,61.9%,18.8%,42.9% (3/7),41.4%,32.1%,1.9%,24.3%,50.0%,100.0% (1/1),
 25-May-2015,Roland Garros,5,Clay,R64,57,28,0,,28,Flavia Pennetta,Magdalena Rybarikova,6-2 6-0,0.54,0.0%,10.8%,51.4%,31.6%,27.8%,25.0% (2/8),34.5%,38.0%,4.0%,29.0%,52.6%,20.0% (1/5),
 25-May-2015,Roland Garros,5,Clay,R128,57,200,1,,Q,Magdalena Rybarikova,Olivia Rogowska,0-6 7-5 6-2,1.05,4.3%,1.1%,66.3%,60.7%,54.8%,71.4% (10/14),51.4%,43.2%,6.2%,31.4%,63.3%,57.1% (4/7),
@@ -194,9 +194,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 7-Feb-2015,Fed Cup WG R1: NED vs SVK,3,Clay,RR,47,70,0,,,Kiki Bertens,Magdalena Rybarikova,6-1 2-6 6-1,,,,,,,,,,,,,,
 7-Feb-2015,Fed Cup WG R1: NED vs SVK,3,Clay,RR,47,218,0,,,Arantxa Rus,Magdalena Rybarikova,6-3 6-4,,,,,,,,,,,,,,
 19-Jan-2015,Australian Open,5,Hard,R64,47,22,0,,21,Shuai Peng,Magdalena Rybarikova,6-1 6-1,0.62,0.0%,3.8%,64.2%,52.9%,31.6%,50.0% (5/10),39.6%,34.0%,11.3%,25.6%,57.1%,0.0% (0/4),
-19-Jan-2015,Australian Open,5,Hard,R128,47,95,1,,,Magdalena Rybarikova,Ana Konjuh,6-4 6-4 (ch),1.12,8.3%,5.0%,65.0%,71.8%,38.1%,0.0% (0/3),52.6%,44.6%,5.4%,34.5%,55.6%,71.4% (5/7),
+19-Jan-2015,Australian Open,5,Hard,R128,47,95,1,,,Magdalena Rybarikova,Ana Konjuh,6-4 6-4,1.12,8.3%,5.0%,65.0%,71.8%,38.1%,0.0% (0/3),52.6%,44.6%,5.4%,34.5%,55.6%,71.4% (5/7),
 12-Jan-2015,Hobart,3,Hard,R32,46,49,0,,,Heather Watson,Magdalena Rybarikova,7-5 6-1,0.79,5.1%,3.4%,66.1%,53.8%,15.0%,46.2% (6/13),44.1%,47.1%,5.9%,31.0%,73.1%,40.0% (4/10),
-5-Jan-2015,Brisbane,3,Hard,R32,48,28,0,,,Elina Svitolina,Magdalena Rybarikova,6-0 6-2 (ch),0.69,5.3%,1.8%,54.4%,58.1%,34.6%,61.5% (8/13),41.7%,36.2%,3.4%,35.0%,38.9%,0.0% (0/7),
+5-Jan-2015,Brisbane,3,Hard,R32,48,28,0,,,Elina Svitolina,Magdalena Rybarikova,6-0 6-2,0.69,5.3%,1.8%,54.4%,58.1%,34.6%,61.5% (8/13),41.7%,36.2%,3.4%,35.0%,38.9%,0.0% (0/7),
 6-Oct-2014,Linz,3,Hard,R16,49,59,0,,,Karin Knapp,Magdalena Rybarikova,6-3 RET,0.68,4.3%,8.7%,43.5%,50.0%,30.8%,0.0% (0/3),40.4%,41.4%,3.4%,46.2%,37.5%,40.0% (2/5),
 6-Oct-2014,Linz,3,Hard,R32,49,50,1,,,Magdalena Rybarikova,Kaia Kanepi,6-4 5-7 6-2,1.35,6.3%,2.1%,56.8%,72.2%,56.1%,78.6% (11/14),54.8%,46.8%,2.4%,36.8%,62.0%,25.0% (5/20),
 15-Sep-2014,Seoul,3,Hard,QF,41,57,0,4,,Christina Mchale,Magdalena Rybarikova,6-2 2-0 RET,0.61,0.0%,7.1%,46.4%,53.8%,26.7%,42.9% (3/7),38.2%,37.0%,0.0%,15.4%,57.1%,33.3% (1/3),

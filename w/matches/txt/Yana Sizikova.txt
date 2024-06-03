@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 6-Jun-2022,Valencia 125,3,Clay,Q2,1009,230,0,,3,Katarina Zavatska,Yana Sizikova,6-1 6-4,0.75,0.0%,6.8%,63.6%,42.9%,43.8%,28.6% (2/7),42.7%,42.5%,1.4%,31.9%,61.5%,33.3% (2/6),1:24
 6-Jun-2022,Valencia 125,3,Clay,Q1,1009,297,1,,6,Yana Sizikova,Daniela Seguel,6-4 6-2,1.41,3.4%,10.2%,55.9%,78.8%,50.0%,75.0% (3/4),56.5%,47.7%,1.5%,43.2%,53.6%,57.1% (4/7),1:21
 24-Jan-2022,W25 Manacor,3,Hard,Q1,994,685,0,,,Julia Middendorf,Yana Sizikova,6-4 6-0,,,,,,,,,,,,,,
@@ -100,7 +100,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 5-Jun-2017,Namangan $25K,3,Hard,R16,511,372,0,,,Anna Morgina,Yana Sizikova,6-4 6-3,,,,,,,,,,,,,,
 5-Jun-2017,Namangan $25K,3,Hard,R32,511,444,1,,,Yana Sizikova,Margarita Lazareva,6-3 6-3,,,,,,,,,,,,,,
 29-May-2017,Andijan $25K,3,Hard,R32,511,245,0,,4,Ksenia Lykina,Yana Sizikova,6-3 6-3,,,,,,,,,,,,,,
-1-May-2017,Khimki $25K,3,Hard,R16,507,210,0,,1,Polina Monova,Yana Sizikova,6-2 7-5 (ch),,,,,,,,,,,,,,
+1-May-2017,Khimki $25K,3,Hard,R16,507,210,0,,1,Polina Monova,Yana Sizikova,6-2 7-5,,,,,,,,,,,,,,
 1-May-2017,Khimki $25K,3,Hard,R32,507,,1,,WC,Yana Sizikova,Kamilla Rakhimova,6-4 6-1,,,,,,,,,,,,,,
 24-Apr-2017,Karshi $25K,3,Hard,R16,509,205,0,,2,Polina Monova,Yana Sizikova,6-2 6-2,,,,,,,,,,,,,,
 24-Apr-2017,Karshi $25K,3,Hard,R32,509,679,1,,Q,Yana Sizikova,Olga Puchkova,7-5 3-6 6-3,,,,,,,,,,,,,,

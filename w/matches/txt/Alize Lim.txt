@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 11-Apr-2022,W25+H Calvi,3,Hard,R32,889,199,0,Q,5,Jessika Ponchet,Alize Lim,6-4 6-2,,,,,,,,,,,,,,
 11-Apr-2022,W25+H Calvi,3,Hard,Q3,889,1102,1,5,9,Alize Lim,Maelys Bougrat,7-6(6) 6-1,,,,,,,,,,,,,,
 11-Apr-2022,W25+H Calvi,3,Hard,Q2,889,,1,5,,Alize Lim,Natalia Fehr,6-1 6-0,,,,,,,,,,,,,,
@@ -242,7 +242,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Aug-2014,US Open,5,Hard,Q1,197,152,0,,,Misa Eguchi,Alize Lim,6-2 6-2,0.55,2.3%,4.5%,68.2%,56.7%,35.7%,42.9% (3/7),38.5%,27.7%,4.3%,17.6%,53.8%,0.0% (0/1),
 4-Aug-2014,Landisville PA 25K,3,Hard,R32,198,177,0,,7,Paula Kania,Alize Lim,6-2 6-3,,,,,,,,,,,,,,
 7-Jul-2014,Bucharest,3,Clay,R32,146,244,0,,Q,Elitsa Kostova,Alize Lim,3-6 6-4 7-5,,,,,,,,,,,,,,
-26-May-2014,Roland Garros,5,Clay,R128,135,1,0,WC,1,Serena Williams,Alize Lim,6-2 6-1 (ch),0.70,3.6%,0.0%,65.5%,52.8%,36.8%,55.6% (5/9),41.5%,36.8%,5.9%,22.5%,57.1%,0.0% (0/7),
+26-May-2014,Roland Garros,5,Clay,R128,135,1,0,WC,1,Serena Williams,Alize Lim,6-2 6-1,0.70,3.6%,0.0%,65.5%,52.8%,36.8%,55.6% (5/9),41.5%,36.8%,5.9%,22.5%,57.1%,0.0% (0/7),
 5-May-2014,Cagnes Sur Mer 100K,3,Clay,R32,143,110,0,,,Mirjana Lucic,Alize Lim,7-6(4) 7-6(5),,,,,,,,,,,,,,
 14-Apr-2014,Kuala Lumpur,3,Hard,R32,145,124,0,,,Magda Linette,Alize Lim,6-3 6-0,,,,,,,,,,,,,,
 17-Mar-2014,Innisbrook FL 25K,3,Clay,R32,139,738,0,6,Q,Peggy Porter,Alize Lim,7-5 6-4,,,,,,,,,,,,,,

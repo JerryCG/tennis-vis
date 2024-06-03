@@ -1,4 +1,10 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+28-Nov-2022,W25 Selva Gardena,3,Hard,R16,379,259,0,,4,Joanna Garland,Martina Di Giuseppe,5-7 7-5 6-4,,,,,,,,,,,,,,
+28-Nov-2022,W25 Selva Gardena,3,Hard,R32,379,339,1,,,Martina Di Giuseppe,Angelica Moratelli,2-6 7-6(5) 6-4,,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,R16,370,259,0,,4,Darja Semenistaja,Martina Di Giuseppe,6-4 3-6 6-1,,,,,,,,,,,,,,
+21-Nov-2022,W25 Heraklion,3,Clay,R32,370,472,1,,,Martina Di Giuseppe,Oana Gavrila,6-2 4-6 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,Q2,372,249,0,10,1,Lea Boskovic,Martina Di Giuseppe,0-6 6-3 11-9,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,Q1,372,,1,10,,Martina Di Giuseppe,Emily Webley Smith,6-3 6-1,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,R16,347,293,0,,,Nuria Brancaccio,Martina Di Giuseppe,7-6(3) 7-5,,,,,,,,,,,,,,
 17-Oct-2022,W25 Santa Margherita di Pula,3,Clay,R32,347,345,1,,,Martina Di Giuseppe,Angelica Moratelli,6-2 5-7 6-3,,,,,,,,,,,,,,
 10-Oct-2022,W25 Santa Margherita di Pula,3,Clay,R32,353,286,0,,6,Nina Potocnik,Martina Di Giuseppe,6-3 6-2,,,,,,,,,,,,,,
@@ -131,7 +137,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 2-Sep-2019,W60 Zagreb,3,Clay,R16,181,284,0,4,Q,Victoria Kan,Martina Di Giuseppe,6-1 6-4,,,,,,,,,,,,,,
 2-Sep-2019,W60 Zagreb,3,Clay,R32,181,295,1,4,,Martina Di Giuseppe,Basak Eraydin,6-2 7-6(4),,,,,,,,,,,,,,
 26-Aug-2019,US Open,5,Hard,Q1,181,103,0,,4,Christina Mchale,Martina Di Giuseppe,6-3 6-2,0.72,4.0%,18.0%,50.0%,68.0%,24.0%,58.3% (7/12),42.0%,38.7%,1.6%,39.5%,36.8%,28.6% (2/7),1:20
-15-Jul-2019,Bucharest,3,Clay,SF,211,106,0,Q,,Elena Rybakina,Martina Di Giuseppe,6-3 6-2 (ch),0.55,3.9%,5.9%,58.8%,63.3%,33.3%,60.0% (6/10),39.4%,27.1%,12.5%,18.5%,38.1%,100.0% (1/1),1:01
+15-Jul-2019,Bucharest,3,Clay,SF,211,106,0,Q,,Elena Rybakina,Martina Di Giuseppe,6-3 6-2,0.55,3.9%,5.9%,58.8%,63.3%,33.3%,60.0% (6/10),39.4%,27.1%,12.5%,18.5%,38.1%,100.0% (1/1),1:01
 15-Jul-2019,Bucharest,3,Clay,QF,211,132,1,Q,,Martina Di Giuseppe,Barbora Krejcikova,6-4 6-4,1.29,10.2%,1.7%,66.1%,69.2%,40.0%,50.0% (3/6),55.6%,52.3%,1.5%,52.0%,53.3%,50.0% (5/10),1:22
 15-Jul-2019,Bucharest,3,Clay,R16,211,56,1,Q,3,Martina Di Giuseppe,Veronika Kudermetova,2-6 5-4 RET,0.78,1.9%,1.9%,60.4%,68.8%,47.6%,66.7% (4/6),45.0%,31.0%,15.5%,22.9%,43.5%,33.3% (1/3),1:22
 15-Jul-2019,Bucharest,3,Clay,R32,211,117,1,Q,,Martina Di Giuseppe,Varvara Lepchenko,3-6 6-1 7-6(3),1.13,3.3%,5.6%,55.6%,72.0%,47.5%,42.9% (3/7),51.8%,44.0%,2.8%,37.8%,57.1%,38.5% (5/13),2:19
@@ -153,7 +159,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-May-2019,W25 Grado,3,Clay,QF,186,204,1,,3,Martina Di Giuseppe,Kai Lin Zhang,7-6(2) 4-6 6-3,,,,,,,,,,,,,,
 27-May-2019,W25 Grado,3,Clay,R16,186,758,1,,,Martina Di Giuseppe,Dia Evtimova,7-5 6-2,,,,,,,,,,,,,,
 27-May-2019,W25 Grado,3,Clay,R32,186,630,1,,Q,Martina Di Giuseppe,Agnes Bukta,6-0 6-0,,,,,,,,,,,,,,
-27-May-2019,Roland Garros,5,Clay,Q1,186,159,0,,,Liudmila Samsonova,Martina Di Giuseppe,6-7(7) 7-5 7-6(2) (ch),0.84,10.1%,3.6%,46.0%,68.8%,41.3%,62.5% (10/16),46.9%,38.7%,9.2%,35.4%,42.6%,45.5% (5/11),3:04
+27-May-2019,Roland Garros,5,Clay,Q1,186,159,0,,,Liudmila Samsonova,Martina Di Giuseppe,6-7(7) 7-5 7-6(2),0.84,10.1%,3.6%,46.0%,68.8%,41.3%,62.5% (10/16),46.9%,38.7%,9.2%,35.4%,42.6%,45.5% (5/11),3:04
 13-May-2019,W60 Saint Gaudens,3,Clay,R32,166,131,0,,2,Ana Bogdan,Martina Di Giuseppe,6-3 6-1,,,,,,,,,,,,,,
 6-May-2019,W80 Cagnes Sur Mer,3,Clay,QF,177,130,0,Q,,Christina Mchale,Martina Di Giuseppe,7-6(3) 6-1,,,,,,,,,,,,,,
 6-May-2019,W80 Cagnes Sur Mer,3,Clay,R16,177,121,1,Q,,Martina Di Giuseppe,Anna Blinkova,7-6(8) 6-1,,,,,,,,,,,,,,

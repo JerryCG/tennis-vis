@@ -1,4 +1,99 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R16,107,148,0,7,,Dalma Galfi,Marina Bassols Ribera,1-0 RET,0.38,0.0%,50.0%,0.0%,-,0.0%,- (0/0),30.0%,37.5%,37.5%,16.7%,100.0%,0.0% (0/3),0:15
+1-Apr-2024,La Bisbal d'Emporda,3,Clay,R32,107,160,1,7,,Marina Bassols Ribera,Timea Babos,4-6 6-1 7-5,1.19,4.1%,5.5%,57.5%,57.1%,61.3%,50.0% (5/10),53.1%,49.0%,1.0%,42.6%,58.5%,50.0% (8/16),2:17
+18-Mar-2024,Miami,3,Hard,Q1,106,99,0,,22,Maria Timofeeva,Marina Bassols Ribera,6-1 6-2,0.60,0.0%,5.3%,63.2%,50.0%,32.1%,70.0% (14/20),40.2%,34.1%,7.3%,34.5%,33.3%,25.0% (1/4),1:20
+11-Mar-2024,Charleston 125,3,Hard,R16,107,60,0,Q,4,Elisabetta Cocciaretto,Marina Bassols Ribera,6-0 6-3,0.43,2.5%,12.5%,42.5%,29.4%,17.4%,0.0% (0/7),27.6%,33.3%,5.6%,28.6%,40.0%,100.0% (2/2),0:53
+11-Mar-2024,Charleston 125,3,Hard,R32,107,103,1,Q,,Marina Bassols Ribera,Alize Cornet,7-5 6-1,1.28,1.5%,10.3%,58.8%,57.5%,50.0%,60.0% (6/10),56.5%,58.6%,1.4%,54.5%,65.4%,57.1% (8/14),1:47
+11-Mar-2024,Charleston 125,3,Hard,Q2,107,138,1,,ALT,Marina Bassols Ribera,Taylah Preston,4-6 6-3 7-5,1.10,1.6%,8.9%,54.5%,64.2%,41.1%,72.7% (16/22),52.5%,51.1%,0.0%,49.2%,54.8%,57.1% (8/14),2:25
+11-Mar-2024,Charleston 125,3,Hard,Q1,107,379,1,,ALT,Marina Bassols Ribera,Sophie Chang,6-1 6-2,1.40,2.0%,4.1%,49.0%,70.8%,36.0%,25.0% (1/4),60.0%,65.6%,0.0%,53.8%,74.3%,53.3% (8/15),1:21
+6-Mar-2024,Indian Wells,3,Hard,Q1,107,199,0,24,WC,Robin Montgomery,Marina Bassols Ribera,6-4 6-4,0.73,2.4%,7.1%,58.8%,62.0%,45.7%,76.5% (13/17),46.4%,32.7%,10.9%,20.0%,48.0%,50.0% (2/4),1:38
+19-Feb-2024,W75 Porto,3,Hard,QF,107,203,0,1,,Suzan Lamens,Marina Bassols Ribera,5-7 7-6(5) 6-4,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R16,107,400,1,1,Q,Marina Bassols Ribera,Anouk Koevermans,6-2 7-5,,,,,,,,,,,,,,
+19-Feb-2024,W75 Porto,3,Hard,R32,107,1360,1,1,WC,Marina Bassols Ribera,Lena Couto,6-0 6-1,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,QF,110,246,0,3,,Julia Avdeeva,Marina Bassols Ribera,6-1 6-4,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R16,110,285,1,3,,Marina Bassols Ribera,Mona Barthel,6-4 6-2,,,,,,,,,,,,,,
+12-Feb-2024,W75 Altenkirchen,3,Carpet,R32,110,499,1,3,Q,Marina Bassols Ribera,Iva Primorac,7-5 7-6(5),,,,,,,,,,,,,,
+5-Feb-2024,Cluj-Napoca,3,Hard,R32,105,81,0,LL,,Jaqueline Cristian,Marina Bassols Ribera,6-3 6-2,0.45,2.1%,4.2%,43.8%,52.4%,51.9%,57.1% (4/7),36.4%,21.6%,7.8%,17.9%,26.1%,0.0% (0/4),1:18
+5-Feb-2024,Cluj-Napoca,3,Hard,Q2,105,188,0,2,,Sinja Kraus,Marina Bassols Ribera,7-6(4) 6-3,0.86,0.0%,8.0%,65.3%,46.9%,42.3%,50.0% (5/10),46.2%,46.9%,6.1%,33.3%,61.7%,50.0% (4/8),1:53
+5-Feb-2024,Cluj-Napoca,3,Hard,Q1,105,358,1,2,,Marina Bassols Ribera,Anna Siskova,6-4 6-2,1.42,4.6%,10.8%,53.8%,68.6%,43.3%,75.0% (9/12),58.8%,61.1%,1.9%,60.7%,61.5%,75.0% (6/8),1:19
+29-Jan-2024,Linz,3,Hard,Q2,106,153,0,10,,Lucrezia Stefanini,Marina Bassols Ribera,6-2 6-0,0.61,0.0%,0.0%,65.1%,25.0%,40.0%,30.0% (3/10),36.1%,42.5%,0.0%,43.3%,40.0%,66.7% (2/3),1:03
+29-Jan-2024,Linz,3,Hard,Q1,106,165,1,10,,Marina Bassols Ribera,Jil Teichmann,6-4 6-3,1.11,0.0%,2.2%,74.4%,58.2%,47.8%,86.7% (13/15),53.0%,49.2%,6.8%,51.4%,45.5%,44.4% (4/9),1:48
+22-Jan-2024,W75+H Porto,3,Hard,QF,111,164,0,1,,Jessica Bouzas Maneiro,Marina Bassols Ribera,6-4 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R16,111,327,1,1,Q,Marina Bassols Ribera,Alina Charaeva,4-6 7-6(3) 6-3,,,,,,,,,,,,,,
+22-Jan-2024,W75+H Porto,3,Hard,R32,111,185,1,1,,Marina Bassols Ribera,Natalija Stevanovic,6-4 6-1,,,,,,,,,,,,,,
+15-Jan-2024,Australian Open,5,Hard,Q2,111,166,0,4,,Simona Waltert,Marina Bassols Ribera,2-6 6-1 6-3,0.78,2.6%,5.3%,65.8%,58.0%,34.6%,45.5% (5/11),44.8%,39.1%,13.0%,37.0%,43.5%,44.4% (4/9),1:40
+15-Jan-2024,Australian Open,5,Hard,Q1,111,431,1,4,,Marina Bassols Ribera,Tara Wurth,6-0 6-2,1.93,2.3%,4.7%,53.5%,69.6%,70.0%,- (0/0),63.7%,58.3%,4.2%,58.1%,58.8%,38.5% (5/13),1:03
+27-Nov-2023,Andorra 125,3,Hard,F,145,140,1,6,,Marina Bassols Ribera,Erika Andreeva,7-5 7-6(3),1.08,0.0%,4.1%,67.0%,46.2%,50.0%,50.0% (7/14),51.9%,56.5%,4.3%,45.9%,77.4%,57.1% (8/14),2:30
+27-Nov-2023,Andorra 125,3,Hard,SF,145,118,1,6,8,Marina Bassols Ribera,Alize Cornet,6-4 6-2,1.19,0.0%,9.4%,66.0%,51.4%,50.0%,42.9% (3/7),55.1%,58.5%,0.0%,56.8%,61.9%,43.8% (7/16),1:47
+27-Nov-2023,Andorra 125,3,Hard,QF,145,,1,6,WC,Marina Bassols Ribera,Anastasija Sevastova,2-6 7-6(4) 6-4,0.94,1.0%,4.2%,63.5%,67.2%,45.7%,42.9% (3/7),49.5%,38.4%,1.2%,36.4%,41.9%,100.0% (3/3),2:06
+27-Nov-2023,Andorra 125,3,Hard,R16,145,479,1,6,ALT,Marina Bassols Ribera,Ekaterina Reyngold,6-3 6-2,1.37,2.8%,7.0%,64.8%,67.4%,44.0%,77.8% (7/9),57.9%,55.8%,0.0%,42.3%,76.5%,62.5% (5/8),1:20
+27-Nov-2023,Andorra 125,3,Hard,R32,145,178,1,6,,Marina Bassols Ribera,Noma Noha Akugue,6-3 7-5,1.21,0.0%,2.5%,72.2%,59.6%,54.5%,77.8% (7/9),54.5%,50.6%,3.9%,45.2%,57.1%,38.5% (5/13),1:45
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R16,112,328,0,7,Q,Lina Glushko,Marina Bassols Ribera,6-4 3-6 6-3,,,,,,,,,,,,,,
+23-Oct-2023,W100 Les Franqueses del Valles,3,Hard,R32,112,282,1,7,,Marina Bassols Ribera,Xinyu Gao,6-3 4-6 7-5,,,,,,,,,,,,,,
+16-Oct-2023,Monastir,3,Hard,R32,110,140,0,,WC,Petra Marcinko,Marina Bassols Ribera,7-6(7) 6-2,0.97,4.6%,7.7%,60.0%,64.1%,50.0%,33.3% (2/6),48.1%,40.4%,2.2%,35.0%,51.7%,14.3% (2/14),2:01
+9-Oct-2023,Rouen 125,3,Hard,R16,111,132,0,,,Nuria Parrizas Diaz,Marina Bassols Ribera,7-6(6) 4-6 6-2,0.89,2.9%,10.5%,69.5%,65.8%,28.1%,62.5% (10/16),47.8%,40.6%,2.1%,41.0%,40.0%,45.5% (5/11),2:31
+9-Oct-2023,Rouen 125,3,Hard,R32,111,73,1,,2,Marina Bassols Ribera,Clara Burel,7-5 6-4,1.12,1.3%,5.3%,64.5%,61.2%,44.4%,63.6% (7/11),52.4%,50.0%,2.2%,37.2%,61.7%,50.0% (6/12),1:56
+18-Sep-2023,Parma 125,3,Clay,R32,112,71,0,,2,Ana Bogdan,Marina Bassols Ribera,6-1 7-5,0.69,0.0%,4.7%,78.1%,54.0%,42.9%,42.9% (3/7),42.5%,33.3%,9.5%,31.9%,37.5%,16.7% (1/6),1:47
+11-Sep-2023,Ljubljana 125,3,Clay,F,132,177,1,5,,Marina Bassols Ribera,Zeynep Sonmez,6-0 7-6(2),1.39,0.0%,5.9%,69.1%,66.0%,42.9%,57.1% (4/7),58.1%,57.4%,0.0%,56.1%,60.0%,85.7% (6/7),1:20
+11-Sep-2023,Ljubljana 125,3,Clay,SF,132,201,1,5,,Marina Bassols Ribera,Miriam Bianca Bulgaru,7-5 7-5,1.15,0.0%,6.8%,71.2%,73.1%,23.8%,50.0% (4/8),52.5%,47.2%,2.2%,46.4%,48.5%,46.2% (6/13),2:09
+11-Sep-2023,Ljubljana 125,3,Clay,QF,132,290,1,5,,Marina Bassols Ribera,Lucija Ciric Bagaric,6-2 6-2,1.73,2.1%,4.2%,60.4%,72.4%,63.2%,75.0% (3/4),61.2%,54.0%,0.0%,47.8%,59.3%,55.6% (5/9),1:15
+11-Sep-2023,Ljubljana 125,3,Clay,R16,132,284,1,5,,Marina Bassols Ribera,Sapfo Sakellaridi,6-4 6-3,1.34,3.6%,5.5%,61.8%,79.4%,52.4%,100.0% (1/1),54.2%,41.5%,4.6%,25.0%,62.1%,50.0% (3/6),1:28
+11-Sep-2023,Ljubljana 125,3,Clay,R32,132,252,1,5,,Marina Bassols Ribera,Lola Radivojevic,1-6 6-1 7-6(5),1.01,1.1%,5.7%,65.9%,51.7%,46.7%,40.0% (4/10),50.3%,50.6%,7.1%,38.3%,65.8%,75.0% (6/8),2:14
+4-Sep-2023,Bari 125,3,Clay,R32,136,251,0,7,,Jana Fett,Marina Bassols Ribera,6-3 6-3,0.82,0.0%,7.0%,61.4%,45.7%,31.8%,30.0% (3/10),44.5%,49.1%,3.8%,39.5%,73.3%,66.7% (4/6),1:26
+28-Aug-2023,US Open,5,Hard,Q3,136,114,0,32,15,Yafan Wang,Marina Bassols Ribera,6-2 6-2,0.48,2.5%,10.0%,60.0%,45.8%,31.3%,16.7% (1/6),34.1%,28.6%,21.4%,14.8%,53.3%,33.3% (1/3),1:01
+28-Aug-2023,US Open,5,Hard,Q2,136,923,1,32,WC,Marina Bassols Ribera,Valerie Glozman,6-7(2) 6-3 6-1,1.15,0.0%,4.0%,69.0%,52.2%,48.4%,57.1% (8/14),53.8%,56.4%,0.0%,55.1%,59.4%,45.5% (10/22),2:43
+28-Aug-2023,US Open,5,Hard,Q1,136,157,1,32,,Marina Bassols Ribera,Arina Rodionova,5-7 7-6(8) 6-4,0.96,0.8%,4.0%,65.1%,57.3%,36.4%,53.3% (8/15),49.0%,47.8%,2.7%,45.8%,51.2%,43.8% (7/16),3:07
+14-Aug-2023,Stanford 125,3,Hard,R16,137,136,0,,,Zhuoxuan Bai,Marina Bassols Ribera,6-4 6-2,0.91,3.1%,6.2%,58.5%,60.5%,44.4%,50.0% (4/8),47.2%,41.8%,2.5%,35.7%,48.6%,8.3% (1/12),1:52
+14-Aug-2023,Stanford 125,3,Hard,R32,137,155,1,,,Marina Bassols Ribera,Elizabeth Mandlik,6-7(5) 6-4 7-6(4),1.08,0.8%,2.4%,56.5%,61.4%,55.6%,58.3% (7/12),52.1%,44.5%,6.4%,30.8%,56.9%,46.2% (6/13),2:59
+7-Aug-2023,Montreal,3,Hard,Q2,140,76,0,,8,Katie Boulter,Marina Bassols Ribera,6-2 6-2,0.47,0.0%,0.0%,54.0%,44.4%,56.5%,42.9% (3/7),37.6%,23.3%,25.6%,7.4%,50.0%,- (0/0),1:10
+7-Aug-2023,Montreal,3,Hard,Q1,140,94,1,,11,Marina Bassols Ribera,Jodie Burrage,7-5 6-4,1.20,1.3%,3.9%,70.1%,59.3%,52.2%,60.0% (6/10),54.5%,51.5%,7.6%,39.4%,63.6%,66.7% (6/9),1:35
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R16,135,229,0,3,,Yuriko Miyazaki,Marina Bassols Ribera,4-6 6-4 7-5,,,,,,,,,,,,,,
+24-Jul-2023,W100 Figueira De Foz,3,Hard,R32,135,244,1,3,Q,Marina Bassols Ribera,Eudice Wong Chong,6-2 7-5,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,QF,134,155,0,4,6,Daria Snigur,Marina Bassols Ribera,6-1 6-3,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R16,134,552,1,4,Q,Marina Bassols Ribera,Lia Karatancheva,6-2 6-2,,,,,,,,,,,,,,
+17-Jul-2023,W100 Vitoria-Gasteiz,3,Hard,R32,134,867,1,4,SR,Marina Bassols Ribera,Sesil Karatantcheva,6-3 6-1,,,,,,,,,,,,,,
+3-Jul-2023,Wimbledon,5,Grass,Q3,131,225,0,25,,Natalija Stevanovic,Marina Bassols Ribera,7-5 7-5,0.90,1.2%,2.4%,60.7%,43.1%,54.5%,56.3% (9/16),47.5%,47.4%,7.9%,35.7%,61.8%,45.5% (5/11),2:05
+3-Jul-2023,Wimbledon,5,Grass,Q2,131,159,1,25,,Marina Bassols Ribera,Eva Lys,6-2 6-4,1.22,1.3%,3.8%,61.5%,60.4%,53.3%,83.3% (10/12),55.0%,51.6%,4.8%,48.9%,60.0%,71.4% (5/7),1:27
+3-Jul-2023,Wimbledon,5,Grass,Q1,131,205,1,25,,Marina Bassols Ribera,Lucie Havlickova,7-6(4) 6-3,1.08,0.0%,3.6%,67.9%,63.2%,48.1%,57.1% (4/7),52.8%,45.0%,11.7%,27.5%,80.0%,66.7% (4/6),1:38
+19-Jun-2023,Gaiba 125,3,Grass,R32,129,93,0,,3,Ysaline Bonaventure,Marina Bassols Ribera,6-7(4) 6-2 6-4,0.86,0.9%,4.5%,65.5%,58.3%,47.4%,56.3% (9/16),47.1%,39.0%,11.0%,30.4%,50.0%,36.4% (4/11),1:58
+12-Jun-2023,Valencia 125,3,Clay,F,130,40,0,,1,Mayar Sherif,Marina Bassols Ribera,6-3 6-3,0.66,1.4%,2.9%,52.2%,47.2%,48.5%,58.3% (7/12),41.9%,34.5%,1.8%,25.0%,52.6%,33.3% (2/6),1:39
+12-Jun-2023,Valencia 125,3,Clay,SF,130,124,1,,,Marina Bassols Ribera,Tamara Korpatsch,3-6 6-3 6-1,1.17,0.0%,2.9%,64.7%,63.6%,41.7%,50.0% (4/8),53.3%,51.5%,0.0%,47.5%,57.5%,43.8% (7/16),2:15
+12-Jun-2023,Valencia 125,3,Clay,QF,130,69,1,,3,Marina Bassols Ribera,Sara Errani,7-6(7) 6-4,1.02,0.0%,10.4%,61.0%,53.2%,23.3%,36.4% (4/11),50.9%,59.5%,0.0%,56.5%,73.3%,57.1% (8/14),2:07
+12-Jun-2023,Valencia 125,3,Clay,R16,130,345,1,,LL,Marina Bassols Ribera,Guiomar Maristany Zuleta De Reales,6-4 6-4,1.15,2.7%,6.8%,63.5%,68.1%,44.4%,50.0% (2/4),53.8%,46.6%,1.7%,40.0%,56.5%,80.0% (4/5),1:47
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R16,130,101,0,,4,Caroline Dolehide,Marina Bassols Ribera,6-4 6-3,,,,,,,,,,,,,,
+5-Jun-2023,La Bisbal d'Emporda 125,3,Clay,R32,130,233,1,,,Marina Bassols Ribera,Katharina Hobgarski,6-4 6-1,,,,,,,,,,,,,,
+29-May-2023,Roland Garros,5,Clay,Q1,130,170,0,16,,Sachia Vickery,Marina Bassols Ribera,2-6 7-6(1) 6-0,0.90,0.0%,7.6%,51.9%,68.3%,34.2%,14.3% (1/7),47.1%,43.2%,2.1%,36.0%,51.1%,45.5% (5/11),
+15-May-2023,W100 Madrid,3,Clay,R32,124,138,0,8,,Olga Danilovic,Marina Bassols Ribera,6-2 6-0,,,,,,,,,,,,,,
+8-May-2023,Rome,3,Clay,Q2,124,93,0,16,5,Anna Bondar,Marina Bassols Ribera,6-0 6-7(6) 6-3,0.71,2.5%,8.8%,67.5%,51.9%,38.5%,30.0% (3/10),42.3%,37.5%,2.3%,26.3%,58.1%,60.0% (3/5),2:16
+8-May-2023,Rome,3,Clay,Q1,124,167,1,16,,Marina Bassols Ribera,Katrina Scott,1-6 6-4 6-3,1.02,1.1%,4.3%,72.8%,56.7%,52.0%,37.5% (3/8),50.5%,45.6%,2.2%,45.3%,46.2%,41.7% (5/12),2:10
+1-May-2023,Reus 125,3,Clay,R32,119,104,0,,,Nadia Podoroska,Marina Bassols Ribera,6-4 6-2,0.79,0.0%,9.6%,50.0%,61.5%,34.6%,37.5% (3/8),44.1%,40.9%,0.0%,40.5%,41.7%,25.0% (2/8),1:42
+24-Apr-2023,Madrid,3,Clay,R128,119,80,0,WC,Q,Marketa Vondrousova,Marina Bassols Ribera,6-1 6-3,0.70,0.0%,4.4%,51.1%,47.8%,40.9%,16.7% (1/6),41.1%,38.7%,3.2%,35.7%,45.0%,16.7% (1/6),1:14
+3-Apr-2023,Bogota,3,Clay,R32,122,224,0,,Q,Natalija Stevanovic,Marina Bassols Ribera,7-6(1) 7-5,0.85,1.2%,8.5%,62.2%,60.8%,32.3%,16.7% (1/6),46.2%,42.7%,3.4%,35.3%,52.6%,44.4% (4/9),2:12
+20-Mar-2023,Miami,3,Hard,Q1,124,112,0,,22,Tamara Zidansek,Marina Bassols Ribera,7-6(2) 6-0,0.83,3.5%,5.3%,52.6%,46.7%,37.0%,22.2% (2/9),45.7%,48.1%,3.7%,42.4%,63.6%,33.3% (4/12),1:30
+6-Mar-2023,Indian Wells,3,Hard,Q1,122,99,0,,15,Anna Lena Friedsam,Marina Bassols Ribera,6-1 6-0,0.50,2.7%,4.1%,66.2%,49.0%,36.0%,64.3% (9/14),38.5%,27.9%,7.0%,16.1%,58.3%,0.0% (0/2),1:25
+27-Feb-2023,Monterrey,3,Hard,R32,124,49,0,LL,8,Elisabetta Cocciaretto,Marina Bassols Ribera,7-5 6-2,0.87,1.5%,5.9%,55.9%,52.6%,46.7%,50.0% (6/12),46.9%,43.5%,1.6%,43.6%,43.5%,50.0% (3/6),1:38
+27-Feb-2023,Monterrey,3,Hard,Q2,124,150,0,5,11,Despina Papamichail,Marina Bassols Ribera,6-4 6-4,0.80,1.7%,5.0%,61.7%,62.2%,47.8%,50.0% (4/8),45.8%,34.5%,1.7%,38.5%,26.3%,100.0% (2/2),1:29
+27-Feb-2023,Monterrey,3,Hard,Q1,124,270,1,5,WC,Marina Bassols Ribera,Renata Zarazua,6-4 2-6 6-4,1.05,2.4%,2.4%,58.5%,68.8%,61.8%,50.0% (2/4),50.3%,36.0%,6.7%,28.8%,45.9%,20.0% (2/10),2:04
+20-Feb-2023,Merida,3,Hard,Q1,126,143,0,7,,Ana Konjuh,Marina Bassols Ribera,7-5 7-5,0.82,0.0%,6.8%,66.2%,57.1%,40.0%,50.0% (5/10),45.3%,40.0%,16.5%,14.6%,63.6%,33.3% (3/9),1:42
+6-Feb-2023,Linz,3,Hard,R32,128,34,0,Q,6,Petra Martic,Marina Bassols Ribera,6-1 7-5,0.57,0.0%,3.8%,62.3%,51.5%,50.0%,20.0% (1/5),39.3%,27.8%,20.4%,16.0%,37.9%,33.3% (1/3),1:21
+6-Feb-2023,Linz,3,Hard,Q2,128,234,1,11,,Marina Bassols Ribera,Noma Noha Akugue,6-4 3-6 6-3,1.07,0.0%,3.3%,54.4%,59.2%,48.8%,33.3% (3/9),51.3%,48.6%,1.8%,46.7%,52.9%,35.0% (7/20),2:00
+6-Feb-2023,Linz,3,Hard,Q1,128,519,1,11,,Marina Bassols Ribera,Miriam Kolodziejova,6-1 6-4,1.28,3.8%,7.5%,64.2%,67.6%,36.8%,40.0% (2/5),56.1%,55.7%,3.3%,55.6%,56.0%,50.0% (6/12),1:14
+30-Jan-2023,Lyon,3,Hard,R32,124,43,0,Q,5,Anastasia Potapova,Marina Bassols Ribera,4-6 6-1 6-2,0.79,0.0%,3.0%,50.0%,44.0%,48.0%,63.2% (12/19),44.3%,42.6%,3.2%,41.7%,44.1%,30.8% (4/13),2:14
+30-Jan-2023,Lyon,3,Hard,Q2,124,105,1,,9,Marina Bassols Ribera,Sara Errani,6-2 6-4,1.26,2.0%,5.9%,64.7%,45.5%,50.0%,37.5% (3/8),56.9%,66.7%,0.0%,68.6%,62.5%,66.7% (8/12),1:07
+30-Jan-2023,Lyon,3,Hard,Q1,124,83,1,,6,Marina Bassols Ribera,Varvara Gracheva,6-3 6-1,2.25,5.1%,2.6%,56.4%,86.4%,58.8%,0.0% (0/1),64.8%,57.7%,5.8%,45.9%,86.7%,62.5% (5/8),0:59
+23-Jan-2023,W60 Sunderland,3,Hard,R32,,,0,1,Q,Elena Malygina,Marina Bassols Ribera,6-7(5) 6-3 6-3,,,,,,,,,,,,,,
+16-Jan-2023,Australian Open,5,Hard,Q2,122,151,0,18,,Kristina Mladenovic,Marina Bassols Ribera,6-2 6-7(8) 7-5,0.92,0.9%,9.0%,65.8%,60.3%,36.8%,45.5% (5/11),47.5%,44.0%,3.3%,36.2%,57.1%,25.0% (3/12),3:23
+16-Jan-2023,Australian Open,5,Hard,Q1,122,200,1,18,,Marina Bassols Ribera,Valentini Grammatikopoulou,6-2 6-1,1.52,0.0%,10.0%,72.5%,62.1%,54.5%,66.7% (4/6),60.6%,60.9%,1.4%,55.3%,72.7%,50.0% (7/14),1:10
+21-Nov-2022,W80+H Valencia,3,Clay,F,162,141,1,,,Marina Bassols Ribera,Ylena In Albon,6-4 6-0,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,SF,162,82,1,,1,Marina Bassols Ribera,Tamara Korpatsch,6-3 6-1,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,QF,162,177,1,,,Marina Bassols Ribera,Leyre Romero Gormaz,6-0 7-5,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R16,162,225,1,,,Marina Bassols Ribera,Carole Monnet,6-2 6-1,,,,,,,,,,,,,,
+21-Nov-2022,W80+H Valencia,3,Clay,R32,162,317,1,,Q,Marina Bassols Ribera,Iryna Shymanovich,4-6 6-0 6-2,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,QF,159,150,0,,7,Ylena In Albon,Marina Bassols Ribera,6-2 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R16,159,456,1,,Q,Marina Bassols Ribera,Diletta Cherubini,3-6 6-2 6-3,,,,,,,,,,,,,,
+14-Nov-2022,W80 Madrid,3,Clay,R32,159,407,1,,Q,Marina Bassols Ribera,Andreea Prisacariu,6-1 6-1,,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R16,163,142,0,,,Lucrezia Stefanini,Marina Bassols Ribera,7-5 7-6(2),,,,,,,,,,,,,,
+31-Oct-2022,W60 Nantes,3,Hard,R32,163,488,1,,Q,Marina Bassols Ribera,Ines Ibbou,6-2 6-3,,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,R16,165,129,0,,,Erika Andreeva,Marina Bassols Ribera,6-1 3-6 7-6(2),,,,,,,,,,,,,,
 24-Oct-2022,W100 Les Franqueses del Valles,3,Hard,R32,165,96,1,,5,Marina Bassols Ribera,Elena Gabriela Ruse,6-2 6-2,,,,,,,,,,,,,,
 3-Oct-2022,Monastir,3,Hard,R32,172,101,0,Q,,Tamara Zidansek,Marina Bassols Ribera,5-7 6-3 7-5,0.94,0.0%,7.4%,63.9%,60.9%,43.6%,46.2% (6/13),48.4%,42.6%,0.0%,37.3%,50.0%,35.7% (5/14),2:42
@@ -22,7 +117,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 18-Jul-2022,Palermo,3,Clay,R32,211,45,0,Q,6,Irina Camelia Begu,Marina Bassols Ribera,6-3 4-6 6-3,0.84,0.0%,4.3%,63.8%,55.0%,55.9%,61.5% (8/13),46.7%,37.5%,2.3%,33.3%,46.4%,42.9% (3/7),2:26
 18-Jul-2022,Palermo,3,Clay,Q2,211,171,1,ALT,,Marina Bassols Ribera,Despina Papamichail,6-2 6-1,2.25,2.5%,0.0%,70.0%,82.1%,58.3%,- (0/0),64.8%,56.3%,2.1%,50.0%,66.7%,62.5% (5/8),1:11
 18-Jul-2022,Palermo,3,Clay,Q1,211,594,1,ALT,WC,Marina Bassols Ribera,Dalila Spiteri,6-2 6-3,1.58,2.6%,10.3%,61.5%,70.8%,53.3%,0.0% (0/2),59.8%,56.9%,1.7%,55.3%,60.0%,54.5% (6/11),1:08
-11-Jul-2022,Budapest,3,Clay,R32,226,130,0,LL,Q,Bernarda Pera,Marina Bassols Ribera,6-2 7-5 (ch),0.72,0.0%,3.2%,69.8%,50.0%,52.6%,42.9% (3/7),42.6%,35.6%,5.5%,31.8%,41.4%,25.0% (1/4),1:46
+11-Jul-2022,Budapest,3,Clay,R32,226,130,0,LL,Q,Bernarda Pera,Marina Bassols Ribera,6-2 7-5,0.72,0.0%,3.2%,69.8%,50.0%,52.6%,42.9% (3/7),42.6%,35.6%,5.5%,31.8%,41.4%,25.0% (1/4),1:46
 11-Jul-2022,Budapest,3,Clay,Q2,226,357,0,,,Fanny Stollar,Marina Bassols Ribera,6-1 6-4,0.74,0.0%,11.1%,71.1%,56.3%,30.8%,20.0% (1/5),42.7%,37.9%,5.2%,38.2%,37.5%,25.0% (1/4),1:20
 11-Jul-2022,Budapest,3,Clay,Q1,226,208,1,,11,Marina Bassols Ribera,Yuliya Hatouka,0-6 7-5 6-4,0.96,0.0%,14.3%,53.8%,55.1%,38.1%,55.6% (10/18),49.0%,50.4%,2.7%,44.4%,61.0%,38.9% (7/18),2:13
 27-Jun-2022,W25+H Palma del Rio,3,Hard,F,263,222,1,5,2,Marina Bassols Ribera,Jessika Ponchet,5-7 6-4 6-3,,,,,,,,,,,,,,
@@ -30,6 +125,8 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jun-2022,W25+H Palma del Rio,3,Hard,QF,263,201,1,5,3,Marina Bassols Ribera,Nigina Abduraimova,6-4 6-3,,,,,,,,,,,,,,
 27-Jun-2022,W25+H Palma del Rio,3,Hard,R16,263,319,1,5,,Marina Bassols Ribera,Sohyun Park,6-3 6-4,,,,,,,,,,,,,,
 27-Jun-2022,W25+H Palma del Rio,3,Hard,R32,263,,1,5,WC,Marina Bassols Ribera,Ivana Loncar Antic,6-1 6-0,,,,,,,,,,,,,,
+13-Jun-2022,W60 Madrid,3,Hard,F,321,413,1,14,,Marina Bassols Ribera,Alexandra Eala,6-4 7-5,,,,,,,,,,,,,,
+13-Jun-2022,W60 Madrid,3,Hard,SF,321,462,1,14,,Marina Bassols Ribera,Adithya Karunaratne,6-1 6-3,,,,,,,,,,,,,,
 13-Jun-2022,W60 Madrid,3,Hard,QF,321,263,1,14,6,Marina Bassols Ribera,Timea Babos,7-6(5) 6-2,,,,,,,,,,,,,,
 13-Jun-2022,W60 Madrid,3,Hard,R16,321,335,1,14,,Marina Bassols Ribera,Guiomar Maristany Zuleta De Reales,7-6(4) 6-4,,,,,,,,,,,,,,
 13-Jun-2022,W60 Madrid,3,Hard,R32,321,688,1,14,WC,Marina Bassols Ribera,Lucia Cortez Llorca,6-4 6-1,,,,,,,,,,,,,,
@@ -52,7 +149,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 28-Feb-2022,W25 Santo Domingo,3,Hard,R16,291,425,0,9,,Salma Djoubri,Marina Bassols Ribera,6-2 6-2,,,,,,,,,,,,,,
 28-Feb-2022,W25 Santo Domingo,3,Hard,R32,291,417,1,9,,Marina Bassols Ribera,Lisa Pigato,1-6 6-3 6-2,,,,,,,,,,,,,,
 21-Feb-2022,W25 Santo Domingo,3,Hard,QF,291,270,0,13,10,Maja Chwalinska,Marina Bassols Ribera,6-3 7-5,,,,,,,,,,,,,,
-21-Feb-2022,W25 Santo Domingo,3,Hard,R16,291,253,1,13,4,Marina Bassols Ribera,Maria Carle,7-6(5) 6-0,,,,,,,,,,,,,,
+21-Feb-2022,W25 Santo Domingo,3,Hard,R16,291,253,1,13,4,Marina Bassols Ribera,Maria Lourdes Carle,7-6(5) 6-0,,,,,,,,,,,,,,
 21-Feb-2022,W25 Santo Domingo,3,Hard,R32,291,995,1,13,Q,Marina Bassols Ribera,Anna Sinclair Rogers,6-3 6-4,,,,,,,,,,,,,,
 7-Feb-2022,W25 Sharm ElSheikh,3,Hard,R16,294,198,0,,4,Alexandra Cadantu Ignatik,Marina Bassols Ribera,6-1 3-6 6-1,,,,,,,,,,,,,,
 7-Feb-2022,W25 Sharm ElSheikh,3,Hard,R32,294,670,1,,Q,Marina Bassols Ribera,Anhzelika Isaeva,6-1 6-4,,,,,,,,,,,,,,
@@ -67,7 +164,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Oct-2021,W80+H Les Franqueses del Valles,3,Hard,R32,293,160,0,WC,7,Arina Rodionova,Marina Bassols Ribera,6-3 6-3,,,,,,,,,,,,,,
 18-Oct-2021,Tenerife,3,Hard,Q1,292,146,0,WC,9,Ysaline Bonaventure,Marina Bassols Ribera,6-3 1-6 6-4,1.06,1.2%,4.9%,46.9%,65.8%,44.2%,45.5% (5/11),51.2%,48.3%,3.4%,28.9%,62.7%,60.0% (6/10),1:55
 4-Oct-2021,W25 Loule,3,Hard,QF,294,236,0,,6,Ellen Perez,Marina Bassols Ribera,6-3 5-7 6-2,,,,,,,,,,,,,,
-4-Oct-2021,W25 Loule,3,Hard,R16,294,156,1,,2,Marina Bassols Ribera,Viktoria Kuzmova,6-3 6-3,,,,,,,,,,,,,,
+4-Oct-2021,W25 Loule,3,Hard,R16,294,156,1,,2,Marina Bassols Ribera,Viktoria Hruncakova,6-3 6-3,,,,,,,,,,,,,,
 4-Oct-2021,W25 Loule,3,Hard,R32,294,360,1,,,Marina Bassols Ribera,Jessica Bouzas Maneiro,6-1 4-6 6-4,,,,,,,,,,,,,,
 27-Sep-2021,W25 Lisbon,3,Clay,R16,291,338,0,,Q,Ipek Oz,Marina Bassols Ribera,6-1 6-1,,,,,,,,,,,,,,
 27-Sep-2021,W25 Lisbon,3,Clay,R32,291,,1,,WC,Marina Bassols Ribera,Carolina Azadinho,6-2 6-1,,,,,,,,,,,,,,
@@ -127,14 +224,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,W25 Grenoble,3,Hard,Q1,366,345,0,,16,Yuriko Miyazaki,Marina Bassols Ribera,4-6 6-3 10-8,,,,,,,,,,,,,,
 25-Jan-2021,W60 Andrezieux-Boutheon,3,Hard,Q1,364,284,0,,15,Susan Bandecchi,Marina Bassols Ribera,6-2 6-1,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,QF,371,,0,Q,WC,Noma Noha Akugue,Marina Bassols Ribera,6-0 6-4,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,QF,371,,0,Q,WC,Noma Noha Akugue,Marina Bassols Ribera,6-0 6-4,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R16,371,271,1,Q,7,Marina Bassols Ribera,Kathinka Von Deichmann,6-7(6) 6-0 6-3,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R16,371,271,1,Q,7,Marina Bassols Ribera,Kathinka Von Deichmann,6-7(6) 6-0 6-3,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,R32,371,278,1,Q,,Marina Bassols Ribera,Despina Papamichail,6-2 6-7(2) 6-1,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,R32,371,278,1,Q,,Marina Bassols Ribera,Despina Papamichail,6-2 6-7(2) 6-1,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,Q2,371,406,1,5,11,Marina Bassols Ribera,Shiho Akita,6-4 6-3,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,Q2,371,406,1,5,11,Marina Bassols Ribera,Shiho Akita,6-4 6-3,,,,,,,,,,,,,,
-11-Jan-2021,W25 Hamburg,3,Hard,Q1,371,552,1,5,,Marina Bassols Ribera,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 11-Jan-2021,W25 Hamburg,3,Hard,Q1,371,552,1,5,,Marina Bassols Ribera,Tereza Mihalikova,6-2 6-2,,,,,,,,,,,,,,
 23-Nov-2020,W15 Las Palmas de Gran Canaria,3,Clay,R16,370,684,0,,,Oksana Selekhmeteva,Marina Bassols Ribera,4-6 6-2 6-1,,,,,,,,,,,,,,
 23-Nov-2020,W15 Las Palmas de Gran Canaria,3,Clay,R32,370,334,1,,7,Marina Bassols Ribera,Irene Burillo Escorihuela,6-4 6-0,,,,,,,,,,,,,,

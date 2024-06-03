@@ -1,4 +1,4 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,Time
 29-Aug-2022,US Open,5,Hard,Q1,253,151,0,,,Ysaline Bonaventure,Christina Mchale,6-3 6-1,0.70,0.0%,9.4%,58.5%,41.9%,36.4%,33.3% (3/9),41.0%,42.3%,3.8%,32.3%,57.1%,40.0% (2/5),1:08
 15-Aug-2022,W60 Bronx NY,3,Hard,Q1,252,141,0,WC,3,Yue Yuan,Christina Mchale,6-2 6-2,,,,,,,,,,,,,,
 8-Aug-2022,Toronto,3,Hard,Q2,251,64,0,ALT,4,Madison Brengle,Christina Mchale,6-3 6-2,0.69,0.0%,9.3%,57.4%,45.2%,30.4%,33.3% (3/9),40.4%,42.0%,2.0%,40.0%,46.7%,75.0% (3/4),1:17
@@ -11,9 +11,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Jun-2022,Wimbledon,5,Grass,Q2,261,158,1,,30,Christina Mchale,Viktoria Kuzmova,6-3 6-4,1.24,4.2%,4.2%,76.1%,66.7%,47.1%,83.3% (10/12),55.6%,47.2%,7.5%,33.3%,65.2%,80.0% (4/5),1:24
 27-Jun-2022,Wimbledon,5,Grass,Q1,261,,1,,,Christina Mchale,Laura Ioana Andrei,2-6 6-4 6-4,1.07,1.1%,4.6%,63.2%,63.6%,43.8%,37.5% (3/8),51.4%,46.8%,2.1%,41.0%,57.6%,45.5% (5/11),2:16
 13-Jun-2022,W100 Ilkley,3,Grass,Q1,241,711,0,5,,Alexandra Osborne,Christina Mchale,7-6(5) 6-4,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q3,261,187,0,,,Valentini Grammatikopoulou,Christina Mchale,6-3 6-3,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q2,261,201,1,,,Christina Mchale,Carolina Alves,7-6(4) 6-2,,,,,,,,,,,,,,
-23-May-2022,Roland Garros,5,Clay,Q1,261,137,1,,27,Christina Mchale,Lesley Pattinama Kerkhove,6-3 6-2,,,,,,,,,,,,,,
+23-May-2022,Roland Garros,5,Clay,Q3,261,187,0,,,Valentini Grammatikopoulou,Christina Mchale,6-3 6-3,0.82,0.0%,2.1%,72.9%,57.1%,46.2%,20.0% (1/5),44.4%,37.7%,0.0%,30.4%,69.2%,16.7% (1/6),
+23-May-2022,Roland Garros,5,Clay,Q2,261,201,1,,,Christina Mchale,Carolina Alves,7-6(4) 6-2,1.37,0.0%,4.9%,77.0%,70.2%,28.6%,40.0% (2/5),57.3%,54.0%,0.0%,51.9%,66.7%,83.3% (5/6),
+23-May-2022,Roland Garros,5,Clay,Q1,261,137,1,,27,Christina Mchale,Lesley Pattinama Kerkhove,6-3 6-2,1.30,1.3%,3.9%,63.6%,61.2%,50.0%,87.5% (14/16),56.4%,55.6%,1.6%,52.5%,60.9%,31.3% (5/16),
 9-May-2022,Paris 125,3,Clay,R32,210,202,0,ALT,WC,Linda Fruhvirtova,Christina Mchale,6-1 6-2,0.56,0.0%,12.5%,68.8%,39.4%,33.3%,25.0% (2/8),36.3%,34.9%,4.7%,25.9%,50.0%,50.0% (2/4),1:02
 4-Apr-2022,Charleston,3,Clay,Q1,156,,0,2,,Nadiya Kichenok,Christina Mchale,6-3 4-6 6-4,0.93,1.1%,3.3%,71.7%,60.6%,34.6%,40.0% (4/10),48.2%,43.6%,6.9%,40.0%,50.0%,45.5% (5/11),2:10
 21-Mar-2022,Miami,3,Hard,Q2,163,107,0,WC,15,Dalma Galfi,Christina Mchale,2-6 6-4 6-2,0.93,0.0%,1.1%,68.2%,55.0%,57.1%,63.6% (7/11),48.6%,41.4%,12.6%,36.5%,54.2%,27.3% (3/11),2:04
@@ -41,7 +41,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 9-Aug-2021,Montreal,3,Hard,Q1,104,744,1,12,,Christina Mchale,Raphaelle Lacasse,6-0 6-1,3.10,0.0%,3.3%,66.7%,80.0%,80.0%,- (0/0),69.4%,61.9%,9.5%,65.0%,59.1%,66.7% (6/9),0:53
 2-Aug-2021,Concord,3,Hard,R32,101,166,0,6,,Cristina Bucsa,Christina Mchale,6-4 6-3,0.77,4.8%,4.8%,59.7%,40.5%,52.0%,25.0% (2/8),43.9%,42.3%,5.8%,36.7%,50.0%,50.0% (3/6),1:18
 28-Jun-2021,Wimbledon,5,Grass,R128,97,82,0,,,Madison Brengle,Christina Mchale,3-6 7-5 10-8,0.86,0.8%,5.3%,65.9%,65.5%,40.0%,57.1% (8/14),47.8%,37.2%,0.0%,34.1%,50.0%,50.0% (5/10),2:40
-21-Jun-2021,Eastbourne,3,Grass,R32,96,7,0,Q,3,Bianca Andreescu,Christina Mchale,6-4 2-6 6-2 (ch),0.85,1.1%,6.8%,68.2%,58.3%,42.9%,61.5% (8/13),47.0%,39.7%,1.3%,32.0%,53.6%,50.0% (4/8),2:04
+21-Jun-2021,Eastbourne,3,Grass,R32,96,7,0,Q,3,Bianca Andreescu,Christina Mchale,6-4 2-6 6-2,0.85,1.1%,6.8%,68.2%,58.3%,42.9%,61.5% (8/13),47.0%,39.7%,1.3%,32.0%,53.6%,50.0% (4/8),2:04
 21-Jun-2021,Eastbourne,3,Grass,Q2,96,61,1,,6,Christina Mchale,Anastasija Sevastova,3-6 6-3 7-5,1.13,2.0%,3.0%,66.3%,62.7%,58.8%,66.7% (8/12),52.1%,43.8%,3.6%,31.3%,60.4%,27.8% (5/18),2:26
 21-Jun-2021,Eastbourne,3,Grass,Q1,96,99,1,,ALT,Christina Mchale,Lin Zhu,6-1 6-1,2.01,4.3%,2.2%,60.9%,85.7%,50.0%,100.0% (4/4),63.9%,56.9%,0.0%,54.8%,60.0%,45.5% (5/11),1:08
 14-Jun-2021,W100+H Nottingham,3,Grass,R32,96,140,0,4,,Xiyu Wang,Christina Mchale,6-3 7-6(7),,,,,,,,,,,,,,
@@ -64,7 +64,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Feb-2021,Australian Open,5,Hard,R128,84,45,0,,,Nadia Podoroska,Christina Mchale,6-4 6-4,0.85,0.0%,4.4%,64.7%,50.0%,33.3%,50.0% (6/12),45.7%,47.5%,3.4%,44.4%,52.2%,66.7% (4/6),1:36
 3-Feb-2021,Grampians Trophy,3,Hard,R32,82,23,0,,6,Anett Kontaveit,Christina Mchale,6-1 6-3,0.79,3.3%,3.3%,48.3%,55.2%,41.9%,50.0% (5/10),44.3%,40.8%,7.0%,34.8%,52.0%,16.7% (1/6),1:28
 28-Sep-2020,Roland Garros,5,Clay,R64,82,59,0,,,Patricia Maria Tig,Christina Mchale,6-4 6-3,0.78,0.0%,3.5%,75.4%,58.1%,42.9%,25.0% (1/4),44.1%,35.7%,2.9%,36.2%,34.8%,16.7% (1/6),1:36
-28-Sep-2020,Roland Garros,5,Clay,R128,82,26,1,,22,Christina Mchale,Karolina Muchova,6-2 6-4 (ch),1.44,1.8%,7.0%,78.9%,66.7%,50.0%,0.0% (0/2),57.9%,53.1%,1.6%,51.3%,56.0%,55.6% (5/9),1:26
+28-Sep-2020,Roland Garros,5,Clay,R128,82,26,1,,22,Christina Mchale,Karolina Muchova,6-2 6-4,1.44,1.8%,7.0%,78.9%,66.7%,50.0%,0.0% (0/2),57.9%,53.1%,1.6%,51.3%,56.0%,55.6% (5/9),1:26
 21-Sep-2020,Strasbourg,3,Clay,R32,81,76,0,Q,,Zarina Diyas,Christina Mchale,6-7(4) 7-5 7-6(3),0.98,1.5%,4.6%,69.2%,54.4%,42.5%,47.1% (8/17),49.4%,48.1%,0.0%,47.1%,51.6%,38.1% (8/21),3:08
 21-Sep-2020,Strasbourg,3,Clay,Q1,81,294,1,2,WC,Christina Mchale,Myrtille Georges,6-4 6-1,1.45,0.0%,3.9%,54.9%,60.7%,52.2%,50.0% (3/6),59.8%,62.5%,0.0%,48.6%,89.5%,50.0% (7/14),1:06
 14-Sep-2020,Rome,3,Clay,Q1,79,131,0,8,,Katarzyna Kawa,Christina Mchale,4-6 6-4 7-5,0.95,0.0%,8.0%,62.1%,63.0%,33.3%,41.7% (5/12),48.2%,46.0%,0.7%,38.9%,61.4%,25.0% (6/24),2:52
@@ -106,7 +106,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 12-Aug-2019,W60 Concord MA,3,Hard,R32,102,240,1,,,Christina Mchale,Julia Glushko,6-3 6-2,,,,,,,,,,,,,,
 5-Aug-2019,Toronto ,3,Hard,Q2,103,45,0,20,3,Ajla Tomljanovic,Christina Mchale,6-4 7-6(2),0.80,5.6%,2.8%,62.0%,54.5%,40.7%,64.3% (9/14),44.7%,40.7%,11.1%,29.5%,54.1%,40.0% (4/10),1:45
 5-Aug-2019,Toronto ,3,Hard,Q1,103,775,1,20,WC,Christina Mchale,Ariana Arseneault,7-5 6-2,1.72,5.5%,1.8%,78.2%,76.7%,66.7%,100.0% (1/1),57.1%,43.7%,4.2%,42.2%,46.2%,27.3% (3/11),1:28
-29-Jul-2019,Washington,3,Hard,R16,105,150,0,,WC,Caty Mcnally,Christina Mchale,6-3 1-6 6-3 (ch),1.00,2.4%,4.9%,54.9%,57.8%,45.9%,45.5% (5/11),49.7%,47.7%,7.5%,39.6%,55.6%,26.3% (5/19),2:15
+29-Jul-2019,Washington,3,Hard,R16,105,150,0,,WC,Caty Mcnally,Christina Mchale,6-3 1-6 6-3,1.00,2.4%,4.9%,54.9%,57.8%,45.9%,45.5% (5/11),49.7%,47.7%,7.5%,39.6%,55.6%,26.3% (5/19),2:15
 29-Jul-2019,Washington,3,Hard,R32,105,43,1,,7,Christina Mchale,Anastasia Pavlyuchenkova,6-2 4-6 7-5,1.13,1.0%,3.0%,65.7%,63.1%,44.1%,37.5% (3/8),52.8%,49.0%,2.0%,37.9%,64.3%,53.8% (7/13),2:18
 1-Jul-2019,Wimbledon,5,Grass,R128,108,182,0,,,Harriet Dart,Christina Mchale,4-6 6-4 6-4,0.98,3.1%,1.0%,65.3%,56.3%,47.1%,62.5% (10/16),49.5%,46.0%,1.0%,43.9%,50.0%,50.0% (5/10),2:19
 1-Jul-2019,Wimbledon,5,Grass,Q3,108,133,0,6,20,Kaja Juvan,Christina Mchale,6-2 6-1,0.50,0.0%,4.1%,53.1%,50.0%,47.8%,33.3% (2/6),38.0%,25.6%,7.0%,16.1%,50.0%,- (0/0),0:53
@@ -184,7 +184,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 23-Apr-2018,Istanbul,3,Clay,R32,88,65,1,,,Christina Mchale,Mona Barthel,7-6(4) 4-6 6-3,1.06,0.0%,4.9%,52.0%,58.5%,49.0%,41.7% (5/12),51.5%,48.9%,3.2%,36.2%,69.4%,50.0% (7/14),2:22
 2-Apr-2018,Charleston,3,Clay,R32,86,12,0,,3,Daria Kasatkina,Christina Mchale,6-3 3-6 6-2,0.85,0.9%,5.5%,65.1%,50.7%,44.7%,63.2% (12/19),46.6%,43.8%,2.5%,35.9%,75.0%,62.5% (5/8),2:16
 2-Apr-2018,Charleston,3,Clay,R64,86,48,1,,,Christina Mchale,Zarina Diyas,6-4 6-2,1.24,2.7%,4.1%,46.6%,70.6%,51.3%,90.9% (10/11),55.3%,49.2%,1.7%,44.4%,56.5%,50.0% (4/8),1:34
-19-Mar-2018,Miami,3,Hard,R32,91,3,0,,3,Garbine Muguruza,Christina Mchale,6-2 6-1 (ch),0.49,0.0%,4.7%,53.1%,35.3%,56.7%,37.5% (3/8),38.1%,26.8%,2.4%,19.2%,40.0%,0.0% (0/1),1:10
+19-Mar-2018,Miami,3,Hard,R32,91,3,0,,3,Garbine Muguruza,Christina Mchale,6-2 6-1,0.49,0.0%,4.7%,53.1%,35.3%,56.7%,37.5% (3/8),38.1%,26.8%,2.4%,19.2%,40.0%,0.0% (0/1),1:10
 19-Mar-2018,Miami,3,Hard,R64,91,24,1,,25,Christina Mchale,Barbora Strycova,6-1 6-4,1.29,0.0%,3.9%,64.5%,67.3%,48.1%,90.9% (10/11),55.9%,50.7%,0.0%,48.9%,55.0%,33.3% (4/12),1:49
 19-Mar-2018,Miami,3,Hard,R128,91,59,1,,,Christina Mchale,Kaia Kanepi,1-3 RET,0.80,6.3%,12.5%,75.0%,58.3%,50.0%,75.0% (3/4),44.4%,35.0%,5.0%,33.3%,36.4%,- (0/0),0:31
 5-Mar-2018,Indian Wells,3,Hard,R128,90,48,0,,,Katerina Siniakova,Christina Mchale,3-6 6-2 7-6(6),0.89,0.0%,6.5%,63.6%,57.4%,33.3%,63.2% (12/19),47.3%,46.0%,5.0%,30.8%,62.5%,63.6% (7/11),2:38
@@ -245,7 +245,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Feb-2017,Acapulco,3,Hard,QF,45,42,1,5,4,Christina Mchale,Monica Puig,6-2 6-2,1.66,6.6%,3.3%,55.7%,79.4%,51.9%,100.0% (2/2),61.9%,54.5%,0.0%,52.0%,57.9%,100.0% (4/4),1:10
 27-Feb-2017,Acapulco,3,Hard,R16,45,120,1,5,Q,Christina Mchale,Taylor Townsend,6-1 7-6(5),1.39,3.1%,0.0%,68.8%,77.3%,50.0%,100.0% (1/1),55.7%,43.3%,3.0%,39.6%,52.6%,28.6% (2/7),1:32
 27-Feb-2017,Acapulco,3,Hard,R32,45,243,1,5,Q,Christina Mchale,Fiona Ferro,6-4 6-4,1.17,1.5%,2.9%,61.8%,57.1%,46.2%,60.0% (6/10),53.9%,55.0%,0.0%,58.3%,50.0%,75.0% (6/8),1:38
-20-Feb-2017,Dubai,3,Hard,R16,44,13,0,,7,Elina Svitolina,Christina Mchale,4-6 6-4 6-3 (ch),0.77,2.1%,5.2%,63.5%,52.5%,48.6%,40.0% (4/10),44.6%,37.5%,2.3%,32.1%,45.7%,71.4% (5/7),2:22
+20-Feb-2017,Dubai,3,Hard,R16,44,13,0,,7,Elina Svitolina,Christina Mchale,4-6 6-4 6-3,0.77,2.1%,5.2%,63.5%,52.5%,48.6%,40.0% (4/10),44.6%,37.5%,2.3%,32.1%,45.7%,71.4% (5/7),2:22
 20-Feb-2017,Dubai,3,Hard,R32,44,54,1,,,Christina Mchale,Naomi Osaka,6-3 6-4,1.19,0.0%,6.3%,70.0%,66.1%,50.0%,87.5% (7/8),54.5%,46.2%,3.1%,38.5%,57.7%,75.0% (3/4),1:32
 20-Feb-2017,Dubai,3,Hard,R64,44,23,1,,13,Christina Mchale,Kiki Bertens,6-7(5) 6-3 6-4,1.08,1.9%,1.9%,61.1%,71.2%,54.8%,81.8% (9/11),51.9%,38.0%,5.0%,21.4%,59.1%,40.0% (4/10),2:33
 13-Feb-2017,Doha,3,Hard,R32,43,16,0,Q,6,Elena Vesnina,Christina Mchale,5-7 6-3 7-6(7),0.94,1.6%,4.1%,61.0%,64.0%,43.8%,50.0% (6/12),49.1%,41.4%,5.4%,37.3%,47.7%,38.5% (5/13),2:53
@@ -264,9 +264,9 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 3-Oct-2016,Beijing,3,Hard,R64,42,49,0,,,Daria Saville,Christina Mchale,6-4 6-4,0.86,3.3%,3.3%,57.4%,51.4%,26.9%,36.4% (4/11),45.9%,50.8%,0.0%,46.3%,60.0%,50.0% (5/10),1:26
 26-Sep-2016,Wuhan,3,Hard,Q2,42,74,0,2,15,Louisa Chirico,Christina Mchale,6-3 7-6(3),0.78,5.3%,9.2%,52.6%,70.0%,36.1%,40.0% (2/5),45.3%,36.1%,6.9%,35.0%,37.5%,66.7% (2/3),1:41
 26-Sep-2016,Wuhan,3,Hard,Q1,42,150,1,2,,Christina Mchale,Lin Zhu,6-0 6-2,2.01,7.3%,4.9%,58.5%,75.0%,58.8%,0.0% (0/1),65.9%,63.6%,2.3%,56.0%,73.7%,60.0% (6/10),0:56
-12-Sep-2016,Japan Open Tokyo,3,Hard,F,53,65,1,7,,Christina Mchale,Katerina Siniakova,3-6 6-4 6-4 (ch),1.04,0.0%,3.2%,58.5%,63.6%,35.9%,50.0% (6/12),51.0%,50.0%,3.6%,47.1%,54.8%,58.3% (7/12),2:48
+12-Sep-2016,Japan Open Tokyo,3,Hard,F,53,65,1,7,,Christina Mchale,Katerina Siniakova,3-6 6-4 6-4,1.04,0.0%,3.2%,58.5%,63.6%,35.9%,50.0% (6/12),51.0%,50.0%,3.6%,47.1%,54.8%,58.3% (7/12),2:48
 12-Sep-2016,Japan Open Tokyo,3,Hard,SF,53,115,1,7,,Christina Mchale,Jana Cepelova,6-4 3-6 7-5,1.02,9.5%,3.8%,57.1%,61.7%,40.0%,66.7% (12/18),50.5%,48.5%,1.0%,42.9%,56.1%,70.0% (7/10),2:27
-12-Sep-2016,Japan Open Tokyo,3,Hard,QF,53,73,1,7,,Christina Mchale,Viktorija Golubic,6-3 5-7 6-3 (ch),0.95,1.5%,5.3%,58.0%,65.8%,45.5%,83.3% (15/18),50.7%,40.5%,1.2%,41.8%,37.9%,62.5% (5/8),2:36
+12-Sep-2016,Japan Open Tokyo,3,Hard,QF,53,73,1,7,,Christina Mchale,Viktorija Golubic,6-3 5-7 6-3,0.95,1.5%,5.3%,58.0%,65.8%,45.5%,83.3% (15/18),50.7%,40.5%,1.2%,41.8%,37.9%,62.5% (5/8),2:36
 12-Sep-2016,Japan Open Tokyo,3,Hard,R16,53,124,1,7,Q,Christina Mchale,Rebecca Peterson,2-6 6-2 7-6(4),0.99,1.0%,5.1%,60.6%,65.0%,30.8%,36.4% (4/11),49.7%,47.8%,1.1%,51.7%,41.2%,58.3% (7/12),2:24
 12-Sep-2016,Japan Open Tokyo,3,Hard,R32,53,97,1,7,,Christina Mchale,Kateryna Baindl,6-4 3-6 7-6(5),0.85,1.8%,6.1%,64.0%,65.8%,36.6%,60.0% (6/10),47.2%,38.0%,4.0%,33.8%,48.3%,40.0% (4/10),2:52
 29-Aug-2016,US Open,5,Hard,R64,55,8,0,,7,Roberta Vinci,Christina Mchale,6-1 6-3,0.62,0.0%,7.8%,70.6%,63.9%,26.7%,42.9% (3/7),41.4%,29.2%,10.4%,11.1%,52.4%,0.0% (0/1),1:03
@@ -278,7 +278,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jul-2016,Montreal,3,Hard,Q2,63,121,0,5,20,Kristina Kucova,Christina Mchale,6-0 6-4,0.63,3.8%,3.8%,58.5%,54.8%,31.8%,16.7% (1/6),39.8%,34.5%,3.6%,29.7%,44.4%,20.0% (1/5),1:16
 25-Jul-2016,Montreal,3,Hard,Q1,63,351,1,5,,Christina Mchale,Carol Zhao,6-2 6-3,1.41,3.2%,6.3%,68.3%,69.8%,50.0%,66.7% (2/3),57.6%,51.6%,6.5%,43.3%,59.4%,40.0% (4/10),1:25
 18-Jul-2016,Washington,3,Hard,R32,63,173,0,,WC,Jessica Pegula,Christina Mchale,7-5 6-2,0.86,8.5%,5.1%,54.2%,62.5%,40.7%,37.5% (3/8),45.8%,41.0%,2.4%,37.0%,45.9%,20.0% (2/10),1:33
-18-Jul-2016,Washington,3,Hard,R64,63,61,1,,8,Christina Mchale,Monica Niculescu,6-3 6-4 (ch),1.17,12.1%,8.6%,56.9%,72.7%,44.0%,66.7% (4/6),53.5%,46.4%,3.6%,37.8%,63.2%,62.5% (5/8),1:29
+18-Jul-2016,Washington,3,Hard,R64,63,61,1,,8,Christina Mchale,Monica Niculescu,6-3 6-4,1.17,12.1%,8.6%,56.9%,72.7%,44.0%,66.7% (4/6),53.5%,46.4%,3.6%,37.8%,63.2%,62.5% (5/8),1:29
 27-Jun-2016,Wimbledon,5,Grass,R64,65,1,0,,1,Serena Williams,Christina Mchale,6-7(7) 6-2 6-4,0.75,2.2%,5.2%,64.9%,66.7%,34.0%,73.7% (14/19),46.0%,33.7%,13.9%,25.8%,46.2%,40.0% (2/5),2:29
 27-Jun-2016,Wimbledon,5,Grass,R128,65,194,1,,,Christina Mchale,Daniela Hantuchova,7-5 6-2,1.07,0.0%,3.5%,57.9%,48.5%,50.0%,33.3% (2/6),52.1%,54.7%,3.1%,51.2%,60.9%,53.8% (7/13),1:27
 13-Jun-2016,Birmingham,3,Grass,R16,68,32,0,Q,,Coco Vandeweghe,Christina Mchale,6-3 7-6(2),0.79,1.4%,7.1%,62.9%,63.6%,53.8%,42.9% (3/7),46.6%,31.7%,7.9%,22.6%,40.6%,50.0% (2/4),1:27
@@ -302,7 +302,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 16-Apr-2016,Fed Cup WG R1: AUS vs USA,3,Clay,RR,57,26,1,,,Christina Mchale,Samantha Stosur,3-6 6-1 7-5,1.32,1.1%,4.6%,62.1%,74.1%,51.5%,80.0% (8/10),54.3%,45.5%,2.7%,39.5%,58.3%,26.7% (4/15),2:20
 4-Apr-2016,Charleston,3,Clay,R64,57,112,0,,,Lourdes Dominguez Lino,Christina Mchale,2-6 6-4 6-1,0.97,1.3%,0.0%,55.7%,61.4%,40.0%,25.0% (2/8),49.1%,46.7%,1.1%,41.0%,58.6%,26.7% (4/15),2:05
 21-Mar-2016,Miami,3,Hard,R64,56,1,0,,1,Serena Williams,Christina Mchale,6-3 5-7 6-2,0.84,7.4%,6.3%,55.8%,67.9%,40.5%,70.6% (12/17),46.6%,37.2%,12.8%,25.5%,53.8%,33.3% (3/9),2:07
-21-Mar-2016,Miami,3,Hard,R128,56,44,1,,,Christina Mchale,Misaki Doi,6-2 4-6 7-5 (ch),1.50,9.3%,2.3%,58.1%,86.0%,61.1%,66.7% (2/3),55.7%,36.7%,2.2%,31.4%,43.6%,37.5% (3/8),2:08
+21-Mar-2016,Miami,3,Hard,R128,56,44,1,,,Christina Mchale,Misaki Doi,6-2 4-6 7-5,1.50,9.3%,2.3%,58.1%,86.0%,61.1%,66.7% (2/3),55.7%,36.7%,2.2%,31.4%,43.6%,37.5% (3/8),2:08
 7-Mar-2016,Indian Wells,3,Hard,R32,62,28,0,,26,Samantha Stosur,Christina Mchale,6-4 2-6 6-4,1.11,6.3%,1.3%,73.8%,64.4%,38.1%,50.0% (5/10),51.6%,47.2%,0.9%,40.0%,58.1%,35.7% (5/14),2:09
 7-Mar-2016,Indian Wells,3,Hard,R64,62,4,1,,4,Christina Mchale,Garbine Muguruza,7-5 6-1,1.46,5.7%,2.9%,65.7%,71.7%,45.8%,77.8% (7/9),58.8%,54.1%,4.9%,48.5%,60.7%,38.5% (5/13),1:34
 7-Mar-2016,Indian Wells,3,Hard,R128,62,41,1,,,Christina Mchale,Caroline Garcia,6-4 6-4,1.21,11.1%,3.2%,60.3%,76.3%,48.0%,80.0% (4/5),53.5%,42.4%,6.1%,42.5%,42.3%,60.0% (3/5),1:34
@@ -318,7 +318,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 25-Jan-2016,Maui HI $50K,3,Hard,QF,65,159,1,1,6,Christina Mchale,Paula Kania,6-2 6-1,,,,,,,,,,,,,,
 25-Jan-2016,Maui HI $50K,3,Hard,R16,65,270,1,1,,Christina Mchale,Danielle Lao,6-1 6-2,,,,,,,,,,,,,,
 25-Jan-2016,Maui HI $50K,3,Hard,R32,65,259,1,1,,Christina Mchale,Nicole Vaidisova,6-0 7-6(5),,,,,,,,,,,,,,
-18-Jan-2016,Australian Open,5,Hard,R128,65,4,0,,4,Agnieszka Radwanska,Christina Mchale,6-2 6-3 (ch),0.79,1.8%,1.8%,52.7%,48.3%,26.9%,36.4% (4/11),43.8%,49.1%,5.3%,36.4%,66.7%,66.7% (4/6),1:20
+18-Jan-2016,Australian Open,5,Hard,R128,65,4,0,,4,Agnieszka Radwanska,Christina Mchale,6-2 6-3,0.79,1.8%,1.8%,52.7%,48.3%,26.9%,36.4% (4/11),43.8%,49.1%,5.3%,36.4%,66.7%,66.7% (4/6),1:20
 11-Jan-2016,Hobart,3,Hard,R32,66,38,0,,4,Monica Niculescu,Christina Mchale,7-5 7-5,0.81,1.5%,1.5%,56.9%,62.2%,46.4%,37.5% (3/8),46.3%,36.2%,6.9%,28.9%,50.0%,100.0% (3/3),1:43
 4-Jan-2016,Auckland,3,Hard,R16,63,17,0,,3,Caroline Wozniacki,Christina Mchale,6-0 6-2,0.59,4.3%,2.2%,50.0%,47.8%,26.1%,45.5% (5/11),37.1%,37.3%,5.9%,23.5%,64.7%,33.3% (1/3),1:11
 4-Jan-2016,Auckland,3,Hard,R32,63,54,1,,,Christina Mchale,Misaki Doi,6-2 6-4,1.53,11.3%,5.7%,62.3%,75.8%,50.0%,33.3% (1/3),59.0%,51.9%,0.0%,42.9%,62.5%,83.3% (5/6),1:06
@@ -331,7 +331,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 21-Sep-2015,Seoul,3,Hard,R32,61,89,1,,,Christina Mchale,Yaroslava Shvedova,6-4 1-2 RET,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,SF,60,84,0,6,,Magda Linette,Christina Mchale,3-6 6-4 6-3,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,QF,60,70,1,6,,Christina Mchale,Saisai Zheng,2-6 6-3 6-3,,,,,,,,,,,,,,
-14-Sep-2015,Tokyo,3,Hard,R16,60,142,1,6,Q,Christina Mchale,Risa Ozaki,6-1 7-5 (ch),,,,,,,,,,,,,,
+14-Sep-2015,Tokyo,3,Hard,R16,60,142,1,6,Q,Christina Mchale,Risa Ozaki,6-1 7-5,,,,,,,,,,,,,,
 14-Sep-2015,Tokyo,3,Hard,R32,60,75,1,6,,Christina Mchale,Yulia Putintseva,6-3 7-5,,,,,,,,,,,,,,
 31-Aug-2015,US Open,5,Hard,R128,59,149,0,,,Petra Cetkovska,Christina Mchale,4-6 6-4 6-3,,,,,,,,,,,,,,
 24-Aug-2015,New Haven,3,Hard,Q3,59,79,0,13,6,Magdalena Rybarikova,Christina Mchale,6-2 6-4,,,,,,,,,,,,,,
@@ -355,7 +355,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 8-Jun-2015,Nottingham,3,Grass,R32,67,52,1,,Q,Christina Mchale,Jarmila Gajdosova,6-4 6-3,1.13,7.0%,4.2%,74.6%,79.2%,44.4%,100.0% (10/10),54.4%,33.3%,11.1%,31.3%,36.4%,66.7% (2/3),
 25-May-2015,Roland Garros,5,Clay,R128,66,114,0,,Q,Lourdes Dominguez Lino,Christina Mchale,3-6 7-6(4) 6-4,0.91,1.9%,5.6%,57.4%,64.5%,43.5%,54.5% (6/11),48.5%,40.4%,1.1%,35.8%,51.9%,38.5% (5/13),
 18-May-2015,Strasbourg,3,Clay,R32,55,16,0,,1,Madison Keys,Christina Mchale,6-4 6-3,0.72,0.0%,11.8%,62.7%,65.6%,42.1%,50.0% (4/8),42.6%,31.3%,6.3%,25.0%,39.3%,22.2% (2/9),
-11-May-2015,Rome,3,Clay,QF,65,78,0,Q,Q,Daria Saville,Christina Mchale,6-2 6-4 (ch),0.76,8.6%,3.7%,64.2%,59.6%,27.6%,62.5% (10/16),44.5%,39.3%,0.0%,41.9%,30.8%,33.3% (3/9),
+11-May-2015,Rome,3,Clay,QF,65,78,0,Q,Q,Daria Saville,Christina Mchale,6-2 6-4,0.76,8.6%,3.7%,64.2%,59.6%,27.6%,62.5% (10/16),44.5%,39.3%,0.0%,41.9%,30.8%,33.3% (3/9),
 11-May-2015,Rome,3,Clay,R16,65,1,1,Q,1,Christina Mchale,Serena Williams,W/O,,,,,,,,,,,,,,
 11-May-2015,Rome,3,Clay,R32,65,15,1,Q,13,Christina Mchale,Sara Errani,6-4 6-4,1.27,6.8%,3.4%,66.1%,71.8%,45.0%,40.0% (2/5),55.3%,47.3%,0.0%,47.8%,44.4%,62.5% (5/8),
 11-May-2015,Rome,3,Clay,R64,65,23,1,Q,,Christina Mchale,Barbora Strycova,7-6(5) 6-1,1.64,1.8%,7.3%,74.5%,73.2%,57.1%,60.0% (3/5),58.3%,50.6%,1.3%,43.9%,58.3%,33.3% (4/12),
@@ -368,7 +368,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 27-Apr-2015,Marrakech,3,Clay,R16,64,25,0,,4,Elina Svitolina,Christina Mchale,7-5 6-3,0.75,5.6%,2.8%,61.1%,59.1%,39.3%,58.3% (7/12),44.2%,36.4%,3.0%,33.3%,41.7%,50.0% (2/4),
 27-Apr-2015,Marrakech,3,Clay,R32,64,55,1,,,Christina Mchale,Daniela Hantuchova,6-4 6-2,1.66,4.3%,8.5%,72.3%,76.5%,61.5%,66.7% (4/6),58.9%,45.8%,4.2%,40.0%,61.5%,55.6% (5/9),
 18-Apr-2015,Fed Cup WG PO: ITA vs USA,3,Clay,RR,65,26,0,,,Flavia Pennetta,Christina Mchale,6-1 6-1,,,,,,,,,,,,,,
-6-Apr-2015,Charleston,3,Clay,R64,63,121,0,,Q,Danka Kovinic,Christina Mchale,6-2 6-3 (ch),0.59,0.0%,8.1%,72.6%,53.3%,41.2%,55.6% (5/9),40.5%,29.6%,13.0%,22.9%,42.1%,20.0% (1/5),
+6-Apr-2015,Charleston,3,Clay,R64,63,121,0,,Q,Danka Kovinic,Christina Mchale,6-2 6-3,0.59,0.0%,8.1%,72.6%,53.3%,41.2%,55.6% (5/9),40.5%,29.6%,13.0%,22.9%,42.1%,20.0% (1/5),
 23-Mar-2015,Miami,3,Hard,R64,66,10,0,,9,Andrea Petkovic,Christina Mchale,6-2 6-2,0.59,1.7%,5.1%,62.7%,35.1%,45.5%,36.4% (4/11),37.8%,35.9%,5.1%,30.0%,42.1%,42.9% (3/7),
 23-Mar-2015,Miami,3,Hard,R128,66,148,1,,WC,Christina Mchale,Sorana Cirstea,7-5 6-4,1.05,1.4%,0.0%,47.3%,77.1%,46.2%,66.7% (4/6),51.0%,41.1%,6.8%,33.3%,59.1%,36.4% (4/11),
 9-Mar-2015,Indian Wells,3,Hard,R64,69,24,0,,20,Alize Cornet,Christina Mchale,4-6 6-2 6-1,0.77,1.3%,7.5%,60.0%,60.4%,46.9%,14.3% (1/7),44.5%,34.5%,9.5%,30.4%,42.9%,30.0% (3/10),
@@ -420,7 +420,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 24-Feb-2014,Acapulco,3,Hard,R16,70,95,1,,7,Christina Mchale,Kimiko Date Krumm,7-5 6-1,1.32,1.3%,2.6%,53.9%,65.9%,51.4%,75.0% (6/8),57.1%,54.0%,2.0%,58.3%,42.9%,100.0% (5/5),
 24-Feb-2014,Acapulco,3,Hard,R32,70,76,1,,,Christina Mchale,Kristina Mladenovic,6-4 6-2,2.19,6.1%,6.1%,57.1%,82.1%,71.4%,- (0/0),61.8%,49.2%,6.6%,35.5%,63.3%,60.0% (3/5),
 8-Feb-2014,Fed Cup WG R1: USA vs ITA,3,Hard,RR,62,40,0,,,Karin Knapp,Christina Mchale,6-3 3-6 6-1,,,,,,,,,,,,,,
-13-Jan-2014,Australian Open,5,Hard,R64,62,10,0,,10,Caroline Wozniacki,Christina Mchale,6-0 1-6 6-2 (ch),0.86,4.5%,4.5%,53.0%,62.9%,38.7%,58.3% (7/12),46.6%,41.5%,3.1%,37.5%,52.9%,50.0% (3/6),
+13-Jan-2014,Australian Open,5,Hard,R64,62,10,0,,10,Caroline Wozniacki,Christina Mchale,6-0 1-6 6-2,0.86,4.5%,4.5%,53.0%,62.9%,38.7%,58.3% (7/12),46.6%,41.5%,3.1%,37.5%,52.9%,50.0% (3/6),
 13-Jan-2014,Australian Open,5,Hard,R128,62,232,1,,,Christina Mchale,Yung Jan Chan,7-5 6-4,1.20,5.7%,4.3%,71.4%,62.0%,55.0%,0.0% (0/3),53.8%,47.9%,0.0%,44.0%,56.5%,55.6% (5/9),
 6-Jan-2014,Sydney,3,Hard,R16,65,6,0,Q,,Petra Kvitova,Christina Mchale,6-1 6-0,0.49,1.9%,3.8%,59.6%,48.4%,28.6%,53.8% (7/13),35.6%,28.9%,18.4%,26.1%,33.3%,0.0% (0/2),
 6-Jan-2014,Sydney,3,Hard,R32,65,26,1,Q,,Christina Mchale,Alize Cornet,6-7(4) 6-2 7-5,1.05,1.8%,4.5%,66.1%,63.5%,31.6%,57.1% (8/14),51.1%,49.6%,0.9%,45.7%,59.4%,64.3% (9/14),
@@ -475,7 +475,7 @@ Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1s
 6-Aug-2012,Montreal,3,Hard,R16,26,55,0,,WC,Aleksandra Wozniak,Christina Mchale,7-6(5) 6-3,0.84,11.0%,4.1%,64.4%,59.6%,38.5%,37.5% (3/8),46.2%,40.3%,2.8%,38.3%,44.0%,30.0% (3/10),
 6-Aug-2012,Montreal,3,Hard,R32,26,57,1,,LL,Christina Mchale,Galina Voskoboeva,7-5 3-6 6-2,1.14,1.1%,4.3%,68.5%,66.7%,41.4%,64.3% (9/14),52.6%,47.1%,7.8%,35.3%,58.8%,58.3% (7/12),
 6-Aug-2012,Montreal,3,Hard,R64,26,64,1,,Q,Christina Mchale,Arantxa Rus,3-6 6-1 6-3,1.47,7.2%,4.3%,63.8%,79.5%,48.0%,71.4% (5/7),55.8%,46.8%,3.2%,47.1%,46.2%,41.7% (5/12),
-30-Jul-2012,Olympics,3,Grass,R64,26,12,0,,11,Ana Ivanovic,Christina Mchale,6-4 7-5 (ch),0.82,4.1%,6.8%,61.6%,55.6%,53.6%,33.3% (2/6),46.7%,37.1%,1.6%,25.6%,56.5%,66.7% (2/3),
+30-Jul-2012,Olympics,3,Grass,R64,26,12,0,,11,Ana Ivanovic,Christina Mchale,6-4 7-5,0.82,4.1%,6.8%,61.6%,55.6%,53.6%,33.3% (2/6),46.7%,37.1%,1.6%,25.6%,56.5%,66.7% (2/3),
 16-Jul-2012,San Diego,3,Hard,QF,27,10,0,5,1,Marion Bartoli,Christina Mchale,7-5 4-6 6-4,0.81,3.8%,3.8%,59.0%,64.5%,39.5%,50.0% (6/12),46.2%,37.0%,3.3%,21.2%,57.5%,45.5% (5/11),
 16-Jul-2012,San Diego,3,Hard,R16,27,140,1,5,,Christina Mchale,Misaki Doi,4-6 6-4 6-4,0.92,6.5%,3.6%,59.0%,68.3%,49.1%,84.2% (16/19),51.3%,36.5%,2.4%,36.2%,36.8%,66.7% (4/6),
 16-Jul-2012,San Diego,3,Hard,R32,27,97,1,5,,Christina Mchale,Jarmila Gajdosova,7-6(5) 7-5,,,,,,,,,,,,,,
