@@ -1,11 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-23-Sep-2013,Kuala Lumpur Q,3,Hard,Q3,,98,0,,2,Somdev Devvarman,Jean Julien Rojer,7-5 7-5,0.73,2.6%,3.8%,61.5%,68.8%,40.0%,7/11,45.5%,30.8%,1.5%,30.8%,30.8%,2/5,143,2,3,78,48,30,1,1:35
-23-Sep-2013,Kuala Lumpur Q,3,Hard,Q2,,190,1,,8,Jean Julien Rojer,Ze Zhang,6-4 7-6(5),1.58,24.6%,3.3%,73.8%,88.9%,56.3%,3/3,53.3%,31.1%,9.5%,19.0%,46.9%,1/5,135,15,2,61,45,16,7,1:25
-23-Sep-2013,Kuala Lumpur Q,3,Hard,Q1,,,1,,WC,Jean Julien Rojer,Yew Ming Si,6-0 6-4,1.83,7.3%,7.3%,68.3%,78.6%,53.8%,0/1,61.1%,53.7%,1.9%,42.4%,71.4%,5/10,95,3,3,41,28,13,1,1:00
-24-Sep-2012,Bangkok Q,3,Hard,Q2,,142,0,,2,Yuichi Sugita,Jean Julien Rojer,6-2 6-3,0.57,6.8%,2.7%,68.5%,64.0%,30.4%,5/9,42.6%,26.5%,0.0%,22.6%,33.3%,0/3,122,5,2,73,50,23,0,1:23
-24-Sep-2012,Bangkok Q,3,Hard,Q1,,,1,,WC,Jean Julien Rojer,Kovit Ratanaphet,6-4 6-2,1.77,9.6%,1.9%,71.2%,81.1%,66.7%,0/0,59.4%,40.8%,2.0%,32.1%,52.4%,3/4,101,5,1,52,37,15,1,1:04
-26-Sep-2011,Kuala Lumpur Q,3,Hard,Q1,,453,0,,,Mikhail Elgin,Jean Julien Rojer,6-4 6-7(4) 7-6(5),0.78,4.6%,6.1%,53.4%,72.9%,44.3%,8/12,46.9%,31.5%,10.2%,26.2%,39.5%,3/7,239,6,8,131,70,61,11,2:50
-20-Sep-2010,Metz Q,3,Hard,Q1,,,0,,,Scott Lipsky,Jean Julien Rojer,6-3 6-4,0.72,10.2%,1.7%,69.5%,63.4%,44.4%,3/6,44.3%,30.4%,16.1%,22.6%,40.0%,1/2,115,6,1,59,41,18,9,0:53
+23-Sep-2013,Kuala Lumpur,3,Hard,Q3,,98,0,,2,Somdev Devvarman,Jean Julien Rojer,7-5 7-5,0.73,2.6%,3.8%,61.5%,68.8%,40.0%,7/11,45.5%,30.8%,1.5%,30.8%,30.8%,2/5,143,2,3,78,48,30,1,1:35
+23-Sep-2013,Kuala Lumpur,3,Hard,Q2,,190,1,,8,Jean Julien Rojer,Ze Zhang,6-4 7-6(5),1.58,24.6%,3.3%,73.8%,88.9%,56.3%,3/3,53.3%,31.1%,9.5%,19.0%,46.9%,1/5,135,15,2,61,45,16,7,1:25
+23-Sep-2013,Kuala Lumpur,3,Hard,Q1,,,1,,WC,Jean Julien Rojer,Yew Ming Si,6-0 6-4,1.83,7.3%,7.3%,68.3%,78.6%,53.8%,0/1,61.1%,53.7%,1.9%,42.4%,71.4%,5/10,95,3,3,41,28,13,1,1:00
+24-Sep-2012,Bangkok,3,Hard,Q2,,142,0,,2,Yuichi Sugita,Jean Julien Rojer,6-2 6-3,0.57,6.8%,2.7%,68.5%,64.0%,30.4%,5/9,42.6%,26.5%,0.0%,22.6%,33.3%,0/3,122,5,2,73,50,23,0,1:23
+24-Sep-2012,Bangkok,3,Hard,Q1,,,1,,WC,Jean Julien Rojer,Kovit Ratanaphet,6-4 6-2,1.77,9.6%,1.9%,71.2%,81.1%,66.7%,0/0,59.4%,40.8%,2.0%,32.1%,52.4%,3/4,101,5,1,52,37,15,1,1:04
+26-Sep-2011,Kuala Lumpur,3,Hard,Q1,,453,0,,,Mikhail Elgin,Jean Julien Rojer,6-4 6-7(4) 7-6(5),0.78,4.6%,6.1%,53.4%,72.9%,44.3%,8/12,46.9%,31.5%,10.2%,26.2%,39.5%,3/7,239,6,8,131,70,61,11,2:50
+20-Sep-2010,Metz,3,Hard,Q1,,,0,,,Scott Lipsky,Jean Julien Rojer,6-3 6-4,0.72,10.2%,1.7%,69.5%,63.4%,44.4%,3/6,44.3%,30.4%,16.1%,22.6%,40.0%,1/2,115,6,1,59,41,18,9,0:53
 14-Apr-2008,Mexico City CH,3,Hard,R32,,402,0,Q,,Roman Borvanov,Jean Julien Rojer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Jul-2007,Cordoba CH,3,Hard,R32,348,48,0,LL,1,Albert Montanes,Jean Julien Rojer,6-7(5) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 28-May-2007,Carson CH,3,Hard,R32,345,391,0,,LL,Alberto Francis,Jean Julien Rojer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -46,8 +46,10 @@
 10-Jul-2006,Cuenca CH,3,Clay,R32,237,494,1,2,,Jean Julien Rojer,Petar Popovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2006,Constanta CH,3,Clay,QF,242,200,0,,3,Konstantinos Economidis,Jean Julien Rojer,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Jun-2006,Constanta CH,3,Clay,R16,242,308,1,,,Jean Julien Rojer,Juan Martin Aranguren,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jun-2006,Constanta CH,3,Clay,R32,242,1528,1,,WC,Jean Julien Rojer,Sharad Kohli,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Constanta CH,3,Clay,R32,242,1528,1,,WC,Jean Julien Rojer,Clay Donato,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Jun-2006,Wimbledon,5,Grass,Q1,242,108,0,,1,Kevin Kim,Jean Julien Rojer,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-2006,Turin CH,3,Clay,R32,240,272,0,,,Marcel Granollers,Jean Julien Rojer,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+29-May-2006,Roland Garros,5,Clay,Q1,240,224,0,,,Gorka Fraile,Jean Julien Rojer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 15-May-2006,Fergana CH,3,Hard,R32,237,301,0,4,,Lars Uebel,Jean Julien Rojer,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 8-May-2006,Uzbekistan F4,3,Hard,QF,240,402,0,1,,Pavel Ivanov,Jean Julien Rojer,0-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 8-May-2006,Uzbekistan F4,3,Hard,R16,240,1412,1,1,Q,Jean Julien Rojer,Mikhail Kukushkin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -62,7 +64,7 @@
 10-Apr-2006,San Luis Potosi CH,3,Clay,R32,245,185,1,,6,Jean Julien Rojer,Adrian Garcia,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2006,Davis Cup G2 R2: AHO vs DOM,3,Hard,RR,248,,1,,,Jean Julien Rojer,Victor Estrella,6-1 6-7(1) 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Apr-2006,Davis Cup G2 R2: AHO vs DOM,3,Hard,RR,248,787,1,,,Jean Julien Rojer,Jhonson Garcia,6-3 3-6 6-7(4) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2006,Salinas CH,3,Hard,R32,,,0,,,Benjamin Becker,Jean Julien Rojer,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Mar-2006,Salinas CH,3,Hard,R32,245,253,0,,,Benjamin Becker,Jean Julien Rojer,6-0 2-0 RET,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2006,Mexico F3,3,Hard,SF,245,491,0,1,6,Marcel Felder,Jean Julien Rojer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2006,Mexico F3,3,Hard,QF,245,,1,1,Q,Jean Julien Rojer,Edgar Hernandez Perez,6-4 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2006,Mexico F3,3,Hard,R16,245,760,1,1,,Jean Julien Rojer,Fabrice Martin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -86,6 +88,7 @@
 26-Sep-2005,Tulsa CH,3,Hard,R32,222,498,1,,Q,Jean Julien Rojer,Fritz Wolmarans,6-4 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 19-Sep-2005,Lubbock CH,3,Hard,R16,223,177,0,,6,Amer Delic,Jean Julien Rojer,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
 19-Sep-2005,Lubbock CH,3,Hard,R32,223,278,1,,,Jean Julien Rojer,Lesley Joseph,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,US Open,5,Hard,Q1,220,314,0,,WC,Travis Rettenmaier,Jean Julien Rojer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Aug-2005,Manta CH,3,Hard,R32,218,359,0,5,,Go Soeda,Jean Julien Rojer,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2005,Belo Horizonte CH,3,Hard,R16,219,237,0,,,Juan Martin Del Potro,Jean Julien Rojer,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2005,Belo Horizonte CH,3,Hard,R32,219,1469,1,,WC,Jean Julien Rojer,Anthony Law,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -97,11 +100,11 @@
 18-Jul-2005,Bogota CH,3,Clay,QF,279,183,1,8,4,Jean Julien Rojer,Julio Silva,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2005,Bogota CH,3,Clay,R16,279,469,1,8,,Jean Julien Rojer,Toshihide Matsui,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Jul-2005,Bogota CH,3,Clay,R32,279,1473,1,8,WC,Jean Julien Rojer,Federico Ciarrochi,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Jul-2005,Budaors CH,3,Clay,R16,,,0,,,Boris Pashanski,Jean Julien Rojer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Jul-2005,Budaors CH,3,Clay,R32,,,1,,7,Jean Julien Rojer,Sergio Roitman,6-7(3) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Jun-2005,Netherlands F2,3,Clay,QF,,,0,3,Q,Joseph Sirianni,Jean Julien Rojer,3-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-27-Jun-2005,Netherlands F2,3,Clay,R16,,,1,3,,Jean Julien Rojer,Michel Koning,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Jun-2005,Netherlands F2,3,Clay,R32,,,1,3,,Jean Julien Rojer,Vadim Davletshin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Budaors CH,3,Clay,R16,288,221,0,,,Boris Pashanski,Jean Julien Rojer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Jul-2005,Budaors CH,3,Clay,R32,288,205,1,,7,Jean Julien Rojer,Sergio Roitman,6-7(3) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Netherlands F2,3,Clay,QF,288,620,0,3,Q,Joseph Sirianni,Jean Julien Rojer,3-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Netherlands F2,3,Clay,R16,288,472,1,3,,Jean Julien Rojer,Michel Koning,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Jun-2005,Netherlands F2,3,Clay,R32,288,556,1,3,,Jean Julien Rojer,Vadim Davletshin,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2005,Spain F13,3,Hard,QF,288,550,0,6,,Bartolome Salva Vidal,Jean Julien Rojer,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2005,Spain F13,3,Hard,R16,288,727,1,6,Q,Jean Julien Rojer,Adrian Menendez Maceiras,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 20-Jun-2005,Spain F13,3,Hard,R32,288,888,1,6,WC,Jean Julien Rojer,Daniel Vallverdu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -126,11 +129,11 @@
 31-Jan-2005,Mexico F1,3,Hard,QF,293,641,0,4,,Juan Manuel Elizondo,Jean Julien Rojer,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jan-2005,Mexico F1,3,Hard,R16,293,693,1,4,,Jean Julien Rojer,Victor Romero,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 31-Jan-2005,Mexico F1,3,Hard,R32,293,585,1,4,,Jean Julien Rojer,Tai Wei Liu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Costa Rica F1,3,Hard,F,,,1,2,1,Jean Julien Rojer,Miguel Gallardo Valles,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Costa Rica F1,3,Hard,SF,,,1,2,5,Jean Julien Rojer,Francisco Rodriguez,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Costa Rica F1,3,Hard,QF,,,1,2,8,Jean Julien Rojer,Ryan Newport,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Costa Rica F1,3,Hard,R16,,,1,2,,Jean Julien Rojer,Bruno Rosa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Costa Rica F1,3,Hard,R32,,,1,2,,Jean Julien Rojer,David Martin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Costa Rica F1,3,Hard,F,286,226,1,2,1,Jean Julien Rojer,Miguel Gallardo Valles,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Costa Rica F1,3,Hard,SF,286,532,1,2,5,Jean Julien Rojer,Francisco Rodriguez,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Costa Rica F1,3,Hard,QF,286,574,1,2,8,Jean Julien Rojer,Ryan Newport,6-2 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Costa Rica F1,3,Hard,R16,286,818,1,2,,Jean Julien Rojer,Bruno Rosa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2005,Costa Rica F1,3,Hard,R32,286,625,1,2,,Jean Julien Rojer,David Martin,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jan-2005,Guatemala F1,3,Hard,SF,286,442,0,2,6,John Paul Fruttero,Jean Julien Rojer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jan-2005,Guatemala F1,3,Hard,QF,286,835,1,2,Q,Jean Julien Rojer,Matthew Hanlin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jan-2005,Guatemala F1,3,Hard,R16,286,768,1,2,,Jean Julien Rojer,Trystan Meniane,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -221,6 +224,8 @@
 29-Sep-2003,Groningen CH,3,Hard,R32,259,181,0,,,Joachim Johansson,Jean Julien Rojer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Sep-2003,San Antonio CH,3,Hard,R32,260,193,0,,4,Francisco Costa,Jean Julien Rojer,6-3 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Sep-2003,Mexico City CH,3,Hard,R32,239,572,0,3,,Gustavo Marcaccio,Jean Julien Rojer,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q2,242,251,0,,,Maximilian Abel,Jean Julien Rojer,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Aug-2003,US Open,5,Hard,Q1,242,106,1,,3,Jean Julien Rojer,Federico Browne,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Aug-2003,Bukhara CH,3,Hard,R32,242,413,0,3,Q,Oleg Ogorodov,Jean Julien Rojer,7-6(6) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Jul-2003,Segovia CH,3,Hard,R32,240,215,0,,,Francisco Clavet,Jean Julien Rojer,7-6(9) 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Jul-2003,Recanati CH,3,Hard,R32,234,616,0,8,WC,Federico Torresi,Jean Julien Rojer,6-3 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -230,6 +235,7 @@
 30-Jun-2003,Mantova CH,3,Clay,R16,234,315,0,,,Xavier Pujo,Jean Julien Rojer,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Jun-2003,Mantova CH,3,Clay,R32,234,213,1,,8,Jean Julien Rojer,Joseph Sirianni,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Jun-2003,Andorra CH,3,Hard,R32,234,180,0,,7,Tuomas Ketola,Jean Julien Rojer,2-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Jun-2003,Wimbledon,5,Grass,Q1,234,156,0,,25,Noam Okun,Jean Julien Rojer,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Jun-2003,Atlantic City CH,3,Hard,R32,234,186,0,,3,Bjorn Rehnquist,Jean Julien Rojer,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Tallahassee CH,3,Hard,R16,237,173,0,,5,Paul Goldstein,Jean Julien Rojer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 2-Jun-2003,Tallahassee CH,3,Hard,R32,237,302,1,,,Jean Julien Rojer,Andres Pedroso,2-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -243,14 +249,14 @@
 7-Apr-2003,USA F8,3,Hard,R32,255,427,0,2,,Ryan Sachire,Jean Julien Rojer,6-7(5) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 4-Apr-2003,Davis Cup G2 PO: AHO vs HAI,3,Hard,RR,256,,1,,,Jean Julien Rojer,Bertrand Madsen,6-3 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 4-Apr-2003,Davis Cup G2 PO: AHO vs HAI,3,Hard,RR,256,1334,1,,,Jean Julien Rojer,Iphton Louis,6-1 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Mar-2003,USA F6,3,Hard,R32,,,0,4,,Michael Joyce,Jean Julien Rojer,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Mar-2003,USA F6,3,Hard,R32,259,298,0,4,,Michael Joyce,Jean Julien Rojer,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Jamaica F2,3,Hard,F,301,262,1,7,3,Jean Julien Rojer,Francisco Costa,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Jamaica F2,3,Hard,SF,301,230,1,7,2,Jean Julien Rojer,Andres Dellatorre,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Jamaica F2,3,Hard,QF,301,930,1,7,Q,Jean Julien Rojer,Cary Franklin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Jamaica F2,3,Hard,R16,301,547,1,7,,Jean Julien Rojer,Diego Veronelli,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Jan-2003,Jamaica F2,3,Hard,R32,301,1332,1,7,WC,Jean Julien Rojer,Ben Kronk,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Jamaica F1,3,Hard,R16,,1278,0,7,Q,Alexandre Bonatto,Jean Julien Rojer,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Jamaica F1,3,Hard,R32,,,1,7,WC,Jean Julien Rojer,Kevron Bennett,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Jamaica F1,3,Hard,R16,300,1278,0,7,Q,Alexandre Bonatto,Jean Julien Rojer,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Jan-2003,Jamaica F1,3,Hard,R32,300,,1,7,WC,Jean Julien Rojer,Kevron Bennett,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
 16-Dec-2002,Jamaica F22,3,Hard,F,335,725,1,5,,Jean Julien Rojer,Dustin Brown,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Dec-2002,Jamaica F22,3,Hard,SF,335,542,1,5,8,Jean Julien Rojer,Dmitri Sitak,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Dec-2002,Jamaica F22,3,Hard,QF,335,712,1,5,LL,Jean Julien Rojer,Matt Klinger,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -309,8 +315,8 @@
 9-Feb-2001,Davis Cup G2 QF: CRC vs AHO,3,Hard,RR,1235,,1,,,Jean Julien Rojer,Rafael Avalos Brenes,6-4 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Feb-2001,Davis Cup G2 QF: CRC vs AHO,3,Hard,RR,1235,131,1,,,Jean Julien Rojer,Juan Antonio Marin,6-3 4-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,Jamaica F1,3,Hard,R32,1297,,0,LL,WC,Ryan Russell,Jean Julien Rojer,7-6(3) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2000,Bahamas F1,3,Hard,R16,1304,,0,Q,7,Alex Witt,Jean Julien Rojer,7-6(5) 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
-4-Sep-2000,Bahamas F1,3,Hard,R32,1304,,1,Q,,Jean Julien Rojer,Miha Gregorc,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2000,Bahamas F1,3,Hard,R16,1304,498,0,Q,7,Alex Witt,Jean Julien Rojer,7-6(5) 1-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+4-Sep-2000,Bahamas F1,3,Hard,R32,1304,572,1,Q,,Jean Julien Rojer,Miha Gregorc,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2000,Dominican Republic F1,3,Clay,R32,1304,810,0,Q,,Oscar Ortiz,Jean Julien Rojer,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2000,Argentina F8,3,Clay,R16,,1301,0,Q,LL,Phillip Harboe,Jean Julien Rojer,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 31-Jul-2000,Argentina F8,3,Clay,R32,,845,1,Q,,Jean Julien Rojer,Ignacio Gonzalez King,7-6(2) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,

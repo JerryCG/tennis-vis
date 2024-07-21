@@ -1,8 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-18-May-2024,Geneva,3,Clay,R16,140,44,0,Q,,Tomas Machac,Nicolas Moreno De Alboran,4-6 7-5 6-0,0.74,14.8%,2.5%,59.3%,70.8%,42.4%,1/5,44.3%,30.2%,11.6%,23.0%,48.0%,1/4,167,12,2,81,48,33,10,1:56
-18-May-2024,Geneva,3,Clay,R32,140,115,1,Q,Q,Nicolas Moreno De Alboran,David Goffin,6-2 6-1,1.85,9.6%,1.9%,61.5%,75.0%,65.0%,1/1,62.9%,53.3%,6.7%,29.4%,67.9%,4/5,97,5,1,52,32,20,3,1:08
-18-May-2024,Geneva,3,Clay,Q2,140,233,1,4,5,Nicolas Moreno De Alboran,Juan Pablo Ficovich,6-4 7-6(6),1.25,2.7%,5.3%,58.7%,81.8%,51.6%,1/2,53.2%,38.3%,3.7%,32.1%,52.0%,2/7,156,2,4,75,44,31,3,1:56
-18-May-2024,Geneva,3,Clay,Q1,140,268,1,4,Alt,Nicolas Moreno De Alboran,Thai Son Kwiatkowski,4-6 6-3 7-6(4),1.04,5.3%,3.2%,60.0%,73.7%,57.9%,3/6,51.1%,34.1%,6.6%,26.2%,50.0%,3/9,186,5,3,95,57,38,6,2:12
+13-Jul-2024,Gstaad,3,Clay,R32,143,111,0,LL,,Yannick Hanfmann,Nicolas Moreno De Alboran,7-6(2) 6-7(2) 6-4,0.83,8.2%,0.0%,65.5%,75.0%,63.2%,5/6,48.6%,24.0%,9.0%,13.7%,51.9%,0/2,210,9,0,110,72,38,9,2:36
+13-Jul-2024,Gstaad,3,Clay,Q2,143,192,0,2,7,Quentin Halys,Nicolas Moreno De Alboran,7-5 6-3,0.73,9.8%,9.8%,60.7%,75.7%,50.0%,0/2,44.2%,25.0%,10.3%,20.0%,32.1%,0/4,129,6,6,61,37,24,7,1:25
+13-Jul-2024,Gstaad,3,Clay,Q1,143,267,1,2,,Nicolas Moreno De Alboran,Andrea Collarini,6-2 6-2,1.84,20.0%,6.7%,64.4%,86.2%,50.0%,0/0,60.0%,49.1%,0.0%,40.5%,76.9%,4/8,100,9,3,45,29,16,0,
+8-Jul-2024,Iasi CH,3,Clay,R32,146,382,0,5,WC,Gabi Adrian Boitan,Nicolas Moreno De Alboran,7-6(5) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Brasov CH,3,Clay,SF,146,222,0,2,8,Dmitry Popko,Nicolas Moreno De Alboran,6-7(2) 6-2 6-2,0.86,8.3%,4.2%,61.5%,64.4%,35.1%,6/13,46.4%,40.5%,7.2%,30.4%,50.9%,3/10,207,8,4,96,59,37,8,2:46
+1-Jul-2024,Brasov CH,3,Clay,QF,146,317,1,2,,Nicolas Moreno De Alboran,Matej Dodig,6-4 6-4,1.49,11.1%,9.3%,63.0%,88.2%,55.0%,0/0,54.2%,35.9%,7.8%,28.9%,46.2%,2/5,118,6,5,54,34,20,5,1:41
+1-Jul-2024,Brasov CH,3,Clay,R16,146,254,1,2,,Nicolas Moreno De Alboran,Javier Barranco Cosano,6-3 6-1,1.81,8.9%,0.0%,71.1%,78.1%,61.5%,0/0,59.2%,48.3%,3.4%,40.5%,68.8%,4/10,103,4,0,45,32,13,2,1:19
+1-Jul-2024,Brasov CH,3,Clay,R32,146,775,1,2,WC,Nicolas Moreno De Alboran,Ioan Alexandru Chirita,6-2 6-1,1.46,7.1%,12.5%,50.0%,82.1%,42.9%,5/6,58.7%,54.7%,0.0%,38.7%,77.3%,5/11,109,4,7,56,28,28,0,1:21
+1-Jul-2024,Wimbledon,5,Grass,Q2,146,81,0,,4,James Duckworth,Nicolas Moreno De Alboran,7-6(6) 6-4,0.92,10.8%,1.4%,56.8%,78.6%,59.4%,1/2,49.0%,27.4%,16.4%,13.2%,42.9%,0/0,147,8,1,74,42,32,12,1:33
+1-Jul-2024,Wimbledon,5,Grass,Q1,146,160,1,,,Nicolas Moreno De Alboran,Benoit Paire,6-4 6-1,1.62,17.6%,7.8%,70.6%,86.1%,33.3%,2/3,57.9%,47.6%,11.1%,33.3%,66.7%,4/10,114,9,4,51,36,15,7,1:06
+10-Jun-2024,s Hertogenbosch,3,Grass,Q1,150,232,0,8,,Gijs Brouwer,Nicolas Moreno De Alboran,6-3 6-7(6) 6-1,0.65,12.7%,7.6%,54.4%,76.7%,61.1%,5/8,44.4%,19.8%,2.5%,17.2%,26.1%,0/0,160,10,6,79,43,36,2,1:40
+3-Jun-2024,Zagreb CH,3,Clay,R32,130,455,0,2,,Rodrigo Pacheco Mendez,Nicolas Moreno De Alboran,6-4 6-3,0.87,2.0%,0.0%,54.9%,46.4%,65.2%,0/4,45.9%,39.4%,5.6%,35.8%,50.0%,2/5,122,1,0,51,28,23,4,1:46
+27-May-2024,Roland Garros,5,Clay,R128,130,84,0,WC,,Brandon Nakashima,Nicolas Moreno De Alboran,6-1 6-7(6) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Geneva,3,Clay,R16,140,44,0,Q,,Tomas Machac,Nicolas Moreno De Alboran,4-6 7-5 6-0,0.74,14.8%,2.5%,59.3%,70.8%,42.4%,1/5,44.3%,30.2%,11.6%,23.0%,48.0%,1/4,167,12,2,81,48,33,10,1:56
+20-May-2024,Geneva,3,Clay,R32,140,115,1,Q,Q,Nicolas Moreno De Alboran,David Goffin,6-2 6-1,1.85,9.6%,1.9%,61.5%,75.0%,65.0%,1/1,62.9%,53.3%,6.7%,29.4%,67.9%,4/5,97,5,1,52,32,20,3,1:08
+20-May-2024,Geneva,3,Clay,Q2,140,233,1,4,5,Nicolas Moreno De Alboran,Juan Pablo Ficovich,6-4 7-6(6),1.25,2.7%,5.3%,58.7%,81.8%,51.6%,1/2,53.2%,38.3%,3.7%,32.1%,52.0%,2/7,156,2,4,75,44,31,3,1:56
+20-May-2024,Geneva,3,Clay,Q1,140,268,1,4,Alt,Nicolas Moreno De Alboran,Thai Son Kwiatkowski,4-6 6-3 7-6(4),1.04,5.3%,3.2%,60.0%,73.7%,57.9%,3/6,51.1%,34.1%,6.6%,26.2%,50.0%,3/9,186,5,3,95,57,38,6,2:12
 6-May-2024,Rome Masters,3,Clay,R128,136,112,0,Q,Q,Botic Van De Zandschulp,Nicolas Moreno De Alboran,7-5 6-7(5) 7-6(4),0.98,4.1%,0.8%,58.7%,70.4%,60.0%,5/7,49.0%,33.3%,3.0%,28.7%,42.2%,1/8,253,5,1,121,71,50,4,3:18
 6-May-2024,Rome Masters,3,Clay,Q2,136,127,1,,,Nicolas Moreno De Alboran,Vit Kopriva,6-4 3-6 6-3,1.10,2.1%,4.1%,61.9%,73.3%,45.9%,3/5,51.2%,40.7%,1.9%,32.3%,53.5%,3/11,205,2,4,97,60,37,2,2:42
 6-May-2024,Rome Masters,3,Clay,Q1,136,110,1,,14,Nicolas Moreno De Alboran,Juan Pablo Varillas,6-4 7-5,1.38,3.3%,0.0%,63.9%,74.4%,59.1%,0/2,55.6%,42.9%,3.2%,40.5%,46.2%,4/9,124,2,0,61,39,22,2,1:38

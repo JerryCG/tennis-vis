@@ -1,6 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Kachreti CH,3,Hard,R16,285,454,0,2,,Daniil Glinka,Charles Broom,6-2 6-3,0.64,4.7%,7.0%,60.5%,61.5%,58.8%,3/6,41.5%,25.5%,9.8%,6.5%,55.0%,0/1,94,2,3,43,26,17,5,1:01
-19-May-2024,Kachreti CH,3,Hard,R32,285,415,1,2,,Charles Broom,Roberto Cid,6-3 6-4,1.56,19.0%,1.7%,67.2%,82.1%,47.4%,4/5,58.3%,45.6%,3.5%,32.4%,65.2%,4/5,115,11,1,58,39,19,2,1:32
+14-Jul-2024,Newport,3,Grass,Q1,250,208,0,,7,Li Tu,Charles Broom,6-1 7-5,0.66,0.0%,9.6%,48.1%,64.0%,37.0%,4/8,40.2%,32.9%,14.3%,31.8%,34.6%,1/2,122,0,5,52,25,27,10,1:15
+1-Jul-2024,Wimbledon,5,Grass,R128,248,95,0,WC,,Stan Wawrinka,Charles Broom,6-3 7-5 6-4,0.85,6.5%,2.2%,66.7%,62.9%,54.8%,7/12,46.6%,33.7%,11.2%,23.2%,47.6%,2/6,191,6,2,93,62,31,11,1:49
+24-Jun-2024,Eastbourne,3,Grass,R16,245,139,0,LL,WC,Billy Harris,Charles Broom,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Eastbourne,3,Grass,Q2,245,342,0,,Alt,James Mccabe,Charles Broom,6-7(1) 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Eastbourne,3,Grass,Q1,245,121,1,,8,Charles Broom,Francisco Comesana,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Ilkley CH,3,Grass,R16,235,127,0,SE,7,Zachary Svajda,Charles Broom,3-6 6-3 6-2,0.92,13.9%,2.8%,62.5%,68.9%,40.7%,3/8,47.2%,38.2%,4.5%,36.2%,41.9%,3/6,161,10,2,72,45,27,4,1:43
+17-Jun-2024,Ilkley CH,3,Grass,R32,235,131,1,SE,,Charles Broom,Mikhail Kukushkin,7-6(2) 6-1,1.60,19.0%,1.7%,62.1%,83.3%,54.5%,0/0,55.6%,44.2%,2.3%,40.0%,53.8%,3/10,144,11,1,58,36,22,2,1:34
+10-Jun-2024,Nottingham CH,3,Grass,F,283,525,0,Q,Q,Jacob Fearnley,Charles Broom,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Nottingham CH,3,Grass,SF,283,183,1,Q,Alt,Charles Broom,Billy Harris,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Nottingham CH,3,Grass,QF,283,62,1,Q,2,Charles Broom,Daniel Evans,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Nottingham CH,3,Grass,R16,283,98,1,Q,8,Charles Broom,Lloyd Harris,7-6(2) 2-6 6-4,0.94,7.1%,1.8%,58.4%,72.7%,44.7%,9/13,50.5%,36.8%,11.5%,34.7%,39.5%,3/8,200,8,2,113,66,47,10,2:19
+10-Jun-2024,Nottingham CH,3,Grass,R32,283,142,1,Q,,Charles Broom,Shintaro Mochizuki,6-7(9) 6-4 6-2,1.19,10.0%,1.0%,64.0%,71.9%,50.0%,3/6,52.9%,42.7%,3.6%,35.3%,54.8%,6/12,210,10,1,100,64,36,4,2:18
+10-Jun-2024,Nottingham CH,3,Grass,Q2,283,377,1,9,,Charles Broom,Blake Ellis,6-4 6-4,1.15,12.3%,0.0%,63.1%,78.0%,41.7%,4/5,53.2%,40.7%,18.6%,25.0%,65.2%,3/4,124,8,0,65,41,24,11,1:17
+10-Jun-2024,Nottingham CH,3,Grass,Q1,283,688,1,9,WC,Charles Broom,Harry Wendelken,6-4 6-2,1.62,16.0%,0.0%,74.0%,81.1%,38.5%,1/2,57.4%,48.6%,9.7%,41.5%,58.1%,4/10,122,8,0,50,37,13,7,1:19
+3-Jun-2024,Surbiton CH,3,Grass,Q1,284,308,0,12,Alt,Paul Jubb,Charles Broom,6-2 6-4,0.73,3.3%,3.3%,60.7%,62.2%,37.5%,6/10,43.3%,34.8%,3.0%,22.9%,48.4%,1/7,127,2,2,61,37,24,2,1:26
+20-May-2024,Kachreti CH,3,Hard,R16,285,454,0,2,,Daniil Glinka,Charles Broom,6-2 6-3,0.64,4.7%,7.0%,60.5%,61.5%,58.8%,3/6,41.5%,25.5%,9.8%,6.5%,55.0%,0/1,94,2,3,43,26,17,5,1:01
+20-May-2024,Kachreti CH,3,Hard,R32,285,415,1,2,,Charles Broom,Roberto Cid,6-3 6-4,1.56,19.0%,1.7%,67.2%,82.1%,47.4%,4/5,58.3%,45.6%,3.5%,32.4%,65.2%,4/5,115,11,1,58,39,19,2,1:32
 13-May-2024,M25 Kachreti,3,Hard,R32,313,394,0,1,,Blake Mott,Charles Broom,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2024,M25 Nottingham,3,Hard,F,339,718,1,2,,Charles Broom,Henry Searle,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2024,M25 Nottingham,3,Hard,SF,339,413,1,2,7,Charles Broom,Blake Mott,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

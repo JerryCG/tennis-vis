@@ -1,6 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Augsburg CH,3,Clay,R16,372,382,0,,Alt,Lucas Gerch,Daniel Michalski,3-6 6-3 6-2,0.80,1.0%,1.0%,62.9%,62.3%,52.8%,7/11,47.2%,32.9%,5.1%,20.0%,46.2%,2/4,176,1,1,97,61,36,4,2:15
-19-May-2024,Augsburg CH,3,Clay,R32,372,305,1,,6,Daniel Michalski,August Holmgren,6-2 6-2,1.47,1.9%,5.6%,68.5%,64.9%,58.8%,4/5,58.6%,54.4%,1.8%,42.9%,72.7%,5/8,111,1,3,54,37,17,1,1:26
+8-Jul-2024,M25 Kassel,3,Clay,QF,407,358,0,6,4,Raphael Collignon,Daniel Michalski,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Kassel,3,Clay,R16,407,2052,1,6,Q,Daniel Michalski,Michel Hopp,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Kassel,3,Clay,R32,407,1066,1,6,,Daniel Michalski,David Fix,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,QF,407,577,0,4,,Saba Purtseladze,Daniel Michalski,6-4 0-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,R16,407,516,1,4,,Daniel Michalski,Adrian Oetzbach,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,R32,407,839,1,4,,Daniel Michalski,Matthew William Donald,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Poznan CH,3,Clay,R32,368,359,0,Q,Q,Gastao Elias,Daniel Michalski,3-6 6-4 6-3,0.99,1.1%,4.5%,55.1%,69.4%,47.5%,6/10,49.2%,40.2%,2.0%,30.8%,50.0%,3/13,191,1,4,89,49,40,2,2:40
+17-Jun-2024,Poznan CH,3,Clay,Q2,368,1282,1,7,Alt,Daniel Michalski,Mircea Alexandru Jecan,4-6 7-6(5) 7-5,0.99,1.8%,2.8%,56.0%,65.6%,47.9%,3/9,49.8%,42.0%,0.9%,33.8%,56.1%,6/10,221,2,3,109,61,48,1,3:10
+17-Jun-2024,Poznan CH,3,Clay,Q1,368,538,1,7,,Daniel Michalski,Sebastian Gima,3-6 6-1 6-0,1.48,2.7%,6.8%,58.9%,67.4%,53.3%,1/4,59.2%,56.8%,1.4%,54.3%,59.0%,7/12,147,2,5,73,43,30,1,
+10-Jun-2024,M25 Aarhus,3,Clay,R16,367,1210,0,3,,Toby Martin,Daniel Michalski,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R32,367,1011,1,3,,Daniel Michalski,Leopold Zima,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Augsburg CH,3,Clay,R16,372,382,0,,Alt,Lucas Gerch,Daniel Michalski,3-6 6-3 6-2,0.80,1.0%,1.0%,62.9%,62.3%,52.8%,7/11,47.2%,32.9%,5.1%,20.0%,46.2%,2/4,176,1,1,97,61,36,4,2:15
+20-May-2024,Augsburg CH,3,Clay,R32,372,305,1,,6,Daniel Michalski,August Holmgren,6-2 6-2,1.47,1.9%,5.6%,68.5%,64.9%,58.8%,4/5,58.6%,54.4%,1.8%,42.9%,72.7%,5/8,111,1,3,54,37,17,1,1:26
 13-May-2024,Tunis CH,3,Clay,Q1,334,440,0,11,Alt,Kyle Edmund,Daniel Michalski,6-4 6-4,0.85,5.1%,7.6%,57.0%,60.0%,32.4%,9/14,46.2%,44.2%,5.2%,37.1%,50.0%,3/6,156,4,6,79,45,34,4,1:58
 6-May-2024,Prague CH,3,Clay,Q2,334,516,0,9,,Jakub Paul,Daniel Michalski,6-2 6-1,0.69,1.3%,4.0%,65.3%,49.0%,30.8%,9/16,41.5%,39.5%,0.0%,24.0%,61.1%,2/4,118,1,3,75,49,26,0,1:30
 6-May-2024,Prague CH,3,Clay,Q1,334,509,1,9,,Daniel Michalski,Norbert Gombos,6-4 3-6 6-1,1.20,0.0%,1.2%,54.3%,65.9%,59.5%,5/8,53.8%,44.3%,3.8%,34.1%,57.1%,5/8,160,0,1,81,44,37,3,2:11

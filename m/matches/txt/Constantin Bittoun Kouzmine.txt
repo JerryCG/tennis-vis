@@ -1,6 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Skopje CH,3,Clay,Q2,487,555,0,6,,Ryan Seggerman,Constantin Bittoun Kouzmine,7-5 6-4,0.76,2.7%,1.4%,65.8%,70.8%,36.0%,4/7,46.0%,31.3%,25.0%,20.9%,52.4%,1/4,137,2,1,73,48,25,16,1:41
-19-May-2024,Skopje CH,3,Clay,Q1,487,,1,6,WC,Constantin Bittoun Kouzmine,Amar Huseinovic,6-0 6-1,2.29,0.0%,2.3%,74.4%,81.3%,45.5%,4/4,68.4%,63.9%,5.6%,59.1%,71.4%,5/5,79,0,1,43,32,11,2,0:59
+8-Jul-2024,Braunschweig CH,3,Clay,Q1,485,313,0,,5,Michael Geerts,Constantin Bittoun Kouzmine,6-4 6-4,0.71,5.7%,10.0%,61.4%,67.4%,44.4%,9/12,46.3%,29.4%,7.8%,20.0%,42.9%,1/1,121,4,7,70,43,27,4,1:34
+1-Jul-2024,Troyes CH,3,Clay,R32,485,343,0,Q,,Lorenzo Giustino,Constantin Bittoun Kouzmine,6-2 6-1,0.67,0.0%,2.0%,69.4%,55.9%,33.3%,4/8,41.2%,34.0%,3.8%,22.2%,58.8%,0/3,102,0,1,49,34,15,2,1:17
+1-Jul-2024,Troyes CH,3,Clay,Q2,485,619,1,4,12,Constantin Bittoun Kouzmine,Lucas Bouquet,6-4 4-6 6-2,1.13,3.1%,5.2%,56.7%,65.5%,42.9%,7/12,52.5%,50.0%,2.4%,42.3%,63.0%,7/24,221,3,5,97,55,42,3,2:59
+1-Jul-2024,Troyes CH,3,Clay,Q1,485,1089,1,4,PR,Constantin Bittoun Kouzmine,Nikola Milojevic,6-0 6-1,3.00,8.3%,2.8%,66.7%,83.3%,66.7%,0/0,72.5%,66.7%,0.0%,61.1%,73.3%,5/5,69,3,1,36,24,12,0,0:53
+24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R32,493,721,0,,,Maxence Beauge,Constantin Bittoun Kouzmine,W/O,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Casablanca,3,Clay,QF,507,682,0,1,5,Mario Gonzalez Fernandez,Constantin Bittoun Kouzmine,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Casablanca,3,Clay,R16,507,1008,1,1,,Constantin Bittoun Kouzmine,Kane Bonsach Ganley,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Casablanca,3,Clay,R32,507,1125,1,1,,Constantin Bittoun Kouzmine,Younes Lalami Laaroussi,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,QF,487,586,0,4,7,Max Alcala Gurri,Constantin Bittoun Kouzmine,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,R16,487,1149,1,4,,Constantin Bittoun Kouzmine,Walid Ahouda,7-6(6) 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,R32,487,,1,4,WC,Constantin Bittoun Kouzmine,Yazid Lahjomri,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,Prostejov CH,3,Clay,Q2,487,320,0,12,3,Toby Alex Kodat,Constantin Bittoun Kouzmine,6-7(5) 6-3 6-3,0.78,5.1%,5.1%,64.1%,68.0%,33.3%,10/16,46.2%,34.7%,6.3%,23.6%,50.0%,3/4,212,6,6,117,75,42,6,2:46
+3-Jun-2024,Prostejov CH,3,Clay,Q1,487,950,1,12,WC,Constantin Bittoun Kouzmine,Tomas Lanik,6-4 6-3,1.35,3.1%,0.0%,65.6%,69.0%,54.5%,3/5,56.0%,48.6%,5.7%,37.5%,57.9%,4/10,134,2,0,64,42,22,4,1:37
+20-May-2024,Skopje CH,3,Clay,Q2,487,555,0,6,,Ryan Seggerman,Constantin Bittoun Kouzmine,7-5 6-4,0.76,2.7%,1.4%,65.8%,70.8%,36.0%,4/7,46.0%,31.3%,25.0%,20.9%,52.4%,1/4,137,2,1,73,48,25,16,1:41
+20-May-2024,Skopje CH,3,Clay,Q1,487,,1,6,WC,Constantin Bittoun Kouzmine,Amar Huseinovic,6-0 6-1,2.29,0.0%,2.3%,74.4%,81.3%,45.5%,4/4,68.4%,63.9%,5.6%,59.1%,71.4%,5/5,79,0,1,43,32,11,2,0:59
 6-May-2024,Prague CH,3,Clay,Q1,484,432,0,,12,Oleksii Krutykh,Constantin Bittoun Kouzmine,6-4 6-4,0.90,0.0%,3.2%,58.1%,58.3%,50.0%,3/7,47.1%,40.8%,1.3%,33.9%,64.7%,2/10,138,0,2,62,36,26,1,1:38
 22-Apr-2024,M25 Angers,3,Clay,QF,482,232,0,6,1,Aziz Dougaz,Constantin Bittoun Kouzmine,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M25 Angers,3,Clay,R16,482,,1,6,WC,Constantin Bittoun Kouzmine,Niels Villard,6-1 6-0,,,,,,,,,,,,,,,,,,,,,

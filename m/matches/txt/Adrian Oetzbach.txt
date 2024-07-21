@@ -1,6 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Augsburg CH,3,Clay,Q2,521,1587,0,,WC,Diego Dedura Palomero,Adrian Oetzbach,6-2 6-2,0.67,0.0%,19.1%,46.8%,68.2%,12.0%,1/7,40.0%,41.4%,5.2%,45.0%,33.3%,2/7,105,0,9,47,22,25,3,1:09
-19-May-2024,Augsburg CH,3,Clay,Q1,521,483,1,,,Adrian Oetzbach,Federico Iannaccone,6-3 7-5,1.20,0.0%,8.9%,54.4%,67.4%,41.7%,7/10,54.5%,53.0%,0.0%,46.9%,70.6%,6/8,145,0,7,79,43,36,0,1:54
+8-Jul-2024,Salzburg CH,3,Clay,R32,516,307,0,Q,WC,Sandro Kopp,Adrian Oetzbach,6-7(2) 6-1 6-1,0.70,4.5%,10.0%,55.5%,57.4%,46.9%,13/19,43.9%,33.0%,10.2%,23.2%,50.0%,1/6,198,5,11,110,61,49,9,2:34
+8-Jul-2024,Salzburg CH,3,Clay,Q2,516,398,1,8,,Adrian Oetzbach,Ryan Nijboer,6-7(6) 7-6(1) 6-3,1.04,4.0%,9.7%,66.9%,63.9%,43.9%,9/13,50.6%,44.6%,4.3%,37.8%,52.3%,5/23,263,5,12,124,83,41,6,3:22
+8-Jul-2024,Salzburg CH,3,Clay,Q1,516,713,1,8,Alt,Adrian Oetzbach,Jose Rubin Statham,6-4 6-2,1.21,2.9%,10.3%,73.5%,70.0%,38.9%,9/10,54.8%,46.4%,7.1%,32.4%,68.2%,4/11,124,2,7,68,50,18,4,1:29
+1-Jul-2024,M25 Marburg,3,Clay,R16,516,407,0,,4,Daniel Michalski,Adrian Oetzbach,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,R32,516,1249,1,,WC,Adrian Oetzbach,Mika Lipp,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M15 Alkmaar,3,Clay,SF,519,775,0,1,8,Deney Wassermann,Adrian Oetzbach,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M15 Alkmaar,3,Clay,QF,519,1086,1,1,,Adrian Oetzbach,Christian Sigsgaard,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M15 Alkmaar,3,Clay,R16,519,954,1,1,,Adrian Oetzbach,Daniel De Jonge,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M15 Alkmaar,3,Clay,R32,519,1557,1,1,Q,Adrian Oetzbach,Lodewijk Weststrate,7-6(3) 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,R32,527,1126,0,4,Q,Alexandre Aubriot,Adrian Oetzbach,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,QF,531,1210,0,8,,Toby Martin,Adrian Oetzbach,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R16,531,2087,1,8,Q,Adrian Oetzbach,Andrea Fiorentini,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R32,531,,1,8,Q,Adrian Oetzbach,Sebastian Grundtvig Jorgensen,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Sarajevo,3,Clay,QF,531,356,0,6,2,Jay Clarke,Adrian Oetzbach,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Sarajevo,3,Clay,R16,531,657,1,6,,Adrian Oetzbach,Dusan Obradovic,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Sarajevo,3,Clay,R32,531,619,1,6,,Adrian Oetzbach,Sergey Fomin,2-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,M15 Bol,3,Clay,R16,531,,0,6,Q,Conor Gannon,Adrian Oetzbach,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,M15 Bol,3,Clay,R32,531,1223,1,6,WC,Adrian Oetzbach,Josip Simundza,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Augsburg CH,3,Clay,Q2,521,1587,0,,WC,Diego Dedura Palomero,Adrian Oetzbach,6-2 6-2,0.67,0.0%,19.1%,46.8%,68.2%,12.0%,1/7,40.0%,41.4%,5.2%,45.0%,33.3%,2/7,105,0,9,47,22,25,3,1:09
+20-May-2024,Augsburg CH,3,Clay,Q1,521,483,1,,,Adrian Oetzbach,Federico Iannaccone,6-3 7-5,1.20,0.0%,8.9%,54.4%,67.4%,41.7%,7/10,54.5%,53.0%,0.0%,46.9%,70.6%,6/8,145,0,7,79,43,36,0,1:54
 13-May-2024,M15 Villach,3,Clay,R32,518,1649,0,3,LL,Nik Mikovic,Adrian Oetzbach,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M15 Meerbusch,3,Clay,SF,530,862,0,4,,John Sperle,Adrian Oetzbach,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M15 Meerbusch,3,Clay,QF,530,1108,1,4,Q,Adrian Oetzbach,Jan Hrazdil,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Augsburg CH,3,Clay,QF,382,310,0,Alt,,Daniel Masur,Lucas Gerch,6-3 6-2,0.70,2.3%,2.3%,45.5%,60.0%,41.7%,1/6,41.8%,35.2%,3.7%,34.3%,36.8%,1/11,98,1,1,44,20,24,2,1:15
-19-May-2024,Augsburg CH,3,Clay,R16,382,372,1,Alt,,Lucas Gerch,Daniel Michalski,3-6 6-3 6-2,1.25,5.1%,3.8%,50.6%,80.0%,53.8%,2/4,52.8%,41.2%,1.0%,37.7%,47.2%,4/11,176,4,3,79,40,39,1,2:15
-19-May-2024,Augsburg CH,3,Clay,R32,382,607,1,Alt,Q,Lucas Gerch,Luca Giacomini,6-4 7-5,1.26,9.5%,3.2%,47.6%,83.3%,42.4%,3/6,54.3%,48.1%,0.0%,44.4%,53.1%,5/11,140,6,2,63,30,33,0,1:57
+1-Jul-2024,M25 Marburg,3,Clay,SF,379,358,0,3,2,Raphael Collignon,Lucas Gerch,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,QF,379,532,1,3,,Lucas Gerch,Buvaysar Gadamauri,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,R16,379,584,1,3,,Lucas Gerch,Max Wiskandt,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Marburg,3,Clay,R32,379,1521,1,3,Q,Lucas Gerch,Giuseppe Tresca,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,F,401,287,0,2,1,Michael Vrbensky,Lucas Gerch,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,SF,401,1665,1,2,Q,Lucas Gerch,Mika Lipp,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,QF,401,616,1,2,7,Lucas Gerch,Liam Gavrielides,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,R16,401,638,1,2,,Lucas Gerch,Aleksandre Bakshi,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Saarlouis,3,Clay,R32,401,,1,2,Q,Lucas Gerch,Oskar Oliver Stuchlik,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,SF,401,310,0,4,2,August Holmgren,Lucas Gerch,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,QF,401,535,1,4,,Lucas Gerch,Buvaysar Gadamauri,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R16,401,1024,1,4,,Lucas Gerch,Christian Sigsgaard,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R32,401,,1,4,WC,Lucas Gerch,Valdemar Frederik Pape,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,Heilbronn CH,3,Clay,Q2,396,311,0,,5,Felix Gill,Lucas Gerch,6-3 6-2,0.53,2.2%,2.2%,52.2%,54.2%,54.5%,1/4,38.5%,24.0%,2.0%,15.8%,50.0%,0/0,96,1,1,46,24,22,1,1:02
+3-Jun-2024,Heilbronn CH,3,Clay,Q1,396,343,1,,9,Lucas Gerch,Hazem Naw,7-5 6-4,1.14,4.6%,12.3%,49.2%,65.6%,45.5%,6/10,52.9%,50.7%,1.4%,46.2%,55.9%,6/10,138,3,8,65,32,33,1,1:41
+20-May-2024,Augsburg CH,3,Clay,QF,382,310,0,Alt,,Daniel Masur,Lucas Gerch,6-3 6-2,0.70,2.3%,2.3%,45.5%,60.0%,41.7%,1/6,41.8%,35.2%,3.7%,34.3%,36.8%,1/11,98,1,1,44,20,24,2,1:15
+20-May-2024,Augsburg CH,3,Clay,R16,382,372,1,Alt,,Lucas Gerch,Daniel Michalski,3-6 6-3 6-2,1.25,5.1%,3.8%,50.6%,80.0%,53.8%,2/4,52.8%,41.2%,1.0%,37.7%,47.2%,4/11,176,4,3,79,40,39,1,2:15
+20-May-2024,Augsburg CH,3,Clay,R32,382,607,1,Alt,Q,Lucas Gerch,Luca Giacomini,6-4 7-5,1.26,9.5%,3.2%,47.6%,83.3%,42.4%,3/6,54.3%,48.1%,0.0%,44.4%,53.1%,5/11,140,6,2,63,30,33,0,1:57
 13-May-2024,Oeiras CH,3,Clay,Q1,375,298,0,,9,Sebastian Fanselow,Lucas Gerch,6-4 3-6 6-1,0.91,3.6%,8.4%,61.4%,54.9%,34.4%,6/13,47.6%,48.3%,2.3%,38.3%,60.0%,5/15,170,3,7,83,51,32,2,2:04
 22-Apr-2024,Rome CH,3,Clay,Q1,374,781,0,11,WC,Massimo Giunta,Lucas Gerch,6-4 6-4,1.28,0.0%,1.9%,59.6%,74.2%,71.4%,0/2,49.6%,34.6%,3.7%,25.9%,51.9%,0/8,133,0,1,52,31,21,3,1:35
 15-Apr-2024,M25 Hammamet,3,Clay,R32,380,462,0,3,,Nicola Kuhn,Lucas Gerch,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

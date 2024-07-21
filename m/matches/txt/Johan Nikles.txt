@@ -1,7 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Skopje CH,3,Clay,R32,965,303,0,Q,,Alexander Weis,Johan Nikles,3-6 7-6(3) 6-4,1.10,0.9%,0.9%,74.5%,67.1%,51.9%,11/14,51.1%,40.3%,0.0%,33.8%,50.0%,3/18,225,1,1,106,79,27,0,2:52
-19-May-2024,Skopje CH,3,Clay,Q2,965,517,1,PR,,Johan Nikles,Luka Pavlovic,5-7 6-4 6-4,1.03,0.8%,1.6%,63.9%,66.7%,59.1%,15/17,51.3%,37.0%,5.6%,25.5%,47.4%,3/9,230,1,2,122,78,44,6,2:47
-19-May-2024,Skopje CH,3,Clay,Q1,965,391,1,PR,2,Johan Nikles,Dan Added,W/O,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Salzburg CH,3,Clay,R32,804,295,0,Q,Alt,Jerome Kym,Johan Nikles,6-4 5-7 6-1,0.72,0.0%,3.1%,59.8%,55.2%,46.2%,7/13,44.1%,35.0%,6.3%,26.7%,45.7%,3/5,177,0,3,97,58,39,5,2:21
+8-Jul-2024,Salzburg CH,3,Clay,Q2,804,683,1,PR,,Johan Nikles,Peter Benjamin Privara,6-2 7-5,1.29,0.0%,1.4%,74.0%,59.3%,47.4%,6/10,56.3%,56.5%,0.0%,48.8%,63.6%,7/17,158,0,1,73,54,19,0,1:52
+8-Jul-2024,Salzburg CH,3,Clay,Q1,804,536,1,PR,10,Johan Nikles,Yurii Dzhavakian,6-4 7-5,1.08,0.0%,5.6%,64.4%,63.8%,46.9%,12/14,51.7%,45.6%,0.0%,30.4%,61.4%,4/13,180,0,5,90,58,32,0,2:10
+24-Jun-2024,M25 Klosters,3,Clay,QF,904,752,0,,,Patrick Zahraj,Johan Nikles,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M25 Klosters,3,Clay,R16,904,1720,1,,LL,Johan Nikles,Maximilian Homberg,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,M25 Klosters,3,Clay,R32,904,338,1,,2,Johan Nikles,Sandro Kopp,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Montauban,3,Clay,SF,904,432,0,,5,Maxime Chazal,Johan Nikles,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Montauban,3,Clay,QF,904,,1,,Q,Johan Nikles,Thomas Gerbaud,5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Montauban,3,Clay,R16,904,1412,1,,,Johan Nikles,Nicolas Colne,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Montauban,3,Clay,R32,904,756,1,,8,Johan Nikles,Axel Garcian,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Cordoba,3,Clay,R32,909,433,0,PR,3,Ryan Nijboer,Johan Nikles,6-7(3) 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-May-2024,M25 La Nucia,3,Clay,R16,909,400,0,,5,Damien Wenger,Johan Nikles,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,M25 La Nucia,3,Clay,R32,909,,1,,Q,Johan Nikles,Mario Martinez Serrano,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Skopje CH,3,Clay,R32,965,303,0,Q,,Alexander Weis,Johan Nikles,3-6 7-6(3) 6-4,1.10,0.9%,0.9%,74.5%,67.1%,51.9%,11/14,51.1%,40.3%,0.0%,33.8%,50.0%,3/18,225,1,1,106,79,27,0,2:52
+20-May-2024,Skopje CH,3,Clay,Q2,965,517,1,PR,,Johan Nikles,Luka Pavlovic,5-7 6-4 6-4,1.03,0.8%,1.6%,63.9%,66.7%,59.1%,15/17,51.3%,37.0%,5.6%,25.5%,47.4%,3/9,230,1,2,122,78,44,6,2:47
+20-May-2024,Skopje CH,3,Clay,Q1,965,391,1,PR,2,Johan Nikles,Dan Added,W/O,,,,,,,,,,,,,,,,,,,,,
 15-Apr-2024,M25 Hammamet,3,Clay,R32,996,722,0,,,Evan Furness,Johan Nikles,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 8-Apr-2024,M25 Hammamet,3,Clay,R16,993,503,0,Q,6,Jerome Kym,Johan Nikles,6-7(6) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Apr-2024,M25 Hammamet,3,Clay,R32,993,1055,1,Q,LL,Johan Nikles,Seita Watanabe,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Skopje CH,3,Clay,R32,428,302,0,,,Giovanni Fonio,Ryan Nijboer,6-2 6-1,0.33,5.6%,5.6%,52.8%,73.7%,17.6%,1/5,31.6%,17.5%,7.5%,18.2%,16.7%,0/0,76,2,2,36,19,17,3,1:10
-19-May-2024,Skopje CH,3,Clay,Q2,428,511,0,,8,Luka Mikrut,Ryan Nijboer,6-1 6-3,0.63,1.6%,8.1%,40.3%,52.0%,45.9%,3/8,41.7%,32.6%,4.3%,23.1%,45.0%,1/1,108,1,5,62,25,37,2,1:34
-19-May-2024,Skopje CH,3,Clay,Q1,428,1705,1,,Alt,Ryan Nijboer,George Goldhoff,6-3 6-2,1.64,7.7%,3.8%,67.3%,74.3%,64.7%,3/3,58.9%,47.3%,9.1%,39.3%,55.6%,4/10,107,4,2,52,35,17,5,1:14
+14-Jul-2024,Amersfoort CH,3,Clay,Q1,399,341,0,,10,Mathys Erhard,Ryan Nijboer,6-4 7-6(10),0.91,2.7%,5.4%,66.2%,67.3%,44.0%,0/3,48.0%,36.8%,3.9%,29.2%,50.0%,2/4,150,2,4,74,49,25,3,1:49
+8-Jul-2024,Salzburg CH,3,Clay,Q2,398,516,0,,8,Adrian Oetzbach,Ryan Nijboer,6-7(6) 7-6(1) 6-3,0.96,4.3%,5.8%,53.2%,62.2%,47.7%,18/23,49.4%,42.7%,4.0%,36.1%,56.1%,4/13,263,6,8,139,74,65,5,3:22
+8-Jul-2024,Salzburg CH,3,Clay,Q1,398,591,1,,,Ryan Nijboer,Mika Brunold,6-3 7-5,1.26,4.4%,8.8%,57.4%,74.4%,48.3%,4/6,54.0%,46.3%,3.7%,35.6%,59.5%,4/13,150,3,6,68,39,29,3,1:52
+1-Jul-2024,Brasov CH,3,Clay,Q1,398,744,0,,WC,Stefan Palosi,Ryan Nijboer,6-3 6-4,0.64,0.0%,10.5%,66.7%,68.4%,26.3%,2/6,42.9%,29.2%,0.0%,21.2%,46.7%,2/2,105,0,6,57,38,19,0,
+17-Jun-2024,M25 Mungia-Laukariz,3,Clay,F,424,702,0,3,,Michiel De Krom,Ryan Nijboer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Mungia-Laukariz,3,Clay,SF,424,605,1,3,8,Ryan Nijboer,Frederico Ferreira Silva,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Mungia-Laukariz,3,Clay,QF,424,949,1,3,Q,Ryan Nijboer,Iliyan Radulov,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Mungia-Laukariz,3,Clay,R16,424,1099,1,3,WC,Ryan Nijboer,Sergio Callejon Hernando,6-2 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Mungia-Laukariz,3,Clay,R32,424,827,1,3,,Ryan Nijboer,David Perez Sanz,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,Q1,431,303,0,Alt,4,Guido Andreozzi,Ryan Nijboer,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Cordoba,3,Clay,QF,433,604,0,3,,Alex Marti Pujolras,Ryan Nijboer,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Cordoba,3,Clay,R16,433,936,1,3,WC,Ryan Nijboer,Benjamin Winter Lopez,1-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Cordoba,3,Clay,R32,433,909,1,3,PR,Ryan Nijboer,Johan Nikles,6-7(3) 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Skopje CH,3,Clay,R32,428,302,0,,,Giovanni Fonio,Ryan Nijboer,6-2 6-1,0.33,5.6%,5.6%,52.8%,73.7%,17.6%,1/5,31.6%,17.5%,7.5%,18.2%,16.7%,0/0,76,2,2,36,19,17,3,1:10
+20-May-2024,Skopje CH,3,Clay,Q2,428,511,0,,8,Luka Mikrut,Ryan Nijboer,6-1 6-3,0.63,1.6%,8.1%,40.3%,52.0%,45.9%,3/8,41.7%,32.6%,4.3%,23.1%,45.0%,1/1,108,1,5,62,25,37,2,1:34
+20-May-2024,Skopje CH,3,Clay,Q1,428,1705,1,,Alt,Ryan Nijboer,George Goldhoff,6-3 6-2,1.64,7.7%,3.8%,67.3%,74.3%,64.7%,3/3,58.9%,47.3%,9.1%,39.3%,55.6%,4/10,107,4,2,52,35,17,5,1:14
 13-May-2024,Oeiras CH,3,Clay,Q1,463,285,0,,,Vilius Gaubas,Ryan Nijboer,6-7(1) 6-2 6-3,0.86,3.1%,8.2%,74.2%,61.1%,40.0%,2/8,46.7%,38.0%,4.0%,37.9%,38.2%,2/8,197,3,8,97,72,25,4,2:43
 6-May-2024,Francavilla Al Mare CH,3,Clay,QF,463,234,0,Q,,Franco Agamenone,Ryan Nijboer,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,Francavilla Al Mare CH,3,Clay,R16,463,621,1,Q,Q,Ryan Nijboer,Federico Arnaboldi,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,

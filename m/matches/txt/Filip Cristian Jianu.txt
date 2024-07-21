@@ -1,6 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Skopje CH,3,Clay,R16,286,387,0,7,,Marco Cecchinato,Filip Cristian Jianu,6-3 6-2,0.74,4.4%,0.0%,73.3%,48.5%,41.7%,1/6,42.5%,39.7%,2.9%,35.8%,53.3%,2/11,113,2,0,45,33,12,2,1:25
-19-May-2024,Skopje CH,3,Clay,R32,286,969,1,7,,Filip Cristian Jianu,Federico Cina,6-4 6-3,1.43,2.0%,0.0%,70.0%,71.4%,53.3%,3/5,55.7%,48.6%,1.4%,41.9%,58.6%,5/12,122,1,0,50,35,15,1,1:32
+13-Jul-2024,Gstaad,3,Clay,Q1,242,141,0,,1,Titouan Droguet,Filip Cristian Jianu,7-6(10) 3-6 7-6(3),1.10,0.9%,0.0%,75.5%,61.3%,53.8%,1/6,51.5%,44.6%,6.6%,37.0%,60.0%,6/11,227,1,0,106,80,26,8,
+8-Jul-2024,Iasi CH,3,Clay,R32,246,418,0,Alt,Q,Bogdan Bobrov,Filip Cristian Jianu,7-6(1) 5-2 Ret'd,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Brasov CH,3,Clay,QF,246,222,0,,8,Dmitry Popko,Filip Cristian Jianu,1-6 7-5 6-4,0.99,1.2%,2.5%,66.7%,57.4%,55.6%,1/6,49.4%,42.9%,6.6%,25.0%,62.8%,6/17,172,1,2,81,54,27,6,2:30
+1-Jul-2024,Brasov CH,3,Clay,R16,246,185,1,,3,Filip Cristian Jianu,Gustavo Heide,6-3 3-6 6-2,1.12,4.8%,0.0%,72.6%,67.2%,43.5%,5/8,52.0%,44.0%,2.2%,32.7%,59.0%,5/13,175,4,0,84,61,23,2,2:12
+1-Jul-2024,Brasov CH,3,Clay,R32,246,380,1,,,Filip Cristian Jianu,Moez Echargui,4-6 7-5 6-1,1.17,2.4%,4.7%,63.5%,72.2%,64.5%,3/4,52.7%,35.7%,7.1%,26.2%,45.2%,3/4,169,2,4,85,54,31,6,2:30
+24-Jun-2024,Milan CH,3,Clay,F,276,284,0,,Q,Federico Agustin Gomez,Filip Cristian Jianu,6-3 6-4,0.73,1.6%,1.6%,73.8%,60.0%,50.0%,7/10,44.8%,30.9%,5.5%,25.7%,40.0%,0/1,116,1,1,61,45,16,3,1:26
+24-Jun-2024,Milan CH,3,Clay,SF,276,242,1,,5,Filip Cristian Jianu,Enrico Dalla Valle,6-3 0-6 7-5,0.91,0.0%,2.3%,59.1%,46.2%,41.7%,11/19,47.2%,50.7%,2.7%,41.3%,66.7%,8/13,161,0,2,88,52,36,2,2:50
+24-Jun-2024,Milan CH,3,Clay,QF,276,281,1,,,Filip Cristian Jianu,Elmer Moller,2-6 6-2 0-0 RET,1.09,2.2%,0.0%,69.6%,59.4%,35.7%,3/7,52.2%,52.2%,0.0%,30.4%,73.9%,4/13,92,1,0,46,32,14,0,1:12
+24-Jun-2024,Milan CH,3,Clay,R16,276,365,1,,WC,Filip Cristian Jianu,Marco Cecchinato,6-1 7-5,1.31,0.0%,1.6%,71.9%,60.9%,44.4%,8/11,56.8%,57.4%,3.7%,54.1%,64.7%,7/8,118,0,1,64,46,18,2,1:31
+24-Jun-2024,Milan CH,3,Clay,R32,276,250,1,,6,Filip Cristian Jianu,Javier Barranco Cosano,6-3 7-6(7),1.02,0.0%,1.2%,61.6%,64.2%,42.4%,7/10,51.0%,44.9%,4.3%,42.6%,50.0%,4/8,155,0,1,86,53,33,3,2:22
+17-Jun-2024,Poznan CH,3,Clay,R16,280,278,0,,,Samuel Vincent Ruggeri,Filip Cristian Jianu,3-6 6-4 6-4,0.98,0.0%,2.2%,80.9%,50.0%,52.9%,4/11,49.5%,48.5%,1.0%,37.7%,66.7%,7/19,186,0,2,89,72,17,1,1:34
+17-Jun-2024,Poznan CH,3,Clay,R32,280,195,1,,4,Filip Cristian Jianu,Rudolf Molleker,6-4 6-2,1.39,10.6%,0.0%,68.1%,62.5%,53.3%,0/3,57.7%,56.0%,0.0%,41.7%,69.2%,6/7,97,5,0,47,32,15,0,1:13
+10-Jun-2024,Lyon CH,3,Clay,QF,292,78,0,Alt,2,Alexandre Muller,Filip Cristian Jianu,6-2 6-2,0.57,0.0%,1.9%,71.7%,39.5%,46.7%,3/8,37.5%,33.3%,2.0%,25.8%,45.0%,1/3,104,0,1,53,38,15,1,1:19
+10-Jun-2024,Lyon CH,3,Clay,R16,292,162,1,Alt,6,Filip Cristian Jianu,Ugo Blanchet,6-4 6-3,1.30,1.9%,1.9%,79.2%,61.9%,63.6%,2/4,55.2%,49.2%,0.0%,41.9%,56.3%,5/11,116,1,1,53,42,11,0,1:26
+10-Jun-2024,Lyon CH,3,Clay,R32,292,288,1,Alt,Q,Filip Cristian Jianu,Federico Agustin Gomez,6-4 2-1 RET,1.21,0.0%,0.0%,71.2%,51.4%,73.3%,10/12,54.8%,51.2%,9.8%,39.3%,76.9%,4/5,93,0,0,52,37,15,4,1:08
+3-Jun-2024,M25 Kursumlijska Banja ,3,Clay,QF,286,635,0,1,8,Miljan Zekic,Filip Cristian Jianu,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Kursumlijska Banja ,3,Clay,R16,286,1339,1,1,Q,Filip Cristian Jianu,Lazar Vojinovic,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Kursumlijska Banja ,3,Clay,R32,286,1890,1,1,Q,Filip Cristian Jianu,Erik Grevelius,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Skopje CH,3,Clay,R16,286,387,0,7,,Marco Cecchinato,Filip Cristian Jianu,6-3 6-2,0.74,4.4%,0.0%,73.3%,48.5%,41.7%,1/6,42.5%,39.7%,2.9%,35.8%,53.3%,2/11,113,2,0,45,33,12,2,1:25
+20-May-2024,Skopje CH,3,Clay,R32,286,969,1,7,,Filip Cristian Jianu,Federico Cina,6-4 6-3,1.43,2.0%,0.0%,70.0%,71.4%,53.3%,3/5,55.7%,48.6%,1.4%,41.9%,58.6%,5/12,122,1,0,50,35,15,1,1:32
 13-May-2024,M15 Bucharest,3,Clay,R16,278,1007,0,1,Q,Ioan Alexandru Chirita,Filip Cristian Jianu,7-5 5-7 7-6(4),,,,,,,,,,,,,,,,,,,,,
 13-May-2024,M15 Bucharest,3,Clay,R32,278,682,1,1,,Filip Cristian Jianu,Mario Gonzalez Fernandez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,M25 V盲rnamo,3,Clay,SF,278,308,0,2,3,Marvin Moeller,Filip Cristian Jianu,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,

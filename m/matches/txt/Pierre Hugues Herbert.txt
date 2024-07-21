@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-18-May-2024,Lyon,3,Clay,Q1,143,254,0,8,,Javier Barranco Cosano,Pierre Hugues Herbert,7-6(5) 4-6 7-5,0.96,8.5%,12.7%,50.8%,68.3%,39.7%,9/16,49.3%,43.8%,2.9%,38.0%,55.9%,7/10,223,10,15,118,60,58,3,2:48
+8-Jul-2024,Braunschweig CH,3,Clay,SF,138,64,0,,1,Roberto Carballes Baena,Pierre Hugues Herbert,6-4 6-1,0.62,4.8%,3.2%,61.3%,65.8%,29.2%,6/10,41.7%,30.2%,0.0%,23.7%,46.7%,0/4,115,3,2,62,38,24,0,1:30
+8-Jul-2024,Braunschweig CH,3,Clay,QF,138,136,1,,,Pierre Hugues Herbert,Duje Ajdukovic,6-3 6-4,1.35,8.5%,1.7%,62.7%,70.3%,59.1%,1/3,57.0%,45.8%,4.2%,40.0%,55.6%,4/6,107,5,1,59,37,22,2,1:20
+8-Jul-2024,Braunschweig CH,3,Clay,R16,138,311,1,,WC,Pierre Hugues Herbert,Nicola Kuhn,6-1 7-5,1.93,16.7%,4.2%,58.3%,92.9%,55.0%,0/1,60.0%,44.2%,1.9%,37.5%,55.0%,4/6,100,8,2,48,28,20,1,1:08
+8-Jul-2024,Braunschweig CH,3,Clay,R32,138,528,1,,Q,Pierre Hugues Herbert,Tom Gentzsch,2-6 6-4 6-4,0.99,11.6%,9.5%,61.1%,74.1%,48.6%,2/4,50.6%,35.3%,9.4%,25.5%,50.0%,2/6,180,11,9,95,58,37,8,2:05
+1-Jul-2024,Karlsruhe CH,3,Clay,R32,138,882,0,3,WC,Justin Engel,Pierre Hugues Herbert,6-4 6-4,0.83,7.4%,7.4%,57.4%,67.7%,34.8%,2/6,45.2%,38.6%,8.6%,24.3%,54.5%,2/8,124,4,4,54,31,23,6,1:50
+1-Jul-2024,Wimbledon,5,Grass,Q2,138,82,0,,3,Zizou Bergs,Pierre Hugues Herbert,6-3 6-7(4) 6-4,0.74,6.5%,6.5%,58.9%,69.8%,56.8%,8/12,47.2%,26.1%,12.5%,17.3%,38.9%,1/4,195,7,7,107,63,44,11,2:19
+1-Jul-2024,Wimbledon,5,Grass,Q1,138,184,1,,,Pierre Hugues Herbert,Seong Chan Hong,6-3 6-2,2.46,22.7%,9.1%,52.3%,87.0%,76.2%,0/0,61.0%,44.6%,5.4%,32.3%,60.0%,3/5,100,10,4,44,23,21,3,1:09
+17-Jun-2024,Halle,3,Grass,Q1,138,83,0,,5,Roberto Bautista Agut,Pierre Hugues Herbert,7-6(2) 7-6(4),0.65,19.8%,9.9%,53.8%,67.3%,50.0%,6/8,44.1%,26.6%,6.3%,20.0%,41.7%,2/4,170,18,9,91,49,42,5,1:58
+10-Jun-2024,Stuttgart,3,Grass,R32,139,101,0,Q,Q,James Duckworth,Pierre Hugues Herbert,6-4 7-6(2),0.64,31.7%,9.5%,68.3%,88.4%,30.0%,1/2,44.8%,19.4%,16.1%,11.6%,36.8%,0/2,125,20,6,63,43,20,10,1:21
+10-Jun-2024,Stuttgart,3,Grass,Q2,139,116,1,6,4,Pierre Hugues Herbert,Richard Gasquet,6-3 6-7(2) 7-6(5),1.00,27.5%,6.7%,60.8%,82.2%,57.4%,4/4,51.8%,27.5%,4.9%,21.1%,35.6%,1/3,222,33,8,120,73,47,5,2:31
+10-Jun-2024,Stuttgart,3,Grass,Q1,139,301,1,6,,Pierre Hugues Herbert,Daniel Masur,1-6 7-6(7) 7-6(6),1.04,28.3%,6.1%,73.7%,74.0%,42.3%,1/5,49.5%,35.7%,7.8%,27.8%,52.8%,1/6,214,28,6,99,73,26,9,2:25
+27-May-2024,Roland Garros,5,Clay,R128,142,1,0,WC,1,Novak Djokovic,Pierre Hugues Herbert,6-4 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Lyon,3,Clay,Q1,143,254,0,8,,Javier Barranco Cosano,Pierre Hugues Herbert,7-6(5) 4-6 7-5,0.96,8.5%,12.7%,50.8%,68.3%,39.7%,9/16,49.3%,43.8%,2.9%,38.0%,55.9%,7/10,223,10,15,118,60,58,3,2:48
 13-May-2024,Bordeaux CH,3,Clay,R32,140,82,0,LL,,Taro Daniel,Pierre Hugues Herbert,7-6(5) 6-3,0.71,14.3%,1.6%,68.3%,72.1%,65.0%,1/2,45.3%,21.5%,9.2%,15.0%,32.0%,0/3,128,9,1,63,43,20,6,1:22
 13-May-2024,Bordeaux CH,3,Clay,Q2,140,219,0,2,7,Kyrian Jacquet,Pierre Hugues Herbert,6-4 7-6(5),0.96,2.4%,6.1%,52.4%,79.1%,46.2%,2/4,48.8%,35.2%,9.1%,30.8%,41.7%,1/5,170,2,5,82,43,39,8,1:58
 13-May-2024,Bordeaux CH,3,Clay,Q1,140,359,1,2,Alt,Pierre Hugues Herbert,Orlando Luz,6-4 6-1,1.92,9.1%,4.5%,52.3%,73.9%,71.4%,0/2,62.5%,52.3%,0.0%,41.7%,65.0%,5/9,88,4,2,44,23,21,0,1:04

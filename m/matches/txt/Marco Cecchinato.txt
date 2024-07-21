@@ -1,7 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Skopje CH,3,Clay,QF,387,349,0,,,Gerard Campana Lee,Marco Cecchinato,6-4 6-2,0.57,0.0%,10.3%,44.1%,73.3%,44.7%,9/12,43.6%,24.5%,0.0%,21.2%,31.3%,0/0,117,0,7,68,30,38,0,1:40
-19-May-2024,Skopje CH,3,Clay,R16,387,286,1,,7,Marco Cecchinato,Filip Cristian Jianu,6-3 6-2,1.34,2.9%,1.5%,77.9%,64.2%,46.7%,9/11,57.5%,53.3%,4.4%,51.5%,58.3%,5/6,113,2,1,68,53,15,2,1:25
-19-May-2024,Skopje CH,3,Clay,R32,387,,1,,WC,Marco Cecchinato,Alexandar Lazarov,7-6(5) 6-1,1.28,2.7%,6.8%,56.2%,68.3%,50.0%,3/5,55.5%,50.7%,1.4%,45.7%,59.3%,5/13,146,2,5,73,41,32,1,1:39
+8-Jul-2024,Trieste CH,3,Clay,R32,356,266,0,WC,,Vilius Gaubas,Marco Cecchinato,7-6(8) 7-6(3),0.86,0.0%,9.5%,52.6%,60.0%,48.9%,4/8,47.1%,39.1%,2.2%,33.9%,48.5%,4/8,187,0,9,95,50,45,2,2:26
+1-Jul-2024,Modena CH,3,Clay,R16,356,159,0,Q,7,Juan Pablo Varillas,Marco Cecchinato,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,R32,356,384,1,Q,Alt,Marco Cecchinato,Alessandro Giannessi,4-6 5-3 Ret'd,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q2,356,713,1,2,12,Marco Cecchinato,Jose Rubin Statham,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q1,356,1916,1,2,WC,Marco Cecchinato,Luca Parenti,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Milan CH,3,Clay,R16,365,276,0,WC,,Filip Cristian Jianu,Marco Cecchinato,6-1 7-5,0.76,3.7%,3.7%,68.5%,45.9%,35.3%,1/8,43.2%,43.8%,0.0%,39.1%,55.6%,3/11,118,2,2,54,37,17,0,1:31
+24-Jun-2024,Milan CH,3,Clay,R32,365,966,1,WC,WC,Marco Cecchinato,Federico Cina,6-2 7-6(4),1.30,6.1%,1.5%,62.1%,73.2%,64.0%,1/2,55.1%,39.3%,3.3%,34.3%,46.2%,3/7,127,4,1,66,41,25,2,1:31
+17-Jun-2024,Sassuolo CH,3,Clay,Q2,404,314,1,,6,Marco Cecchinato,David Jorda Sanchis,7-6(7) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Sassuolo CH,3,Clay,Q1,404,378,1,,12,Marco Cecchinato,Nino Serdarusic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,Q2,412,536,0,11,Alt,Federico Arnaboldi,Marco Cecchinato,7-5 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,Q1,412,798,1,11,Alt,Marco Cecchinato,Luca Fantini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Vicenza CH,3,Clay,R16,403,134,0,WC,1,Francesco Passaro,Marco Cecchinato,6-3 6-2,0.63,0.0%,1.5%,75.4%,49.0%,62.5%,7/11,42.6%,30.0%,0.0%,34.3%,20.0%,1/1,115,0,1,65,49,16,0,1:27
+27-May-2024,Vicenza CH,3,Clay,R32,403,228,1,WC,,Marco Cecchinato,Lukas Neumayer,6-3 6-4,1.47,0.0%,5.5%,74.5%,73.2%,64.3%,2/3,56.8%,42.9%,1.8%,46.9%,37.5%,3/6,111,0,3,55,41,14,1,1:29
+20-May-2024,Skopje CH,3,Clay,QF,387,349,0,,,Gerard Campana Lee,Marco Cecchinato,6-4 6-2,0.57,0.0%,10.3%,44.1%,73.3%,44.7%,9/12,43.6%,24.5%,0.0%,21.2%,31.3%,0/0,117,0,7,68,30,38,0,1:40
+20-May-2024,Skopje CH,3,Clay,R16,387,286,1,,7,Marco Cecchinato,Filip Cristian Jianu,6-3 6-2,1.34,2.9%,1.5%,77.9%,64.2%,46.7%,9/11,57.5%,53.3%,4.4%,51.5%,58.3%,5/6,113,2,1,68,53,15,2,1:25
+20-May-2024,Skopje CH,3,Clay,R32,387,,1,,WC,Marco Cecchinato,Alexandar Lazarov,7-6(5) 6-1,1.28,2.7%,6.8%,56.2%,68.3%,50.0%,3/5,55.5%,50.7%,1.4%,45.7%,59.3%,5/13,146,2,5,73,41,32,1,1:39
 13-May-2024,Tunis CH,3,Clay,R32,328,220,0,Q,,Clement Tabur,Marco Cecchinato,7-6(7) 6-4,0.91,8.6%,4.9%,65.4%,64.2%,50.0%,5/8,48.1%,37.0%,2.5%,30.6%,46.9%,2/7,162,7,4,81,53,28,2,2:06
 13-May-2024,Tunis CH,3,Clay,Q2,328,290,1,9,4,Marco Cecchinato,Clement Chidekh,6-1 7-5,1.64,10.0%,6.0%,70.0%,74.3%,60.0%,0/2,58.7%,49.2%,0.0%,38.1%,76.5%,5/6,109,5,3,50,35,15,0,1:18
 13-May-2024,Tunis CH,3,Clay,Q1,328,376,1,9,Alt,Marco Cecchinato,Carlos Sanchez Jover,6-1 1-6 6-1,1.23,2.9%,2.9%,75.7%,64.2%,64.7%,6/8,55.1%,43.9%,3.5%,40.6%,48.0%,4/6,127,2,2,70,53,17,2,1:33

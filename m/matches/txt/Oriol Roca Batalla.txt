@@ -1,4 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+8-Jul-2024,Trieste CH,3,Clay,SF,165,196,0,8,,Tomas Barrios Vera,Oriol Roca Batalla,6-4 6-2,0.75,4.8%,9.7%,50.0%,61.3%,35.5%,6/11,43.9%,38.5%,1.9%,39.3%,37.5%,2/2,114,3,6,62,31,31,1,1:30
+8-Jul-2024,Trieste CH,3,Clay,QF,165,140,1,8,3,Oriol Roca Batalla,Titouan Droguet,7-5 6-4,1.30,5.2%,0.0%,55.2%,65.6%,69.2%,1/3,54.0%,42.6%,5.9%,32.6%,60.0%,4/9,126,3,0,58,32,26,4,1:32
+8-Jul-2024,Trieste CH,3,Clay,R16,165,282,1,8,,Oriol Roca Batalla,Gonzalo Bueno,6-1 6-7(5) 6-2,1.34,4.5%,4.5%,49.4%,77.3%,51.1%,3/5,56.4%,48.2%,0.0%,50.0%,45.2%,6/12,172,4,4,89,44,45,0,2:24
+8-Jul-2024,Trieste CH,3,Clay,R32,165,298,1,8,,Oriol Roca Batalla,Nikolas Sanchez Izquierdo,6-3 6-2,1.35,3.2%,4.8%,50.0%,67.7%,61.3%,3/4,57.5%,47.7%,2.3%,56.5%,38.1%,4/5,106,2,3,62,31,31,1,1:34
+1-Jul-2024,Modena CH,3,Clay,QF,165,459,0,8,WC,Federico Arnaboldi,Oriol Roca Batalla,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,R16,165,249,1,8,,Oriol Roca Batalla,Enrico Dalla Valle,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,R32,165,262,1,8,,Oriol Roca Batalla,Samuel Vincent Ruggeri,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Wimbledon,5,Grass,Q1,165,103,0,,8,Daniel Elahi Galan,Oriol Roca Batalla,6-3 6-4,0.96,10.3%,1.7%,75.9%,68.2%,50.0%,2/4,47.1%,34.6%,17.9%,26.0%,50.0%,0/7,136,6,1,58,44,14,14,1:27
+17-Jun-2024,Poznan CH,3,Clay,R32,160,247,0,3,,Enrico Dalla Valle,Oriol Roca Batalla,6-1 6-3,0.49,2.1%,0.0%,68.1%,62.5%,26.7%,5/9,38.2%,23.8%,0.0%,25.8%,18.2%,0/0,89,1,0,47,32,15,0,1:12
+10-Jun-2024,Bratislava CH,3,Clay,R32,158,312,0,6,,Martin Landaluce,Oriol Roca Batalla,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,Zagreb CH,3,Clay,SF,164,128,0,3,1,Damir Dzumhur,Oriol Roca Batalla,4-6 6-4 6-4,0.96,3.3%,1.1%,61.1%,63.6%,51.4%,7/12,48.9%,39.6%,0.0%,37.0%,47.8%,4/12,186,3,1,90,55,35,0,2:32
+3-Jun-2024,Zagreb CH,3,Clay,QF,164,254,1,3,,Oriol Roca Batalla,Enrico Dalla Valle,6-3 6-2,1.71,4.2%,0.0%,62.5%,80.0%,55.6%,1/2,59.8%,50.0%,0.0%,50.0%,50.0%,4/8,102,2,0,48,30,18,0,1:25
+3-Jun-2024,Zagreb CH,3,Clay,R16,164,243,1,3,,Oriol Roca Batalla,Filip Misolic,6-4 7-6(5),1.28,2.8%,1.4%,68.1%,73.5%,52.2%,3/5,52.6%,42.7%,6.8%,35.8%,55.6%,3/12,175,2,1,72,49,23,7,2:21
+3-Jun-2024,Zagreb CH,3,Clay,R32,164,360,1,3,Q,Oriol Roca Batalla,Gastao Elias,7-6(6) 6-4,1.19,1.3%,5.0%,57.5%,71.7%,58.8%,5/6,52.7%,40.2%,4.6%,29.6%,57.6%,2/9,167,1,4,80,46,34,4,2:17
+27-May-2024,Roland Garros,5,Clay,Q1,164,207,0,,,Dennis Novak,Oriol Roca Batalla,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-May-2024,Tunis CH,3,Clay,F,212,230,1,,,Oriol Roca Batalla,Valentin Royer,7-6(5) 7-5,1.02,7.2%,3.6%,63.9%,62.3%,53.3%,5/8,50.6%,42.0%,7.4%,28.3%,60.0%,4/8,164,6,3,83,53,30,6,2:20
 13-May-2024,Tunis CH,3,Clay,SF,212,131,1,,2,Oriol Roca Batalla,Damir Dzumhur,6-3 7-6(5),1.21,2.9%,1.5%,51.5%,71.4%,66.7%,0/1,53.3%,37.3%,1.5%,30.2%,50.0%,2/2,135,2,1,68,35,33,1,1:52
 13-May-2024,Tunis CH,3,Clay,QF,212,222,1,,,Oriol Roca Batalla,Murkel Alejandro Dellien Velasco,4-6 6-0 6-4,1.30,4.9%,6.2%,61.7%,64.0%,51.6%,5/9,55.9%,52.8%,1.1%,47.6%,65.4%,7/16,170,4,5,81,50,31,1,2:23

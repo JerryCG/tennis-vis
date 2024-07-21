@@ -1,4 +1,25 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Jul-2024,Pozoblanco CH,3,Hard,QF,209,346,1,1,6,Antoine Escoffier,Alberto Barroso Campos,3-6 6-1 6-0,1.36,7.4%,8.8%,51.5%,77.1%,42.4%,5/8,57.1%,54.2%,1.4%,44.0%,77.3%,7/14,140,5,6,68,35,33,1,1:55
+14-Jul-2024,Pozoblanco CH,3,Hard,R16,209,896,1,1,,Antoine Escoffier,Iliyan Radulov,5-7 6-4 6-1,1.22,7.9%,5.6%,55.1%,79.6%,45.0%,4/6,53.9%,44.0%,2.2%,35.8%,55.3%,5/9,180,7,5,89,49,40,2,2:14
+14-Jul-2024,Pozoblanco CH,3,Hard,R32,209,962,1,1,Q,Antoine Escoffier,Ivan Marrero Curbelo,6-4 6-2,1.48,8.2%,8.2%,55.1%,77.8%,59.1%,3/4,55.8%,45.3%,0.0%,42.4%,48.4%,4/12,113,4,4,49,27,22,0,1:17
+8-Jul-2024,M25 Roda de Bara,3,Hard,QF,211,555,0,1,7,Frederico Ferreira Silva,Antoine Escoffier,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Roda de Bara,3,Hard,R16,211,2092,1,1,Q,Antoine Escoffier,Richard Zusman,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Roda de Bara,3,Hard,R32,211,,1,1,WC,Antoine Escoffier,Luis Garcia Paez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Ajaccio+H,3,Hard,R16,211,653,0,1,,Kenny De Schepper,Antoine Escoffier,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M25 Ajaccio+H,3,Hard,R32,211,1833,1,1,WC,Antoine Escoffier,Damien Salvestre,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Wimbledon,5,Grass,Q2,211,58,0,,1,Giovanni Mpetshi Perricard,Antoine Escoffier,7-6(5) 6-2,0.59,9.3%,6.7%,53.3%,77.5%,48.6%,8/10,44.9%,21.3%,32.8%,14.0%,38.9%,0/2,136,7,5,75,40,35,20,1:23
+1-Jul-2024,Wimbledon,5,Grass,Q1,211,250,1,,,Antoine Escoffier,Genaro Alberto Olivieri,6-2 6-4,1.74,10.2%,2.0%,65.3%,84.4%,64.7%,0/0,58.9%,39.1%,10.9%,37.9%,41.2%,3/3,95,5,1,49,32,17,5,1:04
+10-Jun-2024,M25 Elvas,3,Hard,F,252,563,1,1,8,Antoine Escoffier,Duarte Vale,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Elvas,3,Hard,SF,252,399,1,1,4,Antoine Escoffier,Altug Celikbilek,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Elvas,3,Hard,QF,252,522,1,1,6,Antoine Escoffier,Orel Kimhi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Elvas,3,Hard,R16,252,1494,1,1,WC,Antoine Escoffier,Diogo Marques,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Elvas,3,Hard,R32,252,,1,1,WC,Antoine Escoffier,Vasco Leote Prata,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Setubal,3,Hard,F,231,338,1,1,3,Antoine Escoffier,Antoine Bellier,3-6 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Setubal,3,Hard,SF,231,378,1,1,4,Antoine Escoffier,Alberto Barroso Campos,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Setubal,3,Hard,QF,231,398,1,1,6,Antoine Escoffier,Altug Celikbilek,7-6(2) 6-1,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Setubal,3,Hard,R16,231,541,1,1,,Antoine Escoffier,George Loffhagen,7-6(9) 7-5,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,M25 Setubal,3,Hard,R32,231,,1,1,Q,Antoine Escoffier,Guilherme Valdoleiros,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q1,231,277,0,,,Geoffrey Blancaneaux,Antoine Escoffier,5-7 6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
 13-May-2024,Taipei CH,3,Hard,R16,228,324,0,8,,Ricardas Berankis,Antoine Escoffier,3-6 6-2 6-2,0.77,9.9%,7.7%,69.2%,58.7%,35.7%,11/16,44.8%,37.3%,6.0%,37.0%,37.9%,3/9,174,9,7,91,63,28,5,1:57
 13-May-2024,Taipei CH,3,Hard,R32,228,351,1,8,Alt,Antoine Escoffier,James Mccabe,6-1 4-6 7-6(4),1.51,3.8%,3.8%,74.7%,79.7%,55.0%,2/4,55.1%,40.2%,5.2%,33.9%,51.4%,4/8,176,3,3,79,59,20,5,2:13
 6-May-2024,Wuxi CH,3,Hard,R32,228,238,0,,,Alex Bolt,Antoine Escoffier,7-6(1) 7-6(3),0.91,4.7%,5.8%,51.2%,72.7%,42.9%,6/9,48.0%,37.9%,4.6%,22.4%,57.9%,3/7,173,4,5,86,44,42,4,1:59

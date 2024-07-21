@@ -1,6 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Kachreti CH,3,Hard,Q2,634,499,0,10,4,Evgeny Karlovskiy,Egor Agafonov,6-4 6-4,0.71,11.0%,13.7%,60.3%,68.2%,27.6%,7/11,43.5%,33.8%,13.8%,21.3%,66.7%,2/10,138,8,10,73,44,29,9,1:33
-19-May-2024,Kachreti CH,3,Hard,Q1,634,810,1,10,,Egor Agafonov,Grigoriy Lomakin,6-4 7-6(2),1.56,11.5%,1.6%,68.9%,81.0%,68.4%,1/2,55.5%,35.8%,4.5%,35.7%,36.4%,2/5,128,7,1,61,42,19,3,1:33
+1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,SF,582,1916,0,1,SE,Martin Borisiouk,Egor Agafonov,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,QF,582,1235,1,1,,Egor Agafonov,Kazuma Kawachi,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,R16,582,,1,1,Q,Egor Agafonov,Savriyan Danilov,5-7 7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,R32,582,,1,1,WC,Egor Agafonov,Oleg Syrovatskiy,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Monastir,3,Hard,SF,649,889,0,1,,Jack Loutit,Egor Agafonov,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Monastir,3,Hard,QF,649,852,1,1,8,Egor Agafonov,Michael Zhu,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Monastir,3,Hard,R16,649,1492,1,1,Q,Egor Agafonov,Ammar Elamin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Monastir,3,Hard,R32,649,1046,1,1,,Egor Agafonov,Noah Lopez,7-6(13) 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M15 Monastir,3,Hard,F,641,417,0,2,1,Kris Van Wyk,Egor Agafonov,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M15 Monastir,3,Hard,SF,641,869,1,2,8,Egor Agafonov,Etienne Donnet,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M15 Monastir,3,Hard,QF,641,,1,2,WC,Egor Agafonov,Peter Alam,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M15 Monastir,3,Hard,R16,641,1975,1,2,,Egor Agafonov,Nicolas Jadoun,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M15 Monastir,3,Hard,R32,641,,1,2,Q,Egor Agafonov,Lachlan Vickery,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Kachreti CH,3,Hard,Q2,634,499,0,10,4,Evgeny Karlovskiy,Egor Agafonov,6-4 6-4,0.71,11.0%,13.7%,60.3%,68.2%,27.6%,7/11,43.5%,33.8%,13.8%,21.3%,66.7%,2/10,138,8,10,73,44,29,9,1:33
+20-May-2024,Kachreti CH,3,Hard,Q1,634,810,1,10,,Egor Agafonov,Grigoriy Lomakin,6-4 7-6(2),1.56,11.5%,1.6%,68.9%,81.0%,68.4%,1/2,55.5%,35.8%,4.5%,35.7%,36.4%,2/5,128,7,1,61,42,19,3,1:33
 13-May-2024,M25 Kachreti,3,Hard,R32,615,393,0,Q,,Yshai Oliel,Egor Agafonov,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 6-May-2024,M15 Tbilisi,3,Hard,R32,615,805,0,5,,Grigoriy Lomakin,Egor Agafonov,7-6(6) 7-6(0),,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M15 Monastir,3,Hard,R32,531,1242,0,4,,Menelaos Efstathiou,Egor Agafonov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

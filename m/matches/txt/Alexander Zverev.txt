@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+13-Jul-2024,Hamburg,3,Clay,QF,4,34,1,1,8,Alexander Zverev,Zhizhen Zhang,6-4 6-3,1.85,22.2%,4.4%,73.3%,87.9%,58.3%,0/0,56.6%,37.0%,5.6%,28.6%,52.6%,3/4,99,10,2,45,33,12,3,1:06
+13-Jul-2024,Hamburg,3,Clay,R16,4,81,1,1,,Alexander Zverev,Hugo Gaston,4-6 6-2 7-5,1.21,7.5%,0.9%,67.3%,75.0%,37.1%,11/15,54.5%,45.1%,4.4%,36.7%,54.8%,6/14,198,8,1,107,72,35,4,2:37
+13-Jul-2024,Hamburg,3,Clay,R32,4,114,1,1,Q,Alexander Zverev,Jesper De Jong,6-2 6-2,1.78,8.3%,2.1%,68.8%,78.8%,60.0%,0/0,59.8%,48.1%,1.9%,33.3%,60.0%,4/5,102,4,1,48,33,15,1,1:17
+1-Jul-2024,Wimbledon,5,Grass,R16,4,12,0,4,13,Taylor Fritz,Alexander Zverev,4-6 6-7(4) 6-4 7-6(3) 6-3,0.76,12.4%,2.0%,75.2%,80.0%,47.4%,2/4,47.3%,21.4%,10.3%,16.7%,30.6%,1/2,298,19,3,153,115,38,15,3:29
+1-Jul-2024,Wimbledon,5,Grass,R32,4,42,1,4,,Alexander Zverev,Cameron Norrie,6-4 6-4 7-6(15),2.02,15.6%,2.1%,76.0%,90.4%,65.2%,0/0,55.4%,31.6%,8.5%,28.9%,40.7%,2/8,213,15,2,96,73,23,10,2:31
+1-Jul-2024,Wimbledon,5,Grass,R64,4,46,1,4,,Alexander Zverev,Marcos Giron,6-2 6-1 6-4,2.44,19.7%,3.3%,67.2%,87.8%,65.0%,0/0,62.7%,47.9%,1.4%,36.6%,62.5%,6/8,134,12,2,61,41,20,1,1:34
+1-Jul-2024,Wimbledon,5,Grass,R128,4,64,1,4,,Alexander Zverev,Roberto Carballes Baena,6-2 6-4 6-2,2.23,26.1%,2.9%,73.9%,86.3%,61.1%,5/5,59.8%,45.3%,7.4%,43.4%,47.6%,5/14,164,18,2,69,51,18,7,1:53
+17-Jun-2024,Halle,3,Grass,SF,4,9,0,2,5,Hubert Hurkacz,Alexander Zverev,7-6(2) 6-4,1.05,8.1%,0.0%,67.7%,85.7%,55.0%,0/1,48.9%,25.4%,23.9%,18.9%,44.4%,0/4,133,5,0,62,42,20,17,1:35
+17-Jun-2024,Halle,3,Grass,QF,4,37,1,2,,Alexander Zverev,Arthur Fils,6-7(5) 6-3 6-4,1.26,8.4%,1.1%,69.5%,83.3%,55.2%,1/1,53.8%,31.9%,6.6%,16.7%,54.1%,2/6,186,8,1,95,66,29,6,2:30
+17-Jun-2024,Halle,3,Grass,R16,4,57,1,2,,Alexander Zverev,Lorenzo Sonego,6-4 7-6(5),2.36,12.5%,1.8%,78.6%,86.4%,83.3%,0/0,55.6%,33.8%,7.8%,25.6%,44.1%,1/6,133,7,1,56,44,12,6,1:43
+17-Jun-2024,Halle,3,Grass,R32,4,474,1,2,Q,Alexander Zverev,Oscar Otte,6-7(5) 6-3 6-4,1.16,26.2%,1.9%,68.2%,79.5%,55.9%,3/3,53.2%,32.7%,4.1%,22.4%,47.5%,2/7,205,28,2,107,73,34,4,2:17
+27-May-2024,Roland Garros,5,Clay,F,4,3,0,4,3,Carlos Alcaraz,Alexander Zverev,6-3 2-6 5-7 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,SF,4,7,1,4,7,Alexander Zverev,Casper Ruud,2-6 6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,QF,4,11,1,4,11,Alexander Zverev,Alex De Minaur,6-4 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R16,4,13,1,4,13,Alexander Zverev,Holger Rune,4-6 6-1 5-7 7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R32,4,25,1,4,26,Alexander Zverev,Tallon Griekspoor,3-6 6-4 6-2 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R64,4,115,1,4,,Alexander Zverev,David Goffin,7-6(4) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,4,275,1,4,,Alexander Zverev,Rafael Nadal,6-3 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,Rome Masters,3,Clay,F,5,24,1,3,21,Alexander Zverev,Nicolas Jarry,6-4 7-5,3.54,12.2%,2.0%,79.6%,94.9%,70.0%,0/0,57.9%,36.1%,5.6%,22.4%,65.2%,2/9,121,6,1,49,39,10,4,1:41
 6-May-2024,Rome Masters,3,Clay,SF,5,32,1,3,29,Alexander Zverev,Alejandro Tabilo,1-6 7-6(4) 6-2,0.98,12.3%,6.2%,69.1%,80.4%,36.0%,2/4,49.1%,32.6%,8.1%,18.0%,52.8%,2/6,167,10,5,81,56,25,7,2:17
 6-May-2024,Rome Masters,3,Clay,QF,5,13,1,3,11,Alexander Zverev,Taylor Fritz,6-4 6-3,1.53,12.5%,2.1%,77.1%,78.4%,63.6%,0/0,55.3%,38.2%,1.8%,26.5%,57.1%,3/5,103,6,1,48,37,11,1,1:30

@@ -1,4 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+1-Jul-2024,Wimbledon,5,Grass,R128,21,58,0,20,LL,Giovanni Mpetshi Perricard,Sebastian Korda,7-6(5) 6-7(4) 7-6(6) 6-7(4) 6-3,1.07,10.5%,2.3%,65.5%,84.8%,59.3%,3/4,49.2%,25.6%,26.2%,15.9%,49.1%,0/11,366,18,4,171,112,59,51,3:21
+17-Jun-2024,Queen's Club,3,Grass,SF,23,13,0,,5,Tommy Paul,Sebastian Korda,6-4 7-6(2),0.87,4.5%,1.5%,53.0%,74.3%,38.7%,3/6,46.8%,37.0%,6.8%,38.0%,34.8%,2/3,139,3,1,66,35,31,5,1:41
+17-Jun-2024,Queen's Club,3,Grass,QF,23,98,1,,Q,Sebastian Korda,Rinky Hijikata,6-7(4) 6-3 6-4,1.10,5.7%,2.8%,54.7%,70.7%,54.2%,4/6,52.8%,40.4%,3.4%,23.9%,58.1%,4/7,195,6,3,106,58,48,3,2:11
+17-Jun-2024,Queen's Club,3,Grass,R16,23,10,1,,3,Sebastian Korda,Grigor Dimitrov,6-4 3-6 7-5,1.23,9.8%,0.0%,65.9%,83.3%,46.4%,2/4,51.4%,35.9%,10.7%,23.4%,56.4%,3/14,185,8,0,82,54,28,11,1:59
+17-Jun-2024,Queen's Club,3,Grass,R32,23,22,1,,,Sebastian Korda,Karen Khachanov,7-5 7-6(5),1.81,16.9%,0.0%,60.0%,92.3%,65.4%,1/1,54.8%,33.3%,6.2%,17.4%,54.3%,1/7,146,11,0,65,39,26,5,1:36
+10-Jun-2024,s Hertogenbosch,3,Grass,F,26,9,0,7,1,Alex De Minaur,Sebastian Korda,6-2 6-4,0.80,4.2%,5.6%,61.1%,54.5%,35.7%,9/14,45.0%,42.1%,3.5%,23.3%,63.0%,2/6,129,3,4,72,44,28,2,1:34
+10-Jun-2024,s Hertogenbosch,3,Grass,SF,26,23,1,7,6,Sebastian Korda,Tallon Griekspoor,6-2 6-4,2.06,10.9%,2.2%,65.2%,80.0%,81.3%,0/0,58.3%,40.4%,5.3%,36.4%,45.8%,3/4,103,5,1,46,30,16,3,1:04
+10-Jun-2024,s Hertogenbosch,3,Grass,QF,26,13,1,7,2,Sebastian Korda,Tommy Paul,6-4 6-2,2.15,4.5%,0.0%,72.7%,84.4%,66.7%,0/1,59.2%,44.1%,3.4%,22.6%,67.9%,4/8,103,2,0,44,32,12,2,1:07
+10-Jun-2024,s Hertogenbosch,3,Grass,R16,26,73,1,7,,Sebastian Korda,Luca Nardi,7-5 7-5,1.35,9.3%,4.0%,58.7%,84.1%,41.9%,3/5,54.9%,44.9%,1.1%,38.3%,58.6%,4/12,164,7,3,75,44,31,1,1:47
+10-Jun-2024,s Hertogenbosch,3,Grass,R32,26,185,1,7,Q,Sebastian Korda,Tristan Schoolkate,6-4 7-6(4),1.67,23.8%,1.6%,68.3%,83.7%,80.0%,3/3,55.5%,29.2%,13.8%,11.1%,51.7%,1/4,128,15,1,63,43,20,9,1:19
+27-May-2024,Roland Garros,5,Clay,R32,28,3,0,27,3,Carlos Alcaraz,Sebastian Korda,6-4 7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R64,28,494,1,27,,Sebastian Korda,Soon Woo Kwon,6-4 6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,28,122,1,27,WC,Sebastian Korda,Harold Mayot,6-2 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,Rome Masters,3,Clay,R32,27,13,0,24,11,Taylor Fritz,Sebastian Korda,6-3 6-4,0.50,9.4%,1.9%,60.4%,62.5%,57.1%,3/5,40.8%,20.0%,16.0%,10.0%,35.0%,0/0,103,5,1,53,32,21,8,1:11
 6-May-2024,Rome Masters,3,Clay,R64,27,57,1,24,,Sebastian Korda,Flavio Cobolli,7-6(6) 4-6 6-4,1.13,4.0%,0.0%,49.5%,78.0%,58.8%,3/5,50.7%,35.8%,5.8%,26.2%,47.3%,2/9,221,4,0,101,50,51,7,2:43
 22-Apr-2024,Madrid Masters,3,Clay,R32,26,4,0,25,3,Daniil Medvedev,Sebastian Korda,5-7 7-6(4) 6-3,0.92,12.9%,0.0%,58.4%,69.5%,59.5%,3/5,47.5%,31.9%,6.0%,23.4%,48.7%,2/11,217,13,0,101,59,42,7,2:25

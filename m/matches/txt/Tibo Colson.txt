@@ -1,6 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Augsburg CH,3,Clay,Q2,460,420,0,,4,Andrea Picchione,Tibo Colson,6-1 7-6(3),0.57,7.2%,4.3%,56.5%,61.5%,43.3%,4/8,42.4%,26.5%,0.0%,24.2%,31.3%,1/1,118,5,3,69,39,30,0,1:24
-19-May-2024,Augsburg CH,3,Clay,Q1,460,1240,1,,WC,Tibo Colson,Justin Engel,6-4 1-6 6-2,1.04,2.5%,11.3%,46.3%,67.6%,53.5%,8/11,51.0%,41.6%,2.6%,25.6%,61.8%,4/7,157,2,9,80,37,43,2,1:40
+14-Jul-2024,Amersfoort CH,3,Clay,Q2,509,726,0,,WC,Deney Wassermann,Tibo Colson,6-1 5-7 6-2,0.77,5.4%,6.8%,47.3%,74.3%,51.3%,1/5,44.9%,29.3%,2.4%,26.5%,33.3%,1/3,156,4,5,74,35,39,2,1:50
+14-Jul-2024,Amersfoort CH,3,Clay,Q1,509,316,1,,4,Tibo Colson,Adolfo Daniel Vallejo,7-6(3) 6-3,1.38,26.1%,2.9%,60.9%,85.7%,48.1%,0/1,54.9%,40.0%,0.0%,40.8%,38.5%,2/5,144,18,2,69,42,27,0,1:39
+8-Jul-2024,Braunschweig CH,3,Clay,Q1,449,428,0,,11,Alexey Vatutin,Tibo Colson,6-1 7-6(4),0.63,11.9%,9.0%,56.7%,68.4%,31.0%,5/9,42.5%,30.2%,1.9%,25.0%,38.1%,1/1,120,8,6,67,38,29,1,1:15
+1-Jul-2024,Karlsruhe CH,3,Clay,Q2,449,420,0,,3,Edas Butvilas,Tibo Colson,6-4 3-6 6-2,0.75,9.1%,5.7%,61.4%,64.8%,55.9%,5/8,46.1%,29.1%,1.3%,23.1%,40.7%,1/6,167,8,5,88,54,34,1,1:52
+1-Jul-2024,Karlsruhe CH,3,Clay,Q1,449,1299,1,,,Tibo Colson,Daniel Salazar Martinez,6-1 6-3,1.59,20.4%,7.4%,61.1%,87.9%,42.9%,3/3,58.9%,47.2%,0.0%,41.7%,58.8%,4/9,107,11,4,54,33,21,0,
+24-Jun-2024,M25 Brussels,3,Clay,R32,450,708,0,7,,Timo Legout,Tibo Colson,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M25 Duffel,3,Clay,R32,463,725,0,6,,John Sperle,Tibo Colson,6-2 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,SF,462,384,0,3,1,Carlos Lopez Montagud,Tibo Colson,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,QF,462,451,1,3,5,Tibo Colson,Edas Butvilas,6-4 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,R16,462,,1,3,WC,Tibo Colson,Reda Bennani,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Rabat,3,Clay,R32,462,1124,1,3,,Tibo Colson,Younes Lalami Laaroussi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Augsburg CH,3,Clay,Q2,460,420,0,,4,Andrea Picchione,Tibo Colson,6-1 7-6(3),0.57,7.2%,4.3%,56.5%,61.5%,43.3%,4/8,42.4%,26.5%,0.0%,24.2%,31.3%,1/1,118,5,3,69,39,30,0,1:24
+20-May-2024,Augsburg CH,3,Clay,Q1,460,1240,1,,WC,Tibo Colson,Justin Engel,6-4 1-6 6-2,1.04,2.5%,11.3%,46.3%,67.6%,53.5%,8/11,51.0%,41.6%,2.6%,25.6%,61.8%,4/7,157,2,9,80,37,43,2,1:40
 13-May-2024,M15 Prijedor,3,Clay,R32,458,960,0,1,,Gabriele Bosio,Tibo Colson,7-6(3) RET,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,Prague CH,3,Clay,Q1,458,304,0,,3,Giovanni Fonio,Tibo Colson,6-2 6-0,0.57,10.5%,14.0%,63.2%,47.2%,38.1%,9/14,38.3%,32.0%,4.0%,25.0%,44.4%,0/1,107,6,8,57,36,21,2,1:05
 1-Apr-2024,M15 Lons-le-Saunier,3,Hard,R16,439,,0,2,,Max Stenzer,Tibo Colson,W/O,,,,,,,,,,,,,,,,,,,,,

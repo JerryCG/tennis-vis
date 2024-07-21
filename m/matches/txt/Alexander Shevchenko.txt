@@ -1,7 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-18-May-2024,Geneva,3,Clay,QF,61,56,0,,,Flavio Cobolli,Alexander Shevchenko,6-4 6-4,0.97,3.6%,1.8%,71.4%,62.5%,68.8%,2/5,48.0%,34.8%,1.4%,18.4%,54.8%,1/6,125,2,1,56,40,16,1,1:22
-18-May-2024,Geneva,3,Clay,R16,61,66,1,,,Alexander Shevchenko,Emil Ruusuvuori,W/O,,,,,,,,,,,,,,,,,,,,,
-18-May-2024,Geneva,3,Clay,R32,61,41,1,,7,Alexander Shevchenko,Fabian Marozsan,6-4 7-6(4),1.17,8.1%,1.4%,62.2%,76.1%,53.6%,2/3,53.1%,38.0%,2.8%,40.0%,35.5%,2/4,145,6,1,74,46,28,2,1:31
+13-Jul-2024,Hamburg,3,Clay,R16,56,35,0,,7,Luciano Darderi,Alexander Shevchenko,6-3 2-6 6-3,0.90,1.3%,5.3%,52.0%,56.4%,50.0%,3/8,47.4%,41.8%,5.1%,34.9%,50.0%,4/8,154,1,4,75,39,36,4,1:53
+13-Jul-2024,Hamburg,3,Clay,R32,56,197,1,,WC,Alexander Shevchenko,Rudolf Molleker,6-4 4-6 6-4,1.11,10.8%,3.2%,57.0%,69.8%,50.0%,6/10,51.8%,43.1%,5.9%,36.5%,53.8%,5/10,195,10,3,93,53,40,6,2:03
+1-Jul-2024,Wimbledon,5,Grass,R128,57,16,0,,16,Ugo Humbert,Alexander Shevchenko,6-1 4-6 7-6(2) 6-7(3) 6-1,0.71,6.8%,5.0%,55.3%,64.0%,55.6%,9/16,45.8%,28.4%,11.9%,20.9%,41.7%,3/10,295,11,8,161,89,72,16,3:18
+24-Jun-2024,Mallorca,3,Grass,R16,58,24,0,,4,Alejandro Tabilo,Alexander Shevchenko,6-3 6-2,0.66,3.4%,1.7%,70.7%,70.7%,23.5%,4/7,42.1%,28.6%,9.5%,18.6%,50.0%,0/5,121,2,1,58,41,17,6,1:09
+24-Jun-2024,Mallorca,3,Grass,R32,58,90,1,,Q,Alexander Shevchenko,Constant Lestienne,7-5 7-6(5),1.02,12.0%,0.0%,65.1%,75.9%,37.9%,3/5,50.6%,38.3%,0.0%,29.4%,53.3%,3/6,164,10,0,83,54,29,0,1:41
+17-Jun-2024,Halle,3,Grass,Q1,58,101,0,2,,Max Purcell,Alexander Shevchenko,6-3 6-2,0.33,5.8%,5.8%,60.9%,59.5%,40.7%,3/7,39.3%,15.8%,23.7%,10.3%,33.3%,0/0,107,4,4,69,42,27,9,1:03
+27-May-2024,Roland Garros,5,Clay,R64,59,79,0,,,Corentin Moutet,Alexander Shevchenko,6-4 6-2 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,59,82,1,,,Alexander Shevchenko,Aslan Karatsev,6-4 4-6 1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Geneva,3,Clay,QF,61,56,0,,,Flavio Cobolli,Alexander Shevchenko,6-4 6-4,0.97,3.6%,1.8%,71.4%,62.5%,68.8%,2/5,48.0%,34.8%,1.4%,18.4%,54.8%,1/6,125,2,1,56,40,16,1,1:22
+20-May-2024,Geneva,3,Clay,R16,61,66,1,,,Alexander Shevchenko,Emil Ruusuvuori,W/O,,,,,,,,,,,,,,,,,,,,,
+20-May-2024,Geneva,3,Clay,R32,61,41,1,,7,Alexander Shevchenko,Fabian Marozsan,6-4 7-6(4),1.17,8.1%,1.4%,62.2%,76.1%,53.6%,2/3,53.1%,38.0%,2.8%,40.0%,35.5%,2/4,145,6,1,74,46,28,2,1:31
 13-May-2024,Bordeaux CH,3,Clay,R16,60,123,0,3,WC,Giovanni Mpetshi Perricard,Alexander Shevchenko,7-6(2) 3-6 6-3,1.04,9.2%,3.4%,55.2%,77.1%,59.0%,3/5,50.0%,32.3%,14.0%,15.0%,63.6%,2/4,180,8,3,87,48,39,13,1:49
 6-May-2024,Rome Masters,3,Clay,R64,60,18,0,,16,Karen Khachanov,Alexander Shevchenko,6-4 6-4,0.80,4.4%,2.9%,52.9%,69.4%,53.1%,1/3,46.0%,30.4%,8.7%,16.2%,46.9%,0/3,137,3,2,68,36,32,6,1:41
 6-May-2024,Rome Masters,3,Clay,R128,60,36,1,,,Alexander Shevchenko,Fabian Marozsan,6-3 6-2,1.73,4.4%,0.0%,62.2%,71.4%,70.6%,0/0,59.2%,50.0%,0.0%,45.7%,56.5%,4/6,103,2,0,45,28,17,0,1:11

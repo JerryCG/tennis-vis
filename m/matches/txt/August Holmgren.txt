@@ -1,5 +1,21 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-19-May-2024,Augsburg CH,3,Clay,R32,305,372,0,6,,Daniel Michalski,August Holmgren,6-2 6-2,0.68,1.8%,12.3%,61.4%,57.1%,27.3%,3/8,41.4%,37.0%,1.9%,35.1%,41.2%,1/5,111,1,7,57,35,22,1,1:26
+14-Jul-2024,Pozoblanco CH,3,Hard,QF,320,432,1,3,,August Holmgren,Dan Added,7-6(6) 7-6(3),1.56,10.1%,5.8%,69.6%,81.3%,76.2%,0/1,53.6%,31.7%,2.4%,23.3%,54.5%,1/4,151,7,4,69,48,21,2,1:46
+14-Jul-2024,Pozoblanco CH,3,Hard,R16,320,543,1,3,,August Holmgren,Stuart Parker,6-1 6-3,3.04,7.9%,2.6%,68.4%,80.8%,91.7%,0/0,63.6%,48.0%,6.0%,38.7%,63.2%,4/4,88,3,1,38,26,12,3,1:03
+14-Jul-2024,Pozoblanco CH,3,Hard,R32,320,427,1,3,,August Holmgren,Daniel Merida Aguilar,6-4 6-1,2.33,18.2%,4.5%,61.4%,77.8%,76.5%,1/2,64.5%,53.1%,0.0%,46.4%,61.9%,4/8,93,8,2,44,27,17,0,0:57
+8-Jul-2024,M25 Nottingham,3,Hard,F,291,649,1,2,,August Holmgren,Jack Pinnington Jones,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Nottingham,3,Hard,SF,291,664,1,2,,August Holmgren,Emile Hudd,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Nottingham,3,Hard,QF,291,479,1,2,6,August Holmgren,Kyle Edmund,1-6 6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Nottingham,3,Hard,R16,291,1168,1,2,Q,August Holmgren,Ewen Lumsden,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,M25 Nottingham,3,Hard,R32,291,824,1,2,,August Holmgren,Michael Zhu,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,R32,291,158,0,Q,5,Andrea Pellegrino,August Holmgren,5-7 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q2,291,456,1,1,8,August Holmgren,Yanki Erel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,F,310,282,0,2,1,Elmer Moller,August Holmgren,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,SF,310,401,1,2,4,August Holmgren,Lucas Gerch,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,QF,310,985,1,2,,August Holmgren,Adam Heinonen,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R16,310,1005,1,2,,August Holmgren,Kane Bonsach Ganley,6-7(5) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,M25 Aarhus,3,Clay,R32,310,541,1,2,,August Holmgren,Olaf Pieczkowski,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+3-Jun-2024,Heilbronn CH,3,Clay,R32,305,250,0,Alt,,Javier Barranco Cosano,August Holmgren,6-4 6-2,0.68,5.4%,12.5%,51.8%,55.2%,37.0%,3/8,41.4%,36.4%,3.6%,37.1%,35.0%,2/3,111,3,7,56,29,27,2,1:21
+20-May-2024,Augsburg CH,3,Clay,R32,305,372,0,6,,Daniel Michalski,August Holmgren,6-2 6-2,0.68,1.8%,12.3%,61.4%,57.1%,27.3%,3/8,41.4%,37.0%,1.9%,35.1%,41.2%,1/5,111,1,7,57,35,22,1,1:26
 13-May-2024,Oeiras CH,3,Clay,Q1,307,408,0,10,,Frederico Ferreira Silva,August Holmgren,6-1 6-7(5) 6-3,0.78,5.4%,5.4%,60.9%,69.6%,38.9%,6/11,44.8%,33.0%,1.0%,33.8%,30.8%,2/7,192,5,5,92,56,36,1,2:32
 15-Apr-2024,Gwangju CH,3,Hard,Q1,283,625,0,1,WC,Duck Hee Lee,August Holmgren,7-5 7-5,0.95,2.6%,7.7%,59.0%,65.2%,43.8%,6/11,48.7%,41.3%,1.3%,37.0%,50.0%,3/6,158,2,6,78,46,32,1,1:57
 8-Apr-2024,Busan CH,3,Hard,Q1,283,596,0,1,Alt,Yuki Mochizuki,August Holmgren,6-4 6-2,0.52,5.9%,7.8%,39.2%,80.0%,45.2%,2/5,40.8%,21.3%,4.3%,13.9%,45.5%,0/1,98,3,4,51,20,31,2,1:13
