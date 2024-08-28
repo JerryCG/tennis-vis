@@ -1,7 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Jul-2024,Gstaad,3,Clay,R32,143,111,0,LL,,Yannick Hanfmann,Nicolas Moreno De Alboran,7-6(2) 6-7(2) 6-4,0.83,8.2%,0.0%,65.5%,75.0%,63.2%,5/6,48.6%,24.0%,9.0%,13.7%,51.9%,0/2,210,9,0,110,72,38,9,2:36
-13-Jul-2024,Gstaad,3,Clay,Q2,143,192,0,2,7,Quentin Halys,Nicolas Moreno De Alboran,7-5 6-3,0.73,9.8%,9.8%,60.7%,75.7%,50.0%,0/2,44.2%,25.0%,10.3%,20.0%,32.1%,0/4,129,6,6,61,37,24,7,1:25
-13-Jul-2024,Gstaad,3,Clay,Q1,143,267,1,2,,Nicolas Moreno De Alboran,Andrea Collarini,6-2 6-2,1.84,20.0%,6.7%,64.4%,86.2%,50.0%,0/0,60.0%,49.1%,0.0%,40.5%,76.9%,4/8,100,9,3,45,29,16,0,
+26-Aug-2024,US Open,5,Hard,Q1,145,131,0,,16,Leandro Riedi,Nicolas Moreno De Alboran,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Cary CH,3,Hard,R32,144,92,0,Alt,4,David Goffin,Nicolas Moreno De Alboran,6-4 4-6 6-2,0.83,2.1%,6.3%,60.0%,56.1%,55.3%,4/9,46.1%,36.7%,4.1%,26.4%,48.9%,3/5,193,2,6,95,57,38,4,2:28
+5-Aug-2024,Cordenons CH,3,Clay,R32,135,354,0,2,ALT,Sandro Kopp,Nicolas Moreno De Alboran,7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Kitzbuhel,3,Clay,QF,143,50,0,WC,,Matteo Berrettini,Nicolas Moreno De Alboran,7-6(5) 6-3,0.64,2.7%,4.0%,61.3%,71.7%,55.2%,4/5,44.8%,22.1%,10.3%,10.6%,47.6%,0/3,143,2,3,75,46,29,7,1:51
+22-Jul-2024,Kitzbuhel,3,Clay,R16,143,289,1,WC,WC,Nicolas Moreno De Alboran,Lukas Neumayer,6-4 6-4,2.03,2.0%,4.1%,61.2%,86.7%,73.7%,0/0,57.4%,37.3%,1.7%,34.1%,44.4%,2/4,108,1,2,49,30,19,1,1:24
+22-Jul-2024,Kitzbuhel,3,Clay,R32,143,264,1,WC,Q,Nicolas Moreno De Alboran,Andrea Collarini,6-4 6-4,1.69,5.9%,2.0%,49.0%,80.0%,69.2%,1/2,56.9%,43.1%,0.0%,38.1%,52.2%,3/5,116,3,1,51,25,26,0,1:27
+15-Jul-2024,Gstaad,3,Clay,R32,143,111,0,LL,,Yannick Hanfmann,Nicolas Moreno De Alboran,7-6(2) 6-7(2) 6-4,0.83,8.2%,0.0%,65.5%,75.0%,63.2%,5/6,48.6%,24.0%,9.0%,13.7%,51.9%,0/2,210,9,0,110,72,38,9,2:36
+15-Jul-2024,Gstaad,3,Clay,Q2,143,192,0,2,7,Quentin Halys,Nicolas Moreno De Alboran,7-5 6-3,0.73,9.8%,9.8%,60.7%,75.7%,50.0%,0/2,44.2%,25.0%,10.3%,20.0%,32.1%,0/4,129,6,6,61,37,24,7,1:25
+15-Jul-2024,Gstaad,3,Clay,Q1,143,267,1,2,,Nicolas Moreno De Alboran,Andrea Collarini,6-2 6-2,1.84,20.0%,6.7%,64.4%,86.2%,50.0%,0/0,60.0%,49.1%,0.0%,40.5%,76.9%,4/8,100,9,3,45,29,16,0,
 8-Jul-2024,Iasi CH,3,Clay,R32,146,382,0,5,WC,Gabi Adrian Boitan,Nicolas Moreno De Alboran,7-6(5) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,Brasov CH,3,Clay,SF,146,222,0,2,8,Dmitry Popko,Nicolas Moreno De Alboran,6-7(2) 6-2 6-2,0.86,8.3%,4.2%,61.5%,64.4%,35.1%,6/13,46.4%,40.5%,7.2%,30.4%,50.9%,3/10,207,8,4,96,59,37,8,2:46
 1-Jul-2024,Brasov CH,3,Clay,QF,146,317,1,2,,Nicolas Moreno De Alboran,Matej Dodig,6-4 6-4,1.49,11.1%,9.3%,63.0%,88.2%,55.0%,0/0,54.2%,35.9%,7.8%,28.9%,46.2%,2/5,118,6,5,54,34,20,5,1:41

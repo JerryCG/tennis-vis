@@ -1,7 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Jul-2024,Hamburg,3,Clay,QF,33,49,0,4,,Pedro Martinez,Francisco Cerundolo,1-6 6-1 6-4,0.87,2.9%,4.3%,57.1%,60.0%,40.0%,5/10,47.1%,42.4%,0.0%,42.0%,43.8%,4/5,136,2,3,70,40,30,0,1:56
-13-Jul-2024,Hamburg,3,Clay,R16,33,108,1,4,WC,Francisco Cerundolo,Maximilian Marterer,6-0 6-2,1.76,5.8%,3.8%,59.6%,74.2%,52.4%,3/3,63.4%,61.0%,0.0%,62.1%,58.3%,5/10,93,3,2,52,31,21,0,1:08
-13-Jul-2024,Hamburg,3,Clay,R32,33,100,1,4,LL,Francisco Cerundolo,Francisco Comesana,7-5 6-4,1.14,6.0%,6.0%,65.7%,65.9%,52.2%,4/7,52.6%,44.1%,4.4%,45.3%,40.0%,5/12,135,4,4,67,44,23,3,1:39
+17-Aug-2024,Winston-Salem,3,Hard,R32,29,107,0,3,LL,Zachary Svajda,Francisco Cerundolo,6-4 6-4,0.76,1.5%,7.5%,50.7%,70.6%,48.5%,5/8,44.9%,30.4%,2.9%,26.1%,39.1%,1/8,136,1,5,67,34,33,2,1:34
+12-Aug-2024,Cincinnati Masters,3,Hard,R64,28,22,0,,,Karen Khachanov,Francisco Cerundolo,6-0 6-3,0.58,4.2%,6.3%,62.5%,63.3%,16.7%,2/7,38.5%,31.3%,18.8%,22.6%,47.1%,0/2,96,2,3,48,30,18,9,1:04
+29-Jul-2024,Paris Olympics,3,Clay,R16,26,9,0,,6,Casper Ruud,Francisco Cerundolo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Paris Olympics,3,Clay,R32,26,15,1,,10,Francisco Cerundolo,Ugo Humbert,7-5 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Paris Olympics,3,Clay,R64,26,165,1,,ITF,Francisco Cerundolo,Tomas Barrios Vera,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Umag,3,Clay,F,37,17,1,4,2,Francisco Cerundolo,Lorenzo Musetti,2-6 6-4 7-6(5),0.95,0.8%,3.2%,72.2%,62.6%,45.7%,7/11,50.0%,39.8%,3.1%,33.9%,50.0%,3/5,224,1,4,126,91,35,3,3:00
+22-Jul-2024,Umag,3,Clay,SF,37,9,1,4,1,Francisco Cerundolo,Andrey Rublev,7-6(6) 6-4,1.19,5.1%,7.6%,54.4%,79.1%,52.8%,5/6,53.6%,39.2%,4.1%,27.9%,54.8%,2/5,153,4,6,79,43,36,3,1:53
+22-Jul-2024,Umag,3,Clay,QF,37,54,1,4,,Francisco Cerundolo,Lorenzo Sonego,6-4 2-6 7-6(2),0.93,1.1%,2.1%,71.6%,73.5%,59.3%,4/6,49.7%,28.4%,3.4%,29.0%,26.9%,1/1,183,1,2,95,68,27,3,2:33
+22-Jul-2024,Umag,3,Clay,R16,37,310,1,4,WC,Francisco Cerundolo,Matej Dodig,6-3 6-4,2.33,2.0%,8.2%,63.3%,90.3%,66.7%,0/0,58.8%,42.9%,2.9%,30.4%,66.7%,2/10,119,1,4,49,31,18,2,1:29
+15-Jul-2024,Hamburg,3,Clay,QF,33,49,0,4,,Pedro Martinez,Francisco Cerundolo,1-6 6-1 6-4,0.87,2.9%,4.3%,57.1%,60.0%,40.0%,5/10,47.1%,42.4%,0.0%,42.0%,43.8%,4/5,136,2,3,70,40,30,0,1:56
+15-Jul-2024,Hamburg,3,Clay,R16,33,108,1,4,WC,Francisco Cerundolo,Maximilian Marterer,6-0 6-2,1.76,5.8%,3.8%,59.6%,74.2%,52.4%,3/3,63.4%,61.0%,0.0%,62.1%,58.3%,5/10,93,3,2,52,31,21,0,1:08
+15-Jul-2024,Hamburg,3,Clay,R32,33,100,1,4,LL,Francisco Cerundolo,Francisco Comesana,7-5 6-4,1.14,6.0%,6.0%,65.7%,65.9%,52.2%,4/7,52.6%,44.1%,4.4%,45.3%,40.0%,5/12,135,4,4,67,44,23,3,1:39
 1-Jul-2024,Wimbledon,5,Grass,R128,30,44,0,26,,Roman Safiullin,Francisco Cerundolo,6-7(5) 3-6 7-5 6-3 6-4,0.76,7.3%,4.5%,60.9%,71.6%,47.1%,14/19,47.1%,29.1%,7.4%,24.0%,39.6%,3/10,327,13,8,179,109,70,11,3:26
 24-Jun-2024,Eastbourne,3,Grass,R32,27,46,0,5,,Marcos Giron,Francisco Cerundolo,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,Queen's Club,3,Grass,R32,26,2,0,,1,Carlos Alcaraz,Francisco Cerundolo,6-1 7-5,0.56,1.9%,5.6%,55.6%,56.7%,45.8%,4/8,39.1%,26.8%,3.6%,21.2%,34.8%,1/4,110,1,3,54,30,24,2,1:22

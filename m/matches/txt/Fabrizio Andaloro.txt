@@ -1,8 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-14-Jul-2024,Pozoblanco CH,3,Hard,R16,601,432,0,Q,,Dan Added,Fabrizio Andaloro,6-3 6-1,0.53,2.0%,6.1%,49.0%,62.5%,40.0%,3/7,38.9%,26.1%,10.9%,16.1%,46.7%,0/0,95,1,3,49,24,25,5,1:10
-14-Jul-2024,Pozoblanco CH,3,Hard,R32,601,364,1,Q,8,Fabrizio Andaloro,Jie Cui,7-6(3) 6-3,1.16,12.0%,5.3%,58.7%,75.0%,45.2%,2/4,53.0%,43.2%,5.4%,33.3%,65.2%,4/6,149,9,4,75,44,31,4,1:57
-14-Jul-2024,Pozoblanco CH,3,Hard,Q2,601,936,1,2,8,Fabrizio Andaloro,Oscar Jose Gutierrez,6-3 6-2,1.93,6.8%,4.5%,63.6%,78.6%,68.8%,0/0,59.6%,48.3%,0.0%,34.4%,64.3%,4/7,104,3,2,44,28,16,0,1:09
-14-Jul-2024,Pozoblanco CH,3,Hard,Q1,601,1233,1,2,,Fabrizio Andaloro,Noah Lopez,6-2 6-0,1.92,8.1%,5.4%,51.4%,78.9%,50.0%,3/5,66.3%,67.3%,2.0%,60.6%,81.3%,7/9,86,3,2,37,19,18,1,1:04
+5-Aug-2024,M15+H Tauste,3,Hard,F,644,679,0,5,6,Julio Cesar Porras,Fabrizio Andaloro,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,M15+H Tauste,3,Hard,SF,644,538,1,5,2,Fabrizio Andaloro,Alejo Sanchez Quilez,7-5 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,M15+H Tauste,3,Hard,QF,644,606,1,5,3,Fabrizio Andaloro,Mario Gonzalez Fernandez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,M15+H Tauste,3,Hard,R16,644,,1,5,WC,Fabrizio Andaloro,Daniel Sancho Arbizu,6-3 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,M15+H Tauste,3,Hard,R32,644,,1,5,WC,Fabrizio Andaloro,Pablo Roche Alcaya,6-4 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Segovia CH,3,Hard,R32,574,253,0,Q,4,Egor Gerasimov,Fabrizio Andaloro,6-4 6-3,0.78,3.3%,13.3%,38.3%,78.3%,35.1%,8/12,44.4%,37.9%,4.5%,22.2%,56.7%,2/5,126,2,8,60,23,37,3,1:31
+22-Jul-2024,Segovia CH,3,Hard,Q2,574,241,1,10,1,Fabrizio Andaloro,Arthur Fery,7-5 6-3,1.23,7.4%,4.4%,52.9%,75.0%,65.6%,3/3,54.8%,36.2%,5.2%,32.5%,44.4%,2/3,126,5,3,68,36,32,3,1:20
+22-Jul-2024,Segovia CH,3,Hard,Q1,574,846,1,10,PR,Fabrizio Andaloro,Arthur Reymond,6-2 6-3,1.46,2.0%,6.0%,58.0%,72.4%,66.7%,2/2,56.1%,43.9%,5.3%,29.6%,56.7%,4/9,107,1,3,50,29,21,3,1:07
+15-Jul-2024,Pozoblanco CH,3,Hard,R16,601,432,0,Q,,Dan Added,Fabrizio Andaloro,6-3 6-1,0.53,2.0%,6.1%,49.0%,62.5%,40.0%,3/7,38.9%,26.1%,10.9%,16.1%,46.7%,0/0,95,1,3,49,24,25,5,1:10
+15-Jul-2024,Pozoblanco CH,3,Hard,R32,601,364,1,Q,8,Fabrizio Andaloro,Jie Cui,7-6(3) 6-3,1.16,12.0%,5.3%,58.7%,75.0%,45.2%,2/4,53.0%,43.2%,5.4%,33.3%,65.2%,4/6,149,9,4,75,44,31,4,1:57
+15-Jul-2024,Pozoblanco CH,3,Hard,Q2,601,936,1,2,8,Fabrizio Andaloro,Oscar Jose Gutierrez,6-3 6-2,1.93,6.8%,4.5%,63.6%,78.6%,68.8%,0/0,59.6%,48.3%,0.0%,34.4%,64.3%,4/7,104,3,2,44,28,16,0,1:09
+15-Jul-2024,Pozoblanco CH,3,Hard,Q1,601,1233,1,2,,Fabrizio Andaloro,Noah Lopez,6-2 6-0,1.92,8.1%,5.4%,51.4%,78.9%,50.0%,3/5,66.3%,67.3%,2.0%,60.6%,81.3%,7/9,86,3,2,37,19,18,1,1:04
 8-Jul-2024,Trieste CH,3,Clay,Q1,606,548,0,WC,13,Andrea Guerrieri,Fabrizio Andaloro,6-2 6-1,0.72,0.0%,1.9%,51.9%,42.9%,38.5%,9/15,41.7%,42.6%,5.6%,25.0%,56.7%,1/6,108,0,1,54,28,26,3,1:20
 10-Jun-2024,M15 Chieti,3,Clay,R32,611,1504,0,4,,Gabriele Vulpitta,Fabrizio Andaloro,5-7 6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
 13-May-2024,M15 Kursumlijska Banja ,3,Clay,SF,656,532,0,6,3,Edas Butvilas,Fabrizio Andaloro,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

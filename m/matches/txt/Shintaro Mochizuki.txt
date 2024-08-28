@@ -1,5 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-14-Jul-2024,Newport,3,Grass,R32,156,66,0,,7,Arthur Rinderknech,Shintaro Mochizuki,6-3 7-6(5),0.91,4.6%,4.6%,44.6%,58.6%,58.3%,4/7,46.7%,37.9%,10.3%,12.8%,67.5%,2/7,152,3,3,65,29,36,9,1:51
+26-Aug-2024,US Open,5,Hard,Q3,155,138,0,,,Radu Albot,Shintaro Mochizuki,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q2,155,124,1,,22,Shintaro Mochizuki,Roman Andres Burruchaga,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,155,203,1,,,Shintaro Mochizuki,Martin Damm,6-7(7) 6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Cary CH,3,Hard,Q2,157,155,0,9,,Gabriel Diallo,Shintaro Mochizuki,7-6(4) 6-2,0.69,0.0%,2.9%,61.8%,59.5%,57.7%,5/8,44.5%,28.3%,15.0%,17.6%,42.3%,1/3,128,0,2,68,42,26,9,1:38
+12-Aug-2024,Cary CH,3,Hard,Q1,157,200,1,9,Alt,Shintaro Mochizuki,Marc Polmans,7-5 6-4,1.50,5.4%,3.6%,66.1%,78.4%,63.2%,0/1,54.7%,40.3%,6.9%,29.5%,57.1%,3/10,128,3,2,56,37,19,5,
+5-Aug-2024,Lincoln CH,3,Hard,R32,158,134,0,LL,5,Bu Yunchaokete,Shintaro Mochizuki,6-4 6-2,0.79,0.0%,6.2%,52.3%,52.9%,38.7%,9/14,44.1%,42.5%,3.4%,38.5%,48.6%,2/15,152,0,4,65,34,31,3,1:47
+5-Aug-2024,Lincoln CH,3,Hard,Q2,158,631,0,1,,Colton Smith,Shintaro Mochizuki,7-5 6-0,0.64,3.3%,4.9%,57.4%,62.9%,42.3%,3/7,42.0%,29.3%,6.9%,27.5%,33.3%,0/2,119,2,3,61,35,26,4,1:24
+5-Aug-2024,Lincoln CH,3,Hard,Q1,158,1762,1,1,Alt,Shintaro Mochizuki,Kelsey Stevenson,6-4 6-2,1.74,9.3%,7.0%,53.5%,82.6%,55.0%,0/2,59.0%,52.7%,1.4%,47.5%,58.8%,5/10,117,4,3,43,23,20,1,1:20
+29-Jul-2024,Washington,3,Hard,Q2,160,216,0,10,Alt,Elias Ymer,Shintaro Mochizuki,6-3 6-0,0.49,2.6%,7.7%,46.2%,38.9%,38.1%,0/5,34.1%,30.2%,9.3%,30.4%,30.0%,1/1,82,1,3,39,18,21,4,1:02
+29-Jul-2024,Washington,3,Hard,Q1,160,898,1,10,WC,Shintaro Mochizuki,Andrew Fenty,3-6 7-6(4) 0-0 RET,0.92,5.2%,9.1%,48.1%,70.3%,50.0%,7/9,48.4%,36.8%,2.6%,33.3%,41.2%,1/6,153,4,7,77,37,40,2,2:04
+22-Jul-2024,Atlanta,3,Hard,Q1,160,95,0,,2,Adam Walton,Shintaro Mochizuki,6-4 6-2,0.59,3.6%,7.1%,55.4%,64.5%,40.0%,2/6,41.1%,27.5%,7.8%,25.0%,33.3%,1/3,107,2,4,56,31,25,4,
+15-Jul-2024,Newport,3,Grass,R32,156,66,0,,7,Arthur Rinderknech,Shintaro Mochizuki,6-3 7-6(5),0.91,4.6%,4.6%,44.6%,58.6%,58.3%,4/7,46.7%,37.9%,10.3%,12.8%,67.5%,2/7,152,3,3,65,29,36,9,1:51
 1-Jul-2024,Wimbledon,5,Grass,Q1,141,71,0,,2,Hugo Gaston,Shintaro Mochizuki,7-6(5) 6-4,0.79,5.3%,3.2%,56.4%,66.0%,58.5%,9/10,47.9%,29.3%,14.7%,17.5%,42.9%,0/5,169,5,3,94,53,41,11,1:44
 17-Jun-2024,Ilkley CH,3,Grass,Q1,141,182,0,3,,Maxime Cressy,Shintaro Mochizuki,6-1 6-4,0.61,1.4%,0.0%,54.8%,57.5%,48.5%,12/15,42.6%,28.6%,14.3%,13.9%,55.0%,0/6,129,1,0,73,40,33,8,1:32
 10-Jun-2024,Nottingham CH,3,Grass,R32,142,283,0,,Q,Charles Broom,Shintaro Mochizuki,6-7(9) 6-4 6-2,0.84,3.6%,4.5%,61.8%,64.7%,45.2%,6/12,47.1%,36.0%,10.0%,28.1%,50.0%,3/6,210,4,5,110,68,42,10,2:18

@@ -1,6 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-13-Jul-2024,Gstaad,3,Clay,Q2,284,162,0,WC,3,Juan Pablo Varillas,Jerome Kym,7-6(4) 4-6 6-1,0.86,17.2%,5.7%,60.9%,71.7%,38.2%,1/4,45.9%,35.5%,2.8%,34.9%,36.4%,2/6,194,15,5,87,53,34,3,2:33
-13-Jul-2024,Gstaad,3,Clay,Q1,284,194,1,WC,8,Jerome Kym,Maxime Janvier,6-4 6-4,1.52,17.2%,0.0%,69.0%,75.0%,61.1%,1/2,56.9%,44.6%,7.7%,41.9%,50.0%,3/3,123,10,0,58,40,18,5,
+26-Aug-2024,US Open,5,Hard,Q3,183,119,0,,17,Quentin Halys,Jerome Kym,7-6(4) 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q2,183,131,1,,16,Jerome Kym,Leandro Riedi,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,183,394,1,,,Jerome Kym,Bruno Kuzuhara,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,F,278,148,1,Alt,3,Jerome Kym,Roman Andres Burruchaga,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,SF,278,192,1,Alt,,Jerome Kym,Joris De Loore,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,QF,278,460,1,Alt,Q,Jerome Kym,Marko Topo,5-7 7-6(10) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,R16,278,190,1,Alt,,Jerome Kym,Kamil Majchrzak,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,R32,278,157,1,Alt,4,Jerome Kym,Juan Manuel Cerundolo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Gstaad,3,Clay,Q2,284,162,0,WC,3,Juan Pablo Varillas,Jerome Kym,7-6(4) 4-6 6-1,0.86,17.2%,5.7%,60.9%,71.7%,38.2%,1/4,45.9%,35.5%,2.8%,34.9%,36.4%,2/6,194,15,5,87,53,34,3,2:33
+15-Jul-2024,Gstaad,3,Clay,Q1,284,194,1,WC,8,Jerome Kym,Maxime Janvier,6-4 6-4,1.52,17.2%,0.0%,69.0%,75.0%,61.1%,1/2,56.9%,44.6%,7.7%,41.9%,50.0%,3/3,123,10,0,58,40,18,5,
 8-Jul-2024,Salzburg CH,3,Clay,R16,295,175,0,Alt,8,Alexander Ritschard,Jerome Kym,6-0 6-4,0.58,10.4%,10.4%,52.2%,60.0%,31.3%,4/9,40.4%,31.0%,2.4%,18.8%,38.5%,1/2,109,7,7,67,35,32,1,1:20
 8-Jul-2024,Salzburg CH,3,Clay,R32,295,804,1,Alt,Q,Jerome Kym,Johan Nikles,6-4 5-7 6-1,1.38,6.3%,3.8%,56.3%,73.3%,54.3%,2/5,55.9%,48.5%,0.0%,44.8%,53.8%,6/13,177,5,3,80,45,35,0,2:21
 1-Jul-2024,Karlsruhe CH,3,Clay,R32,295,228,0,,,Adrian Andreev,Jerome Kym,6-3 6-7(4) 7-5,1.02,13.3%,5.1%,61.2%,83.3%,34.2%,3/7,48.9%,36.4%,2.5%,31.0%,44.0%,2/11,219,13,5,98,60,38,3,2:56

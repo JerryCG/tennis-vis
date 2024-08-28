@@ -1,7 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-14-Jul-2024,Pozoblanco CH,3,Hard,QF,534,279,0,,4,Robin Bertrand,Laurent Lokoli,6-4 4-6 6-3,0.84,3.5%,3.5%,72.2%,61.4%,40.6%,7/12,47.8%,37.2%,3.5%,40.7%,31.3%,3/7,201,4,4,115,83,32,3,2:36
-14-Jul-2024,Pozoblanco CH,3,Hard,R16,534,566,1,,,Laurent Lokoli,Steven Diez,7-6(3) 1-0 RET,1.06,7.4%,1.9%,63.0%,70.6%,35.0%,3/4,50.9%,45.2%,4.8%,43.9%,47.6%,2/8,116,4,1,54,34,20,3,1:44
-14-Jul-2024,Pozoblanco CH,3,Hard,R32,534,379,1,,7,Laurent Lokoli,Alexis Gautier,6-3 7-5,1.15,0.0%,4.3%,63.8%,65.9%,60.0%,2/4,54.0%,41.8%,14.5%,28.6%,55.6%,4/6,124,0,3,69,44,25,8,1:34
+12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,QF,511,233,0,Q,8,Antoine Escoffier,Laurent Lokoli,6-4 1-6 6-1,0.89,3.7%,1.2%,54.3%,68.2%,40.5%,2/6,47.5%,39.5%,2.5%,28.3%,54.3%,3/6,162,3,1,81,44,37,2,2:10
+12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,R16,511,335,1,Q,,Laurent Lokoli,Alberto Barroso Campos,6-3 7-5,1.32,1.6%,6.5%,66.1%,63.4%,66.7%,4/6,54.7%,46.8%,0.0%,40.9%,54.5%,4/15,139,1,4,62,41,21,0,1:53
+12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,R32,511,168,1,Q,2,Laurent Lokoli,August Holmgren,5-7 6-4 6-4,0.98,2.1%,5.3%,52.6%,80.0%,44.4%,2/5,50.0%,36.3%,6.6%,29.6%,45.9%,4/6,186,2,5,95,50,45,6,2:28
+12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,Q2,511,302,1,7,2,Laurent Lokoli,Ricardas Berankis,6-3 7-6(6),1.13,6.6%,1.3%,60.5%,65.2%,50.0%,5/8,53.2%,46.0%,0.0%,35.3%,58.6%,4/4,139,5,1,76,46,30,0,1:46
+12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,Q1,511,1535,1,7,WC,Laurent Lokoli,Fryderyk Lechno Wasiutynski,6-4 6-0,1.59,8.5%,6.8%,59.3%,74.3%,45.8%,6/8,61.0%,59.3%,1.7%,62.9%,54.2%,6/9,118,5,4,59,35,24,1,1:35
+22-Jul-2024,Segovia CH,3,Hard,R32,510,341,0,,6,Michael Geerts,Laurent Lokoli,6-4 7-6(4),0.73,5.7%,5.7%,75.0%,65.2%,50.0%,8/10,46.5%,28.2%,7.0%,19.6%,44.0%,1/3,159,5,5,88,66,22,5,2:01
+15-Jul-2024,Pozoblanco CH,3,Hard,QF,534,279,0,,4,Robin Bertrand,Laurent Lokoli,6-4 4-6 6-3,0.84,3.5%,3.5%,72.2%,61.4%,40.6%,7/12,47.8%,37.2%,3.5%,40.7%,31.3%,3/7,201,4,4,115,83,32,3,2:36
+15-Jul-2024,Pozoblanco CH,3,Hard,R16,534,566,1,,,Laurent Lokoli,Steven Diez,7-6(3) 1-0 RET,1.06,7.4%,1.9%,63.0%,70.6%,35.0%,3/4,50.9%,45.2%,4.8%,43.9%,47.6%,2/8,116,4,1,54,34,20,3,1:44
+15-Jul-2024,Pozoblanco CH,3,Hard,R32,534,379,1,,7,Laurent Lokoli,Alexis Gautier,6-3 7-5,1.15,0.0%,4.3%,63.8%,65.9%,60.0%,2/4,54.0%,41.8%,14.5%,28.6%,55.6%,4/6,124,0,3,69,44,25,8,1:34
 1-Jul-2024,M25 Ajaccio+H,3,Hard,QF,443,231,0,8,2,Jules Marie,Laurent Lokoli,7-5 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Ajaccio+H,3,Hard,R16,443,678,1,8,,Laurent Lokoli,Harry Wendelken,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Ajaccio+H,3,Hard,R32,443,849,1,8,,Laurent Lokoli,Yanis Ghazouani Durand,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

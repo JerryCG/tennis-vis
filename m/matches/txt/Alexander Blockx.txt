@@ -1,5 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-14-Jul-2024,Amersfoort CH,3,Clay,R32,297,152,0,,1,Juan Manuel Cerundolo,Alexander Blockx,6-4 6-7(5) 6-3,0.95,14.0%,2.3%,58.1%,78.0%,47.2%,3/7,48.6%,33.0%,6.6%,22.4%,45.2%,2/4,177,12,2,86,50,36,6,2:18
+12-Aug-2024,M25 Koksijde,3,Clay,SF,265,343,0,2,3,Guy Den Ouden,Alexander Blockx,W/O,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M25 Koksijde,3,Clay,QF,265,507,1,2,7,Alexander Blockx,Tom Gentzsch,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M25 Koksijde,3,Clay,R16,265,1843,1,2,Q,Alexander Blockx,Louis Herman,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M25 Koksijde,3,Clay,R32,265,778,1,2,,Alexander Blockx,Emilien Demanet,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,SF,290,298,0,,,Carlos Taberner,Alexander Blockx,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,QF,290,250,1,,8,Alexander Blockx,Federico Arnaboldi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,R16,290,293,1,,,Alexander Blockx,Cezar Cretu,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,R32,290,228,1,,3,Alexander Blockx,Daniel Rincon,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Porto CH,3,Hard,R16,295,168,0,,6,Alejandro Moro Canas,Alexander Blockx,7-6(0) 6-4,0.91,0.0%,3.2%,56.5%,68.6%,40.7%,3/7,47.1%,39.5%,1.3%,34.5%,52.4%,3/10,138,0,2,62,35,27,1,1:46
+29-Jul-2024,Porto CH,3,Hard,R32,295,234,1,,,Alexander Blockx,Aziz Dougaz,6-4 6-2,1.54,14.3%,5.4%,66.1%,81.1%,52.6%,6/6,57.5%,43.9%,3.5%,36.4%,54.2%,3/5,113,8,3,56,37,19,2,1:11
+22-Jul-2024,Zug CH,3,Clay,R16,306,148,0,,3,Roman Andres Burruchaga,Alexander Blockx,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,R32,306,376,1,,Q,Alexander Blockx,Mateus Alves,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Amersfoort CH,3,Clay,R32,297,152,0,,1,Juan Manuel Cerundolo,Alexander Blockx,6-4 6-7(5) 6-3,0.95,14.0%,2.3%,58.1%,78.0%,47.2%,3/7,48.6%,33.0%,6.6%,22.4%,45.2%,2/4,177,12,2,86,50,36,6,2:18
 15-Apr-2024,Gwangju CH,3,Hard,R32,295,186,0,,5,Bu Yunchaokete,Alexander Blockx,3-2 RET,0.82,0.0%,0.0%,66.7%,50.0%,25.0%,0/1,45.5%,47.6%,0.0%,55.6%,41.7%,1/1,33,0,0,12,8,4,0,0:36
 8-Apr-2024,Busan CH,3,Hard,R32,297,194,0,,8,Coleman Wong,Alexander Blockx,6-3 6-3,0.69,1.8%,5.4%,62.5%,40.0%,52.4%,7/12,41.7%,38.5%,1.9%,27.8%,62.5%,2/2,108,1,3,56,35,21,1,1:12
 18-Mar-2024,Miami Masters,3,Hard,Q1,294,88,0,WC,8,Pedro Martinez,Alexander Blockx,6-2 6-2,0.45,7.7%,3.1%,55.4%,52.8%,37.9%,5/10,37.7%,24.4%,4.9%,6.7%,72.7%,1/1,106,5,2,65,36,29,2,1:23
