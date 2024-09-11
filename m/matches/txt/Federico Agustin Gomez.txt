@@ -1,6 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q2,177,102,0,,12,Mattia Bellucci,Federico Agustin Gomez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,177,227,1,,,Federico Agustin Gomez,Gijs Brouwer,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
+1-Sep-2024,Shanghai CH,3,Hard,R16,182,405,0,LL,Q,Kris Van Wyk,Federico Agustin Gomez,6-4 6-4,0.73,0.0%,2.8%,62.0%,54.5%,55.6%,4/8,45.5%,32.7%,3.8%,24.2%,47.4%,2/2,123,0,2,71,44,27,2,1:37
+1-Sep-2024,Shanghai CH,3,Hard,R32,182,302,1,LL,Q,Federico Agustin Gomez,Rio Noguchi,7-5 7-6(4),1.06,11.0%,3.7%,64.6%,69.8%,44.8%,4/7,51.2%,41.5%,2.4%,40.9%,43.8%,4/9,164,9,3,82,53,29,2,2:09
+1-Sep-2024,Shanghai CH,3,Hard,Q2,182,584,0,1,Alt,Norbert Gombos,Federico Agustin Gomez,6-2 6-4,0.85,5.7%,0.0%,67.9%,72.2%,41.2%,1/4,46.1%,32.3%,11.3%,30.8%,34.8%,0/2,115,3,0,53,36,17,7,1:23
+1-Sep-2024,Shanghai CH,3,Hard,Q1,182,439,1,1,,Federico Agustin Gomez,Mikalai Haliak,4-6 6-3 6-4,1.18,10.3%,2.3%,70.1%,70.5%,53.8%,5/8,53.6%,40.7%,1.2%,30.8%,58.6%,4/7,168,9,2,87,61,26,1,2:06
+26-Aug-2024,US Open,5,Hard,Q2,182,101,0,,12,Mattia Bellucci,Federico Agustin Gomez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,182,226,1,,,Federico Agustin Gomez,Gijs Brouwer,6-3 7-6(9),,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,Cary CH,3,Hard,Q2,177,113,0,11,1,Mattia Bellucci,Federico Agustin Gomez,6-4 6-2,0.77,6.3%,9.4%,51.6%,63.6%,38.7%,9/13,44.3%,37.3%,6.0%,30.4%,52.4%,1/5,131,4,6,64,33,31,4,1:32
 12-Aug-2024,Cary CH,3,Hard,Q1,177,218,1,11,,Federico Agustin Gomez,Beibit Zhukayev,6-3 6-4,1.36,17.9%,5.4%,53.6%,76.7%,65.4%,3/4,56.2%,38.8%,12.2%,12.5%,64.0%,3/4,105,10,3,56,30,26,6,
 8-Jul-2024,Trieste CH,3,Clay,F,224,196,1,Alt,,Federico Agustin Gomez,Tomas Barrios Vera,6-1 6-2,2.03,5.1%,12.8%,53.8%,81.0%,66.7%,0/0,61.5%,51.9%,0.0%,39.4%,73.7%,5/10,91,2,5,39,21,18,0,1:11

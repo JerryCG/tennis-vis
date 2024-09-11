@@ -1,8 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,R128,244,45,0,,,Gael Monfils,R Brookes,6-7(2) 6-2 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q3,244,185,0,ilius Gauba,,Schwartzman,R Brookes,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q2,244,94,0,hiago Agustin Tirant,,Schwartzman,R Brookes,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,244,170,0,ndrea Pellegrin,,Schwartzman,R Brookes,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,R128,244,45,0,Q,,Gael Monfils,R Brookes,6-7(2) 6-2 6-2 6-1,0.69,1.7%,1.7%,63.5%,53.4%,50.0%,8/16,42.4%,33.1%,13.2%,21.5%,46.4%,1/6,236,2,2,115,73,42,16,2:42
+26-Aug-2024,US Open,5,Hard,Q3,244,185,0,ilius Gauba,,Schwartzman,R Brookes,6-4 6-4,1.12,0.0%,8.1%,58.1%,58.3%,46.2%,3/7,52.8%,52.5%,0.0%,40.0%,64.5%,6/10,123,0,5,62,36,26,0,1:40
+26-Aug-2024,US Open,5,Hard,Q2,244,94,0,hiago Agustin Tirant,,Schwartzman,R Brookes,7-5 6-4,1.22,2.8%,2.8%,63.4%,77.8%,50.0%,6/7,53.5%,39.4%,8.5%,34.0%,50.0%,3/4,142,2,2,71,45,26,6,1:48
+26-Aug-2024,US Open,5,Hard,Q1,244,170,0,ndrea Pellegrin,,Schwartzman,R Brookes,7-5 6-3,1.32,9.5%,6.8%,58.1%,67.4%,51.6%,6/9,56.9%,51.8%,1.8%,45.5%,60.9%,5/8,130,7,5,74,43,31,1,1:39
 1-Jul-2024,Wimbledon,5,Grass,Q1,182,321,0,,WC,Jay Clarke,R Brookes,6-4 6-3,0.83,0.0%,0.0%,57.4%,65.7%,34.6%,7/11,45.3%,39.5%,19.7%,24.4%,57.1%,2/9,137,0,0,61,35,26,15,1:31
 27-May-2024,Roland Garros,5,Clay,Q2,141,187,0,29,,Quentin Halys,R Brookes,4-6 6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
 27-May-2024,Roland Garros,5,Clay,Q1,141,228,0,ukas Neumaye,29,Schwartzman,R Brookes,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
