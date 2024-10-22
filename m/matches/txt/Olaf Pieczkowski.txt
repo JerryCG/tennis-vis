@@ -1,4 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Sep-2024,Sibiu CH,3,Clay,Q2,538,336,0,10,1,Arthur Gea,Olaf Pieczkowski,6-0 6-1,0.45,0.0%,8.9%,46.7%,42.9%,25.0%,5/11,31.7%,29.7%,0.0%,31.6%,27.8%,0/0,82,0,4,45,21,24,0,0:59
+16-Sep-2024,Sibiu CH,3,Clay,Q1,538,718,1,10,,Olaf Pieczkowski,Maxim Zhukov,6-4 6-4,1.47,7.0%,3.5%,64.9%,70.3%,65.0%,2/4,56.2%,46.6%,1.4%,38.6%,58.6%,4/7,130,4,2,57,37,20,1,1:29
+9-Sep-2024,Szczecin CH,3,Clay,R32,533,79,0,WC,2,Federico Coria,Olaf Pieczkowski,6-0 6-3,0.55,0.0%,4.7%,46.5%,60.0%,26.1%,3/8,36.8%,31.8%,0.0%,26.5%,50.0%,1/2,87,0,2,43,20,23,0,1:01
+26-Aug-2024,M15 Szczawno,3,Clay,SF,502,498,0,1,3,Pawel Cias,Olaf Pieczkowski,2-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Szczawno,3,Clay,QF,502,2052,1,1,Q,Olaf Pieczkowski,Markus Malaszszak,3-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Szczawno,3,Clay,R16,502,,1,1,WC,Olaf Pieczkowski,Jakub Jedrzejczak,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Szczawno,3,Clay,R32,502,1400,1,1,,Olaf Pieczkowski,Alan Bojarski,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,QF,493,432,0,7,3,Daniel Michalski,Olaf Pieczkowski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R16,493,884,1,7,,Olaf Pieczkowski,Jasza Szajrych,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R32,493,743,1,7,,Olaf Pieczkowski,Kacper Zuk,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -42,10 +49,10 @@
 8-Jan-2024,M15 Doha,3,Hard,QF,546,333,0,8,1,Yanki Erel,Olaf Pieczkowski,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R16,546,817,1,8,,Olaf Pieczkowski,Aleksandre Bakshi,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R32,546,576,1,8,,Olaf Pieczkowski,Evgeny Karlovskiy,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Limassol,3,,SF,520,625,0,2,3,Jakub Nicod,Olaf Pieczkowski,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Limassol,3,,QF,520,739,1,2,5,Olaf Pieczkowski,Sebastian Sorger,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Limassol,3,,R16,520,,1,2,,Olaf Pieczkowski,Kevin Edengren,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Limassol,3,,R32,520,1760,1,2,Q,Olaf Pieczkowski,Christopher Papa,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Limassol,3,Hard,SF,520,625,0,2,3,Jakub Nicod,Olaf Pieczkowski,6-2 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Limassol,3,Hard,QF,520,739,1,2,5,Olaf Pieczkowski,Sebastian Sorger,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Limassol,3,Hard,R16,520,,1,2,,Olaf Pieczkowski,Kevin Edengren,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Limassol,3,Hard,R32,520,1760,1,2,Q,Olaf Pieczkowski,Christopher Papa,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,Drummondville CH,3,Hard,R16,558,82,0,LL,1,Dominik Koepfer,Olaf Pieczkowski,6-4 6-4,0.67,9.7%,3.2%,66.1%,73.2%,38.1%,6/9,44.8%,25.9%,11.1%,19.4%,34.8%,1/4,116,6,2,62,41,21,6,1:14
 13-Nov-2023,Drummondville CH,3,Hard,R32,558,307,1,LL,,Olaf Pieczkowski,Andrew Paulson,4-6 6-3 6-1,1.31,11.9%,3.6%,61.9%,78.8%,43.8%,3/5,55.4%,45.2%,16.7%,28.9%,64.1%,5/9,168,10,3,84,52,32,14,2:01
 13-Nov-2023,Drummondville CH,3,Hard,Q2,558,849,0,4,9,Alexander Kotzen,Olaf Pieczkowski,6-1 6-4,0.67,0.0%,2.2%,51.1%,56.5%,59.1%,2/5,41.0%,28.3%,0.0%,23.1%,38.1%,0/3,105,0,1,45,23,22,0,1:13

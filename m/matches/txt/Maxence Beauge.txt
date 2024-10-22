@@ -1,8 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,M15 Villers-les-Nancy,3,Hard,SF,740,674,0,7,5,Amaury Raynel,Maxence Beauge,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Villers-les-Nancy,3,Hard,QF,740,1183,1,7,,Maxence Beauge,Pierre Delage,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Villers-les-Nancy,3,Hard,R16,740,964,1,7,,Maxence Beauge,Alexandre Aubriot,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Villers-les-Nancy,3,Hard,R32,740,1933,1,7,Q,Maxence Beauge,Benjamin Vitter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Nevers,3,Hard,R32,726,1501,0,,WC,Thomas Faurel,Maxence Beauge,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Saint-Tropez CH,3,Hard,Q1,721,412,0,WC,8,Lucas Poullain,Maxence Beauge,6-4 7-5,0.68,14.1%,1.6%,59.4%,78.9%,38.5%,0/2,44.1%,25.4%,4.8%,18.9%,34.6%,0/2,127,9,1,64,38,26,3,1:40
+9-Sep-2024,Rennes CH,3,Hard,Q1,697,347,0,,1,Nikoloz Basilashvili,Maxence Beauge,7-6(4) 6-1,0.65,14.5%,0.0%,65.5%,77.8%,31.6%,2/4,42.6%,25.0%,1.7%,24.4%,26.7%,0/0,115,8,0,55,36,19,1,1:11
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R16,724,315,0,,2,Marat Sharipov,Maxence Beauge,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R32,724,,1,,Q,Maxence Beauge,Matteo Covato,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Cap d'Agde,3,Clay,QF,724,663,0,5,3,Justin Engel,Maxence Beauge,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Cap d'Agde,3,Clay,R16,724,1207,1,5,,Maxence Beauge,Jean Christian Morandais,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Cap d'Agde,3,Clay,R32,724,,1,5,WC,Maxence Beauge,Mickael Kaouk,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,R16,708,774,0,8,,Emilien Demanet,Maxence Beauge,7-6(0) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,R32,708,1346,1,8,Q,Maxence Beauge,Tom Schonenberg,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2024,Zug CH,3,Clay,Q2,731,376,0,Alt,2,Mateus Alves,Maxence Beauge,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2024,Zug CH,3,Clay,Q1,731,537,1,Alt,12,Maxence Beauge,Norbert Gombos,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,Q2,731,376,0,Alt,2,Mateus Alves,Maxence Beauge,6-3 6-2,0.53,12.5%,10.4%,58.3%,67.9%,35.0%,0/3,39.2%,24.5%,2.0%,15.6%,41.2%,0/1,97,6,5,48,28,20,1,1:10
+22-Jul-2024,Zug CH,3,Clay,Q1,731,537,1,Alt,12,Maxence Beauge,Norbert Gombos,6-4 7-6(4),0.93,8.5%,4.9%,59.8%,79.6%,51.5%,5/5,50.7%,29.4%,7.4%,21.6%,38.7%,1/5,150,7,4,82,49,33,5,1:37
 8-Jul-2024,M25 Uriage,3,Clay,R16,728,404,0,,2,Maxime Chazal,Maxence Beauge,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Uriage,3,Clay,R32,728,1155,1,,,Maxence Beauge,Francois Musitelli,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,Troyes CH,3,Clay,R32,728,471,0,Q,Q,Evgeny Karlovskiy,Maxence Beauge,7-5 6-4,0.85,7.2%,2.9%,59.4%,65.9%,39.3%,4/8,46.4%,38.0%,0.0%,29.3%,76.9%,2/8,140,5,2,69,41,28,0,1:35

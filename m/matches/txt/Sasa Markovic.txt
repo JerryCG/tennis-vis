@@ -1,4 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Sep-2024,M15 Kursumlijska Banja ,3,Clay,R32,864,1046,1,,,Sasa Markovic,Iannis Miletich,3-6 6-4 10-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,Q1,885,451,0,,2,Robert Strombachs,Sasa Markovic,6-3 7-5,0.74,7.5%,7.5%,43.3%,69.0%,39.5%,2/6,43.7%,35.3%,1.5%,28.6%,46.2%,2/11,135,5,5,67,29,38,1,1:34
+2-Sep-2024,M15 Pirot,3,Clay,QF,893,1690,0,8,Q,Stefan Latinovic,Sasa Markovic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Pirot,3,Clay,R16,893,1000,1,8,,Sasa Markovic,Gabriel Donev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Pirot,3,Clay,R32,893,1217,1,8,,Sasa Markovic,Stefan Vujic,7-6(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+19-Aug-2024,M25 Maribor,3,Clay,R32,905,476,0,,7,Mili Poljicak,Sasa Markovic,6-1 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Maribor,3,Clay,R16,909,914,0,,,David Poljak,Sasa Markovic,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Maribor,3,Clay,R32,909,464,1,,8,Sasa Markovic,Viacheslav Bielinskyi,6-4 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M15 Kursumlijska Banja,3,Clay,R32,935,706,0,,3,Federico Bondioli,Sasa Markovic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -22,8 +28,8 @@
 15-Apr-2024,M15 Kursumlijska Banja,3,Clay,R32,1381,783,0,WC,8,Viktor Jovic,Sasa Markovic,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2024,M25 Antalya,3,Clay,R32,1361,,0,Q,WC,Marco Furlanetto,Sasa Markovic,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jan-2024,M25 Antalya,3,Clay,R32,1366,1362,0,Q,PR,Mykyta Mashtakov,Sasa Markovic,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,R32,1347,525,0,Q,4,Alex Knaff,Sasa Markovic,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Heraklion,3,,R32,1468,709,0,Q,,Arthur Gea,Sasa Markovic,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,R32,1347,525,0,Q,4,Alex Knaff,Sasa Markovic,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,Hard,R32,1468,709,0,Q,,Arthur Gea,Sasa Markovic,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Heraklion,3,Hard,R16,1473,832,0,Q,JE,Arthur Gea,Sasa Markovic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Heraklion,3,Hard,R32,1473,1228,1,Q,Q,Sasa Markovic,Sergis Kyratzis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Sep-2023,M25 Zlatibor,3,Clay,R32,1483,,0,WC,Q,Jaka Protic Zakelj,Sasa Markovic,6-4 3-6 12-10,,,,,,,,,,,,,,,,,,,,,

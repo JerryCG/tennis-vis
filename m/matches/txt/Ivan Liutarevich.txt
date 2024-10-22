@@ -1,11 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-22-Jul-2024,Zug CH,3,Clay,Q1,1444,376,0,Alt,2,Mateus Alves,Ivan Liutarevich,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Olbia CH,3,Hard,Q1,1454,315,0,,4,Carlos Sanchez Jover,Ivan Liutarevich,6-1 3-6 7-6(3),0.93,3.3%,6.5%,54.3%,70.0%,50.0%,6/10,48.9%,36.4%,1.1%,32.1%,43.8%,3/5,180,3,6,92,50,42,1,2:05
+22-Jul-2024,Zug CH,3,Clay,Q1,1444,376,0,Alt,2,Mateus Alves,Ivan Liutarevich,6-2 6-3,0.41,11.3%,7.5%,58.5%,71.0%,36.4%,2/5,38.8%,17.8%,24.4%,14.3%,23.5%,0/0,98,6,4,53,31,22,11,1:09
 8-Jul-2024,Braunschweig CH,3,Clay,Q1,1415,607,0,Alt,Alt,Stijn Slump,Ivan Liutarevich,6-4 2-6 6-0,0.77,7.2%,4.3%,50.7%,68.6%,38.2%,4/9,44.6%,35.7%,5.7%,21.1%,53.1%,3/8,139,5,3,69,35,34,4,1:38
 1-Jul-2024,Karlsruhe CH,3,Clay,Q1,1415,428,0,Alt,5,Alexey Vatutin,Ivan Liutarevich,6-1 6-2,0.57,4.0%,4.0%,54.0%,44.4%,39.1%,3/8,37.6%,33.3%,0.0%,33.3%,33.3%,1/4,101,2,2,50,27,23,0,1:07
 18-Mar-2024,Murcia CH,3,Clay,Q1,1317,327,0,Alt,8,Cezar Cretu,Ivan Liutarevich,6-3 6-4,0.72,1.6%,3.2%,51.6%,65.6%,43.3%,2/6,44.4%,32.7%,1.8%,22.0%,64.3%,2/3,117,1,2,62,32,30,1,1:18
 27-Nov-2023,Maia CH,3,Clay,Q1,1228,625,0,Alt,9,Andrea Guerrieri,Ivan Liutarevich,6-4 5-7 6-4,0.98,3.9%,2.9%,64.7%,66.7%,33.3%,10/16,49.5%,44.3%,0.0%,39.2%,56.3%,5/16,208,4,3,102,66,36,0,2:40
-13-Nov-2023,M15 Sharm ElSheikh,3,,R16,1231,651,0,Q,7,Evgeny Philippov,Ivan Liutarevich,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,R32,1231,,1,Q,,Ivan Liutarevich,Markus Molder,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R16,1231,651,0,Q,7,Evgeny Philippov,Ivan Liutarevich,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R32,1231,,1,Q,,Ivan Liutarevich,Markus Molder,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,Helsinki CH,3,Hard,Q2,1424,219,0,Alt,,Francesco Maestrelli,Ivan Liutarevich,6-4 6-3,0.64,0.0%,4.8%,61.9%,74.4%,37.5%,1/4,44.7%,25.5%,7.8%,15.2%,44.4%,0/3,114,0,3,63,39,24,4,1:22
 6-Nov-2023,Helsinki CH,3,Hard,Q1,1424,255,1,Alt,8,Ivan Liutarevich,Lucas Poullain,6-3 1-6 6-1,0.99,10.2%,9.1%,58.0%,76.5%,40.5%,8/10,50.6%,38.2%,5.3%,36.5%,41.7%,3/11,164,9,8,88,51,37,4,
 2-Oct-2023,Mouilleron-Le-Captif CH,3,Hard,Q1,1353,303,0,Alt,1,Jiri Vesely,Ivan Liutarevich,6-4 6-7(5) 6-1,0.48,8.3%,0.0%,64.6%,64.5%,58.8%,3/6,42.8%,18.2%,14.3%,10.5%,40.0%,0/0,173,8,0,96,62,34,11,2:08

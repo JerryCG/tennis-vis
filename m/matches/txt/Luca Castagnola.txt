@@ -1,20 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Genoa CH,3,Clay,Q1,674,411,0,,5,Genaro Alberto Olivieri,Luca Castagnola,6-2 6-1,0.43,0.0%,2.6%,64.1%,48.0%,42.9%,2/6,34.1%,23.3%,4.7%,23.3%,23.1%,0/1,82,0,1,39,25,14,2,1:05
+30-Sep-2024,M15 Sharm ElSheikh,3,Hard,R16,715,,0,5,Q,Ludovico Vaccari,Luca Castagnola,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Sharm ElSheikh,3,Hard,R32,715,,1,5,Q,Luca Castagnola,Joe Leather,7-6(0) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Sharm ElSheikh,3,Hard,R32,714,1008,0,6,,Matthew Summers,Luca Castagnola,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Genoa CH,3,Clay,Q1,674,411,0,,5,Genaro Alberto Olivieri,Luca Castagnola,6-2 6-1,0.43,0.0%,2.6%,64.1%,48.0%,42.9%,2/6,34.1%,23.3%,4.7%,23.3%,23.1%,0/1,82,0,1,39,25,14,2,1:05
+26-Aug-2024,M15 Forli,3,Clay,R32,674,1048,0,6,Q,Ezequiel Simonit,Luca Castagnola,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Maribor,3,Clay,R32,673,619,0,,,Florian Broska,Luca Castagnola,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R16,645,280,0,Q,,Santiago Fa Rodriguez Taverna,Luca Castagnola,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R32,645,500,1,Q,WC,Luca Castagnola,Gianmarco Ferrari,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,Q2,645,389,1,,5,Luca Castagnola,Matthew Dellavedova,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,Q1,645,,1,,7,Luca Castagnola,Lautaro Midon,6-4 7-6(9),,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,Q2,662,386,0,WC,6,Ryan Nijboer,Luca Castagnola,5-7 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,Q1,662,486,1,WC,12,Luca Castagnola,Gabriele Piraino,2-6 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,R16,645,280,0,Q,,Santiago Fa Rodriguez Taverna,Luca Castagnola,7-6(7) 6-3,0.69,0.0%,1.6%,78.1%,70.0%,57.1%,1/2,44.6%,22.7%,9.1%,20.9%,26.1%,0/0,130,0,1,64,50,14,6,1:37
+12-Aug-2024,Todi CH,3,Clay,R32,645,500,1,Q,WC,Luca Castagnola,Gianmarco Ferrari,6-4 6-0,1.70,4.2%,0.0%,68.8%,75.8%,53.3%,0/1,61.1%,53.2%,4.3%,42.9%,83.3%,5/9,95,2,0,48,33,15,2,1:16
+12-Aug-2024,Todi CH,3,Clay,Q2,645,389,1,,5,Luca Castagnola,Matthew Dellavedova,6-0 6-4,1.43,0.0%,3.4%,70.7%,65.9%,52.9%,5/6,58.3%,54.4%,0.0%,54.8%,53.3%,5/9,115,0,2,58,41,17,0,1:45
+12-Aug-2024,Todi CH,3,Clay,Q1,645,,1,,7,Luca Castagnola,Lautaro Midon,6-4 7-6(9),0.99,1.2%,2.4%,60.7%,68.6%,66.7%,6/6,51.3%,31.9%,1.4%,27.5%,42.9%,1/5,156,1,2,84,51,33,1,2:02
+5-Aug-2024,Cordenons CH,3,Clay,Q2,662,386,0,WC,6,Ryan Nijboer,Luca Castagnola,5-7 6-0 6-1,0.76,1.4%,5.5%,61.6%,40.0%,42.9%,8/16,43.2%,44.7%,1.9%,34.8%,62.2%,4/11,176,1,4,73,45,28,2,2:22
+5-Aug-2024,Cordenons CH,3,Clay,Q1,662,486,1,WC,12,Luca Castagnola,Gabriele Piraino,2-6 6-2 7-6(5),1.03,0.0%,6.3%,50.9%,70.2%,43.6%,8/12,51.5%,44.0%,1.2%,41.1%,50.0%,4/7,196,0,7,112,57,55,1,2:53
 29-Jul-2024,M25 Bolzano,3,Clay,R32,629,570,0,,,Gianmarco Ferrari,Luca Castagnola,4-6 7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R32,626,329,0,,1,Toby Alex Kodat,Luca Castagnola,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Litija,3,Clay,SF,630,445,0,3,1,Bor Artnak,Luca Castagnola,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Litija,3,Clay,QF,630,,1,3,Q,Luca Castagnola,Filip Jeff Planinsek,7-6(3) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Litija,3,Clay,R16,630,1152,1,3,,Luca Castagnola,Volodymyr Iakubenko,3-6 6-2 3-0 RET,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Litija,3,Clay,R32,630,1721,1,3,Q,Luca Castagnola,Miha Vetrih,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,Q1,630,1016,0,10,Alt,Filippo Romano,Luca Castagnola,6-7(6) 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,Sassuolo CH,3,Clay,Q1,625,364,0,Alt,9,Luka Mikrut,Luca Castagnola,6-2 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q1,630,1016,0,10,Alt,Filippo Romano,Luca Castagnola,6-7(6) 7-6(5) 6-1,0.97,1.0%,1.0%,68.0%,68.2%,48.4%,2/8,48.6%,36.9%,9.0%,29.3%,45.3%,4/4,208,1,1,97,66,31,10,2:37
+17-Jun-2024,Sassuolo CH,3,Clay,Q1,625,364,0,Alt,9,Luka Mikrut,Luca Castagnola,6-2 7-6(2),0.78,1.5%,1.5%,74.2%,44.9%,35.3%,2/8,43.8%,45.2%,4.8%,9.1%,65.0%,4/6,128,1,1,66,49,17,3,1:52
 10-Jun-2024,M15 Chieti,3,Clay,R32,631,675,0,,,Lilian Marmousez,Luca Castagnola,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M15 Hrastnik,3,Clay,QF,645,636,0,5,4,Luca Wiedenmann,Luca Castagnola,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M15 Hrastnik,3,Clay,R16,645,1315,1,5,Q,Luca Castagnola,Jan Kupcic,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,10 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,R16,141,458,0,4,Q,Laurent Lokoli,Marco Trungelliti,4-6 6-3 6-3,0.88,2.9%,5.8%,54.8%,63.2%,40.4%,6/12,47.1%,41.3%,1.9%,41.0%,41.9%,4/13,208,3,6,104,57,47,2,2:48
-1-Sep-2024,Cassis CH,3,Hard,R32,141,295,1,4,LL,Marco Trungelliti,Jules Marie,7-6(5) 7-6(2),1.08,9.6%,2.4%,59.0%,63.3%,58.8%,1/4,51.2%,41.6%,9.0%,30.6%,55.0%,3/12,172,8,2,83,49,34,8,1:55
+14-Oct-2024,Olbia CH,3,Hard,R16,136,261,0,5,,Samuel Vincent Ruggeri,Marco Trungelliti,6-4 7-6(4),0.66,0.0%,6.8%,60.8%,62.2%,55.2%,1/4,44.2%,26.6%,1.6%,17.1%,37.9%,2/6,138,0,5,74,45,29,1,1:50
+14-Oct-2024,Olbia CH,3,Hard,R32,136,190,1,5,,Marco Trungelliti,Carlos Taberner,3-6 6-3 7-5,0.97,4.4%,5.3%,52.2%,71.2%,40.7%,7/11,50.0%,42.3%,5.2%,37.3%,50.0%,5/11,210,5,6,113,59,54,5,2:42
+2-Oct-2024,Shanghai Masters,3,Hard,Q2,136,105,0,16,9,Gabriel Diallo,Marco Trungelliti,6-3 7-5,0.63,1.5%,0.0%,62.7%,57.1%,60.0%,7/10,43.5%,26.3%,22.8%,17.1%,50.0%,1/1,124,1,0,67,42,25,13,1:28
+2-Oct-2024,Shanghai Masters,3,Hard,Q1,136,376,1,16,WC,Marco Trungelliti,Jie Cui,6-4 6-2,1.21,12.1%,4.5%,60.6%,70.0%,50.0%,7/8,55.4%,45.7%,4.3%,34.5%,64.7%,4/5,112,8,3,66,40,26,2,1:25
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,R32,137,314,0,6,Q,Tung Lin Wu,Marco Trungelliti,6-1 6-3,0.67,9.4%,7.8%,62.5%,45.0%,33.3%,7/13,40.4%,40.0%,2.2%,33.3%,58.3%,2/2,109,6,5,64,40,24,1,1:21
+18-Sep-2024,Hangzhou,3,Hard,R32,138,58,0,Q,,Alexander Shevchenko,Marco Trungelliti,6-1 6-1,0.06,4.4%,6.7%,55.6%,60.0%,25.0%,1/6,28.4%,3.4%,13.8%,5.6%,0.0%,0/0,74,2,3,45,25,20,4,0:46
+18-Sep-2024,Hangzhou,3,Hard,Q2,138,302,1,2,,Marco Trungelliti,James Mccabe,6-2 6-3,1.87,3.9%,2.0%,56.9%,86.2%,59.1%,3/3,59.8%,47.5%,11.5%,33.3%,72.7%,3/8,112,2,1,51,29,22,7,1:25
+18-Sep-2024,Hangzhou,3,Hard,Q1,138,342,1,2,,Marco Trungelliti,Yosuke Watanuki,6-1 3-6 6-3,1.57,19.1%,1.5%,54.4%,81.1%,67.7%,1/2,56.3%,39.2%,5.4%,30.3%,46.3%,3/6,142,13,1,68,37,31,4,1:57
+2-Sep-2024,Cassis CH,3,Hard,R16,141,458,0,4,Q,Laurent Lokoli,Marco Trungelliti,4-6 6-3 6-3,0.88,2.9%,5.8%,54.8%,63.2%,40.4%,6/12,47.1%,41.3%,1.9%,41.0%,41.9%,4/13,208,3,6,104,57,47,2,2:48
+2-Sep-2024,Cassis CH,3,Hard,R32,141,295,1,4,LL,Marco Trungelliti,Jules Marie,7-6(5) 7-6(2),1.08,9.6%,2.4%,59.0%,63.3%,58.8%,1/4,51.2%,41.6%,9.0%,30.6%,55.0%,3/12,172,8,2,83,49,34,8,1:55
 26-Aug-2024,Manacor CH,3,Hard,R16,141,307,0,7,Q,Ricardas Berankis,Marco Trungelliti,6-4 7-6(6),0.79,13.3%,5.3%,57.3%,72.1%,53.1%,2/4,47.2%,28.4%,6.0%,24.3%,33.3%,1/3,142,10,4,75,43,32,4,
 26-Aug-2024,Manacor CH,3,Hard,R32,141,295,1,7,Q,Marco Trungelliti,Jules Marie,6-3 6-4,1.33,2.7%,2.7%,67.6%,66.0%,50.0%,11/13,57.4%,52.1%,10.4%,50.0%,55.0%,4/4,122,2,2,74,50,24,5,
-26-Aug-2024,US Open,5,Hard,Q2,141,186,0,,,Li Tu,Marco Trungelliti,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,141,117,1,,19,Marco Trungelliti,Mikhail Kukushkin,1-6 6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q2,141,186,0,,,Li Tu,Marco Trungelliti,7-5 7-5,0.67,3.8%,2.5%,59.5%,55.3%,53.1%,3/7,44.0%,30.6%,11.3%,19.0%,55.0%,2/4,141,3,2,79,47,32,7,1:43
+26-Aug-2024,US Open,5,Hard,Q1,141,117,1,,19,Marco Trungelliti,Mikhail Kukushkin,1-6 6-4 7-6(6),0.95,1.8%,5.5%,44.5%,65.3%,44.3%,6/12,49.1%,44.1%,2.0%,37.1%,55.0%,5/10,212,2,6,110,49,61,2,2:57
 29-Jul-2024,Luedenscheid CH,3,Clay,R16,123,306,0,2,Alt,Raphael Collignon,Marco Trungelliti,6-4 6-4,0.83,1.3%,5.3%,60.5%,63.0%,50.0%,7/10,47.5%,34.9%,7.9%,31.6%,40.0%,1/5,139,1,4,76,46,30,5,1:45
 29-Jul-2024,Luedenscheid CH,3,Clay,R32,123,679,1,2,WC,Marco Trungelliti,Justin Engel,2-6 6-4 7-6(6),0.91,1.8%,4.4%,49.6%,75.0%,49.1%,8/11,49.5%,34.7%,11.6%,25.0%,46.5%,2/2,208,2,5,113,56,57,11,2:32
 22-Jul-2024,Umag,3,Clay,R16,136,17,0,Q,2,Lorenzo Musetti,Marco Trungelliti,6-4 6-3,0.62,1.1%,6.7%,43.8%,56.4%,48.0%,7/11,43.9%,30.0%,4.0%,20.6%,50.0%,1/3,139,1,6,89,39,50,2,1:52
@@ -18,15 +26,15 @@
 1-Jul-2024,Troyes CH,3,Clay,R32,151,309,0,1,,Khumoyun Sultanov,Marco Trungelliti,3-6 7-6(4) 6-2,1.01,5.6%,1.1%,53.3%,62.5%,61.9%,3/6,48.8%,38.1%,4.4%,27.9%,53.3%,3/9,203,5,1,90,48,42,5,2:23
 1-Jul-2024,Wimbledon,5,Grass,Q2,151,205,0,,,Elias Ymer,Marco Trungelliti,6-7(4) 6-4 6-2,0.68,2.8%,2.8%,60.2%,66.2%,51.2%,5/9,45.4%,27.3%,14.8%,20.8%,37.1%,1/4,196,3,3,108,65,43,13,2:31
 1-Jul-2024,Wimbledon,5,Grass,Q1,151,124,1,,19,Marco Trungelliti,Facundo Bagnis,6-3 1-1 RET,2.32,13.8%,6.9%,58.6%,88.2%,75.0%,0/0,61.0%,40.0%,10.0%,31.6%,54.5%,1/1,59,4,2,29,17,12,3,0:40
-10-Jun-2024,Bratislava CH,3,Clay,R16,153,281,0,7,Q,Jerome Kym,Marco Trungelliti,1-6 7-6(4) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Bratislava CH,3,Clay,R32,153,337,1,7,Alt,Marco Trungelliti,Ivan Gakhov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Bratislava CH,3,Clay,R16,153,281,0,7,Q,Jerome Kym,Marco Trungelliti,1-6 7-6(4) 7-6(4),1.09,0.9%,6.4%,56.9%,69.4%,53.2%,9/13,51.3%,40.9%,6.1%,32.5%,60.0%,6/11,224,1,7,109,62,47,7,2:45
+10-Jun-2024,Bratislava CH,3,Clay,R32,153,337,1,7,Alt,Marco Trungelliti,Ivan Gakhov,6-4 6-1,2.91,5.3%,2.6%,65.8%,84.0%,84.6%,0/0,62.5%,46.0%,10.0%,41.2%,56.3%,4/12,88,2,1,38,25,13,5,0:53
 27-May-2024,Vicenza CH,3,Clay,F,169,253,0,5,Alt,Chun Hsin Tseng,Marco Trungelliti,6-3 6-2,0.63,6.5%,0.0%,63.0%,58.6%,41.2%,2/6,40.6%,30.0%,8.0%,30.3%,29.4%,1/1,96,3,0,46,29,17,4,1:20
 27-May-2024,Vicenza CH,3,Clay,SF,169,220,1,5,,Marco Trungelliti,Nerman Fatic,6-3 4-6 7-5,1.09,1.1%,5.3%,63.2%,68.3%,37.1%,7/14,52.2%,47.2%,0.0%,44.4%,53.8%,8/14,184,1,5,95,60,35,0,2:39
 27-May-2024,Vicenza CH,3,Clay,QF,169,157,1,5,3,Marco Trungelliti,Tomas Barrios Vera,2-6 6-3 7-6(3),1.01,5.0%,1.0%,63.0%,61.9%,43.2%,2/8,50.3%,45.3%,2.1%,38.6%,55.3%,5/12,195,5,1,100,63,37,2,2:36
 27-May-2024,Vicenza CH,3,Clay,R16,169,540,1,5,WC,Marco Trungelliti,Jacopo Berrettini,6-4 6-3,1.51,3.8%,5.7%,56.6%,73.3%,60.9%,1/2,57.0%,48.5%,0.0%,41.3%,63.6%,4/9,121,2,3,53,30,23,0,1:32
 27-May-2024,Vicenza CH,3,Clay,R32,169,705,1,5,WC,Marco Trungelliti,Lorenzo Carboni,6-4 6-2,1.62,4.2%,6.3%,70.8%,85.3%,21.4%,2/4,60.2%,54.0%,4.0%,50.0%,61.1%,5/8,98,2,3,48,34,14,2,1:10
-27-May-2024,Roland Garros,5,Clay,Q2,169,166,0,,,Gabriel Diallo,Marco Trungelliti,7-6(6) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q1,169,117,1,,9,Marco Trungelliti,Juan Pablo Varillas,6-0 7-6(5),,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q2,169,166,0,,,Gabriel Diallo,Marco Trungelliti,7-6(6) 3-6 6-4,1.00,3.7%,4.7%,53.3%,66.7%,48.0%,4/9,50.0%,41.9%,3.8%,35.5%,51.2%,5/12,212,4,5,107,57,50,4,
+27-May-2024,Roland Garros,5,Clay,Q1,169,117,1,,9,Marco Trungelliti,Juan Pablo Varillas,6-0 7-6(5),1.22,5.1%,5.1%,50.6%,72.5%,59.0%,8/8,55.4%,41.7%,10.0%,36.8%,50.0%,3/4,139,4,4,79,40,39,6,
 6-May-2024,Prague CH,3,Clay,R16,170,295,0,3,Alt,Jiri Vesely,Marco Trungelliti,6-1 0-0 RET,0.66,0.0%,14.3%,38.1%,37.5%,46.2%,1/3,39.6%,37.5%,15.6%,31.8%,50.0%,0/1,53,0,3,21,8,13,5,0:40
 6-May-2024,Prague CH,3,Clay,R32,170,531,1,3,Q,Marco Trungelliti,Nikoloz Basilashvili,4-6 6-1 6-1,1.30,6.8%,2.3%,59.1%,69.2%,44.4%,5/8,56.4%,53.2%,1.3%,47.5%,59.5%,7/12,165,6,2,88,52,36,1,1:58
 15-Apr-2024,Barcelona,3,Clay,R16,197,40,0,Q,,Matteo Arnaldi,Marco Trungelliti,6-3 6-0,0.45,3.2%,3.2%,61.3%,55.3%,37.5%,10/14,37.6%,23.4%,4.3%,15.4%,33.3%,0/1,109,2,2,62,38,24,2,1:24
@@ -60,18 +68,18 @@
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R16,224,630,1,2,,Marco Trungelliti,Ryan Seggerman,7-5 3-6 7-6(4),1.15,3.3%,2.2%,57.8%,69.2%,60.5%,2/6,51.3%,39.4%,12.8%,23.5%,65.9%,4/5,199,3,2,90,52,38,14,1:58
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R32,224,415,1,2,,Marco Trungelliti,Yshai Oliel,6-3 6-1,2.66,5.1%,0.0%,74.4%,86.2%,70.0%,0/0,60.2%,47.8%,7.2%,39.5%,61.5%,4/11,108,2,0,39,29,10,5,1:17
 15-Jan-2024,Australian Open,5,Hard,Q1,224,163,0,,,Lukas Klein,Marco Trungelliti,6-3 3-6 6-3,0.93,5.0%,2.5%,55.0%,75.0%,47.2%,4/7,47.7%,34.8%,9.8%,37.1%,30.0%,2/10,172,4,2,80,44,36,9,1:59
-4-Dec-2023,M15 Madrid,3,,F,234,447,1,1,3,Marco Trungelliti,Pol Martin Tiffon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,SF,234,782,1,1,,Marco Trungelliti,Julio Cesar Porras,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,QF,234,592,1,1,8,Marco Trungelliti,John Echeverria,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,R16,234,694,1,1,,Marco Trungelliti,David Perez Sanz,7-5 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,R32,234,733,1,1,,Marco Trungelliti,Alejo Sanchez Quilez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,F,234,447,1,1,3,Marco Trungelliti,Pol Martin Tiffon,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,SF,234,782,1,1,,Marco Trungelliti,Julio Cesar Porras,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,QF,234,592,1,1,8,Marco Trungelliti,John Echeverria,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R16,234,694,1,1,,Marco Trungelliti,David Perez Sanz,7-5 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,234,733,1,1,,Marco Trungelliti,Alejo Sanchez Quilez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maia CH,3,Clay,R32,232,159,0,,5,Elias Ymer,Marco Trungelliti,6-7(3) 6-2 6-4,0.83,5.0%,5.0%,58.6%,68.3%,39.7%,12/18,47.8%,36.2%,5.7%,31.7%,42.9%,3/13,245,7,7,140,82,58,6,3:05
 20-Nov-2023,Valencia CH,3,Clay,R32,242,96,0,Alt,3,Albert Ramos,Marco Trungelliti,6-2 7-6(11),0.96,6.1%,3.0%,56.1%,78.4%,51.7%,1/3,47.9%,32.1%,0.0%,29.8%,38.1%,0/4,144,4,2,66,37,29,0,2:12
-13-Nov-2023,M15 Valencia,3,,F,241,822,1,1,WC,Marco Trungelliti,Carlos Gimeno Valero,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,SF,241,402,1,1,3,Marco Trungelliti,Vilius Gaubas,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,QF,241,487,1,1,7,Marco Trungelliti,Svyatoslav Gulin,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R16,241,528,1,1,,Marco Trungelliti,Imanol Lopez Morillo,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R32,241,1225,1,1,,Marco Trungelliti,Darwin Blanch,4-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,F,241,822,1,1,WC,Marco Trungelliti,Carlos Gimeno Valero,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,SF,241,402,1,1,3,Marco Trungelliti,Vilius Gaubas,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,QF,241,487,1,1,7,Marco Trungelliti,Svyatoslav Gulin,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R16,241,528,1,1,,Marco Trungelliti,Imanol Lopez Morillo,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,241,1225,1,1,,Marco Trungelliti,Darwin Blanch,4-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Guayaquil CH,3,Clay,R16,233,107,0,,3,Facundo Diaz Acosta,Marco Trungelliti,6-1 1-6 7-6(5),1.08,2.6%,1.3%,59.2%,57.8%,61.3%,5/10,51.2%,44.0%,0.0%,32.7%,65.5%,5/10,160,2,1,76,45,31,0,2:10
 30-Oct-2023,Guayaquil CH,3,Clay,R32,233,389,1,,Q,Marco Trungelliti,Gonzalo Bueno,6-0 6-4,1.50,4.1%,2.0%,57.1%,67.9%,61.9%,4/5,58.9%,52.2%,0.0%,42.9%,66.7%,5/9,95,2,1,49,28,21,0,1:11
 16-Oct-2023,Santa Fe CH,3,Clay,R16,238,169,0,Alt,,Andrea Pellegrino,Marco Trungelliti,6-1 2-6 6-4,0.96,1.2%,4.8%,51.2%,65.1%,39.0%,5/11,49.4%,45.9%,2.7%,49.1%,38.1%,4/7,158,1,4,84,43,41,2,1:57

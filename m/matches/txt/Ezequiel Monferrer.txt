@@ -1,4 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,Q1,937,382,0,WC,5,Joao Lucas Reis Da Silva,Ezequiel Monferrer,6-1 6-2,0.52,0.0%,8.8%,67.6%,47.8%,45.5%,2/6,35.3%,27.5%,7.8%,29.7%,21.4%,0/3,85,0,3,34,23,11,4,1:05
+23-Sep-2024,M15 Asuncion,3,Clay,R32,928,604,0,,4,Igor Gimenez,Ezequiel Monferrer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Cordoba,3,Clay,R32,905,1729,0,,Q,Joel Angel Lucero,Ezequiel Monferrer,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,R32,912,,0,7,Q,Edoardo Cherie Ligniere,Ezequiel Monferrer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Curtea de Arges,3,Clay,R32,935,847,0,,8,Francesco Ferrari,Ezequiel Monferrer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M15 Kursumlijska Banja,3,Clay,R16,950,687,0,,2,Amaury Raynel,Ezequiel Monferrer,6-7(2) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -24,12 +27,12 @@
 19-Feb-2024,M15 Villa Maria,3,Clay,R32,1146,473,0,Q,5,Facundo Mena,Ezequiel Monferrer,6-2 2-1 RET,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2024,M25 Punta del Este,3,Clay,R32,1147,311,0,Q,2,Alvaro Guillen Meza,Ezequiel Monferrer,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,Buenos Aires CH,3,Clay,Q1,1148,362,0,WC,3,Carlos Sanchez Jover,Ezequiel Monferrer,6-4 7-6(3),0.89,4.4%,5.9%,61.8%,57.1%,53.8%,4/8,46.9%,39.2%,1.3%,28.6%,56.7%,3/6,147,3,4,68,42,26,1,1:48
-18-Dec-2023,M15 Antalya,3,,R16,1523,458,0,Q,1,Dmitry Popko,Ezequiel Monferrer,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Antalya,3,,R32,1523,,1,Q,WC,Ezequiel Monferrer,Christian Teszari,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Antalya,3,,SF,1526,818,0,WC,,Evgeny Tyurnev,Ezequiel Monferrer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Antalya,3,,QF,1526,1097,1,WC,WC,Ezequiel Monferrer,Arda Azkara,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Antalya,3,,R16,1526,387,1,WC,1,Ezequiel Monferrer,Marko Topo,6-7(3) 6-3 7-6(10),,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Antalya,3,,R32,1526,1109,1,WC,,Ezequiel Monferrer,Michael Agwi,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,R16,1523,458,0,Q,1,Dmitry Popko,Ezequiel Monferrer,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,R32,1523,,1,Q,WC,Ezequiel Monferrer,Christian Teszari,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,Clay,SF,1526,818,0,WC,,Evgeny Tyurnev,Ezequiel Monferrer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,Clay,QF,1526,1097,1,WC,WC,Ezequiel Monferrer,Arda Azkara,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,Clay,R16,1526,387,1,WC,1,Ezequiel Monferrer,Marko Topo,6-7(3) 6-3 7-6(10),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,Clay,R32,1526,1109,1,WC,,Ezequiel Monferrer,Michael Agwi,6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,R32,1514,824,0,Q,,Juan Carlos Prado Angelo,Ezequiel Monferrer,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,Buenos Aires CH,3,Clay,Q1,1534,366,0,WC,11,Gastao Elias,Ezequiel Monferrer,6-0 6-3,0.24,2.0%,8.2%,61.2%,53.3%,36.8%,5/10,33.3%,12.5%,6.3%,16.7%,7.1%,0/0,81,1,4,49,30,19,2,0:58
 26-Jun-2023,M25 Rosario-Santa Fe,3,Clay,R32,,1316,0,Q,,Rafael Tosetto,Ezequiel Monferrer,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

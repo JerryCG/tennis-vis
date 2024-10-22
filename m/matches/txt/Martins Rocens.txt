@@ -1,4 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Sep-2024,M15 Melilla,3,Clay,R32,1327,584,0,,4,Imanol Lopez Morillo,Martins Rocens,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,R32,1318,581,0,Q,6,Imanol Lopez Morillo,Martins Rocens,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R16,1399,311,0,Q,2,Felix Gill,Martins Rocens,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R32,1399,670,1,Q,,Martins Rocens,Pedro Rodenas,6-7(7) 6-4 3-3 RET,,,,,,,,,,,,,,,,,,,,,
@@ -12,9 +13,9 @@
 22-Apr-2024,M15 Antalya,3,Clay,R32,1865,766,0,Q,,Jiri Barnat,Martins Rocens,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Mar-2024,M15 Les Franqueses del Valles,3,Hard,R32,1769,1159,0,Q,WC,Alejandro Melero Kretzer,Martins Rocens,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 2-Feb-2024,Davis Cup WG1 PO: NOR vs LAT,3,Hard,RR,1763,12,0,,,Casper Ruud,Martins Rocens,6-1 6-1,0.31,9.8%,24.4%,53.7%,68.2%,15.8%,3/8,32.0%,17.6%,5.9%,4.5%,41.7%,0/0,75,4,10,41,22,19,2,0:48
-11-Dec-2023,M15 Ceuta,3,,R16,,687,0,Q,6,David Perez Sanz,Martins Rocens,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R32,,1052,1,Q,,Martins Rocens,Giannicola Misasi,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Alcala de Henares,3,,R32,,609,0,Q,6,Pedro Rodenas,Martins Rocens,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R16,,687,0,Q,6,David Perez Sanz,Martins Rocens,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R32,,1052,1,Q,,Martins Rocens,Giannicola Misasi,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,Hard,R32,,609,0,Q,6,Pedro Rodenas,Martins Rocens,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2023,Davis Cup WG2 R1: HKG vs LAT,3,Hard,RR,,534,0,,,Coleman Wong,Martins Rocens,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Aug-2022,M25 Decatur IL,3,Hard,R32,1484,517,0,,2,Jaimee Floyd Angele,Martins Rocens,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,
 25-Jul-2022,M25 Edwardsville IL,3,Hard,R32,1518,628,0,Q,,Ethan Quinn,Martins Rocens,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,

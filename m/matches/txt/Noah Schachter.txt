@@ -1,5 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Sep-2024,Las Vegas CH,3,Hard,Q1,729,786,0,10,,Collin Altamirano,Noah Schachter,6-4 6-3,0.53,2.7%,8.1%,63.5%,76.6%,22.2%,10/13,43.4%,22.9%,14.6%,25.0%,18.8%,0/0,122,2,6,74,47,27,7,1:15
+21-Oct-2024,Sioux Falls CH,3,Hard,Q1,692,1460,0,12,WC,Cooper Woestendick,Noah Schachter,6-4 6-4,0.86,2.9%,8.8%,52.9%,72.2%,37.5%,5/9,46.8%,38.0%,1.4%,38.1%,37.9%,2/6,139,2,6,68,36,32,1,1:26
+7-Oct-2024,M25 Kampala,3,Clay,R16,723,1437,0,5,,Paul Barbier Gazeu,Noah Schachter,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Kampala,3,Clay,R32,723,1728,1,5,,Noah Schachter,Abraham Asaba,6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Kigali,3,Clay,QF,723,416,0,7,3,Corentin Denolly,Noah Schachter,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Kigali,3,Clay,R16,723,1531,1,7,,Noah Schachter,Petr Iamachkine,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Kigali,3,Clay,R32,723,,1,7,WC,Noah Schachter,Claude Ishimwe,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,R32,725,1283,0,,,Guy Orly Iradukunda,Noah Schachter,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Las Vegas CH,3,Hard,Q1,726,814,0,10,,Collin Altamirano,Noah Schachter,6-4 6-3,0.53,2.7%,8.1%,63.5%,76.6%,22.2%,10/13,43.4%,22.9%,14.6%,25.0%,18.8%,0/0,122,2,6,74,47,27,7,1:15
 19-Aug-2024,M25 Arequipa,3,Clay,R32,753,492,0,,6,Tomas Farjat,Noah Schachter,3-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Arequipa,3,Clay,QF,756,373,0,8,1,Matias Soto,Noah Schachter,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Arequipa,3,Clay,R16,756,,1,8,Q,Noah Schachter,Lautaro Correa Beguerie,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -40,11 +47,11 @@
 15-Jan-2024,M25 Ithaca NY,3,Hard,QF,902,937,0,,,Adit Sinha,Noah Schachter,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R16,902,1015,1,,,Noah Schachter,Osgar Ohoisin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R32,902,,1,,WC,Noah Schachter,Bradley Paliska,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Concepcion,3,,R16,916,570,0,,5,Facundo Mena,Noah Schachter,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Concepcion,3,,R32,916,1676,1,,WC,Noah Schachter,Amador Salazar,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Santa Cruz,3,,R32,893,472,0,,2,Nicolas Zanellato,Noah Schachter,7-6(5) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Santa Cruz,3,,R32,895,617,0,,7,Franco Roncadelli,Noah Schachter,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,R32,895,376,0,,1,Federico Agustin Gomez,Noah Schachter,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,R16,916,570,0,,5,Facundo Mena,Noah Schachter,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,R32,916,1676,1,,WC,Noah Schachter,Amador Salazar,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,Clay,R32,893,472,0,,2,Nicolas Zanellato,Noah Schachter,7-6(5) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,R32,895,617,0,,7,Franco Roncadelli,Noah Schachter,6-4 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,R32,895,376,0,,1,Federico Agustin Gomez,Noah Schachter,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Fayetteville AR,3,Hard,SF,982,879,0,,,Derek Pham,Noah Schachter,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Fayetteville AR,3,Hard,QF,982,1317,1,,WC,Noah Schachter,Gerard Planelles Ripoll,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Fayetteville AR,3,Hard,R16,982,984,1,,Q,Noah Schachter,Toby D Boyer,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

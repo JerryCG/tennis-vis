@@ -1,15 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Campinas CH,3,Clay,R32,287,214,0,Q,,Tristan Boyer,Juan Bautista Torres,6-4 6-7(0) 6-4,1.04,1.0%,6.1%,53.5%,71.7%,50.0%,3/8,49.6%,40.0%,3.2%,29.2%,51.7%,3/16,224,1,6,99,53,46,4,3:03
+14-Oct-2024,Campinas CH,3,Clay,Q2,287,379,1,4,8,Juan Bautista Torres,Valerio Aboian,3-6 6-2 6-2,1.31,0.0%,6.3%,60.9%,71.8%,44.0%,0/4,55.6%,51.2%,1.3%,40.5%,60.5%,7/18,144,0,4,64,39,25,1,2:08
+14-Oct-2024,Campinas CH,3,Clay,Q1,287,1491,1,4,WC,Juan Bautista Torres,Enzo Kohlmann De Freitas,6-0 6-0,4.61,0.0%,0.0%,53.6%,80.0%,92.3%,0/0,73.6%,65.9%,0.0%,57.7%,77.8%,6/10,72,0,0,28,15,13,0,0:52
+7-Oct-2024,Villa Maria CH,3,Clay,R32,311,118,0,WC,5,Jesper De Jong,Juan Bautista Torres,6-3 6-4,0.83,1.8%,0.0%,63.6%,57.1%,45.0%,4/8,45.4%,39.1%,4.7%,21.2%,58.1%,2/4,119,1,0,55,35,20,3,1:51
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,SF,311,94,0,WC,1,Federico Coria,Juan Bautista Torres,7-6(11) 7-5,0.96,1.2%,1.2%,63.5%,51.9%,54.8%,4/10,48.9%,45.1%,3.3%,42.1%,50.0%,5/11,176,1,1,85,54,31,3,2:29
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,QF,311,112,1,WC,4,Juan Bautista Torres,Camilo Ugo Carabelli,6-0 6-4,1.46,0.0%,3.5%,59.6%,67.6%,56.5%,4/5,58.7%,53.8%,5.8%,47.2%,68.8%,5/7,109,0,2,57,34,23,3,1:29
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R16,311,154,1,WC,,Juan Bautista Torres,Juan Manuel Cerundolo,6-3 6-4,1.23,1.7%,5.1%,57.6%,73.5%,40.0%,2/4,54.7%,50.0%,1.7%,38.9%,68.2%,5/8,117,1,3,59,34,25,1,1:36
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R32,311,205,1,WC,,Juan Bautista Torres,Juan Pablo Ficovich,6-2 6-4,1.38,3.2%,1.6%,62.9%,76.9%,52.2%,4/4,55.9%,44.6%,0.0%,40.0%,50.0%,3/8,127,2,1,62,39,23,0,1:37
+16-Sep-2024,Cali CH,3,Clay,QF,334,261,0,,,Juan Pablo Ficovich,Juan Bautista Torres,6-1 6-7(4) 6-2,0.73,2.3%,7.0%,59.3%,60.8%,25.7%,1/9,43.0%,39.2%,6.3%,29.4%,46.7%,4/6,165,2,6,86,51,35,5,2:11
+16-Sep-2024,Cali CH,3,Clay,R16,334,203,1,,5,Juan Bautista Torres,Juan Manuel Cerundolo,6-1 6-2,2.37,0.0%,4.5%,59.1%,69.2%,88.9%,1/1,66.3%,53.8%,10.3%,35.3%,68.2%,4/5,83,0,2,44,26,18,4,0:58
+16-Sep-2024,Cali CH,3,Clay,R32,334,341,1,,,Juan Bautista Torres,Juan Carlos Prado Angelo,6-3 6-1,1.48,0.0%,1.8%,47.3%,73.1%,62.1%,3/3,57.5%,48.3%,1.7%,36.0%,57.6%,4/5,113,0,1,55,26,29,1,1:27
 19-Aug-2024,Dobrich CH,3,Clay,F,328,331,1,,,Juan Bautista Torres,Ivan Gakhov,5-7 6-0 7-5,1.28,6.7%,3.3%,65.6%,69.5%,64.5%,2/4,54.4%,41.1%,1.1%,26.5%,58.5%,5/13,180,6,3,90,59,31,1,2:27
 19-Aug-2024,Dobrich CH,3,Clay,SF,328,354,1,,,Juan Bautista Torres,Arthur Gea,7-5 4-6 6-3,1.09,0.0%,2.1%,68.8%,57.6%,43.3%,5/12,52.0%,50.9%,2.8%,45.2%,59.1%,8/17,202,0,2,96,66,30,3,3:02
 19-Aug-2024,Dobrich CH,3,Clay,QF,328,266,1,,1,Juan Bautista Torres,Ergi Kirkin,7-6(4) 6-4,1.33,0.0%,5.5%,63.0%,73.9%,59.3%,3/4,54.6%,41.8%,0.0%,30.8%,63.0%,2/6,152,0,4,73,46,27,0,2:03
 19-Aug-2024,Dobrich CH,3,Clay,R16,328,880,1,,Q,Juan Bautista Torres,Alexander Donski,6-3 1-6 6-3,1.20,2.4%,2.4%,68.3%,64.3%,53.8%,5/9,54.0%,46.9%,8.6%,39.0%,55.0%,4/10,163,2,2,82,56,26,7,1:59
 19-Aug-2024,Dobrich CH,3,Clay,R32,328,346,1,,8,Juan Bautista Torres,Gabi Adrian Boitan,7-6(4) 6-4,1.09,1.3%,4.0%,65.3%,69.4%,42.3%,5/8,52.5%,43.8%,4.7%,35.3%,53.3%,4/7,139,1,3,75,49,26,3,2:04
-12-Aug-2024,Todi CH,3,Clay,R32,333,226,0,Alt,1,Stefano Travaglia,Juan Bautista Torres,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,R32,333,226,0,Alt,1,Stefano Travaglia,Juan Bautista Torres,5-7 6-3 6-4,1.04,3.4%,0.0%,69.7%,53.2%,63.0%,3/9,50.5%,45.4%,1.0%,37.5%,60.6%,5/5,186,3,0,89,62,27,1,2:55
 5-Aug-2024,Bonn CH,3,Clay,R32,334,223,0,Q,,Jan Choinski,Juan Bautista Torres,6-2 6-3,0.70,0.0%,2.1%,64.6%,45.2%,47.1%,3/8,41.7%,38.2%,0.0%,31.4%,50.0%,2/3,103,0,1,48,31,17,0,1:23
 5-Aug-2024,Bonn CH,3,Clay,Q2,334,453,1,3,11,Juan Bautista Torres,Daniel Michalski,6-1 6-2,1.75,0.0%,2.1%,66.7%,65.6%,81.3%,3/3,60.8%,51.0%,0.0%,46.2%,56.5%,4/7,97,0,1,48,32,16,0,1:20
 5-Aug-2024,Bonn CH,3,Clay,Q1,334,778,1,3,PR,Juan Bautista Torres,Henri Laaksonen,6-2 6-3,1.70,8.3%,2.1%,85.4%,73.2%,71.4%,1/1,56.3%,46.2%,1.3%,38.5%,53.8%,4/13,126,4,1,48,41,7,1,1:29
-29-Jul-2024,Liberec CH,3,Clay,Q2,342,470,1,2,7,Juan Bautista Torres,Lorenzo Joaquin Rodriguez,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q1,342,549,1,2,,Juan Bautista Torres,Nikolay Vylegzhanin,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Liberec CH,3,Clay,R32,342,283,0,Q,,Elmer Moller,Juan Bautista Torres,6-4 6-1,0.76,2.0%,8.0%,66.0%,57.6%,52.9%,2/6,43.9%,33.3%,0.0%,25.0%,44.0%,0/5,107,1,4,50,33,17,0,1:21
+29-Jul-2024,Liberec CH,3,Clay,Q2,342,470,1,2,7,Juan Bautista Torres,Lorenzo Joaquin Rodriguez,6-1 7-5,1.34,0.0%,9.6%,61.5%,62.5%,35.0%,2/6,58.6%,64.4%,1.7%,52.9%,80.0%,8/9,111,0,5,52,32,20,1,1:25
+29-Jul-2024,Liberec CH,3,Clay,Q1,342,549,1,2,,Juan Bautista Torres,Nikolay Vylegzhanin,6-2 6-0,2.33,5.0%,0.0%,65.0%,76.9%,64.3%,1/1,68.4%,64.1%,0.0%,54.5%,76.5%,5/6,79,2,0,40,26,14,0,1:01
 22-Jul-2024,Tampere CH,3,Clay,R16,356,313,0,Q,Alt,Carlos Taberner,Juan Bautista Torres,6-2 6-3,0.73,2.0%,4.1%,73.5%,47.2%,38.5%,5/10,42.3%,40.3%,0.0%,37.5%,45.5%,2/8,111,1,2,49,36,13,0,1:32
 22-Jul-2024,Tampere CH,3,Clay,R32,356,262,1,Q,,Juan Bautista Torres,Ergi Kirkin,7-6(5) 6-2,1.24,0.0%,0.0%,69.0%,55.1%,68.2%,6/9,54.6%,50.6%,1.2%,41.3%,62.9%,5/14,152,0,0,71,49,22,1,1:58
 22-Jul-2024,Tampere CH,3,Clay,Q2,356,794,1,2,11,Juan Bautista Torres,Thomas Yaka Kofi Setodji,6-3 6-1,1.90,0.0%,4.3%,68.1%,81.3%,53.3%,1/1,63.2%,52.5%,5.0%,45.5%,61.1%,4/5,87,0,2,47,32,15,2,1:03

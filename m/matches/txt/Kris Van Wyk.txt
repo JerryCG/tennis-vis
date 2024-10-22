@@ -1,9 +1,28 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Shanghai CH,3,Hard,QF,405,183,0,Q,9,Yu Hsiou Hsu,Kris Van Wyk,7-6(4) 2-6 6-2,0.87,10.2%,10.2%,58.2%,77.2%,39.0%,7/9,48.4%,33.7%,2.3%,25.0%,50.0%,2/4,184,10,10,98,57,41,2,2:51
-1-Sep-2024,Shanghai CH,3,Hard,R16,405,182,1,Q,LL,Kris Van Wyk,Federico Agustin Gomez,6-4 6-4,1.38,3.8%,7.7%,63.5%,75.8%,52.6%,0/2,54.5%,45.1%,0.0%,45.5%,44.4%,4/8,123,2,4,52,33,19,0,1:37
-1-Sep-2024,Shanghai CH,3,Hard,R32,405,116,1,Q,1,Kris Van Wyk,Cristian Garin,6-3 6-1,1.53,9.6%,1.9%,61.5%,75.0%,50.0%,1/2,59.2%,52.9%,2.0%,55.9%,47.1%,5/8,103,5,1,52,32,20,1,1:41
-1-Sep-2024,Shanghai CH,3,Hard,Q2,405,509,1,12,,Kris Van Wyk,Lukas Pokorny,6-3 7-5,1.32,11.9%,3.0%,56.7%,76.3%,51.7%,1/3,55.0%,45.2%,2.7%,37.0%,59.3%,4/10,140,8,2,67,38,29,2,1:56
-1-Sep-2024,Shanghai CH,3,Hard,Q1,405,1505,1,12,WC,Kris Van Wyk,Charles Chen,6-4 6-1,1.56,10.9%,5.5%,52.7%,75.9%,57.7%,3/4,59.1%,50.9%,1.8%,45.5%,59.1%,4/7,110,6,3,55,29,26,1,1:56
+14-Oct-2024,Shenzhen (Longhua) CH,3,Hard,QF,385,137,0,,5,Mackenzie Mcdonald,Kris Van Wyk,6-3 6-2,0.68,0.0%,10.6%,57.4%,74.1%,35.0%,1/4,41.5%,28.8%,5.1%,22.6%,35.7%,0/1,106,0,5,47,27,20,3,1:25
+14-Oct-2024,Shenzhen (Longhua) CH,3,Hard,R16,385,279,1,,,Kris Van Wyk,Ramkumar Ramanathan,6-4 7-6(6),1.37,13.8%,6.2%,64.6%,88.1%,52.2%,0/1,54.1%,33.8%,11.8%,23.8%,50.0%,2/5,133,9,4,65,42,23,8,1:28
+14-Oct-2024,Shenzhen (Longhua) CH,3,Hard,R32,385,675,1,,Q,Kris Van Wyk,Mitsuki Wei Kang Leong,7-6(4) 2-6 7-5,0.95,3.7%,6.4%,54.1%,62.7%,46.0%,5/12,49.0%,42.6%,1.0%,35.8%,55.9%,6/8,210,4,7,109,59,50,1,2:44
+7-Oct-2024,Hangzhou CH,3,Hard,Q2,388,553,0,2,8,Petr Bar Biryukov,Kris Van Wyk,6-7(2) 6-3 6-2,0.87,9.8%,3.7%,61.0%,78.0%,53.1%,3/6,46.6%,27.7%,11.7%,22.4%,36.1%,0/2,176,8,3,82,50,32,11,2:06
+7-Oct-2024,Hangzhou CH,3,Hard,Q1,388,815,1,2,,Kris Van Wyk,Linang Xiao,7-6(3) 5-0 RET,1.27,7.6%,7.6%,57.6%,71.1%,46.4%,7/8,55.1%,50.0%,1.4%,35.1%,66.7%,4/9,136,5,5,66,38,28,1,1:51
+2-Oct-2024,Shanghai Masters,3,Hard,Q1,388,196,0,Alt,,Beibit Zhukayev,Kris Van Wyk,6-3 6-2,0.61,6.1%,4.1%,42.9%,66.7%,46.4%,3/6,41.0%,27.5%,9.8%,13.3%,47.6%,0/0,100,3,2,49,21,28,5,1:18
+23-Sep-2024,M25 Fuzhou,3,Hard,R32,385,1691,0,3,Q,Tianhui Zhang,Kris Van Wyk,6-4 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,F,373,230,0,2,1,Aziz Dougaz,Kris Van Wyk,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,SF,373,737,1,2,6,Kris Van Wyk,Mikalai Haliak,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,QF,373,1085,1,2,Q,Kris Van Wyk,Uisung Park,1-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,R16,373,984,1,2,PR,Kris Van Wyk,Rishab Agarwal,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,R32,373,1756,1,2,WC,Kris Van Wyk,Runyu Zhao,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Guangzhou CH,3,Hard,R16,381,90,0,Q,2,Luca Nardi,Kris Van Wyk,6-2 7-6(4),0.78,4.3%,10.1%,59.4%,70.7%,35.7%,4/8,45.3%,33.8%,2.9%,27.9%,44.0%,2/9,137,3,7,69,41,28,2,2:09
+9-Sep-2024,Guangzhou CH,3,Hard,R32,381,251,1,Q,,Kris Van Wyk,Alibek Kachmazov,7-6(5) 6-4,1.17,8.0%,10.3%,51.7%,84.4%,40.5%,7/9,52.8%,43.0%,3.2%,34.8%,51.1%,3/12,180,7,9,87,45,42,3,2:28
+9-Sep-2024,Guangzhou CH,3,Hard,Q2,381,827,1,2,10,Kris Van Wyk,Thomas Fancutt,6-3 6-2,1.73,15.4%,9.6%,57.7%,90.0%,45.5%,4/5,60.0%,50.0%,3.4%,40.6%,61.5%,4/11,110,8,5,52,30,22,2,1:27
+9-Sep-2024,Guangzhou CH,3,Hard,Q1,381,1083,1,2,,Kris Van Wyk,Kazuma Kawachi,6-4 6-0,1.79,5.9%,2.0%,52.9%,74.1%,58.3%,0/1,63.4%,59.5%,0.0%,52.4%,66.7%,5/5,93,3,1,51,27,24,0,1:18
+2-Sep-2024,Shanghai CH,3,Hard,QF,405,183,0,Q,9,Yu Hsiou Hsu,Kris Van Wyk,7-6(4) 2-6 6-2,0.87,10.2%,10.2%,58.2%,77.2%,39.0%,7/9,48.4%,33.7%,2.3%,25.0%,50.0%,2/4,184,10,10,98,57,41,2,2:51
+2-Sep-2024,Shanghai CH,3,Hard,R16,405,182,1,Q,LL,Kris Van Wyk,Federico Agustin Gomez,6-4 6-4,1.38,3.8%,7.7%,63.5%,75.8%,52.6%,0/2,54.5%,45.1%,0.0%,45.5%,44.4%,4/8,123,2,4,52,33,19,0,1:37
+2-Sep-2024,Shanghai CH,3,Hard,R32,405,116,1,Q,1,Kris Van Wyk,Cristian Garin,6-3 6-1,1.53,9.6%,1.9%,61.5%,75.0%,50.0%,1/2,59.2%,52.9%,2.0%,55.9%,47.1%,5/8,103,5,1,52,32,20,1,1:41
+2-Sep-2024,Shanghai CH,3,Hard,Q2,405,509,1,12,,Kris Van Wyk,Lukas Pokorny,6-3 7-5,1.32,11.9%,3.0%,56.7%,76.3%,51.7%,1/3,55.0%,45.2%,2.7%,37.0%,59.3%,4/10,140,8,2,67,38,29,2,1:56
+2-Sep-2024,Shanghai CH,3,Hard,Q1,405,1505,1,12,WC,Kris Van Wyk,Charles Chen,6-4 6-1,1.56,10.9%,5.5%,52.7%,75.9%,57.7%,3/4,59.1%,50.9%,1.8%,45.5%,59.1%,4/7,110,6,3,55,29,26,1,1:56
+26-Aug-2024,Zhangjiagang CH,3,Hard,R32,405,406,0,Q,,Ryan Peniston,Kris Van Wyk,6-4 6-4,0.63,8.2%,13.1%,57.4%,71.4%,38.5%,1/4,42.7%,26.8%,3.6%,25.5%,33.3%,1/6,117,5,8,61,35,26,2,1:45
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q2,405,519,1,3,7,Kris Van Wyk,Makoto Ochi,3-6 6-1 6-1,1.34,13.0%,10.4%,46.8%,77.8%,53.7%,4/6,55.6%,47.0%,1.2%,44.4%,55.0%,5/6,160,10,8,77,36,41,1,2:09
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q1,405,908,1,3,Alt,Kris Van Wyk,Seita Watanabe,6-3 6-3,1.67,8.7%,0.0%,71.7%,78.8%,53.8%,1/2,58.6%,47.2%,3.8%,53.3%,39.1%,4/6,99,4,0,46,33,13,2,1:19
 19-Aug-2024,Jinan CH,3,Hard,R32,401,397,0,,,Aidan Mchugh,Kris Van Wyk,7-6(3) 6-4,0.68,10.6%,8.2%,49.4%,76.2%,53.5%,8/9,46.2%,23.9%,2.8%,20.0%,30.8%,0/5,156,9,7,85,42,43,2,2:09
 12-Aug-2024,M25 Yinchuan,3,Hard,R16,404,1480,0,5,Q,Yaojie Zeng,Kris Van Wyk,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Yinchuan,3,Hard,R32,404,920,1,5,,Kris Van Wyk,Hanyi Liu,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -68,10 +87,10 @@
 8-Jan-2024,M25 Mandya,3,Hard,QF,422,794,0,1,,Karan Singh,Kris Van Wyk,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Mandya,3,Hard,R16,422,2022,1,1,WC,Kris Van Wyk,Manish Ganesh,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Mandya,3,Hard,R32,422,2022,1,1,Q,Kris Van Wyk,Faisal Qamar,6-1 7-6(2),,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Sharm ElSheikh,3,,R32,384,943,0,1,,Luca Fantini,Kris Van Wyk,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,QF,382,827,0,1,,Alec Beckley,Kris Van Wyk,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,R16,382,,1,1,WC,Kris Van Wyk,Ruslan Tiukaev,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,R32,382,1364,1,1,Q,Kris Van Wyk,Cing Yang Meng,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Sharm ElSheikh,3,Hard,R32,384,943,0,1,,Luca Fantini,Kris Van Wyk,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,QF,382,827,0,1,,Alec Beckley,Kris Van Wyk,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R16,382,,1,1,WC,Kris Van Wyk,Ruslan Tiukaev,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R32,382,1364,1,1,Q,Kris Van Wyk,Cing Yang Meng,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,QF,384,666,0,3,,Yurii Dzhavakian,Kris Van Wyk,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R16,384,1213,1,3,Q,Kris Van Wyk,Cengiz Aksu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R32,384,1768,1,3,LL,Kris Van Wyk,Karim El Feky,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

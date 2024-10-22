@@ -1,8 +1,16 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Sep-2024,M25 Santa Margherita di Pula,3,Clay,SF,323,840,0,1,,Niccolo Catini,Felix Gill,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Santa Margherita di Pula,3,Clay,QF,323,435,1,1,6,Felix Gill,Gabriele Piraino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R16,323,1134,1,1,WC,Felix Gill,Daniele Rapagnetta,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,323,,1,1,Q,Felix Gill,Matteo Mesaglio,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,R16,325,379,0,,Alt,Genaro Alberto Olivieri,Felix Gill,7-5 6-7(3) 7-6(7),0.92,2.1%,1.4%,68.1%,67.7%,51.1%,15/19,49.4%,34.4%,3.3%,28.7%,48.6%,3/10,263,3,2,141,96,45,4,3:34
+9-Sep-2024,Dobrich CH,3,Clay,R32,325,269,1,,7,Felix Gill,Enrico Dalla Valle,0-6 6-4 7-5,0.84,1.1%,4.3%,62.8%,64.4%,48.6%,3/7,47.5%,34.9%,1.2%,27.8%,48.3%,3/3,177,1,4,94,59,35,1,2:34
+26-Aug-2024,M25 Oviedo,3,Clay,R16,323,590,0,1,,George Loffhagen,Felix Gill,2-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,R32,323,823,1,1,,Felix Gill,Albert Pedrico Kravtsov,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,321,822,0,1,WC,Albert Pedrico Kravtsov,Felix Gill,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R16,305,315,0,,,Cezar Cretu,Felix Gill,2-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R32,305,263,1,,9,Felix Gill,Gianluca Mager,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R32,302,221,0,,4,Vilius Gaubas,Felix Gill,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,R16,305,315,0,,,Cezar Cretu,Felix Gill,2-6 7-6(5) 6-4,1.19,6.5%,3.3%,63.0%,74.1%,38.2%,4/9,53.4%,46.5%,4.0%,36.8%,59.1%,6/8,193,6,3,92,58,34,4,2:35
+12-Aug-2024,Todi CH,3,Clay,R32,305,263,1,,9,Felix Gill,Gianluca Mager,6-3 6-3,1.48,11.9%,0.0%,67.8%,70.0%,73.7%,2/2,57.5%,42.6%,5.6%,38.7%,47.8%,3/7,113,7,0,59,40,19,3,1:21
+5-Aug-2024,Cordenons CH,3,Clay,R32,302,221,0,,4,Vilius Gaubas,Felix Gill,7-5 6-3,0.94,1.7%,3.4%,53.4%,67.7%,44.4%,1/5,47.7%,40.5%,4.1%,29.5%,56.7%,2/5,132,1,2,58,31,27,3,2:05
 22-Jul-2024,M25 Denia,3,Clay,QF,311,799,0,2,,Alejandro Manzanera Pertusa,Felix Gill,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R16,311,1399,1,2,Q,Felix Gill,Martins Rocens,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R32,311,1043,1,2,,Felix Gill,Pablo Masjuan Ginel,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -50,7 +58,7 @@
 15-Jan-2024,Buenos Aires CH,3,Clay,Q2,374,335,1,8,1,Felix Gill,Pedro Sakamoto,6-3 6-3,1.40,5.1%,3.4%,55.9%,69.7%,69.2%,6/6,55.1%,42.6%,1.5%,31.8%,62.5%,3/7,127,3,2,59,33,26,1,1:38
 15-Jan-2024,Buenos Aires CH,3,Clay,Q1,374,432,1,8,Alt,Felix Gill,Svyatoslav Gulin,7-6(4) 4-6 7-6(4),0.97,3.3%,5.7%,59.0%,70.8%,54.0%,5/8,50.4%,34.9%,2.8%,22.2%,53.5%,2/4,228,4,7,122,72,50,3,2:49
 8-Jan-2024,Buenos Aires CH,3,Clay,R32,369,727,0,Alt,,Joao Fonseca,Felix Gill,2-6 6-1 6-2,0.81,1.1%,7.4%,64.2%,57.4%,38.2%,8/14,46.3%,40.0%,3.1%,32.5%,52.0%,3/4,160,1,7,95,61,34,2,2:05
-13-Nov-2023,M15 Valencia,3,,R32,371,703,0,2,WC,Diego Augusto Barreto Sanchez,Felix Gill,6-2 6-5 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,371,703,0,2,WC,Diego Augusto Barreto Sanchez,Felix Gill,6-2 6-5 RET,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R16,370,407,0,5,,Miljan Zekic,Felix Gill,4-6 6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R32,370,860,1,5,Q,Felix Gill,Bruno Pujol Navarro,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Santa Margherita di Pula,3,Clay,R32,430,228,0,,2,Nerman Fatic,Felix Gill,6-7(2) 4-1 RET,,,,,,,,,,,,,,,,,,,,,

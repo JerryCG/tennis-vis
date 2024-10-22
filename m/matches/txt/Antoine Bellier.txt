@@ -1,15 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,R32,306,136,0,,3,Richard Gasquet,Antoine Bellier,7-6(4) 6-2,0.61,26.7%,6.7%,66.7%,80.0%,45.0%,1/3,44.4%,19.3%,10.5%,17.9%,22.2%,0/0,117,16,4,60,40,20,6,1:09
+7-Oct-2024,Roanne CH,3,Hard,R32,338,204,0,LL,Alt,Matteo Martineau,Antoine Bellier,7-6(4) 7-6(4),0.61,13.9%,3.8%,67.1%,81.1%,53.8%,2/2,46.0%,16.9%,21.1%,6.5%,36.0%,0/0,150,11,3,79,53,26,15,1:35
+7-Oct-2024,Roanne CH,3,Hard,Q2,338,281,0,8,3,Robin Bertrand,Antoine Bellier,7-5 6-4,0.65,19.4%,4.2%,59.7%,81.4%,34.5%,5/7,44.8%,24.2%,11.3%,17.4%,43.8%,0/5,134,14,3,72,43,29,7,1:32
+7-Oct-2024,Roanne CH,3,Hard,Q1,338,1011,1,8,Alt,Antoine Bellier,Matej Vocel,3-6 7-6(5) 7-6(4),0.72,19.1%,4.5%,64.5%,80.3%,56.4%,2/3,47.4%,20.2%,19.2%,9.8%,31.3%,0/2,209,21,5,110,71,39,19,2:01
+23-Sep-2024,Orleans CH,3,Hard,Q1,341,,0,9,WC,Jonathan Eysseric,Antoine Bellier,4-4 RET,0.00,4.5%,4.5%,45.5%,70.0%,75.0%,0/0,42.1%,0.0%,6.3%,0.0%,0.0%,0/0,38,1,1,22,10,12,1,0:29
+16-Sep-2024,Saint-Tropez CH,3,Hard,R32,338,244,0,WC,,Martin Landaluce,Antoine Bellier,6-4 6-2,0.50,16.4%,9.0%,56.7%,65.8%,41.4%,5/8,41.4%,22.4%,6.1%,18.9%,33.3%,0/0,116,11,6,67,38,29,3,1:18
+9-Sep-2024,M25+H Plaisir,3,Hard,R16,335,515,0,3,,Alastair Gray,Antoine Bellier,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25+H Plaisir,3,Hard,R32,335,,1,3,WC,Antoine Bellier,Espen Lagarde,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Cassis CH,3,Hard,R32,306,136,0,,3,Richard Gasquet,Antoine Bellier,7-6(4) 6-2,0.61,26.7%,6.7%,66.7%,80.0%,45.0%,1/3,44.4%,19.3%,10.5%,17.9%,22.2%,0/0,117,16,4,60,40,20,6,1:09
 22-Jul-2024,Chicago CH,3,Hard,Q2,314,225,0,9,,Jacob Fearnley,Antoine Bellier,4-6 6-3 6-0,0.73,8.1%,13.5%,56.8%,66.7%,43.8%,4/9,44.2%,31.5%,6.8%,21.6%,54.5%,2/5,147,6,10,74,42,32,5,1:33
 22-Jul-2024,Chicago CH,3,Hard,Q1,314,421,1,9,,Antoine Bellier,Omni Kumar,6-4 6-7(12) 6-4,1.21,14.4%,8.1%,52.3%,81.0%,54.7%,5/6,52.3%,38.3%,3.9%,36.1%,42.2%,3/8,239,16,9,111,58,53,5,2:56
 15-Jul-2024,Granby CH,3,Hard,Q1,313,673,0,2,,Patrick Maloney,Antoine Bellier,6-1 7-5,0.58,20.0%,16.0%,38.0%,73.7%,38.7%,0/4,39.3%,28.1%,5.3%,14.3%,50.0%,1/5,107,10,8,50,19,31,3,1:14
-8-Jul-2024,Winnipeg CH,3,Hard,R16,322,176,0,Q,6,Tristan Schoolkate,Antoine Bellier,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,R32,322,208,1,Q,,Antoine Bellier,Tristan Boyer,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,Q2,322,427,1,8,,Antoine Bellier,Cannon Kingsley,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,Q1,322,817,1,8,Alt,Antoine Bellier,Juan Carlos Aguilar,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Winnipeg CH,3,Hard,R16,322,176,0,Q,6,Tristan Schoolkate,Antoine Bellier,4-6 6-3 6-3,0.86,3.4%,5.6%,50.6%,71.1%,52.3%,6/9,47.2%,33.0%,8.8%,25.9%,43.2%,1/3,180,3,5,89,45,44,8,2:04
+8-Jul-2024,Winnipeg CH,3,Hard,R32,322,208,1,Q,,Antoine Bellier,Tristan Boyer,7-6(5) 7-5,1.38,11.4%,5.7%,65.7%,84.8%,54.2%,1/2,54.1%,35.5%,1.3%,30.0%,46.2%,2/5,146,8,4,70,46,24,1,1:46
+8-Jul-2024,Winnipeg CH,3,Hard,Q2,322,427,1,8,,Antoine Bellier,Cannon Kingsley,7-6(7) 6-3,1.08,20.0%,2.9%,60.0%,85.7%,53.6%,0/0,51.9%,29.2%,9.2%,18.6%,50.0%,1/4,135,14,2,70,42,28,6,1:36
+8-Jul-2024,Winnipeg CH,3,Hard,Q1,322,817,1,8,Alt,Antoine Bellier,Juan Carlos Aguilar,6-3 6-1,2.74,15.4%,5.1%,61.5%,87.5%,73.3%,0/0,62.8%,49.1%,0.0%,30.0%,60.0%,4/8,94,6,2,39,24,15,0,1:02
 1-Jul-2024,Bloomfield Hills CH,3,Hard,R16,322,366,0,Alt,Alt,Nishesh Basavareddy,Antoine Bellier,6-3 4-6 6-2,0.51,28.4%,9.9%,49.4%,82.5%,36.6%,5/8,41.2%,20.8%,11.1%,20.0%,22.2%,1/4,153,23,8,81,40,41,8,1:42
 1-Jul-2024,Bloomfield Hills CH,3,Hard,R32,322,413,1,Alt,,Antoine Bellier,Hiroki Moriya,2-6 6-2 6-1,1.31,21.0%,6.2%,55.6%,66.7%,63.9%,9/11,55.2%,45.1%,1.2%,38.9%,57.1%,4/8,163,17,5,81,45,36,1,1:52
-24-Jun-2024,Eastbourne,3,Grass,Q1,323,81,0,Alt,2,Aleksandar Vukic,Antoine Bellier,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Eastbourne,3,Grass,Q1,323,81,0,Alt,2,Aleksandar Vukic,Antoine Bellier,6-4 6-3,0.63,6.0%,10.0%,50.0%,72.0%,48.0%,0/3,42.9%,25.0%,8.3%,18.8%,37.5%,0/0,98,3,5,50,25,25,4,0:59
 3-Jun-2024,M25 Setubal,3,Hard,F,338,231,0,3,1,Antoine Escoffier,Antoine Bellier,3-6 7-6(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M25 Setubal,3,Hard,SF,338,303,1,3,2,Antoine Bellier,Robin Bertrand,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M25 Setubal,3,Hard,QF,338,736,1,3,,Antoine Bellier,Tiago Pereira,7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,

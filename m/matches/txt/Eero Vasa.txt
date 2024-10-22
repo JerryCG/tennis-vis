@@ -1,4 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M15 Grodzisk Mazowiecki,3,Hard,QF,695,459,0,8,1,Zdenek Kolar,Eero Vasa,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Grodzisk Mazowiecki,3,Hard,R16,695,1538,1,8,Q,Eero Vasa,Leyton Rivera,6-7(5) 6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Grodzisk Mazowiecki,3,Hard,R32,695,1031,1,8,Q,Eero Vasa,Jan Hrazdil,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,F,698,1185,0,,WC,Olle Wallin,Eero Vasa,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,SF,698,339,1,,1,Eero Vasa,Michael Geerts,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,QF,698,584,1,,8,Eero Vasa,Adrian Oetzbach,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,R16,698,455,1,,4,Eero Vasa,Anton Matusevich,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,R32,698,1722,1,,Q,Eero Vasa,Erik Grevelius,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2024,Davis Cup Finals RR: FIN vs ARG,3,Hard,RR,703,34,0,,,Tomas Martin Etcheverry,Eero Vasa,7-6(5) 6-3,0.88,9.6%,4.1%,54.8%,75.0%,39.4%,4/6,47.3%,36.0%,5.3%,22.0%,64.0%,1/4,148,7,3,73,40,33,4,1:51
+12-Sep-2024,Davis Cup Finals RR: CAN vs FIN,3,Hard,RR,703,100,0,,,Denis Shapovalov,Eero Vasa,7-6(2) 6-2,0.42,4.5%,6.0%,65.7%,59.1%,43.5%,3/6,39.0%,19.6%,9.8%,15.2%,27.8%,1/2,118,3,4,67,44,23,5,1:14
+11-Sep-2024,Davis Cup Finals RR: FIN vs GBR,3,Hard,RR,703,178,0,,,Daniel Evans,Eero Vasa,7-6(3) 6-2,0.54,7.6%,5.1%,62.0%,65.3%,40.0%,4/6,42.0%,23.7%,1.7%,8.3%,47.8%,0/2,138,6,4,79,49,30,1,1:38
+2-Sep-2024,M15 Budapest,3,Hard,R16,706,1932,0,6,Q,Phillip Jordan,Eero Vasa,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Budapest,3,Hard,R32,706,1022,1,6,,Eero Vasa,Illia Biloborodko,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ystad,3,Clay,QF,695,472,0,5,2,Viktor Durasovic,Eero Vasa,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ystad,3,Clay,R16,695,1391,1,5,SE,Eero Vasa,Alvin Nicholas Tudorica,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ystad,3,Clay,R32,695,1662,1,5,WC,Eero Vasa,Erik Grevelius,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -40,11 +53,11 @@
 2-Feb-2024,Davis Cup QLS R1: FIN vs POR,3,Hard,RR,1005,243,0,,,Henrique Rocha,Eero Vasa,6-4 7-5,0.75,5.2%,1.3%,71.4%,60.0%,40.9%,4/8,45.3%,33.9%,4.8%,31.4%,37.0%,2/3,139,4,1,77,55,22,3,1:27
 22-Jan-2024,M15+H Bagnoles de l'Orne,3,Clay,R32,1002,600,0,,6,Vladyslav Orlov,Eero Vasa,5-7 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Bressuire,3,Hard,R32,1002,840,0,,PR,Cyril Vandermeersch,Eero Vasa,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,R32,1062,592,0,Q,8,John Echeverria,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,SF,1063,658,0,,4,Alastair Gray,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,QF,1063,688,1,,7,Eero Vasa,David Perez Sanz,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,R16,1063,,1,,,Eero Vasa,Rafael Jodar,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,R32,1063,841,1,,,Eero Vasa,Luke Simkiss,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,1062,592,0,Q,8,John Echeverria,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,SF,1063,658,0,,4,Alastair Gray,Eero Vasa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,QF,1063,688,1,,7,Eero Vasa,David Perez Sanz,6-4 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,R16,1063,,1,,,Eero Vasa,Rafael Jodar,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,R32,1063,841,1,,,Eero Vasa,Luke Simkiss,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,Helsinki CH,3,Hard,R32,1063,84,0,WC,4,Alexandre Muller,Eero Vasa,6-4 6-3,0.65,2.9%,13.2%,54.4%,59.5%,38.7%,5/10,42.5%,32.7%,3.8%,16.7%,54.5%,2/4,120,2,9,68,37,31,2,1:08
 16-Oct-2023,M25 Tavira,3,Hard,R32,1023,250,0,Q,1,Clement Tabur,Eero Vasa,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 25-Sep-2023,Charleston CH,3,Hard,Q1,1038,406,0,Alt,7,Elmer Moller,Eero Vasa,7-5 6-7(4) 6-4,0.95,9.2%,3.3%,55.8%,74.6%,49.1%,6/10,50.2%,34.7%,5.9%,27.7%,40.7%,2/5,221,11,4,120,67,53,6,2:17

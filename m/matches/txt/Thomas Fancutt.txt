@@ -1,4 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Playford CH,3,Hard,Q2,764,680,0,7,3,Colin Sinclair,Thomas Fancutt,7-6(5) 6-3,0.74,11.6%,4.3%,49.3%,70.6%,54.3%,1/4,46.2%,27.9%,8.2%,22.2%,36.0%,1/2,130,8,3,69,34,35,5,1:26
+21-Oct-2024,Playford CH,3,Hard,Q1,764,961,1,7,Alt,Thomas Fancutt,Thijmen Loof,6-4 3-6 6-3,1.21,11.1%,2.5%,65.4%,79.2%,57.1%,5/6,52.0%,34.4%,6.7%,25.9%,50.0%,2/8,171,9,2,81,53,28,6,2:10
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,R32,790,137,0,Q,5,Mackenzie Mcdonald,Thomas Fancutt,7-6(5) 6-7(5) 6-1,0.83,15.1%,7.5%,56.6%,78.3%,41.3%,4/7,46.5%,31.2%,10.1%,22.6%,42.6%,1/3,215,16,8,106,60,46,11,2:12
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,Q2,790,621,1,10,4,Thomas Fancutt,Wishaya Trongcharoenchaikul,6-4 6-2,1.74,12.5%,2.1%,66.7%,75.0%,68.8%,4/5,59.4%,47.2%,11.3%,33.3%,70.0%,4/5,101,6,1,48,32,16,6,1:09
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,Q1,790,938,1,10,,Thomas Fancutt,Hanyi Liu,6-4 6-4,1.43,12.9%,3.2%,69.4%,76.7%,68.4%,2/2,55.1%,36.9%,4.6%,27.3%,46.9%,2/4,127,8,2,62,43,19,3,1:35
+7-Oct-2024,Hangzhou CH,3,Hard,Q1,789,540,0,,7,Yusuke Takahashi,Thomas Fancutt,7-6(4) 7-5,0.72,4.3%,5.4%,62.4%,70.7%,48.6%,8/10,46.5%,27.3%,6.5%,18.4%,42.9%,1/4,170,4,5,93,58,35,5,2:03
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q2,802,508,0,Alt,8,Yurii Dzhavakian,Thomas Fancutt,6-3 7-5,0.88,6.3%,6.3%,62.5%,60.0%,37.5%,7/12,46.2%,42.9%,3.8%,32.8%,55.3%,3/13,169,4,4,64,40,24,4,2:00
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q1,802,334,1,Alt,3,Thomas Fancutt,Ramkumar Ramanathan,6-4 6-7(2) 6-3,1.11,24.7%,5.2%,68.0%,81.8%,48.4%,3/3,51.8%,31.9%,12.8%,28.6%,38.7%,2/3,191,24,5,97,66,31,12,2:10
+9-Sep-2024,Guangzhou CH,3,Hard,Q2,827,381,0,10,2,Kris Van Wyk,Thomas Fancutt,6-3 6-2,0.58,3.4%,10.3%,55.2%,59.4%,38.5%,7/11,40.0%,28.8%,15.4%,10.0%,54.5%,1/5,110,2,6,58,32,26,8,1:27
+9-Sep-2024,Guangzhou CH,3,Hard,Q1,827,1847,1,10,WC,Thomas Fancutt,Wenfu Li,6-4 6-4,1.41,6.2%,7.7%,53.8%,74.3%,60.0%,7/8,56.4%,45.6%,5.9%,40.9%,54.2%,3/9,133,4,5,65,35,30,4,1:29
 22-Jul-2024,Tampere CH,3,Clay,Q2,821,374,0,12,3,Gabi Adrian Boitan,Thomas Fancutt,6-3 3-6 7-6(4),0.88,11.8%,5.5%,51.8%,70.2%,52.8%,10/12,48.8%,33.7%,1.1%,33.9%,33.3%,2/5,205,13,6,110,57,53,1,2:33
 22-Jul-2024,Tampere CH,3,Clay,Q1,821,,1,12,WC,Thomas Fancutt,Roni Rikkonen,6-4 6-0,1.48,10.0%,3.3%,50.0%,73.3%,63.3%,3/3,58.7%,46.9%,2.0%,33.3%,60.0%,4/6,109,6,2,60,30,30,1,1:11
 8-Jul-2024,Salzburg CH,3,Clay,Q1,818,319,0,Alt,2,Toby Alex Kodat,Thomas Fancutt,6-1 7-5,0.50,7.8%,6.3%,48.4%,67.7%,39.4%,4/8,40.0%,23.5%,7.8%,18.4%,38.5%,1/2,115,5,4,64,31,33,4,1:11
@@ -17,11 +27,11 @@
 1-Jan-2024,Noumea CH,3,Hard,R32,480,162,0,LL,,Gijs Brouwer,Thomas Fancutt,6-3 7-5,0.63,15.0%,13.3%,50.0%,73.3%,46.7%,1/4,43.1%,25.0%,1.8%,23.3%,30.8%,1/2,116,9,8,60,30,30,1,1:02
 1-Jan-2024,Noumea CH,3,Hard,Q2,480,677,0,5,9,Moerani Bouzige,Thomas Fancutt,5-7 7-6(7) 6-2,0.75,19.4%,9.7%,52.4%,85.2%,40.8%,3/6,46.4%,26.9%,5.4%,21.6%,33.3%,2/5,196,20,10,103,54,49,5,2:38
 1-Jan-2024,Noumea CH,3,Hard,Q1,480,,1,5,WC,Thomas Fancutt,Marek Jaloviec,6-2 4-6 7-5,1.29,17.7%,12.5%,50.0%,79.2%,50.0%,11/14,55.2%,45.8%,6.3%,35.3%,57.8%,5/11,192,17,12,96,48,48,6,2:30
-27-Nov-2023,M25 Gold Coast,3,,SF,500,605,0,4,8,Matthew Dellavedova,Thomas Fancutt,7-5 6-7(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,QF,500,811,1,4,,Thomas Fancutt,Kody Pearson,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R16,500,1033,1,4,,Thomas Fancutt,Emile Hudd,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,500,,1,4,,Thomas Fancutt,Shintaro Imai,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,496,902,0,7,,Keisuke Saitoh,Thomas Fancutt,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,SF,500,605,0,4,8,Matthew Dellavedova,Thomas Fancutt,7-5 6-7(8) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,QF,500,811,1,4,,Thomas Fancutt,Kody Pearson,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R16,500,1033,1,4,,Thomas Fancutt,Emile Hudd,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,500,,1,4,,Thomas Fancutt,Shintaro Imai,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,496,902,0,7,,Keisuke Saitoh,Thomas Fancutt,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Sydney CH,3,Hard,Q1,442,963,0,4,Alt,Matthew Christopher Romios,Thomas Fancutt,6-1 6-3,0.52,3.2%,4.8%,61.9%,59.0%,45.8%,9/13,40.7%,24.0%,14.0%,17.6%,37.5%,0/1,113,2,3,63,39,24,7,0:59
 23-Oct-2023,Playford CH,3,Hard,Q2,456,909,0,3,10,Ji Sung Nam,Thomas Fancutt,2-6 6-2 7-5,0.95,9.6%,7.2%,57.8%,77.1%,37.1%,4/8,49.1%,37.8%,6.1%,27.1%,65.2%,3/5,165,8,6,83,48,35,5,1:54
 23-Oct-2023,Playford CH,3,Hard,Q1,456,1119,1,3,,Thomas Fancutt,Alexander Klintcharov,6-4 6-2,1.47,22.4%,2.0%,67.3%,81.8%,43.8%,0/1,56.0%,45.0%,0.0%,37.5%,60.0%,4/8,109,11,1,49,33,16,0,1:13

@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Playford CH,3,Hard,R32,545,176,0,WC,4,Tristan Schoolkate,Jake Delaney,6-4 6-3,0.67,12.9%,5.7%,55.7%,69.2%,45.2%,6/8,43.7%,27.7%,26.2%,13.5%,46.4%,0/7,135,9,4,70,39,31,17,1:36
+7-Oct-2024,M25 Cairns,3,Hard,R32,464,632,0,6,,Colin Sinclair,Jake Delaney,6-3 6-7(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Cairns,3,Hard,R16,464,1196,0,5,,Scott Jones,Jake Delaney,1-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Cairns,3,Hard,R32,464,610,1,5,,Jake Delaney,Moerani Bouzige,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,SF,478,1329,0,2,,James Watt,Jake Delaney,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,QF,478,671,1,2,6,Jake Delaney,Edward Winter,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,R16,478,,1,2,Q,Jake Delaney,Marin Dumitru,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,R32,478,,1,2,WC,Jake Delaney,Hugh Winter,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,F,482,230,0,2,1,Omar Jasika,Jake Delaney,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,SF,482,1111,1,2,,Jake Delaney,Alexander Klintcharov,6-7(3) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,QF,482,683,1,2,5,Jake Delaney,Edward Winter,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,R16,482,1202,1,2,,Jake Delaney,Seon Yong Han,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,R32,482,938,1,2,,Jake Delaney,Jesse Delaney,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,R16,501,984,0,4,,Pawit Sornlaksup,Jake Delaney,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,501,1611,1,4,WC,Jake Delaney,Natthayut Nithithananont,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,QF,501,772,0,4,8,Leo Borg,Jake Delaney,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,R16,501,1690,1,4,Q,Jake Delaney,Hugo Pierre,6-7(3) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,501,1475,1,4,WC,Jake Delaney,Yuttana Charoenphon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Nakhon Si Thammarat ,3,Hard,SF,500,475,0,4,1,Ilia Simakin,Jake Delaney,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Nakhon Si Thammarat ,3,Hard,QF,500,1236,1,4,Q,Jake Delaney,Chan Yeong Oh,6-7(5) 7-6(2) 7-6(3),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,500,924,1,4,,Jake Delaney,Tomohiro Masabayashi,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -39,8 +57,8 @@
 8-Jan-2024,Auckland,3,Hard,Q1,531,186,0,Alt,,Patrick Kypson,Jake Delaney,6-1 6-4,0.44,8.1%,3.2%,72.6%,60.0%,29.4%,1/5,39.4%,21.4%,21.4%,12.9%,45.5%,0/1,104,5,2,62,45,17,9,1:16
 1-Jan-2024,Noumea CH,3,Hard,Q2,521,487,0,8,6,Makoto Ochi,Jake Delaney,6-3 6-3,0.34,3.7%,0.0%,70.4%,55.3%,62.5%,2/5,38.5%,14.3%,14.3%,15.4%,12.5%,0/0,96,2,0,54,38,16,6,1:12
 1-Jan-2024,Noumea CH,3,Hard,Q1,521,1327,1,8,WC,Jake Delaney,Samuel Brosset,5-7 7-6(2) 6-2,1.14,2.0%,3.0%,70.3%,66.2%,63.3%,9/12,52.5%,39.6%,9.9%,31.0%,51.2%,4/10,202,2,3,101,71,30,10,2:27
-27-Nov-2023,M25 Gold Coast,3,,R32,502,1960,0,5,WC,Matt Hulme,Jake Delaney,2-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,498,799,0,8,,Jacob Bradshaw,Jake Delaney,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,502,1960,0,5,WC,Matt Hulme,Jake Delaney,2-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,498,799,0,8,,Jacob Bradshaw,Jake Delaney,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Cairns,3,Hard,F,602,315,0,8,1,Omar Jasika,Jake Delaney,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Cairns,3,Hard,SF,602,403,1,8,3,Jake Delaney,Blake Ellis,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Cairns,3,Hard,QF,602,778,1,8,,Jake Delaney,Hikaru Shiraishi,6-3 6-7(5) 7-6(0),,,,,,,,,,,,,,,,,,,,,

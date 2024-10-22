@@ -1,13 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,Q1,598,399,0,Alt,5,Alexey Vatutin,Kai Wehnelt,0-6 6-2 6-2,0.95,11.1%,1.6%,47.6%,73.3%,42.4%,4/8,49.2%,40.7%,3.4%,41.2%,40.0%,3/3,122,7,1,63,30,33,2,1:19
+30-Sep-2024,M15 Trnava,3,Hard,QF,624,913,0,4,,Petr Brunclik,Kai Wehnelt,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Trnava,3,Hard,R16,624,1079,1,4,Q,Kai Wehnelt,Arthur Nagel,7-6(5) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Trnava,3,Hard,R32,624,1453,1,4,,Kai Wehnelt,Denis Petak,4-6 6-4 5-4 RET,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,R32,622,1256,0,6,Q,Robin Catry,Kai Wehnelt,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Rennes CH,3,Hard,Q2,619,446,0,8,4,Arthur Bouquier,Kai Wehnelt,6-3 6-4,0.72,9.4%,5.7%,64.2%,73.5%,26.3%,2/5,42.7%,31.3%,14.1%,29.2%,37.5%,1/4,117,5,3,53,34,19,9,1:11
+9-Sep-2024,Rennes CH,3,Hard,Q1,619,,1,8,WC,Kai Wehnelt,Gregoire Jacq,6-3 6-4,1.32,6.2%,6.2%,69.2%,73.3%,55.0%,2/3,55.6%,42.6%,8.2%,35.6%,62.5%,3/6,126,4,4,65,45,20,5,1:09
+2-Sep-2024,Tulln CH,3,Clay,Q1,598,399,0,Alt,5,Alexey Vatutin,Kai Wehnelt,0-6 6-2 6-2,0.95,11.1%,1.6%,47.6%,73.3%,42.4%,4/8,49.2%,40.7%,3.4%,41.2%,40.0%,3/3,122,7,1,63,30,33,2,1:19
 19-Aug-2024,M15 Lambermont,3,Clay,QF,643,547,0,6,1,Adrian Oetzbach,Kai Wehnelt,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,R16,643,738,1,6,,Kai Wehnelt,Jack Loge,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,R32,643,,1,6,Q,Kai Wehnelt,Nyo Van Dyck,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,F,651,1373,0,6,WC,Maximilian Homberg,Kai Wehnelt,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,SF,651,578,1,6,3,Kai Wehnelt,Liam Gavrielides,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,QF,651,1053,1,6,,Kai Wehnelt,Sebastian Prechtel,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,R16,651,1336,1,6,Q,Kai Wehnelt,Dimitris Sakellaridis,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,R32,651,1131,1,6,,Kai Wehnelt,Nicolas Ifi,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,F,651,1373,0,6,WC,Maximilian Homberg,Kai Wehnelt,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,SF,651,578,1,6,3,Kai Wehnelt,Liam Gavrielides,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,QF,651,1053,1,6,,Kai Wehnelt,Sebastian Prechtel,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,R16,651,1336,1,6,Q,Kai Wehnelt,Dimitris Sakellaridis,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,R32,651,1131,1,6,,Kai Wehnelt,Nicolas Ifi,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M25 Telfs,3,Clay,R32,609,521,0,,,Kirill Kivattsev,Kai Wehnelt,7-6(7) 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Kassel,3,Clay,R32,614,309,0,,3,Khumoyun Sultanov,Kai Wehnelt,7-6(8) 6-0,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Marburg,3,Clay,R32,614,431,0,,7,Louis Wessels,Kai Wehnelt,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,

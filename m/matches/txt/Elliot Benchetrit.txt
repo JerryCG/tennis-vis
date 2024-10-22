@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,M15 Pontevedra,3,Hard,R32,659,,0,7,Q,Peetu Pohjola,Elliot Benchetrit,1-1 RET,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2024,Davis Cup WG2 R1: MAR vs MON,3,Clay,RR,670,,0,,,Romain Arneodo,Elliot Benchetrit,4-6 7-5 6-3,0.88,3.0%,6.1%,50.5%,70.0%,57.1%,4/7,48.2%,31.9%,3.2%,26.9%,44.4%,2/6,193,3,6,99,50,49,3,2:30
+2-Sep-2024,M15 Madrid,3,Clay,R16,642,1016,0,7,,Pablo Masjuan Ginel,Elliot Benchetrit,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Madrid,3,Clay,R32,642,1395,1,7,WC,Elliot Benchetrit,Iker Sevilla,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Maribor,3,Clay,R32,652,1156,0,,,Filip Jeff Planinsek,Elliot Benchetrit,7-6(0) 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Bolzano,3,Clay,R16,665,427,0,,4,Jacopo Berrettini,Elliot Benchetrit,3-6 7-6(4) 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Bolzano,3,Clay,R32,665,1283,1,,WC,Elliot Benchetrit,Niccolo Ciavarella,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -37,9 +41,9 @@
 15-Jan-2024,M25 Doha,3,Hard,R32,507,882,1,8,,Elliot Benchetrit,Aleksandre Metreveli,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R16,509,745,0,5,,Antoine Ghibaudo,Elliot Benchetrit,6-1 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R32,509,680,1,5,,Elliot Benchetrit,Marek Gengel,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,QF,491,253,0,8,2,Jules Marie,Elliot Benchetrit,6-3 RET,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,R16,491,789,1,8,,Elliot Benchetrit,Matej Vocel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,R32,491,683,1,8,,Elliot Benchetrit,Aleksandr Braynin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,QF,491,253,0,8,2,Jules Marie,Elliot Benchetrit,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R16,491,789,1,8,,Elliot Benchetrit,Matej Vocel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,491,683,1,8,,Elliot Benchetrit,Aleksandr Braynin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Monastir,3,Hard,F,556,647,1,1,2,Elliot Benchetrit,Olaf Pieczkowski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Monastir,3,Hard,SF,556,811,1,1,,Elliot Benchetrit,Tiago Pereira,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Monastir,3,Hard,QF,556,1055,1,1,Q,Elliot Benchetrit,Louis Tessa,6-0 6-3,,,,,,,,,,,,,,,,,,,,,

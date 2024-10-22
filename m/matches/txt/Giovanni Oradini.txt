@@ -1,23 +1,30 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Genoa CH,3,Clay,Q2,429,409,0,7,4,Mili Poljicak,Giovanni Oradini,6-3 6-4,0.86,6.6%,4.9%,60.7%,73.0%,41.7%,7/10,46.5%,33.8%,14.7%,6.5%,56.8%,1/4,129,4,3,61,37,24,10,1:43
-1-Sep-2024,Genoa CH,3,Clay,Q1,429,1009,1,7,Alt,Giovanni Oradini,Stefano Reitano,7-5 6-4,1.34,7.7%,3.1%,76.9%,74.0%,53.3%,2/3,54.3%,41.1%,4.1%,31.0%,54.8%,3/7,138,5,2,65,50,15,3,2:06
+30-Sep-2024,M25 Santa Margherita di Pula,3,Clay,QF,513,445,0,,8,Gabriele Piraino,Giovanni Oradini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R16,513,567,1,,,Giovanni Oradini,Andrea Guerrieri,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,513,839,1,,Q,Giovanni Oradini,Francesco Ferrari,6-2 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R16,486,372,0,,6,Daniel Michalski,Giovanni Oradini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,486,632,1,,WC,Giovanni Oradini,Federico Bondioli,7-5 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Szczecin CH,3,Clay,Q1,462,465,0,12,,Tim Handel,Giovanni Oradini,6-3 6-3,0.56,1.8%,3.6%,57.1%,65.6%,45.8%,4/8,42.2%,23.9%,15.2%,13.9%,60.0%,1/2,102,1,2,56,32,24,7,1:17
+2-Sep-2024,Genoa CH,3,Clay,Q2,429,409,0,7,4,Mili Poljicak,Giovanni Oradini,6-3 6-4,0.86,6.6%,4.9%,60.7%,73.0%,41.7%,7/10,46.5%,33.8%,14.7%,6.5%,56.8%,1/4,129,4,3,61,37,24,10,1:43
+2-Sep-2024,Genoa CH,3,Clay,Q1,429,1009,1,7,Alt,Giovanni Oradini,Stefano Reitano,7-5 6-4,1.34,7.7%,3.1%,76.9%,74.0%,53.3%,2/3,54.3%,41.1%,4.1%,31.0%,54.8%,3/7,138,5,2,65,50,15,3,2:06
+26-Aug-2024,Como CH,3,Clay,Q1,429,393,0,,7,Max Hans Rehberg,Giovanni Oradini,6-2 6-4,0.63,3.4%,0.0%,50.0%,62.1%,55.2%,2/5,42.9%,25.9%,5.6%,22.2%,33.3%,0/1,112,2,0,58,29,29,3,1:33
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,R32,421,255,0,,,Mark Lajal,Giovanni Oradini,6-3 3-6 7-5,0.77,5.4%,4.5%,57.1%,73.4%,43.8%,13/16,47.7%,30.1%,8.4%,17.5%,57.7%,2/7,195,6,5,112,64,48,7,2:33
 29-Jul-2024,M25 Bolzano,3,Clay,R16,370,1336,0,1,Q,Leonardo Malgaroli,Giovanni Oradini,7-6(2) 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Bolzano,3,Clay,R32,370,1842,1,1,Q,Giovanni Oradini,Nicolo Toffanin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R32,364,971,0,4,,David Poljak,Giovanni Oradini,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Padova,3,Clay,R16,354,566,0,4,PR,Oleksandr Ovcharenko,Giovanni Oradini,7-6(4) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Padova,3,Clay,R32,354,1520,1,4,Q,Giovanni Oradini,Omar Brigida,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,Q2,354,681,0,4,11,Alessandro Pecci,Giovanni Oradini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,Q1,354,,1,4,WC,Giovanni Oradini,Ludovico Vaccari,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q2,354,681,0,4,11,Alessandro Pecci,Giovanni Oradini,6-3 6-4,0.76,5.1%,10.2%,40.7%,70.8%,54.3%,4/6,44.7%,29.7%,9.4%,15.4%,52.0%,0/2,123,3,6,59,24,35,6,1:45
+1-Jul-2024,Modena CH,3,Clay,Q1,354,,1,4,WC,Giovanni Oradini,Ludovico Vaccari,6-4 6-1,1.48,13.5%,5.8%,50.0%,80.8%,57.7%,1/1,56.9%,45.6%,3.5%,25.0%,65.5%,4/5,109,7,3,52,26,26,2,1:31
 24-Jun-2024,Milan CH,3,Clay,Q1,398,331,0,,10,Gastao Elias,Giovanni Oradini,6-3 6-4,0.63,0.0%,4.8%,61.3%,63.2%,54.2%,9/12,44.2%,25.5%,3.9%,15.4%,36.0%,0/0,113,0,3,62,38,24,2,1:38
 17-Jun-2024,M25 Cattolica,3,Clay,F,399,403,1,5,6,Giovanni Oradini,Andrea Picchione,7-6(4) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M25 Cattolica,3,Clay,SF,399,521,1,5,,Giovanni Oradini,Gabriele Pennaforti,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M25 Cattolica,3,Clay,QF,399,1397,1,5,Q,Giovanni Oradini,Stefano Dagostino,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M25 Cattolica,3,Clay,R16,399,,1,5,Q,Giovanni Oradini,Pierluigi Basile,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M25 Cattolica,3,Clay,R32,399,1908,1,5,Q,Giovanni Oradini,Enrique Bogo,6-0 7-6(1),,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Perugia CH,3,Clay,R32,410,226,0,Q,,Franco Agamenone,Giovanni Oradini,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Perugia CH,3,Clay,Q2,410,303,1,12,4,Giovanni Oradini,Guido Andreozzi,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Perugia CH,3,Clay,Q1,410,511,1,12,Alt,Giovanni Oradini,Gabriele Pennaforti,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,R32,410,226,0,Q,,Franco Agamenone,Giovanni Oradini,6-3 2-6 6-3,1.05,6.8%,5.5%,68.5%,68.0%,43.5%,4/8,50.3%,41.9%,4.7%,37.7%,58.8%,3/6,159,5,4,73,50,23,4,2:18
+10-Jun-2024,Perugia CH,3,Clay,Q2,410,303,1,12,4,Giovanni Oradini,Guido Andreozzi,6-4 2-6 6-3,0.83,10.2%,1.9%,58.3%,73.0%,40.0%,9/11,48.6%,33.8%,3.9%,26.5%,46.4%,2/3,185,11,2,108,63,45,3,2:38
+10-Jun-2024,Perugia CH,3,Clay,Q1,410,511,1,12,Alt,Giovanni Oradini,Gabriele Pennaforti,7-5 3-6 6-3,0.96,4.3%,0.0%,57.4%,68.2%,44.9%,8/11,50.0%,40.0%,3.2%,32.2%,52.8%,4/9,210,5,0,115,66,49,3,3:35
 3-Jun-2024,M25 Grasse,3,Clay,R16,409,570,0,6,,Nikolay Vylegzhanin,Giovanni Oradini,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M25 Grasse,3,Clay,R32,409,549,1,6,,Giovanni Oradini,Mariano Kestelboim,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 27-May-2024,Vicenza CH,3,Clay,Q1,409,367,0,,11,Alessandro Giannessi,Giovanni Oradini,6-3 6-4,0.65,8.7%,2.2%,69.6%,71.9%,42.9%,2/5,42.0%,24.1%,5.6%,9.7%,43.5%,1/3,100,4,1,46,32,14,3,1:25
@@ -42,8 +49,8 @@
 22-Jan-2024,Indian Wells 2 CH,3,Hard,R32,400,473,0,,Alt,Learner Tien,Giovanni Oradini,6-2 6-3,0.46,2.2%,2.2%,66.7%,53.3%,53.3%,1/4,37.0%,21.3%,10.6%,16.7%,26.1%,0/1,92,1,1,45,30,15,5,1:11
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R16,400,473,0,,,Learner Tien,Giovanni Oradini,6-2 7-6(1),0.71,1.4%,4.3%,65.7%,47.8%,50.0%,0/4,42.6%,36.4%,4.5%,30.0%,46.2%,2/3,136,1,3,70,46,24,3,1:44
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R32,400,324,1,,8,Giovanni Oradini,Sebastian Fanselow,6-3 7-6(1),1.12,2.5%,2.5%,67.9%,70.9%,53.8%,5/5,53.4%,38.8%,3.0%,25.0%,59.3%,2/5,148,2,2,81,55,26,2,1:58
-1-Jan-2024,M25 EschAlzette,3,Hard,R16,403,345,0,,2,Robert Strombachs,Giovanni Oradini,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,403,550,1,,,Giovanni Oradini,Buvaysar Gadamauri,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R16,403,345,0,,2,Robert Strombachs,Giovanni Oradini,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,403,550,1,,,Giovanni Oradini,Buvaysar Gadamauri,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Selva Gardena,3,Hard,SF,397,639,0,2,7,Adrian Oetzbach,Giovanni Oradini,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Selva Gardena,3,Hard,QF,397,1871,1,2,Q,Giovanni Oradini,Leonardo Malgaroli,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Selva Gardena,3,Hard,R16,397,,1,2,Q,Giovanni Oradini,Nicola Rispoli,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

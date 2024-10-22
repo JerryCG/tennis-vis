@@ -1,4 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+2-Sep-2024,M15 Monastir,3,Hard,R16,687,1529,0,3,,Ignasi Forcano,Luca Giacomini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Monastir,3,Hard,R32,687,1583,1,3,,Luca Giacomini,Peter Alam,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Monastir,3,Hard,R32,687,832,0,4,,Iliyan Radulov,Luca Giacomini,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,QF,696,518,0,6,2,Neil Oberleitner,Luca Giacomini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,R16,696,1513,1,6,Q,Luca Giacomini,Yvo Panak,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,R32,696,,1,6,WC,Luca Giacomini,Piet Luis Pinter,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -7,9 +10,9 @@
 15-Jul-2024,M15 Slovenska Bistrica,3,Clay,R16,641,1332,0,5,Q,Jan Kupcic,Luca Giacomini,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M15 Slovenska Bistrica,3,Clay,R32,641,885,1,5,,Luca Giacomini,Gabriele Bosio,6-7(4) 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Padova,3,Clay,R32,642,1528,0,,WC,Andrej Martin,Luca Giacomini,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,Q1,642,866,0,9,,Federico Bondioli,Luca Giacomini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,Q1,642,866,0,9,,Federico Bondioli,Luca Giacomini,6-3 6-3,0.57,0.0%,9.6%,50.0%,69.2%,26.9%,4/8,38.8%,29.4%,7.8%,20.0%,42.9%,1/1,103,0,5,52,26,26,4,1:21
 24-Jun-2024,M15 Bergamo,3,Clay,R32,594,857,0,5,,Niccolo Catini,Luca Giacomini,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,Sassuolo CH,3,Clay,Q1,595,288,0,Alt,2,Federico Agustin Gomez,Luca Giacomini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Sassuolo CH,3,Clay,Q1,595,288,0,Alt,2,Federico Agustin Gomez,Luca Giacomini,6-3 6-3,0.58,1.3%,6.3%,58.2%,65.2%,39.4%,8/11,43.8%,26.5%,8.2%,20.0%,36.8%,0/0,128,1,5,79,46,33,4,1:33
 3-Jun-2024,M15 Hrastnik,3,Clay,R32,597,1645,0,2,Q,Gregor Ramskogler,Luca Giacomini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 27-May-2024,Vicenza CH,3,Clay,Q1,597,310,0,WC,7,Remy Bertola,Luca Giacomini,6-2 6-4,0.63,1.9%,3.8%,71.2%,54.1%,60.0%,5/8,41.5%,27.8%,16.7%,24.1%,32.0%,0/2,106,1,2,52,37,15,9,1:15
 20-May-2024,Augsburg CH,3,Clay,R32,607,382,0,Q,Alt,Lucas Gerch,Luca Giacomini,6-4 7-5,0.79,0.0%,1.3%,58.4%,55.6%,46.9%,6/11,45.7%,38.1%,9.5%,16.7%,57.6%,3/6,140,0,1,77,45,32,6,1:57
@@ -38,10 +41,10 @@
 15-Jan-2024,M15 Manacor,3,Hard,R16,626,853,1,,,Luca Giacomini,Milos Karol,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Manacor,3,Hard,R32,626,598,1,,8,Luca Giacomini,Tommaso Compagnucci,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Manacor,3,Hard,R32,625,1671,0,,Q,Kenneth Raisma,Luca Giacomini,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,626,345,0,,2,Robert Strombachs,Luca Giacomini,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,QF,618,761,0,5,,Christoph Negritu,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R16,618,1673,1,5,Q,Luca Giacomini,Aaron Gil Garcia,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R32,618,1992,1,5,Q,Luca Giacomini,Fryderyk Lechno Wasiutynski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,626,345,0,,2,Robert Strombachs,Luca Giacomini,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,QF,618,761,0,5,,Christoph Negritu,Luca Giacomini,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R16,618,1673,1,5,Q,Luca Giacomini,Aaron Gil Garcia,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R32,618,1992,1,5,Q,Luca Giacomini,Fryderyk Lechno Wasiutynski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,Ortisei CH,3,Hard,QF,699,213,0,Q,3,Federico Gaio,Luca Giacomini,7-6(3) 7-6(2),0.80,0.0%,10.5%,57.9%,65.9%,46.9%,0/3,46.0%,33.8%,4.1%,28.3%,42.9%,3/10,150,0,8,76,44,32,3,1:53
 23-Oct-2023,Ortisei CH,3,Hard,R16,699,212,1,Q,8,Luca Giacomini,Illya Marchenko,4-6 6-2 7-6(5),1.00,0.0%,7.0%,57.0%,71.9%,51.2%,3/6,50.8%,37.1%,5.6%,27.1%,48.8%,4/6,189,0,7,100,57,43,5,2:38
 23-Oct-2023,Ortisei CH,3,Hard,R32,699,343,1,Q,,Luca Giacomini,Louis Wessels,6-3 6-4,1.80,8.2%,6.1%,61.2%,90.0%,63.2%,2/3,58.2%,36.7%,16.3%,33.3%,43.8%,3/7,98,4,3,49,30,19,8,1:14

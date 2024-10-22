@@ -1,5 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,Q1,721,541,0,Alt,9,Daniel Cukierman,Francisco Rocha,6-2 6-2,0.61,3.7%,3.7%,51.9%,57.1%,46.2%,4/8,41.2%,29.2%,2.1%,19.4%,47.1%,0/3,102,2,2,54,28,26,1,
+7-Oct-2024,M25 Sintra,3,Hard,R32,720,330,0,,4,Jacopo Berrettini,Francisco Rocha,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,Braga CH,3,Clay,Q2,720,501,0,WC,,Eric Vanshelboim,Francisco Rocha,3-6 6-3 6-4,0.87,1.1%,5.3%,51.6%,67.3%,32.6%,8/14,46.6%,42.9%,0.0%,40.3%,47.2%,5/13,193,1,5,95,49,46,0,2:52
+30-Sep-2024,Braga CH,3,Clay,Q1,720,375,1,WC,12,Francisco Rocha,Joel Schwaerzler,7-5 6-3,1.27,1.4%,2.8%,63.4%,62.2%,61.5%,9/12,55.5%,48.5%,4.5%,44.4%,57.1%,5/8,137,1,2,71,45,26,3,1:34
+23-Sep-2024,Lisbon CH,3,Clay,Q1,716,271,0,WC,6,Daniel Rincon,Francisco Rocha,4-6 7-6(3) 6-4,0.94,3.1%,5.2%,62.5%,75.0%,47.2%,1/3,48.5%,33.3%,3.9%,28.8%,41.7%,2/9,198,3,5,96,60,36,4,2:40
+2-Sep-2024,M15 Madrid,3,Clay,QF,721,570,0,,3,Michiel De Krom,Francisco Rocha,6-3 5-7 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Madrid,3,Clay,R16,721,1642,1,,Q,Francisco Rocha,Christian Lerby,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Madrid,3,Clay,R32,721,823,1,,,Francisco Rocha,Albert Pedrico Kravtsov,1-6 7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,Porto CH,3,Clay,Q1,721,541,0,Alt,9,Daniel Cukierman,Francisco Rocha,6-2 6-2,0.61,3.7%,3.7%,51.9%,57.1%,46.2%,4/8,41.2%,29.2%,2.1%,19.4%,47.1%,0/3,102,2,2,54,28,26,1,1:23
 19-Aug-2024,M25 Santander,3,Clay,R32,722,385,0,Q,6,Alex Marti Pujolras,Francisco Rocha,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,Porto CH,3,Hard,R32,887,338,0,WC,LL,Vadym Ursu,Francisco Rocha,6-1 6-4,0.79,3.2%,4.8%,66.1%,51.2%,61.9%,4/8,45.0%,35.8%,1.5%,27.3%,44.1%,0/8,129,2,3,62,41,21,1,1:43
 22-Jul-2024,M25 Porto,3,Hard,F,901,722,0,,,Joao Domingues,Francisco Rocha,6-4 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -30,7 +37,7 @@
 1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,932,476,0,WC,11,Garrett Johns,Francisco Rocha,6-3 7-5,0.85,8.5%,0.0%,66.1%,61.5%,55.0%,4/8,47.0%,34.5%,6.9%,20.0%,50.0%,2/2,117,5,0,59,39,20,4,1:32
 27-Nov-2023,Maia CH,3,Clay,R16,1040,286,0,WC,,Maxime Janvier,Francisco Rocha,6-4 6-2,0.78,4.4%,1.5%,67.6%,50.0%,59.1%,8/12,44.9%,36.8%,2.9%,25.0%,50.0%,1/7,136,3,1,68,46,22,2,1:44
 27-Nov-2023,Maia CH,3,Clay,R32,1040,205,1,WC,8,Francisco Rocha,Riccardo Bonadio,6-3 6-3,1.43,4.2%,0.0%,70.8%,70.6%,64.3%,0/1,56.8%,44.7%,2.1%,27.3%,60.0%,4/7,95,2,0,48,34,14,1,1:14
-20-Nov-2023,M25 Vale do Lobo,3,,R32,1147,894,0,WC,,Paul Jubb,Francisco Rocha,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,1147,894,0,WC,,Paul Jubb,Francisco Rocha,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,QF,1144,260,0,Q,3,Michael Geerts,Francisco Rocha,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,1144,1152,1,Q,Q,Francisco Rocha,Pietro Pampanin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,1144,718,1,Q,,Francisco Rocha,Mario Gonzalez Fernandez,7-6(1) 7-6(3),,,,,,,,,,,,,,,,,,,,,

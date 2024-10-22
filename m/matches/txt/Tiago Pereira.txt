@@ -1,6 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,Q2,535,412,0,8,1,Moez Echargui,Tiago Pereira,6-3 6-4,0.54,1.6%,1.6%,54.7%,60.0%,55.2%,7/10,42.9%,22.9%,2.1%,15.0%,28.6%,1/2,112,1,1,64,35,29,1,
-25-Aug-2024,Porto CH,3,Clay,Q1,535,,1,8,WC,Tiago Pereira,Joao Portugal,6-2 6-0,1.75,7.1%,4.8%,42.9%,72.2%,58.3%,2/3,63.3%,62.5%,0.0%,52.9%,85.7%,6/8,90,3,2,42,18,24,0,
+7-Oct-2024,M25 Sintra,3,Hard,R32,527,709,0,,,Dali Blanch,Tiago Pereira,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,Braga CH,3,Clay,Q1,527,268,0,WC,3,Matej Dodig,Tiago Pereira,6-2 4-6 6-4,0.92,1.1%,1.1%,46.8%,56.8%,52.0%,12/18,48.2%,42.3%,6.2%,28.1%,62.5%,4/10,191,1,1,94,44,50,6,2:19
+23-Sep-2024,Lisbon CH,3,Clay,Q1,528,250,0,WC,4,Elmer Moller,Tiago Pereira,6-2 6-1,0.40,4.4%,0.0%,66.7%,56.7%,26.7%,4/8,34.5%,21.4%,7.1%,12.5%,50.0%,0/2,87,2,0,45,30,15,3,0:50
+9-Sep-2024,M15 Monastir,3,Hard,SF,526,1048,0,3,,Ewen Lumsden,Tiago Pereira,7-6(5) 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Monastir,3,Hard,QF,526,924,1,3,,Tiago Pereira,Siem Woldeab,6-1 6-7(1) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Monastir,3,Hard,R16,526,755,1,3,,Tiago Pereira,Etienne Donnet,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Monastir,3,Hard,R32,526,675,1,3,,Tiago Pereira,Erik Arutiunian,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Seville CH,3,Clay,Q2,535,390,0,,8,Maxime Chazal,Tiago Pereira,5-7 7-6(2) 6-1,0.82,2.7%,5.5%,55.5%,68.9%,42.9%,3/8,46.9%,35.1%,2.1%,27.3%,51.6%,3/6,207,3,6,110,61,49,2,2:31
+2-Sep-2024,Seville CH,3,Clay,Q1,535,371,1,,4,Tiago Pereira,Ryan Nijboer,7-5 4-6 7-6(4),1.04,3.2%,2.4%,55.6%,70.0%,46.4%,8/13,51.2%,42.2%,6.0%,33.3%,60.5%,5/10,242,4,3,126,70,56,7,2:59
+26-Aug-2024,Porto CH,3,Clay,Q2,535,412,0,8,1,Moez Echargui,Tiago Pereira,6-3 6-4,0.54,1.6%,1.6%,54.7%,60.0%,55.2%,7/10,42.9%,22.9%,2.1%,15.0%,28.6%,1/2,112,1,1,64,35,29,1,1:20
+26-Aug-2024,Porto CH,3,Clay,Q1,535,,1,8,WC,Tiago Pereira,Joao Portugal,6-2 6-0,1.75,7.1%,4.8%,42.9%,72.2%,58.3%,2/3,63.3%,62.5%,0.0%,52.9%,85.7%,6/8,90,3,2,42,18,24,0,1:11
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,QF,535,,0,,3,Daniel Vallejo,Tiago Pereira,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R16,535,441,1,,6,Tiago Pereira,Dan Added,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R32,535,,1,,WC,Tiago Pereira,Alexander Bravo,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -53,13 +62,13 @@
 12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,734,934,0,,WC,Francisco Rocha,Tiago Pereira,2-6 7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,Oeiras 2 CH,3,Hard,R32,748,648,0,WC,PR,Paul Jubb,Tiago Pereira,6-4 6-1,0.52,0.0%,1.7%,55.9%,48.5%,50.0%,2/7,39.6%,26.2%,7.1%,18.2%,35.0%,1/4,101,0,1,59,33,26,3,1:06
 1-Jan-2024,Oeiras 1 CH,3,Hard,R32,748,366,0,WC,Q,Egor Gerasimov,Tiago Pereira,7-6(5) 6-1,0.57,1.4%,5.6%,52.8%,65.8%,47.1%,1/3,42.6%,24.6%,10.5%,19.4%,33.3%,0/0,129,1,4,72,38,34,6,1:21
-18-Dec-2023,M15 Monastir,3,,R16,752,392,0,,1,Omni Kumar,Tiago Pereira,W/O,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Monastir,3,,R32,752,,1,,Q,Tiago Pereira,Andrea Meduri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R32,764,407,0,,3,Stefanos Sakellaridis,Tiago Pereira,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Monastir,3,,R16,762,793,0,LL,Q,Paul Jubb,Tiago Pereira,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Monastir,3,,R32,762,642,1,LL,,Tiago Pereira,Maximus Jones,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,Hard,R16,752,392,0,,1,Omni Kumar,Tiago Pereira,W/O,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Monastir,3,Hard,R32,752,,1,,Q,Tiago Pereira,Andrea Meduri,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R32,764,407,0,,3,Stefanos Sakellaridis,Tiago Pereira,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,Hard,R16,762,793,0,LL,Q,Paul Jubb,Tiago Pereira,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,Hard,R32,762,642,1,LL,,Tiago Pereira,Maximus Jones,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maia CH,3,Clay,Q1,751,385,0,,1,Karl Friberg,Tiago Pereira,4-6 6-3 6-1,0.87,4.8%,4.8%,57.1%,62.5%,41.7%,4/10,47.0%,40.2%,0.0%,33.3%,51.6%,3/8,166,4,4,84,48,36,0,2:08
-20-Nov-2023,M25 Vale do Lobo,3,,R32,775,253,0,,2,Jules Marie,Tiago Pereira,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,775,253,0,,2,Jules Marie,Tiago Pereira,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,QF,778,531,0,,,Hynek Barton,Tiago Pereira,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,778,810,1,,,Tiago Pereira,Matej Vocel,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,778,494,1,,8,Tiago Pereira,Luka Mikrut,6-1 2-1 RET,,,,,,,,,,,,,,,,,,,,,

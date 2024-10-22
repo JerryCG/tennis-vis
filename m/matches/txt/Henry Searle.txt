@@ -1,5 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,R32,530,308,0,,,Hazem Naw,Henry Searle,7-6(2) 6-3,0.73,9.2%,5.3%,55.3%,69.0%,35.3%,8/11,43.6%,33.8%,2.5%,29.8%,43.5%,2/5,156,7,4,76,42,34,2,1:47
+7-Oct-2024,M15 Grodzisk Mazowiecki,3,Hard,QF,529,615,0,4,7,Deney Wassermann,Henry Searle,7-6(7) 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M15 Grodzisk Mazowiecki,3,Hard,R16,529,1024,1,4,,Henry Searle,Demetris Azoides,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M15 Grodzisk Mazowiecki,3,Hard,R32,529,913,1,4,,Henry Searle,Petr Brunclik,6-7(5) 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Cassis CH,3,Hard,R32,530,308,0,,,Hazem Naw,Henry Searle,7-6(2) 6-3,0.73,9.2%,5.3%,55.3%,69.0%,35.3%,8/11,43.6%,33.8%,2.5%,29.8%,43.5%,2/5,156,7,4,76,42,34,2,1:47
 12-Aug-2024,M25 Aldershot,3,Hard,R16,509,502,0,8,,Jack Pinnington Jones,Henry Searle,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Aldershot,3,Hard,R32,509,1432,1,8,WC,Henry Searle,Luke Simkiss,6-3 1-6 6-1,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Roehampton,3,Hard,R32,509,680,0,7,,Johannus Monday,Henry Searle,3-6 7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -8,9 +11,9 @@
 29-Jul-2024,Porto CH,3,Hard,Q1,520,454,1,,11,Henry Searle,Marek Gengel,6-1 6-4,2.13,19.5%,2.4%,68.3%,82.1%,69.2%,0/0,61.4%,46.8%,2.1%,40.6%,60.0%,4/5,88,8,1,41,28,13,1,0:57
 22-Jul-2024,Segovia CH,3,Hard,Q1,524,833,0,4,,Yaroslav Demin,Henry Searle,7-5 1-6 6-3,1.03,3.4%,11.2%,46.1%,80.5%,52.1%,6/8,50.6%,36.0%,2.2%,30.2%,41.3%,2/8,178,3,10,89,41,48,2,2:16
 1-Jul-2024,Wimbledon,5,Grass,R128,539,46,0,WC,,Marcos Giron,Henry Searle,3-6 6-3 6-4 6-4,0.80,13.9%,4.1%,57.4%,75.7%,48.1%,9/12,47.0%,28.9%,8.8%,17.8%,48.8%,1/6,236,17,5,122,70,52,10,2:27
-24-Jun-2024,Eastbourne,3,Grass,R32,568,57,0,LL,,Lorenzo Sonego,Henry Searle,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Jun-2024,Eastbourne,3,Grass,Q2,568,94,0,WC,6,Max Purcell,Henry Searle,7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Jun-2024,Eastbourne,3,Grass,Q1,568,86,1,WC,3,Henry Searle,Aleksandar Kovacevic,6-7(4) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Eastbourne,3,Grass,R32,568,57,0,LL,,Lorenzo Sonego,Henry Searle,6-3 6-2,0.35,0.0%,7.4%,61.1%,60.6%,33.3%,3/7,36.2%,17.5%,12.5%,16.7%,25.0%,1/1,94,0,4,54,33,21,5,1:07
+24-Jun-2024,Eastbourne,3,Grass,Q2,568,94,0,WC,6,Max Purcell,Henry Searle,7-6(6) 6-4,0.74,5.1%,1.3%,61.5%,72.9%,46.7%,3/5,46.9%,27.7%,9.2%,18.9%,39.3%,1/2,143,4,1,78,48,30,6,1:40
+24-Jun-2024,Eastbourne,3,Grass,Q1,568,86,1,WC,3,Henry Searle,Aleksandar Kovacevic,6-7(4) 7-6(3) 6-3,1.43,7.3%,3.1%,70.8%,75.0%,71.4%,1/2,53.5%,37.2%,5.8%,30.0%,47.1%,3/7,217,7,3,96,68,28,7,2:31
 17-Jun-2024,Queen's Club,3,Grass,Q1,570,98,0,WC,7,Rinky Hijikata,Henry Searle,6-4 6-3,0.59,9.4%,5.7%,62.3%,66.7%,40.0%,1/4,41.3%,25.5%,11.8%,11.5%,40.0%,1/1,104,5,3,53,33,20,6,1:13
 10-Jun-2024,Nottingham CH,3,Grass,R16,630,62,0,Q,2,Daniel Evans,Henry Searle,7-6(4) 7-6(5),0.78,8.3%,4.8%,65.5%,78.2%,41.4%,5/6,46.9%,26.9%,12.8%,22.9%,33.3%,1/3,162,7,4,84,55,29,10,2:00
 10-Jun-2024,Nottingham CH,3,Grass,R32,630,166,1,Q,,Henry Searle,Denis Kudla,7-6(4) 6-4,0.93,16.2%,2.7%,62.2%,69.6%,67.9%,2/2,50.7%,29.0%,12.9%,25.6%,36.8%,1/2,136,12,2,74,46,28,8,1:32

@@ -1,1 +1,11 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Jun-2010,Milan CH,3,Clay,R32,UNR,205,0,WC,,Diego Junqueira,Fabio Colangelo,6-4 6-2,0.46,3.6%,5.5%,60.0%,66.7%,36.4%,0/4,39.8%,20.9%,2.3%,18.2%,23.8%,1/1,98,2,3,55,33,22,1,1:15
+15-Jun-2009,Milan CH,3,Clay,R32,1070,181,0,WC,8,Alessio Di Mauro,Fabio Colangelo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jul-2006,Togliatti CH,3,Hard,R32,453,382,0,,,Ivan Cerovic,Fabio Colangelo,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Penza CH,3,Hard,R32,442,448,0,,,Dennis Van Scheppingen,Fabio Colangelo,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jan-2006,Florianopolis CH,3,Clay,R32,461,655,0,LL,Q,Rogerio Dutra Silva,Fabio Colangelo,6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
+18-Apr-2005,Monza CH,3,Clay,R32,701,165,0,WC,8,Dieter Kindlmann,Fabio Colangelo,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+6-Dec-2004,Guadalajara CH,3,Clay,R32,668,1110,0,,Q,Daniel Langre,Fabio Colangelo,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2003,Bukhara CH,3,Hard,R16,802,348,0,,6,Tomas Cakl,Fabio Colangelo,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Aug-2003,Bukhara CH,3,Hard,R32,802,1043,1,,,Fabio Colangelo,Murad Inoyatov,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Aug-2003,Samarkand CH,3,Clay,R32,825,865,0,,Q,Sergiy Stakhovsky,Fabio Colangelo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Sep-2024,Dobrich CH,3,Clay,Q1,868,580,0,,10,Dominik Kellovsky,Marcel Zielinski,6-3 6-1,0.59,2.2%,0.0%,43.5%,45.0%,42.3%,2/7,38.1%,33.3%,13.7%,22.6%,50.0%,1/7,97,1,0,46,20,26,7,1:13
+16-Sep-2024,M15 Melilla,3,Clay,R16,931,874,0,,,Benjamin Winter Lopez,Marcel Zielinski,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R32,931,1140,1,,,Marcel Zielinski,Gabriel Elicha Navas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,Q1,887,548,0,,10,Dominik Kellovsky,Marcel Zielinski,6-3 6-1,0.59,2.2%,0.0%,43.5%,45.0%,42.3%,2/7,38.1%,33.3%,13.7%,22.6%,50.0%,1/7,97,1,0,46,20,26,7,1:13
+2-Sep-2024,M15 Constanta,3,Clay,R16,868,1105,0,8,,Matteo De Vincentis,Marcel Zielinski,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Constanta,3,Clay,R32,868,1399,1,8,,Marcel Zielinski,Gabriel Ghetu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,Dobrich CH,3,Clay,Q1,869,565,0,,6,David Pichler,Marcel Zielinski,6-2 5-7 6-4,0.83,0.9%,1.9%,69.2%,67.6%,48.5%,9/12,47.8%,31.9%,5.3%,21.5%,55.2%,1/7,201,1,2,107,74,33,5,2:35
 12-Aug-2024,M15 Sofia,3,Clay,R32,868,1218,0,8,,Fernando Cavallo,Marcel Zielinski,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Amstelveen,3,Clay,R32,812,726,0,,7,John Sperle,Marcel Zielinski,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -24,11 +28,11 @@
 11-Mar-2024,M15 Antalya,3,Clay,R32,717,1972,0,4,WC,Jordi Garcia Mestre,Marcel Zielinski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2024,M25 Hammamet,3,Clay,R32,716,990,0,,LL,Daniel Bagnolini,Marcel Zielinski,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2024,M25 Hammamet,3,Clay,R32,713,838,0,,,Oscar Jose Gutierrez,Marcel Zielinski,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Antalya,3,,R32,701,,0,5,Q,Milos Mikovic,Marcel Zielinski,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Antalya,3,,R32,703,577,0,,8,Emilien Voisin,Marcel Zielinski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Monastir,3,,R16,708,873,0,5,PR,Cyril Vandermeersch,Marcel Zielinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Monastir,3,,R32,708,1852,1,5,,Marcel Zielinski,Jakub Filip,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R32,711,890,0,,,Simon Beaupain,Marcel Zielinski,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,R32,701,,0,5,Q,Milos Mikovic,Marcel Zielinski,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Antalya,3,Clay,R32,703,577,0,,8,Emilien Voisin,Marcel Zielinski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Monastir,3,Hard,R16,708,873,0,5,PR,Cyril Vandermeersch,Marcel Zielinski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Monastir,3,Hard,R32,708,1852,1,5,,Marcel Zielinski,Jakub Filip,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R32,711,890,0,,,Simon Beaupain,Marcel Zielinski,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M15 Bad Waltersdorf,3,Clay,F,766,1317,0,,,Branko Djuric,Marcel Zielinski,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M15 Bad Waltersdorf,3,Clay,SF,766,774,1,,,Marcel Zielinski,Sebastian Sorger,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M15 Bad Waltersdorf,3,Clay,QF,766,627,1,,6,Marcel Zielinski,David Pichler,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+23-Sep-2024,Orleans CH,3,Hard,Q1,602,256,0,WC,5,Charles Broom,Tom Paris,6-3 2-1 RET,0.58,2.7%,5.4%,62.2%,78.3%,35.7%,3/5,43.5%,21.9%,9.4%,20.0%,28.6%,0/0,69,1,2,37,23,14,3,0:47
+9-Sep-2024,M25+H Plaisir,3,Hard,R32,595,412,0,,8,Daniil Glinka,Tom Paris,4-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Monastir,3,Hard,R16,612,1021,0,3,Q,Christopher Bulus,Tom Paris,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Monastir,3,Hard,R32,612,,1,3,WC,Tom Paris,Gonzalo Ariel Karakachian,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Monastir,3,Hard,QF,616,1295,0,5,,Reda Bennani,Tom Paris,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
@@ -11,7 +13,7 @@
 22-Jul-2024,M25 Porto,3,Hard,R32,638,1227,1,8,WC,Tom Paris,Rodrigo Fernandes,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M25 Grasse,3,Clay,R32,591,554,0,,,Franco Roncadelli,Tom Paris,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 20-Nov-2023,M25 Monastir,3,Hard,R32,548,256,0,,3,Oscar Otte,Tom Paris,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Monastir,3,,R32,545,392,0,,8,Nick Chappell,Tom Paris,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,Hard,R32,545,392,0,,8,Nick Chappell,Tom Paris,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,Metz,3,Hard,Q2,584,176,0,WC,3,Harold Mayot,Tom Paris,6-3 6-4,0.63,4.0%,4.0%,52.0%,69.2%,58.3%,1/3,42.7%,22.6%,7.5%,18.9%,31.3%,0/1,103,2,2,50,26,24,4,1:12
 6-Nov-2023,Metz,3,Hard,Q1,584,191,1,WC,5,Tom Paris,Ugo Blanchet,6-4 6-1,1.78,13.0%,4.3%,52.2%,87.5%,59.1%,3/3,58.8%,46.4%,5.4%,33.3%,58.6%,4/6,102,6,2,46,24,22,3,1:07
 30-Oct-2023,M25+H Mulhouse,3,Hard,R32,738,462,0,SE,8,Eliakim Coulibaly,Tom Paris,0-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,

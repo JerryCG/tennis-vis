@@ -1,5 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,Q1,652,424,0,,3,Dan Added,Fabien Salle,6-3 6-1,0.57,13.7%,7.8%,45.1%,47.8%,42.9%,4/9,38.2%,31.4%,7.8%,32.1%,30.4%,1/3,102,7,4,51,23,28,4,1:10
+7-Oct-2024,M25 Louisville KY,3,Hard,R16,759,1337,0,,Q,Keshav Chopra,Fabien Salle,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Louisville KY,3,Hard,R32,759,,1,,WC,Fabien Salle,Charlelie Cosnet,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Ann Arbor MI,3,Hard,R32,759,777,0,7,,Axel Nefve,Fabien Salle,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Cassis CH,3,Hard,Q1,652,424,0,,3,Dan Added,Fabien Salle,6-3 6-1,0.57,13.7%,7.8%,45.1%,47.8%,42.9%,4/9,38.2%,31.4%,7.8%,32.1%,30.4%,1/3,102,7,4,51,23,28,4,1:10
 12-Aug-2024,M15 Monastir,3,Hard,R32,663,797,0,6,,Erik Arutiunian,Fabien Salle,7-6(3) 4-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Monastir,3,Hard,R16,666,,0,5,Q,Zaid Mashni,Fabien Salle,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Monastir,3,Hard,R32,666,,1,5,WC,Fabien Salle,Jaden Weekes,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -32,11 +35,11 @@
 15-Jan-2024,M15 Monastir,3,Hard,R32,899,,1,Q,Q,Fabien Salle,Luca Bluett,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Monastir,3,Hard,R16,900,708,0,Q,,Nicola Kuhn,Fabien Salle,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Monastir,3,Hard,R32,900,675,1,Q,8,Fabien Salle,David Perez Sanz,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,QF,927,395,0,,1,Omni Kumar,Fabien Salle,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R16,927,492,1,,6,Fabien Salle,Kirill Kivattsev,7-6(5) 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R32,927,1013,1,,Q,Fabien Salle,Igor Kudriashov,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Monastir,3,,R32,926,,0,Q,,Paul Barbier Gazeu,Fabien Salle,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Monastir,3,,R32,921,871,0,,,Cyril Vandermeersch,Fabien Salle,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,QF,927,395,0,,1,Omni Kumar,Fabien Salle,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R16,927,492,1,,6,Fabien Salle,Kirill Kivattsev,7-6(5) 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R32,927,1013,1,,Q,Fabien Salle,Igor Kudriashov,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,Hard,R32,926,,0,Q,,Paul Barbier Gazeu,Fabien Salle,3-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Monastir,3,Hard,R32,921,871,0,,,Cyril Vandermeersch,Fabien Salle,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Monastir,3,Hard,R32,925,483,0,,2,Alberto Barroso Campos,Fabien Salle,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Monastir,3,Hard,R32,929,1870,0,,Q,Mohamed Nazim Makhlouf,Fabien Salle,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M15 Monastir,3,Hard,R32,938,811,0,,,Samir Hamza Reguig,Fabien Salle,6-4 7-6(8),,,,,,,,,,,,,,,,,,,,,

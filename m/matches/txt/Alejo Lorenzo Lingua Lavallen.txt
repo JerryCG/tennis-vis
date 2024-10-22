@@ -1,9 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-15-Jul-2024,M25 EschAlzette,3,Clay,SF,402,275,0,3,1,Gauthier Onclin,Alejo Lorenzo Lingua Lavallen,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,QF,402,514,1,3,,Alejo Lorenzo Lingua Lavallen,Marlon Vankan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,R16,402,,1,3,LL,Alejo Lorenzo Lingua Lavallen,Jakub Wojcik,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,R32,402,1432,1,3,LL,Alejo Lorenzo Lingua Lavallen,Thomas Gerbaud,3-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Iasi CH,3,Clay,R32,383,289,0,Q,,Adolfo Daniel Vallejo,Alejo Lorenzo Lingua Lavallen,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,Villa Maria CH,3,Clay,Q1,384,665,0,7,Alt,Alex Barrena,Alejo Lorenzo Lingua Lavallen,6-2 6-4,0.70,0.0%,6.4%,51.1%,54.2%,47.8%,1/5,41.9%,34.5%,5.2%,27.0%,47.6%,1/3,105,0,3,47,24,23,3,1:18
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,Q2,384,367,0,6,8,Luciano Emanuel Ambrogi,Alejo Lorenzo Lingua Lavallen,7-6(5) 6-4,0.87,0.0%,0.0%,71.6%,58.5%,71.4%,3/6,47.6%,32.9%,2.7%,31.9%,34.6%,2/5,147,0,0,74,53,21,2,2:00
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,Q1,384,1227,1,6,WC,Alejo Lorenzo Lingua Lavallen,Mateo Del Pino,7-6(5) 6-4,1.21,1.5%,5.9%,63.2%,74.4%,40.0%,3/7,52.8%,46.3%,2.1%,39.0%,58.3%,5/10,163,1,4,68,43,25,2,1:57
+9-Sep-2024,M15 Cordoba,3,Clay,R16,385,,0,1,Q,Julian Cundom,Alejo Lorenzo Lingua Lavallen,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Cordoba,3,Clay,R32,385,1344,1,1,WC,Alejo Lorenzo Lingua Lavallen,Manuel Mouilleron Salvo,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,SF,402,275,0,3,1,Gauthier Onclin,Alejo Lorenzo Lingua Lavallen,7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,QF,402,514,1,3,,Alejo Lorenzo Lingua Lavallen,Marlon Vankan,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,R16,402,,1,3,LL,Alejo Lorenzo Lingua Lavallen,Jakub Wojcik,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,R32,402,1432,1,3,LL,Alejo Lorenzo Lingua Lavallen,Thomas Gerbaud,3-6 6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Iasi CH,3,Clay,R32,383,289,0,Q,,Adolfo Daniel Vallejo,Alejo Lorenzo Lingua Lavallen,6-4 6-4,0.95,3.6%,2.4%,61.4%,52.9%,40.6%,7/13,48.7%,49.3%,1.3%,38.0%,72.0%,4/15,158,3,2,83,51,32,1,2:19
 8-Jul-2024,Iasi CH,3,Clay,Q2,383,594,1,2,11,Alejo Lorenzo Lingua Lavallen,Vladyslav Orlov,6-3 6-2,1.54,7.4%,1.9%,50.0%,85.2%,59.3%,3/3,59.4%,42.9%,2.4%,38.1%,47.6%,3/7,96,4,1,54,27,27,1,1:24
 8-Jul-2024,Iasi CH,3,Clay,Q1,383,1279,1,2,,Alejo Lorenzo Lingua Lavallen,Mihai Alexandru Coman,6-0 6-1,2.64,5.6%,2.8%,63.9%,82.6%,69.2%,0/0,67.1%,58.7%,2.2%,41.7%,77.3%,5/6,82,2,1,36,23,13,1,0:58
 24-Jun-2024,Ibague CH,3,Clay,R16,391,265,0,,,Nicolas Mejia,Alejo Lorenzo Lingua Lavallen,6-3 6-2,0.55,9.5%,9.5%,38.1%,62.5%,42.3%,0/4,38.2%,27.7%,6.4%,30.0%,23.5%,1/1,89,4,4,42,16,26,3,1:12
@@ -54,8 +59,8 @@
 6-Nov-2023,M15 Rosario,3,Clay,R32,848,,1,WC,Q,Alejo Lorenzo Lingua Lavallen,Andres Gabriel Ciurletti,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Villa Maria,3,Clay,R16,856,554,0,WC,6,Lorenzo Joaquin Rodriguez,Alejo Lorenzo Lingua Lavallen,3-6 7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M15 Villa Maria,3,Clay,R32,856,1325,1,WC,Q,Alejo Lorenzo Lingua Lavallen,Nikos Lehmann,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R16,808,855,0,8,,Mariano Kestelboim,Alejo Lorenzo Lingua Lavallen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,808,1198,1,8,Q,Alejo Lorenzo Lingua Lavallen,Juan Estevez,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R16,808,855,0,8,,Mariano Kestelboim,Alejo Lorenzo Lingua Lavallen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R32,808,1198,1,8,Q,Alejo Lorenzo Lingua Lavallen,Juan Estevez,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,R16,808,,0,,8,Lautaro Midon,Alejo Lorenzo Lingua Lavallen,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,R32,808,,1,,WC,Alejo Lorenzo Lingua Lavallen,Lucca Guercio,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 7-Aug-2023,M25 Arequipa,3,Clay,R16,818,680,0,,4,Arklon Huertas Del Pino,Alejo Lorenzo Lingua Lavallen,6-1 7-5,,,,,,,,,,,,,,,,,,,,,

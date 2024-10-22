@@ -1,4 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Taipei 2 CH,3,Hard,Q2,587,891,1,4,9,San Hui Sin,Jose Rubin Statham,6-4 3-6 6-1,1.10,6.1%,2.4%,68.3%,75.0%,38.5%,3/6,52.2%,40.3%,3.9%,23.3%,61.8%,5/10,159,5,2,82,56,26,3,1:50
+21-Oct-2024,Taipei 2 CH,3,Hard,Q1,587,1523,1,4,,San Hui Sin,Hong Lin Fu,6-2 6-2,2.51,0.0%,2.4%,70.7%,79.3%,83.3%,0/0,62.8%,49.1%,13.2%,47.2%,52.9%,4/7,94,0,1,41,29,12,7,1:02
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q1,592,733,0,12,,Mitsuki Wei Kang Leong,San Hui Sin,6-4 0-0 RET,0.80,2.9%,0.0%,77.1%,51.9%,12.5%,4/7,44.4%,45.9%,2.7%,14.3%,87.5%,2/8,72,1,0,35,27,8,1,0:56
+16-Sep-2024,M25 Takasaki,3,Hard,R16,607,461,0,,4,Adria Soriano Barrera,San Hui Sin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Takasaki,3,Hard,R32,607,602,1,,,San Hui Sin,Ryotaro Taguchi,6-4 3-3 RET,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Singapore,3,Hard,SF,617,929,0,1,7,Tomohiro Masabayashi,San Hui Sin,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Singapore,3,Hard,QF,617,,1,1,Q,San Hui Sin,Guillermo Olaso,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Singapore,3,Hard,R16,617,,1,1,WC,San Hui Sin,Michael Dylan Jimenez,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Singapore,3,Hard,R32,617,,1,1,,San Hui Sin,Bill Chan,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,SF,556,613,0,2,3,Chris Rodesch,San Hui Sin,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,QF,556,666,1,2,7,San Hui Sin,Arthur Weber,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,R16,556,786,1,2,,San Hui Sin,Collin Altamirano,4-6 6-3 10-8,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,R32,556,1044,1,2,,San Hui Sin,Yuquan Jin,6-2 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,QF,556,279,0,,1,Goncalo Oliveira,San Hui Sin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,R16,556,627,1,,8,San Hui Sin,Tsung Hao Huang,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,R32,556,,1,,Q,San Hui Sin,Yi Wei Zhang,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,Jinan CH,3,Hard,R16,591,388,0,Q,,Philip Henning,San Hui Sin,6-2 6-3,0.53,6.1%,4.5%,48.5%,71.9%,32.4%,5/9,40.7%,25.5%,6.4%,19.2%,33.3%,1/1,113,4,3,66,32,34,3,1:23
 19-Aug-2024,Jinan CH,3,Hard,R32,591,353,1,Q,6,San Hui Sin,Jie Cui,6-0 6-2,1.94,11.8%,2.0%,62.7%,81.3%,47.4%,3/3,65.2%,61.0%,0.0%,43.5%,83.3%,5/6,92,6,1,51,32,19,0,1:14
 19-Aug-2024,Jinan CH,3,Hard,Q2,591,1629,1,4,WC,San Hui Sin,Charles Chen,7-5 6-3,1.49,10.9%,0.0%,61.8%,64.7%,66.7%,2/5,58.0%,51.6%,3.1%,42.4%,61.3%,6/9,119,6,0,55,34,21,2,1:25
@@ -30,15 +46,15 @@
 5-Feb-2024,M25 Hammamet,3,Clay,R16,466,990,0,6,Q,Daniel Bagnolini,San Hui Sin,1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2024,M25 Hammamet,3,Clay,R32,466,2007,1,6,WC,San Hui Sin,Toprak Avcibasi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Jan-2024,M15 Monastir,3,Hard,R32,464,1426,0,3,,Sebastian Eriksson,San Hui Sin,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,F,526,685,1,2,7,San Hui Sin,Duck Hee Lee,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,SF,526,,1,2,Q,San Hui Sin,Jay Dylan Hara Friend,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,QF,526,997,1,2,,San Hui Sin,Hayato Matsuoka,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,R16,526,1850,1,2,Q,San Hui Sin,Shunsuke Nakagawa,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,R32,526,849,1,2,,San Hui Sin,Wishaya Trongcharoenchaikul,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Yanagawa,3,,SF,525,794,0,1,,Taisei Ichikawa,San Hui Sin,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Yanagawa,3,,QF,525,1056,1,1,Q,San Hui Sin,Kazuma Kawachi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Yanagawa,3,,R16,525,780,1,1,,San Hui Sin,Kokoro Isomura,6-3 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Yanagawa,3,,R32,525,1309,1,1,Q,San Hui Sin,Ko Suzuki,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,F,526,685,1,2,7,San Hui Sin,Duck Hee Lee,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,SF,526,,1,2,Q,San Hui Sin,Jay Dylan Hara Friend,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,QF,526,997,1,2,,San Hui Sin,Hayato Matsuoka,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,R16,526,1850,1,2,Q,San Hui Sin,Shunsuke Nakagawa,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,R32,526,849,1,2,,San Hui Sin,Wishaya Trongcharoenchaikul,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Yanagawa,3,Hard,SF,525,794,0,1,,Taisei Ichikawa,San Hui Sin,7-5 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Yanagawa,3,Hard,QF,525,1056,1,1,Q,San Hui Sin,Kazuma Kawachi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Yanagawa,3,Hard,R16,525,780,1,1,,San Hui Sin,Kokoro Isomura,6-3 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Yanagawa,3,Hard,R32,525,1309,1,1,Q,San Hui Sin,Ko Suzuki,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,Matsuyama CH,3,Hard,Q1,503,658,0,11,Alt,Tatsuma Ito,San Hui Sin,7-6(4) 6-3,0.76,11.3%,4.8%,64.5%,70.0%,45.5%,4/6,44.9%,29.2%,7.7%,23.7%,37.0%,1/3,127,7,3,62,40,22,5,
 11-Sep-2023,M25 Sapporo,3,Hard,R32,512,791,0,5,,Kosuke Ogura,San Hui Sin,5-7 6-4 7-6(1),,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M25 Hong Kong,3,Hard,R16,576,1577,0,5,Q,Henrik Wiersholm,San Hui Sin,1-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,

@@ -1,7 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q3,153,138,0,,,Radu Albot,Shintaro Mochizuki,6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q2,153,124,1,,22,Shintaro Mochizuki,Roman Andres Burruchaga,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,153,205,1,,,Shintaro Mochizuki,Martin Damm,6-7(7) 6-1 7-6(7),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,Playford CH,3,Hard,R32,245,478,1,3,,Shintaro Mochizuki,Aleksandre Bakshi,7-5 6-3,1.51,8.9%,1.8%,66.1%,78.4%,47.4%,1/3,57.0%,48.6%,9.7%,32.7%,82.6%,5/11,128,5,1,56,37,19,7,1:22
+2-Oct-2024,Shanghai Masters,3,Hard,Q1,145,815,0,21,WC,Linang Xiao,Shintaro Mochizuki,6-2 6-3,0.72,0.0%,10.2%,51.0%,52.0%,45.8%,4/9,42.6%,36.5%,7.7%,30.6%,50.0%,2/4,101,0,5,49,25,24,4,1:19
+25-Sep-2024,Tokyo,3,Hard,R32,146,18,0,WC,,Ugo Humbert,Shintaro Mochizuki,6-1 6-2,0.61,3.6%,3.6%,49.1%,55.6%,42.9%,4/8,40.8%,31.3%,4.2%,25.0%,40.0%,0/2,103,2,2,55,27,28,2,1:16
+18-Sep-2024,Chengdu,3,Hard,R32,147,95,0,Q,,Yannick Hanfmann,Shintaro Mochizuki,6-4 7-6(4),0.86,2.7%,4.1%,59.5%,72.7%,50.0%,5/7,47.6%,31.5%,13.7%,27.7%,38.5%,1/3,147,2,3,74,44,30,10,1:46
+18-Sep-2024,Chengdu,3,Hard,Q2,147,194,1,2,8,Shintaro Mochizuki,Li Tu,7-6(3) 1-6 7-6(1),0.92,8.0%,1.6%,59.2%,55.4%,58.8%,6/11,48.6%,39.8%,7.6%,36.1%,45.7%,2/12,243,10,2,125,74,51,9,2:48
+18-Sep-2024,Chengdu,3,Hard,Q1,147,1305,1,2,WC,Shintaro Mochizuki,Charles Chen,3-6 6-3 6-2,1.30,10.0%,2.9%,60.0%,78.6%,53.6%,0/2,54.1%,40.8%,9.2%,29.4%,64.0%,4/7,146,7,2,70,42,28,7,1:45
+26-Aug-2024,US Open,5,Hard,Q3,153,138,0,,,Radu Albot,Shintaro Mochizuki,6-4 5-7 6-3,0.96,4.0%,7.0%,55.0%,58.2%,42.2%,7/15,49.0%,46.9%,1.0%,42.2%,55.9%,6/14,198,4,7,100,55,45,1,2:27
+26-Aug-2024,US Open,5,Hard,Q2,153,124,1,,22,Shintaro Mochizuki,Roman Andres Burruchaga,6-3 6-2,1.38,1.4%,10.1%,53.6%,62.2%,43.8%,7/10,57.8%,63.8%,0.0%,48.4%,93.8%,6/7,116,1,7,69,37,32,0,1:20
+26-Aug-2024,US Open,5,Hard,Q1,153,205,1,,,Shintaro Mochizuki,Martin Damm,6-7(7) 6-1 7-6(7),1.11,9.0%,11.3%,45.1%,76.7%,49.3%,7/10,52.8%,42.5%,9.7%,25.5%,58.6%,5/13,246,12,15,133,60,73,11,2:59
 12-Aug-2024,Cary CH,3,Hard,Q2,157,155,0,9,,Gabriel Diallo,Shintaro Mochizuki,7-6(4) 6-2,0.69,0.0%,2.9%,61.8%,59.5%,57.7%,5/8,44.5%,28.3%,15.0%,17.6%,42.3%,1/3,128,0,2,68,42,26,9,1:38
 12-Aug-2024,Cary CH,3,Hard,Q1,157,200,1,9,Alt,Shintaro Mochizuki,Marc Polmans,7-5 6-4,1.50,5.4%,3.6%,66.1%,78.4%,63.2%,0/1,54.7%,40.3%,6.9%,29.5%,57.1%,3/10,128,3,2,56,37,19,5,
 5-Aug-2024,Lincoln CH,3,Hard,R32,158,134,0,LL,5,Bu Yunchaokete,Shintaro Mochizuki,6-4 6-2,0.79,0.0%,6.2%,52.3%,52.9%,38.7%,9/14,44.1%,42.5%,3.4%,38.5%,48.6%,2/15,152,0,4,65,34,31,3,1:47
@@ -17,12 +23,12 @@
 3-Jun-2024,Surbiton CH,3,Grass,QF,162,151,0,Alt,Alt,Leandro Riedi,Shintaro Mochizuki,6-4 6-1,0.71,0.0%,6.0%,60.0%,66.7%,25.0%,0/4,42.0%,35.5%,8.1%,28.2%,47.8%,1/4,112,0,3,50,30,20,5,1:09
 3-Jun-2024,Surbiton CH,3,Grass,R16,162,74,1,Alt,5,Shintaro Mochizuki,Mackenzie Mcdonald,2-6 6-4 6-2,1.14,0.0%,2.2%,55.6%,52.0%,62.5%,9/13,53.5%,49.3%,0.0%,52.2%,43.5%,5/7,159,0,2,90,50,40,0,1:52
 3-Jun-2024,Surbiton CH,3,Grass,R32,162,121,1,Alt,,Shintaro Mochizuki,Terence Atmane,6-7(4) 6-1 6-4,1.12,0.0%,1.0%,67.6%,70.4%,58.8%,9/9,53.4%,37.5%,10.2%,36.1%,40.7%,3/3,193,0,1,105,71,34,9,2:01
-27-May-2024,Roland Garros,5,Clay,R128,162,8,0,Q,8,Hubert Hurkacz,Shintaro Mochizuki,4-6 6-3 3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q3,162,120,1,,13,Shintaro Mochizuki,Facundo Bagnis,6-4 2-0 RET,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q2,162,125,1,,18,Shintaro Mochizuki,Stefano Napolitano,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q1,162,193,1,,,Shintaro Mochizuki,Nick Hardt,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,162,8,0,Q,8,Hubert Hurkacz,Shintaro Mochizuki,4-6 6-3 3-6 6-0 6-3,0.75,2.7%,7.4%,52.7%,65.4%,47.1%,13/19,45.1%,32.6%,15.2%,25.8%,46.7%,3/9,286,4,11,148,78,70,21,
+27-May-2024,Roland Garros,5,Clay,Q3,162,120,1,,13,Shintaro Mochizuki,Facundo Bagnis,6-4 2-0 RET,1.35,5.7%,2.9%,60.0%,66.7%,57.1%,0/1,56.7%,50.0%,6.3%,42.1%,61.5%,3/3,67,2,1,35,21,14,2,
+27-May-2024,Roland Garros,5,Clay,Q2,162,125,1,,18,Shintaro Mochizuki,Stefano Napolitano,6-3 6-2,1.54,2.1%,4.3%,53.2%,72.0%,59.1%,0/1,58.0%,52.3%,3.1%,37.5%,76.0%,5/11,112,1,2,47,25,22,2,
+27-May-2024,Roland Garros,5,Clay,Q1,162,193,1,,,Shintaro Mochizuki,Nick Hardt,4-6 6-4 6-2,1.13,2.9%,5.9%,84.3%,58.1%,25.0%,15/22,52.9%,52.9%,1.0%,50.0%,68.8%,9/12,204,3,6,102,86,16,1,
 13-May-2024,Oeiras CH,3,Clay,R32,157,233,0,8,WC,Jaime Faria,Shintaro Mochizuki,6-2 6-4,0.75,1.4%,7.0%,60.6%,65.1%,28.6%,4/8,43.9%,36.8%,8.8%,27.0%,48.4%,1/10,139,1,5,71,43,28,6,1:29
-6-May-2024,Francavilla Al Mare CH,3,Clay,R32,157,463,0,3,Q,Ryan Nijboer,Shintaro Mochizuki,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+6-May-2024,Francavilla Al Mare CH,3,Clay,R32,157,463,0,3,Q,Ryan Nijboer,Shintaro Mochizuki,6-4 7-5,0.90,4.5%,9.0%,53.7%,61.1%,35.5%,4/10,47.5%,45.8%,0.0%,48.6%,42.9%,4/4,139,3,6,67,36,31,0,1:45
 29-Apr-2024,Cagliari CH,3,Clay,R16,163,41,0,Q,3,Mariano Navone,Shintaro Mochizuki,6-0 4-6 6-3,0.83,0.0%,3.2%,53.7%,51.0%,40.9%,7/15,45.5%,44.7%,1.9%,44.1%,45.5%,4/11,198,0,3,95,51,44,2,2:34
 29-Apr-2024,Cagliari CH,3,Clay,R32,163,61,1,Q,,Shintaro Mochizuki,Daniel Altmaier,6-4 1-6 6-3,0.99,0.0%,5.5%,47.9%,65.7%,42.1%,1/7,49.4%,46.0%,0.0%,41.7%,51.3%,6/13,160,0,4,73,35,38,0,2:11
 29-Apr-2024,Cagliari CH,3,Clay,Q2,163,288,1,3,8,Shintaro Mochizuki,Marco Cecchinato,7-5 3-6 6-4,0.96,0.9%,4.4%,50.4%,73.7%,42.9%,12/16,50.0%,40.0%,1.1%,33.3%,50.0%,5/8,208,1,5,113,57,56,1,2:37

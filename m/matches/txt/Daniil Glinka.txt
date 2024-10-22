@@ -1,4 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M25 Nevers,3,Hard,R32,394,1473,0,2,Q,Liam Branger,Daniil Glinka,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25+H Plaisir,3,Hard,SF,412,233,0,8,1,Clement Chidekh,Daniil Glinka,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25+H Plaisir,3,Hard,QF,412,316,1,8,4,Daniil Glinka,Marat Sharipov,6-4 RET,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25+H Plaisir,3,Hard,R16,412,1368,1,8,WC,Daniil Glinka,Nathan Trouve,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25+H Plaisir,3,Hard,R32,412,595,1,8,,Daniil Glinka,Tom Paris,4-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,QF,444,2084,0,4,Q,Leo Deflandre,Daniil Glinka,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R16,444,1052,1,4,WC,Daniil Glinka,Charlie Camus,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R32,444,1320,1,4,Q,Daniil Glinka,Cesar Bouchelaghem,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Budapest,3,Hard,F,444,243,1,2,1,Daniil Glinka,Clement Chidekh,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Budapest,3,Hard,SF,444,495,1,2,3,Daniil Glinka,Hamish Stewart,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Budapest,3,Hard,QF,444,787,1,2,,Daniil Glinka,Karl Poling,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Budapest,3,Hard,R16,444,692,1,2,,Daniil Glinka,Leonardo Rossi,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Budapest,3,Hard,R32,444,2116,1,2,Q,Daniil Glinka,Aurel Ciocanu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,QF,448,583,0,5,,Alastair Gray,Daniil Glinka,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R16,448,630,1,5,,Daniil Glinka,Alex Knaff,6-3 6-7(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R32,448,1394,1,5,WC,Daniil Glinka,Tiago Silva,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -8,7 +21,7 @@
 29-Jul-2024,Porto CH,3,Hard,Q1,426,540,0,8,,Pedro Araujo,Daniil Glinka,3-6 7-6(7) 6-4,1.06,6.3%,3.6%,55.0%,62.3%,56.0%,8/13,51.6%,43.1%,0.0%,43.7%,40.0%,5/14,213,7,4,111,61,50,0,2:32
 22-Jul-2024,Chicago CH,3,Hard,Q1,424,323,0,,,James Trotter,Daniil Glinka,6-7(4) 7-6(5) 6-3,0.89,10.8%,2.7%,60.4%,68.7%,59.1%,4/7,48.4%,31.1%,9.4%,17.9%,46.0%,2/5,217,12,3,111,67,44,10,2:43
 15-Jul-2024,Granby CH,3,Hard,Q1,425,1449,0,8,Alt,Cleeve Harper,Daniil Glinka,6-4 7-5,0.95,11.9%,1.5%,52.2%,82.9%,40.6%,3/6,48.3%,35.5%,5.3%,36.2%,33.3%,1/8,143,8,1,67,35,32,4,1:46
-8-Jul-2024,Winnipeg CH,3,Hard,Q1,419,588,0,12,Alt,Quinn Vandecasteele,Daniil Glinka,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Winnipeg CH,3,Hard,Q1,419,588,0,12,Alt,Quinn Vandecasteele,Daniil Glinka,7-5 6-3,0.67,1.7%,8.6%,44.8%,57.7%,31.3%,1/7,40.7%,38.2%,7.3%,32.1%,44.4%,4/6,113,1,5,58,26,32,4,1:29
 10-Jun-2024,M25 Elvas,3,Hard,R16,426,657,0,5,,Tiago Pereira,Daniil Glinka,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Elvas,3,Hard,R32,426,,1,5,Q,Daniil Glinka,Ricardo Batista,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M25 Setubal,3,Hard,R32,419,736,0,7,,Tiago Pereira,Daniil Glinka,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -50,8 +63,8 @@
 8-Jan-2024,M25 Loughborough,3,Hard,R32,495,482,1,,,Daniil Glinka,Marcello Serafini,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jan-2024,Oeiras 1 CH,3,Hard,Q2,498,393,0,,3,Jay Clarke,Daniil Glinka,4-6 6-4 6-2,0.91,3.2%,4.3%,48.4%,71.1%,41.7%,5/10,47.9%,40.0%,2.1%,33.3%,48.8%,3/13,188,3,4,93,45,48,2,2:20
 1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,498,431,1,,7,Daniil Glinka,Cannon Kingsley,6-3 2-6 7-5,0.99,7.1%,4.0%,48.5%,75.0%,33.3%,8/13,49.5%,45.8%,6.5%,37.1%,57.8%,6/13,206,7,4,99,48,51,7,2:33
-13-Nov-2023,M25 Monastir,3,,R16,491,1329,0,,Q,Toby Martin,Daniil Glinka,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Monastir,3,,R32,491,368,1,,4,Daniil Glinka,Yanki Erel,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,Hard,R16,491,1329,0,,Q,Toby Martin,Daniil Glinka,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,Hard,R32,491,368,1,,4,Daniil Glinka,Yanki Erel,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,Ortisei CH,3,Hard,QF,548,249,0,Q,,Billy Harris,Daniil Glinka,7-6(3) 4-6 6-3,0.77,13.8%,5.3%,61.7%,77.6%,58.3%,4/5,47.0%,23.1%,13.2%,19.7%,32.0%,1/4,185,13,5,94,58,36,12,2:04
 23-Oct-2023,Ortisei CH,3,Hard,R16,548,334,1,Q,,Daniil Glinka,Antoine Bellier,6-4 6-4,1.05,4.8%,4.8%,67.7%,81.0%,55.0%,3/3,52.6%,28.8%,15.4%,16.7%,45.5%,2/4,114,3,3,62,42,20,8,1:11
 23-Oct-2023,Ortisei CH,3,Hard,R32,548,488,1,Q,,Daniil Glinka,Ryan Nijboer,6-3 7-6(7),1.24,8.1%,2.7%,71.6%,75.5%,71.4%,2/2,54.7%,31.7%,6.3%,20.5%,50.0%,1/2,137,6,2,74,53,21,4,1:35

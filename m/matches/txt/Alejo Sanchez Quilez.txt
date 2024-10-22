@@ -1,4 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Olbia CH,3,Hard,Q2,509,423,0,10,6,Hynek Barton,Alejo Sanchez Quilez,6-3 6-4,0.74,0.0%,2.8%,66.2%,53.2%,54.2%,5/9,45.0%,34.5%,3.4%,21.2%,52.0%,2/4,129,0,2,71,47,24,2,1:22
+14-Oct-2024,Olbia CH,3,Hard,Q1,509,,1,10,WC,Alejo Sanchez Quilez,Massimo Pizzigoni,7-5 7-6(8),1.14,1.1%,5.6%,55.6%,70.0%,47.5%,7/10,53.3%,45.6%,1.3%,38.6%,54.3%,4/7,169,1,5,90,50,40,1,1:55
+7-Oct-2024,Valencia CH,3,Clay,Q2,532,378,0,WC,,Carlos Sanchez Jover,Alejo Sanchez Quilez,6-1 6-2,0.51,0.0%,5.0%,65.0%,57.7%,35.7%,0/4,36.8%,25.5%,4.3%,27.6%,22.2%,0/3,87,0,2,40,26,14,2,0:58
+7-Oct-2024,Valencia CH,3,Clay,Q1,532,302,1,WC,5,Alejo Sanchez Quilez,Clement Tabur,6-4 6-4,1.40,0.0%,0.0%,66.1%,75.6%,61.9%,3/3,54.4%,40.5%,6.8%,34.8%,50.0%,2/11,136,0,0,62,41,21,5,1:41
+30-Sep-2024,M25 Zaragoza,3,Clay,QF,532,767,0,,,Albert Pedrico Kravtsov,Alejo Sanchez Quilez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R16,532,448,1,,,Alejo Sanchez Quilez,Carlos Lopez Montagud,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R32,532,,1,,Q,Alejo Sanchez Quilez,Jordi Mas De Ugarte,6-1 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R32,493,378,0,,7,Alex Marti Pujolras,Alejo Sanchez Quilez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,SF,493,524,0,1,3,Michiel De Krom,Alejo Sanchez Quilez,5-7 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,QF,493,1470,1,1,Q,Alejo Sanchez Quilez,Christian Lerby,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R16,493,1217,1,1,,Alejo Sanchez Quilez,Jordi Garcia Mestre,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R32,493,846,1,1,,Alejo Sanchez Quilez,Ignacio Parisca,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Seville CH,3,Clay,R32,507,388,0,Q,Q,Raul Brancaccio,Alejo Sanchez Quilez,7-5 6-1,0.52,2.9%,0.0%,62.9%,56.8%,30.8%,7/12,39.3%,27.7%,6.4%,17.1%,58.3%,1/3,117,2,0,70,44,26,3,1:24
+2-Sep-2024,Seville CH,3,Clay,Q2,507,383,1,,6,Alejo Sanchez Quilez,Alex Marti Pujolras,3-6 6-4 6-4,0.99,0.0%,3.1%,63.9%,74.2%,37.1%,6/9,50.0%,38.9%,2.1%,35.8%,46.4%,4/13,192,0,3,97,62,35,2,2:28
+2-Sep-2024,Seville CH,3,Clay,Q1,507,468,1,,12,Alejo Sanchez Quilez,Max Alcala Gurri,6-2 4-6 7-6(5),1.04,2.6%,5.1%,56.4%,66.7%,45.1%,8/13,51.1%,44.4%,1.9%,32.4%,70.6%,6/16,225,3,6,117,66,51,2,2:56
+26-Aug-2024,M25 Oviedo,3,Clay,R32,507,1683,0,,Q,Carles Hernandez,Alejo Sanchez Quilez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,523,415,0,,9,Svyatoslav Gulin,Alejo Sanchez Quilez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,SF,539,623,0,3,7,Nicolas Alvarez Varona,Alejo Sanchez Quilez,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,QF,539,1205,1,3,Q,Alejo Sanchez Quilez,Jean Christian Morandais,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -40,15 +56,15 @@
 19-Feb-2024,M15 Villena,3,Hard,QF,701,1085,1,,Q,Alejo Sanchez Quilez,Adam Heinonen,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Feb-2024,M15 Villena,3,Hard,R16,701,1772,1,,WC,Alejo Sanchez Quilez,Goncalo Marques,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Feb-2024,M15 Villena,3,Hard,R32,701,980,1,,Q,Alejo Sanchez Quilez,Elgin Khoeblal,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,QF,709,798,0,,,Paul Jubb,Alejo Sanchez Quilez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R16,709,648,1,,3,Alejo Sanchez Quilez,Georgii Kravchenko,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R32,709,,1,,Q,Alejo Sanchez Quilez,Javier Molino,6-4 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,R32,733,234,0,,1,Marco Trungelliti,Alejo Sanchez Quilez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,SF,735,556,0,8,2,Hazem Naw,Alejo Sanchez Quilez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,QF,735,580,1,8,3,Alejo Sanchez Quilez,John Echeverria,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,R16,735,1607,1,8,WC,Alejo Sanchez Quilez,Alejandro Turriziani Alvarez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,R32,735,1554,1,8,,Alejo Sanchez Quilez,Tomasz Berkieta,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R32,755,739,0,LL,Q,Max Alcala Gurri,Alejo Sanchez Quilez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,QF,709,798,0,,,Paul Jubb,Alejo Sanchez Quilez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R16,709,648,1,,3,Alejo Sanchez Quilez,Georgii Kravchenko,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R32,709,,1,,Q,Alejo Sanchez Quilez,Javier Molino,6-4 0-6 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,733,234,0,,1,Marco Trungelliti,Alejo Sanchez Quilez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,SF,735,556,0,8,2,Hazem Naw,Alejo Sanchez Quilez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,QF,735,580,1,8,3,Alejo Sanchez Quilez,John Echeverria,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,R16,735,1607,1,8,WC,Alejo Sanchez Quilez,Alejandro Turriziani Alvarez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,R32,735,1554,1,8,,Alejo Sanchez Quilez,Tomasz Berkieta,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,755,739,0,LL,Q,Max Alcala Gurri,Alejo Sanchez Quilez,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,QF,760,237,0,WC,1,Alejandro Moro Canas,Alejo Sanchez Quilez,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R16,760,379,1,WC,6,Alejo Sanchez Quilez,Martin Krumich,W/O,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R32,760,,1,WC,Q,Alejo Sanchez Quilez,Jordi Garcia Mestre,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

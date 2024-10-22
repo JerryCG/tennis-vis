@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Campinas CH,3,Clay,Q1,570,379,0,Alt,8,Valerio Aboian,Wilson Leite,6-3 6-1,0.55,0.0%,3.8%,44.2%,43.5%,48.3%,2/7,38.5%,29.5%,2.3%,21.7%,38.1%,1/2,96,0,2,52,23,29,1,1:25
+7-Oct-2024,Villa Maria CH,3,Clay,Q1,554,356,0,Alt,3,Genaro Alberto Olivieri,Wilson Leite,6-3 6-3,0.78,0.0%,1.4%,57.5%,57.1%,35.5%,7/12,44.6%,40.4%,1.8%,33.3%,50.0%,2/4,130,0,1,73,42,31,1,1:48
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,Q1,554,299,0,,2,Mateus Alves,Wilson Leite,6-2 4-6 6-0,0.62,1.2%,2.3%,60.5%,57.7%,38.2%,5/11,41.6%,30.9%,10.3%,27.9%,36.0%,2/6,154,1,2,86,52,34,7,2:05
+23-Sep-2024,Antofagasta CH,3,Clay,R32,558,229,0,LL,,Andrea Collarini,Wilson Leite,6-2 6-3,0.59,0.0%,1.8%,47.4%,55.6%,43.3%,3/8,40.4%,29.8%,0.0%,33.3%,12.5%,1/2,104,0,1,57,27,30,0,1:38
+23-Sep-2024,Antofagasta CH,3,Clay,Q2,558,477,0,9,4,Tomas Farjat,Wilson Leite,6-2 4-6 6-3,0.91,0.0%,1.2%,68.3%,66.1%,57.7%,2/5,47.0%,33.3%,14.1%,22.9%,43.1%,1/4,181,0,1,82,56,26,14,2:15
+23-Sep-2024,Antofagasta CH,3,Clay,Q1,558,,1,10,Alt,Wilson Leite,Breno Braga,6-3 6-2,1.40,0.0%,1.9%,50.0%,66.7%,59.3%,2/4,57.7%,52.0%,0.0%,44.8%,61.9%,5/10,104,0,1,54,27,27,0,1:24
+16-Sep-2024,Cali CH,3,Clay,R32,568,431,0,Q,Alt,Luciano Emanuel Ambrogi,Wilson Leite,6-4 4-6 6-3,0.96,2.2%,5.4%,47.3%,75.0%,53.1%,2/5,49.7%,35.2%,2.3%,30.0%,46.4%,2/6,181,2,5,93,44,49,2,2:35
+16-Sep-2024,Cali CH,3,Clay,Q2,568,,1,4,WC,Wilson Leite,Samuel Alejandro Linde Palacios,6-2 6-1,1.65,10.9%,0.0%,61.8%,82.4%,42.9%,4/4,60.7%,53.8%,0.0%,59.4%,45.0%,4/7,107,6,0,55,34,21,0,1:28
+16-Sep-2024,Cali CH,3,Clay,Q1,568,,1,4,WC,Wilson Leite,Samuel Sanchez,6-0 6-2,3.21,5.7%,0.0%,51.4%,83.3%,76.5%,0/0,71.4%,64.3%,2.4%,61.9%,66.7%,5/7,77,2,0,35,18,17,1,0:59
 19-Aug-2024,M25 Belem,3,Hard,QF,608,526,0,6,4,Jose Pereira,Wilson Leite,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Belem,3,Hard,R16,608,964,1,6,,Wilson Leite,Rafael Tosetto,7-6(4) 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Belem,3,Hard,R32,608,1752,1,6,,Wilson Leite,Valentin Garay,4-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -32,8 +41,8 @@
 5-Feb-2024,M25 Punta del Este,3,Clay,R32,573,,0,,,Daniel Vallejo,Wilson Leite,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 29-Jan-2024,Piracicaba CH,3,Clay,Q2,585,395,0,10,3,Damien Wenger,Wilson Leite,6-3 6-3,0.87,0.0%,2.4%,54.8%,43.5%,36.8%,14/22,45.1%,51.7%,1.7%,25.9%,74.2%,5/8,142,0,2,84,46,38,1,2:12
 29-Jan-2024,Piracicaba CH,3,Clay,Q1,585,1607,1,10,,Wilson Leite,Enzo Camargo Lima,7-5 6-1,1.40,0.0%,0.0%,49.1%,71.4%,51.7%,0/2,57.8%,53.8%,0.0%,55.0%,50.0%,5/7,109,0,0,57,28,29,0,1:38
-4-Dec-2023,M15 Concepcion,3,,R16,589,540,0,,5,Nicolas Kicker,Wilson Leite,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R32,589,,1,,Q,Wilson Leite,Ryan Augusto Dos Santos,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R16,589,540,0,,5,Nicolas Kicker,Wilson Leite,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R32,589,,1,,Q,Wilson Leite,Ryan Augusto Dos Santos,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Temuco CH,3,Hard,Q2,590,768,0,2,8,Mariano Kestelboim,Wilson Leite,6-1 6-4,0.64,3.1%,3.1%,45.3%,55.2%,40.0%,7/13,41.9%,34.1%,4.9%,35.3%,28.6%,2/3,105,2,2,64,29,35,2,1:36
 27-Nov-2023,Temuco CH,3,Hard,Q1,590,1487,1,2,Alt,Wilson Leite,Federico Zeballos,7-5 2-6 6-1,1.09,4.3%,5.4%,50.0%,76.1%,50.0%,9/12,52.7%,40.3%,13.0%,31.7%,50.0%,4/8,169,4,5,92,46,46,10,2:14
 20-Nov-2023,Brasilia CH,3,Hard,R32,627,486,0,Q,WC,Gilbert Soares Klier Junior,Wilson Leite,7-6(4) 7-5,0.88,9.4%,3.5%,55.3%,68.1%,42.1%,6/10,47.8%,38.2%,10.5%,32.6%,46.7%,3/7,161,8,3,85,47,38,8,1:59

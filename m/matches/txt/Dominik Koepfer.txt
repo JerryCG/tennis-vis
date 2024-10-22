@@ -1,14 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,R128,83,61,0,,,Alexander Shevchenko,Dominik Koepfer,6-3 7-5 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R16,70,2,0,,1,Novak Djokovic,Dominik Koepfer,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R32,70,45,1,,,Dominik Koepfer,Matteo Arnaldi,3-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R64,70,177,1,,PR,Dominik Koepfer,Milos Raonic,6-7(2) 7-6(5) 7-6(1),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Antwerp,3,Hard,R32,81,54,0,,,Roberto Carballes Baena,Dominik Koepfer,6-4 6-0,0.63,2.0%,6.0%,60.0%,60.0%,25.0%,1/6,39.8%,34.0%,7.5%,21.1%,66.7%,1/5,103,1,3,50,30,20,4,1:13
+26-Aug-2024,US Open,5,Hard,R128,83,61,0,,,Alexander Shevchenko,Dominik Koepfer,6-3 7-5 5-7 6-2,0.86,0.8%,6.0%,63.2%,63.1%,40.8%,9/16,46.9%,38.6%,7.1%,36.4%,42.0%,4/9,260,1,8,133,84,49,9,2:54
+29-Jul-2024,Paris Olympics,3,Clay,R16,70,2,0,,1,Novak Djokovic,Dominik Koepfer,7-5 6-3,0.38,11.9%,3.4%,66.1%,69.2%,90.0%,1/4,43.5%,8.9%,8.9%,13.9%,0.0%,1/2,115,7,2,59,39,20,5,
+29-Jul-2024,Paris Olympics,3,Clay,R32,70,45,1,,,Dominik Koepfer,Matteo Arnaldi,3-6 6-2 6-1,1.46,3.0%,1.5%,64.2%,69.8%,66.7%,4/6,56.1%,45.7%,8.6%,29.2%,69.7%,5/12,148,2,1,67,43,24,7,
+29-Jul-2024,Paris Olympics,3,Clay,R64,70,177,1,,PR,Dominik Koepfer,Milos Raonic,6-7(2) 7-6(5) 7-6(1),1.34,11.2%,5.6%,62.6%,88.1%,60.0%,0/0,51.9%,30.2%,23.0%,16.9%,55.8%,0/3,233,12,6,107,67,40,29,
 15-Jul-2024,Hamburg,3,Clay,R32,62,19,0,,3,Sebastian Baez,Dominik Koepfer,6-2 6-3,0.56,4.1%,8.2%,51.0%,56.0%,54.2%,4/8,40.9%,25.0%,9.1%,17.2%,40.0%,0/0,93,2,4,49,25,24,4,1:04
 17-Jun-2024,Halle,3,Grass,R16,70,37,0,WC,,Arthur Fils,Dominik Koepfer,6-3 6-4,0.86,7.5%,1.9%,60.4%,68.8%,52.4%,1/3,45.2%,32.4%,5.6%,20.0%,44.4%,0/5,124,4,1,53,32,21,4,1:19
 17-Jun-2024,Halle,3,Grass,R32,70,18,1,WC,8,Dominik Koepfer,Felix Auger Aliassime,6-4 4-3 RET,1.23,6.8%,0.0%,68.2%,73.3%,78.6%,0/0,51.0%,30.8%,30.8%,23.7%,50.0%,2/5,96,3,0,44,30,14,16,1:10
 10-Jun-2024,Stuttgart,3,Grass,R16,65,30,0,,5,Lorenzo Musetti,Dominik Koepfer,6-7(9) 7-6(5) 6-3,0.94,2.6%,4.3%,61.2%,71.8%,57.8%,4/6,48.9%,31.6%,4.3%,24.1%,47.4%,1/5,233,3,5,116,71,45,5,2:47
 10-Jun-2024,Stuttgart,3,Grass,R32,65,44,1,,,Dominik Koepfer,Zhizhen Zhang,4-6 7-6(5) 7-6(6),0.89,10.1%,6.7%,57.1%,67.6%,58.8%,6/9,48.5%,32.1%,11.6%,25.0%,43.2%,2/7,231,12,8,119,68,51,13,2:36
-27-May-2024,Roland Garros,5,Clay,R128,65,5,0,,5,Daniil Medvedev,Dominik Koepfer,6-3 6-4 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,65,5,0,,5,Daniil Medvedev,Dominik Koepfer,6-3 6-4 5-7 6-3,0.73,1.5%,3.7%,65.2%,56.8%,46.8%,4/11,44.9%,34.3%,0.9%,23.3%,57.1%,4/4,243,2,5,135,88,47,1,
 20-May-2024,Lyon,3,Clay,QF,67,29,0,,6,Tomas Martin Etcheverry,Dominik Koepfer,6-4 6-1,0.74,2.4%,4.9%,56.1%,52.2%,38.9%,1/5,41.9%,39.5%,2.6%,32.7%,57.1%,1/15,117,1,2,41,23,18,2,1:40
 20-May-2024,Lyon,3,Clay,R16,67,17,1,,1,Dominik Koepfer,Ugo Humbert,2-6 6-4 6-4,1.03,7.9%,2.6%,71.1%,63.0%,50.0%,5/9,49.7%,41.9%,2.2%,33.9%,58.1%,4/5,169,6,2,76,54,22,2,2:04
 20-May-2024,Lyon,3,Clay,R32,67,254,1,,LL,Dominik Koepfer,Javier Barranco Cosano,6-4 6-7(4) 6-4,1.27,3.2%,3.2%,60.6%,75.4%,67.6%,3/4,52.2%,35.1%,1.8%,31.0%,42.5%,3/10,205,3,3,94,57,37,2,2:34

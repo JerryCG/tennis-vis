@@ -1,4 +1,25 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Olbia CH,3,Hard,Q2,383,326,0,8,2,Daniel Merida Aguilar,Nicolas Alvarez Varona,4-6 6-4 6-2,0.94,4.9%,5.8%,61.2%,74.6%,32.5%,5/10,48.6%,39.3%,7.5%,39.5%,38.1%,3/15,210,5,6,103,63,40,8,2:38
+14-Oct-2024,Olbia CH,3,Hard,Q1,383,,1,8,WC,Nicolas Alvarez Varona,Leonardo Mazzucchelli,6-2 6-1,2.07,19.1%,2.1%,68.1%,81.3%,60.0%,1/1,63.3%,52.9%,2.0%,56.8%,42.9%,4/13,98,9,1,47,32,15,1,1:06
+7-Oct-2024,Valencia CH,3,Clay,Q2,434,426,0,,Alt,Christoph Negritu,Nicolas Alvarez Varona,6-3 4-6 7-5,1.09,8.5%,3.7%,62.2%,66.7%,67.7%,4/7,49.2%,35.8%,14.7%,27.6%,45.1%,2/11,191,7,3,82,51,31,16,2:35
+7-Oct-2024,Valencia CH,3,Clay,Q1,434,305,1,,6,Nicolas Alvarez Varona,Gastao Elias,6-2 6-1,1.95,13.6%,2.3%,68.2%,83.3%,57.1%,0/0,63.0%,48.6%,5.4%,30.0%,70.6%,4/4,81,6,1,44,30,14,2,1:01
+30-Sep-2024,M25 Zaragoza,3,Clay,SF,434,395,0,8,6,Mathys Erhard,Nicolas Alvarez Varona,3-6 7-6(6) 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,QF,434,349,1,8,3,Nicolas Alvarez Varona,Nicholas David Ionel,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R16,434,847,1,8,,Nicolas Alvarez Varona,Benjamin Winter Lopez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R32,434,,1,8,Q,Nicolas Alvarez Varona,Keoni Puig Mccallan,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,F,433,289,0,,3,Lorenzo Giustino,Nicolas Alvarez Varona,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,SF,433,737,1,,LL,Nicolas Alvarez Varona,Iliyan Radulov,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,QF,433,211,1,,1,Nicolas Alvarez Varona,Ignacio Buse,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R16,433,368,1,,6,Nicolas Alvarez Varona,Miguel Damas,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R32,433,522,1,,,Nicolas Alvarez Varona,Stuart Parker,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Seville CH,3,Clay,R32,545,277,0,Q,,Pedro Sakamoto,Nicolas Alvarez Varona,6-2 2-1 RET,0.62,2.9%,5.9%,64.7%,50.0%,50.0%,4/6,39.2%,31.1%,11.1%,20.7%,50.0%,0/4,79,1,2,34,22,12,5,1:02
+2-Sep-2024,Seville CH,3,Clay,Q2,545,432,1,WC,11,Nicolas Alvarez Varona,Daniel Michalski,5-7 7-6(1) 6-2,1.20,10.0%,7.0%,72.0%,73.6%,35.7%,6/10,53.1%,44.2%,2.7%,38.1%,52.0%,5/11,213,10,7,100,72,28,3,3:07
+2-Sep-2024,Seville CH,3,Clay,Q1,545,372,1,WC,5,Nicolas Alvarez Varona,Miguel Damas,6-4 6-1,1.36,8.7%,2.9%,69.6%,72.9%,33.3%,10/11,56.8%,53.2%,3.9%,46.3%,69.6%,5/12,146,6,2,69,48,21,3,1:58
+26-Aug-2024,M25 Oviedo,3,Clay,F,545,419,1,,8,Nicolas Alvarez Varona,Daniel Merida Aguilar,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,SF,545,372,1,,5,Nicolas Alvarez Varona,Miguel Damas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,QF,545,,1,,Q,Nicolas Alvarez Varona,Alejandro Garcia,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,R16,545,383,1,,7,Nicolas Alvarez Varona,Alex Marti Pujolras,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,R32,545,926,1,,WC,Nicolas Alvarez Varona,Tomas Curras Abasolo,3-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,QF,617,380,0,,4,Maxime Chazal,Nicolas Alvarez Varona,7-6(2) 6-7(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R16,617,381,1,,5,Nicolas Alvarez Varona,Ryan Nijboer,1-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,617,927,1,,Q,Nicolas Alvarez Varona,Tomas Curras Abasolo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -37,8 +58,8 @@
 27-Nov-2023,Maspalomas CH,3,Clay,R32,708,659,0,WC,Q,Kilian Feldbausch,Nicolas Alvarez Varona,4-2 RET,0.61,5.6%,0.0%,72.2%,69.2%,40.0%,3/4,42.9%,23.5%,0.0%,16.7%,40.0%,0/0,35,1,0,18,13,5,0,0:41
 20-Nov-2023,Valencia CH,3,Clay,Q2,734,417,0,PR,WC,Miguel Damas,Nicolas Alvarez Varona,6-1 6-0,0.47,0.0%,2.7%,62.2%,30.4%,35.7%,1/6,32.1%,31.7%,2.4%,27.3%,50.0%,0/0,78,0,1,37,23,14,1,1:01
 20-Nov-2023,Valencia CH,3,Clay,Q1,734,275,1,PR,9,Nicolas Alvarez Varona,Lorenzo Giustino,6-4 6-4,1.19,1.6%,3.2%,58.7%,73.0%,53.8%,2/3,53.1%,41.5%,7.7%,37.5%,48.0%,3/6,128,1,2,63,37,26,5,1:44
-13-Nov-2023,M15 Valencia,3,,R16,635,822,0,,WC,Carlos Gimeno Valero,Nicolas Alvarez Varona,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R32,635,420,1,,4,Nicolas Alvarez Varona,Alex Marti Pujolras,6-2 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R16,635,822,0,,WC,Carlos Gimeno Valero,Nicolas Alvarez Varona,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,635,420,1,,4,Nicolas Alvarez Varona,Alex Marti Pujolras,6-2 6-7(3) 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R32,629,237,0,,1,Alejandro Moro Canas,Nicolas Alvarez Varona,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Castellon,3,Clay,QF,627,520,0,4,7,Miguel Damas,Nicolas Alvarez Varona,7-6(9) 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Castellon,3,Clay,R16,627,978,1,4,Q,Nicolas Alvarez Varona,Nikolay Nedelchev,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

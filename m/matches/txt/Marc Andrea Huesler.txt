@@ -1,17 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Stockholm,3,Hard,R32,152,50,0,Q,,Lorenzo Sonego,Marc Andrea Huesler,7-6(1) 7-5,0.61,3.9%,1.3%,64.5%,67.3%,63.0%,0/1,44.8%,20.9%,11.9%,17.5%,25.9%,0/1,143,3,1,76,49,27,8,1:50
+14-Oct-2024,Stockholm,3,Hard,Q2,152,246,1,7,,Marc Andrea Huesler,Zsombor Piros,6-2 6-2,2.14,10.6%,0.0%,61.7%,82.8%,66.7%,2/2,64.4%,50.0%,2.5%,44.4%,61.5%,4/4,87,5,0,47,29,18,1,1:01
+14-Oct-2024,Stockholm,3,Hard,Q1,152,1037,1,7,Alt,Marc Andrea Huesler,Lucas Renard,6-0 6-0,2.81,16.7%,2.8%,80.6%,75.9%,71.4%,1/1,72.6%,70.3%,2.7%,60.0%,82.4%,6/8,73,6,1,36,29,7,1,0:46
+30-Sep-2024,Villena CH,3,Hard,R32,156,117,0,,1,Duje Ajdukovic,Marc Andrea Huesler,4-6 6-4 6-2,0.69,9.2%,6.9%,55.2%,72.9%,38.5%,9/13,44.4%,29.3%,10.7%,22.0%,38.2%,2/4,162,8,6,87,48,39,8,1:53
+23-Sep-2024,Orleans CH,3,Hard,SF,171,115,0,,5,Harold Mayot,Marc Andrea Huesler,6-4 6-3,0.79,5.2%,3.4%,58.6%,64.7%,50.0%,7/10,45.4%,32.8%,8.2%,27.5%,42.9%,1/2,119,3,2,58,34,24,5,1:20
+23-Sep-2024,Orleans CH,3,Hard,QF,171,135,1,,,Marc Andrea Huesler,Hamad Medjedovic,7-6(4) 6-0,2.21,17.6%,3.9%,60.8%,87.1%,75.0%,0/0,59.1%,39.0%,11.9%,22.6%,57.1%,3/7,110,9,2,51,31,20,7,1:15
+23-Sep-2024,Orleans CH,3,Hard,R16,171,125,1,,7,Marc Andrea Huesler,Pierre Hugues Herbert,6-4 6-2,1.67,19.2%,0.0%,75.0%,79.5%,53.8%,0/0,59.4%,44.9%,14.3%,34.5%,60.0%,3/4,101,10,0,52,39,13,7,1:06
+23-Sep-2024,Orleans CH,3,Hard,R32,171,382,1,,Q,Marc Andrea Huesler,Tristan Lamasine,6-2 6-2,3.77,13.5%,2.7%,59.5%,95.5%,73.3%,0/0,65.2%,50.9%,5.5%,45.2%,58.3%,4/6,92,5,1,37,22,15,3,1:05
+13-Sep-2024,Davis Cup WG1 R1: SUI vs PER,3,Hard,RR,171,179,1,,,Marc Andrea Huesler,Juan Pablo Varillas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-Aug-2024,Manacor CH,3,Hard,QF,168,134,0,,5,Duje Ajdukovic,Marc Andrea Huesler,6-3 7-6(2),0.88,5.3%,2.7%,58.7%,70.5%,38.7%,7/11,47.3%,37.3%,9.3%,30.4%,48.3%,2/7,150,4,2,75,44,31,7,
 26-Aug-2024,Manacor CH,3,Hard,R16,168,262,1,,,Marc Andrea Huesler,Alexander Blockx,7-6(1) 6-4,1.84,12.7%,3.6%,65.5%,88.9%,63.2%,0/1,56.1%,36.8%,10.3%,25.5%,61.9%,2/5,123,7,2,55,36,19,7,
 26-Aug-2024,Manacor CH,3,Hard,R32,168,227,1,,,Marc Andrea Huesler,Aziz Dougaz,6-4 6-4,1.73,15.4%,0.0%,69.2%,83.3%,62.5%,0/0,55.7%,40.0%,11.4%,28.9%,60.0%,2/9,122,8,0,52,36,16,8,
-26-Aug-2024,US Open,5,Hard,Q1,168,218,0,,,Beibit Zhukayev,Marc Andrea Huesler,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,168,218,0,,,Beibit Zhukayev,Marc Andrea Huesler,7-6(5) 6-4,1.03,14.5%,3.2%,45.2%,78.6%,61.8%,0/2,48.9%,31.5%,15.1%,18.8%,56.0%,1/8,135,9,2,62,28,34,11,1:36
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,F,205,132,1,6,1,Marc Andrea Huesler,Vit Kopriva,6-1 6-4,1.62,13.0%,5.6%,48.1%,92.3%,53.6%,3/3,59.0%,45.1%,2.0%,40.7%,50.0%,3/7,105,7,3,54,26,28,1,1:19
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,SF,205,233,1,6,8,Marc Andrea Huesler,Antoine Escoffier,6-1 3-6 6-3,1.18,11.0%,2.4%,52.4%,83.7%,51.3%,5/6,53.9%,37.5%,6.9%,32.6%,44.8%,3/6,154,9,2,82,43,39,5,1:47
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,QF,205,190,1,6,4,Marc Andrea Huesler,Dominic Stricker,6-3 6-1,2.07,11.6%,2.3%,48.8%,81.0%,72.7%,0/0,60.6%,48.2%,3.6%,37.0%,58.6%,4/8,99,5,1,43,21,22,2,0:59
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,R16,205,1135,1,6,Q,Marc Andrea Huesler,Oscar Weightman,6-2 6-1,1.79,4.1%,10.2%,49.0%,87.5%,56.0%,1/1,61.2%,51.0%,4.1%,40.0%,62.5%,4/8,98,2,5,49,24,25,2,1:16
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,R32,205,260,1,6,,Marc Andrea Huesler,Alibek Kachmazov,6-4 6-4,1.93,16.0%,6.0%,52.0%,96.2%,62.5%,0/0,55.2%,38.7%,4.0%,32.4%,44.7%,2/9,125,8,3,50,26,24,3,1:33
-22-Jul-2024,Zug CH,3,Clay,SF,226,148,0,,3,Roman Andres Burruchaga,Marc Andrea Huesler,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2024,Zug CH,3,Clay,QF,226,1745,1,,WC,Marc Andrea Huesler,Henry Bernet,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2024,Zug CH,3,Clay,R16,226,577,1,,WC,Marc Andrea Huesler,Mika Brunold,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2024,Zug CH,3,Clay,R32,226,240,1,,,Marc Andrea Huesler,Bernabe Zapata Miralles,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,SF,226,148,0,,3,Roman Andres Burruchaga,Marc Andrea Huesler,3-6 6-1 6-4,1.03,8.4%,4.8%,53.0%,70.5%,56.4%,4/7,49.7%,37.2%,4.3%,29.2%,55.2%,1/9,177,7,4,83,44,39,4,1:54
+22-Jul-2024,Zug CH,3,Clay,QF,226,1745,1,,WC,Marc Andrea Huesler,Henry Bernet,6-4 6-4,1.98,15.7%,3.9%,58.8%,80.0%,81.0%,1/1,56.8%,38.8%,1.5%,35.7%,44.0%,2/9,118,8,2,51,30,21,1,1:07
+22-Jul-2024,Zug CH,3,Clay,R16,226,577,1,,WC,Marc Andrea Huesler,Mika Brunold,6-3 6-1,1.48,1.8%,3.5%,47.4%,74.1%,53.3%,6/7,58.7%,54.7%,1.6%,44.1%,66.7%,5/12,121,1,2,57,27,30,1,1:22
+22-Jul-2024,Zug CH,3,Clay,R32,226,240,1,,,Marc Andrea Huesler,Bernabe Zapata Miralles,6-0 6-3,1.89,8.7%,4.3%,47.8%,68.2%,75.0%,3/3,61.3%,53.3%,1.7%,43.9%,73.7%,5/10,106,4,2,46,22,24,1,1:09
 15-Jul-2024,Gstaad,3,Clay,R32,226,122,0,WC,,Hamad Medjedovic,Marc Andrea Huesler,6-7(3) 7-6(2) 6-3,0.78,11.1%,2.0%,54.5%,75.9%,60.0%,2/3,46.3%,24.5%,6.9%,20.5%,37.5%,0/0,201,11,2,99,54,45,7,2:20
 8-Jul-2024,Salzburg CH,3,Clay,R16,229,126,0,,5,Hamad Medjedovic,Marc Andrea Huesler,6-3 7-6(4),0.87,14.3%,5.7%,54.3%,78.9%,34.4%,4/7,46.2%,36.0%,11.6%,27.7%,46.2%,2/7,156,10,4,70,38,32,10,1:57
 8-Jul-2024,Salzburg CH,3,Clay,R32,229,392,1,,WC,Marc Andrea Huesler,Joel Schwaerzler,6-2 6-3,1.95,4.1%,2.0%,57.1%,78.6%,76.2%,1/1,59.4%,43.9%,8.8%,34.2%,63.2%,3/10,106,2,1,49,28,21,5,1:10
@@ -22,7 +31,7 @@
 3-Jun-2024,Surbiton CH,3,Grass,R32,194,132,0,Q,,Lloyd Harris,Marc Andrea Huesler,7-5 6-7(5) 6-3,0.75,6.5%,1.6%,62.9%,66.7%,47.8%,6/10,46.6%,30.3%,16.2%,20.6%,47.2%,2/4,223,8,2,124,78,46,16,2:33
 3-Jun-2024,Surbiton CH,3,Grass,Q2,194,673,1,2,WC,Marc Andrea Huesler,Harry Wendelken,7-6(2) 6-4,1.27,27.0%,0.0%,64.9%,83.3%,53.8%,3/3,54.2%,34.3%,4.3%,23.7%,46.9%,1/4,144,20,0,74,48,26,3,1:26
 3-Jun-2024,Surbiton CH,3,Grass,Q1,194,352,1,2,Alt,Marc Andrea Huesler,Aidan Mchugh,6-2 6-3,1.72,17.9%,2.6%,51.3%,80.0%,63.2%,0/1,57.1%,48.5%,1.5%,41.0%,59.3%,5/12,105,7,1,39,20,19,1,1:23
-27-May-2024,Roland Garros,5,Clay,Q1,194,205,0,,,Francesco Maestrelli,Marc Andrea Huesler,6-7(2) 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q1,194,205,0,,,Francesco Maestrelli,Marc Andrea Huesler,6-7(2) 6-2 6-4,0.80,6.1%,2.0%,60.2%,62.7%,46.2%,5/10,45.8%,35.1%,6.4%,25.0%,47.6%,2/5,192,6,2,98,59,39,6,
 13-May-2024,Turin CH,3,Clay,R16,202,54,0,Q,5,Luciano Darderi,Marc Andrea Huesler,2-6 6-3 6-1,0.72,7.4%,4.3%,59.6%,60.7%,47.4%,7/11,45.0%,32.0%,5.3%,26.4%,45.5%,2/7,169,7,4,94,56,38,4,1:53
 13-May-2024,Turin CH,3,Clay,R32,202,83,1,Q,,Marc Andrea Huesler,Corentin Moutet,7-6(3) 3-6 6-2,1.01,4.0%,6.0%,55.0%,80.0%,44.4%,4/7,51.7%,36.3%,2.5%,33.3%,41.4%,4/5,180,4,6,100,55,45,2,2:12
 13-May-2024,Turin CH,3,Clay,Q2,202,144,1,Alt,3,Marc Andrea Huesler,Giulio Zeppieri,4-6 7-6(5) 6-1,1.21,7.7%,3.3%,68.1%,80.6%,41.4%,1/2,52.6%,38.6%,5.9%,26.2%,57.5%,3/8,192,7,3,91,62,29,6,2:07

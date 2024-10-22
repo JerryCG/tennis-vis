@@ -1,4 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+23-Sep-2024,M15 Trnava,3,Hard,R32,661,997,0,,Q,Loann Massard,Ben Jones,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Vaxjo,3,Hard,R32,662,927,0,4,,Sebastian Eriksson,Ben Jones,6-7(5) 7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Rennes CH,3,Hard,Q2,717,559,0,,6,Steven Diez,Ben Jones,6-3 7-5,0.66,13.6%,1.7%,67.8%,70.0%,36.8%,4/7,42.6%,27.0%,9.5%,21.7%,41.2%,1/5,122,8,1,59,40,19,6,1:25
+9-Sep-2024,Rennes CH,3,Hard,Q1,717,550,1,,7,Ben Jones,Lucas Bouquet,7-6(7) 6-4,1.51,26.6%,7.8%,65.6%,83.3%,50.0%,0/2,56.2%,42.5%,5.5%,32.6%,56.7%,3/7,137,17,5,64,42,22,4,1:32
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,SF,725,243,0,,1,Clement Chidekh,Ben Jones,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,QF,725,945,1,,,Ben Jones,Maxence Bertimon,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R16,725,404,1,,3,Ben Jones,Alexis Gautier,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R32,725,1515,1,,Q,Ben Jones,Francois Musitelli,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Aldershot,3,Hard,R32,857,538,0,SE,,Sascha Gueymard Wayenburg,Ben Jones,6-1 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Dublin,3,Carpet,F,898,1061,1,5,,Ben Jones,Filip Pieczonka,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Dublin,3,Carpet,SF,898,1148,1,5,,Ben Jones,Ewen Lumsden,4-6 7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -34,9 +42,9 @@
 15-Jan-2024,M25 Sunderland,3,Hard,R16,959,1006,1,WC,Q,Ben Jones,Ryan James Storrie,3-6 7-6(3) 7-6(9),,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Sunderland,3,Hard,R32,959,,1,WC,Q,Ben Jones,Ewan Moore,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Loughborough,3,Hard,R32,958,540,0,Q,SE,Jonas Forejtek,Ben Jones,7-5 7-6(2),,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Sharm ElSheikh,3,,R16,967,864,0,,,Alexandr Binda,Ben Jones,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Sharm ElSheikh,3,,R32,967,,1,,WC,Ben Jones,Heng Yi Zhang,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Sharm ElSheikh,3,,R32,962,636,0,,8,Evgeny Philippov,Ben Jones,7-6(13) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,Hard,R16,967,864,0,,,Alexandr Binda,Ben Jones,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,Hard,R32,967,,1,,WC,Ben Jones,Heng Yi Zhang,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Sharm ElSheikh,3,Hard,R32,962,636,0,,8,Evgeny Philippov,Ben Jones,7-6(13) 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,Drummondville CH,3,Hard,Q1,941,1521,0,12,,Junghee You,Ben Jones,6-3 4-6 7-6(5),1.07,6.8%,4.9%,63.1%,75.4%,47.4%,6/9,50.5%,37.4%,11.3%,30.0%,48.9%,2/7,218,7,5,103,65,38,13,2:13
 6-Nov-2023,Calgary CH,3,Hard,Q2,966,637,0,,,Ryan Seggerman,Ben Jones,6-3 7-6(4),0.68,5.4%,3.6%,73.2%,78.0%,60.0%,3/4,44.8%,18.3%,33.3%,15.0%,25.0%,0/0,116,3,2,56,41,15,20,1:07
 6-Nov-2023,Calgary CH,3,Hard,Q1,966,639,1,,6,Ben Jones,Gabriel Decamps,6-3 6-4,1.55,9.1%,5.5%,78.2%,76.7%,50.0%,2/3,57.3%,45.2%,0.0%,40.5%,52.0%,3/8,117,5,3,55,43,12,0,

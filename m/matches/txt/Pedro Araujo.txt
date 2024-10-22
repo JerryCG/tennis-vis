@@ -1,6 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,Q2,511,420,0,7,2,Mate Valkusz,Pedro Araujo,6-1 6-4,0.71,0.0%,0.0%,76.8%,34.9%,7.7%,6/14,39.3%,51.0%,2.0%,37.5%,63.0%,4/9,107,0,0,56,43,13,1,
-25-Aug-2024,Porto CH,3,Clay,Q1,511,,1,7,WC,Pedro Araujo,Guilherme Valdoleiros,6-0 6-1,1.98,0.0%,10.3%,59.0%,87.0%,43.8%,4/4,64.4%,60.8%,2.0%,60.6%,61.1%,6/8,90,0,4,39,23,16,1,
+7-Oct-2024,M25 Sintra,3,Hard,QF,510,474,0,,8,Evgeny Karlovskiy,Pedro Araujo,6-2 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Sintra,3,Hard,R16,510,330,1,,4,Pedro Araujo,Jacopo Berrettini,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Sintra,3,Hard,R32,510,1936,1,,WC,Pedro Araujo,Joao Portugal,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,Braga CH,3,Clay,R32,510,178,0,WC,,Emilio Nava,Pedro Araujo,6-2 4-6 6-3,0.79,2.2%,0.0%,61.1%,58.2%,40.0%,7/13,45.1%,38.8%,7.1%,35.5%,47.8%,4/8,175,2,0,90,55,35,6,1:59
+23-Sep-2024,Lisbon CH,3,Clay,Q1,516,301,0,Alt,3,Dennis Novak,Pedro Araujo,0-6 7-5 6-2,0.99,1.3%,5.0%,58.8%,68.1%,30.3%,4/9,49.7%,47.1%,0.0%,42.9%,66.7%,5/11,165,1,4,80,47,33,0,1:52
+16-Sep-2024,Sibiu CH,3,Clay,Q2,507,,0,7,PR,Artem Dubrivnyy,Pedro Araujo,6-2 6-2,0.52,0.0%,4.2%,50.0%,41.7%,58.3%,3/7,38.3%,26.1%,8.7%,21.4%,33.3%,0/1,94,0,2,48,24,24,4,1:05
+2-Sep-2024,Seville CH,3,Clay,Q1,511,388,0,,7,Raul Brancaccio,Pedro Araujo,6-1 6-2,0.51,0.0%,1.8%,65.5%,52.8%,21.1%,7/12,36.3%,29.8%,0.0%,20.0%,47.1%,0/2,102,0,1,55,36,19,0,1:17
+26-Aug-2024,Porto CH,3,Clay,Q2,511,420,0,7,2,Mate Valkusz,Pedro Araujo,6-1 6-4,0.71,0.0%,0.0%,76.8%,34.9%,7.7%,6/14,39.3%,51.0%,2.0%,37.5%,63.0%,4/9,107,0,0,56,43,13,1,1:20
+26-Aug-2024,Porto CH,3,Clay,Q1,511,,1,7,WC,Pedro Araujo,Guilherme Valdoleiros,6-0 6-1,1.98,0.0%,10.3%,59.0%,87.0%,43.8%,4/4,64.4%,60.8%,2.0%,60.6%,61.1%,6/8,90,0,4,39,23,16,1,1:19
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R16,512,868,0,8,,Ivan Marrero Curbelo,Pedro Araujo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R32,512,955,1,8,WC,Pedro Araujo,Diogo Marques,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,Porto CH,3,Hard,Q2,540,560,0,,,Alejo Sanchez Quilez,Pedro Araujo,7-5 6-7(4) 6-3,0.93,1.0%,3.8%,76.2%,55.0%,36.0%,8/16,48.0%,46.0%,0.0%,35.0%,56.3%,6/17,229,1,4,105,80,25,0,2:49
@@ -53,7 +60,7 @@
 27-Nov-2023,Maia CH,3,Clay,R32,916,414,0,Q,WC,Jaime Faria,Pedro Araujo,6-2 6-3,0.69,0.0%,0.0%,72.2%,46.2%,40.0%,2/7,41.2%,38.3%,3.3%,35.5%,41.4%,2/9,114,0,0,54,39,15,2,1:28
 27-Nov-2023,Maia CH,3,Clay,Q2,916,1414,1,Alt,WC,Pedro Araujo,Rodrigo Fernandes,6-3 6-7(1) 7-5,1.02,0.0%,0.0%,84.4%,51.9%,60.0%,7/12,50.4%,47.6%,0.0%,45.5%,51.1%,8/19,252,0,0,128,108,20,0,3:27
 27-Nov-2023,Maia CH,3,Clay,Q1,916,466,1,Alt,5,Pedro Araujo,Kenny De Schepper,7-6(5) 6-3,1.10,1.4%,0.0%,83.1%,57.6%,58.3%,0/3,51.6%,46.7%,2.2%,40.4%,57.6%,5/13,161,1,0,71,59,12,2,1:57
-20-Nov-2023,M25 Vale do Lobo,3,,R32,937,418,0,,5,Jaime Faria,Pedro Araujo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,937,418,0,,5,Jaime Faria,Pedro Araujo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,938,248,0,WC,2,Lucas Poullain,Pedro Araujo,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,938,724,1,WC,,Pedro Araujo,Antoine Ghibaudo,3-6 7-6(4) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M25 Tavira,3,Hard,R16,952,413,0,WC,5,Jaime Faria,Pedro Araujo,6-3 6-1,,,,,,,,,,,,,,,,,,,,,

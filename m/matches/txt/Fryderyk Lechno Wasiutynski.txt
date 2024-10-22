@@ -1,4 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M15 Sharm ElSheikh,3,Hard,R32,1531,1342,0,Q,WC,Evan Bynoe,Fryderyk Lechno Wasiutynski,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Sharm ElSheikh,3,Hard,R16,1518,424,0,WC,2,Marek Gengel,Fryderyk Lechno Wasiutynski,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Sharm ElSheikh,3,Hard,R32,1518,1271,1,WC,Q,Fryderyk Lechno Wasiutynski,Nikita Ianin,3-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Sharm ElSheikh,3,Hard,R32,1516,540,0,WC,3,Yanki Erel,Fryderyk Lechno Wasiutynski,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Szczawno,3,Clay,R16,1529,547,0,Q,4,Kirill Kivattsev,Fryderyk Lechno Wasiutynski,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Szczawno,3,Clay,R32,1529,937,1,Q,,Fryderyk Lechno Wasiutynski,Matyas Cerny,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,Q1,1535,511,0,WC,7,Laurent Lokoli,Fryderyk Lechno Wasiutynski,6-4 6-0,0.63,1.7%,3.4%,59.3%,37.1%,45.8%,3/9,39.0%,37.3%,8.5%,25.7%,54.2%,2/8,118,1,2,59,35,24,5,1:35
 8-Jul-2024,M15 Lodz,3,Clay,R32,1510,1658,0,WC,Q,Martins Rocens,Fryderyk Lechno Wasiutynski,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M15 Wroclaw,3,Clay,R32,1506,584,0,WC,8,Pawel Cias,Fryderyk Lechno Wasiutynski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -7,9 +13,9 @@
 11-Mar-2024,M15 Sharm ElSheikh,3,Hard,R16,1651,577,0,,7,Marek Gengel,Fryderyk Lechno Wasiutynski,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Mar-2024,M15 Sharm ElSheikh,3,Hard,R32,1651,1561,1,,,Fryderyk Lechno Wasiutynski,Pengyu Lu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Feb-2024,M15 Sharm ElSheikh,3,Hard,R32,1652,1018,0,Q,WC,Pablo Trochu,Fryderyk Lechno Wasiutynski,7-6(11) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Monastir,3,,R16,2006,874,0,WC,,Milos Karol,Fryderyk Lechno Wasiutynski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Monastir,3,,R32,2006,,1,WC,Q,Fryderyk Lechno Wasiutynski,Enzo Lima,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R32,1992,618,0,Q,5,Luca Giacomini,Fryderyk Lechno Wasiutynski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Monastir,3,Hard,R16,2006,874,0,WC,,Milos Karol,Fryderyk Lechno Wasiutynski,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Monastir,3,Hard,R32,2006,,1,WC,Q,Fryderyk Lechno Wasiutynski,Enzo Lima,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R32,1992,618,0,Q,5,Luca Giacomini,Fryderyk Lechno Wasiutynski,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Koszalin,3,Clay,R16,,780,0,WC,5,Marcel Zielinski,Fryderyk Lechno Wasiutynski,6-7(5) 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Koszalin,3,Clay,R32,,,1,WC,Q,Fryderyk Lechno Wasiutynski,Henrik Bladelius,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Poznan,3,Clay,R32,,,0,WC,7,Tommaso Compagnucci,Fryderyk Lechno Wasiutynski,6-3 6-2,,,,,,,,,,,,,,,,,,,,,

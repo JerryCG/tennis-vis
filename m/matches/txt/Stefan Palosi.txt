@@ -1,4 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,St. Brieuc CH,3,Hard,Q1,511,463,0,,11,Tom Gentzsch,Stefan Palosi,6-2 7-6(4),0.74,2.3%,8.1%,60.5%,55.8%,47.1%,9/13,45.5%,35.1%,7.0%,28.2%,50.0%,2/2,143,2,7,86,52,34,4,1:30
+16-Sep-2024,Sibiu CH,3,Clay,R32,510,238,0,Q,4,Rudolf Molleker,Stefan Palosi,6-4 6-2,0.75,1.6%,4.7%,53.1%,55.9%,43.3%,6/11,44.2%,37.5%,7.1%,37.5%,37.5%,2/3,120,1,3,64,34,30,4,1:21
+16-Sep-2024,Sibiu CH,3,Clay,Q2,510,481,1,8,5,Stefan Palosi,Eric Vanshelboim,6-1 6-0,2.39,5.3%,5.3%,68.4%,76.9%,58.3%,2/3,70.0%,69.0%,0.0%,60.9%,78.9%,6/8,80,2,2,38,26,12,0,0:57
+16-Sep-2024,Sibiu CH,3,Clay,Q1,510,596,1,8,,Stefan Palosi,Joao Eduardo Schiessl,6-4 0-6 6-4,0.98,2.4%,9.4%,58.8%,68.0%,37.1%,8/13,49.2%,43.8%,3.1%,39.0%,51.4%,4/12,181,2,8,85,50,35,3,2:12
+9-Sep-2024,Dobrich CH,3,Clay,Q1,520,,0,9,,Dan Martin,Stefan Palosi,3-6 6-3 6-0,0.82,5.9%,5.9%,71.8%,60.7%,45.8%,8/13,46.6%,35.9%,9.0%,27.1%,50.0%,2/7,163,5,5,85,61,24,7,2:05
+2-Sep-2024,M15 Constanta,3,Clay,SF,578,263,0,3,1,Liam Draxl,Stefan Palosi,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Constanta,3,Clay,QF,578,1105,1,3,,Stefan Palosi,Matteo De Vincentis,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Constanta,3,Clay,R16,578,875,1,3,,Stefan Palosi,Taha Baadi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Constanta,3,Clay,R32,578,1005,1,3,,Stefan Palosi,Mihai Razvan Marinescu,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,F,578,503,1,5,3,Stefan Palosi,Dan Alexandru Tomescu,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,SF,578,602,1,5,6,Stefan Palosi,Sebastian Gima,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,QF,578,808,1,5,,Stefan Palosi,Ioan Alexandru Chirita,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,R16,578,983,1,5,,Stefan Palosi,Thiago Cigarran,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,R32,578,1399,1,5,Q,Stefan Palosi,Gabriel Ghetu,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,R16,582,1275,0,4,,Stefan Adrian Andreescu,Stefan Palosi,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,R32,582,1047,1,4,,Stefan Palosi,Mihai Razvan Marinescu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Curtea de Arges,3,Clay,R16,603,1083,0,6,,Mihai Razvan Marinescu,Stefan Palosi,6-7(4) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -45,9 +59,9 @@
 15-Jan-2024,M25 Doha,3,Hard,R32,953,333,1,Q,1,Stefan Palosi,Mathys Erhard,6-1 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R16,952,364,0,Q,2,Khumoyun Sultanov,Stefan Palosi,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R32,952,,1,Q,WC,Stefan Palosi,Saud Alhogbani,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,R32,944,327,0,,1,Filip Cristian Jianu,Stefan Palosi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R16,960,467,0,,6,Sandro Kopp,Stefan Palosi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R32,960,,1,,,Stefan Palosi,Maksim Tikhomirov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,R32,944,327,0,,1,Filip Cristian Jianu,Stefan Palosi,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R16,960,467,0,,6,Sandro Kopp,Stefan Palosi,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R32,960,,1,,,Stefan Palosi,Maksim Tikhomirov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Antalya,3,Clay,R32,962,309,0,Q,5,Timo Stodder,Stefan Palosi,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Heraklion,3,Hard,R32,944,1062,0,Q,Q,Jonas Trinker,Stefan Palosi,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Heraklion,3,Hard,R16,949,691,0,,8,Jakub Nicod,Stefan Palosi,6-1 1-6 6-3,,,,,,,,,,,,,,,,,,,,,

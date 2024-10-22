@@ -1,12 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q3,185,244,0,,,Diego Schwartzman,Vilius Gaubas,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q2,185,136,1,,23,Vilius Gaubas,Richard Gasquet,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,185,241,1,,,Vilius Gaubas,Daniel Rincon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,F,221,298,1,4,,Vilius Gaubas,Carlos Taberner,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,SF,221,359,1,4,ALT,Vilius Gaubas,Andrew Paulson,7-5 0-0 Ret'd,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,QF,221,294,1,4,,Vilius Gaubas,Lorenzo Giustino,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R16,221,513,1,4,Q,Vilius Gaubas,Luciano Emanuel Ambrogi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R32,221,302,1,4,,Vilius Gaubas,Felix Gill,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,Valencia CH,3,Clay,R32,179,127,0,,4,Daniel Elahi Galan,Vilius Gaubas,6-3 6-1,0.57,0.0%,4.6%,73.8%,45.8%,47.1%,10/15,39.5%,30.6%,2.0%,22.9%,50.0%,1/3,114,0,3,65,48,17,1,1:22
+30-Sep-2024,Braga CH,3,Clay,R16,179,207,0,,,Andrea Pellegrino,Vilius Gaubas,6-2 6-1,0.48,8.9%,6.7%,57.8%,65.4%,31.6%,5/9,37.5%,23.3%,4.7%,12.9%,50.0%,0/1,88,4,3,45,26,19,2,1:07
+30-Sep-2024,Braga CH,3,Clay,R32,179,173,1,,8,Vilius Gaubas,Tomas Barrios Vera,6-4 4-6 7-5,1.04,3.4%,0.8%,60.2%,60.6%,46.8%,9/15,50.8%,46.7%,0.0%,39.5%,59.1%,7/16,238,4,1,118,71,47,0,3:09
+23-Sep-2024,Lisbon CH,3,Clay,R32,180,194,0,,,Emilio Nava,Vilius Gaubas,6-4 6-3,0.86,0.0%,5.0%,65.0%,71.8%,38.1%,6/9,46.5%,34.3%,13.4%,23.4%,60.0%,1/5,127,0,3,60,39,21,9,1:33
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,R32,183,76,0,,2,Thiago Monteiro,Vilius Gaubas,7-5 6-3,0.27,2.7%,0.0%,62.7%,70.2%,39.3%,1/4,40.8%,11.1%,13.3%,10.7%,11.8%,0/0,120,2,0,75,47,28,6,1:36
+13-Sep-2024,Davis Cup WG1 R1: CRO vs LTU,3,Hard,RR,182,439,0,,,Borna Gojo,Vilius Gaubas,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2024,Davis Cup WG1 R1: CRO vs LTU,3,Hard,RR,182,291,0,,,Matej Dodig,Vilius Gaubas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Seville CH,3,Clay,R32,185,237,0,7,,Santiago Fa Rodriguez Taverna,Vilius Gaubas,6-3 3-6 6-4,0.89,2.2%,1.1%,70.7%,64.6%,63.0%,4/6,48.3%,31.8%,3.4%,19.6%,45.2%,1/7,180,2,1,92,65,27,3,2:10
+26-Aug-2024,US Open,5,Hard,Q3,185,244,0,,,Diego Schwartzman,Vilius Gaubas,6-4 6-4,0.89,0.0%,11.5%,49.2%,60.0%,35.5%,4/10,47.2%,46.8%,0.0%,41.7%,53.8%,4/7,123,0,7,61,30,31,0,1:40
+26-Aug-2024,US Open,5,Hard,Q2,185,136,1,,23,Vilius Gaubas,Richard Gasquet,6-2 6-4,1.45,3.4%,3.4%,62.7%,73.0%,63.6%,1/1,56.7%,44.3%,9.8%,23.5%,70.4%,3/10,120,2,2,59,37,22,6,1:17
+26-Aug-2024,US Open,5,Hard,Q1,185,241,1,,,Vilius Gaubas,Daniel Rincon,6-3 6-2,1.30,6.7%,3.3%,66.7%,80.0%,45.0%,7/7,55.9%,41.2%,2.0%,25.8%,65.0%,3/7,111,4,2,60,40,20,1,1:19
+5-Aug-2024,Cordenons CH,3,Clay,F,221,298,1,4,,Vilius Gaubas,Carlos Taberner,2-6 6-2 6-4,0.93,1.0%,2.9%,62.5%,60.0%,46.2%,7/11,49.2%,42.2%,4.8%,37.0%,48.6%,5/12,187,1,3,104,65,39,4,3:02
+5-Aug-2024,Cordenons CH,3,Clay,SF,221,359,1,4,Alt,Vilius Gaubas,Andrew Paulson,7-5 0-0 RET,1.17,4.4%,8.9%,60.0%,59.3%,22.2%,4/8,53.7%,64.9%,0.0%,57.7%,81.8%,5/9,82,2,4,45,27,18,0,1:01
+5-Aug-2024,Cordenons CH,3,Clay,QF,221,294,1,4,,Vilius Gaubas,Lorenzo Giustino,6-4 6-4,1.01,2.8%,2.8%,64.8%,71.7%,60.0%,3/3,52.4%,32.7%,5.5%,25.0%,43.5%,2/6,126,2,2,71,46,25,3,1:57
+5-Aug-2024,Cordenons CH,3,Clay,R16,221,513,1,4,Q,Vilius Gaubas,Luciano Emanuel Ambrogi,6-2 6-4,1.50,3.9%,3.9%,60.8%,74.2%,55.0%,2/4,58.6%,50.0%,2.1%,42.4%,66.7%,5/9,99,2,2,51,31,20,1,1:26
+5-Aug-2024,Cordenons CH,3,Clay,R32,221,302,1,4,,Vilius Gaubas,Felix Gill,7-5 6-3,1.06,4.1%,6.8%,59.5%,70.5%,43.3%,3/5,52.3%,43.1%,1.7%,32.3%,55.6%,4/5,132,3,5,74,44,30,1,2:05
 29-Jul-2024,San Marino CH,3,Clay,R32,226,215,0,,,Kyrian Jacquet,Vilius Gaubas,6-3 6-2,0.72,5.6%,5.6%,61.1%,57.6%,42.9%,6/10,42.9%,34.5%,6.9%,21.4%,46.7%,1/2,112,3,3,54,33,21,4,1:29
 22-Jul-2024,Verona CH,3,Clay,F,257,359,0,,Q,Federico Arnaboldi,Vilius Gaubas,6-2 6-2,0.58,2.6%,2.6%,64.1%,36.0%,42.9%,0/5,37.0%,35.8%,5.7%,32.3%,40.9%,1/4,92,1,1,39,25,14,3,1:20
 22-Jul-2024,Verona CH,3,Clay,SF,257,443,1,,Q,Vilius Gaubas,Nikoloz Basilashvili,4-6 6-0 7-5,1.15,7.9%,1.0%,76.2%,64.9%,54.2%,10/12,54.2%,43.4%,1.3%,37.0%,53.3%,5/10,177,8,1,101,77,24,1,2:20
@@ -69,10 +77,10 @@
 27-Nov-2023,Maspalomas CH,3,Clay,Q2,391,1217,1,,,Vilius Gaubas,Mircea Alexandru Jecan,6-3 6-3,1.38,5.3%,1.8%,61.4%,71.4%,59.1%,5/6,57.0%,46.0%,0.0%,41.2%,56.3%,4/7,107,3,1,57,35,22,0,1:21
 27-Nov-2023,Maspalomas CH,3,Clay,Q1,391,672,1,,,Vilius Gaubas,Diego Augusto Barreto Sanchez,6-3 6-3,1.24,2.0%,2.0%,65.3%,68.8%,52.9%,2/4,54.7%,45.7%,2.2%,37.0%,57.9%,5/8,95,1,1,49,32,17,1,1:08
 20-Nov-2023,Valencia CH,3,Clay,Q1,400,264,0,,7,Henri Squire,Vilius Gaubas,6-3 3-6 6-4,0.99,1.2%,1.2%,63.9%,56.6%,56.7%,3/8,48.9%,42.9%,3.8%,38.9%,51.5%,4/12,188,1,1,83,53,30,4,2:21
-13-Nov-2023,M15 Valencia,3,,SF,402,241,0,3,1,Marco Trungelliti,Vilius Gaubas,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,QF,402,516,1,3,,Vilius Gaubas,Martin Landaluce,6-2 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R16,402,,1,3,Q,Vilius Gaubas,Jordi Garcia Mestre,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R32,402,523,1,3,,Vilius Gaubas,Daniel Merida Aguilar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,SF,402,241,0,3,1,Marco Trungelliti,Vilius Gaubas,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,QF,402,516,1,3,,Vilius Gaubas,Martin Landaluce,6-2 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R16,402,,1,3,Q,Vilius Gaubas,Jordi Garcia Mestre,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,402,523,1,3,,Vilius Gaubas,Daniel Merida Aguilar,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R32,405,821,0,8,Q,Carlos Gimeno Valero,Vilius Gaubas,7-6(3) 7-6(10),,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Castellon,3,Clay,R32,406,1494,0,5,WC,Vicente Oliver Moratalla,Vilius Gaubas,3-6 7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M15 Vigo,3,Clay,QF,480,725,0,2,,Jorge Martinez Martinez,Vilius Gaubas,2-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,

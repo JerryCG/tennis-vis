@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Curitiba CH,3,Clay,Q1,339,,1,3,WC,Daniel Dutra Da Silva,Victor Hugo Remondy Pagotto,6-2 6-1,2.32,0.0%,10.0%,50.0%,85.0%,65.0%,1/2,65.6%,58.0%,0.0%,59.4%,55.6%,5/7,90,0,4,40,20,20,0,1:06
+14-Oct-2024,Campinas CH,3,Clay,R32,339,275,0,WC,Q,Karue Sell,Daniel Dutra Da Silva,7-5 6-3,0.88,4.4%,10.3%,41.2%,50.0%,50.0%,1/6,46.8%,44.2%,5.8%,30.4%,60.0%,2/14,154,3,7,68,28,40,5,1:54
+30-Sep-2024,M25 Luque,3,Clay,F,358,335,0,2,1,Juan Carlos Prado Angelo,Daniel Dutra Da Silva,6-2 2-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,SF,358,676,1,2,8,Daniel Dutra Da Silva,Eduardo Ribeiro,6-0 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,QF,358,697,1,2,,Daniel Dutra Da Silva,Juan Estevez,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,R16,358,969,1,2,Q,Daniel Dutra Da Silva,Fernando Cavallo,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,R32,358,1426,1,2,Q,Daniel Dutra Da Silva,Salvador Price,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,Antofagasta CH,3,Clay,R32,359,210,0,Alt,7,Facundo Mena,Daniel Dutra Da Silva,6-2 6-1,0.48,1.9%,5.7%,50.9%,59.3%,30.8%,7/12,36.8%,26.2%,4.8%,23.5%,28.0%,0/2,95,1,3,53,27,26,2,1:16
+16-Sep-2024,Cali CH,3,Clay,R32,363,208,0,,7,Enzo Couacaud,Daniel Dutra Da Silva,4-6 6-4 7-6(1),0.92,5.9%,2.9%,57.8%,64.4%,44.2%,2/7,47.9%,40.7%,9.7%,21.4%,59.6%,5/14,215,6,3,102,59,43,11,2:34
 19-Aug-2024,M25 Belem,3,Hard,SF,373,569,0,1,5,Eduardo Ribeiro,Daniel Dutra Da Silva,6-4 4-2 RET,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Belem,3,Hard,QF,373,629,1,1,7,Daniel Dutra Da Silva,Igor Gimenez,6-0 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Belem,3,Hard,R16,373,1354,1,1,,Daniel Dutra Da Silva,Natan Rodrigues,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -9,6 +18,9 @@
 5-Aug-2024,Bonn CH,3,Clay,R32,376,238,0,LL,,Filip Cristian Jianu,Daniel Dutra Da Silva,6-4 6-2,0.68,6.9%,6.9%,50.0%,69.0%,37.9%,4/8,42.6%,31.6%,1.8%,25.7%,40.9%,1/3,115,4,4,58,29,29,1,1:27
 5-Aug-2024,Bonn CH,3,Clay,Q2,376,457,0,6,12,Yanaki Milev,Daniel Dutra Da Silva,7-6(1) 4-6 6-4,0.92,3.1%,7.3%,57.3%,74.5%,48.8%,5/8,48.7%,33.7%,2.1%,29.3%,40.5%,3/7,191,3,7,96,55,41,2,2:34
 5-Aug-2024,Bonn CH,3,Clay,Q1,376,2041,1,6,WC,Daniel Dutra Da Silva,Max Schoenhaus,6-4 7-6(6),1.24,8.5%,4.2%,57.7%,73.2%,43.3%,6/10,53.9%,49.0%,3.1%,47.1%,51.1%,5/10,167,6,3,71,41,30,3,1:54
+29-Jul-2024,San Marino CH,3,Clay,R32,384,101,0,LL,2,Francisco Comesana,Daniel Dutra Da Silva,6-1 6-3,0.65,3.6%,1.8%,53.6%,53.3%,46.2%,4/8,41.4%,32.7%,5.5%,22.2%,52.6%,0/2,111,2,1,56,30,26,3,1:20
+29-Jul-2024,San Marino CH,3,Clay,Q2,384,344,0,8,5,Carlos Lopez Montagud,Daniel Dutra Da Silva,6-7(5) 6-3 6-4,0.84,5.6%,4.4%,54.4%,83.7%,36.6%,2/6,46.7%,31.9%,6.4%,28.8%,39.3%,2/3,184,5,4,90,49,41,6,2:32
+29-Jul-2024,San Marino CH,3,Clay,Q1,384,667,1,8,,Daniel Dutra Da Silva,Dali Blanch,6-3 4-6 6-2,1.47,2.6%,2.6%,56.6%,72.1%,75.8%,1/2,54.9%,38.6%,5.7%,20.0%,63.2%,3/10,164,2,2,76,43,33,5,2:00
 22-Jul-2024,Verona CH,3,Clay,Q1,393,456,0,5,,Yanaki Milev,Daniel Dutra Da Silva,2-6 6-4 6-4,1.44,12.9%,1.4%,65.7%,71.7%,70.8%,1/4,52.7%,41.1%,7.1%,37.7%,45.1%,3/10,182,9,1,70,46,24,8,2:11
 15-Jul-2024,M25 Telfs,3,Clay,QF,360,323,0,6,4,Toby Alex Kodat,Daniel Dutra Da Silva,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M25 Telfs,3,Clay,R16,360,1609,1,6,Q,Daniel Dutra Da Silva,Ondrej Horak,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

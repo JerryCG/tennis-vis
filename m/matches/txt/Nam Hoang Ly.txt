@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,464,1326,0,3,Q,Adhithya Ganesan,Nam Hoang Ly,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,SF,464,840,0,3,,Taisei Ichikawa,Nam Hoang Ly,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,QF,464,984,1,3,WC,Nam Hoang Ly,Pawit Sornlaksup,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,R16,464,1932,1,3,Q,Nam Hoang Ly,Jae Hwan Kim,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,464,933,1,3,,Nam Hoang Ly,Jesse Delaney,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Taipei,3,Hard,R16,465,880,0,5,Q,Woobin Shin,Nam Hoang Ly,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Taipei,3,Hard,R32,465,926,1,5,Q,Nam Hoang Ly,Isaac Becroft,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Taipei,3,Hard,R32,465,712,0,5,,Mitsuki Wei Kang Leong,Nam Hoang Ly,7-6(2) 3-6 4-1 RET,,,,,,,,,,,,,,,,,,,,,
@@ -40,13 +45,13 @@
 8-Jan-2024,M25 Mandya,3,Hard,QF,561,749,0,5,,Siddharth Vishwakarma,Nam Hoang Ly,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Mandya,3,Hard,R16,561,1440,1,5,Q,Nam Hoang Ly,Vishnu Vardhan,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Mandya,3,Hard,R32,561,1606,1,5,Q,Nam Hoang Ly,Ranjeet Virali Murugesan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,563,1032,0,6,PR,Jumpei Yamasaki,Nam Hoang Ly,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,QF,538,799,0,,,Jacob Bradshaw,Nam Hoang Ly,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R16,538,1541,1,,Q,Nam Hoang Ly,Joshua Charlton,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,538,1111,1,,LL,Nam Hoang Ly,Alexander Klintcharov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,QF,535,772,0,5,,Moerani Bouzige,Nam Hoang Ly,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R16,535,1060,1,5,WC,Nam Hoang Ly,Thanapet Chanta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R32,535,652,1,5,,Nam Hoang Ly,Kasidit Samrej,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,563,1032,0,6,PR,Jumpei Yamasaki,Nam Hoang Ly,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,QF,538,799,0,,,Jacob Bradshaw,Nam Hoang Ly,6-3 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R16,538,1541,1,,Q,Nam Hoang Ly,Joshua Charlton,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,538,1111,1,,LL,Nam Hoang Ly,Alexander Klintcharov,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,QF,535,772,0,5,,Moerani Bouzige,Nam Hoang Ly,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R16,535,1060,1,5,WC,Nam Hoang Ly,Thanapet Chanta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R32,535,652,1,5,,Nam Hoang Ly,Kasidit Samrej,5-7 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Sydney CH,3,Hard,Q2,448,457,0,6,8,Hiroki Moriya,Nam Hoang Ly,6-7(3) 6-3 6-3,0.85,3.0%,5.0%,49.0%,59.2%,43.1%,6/14,46.1%,41.5%,1.9%,38.7%,45.5%,5/11,206,3,5,100,49,51,2,2:51
 30-Oct-2023,Sydney CH,3,Hard,Q1,448,1981,1,6,WC,Nam Hoang Ly,Matt Hulme,6-4 6-3,1.57,1.9%,1.9%,64.2%,85.3%,52.6%,2/2,55.3%,41.4%,4.3%,37.0%,50.0%,3/8,123,1,1,53,34,19,3,1:22
 23-Oct-2023,Playford CH,3,Hard,R16,470,248,0,,8,Tristan Schoolkate,Nam Hoang Ly,3-6 6-4 6-2,0.82,1.1%,2.2%,65.6%,63.9%,40.6%,10/14,46.4%,36.0%,11.6%,27.5%,48.6%,3/7,179,1,2,93,61,32,10,2:10

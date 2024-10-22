@@ -1,9 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,R128,340,28,0,,28,Alexei Popyrin,Soon Woo Kwon,7-5 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2024,Davis Cup WG1 R1: POL vs KOR,3,Hard,RR,344,163,1,,,Soon Woo Kwon,Kamil Majchrzak,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,R128,340,28,0,,28,Alexei Popyrin,Soon Woo Kwon,7-5 6-2 6-3,0.51,6.3%,13.7%,54.7%,67.3%,34.9%,4/10,40.2%,24.3%,18.9%,8.1%,40.5%,1/5,169,6,13,95,52,43,14,2:01
 15-Jul-2024,Hamburg,3,Clay,R32,349,108,0,PR,WC,Maximilian Marterer,Soon Woo Kwon,6-4 6-7(6) 7-5,0.82,6.7%,0.8%,58.0%,69.6%,56.0%,9/12,48.0%,29.8%,9.6%,18.3%,45.5%,1/4,223,8,1,119,69,50,10,2:49
 1-Jul-2024,Wimbledon,5,Grass,R128,367,15,0,,15,Holger Rune,Soon Woo Kwon,6-1 6-4 6-4,0.41,2.3%,3.5%,61.6%,66.0%,42.4%,9/13,39.6%,17.6%,23.5%,4.8%,38.5%,0/0,154,2,3,86,53,33,16,1:36
-27-May-2024,Roland Garros,5,Clay,R64,494,28,0,,27,Sebastian Korda,Soon Woo Kwon,6-4 6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R128,494,67,1,,,Soon Woo Kwon,Emil Ruusuvuori,6-3 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R64,494,28,0,,27,Sebastian Korda,Soon Woo Kwon,6-4 6-4 1-6 6-3,0.94,3.3%,3.3%,65.3%,57.0%,57.1%,9/15,48.9%,40.4%,11.4%,35.4%,51.4%,5/11,235,4,4,121,79,42,13,
+27-May-2024,Roland Garros,5,Clay,R128,494,67,1,,,Soon Woo Kwon,Emil Ruusuvuori,6-3 6-4 6-3,1.32,2.2%,3.4%,58.4%,69.2%,56.8%,2/4,54.4%,47.6%,6.3%,49.4%,43.9%,6/25,215,2,3,89,52,37,8,
 13-May-2024,Tunis CH,3,Clay,Q1,487,247,0,Alt,2,Timofey Skatov,Soon Woo Kwon,6-4 6-3,0.62,0.0%,7.4%,54.3%,61.4%,43.2%,7/11,44.2%,29.2%,8.3%,24.0%,34.8%,1/1,129,0,6,81,44,37,4,1:37
 8-Apr-2024,Busan CH,3,Hard,SF,645,201,0,WC,,Seong Chan Hong,Soon Woo Kwon,W/O,,,,,,,,,,,,,,,,,,,,,
 8-Apr-2024,Busan CH,3,Hard,QF,645,183,1,WC,6,Soon Woo Kwon,Lloyd Harris,7-6(5) 7-5,1.02,1.1%,4.3%,48.4%,60.0%,58.3%,4/7,51.2%,41.8%,7.6%,42.2%,41.2%,4/9,172,1,4,93,45,48,6,2:15

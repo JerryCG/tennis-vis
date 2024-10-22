@@ -1,21 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,R32,319,234,0,,4,Carlos Taberner,Franco Agamenone,7-5 6-4,0.63,2.5%,5.1%,69.6%,65.5%,45.8%,10/13,45.5%,25.5%,0.0%,9.4%,47.8%,1/1,134,2,4,79,55,24,0,
+30-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,333,622,0,3,,Gilles Arnaud Bailly,Franco Agamenone,4-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,323,444,0,2,,Gabriele Pennaforti,Franco Agamenone,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Sibiu CH,3,Clay,R32,324,198,0,,2,Timofey Skatov,Franco Agamenone,7-5 6-2,0.82,0.0%,1.3%,74.4%,53.4%,35.0%,8/14,45.7%,41.9%,1.6%,34.4%,50.0%,3/7,140,0,1,78,58,20,1,1:35
+2-Sep-2024,Seville CH,3,Clay,R16,319,131,0,,5,Alexander Ritschard,Franco Agamenone,7-6(2) 7-5,0.75,1.1%,2.3%,71.3%,54.8%,48.0%,6/10,44.8%,35.5%,2.6%,34.8%,36.7%,3/7,163,1,2,87,62,25,2,2:09
+2-Sep-2024,Seville CH,3,Clay,R32,319,419,1,,Q,Franco Agamenone,Daniel Merida Aguilar,7-5 7-6(4),1.15,1.2%,3.6%,75.9%,61.9%,40.0%,9/13,53.3%,50.0%,0.0%,48.5%,55.6%,5/9,167,1,3,83,63,20,0,2:08
+26-Aug-2024,Porto CH,3,Clay,R32,319,234,0,,4,Carlos Taberner,Franco Agamenone,7-5 6-4,0.63,2.5%,5.1%,69.6%,65.5%,45.8%,10/13,45.5%,25.5%,0.0%,9.4%,47.8%,1/1,134,2,4,79,55,24,0,1:57
 19-Aug-2024,M25 Maribor,3,Clay,R16,317,573,0,3,,Dominik Kellovsky,Franco Agamenone,5-7 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Maribor,3,Clay,R32,317,1680,1,3,Q,Franco Agamenone,Jerko Brkic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R16,330,329,0,,,Gastao Elias,Franco Agamenone,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R32,330,414,1,,5,Franco Agamenone,Genaro Alberto Olivieri,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,R16,330,329,0,,,Gastao Elias,Franco Agamenone,6-4 6-3,0.67,3.4%,6.8%,67.8%,62.5%,26.3%,3/7,41.9%,32.8%,1.7%,33.3%,32.0%,1/4,117,2,4,59,40,19,1,1:30
+12-Aug-2024,Todi CH,3,Clay,R32,330,414,1,,5,Franco Agamenone,Genaro Alberto Olivieri,6-3 7-5,1.13,1.5%,1.5%,65.2%,60.5%,65.2%,1/3,53.3%,42.9%,1.8%,41.5%,46.7%,4/5,122,1,1,66,43,23,1,1:43
 29-Jul-2024,Luedenscheid CH,3,Clay,R32,333,195,0,,,Calvin Hemery,Franco Agamenone,6-4 0-0 RET,0.34,5.6%,5.6%,63.9%,69.6%,46.2%,7/8,42.4%,13.0%,0.0%,9.1%,16.7%,0/0,59,2,2,36,23,13,0,0:41
 15-Jul-2024,Amersfoort CH,3,Clay,R32,334,248,0,,Alt,Alvaro Guillen Meza,Franco Agamenone,6-2 6-2,0.33,0.0%,4.5%,68.2%,57.8%,38.1%,4/8,38.5%,15.8%,2.6%,9.7%,42.9%,0/0,104,0,3,66,45,21,1,1:11
 8-Jul-2024,Braunschweig CH,3,Clay,Q1,215,477,0,1,,Yanaki Milev,Franco Agamenone,4-6 6-1 7-5,0.72,1.2%,4.7%,59.3%,60.8%,57.1%,2/6,44.6%,29.3%,3.7%,15.2%,47.2%,2/5,168,1,4,86,51,35,3,1:58
 1-Jul-2024,Wimbledon,5,Grass,Q1,215,147,0,,,Otto Virtanen,Franco Agamenone,6-7(6) 6-2 7-6(6),0.94,1.8%,3.6%,73.0%,67.9%,53.3%,7/10,47.7%,33.8%,10.0%,20.8%,50.0%,1/14,241,2,4,111,81,30,13,2:30
-10-Jun-2024,Perugia CH,3,Clay,R16,226,133,0,,8,Francesco Passaro,Franco Agamenone,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Perugia CH,3,Clay,R32,226,410,1,,Q,Franco Agamenone,Giovanni Oradini,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,R16,226,133,0,,8,Francesco Passaro,Franco Agamenone,6-1 6-3,0.44,2.3%,2.3%,62.8%,59.3%,37.5%,2/6,36.5%,21.4%,11.9%,15.4%,31.3%,0/3,85,1,1,43,27,16,5,1:03
+10-Jun-2024,Perugia CH,3,Clay,R32,226,410,1,,Q,Franco Agamenone,Giovanni Oradini,6-3 2-6 6-3,0.95,4.7%,3.5%,80.2%,62.3%,41.2%,3/6,49.7%,39.7%,6.8%,32.0%,56.5%,4/8,159,4,3,86,69,17,5,2:18
 27-May-2024,Vicenza CH,3,Clay,R32,227,297,0,,Q,Giovanni Fonio,Franco Agamenone,7-6(5) 7-5,0.86,0.0%,1.2%,67.9%,59.6%,37.0%,2/6,46.6%,41.1%,2.2%,36.2%,57.1%,3/7,174,0,1,84,57,27,2,2:23
-27-May-2024,Roland Garros,5,Clay,Q1,227,131,0,,11,Dominic Thiem,Franco Agamenone,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,SF,234,146,0,,1,Titouan Droguet,Franco Agamenone,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,QF,234,463,1,,Q,Franco Agamenone,Ryan Nijboer,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,R16,234,328,1,,,Franco Agamenone,Marco Cecchinato,7-6(9) 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,R32,234,186,1,,6,Franco Agamenone,Stefano Travaglia,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q1,227,131,0,,11,Dominic Thiem,Franco Agamenone,3-6 6-3 6-2,0.84,1.0%,5.1%,68.7%,58.8%,45.2%,9/14,47.0%,38.1%,4.8%,33.3%,44.4%,3/9,183,1,5,99,68,31,4,
+6-May-2024,Francavilla Al Mare CH,3,Clay,SF,234,146,0,,1,Titouan Droguet,Franco Agamenone,6-3 7-5,0.84,0.0%,3.6%,65.5%,58.3%,47.4%,4/9,45.8%,38.1%,4.8%,22.6%,53.1%,3/7,118,0,2,55,36,19,3,1:34
+6-May-2024,Francavilla Al Mare CH,3,Clay,QF,234,463,1,,Q,Franco Agamenone,Ryan Nijboer,6-4 6-0,1.36,0.0%,0.0%,70.3%,57.8%,73.7%,5/6,57.7%,51.1%,2.1%,57.1%,42.1%,5/8,111,0,0,64,45,19,1,1:24
+6-May-2024,Francavilla Al Mare CH,3,Clay,R16,234,328,1,,,Franco Agamenone,Marco Cecchinato,7-6(9) 2-6 6-4,0.89,1.7%,2.6%,78.3%,62.2%,40.0%,7/11,47.6%,37.9%,0.0%,37.1%,40.7%,3/11,231,2,3,115,90,25,0,3:08
+6-May-2024,Francavilla Al Mare CH,3,Clay,R32,234,186,1,,6,Franco Agamenone,Stefano Travaglia,6-3 6-2,2.52,0.0%,2.4%,68.3%,75.0%,92.3%,1/2,62.5%,49.1%,1.8%,42.4%,59.1%,4/10,96,0,1,41,28,13,1,1:16
 22-Apr-2024,Rome CH,3,Clay,R16,220,138,0,,2,Nicolas Moreno De Alboran,Franco Agamenone,4-6 6-3 6-1,0.76,1.2%,3.7%,80.2%,60.0%,37.5%,7/12,44.7%,33.8%,5.0%,24.1%,59.1%,2/9,161,1,3,81,65,16,4,2:03
 22-Apr-2024,Rome CH,3,Clay,R32,220,511,1,,WC,Franco Agamenone,Gabriele Pennaforti,6-7(4) 6-3 6-3,1.20,0.0%,1.1%,72.0%,62.7%,53.8%,5/9,53.4%,47.8%,1.7%,42.9%,55.6%,7/18,208,0,1,93,67,26,2,3:02
 15-Apr-2024,Oeiras CH,3,Clay,R16,214,217,0,,,Dennis Novak,Franco Agamenone,6-3 6-1,0.68,1.8%,0.0%,68.4%,43.6%,38.9%,11/17,40.9%,39.6%,5.7%,41.9%,36.4%,2/4,110,1,0,57,39,18,3,1:15

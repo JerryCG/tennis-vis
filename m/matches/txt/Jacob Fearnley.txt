@@ -1,4 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Basel,3,Hard,Q2,92,82,0,,,Daniel Altmaier,Jacob Fearnley,6-3 3-6 7-6(5),0.90,9.8%,4.5%,65.2%,76.7%,48.7%,7/8,49.3%,29.7%,18.8%,19.1%,51.5%,1/3,213,11,5,112,73,39,19,2:23
+21-Oct-2024,Basel,3,Hard,Q1,92,71,1,,7,Jacob Fearnley,Christopher Oconnell,6-4 1-6 6-4,1.22,9.3%,4.0%,54.7%,73.2%,58.8%,7/10,52.8%,40.7%,11.6%,28.3%,60.6%,3/8,161,7,3,75,41,34,10,1:55
+14-Oct-2024,Stockholm,3,Hard,R16,99,37,0,Q,7,Tallon Griekspoor,Jacob Fearnley,7-6(0) 6-3,0.60,1.3%,7.8%,54.5%,64.3%,42.9%,7/10,43.2%,27.3%,16.4%,15.8%,52.9%,1/1,132,1,6,77,42,35,9,1:29
+14-Oct-2024,Stockholm,3,Hard,R32,99,71,1,Q,,Jacob Fearnley,Corentin Moutet,6-2 7-6(5),1.15,5.3%,6.6%,56.6%,69.8%,45.5%,4/7,52.9%,46.8%,3.9%,42.6%,53.3%,5/13,153,4,5,76,43,33,3,1:51
+14-Oct-2024,Stockholm,3,Hard,Q2,99,117,1,1,6,Jacob Fearnley,Kamil Majchrzak,3-6 6-3 7-6(2),0.99,13.0%,12.2%,64.2%,69.6%,43.2%,11/14,50.9%,39.6%,5.0%,28.8%,60.0%,3/7,224,16,15,123,79,44,5,2:30
+14-Oct-2024,Stockholm,3,Hard,Q1,99,475,1,1,,Jacob Fearnley,Lukas Pokorny,6-4 6-2,2.26,26.7%,2.2%,73.3%,84.8%,66.7%,0/0,59.8%,45.2%,9.7%,34.3%,59.3%,3/9,107,12,1,45,33,12,6,1:03
+23-Sep-2024,Orleans CH,3,Hard,F,126,115,1,8,5,Jacob Fearnley,Harold Mayot,6-3 7-6(5),1.24,9.2%,9.2%,55.3%,69.0%,52.9%,5/8,55.6%,47.5%,6.8%,31.6%,76.2%,4/6,135,7,7,76,42,34,4,1:30
+23-Sep-2024,Orleans CH,3,Hard,SF,126,248,1,8,,Jacob Fearnley,Alexander Blockx,6-4 6-3,1.47,8.3%,4.2%,56.3%,74.1%,61.9%,0/1,55.9%,46.0%,3.2%,43.6%,50.0%,4/7,111,4,2,48,27,21,2,1:20
+23-Sep-2024,Orleans CH,3,Hard,QF,126,155,1,8,,Jacob Fearnley,Matteo Gigante,6-1 6-0,2.53,2.7%,2.7%,56.8%,85.7%,56.3%,3/3,70.7%,68.4%,2.6%,59.1%,81.3%,6/10,75,1,1,37,21,16,1,0:48
+23-Sep-2024,Orleans CH,3,Hard,R16,126,288,1,8,WC,Jacob Fearnley,Robin Bertrand,6-3 6-3,1.22,6.3%,7.8%,46.9%,80.0%,55.9%,6/6,54.6%,40.0%,3.6%,29.0%,54.2%,3/4,119,4,5,64,30,34,2,1:22
+23-Sep-2024,Orleans CH,3,Hard,R32,126,,1,8,Q,Jacob Fearnley,Jonathan Eysseric,6-2 3-6 6-1,1.55,9.2%,4.6%,58.5%,78.9%,63.0%,1/2,56.3%,43.0%,6.3%,28.9%,61.8%,4/5,144,6,3,65,38,27,5,1:32
+9-Sep-2024,Rennes CH,3,Hard,F,164,107,1,,4,Jacob Fearnley,Quentin Halys,0-6 7-6(5) 6-3,0.74,10.7%,8.9%,68.8%,71.4%,40.0%,12/15,48.4%,28.4%,21.6%,15.4%,42.9%,1/1,186,12,10,112,77,35,16,1:57
+9-Sep-2024,Rennes CH,3,Hard,SF,164,125,1,,3,Jacob Fearnley,Harold Mayot,6-4 6-2,1.36,8.3%,6.7%,70.0%,73.8%,44.4%,4/5,56.0%,47.7%,7.7%,34.8%,78.9%,4/8,125,5,4,60,42,18,5,1:19
+9-Sep-2024,Rennes CH,3,Hard,QF,164,46,1,,1,Jacob Fearnley,Adrian Mannarino,6-3 6-3,1.51,15.1%,5.7%,69.8%,81.1%,43.8%,4/5,58.6%,45.7%,6.5%,44.8%,47.1%,4/6,99,8,3,53,37,16,3,1:06
+9-Sep-2024,Rennes CH,3,Hard,R16,164,477,1,,WC,Jacob Fearnley,Sascha Gueymard Wayenburg,1-6 6-2 6-4,1.04,4.4%,5.9%,66.2%,62.2%,43.5%,4/8,50.3%,45.8%,8.4%,28.2%,61.4%,5/9,151,3,4,68,45,23,7,1:35
+9-Sep-2024,Rennes CH,3,Hard,R32,164,263,1,,,Jacob Fearnley,Benoit Paire,6-1 6-0,3.13,6.7%,10.0%,43.3%,92.3%,70.6%,0/0,70.0%,62.5%,5.0%,54.2%,75.0%,6/9,70,2,3,30,13,17,2,0:37
 26-Aug-2024,US Open,5,Hard,Q1,158,192,0,,,Paul Jubb,Jacob Fearnley,6-1 7-6(2),0.72,1.6%,7.9%,55.6%,54.3%,32.1%,0/5,42.3%,40.0%,10.0%,18.8%,64.3%,2/3,123,1,5,63,35,28,6,1:18
 5-Aug-2024,Lincoln CH,3,Hard,F,206,171,1,,,Jacob Fearnley,Coleman Wong,6-4 6-2,1.42,3.6%,5.5%,63.6%,74.3%,50.0%,1/3,57.1%,49.1%,5.3%,46.3%,56.3%,5/8,112,2,3,55,35,20,3,1:18
 5-Aug-2024,Lincoln CH,3,Hard,SF,206,134,1,,5,Jacob Fearnley,Bu Yunchaokete,0-6 6-0 7-6(3),1.01,4.6%,10.8%,61.5%,67.5%,40.0%,0/5,49.3%,43.5%,4.7%,34.0%,59.4%,5/11,150,3,7,65,40,25,4,1:50
@@ -15,26 +31,26 @@
 15-Jul-2024,Newport,3,Grass,Q1,231,205,1,,4,Jacob Fearnley,Gijs Brouwer,4-6 6-3 6-2,1.16,12.2%,5.6%,57.8%,75.0%,44.7%,2/5,54.0%,43.8%,1.4%,35.4%,60.0%,5/6,163,11,5,90,52,38,1,1:47
 1-Jul-2024,Wimbledon,5,Grass,R64,277,2,0,WC,2,Novak Djokovic,Jacob Fearnley,6-3 6-4 5-7 7-5,0.82,10.7%,4.1%,65.6%,73.8%,52.4%,3/7,46.9%,27.6%,11.4%,19.5%,43.9%,2/6,245,13,5,122,80,42,14,3:00
 1-Jul-2024,Wimbledon,5,Grass,R128,277,188,1,WC,Q,Jacob Fearnley,Alejandro Moro Canas,7-5 6-4 7-6(12),1.44,7.5%,3.7%,62.6%,85.1%,60.0%,3/3,53.4%,34.9%,0.8%,28.6%,50.0%,2/10,236,8,4,107,67,40,1,2:47
-24-Jun-2024,Eastbourne,3,Grass,R32,271,139,0,WC,WC,Billy Harris,Jacob Fearnley,6-4 7-6(7),,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Nottingham CH,3,Grass,F,525,283,1,Q,Q,Jacob Fearnley,Charles Broom,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Nottingham CH,3,Grass,SF,525,160,1,Q,,Jacob Fearnley,Mattia Bellucci,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Jun-2024,Nottingham CH,3,Grass,QF,525,96,1,Q,3,Jacob Fearnley,Juncheng Shang,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jun-2024,Eastbourne,3,Grass,R32,271,139,0,WC,WC,Billy Harris,Jacob Fearnley,6-4 7-6(7),0.75,2.9%,5.7%,55.7%,71.8%,64.5%,0/1,46.4%,23.5%,14.7%,14.9%,42.9%,0/1,138,2,4,70,39,31,10,1:37
+10-Jun-2024,Nottingham CH,3,Grass,F,525,283,1,Q,Q,Jacob Fearnley,Charles Broom,4-6 6-4 6-3,1.08,8.9%,7.1%,58.0%,73.8%,48.9%,8/10,52.4%,39.4%,11.7%,29.0%,59.4%,3/11,206,10,8,112,65,47,11,1:59
+10-Jun-2024,Nottingham CH,3,Grass,SF,525,160,1,Q,,Jacob Fearnley,Mattia Bellucci,6-3 6-1,1.75,13.0%,10.9%,67.4%,93.5%,33.3%,0/0,59.8%,45.7%,13.0%,32.4%,83.3%,4/5,92,6,5,46,31,15,6,0:54
+10-Jun-2024,Nottingham CH,3,Grass,QF,525,96,1,Q,3,Jacob Fearnley,Juncheng Shang,7-5 7-5,1.34,9.0%,9.0%,64.1%,84.0%,46.4%,5/6,55.7%,39.4%,1.4%,40.0%,38.1%,3/9,149,7,7,78,50,28,1,1:37
 10-Jun-2024,Nottingham CH,3,Grass,R16,525,298,1,Q,WC,Jacob Fearnley,Paul Jubb,6-1 6-7(14) 6-3,1.29,9.3%,4.1%,60.8%,81.4%,55.3%,0/1,54.8%,37.4%,11.0%,31.0%,48.5%,4/8,188,9,4,97,59,38,10,2:00
 10-Jun-2024,Nottingham CH,3,Grass,R32,525,192,1,Q,Alt,Jacob Fearnley,Bu Yunchaokete,6-2 7-5,1.53,9.6%,5.8%,61.5%,78.1%,55.0%,0/1,56.5%,47.2%,6.9%,41.5%,54.8%,4/7,124,5,3,52,32,20,5,1:22
-10-Jun-2024,Nottingham CH,3,Grass,Q2,525,272,1,,3,Jacob Fearnley,Mark Lajal,6-2 6-4,1.62,7.4%,7.4%,64.8%,71.4%,57.9%,4/6,60.0%,54.1%,3.3%,42.1%,73.9%,5/11,115,4,4,54,35,19,2,1:15
-10-Jun-2024,Nottingham CH,3,Grass,Q1,525,277,1,,8,Jacob Fearnley,Clement Chidekh,2-6 6-3 7-6(4),1.05,9.6%,6.4%,74.5%,64.3%,54.2%,2/6,50.8%,40.4%,0.0%,34.3%,53.1%,3/12,193,9,6,94,70,24,0,2:04
+10-Jun-2024,Nottingham CH,3,Grass,Q2,525,272,1,Alt,3,Jacob Fearnley,Mark Lajal,6-2 6-4,1.62,7.4%,7.4%,64.8%,71.4%,57.9%,4/6,60.0%,54.1%,3.3%,42.1%,73.9%,5/11,115,4,4,54,35,19,2,1:15
+10-Jun-2024,Nottingham CH,3,Grass,Q1,525,277,1,Alt,8,Jacob Fearnley,Clement Chidekh,2-6 6-3 7-6(4),1.05,9.6%,6.4%,74.5%,64.3%,54.2%,2/6,50.8%,40.4%,0.0%,34.3%,53.1%,3/12,193,9,6,94,70,24,0,2:04
 8-Jan-2024,M25 Loughborough,3,Hard,R16,646,430,0,SE,8,Anton Matusevich,Jacob Fearnley,W/O,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Loughborough,3,Hard,R32,646,496,1,SE,,Jacob Fearnley,Federico Iannaccone,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,F,646,540,1,Q,,Jacob Fearnley,Jonas Forejtek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,SF,646,334,1,Q,1,Jacob Fearnley,Yanki Erel,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,QF,646,1853,1,Q,Q,Jacob Fearnley,Kylian Collignon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R16,646,389,1,Q,6,Jacob Fearnley,Tim Handel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,646,458,1,Q,,Jacob Fearnley,Alexey Vatutin,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Columbus OH,3,,F,735,561,0,Q,2,Learner Tien,Jacob Fearnley,2-0 RET,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Columbus OH,3,,SF,735,847,1,Q,5,Jacob Fearnley,Shunsuke Mitsui,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Columbus OH,3,,QF,735,512,1,Q,1,Jacob Fearnley,Radu Mihai Papoe,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Columbus OH,3,,R16,735,1760,1,Q,WC,Jacob Fearnley,Evan Sharygin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Columbus OH,3,,R32,735,727,1,Q,6,Jacob Fearnley,Johannus Monday,2-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,F,646,540,1,Q,,Jacob Fearnley,Jonas Forejtek,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,SF,646,334,1,Q,1,Jacob Fearnley,Yanki Erel,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,QF,646,1853,1,Q,Q,Jacob Fearnley,Kylian Collignon,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R16,646,389,1,Q,6,Jacob Fearnley,Tim Handel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,646,458,1,Q,,Jacob Fearnley,Alexey Vatutin,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Columbus OH,3,Hard,F,735,561,0,Q,2,Learner Tien,Jacob Fearnley,2-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Columbus OH,3,Hard,SF,735,847,1,Q,5,Jacob Fearnley,Shunsuke Mitsui,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Columbus OH,3,Hard,QF,735,512,1,Q,1,Jacob Fearnley,Radu Mihai Papoe,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Columbus OH,3,Hard,R16,735,1760,1,Q,WC,Jacob Fearnley,Evan Sharygin,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Columbus OH,3,Hard,R32,735,727,1,Q,6,Jacob Fearnley,Johannus Monday,2-6 6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Glasgow ,3,Hard,SF,1780,568,0,SE,,Anton Matusevich,Jacob Fearnley,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Glasgow ,3,Hard,QF,1780,452,1,SE,5,Jacob Fearnley,Tibo Colson,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Glasgow ,3,Hard,R16,1780,916,1,SE,Q,Jacob Fearnley,Milos Karol,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

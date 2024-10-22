@@ -1,9 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Genoa CH,3,Clay,QF,409,214,0,Q,,Stefano Travaglia,Mili Poljicak,6-7(6) 6-2 6-2,0.71,5.9%,2.9%,52.0%,67.9%,42.9%,8/13,44.3%,31.1%,4.4%,25.0%,37.0%,1/7,192,6,3,102,53,49,4,2:36
-1-Sep-2024,Genoa CH,3,Clay,R16,409,325,1,Q,Alt,Mili Poljicak,Martin Klizan,4-6 6-2 6-1,1.44,14.1%,7.0%,63.4%,80.0%,50.0%,1/2,54.5%,44.8%,3.8%,40.6%,51.2%,4/17,176,10,5,71,45,26,4,2:24
-1-Sep-2024,Genoa CH,3,Clay,R32,409,170,1,Q,8,Mili Poljicak,Andrea Pellegrino,7-5 6-2,1.72,18.5%,3.7%,48.1%,92.3%,53.6%,1/2,57.1%,47.7%,3.5%,43.4%,54.5%,4/15,140,10,2,54,26,28,3,1:45
-1-Sep-2024,Genoa CH,3,Clay,Q2,409,429,1,4,7,Mili Poljicak,Giovanni Oradini,6-3 6-4,1.16,14.7%,2.9%,45.6%,93.5%,43.2%,3/4,53.5%,39.3%,6.6%,27.0%,58.3%,3/10,129,10,2,68,31,37,4,1:43
-1-Sep-2024,Genoa CH,3,Clay,Q1,409,1848,1,4,Alt,Mili Poljicak,Vladimir Uzhylovsky,6-4 2-1 RET,2.49,27.3%,3.0%,66.7%,90.9%,72.7%,0/0,57.7%,37.8%,17.8%,37.9%,37.5%,1/7,78,9,1,33,22,11,8,0:46
+14-Oct-2024,Olbia CH,3,Hard,R32,299,115,0,,4,Duje Ajdukovic,Mili Poljicak,3-2 RET,1.09,6.7%,0.0%,46.7%,71.4%,62.5%,1/2,48.6%,36.4%,4.5%,35.7%,37.5%,0/3,37,1,0,15,7,8,1,0:29
+7-Oct-2024,Roanne CH,3,Hard,R16,327,415,0,,Q,David Jorda Sanchis,Mili Poljicak,3-6 6-3 6-4,1.04,6.7%,2.2%,56.2%,82.0%,46.2%,7/9,49.7%,35.0%,9.0%,23.6%,64.3%,1/9,189,6,2,89,50,39,9,2:15
+7-Oct-2024,Roanne CH,3,Hard,R32,327,281,1,,Q,Mili Poljicak,Robin Bertrand,6-2 7-5,1.49,16.1%,5.4%,62.5%,85.7%,57.1%,0/0,57.0%,37.3%,2.0%,33.3%,44.4%,3/4,107,9,3,56,35,21,1,1:15
+30-Sep-2024,Villena CH,3,Hard,R32,327,146,0,,6,Kamil Majchrzak,Mili Poljicak,6-4 7-6(4),0.77,14.1%,3.5%,45.9%,74.4%,50.0%,4/5,46.5%,29.7%,5.4%,20.9%,41.9%,0/2,159,12,3,85,39,46,4,1:51
+23-Sep-2024,M25 Zlatibor,3,Clay,F,326,393,0,1,2,Mathys Erhard,Mili Poljicak,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Zlatibor,3,Clay,SF,326,488,1,1,8,Mili Poljicak,Tommaso Compagnucci,6-2 6-7(1) 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Zlatibor,3,Clay,QF,326,450,1,1,5,Mili Poljicak,Marko Topo,2-6 7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Zlatibor,3,Clay,R16,326,711,1,1,SE,Mili Poljicak,Marlon Vankan,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Zlatibor,3,Clay,R32,326,1301,1,1,WC,Mili Poljicak,Marko Maksimovic,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Genoa CH,3,Clay,QF,409,214,0,Q,,Stefano Travaglia,Mili Poljicak,6-7(6) 6-2 6-2,0.71,5.9%,2.9%,52.0%,67.9%,42.9%,8/13,44.3%,31.1%,4.4%,25.0%,37.0%,1/7,192,6,3,102,53,49,4,2:36
+2-Sep-2024,Genoa CH,3,Clay,R16,409,325,1,Q,Alt,Mili Poljicak,Martin Klizan,4-6 6-2 6-1,1.44,14.1%,7.0%,63.4%,80.0%,50.0%,1/2,54.5%,44.8%,3.8%,40.6%,51.2%,4/17,176,10,5,71,45,26,4,2:24
+2-Sep-2024,Genoa CH,3,Clay,R32,409,170,1,Q,8,Mili Poljicak,Andrea Pellegrino,7-5 6-2,1.72,18.5%,3.7%,48.1%,92.3%,53.6%,1/2,57.1%,47.7%,3.5%,43.4%,54.5%,4/15,140,10,2,54,26,28,3,1:45
+2-Sep-2024,Genoa CH,3,Clay,Q2,409,429,1,4,7,Mili Poljicak,Giovanni Oradini,6-3 6-4,1.16,14.7%,2.9%,45.6%,93.5%,43.2%,3/4,53.5%,39.3%,6.6%,27.0%,58.3%,3/10,129,10,2,68,31,37,4,1:43
+2-Sep-2024,Genoa CH,3,Clay,Q1,409,1848,1,4,Alt,Mili Poljicak,Vladimir Uzhylovsky,6-4 2-1 RET,2.49,27.3%,3.0%,66.7%,90.9%,72.7%,0/0,57.7%,37.8%,17.8%,37.9%,37.5%,1/7,78,9,1,33,22,11,8,0:46
 19-Aug-2024,M25 Maribor,3,Clay,F,476,472,1,7,8,Mili Poljicak,Oleksandr Ovcharenko,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Maribor,3,Clay,SF,476,320,1,7,2,Mili Poljicak,Jonas Forejtek,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Maribor,3,Clay,QF,476,619,1,7,,Mili Poljicak,Florian Broska,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -14,8 +23,9 @@
 12-Aug-2024,M25 Maribor,3,Clay,QF,473,939,1,,PR,Mili Poljicak,Blaz Rola,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Maribor,3,Clay,R16,473,702,1,,,Mili Poljicak,Daniel Paty,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Maribor,3,Clay,R32,473,1593,1,,Q,Mili Poljicak,Filippo Moroni,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q2,480,451,1,8,6,Mili Poljicak,Hynek Barton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q1,480,1000,1,8,WC,Mili Poljicak,Matyas Cerny,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Liberec CH,3,Clay,R32,480,237,0,Q,3,Filip Cristian Jianu,Mili Poljicak,7-5 6-2,0.65,4.9%,4.9%,55.7%,58.8%,40.7%,3/7,41.1%,31.7%,0.0%,32.4%,30.8%,1/4,124,3,3,61,34,27,0,1:35
+29-Jul-2024,Liberec CH,3,Clay,Q2,480,451,1,8,6,Mili Poljicak,Hynek Barton,6-1 6-4,1.84,12.2%,4.1%,49.0%,83.3%,68.0%,3/3,60.0%,45.1%,3.9%,34.3%,68.8%,3/5,100,6,2,49,24,25,2,1:07
+29-Jul-2024,Liberec CH,3,Clay,Q1,480,1000,1,8,WC,Mili Poljicak,Matyas Cerny,6-2 4-6 7-6(5),1.09,6.3%,3.2%,41.1%,71.8%,48.2%,6/11,51.5%,45.9%,1.8%,32.8%,64.4%,6/13,204,6,3,95,39,56,2,2:22
 22-Jul-2024,Umag,3,Clay,R32,481,54,0,WC,,Lorenzo Sonego,Mili Poljicak,6-2 6-7(1) 7-6(9),0.78,4.1%,2.5%,48.4%,72.9%,54.0%,4/7,47.3%,28.8%,4.8%,24.7%,38.7%,1/3,226,5,3,122,59,63,5,3:16
 8-Jul-2024,M15 Umag,3,Clay,F,635,1308,1,4,Q,Mili Poljicak,Nikola Basic,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Umag,3,Clay,SF,635,362,1,4,1,Mili Poljicak,Corentin Denolly,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -75,12 +85,12 @@
 22-Jan-2024,M15 Monastir,3,Hard,R16,706,756,1,,,Mili Poljicak,Stuart Parker,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M15 Monastir,3,Hard,R32,706,724,1,,Q,Mili Poljicak,Peter Benjamin Privara,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Monastir,3,Hard,R32,706,684,0,,8,David Perez Sanz,Mili Poljicak,3-6 6-2 7-6(8),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Heraklion,3,,R16,739,579,0,,7,Jakub Nicod,Mili Poljicak,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Heraklion,3,,R32,739,1607,1,,Q,Mili Poljicak,Anthony Genov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,SF,738,567,0,,,Arthur Gea,Mili Poljicak,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,QF,738,525,1,,4,Mili Poljicak,Alex Knaff,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,R16,738,624,1,,5,Mili Poljicak,Alec Deckers,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,R32,738,,1,,Q,Mili Poljicak,Nazar Oliynykov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,Hard,R16,739,579,0,,7,Jakub Nicod,Mili Poljicak,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,Hard,R32,739,1607,1,,Q,Mili Poljicak,Anthony Genov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,SF,738,567,0,,,Arthur Gea,Mili Poljicak,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,QF,738,525,1,,4,Mili Poljicak,Alex Knaff,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,R16,738,624,1,,5,Mili Poljicak,Alec Deckers,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,R32,738,,1,,Q,Mili Poljicak,Nazar Oliynykov,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Ismaning CH,3,Carpet,R32,747,173,0,,8,Marc Andrea Huesler,Mili Poljicak,6-4 6-1,0.00,11.5%,9.6%,55.8%,65.5%,34.8%,3/7,32.1%,0.0%,46.9%,0.0%,0.0%,0/0,84,6,5,52,29,23,15,0:42
 23-Oct-2023,M15 Monastir,3,Hard,R32,752,1235,0,8,Q,Jean Christian Morandais,Mili Poljicak,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,Fairfield CH,3,Hard,Q1,696,433,0,,7,August Holmgren,Mili Poljicak,6-2 6-4,0.70,1.9%,9.6%,46.2%,75.0%,39.3%,2/6,43.0%,30.9%,14.5%,12.1%,59.1%,1/1,107,1,5,52,24,28,8,1:17

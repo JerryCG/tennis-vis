@@ -1,8 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+23-Sep-2024,M25 Zlatibor,3,Clay,R32,623,736,0,,,Andrej Nedic,Dusan Obradovic,1-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Kursumlijska Banja ,3,Clay,R16,543,725,0,4,,Marlon Vankan,Dusan Obradovic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Kursumlijska Banja ,3,Clay,R32,543,,1,4,WC,Dusan Obradovic,Sergej Zivkovic,6-4 4-6 12-10,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Kursumlijska Banja,3,Clay,QF,527,1137,0,3,,Aleksa Pisaric,Dusan Obradovic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Kursumlijska Banja,3,Clay,R16,527,1100,1,3,,Dusan Obradovic,Iannis Miletich,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Kursumlijska Banja,3,Clay,R32,527,1690,1,3,Q,Dusan Obradovic,Stefan Latinovic,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Pirot,3,Clay,QF,528,572,0,2,5,Tommaso Compagnucci,Dusan Obradovic,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Pirot,3,Clay,R16,528,1363,1,2,Q,Dusan Obradovic,Lazar Vojinovic,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Pirot,3,Clay,R32,528,,1,2,Q,Dusan Obradovic,Caheer Warik,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,Q1,521,1324,0,10,WC,Gabriele Vulpitta,Dusan Obradovic,3-6 7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,Q1,521,1324,0,10,WC,Gabriele Vulpitta,Dusan Obradovic,3-6 7-6(5) 6-1,0.84,1.9%,5.8%,48.1%,62.0%,51.9%,11/16,47.8%,36.3%,1.3%,28.1%,56.5%,3/5,184,2,6,104,50,54,1,2:17
 5-Aug-2024,Bonn CH,3,Clay,Q1,511,,0,Alt,2,Jakub Nicod,Dusan Obradovic,7-6(5) 6-7(3) 7-5,0.92,2.9%,3.7%,55.1%,69.3%,41.0%,15/22,48.6%,39.8%,4.9%,30.4%,47.8%,6/9,259,4,5,136,75,61,6,2:43
 22-Jul-2024,M15 Kursumlijska Banja,3,Clay,QF,538,1254,0,2,Q,Mert Naci Turker,Dusan Obradovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M15 Kursumlijska Banja,3,Clay,R16,538,1715,1,2,Q,Dusan Obradovic,Loan Lestir,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -50,8 +56,8 @@
 11-Mar-2024,M15 Rovinj,3,Clay,R16,684,413,0,,2,Sandro Kopp,Dusan Obradovic,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 11-Mar-2024,M15 Rovinj,3,Clay,R32,684,1630,1,,Q,Dusan Obradovic,Yvo Panak,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 4-Mar-2024,M15 Porec,3,Clay,R32,684,539,0,,5,Stefan Popovic,Dusan Obradovic,6-7(3) 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Sharm ElSheikh,3,,R32,676,821,0,8,,Max Wiskandt,Dusan Obradovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Sharm ElSheikh,3,,R32,673,1181,0,6,,Mees Rottgering,Dusan Obradovic,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,Hard,R32,676,821,0,8,,Max Wiskandt,Dusan Obradovic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Sharm ElSheikh,3,Hard,R32,673,1181,0,6,,Mees Rottgering,Dusan Obradovic,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M25 Pazardzhik,3,Clay,R32,679,389,0,,3,Max Houkes,Dusan Obradovic,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2023,M15 Kursumlijska Banja,3,Clay,R32,760,971,0,,,Gabriel Donev,Dusan Obradovic,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2023,M15 Kursumlijska Banja,3,Clay,F,787,568,1,,5,Dusan Obradovic,Svyatoslav Gulin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,

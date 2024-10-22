@@ -1,5 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Sep-2024,Dobrich CH,3,Clay,Q1,622,1761,0,12,WC,Georgi Georgiev,William Grant,6-4 6-3,0.80,3.4%,3.4%,52.5%,61.3%,35.7%,2/7,44.7%,40.6%,10.9%,30.8%,47.4%,3/5,123,2,2,59,31,28,7,1:29
+7-Oct-2024,M25 Louisville KY,3,Hard,R32,667,1619,0,7,WC,Will Mayew,William Grant,6-3 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M15 Ann Arbor MI,3,Hard,R32,667,,0,2,WC,Patorn Hanchaikul,William Grant,6-0 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,Q1,614,1759,0,12,WC,Georgi Georgiev,William Grant,6-4 6-3,0.80,3.4%,3.4%,52.5%,61.3%,35.7%,2/7,44.7%,40.6%,10.9%,30.8%,47.4%,3/5,123,2,2,59,31,28,7,1:29
+2-Sep-2024,Seville CH,3,Clay,Q1,622,351,0,Alt,2,Guy Den Ouden,William Grant,7-6(2) 6-2,0.71,2.7%,2.7%,67.6%,66.0%,50.0%,3/5,45.1%,27.9%,7.4%,18.4%,40.0%,0/2,142,2,2,74,50,24,5,1:54
 12-Aug-2024,Santo Domingo CH,3,Clay,Q2,646,459,0,12,6,Kiranpal Pannu,William Grant,6-2 3-0 RET,0.50,2.9%,8.6%,34.3%,33.3%,52.2%,1/4,36.1%,27.0%,13.5%,25.0%,28.0%,0/2,72,1,3,35,12,23,5,1:05
 12-Aug-2024,Santo Domingo CH,3,Clay,Q1,646,838,1,12,Alt,William Grant,Trey Hilderbrand,6-3 7-5,1.10,8.1%,8.1%,58.1%,79.1%,45.2%,4/5,52.1%,38.6%,12.9%,26.3%,53.1%,3/6,144,6,6,74,43,31,9,1:35
 29-Jul-2024,M25 Edwardsville IL,3,Hard,R16,653,946,0,4,,Kenta Miyoshi,William Grant,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -39,10 +42,10 @@
 29-Jan-2024,Cleveland CH,3,Hard,R32,836,313,0,Q,,Sebastian Fanselow,William Grant,7-6(3) 6-1,0.72,6.0%,6.0%,61.2%,65.9%,34.6%,5/8,43.2%,33.3%,9.7%,19.4%,47.2%,0/3,139,4,4,67,41,26,7,1:41
 29-Jan-2024,Cleveland CH,3,Hard,Q1,836,618,1,,5,William Grant,Olukayode Alafia Damina Ayeni,6-1 1-6 6-2,1.19,6.1%,1.5%,56.1%,73.0%,44.8%,4/7,53.7%,47.1%,10.3%,41.5%,55.6%,5/11,134,4,1,66,37,29,7,1:41
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,838,528,0,,6,Roberto Cid,William Grant,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,SF,881,1011,0,6,,Samir Banerjee,William Grant,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,QF,881,1169,1,6,,William Grant,Arda Azkara,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R16,881,,1,6,,William Grant,Damien Salvestre,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R32,881,1379,1,6,,William Grant,Casey Hoole,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,SF,881,1011,0,6,,Samir Banerjee,William Grant,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,QF,881,1169,1,6,,William Grant,Arda Azkara,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R16,881,,1,6,,William Grant,Damien Salvestre,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R32,881,1379,1,6,,William Grant,Casey Hoole,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Winston-Salem NC,3,Hard,R32,882,1096,0,4,,Luciano Tacchi,William Grant,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Saint-Augustin,3,Hard,R16,807,722,0,,8,Kiranpal Pannu,William Grant,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Saint-Augustin,3,Hard,R32,807,,1,,Q,William Grant,Adam Faragcao,6-2 6-1,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,Fairfield CH,3,Hard,R16,301,206,0,WC,6,Brandon Holt,Eliot Spizzirri,7-5 7-5,0.90,6.8%,1.4%,68.5%,62.0%,47.8%,0/4,47.2%,38.4%,4.7%,31.5%,50.0%,2/8,159,5,1,73,50,23,4,1:49
+7-Oct-2024,Fairfield CH,3,Hard,R32,301,774,1,WC,Q,Eliot Spizzirri,Trey Hilderbrand,6-3 3-1 RET,1.99,7.3%,4.9%,85.4%,82.9%,50.0%,5/5,61.3%,43.6%,7.7%,33.3%,55.6%,2/5,80,3,2,41,35,6,3,0:53
+30-Sep-2024,Tiburon CH,3,Hard,F,301,199,0,,,Nishesh Basavareddy,Eliot Spizzirri,6-1 6-1,0.50,2.3%,4.5%,63.6%,42.9%,25.0%,3/9,34.1%,31.7%,12.2%,22.2%,50.0%,1/3,85,1,2,44,28,16,5,1:01
+30-Sep-2024,Tiburon CH,3,Hard,SF,301,148,1,,2,Eliot Spizzirri,Learner Tien,7-6(6) 6-7(3) 6-2,1.17,4.5%,2.7%,69.1%,65.8%,58.8%,6/9,53.2%,42.5%,4.7%,37.3%,51.3%,5/11,216,5,3,110,76,34,5,2:27
+30-Sep-2024,Tiburon CH,3,Hard,QF,301,171,1,,3,Eliot Spizzirri,J J Wolf,6-3 1-6 7-5,0.95,5.7%,4.6%,63.2%,52.7%,37.5%,9/17,48.5%,50.0%,14.5%,41.7%,64.3%,8/14,163,5,4,87,55,32,11,2:00
+30-Sep-2024,Tiburon CH,3,Hard,R16,301,239,1,,6,Eliot Spizzirri,Abedallah Shelbayh,4-6 7-6(2) 6-4,1.15,5.1%,0.0%,64.6%,60.9%,60.0%,2/7,52.3%,45.5%,4.1%,32.9%,64.6%,5/14,220,5,0,99,64,35,5,2:36
+30-Sep-2024,Tiburon CH,3,Hard,R32,301,757,1,,Q,Eliot Spizzirri,Ozan Baris,3-6 6-3 6-3,1.00,8.2%,2.4%,63.5%,68.5%,45.2%,3/6,50.3%,40.0%,12.5%,32.7%,51.6%,5/10,165,7,2,85,54,31,10,1:50
+23-Sep-2024,Charleston CH,3,Hard,Q1,298,728,0,1,Alt,Stefan Dostanic,Eliot Spizzirri,3-6 7-6(4) 6-4,1.03,11.9%,4.0%,62.4%,82.5%,44.7%,2/3,50.5%,32.7%,6.9%,25.4%,44.7%,1/6,202,12,4,101,63,38,7,2:30
+16-Sep-2024,Columbus CH,3,Hard,R32,300,193,0,,6,Abedallah Shelbayh,Eliot Spizzirri,6-1 6-0,0.56,5.0%,12.5%,47.5%,52.6%,28.6%,2/7,36.3%,33.3%,2.0%,20.0%,52.4%,0/8,91,2,5,40,19,21,1,1:05
+9-Sep-2024,Las Vegas CH,3,Hard,R16,308,239,0,,7,Bernard Tomic,Eliot Spizzirri,7-5 6-7(3) 6-4,0.92,9.6%,4.8%,61.5%,75.0%,65.0%,3/5,48.6%,26.4%,10.4%,14.0%,40.8%,0/6,210,10,5,104,64,40,11,2:30
+9-Sep-2024,Las Vegas CH,3,Hard,R32,308,407,1,,,Eliot Spizzirri,Bruno Kuzuhara,7-5 6-4,1.26,7.1%,7.1%,67.1%,76.6%,43.5%,3/4,53.7%,43.0%,2.5%,45.7%,39.4%,3/10,149,5,5,70,47,23,2,1:46
 26-Aug-2024,US Open,5,Hard,R128,341,49,0,Q,,Alex Michelsen,Eliot Spizzirri,6-1 7-5 6-3,0.66,1.3%,7.9%,52.6%,45.0%,38.9%,4/13,40.0%,38.0%,5.1%,30.2%,47.2%,4/7,155,1,6,76,40,36,4,1:58
 26-Aug-2024,US Open,5,Hard,Q3,341,162,1,WC,,Eliot Spizzirri,Joao Fonseca,7-6(8) 6-7(5) 6-4,1.28,2.9%,3.8%,53.8%,75.0%,64.6%,2/5,52.3%,38.2%,9.2%,29.8%,53.2%,4/12,235,3,4,104,56,48,12,2:37
 26-Aug-2024,US Open,5,Hard,Q2,341,211,1,WC,,Eliot Spizzirri,Joris De Loore,7-5 7-6(5),1.15,1.2%,6.0%,54.8%,80.4%,57.9%,1/1,52.4%,34.1%,9.8%,19.0%,50.0%,1/5,166,1,5,84,46,38,8,1:51
@@ -10,10 +21,10 @@
 29-Jul-2024,Washington,3,Hard,Q1,345,152,0,WC,8,Radu Albot,Eliot Spizzirri,6-0 6-2,0.46,6.3%,0.0%,58.3%,60.7%,20.0%,5/10,35.6%,25.6%,7.7%,26.9%,23.1%,0/0,87,3,0,48,28,20,3,1:03
 15-Jul-2024,Newport,3,Grass,R16,393,65,0,WC,6,Aleksandar Vukic,Eliot Spizzirri,6-2 7-6(3),0.56,9.1%,4.5%,60.6%,67.5%,42.3%,3/6,42.1%,23.6%,9.1%,20.5%,31.3%,1/2,121,6,3,66,40,26,5,1:28
 15-Jul-2024,Newport,3,Grass,R32,393,208,1,WC,Q,Eliot Spizzirri,Li Tu,6-1 7-6(4),1.52,7.8%,4.7%,64.1%,80.5%,52.2%,4/5,56.9%,45.2%,1.4%,41.3%,51.9%,4/9,137,5,3,64,41,23,1,1:20
-8-Jul-2024,Winnipeg CH,3,Hard,SF,525,251,0,,,Sho Shimabukuro,Eliot Spizzirri,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,QF,525,183,1,,7,Eliot Spizzirri,Hugo Grenier,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,R16,525,115,1,,1,Eliot Spizzirri,J J Wolf,7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Winnipeg CH,3,Hard,R32,525,1833,1,,WC,Eliot Spizzirri,Keegan Rice,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Winnipeg CH,3,Hard,SF,525,251,0,,,Sho Shimabukuro,Eliot Spizzirri,6-3 1-6 6-4,1.14,6.6%,2.6%,69.7%,60.4%,65.2%,4/8,51.1%,43.4%,7.5%,36.8%,55.3%,4/10,182,5,2,76,53,23,8,2:11
+8-Jul-2024,Winnipeg CH,3,Hard,QF,525,183,1,,7,Eliot Spizzirri,Hugo Grenier,6-3 6-4,1.27,6.8%,9.5%,51.4%,71.1%,58.3%,4/5,55.4%,44.6%,4.6%,37.5%,51.5%,3/6,139,5,7,74,38,36,3,1:51
+8-Jul-2024,Winnipeg CH,3,Hard,R16,525,115,1,,1,Eliot Spizzirri,J J Wolf,7-6(1) 6-3,1.06,8.2%,1.4%,61.6%,68.9%,64.3%,2/3,52.6%,35.0%,5.0%,23.3%,46.7%,2/5,133,6,1,73,45,28,3,1:44
+8-Jul-2024,Winnipeg CH,3,Hard,R32,525,1833,1,,WC,Eliot Spizzirri,Keegan Rice,6-3 7-5,1.86,6.3%,10.4%,56.3%,92.6%,52.4%,0/2,59.6%,46.4%,3.6%,17.9%,75.0%,5/6,104,3,5,48,27,21,2,1:15
 1-Jul-2024,M25 Laval,3,Hard,F,525,1117,1,7,Q,Eliot Spizzirri,Karl Poling,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Laval,3,Hard,SF,525,279,1,7,2,Eliot Spizzirri,Clement Chidekh,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Laval,3,Hard,QF,525,325,1,7,3,Eliot Spizzirri,Blaise Bicknell,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -30,14 +41,14 @@
 10-Jun-2024,M25 Wichita KS,3,Hard,R16,742,736,1,,,Eliot Spizzirri,Axel Nefve,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Wichita KS,3,Hard,R32,742,1418,1,,LL,Eliot Spizzirri,Preston Stearns,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Mar-2024,Miami Masters,3,Hard,Q1,723,94,0,WC,11,J J Wolf,Eliot Spizzirri,6-3 7-5,0.65,5.9%,1.5%,79.4%,63.0%,42.9%,4/7,44.4%,26.8%,14.3%,20.0%,38.1%,1/1,124,4,1,68,54,14,8,1:28
-13-Nov-2023,M15 East Lansing MI,3,,SF,819,714,0,3,2,Ozan Baris,Eliot Spizzirri,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,QF,819,1963,1,3,WC,Eliot Spizzirri,Aristotelis Thanos,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R16,819,1535,1,3,Q,Eliot Spizzirri,Jeremy Schifris,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R32,819,1005,1,3,,Eliot Spizzirri,Robin Catry,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Nov-2023,M25  Austin TX,3,Hard,SF,819,1931,0,,WC,Pierre Yves Bailly,Eliot Spizzirri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Nov-2023,M25  Austin TX,3,Hard,QF,819,758,1,,,Eliot Spizzirri,Colin Markes,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Nov-2023,M25  Austin TX,3,Hard,R16,819,573,1,,3,Eliot Spizzirri,Yassine Dlimi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Nov-2023,M25  Austin TX,3,Hard,R32,819,866,1,,,Eliot Spizzirri,Adam Neff,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,SF,819,714,0,3,2,Ozan Baris,Eliot Spizzirri,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,QF,819,1963,1,3,WC,Eliot Spizzirri,Aristotelis Thanos,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R16,819,1535,1,3,Q,Eliot Spizzirri,Jeremy Schifris,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R32,819,1005,1,3,,Eliot Spizzirri,Robin Catry,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Austin TX,3,Hard,SF,819,1931,0,,WC,Pierre Yves Bailly,Eliot Spizzirri,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Austin TX,3,Hard,QF,819,758,1,,,Eliot Spizzirri,Colin Markes,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Austin TX,3,Hard,R16,819,573,1,,3,Eliot Spizzirri,Yassine Dlimi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Austin TX,3,Hard,R32,819,866,1,,,Eliot Spizzirri,Adam Neff,6-4 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Charlottesville CH,3,Hard,R32,824,284,0,,,Nino Serdarusic,Eliot Spizzirri,6-1 2-6 6-4,0.90,3.0%,6.0%,62.7%,59.5%,56.0%,4/8,47.2%,37.7%,15.6%,30.5%,61.1%,3/6,144,2,4,67,42,25,12,1:44
 9-Oct-2023,Fairfield CH,3,Hard,R32,832,391,0,,LL,Federico Agustin Gomez,Eliot Spizzirri,3-6 6-3 6-3,0.90,5.8%,3.5%,68.6%,64.4%,48.1%,7/10,47.7%,36.7%,7.8%,34.0%,40.0%,1/5,176,5,3,86,59,27,7,1:59
 28-Aug-2023,US Open,5,Hard,Q3,1137,154,0,WC,,Emilio Nava,Eliot Spizzirri,6-3 3-6 3-1 RET,0.86,4.3%,1.4%,56.5%,66.7%,36.7%,3/7,46.7%,39.7%,13.2%,35.6%,47.8%,3/5,137,3,1,69,39,30,9,1:42

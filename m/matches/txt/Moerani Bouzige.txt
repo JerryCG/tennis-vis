@@ -1,7 +1,20 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Playford CH,3,Hard,R32,605,479,1,WC,,Moerani Bouzige,Jacob Bradshaw,4-6 7-5 6-3,1.16,14.4%,2.1%,68.0%,75.8%,48.4%,7/9,52.6%,38.4%,7.1%,30.3%,54.5%,3/8,196,14,2,97,66,31,7,2:20
+7-Oct-2024,M25 Cairns,3,Hard,QF,610,255,0,,2,Marc Polmans,Moerani Bouzige,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Cairns,3,Hard,R16,610,986,1,,,Moerani Bouzige,Thijmen Loof,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Cairns,3,Hard,R32,610,1090,1,,WC,Moerani Bouzige,Enzo Aguiard,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Cairns,3,Hard,R32,610,464,0,,5,Jake Delaney,Moerani Bouzige,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,QF,589,1329,0,5,,James Watt,Moerani Bouzige,4-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,R16,589,1710,1,5,Q,Moerani Bouzige,Reece Falck,3-6 7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Darwin,3,Hard,R32,589,1925,1,5,WC,Moerani Bouzige,Lachlan Vickery,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,R16,571,1208,0,4,,James Watt,Moerani Bouzige,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Darwin,3,Hard,R32,571,,1,4,Q,Moerani Bouzige,Derin Sen,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Bali,3,Hard,R32,559,461,0,,7,Andre Ilagan,Moerani Bouzige,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bali,3,Hard,R32,559,1275,0,6,,James Watt,Moerani Bouzige,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,Jinan CH,3,Hard,Q2,553,793,0,2,,Woobin Shin,Moerani Bouzige,7-6(5) 6-1,0.72,2.4%,8.5%,57.3%,63.8%,48.6%,7/10,45.3%,30.9%,7.4%,28.1%,33.3%,1/6,150,2,7,82,47,35,5,2:10
 19-Aug-2024,Jinan CH,3,Hard,Q1,553,,1,2,,Moerani Bouzige,Yun Seong Chung,1-6 6-3 7-5,1.05,7.1%,5.9%,57.6%,65.3%,52.8%,6/10,51.2%,42.2%,9.6%,33.3%,56.3%,4/7,168,6,5,85,49,36,8,2:08
 12-Aug-2024,M25 Yinchuan,3,Hard,R32,558,353,0,,2,Jie Cui,Moerani Bouzige,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Astana CH,3,Hard,R32,564,356,0,,3,Dimitar Kuzmanov,Moerani Bouzige,6-1 7-6(6),0.67,8.5%,1.7%,50.8%,83.3%,34.5%,2/5,43.0%,27.4%,14.5%,23.4%,40.0%,1/3,121,5,1,59,30,29,9,1:32
 8-Jul-2024,M25 Tianjin,3,Hard,R16,570,702,0,8,,Ryotaro Taguchi,Moerani Bouzige,6-3 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Tianjin,3,Hard,R32,570,925,1,8,WC,Moerani Bouzige,Hanyi Liu,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Tianjin,3,Hard,QF,570,1572,0,4,Q,Alberto Lim,Moerani Bouzige,W/O,,,,,,,,,,,,,,,,,,,,,
@@ -43,18 +56,18 @@
 1-Jan-2024,Noumea CH,3,Hard,R32,677,175,1,Q,,Moerani Bouzige,Hugo Grenier,4-6 6-3 7-6(2),1.19,7.3%,3.1%,62.5%,81.7%,55.6%,3/4,52.0%,33.3%,10.8%,19.0%,56.4%,1/4,198,7,3,96,60,36,11,2:23
 1-Jan-2024,Noumea CH,3,Hard,Q2,677,480,1,9,5,Moerani Bouzige,Thomas Fancutt,5-7 7-6(7) 6-2,1.34,5.4%,3.2%,54.8%,78.4%,66.7%,3/5,53.6%,35.9%,19.4%,14.8%,59.2%,3/6,196,5,3,93,51,42,20,2:38
 1-Jan-2024,Noumea CH,3,Hard,Q1,677,,1,9,Alt,Moerani Bouzige,Blake Bayldon,6-2 6-3,2.01,2.1%,6.4%,63.8%,83.3%,64.7%,0/0,59.3%,47.0%,4.5%,39.5%,60.9%,3/9,113,1,3,47,30,17,3,1:24
-18-Dec-2023,M15 Papamoa,3,,QF,686,1167,0,4,,Jack Loutit,Moerani Bouzige,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R16,686,,1,4,WC,Moerani Bouzige,Reece Falck,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R32,686,,1,4,Q,Moerani Bouzige,Carl Emil Overbeck,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R16,696,459,0,,3,Ajeet Rai,Moerani Bouzige,7-6(3) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,696,,1,,Q,Moerani Bouzige,Andre Szilvassy,3-6 7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,QF,767,386,0,,3,Blake Ellis,Moerani Bouzige,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R16,767,902,1,,,Moerani Bouzige,Keisuke Saitoh,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,767,,1,,WC,Moerani Bouzige,Nikita Volonski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,SF,772,234,0,,1,Goncalo Oliveira,Moerani Bouzige,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,QF,772,535,1,,5,Moerani Bouzige,Nam Hoang Ly,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R16,772,400,1,,3,Moerani Bouzige,Blake Mott,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R32,772,784,1,,,Moerani Bouzige,Yunseok Jang,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,QF,686,1167,0,4,,Jack Loutit,Moerani Bouzige,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R16,686,,1,4,WC,Moerani Bouzige,Reece Falck,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R32,686,,1,4,Q,Moerani Bouzige,Carl Emil Overbeck,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R16,696,459,0,,3,Ajeet Rai,Moerani Bouzige,7-6(3) 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,696,,1,,Q,Moerani Bouzige,Andre Szilvassy,3-6 7-6(1) 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,QF,767,386,0,,3,Blake Ellis,Moerani Bouzige,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R16,767,902,1,,,Moerani Bouzige,Keisuke Saitoh,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,767,,1,,WC,Moerani Bouzige,Nikita Volonski,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,SF,772,234,0,,1,Goncalo Oliveira,Moerani Bouzige,6-7(4) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,QF,772,535,1,,5,Moerani Bouzige,Nam Hoang Ly,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R16,772,400,1,,3,Moerani Bouzige,Blake Mott,5-7 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R32,772,784,1,,,Moerani Bouzige,Yunseok Jang,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Hua Hin,3,Hard,R16,773,814,0,,,Andre Ilagan,Moerani Bouzige,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Hua Hin,3,Hard,R32,773,595,1,,5,Moerani Bouzige,Matthew Dellavedova,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Sydney CH,3,Hard,Q1,776,567,0,,10,Makoto Ochi,Moerani Bouzige,6-2 6-2,0.59,1.9%,7.5%,56.6%,60.0%,34.8%,3/7,39.8%,30.0%,10.0%,21.2%,47.1%,0/4,103,1,4,53,30,23,5,1:08

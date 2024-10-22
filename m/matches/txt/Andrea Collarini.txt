@@ -1,8 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-12-Aug-2024,Todi CH,3,Clay,R32,243,294,0,6,,Matej Dodig,Andrea Collarini,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,QF,257,359,0,,ALT,Andrew Paulson,Andrea Collarini,4-6 6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R16,257,124,1,,1,Andrea Collarini,Albert Ramos,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R32,257,351,1,,Q,Andrea Collarini,Luka Mikrut,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Campinas CH,3,Clay,R32,205,130,0,,5,Roman Andres Burruchaga,Andrea Collarini,6-4 6-2,0.63,0.0%,14.5%,54.5%,66.7%,32.0%,2/6,41.1%,30.8%,5.8%,21.4%,41.7%,1/4,107,0,8,55,30,25,3,1:26
+7-Oct-2024,Villa Maria CH,3,Clay,R16,219,130,0,,6,Roman Andres Burruchaga,Andrea Collarini,6-3 4-1 RET,0.64,0.0%,2.6%,71.8%,60.7%,27.3%,2/6,40.7%,31.0%,2.4%,20.0%,47.1%,1/3,81,0,1,39,28,11,1,1:06
+7-Oct-2024,Villa Maria CH,3,Clay,R32,219,189,1,,,Andrea Collarini,Juan Pablo Varillas,2-6 7-5 6-3,1.01,2.1%,3.1%,72.9%,60.0%,46.2%,6/11,50.5%,44.2%,1.2%,40.7%,50.0%,5/11,182,2,3,96,70,26,1,2:24
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R16,219,118,0,,5,Jesper De Jong,Andrea Collarini,6-4 6-3,0.60,3.4%,1.7%,70.7%,53.7%,70.6%,6/9,42.7%,25.0%,7.7%,17.6%,38.9%,1/1,110,2,1,58,41,17,4,1:35
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R32,219,470,1,,Q,Andrea Collarini,Tomas Farjat,6-2 3-6 6-0,1.70,1.7%,3.3%,71.7%,76.7%,64.7%,0/1,57.9%,45.2%,6.8%,23.8%,74.2%,5/10,133,1,2,60,43,17,5,1:31
+23-Sep-2024,Antofagasta CH,3,Clay,SF,229,206,0,,8,Juan Manuel Cerundolo,Andrea Collarini,6-3 6-2,0.68,0.0%,1.8%,54.5%,56.7%,36.0%,2/7,41.4%,36.1%,4.9%,20.5%,63.6%,2/5,116,0,1,55,30,25,3,1:33
+23-Sep-2024,Antofagasta CH,3,Clay,QF,229,156,1,,4,Andrea Collarini,Gustavo Heide,6-3 1-6 6-1,1.21,1.4%,2.8%,71.8%,70.6%,55.0%,3/5,53.5%,40.8%,2.8%,35.0%,48.4%,3/10,142,1,2,71,51,20,2,2:12
+23-Sep-2024,Antofagasta CH,3,Clay,R16,229,340,1,,,Andrea Collarini,Matheus Pucinelli De Almeida,3-6 6-3 6-3,1.19,2.4%,4.9%,65.9%,66.7%,46.4%,5/9,53.4%,47.9%,1.0%,33.3%,59.3%,6/13,178,2,4,82,54,28,1,2:39
+23-Sep-2024,Antofagasta CH,3,Clay,R32,229,558,1,,LL,Andrea Collarini,Wilson Leite,6-2 6-3,1.71,0.0%,0.0%,83.0%,66.7%,87.5%,1/2,59.6%,50.9%,0.0%,44.4%,56.7%,5/8,104,0,0,47,39,8,0,1:38
+16-Sep-2024,Cali CH,3,Clay,SF,255,271,0,,,Gonzalo Bueno,Andrea Collarini,6-4 6-1,0.60,2.2%,6.7%,66.7%,66.7%,13.3%,1/5,39.4%,30.6%,2.0%,30.3%,31.3%,1/1,94,1,3,45,30,15,1,1:15
+16-Sep-2024,Cali CH,3,Clay,QF,255,309,1,,,Andrea Collarini,Mateus Alves,6-0 6-3,2.25,4.9%,2.4%,85.4%,77.1%,66.7%,2/2,64.1%,54.9%,0.0%,45.2%,70.0%,5/10,92,2,1,41,35,6,0,1:11
+16-Sep-2024,Cali CH,3,Clay,R16,255,,1,,Q,Andrea Collarini,Juan Ignacio Londero,6-3 6-3,1.41,5.5%,5.5%,81.8%,71.1%,40.0%,3/4,55.5%,48.8%,0.0%,45.7%,52.8%,4/10,137,3,3,55,45,10,0,1:40
+16-Sep-2024,Cali CH,3,Clay,R32,255,388,1,,Alt,Andrea Collarini,Valerio Aboian,6-2 7-5,1.14,0.0%,3.8%,69.6%,61.8%,62.5%,8/9,53.4%,43.3%,4.5%,40.5%,48.0%,4/10,146,0,3,79,55,24,3,1:53
+2-Sep-2024,M15 Cordoba,3,Clay,F,242,515,1,1,7,Andrea Collarini,Mariano Kestelboim,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,SF,242,467,1,1,4,Andrea Collarini,Lorenzo Joaquin Rodriguez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,QF,242,474,1,1,5,Andrea Collarini,Tomas Farjat,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R16,242,650,1,1,,Andrea Collarini,Juan Manuel La Serna,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R32,242,1237,1,1,Q,Andrea Collarini,Mateo Del Pino,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,R32,243,294,0,6,,Matej Dodig,Andrea Collarini,6-3 7-5,0.71,1.5%,6.2%,58.5%,57.9%,44.4%,0/5,43.8%,33.9%,14.3%,25.0%,45.8%,2/6,121,1,4,65,38,27,8,1:45
+5-Aug-2024,Cordenons CH,3,Clay,QF,257,359,0,,Alt,Andrew Paulson,Andrea Collarini,4-6 6-4 7-6(5),0.97,5.2%,6.2%,71.1%,65.2%,46.4%,2/7,49.2%,39.0%,10.0%,27.9%,56.4%,5/10,197,5,6,97,69,28,10,2:39
+5-Aug-2024,Cordenons CH,3,Clay,R16,257,124,1,,1,Andrea Collarini,Albert Ramos,7-6(5) 6-1,1.31,1.4%,4.3%,65.7%,58.7%,50.0%,3/7,56.7%,57.8%,1.6%,48.4%,66.7%,6/11,134,1,3,70,46,24,1,2:02
+5-Aug-2024,Cordenons CH,3,Clay,R32,257,351,1,,Q,Andrea Collarini,Luka Mikrut,7-5 6-1,1.42,5.0%,11.7%,58.3%,77.1%,52.0%,5/6,57.5%,47.2%,0.0%,33.3%,58.6%,4/5,113,3,7,60,35,25,0,1:30
 29-Jul-2024,San Marino CH,3,Clay,R32,257,397,0,,WC,Marco Cecchinato,Andrea Collarini,6-3 3-6 6-3,1.05,5.7%,0.0%,80.0%,67.9%,64.3%,2/5,49.4%,34.5%,6.0%,24.1%,53.3%,2/7,154,4,0,70,56,14,5,1:56
 22-Jul-2024,Kitzbuhel,3,Clay,R32,264,143,0,Q,WC,Nicolas Moreno De Alboran,Andrea Collarini,6-4 6-4,0.59,0.0%,3.1%,64.6%,61.9%,47.8%,2/5,43.1%,25.5%,5.9%,20.0%,30.8%,1/2,116,0,2,65,42,23,3,1:27
 22-Jul-2024,Kitzbuhel,3,Clay,Q2,264,322,1,,WC,Andrea Collarini,Sandro Kopp,6-2 3-0 RET,2.06,0.0%,2.6%,78.9%,73.3%,62.5%,5/5,65.0%,59.5%,4.8%,56.5%,63.2%,4/7,80,0,1,38,30,8,2,1:04
@@ -10,10 +28,10 @@
 15-Jul-2024,Gstaad,3,Clay,Q1,267,143,0,,2,Nicolas Moreno De Alboran,Andrea Collarini,6-2 6-2,0.54,0.0%,0.0%,76.4%,59.5%,23.1%,4/8,40.0%,26.7%,20.0%,13.8%,50.0%,0/0,100,0,0,55,42,13,9,
 8-Jul-2024,M25 Padova,3,Clay,R16,292,602,0,2,,Gianmarco Ferrari,Andrea Collarini,7-5 RET,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Padova,3,Clay,R32,292,616,1,2,,Andrea Collarini,Giuseppe La Vela,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,SF,292,459,0,,WC,Federico Arnaboldi,Andrea Collarini,1-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,QF,292,159,1,,7,Andrea Collarini,Juan Pablo Varillas,6-4 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,R16,292,282,1,,,Andrea Collarini,Gonzalo Bueno,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,Modena CH,3,Clay,R32,292,127,1,,2,Andrea Collarini,Thiago Agustin Tirante,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,SF,292,459,0,,WC,Federico Arnaboldi,Andrea Collarini,1-6 7-6(3) 6-2,1.25,1.4%,2.9%,68.6%,70.8%,72.7%,0/2,50.3%,35.6%,4.0%,20.7%,55.8%,3/7,171,1,2,70,48,22,4,2:21
+1-Jul-2024,Modena CH,3,Clay,QF,292,159,1,,7,Andrea Collarini,Juan Pablo Varillas,6-4 4-6 7-5,1.18,3.2%,2.1%,70.2%,72.7%,64.3%,3/4,52.0%,35.3%,4.9%,30.4%,45.5%,2/11,196,3,2,94,66,28,5,2:47
+1-Jul-2024,Modena CH,3,Clay,R16,292,282,1,,,Andrea Collarini,Gonzalo Bueno,7-5 6-3,1.18,2.2%,1.1%,71.7%,54.5%,57.7%,13/16,54.4%,52.6%,0.0%,43.8%,64.0%,6/8,149,2,1,92,66,26,0,2:00
+1-Jul-2024,Modena CH,3,Clay,R32,292,127,1,,2,Andrea Collarini,Thiago Agustin Tirante,6-3 7-5,1.44,1.8%,3.6%,78.6%,70.5%,66.7%,0/2,56.8%,43.6%,7.3%,38.9%,52.6%,4/6,111,1,2,56,44,12,4,1:33
 17-Jun-2024,Santa Cruz De La Sierra CH,3,Clay,R16,268,579,0,3,Q,Leonardo Aboian,Andrea Collarini,6-3 1-2 RET,0.90,0.0%,17.4%,63.0%,62.1%,35.3%,7/10,47.8%,43.2%,2.3%,35.0%,50.0%,2/6,90,0,8,46,29,17,1,1:05
 17-Jun-2024,Santa Cruz De La Sierra CH,3,Clay,R32,268,762,1,3,WC,Andrea Collarini,Emilio Gomez,6-2 7-5,1.32,3.2%,4.8%,73.0%,60.9%,58.8%,2/5,56.5%,52.5%,1.6%,38.7%,66.7%,6/10,124,2,3,63,46,17,1,1:35
 3-Jun-2024,Santa Fe CH,3,Clay,F,292,333,1,7,,Andrea Collarini,Facundo Mena,6-2 6-3,1.73,0.0%,4.2%,79.2%,73.7%,50.0%,0/2,61.2%,54.0%,10.0%,44.8%,66.7%,5/7,98,0,2,48,38,10,5,1:20

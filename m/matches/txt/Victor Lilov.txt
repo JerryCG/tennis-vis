@@ -1,4 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,M15 Winston-Salem NC,3,Hard,SF,731,979,0,3,,Dhakshineswar Suresh,Victor Lilov,5-1 RET,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Winston-Salem NC,3,Hard,QF,731,892,1,3,JE,Victor Lilov,Cooper Williams,6-7(5) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Winston-Salem NC,3,Hard,R16,731,1463,1,3,,Victor Lilov,Cooper Woestendick,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Winston-Salem NC,3,Hard,R32,731,1148,1,3,,Victor Lilov,Evan Zhu,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,R16,736,335,0,,1,Juan Carlos Prado Angelo,Victor Lilov,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Luque,3,Clay,R32,736,750,1,,,Victor Lilov,Lautaro Agustin Falabella,7-6(10) 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,Santo Domingo CH,3,Clay,Q1,684,427,0,,5,Garrett Johns,Victor Lilov,6-1 6-4,0.78,7.1%,2.4%,64.3%,74.1%,20.0%,1/4,42.5%,35.2%,8.5%,31.9%,41.7%,0/7,113,3,1,42,27,15,6,1:17
 15-Jul-2024,Granby CH,3,Hard,Q1,638,381,0,,10,Stefan Kozlov,Victor Lilov,6-2 6-1,0.56,2.3%,4.7%,69.8%,46.7%,46.2%,7/11,37.6%,30.0%,6.0%,35.5%,21.1%,0/1,93,1,2,43,30,13,3,1:10
 8-Jul-2024,M25 Dallas TX,3,Hard,R32,652,776,0,,,Axel Nefve,Victor Lilov,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -21,10 +27,10 @@
 5-Feb-2024,M15 Sunrise FL,3,Clay,R32,568,821,0,8,Q,Axel Nefve,Victor Lilov,7-6(6) 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,574,,0,7,WC,Alexander Frusina,Victor Lilov,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R32,574,1015,0,4,,Osgar Ohoisin,Victor Lilov,6-3 7-6(8),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,SF,497,562,0,3,5,Garrett Johns,Victor Lilov,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,QF,497,1673,1,3,Q,Victor Lilov,Alberto Colas Sanchez,4-6 7-6(3) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,R16,497,1545,1,3,Q,Victor Lilov,Alvin Nicholas Tudorica,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,R32,497,1222,1,3,Q,Victor Lilov,Elijah Strode,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,SF,497,562,0,3,5,Garrett Johns,Victor Lilov,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,QF,497,1673,1,3,Q,Victor Lilov,Alberto Colas Sanchez,4-6 7-6(3) 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,R16,497,1545,1,3,Q,Victor Lilov,Alvin Nicholas Tudorica,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,R32,497,1222,1,3,Q,Victor Lilov,Elijah Strode,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Morelia,3,Hard,R16,569,,0,1,,Elijah Strode,Victor Lilov,1-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Morelia,3,Hard,R32,569,1782,1,1,,Victor Lilov,Rodrigo Alujas,6-7(5) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Zapopan,3,Clay,F,571,685,0,2,3,Ignacio Buse,Victor Lilov,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,

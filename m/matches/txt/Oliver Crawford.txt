@@ -1,8 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,R16,225,320,0,6,,Lukas Neumayer,Oliver Crawford,6-4 6-0,0.61,0.0%,4.1%,53.1%,53.8%,52.2%,2/6,40.6%,28.8%,7.7%,27.3%,31.6%,0/1,101,0,2,49,26,23,4,1:13
-1-Sep-2024,Tulln CH,3,Clay,R32,225,275,1,6,,Oliver Crawford,Lorenzo Giustino,7-6(10) 2-6 6-3,0.79,3.8%,1.9%,60.0%,71.4%,59.5%,4/6,48.7%,26.2%,11.9%,22.6%,36.4%,1/4,189,4,2,105,63,42,10,2:44
-26-Aug-2024,US Open,5,Hard,Q1,225,165,0,,,J J Wolf,Oliver Crawford,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R32,226,265,0,5,,Ergi Kirkin,Oliver Crawford,1-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,R16,258,1283,0,1,,Guy Orly Iradukunda,Oliver Crawford,6-7(4) RET,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,R32,258,1935,1,1,Q,Oliver Crawford,Juan Jose Bianchi,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,R32,232,301,0,3,,Jakub Nicod,Oliver Crawford,6-3 6-2,0.53,4.3%,2.2%,63.0%,58.6%,52.9%,2/5,39.4%,22.9%,31.3%,7.7%,40.9%,0/0,94,2,1,46,29,17,15,1:07
+2-Sep-2024,Tulln CH,3,Clay,R16,225,320,0,6,,Lukas Neumayer,Oliver Crawford,6-4 6-0,0.61,0.0%,4.1%,53.1%,53.8%,52.2%,2/6,40.6%,28.8%,7.7%,27.3%,31.6%,0/1,101,0,2,49,26,23,4,1:13
+2-Sep-2024,Tulln CH,3,Clay,R32,225,275,1,6,,Oliver Crawford,Lorenzo Giustino,7-6(10) 2-6 6-3,0.79,3.8%,1.9%,60.0%,71.4%,59.5%,4/6,48.7%,26.2%,11.9%,22.6%,36.4%,1/4,189,4,2,105,63,42,10,2:44
+26-Aug-2024,M25 Sion,3,Clay,R32,225,639,0,1,,Patrick Zahraj,Oliver Crawford,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,225,165,0,,,J J Wolf,Oliver Crawford,6-4 6-4,0.69,3.1%,6.3%,43.8%,82.1%,44.4%,5/7,45.0%,26.8%,17.9%,7.4%,44.8%,0/0,120,2,4,64,28,36,10,1:34
+5-Aug-2024,Cordenons CH,3,Clay,R32,226,265,0,5,,Ergi Kirkin,Oliver Crawford,1-6 7-5 6-2,0.99,1.1%,1.1%,66.0%,62.9%,50.0%,3/8,50.3%,41.0%,6.0%,35.6%,47.4%,4/8,177,1,1,94,62,32,5,2:16
 29-Jul-2024,M25 Pitesti,3,Clay,QF,227,439,0,1,8,Franco Roncadelli,Oliver Crawford,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Pitesti,3,Clay,R16,227,645,1,1,,Oliver Crawford,Ilya Snitari,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Pitesti,3,Clay,R32,227,990,1,1,,Oliver Crawford,Federico Campana,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -16,10 +20,10 @@
 8-Jul-2024,M25 The Hague,3,Clay,R16,217,2025,1,1,Q,Oliver Crawford,Erik Grevelius,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 The Hague,3,Clay,R32,217,868,1,1,,Oliver Crawford,Guy Den Heijer,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,Wimbledon,5,Grass,Q1,217,125,0,,20,Richard Gasquet,Oliver Crawford,6-2 7-6(8),0.86,6.9%,2.8%,50.0%,66.7%,47.2%,4/8,46.4%,37.0%,17.3%,20.8%,60.6%,2/9,153,5,2,72,36,36,14,1:42
-27-May-2024,Roland Garros,5,Clay,Q1,218,211,0,,,Li Tu,Oliver Crawford,6-7(4) 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q1,218,211,0,,,Li Tu,Oliver Crawford,6-7(4) 6-4 6-2,0.73,0.9%,5.5%,69.7%,60.5%,42.4%,3/8,45.2%,33.0%,10.2%,23.2%,50.0%,2/5,197,1,6,109,76,33,9,
 13-May-2024,Tunis CH,3,Clay,R16,195,191,0,,8,Genaro Alberto Olivieri,Oliver Crawford,3-6 7-5 6-3,1.11,0.0%,1.2%,64.2%,63.5%,65.5%,5/9,50.8%,39.8%,6.1%,38.0%,41.7%,3/8,179,0,1,81,52,29,6,2:23
 13-May-2024,Tunis CH,3,Clay,R32,195,742,1,,WC,Oliver Crawford,Aziz Ouakaa,6-2 6-3,1.61,2.1%,2.1%,70.8%,73.5%,42.9%,3/5,61.1%,57.1%,4.8%,38.5%,87.5%,5/5,90,1,1,48,34,14,2,1:00
-6-May-2024,Francavilla Al Mare CH,3,Clay,R32,195,268,0,7,,Maks Kasnikowski,Oliver Crawford,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+6-May-2024,Francavilla Al Mare CH,3,Clay,R32,195,268,0,7,,Maks Kasnikowski,Oliver Crawford,6-1 7-5,0.67,3.3%,3.3%,55.7%,50.0%,51.9%,3/7,41.8%,32.8%,11.5%,14.7%,55.6%,1/3,122,2,2,61,34,27,7,1:41
 22-Apr-2024,Savannah CH,3,Clay,R32,197,248,0,7,,Ethan Quinn,Oliver Crawford,6-2 6-4,0.86,0.0%,2.0%,58.8%,63.3%,38.1%,1/6,46.4%,40.7%,8.5%,35.1%,50.0%,2/7,110,0,1,51,30,21,5,1:18
 15-Apr-2024,Tallahassee CH,3,Clay,QF,202,515,0,,WC,Stefan Kozlov,Oliver Crawford,6-2 6-2,0.59,3.2%,1.6%,66.7%,59.5%,38.1%,9/13,42.2%,28.3%,15.2%,13.9%,80.0%,0/0,109,2,1,63,42,21,7,1:21
 15-Apr-2024,Tallahassee CH,3,Clay,R16,202,293,1,,,Oliver Crawford,Hady Habib,6-3 6-4,1.38,5.3%,1.8%,59.6%,73.5%,56.5%,5/7,55.7%,46.2%,12.3%,34.8%,73.7%,4/8,122,3,1,57,34,23,8,1:26

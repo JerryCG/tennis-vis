@@ -1,15 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,R32,18,50,0,18,,Brandon Nakashima,Lorenzo Musetti,6-2 3-6 6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,R64,18,54,1,18,,Lorenzo Musetti,Miomir Kecmanovic,3-6 6-4 6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,R128,18,324,1,18,,Lorenzo Musetti,Reilly Opelka,7-6(3) 1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Oct-2024,Shanghai Masters,3,Hard,R64,18,66,0,15,,David Goffin,Lorenzo Musetti,1-6 7-6(6) 6-2,1.15,4.5%,0.0%,65.2%,74.1%,41.9%,6/10,51.8%,42.6%,5.6%,33.8%,64.5%,4/15,197,4,0,89,58,31,6,2:27
+26-Sep-2024,Beijing,3,Hard,R16,19,96,0,6,WC,Bu Yunchaokete,Lorenzo Musetti,6-2 6-4,0.64,0.0%,5.4%,53.6%,46.7%,46.2%,3/8,40.5%,34.5%,9.1%,20.7%,50.0%,2/5,111,0,3,56,30,26,5,1:29
+26-Sep-2024,Beijing,3,Hard,R32,19,74,1,6,Q,Lorenzo Musetti,Zizou Bergs,7-5 4-6 6-3,1.21,5.6%,2.2%,61.1%,76.4%,71.4%,3/4,53.4%,31.0%,7.1%,16.3%,51.4%,2/6,174,5,2,90,55,35,6,2:11
+18-Sep-2024,Chengdu,3,Hard,F,19,67,0,1,,Juncheng Shang,Lorenzo Musetti,7-6(4) 6-1,0.81,3.3%,0.0%,75.4%,60.9%,53.3%,2/5,45.1%,33.3%,6.9%,26.5%,47.8%,1/3,133,2,0,61,46,15,5,1:39
+18-Sep-2024,Chengdu,3,Hard,SF,19,252,1,1,Q,Lorenzo Musetti,Alibek Kachmazov,6-4 6-2,1.22,4.1%,1.4%,71.2%,65.4%,66.7%,3/3,54.8%,41.9%,9.7%,31.4%,55.6%,3/8,135,3,1,73,52,21,6,1:41
+18-Sep-2024,Chengdu,3,Hard,QF,19,46,1,1,5,Lorenzo Musetti,Adrian Mannarino,6-2 5-7 6-2,1.26,9.0%,2.2%,67.4%,76.7%,55.2%,3/4,54.3%,38.1%,7.1%,34.5%,44.8%,4/12,173,8,2,89,60,29,6,2:16
+18-Sep-2024,Chengdu,3,Hard,R16,19,75,1,1,,Lorenzo Musetti,Christopher Oconnell,6-7(5) 6-4 7-6(4),0.98,6.5%,1.9%,75.7%,75.3%,42.3%,0/3,50.0%,32.0%,5.8%,21.4%,54.5%,4/10,210,7,2,107,81,26,6,2:37
+26-Aug-2024,US Open,5,Hard,R32,18,50,0,18,,Brandon Nakashima,Lorenzo Musetti,6-2 3-6 6-3 7-6(4),0.85,6.6%,4.1%,56.2%,69.1%,52.8%,6/11,46.9%,32.3%,13.7%,23.2%,50.0%,3/13,245,8,5,121,68,53,17,3:12
+26-Aug-2024,US Open,5,Hard,R64,18,54,1,18,,Lorenzo Musetti,Miomir Kecmanovic,3-6 6-4 6-4 2-6 7-5,0.99,7.8%,5.9%,65.4%,67.0%,47.2%,11/18,49.7%,39.5%,2.5%,28.9%,51.4%,6/13,310,12,9,153,100,53,4,3:47
+26-Aug-2024,US Open,5,Hard,R128,18,324,1,18,,Lorenzo Musetti,Reilly Opelka,7-6(3) 1-6 6-1 7-5,1.33,6.1%,5.3%,50.0%,75.4%,63.2%,3/6,53.8%,40.7%,17.0%,27.2%,61.1%,4/11,249,7,6,114,57,57,23,2:54
 12-Aug-2024,Cincinnati Masters,3,Hard,R32,18,26,0,14,,Frances Tiafoe,Lorenzo Musetti,6-3 6-2,0.45,3.3%,6.7%,53.3%,59.4%,42.9%,8/12,39.6%,22.0%,4.9%,16.1%,40.0%,0/0,101,2,4,60,32,28,2,1:07
 12-Aug-2024,Cincinnati Masters,3,Hard,R64,18,24,1,14,,Lorenzo Musetti,Nicolas Jarry,4-6 7-6(5) 7-6(4),1.01,8.7%,4.8%,59.6%,85.5%,61.9%,1/2,50.2%,24.3%,12.6%,19.3%,30.4%,0/2,207,9,5,104,62,42,13,2:47
-29-Jul-2024,Paris Olympics,3,Clay,BR,16,19,1,11,13,Lorenzo Musetti,Felix Auger Aliassime,6-4 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,SF,16,2,0,11,1,Novak Djokovic,Lorenzo Musetti,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,QF,16,4,1,11,3,Lorenzo Musetti,Alexander Zverev,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R16,16,12,1,11,7,Lorenzo Musetti,Taylor Fritz,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R32,16,37,1,11,,Lorenzo Musetti,Mariano Navone,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R64,16,31,1,11,,Lorenzo Musetti,Gael Monfils,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Paris Olympics,3,Clay,BR,16,19,1,11,13,Lorenzo Musetti,Felix Auger Aliassime,6-4 1-6 6-3,1.00,2.5%,2.5%,66.7%,72.2%,40.7%,1/4,50.0%,38.3%,11.1%,23.6%,69.2%,3/12,162,2,2,81,54,27,9,
+29-Jul-2024,Paris Olympics,3,Clay,SF,16,2,0,11,1,Novak Djokovic,Lorenzo Musetti,6-4 6-2,0.72,0.0%,3.1%,58.5%,57.9%,37.0%,8/13,43.3%,36.4%,5.5%,37.8%,33.3%,2/4,120,0,2,65,38,27,3,
+29-Jul-2024,Paris Olympics,3,Clay,QF,16,4,1,11,3,Lorenzo Musetti,Alexander Zverev,7-5 7-5,0.87,4.5%,1.5%,62.7%,81.0%,64.0%,4/5,48.1%,22.1%,5.9%,25.6%,16.0%,3/4,135,3,1,67,42,25,4,
+29-Jul-2024,Paris Olympics,3,Clay,R16,16,12,1,11,7,Lorenzo Musetti,Taylor Fritz,6-4 7-5,1.18,6.9%,0.0%,89.7%,71.2%,66.7%,1/2,52.6%,34.5%,1.7%,34.0%,40.0%,3/4,116,4,0,58,52,6,1,
+29-Jul-2024,Paris Olympics,3,Clay,R32,16,37,1,11,,Lorenzo Musetti,Mariano Navone,7-6(2) 6-3,1.22,2.8%,0.0%,64.8%,71.7%,48.0%,1/3,54.4%,44.6%,4.6%,36.4%,61.9%,3/4,136,2,0,71,46,25,3,
+29-Jul-2024,Paris Olympics,3,Clay,R64,16,31,1,11,,Lorenzo Musetti,Gael Monfils,6-1 6-4,1.84,6.0%,2.0%,60.0%,73.3%,70.0%,2/3,60.0%,51.4%,4.3%,48.9%,56.5%,4/11,120,3,1,50,30,20,3,
 22-Jul-2024,Umag,3,Clay,F,17,37,0,2,4,Francisco Cerundolo,Lorenzo Musetti,2-6 6-4 7-6(5),1.06,3.1%,1.0%,63.3%,66.1%,50.0%,2/5,50.0%,42.1%,0.8%,37.4%,54.3%,4/11,224,3,1,98,62,36,1,3:00
 22-Jul-2024,Umag,3,Clay,SF,17,81,1,2,,Lorenzo Musetti,Jakub Mensik,6-4 6-1,1.79,2.4%,0.0%,59.5%,76.0%,58.8%,0/1,62.1%,55.6%,2.2%,45.0%,64.0%,5/5,87,1,0,42,25,17,1,1:16
 22-Jul-2024,Umag,3,Clay,QF,17,53,1,2,,Lorenzo Musetti,Dusan Lajovic,5-7 6-3 6-0,1.26,1.1%,0.0%,73.3%,65.2%,58.3%,2/4,54.7%,46.1%,1.1%,44.0%,57.1%,6/17,179,1,0,90,66,24,1,2:16
@@ -29,9 +36,9 @@
 10-Jun-2024,Stuttgart,3,Grass,QF,30,17,1,5,3,Lorenzo Musetti,Alexander Bublik,4-6 6-1 1-0 RET,1.26,6.6%,3.3%,57.4%,77.1%,53.8%,3/4,54.6%,41.4%,22.4%,22.6%,63.0%,3/3,119,4,2,61,35,26,13,1:18
 10-Jun-2024,Stuttgart,3,Grass,R16,30,65,1,5,,Lorenzo Musetti,Dominik Koepfer,6-7(9) 7-6(5) 6-3,1.06,4.3%,1.7%,67.5%,75.9%,52.6%,4/5,51.1%,33.6%,2.6%,28.2%,42.2%,2/6,233,5,2,117,79,38,3,2:47
 10-Jun-2024,Stuttgart,3,Grass,R32,30,66,1,5,Q,Lorenzo Musetti,Giovanni Mpetshi Perricard,7-6(9) 7-6(9),1.15,4.3%,3.2%,73.1%,77.9%,60.0%,0/0,50.5%,30.8%,19.6%,23.4%,50.0%,0/8,200,4,3,93,68,25,21,2:02
-27-May-2024,Roland Garros,5,Clay,R32,30,1,0,30,1,Novak Djokovic,Lorenzo Musetti,7-5 6-7(6) 2-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R64,30,37,1,30,,Lorenzo Musetti,Gael Monfils,7-5 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R128,30,106,1,30,,Lorenzo Musetti,Daniel Elahi Galan,6-3 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R32,30,1,0,30,1,Novak Djokovic,Lorenzo Musetti,7-5 6-7(6) 2-6 6-3 6-0,0.86,0.7%,1.4%,60.0%,59.8%,50.0%,6/15,47.2%,38.1%,3.6%,30.8%,52.1%,5/5,284,1,2,145,87,58,5,
+27-May-2024,Roland Garros,5,Clay,R64,30,37,1,30,,Lorenzo Musetti,Gael Monfils,7-5 6-1 6-4,1.27,2.1%,1.0%,63.9%,74.2%,51.4%,3/5,56.1%,43.2%,5.4%,33.3%,65.2%,6/11,171,2,1,97,62,35,4,
+27-May-2024,Roland Garros,5,Clay,R128,30,106,1,30,,Lorenzo Musetti,Daniel Elahi Galan,6-3 6-3 7-5,1.71,4.9%,2.4%,64.6%,86.8%,55.2%,2/3,56.8%,41.7%,4.9%,38.3%,46.5%,5/12,185,4,2,82,53,29,5,
 13-May-2024,Turin CH,3,Clay,F,29,240,0,1,WC,Francesco Passaro,Lorenzo Musetti,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 13-May-2024,Turin CH,3,Clay,SF,29,54,1,1,5,Lorenzo Musetti,Luciano Darderi,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
 13-May-2024,Turin CH,3,Clay,QF,29,132,1,1,Q,Lorenzo Musetti,Felipe Meligeni Alves,6-1 6-3,1.75,6.1%,2.0%,65.3%,87.5%,41.2%,3/3,60.6%,50.0%,4.0%,41.2%,68.8%,4/8,99,3,1,49,32,17,2,1:11

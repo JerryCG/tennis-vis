@@ -1,10 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,SF,531,136,0,Q,3,Richard Gasquet,Adria Soriano Barrera,6-4 6-2,0.67,7.5%,1.9%,77.4%,56.1%,66.7%,3/6,43.0%,27.8%,3.7%,23.3%,45.5%,0/4,107,4,1,53,41,12,2,1:15
-1-Sep-2024,Cassis CH,3,Hard,QF,531,1082,1,Q,WC,Adria Soriano Barrera,Marin Cilic,7-6(4) 7-5,0.99,14.4%,0.0%,58.9%,73.6%,64.9%,7/7,51.8%,29.7%,13.5%,21.1%,38.9%,1/3,164,13,0,90,53,37,10,1:55
-1-Sep-2024,Cassis CH,3,Hard,R16,531,129,1,Q,2,Adria Soriano Barrera,Benjamin Bonzi,6-3 6-4,1.32,21.1%,1.8%,68.4%,82.1%,50.0%,2/3,56.3%,37.0%,13.0%,20.0%,68.8%,3/4,103,12,1,57,39,18,6,1:06
-1-Sep-2024,Cassis CH,3,Hard,R32,531,364,1,Q,LL,Adria Soriano Barrera,Lucas Poullain,6-2 6-3,1.99,17.0%,4.3%,66.0%,80.6%,62.5%,2/3,61.8%,50.9%,1.8%,45.9%,61.1%,4/11,102,8,2,47,31,16,1,1:14
-1-Sep-2024,Cassis CH,3,Hard,Q2,531,295,1,9,1,Adria Soriano Barrera,Jules Marie,6-3 3-6 6-3,1.38,13.3%,4.0%,61.3%,84.8%,55.2%,1/2,54.1%,36.9%,6.0%,30.4%,50.0%,2/10,159,10,3,75,46,29,5,1:45
-1-Sep-2024,Cassis CH,3,Hard,Q1,531,847,1,9,Alt,Adria Soriano Barrera,Niki Kaliyanda Poonacha,6-3 6-1,2.31,11.4%,2.3%,75.0%,75.8%,81.8%,1/1,63.1%,52.5%,3.4%,45.0%,68.4%,4/12,103,5,1,44,33,11,2,1:09
+30-Sep-2024,Villena CH,3,Hard,Q2,450,522,0,11,,Justin Engel,Adria Soriano Barrera,W/O,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Takasaki,3,Hard,QF,461,504,0,4,6,Masamichi Imamura,Adria Soriano Barrera,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Takasaki,3,Hard,R16,461,607,1,4,,Adria Soriano Barrera,San Hui Sin,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Takasaki,3,Hard,R32,461,,1,4,WC,Adria Soriano Barrera,Taisei Miyamoto,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2024,Davis Cup WG1 R1: JPN vs COL,3,Hard,RR,460,54,0,,,Yoshihito Nishioka,Adria Soriano Barrera,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Cassis CH,3,Hard,SF,531,136,0,Q,3,Richard Gasquet,Adria Soriano Barrera,6-4 6-2,0.67,7.5%,1.9%,77.4%,56.1%,66.7%,3/6,43.0%,27.8%,3.7%,23.3%,45.5%,0/4,107,4,1,53,41,12,2,1:15
+2-Sep-2024,Cassis CH,3,Hard,QF,531,1082,1,Q,WC,Adria Soriano Barrera,Marin Cilic,7-6(4) 7-5,0.99,14.4%,0.0%,58.9%,73.6%,64.9%,7/7,51.8%,29.7%,13.5%,21.1%,38.9%,1/3,164,13,0,90,53,37,10,1:55
+2-Sep-2024,Cassis CH,3,Hard,R16,531,129,1,Q,2,Adria Soriano Barrera,Benjamin Bonzi,6-3 6-4,1.32,21.1%,1.8%,68.4%,82.1%,50.0%,2/3,56.3%,37.0%,13.0%,20.0%,68.8%,3/4,103,12,1,57,39,18,6,1:06
+2-Sep-2024,Cassis CH,3,Hard,R32,531,364,1,Q,LL,Adria Soriano Barrera,Lucas Poullain,6-2 6-3,1.99,17.0%,4.3%,66.0%,80.6%,62.5%,2/3,61.8%,50.9%,1.8%,45.9%,61.1%,4/11,102,8,2,47,31,16,1,1:14
+2-Sep-2024,Cassis CH,3,Hard,Q2,531,295,1,9,1,Adria Soriano Barrera,Jules Marie,6-3 3-6 6-3,1.38,13.3%,4.0%,61.3%,84.8%,55.2%,1/2,54.1%,36.9%,6.0%,30.4%,50.0%,2/10,159,10,3,75,46,29,5,1:45
+2-Sep-2024,Cassis CH,3,Hard,Q1,531,847,1,9,Alt,Adria Soriano Barrera,Niki Kaliyanda Poonacha,6-3 6-1,2.31,11.4%,2.3%,75.0%,75.8%,81.8%,1/1,63.1%,52.5%,3.4%,45.0%,68.4%,4/12,103,5,1,44,33,11,2,1:09
 26-Aug-2024,Manacor CH,3,Hard,Q1,531,307,0,,3,Ricardas Berankis,Adria Soriano Barrera,6-4 6-2,0.67,5.3%,2.7%,62.7%,66.0%,42.9%,7/10,45.0%,28.6%,8.9%,13.9%,55.0%,0/1,131,4,2,75,47,28,5,
 12-Aug-2024,M15 Monastir,3,Hard,F,546,462,0,4,1,Eliakim Coulibaly,Adria Soriano Barrera,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Monastir,3,Hard,SF,546,1295,1,4,,Adria Soriano Barrera,Reda Bennani,6-3 6-1,,,,,,,,,,,,,,,,,,,,,

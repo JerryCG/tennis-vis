@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+23-Sep-2024,M25 Santa Margherita di Pula,3,Clay,R32,1081,864,0,Q,SE,Niccolo Catini,Manas Dhamne,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,R16,1110,808,0,,,Ioan Alexandru Chirita,Manas Dhamne,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Bucharest,3,Clay,R32,1110,565,1,,4,Manas Dhamne,Vlad Andrei Dancu,6-7(5) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+19-Aug-2024,M15 Arad,3,Clay,R32,1178,997,0,,,Stefan Adrian Andreescu,Manas Dhamne,7-6(3) 7-6(5),,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,QF,1213,619,0,WC,5,Ilya Snitari,Manas Dhamne,5-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,R16,1213,378,1,WC,1,Manas Dhamne,Nicholas David Ionel,4-6 7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Targu Jiu,3,Clay,R32,1213,1576,1,WC,Q,Manas Dhamne,Matei Florin Breazu,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -12,8 +16,8 @@
 10-Jun-2024,M15 Koszalin,3,Clay,R16,1207,567,0,Q,4,Pawel Cias,Manas Dhamne,7-6(5) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M15 Koszalin,3,Clay,R32,1207,1177,1,Q,WC,Manas Dhamne,Szymon Kielan,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Jun-2024,M15 Grodzisk Mazowiecki,3,Clay,R32,1198,568,0,Q,2,Ignacio Monzon,Manas Dhamne,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,Q2,1275,352,0,WC,2,Alessandro Giannessi,Manas Dhamne,4-2 RET,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,Q1,1275,830,1,WC,Alt,Manas Dhamne,Tatsuma Ito,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+6-May-2024,Francavilla Al Mare CH,3,Clay,Q2,1275,352,0,WC,2,Alessandro Giannessi,Manas Dhamne,4-2 RET,0.66,3.6%,0.0%,82.1%,43.5%,100.0%,2/3,42.6%,30.8%,0.0%,25.0%,50.0%,0/3,54,1,0,28,23,5,0,0:44
+6-May-2024,Francavilla Al Mare CH,3,Clay,Q1,1275,830,1,WC,Alt,Manas Dhamne,Tatsuma Ito,6-3 6-1,1.52,2.1%,4.2%,75.0%,69.4%,50.0%,1/2,59.0%,53.8%,0.0%,42.1%,60.6%,5/11,100,1,2,48,36,12,0,1:16
 29-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,1344,602,0,Q,,Kai Wehnelt,Manas Dhamne,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R16,1344,477,0,Q,8,Andrea Picchione,Manas Dhamne,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 22-Apr-2024,M25 Santa Margherita di Pula,3,Clay,R32,1344,1472,1,Q,WC,Manas Dhamne,Maximilian Figl,6-2 3-6 7-5,,,,,,,,,,,,,,,,,,,,,

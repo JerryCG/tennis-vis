@@ -1,4 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+23-Sep-2024,M25 Zlatibor,3,Clay,R16,491,565,0,6,,Ilya Snitari,Svyatoslav Gulin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Zlatibor,3,Clay,R32,491,1471,1,6,Q,Svyatoslav Gulin,Oliver Okonkwo,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Kursumlijska Banja ,3,Clay,QF,473,1264,0,1,PR,Sebastian Prechtel,Svyatoslav Gulin,4-6 7-5 RET,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Kursumlijska Banja ,3,Clay,R16,473,1104,1,1,,Svyatoslav Gulin,Mika Lipp,6-2 2-6 10-6,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Kursumlijska Banja ,3,Clay,R32,473,1414,1,1,WC,Svyatoslav Gulin,Tristan Stringer,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,Como CH,3,Clay,R32,413,233,0,Q,,Filip Cristian Jianu,Svyatoslav Gulin,7-5 1-6 6-4,0.93,7.1%,0.0%,60.2%,57.6%,53.8%,2/7,49.2%,40.7%,1.2%,39.3%,44.0%,5/6,179,7,0,98,59,39,1,2:26
+26-Aug-2024,Como CH,3,Clay,Q2,413,539,1,12,Alt,Svyatoslav Gulin,Gianmarco Ferrari,3-6 6-2 6-2,1.28,2.9%,2.9%,52.2%,63.9%,63.6%,0/2,54.2%,46.5%,1.2%,34.9%,58.1%,5/8,155,2,2,69,36,33,1,2:05
+26-Aug-2024,Como CH,3,Clay,Q1,413,1265,1,12,WC,Svyatoslav Gulin,Jacopo Bilardo,7-6(3) 6-4,1.17,2.5%,5.0%,67.5%,51.9%,53.8%,9/15,54.1%,55.7%,2.5%,59.5%,51.4%,7/14,159,2,4,80,54,26,2,1:52
 19-Aug-2024,M25 Santander,3,Clay,R16,415,421,0,9,,Daniel Merida Aguilar,Svyatoslav Gulin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,415,523,1,9,,Svyatoslav Gulin,Alejo Sanchez Quilez,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,Amersfoort CH,3,Clay,Q1,455,286,0,,3,Santiago Fa Rodriguez Taverna,Svyatoslav Gulin,6-4 6-4,0.67,2.9%,1.5%,67.6%,54.3%,50.0%,7/11,43.4%,31.5%,1.9%,28.1%,36.4%,2/4,122,2,1,68,46,22,1,1:08
@@ -48,9 +56,9 @@
 27-Nov-2023,Maspalomas CH,3,Clay,R32,483,225,1,Q,,Svyatoslav Gulin,Nerman Fatic,6-4 3-2 RET,1.37,5.1%,0.0%,69.2%,66.7%,50.0%,0/2,56.1%,52.5%,1.7%,46.9%,59.3%,4/9,98,2,0,39,27,12,1,1:09
 27-Nov-2023,Maspalomas CH,3,Clay,Q2,483,417,1,7,4,Svyatoslav Gulin,Alvaro Lopez San Martin,6-4 6-4,1.00,5.6%,1.4%,50.7%,63.9%,65.7%,5/5,52.0%,35.2%,1.9%,28.6%,47.4%,2/3,125,4,1,71,36,35,1,1:36
 27-Nov-2023,Maspalomas CH,3,Clay,Q1,483,637,1,7,,Svyatoslav Gulin,Georgii Kravchenko,7-5 7-6(8),1.17,1.1%,2.3%,59.8%,67.3%,68.6%,4/5,52.2%,37.6%,1.1%,31.6%,47.2%,2/9,180,1,2,87,52,35,1,2:11
-13-Nov-2023,M15 Valencia,3,,QF,487,241,0,7,1,Marco Trungelliti,Svyatoslav Gulin,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R16,487,739,1,7,Q,Svyatoslav Gulin,Max Alcala Gurri,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Valencia,3,,R32,487,,1,7,,Svyatoslav Gulin,Ignacio Parisca,7-6(4) 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,QF,487,241,0,7,1,Marco Trungelliti,Svyatoslav Gulin,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R16,487,739,1,7,Q,Svyatoslav Gulin,Max Alcala Gurri,4-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,487,,1,7,,Svyatoslav Gulin,Ignacio Parisca,7-6(4) 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Telavi,3,Clay,F,528,357,0,3,2,Filip Cristian Jianu,Svyatoslav Gulin,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Telavi,3,Clay,SF,528,231,1,3,1,Svyatoslav Gulin,Nicholas David Ionel,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Telavi,3,Clay,QF,528,1285,1,3,,Svyatoslav Gulin,Pietro Pampanin,6-0 6-4,,,,,,,,,,,,,,,,,,,,,

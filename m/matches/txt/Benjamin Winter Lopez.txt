@@ -1,4 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M25 Zaragoza,3,Clay,R16,847,434,0,,8,Nicolas Alvarez Varona,Benjamin Winter Lopez,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R32,847,,1,,Q,Benjamin Winter Lopez,Rafael Segado Esteve,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R16,874,252,0,WC,2,Gianluca Mager,Benjamin Winter Lopez,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R32,874,1156,1,WC,LL,Benjamin Winter Lopez,Ivan Ivanov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,SF,874,584,0,,4,Imanol Lopez Morillo,Benjamin Winter Lopez,7-6(6) 6-0,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,QF,874,556,1,,2,Benjamin Winter Lopez,Lucas Bouquet,6-1 2-1 RET,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R16,874,931,1,,,Benjamin Winter Lopez,Marcel Zielinski,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R32,874,729,1,,6,Benjamin Winter Lopez,Alejandro Manzanera Pertusa,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Seville CH,3,Clay,Q1,792,419,0,WC,10,Daniel Merida Aguilar,Benjamin Winter Lopez,6-4 6-0,0.54,0.0%,5.0%,61.7%,48.6%,39.1%,4/9,38.3%,29.8%,2.1%,27.0%,40.0%,1/5,107,0,3,60,37,23,1,1:17
+26-Aug-2024,M25 Oviedo,3,Clay,R32,792,570,0,,,Michiel De Krom,Benjamin Winter Lopez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,791,663,0,,,Diego Fernandez Flores,Benjamin Winter Lopez,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,Pozoblanco CH,3,Hard,R32,819,279,0,Q,4,Robin Bertrand,Benjamin Winter Lopez,6-1 6-1,0.40,0.0%,4.1%,65.3%,50.0%,23.5%,2/7,33.0%,23.8%,9.5%,16.0%,35.3%,0/2,91,0,2,49,32,17,4,1:05
 15-Jul-2024,Pozoblanco CH,3,Hard,Q2,819,547,1,9,1,Benjamin Winter Lopez,Tiago Pereira,6-2 6-3,2.01,2.1%,2.1%,72.3%,82.4%,61.5%,0/0,61.2%,47.1%,2.0%,41.4%,54.5%,3/4,98,1,1,47,34,13,1,1:04
@@ -22,7 +32,7 @@
 8-Apr-2024,M15 Telde,3,Clay,R16,920,659,0,,5,Peter Fajta,Benjamin Winter Lopez,4-6 7-6(6) 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Apr-2024,M15 Telde,3,Clay,R32,920,918,1,,,Benjamin Winter Lopez,Francisco Rocha,6-0 7-6(3),,,,,,,,,,,,,,,,,,,,,
 11-Mar-2024,M15 Les Franqueses del Valles,3,Hard,R32,911,890,0,,,Nikolay Nedelchev,Benjamin Winter Lopez,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Alcala de Henares,3,,R32,821,580,0,,5,Duarte Vale,Benjamin Winter Lopez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,Hard,R32,821,580,0,,5,Duarte Vale,Benjamin Winter Lopez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,817,527,0,,,Kyle Edmund,Benjamin Winter Lopez,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M25 Zaragoza,3,Clay,R32,783,1689,0,,Q,Richard Zusman,Benjamin Winter Lopez,6-3 RET,,,,,,,,,,,,,,,,,,,,,
 25-Sep-2023,M25 Sabadell,3,Clay,R32,786,500,0,,8,Ryan Nijboer,Benjamin Winter Lopez,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,

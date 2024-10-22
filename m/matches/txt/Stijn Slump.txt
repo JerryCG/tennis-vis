@@ -1,6 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-8-Sep-2024,Dobrich CH,3,Clay,Q2,549,624,0,7,,Kimmer Coppejans,Stijn Slump,6-4 6-4,0.80,4.5%,3.0%,53.0%,65.7%,51.6%,4/7,45.9%,32.8%,4.5%,17.6%,48.5%,1/7,133,3,2,66,35,31,3,1:38
-8-Sep-2024,Dobrich CH,3,Clay,Q1,549,875,1,7,,Stijn Slump,Taha Baadi,6-0 3-1 RET,1.68,3.0%,3.0%,48.5%,68.8%,64.7%,0/0,61.2%,55.9%,0.0%,51.9%,71.4%,4/6,67,1,1,33,16,17,0,0:50
+23-Sep-2024,M15 Targu Mures,3,Clay,R16,561,1190,0,5,Q,Juan Cruz Martin Manzano,Stijn Slump,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Targu Mures,3,Clay,R32,561,,1,5,,Stijn Slump,Alan Wazny,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Pardubice,3,Clay,R32,563,1053,0,4,,Jan Kupcic,Stijn Slump,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,Q2,565,736,0,7,,Kimmer Coppejans,Stijn Slump,6-4 6-4,0.80,4.5%,3.0%,53.0%,65.7%,51.6%,4/7,45.9%,32.8%,4.5%,17.6%,48.5%,1/7,133,3,2,66,35,31,3,1:38
+9-Sep-2024,Dobrich CH,3,Clay,Q1,565,862,1,7,,Stijn Slump,Taha Baadi,6-0 3-1 RET,1.68,3.0%,3.0%,48.5%,68.8%,64.7%,0/0,61.2%,55.9%,0.0%,51.9%,71.4%,4/6,67,1,1,33,16,17,0,0:50
 29-Jul-2024,Luedenscheid CH,3,Clay,Q2,567,476,0,11,3,Nicolas Zanellato,Stijn Slump,W/O,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,Luedenscheid CH,3,Clay,Q1,567,1016,1,11,Alt,Stijn Slump,Marcelo Zormann Da Silva,6-3 2-6 7-6(3),0.98,12.9%,5.9%,53.5%,87.0%,40.4%,3/6,50.5%,34.1%,5.5%,28.4%,50.0%,2/6,192,13,6,101,54,47,5,1:56
 22-Jul-2024,M25 Denia,3,Clay,R16,569,799,0,,,Alejandro Manzanera Pertusa,Stijn Slump,6-4 3-0 RET,,,,,,,,,,,,,,,,,,,,,
@@ -45,8 +48,8 @@
 8-Jan-2024,M15 Monastir,3,Hard,R16,1131,845,1,Q,Q,Stijn Slump,Matthew William Donald,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Monastir,3,Hard,R32,1131,996,1,Q,Q,Stijn Slump,Aleksandr Lobanov,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 1-Jan-2024,M15 Monastir,3,Hard,R32,1132,688,0,,8,Ilia Simakin,Stijn Slump,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R32,1128,724,0,,8,Mario Gonzalez Fernandez,Stijn Slump,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Madrid,3,,R32,1125,667,0,Q,6,Dali Blanch,Stijn Slump,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R32,1128,724,0,,8,Mario Gonzalez Fernandez,Stijn Slump,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Madrid,3,Hard,R32,1125,667,0,Q,6,Dali Blanch,Stijn Slump,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,1273,260,0,Q,3,Michael Geerts,Stijn Slump,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Monastir,3,Hard,QF,1286,359,0,Q,2,Hady Habib,Stijn Slump,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Monastir,3,Hard,R16,1286,623,1,Q,6,Stijn Slump,Gian Marco Moroni,7-6(5) 2-6 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M25 Nevers,3,Hard,R16,722,643,0,,8,Enzo Wallart,Louis Dussin,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Nevers,3,Hard,R32,722,,1,,Q,Louis Dussin,James Mackinlay,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Monastir,3,Hard,F,784,467,0,,2,Omni Kumar,Louis Dussin,6-3 6-7(4) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Monastir,3,Hard,SF,784,1067,1,,Q,Louis Dussin,Ewen Lumsden,1-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Monastir,3,Hard,QF,784,1139,1,,,Louis Dussin,Alejandro Turriziani Alvarez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Monastir,3,Hard,R16,784,879,1,,,Louis Dussin,Pablo Trochu,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Monastir,3,Hard,R32,784,681,1,,7,Louis Dussin,Erik Arutiunian,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Rennes CH,3,Hard,Q2,799,411,0,Alt,3,Eliakim Coulibaly,Louis Dussin,6-4 7-6(5),0.89,4.9%,4.9%,79.4%,54.3%,47.6%,9/13,48.1%,41.8%,8.9%,20.0%,70.6%,3/6,181,5,5,102,81,21,7,2:10
+9-Sep-2024,Rennes CH,3,Hard,Q1,799,647,1,Alt,10,Louis Dussin,Arthur Reymond,6-7(2) 6-4 6-2,1.07,2.4%,1.6%,66.7%,59.8%,48.8%,14/18,52.1%,46.8%,5.3%,39.6%,56.1%,7/11,217,3,2,123,82,41,5,2:29
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R32,806,243,0,,1,Clement Chidekh,Louis Dussin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Santander,3,Clay,R32,824,381,0,Q,5,Ryan Nijboer,Louis Dussin,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,R16,823,1205,0,,Q,Jean Christian Morandais,Louis Dussin,6-7(3) 7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,R32,823,570,1,,5,Louis Dussin,Michiel De Krom,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -33,7 +43,7 @@
 15-Jan-2024,M15 Bressuire,3,Hard,QF,1129,487,0,WC,2,Kenny De Schepper,Louis Dussin,6-7(4) 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Bressuire,3,Hard,R16,1129,1279,1,WC,,Louis Dussin,Alexandre Aubriot,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Bressuire,3,Hard,R32,1129,1240,1,WC,,Louis Dussin,Carlo Alberto Caniato,3-6 7-6(1) 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Alcala de Henares,3,,R32,1120,667,0,,8,Dali Blanch,Louis Dussin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Alcala de Henares,3,Hard,R32,1120,667,0,,8,Dali Blanch,Louis Dussin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Heraklion,3,Hard,R32,1119,461,0,Q,,Yshai Oliel,Louis Dussin,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Heraklion,3,Hard,R32,1199,593,0,Q,7,Marlon Vankan,Louis Dussin,7-6(7) 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Villers-les-Nancy,3,Hard,QF,1205,419,0,Q,1,Alexis Gautier,Louis Dussin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

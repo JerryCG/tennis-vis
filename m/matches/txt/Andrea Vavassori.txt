@@ -1,11 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q1,206,201,0,,,Calvin Hemery,Andrea Vavassori,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R32,206,9,0,ALT,6,Casper Ruud,Andrea Vavassori,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R64,206,42,1,ALT,,Andrea Vavassori,Pedro Martinez,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Olbia CH,3,Hard,QF,258,232,0,,,Martin Landaluce,Andrea Vavassori,2-6 6-1 6-2,0.89,2.9%,14.3%,50.0%,65.7%,51.4%,7/11,47.3%,36.8%,3.9%,40.4%,31.0%,2/7,146,2,10,70,35,35,3,1:54
+14-Oct-2024,Olbia CH,3,Hard,R16,258,326,1,,Q,Andrea Vavassori,Daniel Merida Aguilar,6-4 7-6(1),1.33,2.8%,4.2%,64.8%,76.1%,48.0%,3/5,54.9%,45.1%,1.2%,34.0%,62.5%,3/7,153,2,3,71,46,25,1,1:41
+14-Oct-2024,Olbia CH,3,Hard,R32,258,184,1,,8,Andrea Vavassori,Jan Choinski,6-4 6-0,1.50,11.9%,6.8%,54.2%,78.1%,48.1%,3/4,59.0%,53.4%,1.7%,50.0%,60.0%,5/14,117,7,4,59,32,27,1,1:28
+26-Aug-2024,US Open,5,Hard,Q1,206,201,0,,,Calvin Hemery,Andrea Vavassori,6-4 7-6(4),0.86,8.1%,4.1%,56.8%,73.8%,50.0%,1/3,47.9%,31.4%,10.0%,27.3%,38.5%,1/1,144,6,3,74,42,32,7,1:36
+29-Jul-2024,Paris Olympics,3,Clay,R32,206,9,0,ALT,6,Casper Ruud,Andrea Vavassori,4-6 6-4 6-3,0.66,3.5%,1.2%,64.0%,74.5%,48.4%,5/7,45.1%,23.1%,2.6%,22.2%,26.7%,1/2,164,3,1,86,55,31,2,
+29-Jul-2024,Paris Olympics,3,Clay,R64,206,42,1,ALT,,Andrea Vavassori,Pedro Martinez,6-4 4-6 6-4,0.89,14.3%,1.9%,60.0%,71.4%,52.4%,7/9,50.3%,32.1%,0.0%,26.3%,47.6%,3/4,183,15,2,105,63,42,0,
 1-Jul-2024,Wimbledon,5,Grass,Q1,206,118,0,,5,Lloyd Harris,Andrea Vavassori,6-2 6-2,0.39,2.0%,12.0%,56.0%,71.4%,31.8%,5/9,38.2%,17.9%,20.5%,4.5%,35.3%,0/0,89,1,6,50,28,22,8,0:58
-27-May-2024,Roland Garros,5,Clay,Q3,170,221,0,,,Henri Squire,Andrea Vavassori,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q2,170,149,1,,,Andrea Vavassori,Benjamin Hassan,6-7(5) 7-6(2) 6-0,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q1,170,111,1,,4,Andrea Vavassori,Albert Ramos,6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q3,170,221,0,,,Henri Squire,Andrea Vavassori,6-3 3-6 6-4,0.93,5.4%,1.1%,87.0%,65.0%,33.3%,7/11,48.6%,36.6%,7.5%,30.9%,75.0%,3/9,185,5,1,92,80,12,7,
+27-May-2024,Roland Garros,5,Clay,Q2,170,149,1,,,Andrea Vavassori,Benjamin Hassan,6-7(5) 7-6(2) 6-0,1.47,8.1%,1.2%,70.9%,70.5%,64.0%,2/5,55.6%,46.3%,5.0%,44.4%,50.0%,6/10,207,7,1,86,61,25,6,
+27-May-2024,Roland Garros,5,Clay,Q1,170,111,1,,4,Andrea Vavassori,Albert Ramos,6-3 4-6 6-3,1.38,12.5%,2.5%,72.5%,81.0%,40.9%,1/3,54.7%,41.3%,3.3%,38.5%,48.1%,4/7,172,10,2,80,58,22,3,
 6-May-2024,Rome Masters,3,Clay,R128,168,52,0,WC,,Dominik Koepfer,Andrea Vavassori,6-4 6-3,0.70,4.7%,1.6%,67.2%,65.1%,38.1%,5/8,43.7%,30.6%,8.1%,15.4%,56.5%,1/4,126,3,1,64,43,21,5,1:27
 22-Apr-2024,Madrid Masters,3,Clay,Q1,157,96,0,,21,Francisco Comesana,Andrea Vavassori,6-4 7-5,0.70,10.9%,3.1%,62.5%,62.5%,54.2%,2/5,44.1%,28.6%,7.9%,26.9%,36.4%,1/5,127,7,2,64,40,24,5,1:25
 15-Apr-2024,Barcelona,3,Clay,R32,156,84,0,LL,WC,Roberto Bautista Agut,Andrea Vavassori,4-6 6-3 6-1,0.76,2.3%,3.4%,52.9%,63.0%,48.8%,6/11,45.0%,33.3%,2.4%,25.5%,48.3%,2/7,171,2,3,87,46,41,2,2:05

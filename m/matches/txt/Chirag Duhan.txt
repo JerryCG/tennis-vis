@@ -1,4 +1,6 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,M15 Kayseri,3,Hard,R16,1181,1721,0,Q,WC,Sarp Agabigun,Chirag Duhan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Kayseri,3,Hard,R32,1181,,1,Q,WC,Chirag Duhan,Farzan Amiri,7-5 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M15 Monastir,3,Hard,R32,1190,914,0,,,Daniel Khazime,Chirag Duhan,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M15 Monastir,3,Hard,R32,1196,,0,,Q,Theo Herrmann,Chirag Duhan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M15 Monastir,3,Hard,R32,1155,,0,,WC,Liam Delicata,Chirag Duhan,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -19,8 +21,8 @@
 15-Jan-2024,M15 Monastir,3,Hard,R32,1483,955,1,WC,WC,Chirag Duhan,Alexander Donski,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jan-2024,M15 Monastir,3,Hard,R16,1657,566,0,Q,1,Constantin Bittoun Kouzmine,Chirag Duhan,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jan-2024,M15 Monastir,3,Hard,R32,1657,1754,1,Q,LL,Chirag Duhan,Paul Werren,6-1 7-6(6),,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Monastir,3,,R32,1660,688,0,WC,8,Ilia Simakin,Chirag Duhan,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Monastir,3,,R32,1666,356,0,Q,6,Hady Habib,Chirag Duhan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Monastir,3,Hard,R32,1660,688,0,WC,8,Ilia Simakin,Chirag Duhan,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,Hard,R32,1666,356,0,Q,6,Hady Habib,Chirag Duhan,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M15 Ahmedabad,3,Hard,R32,1506,798,0,WC,6,Karan Singh,Chirag Duhan,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2023,M15 Monastir,3,Hard,R32,1478,1264,0,Q,Q,Louis Tessa,Chirag Duhan,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Sep-2023,M15 Monastir,3,Hard,R32,1472,458,0,,1,Alexis Gautier,Chirag Duhan,3-6 6-1 6-0,,,,,,,,,,,,,,,,,,,,,

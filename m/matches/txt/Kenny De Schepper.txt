@@ -1,5 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,Q1,723,494,0,,6,Oleksii Krutykh,Kenny De Schepper,6-4 7-5,0.82,3.8%,6.3%,60.0%,64.6%,40.6%,10/14,46.6%,36.8%,2.9%,31.8%,45.8%,2/6,148,3,5,80,48,32,2,
+14-Oct-2024,St. Brieuc CH,3,Hard,Q1,694,451,0,Alt,10,Mika Brunold,Kenny De Schepper,6-2 6-4,0.75,3.8%,5.7%,64.2%,64.7%,42.1%,6/10,44.8%,32.7%,3.8%,26.7%,40.9%,1/3,105,2,3,53,34,19,2,1:12
+7-Oct-2024,Roanne CH,3,Hard,Q1,679,252,0,Alt,1,Elias Ymer,Kenny De Schepper,6-4 6-4,0.82,8.3%,4.2%,75.0%,64.8%,55.6%,3/5,47.4%,30.8%,6.2%,20.0%,48.0%,0/4,137,6,3,72,54,18,4,1:28
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q1,679,352,0,WC,5,Alexey Vatutin,Kenny De Schepper,7-6(4) 6-7(5) 6-4,0.95,9.9%,5.0%,74.4%,70.0%,38.7%,4/7,48.8%,36.0%,0.8%,35.5%,37.5%,2/9,246,12,6,121,90,31,1,2:45
+9-Sep-2024,Rennes CH,3,Hard,R32,732,152,0,Q,,Hugo Grenier,Kenny De Schepper,7-6(1) 6-3,0.74,1.7%,1.7%,83.3%,60.0%,40.0%,4/7,43.4%,31.9%,5.8%,22.9%,52.4%,2/9,129,1,1,60,50,10,4,1:29
+9-Sep-2024,Rennes CH,3,Hard,Q2,732,399,1,12,2,Kenny De Schepper,Lucas Poullain,4-6 6-1 7-5,1.36,8.2%,1.2%,80.0%,73.5%,52.9%,3/5,55.6%,41.7%,1.2%,30.2%,61.3%,4/5,169,7,1,85,68,17,1,2:12
+9-Sep-2024,Rennes CH,3,Hard,Q1,732,941,1,12,Alt,Kenny De Schepper,Niklas Schell,6-3 6-2,1.94,6.5%,2.2%,76.1%,77.1%,72.7%,2/3,62.1%,46.3%,7.3%,50.0%,33.3%,4/4,87,3,1,46,35,11,3,0:53
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,QF,723,315,0,,2,Marat Sharipov,Kenny De Schepper,7-6(11) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R16,723,520,1,,5,Kenny De Schepper,Florent Bax,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25+H Bagneres-de-Bigorre,3,Hard,R32,723,1395,1,,WC,Kenny De Schepper,Leo Lagarrigue,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,Porto CH,3,Clay,Q1,723,494,0,,6,Oleksii Krutykh,Kenny De Schepper,6-4 7-5,0.82,3.8%,6.3%,60.0%,64.6%,40.6%,10/14,46.6%,36.8%,2.9%,31.8%,45.8%,2/6,148,3,5,80,48,32,2,1:44
 12-Aug-2024,M15 Gijon,3,Clay,R16,735,1399,0,,,Iker Urribarrens Ramirez,Kenny De Schepper,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,R32,735,369,1,,1,Kenny De Schepper,Miguel Damas,3-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,Porto CH,3,Hard,R32,611,167,0,Q,7,Henrique Rocha,Kenny De Schepper,6-2 6-4,0.75,0.0%,6.0%,60.0%,66.7%,50.0%,2/5,44.7%,30.2%,3.8%,10.3%,54.2%,0/0,103,0,3,50,30,20,2,1:18
@@ -40,9 +49,9 @@
 1-Jan-2024,Oeiras 1 CH,3,Hard,R32,479,336,0,Q,,Gastao Elias,Kenny De Schepper,6-4 6-4,0.61,3.4%,3.4%,75.9%,72.7%,50.0%,2/4,45.4%,20.0%,6.0%,12.5%,26.9%,0/0,108,2,2,58,44,14,3,1:12
 1-Jan-2024,Oeiras 1 CH,3,Hard,Q2,479,581,1,12,,Kenny De Schepper,Pedro Vives Marcos,6-2 6-7(4) 6-4,1.61,13.1%,0.0%,77.4%,80.0%,52.6%,0/1,56.0%,42.2%,0.9%,35.3%,53.7%,4/11,193,11,0,84,65,19,1,2:17
 1-Jan-2024,Oeiras 1 CH,3,Hard,Q1,479,857,1,12,Alt,Kenny De Schepper,Pedro Araujo,6-3 6-3,1.25,6.8%,9.6%,64.4%,76.6%,38.5%,7/8,55.0%,46.3%,0.0%,40.5%,56.0%,4/10,140,5,7,73,47,26,0,1:40
-4-Dec-2023,M15 Madrid,3,,R32,474,1015,0,4,Q,Tomas Curras Abasolo,Kenny De Schepper,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,474,1015,0,4,Q,Tomas Curras Abasolo,Kenny De Schepper,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maia CH,3,Clay,Q1,466,916,0,5,Alt,Pedro Araujo,Kenny De Schepper,7-6(5) 6-3,0.91,2.2%,5.6%,63.3%,59.6%,42.4%,8/13,48.4%,42.3%,1.4%,42.4%,41.7%,3/3,161,2,5,90,57,33,1,1:57
-13-Nov-2023,M15 Valencia,3,,R32,471,634,0,5,Q,Georgii Kravchenko,Kenny De Schepper,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Valencia,3,Clay,R32,471,634,0,5,Q,Georgii Kravchenko,Kenny De Schepper,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R16,466,821,0,,Q,Carlos Gimeno Valero,Kenny De Schepper,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Benicarlo,3,Clay,R32,466,1362,1,,Q,Kenny De Schepper,Vicente Oliver Moratalla,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Bergamo CH,3,Hard,Q2,474,210,0,,3,Illya Marchenko,Kenny De Schepper,6-4 7-5,1.04,16.7%,5.6%,72.2%,76.9%,46.7%,1/4,48.8%,32.8%,6.0%,23.3%,50.0%,1/5,121,9,3,54,39,15,4,1:28

@@ -1,4 +1,7 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,M25 Louisville KY,3,Hard,R16,810,465,0,,1,Aidan Mchugh,Jack Loutit,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Louisville KY,3,Hard,R32,810,,1,,,Jack Loutit,Tristan Mccormick,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Sep-2024,Davis Cup WG2 R1: NZL vs LUX,3,Hard,RR,790,507,1,,,Jack Loutit,Chris Rodesch,7-5 6-4,1.00,0.0%,4.0%,60.0%,80.0%,53.3%,4/4,51.8%,30.6%,17.7%,26.8%,38.1%,2/6,137,0,3,75,45,30,11,1:31
 17-Jun-2024,M15 Monastir,3,Hard,F,889,651,0,,3,Tiago Pereira,Jack Loutit,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M15 Monastir,3,Hard,SF,889,649,1,,1,Jack Loutit,Egor Agafonov,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M15 Monastir,3,Hard,QF,889,,1,,Q,Jack Loutit,Photos Photiades,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -12,12 +15,12 @@
 3-Jun-2024,M15 Monastir,3,Hard,R32,933,,1,,WC,Jack Loutit,Rayen Hermassi,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,Auckland,3,Hard,Q2,1050,92,0,WC,,Alex Michelsen,Jack Loutit,6-3 6-3,0.59,1.4%,4.3%,53.6%,64.9%,46.9%,4/7,43.3%,25.5%,9.8%,17.1%,43.8%,0/4,120,1,3,69,37,32,5,1:20
 8-Jan-2024,Auckland,3,Hard,Q1,1050,409,1,WC,Alt,Jack Loutit,Blake Mott,7-5 6-2,1.25,5.8%,1.4%,63.8%,68.2%,48.0%,4/6,55.6%,49.1%,5.5%,18.5%,78.6%,5/5,124,4,1,69,44,25,3,1:31
-18-Dec-2023,M15 Papamoa,3,,SF,1167,554,0,,1,Matthew Dellavedova,Jack Loutit,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,QF,1167,686,1,,4,Jack Loutit,Moerani Bouzige,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R16,1167,890,1,,8,Jack Loutit,Emile Hudd,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R32,1167,1312,1,,,Jack Loutit,Matt Kuhar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Wellington,3,,R16,1165,1590,0,,Q,Samuel Brosset,Jack Loutit,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Wellington,3,,R32,1165,629,1,,3,Jack Loutit,Kiranpal Pannu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,SF,1167,554,0,,1,Matthew Dellavedova,Jack Loutit,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,QF,1167,686,1,,4,Jack Loutit,Moerani Bouzige,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R16,1167,890,1,,8,Jack Loutit,Emile Hudd,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R32,1167,1312,1,,,Jack Loutit,Matt Kuhar,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,Hard,R16,1165,1590,0,,Q,Samuel Brosset,Jack Loutit,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Wellington,3,Hard,R32,1165,629,1,,3,Jack Loutit,Kiranpal Pannu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2023,M15 Champaign IL,3,Hard,QF,1058,781,0,,4,Shunsuke Mitsui,Jack Loutit,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2023,M15 Champaign IL,3,Hard,R16,1058,1576,1,,Q,Jack Loutit,David Saye,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
 11-Sep-2023,M15 Champaign IL,3,Hard,R32,1058,883,1,,5,Jack Loutit,Lucas Renard,6-3 6-1,,,,,,,,,,,,,,,,,,,,,

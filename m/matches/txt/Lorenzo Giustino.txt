@@ -1,12 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,R32,275,225,0,,6,Oliver Crawford,Lorenzo Giustino,7-6(10) 2-6 6-3,1.27,11.9%,2.4%,73.8%,77.4%,63.6%,3/4,51.3%,33.3%,3.8%,28.6%,40.5%,2/6,189,10,2,84,62,22,4,2:44
-25-Aug-2024,Porto CH,3,Clay,R32,275,155,0,,2,Jaime Faria,Lorenzo Giustino,6-1 7-6(7),0.79,3.0%,9.1%,66.7%,61.4%,50.0%,4/8,46.0%,33.3%,15.0%,21.9%,46.4%,1/3,126,2,6,66,44,22,9,
-12-Aug-2024,Todi CH,3,Clay,QF,286,280,0,,,Santiago Fa Rodriguez Taverna,Lorenzo Giustino,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R16,286,294,1,,,Lorenzo Giustino,Matej Dodig,4-6 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,Todi CH,3,Clay,R32,286,594,1,,Q,Lorenzo Giustino,Gianluca Cadenasso,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,QF,294,221,0,,4,Vilius Gaubas,Lorenzo Giustino,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R16,294,277,1,,,Lorenzo Giustino,Samuel Vincent Ruggeri,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,R32,294,373,1,,Q,Lorenzo Giustino,Andrea Picchione,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,QF,291,371,0,3,,Nerman Fatic,Lorenzo Giustino,7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R16,291,552,1,3,SE,Lorenzo Giustino,Gianluca Cadenasso,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R32,291,622,1,3,Q,Lorenzo Giustino,Gilles Arnaud Bailly,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,F,289,433,1,3,,Lorenzo Giustino,Nicolas Alvarez Varona,7-5 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,SF,289,252,1,3,2,Lorenzo Giustino,Gianluca Mager,7-6(6) RET,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,QF,289,378,1,3,7,Lorenzo Giustino,Alex Marti Pujolras,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R16,289,635,1,3,WC,Lorenzo Giustino,Inaki Montes De La Torre,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R32,289,582,1,3,SE,Lorenzo Giustino,Imanol Lopez Morillo,6-3 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Sibiu CH,3,Clay,R32,292,266,0,,7,Enrico Dalla Valle,Lorenzo Giustino,6-4 6-1,0.57,0.0%,3.9%,64.7%,60.6%,33.3%,4/9,40.4%,27.9%,7.0%,25.8%,33.3%,1/2,94,0,2,51,33,18,3,1:11
+9-Sep-2024,Dobrich CH,3,Clay,QF,302,301,0,6,,Jakub Nicod,Lorenzo Giustino,7-6(5) 6-2,0.84,3.4%,1.7%,58.6%,73.5%,54.2%,1/3,45.7%,29.0%,7.2%,17.1%,46.4%,0/3,127,2,1,58,34,24,5,1:42
+9-Sep-2024,Dobrich CH,3,Clay,R16,302,457,1,6,Q,Lorenzo Giustino,Christoph Negritu,7-6(2) 2-6 6-2,1.05,4.3%,5.3%,57.4%,74.1%,40.0%,6/10,50.8%,42.3%,12.4%,31.4%,54.3%,4/15,191,4,5,94,54,40,12,2:27
+9-Sep-2024,Dobrich CH,3,Clay,R32,302,736,1,6,Q,Lorenzo Giustino,Kimmer Coppejans,6-3 6-4,1.23,6.0%,1.5%,53.7%,66.7%,61.3%,5/6,54.8%,44.1%,8.5%,19.4%,71.4%,3/5,126,4,1,67,36,31,5,1:42
+2-Sep-2024,Tulln CH,3,Clay,R32,275,225,0,,6,Oliver Crawford,Lorenzo Giustino,7-6(10) 2-6 6-3,1.27,11.9%,2.4%,73.8%,77.4%,63.6%,3/4,51.3%,33.3%,3.8%,28.6%,40.5%,2/6,189,10,2,84,62,22,4,2:44
+26-Aug-2024,Porto CH,3,Clay,R32,275,155,0,,2,Jaime Faria,Lorenzo Giustino,6-1 7-6(7),0.79,3.0%,9.1%,66.7%,61.4%,50.0%,4/8,46.0%,33.3%,15.0%,21.9%,46.4%,1/3,126,2,6,66,44,22,9,1:23
+12-Aug-2024,Todi CH,3,Clay,QF,286,280,0,,,Santiago Fa Rodriguez Taverna,Lorenzo Giustino,2-6 6-2 6-4,0.83,2.4%,4.8%,65.1%,59.3%,48.3%,6/10,46.8%,37.0%,6.8%,26.1%,55.6%,3/6,156,2,4,83,54,29,5,2:08
+12-Aug-2024,Todi CH,3,Clay,R16,286,294,1,,,Lorenzo Giustino,Matej Dodig,4-6 7-6(4) 6-1,1.22,4.9%,1.9%,61.2%,73.0%,47.5%,10/13,54.7%,44.9%,5.6%,34.7%,57.5%,5/9,192,5,2,103,63,40,5,2:58
+12-Aug-2024,Todi CH,3,Clay,R32,286,594,1,,Q,Lorenzo Giustino,Gianluca Cadenasso,6-3 6-3,1.42,0.0%,5.1%,69.5%,73.2%,50.0%,5/6,57.4%,48.2%,0.0%,41.9%,69.2%,4/11,115,0,3,59,41,18,0,1:32
+5-Aug-2024,Cordenons CH,3,Clay,QF,294,221,0,,4,Vilius Gaubas,Lorenzo Giustino,6-4 6-4,0.99,5.5%,3.6%,58.2%,75.0%,56.5%,4/6,47.6%,32.4%,2.8%,28.3%,40.0%,0/3,126,3,2,55,32,23,2,1:57
+5-Aug-2024,Cordenons CH,3,Clay,R16,294,277,1,,,Lorenzo Giustino,Samuel Vincent Ruggeri,6-1 6-1,1.81,4.1%,6.1%,59.2%,75.9%,55.0%,4/4,63.4%,59.1%,0.0%,55.0%,62.5%,5/10,93,2,3,49,29,20,0,1:07
+5-Aug-2024,Cordenons CH,3,Clay,R32,294,373,1,,Q,Lorenzo Giustino,Andrea Picchione,7-5 2-6 6-4,1.07,1.2%,7.1%,61.2%,65.4%,45.5%,3/9,51.1%,45.3%,3.2%,35.8%,57.1%,6/15,180,1,6,85,52,33,3,2:46
 22-Jul-2024,M25 Denia,3,Clay,QF,312,368,0,3,5,Raul Brancaccio,Lorenzo Giustino,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R16,312,756,1,3,,Lorenzo Giustino,Ignacio Antonio Becerra Otarola,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R32,312,,1,3,WC,Lorenzo Giustino,Samuel Martinez Arjona,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -34,7 +46,7 @@
 20-May-2024,M25 Mataro,3,Clay,R16,377,758,1,1,,Lorenzo Giustino,John Echeverria,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 20-May-2024,M25 Mataro,3,Clay,R32,377,,1,1,WC,Lorenzo Giustino,Manel Lazaro Juncadella,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 13-May-2024,M25 Vic,3,Clay,R32,325,748,0,4,Q,Maxence Beauge,Lorenzo Giustino,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,Francavilla Al Mare CH,3,Clay,Q1,325,586,0,3,,Andrea Guerrieri,Lorenzo Giustino,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+6-May-2024,Francavilla Al Mare CH,3,Clay,Q1,325,586,0,3,,Andrea Guerrieri,Lorenzo Giustino,6-2 6-3,0.67,3.0%,9.1%,56.1%,67.6%,24.1%,7/12,42.6%,34.7%,0.0%,37.5%,29.4%,1/1,115,2,6,66,37,29,0,1:33
 29-Apr-2024,M25 Sabadell,3,Clay,R16,324,407,0,7,,Eric Vanshelboim,Lorenzo Giustino,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2024,M25 Sabadell,3,Clay,R32,324,789,1,7,Q,Lorenzo Giustino,Aleksandr Braynin,1-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Apr-2024,Barcelona CH,3,Clay,SF,354,143,0,Q,2,Bernabe Zapata Miralles,Lorenzo Giustino,7-6(1) 0-0 RET,0.87,0.0%,0.0%,84.8%,50.0%,60.0%,0/2,45.9%,42.3%,0.0%,36.4%,75.0%,2/4,85,0,0,33,28,5,0,1:16
@@ -94,8 +106,8 @@
 12-Jun-2023,Perugia CH,3,Clay,R32,250,313,0,,,Pol Martin Tiffon,Lorenzo Giustino,6-3 6-3,0.61,0.0%,3.4%,64.4%,73.7%,28.6%,5/8,43.1%,26.0%,4.0%,26.7%,25.0%,0/0,109,0,2,59,38,21,2,1:25
 5-Jun-2023,Prostejov CH,3,Clay,Q1,250,936,0,4,Alt,Pedro Sakamoto,Lorenzo Giustino,4-6 7-6(8) 7-6(4),0.99,3.2%,3.2%,71.4%,70.0%,44.4%,8/12,50.4%,37.1%,0.9%,32.9%,45.0%,5/12,242,4,4,126,90,36,1,3:24
 29-May-2023,Vicenza CH,3,Clay,Q2,250,278,0,2,8,Nerman Fatic,Lorenzo Giustino,6-2 6-2,0.50,0.0%,16.7%,52.1%,64.0%,21.7%,3/8,36.3%,27.9%,7.0%,22.2%,37.5%,1/1,91,0,8,48,25,23,3,1:05
-29-May-2023,Vicenza CH,3,Clay,Q1,250,327,1,2,,Lorenzo Giustino,Daniel Dutra Da Silva,6-4 4-6 6-1,1.52,7.1%,10.0%,65.7%,80.4%,50.0%,1/4,57.0%,45.7%,2.5%,40.0%,57.7%,5/10,151,5,7,70,46,24,2,2:02
 29-May-2023,Roland Garros,5,Clay,Q1,250,230,0,,,Frederico Ferreira Silva,Lorenzo Giustino,6-7(6) 7-6(5) 6-1,0.93,8.1%,5.1%,64.6%,71.9%,37.1%,1/6,48.1%,37.6%,3.7%,34.2%,44.4%,3/7,208,8,5,99,64,35,4,
+29-May-2023,Vicenza CH,3,Clay,Q1,250,327,1,2,,Lorenzo Giustino,Daniel Dutra Da Silva,6-4 4-6 6-1,1.52,7.1%,10.0%,65.7%,80.4%,50.0%,1/4,57.0%,45.7%,2.5%,40.0%,57.7%,5/10,151,5,7,70,46,24,2,2:02
 8-May-2023,Francavilla Al Mare CH,3,Clay,SF,267,160,0,,4,Benoit Paire,Lorenzo Giustino,6-3 6-2,0.68,0.0%,4.7%,67.2%,55.8%,33.3%,4/9,42.6%,35.3%,7.8%,21.4%,52.2%,1/4,115,0,3,64,43,21,4,1:12
 8-May-2023,Francavilla Al Mare CH,3,Clay,QF,267,217,1,,9,Lorenzo Giustino,Raphael Collignon,7-6(5) 6-2,1.13,3.9%,6.5%,57.1%,65.9%,51.5%,8/11,52.6%,45.6%,2.5%,35.6%,58.8%,5/13,156,3,5,77,44,33,2,2:09
 8-May-2023,Francavilla Al Mare CH,3,Clay,R16,267,211,1,,6,Lorenzo Giustino,Dimitar Kuzmanov,1-6 7-6(1) 6-2,0.96,0.9%,6.2%,70.8%,60.0%,36.4%,13/19,49.5%,45.1%,3.3%,46.4%,40.9%,6/12,204,1,7,113,80,33,3,3:18

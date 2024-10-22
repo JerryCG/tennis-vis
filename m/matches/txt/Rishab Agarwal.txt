@@ -1,4 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M25 Kigali,3,Clay,R32,965,700,0,PR,6,Aziz Ouakaa,Rishab Agarwal,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q1,979,519,0,PR,9,Aleksandre Bakshi,Rishab Agarwal,7-6(1) 7-5,0.94,12.3%,4.9%,48.1%,64.1%,45.2%,2/7,48.1%,43.0%,7.0%,36.4%,55.9%,4/18,181,10,4,81,39,42,7,2:25
+16-Sep-2024,M25 Guiyang,3,Hard,R16,984,373,0,PR,2,Kris Van Wyk,Rishab Agarwal,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Guiyang,3,Hard,R32,984,1476,1,PR,,Rishab Agarwal,Qiulin Wang,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Guangzhou CH,3,Hard,R32,1019,322,0,Q,,James Mccabe,Rishab Agarwal,6-2 6-4,0.82,1.9%,3.8%,59.6%,64.5%,57.1%,1/4,45.5%,31.7%,6.7%,23.5%,42.3%,0/4,112,1,2,52,31,21,4,1:22
+9-Sep-2024,Guangzhou CH,3,Hard,Q2,1019,963,1,9,,Rishab Agarwal,Hanyi Liu,6-3 7-6(3),1.44,4.5%,1.5%,53.0%,68.6%,71.0%,5/6,55.6%,43.6%,9.0%,30.0%,57.9%,3/8,144,3,1,66,35,31,7,1:50
+9-Sep-2024,Guangzhou CH,3,Hard,Q1,1019,1360,1,9,,Rishab Agarwal,Matthew Christopher Romios,6-3 2-0 RET,1.56,2.4%,0.0%,63.4%,69.2%,73.3%,5/5,57.5%,45.7%,8.7%,30.4%,60.9%,2/8,87,1,0,41,26,15,4,0:56
 5-Aug-2024,M25 Brazzaville,3,Clay,R16,790,1433,0,7,,Yuvan Nandal,Rishab Agarwal,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Brazzaville,3,Clay,R32,790,,1,7,Q,Rishab Agarwal,Harry Thursfield,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Brazzaville,3,Clay,QF,765,412,0,7,3,Bor Artnak,Rishab Agarwal,7-6(4) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -6,10 +13,10 @@
 29-Jul-2024,M25 Brazzaville,3,Clay,R32,765,,1,7,Q,Rishab Agarwal,Ethan Denzel Sibanda,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Bhopal,3,Hard,R32,674,822,0,,,Mitsuki Wei Kang Leong,Rishab Agarwal,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M25 Mandya,3,Hard,R32,672,553,0,,3,Orel Kimhi,Rishab Agarwal,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Kalaburagi,3,,QF,671,653,0,6,2,Ryuki Matsuda,Rishab Agarwal,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Kalaburagi,3,,R16,671,,1,6,WC,Rishab Agarwal,Manish Ganesh,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Kalaburagi,3,,R32,671,1960,1,6,WC,Rishab Agarwal,Jagmeet Singh,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Kuching,3,,R32,661,939,0,3,,Woobin Shin,Rishab Agarwal,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Kalaburagi,3,Hard,QF,671,653,0,6,2,Ryuki Matsuda,Rishab Agarwal,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Kalaburagi,3,Hard,R16,671,,1,6,WC,Rishab Agarwal,Manish Ganesh,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Kalaburagi,3,Hard,R32,671,1960,1,6,WC,Rishab Agarwal,Jagmeet Singh,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Kuching,3,Hard,R32,661,939,0,3,,Woobin Shin,Rishab Agarwal,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Davangere,3,Hard,R16,674,725,0,7,,Ramkumar Ramanathan,Rishab Agarwal,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Davangere,3,Hard,R32,674,1254,1,7,,Rishab Agarwal,Luke Sorensen,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M25 Dharwad,3,Hard,R16,689,586,0,,3,Digvijaypratap Singh,Rishab Agarwal,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

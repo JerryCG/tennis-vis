@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Taipei 2 CH,3,Hard,Q2,687,,1,7,Alt,Thanapet Chanta,Reese Stalder,7-6(4) 4-6 6-3,1.09,2.0%,8.1%,54.5%,74.1%,51.1%,1/4,51.2%,39.6%,17.0%,27.5%,50.9%,3/9,205,2,8,99,54,45,18,2:04
+21-Oct-2024,Taipei 2 CH,3,Hard,Q1,687,1845,1,7,,Thanapet Chanta,Julien De Cuyper,6-3 4-6 6-3,1.29,1.3%,6.7%,54.7%,75.6%,44.1%,3/8,54.6%,50.0%,4.6%,43.3%,58.3%,7/18,183,1,5,75,41,34,5,2:15
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,R32,693,172,0,WC,,Mackenzie Mcdonald,Thanapet Chanta,6-3 6-1,0.65,0.0%,6.5%,60.9%,53.6%,33.3%,4/9,40.2%,35.3%,15.7%,13.8%,63.6%,1/2,97,0,3,46,28,18,8,1:12
+9-Sep-2024,M15 Singapore,3,Hard,R16,721,1425,0,3,,Loic Namigandet Tenguere,Thanapet Chanta,6-7(4) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Singapore,3,Hard,R32,721,1498,1,3,Q,Thanapet Chanta,Abraham Asaba,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,QF,677,505,0,,5,Yurii Dzhavakian,Thanapet Chanta,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,R16,677,1326,1,,Q,Thanapet Chanta,Adhithya Ganesan,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,677,709,1,,,Thanapet Chanta,Mitsuki Wei Kang Leong,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Nakhon Si Thammarat ,3,Hard,R32,677,709,0,,,Mitsuki Wei Kang Leong,Thanapet Chanta,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Nakhon Si Thammarat ,3,Hard,R16,678,1236,0,8,Q,Chan Yeong Oh,Thanapet Chanta,6-7(3) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Nakhon Si Thammarat ,3,Hard,R32,678,1156,1,8,Q,Thanapet Chanta,Jirat Navasirisomboon,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M15 Nakhon Si Thammarat ,3,Hard,F,830,,1,6,WC,Thanapet Chanta,Jirat Navasirisomboon,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -30,8 +39,8 @@
 15-Jan-2024,Nonthaburi 3 CH,3,Hard,R32,1054,392,1,WC,Q,Thanapet Chanta,Akira Santillan,7-6(4) 4-1 RET,1.20,1.7%,1.7%,63.8%,73.0%,57.1%,0/1,54.1%,39.2%,11.8%,33.3%,50.0%,2/4,109,1,1,58,37,21,6,1:27
 8-Jan-2024,Nonthaburi 2 CH,3,Hard,Q1,1052,353,0,WC,7,Marat Sharipov,Thanapet Chanta,6-3 6-3,0.66,5.6%,0.0%,59.3%,59.4%,59.1%,2/5,43.4%,26.9%,21.2%,11.8%,55.6%,0/1,106,3,0,54,32,22,11,1:09
 1-Jan-2024,Nonthaburi 1 CH,3,Hard,Q1,1054,280,0,WC,3,Valentin Vacherot,Thanapet Chanta,6-2 6-3,0.32,1.7%,0.0%,74.6%,56.8%,40.0%,7/11,37.4%,15.0%,17.5%,10.0%,30.0%,1/2,99,1,0,59,44,15,7,1:14
-13-Nov-2023,M25 Hua Hin,3,,R16,1060,535,0,WC,5,Nam Hoang Ly,Thanapet Chanta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R32,1060,675,1,WC,,Thanapet Chanta,Duck Hee Lee,3-6 6-2 4-5 RET,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R16,1060,535,0,WC,5,Nam Hoang Ly,Thanapet Chanta,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R32,1060,675,1,WC,,Thanapet Chanta,Duck Hee Lee,3-6 6-2 4-5 RET,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Hua Hin,3,Hard,R32,994,542,0,WC,4,Hanwen Li,Thanapet Chanta,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Nakhon Si Thammarat,3,Hard,SF,1378,809,0,WC,,Yurii Dzhavakian,Thanapet Chanta,6-4 RET,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Nakhon Si Thammarat,3,Hard,QF,1378,774,1,WC,8,Thanapet Chanta,Taisei Ichikawa,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,

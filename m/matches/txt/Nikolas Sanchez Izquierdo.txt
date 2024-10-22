@@ -1,10 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-25-Aug-2024,Porto CH,3,Clay,SF,331,261,0,,6,Adrian Andreev,Nikolas Sanchez Izquierdo,6-4 6-1,0.71,0.0%,0.0%,62.3%,60.6%,30.0%,5/10,42.7%,36.0%,0.0%,44.1%,18.8%,1/7,103,0,0,53,33,20,0,1:34
-25-Aug-2024,Porto CH,3,Clay,QF,331,294,1,,,Nikolas Sanchez Izquierdo,Daniel Masur,7-6(7) 6-4,1.12,1.2%,4.8%,83.1%,65.2%,42.9%,6/8,52.0%,43.2%,0.0%,39.7%,50.0%,3/10,171,1,4,83,69,14,0,
-25-Aug-2024,Porto CH,3,Clay,R32,331,287,1,,8,Nikolas Sanchez Izquierdo,Ergi Kirkin,6-3 6-0,1.66,2.2%,8.7%,71.7%,66.7%,46.2%,1/3,62.8%,65.0%,2.5%,56.0%,80.0%,6/9,86,1,4,46,33,13,1,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,QF,320,266,0,5,2,Jay Clarke,Nikolas Sanchez Izquierdo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R16,320,364,1,5,,Nikolas Sanchez Izquierdo,Alexander Weis,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R32,320,549,1,5,,Nikolas Sanchez Izquierdo,Oleksii Krutykh,6-2 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Sibiu CH,3,Clay,R32,316,307,0,,8,Cezar Cretu,Nikolas Sanchez Izquierdo,6-4 7-6(3),0.90,0.0%,2.8%,67.6%,60.4%,56.5%,2/5,48.2%,36.8%,1.5%,28.3%,54.5%,2/3,139,0,2,71,48,23,1,1:51
+9-Sep-2024,Dobrich CH,3,Clay,R32,317,216,0,,1,Valentin Royer,Nikolas Sanchez Izquierdo,6-2 6-3,0.54,0.0%,0.0%,79.5%,54.3%,66.7%,3/6,38.9%,23.5%,11.8%,12.5%,42.1%,0/0,95,0,0,44,35,9,6,1:12
+2-Sep-2024,Seville CH,3,Clay,R32,331,280,0,Alt,,Enrico Dalla Valle,Nikolas Sanchez Izquierdo,6-2 7-6(1),0.73,0.0%,0.0%,68.8%,54.5%,48.0%,9/13,44.1%,34.7%,0.0%,30.9%,47.1%,2/8,152,0,0,80,55,25,0,2:08
+26-Aug-2024,Porto CH,3,Clay,SF,331,261,0,,6,Adrian Andreev,Nikolas Sanchez Izquierdo,6-4 6-1,0.71,0.0%,0.0%,62.3%,60.6%,30.0%,5/10,42.7%,36.0%,0.0%,44.1%,18.8%,1/7,103,0,0,53,33,20,0,1:34
+26-Aug-2024,Porto CH,3,Clay,QF,331,294,1,,,Nikolas Sanchez Izquierdo,Daniel Masur,7-6(7) 6-4,1.12,1.2%,4.8%,83.1%,65.2%,42.9%,6/8,52.0%,43.2%,0.0%,39.7%,50.0%,3/10,171,1,4,83,69,14,0,2:01
+26-Aug-2024,Porto CH,3,Clay,R16,331,488,1,,,Nikolas Sanchez Izquierdo,Hynek Barton,6-3 6-4,1.18,0.0%,3.1%,80.0%,69.2%,53.8%,3/4,54.8%,40.0%,4.0%,35.9%,54.5%,3/5,115,0,2,65,52,13,2,1:23
+26-Aug-2024,Porto CH,3,Clay,R32,331,287,1,,8,Nikolas Sanchez Izquierdo,Ergi Kirkin,6-3 6-0,1.66,2.2%,8.7%,71.7%,66.7%,46.2%,1/3,62.8%,65.0%,2.5%,56.0%,80.0%,6/9,86,1,4,46,33,13,1,1:10
 19-Aug-2024,Dobrich CH,3,Clay,R16,336,438,0,,WC,Petr Nesterov,Nikolas Sanchez Izquierdo,6-1 6-2,0.56,0.0%,6.0%,65.5%,50.9%,41.4%,7/12,41.4%,29.5%,6.8%,22.7%,36.4%,0/5,128,0,5,84,55,29,3,1:44
 19-Aug-2024,Dobrich CH,3,Clay,R32,336,446,1,,WC,Nikolas Sanchez Izquierdo,Yanaki Milev,6-3 6-4,1.50,0.0%,6.8%,71.2%,83.3%,41.2%,3/4,57.3%,43.1%,1.7%,28.9%,70.0%,3/10,117,0,4,59,42,17,1,1:26
-5-Aug-2024,Cordenons CH,3,Clay,R32,342,513,0,,Q,Luciano Emanuel Ambrogi,Nikolas Sanchez Izquierdo,6-7(2) 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,R32,342,513,0,,Q,Luciano Emanuel Ambrogi,Nikolas Sanchez Izquierdo,6-7(2) 6-3 7-5,0.95,1.9%,5.8%,66.3%,52.2%,60.0%,1/9,48.6%,43.0%,1.8%,36.1%,54.8%,6/11,218,2,6,104,69,35,2,3:12
+29-Jul-2024,Liberec CH,3,Clay,R16,334,281,0,,8,Michael Vrbensky,Nikolas Sanchez Izquierdo,6-4 6-2,0.69,4.0%,4.0%,66.0%,51.5%,64.7%,2/6,42.7%,30.2%,5.7%,27.8%,35.3%,1/5,103,2,2,50,33,17,3,1:14
+29-Jul-2024,Liberec CH,3,Clay,R32,334,487,1,,Q,Nikolas Sanchez Izquierdo,Oleg Prihodko,3-6 7-6(2) 6-1,1.16,1.1%,3.3%,58.7%,61.1%,60.5%,4/8,52.8%,45.5%,5.0%,33.9%,60.0%,6/13,193,1,3,92,54,38,5,2:24
 22-Jul-2024,Tampere CH,3,Clay,R32,334,315,0,,,Tristan Lamasine,Nikolas Sanchez Izquierdo,7-6(3) 7-5,0.82,0.0%,5.6%,62.9%,60.7%,51.5%,2/5,46.7%,35.0%,3.8%,27.1%,57.1%,2/7,169,0,5,89,56,33,3,2:06
 15-Jul-2024,Bastad,3,Clay,Q1,294,158,0,Alt,8,Alejandro Moro Canas,Nikolas Sanchez Izquierdo,6-1 6-3,0.62,1.9%,3.8%,63.5%,57.6%,26.3%,4/9,39.8%,33.3%,2.0%,27.0%,50.0%,1/2,103,1,2,52,33,19,1,1:15
 8-Jul-2024,Trieste CH,3,Clay,R32,298,165,0,,8,Oriol Roca Batalla,Nikolas Sanchez Izquierdo,6-3 6-2,0.74,2.3%,2.3%,52.3%,43.5%,61.9%,1/5,42.5%,35.5%,3.2%,32.3%,38.7%,1/4,106,1,1,44,23,21,2,1:34
@@ -12,7 +21,7 @@
 24-Jun-2024,Milan CH,3,Clay,R16,302,284,0,8,Q,Federico Agustin Gomez,Nikolas Sanchez Izquierdo,4-6 6-4 6-1,0.82,0.0%,3.3%,53.3%,56.3%,47.6%,7/13,45.8%,39.1%,5.7%,34.0%,47.1%,3/9,177,0,3,90,48,42,5,2:18
 24-Jun-2024,Milan CH,3,Clay,R32,302,405,1,8,WC,Nikolas Sanchez Izquierdo,Andrea Picchione,6-3 1-6 6-1,1.29,3.0%,1.5%,69.7%,73.9%,45.0%,3/6,54.8%,44.9%,8.7%,34.4%,54.1%,4/10,135,2,1,66,46,20,6,1:51
 17-Jun-2024,Poznan CH,3,Clay,R32,263,114,0,,2,Camilo Ugo Carabelli,Nikolas Sanchez Izquierdo,6-4 6-2,0.73,0.0%,1.9%,66.7%,44.4%,50.0%,7/12,42.6%,39.3%,1.6%,33.3%,48.0%,2/5,115,0,1,54,36,18,1,1:39
-10-Jun-2024,Perugia CH,3,Clay,R32,265,89,0,,4,Daniel Altmaier,Nikolas Sanchez Izquierdo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Jun-2024,Perugia CH,3,Clay,R32,265,89,0,,4,Daniel Altmaier,Nikolas Sanchez Izquierdo,6-2 6-3,0.40,0.0%,1.6%,74.2%,54.3%,56.3%,5/8,39.6%,18.2%,20.5%,12.9%,30.8%,0/0,106,0,1,62,46,16,9,1:28
 3-Jun-2024,Heilbronn CH,3,Clay,R16,258,267,0,,,Ivan Gakhov,Nikolas Sanchez Izquierdo,6-3 6-1,0.64,1.8%,1.8%,70.9%,51.3%,56.3%,3/7,41.7%,30.2%,11.3%,12.0%,46.4%,0/1,108,1,1,55,39,16,6,1:17
 3-Jun-2024,Heilbronn CH,3,Clay,R32,258,385,1,,Q,Nikolas Sanchez Izquierdo,Daniel Dutra Da Silva,7-6(6) 6-2,1.57,5.4%,1.8%,73.2%,80.5%,53.3%,0/1,56.7%,42.2%,7.8%,32.4%,55.6%,3/5,120,3,1,56,41,15,5,1:31
 20-May-2024,Lyon,3,Clay,R32,260,29,0,Q,6,Tomas Martin Etcheverry,Nikolas Sanchez Izquierdo,1-6 6-2 6-2,0.86,2.5%,4.9%,64.2%,61.5%,27.6%,4/10,46.5%,43.6%,5.1%,32.6%,59.4%,4/11,159,2,4,81,52,29,4,2:39

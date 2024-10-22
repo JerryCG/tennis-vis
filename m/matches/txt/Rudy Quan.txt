@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Sioux Falls CH,3,Hard,Q1,721,422,0,WC,3,Borna Gojo,Rudy Quan,4-6 6-1 6-1,0.57,3.8%,2.6%,71.8%,51.8%,36.4%,9/15,39.9%,30.0%,10.0%,27.0%,34.8%,2/2,138,3,2,78,56,22,6,1:23
+7-Oct-2024,Fairfield CH,3,Hard,R16,797,235,0,Q,8,Ethan Quinn,Rudy Quan,6-3 2-6 6-2,0.88,0.0%,2.3%,76.7%,53.0%,45.0%,6/12,47.5%,43.1%,5.6%,36.6%,51.6%,4/4,158,0,2,86,66,20,4,2:04
+7-Oct-2024,Fairfield CH,3,Hard,R32,797,274,1,Q,,Rudy Quan,Guy Den Ouden,3-6 6-3 6-4,1.09,0.0%,4.3%,78.3%,72.2%,45.0%,6/8,52.6%,36.7%,2.5%,31.9%,43.8%,3/5,171,0,4,92,72,20,2,2:09
+7-Oct-2024,Fairfield CH,3,Hard,Q2,797,539,1,,6,Rudy Quan,Keegan Smith,6-3 6-0,1.76,1.9%,0.0%,77.8%,69.0%,75.0%,3/3,62.2%,52.3%,4.5%,60.7%,37.5%,4/6,98,1,0,54,42,12,2,1:06
+7-Oct-2024,Fairfield CH,3,Hard,Q1,797,586,1,,8,Rudy Quan,Patrick Zahraj,7-5 6-1,1.46,0.0%,1.5%,63.1%,65.9%,62.5%,6/8,58.3%,51.6%,9.7%,30.3%,75.9%,5/8,127,0,1,65,41,24,6,1:35
 8-Jul-2024,M15 Lakewood CA,3,Hard,QF,846,342,0,8,1,Learner Tien,Rudy Quan,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Lakewood CA,3,Hard,R16,846,1442,1,8,Q,Rudy Quan,Preston Stearns,7-5 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M15 Lakewood CA,3,Hard,R32,846,1230,1,8,Q,Rudy Quan,Ryan Dickerson,4-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -18,7 +23,7 @@
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R16,1634,489,0,Q,4,Gilles Arnaud Bailly,Rudy Quan,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,1634,857,1,Q,,Rudy Quan,Karue Sell,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R32,1634,937,0,Q,,Adit Sinha,Rudy Quan,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Boca Raton FL,3,,R32,1443,1294,0,WC,,Alexander Razeghi,Rudy Quan,3-6 6-3 10-6,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Boca Raton FL,3,Clay,R32,1443,1294,0,WC,,Alexander Razeghi,Rudy Quan,3-6 6-3 10-6,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,R16,1608,1651,0,Q,Q,Ivan Marrero Curbelo,Rudy Quan,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,R32,1608,669,1,Q,,Rudy Quan,Andres Martin,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Las Vegas NV,3,Hard,R32,1614,563,0,WC,6,Andres Andrade,Rudy Quan,6-0 6-1,,,,,,,,,,,,,,,,,,,,,

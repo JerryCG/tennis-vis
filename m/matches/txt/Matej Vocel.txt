@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,Roanne CH,3,Hard,Q1,1011,338,0,Alt,8,Antoine Bellier,Matej Vocel,3-6 7-6(5) 7-6(4),1.40,19.2%,3.0%,51.5%,90.2%,68.8%,2/2,52.6%,28.2%,19.1%,19.7%,43.6%,1/3,209,19,3,99,51,48,21,2:01
+26-Aug-2024,M25 Sion,3,Clay,QF,1096,403,0,,2,Lucas Gerch,Matej Vocel,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Sion,3,Clay,R16,1096,,1,,WC,Matej Vocel,Mirko Martinez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Sion,3,Clay,R32,1096,434,1,,5,Matej Vocel,Marcello Serafini,6-4 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 29-Apr-2024,M15 Antalya,3,Clay,R16,1095,281,0,Q,1,Filip Cristian Jianu,Matej Vocel,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 29-Apr-2024,M15 Antalya,3,Clay,R32,1095,1865,1,Q,Q,Matej Vocel,Martins Rocens,6-4 2-6 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Apr-2024,M25 Sharm ElSheikh,3,Hard,QF,1206,357,0,Q,2,Vadym Ursu,Matej Vocel,6-3 RET,,,,,,,,,,,,,,,,,,,,,
@@ -7,8 +11,8 @@
 18-Mar-2024,M25 Toulouse-Balma,3,Hard,R32,1193,384,0,Q,7,Alexis Gautier,Matej Vocel,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R16,978,465,0,Q,3,Saba Purtseladze,Matej Vocel,6-7(1) 7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Doha,3,Hard,R32,978,,1,Q,WC,Matej Vocel,Mashari Nawaf,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,R16,789,491,0,,8,Elliot Benchetrit,Matej Vocel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,R32,789,1648,1,,Q,Matej Vocel,Goncalo Falcao,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R16,789,491,0,,8,Elliot Benchetrit,Matej Vocel,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,789,1648,1,,Q,Matej Vocel,Goncalo Falcao,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R16,810,778,0,,,Tiago Pereira,Matej Vocel,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Vale do Lobo,3,Hard,R32,810,,1,,Q,Matej Vocel,Tiago Boschmans,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Trnava,3,Hard,QF,811,441,0,Q,8,Karl Friberg,Matej Vocel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,

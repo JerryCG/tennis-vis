@@ -1,4 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Antwerp,3,Hard,Q1,363,216,0,,6,Mark Lajal,Miguel Damas,6-2 6-0,0.43,0.0%,6.7%,48.9%,45.5%,34.8%,2/7,33.0%,25.6%,20.9%,19.2%,35.3%,0/3,88,0,3,45,22,23,9,1:02
+7-Oct-2024,Valencia CH,3,Clay,Q2,366,298,0,10,3,Dennis Novak,Miguel Damas,6-4 6-2,0.74,1.5%,4.5%,69.7%,52.2%,40.0%,6/11,43.7%,38.3%,0.0%,31.0%,55.6%,2/8,126,1,3,66,46,20,0,1:34
+7-Oct-2024,Valencia CH,3,Clay,Q1,366,380,1,10,,Miguel Damas,Alex Marti Pujolras,7-5 2-6 6-3,0.99,1.1%,1.1%,75.9%,65.2%,52.4%,2/6,50.0%,37.6%,8.2%,24.6%,64.3%,4/11,172,1,1,87,66,21,7,2:29
+30-Sep-2024,M25 Zaragoza,3,Clay,QF,366,428,0,4,7,Ryan Nijboer,Miguel Damas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R16,366,760,1,4,,Miguel Damas,Sergi Perez Contri,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Zaragoza,3,Clay,R32,366,924,1,4,,Miguel Damas,Oscar Jose Gutierrez,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R16,368,433,0,6,,Nicolas Alvarez Varona,Miguel Damas,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Sabadell,3,Clay,R32,368,776,1,6,Q,Miguel Damas,Albert Pedrico Kravtsov,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Sibiu CH,3,Clay,R16,366,196,0,Alt,1,Stefano Travaglia,Miguel Damas,6-3 6-7(4) 6-4,0.76,1.8%,7.1%,63.4%,63.4%,48.8%,7/12,46.3%,31.9%,6.6%,27.5%,37.5%,2/2,203,2,8,112,71,41,6,2:47
+16-Sep-2024,Sibiu CH,3,Clay,R32,366,365,1,Alt,,Miguel Damas,Dimitar Kuzmanov,2-6 7-6(4) 7-5,0.97,0.0%,1.8%,57.8%,63.5%,52.2%,9/14,49.3%,40.0%,1.8%,35.4%,53.6%,4/11,219,0,2,109,63,46,2,3:13
+2-Sep-2024,Seville CH,3,Clay,Q1,372,545,0,5,WC,Nicolas Alvarez Varona,Miguel Damas,6-4 6-1,0.73,3.9%,3.9%,70.1%,53.7%,30.4%,7/12,43.2%,39.1%,8.7%,27.1%,66.7%,1/11,146,3,3,77,54,23,6,1:58
+26-Aug-2024,M25 Oviedo,3,Clay,SF,372,545,0,5,,Nicolas Alvarez Varona,Miguel Damas,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,QF,372,590,1,5,,Miguel Damas,George Loffhagen,1-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,R16,372,570,1,5,,Miguel Damas,Michiel De Krom,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oviedo,3,Clay,R32,372,669,1,5,,Miguel Damas,Dali Blanch,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Gijon,3,Clay,R32,369,735,0,1,,Kenny De Schepper,Miguel Damas,3-6 6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,Segovia CH,3,Hard,R16,372,413,0,,,Benjamin Lock,Miguel Damas,6-7(2) 7-5 7-6(5),1.07,2.5%,5.0%,71.4%,72.9%,61.8%,6/8,50.6%,32.3%,12.1%,25.6%,45.2%,1/8,243,3,6,119,85,34,15,3:22
 22-Jul-2024,Segovia CH,3,Hard,R32,372,412,1,,,Miguel Damas,Alexis Gautier,4-6 7-6(2) 6-2,1.24,7.2%,4.1%,72.2%,70.0%,59.3%,7/9,53.5%,40.8%,15.5%,23.1%,58.8%,3/10,200,7,4,97,70,27,16,2:21
@@ -46,7 +61,7 @@
 26-Feb-2024,M15 Villena,3,Hard,R16,462,1202,1,3,,Miguel Damas,Darwin Blanch,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 26-Feb-2024,M15 Villena,3,Hard,R32,462,1425,1,3,Q,Miguel Damas,Matthew Summers,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Feb-2024,Tenerife 2 CH,3,Hard,Q1,458,326,0,Alt,12,David Jorda Sanchis,Miguel Damas,3-6 6-1 6-1,0.73,4.1%,5.4%,58.1%,51.2%,51.6%,3/8,42.9%,35.4%,11.0%,26.8%,53.8%,2/8,156,3,4,74,43,31,9,1:48
-4-Dec-2023,M15 Madrid,3,,R32,419,,0,2,Q,Albert Pedrico Kravtsov,Miguel Damas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,419,,0,2,Q,Albert Pedrico Kravtsov,Miguel Damas,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maia CH,3,Clay,R32,412,293,0,LL,,Matteo Martineau,Miguel Damas,6-1 6-2,0.63,0.0%,2.0%,64.0%,43.8%,27.8%,2/8,38.5%,38.9%,1.9%,33.3%,53.3%,1/5,104,0,1,50,32,18,1,1:15
 27-Nov-2023,Maia CH,3,Clay,Q2,412,656,0,3,10,Tom Gentzsch,Miguel Damas,2-6 6-3 6-1,0.86,1.3%,4.0%,74.7%,67.9%,15.8%,4/9,46.5%,39.0%,8.5%,33.9%,50.0%,3/7,157,1,3,75,56,19,7,1:56
 27-Nov-2023,Maia CH,3,Clay,Q1,412,1081,1,3,,Miguel Damas,Leopold Zima,6-3 6-4,1.37,1.5%,1.5%,69.2%,66.7%,60.0%,1/3,56.3%,48.6%,7.1%,40.4%,65.2%,4/12,135,1,1,65,45,20,5,1:46

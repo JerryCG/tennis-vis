@@ -1,7 +1,23 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-5-Aug-2024,Cordenons CH,3,Clay,Q1,,473,0,9,,Max Alcala Gurri,Lautaro Midon,7-5 4-6 3-1 Ret'd,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q2,,487,0,5,10,Oleg Prihodko,Lautaro Midon,7-5 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q1,,708,1,5,Alt,Lautaro Midon,Peter Buldorini,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,Curitiba CH,3,Clay,Q2,425,378,1,10,5,Lautaro Midon,Valerio Aboian,7-6(4) 6-1,1.30,0.0%,0.0%,68.4%,61.5%,61.1%,4/6,55.6%,50.0%,1.7%,44.4%,58.3%,5/7,117,0,0,57,39,18,1,1:28
+21-Oct-2024,Curitiba CH,3,Clay,Q1,425,458,1,10,,Lautaro Midon,Tomas Farjat,6-3 6-0,2.06,2.6%,2.6%,47.4%,72.2%,75.0%,0/0,62.8%,54.2%,2.1%,38.7%,82.4%,5/5,86,1,1,38,18,20,1,0:53
+7-Oct-2024,Villa Maria CH,3,Clay,R32,444,202,0,Q,,Facundo Mena,Lautaro Midon,6-1 6-3,0.63,0.0%,1.9%,59.6%,51.6%,33.3%,5/10,39.4%,35.1%,7.0%,28.6%,41.4%,1/5,109,0,1,52,31,21,4,1:23
+7-Oct-2024,Villa Maria CH,3,Clay,Q2,444,382,1,12,6,Lautaro Midon,Joao Lucas Reis Da Silva,6-2 6-4,1.25,2.9%,1.4%,65.2%,64.4%,54.2%,5/7,55.6%,49.1%,1.8%,44.4%,57.9%,5/7,124,2,1,69,45,24,1,1:32
+7-Oct-2024,Villa Maria CH,3,Clay,Q1,444,449,1,12,,Lautaro Midon,Hernan Casanova,6-2 6-1,2.91,8.3%,2.8%,61.1%,86.4%,71.4%,0/0,67.1%,56.5%,0.0%,46.9%,78.6%,5/6,82,3,1,36,22,14,0,0:57
+23-Sep-2024,M15 Asuncion,3,Clay,F,,562,0,2,3,Pedro Boscardin Dias,Lautaro Midon,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Asuncion,3,Clay,SF,,604,1,2,4,Lautaro Midon,Igor Gimenez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Asuncion,3,Clay,QF,,667,1,2,7,Lautaro Midon,Johan Alexander Rodriguez Rodriguez,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Asuncion,3,Clay,R16,,949,1,2,,Lautaro Midon,Sean Hess,6-1 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Asuncion,3,Clay,R32,,1167,1,2,Q,Lautaro Midon,Federico Aguilar Cardozo,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Asuncion,3,Clay,F,,841,1,1,,Lautaro Midon,Franco Emanuel Egea,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Asuncion,3,Clay,SF,,1030,1,1,Q,Lautaro Midon,Nicolas Kicker,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Asuncion,3,Clay,QF,,1584,1,1,,Lautaro Midon,Pedro Rodrigues,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Asuncion,3,Clay,R16,,1274,1,1,Q,Lautaro Midon,Mateo Del Pino,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Asuncion,3,Clay,R32,,845,1,1,,Lautaro Midon,Joaquin Aguilar Cardozo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,Todi CH,3,Clay,Q1,,645,0,7,,Luca Castagnola,Lautaro Midon,6-4 7-6(9),1.01,1.4%,1.4%,70.8%,72.5%,57.1%,4/5,48.7%,32.1%,1.2%,31.4%,33.3%,0/6,156,1,1,72,51,21,1,2:02
+5-Aug-2024,Cordenons CH,3,Clay,Q1,,473,0,9,,Max Alcala Gurri,Lautaro Midon,7-5 4-6 3-1 RET,0.94,3.6%,3.6%,59.5%,62.0%,38.2%,2/8,48.5%,44.7%,0.0%,36.8%,60.7%,5/7,169,3,3,84,50,34,0,2:19
+29-Jul-2024,Liberec CH,3,Clay,Q2,,487,0,5,10,Oleg Prihodko,Lautaro Midon,7-5 4-6 6-3,0.95,0.0%,3.4%,66.9%,67.1%,43.6%,10/14,49.1%,38.6%,5.3%,27.7%,53.1%,3/10,232,0,4,118,79,39,6,2:36
+29-Jul-2024,Liberec CH,3,Clay,Q1,,708,1,5,Alt,Lautaro Midon,Peter Buldorini,6-2 6-1,1.51,0.0%,9.6%,40.4%,66.7%,58.1%,4/5,59.6%,58.1%,1.6%,48.4%,67.7%,6/17,114,0,5,52,21,31,1,1:17
 22-Jul-2024,M25 Denia,3,Clay,QF,,439,0,,8,Pol Martin Tiffon,Lautaro Midon,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R16,,518,1,,,Lautaro Midon,Tibo Colson,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Denia,3,Clay,R32,,1183,1,,JE,Lautaro Midon,Alejandro Melero Kretzer,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -38,13 +54,13 @@
 12-Feb-2024,M25 Punta del Este,3,Clay,R16,,479,0,,,Facundo Mena,Lautaro Midon,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2024,M25 Punta del Este,3,Clay,R32,,415,1,,7,Lautaro Midon,Juan Bautista Torres,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,Buenos Aires CH,3,Clay,R32,,361,0,WC,,Max Houkes,Lautaro Midon,7-6(6) 6-1,0.77,1.5%,1.5%,52.3%,64.7%,41.9%,0/4,44.2%,35.6%,1.4%,23.9%,55.6%,2/6,138,1,1,65,34,31,1,1:59
-11-Dec-2023,M15 Concepcion,3,,QF,,570,0,3,5,Facundo Mena,Lautaro Midon,5-7 7-6(5) 7-6(0),,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Concepcion,3,,R16,,1487,1,3,Q,Lautaro Midon,Thiago Cigarran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Concepcion,3,,R32,,1264,1,3,Q,Lautaro Midon,Alberto Odiseo Alvarado Berrospi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,SF,,540,0,4,5,Nicolas Kicker,Lautaro Midon,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,QF,,536,1,4,6,Lautaro Midon,Lorenzo Joaquin Rodriguez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R16,,802,1,4,,Lautaro Midon,Justin Roberts,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R32,,1076,1,4,,Lautaro Midon,Joao Victor Couto Loureiro,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,QF,,570,0,3,5,Facundo Mena,Lautaro Midon,5-7 7-6(5) 7-6(0),,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,R16,,1487,1,3,Q,Lautaro Midon,Thiago Cigarran,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,R32,,1264,1,3,Q,Lautaro Midon,Alberto Odiseo Alvarado Berrospi,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,SF,,540,0,4,5,Nicolas Kicker,Lautaro Midon,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,QF,,536,1,4,6,Lautaro Midon,Lorenzo Joaquin Rodriguez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R16,,802,1,4,,Lautaro Midon,Justin Roberts,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R32,,1076,1,4,,Lautaro Midon,Joao Victor Couto Loureiro,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,QF,,449,0,7,2,Luciano Emanuel Ambrogi,Lautaro Midon,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,R16,,862,1,7,,Lautaro Midon,Igor Gimenez,6-4 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,R32,,1862,1,7,Q,Lautaro Midon,Oscar Gabriel Ortiz,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -56,11 +72,11 @@
 25-Sep-2023,M25 Lujan,3,Clay,QF,,404,0,6,3,Gonzalo Bueno,Lautaro Midon,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 25-Sep-2023,M25 Lujan,3,Clay,R16,,655,1,6,,Lautaro Midon,Franco Roncadelli,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 25-Sep-2023,M25 Lujan,3,Clay,R32,,830,1,6,,Lautaro Midon,Ignacio Carou,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,F,,434,1,2,1,Lautaro Midon,Matias Franco Descotte,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,SF,,651,1,2,3,Lautaro Midon,Guido Ivan Justo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,QF,,725,1,2,5,Lautaro Midon,Gilbert Soares Klier Junior,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R16,,1451,1,2,Q,Lautaro Midon,Santiago Bramajo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,,963,1,2,,Lautaro Midon,Lorenzo Gagliardo,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,F,,434,1,2,1,Lautaro Midon,Matias Franco Descotte,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,SF,,651,1,2,3,Lautaro Midon,Guido Ivan Justo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,QF,,725,1,2,5,Lautaro Midon,Gilbert Soares Klier Junior,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R16,,1451,1,2,Q,Lautaro Midon,Santiago Bramajo,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R32,,963,1,2,,Lautaro Midon,Lorenzo Gagliardo,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,F,,725,0,8,,Gilbert Soares Klier Junior,Lautaro Midon,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,SF,,591,1,8,7,Lautaro Midon,Bruno Kuzuhara,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,QF,,,1,8,2,Lautaro Midon,Daniel Vallejo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,

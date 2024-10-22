@@ -1,8 +1,15 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-5-Aug-2024,Cordenons CH,3,Clay,Q2,467,513,0,11,,Luciano Emanuel Ambrogi,Lorenzo Joaquin Rodriguez,7-5 3-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,Q1,467,556,1,11,ALT,Lorenzo Joaquin Rodriguez,Diego Augusto Barreto Sanchez,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q2,470,342,0,7,2,Juan Bautista Torres,Lorenzo Joaquin Rodriguez,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q1,470,707,1,7,Alt,Lorenzo Joaquin Rodriguez,Milos Karol,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,Villa Maria CH,3,Clay,Q1,547,381,0,Alt,5,Valerio Aboian,Lorenzo Joaquin Rodriguez,3-6 6-0 6-3,0.68,2.3%,3.4%,70.1%,59.0%,38.5%,7/12,43.8%,31.8%,6.1%,28.9%,38.1%,2/5,153,2,3,87,61,26,4,2:01
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,Q1,547,381,0,,7,Valerio Aboian,Lorenzo Joaquin Rodriguez,6-3 6-4,0.70,0.0%,7.8%,49.0%,60.0%,53.8%,2/6,43.3%,30.2%,5.7%,25.6%,42.9%,2/3,104,0,4,51,25,26,3,1:07
+9-Sep-2024,M15 Cordoba,3,Clay,R32,555,1847,0,3,,Pedro Rodrigues,Lorenzo Joaquin Rodriguez,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,SF,467,242,0,4,1,Andrea Collarini,Lorenzo Joaquin Rodriguez,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,QF,467,484,1,4,6,Lorenzo Joaquin Rodriguez,Guido Ivan Justo,6-7(5) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R16,467,1592,1,4,WC,Lorenzo Joaquin Rodriguez,Valentin Garay,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R32,467,,1,4,WC,Lorenzo Joaquin Rodriguez,Bautista Leguizamon,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,Q2,467,513,0,11,,Luciano Emanuel Ambrogi,Lorenzo Joaquin Rodriguez,7-5 3-6 7-6(4),1.04,3.8%,3.8%,51.4%,63.0%,49.0%,10/16,50.4%,45.4%,0.8%,37.7%,59.5%,7/12,224,4,4,105,54,51,1,3:16
+5-Aug-2024,Cordenons CH,3,Clay,Q1,467,556,1,11,Alt,Lorenzo Joaquin Rodriguez,Diego Augusto Barreto Sanchez,6-1 7-6(3),1.17,3.0%,9.0%,53.7%,77.8%,41.9%,3/4,53.3%,45.6%,0.0%,42.4%,48.6%,4/11,135,2,6,67,36,31,0,1:36
+29-Jul-2024,Liberec CH,3,Clay,Q2,470,342,0,7,2,Juan Bautista Torres,Lorenzo Joaquin Rodriguez,6-1 7-5,0.75,1.7%,10.2%,57.6%,47.1%,20.0%,1/9,41.4%,48.1%,0.0%,37.5%,65.0%,4/6,111,1,6,59,34,25,0,1:25
+29-Jul-2024,Liberec CH,3,Clay,Q1,470,707,1,7,Alt,Lorenzo Joaquin Rodriguez,Milos Karol,6-4 6-4,1.24,0.0%,3.2%,56.5%,80.0%,63.0%,5/5,54.8%,34.0%,1.9%,19.4%,64.7%,2/3,115,0,2,62,35,27,1,1:13
 22-Jul-2024,Segovia CH,3,Hard,R32,473,669,0,,WC,Mario Gonzalez Fernandez,Lorenzo Joaquin Rodriguez,6-4 6-3,0.70,6.6%,11.5%,36.1%,72.7%,48.7%,1/4,43.8%,30.0%,10.0%,21.6%,43.5%,0/4,121,4,7,61,22,39,6,1:24
 15-Jul-2024,M15 Uslar,3,Clay,R16,470,2045,0,1,Q,Michel Hopp,Lorenzo Joaquin Rodriguez,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M15 Uslar,3,Clay,R32,470,,1,1,WC,Lorenzo Joaquin Rodriguez,Nikolai Barsukov,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -27,16 +34,16 @@
 26-Feb-2024,M25 Tucuman,3,Clay,R16,535,294,0,,2,Alvaro Guillen Meza,Lorenzo Joaquin Rodriguez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 26-Feb-2024,M25 Tucuman,3,Clay,R32,535,1539,1,,LL,Lorenzo Joaquin Rodriguez,Benjamin Ignacio Torres Fernandez,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,Buenos Aires CH,3,Clay,Q1,537,415,0,Alt,8,Gonzalo Bueno,Lorenzo Joaquin Rodriguez,2-6 6-3 6-4,1.03,2.8%,0.0%,61.1%,65.9%,64.3%,4/7,49.7%,35.8%,0.0%,28.6%,52.0%,3/12,153,2,0,72,44,28,0,2:01
-11-Dec-2023,M15 Concepcion,3,,R32,541,1366,0,4,WC,Nicolas Bruna,Lorenzo Joaquin Rodriguez,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,QF,536,,0,6,4,Lautaro Midon,Lorenzo Joaquin Rodriguez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R16,536,911,1,6,,Lorenzo Joaquin Rodriguez,Luciano Carraro,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R32,536,1535,1,6,Q,Lorenzo Joaquin Rodriguez,Joel Angel Lucero,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Santa Cruz,3,,R16,544,918,0,4,,Fermin Tenti,Lorenzo Joaquin Rodriguez,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Santa Cruz,3,,R32,544,,1,4,WC,Lorenzo Joaquin Rodriguez,Luis Andre Oliva Ewel,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Santa Cruz,3,,SF,515,402,0,5,1,Alex Barrena,Lorenzo Joaquin Rodriguez,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Santa Cruz,3,,QF,515,504,1,5,3,Lorenzo Joaquin Rodriguez,Ignacio Monzon,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Santa Cruz,3,,R16,515,1320,1,5,Q,Lorenzo Joaquin Rodriguez,Nikos Lehmann,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Santa Cruz,3,,R32,515,1927,1,5,WC,Lorenzo Joaquin Rodriguez,Elbert Barr,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Concepcion,3,Clay,R32,541,1366,0,4,WC,Nicolas Bruna,Lorenzo Joaquin Rodriguez,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,QF,536,,0,6,4,Lautaro Midon,Lorenzo Joaquin Rodriguez,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R16,536,911,1,6,,Lorenzo Joaquin Rodriguez,Luciano Carraro,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R32,536,1535,1,6,Q,Lorenzo Joaquin Rodriguez,Joel Angel Lucero,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,Clay,R16,544,918,0,4,,Fermin Tenti,Lorenzo Joaquin Rodriguez,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Santa Cruz,3,Clay,R32,544,,1,4,WC,Lorenzo Joaquin Rodriguez,Luis Andre Oliva Ewel,6-0 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,SF,515,402,0,5,1,Alex Barrena,Lorenzo Joaquin Rodriguez,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,QF,515,504,1,5,3,Lorenzo Joaquin Rodriguez,Ignacio Monzon,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,R16,515,1320,1,5,Q,Lorenzo Joaquin Rodriguez,Nikos Lehmann,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,R32,515,1927,1,5,WC,Lorenzo Joaquin Rodriguez,Elbert Barr,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,F,555,824,0,8,,Juan Carlos Prado Angelo,Lorenzo Joaquin Rodriguez,6-3 4-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,SF,555,848,1,8,WC,Lorenzo Joaquin Rodriguez,Alejo Lorenzo Lingua Lavallen,6-1 4-6 7-6(9),,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Rosario,3,Clay,QF,555,588,1,8,,Lorenzo Joaquin Rodriguez,Franco Roncadelli,6-4 5-7 6-2,,,,,,,,,,,,,,,,,,,,,

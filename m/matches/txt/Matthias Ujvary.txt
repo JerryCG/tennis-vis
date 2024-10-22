@@ -1,12 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,Q1,1075,410,0,WC,7,Petr Nesterov,Matthias Ujvary,6-1 6-4,0.59,2.0%,7.8%,54.9%,64.3%,34.8%,6/10,39.8%,28.8%,5.8%,20.6%,44.4%,1/2,103,1,4,51,28,23,3,1:09
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,Q1,1081,453,0,WC,11,Tim Handel,Matthias Ujvary,6-4 6-3,0.69,0.0%,5.4%,58.9%,63.6%,34.8%,0/4,42.7%,33.3%,1.9%,31.6%,37.5%,2/3,110,0,3,56,33,23,1,1:11
+2-Sep-2024,Tulln CH,3,Clay,Q1,1075,410,0,WC,7,Petr Nesterov,Matthias Ujvary,6-1 6-4,0.59,2.0%,7.8%,54.9%,64.3%,34.8%,6/10,39.8%,28.8%,5.8%,20.6%,44.4%,1/2,103,1,4,51,28,23,3,1:09
+26-Aug-2024,M15 Vienna,3,Clay,R32,1075,668,0,,8,Milos Karol,Matthias Ujvary,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,R32,1048,1423,0,,,Yannik Kelm,Matthias Ujvary,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R16,1092,484,0,WC,,Peter Heller,Matthias Ujvary,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R32,1092,466,1,WC,5,Matthias Ujvary,Eric Vanshelboim,7-6(1) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M15 Slovenska Bistrica,3,Clay,R16,1083,676,0,Q,6,Felix Corwin,Matthias Ujvary,6-3 6-7(8) 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M15 Slovenska Bistrica,3,Clay,R32,1083,1525,1,Q,Q,Matthias Ujvary,Jack Karlsson Wistrand,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,Salzburg CH,3,Clay,Q1,1075,315,0,WC,1,David Jorda Sanchis,Matthias Ujvary,6-1 7-5,0.55,1.6%,6.6%,63.9%,59.0%,50.0%,5/8,41.2%,24.5%,9.4%,18.5%,30.8%,0/0,114,1,4,61,39,22,5,1:22
-17-Jun-2024,M15 Nyiregyh谩za,3,Clay,R32,1074,808,0,,5,Peter Fajta,Matthias Ujvary,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Nyiregyhaza,3,Clay,R32,1074,808,0,,5,Peter Fajta,Matthias Ujvary,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M15 Nyiregyhaza,3,Clay,R32,1072,970,0,,,Juan Estevez,Matthias Ujvary,6-7(2) 7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
 20-May-2024,M15 Celje,3,Clay,R16,1089,704,0,,3,Daniel Paty,Matthias Ujvary,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 20-May-2024,M15 Celje,3,Clay,R32,1089,1199,1,,,Matthias Ujvary,Nikola Basic,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -26,9 +28,9 @@
 15-Jan-2024,M15 Antalya,3,Clay,QF,1007,942,0,WC,Q,Niccolo Catini,Matthias Ujvary,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Antalya,3,Clay,R16,1007,357,1,WC,1,Matthias Ujvary,Mohamed Safwat,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Antalya,3,Clay,R32,1007,,1,WC,Q,Matthias Ujvary,Razvan Baiant,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Antalya,3,,R32,1015,1228,0,,WC,Mert Alkaya,Matthias Ujvary,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R16,997,259,0,,2,Nicholas David Ionel,Matthias Ujvary,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R32,997,1239,1,,Q,Matthias Ujvary,Mert Alkaya,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,Clay,R32,1015,1228,0,,WC,Mert Alkaya,Matthias Ujvary,4-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R16,997,259,0,,2,Nicholas David Ionel,Matthias Ujvary,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R32,997,1239,1,,Q,Matthias Ujvary,Mert Alkaya,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M15 Bad Waltersdorf,3,Clay,R16,1049,766,0,WC,,Marcel Zielinski,Matthias Ujvary,6-4 6-7(6) 6-2,,,,,,,,,,,,,,,,,,,,,
 2-Oct-2023,M15 Bad Waltersdorf,3,Clay,R32,1049,361,1,WC,1,Matthias Ujvary,Filip Cristian Jianu,6-2 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2023,Bad Waltersdorf CH,3,Clay,Q1,1064,343,0,WC,4,Ergi Kirkin,Matthias Ujvary,6-2 6-2,0.68,2.2%,2.2%,67.4%,41.9%,26.7%,4/10,40.5%,42.9%,1.4%,37.5%,50.0%,2/10,116,1,1,46,31,15,1,1:18

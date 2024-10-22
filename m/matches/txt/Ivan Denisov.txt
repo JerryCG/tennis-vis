@@ -1,8 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,R16,1083,817,0,,6,Saveliy Ivanov,Ivan Denisov,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,R32,1083,,1,,WC,Ivan Denisov,Artem Bogomolov,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Guangzhou CH,3,Hard,Q1,1073,728,0,,3,Mikalai Haliak,Ivan Denisov,7-5 3-6 6-3,1.00,10.8%,6.5%,60.2%,67.9%,51.4%,8/12,49.7%,38.8%,2.0%,27.5%,51.1%,3/8,191,10,6,93,56,37,2,2:37
+2-Sep-2024,M15 Tashkent,3,Hard,R32,1061,730,0,,6,Zura Tkemaladze,Ivan Denisov,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Tashkent,3,Hard,R32,1061,557,0,,2,Dominik Palan,Ivan Denisov,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Arad,3,Clay,R32,1062,1508,0,7,,Jeremy Gschwendtner,Ivan Denisov,6-1 4-6 6-0,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R32,1075,1587,0,Q,Q,Sai Karteek Reddy Ganta,Ivan Denisov,6-3 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,Astana CH,3,Hard,Q2,1069,1031,0,,Alt,Saveliy Ivanov,Ivan Denisov,6-1 7-6(3),,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,Astana CH,3,Hard,Q1,1069,1016,1,,11,Ivan Denisov,Boris Pokotilov,6-7(5) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Astana CH,3,Hard,Q2,1069,1031,0,,Alt,Saveliy Ivanov,Ivan Denisov,6-1 7-6(3),0.58,10.2%,5.1%,54.2%,59.4%,59.3%,1/4,42.1%,23.6%,9.1%,21.9%,26.1%,1/3,114,6,3,59,32,27,5,1:37
+15-Jul-2024,Astana CH,3,Hard,Q1,1069,1016,1,,11,Ivan Denisov,Boris Pokotilov,6-7(5) 6-0 6-3,1.25,1.0%,7.3%,53.1%,76.5%,48.9%,3/5,55.4%,45.6%,2.5%,23.3%,72.2%,6/6,175,1,7,96,51,45,2,2:29
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,QF,1123,615,0,,3,Sergey Fomin,Ivan Denisov,7-6(5) 5-2 RET,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,R16,1123,797,1,,6,Ivan Denisov,Petr Bar Biryukov,6-4 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,R32,1123,,1,,WC,Ivan Denisov,Kolganov Kirill,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -17,7 +22,7 @@
 26-Feb-2024,Kigali 1 CH,3,Clay,R32,1463,420,0,Q,,Yshai Oliel,Ivan Denisov,6-4 6-2,0.73,3.7%,7.4%,55.6%,60.0%,45.8%,4/8,43.9%,34.0%,0.0%,35.9%,28.6%,1/5,107,2,4,54,30,24,0,1:32
 26-Feb-2024,Kigali 1 CH,3,Clay,Q2,1463,1091,1,11,6,Ivan Denisov,Seita Watanabe,6-4 6-7(5) 6-4,1.26,4.2%,0.0%,62.1%,72.9%,58.3%,3/5,52.5%,41.0%,1.6%,32.9%,54.3%,4/11,217,4,0,95,59,36,2,2:50
 26-Feb-2024,Kigali 1 CH,3,Clay,Q1,1463,,1,11,Alt,Ivan Denisov,Takeru Yuzuki,7-6(5) 6-3,1.44,8.8%,4.4%,60.3%,87.8%,59.3%,2/2,54.2%,33.8%,4.1%,30.0%,41.7%,1/5,142,6,3,68,41,27,3,1:44
-20-Nov-2023,M25 Antalya,3,,R32,1347,1076,0,Q,Q,Maxim Zhukov,Ivan Denisov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R32,1347,1076,0,Q,Q,Maxim Zhukov,Ivan Denisov,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Telavi,3,Clay,R16,1484,528,0,Q,3,Svyatoslav Gulin,Ivan Denisov,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Telavi,3,Clay,R32,1484,1584,1,Q,Q,Ivan Denisov,George Tsivadze,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M25 Telavi,3,Clay,R16,1494,369,0,Q,4,Michael Vrbensky,Ivan Denisov,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

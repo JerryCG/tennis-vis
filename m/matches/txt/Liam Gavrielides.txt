@@ -1,11 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,M15 Grodzisk Mazowiecki,3,Hard,R32,550,1155,0,4,,Lasse Poertner,Liam Gavrielides,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Trier,3,Clay,QF,575,1268,0,5,,Alexandre Aubriot,Liam Gavrielides,3-2 RET,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Trier,3,Clay,R16,575,,1,5,Q,Liam Gavrielides,Noel Larwig,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Trier,3,Clay,R32,575,,1,5,,Liam Gavrielides,Tom Sickenberger,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,SF,578,651,0,3,6,Kai Wehnelt,Liam Gavrielides,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,QF,578,683,1,3,7,Liam Gavrielides,Justin Engel,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,R16,578,961,1,3,,Liam Gavrielides,David Fix,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,R32,578,1258,1,3,Q,Liam Gavrielides,Jannik Maute,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,SF,578,651,0,3,6,Kai Wehnelt,Liam Gavrielides,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,QF,578,683,1,3,7,Liam Gavrielides,Justin Engel,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,R16,578,961,1,3,,Liam Gavrielides,David Fix,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,R32,578,1258,1,3,Q,Liam Gavrielides,Jannik Maute,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,Bonn CH,3,Clay,Q2,581,343,0,,5,Martin Klizan,Liam Gavrielides,3-6 6-3 6-4,1.17,5.6%,6.9%,45.8%,78.8%,59.0%,3/6,50.6%,37.5%,5.2%,20.0%,52.9%,2/7,168,4,5,72,33,39,5,2:12
 5-Aug-2024,Bonn CH,3,Clay,Q1,581,374,1,,8,Liam Gavrielides,Mikalai Haliak,6-1 6-2,1.74,9.1%,7.3%,49.1%,66.7%,60.7%,2/3,63.4%,63.2%,0.0%,63.2%,63.2%,5/5,93,5,4,55,27,28,0,1:04
 29-Jul-2024,M25 Wetzlar,3,Clay,R32,576,441,0,,7,Daniel Michalski,Liam Gavrielides,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -56,11 +57,11 @@
 29-Jan-2024,Koblenz CH,3,Hard,Q1,734,297,0,,4,Michael Geerts,Liam Gavrielides,7-6(7) 3-6 6-4,1.07,22.8%,4.0%,52.5%,77.4%,54.2%,4/6,50.2%,36.0%,5.3%,23.0%,50.9%,3/10,215,23,4,101,53,48,6,2:40
 15-Jan-2024,M15 Manacor,3,Hard,R32,734,1264,0,,LL,Sergio Callejon Hernando,Liam Gavrielides,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Manacor,3,Hard,R32,736,393,0,,1,Pol Martin Tiffon,Liam Gavrielides,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Monastir,3,,R16,758,1291,0,,,Petr Brunclik,Liam Gavrielides,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Monastir,3,,R32,758,,1,,WC,Liam Gavrielides,Miguel Garcia,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,QF,787,947,0,,WC,Massimo Giunta,Liam Gavrielides,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R16,787,890,1,,,Liam Gavrielides,Simon Beaupain,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Monastir,3,,R32,787,465,1,,1,Liam Gavrielides,Constantin Bittoun Kouzmine,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Monastir,3,Hard,R16,758,1291,0,,,Petr Brunclik,Liam Gavrielides,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Monastir,3,Hard,R32,758,,1,,WC,Liam Gavrielides,Miguel Garcia,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,QF,787,947,0,,WC,Massimo Giunta,Liam Gavrielides,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R16,787,890,1,,,Liam Gavrielides,Simon Beaupain,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Monastir,3,Hard,R32,787,465,1,,1,Liam Gavrielides,Constantin Bittoun Kouzmine,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Monastir,3,Hard,SF,787,948,0,,Q,Max Wiskandt,Liam Gavrielides,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Monastir,3,Hard,QF,787,765,1,,7,Liam Gavrielides,Christoph Negritu,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Monastir,3,Hard,R16,787,859,1,,,Liam Gavrielides,Matthew William Donald,7-6(6) 6-1,,,,,,,,,,,,,,,,,,,,,

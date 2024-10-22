@@ -1,9 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Olbia CH,3,Hard,R32,543,172,0,Q,6,Constant Lestienne,Sergey Fomin,6-0 6-3,0.54,0.0%,11.1%,52.8%,52.6%,17.6%,3/8,35.2%,34.5%,1.8%,28.1%,43.5%,1/6,91,0,4,36,19,17,1,1:11
+14-Oct-2024,Olbia CH,3,Hard,Q2,543,547,1,11,,Sergey Fomin,Milos Karol,6-4 6-1,1.45,3.2%,3.2%,66.1%,70.7%,57.1%,3/4,58.6%,49.0%,6.1%,27.3%,66.7%,4/8,111,2,2,62,41,21,3,1:19
+14-Oct-2024,Olbia CH,3,Hard,Q1,543,2070,1,11,WC,Sergey Fomin,Federico Salomone,6-4 6-1,1.60,4.5%,2.3%,43.2%,73.7%,64.0%,3/4,58.6%,50.9%,1.8%,41.9%,62.5%,5/6,99,2,1,44,19,25,1,1:06
+7-Oct-2024,M25 Sintra,3,Hard,R32,534,297,0,,3,Gauthier Onclin,Sergey Fomin,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2024,Davis Cup WG2 R1: UZB vs EST,3,Hard,RR,537,224,0,,,Mark Lajal,Sergey Fomin,6-4 4-6 7-6(6),0.84,10.3%,2.9%,61.8%,63.1%,55.8%,13/16,48.9%,33.3%,16.2%,22.2%,63.0%,3/4,235,14,4,136,84,52,16,2:44
+2-Sep-2024,Istanbul CH,3,Hard,Q1,542,,0,8,WC,S Mert Ozdemir,Sergey Fomin,1-6 6-4 6-3,0.96,3.6%,7.2%,72.3%,58.3%,30.4%,6/12,48.8%,47.2%,5.6%,38.5%,59.5%,6/11,172,3,6,83,60,23,5,2:03
 19-Aug-2024,M25 Poznan,3,Clay,QF,545,278,0,,1,Michael Vrbensky,Sergey Fomin,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R16,545,508,1,,,Sergey Fomin,Louis Wessels,6-0 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R32,545,444,1,,5,Sergey Fomin,Marek Gengel,6-3 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R16,552,268,0,,1,Khumoyun Sultanov,Sergey Fomin,3-6 7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R32,552,571,1,,,Sergey Fomin,Filip Peliwo,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Astana CH,3,Hard,QF,582,622,0,,WC,Aleksandre Bakshi,Sergey Fomin,7-6(5) 6-7(3) 7-6(3),0.98,7.2%,5.1%,60.9%,77.4%,48.1%,6/8,49.6%,33.3%,9.4%,22.5%,48.3%,2/12,276,10,7,138,84,54,13,3:20
+15-Jul-2024,Astana CH,3,Hard,R16,582,448,1,,6,Sergey Fomin,Yanki Erel,5-4 RET,1.08,4.9%,2.4%,70.7%,65.5%,33.3%,3/4,51.8%,47.6%,4.8%,44.8%,53.8%,2/6,83,2,1,41,29,12,2,1:08
+15-Jul-2024,Astana CH,3,Hard,R32,582,1730,1,,Q,Sergey Fomin,Takeru Yuzuki,7-6(4) 6-1,1.31,5.6%,7.0%,57.7%,80.5%,60.0%,2/2,56.3%,36.8%,12.3%,34.3%,40.9%,2/3,128,4,5,71,41,30,7,1:28
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,F,615,1916,0,3,SE,Martin Borisiouk,Sergey Fomin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,SF,615,870,1,3,7,Sergey Fomin,Maxim Zhukov,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Ust-Kamenogorsk,3,Hard,QF,615,1123,1,3,,Sergey Fomin,Ivan Denisov,7-6(5) 5-2 RET,,,,,,,,,,,,,,,,,,,,,
@@ -40,17 +49,17 @@
 12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R16,665,361,1,,6,Sergey Fomin,Elmer Moller,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Feb-2024,M25 Vila Real de Santo Antonio,3,Hard,R32,665,776,1,,Q,Sergey Fomin,Michiel De Krom,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Feb-2024,Davis Cup WG1 PO: UZB vs POL,3,Hard,RR,665,8,0,,,Hubert Hurkacz,Sergey Fomin,6-2 6-1,0.63,1.6%,3.1%,59.4%,60.5%,30.8%,5/9,41.2%,32.7%,12.7%,25.7%,45.0%,0/1,119,1,2,64,38,26,7,1:10
-18-Dec-2023,M15 Antalya,3,,QF,670,458,0,6,1,Dmitry Popko,Sergey Fomin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Antalya,3,,R16,670,1045,1,6,,Sergey Fomin,Ioan Alexandru Chirita,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Antalya,3,,R32,670,,1,6,WC,Sergey Fomin,Kerem Yilmaz,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,F,728,504,0,,5,Dmitry Popko,Sergey Fomin,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,SF,728,838,1,,,Sergey Fomin,Evgeny Tyurnev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,QF,728,564,1,,8,Sergey Fomin,Denys Klok,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,R16,728,1120,1,,Q,Sergey Fomin,Lucio Carnevalle,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Antalya,3,,R32,728,355,1,,2,Sergey Fomin,Max Houkes,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Antalya,3,,QF,730,1080,0,5,,Maxim Zhukov,Sergey Fomin,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Antalya,3,,R16,730,1657,1,5,WC,Sergey Fomin,Mert Naci Turker,1-0 RET,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M15 Antalya,3,,R32,730,,1,5,,Sergey Fomin,Bekhan Atlangeriev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,QF,670,458,0,6,1,Dmitry Popko,Sergey Fomin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,R16,670,1045,1,6,,Sergey Fomin,Ioan Alexandru Chirita,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Antalya,3,Clay,R32,670,,1,6,WC,Sergey Fomin,Kerem Yilmaz,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,F,728,504,0,,5,Dmitry Popko,Sergey Fomin,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,SF,728,838,1,,,Sergey Fomin,Evgeny Tyurnev,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,QF,728,564,1,,8,Sergey Fomin,Denys Klok,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,R16,728,1120,1,,Q,Sergey Fomin,Lucio Carnevalle,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Antalya,3,Clay,R32,728,355,1,,2,Sergey Fomin,Max Houkes,6-4 5-7 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,Clay,QF,730,1080,0,5,,Maxim Zhukov,Sergey Fomin,7-6(3) 6-0,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,Clay,R16,730,1657,1,5,WC,Sergey Fomin,Mert Naci Turker,1-0 RET,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Antalya,3,Clay,R32,730,,1,5,,Sergey Fomin,Bekhan Atlangeriev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Antalya,3,Clay,R32,704,453,0,Q,,Tim Handel,Sergey Fomin,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Antalya,3,Clay,R32,696,900,0,,,Tuncay Duran,Sergey Fomin,7-5 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Sharm ElSheikh,3,Hard,R32,686,1132,0,,WC,Faris Zakaryia,Sergey Fomin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

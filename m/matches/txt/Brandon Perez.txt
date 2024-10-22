@@ -1,4 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,M25 Kampala,3,Clay,R32,1217,812,0,,8,Maximilian Neuchrist,Brandon Perez,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Kigali,3,Clay,R16,1217,700,0,,6,Aziz Ouakaa,Brandon Perez,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,M25 Kigali,3,Clay,R32,1217,,1,,WC,Brandon Perez,Etienne Niyigena,6-4 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,QF,1214,416,0,,4,Corentin Denolly,Brandon Perez,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,R16,1214,910,1,,,Brandon Perez,Preston Brown,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Kigali,3,Clay,R32,1214,636,1,,8,Brandon Perez,Aryan Shah,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Sapporo,3,Hard,R32,1216,2057,0,Q,Q,Yusuke Kusuhara,Brandon Perez,7-6(8) 6-1,,,,,,,,,,,,,,,,,,,,,
 2-Sep-2024,M25 Sapporo,3,Hard,R32,1222,600,0,Q,,Ryotaro Taguchi,Brandon Perez,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,Bogota CH,3,Clay,Q2,1433,,0,,WC,Mateo Castaneda,Brandon Perez,7-6(8) 2-6 6-4,1.00,9.9%,2.7%,53.2%,67.8%,48.1%,4/8,50.5%,41.6%,1.0%,39.5%,48.0%,5/13,212,11,3,111,59,52,1,2:35
 5-Aug-2024,Bogota CH,3,Clay,Q1,1433,657,1,,3,Brandon Perez,Juan Bautista Otegui,6-0 6-4,2.12,2.1%,4.3%,57.4%,81.5%,65.0%,5/5,64.2%,54.2%,4.2%,39.1%,68.0%,4/6,95,1,2,47,27,20,2,1:04
@@ -15,9 +22,9 @@
 4-Mar-2024,M15 Kish Island,3,Clay,R32,1634,554,1,Q,3,Brandon Perez,Matyas Fuele,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
 26-Feb-2024,M15 Kish Island,3,Clay,R16,1637,605,0,Q,4,Dan Alexandru Tomescu,Brandon Perez,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 26-Feb-2024,M15 Kish Island,3,Clay,R32,1637,1074,1,Q,,Brandon Perez,Dragos Nicolae Cazacu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Concepcion,3,,R32,1607,497,0,LL,2,Nicolas Zanellato,Brandon Perez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Concepcion,3,Clay,R32,1607,497,0,LL,2,Nicolas Zanellato,Brandon Perez,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Temuco CH,3,Hard,Q1,1582,471,0,,,Ignacio Buse,Brandon Perez,6-4 6-1,0.47,3.1%,9.4%,54.7%,51.4%,41.4%,8/13,38.5%,25.0%,5.0%,5.6%,40.9%,1/1,104,2,6,64,35,29,2,1:04
-20-Nov-2023,M15 Santa Cruz,3,,R32,1430,1411,0,Q,Q,Manuel Mouilleron Salvo,Brandon Perez,7-6(11) 7-6(7),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Santa Cruz,3,Clay,R32,1430,1411,0,Q,Q,Manuel Mouilleron Salvo,Brandon Perez,7-6(11) 7-6(7),,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Morelia,3,Hard,R32,1590,,0,,Q,Ryuhei Azuma,Brandon Perez,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Zapopan,3,Clay,R16,1595,837,0,,7,Juan Carlos Aguilar,Brandon Perez,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25 Zapopan,3,Clay,R32,1595,,1,,LL,Brandon Perez,Franco Marini,7-6(3) 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,

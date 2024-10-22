@@ -1,8 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Cassis CH,3,Hard,Q2,562,452,0,12,5,Kyle Edmund,Nikolay Vylegzhanin,6-2 6-4,0.55,10.9%,4.7%,75.0%,66.7%,37.5%,7/10,43.4%,22.4%,6.1%,14.3%,33.3%,0/0,113,7,3,64,48,16,3,1:20
-1-Sep-2024,Cassis CH,3,Hard,Q1,562,1143,1,12,WC,Nikolay Vylegzhanin,Mikail Alimli,6-1 6-4,1.69,3.8%,7.5%,56.6%,73.3%,52.2%,5/7,62.5%,60.5%,4.7%,50.0%,69.6%,5/5,96,2,4,53,30,23,2,1:19
-29-Jul-2024,Liberec CH,3,Clay,Q1,549,342,0,,2,Juan Bautista Torres,Nikolay Vylegzhanin,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,R32,544,645,0,,,Chris Rodesch,Nikolay Vylegzhanin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,St. Brieuc CH,3,Hard,Q2,554,499,0,,7,Lucas Poullain,Nikolay Vylegzhanin,7-6(1) 6-1,0.59,2.6%,7.7%,53.8%,57.1%,36.1%,3/7,40.4%,31.0%,0.0%,27.5%,38.9%,2/4,136,2,6,78,42,36,0,1:51
+14-Oct-2024,St. Brieuc CH,3,Hard,Q1,554,415,1,,4,Nikolay Vylegzhanin,Marvin Moeller,6-3 3-1 RET,1.25,2.5%,7.5%,57.5%,69.6%,35.3%,2/4,55.7%,56.4%,2.6%,41.2%,68.2%,4/5,79,1,3,40,23,17,1,0:58
+30-Sep-2024,M25 Nevers,3,Hard,R32,544,,0,4,Q,Johan Sebastien Tatlot,Nikolay Vylegzhanin,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Saint-Tropez CH,3,Hard,Q2,560,223,0,Alt,1,Gijs Brouwer,Nikolay Vylegzhanin,6-1 6-0,0.24,0.0%,7.3%,68.3%,35.7%,15.4%,4/10,24.3%,17.2%,6.9%,14.3%,25.0%,0/0,70,0,3,41,28,13,2,0:46
+16-Sep-2024,Saint-Tropez CH,3,Hard,Q1,560,389,1,Alt,7,Nikolay Vylegzhanin,Matthew Dellavedova,6-3 6-1,1.67,0.0%,10.2%,71.4%,68.6%,21.4%,2/5,64.0%,75.0%,0.0%,66.7%,92.3%,7/8,89,0,5,49,35,14,0,1:10
+9-Sep-2024,M25+H Plaisir,3,Hard,R32,556,679,0,,,John Echeverria,Nikolay Vylegzhanin,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Cassis CH,3,Hard,Q2,562,452,0,12,5,Kyle Edmund,Nikolay Vylegzhanin,6-2 6-4,0.55,10.9%,4.7%,75.0%,66.7%,37.5%,7/10,43.4%,22.4%,6.1%,14.3%,33.3%,0/0,113,7,3,64,48,16,3,1:20
+2-Sep-2024,Cassis CH,3,Hard,Q1,562,1143,1,12,WC,Nikolay Vylegzhanin,Mikail Alimli,6-1 6-4,1.69,3.8%,7.5%,56.6%,73.3%,52.2%,5/7,62.5%,60.5%,4.7%,50.0%,69.6%,5/5,96,2,4,53,30,23,2,1:19
+29-Jul-2024,Liberec CH,3,Clay,Q1,549,342,0,,2,Juan Bautista Torres,Nikolay Vylegzhanin,6-2 6-0,0.43,0.0%,5.1%,56.4%,45.5%,23.5%,1/6,31.6%,27.5%,5.0%,23.1%,35.7%,0/1,79,0,2,39,22,17,2,1:01
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,R32,544,645,0,,,Chris Rodesch,Nikolay Vylegzhanin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,Trieste CH,3,Clay,Q1,558,359,0,,4,Luka Mikrut,Nikolay Vylegzhanin,6-0 6-2,0.54,0.0%,2.3%,52.3%,43.5%,28.6%,2/8,35.4%,34.2%,13.2%,15.0%,55.6%,1/2,82,0,1,44,23,21,5,1:04
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R32,560,679,0,,,Peter Benjamin Privara,Nikolay Vylegzhanin,0-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Villeneuve-Loubet+H,3,Clay,R32,576,,0,,WC,Matisse Bobichon,Nikolay Vylegzhanin,6-7(5) 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -37,9 +43,9 @@
 15-Jan-2024,M15 Monastir,3,Hard,R16,617,846,1,6,Q,Nikolay Vylegzhanin,Matthew William Donald,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Monastir,3,Hard,R32,617,748,1,6,,Nikolay Vylegzhanin,Maxence Rivet,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Monastir,3,Hard,R32,626,845,0,5,Q,Matthew William Donald,Nikolay Vylegzhanin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R16,627,381,0,,5,Clement Chidekh,Nikolay Vylegzhanin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,627,563,1,,,Nikolay Vylegzhanin,Alex Rybakov,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Monastir,3,,R32,660,342,0,,7,Robert Strombachs,Nikolay Vylegzhanin,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R16,627,381,0,,5,Clement Chidekh,Nikolay Vylegzhanin,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,627,563,1,,,Nikolay Vylegzhanin,Alex Rybakov,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Monastir,3,Hard,R32,660,342,0,,7,Robert Strombachs,Nikolay Vylegzhanin,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Monastir,3,Hard,SF,679,247,0,7,1,Clement Tabur,Nikolay Vylegzhanin,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Monastir,3,Hard,QF,679,464,1,7,3,Nikolay Vylegzhanin,Eliakim Coulibaly,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Monastir,3,Hard,R16,679,1330,1,7,Q,Nikolay Vylegzhanin,Patrick Schoen,6-3 7-5,,,,,,,,,,,,,,,,,,,,,

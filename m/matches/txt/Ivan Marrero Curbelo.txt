@@ -1,4 +1,14 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,M15 Pontevedra,3,Hard,R16,739,693,0,,8,Yaroslav Demin,Ivan Marrero Curbelo,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,M15 Pontevedra,3,Hard,R32,739,1081,1,,Q,Ivan Marrero Curbelo,Mark Whitehouse,7-5 7-6(3),,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,Villena CH,3,Hard,Q2,739,337,0,WC,3,Michael Geerts,Ivan Marrero Curbelo,6-2 6-3,0.59,0.0%,1.6%,65.1%,46.3%,45.5%,5/10,40.2%,31.8%,6.8%,25.0%,43.8%,1/2,107,0,1,63,41,22,3,1:18
+30-Sep-2024,Villena CH,3,Hard,Q1,739,436,1,WC,9,Ivan Marrero Curbelo,Riccardo Bonadio,6-3 6-3,1.71,4.3%,8.7%,67.4%,87.1%,46.7%,0/1,57.8%,44.6%,3.6%,37.1%,57.1%,4/7,102,2,4,46,31,15,2,0:52
+16-Sep-2024,M15 Melilla,3,Clay,QF,754,584,0,7,4,Imanol Lopez Morillo,Ivan Marrero Curbelo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R16,754,739,1,7,,Ivan Marrero Curbelo,Sergi Perez Contri,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Melilla,3,Clay,R32,754,1710,1,7,WC,Ivan Marrero Curbelo,Vicente Oliver Moratalla,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Madrid,3,Hard,QF,759,716,0,8,3,Alejandro Manzanera Pertusa,Ivan Marrero Curbelo,1-6 7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Madrid,3,Hard,R16,759,1219,1,8,,Ivan Marrero Curbelo,Jordi Garcia Mestre,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M15 Madrid,3,Hard,R32,759,982,1,8,,Ivan Marrero Curbelo,Kuzey Cekirge,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,SF,868,583,0,,,Alastair Gray,Ivan Marrero Curbelo,6-4 1-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,QF,868,1108,1,,Q,Ivan Marrero Curbelo,Maxwell Mckennon,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Idanha-a-Nova,3,Hard,R16,868,512,1,,8,Ivan Marrero Curbelo,Pedro Araujo,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -28,11 +38,11 @@
 15-Jan-2024,Tenerife CH,3,Hard,Q1,1025,296,0,WC,6,August Holmgren,Ivan Marrero Curbelo,6-4 6-2,0.39,0.0%,4.8%,55.6%,57.1%,53.6%,3/6,39.4%,17.4%,15.2%,11.1%,26.3%,0/0,109,0,3,63,35,28,7,1:32
 8-Jan-2024,M15 Manacor,3,Hard,R16,1022,,0,Q,WC,Nathan Trouve,Ivan Marrero Curbelo,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Manacor,3,Hard,R32,1022,1047,1,Q,Q,Ivan Marrero Curbelo,Andrew Fenty,6-1 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R16,1043,724,0,,8,Mario Gonzalez Fernandez,Ivan Marrero Curbelo,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Ceuta,3,,R32,1043,1676,1,,Q,Ivan Marrero Curbelo,Alvaro Bueno Gil,6-7(7) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Madrid,3,,R32,1036,645,0,Q,,Georgii Kravchenko,Ivan Marrero Curbelo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R16,1043,724,0,,8,Mario Gonzalez Fernandez,Ivan Marrero Curbelo,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Ceuta,3,Hard,R32,1043,1676,1,,Q,Ivan Marrero Curbelo,Alvaro Bueno Gil,6-7(7) 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Madrid,3,Clay,R32,1036,645,0,Q,,Georgii Kravchenko,Ivan Marrero Curbelo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maspalomas CH,3,Clay,Q1,1030,381,0,Alt,1,Javier Barranco Cosano,Ivan Marrero Curbelo,6-0 0-0 RET,0.32,0.0%,3.4%,79.3%,43.5%,16.7%,2/5,31.8%,20.0%,6.7%,12.5%,28.6%,0/0,44,0,1,29,23,6,1,0:32
-13-Nov-2023,M15 East Lansing MI,3,,R32,1033,714,0,Q,2,Ozan Baris,Ivan Marrero Curbelo,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R32,1033,714,0,Q,2,Ozan Baris,Ivan Marrero Curbelo,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Winston-Salem NC,3,Hard,R32,1041,613,0,LL,1,Pedro Rodenas,Ivan Marrero Curbelo,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,SF,1651,,0,Q,Q,Raphael Perot,Ivan Marrero Curbelo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,QF,1651,382,1,Q,1,Ivan Marrero Curbelo,Federico Agustin Gomez,6-3 6-1,,,,,,,,,,,,,,,,,,,,,

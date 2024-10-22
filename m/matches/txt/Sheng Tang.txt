@@ -1,4 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,Q1,913,672,0,,7,Mikalai Haliak,Sheng Tang,6-4 2-0 RET,0.45,6.7%,6.7%,60.0%,55.6%,50.0%,2/4,39.7%,21.2%,6.1%,15.8%,28.6%,0/1,78,3,3,45,27,18,2,0:56
+7-Oct-2024,Hangzhou CH,3,Hard,Q2,987,507,0,Alt,5,Aleksandre Bakshi,Sheng Tang,4-6 6-2 6-2,0.61,5.7%,0.0%,65.9%,58.6%,53.3%,7/11,43.1%,26.4%,12.5%,17.1%,38.7%,1/4,160,5,0,88,58,30,9,1:49
+7-Oct-2024,Hangzhou CH,3,Hard,Q1,987,684,1,Alt,12,Sheng Tang,Mikalai Haliak,7-6(5) 4-0 RET,1.63,13.7%,0.0%,70.6%,69.4%,73.3%,1/2,57.5%,47.8%,0.0%,36.4%,58.3%,3/9,120,7,0,51,36,15,0,1:32
+23-Sep-2024,M25 Fuzhou,3,Hard,R16,986,742,0,,,Mikalai Haliak,Sheng Tang,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Fuzhou,3,Hard,R32,986,912,1,,,Sheng Tang,Bang Shuo Yin,4-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,Zhangjiagang CH,3,Hard,R16,1070,379,0,WC,,Fajing Sun,Sheng Tang,6-4 6-4,0.59,3.7%,3.7%,53.7%,65.5%,48.0%,0/3,41.5%,25.0%,1.9%,21.9%,30.0%,1/3,106,2,2,54,29,25,1,1:32
+26-Aug-2024,Zhangjiagang CH,3,Hard,R32,1070,257,1,WC,8,Sheng Tang,Egor Gerasimov,7-6(5) 6-3,0.84,8.3%,3.7%,50.9%,74.5%,50.9%,11/11,51.2%,31.3%,18.8%,13.9%,53.6%,1/2,172,9,4,108,55,53,12,2:03
 12-Aug-2024,M25 Yinchuan,3,Hard,R32,1068,478,0,WC,6,Stefanos Sakellaridis,Sheng Tang,4-6 7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M25 Tianjin,3,Hard,R32,926,620,0,,,Yi Zhou,Sheng Tang,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Tianjin,3,Hard,R32,906,621,0,WC,,Ye Cong Mo,Sheng Tang,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -14,10 +21,10 @@
 13-May-2024,M25 Luan,3,Hard,R16,1004,1340,1,,WC,Sheng Tang,Changli Zhang,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 13-May-2024,M25 Luan,3,Hard,R32,1004,730,1,,,Sheng Tang,Jimmy Yang,5-7 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 6-May-2024,Wuxi CH,3,Hard,Q1,1004,392,0,WC,9,Blake Ellis,Sheng Tang,6-3 6-1,0.69,2.1%,4.2%,58.3%,60.7%,35.0%,3/7,41.3%,34.4%,8.2%,27.3%,42.9%,0/5,109,1,2,48,28,20,5,1:10
-27-Nov-2023,M15 Kuala Lumpur,3,,R32,991,1409,0,,Q,Ryota Tanuma,Sheng Tang,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Ipoh Perak,3,,R16,993,,0,,2,Jeamoon Lee,Sheng Tang,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Ipoh Perak,3,,R32,993,,1,,WC,Sheng Tang,Hao Sheng Koay,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Kuching,3,,R32,990,768,0,,8,Hikaru Shiraishi,Sheng Tang,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M15 Kuala Lumpur,3,Hard,R32,991,1409,0,,Q,Ryota Tanuma,Sheng Tang,6-1 1-0 RET,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Ipoh Perak,3,Hard,R16,993,,0,,2,Jeamoon Lee,Sheng Tang,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Ipoh Perak,3,Hard,R32,993,,1,,WC,Sheng Tang,Hao Sheng Koay,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Kuching,3,Hard,R32,990,768,0,,8,Hikaru Shiraishi,Sheng Tang,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,Shenzhen CH,3,Hard,Q1,974,904,0,WC,12,Wishaya Trongcharoenchaikul,Sheng Tang,3-6 6-1 6-2,0.71,4.4%,8.8%,67.6%,63.0%,40.9%,4/9,43.9%,31.3%,17.2%,20.6%,43.3%,2/4,132,3,6,68,46,22,11,1:24
 9-Oct-2023,Shenzhen CH,3,Hard,R32,979,276,0,WC,,Alibek Kachmazov,Sheng Tang,6-3 6-4,0.90,4.3%,4.3%,67.4%,80.6%,46.7%,0/2,44.6%,27.3%,19.7%,19.5%,40.0%,0/4,112,2,2,46,31,15,13,1:21
 28-Aug-2023,M15 Nakhon Si Thammarat,3,Hard,QF,996,902,0,,,Moerani Bouzige,Sheng Tang,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

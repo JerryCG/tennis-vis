@@ -1,9 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,Fairfield CH,3,Hard,Q1,1028,683,0,Alt,,Quinn Vandecasteele,Kody Pearson,7-6(5) 6-2,0.76,1.3%,11.5%,53.8%,59.5%,44.4%,8/12,45.3%,36.1%,16.4%,17.9%,51.5%,2/2,139,1,9,78,42,36,10,1:39
 5-Aug-2024,Bogota CH,3,Clay,Q1,810,1606,0,9,Alt,Andres Urrea,Kody Pearson,6-3 6-2,0.68,1.9%,5.6%,66.7%,55.6%,44.4%,6/10,42.2%,32.7%,7.3%,23.3%,44.0%,1/5,109,1,3,54,36,18,4,1:13
 22-Jul-2024,M25 Champaign IL,3,Hard,R32,793,500,0,,5,Duarte Vale,Kody Pearson,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,Granby CH,3,Hard,Q2,807,385,0,Alt,4,Kaichi Uchida,Kody Pearson,6-4 6-1,0.45,1.9%,5.8%,48.1%,60.0%,44.4%,2/6,38.3%,21.4%,2.4%,8.0%,41.2%,0/0,94,1,3,52,25,27,1,1:06
 15-Jul-2024,Granby CH,3,Hard,Q1,807,426,1,Alt,9,Kody Pearson,Garrett Johns,6-3 7-6(5),1.17,0.0%,4.1%,56.2%,73.2%,53.1%,3/5,52.7%,41.6%,2.6%,30.4%,58.1%,3/10,150,0,3,73,41,32,2,1:59
-8-Jul-2024,Winnipeg CH,3,Hard,Q1,811,413,0,Alt,11,Hiroki Moriya,Kody Pearson,6-4 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Winnipeg CH,3,Hard,Q1,811,413,0,Alt,11,Hiroki Moriya,Kody Pearson,6-4 3-6 7-5,0.94,4.3%,9.5%,54.3%,58.7%,41.5%,13/20,48.3%,46.0%,0.8%,39.4%,54.7%,7/19,240,5,11,116,63,53,1,3:28
 1-Jul-2024,Bloomfield Hills CH,3,Hard,Q1,811,417,0,,2,Bruno Kuzuhara,Kody Pearson,6-1 6-4,0.73,2.4%,7.3%,56.1%,52.2%,44.4%,3/7,41.4%,37.1%,1.4%,29.5%,50.0%,1/6,111,1,3,41,23,18,1,
 17-Jun-2024,M25 Tulsa OK,3,Hard,R32,817,,0,,Q,Luis Carlos Alvarez Valdes,Kody Pearson,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Wichita KS,3,Hard,R16,826,948,0,,Q,Alexander Kotzen,Kody Pearson,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -20,12 +21,12 @@
 19-Feb-2024,M25 Traralgon,3,Hard,R32,833,676,0,,,Jacob Bradshaw,Kody Pearson,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2024,Burnie 2 CH,3,Hard,Q1,832,1072,0,11,,Masamichi Imamura,Kody Pearson,6-2 6-0,0.41,4.4%,8.9%,57.8%,53.8%,26.3%,4/9,33.7%,23.7%,2.6%,22.2%,27.3%,0/0,83,2,4,45,26,19,1,1:03
 29-Jan-2024,Burnie CH,3,Hard,Q1,838,1068,0,8,,Jesse Delaney,Kody Pearson,6-2 6-2,0.63,2.2%,0.0%,73.9%,47.1%,41.7%,2/7,39.6%,34.0%,4.0%,20.0%,48.0%,1/4,96,1,0,46,34,12,2,1:10
-27-Nov-2023,M25 Gold Coast,3,,QF,811,500,0,,4,Thomas Fancutt,Kody Pearson,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R16,811,1032,1,,PR,Kody Pearson,Jumpei Yamasaki,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,811,1249,1,,Q,Kody Pearson,Luke Sorensen,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R16,813,1126,0,,PR,Shintaro Imai,Kody Pearson,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,813,1271,1,,Q,Kody Pearson,Tomislav Edward Papac,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M25 Hua Hin,3,,R32,815,441,0,,4,Filip Peliwo,Kody Pearson,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,QF,811,500,0,,4,Thomas Fancutt,Kody Pearson,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R16,811,1032,1,,PR,Kody Pearson,Jumpei Yamasaki,7-6(5) 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,811,1249,1,,Q,Kody Pearson,Luke Sorensen,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R16,813,1126,0,,PR,Shintaro Imai,Kody Pearson,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,813,1271,1,,Q,Kody Pearson,Tomislav Edward Papac,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M25 Hua Hin,3,Hard,R32,815,441,0,,4,Filip Peliwo,Kody Pearson,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Hua Hin,3,Hard,R16,817,763,0,,,Linang Xiao,Kody Pearson,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M15 Hua Hin,3,Hard,R32,817,1235,1,,Q,Kody Pearson,Linghao Zhang,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Sydney CH,3,Hard,Q1,819,711,0,,,Ryan Seggerman,Kody Pearson,6-4 7-6(4),0.63,5.8%,1.2%,75.6%,70.8%,47.6%,7/8,46.7%,21.9%,14.1%,20.4%,26.7%,0/0,150,5,1,86,65,21,9,1:29

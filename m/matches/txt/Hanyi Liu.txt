@@ -1,5 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Shanghai CH,3,Hard,Q1,935,327,0,WC,4,Tung Lin Wu,Hanyi Liu,6-4 6-1,0.49,9.3%,7.4%,63.0%,55.9%,35.0%,2/7,38.7%,25.6%,12.8%,18.2%,35.3%,1/1,93,5,4,54,34,20,5,1:16
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,Q1,938,790,0,,10,Thomas Fancutt,Hanyi Liu,6-4 6-4,0.70,4.6%,4.6%,50.8%,72.7%,53.1%,2/4,44.9%,25.8%,12.9%,23.3%,31.6%,0/2,127,3,3,65,33,32,8,1:35
+7-Oct-2024,Hangzhou CH,3,Hard,Q1,944,1110,0,Alt,Alt,Ray Ho,Hanyi Liu,7-5 6-1,0.51,9.8%,0.0%,62.3%,55.3%,43.5%,4/8,38.9%,25.0%,23.1%,24.3%,26.7%,1/2,113,6,0,61,38,23,12,1:15
+16-Sep-2024,M25 Guiyang,3,Hard,R32,918,1841,0,,Q,Xirui Han,Hanyi Liu,6-4 1-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Guangzhou CH,3,Hard,Q2,963,1019,0,,9,Rishab Agarwal,Hanyi Liu,6-3 7-6(3),0.70,9.0%,7.7%,51.3%,70.0%,42.1%,5/8,44.4%,30.3%,4.5%,31.4%,29.0%,1/6,144,7,6,78,40,38,3,1:50
+9-Sep-2024,Guangzhou CH,3,Hard,Q1,963,547,1,,4,Hanyi Liu,Yusuke Takahashi,2-6 7-6(4) 2-1 RET,0.80,18.6%,2.9%,58.6%,70.7%,55.2%,0/2,46.4%,28.6%,4.3%,20.0%,44.0%,1/2,140,13,2,70,41,29,3,1:52
+2-Sep-2024,Shanghai CH,3,Hard,Q1,935,327,0,WC,4,Tung Lin Wu,Hanyi Liu,6-4 6-1,0.49,9.3%,7.4%,63.0%,55.9%,35.0%,2/7,38.7%,25.6%,12.8%,18.2%,35.3%,1/1,93,5,4,54,34,20,5,1:16
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q2,935,550,0,WC,11,Egor Agafonov,Hanyi Liu,6-4 6-4,0.87,10.7%,0.0%,69.6%,69.2%,64.7%,3/5,47.0%,27.9%,9.8%,12.8%,54.5%,0/4,117,6,0,56,39,17,6,1:25
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q1,935,389,1,WC,1,Hanyi Liu,Bogdan Bobrov,6-4 4-1 RET,1.99,11.4%,0.0%,65.7%,78.3%,66.7%,0/1,61.5%,51.2%,4.7%,31.8%,71.4%,4/6,78,4,0,35,23,12,2,1:03
 19-Aug-2024,Jinan CH,3,Hard,Q1,933,558,0,Alt,3,Egor Agafonov,Hanyi Liu,7-6(3) 6-1,0.75,5.6%,9.3%,53.7%,75.9%,32.0%,6/10,44.1%,33.3%,7.0%,17.2%,50.0%,2/4,111,3,5,54,29,25,4,1:16
 12-Aug-2024,M25 Yinchuan,3,Hard,R32,920,404,0,,5,Kris Van Wyk,Hanyi Liu,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jul-2024,M25 Tianjin,3,Hard,R32,912,300,0,,2,Yan Bai,Hanyi Liu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -25,13 +32,13 @@
 19-Feb-2024,M25 Traralgon,3,Hard,R32,760,397,0,,8,Blake Ellis,Hanyi Liu,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 5-Feb-2024,Burnie 2 CH,3,Hard,Q1,760,1172,0,7,PR,Seita Watanabe,Hanyi Liu,7-6(2) 6-3,0.86,7.0%,2.8%,64.8%,63.0%,40.0%,1/5,46.6%,38.7%,2.7%,36.5%,43.5%,2/10,146,5,2,71,46,25,2,1:34
 29-Jan-2024,Burnie CH,3,Hard,Q1,761,1352,0,4,Alt,Matt Hulme,Hanyi Liu,6-7(4) 6-3 2-0 RET,1.01,4.6%,0.0%,66.2%,72.1%,63.6%,0/2,47.7%,31.0%,6.0%,28.3%,37.5%,0/2,149,3,0,65,43,22,5,2:00
-25-Dec-2023,M15 Yanagawa,3,,R16,775,997,0,8,,Hayato Matsuoka,Hanyi Liu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-25-Dec-2023,M15 Yanagawa,3,,R32,775,,1,8,Q,Hanyi Liu,Toa Maeda,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Yanagawa,3,,R32,775,1845,0,,PR,Masamichi Imamura,Hanyi Liu,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,QF,792,587,0,,7,Makoto Ochi,Hanyi Liu,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R16,792,405,1,,2,Hanyi Liu,Blake Mott,6-4 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,792,860,1,,,Hanyi Liu,Thomas Braithwaite,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,792,386,0,,3,Blake Ellis,Hanyi Liu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,R16,775,997,0,8,,Hayato Matsuoka,Hanyi Liu,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Dec-2023,M15 Yanagawa,3,Hard,R32,775,,1,8,Q,Hanyi Liu,Toa Maeda,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Yanagawa,3,Hard,R32,775,1845,0,,PR,Masamichi Imamura,Hanyi Liu,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,QF,792,587,0,,7,Makoto Ochi,Hanyi Liu,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R16,792,405,1,,2,Hanyi Liu,Blake Mott,6-4 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,792,860,1,,,Hanyi Liu,Thomas Braithwaite,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,792,386,0,,3,Blake Ellis,Hanyi Liu,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R32,791,1931,0,,Q,Pavel Verbin,Hanyi Liu,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Sharm ElSheikh,3,Hard,R32,795,669,0,,,Ilia Simakin,Hanyi Liu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Sharm ElSheikh,3,Hard,R32,803,392,0,,2,Mohamed Safwat,Hanyi Liu,6-1 7-5,,,,,,,,,,,,,,,,,,,,,

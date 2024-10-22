@@ -1,4 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Curitiba CH,3,Clay,Q1,539,414,0,,8,Luciano Emanuel Ambrogi,Mariano Kestelboim,3-6 6-0 7-6(5),0.97,0.0%,3.1%,61.5%,50.8%,51.4%,12/19,49.0%,47.3%,4.5%,38.0%,64.1%,6/19,206,0,3,96,59,37,5,2:54
+23-Sep-2024,Antofagasta CH,3,Clay,Q1,499,,0,8,Alt,Anders Matta,Mariano Kestelboim,1-0 RET,0.20,0.0%,50.0%,50.0%,0.0%,0.0%,0/0,14.3%,20.0%,60.0%,25.0%,0.0%,0/0,7,0,1,2,1,1,3,0:07
+9-Sep-2024,M15 Cordoba,3,Clay,R32,518,694,0,5,,Bautista Vilicich,Mariano Kestelboim,6-2 4-3 RET,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,F,515,242,0,7,1,Andrea Collarini,Mariano Kestelboim,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,SF,515,523,1,7,8,Mariano Kestelboim,Pedro Boscardin Dias,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,QF,515,360,1,7,2,Mariano Kestelboim,Franco Roncadelli,4-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R16,515,698,1,7,,Mariano Kestelboim,Ignacio Monzon,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Cordoba,3,Clay,R32,515,1932,1,7,Q,Mariano Kestelboim,Nicolas Garcia Longo,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,Santo Domingo CH,3,Clay,R16,554,148,0,Q,6,Felipe Meligeni Alves,Mariano Kestelboim,6-4 6-4,0.71,3.2%,6.3%,57.1%,69.4%,48.1%,1/4,45.7%,28.3%,1.9%,21.9%,38.1%,1/5,116,2,4,63,36,27,1,1:34
 12-Aug-2024,Santo Domingo CH,3,Clay,R32,554,217,1,Q,,Mariano Kestelboim,Pedro Cachin,6-3 6-3,1.60,6.1%,2.0%,67.3%,72.7%,81.3%,0/0,57.0%,39.2%,5.9%,31.3%,52.6%,3/6,100,3,1,49,33,16,3,1:14
 12-Aug-2024,Santo Domingo CH,3,Clay,Q2,554,301,1,11,,Mariano Kestelboim,Andres Andrade,3-6 7-6(2) 6-1,1.12,1.1%,2.1%,62.8%,66.1%,54.3%,1/5,52.4%,42.9%,2.2%,33.3%,56.8%,4/9,185,1,2,94,59,35,2,2:43
@@ -45,9 +53,9 @@
 18-Sep-2023,M15 Punta del Este,3,Clay,QF,860,413,1,,2,Mariano Kestelboim,Matias Franco Descotte,1-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2023,M15 Punta del Este,3,Clay,R16,860,854,1,,,Mariano Kestelboim,Igor Gimenez,6-2 4-0 RET,,,,,,,,,,,,,,,,,,,,,
 18-Sep-2023,M15 Punta del Este,3,Clay,R32,860,1167,1,,,Mariano Kestelboim,Mateo Del Pino,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,QF,855,651,0,,3,Guido Ivan Justo,Mariano Kestelboim,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R16,855,808,1,,8,Mariano Kestelboim,Alejo Lorenzo Lingua Lavallen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Sep-2023,M15 Olavarria (Dates changed from 2808 to 0409),3,Clay,R32,855,1091,1,,,Mariano Kestelboim,Lucio Ratti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,QF,855,651,0,,3,Guido Ivan Justo,Mariano Kestelboim,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R16,855,808,1,,8,Mariano Kestelboim,Alejo Lorenzo Lingua Lavallen,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+4-Sep-2023,M15 Olavarria,3,Clay,R32,855,1091,1,,,Mariano Kestelboim,Lucio Ratti,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Aug-2023,M15 Buenos Aires,3,Clay,R32,855,725,0,,,Gilbert Soares Klier Junior,Mariano Kestelboim,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,R16,879,329,0,,2,Carlos Sanchez Jover,Mariano Kestelboim,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Aug-2023,M25 Santander,3,Clay,R32,879,,1,,WC,Mariano Kestelboim,German Sanchez Amor,6-1 6-0,,,,,,,,,,,,,,,,,,,,,

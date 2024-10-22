@@ -1,11 +1,26 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q1,159,104,0,,7,Billy Harris,Juan Manuel Cerundolo,6-3 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
+7-Oct-2024,Villa Maria CH,3,Clay,SF,154,112,0,7,4,Camilo Ugo Carabelli,Juan Manuel Cerundolo,6-4 6-2,0.82,9.8%,6.6%,57.4%,65.7%,53.8%,7/10,46.3%,32.3%,0.0%,31.8%,33.3%,0/2,123,6,4,61,35,26,0,1:35
+7-Oct-2024,Villa Maria CH,3,Clay,QF,154,374,1,7,Q,Juan Manuel Cerundolo,Matheus Pucinelli De Almeida,7-6(7) 6-2,1.42,8.6%,8.6%,62.1%,77.8%,45.5%,0/2,55.6%,48.8%,3.6%,44.1%,60.0%,4/15,142,5,5,58,36,22,3,1:55
+7-Oct-2024,Villa Maria CH,3,Clay,R16,154,165,1,7,,Juan Manuel Cerundolo,Felipe Meligeni Alves,6-3 7-6(4),1.35,6.0%,4.5%,61.2%,82.9%,57.7%,2/2,54.4%,36.2%,1.4%,26.5%,60.0%,1/5,136,4,3,67,41,26,1,1:40
+7-Oct-2024,Villa Maria CH,3,Clay,R32,154,205,1,7,,Juan Manuel Cerundolo,Juan Pablo Ficovich,6-2 6-1,2.12,17.1%,7.3%,56.1%,87.0%,55.6%,0/0,64.7%,56.8%,2.3%,45.5%,68.2%,5/8,85,7,3,41,23,18,1,1:00
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R16,154,311,0,,WC,Juan Bautista Torres,Juan Manuel Cerundolo,6-3 6-4,0.81,1.7%,3.4%,62.1%,61.1%,31.8%,3/8,45.3%,40.7%,1.7%,26.5%,60.0%,2/4,117,1,2,58,36,22,1,1:36
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R32,154,160,1,,8,Juan Manuel Cerundolo,Federico Agustin Gomez,6-3 6-2,1.39,3.9%,3.9%,56.9%,75.9%,50.0%,0/1,56.9%,49.0%,5.9%,44.1%,58.8%,4/8,102,2,2,51,29,22,3,1:10
+23-Sep-2024,Antofagasta CH,3,Clay,F,206,286,1,8,,Juan Manuel Cerundolo,Adolfo Daniel Vallejo,3-6 6-2 6-4,1.04,1.1%,3.2%,50.5%,60.4%,57.4%,11/15,51.4%,42.5%,0.0%,42.0%,43.3%,5/9,175,1,3,95,48,47,0,2:30
+23-Sep-2024,Antofagasta CH,3,Clay,SF,206,229,1,8,,Juan Manuel Cerundolo,Andrea Collarini,6-3 6-2,1.46,4.9%,6.6%,63.9%,79.5%,36.4%,3/5,58.6%,52.7%,0.0%,43.3%,64.0%,5/7,116,3,4,61,39,22,0,1:33
+23-Sep-2024,Antofagasta CH,3,Clay,QF,206,1085,1,8,WC,Juan Manuel Cerundolo,Juan Ignacio Londero,6-2 6-4,1.34,3.8%,5.8%,50.0%,73.1%,53.8%,1/3,56.0%,49.1%,1.8%,43.2%,69.2%,5/9,109,2,3,52,26,26,1,1:25
+23-Sep-2024,Antofagasta CH,3,Clay,R16,206,308,1,8,,Juan Manuel Cerundolo,Matias Soto,7-6(5) 6-4,1.10,3.8%,2.5%,59.5%,70.2%,43.8%,5/8,52.3%,44.6%,4.1%,25.6%,65.7%,4/6,153,3,2,79,47,32,3,2:01
+23-Sep-2024,Antofagasta CH,3,Clay,R32,206,461,1,8,Q,Juan Manuel Cerundolo,Jose Pereira,6-4 6-4,1.24,6.6%,6.6%,41.0%,80.0%,52.8%,4/6,54.7%,44.6%,1.8%,38.1%,64.3%,4/5,117,4,4,61,25,36,1,1:34
+16-Sep-2024,Cali CH,3,Clay,R16,203,334,0,5,,Juan Bautista Torres,Juan Manuel Cerundolo,6-1 6-2,0.42,10.3%,15.4%,43.6%,64.7%,31.8%,1/5,33.7%,22.7%,0.0%,30.8%,11.1%,0/1,83,4,6,39,17,22,0,0:58
+16-Sep-2024,Cali CH,3,Clay,R32,203,1685,1,5,Q,Juan Manuel Cerundolo,Samuel Heredia,6-2 7-5,1.30,7.1%,8.6%,42.9%,80.0%,47.5%,3/5,56.1%,50.0%,0.0%,30.0%,68.8%,5/7,132,5,6,70,30,40,0,1:33
+26-Aug-2024,US Open,5,Hard,Q1,159,104,0,,7,Billy Harris,Juan Manuel Cerundolo,6-3 2-6 7-5,0.85,12.4%,6.7%,54.3%,66.7%,47.9%,11/14,47.9%,35.6%,6.9%,24.4%,47.6%,3/6,192,13,7,105,57,48,6,2:18
+29-Jul-2024,San Marino CH,3,Clay,QF,157,99,0,8,3,Alexandre Muller,Juan Manuel Cerundolo,6-2 6-3,0.64,6.4%,4.3%,55.3%,57.7%,33.3%,1/5,39.8%,33.9%,3.6%,30.3%,39.1%,1/3,103,3,2,47,26,21,2,1:21
+29-Jul-2024,San Marino CH,3,Clay,R16,157,397,1,8,WC,Juan Manuel Cerundolo,Marco Cecchinato,6-4 7-6(2),1.50,11.8%,4.4%,50.0%,88.2%,61.8%,3/3,54.7%,37.5%,1.3%,27.7%,51.5%,1/5,148,8,3,68,34,34,1,1:56
 29-Jul-2024,San Marino CH,3,Clay,R32,157,262,1,8,,Juan Manuel Cerundolo,Gonzalo Bueno,6-2 6-1,1.60,5.4%,0.0%,55.4%,74.2%,60.0%,4/4,58.7%,51.4%,0.0%,40.9%,69.2%,4/11,126,3,0,56,31,25,0,1:34
-22-Jul-2024,Zug CH,3,Clay,R32,157,278,0,4,Alt,Jerome Kym,Juan Manuel Cerundolo,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+22-Jul-2024,Zug CH,3,Clay,R32,157,278,0,4,Alt,Jerome Kym,Juan Manuel Cerundolo,6-4 6-0,0.63,0.0%,8.9%,51.1%,52.2%,40.9%,4/9,40.0%,33.3%,6.7%,22.7%,43.5%,1/5,90,0,4,45,23,22,3,1:13
 15-Jul-2024,Amersfoort CH,3,Clay,R16,152,248,0,1,Alt,Alvaro Guillen Meza,Juan Manuel Cerundolo,4-6 6-0 6-4,0.83,0.0%,4.2%,63.4%,53.3%,42.3%,5/12,45.3%,42.2%,1.1%,36.1%,55.2%,4/13,161,0,3,71,45,26,1,2:12
 15-Jul-2024,Amersfoort CH,3,Clay,R32,152,297,1,1,,Juan Manuel Cerundolo,Alexander Blockx,6-4 6-7(5) 6-3,1.06,6.6%,3.3%,53.8%,77.6%,54.8%,2/4,51.4%,34.9%,14.0%,22.0%,52.8%,4/7,177,6,3,91,49,42,12,2:18
-8-Jul-2024,Iasi CH,3,Clay,R16,139,289,0,3,,Adolfo Daniel Vallejo,Juan Manuel Cerundolo,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,Iasi CH,3,Clay,R32,139,670,1,3,Q,Juan Manuel Cerundolo,Ilya Snitari,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+8-Jul-2024,Iasi CH,3,Clay,R16,139,289,0,3,,Adolfo Daniel Vallejo,Juan Manuel Cerundolo,6-3 6-3,0.61,5.6%,7.0%,57.7%,46.3%,46.7%,2/7,40.7%,32.7%,7.7%,23.5%,50.0%,2/5,123,4,5,71,41,30,4,1:36
+8-Jul-2024,Iasi CH,3,Clay,R32,139,670,1,3,Q,Juan Manuel Cerundolo,Ilya Snitari,6-4 6-3,1.28,9.8%,1.6%,59.0%,75.0%,60.0%,3/4,55.2%,40.0%,0.0%,28.1%,56.5%,3/8,116,6,1,61,36,25,0,1:31
 17-Jun-2024,Santa Cruz De La Sierra CH,3,Clay,F,154,283,1,1,5,Juan Manuel Cerundolo,Alvaro Guillen Meza,3-6 6-1 6-4,1.11,1.4%,2.9%,66.7%,63.0%,39.1%,5/10,52.5%,50.0%,2.8%,47.6%,53.3%,7/13,141,1,2,69,46,23,2,1:53
 17-Jun-2024,Santa Cruz De La Sierra CH,3,Clay,SF,154,275,1,1,4,Juan Manuel Cerundolo,Hady Habib,7-6(4) 6-4,1.14,5.5%,4.1%,63.0%,80.4%,40.7%,3/5,52.4%,39.2%,9.5%,27.1%,61.5%,3/6,147,4,3,73,46,27,7,1:39
 17-Jun-2024,Santa Cruz De La Sierra CH,3,Clay,QF,154,302,1,1,6,Juan Manuel Cerundolo,Pedro Sakamoto,6-4 6-3,1.44,5.4%,1.8%,69.6%,76.9%,70.6%,0/0,56.6%,36.0%,10.0%,29.4%,50.0%,2/3,106,3,1,56,39,17,5,1:27
@@ -16,8 +31,8 @@
 10-Jun-2024,Lima CH,3,Clay,QF,181,353,1,1,,Juan Manuel Cerundolo,Matheus Pucinelli De Almeida,7-6(3) 4-6 6-3,0.97,1.8%,0.9%,63.3%,66.7%,55.0%,3/6,50.2%,36.5%,2.1%,30.8%,48.4%,3/14,205,2,1,109,69,40,2,3:05
 10-Jun-2024,Lima CH,3,Clay,R16,181,392,1,1,,Juan Manuel Cerundolo,Gonzalo Villanueva,6-4 6-1,1.57,8.7%,0.0%,54.3%,72.0%,57.1%,3/4,58.9%,54.5%,0.0%,46.7%,71.4%,5/11,112,4,0,46,25,21,0,1:37
 10-Jun-2024,Lima CH,3,Clay,R32,181,,1,1,,Juan Manuel Cerundolo,Lautaro Midon,6-3 5-7 7-6(3),1.07,0.8%,2.3%,65.1%,54.8%,55.6%,7/14,51.9%,48.2%,0.9%,43.0%,60.0%,7/16,243,1,3,129,84,45,1,3:17
-27-May-2024,Roland Garros,5,Clay,Q2,178,120,0,,13,Facundo Bagnis,Juan Manuel Cerundolo,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q1,178,171,1,,,Juan Manuel Cerundolo,Beibit Zhukayev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,Q2,178,120,0,,13,Facundo Bagnis,Juan Manuel Cerundolo,6-4 6-2,0.71,0.0%,5.7%,60.4%,46.9%,33.3%,2/8,41.4%,41.4%,1.7%,28.6%,75.0%,3/5,111,0,3,53,32,21,1,
+27-May-2024,Roland Garros,5,Clay,Q1,178,171,1,,,Juan Manuel Cerundolo,Beibit Zhukayev,6-4 6-3,2.32,4.5%,2.3%,61.4%,85.2%,76.5%,0/0,58.3%,42.2%,10.9%,30.8%,60.0%,3/5,108,2,1,44,27,17,7,
 13-May-2024,Oeiras CH,3,Clay,R32,167,193,0,,,Dalibor Svrcina,Juan Manuel Cerundolo,4-6 7-6(2) 2-0 RET,0.94,1.2%,2.4%,60.2%,48.0%,51.5%,7/13,48.4%,47.6%,1.9%,41.0%,68.0%,6/15,186,1,2,83,50,33,2,2:26
 6-May-2024,Mauthausen CH,3,Clay,R16,167,91,0,,1,Francisco Comesana,Juan Manuel Cerundolo,6-1 6-2,0.55,0.0%,3.1%,67.2%,34.9%,57.1%,6/12,38.0%,31.8%,9.1%,14.8%,58.8%,2/6,108,0,2,64,43,21,4,1:24
 6-May-2024,Mauthausen CH,3,Clay,R32,167,330,1,,WC,Juan Manuel Cerundolo,Sandro Kopp,6-2 6-3,1.30,1.5%,7.6%,47.0%,71.0%,37.1%,6/9,56.3%,60.9%,2.2%,46.2%,80.0%,6/8,112,1,5,66,31,35,1,1:23

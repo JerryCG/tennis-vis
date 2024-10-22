@@ -1,4 +1,8 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q1,1284,390,0,WC,6,Mathias Bourgue,Jonathan Eysseric,7-6(6) 6-1,0.41,4.2%,0.0%,76.4%,69.1%,35.3%,6/8,41.4%,16.1%,12.5%,11.4%,23.8%,0/1,128,3,0,72,55,17,7,1:26
+23-Sep-2024,Orleans CH,3,Hard,R32,,126,0,Q,8,Jacob Fearnley,Jonathan Eysseric,6-2 3-6 6-1,0.64,6.3%,6.3%,57.0%,71.1%,38.2%,1/5,43.8%,27.7%,9.2%,21.1%,37.0%,1/2,144,5,5,79,45,34,6,1:32
+23-Sep-2024,Orleans CH,3,Hard,Q2,,221,1,WC,1,Jonathan Eysseric,Maxime Janvier,6-2 3-6 6-3,1.08,5.5%,6.8%,61.6%,82.2%,35.7%,2/4,51.4%,38.4%,6.8%,36.4%,41.4%,4/7,146,4,5,73,45,28,5,1:34
+23-Sep-2024,Orleans CH,3,Hard,Q1,,341,1,WC,9,Jonathan Eysseric,Antoine Bellier,4-4 RET,-,6.3%,0.0%,56.3%,100.0%,100.0%,0/0,57.9%,27.3%,4.5%,30.0%,25.0%,0/0,38,1,0,16,9,7,1,0:29
 10-Apr-2023,Sarasota CH,3,Clay,Q1,896,438,0,Alt,10,Martin Damm,Jonathan Eysseric,6-3 6-0,0.51,0.0%,0.0%,54.2%,50.0%,36.4%,4/9,36.7%,28.6%,19.0%,18.2%,40.0%,0/1,90,0,0,48,26,22,8,0:50
 20-Mar-2023,Saint Brieuc CH,3,Hard,Q1,899,388,0,,1,Mark Lajal,Jonathan Eysseric,6-4 7-6(3),0.68,4.8%,4.8%,51.2%,69.8%,43.9%,6/9,45.0%,29.2%,6.2%,17.9%,46.2%,2/7,149,4,4,84,43,41,4,1:39
 27-Feb-2023,Pau CH,3,Hard,Q1,860,315,0,WC,11,Ugo Blanchet,Jonathan Eysseric,7-5 3-6 7-5,0.97,5.0%,1.0%,62.4%,73.0%,52.6%,5/9,49.5%,33.7%,12.9%,23.7%,47.6%,3/6,202,5,1,101,63,38,13,2:04
@@ -30,7 +34,7 @@
 8-Mar-2021,M15 Bratislava,3,Hard,SF,632,1089,1,,SE,Jonathan Eysseric,Jurgen Briand,W/O,,,,,,,,,,,,,,,,,,,,,
 8-Mar-2021,M15 Bratislava,3,Hard,QF,632,760,1,,,Jonathan Eysseric,Andrew Paulson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Mar-2021,M15 Bratislava,3,Hard,R16,632,1414,1,,Q,Jonathan Eysseric,Luca Van Assche,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Mar-2021,M15 Bratislava,3,Hard,R32,632,,1,,Q,Jonathan Eysseric,Milos Karol ,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
+8-Mar-2021,M15 Bratislava,3,Hard,R32,632,,1,,Q,Jonathan Eysseric,Milos Karol,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Mar-2021,M15 Bratislava,3,Hard,R16,631,664,0,,PR,Patrik Rikl,Jonathan Eysseric,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Mar-2021,M15 Bratislava,3,Hard,R32,631,430,1,,3,Jonathan Eysseric,Francesco Forti,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Feb-2021,Cherbourg CH,3,Hard,Q1,625,392,0,Alt,8,Michael Geerts,Jonathan Eysseric,6-2 6-3,0.67,5.1%,1.7%,57.6%,64.7%,44.0%,4/8,43.6%,29.4%,13.7%,18.2%,50.0%,0/2,110,3,1,59,34,25,7,1:05

@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,St. Brieuc CH,3,Hard,Q1,569,341,0,,1,Max Hans Rehberg,Stuart Parker,6-3 6-7(8) 6-2,0.82,4.0%,5.0%,59.0%,67.8%,46.3%,7/11,45.7%,33.6%,6.4%,33.8%,33.3%,1/6,210,4,5,100,59,41,7,2:31
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q2,517,352,0,,5,Alexey Vatutin,Stuart Parker,4-6 7-5 6-2,0.86,11.7%,0.0%,65.0%,64.2%,55.6%,12/16,48.0%,33.3%,2.2%,29.5%,40.6%,2/7,196,12,0,103,67,36,2,2:13
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q1,517,409,1,,9,Stuart Parker,Norbert Gombos,4-6 6-1 6-4,1.28,18.3%,1.2%,64.6%,79.2%,55.2%,4/5,54.3%,37.5%,5.0%,30.2%,51.9%,3/8,162,15,1,82,53,29,4,1:46
+23-Sep-2024,M25 Sabadell,3,Clay,R32,522,433,0,,,Nicolas Alvarez Varona,Stuart Parker,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Satu Mare,3,Clay,R32,521,1051,0,7,,Tim Ruehl,Stuart Parker,1-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Aldershot,3,Hard,R16,527,420,0,,4,Anton Matusevich,Stuart Parker,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Aldershot,3,Hard,R32,527,1141,1,,WC,Stuart Parker,Ewen Lumsden,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Roehampton,3,Hard,R16,524,617,0,8,,Masamichi Imamura,Stuart Parker,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
@@ -38,8 +43,8 @@
 29-Jan-2024,M15 Monastir,3,Hard,R32,776,385,1,Q,1,Stuart Parker,Alberto Barroso Campos,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M15 Monastir,3,Hard,R16,756,706,0,,,Mili Poljicak,Stuart Parker,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M15 Monastir,3,Hard,R32,756,651,1,,8,Stuart Parker,Christoph Negritu,6-2 7-6(1),,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Sharm ElSheikh,3,,R16,731,363,0,,2,Samuel Vincent Ruggeri,Stuart Parker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Sharm ElSheikh,3,,R32,731,1081,1,,,Stuart Parker,Faris Zakaryia,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,Hard,R16,731,363,0,,2,Samuel Vincent Ruggeri,Stuart Parker,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Sharm ElSheikh,3,Hard,R32,731,1081,1,,,Stuart Parker,Faris Zakaryia,6-2 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Heraklion,3,Hard,R16,685,419,0,,4,Guy Den Ouden,Stuart Parker,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M15 Heraklion,3,Hard,R32,685,1149,1,,Q,Stuart Parker,Stylianos Christodoulou,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Oct-2023,M15 Heraklion,3,Hard,SF,692,772,0,5,7,Alexandros Skorilas,Stuart Parker,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

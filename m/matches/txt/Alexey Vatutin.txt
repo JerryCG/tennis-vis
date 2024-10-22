@@ -1,6 +1,25 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,Q2,399,483,0,5,12,Marko Topo,Alexey Vatutin,6-4 6-2,0.62,0.0%,17.8%,55.6%,60.0%,20.0%,0/5,38.9%,36.0%,6.0%,28.6%,45.5%,2/4,95,0,8,45,25,20,3,1:02
-1-Sep-2024,Tulln CH,3,Clay,Q1,399,598,1,5,Alt,Alexey Vatutin,Kai Wehnelt,0-6 6-2 6-2,1.05,3.4%,3.4%,57.6%,58.8%,60.0%,0/3,50.8%,42.9%,11.1%,26.7%,57.6%,4/8,122,2,2,59,34,25,7,1:19
+21-Oct-2024,Brest CH,3,Hard,Q1,323,970,1,11,Alt,Alexey Vatutin,Pablo Trochu,6-3 6-0,1.64,2.0%,7.8%,78.4%,70.0%,54.5%,2/2,60.4%,54.5%,0.0%,46.7%,64.0%,5/10,106,1,4,51,40,11,0,1:05
+14-Oct-2024,Antwerp,3,Hard,R32,336,77,0,Q,,Hugo Gaston,Alexey Vatutin,3-6 6-3 6-3,0.99,1.4%,2.8%,65.3%,51.1%,72.0%,2/6,48.5%,41.4%,7.1%,31.1%,57.9%,3/12,171,1,2,72,47,25,7,1:47
+14-Oct-2024,Antwerp,3,Hard,Q2,336,268,1,,8,Alexey Vatutin,Manuel Guinard,6-4 3-6 7-5,1.18,1.2%,1.2%,63.4%,65.4%,63.3%,6/10,52.2%,41.8%,16.3%,29.3%,60.0%,5/13,180,1,1,82,52,30,16,1:50
+14-Oct-2024,Antwerp,3,Hard,Q1,336,86,1,,1,Alexey Vatutin,Yannick Hanfmann,6-4 6-2,1.64,4.0%,4.0%,62.0%,77.4%,68.4%,0/0,57.7%,42.6%,5.6%,34.3%,57.9%,3/5,104,2,2,50,31,19,3,1:12
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,R16,352,218,0,Q,,Clement Chidekh,Alexey Vatutin,6-1 6-4,0.60,0.0%,2.2%,60.0%,40.7%,61.1%,1/5,39.0%,30.9%,7.3%,18.4%,58.8%,1/5,100,0,1,45,27,18,4,1:03
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,R32,352,149,1,Q,7,Alexey Vatutin,Gregoire Barrere,4-6 7-6(12) 7-5,0.98,9.3%,3.9%,62.8%,75.3%,43.8%,7/11,50.0%,35.5%,11.6%,29.5%,46.5%,4/12,250,12,5,129,81,48,14,2:32
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q2,352,517,1,5,,Alexey Vatutin,Stuart Parker,4-6 7-5 6-2,1.17,2.2%,4.3%,65.6%,70.5%,59.4%,5/7,52.0%,38.8%,11.7%,35.8%,44.4%,4/16,196,2,4,93,61,32,12,2:13
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q1,352,679,1,5,WC,Alexey Vatutin,Kenny De Schepper,7-6(4) 6-7(5) 6-4,1.06,0.8%,0.8%,74.4%,64.5%,62.5%,7/9,51.2%,38.0%,9.9%,30.0%,61.3%,3/7,246,1,1,125,93,32,12,2:45
+23-Sep-2024,Orleans CH,3,Hard,R32,363,135,0,Q,,Hamad Medjedovic,Alexey Vatutin,6-4 6-2,0.57,1.2%,3.5%,60.0%,60.8%,44.1%,5/8,43.7%,26.0%,4.0%,26.3%,25.0%,0/2,135,1,3,85,51,34,2,1:27
+23-Sep-2024,Orleans CH,3,Hard,Q2,363,256,1,10,5,Alexey Vatutin,Charles Broom,6-1 6-2,1.48,1.6%,3.2%,71.4%,62.2%,44.4%,8/10,59.8%,63.3%,6.1%,51.9%,77.3%,6/10,112,1,2,63,45,18,3,1:17
+23-Sep-2024,Orleans CH,3,Hard,Q1,363,743,1,10,,Alexey Vatutin,Axel Garcian,6-2 7-5,1.31,0.0%,5.8%,60.9%,71.4%,48.1%,3/5,55.6%,49.3%,5.3%,43.5%,58.6%,5/12,144,0,4,69,42,27,4,1:38
+16-Sep-2024,Saint-Tropez CH,3,Hard,Q1,368,735,0,9,WC,Louis Tessa,Alexey Vatutin,7-6(4) 6-1,0.78,0.0%,7.2%,71.0%,51.0%,35.0%,7/12,43.9%,41.8%,2.5%,33.3%,54.8%,3/7,148,0,5,69,49,20,2,1:48
+9-Sep-2024,Szczecin CH,3,Clay,QF,400,143,0,Q,5,Vit Kopriva,Alexey Vatutin,6-4 1-6 6-4,0.97,0.0%,2.4%,65.1%,68.5%,41.4%,6/10,49.7%,39.7%,1.3%,37.0%,43.8%,4/11,161,0,2,83,54,29,1,2:01
+9-Sep-2024,Szczecin CH,3,Clay,R16,400,285,1,Q,Alt,Alexey Vatutin,Michael Vrbensky,6-3 6-2,1.40,0.0%,1.6%,75.8%,63.8%,60.0%,3/4,56.8%,51.9%,2.6%,50.0%,54.8%,4/13,139,0,1,62,47,15,2,1:38
+9-Sep-2024,Szczecin CH,3,Clay,R32,400,180,1,Q,,Alexey Vatutin,Dmitry Popko,6-4 5-7 7-6(2),1.04,0.8%,3.9%,65.4%,56.6%,45.5%,15/23,51.0%,49.2%,4.2%,42.5%,62.5%,8/17,247,1,5,127,83,44,5,3:16
+9-Sep-2024,Szczecin CH,3,Clay,Q2,400,331,1,9,3,Alexey Vatutin,Sebastian Fanselow,6-4 3-6 6-2,1.56,0.0%,2.9%,66.7%,76.1%,69.6%,2/4,56.6%,40.8%,3.9%,35.1%,46.2%,4/5,145,0,2,69,46,23,3,1:50
+9-Sep-2024,Szczecin CH,3,Clay,Q1,400,475,1,9,,Alexey Vatutin,Olukayode Alafia Damina Ayeni,6-3 2-6 6-3,1.15,0.0%,5.7%,65.5%,63.2%,53.3%,6/10,52.3%,46.4%,6.4%,34.3%,65.1%,5/16,197,0,5,87,57,30,7,2:17
+2-Sep-2024,Tulln CH,3,Clay,Q2,399,483,0,5,12,Marko Topo,Alexey Vatutin,6-4 6-2,0.62,0.0%,17.8%,55.6%,60.0%,20.0%,0/5,38.9%,36.0%,6.0%,28.6%,45.5%,2/4,95,0,8,45,25,20,3,1:02
+2-Sep-2024,Tulln CH,3,Clay,Q1,399,598,1,5,Alt,Alexey Vatutin,Kai Wehnelt,0-6 6-2 6-2,1.05,3.4%,3.4%,57.6%,58.8%,60.0%,0/3,50.8%,42.9%,11.1%,26.7%,57.6%,4/8,122,2,2,59,34,25,7,1:19
+26-Aug-2024,Como CH,3,Clay,Q2,399,415,0,11,Alt,Valerio Aboian,Alexey Vatutin,7-5 6-2,0.65,0.0%,1.4%,64.4%,57.4%,42.3%,5/9,42.1%,31.3%,4.5%,24.3%,40.0%,1/8,140,0,1,73,47,26,3,1:41
+26-Aug-2024,Como CH,3,Clay,Q1,399,1169,1,11,WC,Alexey Vatutin,Gabriele Vulpitta,6-0 6-4,1.41,0.0%,5.5%,70.9%,64.1%,31.3%,4/7,59.3%,64.2%,3.8%,50.0%,80.0%,7/12,108,0,3,55,39,16,2,1:24
 12-Aug-2024,M25 Koksijde,3,Clay,QF,411,213,0,5,1,Raphael Collignon,Alexey Vatutin,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Koksijde,3,Clay,R16,411,986,1,5,,Alexey Vatutin,Daniel De Jonge,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M25 Koksijde,3,Clay,R32,411,1928,1,5,WC,Alexey Vatutin,Harold Van Raemdonck,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -15,7 +34,7 @@
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,QF,429,343,0,7,1,Lorenzo Giustino,Alexey Vatutin,4-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R16,429,1229,1,7,Q,Alexey Vatutin,Charlie Camus,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R32,429,1417,1,7,Q,Alexey Vatutin,Nicolas Colne,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,Sassuolo CH,3,Clay,Q1,455,360,0,,7,Blake Mott,Alexey Vatutin,4-6 7-6(9) 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Sassuolo CH,3,Clay,Q1,455,360,0,,7,Blake Mott,Alexey Vatutin,4-6 7-6(9) 6-4,0.99,0.7%,9.5%,73.7%,57.4%,33.3%,11/18,50.0%,48.5%,0.0%,44.3%,58.1%,7/10,238,1,13,137,101,36,0,2:53
 10-Jun-2024,M25 Villeneuve-Loubet+H,3,Clay,SF,456,382,0,,4,Yshai Oliel,Alexey Vatutin,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Villeneuve-Loubet+H,3,Clay,QF,456,740,1,,,Alexey Vatutin,Timo Legout,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Villeneuve-Loubet+H,3,Clay,R16,456,269,1,,1,Alexey Vatutin,Geoffrey Blancaneaux,1-1 RET,,,,,,,,,,,,,,,,,,,,,
@@ -57,14 +76,14 @@
 22-Jan-2024,M15+H Bagnoles de l'Orne,3,Clay,R16,452,1012,1,1,,Alexey Vatutin,Valerio Perruzza,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M15+H Bagnoles de l'Orne,3,Clay,R32,452,1860,1,1,WC,Alexey Vatutin,Matt Ponchet,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,Tenerife CH,3,Hard,Q1,452,351,0,,,Guy Den Ouden,Alexey Vatutin,6-0 6-3,0.54,0.0%,4.1%,75.5%,45.9%,25.0%,4/9,36.6%,31.8%,11.4%,22.6%,53.8%,1/2,93,0,2,49,37,12,5,1:05
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,458,646,0,,Q,Jacob Fearnley,Alexey Vatutin,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R32,456,767,0,5,,Niels Visker,Alexey Vatutin,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Monastir,3,,R32,454,1258,0,5,Q,Mark Wallner,Alexey Vatutin,6-3 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,458,646,0,,Q,Jacob Fearnley,Alexey Vatutin,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R32,456,767,0,5,,Niels Visker,Alexey Vatutin,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Monastir,3,Hard,R32,454,1258,0,5,Q,Mark Wallner,Alexey Vatutin,6-3 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
 27-Nov-2023,Maia CH,3,Clay,R32,465,168,0,Q,6,Andrea Vavassori,Alexey Vatutin,6-1 7-6(6),0.60,1.8%,1.8%,69.6%,53.8%,47.1%,0/4,39.2%,29.0%,13.0%,24.2%,33.3%,2/4,125,1,1,56,39,17,9,1:23
 27-Nov-2023,Maia CH,3,Clay,Q2,465,743,1,4,,Alexey Vatutin,Max Alcala Gurri,6-2 6-4,1.37,0.0%,0.0%,69.1%,61.7%,38.1%,6/9,57.8%,62.5%,2.1%,51.9%,76.2%,6/8,116,0,0,68,47,21,1,1:20
 27-Nov-2023,Maia CH,3,Clay,Q1,465,,1,4,WC,Alexey Vatutin,Guilherme Valdoleiros,6-4 6-0,1.88,0.0%,4.4%,73.3%,72.7%,66.7%,6/7,61.5%,54.2%,5.1%,47.2%,65.2%,5/11,104,0,2,45,33,12,3,1:09
-20-Nov-2023,M25 Vale do Lobo,3,,R16,465,1077,0,7,,Leopold Zima,Alexey Vatutin,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Vale do Lobo,3,,R32,465,1295,1,7,Q,Alexey Vatutin,Loic Namigandet Tenguere,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R16,465,1077,0,7,,Leopold Zima,Alexey Vatutin,6-3 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Vale do Lobo,3,Hard,R32,465,1295,1,7,Q,Alexey Vatutin,Loic Namigandet Tenguere,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Sarreguemines,3,Carpet,F,536,736,0,,,Tom Paris,Alexey Vatutin,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Sarreguemines,3,Carpet,SF,536,468,1,,8,Alexey Vatutin,Tim Handel,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Sarreguemines,3,Carpet,QF,536,521,1,,,Alexey Vatutin,Matej Dodig,6-4 6-4,,,,,,,,,,,,,,,,,,,,,

@@ -1,24 +1,31 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,R16,8,12,0,8,12,Taylor Fritz,Casper Ruud,3-6 6-4 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,R32,8,72,1,8,,Casper Ruud,Juncheng Shang,6-7(1) 3-6 6-0 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,R64,8,45,1,8,,Casper Ruud,Gael Monfils,6-4 6-2 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,R128,8,123,1,8,,Casper Ruud,Bu Yunchaokete,7-6(2) 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Stockholm,3,Hard,QF,8,37,0,2,7,Tallon Griekspoor,Casper Ruud,7-5 7-6(5),0.94,7.1%,2.4%,70.2%,67.8%,68.0%,2/3,48.8%,30.2%,15.1%,22.4%,46.4%,0/3,170,6,2,84,59,25,13,1:57
+14-Oct-2024,Stockholm,3,Hard,R16,8,50,1,2,,Casper Ruud,Lorenzo Sonego,6-3 7-6(3),1.48,12.1%,3.0%,59.1%,69.2%,81.5%,0/0,56.0%,38.2%,11.8%,31.1%,52.2%,1/3,134,8,2,66,39,27,8,1:44
+2-Oct-2024,Shanghai Masters,3,Hard,R64,9,91,0,8,Q,Aleksandar Vukic,Casper Ruud,6-4 6-4,0.68,8.9%,1.8%,73.2%,75.6%,46.7%,0/2,45.0%,21.8%,12.7%,15.0%,40.0%,0/3,111,5,1,56,41,15,7,1:18
+25-Sep-2024,Tokyo,3,Hard,R32,9,29,0,3,,Jordan Thompson,Casper Ruud,7-6(5) 6-1,0.80,4.7%,3.1%,75.0%,66.7%,43.8%,2/4,44.9%,31.1%,18.9%,15.9%,53.3%,0/8,138,3,2,64,48,16,14,1:50
+20-Sep-2024,Laver Cup,3,Hard,RR,9,31,0,,,Francisco Cerundolo,Casper Ruud,6-4 6-4,1.06,5.7%,3.8%,73.6%,74.4%,35.7%,1/4,48.8%,37.8%,4.1%,30.2%,48.4%,1/4,127,3,2,53,39,14,3,1:38
+13-Sep-2024,Davis Cup WG1 R1: NOR vs POR,3,Hard,RR,9,159,0,,,Henrique Rocha,Casper Ruud,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Sep-2024,Davis Cup WG1 R1: NOR vs POR,3,Hard,RR,9,157,1,,,Casper Ruud,Jaime Faria,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,R16,8,12,0,8,12,Taylor Fritz,Casper Ruud,3-6 6-4 6-3 6-2,0.81,3.5%,7.1%,61.9%,80.0%,41.9%,6/10,47.5%,27.9%,23.1%,15.9%,46.3%,1/6,217,4,8,113,70,43,24,2:43
+26-Aug-2024,US Open,5,Hard,R32,8,72,1,8,,Casper Ruud,Juncheng Shang,6-7(1) 3-6 6-0 6-3 6-1,1.18,6.6%,4.6%,64.9%,67.3%,52.8%,14/17,53.3%,44.4%,2.6%,36.2%,57.6%,9/23,304,10,7,151,98,53,4,3:44
+26-Aug-2024,US Open,5,Hard,R64,8,45,1,8,,Casper Ruud,Gael Monfils,6-4 6-2 2-6 7-6(3),1.23,6.5%,0.9%,67.3%,72.2%,60.0%,0/4,52.9%,39.2%,11.7%,24.6%,54.2%,5/10,227,7,1,107,72,35,14,2:55
+26-Aug-2024,US Open,5,Hard,R128,8,123,1,8,Q,Casper Ruud,Bu Yunchaokete,7-6(2) 6-2 6-2,1.88,17.7%,7.6%,53.2%,88.1%,56.8%,1/3,60.8%,50.0%,12.0%,32.6%,67.4%,6/9,171,14,6,79,42,37,11,2:14
 12-Aug-2024,Cincinnati Masters,3,Hard,R32,8,19,0,7,,Felix Auger Aliassime,Casper Ruud,6-3 6-1,0.50,0.0%,10.4%,52.1%,44.0%,47.8%,5/10,37.1%,26.8%,34.1%,14.3%,53.8%,1/1,89,0,5,48,25,23,14,1:07
 5-Aug-2024,Canada Masters,3,Hard,R16,9,18,0,6,,Sebastian Korda,Casper Ruud,W/O,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,Canada Masters,3,Hard,R32,9,80,1,6,LL,Casper Ruud,James Duckworth,6-2 6-7(5) 6-3,1.51,11.3%,1.3%,75.0%,76.7%,70.0%,0/1,55.3%,37.8%,8.9%,30.8%,43.1%,4/10,170,9,1,80,60,20,8,2:02
-29-Jul-2024,Paris Olympics,3,Clay,QF,9,19,0,6,13,Felix Auger Aliassime,Casper Ruud,6-4 6-7(8) 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R16,9,26,1,6,,Casper Ruud,Francisco Cerundolo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R32,9,206,1,6,ALT,Casper Ruud,Andrea Vavassori,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Paris Olympics,3,Clay,R64,9,90,1,6,,Casper Ruud,Taro Daniel,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jul-2024,Paris Olympics,3,Clay,QF,9,19,0,6,13,Felix Auger Aliassime,Casper Ruud,6-4 6-7(8) 6-3,0.73,7.3%,1.8%,65.5%,66.7%,60.5%,13/16,47.2%,25.8%,15.7%,17.5%,40.6%,1/1,199,8,2,110,72,38,14,
+29-Jul-2024,Paris Olympics,3,Clay,R16,9,26,1,6,,Casper Ruud,Francisco Cerundolo,6-3 6-4,1.42,4.8%,6.5%,69.4%,79.1%,63.2%,3/3,57.0%,36.5%,7.7%,34.2%,42.9%,2/4,114,3,4,62,43,19,4,
+29-Jul-2024,Paris Olympics,3,Clay,R32,9,206,1,6,ALT,Casper Ruud,Andrea Vavassori,4-6 6-4 6-3,1.51,2.6%,0.0%,80.8%,77.8%,73.3%,1/2,54.9%,34.9%,3.5%,25.5%,51.6%,2/7,164,2,0,78,63,15,3,
+29-Jul-2024,Paris Olympics,3,Clay,R64,9,90,1,6,,Casper Ruud,Taro Daniel,7-5 6-1,1.56,13.6%,5.1%,62.7%,70.3%,68.2%,0/1,58.1%,47.7%,0.0%,50.0%,44.0%,4/6,124,8,3,59,37,22,0,
 15-Jul-2024,Bastad,3,Clay,R16,9,85,0,2,,Thiago Monteiro,Casper Ruud,6-3 6-3,0.59,11.3%,3.2%,59.7%,64.9%,44.0%,3/6,42.5%,25.5%,3.9%,21.9%,31.6%,0/1,113,7,2,62,37,25,2,1:28
 1-Jul-2024,Wimbledon,5,Grass,R64,8,94,0,8,,Fabio Fognini,Casper Ruud,6-4 7-5 6-7(1) 6-3,1.08,11.2%,1.5%,60.4%,71.6%,54.7%,3/8,49.8%,37.9%,4.7%,28.4%,50.0%,2/13,303,15,2,134,81,53,8,3:18
 1-Jul-2024,Wimbledon,5,Grass,R128,8,234,1,8,Q,Casper Ruud,Alex Bolt,7-6(2) 6-4 6-4,1.49,18.4%,5.1%,63.3%,85.5%,55.6%,9/10,55.0%,38.1%,10.6%,35.2%,42.9%,3/13,211,18,5,98,62,36,12,2:13
-27-May-2024,Roland Garros,5,Clay,SF,7,4,0,7,4,Alexander Zverev,Casper Ruud,2-6 6-2 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,SF,7,4,0,7,4,Alexander Zverev,Casper Ruud,2-6 6-2 6-4 6-2,0.60,3.8%,0.0%,67.0%,69.0%,40.0%,7/12,44.1%,24.4%,23.2%,14.3%,46.2%,2/3,188,4,0,106,71,35,19,
 27-May-2024,Roland Garros,5,Clay,QF,7,1,1,7,1,Casper Ruud,Novak Djokovic,W/O,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R16,7,12,1,7,12,Casper Ruud,Taylor Fritz,7-6(6) 3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R32,7,29,1,7,28,Casper Ruud,Tomas Martin Etcheverry,6-4 1-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R64,7,32,1,7,,Casper Ruud,Alejandro Davidovich Fokina,7-6(5) 1-6 6-3 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,R128,7,137,1,7,Q,Casper Ruud,Felipe Meligeni Alves,6-3 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R16,7,12,1,7,12,Casper Ruud,Taylor Fritz,7-6(6) 3-6 6-4 6-2,1.27,8.6%,5.5%,58.6%,69.3%,60.4%,8/12,53.3%,43.6%,11.7%,28.6%,62.5%,6/27,291,11,7,128,75,53,19,
+27-May-2024,Roland Garros,5,Clay,R32,7,29,1,7,28,Casper Ruud,Tomas Martin Etcheverry,6-4 1-6 6-2 6-2,1.15,5.0%,4.2%,74.8%,64.0%,40.0%,12/18,53.8%,48.4%,6.6%,46.0%,53.6%,8/11,210,6,5,119,89,30,6,
+27-May-2024,Roland Garros,5,Clay,R64,7,32,1,7,,Casper Ruud,Alejandro Davidovich Fokina,7-6(5) 1-6 6-3 4-6 6-3,1.05,7.5%,2.1%,66.4%,69.1%,46.9%,9/14,50.5%,40.4%,2.5%,34.8%,54.3%,5/14,307,11,3,146,97,49,4,
+27-May-2024,Roland Garros,5,Clay,R128,7,137,1,7,Q,Casper Ruud,Felipe Meligeni Alves,6-3 6-4 6-3,2.06,1.4%,0.0%,88.9%,79.7%,87.5%,1/1,58.0%,40.0%,4.4%,35.5%,50.0%,4/11,162,1,0,72,64,8,4,
 20-May-2024,Geneva,3,Clay,F,7,44,1,2,,Casper Ruud,Tomas Machac,7-5 6-3,1.16,2.7%,0.0%,64.9%,68.8%,53.8%,0/1,53.1%,42.3%,4.2%,39.5%,45.5%,3/4,145,2,0,74,48,26,3,1:47
 20-May-2024,Geneva,3,Clay,SF,7,56,1,2,,Casper Ruud,Flavio Cobolli,1-6 6-1 7-6(4),1.13,2.6%,2.6%,63.6%,65.3%,64.3%,3/6,51.9%,39.8%,9.6%,33.3%,50.0%,3/9,160,2,2,77,49,28,8,1:50
 20-May-2024,Geneva,3,Clay,QF,7,20,1,2,5,Casper Ruud,Sebastian Baez,6-3 3-6 6-4,1.04,3.8%,0.0%,63.3%,68.0%,55.2%,0/3,50.3%,38.1%,2.4%,31.3%,64.7%,4/5,163,3,0,79,50,29,2,2:03

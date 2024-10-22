@@ -1,4 +1,13 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,Roanne CH,3,Hard,Q2,413,323,0,,5,Jelle Sels,Arthur Bouquier,7-6(6) 4-6 7-6(4),0.98,14.2%,4.7%,67.7%,79.1%,46.3%,5/5,49.6%,30.7%,6.3%,25.6%,41.5%,1/12,254,18,6,127,86,41,8,2:52
+7-Oct-2024,Roanne CH,3,Hard,Q1,413,360,1,,9,Arthur Bouquier,Maxime Chazal,6-3 3-6 6-3,1.20,9.4%,4.7%,67.1%,82.5%,32.1%,5/7,52.8%,41.1%,5.3%,30.9%,55.0%,3/9,180,8,4,85,57,28,5,1:53
+30-Sep-2024,Mouilleron le Captif CH,3,Hard,Q1,413,1593,0,11,WC,Martin Sabas,Arthur Bouquier,7-6(4) 4-6 7-5,1.09,7.8%,2.0%,68.6%,72.9%,56.3%,6/9,49.8%,35.2%,7.2%,26.9%,48.9%,3/11,227,8,2,102,70,32,9,2:12
+23-Sep-2024,Orleans CH,3,Hard,Q2,419,382,0,,11,Tristan Lamasine,Arthur Bouquier,7-5 3-6 7-5,0.86,8.3%,7.4%,55.6%,75.0%,45.8%,6/10,48.3%,32.6%,5.3%,27.9%,41.2%,3/10,203,9,8,108,60,48,5,2:19
+23-Sep-2024,Orleans CH,3,Hard,Q1,419,239,1,,3,Arthur Bouquier,Elias Ymer,1-6 7-6(4) 6-3,0.76,7.1%,5.1%,57.6%,80.7%,42.9%,2/5,48.6%,27.0%,5.4%,23.1%,36.4%,1/2,173,7,5,99,57,42,4,1:39
+9-Sep-2024,Rennes CH,3,Hard,R16,446,125,0,Q,3,Harold Mayot,Arthur Bouquier,6-4 6-3,0.79,7.5%,10.4%,62.7%,59.5%,28.0%,5/10,44.8%,41.4%,12.1%,41.9%,40.0%,3/6,125,5,7,67,42,25,7,1:15
+9-Sep-2024,Rennes CH,3,Hard,R32,446,763,1,Q,PR,Arthur Bouquier,Evan Furness,2-6 7-6(5) 6-4,1.06,8.0%,4.5%,69.3%,75.4%,48.1%,1/4,49.0%,35.1%,5.3%,33.3%,37.5%,2/11,202,7,4,88,61,27,6,2:05
+9-Sep-2024,Rennes CH,3,Hard,Q2,446,619,1,4,8,Arthur Bouquier,Kai Wehnelt,6-3 6-4,1.39,14.1%,1.6%,75.0%,70.8%,62.5%,3/4,57.3%,43.4%,9.4%,26.5%,73.7%,3/5,117,9,1,64,48,16,5,1:11
+9-Sep-2024,Rennes CH,3,Hard,Q1,446,745,1,4,,Arthur Bouquier,Axel Garcian,6-3 7-5,1.30,2.9%,0.0%,62.9%,68.2%,65.4%,8/9,55.6%,42.9%,4.8%,33.3%,53.3%,3/7,133,2,0,70,44,26,3,1:31
 10-Jun-2024,M25 Martos,3,Hard,F,473,338,0,6,2,Michael Geerts,Arthur Bouquier,6-4 RET,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Martos,3,Hard,SF,473,470,1,6,5,Arthur Bouquier,Miguel Damas,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M25 Martos,3,Hard,QF,473,306,1,6,1,Arthur Bouquier,Robin Bertrand,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -43,9 +52,9 @@
 15-Jan-2024,M15 Bressuire,3,Hard,QF,719,530,1,,3,Arthur Bouquier,Andrea Picchione,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Bressuire,3,Hard,R16,719,669,1,,8,Arthur Bouquier,Maxence Beauge,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M15 Bressuire,3,Hard,R32,719,994,1,,,Arthur Bouquier,Axel Garcian,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,QF,704,767,0,,,Niels Visker,Arthur Bouquier,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R16,704,407,1,,3,Arthur Bouquier,Stefanos Sakellaridis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Monastir,3,,R32,704,932,1,,Q,Arthur Bouquier,Luca Fantini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,QF,704,767,0,,,Niels Visker,Arthur Bouquier,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R16,704,407,1,,3,Arthur Bouquier,Stefanos Sakellaridis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Monastir,3,Hard,R32,704,932,1,,Q,Arthur Bouquier,Luca Fantini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25+H Mulhouse,3,Hard,R32,665,782,0,,Q,Florian Broska,Arthur Bouquier,6-4 4-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25+H Rodez,3,Hard,R16,674,411,0,,6,Alexis Gautier,Arthur Bouquier,7-5 7-6(4),,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,M25+H Rodez,3,Hard,R32,674,717,1,,,Arthur Bouquier,Jakob Schnaitter,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,

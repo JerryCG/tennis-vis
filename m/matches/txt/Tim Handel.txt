@@ -1,11 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,Q1,466,506,0,11,,Peter Heller,Tim Handel,6-4 1-6 6-1,0.90,1.9%,4.8%,66.7%,60.0%,42.9%,11/15,48.4%,41.0%,2.4%,34.1%,47.6%,3/6,188,2,5,105,70,35,2,2:23
+21-Oct-2024,Sioux Falls CH,3,Hard,Q1,438,819,0,5,,Martin Borisiouk,Tim Handel,7-6(2) 6-4,0.92,6.2%,3.1%,64.6%,69.0%,47.8%,0/3,48.1%,35.3%,8.8%,21.4%,57.7%,2/4,133,4,2,65,42,23,6,1:32
+14-Oct-2024,Calgary CH,3,Hard,R32,441,743,0,,Q,Govind Nanda,Tim Handel,6-4 6-2,0.62,1.7%,10.2%,62.7%,62.2%,36.4%,4/8,41.8%,29.4%,7.8%,19.2%,40.0%,1/2,110,1,6,59,37,22,4,1:11
+23-Sep-2024,M25 Sabadell,3,Clay,R32,440,310,0,,4,Ivan Gakhov,Tim Handel,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,R32,453,228,0,Q,Alt,Filip Misolic,Tim Handel,7-6(5) 7-5,0.99,1.3%,0.0%,69.6%,58.2%,62.5%,2/6,49.4%,40.0%,1.2%,36.0%,45.7%,3/10,164,1,0,79,55,24,1,1:53
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,Q2,453,313,1,11,4,Tim Handel,Jonas Forejtek,4-6 7-6(11) 7-5,1.10,3.2%,5.6%,68.3%,74.4%,45.0%,6/9,52.0%,38.5%,4.9%,32.4%,47.9%,3/6,248,4,7,126,86,40,6,2:57
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,Q1,453,1081,1,11,WC,Tim Handel,Matthias Ujvary,6-4 6-3,1.45,1.9%,3.7%,70.4%,68.4%,62.5%,1/3,57.3%,48.2%,0.0%,36.4%,65.2%,4/4,110,1,2,54,38,16,0,1:11
+9-Sep-2024,Szczecin CH,3,Clay,Q2,465,486,0,,,Hynek Barton,Tim Handel,6-2 7-6(4),0.83,1.6%,4.8%,56.5%,65.7%,48.1%,1/4,44.8%,34.9%,9.6%,29.3%,48.0%,1/6,145,1,3,62,35,27,8,1:38
+9-Sep-2024,Szczecin CH,3,Clay,Q1,465,462,1,,12,Tim Handel,Giovanni Oradini,6-3 6-3,1.79,15.2%,0.0%,78.3%,86.1%,40.0%,1/2,57.8%,42.9%,1.8%,34.4%,54.2%,4/8,102,7,0,46,36,10,1,1:17
+2-Sep-2024,Tulln CH,3,Clay,Q1,466,506,0,11,,Peter Heller,Tim Handel,6-4 1-6 6-1,0.90,1.9%,4.8%,66.7%,60.0%,42.9%,11/15,48.4%,41.0%,2.4%,34.1%,47.6%,3/6,188,2,5,105,70,35,2,2:23
 19-Aug-2024,M25 Lesa,3,Clay,F,466,368,0,8,5,Andrea Picchione,Tim Handel,7-6(2) 7-6(3),,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Lesa,3,Clay,SF,466,570,1,8,,Tim Handel,Gianluca Cadenasso,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Lesa,3,Clay,QF,466,533,1,8,,Tim Handel,Mika Brunold,7-6(5) 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Lesa,3,Clay,R16,466,1389,1,8,Q,Tim Handel,Manuel Plunger,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Lesa,3,Clay,R32,466,1600,1,8,LL,Tim Handel,Luca Parenti,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2024,M15 脺berlingen,3,Clay,R32,461,901,0,1,,Franco Emanuel Egea,Tim Handel,6-4 6-7(4) 6-0,,,,,,,,,,,,,,,,,,,,,
+12-Aug-2024,M15 Ueberlingen,3,Clay,R32,461,901,0,1,,Franco Emanuel Egea,Tim Handel,6-4 6-7(4) 6-0,,,,,,,,,,,,,,,,,,,,,
 29-Jul-2024,M25 Wetzlar,3,Clay,R32,458,368,0,,3,Lucas Gerch,Tim Handel,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Kassel,3,Clay,R16,422,1194,0,7,Q,Daniel Siniakov,Tim Handel,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jul-2024,M25 Kassel,3,Clay,R32,422,1249,1,7,WC,Tim Handel,Mika Lipp,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -32,12 +40,12 @@
 22-Jan-2024,Indian Wells 2 CH,3,Hard,R32,387,666,1,,Q,Tim Handel,Matias Soto,6-4 6-4,1.14,9.7%,8.1%,56.5%,77.1%,51.9%,3/4,52.4%,38.7%,1.6%,34.1%,50.0%,3/7,124,6,5,62,35,27,1,1:27
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R16,387,316,0,,6,Thai Son Kwiatkowski,Tim Handel,6-3 7-6(6),0.88,2.6%,2.6%,53.9%,68.3%,48.6%,2/5,47.7%,36.0%,4.0%,23.4%,57.1%,1/5,151,2,2,76,41,35,3,1:50
 15-Jan-2024,Indian Wells 1 CH,3,Hard,R32,387,691,1,,Q,Tim Handel,James Tracy,6-3 6-4,1.20,5.3%,6.6%,56.6%,67.4%,57.6%,5/6,54.7%,44.3%,0.0%,46.7%,37.5%,3/8,137,4,5,76,43,33,0,1:40
-1-Jan-2024,M25 EschAlzette,3,Hard,R16,389,646,0,6,Q,Jacob Fearnley,Tim Handel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,389,636,1,6,,Tim Handel,Amaury Raynel,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,SF,445,478,0,5,7,Jay Clarke,Tim Handel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,QF,445,259,1,5,2,Tim Handel,Nicholas David Ionel,6-0 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R16,445,615,1,5,,Tim Handel,Stefan Popovic,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Antalya,3,,R32,445,1455,1,5,WC,Tim Handel,Berk Ilkel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R16,389,646,0,6,Q,Jacob Fearnley,Tim Handel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,389,636,1,6,,Tim Handel,Amaury Raynel,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,SF,445,478,0,5,7,Jay Clarke,Tim Handel,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,QF,445,259,1,5,2,Tim Handel,Nicholas David Ionel,6-0 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R16,445,615,1,5,,Tim Handel,Stefan Popovic,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Antalya,3,Clay,R32,445,1455,1,5,WC,Tim Handel,Berk Ilkel,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Antalya,3,Clay,F,453,303,1,,4,Tim Handel,Alexander Weis,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Antalya,3,Clay,SF,453,918,1,,Q,Tim Handel,Calin Manda,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,M25 Antalya,3,Clay,QF,453,601,1,,,Tim Handel,Dan Alexandru Tomescu,6-3 6-0,,,,,,,,,,,,,,,,,,,,,

@@ -1,20 +1,33 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Shanghai CH,3,Hard,Q2,509,405,0,,12,Kris Van Wyk,Lukas Pokorny,6-3 7-5,0.76,2.7%,0.0%,63.0%,63.0%,40.7%,6/10,45.0%,34.3%,11.9%,23.7%,48.3%,2/3,140,2,0,73,46,27,8,1:56
-1-Sep-2024,Shanghai CH,3,Hard,Q1,509,338,1,,5,Lukas Pokorny,Tristan Lamasine,7-6(7) 6-3,1.22,22.5%,1.4%,57.7%,85.4%,50.0%,0/1,54.1%,35.9%,4.7%,36.4%,35.0%,2/3,135,16,1,71,41,30,3,1:48
+14-Oct-2024,Stockholm,3,Hard,Q1,475,99,0,,1,Jacob Fearnley,Lukas Pokorny,6-4 6-2,0.44,9.7%,4.8%,56.5%,65.7%,40.7%,6/9,40.2%,20.0%,26.7%,15.2%,33.3%,0/0,107,6,3,62,35,27,12,1:03
+30-Sep-2024,M15 Trnava,3,Hard,R32,524,1262,0,3,Q,Robin Catry,Lukas Pokorny,7-6(2) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,F,532,660,1,3,,Lukas Pokorny,Milos Karol,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,SF,532,768,1,3,,Lukas Pokorny,Lorenzo Rottoli,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,QF,532,653,1,3,8,Lukas Pokorny,Martyn Pawelski,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,R16,532,1935,1,3,Q,Lukas Pokorny,Petr Michnev,6-7(8) 7-6(5) 7-6(6),,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M15 Trnava,3,Hard,R32,532,924,1,3,,Lukas Pokorny,Daniel Paty,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,Shanghai CH,3,Hard,Q2,509,405,0,,12,Kris Van Wyk,Lukas Pokorny,6-3 7-5,0.76,2.7%,0.0%,63.0%,63.0%,40.7%,6/10,45.0%,34.3%,11.9%,23.7%,48.3%,2/3,140,2,0,73,46,27,8,1:56
+2-Sep-2024,Shanghai CH,3,Hard,Q1,509,338,1,,5,Lukas Pokorny,Tristan Lamasine,7-6(7) 6-3,1.22,22.5%,1.4%,57.7%,85.4%,50.0%,0/1,54.1%,35.9%,4.7%,36.4%,35.0%,2/3,135,16,1,71,41,30,3,1:48
+26-Aug-2024,Zhangjiagang CH,3,Hard,R32,509,218,0,Q,6,Beibit Zhukayev,Lukas Pokorny,7-5 7-5,0.78,8.3%,4.2%,65.3%,66.0%,56.0%,1/4,46.4%,29.4%,8.8%,23.4%,42.9%,1/5,140,6,3,72,47,25,6,1:49
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q2,509,396,1,8,2,Lukas Pokorny,Evgeny Donskoy,7-5 6-3,1.14,9.5%,4.1%,62.2%,78.3%,53.6%,1/1,52.8%,35.3%,7.4%,36.8%,33.3%,2/7,142,7,3,74,46,28,5,1:46
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q1,509,702,1,8,Alt,Lukas Pokorny,Yunseong Chung,6-2 4-1 RET,2.90,17.2%,3.4%,55.2%,81.3%,84.6%,0/0,62.3%,50.0%,2.1%,42.4%,66.7%,4/8,77,5,1,29,16,13,1,0:49
 12-Aug-2024,Grodzisk Mazowiecki CH,3,Hard,Q1,486,1066,0,4,,Kristjan Tamm,Lukas Pokorny,6-4 6-1,0.74,1.8%,3.6%,78.6%,52.3%,33.3%,4/9,43.1%,38.3%,5.0%,25.6%,61.9%,2/11,116,1,2,56,44,12,3,1:13
 22-Jul-2024,M25 Astana,3,Hard,SF,512,268,0,,1,Khumoyun Sultanov,Lukas Pokorny,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,QF,512,546,1,,,Lukas Pokorny,Aleksandre Bakshi,6-3 RET,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R16,512,1279,1,,Q,Lukas Pokorny,Savriyan Danilov,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R32,512,499,1,,3,Lukas Pokorny,Dominik Palan,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Astana CH,3,Hard,QF,536,533,0,,,Saba Purtseladze,Lukas Pokorny,6-2 6-3,0.52,4.2%,2.1%,62.5%,73.3%,33.3%,0/3,40.4%,21.7%,19.6%,18.2%,30.8%,0/0,94,2,1,48,30,18,9,1:05
+15-Jul-2024,Astana CH,3,Hard,R16,536,475,1,,,Lukas Pokorny,Ilia Simakin,7-6(6) 6-2,1.49,14.5%,3.2%,69.4%,74.4%,68.4%,1/2,56.3%,40.9%,9.1%,32.0%,68.8%,3/6,128,9,2,62,43,19,6,1:09
+15-Jul-2024,Astana CH,3,Hard,R32,536,287,1,,2,Lukas Pokorny,Khumoyun Sultanov,6-4 6-4,1.13,18.2%,3.0%,65.2%,86.0%,34.8%,3/3,52.8%,36.1%,6.6%,28.6%,52.6%,2/7,127,12,2,66,43,23,4,1:27
 1-Jul-2024,M15 Store,3,Clay,R16,561,972,0,3,,Nikos Lehmann,Lukas Pokorny,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M15 Store,3,Clay,R32,561,1217,1,3,,Lukas Pokorny,Manas Dhamne,6-7(3) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M15 Belgrade,3,Clay,QF,585,889,0,4,8,Viktor Jovic,Lukas Pokorny,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M15 Belgrade,3,Clay,R16,585,1178,1,4,,Lukas Pokorny,Benjamin Pietri,6-4 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M15 Belgrade,3,Clay,R32,585,1915,1,4,Q,Lukas Pokorny,Enrique Bogo,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M15 Nyiregyh谩za,3,Clay,SF,581,552,0,3,2,Franco Roncadelli,Lukas Pokorny,2-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M15 Nyiregyh谩za,3,Clay,QF,581,808,1,3,5,Lukas Pokorny,Peter Fajta,6-7(7) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M15 Nyiregyh谩za,3,Clay,R16,581,,1,3,WC,Lukas Pokorny,Rafael Kis Balazs,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M15 Nyiregyh谩za,3,Clay,R32,581,,1,3,WC,Lukas Pokorny,Adam Jilly,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Nyiregyhaza,3,Clay,SF,581,552,0,3,2,Franco Roncadelli,Lukas Pokorny,2-6 7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Nyiregyhaza,3,Clay,QF,581,808,1,3,5,Lukas Pokorny,Peter Fajta,6-7(7) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Nyiregyhaza,3,Clay,R16,581,,1,3,WC,Lukas Pokorny,Rafael Kis Balazs,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,M15 Nyiregyhaza,3,Clay,R32,581,,1,3,WC,Lukas Pokorny,Adam Jilly,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,Bratislava CH,3,Clay,Q2,594,393,0,WC,12,Yanki Erel,Lukas Pokorny,7-6(5) 6-2,0.91,1.4%,1.4%,49.3%,72.2%,45.9%,3/6,47.2%,37.2%,3.5%,36.1%,40.0%,1/9,159,1,1,73,36,37,3,1:50
 10-Jun-2024,Bratislava CH,3,Clay,Q1,594,318,1,WC,2,Lukas Pokorny,Ricardas Berankis,7-5 5-7 6-3,1.15,9.2%,2.8%,53.2%,77.6%,58.8%,9/10,52.6%,35.8%,2.8%,29.7%,45.2%,2/9,215,10,3,109,58,51,3,2:26
 27-May-2024,M25 Kiseljak,3,Clay,R32,583,423,0,,5,Marko Topo,Lukas Pokorny,6-1 6-0,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,11 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Campinas CH,3,Clay,R32,165,170,0,8,,Tomas Barrios Vera,Felipe Meligeni Alves,6-1 6-1,0.33,5.6%,0.0%,55.6%,56.7%,25.0%,6/11,33.0%,18.9%,5.4%,16.7%,23.1%,0/3,91,3,0,54,30,24,2,1:09
+7-Oct-2024,Villa Maria CH,3,Clay,R16,165,154,0,,7,Juan Manuel Cerundolo,Felipe Meligeni Alves,6-3 7-6(4),0.74,1.4%,1.4%,71.0%,73.5%,40.0%,4/5,45.6%,26.9%,6.0%,17.1%,42.3%,0/2,136,1,1,69,49,20,4,1:40
+7-Oct-2024,Villa Maria CH,3,Clay,R32,165,295,1,,,Felipe Meligeni Alves,Hady Habib,6-4 7-6(3),1.41,2.8%,0.0%,71.8%,76.5%,75.0%,3/3,54.1%,33.8%,5.2%,22.5%,45.9%,1/2,148,2,0,71,51,20,4,1:34
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R16,165,108,0,,3,Hugo Dellien,Felipe Meligeni Alves,6-3 6-4,0.54,3.9%,3.9%,64.5%,63.3%,44.4%,5/8,43.3%,23.5%,2.0%,22.2%,26.7%,1/1,127,3,3,76,49,27,1,1:29
+30-Sep-2024,Buenos Aires 2 CH,3,Clay,R32,165,367,1,,Q,Felipe Meligeni Alves,Luciano Emanuel Ambrogi,1-6 7-6(5) 7-6(6),0.94,3.7%,0.9%,65.4%,58.6%,54.1%,7/13,48.2%,40.5%,9.9%,38.7%,46.4%,4/11,228,4,1,107,70,37,12,2:40
 26-Aug-2024,Manacor CH,3,Hard,R32,139,199,0,6,,Raphael Collignon,Felipe Meligeni Alves,7-6(4) 6-4,0.82,14.7%,1.3%,66.7%,72.0%,36.0%,2/5,46.9%,32.9%,4.3%,25.5%,47.8%,2/5,145,11,1,75,50,25,3,
-26-Aug-2024,US Open,5,Hard,Q1,139,217,0,,,Antoine Escoffier,Felipe Meligeni Alves,2-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,US Open,5,Hard,Q1,139,217,0,,,Antoine Escoffier,Felipe Meligeni Alves,2-6 6-2 6-3,0.85,4.6%,2.3%,64.4%,60.7%,51.6%,4/8,47.3%,36.3%,7.5%,33.3%,40.6%,2/5,167,4,2,87,56,31,6,1:50
 12-Aug-2024,Santo Domingo CH,3,Clay,QF,148,307,0,6,,Renzo Olivo,Felipe Meligeni Alves,6-1 6-3,0.50,0.0%,3.9%,62.7%,50.0%,31.6%,3/8,36.6%,28.6%,2.4%,17.4%,42.1%,1/1,93,0,2,51,32,19,1,1:06
 12-Aug-2024,Santo Domingo CH,3,Clay,R16,148,554,1,6,Q,Felipe Meligeni Alves,Mariano Kestelboim,6-4 6-4,1.40,1.9%,1.9%,60.4%,78.1%,61.9%,4/5,54.3%,39.7%,3.2%,30.6%,51.9%,3/4,116,1,1,53,32,21,2,1:34
 12-Aug-2024,Santo Domingo CH,3,Clay,R32,148,236,1,6,,Felipe Meligeni Alves,Nicolas Mejia,6-4 6-3,1.25,8.5%,0.0%,69.5%,70.7%,55.6%,4/5,53.6%,42.4%,1.5%,34.1%,56.0%,4/9,125,5,0,59,41,18,1,1:36
@@ -13,10 +18,10 @@
 1-Jul-2024,Wimbledon,5,Grass,Q2,145,191,1,,,Felipe Meligeni Alves,Joris De Loore,7-6(3) 6-4,1.20,20.5%,0.0%,67.9%,79.2%,64.0%,7/7,52.9%,30.7%,9.3%,18.8%,51.9%,1/4,153,16,0,78,53,25,7,1:44
 1-Jul-2024,Wimbledon,5,Grass,Q1,145,227,1,,,Felipe Meligeni Alves,Illya Marchenko,6-2 6-4,1.75,9.8%,0.0%,76.5%,79.5%,66.7%,0/0,57.0%,41.3%,7.9%,28.6%,57.1%,3/10,114,5,0,51,39,12,5,1:16
 17-Jun-2024,Ilkley CH,3,Grass,R32,149,95,0,,2,Lloyd Harris,Felipe Meligeni Alves,6-4 6-2,0.43,4.2%,2.8%,64.8%,60.9%,44.0%,10/13,41.0%,19.6%,28.3%,11.5%,30.0%,0/0,117,3,2,71,46,25,13,1:11
-27-May-2024,Roland Garros,5,Clay,R128,137,7,0,Q,7,Casper Ruud,Felipe Meligeni Alves,6-3 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q3,137,183,1,23,,Felipe Meligeni Alves,Jaime Faria,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q2,137,289,1,23,,Felipe Meligeni Alves,Zdenek Kolar,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,Roland Garros,5,Clay,Q1,137,220,1,23,,Felipe Meligeni Alves,Nerman Fatic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-May-2024,Roland Garros,5,Clay,R128,137,7,0,Q,7,Casper Ruud,Felipe Meligeni Alves,6-3 6-4 6-3,0.49,4.4%,0.0%,68.9%,64.5%,50.0%,7/11,42.0%,19.4%,1.4%,20.3%,12.5%,0/1,162,4,0,90,62,28,1,
+27-May-2024,Roland Garros,5,Clay,Q3,137,183,1,23,,Felipe Meligeni Alves,Jaime Faria,6-4 6-2,1.60,3.7%,0.0%,75.9%,75.6%,69.2%,4/4,57.9%,41.5%,11.3%,35.3%,52.6%,3/7,107,2,0,54,41,13,6,
+27-May-2024,Roland Garros,5,Clay,Q2,137,289,1,23,,Felipe Meligeni Alves,Zdenek Kolar,6-3 6-2,1.96,13.0%,4.3%,73.9%,79.4%,58.3%,0/1,62.6%,51.1%,0.0%,61.5%,36.8%,4/4,91,6,2,46,34,12,0,
+27-May-2024,Roland Garros,5,Clay,Q1,137,220,1,23,,Felipe Meligeni Alves,Nerman Fatic,6-3 6-4,1.60,5.2%,0.0%,79.3%,76.1%,75.0%,2/2,57.4%,38.6%,12.3%,31.6%,52.6%,2/6,115,3,0,58,46,12,7,
 13-May-2024,Turin CH,3,Clay,QF,132,29,0,Q,1,Lorenzo Musetti,Felipe Meligeni Alves,6-1 6-3,0.57,4.0%,0.0%,68.0%,58.8%,31.3%,4/8,39.4%,28.6%,6.1%,12.5%,58.8%,0/3,99,2,0,50,34,16,3,1:11
 13-May-2024,Turin CH,3,Clay,R16,132,215,1,Q,,Felipe Meligeni Alves,Francesco Maestrelli,6-3 4-6 7-6(4),0.91,2.6%,0.9%,73.0%,63.1%,58.1%,6/9,50.0%,34.8%,16.9%,22.9%,48.8%,3/7,204,3,1,115,84,31,15,2:36
 13-May-2024,Turin CH,3,Clay,R32,132,103,1,Q,Alt,Felipe Meligeni Alves,Thiago Agustin Tirante,4-6 6-3 6-1,1.45,5.5%,5.5%,61.6%,71.1%,71.4%,1/2,56.6%,41.7%,13.9%,29.2%,66.7%,4/5,145,4,4,73,45,28,10,1:42

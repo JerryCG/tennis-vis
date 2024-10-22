@@ -1,5 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-18-Jul-2021,Pozoblanco Challenger,3,Hard,Q1,,348,0,Alt,2,Michael Geerts,Mark Vervoort,6-1 6-0,0.22,2.4%,11.9%,59.5%,48.0%,23.5%,7/13,28.2%,13.8%,6.9%,16.7%,9.1%,0/0,71,1,5,42,25,17,2,0:45
+19-Jul-2021,Pozoblanco CH,3,Hard,Q1,,348,0,Alt,2,Michael Geerts,Mark Vervoort,6-1 6-0,0.22,2.4%,11.9%,59.5%,48.0%,23.5%,7/13,28.2%,13.8%,6.9%,16.7%,9.1%,0/0,71,1,5,42,25,17,2,0:45
 12-Jul-2021,Todi CH,3,Clay,Q1,,492,0,Alt,6,Riccardo Balzerani,Mark Vervoort,6-2 6-1,0.62,1.5%,2.9%,60.3%,48.8%,33.3%,6/12,40.0%,35.7%,2.4%,20.0%,58.8%,1/3,110,1,2,68,41,27,1,1:18
 5-Jul-2021,Perugia CH,3,Clay,Q1,,340,0,Alt,5,Nerman Fatic,Mark Vervoort,6-1 6-1,0.40,1.8%,7.1%,55.4%,51.6%,36.0%,4/9,35.9%,22.2%,16.7%,7.1%,31.8%,0/0,92,1,4,56,31,25,6,
 15-Jul-2019,Amersfoort CH,3,Clay,Q1,,540,0,,1,Sem Verbeek,Mark Vervoort,6-1 6-4,0.55,0.0%,5.2%,56.9%,57.6%,48.0%,4/7,40.4%,25.5%,9.8%,26.9%,24.0%,0/0,109,0,3,58,33,25,5,1:11
@@ -74,9 +74,9 @@
 8-Jul-2013,Egypt F15,3,Clay,R32,895,1266,0,8,Q,Ramy Kamal Aita,Mark Vervoort,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2013,Egypt F14,3,Clay,R16,945,653,0,,7,Hicham Khaddari,Mark Vervoort,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2013,Egypt F14,3,Clay,R32,945,,1,,WC,Mark Vervoort,Jacob Scott,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2013,Italy F14,3,Clay,QF,,375,0,,3,Roberto Marcora,Mark Vervoort,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2013,Italy F14,3,Clay,R16,,,1,,,Mark Vervoort,Riccardo Maiga,6-1 2-2 RET,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2013,Italy F14,3,Clay,R32,,1882,1,,WC,Mark Vervoort,Adelchi Virgili,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,QF,934,375,0,,3,Roberto Marcora,Mark Vervoort,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,R16,934,814,1,,,Mark Vervoort,Riccardo Maiga,6-1 2-2 RET,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2013,Italy F14,3,Clay,R32,934,1882,1,,WC,Mark Vervoort,Adelchi Virgili,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 27-May-2013,Turkey F21,3,Clay,R16,949,358,0,,3,Michael Linzer,Mark Vervoort,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 27-May-2013,Turkey F21,3,Clay,R32,949,,1,,WC,Mark Vervoort,Fatih Taha Erun,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 20-May-2013,Spain F11,3,Clay,R32,946,1220,0,,Q,Ferran Ventura Martell,Mark Vervoort,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
@@ -118,7 +118,9 @@
 16-Apr-2012,India F4,3,Clay,R32,927,683,0,,5,Arsenije Zlatanovic,Mark Vervoort,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Mar-2012,France F6,3,Hard,R32,928,896,0,,,Hugo Nys,Mark Vervoort,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Mar-2012,Spain F6,3,Clay,R32,925,791,0,Q,Q,Oriol Roca Batalla,Mark Vervoort,7-6(0) 6-2,,,,,,,,,,,,,,,,,,,,,
+12-Mar-2012,Spain F6,3,Clay,Q4,925,1070,1,7,10,Mark Vervoort,Henrik Sillanpaa,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 24-Oct-2011,Spain F39,3,Clay,R32,895,460,0,Q,7,Roberto Carballes Baena,Mark Vervoort,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+24-Oct-2011,Spain F39,3,Clay,Q4,895,1076,1,6,12,Mark Vervoort,Stepan Khotulev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 3-Oct-2011,Algeria F3,3,Clay,QF,956,442,0,6,3,Boy Westerhof,Mark Vervoort,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
 3-Oct-2011,Algeria F3,3,Clay,R16,956,,1,6,Q,Mark Vervoort,Jaume Martinez Vich,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 3-Oct-2011,Algeria F3,3,Clay,R32,956,,1,6,,Mark Vervoort,Karim Kadry,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -147,6 +149,8 @@
 16-May-2011,Morocco F2,3,Clay,R32,942,,1,,WC,Mark Vervoort,Nizar Belmati,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 11-Apr-2011,Spain F12,3,Clay,R32,942,391,0,Q,3,Gabriel Trujillo Soler,Mark Vervoort,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 28-Mar-2011,Spain F10,3,Clay,R32,934,954,0,Q,Q,Arthur De Greef,Mark Vervoort,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Mar-2011,Spain F10,3,Clay,Q4,934,1139,1,8,15,Mark Vervoort,Guillem Collado Castells,1-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+7-Mar-2011,Spain F7,3,Clay,Q4,935,777,0,11,6,David Canudas Fernandez,Mark Vervoort,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2011,Spain F6,3,Clay,QF,1000,313,0,LL,3,Pablo Carreno Busta,Mark Vervoort,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2011,Spain F6,3,Clay,R16,1000,1141,1,LL,Q,Mark Vervoort,Francesco Picco,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 14-Feb-2011,Spain F6,3,Clay,R32,1000,760,1,LL,Q,Mark Vervoort,Marc Giner,6-2 7-6(3),,,,,,,,,,,,,,,,,,,,,
@@ -170,7 +174,7 @@
 7-Jun-2010,Tunisia F2,3,Hard,QF,1036,353,0,,2,Laurent Rochette,Mark Vervoort,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2010,Tunisia F2,3,Hard,R16,1036,,1,,Q,Mark Vervoort,Salvador Rodriguez Mayoralas,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Jun-2010,Tunisia F2,3,Hard,R32,1036,714,1,,8,Mark Vervoort,Alexandre Penaud,7-6(6) 7-6(4),,,,,,,,,,,,,,,,,,,,,
-31-May-2010,Spain F19,3,Hard,R32,1093,,0,,,Marcelo Palacios Siegenthale,Mark Vervoort,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-May-2010,Spain F19,3,Hard,R32,1093,699,0,,,Marcelo Palacios Siegenthale,Mark Vervoort,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 24-May-2010,Spain F18,3,Hard,R16,1093,864,0,,,Juan Lizariturry,Mark Vervoort,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 24-May-2010,Spain F18,3,Hard,R32,1093,1566,1,,Q,Mark Vervoort,Arnau Dachs,4-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Oct-2009,Spain F35,3,Clay,R32,1145,1076,0,Q,Q,Rafael Mazon Hernandez,Mark Vervoort,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,

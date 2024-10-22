@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Taipei 2 CH,3,Hard,Q2,576,1404,0,5,Alt,Kuan Yi Lee,Arthur Weber,6-3 6-3,0.63,1.6%,1.6%,74.2%,54.3%,31.3%,6/11,41.4%,32.7%,6.1%,32.4%,33.3%,2/4,111,1,1,62,46,16,3,1:20
+21-Oct-2024,Taipei 2 CH,3,Hard,Q1,576,,1,5,WC,Arthur Weber,Cheng Peng Hsieh,6-4 6-3,1.52,5.7%,1.9%,66.0%,68.6%,72.2%,1/2,57.1%,45.8%,3.4%,50.0%,41.4%,4/5,112,3,1,53,35,18,2,1:15
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,QF,673,87,0,Q,1,Arthur Cazaux,Arthur Weber,6-1 6-3,0.68,3.3%,3.3%,62.3%,50.0%,30.4%,7/13,41.2%,39.0%,2.4%,31.8%,47.4%,2/3,102,2,2,61,38,23,1,1:25
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,R16,673,624,1,Q,WC,Arthur Weber,Rigele Te,6-3 7-5,1.46,5.1%,0.0%,59.3%,74.3%,62.5%,2/3,56.5%,44.6%,6.2%,26.7%,60.0%,4/7,124,3,0,59,35,24,4,1:32
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,R32,673,387,1,Q,,Arthur Weber,Kaichi Uchida,4-6 7-5 6-3,1.05,13.1%,5.1%,63.6%,77.8%,47.2%,5/7,51.6%,35.2%,14.3%,24.6%,52.9%,3/7,190,13,5,99,63,36,13,2:17
+14-Oct-2024,Shenzhen Longhua CH,3,Hard,Q2,673,928,1,5,12,Arthur Weber,Jose Rubin Statham,6-4 3-0 RET,1.50,2.4%,2.4%,56.1%,52.2%,72.2%,2/4,59.8%,58.5%,2.4%,55.6%,64.3%,4/5,82,1,1,41,23,18,1,1:03
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q2,668,255,0,,1,Yuta Shimizu,Arthur Weber,6-2 1-6 6-3,0.93,0.0%,5.4%,77.0%,68.4%,41.2%,1/4,49.0%,35.2%,5.6%,20.9%,57.1%,2/2,145,0,4,74,57,17,4,1:40
+24-Sep-2024,Nonthaburi 4 CH,3,Hard,Q1,668,475,1,,10,Arthur Weber,Tibo Colson,6-4 6-7(3) 7-6(7),1.09,1.9%,0.9%,74.5%,74.7%,51.9%,4/6,50.9%,33.9%,16.1%,26.0%,48.7%,3/11,218,2,1,106,79,27,18,2:52
+16-Sep-2024,M15 Bali,3,Hard,SF,622,422,0,6,3,Andre Ilagan,Arthur Weber,2-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Bali,3,Hard,QF,622,394,1,6,2,Arthur Weber,Bogdan Bobrov,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Bali,3,Hard,R16,622,900,1,6,,Arthur Weber,Corban Crowther,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M15 Bali,3,Hard,R32,622,1172,1,6,,Arthur Weber,Tanguy Genier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,QF,666,556,0,7,2,San Hui Sin,Arthur Weber,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,R16,666,1004,1,7,,Arthur Weber,Koki Matsuda,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M15 Hong Kong,3,Hard,R32,666,1252,1,7,Q,Arthur Weber,Yaojie Zeng,6-2 4-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,QF,666,613,0,5,,Chris Rodesch,Arthur Weber,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,R16,666,807,1,5,,Arthur Weber,Daisuke Sumizawa,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Hong Kong,3,Hard,R32,666,1123,1,5,,Arthur Weber,Alberto Lim,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,Jinan CH,3,Hard,R32,452,534,0,,Alt,Ajeet Rai,Arthur Weber,6-4 1-6 6-3,0.89,2.1%,7.2%,47.4%,67.4%,51.0%,7/10,48.6%,36.9%,10.7%,26.2%,47.6%,3/9,181,2,7,97,46,51,9,2:26
 5-Aug-2024,M25 Taipei,3,Hard,R16,403,619,0,4,,Tsung Hao Huang,Arthur Weber,6-4 3-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Taipei,3,Hard,R32,403,507,1,4,,Arthur Weber,Hikaru Shiraishi,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

@@ -1,1 +1,19 @@
-Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+11-Jun-2012,Halle Q,3,Grass,Q1,UNR,306,0,,,Albano Olivetti,Philipp Marx,6-3 6-4,0.62,5.5%,7.3%,50.9%,92.9%,33.3%,2/4,43.5%,22.6%,9.4%,13.8%,33.3%,0/3,108,3,4,55,28,27,5,1:04
+25-Jul-2011,Gstaad Q,3,Clay,Q2,UNR,382,0,,7,Florian Reynet,Philipp Marx,6-4 6-0,0.56,14.8%,11.5%,50.8%,67.7%,33.3%,8/12,40.7%,27.7%,4.3%,16.1%,50.0%,0/3,108,9,7,61,31,30,2,1:00
+25-Jul-2011,Gstaad Q,3,Clay,Q1,UNR,UNR,1,,,Philipp Marx,Rogier Wassen,6-3 6-1,3.56,24.3%,2.7%,62.2%,91.3%,78.6%,0/0,64.0%,48.1%,0.0%,28.0%,66.7%,4/7,89,9,1,37,23,14,0,0:45
+26-Jul-2009,Gstaad Q,3,Clay,Q1,UNR,1587,0,,,Roman Valent,Philipp Marx,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2007,'s-Hertogenbosch Q,3,Grass,Q2,597,103,0,,1,Michael Berrer,Philipp Marx,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jun-2007,'s-Hertogenbosch Q,3,Grass,Q1,597,UNR,1,,,Philipp Marx,Jim Thomas,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Halle Q,3,Grass,Q2,596,227,0,,8,Simon Stadler,Philipp Marx,6-4 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Jun-2007,Halle Q,3,Grass,Q1,596,1116,1,,,Philipp Marx,Igor Zelenay,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2006,Shrewsbury CH,3,Hard,R32,463,134,0,Q,6,Ivan Navarro,Philipp Marx,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
+28-Aug-2006,Freudenstadt CH,3,Clay,R32,405,327,0,LL,,Adam Chadaj,Philipp Marx,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+17-Jul-2006,Manchester CH,3,Grass,R32,404,570,0,,WC,Jonathan Marray,Philipp Marx,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+1-May-2006,Ostrava CH,3,Clay,R32,407,210,0,,6,Pavel Snobel,Philipp Marx,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+17-Apr-2006,Cardiff CH,3,Hard,R32,304,88,0,Q,1,Jimmy Wang,Philipp Marx,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+17-Oct-2005,Kolding CH,3,Carpet,R32,347,149,0,Q,,Teymuraz Gabashvili,Philipp Marx,6-3 7-6(1),,,,,,,,,,,,,,,,,,,,,
+29-Aug-2005,Freudenstadt CH,3,Clay,R32,377,271,0,LL,,Flavio Cipolla,Philipp Marx,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2000,Wimbledon Jrs,3,Grass,R32,,,0,,4,Mario Ancic,Philipp Marx,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+29-Jun-2000,Wimbledon Jrs,3,Grass,R64,,,1,,,Philipp Marx,Hiroki Kondo,3-6 7-5 8-6,,,,,,,,,,,,,,,,,,,,,
+1-Jun-2000,Roland Garros Jrs,3,Clay,R64,,,0,,,Julien Mathieu,Philipp Marx,6-4 6-3,,,,,,,,,,,,,,,,,,,,,

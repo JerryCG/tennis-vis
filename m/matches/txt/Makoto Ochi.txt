@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+16-Sep-2024,M25 Takasaki,3,Hard,R32,509,713,0,7,Q,Taisei Ichikawa,Makoto Ochi,6-3 7-6(6),,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Sapporo,3,Hard,R16,519,810,0,7,,Jacob Brumm,Makoto Ochi,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+2-Sep-2024,M25 Sapporo,3,Hard,R32,519,1848,1,7,Q,Makoto Ochi,Taketo Takamisawa,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q2,519,405,0,7,3,Kris Van Wyk,Makoto Ochi,3-6 6-1 6-1,0.75,1.2%,3.6%,75.9%,55.6%,45.0%,1/6,44.4%,35.1%,13.0%,22.2%,46.3%,2/6,160,1,3,83,63,20,10,2:09
+26-Aug-2024,Zhangjiagang CH,3,Hard,Q1,519,,1,7,WC,Makoto Ochi,Jia Hu,6-1 6-2,2.40,22.2%,5.6%,66.7%,83.3%,66.7%,0/0,62.2%,53.2%,1.6%,48.5%,58.6%,5/12,98,8,2,36,24,12,1,1:10
 19-Aug-2024,Jinan CH,3,Hard,R32,473,712,0,,Q,Ye Cong Mo,Makoto Ochi,6-2 6-3,0.74,7.4%,5.6%,48.1%,69.2%,46.4%,3/6,43.9%,31.7%,5.0%,26.3%,40.9%,0/2,114,4,3,54,26,28,3,1:25
 5-Aug-2024,M25 Taipei,3,Hard,QF,477,203,0,6,1,Yu Hsiou Hsu,Makoto Ochi,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Aug-2024,M25 Taipei,3,Hard,R16,477,705,1,6,,Makoto Ochi,Edward Winter,3-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -25,13 +30,13 @@
 8-Jan-2024,Nonthaburi 2 CH,3,Hard,Q1,470,349,1,Alt,,Makoto Ochi,Arthur Weber,6-2 6-4,1.53,0.0%,0.0%,52.7%,79.3%,65.4%,2/2,55.7%,41.8%,0.0%,41.2%,43.8%,3/9,122,0,0,55,29,26,0,1:38
 1-Jan-2024,Noumea CH,3,Hard,R32,487,214,0,Q,,Kyrian Jacquet,Makoto Ochi,6-1 6-2,0.59,5.1%,2.6%,59.0%,52.2%,31.3%,2/6,37.5%,33.3%,3.5%,29.0%,38.5%,0/5,96,2,1,39,23,16,2,1:11
 1-Jan-2024,Noumea CH,3,Hard,Q2,487,521,1,6,8,Makoto Ochi,Jake Delaney,6-3 6-3,2.98,14.3%,0.0%,61.9%,84.6%,87.5%,0/0,61.5%,42.6%,3.7%,44.7%,37.5%,3/5,96,6,0,42,26,16,2,1:12
-27-Nov-2023,M25 Gold Coast,3,,F,587,605,1,7,8,Makoto Ochi,Matthew Dellavedova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,SF,587,459,1,7,3,Makoto Ochi,Ajeet Rai,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,QF,587,792,1,7,,Makoto Ochi,Hanyi Liu,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R16,587,966,1,7,,Makoto Ochi,Jayden Court,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Gold Coast,3,,R32,587,1475,1,7,Q,Makoto Ochi,Tai Sach,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R16,571,390,0,,4,Nick Chappell,Makoto Ochi,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Brisbane,3,,R32,571,1054,1,,PR,Makoto Ochi,Jumpei Yamasaki,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,F,587,605,1,7,8,Makoto Ochi,Matthew Dellavedova,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,SF,587,459,1,7,3,Makoto Ochi,Ajeet Rai,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,QF,587,792,1,7,,Makoto Ochi,Hanyi Liu,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R16,587,966,1,7,,Makoto Ochi,Jayden Court,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Gold Coast,3,Hard,R32,587,1475,1,7,Q,Makoto Ochi,Tai Sach,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R16,571,390,0,,4,Nick Chappell,Makoto Ochi,6-2 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Brisbane,3,Hard,R32,571,1054,1,,PR,Makoto Ochi,Jumpei Yamasaki,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,Matsuyama CH,3,Hard,Q1,564,387,0,,4,Ernesto Escobedo,Makoto Ochi,6-3 6-2,0.62,1.6%,9.8%,54.1%,69.7%,35.7%,2/5,41.9%,28.6%,5.4%,22.9%,38.1%,0/2,117,1,6,61,33,28,3,
 30-Oct-2023,Sydney CH,3,Hard,Q2,567,467,0,10,3,Ajeet Rai,Makoto Ochi,7-5 6-2,0.74,1.5%,0.0%,64.6%,50.0%,52.2%,8/13,43.4%,36.6%,11.3%,30.8%,52.6%,2/7,136,1,0,65,42,23,8,1:37
 30-Oct-2023,Sydney CH,3,Hard,Q1,567,776,1,10,,Makoto Ochi,Moerani Bouzige,6-2 6-2,1.70,10.0%,4.0%,66.0%,78.8%,52.9%,4/4,60.2%,50.9%,1.9%,40.0%,65.2%,4/7,103,5,2,50,33,17,1,1:08

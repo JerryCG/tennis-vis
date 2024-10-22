@@ -1,6 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-26-Aug-2024,US Open,5,Hard,Q2,94,244,0,1,,Diego Schwartzman,Thiago Agustin Tirante,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2024,US Open,5,Hard,Q1,94,181,1,1,,Thiago Agustin Tirante,Dmitry Popko,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,Stockholm,3,Hard,R32,121,64,0,Q,,Alejandro Davidovich Fokina,Thiago Agustin Tirante,7-6(2) 6-2,0.68,13.2%,1.3%,59.2%,71.1%,41.9%,7/9,44.1%,27.5%,4.3%,24.0%,36.8%,0/3,145,10,1,76,45,31,3,1:42
+14-Oct-2024,Stockholm,3,Hard,Q2,121,167,1,5,,Thiago Agustin Tirante,August Holmgren,6-3 6-2,1.97,14.6%,2.4%,56.1%,78.3%,66.7%,1/2,61.5%,52.7%,7.3%,53.6%,51.9%,5/7,96,6,1,41,23,18,4,1:05
+14-Oct-2024,Stockholm,3,Hard,Q1,121,1851,1,5,WC,Thiago Agustin Tirante,Nikola Slavic,6-7(5) 6-3 6-2,2.40,20.0%,4.0%,57.3%,95.3%,68.8%,0/1,58.0%,38.4%,6.1%,28.6%,55.6%,4/15,174,15,3,75,43,32,6,2:06
+7-Oct-2024,Valencia CH,3,Clay,QF,124,144,0,3,7,Nicolas Moreno De Alboran,Thiago Agustin Tirante,6-7(0) 6-4 6-2,0.81,2.1%,0.0%,82.1%,66.7%,58.8%,6/9,47.1%,28.3%,4.3%,24.6%,35.5%,0/2,187,2,0,95,78,17,4,2:34
+7-Oct-2024,Valencia CH,3,Clay,R16,124,200,1,3,,Thiago Agustin Tirante,Carlos Taberner,7-6(2) 3-6 6-3,1.04,3.9%,1.0%,67.6%,66.7%,48.5%,8/12,50.7%,40.8%,1.0%,34.7%,57.1%,4/6,205,4,1,102,69,33,1,2:41
+7-Oct-2024,Valencia CH,3,Clay,R32,124,426,1,3,Q,Thiago Agustin Tirante,Christoph Negritu,7-6(5) 7-6(4),1.09,11.0%,1.4%,72.6%,62.3%,65.0%,3/7,51.3%,40.3%,5.2%,37.2%,44.1%,4/8,150,8,1,73,53,20,4,1:52
+30-Sep-2024,Braga CH,3,Clay,R16,124,270,0,1,Q,Lukas Neumayer,Thiago Agustin Tirante,6-3 6-1,0.73,0.0%,0.0%,68.8%,48.5%,60.0%,0/4,42.6%,35.0%,0.0%,33.3%,41.7%,0/7,108,0,0,48,33,15,0,1:18
+30-Sep-2024,Braga CH,3,Clay,R32,124,268,1,1,Q,Thiago Agustin Tirante,Matej Dodig,7-6(3) 6-4,1.31,7.2%,1.4%,75.4%,88.5%,35.3%,1/1,53.6%,32.4%,4.2%,24.4%,46.2%,1/1,140,5,1,69,52,17,3,1:43
+23-Sep-2024,Lisbon CH,3,Clay,QF,97,250,0,4,LL,Elmer Moller,Thiago Agustin Tirante,6-4 4-6 6-3,0.80,3.7%,5.5%,71.6%,60.3%,35.5%,5/11,46.4%,37.3%,3.6%,32.1%,48.1%,4/11,192,4,6,109,78,31,3,2:24
+23-Sep-2024,Lisbon CH,3,Clay,R16,97,487,1,4,WC,Thiago Agustin Tirante,Frederico Ferreira Silva,6-3 6-1,1.83,14.0%,0.0%,72.1%,74.2%,58.3%,1/2,62.2%,55.3%,4.3%,53.1%,60.0%,5/9,90,6,0,43,31,12,2,1:12
+23-Sep-2024,Lisbon CH,3,Clay,R32,97,266,1,4,Q,Thiago Agustin Tirante,Enrico Dalla Valle,6-4 7-6(4),1.31,10.5%,1.3%,63.2%,70.8%,71.4%,1/1,52.6%,37.9%,5.3%,30.5%,50.0%,1/14,171,8,1,76,48,28,5,2:12
+16-Sep-2024,Cali CH,3,Clay,R16,99,271,0,1,,Gonzalo Bueno,Thiago Agustin Tirante,6-4 3-6 6-3,1.00,6.1%,6.1%,53.7%,72.7%,52.6%,1/4,48.9%,36.7%,0.0%,29.7%,50.0%,2/10,180,5,5,82,44,38,0,2:19
+16-Sep-2024,Cali CH,3,Clay,R32,99,1388,1,1,WC,Thiago Agustin Tirante,Frazier Rengifo,6-3 6-1,1.94,16.7%,2.1%,66.7%,78.1%,56.3%,1/2,63.4%,56.6%,0.0%,57.6%,55.0%,5/7,101,8,1,48,32,16,0,1:11
+26-Aug-2024,US Open,5,Hard,Q2,94,244,0,1,,Diego Schwartzman,Thiago Agustin Tirante,7-5 6-4,0.82,8.5%,5.6%,66.2%,66.0%,50.0%,1/4,46.5%,32.4%,2.8%,22.2%,50.0%,1/7,142,6,4,71,47,24,2,1:48
+26-Aug-2024,US Open,5,Hard,Q1,94,181,1,1,,Thiago Agustin Tirante,Dmitry Popko,3-6 6-1 6-2,1.29,7.0%,7.0%,57.7%,75.6%,50.0%,1/3,54.1%,45.3%,9.3%,27.5%,60.9%,5/9,157,5,5,71,41,30,8,1:56
 5-Aug-2024,Bogota CH,3,Clay,R32,97,407,0,1,,Benjamin Lock,Thiago Agustin Tirante,6-3 7-6(2),0.73,7.9%,6.3%,44.4%,60.7%,57.1%,2/4,43.6%,30.0%,11.4%,26.5%,38.1%,1/4,133,5,4,63,28,35,8,1:37
 22-Jul-2024,Kitzbuhel,3,Clay,R16,101,18,0,SE,1,Sebastian Baez,Thiago Agustin Tirante,6-3 6-3,0.88,4.1%,4.1%,55.1%,66.7%,54.5%,1/4,45.4%,34.3%,5.7%,38.8%,23.8%,0/9,119,2,2,49,27,22,4,1:22
 22-Jul-2024,Kitzbuhel,3,Clay,R32,101,138,1,SE,,Thiago Agustin Tirante,Dominic Thiem,6-2 6-4,1.86,14.3%,2.0%,69.4%,82.4%,66.7%,0/0,58.7%,41.8%,7.3%,28.1%,60.9%,3/3,104,7,1,49,34,15,4,1:13
@@ -10,10 +23,12 @@
 15-Jul-2024,Bastad,3,Clay,R32,121,170,1,,Q,Thiago Agustin Tirante,Jaime Faria,3-6 6-1 6-4,1.44,6.8%,2.7%,61.6%,84.4%,57.1%,2/3,54.0%,37.5%,13.6%,32.7%,44.4%,3/12,161,5,2,73,45,28,12,1:55
 8-Jul-2024,Salzburg CH,3,Clay,R16,127,242,0,6,,Lukas Neumayer,Thiago Agustin Tirante,6-4 6-3,0.73,5.4%,8.9%,57.1%,62.5%,45.8%,2/6,43.9%,32.8%,13.8%,32.4%,33.3%,1/3,114,3,5,56,32,24,8,1:29
 8-Jul-2024,Salzburg CH,3,Clay,R32,127,286,1,6,,Thiago Agustin Tirante,Santiago Fa Rodriguez Taverna,7-6(2) 6-1,1.50,8.5%,1.4%,67.6%,70.8%,69.6%,6/7,57.4%,44.3%,7.1%,32.4%,57.6%,3/6,141,6,1,71,48,23,5,1:45
-1-Jul-2024,Modena CH,3,Clay,R32,127,292,0,2,,Andrea Collarini,Thiago Agustin Tirante,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jul-2024,Modena CH,3,Clay,R32,127,292,0,2,,Andrea Collarini,Thiago Agustin Tirante,6-3 7-5,0.70,7.3%,1.8%,65.5%,61.1%,47.4%,2/6,43.2%,30.4%,1.8%,29.5%,33.3%,2/2,111,4,1,55,36,19,1,1:33
 1-Jul-2024,Wimbledon,5,Grass,Q2,127,186,0,21,,Maxime Cressy,Thiago Agustin Tirante,7-6(9) 6-3,0.61,8.6%,1.4%,70.0%,77.6%,47.6%,7/8,45.1%,19.0%,22.2%,11.6%,35.0%,0/0,133,6,1,70,49,21,14,1:42
 1-Jul-2024,Wimbledon,5,Grass,Q1,127,255,1,21,,Thiago Agustin Tirante,Dalibor Svrcina,6-3 6-7(6) 6-3,1.07,13.8%,0.0%,75.9%,64.8%,46.4%,3/6,52.7%,42.5%,5.7%,39.3%,50.0%,5/10,203,16,0,116,88,28,5,2:17
-27-May-2024,Roland Garros,5,Clay,R128,109,48,0,,,Pedro Martinez,Thiago Agustin Tirante,5-7 6-4 3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Jun-2024,Sassuolo CH,3,Clay,R16,124,316,0,8,Q,Alexander Weis,Thiago Agustin Tirante,6-4 2-6 6-3,0.95,6.4%,6.4%,47.4%,73.0%,43.9%,4/8,48.2%,40.0%,2.2%,19.1%,62.8%,4/6,168,5,5,78,37,41,2,2:21
+17-Jun-2024,Sassuolo CH,3,Clay,R32,124,962,1,8,WC,Thiago Agustin Tirante,Federico Cina,7-6(5) 7-5,0.95,9.2%,5.3%,61.8%,72.3%,65.5%,7/8,50.7%,28.8%,3.0%,16.7%,43.3%,2/5,142,7,4,76,47,29,2,1:50
+27-May-2024,Roland Garros,5,Clay,R128,109,48,0,,,Pedro Martinez,Thiago Agustin Tirante,5-7 6-4 3-6 6-4 6-3,0.89,6.2%,1.4%,74.0%,69.4%,55.3%,2/6,48.6%,30.4%,5.1%,21.7%,59.4%,3/8,284,9,2,146,108,38,7,
 20-May-2024,Lyon,3,Clay,Q1,109,316,0,6,,Sebastian Fanselow,Thiago Agustin Tirante,6-4 7-6(4),0.91,8.7%,3.3%,69.6%,60.9%,42.9%,8/12,48.6%,40.7%,3.7%,25.5%,66.7%,3/7,173,8,3,92,64,28,3,2:04
 13-May-2024,Turin CH,3,Clay,R32,103,132,0,Alt,Q,Felipe Meligeni Alves,Thiago Agustin Tirante,4-6 6-3 6-1,0.69,13.9%,2.8%,66.7%,70.8%,33.3%,1/5,43.4%,28.8%,5.5%,28.9%,28.6%,1/2,145,10,2,72,48,24,4,1:42
 6-May-2024,Rome Masters,3,Clay,Q1,103,119,0,12,,Facundo Bagnis,Thiago Agustin Tirante,7-6(8) 7-6(5),1.02,7.3%,3.7%,63.4%,75.0%,53.3%,0/2,49.2%,33.7%,8.4%,29.5%,41.2%,2/10,177,6,3,82,52,30,8,2:28

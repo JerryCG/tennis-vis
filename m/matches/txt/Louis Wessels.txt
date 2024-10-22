@@ -1,4 +1,17 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Oct-2024,Calgary CH,3,Hard,R16,593,272,0,,7,Liam Draxl,Louis Wessels,7-6(4) 6-1,0.69,8.6%,11.4%,62.9%,70.5%,42.3%,4/6,43.9%,27.5%,7.2%,22.4%,40.0%,0/7,139,6,8,70,44,26,5,1:43
+14-Oct-2024,Calgary CH,3,Hard,R32,593,727,1,,WC,Louis Wessels,Justin Boulais,7-6(2) 2-6 6-4,1.03,4.2%,4.2%,72.6%,71.0%,50.0%,4/7,49.8%,35.8%,1.9%,34.7%,38.7%,2/9,201,4,4,95,69,26,2,2:23
+7-Oct-2024,M25 Edmonton,3,Hard,R32,592,1313,0,5,WC,Cleeve Harper,Louis Wessels,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+30-Sep-2024,Villena CH,3,Hard,Q1,592,546,0,12,Alt,Julio Cesar Porras,Louis Wessels,6-4 7-5,0.73,1.3%,7.7%,59.0%,60.9%,34.4%,4/9,43.8%,36.4%,3.0%,34.0%,43.8%,3/6,144,1,6,78,46,32,2,1:40
+16-Sep-2024,M25 Satu Mare,3,Clay,R16,498,924,0,5,JE,Federico Cina,Louis Wessels,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
+16-Sep-2024,M25 Satu Mare,3,Clay,R32,498,,1,5,WC,Louis Wessels,Alexandru Cristian Dumitru,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Pozzuoli,3,Hard,SF,497,532,0,2,3,Alessandro Pecci,Louis Wessels,3-6 7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Pozzuoli,3,Hard,QF,497,1006,1,2,,Louis Wessels,Stefano Reitano,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Pozzuoli,3,Hard,R16,497,843,1,2,,Louis Wessels,Niccolo Catini,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,M25 Pozzuoli,3,Hard,R32,497,,1,2,Q,Louis Wessels,Massimo Pizzigoni,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oldenzaal,3,Clay,QF,491,297,0,6,1,Max Houkes,Louis Wessels,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oldenzaal,3,Clay,R16,491,936,1,6,,Louis Wessels,Benjamin Thomas George,7-6(2) 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M25 Oldenzaal,3,Clay,R32,491,,1,6,Q,Louis Wessels,Tomi Van Den Ham,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R16,508,545,0,,,Sergey Fomin,Louis Wessels,6-0 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M25 Poznan,3,Clay,R32,508,661,1,,,Louis Wessels,Martyn Pawelski,3-0 RET,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ystad,3,Clay,F,512,566,0,1,3,Chris Rodesch,Louis Wessels,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -9,8 +22,8 @@
 22-Jul-2024,M25 Kramsach,3,Clay,QF,470,329,0,7,1,Toby Alex Kodat,Louis Wessels,1-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R16,470,,1,7,Q,Louis Wessels,Louis Van Herck,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Kramsach,3,Clay,R32,470,1470,1,7,Q,Louis Wessels,Peter Goldsteiner,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,R16,467,514,0,6,,Marlon Vankan,Louis Wessels,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 EschAlzette,3,Clay,R32,467,2092,1,6,WC,Louis Wessels,Raphael Calzi,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,R16,467,514,0,6,,Marlon Vankan,Louis Wessels,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,M25 Esch-sur-Alzette,3,Clay,R32,467,2092,1,6,WC,Louis Wessels,Raphael Calzi,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Marburg,3,Clay,R16,431,477,0,7,,Yanaki Milev,Louis Wessels,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Jul-2024,M25 Marburg,3,Clay,R32,431,614,1,7,,Louis Wessels,Kai Wehnelt,7-5 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R16,433,539,0,2,,Gianmarco Ferrari,Louis Wessels,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
@@ -41,12 +54,12 @@
 29-Jan-2024,Koblenz CH,3,Hard,Q1,345,336,0,12,,Guy Den Ouden,Louis Wessels,6-0 3-0 RET,0.15,7.4%,3.7%,55.6%,26.7%,25.0%,3/8,20.0%,11.1%,16.7%,6.7%,33.3%,0/0,45,2,1,27,15,12,3,0:31
 22-Jan-2024,M25 Nussloch,3,Carpet,R16,345,577,0,2,,Max Hans Rehberg,Louis Wessels,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M25 Nussloch,3,Carpet,R32,345,1458,1,2,Q,Louis Wessels,Maurus Malgiaritta,6-3 7-6(7),,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R16,347,1853,0,3,Q,Kylian Collignon,Louis Wessels,6-4 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
-1-Jan-2024,M25 EschAlzette,3,Hard,R32,347,755,1,3,Q,Louis Wessels,Simon Beaupain,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,SF,360,642,0,2,3,Ramkumar Ramanathan,Louis Wessels,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,QF,360,616,1,2,7,Louis Wessels,S D Prajwal Dev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,R16,360,1122,1,2,,Louis Wessels,Yuichiro Inui,6-4 7-6(0),,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,R32,360,1666,1,2,PR,Louis Wessels,Seita Watanabe,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R16,347,1853,0,3,Q,Kylian Collignon,Louis Wessels,6-4 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+1-Jan-2024,M25 Esch-sur-Alzette,3,Hard,R32,347,755,1,3,Q,Louis Wessels,Simon Beaupain,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,SF,360,642,0,2,3,Ramkumar Ramanathan,Louis Wessels,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,QF,360,616,1,2,7,Louis Wessels,S D Prajwal Dev,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,R16,360,1122,1,2,,Louis Wessels,Yuichiro Inui,6-4 7-6(0),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,R32,360,1666,1,2,PR,Louis Wessels,Seita Watanabe,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R16,345,612,0,1,,Amr Elsayed Abdou Ahmed Mohamed,Louis Wessels,6-7(6) 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Sharm ElSheikh,3,Hard,R32,345,1352,1,1,Q,Louis Wessels,Matic Dimic,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Ismaning CH,3,Carpet,R32,342,327,0,Q,Q,Andrew Paulson,Louis Wessels,6-4 6-7(6) 6-3,0.80,6.0%,6.0%,62.0%,79.0%,39.5%,4/8,46.9%,28.7%,20.2%,18.6%,45.7%,1/6,194,6,6,100,62,38,19,2:18

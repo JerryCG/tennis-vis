@@ -1,4 +1,5 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+9-Sep-2024,Las Vegas CH,3,Hard,Q1,456,256,0,1,Alt,Dane Sweeny,Harrison Adams,6-2 6-3,0.69,4.8%,9.7%,37.1%,73.9%,41.0%,7/10,42.7%,32.3%,6.5%,21.6%,48.0%,0/6,124,3,6,62,23,39,4,1:25
 12-Aug-2024,Santo Domingo CH,3,Clay,Q2,468,264,0,7,1,Liam Draxl,Harrison Adams,6-1 6-0,0.39,0.0%,0.0%,64.5%,15.0%,36.4%,1/7,26.9%,30.6%,2.8%,20.0%,54.5%,1/1,67,0,0,31,20,11,1,0:50
 12-Aug-2024,Santo Domingo CH,3,Clay,Q1,468,752,1,7,,Harrison Adams,Justin Boulais,6-2 6-2,1.58,8.2%,0.0%,73.8%,71.1%,62.5%,5/5,59.5%,49.1%,1.8%,44.4%,57.9%,4/8,116,5,0,61,45,16,1,1:21
 5-Aug-2024,Bogota CH,3,Clay,R32,469,187,0,,3,Dmitry Popko,Harrison Adams,7-5 4-6 6-3,0.78,4.0%,6.9%,55.4%,71.4%,51.1%,8/11,46.4%,29.5%,8.4%,16.7%,39.6%,2/6,196,4,7,101,56,45,8,2:12
@@ -42,17 +43,17 @@
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R16,812,493,1,,5,Harrison Adams,Nathan Ponwith,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M25 Wesley Chapel FL,3,Hard,R32,812,922,1,,,Harrison Adams,Collin Altamirano,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R32,812,857,0,,,Karue Sell,Harrison Adams,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,QF,834,1177,0,6,,Corban Crowther,Harrison Adams,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R16,834,,1,6,Q,Harrison Adams,Sam Ryan Ziegann,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-18-Dec-2023,M15 Papamoa,3,,R32,834,1014,1,6,,Harrison Adams,James Watt,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Kalaburagi,3,,R16,941,695,0,,7,David Pichler,Harrison Adams,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Kalaburagi,3,,R32,941,1467,1,,PR,Harrison Adams,Dev Javia,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,SF,969,874,0,Q,,Siddharth Vishwakarma,Harrison Adams,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,QF,969,263,1,Q,1,Harrison Adams,Evgeny Donskoy,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,R16,969,701,1,Q,8,Harrison Adams,David Pichler,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M25 Mumbai,3,,R32,969,759,1,Q,,Harrison Adams,Karan Singh,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,R16,969,821,0,WC,,Petr Bar Biryukov,Harrison Adams,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Sharm ElSheikh,3,,R32,969,,1,WC,WC,Harrison Adams,Carson Baker,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,QF,834,1177,0,6,,Corban Crowther,Harrison Adams,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R16,834,,1,6,Q,Harrison Adams,Sam Ryan Ziegann,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Dec-2023,M15 Papamoa,3,Hard,R32,834,1014,1,6,,Harrison Adams,James Watt,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Kalaburagi,3,Hard,R16,941,695,0,,7,David Pichler,Harrison Adams,7-6(6) 6-3,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Kalaburagi,3,Hard,R32,941,1467,1,,PR,Harrison Adams,Dev Javia,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,SF,969,874,0,Q,,Siddharth Vishwakarma,Harrison Adams,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,QF,969,263,1,Q,1,Harrison Adams,Evgeny Donskoy,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,R16,969,701,1,Q,8,Harrison Adams,David Pichler,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M25 Mumbai,3,Hard,R32,969,759,1,Q,,Harrison Adams,Karan Singh,6-4 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R16,969,821,0,WC,,Petr Bar Biryukov,Harrison Adams,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Sharm ElSheikh,3,Hard,R32,969,,1,WC,WC,Harrison Adams,Carson Baker,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Sharm ElSheikh,3,Hard,SF,1295,1077,0,Q,Q,Petr Bar Biryukov,Harrison Adams,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Sharm ElSheikh,3,Hard,QF,1295,498,1,Q,8,Harrison Adams,Jay Clarke,6-2 3-1 RET,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,M25 Sharm ElSheikh,3,Hard,R16,1295,365,1,Q,1,Harrison Adams,Marek Gengel,7-6(1) 6-1,,,,,,,,,,,,,,,,,,,,,

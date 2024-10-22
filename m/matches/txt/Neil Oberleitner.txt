@@ -1,15 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,R32,475,,0,WC,Alt,Jakub Nicod,Neil Oberleitner,6-4 3-6 6-4,0.92,4.8%,4.8%,55.8%,70.7%,47.8%,6/10,49.7%,36.1%,4.8%,17.4%,59.5%,3/7,187,5,5,104,58,46,4,2:08
+30-Sep-2024,Braga CH,3,Clay,Q1,462,302,0,,6,Clement Tabur,Neil Oberleitner,7-6(9) 6-1,0.77,8.1%,4.1%,54.1%,67.5%,50.0%,5/7,45.3%,31.1%,5.4%,29.8%,33.3%,0/0,148,6,3,74,40,34,4,1:52
+23-Sep-2024,Lisbon CH,3,Clay,Q2,468,301,0,,3,Dennis Novak,Neil Oberleitner,6-3 7-6(4),0.92,3.3%,4.9%,57.4%,60.0%,50.0%,3/7,47.4%,40.5%,4.1%,34.5%,57.9%,3/4,135,2,3,61,35,26,3,1:27
+23-Sep-2024,Lisbon CH,3,Clay,Q1,468,329,1,,11,Neil Oberleitner,Alex Molcan,6-2 7-5,1.23,11.5%,1.3%,65.4%,62.7%,40.7%,7/11,55.2%,55.2%,1.5%,39.5%,75.9%,7/13,145,9,1,78,51,27,1,1:33
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,Q2,469,606,0,12,Alt,David Pichler,Neil Oberleitner,6-2 6-4,0.53,2.0%,2.0%,66.7%,50.0%,52.9%,2/6,39.2%,26.1%,13.0%,20.6%,41.7%,1/1,97,1,1,51,34,17,6,0:59
+16-Sep-2024,Bad Waltersdorf CH,3,Clay,Q1,469,714,1,12,Alt,Neil Oberleitner,Peter Buldorini,6-3 6-3,1.48,1.7%,1.7%,75.0%,60.0%,86.7%,1/2,57.5%,49.3%,0.0%,44.7%,55.2%,4/7,127,1,1,60,45,15,0,1:36
+2-Sep-2024,Tulln CH,3,Clay,R32,475,,0,WC,Alt,Jakub Nicod,Neil Oberleitner,6-4 3-6 6-4,0.92,4.8%,4.8%,55.8%,70.7%,47.8%,6/10,49.7%,36.1%,4.8%,17.4%,59.5%,3/7,187,5,5,104,58,46,4,2:08
+26-Aug-2024,M15 Vienna,3,Clay,SF,475,626,0,4,,Andrej Martin,Neil Oberleitner,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Vienna,3,Clay,QF,475,617,1,4,6,Neil Oberleitner,Sebastian Sorger,7-5 1-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Vienna,3,Clay,R16,475,761,1,4,Q,Neil Oberleitner,Maximilian Neuchrist,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2024,M15 Vienna,3,Clay,R32,475,914,1,4,,Neil Oberleitner,Tomas Lanik,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,F,518,325,1,2,1,Neil Oberleitner,Jakub Nicod,6-7(5) 7-6(8) 1-0 RET,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,SF,518,636,1,2,5,Neil Oberleitner,Sebastian Sorger,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,QF,518,696,1,2,6,Neil Oberleitner,Luca Giacomini,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,R16,518,828,1,2,,Neil Oberleitner,Jakub Filip,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Aug-2024,M15 Ollersbach,3,Clay,R32,518,2038,1,2,WC,Neil Oberleitner,Syl Gaxherri,3-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Aug-2024,Cordenons CH,3,Clay,Q1,515,351,0,,2,Luka Mikrut,Neil Oberleitner,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q2,525,376,1,11,4,Neil Oberleitner,Jelle Sels,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-29-Jul-2024,Liberec CH,3,Clay,Q1,525,1427,1,11,WC,Neil Oberleitner,Filip Duda,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Aug-2024,Cordenons CH,3,Clay,Q1,515,351,0,,2,Luka Mikrut,Neil Oberleitner,5-7 6-3 6-3,0.89,8.7%,5.4%,57.6%,71.7%,46.2%,8/13,48.1%,34.8%,4.5%,17.1%,50.0%,3/8,181,8,5,92,53,39,4,2:19
+29-Jul-2024,Liberec CH,3,Clay,R32,525,340,0,Q,Q,Jonas Forejtek,Neil Oberleitner,6-1 6-3,0.56,4.8%,0.0%,61.9%,65.4%,37.5%,3/7,39.3%,25.5%,4.3%,17.4%,33.3%,0/1,89,2,0,42,26,16,2,1:01
+29-Jul-2024,Liberec CH,3,Clay,Q2,525,376,1,11,4,Neil Oberleitner,Jelle Sels,6-4 7-5,1.62,6.6%,1.6%,62.3%,84.2%,65.2%,3/3,55.7%,37.1%,8.6%,19.5%,62.1%,2/6,131,4,1,61,38,23,6,1:31
+29-Jul-2024,Liberec CH,3,Clay,Q1,525,1427,1,11,WC,Neil Oberleitner,Filip Duda,6-4 6-4,1.41,13.8%,5.2%,65.5%,81.6%,55.0%,1/1,55.6%,39.0%,6.8%,24.3%,63.6%,2/5,117,8,3,58,38,20,4,1:11
 22-Jul-2024,Segovia CH,3,Hard,Q2,517,920,0,3,,Ivan Marrero Curbelo,Neil Oberleitner,7-5 6-7(4) 6-3,0.93,13.9%,5.6%,60.2%,75.4%,34.9%,3/9,48.4%,38.1%,0.9%,29.0%,52.3%,3/9,221,15,6,108,65,43,1,2:34
 22-Jul-2024,Segovia CH,3,Hard,Q1,517,1237,1,3,,Neil Oberleitner,Noah Lopez,6-3 6-4,1.82,8.0%,8.0%,62.0%,87.1%,68.4%,0/0,57.1%,36.4%,7.3%,41.9%,29.2%,2/5,105,4,4,50,31,19,4,1:05
+15-Jul-2024,Astana CH,3,Hard,R16,520,760,0,,Q,Antoine Ghibaudo,Neil Oberleitner,6-3 6-4,0.79,9.6%,4.1%,71.2%,59.6%,47.6%,8/11,45.8%,34.8%,5.8%,32.6%,39.1%,1/5,142,7,3,73,52,21,4,1:40
+15-Jul-2024,Astana CH,3,Hard,R32,520,584,1,,,Neil Oberleitner,Mirza Basic,6-4 6-4,2.11,29.8%,2.1%,68.1%,84.4%,73.3%,0/1,57.8%,40.3%,9.7%,29.3%,61.9%,3/8,109,14,1,47,32,15,6,1:08
 8-Jul-2024,Salzburg CH,3,Clay,R32,576,174,0,WC,7,Jan Choinski,Neil Oberleitner,7-5 6-3,0.82,1.9%,3.7%,50.0%,70.4%,33.3%,1/6,45.3%,39.7%,6.3%,29.3%,59.1%,3/5,117,1,2,54,27,27,4,1:20
 1-Jul-2024,Troyes CH,3,Clay,QF,576,552,0,Q,WC,Lilian Marmousez,Neil Oberleitner,2-6 6-4 7-6(5),1.08,4.0%,3.0%,64.4%,72.3%,36.1%,10/14,51.8%,43.8%,4.2%,28.8%,61.4%,5/7,197,4,3,101,65,36,4,2:24
 1-Jul-2024,Troyes CH,3,Clay,R16,576,266,1,Q,,Neil Oberleitner,Vilius Gaubas,6-4 6-2,1.26,8.6%,2.9%,62.9%,70.5%,50.0%,9/10,55.1%,47.0%,0.0%,41.0%,55.6%,4/8,136,6,2,70,44,26,0,1:39
@@ -53,13 +65,13 @@
 29-Jan-2024,M15 Veigy-Foncenex,3,Carpet,R16,611,559,1,7,,Neil Oberleitner,Nikolay Vylegzhanin,6-1 7-6(4),,,,,,,,,,,,,,,,,,,,,
 29-Jan-2024,M15 Veigy-Foncenex,3,Carpet,R32,611,576,1,7,,Neil Oberleitner,Harry Wendelken,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
 22-Jan-2024,M25 Nussloch,3,Carpet,R32,497,468,0,,6,Hazem Naw,Neil Oberleitner,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Heraklion,3,,QF,503,251,0,5,1,Jules Marie,Neil Oberleitner,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Heraklion,3,,R16,503,995,1,5,,Neil Oberleitner,Michael Zhu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Heraklion,3,,R32,503,2040,1,5,WC,Neil Oberleitner,Ioannis Xilas,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,R16,505,2044,0,3,WC,Ioannis Xilas,Neil Oberleitner,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Heraklion,3,,R32,505,,1,3,WC,Neil Oberleitner,Graham Maassen,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Heraklion,3,,R16,501,1159,0,4,Q,Sean Hodkin,Neil Oberleitner,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 Heraklion,3,,R32,501,1295,1,4,WC,Neil Oberleitner,Petros Chrysochos,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,Hard,QF,503,251,0,5,1,Jules Marie,Neil Oberleitner,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,Hard,R16,503,995,1,5,,Neil Oberleitner,Michael Zhu,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Heraklion,3,Hard,R32,503,2040,1,5,WC,Neil Oberleitner,Ioannis Xilas,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,R16,505,2044,0,3,WC,Ioannis Xilas,Neil Oberleitner,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Heraklion,3,Hard,R32,505,,1,3,WC,Neil Oberleitner,Graham Maassen,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,Hard,R16,501,1159,0,4,Q,Sean Hodkin,Neil Oberleitner,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 Heraklion,3,Hard,R32,501,1295,1,4,WC,Neil Oberleitner,Petros Chrysochos,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Nov-2023,M25 Trnava,3,Hard,R32,506,381,0,,2,Leo Borg,Neil Oberleitner,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 30-Oct-2023,Ismaning CH,3,Carpet,Q2,516,278,0,,1,Joao Sousa,Neil Oberleitner,7-6(3) 6-3,1.00,18.5%,7.4%,53.7%,82.8%,64.0%,0/1,46.5%,26.0%,4.1%,21.8%,38.9%,0/1,127,10,4,54,29,25,3,1:19
 30-Oct-2023,Ismaning CH,3,Carpet,Q1,516,358,1,,8,Neil Oberleitner,Leo Borg,6-1 6-4,1.97,24.0%,6.0%,62.0%,87.1%,57.9%,1/1,61.0%,47.3%,5.5%,40.0%,60.0%,3/5,105,12,3,50,31,19,3,0:59

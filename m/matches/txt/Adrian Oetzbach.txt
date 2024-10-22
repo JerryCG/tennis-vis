@@ -1,5 +1,10 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-1-Sep-2024,Tulln CH,3,Clay,Q1,552,394,0,,4,Vitaliy Sachko,Adrian Oetzbach,7-6(5) 6-1,0.77,6.8%,0.0%,50.8%,46.7%,55.2%,4/9,44.4%,37.9%,6.9%,28.9%,55.0%,3/4,117,4,0,59,30,29,4,1:36
+23-Sep-2024,M25 Falun,3,Hard,QF,584,698,0,8,,Eero Vasa,Adrian Oetzbach,6-3 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,R16,584,1763,1,8,Q,Adrian Oetzbach,Kenzo Koistila Larsson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,M25 Falun,3,Hard,R32,584,,1,8,WC,Adrian Oetzbach,Henrik Bladelius,3-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+9-Sep-2024,Dobrich CH,3,Clay,Q2,573,469,0,8,3,Max Alcala Gurri,Adrian Oetzbach,6-3 6-4,0.85,3.0%,3.0%,54.5%,72.2%,36.7%,7/10,46.3%,37.1%,1.4%,37.9%,33.3%,1/2,136,2,2,66,36,30,1,1:46
+9-Sep-2024,Dobrich CH,3,Clay,Q1,573,,1,8,WC,Adrian Oetzbach,Rares Andrei Golescu,6-1 6-1,1.92,9.3%,7.0%,60.5%,84.6%,47.1%,0/0,64.0%,58.1%,9.3%,47.8%,70.0%,5/8,86,4,3,43,26,17,4,1:04
+2-Sep-2024,Tulln CH,3,Clay,Q1,552,394,0,,4,Vitaliy Sachko,Adrian Oetzbach,7-6(5) 6-1,0.77,6.8%,0.0%,50.8%,46.7%,55.2%,4/9,44.4%,37.9%,6.9%,28.9%,55.0%,3/4,117,4,0,59,30,29,4,1:36
 19-Aug-2024,M15 Lambermont,3,Clay,SF,547,774,0,1,,Emilien Demanet,Adrian Oetzbach,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,QF,547,643,1,1,6,Adrian Oetzbach,Kai Wehnelt,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 19-Aug-2024,M15 Lambermont,3,Clay,R16,547,1140,1,1,,Adrian Oetzbach,Jurriaan Bol,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -59,12 +64,12 @@
 15-Jan-2024,M15 Cadolzburg,3,Carpet,R32,601,1117,0,5,,Michael Agwi,Adrian Oetzbach,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Manacor,3,Hard,R16,601,711,0,8,,Deney Wassermann,Adrian Oetzbach,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 8-Jan-2024,M15 Manacor,3,Hard,R32,601,827,1,8,,Adrian Oetzbach,Kristjan Tamm,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-2023,M15 Zahra,3,,R32,594,1353,0,4,Q,Ali Habib,Adrian Oetzbach,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Zahra,3,,QF,580,1448,0,8,Q,Elgin Khoeblal,Adrian Oetzbach,6-1 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Zahra,3,,R16,580,983,1,8,,Adrian Oetzbach,Dax Donders,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Dec-2023,M15 Zahra,3,,R32,580,,1,8,WC,Adrian Oetzbach,Ali Alshati,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Nov-2023,M25 Monastir,3,,R32,575,427,0,,8,Robin Bertrand,Adrian Oetzbach,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Nov-2023,M15 Monastir,3,,R32,581,1259,0,3,Q,Romain Faucon,Adrian Oetzbach,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Dec-2023,M15 Zahra,3,Hard,R32,594,1353,0,4,Q,Ali Habib,Adrian Oetzbach,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Zahra,3,Hard,QF,580,1448,0,8,Q,Elgin Khoeblal,Adrian Oetzbach,6-1 2-6 7-6(7),,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Zahra,3,Hard,R16,580,983,1,8,,Adrian Oetzbach,Dax Donders,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Dec-2023,M15 Zahra,3,Hard,R32,580,,1,8,WC,Adrian Oetzbach,Ali Alshati,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+27-Nov-2023,M25 Monastir,3,Hard,R32,575,427,0,,8,Robin Bertrand,Adrian Oetzbach,7-6(6) 7-5,,,,,,,,,,,,,,,,,,,,,
+20-Nov-2023,M15 Monastir,3,Hard,R32,581,1259,0,3,Q,Romain Faucon,Adrian Oetzbach,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Nov-2023,Danderyd CH,3,Hard,Q2,588,434,0,,8,Elmer Moller,Adrian Oetzbach,6-4 4-6 7-6(2),0.97,2.5%,3.3%,60.0%,59.7%,41.7%,7/15,49.5%,45.9%,7.1%,34.5%,60.5%,8/11,218,3,4,120,72,48,7,2:42
 13-Nov-2023,Danderyd CH,3,Hard,Q1,588,245,1,,2,Adrian Oetzbach,Adrian Andreev,6-4 6-2,1.39,9.8%,0.0%,64.7%,69.7%,61.1%,4/6,56.2%,46.3%,3.7%,48.3%,44.0%,5/7,105,5,0,51,33,18,2,1:19
 30-Oct-2023,M15 Selva Gardena,3,Hard,F,639,237,0,7,1,Stefano Napolitano,Adrian Oetzbach,7-5 6-4,,,,,,,,,,,,,,,,,,,,,

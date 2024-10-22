@@ -1,4 +1,9 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+7-Oct-2024,Fairfield CH,3,Hard,Q2,757,663,0,Alt,WC,Max Basing,Ozan Baris,7-6(5) 6-7(2) 6-3,0.97,6.0%,5.3%,54.1%,68.1%,45.9%,9/14,49.6%,40.7%,1.6%,35.7%,51.3%,3/9,256,8,7,133,72,61,2,3:00
+7-Oct-2024,Fairfield CH,3,Hard,Q1,757,477,1,Alt,2,Ozan Baris,Andres Martin,6-3 6-1,1.49,8.9%,4.4%,55.6%,68.0%,50.0%,2/4,59.8%,59.6%,0.0%,66.7%,52.0%,6/11,97,4,2,45,25,20,0,1:00
+30-Sep-2024,Tiburon CH,3,Hard,R32,757,301,0,Q,,Eliot Spizzirri,Ozan Baris,3-6 6-3 6-3,1.00,12.5%,3.8%,61.3%,67.3%,48.4%,5/10,49.7%,40.0%,8.2%,31.5%,54.8%,3/6,165,10,3,80,49,31,7,1:50
+30-Sep-2024,Tiburon CH,3,Hard,Q2,757,821,1,WC,,Ozan Baris,Joshua Sheehy,6-3 7-5,2.75,11.8%,0.0%,68.6%,85.7%,87.5%,0/0,59.8%,37.7%,6.6%,33.3%,44.0%,2/3,112,6,0,51,35,16,4,1:06
+30-Sep-2024,Tiburon CH,3,Hard,Q1,757,457,1,WC,8,Ozan Baris,Cem Ilkel,6-3 7-5,1.23,7.1%,1.4%,54.3%,73.7%,56.3%,5/6,54.0%,42.0%,5.8%,30.6%,54.5%,4/9,139,5,1,70,38,32,4,1:22
 5-Aug-2024,Lincoln CH,3,Hard,R16,791,190,0,,,Li Tu,Ozan Baris,6-3 5-7 6-3,0.87,0.0%,3.8%,61.0%,59.4%,51.2%,7/12,47.3%,38.0%,5.0%,26.2%,56.4%,3/9,205,0,4,105,64,41,5,2:24
 5-Aug-2024,Lincoln CH,3,Hard,R32,791,472,1,,LL,Ozan Baris,Yusuke Takahashi,1-0 RET,-,50.0%,0.0%,100.0%,100.0%,-,0/0,100.0%,-,-,-,-,0/0,4,2,0,4,4,0,0,0:05
 29-Jul-2024,Lexington CH,3,Hard,Q1,729,322,0,,,James Trotter,Ozan Baris,6-1 6-4,0.62,4.0%,0.0%,72.0%,63.9%,42.9%,1/4,42.0%,26.0%,6.0%,21.2%,35.3%,0/0,100,2,0,50,36,14,3,1:23
@@ -16,12 +21,12 @@
 15-Jan-2024,M25 Ithaca NY,3,Hard,QF,648,514,0,5,3,Radu Mihai Papoe,Ozan Baris,1-6 7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R16,648,1609,1,5,Q,Ozan Baris,Bryce Nakashima,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
 15-Jan-2024,M25 Ithaca NY,3,Hard,R32,648,,1,5,,Ozan Baris,Dan Martin,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,F,714,1011,1,2,,Ozan Baris,Samir Banerjee,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,SF,714,819,1,2,3,Ozan Baris,Eliot Spizzirri,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,QF,714,1128,1,2,,Ozan Baris,Perry Gregg,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R16,714,1458,1,2,,Ozan Baris,Facundo Yunis,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Nov-2023,M15 East Lansing MI,3,,R32,714,1033,1,2,Q,Ozan Baris,Ivan Marrero Curbelo,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Nov-2023,M25  Austin TX,3,Hard,R32,716,587,0,JE,6,Duarte Vale,Ozan Baris,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,F,714,1011,1,2,,Ozan Baris,Samir Banerjee,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,SF,714,819,1,2,3,Ozan Baris,Eliot Spizzirri,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,QF,714,1128,1,2,,Ozan Baris,Perry Gregg,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R16,714,1458,1,2,,Ozan Baris,Facundo Yunis,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Nov-2023,M15 East Lansing MI,3,Hard,R32,714,1033,1,2,Q,Ozan Baris,Ivan Marrero Curbelo,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+6-Nov-2023,M25 Austin TX,3,Hard,R32,716,587,0,JE,6,Duarte Vale,Ozan Baris,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,R16,726,649,0,JE,8,Kyle Kang,Ozan Baris,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 23-Oct-2023,M25 Harlingen TX,3,Hard,R32,726,769,1,JE,,Ozan Baris,Micah Braswell,2-6 7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2023,Fairfield CH,3,Hard,R32,732,426,0,WC,WC,Thai Son Kwiatkowski,Ozan Baris,6-4 6-4,0.91,1.6%,1.6%,68.9%,66.7%,42.1%,1/4,47.1%,37.3%,5.3%,31.8%,45.2%,1/8,136,1,1,61,42,19,4,1:47

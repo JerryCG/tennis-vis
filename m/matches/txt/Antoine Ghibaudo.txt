@@ -1,9 +1,18 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+21-Oct-2024,Sioux Falls CH,3,Hard,Q1,676,1845,1,11,WC,Antoine Ghibaudo,Maxwell Exsted,7-5 6-1,1.71,7.7%,1.9%,63.5%,72.7%,68.4%,1/2,59.0%,49.2%,4.6%,51.1%,45.0%,5/8,117,4,1,52,33,19,3,1:25
+7-Oct-2024,M25 Louisville KY,3,Hard,R32,666,1337,0,6,Q,Keshav Chopra,Antoine Ghibaudo,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+23-Sep-2024,Charleston CH,3,Hard,Q1,669,380,0,Alt,6,Toby Alex Kodat,Antoine Ghibaudo,1-6 7-5 6-4,1.00,3.4%,8.5%,49.2%,63.8%,48.3%,15/20,50.7%,44.1%,5.4%,37.9%,59.3%,5/9,211,4,10,118,58,60,5,2:32
+16-Sep-2024,Columbus CH,3,Hard,R32,674,424,0,Q,,Ernesto Escobedo,Antoine Ghibaudo,6-7(4) 6-2 6-4,0.73,11.0%,4.4%,67.0%,80.3%,33.3%,1/5,46.2%,25.6%,12.2%,19.5%,31.7%,1/1,173,10,4,91,61,30,10,2:11
+16-Sep-2024,Columbus CH,3,Hard,Q2,674,443,1,,5,Antoine Ghibaudo,Andres Martin,6-1 6-2,2.72,4.8%,2.4%,69.0%,93.1%,53.8%,1/1,64.3%,51.8%,5.4%,44.4%,65.0%,4/7,98,2,1,42,29,13,3,1:08
+16-Sep-2024,Columbus CH,3,Hard,Q1,674,581,1,,12,Antoine Ghibaudo,Patrick Maloney,6-1 6-4,1.47,4.6%,3.1%,49.2%,68.8%,51.5%,3/5,59.5%,58.7%,6.5%,48.0%,71.4%,5/7,111,3,2,65,32,33,3,1:25
 22-Jul-2024,M25 Astana,3,Hard,QF,691,498,0,,5,Olukayode Alafia Damina Ayeni,Antoine Ghibaudo,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R16,691,663,1,,,Antoine Ghibaudo,Petr Bar Biryukov,7-6(5) 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 22-Jul-2024,M25 Astana,3,Hard,R32,691,403,1,,2,Antoine Ghibaudo,Yshai Oliel,7-6(2) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,Astana CH,3,Hard,Q2,760,650,1,7,1,Antoine Ghibaudo,Kazuki Nishiwaki,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,Astana CH,3,Hard,Q1,760,1070,1,7,Alt,Antoine Ghibaudo,Bekkhan Atlangeriev,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+15-Jul-2024,Astana CH,3,Hard,QF,760,437,0,Q,7,Evgeny Karlovskiy,Antoine Ghibaudo,7-6(1) 7-6(6),0.79,7.4%,2.1%,66.0%,74.2%,43.8%,4/5,47.0%,28.7%,9.2%,26.4%,40.0%,1/6,181,7,2,94,62,32,8,2:13
+15-Jul-2024,Astana CH,3,Hard,R16,760,520,1,Q,,Antoine Ghibaudo,Neil Oberleitner,6-3 6-4,1.26,5.8%,2.9%,66.7%,67.4%,60.9%,4/5,54.2%,43.8%,9.6%,40.4%,52.4%,3/11,142,4,2,69,46,23,7,1:40
+15-Jul-2024,Astana CH,3,Hard,R32,760,403,1,Q,4,Antoine Ghibaudo,Yshai Oliel,6-1 3-6 6-3,1.26,11.0%,4.1%,68.5%,78.0%,47.8%,1/3,55.1%,39.7%,6.3%,34.9%,50.0%,4/5,136,8,3,73,50,23,4,1:57
+15-Jul-2024,Astana CH,3,Hard,Q2,760,650,1,7,1,Antoine Ghibaudo,Kazuki Nishiwaki,6-3 6-3,5.85,12.8%,0.0%,61.5%,95.8%,86.7%,0/0,63.6%,45.0%,3.3%,41.2%,50.0%,3/7,99,5,0,39,24,15,2,1:14
+15-Jul-2024,Astana CH,3,Hard,Q1,760,1070,1,7,Alt,Antoine Ghibaudo,Bekkhan Atlangeriev,6-4 6-2,1.35,10.9%,1.8%,58.2%,75.0%,69.6%,5/5,55.8%,36.7%,8.2%,20.0%,63.2%,3/5,104,6,1,55,32,23,4,1:12
 24-Jun-2024,M25 Bourg-en-Bresse,3,Clay,R32,743,1229,0,,Q,Charlie Camus,Antoine Ghibaudo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,Blois CH,3,Clay,Q1,752,486,0,WC,,Federico Iannaccone,Antoine Ghibaudo,7-6(6) 2-6 6-3,1.00,4.2%,1.0%,75.0%,65.3%,37.5%,8/12,49.5%,41.8%,3.6%,39.8%,48.1%,5/12,206,4,1,96,72,24,4,2:52
 10-Jun-2024,Lyon CH,3,Clay,Q1,760,284,0,WC,2,Mathias Bourgue,Antoine Ghibaudo,3-6 6-1 6-4,0.85,5.0%,7.5%,50.0%,62.5%,55.0%,4/8,46.6%,34.9%,12.0%,25.0%,55.6%,2/9,163,4,6,80,40,40,10,2:10
