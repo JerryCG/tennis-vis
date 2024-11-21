@@ -1,350 +1,43 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-21-Jun-2010,Wimbledon Q,3,Grass,Q2,221,143,0,,24,Ramon Delgado,Sebastien De Chaunac,6-4 6-7(6) 6-3,0.84,9.3%,5.6%,55.1%,69.5%,47.9%,8/12,46.9%,33.7%,7.7%,21.2%,55.3%,2/6,211,10,6,107,59,48,8,2:24
-21-Jun-2010,Wimbledon Q,3,Grass,Q1,221,545,1,,WC,Sebastien De Chaunac,Daniel Cox,6-4 7-6(5),1.16,7.1%,4.3%,51.4%,77.8%,50.0%,2/4,52.4%,41.3%,2.7%,18.4%,64.9%,3/7,145,5,3,70,36,34,2,1:36
-24-May-2010,Roland Garros Q,3,Clay,Q1,209,174,0,,,Lukas Rosol,Sebastien De Chaunac,6-3 6-1,0.72,8.8%,3.5%,35.1%,65.0%,40.5%,7/12,43.1%,36.5%,3.8%,29.6%,44.0%,1/2,109,5,2,57,20,37,2,1:05
-9-May-2010,Madrid Masters Q,3,Clay,Q1,197,96,0,,9,Daniel Gimeno Traver,Sebastien De Chaunac,6-2 6-2,0.46,4.4%,8.9%,51.1%,65.2%,40.9%,1/5,37.9%,21.4%,4.8%,20.8%,22.2%,0/2,87,2,4,45,23,22,2,0:58
-3-May-2010,San Remo CH,3,Clay,R32,198,116,0,,1,Teymuraz Gabashvili,Sebastien De Chaunac,6-2 6-4,0.62,11.9%,7.5%,61.2%,65.9%,30.8%,4/8,42.4%,29.4%,2.0%,37.5%,15.8%,1/5,118,8,5,67,41,26,1,1:25
-22-Mar-2010,Jersey CH,3,Hard,R16,202,219,0,8,,Roberto Bautista Agut,Sebastien De Chaunac,6-3 6-4,0.86,3.5%,7.0%,52.6%,63.3%,44.4%,3/7,46.3%,39.1%,1.6%,37.8%,40.7%,2/7,121,2,4,57,30,27,1,1:20
-22-Mar-2010,Jersey CH,3,Hard,R32,202,557,1,8,Q,Sebastien De Chaunac,Joshua Milton,7-6(3) 6-4,1.32,8.6%,5.7%,51.4%,91.7%,50.0%,4/5,54.2%,37.8%,6.8%,39.0%,36.4%,2/9,144,6,4,70,36,34,5,1:32
-11-Mar-2010,Indian Wells Masters Q,3,Hard,Q1,199,132,0,,14,Stefan Koubek,Sebastien De Chaunac,6-3 6-3,0.55,8.6%,6.9%,48.3%,71.4%,36.7%,6/9,40.4%,25.5%,9.8%,16.1%,40.0%,0/0,109,5,4,58,28,30,5,1:08
+21-Jun-2010,Wimbledon Q,3,Grass,Q2,221,143,0,,24,Ramon Delgado,Sebastien De Chaunac,6-4 6-7(6) 6-3,0.84,9.3%,5.6%,55.1%,69.5%,47.9%,8/12,9.3%,5.6%,55.1%,69.5%,47.9%,8/12,0.84,9.3%,5.6%,55.1%,69.5%,47.9%,8/12,2:24
+21-Jun-2010,Wimbledon Q,3,Grass,Q1,221,545,1,,WC,Sebastien De Chaunac,Daniel Cox,6-4 7-6(5),1.16,7.1%,4.3%,51.4%,77.8%,50.0%,2/4,7.1%,4.3%,51.4%,77.8%,50.0%,2/4,1.16,7.1%,4.3%,51.4%,77.8%,50.0%,2/4,1:36
+24-May-2010,Roland Garros Q,3,Clay,Q1,209,174,0,,,Lukas Rosol,Sebastien De Chaunac,6-3 6-1,0.72,8.8%,3.5%,35.1%,65.0%,40.5%,7/12,8.8%,3.5%,35.1%,65.0%,40.5%,7/12,0.72,8.8%,3.5%,35.1%,65.0%,40.5%,7/12,1:05
+9-May-2010,Madrid Masters Q,3,Clay,Q1,197,96,0,,9,Daniel Gimeno Traver,Sebastien De Chaunac,6-2 6-2,0.46,4.4%,8.9%,51.1%,65.2%,40.9%,1/5,4.4%,8.9%,51.1%,65.2%,40.9%,1/5,0.46,4.4%,8.9%,51.1%,65.2%,40.9%,1/5,0:58
+3-May-2010,San Remo CH,3,Clay,R32,198,116,0,,1,Teymuraz Gabashvili,Sebastien De Chaunac,6-2 6-4,0.62,11.9%,7.5%,61.2%,65.9%,30.8%,4/8,11.9%,7.5%,61.2%,65.9%,30.8%,4/8,0.62,11.9%,7.5%,61.2%,65.9%,30.8%,4/8,1:25
+22-Mar-2010,Jersey CH,3,Hard,R16,202,219,0,8,,Roberto Bautista Agut,Sebastien De Chaunac,6-3 6-4,0.86,3.5%,7.0%,52.6%,63.3%,44.4%,3/7,3.5%,7.0%,52.6%,63.3%,44.4%,3/7,0.86,3.5%,7.0%,52.6%,63.3%,44.4%,3/7,1:20
+22-Mar-2010,Jersey CH,3,Hard,R32,202,557,1,8,Q,Sebastien De Chaunac,Joshua Milton,7-6(3) 6-4,1.32,8.6%,5.7%,51.4%,91.7%,50.0%,4/5,8.6%,5.7%,51.4%,91.7%,50.0%,4/5,1.32,8.6%,5.7%,51.4%,91.7%,50.0%,4/5,1:32
+11-Mar-2010,Indian Wells Masters Q,3,Hard,Q1,199,132,0,,14,Stefan Koubek,Sebastien De Chaunac,6-3 6-3,0.55,8.6%,6.9%,48.3%,71.4%,36.7%,6/9,8.6%,6.9%,48.3%,71.4%,36.7%,6/9,0.55,8.6%,6.9%,48.3%,71.4%,36.7%,6/9,1:08
 22-Feb-2010,Dubai Q,3,Hard,Q1,197,167,0,,8,Ivan Sergeyev,Sebastien De Chaunac, W/O,,,,,,,,,,,,,,,,,,,,,
-18-Jan-2010,Australian Open Q,3,Hard,Q1,139,185,0,18,,Ivan Dodig,Sebastien De Chaunac,6-4 6-2,0.75,2.0%,3.9%,51.0%,57.7%,48.0%,0/4,43.5%,35.1%,3.5%,25.0%,52.4%,1/2,108,1,2,51,26,25,2,1:22
-11-Jan-2010,Sydney Q,3,Hard,Q1,141,69,0,,4,Frederico Gil,Sebastien De Chaunac,6-4 6-2,0.65,3.8%,5.7%,49.1%,53.8%,29.6%,4/10,40.0%,38.1%,0.0%,31.0%,53.8%,3/3,95,2,3,53,26,27,0,1:22
-2-Nov-2009,Eckental CH,3,Carpet,SF,141,123,0,4,2,Daniel Brands,Sebastien De Chaunac,7-6(9) 6-1,0.80,11.9%,6.8%,54.2%,96.9%,37.0%,0/2,45.0%,24.3%,12.9%,18.8%,36.4%,0/0,129,7,4,59,32,27,9,1:30
-2-Nov-2009,Eckental CH,3,Carpet,QF,141,228,1,4,,Sebastien De Chaunac,Alexander Peya,6-4 7-6(2),1.15,8.0%,8.0%,50.7%,81.6%,51.4%,2/3,52.3%,38.5%,9.0%,20.5%,61.8%,2/8,153,6,6,75,38,37,7,1:46
-2-Nov-2009,Eckental CH,3,Carpet,R16,141,345,1,4,Q,Sebastien De Chaunac,Bastian Knittel,6-3 6-2,1.42,5.2%,3.4%,53.4%,80.6%,55.6%,3/3,57.4%,44.0%,8.0%,28.6%,63.6%,3/8,108,3,2,58,31,27,4,1:15
-2-Nov-2009,Eckental CH,3,Carpet,R32,141,UNR,1,4,WC,Sebastien De Chaunac,Kevin Krawietz,6-3 7-6(0),1.40,19.2%,6.8%,53.4%,76.9%,61.8%,5/6,56.3%,42.3%,9.9%,23.7%,63.6%,2/10,144,14,5,73,39,34,7,1:28
-26-Oct-2009,Lyon Q,3,Hard,Q2,140,675,0,3,,Jerome Haehnel,Sebastien De Chaunac,6-3 6-3,0.68,13.2%,5.7%,50.9%,88.9%,26.9%,6/9,43.4%,28.3%,13.2%,17.6%,47.4%,0/3,106,7,3,53,27,26,7,1:13
-19-Oct-2009,Orleans CH,3,Hard,R16,144,141,0,,,Stephane Robert,Sebastien De Chaunac,6-2 7-6(3),0.77,7.8%,3.1%,56.3%,61.1%,28.6%,0/6,43.8%,40.9%,0.0%,35.0%,50.0%,4/7,130,5,2,64,36,28,0,1:31
-19-Oct-2009,Orleans CH,3,Hard,R32,144,253,1,,LL,Sebastien De Chaunac,Vincent Millot,6-3 6-3,1.36,18.6%,1.7%,54.2%,75.0%,51.9%,2/3,56.4%,48.3%,3.4%,42.9%,56.5%,4/12,117,11,1,59,32,27,2,1:15
-5-Oct-2009,Beijing Q,3,Hard,Q2,140,85,0,7,4,Florian Mayer,Sebastien De Chaunac,4-1 RET,0.73,5.9%,11.8%,47.1%,75.0%,22.2%,1/3,41.7%,38.7%,9.7%,21.1%,66.7%,0/3,48,1,2,17,8,9,3,0:31
-5-Oct-2009,Beijing Q,3,Hard,Q1,140,396,1,7,WC,Sebastien De Chaunac,Shao Xuan Zeng,6-1 7-6(3),1.76,3.5%,0.0%,64.9%,83.8%,60.0%,1/2,58.1%,43.3%,1.5%,40.9%,47.8%,3/6,124,2,0,57,37,20,1,1:28
-21-Sep-2009,Metz,3,Hard,R32,144,46,0,Q,8,Ivan Ljubicic,Sebastien De Chaunac,4-6 6-1 7-6(1),0.73,4.9%,2.0%,52.9%,68.5%,54.2%,8/10,45.6%,28.0%,22.6%,18.0%,46.9%,1/5,195,5,2,102,54,48,21,2:22
-21-Sep-2009,Metz Q,3,Hard,Q3,144,247,1,3,7,Sebastien De Chaunac,Alex Bogdanovic,6-1 1-6 7-6(7),0.92,13.3%,2.9%,61.9%,75.4%,40.0%,7/9,49.2%,35.1%,10.6%,24.2%,56.3%,2/7,199,14,3,105,65,40,10,2:19
-21-Sep-2009,Metz Q,3,Hard,Q2,144,471,1,3,,Sebastien De Chaunac,Thomas Oger,6-4 4-6 6-1,1.34,7.6%,3.8%,44.3%,77.1%,63.6%,2/4,55.5%,40.8%,6.6%,26.2%,58.8%,4/7,155,6,3,79,35,44,5,1:46
-7-Sep-2009,St. Remy CH,3,Hard,QF,149,84,0,7,1,Bjorn Phau,Sebastien De Chaunac,7-6(1) 6-4,0.72,3.9%,7.9%,51.3%,61.5%,48.6%,3/6,44.7%,32.3%,6.2%,19.4%,48.3%,2/4,141,3,6,76,39,37,4,1:37
-7-Sep-2009,St. Remy CH,3,Hard,R16,149,211,1,7,,Sebastien De Chaunac,Thierry Ascione,7-5 6-2,1.68,6.5%,8.1%,53.2%,87.9%,55.2%,4/4,58.0%,46.1%,3.9%,30.6%,74.1%,3/10,138,4,5,62,33,29,3,1:36
-7-Sep-2009,St. Remy CH,3,Hard,R32,149,249,1,7,,Sebastien De Chaunac,Joshua Goodall,6-1 6-2,1.78,19.1%,6.4%,44.7%,76.2%,61.5%,3/4,61.7%,56.7%,8.3%,45.5%,70.4%,5/13,107,9,3,47,21,26,5,1:13
-31-Aug-2009,US Open Q,3,Hard,Q2,149,231,0,23,,Marsel Ilhan,Sebastien De Chaunac,7-6(4) 7-6(6),0.86,4.9%,8.6%,40.7%,75.8%,45.8%,5/9,47.0%,36.1%,1.2%,28.3%,50.0%,4/6,164,4,7,81,33,48,1,2:00
-31-Aug-2009,US Open Q,3,Hard,Q1,149,UNR,1,23,WC,Sebastien De Chaunac,Jordan Cox,6-1 6-2,2.09,11.4%,11.4%,52.3%,91.3%,57.1%,1/1,63.6%,52.3%,0.0%,55.0%,50.0%,4/7,88,5,5,44,23,21,0,1:00
-10-Aug-2009,Canada Masters Q,3,Hard,Q2,155,86,0,,5,Jan Hernych,Sebastien De Chaunac,6-4 6-1,0.53,3.6%,10.7%,44.6%,56.0%,41.9%,3/7,38.3%,27.5%,2.0%,20.0%,38.1%,0/3,107,2,6,56,25,31,1,1:14
-10-Aug-2009,Canada Masters Q,3,Hard,Q1,155,128,1,,13,Sebastien De Chaunac,Brendan Evans,6-4 5-7 6-4,1.27,6.8%,0.0%,48.9%,79.1%,57.8%,2/5,52.8%,40.5%,11.7%,35.7%,48.8%,4/19,199,6,0,88,43,45,13,2:25
-2-Aug-2009,Washington,3,Hard,R16,181,80,0,Q,,John Isner,Sebastien De Chaunac,6-2 6-4,0.53,2.9%,7.1%,44.3%,80.6%,35.9%,1/4,42.7%,23.4%,6.4%,25.8%,18.8%,0/0,117,2,5,70,31,39,3,1:20
-2-Aug-2009,Washington,3,Hard,R32,181,32,1,Q,14,Sebastien De Chaunac,Dmitry Tursunov,3-6 7-6(3) 7-5,1.00,4.9%,4.1%,50.0%,63.9%,45.9%,6/13,50.5%,45.0%,6.0%,27.8%,65.2%,6/14,222,6,5,122,61,61,6,2:40
-2-Aug-2009,Washington,3,Hard,R64,181,67,1,Q,,Sebastien De Chaunac,Denis Istomin,6-3 7-6(7),1.12,16.0%,4.3%,52.1%,77.6%,35.6%,8/12,53.4%,47.8%,7.2%,34.1%,67.9%,5/8,163,15,4,94,49,45,5,2:00
-2-Aug-2009,Washington Q,3,Hard,Q2,181,125,1,10,5,Sebastien De Chaunac,Brendan Evans,4-6 7-6(3) 7-6(4),1.29,10.9%,4.0%,55.4%,82.1%,64.4%,4/6,52.8%,33.3%,9.0%,24.3%,51.4%,1/3,212,11,4,101,56,45,10,2:36
-2-Aug-2009,Washington Q,3,Hard,Q1,181,UNR,1,10,WC,Sebastien De Chaunac,Denis Kudla,6-3 4-6 6-2,1.29,9.5%,5.4%,41.9%,74.2%,53.5%,3/6,55.2%,48.8%,3.8%,36.8%,59.5%,6/9,154,7,4,74,31,43,3,1:42
-27-Jul-2009,Los Angeles Q,3,Hard,Q1,168,110,0,,1,Josselin Ouanna,Sebastien De Chaunac,6-4 6-4,0.84,12.1%,8.6%,37.9%,77.3%,41.7%,4/8,46.0%,37.9%,10.6%,25.6%,55.6%,2/9,124,7,5,58,22,36,7,1:28
-19-Jul-2009,Indianapolis,3,Hard,R32,177,95,0,Q,,Robby Ginepri,Sebastien De Chaunac,7-5 5-7 6-2,0.86,7.9%,4.5%,50.6%,80.0%,50.0%,4/8,47.0%,29.8%,8.5%,20.4%,42.5%,2/7,183,7,4,89,45,44,8,1:55
-19-Jul-2009,Indianapolis Q,3,Hard,Q3,177,237,1,4,8,Sebastien De Chaunac,Todd Widom,6-1 6-3,1.67,13.5%,1.9%,59.6%,83.9%,42.9%,1/1,61.0%,54.7%,3.8%,51.9%,57.7%,4/8,105,7,1,52,31,21,2,1:15
-19-Jul-2009,Indianapolis Q,3,Hard,Q2,177,UNR,1,4,,Sebastien De Chaunac,Jeff Tarango,6-3 6-4,1.54,16.1%,5.4%,51.8%,89.7%,55.6%,4/5,57.9%,41.2%,3.9%,34.5%,50.0%,3/6,107,9,3,56,29,27,2,1:06
-22-Jun-2009,Wimbledon Q,3,Grass,Q3,193,178,0,,,Alejandro Falla,Sebastien De Chaunac,6-4 6-4 6-4,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:51
-22-Jun-2009,Wimbledon Q,3,Grass,Q2,193,114,1,,7,Sebastien De Chaunac,Ilija Bozoljac,6-3 7-6(3),-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:33
-22-Jun-2009,Wimbledon Q,3,Grass,Q1,193,254,1,,,Sebastien De Chaunac,Fernando Vicente,6-3 6-1,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,0,0,0,0,0,0,0,1:24
-8-Jun-2009,Queen's Club Q,3,Grass,Q1,195,163,0,,,Kevin Anderson,Sebastien De Chaunac,6-4 6-7(8) 7-6(5),0.87,7.2%,3.6%,60.4%,70.2%,47.3%,11/15,48.6%,33.6%,12.1%,32.3%,41.2%,3/6,255,10,5,139,84,55,14,2:58
-25-May-2009,Roland Garros Q,3,Clay,Q3,201,129,0,,20,Daniel Brands,Sebastien De Chaunac,7-6(5) 6-7(3) 10-8,0.99,9.6%,3.2%,60.9%,70.5%,47.5%,12/17,49.7%,38.0%,6.3%,29.5%,50.8%,4/16,314,15,5,156,95,61,10,3:24
-25-May-2009,Roland Garros Q,3,Clay,Q2,201,189,1,,,Sebastien De Chaunac,Pablo Santos,6-7(1) 6-2 6-2,1.34,12.2%,4.4%,44.4%,72.5%,64.0%,10/11,55.7%,43.0%,1.2%,34.7%,54.1%,5/6,176,11,4,90,40,50,1,2:16
-25-May-2009,Roland Garros Q,3,Clay,Q1,201,167,1,,,Sebastien De Chaunac,Grega Zemlja,3-6 7-5 7-5,1.33,8.5%,5.3%,56.4%,81.1%,58.5%,8/10,52.5%,38.2%,5.7%,36.8%,40.4%,3/15,217,8,5,94,53,41,7,2:28
-27-Apr-2009,Ostrava CH,3,Clay,R32,206,211,0,,,Peter Luczak,Sebastien De Chaunac,7-6(5) 6-1,,,,,,,,,,,,,,,,,,,,,
-23-Mar-2009,Jersey CH,3,Hard,SF,193,377,0,4,,Jan Minar,Sebastien De Chaunac,6-3 6-1,0.48,5.3%,1.8%,50.9%,79.3%,21.4%,5/9,39.4%,23.8%,11.9%,21.2%,33.3%,0/0,99,3,1,57,29,28,5,1:05
-23-Mar-2009,Jersey CH,3,Hard,QF,193,217,1,4,6,Sebastien De Chaunac,Andrea Stoppini,4-6 6-2 6-4,1.19,7.9%,3.4%,61.8%,74.5%,52.9%,5/7,53.1%,40.0%,6.7%,31.9%,48.8%,4/12,179,7,3,89,55,34,6,2:15
-23-Mar-2009,Jersey CH,3,Hard,R16,193,244,1,4,,Sebastien De Chaunac,Riccardo Ghedin,3-6 6-1 6-3,1.35,22.1%,3.9%,55.8%,74.4%,52.9%,4/7,56.1%,47.4%,6.4%,37.5%,63.3%,5/7,155,17,3,77,43,34,5,1:47
-23-Mar-2009,Jersey CH,3,Hard,R32,193,415,1,4,Q,Sebastien De Chaunac,Phillip Simmonds,3-6 6-0 6-2,1.40,14.7%,7.4%,45.6%,83.9%,48.6%,1/3,56.8%,49.3%,8.5%,37.1%,61.1%,6/12,139,10,5,68,31,37,6,1:38
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q2,198,85,0,24,2,Bjorn Phau,Sebastien De Chaunac,6-2 6-4,0.61,7.8%,6.3%,51.6%,75.8%,19.4%,3/8,41.1%,31.3%,6.3%,20.8%,41.7%,2/2,112,5,4,64,33,31,3,1:19
-12-Mar-2009,Indian Wells Masters Q,3,Hard,Q1,198,267,1,24,,Sebastien De Chaunac,Dusan Vemic,6-1 7-5,1.44,14.5%,10.9%,50.9%,89.3%,51.9%,1/2,57.1%,42.0%,10.0%,37.1%,53.3%,4/7,105,8,6,55,28,27,5,1:19
-2-Mar-2009,Bergamo CH,3,Hard,R16,203,94,0,,2,Bjorn Phau,Sebastien De Chaunac,7-6(6) 6-3,0.87,8.5%,8.5%,54.9%,76.9%,37.5%,4/7,46.9%,35.5%,11.8%,20.5%,56.3%,2/6,147,6,6,71,39,32,9,1:37
-2-Mar-2009,Bergamo CH,3,Hard,R32,203,306,1,,WC,Sebastien De Chaunac,Florian Mayer,6-4 6-4,1.36,16.4%,0.0%,63.6%,62.9%,75.0%,0/2,55.0%,44.6%,4.6%,31.4%,60.0%,4/11,120,9,0,55,35,20,3,1:17
-16-Feb-2009,Marseille Q,3,Hard,Q2,202,259,0,,,Matwe Middelkoop,Sebastien De Chaunac,6-4 6-7(6) 6-3,0.81,9.5%,3.8%,59.0%,75.8%,44.2%,5/8,46.8%,30.0%,8.0%,20.0%,45.0%,1/2,205,10,4,105,62,43,8,2:33
-16-Feb-2009,Marseille Q,3,Hard,Q1,202,143,1,,3,Sebastien De Chaunac,Santiago Giraldo,5-7 6-4 7-6(4),0.90,11.7%,2.5%,50.8%,80.3%,40.7%,5/9,49.3%,35.4%,5.1%,14.3%,56.0%,4/5,219,14,3,120,61,59,5,2:40
-2-Feb-2009,Johannesburg,3,Hard,QF,225,61,0,Q,5,Jeremy Chardy,Sebastien De Chaunac,7-6(4) 6-3,0.80,9.2%,6.2%,60.0%,79.5%,50.0%,2/3,45.9%,25.7%,10.0%,7.9%,46.9%,0/6,135,6,4,65,39,26,7,1:33
-2-Feb-2009,Johannesburg,3,Hard,R16,225,286,1,Q,WC,Sebastien De Chaunac,Izak Van Der Merwe,6-7(3) 7-5 7-6(5),1.11,4.2%,2.5%,57.6%,77.9%,60.0%,7/9,51.7%,33.1%,11.9%,19.4%,54.3%,3/10,236,5,3,118,68,50,14,2:49
-2-Feb-2009,Johannesburg,3,Hard,R32,225,47,1,Q,3,Sebastien De Chaunac,Marcel Granollers,7-5 7-6(3),1.09,3.8%,7.5%,43.8%,80.0%,57.8%,5/6,50.9%,35.3%,9.4%,22.4%,52.8%,2/10,165,3,6,80,35,45,8,1:58
-2-Feb-2009,Johannesburg Q,3,Hard,Q3,225,UNR,1,1,,Sebastien De Chaunac,Nicolaas Scholtz,6-2 6-3,2.14,18.4%,2.0%,42.9%,85.7%,71.4%,2/2,62.1%,48.1%,5.6%,34.6%,60.7%,3/8,103,9,1,49,21,28,3,1:09
-2-Feb-2009,Johannesburg Q,3,Hard,Q2,225,UNR,1,1,,Sebastien De Chaunac,Grant Ive,6-3 6-7(4) 6-3,1.31,9.7%,6.8%,49.5%,80.4%,51.9%,6/9,55.4%,44.6%,2.0%,28.6%,64.4%,5/16,204,10,7,103,51,52,2,2:19
-19-Jan-2009,Australian Open,5,Hard,R64,253,10,0,Q,9,James Blake,Sebastien De Chaunac,6-3 6-2 6-3,0.58,8.4%,6.5%,48.6%,63.5%,43.6%,13/18,42.0%,27.2%,4.9%,15.4%,48.3%,0/4,188,9,7,107,52,55,4,2:08
-19-Jan-2009,Australian Open,5,Hard,R128,253,57,1,Q,,Sebastien De Chaunac,Steve Darcis,2-6 6-3 0-6 6-2 6-2,1.10,10.8%,4.5%,50.5%,75.0%,47.3%,2/8,52.1%,42.6%,4.6%,38.0%,46.6%,6/7,219,12,5,111,56,55,5,2:42
-19-Jan-2009,Australian Open Q,3,Hard,Q3,253,117,1,,9,Sebastien De Chaunac,Santiago Ventura,6-4 6-1,1.36,3.0%,4.5%,46.3%,61.3%,61.1%,4/6,57.6%,52.9%,3.9%,40.0%,65.4%,5/8,118,2,3,67,31,36,2,1:24
-19-Jan-2009,Australian Open Q,3,Hard,Q2,253,185,1,,,Sebastien De Chaunac,Alex Bogdanovic,6-3 6-2,2.94,16.3%,0.0%,72.1%,87.1%,75.0%,0/0,65.2%,47.8%,2.2%,34.5%,70.6%,3/5,89,7,0,43,31,12,1,0:59
-19-Jan-2009,Australian Open Q,3,Hard,Q1,253,273,1,,,Sebastien De Chaunac,Gary Lugassy,6-3 6-4,1.33,11.9%,0.0%,66.1%,64.1%,55.0%,4/7,56.6%,51.9%,1.9%,32.3%,78.3%,5/6,113,7,0,59,39,20,1,1:22
-5-Jan-2009,Noumea CH,3,Hard,R16,255,188,0,WC,,Stefan Koubek,Sebastien De Chaunac,6-2 6-1,0.32,2.5%,10.0%,55.0%,54.5%,33.3%,0/4,31.3%,17.5%,12.5%,13.0%,23.5%,0/1,80,1,4,40,22,18,5,0:52
-5-Jan-2009,Noumea CH,3,Hard,R32,255,197,1,WC,,Sebastien De Chaunac,Grega Zemlja,3-6 6-2 7-5,1.08,11.1%,1.1%,58.9%,67.9%,51.4%,3/6,51.4%,41.9%,2.2%,39.7%,45.7%,5/9,183,10,1,90,53,37,2,2:08
-24-Nov-2008,Toyota CH,3,Carpet,SF,258,118,0,,2,Hyung Taik Lee,Sebastien De Chaunac,7-6(2) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Nov-2008,Toyota CH,3,Carpet,QF,258,159,1,,3,Sebastien De Chaunac,Danai Udomchoke,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Nov-2008,Toyota CH,3,Carpet,R16,258,339,1,,,Sebastien De Chaunac,Grzegorz Panfil,4-6 6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Nov-2008,Toyota CH,3,Carpet,R32,258,199,1,,6,Sebastien De Chaunac,Martin Slanar,2-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Nov-2008,Yokohama CH,3,Hard,R16,261,205,0,,5,Martin Slanar,Sebastien De Chaunac,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Nov-2008,Yokohama CH,3,Hard,R32,261,347,1,,,Sebastien De Chaunac,Tatsuma Ito,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Oct-2008,Lyon Q,3,Carpet,Q2,244,80,0,,1,Christophe Rochus,Sebastien De Chaunac,6-3 7-5,0.85,19.0%,0.0%,62.1%,72.2%,45.5%,4/7,46.3%,32.3%,3.1%,27.8%,37.9%,1/5,123,11,0,58,36,22,2,1:24
-20-Oct-2008,Lyon Q,3,Carpet,Q1,244,800,1,,,Sebastien De Chaunac,Bruno Soares,6-2 6-2,1.99,21.7%,2.2%,56.5%,92.3%,55.0%,2/2,59.6%,47.6%,1.6%,38.2%,58.6%,4/8,109,10,1,46,26,20,1,1:07
-6-Oct-2008,Rennes CH,3,Hard,QF,245,202,0,,8,David Guez,Sebastien De Chaunac,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Oct-2008,Rennes CH,3,Hard,R16,245,380,1,,WC,Sebastien De Chaunac,Romain Jouan,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-6-Oct-2008,Rennes CH,3,Hard,R32,245,172,1,,4,Sebastien De Chaunac,Alex Bogdanovic,7-5 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2008,Grenoble CH,3,Hard,R16,240,501,0,,Q,Pierre Metenier,Sebastien De Chaunac,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2008,Grenoble CH,3,Hard,R32,240,403,1,,Q,Sebastien De Chaunac,Vladimir Obradovic,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
-8-Sep-2008,Orleans CH,3,Hard,R16,246,106,0,,7,Christophe Rochus,Sebastien De Chaunac,6-3 6-2,0.64,18.5%,5.6%,44.4%,70.8%,33.3%,2/7,41.6%,31.9%,6.4%,13.6%,48.0%,1/2,101,10,3,54,24,30,3,1:11
-8-Sep-2008,Orleans CH,3,Hard,R32,246,194,1,,,Sebastien De Chaunac,Younes El Aynaoui,4-6 6-6 RET,0.80,7.2%,4.3%,55.1%,81.6%,41.9%,5/7,47.3%,29.0%,11.3%,28.9%,29.4%,1/2,131,5,3,69,38,31,7,1:26
-25-Aug-2008,US Open Q,3,Hard,Q1,245,292,0,,,Tomas Zib,Sebastien De Chaunac,7-6(5) 6-0,0.55,11.7%,5.0%,50.0%,63.3%,46.7%,3/7,40.7%,24.5%,5.7%,27.8%,17.6%,1/1,113,7,3,60,30,30,3,1:15
-28-Jul-2008,Graz CH,3,Clay,QF,262,114,0,,7,Jiri Vanek,Sebastien De Chaunac,6-3 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
-28-Jul-2008,Graz CH,3,Clay,R16,262,246,1,,,Sebastien De Chaunac,Martin Fischer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Jul-2008,Graz CH,3,Clay,R32,262,99,1,,4,Sebastien De Chaunac,Roko Karanusic,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jul-2008,Medjugorje CH,3,Clay,R32,264,198,0,,8,Matwe Middelkoop,Sebastien De Chaunac,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-14-Jul-2008,Umag Q,3,Clay,Q2,265,230,0,5,2,Filip Prpic,Sebastien De Chaunac,7-5 3-6 6-3,1.01,12.4%,4.5%,53.9%,72.9%,48.8%,1/5,49.5%,38.6%,1.0%,31.9%,53.1%,3/9,190,11,4,89,48,41,1,2:11
-14-Jul-2008,Umag Q,3,Clay,Q1,265,UNR,1,5,WC,Sebastien De Chaunac,Marko Boskovic,6-0 6-0,2.75,9.1%,3.0%,42.4%,85.7%,68.4%,0/0,70.7%,66.7%,0.0%,65.7%,71.4%,6/9,75,3,1,33,14,19,0,0:48
-7-Jul-2008,Stuttgart Q,3,Clay,Q1,262,139,0,,2,Jan Hernych,Sebastien De Chaunac,7-5 3-6 7-6(1),0.95,6.9%,5.9%,44.6%,75.6%,51.8%,5/9,48.6%,35.8%,3.7%,31.9%,42.5%,4/9,210,7,6,101,45,56,4,2:18
-23-Jun-2008,Constanta CH,3,Clay,R32,262,152,0,,4,Adrian Cruciat,Sebastien De Chaunac,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-23-Jun-2008,Wimbledon Q,3,Grass,Q1,262,199,0,,,Wesley Moodie,Sebastien De Chaunac,6-4 7-5,0.57,10.0%,5.0%,57.5%,76.1%,44.1%,7/9,45.6%,21.4%,16.1%,20.5%,25.0%,0/0,136,8,4,80,46,34,9,1:27
-9-Jun-2008,Queen's Club Q,3,Grass,Q1,265,136,0,,4,Sergiy Stakhovsky,Sebastien De Chaunac,6-4 7-6(2),0.76,5.3%,9.3%,54.7%,70.7%,44.1%,7/9,45.8%,31.3%,9.0%,16.7%,56.0%,1/1,142,4,7,75,41,34,6,1:40
-25-May-2008,Roland Garros Q,3,Clay,Q2,268,92,0,,4,Evgeny Korolev,Sebastien De Chaunac,6-3 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
-25-May-2008,Roland Garros Q,3,Clay,Q1,268,246,1,,,Sebastien De Chaunac,Michael Lammer,6-4 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
-12-May-2008,Marrakech CH,3,Clay,R16,279,91,0,,2,Guillermo Garcia Lopez,Sebastien De Chaunac,6-3 7-6(5),0.75,6.5%,7.6%,67.4%,61.3%,43.3%,3/6,45.7%,33.3%,1.4%,21.4%,50.0%,2/6,164,6,7,92,62,30,1,2:09
-12-May-2008,Marrakech CH,3,Clay,R32,279,229,1,,,Sebastien De Chaunac,Josselin Ouanna,4-4 RET,0.83,9.1%,13.6%,50.0%,63.6%,27.3%,1/3,45.5%,45.5%,9.1%,12.5%,64.3%,2/2,44,2,3,22,11,11,2,0:34
-5-May-2008,Rabat CH,3,Clay,R32,263,351,0,,,Manuel Jorquera,Sebastien De Chaunac,6-4 7-6(6),0.99,1.1%,1.1%,37.5%,75.8%,50.9%,5/7,49.7%,39.3%,0.0%,35.6%,46.7%,1/10,177,1,1,88,33,55,0,2:31
-28-Apr-2008,Tunis CH,3,Clay,R32,266,363,0,Q,WC,Martin Verkerk,Sebastien De Chaunac,7-6(4) 7-6(5),1.00,7.7%,10.3%,47.4%,81.1%,48.8%,1/3,49.4%,36.0%,17.4%,25.9%,53.1%,2/5,164,6,8,78,37,41,15,2:07
-25-Feb-2008,Zagreb,3,Hard,R32,312,104,0,Q,,Denis Gremelmayr,Sebastien De Chaunac,6-7(2) 6-1 6-4,0.83,9.0%,1.3%,47.4%,75.7%,56.1%,0/4,46.1%,28.7%,3.4%,27.0%,33.3%,1/3,165,7,1,78,37,41,3,1:55
-25-Feb-2008,Zagreb Q,3,Hard,Q3,312,240,1,8,4,Sebastien De Chaunac,Ilija Bozoljac,6-1 5-7 6-1,1.59,5.3%,0.0%,64.0%,70.8%,66.7%,4/6,58.1%,48.9%,12.0%,36.5%,65.0%,6/13,167,4,0,75,48,27,11,1:52
-25-Feb-2008,Zagreb Q,3,Hard,Q2,312,UNR,1,8,WC,Sebastien De Chaunac,Deni Zmak,6-2 6-2,1.70,2.0%,4.1%,67.3%,75.8%,56.3%,1/1,60.4%,51.9%,3.8%,50.0%,53.8%,4/5,101,1,2,49,33,16,2,1:15
-25-Feb-2008,Zagreb Q,3,Hard,Q1,312,989,1,8,WC,Sebastien De Chaunac,Vilim Visak,6-1 6-0,2.41,13.5%,2.7%,67.6%,76.0%,75.0%,0/0,66.3%,58.7%,0.0%,65.2%,52.2%,5/7,83,5,1,37,25,12,0,0:52
-11-Feb-2008,Marseille Q,3,Hard,Q2,309,190,0,,7,Jesse Huta Galung,Sebastien De Chaunac,7-5 6-2,0.71,8.9%,1.8%,60.7%,67.6%,50.0%,5/8,42.7%,27.9%,8.8%,28.2%,27.6%,0/7,124,5,1,56,34,22,6,1:25
-11-Feb-2008,Marseille Q,3,Hard,Q1,309,494,1,,,Sebastien De Chaunac,Massimo Dellacqua,6-7(5) 7-6(4) 7-6(5),1.00,12.3%,4.1%,53.3%,83.1%,49.1%,5/8,49.8%,32.8%,20.0%,14.1%,52.5%,3/11,247,15,5,122,65,57,25,2:47
-31-Dec-2007,Doha,3,Hard,R32,377,49,0,Q,,Nicolas Kiefer,Sebastien De Chaunac,6-4 6-3,0.51,7.9%,1.6%,65.1%,56.1%,40.9%,5/9,40.2%,25.0%,6.8%,3.8%,55.6%,1/1,107,5,1,63,41,22,3,1:24
-31-Dec-2007,Doha Q,3,Hard,Q3,377,212,1,,7,Sebastien De Chaunac,Michael Lammer,6-3 6-7(2) 7-5,0.99,9.3%,1.6%,54.3%,62.9%,50.8%,10/14,50.6%,42.3%,1.9%,37.3%,51.4%,6/10,233,12,2,129,70,59,2,3:06
-31-Dec-2007,Doha Q,3,Hard,Q2,377,393,1,,,Sebastien De Chaunac,Gianluca Naso,6-2 7-5,1.52,8.2%,9.8%,37.7%,95.7%,52.6%,1/2,56.0%,47.2%,3.4%,43.1%,52.6%,4/14,150,5,6,61,23,38,3,1:38
-31-Dec-2007,Doha Q,3,Hard,Q1,377,268,1,,,Sebastien De Chaunac,Adrian Ungur,7-5 7-5,1.27,9.6%,1.4%,63.0%,67.4%,63.0%,2/4,54.4%,43.4%,0.0%,32.6%,60.0%,4/8,149,7,1,73,46,27,0,1:44
-3-Dec-2007,New Delhi2 CH,3,Hard,QF,407,256,0,,5,Michail Elgin,Sebastien De Chaunac,4-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Dec-2007,New Delhi2 CH,3,Hard,R16,407,296,1,,,Sebastien De Chaunac,Pavel Chekhov,4-6 7-6(9) 7-5,,,,,,,,,,,,,,,,,,,,,
-3-Dec-2007,New Delhi2 CH,3,Hard,R32,407,542,1,,WC,Sebastien De Chaunac,Ashutosh Singh,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-26-Nov-2007,New Delhi CH,3,Hard,R16,420,104,0,,1,Ivo Minar,Sebastien De Chaunac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Nov-2007,New Delhi CH,3,Hard,R32,420,823,1,,Q,Sebastien De Chaunac,Tushar Liberhan,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Nov-2007,Helsinki CH,3,Hard,R16,457,101,0,Q,2,Steve Darcis,Sebastien De Chaunac,6-3 6-4,0.59,10.9%,3.6%,50.9%,85.7%,33.3%,3/6,42.5%,23.5%,2.0%,15.8%,46.2%,1/1,106,6,2,55,28,27,1,1:06
-12-Nov-2007,Helsinki CH,3,Hard,R32,457,220,1,Q,,Sebastien De Chaunac,Adrian Cruciat,6-3 6-2,1.59,15.4%,0.0%,65.4%,73.5%,66.7%,0/0,59.0%,45.8%,8.3%,34.6%,59.1%,3/7,100,8,0,52,34,18,4,1:02
-5-Nov-2007,Bratislava CH,3,Hard,R32,461,83,0,Q,6,Evgeny Korolev,Sebastien De Chaunac,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Oct-2007,Lyon,3,Carpet,R32,506,20,0,Q,6,Juan Monaco,Sebastien De Chaunac,6-7(11) 6-3 7-6(3),0.89,5.7%,1.6%,60.7%,74.3%,47.9%,7/11,48.3%,32.2%,5.1%,26.6%,43.6%,3/10,240,7,2,122,74,48,6,2:38
-22-Oct-2007,Lyon Q,3,Carpet,Q3,506,157,1,,3,Sebastien De Chaunac,Oliver Marach,7-5 6-7(1) 6-4,0.89,19.6%,0.9%,62.6%,85.1%,42.5%,5/5,49.5%,27.4%,5.3%,7.0%,44.2%,2/5,202,21,1,107,67,40,5,2:31
-22-Oct-2007,Lyon Q,3,Carpet,Q2,506,438,1,,,Sebastien De Chaunac,Vincent Millot,6-2 6-3,1.30,10.3%,0.0%,62.1%,72.2%,50.0%,4/5,56.0%,47.1%,5.9%,33.3%,66.7%,4/7,109,6,0,58,36,22,3,1:07
-22-Oct-2007,Lyon Q,3,Carpet,Q1,506,398,1,,,Sebastien De Chaunac,Clement Morel,6-1 6-4,1.46,13.3%,0.0%,50.0%,73.3%,63.3%,2/2,58.0%,46.2%,3.8%,39.4%,57.9%,3/9,112,8,0,60,30,30,2,1:12
-15-Oct-2007,Andrezieux CH,3,Hard,R32,509,108,0,WC,,Mischa Zverev,Sebastien De Chaunac,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Oct-2007,Rennes CH,3,Hard,QF,607,305,0,Q,Q,Jean Christophe Faurel,Sebastien De Chaunac,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Oct-2007,Rennes CH,3,Hard,R16,607,133,1,Q,6,Sebastien De Chaunac,Daniel Koellerer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Oct-2007,Rennes CH,3,Hard,R32,607,174,1,Q,,Sebastien De Chaunac,Bjorn Phau,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Sep-2007,Grenoble CH,3,Hard,R16,667,170,0,WC,,Roko Karanusic,Sebastien De Chaunac,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Sep-2007,Grenoble CH,3,Hard,R32,667,399,1,WC,Q,Sebastien De Chaunac,Pierrick Ysern,7-5 2-6 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Jun-2007,Milan CH,3,Clay,R32,672,192,0,,4,Santiago Ventura,Sebastien De Chaunac,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-7-May-2007,Dresden CH,3,Clay,R16,803,263,0,Q,,Jean Christophe Faurel,Sebastien De Chaunac,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-7-May-2007,Dresden CH,3,Clay,R32,803,122,1,Q,4,Sebastien De Chaunac,Ilija Bozoljac,6-7(2) 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-30-Apr-2007,Munich Q,3,Clay,Q1,806,211,0,,3,Matthias Bachinger,Sebastien De Chaunac,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Apr-2007,Houston Q,3,Clay,Q3,808,107,0,,2,Davide Sanguinetti,Sebastien De Chaunac,6-3 6-3,0.68,1.6%,6.5%,59.7%,59.5%,44.0%,4/8,42.9%,31.6%,7.0%,23.5%,43.5%,1/5,119,1,4,62,37,25,4,1:13
-9-Apr-2007,Houston Q,3,Clay,Q2,808,193,1,,7,Sebastien De Chaunac,Benedikt Dorsch,6-1 6-7(4) 6-4,1.18,14.4%,0.0%,55.7%,72.2%,60.5%,5/6,52.8%,39.0%,9.0%,40.0%,37.5%,5/8,197,14,0,97,54,43,9,2:03
-9-Apr-2007,Houston Q,3,Clay,Q1,808,UNR,1,,,Sebastien De Chaunac,Alex Clayton,7-6(1) 6-4,1.31,10.6%,4.5%,56.1%,83.8%,51.7%,2/4,54.5%,39.7%,2.9%,30.4%,59.1%,3/4,134,7,3,66,37,29,2,1:26
-12-Feb-2007,Marseille Q,3,Hard,Q1,613,65,0,WC,2,Nicolas Mahut,Sebastien De Chaunac,7-6(3) 6-3,1.07,17.3%,5.8%,55.8%,86.2%,52.2%,1/1,48.0%,31.0%,14.1%,9.8%,60.0%,0/5,123,9,3,52,29,23,10,1:20
-22-Jan-2007,Heilbronn CH,3,Hard,R32,602,103,0,Q,7,Jiri Vanek,Sebastien De Chaunac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-15-Jan-2007,Australian Open Q,3,Hard,Q1,602,146,0,,24,Marco Chiudinelli,Sebastien De Chaunac,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2007,Noumea CH,3,Hard,R32,601,245,0,WC,,Simon Stadler,Sebastien De Chaunac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2006,Cherbourg CH,3,Hard,R32,352,156,0,,,Frank Dancevic,Sebastien De Chaunac,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Feb-2006,Marseille,3,Hard,R32,378,47,0,Q,,Mikhail Youzhny,Sebastien De Chaunac,6-4 6-3,0.62,3.0%,0.0%,59.7%,65.0%,51.9%,7/10,44.5%,25.0%,5.8%,16.1%,38.1%,0/2,119,2,0,67,40,27,3,1:17
-30-Jan-2006,Andrezieux CH,3,Hard,R32,255,89,0,WC,8,Gilles Simon,Sebastien De Chaunac,7-6(2) 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2006,Wrexham CH,3,Hard,R16,251,214,0,,,Jean Michel Pequery,Sebastien De Chaunac,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2006,Wrexham CH,3,Hard,R32,251,132,1,,3,Sebastien De Chaunac,Melle Van Gemerden,2-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-24-Oct-2005,Seoul CH,3,Hard,R32,237,151,0,,7,Lukasz Kubot,Sebastien De Chaunac,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-17-Oct-2005,Southampton CH,3,Hard,SF,269,135,0,Q,3,Jerome Haehnel,Sebastien De Chaunac,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Oct-2005,Southampton CH,3,Hard,QF,269,228,1,Q,,Sebastien De Chaunac,Uros Vico,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Oct-2005,Southampton CH,3,Hard,R16,269,183,1,Q,,Sebastien De Chaunac,Stefano Galvani,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
-17-Oct-2005,Southampton CH,3,Hard,R32,269,250,1,Q,,Sebastien De Chaunac,Stefan Wauters,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-26-Sep-2005,Grenoble CH,3,Hard,R32,271,142,0,Q,,Olivier Patience,Sebastien De Chaunac,7-6(8) 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2005,Istanbul CH,3,Hard,R32,261,135,0,,,Simon Greul,Sebastien De Chaunac,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2005,Washington,3,Hard,R32,254,89,0,LL,,Jan Hernych,Sebastien De Chaunac,7-6(7) 6-1,0.82,5.9%,1.5%,47.1%,53.1%,47.2%,2/6,45.3%,40.8%,0.0%,38.3%,45.8%,2/5,139,4,1,68,32,36,0,1:40
-25-Jul-2005,Los Angeles,3,Hard,R32,258,75,0,Q,,Gilles Muller,Sebastien De Chaunac,2-6 6-3 7-6(6),0.98,13.7%,3.2%,62.1%,79.7%,52.8%,2/3,49.5%,29.9%,11.3%,24.5%,36.4%,2/7,192,13,3,95,59,36,11,2:12
-18-Jul-2005,Indianapolis,3,Hard,R64,255,72,0,Q,,Marcos Baghdatis,Sebastien De Chaunac,1-6 6-3 6-4,0.88,10.0%,4.4%,51.1%,73.9%,40.9%,7/11,48.8%,37.1%,12.9%,22.5%,56.7%,4/7,160,9,4,90,46,44,9,1:43
-23-May-2005,Turin CH,3,Clay,R32,267,230,0,,,Leonardo Azzaro,Sebastien De Chaunac,6-7(4) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-14-Mar-2005,Sarajevo CH,3,Hard,R32,265,496,0,,Q,Ilija Bozoljac,Sebastien De Chaunac,7-6(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Feb-2005,Marseille,3,Hard,QF,275,30,0,Q,,Mario Ancic,Sebastien De Chaunac,7-6(11) 6-3,0.73,2.5%,6.3%,54.4%,65.1%,55.6%,4/5,44.7%,28.7%,23.8%,17.6%,48.3%,0/5,159,2,5,79,43,36,19,1:56
-7-Feb-2005,Marseille,3,Hard,R16,275,44,1,Q,,Sebastien De Chaunac,Greg Rusedski,W/O,,,,,,,,,,,,,,,,,,,,,
-7-Feb-2005,Marseille,3,Hard,R32,275,5,1,Q,1,Sebastien De Chaunac,Guillermo Coria,6-4 7-5,1.28,11.4%,4.3%,55.7%,79.5%,51.6%,3/5,55.3%,41.9%,1.6%,33.3%,48.6%,4/5,132,8,3,70,39,31,1,1:42
-31-Jan-2005,Andrezieux CH,3,Hard,R16,223,157,0,,,Thierry Ascione,Sebastien De Chaunac,6-4 5-7 7-5,,,,,,,,,,,,,,,,,,,,,
-31-Jan-2005,Andrezieux CH,3,Hard,R32,223,163,1,,,Sebastien De Chaunac,Tomas Tenconi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2005,Heilbronn CH,3,Carpet,R32,217,70,0,,1,Gilles Muller,Sebastien De Chaunac,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jan-2005,Adelaide,3,Hard,R32,220,132,0,Q,Q,Jean Rene Lisnard,Sebastien De Chaunac,6-4 7-6(4),0.85,1.3%,5.1%,61.5%,66.7%,50.0%,5/7,47.1%,33.8%,2.6%,20.5%,47.4%,1/2,155,1,4,78,48,30,2,1:50
-27-Sep-2004,Grenoble CH,3,Hard,R32,192,294,0,,,Razvan Sabau,Sebastien De Chaunac,6-4 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
-20-Sep-2004,Covington CH,3,Hard,R32,165,206,0,5,,Amer Delic,Sebastien De Chaunac,7-6(2) 7-6(5),,,,,,,,,,,,,,,,,,,,,
-13-Sep-2004,Delray Beach,3,Hard,R16,166,252,0,,,Jerome Golmard,Sebastien De Chaunac,6-3 6-2,0.59,11.4%,2.3%,54.5%,66.7%,45.0%,2/5,40.0%,25.5%,13.7%,13.3%,42.9%,0/0,95,5,1,44,24,20,7,1:12
-13-Sep-2004,Delray Beach,3,Hard,R32,166,75,1,,8,Sebastien De Chaunac,Radek Stepanek,6-7(7) 7-6(1) 6-1,1.08,0.8%,9.2%,57.3%,62.7%,39.3%,15/21,52.0%,51.3%,2.6%,43.8%,64.3%,8/17,246,1,12,131,75,56,3,2:52
-16-Aug-2004,Geneva CH,3,Clay,R32,165,129,0,,3,Nicolas Almagro,Sebastien De Chaunac,7-6(5) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Aug-2004,Cordenons CH,3,Clay,R32,164,424,0,3,Q,Simone Bolelli,Sebastien De Chaunac,6-0 6-7(9) 6-4,,,,,,,,,,,,,,,,,,,,,
-2-Aug-2004,Timisoara CH,3,Clay,R32,164,216,0,5,,Boris Pashanski,Sebastien De Chaunac,6-3 3-6 7-6(5),,,,,,,,,,,,,,,,,,,,,
-19-Jul-2004,Indianapolis,3,Hard,R32,177,36,0,Q,15,Robby Ginepri,Sebastien De Chaunac,6-3 3-6 6-2,0.75,8.8%,7.5%,56.3%,71.1%,31.4%,6/11,44.5%,34.7%,2.7%,26.3%,43.2%,3/7,155,7,6,80,45,35,2,1:37
-19-Jul-2004,Indianapolis,3,Hard,R64,177,84,1,Q,,Sebastien De Chaunac,Antony Dupuis,2-6 7-5 6-4,1.07,12.8%,11.7%,45.7%,72.1%,51.0%,3/7,51.3%,41.9%,4.3%,18.2%,63.3%,4/11,187,12,11,94,43,51,4,2:11
-28-Jun-2004,Cordoba CH,3,Hard,R16,182,387,0,,WC,Emilio Benfele Alvarez,Sebastien De Chaunac,6-3 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Jun-2004,Cordoba CH,3,Hard,R32,182,94,1,,2,Sebastien De Chaunac,Lars Burgsmuller,7-6(4) 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-21-Jun-2004,Andorra CH,3,Hard,R32,182,213,0,6,,Gilles Simon,Sebastien De Chaunac,6-4 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
-10-May-2004,Kosice CH,3,Clay,R32,164,184,0,8,,Michal Mertinak,Sebastien De Chaunac,3-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-3-May-2004,Ostrava CH,3,Clay,R32,163,200,0,8,,Janko Tipsarevic,Sebastien De Chaunac,6-0 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-19-Apr-2004,Bermuda CH,3,Clay,R32,159,59,0,,1,Luis Horna,Sebastien De Chaunac,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Apr-2004,Houston,3,Clay,R32,160,142,0,LL,,Robert Kendrick,Sebastien De Chaunac,6-2 3-6 7-6(2),0.68,2.9%,6.7%,57.1%,68.3%,55.6%,4/6,46.3%,25.3%,13.3%,13.7%,43.8%,1/3,188,3,7,105,60,45,11,1:59
-29-Mar-2004,Barletta CH,3,Clay,R32,155,270,0,,Q,Gorka Fraile,Sebastien De Chaunac,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Mar-2004,St. Brieuc CH,3,Clay,R32,155,487,0,4,Q,Bertrand Contzler,Sebastien De Chaunac,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Mar-2004,Besancon CH,3,Hard,R16,160,326,0,,Q,Nicolas Devilder,Sebastien De Chaunac,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Mar-2004,Besancon CH,3,Hard,R32,160,218,1,,Q,Sebastien De Chaunac,Frank Dancevic,4-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Feb-2004,Memphis,3,Hard,R16,160,2,0,Q,1,Andy Roddick,Sebastien De Chaunac,6-3 6-3,0.38,8.8%,1.5%,61.8%,66.7%,42.3%,3/6,41.4%,16.3%,34.9%,6.3%,45.5%,0/0,111,6,1,68,42,26,15,1:06
-16-Feb-2004,Memphis,3,Hard,R32,160,73,1,Q,,Sebastien De Chaunac,Irakli Labadze,3-6 6-3 7-6(1) RET,0.92,6.9%,1.1%,60.9%,69.8%,64.7%,0/2,49.4%,29.6%,8.6%,24.1%,40.7%,2/5,168,6,1,87,53,34,7,2:02
-9-Feb-2004,Joplin CH,3,Hard,R16,160,190,0,7,,Bjorn Rehnquist,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Feb-2004,Joplin CH,3,Hard,R32,160,234,1,7,,Sebastien De Chaunac,Dusan Vemic,7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2004,Dallas CH,3,Hard,F,174,446,1,,Q,Sebastien De Chaunac,Amer Delic,6-4 7-6(3),,,,,,,,,,,,,,,,,,,,,
-2-Feb-2004,Dallas CH,3,Hard,SF,174,216,1,,,Sebastien De Chaunac,Andre Sa,3-5 RET,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2004,Dallas CH,3,Hard,QF,174,132,1,,2,Sebastien De Chaunac,Eric Taino,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2004,Dallas CH,3,Hard,R16,174,431,1,,WC,Sebastien De Chaunac,Tripp Phillips,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
-2-Feb-2004,Dallas CH,3,Hard,R32,174,177,1,,8,Sebastien De Chaunac,Marcos Daniel,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Jan-2004,Australian Open,5,Hard,R128,185,248,0,Q,,Guillermo Canas,Sebastien De Chaunac,6-2 6-2 6-4,0.62,1.3%,7.5%,56.3%,57.8%,54.3%,4/9,42.0%,27.3%,1.3%,13.7%,53.8%,0/2,157,1,6,80,45,35,1,1:40
-13-Oct-2003,Reunion Island CH,3,Hard,QF,199,203,0,,8,Alexander Peya,Sebastien De Chaunac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Oct-2003,Reunion Island CH,3,Hard,R16,199,365,1,,,Sebastien De Chaunac,Michael Kohlmann,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Oct-2003,Reunion Island CH,3,Hard,R32,199,UNR,1,,WC,Sebastien De Chaunac,Yann Dupuy,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2003,San Antonio CH,3,Hard,F,249,108,0,,1,Dmitry Tursunov,Sebastien De Chaunac,6-2 6-7(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2003,San Antonio CH,3,Hard,SF,249,263,1,,,Sebastien De Chaunac,Kevin Kim,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2003,San Antonio CH,3,Hard,QF,249,133,1,,2,Sebastien De Chaunac,Paul Goldstein,4-6 7-6(4) 7-6(2),,,,,,,,,,,,,,,,,,,,,
-22-Sep-2003,San Antonio CH,3,Hard,R16,249,270,1,,LL,Sebastien De Chaunac,Emin Agaev,5-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-22-Sep-2003,San Antonio CH,3,Hard,R32,249,229,1,,,Sebastien De Chaunac,Miguel Gallardo Valles,3-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-15-Sep-2003,Mandeville CH,3,Hard,QF,269,286,0,,,Matias Boeker,Sebastien De Chaunac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Sep-2003,Mandeville CH,3,Hard,R16,269,220,1,,3,Sebastien De Chaunac,Petr Kralert,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-15-Sep-2003,Mandeville CH,3,Hard,R32,269,280,1,,,Sebastien De Chaunac,Peter Wessels,6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-28-Jul-2003,Trani CH,3,Clay,R32,231,260,0,5,,Daniel Koellerer,Sebastien De Chaunac,6-0 5-2 RET,,,,,,,,,,,,,,,,,,,,,
-21-Jul-2003,Tampere CH,3,Clay,R16,227,275,0,6,,Yuri Schukin,Sebastien De Chaunac,6-1 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jul-2003,Tampere CH,3,Clay,R32,227,329,1,6,,Sebastien De Chaunac,Nicolas Todero,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-14-Jul-2003,Olbia CH,3,Clay,R32,224,382,0,2,WC,Federico Luzzi,Sebastien De Chaunac,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Jul-2003,Scheveningen CH,3,Clay,R32,216,281,0,,,Xavier Pujo,Sebastien De Chaunac,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-12-May-2003,Kosice CH,3,Clay,SF,201,255,0,,,Martin Vassallo Arguello,Sebastien De Chaunac,6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
-12-May-2003,Kosice CH,3,Clay,QF,201,152,1,,5,Sebastien De Chaunac,Vasilis Mazarakis,1-6 7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-12-May-2003,Kosice CH,3,Clay,R16,201,138,1,,3,Sebastien De Chaunac,Ivo Heuberger,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-12-May-2003,Kosice CH,3,Clay,R32,201,234,1,,,Sebastien De Chaunac,Eric Prodon,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2003,Aix En Provence CH,3,Clay,R16,206,121,0,WC,8,Mariano Puerta,Sebastien De Chaunac,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Apr-2003,Aix En Provence CH,3,Clay,R32,206,176,1,WC,Q,Sebastien De Chaunac,Rik De Voest,6-2 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Apr-2003,Bermuda CH,3,Clay,R32,205,78,0,Q,5,Flavio Saretta,Sebastien De Chaunac,1-6 7-6(8) 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Mar-2003,Sarajevo CH,3,Hard,R32,208,205,0,Q,,Alexander Peya,Sebastien De Chaunac,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Feb-2003,Cherbourg CH,3,Hard,R32,201,157,0,,,Eric Taino,Sebastien De Chaunac,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Feb-2003,Andrezieux CH,3,Hard,SF,234,363,0,WC,Q,Thierry Ascione,Sebastien De Chaunac,6-4 2-6 7-6(1),,,,,,,,,,,,,,,,,,,,,
-17-Feb-2003,Andrezieux CH,3,Hard,QF,234,75,1,WC,1,Sebastien De Chaunac,Antony Dupuis,6-1 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Feb-2003,Andrezieux CH,3,Hard,R16,234,220,1,WC,WC,Sebastien De Chaunac,Julien Benneteau,7-6(2) 6-7(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-17-Feb-2003,Andrezieux CH,3,Hard,R32,234,177,1,WC,,Sebastien De Chaunac,George Bastl,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Feb-2003,Joplin CH,3,Hard,SF,208,293,0,,Q,Bob Bryan,Sebastien De Chaunac,7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
-3-Feb-2003,Joplin CH,3,Hard,QF,208,150,1,,4,Sebastien De Chaunac,Alex Bogomolov Jr,6-4 7-6(4),,,,,,,,,,,,,,,,,,,,,
-3-Feb-2003,Joplin CH,3,Hard,R16,208,197,1,,,Sebastien De Chaunac,Paul Goldstein,6-4 7-6(0),,,,,,,,,,,,,,,,,,,,,
-3-Feb-2003,Joplin CH,3,Hard,R32,208,149,1,,5,Sebastien De Chaunac,Vasilis Mazarakis,6-1 2-2 RET,,,,,,,,,,,,,,,,,,,,,
-27-Jan-2003,Dallas CH,3,Hard,R16,207,523,0,,,Andrew Ilie,Sebastien De Chaunac,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Jan-2003,Dallas CH,3,Hard,R32,207,289,1,,WC,Sebastien De Chaunac,Andres Pedroso,7-6(5) 3-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Waikoloa CH,3,Hard,R16,204,317,0,,WC,Dmitry Tursunov,Sebastien De Chaunac,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Jan-2003,Waikoloa CH,3,Hard,R32,204,140,1,,7,Sebastien De Chaunac,Ivan Miranda,6-4 7-6(6),,,,,,,,,,,,,,,,,,,,,
-14-Oct-2002,Cairo CH,3,Clay,R32,183,92,0,,2,Albert Portas,Sebastien De Chaunac,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-7-Oct-2002,Barcelona CH,3,Clay,R16,186,105,0,,3,Arnaud Di Pasquale,Sebastien De Chaunac,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-7-Oct-2002,Barcelona CH,3,Clay,R32,186,257,1,,Q,Sebastien De Chaunac,Oscar Serrano,6-3 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
-30-Sep-2002,Seville CH,3,Clay,R16,188,159,0,,,Julien Varlet,Sebastien De Chaunac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-30-Sep-2002,Seville CH,3,Clay,R32,188,254,1,,,Sebastien De Chaunac,Francisco Costa,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Aug-2002,Freudenstadt CH,3,Clay,R32,171,194,0,6,,Johan Settergren,Sebastien De Chaunac,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2002,Bronx CH,3,Hard,QF,183,225,0,8,,Eric Taino,Sebastien De Chaunac,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2002,Bronx CH,3,Hard,R16,183,210,1,8,,Sebastien De Chaunac,Julien Benneteau,2-6 6-2 4-1 RET,,,,,,,,,,,,,,,,,,,,,
-12-Aug-2002,Bronx CH,3,Hard,R32,183,224,1,8,,Sebastien De Chaunac,Frederic Niemeyer,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-22-Jul-2002,Sopot,3,Clay,R32,175,14,0,Q,1,Jiri Novak,Sebastien De Chaunac,6-7(3) 6-3 6-2,0.78,2.2%,0.0%,53.9%,54.2%,48.8%,6/12,44.7%,37.8%,1.1%,35.7%,41.2%,2/6,179,2,0,89,48,41,1,1:57
-8-Jul-2002,Scheveningen CH,3,Clay,R16,178,84,0,,1,Raemon Sluiter,Sebastien De Chaunac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2002,Scheveningen CH,3,Clay,R32,178,184,1,,,Sebastien De Chaunac,Alessio Di Mauro,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2002,Montauban CH,3,Clay,R32,174,262,0,6,,Cristian Kordasz,Sebastien De Chaunac,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2002,Furth CH,3,Clay,R32,173,259,0,,LL,Mariano Delfino,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-27-May-2002,Roland Garros,5,Clay,R64,173,33,0,WC,30,Sjeng Schalken,Sebastien De Chaunac,6-0 6-2 7-6(3),0.76,2.2%,5.4%,59.8%,47.3%,43.2%,10/19,43.5%,41.5%,4.3%,40.0%,44.1%,4/15,186,2,5,92,55,37,4,2:12
-27-May-2002,Roland Garros,5,Clay,R128,173,93,1,WC,,Sebastien De Chaunac,Michael Chang,4-6 4-6 6-4 6-2 6-4,1.02,7.1%,1.3%,63.2%,57.1%,54.4%,8/16,50.7%,44.8%,2.1%,44.4%,45.5%,10/18,300,11,2,155,98,57,3,3:42
-20-May-2002,Budapest CH,3,Clay,R16,179,293,0,3,,Sebastian Prieto,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-20-May-2002,Budapest CH,3,Clay,R32,179,717,1,3,WC,Sebastien De Chaunac,Zsolt Tatar,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
-6-May-2002,Edinburgh CH,3,Clay,R32,163,182,0,,,Gregory Carraz,Sebastien De Chaunac,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Apr-2002,Rome CH,3,Clay,R32,160,202,0,,WC,Filippo Volandri,Sebastien De Chaunac,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Mar-2002,Salinas CH,3,Hard,R32,152,241,0,5,,Mariano Puerta,Sebastien De Chaunac,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-25-Feb-2002,Cherbourg CH,3,Hard,R16,153,264,0,2,,Jean Rene Lisnard,Sebastien De Chaunac,1-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-25-Feb-2002,Cherbourg CH,3,Hard,R32,153,257,1,2,,Sebastien De Chaunac,Francisco Costa,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Feb-2002,Andrezieux CH,3,Hard,R32,152,161,0,,,Gabriel Trifu,Sebastien De Chaunac,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
-4-Feb-2002,Wroclaw CH,3,Hard,SF,180,57,0,,7,Davide Sanguinetti,Sebastien De Chaunac,7-6(3) 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Feb-2002,Wroclaw CH,3,Hard,QF,180,384,1,,Q,Sebastien De Chaunac,Marcus Sarstrand,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Feb-2002,Wroclaw CH,3,Hard,R16,180,87,1,,5,Sebastien De Chaunac,Nikolay Davydenko,0-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-4-Feb-2002,Wroclaw CH,3,Hard,R32,180,424,1,,WC,Sebastien De Chaunac,Lukasz Kubot,6-1 7-6(1),,,,,,,,,,,,,,,,,,,,,
-28-Jan-2002,Brest CH,3,Hard,R16,185,69,0,LL,1,Jan Vacek,Sebastien De Chaunac,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Jan-2002,Brest CH,3,Hard,R32,185,143,1,LL,,Sebastien De Chaunac,Paul Henri Mathieu,2-6 7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Oct-2001,Sao Paulo3 CH,3,Clay,R32,195,85,0,,5,Juan Ignacio Chela,Sebastien De Chaunac,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-15-Oct-2001,Brasilia2 CH,3,Clay,F,233,317,0,,,Sebastian Prieto,Sebastien De Chaunac,6-4 4-6 7-6(6),,,,,,,,,,,,,,,,,,,,,
-15-Oct-2001,Brasilia2 CH,3,Clay,SF,233,101,1,,1,Sebastien De Chaunac,Alexandre Simoni,7-6(3) 7-5,,,,,,,,,,,,,,,,,,,,,
-15-Oct-2001,Brasilia2 CH,3,Clay,QF,233,220,1,,,Sebastien De Chaunac,Jan Frode Andersen,7-6(10) 7-6(2),,,,,,,,,,,,,,,,,,,,,
-15-Oct-2001,Brasilia2 CH,3,Clay,R16,233,159,1,,6,Sebastien De Chaunac,Ricardo Mello,6-7(2) 6-3 7-6(0),,,,,,,,,,,,,,,,,,,,,
-15-Oct-2001,Brasilia2 CH,3,Clay,R32,233,194,1,,,Sebastien De Chaunac,Didac Perez,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-8-Oct-2001,Lima CH,3,Clay,R32,228,193,0,,,Gaston Etlis,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Sep-2001,Kamnik CH,3,Clay,R16,234,321,0,8,,Robin Vik,Sebastien De Chaunac,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Sep-2001,Kamnik CH,3,Clay,R32,234,242,1,8,,Sebastien De Chaunac,Salvador Navarro,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-17-Sep-2001,Seville CH,3,Clay,R16,229,257,0,,,Todd Larkham,Sebastien De Chaunac,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Sep-2001,Seville CH,3,Clay,R32,229,193,1,,5,Sebastien De Chaunac,Diego Hipperdinger,1-6 6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-27-Aug-2001,US Open,5,Hard,R128,257,3,0,Q,3,Marat Safin,Sebastien De Chaunac,6-4 6-2 6-2,0.54,2.8%,2.8%,46.5%,69.7%,47.4%,4/9,40.4%,22.9%,15.7%,15.2%,29.7%,0/2,141,2,2,71,33,38,11,1:28
-13-Aug-2001,Bronx CH,3,Hard,R16,225,195,0,6,,Cedric Kauffmann,Sebastien De Chaunac,7-6(2) 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Aug-2001,Bronx CH,3,Hard,R32,225,262,1,6,,Sebastien De Chaunac,Tomas Cakl,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Aug-2001,Cordoba CH,3,Hard,R32,222,158,0,,3,Noam Okun,Sebastien De Chaunac,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
-30-Jul-2001,Segovia CH,3,Hard,R32,223,162,0,,,Yuri Schukin,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Jul-2001,Budaors CH,3,Clay,SF,225,429,0,8,Q,Juan Ignacio Chela,Sebastien De Chaunac,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-23-Jul-2001,Budaors CH,3,Clay,QF,225,245,1,8,,Sebastien De Chaunac,Ladislav Svarc,6-3 7-6(5),,,,,,,,,,,,,,,,,,,,,
-23-Jul-2001,Budaors CH,3,Clay,R16,225,250,1,8,,Sebastien De Chaunac,Solon Peppas,7-5 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Jul-2001,Budaors CH,3,Clay,R32,225,235,1,8,,Sebastien De Chaunac,Ruben Ramirez Hidalgo,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Jun-2001,Weiden CH,3,Clay,SF,238,111,0,Q,1,Jiri Vanek,Sebastien De Chaunac,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Jun-2001,Weiden CH,3,Clay,QF,238,181,1,Q,,Sebastien De Chaunac,Ronald Agenor,7-6(7) 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
-11-Jun-2001,Weiden CH,3,Clay,R16,238,146,1,Q,4,Sebastien De Chaunac,Tomas Zib,6-7(3) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
-11-Jun-2001,Weiden CH,3,Clay,R32,238,236,1,Q,,Sebastien De Chaunac,Vadim Kutsenko,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-4-Jun-2001,Furth CH,3,Clay,QF,253,104,0,LL,3,German Puentes,Sebastien De Chaunac,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Jun-2001,Furth CH,3,Clay,R16,253,111,1,LL,5,Sebastien De Chaunac,Daniel Elsner,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-4-Jun-2001,Furth CH,3,Clay,R32,253,157,1,LL,,Sebastien De Chaunac,Hugo Armando,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-14-May-2001,Edinburgh CH,3,Clay,QF,298,124,0,Q,1,Kristian Pless,Sebastien De Chaunac,6-3 7-6(2),,,,,,,,,,,,,,,,,,,,,
-14-May-2001,Edinburgh CH,3,Clay,R16,298,191,1,Q,,Sebastien De Chaunac,Fredrik Jonsson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-14-May-2001,Edinburgh CH,3,Clay,R32,298,184,1,Q,6,Sebastien De Chaunac,Vasilis Mazarakis,3-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jan-2001,Sao Paulo1 CH,3,Hard,R32,309,273,0,,,Cedric Kauffmann,Sebastien De Chaunac,5-7 7-5 6-0,,,,,,,,,,,,,,,,,,,,,
-21-Aug-2000,Geneva CH,3,Clay,R16,318,290,0,,,Nicolas Thomann,Sebastien De Chaunac,6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
-21-Aug-2000,Geneva CH,3,Clay,R32,318,268,1,,,Sebastien De Chaunac,Martin Spottl,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-14-Aug-2000,Sylt CH,3,Clay,SF,288,420,0,5,,Yuri Schukin,Sebastien De Chaunac,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-14-Aug-2000,Sylt CH,3,Clay,QF,288,418,1,5,,Sebastien De Chaunac,Thomas Schiessling,6-7(8) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Aug-2000,Sylt CH,3,Clay,R16,288,425,1,5,Q,Sebastien De Chaunac,Manuel Sala,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-14-Aug-2000,Sylt CH,3,Clay,R32,288,337,1,5,,Sebastien De Chaunac,Yves Allegro,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Jul-2000,Cordoba CH,3,Hard,QF,334,197,0,,,Reginald Willems,Sebastien De Chaunac,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Jul-2000,Cordoba CH,3,Hard,R16,334,164,1,,4,Sebastien De Chaunac,Dejan Petrovic,6-7(5) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Jul-2000,Cordoba CH,3,Hard,R32,334,UNR,1,,WC,Sebastien De Chaunac,Aitor Zubiarrain,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Jun-2000,Denver CH,3,Hard,R16,364,283,0,,,Thomas Dupre,Sebastien De Chaunac,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-12-Jun-2000,Denver CH,3,Hard,R32,364,215,1,,8,Sebastien De Chaunac,Julian Knowle,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-15-May-2000,Jerusalem CH,3,Hard,R32,318,252,0,,,Michael Joyce,Sebastien De Chaunac,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2000,Magdeburg CH,3,Carpet,R32,219,233,0,,,Vladimir Voltchkov,Sebastien De Chaunac,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Feb-2000,Singapore CH,3,Hard,R32,214,112,0,,2,Jiri Vanek,Sebastien De Chaunac,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Feb-2000,Ho Chi Minh CH,3,Hard,R32,214,152,0,,5,Kevin Ullyett,Sebastien De Chaunac,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-14-Feb-2000,Hull CH,3,Carpet,R16,224,486,0,5,Q,Tom Spinks,Sebastien De Chaunac,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-14-Feb-2000,Hull CH,3,Carpet,R32,224,306,1,5,,Sebastien De Chaunac,Luke Milligan,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Nuembrecht CH,3,Carpet,R32,193,582,0,,LL,Andreas Weber,Sebastien De Chaunac,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Oct-1999,Tulsa CH,3,Hard,R16,197,175,0,,4,Andre Sa,Sebastien De Chaunac,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-4-Oct-1999,Tulsa CH,3,Hard,R32,197,UNR,1,,WC,Sebastien De Chaunac,David Martin,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Sep-1999,San Antonio CH,3,Hard,R32,186,159,0,6,,Andre Sa,Sebastien De Chaunac,6-3 6-7(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-20-Sep-1999,Austin CH,3,Hard,R32,183,316,0,5,,Barry Cowan,Sebastien De Chaunac,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Bronx CH,3,Hard,F,232,169,0,,6,Alexander Popp,Sebastien De Chaunac,6-7(4) 7-6(4) 6-0,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Bronx CH,3,Hard,SF,232,188,1,,Q,Sebastien De Chaunac,Vadim Kutsenko,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Bronx CH,3,Hard,QF,232,175,1,,8,Sebastien De Chaunac,Alejandro Hernandez,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Bronx CH,3,Hard,R16,232,221,1,,,Sebastien De Chaunac,Giorgio Galimberti,4-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Bronx CH,3,Hard,R32,232,146,1,,2,Sebastien De Chaunac,Julien Boutter,2-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Binghamton CH,3,Hard,R32,214,253,0,,,Brett Steven,Sebastien De Chaunac,6-3 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
-19-Jul-1999,Scheveningen CH,3,Clay,R16,216,169,0,,6,Jiri Vanek,Sebastien De Chaunac,6-0 7-6(6),,,,,,,,,,,,,,,,,,,,,
-19-Jul-1999,Scheveningen CH,3,Clay,R32,216,218,1,,,Sebastien De Chaunac,Paulo Taicher,7-6(3) 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Contrexeville CH,3,Clay,R32,206,181,0,,,Olivier Malcor,Sebastien De Chaunac,2-6 6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
-5-Jul-1999,Oberstaufen CH,3,Clay,R32,205,196,0,,,Ota Fukarek,Sebastien De Chaunac,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,Montauban CH,3,Clay,R32,206,240,0,3,,Federico Browne,Sebastien De Chaunac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1999,Prague CH,3,Clay,R32,206,209,0,,,Ota Fukarek,Sebastien De Chaunac,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Prostejov CH,3,Clay,R16,232,154,0,Q,,Radek Stepanek,Sebastien De Chaunac,1-6 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Prostejov CH,3,Clay,R32,232,53,1,Q,3,Sebastien De Chaunac,Andrew Ilie,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Feb-1999,Punta Del Este CH,3,Clay,R32,296,210,0,,,Juan Ignacio Chela,Sebastien De Chaunac,6-3 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-28-Dec-1998,Mumbai CH,3,Hard,SF,UNR,UNR,0,Q,,Julien Boutter,Sebastien De Chaunac,6-7 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-28-Dec-1998,Mumbai CH,3,Hard,QF,UNR,UNR,1,Q,,Sebastien De Chaunac,Andrei Merinov,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-28-Dec-1998,Mumbai CH,3,Hard,R16,UNR,UNR,1,Q,,Sebastien De Chaunac,Kentaro Masuda,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-28-Dec-1998,Mumbai CH,3,Hard,R32,UNR,UNR,1,Q,,Sebastien De Chaunac,Noam Behr,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-21-Dec-1998,Ahmedabad CH,3,Hard,R32,371,230,0,Q,,Eyal Ran,Sebastien De Chaunac,6-3 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
-10-Aug-1998,Belo Horizonte CH,3,Hard,QF,290,202,0,,5,Jaime Oncins,Sebastien De Chaunac,6-3 1-0 RET,,,,,,,,,,,,,,,,,,,,,
-10-Aug-1998,Belo Horizonte CH,3,Hard,R16,290,376,1,,LL,Sebastien De Chaunac,Alexandre Simoni,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
-10-Aug-1998,Belo Horizonte CH,3,Hard,R32,290,212,1,,4,Sebastien De Chaunac,Maurice Ruah,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-3-Aug-1998,Gramado CH,3,Hard,R16,297,328,0,,,Ricardo Schlachter,Sebastien De Chaunac,7-6 6-7 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Aug-1998,Gramado CH,3,Hard,R32,297,210,1,,3,Sebastien De Chaunac,Maurice Ruah,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-13-Jul-1998,Contrexeville CH,3,Clay,R16,319,185,0,WC,WC,Arnaud Di Pasquale,Sebastien De Chaunac,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-13-Jul-1998,Contrexeville CH,3,Clay,R32,319,218,1,WC,,Sebastien De Chaunac,Charles Auffray,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-2-Feb-1998,West Bloomfield CH,3,Hard,SF,354,222,0,Q,,Grant Doyle,Sebastien De Chaunac,7-6 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-2-Feb-1998,West Bloomfield CH,3,Hard,QF,354,288,1,Q,LL,Sebastien De Chaunac,Laurence Tieleman,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-2-Feb-1998,West Bloomfield CH,3,Hard,R16,354,193,1,Q,,Sebastien De Chaunac,David Witt,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-2-Feb-1998,West Bloomfield CH,3,Hard,R32,354,504,1,Q,Q,Sebastien De Chaunac,Nelson Aerts,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-24-Nov-1997,Reunion Island CH,3,Hard,QF,384,441,0,,,Max Mirnyi,Sebastien De Chaunac,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Nov-1997,Reunion Island CH,3,Hard,R16,384,249,1,,,Sebastien De Chaunac,Patrik Fredriksson,7-5 4-6 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Nov-1997,Reunion Island CH,3,Hard,R32,384,219,1,,8,Sebastien De Chaunac,Jean Francois Bachelot,6-4 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-18-Aug-1997,Geneva CH,3,Clay,R32,440,113,0,Q,4,Alberto Martin,Sebastien De Chaunac,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+18-Jan-2010,Australian Open Q,3,Hard,Q1,139,185,0,18,,Ivan Dodig,Sebastien De Chaunac,6-4 6-2,0.75,2.0%,3.9%,51.0%,57.7%,48.0%,0/4,2.0%,3.9%,51.0%,57.7%,48.0%,0/4,0.75,2.0%,3.9%,51.0%,57.7%,48.0%,0/4,1:22
+11-Jan-2010,Sydney Q,3,Hard,Q1,141,69,0,,4,Frederico Gil,Sebastien De Chaunac,6-4 6-2,0.65,3.8%,5.7%,49.1%,53.8%,29.6%,4/10,3.8%,5.7%,49.1%,53.8%,29.6%,4/10,0.65,3.8%,5.7%,49.1%,53.8%,29.6%,4/10,1:22
+2-Nov-2009,Eckental CH,3,Carpet,SF,141,123,0,4,2,Daniel Brands,Sebastien De Chaunac,7-6(9) 6-1,0.80,11.9%,6.8%,54.2%,96.9%,37.0%,0/2,11.9%,6.8%,54.2%,96.9%,37.0%,0/2,0.80,11.9%,6.8%,54.2%,96.9%,37.0%,0/2,1:30
+2-Nov-2009,Eckental CH,3,Carpet,QF,141,228,1,4,,Sebastien De Chaunac,Alexander Peya,6-4 7-6(2),1.15,8.0%,8.0%,50.7%,81.6%,51.4%,2/3,8.0%,8.0%,50.7%,81.6%,51.4%,2/3,1.15,8.0%,8.0%,50.7%,81.6%,51.4%,2/3,1:46
+2-Nov-2009,Eckental CH,3,Carpet,R16,141,345,1,4,Q,Sebastien De Chaunac,Bastian Knittel,6-3 6-2,1.42,5.2%,3.4%,53.4%,80.6%,55.6%,3/3,5.2%,3.4%,53.4%,80.6%,55.6%,3/3,1.42,5.2%,3.4%,53.4%,80.6%,55.6%,3/3,1:15
+2-Nov-2009,Eckental CH,3,Carpet,R32,141,UNR,1,4,WC,Sebastien De Chaunac,Kevin Krawietz,6-3 7-6(0),1.40,19.2%,6.8%,53.4%,76.9%,61.8%,5/6,19.2%,6.8%,53.4%,76.9%,61.8%,5/6,1.40,19.2%,6.8%,53.4%,76.9%,61.8%,5/6,1:28
+26-Oct-2009,Lyon Q,3,Hard,Q2,140,675,0,3,,Jerome Haehnel,Sebastien De Chaunac,6-3 6-3,0.68,13.2%,5.7%,50.9%,88.9%,26.9%,6/9,13.2%,5.7%,50.9%,88.9%,26.9%,6/9,0.68,13.2%,5.7%,50.9%,88.9%,26.9%,6/9,1:13
+19-Oct-2009,Orleans CH,3,Hard,R16,144,141,0,,,Stephane Robert,Sebastien De Chaunac,6-2 7-6(3),0.77,7.8%,3.1%,56.3%,61.1%,28.6%,0/6,7.8%,3.1%,56.3%,61.1%,28.6%,0/6,0.77,7.8%,3.1%,56.3%,61.1%,28.6%,0/6,1:31
+19-Oct-2009,Orleans CH,3,Hard,R32,144,253,1,,LL,Sebastien De Chaunac,Vincent Millot,6-3 6-3,1.36,18.6%,1.7%,54.2%,75.0%,51.9%,2/3,18.6%,1.7%,54.2%,75.0%,51.9%,2/3,1.36,18.6%,1.7%,54.2%,75.0%,51.9%,2/3,1:15
+5-Oct-2009,Beijing Q,3,Hard,Q2,140,85,0,7,4,Florian Mayer,Sebastien De Chaunac,4-1 RET,0.73,5.9%,11.8%,47.1%,75.0%,22.2%,1/3,5.9%,11.8%,47.1%,75.0%,22.2%,1/3,0.73,5.9%,11.8%,47.1%,75.0%,22.2%,1/3,0:31
+5-Oct-2009,Beijing Q,3,Hard,Q1,140,396,1,7,WC,Sebastien De Chaunac,Shao Xuan Zeng,6-1 7-6(3),1.76,3.5%,0.0%,64.9%,83.8%,60.0%,1/2,3.5%,0.0%,64.9%,83.8%,60.0%,1/2,1.76,3.5%,0.0%,64.9%,83.8%,60.0%,1/2,1:28
+21-Sep-2009,Metz,3,Hard,R32,144,46,0,Q,8,Ivan Ljubicic,Sebastien De Chaunac,4-6 6-1 7-6(1),0.73,4.9%,2.0%,52.9%,68.5%,54.2%,8/10,4.9%,2.0%,52.9%,68.5%,54.2%,8/10,0.73,4.9%,2.0%,52.9%,68.5%,54.2%,8/10,2:22
+21-Sep-2009,Metz Q,3,Hard,Q3,144,247,1,3,7,Sebastien De Chaunac,Alex Bogdanovic,6-1 1-6 7-6(7),0.92,13.3%,2.9%,61.9%,75.4%,40.0%,7/9,13.3%,2.9%,61.9%,75.4%,40.0%,7/9,0.92,13.3%,2.9%,61.9%,75.4%,40.0%,7/9,2:19
+21-Sep-2009,Metz Q,3,Hard,Q2,144,471,1,3,,Sebastien De Chaunac,Thomas Oger,6-4 4-6 6-1,1.34,7.6%,3.8%,44.3%,77.1%,63.6%,2/4,7.6%,3.8%,44.3%,77.1%,63.6%,2/4,1.34,7.6%,3.8%,44.3%,77.1%,63.6%,2/4,1:46
+7-Sep-2009,St. Remy CH,3,Hard,QF,149,84,0,7,1,Bjorn Phau,Sebastien De Chaunac,7-6(1) 6-4,0.72,3.9%,7.9%,51.3%,61.5%,48.6%,3/6,3.9%,7.9%,51.3%,61.5%,48.6%,3/6,0.72,3.9%,7.9%,51.3%,61.5%,48.6%,3/6,1:37
+7-Sep-2009,St. Remy CH,3,Hard,R16,149,211,1,7,,Sebastien De Chaunac,Thierry Ascione,7-5 6-2,1.68,6.5%,8.1%,53.2%,87.9%,55.2%,4/4,6.5%,8.1%,53.2%,87.9%,55.2%,4/4,1.68,6.5%,8.1%,53.2%,87.9%,55.2%,4/4,1:36
+7-Sep-2009,St. Remy CH,3,Hard,R32,149,249,1,7,,Sebastien De Chaunac,Joshua Goodall,6-1 6-2,1.78,19.1%,6.4%,44.7%,76.2%,61.5%,3/4,19.1%,6.4%,44.7%,76.2%,61.5%,3/4,1.78,19.1%,6.4%,44.7%,76.2%,61.5%,3/4,1:13
+31-Aug-2009,US Open Q,3,Hard,Q2,149,231,0,23,,Marsel Ilhan,Sebastien De Chaunac,7-6(4) 7-6(6),0.86,4.9%,8.6%,40.7%,75.8%,45.8%,5/9,4.9%,8.6%,40.7%,75.8%,45.8%,5/9,0.86,4.9%,8.6%,40.7%,75.8%,45.8%,5/9,2:00
+31-Aug-2009,US Open Q,3,Hard,Q1,149,UNR,1,23,WC,Sebastien De Chaunac,Jordan Cox,6-1 6-2,2.09,11.4%,11.4%,52.3%,91.3%,57.1%,1/1,11.4%,11.4%,52.3%,91.3%,57.1%,1/1,2.09,11.4%,11.4%,52.3%,91.3%,57.1%,1/1,1:00
+10-Aug-2009,Canada Masters Q,3,Hard,Q2,155,86,0,,5,Jan Hernych,Sebastien De Chaunac,6-4 6-1,0.53,3.6%,10.7%,44.6%,56.0%,41.9%,3/7,3.6%,10.7%,44.6%,56.0%,41.9%,3/7,0.53,3.6%,10.7%,44.6%,56.0%,41.9%,3/7,1:14
+10-Aug-2009,Canada Masters Q,3,Hard,Q1,155,128,1,,13,Sebastien De Chaunac,Brendan Evans,6-4 5-7 6-4,1.27,6.8%,0.0%,48.9%,79.1%,57.8%,2/5,6.8%,0.0%,48.9%,79.1%,57.8%,2/5,1.27,6.8%,0.0%,48.9%,79.1%,57.8%,2/5,2:25
+2-Aug-2009,Washington,3,Hard,R16,181,80,0,Q,,John Isner,Sebastien De Chaunac,6-2 6-4,0.53,2.9%,7.1%,44.3%,80.6%,35.9%,1/4,2.9%,7.1%,44.3%,80.6%,35.9%,1/4,0.53,2.9%,7.1%,44.3%,80.6%,35.9%,1/4,1:20
+2-Aug-2009,Washington,3,Hard,R32,181,32,1,Q,14,Sebastien De Chaunac,Dmitry Tursunov,3-6 7-6(3) 7-5,1.00,4.9%,4.1%,50.0%,63.9%,45.9%,6/13,4.9%,4.1%,50.0%,63.9%,45.9%,6/13,1.00,4.9%,4.1%,50.0%,63.9%,45.9%,6/13,2:40
+2-Aug-2009,Washington,3,Hard,R64,181,67,1,Q,,Sebastien De Chaunac,Denis Istomin,6-3 7-6(7),1.12,16.0%,4.3%,52.1%,77.6%,35.6%,8/12,16.0%,4.3%,52.1%,77.6%,35.6%,8/12,1.12,16.0%,4.3%,52.1%,77.6%,35.6%,8/12,2:00
+2-Aug-2009,Washington Q,3,Hard,Q2,181,125,1,10,5,Sebastien De Chaunac,Brendan Evans,4-6 7-6(3) 7-6(4),1.29,10.9%,4.0%,55.4%,82.1%,64.4%,4/6,10.9%,4.0%,55.4%,82.1%,64.4%,4/6,1.29,10.9%,4.0%,55.4%,82.1%,64.4%,4/6,2:36
+2-Aug-2009,Washington Q,3,Hard,Q1,181,UNR,1,10,WC,Sebastien De Chaunac,Denis Kudla,6-3 4-6 6-2,1.29,9.5%,5.4%,41.9%,74.2%,53.5%,3/6,9.5%,5.4%,41.9%,74.2%,53.5%,3/6,1.29,9.5%,5.4%,41.9%,74.2%,53.5%,3/6,1:42
+27-Jul-2009,Los Angeles Q,3,Hard,Q1,168,110,0,,1,Josselin Ouanna,Sebastien De Chaunac,6-4 6-4,0.84,12.1%,8.6%,37.9%,77.3%,41.7%,4/8,12.1%,8.6%,37.9%,77.3%,41.7%,4/8,0.84,12.1%,8.6%,37.9%,77.3%,41.7%,4/8,1:28
+19-Jul-2009,Indianapolis,3,Hard,R32,177,95,0,Q,,Robby Ginepri,Sebastien De Chaunac,7-5 5-7 6-2,0.86,7.9%,4.5%,50.6%,80.0%,50.0%,4/8,7.9%,4.5%,50.6%,80.0%,50.0%,4/8,0.86,7.9%,4.5%,50.6%,80.0%,50.0%,4/8,1:55
+19-Jul-2009,Indianapolis Q,3,Hard,Q3,177,237,1,4,8,Sebastien De Chaunac,Todd Widom,6-1 6-3,1.67,13.5%,1.9%,59.6%,83.9%,42.9%,1/1,13.5%,1.9%,59.6%,83.9%,42.9%,1/1,1.67,13.5%,1.9%,59.6%,83.9%,42.9%,1/1,1:15
+19-Jul-2009,Indianapolis Q,3,Hard,Q2,177,UNR,1,4,,Sebastien De Chaunac,Jeff Tarango,6-3 6-4,1.54,16.1%,5.4%,51.8%,89.7%,55.6%,4/5,16.1%,5.4%,51.8%,89.7%,55.6%,4/5,1.54,16.1%,5.4%,51.8%,89.7%,55.6%,4/5,1:06
+22-Jun-2009,Wimbledon Q,3,Grass,Q3,193,178,0,,,Alejandro Falla,Sebastien De Chaunac,6-4 6-4 6-4,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,-,-,-,-,-,-,0/0,1:51
+22-Jun-2009,Wimbledon Q,3,Grass,Q2,193,114,1,,7,Sebastien De Chaunac,Ilija Bozoljac,6-3 7-6(3),-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,-,-,-,-,-,-,0/0,1:33
+22-Jun-2009,Wimbledon Q,3,Grass,Q1,193,254,1,,,Sebastien De Chaunac,Fernando Vicente,6-3 6-1,-,-,-,-,-,-,0/0,-,-,-,-,-,0/0,-,-,-,-,-,-,0/0,1:24

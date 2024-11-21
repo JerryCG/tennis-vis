@@ -1,12 +1,12 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-24-Jul-2000,Los Angeles,3,Hard,R32,263,23,0,Q,4,Michael Chang,Paul Kilderry,6-4 6-2,0.67,5.0%,5.0%,41.7%,72.0%,34.3%,8/12,41.5%,33.3%,3.2%,25.9%,38.9%,1/9,123,3,3,60,25,35,2,1:30
-26-Jun-2000,Wimbledon,5,Grass,R128,297,72,0,Q,,Magnus Gustafsson,Paul Kilderry,6-4 6-2 6-4,0.73,4.8%,7.2%,57.8%,66.7%,40.0%,4/9,42.9%,32.3%,10.1%,31.3%,34.3%,1/12,182,4,6,83,48,35,10,1:44
+24-Jul-2000,Los Angeles,3,Hard,R32,263,23,0,Q,4,Michael Chang,Paul Kilderry,6-4 6-2,0.67,5.0%,5.0%,41.7%,72.0%,34.3%,8/12,5.0%,5.0%,41.7%,72.0%,34.3%,8/12,0.67,5.0%,5.0%,41.7%,72.0%,34.3%,8/12,1:30
+26-Jun-2000,Wimbledon,5,Grass,R128,297,72,0,Q,,Magnus Gustafsson,Paul Kilderry,6-4 6-2 6-4,0.73,4.8%,7.2%,57.8%,66.7%,40.0%,4/9,4.8%,7.2%,57.8%,66.7%,40.0%,4/9,0.73,4.8%,7.2%,57.8%,66.7%,40.0%,4/9,1:44
 15-May-2000,Armonk CH,3,Clay,R32,297,537,0,,WC,David Wheaton,Paul Kilderry,6-1 2-6 7-6(3),,,,,,,,,,,,,,,,,,,,,
 24-Apr-2000,Bermuda CH,3,Clay,R32,299,116,0,WC,,Michal Tabara,Paul Kilderry,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
 20-Mar-2000,Hamilton CH,3,Hard,R32,299,301,0,8,,Michael Joyce,Paul Kilderry,6-3 6-7(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2000,Kyoto CH,3,Carpet,R16,310,754,0,,Q,Kentaro Masuda,Paul Kilderry,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Mar-2000,Kyoto CH,3,Carpet,R32,310,163,1,,3,Paul Kilderry,Lars Burgsmuller,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Jan-2000,Chennai,3,Hard,R32,339,114,0,WC,,Orlin Stanoytchev,Paul Kilderry,6-4 7-6(4),0.95,10.6%,10.6%,39.4%,65.4%,60.0%,0/3,47.7%,36.1%,2.4%,19.5%,52.4%,2/7,149,7,7,66,26,40,2,1:36
+3-Jan-2000,Chennai,3,Hard,R32,339,114,0,WC,,Orlin Stanoytchev,Paul Kilderry,6-4 7-6(4),0.95,10.6%,10.6%,39.4%,65.4%,60.0%,0/3,10.6%,10.6%,39.4%,65.4%,60.0%,0/3,0.95,10.6%,10.6%,39.4%,65.4%,60.0%,0/3,1:36
 6-Dec-1999,Perth CH,3,Hard,F,515,225,1,,1,Paul Kilderry,Dejan Petrovic,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Dec-1999,Perth CH,3,Hard,SF,515,750,1,,,Paul Kilderry,Mark Hlawaty,6-3 6-7(7) 6-4,,,,,,,,,,,,,,,,,,,,,
 6-Dec-1999,Perth CH,3,Hard,QF,515,255,1,,2,Paul Kilderry,Mark Nielsen,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -15,101 +15,3 @@
 2-Aug-1999,Lexington CH,3,Hard,QF,UNR,325,0,Q,Q,Louis Vosloo,Paul Kilderry,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Aug-1999,Lexington CH,3,Hard,R16,UNR,179,1,Q,4,Paul Kilderry,Michael Tebbutt,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Aug-1999,Lexington CH,3,Hard,R32,UNR,291,1,Q,,Paul Kilderry,Miles Maclagan,4-6 6-2 7-6(6),,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,Bermuda CH,3,Clay,R32,UNR,103,0,WC,3,Hernan Gumy,Paul Kilderry,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Dec-1998,Perth CH,3,Hard,R32,602,152,0,,2,Wayne Arthurs,Paul Kilderry,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Dec-1997,Perth CH,3,Hard,SF,568,512,0,WC,Q,Wayne Arthurs,Paul Kilderry,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
-8-Dec-1997,Perth CH,3,Hard,QF,568,415,1,WC,,Paul Kilderry,Teo Susnjak,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Dec-1997,Perth CH,3,Hard,R16,568,177,1,WC,3,Paul Kilderry,Peter Tramacchi,6-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Dec-1997,Perth CH,3,Hard,R32,568,270,1,WC,,Paul Kilderry,Steven Randjelovic,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Apr-1996,West Bloomfield CH,3,Hard,QF,402,213,0,,,Sargis Sargsian,Paul Kilderry,6-2 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Apr-1996,West Bloomfield CH,3,Hard,R16,402,143,1,,3,Paul Kilderry,Jonathan Stark,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-1-Apr-1996,West Bloomfield CH,3,Hard,R32,402,UNR,1,,WC,Paul Kilderry,Peter Pusztai,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Mar-1996,Indian Wells CH,3,Hard,QF,237,148,0,LL,,Andrei Cherkasov,Paul Kilderry,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Mar-1996,Indian Wells CH,3,Hard,R16,237,134,1,LL,,Paul Kilderry,Oscar Martinez,6-7 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Mar-1996,Indian Wells CH,3,Hard,R32,237,558,1,LL,WC,Paul Kilderry,Jan Michael Gambill,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Jan-1996,Australian Open,5,Hard,R128,227,73,0,WC,,Jeff Tarango,Paul Kilderry,6-2 6-2 6-4,0.59,4.1%,2.1%,57.7%,64.3%,43.9%,6/11,41.3%,26.1%,8.7%,16.7%,39.5%,0/1,189,4,2,97,56,41,8,0:02
-8-Jan-1996,Sydney Outdoor,3,Hard,R32,245,150,0,Q,Q,Carsten Arriens,Paul Kilderry,6-1 6-4,0.71,2.0%,2.0%,55.1%,59.3%,54.5%,5/8,42.9%,30.4%,7.1%,21.7%,36.4%,0/0,105,1,1,49,27,22,4,1:06
-11-Dec-1995,Perth CH,3,Hard,R16,223,312,0,8,,Steven Downs,Paul Kilderry,7-6 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Dec-1995,Perth CH,3,Hard,R32,223,323,1,8,,Paul Kilderry,Jamie Holmes,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Oct-1995,Beijing,3,Carpet,R32,218,91,0,,6,Scott Draper,Paul Kilderry,6-3 6-4,0.81,8.0%,2.0%,56.0%,82.1%,40.9%,0/2,44.3%,29.2%,12.3%,18.4%,44.4%,0/3,115,4,1,50,28,22,8,1:06
-31-Jul-1995,Los Angeles,3,Hard,R32,171,48,0,,,Patrick Rafter,Paul Kilderry,6-3 5-7 6-4,0.93,4.5%,6.8%,60.2%,67.9%,48.6%,3/8,48.3%,37.0%,8.7%,29.8%,48.6%,4/6,180,4,6,88,53,35,8,2:01
-10-Jul-1995,Newport,3,Grass,R32,162,159,0,,,Laurence Tieleman,Paul Kilderry,6-2 3-6 7-5,0.79,12.8%,8.1%,47.7%,85.4%,40.0%,1/4,45.9%,30.2%,15.1%,16.7%,43.2%,2/5,172,11,7,86,41,45,13,1:34
-5-Jun-1995,Annenheim CH,3,Grass,R16,164,55,0,,1,Martin Damm,Paul Kilderry,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-1995,Annenheim CH,3,Grass,R32,164,397,1,,Q,Paul Kilderry,Gabriel Trifu,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-15-May-1995,Dresden CH,3,Clay,R32,159,114,0,,7,Nuno Marques,Paul Kilderry,6-2 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
-8-May-1995,Ljubljana CH,3,Clay,R32,163,327,0,,Q,Tom Vanhoudt,Paul Kilderry,6-4 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
-1-May-1995,Malta CH,3,Hard,R32,153,389,0,6,Q,Reinhard Wawra,Paul Kilderry,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Apr-1995,Nagoya CH,3,Hard,R32,138,235,0,7,,Grant Doyle,Paul Kilderry,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Apr-1995,Tokyo Outdoor,3,Hard,R64,145,76,0,Q,14,Greg Rusedski,Paul Kilderry,6-3 6-3,0.51,2.0%,2.0%,48.0%,70.8%,50.0%,3/6,40.4%,20.4%,18.4%,14.7%,33.3%,0/3,99,1,1,50,24,26,9,0:56
-13-Mar-1995,Miami Masters,3,Hard,R16,194,16,0,Q,12,Magnus Larsson,Paul Kilderry,6-3 7-6(6),0.74,4.2%,4.2%,61.1%,70.5%,50.0%,1/3,46.0%,27.7%,12.3%,20.5%,38.5%,0/1,137,3,3,72,44,28,8,1:18
-13-Mar-1995,Miami Masters,3,Hard,R32,194,35,1,Q,27,Paul Kilderry,Aaron Krickstein,6-2 6-2,2.33,16.7%,2.4%,52.4%,90.9%,65.0%,2/2,62.5%,50.0%,7.4%,45.5%,57.1%,4/7,96,7,1,42,22,20,4,0:54
-13-Mar-1995,Miami Masters,3,Hard,R64,194,10,1,Q,6,Paul Kilderry,Richard Krajicek,6-3 3-6 6-2,1.78,1.6%,1.6%,59.4%,81.6%,76.9%,3/4,56.6%,36.1%,11.1%,33.3%,38.5%,3/5,136,1,1,64,38,26,8,1:20
-13-Mar-1995,Miami Masters,3,Hard,R128,194,200,1,Q,Q,Paul Kilderry,Kenny Thorne,6-4 7-5,1.21,1.3%,11.3%,52.5%,71.4%,52.6%,5/7,54.1%,45.5%,2.6%,34.1%,60.6%,4/10,157,1,9,80,42,38,2,1:30
-6-Mar-1995,Garmisch CH,3,Hard,R16,197,49,0,,1,Martin Damm,Paul Kilderry,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-6-Mar-1995,Garmisch CH,3,Hard,R32,197,284,1,,,Paul Kilderry,Maurice Ruah,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Feb-1995,Hamburg CH,3,Carpet,QF,207,96,0,,1,David Prinosil,Paul Kilderry,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Feb-1995,Hamburg CH,3,Carpet,R16,207,205,1,,,Paul Kilderry,Thomas Gollwitzer,7-5 3-6 7-5,,,,,,,,,,,,,,,,,,,,,
-27-Feb-1995,Hamburg CH,3,Carpet,R32,207,289,1,,LL,Paul Kilderry,Christian Saceanu,7-5 6-7 6-4,,,,,,,,,,,,,,,,,,,,,
-16-Jan-1995,Australian Open,5,Hard,R128,187,6,0,WC,5,Michael Chang,Paul Kilderry,6-2 6-4 5-7 6-2,0.80,0.7%,4.4%,61.8%,58.3%,25.0%,7/17,44.7%,43.7%,2.4%,29.6%,68.9%,6/13,262,1,6,136,84,52,3,2:36
-12-Dec-1994,Adelaide CH,3,Grass,R16,191,349,0,3,,Mark Philippoussis,Paul Kilderry,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
-12-Dec-1994,Adelaide CH,3,Grass,R32,191,280,1,3,,Paul Kilderry,Danny Sapsford,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Perth CH,3,Grass,SF,201,245,0,4,,Jan Kroslak,Paul Kilderry,6-0 7-5,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Perth CH,3,Grass,QF,201,211,1,4,5,Paul Kilderry,Dick Norman,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Perth CH,3,Grass,R16,201,368,1,4,,Paul Kilderry,Andrew Ilie,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Perth CH,3,Grass,R32,201,358,1,4,,Paul Kilderry,Allen Belobrajdic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Oct-1994,Tokyo Indoor,3,Carpet,R16,230,34,0,Q,10,Jacco Eltingh,Paul Kilderry,4-6 7-5 7-6(5),0.87,5.5%,0.0%,64.5%,67.6%,56.4%,5/8,48.1%,31.7%,15.4%,13.8%,61.5%,3/6,214,6,0,110,71,39,16,2:02
-10-Oct-1994,Tokyo Indoor,3,Carpet,R32,230,22,1,Q,7,Paul Kilderry,Patrick Rafter,6-3 6-2,1.54,3.4%,0.0%,55.2%,71.9%,73.1%,5/5,58.0%,42.6%,14.8%,24.0%,58.6%,3/8,112,2,0,58,32,26,8,1:05
-10-Oct-1994,Tokyo Indoor,3,Carpet,R64,230,122,1,Q,,Paul Kilderry,Steve Bryan,1-6 7-6(3) 6-3,0.96,14.4%,1.8%,60.4%,67.2%,47.7%,8/13,50.2%,38.9%,3.3%,40.6%,33.3%,3/6,201,16,2,111,67,44,3,1:49
-19-Sep-1994,Singapore CH,3,Hard,R16,242,180,0,Q,,Tommy Ho,Paul Kilderry,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-19-Sep-1994,Singapore CH,3,Hard,R32,242,354,1,Q,WC,Paul Kilderry,Todd Nelson,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-29-Aug-1994,US Open,5,Hard,R128,242,136,0,Q,Q,Todd Woodbridge,Paul Kilderry,6-2 7-5 6-2,0.73,1.9%,7.7%,54.8%,63.2%,29.8%,8/15,42.9%,38.0%,2.8%,25.0%,60.0%,2/9,212,2,8,104,57,47,3,0:03
-15-Aug-1994,Indianapolis,3,Hard,R64,239,111,0,LL,,Mauricio Hadad,Paul Kilderry,7-6(4) 7-5,0.82,3.5%,3.5%,50.0%,62.8%,46.5%,8/12,46.5%,37.0%,1.4%,38.8%,33.3%,3/7,159,3,3,86,43,43,1,1:35
-8-Aug-1994,Binghamton CH,3,Hard,R32,232,220,0,,,Mark Knowles,Paul Kilderry,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-1-Aug-1994,Cincinnati CH,3,Hard,R32,233,145,0,,7,Todd Woodbridge,Paul Kilderry,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-25-Jul-1994,Winnetka CH,3,Hard,R32,231,202,0,,,Wade Mcguire,Paul Kilderry,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
-18-Jul-1994,Washington,3,Hard,R64,230,47,0,Q,14,Jason Stoltenberg,Paul Kilderry,6-2 7-6(5),0.85,1.4%,1.4%,63.9%,60.9%,50.0%,7/10,46.6%,36.5%,5.4%,32.6%,41.9%,1/5,146,1,1,72,46,26,4,1:32
-2-May-1994,Manila CH,3,Hard,QF,155,245,0,,Q,Leander Paes,Paul Kilderry,1-5 RET,,,,,,,,,,,,,,,,,,,,,
-2-May-1994,Manila CH,3,Hard,R16,155,161,1,,,Paul Kilderry,Mark Kaplan,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-2-May-1994,Manila CH,3,Hard,R32,155,335,1,,LL,Paul Kilderry,Marius Barnard,3-6 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-25-Apr-1994,Taipei CH,3,Hard,SF,179,127,0,,6,Gianluca Pozzi,Paul Kilderry,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-25-Apr-1994,Taipei CH,3,Hard,QF,179,166,1,,,Paul Kilderry,Albert Chang,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-25-Apr-1994,Taipei CH,3,Hard,R16,179,791,1,,WC,Paul Kilderry,Yu Hui Lien,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-25-Apr-1994,Taipei CH,3,Hard,R32,179,134,1,,8,Paul Kilderry,Sebastien Lareau,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-18-Apr-1994,Seoul,3,Hard,R16,193,78,0,,3,Brett Steven,Paul Kilderry,7-6(4) 4-6 6-2,0.96,2.1%,4.2%,57.9%,70.9%,55.0%,2/5,48.7%,34.3%,2.0%,29.3%,40.9%,2/7,197,2,4,95,55,40,2,2:17
-18-Apr-1994,Seoul,3,Hard,R32,193,194,1,,Q,Paul Kilderry,Louis Gloria,2-6 6-4 7-6(2),0.90,0.8%,8.5%,51.7%,70.5%,31.6%,7/14,48.3%,43.7%,5.7%,35.5%,64.0%,6/9,205,1,10,118,61,57,5,2:15
-28-Mar-1994,San Luis Potosi CH,3,Clay,R32,181,147,0,,3,Jaime Oncins,Paul Kilderry,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Feb-1994,Garmisch CH,3,Carpet,R32,183,121,0,,4,Alexander Mronz,Paul Kilderry,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-14-Feb-1994,Cherbourg CH,3,Carpet,R16,187,288,0,,,Thierry Guardiola,Paul Kilderry,6-1 7-5,,,,,,,,,,,,,,,,,,,,,
-14-Feb-1994,Cherbourg CH,3,Carpet,R32,187,142,1,,7,Paul Kilderry,Dimitri Poliakov,6-2 0-6 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Feb-1994,Wolfsburg CH,3,Carpet,QF,196,156,0,,2,Alexander Mronz,Paul Kilderry,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-7-Feb-1994,Wolfsburg CH,3,Carpet,R16,196,172,1,,8,Paul Kilderry,Massimo Valeri,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Feb-1994,Wolfsburg CH,3,Carpet,R32,196,214,1,,,Paul Kilderry,Sasa Hirszon,6-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-31-Jan-1994,Lippstadt CH,3,Carpet,R16,197,578,0,,WC,Christian Vinck,Paul Kilderry,6-3 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-31-Jan-1994,Lippstadt CH,3,Carpet,R32,197,193,1,,,Paul Kilderry,Michael Geserer,4-6 7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Jan-1994,Australian Open,5,Hard,R128,202,143,0,WC,,Alexander Mronz,Paul Kilderry,6-1 6-2 6-4,0.60,0.0%,4.3%,61.7%,55.2%,33.3%,16/23,39.5%,31.9%,7.7%,11.5%,59.0%,1/10,185,0,4,94,58,36,7,0:05
-13-Dec-1993,Launceston CH,3,Carpet,R32,198,264,0,8,,Heath Denman,Paul Kilderry,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1993,Adelaide CH,3,Grass,R16,205,421,0,,,Kent Kinnear,Paul Kilderry,6-2 3-6 7-6,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1993,Adelaide CH,3,Grass,R32,205,185,1,,4,Paul Kilderry,Arne Thoms,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1993,Perth CH,3,Grass,R32,205,63,0,,1,Jamie Morgan,Paul Kilderry,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Oct-1993,Ponte Vedra CH,3,Hard,R16,221,199,0,WC,WC,Roger Smith,Paul Kilderry,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Oct-1993,Ponte Vedra CH,3,Hard,R32,221,153,1,WC,,Paul Kilderry,Filip Dewulf,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-4-Oct-1993,Calgary CH,3,Hard,R32,216,253,0,5,,Mark Kaplan,Paul Kilderry,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Sep-1993,Azores CH,3,Hard,R16,221,86,0,,2,Rodolphe Gilbert,Paul Kilderry,6-4 3-6 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Sep-1993,Azores CH,3,Hard,R32,221,382,1,,WC,Paul Kilderry,Emanuel Couto,7-6 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1993,Bronx CH,3,Hard,R16,220,208,0,,,Leander Paes,Paul Kilderry,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1993,Bronx CH,3,Hard,R32,220,160,1,,3,Paul Kilderry,Maurice Ruah,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1993,Liege CH,3,Clay,R16,215,208,0,,,Jozsef Krocsko,Paul Kilderry,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1993,Liege CH,3,Clay,R32,215,247,1,,,Paul Kilderry,Francesco Michelotti,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1993,Wimbledon,5,Grass,R64,221,108,0,Q,,Byron Black,Paul Kilderry,7-5 6-0 6-3,0.54,3.8%,5.8%,64.4%,62.7%,24.3%,4/11,39.8%,27.3%,6.5%,14.0%,51.9%,1/1,181,4,6,104,67,37,5,0:05
-21-Jun-1993,Wimbledon,5,Grass,R128,221,113,1,Q,,Paul Kilderry,Tommy Ho,4-6 6-3 6-4 6-2,1.37,7.0%,2.8%,58.5%,75.9%,52.5%,10/12,56.6%,46.2%,1.5%,27.9%,62.3%,5/11,272,10,4,142,83,59,2,0:17
-7-Jun-1993,Rosmalen,3,Grass,R16,247,23,0,Q,7,Wally Masur,Paul Kilderry,6-3 6-2,0.39,0.0%,7.8%,51.0%,61.5%,44.0%,3/6,36.8%,18.2%,9.1%,11.5%,27.8%,0/0,95,0,4,51,26,25,4,1:01
-7-Jun-1993,Rosmalen,3,Grass,R32,247,169,1,Q,WC,Paul Kilderry,Michiel Schapers,6-1 5-7 7-6(4),1.07,0.0%,8.0%,54.0%,67.2%,48.1%,5/9,51.6%,44.4%,4.6%,32.3%,62.8%,5/12,221,0,9,113,61,52,5,2:22
-30-Nov-1992,Perth CH,3,Hard,R32,304,385,0,,LL,Albert Chang,Paul Kilderry,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
-16-Nov-1992,Kuala Lumpur2 CH,3,Hard,R32,334,290,0,Q,,Louis Gloria,Paul Kilderry,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-2-Nov-1992,Manila CH,3,Hard,R32,337,188,0,,5,Filip Dewulf,Paul Kilderry,4-6 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Oct-1992,Ponte Vedra CH,3,Hard,R32,304,199,0,LL,Q,Peter Lundgren,Paul Kilderry,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Sep-1992,Palermo,3,Clay,R32,310,42,0,WC,,Guillermo Perez Roldan,Paul Kilderry,6-3 6-2,0.69,4.5%,0.0%,56.8%,68.0%,47.4%,0/3,42.3%,28.3%,1.9%,32.1%,24.0%,0/1,97,2,0,44,25,19,1,1:10
-17-Aug-1992,New Haven,3,Hard,R64,322,57,0,Q,,Gianluca Pozzi,Paul Kilderry,2-6 6-2 6-2,0.71,0.0%,4.2%,66.7%,56.3%,58.3%,1/5,44.5%,30.8%,4.6%,20.0%,37.5%,2/3,137,0,3,72,48,24,3,1:34
-9-Aug-1992,New Haven CH,3,Hard,QF,402,174,0,Q,,Jamie Morgan,Paul Kilderry,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1992,New Haven CH,3,Hard,R16,402,213,1,Q,WC,Paul Kilderry,Alex Obrien,7-5 2-2 RET,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1992,New Haven CH,3,Hard,R32,402,155,1,Q,8,Paul Kilderry,Steve Bryan,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
