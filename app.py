@@ -32,7 +32,7 @@ app.layout = html.Div([
             ]
             ),
             html.Div(
-                "Last Update: 2025-03-03", style = {'font-size': '20px', 'font-style': 'italic'}
+                "Last Update: 2025-03-17", style = {'font-size': '20px', 'font-style': 'italic'}
             ),
         ], style = {'text-align': 'center'}
     ),
