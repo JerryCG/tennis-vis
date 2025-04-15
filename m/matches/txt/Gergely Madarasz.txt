@@ -1,4 +1,23 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+24-Mar-2025,M15 Opatija,3,Clay,R16,792,887,0,,,Josip Simundza,Gergely Madarasz,3-6 6-3 6-3,1.01,2.5%,0.0%,79.0%,62.5%,47.1%,7/12,49.4%,41.2%,1.0%,31.1%,58.3%,4/8,178,2,0,81,64,17,1,2:16
+24-Mar-2025,M15 Opatija,3,Clay,R32,792,605,1,,,Gergely Madarasz,Dusan Obradovic,3-6 6-4 6-2,0.96,2.9%,4.3%,58.6%,48.8%,41.4%,2/9,49.4%,52.3%,2.3%,46.0%,68.0%,9/16,158,2,3,70,41,29,2,1:47
+17-Mar-2025,M15 Rovinj,3,Clay,QF,792,445,0,,,Stefan Popovic,Gergely Madarasz,6-3 6-4,0.71,3.1%,3.1%,73.8%,54.2%,47.1%,4/8,44.1%,34.0%,1.9%,33.3%,40.0%,2/2,118,2,2,65,48,17,1,1:20
+17-Mar-2025,M15 Rovinj,3,Clay,R16,792,1739,1,,,Gergely Madarasz,Alessandro Battiston,6-4 6-2,1.59,0.0%,0.0%,80.8%,73.8%,60.0%,0/1,57.7%,45.8%,1.7%,25.9%,62.5%,4/6,111,0,0,52,42,10,1,1:23
+17-Mar-2025,M15 Rovinj,3,Clay,R32,792,,1,,,Gergely Madarasz,Karlo Kajin,7-6(2) 6-3,1.26,4.2%,4.2%,69.0%,69.4%,36.4%,1/4,55.1%,51.3%,1.3%,37.0%,73.3%,4/10,147,3,3,71,49,22,1,1:53
+10-Mar-2025,M15 Porec,3,Clay,R32,713,,0,,,Nemanja Malesevic,Gergely Madarasz,6-3 6-3,0.74,4.7%,0.0%,67.2%,55.8%,47.6%,9/12,44.3%,34.5%,3.4%,30.2%,46.7%,1/3,122,3,0,64,43,21,2,1:35
+11-Nov-2024,M15 San Gregorio di Catania,3,Clay,R32,671,,0,,,Jacopo Vasami,Gergely Madarasz,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 San Gregorio di Catania,3,Clay,R16,669,433,0,,5,Gabriele Pennaforti,Gergely Madarasz,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 San Gregorio di Catania,3,Clay,R32,669,775,1,,,Gergely Madarasz,Franco Emanuel Egea,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Tsaghkadzor,3,Clay,F,786,385,0,6,1,Nicholas David Ionel,Gergely Madarasz,6-7(13) 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Tsaghkadzor,3,Clay,SF,786,1085,1,6,,Gergely Madarasz,Artur Kukasian,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Tsaghkadzor,3,Clay,QF,786,616,1,6,2,Gergely Madarasz,Juan Pablo Paz,1-6 6-4 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Tsaghkadzor,3,Clay,R16,786,,1,6,WC,Gergely Madarasz,Artem Bogomolov,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Tsaghkadzor,3,Clay,R32,786,1927,1,6,Q,Gergely Madarasz,Federico Valle,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,F,783,606,0,5,2,Juan Pablo Paz,Gergely Madarasz,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,SF,783,1236,1,5,LL,Gergely Madarasz,Martin Van Der Meerschen,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,QF,783,1023,1,5,,Gergely Madarasz,Artur Kukasian,4-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,R16,783,1933,1,5,Q,Gergely Madarasz,Federico Valle,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M15 Tsaghkadzor,3,Clay,R32,783,,1,5,,Gergely Madarasz,Ivan Iutkin,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2024,M15 Pardubice,3,Clay,R16,793,661,0,,6,Milos Karol,Gergely Madarasz,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Sep-2024,M15 Pardubice,3,Clay,R32,793,915,1,,,Gergely Madarasz,Tomas Lanik,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 2-Sep-2024,M15 Pirot,3,Clay,R16,820,2005,0,7,,Nikola Djosic,Gergely Madarasz,6-3 6-3,,,,,,,,,,,,,,,,,,,,,

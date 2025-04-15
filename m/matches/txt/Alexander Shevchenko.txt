@@ -1,4 +1,24 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Apr-2025,Munich,3,Clay,Q2,104,410,0,,PR,Borna Gojo,Alexander Shevchenko,6-4 6-4,0.79,7.2%,0.0%,60.9%,50.0%,59.3%,5/9,45.7%,36.7%,11.7%,27.5%,55.0%,2/2,129,5,0,69,42,27,7,1:26
+14-Apr-2025,Munich,3,Clay,Q1,104,85,1,,6,Alexander Shevchenko,Rinky Hijikata,6-4 1-6 6-3,1.13,11.0%,0.0%,67.1%,67.3%,54.2%,0/3,50.9%,41.8%,1.0%,36.4%,48.8%,3/12,171,8,0,73,49,24,1,1:59
+7-Apr-2025,Madrid CH,3,Clay,R16,106,397,0,4,Q,Norbert Gombos,Alexander Shevchenko,7-6(4) 7-5,0.93,5.6%,0.0%,62.0%,72.7%,66.7%,5/7,48.3%,27.6%,5.3%,19.1%,41.4%,1/2,147,4,0,71,44,27,4,1:48
+7-Apr-2025,Madrid CH,3,Clay,R32,106,120,1,4,,Alexander Shevchenko,Tristan Boyer,7-5 6-3,1.14,5.6%,4.2%,70.8%,68.6%,38.1%,2/4,52.7%,46.1%,3.9%,40.9%,53.1%,5/13,148,4,3,72,51,21,3,1:42
+31-Mar-2025,Bucharest,3,Clay,R32,105,232,0,,Q,Filip Misolic,Alexander Shevchenko,6-3 6-4,0.75,1.9%,1.9%,63.0%,64.7%,40.0%,0/4,43.9%,33.3%,1.7%,27.9%,47.1%,2/6,114,1,1,54,34,20,1,1:16
+24-Mar-2025,Girona CH,3,Clay,R32,98,207,0,2,Alt,Benjamin Hassan,Alexander Shevchenko,6-4 1-6 6-4,1.14,0.0%,3.5%,62.8%,66.7%,53.1%,7/11,52.2%,43.6%,3.2%,43.4%,43.9%,4/7,180,0,3,86,54,32,3,1:52
+19-Mar-2025,Miami Masters,3,Hard,Q2,98,117,0,10,,Thiago Agustin Tirante,Alexander Shevchenko,6-3 6-3,0.57,6.9%,8.6%,51.7%,66.7%,46.4%,1/4,41.4%,24.5%,11.3%,21.4%,28.0%,0/2,111,4,5,58,30,28,6,1:13
+19-Mar-2025,Miami Masters,3,Hard,Q1,98,166,1,10,,Alexander Shevchenko,Lukas Klein,6-3 7-6(5),1.13,5.4%,0.0%,75.7%,67.9%,44.4%,3/5,52.3%,42.7%,4.0%,29.8%,64.3%,4/14,149,4,0,74,56,18,3,1:31
+11-Mar-2025,Phoenix CH,3,Hard,R32,98,261,0,Alt,WC,Colton Smith,Alexander Shevchenko,6-1 7-5,0.48,1.6%,1.6%,74.6%,55.3%,37.5%,6/11,40.0%,23.8%,7.1%,15.4%,37.5%,1/1,105,1,1,63,47,16,3,1:05
+5-Mar-2025,Indian Wells Masters,3,Hard,R128,98,83,0,,,Rinky Hijikata,Alexander Shevchenko,6-1 6-3,0.74,0.0%,9.4%,66.0%,45.7%,38.9%,3/9,42.6%,41.7%,2.1%,37.1%,53.8%,2/4,101,0,5,53,35,18,1,1:04
+24-Feb-2025,Santiago,3,Clay,R32,95,64,0,,6,Mariano Navone,Alexander Shevchenko,6-2 6-2,0.59,4.4%,2.2%,68.9%,61.3%,14.3%,2/7,38.7%,31.3%,0.0%,25.8%,41.2%,1/3,93,2,1,45,31,14,0,1:06
+17-Feb-2025,Rio de Janeiro,3,Clay,R16,103,2,0,,1,Alexander Zverev,Alexander Shevchenko,7-6(1) 7-6(6),0.74,4.3%,6.1%,59.1%,66.2%,38.3%,9/12,46.1%,33.3%,7.7%,33.3%,33.3%,3/5,193,5,7,115,68,47,6,2:28
+17-Feb-2025,Rio de Janeiro,3,Clay,R32,103,149,1,,WC,Alexander Shevchenko,Felipe Meligeni Alves,6-4 6-2,1.37,16.7%,1.7%,63.3%,57.9%,59.1%,4/7,57.6%,56.9%,5.2%,45.7%,73.9%,6/15,118,10,1,60,38,22,3,1:25
+10-Feb-2025,Delray Beach,3,Hard,R32,88,328,0,,Q,Michael Mmoh,Alexander Shevchenko,7-5 7-6(5),0.90,3.8%,3.8%,53.2%,78.6%,35.1%,3/7,47.8%,37.5%,6.3%,32.7%,48.0%,3/9,159,3,3,79,42,37,5,1:59
+3-Feb-2025,Dallas,3,Hard,R32,82,145,0,,WC,Reilly Opelka,Alexander Shevchenko,7-6(3) 6-4,0.75,13.1%,3.3%,72.1%,81.8%,41.2%,0/1,46.0%,22.2%,28.6%,17.1%,31.8%,0/0,124,8,2,61,44,17,18,1:16
+1-Feb-2025,Davis Cup WG1 PO: KAZ vs PAK,3,Hard,RR,75,,1,,,Alexander Shevchenko,Muzammil Murtaza,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2025,Australian Open,5,Hard,R128,77,3,0,,3,Carlos Alcaraz,Alexander Shevchenko,6-1 7-5 6-1,0.61,0.0%,0.0%,59.6%,52.8%,38.9%,11/19,40.0%,32.1%,7.4%,31.3%,33.3%,2/4,170,0,0,89,53,36,6,1:54
+27-Dec-2024,United Cup,3,Hard,SF,78,16,0,,,Hubert Hurkacz,Alexander Shevchenko,6-3 6-2,0.48,2.0%,2.0%,69.4%,52.9%,60.0%,1/4,38.9%,21.7%,21.7%,20.0%,27.3%,0/0,95,1,1,49,34,15,10,0:58
+27-Dec-2024,United Cup,3,Hard,RR,78,11,1,,,Alexander Shevchenko,Stefanos Tsitsipas,6-4 7-6(0),1.41,2.9%,4.3%,64.3%,68.9%,76.0%,1/2,55.1%,40.3%,9.1%,28.6%,54.3%,2/4,147,2,3,70,45,25,7,1:52
+27-Dec-2024,United Cup,3,Hard,RR,78,196,0,,,Pablo Carreno Busta,Alexander Shevchenko,6-2 6-1,0.44,7.1%,9.5%,57.1%,58.3%,22.2%,2/7,34.1%,25.0%,7.5%,22.2%,30.8%,1/2,82,3,4,42,24,18,3,1:04
 4-Nov-2024,Metz,3,Hard,R32,64,40,0,,7,Jan Lennard Struff,Alexander Shevchenko,3-6 6-4 6-4,0.81,7.5%,6.6%,50.9%,68.5%,50.0%,6/9,47.9%,32.9%,12.2%,22.8%,56.0%,3/8,188,8,7,106,54,52,10,1:41
 28-Oct-2024,Paris Masters,3,Hard,Q1,63,74,0,11,,Bu Yunchaokete,Alexander Shevchenko,6-4 7-6(5),0.78,10.3%,2.9%,58.8%,77.5%,53.6%,0/1,46.0%,25.4%,8.5%,13.9%,37.1%,0/4,139,7,2,68,40,28,6,1:29
 14-Oct-2024,Almaty,3,Hard,QF,61,31,0,,4,Francisco Cerundolo,Alexander Shevchenko,6-2 6-3,0.63,7.5%,1.9%,64.2%,70.6%,36.8%,3/6,42.7%,26.0%,8.0%,7.7%,45.8%,0/1,103,4,1,53,34,19,4,1:04

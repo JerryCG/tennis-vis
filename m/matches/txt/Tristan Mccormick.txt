@@ -1,121 +1,23 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
-4-Aug-2024,Bogota CH,3,Clay,R32,,260,0,Q,,Nicolas Mejia,Tristan Mccormick,6-3 6-4,0.77,12.2%,4.1%,51.0%,80.0%,50.0%,1/3,44.8%,26.8%,8.9%,10.3%,44.4%,0/1,105,6,2,49,25,24,5,1:28
-4-Aug-2024,Bogota CH,3,Clay,Q2,,1009,1,6,,Tristan Mccormick,Juan Sebastian Osorio,6-7(6) 6-2 7-5,1.32,10.1%,4.0%,63.6%,76.2%,55.6%,8/10,53.3%,41.4%,4.7%,35.9%,55.6%,5/14,227,10,4,99,63,36,6,2:47
-29-Jul-2024,M25 Edwardsville IL,3,Hard,R32,,574,0,,2,Colin Sinclair,Tristan Mccormick,7-6(7) 6-7(6) 6-1,,,,,,,,,,,,,,,,,,,,,
-15-Jul-2024,M25 East Lansing MI,3,Hard,R32,,914,0,7,,Ben Jones,Tristan Mccormick,7-6(9) 5-7 7-6(5),,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,M25 Dallas TX,3,Hard,R16,,463,0,,6,Karue Sell,Tristan Mccormick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Jul-2024,M25 Dallas TX,3,Hard,R32,,727,1,,,Tristan Mccormick,Noah Schachter,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jul-2024,M25 Laval,3,Hard,R32,,450,0,,5,Kiranpal Pannu,Tristan Mccormick,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M25 Tulsa OK,3,Hard,R16,,194,0,,1,Mitchell Krueger,Tristan Mccormick,4-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-17-Jun-2024,M25 Tulsa OK,3,Hard,R32,,1291,1,,WC,Tristan Mccormick,Tyler Zink,7-6(4) 6-2,,,,,,,,,,,,,,,,,,,,,
-3-Jun-2024,M25 Cordoba,3,Clay,R32,,638,0,,,Sergi Perez Contri,Tristan Mccormick,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-27-May-2024,M25 La Nucia,3,Clay,R32,,404,0,,6,Nicola Kuhn,Tristan Mccormick,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-20-May-2024,M25 Mataro,3,Clay,R32,,604,0,,,Alex Marti Pujolras,Tristan Mccormick,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-13-May-2024,M25 Vic,3,Clay,R32,,594,0,Q,,Max Alcala Gurri,Tristan Mccormick,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-6-May-2024,M25 Valldoreix,3,Clay,R32,,713,0,,Q,Martin Klizan,Tristan Mccormick,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-22-Apr-2024,Savannah CH,3,Clay,R32,,162,0,Q,4,Denis Kudla,Tristan Mccormick,6-4 7-6(4),0.87,7.8%,10.4%,70.1%,59.3%,39.1%,5/9,46.4%,40.7%,6.6%,37.3%,45.0%,3/10,168,6,8,77,54,23,6,2:14
-22-Apr-2024,Savannah CH,3,Clay,Q2,,312,1,Alt,2,Tristan Mccormick,Blaise Bicknell,7-6(5) 6-3,1.19,7.6%,2.5%,69.6%,76.4%,45.8%,7/8,54.1%,39.1%,1.4%,37.3%,44.4%,2/5,148,6,2,79,55,24,1,1:45
-22-Apr-2024,Savannah CH,3,Clay,Q1,,389,1,Alt,7,Tristan Mccormick,Bogdan Bobrov,6-3 6-4,1.17,12.9%,3.2%,59.7%,70.3%,56.0%,3/4,53.3%,41.4%,3.4%,30.6%,59.1%,3/7,120,8,2,62,37,25,2,1:29
-15-Apr-2024,Tallahassee CH,3,Clay,Q2,,491,0,,,Andres Andrade,Tristan Mccormick,4-6 6-1 6-4,0.91,12.0%,8.3%,56.5%,59.0%,42.6%,10/17,48.4%,43.6%,6.4%,31.8%,58.8%,4/7,186,13,9,108,61,47,5,2:18
-15-Apr-2024,Tallahassee CH,3,Clay,Q1,,400,1,,1,Tristan Mccormick,Arthur Gea,6-1 6-4,1.91,5.0%,5.0%,55.0%,77.3%,66.7%,0/1,60.8%,52.6%,8.8%,40.0%,66.7%,5/6,97,2,2,40,22,18,5,1:11
-8-Apr-2024,Sarasota CH,3,Clay,Q1,,350,0,Alt,3,Gerard Campana Lee,Tristan Mccormick,7-5 6-3,0.94,7.3%,9.1%,52.7%,65.5%,57.7%,0/3,46.0%,35.7%,9.5%,25.4%,60.0%,1/10,139,4,5,55,29,26,8,1:45
-1-Apr-2024,Barcelona CH,3,Clay,R32,,209,0,WC,7,Billy Harris,Tristan Mccormick,6-1 6-1,0.47,6.3%,4.2%,47.9%,65.2%,32.0%,3/8,37.1%,24.4%,12.2%,11.8%,33.3%,0/2,89,3,2,48,23,25,5,0:58
-25-Mar-2024,M25 Tarragona,3,Clay,R32,,382,0,Q,5,Hernan Casanova,Tristan Mccormick,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-18-Mar-2024,M25 Badalona,3,Clay,R32,,433,0,,5,Pol Martin Tiffon,Tristan Mccormick,6-3 1-6 6-3,,,,,,,,,,,,,,,,,,,,,
-4-Mar-2024,M25 Santo Domingo,3,Hard,R32,,1031,0,,Q,Andrew Fenty,Tristan Mccormick,6-4 4-6 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Feb-2024,M25 Naples FL,3,Clay,SF,,649,0,,,Andres Andrade,Tristan Mccormick,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-19-Feb-2024,M25 Naples FL,3,Clay,QF,,779,1,,,Tristan Mccormick,Felix Corwin,3-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Feb-2024,M25 Naples FL,3,Clay,R16,,379,1,,4,Tristan Mccormick,Louis Wessels,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Feb-2024,M25 Naples FL,3,Clay,R32,,572,1,,,Tristan Mccormick,Marlon Vankan,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-29-Jan-2024,Cleveland CH,3,Hard,Q1,,812,0,9,,Felix Corwin,Tristan Mccormick,5-1 RET,0.24,13.3%,20.0%,40.0%,66.7%,22.2%,0/2,27.6%,14.3%,21.4%,10.0%,25.0%,0/0,29,2,3,15,6,9,3,0:19
-15-Jan-2024,M25 Ithaca NY,3,Hard,F,,857,0,7,,Karue Sell,Tristan Mccormick,6-3 3-0 RET,,,,,,,,,,,,,,,,,,,,,
-15-Jan-2024,M25 Ithaca NY,3,Hard,SF,,514,1,7,3,Tristan Mccormick,Radu Mihai Papoe,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Jan-2024,M25 Ithaca NY,3,Hard,QF,,1152,1,7,,Tristan Mccormick,Alexander Bernard,7-6(5) 7-5,,,,,,,,,,,,,,,,,,,,,
-15-Jan-2024,M25 Ithaca NY,3,Hard,R16,,950,1,7,,Tristan Mccormick,Axel Nefve,3-6 7-6(6) 7-6(3),,,,,,,,,,,,,,,,,,,,,
-15-Jan-2024,M25 Ithaca NY,3,Hard,R32,,932,1,7,,Tristan Mccormick,Samir Banerjee,6-1 2-6 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Jul-2023,M15 Pittsburgh,3,Clay,R32,,1763,0,2,Q,Nick Lagaev,Tristan Mccormick,4-3 RET,,,,,,,,,,,,,,,,,,,,,
-17-Jul-2023,Granby CH,3,Hard,Q1,,275,0,,1,Patrick Kypson,Tristan Mccormick,7-6(5) 6-2,0.54,16.9%,6.5%,59.7%,67.4%,54.8%,3/5,44.1%,20.3%,5.1%,17.6%,24.0%,0/0,136,13,5,77,46,31,3,
-10-Jul-2023,M25 Laval,3,Hard,QF,,,0,4,,Leo Vithoontien,Tristan Mccormick,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-10-Jul-2023,M25 Laval,3,Hard,R16,,,1,4,Q,Tristan Mccormick,Nicaise Muamba,7-5 7-6(8),,,,,,,,,,,,,,,,,,,,,
-10-Jul-2023,M25 Laval,3,Hard,R32,,,1,4,WC,Tristan Mccormick,Brayden Schnur,6-7(2) 7-6(5) RET,,,,,,,,,,,,,,,,,,,,,
-26-Jun-2023,Medellin CH,3,Clay,R16,,507,0,Q,,Adria Soriano Barrera,Tristan Mccormick,7-6(5) 6-7(4) 7-6(5),0.71,10.6%,7.7%,60.6%,76.7%,53.6%,11/12,48.4%,23.1%,11.1%,15.3%,38.9%,1/3,250,15,11,142,86,56,12,2:54
-26-Jun-2023,Medellin CH,3,Clay,R32,,253,1,Q,5,Tristan Mccormick,Guido Andreozzi,6-7(3) 6-1 7-6(5),1.04,10.3%,11.1%,53.0%,80.6%,49.1%,13/14,51.1%,35.5%,10.0%,30.4%,43.9%,4/5,227,12,13,117,62,55,11,2:32
-26-Jun-2023,Medellin CH,3,Clay,Q2,,,1,2,,Tristan Mccormick,Keenan Mayo,6-3 3-6 6-3,1.29,13.1%,4.8%,57.1%,85.4%,50.0%,3/4,53.4%,38.3%,10.6%,36.4%,42.9%,2/8,178,11,4,84,48,36,10,1:52
-26-Jun-2023,Medellin CH,3,Clay,Q1,,1147,1,2,,Tristan Mccormick,Kelsey Stevenson,6-4 7-6(7),1.13,10.0%,11.3%,56.3%,82.2%,48.6%,4/5,51.9%,36.6%,8.5%,31.3%,44.1%,2/5,162,8,9,80,45,35,7,1:40
-19-Jun-2023,Cali CH,3,Clay,Q2,,434,0,8,2,Gonzalo Lama,Tristan Mccormick,6-3 6-7(2) 6-3,0.79,8.3%,4.2%,70.8%,72.1%,46.4%,2/4,45.5%,27.9%,6.7%,26.6%,30.0%,0/7,200,8,4,96,68,28,7,2:53
-12-Jun-2023,Palmas Del Mar CH,3,Hard,Q1,,340,0,,2,Evan Zhu,Tristan Mccormick,4-6 6-3 7-5,0.79,5.6%,12.4%,57.3%,70.6%,47.4%,3/7,45.4%,31.3%,7.3%,30.3%,33.3%,3/12,185,5,11,89,51,38,7,2:49
-29-May-2023,Little Rock CH,3,Hard,Q1,,390,0,WC,11,Bernard Tomic,Tristan Mccormick,6-3 7-5,0.70,9.1%,4.5%,62.1%,68.3%,28.0%,2/6,43.3%,32.8%,13.1%,20.5%,54.5%,2/3,127,6,3,66,41,25,8,1:20
-22-May-2023,M15 Huntsville AL,3,Clay,QF,,829,0,2,7,Blaise Bicknell,Tristan Mccormick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-22-May-2023,M15 Huntsville AL,3,Clay,R16,,1726,1,2,Q,Tristan Mccormick,Elijah Poritzky,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
-22-May-2023,M15 Huntsville AL,3,Clay,R32,,1343,1,2,Q,Tristan Mccormick,Ryan Dickerson,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-15-May-2023,M25 Pensacola FL,3,Clay,R16,,394,0,,3,Bernard Tomic,Tristan Mccormick,6-3 6-7(5) 6-3,,,,,,,,,,,,,,,,,,,,,
-15-May-2023,M25 Pensacola FL,3,Clay,R32,,852,1,,,Tristan Mccormick,Tyler Zink,6-7(4) 7-6(4) 6-1,,,,,,,,,,,,,,,,,,,,,
-24-Apr-2023,Savannah CH,3,Clay,Q1,,710,0,12,Alt,Blu Baker,Tristan Mccormick,6-3 6-4,0.82,3.1%,9.2%,47.7%,54.8%,41.2%,5/11,45.3%,42.9%,0.0%,42.0%,46.2%,3/10,128,2,6,65,31,34,0,1:35
-10-Apr-2023,M15 Sunrise FL,3,Clay,F,,930,0,3,WC,Thai Son Kwiatkowski,Tristan Mccormick,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-10-Apr-2023,M15 Sunrise FL,3,Clay,SF,,497,1,3,1,Tristan Mccormick,David Pichler,6-7(2) 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-10-Apr-2023,M15 Sunrise FL,3,Clay,QF,,668,1,3,6,Tristan Mccormick,Kyle Kang,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Apr-2023,M15 Sunrise FL,3,Clay,R16,,1118,1,3,,Tristan Mccormick,Cooper Williams,7-6(0) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-10-Apr-2023,M15 Sunrise FL,3,Clay,R32,,,1,3,Q,Tristan Mccormick,Ryan Haviland,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-3-Apr-2023,M15 Monastir,3,Hard,R16,,798,0,5,,Nicolas Tepmahc,Tristan Mccormick,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-3-Apr-2023,M15 Monastir,3,Hard,R32,,1252,1,5,LL,Tristan Mccormick,Arslanbek Temirhanov,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-27-Mar-2023,M15 Monastir,3,Hard,R16,,905,0,3,,Luca Wiedenmann,Tristan Mccormick,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-27-Mar-2023,M15 Monastir,3,Hard,R32,,,1,3,WC,Tristan Mccormick,Jake Bhangdia,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2023,M25 Montreal,3,Hard,R16,,749,0,,,Osgar Ohoisin,Tristan Mccormick,6-7(3) 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-13-Mar-2023,M25 Montreal,3,Hard,R32,,512,1,,6,Tristan Mccormick,Ezekiel Clark,2-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2023,M15 Naples FL,3,Clay,SF,,683,0,7,,Federico Agustin Gomez,Tristan Mccormick,2-6 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2023,M15 Naples FL,3,Clay,QF,,1317,1,7,Q,Tristan Mccormick,Daniel Paty,7-6(8) 6-4,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2023,M15 Naples FL,3,Clay,R16,,1602,1,7,Q,Tristan Mccormick,Evan Bynoe,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-27-Feb-2023,M15 Naples FL,3,Clay,R32,,841,1,7,,Tristan Mccormick,Lucas Renard,4-6 6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-20-Feb-2023,Rome GA CH,3,Hard,Q1,,795,0,12,Alt,Pedro Rodenas,Tristan Mccormick,6-3 6-4,0.74,6.4%,6.4%,48.7%,73.7%,35.0%,4/8,45.1%,34.4%,3.1%,28.2%,44.0%,1/7,142,5,5,78,38,40,2,1:38
-6-Feb-2023,M15 Sharm ElSheikh,3,Hard,R32,,881,0,3,SE,Boris Butulija,Tristan Mccormick,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2023,M25 Sunderland,3,Hard,QF,,462,0,,,Martin Damm,Tristan Mccormick,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2023,M25 Sunderland,3,Hard,R16,,1507,1,,Q,Tristan Mccormick,George Houghton,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-23-Jan-2023,M25 Sunderland,3,Hard,R32,,536,1,,,Tristan Mccormick,Harry Wendelken,5-7 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-16-Jan-2023,M25 Sheffield,3,Hard,R32,,357,0,Q,3,Daniel Cukierman,Tristan Mccormick,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Jan-2023,M25 Loughborough,3,Hard,R32,,397,0,,5,Mirza Basic,Tristan Mccormick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Nov-2022,Knoxville CH,3,Hard,R32,,332,0,Q,,Ulises Blanch,Tristan Mccormick,6-3 3-6 7-5,0.83,20.0%,2.5%,61.3%,77.6%,64.5%,0/2,47.8%,22.8%,13.9%,10.0%,44.8%,1/4,159,16,2,80,49,31,11,1:46
-7-Nov-2022,Knoxville CH,3,Hard,Q2,,532,1,10,5,Tristan Mccormick,Donald Young,3-6 6-4 7-5,0.79,9.4%,7.7%,56.4%,69.7%,47.1%,8/11,48.2%,31.7%,8.5%,26.9%,53.3%,3/7,199,11,9,117,66,51,7,2:19
-7-Nov-2022,Knoxville CH,3,Hard,Q1,,,1,10,Alt,Tristan Mccormick,Anirudh Chandrasekar,6-2 6-2,2.83,15.4%,7.7%,56.4%,95.5%,64.7%,0/0,62.5%,50.8%,3.1%,43.6%,61.5%,4/9,104,6,3,39,22,17,2,1:10
-31-Oct-2022,Charlottesville CH,3,Hard,Q1,,537,0,Alt,12,Donald Young,Tristan Mccormick,6-4 6-3,0.84,12.2%,6.1%,67.3%,69.7%,37.5%,2/5,44.3%,34.2%,0.0%,29.6%,47.4%,1/10,122,6,3,49,33,16,0,1:14
-24-Oct-2022,Las Vegas CH,3,Hard,Q1,,444,0,,5,Tennys Sandgren,Tristan Mccormick,6-1 7-6(7),0.65,6.2%,9.2%,46.2%,70.0%,60.0%,5/7,44.4%,23.0%,8.2%,17.2%,28.1%,0/1,126,4,6,65,30,35,5,1:31
-17-Oct-2022,Ambato CH,3,Clay,Q2,,1449,0,4,9,N Sriram Balaji,Tristan Mccormick,2-6 6-1 6-4,1.01,18.2%,6.1%,63.6%,61.9%,62.5%,0/3,47.9%,38.1%,5.2%,25.0%,59.5%,2/12,163,12,4,66,42,24,5,1:51
-19-Sep-2022,M15 Cancun,3,Hard,F,,764,0,7,5,Alexander Cozbinov,Tristan Mccormick,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-19-Sep-2022,M15 Cancun,3,Hard,SF,,,1,7,,Tristan Mccormick,Leanid Boika,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-19-Sep-2022,M15 Cancun,3,Hard,QF,,,1,7,,Tristan Mccormick,Daniel Vallejo,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
-19-Sep-2022,M15 Cancun,3,Hard,R16,,1207,1,7,Q,Tristan Mccormick,Luciano Doria,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-19-Sep-2022,M15 Cancun,3,Hard,R32,,,1,7,WC,Tristan Mccormick,Samer Al Tori,6-4 6-7(2) 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Sep-2022,M15 Cancun,3,Hard,F,,876,1,,,Tristan Mccormick,Kareem Allaf,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Sep-2022,M15 Cancun,3,Hard,SF,,502,1,,1,Tristan Mccormick,Liam Draxl,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-12-Sep-2022,M15 Cancun,3,Hard,QF,,759,1,,7,Tristan Mccormick,Alexander Cozbinov,7-6(5) 7-6(5),,,,,,,,,,,,,,,,,,,,,
-12-Sep-2022,M15 Cancun,3,Hard,R16,,,1,,Q,Tristan Mccormick,Tin Chen,6-4 6-7(5) 6-4,,,,,,,,,,,,,,,,,,,,,
-12-Sep-2022,M15 Cancun,3,Hard,R32,,720,1,,4,Tristan Mccormick,Fernando Yamacita,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2022,M15 Cancun,3,Hard,F,,825,0,4,5,Bernard Tomic,Tristan Mccormick,7-6(4) 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2022,M15 Cancun,3,Hard,SF,,838,1,4,6,Tristan Mccormick,Nicolas Buitrago,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2022,M15 Cancun,3,Hard,QF,,840,1,4,7,Tristan Mccormick,Victor Lilov,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2022,M15 Cancun,3,Hard,R16,,,1,4,Q,Tristan Mccormick,Victor Milare Alves,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Sep-2022,M15 Cancun,3,Hard,R32,,1168,1,4,,Tristan Mccormick,Luciano Doria,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
-8-Aug-2022,M25 Guayaquil,3,Clay,QF,,447,0,,3,Kyle Seelig,Tristan Mccormick,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Aug-2022,M25 Guayaquil,3,Clay,R16,,1927,1,,Q,Tristan Mccormick,Mateo Barreiros Reyes,6-2 2-6 6-3,,,,,,,,,,,,,,,,,,,,,
-8-Aug-2022,M25 Guayaquil,3,Clay,R32,,685,1,,8,Tristan Mccormick,Matias Soto,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Portoviejo,3,Clay,SF,,393,0,,3,Jose Pereira,Tristan Mccormick,6-3 6-7(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Portoviejo,3,Clay,QF,,336,1,,2,Tristan Mccormick,Facundo Juarez,7-6(5) 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Portoviejo,3,Clay,R16,,618,1,,8,Tristan Mccormick,Tomas Farjat,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Aug-2022,M25 Portoviejo,3,Clay,R32,,,1,,Q,Tristan Mccormick,Manuel Mouilleron Salvo,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-25-Jul-2022,M25 Edwardsville IL,3,Hard,R32,,1296,0,,,Karlis Ozolins,Tristan Mccormick,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
-18-Jul-2022,M25 Champaign IL,3,Hard,R32,,1957,0,,Q,Cooper Williams,Tristan Mccormick,7-6(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-11-Jul-2022,M15 Pittsburgh PA,3,Clay,QF,,497,0,6,1,Kyle Seelig,Tristan Mccormick,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-11-Jul-2022,M15 Pittsburgh PA,3,Clay,R16,,1648,1,6,WC,Tristan Mccormick,Jacob Brumm,3-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
-11-Jul-2022,M15 Pittsburgh PA,3,Clay,R32,,1240,1,6,,Tristan Mccormick,Preston Brown,3-6 6-2 7-5,,,,,,,,,,,,,,,,,,,,,
-13-Dec-2021,M15 Cancun,3,Hard,SF,,681,0,Q,6,Liam Draxl,Tristan Mccormick,7-6(5) 1-6 7-6(4),,,,,,,,,,,,,,,,,,,,,
-13-Dec-2021,M15 Cancun,3,Hard,QF,,930,1,Q,,Tristan Mccormick,Mwendwa Mbithi,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-13-Dec-2021,M15 Cancun,3,Hard,R16,,930,1,Q,,Tristan Mccormick,Dali Blanch,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Dec-2021,M15 Cancun,3,Hard,R32,,711,1,Q,8,Tristan Mccormick,Dusty H Boyer,6-0 6-7(5) 7-6(3),,,,,,,,,,,,,,,,,,,,,
-6-Dec-2021,M15 Cancun,3,Hard,SF,,689,0,Q,7,Liam Draxl,Tristan Mccormick,7-6(1) 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-2021,M15 Cancun,3,Hard,QF,,1409,1,Q,,Tristan Mccormick,Alexander Bernard,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-2021,M15 Cancun,3,Hard,R16,,1076,1,Q,SE,Tristan Mccormick,Constantin Bittoun Kouzmine,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-2021,M15 Cancun,3,Hard,R32,,729,1,Q,8,Tristan Mccormick,Evan Zhu,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-4-Oct-2021,M15 Naples FL,3,Clay,R32,,582,0,WC,5,Ricardo Rodriguez,Tristan Mccormick,7-6(2) 6-2,,,,,,,,,,,,,,,,,,,,,
-13-Sep-2021,M15 Champaign IL,3,Hard,R32,,,0,Q,Q,Emile Hudd,Tristan Mccormick,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-26-Jul-2021,M25 Portoviejo,3,Clay,QF,,493,0,Q,4,Pol Martin Tiffon,Tristan Mccormick,6-4 7-6(0),,,,,,,,,,,,,,,,,,,,,
-26-Jul-2021,M25 Portoviejo,3,Clay,R16,,912,1,Q,,Tristan Mccormick,Maxime Mora,7-5 7-6(6),,,,,,,,,,,,,,,,,,,,,
-26-Jul-2021,M25 Portoviejo,3,Clay,R32,,641,1,Q,8,Tristan Mccormick,Igor Ribeiro Marcondes,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+14-Apr-2025,San Luis Potosi CH,3,Clay,Q1,680,960,1,6,Alt,Tristan Mccormick,Elijah Strode,6-4 6-2,1.51,6.1%,6.1%,55.1%,88.9%,50.0%,2/3,57.0%,43.1%,5.9%,35.0%,48.4%,4/8,100,3,3,49,27,22,3,1:09
+31-Mar-2025,Cuernavaca CH,3,Hard,Q2,695,389,0,10,1,Govind Nanda,Tristan Mccormick,6-3 6-3,0.37,9.7%,6.5%,50.0%,64.5%,48.4%,4/7,40.0%,16.3%,14.0%,8.8%,44.4%,0/0,105,6,4,62,31,31,6,1:06
+24-Mar-2025,Morelia CH,3,Hard,Q1,714,278,0,Alt,4,Maxime Janvier,Tristan Mccormick,6-7(4) 6-3 6-2,0.88,8.0%,9.0%,56.0%,69.6%,43.2%,7/12,47.5%,37.0%,10.0%,20.0%,54.0%,2/7,200,8,9,100,56,44,10,2:18
+17-Mar-2025,Merida CH,3,Clay,Q2,714,969,0,6,11,Robin Catry,Tristan Mccormick,4-6 6-3 6-4,1.11,4.1%,0.0%,60.3%,77.3%,69.0%,0/2,49.1%,28.9%,5.6%,16.4%,55.2%,1/4,163,3,0,73,44,29,5,2:21
+17-Mar-2025,Merida CH,3,Clay,Q1,714,1471,1,6,Alt,Tristan Mccormick,Reese Stalder,6-2 3-6 6-2,1.23,10.1%,6.3%,59.5%,72.3%,46.9%,4/6,53.8%,46.7%,8.7%,38.8%,55.8%,5/13,171,8,5,79,47,32,8,2:04
+10-Mar-2025,M15 Huamantla,3,Hard,R16,729,,0,,,Kase Schinnerer,Tristan Mccormick,6-4 3-6 6-3,1.06,10.0%,7.5%,62.5%,74.0%,53.3%,4/7,49.2%,35.9%,8.7%,28.0%,43.4%,2/9,183,8,6,80,50,30,9,2:30
+10-Mar-2025,M15 Huamantla,3,Hard,R32,729,1371,1,,,Tristan Mccormick,Lucca Pinto,4-6 6-2 6-0,1.39,8.1%,5.4%,62.2%,69.6%,57.1%,4/6,56.5%,48.8%,6.3%,42.0%,60.0%,6/7,154,6,4,74,46,28,5,2:09
+3-Mar-2025,M15 Huamantla,3,Hard,QF,729,,0,,,Gage Brymer,Tristan Mccormick,6-4 6-7(3) 7-6(2),0.80,9.8%,8.9%,60.2%,71.6%,42.9%,12/17,47.3%,32.0%,0.0%,28.2%,40.6%,4/10,226,12,11,123,74,49,0,3:29
+3-Mar-2025,M15 Huamantla,3,Hard,R16,729,2106,1,,,Tristan Mccormick,Marco Alvarez,6-2 4-6 6-2,1.33,2.3%,4.5%,69.3%,65.6%,63.0%,7/9,55.3%,47.0%,1.0%,37.5%,59.1%,5/13,188,2,4,88,61,27,1,2:48
+3-Mar-2025,M15 Huamantla,3,Hard,R32,729,1697,1,,,Tristan Mccormick,Patricio Alvarado,6-7(10) 6-2 6-2,1.33,9.9%,8.8%,64.8%,79.7%,46.9%,3/5,55.2%,42.4%,3.3%,35.5%,56.7%,6/8,183,9,8,91,59,32,3,2:33
+24-Feb-2025,M15 Huamantla,3,Hard,R16,677,969,0,,,Ryan Fishback,Tristan Mccormick,6-4 6-4,0.66,6.0%,9.0%,62.7%,69.0%,40.0%,3/6,44.6%,27.8%,3.7%,23.7%,37.5%,1/2,121,4,6,67,42,25,2,1:26
+24-Feb-2025,M15 Huamantla,3,Hard,R32,677,,1,,,Tristan Mccormick,Alejandro Ochoa,6-4 3-6 6-4,1.11,18.4%,7.9%,68.4%,82.7%,37.5%,5/7,50.3%,35.2%,2.2%,30.6%,44.8%,3/7,167,14,6,76,52,24,2,0:27
+17-Feb-2025,M15 Naples FL ,3,Clay,R32,673,1311,0,,,Blu Baker,Tristan Mccormick,6-3 6-7(0) 6-3,0.95,5.9%,5.0%,60.5%,62.5%,53.2%,12/16,48.9%,39.0%,2.5%,32.4%,50.0%,2/10,237,7,6,119,72,47,3,3:09
+10-Feb-2025,M15 Naples FL,3,Clay,R32,674,478,0,,,Garrett Johns,Tristan Mccormick,4-6 6-3 7-6(1),0.79,3.3%,4.1%,62.8%,64.5%,46.7%,10/13,46.8%,33.3%,14.1%,25.9%,42.2%,3/6,220,4,5,121,76,45,14,3:37
+3-Feb-2025,M15 Sunrise FL,3,Clay,R32,675,479,0,,,Juan Carlos Aguilar,Tristan Mccormick,5-7 6-4 6-3,0.89,2.9%,3.9%,69.9%,63.9%,38.7%,11/16,47.8%,39.0%,3.0%,38.7%,39.5%,4/10,203,3,4,103,72,31,3,2:51
+27-Jan-2025,Cleveland CH,3,Hard,R32,704,594,0,Q,WC,Antoine Ghibaudo,Tristan Mccormick,6-3 6-3,0.50,9.0%,1.5%,76.1%,58.8%,43.8%,1/4,41.4%,22.4%,6.1%,23.3%,21.1%,0/3,116,6,1,67,51,16,3,1:31
+27-Jan-2025,Cleveland CH,3,Hard,Q2,704,1428,1,4,Alt,Tristan Mccormick,Pranav Kumar,6-3 6-3,1.50,9.3%,1.9%,51.9%,78.6%,65.4%,2/2,55.5%,41.5%,10.8%,32.6%,59.1%,3/10,119,5,1,54,28,26,7,1:20
+27-Jan-2025,Cleveland CH,3,Hard,Q1,704,1060,1,4,,Tristan Mccormick,Jaden Weekes,6-2 6-4,2.01,6.4%,6.4%,70.2%,90.9%,50.0%,1/1,58.2%,42.9%,1.6%,35.1%,53.8%,3/7,110,3,3,47,33,14,1,1:13
+13-Jan-2025,M15 Kingston,3,Hard,R16,615,,0,,,Blu Baker,Tristan Mccormick,W/O,,,,,,,,,,,,,,,,,,,,,
+13-Jan-2025,M15 Kingston,3,Hard,R32,615,,1,,,Tristan Mccormick,Rowland Phillips,6-1 6-3,1.75,10.2%,2.0%,65.3%,90.6%,35.3%,1/1,60.0%,50.0%,7.1%,36.4%,69.6%,4/10,105,5,1,49,32,17,4,1:25
+6-Jan-2025,M15 Kingston,3,Hard,R32,614,944,0,,,Matt Kuhar,Tristan Mccormick,7-5 6-4,0.74,12.3%,9.2%,53.8%,65.7%,43.3%,1/5,44.2%,32.8%,7.8%,22.5%,50.0%,2/4,129,8,6,65,35,30,5,1:52
+28-Oct-2024,Guayaquil CH,3,Clay,Q2,698,372,0,9,3,Gerard Campana Lee,Tristan Mccormick,7-6(4) 6-4,0.86,9.3%,8.0%,49.3%,70.3%,47.4%,4/7,47.9%,35.4%,6.2%,32.0%,46.7%,2/3,140,7,6,75,37,38,4,2:00

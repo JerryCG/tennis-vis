@@ -1,4 +1,19 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+14-Apr-2025,Munich,3,Clay,Q2,89,69,0,7,2,Learner Tien,Botic Van De Zandschulp,6-2 6-2,0.65,0.0%,7.4%,48.1%,61.5%,28.6%,3/8,40.4%,36.0%,2.0%,24.1%,52.4%,1/4,104,0,4,54,26,28,1,1:16
+14-Apr-2025,Munich,3,Clay,Q1,89,241,1,7,WC,Botic Van De Zandschulp,Max Hans Rehberg,6-3 6-1,1.96,6.7%,4.4%,55.6%,84.0%,65.0%,1/1,61.5%,47.8%,2.2%,29.2%,68.2%,4/5,91,3,2,45,25,20,1,1:09
+31-Mar-2025,Bucharest,3,Clay,R32,88,148,0,,WC,Richard Gasquet,Botic Van De Zandschulp,4-6 7-5 6-1,0.88,5.4%,5.4%,59.1%,65.5%,39.5%,9/15,47.1%,39.8%,2.0%,34.9%,48.6%,4/10,191,5,5,93,55,38,2,2:19
+5-Mar-2025,Indian Wells Masters,3,Hard,R32,85,26,0,LL,25,Francisco Cerundolo,Botic Van De Zandschulp,6-3 6-4,0.87,1.8%,3.5%,64.9%,64.9%,45.0%,1/4,46.1%,36.6%,2.8%,34.2%,39.4%,1/5,128,1,2,57,37,20,2,1:41
+5-Mar-2025,Indian Wells Masters,3,Hard,R64,85,7,1,LL,6,Botic Van De Zandschulp,Novak Djokovic,6-2 3-6 6-1,1.31,4.9%,4.9%,70.7%,60.3%,70.8%,2/4,56.1%,47.9%,0.0%,36.7%,70.8%,5/8,155,4,4,82,58,24,0,2:01
+5-Mar-2025,Indian Wells Masters,3,Hard,R128,85,1099,1,LL,PR,Botic Van De Zandschulp,Nick Kyrgios,7-6(7) 3-0 RET,1.29,3.4%,5.1%,59.3%,71.4%,54.2%,5/7,55.1%,45.8%,10.2%,32.4%,64.0%,3/4,118,2,3,59,35,24,6,1:23
+5-Mar-2025,Indian Wells Masters,3,Hard,Q2,85,217,0,3,,Matteo Gigante,Botic Van De Zandschulp,7-5 6-0,0.73,5.6%,1.9%,38.9%,52.4%,42.4%,2/8,42.5%,39.0%,8.5%,25.0%,68.4%,2/5,113,3,1,54,21,33,5,1:20
+5-Mar-2025,Indian Wells Masters,3,Hard,Q1,85,147,1,3,,Botic Van De Zandschulp,Lukas Klein,5-7 6-3 6-3,1.12,5.6%,5.6%,50.8%,66.7%,44.3%,15/20,52.6%,49.6%,1.6%,45.1%,55.4%,7/19,251,7,7,124,63,61,2,2:50
+24-Feb-2025,Dubai,3,Hard,Q2,80,75,0,6,3,Christopher Oconnell,Botic Van De Zandschulp,7-6(5) 6-4,0.88,7.4%,4.4%,51.5%,68.6%,33.3%,3/8,46.5%,42.5%,2.3%,37.7%,50.0%,4/8,155,5,3,68,35,33,2,2:01
+24-Feb-2025,Dubai,3,Hard,Q1,80,232,1,6,WC,Botic Van De Zandschulp,Andrea Vavassori,6-1 6-3,1.75,4.1%,2.0%,73.5%,75.0%,61.5%,1/1,60.8%,50.0%,8.3%,41.7%,58.3%,4/8,97,2,1,49,36,13,4,1:05
+17-Feb-2025,Doha,3,Hard,R16,87,8,0,Q,2,Alex De Minaur,Botic Van De Zandschulp,6-4 6-4,0.70,1.3%,5.3%,48.0%,63.9%,51.3%,3/5,44.1%,30.0%,5.7%,26.5%,33.3%,0/4,145,1,4,75,36,39,4,2:00
+17-Feb-2025,Doha,3,Hard,R32,87,267,1,Q,WC,Botic Van De Zandschulp,Abedallah Shelbayh,7-5 6-3,1.48,5.0%,3.3%,71.7%,74.4%,52.9%,2/4,57.3%,46.9%,1.6%,41.2%,53.3%,4/10,124,3,2,60,43,17,1,1:37
+17-Feb-2025,Doha,3,Hard,Q2,87,92,1,4,5,Botic Van De Zandschulp,Otto Virtanen,6-1 6-4,4.15,15.0%,2.5%,75.0%,93.3%,80.0%,0/0,65.4%,41.5%,9.8%,29.6%,64.3%,3/3,81,6,1,40,30,10,4,0:53
+17-Feb-2025,Doha,3,Hard,Q1,87,299,1,4,WC,Botic Van De Zandschulp,Ergi Kirkin,6-1 2-1 RET,2.49,14.3%,7.1%,53.6%,86.7%,69.2%,0/0,65.5%,53.3%,0.0%,43.5%,85.7%,3/6,58,4,2,28,15,13,0,0:44
+10-Feb-2025,Marseille,3,Hard,R32,85,35,0,,7,Lorenzo Sonego,Botic Van De Zandschulp,6-1 3-6 6-3,0.91,8.3%,4.2%,62.5%,73.3%,48.1%,4/7,47.7%,32.9%,8.9%,27.3%,45.8%,1/1,151,6,3,72,45,27,7,1:59
 3-Feb-2025,Rotterdam,3,Hard,R32,84,3,0,WC,1,Carlos Alcaraz,Botic Van De Zandschulp,7-6(3) 3-6 6-1,0.91,4.0%,8.0%,63.0%,65.1%,43.2%,5/9,48.2%,38.9%,3.2%,32.1%,47.6%,3/7,195,4,8,100,63,37,3,2:34
 27-Jan-2025,Montpellier,3,Hard,R32,84,46,0,,5,Tallon Griekspoor,Botic Van De Zandschulp,7-5 6-3,0.85,7.0%,17.5%,49.1%,75.0%,34.5%,0/4,45.5%,39.0%,10.4%,27.7%,56.7%,2/7,134,4,10,57,28,29,8,1:35
 13-Jan-2025,Australian Open,5,Hard,R128,84,8,0,,8,Alex De Minaur,Botic Van De Zandschulp,6-1 7-5 6-4,0.68,5.6%,7.8%,50.0%,64.4%,46.7%,5/10,42.6%,30.1%,14.0%,18.6%,50.0%,1/5,183,5,7,90,45,45,13,2:22

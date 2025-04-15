@@ -1,4 +1,22 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Mar-2025,M25 Bengaluru,3,Hard,R16,956,639,0,,,Maxim Zhukov,Manish Sureshkumar,6-2 7-6(3),0.88,0.0%,0.0%,52.0%,53.8%,58.3%,5/8,47.1%,38.9%,3.7%,39.4%,38.1%,0/1,104,0,0,50,26,24,2,2:11
+31-Mar-2025,M25 Bengaluru,3,Hard,R32,956,1022,1,,,Manish Sureshkumar,Yuvan Nandal,6-2 7-6(2),1.26,4.5%,9.1%,60.6%,72.5%,38.5%,1/4,55.0%,51.4%,2.7%,45.0%,58.8%,5/14,140,3,6,66,40,26,2,1:45
+17-Mar-2025,M15 Ahmedabad,3,Hard,R32,928,790,0,,,Siddharth Vishwakarma,Manish Sureshkumar,6-4 4-6 6-1,0.84,2.5%,2.5%,58.2%,58.7%,42.4%,6/12,45.4%,40.6%,2.8%,34.3%,52.8%,4/15,185,2,2,79,46,33,3,1:55
+10-Mar-2025,M15 Chandigarh,3,Hard,QF,924,567,0,,,Woobin Shin,Manish Sureshkumar,7-5 7-6(1),0.87,5.3%,3.9%,61.8%,66.0%,44.8%,3/6,46.6%,36.8%,12.6%,18.8%,59.0%,2/12,163,4,3,76,47,29,11,2:48
+10-Mar-2025,M15 Chandigarh,3,Hard,R16,924,852,1,,,Manish Sureshkumar,Sidharth Rawat,6-4 4-6 6-3,0.80,12.5%,0.0%,12.5%,100.0%,71.4%,0/0,53.8%,20.0%,0.0%,33.3%,0.0%,0/0,13,1,0,8,1,7,0,2:36
+10-Mar-2025,M15 Chandigarh,3,Hard,R32,924,,1,,,Manish Sureshkumar,Sarthak Suden,6-4 6-3,1.64,5.2%,3.4%,48.3%,78.6%,70.0%,4/4,59.1%,42.3%,0.0%,30.0%,59.1%,2/4,110,3,2,58,28,30,0,1:27
+24-Feb-2025,Bengaluru CH,3,Hard,Q1,930,322,0,WC,4,Nicolas Alvarez Varona,Manish Sureshkumar,6-2 6-2,0.57,6.5%,4.8%,56.5%,62.9%,33.3%,8/12,40.7%,28.3%,13.0%,19.4%,46.7%,0/0,108,4,3,62,35,27,6,1:12
+3-Feb-2025,Chennai CH,3,Hard,Q2,961,501,0,Alt,5,Eric Vanshelboim,Manish Sureshkumar,6-2 6-3,0.50,0.0%,4.2%,70.8%,50.0%,57.1%,1/4,37.8%,24.0%,8.0%,18.9%,38.5%,0/2,98,0,2,48,34,14,4,1:28
+3-Feb-2025,Chennai CH,3,Hard,Q1,961,757,1,Alt,12,Manish Sureshkumar,Luca Castelnuovo,7-6(5) 6-4,1.19,6.2%,1.5%,60.0%,71.8%,57.7%,1/4,52.6%,40.3%,8.3%,30.4%,57.7%,4/5,137,4,1,65,39,26,6,1:39
+13-Jan-2025,M25 Chennai,3,Hard,QF,941,529,0,,,Eric Vanshelboim,Manish Sureshkumar,6-2 7-6(6),0.83,1.4%,1.4%,69.0%,51.0%,40.9%,2/8,45.7%,43.3%,3.0%,42.1%,44.8%,4/8,138,1,1,71,49,22,2,2:05
+13-Jan-2025,M25 Chennai,3,Hard,R16,941,405,1,,,Manish Sureshkumar,Ramkumar Ramanathan,7-5 6-7(8) 6-4,1.37,7.3%,1.8%,77.1%,78.6%,64.0%,9/9,54.3%,33.9%,11.6%,30.3%,39.1%,2/7,221,8,2,109,84,25,13,2:50
+13-Jan-2025,M25 Chennai,3,Hard,R32,941,1157,1,,,Manish Sureshkumar,Nitin Kumar Sinha,6-2 1-6 7-6(4),1.08,2.2%,2.2%,69.7%,59.7%,59.3%,5/9,51.4%,43.6%,4.3%,35.3%,53.5%,4/10,183,2,2,89,62,27,4,2:43
+30-Dec-2024,M25 Indore,3,Hard,R32,941,290,0,,,Mathys Erhard,Manish Sureshkumar,7-5 6-1,0.65,8.6%,1.4%,55.7%,59.0%,45.2%,4/9,43.4%,30.8%,5.8%,26.7%,36.4%,1/4,122,6,1,70,39,31,3,1:22
+18-Nov-2024,M25 Kalaburagi,3,Hard,R16,921,583,0,,5,Aryan Shah,Manish Sureshkumar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2024,M25 Kalaburagi,3,Hard,R32,921,1281,1,,Q,Manish Sureshkumar,Siddhant Banthia,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M25 Mumbai,3,Hard,R16,920,1367,0,,WC,Nitin Kumar Sinha,Manish Sureshkumar,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M25 Mumbai,3,Hard,R32,920,1109,1,,LL,Manish Sureshkumar,Yunseok Jang,6-4 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M25 Bhubaneswar,3,Hard,R32,919,1081,0,,,Manas Dhamne,Manish Sureshkumar,6-7(0) 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 17-Jun-2024,M15 Monastir,3,Hard,R32,907,889,0,,,Jack Loutit,Manish Sureshkumar,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M15 Monastir,3,Hard,SF,935,417,0,,1,Kris Van Wyk,Manish Sureshkumar,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jun-2024,M15 Monastir,3,Hard,QF,935,909,1,,,Manish Sureshkumar,Alexandre Reco,6-2 6-2,,,,,,,,,,,,,,,,,,,,,

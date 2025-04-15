@@ -1,20 +1,27 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+19-Jan-2004,Australian Open,5,Hard,Q1,232,116,0,,ALT,Tomas Berdych,Gaston Etlis,6-2 1-1 RET,,,,,,,,,,,,,,,,,,,,,
 8-Sep-2003,Costa Do Sauipe,3,Hard,SF,260,13,0,Q,2,Sjeng Schalken,Gaston Etlis,6-1 2-0 RET,0.25,6.7%,13.3%,63.3%,52.6%,9.1%,1/5,28.6%,15.8%,5.3%,17.6%,0.0%,0/0,49,2,4,30,19,11,1,0:33
 8-Sep-2003,Costa Do Sauipe,3,Hard,QF,260,72,1,Q,8,Gaston Etlis,Kenneth Carlsen,6-4 6-7(2) 6-3,1.18,2.8%,1.8%,65.1%,76.1%,63.2%,6/6,53.3%,33.7%,8.9%,23.0%,50.0%,2/5,210,3,2,109,71,38,9,2:41
 8-Sep-2003,Costa Do Sauipe,3,Hard,R16,260,147,1,Q,,Gaston Etlis,Eric Taino,7-5 4-6 7-6(5),1.05,15.8%,4.4%,48.2%,74.5%,57.6%,5/8,51.1%,35.8%,6.4%,31.0%,41.2%,3/7,223,18,5,114,55,59,7,2:51
 8-Sep-2003,Costa Do Sauipe,3,Hard,R32,260,78,1,Q,,Gaston Etlis,Brian Vahaly,1-6 6-2 6-3,1.01,1.2%,7.1%,57.6%,63.3%,38.9%,10/15,50.7%,47.8%,3.0%,40.8%,66.7%,6/15,152,1,6,85,49,36,2,0:26
+25-Aug-2003,US Open,5,Hard,Q1,206,169,0,,,Noam Okun,Gaston Etlis,3-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 21-Jul-2003,Kitzbuhel,3,Clay,R32,202,60,0,Q,15,Flavio Saretta,Gaston Etlis,7-6(3) 6-1,0.65,5.7%,8.0%,54.0%,61.7%,35.0%,7/11,42.8%,32.8%,10.3%,34.6%,31.3%,1/3,145,5,7,87,47,40,6,1:29
 21-Jul-2003,Kitzbuhel,3,Clay,R64,202,78,1,Q,,Gaston Etlis,Franco Squillari,7-5 4-6 6-1,1.23,3.1%,3.1%,54.2%,69.2%,61.4%,5/7,53.8%,42.4%,3.0%,33.9%,56.8%,4/10,195,3,3,96,52,44,3,2:06
 14-Jul-2003,Stuttgart,3,Clay,R32,216,23,0,Q,10,Younes El Aynaoui,Gaston Etlis,7-6(4) 6-4,0.50,4.8%,6.0%,59.5%,68.0%,58.8%,6/7,44.8%,18.0%,26.2%,8.1%,33.3%,0/0,145,4,5,84,50,34,16,1:31
 14-Jul-2003,Stuttgart,3,Clay,R64,216,99,1,Q,WC,Gaston Etlis,Alexander Popp,6-3 6-2,1.42,3.8%,5.7%,43.4%,69.6%,60.0%,3/4,57.4%,50.9%,0.0%,47.2%,57.9%,4/7,108,2,3,53,23,30,0,1:08
+26-May-2003,Roland Garros,5,Clay,Q1,212,141,0,,23,Attila Savolt,Gaston Etlis,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Apr-2003,Barcelona,3,Clay,R64,222,57,0,Q,,Feliciano Lopez,Gaston Etlis,6-4 6-4,0.81,7.7%,7.7%,56.9%,62.2%,32.1%,4/10,45.3%,41.3%,12.7%,27.5%,65.2%,4/6,128,5,5,65,37,28,8,1:19
 7-Apr-2003,Estoril,3,Clay,R32,224,121,0,LL,,Alexander Waske,Gaston Etlis,6-2 5-7 6-4,0.86,5.8%,6.7%,58.7%,70.5%,41.9%,7/11,47.5%,35.7%,3.1%,30.5%,43.6%,2/4,202,6,7,104,61,43,3,2:15
 17-Feb-2003,Buenos Aires,3,Clay,R32,231,90,0,Q,,Flavio Saretta,Gaston Etlis,7-6(3) 6-3,0.69,1.2%,7.1%,47.1%,70.0%,44.4%,7/9,44.5%,30.0%,2.9%,28.3%,33.3%,1/4,155,1,6,85,40,45,2,1:51
+13-Jan-2003,Australian Open,5,Hard,Q1,229,142,0,,15,Ricardo Mello,Gaston Etlis,5-7 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 9-Sep-2002,Costa Do Sauipe,3,Hard,QF,181,55,0,Q,6,Gustavo Kuerten,Gaston Etlis,7-6(5) 6-1,0.55,4.8%,4.8%,60.3%,73.7%,32.0%,3/5,41.0%,23.7%,11.9%,20.0%,35.7%,0/0,122,3,3,63,38,25,7,1:16
 9-Sep-2002,Costa Do Sauipe,3,Hard,R16,181,57,1,Q,1,Gaston Etlis,Fernando Meligeni,6-1 7-6(3),1.56,8.8%,1.5%,61.8%,73.8%,69.2%,3/4,57.7%,43.5%,7.2%,36.6%,53.6%,3/7,137,6,1,68,42,26,5,1:24
 9-Sep-2002,Costa Do Sauipe,3,Hard,R32,181,58,1,Q,,Gaston Etlis,Nicolas Massu,2-6 6-4 6-4,1.07,4.5%,2.7%,56.4%,59.7%,47.9%,7/13,52.1%,48.8%,5.0%,38.5%,67.9%,6/11,190,5,3,110,62,48,4,2:21
 26-Aug-2002,US Open,5,Hard,R64,212,7,0,Q,7,Juan Carlos Ferrero,Gaston Etlis,6-2 5-7 6-0 7-5,0.79,10.0%,5.0%,59.2%,54.9%,44.9%,6/15,44.8%,39.1%,7.8%,28.8%,50.0%,4/14,248,12,6,120,71,49,10,2:24
 26-Aug-2002,US Open,5,Hard,R128,212,211,1,Q,Q,Gaston Etlis,Bjorn Rehnquist,6-3 6-4 7-6(3),1.62,8.3%,2.1%,62.5%,83.3%,52.8%,5/7,56.5%,45.6%,2.2%,38.2%,55.0%,4/19,232,8,2,96,60,36,3,2:40
+26-Aug-2002,US Open,5,Hard,Q3,212,172,1,,,Gaston Etlis,Julien Varlet,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q2,212,267,1,,,Gaston Etlis,Marco Chiudinelli,6-0 6-3,,,,,,,,,,,,,,,,,,,,,
+26-Aug-2002,US Open,5,Hard,Q1,212,218,1,,,Gaston Etlis,Sebastian Prieto,1-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
 18-Feb-2002,Buenos Aires,3,Clay,R32,173,90,0,WC,,Nicolas Massu,Gaston Etlis,6-1 6-4,0.70,4.3%,14.9%,55.3%,61.5%,42.9%,3/7,42.2%,32.7%,3.6%,25.8%,41.7%,1/2,102,2,7,47,26,21,2,1:23
 12-Nov-2001,Buenos Aires CH,3,Clay,SF,179,81,0,,4,Agustin Calleri,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Nov-2001,Buenos Aires CH,3,Clay,QF,179,76,1,,2,Gaston Etlis,Juan Ignacio Chela,2-6 6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -39,8 +46,8 @@
 17-Sep-2001,Florianopolis CH,3,Clay,QF,251,528,1,,Q,Gaston Etlis,Marcio Carlsson,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Sep-2001,Florianopolis CH,3,Clay,R16,251,629,1,,Q,Gaston Etlis,Federico Dondo,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 17-Sep-2001,Florianopolis CH,3,Clay,R32,251,392,1,,,Gaston Etlis,Stefano Cobolli,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-3-Sep-2001,Curitiba CH,3,Clay,R16,UNR,UNR,0,,,Sergio Roitman,Gaston Etlis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Sep-2001,Curitiba CH,3,Clay,R32,UNR,UNR,1,,,Gaston Etlis,Patricio Arquez,7-5 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2001,Curitiba CH,3,Clay,R16,254,282,0,,,Sergio Roitman,Gaston Etlis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+3-Sep-2001,Curitiba CH,3,Clay,R32,254,246,1,,,Gaston Etlis,Patricio Arquez,7-5 5-7 6-2,,,,,,,,,,,,,,,,,,,,,
 20-Aug-2001,Ribeirao Preto CH,3,Clay,R32,253,192,0,,2,Juan Ignacio Chela,Gaston Etlis,3-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Brasilia1 CH,3,Clay,F,317,327,1,,,Gaston Etlis,Sergio Roitman,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Brasilia1 CH,3,Clay,SF,317,273,1,,6,Gaston Etlis,Hermes Gamonal,6-4 4-0 RET,,,,,,,,,,,,,,,,,,,,,
@@ -48,7 +55,7 @@
 13-Aug-2001,Brasilia1 CH,3,Clay,R16,317,290,1,,8,Gaston Etlis,Marcos Daniel,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
 13-Aug-2001,Brasilia1 CH,3,Clay,R32,317,367,1,,,Gaston Etlis,Mark Hilton,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 6-Aug-2001,Gramado CH,3,Hard,R16,333,248,0,,8,Denis Golovanov,Gaston Etlis,6-4 2-6 7-5,,,,,,,,,,,,,,,,,,,,,
-6-Aug-2001,Gramado CH,3,Hard,R32,333,UNR,1,,WC,Gaston Etlis,Sergio Bruni,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+6-Aug-2001,Gramado CH,3,Hard,R32,333,,1,,WC,Gaston Etlis,Sergio Bruni,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 30-Jul-2001,Belo Horizonte CH,3,Hard,R32,337,166,0,,4,Eric Taino,Gaston Etlis,4-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 14-May-2001,Antwerp CH,3,Clay,SF,243,107,0,,2,Peter Wessels,Gaston Etlis,4-2 RET,,,,,,,,,,,,,,,,,,,,,
 14-May-2001,Antwerp CH,3,Clay,QF,243,253,1,,,Gaston Etlis,Oliver Marach,5-7 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -69,6 +76,7 @@
 16-Oct-2000,Lima CH,3,Clay,R32,133,208,0,7,Q,Jose Acasuso,Gaston Etlis,4-6 7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
 9-Oct-2000,Guadalajara CH,3,Clay,R32,134,596,0,4,Q,Luis Adrian Morejon,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 11-Sep-2000,Bucharest,3,Clay,R32,130,113,0,,,Sergi Bruguera,Gaston Etlis,4-6 6-3 6-2,0.78,0.0%,3.9%,48.1%,67.6%,40.0%,10/16,44.7%,36.6%,1.2%,26.8%,46.3%,4/7,159,0,3,77,37,40,1,1:44
+28-Aug-2000,US Open,5,Hard,Q1,131,216,0,16,,Jamie Delgado,Gaston Etlis,7-6(2) 1-6 6-4,,,,,,,,,,,,,,,,,,,,,
 14-Aug-2000,Indianapolis,3,Hard,R64,121,39,0,,16,Jiri Novak,Gaston Etlis,6-3 6-2,0.77,6.5%,10.9%,65.2%,63.3%,25.0%,1/6,43.5%,38.7%,1.6%,37.2%,42.1%,1/5,108,3,5,46,30,16,1,0:55
 24-Jul-2000,San Marino,3,Clay,R32,121,34,0,,3,Karim Alami,Gaston Etlis,7-5 6-3,0.80,4.2%,4.2%,67.6%,66.7%,43.5%,3/6,46.4%,32.8%,4.5%,15.6%,48.6%,0/3,138,3,3,71,48,23,3,1:23
 17-Jul-2000,Amsterdam,3,Clay,R32,119,63,0,,4,Magnus Gustafsson,Gaston Etlis,6-2 6-2,0.39,7.7%,9.6%,61.5%,62.5%,40.0%,1/5,38.5%,17.9%,5.1%,8.3%,33.3%,0/0,91,4,5,52,32,20,2,0:58
@@ -84,67 +92,16 @@
 1-May-2000,Munich,3,Clay,R32,135,60,1,Q,,Gaston Etlis,Goran Ivanisevic,7-6(3) 6-1,1.85,14.0%,5.3%,66.7%,84.2%,63.2%,0/0,59.6%,42.1%,19.3%,23.3%,63.0%,2/5,114,8,3,57,38,19,11,1:02
 24-Apr-2000,Barcelona,3,Clay,R64,136,20,0,Q,9,Tommy Haas,Gaston Etlis,7-5 4-6 6-4,1.07,8.4%,2.4%,60.2%,66.0%,57.6%,3/8,49.5%,40.0%,3.5%,31.4%,53.3%,4/15,198,7,2,83,50,33,4,2:11
 6-Mar-2000,Bogota,3,Clay,R16,137,19,0,Q,2,Younes El Aynaoui,Gaston Etlis,6-4 4-6 7-6(1),0.91,3.6%,3.6%,73.2%,64.6%,46.7%,4/7,48.4%,36.7%,6.4%,17.5%,57.7%,3/12,221,4,4,112,82,30,7,2:20
-6-Mar-2000,Bogota,3,Clay,R32,137,UNR,1,Q,WC,Gaston Etlis,Pablo Gonzalez,6-2 7-6(3),1.58,10.8%,6.2%,61.5%,82.5%,56.0%,2/2,55.9%,43.7%,3.4%,40.0%,50.0%,2/10,152,7,4,65,40,25,3,1:26
+6-Mar-2000,Bogota,3,Clay,R32,137,,1,Q,WC,Gaston Etlis,Pablo Gonzalez,6-2 7-6(3),1.58,10.8%,6.2%,61.5%,82.5%,56.0%,2/2,55.9%,43.7%,3.4%,40.0%,50.0%,2/10,152,7,4,65,40,25,3,1:26
 21-Feb-2000,Mexico City,3,Clay,R32,131,6,0,Q,1,Gustavo Kuerten,Gaston Etlis,6-4 3-6 6-3,0.73,5.2%,5.2%,55.7%,74.1%,53.5%,11/13,48.0%,25.7%,12.2%,15.4%,37.1%,1/2,171,5,5,97,54,43,9,1:32
 14-Feb-2000,Memphis,3,Hard,R64,126,99,0,,,Nicolas Massu,Gaston Etlis,7-5 6-1,0.68,2.0%,2.0%,61.2%,53.3%,42.1%,4/9,41.3%,34.5%,5.5%,26.3%,38.9%,2/3,104,1,1,49,30,19,3,1:11
 31-Jan-2000,Amarillo CH,3,Hard,R16,130,177,0,5,,Stefano Pescosolido,Gaston Etlis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 31-Jan-2000,Amarillo CH,3,Hard,R32,130,322,1,5,WC,Gaston Etlis,Mashiska Washington,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2000,Waikoloa CH,3,Hard,QF,UNR,UNR,0,8,1,Paul Goldstein,Gaston Etlis,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2000,Waikoloa CH,3,Hard,R16,UNR,UNR,1,8,,Gaston Etlis,Ville Liukko,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Jan-2000,Waikoloa CH,3,Hard,R32,UNR,UNR,1,8,Q,Gaston Etlis,Dusan Vemic,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1999,Mexico City CH,3,Clay,F,149,156,0,1,2,Federico Browne,Gaston Etlis,4-6 7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1999,Mexico City CH,3,Clay,SF,149,358,1,1,,Gaston Etlis,Razvan Sabau,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1999,Mexico City CH,3,Clay,QF,149,254,1,1,7,Gaston Etlis,Alejandro Hernandez,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1999,Mexico City CH,3,Clay,R16,149,512,1,1,Q,Gaston Etlis,Lazaro Navarro,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-6-Dec-1999,Mexico City CH,3,Clay,R32,149,279,1,1,,Gaston Etlis,Diego Veronelli,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Caracas CH,3,Hard,F,156,34,0,,1,Younes El Aynaoui,Gaston Etlis,6-3 7-6(12),,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Caracas CH,3,Hard,SF,156,255,1,,,Gaston Etlis,Solon Peppas,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Caracas CH,3,Hard,QF,156,171,1,,,Gaston Etlis,Christian Vinck,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Caracas CH,3,Hard,R16,156,97,1,,2,Gaston Etlis,Nicolas Massu,7-6(5) 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
-29-Nov-1999,Caracas CH,3,Hard,R32,156,160,1,,,Gaston Etlis,Michael Sell,7-6(3) 6-4,,,,,,,,,,,,,,,,,,,,,
-22-Nov-1999,Guadalajara CH,3,Clay,R32,146,183,0,,,Francisco Costa,Gaston Etlis,7-6(7) 6-2,,,,,,,,,,,,,,,,,,,,,
-15-Nov-1999,Buenos Aires CH,3,Clay,R32,142,111,0,Q,Q,Nicolas Massu,Gaston Etlis,3-6 6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-8-Nov-1999,Montevideo CH,3,Clay,R32,142,314,0,,,Dusan Vemic,Gaston Etlis,7-6(4) 6-7(2) 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Nov-1999,Santiago CH,3,Clay,R32,142,395,0,,WC,Fernando Gonzalez,Gaston Etlis,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
-20-Sep-1999,Szczecin CH,3,Clay,R16,139,96,0,,,Alberto Berasategui,Gaston Etlis,6-4 6-7(2) 6-4,,,,,,,,,,,,,,,,,,,,,
-20-Sep-1999,Szczecin CH,3,Clay,R32,139,71,1,,4,Gaston Etlis,Guillermo Canas,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2000,Waikoloa CH,3,Hard,QF,130,87,0,8,1,Paul Goldstein,Gaston Etlis,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2000,Waikoloa CH,3,Hard,R16,130,178,1,8,,Gaston Etlis,Ville Liukko,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-2000,Waikoloa CH,3,Hard,R32,130,283,1,8,Q,Gaston Etlis,Dusan Vemic,6-0 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
 13-Sep-1999,Bournemouth,3,Clay,R32,134,118,0,,,Alex Lopez Moron,Gaston Etlis,6-1 6-7(5) 6-3,0.83,4.1%,3.1%,48.5%,70.2%,44.0%,7/11,46.0%,35.9%,1.9%,24.5%,48.0%,1/7,200,4,3,97,47,50,2,2:07
-16-Aug-1999,Prague CH,3,Clay,SF,141,119,0,8,5,Davide Sanguinetti,Gaston Etlis,5-7 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Prague CH,3,Clay,QF,141,203,1,8,,Gaston Etlis,Radek Stepanek,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Prague CH,3,Clay,R16,141,153,1,8,,Gaston Etlis,Stephane Huet,6-7(4) 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-16-Aug-1999,Prague CH,3,Clay,R32,141,161,1,8,,Gaston Etlis,Marzio Martelli,6-1 4-6 6-2,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Vienna CH,3,Clay,R16,144,255,0,1,,Iztok Bozic,Gaston Etlis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-9-Aug-1999,Vienna CH,3,Clay,R32,144,257,1,1,,Gaston Etlis,Andy Fahlke,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Contrexeville CH,3,Clay,R16,143,149,0,7,,Stephane Huet,Gaston Etlis,7-5 6-7(4) 7-6(5),,,,,,,,,,,,,,,,,,,,,
-12-Jul-1999,Contrexeville CH,3,Clay,R32,143,819,1,7,Q,Gaston Etlis,Paul Henri Mathieu,6-2 7-6(4),,,,,,,,,,,,,,,,,,,,,
-5-Jul-1999,Ostend CH,3,Clay,R32,141,85,0,,1,Marcelo Filippini,Gaston Etlis,7-6(7) 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,Venice CH,3,Clay,R16,UNR,UNR,0,,1,Andrei Pavel,Gaston Etlis,6-2 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
-28-Jun-1999,Venice CH,3,Clay,R32,UNR,UNR,1,,Q,Gaston Etlis,Elia Grossi,6-3 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
-21-Jun-1999,Prague CH,3,Clay,R32,135,262,0,3,,Iztok Bozic,Gaston Etlis,7-5 4-6 7-5,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,QF,136,158,0,3,,Julien Boutter,Gaston Etlis,3-6 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,R16,136,185,1,3,,Gaston Etlis,Petr Luxa,2-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,
-14-Jun-1999,Zagreb CH,3,Clay,R32,136,241,1,3,,Gaston Etlis,Johan Van Herck,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-7-Jun-1999,Maia CH,3,Clay,QF,131,178,0,3,,Nicolas Massu,Gaston Etlis,7-5 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Jun-1999,Maia CH,3,Clay,R16,131,291,1,3,Q,Gaston Etlis,Emanuel Couto,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
-7-Jun-1999,Maia CH,3,Clay,R32,131,185,1,3,,Gaston Etlis,Oscar Serrano,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
-31-May-1999,Prostejov CH,3,Clay,R32,UNR,UNR,0,,,Jacobo Diaz,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-3-May-1999,Ljubljana CH,3,Clay,QF,136,99,0,,1,Dinu Pescariu,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-3-May-1999,Ljubljana CH,3,Clay,R16,136,153,1,,,Gaston Etlis,Sebastian Prieto,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
-3-May-1999,Ljubljana CH,3,Clay,R32,136,132,1,,,Gaston Etlis,Johan Van Herck,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-26-Apr-1999,Espinho CH,3,Clay,R16,134,160,0,,,Javier Sanchez,Gaston Etlis,4-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
-26-Apr-1999,Espinho CH,3,Clay,R32,134,155,1,,,Gaston Etlis,Dennis Van Scheppingen,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,New Delhi CH,3,Hard,SF,142,318,0,3,,Mahesh Bhupathi,Gaston Etlis,3-6 6-0 7-5,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,New Delhi CH,3,Hard,QF,142,431,1,3,Q,Gaston Etlis,Andreas Vinciguerra,3-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,New Delhi CH,3,Hard,R16,142,330,1,3,,Gaston Etlis,Jonathan Stark,0-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-12-Apr-1999,New Delhi CH,3,Hard,R32,142,302,1,3,,Gaston Etlis,Damien Roberts,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 5-Apr-1999,Chennai,3,Hard,R32,141,71,0,Q,7,Rainer Schuettler,Gaston Etlis,7-6(5) 6-1,0.73,0.0%,3.9%,53.2%,63.4%,38.9%,5/10,44.3%,34.9%,3.2%,28.6%,47.6%,2/7,140,0,3,77,41,36,2,1:30
-8-Mar-1999,Salinas CH,3,Hard,R32,144,335,0,,Q,Mashiska Washington,Gaston Etlis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Mar-1999,Grenoble CH,3,Hard,QF,143,140,0,,7,Antony Dupuis,Gaston Etlis,6-4 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Mar-1999,Grenoble CH,3,Hard,R16,143,233,1,,,Gaston Etlis,Olivier Delaitre,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Mar-1999,Grenoble CH,3,Hard,R32,143,179,1,,,Gaston Etlis,Fredrik Jonsson,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
-22-Feb-1999,Cherbourg CH,3,Hard,QF,151,89,0,,3,Sebastien Grosjean,Gaston Etlis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-22-Feb-1999,Cherbourg CH,3,Hard,R16,151,123,1,,5,Gaston Etlis,Orlin Stanoytchev,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-22-Feb-1999,Cherbourg CH,3,Hard,R32,151,149,1,,,Gaston Etlis,Neville Godwin,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 15-Feb-1999,Rotterdam,3,Carpet,R32,150,49,0,Q,,Hicham Arazi,Gaston Etlis,7-6(8) 7-5,0.78,8.9%,3.8%,72.2%,66.7%,36.4%,2/5,45.5%,32.5%,9.1%,19.5%,47.2%,2/7,156,7,3,79,57,22,7,1:22
 7-Dec-1998,Santiago CH,3,Clay,R16,153,195,0,6,,Francisco Cabello,Gaston Etlis,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
 7-Dec-1998,Santiago CH,3,Clay,R32,153,248,1,6,,Gaston Etlis,Hector Moretti,6-7 6-2 7-6,,,,,,,,,,,,,,,,,,,,,
@@ -184,16 +141,16 @@
 6-Jul-1998,Ostend CH,3,Clay,QF,186,69,0,Q,1,Andrew Ilie,Gaston Etlis,7-5 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
 6-Jul-1998,Ostend CH,3,Clay,R16,186,125,1,Q,8,Gaston Etlis,Orlin Stanoytchev,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 6-Jul-1998,Ostend CH,3,Clay,R32,186,130,1,Q,,Gaston Etlis,Dirk Dier,6-3 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
-29-Jun-1998,Montauban CH,3,Clay,R16,UNR,UNR,0,5,,Edwin Kempes,Gaston Etlis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
-29-Jun-1998,Montauban CH,3,Clay,R32,UNR,UNR,1,5,,Gaston Etlis,Gilbert Schaller,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Montauban CH,3,Clay,R16,184,211,0,5,,Edwin Kempes,Gaston Etlis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+29-Jun-1998,Montauban CH,3,Clay,R32,184,244,1,5,,Gaston Etlis,Gilbert Schaller,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 8-Jun-1998,Weiden CH,3,Clay,F,208,254,0,,,Agustin Calleri,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 8-Jun-1998,Weiden CH,3,Clay,SF,208,178,1,,4,Gaston Etlis,Andrei Cherkasov,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jun-1998,Weiden CH,3,Clay,QF,208,194,1,,,Gaston Etlis,Edwin Kempes,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jun-1998,Weiden CH,3,Clay,R16,208,172,1,,1,Gaston Etlis,Martin Rodriguez,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 8-Jun-1998,Weiden CH,3,Clay,R32,208,196,1,,,Gaston Etlis,Charles Auffray,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-1-Jun-1998,Surbiton CH,3,Grass,QF,UNR,1374,0,,,Arne Thoms,Gaston Etlis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Jun-1998,Surbiton CH,3,Grass,R16,UNR,UNR,1,,,Gaston Etlis,Todd Larkham,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
-1-Jun-1998,Surbiton CH,3,Grass,R32,UNR,UNR,1,,,Gaston Etlis,Lleyton Hewitt,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Surbiton CH,3,Grass,QF,195,1374,0,,,Arne Thoms,Gaston Etlis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Surbiton CH,3,Grass,R16,195,173,1,,,Gaston Etlis,Todd Larkham,2-6 6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jun-1998,Surbiton CH,3,Grass,R32,195,165,1,,,Gaston Etlis,Lleyton Hewitt,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 13-Apr-1998,Nice CH,3,Clay,R32,196,141,0,Q,,Mariano Puerta,Gaston Etlis,6-3 2-6 7-6,,,,,,,,,,,,,,,,,,,,,
 30-Mar-1998,Barletta CH,3,Clay,R16,196,100,0,,2,Marcello Craca,Gaston Etlis,1-6 6-0 6-3,,,,,,,,,,,,,,,,,,,,,
 30-Mar-1998,Barletta CH,3,Clay,R32,196,167,1,,,Gaston Etlis,Gilbert Schaller,6-2 1-6 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -207,7 +164,7 @@
 24-Nov-1997,Buenos Aires CH,3,Clay,R32,129,188,0,,,Francisco Costa,Gaston Etlis,7-5 6-0,,,,,,,,,,,,,,,,,,,,,
 17-Nov-1997,Guadalajara CH,3,Clay,R32,130,164,0,,,Sebastian Prieto,Gaston Etlis,1-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Nov-1997,Rio Grande CH,3,Clay,R16,125,108,0,,,Marcello Craca,Gaston Etlis,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
-10-Nov-1997,Rio Grande CH,3,Clay,R32,125,UNR,1,,WC,Gaston Etlis,Gabriel Montilla,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Nov-1997,Rio Grande CH,3,Clay,R32,125,,1,,WC,Gaston Etlis,Gabriel Montilla,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 27-Oct-1997,Bogota,3,Clay,R32,124,45,0,Q,2,Julian Alonso,Gaston Etlis,6-3 6-3,0.67,0.0%,13.3%,41.7%,60.0%,34.3%,4/9,40.8%,36.9%,10.8%,22.2%,47.4%,2/3,125,0,8,60,25,35,7,1:19
 20-Oct-1997,Mexico City,3,Clay,R16,133,117,0,Q,Q,Lucas Arnold Ker,Gaston Etlis,6-3 6-3,0.79,7.4%,3.7%,51.9%,64.3%,42.3%,5/9,44.3%,36.8%,0.0%,26.2%,53.8%,1/6,122,4,2,54,28,26,0,1:21
 20-Oct-1997,Mexico City,3,Clay,R32,133,122,1,Q,,Gaston Etlis,Franco Squillari,6-4 6-4,1.20,8.1%,4.1%,63.5%,72.3%,51.9%,9/10,53.8%,42.3%,2.8%,30.8%,56.3%,3/8,145,6,3,74,47,27,2,1:13
@@ -222,15 +179,15 @@
 15-Sep-1997,Szczecin CH,3,Clay,R16,175,349,1,Q,WC,Gaston Etlis,Roberto Carretero,1-6 7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 15-Sep-1997,Szczecin CH,3,Clay,R32,175,468,1,Q,Q,Gaston Etlis,Daniel Orsanic,4-6 7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 8-Sep-1997,Espinho CH,3,Clay,R32,166,145,0,8,,John Van Lottum,Gaston Etlis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-1-Sep-1997,Azores CH,3,Hard,R32,UNR,UNR,0,,2,Gianluca Pozzi,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+1-Sep-1997,Azores CH,3,Hard,R32,165,105,0,,2,Gianluca Pozzi,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Aug-1997,Bronx CH,3,Hard,R32,156,247,0,7,,Ben Ellwood,Gaston Etlis,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
 4-Aug-1997,Belo Horizonte CH,3,Hard,R16,162,378,0,2,,Marcos Daniel,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Aug-1997,Belo Horizonte CH,3,Hard,R32,162,444,1,2,,Gaston Etlis,Richard Brostowicz,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
 21-Jul-1997,Los Angeles,3,Hard,R32,157,80,0,,,Guillaume Raoux,Gaston Etlis,6-3 6-4,0.85,8.6%,5.7%,51.4%,72.2%,38.2%,12/15,46.3%,37.7%,2.6%,29.0%,43.5%,1/7,147,6,4,70,36,34,2,1:35
 14-Jul-1997,Washington,3,Hard,R64,154,129,0,,15,Neville Godwin,Gaston Etlis,4-6 6-4 6-4,0.91,5.0%,5.9%,57.4%,75.9%,37.2%,7/11,48.7%,37.0%,9.8%,24.5%,51.2%,3/7,193,5,6,101,58,43,9,2:09
 7-Jul-1997,Newport,3,Grass,R32,156,173,0,,Q,Ben Ellwood,Gaston Etlis,7-6(5) 6-2,0.82,7.8%,6.7%,53.3%,66.7%,45.2%,9/12,46.7%,35.4%,2.5%,20.5%,54.3%,1/4,169,7,6,90,48,42,2,1:31
-30-Jun-1997,Flushing Meadow CH,3,Hard,R16,UNR,UNR,0,7,,Yong Il Yoon,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
-30-Jun-1997,Flushing Meadow CH,3,Hard,R32,UNR,UNR,1,7,,Gaston Etlis,Luis Herrera,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-1997,Flushing Meadow CH,3,Hard,R16,156,170,0,7,,Yong Il Yoon,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+30-Jun-1997,Flushing Meadow CH,3,Hard,R32,156,166,1,7,,Gaston Etlis,Luis Herrera,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 26-May-1997,Roland Garros,5,Clay,R64,145,33,0,Q,,Cedric Pioline,Gaston Etlis,2-6 6-3 6-3 7-6(3),0.93,4.9%,2.8%,62.7%,62.9%,41.5%,12/19,48.7%,41.9%,2.3%,28.6%,66.7%,6/14,271,7,4,142,89,53,3,2:39
 26-May-1997,Roland Garros,5,Clay,R128,145,299,1,Q,Q,Gaston Etlis,Wolfgang Schranz,6-4 6-2 6-3,1.43,6.4%,1.8%,61.5%,67.2%,64.3%,13/15,57.8%,48.5%,3.1%,35.7%,65.9%,6/12,206,7,2,109,67,42,3,1:43
 5-May-1997,Ljubljana CH,3,Clay,R32,133,117,0,,,Juan Antonio Marin,Gaston Etlis,7-5 7-5,,,,,,,,,,,,,,,,,,,,,
@@ -259,20 +216,20 @@
 9-Sep-1996,Bogota,3,Clay,R16,184,45,0,,2,Sjeng Schalken,Gaston Etlis,6-1 3-6 6-4,0.74,3.8%,5.0%,50.0%,72.5%,40.0%,4/9,45.0%,32.4%,5.6%,30.6%,36.4%,3/6,151,3,4,80,40,40,4,1:27
 9-Sep-1996,Bogota,3,Clay,R32,184,690,1,,WC,Gaston Etlis,Carlos Drada,7-5 0-6 6-4,0.97,6.2%,6.2%,50.5%,75.5%,39.6%,3/7,49.5%,40.9%,3.2%,26.2%,68.8%,3/12,190,6,6,97,49,48,3,1:51
 12-Aug-1996,Indianapolis,3,Hard,R32,194,26,0,,9,Stefan Edberg,Gaston Etlis,7-6(5) 6-4,0.87,7.8%,3.1%,45.3%,79.3%,62.9%,0/1,47.7%,25.8%,3.0%,18.8%,32.4%,0/0,130,5,2,64,29,35,2,1:22
-12-Aug-1996,Indianapolis,3,Hard,R64,194,78,1,,,Gaston Etlis,Martin Damm,7-6(5) 6-4,1.24,8.6%,1.4%,50.0%,82.9%,65.7%,3/3,52.4%,32.0%,14.7%,25.0%,38.5%,1/5,145,6,1,70,35,35,11,1:32
+12-Aug-1996,Indianapolis,3,Hard,R64,194,,1,,,Gaston Etlis,Martin Damm Sr,7-6(5) 6-4,1.24,8.6%,1.4%,50.0%,82.9%,65.7%,3/3,52.4%,32.0%,14.7%,25.0%,38.5%,1/5,145,6,1,70,35,35,11,1:32
 5-Aug-1996,Binghamton CH,3,Hard,R32,173,157,0,8,,Ben Ellwood,Gaston Etlis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 29-Jul-1996,Lexington CH,3,Hard,R32,153,304,0,5,Q,David Dilucia,Gaston Etlis,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
 22-Jul-1996,Atlanta Olympics,3,Hard,R64,152,11,0,WC,5,Wayne Ferreira,Gaston Etlis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-1-Jul-1996,Venice CH,3,Clay,R32,UNR,UNR,0,,,Lionel Roux,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+1-Jul-1996,Venice CH,3,Clay,R32,157,132,0,,,Lionel Roux,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-1996,Braunschweig CH,3,Clay,R16,157,111,0,,8,Galo Blanco,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 24-Jun-1996,Braunschweig CH,3,Clay,R32,157,158,1,,,Gaston Etlis,Olivier Delaitre,7-5 5-4 RET,,,,,,,,,,,,,,,,,,,,,
 17-Jun-1996,Kosice CH,3,Clay,R16,157,201,0,8,WC,Dominik Hrbaty,Gaston Etlis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 17-Jun-1996,Kosice CH,3,Clay,R32,157,265,1,8,Q,Gaston Etlis,David Miketa,1-6 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 10-Jun-1996,Cali CH,3,Clay,SF,144,201,0,3,,Marcello Craca,Gaston Etlis,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
 10-Jun-1996,Cali CH,3,Clay,QF,144,277,1,3,,Gaston Etlis,Juan Pino,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-10-Jun-1996,Cali CH,3,Clay,R16,144,1242,1,3,WC,Gaston Etlis,Greg Hill USA,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Jun-1996,Cali CH,3,Clay,R16,144,1242,1,3,WC,Gaston Etlis,Greg Hill Usa,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 10-Jun-1996,Cali CH,3,Clay,R32,144,255,1,3,,Gaston Etlis,Pablo Campana,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
-3-Jun-1996,Medellin CH,3,Clay,R32,UNR,UNR,0,3,,Marcello Craca,Gaston Etlis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+3-Jun-1996,Medellin CH,3,Clay,R32,135,224,0,3,,Marcello Craca,Gaston Etlis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 27-May-1996,Roland Garros,5,Clay,R128,135,42,0,Q,,Slava Dosedel,Gaston Etlis,6-3 6-2 7-6(3),0.55,1.8%,2.7%,54.1%,70.0%,39.2%,10/15,42.1%,24.4%,4.7%,21.0%,33.3%,2/5,197,2,3,111,60,51,4,1:40
 13-May-1996,Dresden CH,3,Clay,QF,136,154,0,,,Patrik Fredriksson,Gaston Etlis,7-5 7-6,,,,,,,,,,,,,,,,,,,,,
 13-May-1996,Dresden CH,3,Clay,R16,136,149,1,,,Gaston Etlis,Filippo Messori,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -290,7 +247,7 @@
 26-Feb-1996,Salinas CH,3,Hard,R16,134,144,0,6,,Oscar Martinez,Gaston Etlis,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
 26-Feb-1996,Salinas CH,3,Hard,R32,134,183,1,6,,Gaston Etlis,Oscar Ortiz,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 19-Feb-1996,Punta Del Este CH,3,Clay,R32,135,173,0,4,,Emilio Benfele Alvarez,Gaston Etlis,7-6 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
-15-Jan-1996,Australian Open,5,Hard,R128,133,2,0,Q,2,Andre Agassi,Gaston Etlis,3-6 7-6(2) 4-6 7-6(5) 6-3,1.22,13.3%,1.5%,66.2%,79.1%,48.5%,9/14,53.1%,38.2%,4.9%,32.8%,48.6%,6/11,399,26,3,195,129,66,10,0:17
+15-Jan-1996,Australian Open,5,Hard,R128,133,2,0,Q,2,Andre Agassi,Gaston Etlis,3-6 7-6(2) 4-6 7-6(5) 6-3,1.22,13.3%,1.5%,66.2%,79.1%,48.5%,9/14,53.1%,38.2%,4.9%,32.8%,48.6%,6/11,399,26,3,195,129,66,10,
 6-Nov-1995,Buenos Aires,3,Clay,R32,125,39,0,WC,7,Javier Sanchez,Gaston Etlis,6-4 4-6 6-1,0.92,9.6%,0.0%,67.5%,73.2%,40.7%,5/9,48.5%,34.5%,3.6%,33.3%,37.5%,1/5,167,8,0,83,56,27,3,1:35
 16-Oct-1995,Lima CH,3,Clay,QF,127,146,0,,,Nicolas Lapentti,Gaston Etlis,3-6 6-3 6-3,,,,,,,,,,,,,,,,,,,,,
 16-Oct-1995,Lima CH,3,Clay,R16,127,60,1,,1,Gaston Etlis,Fernando Meligeni,5-7 7-5 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -305,7 +262,7 @@
 7-Aug-1995,San Marino,3,Clay,R32,129,40,1,,5,Gaston Etlis,Carlos Costa,7-6(4) 6-4,1.16,1.4%,2.7%,53.4%,66.7%,67.6%,2/4,53.2%,38.2%,11.8%,27.3%,58.3%,3/7,141,1,2,73,39,34,8,1:33
 31-Jul-1995,Prague,3,Clay,QF,136,61,0,,,Bohdan Ulihrach,Gaston Etlis,6-3 7-5,0.82,4.6%,4.6%,52.3%,55.9%,45.2%,1/6,45.1%,40.5%,1.3%,31.4%,47.7%,2/9,144,3,3,65,34,31,1,1:32
 31-Jul-1995,Prague,3,Clay,R16,136,196,1,,LL,Gaston Etlis,Oleg Ogorodov,6-4 6-2,1.64,2.0%,4.1%,36.7%,77.8%,71.0%,0/0,57.7%,43.6%,1.8%,27.6%,61.5%,3/6,104,1,2,49,18,31,1,1:08
-31-Jul-1995,Prague,3,Clay,R32,136,96,1,,,Gaston Etlis,Oscar Martinez,6-4 6-4,1.09,3.2%,0.0%,41.3%,88.5%,48.6%,5/6,52.5%,38.2%,1.8%,23.8%,47.1%,3/5,118,2,0,63,26,37,1,0:08
+31-Jul-1995,Prague,3,Clay,R32,136,96,1,,,Gaston Etlis,Oscar Martinez,6-4 6-4,1.09,3.2%,0.0%,41.3%,88.5%,48.6%,5/6,52.5%,38.2%,1.8%,23.8%,47.1%,3/5,118,2,0,63,26,37,1,
 24-Jul-1995,Poznan CH,3,Clay,R16,137,157,0,,,Diego Nargiso,Gaston Etlis,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
 24-Jul-1995,Poznan CH,3,Clay,R32,137,263,1,,,Gaston Etlis,Andrei Pavel,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 17-Jul-1995,Scheveningen CH,3,Clay,R16,135,410,0,7,Q,Andrei Pavel,Gaston Etlis,6-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
@@ -317,9 +274,9 @@
 12-Jun-1995,Cali CH,3,Clay,QF,154,296,1,,,Gaston Etlis,Gustavo Kuerten,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 12-Jun-1995,Cali CH,3,Clay,R16,154,178,1,,7,Gaston Etlis,Jerome Golmard,7-6 6-1,,,,,,,,,,,,,,,,,,,,,
 12-Jun-1995,Cali CH,3,Clay,R32,154,222,1,,,Gaston Etlis,Mario Rincon,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-1995,Medellin CH,3,Clay,QF,UNR,UNR,0,8,Q,Gustavo Kuerten,Gaston Etlis,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
-5-Jun-1995,Medellin CH,3,Clay,R16,UNR,UNR,1,8,,Gaston Etlis,Gabriel Silberstein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
-5-Jun-1995,Medellin CH,3,Clay,R32,UNR,UNR,1,8,,Gaston Etlis,Jaime Oncins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Jun-1995,Medellin CH,3,Clay,QF,189,394,0,8,Q,Gustavo Kuerten,Gaston Etlis,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+5-Jun-1995,Medellin CH,3,Clay,R16,189,218,1,8,,Gaston Etlis,Gabriel Silberstein,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+5-Jun-1995,Medellin CH,3,Clay,R32,189,303,1,8,,Gaston Etlis,Jaime Oncins,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-1995,Asuncion CH,3,Clay,F,189,303,0,2,,Jaime Oncins,Gaston Etlis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 29-May-1995,Asuncion CH,3,Clay,SF,189,269,1,2,,Gaston Etlis,Roberto Jabali,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
 29-May-1995,Asuncion CH,3,Clay,QF,189,230,1,2,,Gaston Etlis,Luis Adrian Morejon,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
@@ -339,19 +296,19 @@
 20-Feb-1995,Mendoza CH,3,Clay,R32,242,224,1,WC,,Gaston Etlis,Daniel Orsanic,5-7 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 13-Feb-1995,Mar Del Plata CH,3,Clay,R16,251,130,0,,5,Hernan Gumy,Gaston Etlis,4-6 7-5 7-6,,,,,,,,,,,,,,,,,,,,,
 13-Feb-1995,Mar Del Plata CH,3,Clay,R32,251,248,1,,,Gaston Etlis,Jaime Oncins,6-3 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Sao Luis CH,3,Hard,SF,UNR,UNR,0,,3,Michael Joyce,Gaston Etlis,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Sao Luis CH,3,Hard,QF,UNR,UNR,1,,Q,Gaston Etlis,Gustavo Kuerten,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Sao Luis CH,3,Hard,R16,UNR,UNR,1,,,Gaston Etlis,Jan Weinzierl,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
-5-Dec-1994,Sao Luis CH,3,Hard,R32,UNR,UNR,1,,2,Gaston Etlis,Fernando Meligeni,7-6 RET,,,,,,,,,,,,,,,,,,,,,
+5-Dec-1994,Sao Luis CH,3,Hard,SF,228,141,0,,3,Michael Joyce,Gaston Etlis,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Dec-1994,Sao Luis CH,3,Hard,QF,228,418,1,,Q,Gaston Etlis,Gustavo Kuerten,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+5-Dec-1994,Sao Luis CH,3,Hard,R16,228,248,1,,,Gaston Etlis,Jan Weinzierl,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Dec-1994,Sao Luis CH,3,Hard,R32,228,94,1,,2,Gaston Etlis,Fernando Meligeni,7-6 RET,,,,,,,,,,,,,,,,,,,,,
 7-Nov-1994,Buenos Aires,3,Clay,R16,252,8,0,Q,1,Alberto Berasategui,Gaston Etlis,4-6 6-0 6-2,0.71,5.6%,5.6%,60.6%,62.8%,42.9%,1/6,43.2%,32.0%,1.3%,27.1%,50.0%,1/4,146,4,4,71,43,28,1,1:19
 7-Nov-1994,Buenos Aires,3,Clay,R32,252,130,1,Q,WC,Gaston Etlis,Hernan Gumy,7-6(3) 6-1,1.37,7.8%,1.6%,56.3%,80.6%,42.9%,6/8,56.4%,49.3%,5.8%,43.5%,60.9%,5/9,133,5,1,64,36,28,4,1:27
 31-Oct-1994,Montevideo,3,Clay,R32,266,96,0,Q,,Lars Jonsson,Gaston Etlis,6-3 6-4,0.71,6.0%,8.0%,50.0%,72.0%,44.0%,2/5,43.0%,29.8%,7.0%,22.2%,58.3%,1/4,107,3,4,50,25,25,4,1:05
 3-Oct-1994,Ribeirao Preta CH,3,Clay,R16,251,228,0,,,Vaclav Roubicek,Gaston Etlis,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 3-Oct-1994,Ribeirao Preta CH,3,Clay,R32,251,206,1,,7,Gaston Etlis,Patricio Arnold,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
-5-Sep-1994,Natal CH,3,Clay,SF,UNR,UNR,0,,3,Alejo Mancisidor,Gaston Etlis,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-1994,Natal CH,3,Clay,QF,UNR,UNR,1,,2,Gaston Etlis,Roberto Jabali,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-5-Sep-1994,Natal CH,3,Clay,R16,UNR,UNR,1,,Q,Gaston Etlis,Ricardo Camargo,4-6 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
-5-Sep-1994,Natal CH,3,Clay,R32,UNR,UNR,1,,,Gaston Etlis,Igor Kornienko,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+5-Sep-1994,Natal CH,3,Clay,SF,283,159,0,,3,Alejo Mancisidor,Gaston Etlis,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-1994,Natal CH,3,Clay,QF,283,139,1,,2,Gaston Etlis,Roberto Jabali,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+5-Sep-1994,Natal CH,3,Clay,R16,283,647,1,,Q,Gaston Etlis,Ricardo Camargo,4-6 7-6 7-6,,,,,,,,,,,,,,,,,,,,,
+5-Sep-1994,Natal CH,3,Clay,R32,283,311,1,,,Gaston Etlis,Igor Kornienko,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 15-Aug-1994,Fortaleza CH,3,Hard,R16,288,221,0,,5,Mario Rincon,Gaston Etlis,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 15-Aug-1994,Fortaleza CH,3,Hard,R32,288,298,1,,,Gaston Etlis,Branislav Galik,6-3 7-6,,,,,,,,,,,,,,,,,,,,,
 8-Aug-1994,Brasilia CH,3,Hard,R32,289,221,0,,6,Oscar Ortiz,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -359,7 +316,7 @@
 25-Jul-1994,Winnetka CH,3,Hard,R32,285,133,0,,3,Doug Flach,Gaston Etlis,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 4-Jul-1994,Campos Do Jordao CH,3,Hard,R32,226,339,0,4,,Gerald Mandl,Gaston Etlis,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 6-Jun-1994,Weiden CH,3,Clay,R32,227,302,0,,,Lars Burgsmuller,Gaston Etlis,6-1 6-0,,,,,,,,,,,,,,,,,,,,,
-30-May-1994,Furth CH,3,Clay,R32,UNR,UNR,0,,,Jimmy Arias,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+30-May-1994,Furth CH,3,Clay,R32,222,178,0,,,Jimmy Arias,Gaston Etlis,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
 2-May-1994,Pinehurst,3,Clay,R32,187,102,0,Q,,Francisco Clavet,Gaston Etlis,6-3 6-4,0.70,0.0%,2.7%,45.9%,50.0%,50.0%,7/12,43.8%,35.2%,0.0%,16.7%,58.3%,2/7,128,0,2,74,34,40,0,1:33
 18-Apr-1994,Sao Paulo CH,3,Clay,R32,185,250,0,,,Roberto Azar,Gaston Etlis,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
 4-Apr-1994,Puerto Vallarta CH,3,Hard,R32,187,176,0,,,Jonathan Canter,Gaston Etlis,7-6 3-6 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -369,11 +326,11 @@
 28-Feb-1994,Belem CH,3,Hard,R32,198,101,0,,2,Fernando Meligeni,Gaston Etlis,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Feb-1994,Punta Del Este CH,3,Clay,R16,200,188,0,WC,,Jose Luis Noriega,Gaston Etlis,6-0 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Feb-1994,Punta Del Este CH,3,Clay,R32,200,72,1,WC,1,Gaston Etlis,Horst Skoff,0-6 7-5 3-1 RET,,,,,,,,,,,,,,,,,,,,,
-24-Jan-1994,Mar Del Plata CH,3,Clay,F,UNR,UNR,0,,,Albert Costa,Gaston Etlis,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
-24-Jan-1994,Mar Del Plata CH,3,Clay,SF,UNR,UNR,1,,,Gaston Etlis,Dinu Pescariu,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
-24-Jan-1994,Mar Del Plata CH,3,Clay,QF,UNR,UNR,1,,,Gaston Etlis,Filippo Messori,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
-24-Jan-1994,Mar Del Plata CH,3,Clay,R16,UNR,UNR,1,,Q,Gaston Etlis,Hector Moretti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
-24-Jan-1994,Mar Del Plata CH,3,Clay,R32,UNR,UNR,1,,Q,Gaston Etlis,Luis Lobo,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jan-1994,Mar Del Plata CH,3,Clay,F,242,223,0,,,Albert Costa,Gaston Etlis,6-3 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+24-Jan-1994,Mar Del Plata CH,3,Clay,SF,242,267,1,,,Gaston Etlis,Dinu Pescariu,6-2 7-6,,,,,,,,,,,,,,,,,,,,,
+24-Jan-1994,Mar Del Plata CH,3,Clay,QF,242,237,1,,,Gaston Etlis,Filippo Messori,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+24-Jan-1994,Mar Del Plata CH,3,Clay,R16,242,290,1,,Q,Gaston Etlis,Hector Moretti,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+24-Jan-1994,Mar Del Plata CH,3,Clay,R32,242,420,1,,Q,Gaston Etlis,Luis Lobo,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
 15-Nov-1993,Sao Luis CH,3,Hard,R32,225,220,0,,,Christer Allgardh,Gaston Etlis,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
 18-Oct-1993,Curitiba CH,3,Clay,R32,233,179,0,,7,Claudio Pistolesi,Gaston Etlis,3-6 6-4 6-1,,,,,,,,,,,,,,,,,,,,,
 11-Oct-1993,Recife CH,3,Clay,QF,245,189,0,,8,Mark Petchey,Gaston Etlis,6-3 0-6 6-1,,,,,,,,,,,,,,,,,,,,,
@@ -383,7 +340,7 @@
 20-Sep-1993,Caracas2 CH,3,Hard,R32,247,269,0,,,Martin Blackman,Gaston Etlis,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
 13-Sep-1993,Natal CH,3,Clay,R16,250,208,0,,8,Patricio Arnold,Gaston Etlis,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
 13-Sep-1993,Natal CH,3,Clay,R32,250,362,1,,Q,Gaston Etlis,Tom Kempers,7-5 2-6 6-1,,,,,,,,,,,,,,,,,,,,,
-6-Sep-1993,Sao Paulo2 CH,3,Clay,R32,UNR,UNR,0,,Q,Jack Waite,Gaston Etlis,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
+6-Sep-1993,Sao Paulo2 CH,3,Clay,R32,252,525,0,,Q,Jack Waite,Gaston Etlis,7-6 7-5,,,,,,,,,,,,,,,,,,,,,
 19-Jul-1993,Belo Horizonte CH,3,Hard,SF,289,314,0,,,Martin Blackman,Gaston Etlis,1-6 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
 19-Jul-1993,Belo Horizonte CH,3,Hard,QF,289,190,1,,4,Gaston Etlis,Roberto Jabali,7-6 7-6,,,,,,,,,,,,,,,,,,,,,
 19-Jul-1993,Belo Horizonte CH,3,Hard,R16,289,903,1,,Q,Gaston Etlis,Alexandre Hocevar,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
@@ -392,9 +349,50 @@
 12-Jul-1993,Campinas CH,3,Clay,QF,324,116,1,,4,Gaston Etlis,Nicolas Pereira,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
 12-Jul-1993,Campinas CH,3,Clay,R16,324,246,1,,,Gaston Etlis,Hernan Gumy,2-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
 12-Jul-1993,Campinas CH,3,Clay,R32,324,336,1,,,Gaston Etlis,David Adams,6-4 3-6 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 2,3,Clay,F,474,488,1,3,1,Gaston Etlis,Agustin Garizzio,7-6 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 4,3,Clay,F,474,553,0,2,8,Sebastian Allende,Gaston Etlis,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 1,3,Clay,SF,474,821,0,2,3,Mariano Hood,Gaston Etlis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 2,3,Clay,SF,474,,1,3,WC,Gaston Etlis,Leonardo Olguin,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 4,3,Clay,SF,474,968,1,2,Q,Gaston Etlis,Geronimo Degreef,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 1,3,Clay,QF,474,661,1,2,,Gaston Etlis,Andy Zingman,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 2,3,Clay,QF,474,,1,3,Q,Gaston Etlis,Rafael Serpa Guinazu,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 4,3,Clay,QF,474,661,1,2,,Gaston Etlis,Federico Depetris,7-6 6-2,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 1,3,Clay,R16,474,502,1,2,,Gaston Etlis,Luis Adrian Morejon,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 2,3,Clay,R16,474,904,1,3,,Gaston Etlis,Sebastian Prieto,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 3,3,Clay,R16,474,821,0,2,,Mariano Hood,Gaston Etlis,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 4,3,Clay,R16,474,578,1,2,,Gaston Etlis,Rodolfo Ramos Paganini,6-4 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 2,3,Clay,R32,474,968,1,3,,Gaston Etlis,Marcelo Rebelo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 3,3,Clay,R32,474,661,1,2,,Gaston Etlis,Federico Depetris,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Apr-1993,Argentina 1 Masters 4,3,Clay,R32,474,839,1,2,WC,Gaston Etlis,Fernando Pautassi,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 22-Feb-1993,Vina Del Mar CH,3,Clay,R16,541,181,0,Q,5,Federico Sanchez,Gaston Etlis,4-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 22-Feb-1993,Vina Del Mar CH,3,Clay,R32,541,271,1,Q,,Gaston Etlis,Martin Blackman,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
 1-Feb-1993,Punta Del Este CH,3,Clay,R32,542,264,0,WC,,Hernan Gumy,Gaston Etlis,6-1 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
-27-Jun-1992,Wimbledon Jrs,3,Grass,R64,,,0,,,Stephane Manai,Gaston Etlis,6-7(4) 6-3 6-2,,,,,,,,,,,,,,,,,,,,,
-31-May-1992,Roland Garros Jrs,3,Clay,R32,,,0,,,Nicolas Kischkewitz,Gaston Etlis,2-6 6-2,,,,,,,,,,,,,,,,,,,,,
-31-May-1992,Roland Garros Jrs,3,Clay,R64,,,1,,,Gaston Etlis,Magnus Norman,6-4 7-6(5),,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 3,3,Clay,F,760,956,1,Q,Q,Gaston Etlis,Carlos Di Laura,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 2,3,Clay,SF,760,326,0,3,,Juan Pino,Gaston Etlis,4-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 3,3,Clay,SF,760,706,1,Q,Q,Gaston Etlis,Rodrigo Ferreiro,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 2,3,Clay,QF,760,760,1,3,,Gaston Etlis,Andy Zingman,5-7 6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 3,3,Clay,QF,760,,1,Q,2,Gaston Etlis,Alejandro Aramburu Acuna,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 1,3,Clay,R16,760,509,0,2,,Horacio Pacheco,Gaston Etlis,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 2,3,Clay,R16,760,635,1,3,,Gaston Etlis,Patricio Delgado,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 3,3,Clay,R16,760,760,1,Q,Q,Gaston Etlis,Joao Zwetsch,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 4,3,Clay,R16,760,,0,Q,5,Alejandro Aramburu Acuna,Gaston Etlis,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 1,3,Clay,R32,760,415,1,2,,Gaston Etlis,Otavio Della,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 3,3,Clay,R32,760,516,1,Q,,Gaston Etlis,Sebastian Allende,6-3 6-2,,,,,,,,,,,,,,,,,,,,,
+31-Oct-1992,Uruguay Paraguay Masters 4,3,Clay,R32,760,770,1,Q,Q,Gaston Etlis,Mariano Hood,7-6 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 4,3,Clay,QF,930,382,0,,4,Federico Garcia Berro,Gaston Etlis,7-6 6-7 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 1,3,Clay,R16,930,,0,Q,WC,Franco Squillari,Gaston Etlis,6-3 3-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 2,3,Clay,R16,930,727,0,WC,,Federico Depetris,Gaston Etlis,W/O,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 4,3,Clay,R16,930,,1,,5,Gaston Etlis,Gustavo Jorge Re,7-6 2-6 7-6,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 1,3,Clay,R32,930,651,1,Q,8,Gaston Etlis,Pier Squillari,7-6 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 2,3,Clay,R32,930,,1,WC,LL,Gaston Etlis,Jose Rafael Godoy,6-1 6-3,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 3,3,Clay,R32,930,492,0,,,Pablo Escribano,Gaston Etlis,5-7 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+10-Aug-1992,Argentina 2 Masters 4,3,Clay,R32,930,710,1,,,Gaston Etlis,Enrique Perez Cassarino,6-2 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 2,3,Clay,QF,,,0,WC,6,Gustavo Jorge Re,Gaston Etlis,6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 2,3,Clay,R16,,484,1,WC,4,Gaston Etlis,Marcelo Charpentier,6-4 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 3,3,Clay,R16,,523,0,,4,Luis Andreotti,Gaston Etlis,7-5 4-6 7-6,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 4,3,Clay,R16,,,0,,8,Andy Zingman,Gaston Etlis,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 1,3,Clay,R32,,871,0,WC,,Pablo Escribano,Gaston Etlis,7-5 6-7 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 2,3,Clay,R32,,,1,WC,Q,Gaston Etlis,Martin Galella,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 3,3,Clay,R32,,1000,1,,Q,Gaston Etlis,Diego Starosta,7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+13-Jul-1992,Argentina 1 Masters 4,3,Clay,R32,,822,1,,,Gaston Etlis,Sebastian Romano,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+16-Mar-1992,Brazil 1 Masters 2,3,Clay,R32,,318,0,Q,5,Christer Allgardh,Gaston Etlis,6-4 6-1,,,,,,,,,,,,,,,,,,,,,

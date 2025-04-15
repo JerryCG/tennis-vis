@@ -1,4 +1,49 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Mar-2025,M15 Sharm ElSheikh,3,Hard,QF,521,474,0,,,Vadym Ursu,Yurii Dzhavakian,3-6 6-3 7-5,0.90,2.9%,8.8%,48.0%,61.2%,43.4%,6/13,48.1%,43.2%,4.9%,32.6%,57.1%,6/9,183,3,9,102,49,53,4,2:28
+31-Mar-2025,M15 Sharm ElSheikh,3,Hard,R16,521,1720,1,,,Yurii Dzhavakian,Denis Petak,6-3 7-5,1.17,1.4%,2.8%,61.1%,68.2%,42.9%,2/5,53.5%,48.6%,5.7%,41.0%,58.1%,5/9,142,1,2,72,44,28,4,1:28
+31-Mar-2025,M15 Sharm ElSheikh,3,Hard,R32,521,1781,1,,,Yurii Dzhavakian,Akram El Sallaly,6-3 5-7 6-2,1.07,4.5%,7.2%,55.0%,67.2%,50.0%,11/14,51.9%,43.6%,3.0%,29.5%,54.4%,5/12,212,5,8,111,61,50,3,2:23
+24-Mar-2025,M15 Nonthaburi,3,Hard,R16,505,,0,,,Jeamoon Lee,Yurii Dzhavakian,6-4 5-7 6-0,0.79,5.8%,5.8%,46.5%,67.5%,45.7%,5/11,45.6%,34.9%,6.0%,24.1%,60.0%,3/5,169,5,5,86,40,46,5,2:23
+24-Mar-2025,M15 Nonthaburi,3,Hard,R32,505,799,1,,,Yurii Dzhavakian,Fausto Tabacco,6-4 3-6 6-1,1.19,6.7%,4.0%,66.7%,66.0%,28.0%,2/8,54.4%,55.4%,3.6%,43.4%,76.7%,8/11,158,5,3,75,50,25,3,2:02
+17-Mar-2025,M15 Nonthaburi,3,Hard,QF,505,835,0,,,Pawit Sornlaksup,Yurii Dzhavakian,7-6(3) 4-6 6-2,0.83,1.9%,5.7%,59.0%,62.9%,48.8%,4/8,46.8%,35.4%,5.2%,31.4%,46.2%,3/7,201,2,6,105,62,43,5,2:40
+17-Mar-2025,M15 Nonthaburi,3,Hard,R16,505,700,1,,,Yurii Dzhavakian,Wishaya Trongcharoenchaikul,6-3 3-6 6-3,1.09,2.2%,4.3%,57.6%,71.7%,51.3%,5/8,52.3%,40.2%,8.5%,25.0%,66.7%,4/7,174,2,4,92,53,39,7,2:00
+17-Mar-2025,M15 Nonthaburi,3,Hard,R32,505,,1,,,Yurii Dzhavakian,Egor Pleshivtsev,6-2 6-2,1.60,6.1%,12.2%,53.1%,73.1%,56.5%,2/3,60.6%,55.6%,4.4%,43.3%,80.0%,5/7,94,3,6,49,26,23,2,1:06
+24-Feb-2025,Bengaluru CH,3,Hard,Q1,498,502,0,12,,Karan Singh,Yurii Dzhavakian,7-5 6-3,0.81,8.5%,11.3%,38.0%,63.0%,43.2%,5/10,45.0%,39.7%,1.3%,38.1%,41.7%,3/11,149,6,8,71,27,44,1,1:37
+17-Feb-2025,Pune CH,3,Hard,Q1,499,311,0,Alt,3,Michael Geerts,Yurii Dzhavakian,6-0 6-2,0.50,4.2%,6.3%,47.9%,52.2%,28.0%,3/8,35.2%,30.0%,7.5%,22.7%,38.9%,0/0,88,2,3,48,23,25,3,0:56
+10-Feb-2025,New Delhi CH,3,Hard,Q1,497,237,0,,1,Enzo Couacaud,Yurii Dzhavakian,6-2 2-6 6-4,0.95,0.0%,11.4%,57.0%,55.6%,32.4%,5/13,48.9%,51.6%,4.2%,40.0%,62.0%,7/18,174,0,9,79,45,34,4,2:00
+3-Feb-2025,Chennai CH,3,Hard,R32,506,144,0,Q,2,Lloyd Harris,Yurii Dzhavakian,6-3 5-7 6-0,0.86,2.7%,12.4%,52.2%,72.9%,29.6%,8/14,46.8%,41.1%,10.3%,35.6%,47.9%,2/12,220,3,14,113,59,54,11,2:37
+3-Feb-2025,Chennai CH,3,Hard,Q2,506,964,1,7,,Yurii Dzhavakian,Chirag Duhan,4-6 6-1 7-6(3),1.18,6.1%,9.2%,61.2%,76.7%,52.6%,3/4,53.1%,38.5%,7.3%,28.8%,54.1%,2/7,194,6,9,98,60,38,7,2:57
+3-Feb-2025,Chennai CH,3,Hard,Q1,506,1068,1,7,,Yurii Dzhavakian,Rishab Agarwal,6-4 6-3,1.36,9.3%,9.3%,50.0%,81.5%,48.1%,5/7,55.4%,47.8%,3.0%,38.5%,53.7%,5/12,121,5,5,54,27,27,2,11:40
+13-Jan-2025,M25 Chennai,3,Hard,QF,509,388,0,,,Oliver Crawford,Yurii Dzhavakian,6-0 6-0,0.29,0.0%,0.0%,61.3%,31.6%,8.3%,1/7,22.6%,22.6%,3.2%,20.0%,27.3%,0/0,62,0,0,31,19,12,1,0:42
+13-Jan-2025,M25 Chennai,3,Hard,R16,509,1296,1,,,Yurii Dzhavakian,Siddhant Banthia,6-4 6-3,1.23,7.6%,9.1%,53.0%,71.4%,51.6%,2/4,54.8%,46.7%,1.7%,37.8%,60.9%,4/6,126,5,6,66,35,31,1,1:22
+13-Jan-2025,M25 Chennai,3,Hard,R32,509,764,1,,,Yurii Dzhavakian,Maxim Zhukov,6-7(9) 6-4 6-1,1.28,5.8%,4.8%,47.1%,81.6%,50.9%,4/6,54.3%,44.3%,2.6%,32.2%,57.1%,6/12,219,6,5,104,49,55,3,3:01
+6-Jan-2025,M25 Bhopal,3,Hard,R16,517,773,0,,,S D Prajwal Dev,Yurii Dzhavakian,6-4 7-5,0.88,9.1%,11.7%,49.4%,65.8%,28.2%,4/10,46.8%,46.8%,0.0%,41.9%,57.9%,4/8,139,7,9,77,38,39,0,1:50
+6-Jan-2025,M25 Bhopal,3,Hard,R32,517,1147,1,,,Yurii Dzhavakian,Yunseok Jang,6-3 6-4,1.38,5.2%,13.8%,56.9%,78.8%,48.0%,2/4,56.4%,47.5%,0.0%,37.9%,56.7%,4/7,117,3,8,58,33,25,0,1:23
+30-Dec-2024,M25 Indore,3,Hard,QF,516,403,0,,,Oliver Crawford,Yurii Dzhavakian,6-4 6-7(4) 6-2,0.69,4.8%,9.7%,51.6%,64.1%,43.3%,13/19,45.0%,31.8%,4.7%,23.5%,44.1%,3/8,209,6,12,124,64,60,4,2:37
+30-Dec-2024,M25 Indore,3,Hard,R16,516,608,1,,,Yurii Dzhavakian,Vladyslav Orlov,6-3 5-7 6-1,1.15,6.7%,4.5%,57.3%,60.8%,55.3%,10/14,53.2%,47.6%,0.0%,42.0%,55.9%,7/13,173,6,4,89,51,38,0,2:28
+30-Dec-2024,M25 Indore,3,Hard,R32,516,692,1,,,Yurii Dzhavakian,Siddharth Vishwakarma,6-2 6-2,1.40,4.2%,10.4%,52.1%,72.0%,52.2%,0/1,57.0%,52.5%,1.7%,45.9%,63.6%,5/9,107,2,5,48,25,23,1,1:03
+9-Dec-2024,M15 Sharm ElSheikh,3,Hard,R16,503,2126,0,6,Q,Ioannis Kountourakis,Yurii Dzhavakian,6-0 6-4,,,,,,,,,,,,,,,,,,,,,
+9-Dec-2024,M15 Sharm ElSheikh,3,Hard,R32,503,855,1,6,,Yurii Dzhavakian,Lasse Poertner,6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2024,M15 Sharm ElSheikh,3,Hard,QF,504,399,0,8,4,Vadym Ursu,Yurii Dzhavakian,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2024,M15 Sharm ElSheikh,3,Hard,R16,504,1133,1,8,Q,Yurii Dzhavakian,Daniil Ostapenkov,0-6 6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+2-Dec-2024,M15 Sharm ElSheikh,3,Hard,R32,504,686,1,8,,Yurii Dzhavakian,Leonardo Rossi,1-6 6-1 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Sharm ElSheikh,3,Hard,SF,450,1095,0,3,WC,Nikola Milojevic,Yurii Dzhavakian,2-6 6-2 7-6(5),,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Sharm ElSheikh,3,Hard,QF,450,898,1,3,,Yurii Dzhavakian,Cyril Vandermeersch,6-1 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Sharm ElSheikh,3,Hard,R16,450,748,1,3,,Yurii Dzhavakian,Maximus Jones,7-5 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Sharm ElSheikh,3,Hard,R32,450,1168,1,3,,Yurii Dzhavakian,Nico Hipfl,7-6(4) 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 Sharm ElSheikh,3,Hard,F,466,732,0,2,5,Alexandr Binda,Yurii Dzhavakian,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 Sharm ElSheikh,3,Hard,SF,466,1249,1,2,Q,Yurii Dzhavakian,Marcel Kamrowski,6-4 6-0,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 Sharm ElSheikh,3,Hard,QF,466,957,1,2,,Yurii Dzhavakian,Kristjan Tamm,6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 Sharm ElSheikh,3,Hard,R16,466,1094,1,2,PR,Yurii Dzhavakian,Nikola Milojevic,6-1 6-4,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M15 Sharm ElSheikh,3,Hard,R32,466,,1,2,Q,Yurii Dzhavakian,Ferdinand Kloesters,5-7 6-3 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Sharm ElSheikh,3,Hard,SF,463,501,0,2,4,Petr Bar Biryukov,Yurii Dzhavakian,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Sharm ElSheikh,3,Hard,QF,463,819,1,2,8,Yurii Dzhavakian,Michael Zhu,7-6(1) 6-2,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Sharm ElSheikh,3,Hard,R16,463,1046,1,2,,Yurii Dzhavakian,Pavel Verbin,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Sharm ElSheikh,3,Hard,R32,463,,1,2,Q,Yurii Dzhavakian,Mattia Nannelli,6-2 6-3,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M25 Sharm ElSheikh,3,Hard,R16,462,741,0,6,,Alexandr Binda,Yurii Dzhavakian,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M25 Sharm ElSheikh,3,Hard,R32,462,896,1,6,,Yurii Dzhavakian,Sidharth Rawat,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M25 Sharm ElSheikh,3,Hard,QF,474,497,0,5,2,Mohamed Safwat,Yurii Dzhavakian,7-5 6-7(5) 6-2,,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M25 Sharm ElSheikh,3,Hard,R16,474,877,1,5,,Yurii Dzhavakian,Karim Mohamed Maamoun,6-3 7-6(4),,,,,,,,,,,,,,,,,,,,,
+14-Oct-2024,M25 Sharm ElSheikh,3,Hard,R32,474,884,1,5,,Yurii Dzhavakian,Faris Zakaryia,7-5 6-7(6) 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M15 Sharm ElSheikh,3,Hard,SF,473,424,0,5,3,Marek Gengel,Yurii Dzhavakian,6-1 7-6(5),,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M15 Sharm ElSheikh,3,Hard,QF,473,412,1,5,1,Yurii Dzhavakian,Ilia Simakin,6-4 3-6 6-3,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M15 Sharm ElSheikh,3,Hard,R16,473,1478,1,5,Q,Yurii Dzhavakian,Alan Sau Franco,7-5 6-1,,,,,,,,,,,,,,,,,,,,,

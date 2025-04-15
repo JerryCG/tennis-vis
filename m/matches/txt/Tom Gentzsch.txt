@@ -1,4 +1,35 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Mar-2025,M25 Antalya,3,Clay,R32,457,555,0,,,Sergey Fomin,Tom Gentzsch,6-3 6-0,0.52,0.0%,1.9%,61.5%,53.1%,25.0%,5/10,36.8%,30.2%,4.7%,19.2%,47.1%,1/1,95,0,1,52,32,20,2,1:16
+10-Mar-2025,Cherbourg CH,3,Hard,R32,481,636,0,Q,WC,Loann Massard,Tom Gentzsch,6-4 3-6 6-4,1.01,10.1%,6.7%,60.7%,77.8%,48.6%,6/9,50.3%,34.1%,3.4%,23.2%,53.1%,2/9,177,9,6,89,54,35,3,2:06
+10-Mar-2025,Cherbourg CH,3,Hard,Q2,481,319,1,10,1,Tom Gentzsch,Patrick Zahraj,6-1 6-4,1.89,9.6%,1.9%,73.1%,81.6%,57.1%,1/1,61.0%,47.2%,9.4%,41.9%,54.5%,3/6,105,5,1,52,38,14,5,1:02
+10-Mar-2025,Cherbourg CH,3,Hard,Q1,481,845,1,10,Alt,Tom Gentzsch,Felix Balshaw,6-1 6-4,1.39,10.2%,1.7%,74.6%,75.0%,53.3%,5/5,56.8%,42.3%,5.8%,19.2%,65.4%,3/8,111,6,1,59,44,15,3,1:06
+3-Mar-2025,M15 Monastir,3,Hard,R32,481,760,0,,,Lorenzo Carboni,Tom Gentzsch,7-6(4) 0-6 6-2,1.05,2.9%,4.9%,68.0%,58.6%,42.4%,10/15,51.2%,49.0%,2.0%,39.3%,64.9%,6/18,201,3,5,103,70,33,2,2:37
+24-Feb-2025,M15 Monastir,3,Hard,F,472,800,0,,,Tadeas Paroulek,Tom Gentzsch,2-6 6-3 6-4,1.15,5.8%,1.4%,66.7%,69.6%,65.2%,2/5,50.6%,36.8%,0.0%,28.3%,55.6%,3/5,156,4,1,69,46,23,0,2:16
+24-Feb-2025,M15 Monastir,3,Hard,SF,472,538,1,,,Tom Gentzsch,Oleksii Krutykh,6-3 6-1,1.86,23.3%,4.7%,69.8%,83.3%,53.8%,0/0,58.3%,47.7%,3.1%,42.1%,55.6%,4/11,108,10,2,43,30,13,2,1:18
+24-Feb-2025,M15 Monastir,3,Hard,QF,472,1036,1,,,Tom Gentzsch,Amir Omarkhanov,6-2 6-1,1.49,3.7%,7.4%,68.5%,73.0%,35.3%,3/4,59.3%,57.8%,0.0%,53.8%,64.0%,6/13,118,2,4,54,37,17,0,1:31
+24-Feb-2025,M15 Monastir,3,Hard,R16,472,1343,1,,,Tom Gentzsch,Charles Bertimon,6-1 7-5,1.47,1.8%,10.7%,53.6%,76.7%,53.8%,1/2,57.1%,50.0%,0.0%,51.3%,48.4%,5/13,126,1,6,56,30,26,0,1:35
+24-Feb-2025,M15 Monastir,3,Hard,R32,472,1377,1,,,Tom Gentzsch,Ammar Elamin,6-4 6-1,1.50,5.7%,1.9%,66.0%,77.1%,55.6%,3/3,57.5%,45.3%,7.5%,36.1%,64.7%,4/6,106,3,1,53,35,18,4,1:23
+17-Feb-2025,Glasgow CH,3,Hard,Q1,463,734,0,10,Alt,James Story,Tom Gentzsch,3-6 6-3 7-6(3),0.92,14.6%,6.8%,75.7%,75.6%,40.0%,3/4,48.6%,30.5%,14.3%,18.6%,54.3%,1/7,208,15,7,103,78,25,15,2:09
+3-Feb-2025,Lille CH,3,Hard,R32,473,322,0,Q,WC,Arthur Gea,Tom Gentzsch,6-4 7-5,0.68,2.5%,4.9%,64.2%,65.4%,51.7%,8/10,45.8%,27.0%,4.8%,17.8%,50.0%,0/3,144,2,4,81,52,29,3,1:51
+3-Feb-2025,Lille CH,3,Hard,Q2,473,511,1,,WC,Tom Gentzsch,Tom Paris,4-6 6-3 6-4,1.17,6.5%,7.8%,66.2%,78.4%,38.5%,2/4,51.4%,41.0%,5.0%,37.5%,47.2%,4/11,177,5,6,77,51,26,5,2:10
+3-Feb-2025,Lille CH,3,Hard,Q1,473,260,1,,1,Tom Gentzsch,Robin Bertrand,6-1 6-2,2.10,7.0%,0.0%,62.8%,77.8%,75.0%,0/0,62.8%,48.8%,2.3%,41.4%,64.3%,4/6,86,3,0,43,27,16,1,0:59
+27-Jan-2025,Koblenz CH,3,Hard,Q1,440,83,0,Alt,1,Luca Nardi,Tom Gentzsch,6-3 4-6 7-5,0.67,11.1%,6.1%,64.6%,68.8%,51.4%,7/10,45.4%,25.0%,2.4%,22.6%,29.0%,1/7,183,11,6,99,64,35,2,2:04
+13-Jan-2025,M15 Bressuire,3,Hard,R16,440,,0,,,Pierre Antoine Faut,Tom Gentzsch,7-5 0-6 6-3,1.09,2.7%,1.4%,71.6%,52.8%,52.4%,5/11,52.1%,51.7%,1.1%,53.8%,48.6%,7/12,163,2,1,74,53,21,1,2:07
+13-Jan-2025,M15 Bressuire,3,Hard,R32,440,646,1,,,Tom Gentzsch,Martyn Pawelski,3-6 7-6(4) 6-3,1.11,9.3%,5.1%,66.9%,73.4%,43.6%,9/13,52.2%,40.4%,1.8%,34.7%,50.0%,3/10,232,11,6,118,79,39,2,2:53
+6-Jan-2025,Nottingham CH,3,Hard,Q1,438,668,0,2,,Harry Wendelken,Tom Gentzsch,3-6 7-6(5) 7-6(3),0.94,12.7%,5.1%,69.5%,67.1%,38.9%,4/9,49.3%,38.8%,7.8%,28.6%,51.1%,6/12,221,15,6,118,82,36,8,2:38
+18-Nov-2024,M15 Alcala de Henares,3,Hard,R32,427,803,0,1,,Kane Bonsach Ganley,Tom Gentzsch,6-1 1-6 6-2,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Monastir,3,Hard,SF,424,994,0,2,,Lasse Poertner,Tom Gentzsch,6-4 6-4,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Monastir,3,Hard,QF,424,1263,1,2,Q,Tom Gentzsch,Jeremy Gschwendtner,6-4 6-3,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Monastir,3,Hard,R16,424,1529,1,2,,Tom Gentzsch,Max Schoenhaus,7-5 6-1,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,M15 Monastir,3,Hard,R32,424,1759,1,2,Q,Tom Gentzsch,Gabriele Volpi,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Kayseri,3,Hard,QF,467,953,0,1,8,Aleksandr Braynin,Tom Gentzsch,6-7(2) 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Kayseri,3,Hard,R16,467,1936,1,1,Q,Tom Gentzsch,Venedikt Tsirikidze,6-2 5-7 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M15 Kayseri,3,Hard,R32,467,1686,1,1,Q,Tom Gentzsch,Saba George Nanobashvili,7-5 7-6(5),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Kayseri,3,Hard,F,464,581,1,2,5,Tom Gentzsch,Mirza Basic,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Kayseri,3,Hard,SF,464,803,1,2,,Tom Gentzsch,Cengiz Aksu,6-4 4-6 7-6(2),,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Kayseri,3,Hard,QF,464,755,1,2,7,Tom Gentzsch,Johan Alexander Rodriguez Rodriguez,6-3 RET,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Kayseri,3,Hard,R16,464,814,1,2,,Tom Gentzsch,Luca Castelnuovo,6-4 1-1 RET,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M15 Kayseri,3,Hard,R32,464,858,1,2,,Tom Gentzsch,Maxwell Mckennon,7-6(3) 6-3,,,,,,,,,,,,,,,,,,,,,
 14-Oct-2024,St. Brieuc CH,3,Hard,Q2,463,358,0,11,5,Jiri Vesely,Tom Gentzsch,6-4 6-2,0.73,16.1%,6.5%,62.9%,74.4%,34.8%,8/11,45.0%,29.3%,8.6%,18.2%,44.0%,0/4,120,10,4,62,39,23,5,1:24
 14-Oct-2024,St. Brieuc CH,3,Hard,Q1,463,511,1,11,,Tom Gentzsch,Stefan Palosi,6-2 7-6(4),1.36,7.0%,8.8%,68.4%,71.8%,50.0%,0/2,54.5%,47.7%,2.3%,44.2%,52.9%,4/13,143,4,5,57,39,18,2,1:30
 23-Sep-2024,M25 Sabadell,3,Clay,R32,478,635,0,,WC,Inaki Montes De La Torre,Tom Gentzsch,6-7(4) 6-3 6-4,,,,,,,,,,,,,,,,,,,,,

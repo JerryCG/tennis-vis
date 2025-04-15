@@ -1,4 +1,28 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Mar-2025,M25 Chacabuco,3,Clay,QF,941,583,0,,,Juan Manuel La Serna,Joaquin Aguilar Cardozo,5-7 7-6(2) 6-3,0.83,0.0%,4.8%,60.8%,55.3%,51.0%,7/13,46.7%,38.5%,1.0%,37.7%,40.7%,5/13,229,0,6,125,76,49,1,3:19
+31-Mar-2025,M25 Chacabuco,3,Clay,R16,941,1782,1,,,Joaquin Aguilar Cardozo,Maximo Zeitune,6-3 6-3,1.49,1.9%,1.9%,58.5%,71.0%,63.6%,0/1,56.8%,47.7%,1.5%,39.5%,59.3%,4/10,118,1,1,53,31,22,1,1:24
+31-Mar-2025,M25 Chacabuco,3,Clay,R32,941,1288,1,,,Joaquin Aguilar Cardozo,Ezequiel Simonit,6-1 6-3,1.76,0.0%,2.3%,55.8%,66.7%,63.2%,0/2,63.2%,61.5%,0.0%,52.9%,77.8%,6/13,95,0,1,43,24,19,0,1:09
+24-Mar-2025,M25 Lujan,3,Clay,R16,864,307,0,,,Lautaro Midon,Joaquin Aguilar Cardozo,2-6 7-6(1) 6-2,0.87,0.9%,2.6%,63.2%,59.7%,47.6%,8/13,48.5%,38.7%,3.8%,32.7%,52.0%,5/6,194,1,3,114,72,42,3,2:59
+24-Mar-2025,M25 Lujan,3,Clay,R32,864,1067,1,,,Joaquin Aguilar Cardozo,Sean Hess,7-5 6-4,1.19,4.2%,1.4%,70.4%,76.0%,42.9%,4/5,53.6%,40.3%,0.0%,37.2%,45.8%,3/7,138,3,1,71,50,21,0,1:57
+17-Mar-2025,M15 Villa Maria,3,Clay,SF,864,1025,0,,,Pedro Rodrigues,Joaquin Aguilar Cardozo,3-6 7-6(3) 6-0,0.81,4.1%,2.1%,61.9%,61.7%,48.6%,6/10,45.9%,35.1%,2.1%,35.4%,34.4%,3/8,194,4,2,97,60,37,2,2:45
+17-Mar-2025,M15 Villa Maria,3,Clay,QF,864,1188,1,,,Joaquin Aguilar Cardozo,Joao Vitor Goncalves Ceolin,6-1 3-6 6-3,1.12,0.0%,0.0%,64.5%,51.7%,57.6%,5/10,52.7%,51.6%,1.1%,50.0%,56.0%,8/15,186,0,0,93,60,33,1,2:39
+17-Mar-2025,M15 Villa Maria,3,Clay,R16,864,1278,1,,,Joaquin Aguilar Cardozo,Julian Cundom,6-3 6-3,,,,,,,,,,,,,,,,,,,,,
+17-Mar-2025,M15 Villa Maria,3,Clay,R32,864,1357,1,,,Joaquin Aguilar Cardozo,Rocco Valente,6-2 6-2,2.04,0.0%,0.0%,61.0%,88.0%,62.5%,0/0,62.0%,44.7%,0.0%,44.4%,45.5%,4/5,79,0,0,41,25,16,0,1:08
+10-Mar-2025,M25 Asuncion,3,Clay,R16,824,304,0,,,Santiago Fa Rodriguez Taverna,Joaquin Aguilar Cardozo,6-7(4) 6-1 6-2,0.82,0.0%,4.7%,64.0%,60.0%,51.6%,7/10,46.4%,35.4%,9.8%,21.6%,58.1%,0/5,168,0,4,86,55,31,8,3:27
+10-Mar-2025,M25 Asuncion,3,Clay,R32,824,1013,1,,,Joaquin Aguilar Cardozo,Hernando Jose Escurra Isnardi,6-7(4) 6-1 6-2,1.52,0.0%,1.1%,68.9%,72.6%,64.3%,5/6,58.5%,45.7%,9.9%,34.0%,61.8%,5/9,171,0,1,90,62,28,8,2:27
+17-Feb-2025,M25 Punta del Este ,3,Clay,R16,811,307,0,,,Santiago Fa Rodriguez Taverna,Joaquin Aguilar Cardozo,6-4 6-2,0.69,1.9%,1.9%,65.4%,47.1%,44.4%,4/9,41.5%,37.0%,7.4%,27.0%,58.8%,2/7,106,1,1,52,34,18,4,1:29
+17-Feb-2025,M25 Punta del Este ,3,Clay,R32,811,1013,1,,,Joaquin Aguilar Cardozo,Valentin Basel,6-3 6-1,2.19,0.0%,0.0%,63.4%,88.5%,60.0%,0/0,61.1%,48.1%,3.7%,40.0%,55.2%,4/7,95,0,0,41,26,15,2,1:25
+10-Feb-2025,M25 Punta del Este,3,Clay,R32,811,780,0,,,Alan Fernando Rubio Fierros,Joaquin Aguilar Cardozo,7-6(5) 1-0 RET,0.88,0.0%,2.0%,58.8%,63.3%,33.3%,4/7,47.4%,43.2%,0.0%,54.2%,30.0%,2/5,95,0,1,51,30,21,0,1:30
+20-Jan-2025,Punta del Este CH,3,Clay,R32,808,220,0,WC,,Facundo Mena,Joaquin Aguilar Cardozo,6-3 6-3,0.33,1.5%,3.1%,61.5%,57.5%,56.0%,8/11,40.2%,14.3%,23.8%,12.5%,16.7%,0/0,107,1,2,65,40,25,10,1:24
+25-Nov-2024,M15 Lujan,3,Clay,QF,848,,0,4,Q,Andres Gabriel Ciurletti,Joaquin Aguilar Cardozo,7-6(5) 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2024,M15 Lujan,3,Clay,R16,848,,1,4,,Joaquin Aguilar Cardozo,Maximo Zeitune,6-2 6-0,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2024,M15 Lujan,3,Clay,R32,848,1081,1,4,,Joaquin Aguilar Cardozo,Luciano Carraro,6-2 6-4,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2024,M15 Azul,3,Clay,R16,840,623,0,,4,Alex Barrena,Joaquin Aguilar Cardozo,3-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2024,M15 Azul,3,Clay,R32,840,,1,,WC,Joaquin Aguilar Cardozo,Bautista Leguizamon,6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+11-Nov-2024,Montevideo CH,3,Clay,R32,839,99,0,WC,2,Thiago Monteiro,Joaquin Aguilar Cardozo,6-2 6-1,0.57,0.0%,6.6%,65.6%,52.5%,28.6%,7/12,38.9%,31.9%,12.8%,14.3%,57.9%,0/1,108,0,4,61,40,21,6,1:17
+21-Oct-2024,M25 Santa Margherita di Pula,3,Clay,QF,855,255,0,Q,2,Lukas Neumayer,Joaquin Aguilar Cardozo,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R16,855,370,1,Q,7,Joaquin Aguilar Cardozo,Daniel Michalski,6-1 2-0 RET,,,,,,,,,,,,,,,,,,,,,
+21-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R32,855,527,1,Q,,Joaquin Aguilar Cardozo,Kirill Kivattsev,2-6 6-2 6-0,,,,,,,,,,,,,,,,,,,,,
 14-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R16,852,351,0,Q,7,Sebastian Fanselow,Joaquin Aguilar Cardozo,7-5 2-6 7-6(8),,,,,,,,,,,,,,,,,,,,,
 14-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R32,852,636,1,Q,WC,Joaquin Aguilar Cardozo,Massimo Giunta,4-6 6-2 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M25 Santa Margherita di Pula,3,Clay,R32,859,266,0,Q,2,Jay Clarke,Joaquin Aguilar Cardozo,4-6 6-2 6-1,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,25 @@
 ﻿Date,Tournament,Sets,Surface,Rd,Rk,vRk,W,tRk,vtRk,WP,LP,Score,DR,A%,DF%,1stIn,1st%,2nd%,BPSvd,TPW,RPW,vA%,v1st%,v2nd%,BPCnv,TP,Aces,DFs,SP,1SP,2SP,vA,Time
+31-Mar-2025,Bucharest,3,Clay,Q1,360,165,0,Alt,3,Ugo Blanchet,Cezar Cretu,6-4 7-5,0.78,9.7%,4.2%,55.6%,60.0%,40.6%,9/14,44.7%,37.7%,0.0%,24.1%,47.5%,3/6,141,7,3,72,40,32,0,1:50
+17-Feb-2025,M25 Vila Real de Santo António,3,Hard,QF,326,346,0,,,Adria Soriano Barrera,Cezar Cretu,7-6(10) 6-7(4) 7-6(2),0.94,7.5%,0.7%,65.7%,65.9%,45.7%,3/7,48.4%,38.6%,3.4%,22.4%,61.7%,4/9,279,10,1,134,88,46,5,3:55
+17-Feb-2025,M25 Vila Real de Santo António,3,Hard,R16,326,1026,1,,,Cezar Cretu,Pavel Verbin,6-2 6-2,1.42,11.1%,3.7%,66.7%,69.4%,44.4%,0/1,58.4%,55.3%,2.1%,37.0%,80.0%,5/10,101,6,2,54,36,18,1,1:18
+17-Feb-2025,M25 Vila Real de Santo António,3,Hard,R32,326,982,1,,,Cezar Cretu,Stefan Latinovic,6-3 6-7(3) 6-2,1.09,1.8%,3.6%,70.3%,60.3%,54.5%,12/15,52.1%,45.1%,2.0%,35.5%,60.0%,7/13,213,2,4,111,78,33,2,2:43
+10-Feb-2025,M25 Vila Real de Santo António ,3,Hard,SF,327,288,0,,,Frederico Ferreira Silva,Cezar Cretu,6-7(3) 6-3 6-0,,,,,,,,,,,,,,,,,,,,,
+10-Feb-2025,M25 Vila Real de Santo António ,3,Hard,QF,327,298,1,,,Cezar Cretu,Mili Poljicak,6-2 6-1,2.24,5.3%,0.0%,68.4%,84.6%,58.3%,1/1,63.2%,53.1%,2.0%,41.7%,64.0%,5/8,87,2,0,38,26,12,1,1:16
+10-Feb-2025,M25 Vila Real de Santo António ,3,Hard,R16,327,866,1,,,Cezar Cretu,Diogo Marques,6-2 6-2,1.63,4.4%,4.4%,66.7%,66.7%,60.0%,2/4,61.1%,58.0%,4.0%,62.5%,50.0%,6/8,95,2,2,45,30,15,2,1:14
+10-Feb-2025,M25 Vila Real de Santo António ,3,Hard,R32,327,532,1,,,Cezar Cretu,Sebastian Fanselow,6-4 4-6 6-3,1.14,3.9%,5.9%,62.7%,64.1%,63.2%,9/12,53.8%,41.3%,2.5%,40.9%,41.7%,4/7,182,4,6,102,64,38,2,2:33
+31-Jan-2025,Davis Cup WG1 PO: ROU vs BUL,3,Hard,RR,315,437,1,,,Cezar Cretu,Petr Nesterov,6-7(6) 6-3 7-6(3),,,,,,,,,,,,,,,,,,,,,
+13-Jan-2025,Oeiras 2 CH,3,Hard,Q1,311,264,0,,3,J J Wolf,Cezar Cretu,2-4 RET,1.06,12.9%,6.5%,51.6%,93.8%,33.3%,1/1,55.3%,37.5%,25.0%,18.2%,80.0%,1/2,47,4,2,31,16,15,4,0:40
+6-Jan-2025,Oeiras 1 CH,3,Hard,Q1,306,723,0,1,Alt,Trey Hilderbrand,Cezar Cretu,6-7(4) 6-4 6-4,0.84,5.2%,5.2%,68.8%,68.2%,56.7%,4/7,47.4%,29.8%,9.6%,17.6%,44.2%,1/2,190,5,5,96,66,30,9,2:42
+25-Nov-2024,M25 Antalya,3,Clay,QF,313,536,0,1,,Facundo Juarez,Cezar Cretu,6-1 4-6 6-3,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2024,M25 Antalya,3,Clay,R16,313,1344,1,1,Q,Cezar Cretu,Michel Hopp,4-6 6-4 7-5,,,,,,,,,,,,,,,,,,,,,
+25-Nov-2024,M25 Antalya,3,Clay,R32,313,812,1,1,,Cezar Cretu,Stefan Adrian Andreescu,0-6 6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2024,M25 Antalya,3,Clay,R16,313,1618,0,2,Q,Manuel Mazza,Cezar Cretu,3-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+18-Nov-2024,M25 Antalya,3,Clay,R32,313,890,1,2,Q,Cezar Cretu,Dragos Nicolae Cazacu,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M25 Heraklion,3,Hard,QF,288,360,0,3,6,Ilia Simakin,Cezar Cretu,6-1 6-1,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M25 Heraklion,3,Hard,R16,288,460,1,3,,Cezar Cretu,Yshai Oliel,4-6 6-3 7-5,,,,,,,,,,,,,,,,,,,,,
+4-Nov-2024,M25 Heraklion,3,Hard,R32,288,939,1,3,Q,Cezar Cretu,Amit Vales,7-5 5-7 6-3,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M25 Heraklion,3,Hard,R16,291,680,0,5,JE,Nicolai Budkov Kjaer,Cezar Cretu,6-3 6-4,,,,,,,,,,,,,,,,,,,,,
+28-Oct-2024,M25 Heraklion,3,Hard,R32,291,459,1,5,,Cezar Cretu,Yshai Oliel,1-6 6-3 6-4,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M25 Sintra,3,Hard,R16,293,852,0,2,Q,Michael Zhu,Cezar Cretu,2-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 7-Oct-2024,M25 Sintra,3,Hard,R32,293,989,1,2,Q,Cezar Cretu,Tomas Curras Abasolo,3-6 6-4 6-2,,,,,,,,,,,,,,,,,,,,,
 30-Sep-2024,Villena CH,3,Hard,R32,293,144,0,,5,Nicolas Moreno De Alboran,Cezar Cretu,6-2 6-2,0.59,5.8%,11.5%,53.8%,50.0%,37.5%,6/11,38.3%,32.7%,9.1%,26.5%,42.9%,1/3,107,3,6,52,28,24,5,1:20
