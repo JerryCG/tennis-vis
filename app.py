@@ -32,7 +32,7 @@ app.layout = html.Div([
             ]
             ),
             html.Div(
-                "Last Update: 2025-10-27", style = {'font-size': '20px', 'font-style': 'italic'}
+                "Last Update: 2026-01-05", style = {'font-size': '20px', 'font-style': 'italic'}
             ),
         ], style = {'text-align': 'center'}
     ),
@@ -54,7 +54,7 @@ app.layout = html.Div([
     # section for footer
     html.Footer(
         children=[
-            html.Div('2025 Copyright of raw data belong to tennisabstract.com, atptour.com - fair use for scraping, processing, and visualizing tennis data'),
+            html.Div('2026 Copyright of raw data belong to tennisabstract.com, atptour.com - fair use for scraping, processing, and visualizing tennis data'),
             html.Div('This is TennisVis Version 2.4 made with heart for tennis lovers. For any suggestions or comments, please email me at chengguo@uchicago.edu')
         ]
     )
