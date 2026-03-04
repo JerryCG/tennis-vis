@@ -124237,100 +124237,294 @@
 2026-02-09,2026-02-16,Dalibor Svrcina,98,618,Ostrava,49.8349139,18.2820084
 2026-02-09,2026-02-16,Hugo Gaston,99,616,Toulouse - France,43.6044622,1.4442469
 2026-02-09,2026-02-16,Carlos Taberner,100,608,Valencia - Spain,39.4697065,-0.3763353
-2026-02-16,,Carlos Alcaraz,1,13150,El Palmar - Murcia - Spain,37.9388703,-1.1619192
-2026-02-16,,Jannik Sinner,2,10300,San Candido - Italy,46.7328719,12.2791673
-2026-02-16,,Novak Djokovic,3,5280,Belgrade - Serbia,44.8178131,20.4568974
-2026-02-16,,Alexander Zverev,4,4605,Hamburg - Germany,53.550341,10.000654
-2026-02-16,,Lorenzo Musetti,5,4405,Carrara - Italy,44.0791804,10.1023532
-2026-02-16,,Alex de Minaur,6,4250,Sydney - Australia,-33.8698439,151.2082848
-2026-02-16,,Felix Auger Aliassime,7,4230,Montreal - Canada,45.5031824,-73.5698065
-2026-02-16,,Taylor Fritz,8,4220,Rancho Santa Fe - CA - USA,33.024194949999995,-117.19815158464624
-2026-02-16,,Ben Shelton,9,4050,Atlanta - GA - USA,33.7489924,-84.3902644
-2026-02-16,,Alexander Bublik,10,3405,Gatchina - Russia,59.5706273,30.1305083
-2026-02-16,,Daniil Medvedev,11,3010,Moscow - Russia,55.7504461,37.6174943
-2026-02-16,,Jack Draper,12,2790,Sutton - England,51.357464449999995,-0.17362689496950337
-2026-02-16,,Casper Ruud,13,2625,Oslo - Norway,59.9133301,10.7389701
-2026-02-16,,Andrey Rublev,14,2510,Moscow - Russia,55.7504461,37.6174943
-2026-02-16,,Alejandro Davidovich Fokina,15,2470,Malaga - Spain,36.7213028,-4.4216366
-2026-02-16,,Jakub Mensik,16,2425,Prostejov,49.4721467,17.1117979
-2026-02-16,,Karen Khachanov,17,2360,Moscow - Russia,55.7504461,37.6174943
-2026-02-16,,Holger Rune,18,2340,Gentofte - Denmark,55.7459656,12.5510249
-2026-02-16,,Francisco Cerundolo,19,2220,Buenos Aires - Argentina,-34.6075682,-58.4370894
-2026-02-16,,Flavio Cobolli,20,1955,Florence - Italy,43.7697955,11.2556404
-2026-02-16,,Luciano Darderi,21,1904,Villa Gesell - Argentina,-37.2556627,-56.9679411
-2026-02-16,,Jiri Lehecka,22,1860,Mlada Boleslav - Czech Republic,50.4116187,14.9031301
-2026-02-16,,Tommy Paul,24,1700,Voorhees - NJ - USA,39.8512162,-74.9619779
-2026-02-16,,Tallon Griekspoor,25,1655,Haarlem - Netherlands,52.383705750000004,4.643559696559635
-2026-02-16,,Valentin Vacherot,26,1605,Monaco,43.7323492,7.4276832
-2026-02-16,,Cameron Norrie,27,1603,Johannesburg - South Africa,-26.205,28.049722
-2026-02-16,,Frances Tiafoe,28,1550,Hyattsville - MD - USA,38.9529442,-76.9408647
-2026-02-16,,Brandon Nakashima,29,1535,San Diego - CA - USA,32.7174202,-117.1627728
-2026-02-16,,Arthur Rinderknech,30,1530,Gassin - France,43.2291533,6.585476
-2026-02-16,,Tomas Machac,31,1510,Beroun - Czech Republic,49.9640292,14.0733907
-2026-02-16,,Sebastian Baez,32,1495,Buenos Aires - Argentina,-34.6075682,-58.4370894
-2026-02-16,,Stefanos Tsitsipas,33,1485,Athens - Greece,37.9839412,23.7283052
-2026-02-16,,Corentin Moutet,34,1383,Paris - France,48.8588897,2.3200410217200766
-2026-02-16,,Denis Shapovalov,35,1350,Tel Aviv - Israel,32.0852997,34.7818064
-2026-02-16,,Ugo Humbert,36,1285,Metz - France,49.1196964,6.1763552
-2026-02-16,,Jaume Munar,37,1275,Santanyi - Mallorca - Spain,39.3553499,3.1291638
-2026-02-16,,Joao Fonseca,38,1190,Rio de janeiro,-22.9110137,-43.2093727
-2026-02-16,,Gabriel Diallo,39,1175,Montreal - Canada,45.5031824,-73.5698065
-2026-02-16,,Arthur Fils,40,1110,France,46.603354,1.8883335
-2026-02-16,,Alex Michelsen,41,1110,Laguna Hills - CA - USA,33.5948758,-117.6882067
-2026-02-16,,Grigor Dimitrov,42,1105,Haskovo - Bulgaria,41.763101000000006,25.92562551247896
-2026-02-16,,Marin Cilic,43,1090,Medjugorje - Bosnia-Herzegovina,43.1905339,17.6775328
-2026-02-16,,Zizou Bergs,44,1080,Lommel - Belgium,51.2305657,5.3076895
-2026-02-16,,Nuno Borges,45,1070,Maia - Portugal,41.237345649999995,-8.629998173364326
-2026-02-16,,Camilo Ugo Carabelli,46,1068,Buenos Aires - Argentina,-34.6075682,-58.4370894
-2026-02-16,,Jenson Brooksby,47,1042,Sacramento - CA - USA,38.5810606,-121.493895
-2026-02-16,,Fabian Marozsan,48,1040,Budapest - Hungary,47.48138955,19.14609412691246
-2026-02-16,,Adrian Mannarino,49,1025,Soisy-sous-Montmorency - France,48.9875044,2.3002885
-2026-02-16,,Sebastian Korda,50,1020,Bradenton - FL - USA,27.4989278,-82.5748194
-2026-02-16,,Tomas Martin Etcheverry,51,1020,La Plata - Argentina,-34.9206797,-57.9537638
-2026-02-16,,Alexandre Muller,52,1020,Poissy - France,48.927439,2.0428293
-2026-02-16,,Alexei Popyrin,53,1000,Sydney - Australia,-33.8698439,151.2082848
-2026-02-16,,Daniel Altmaier,54,961,Kempen - Germany,51.3642126,6.4195011
-2026-02-16,,Botic van de Zandschulp,55,936,Wageningen - Netherlands,51.9685817,5.668298061827958
-2026-02-16,,Kamil Majchrzak,56,920,Piotrkow Trybunalski - Poland,51.412853999999996,19.6886837487098
-2026-02-16,,Matteo Berrettini,57,910,Rome - Italy,41.8933203,12.4829321
-2026-02-16,,Giovanni Mpetshi Perricard,58,905,Lyon,45.7578137,4.8320114
-2026-02-16,,Raphael Collignon,59,902,Rochester - Olmsted,44.0234387,-92.4630182
-2026-02-16,,Valentin Royer,60,897,Neuilly-sur-Seine ,48.884683,2.2695658
-2026-02-16,,Marton Fucsovics,61,891,Nyiregyhaza - Hungary,47.9557802,21.7167982
-2026-02-16,,Damir Dzumhur,62,877,Sarajevo - Bosnia-Herzegovina,43.8519774,18.3866868
-2026-02-16,,Marcos Giron,64,855,Thousand Oaks - CA - USA,34.1705609,-118.8375937
-2026-02-16,,Lorenzo Sonego,65,850,Turin - Italy,45.0677551,7.6824892
-2026-02-16,,Terence Atmane,66,833,Saint-Martin-Boulogne,50.7258932,1.633867
-2026-02-16,,Eliot Spizzirri,67,821,Greenwich. Connecticut,41.0264862,-73.6284598
-2026-02-16,,Alejandro Tabilo,68,808,Toronto - Canada,43.6534817,-79.3839347
-2026-02-16,,Reilly Opelka,69,786,St. Joseph - MI - USA,39.7686055,-94.8466322
-2026-02-16,,Ethan Quinn,70,776,Fresno - California ,36.7394421,-119.78483
-2026-02-16,,Hubert Hurkacz,71,775,Wroclaw - Poland,51.1089776,17.0326689
-2026-02-16,,Quentin Halys,72,762,Bondy - France,48.9031,2.48291
-2026-02-16,,Arthur Cazaux,73,755,Montpellier - France,43.6112422,3.8767337
-2026-02-16,,Mariano Navone,74,750,9 de julio,-35.4439205,-60.8845839
-2026-02-16,,Aleksandar Kovacevic,75,746,New York - NY - USA,40.7127281,-74.0060152
-2026-02-16,,Jan Lennard Struff,77,706,Warstein - Germany,51.4458105,8.3536824
-2026-02-16,,Juan Manuel Cerundolo,78,706,Buenos Aires - Argentina,-34.6075682,-58.4370894
-2026-02-16,,Alexander Shevchenko,79,696,Rostov-on-Don - Russia,47.2216548,39.7096061
-2026-02-16,,James Duckworth,80,691,Sydney - Australia,-33.8698439,151.2082848
-2026-02-16,,Filip Misolic,81,687,Graz - Austria,47.0708678,15.4382786
-2026-02-16,,Roberto Bautista Agut,82,685,Castellon de la Plana - Spain,39.9860347,-0.0377354
-2026-02-16,,Miomir Kecmanovic,83,670,Belgrade - Serbia,44.8178131,20.4568974
-2026-02-16,,Jacob Fearnley,84,668,Edinburgh,55.9533456,-3.1883749
-2026-02-16,,Matteo Arnaldi,85,665,Sanremo - Italy,43.8198253,7.7748827
-2026-02-16,,Jesper de Jong,86,665,Haarlem,52.3885317,4.6388048
-2026-02-16,,Vit Kopriva,87,660,Bilovec - Czech Republic,49.7567664,18.01623
-2026-02-16,,Aleksandar Vukic,88,656,Sydney - Australia,-33.8698439,151.2082848
-2026-02-16,,Cristian Garin,89,656,Santiago - Chile,-33.4377756,-70.6504502
-2026-02-16,,Yannick Hanfmann,90,653,Karlsruhe - Germany,49.0068705,8.4034195
-2026-02-16,,Ignacio Buse,91,648,Lima,-12.0459808,-77.0305912
-2026-02-16,,Thiago Agustin Tirante,92,647,La Plata - Argentina,-34.9206797,-57.9537638
-2026-02-16,,Adam Walton,93,643,Brisbane,-27.4689682,153.0234991
-2026-02-16,,Luca Nardi,94,629,Pesaro,43.9098114,12.9131228
-2026-02-16,,Christopher O'Connell,95,626,Sydney - Australia,-33.8698439,151.2082848
-2026-02-16,,Hugo Gaston,96,619,Toulouse - France,43.6044622,1.4442469
-2026-02-16,,Hamad Medjedovic,97,615,Novi Pazar - Serbia,43.1363535,20.5112273
-2026-02-16,,Stan Wawrinka,98,612,Lausanne - Switzerland,46.5218269,6.6327025
-2026-02-16,,Dalibor Svrcina,99,612,Ostrava,49.8349139,18.2820084
-2026-02-16,,Carlos Taberner,100,608,Valencia - Spain,39.4697065,-0.3763353
+2026-02-16,2026-02-23,Carlos Alcaraz,1,13150,El Palmar - Murcia - Spain,37.9388703,-1.1619192
+2026-02-16,2026-02-23,Jannik Sinner,2,10300,San Candido - Italy,46.7328719,12.2791673
+2026-02-16,2026-02-23,Novak Djokovic,3,5280,Belgrade - Serbia,44.8178131,20.4568974
+2026-02-16,2026-02-23,Alexander Zverev,4,4605,Hamburg - Germany,53.550341,10.000654
+2026-02-16,2026-02-23,Lorenzo Musetti,5,4405,Carrara - Italy,44.0791804,10.1023532
+2026-02-16,2026-02-23,Alex de Minaur,6,4250,Sydney - Australia,-33.8698439,151.2082848
+2026-02-16,2026-02-23,Felix Auger Aliassime,7,4230,Montreal - Canada,45.5031824,-73.5698065
+2026-02-16,2026-02-23,Taylor Fritz,8,4220,Rancho Santa Fe - CA - USA,33.024194949999995,-117.19815158464624
+2026-02-16,2026-02-23,Ben Shelton,9,4050,Atlanta - GA - USA,33.7489924,-84.3902644
+2026-02-16,2026-02-23,Alexander Bublik,10,3405,Gatchina - Russia,59.5706273,30.1305083
+2026-02-16,2026-02-23,Daniil Medvedev,11,3010,Moscow - Russia,55.7504461,37.6174943
+2026-02-16,2026-02-23,Jack Draper,12,2790,Sutton - England,51.357464449999995,-0.17362689496950337
+2026-02-16,2026-02-23,Casper Ruud,13,2625,Oslo - Norway,59.9133301,10.7389701
+2026-02-16,2026-02-23,Andrey Rublev,14,2510,Moscow - Russia,55.7504461,37.6174943
+2026-02-16,2026-02-23,Alejandro Davidovich Fokina,15,2470,Malaga - Spain,36.7213028,-4.4216366
+2026-02-16,2026-02-23,Jakub Mensik,16,2425,Prostejov,49.4721467,17.1117979
+2026-02-16,2026-02-23,Karen Khachanov,17,2360,Moscow - Russia,55.7504461,37.6174943
+2026-02-16,2026-02-23,Holger Rune,18,2340,Gentofte - Denmark,55.7459656,12.5510249
+2026-02-16,2026-02-23,Francisco Cerundolo,19,2220,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-16,2026-02-23,Flavio Cobolli,20,1955,Florence - Italy,43.7697955,11.2556404
+2026-02-16,2026-02-23,Luciano Darderi,21,1904,Villa Gesell - Argentina,-37.2556627,-56.9679411
+2026-02-16,2026-02-23,Jiri Lehecka,22,1860,Mlada Boleslav - Czech Republic,50.4116187,14.9031301
+2026-02-16,2026-02-23,Tommy Paul,24,1700,Voorhees - NJ - USA,39.8512162,-74.9619779
+2026-02-16,2026-02-23,Tallon Griekspoor,25,1655,Haarlem - Netherlands,52.383705750000004,4.643559696559635
+2026-02-16,2026-02-23,Valentin Vacherot,26,1605,Monaco,43.7323492,7.4276832
+2026-02-16,2026-02-23,Cameron Norrie,27,1603,Johannesburg - South Africa,-26.205,28.049722
+2026-02-16,2026-02-23,Frances Tiafoe,28,1550,Hyattsville - MD - USA,38.9529442,-76.9408647
+2026-02-16,2026-02-23,Brandon Nakashima,29,1535,San Diego - CA - USA,32.7174202,-117.1627728
+2026-02-16,2026-02-23,Arthur Rinderknech,30,1530,Gassin - France,43.2291533,6.585476
+2026-02-16,2026-02-23,Tomas Machac,31,1510,Beroun - Czech Republic,49.9640292,14.0733907
+2026-02-16,2026-02-23,Sebastian Baez,32,1495,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-16,2026-02-23,Stefanos Tsitsipas,33,1485,Athens - Greece,37.9839412,23.7283052
+2026-02-16,2026-02-23,Corentin Moutet,34,1383,Paris - France,48.8588897,2.3200410217200766
+2026-02-16,2026-02-23,Denis Shapovalov,35,1350,Tel Aviv - Israel,32.0852997,34.7818064
+2026-02-16,2026-02-23,Ugo Humbert,36,1285,Metz - France,49.1196964,6.1763552
+2026-02-16,2026-02-23,Jaume Munar,37,1275,Santanyi - Mallorca - Spain,39.3553499,3.1291638
+2026-02-16,2026-02-23,Joao Fonseca,38,1190,Rio de janeiro,-22.9110137,-43.2093727
+2026-02-16,2026-02-23,Gabriel Diallo,39,1175,Montreal - Canada,45.5031824,-73.5698065
+2026-02-16,2026-02-23,Arthur Fils,40,1110,France,46.603354,1.8883335
+2026-02-16,2026-02-23,Alex Michelsen,41,1110,Laguna Hills - CA - USA,33.5948758,-117.6882067
+2026-02-16,2026-02-23,Grigor Dimitrov,42,1105,Haskovo - Bulgaria,41.763101000000006,25.92562551247896
+2026-02-16,2026-02-23,Marin Cilic,43,1090,Medjugorje - Bosnia-Herzegovina,43.1905339,17.6775328
+2026-02-16,2026-02-23,Zizou Bergs,44,1080,Lommel - Belgium,51.2305657,5.3076895
+2026-02-16,2026-02-23,Nuno Borges,45,1070,Maia - Portugal,41.237345649999995,-8.629998173364326
+2026-02-16,2026-02-23,Camilo Ugo Carabelli,46,1068,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-16,2026-02-23,Jenson Brooksby,47,1042,Sacramento - CA - USA,38.5810606,-121.493895
+2026-02-16,2026-02-23,Fabian Marozsan,48,1040,Budapest - Hungary,47.48138955,19.14609412691246
+2026-02-16,2026-02-23,Adrian Mannarino,49,1025,Soisy-sous-Montmorency - France,48.9875044,2.3002885
+2026-02-16,2026-02-23,Sebastian Korda,50,1020,Bradenton - FL - USA,27.4989278,-82.5748194
+2026-02-16,2026-02-23,Tomas Martin Etcheverry,51,1020,La Plata - Argentina,-34.9206797,-57.9537638
+2026-02-16,2026-02-23,Alexandre Muller,52,1020,Poissy - France,48.927439,2.0428293
+2026-02-16,2026-02-23,Alexei Popyrin,53,1000,Sydney - Australia,-33.8698439,151.2082848
+2026-02-16,2026-02-23,Daniel Altmaier,54,961,Kempen - Germany,51.3642126,6.4195011
+2026-02-16,2026-02-23,Botic van de Zandschulp,55,936,Wageningen - Netherlands,51.9685817,5.668298061827958
+2026-02-16,2026-02-23,Kamil Majchrzak,56,920,Piotrkow Trybunalski - Poland,51.412853999999996,19.6886837487098
+2026-02-16,2026-02-23,Matteo Berrettini,57,910,Rome - Italy,41.8933203,12.4829321
+2026-02-16,2026-02-23,Giovanni Mpetshi Perricard,58,905,Lyon,45.7578137,4.8320114
+2026-02-16,2026-02-23,Raphael Collignon,59,902,Rochester - Olmsted,44.0234387,-92.4630182
+2026-02-16,2026-02-23,Valentin Royer,60,897,Neuilly-sur-Seine ,48.884683,2.2695658
+2026-02-16,2026-02-23,Marton Fucsovics,61,891,Nyiregyhaza - Hungary,47.9557802,21.7167982
+2026-02-16,2026-02-23,Damir Dzumhur,62,877,Sarajevo - Bosnia-Herzegovina,43.8519774,18.3866868
+2026-02-16,2026-02-23,Marcos Giron,64,855,Thousand Oaks - CA - USA,34.1705609,-118.8375937
+2026-02-16,2026-02-23,Lorenzo Sonego,65,850,Turin - Italy,45.0677551,7.6824892
+2026-02-16,2026-02-23,Terence Atmane,66,833,Saint-Martin-Boulogne,50.7258932,1.633867
+2026-02-16,2026-02-23,Eliot Spizzirri,67,821,Greenwich. Connecticut,41.0264862,-73.6284598
+2026-02-16,2026-02-23,Alejandro Tabilo,68,808,Toronto - Canada,43.6534817,-79.3839347
+2026-02-16,2026-02-23,Reilly Opelka,69,786,St. Joseph - MI - USA,39.7686055,-94.8466322
+2026-02-16,2026-02-23,Ethan Quinn,70,776,Fresno - California ,36.7394421,-119.78483
+2026-02-16,2026-02-23,Hubert Hurkacz,71,775,Wroclaw - Poland,51.1089776,17.0326689
+2026-02-16,2026-02-23,Quentin Halys,72,762,Bondy - France,48.9031,2.48291
+2026-02-16,2026-02-23,Arthur Cazaux,73,755,Montpellier - France,43.6112422,3.8767337
+2026-02-16,2026-02-23,Mariano Navone,74,750,9 de julio,-35.4439205,-60.8845839
+2026-02-16,2026-02-23,Aleksandar Kovacevic,75,746,New York - NY - USA,40.7127281,-74.0060152
+2026-02-16,2026-02-23,Jan Lennard Struff,77,706,Warstein - Germany,51.4458105,8.3536824
+2026-02-16,2026-02-23,Juan Manuel Cerundolo,78,706,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-16,2026-02-23,Alexander Shevchenko,79,696,Rostov-on-Don - Russia,47.2216548,39.7096061
+2026-02-16,2026-02-23,James Duckworth,80,691,Sydney - Australia,-33.8698439,151.2082848
+2026-02-16,2026-02-23,Filip Misolic,81,687,Graz - Austria,47.0708678,15.4382786
+2026-02-16,2026-02-23,Roberto Bautista Agut,82,685,Castellon de la Plana - Spain,39.9860347,-0.0377354
+2026-02-16,2026-02-23,Miomir Kecmanovic,83,670,Belgrade - Serbia,44.8178131,20.4568974
+2026-02-16,2026-02-23,Jacob Fearnley,84,668,Edinburgh,55.9533456,-3.1883749
+2026-02-16,2026-02-23,Matteo Arnaldi,85,665,Sanremo - Italy,43.8198253,7.7748827
+2026-02-16,2026-02-23,Jesper de Jong,86,665,Haarlem,52.3885317,4.6388048
+2026-02-16,2026-02-23,Vit Kopriva,87,660,Bilovec - Czech Republic,49.7567664,18.01623
+2026-02-16,2026-02-23,Aleksandar Vukic,88,656,Sydney - Australia,-33.8698439,151.2082848
+2026-02-16,2026-02-23,Cristian Garin,89,656,Santiago - Chile,-33.4377756,-70.6504502
+2026-02-16,2026-02-23,Yannick Hanfmann,90,653,Karlsruhe - Germany,49.0068705,8.4034195
+2026-02-16,2026-02-23,Ignacio Buse,91,648,Lima,-12.0459808,-77.0305912
+2026-02-16,2026-02-23,Thiago Agustin Tirante,92,647,La Plata - Argentina,-34.9206797,-57.9537638
+2026-02-16,2026-02-23,Adam Walton,93,643,Brisbane,-27.4689682,153.0234991
+2026-02-16,2026-02-23,Luca Nardi,94,629,Pesaro,43.9098114,12.9131228
+2026-02-16,2026-02-23,Christopher O'Connell,95,626,Sydney - Australia,-33.8698439,151.2082848
+2026-02-16,2026-02-23,Hugo Gaston,96,619,Toulouse - France,43.6044622,1.4442469
+2026-02-16,2026-02-23,Hamad Medjedovic,97,615,Novi Pazar - Serbia,43.1363535,20.5112273
+2026-02-16,2026-02-23,Stan Wawrinka,98,612,Lausanne - Switzerland,46.5218269,6.6327025
+2026-02-16,2026-02-23,Dalibor Svrcina,99,612,Ostrava,49.8349139,18.2820084
+2026-02-16,2026-02-23,Carlos Taberner,100,608,Valencia - Spain,39.4697065,-0.3763353
+2026-02-23,2026-03-02,Carlos Alcaraz,1,13550,El Palmar - Murcia - Spain,37.9388703,-1.1619192
+2026-02-23,2026-03-02,Jannik Sinner,2,10400,San Candido - Italy,46.7328719,12.2791673
+2026-02-23,2026-03-02,Novak Djokovic,3,5280,Belgrade - Serbia,44.8178131,20.4568974
+2026-02-23,2026-03-02,Alexander Zverev,4,4555,Hamburg - Germany,53.550341,10.000654
+2026-02-23,2026-03-02,Lorenzo Musetti,5,4405,Carrara - Italy,44.0791804,10.1023532
+2026-02-23,2026-03-02,Alex de Minaur,6,4235,Sydney - Australia,-33.8698439,151.2082848
+2026-02-23,2026-03-02,Taylor Fritz,7,4220,Rancho Santa Fe - CA - USA,33.024194949999995,-117.19815158464624
+2026-02-23,2026-03-02,Felix Auger Aliassime,8,4080,Montreal - Canada,45.5031824,-73.5698065
+2026-02-23,2026-03-02,Ben Shelton,9,4050,Atlanta - GA - USA,33.7489924,-84.3902644
+2026-02-23,2026-03-02,Alexander Bublik,10,3405,Gatchina - Russia,59.5706273,30.1305083
+2026-02-23,2026-03-02,Daniil Medvedev,11,2960,Moscow - Russia,55.7504461,37.6174943
+2026-02-23,2026-03-02,Casper Ruud,12,2665,Oslo - Norway,59.9133301,10.7389701
+2026-02-23,2026-03-02,Jakub Mensik,13,2595,Prostejov,49.4721467,17.1117979
+2026-02-23,2026-03-02,Alejandro Davidovich Fokina,14,2470,Malaga - Spain,36.7213028,-4.4216366
+2026-02-23,2026-03-02,Jack Draper,15,2460,Sutton - England,51.357464449999995,-0.17362689496950337
+2026-02-23,2026-03-02,Karen Khachanov,16,2450,Moscow - Russia,55.7504461,37.6174943
+2026-02-23,2026-03-02,Holger Rune,17,2340,Gentofte - Denmark,55.7459656,12.5510249
+2026-02-23,2026-03-02,Andrey Rublev,18,2210,Moscow - Russia,55.7504461,37.6174943
+2026-02-23,2026-03-02,Francisco Cerundolo,19,2170,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-23,2026-03-02,Flavio Cobolli,20,2030,Florence - Italy,43.7697955,11.2556404
+2026-02-23,2026-03-02,Luciano Darderi,21,1904,Villa Gesell - Argentina,-37.2556627,-56.9679411
+2026-02-23,2026-03-02,Tommy Paul,22,1815,Voorhees - NJ - USA,39.8512162,-74.9619779
+2026-02-23,2026-03-02,Jiri Lehecka,24,1760,Mlada Boleslav - Czech Republic,50.4116187,14.9031301
+2026-02-23,2026-03-02,Tallon Griekspoor,25,1655,Haarlem - Netherlands,52.383705750000004,4.643559696559635
+2026-02-23,2026-03-02,Cameron Norrie,26,1603,Johannesburg - South Africa,-26.205,28.049722
+2026-02-23,2026-03-02,Valentin Vacherot,27,1591,Monaco,43.7323492,7.4276832
+2026-02-23,2026-03-02,Frances Tiafoe,28,1590,Hyattsville - MD - USA,38.9529442,-76.9408647
+2026-02-23,2026-03-02,Brandon Nakashima,29,1535,San Diego - CA - USA,32.7174202,-117.1627728
+2026-02-23,2026-03-02,Stefanos Tsitsipas,30,1535,Athens - Greece,37.9839412,23.7283052
+2026-02-23,2026-03-02,Arthur Rinderknech,31,1530,Gassin - France,43.2291533,6.585476
+2026-02-23,2026-03-02,Tomas Machac,32,1510,Beroun - Czech Republic,49.9640292,14.0733907
+2026-02-23,2026-03-02,Tomas Martin Etcheverry,33,1470,La Plata - Argentina,-34.9206797,-57.9537638
+2026-02-23,2026-03-02,Arthur Fils,34,1440,France,46.603354,1.8883335
+2026-02-23,2026-03-02,Corentin Moutet,35,1383,Paris - France,48.8588897,2.3200410217200766
+2026-02-23,2026-03-02,Denis Shapovalov,36,1350,Tel Aviv - Israel,32.0852997,34.7818064
+2026-02-23,2026-03-02,Ugo Humbert,37,1285,Metz - France,49.1196964,6.1763552
+2026-02-23,2026-03-02,Joao Fonseca,38,1240,Rio de janeiro,-22.9110137,-43.2093727
+2026-02-23,2026-03-02,Jaume Munar,39,1235,Santanyi - Mallorca - Spain,39.3553499,3.1291638
+2026-02-23,2026-03-02,Sebastian Korda,40,1220,Bradenton - FL - USA,27.4989278,-82.5748194
+2026-02-23,2026-03-02,Gabriel Diallo,41,1175,Montreal - Canada,45.5031824,-73.5698065
+2026-02-23,2026-03-02,Alejandro Tabilo,42,1113,Toronto - Canada,43.6534817,-79.3839347
+2026-02-23,2026-03-02,Alex Michelsen,43,1110,Laguna Hills - CA - USA,33.5948758,-117.6882067
+2026-02-23,2026-03-02,Grigor Dimitrov,44,1105,Haskovo - Bulgaria,41.763101000000006,25.92562551247896
+2026-02-23,2026-03-02,Marin Cilic,45,1090,Medjugorje - Bosnia-Herzegovina,43.1905339,17.6775328
+2026-02-23,2026-03-02,Zizou Bergs,46,1080,Lommel - Belgium,51.2305657,5.3076895
+2026-02-23,2026-03-02,Alexei Popyrin,47,1050,Sydney - Australia,-33.8698439,151.2082848
+2026-02-23,2026-03-02,Nuno Borges,48,1045,Maia - Portugal,41.237345649999995,-8.629998173364326
+2026-02-23,2026-03-02,Jenson Brooksby,49,1042,Sacramento - CA - USA,38.5810606,-121.493895
+2026-02-23,2026-03-02,Fabian Marozsan,50,1040,Budapest - Hungary,47.48138955,19.14609412691246
+2026-02-23,2026-03-02,Adrian Mannarino,51,1025,Soisy-sous-Montmorency - France,48.9875044,2.3002885
+2026-02-23,2026-03-02,Sebastian Baez,52,1005,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-23,2026-03-02,Daniel Altmaier,53,961,Kempen - Germany,51.3642126,6.4195011
+2026-02-23,2026-03-02,Valentin Royer,54,935,Neuilly-sur-Seine ,48.884683,2.2695658
+2026-02-23,2026-03-02,Marton Fucsovics,55,934,Nyiregyhaza - Hungary,47.9557802,21.7167982
+2026-02-23,2026-03-02,Kamil Majchrzak,56,920,Piotrkow Trybunalski - Poland,51.412853999999996,19.6886837487098
+2026-02-23,2026-03-02,Matteo Berrettini,57,910,Rome - Italy,41.8933203,12.4829321
+2026-02-23,2026-03-02,Giovanni Mpetshi Perricard,58,905,Lyon,45.7578137,4.8320114
+2026-02-23,2026-03-02,Camilo Ugo Carabelli,59,880,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-23,2026-03-02,Damir Dzumhur,60,877,Sarajevo - Bosnia-Herzegovina,43.8519774,18.3866868
+2026-02-23,2026-03-02,Botic van de Zandschulp,61,874,Wageningen - Netherlands,51.9685817,5.668298061827958
+2026-02-23,2026-03-02,Marcos Giron,62,870,Thousand Oaks - CA - USA,34.1705609,-118.8375937
+2026-02-23,2026-03-02,Terence Atmane,63,858,Saint-Martin-Boulogne,50.7258932,1.633867
+2026-02-23,2026-03-02,Lorenzo Sonego,64,850,Turin - Italy,45.0677551,7.6824892
+2026-02-23,2026-03-02,Vit Kopriva,65,848,Bilovec - Czech Republic,49.7567664,18.01623
+2026-02-23,2026-03-02,Ignacio Buse,66,848,Lima,-12.0459808,-77.0305912
+2026-02-23,2026-03-02,Eliot Spizzirri,67,821,Greenwich. Connecticut,41.0264862,-73.6284598
+2026-02-23,2026-03-02,Quentin Halys,68,800,Bondy - France,48.9031,2.48291
+2026-02-23,2026-03-02,Reilly Opelka,69,786,St. Joseph - MI - USA,39.7686055,-94.8466322
+2026-02-23,2026-03-02,Juan Manuel Cerundolo,70,781,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-02-23,2026-03-02,Raphael Collignon,71,777,Rochester - Olmsted,44.0234387,-92.4630182
+2026-02-23,2026-03-02,Ethan Quinn,72,776,Fresno - California ,36.7394421,-119.78483
+2026-02-23,2026-03-02,Hubert Hurkacz,73,775,Wroclaw - Poland,51.1089776,17.0326689
+2026-02-23,2026-03-02,Arthur Cazaux,74,755,Montpellier - France,43.6112422,3.8767337
+2026-02-23,2026-03-02,Aleksandar Kovacevic,75,746,New York - NY - USA,40.7127281,-74.0060152
+2026-02-23,2026-03-02,Thiago Agustin Tirante,76,739,La Plata - Argentina,-34.9206797,-57.9537638
+2026-02-23,2026-03-02,Mariano Navone,77,725,9 de julio,-35.4439205,-60.8845839
+2026-02-23,2026-03-02,Alexandre Muller,78,715,Poissy - France,48.927439,2.0428293
+2026-02-23,2026-03-02,Jan Lennard Struff,80,706,Warstein - Germany,51.4458105,8.3536824
+2026-02-23,2026-03-02,Yannick Hanfmann,81,695,Karlsruhe - Germany,49.0068705,8.4034195
+2026-02-23,2026-03-02,James Duckworth,83,691,Sydney - Australia,-33.8698439,151.2082848
+2026-02-23,2026-03-02,Miomir Kecmanovic,84,685,Belgrade - Serbia,44.8178131,20.4568974
+2026-02-23,2026-03-02,Roberto Bautista Agut,85,685,Castellon de la Plana - Spain,39.9860347,-0.0377354
+2026-02-23,2026-03-02,Filip Misolic,86,671,Graz - Austria,47.0708678,15.4382786
+2026-02-23,2026-03-02,Adam Walton,87,669,Brisbane,-27.4689682,153.0234991
+2026-02-23,2026-03-02,Matteo Arnaldi,88,665,Sanremo - Italy,43.8198253,7.7748827
+2026-02-23,2026-03-02,Jesper de Jong,89,665,Haarlem,52.3885317,4.6388048
+2026-02-23,2026-03-02,Jacob Fearnley,90,662,Edinburgh,55.9533456,-3.1883749
+2026-02-23,2026-03-02,Aleksandar Vukic,91,656,Sydney - Australia,-33.8698439,151.2082848
+2026-02-23,2026-03-02,Alexander Shevchenko,92,656,Rostov-on-Don - Russia,47.2216548,39.7096061
+2026-02-23,2026-03-02,Cristian Garin,93,656,Santiago - Chile,-33.4377756,-70.6504502
+2026-02-23,2026-03-02,Alexander Blockx,94,626,Antwerp,51.2211097,4.3997081
+2026-02-23,2026-03-02,Hugo Gaston,95,619,Toulouse - France,43.6044622,1.4442469
+2026-02-23,2026-03-02,Roman Andres Burruchaga,96,617,Buenos Aires - Argentina,45.4838459,9.2147675
+2026-02-23,2026-03-02,Carlos Taberner,97,608,Valencia - Spain,39.4697065,-0.3763353
+2026-02-23,2026-03-02,Zachary Svajda,98,601,La Jolla - CA - USA,32.8458529,-117.2575702
+2026-02-23,2026-03-02,Stan Wawrinka,99,599,Lausanne - Switzerland,46.5218269,6.6327025
+2026-02-23,2026-03-02,Luca Van Assche,100,596,Woluwe St Lambert,50.8430448,4.4256732
+2026-03-02,,Carlos Alcaraz,1,13550,El Palmar - Murcia - Spain,37.9388703,-1.1619192
+2026-03-02,,Jannik Sinner,2,10400,San Candido - Italy,46.7328719,12.2791673
+2026-03-02,,Novak Djokovic,3,5280,Belgrade - Serbia,44.8178131,20.4568974
+2026-03-02,,Alexander Zverev,4,4555,Hamburg - Germany,53.550341,10.000654
+2026-03-02,,Lorenzo Musetti,5,4405,Carrara - Italy,44.0791804,10.1023532
+2026-03-02,,Alex de Minaur,6,4235,Sydney - Australia,-33.8698439,151.2082848
+2026-03-02,,Taylor Fritz,7,4220,Rancho Santa Fe - CA - USA,33.024194949999995,-117.19815158464624
+2026-03-02,,Ben Shelton,8,4010,Atlanta - GA - USA,33.7489924,-84.3902644
+2026-03-02,,Felix Auger Aliassime,9,3950,Montreal - Canada,45.5031824,-73.5698065
+2026-03-02,,Alexander Bublik,10,3405,Gatchina - Russia,59.5706273,30.1305083
+2026-03-02,,Daniil Medvedev,11,3360,Moscow - Russia,55.7504461,37.6174943
+2026-03-02,,Jakub Mensik,12,2650,Prostejov,49.4721467,17.1117979
+2026-03-02,,Casper Ruud,13,2625,Oslo - Norway,59.9133301,10.7389701
+2026-03-02,,Jack Draper,14,2510,Sutton - England,51.357464449999995,-0.17362689496950337
+2026-03-02,,Flavio Cobolli,15,2480,Florence - Italy,43.7697955,11.2556404
+2026-03-02,,Karen Khachanov,16,2450,Moscow - Russia,55.7504461,37.6174943
+2026-03-02,,Andrey Rublev,17,2400,Moscow - Russia,55.7504461,37.6174943
+2026-03-02,,Holger Rune,18,2290,Gentofte - Denmark,55.7459656,12.5510249
+2026-03-02,,Alejandro Davidovich Fokina,19,2190,Malaga - Spain,36.7213028,-4.4216366
+2026-03-02,,Francisco Cerundolo,20,2170,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-03-02,,Luciano Darderi,21,2104,Villa Gesell - Argentina,-37.2556627,-56.9679411
+2026-03-02,,Frances Tiafoe,22,1870,Hyattsville - MD - USA,38.9529442,-76.9408647
+2026-03-02,,Jiri Lehecka,23,1850,Mlada Boleslav - Czech Republic,50.4116187,14.9031301
+2026-03-02,,Tommy Paul,24,1815,Voorhees - NJ - USA,39.8512162,-74.9619779
+2026-03-02,,Tallon Griekspoor,25,1785,Haarlem - Netherlands,52.383705750000004,4.643559696559635
+2026-03-02,,Valentin Vacherot,26,1691,Monaco,43.7323492,7.4276832
+2026-03-02,,Arthur Rinderknech,28,1617,Gassin - France,43.2291533,6.585476
+2026-03-02,,Cameron Norrie,29,1603,Johannesburg - South Africa,-26.205,28.049722
+2026-03-02,,Brandon Nakashima,30,1535,San Diego - CA - USA,32.7174202,-117.1627728
+2026-03-02,,Tomas Martin Etcheverry,31,1445,La Plata - Argentina,-34.9206797,-57.9537638
+2026-03-02,,Arthur Fils,32,1440,France,46.603354,1.8883335
+2026-03-02,,Corentin Moutet,33,1383,Paris - France,48.8588897,2.3200410217200766
+2026-03-02,,Ugo Humbert,34,1285,Metz - France,49.1196964,6.1763552
+2026-03-02,,Joao Fonseca,35,1240,Rio de janeiro,-22.9110137,-43.2093727
+2026-03-02,,Jaume Munar,36,1235,Santanyi - Mallorca - Spain,39.3553499,3.1291638
+2026-03-02,,Sebastian Korda,37,1220,Bradenton - FL - USA,27.4989278,-82.5748194
+2026-03-02,,Gabriel Diallo,38,1175,Montreal - Canada,45.5031824,-73.5698065
+2026-03-02,,Denis Shapovalov,39,1160,Tel Aviv - Israel,32.0852997,34.7818064
+2026-03-02,,Alejandro Tabilo,40,1138,Toronto - Canada,43.6534817,-79.3839347
+2026-03-02,,Jenson Brooksby,41,1135,Sacramento - CA - USA,38.5810606,-121.493895
+2026-03-02,,Grigor Dimitrov,42,1105,Haskovo - Bulgaria,41.763101000000006,25.92562551247896
+2026-03-02,,Stefanos Tsitsipas,43,1085,Athens - Greece,37.9839412,23.7283052
+2026-03-02,,Alex Michelsen,44,1085,Laguna Hills - CA - USA,33.5948758,-117.6882067
+2026-03-02,,Alexei Popyrin,45,1050,Sydney - Australia,-33.8698439,151.2082848
+2026-03-02,,Fabian Marozsan,46,1040,Budapest - Hungary,47.48138955,19.14609412691246
+2026-03-02,,Zizou Bergs,47,1030,Lommel - Belgium,51.2305657,5.3076895
+2026-03-02,,Adrian Mannarino,48,1025,Soisy-sous-Montmorency - France,48.9875044,2.3002885
+2026-03-02,,Nuno Borges,49,1020,Maia - Portugal,41.237345649999995,-8.629998173364326
+2026-03-02,,Tomas Machac,50,1010,Beroun - Czech Republic,49.9640292,14.0733907
+2026-03-02,,Marin Cilic,51,990,Medjugorje - Bosnia-Herzegovina,43.1905339,17.6775328
+2026-03-02,,Terence Atmane,52,958,Saint-Martin-Boulogne,50.7258932,1.633867
+2026-03-02,,Sebastian Baez,53,940,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-03-02,,Giovanni Mpetshi Perricard,54,930,Lyon,45.7578137,4.8320114
+2026-03-02,,Daniel Altmaier,55,921,Kempen - Germany,51.3642126,6.4195011
+2026-03-02,,Marton Fucsovics,56,916,Nyiregyhaza - Hungary,47.9557802,21.7167982
+2026-03-02,,Kamil Majchrzak,57,895,Piotrkow Trybunalski - Poland,51.412853999999996,19.6886837487098
+2026-03-02,,Miomir Kecmanovic,58,875,Belgrade - Serbia,44.8178131,20.4568974
+2026-03-02,,Botic van de Zandschulp,59,873,Wageningen - Netherlands,51.9685817,5.668298061827958
+2026-03-02,,Valentin Royer,60,872,Neuilly-sur-Seine ,48.884683,2.2695658
+2026-03-02,,Lorenzo Sonego,61,850,Turin - Italy,45.0677551,7.6824892
+2026-03-02,,Vit Kopriva,62,848,Bilovec - Czech Republic,49.7567664,18.01623
+2026-03-02,,Ignacio Buse,63,848,Lima,-12.0459808,-77.0305912
+2026-03-02,,Damir Dzumhur,64,840,Sarajevo - Bosnia-Herzegovina,43.8519774,18.3866868
+2026-03-02,,Yannick Hanfmann,65,835,Karlsruhe - Germany,49.0068705,8.4034195
+2026-03-02,,Matteo Berrettini,66,820,Rome - Italy,41.8933203,12.4829321
+2026-03-02,,Camilo Ugo Carabelli,67,790,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-03-02,,Reilly Opelka,68,786,St. Joseph - MI - USA,39.7686055,-94.8466322
+2026-03-02,,Marcos Giron,69,780,Thousand Oaks - CA - USA,34.1705609,-118.8375937
+2026-03-02,,Juan Manuel Cerundolo,70,778,Buenos Aires - Argentina,-34.6075682,-58.4370894
+2026-03-02,,Hubert Hurkacz,71,775,Wroclaw - Poland,51.1089776,17.0326689
+2026-03-02,,Aleksandar Kovacevic,72,771,New York - NY - USA,40.7127281,-74.0060152
+2026-03-02,,Ethan Quinn,73,761,Fresno - California ,36.7394421,-119.78483
+2026-03-02,,Thiago Agustin Tirante,74,756,La Plata - Argentina,-34.9206797,-57.9537638
+2026-03-02,,Arthur Cazaux,76,741,Montpellier - France,43.6112422,3.8767337
+2026-03-02,,Raphael Collignon,77,733,Rochester - Olmsted,44.0234387,-92.4630182
+2026-03-02,,Eliot Spizzirri,78,731,Greenwich. Connecticut,41.0264862,-73.6284598
+2026-03-02,,Mariano Navone,79,725,9 de julio,-35.4439205,-60.8845839
+2026-03-02,,Jan Lennard Struff,80,719,Warstein - Germany,51.4458105,8.3536824
+2026-03-02,,Alexandre Muller,81,715,Poissy - France,48.927439,2.0428293
+2026-03-02,,James Duckworth,83,691,Sydney - Australia,-33.8698439,151.2082848
+2026-03-02,,Filip Misolic,84,671,Graz - Austria,47.0708678,15.4382786
+2026-03-02,,Matteo Arnaldi,85,665,Sanremo - Italy,43.8198253,7.7748827
+2026-03-02,,Jesper de Jong,86,665,Haarlem,52.3885317,4.6388048
+2026-03-02,,Jacob Fearnley,87,662,Edinburgh,55.9533456,-3.1883749
+2026-03-02,,Alexander Shevchenko,88,659,Rostov-on-Don - Russia,47.2216548,39.7096061
+2026-03-02,,Aleksandar Vukic,89,656,Sydney - Australia,-33.8698439,151.2082848
+2026-03-02,,Cristian Garin,90,656,Santiago - Chile,-33.4377756,-70.6504502
+2026-03-02,,Adam Walton,91,650,Brisbane,-27.4689682,153.0234991
+2026-03-02,,Stan Wawrinka,92,649,Lausanne - Switzerland,46.5218269,6.6327025
+2026-03-02,,Roberto Bautista Agut,93,645,Castellon de la Plana - Spain,39.9860347,-0.0377354
+2026-03-02,,Mattia Bellucci,94,640,Busto Arsizio,45.611932,8.8518269
+2026-03-02,,Patrick Kypson,95,640,Durham - NC - USA,35.996653,-78.9018053
+2026-03-02,,Hugo Gaston,96,631,Toulouse - France,43.6044622,1.4442469
+2026-03-02,,Alexander Blockx,97,626,Antwerp,51.2211097,4.3997081
+2026-03-02,,Roman Andres Burruchaga,98,617,Buenos Aires - Argentina,45.4838459,9.2147675
+2026-03-02,,Zachary Svajda,99,614,La Jolla - CA - USA,32.8458529,-117.2575702
+2026-03-02,,Carlos Taberner,100,608,Valencia - Spain,39.4697065,-0.3763353
