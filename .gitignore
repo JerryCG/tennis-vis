@@ -1,7 +1,1 @@
 venv/
-TennisVis.ipynb
-tennis_dataprocess.ipynb
-scrape_player_info.ipynb
-__pycache__/
-pages/__pycache__/
-testing_and_processing_file.ipynb
